@@ -1,15 +1,236 @@
 {
-  "id": "sample-book",
-  "book": "Sample Book",
-  "summary": "A tiny sample bank that shows the shape of questions.json.",
-  "labels": {"unit": "Lesson", "units": "lessons", "topic": "Idea"},
-  "excluded": ["cover, copyright, preface, index"],
-  "chapters": [
-    {
-      "unit": "Lesson 1",
-      "unitTitle": "Wrapping around",
-      "unitSummary": "Numbers wrap around after n steps, so only the remainder matters.",
-      "concepts": ["remainders", "congruence"]
-    }
-  ]
+ "id": "ashtanga-sangraha",
+ "book": "अष्टाङ्गसंग्रह",
+ "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha, Sūtrasthāna chapters 1–5: how Āyurveda's foundations, the student and physician, daily and seasonal regimen, and prevention of disease are set out.",
+ "labels": {
+  "unit": "Chapter",
+  "units": "chapters",
+  "topic": "Topic"
+ },
+ "excluded": [
+  {
+   "what": "Title page, contents, book title page",
+   "why": "front matter"
+  },
+  {
+   "what": "About this edition",
+   "why": "editor's note; used only for edition facts"
+  },
+  {
+   "what": "Uncertain lines appendix",
+   "why": "list of damaged lines; used only so writers avoid exact-text questions on them"
+  }
+ ],
+ "grouping": "One unit per chapter (the text numbers its lines by chapter); no grouping.",
+ "notes": "Source is a four-layer study text (Sanskrit, word-split, Hindi, English) of 698 half-verse lines; page counts are estimated from all four layers, so they overstate the root text.",
+ "chapters": [
+  {
+   "unit": "Chapter 1",
+   "unitTitle": "Āyuṣkāmīya — the wish for long life",
+   "idPrefix": "c1",
+   "unitSummary": "Opens the Saṅgraha: the lineage of Āyurveda, why Vāgbhaṭa compiled it, the doṣas, dhātus and tastes, and a list of the whole work's contents.",
+   "pages": 21.3,
+   "weight": 1.0,
+   "sections": [],
+   "topicMap": [
+    "~1.1-9 invocation and opening",
+    "~1.10-36 disease arises; Ayurveda handed down from Brahmā through the sages",
+    "~1.37-52 why and how the Saṅgraha was compiled",
+    "~1.53-95 doṣas, their qualities and places, dhātus, tastes",
+    "~1.96-139 health and disease, time and stage, and the contents of the whole work"
+   ],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions",
+    "analytical/how-to-read-philosophy/how-to-read-canonical-books"
+   ],
+   "kind": "technical-shastra",
+   "kindConfidence": "high",
+   "kindReason": "Numbered verses with definitions, classifications and rules for the physician; lists win over the frame.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0005.txt",
+    "extract/parts/0010.txt",
+    "extract/parts/0004.txt"
+   ]
+  },
+  {
+   "unit": "Chapter 2",
+   "unitTitle": "Śiṣyopanayanīya — initiating the student",
+   "idPrefix": "c2",
+   "unitSummary": "Who is fit to study, the student's conduct toward the teacher, the physician's qualities, the four limbs of treatment and the ease or difficulty of curing a disease.",
+   "pages": 14.6,
+   "weight": 1.0,
+   "sections": [],
+   "topicMap": [
+    "~2.1-20 fit student and student conduct",
+    "~2.21-35 physician's fourfold knowledge and right action",
+    "~2.36-50 whom not to treat; four limbs of treatment with four qualities each",
+    "~2.51-75 curable, difficult and incurable disease; the physician's duty and risk"
+   ],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions"
+   ],
+   "kind": "technical-shastra",
+   "kindConfidence": "high",
+   "kindReason": "Numbered verses with definitions, classifications and rules for the physician; lists win over the frame.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0006.txt",
+    "extract/parts/0010.txt",
+    "extract/parts/0004.txt"
+   ]
+  },
+  {
+   "unit": "Chapter 3",
+   "unitTitle": "Dinacaryā — the daily routine",
+   "idPrefix": "c3",
+   "unitSummary": "The healthy person's day in order: waking, cleansing, tooth-care, oils, exercise, bathing, meals, conduct, sleep, with the text's own cautions.",
+   "pages": 40.7,
+   "weight": 1.2,
+   "sections": [],
+   "topicMap": [
+    "~3.1-36 waking and morning cleansing",
+    "~3.37-72 tooth-sticks, mouth care, collyrium, nasal and other daily measures",
+    "~3.73-108 betel, conduct, travel, oil massage",
+    "~3.109-162 exercise and its limits, bathing, bathing cautions",
+    "~3.163-216 conduct and manners, meals and what to avoid",
+    "~3.217-254 twilights, evening routine, sleep, results of the routine"
+   ],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions"
+   ],
+   "kind": "technical-shastra",
+   "kindConfidence": "high",
+   "kindReason": "Numbered verses with definitions, classifications and rules for the physician; lists win over the frame.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0007.txt",
+    "extract/parts/0010.txt",
+    "extract/parts/0004.txt"
+   ]
+  },
+  {
+   "unit": "Chapter 4",
+   "unitTitle": "Ṛtucaryā — seasonal regimen",
+   "idPrefix": "c4",
+   "unitSummary": "The year divided into seasons by sun's course; for each season its character and the diet, conduct and therapies the text prescribes.",
+   "pages": 24.6,
+   "weight": 1.1,
+   "sections": [],
+   "topicMap": [
+    "~4.1-27 divisions of time, yamas, northward and southward course",
+    "~4.28-54 winter (śiśira) and its regimen",
+    "~4.55-72 spring (vasanta)",
+    "~4.64-90 summer (grīṣma)",
+    "~4.91-117 rains (varṣā)",
+    "~4.109-137 autumn (śarad), early winter and the general rule"
+   ],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions"
+   ],
+   "kind": "technical-shastra",
+   "kindConfidence": "high",
+   "kindReason": "Numbered verses with definitions, classifications and rules for the physician; lists win over the frame.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0008.txt",
+    "extract/parts/0010.txt",
+    "extract/parts/0004.txt"
+   ]
+  },
+  {
+   "unit": "Chapter 5",
+   "unitTitle": "Rogānutpādanīya — preventing disease",
+   "idPrefix": "c5",
+   "unitSummary": "Which natural urges must not be suppressed, the diseases that follow suppression and their remedies, with the seasonal purification cycle and the factors of health.",
+   "pages": 18.1,
+   "weight": 1.0,
+   "sections": [],
+   "topicMap": [
+    "~5.1-18 suppressed urges and the principle",
+    "~5.19-60 diseases from suppressing particular urges, with remedies",
+    "~5.61-78 diseases of the doṣas, treatment sequence",
+    "~5.79-93 purification by season and the conduct that prevents disease"
+   ],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions"
+   ],
+   "kind": "technical-shastra",
+   "kindConfidence": "high",
+   "kindReason": "Numbered verses with definitions, classifications and rules for the physician; lists win over the frame.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0009.txt",
+    "extract/parts/0010.txt",
+    "extract/parts/0004.txt"
+   ]
+  },
+  {
+   "unit": "Reading the book as a whole",
+   "unitTitle": "Reading the book as a whole",
+   "idPrefix": "whole",
+   "unitSummary": "The science as a whole: how the five chapters of Sūtrasthāna Part 1 fit together, in the text's order.",
+   "pages": 8,
+   "weight": 1.0,
+   "sections": [],
+   "htrab": [
+    "analytical/coming-to-terms-with-an-author/technical-words-and-special-vocabularies",
+    "analytical/coming-to-terms-with-an-author/finding-the-meanings",
+    "analytical/coming-to-terms-with-an-author/finding-the-key-words",
+    "analytical/determining-an-authors-message/finding-the-propositions"
+   ],
+   "kind": "expository",
+   "kindConfidence": "high",
+   "kindReason": "Closing unit is always expository.",
+   "alsoKind": "technical-shastra",
+   "wholeHint": "The science as a whole: its parts in the text's order and how its rules fit together.",
+   "modifiers": [
+    "sanskrit",
+    "canonical",
+    "health-content"
+   ],
+   "sourceParts": [
+    "extract/parts/0005.txt",
+    "extract/parts/0006.txt",
+    "extract/parts/0007.txt",
+    "extract/parts/0008.txt",
+    "extract/parts/0009.txt"
+   ]
+  }
+ ]
 }
