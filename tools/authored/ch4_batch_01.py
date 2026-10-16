@@ -241,7 +241,7 @@ AUTHORED["4"] = {
         mcq("discriminate", 3, "Why is निमेषः printed as निमेषो before मात्रा?",
             ("A visarga after अ before a voiced sound becomes ओ",
              "निमेषः + मात्रा = निमेषो मात्रा, since म is voiced."),
-            [("A visarga before any sound is just dropped", "Here it becomes ओ, not nothing."),
+            [("A visarga before any sound is left out", "Here it becomes ओ, not nothing."),
              ("The word निमेष is a dual form ending in ओ", "The data labels it singular, with a visarga."),
              ("A visarga before म always becomes श्", "श् stands for a visarga before च/छ.")],
             "तत्राक्षिनिमेषः + मात्रा joins as ...निमेषो मात्रा, and तत्र + अक्षि joins as तत्राक्षि.",
@@ -352,7 +352,7 @@ AUTHORED["6"] = {
              "ताः + त → तास्त."),
             [("The visarga before त becomes श्", "श् stands before च/छ, not before त."),
              ("The visarga before त becomes ष्", "ष् stands before ट/ठ."),
-             ("The visarga before त just vanishes", "It turns into स्, it does not vanish.")],
+             ("The visarga before त vanishes", "It turns into स्, it does not vanish.")],
             "Visarga + त/थ becomes स्, so ताः + त्रिंशत् = तास्त्रिंशत्.",
             "Visarga + त → स्त."),
         order(4, "Put the words in the verse's order.",
@@ -407,7 +407,7 @@ AUTHORED["7"] = {
              "विंशतिः + नाडिका: इः + न → इर् न."),
             [("After इ a visarga before a voiced sound becomes ओ", "ओ is the rule after अ, not after इ."),
              ("After इ a visarga always becomes श्", "श् stands before च/छ."),
-             ("After इ a visarga before न is just dropped", "It turns into र्; it does not vanish.")],
+             ("After इ a visarga before न is left out", "It turns into र्; it does not vanish.")],
             "The word ends in -तिः and the next word begins with the voiced न.",
             "इः + voiced sound → इर्."),
         order(4, "Put the words in the verse's order.",
@@ -868,11 +868,11 @@ AIDS = {
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "ch4b01-time-elements-2.svg",
-        "alt": "Mind map: changing great elements become the cause of birth and death, and of failings and successes of six things: season, taste, potency, doṣa, body, strength",
-        "type": "mermaid",
-        "code": ('mindmap\n  महाभूतों का परिणमन\n    जन्म और मरण\n'
-                 '    हानि और संपत्ति\n      ऋतु\n      रस\n      वीर्य\n'
-                 '      दोष\n      देह\n      बल\n'),
+        "alt": "Two columns: changing great elements become the cause of birth and death; and of failings and successes of six things: season, taste, potency, doṣa, body, strength",
+        "type": "split",
+        "title": "बदलते महाभूत बनते हैं कारण",
+        "cols": [["जन्म और मरण के", ["जन्म", "मरण"]],
+                 ["हानि और संपत्ति के", ["ऋतु", "रस", "वीर्य", "दोष", "देह", "बल"]]],
     },
     ("3", "diagram"): {
         "file": "ch4b01-twelve-parts-3.svg",
