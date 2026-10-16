@@ -1,0 +1,23 @@
+{
+  "bank_id": "ashtanga-sangraha-sutrasthana",
+  "title": "अष्टाङ्गसंग्रह — सूत्रस्थान",
+  "genre": "संस्कृत श्लोक",
+  "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha, Sūtrasthāna chapters 1 to 5, studied verse by verse: Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per verse.",
+  "scroll_buttons": true,
+  "labels": {"unit": "अध्याय", "units": "अध्याय", "topic": "विषय", "whole": "पूरा अध्याय"},
+  "data_pattern": "data/chapter{N}_verses.json",
+  "authored_dir": "tools/authored",
+  "ref_template": "अष्टाङ्गसंग्रह · सूत्रस्थान · अध्याय {chapter} · {kind} {unit}।",
+  "source_disclaimer": "पाठ: १८८८ का मराठी-मुद्रित संस्करण, खराब स्कैन से डिजिटाइज़ किया गया; कुछ पाठ अस्पष्ट या दूषित है। हिन्दी और English: AI-रचित, AI-समीक्षित; विद्वान् से जाँच शेष।",
+  "kind_labels": {"verse": "श्लोक-युग्म", "prose": "गद्य / सूची"},
+  "verse_block_labels": {"verse": "श्लोक", "prose": "मूल पाठ"},
+  "aid_labels": {"pegs": "चित्र-शब्द (मेरा बनाया चित्र)", "puns": "सुनने की सहायता (मेरी बनाई)"},
+  "metre": "anustubh",
+  "chapters": [
+    {"number": 1, "title": "आयुष्कामीय", "prefix": "as1", "unit": "अध्याय १", "summary": "Chapter 1, Āyuṣkāmīya: the invocation, the sages' request, the line of teaching from Brahmā, the aim of long life, and the plan of the whole work.", "sections": "tools/authored/sections.py:CH1"},
+    {"number": 2, "title": "शिष्योपनयनीय", "prefix": "as2", "unit": "अध्याय २", "summary": "Chapter 2, Śiṣyopanayanīya: the qualities of teacher and pupil, how the physician learns, and the four parts of treatment.", "sections": "tools/authored/sections.py:CH2"},
+    {"number": 3, "title": "दिनचर्या", "prefix": "as3", "unit": "अध्याय ३", "summary": "Chapter 3, Dinacaryā: the daily routine and conduct from waking onward.", "sections": "tools/authored/sections.py:CH3"},
+    {"number": 4, "title": "ऋतुचर्या", "prefix": "as4", "unit": "अध्याय ४", "summary": "Chapter 4, Ṛtucaryā: seasonal regimen, diet and conduct.", "sections": "tools/authored/sections.py:CH4"},
+    {"number": 5, "title": "रोगानुत्पादनीय", "prefix": "as5", "unit": "अध्याय ५", "summary": "Chapter 5, Rogānutpādanīya: not letting disease arise, and the urges that should not be held back.", "sections": "tools/authored/sections.py:CH5"}
+  ]
+}

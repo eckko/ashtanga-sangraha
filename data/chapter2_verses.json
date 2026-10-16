@@ -1,0 +1,5685 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiṣyopanayanīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "śiṣya-upanayanīyam",
+        "gloss": "concerning the pupil's initiation",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम शिष्य के उपनयन (दीक्षा) से संबंधित अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall explain the chapter on the initiation of the pupil.",
+  "text_flags": [],
+  "notes": "Standard chapter-opening formula. śiṣyopanayanīya is the chapter title (Śiṣyopanayanīya).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "2.1"
+  ],
+  "lines_deva": [
+   "अथातः शिष्योपनयनीयमध्यायं व्याख्यास्यामः ॥"
+  ],
+  "lines_iast": [
+   "athātaḥ śiṣyopanayanīyamadhyāyaṃ vyākhyāsyāmaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gururukto",
+      "words": [
+       {
+        "w": "guruḥ",
+        "gloss": "teacher",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uktaḥ",
+        "gloss": "said, declared",
+        "gram": "pp. √vac, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'bhiyukto",
+      "words": [
+       {
+        "w": "abhiyuktaḥ",
+        "gloss": "diligent, devoted",
+        "gram": "pp. abhi-√yuj, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tiyukto",
+      "words": [
+       {
+        "w": "ati-yuktaḥ",
+        "gloss": "well endowed",
+        "gram": "pp. ati-√yuj, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhīsmṛtipāṭavaiḥ",
+      "words": [
+       {
+        "w": "dhī-smṛti-pāṭavaiḥ",
+        "gloss": "with intellect, memory, skill",
+        "gram": "inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛjvāsyanāsānayanastanusnigdhatvakchaviḥ",
+      "words": [
+       {
+        "w": "ṛju-āsya-nāsā-nayanaḥ",
+        "gloss": "with straight mouth, nose, eyes",
+        "gram": "m. nom. sg., bahuvrīhi"
+       },
+       {
+        "w": "tanu-snigdha-tvak-chaviḥ",
+        "gloss": "with thin smooth skin and complexion",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुरु ऐसा कहा गया है: परिश्रमी, तथा बुद्धि, स्मृति और कुशलता से भली-भाँति संपन्न; जिसके मुख, नाक और आँखें सीधी (सुडौल) हों, और जिसकी त्वचा पतली-चिकनी तथा कांति वाली हो।",
+  "english": "The teacher is said to be diligent and richly endowed with intellect, memory and skill, with straight mouth, nose and eyes, and thin, smooth skin and complexion.",
+  "text_flags": [],
+  "notes": "Syntax of the first line is uncertain: 'guruḥ uktaḥ' as printed (the teacher has said) is read as a lead-in to the list of qualities, with the pupil understood as subject; the book's Hindi and English disagree on who is described. Alternative: 'gurūktaḥ' = 'taught by the guru'. Qualities in the verse are those of the pupil. abhiyukta 'diligent' could also be 'attached/engaged'. chavi = lustre/complexion. The unit continues into the next verse (list of qualities). Reading note: guruḥ is the grammatical subject, uktaḥ is passive ('is said to be'); the qualities may therefore describe the teacher, with the pupil introduced only by brahmacārī in the next verse.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "2.2",
+   "2.3"
+  ],
+  "lines_deva": [
+   "गुरुरुक्तो ऽभियुक्तो ऽतियुक्तो धीस्मृतिपाटवैः ॥",
+   "ऋज्वास्यनासानयनस्तनुस्निग्धत्वक्छविः ॥"
+  ],
+  "lines_iast": [
+   "gururukto 'bhiyukto 'tiyukto dhīsmṛtipāṭavaiḥ ||",
+   "ṛjvāsyanāsānayanastanusnigdhatvakchaviḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.2",
+    "note": "[hindi/eng] Hindi says the guru is endowed with intellect etc.; English says \"teacher said the student should be...\" Sanskrit gurur uktaḥ is ambiguous (likely: the disciple instructed by guru, endowed with buddhi, smṛti, pāṭava) — suggested: Rework translation after confirming reading"
+   }
+  ]
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brahmacārī",
+      "words": [
+       {
+        "w": "brahmacārī",
+        "gloss": "celibate student",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jitadvaṃdvo",
+      "words": [
+       {
+        "w": "jita-dvaṃdvaḥ",
+        "gloss": "having conquered the pairs of opposites",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dhīraḥ",
+      "words": [
+       {
+        "w": "dhīraḥ",
+        "gloss": "steadfast, wise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sucaritaḥ",
+      "words": [
+       {
+        "w": "su-caritaḥ",
+        "gloss": "of good conduct",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sthiraḥ",
+      "words": [
+       {
+        "w": "sthiraḥ",
+        "gloss": "firm",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṣaṇmāsānuṣitaḥ",
+      "words": [
+       {
+        "w": "ṣaṭ-māsa-anuṣitaḥ",
+        "gloss": "having lived (with teacher) six months",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakto",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "capable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lajjāśaucakalānvitaḥ",
+      "words": [
+       {
+        "w": "lajjā-śauca-kalā-anvitaḥ",
+        "gloss": "endowed with modesty, cleanliness, skill",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह ब्रह्मचारी हो, द्वंद्वों (सुख-दुःख जैसे जोड़ों) को जीत चुका हो, धीर, सदाचारी और स्थिर हो; छह महीने (गुरु के पास) रह चुका हो, समर्थ हो, तथा लज्जा, शुचिता और कला (कुशलता) से युक्त हो।",
+  "english": "He should be a celibate student (brahmacārin) who has overcome the pairs of opposites, steadfast, of good conduct and firm; one who has lived six months (with the teacher), capable, and endowed with modesty, cleanliness and skill (kalā).",
+  "text_flags": [],
+  "notes": "The subject 'he' is understood from the previous verse (the pupil). 'ṣaṇmāsānuṣitaḥ' could be ṣaṇ-māsān uṣitaḥ (having dwelt six months, acc. of duration) or ṣaṭ-māsa-anuṣitaḥ; same sense. 'with whom' he lived is not stated (the teacher is understood by the book). dvaṃdva: the pairs of opposites (the book glosses joy/sorrow). kalā is rendered 'skill'; 'arts' is possible. Correction: brahmacārī is the explicit subject of this unit; it need not be taken over from the previous verse.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.4",
+   "2.5"
+  ],
+  "lines_deva": [
+   "ब्रह्मचारी जितद्वंद्वो धीरः सुचरितः स्थिरः ॥",
+   "षण्मासानुषितः शक्तो लज्जाशौचकलान्वितः ॥"
+  ],
+  "lines_iast": [
+   "brahmacārī jitadvaṃdvo dhīraḥ sucaritaḥ sthiraḥ ||",
+   "ṣaṇmāsānuṣitaḥ śakto lajjāśaucakalānvitaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiṣyo'dhyāpyo",
+      "words": [
+       {
+        "w": "śiṣyaḥ",
+        "gloss": "pupil",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāpyaḥ",
+        "gloss": "to be taught",
+        "gram": "gerundive adhi-√i (caus.)"
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "pp. √gam, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāvadaṃtaṃ",
+      "words": [
+       {
+        "w": "yāvat-antam",
+        "gloss": "up to the end",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃtrārthakarmaṇāṃ",
+      "words": [
+       {
+        "w": "tantra-artha-karmaṇām",
+        "gloss": "of the treatise, its meaning, practice",
+        "gram": "gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nākālavidyutstanite",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "a-kāla-vidyut-stanite",
+        "gloss": "in untimely lightning and thunder",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūkaṃpe",
+      "words": [
+       {
+        "w": "bhū-kaṃpe",
+        "gloss": "in an earthquake",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rāhudarśane",
+      "words": [
+       {
+        "w": "rāhu-darśane",
+        "gloss": "at the sight of Rāhu",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिष्य को तब तक पढ़ाना चाहिए जब तक वह तंत्र, उसके अर्थ और कर्मों के अंत तक न पहुँच जाए। असमय बिजली चमकने और गर्जन होने पर, भूकंप में तथा राहु के दिखाई देने पर (वह अध्ययन न करे)।",
+  "english": "The pupil is to be taught until he has reached the end of the treatise, its meaning and its practices. And not (to study) when there is untimely lightning and thunder, an earthquake, or the sighting of Rāhu.",
+  "text_flags": [],
+  "notes": "Second line begins a prohibition whose verb 'paṭhet' (should recite/study) comes in the next unit; 'na' governs the locatives here and in 2.8. 'gato yāvadantam' read as 'until he has gone to the end'; alternative reading takes gataḥ as describing a pupil who has 'come' to a teacher. tantrārthakarmaṇām: the three items could also be read as one phrase 'the practices of the meaning of the treatise'. Rāhu-darśana is rendered literally; the book glosses it as an eclipse.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.6",
+   "2.7"
+  ],
+  "lines_deva": [
+   "शिष्योऽध्याप्यो गतो यावदंतं तंत्रार्थकर्मणां ॥",
+   "नाकालविद्युत्स्तनिते भूकंपे राहुदर्शने ॥"
+  ],
+  "lines_iast": [
+   "śiṣyo'dhyāpyo gato yāvadaṃtaṃ taṃtrārthakarmaṇāṃ ||",
+   "nākālavidyutstanite bhūkaṃpe rāhudarśane ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṃcadaśyāmacaṃdrāyāṃ",
+      "words": [
+       {
+        "w": "pañcadaśyām",
+        "gloss": "on the fifteenth (lunar day)",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "a-candrāyām",
+        "gloss": "when moonless",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parokṣe",
+      "words": [
+       {
+        "w": "parokṣe",
+        "gloss": "in the absence",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guroḥ",
+      "words": [
+       {
+        "w": "guroḥ",
+        "gloss": "of the teacher",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṭhet",
+      "words": [
+       {
+        "w": "paṭhet",
+        "gloss": "should recite",
+        "gram": "3 sg. opt. √paṭh"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāvicchinnapadaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "a-vicchinna-padam",
+        "gloss": "with unbroken words",
+        "gram": "adv., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "nātimaṃdaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-mandam",
+        "gloss": "too slowly",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "nātyuccanīcakaiḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-ucca-nīcakaiḥ",
+        "gloss": "with too high or too low (tones)",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पंद्रहवीं तिथि को जब चंद्रमा न हो, अथवा गुरु की अनुपस्थिति में वह पाठ न करे। वह न अविच्छिन्न (बिना टूटे) पदों के साथ, न बहुत धीमे और न बहुत ऊँचे या बहुत नीचे स्वरों में पढ़े।",
+  "english": "(Nor) should he recite on the fifteenth (lunar day), when the moon is absent, or in the absence of the teacher; and not with unbroken words, not too slowly, and not with tones that are too high or too low.",
+  "text_flags": [
+   {
+    "src": "nāvicchinnapadaṃ",
+    "suggest": "na vicchinnapadaṃ",
+    "why": "possible: na vicchinna-padam (not with broken words); the printed a-vicchinna sits oddly beside the other faults; no reading adopted"
+   }
+  ],
+  "notes": "Verb 'paṭhet' completes the prohibition begun in the previous unit (na ... paṭhet). pañcadaśī + acandrā: the fifteenth tithi with no moon (taken as new-moon day by the book); the text itself does not say 'new moon'. 'avicchinnapadam' is literally 'with unbroken words', which sits oddly beside the other faults; the intended sense may be 'with words cut off/broken' (na vicchinnapadam); possible textual issue, not changed. 'nīcakaiḥ' is read as the instrumental of a -ka form of nīca/nīcaiḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.8",
+   "2.9"
+  ],
+  "lines_deva": [
+   "पंचदश्यामचंद्रायां परोक्षे वा गुरोः पठेत् ॥",
+   "नाविच्छिन्नपदं नातिमंदं नात्युच्चनीचकैः ॥"
+  ],
+  "lines_iast": [
+   "paṃcadaśyāmacaṃdrāyāṃ parokṣe vā guroḥ paṭhet ||",
+   "nāvicchinnapadaṃ nātimaṃdaṃ nātyuccanīcakaiḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.8",
+    "note": "[eng] पंचदश्याम् glossed \"new moon day\" while अचंद्रायाम् is the moonless one; पंचदशी can be full or new moon — suggested: \"on the 15th tithi and on a moonless night\""
+   }
+  ]
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hitānyatamamācāryaṃ",
+      "words": [
+       {
+        "w": "hita-anyatamam",
+        "gloss": "one among the well-wishers",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ācāryam",
+        "gloss": "teacher",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paryupāsīta",
+      "words": [
+       {
+        "w": "paryupāsīta",
+        "gloss": "should attend upon",
+        "gram": "3 sg. opt. ātm. pari-upa-√ās"
+       }
+      ]
+     },
+     {
+      "src": "rājavat",
+      "words": [
+       {
+        "w": "rāja-vat",
+        "gloss": "like a king",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śayīta",
+      "words": [
+       {
+        "w": "śayīta",
+        "gloss": "should lie down",
+        "gram": "3 sg. opt. ātm. √śī"
+       }
+      ]
+     },
+     {
+      "src": "supta",
+      "words": [
+       {
+        "w": "supte",
+        "gloss": "when asleep",
+        "gram": "loc. abs. pp. √svap"
+       }
+      ]
+     },
+     {
+      "src": "evāsminnuttiṣṭhetāsya",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "him",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "uttiṣṭheta",
+        "gloss": "should rise",
+        "gram": "3 sg. opt. ātm. ut-√sthā"
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvataḥ",
+      "words": [
+       {
+        "w": "pūrvataḥ",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह अपने हितैषियों में से एक आचार्य की राजा के समान सेवा करे। आचार्य के सो जाने पर ही वह सोए और उनसे पहले उठे।",
+  "english": "He should wait upon the teacher, one of his well-wishers, as upon a king. He should lie down only when the teacher has fallen asleep, and rise before him.",
+  "text_flags": [],
+  "notes": "'hitānyatamam' is uncertain: read hita-anyatamam 'one among the well-wishers' (the book's split 'hitān yatamam' is not a valid word division); the sense could be 'the foremost/chosen one among well-wishers'. 'supta eva' is read as supte eva (sandhi e+e/a: supte + eva -> supta eva) giving a locative absolute 'asmin supte' (him being asleep); the book split has suptaḥ, which gives the same sense. 'rājavat' = like a king (treating him with a king's honour).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.10",
+   "2.11"
+  ],
+  "lines_deva": [
+   "हितान्यतममाचार्यं पर्युपासीत राजवत् ॥",
+   "शयीत सुप्त एवास्मिन्नुत्तिष्ठेतास्य पूर्वतः ॥"
+  ],
+  "lines_iast": [
+   "hitānyatamamācāryaṃ paryupāsīta rājavat ||",
+   "śayīta supta evāsminnuttiṣṭhetāsya pūrvataḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.10",
+    "note": "[split/src] \"हितान् यतमम्\" is not a valid split; हितान्यतममाचार्यं unclear — suggested: हित अन्यतमम् आचार्यम् (\"the foremost among well-wishers, the teacher\")"
+   }
+  ]
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brūyātkevalaṃ",
+      "words": [
+       {
+        "w": "brūyāt",
+        "gloss": "should say",
+        "gram": "3 sg. opt. √brū"
+       },
+       {
+        "w": "kevalam",
+        "gloss": "alone, bare",
+        "gram": "adj. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "name",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhvapi",
+      "words": [
+       {
+        "w": "sādhu",
+        "gloss": "well, properly",
+        "gram": "adv."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinodayet",
+      "words": [
+       {
+        "w": "vinodayet",
+        "gloss": "should amuse, make sport",
+        "gram": "3 sg. opt. caus. vi-√nud"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "abhedyo'nuddhataḥ",
+      "words": [
+       {
+        "w": "abhedyaḥ",
+        "gloss": "unshakable, not to be divided",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anuddhataḥ",
+        "gloss": "not arrogant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stabdhaḥ",
+      "words": [
+       {
+        "w": "a-stabdhaḥ",
+        "gloss": "not stiff, not haughty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūnṛtaḥ",
+      "words": [
+       {
+        "w": "sūnṛtaḥ",
+        "gloss": "truthful and pleasant in speech",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "priyadarśanaḥ",
+      "words": [
+       {
+        "w": "priya-darśanaḥ",
+        "gloss": "pleasant to look at",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह (गुरु का) केवल नाम न ले, और भले ढंग से भी हँसी-विनोद न करे। वह अटूट (निष्ठावान), अनुद्धत, कठोरता से रहित, सत्य और प्रिय बोलने वाला तथा देखने में प्रिय हो।",
+  "english": "He should not utter (the teacher's) bare name, nor make sport even in a seemly way. He should be unshakable, not arrogant, not stiff (reading astabdhaḥ), truthful and pleasant in speech, and pleasant to look at.",
+  "text_flags": [
+   {
+    "src": "stabdhaḥ",
+    "suggest": "'stabdhaḥ (astabdhaḥ)",
+    "why": "Likely: stabdha 'stiff, haughty' contradicts anuddhataḥ and the list of virtues; avagraha apparently lost: anuddhato 'stabdhaḥ = anuddhataḥ astabdhaḥ."
+   }
+  ],
+  "notes": "Line 1: the object of 'vinodayet' is not stated; 'na sādhv api' could also be 'nor (does) a good person (amuse)' or 'not even properly'; the book takes it as the teacher being made fun of, which is followed loosely. Subject is the pupil. 'abhedyaḥ' = not to be broken/swayed (steadfast/loyal). Line 2 is translated with the suggested 'astabdhaḥ'; if 'stabdhaḥ' is kept the sense would be 'stiff', which does not fit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.12",
+   "2.13"
+  ],
+  "lines_deva": [
+   "न ब्रूयात्केवलं नाम न साध्वपि विनोदयेत् ॥",
+   "अभेद्योऽनुद्धतः स्तब्धः सूनृतः प्रियदर्शनः ॥"
+  ],
+  "lines_iast": [
+   "na brūyātkevalaṃ nāma na sādhvapi vinodayet ||",
+   "abhedyo'nuddhataḥ stabdhaḥ sūnṛtaḥ priyadarśanaḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.12",
+    "note": "[hindi/eng] Hindi (revere good people / not mock them) and English (not mock him, the teacher) disagree on object; साधु अपि may be adverbial — suggested: \"nor amuse himself (with the teacher) even in a good way\""
+   },
+   {
+    "line": "2.13",
+    "note": "[src] स्तब्धः (arrogant/stiff) contradicts the list of virtues; likely अस्तब्धः (अनुद्धतोऽस्तब्धः); English \"gentle\" and Hindi \"अडिग\" follow the wrong reading — suggested: अभेद्योऽनुद्धतोऽस्तब्धः"
+   }
+  ]
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bahuśrutaḥ",
+      "words": [
+       {
+        "w": "bahu-śrutaḥ",
+        "gloss": "much learned",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kālavedī",
+      "words": [
+       {
+        "w": "kāla-vedī",
+        "gloss": "knowing the (right) time",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "jñātagraṃtho",
+      "words": [
+       {
+        "w": "jñāta-granthaḥ",
+        "gloss": "having known the texts",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "'rthaśāstravit",
+      "words": [
+       {
+        "w": "artha-śāstra-vit",
+        "gloss": "knowing the meaning of the treatises",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anāthān",
+      "words": [
+       {
+        "w": "anāthān",
+        "gloss": "helpless",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rogiṇo",
+      "words": [
+       {
+        "w": "rogiṇaḥ",
+        "gloss": "sick",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaśca",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "putravatsamupācaret",
+      "words": [
+       {
+        "w": "putra-vat",
+        "gloss": "like a son",
+        "gram": "ind."
+       },
+       {
+        "w": "samupācaret",
+        "gloss": "should attend upon",
+        "gram": "3 sg. opt. sam-upa-ā-√car"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो बहुश्रुत हो, समय को जानने वाला हो, ग्रंथों का जानकार हो और शास्त्रों के अर्थ को जानता हो, और जो असहाय तथा रोगियों की पुत्र के समान सेवा-उपचार करे।",
+  "english": "(He should be) much learned, aware of the right time, familiar with the texts, knowing the meaning of the treatises; and one who tends the helpless and the sick as he would a son.",
+  "text_flags": [],
+  "notes": "Qualities continue the list of the physician-pupil. 'arthaśāstravit': alternatively 'knowing the Arthaśāstra (science of material welfare/polity)'; the book's 'meaning of treatises' is followed. 'kālavedī' may mean knowing the time for treatment or the seasons; kept literal.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.14",
+   "2.15"
+  ],
+  "lines_deva": [
+   "बहुश्रुतः कालवेदी ज्ञातग्रंथो ऽर्थशास्त्रवित् ॥",
+   "अनाथान् रोगिणो यश्च पुत्रवत्समुपाचरेत् ॥"
+  ],
+  "lines_iast": [
+   "bahuśrutaḥ kālavedī jñātagraṃtho 'rthaśāstravit ||",
+   "anāthān rogiṇo yaśca putravatsamupācaret ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guruṇā",
+      "words": [
+       {
+        "w": "guruṇā",
+        "gloss": "by the teacher",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samanujñātaḥ",
+      "words": [
+       {
+        "w": "samanujñātaḥ",
+        "gloss": "permitted, authorised",
+        "gram": "pp. sam-anu-√jñā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣakśabdamaśnute",
+      "words": [
+       {
+        "w": "bhiṣak-śabdam",
+        "gloss": "the word 'physician'",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "aśnute",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ātm. √aś"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yastu",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kevalaśāstrajñaḥ",
+      "words": [
+       {
+        "w": "kevala-śāstra-jñaḥ",
+        "gloss": "knowing only the treatise",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "karmasvapariniṣṭhitaḥ",
+      "words": [
+       {
+        "w": "karmasu",
+        "gloss": "in practical work",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "a-pariniṣṭhitaḥ",
+        "gloss": "not well established",
+        "gram": "pp. pari-ni-√sthā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह गुरु से अनुमति पाकर 'भिषक्' (वैद्य) शब्द को प्राप्त करता है। परंतु जो केवल शास्त्र को जानता है और कर्मों (व्यावहारिक कार्यों) में निपुण नहीं है, ...",
+  "english": "Authorised by the teacher, he obtains the name of 'physician' (bhiṣak). But he who knows only the treatise and is not well established in practical work ...",
+  "text_flags": [],
+  "notes": "The sentence continues into the next unit ('sa muhyati ...'). 'bhiṣakśabdam' = the designation 'bhiṣak'. 'karman' = practical work/procedures.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.16",
+   "2.17"
+  ],
+  "lines_deva": [
+   "गुरुणा समनुज्ञातः स भिषक्शब्दमश्नुते ॥",
+   "यस्तु केवलशास्त्रज्ञः कर्मस्वपरिनिष्ठितः ॥"
+  ],
+  "lines_iast": [
+   "guruṇā samanujñātaḥ sa bhiṣakśabdamaśnute ||",
+   "yastu kevalaśāstrajñaḥ karmasvapariniṣṭhitaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "muhyatyāturaṃ",
+      "words": [
+       {
+        "w": "muhyati",
+        "gloss": "becomes bewildered",
+        "gram": "3 sg. pres. √muh"
+       },
+       {
+        "w": "āturam",
+        "gloss": "patient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "having reached",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "having reached (each time)",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "bhīrurivāhavaṃ",
+      "words": [
+       {
+        "w": "bhīruḥ",
+        "gloss": "timid man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "āhavam",
+        "gloss": "battle",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, on the other hand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurute",
+      "words": [
+       {
+        "w": "kurute",
+        "gloss": "does",
+        "gram": "3 sg. pres. ātm. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action, practice",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhārṣṭyācchāstravivarjitaḥ",
+      "words": [
+       {
+        "w": "dhārṣṭyāt",
+        "gloss": "from boldness",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "śāstra-vivarjitaḥ",
+        "gloss": "devoid of the treatise",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह रोगी के पास पहुँचते-पहुँचते (हर बार) घबरा जाता है, जैसे डरपोक मनुष्य युद्ध में पहुँचकर घबराता है। और जो शास्त्र से रहित होकर ढिठाई से कर्म करता है, ...",
+  "english": "Each time he reaches a patient he becomes bewildered, like a timid man on reaching a battle. And he who, devoid of the treatise, acts out of boldness (audacity) ...",
+  "text_flags": [],
+  "notes": "The sentence is continued in the next unit ('sa satsu garhām āpnoti ...'). 'prāpya prāpya' is a repetition meaning 'every time he reaches'. dhārṣṭya = boldness/audacity (rashness).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.18",
+   "2.19"
+  ],
+  "lines_deva": [
+   "स मुह्यत्यातुरं प्राप्य प्राप्य भीरुरिवाहवं ॥",
+   "यः पुनः कुरुते कर्म धार्ष्ट्याच्छास्त्रविवर्जितः ॥"
+  ],
+  "lines_iast": [
+   "sa muhyatyāturaṃ prāpya prāpya bhīrurivāhavaṃ ||",
+   "yaḥ punaḥ kurute karma dhārṣṭyācchāstravivarjitaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satsu",
+      "words": [
+       {
+        "w": "satsu",
+        "gloss": "among the good",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "garhāmāpnoti",
+      "words": [
+       {
+        "w": "garhām",
+        "gloss": "blame",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpnoti",
+        "gloss": "incurs",
+        "gram": "3 sg. pres. √āp"
+       }
+      ]
+     },
+     {
+      "src": "vadhaṃ",
+      "words": [
+       {
+        "w": "vadham",
+        "gloss": "killing, punishment",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caicchaṃti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛcchati",
+        "gloss": "meets with",
+        "gram": "3 sg. pres. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "rājataḥ",
+      "words": [
+       {
+        "w": "rājataḥ",
+        "gloss": "from the king",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hetau",
+      "words": [
+       {
+        "w": "hetau",
+        "gloss": "in the cause",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "liṃge",
+      "words": [
+       {
+        "w": "liṅge",
+        "gloss": "in the sign",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśamane",
+      "words": [
+       {
+        "w": "praśamane",
+        "gloss": "in the alleviation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogāṇāmapunarbhave",
+      "words": [
+       {
+        "w": "rogāṇām",
+        "gloss": "of diseases",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "a-punarbhave",
+        "gloss": "in non-recurrence",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह सज्जनों के बीच निंदा पाता है और राजा की ओर से वध (मृत्युदंड) को प्राप्त होता है। (जिसे) रोगों के हेतु, लक्षण, शमन तथा पुनः न होने के विषय में (...)",
+  "english": "He incurs blame among good people and meets with death (punishment) from the king. (He who has knowledge) of the cause, the sign, the alleviation and the non-recurrence of diseases ...",
+  "text_flags": [
+   {
+    "src": "caicchaṃti",
+    "suggest": "cārcchati (ca ṛcchati)",
+    "why": "Possible: 'caicchaṃti' is plural and 'ca+icch-' would give 'cecch-', not 'caicch-'; subject is singular 'saḥ'. Reading 'vadhaṃ ca ṛcchati' (carcchati) fits the sense; 'vadhaṃ cārhati' (deserves punishment) is another candidate."
+   }
+  ],
+  "notes": "Line 1 is the conclusion of the previous sentence (the physician who acts without treatise). The word 'caicchaṃti' is doubtful; the translation follows 'ca ṛcchati' (meets with); alternative 'cārhati' would be 'deserves execution/punishment'. 'vadha' = killing/capital punishment or blows. Line 2 begins a new sentence completed in the next unit (jñānaṃ caturvidhaṃ yasya ...): 'in the cause, sign, alleviation and non-recurrence of diseases'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "2.20",
+   "2.21"
+  ],
+  "lines_deva": [
+   "स सत्सु गर्हामाप्नोति वधं चैच्छंति राजतः ॥",
+   "हेतौ लिंगे प्रशमने रोगाणामपुनर्भवे ॥"
+  ],
+  "lines_iast": [
+   "sa satsu garhāmāpnoti vadhaṃ caicchaṃti rājataḥ ||",
+   "hetau liṃge praśamane rogāṇāmapunarbhave ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.20",
+    "note": "[src/split] \"चैच्छंति\" is plural and \"चै\" is not valid sandhi (च+इच्छति = चेच्छति); subject is singular — suggested: वधं चेच्छति / वधं चार्छति राजतः"
+   }
+  ]
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jñānaṃ",
+      "words": [
+       {
+        "w": "jñānam",
+        "gloss": "knowledge",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturvidhaṃ",
+      "words": [
+       {
+        "w": "catur-vidham",
+        "gloss": "fourfold",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājārho",
+      "words": [
+       {
+        "w": "rāja-arhaḥ",
+        "gloss": "worthy of a king",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhiṣaktamaḥ",
+      "words": [
+       {
+        "w": "bhiṣaj-tamaḥ",
+        "gloss": "best physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śastraṃ",
+      "words": [
+       {
+        "w": "śastram",
+        "gloss": "weapon",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāstrāṇi",
+      "words": [
+       {
+        "w": "śāstrāṇi",
+        "gloss": "treatises",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "salilaṃ",
+      "words": [
+       {
+        "w": "salilam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guṇadoṣapravṛttaye",
+      "words": [
+       {
+        "w": "guṇa-doṣa-pravṛttaye",
+        "gloss": "for the arising of merit and fault",
+        "gram": "f. dat. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका ज्ञान चार प्रकार का है (हेतु, लक्षण, शमन, अपुनर्भव के विषय में), वह श्रेष्ठ वैद्य राजा के योग्य है। शस्त्र, शास्त्र और जल गुण तथा दोष की प्रवृत्ति (उत्पत्ति) के लिए होते हैं ...",
+  "english": "He whose knowledge is fourfold is the best of physicians, worthy of a king. A weapon, treatises and water lead to the arising of merit and of fault ...",
+  "text_flags": [],
+  "notes": "Line 1 completes the sentence begun in the previous unit (the fourfold knowledge = cause, sign, alleviation, non-recurrence). Line 2 continues into the next unit (pātrāśrayīṇi ataḥ: they depend on the vessel/user). 'guṇadoṣapravṛttaye' = for the occurrence of good and bad results.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.22",
+   "2.23"
+  ],
+  "lines_deva": [
+   "ज्ञानं चतुर्विधं यस्य स राजार्हो भिषक्तमः ॥",
+   "शस्त्रं शास्त्राणि सलिलं गुणदोषप्रवृत्तये ॥"
+  ],
+  "lines_iast": [
+   "jñānaṃ caturvidhaṃ yasya sa rājārho bhiṣaktamaḥ ||",
+   "śastraṃ śāstrāṇi salilaṃ guṇadoṣapravṛttaye ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pātrāśrakṣīṇyataḥ",
+      "words": [
+       {
+        "w": "pātra-āśrayīṇi",
+        "gloss": "depending on the vessel (user)",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prajñāṃ",
+      "words": [
+       {
+        "w": "prajñām",
+        "gloss": "intellect",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhuśrutyena",
+      "words": [
+       {
+        "w": "bāhuśrutyena",
+        "gloss": "by wide learning",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhayet",
+      "words": [
+       {
+        "w": "bṛṃhayet",
+        "gloss": "should strengthen",
+        "gram": "3 sg. opt. caus. √bṛṃh"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pradīpabhūtaṃ",
+      "words": [
+       {
+        "w": "pradīpa-bhūtam",
+        "gloss": "being like a lamp",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śāstraṃ",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "treatise",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "darśanaṃ",
+      "words": [
+       {
+        "w": "darśanam",
+        "gloss": "sight",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipulā",
+      "words": [
+       {
+        "w": "vipulā",
+        "gloss": "wide",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matiḥ",
+      "words": [
+       {
+        "w": "matiḥ",
+        "gloss": "intellect",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(ये) पात्र पर आश्रित हैं; अतः (मनुष्य) बहुश्रुतता (विस्तृत अध्ययन) से अपनी प्रज्ञा को बढ़ाए। शास्त्र दीपक के समान है और विशाल बुद्धि दृष्टि है।",
+  "english": "These depend on the vessel (the user); therefore one should strengthen one's intellect through wide learning. The treatise is indeed like a lamp, and a wide intellect is the sight.",
+  "text_flags": [
+   {
+    "src": "pātrāśrakṣīṇyataḥ",
+    "suggest": "pātrāśrayīṇyataḥ",
+    "why": "Possible: 'śrakṣī' is not a word; pātra-āśrayīṇi 'depending on the vessel' fits the preceding line (weapon, treatises, water depend on the user)."
+   }
+  ],
+  "notes": "First word is garbled; the suggested reading is conjectural (the book's split 'pātra āśraya kṣīṇi' is not a valid word). 'bāhuśrutya' (from bahuśruta) = wide learning. The two metaphors: treatise = lamp, wide intellect = eye/sight.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "2.24",
+   "2.25"
+  ],
+  "lines_deva": [
+   "पात्राश्रक्षीण्यतः प्रज्ञां बाहुश्रुत्येन बृंहयेत् ॥",
+   "प्रदीपभूतं शास्त्रं हि दर्शनं विपुला मतिः ॥"
+  ],
+  "lines_iast": [
+   "pātrāśrakṣīṇyataḥ prajñāṃ bāhuśrutyena bṛṃhayet ||",
+   "pradīpabhūtaṃ śāstraṃ hi darśanaṃ vipulā matiḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.24",
+    "note": "[src/split] पात्राश्रक्षीण्यतः garbled; split \"पात्र आश्रय क्षीणि\" non-word — suggested: पात्रापेक्षीण्यतः or पात्राश्रयीण्यतः"
+   }
+  ]
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tābhyāmataḥ",
+      "words": [
+       {
+        "w": "tābhyām",
+        "gloss": "by these two",
+        "gram": "inst. du. (all genders)"
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suyuktābhyāṃ",
+      "words": [
+       {
+        "w": "su-yuktābhyām",
+        "gloss": "well applied",
+        "gram": "inst. du. (all genders)"
+       }
+      ]
+     },
+     {
+      "src": "cikitsannāparādhyati",
+      "words": [
+       {
+        "w": "cikitsan",
+        "gloss": "treating",
+        "gram": "pres. part. desid. √kit"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "aparādhyati",
+        "gloss": "errs",
+        "gram": "3 sg. pres. apa-√rādh"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āhūtaeva",
+      "words": [
+       {
+        "w": "āhūtaḥ",
+        "gloss": "called",
+        "gram": "pp. ā-√hve, m. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "suveṣaḥ",
+      "words": [
+       {
+        "w": "su-veṣaḥ",
+        "gloss": "well dressed",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sunimittataḥ",
+      "words": [
+       {
+        "w": "su-nimittataḥ",
+        "gloss": "on good omens",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए इन दोनों (शास्त्र और बुद्धि) का भली-भाँति प्रयोग करके चिकित्सा करता हुआ वह अपराध (भूल) नहीं करता। जो बुलाए जाने पर ही जाता है, सुंदर वेश वाला होकर और शुभ शकुनों को देखकर, ...",
+  "english": "Therefore, treating with these two well applied, he does not err. He who goes only when called, well dressed, and on good omens, ...",
+  "text_flags": [],
+  "notes": "'tābhyām' refers to the two just named (treatise and intellect, lamp and sight). Line 2 starts a relative clause ('yaḥ ... yāti') completed over the next units and finishing with 'sa vaidyaḥ siddhim aśnute' (2.33). 'sunimittataḥ' = with/after good omens (literal sense; the book glosses auspicious signs).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.26",
+   "2.27"
+  ],
+  "lines_deva": [
+   "ताभ्यामतः सुयुक्ताभ्यां चिकित्सन्नापराध्यति ॥",
+   "आहूतएव यो याति सुवेषः सुनिमित्ततः ॥"
+  ],
+  "lines_iast": [
+   "tābhyāmataḥ suyuktābhyāṃ cikitsannāparādhyati ||",
+   "āhūtaeva yo yāti suveṣaḥ sunimittataḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gatvā",
+      "words": [
+       {
+        "w": "gatvā",
+        "gloss": "having gone",
+        "gram": "abs. √gam"
+       }
+      ]
+     },
+     {
+      "src": "''turārthādanyatra",
+      "words": [
+       {
+        "w": "ātura-arthāt",
+        "gloss": "than the patient's concern",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "anyatra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nidhatte",
+      "words": [
+       {
+        "w": "nidhatte",
+        "gloss": "places",
+        "gram": "3 sg. pres. ātm. ni-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "manaḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kacit",
+      "words": [
+       {
+        "w": "kvacit",
+        "gloss": "anywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyādhīnparīkṣate",
+      "words": [
+       {
+        "w": "vyādhīn",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "parīkṣate",
+        "gloss": "examines",
+        "gram": "3 sg. pres. ātm. pari-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "samyagnidānādiviśeṣataḥ",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "nidāna-ādi-viśeṣataḥ",
+        "gloss": "by the particulars beginning with the cause",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वहाँ जाकर वह रोगी के प्रयोजन के अतिरिक्त कहीं और अपना मन नहीं लगाता। वह निदान आदि विशेष बातों के द्वारा रोगों की भली-भाँति परीक्षा करता है।",
+  "english": "And having gone, he sets his mind nowhere other than on the patient's concern. He examines the diseases properly, through the particulars beginning with the cause (nidāna).",
+  "text_flags": [
+   {
+    "src": "kacit",
+    "suggest": "kvacit",
+    "why": "'kacit' is not a Sanskrit word; kvacit 'anywhere' is intended (va dropped)."
+   }
+  ],
+  "notes": "The double apostrophe in 'gatvā ''turārthāt' is the printed avagraha-like mark for the elided initial ā of 'ātura'. Continues the relative clause begun in 2.26-27 (yaḥ yāti ...). 'nidānādi' = nidāna (cause) and the other items that follow in the standard list; the text itself only says 'beginning with nidāna'. 'ātura-artha' = the patient's concern/need.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.28",
+   "2.29"
+  ],
+  "lines_deva": [
+   "गत्वा ऽऽतुरार्थादन्यत्र न निधत्ते मनः कचित् ॥",
+   "व्याधीन्परीक्षते सम्यग्निदानादिविशेषतः ॥"
+  ],
+  "lines_iast": [
+   "gatvā ''turārthādanyatra na nidhatte manaḥ kacit ||",
+   "vyādhīnparīkṣate samyagnidānādiviśeṣataḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gopanīyāṃ",
+      "words": [
+       {
+        "w": "gopanīyām",
+        "gloss": "to be kept secret",
+        "gram": "gerundive √gup, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadvārttāṃ",
+      "words": [
+       {
+        "w": "tad-vārttām",
+        "gloss": "his report",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakāśayate",
+      "words": [
+       {
+        "w": "prakāśayate",
+        "gloss": "makes known",
+        "gram": "3 sg. pres. caus. ātm. pra-√kāś"
+       }
+      ]
+     },
+     {
+      "src": "bahiḥ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "abruptly, rashly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasyā'pi",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kriyākālamahāpayan",
+      "words": [
+       {
+        "w": "kriyā-kālam",
+        "gloss": "time of treatment",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "a-hāpayan",
+        "gloss": "not letting pass",
+        "gram": "pres. part. caus. √hā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उस (रोगी) के गोपनीय समाचार को वह बाहर प्रकट नहीं करता। और उस (रोगी) के भी चिकित्सा-काल को वह अचानक (बिना विचारे) नहीं निकल जाने देता।",
+  "english": "And he does not make known outside the report about him that is to be kept secret. Nor, rashly, does he let the time of treatment of him also slip by.",
+  "text_flags": [],
+  "notes": "Continues the relative clause (yaḥ yāti ...). 'tad' = that patient. Line 2 is hard: 'sahasā na ca tasyāpi' is read as 'and not abruptly, even of him'; the object is 'kriyākālam ahāpayan' (not letting the treatment time pass). 'tasyā'pi' could also be 'tasyāḥ api' (of it, i.e. the treatment); the book's rendering is followed loosely. 'gopanīyām' agrees with 'vārttām' (secret news).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.30",
+   "2.31"
+  ],
+  "lines_deva": [
+   "गोपनीयां च तद्वार्त्तां न प्रकाशयते बहिः ॥",
+   "सहसा न च तस्याऽपि क्रियाकालमहापयन् ॥"
+  ],
+  "lines_iast": [
+   "gopanīyāṃ ca tadvārttāṃ na prakāśayate bahiḥ ||",
+   "sahasā na ca tasyā'pi kriyākālamahāpayan ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jānāti",
+      "words": [
+       {
+        "w": "jānāti",
+        "gloss": "knows",
+        "gram": "3 sg. pres. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "copacarituṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upacaritum",
+        "gloss": "to attend, to treat",
+        "gram": "inf. upa-√car"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaidyaḥ",
+      "words": [
+       {
+        "w": "vaidyaḥ",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhimaśnute",
+      "words": [
+       {
+        "w": "siddhim",
+        "gloss": "success",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "aśnute",
+        "gloss": "attains",
+        "gram": "3 sg. pres. ātm. √aś"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nādadītāmiṣaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ādadīta",
+        "gloss": "should take",
+        "gram": "3 sg. opt. ātm. ā-√dā"
+       },
+       {
+        "w": "āmiṣam",
+        "gloss": "gift (lit. flesh, lure)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "strībhyastadadhyakṣe",
+      "words": [
+       {
+        "w": "strībhyaḥ",
+        "gloss": "from women",
+        "gram": "f. abl. pl."
+       },
+       {
+        "w": "tad-adhyakṣe",
+        "gloss": "when their master is",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "parāṅmukhe",
+      "words": [
+       {
+        "w": "parāṅmukhe",
+        "gloss": "turned away",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो उपचार करना जानता है, वह वैद्य सिद्धि (सफलता) प्राप्त करता है। वह स्त्रियों से, उनके स्वामी (संरक्षक) के विमुख (अनुपस्थित) होने पर, कोई भेंट (आमिष) न ले।",
+  "english": "And that physician who knows how to treat attains success. He should not take a gift (āmiṣa) from women when their master (guardian) is turned away.",
+  "text_flags": [],
+  "notes": "Line 1 completes the long relative sentence started at 2.26 (yaḥ ... sa vaidyaḥ siddhim aśnute). Line 2 begins a new rule. 'āmiṣa' literally flesh/lure; here 'something desirable, a gift'. 'tadadhyakṣe parāṅmukhe' read as locative absolute 'their lord being turned away' (absent or unwilling); the book's 'absent/away' is one possibility.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.32",
+   "2.33"
+  ],
+  "lines_deva": [
+   "जानाति चोपचरितुं स वैद्यः सिद्धिमश्नुते ॥",
+   "नाददीतामिषं स्त्रीभ्यस्तदध्यक्षे पराङ्मुखे ॥"
+  ],
+  "lines_iast": [
+   "jānāti copacarituṃ sa vaidyaḥ siddhimaśnute ||",
+   "nādadītāmiṣaṃ strībhyastadadhyakṣe parāṅmukhe ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nārībhiśca",
+      "words": [
+       {
+        "w": "nārībhiḥ",
+        "gloss": "with women",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rahasi",
+      "words": [
+       {
+        "w": "rahasi",
+        "gloss": "in private",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthānaṃ",
+      "words": [
+       {
+        "w": "sthānam",
+        "gloss": "staying",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parihāsaṃ",
+      "words": [
+       {
+        "w": "parihāsam",
+        "gloss": "joking",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ārttaṃ",
+      "words": [
+       {
+        "w": "ārttam",
+        "gloss": "afflicted, patient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nṛpasadvaidyairdviṣṭaṃ",
+      "words": [
+       {
+        "w": "nṛpa-sat-vaidyaiḥ",
+        "gloss": "by king and good physicians",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "dviṣṭam",
+        "gloss": "hated",
+        "gram": "pp. √dviṣ, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadveṣiṇaṃ",
+      "words": [
+       {
+        "w": "tad-dveṣiṇam",
+        "gloss": "hating them",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dviṣaṃ",
+      "words": [
+       {
+        "w": "dviṣam",
+        "gloss": "hostile one, enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह स्त्रियों के साथ एकांत में रहना और हँसी-मज़ाक करना छोड़ दे। और उस रोगी को भी, जिससे राजा तथा सज्जन वैद्य द्वेष रखते हों, जो उनसे द्वेष रखता हो, या जो शत्रु हो, ...",
+  "english": "He should avoid staying with women in private, and joking with them. And (he should avoid) a patient who is hated by the king and by good physicians, who hates them, or who is hostile ...",
+  "text_flags": [
+   {
+    "src": "tadveṣiṇaṃ",
+    "suggest": "taddveṣiṇaṃ",
+    "why": "Possible: 'tad-veṣin' is not a word; tad-dveṣin 'hating them' fits the sense (dveṣin, with the d of dv- lost)."
+   }
+  ],
+  "notes": "'varjayet' of line 1 also governs the accusatives of line 2 and 2.36-37 (the list of patients to be avoided). 'dviṣam' (enemy) is ambiguous: enemy of the physician, or of the king; the book takes 'enemy'. 'nṛpasadvaidyaiḥ' = by the king and good physicians (dvandva).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.34",
+   "2.35"
+  ],
+  "lines_deva": [
+   "नारीभिश्च रहसि स्थानं परिहासं च वर्जयेत् ॥",
+   "आर्त्तं च नृपसद्वैद्यैर्द्विष्टं तद्वेषिणं द्विषं ॥"
+  ],
+  "lines_iast": [
+   "nārībhiśca rahasi sthānaṃ parihāsaṃ ca varjayet ||",
+   "ārttaṃ ca nṛpasadvaidyairdviṣṭaṃ tadveṣiṇaṃ dviṣaṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caṃḍaṃ",
+      "words": [
+       {
+        "w": "caṇḍam",
+        "gloss": "fierce",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śokāturaṃ",
+      "words": [
+       {
+        "w": "śoka-āturam",
+        "gloss": "stricken with grief",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhīruṃ",
+      "words": [
+       {
+        "w": "bhīrum",
+        "gloss": "timid",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtaghnaṃ",
+      "words": [
+       {
+        "w": "kṛtaghnam",
+        "gloss": "ungrateful",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaidyamāninaṃ",
+      "words": [
+       {
+        "w": "vaidya-māninam",
+        "gloss": "thinking himself a physician",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hīnopakaraṇaṃ",
+      "words": [
+       {
+        "w": "hīna-upakaraṇam",
+        "gloss": "lacking equipment",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyagramavidheyaṃ",
+      "words": [
+       {
+        "w": "vyagram",
+        "gloss": "agitated, distracted",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "a-vidheyam",
+        "gloss": "disobedient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatāyuṣaṃ",
+      "words": [
+       {
+        "w": "gata-āyuṣam",
+        "gloss": "whose life has gone",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end mark",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(और ऐसे रोगी को भी छोड़ दे) जो उग्र हो, शोक से पीड़ित हो, डरपोक हो, कृतघ्न हो, अपने को वैद्य मानने वाला हो; जिसके पास साधनों का अभाव हो, जो व्याकुल हो, आज्ञा न मानने वाला हो, अथवा जिसकी आयु बीत चुकी हो।",
+  "english": "(He should avoid a patient) who is fierce, stricken with grief, timid, ungrateful, one who thinks himself a physician; who lacks equipment (means), is agitated, disobedient, or whose life-span is spent.",
+  "text_flags": [],
+  "notes": "Accusatives continue from 'varjayet' (2.35): the list of patients to be avoided. 'vaidyamānin' = one who fancies himself a physician (a patient conceited about medical knowledge). 'hīnopakaraṇa' = lacking the means (attendants, materials); not specified in the text. 'gatāyuṣam' literally 'one whose lifespan has gone'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.36",
+   "2.37"
+  ],
+  "lines_deva": [
+   "चंडं शोकातुरं भीरुं कृतघ्नं वैद्यमानिनं ॥",
+   "हीनोपकरणं व्यग्रमविधेयं गतायुषं ॥"
+  ],
+  "lines_iast": [
+   "caṃḍaṃ śokāturaṃ bhīruṃ kṛtaghnaṃ vaidyamāninaṃ ||",
+   "hīnopakaraṇaṃ vyagramavidheyaṃ gatāyuṣaṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jijīviṣurvyādhito'pi",
+      "words": [
+       {
+        "w": "jijīviṣuḥ",
+        "gloss": "desirous of living",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vyādhitaḥ",
+        "gloss": "afflicted with disease",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvoktaguṇavarjitān",
+      "words": [
+       {
+        "w": "pūrva-ukta-guṇa-varjitān",
+        "gloss": "lacking the qualities stated before",
+        "gram": "m. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kriyāvikrayiṇo",
+      "words": [
+       {
+        "w": "kriyā-vikrayiṇaḥ",
+        "gloss": "sellers of treatment",
+        "gram": "m. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vaidyānmṛtyoragresarā",
+      "words": [
+       {
+        "w": "vaidyān",
+        "gloss": "physicians",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "mṛtyoḥ",
+        "gloss": "of death",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "agresarāḥ",
+        "gloss": "forerunners",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जीने की इच्छा रखने वाला रोगी भी, पहले बताए गुणों से रहित और चिकित्सा को बेचने वाले वैद्यों को छोड़ दे; क्योंकि वे निश्चय ही मृत्यु के आगे-आगे चलने वाले हैं।",
+  "english": "Even a sick person who wishes to live should avoid physicians who lack the qualities described earlier and who sell treatment, for they are indeed the forerunners of death.",
+  "text_flags": [],
+  "notes": "The governing verb (something like 'should avoid', parivarjayet) is not in the unit; it is understood from the preceding verse. 'vaidyān' in line 2 is the object of that verb and is qualified by 'varjitān' and 'kriyā-vikrayiṇaḥ'. Literally kriyā-vikrayin = 'one who sells the (medical) act/treatment'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.38",
+   "2.39"
+  ],
+  "lines_deva": [
+   "जिजीविषुर्व्याधितोऽपि पूर्वोक्तगुणवर्जितान् ॥",
+   "क्रियाविक्रयिणो वैद्यान्मृत्योरग्रेसरा हि ते ॥"
+  ],
+  "lines_iast": [
+   "jijīviṣurvyādhito'pi pūrvoktaguṇavarjitān ||",
+   "kriyāvikrayiṇo vaidyānmṛtyoragresarā hi te ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyāṇyupasthātā",
+      "words": [
+       {
+        "w": "dravyāṇi",
+        "gloss": "medicines (substances)",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "upasthātā",
+        "gloss": "attendant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogī",
+      "words": [
+       {
+        "w": "rogī",
+        "gloss": "patient",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādacatuṣṭayaṃ",
+      "words": [
+       {
+        "w": "pāda-catuṣṭayam",
+        "gloss": "set of four quarters",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cikitsitasya",
+      "words": [
+       {
+        "w": "cikitsitasya",
+        "gloss": "of treatment",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirdiṣṭaṃ",
+      "words": [
+       {
+        "w": "nirdiṣṭam",
+        "gloss": "is declared",
+        "gram": "ppp. n. nom. sg. √diś"
+       }
+      ]
+     },
+     {
+      "src": "pratyekaṃ",
+      "words": [
+       {
+        "w": "pratyekam",
+        "gloss": "each one",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taccaturguṇaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "catur-guṇam",
+        "gloss": "having four qualities",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैद्य, द्रव्य, परिचारक और रोगी, ये चिकित्सा के चार पाद बताए गए हैं; इनमें से प्रत्येक चार गुणों वाला है।",
+  "english": "The physician, the medicines, the attendant and the patient are declared to be the four quarters (pāda) of treatment; each one of them has four qualities.",
+  "text_flags": [],
+  "notes": "'taccaturguṇaṃ' read as tat + catuḥ-guṇam, 'each of them is fourfold in qualities'. pāda = quarter/foot, the four supports of treatment.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.40",
+   "2.41"
+  ],
+  "lines_deva": [
+   "भिषक् द्रव्याण्युपस्थाता रोगी पादचतुष्टयं ॥",
+   "चिकित्सितस्य निर्दिष्टं प्रत्येकं तच्चतुर्गुणं ॥"
+  ],
+  "lines_iast": [
+   "bhiṣak dravyāṇyupasthātā rogī pādacatuṣṭayaṃ ||",
+   "cikitsitasya nirdiṣṭaṃ pratyekaṃ taccaturguṇaṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dakṣastīrthāttaśāstrārtho",
+      "words": [
+       {
+        "w": "dakṣaḥ",
+        "gloss": "skilled",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tīrthāt",
+        "gloss": "from a teacher",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ātta-śāstra-arthaḥ",
+        "gloss": "one who has taken the meaning of the treatises",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭakarmā",
+      "words": [
+       {
+        "w": "dṛṣṭa-karmā",
+        "gloss": "one who has seen the work done",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "śucirbhiṣak",
+      "words": [
+       {
+        "w": "śuciḥ",
+        "gloss": "pure",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bahukalpaṃ",
+      "words": [
+       {
+        "w": "bahu-kalpam",
+        "gloss": "of many preparations",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bahuguṇaṃ",
+      "words": [
+       {
+        "w": "bahu-guṇam",
+        "gloss": "of many qualities",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "saṃpannaṃ",
+      "words": [
+       {
+        "w": "sampannam",
+        "gloss": "well endowed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yogyamauṣadhaṃ",
+      "words": [
+       {
+        "w": "yogyam",
+        "gloss": "suitable",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैद्य कुशल हो, गुरु से शास्त्रों का अर्थ ग्रहण किए हुए हो, कर्म को देखा हुआ हो और पवित्र हो। औषध अनेक प्रकार के कल्पों वाला, अनेक गुणों वाला, सम्पन्न और उपयुक्त हो।",
+  "english": "The physician should be skilled, one who has received the meaning of the treatises from a teacher, who has seen the work done, and who is pure. The medicine should have many preparations and many qualities, be well endowed, and be suitable.",
+  "text_flags": [],
+  "notes": "tīrtha is literally a ford, here understood as a teacher or authoritative source. 'sampanna' = fully endowed/perfect. 'kalpa' = preparation (form in which a drug is made up). The verb 'is' is understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.42",
+   "2.43"
+  ],
+  "lines_deva": [
+   "दक्षस्तीर्थात्तशास्त्रार्थो दृष्टकर्मा शुचिर्भिषक् ॥",
+   "बहुकल्पं बहुगुणं संपन्नं योग्यमौषधं ॥"
+  ],
+  "lines_iast": [
+   "dakṣastīrthāttaśāstrārtho dṛṣṭakarmā śucirbhiṣak ||",
+   "bahukalpaṃ bahuguṇaṃ saṃpannaṃ yogyamauṣadhaṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anuraktaḥ",
+      "words": [
+       {
+        "w": "anuraktaḥ",
+        "gloss": "devoted",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śucirdakṣo",
+      "words": [
+       {
+        "w": "śuciḥ",
+        "gloss": "pure",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dakṣaḥ",
+        "gloss": "skilled",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "buddhimānparicārakaḥ",
+      "words": [
+       {
+        "w": "buddhimān",
+        "gloss": "intelligent",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "paricārakaḥ",
+        "gloss": "attendant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āḍhyo",
+      "words": [
+       {
+        "w": "āḍhyaḥ",
+        "gloss": "wealthy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogī",
+      "words": [
+       {
+        "w": "rogī",
+        "gloss": "patient",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣagvaśyo",
+      "words": [
+       {
+        "w": "bhiṣak-vaśyaḥ",
+        "gloss": "obedient to the physician",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "jñāpakaḥ",
+      "words": [
+       {
+        "w": "jñāpakaḥ",
+        "gloss": "one who can make known (his condition)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sattvavānapi",
+      "words": [
+       {
+        "w": "sattvavān",
+        "gloss": "having mental strength",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिचारक अनुरक्त, पवित्र, कुशल और बुद्धिमान हो। रोगी धनवान, वैद्य के वश में रहने वाला, अपनी बात बता सकने वाला और मनोबल से युक्त भी हो।",
+  "english": "The attendant should be devoted, pure, skilled and intelligent. The patient should be wealthy, obedient to the physician, able to make his condition known, and also possessed of mental strength (sattva).",
+  "text_flags": [],
+  "notes": "jñāpaka is taken as 'one who informs (the physician of his complaint)'; alternative: 'one who understands/is informed'. 'sattva' = strength of mind.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.44",
+   "2.45"
+  ],
+  "lines_deva": [
+   "अनुरक्तः शुचिर्दक्षो बुद्धिमान्परिचारकः ॥",
+   "आढ्यो रोगी भिषग्वश्यो ज्ञापकः सत्त्ववानपि ॥"
+  ],
+  "lines_iast": [
+   "anuraktaḥ śucirdakṣo buddhimānparicārakaḥ ||",
+   "āḍhyo rogī bhiṣagvaśyo jñāpakaḥ sattvavānapi ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadvaidye",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "since",
+        "gram": "ind."
+       },
+       {
+        "w": "vaidye",
+        "gloss": "in the physician",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viguṇe",
+      "words": [
+       {
+        "w": "viguṇe",
+        "gloss": "lacking qualities",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādā",
+      "words": [
+       {
+        "w": "pādāḥ",
+        "gloss": "quarters",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇavaṃto'pyanarthakāḥ",
+      "words": [
+       {
+        "w": "guṇavantaḥ",
+        "gloss": "having qualities",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "anarthakāḥ",
+        "gloss": "useless",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sapādahīnānapyārttān",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "pāda-hīnān",
+        "gloss": "lacking quarters",
+        "gram": "m. acc. pl. (tat-puruṣa)"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "ārttān",
+        "gloss": "the sick",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇavān",
+      "words": [
+       {
+        "w": "guṇavān",
+        "gloss": "qualified",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "since",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāpayet",
+      "words": [
+       {
+        "w": "yāpayet",
+        "gloss": "may keep going",
+        "gram": "opt. 3 sg. caus. √yā"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि वैद्य के गुणहीन होने पर बाकी पाद गुणवान होते हुए भी निरर्थक हो जाते हैं, और क्योंकि गुणवान वैद्य अन्य पादों से रहित रोगियों को भी (जीवित) चला लेता है।",
+  "english": "Since, when the physician lacks qualities, the other quarters are useless even though they have qualities, and since a qualified physician can keep going even patients who lack the other quarters,",
+  "text_flags": [],
+  "notes": "Both lines are 'yat' clauses (since ...), completed by the next verse ('therefore they know him as the chief cause'). 'sapādahīnān' is read as saḥ (sa before a consonant, as often in verse) + pāda-hīnān; the book split agrees. 'pāda-hīna' = lacking quarters (the other three), taken as 'lacking some of the other quarters'. 'yāpayet' = sustain, keep going (palliate). 'ārttān' is the printed spelling of ārtān. Alternative: sapāda-hīnān could be read as one compound ('lacking a quarter'); the reading with saḥ is kept because the book split agrees.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.46",
+   "2.47"
+  ],
+  "lines_deva": [
+   "यद्वैद्ये विगुणे पादा गुणवंतोऽप्यनर्थकाः ॥",
+   "सपादहीनानप्यार्त्तान् गुणवान् यच्च यापयेत् ॥"
+  ],
+  "lines_iast": [
+   "yadvaidye viguṇe pādā guṇavaṃto'pyanarthakāḥ ||",
+   "sapādahīnānapyārttān guṇavān yacca yāpayet ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cikitsāyāstamevātaḥ",
+      "words": [
+       {
+        "w": "cikitsāyāḥ",
+        "gloss": "of treatment",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradhānaṃ",
+      "words": [
+       {
+        "w": "pradhānam",
+        "gloss": "chief",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "cause",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viduḥ",
+      "words": [
+       {
+        "w": "viduḥ",
+        "gloss": "they know",
+        "gram": "3 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sādhyo'sādhyaiti",
+      "words": [
+       {
+        "w": "sādhyaḥ",
+        "gloss": "curable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asādhyaḥ",
+        "gloss": "incurable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyādhirdvidhā",
+      "words": [
+       {
+        "w": "vyādhiḥ",
+        "gloss": "disease",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dvidhā",
+        "gloss": "twofold",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tau",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punardvidhā",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "dvidhā",
+        "gloss": "twofold",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए चिकित्सा का प्रधान कारण उसी (वैद्य) को वे जानते हैं। रोग दो प्रकार का है, साध्य और असाध्य; और वे दोनों फिर दो-दो प्रकार के हैं।",
+  "english": "Therefore they know him (the physician) alone as the chief cause of treatment. Disease is twofold, curable and incurable; and these two are again each twofold.",
+  "text_flags": [
+   {
+    "src": "sādhyo'sādhyaiti",
+    "suggest": "sādhyo'sādhya iti",
+    "why": "Possible scan error: 'asādhyaiti' is not a sandhi form; sādhyaḥ asādhyaḥ iti gives sādhyo'sādhya iti, and the line then has 16 syllables (printed form has 15)."
+   }
+  ],
+  "notes": "'tam' (him) refers to the physician of the previous verse. 'dvidhā' in 'tau tu punar dvidhā' = each of the two is again twofold (the four named in the next verse).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.48",
+   "2.49"
+  ],
+  "lines_deva": [
+   "चिकित्सायास्तमेवातः प्रधानं कारणं विदुः ॥",
+   "साध्योऽसाध्यइति व्याधिर्द्विधा तौ तु पुनर्द्विधा ॥"
+  ],
+  "lines_iast": [
+   "cikitsāyāstamevātaḥ pradhānaṃ kāraṇaṃ viduḥ ||",
+   "sādhyo'sādhyaiti vyādhirdvidhā tau tu punardvidhā ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "susādhyaḥ",
+      "words": [
+       {
+        "w": "su-sādhyaḥ",
+        "gloss": "easily curable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrasādhyaśca",
+      "words": [
+       {
+        "w": "kṛcchra-sādhyaḥ",
+        "gloss": "curable with difficulty",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāpyo",
+      "words": [
+       {
+        "w": "yāpyaḥ",
+        "gloss": "to be sustained (palliable)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaścānupakramaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anupakramaḥ",
+        "gloss": "without remedy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvauṣadhakṣame",
+      "words": [
+       {
+        "w": "sarva-auṣadha-kṣame",
+        "gloss": "able to bear all medicines",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yūnaḥ",
+      "words": [
+       {
+        "w": "yūnaḥ",
+        "gloss": "of a young",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṃso",
+      "words": [
+       {
+        "w": "puṃsaḥ",
+        "gloss": "man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jitātmanaḥ",
+      "words": [
+       {
+        "w": "jita-ātmanaḥ",
+        "gloss": "of one with a self-controlled mind",
+        "gram": "m. gen. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये चार हैं: सुसाध्य, कृच्छ्रसाध्य, याप्य और जो उपक्रम-रहित है। (सुसाध्य रोग होता है) ऐसे शरीर में जो सब औषधियों को सहन कर सके, युवा पुरुष में, जिसने अपने आप को जीत रखा हो।",
+  "english": "They are: easily curable, curable with difficulty, to be sustained (palliable), and the one that admits no remedy. [Easily curable is the disease] in a body able to bear all medicines, of a young man who has mastered himself,",
+  "text_flags": [],
+  "notes": "The sentence continues into the next unit (unit 27): the conditions of the easily curable disease. The main clause is therefore not in this unit; the bracketed words in the English are understood, not stated here. 'jitātman' = self-controlled (alternatively 'with a conquered mind').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.50",
+   "2.51"
+  ],
+  "lines_deva": [
+   "सुसाध्यः कृच्छ्रसाध्यश्च याप्यो यश्चानुपक्रमः ॥",
+   "सर्वौषधक्षमे देहे यूनः पुंसो जितात्मनः ॥"
+  ],
+  "lines_iast": [
+   "susādhyaḥ kṛcchrasādhyaśca yāpyo yaścānupakramaḥ ||",
+   "sarvauṣadhakṣame dehe yūnaḥ puṃso jitātmanaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amarmago'lpahetvagrarūparūpo'nupadravaḥ",
+      "words": [
+       {
+        "w": "amarmagaḥ",
+        "gloss": "not reaching vital spots",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "alpa-hetu-agra-rūpa-rūpaḥ",
+        "gloss": "with slight cause, slight early signs and slight signs",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       },
+       {
+        "w": "anupadravaḥ",
+        "gloss": "without complications",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "atulyadūṣyadeśartuprakṛtiḥ",
+      "words": [
+       {
+        "w": "atulya-dūṣya-deśa-ṛtu-prakṛtiḥ",
+        "gloss": "whose dūṣya, place, season and constitution are unlike (the disease)",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pādasaṃpadi",
+      "words": [
+       {
+        "w": "pāda-sampadi",
+        "gloss": "when the quarters are well endowed",
+        "gram": "f. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(सुसाध्य वह रोग है) जो मर्मों में न जाने वाला हो, जिसके हेतु, पूर्वरूप और रूप थोड़े हों, जिसमें उपद्रव न हों; जिसके दूष्य, देश, ऋतु और प्रकृति (रोग के) समान न हों, और पादों की सम्पन्नता हो।",
+  "english": "[The easily curable disease is one] that does not reach the vital spots, has a slight cause, slight early signs and slight signs, and no complications; in which the dūṣya (affected substance), place, season and constitution are not alike (to the disease), and when the quarters are well endowed.",
+  "text_flags": [],
+  "notes": "Continuation of the previous unit. 'agra-rūpa' is read as 'early (premonitory) sign' and 'rūpa' as the sign proper; alternative: agra-rūpa-rūpa as a single member. 'atulya' is taken to mean 'unlike (the disease)': the text states only 'atulya', the object of comparison is understood. 'dūṣya' = that which is vitiated (gloss only; no modern equivalent given). The English and Hindi bracketed supply of the subject is from context.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.52",
+   "2.53"
+  ],
+  "lines_deva": [
+   "अमर्मगोऽल्पहेत्वग्ररूपरूपोऽनुपद्रवः ॥",
+   "अतुल्यदूष्यदेशर्तुप्रकृतिः पादसंपदि ॥"
+  ],
+  "lines_iast": [
+   "amarmago'lpahetvagrarūparūpo'nupadravaḥ ||",
+   "atulyadūṣyadeśartuprakṛtiḥ pādasaṃpadi ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "graheṣvanuguṇeṣvekadoṣamārgo",
+      "words": [
+       {
+        "w": "graheṣu",
+        "gloss": "in the planets",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "anuguṇeṣu",
+        "gloss": "favourable",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "eka-doṣa-mārgaḥ",
+        "gloss": "with a single doṣa and path",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "navaḥ",
+      "words": [
+       {
+        "w": "navaḥ",
+        "gloss": "new",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhaḥ",
+      "words": [
+       {
+        "w": "sukhaḥ",
+        "gloss": "easy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sukhasādhyaḥ",
+      "words": [
+       {
+        "w": "sukha-sādhyaḥ",
+        "gloss": "easy to cure",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhopāyaḥ",
+      "words": [
+       {
+        "w": "sukha-upāyaḥ",
+        "gloss": "having easy means",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kālenālpena",
+      "words": [
+       {
+        "w": "kālena",
+        "gloss": "in time",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "alpena",
+        "gloss": "short",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhyate",
+      "words": [
+       {
+        "w": "sādhyate",
+        "gloss": "is cured",
+        "gram": "pres. pass. 3 sg. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रह अनुकूल हों, एक ही दोष और एक ही मार्ग वाला, नया और सरल रोग सुखसाध्य होता है; उसके उपाय सरल होते हैं और वह थोड़े समय में ठीक हो जाता है।",
+  "english": "With the planets favourable, a disease with a single doṣa and a single path, new, and easy is easily curable; its means are easy, and it is cured in a short time.",
+  "text_flags": [],
+  "notes": "graha is taken as 'planet'; it can also mean a seizing influence. 'mārga' = path/channel (of the doṣa). The subject 'disease' is understood. 'sukha' in line 1 is taken as 'easy (to deal with)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.54",
+   "2.55"
+  ],
+  "lines_deva": [
+   "ग्रहेष्वनुगुणेष्वेकदोषमार्गो नवः सुखः ॥",
+   "सुखसाध्यः सुखोपायः कालेनाल्पेन साध्यते ॥"
+  ],
+  "lines_iast": [
+   "graheṣvanuguṇeṣvekadoṣamārgo navaḥ sukhaḥ ||",
+   "sukhasādhyaḥ sukhopāyaḥ kālenālpena sādhyate ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛcchrairupāyaiḥ",
+      "words": [
+       {
+        "w": "kṛcchraiḥ",
+        "gloss": "difficult",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upāyaiḥ",
+        "gloss": "by means",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrastu",
+      "words": [
+       {
+        "w": "kṛcchraḥ",
+        "gloss": "the difficult one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahadbhiśca",
+      "words": [
+       {
+        "w": "mahadbhiḥ",
+        "gloss": "great",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cireṇa",
+      "words": [
+       {
+        "w": "cireṇa",
+        "gloss": "after a long time",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "asādhyaliṃgasaṃkīrṇastathā",
+      "words": [
+       {
+        "w": "asādhya-liṅga-saṃkīrṇaḥ",
+        "gloss": "mixed with signs of incurability",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "tathā",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastrādisādhanaḥ",
+      "words": [
+       {
+        "w": "śastra-ādi-sādhanaḥ",
+        "gloss": "having surgery and the like as the means",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृच्छ्रसाध्य रोग कठिन और बड़े उपायों से और देर से (सिद्ध होता है); वह असाध्य के लक्षणों से मिला हुआ होता है, और उसके साधन शस्त्र आदि होते हैं।",
+  "english": "The one curable with difficulty (is cured) by difficult and great means and after a long time; it is mixed with signs of incurability, and its means are surgery and the like.",
+  "text_flags": [],
+  "notes": "The verb 'is cured' is understood from the previous verse. Line 2 follows the grammar as printed and so still describes the kṛcchra-sādhya disease; the book's English and Hindi attach line 2 differently (as describing the incurable), which the Sanskrit does not support. 'mahadbhiḥ' modifies upāyaiḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.56",
+   "2.57"
+  ],
+  "lines_deva": [
+   "कृच्छ्रैरुपायैः कृच्छ्रस्तु महद्भिश्च चिरेण च ॥",
+   "असाध्यलिंगसंकीर्णस्तथा शस्त्रादिसाधनः ॥"
+  ],
+  "lines_iast": [
+   "kṛcchrairupāyaiḥ kṛcchrastu mahadbhiśca cireṇa ca ||",
+   "asādhyaliṃgasaṃkīrṇastathā śastrādisādhanaḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śeṣatvādāyuṣaḥ",
+      "words": [
+       {
+        "w": "śeṣatvāt",
+        "gloss": "because of remaining",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pathyairyāpyaḥ",
+      "words": [
+       {
+        "w": "pathyaiḥ",
+        "gloss": "by wholesome (things)",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yāpyaḥ",
+        "gloss": "the sustainable one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāyo",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the contrary case",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dattvā",
+      "words": [
+       {
+        "w": "dattvā",
+        "gloss": "having given",
+        "gram": "abs. √dā"
+       }
+      ]
+     },
+     {
+      "src": "'lpaṃ",
+      "words": [
+       {
+        "w": "alpam",
+        "gloss": "slight",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhamalpena",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "comfort",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "alpena",
+        "gloss": "slight",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hetunā",
+      "words": [
+       {
+        "w": "hetunā",
+        "gloss": "by a cause",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratanyate",
+      "words": [
+       {
+        "w": "pratanyate",
+        "gloss": "is spread out",
+        "gram": "pres. pass. 3 sg. pra-√tan"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आयु के शेष रहने के कारण याप्य रोग हितकर उपायों से चलता रहता है; इसके विपरीत होने पर प्रायः वह थोड़ा सुख देकर थोड़े से कारण से फैल जाता है।",
+  "english": "Because life remains, the disease to be sustained (yāpya) is kept going by wholesome measures; in the contrary case, for the most part, after giving slight comfort it spreads on account of a slight cause.",
+  "text_flags": [],
+  "notes": "'prāyaḥ viparyaye' is placed between the two clauses; it can attach to either (mostly, when things are contrary / when wholesome measures are lacking). The text does not say what the contrary is; read as the lack of wholesome measures. 'saḥ' = the yāpya disease.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.58",
+   "2.59"
+  ],
+  "lines_deva": [
+   "शेषत्वादायुषः पथ्यैर्याप्यः प्रायो विपर्यये ॥",
+   "दत्त्वा ऽल्पं सुखमल्पेन हेतुना स प्रतन्यते ॥"
+  ],
+  "lines_iast": [
+   "śeṣatvādāyuṣaḥ pathyairyāpyaḥ prāyo viparyaye ||",
+   "dattvā 'lpaṃ sukhamalpena hetunā sa pratanyate ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "pres. 3 sg. √yā"
+       }
+      ]
+     },
+     {
+      "src": "nāśeṣatāṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "aśeṣatām",
+        "gloss": "to the state of having no remainder",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogaḥ",
+      "words": [
+       {
+        "w": "rogaḥ",
+        "gloss": "disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmajo",
+      "words": [
+       {
+        "w": "karma-jaḥ",
+        "gloss": "born of past action",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "niyatāyuṣaḥ",
+      "words": [
+       {
+        "w": "niyata-āyuṣaḥ",
+        "gloss": "of one with fixed life",
+        "gram": "m. gen. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prapatanniva",
+      "words": [
+       {
+        "w": "prapatan",
+        "gloss": "falling",
+        "gram": "m. nom. sg. pres. part. pra-√pat"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣkaṃbhairdhāryate'trāturo",
+      "words": [
+       {
+        "w": "viṣkambhaiḥ",
+        "gloss": "by props",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "dhāryate",
+        "gloss": "is held up",
+        "gram": "pres. pass. 3 sg. √dhṛ"
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "āturaḥ",
+        "gloss": "patient",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitaiḥ",
+      "words": [
+       {
+        "w": "hitaiḥ",
+        "gloss": "by wholesome (things)",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कर्म से उत्पन्न रोग, निश्चित आयु वाले में, पूरी तरह शेष-रहित अवस्था को नहीं पहुँचता, अर्थात् पूर्ण रूप से नहीं मिटता। यहाँ रोगी, गिरते हुए के समान, हितकर उपायों रूपी टेकों से थामा जाता है।",
+  "english": "The disease born of past action, in one whose lifespan is fixed, does not reach the state of leaving no remainder. Here the patient, like one who is falling, is held up by wholesome things as by props.",
+  "text_flags": [],
+  "notes": "'aśeṣatā' literally 'state of being without remainder', understood as complete removal. 'viṣkambha' = prop, bolt; the simile is a falling (house or person) held by props: the text says only 'prapatan iva', so the thing falling is the patient.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.60",
+   "2.61"
+  ],
+  "lines_deva": [
+   "याति नाशेषतां रोगः कर्मजो नियतायुषः ॥",
+   "प्रपतन्निव विष्कंभैर्धार्यतेऽत्रातुरो हितैः ॥"
+  ],
+  "lines_iast": [
+   "yāti nāśeṣatāṃ rogaḥ karmajo niyatāyuṣaḥ ||",
+   "prapatanniva viṣkaṃbhairdhāryate'trāturo hitaiḥ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paro'sādhyaḥ",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asādhyaḥ",
+        "gloss": "incurable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kriyāḥ",
+      "words": [
+       {
+        "w": "kriyāḥ",
+        "gloss": "treatments",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarvāḥ",
+      "words": [
+       {
+        "w": "sarvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratyākhyeyo",
+      "words": [
+       {
+        "w": "pratyākhyeyaḥ",
+        "gloss": "to be refused",
+        "gram": "m. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "'tivartate",
+      "words": [
+       {
+        "w": "ativartate",
+        "gloss": "goes beyond",
+        "gram": "pres. 3 sg. ati-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tasmādupekṣyaevāsau",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "upekṣyaḥ",
+        "gloss": "to be disregarded",
+        "gram": "m. nom. sg. gerundive"
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asau",
+        "gloss": "that one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthito'tyaṃtaviparyaye",
+      "words": [
+       {
+        "w": "sthitaḥ",
+        "gloss": "standing",
+        "gram": "ppp. m. nom. sg. √sthā"
+       },
+       {
+        "w": "atyanta-viparyaye",
+        "gloss": "in extreme reversal",
+        "gram": "m. loc. sg. (karmadhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरा, असाध्य रोग सब चिकित्साओं को लाँघ जाता है और उसे अस्वीकार करना चाहिए। इसलिए वह, अत्यन्त विपरीत अवस्था में स्थित होने के कारण, उपेक्षा के ही योग्य है।",
+  "english": "The other, the incurable, goes beyond all treatments and is to be refused. Therefore that one, standing in extreme reversal, is simply to be disregarded.",
+  "text_flags": [],
+  "notes": "The printed 'upekṣyaevāsau' joins upekṣyaḥ eva asau (hiatus after -aḥ is correct, only the space is missing). 'atyanta-viparyaya' is rendered literally as 'extreme reversal/contrariness'; what is reversed (the course of the disease, or the natural state) is not stated. 'kriyāḥ sarvāḥ ... ativartate' = it passes beyond all treatments (they do not work on it).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.62",
+   "2.63"
+  ],
+  "lines_deva": [
+   "परोऽसाध्यः क्रियाः सर्वाः प्रत्याख्येयो ऽतिवर्तते ॥",
+   "तस्मादुपेक्ष्यएवासौ स्थितोऽत्यंतविपर्यये ॥"
+  ],
+  "lines_iast": [
+   "paro'sādhyaḥ kriyāḥ sarvāḥ pratyākhyeyo 'tivartate ||",
+   "tasmādupekṣyaevāsau sthito'tyaṃtaviparyaye ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhramamohāratikaro",
+      "words": [
+       {
+        "w": "bhrama-moha-arati-karaḥ",
+        "gloss": "causing giddiness, delusion and unease",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭariṣṭo'kṣanāśanaḥ",
+      "words": [
+       {
+        "w": "dṛṣṭa-riṣṭaḥ",
+        "gloss": "in whom fatal signs are seen",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       },
+       {
+        "w": "akṣa-nāśanaḥ",
+        "gloss": "destroying the senses",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyādhiṃ",
+      "words": [
+       {
+        "w": "vyādhim",
+        "gloss": "disease",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "purā",
+      "words": [
+       {
+        "w": "purā",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣyaivamārabheta",
+      "words": [
+       {
+        "w": "parīkṣya",
+        "gloss": "having examined",
+        "gram": "abs. pari-√īkṣ"
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ārabheta",
+        "gloss": "should begin",
+        "gram": "opt. 3 sg. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kriyāṃ",
+      "words": [
+       {
+        "w": "kriyām",
+        "gloss": "treatment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(वह असाध्य रोग) भ्रम, मोह और अरति करने वाला, जिसमें मृत्यु-सूचक अरिष्ट लक्षण दिखाई दिए हों और जो इन्द्रियों का नाश करने वाला है। (वैद्य) पहले रोग की इस प्रकार परीक्षा करके तब चिकित्सा आरम्भ करे।",
+  "english": "[That incurable one is] causing giddiness, delusion and unease, with fatal signs (riṣṭa) seen, and destroying the senses. Having first examined the disease in this way, one should then begin treatment.",
+  "text_flags": [],
+  "notes": "GROUPING: line 1 describes the incurable disease of the previous unit (it belongs with the sentence of 2.62-63), while line 2 starts a new sentence ('having examined the disease first, one should begin treatment'); the two lines of this unit are not one sentence. 'akṣa' = sense organ (or eye); rendered 'senses'. 'riṣṭa' = sign of approaching death (technical word). The subject of 'ārabheta' (the physician) is understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.64",
+   "2.65"
+  ],
+  "lines_deva": [
+   "भ्रममोहारतिकरो दृष्टरिष्टोऽक्षनाशनः ॥",
+   "व्याधिं पुरा परीक्ष्यैवमारभेत ततः क्रियां ॥"
+  ],
+  "lines_iast": [
+   "bhramamohāratikaro dṛṣṭariṣṭo'kṣanāśanaḥ ||",
+   "vyādhiṃ purā parīkṣyaivamārabheta tataḥ kriyāṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svārthavidyāyaśohānimanyathā",
+      "words": [
+       {
+        "w": "sva-artha-vidyā-yaśaḥ-hānim",
+        "gloss": "loss of own interest, knowledge and fame",
+        "gram": "f. acc. sg. (dvandva, tat-puruṣa)"
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhruvamāpnuyāt",
+      "words": [
+       {
+        "w": "dhruvam",
+        "gloss": "surely",
+        "gram": "ind."
+       },
+       {
+        "w": "āpnuyāt",
+        "gloss": "would obtain",
+        "gram": "opt. 3 sg. √āp"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sādhyayorapi",
+      "words": [
+       {
+        "w": "sādhyayoḥ",
+        "gloss": "of two curable ones",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃyogo'balino",
+      "words": [
+       {
+        "w": "saṃyogaḥ",
+        "gloss": "combination",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abalinaḥ",
+        "gloss": "in a weak person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātyasādhyatāṃ",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "pres. 3 sg. √yā"
+       },
+       {
+        "w": "asādhyatām",
+        "gloss": "to incurability",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्यथा (वैद्य) अपने प्रयोजन, विद्या और यश की हानि निश्चित रूप से पाएगा। दुर्बल व्यक्ति में दो साध्य रोगों का भी संयोग असाध्यता को पहुँच जाता है।",
+  "english": "Otherwise he would surely incur loss of his own interest, his knowledge and his fame. Even the combination of two curable diseases, in a weak person, goes to incurability.",
+  "text_flags": [],
+  "notes": "'sva-artha' = one's own aim or interest (wealth, livelihood); alternative: 'svārtha' as 'own purpose'. The subject of 'āpnuyāt' (the physician who does not examine first) is understood. 'sādhyayoḥ' is dual genitive (of two curable [diseases]); 'abalinaḥ' is read as genitive/ablative of 'abalin' (weak) in the sense 'in a weak person'. GROUPING: line 1 completes the sentence begun in the previous unit (line 2: examine first, then begin treatment; otherwise loss of ...); line 2 starts a new sentence that continues into the next unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.66",
+   "2.67"
+  ],
+  "lines_deva": [
+   "स्वार्थविद्यायशोहानिमन्यथा ध्रुवमाप्नुयात् ॥",
+   "साध्ययोरपि संयोगोऽबलिनो यात्यसाध्यतां ॥"
+  ],
+  "lines_iast": [
+   "svārthavidyāyaśohānimanyathā dhruvamāpnuyāt ||",
+   "sādhyayorapi saṃyogo'balino yātyasādhyatāṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidyādasādhyamevātaḥ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "opt. 3 sg. √vid"
+       },
+       {
+        "w": "asādhyam",
+        "gloss": "incurable",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhyāsādhyasamāgamaṃ",
+      "words": [
+       {
+        "w": "sādhya-asādhya-samāgamam",
+        "gloss": "the meeting of curable and incurable",
+        "gram": "m. acc. sg. (dvandva, tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāsādhyaḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asādhyaḥ",
+        "gloss": "incurable one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhyatāṃ",
+      "words": [
+       {
+        "w": "sādhyatām",
+        "gloss": "to curability",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "pres. 3 sg. √yā"
+       }
+      ]
+     },
+     {
+      "src": "sādhyo",
+      "words": [
+       {
+        "w": "sādhyaḥ",
+        "gloss": "curable one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "pres. 3 sg. √yā"
+       }
+      ]
+     },
+     {
+      "src": "tvasādhyatāṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "asādhyatām",
+        "gloss": "to incurability",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए साध्य और असाध्य के मेल को असाध्य ही जानना चाहिए। असाध्य कभी साध्य नहीं होता, किन्तु साध्य असाध्य हो जाता है।",
+  "english": "Therefore one should know the meeting of a curable and an incurable (disease) to be incurable only. The incurable does not become curable, but the curable does become incurable.",
+  "text_flags": [],
+  "notes": "'asādhyam' is the predicate of 'samāgamam' (to be known as incurable).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "2.68",
+   "2.69"
+  ],
+  "lines_deva": [
+   "विद्यादसाध्यमेवातः साध्यासाध्यसमागमं ॥",
+   "नासाध्यः साध्यतां याति साध्यो याति त्वसाध्यतां ॥"
+  ],
+  "lines_iast": [
+   "vidyādasādhyamevātaḥ sādhyāsādhyasamāgamaṃ ||",
+   "nāsādhyaḥ sādhyatāṃ yāti sādhyo yāti tvasādhyatāṃ ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pādāpacārāddaivācca",
+      "words": [
+       {
+        "w": "pāda-apacārāt",
+        "gloss": "from mismanagement of the quarters",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "daivāt",
+        "gloss": "from fate",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāṃtyavasthāntaraṃ",
+      "words": [
+       {
+        "w": "yānti",
+        "gloss": "go",
+        "gram": "pres. 3 pl. √yā"
+       },
+       {
+        "w": "avasthā-antaram",
+        "gloss": "to another state",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "gadāḥ",
+      "words": [
+       {
+        "w": "gadāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "varamāśīviṣaviṣaṃ",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "better",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āśīviṣa-viṣam",
+        "gloss": "venom of a venomous snake",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "dīptamagnimatho'pi",
+      "words": [
+       {
+        "w": "dīptam",
+        "gloss": "blazing",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agnim",
+        "gloss": "fire",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "atho",
+        "gloss": "or else",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पादों के अपचार से और दैव से रोग दूसरी अवस्था को पहुँच जाते हैं। विषैले सर्प का विष श्रेष्ठ है, अथवा जलती हुई अग्नि, अथवा इसी प्रकार कुछ और; वाक्य अगले श्लोक में पूरा होता है।",
+  "english": "From mismanagement of the quarters and from fate, diseases pass into another state. Better the venom of a venomous snake, or a blazing fire, or else too [the sentence is completed in the next verse]",
+  "text_flags": [],
+  "notes": "GROUPING: line 1 completes the previous sentence, line 2 starts a new one that runs into the next unit: 'better (to swallow) snake venom or blazing fire than to ...' (the verb upayuñjīta is in 2.72). The thing that is 'better' is stated in the next unit. 'avasthāntara' = another state/stage (of the disease). 'āśīviṣa' = a snake whose venom is in its fangs.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.70",
+   "2.71"
+  ],
+  "lines_deva": [
+   "पादापचाराद्दैवाच्च यांत्यवस्थान्तरं गदाः ॥",
+   "वरमाशीविषविषं दीप्तमग्निमथोऽपि वा ॥"
+  ],
+  "lines_iast": [
+   "pādāpacārāddaivācca yāṃtyavasthāntaraṃ gadāḥ ||",
+   "varamāśīviṣaviṣaṃ dīptamagnimatho'pi vā ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upayuṃjīta",
+      "words": [
+       {
+        "w": "upayuñjīta",
+        "gloss": "should make use of or accept",
+        "gram": "opt. 3 sg. mid. upa-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvārttādāmiṣaṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ārttāt",
+        "gloss": "from the sick",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "āmiṣam",
+        "gloss": "gain or bait (also: flesh)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpeṇāñjanāt",
+      "words": [
+       {
+        "w": "rūpeṇa",
+        "gloss": "by form or appearance (doubtful)",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "añjanāt",
+        "gloss": "from ointment (doubtful)",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "parokṣabhūtavaidyādharma",
+      "words": [
+       {
+        "w": "parokṣa-bhūta-vaidya-adharma",
+        "gloss": "text unclear: unseen, become, physician, unrighteousness",
+        "gram": "doubtful"
+       }
+      ]
+     },
+     {
+      "src": "ityārtteṣu",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ārtteṣu",
+        "gloss": "among the sick",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣagvaraḥ",
+      "words": [
+       {
+        "w": "bhiṣak-varaḥ",
+        "gloss": "best physician",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "... रोगी से आमिष (लाभ, लालच या मांस) नहीं (लेना?) ... (यह भाग पाठ की गड़बड़ी के कारण अस्पष्ट है) ... इस प्रकार रोगियों में श्रेष्ठ वैद्य।",
+  "english": "[Better ...] to use ..., but not to take from the sick a gain (āmiṣa), ... [the words 'rūpeṇāñjanāt' are unclear] ... [the words 'parokṣabhūtavaidyādharma' are unclear] ... thus (is) the best physician among the sick.",
+  "text_flags": [
+   {
+    "src": "rūpeṇāñjanāt",
+    "suggest": "unknown",
+    "why": "Possible corruption: the editors flagged the line as garbled; 'by form, from ointment' gives no sense and the sandhi 'rūpeṇāñjanāt' is doubtful."
+   },
+   {
+    "src": "parokṣabhūtavaidyādharma",
+    "suggest": "unknown",
+    "why": "Possible corruption: flagged by the editors as garbled; the line has 17 syllables (one too many) and 'dharma iti' would be the expected sandhi form."
+   }
+  ],
+  "notes": "Both lines are flagged by the editors as damaged. The sentence continues from the previous unit ('better the venom of a snake or blazing fire ... to use (upayuñjīta), but not ...'); the 'varam ... na tu' structure is probable ('better X than Y') but the exact objects are not recoverable. The book's Hindi (a fraudulent doctor) and English (accepting gains from the patient) disagree and are both speculative; I give only the legible words: 'should use', 'not from the sick', 'āmiṣa' (gain/bait/flesh), 'iti ārtteṣu bhiṣagvaraḥ' (thus, among the sick, the best physician). 'vaidyādharma' could be vaidya-adharma(ḥ) (physician's unrighteousness) or vaidya-dharma(ḥ) with a stray ā. Nothing here should be relied on.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "2.72",
+   "2.73"
+  ],
+  "lines_deva": [
+   "उपयुंजीत न त्वार्त्तादामिषं रूपेणाञ्जनात् ॥",
+   "परोक्षभूतवैद्याधर्म इत्यार्त्तेषु भिषग्वरः ॥"
+  ],
+  "lines_iast": [
+   "upayuṃjīta na tvārttādāmiṣaṃ rūpeṇāñjanāt ||",
+   "parokṣabhūtavaidyādharma ityārtteṣu bhiṣagvaraḥ ||"
+  ],
+  "uncertain": [
+   {
+    "line": "2.72",
+    "note": "[src/hindi/eng] Sanskrit garbled (आर्त्तादामिषं रूपेणाञ्जनात्); Hindi (quack) and English (accept gains from patient) disagree — suggested: unknown"
+   },
+   {
+    "line": "2.73",
+    "note": "[src/hindi/eng] परोक्षभूतवैद्याधर्म garbled; translations speculative — suggested: unknown"
+   }
+  ]
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varttate",
+      "words": [
+       {
+        "w": "varttate",
+        "gloss": "conducts himself",
+        "gram": "pres. 3 sg. mid. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "yastu",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhārthaḥ",
+      "words": [
+       {
+        "w": "siddha-arthaḥ",
+        "gloss": "with purpose accomplished",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvamativarttate",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "everything",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ativarttate",
+        "gloss": "surpasses",
+        "gram": "pres. 3 sg. ati-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो (वैद्य इस प्रकार) आचरण करता है, वह सिद्धार्थ (सफल-मनोरथ) होकर सबको पार कर जाता है।",
+  "english": "But he who conducts himself (in this way), his purposes accomplished, surpasses everything.",
+  "text_flags": [],
+  "notes": "'varttate' (printed double t) = vartate. 'in this way' is understood from the previous unit, whose text is damaged; the manner of conduct is therefore not certain. 'ativarttate' = goes beyond / surpasses (could also mean 'overcomes').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "2.74"
+  ],
+  "lines_deva": [
+   "वर्त्तते यस्तु सिद्धार्थः स सर्वमतिवर्त्तते ॥"
+  ],
+  "lines_iast": [
+   "varttate yastu siddhārthaḥ sa sarvamativarttate ||"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiṣyopanayanīyo",
+      "words": [
+       {
+        "w": "śiṣya-upanayanīyaḥ",
+        "gloss": "on the initiation of the student",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvitīyo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "dvitīyaḥ",
+        "gloss": "second",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "2",
+      "words": [
+       {
+        "w": "2",
+        "gloss": "chapter number",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "verse end",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार शिष्योपनयनीय नामक दूसरा अध्याय ।। २ ।।",
+  "english": "Thus the second chapter, named Śiṣyopanayanīya (on the initiation of the student). || 2 ||",
+  "text_flags": [],
+  "notes": "Closing colophon of chapter 2; the verb 'ends' is understood.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "2.75"
+  ],
+  "lines_deva": [
+   "इति शिष्योपनयनीयो नाम द्वितीयोऽध्यायः ॥ २ ॥"
+  ],
+  "lines_iast": [
+   "iti śiṣyopanayanīyo nāma dvitīyo'dhyāyaḥ || 2 ||"
+  ],
+  "uncertain": []
+ }
+]

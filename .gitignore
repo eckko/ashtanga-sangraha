@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .idea
 *.key
+node_modules/
+.mermaid-cache/
