@@ -1,0 +1,452 @@
+[
+ {
+  "id": "1.3._4_",
+  "field": "eng",
+  "new": "दक्षिणाभिमुखो",
+  "kind": "gloss",
+  "note": "wrong gloss word",
+  "old": "दक्षिणामुहूर्त"
+ },
+ {
+  "id": "1.3._8_",
+  "field": "src",
+  "new": "वल्मीक",
+  "kind": "ocr",
+  "note": "split and English give वल्मीक",
+  "old": "षह्मीक"
+ },
+ {
+  "id": "1.3._10_",
+  "field": "hindi",
+  "new": "धरती को (तृण-पत्रादि से) ढके बिना (without covering the earth) मल-त्याग न करें; भय और असमर्थता (fear and inability) की स्थिति को छोड़कर अपनी इच्छा से तो कभी नहीं ।",
+  "kind": "translation",
+  "note": "तिरस्कृत्य = covering/screening the ground, not disrespecting"
+ },
+ {
+  "id": "1.3._10_",
+  "field": "eng",
+  "new": "Nor without covering the earth (तिरस्कृत्य महीं/screening the ground with grass or leaves)",
+  "kind": "translation",
+  "note": "तिरस्कृत्य means covering",
+  "old": "Nor by disrespecting the earth"
+ },
+ {
+  "id": "1.3._12_",
+  "field": "split",
+  "new": "निःशल्य-अदुष्ट",
+  "kind": "split",
+  "note": "निःशल्य अदुष्ट (not दुष्ट); matches 'clean'",
+  "old": "निःशल्या-दुष्ट"
+ },
+ {
+  "id": "1.3._15_",
+  "field": "src",
+  "new": "श्च्युतान्",
+  "kind": "ocr",
+  "note": "च्युतान् per split",
+  "old": "श्च्रुतान्"
+ },
+ {
+  "id": "1.3._16_",
+  "field": "src",
+  "new": "सुरार्चने",
+  "kind": "ocr",
+  "note": "सुरार्चने per split",
+  "old": "सुराच्चने"
+ },
+ {
+  "id": "1.3._20_",
+  "field": "hindi",
+  "new": "न उठाए हुए (उद्धृत) जल से, न झुककर और न खड़े होकर (neither bending nor standing erect), और न अग्नि पर पकाए हुए (boiled) या दुर्गंधयुक्त जल से आचमन करें ।",
+  "kind": "translation",
+  "note": "Hindi did not match न अनतो न ऊर्ध्वं"
+ },
+ {
+  "id": "1.3._22_",
+  "field": "hindi",
+  "new": "एक हाथ गीला रखकर आचमन न करे, अपवित्र हाथ-पैरों (unclean hands and feet) से न करे और शब्द करते हुए भी न करे ।",
+  "kind": "translation",
+  "note": "negations lost in Hindi"
+ },
+ {
+  "id": "1.3._23_",
+  "field": "eng",
+  "new": "asana (असन/Indian kino), arka (अर्क/calotropis),",
+  "kind": "gloss",
+  "note": "wrong plant glosses for असन, अर्क",
+  "old": "keehar, sun,"
+ },
+ {
+  "id": "1.3._24_",
+  "field": "hindi",
+  "new": "सर्ज (साल), अरिमेद, अपामार्ग, मारुती और ककुभ (अर्जुन वृक्ष/arjun tree) आदि से उत्पन्न दातून का प्रयोग करें ।",
+  "kind": "gloss",
+  "note": "सर्ज=sal, ककुभ=arjuna; मारुती omitted"
+ },
+ {
+  "id": "1.3._24_",
+  "field": "eng",
+  "new": "Or originating from sarja (sal), arimeda (foul-smelling khair), apamarga, maruti, or kakubha (arjuna) trees.",
+  "kind": "gloss",
+  "note": "glosses were wrong (arjuna, kachnar, kadamba)"
+ },
+ {
+  "id": "1.3._26_",
+  "field": "src",
+  "new": "विज्ञातरसं",
+  "kind": "ocr",
+  "note": "रसं per split and meaning",
+  "old": "विज्ञातदसं"
+ },
+ {
+  "id": "1.3._28_",
+  "field": "eng",
+  "new": "In the morning and after eating, while maintaining silence",
+  "kind": "translation",
+  "note": "प्रातर्भुक्त्वा च = in the morning and after eating",
+  "old": "Eating early in the morning and maintaining silence"
+ },
+ {
+  "id": "1.3._29_",
+  "field": "hindi",
+  "new": "शहद में मिले लेप (paste mixed with honey)",
+  "kind": "translation",
+  "note": "no ghee in Sanskrit",
+  "old": "शहद और घी के मिश्रण (honey and ghee paste)"
+ },
+ {
+  "id": "1.3._36_",
+  "field": "src",
+  "new": "धवधन्वजान्",
+  "kind": "ocr",
+  "note": "धव per split/Hindi",
+  "old": "धबधन्वजान्"
+ },
+ {
+  "id": "1.3._36_",
+  "field": "split",
+  "new": "बिभीत",
+  "kind": "split",
+  "note": "split must match src बिभीत",
+  "old": "बिभीतक"
+ },
+ {
+  "id": "1.3._36_",
+  "field": "eng",
+  "new": "arishta (अरिष्ट/soapnut)",
+  "kind": "gloss",
+  "note": "Hindi gives रीठा",
+  "old": "neem (अरिष्ट/margosa)"
+ },
+ {
+  "id": "1.3._39_",
+  "field": "hindi",
+  "new": "पारिभद्र (फरहद/Indian coral tree), इमली",
+  "kind": "gloss",
+  "note": "पारिभद्रक is not करंज",
+  "old": "करंज, इमली"
+ },
+ {
+  "id": "1.3._39_",
+  "field": "eng",
+  "new": "paribhadra (Indian coral tree)",
+  "kind": "gloss",
+  "note": "पारिभद्रक is not amaltas",
+  "old": "amaltas"
+ },
+ {
+  "id": "1.3._41_",
+  "field": "eng",
+  "new": "or asana",
+  "kind": "typo",
+  "note": "missing space/word",
+  "old": "orasan"
+ },
+ {
+  "id": "1.3._44_",
+  "field": "src",
+  "new": "मंगलाष्टशतं",
+  "kind": "ocr",
+  "note": "ओष्ठ (lip) is meaningless; मङ्गलाष्टशतं",
+  "old": "मंगलोष्टशतं"
+ },
+ {
+  "id": "1.3._44_",
+  "field": "split",
+  "new": "मङ्गल-अष्ट-शतं",
+  "kind": "split",
+  "note": "matches corrected src",
+  "old": "मङ्गल-ओष्ठ-शतं"
+ },
+ {
+  "id": "1.3._45_",
+  "field": "hindi",
+  "new": "सोने के पात्र में रखे हुए (kept in a gold vessel)",
+  "kind": "align",
+  "note": "Hindi disagreed with English; aligned (src still flagged)",
+  "old": "हाथ की हथेली में रखे हुए"
+ },
+ {
+  "id": "1.3._51_",
+  "field": "src",
+  "new": "अणुतैलं",
+  "kind": "ocr",
+  "note": "तैलं per split",
+  "old": "अणुंलैलं"
+ },
+ {
+  "id": "1.3._54_",
+  "field": "split",
+  "new": "शीलिनः",
+  "kind": "split",
+  "note": "शीलिनः per src",
+  "old": "शिलिनः"
+ },
+ {
+  "id": "1.3._54_",
+  "field": "eng",
+  "new": "नस्य-शीलिनः",
+  "kind": "typo",
+  "note": "शीलिनः",
+  "old": "नस्य-शिलिनः"
+ },
+ {
+  "id": "1.3._58_",
+  "field": "src",
+  "new": "पूति",
+  "kind": "ocr",
+  "note": "पूति (foul smell) per Hindi",
+  "old": "पूनि"
+ },
+ {
+  "id": "1.3._58_",
+  "field": "split",
+  "new": "पूति",
+  "kind": "split",
+  "note": "पूति",
+  "old": "पूनि"
+ },
+ {
+  "id": "1.3._63_",
+  "field": "src",
+  "new": "द्वात",
+  "kind": "ocr",
+  "note": "वात per split/Hindi",
+  "old": "द्धात"
+ },
+ {
+  "id": "1.3._64_",
+  "field": "split",
+  "new": "वासो",
+  "kind": "typo",
+  "note": "stray matra",
+  "old": "वासाे"
+ },
+ {
+  "id": "1.3._64_",
+  "field": "eng",
+  "new": "red",
+  "kind": "gloss",
+  "note": "रक्त = red coloured",
+  "old": "blood-stained"
+ },
+ {
+  "id": "1.3._65_",
+  "field": "src",
+  "new": "माल्यं",
+  "kind": "ocr",
+  "note": "माल्य (garland) per Hindi/English",
+  "old": "मौल्यं"
+ },
+ {
+  "id": "1.3._65_",
+  "field": "split",
+  "new": "माल्यं",
+  "kind": "split",
+  "note": "माल्यं",
+  "old": "मौल्यं"
+ },
+ {
+  "id": "1.3._70_",
+  "field": "hindi",
+  "new": "क्षत (chest injury), क्षीण (emaciated)",
+  "kind": "gloss",
+  "note": "क्षत/क्षीण gloss",
+  "old": "क्षत-क्षीण (chronic weakness)"
+ },
+ {
+  "id": "1.3._73_",
+  "field": "src",
+  "new": "च तत्",
+  "kind": "ocr",
+  "note": "missing space",
+  "old": "चतत्"
+ },
+ {
+  "id": "1.3._79_",
+  "field": "hindi",
+  "new": "देवता, पूजनीय जनों, घी तथा मंगल वस्तुओं को हाथ से स्पर्श करके/थामकर (touching with the hand) घर से बाहर निकलें ।",
+  "kind": "translation",
+  "note": "Hindi 'हाथ का सहारा' and 'दर्शन' not in Sanskrit"
+ },
+ {
+  "id": "1.3._82_",
+  "field": "src",
+  "new": "पर्यटेद्रात्रौ",
+  "kind": "ocr",
+  "note": "रात्रौ per split",
+  "old": "पर्यटेद्वात्रौ"
+ },
+ {
+  "id": "1.3._85_",
+  "field": "eng",
+  "new": "संध्ययोः",
+  "kind": "typo",
+  "note": "gloss spelling",
+  "old": "संध्यायोः"
+ },
+ {
+  "id": "1.3._86_",
+  "field": "src",
+  "new": "सेवेत",
+  "kind": "ocr",
+  "note": "सेवेत (resort to)",
+  "old": "सेषेत"
+ },
+ {
+  "id": "1.3._86_",
+  "field": "split",
+  "new": "सेवेत",
+  "kind": "split",
+  "note": "सेवेत",
+  "old": "सेषेत"
+ },
+ {
+  "id": "1.3._90_",
+  "field": "hindi",
+  "new": "जाने-पहचाने वृक्षों (known trees)",
+  "kind": "gloss",
+  "note": "'medicinal' fabricated",
+  "old": "जाने-पहचाने औषधीय वृक्षों (medicinal trees)"
+ },
+ {
+  "id": "1.3._93_",
+  "field": "src",
+  "new": "नातिपङ्केऽतिसायं",
+  "kind": "ocr",
+  "note": "पङ्क=mud per Hindi/English; stray र्",
+  "old": "नातिर्पङ्गेऽतिसायं"
+ },
+ {
+  "id": "1.3._93_",
+  "field": "split",
+  "new": "अति-पङ्के",
+  "kind": "split",
+  "note": "पङ्क=mud",
+  "old": "अति-पङ्गे"
+ },
+ {
+  "id": "1.3._95_",
+  "field": "split",
+  "new": "शत्रुणा",
+  "kind": "split",
+  "note": "match src",
+  "old": "शत्रुना"
+ },
+ {
+  "id": "1.3._96_",
+  "field": "src",
+  "new": "ऽऽर्त",
+  "kind": "ocr",
+  "note": "आर्त",
+  "old": "ऽऽतर्त"
+ },
+ {
+  "id": "1.3._96_",
+  "field": "split",
+  "new": "आर्त-",
+  "kind": "split",
+  "note": "आर्त",
+  "old": "आतर्त-"
+ },
+ {
+  "id": "1.3._97_",
+  "field": "eng",
+  "new": "should not be done in front of (पुरः/in the presence of) outsiders",
+  "kind": "translation",
+  "note": "English mistranslated",
+  "old": "should not be done before offering them to outsiders first"
+ },
+ {
+  "id": "1.3._98_",
+  "field": "src",
+  "new": "नाग्निस्कंधमभिब्रजेत्",
+  "kind": "ocr",
+  "note": "Hindi 'आग की लपटों'; अग्निस्कन्ध",
+  "old": "नाभिस्कंधमभिब्रजेत्"
+ },
+ {
+  "id": "1.3._98_",
+  "field": "split",
+  "new": "अग्नि-स्कंधम्",
+  "kind": "split",
+  "note": "अग्निस्कन्ध",
+  "old": "अभि-स्कंधम्"
+ },
+ {
+  "id": "1.3._98_",
+  "field": "eng",
+  "new": "nor walk straight toward a mass of blazing fire (अग्नि-स्कंधम्/blaze of fire)",
+  "kind": "translation",
+  "note": "fabricated gloss",
+  "old": "nor walk directly facing a heavy storm or dust ridge (अभि-स्कंधम्/frontal assault of wind/dust)"
+ },
+ {
+  "id": "1.3._104_",
+  "field": "hindi",
+  "new": "एक पक्ष (पखवाड़े) में तीन बार (three times in a fortnight)",
+  "kind": "translation",
+  "note": "त्रिः पक्षस्य",
+  "old": "एक महीने में तीन बार (three times a month)"
+ },
+ {
+  "id": "1.3._116_",
+  "field": "src",
+  "new": "निद्रादृक्",
+  "kind": "ocr",
+  "note": "दृक् per split/Hindi",
+  "old": "निद्राहृक्"
+ },
+ {
+  "id": "1.3._118_",
+  "field": "src",
+  "new": "वर्ज्यो",
+  "kind": "ocr",
+  "note": "वर्ज्यः",
+  "old": "व्रज्र्यो"
+ },
+ {
+  "id": "1.3._118_",
+  "field": "split",
+  "new": "वर्ज्यो",
+  "kind": "split",
+  "note": "वर्ज्यः",
+  "old": "व्रज्र्यो"
+ },
+ {
+  "id": "1.3._118_",
+  "field": "eng",
+  "new": "वर्ज्यो",
+  "kind": "typo",
+  "note": "वर्ज्यः",
+  "old": "व्रज्र्यो"
+ },
+ {
+  "id": "1.3._122_",
+  "field": "eng",
+  "new": "pitta",
+  "kind": "typo",
+  "note": "stray suffix",
+  "old": "pittadi"
+ }
+]
