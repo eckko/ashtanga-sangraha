@@ -1,0 +1,502 @@
+[
+ {
+  "id": "1.3._129_",
+  "field": "src",
+  "old": "गज सिंहइवा",
+  "new": "गजं सिंह इवा",
+  "kind": "ocr",
+  "note": "dropped anusvara/space; split has गजं सिंह इव"
+ },
+ {
+  "id": "1.3._129_",
+  "field": "hindi",
+  "old": "जो मनुष्य अत्यधिक शक्ति का ह्रास करता है, वह नष्ट हो जाता है",
+  "new": "जो मनुष्य इन (साहस के कार्यों) का अत्यधिक सेवन करता है, वह नष्ट हो जाता है",
+  "kind": "translation",
+  "note": "भजन् अति = excessive indulgence, not loss of strength"
+ },
+ {
+  "id": "1.3._133_",
+  "field": "src",
+  "old": "स्वेद्तंद्रा",
+  "new": "स्वेदतंद्रा",
+  "kind": "ocr",
+  "note": "stray halant"
+ },
+ {
+  "id": "1.3._135_",
+  "field": "src",
+  "old": "बलहत्केश",
+  "new": "बलहृत्केश",
+  "kind": "ocr",
+  "note": "बलहृत् per split"
+ },
+ {
+  "id": "1.3._139_",
+  "field": "eng",
+  "old": "stand on the edge of a dangerous water reservoir",
+  "new": "stand on the bank gazing at the water reservoir",
+  "kind": "translation",
+  "note": "\"dangerous\" not in Sanskrit"
+ },
+ {
+  "id": "1.3._140_",
+  "field": "src",
+  "old": "स्फाालयेद्",
+  "new": "स्फालयेद्",
+  "kind": "ocr",
+  "note": "doubled matra"
+ },
+ {
+  "id": "1.3._140_",
+  "field": "split",
+  "old": "स्फाालयेद्",
+  "new": "स्फालयेद्",
+  "kind": "ocr",
+  "note": "doubled matra"
+ },
+ {
+  "id": "1.3._145_",
+  "field": "eng",
+  "old": "Bathing is contraindicated (गर्हितं/forbidden) for those suffering from facial paralysis",
+  "new": "Bathing is contraindicated for those suffering from facial paralysis (अर्दित)",
+  "kind": "gloss",
+  "note": "गर्हितं belongs to next row"
+ },
+ {
+  "id": "1.3._147_",
+  "field": "split",
+  "old": "भुंजीत् अन्नं विना अत्यंतयात्",
+  "new": "भुंजीत अन्नं विना अत्ययात्",
+  "kind": "split",
+  "note": "split letters do not match src विनात्ययात्"
+ },
+ {
+  "id": "1.3._152_",
+  "field": "eng",
+  "old": "women who dominate their husbands",
+  "new": "men ruled by women",
+  "kind": "translation",
+  "note": "स्त्रीजित = one conquered/ruled by women"
+ },
+ {
+  "id": "1.3._154_",
+  "field": "src",
+  "old": "पिवेत ॥",
+  "new": "पिवेत् ॥",
+  "kind": "ocr",
+  "note": "missing halant"
+ },
+ {
+  "id": "1.3._157_",
+  "field": "eng",
+  "new": "With stories that are rich in dharma, meaningful, and possessing the three guṇas.",
+  "kind": "align",
+  "note": "English carried 158's midday clause"
+ },
+ {
+  "id": "1.3._158_",
+  "field": "src",
+  "old": "दिष्टशिष्ठ",
+  "new": "दिष्टशिष्ट",
+  "kind": "typo",
+  "note": "शिष्ट"
+ },
+ {
+  "id": "1.3._158_",
+  "field": "split",
+  "old": "दिष्ट-शिष्ठ",
+  "new": "दिष्ट-शिष्ट",
+  "kind": "typo",
+  "note": "शिष्ट"
+ },
+ {
+  "id": "1.3._161_",
+  "field": "eng",
+  "new": "Content with matters other than learning (श्रुत), yet curious in that very field.",
+  "kind": "translation",
+  "note": "श्रुताद् अन्यत्र संतुष्टः; English reversed meaning, Hindi correct"
+ },
+ {
+  "id": "1.3._164_",
+  "field": "src",
+  "old": "साघुराश्रित",
+  "new": "साधुराश्रित",
+  "kind": "ocr",
+  "note": "घ for ध"
+ },
+ {
+  "id": "1.3._164_",
+  "field": "eng",
+  "old": "kind to refugees",
+  "new": "fond of dependents",
+  "kind": "gloss",
+  "note": "आश्रित = dependent"
+ },
+ {
+  "id": "1.3._168_",
+  "field": "src",
+  "old": "सुशीलाः",
+  "new": "सुशीलः",
+  "kind": "ocr",
+  "note": "nominative singular"
+ },
+ {
+  "id": "1.3._168_",
+  "field": "split",
+  "old": "सुशीलाः",
+  "new": "सुशीलः",
+  "kind": "ocr",
+  "note": "nominative singular"
+ },
+ {
+  "id": "1.3._171_",
+  "field": "split",
+  "old": "सुतरामभ्युपेक्षेत",
+  "new": "सुतराम् अभ्युपेक्षेत",
+  "kind": "split",
+  "note": "unsplit"
+ },
+ {
+  "id": "1.3._174_",
+  "field": "split",
+  "old": "न हीनान् नावमन्येत",
+  "new": "न हीनान् अवमन्येत",
+  "kind": "split",
+  "note": "extra ना; src न हीनानवमन्येत"
+ },
+ {
+  "id": "1.3._174_",
+  "field": "src",
+  "old": "वृत्यथाँगबल",
+  "new": "वृत्त्यंगबल",
+  "kind": "ocr",
+  "note": "वृत्ति+अङ्ग"
+ },
+ {
+  "id": "1.3._174_",
+  "field": "split",
+  "old": "वृत्य-अङ्ग",
+  "new": "वृत्ति-अङ्ग",
+  "kind": "split",
+  "note": "वृत्ति+अङ्ग = वृत्त्यङ्ग"
+ },
+ {
+  "id": "1.3._174_",
+  "field": "hindi",
+  "old": "उनके सेवक,",
+  "new": "आजीविका,",
+  "kind": "gloss",
+  "note": "वृत्ति = livelihood (English says livelihood)"
+ },
+ {
+  "id": "1.3._179_",
+  "field": "src",
+  "old": "गीतादिनेाल्बणां",
+  "new": "गीतादिनोल्बणां",
+  "kind": "ocr",
+  "note": "garbled vowel (आदिना+उल्बणां)"
+ },
+ {
+  "id": "1.3._179_",
+  "field": "split",
+  "old": "गीतादिनेाल्बणां",
+  "new": "गीत-आदिना उल्बणां",
+  "kind": "ocr",
+  "note": "sandhi resolved"
+ },
+ {
+  "id": "1.3._180_",
+  "field": "src",
+  "old": "वाग्वेवषशम",
+  "new": "वाग्वेषशम",
+  "kind": "ocr",
+  "note": "doubled व"
+ },
+ {
+  "id": "1.3._186_",
+  "field": "src",
+  "old": "विकुष्णीयादशनान्न",
+  "new": "विकुष्णीयाद्दशनान्न",
+  "kind": "ocr",
+  "note": "दशनान् after विकुष्णीयाद्"
+ },
+ {
+  "id": "1.3._192_",
+  "field": "split",
+  "old": "असमिल्धम्",
+  "new": "असमिद्धम्",
+  "kind": "typo",
+  "note": "असमिद्ध"
+ },
+ {
+  "id": "1.3._193_",
+  "field": "eng",
+  "old": "an distracted",
+  "new": "a distracted",
+  "kind": "typo",
+  "note": "article"
+ },
+ {
+  "id": "1.3._194_",
+  "field": "split",
+  "old": "आस्येण",
+  "new": "आस्येन",
+  "kind": "typo",
+  "note": "instrumental आस्येन"
+ },
+ {
+  "id": "1.3._194_",
+  "field": "hindi",
+  "old": "मुख से फूंक मारकर आग न बुझाएं",
+  "new": "मुख से आग को फूंक न मारें",
+  "kind": "translation",
+  "note": "धमेत् = blow/fan, not extinguish"
+ },
+ {
+  "id": "1.3._198_",
+  "field": "src",
+  "old": "उपरकं",
+  "new": "उपरक्तं",
+  "kind": "ocr",
+  "note": "missing क्"
+ },
+ {
+  "id": "1.3._198_",
+  "field": "split",
+  "old": "उपरकं",
+  "new": "उपरक्तं",
+  "kind": "ocr",
+  "note": "missing क्"
+ },
+ {
+  "id": "1.3._200_",
+  "field": "src",
+  "old": "स्त्रवंतीं",
+  "new": "स्रवंतीं",
+  "kind": "ocr",
+  "note": "matches split"
+ },
+ {
+  "id": "1.3._200_",
+  "field": "src",
+  "old": "नोदैक्यां",
+  "new": "नोदक्यां",
+  "kind": "ocr",
+  "note": "उदक्यां"
+ },
+ {
+  "id": "1.3._201_",
+  "field": "src",
+  "old": "जूंभा",
+  "new": "जृंभा",
+  "kind": "ocr",
+  "note": "ू for ृ"
+ },
+ {
+  "id": "1.3._201_",
+  "field": "hindi",
+  "new": "पीते समय, भोजन करते समय, जंभाई लेते समय और सुखपूर्वक बैठी हुई अवस्था में (स्त्री को) न देखें ।",
+  "kind": "translation",
+  "note": "Hindi disagreed with Sanskrit/English; only certain parts translated"
+ },
+ {
+  "id": "1.3._201_",
+  "field": "eng",
+  "new": "Do not look (at a woman) while she is drinking, eating, yawning, or seated at ease.",
+  "kind": "translation",
+  "note": "English disagreed with Hindi; follows पान-भोजन-जृंभा-सुखासने"
+ },
+ {
+  "id": "1.3._205_",
+  "field": "src",
+  "old": "पठेत्र",
+  "new": "पठेन्न",
+  "kind": "ocr",
+  "note": "पठेत् न"
+ },
+ {
+  "id": "1.3._209_",
+  "field": "src",
+  "old": "प क्षस्य",
+  "new": "पक्षस्य",
+  "kind": "ocr",
+  "note": "stray space"
+ },
+ {
+  "id": "1.3._210_",
+  "field": "src",
+  "old": "लग्मर्क्ष",
+  "new": "लग्नर्क्ष",
+  "kind": "ocr",
+  "note": "लग्न"
+ },
+ {
+  "id": "1.3._211_",
+  "field": "src",
+  "old": "नाषमानं",
+  "new": "नापमानं",
+  "kind": "ocr",
+  "note": "अपमान"
+ },
+ {
+  "id": "1.3._216_",
+  "field": "src",
+  "old": "विग्र्रहम",
+  "new": "विग्रहम",
+  "kind": "ocr",
+  "note": "doubled र"
+ },
+ {
+  "id": "1.3._216_",
+  "field": "split",
+  "old": "विग्र्रहम्",
+  "new": "विग्रहम्",
+  "kind": "ocr",
+  "note": "doubled र"
+ },
+ {
+  "id": "1.3._217_",
+  "field": "src",
+  "old": "स्वभाध्ययन",
+  "new": "स्वप्नाध्ययन",
+  "kind": "ocr",
+  "note": "स्वप्न per split"
+ },
+ {
+  "id": "1.3._223_",
+  "field": "src",
+  "old": "नार्धर्भि",
+  "new": "नाधर्मि",
+  "kind": "ocr",
+  "note": "अधर्मि-जन-भूयिष्ठं; Hindi दुष्ट लोगों"
+ },
+ {
+  "id": "1.3._223_",
+  "field": "split",
+  "old": "अर्द्धर्भि",
+  "new": "अधर्मि",
+  "kind": "ocr",
+  "note": "अधर्मि"
+ },
+ {
+  "id": "1.3._223_",
+  "field": "eng",
+  "old": "half-educated people",
+  "new": "unrighteous people",
+  "kind": "translation",
+  "note": "अधर्मि"
+ },
+ {
+  "id": "1.3._228_",
+  "field": "src",
+  "old": "द्रश",
+  "new": "दश",
+  "kind": "ocr",
+  "note": "दश"
+ },
+ {
+  "id": "1.3._228_",
+  "field": "split",
+  "old": "द्रश",
+  "new": "दश",
+  "kind": "ocr",
+  "note": "दश"
+ },
+ {
+  "id": "1.3._229_",
+  "field": "src",
+  "old": "हिंसाँस्तेय",
+  "new": "हिंसास्तेय",
+  "kind": "ocr",
+  "note": "stray candrabindu"
+ },
+ {
+  "id": "1.3._230_",
+  "field": "hindi",
+  "old": "ईर्ष्या",
+  "new": "पराये धन की लालसा",
+  "kind": "gloss",
+  "note": "अभिध्या = covetousness"
+ },
+ {
+  "id": "1.3._233_",
+  "field": "src",
+  "old": "बव्हनर्थानाम",
+  "new": "बह्वनर्थानाम",
+  "kind": "ocr",
+  "note": "बह्व"
+ },
+ {
+  "id": "1.3._233_",
+  "field": "eng",
+  "old": "बव्हनर्थानाम्",
+  "new": "बह्वनर्थानाम्",
+  "kind": "ocr",
+  "note": "बह्व"
+ },
+ {
+  "id": "1.3._237_",
+  "field": "src",
+  "old": "द्वित्रासपरिचारकः",
+  "new": "द्वित्राप्तपरिचारकः",
+  "kind": "ocr",
+  "note": "द्वि-त्र-आप्त (trusted attendants)"
+ },
+ {
+  "id": "1.3._237_",
+  "field": "split",
+  "old": "द्वि त्राः परिचारकः",
+  "new": "द्वि त्र आप्त परिचारकः",
+  "kind": "split",
+  "note": "nonsense split"
+ },
+ {
+  "id": "1.3._237_",
+  "field": "eng",
+  "old": "two or three attendants",
+  "new": "two or three trusted attendants",
+  "kind": "translation",
+  "note": "आप्त"
+ },
+ {
+  "id": "1.3._240_",
+  "field": "src",
+  "old": "गुरून प्रति",
+  "new": "गुरून् प्रति",
+  "kind": "ocr",
+  "note": "missing halant"
+ },
+ {
+  "id": "1.3._245_",
+  "field": "split",
+  "old": "विपर्यये",
+  "new": "विपर्य्यये",
+  "kind": "split",
+  "note": "match src"
+ },
+ {
+  "id": "1.3._247_",
+  "field": "src",
+  "old": "अद्रूषयन्",
+  "new": "अदूषयन्",
+  "kind": "ocr",
+  "note": "extra र"
+ },
+ {
+  "id": "1.3._248_",
+  "field": "src",
+  "old": "पैर्य्यस्तिक",
+  "new": "पर्य्यस्तिक",
+  "kind": "ocr",
+  "note": "पर्य्यस्तिक per split"
+ },
+ {
+  "id": "1.3._249_",
+  "field": "src",
+  "old": "तत्संन्नि धाने",
+  "new": "तत्संनिधाने",
+  "kind": "ocr",
+  "note": "stray doubled न/space"
+ }
+]

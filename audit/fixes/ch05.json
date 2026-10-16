@@ -1,0 +1,458 @@
+[
+ {
+  "id": "1.5._2_",
+  "field": "src",
+  "old": "वेगाझ",
+  "new": "वेगान्न",
+  "kind": "ocr",
+  "note": "झ for न्न; split वेगान् न"
+ },
+ {
+  "id": "1.5._2_",
+  "field": "eng",
+  "old": "(मूत्र/piss)",
+  "new": "(मूत्र/पेशाब)",
+  "kind": "gloss",
+  "note": "crude gloss"
+ },
+ {
+  "id": "1.5._3_",
+  "field": "src",
+  "old": "जूंभा",
+  "new": "जृंभा",
+  "kind": "ocr",
+  "note": "ऋ matra; split जृम्भा"
+ },
+ {
+  "id": "1.5._3_",
+  "field": "eng",
+  "old": "श्रम श्वासात्/",
+  "new": "श्रम श्वास/",
+  "kind": "typo",
+  "note": "case mismatch with src"
+ },
+ {
+  "id": "1.5._4_",
+  "field": "src",
+  "old": "रुक्कुमाः",
+  "new": "रुक्क्लमाः",
+  "kind": "ocr",
+  "note": "split/Hindi क्लमाः"
+ },
+ {
+  "id": "1.5._5_",
+  "field": "src",
+  "old": "वातसूत्र",
+  "new": "वातमूत्र",
+  "kind": "ocr",
+  "note": "सूत्र for मूत्र; split मूत्र"
+ },
+ {
+  "id": "1.5._8_",
+  "field": "src",
+  "old": "शक्रतः",
+  "new": "शकृतः",
+  "kind": "ocr",
+  "note": "feces; split शकृतः"
+ },
+ {
+  "id": "1.5._9_",
+  "field": "src",
+  "old": "पेरीकर्तो",
+  "new": "परिकर्तो",
+  "kind": "ocr",
+  "note": "split परिकर्तो"
+ },
+ {
+  "id": "1.5._13_",
+  "field": "hindi",
+  "old": "स्वेदन (fretting/sweating)",
+  "new": "स्वेदन (sweating therapy)",
+  "kind": "gloss",
+  "note": "fretting wrong"
+ },
+ {
+  "id": "1.5._13_",
+  "field": "hindi",
+  "old": "अवगाह (oil bath)",
+  "new": "अवगाह (tub bath/immersion)",
+  "kind": "gloss",
+  "note": "avagaha is immersion bath"
+ },
+ {
+  "id": "1.5._14_",
+  "field": "src",
+  "old": "विड्रोद्भोत्थेषु",
+  "new": "विड्विबन्धोत्थेषु",
+  "kind": "ocr",
+  "note": "garbled; split+Hindi: विट् विबन्ध उत्थेषु"
+ },
+ {
+  "id": "1.5._14_",
+  "field": "split",
+  "old": "विबन्धात् उत्थेषु",
+  "new": "विबन्ध उत्थेषु",
+  "kind": "split",
+  "note": "match विड्विबन्धोत्थेषु"
+ },
+ {
+  "id": "1.5._16_",
+  "field": "src",
+  "old": "योजनावद्वयं",
+  "new": "योजनाद्वयं",
+  "kind": "ocr",
+  "note": "stray व; split योजना द्वयम्"
+ },
+ {
+  "id": "1.5._21_",
+  "field": "eng",
+  "old": "तेज बीड़ी",
+  "new": "तेज धूम्रपान",
+  "kind": "gloss",
+  "note": "beedi is not tikshna dhuma"
+ },
+ {
+  "id": "1.5._24_",
+  "field": "src",
+  "old": "भ्र महृद्गदाः",
+  "new": "भ्रमहृद्गदाः",
+  "kind": "ocr",
+  "note": "stray space"
+ },
+ {
+  "id": "1.5._26_",
+  "field": "hindi",
+  "old": "leaness",
+  "new": "leanness",
+  "kind": "typo",
+  "note": ""
+ },
+ {
+  "id": "1.5._28_",
+  "field": "src",
+  "old": "सूर्च्छा",
+  "new": "मूर्च्छा",
+  "kind": "ocr",
+  "note": "fainting; split मूर्च्छा"
+ },
+ {
+  "id": "1.5._34_",
+  "field": "src",
+  "old": "जूंभायाः",
+  "new": "जृंभायाः",
+  "kind": "ocr",
+  "note": "split जृम्भायाः"
+ },
+ {
+  "id": "1.5._40_",
+  "field": "src",
+  "old": "श्रुतिरस्त्रस्य",
+  "new": "श्रुतिरस्रस्य",
+  "kind": "ocr",
+  "note": "अस्र = blood (bloodletting)"
+ },
+ {
+  "id": "1.5._40_",
+  "field": "split",
+  "old": "अस्त्रस्य",
+  "new": "अस्रस्य",
+  "kind": "split",
+  "note": "blood"
+ },
+ {
+  "id": "1.5._40_",
+  "field": "eng",
+  "old": "श्रुतिः अस्त्रस्य/",
+  "new": "श्रुतिः अस्रस्य/",
+  "kind": "typo",
+  "note": "blood"
+ },
+ {
+  "id": "1.5._43_",
+  "field": "src",
+  "old": "संगौग भंग",
+  "new": "संगांगभंग",
+  "kind": "ocr",
+  "note": "सङ्ग अङ्ग भङ्ग"
+ },
+ {
+  "id": "1.5._43_",
+  "field": "split",
+  "old": "सङ्गौ अङ्ग",
+  "new": "सङ्ग अङ्ग",
+  "kind": "split",
+  "note": ""
+ },
+ {
+  "id": "1.5._43_",
+  "field": "eng",
+  "old": "मूत्र सङ्गौ/",
+  "new": "मूत्र सङ्ग/",
+  "kind": "typo",
+  "note": ""
+ },
+ {
+  "id": "1.5._45_",
+  "field": "src",
+  "old": "स्त्रियः' ॥",
+  "new": "स्त्रियः ॥",
+  "kind": "typo",
+  "note": "stray apostrophe"
+ },
+ {
+  "id": "1.5._46_",
+  "field": "src",
+  "old": "विड्ड्रमं",
+  "new": "विड्वमं",
+  "kind": "ocr",
+  "note": "विड्वम = vomiting feces; matches English"
+ },
+ {
+  "id": "1.5._46_",
+  "field": "split",
+  "old": "विड् भ्रमम्",
+  "new": "विड् वमम्",
+  "kind": "split",
+  "note": ""
+ },
+ {
+  "id": "1.5._46_",
+  "field": "hindi",
+  "old": "मल के विबन्ध और भ्रम (dizziness) से युक्त",
+  "new": "मल की उल्टी (vomiting of feces) करने वाले",
+  "kind": "translation",
+  "note": "match Eng/विड्वमम्"
+ },
+ {
+  "id": "1.5._46_",
+  "field": "eng",
+  "old": "(विड् भ्रमम्/",
+  "new": "(विड् वमम्/",
+  "kind": "split",
+  "note": ""
+ },
+ {
+  "id": "1.5._49_",
+  "field": "src",
+  "old": "तैंतश्चा",
+  "new": "तैस्ततश्चा",
+  "kind": "ocr",
+  "note": "split तैः ततः"
+ },
+ {
+  "id": "1.5._49_",
+  "field": "eng",
+  "old": "अनेकाधा",
+  "new": "अनेकधा",
+  "kind": "typo",
+  "note": ""
+ },
+ {
+  "id": "1.5._54_",
+  "field": "hindi",
+  "old": "नष्ट कर देते हैं",
+  "new": "रोग उत्पन्न करते हैं",
+  "kind": "translation",
+  "note": "कुर्वते (make diseases, obj. गदान् in next row); Eng says cause diseases"
+ },
+ {
+  "id": "1.5._55_",
+  "field": "hindi",
+  "old": "पुरुषों के रोगों को।",
+  "new": "(दवा से ठीक न होने वाले) रोगों को (वे उत्पन्न करते हैं)।",
+  "kind": "translation",
+  "note": "भेषजद्वेषिणः modifies गदान्; clause incomplete"
+ },
+ {
+  "id": "1.5._55_",
+  "field": "eng",
+  "old": "भेषजष",
+  "new": "भेषज",
+  "kind": "typo",
+  "note": ""
+ },
+ {
+  "id": "1.5._56_",
+  "field": "src",
+  "old": "कुष्ठमे हहृतौजसः",
+  "new": "कुष्ठमेहहृतौजसः",
+  "kind": "ocr",
+  "note": "stray space"
+ },
+ {
+  "id": "1.5._58_",
+  "field": "src",
+  "old": "जठरुच्छ्रालसक",
+  "new": "जठरोच्छ्रायालसक",
+  "kind": "ocr",
+  "note": "split जठर उच्छ्राय अलसक"
+ },
+ {
+  "id": "1.5._61_",
+  "field": "src",
+  "old": "स्वप्र",
+  "new": "स्वप्न",
+  "kind": "ocr",
+  "note": "split स्वप्न"
+ },
+ {
+  "id": "1.5._63_",
+  "field": "src",
+  "old": "तेजौवर्ण",
+  "new": "तेजोवर्ण",
+  "kind": "ocr",
+  "note": ""
+ },
+ {
+  "id": "1.5._64_",
+  "field": "src",
+  "old": "हारैै",
+  "new": "हारै",
+  "kind": "ocr",
+  "note": "doubled matra"
+ },
+ {
+  "id": "1.5._65_",
+  "field": "src",
+  "old": "दोषोपलिसवदना",
+  "new": "दोषोपलिप्तवदना",
+  "kind": "ocr",
+  "note": "split उपलिप्त"
+ },
+ {
+  "id": "1.5._66_",
+  "field": "src",
+  "old": "वमनाद्द्रानतोयुंज्यात्",
+  "new": "वमनादीन्ततो युंज्यात्",
+  "kind": "ocr",
+  "note": "garbled; Hindi/Eng: emesis etc."
+ },
+ {
+  "id": "1.5._66_",
+  "field": "split",
+  "old": "वमनात् दानात् युञ्ज्यात्",
+  "new": "वमन आदीन् ततः युञ्ज्यात्",
+  "kind": "split",
+  "note": ""
+ },
+ {
+  "id": "1.5._66_",
+  "field": "eng",
+  "old": "emesis or elimination therapy (वमनात् दानात्/उल्टी आदि देना)",
+  "new": "emesis and the other purification therapies (वमन आदीन्/वमन आदि शोधन)",
+  "kind": "translation",
+  "note": ""
+ },
+ {
+  "id": "1.5._66_",
+  "field": "eng",
+  "old": "(युञ्जीत/",
+  "new": "(युञ्ज्यात्/",
+  "kind": "typo",
+  "note": "match split"
+ },
+ {
+  "id": "1.5._71_",
+  "field": "src",
+  "old": "हारैंर्बृहणं",
+  "new": "हारैर्बृंहणं",
+  "kind": "ocr",
+  "note": ""
+ },
+ {
+  "id": "1.5._75_",
+  "field": "hindi",
+  "old": "अग्नि का पाटन",
+  "new": "अग्नि का पाटव",
+  "kind": "typo",
+  "note": "पाटवम्"
+ },
+ {
+  "id": "1.5._77_",
+  "field": "hindi",
+  "old": "भूत (microbes/evil spirits)",
+  "new": "भूत (evil spirits)",
+  "kind": "gloss",
+  "note": "microbes wrong"
+ },
+ {
+  "id": "1.5._82_",
+  "field": "src",
+  "old": "भूताद्यस्पर्शंनोपायो",
+  "new": "भूताद्यस्पर्शनोपायो",
+  "kind": "ocr",
+  "note": "stray anusvara"
+ },
+ {
+  "id": "1.5._85_",
+  "field": "src",
+  "old": "वसंतै",
+  "new": "वसंते",
+  "kind": "ocr",
+  "note": ""
+ },
+ {
+  "id": "1.5._85_",
+  "field": "src",
+  "old": "ग्रीष्मजम्अकाले",
+  "new": "ग्रीष्मजमभ्रकाले",
+  "kind": "ocr",
+  "note": "अभ्रकाले = rainy season (AH reading); अकाले contradicts doctrine"
+ },
+ {
+  "id": "1.5._85_",
+  "field": "split",
+  "old": "ग्रीष्मजम् अकाले",
+  "new": "ग्रीष्मजम् अभ्रकाले",
+  "kind": "split",
+  "note": ""
+ },
+ {
+  "id": "1.5._85_",
+  "field": "hindi",
+  "old": "को वर्षा ऋतु के बिना (untimely) शोधन",
+  "new": "को वर्षा ऋतु (अभ्र काल) में शोधन",
+  "kind": "translation",
+  "note": ""
+ },
+ {
+  "id": "1.5._85_",
+  "field": "eng",
+  "old": "(ग्रीष्मजम्/गर्मी से बढ़ा पित्त) during the unseasonal period",
+  "new": "(ग्रीष्मजम्/गर्मी से बढ़ा वात) during the rainy season (अभ्रकाले/बादलों का समय, वर्षा)",
+  "kind": "gloss",
+  "note": "summer accumulation is Vata, not Pitta"
+ },
+ {
+  "id": "1.5._86_",
+  "field": "src",
+  "old": "रोगानृतुजात्रजातु",
+  "new": "रोगानृतुजान्न जातु",
+  "kind": "ocr",
+  "note": "split ऋतु जान् न जातु"
+ },
+ {
+  "id": "1.5._86_",
+  "field": "eng",
+  "old": "बरसात का बढ़ा वात",
+  "new": "बरसात का बढ़ा पित्त",
+  "kind": "gloss",
+  "note": "rainy-season chaya is Pitta (Hindi says pitta)"
+ },
+ {
+  "id": "1.5._86_",
+  "field": "eng",
+  "old": "at the end of autumn clouds (घन अत्यये/शरद ऋतु में)",
+  "new": "at the end of the rains (घन अत्यये/बादलों के जाने पर, शरद ऋतु में)",
+  "kind": "translation",
+  "note": ""
+ },
+ {
+  "id": "1.5._89_",
+  "field": "src",
+  "old": "अर्थेष्वलभ्येष्व्कृत",
+  "new": "अर्थेष्वलभ्येष्वकृत",
+  "kind": "ocr",
+  "note": "stray halant"
+ }
+]
