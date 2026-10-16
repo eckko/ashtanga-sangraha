@@ -46,14 +46,20 @@ def mcq(role, rung, q, right, wrongs, explain, rule, teaches=None,
     return out
 
 
-def match(rung, q, pairs, explain, rule, role="warmup"):
-    return {"role": role, "rung": rung, "kind": "match", "q": q,
-            "pairs": pairs, "explain": explain, "rule": rule}
+def match(rung, q, pairs, explain, rule, role="warmup", teaches=None):
+    out = {"role": role, "rung": rung, "kind": "match", "q": q,
+           "pairs": pairs, "explain": explain, "rule": rule}
+    if teaches:
+        out["teaches"] = teaches
+    return out
 
 
-def order(rung, q, items, explain, rule, role="warmup"):
-    return {"role": role, "rung": rung, "kind": "order", "q": q,
-            "items": items, "explain": explain, "rule": rule}
+def order(rung, q, items, explain, rule, role="warmup", teaches=None):
+    out = {"role": role, "rung": rung, "kind": "order", "q": q,
+           "items": items, "explain": explain, "rule": rule}
+    if teaches:
+        out["teaches"] = teaches
+    return out
 
 
 def fill(rung, q, accept, explain, teaches, rule, role="extend"):
