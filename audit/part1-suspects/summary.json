@@ -52,19 +52,17 @@
   "40": 46
  },
  "flags_by_kind": {
-  "split-diverges": 446,
-  "malformed-akshara-source": 41,
+  "split-diverges": 440,
+  "malformed-akshara-source": 37,
   "UNTRANSLATED-CHAPTER": 35,
-  "known-ocr": 12,
-  "odd-script-hindi": 1,
-  "latin-in-split": 1
+  "known-ocr": 11
  },
  "flags_by_chapter": {
-  "1": 6,
-  "2": 8,
-  "3": 3,
-  "4": 11,
-  "5": 10,
+  "1": 1,
+  "2": 7,
+  "3": 1,
+  "4": 8,
+  "5": 8,
   "6": 36,
   "7": 74,
   "8": 48,
