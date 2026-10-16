@@ -206,11 +206,9 @@ AUTHORED["95"] = {
     "rule": ("Line 1 names the nose (नासिका) and the teeth (दशन) as objects of "
              "prohibited acts. Line 2 lists cutting, splitting, snapping and "
              "rubbing; the text of both lines is doubtful."),
-    "limits": ("Low confidence. In line 1 the verb after दशनान्न (विषह्वयेत्) is "
-               "unclear, and विकुष्णीयात् ('tear at, pick') is an inferred sense. "
-               "In line 2 the first word (कुर्य्यादिलेखन-) is a doubtful print, and as "
-               "printed the line would be a command, not a prohibition. The card "
-               "tests only the clear words."),
+    "limits": ("Low confidence. The verb after दशनान्न (विषह्वयेत्) is unclear, "
+               "विकुष्णीयात् is an inferred sense, and line 2 starts with a doubtful "
+               "print that would make it a command. Only clear words are tested."),
     "explain_hi": ("यह इकाई दूषित है, इसलिए केवल साफ़ शब्दों पर प्रश्न हैं। पहली पंक्ति में "
                    "नाक (नासिका) और दाँत (दशन) कर्म के रूप में आते हैं; ‘विकुष्णीयात्’ का ‘कुरेदना/"
                    "खींचना’ अर्थ अनुमान से लिया गया है, और दाँतों वाली क्रिया (‘विषह्वयेत्’) अस्पष्ट है। "
@@ -315,7 +313,7 @@ AUTHORED["96"] = {
               ["आक्रमेत् (दबाए)", "कंडूयेत् (खुजलाए)", "शौचयेत् (साफ़ करे)"],
               "Line 2 says: press, scratch, clean.",
               "आक्रमेत् · कंडूयेत् · शौचयेत्.", role="apply"),
-        mcq("transfer", 5, "How is न + अशुचि ('not unclean') written when joined?",
+        mcq("transfer", 5, "How is न + अशुचि (न meaning not, अशुचि unclean) written when joined?",
             ("नाशुचि", "न + अ gives ना."),
             [("नशुचि", "The अ would be lost, which sandhi does not do here."),
              ("नैशुचि", "ऐ comes from न + ए, not न + अ."),
@@ -377,7 +375,7 @@ AUTHORED["97"] = {
               ["नख", "पाद", "मलाशय"],
               "The compound runs nails, feet, seats of impurity.",
               "नख · पाद · मलाशय.", role="apply"),
-        mcq("transfer", 5, "How is न + उक्तम् ('not said') written when joined?",
+        mcq("transfer", 5, "How is न + उक्तम् (न meaning not, उक्तम् said) written when joined?",
             ("नोक्तम्", "अ + उ gives ओ."),
             [("नुक्तम्", "The vowel would not stay उ."),
              ("नाक्तम्", "ना would come from न + अ."),
@@ -442,7 +440,7 @@ AUTHORED["98"] = {
               ["असमिद्ध", "अशुचि", "अनुवात", "विवृत", "क्लान्त", "अन्यमानस"],
               "Line 1 gives unkindled and unclean; line 2 gives along the wind, uncovered, weary, mind elsewhere.",
               "असमिद्ध · अशुचि · अनुवात · विवृत · क्लान्त · अन्यमानस.", role="apply"),
-        mcq("transfer", 5, "How is न + एकम् ('not one') written when joined?",
+        mcq("transfer", 5, "How is न + एकम् (न meaning not, एकम् one) written when joined?",
             ("नैकम्", "अ + ए gives ऐ, as in न + एव = नैव."),
             [("नेकम्", "अ + ए does not stay ए."),
              ("नाइकम्", "No इ is inserted."),
@@ -571,7 +569,7 @@ AUTHORED["100"] = {
               ["अप्रशस्त", "विण्मूत्र", "अमार्जित दर्पण"],
               "Line 1 gives the inauspicious, faeces and urine, then the unwiped mirror.",
               "अप्रशस्त · विण्मूत्र · अमार्जित दर्पण.", role="apply"),
-        mcq("transfer", 5, "Which phrase is right for 'a blazing fire' (अग्निम्, masculine accusative)?",
+        mcq("transfer", 5, "Which phrase agrees with अग्निम् (fire, masculine accusative) to say blazing fire?",
             ("अग्निं तपन्तम्",
              "A masculine accusative noun takes -न्तम्, like तपन्तम्."),
             [("अग्निं तपन्ती", "-न्ती is feminine."),
@@ -689,7 +687,7 @@ AUTHORED["102"] = {
             "न (not) + उदक्याम् (a menstruating woman).",
             "अ + उ → ओ.",
             teaches="न + उ- joins as नो- (नोदक्याम्, like नोपविष्टः)."),
-        multi("discriminate", 3, "Which activities does line 2 name clearly? One word in the line is corrupt. Choose all that apply.",
+        multi("discriminate", 3, "Which activities does line 2 name? One word in the line is corrupt. Choose all that apply.",
               [("drinking (पान)", "Right: the first item."),
                ("eating (भोजन)", "Right: the second item."),
                ("yawning (जृम्भा)", "Right: it follows the corrupt word."),
@@ -973,21 +971,21 @@ IMAGE_SPECS = {
         "file": "ch3b08-three-nots-94.svg",
         "alt": "Mind map: three prohibitions: scratching the head with both hands at once, a load on the head, fire and water together",
         "type": "mermaid",
-        "code": ('mindmap\n  तीन निषेध\n    "दोनों हाथों से<br/>एक साथ सिर खुजलाना"\n'
-                 '    "सिर पर बोझ"\n    "आग और पानी<br/>एक साथ"\n'),
+        "code": ('mindmap\n  तीन निषेध\n    दोनों हाथों से एक साथ सिर खुजलाना\n'
+                 '    सिर पर बोझ\n    आग और पानी एक साथ\n'),
     },
     ("98", "diagram"): {
         "file": "ch3b08-fire-conditions-98.svg",
         "alt": "Mind map: six conditions in which the fire is not tended: unkindled, unclean, along the wind, uncovered, weary, mind elsewhere",
         "type": "mermaid",
-        "code": ('mindmap\n  "अग्नि की उपासना न करे"\n    असमिद्ध\n    अशुचि\n    अनुवात\n'
+        "code": ('mindmap\n  अग्नि की उपासना न करे\n    असमिद्ध\n    अशुचि\n    अनुवात\n'
                  '    विवृत\n    क्लान्त\n    अन्यमानस\n'),
     },
     ("99", "diagram"): {
         "file": "ch3b08-not-gaze-99.svg",
         "alt": "Mind map: not to be gazed at constantly: moving, minute, unpleasant things",
         "type": "mermaid",
-        "code": 'mindmap\n  "लगातार न देखे"\n    चल\n    सूक्ष्म\n    अप्रिय\n',
+        "code": 'mindmap\n  लगातार न देखे\n    चल\n    सूक्ष्म\n    अप्रिय\n',
     },
     ("101", "diagram"): {
         "file": "ch3b08-not-gaze-101.svg",
