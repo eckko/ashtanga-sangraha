@@ -1,0 +1,482 @@
+[
+ {
+  "id": "1.4._3_",
+  "field": "src",
+  "new": "मासर्त्वयन",
+  "kind": "ocr",
+  "note": "ऋतु missing; twelve divisions need ऋतु",
+  "old": "मासत्त्वयन"
+ },
+ {
+  "id": "1.4._3_",
+  "field": "split",
+  "new": "मास ऋतु अयन",
+  "kind": "split",
+  "note": "ऋतु dropped",
+  "old": "मास अयन"
+ },
+ {
+  "id": "1.4._3_",
+  "field": "hindi",
+  "new": "मास, ऋतु, अयन",
+  "kind": "translation",
+  "note": "ऋतु missing (12 items)",
+  "old": "मास, अयन"
+ },
+ {
+  "id": "1.4._3_",
+  "field": "eng",
+  "new": "month (मास/thirty days), season (ऋतु/two months), solstice",
+  "kind": "translation",
+  "note": "ऋतु missing",
+  "old": "month (मास/thirty days), solstice"
+ },
+ {
+  "id": "1.4._7_",
+  "field": "hindi",
+  "new": "बीस कलाएँ अपने दसवें भाग सहित मिलकर एक नाडिका होती हैं",
+  "kind": "translation",
+  "note": "20 kalas + tenth = 1 nadika, not 20 nadikas",
+  "old": "वे कलाएँ अपने दसवें भाग के साथ मिलकर बीस नाडिका होती हैं"
+ },
+ {
+  "id": "1.4._7_",
+  "field": "eng",
+  "new": "Twenty of those Kalas along with their tenth part make one Nadika",
+  "kind": "translation",
+  "note": "same",
+  "old": "Those Kalas along with their tenth part taken twenty times make twenty Nadikas"
+ },
+ {
+  "id": "1.4._15_",
+  "field": "src",
+  "new": "रवेरु",
+  "kind": "ocr",
+  "note": "ख for व",
+  "old": "रखेरु"
+ },
+ {
+  "id": "1.4._15_",
+  "field": "split",
+  "new": "आदयः त्रयः",
+  "kind": "split",
+  "note": "आदयः",
+  "old": "आदिः त्रयः"
+ },
+ {
+  "id": "1.4._18_",
+  "field": "src",
+  "new": "द्रूक्ष",
+  "kind": "ocr",
+  "note": "stray characters; रूक्षान्",
+  "old": "द्भू क्ष"
+ },
+ {
+  "id": "1.4._18_",
+  "field": "src",
+  "new": "अभिप्रबलयंतो",
+  "kind": "ocr",
+  "note": "stray anusvara",
+  "old": "अभिप्रबलंयंतो"
+ },
+ {
+  "id": "1.4._18_",
+  "field": "split",
+  "new": "अभिप्रबलयंतः",
+  "kind": "ocr",
+  "note": "stray anusvara",
+  "old": "अभिप्रबलंयंतः"
+ },
+ {
+  "id": "1.4._18_",
+  "field": "split",
+  "new": "अत्यर्थ उष्ण",
+  "kind": "split",
+  "note": "src अत्यर्थोष्ण",
+  "old": "अत्यंत उष्ण"
+ },
+ {
+  "id": "1.4._18_",
+  "field": "split",
+  "new": "तत् संपर्कात् ",
+  "kind": "split",
+  "note": "halanta",
+  "old": "तत् संपर्कात "
+ },
+ {
+  "id": "1.4._20_",
+  "field": "src",
+  "new": "वर्षा",
+  "kind": "ocr",
+  "note": "ब for व",
+  "old": "बर्षा"
+ },
+ {
+  "id": "1.4._26_",
+  "field": "hindi",
+  "new": "लवली",
+  "kind": "gloss",
+  "note": "लवल्यः = लवली",
+  "old": "लवणी"
+ },
+ {
+  "id": "1.4._31_",
+  "field": "src",
+  "new": "प्रबलं",
+  "kind": "ocr",
+  "note": "व for ब",
+  "old": "प्रवलं"
+ },
+ {
+  "id": "1.4._31_",
+  "field": "split",
+  "new": "प्रबलम्",
+  "kind": "ocr",
+  "note": "same",
+  "old": "प्रवलम्"
+ },
+ {
+  "id": "1.4._31_",
+  "field": "eng",
+  "new": "प्रबलम्",
+  "kind": "ocr",
+  "note": "same",
+  "old": "प्रवलम्"
+ },
+ {
+  "id": "1.4._33_",
+  "field": "split",
+  "new": "पानानि",
+  "kind": "typo",
+  "note": "neuter plural",
+  "old": "पानानी"
+ },
+ {
+  "id": "1.4._34_",
+  "field": "hindi",
+  "new": "अन्यथा (भारी भोजन न मिलने पर) ईंधन-रहित (without food) वह अग्नि अत्यंत प्रबल होने के कारण शांत (मंद/subside) हो जाती है अथवा",
+  "kind": "translation",
+  "note": "original invented 'harm body'; सीदेत् = subsides; अथवा continues in next row",
+  "old": "ईंधन न मिलने पर (without food) अन्यथा वह अग्नि अत्यंत तीव्र होने के कारण दुबला (emaciated) कर सकती है अथवा शरीर को नुकसान पहुँचा सकती है"
+ },
+ {
+  "id": "1.4._34_",
+  "field": "eng",
+  "new": "the fire subsides (सीदेत्/weakens) due to its excessive intensity",
+  "kind": "translation",
+  "note": "same",
+  "old": "it might exhaust the body due to its highly inflamed state"
+ },
+ {
+  "id": "1.4._35_",
+  "field": "split",
+  "new": "धातून् अपि",
+  "kind": "typo",
+  "note": "halanta",
+  "old": "धातून अपि"
+ },
+ {
+  "id": "1.4._40_",
+  "field": "src",
+  "new": "तैल",
+  "kind": "ocr",
+  "note": "stray anusvara",
+  "old": "तैंल"
+ },
+ {
+  "id": "1.4._44_",
+  "field": "split",
+  "new": "कुंकुमेन",
+  "kind": "split",
+  "note": "instrumental -ena",
+  "old": "कुंकुमेण"
+ },
+ {
+  "id": "1.4._45_",
+  "field": "src",
+  "new": "कालेधूपाधि",
+  "kind": "ocr",
+  "note": "short u",
+  "old": "कालेधुपाधि"
+ },
+ {
+  "id": "1.4._55_",
+  "field": "split",
+  "new": "अतः अस्मिन्",
+  "kind": "split",
+  "note": "resolve ओ to visarga",
+  "old": "अतो अस्मिन्"
+ },
+ {
+  "id": "1.4._59_",
+  "field": "split",
+  "new": "अमत्र विन्यस्तान्",
+  "kind": "split",
+  "note": "src अमत्र",
+  "old": "अमत विन्यस्तान्"
+ },
+ {
+  "id": "1.4._62_",
+  "field": "src",
+  "new": "मधुरांस्त्यजेत्",
+  "kind": "ocr",
+  "note": "मधुरान् (split)",
+  "old": "मधुरंस्त्यजेत्"
+ },
+ {
+  "id": "1.4._63_",
+  "field": "eng",
+  "new": "like a flax",
+  "kind": "typo",
+  "note": "article",
+  "old": "like an flax"
+ },
+ {
+  "id": "1.4._66_",
+  "field": "src",
+  "new": "तापार्ततुंग",
+  "kind": "ocr",
+  "note": "न for त; split ताप आर्त तुंग",
+  "old": "तापार्नतुंग"
+ },
+ {
+  "id": "1.4._70_",
+  "field": "src",
+  "new": "स्नेहं तदा",
+  "kind": "ocr",
+  "note": "stray स्",
+  "old": "स्नेहंस्तदा"
+ },
+ {
+  "id": "1.4._71_",
+  "field": "src",
+  "new": "कट्वम्ल",
+  "kind": "ocr",
+  "note": "कटु अम्ल",
+  "old": "कद्वम्ल"
+ },
+ {
+  "id": "1.4._72_",
+  "field": "src",
+  "new": "सुबहुवारि",
+  "kind": "ocr",
+  "note": "duplicated ब",
+  "old": "सुबबहुवारि"
+ },
+ {
+  "id": "1.4._73_",
+  "field": "split",
+  "new": "अन्यथा",
+  "kind": "split",
+  "note": "English word in split",
+  "old": "otherwise"
+ },
+ {
+  "id": "1.4._86_",
+  "field": "src",
+  "new": "नीलाभ्रमंदमंदाविलं",
+  "kind": "ocr",
+  "note": "garbled; see split नील अभ्र मंद मंद आविलम्",
+  "old": "नीलाअ्र्रंदमंदाबिलं"
+ },
+ {
+  "id": "1.4._87_",
+  "field": "src",
+  "new": "वार्योघनभःसोपान",
+  "kind": "ocr",
+  "note": "split वारि ओघ नभः सोपान; Hindi आकाश",
+  "old": "वार्योधमभसोपान"
+ },
+ {
+  "id": "1.4._87_",
+  "field": "split",
+  "new": "ओघ नभः",
+  "kind": "ocr",
+  "note": "घ for ध",
+  "old": "ओध नभः"
+ },
+ {
+  "id": "1.4._89_",
+  "field": "src",
+  "new": "सागराकारा",
+  "kind": "ocr",
+  "note": "space; सागर",
+  "old": "सा गराकारा"
+ },
+ {
+  "id": "1.4._89_",
+  "field": "src",
+  "new": "भूरव्यक्त",
+  "kind": "ocr",
+  "note": "अव्यक्त",
+  "old": "भूरन्यक्त"
+ },
+ {
+  "id": "1.4._89_",
+  "field": "split",
+  "new": "सागर आकारा",
+  "kind": "split",
+  "note": "सागर",
+  "old": "सा गर आकारा"
+ },
+ {
+  "id": "1.4._93_",
+  "field": "split",
+  "new": "आदान अबले",
+  "kind": "split",
+  "note": "src आदानाबले; body weak",
+  "old": "आदान बले"
+ },
+ {
+  "id": "1.4._99_",
+  "field": "src",
+  "new": "त्वह्नि",
+  "kind": "ocr",
+  "note": "अह्नि",
+  "old": "त्वन्हि"
+ },
+ {
+  "id": "1.4._99_",
+  "field": "split",
+  "new": "अह्नि",
+  "kind": "ocr",
+  "note": "अह्नि",
+  "old": "अन्हि"
+ },
+ {
+  "id": "1.4._104_",
+  "field": "eng",
+  "new": "One should be fond of scrubbing",
+  "kind": "translation",
+  "note": "प्रियः = fond of",
+  "old": "One should fondle scrubbing"
+ },
+ {
+  "id": "1.4._106_",
+  "field": "src",
+  "new": "स्वप्नाति",
+  "kind": "ocr",
+  "note": "स्वप्न अति per split/Hindi",
+  "old": "स्वभाति"
+ },
+ {
+  "id": "1.4._107_",
+  "field": "src",
+  "new": "व्यायामार्ककरांस्",
+  "kind": "ocr",
+  "note": "अर्क करान्",
+  "old": "व्यायामार्करकांस्"
+ },
+ {
+  "id": "1.4._107_",
+  "field": "split",
+  "new": "अर्क करान्",
+  "kind": "split",
+  "note": "same",
+  "old": "अर्क रकान्"
+ },
+ {
+  "id": "1.4._107_",
+  "field": "eng",
+  "new": "the sun's rays",
+  "kind": "translation",
+  "note": "'morning' not in text",
+  "old": "the morning sun rays"
+ },
+ {
+  "id": "1.4._108_",
+  "field": "src",
+  "new": "शुभ्राभ्रं",
+  "kind": "ocr",
+  "note": "भ्र",
+  "old": "शुभ्राअ्रं"
+ },
+ {
+  "id": "1.4._108_",
+  "field": "src",
+  "new": "पंकांकिता मही",
+  "kind": "ocr",
+  "note": "अंकिता मही (fem.)",
+  "old": "पंकांकितामंही"
+ },
+ {
+  "id": "1.4._108_",
+  "field": "split",
+  "new": "अंकिता मही",
+  "kind": "split",
+  "note": "feminine agreement",
+  "old": "अंकितम् मही"
+ },
+ {
+  "id": "1.4._112_",
+  "field": "src",
+  "new": "हंसौघघट्टनैः",
+  "kind": "ocr",
+  "note": "ओघ per split",
+  "old": "हंसौसघट्टनैः"
+ },
+ {
+  "id": "1.4._114_",
+  "field": "src",
+  "new": "सहसैवार्करश्मिभिः",
+  "kind": "ocr",
+  "note": "dropped र्क",
+  "old": "सहसैवाकरश्मिभिः"
+ },
+ {
+  "id": "1.4._123_",
+  "field": "src",
+  "new": "हंसौघपक्ष",
+  "kind": "ocr",
+  "note": "ओघ per split",
+  "old": "हंसौधपक्ष"
+ },
+ {
+  "id": "1.4._127_",
+  "field": "src",
+  "new": "तृप्तिंदध्यातप",
+  "kind": "ocr",
+  "note": "दधि+आतप; stray द्",
+  "old": "तृप्तिंद्ध्यातप"
+ },
+ {
+  "id": "1.4._127_",
+  "field": "split",
+  "new": "तृप्तिम् दधि आतप क्षार",
+  "kind": "split",
+  "note": "अक्षार would contradict list of things to avoid",
+  "old": "तृप्तिम् दध्यात् अक्षार"
+ },
+ {
+  "id": "1.4._127_",
+  "field": "hindi",
+  "new": "तृप्ति (अतितृप्ति/overeating), दही, धूप, क्षार (alkali), वसा, तेल और पुरोवात (eastern wind) का त्याग करना चाहिए (अगली पंक्ति में 'विवर्जयेत्')",
+  "kind": "translation",
+  "note": "list of things to avoid; verb in next row",
+  "old": "तृप्ति कारक भोजन करना चाहिए तथा क्षार (alkali), वसा, तेल और पुरोवात (eastern wind) से बचना चाहिए"
+ },
+ {
+  "id": "1.4._127_",
+  "field": "eng",
+  "new": "One should avoid (verb in next verse) over-satiety (तृप्ति), curd (दधि), sun exposure (आतप), alkalis (क्षार), animal fat (वसा), oil (तैल), and the eastern wind (पुरः अनिल)",
+  "kind": "translation",
+  "note": "same",
+  "old": "One should achieve satisfaction through food, but must avoid alkalis (अक्षार), animal fat, oil, and the eastern wind (पुरः अनिल)"
+ },
+ {
+  "id": "1.4._134_",
+  "field": "hindi",
+  "new": "इसके विपरीत अन्य (विकृत) लक्षणों",
+  "kind": "typo",
+  "note": "duplicated word",
+  "old": "इसके विपरीत विपरीत लक्षणों"
+ },
+ {
+  "id": "1.4._136_",
+  "field": "src",
+  "new": "भजेच्चर्यां",
+  "kind": "ocr",
+  "note": "anusvara dropped (split चर्याम्)",
+  "old": "भजेच्चर्या"
+ }
+]
