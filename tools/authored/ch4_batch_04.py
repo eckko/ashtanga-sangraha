@@ -54,7 +54,7 @@ AUTHORED["41"] = {
              ("water with musta and śuṇṭhī", "This is the first water of line 2.")],
             "Line 2 names three waters: with musta and śuṇṭhī, sāra-water and honey-water. Coconut water is not among them.",
             "Line 2: three waters, joined by वा."),
-        mcq("transfer", 5, "In the style of क्षौद्रवारि, which compound means 'sugar-water'?",
+        mcq("transfer", 5, "In the style of क्षौद्रवारि, which compound means sugar-water?",
             ("शर्करावारि", "X + वारि means the water of X, as क्षौद्रवारि is honey-water."),
             [("वारिशर्करा", "Here वारि comes first: the compound would read 'water-sugar'."),
              ("शर्करावारिता", "The ending -ता would make an abstract noun, not 'sugar-water'."),
@@ -73,9 +73,8 @@ AUTHORED["42"] = {
              "sour and sweet. Line 2: in summer (ग्रीष्मे), sharp-rayed, like the atasī flower, "
              "kindled by forest fire."),
     "limits": ("Line 2 has no verb; its nominatives most naturally describe the sun, which the "
-               "unit does not name. 'Kindled by forest fire' is literal and may mean 'blazing like "
-               "one'. The English ends in '...': the sentence goes on in unit 43. The unit does "
-               "not say the avoidance is for summer only."),
+               "unit does not name. 'Kindled by forest fire' is literal. The sentence goes on in "
+               "unit 43. The unit does not say the avoidance is for summer only."),
     "explain_hi": ("पहली पंक्ति में ‘त्यजेत्’ (छोड़े) का कर्म छह चीज़ें हैं: भारी और शीत, दिन की नींद, "
                    "तथा स्निग्ध, अम्ल और मधुर। दूसरी पंक्ति ग्रीष्म का वर्णन शुरू करती है: "
                    "अतसी के फूल जैसा, तीक्ष्ण किरणों वाला, दावानल से दीप्त। इसमें क्रिया नहीं है और "
@@ -164,8 +163,8 @@ AUTHORED["43"] = {
               teaches="ज्वलन्ति ('they blaze') is a plural verb, matching the plural subjects दिशः and भूमिः taken together."),
         mcq("discriminate", 3, "Which is the right split of नैकतः?",
             ("न + एकतः", "अ + ए joins as ऐ: न + एकतः = नैकतः."),
-            [("न + ऐकतः", "That would give नैकतः only by accident of spelling; the word is एकतः, not ऐकतः."),
-             ("ना + एकतः", "ना is not the 'not' of this unit; and ना + ए would give नैकतः with a long vowel gone."),
+            [("न + ऐकतः", "ऐकतः is not a word; the word is एकतः (from one side)."),
+             ("ना + एकतः", "The 'not' here is the short न, not ना."),
              ("नः + एकतः", "A visarga would not leave a bare न.")],
             "नैकतः is न (not) + एकतः (from one side), so 'not from one side'.",
             "अ + ए → ऐ."),
@@ -176,7 +175,7 @@ AUTHORED["43"] = {
              ("It is pleasant only from the north", "No direction is singled out.")],
             "Line 1 says the wind is not pleasant (सुखः) from one side, read as from no side.",
             "मारुतो नैकतः सुखः."),
-        mcq("transfer", 5, "Which is the right joining of सदा + एव, 'always indeed'?",
+        mcq("transfer", 5, "Which is the right joining of सदा + एव?",
             ("सदैव", "आ + ए joins as ऐ, as अ + ए does in नैकतः."),
             [("सदेव", "That would drop the ā without a reason."),
              ("सदौव", "ए does not become औ."),
@@ -235,7 +234,7 @@ AUTHORED["44"] = {
              ("a swarm of thirsty animals", "The animals are in line 1 and only make the water turbid.")],
             "Line 2: the waters are consumed by a heap (निकर) of embers (अङ्गार) that are the sun's rays (दिवाकर-कर).",
             "दिवाकरकरांगारनिकर = heap of embers that are the sun's rays."),
-        mcq("transfer", 5, "In the style of कलुषीकृत, which word means 'made dirty'?",
+        mcq("transfer", 5, "In the style of कलुषीकृत, which word means made dirty?",
             ("मलिनीकृत", "X-ई-कृत means made X: कलुषी-कृत is made turbid."),
             [("मलिनहीन", "-हीन means devoid of: 'devoid of dirt'."),
              ("मलिनस्थित", "-स्थित means standing or kept in it."),
@@ -295,7 +294,7 @@ AUTHORED["45"] = {
              ("flowering and young", "The line says fallen and old.")],
             "विशीर्ण (fallen) and जीर्ण (old) both describe the leaves (पर्ण).",
             "विशीर्णजीर्णपर्णाः."),
-        mcq("transfer", 5, "Which phrase means 'trees devoid of fruit', in the style of छायाहीनाः महीरुहाः?",
+        mcq("transfer", 5, "Which phrase means trees devoid of fruit, in the style of छायाहीनाः महीरुहाः?",
             ("फलहीनाः वृक्षाः", "X-हीन means devoid of X."),
             [("फलयुक्ताः वृक्षाः", "-युक्त means joined with: 'with fruit'."),
              ("छायाहीनाः वृक्षाः", "This is 'devoid of shade', not of fruit."),
@@ -328,7 +327,7 @@ AUTHORED["46"] = {
              ("It dries only the rivers", "The verse says the world's moisture, not only rivers."),
              ("It hides behind the clouds", "No cloud is mentioned.")],
             "Line 1: the sun strongly (भृशम्) draws away (आदत्ते) the moisture (स्नेहम्) of the world (जगतः).",
-            "आदादत्ते जगतः स्नेहं भृशम् — the sun draws away moisture." ),
+            "आदत्ते जगतः स्नेहं भृशम् — the sun draws away moisture." ),
         order(1, "Put the six things of line 2 in the order of the verse.",
               ["व्यायाम", "आतप", "कटु", "अम्ल", "लवण", "उष्ण"],
               "The line runs exercise, sun, pungent, sour, salty, hot.",
@@ -353,7 +352,7 @@ AUTHORED["46"] = {
             "The word यतः (because) introduces the sun's drawing away moisture; अतः (therefore) leads to the avoiding.",
             "यतः = because (reason); अतः = therefore (result)."),
         mcq("transfer", 5,
-            "In 'यतः मेघो गर्जति, अतः जनाः गृहं विशेयुः', which word introduces the result?",
+            "In यतः मेघो गर्जति, अतः जनाः गृहं विशेयुः, which word introduces the result?",
             ("अतः", "अतः means therefore: it begins the result."),
             [("यतः", "यतः means because: it begins the reason."),
              ("जनाः", "जनाः is the subject, 'the people'."),
@@ -429,10 +428,9 @@ AUTHORED["48"] = {
     "question": "What do the four describing words of line 2 say about the drinks?",
     "rule": ("Line 2 names drinks (पानकानि) that are with mantha (समन्थानि), rich in sugar "
              "(सिताढ्यानि) and cold (हिमानि). The four words all end in the neuter plural."),
-    "limits": ("The first line is damaged in the print: तद्व्यानि is not a word and तोयानि (waters) is "
-               "only a guess, so the card draws nothing from line 1. The verb is far away, in unit 51. "
-               "The questions use only the words of line 2 and their grammar; none asks what is kept "
-               "where or what the sentence commands."),
+    "limits": ("Line 1 is damaged in the print: तद्व्यानि is not a word and तोयानि (waters) is "
+               "only a guess, so the card draws nothing from it. The verb is in unit 51. "
+               "The questions use only the words of line 2 and their grammar."),
     "explain_hi": ("इस युग्म की पहली पंक्ति छपाई में बिगड़ी है (‘तद्व्यानि’ शब्द नहीं है, ‘तोयानि’ केवल "
                    "अनुमान है), इसलिए उस पर कुछ नहीं टिकाया गया। दूसरी पंक्ति साफ़ है: पानक, "
                    "मंथ से युक्त, शर्करा से भरपूर और शीतल। चारों शब्द नपुंसक बहुवचन हैं। क्रिया "
@@ -472,7 +470,7 @@ AUTHORED["48"] = {
              ("neuter singular", "A neuter singular would end in -म्, as पानकम्.")],
             "All four end in -नि, the neuter plural, so they belong together.",
             "-आनि / -इनि: neuter plural."),
-        mcq("transfer", 5, "Which phrase means 'sweet fruits'? फल is neuter.",
+        mcq("transfer", 5, "Which phrase means sweet fruits? फल is neuter.",
             ("मधुराणि फलानि", "Neuter plural describing word and noun, like हिमानि पानकानि."),
             [("मधुरः फलानि", "मधुरः is masculine singular; it does not agree."),
              ("मधुराणि फलम्", "The noun फलम् is singular here."),
@@ -531,7 +529,7 @@ AUTHORED["49"] = {
              ("forest-dwelling ones", "The line says dry-land (जाङ्गल)." )],
             "Line 1 says जाङ्गल animals and birds, with the data's gloss 'dry-land'.",
             "जाङ्गल = dry-land."),
-        mcq("transfer", 5, "Which is the right joining of द्राक्षा + अम्बु, 'grape-water'?",
+        mcq("transfer", 5, "Which is the right joining of द्राक्षा + अम्बु, grape-water?",
             ("द्राक्षाम्बु", "आ + अ joins as आ, like अ + अ in नारिकेराम्बु."),
             [("द्राक्षअम्बु", "The two vowels do not stand side by side."),
              ("द्राक्षोम्बु", "आ + अ does not become ओ."),
@@ -578,7 +576,7 @@ AUTHORED["50"] = {
               teaches="कान्ता is a woman who is loved (a beloved); it is feminine, and the plural is कान्ताः."),
         mcq("discriminate", 3, "Which is the right split of सकमलोत्पलाः?",
             ("स + कमल + उत्पलाः", "अ + उ joins as ओ: कमल + उत्पल = कमलोत्पल."),
-            [("स + कमला + उत्पलाः", "That would give कमलोत्पल only by chance; कमला is not the word."),
+            [("स + कमला + उत्पलाः", "कमला is not the word here; the lotus is कमल."),
              ("स + कमल + ओत्पलाः", "ओत्पल is not a word."),
              ("सः + कमल + उत्पलाः", "A visarga would not show here.")],
             "सकमलोत्पलाः = स (with) + कमल (lotus) + उत्पल (water-lily).",
@@ -649,7 +647,7 @@ AUTHORED["51"] = {
               [0, 1],
               "The data marks वापीः and सरितः as feminine accusative plural; सरांसि and काननानि are neuter.",
               "वापीः, सरितः: feminine plural."),
-        mcq("transfer", 5, "Which sentence means 'a student should serve the teacher'?",
+        mcq("transfer", 5, "Which sentence means a student should serve the teacher?",
             ("शिष्यो गुरुं सेवेत", "-एत is the 'should' form, as in निषेवेत."),
             [("शिष्यो गुरुं सेवते", "सेवते is a plain present: 'serves'."),
              ("शिष्यो गुरुमसेवत", "असेवत is a past form: 'served'."),
@@ -706,7 +704,7 @@ AUTHORED["52"] = {
              ("a river bank with high banks", "River banks are in unit 45, not here.")],
             "At night (रात्रौ) one sleeps on the open roof (आकाशतलक) strewn with fragrant flowers.",
             "रात्रौ … आकाशतलके सुगन्धिकुसुमास्तृते."),
-        mcq("transfer", 5, "Which sentence means 'one should sleep in the garden'?",
+        mcq("transfer", 5, "Which sentence means one should sleep in the garden?",
             ("उद्याने स्वप्यात्", "The locative -ए says 'in', as in धारागृहे."),
             [("उद्यानात् स्वप्यात्", "-आत् says 'from the garden'."),
              ("उद्यानस्य स्वप्यात्", "-स्य says 'of the garden'."),
@@ -768,7 +766,7 @@ AUTHORED["53"] = {
              ("all the rivers", "The line does not speak of rivers.")],
             "Line 2: in the rains the wind is Vāruṇa, and all crops (सर्वसस्य) spring up (समुद्गम).",
             "सर्वसस्यसमुद्गमः = springing up of all crops."),
-        mcq("transfer", 5, "Which means 'in the garlands' (माला is feminine, like वर्षा)?",
+        mcq("transfer", 5, "Which means in the garlands? माला is feminine, like वर्षा.",
             ("मालासु", "-आसु is the locative plural of feminine -आ nouns, as वर्षासु."),
             [("मालायाम्", "This is the locative singular, 'in the garland'."),
              ("मालाभिः", "This is the instrumental plural, 'by the garlands'."),
@@ -783,7 +781,7 @@ NOTES_HI = {
     "41": "विश्वास: मध्यम। छपे ‘कथितमुस्तशुंठ्यंबु’ में ‘कथित’ शायद ‘क्वथित’ (उबाला) है; यह केवल सुझाव है। ‘सार’ के अनेक अर्थ हैं, इसलिए ‘सार-जल’ रखा गया। ‘निर्गद’ का अक्षरशः अर्थ ‘रोगरहित’ है। सन्धि: निर्गदान् + च + आसव → निर्गदांश्चासव; वारि का समास ‘क्षौद्र-वारि’। छपे युग्म में पिछला आधा श्लोक इस पंक्ति से जुड़ता है।",
     "42": "विश्वास: मध्यम। दूसरी पंक्ति में क्रिया नहीं है; विशेषण सूर्य के माने गए हैं। ‘दावदीपितः’ का अक्षरशः अर्थ ‘दावानल से जलाया गया’ है, शायद ‘दावानल जैसा दहकता’। सन्धि: मधुरान् + त्यजेत् → मधुरांस्त्यजेत्; ग्रीष्मे + अतसी → ग्रीष्मे ऽतसी (ए + अ → ए, अवग्रह छपा); तीक्ष्णांशुः = तीक्ष्ण + अंशुः (अ + अ → आ)।",
     "43": "विश्वास: उच्च। ‘नैकतः’ = न + एकतः (अ + ए → ऐ); अक्षरशः ‘एक ओर से नहीं’, यहाँ ‘किसी ओर से नहीं’ पढ़ा गया। सन्धि: दिशः + ज्वलन्ति → दिशो ज्वलन्ति; भूमिः + च → भूमिश्च; मारुतः + न → मारुतो न; जन्तवः + ज्वरिताः → जन्तवो ज्वरिता (छपे ‘ज्वरिता’ में अन्त का विसर्ग छूटा है, गलती नहीं)। ‘ज्वरित’ = ज्वर से प्रभावित।",
-    "44": "विश्वास: उच्च। दोनों विशेषण स्त्रीलिंग बहुवचन हैं और संज्ञा ‘नद्यः’ अगले श्लोक में है। ‘तुंग’ को ‘मातंग’ के साथ, ‘तापार्त’ को दोनों पशुओं के साथ लिया गया है। सन्धि: ताप + आर्त → तापार्त; दिवाकर + कर + अंगार → दिवाकरकरांगार; क्षपित + अंभस् → क्षपितांभसः (इ + अ → आ नहीं; अ + अ → आ)।",
+    "44": "विश्वास: उच्च। दोनों विशेषण स्त्रीलिंग बहुवचन हैं और संज्ञा ‘नद्यः’ अगले श्लोक में है। ‘तुंग’ को ‘मातंग’ के साथ, ‘तापार्त’ को दोनों पशुओं के साथ लिया गया है। सन्धि: ताप + आर्त → तापार्त; दिवाकर + कर + अंगार → दिवाकरकरांगार; क्षपित + अंभसः → क्षपितांभसः (अ + अ → आ)।",
     "45": "विश्वास: उच्च। ‘प्रवृद्धरोधसः’ का अर्थ ‘बढ़े हुए तट’ है; तट शायद जल घटने से ऊँचे दिखते हैं (पिछले श्लोक की तुलना), पर यह अनुमान है। सन्धि: नद्यः + छायाहीनाः → नद्यश्छायाहीनाः (छपे ‘छायाहीना’ में अन्त का विसर्ग छूटा है, गलती नहीं); विशीर्णजीर्णपर्णाः + च → ..पर्णाश्च; शुष्क + वल्कल + लता + अंकिताः → शुष्कवल्कलतांकिताः (आ + अ → आ)।",
     "46": "विश्वास: उच्च। ‘स्नेह’ = तेल/चिकनाई/नमी; ‘नमी (स्नेह)’ रखा गया। ‘तदा’ = उस समय (पिछले ग्रीष्म-वर्णन की ओर इशारा)। सन्धि: तदा + आदित्यः → तदादित्यः; व्यायाम + आतप → व्यायामातप; कटु + अम्ल → कट्वम्ल (उ + अ → व); लवण + उष्णम् → लवणोष्णम्; त्यजेत् + अतः → त्यजेदतः।",
     "47": "विश्वास: उच्च। पहली पंक्ति दो ढंग से पढ़ी जा सकती है: तीन विकल्प (न सेव्य / थोड़ा / बहुत जल के साथ), या ‘थोड़ा मद्य’ और ‘बहुत जल वाला मद्य’। ‘शोष’ = सूखना/क्षीणता; ‘मोह’ = भ्रम। सन्धि: मद्यं न सेव्यं (छपे ‘नसेव्यं’ में सिर्फ़ स्पेस छूटा है); शोष..मोहान् + करोति → ..मोहान्करोति; सेव्य + सुबहुवारि।",
@@ -941,7 +939,7 @@ IMAGE_SPECS = {
         "alt": "Flowchart of verse 46: because the sun strongly draws away the world's moisture, therefore one should avoid six things: exercise, sun, pungent, sour, salty, hot.",
         "type": "mermaid",
         "code": """flowchart TD
-  A["यतः: सूर्य जगत् का<br/>स्नेह खींचता है"] --> B["अतः: त्यजेत्"]
+  A["यतः (कारण): सूर्य जगत् का<br/>स्नेह खींचता है"] --> B["अतः (निष्कर्ष): त्यजेत्"]
   B --> C["व्यायाम"]
   B --> D["आतप"]
   B --> E["कटु"]
@@ -961,7 +959,7 @@ IMAGE_SPECS = {
   E --> F["शोष"]
   E --> G["शैथिल्य"]
   E --> H["दाह"]
-  E --> I["मोह\"""",
+  E --> I["मोह"]""",
     },
     ("49", "diagram"): {
         "file": "ch4b04-49-list.svg",
