@@ -1,0 +1,479 @@
+[
+ {
+  "id": "1.1._6_",
+  "field": "src",
+  "old": "चंद्रााय",
+  "new": "चंद्राय",
+  "kind": "ocr",
+  "note": "doubled aa-matra"
+ },
+ {
+  "id": "1.1._6_",
+  "field": "split",
+  "old": "चंद्रााय",
+  "new": "चंद्राय",
+  "kind": "ocr",
+  "note": "doubled aa-matra"
+ },
+ {
+  "id": "1.1._11_",
+  "field": "src",
+  "old": "जगतोऽ प्यपास्ताः",
+  "new": "जगतोऽप्यपास्ताः",
+  "kind": "typo",
+  "note": "stray space after avagraha"
+ },
+ {
+  "id": "1.1._12_",
+  "field": "split",
+  "old": "ज्ञं च",
+  "new": "ज्ञान् च",
+  "kind": "split",
+  "note": "ज्ञांश्च = ज्ञान् + च"
+ },
+ {
+  "id": "1.1._12_",
+  "field": "eng",
+  "new": "To that unique physician (वैद्यं/doctor), and to Brahma (पितामह/grandfather) and others who know the medical scriptures (वैद्य आगम ज्ञान्/experts in medical texts), I bow my head.",
+  "kind": "translation",
+  "note": "'who knows' wrongly attached to the single physician; ज्ञान् qualifies पितामहादीन्"
+ },
+ {
+  "id": "1.1._14_",
+  "field": "src",
+  "old": "स्माहुरात्रे यादयो",
+  "new": "स्माहुरात्रेयादयो",
+  "kind": "typo",
+  "note": "stray space inside word"
+ },
+ {
+  "id": "1.1._17_",
+  "field": "src",
+  "old": "सार्थ ब्रह्मा",
+  "new": "सार्थं ब्रह्मा",
+  "kind": "ocr",
+  "note": "dropped anusvara (split has सार्थं)"
+ },
+ {
+  "id": "1.1._17_",
+  "field": "src",
+  "old": "बुद्धा",
+  "new": "बुद्ध्वा",
+  "kind": "ocr",
+  "note": "non-word; gerund बुद्ध्वा"
+ },
+ {
+  "id": "1.1._17_",
+  "field": "split",
+  "old": "बुद्धा",
+  "new": "बुद्ध्वा",
+  "kind": "ocr",
+  "note": "non-word; gerund बुद्ध्वा"
+ },
+ {
+  "id": "1.1._17_",
+  "field": "eng",
+  "old": "(बुद्धा/awakened)",
+  "new": "(बुद्ध्वा/having understood)",
+  "kind": "gloss",
+  "note": "gerund, not 'awakened'"
+ },
+ {
+  "id": "1.1._19_",
+  "field": "src",
+  "old": "भिरमयैः",
+  "new": "भिरामयैः",
+  "kind": "ocr",
+  "note": "आमयैः (split) lost long aa"
+ },
+ {
+  "id": "1.1._21_",
+  "field": "eng",
+  "new": "Dhanvantari, Bharadvaja, Nimi, Kashyapa (काश्यप/Kāśyapa) and Kashyapa (कश्यपाः/Kaśyapa).",
+  "kind": "translation",
+  "note": "remove duplicated 'Kashyapa, and Kashyapa': distinguish काश्यप and कश्यप"
+ },
+ {
+  "id": "1.1._22_",
+  "field": "split",
+  "old": "आदयो ॥",
+  "new": "आदयः ॥",
+  "kind": "split",
+  "note": "wrong visarga form in split"
+ },
+ {
+  "id": "1.1._23_",
+  "field": "eng",
+  "old": "शतक्रतम्",
+  "new": "शतक्रतुम्",
+  "kind": "typo",
+  "note": "gloss typo"
+ },
+ {
+  "id": "1.1._25_",
+  "field": "split",
+  "old": "उपवेदमथर्वणः",
+  "new": "उपवेदम् अथर्वणः",
+  "kind": "split",
+  "note": "unsplit sandhi"
+ },
+ {
+  "id": "1.1._26_",
+  "field": "hindi",
+  "old": "गृह (Psychiatry",
+  "new": "ग्रह (Psychiatry",
+  "kind": "typo",
+  "note": "ग्रह not गृह"
+ },
+ {
+  "id": "1.1._29_",
+  "field": "src",
+  "old": "आयुपुर्णा",
+  "new": "आयुःपूर्णा",
+  "kind": "ocr",
+  "note": "आयुः पूर्ण (visarga and ū); rest of line flagged"
+ },
+ {
+  "id": "1.1._29_",
+  "field": "split",
+  "old": "पुर्ण",
+  "new": "पूर्ण",
+  "kind": "ocr",
+  "note": "non-word"
+ },
+ {
+  "id": "1.1._29_",
+  "field": "eng",
+  "old": "आयुः पुर्ण",
+  "new": "आयुः पूर्ण",
+  "kind": "ocr",
+  "note": "non-word"
+ },
+ {
+  "id": "1.1._32_",
+  "field": "src",
+  "old": "करालादींश्व",
+  "new": "करालादींश्च",
+  "kind": "ocr",
+  "note": "व for च"
+ },
+ {
+  "id": "1.1._36_",
+  "field": "src",
+  "old": "समस्तब्याधि",
+  "new": "समस्तव्याधि",
+  "kind": "ocr",
+  "note": "ब्याधि non-word"
+ },
+ {
+  "id": "1.1._36_",
+  "field": "split",
+  "old": "समस्त ब्याधि",
+  "new": "समस्त व्याधि",
+  "kind": "ocr",
+  "note": "ब्याधि non-word"
+ },
+ {
+  "id": "1.1._36_",
+  "field": "eng",
+  "old": "समस्त ब्याधि",
+  "new": "समस्त व्याधि",
+  "kind": "ocr",
+  "note": "ब्याधि non-word"
+ },
+ {
+  "id": "1.1._38_",
+  "field": "src",
+  "old": "यस्मात्मोक्तः",
+  "new": "यस्मात्प्रोक्तः",
+  "kind": "ocr",
+  "note": "split/meaning प्रोक्तः"
+ },
+ {
+  "id": "1.1._41_",
+  "field": "src",
+  "old": "सर्वतंत्राप्यतः",
+  "new": "सर्वतंत्राण्यतः",
+  "kind": "ocr",
+  "note": "split and English say तंत्राणि अतः"
+ },
+ {
+  "id": "1.1._55_",
+  "field": "eng",
+  "old": "व्यापिणः",
+  "new": "व्यापिनः",
+  "kind": "typo",
+  "note": "gloss typo"
+ },
+ {
+  "id": "1.1._56_",
+  "field": "hindi",
+  "new": "उम्र, दिन, रात और भोजन के क्रमशः अंत (बुढ़ापा / दिन का अंत / रात का अंत / भोजन पचने के बाद) में वात, मध्य (जवानी / दोपहर / आधी रात / पचते समय) में पित्त और आदि (बचपन / प्रातः / रात का आरंभ / खाते समय) में कफ रहता है ॥",
+  "kind": "gloss",
+  "note": "original gloss muddled (शाम twice) and did not say which doṣa"
+ },
+ {
+  "id": "1.1._56_",
+  "field": "eng",
+  "old": "beginning respectively.",
+  "new": "beginning respectively (Vata at the end, Pitta in the middle, Kapha at the beginning).",
+  "kind": "gloss",
+  "note": "doṣa order added"
+ },
+ {
+  "id": "1.1._57_",
+  "field": "src",
+  "old": "तैर्भवद्विषमस्तीक्ष्णोमदश्चाग्निः",
+  "new": "तैर्भवेद्विषमस्तीक्ष्णोमंदश्चाग्निः",
+  "kind": "ocr",
+  "note": "भवेत् (optative) and मंद (not मद 'intoxication')"
+ },
+ {
+  "id": "1.1._57_",
+  "field": "split",
+  "old": "भवति विषमः तीक्ष्णः मदः",
+  "new": "भवेत् विषमः तीक्ष्णः मंदः",
+  "kind": "split",
+  "note": "भवेत्, मंदः (Hindi says मंद; four agni states)"
+ },
+ {
+  "id": "1.1._63_",
+  "field": "hindi",
+  "old": "गाढ़ा (स-",
+  "new": "चिकना (स-",
+  "kind": "gloss",
+  "note": "सस्नेह = slightly oily, not thick"
+ },
+ {
+  "id": "1.1._65_",
+  "field": "src",
+  "old": "तद्वित्रि",
+  "new": "तद्द्वित्रि",
+  "kind": "ocr",
+  "note": "तत् द्वि त्रि (two or three doṣas)"
+ },
+ {
+  "id": "1.1._65_",
+  "field": "split",
+  "old": "तत् त्रि",
+  "new": "तत् द्वि त्रि",
+  "kind": "split",
+  "note": "द्वि dropped"
+ },
+ {
+  "id": "1.1._67_",
+  "field": "src",
+  "old": "रसास्मृङ्",
+  "new": "रसासृङ्",
+  "kind": "ocr",
+  "note": "असृक् (split) = blood"
+ },
+ {
+  "id": "1.1._69_",
+  "field": "src",
+  "old": "रसादिस्येषु",
+  "new": "रसादिस्थेषु",
+  "kind": "ocr",
+  "note": "स्थ (split स्थेषु)"
+ },
+ {
+  "id": "1.1._73_",
+  "field": "split",
+  "old": "आहारः च",
+  "new": "आहाराः च",
+  "kind": "split",
+  "note": "आहाराः plural to match धात्वाहाराः"
+ },
+ {
+  "id": "1.1._73_",
+  "field": "eng",
+  "new": "These tissues and foods (धातु आहाराः/tissues and nourishment) always sustain (धारयंति/support) the body (शरीरं/physique).",
+  "kind": "translation",
+  "note": "original made धातु-आहार a compound subject of 'happens always'; Sanskrit says धातवः and आहाराः sustain the body"
+ },
+ {
+  "id": "1.1._75_",
+  "field": "src",
+  "old": "तित्कोषण",
+  "new": "तिक्तोषण",
+  "kind": "ocr",
+  "note": "तिक्त + ऊषण"
+ },
+ {
+  "id": "1.1._82_",
+  "field": "src",
+  "old": "गुरुंमंद",
+  "new": "गुरुमंद",
+  "kind": "ocr",
+  "note": "stray anusvara in compound"
+ },
+ {
+  "id": "1.1._82_",
+  "field": "split",
+  "old": "गुरुं मंद",
+  "new": "गुरु मंद",
+  "kind": "ocr",
+  "note": "stray anusvara"
+ },
+ {
+  "id": "1.1._85_",
+  "field": "hindi",
+  "old": "पाकायु",
+  "new": "पाकाय",
+  "kind": "typo",
+  "note": "पाकाय कल्पते"
+ },
+ {
+  "id": "1.1._86_",
+  "field": "hindi",
+  "old": "ओज को नष्ट करते हुए",
+  "new": "शिथिल करते हुए",
+  "kind": "gloss",
+  "note": "fabricated 'destroying ojas'; विकषन् = loosening"
+ },
+ {
+  "id": "1.1._87_",
+  "field": "hindi",
+  "new": "तीक्ष्ण और प्रकर्ष (अतिशयता) — इन दो गुणों की कल्पना कुछ आचार्यों द्वारा (अतिरिक्त गुणों के रूप में) की गई है ॥",
+  "kind": "translation",
+  "note": "Hindi (included in व्यवायी-विकाषी) disagreed with Sanskrit and English"
+ },
+ {
+  "id": "1.1._96_",
+  "field": "src",
+  "old": "लक्षणणोपशय",
+  "new": "लक्षणोपशय",
+  "kind": "ocr",
+  "note": "doubled ण"
+ },
+ {
+  "id": "1.1._107_",
+  "field": "src",
+  "old": "संरक्षाधिरुद्ध",
+  "new": "संरक्षाविरुद्ध",
+  "kind": "ocr",
+  "note": "धि for वि (split and Hindi विरुद्ध)"
+ },
+ {
+  "id": "1.1._107_",
+  "field": "eng",
+  "old": "protection of life",
+  "new": "protection of food",
+  "kind": "gloss",
+  "note": "संरक्षा = food protection (अन्नरक्षा)"
+ },
+ {
+  "id": "1.1._108_",
+  "field": "split",
+  "old": "मात्रा अक्षित",
+  "new": "मात्रा अशित",
+  "kind": "gloss",
+  "note": "मात्राशित = मात्रा + अशित (food eaten)"
+ },
+ {
+  "id": "1.1._108_",
+  "field": "hindi",
+  "new": "मात्राशितीय (खाए हुए भोजन की मात्रा), औषध-ज्ञान, श्रेष्ठ-शुद्धि आदि का संग्रह ॥",
+  "kind": "gloss",
+  "note": "'अक्षित / आँख की रक्षा' was wrong"
+ },
+ {
+  "id": "1.1._108_",
+  "field": "eng",
+  "new": "Quantity of food eaten (मात्रा अशित/measure of food consumed), knowledge of medicines, excellence of purification, etc.",
+  "kind": "gloss",
+  "note": "'protection of eyes' was wrong"
+ },
+ {
+  "id": "1.1._114_",
+  "field": "hindi",
+  "new": "ये चालीस अध्याय 'सूत्र स्थान' हैं; (इसके बाद) शारीर स्थान कहा जाता है ॥",
+  "kind": "align",
+  "note": "Hindi omitted शारीर; Sanskrit ends the Sūtra count and introduces Śārīra"
+ },
+ {
+  "id": "1.1._114_",
+  "field": "eng",
+  "new": "These forty chapters (चत्वारिंशत्/forty) are the Sūtra section (सूत्रं/aphorism section); the Śārīra section (शारीरम्/anatomy section) is stated next.",
+  "kind": "translation",
+  "note": "Hindi and English disagreed"
+ },
+ {
+  "id": "1.1._117_",
+  "field": "hindi",
+  "new": "दूत (दूतादि अरिष्ट) सहित ये बारह अध्याय शारीर स्थान के हैं; इसके बाद सब रोगों का निदान (निदान स्थान) है ॥",
+  "kind": "gloss",
+  "note": "12 chapters belong to Śārīra (list in rows 115-116), not Nidāna; Nidāna is the 16 chapters of rows 118-120"
+ },
+ {
+  "id": "1.1._117_",
+  "field": "eng",
+  "new": "Twelve chapters including the one on messengers (द्वादश अध्याया/twelve chapters) complete the Śārīra section; then comes the diagnosis of all diseases (निदानं सार्वरोगिकं/Nidāna section).",
+  "kind": "gloss",
+  "note": "same as Hindi"
+ },
+ {
+  "id": "1.1._120_",
+  "field": "src",
+  "old": "पांढु",
+  "new": "पांडु",
+  "kind": "ocr",
+  "note": "ढ for ड"
+ },
+ {
+  "id": "1.1._120_",
+  "field": "split",
+  "old": "पांढु",
+  "new": "पांडु",
+  "kind": "ocr",
+  "note": "ढ for ड"
+ },
+ {
+  "id": "1.1._120_",
+  "field": "eng",
+  "old": "पांढु",
+  "new": "पांडु",
+  "kind": "ocr",
+  "note": "ढ for ड"
+ },
+ {
+  "id": "1.1._125_",
+  "field": "src",
+  "old": "चर्तुर्विंशति",
+  "new": "चतुर्विंशति",
+  "kind": "ocr",
+  "note": "metathesis"
+ },
+ {
+  "id": "1.1._125_",
+  "field": "split",
+  "old": "चर्तुर्विंशतिः",
+  "new": "चतुर्विंशतिः",
+  "kind": "ocr",
+  "note": "metathesis"
+ },
+ {
+  "id": "1.1._125_",
+  "field": "eng",
+  "old": "चर्तुर्विंशतिः",
+  "new": "चतुर्विंशतिः",
+  "kind": "ocr",
+  "note": "metathesis"
+ },
+ {
+  "id": "1.1._134_",
+  "field": "split",
+  "old": "आदिौ",
+  "new": "आदौ",
+  "kind": "ocr",
+  "note": "stray vowel sign"
+ },
+ {
+  "id": "1.1._137_",
+  "field": "hindi",
+  "old": "पचास अध्यायों से अंगों को पूर्ण करने वाला",
+  "new": "पचासवाँ अध्याय अंगों (अष्टांग) को पूर्ण करने वाला",
+  "kind": "translation",
+  "note": "पंचाशः = fiftieth; Hindi contradicted English"
+ }
+]
