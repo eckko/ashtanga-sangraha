@@ -1,0 +1,128 @@
+{
+ "units": [
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kapha (passed)",
+     "problem": "Not enriched: in this dysentery context kapha upaviśati with slime/blood colours is most plausibly mucus in the stool; a useful modern reading was missed.",
+     "fix": "append note, tagged probable",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "append_note",
+      "text": "Context (pravāhikā, unit 39): the Kapha passed, white or black or with blood and with slime, corresponds to mucus in the stool (probable); the translation keeps Kapha."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'The meaning of hikkā and kāsa is left to the Sanskrit terms / literal cough'",
+     "problem": "Stale sentence now contradicts the appended identification (hikkā = hiccup, kāsa = cough, standard).",
+     "fix": "delete the stale sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "notes",
+      "old": "The meaning of hikkā and kāsa is left to the Sanskrit terms / literal 'cough'. hikkā = hiccup",
+      "new": "hikkā = hiccup"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्षीरिवृक्षों यानी दूध वाले वृक्षों",
+     "problem": "Hindi gives no ordinary names for the kṣīrivṛkṣa group although the notes name four trees (probable, lists vary); optional, left for the owner because the group membership varies.",
+     "fix": "optionally add 'बरगद, गूलर, पीपल, पाकड़ आदि' with a probable tag in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोंठ, पीपर और काली मिर्च",
+     "problem": "पीपर is a regional name and is confusable with पीपल (Ficus religiosa); the ordinary Hindi name of pippalī (long pepper) is पिप्पली (also पीपली/छोटी पीपर).",
+     "fix": "पिप्पली",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीपर",
+      "new": "पिप्पली"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्राक्षा यानी अंगूर",
+     "problem": "English says 'grape or raisin'; in a kalka the dried grape (मुनक्का) is the usual understanding, Hindi names only the fresh grape.",
+     "fix": "द्राक्षा यानी अंगूर या मुनक्का",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्राक्षा यानी अंगूर",
+      "new": "द्राक्षा यानी अंगूर या मुनक्का"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "madhuka (liquorice) and uduṃbara",
+     "problem": "Hindi and English state madhuka = liquorice, but here tvacaḥ may govern the whole list (as noted for unit 68), and with 'skins' the madhūka tree (mahua, Madhuca longifolia) is a possible alternative reading; the unit's notes carry no scope note or hedge.",
+     "fix": "add scope note and hedge",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "append_note",
+      "text": "Scope of tvacaḥ is ambiguous (it may govern madhuka and uduṃbara, or only uduṃbara). madhuka = liquorice is probable (as in units 45, 60), but if tvacaḥ governs it, the bark of the madhūka tree (mahua) is a possible alternative; uduṃbara = Ficus racemosa, cluster fig (standard); śarkarā = sugar, kṣaudra = honey (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निकले हुए गुद को",
+     "problem": "English translation says 'protruded guda (rectum)' and notes give rectal prolapse (gudabhraṃśa), but Hindi gives no modern term for guda.",
+     "fix": "निकले हुए गुद यानी मलाशय को",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निकले हुए गुद को",
+      "new": "निकले हुए गुद यानी मलाशय को"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment pass reviewed against the pre-enrichment file (diffed all 37 units; 28 changed in text/notes/word glosses). No errors found: translations still say what the Sanskrit says (modern names are only in parentheses/'यानी' glosses and notes, no dose or effect added); all tags checked. Identifications confirmed: pravāhikā=dysentery, yaṣṭīmadhuka=Glycyrrhiza glabra, uśīra=Chrysopogon zizanioides, candana=Santalum album, elā=Elettaria cardamomum (probable is fair; Amomum subulatum alternative), mustā=Cyperus rotundus, lodhra=Symplocos racemosa, dāḍima, uduṃbara, tila, drākṣā, vyoṣa triad, raktapitta='bleeding disorder', atisāra=diarrhoea, hṛdgraha/hṛdayāpasaraṇa left unidentified, aṃjana correctly left disputed/unidentified, priyaṅgu (Callicarpa macrophylla) and samaṅgā (Mimosa pudica / Rubia cordifolia) correctly 'disputed', utpala 'probable' acceptable (Nymphaea; Hindi नीलकमल), kṣīrivṛkṣa four figs 'probable, lists vary' acceptable, mākṣika 'probably honey' acceptable, hanu-saṃhanana 'trismus, probable' acceptable, avapīḍa as nasal medication 'probable' acceptable. Hindi checked: Devanagari only, no Latin, no brackets in any unit. Low-confidence units 46, 49, 73 untouched (good); unit 73 jīva-rakta-pitta and unit 49 sarvāṅgagrahaṇī remain open manual items, not changed here. Six minor issues, five machine patches. No regrouping suggested. Owner-level residual: English parentheticals such as (cardamom), (blue water lily), (liquorice) for madhuka carry no confidence word inside the translation line itself (only in notes/gloss); acceptable under the policy but could be hedged."
+}
