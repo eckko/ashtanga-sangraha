@@ -952,10 +952,7 @@ IMAGE_SPECS = {
         "alt": "Flowchart of verse 47: for wine the verse gives three options (not to be used, a little, or with much water); otherwise four results: drying-up, slackness, burning, bewilderment.",
         "type": "mermaid",
         "code": """flowchart TD
-  A["मद्य"] --> B["न सेव्य"]
-  A --> C["स्वल्प"]
-  A --> D["सुबहुवारि"]
-  A --> E["अन्यथा"]
+  A["मद्य: न सेव्य, या स्वल्प,<br/>या सुबहुवारि"] --> E["अन्यथा"]
   E --> F["शोष"]
   E --> G["शैथिल्य"]
   E --> H["दाह"]
