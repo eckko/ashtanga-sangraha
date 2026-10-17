@@ -9,11 +9,10 @@ AUTHORED["37"] = {
     "rule": ("Line 1 lists śāli, ṣaṣṭika, wheat, mung, meat, ghee and the like. "
              "Line 2: through combination with agreeable, kindling medicinal "
              "substances, by means that give relish and digestion."),
-    "limits": ("There is no main verb here: the instrumental phrases continue "
-               "from the unit before and the sentence goes on in unit 38. "
-               "Śāli and ṣaṣṭika are names of kinds of rice only. The verse "
-               "says nothing of amounts or of how the substances are combined, "
-               "and no effect of any food beyond what line 2 states."),
+    "limits": ("No main verb: the phrases continue from the unit before and "
+               "the sentence goes on in unit 38. Śāli and ṣaṣṭika are names "
+               "of rice kinds only. No amounts, no way of combining, and no "
+               "effect beyond what line 2 states."),
     "explain_hi": ("यह इकाई एक लंबे वाक्य का बीच का हिस्सा है, इसलिए इसमें अपनी क्रिया नहीं है। "
                    "पहली पंक्ति में शालि, षष्टिक, गेहूँ (गोधूम), मूँग (मुद्ग), मांस और घृत "
                    "‘आदि’ के साथ गिनाए गए हैं, और अंत का ‘-भिः’ तृतीया बहुवचन है: ‘इनसे’। "
@@ -269,11 +268,10 @@ AUTHORED["41"] = {
     "rule": ("Line 1 gives knowledge of place, time and self (and a following of "
              "conduct: the word is damaged). Line 2: the pacificatory rite "
              "prescribed in the Atharva (Veda), worship of unfavourable grahas."),
-    "limits": ("The printed word सवृत्तस्य is probably a damaged सद्वृत्तस्य "
-               "('of good conduct'); no question uses that item. The unit is a "
-               "list with no verb; it goes on from unit 40 and 42. 'graha' is "
-               "left as graha (planet or seizing spirit). The verse does not "
-               "say what any item does."),
+    "limits": ("The printed सवृत्तस्य is probably a damaged सद्वृत्तस्य "
+               "('of good conduct'); no question uses it. A list with no verb. "
+               "'graha' stays graha (planet or seizing spirit). The verse "
+               "does not say what any item does."),
     "explain_hi": ("यह इकाई सूची है और इसमें क्रिया नहीं है। पहली पंक्ति में देश, काल और आत्मा (स्वयं) का ज्ञान है; "
                    "उसके बाद ‘सवृत्तस्य अनुवर्तनम्’ छपा है, जहाँ ‘सवृत्त’ संभवतः ‘सद्वृत्त’ (अच्छा आचरण) है, "
                    "पर यह अनुमान है और प्रश्नों में नहीं लिया गया। दूसरी पंक्ति में अथर्व में विहित शान्ति (शान्ति कर्म) "
@@ -499,7 +497,7 @@ AUTHORED["44"] = {
              ("रोगान् + तुजान् + न", "तुजान् is not a word.")],
             "रोगान् (diseases) + ऋतुजान् (born of seasons) + न (not) join as रोगानृतुजान्न.",
             "Final न् + vowel stay joined: रोगान् + ऋतुजान् = रोगानृतुजान्."),
-        mcq("apply", 4, "What does the verse say the one who purifies in this way never incurs?",
+        mcq("apply", 4, "What does the verse say the one who purifies in this way does not incur?",
             ("Diseases born of the seasons",
              "रोगानृतुजान्न जातु: never the diseases born of seasons."),
             [("Diseases born of wounds", "Wounds are not named in this verse."),
@@ -593,11 +591,10 @@ AUTHORED["46"] = {
     "rule": ("Line 1 describes a person who makes no effort in unobtainable "
              "objects, always shows regard for those that have means, and "
              "(line 2) has conquered the senses. Only the words are tested."),
-    "limits": ("Low confidence. The last clause 'तत्कालयुक्तं यदि नास्ति दैव' "
-               "is ambiguous (daiva may stand for daivam, 'fate'; 'joined with "
-               "that time' can go two ways); no question rests on it, nor on "
-               "what the verse claims about diseases. The printed नोनुतपंति is "
-               "not explained either. Questions only test the plain words of line 1."),
+    "limits": ("Low confidence. The clause 'तत्कालयुक्तं यदि नास्ति दैव' is "
+               "ambiguous (daiva for daivam, 'fate'?); no question rests on it "
+               "or on the verse's claim about diseases. नोनुतपंति is "
+               "unexplained. Questions test only plain words of line 1."),
     "explain_hi": ("इस श्लोक का पाठ अनिश्चित है (विश्वास: कम), इसलिए प्रश्न केवल पहली पंक्ति के साफ़ शब्दों पर हैं। "
                    "पहली पंक्ति कहती है: ‘अलभ्य’ (न पाने योग्य) विषयों में जो प्रयत्न नहीं करता, और ‘उपायवत्’ "
                    "(उपाय वाले) विषयों में सदा आदर रखता है। दूसरी पंक्ति का ‘जितेन्द्रिय’ शब्द साफ़ है, पर ‘तत्कालयुक्तं ... दैव’ वाला "
@@ -672,7 +669,7 @@ AUTHORED["47"] = {
     "hook": "अनुकूल काल, मनोज्ञ विषय, धर्म्य क्रिया, सुखानुबंधि कर्म, विधेय सत्त्व, विशद बुद्धि — धीर के लिए सदा सुख।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "For whom does the verse say these are always for happiness?",
+        mcq("pretest", 0, "For whom does the verse say these are for happiness?",
             ("For the steadfast person (धीर)",
              "धीरस्य सदासुखाय names the steadfast person."),
             [("For the king alone", "No king is mentioned."),
@@ -766,7 +763,7 @@ AUTHORED["48"] = {
              "अध्यायः means chapter.",
              "अध्यायः ends the line.",
              "अध्यायः = chapter.", role="apply"),
-        mcq("transfer", 5, "Following पंचमोऽध्यायः, which is the right form for 'the sixth chapter'?",
+        mcq("transfer", 5, "Following पंचमोऽध्यायः, how are षष्ठः (sixth) and अध्यायः joined?",
             ("षष्ठोऽध्यायः",
              "षष्ठः + अध्यायः: अः + अ becomes ओऽ."),
             [("षष्ठेऽध्यायः", "ए would be the locative, 'in the sixth chapter'."),
