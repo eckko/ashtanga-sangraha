@@ -586,12 +586,7 @@
         "w": "varjam",
         "gloss": "excepting, leaving out",
         "gram": "ind. (end of compound)"
-       }
-      ]
-     },
-     {
-      "src": "na",
-      "words": [
+       },
        {
         "w": "auṣadham",
         "gloss": "medicine",
@@ -600,13 +595,18 @@
       ]
      },
      {
-      "src": "tṛtīyamavacārayet",
+      "src": "na",
       "words": [
        {
         "w": "na",
         "gloss": "not",
         "gram": "ind."
-       },
+       }
+      ]
+     },
+     {
+      "src": "tṛtīyamavacārayet",
+      "words": [
        {
         "w": "tṛtīyam",
         "gloss": "third",
@@ -1179,17 +1179,17 @@
         "w": "ca",
         "gloss": "and",
         "gram": "ind."
-       },
-       {
-        "w": "saṃśodhanayoḥ",
-        "gloss": "of/in the two purifications",
-        "gram": "n. gen./loc. du."
        }
       ]
      },
      {
       "src": "saṃśodhanayorlavaṇataila",
       "words": [
+       {
+        "w": "saṃśodhanayoḥ",
+        "gloss": "of/in the two purifications",
+        "gram": "n. gen./loc. du."
+       },
        {
         "w": "lavaṇa-taila",
         "gloss": "salt and oil, salted oil",
@@ -2378,6 +2378,1026 @@
   "english": "There: in the navel, bladder, anus and male organ, cutting-around pain with burning, obstruction of wind (anila), and binding.",
   "text_flags": [],
   "notes": "No verb is stated; 'occur' is not added. viṣṭambha is kept literal ('binding, obstruction').",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇatilamadhukamadhuyuktaiḥ",
+      "words": [
+       {
+        "w": "kṛṣṇa-tila-madhuka-madhu-yuktaiḥ",
+        "gloss": "joined with black tila, madhuka and honey (madhu)",
+        "gram": "m. inst. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "picchābastibhirāsthāpayet",
+      "words": [
+       {
+        "w": "picchā-bastibhiḥ",
+        "gloss": "with picchā-bastis (slimy basti)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "āsthāpayet",
+        "gloss": "should give āsthāpana (literally 'make stand')",
+        "gram": "opt. 3 sg. caus. ā-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे काले तिल, मधुक और मधु से युक्त पिच्छा-बस्तियों से आस्थापन करे।",
+  "english": "One should give him āsthāpana with picchā-bastis joined with black tila, madhuka and honey.",
+  "text_flags": [],
+  "notes": "tila and madhuka are kept as drug names without identification; 'black' is taken with tila. picchā ('slime, sliminess') is kept literal. 'Joined with' could govern only the last items; the plainest reading is taken.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīrivṛkṣaśṛtakṣīreṇa",
+      "words": [
+       {
+        "w": "kṣīri-vṛkṣa-śṛta-kṣīreṇa",
+        "gloss": "with milk boiled with the milk-bearing trees (kṣīrivṛkṣa)",
+        "gram": "n. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा क्षीरिवृक्षों के साथ पकाए हुए दूध से।",
+  "english": "Or with milk boiled with the milk-bearing trees (kṣīrivṛkṣa).",
+  "text_flags": [],
+  "notes": "Elliptical: continues the previous unit (no verb). The phrase kṣīrivṛkṣa is rendered by its literal sense, not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītāṃbupariṣiktaṃ",
+      "words": [
+       {
+        "w": "śīta-ambu-pariṣiktam",
+        "gloss": "sprinkled with cold water",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "cainaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "payasā",
+      "words": [
+       {
+        "w": "payasā",
+        "gloss": "with milk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuktavaṃtaṃ",
+      "words": [
+       {
+        "w": "bhuktavantam",
+        "gloss": "one who has eaten",
+        "gram": "m. acc. sg. p.a.p. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "ghṛtamaṃḍena",
+      "words": [
+       {
+        "w": "ghṛta-maṇḍena",
+        "gloss": "with ghee-maṇḍa (the clear upper part of ghee)",
+        "gram": "m. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yaṣṭīmadhukatailenānuvāsayet",
+      "words": [
+       {
+        "w": "yaṣṭī-madhuka-tailena",
+        "gloss": "with oil of yaṣṭīmadhuka (drug name)",
+        "gram": "n. inst. sg. tat-puruṣa"
+       },
+       {
+        "w": "anuvāsayet",
+        "gloss": "should give anuvāsana (literally 'make stay')",
+        "gram": "opt. 3 sg. caus. anu-√vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसे शीतल जल से सींचकर, जिसने दूध के साथ भोजन किया हो, उसे घृतमण्ड और यष्टीमधुक के तैल से अनुवासन करे।",
+  "english": "And one should give him, sprinkled with cold water and having eaten with milk, anuvāsana with ghee-maṇḍa and with oil of yaṣṭīmadhuka.",
+  "text_flags": [],
+  "notes": "payasā bhuktavantam is read 'having eaten with milk'. ghṛtamaṇḍena and the yaṣṭīmadhuka oil are taken as two means ('and'), not as one; the Sanskrit has no 'and'. yaṣṭīmadhuka is kept as a drug name.",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣāmasya",
+      "words": [
+       {
+        "w": "kṣāmasya",
+        "gloss": "of one lean",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhuro",
+      "words": [
+       {
+        "w": "madhuraḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛṃhaṇaśca",
+      "words": [
+       {
+        "w": "bṛṃhaṇaḥ",
+        "gloss": "bulking",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvo",
+      "words": [
+       {
+        "w": "sarvaḥ",
+        "gloss": "all, every",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhiriṣṭaḥ",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "rule, procedure",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iṣṭaḥ",
+        "gloss": "desired, approved",
+        "gram": "m. nom. sg. p.p. √iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षाम के लिए मधुर और बृंहण, सब विधि इष्ट है।",
+  "english": "For one who is lean, every procedure that is sweet and bulking is desired.",
+  "text_flags": [],
+  "notes": "bṛṃhaṇa is rendered 'bulking' (literally 'making grow'). The words 'sweet and bulking' are taken together as qualifying vidhi.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāme",
+      "words": [
+       {
+        "w": "sāme",
+        "gloss": "in one with raw (āma) matter",
+        "gram": "m. loc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "laṃghano",
+      "words": [
+       {
+        "w": "laṅghanaḥ",
+        "gloss": "fasting (laṅghana)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīpanaśca",
+      "words": [
+       {
+        "w": "dīpanaḥ",
+        "gloss": "kindling (dīpana)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "laghurūkṣoṣṇaṃ",
+      "words": [
+       {
+        "w": "laghu-rūkṣa-uṣṇam",
+        "gloss": "light, dry and hot",
+        "gram": "n. nom. sg. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "cānnapānaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. nom. sg. dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आम सहित में लंघन और दीपन, और हल्का, रूक्ष और उष्ण अन्न-पान।",
+  "english": "In one with raw (āma) matter: fasting (laṅghana) and kindling (dīpana), and food and drink that is light, dry and hot.",
+  "text_flags": [],
+  "notes": "No verb is stated; the line is elliptical and continues the previous unit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirāmībhūte",
+      "words": [
+       {
+        "w": "nir-āmī-bhūte",
+        "gloss": "when become free of raw (āma) matter",
+        "gram": "m. loc. sg. p.p."
+       }
+      ]
+     },
+     {
+      "src": "(",
+      "words": [
+       {
+        "w": "(",
+        "gloss": "opening bracket (inserted note)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "madhyabalopacāraiva",
+      "words": [
+       {
+        "w": "madhya-bala-upacāraiḥ",
+        "gloss": "by treatments of middle strength",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if, like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātātapābhyāmiva",
+      "words": [
+       {
+        "w": "vāta-ātapābhyām",
+        "gloss": "by wind and sun",
+        "gram": "m. inst. du. dvandva"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if, like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāṃśu",
+      "words": [
+       {
+        "w": "pāṃśu",
+        "gloss": "dust (compound member)",
+        "gram": "comp. member"
+       }
+      ]
+     },
+     {
+      "src": "bhasmāvakiraṇairityādi",
+      "words": [
+       {
+        "w": "bhasma-avakiraṇaiḥ",
+        "gloss": "by scattering ash",
+        "gram": "n. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "iti-ādi",
+        "gloss": "and so on",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": ")",
+      "words": [
+       {
+        "w": ")",
+        "gloss": "closing bracket",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "vātānuraṃdhe",
+      "words": [
+       {
+        "w": "vāta-anurodhe",
+        "gloss": "in accordance with Vāta",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "laghukṣārāmlaṃ",
+      "words": [
+       {
+        "w": "laghu-kṣāra-amlam",
+        "gloss": "light, alkaline and sour",
+        "gram": "n. acc. sg. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vāte'dhike",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "when Vāta",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "adhike",
+        "gloss": "is in excess",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi",
+      "words": [
+       {
+        "w": "dadhi",
+        "gloss": "curd",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāmlaṃ",
+      "words": [
+       {
+        "w": "sa-amlam",
+        "gloss": "with sour",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dāḍimatvacā",
+      "words": [
+       {
+        "w": "dāḍima-tvacā",
+        "gloss": "with dāḍima skin (drug/fruit name)",
+        "gram": "f. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "joined",
+        "gram": "n. acc. sg. p.p. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "bhojane",
+      "words": [
+       {
+        "w": "bhojane",
+        "gloss": "in food",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāne",
+      "words": [
+       {
+        "w": "pāne",
+        "gloss": "in drink",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuṃjīta",
+      "words": [
+       {
+        "w": "yuñjīta",
+        "gloss": "should employ",
+        "gram": "opt. 3 sg. ātm. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आम से रहित हो जाने पर (मध्यम बल के उपचारों के समान, वायु और धूप के समान, धूल और भस्म के बिखेरने से इत्यादि) वात के अनुरोध से भोजन और पान में हल्का, क्षारयुक्त और खट्टा प्रयुक्त करे; वात के अधिक होने पर खटाई सहित दही, दाडिम की त्वचा से युक्त, भोजन और पान में प्रयुक्त करे।",
+  "english": "When one has become free of raw (āma) matter (as with treatments of middle strength, as by wind and sun, by scattering dust and ash, and so on), in accordance with Vāta one should employ in food and drink what is light, alkaline and sour; when Vāta is in excess, curd with sour added, joined with the skin of dāḍima.",
+  "text_flags": [
+   {
+    "src": "madhyabalopacāraiva",
+    "suggest": "madhyabalopacārair iva",
+    "why": "possible: instrumental plural expected; r lost"
+   },
+   {
+    "src": "vātānuraṃdhe",
+    "suggest": "vātānurodhe",
+    "why": "possible: anurodha expected; 'anuraṃdha' is not a known word"
+   }
+  ],
+  "notes": "The bracketed words look like an inserted note in the edition (the brackets are in the printed text); kept and translated. The two printed parts after 'vāte' are read as a locative absolute 'when Vāta is in excess'. The sentence is hard: the reading is tentative.",
+  "confidence": "low"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sadāḍimarasaṃ",
+      "words": [
+       {
+        "w": "sa-dāḍima-rasam",
+        "gloss": "with dāḍima juice (dāḍima: fruit name)",
+        "gram": "n. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarpiḥ",
+      "words": [
+       {
+        "w": "sarpiḥ",
+        "gloss": "ghee (sarpis)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "opt. 3 sg. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दाडिम के रस सहित घृत पिए।",
+  "english": "And one should drink ghee (sarpis) together with dāḍima juice.",
+  "text_flags": [],
+  "notes": "The 'ca' stands after sadāḍimarasaṃ in the printed order; the plainest reading is taken.",
+  "confidence": "high"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uṣṇāṃbunā",
+      "words": [
+       {
+        "w": "uṣṇa-ambunā",
+        "gloss": "with hot water",
+        "gram": "n. inst. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tiladevadārukalkaṃ",
+      "words": [
+       {
+        "w": "tila-devadāru-kalkam",
+        "gloss": "paste of tila and devadāru (drug names)",
+        "gram": "m. acc. sg. dvandva + tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उष्ण जल से तिल और देवदारु का कल्क।",
+  "english": "Or, with hot water, a paste (kalka) of tila and devadāru.",
+  "text_flags": [],
+  "notes": "Elliptical (no verb); tila and devadāru are drug names, not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "krūrakoṣṭhasya",
+      "words": [
+       {
+        "w": "krūra-koṣṭhasya",
+        "gloss": "of one with a hard bowel (koṣṭha)",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bahudoṣasyālpamātraguṇaṃ",
+      "words": [
+       {
+        "w": "bahu-doṣasya",
+        "gloss": "of one with many doṣas",
+        "gram": "m. gen. sg. bahuvrīhi"
+       },
+       {
+        "w": "alpa-mātrā-guṇam",
+        "gloss": "of small dose and quality",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mṛdu",
+      "words": [
+       {
+        "w": "mṛdu",
+        "gloss": "mild",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śodhanamavacāritamutkleśya",
+      "words": [
+       {
+        "w": "śodhanam",
+        "gloss": "purifying (medicine)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "avacāritam",
+        "gloss": "applied",
+        "gram": "n. nom. sg. p.p. caus. ava-√car"
+       },
+       {
+        "w": "utkleśya",
+        "gloss": "having agitated",
+        "gram": "abs. caus. ud-√kliś"
+       }
+      ]
+     },
+     {
+      "src": "doṣānna",
+      "words": [
+       {
+        "w": "doṣān",
+        "gloss": "doṣas",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirharatyalpālyaṃ",
+      "words": [
+       {
+        "w": "nirharati",
+        "gloss": "expels",
+        "gram": "3 sg. pres. nir-√hṛ"
+       },
+       {
+        "w": "alpa-alpam",
+        "gloss": "little by little",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pittakaphasaṃsṛṣṭaṃ",
+      "words": [
+       {
+        "w": "pitta-kapha-saṃsṛṣṭam",
+        "gloss": "mixed with Pitta and Kapha",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "parisravati",
+      "words": [
+       {
+        "w": "parisravati",
+        "gloss": "flows out all round",
+        "gram": "3 sg. pres. pari-√sru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कठोर कोष्ठ वाले और बहुत दोष वाले में अल्प मात्रा और अल्प गुण वाला, मृदु या स्निग्ध, प्रयुक्त शोधन औषध दोषों को उभारकर बाहर नहीं निकालती; और थोड़ा-थोड़ा पित्त और कफ से मिला हुआ बह निकलता है।",
+  "english": "In one with a hard bowel and many doṣas, a purifying medicine applied, of small dose and quality, mild or unctuous, having agitated the doṣas does not expel them; and, little by little, mixed with Pitta and Kapha, it flows out all round.",
+  "text_flags": [
+   {
+    "src": "nirharatyalpālyaṃ",
+    "suggest": "nirharatyalpālpaṃ",
+    "why": "possible: y for p; 'little by little' fits"
+   }
+  ],
+  "notes": "The subject of parisravati is not stated (the doṣas or the medicine). 'alpamātraguṇam' could also be read 'of small dose, without quality'. GLOSSARY: kvātha/kaṣāya not involved.",
+  "confidence": "low"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣṭaṃbhagauravaśoṣakoṭhakaṃḍūpāṃḍutāṃgasādaśūlāni",
+      "words": [
+       {
+        "w": "viṣṭambha-gaurava-śoṣa-koṭha-kaṇḍū-pāṇḍutā-aṅga-sāda-śūlāni",
+        "gloss": "binding, heaviness, drying (śoṣa), koṭha (term kept), itching, paleness, sinking of the limbs, piercing pain",
+        "gram": "n. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "cāpādayati",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āpādayati",
+        "gloss": "brings about",
+        "gram": "3 sg. pres. caus. ā-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विष्टम्भ, भारीपन, शोष, कोठ, खुजली, पाण्डुता, अंगों की शिथिलता और शूल उत्पन्न करता है।",
+  "english": "And it brings about binding, heaviness, drying (śoṣa), koṭha, itching, paleness, sinking of the limbs and piercing pain.",
+  "text_flags": [],
+  "notes": "The subject (the medicine or the retained doṣas) is not stated. koṭha is a technical word and is kept untranslated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiniśadhavāśvakarṇapalāśavalāniryūhairmadhuyuktairāsthāpayet",
+      "words": [
+       {
+        "w": "tiniśa-dhava-aśvakarṇa-palāśa-valā-niryūhaiḥ",
+        "gloss": "with decoctions of tiniśa, dhava, aśvakarṇa, palāśa and valā (drug names)",
+        "gram": "m. inst. pl. dvandva + tat-puruṣa"
+       },
+       {
+        "w": "madhu-yuktaiḥ",
+        "gloss": "joined with honey (madhu)",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "āsthāpayet",
+        "gloss": "should give āsthāpana (literally 'make stand')",
+        "gram": "opt. 3 sg. caus. ā-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे तिनिश, धव, अश्वकर्ण, पलाश और बला के निर्यूहों से, मधु मिलाकर, आस्थापन करे।",
+  "english": "One should give him āsthāpana with decoctions (niryūha) of tiniśa, dhava, aśvakarṇa, palāśa and valā, joined with honey.",
+  "text_flags": [],
+  "notes": "GLOSSARY OPEN: niryūha is rendered 'decoction', the same as kaṣāya and kvātha so far. The five names are drug names, not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upaśāṃtaparisravaṃ",
+      "words": [
+       {
+        "w": "upaśānta-parisravam",
+        "gloss": "whose flowing out has subsided",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punarupasnigdhaṃ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "upasnigdham",
+        "gloss": "made further unctuous",
+        "gram": "m. acc. sg. p.p. upa-√snih"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇaiḥ",
+      "words": [
+       {
+        "w": "tīkṣṇaiḥ",
+        "gloss": "with sharp (ones)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śodhayet",
+      "words": [
+       {
+        "w": "śodhayet",
+        "gloss": "should purify",
+        "gram": "opt. 3 sg. caus. √śudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिसका परिस्रव शान्त हो गया हो, उसे फिर और स्निग्ध करके तीक्ष्ण द्रव्यों से शुद्ध करे।",
+  "english": "And one whose flowing out has subsided, having again been made further unctuous, one should purify with sharp (ones).",
+  "text_flags": [],
+  "notes": "The noun for 'sharp (ones)' is not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuddhe",
+      "words": [
+       {
+        "w": "śuddhe",
+        "gloss": "when purified",
+        "gram": "m. loc. sg. p.p. √śudh"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dīpa",
+      "words": [
+       {
+        "w": "dīpanān",
+        "gloss": "kindling (ones) (split across two tokens in print)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nāṃścūrṇānsavāriṣṭādīn",
+      "words": [
+       {
+        "w": "cūrṇān",
+        "gloss": "powders",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "āsava-ariṣṭa-ādīn",
+        "gloss": "āsavas, ariṣṭas and so on (names of prepared drinks)",
+        "gram": "m. acc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yojayet",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "should employ",
+        "gram": "opt. 3 sg. caus. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और शुद्ध हो जाने पर दीपन चूर्णों तथा आसव, अरिष्ट आदि का प्रयोग करे।",
+  "english": "And when purified, one should employ kindling (dīpana) ones: powders, āsavas, ariṣṭas and so on.",
+  "text_flags": [
+   {
+    "src": "dīpa nāṃścūrṇānsavāriṣṭādīn",
+    "suggest": "dīpanāṃścūrṇānāsavāriṣṭādīn",
+    "why": "possible: dīpanān is wrongly divided in print, and the ā of āsava is lost"
+   }
+  ],
+  "notes": "Whether dīpanān qualifies only the powders or also the āsavas and ariṣṭas is not clear. āsava and ariṣṭa are kept as the text's own words.",
   "confidence": "medium"
  }
 ]

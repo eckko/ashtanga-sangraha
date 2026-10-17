@@ -1,0 +1,121 @@
+{
+ "units": [
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "pravahamānaḥ (subject)", "problem": "Both translations supply a subject ('the patient' / रोगी); pravahamānaḥ is a bare nominative participle and no noun is printed in this unit. Not recorded in notes.", "fix": "Add a note that the subject is supplied from context (the person of units 38-39).", "severity": "minor",
+    "patch": {"n": "40", "op": "append_note", "text": "The subject 'the patient' is supplied from context (the person of units 38-39); pravahamānaḥ is a bare nominative participle."}}
+  ]},
+  {"n": "41", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "(glossary: flow, trickling)", "problem": "The glossary fixes praseka as 'flow, trickling', not parisrava. The note wrongly says the glossary covers parisrava, and the English gloss ('a flowing round, oozing') differs from that wording.", "fix": "State that parisrava is not yet in the glossary.", "severity": "minor",
+    "patch": {"n": "41", "op": "replace", "field": "notes", "old": "(glossary: flow, trickling)", "new": "(literally 'flowing round, oozing'; not yet in the glossary, which fixes only praseka as 'flow, trickling')"}}
+  ]},
+  {"n": "42", "verdict": "fix", "issues": [
+   {"field": "text_flags", "where": "kupitā (src) vs kupitāḥ (w)", "problem": "Printed 'kupitā' before 'hṛdayam' lacks the visarga (a visarga before h stays; the same edition keeps visarga before k, p, etc.). The word split silently uses kupitāḥ with no entry in text_flags (rule 6).", "fix": "Add text_flag {src: kupitā, suggest: kupitāḥ, why: 'visarga apparently lost before h-; possible'}.", "severity": "minor"},
+   {"field": "hindi", "where": "डकार, वमन आदि", "problem": "chardi is rendered 'वमन' in Hindi, which conflates it with vamana (the treatment) used in units 45, 58, 67. English keeps them apart (vomiting vs vomiting-treatment). Unit 60 uses छर्दि for chardi.", "fix": "डकार, छर्दि आदि", "severity": "minor",
+    "patch": {"n": "42", "op": "replace", "field": "hindi", "old": "डकार, वमन आदि", "new": "डकार, छर्दि आदि"}},
+   {"field": "gloss", "where": "hṛd-graham 'heart-seizure'", "problem": "'Seizure' now names a modern clinical event (fit, attack); the medical-term rule asks for the plain literal sense of graha.", "fix": "Prefer 'heart-grasping' or 'heart-gripping' (human choice; also affects the English).", "severity": "minor"}
+  ]},
+  {"n": "43", "verdict": "fix", "issues": [
+   {"field": "text_flags", "where": "mohahikkākāsalālāpārśvaśūlyuto", "problem": "Printed '-śūlyuto' lacks the a of śūla-yuto (śūla + yuta cannot give -śūlyuta). The split silently uses śūla-yutaḥ with no text_flag.", "fix": "Add text_flag {src: mohahikkākāsalālāpārśvaśūlyuto, suggest: mohahikkākāsalālāpārśvaśūlayuto, why: 'a lost after śūl; possible'}.", "severity": "minor"},
+   {"field": "english", "where": "stupor", "problem": "moha is rendered 'stupor' (a clinical word) here but the verb of the same root in unit 44 (amuhyan) is 'not bewildered'. The plain literal sense is 'bewilderment'. Also kāsa is glossed '(cough)' but hikkā is not, so the glossing is uneven.", "fix": "joined with bewilderment, hikkā (hiccup), kāsa (cough), saliva", "severity": "minor",
+    "patch": {"n": "43", "op": "replace", "field": "english", "old": "joined with stupor, hikkā, kāsa (cough), saliva", "new": "joined with bewilderment, hikkā (hiccup), kāsa (cough), saliva"}},
+   {"field": "gloss", "where": "moha-hikkā-kāsa-lālā-pārśva-śūla-yutaḥ", "problem": "Gloss uses 'stupor' (see above).", "fix": "joined with bewilderment, hikkā, kāsa, saliva, side-pain", "severity": "minor",
+    "patch": {"n": "43", "op": "word", "match_w": "moha-hikkā-kāsa-lālā-pārśva-śūla-yutaḥ", "field": "gloss", "value": "joined with bewilderment, hikkā, kāsa, saliva, side-pain"}},
+   {"field": "hindi", "where": "संज्ञा खोया हुआ", "problem": "Ungrammatical Hindi ('संज्ञा' is feminine, so 'खोया हुआ' does not agree; the phrase is not standard).", "fix": "संज्ञाहीन", "severity": "minor",
+    "patch": {"n": "43", "op": "replace", "field": "hindi", "old": "संज्ञा खोया हुआ", "new": "संज्ञाहीन"}}
+  ]},
+  {"n": "44", "verdict": "ok", "issues": []},
+  {"n": "45", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "yaṣṭīmadhuka-miśreṇa", "problem": "Labelled m. inst. sg., but it agrees with taṃdula-aṃbunā (ambu is neuter), so n. inst. sg.", "fix": "tat-puruṣa, n. inst. sg. (agrees with taṃdula-aṃbunā)", "severity": "minor",
+    "patch": {"n": "45", "op": "word", "match_w": "yaṣṭīmadhuka-miśreṇa", "field": "gram", "value": "tat-puruṣa, n. inst. sg. (agrees with taṃdula-aṃbunā)"}}
+  ]},
+  {"n": "46", "verdict": "ok", "issues": []},
+  {"n": "47", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "दोष की उभार", "problem": "Gender error: उभार is masculine (दोष के उभार).", "fix": "दोष के उभार के अनुसार", "severity": "minor",
+    "patch": {"n": "47", "op": "replace", "field": "hindi", "old": "दोष की उभार के अनुसार", "new": "दोष के उभार के अनुसार"}}
+  ]},
+  {"n": "48", "verdict": "ok", "issues": []},
+  {"n": "49", "verdict": "fix", "issues": [
+   {"field": "split", "where": "sarva-aṃga-grahaṇī vs translations", "problem": "The word row keeps the printed grahaṇī (f. nom. sg.), but the gloss, Hindi and English all follow the suggested emendation -grahaḥ ('a seizing of all the limbs'; Hindi 'सर्वांग का ग्रहण'). The text_flag therefore changes the sense without the words row showing it (rule 6 asks for the corrected form in words). Translating a line of confidence 'low' as a firm reading is also overconfident: grahaṇī is a real word (f. 'that which seizes') and the printed clause may be read differently.", "fix": "Human decision: either put the corrected form in `w` (sarva-aṃga-grahaḥ) and keep the flag, or keep grahaṇī and translate it literally ('the seizer of all limbs') with the emendation only in notes.", "severity": "error"},
+   {"field": "gloss", "where": "udveṣṭanam 'twisting, cramping'", "problem": "'Cramping' is an interpretation; udveṣṭana is literally 'twisting, wrapping round'.", "fix": "twisting, wrapping round", "severity": "minor",
+    "patch": {"n": "49", "op": "word", "match_w": "udveṣṭanam", "field": "gloss", "value": "twisting, wrapping round"}}
+  ]},
+  {"n": "50", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "यष्टीमधु में पकाए हुए तेल", "problem": "'में' (in) renders the instrumental of vipakka; elsewhere 'से सिद्ध/पकाए' is used. English says 'cooked with'.", "fix": "यष्टीमधु से पकाए हुए तेल से", "severity": "minor",
+    "patch": {"n": "50", "op": "replace", "field": "hindi", "old": "यष्टीमधु में पकाए हुए तेल से", "new": "यष्टीमधु से पकाए हुए तेल से"}}
+  ]},
+  {"n": "51", "verdict": "ok", "issues": []},
+  {"n": "52", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "वाली ... बहा दे, तो वह अतियोगी होती है", "problem": "(1) The added conditional 'तो' is not in the Sanskrit (the draft's own note admits this), so something is added. (2) औषध is masculine in Hindi and is made masculine in unit 48 ('औषध ... कुपित करता है'), but here it is treated as feminine (वाली, होती).", "fix": "Remove 'तो' and use masculine agreement.", "severity": "minor",
+    "patch": {"n": "52", "op": "set", "field": "hindi", "value": "जो स्निग्ध और स्विन्न है, जिसका कोष्ठ अत्यन्त मृदु है अथवा जो भूखा है, उसके लिए प्रयुक्त तीक्ष्ण वेग वाला अथवा बहुत अधिक औषध सब मल को निकालकर और धातुओं को भी द्रवीभूत करके बहा दे; वह अतियोगी होता है।"}}
+  ]},
+  {"n": "53", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "कषाय, स्वादु और शीत द्रव्यों से", "problem": "kaṣāya is correctly the taste 'astringent' in this taste-list (kaṣāya-svādu-śīta qualifying the smearings, pourings, immersions, food and drink), and the English says so. But Hindi 'कषाय' reads as 'decoction' (काढ़ा) to a modern reader, and स्वादु reads as 'tasty'. So the Hindi gives a different sense from the English.", "fix": "कसैले, मीठे और शीतल द्रव्यों से", "severity": "error",
+    "patch": {"n": "53", "op": "replace", "field": "hindi", "old": "कषाय, स्वादु और शीत द्रव्यों से", "new": "कसैले, मीठे और शीतल द्रव्यों से"}},
+   {"field": "english", "where": "linctuses", "problem": "'Linctus' is a modern pharmacy word for a cough medicine and implies an effect; leha is literally 'licked (preparation)'.", "fix": "with licked preparations (leha) containing sugar and honey", "severity": "minor",
+    "patch": {"n": "53", "op": "replace", "field": "english", "old": "linctuses containing sugar and honey", "new": "licked preparations (leha) containing sugar and honey"}},
+   {"field": "gloss", "where": "lehaiḥ", "problem": "Same as above.", "fix": "with licked preparations", "severity": "minor",
+    "patch": {"n": "53", "op": "word", "match_w": "lehaiḥ", "field": "gloss", "value": "with licked preparations"}},
+   {"field": "english", "where": "with astringent, sweet and cold things, as smearing, pouring, ...", "problem": "'Things' and 'as' are added. The instrumentals kaṣāya-svādu-śītaiḥ and pradeha-...-pānaiḥ are probably one phrase: astringent, sweet, cold smearings, pourings, immersions, foods and drinks. The word row also calls the first three a separate dvandva.", "fix": "Human decision; suggested wording: 'with astringent, sweet and cold smearings, pourings, immersions, foods and drinks'.", "severity": "minor"}
+  ]},
+  {"n": "54", "verdict": "ok", "issues": []},
+  {"n": "55", "verdict": "ok", "issues": []},
+  {"n": "56", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "madhura-varga-siddham / kṣīra-sarpiḥ", "problem": "Both are labelled acc. sg., but the coordinated sarpiḥ-maṃḍaḥ is nominative, so the list is nominative with an elided copula (the draft's own anuvāsanam is n. nom. sg.). The case labels are inconsistent.", "fix": "n. nom. sg. for both", "severity": "minor",
+    "patch": {"n": "56", "op": "word", "match_w": "madhura-varga-siddham", "field": "gram", "value": "tat-puruṣa, n. nom. sg."}},
+   {"field": "gram", "where": "kṣīra-sarpiḥ", "problem": "See above.", "fix": "n. nom. sg.", "severity": "minor",
+    "patch": {"n": "56", "op": "word", "match_w": "kṣīra-sarpiḥ", "field": "gram", "value": "n. nom. sg."}}
+  ]},
+  {"n": "57", "verdict": "ok", "issues": []},
+  {"n": "58", "verdict": "ok", "issues": []},
+  {"n": "59", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "the second reading is followed", "problem": "The note says the narrower reading (avacārayet governs only the last item) is followed, but both the English and the Hindi put the verb after the whole list and apply it to all items, i.e. the first reading. Note and translation disagree.", "fix": "State that the translation follows the first reading.", "severity": "minor",
+    "patch": {"n": "59", "op": "replace", "field": "notes", "old": "the second reading is followed", "new": "the translation follows the first reading (the verb governs the whole list)"}}
+  ]},
+  {"n": "60", "verdict": "ok", "issues": []},
+  {"n": "61", "verdict": "ok", "issues": []},
+  {"n": "62", "verdict": "ok", "issues": []},
+  {"n": "63", "verdict": "ok", "issues": []},
+  {"n": "64", "verdict": "ok", "issues": []},
+  {"n": "65", "verdict": "ok", "issues": []},
+  {"n": "66", "verdict": "ok", "issues": []},
+  {"n": "67", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "miśreṇa 'past part. √miśr'", "problem": "miśra is an adjective ('mixed'), not a past participle of a root √miśr.", "fix": "adj. (miśra), n. inst. sg.", "severity": "minor",
+    "patch": {"n": "67", "op": "word", "match_w": "miśreṇa", "field": "gram", "value": "adj. (miśra), n. inst. sg."}}
+  ]},
+  {"n": "68", "verdict": "ok", "issues": []},
+  {"n": "69", "verdict": "ok", "issues": []},
+  {"n": "70", "verdict": "ok", "issues": []},
+  {"n": "71", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "कषायों से", "problem": "kaṣāyaiḥ is a bare plural noun here (no taste-list). English chose 'astringent things', but Hindi 'कषाय' reads as decoctions (काढ़ा), so the two languages differ on the sense. The sense is genuinely open (astringent substances or decoctions); at least the two languages must agree, and the unit's 'high' confidence overstates it.", "fix": "कसैले द्रव्यों से (matches the English; notes already give the alternative)", "severity": "minor",
+    "patch": {"n": "71", "op": "replace", "field": "hindi", "old": "कषायों से स्तम्भित करके", "new": "कसैले द्रव्यों से स्तम्भित करके"}}
+  ]},
+  {"n": "72", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "वाक्संग", "problem": "Unit 61 renders vāksaṃga as 'वाणी के रुकने' (English 'obstruction of speech'), but here the Sanskrit term is left as 'वाक्संग'. Renderings should be the same.", "fix": "वाणी के रुकने आदि का साधन करे", "severity": "minor",
+    "patch": {"n": "72", "op": "replace", "field": "hindi", "old": "वाक्संग आदि का साधन करे", "new": "वाणी के रुकने आदि का साधन करे"}}
+  ]},
+  {"n": "73", "verdict": "fix", "issues": [
+   {"field": "english", "where": "life-blood and raktapitta (also Hindi जीवरक्त और रक्तपित्त; gloss '(rakta)pitta')", "problem": "The printed compound is jīva-rakta-pitta-yoḥ, literally 'of life-blood and pitta' (dual = two items). Both translations read it as 'life-blood and raktapitta', inserting rakta that is not in the text (an unflagged emendation, supported only by unit 74). The gloss '(rakta)pitta' invents a bracketed member. This is a line of confidence 'low' yet it is translated as a firm reading, and there is no text_flag for the compound.", "fix": "Translate literally ('life-blood and pitta' / 'जीवरक्त और पित्त') and put the haplology suggestion (jīvarakta-raktapitta, cf. unit 74) in text_flags as 'possible'; the gloss should drop the bracket.", "severity": "error"},
+   {"field": "notes", "where": "The two 'cases' (ubhayatra) refer to ...", "problem": "States as fact which two conditions ubhayatra covers; the text does not say. It could equally be the two blood-conditions treated above (raktapitta in 57, raktātisāra in 70).", "fix": "Hedge.", "severity": "minor",
+    "patch": {"n": "73", "op": "replace", "field": "notes", "old": "The two 'cases' (ubhayatra) refer to the two conditions treated just above (atiyoga of vamana and of virecana).", "new": "ubhayatra 'in both' is presumably the two excesses (vamana and virecana) or the two blood-conditions treated above (raktapitta, raktātisāra); the text does not say."}},
+   {"field": "notes", "where": "emendation not recorded", "problem": "Notes do not say that the translation already reads jīvarakta + raktapitta.", "fix": "Record it.", "severity": "minor",
+    "patch": {"n": "73", "op": "append_note", "text": "The translation as drafted reads the compound as jīvarakta + raktapitta (supposing haplology of rakta, cf. unit 74); literally the printed compound is jīva-rakta-pitta, 'life-blood and pitta'."}}
+  ]},
+  {"n": "74", "verdict": "ok", "issues": []}
+ ],
+ "glossary_suggestions": [
+  "kaṣāya: as a taste (in a list with svādu, amla, kaṭu, etc., as in unit 53) = 'astringent', Hindi कसैला; as a preparation (plural noun with no taste-list, or with kvātha/niryūha) = 'decoction', Hindi काढ़ा. Decide by context and record each use in notes. Never use bare Hindi 'कषाय' (it reads as decoction). Unit 71 is open.",
+  "chardi = 'vomiting' (Hindi छर्दि); vamana = 'vomiting-treatment (vamana)' (Hindi वमन). Do not use वमन for chardi.",
+  "siddha / sādhita ('cooked with'): English 'cooked with'; Hindi 'से पकाया हुआ', not bare 'सिद्ध' (which reads as 'perfected').",
+  "moha = 'bewilderment' (not 'stupor'); hikkā and kāsa: gloss both ('hiccup', 'cough') or neither.",
+  "graha in hṛdgraha, sarvāṅgagraha: 'seizing/grasp', avoiding 'seizure' (modern clinical sense).",
+  "ghṛta / sarpis: choose one English rendering (the chunk uses 'ghṛta' in 53, 58, 61, 65 but 'ghee' and 'milk-ghee' in 56).",
+  "English prose should use conventional IAST nasals (candana, añjana, taṇḍula, udumbara, priyaṅgu, samaṅgā) instead of the printed anusvāra forms (caṃdana, aṃjana, uduṃbara); keep ṃ in the `w` field only.",
+  "parisrava: add (suggest 'flowing round, oozing'; keep Sanskrit term).",
+  "leha: 'licked preparation (leha)', not 'linctus'.",
+  "atiyoga: 'excess application' (already used consistently); ativireka: 'excessive purging'.",
+  "kṣaudra, sitā, śarkarā: gloss at first use in each chunk, so English reads alike across units 53, 58, 69."
+ ],
+ "summary": "37 units reviewed (38-74). 3 errors (49: word row keeps grahaṇī while the translations follow an emended -graha at 'low' confidence; 53: Hindi 'कषाय/स्वादु' gives a different sense from the English 'astringent, sweet'; 73: 'rakta' inserted into 'life-blood and pitta' without a text_flag, and a bracketed '(rakta)pitta' gloss). About 22 minor issues (unflagged silent emendations at 42 'kupitā' and 43 '-śūlyuto'; Hindi gender, idiom and consistency slips; case labels at 45 and 56; kaṣāya Hindi/English mismatch at 71; note/translation mismatch at 59; one glossary misattribution at 41). 21 units are ok. kaṣāya in this chunk occurs only in 53 (taste: astringent, correct) and 71 (open between 'astringent things' and 'decoctions'; the Hindi must at least agree with the English). Units 46 and 49 are honestly low-confidence, and 46 is acceptable as drafted. The translations of 45 and 62 supply no verb; only the notes say the verb is carried over from the previous unit, which is acceptable, but this carry-over is an inference. Regrouping: none needed. Optional merges if the format allows: 38+39 (yadā ... tadā), 45+46 (vamana with ... or with pungents), 68+69 (list of vā alternatives). 50+51 and 61/62 are separate elliptical cases and can stay."
+}
