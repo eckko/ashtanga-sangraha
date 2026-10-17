@@ -1,0 +1,712 @@
+{
+ "units": [
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ūru-jaṅghayoḥ",
+     "problem": "Dvandva takes the gender of its last member (jaṅghā, f.); \"f./n.\" is vague and ūru is masculine.",
+     "fix": "dvandva, f. loc. du.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ūru-jaṅghayoḥ",
+      "field": "gram",
+      "value": "dvandva, f. loc. du.",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes the statement",
+     "problem": "Glossary: write \"appears to complete\", never \"completes\" (45 is itself the last line of the 42-45 run).",
+     "fix": "Appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes the statement of 42-45.",
+      "new": "Appears to complete the statement of 42-45.",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो ... अनुलोम गति वाले हों",
+     "problem": "Hindi adds a verb (हों) and \"गति\" that the Sanskrit does not have (glossary: no added हो/गति); chunk 1 renders ānulomika as स्वाभाविक दिशा के अनुसार.",
+     "fix": "शोधनीय यानी शोधन करने वाले और अनुलोमिक यानी स्वाभाविक दिशा के अनुसार,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो शोधनीय यानी शोधन करने वाले और अनुलोमिक यानी अनुलोम गति वाले हों,",
+      "new": "शोधनीय यानी शोधन करने वाले और अनुलोमिक यानी स्वाभाविक दिशा के अनुसार,",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes 46",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 46.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 46.",
+      "new": "Appears to complete 46.",
+      "n": "47"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वृत्ति यानी आचरण ... रखे",
+     "problem": "\"आचरण\" is an interpretation of vṛtti and \"रखे\" is a supplied verb; the whole second half rests on the conjectural vṛttiṃ tasya. Owner to decide whether to word it more literally (e.g. \"उसकी वृत्ति विरेचित के समान\") and whether the English should bracket the supplied \"(prescribe)\" as a conjecture, which it does; Hindi cannot use brackets.",
+     "fix": "human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ku~rvaṃto -> kurvan",
+     "problem": "Weak flag, and the draft is internally inconsistent: the printed form kurvanto gives the 16 syllables (the print has a stray candrabindu, कुँर्वंतो), while the correction kurvan gives 14 and breaks the metre, yet `words` already uses kurvan. Metre favours keeping kurvanto (nom. pl.), which then disagrees with the singular subject basti; an alternative is that the subject is not the basti. Owner to decide between w=kurvan (grammar) and w=kurvantaḥ (metre); either way keep the flag as \"possible\".",
+     "fix": "human decision",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "करता हुआ ... पीड़ित",
+     "problem": "Gender/sense: बस्ति is feminine in the other Hindi lines (निकालेगी, करती), and \"पीड़ित\" reads as \"afflicted\" while the English says \"pressed\" (notes keep both open).",
+     "fix": "human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "mūrcchā-hṛllāsa-tṛṭ-dāha-ādīn",
+     "problem": "Compound member should be the stem tṛṣ (thirst), not the sandhi form tṛṭ.",
+     "fix": "mūrcchā-hṛllāsa-tṛṣ-dāha-ādīn",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūrcchā-hṛllāsa-tṛṭ-dāha-ādīn",
+      "field": "w",
+      "value": "mūrcchā-hṛllāsa-tṛṣ-dāha-ādīn",
+      "n": "51"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Completes 48-51",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 48-51.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 48-51.",
+      "new": "Appears to complete 48-51.",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "āklama-nāśāt",
+     "problem": "Probably two words: ā (up to) + klama-nāśāt (ablative, \"until the destruction of fatigue\"); a noun āklama is doubtful, and the printed व्यजेदाक्लमनाशाच्च reads naturally as vyajet ā klamanāśāt ca. English/Hindi \"(āklama)\" / \"आक्लम यानी\" would then go. Cannot be patched (one word becomes two).",
+     "fix": "split ā + klama-nāśāt; English \"until the destruction of fatigue (klama)\"",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "vyajet",
+     "problem": "Analysis as a denominative of vyajana looks wrong: vyajet is simply the potential of vi-√aj (to fan, drive), the source of the noun vyajana. Sense unchanged.",
+     "fix": "3 sg. pot. vi-√aj; notes: not a denominative",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes 58",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 58.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 58.",
+      "new": "Appears to complete 58.",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुलोम गति में ले आता है",
+     "problem": "Hindi adds \"गति\" (glossary: no added गति); chunk 1 uses स्वाभाविक दिशा.",
+     "fix": "बस्ति को स्वाभाविक दिशा में ले आता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बस्ति को अनुलोम गति में ले आता है",
+      "new": "बस्ति को स्वाभाविक दिशा में ले आता है",
+      "n": "61"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "trivṛt-pathyā-kalkam / anulomanam",
+     "problem": "\"m. acc./nom. sg.\" is inconsistent: kalka in -kalkam can only be accusative if masculine. If accusative, pāyayet of 60 may carry over (kalkam and anulomanam both accusative, in apposition) instead of a nominal phrase. Translation unchanged either way.",
+     "fix": "kalkam m. acc. sg.; anulomanam n. acc. sg. (apposition)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes 63",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 63.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 63",
+      "new": "Appears to complete 63",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिद्ध किए हुए",
+     "problem": "Glossary: siddha = पकाया हुआ (English \"cooked\").",
+     "fix": "गोमूत्र में पकाए हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोमूत्र में सिद्ध किए हुए",
+      "new": "गोमूत्र में पकाए हुए",
+      "n": "65"
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "devāhva (probably devadāru)",
+     "problem": "The word devāhva exists only through a conjectural correction of printed devānva; the translation uses it silently. Conjectured readings must be marked in the translation.",
+     "fix": "devāhva (on a conjectural reading; probably devadāru)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "devāhva (probably devadāru)",
+      "new": "devāhva (on a conjectural reading; probably devadāru)",
+      "n": "66"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "देवाह्व यानी सम्भवतः देवदारु",
+     "problem": "Same: the conjectural reading is not marked (no brackets in Hindi).",
+     "fix": "देवाह्व, जो अनुमानित पाठ है, यानी सम्भवतः देवदारु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "देवाह्व यानी सम्भवतः देवदारु",
+      "new": "देवाह्व, जो अनुमानित पाठ है, यानी सम्भवतः देवदारु",
+      "n": "66"
+     }
+    },
+    {
+     "field": "english",
+     "where": "rohiṣa (probably a fragrant grass)",
+     "problem": "Policy wants the modern name beside the term; the gloss already has it (Cymbopogon martinii, probable).",
+     "fix": "rohiṣa (probably palmarosa grass, Cymbopogon martinii)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "rohiṣa (probably a fragrant grass)",
+      "new": "rohiṣa (probably palmarosa grass, Cymbopogon martinii)",
+      "n": "66"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śaṭhī / pūtīkarañja",
+     "problem": "Identifications left \"disputed\" is right and matches chunk 1 (22, 24). Not wrong. Optional enrichment for the owner: give the competing names in the Hindi (शठी: कपूर कचरी / कचूर; पूतिकरंज: कंजा), tagged disputed. Not patched because chunk 1 left them unnamed.",
+     "fix": "optional",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिद्ध की गई बस्ति",
+     "problem": "Glossary: siddha = पकाया हुआ.",
+     "fix": "पकाई गई बस्ति",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिद्ध की गई बस्ति",
+      "new": "पकाई गई बस्ति",
+      "n": "67"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Unit holds two half-verses (32 syllables) on one printed line; the note says so correctly. No regrouping needed, optional split for display only.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "too hot, sharp, sour or thick",
+     "problem": "\"or\" is supplied; the Sanskrit is one compound (ati-uṣṇa-tīkṣṇa-amla-ghanaḥ) with no vā between the members. Scope of ati- over all four is also unstated.",
+     "fix": "too hot, sharp, sour, thick",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "too hot, sharp, sour or thick",
+      "new": "too hot, sharp, sour, thick",
+      "n": "69"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अम्ल या घन",
+     "problem": "Same added \"या\".",
+     "fix": "अम्ल, घन",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अम्ल या घन",
+      "new": "अम्ल, घन",
+      "n": "69"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "belly-colic (kukṣiśūla)",
+     "problem": "Glossary: śūla in compounds = \"pain\" (same fix as ch06 u3); \"colic\" is interpretation and belongs in notes (already there).",
+     "fix": "belly-pain (kukṣiśūla)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "belly-colic (kukṣiśūla)",
+      "new": "belly-pain (kukṣiśūla)",
+      "n": "71"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kukṣi-śūla-karaḥ",
+     "problem": "Same: gloss says \"colic pain (śūla)\".",
+     "fix": "belly (kukṣi); pain (śūla); causing",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kukṣi-śūla-karaḥ",
+      "field": "gloss",
+      "value": "belly (kukṣi); pain (śūla); causing",
+      "n": "71"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Completes 69-70",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 69-70.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 69-70.",
+      "new": "Appears to complete 69-70.",
+      "n": "71"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pṛśniparṇī",
+     "problem": "\"f. nom. sg. (accusative sense)\" is not a grammatical label; the form is a nominative as printed and the flagged correction is accusative.",
+     "fix": "f. nom. sg. as printed (acc. pṛśniparṇīm on the possible correction)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pṛśniparṇī",
+      "field": "gram",
+      "value": "f. nom. sg. as printed (acc. pṛśniparṇīm on the possible correction)",
+      "n": "73"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्थिरा यानी सम्भवतः शालपर्णी",
+     "problem": "Policy: ordinary Hindi name beside the Sanskrit one; शालपर्णी (Desmodium gangeticum) is called सरिवन in Hindi.",
+     "fix": "स्थिरा यानी सम्भवतः शालपर्णी, जिसे सरिवन कहते हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्थिरा यानी सम्भवतः शालपर्णी",
+      "new": "स्थिरा यानी सम्भवतः शालपर्णी, जिसे सरिवन कहते हैं",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पक्वलोष्ट यानी पके हुए ढेले",
+     "problem": "English says \"sense uncertain\"; Hindi gives no hint of the uncertainty.",
+     "fix": "पक्वलोष्ट यानी पके हुए ढेले के, जिसका अर्थ अनिश्चित है,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पक्वलोष्ट यानी पके हुए ढेले के,",
+      "new": "पक्वलोष्ट यानी पके हुए ढेले के, जिसका अर्थ अनिश्चित है,",
+      "n": "75"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pakvaloṣṭa",
+     "problem": "Observation for the owner (not patched): \"prasāde pakvaloṣṭasya\" may well be the clear water settled/quenched with a baked (heated) clod, a known device with taptaloṣṭa elsewhere in the tradition; this is only a possibility, so the literal rendering and low confidence are right. madhuka (liquorice, probable) vs madhūka (mahua) of 74 remains a genuine open choice; keep hedged.",
+     "fix": "append only if owner agrees",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "introduced to one badly placed ... or to one lying badly",
+     "problem": "Dative duḥsthitāya / duḥśayitāya = \"for\", not \"to\" (Hindi के लिए is right).",
+     "fix": "introduced for one badly placed (duḥsthita), or for one lying badly",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "introduced to one badly placed",
+       "new": "introduced for one badly placed",
+       "n": "78"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "or to one lying badly",
+       "new": "or for one lying badly",
+       "n": "78"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "avipravṛtta",
+     "problem": "Agree with low confidence; no change. Note only that a- + vi-pra-√vṛt is odd and a different parsing (e.g. a-vipravṛtta \"not gone astray\", or a different word) cannot be excluded; the Hindi \"कुपित करे ... वह विमार्ग में गई हुई\" is acceptable as a literal rendering.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes 77-80",
+     "problem": "Glossary: \"appears to complete\".",
+     "fix": "Appears to complete 77-80",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 77-80",
+      "new": "Appears to complete 77-80",
+      "n": "80"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "लेपित है",
+     "problem": "Supplied copula है (glossary: no added verbs in Hindi where the Sanskrit has none).",
+     "fix": "उसे, तेल और नमक से अभ्यक्त यानी लेपित, संस्तर आदि से स्वेदित,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे, जो तेल और नमक से अभ्यक्त यानी लेपित है, संस्तर आदि से स्वेदित,",
+      "new": "उसे, तेल और नमक से अभ्यक्त यानी लेपित, संस्तर आदि से स्वेदित,",
+      "n": "81"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kola ... bṛhatī-dvayaiḥ",
+     "problem": "Both the kola-yava and the bṛhatī readings are conjectural corrections of the print (koḻyava, dvahatī) but the translation states them as plain text. Conjectured readings must be marked in the translation.",
+     "fix": "add \"; kola and bṛhatī are on a conjectural reading of the misprinted words\"",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(the two prickly nightshades).",
+      "new": "(the two prickly nightshades); kola and bṛhatī are on a conjectural reading of the misprinted words.",
+      "n": "82"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कोल ... बृहती-द्वय",
+     "problem": "Same: conjectural readings not marked.",
+     "fix": "add \"कोल और बृहती छपाई की भूल के कारण अनुमानित पाठ के अनुसार हैं\"",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बनभंटा और भटकटैया से।",
+      "new": "बनभंटा और भटकटैया से; कोल और बृहती छपाई की भूल के कारण अनुमानित पाठ के अनुसार हैं।",
+      "n": "82"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्षाभू यानी पुनर्नवा",
+     "problem": "Glossary: Hindi punarnavā = गदहपूर्णा (पुनर्नवा alone just repeats the Sanskrit).",
+     "fix": "वर्षाभू यानी पुनर्नवा, जिसे गदहपूर्णा कहते हैं,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर्षाभू यानी पुनर्नवा",
+      "new": "वर्षाभू यानी पुनर्नवा, जिसे गदहपूर्णा कहते हैं,",
+      "n": "82"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 2 (units 42-82) is carefully done: no wrong plant identification found (all hedged or tagged; pūtīkarañja, śaṭhī correctly left disputed; kuṣṭha=costus, kramuka=areca, trivṛt, pathyā, bṛhatī-pair, punarnavā all acceptable). Real problems: an added 'or'/या in 69; conjectural readings used silently in the translation in 66 (devāhva) and 82 (kola, bṛhatī); glossary-form fixes (siddha=पकाया, śūla=pain, no added गति/हों/है, 'appears to complete'). Open for the owner: 47 (vṛttitasya conjecture and Hindi आचरण), 48 (flag contradicts metre; kurvan vs kurvanto), 53 (probably ā + klamanāśāt, not a noun āklama; vyajet is a plain pot. of vi-√aj), 75 (pakvaloṣṭa; madhuka vs madhūka), 79 (avipravṛtta), 62 (case of kalkam). The 10 text_flags are all plausible except 48 (weak). 49: a- governing all three is a fair reading, stated as unsure. No regrouping needed (67 holds two half-verses on one line).",
+ "glossary_suggestions": [
+  "Conjectural readings: when `words` use a corrected form that changes a drug name (66 devāhva, 82 kola/bṛhatī), the translation says 'on a conjectural reading' (Hindi: अनुमानित पाठ), no brackets in Hindi.",
+  "Hindi sthirā/śālaparṇī = सरिवन; Hindi varṣābhū = पुनर्नवा, जिसे गदहपूर्णा कहते हैं; bṛhatī = बनभंटा, kaṇṭakārī = भटकटैया; rohiṣa = रूसा घास (Cymbopogon martinii, probable); trivṛt = निशोथ; pathyā = हरड़; kuṣṭha (drug) = कूठ (Saussurea costus, standard); kramuka = सुपारी (probable).",
+  "Lists with ati- or a- before several members: do not add 'or'/'and' (69); ati-/a- scope noted in notes.",
+  "vyajet = pot. of vi-√aj (to fan); ā + ablative = 'up to' (53, if the owner accepts the split).",
+  "bilva: consider 'bael (Aegle marmelos)' instead of 'wood-apple', which is also used for Limonia acidissima; keep one rendering book-wide.",
+  "OPEN: rendering of 'ānulomika/anulomayet' (Hindi स्वाभाविक दिशा के अनुसार used in ch06 chunk 1; English 'natural direction')."
+ ]
+}
