@@ -131,8 +131,8 @@ fill, multi, accepts` and defines:
 Optional `IMAGES = {(n, kind): (file, alt)}` links an existing picture that
 no spec draws. `section` comes from the config, never from the unit.
 Helpers: `mcq(role, rung, q, (right, why), [(wrong, why)...], explain, rule,
-teaches=None, hint=None)`, `match(rung, q, pairs, explain, rule)`,
-`order(rung, q, items, explain, rule)`, `fill(rung, q, accept, explain,
+teaches=None, hint=None)`, `match(rung, q, pairs, explain, rule, teaches=None)`,
+`order(rung, q, items, explain, rule, teaches=None)`, `fill(rung, q, accept, explain,
 teaches, rule)`, `multi(role, rung, q, [(text, why)...], answers, explain,
 rule)`. The right option of `mcq` rotates with a counter, so keep module
 names stable (they load sorted by name). `accepts("इन्द्रम्")` returns the
