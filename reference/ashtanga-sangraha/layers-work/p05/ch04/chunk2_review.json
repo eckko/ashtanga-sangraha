@@ -1,0 +1,621 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "साठी",
+     "problem": "साठी is also the name of a 60-day rice in Hindi; the ordinary unambiguous Hindi name of Boerhavia diffusa is गदहपूर्णा (also विषखपरा).",
+     "fix": "पुनर्नवा यानी गदहपूर्णा",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुनर्नवा यानी साठी",
+      "new": "पुनर्नवा यानी गदहपूर्णा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that (preparation) with the milk remaining",
+     "problem": "'(preparation)' is supplied; the Sanskrit tatkṣīrāvaśiṣṭam only says that milk remains.",
+     "fix": "Milk prepared with two āḍhakas of water, that milk remaining, strained through a clean cloth.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "that (preparation) with the milk remaining",
+      "new": "that milk remaining"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उस दूध के शेष रहने वाला",
+     "problem": "Awkward and unclear; should render tat-kṣīra-avaśiṣṭa literally.",
+     "fix": "दूध, जो दो आढक जल के साथ सिद्ध किया गया है, वह दूध शेष रहा हुआ, स्वच्छ वस्त्र से छाना हुआ।",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "set",
+      "field": "hindi",
+      "value": "दूध, जो दो आढक जल के साथ सिद्ध किया गया है, वह दूध शेष रहा हुआ, स्वच्छ वस्त्र से छाना हुआ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kapippalīnāṃ",
+     "problem": "The metre argument is invalid: the printed text already has 22 syllables, so metre cannot choose between the divisions. The remark that 'kapi-pippalī is not a word' is also wrong (kapipippalī is a known name of gajapippalī). The transposed śatāvhā is a silent emendation noted only in notes.",
+     "fix": "Rewrite flag 1 and add flag 2 (śatāvhā).",
+     "severity": "error",
+     "patch": {
+      "n": "43",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "kapippalīnāṃ",
+        "suggest": "-ka pippalīnāṃ (ka joined to the preceding siddhārtha)",
+        "why": "possible: the printed division 'siddhārtha kapippalīnāṃ' is read as siddhārthaka + pippalīnām (siddhārthaka is a known drug name). The metre does not decide it: the printed words and the proposed division both give 22 syllables. 'kapi-pippalī' (a name of gajapippalī) would be a conceivable alternative reading."
+       },
+       {
+        "src": "vacāśatāvhā'maradārukuṣṭhayaṣṭyāhvasiddhārtha",
+        "suggest": "vacāśatāhvāmaradārukuṣṭhayaṣṭyāhvasiddhārtha",
+        "why": "śatāvhā is read as śatāhvā (letters transposed); the printed avagraha after hvā is stray (ā + a gives ā)"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "fits the 22-syllable metre exactly",
+     "problem": "Same metre error repeated in notes.",
+     "fix": "Say that the metre does not decide.",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "notes",
+      "old": "this fits the 22-syllable metre exactly (flagged as possible)",
+      "new": "the metre (22 syllables) is the same for the printed division, so it does not decide (flagged as possible); kapi-pippalī (gajapippalī) would be another conceivable reading"
+     }
+    },
+    {
+     "field": "english",
+     "where": "siddhārthaka (probably white mustard)",
+     "problem": "The translation presents the conjectured siddhārthaka as the text; the print has siddhārtha.",
+     "fix": "siddhārtha(ka) (probably white mustard)",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "siddhārthaka (probably white mustard)",
+      "new": "siddhārtha(ka) (probably white mustard)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सिद्धार्थक यानी प्रायः सफेद सरसों",
+     "problem": "Same: conjectured -ka shown as printed.",
+     "fix": "सिद्धार्थ(क) यानी प्रायः सफेद सरसों",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिद्धार्थक यानी प्रायः सफेद सरसों",
+      "new": "सिद्धार्थ(क) यानी प्रायः सफेद सरसों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "madana (emetic nut) fruits",
+     "problem": "'fruits' is added; the Sanskrit has only madanaiḥ (Hindi मैनफल names the fruit, but the English adds a noun).",
+     "fix": "with madana (emetic nut)",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "english",
+      "old": "madana (emetic nut) fruits",
+      "new": "madana (emetic nut)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "takrāmra",
+     "problem": "The second flag proposes 'takrāmra', which is not a known drug name (takra is buttermilk) and has no support except the syllable count; offering it as a suggestion could mislead.",
+     "fix": "Keep the flag as 'no convincing restoration'; do not present takrāmra.",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "dhātakī flowers",
+     "problem": "Identifications are omitted for dhātakī and jīvantī although they are not the damaged word (policy wants them beside the term, hedged if probable).",
+     "fix": "On a conjectural reading: dhātakī (woodfordia) flowers, takrīṃr (unclear in the print), the root of jīvantī (probably Leptadenia), and vatsaka (kuṭaja).",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "set",
+      "field": "english",
+      "value": "On a conjectural reading: dhātakī (woodfordia) flowers, takrīṃr (unclear in the print), the root of jīvantī (probably Leptadenia), and vatsaka (kuṭaja)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धातकी के फूल",
+     "problem": "Same, Hindi names missing.",
+     "fix": "अनुमानित पाठ के अनुसार: धातकी यानी धाय के फूल, तक्रींर् जो छपाई में अस्पष्ट है, जीवन्ती यानी प्रायः डोडी की जड़ और वत्सक यानी कुटज।",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "set",
+      "field": "hindi",
+      "value": "अनुमानित पाठ के अनुसार: धातकी यानी धाय के फूल, तक्रींर् जो छपाई में अस्पष्ट है, जीवन्ती यानी प्रायः डोडी की जड़ और वत्सक यानी कुटज।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and śamī ... and yava",
+     "problem": "'and' is inserted before śamī and before yava; there is no ca. The last compound is a dvandva (śamī, piṇḍītakā, yava).",
+     "fix": "Pragraha, khadirī, kuṣṭha (costus), śamī (probably the khejri tree), piṇḍītakā and yava (barley).",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "english",
+      "value": "Pragraha, khadirī, kuṣṭha (costus), śamī (probably the khejri tree), piṇḍītakā and yava (barley)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तथा शमी",
+     "problem": "'तथा' is not in the Sanskrit.",
+     "fix": "drop तथा",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कूट, तथा शमी",
+      "new": "कूट, शमी"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "khadirī",
+     "problem": "Missed alternative: khadirī is also a nighaṇṭu synonym of lajjālu (Mimosa pudica), besides the khadira acacia.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "append_note",
+      "text": "Reviewer: khadirī is also given as a synonym of lajjālu (touch-me-not, Mimosa pudica) in the lexicons, so the identity stays disputed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the yellow jasmine",
+     "problem": "Overconfident and inconsistent with the gloss (Jasminum auriculatum has white flowers; 'yellow jasmine' is another plant, e.g. Jasminum humile or Gelsemium).",
+     "fix": "yūthikā (probably Jasminum auriculatum, a jasmine)",
+     "severity": "error",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "english",
+      "old": "yūthikā (probably the yellow jasmine)",
+      "new": "yūthikā (probably Jasminum auriculatum, a jasmine)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Vaṭa and the rest, kiṃśuka",
+     "problem": "Plant names kept bare although both are standard (vaṭa = banyan, kiṃśuka = palāśa).",
+     "fix": "Vaṭa (banyan) and the rest, kiṃśuka (flame-of-the-forest), rodhra (lodhra): thus they are considered saṃgrāhika (binding).",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "english",
+      "value": "Vaṭa (banyan) and the rest, kiṃśuka (flame-of-the-forest), rodhra (lodhra): thus they are considered saṃgrāhika (binding)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वट आदि, किंशुक",
+     "problem": "Same in Hindi.",
+     "fix": "वट यानी बरगद आदि, किंशुक यानी ढाक, रोध्र यानी लोध, इस प्रकार संग्राहिक यानी बाँधने वाले माने गए हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "hindi",
+      "value": "वट यानी बरगद आदि, किंशुक यानी ढाक, रोध्र यानी लोध, इस प्रकार संग्राहिक यानी बाँधने वाले माने गए हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "uṣaka",
+     "problem": "uṣaka is tagged 'saline earth, probable' in the gloss but the translation does not carry the identification.",
+     "fix": "The additive (pratīvāpa) of uṣaka (probably a saline earth) and the rest; the scraping (lekhana) triphalā juice.",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "set",
+      "field": "english",
+      "value": "The additive (pratīvāpa) of uṣaka (probably a saline earth) and the rest; the scraping (lekhana) triphalā juice."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उषक",
+     "problem": "Same in Hindi.",
+     "fix": "उषक यानी प्रायः खारी मिट्टी आदि का प्रतीवाप, लेखन यानी खुरचने वाला त्रिफला यानी हरड़, बहेड़ा और आँवला का रस।",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "set",
+      "field": "hindi",
+      "value": "उषक यानी प्रायः खारी मिट्टी आदि का प्रतीवाप, लेखन यानी खुरचने वाला त्रिफला यानी हरड़, बहेड़ा और आँवला का रस।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kalkaina",
+     "problem": "False metre claim: 'kalkena' does NOT give the metre. The half-line madhuka kalkena sarasājyena bṛṃhaṇaḥ has 14 syllables (16 expected), so two syllables, probably a word, are lost or the line is otherwise corrupt.",
+     "fix": "Correct the 'why' and lower confidence.",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: 'kalkaina' is not a valid form; 'kalkena' (with paste) fits the sense, but the half-line then has only 14 syllables (16 expected), so a word may be lost; the reading is uncertain"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "A half-line two syllables short plus a bad form should not be 'medium'.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "elavālu",
+     "problem": "Tagged 'unidentified' although elavālu/elavāluka is a known drug name (e.g. in the elādi groups) with disputed identity; 'identity unidentified' is also clumsy.",
+     "fix": "elavālu (conjectural correction of the printed 'eśuvālu'; elavālu/elavāluka is a known drug name, identity disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "word",
+      "match_w": "kataka-kāṇḍekṣu-darbha-pāṭhā-elavālubhiḥ",
+      "field": "gloss",
+      "value": "kataka (clearing nut, Strychnos potatorum; probable); kāṇḍekṣu (lit. 'stalk-cane'; identity disputed); darbha (kusha grass, Desmostachya bipinnata; standard); pāṭhā (velvet-leaf, Cissampelos pareira; probable); elavālu (conjectural correction of the printed 'eśuvālu'; elavālu/elavāluka is a known drug name, identity disputed)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kataka",
+     "problem": "Gloss tags kataka 'probable' but the English gives it unhedged ('clearing nut'). Strychnos potatorum is the established identification, so the tag should be 'standard' (needs owner choice of tag).",
+     "fix": "retag standard or hedge in English",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उत्पल आदि",
+     "problem": "utpala identification missing in Hindi (English has it).",
+     "fix": "उत्पल यानी प्रायः नील कमल आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्पल आदि",
+      "new": "उत्पल यानी प्रायः नील कमल आदि"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "muṣṭim",
+     "problem": "muṣṭi is chiefly masculine (also feminine); the real mismatch is case (accusative muṣṭim vs nominatives siddhaḥ, anvitaḥ).",
+     "fix": "m. (also f.) acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "muṣṭim",
+      "field": "gram",
+      "value": "m. (also f.) acc. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "gender of siddhaḥ",
+     "problem": "The note blames gender; it is rather case.",
+     "fix": "fix note",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "notes",
+      "old": "The gender of 'siddhaḥ' and 'anvitaḥ' (masculine) does not agree with 'muṣṭim' (feminine accusative); the grammar is loose",
+      "new": "'muṣṭim' is accusative, while 'siddhaḥ' and 'anvitaḥ' are masculine nominatives (muṣṭi is mostly masculine), so they do not agree in case; the governing verb or subject is not in the unit; the grammar is loose"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पकाई हुई",
+     "problem": "Feminine ending suggests the muṣṭi is the subject; the Sanskrit siddhaḥ is masculine.",
+     "fix": "दूध में पकाया हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पकाई हुई",
+      "new": "पकाया हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "parisrave",
+     "problem": "Missed identification: parikarta(ikā), parisrāva, pravāhaṇa/pravāhikā and atiyoga (units 65 to 71) are standard names of basti complications; useful context, not stated by the text.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "append_note",
+      "text": "Reviewer context: parisrava (parisrāva, leakage or discharge) is a standard name of a basti complication, as are parikartikā, pravāhikā and atiyoga in neighbouring units; the text itself does not say so."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "probably a royal sedge",
+     "problem": "'royal sedge' is an invented English name; rājakaserukā is a kind of kaserukā (Scirpus), if the compound is read as one name.",
+     "fix": "rājakaserukā (probably a kind of kaserukā, the sedge Scirpus)",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "english",
+      "old": "rājakaserukā (probably a royal sedge, Scirpus)",
+      "new": "rājakaserukā (probably a kind of kaserukā, the sedge Scirpus)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राजकसेरुका",
+     "problem": "No identification in Hindi.",
+     "fix": "राजकसेरुका यानी प्रायः कसेरु की एक जाति",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और राजकसेरुका",
+      "new": "और राजकसेरुका यानी प्रायः कसेरु की एक जाति"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kākanāsā-rāja-kaserukāḥ",
+     "problem": "Gram says dvandva of three members (rāja separate) but the translation takes rājakaserukā as one name; inconsistent.",
+     "fix": "note both readings",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "append_note",
+      "text": "Reviewer: 'rāja' and 'kaserukāḥ' may be two items (dvandva: kākanāsā, rāja, kaserukā) or one name rājakaserukā; the translation takes the second reading."
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 2 (units 37-72) is faithful and conservative; no unit adds content the Sanskrit lacks except small items (units 42 '(preparation)', 44 'fruits', 54 inserted 'and'/तथा). Real errors: unit 43 metre argument for the siddhārtha|ka division is invalid (printed text is also 22 syllables) and kapipippalī exists; unit 55 'yellow jasmine' for yūthikā is overconfident; unit 59 'kalkena fits the metre' is false (14 syllables, two short). Identifications checked: aṅkola (Alangium salviifolium, standard; hedge is safe), śailū (Cordia dichotoma, ok probable), dhanvana (Grewia tiliifolia, ok), taṇḍulīyaka (Amaranthus spinosus, ok), kataka (Strychnos potatorum, could be standard), jīvantī (Leptadenia reticulata, ok), śamī (Prosopis cineraria, ok), Hindi ढेरा/धामिन/अरण्डी ok, साठी replaced (rice homonym). Needs human decision: 48 (dvyeśvāku), 53 (takrīṃr), 55 (priyaṅgurakta-mūle, bhairaṇī), 59 (short half-line), 68 (last word), 70 (rāja-kaserukā). Metre of unit 39 has 23 counted syllables (not checked as a verse). No regrouping needed; the sentence runs 39-46, 47 starts a new topic, 48-52, 53-56, 57-59, 60-61, 62-63, 64-65, 66, 67, 68-69, 70-71 and 72 (continues in next chunk).",
+ "glossary_suggestions": [
+  "yūthikā = Jasminum auriculatum (white jasmine, Hindi जूही), not 'yellow jasmine'",
+  "Hindi punarnavā = गदहपूर्णा / विषखपरा (साठी clashes with the rice name)",
+  "Conjectured emendations that complete a word (e.g. siddhārtha(ka)) are shown with brackets in translations and flagged in text_flags, never silently",
+  "Metre may not be used as evidence for a division when the printed and proposed forms have the same syllable count",
+  "basti complications: parikartikā (cutting pain), parisrāva (leakage), pravāhikā, atiyoga, keep consistent across chunks"
+ ]
+}

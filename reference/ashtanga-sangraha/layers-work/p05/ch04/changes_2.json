@@ -1,0 +1,224 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "पुनर्नवा यानी साठी, एरण्ड यानी अरण्डी, बृहती यानी प्रायः बड़ी कटेरी, अश्मभेद यानी सम्भवतः पाषाणभेद, वृश्चीव, भूतीक, बला यानी बरियार और पलाश यानी ढाक को।",
+  "new": "पुनर्नवा यानी गदहपूर्णा, एरण्ड यानी अरण्डी, बृहती यानी प्रायः बड़ी कटेरी, अश्मभेद यानी सम्भवतः पाषाणभेद, वृश्चीव, भूतीक, बला यानी बरियार और पलाश यानी ढाक को।",
+  "why": "reviewer (minor): साठी is also the name of a 60-day rice in Hindi; the ordinary unambiguous Hindi name of Boerhavia diffusa is गदहपूर्णा (also विषखपरा)."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Milk prepared with two āḍhakas of water, that (preparation) with the milk remaining, strained through a clean cloth.",
+  "new": "Milk prepared with two āḍhakas of water, that milk remaining, strained through a clean cloth.",
+  "why": "reviewer (minor): '(preparation)' is supplied; the Sanskrit tatkṣīrāvaśiṣṭam only says that milk remains."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "दूध, जो दो आढक जल के साथ तैयार किया गया है, उस दूध के शेष रहने वाला, स्वच्छ वस्त्र से छाना हुआ।",
+  "new": "दूध, जो दो आढक जल के साथ सिद्ध किया गया है, वह दूध शेष रहा हुआ, स्वच्छ वस्त्र से छाना हुआ।",
+  "why": "reviewer (minor): Awkward and unclear; should render tat-kṣīra-avaśiṣṭa literally."
+ },
+ {
+  "n": "43",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "kapippalīnāṃ",
+    "suggest": "-ka pippalīnāṃ (ka joined to the preceding siddhārtha)",
+    "why": "possible: the metre (22 syllables) and the sense fit 'siddhārthaka' + 'pippalīnām'; 'kapippalī' is not a word (kapi-pippalī would need a long 'pip')"
+   }
+  ],
+  "new": [
+   {
+    "src": "kapippalīnāṃ",
+    "suggest": "-ka pippalīnāṃ (ka joined to the preceding siddhārtha)",
+    "why": "possible: the printed division 'siddhārtha kapippalīnāṃ' is read as siddhārthaka + pippalīnām (siddhārthaka is a known drug name). The metre does not decide it: the printed words and the proposed division both give 22 syllables. 'kapi-pippalī' (a name of gajapippalī) would be a conceivable alternative reading."
+   },
+   {
+    "src": "vacāśatāvhā'maradārukuṣṭhayaṣṭyāhvasiddhārtha",
+    "suggest": "vacāśatāhvāmaradārukuṣṭhayaṣṭyāhvasiddhārtha",
+    "why": "śatāvhā is read as śatāhvā (letters transposed); the printed avagraha after hvā is stray (ā + a gives ā)"
+   }
+  ],
+  "why": "reviewer (error): The metre argument is invalid: the printed text already has 22 syllables, so metre cannot choose between the divisions. The remark that 'kapi-pippalī is not a word' is also wrong (kapipippalī is a known name of gajapippalī). The transposed śatāvhā is a silent emendation noted only in notes."
+ },
+ {
+  "n": "43",
+  "field": "notes",
+  "old": "GROUPING: continues 42 (same sentence); these genitives are the drugs of the pastes (kalkaiḥ) named in 44. Orthography: the edition writes 'śatāvhā' for śatāhvā (letters transposed); read as śatāhvā throughout, recorded here once and not flagged again. The printed space in 'siddhārtha kapippalīnāṃ' is read as a mis-division: siddhārthaka (white mustard) + pippalīnām; this fits the 22-syllable metre exactly (flagged as possible). Identifications written once here: vacā, amaradāru, kuṣṭha, yaṣṭyāhva, pippalī standard; śatāhvā and siddhārthaka probable (śatāhvā is dill, though fennel is sometimes meant).",
+  "new": "GROUPING: continues 42 (same sentence); these genitives are the drugs of the pastes (kalkaiḥ) named in 44. Orthography: the edition writes 'śatāvhā' for śatāhvā (letters transposed); read as śatāhvā throughout, recorded here once and not flagged again. The printed space in 'siddhārtha kapippalīnāṃ' is read as a mis-division: siddhārthaka (white mustard) + pippalīnām; the metre (22 syllables) is the same for the printed division, so it does not decide (flagged as possible); kapi-pippalī (gajapippalī) would be another conceivable reading. Identifications written once here: vacā, amaradāru, kuṣṭha, yaṣṭyāhva, pippalī standard; śatāhvā and siddhārthaka probable (śatāhvā is dill, though fennel is sometimes meant).",
+  "why": "reviewer (minor): Same metre error repeated in notes."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Of vacā (sweet flag), śatāhvā (probably dill), amaradāru (deodar cedar), kuṣṭha (costus), yaṣṭyāhva (liquorice), siddhārthaka (probably white mustard) and pippalī (long pepper).",
+  "new": "Of vacā (sweet flag), śatāhvā (probably dill), amaradāru (deodar cedar), kuṣṭha (costus), yaṣṭyāhva (liquorice), siddhārtha(ka) (probably white mustard) and pippalī (long pepper).",
+  "why": "reviewer (minor): The translation presents the conjectured siddhārthaka as the text; the print has siddhārtha."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "वचा यानी बच, शताह्वा यानी प्रायः सोया, अमरदारु यानी देवदारु, कुष्ठ यानी कूट, यष्ट्याह्व यानी मुलेठी, सिद्धार्थक यानी प्रायः सफेद सरसों और पिप्पली यानी पीपर के।",
+  "new": "वचा यानी बच, शताह्वा यानी प्रायः सोया, अमरदारु यानी देवदारु, कुष्ठ यानी कूट, यष्ट्याह्व यानी मुलेठी, सिद्धार्थ(क) यानी प्रायः सफेद सरसों और पिप्पली यानी पीपर के।",
+  "why": "reviewer (minor): Same: conjectured -ka shown as printed."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Joined with pastes (kalka), with yavānī (ajwain) and with madana (emetic nut) fruits; neither too hot nor too cold; smeared with jaggery (guḍa) and rock salt (saindhava).",
+  "new": "Joined with pastes (kalka), with yavānī (ajwain) and with madana (emetic nut); neither too hot nor too cold; smeared with jaggery (guḍa) and rock salt (saindhava).",
+  "why": "reviewer (minor): 'fruits' is added; the Sanskrit has only madanaiḥ (Hindi मैनफल names the fruit, but the English adds a noun)."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "On a conjectural reading: dhātakī flowers, takrīṃr (unclear in the print), the root of jīvantī, and vatsaka.",
+  "new": "On a conjectural reading: dhātakī (woodfordia) flowers, takrīṃr (unclear in the print), the root of jīvantī (probably Leptadenia), and vatsaka (kuṭaja).",
+  "why": "reviewer (minor): Identifications are omitted for dhātakī and jīvantī although they are not the damaged word (policy wants them beside the term, hedged if probable)."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "अनुमानित पाठ के अनुसार: धातकी के फूल, तक्रींर् जो छपाई में अस्पष्ट है, जीवन्ती की जड़ और वत्सक।",
+  "new": "अनुमानित पाठ के अनुसार: धातकी यानी धाय के फूल, तक्रींर् जो छपाई में अस्पष्ट है, जीवन्ती यानी प्रायः डोडी की जड़ और वत्सक यानी कुटज।",
+  "why": "reviewer (minor): Same, Hindi names missing."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Pragraha, khadirī, kuṣṭha (costus), and śamī (probably the khejri tree), piṇḍītakā, and yava (barley).",
+  "new": "Pragraha, khadirī, kuṣṭha (costus), śamī (probably the khejri tree), piṇḍītakā and yava (barley).",
+  "why": "reviewer (minor): 'and' is inserted before śamī and before yava; there is no ca. The last compound is a dvandva (śamī, piṇḍītakā, yava)."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "प्रग्रह, खदिरी, कुष्ठ यानी कूट, तथा शमी यानी प्रायः खेजड़ी, पिण्डीतका और यव।",
+  "new": "प्रग्रह, खदिरी, कुष्ठ यानी कूट, शमी यानी प्रायः खेजड़ी, पिण्डीतका और यव।",
+  "why": "reviewer (minor): 'तथा' is not in the Sanskrit."
+ },
+ {
+  "n": "54",
+  "field": "notes",
+  "old": "GROUPING: continues 53 (list). 'pragraha' is taken as a drug name but may not be one (it can also mean 'restraint'); it is left unidentified. khadirī is disputed (probably a form of khadira, Senegalia catechu); śamī probable; piṇḍītakā disputed. 'yavāḥ' is a plural, so barley grains.",
+  "new": "GROUPING: continues 53 (list). 'pragraha' is taken as a drug name but may not be one (it can also mean 'restraint'); it is left unidentified. khadirī is disputed (probably a form of khadira, Senegalia catechu); śamī probable; piṇḍītakā disputed. 'yavāḥ' is a plural, so barley grains. Reviewer: khadirī is also given as a synonym of lajjālu (touch-me-not, Mimosa pudica) in the lexicons, so the identity stays disputed.",
+  "why": "reviewer (minor): Missed alternative: khadirī is also a nighaṇṭu synonym of lajjālu (Mimosa pudica), besides the khadira acacia."
+ },
+ {
+  "n": "55",
+  "field": "english",
+  "old": "Priyaṅgu (disputed) and red root(s) (raktamūla; reading uncertain), and bhairaṇī, jāti (probably jasmine) and yūthikā (probably the yellow jasmine).",
+  "new": "Priyaṅgu (disputed) and red root(s) (raktamūla; reading uncertain), and bhairaṇī, jāti (probably jasmine) and yūthikā (probably Jasminum auriculatum, a jasmine).",
+  "why": "reviewer (error): Overconfident and inconsistent with the gloss (Jasminum auriculatum has white flowers; 'yellow jasmine' is another plant, e.g. Jasminum humile or Gelsemium)."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "Vaṭa and the rest, kiṃśuka, rodhra (lodhra): thus they are considered saṃgrāhika (binding).",
+  "new": "Vaṭa (banyan) and the rest, kiṃśuka (flame-of-the-forest), rodhra (lodhra): thus they are considered saṃgrāhika (binding).",
+  "why": "reviewer (minor): Plant names kept bare although both are standard (vaṭa = banyan, kiṃśuka = palāśa)."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "वट आदि, किंशुक, रोध्र यानी लोध, इस प्रकार संग्राहिक यानी बाँधने वाले माने गए हैं।",
+  "new": "वट यानी बरगद आदि, किंशुक यानी ढाक, रोध्र यानी लोध, इस प्रकार संग्राहिक यानी बाँधने वाले माने गए हैं।",
+  "why": "reviewer (minor): Same in Hindi."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "The additive (pratīvāpa) of uṣaka and the rest; the scraping (lekhana) triphalā juice.",
+  "new": "The additive (pratīvāpa) of uṣaka (probably a saline earth) and the rest; the scraping (lekhana) triphalā juice.",
+  "why": "reviewer (minor): uṣaka is tagged 'saline earth, probable' in the gloss but the translation does not carry the identification."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "उषक आदि का प्रतीवाप, लेखन यानी खुरचने वाला त्रिफला यानी हरड़, बहेड़ा और आँवला का रस।",
+  "new": "उषक यानी प्रायः खारी मिट्टी आदि का प्रतीवाप, लेखन यानी खुरचने वाला त्रिफला यानी हरड़, बहेड़ा और आँवला का रस।",
+  "why": "reviewer (minor): Same in Hindi."
+ },
+ {
+  "n": "59",
+  "field": "text_flags.0.why",
+  "old": "possible: 'kalkaina' is not a valid form; 'madhuka kalkena' (paste of madhuka) fits the sense and the metre",
+  "new": "possible: 'kalkaina' is not a valid form; 'kalkena' (with paste) fits the sense, but the half-line then has only 14 syllables (16 expected), so a word may be lost; the reading is uncertain",
+  "why": "reviewer (error): False metre claim: 'kalkena' does NOT give the metre. The half-line madhuka kalkena sarasājyena bṛṃhaṇaḥ has 14 syllables (16 expected), so two syllables, probably a word, are lost or the line is otherwise corrupt."
+ },
+ {
+  "n": "59",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): A half-line two syllables short plus a bad form should not be 'medium'."
+ },
+ {
+  "n": "62",
+  "field": "word.gloss",
+  "word": "kataka-kāṇḍekṣu-darbha-pāṭhā-elavālubhiḥ",
+  "old": "kataka (clearing nut, Strychnos potatorum; probable); kāṇḍekṣu (lit. 'stalk-cane'; identity disputed); darbha (kusha grass, Desmostachya bipinnata; standard); pāṭhā (velvet-leaf, Cissampelos pareira; probable); elavālu (conjectural correction of the printed 'eśuvālu'; identity unidentified)",
+  "new": "kataka (clearing nut, Strychnos potatorum; probable); kāṇḍekṣu (lit. 'stalk-cane'; identity disputed); darbha (kusha grass, Desmostachya bipinnata; standard); pāṭhā (velvet-leaf, Cissampelos pareira; probable); elavālu (conjectural correction of the printed 'eśuvālu'; elavālu/elavāluka is a known drug name, identity disputed)",
+  "why": "reviewer (minor): Tagged 'unidentified' although elavālu/elavāluka is a known drug name (e.g. in the elādi groups) with disputed identity; 'identity unidentified' is also clumsy."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "दाह यानी जलन को नष्ट करने वाला, घी और दूध सहित; और दूसरा उत्पल आदि के साथ।",
+  "new": "दाह यानी जलन को नष्ट करने वाला, घी और दूध सहित; और दूसरा उत्पल यानी प्रायः नील कमल आदि के साथ।",
+  "why": "reviewer (minor): utpala identification missing in Hindi (English has it)."
+ },
+ {
+  "n": "64",
+  "field": "word.gram",
+  "word": "muṣṭim",
+  "old": "f. acc. sg.",
+  "new": "m. (also f.) acc. sg.",
+  "why": "reviewer (minor): muṣṭi is chiefly masculine (also feminine); the real mismatch is case (accusative muṣṭim vs nominatives siddhaḥ, anvitaḥ)."
+ },
+ {
+  "n": "64",
+  "field": "notes",
+  "old": "GROUPING: 64 and 65 form one sentence ('hitaḥ pravāhaṇe' in 65). The gender of 'siddhaḥ' and 'anvitaḥ' (masculine) does not agree with 'muṣṭim' (feminine accusative); the grammar is loose, so the translation keeps the words as they stand.",
+  "new": "GROUPING: 64 and 65 form one sentence ('hitaḥ pravāhaṇe' in 65). 'muṣṭim' is accusative, while 'siddhaḥ' and 'anvitaḥ' are masculine nominatives (muṣṭi is mostly masculine), so they do not agree in case; the governing verb or subject is not in the unit; the grammar is loose, so the translation keeps the words as they stand.",
+  "why": "reviewer (minor): The note blames gender; it is rather case."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "शाल्मली यानी सेमल के डंठलों की मुट्ठी भर, दूध में पकाई हुई, घी से युक्त।",
+  "new": "शाल्मली यानी सेमल के डंठलों की मुट्ठी भर, दूध में पकाया हुआ, घी से युक्त।",
+  "why": "reviewer (minor): Feminine ending suggests the muṣṭi is the subject; the Sanskrit siddhaḥ is masculine."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "GROUPING: 68 and 69 go together (milk cooked with the drugs named in these two units). The last word 'sadṛśavipunarnavaṃ' cannot be restored with certainty (8 syllables, so the metre is complete); it may contain 'sadṛśa' ('similar') and a punarnavā name, so it is left unsplit and untranslated. 'parisrava' = flowing out (a discharge). The reading of the unit as a whole is low in confidence.",
+  "new": "GROUPING: 68 and 69 go together (milk cooked with the drugs named in these two units). The last word 'sadṛśavipunarnavaṃ' cannot be restored with certainty (8 syllables, so the metre is complete); it may contain 'sadṛśa' ('similar') and a punarnavā name, so it is left unsplit and untranslated. 'parisrava' = flowing out (a discharge). The reading of the unit as a whole is low in confidence. Reviewer context: parisrava (parisrāva, leakage or discharge) is a standard name of a basti complication, as are parikartikā, pravāhikā and atiyoga in neighbouring units; the text itself does not say so.",
+  "why": "reviewer (minor): Missed identification: parikarta(ikā), parisrāva, pravāhaṇa/pravāhikā and atiyoga (units 65 to 71) are standard names of basti complications; useful context, not stated by the text."
+ },
+ {
+  "n": "70",
+  "field": "english",
+  "old": "Aśvāvarohaka, kākanāsā and rājakaserukā (probably a royal sedge, Scirpus).",
+  "new": "Aśvāvarohaka, kākanāsā and rājakaserukā (probably a kind of kaserukā, the sedge Scirpus).",
+  "why": "reviewer (minor): 'royal sedge' is an invented English name; rājakaserukā is a kind of kaserukā (Scirpus), if the compound is read as one name."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "अश्वावरोहक, काकनासा और राजकसेरुका।",
+  "new": "अश्वावरोहक, काकनासा और राजकसेरुका यानी प्रायः कसेरु की एक जाति।",
+  "why": "reviewer (minor): No identification in Hindi."
+ },
+ {
+  "n": "70",
+  "field": "notes",
+  "old": "GROUPING: continues 69; 70 and 71 go together ('siddhāḥ ... syuḥ'). aśvāvarohaka is unidentified; kākanāsā disputed; rājakaserukā probably a form of kaserukā (Scirpus grossus; probable).",
+  "new": "GROUPING: continues 69; 70 and 71 go together ('siddhāḥ ... syuḥ'). aśvāvarohaka is unidentified; kākanāsā disputed; rājakaserukā probably a form of kaserukā (Scirpus grossus; probable). Reviewer: 'rāja' and 'kaserukāḥ' may be two items (dvandva: kākanāsā, rāja, kaserukā) or one name rājakaserukā; the translation takes the second reading.",
+  "why": "reviewer (minor): Gram says dvandva of three members (rāja separate) but the translation takes rājakaserukā as one name; inconsistent."
+ }
+]
