@@ -1,0 +1,565 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "desired result",
+     "problem": "'result' is not in ipsita-anavāpti (non-attainment of what is desired).",
+     "fix": "what is desired is not attained",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the desired result is not obtained",
+      "new": "what is desired is not attained"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इच्छित फल",
+     "problem": "'फल' (result) added.",
+     "fix": "इच्छित की प्राप्ति नहीं होती",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इच्छित फल की प्राप्ति",
+      "new": "इच्छित की प्राप्ति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yaugikaiḥ",
+     "problem": "gender n. is unfounded: the noun is unstated (unit 16 has the same pattern with other genders).",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "yaugikaiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "atikramam",
+     "problem": "Gloss 'transgression' vs translation 'error/भूल': 'error' is an interpretation.",
+     "fix": "earlier transgression / पहले का अतिक्रम",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and its remedy",
+     "problem": "'its' is not in the Sanskrit (vyāpat sādhanaṃ ca); also Hindi 'उसका'.",
+     "fix": "and the remedy (sādhana)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "and its remedy",
+      "new": "and the remedy"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और उसका साधन",
+     "problem": "'उसका' added.",
+     "fix": "और साधन",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और उसका साधन",
+      "new": "और साधन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(kinds)",
+     "problem": "'(kinds)' is an unsupported addition; notes themselves say the line does not say what hṛdya etc. are.",
+     "fix": "remove '(kinds)'",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "vaṭaka (kinds)",
+      "new": "vaṭaka"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊपर की ओर जाने वाली ... नीचे की ओर जाने वाली",
+     "problem": "Hindi states an action/effect ('going'); bhāgika is only 'pertaining to the upper/lower part'. English 'directed to' is already near the limit.",
+     "fix": "ऊर्ध्वभाग से सम्बन्धित अथवा अधोभाग से सम्बन्धित",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऊपर की ओर जाने वाली हो या नीचे की ओर जाने वाली",
+      "new": "ऊर्ध्वभाग से सम्बन्धित हो या अधोभाग से सम्बन्धित"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पर्याप्त",
+     "problem": "an-alpa is 'not little'; 'पर्याप्त' (sufficient) is an interpretation.",
+     "fix": "बहुत अन्न और औषध",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर्याप्त अन्न",
+      "new": "बहुत अन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कषाय",
+     "problem": "Bare कषाय in Hindi (brief: never bare; glossary: decoction).",
+     "fix": "अल्प प्रत्यय वाला काढ़ा",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अल्प प्रत्यय वाला कषाय",
+      "new": "अल्प प्रत्यय वाला काढ़ा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "not oiled and sweated",
+     "problem": "Ambiguous: asnigdha-svinna may be 'not oiled and not sweated' (gloss says so) but English reads 'not (oiled and sweated)'. Hindi has the same ambiguity.",
+     "fix": "by one not oiled and not sweated (if the gloss is right)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with purging",
+     "problem": "virecanam is accusative, not instrumental: 'with purging' (also Hindi 'विरेचन से') is an import. Reading is elliptical; suggest 'as to purging'. Not patched: needs human choice.",
+     "fix": "as for purging, one oiled and sweated one should purge again",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "phala-dāru-pippalī-siddhena",
+     "problem": "Gender m. is wrong: agrees with tailena (n.).",
+     "fix": "n. inst. sg. tat-puruṣa",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "phala-dāru-pippalī-siddhena",
+      "field": "gram",
+      "value": "n. inst. sg. tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tīkṣṇaiḥ (two occurrences)",
+     "problem": "Genders n./m. are unfounded for an unstated noun and inconsistent. Not patchable (w occurs twice).",
+     "fix": "inst. pl. for both",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण द्रव्यों",
+     "problem": "'द्रव्यों' adds a noun that the note says is unstated (also units 19, 36). English uses '(ones)'.",
+     "fix": "तीक्ष्णों से",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उल्लिखित करे",
+     "problem": "Wrong sense: उल्लिखित means 'mentioned/written'. ullikhet = 'scrape up'.",
+     "fix": "उसे शीघ्र खुरचे।",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसे शीघ्र खुरचे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tīkṣṇa-uṣṇaiḥ",
+     "problem": "n. unfounded (noun unstated).",
+     "fix": "dvandva inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "tīkṣṇa-uṣṇaiḥ",
+      "field": "gram",
+      "value": "dvandva inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sa-śeṣa-ādhmāya",
+     "problem": "'ādhmāya' is not a Sanskrit word; flag says ādhmānāya is expected but words keep the printed form (rule 6: corrected form belongs in words).",
+     "fix": "w = sa-śeṣa-ādhmānāya, gram m. dat. sg. bahuvrīhi (possible)",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "sa-śeṣa-ādhmāya",
+      "field": "w",
+      "value": "sa-śeṣa-ādhmānāya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pāyu-basti",
+     "problem": "Printed 'vasti' (units 21, 22) read as basti in words with no flag; vasti/basti is a spelling variant, but should be noted.",
+     "fix": "add note",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "Printed pāyuvasti: read basti (spelling variant); likewise vasti in unit 22."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्षाम",
+     "problem": "Left untranslated while English says 'lean'; reader cannot follow.",
+     "fix": "कृश",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षाम, अल्प बल",
+      "new": "कृश, अल्प बल"
+     }
+    },
+    {
+     "field": "english",
+     "where": "dry, or oiled, sweated, or with raw",
+     "problem": "Sanskrit pairs are rūkṣa/snigdha 'or', svinna/sāma 'or'; English comma-run obscures it.",
+     "fix": "dry or oiled, sweated or with raw (āma) matter",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "dry, or oiled, sweated, or with raw (āma) matter",
+      "new": "dry or oiled, sweated or with raw (āma) matter"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काटने जैसी पीड़ा ... होता है",
+     "problem": "'जैसी' and 'पीड़ा' are added; also adds the verb 'होता है' although the note says no verb is stated.",
+     "fix": "...दाह सहित चारों ओर से काटना, वायु का अवरोध और विष्टम्भ।",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "वहाँ नाभि, मूत्राशय, गुदा और मेढ्र में दाह सहित चारों ओर से काटना, वायु का अवरोध और विष्टम्भ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ghṛta-maṇḍena",
+     "problem": "Gloss 'the clear upper part of ghee' is an identification; brief says keep maṇḍa literal.",
+     "fix": "ghee-maṇḍa",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "ghṛta-maṇḍena",
+      "field": "gloss",
+      "value": "ghee-maṇḍa (kept literal)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "and with oil",
+     "problem": "'and' added between two instrumentals that have no ca; notes admit this. Prefer asyndeton or flag it.",
+     "fix": "with ghee-maṇḍa, with oil of yaṣṭīmadhuka",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्षाम के लिए",
+     "problem": "Left untranslated (English 'lean').",
+     "fix": "कृश के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षाम के लिए",
+      "new": "कृश के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "laghu-kṣāra-amlam",
+     "problem": "'alkaline' is a modern chemical term; kṣāra literally 'ash-derived substance'. Suggest keeping kṣāra.",
+     "fix": "light, kṣāra and sour",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "curd with sour added",
+     "problem": "'added' not in sa-amlam.",
+     "fix": "curd together with sour",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "curd with sour added",
+      "new": "curd together with sour"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अंगों की शिथिलता",
+     "problem": "śithila means slack; aṅgasāda is 'sinking of the limbs'. Hindi sense differs slightly (also units 17).",
+     "fix": "अंगों का बैठना (suggest; human choice)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tīkṣṇaiḥ",
+     "problem": "m. unfounded for unstated noun.",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "tīkṣṇaiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "37 units reviewed; 4 errors, 25 minor. Errors: Hindi bare कषाय (u12), Hindi उल्लिखित for ullikhet (u18), wrong gender on siddhena (u16), ghṛtamaṇḍa defined in gloss (u27). All 17 text_flags judged plausible; src keeps printed forms; only unit 20 word row uses the printed non-word (ādhmāya) instead of the corrected form. Unit 30 brackets handled sensibly; units 7/26/29/32 add no verb in English (Hindi unit 24 adds one). Regrouping: suggest merging 25+26 and 31+32 (sentence continues); 28+29 are parallel and share iṣṭaḥ. Confidence ratings honest.",
+ "glossary_suggestions": [
+  "kaṣāya (decoction) in Hindi: use काढ़ा, never bare कषाय; keep niryūha/kvātha apart in notes (OPEN).",
+  "utkleśa / utkliṣṭa / utkliśya / samudīrṇa: fix one rendering (draft mixes 'stirring up', 'agitated', 'aroused'); suggest 'agitation/agitated' for ut-√kliś and 'aroused' for samudīrṇa.",
+  "Unstated nouns after adjectives (tīkṣṇaiḥ etc.): English '(ones)', Hindi plain adjective plural, no gender in gram.",
+  "kṣāma = lean (Hindi कृश); ghṛtamaṇḍa = ghee-maṇḍa, no definition; kṣāra keep as kṣāra.",
+  "Spelling variants vasti/basti and -rtt-/-rt- normalised in words: record once in the glossary rather than per unit.",
+  "avacārayet = 'should administer' / प्रयोग करे; bhāgika = 'pertaining to the upper/lower part'."
+ ]
+}

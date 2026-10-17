@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01.11.55",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "प्रशस्यते",
+  "why": "ने for ते; the passive verb needs प्रशस्यते"
+ },
+ {
+  "id": "02.01.144",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "ततः प्रजास्थापनाख्या महौषधीः शिरसा दक्षिणेन च पाणिना धारयेत् ॥",
+  "why": "धारयेत lacks the final halant; रख्या is a stray र for आख्या"
+ },
+ {
+  "id": "02.02.114",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "रक्तानि",
+  "why": "doubled त in रक्त्तानि breaks the conjunct"
+ },
+ {
+  "id": "02.03.90",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तदेव वा भक्षयेत् ॥",
+  "why": "तदेववा is a run-together तदेव वा"
+ },
+ {
+  "id": "04.23.49",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तप्तायां",
+  "why": "तसायां has a dropped प; a heated hearth is meant, as the fomenting context shows"
+ },
+ {
+  "id": "06.26.30",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "valid optative with sandhi"
+ },
+ {
+  "id": "02.01.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "dual subject तौ takes जनयतः"
+ },
+ {
+  "id": "06.21.50",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "उपेक्षिताः",
+  "why": "उपेक्षिताताः has a doubled ता"
+ },
+ {
+  "id": "06.30.40",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.28.160",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "विशेषस्तु is regular"
+ },
+ {
+  "id": "04.05.15",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पिप्पलीर्वा is regular sandhi"
+ },
+ {
+  "id": "01.07.232",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "feminine रसायनी agrees with वृष्या सोष्णा"
+ },
+ {
+  "id": "06.02.50",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "रसायनीः",
+  "why": "रसायनो: should be accusative plural रसायनीः (vessels); also धानु should be धातु"
+ },
+ {
+  "id": "05.06.26",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "regular sandhi"
+ },
+ {
+  "id": "04.18.35",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "कृमिघ्नेन्द्रयवान् ... आददीत",
+  "why": "कृमिघ्नेद्र lacks न्; आदद्दीत has a doubled द; चकुडवांश्यान् also garbled"
+ },
+ {
+  "id": "02.11.76",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "06.14.91",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "06.26.184",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "locative plural, fine"
+ },
+ {
+  "id": "01.01.14",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "इति ह स्माहुरात्रेयादयो महर्षयः ॥",
+  "why": "रात्रे यादयो wrongly split; should be आत्रेयादयो"
+ },
+ {
+  "id": "01.01.107",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "garbled word list, cannot tell the intended wording"
+ },
+ {
+  "id": "01.04.135",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "",
+  "why": "line is garbled (मासराशिखरूपारुथमृतोर्यरु); no clear correction"
+ },
+ {
+  "id": "01.06.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "standard chapter opening"
+ },
+ {
+  "id": "01.07.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "standard chapter opening"
+ },
+ {
+  "id": "01.07.394",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.08.51",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.08.82",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.08.89",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अनेन जिह्वानिर्लेखनकवलगंडूषा व्याख्याताः ॥",
+  "why": "न्याख्याताः should be व्याख्याताः"
+ },
+ {
+  "id": "01.08.119",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.09.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "standard chapter opening"
+ },
+ {
+  "id": "01.09.27",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.09.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "एकध्यं is a valid form"
+ },
+ {
+  "id": "01.09.41",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.09.43",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.09.48",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.09.55",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तद्विरोधः पुनरतिप्रसंगभयान्नोक्तः ॥",
+  "why": "भ्यान्नो should be भयान्नो"
+ },
+ {
+  "id": "01.09.75",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "sandhi acceptable"
+ },
+ {
+  "id": "01.10.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "edition sandhi style"
+ },
+ {
+  "id": "01.10.36",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.55",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "रागखांडवसंढकान्",
+  "why": "रागरखांडव looks like a stray र but the food term is uncertain"
+ },
+ {
+  "id": "01.10.58",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.68",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अंते रुक्षं द्रवमितररससंयुक्तं च ॥",
+  "why": "इतररसंयुक्तं has a dropped स; should be इतररससंयुक्तं"
+ },
+ {
+  "id": "01.10.72",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.79",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.80",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.92",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.96",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.100",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.10.140",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "standard colophon"
+ },
+ {
+  "id": "01.11.47",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "रास्नाकटफल",
+  "why": "रास्त्रा should be रास्ना; the rest of the line is also garbled"
+ },
+ {
+  "id": "01.11.76",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "बहुदोषाणां पुनर्दोषावसेचनमेव कार्यं ॥",
+  "why": "दोषअवसेचन should be sandhi दोषावसेचन"
+ },
+ {
+  "id": "01.11.127",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "standard colophon"
+ },
+ {
+  "id": "01.12.2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.12.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.12.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "readable as वक्ष्यमाणे हेमादि"
+ },
+ {
+  "id": "01.12.17",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "fine"
+ },
+ {
+  "id": "01.12.227",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "॥ इति विविधौषधविज्ञानीयो नाम द्वादशोऽध्यायः ॥",
+  "why": "विविद्य should be विविध"
+ },
+ {
+  "id": "01.13.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथातोऽग्र्यसंग्रहमध्यायं व्याख्यास्यामः ॥",
+  "why": "अग्य should be अग्र्य"
+ },
+ {
+  "id": "01.13.32",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हिध्मा is a valid variant of हिक्का"
+ }
+]

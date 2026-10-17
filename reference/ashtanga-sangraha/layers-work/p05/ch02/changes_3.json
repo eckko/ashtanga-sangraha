@@ -1,0 +1,159 @@
+[
+ {
+  "n": "75",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 74 (previous chunk).",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 74 (previous chunk). Syntax: the locatives of this unit are governed by 'yojyaḥ' ('is to be used') in unit 76; the pairing of lines into verses is a guess and is not given by the printed marks.",
+  "why": "reviewer (minor): The note says this line forms one verse with unit 74, but the printed marks give no pairing (every line ends with a double danda) and the syntax links this line to unit 76: the locatives 'bāle vṛddhe kṣate kṣīṇe sukumāre ca mānave' are governed by 'yojyaḥ' ('is to be used') in unit 76. The pairing is therefore not established."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "चतुरंगुल का प्रयोग करना चाहिए, क्योंकि पीने में वह विशेष रूप से मृदु है।",
+  "new": "चतुरंगुल का प्रयोग करना चाहिए, विशेषकर इसलिए कि पीने में वह मृदु है।",
+  "why": "reviewer (minor): English attaches 'viśeṣāt' to the use ('is to be used, especially because ...'), Hindi attaches it to the mildness ('विशेष रूप से मृदु'). The two translations of the same unit disagree."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 77. Reading of the second word is doubtful (see text_flags); the reason clause is reconstructed. Caturaṃgula is kept as a name.",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 77. Reading of the second word is doubtful (see text_flags); the reason clause is reconstructed. Caturaṃgula is kept as a name. Syntax: 'yojyaḥ' ('is to be used') completes the locatives of unit 75 ('in a child, an old person ...').",
+  "why": "reviewer (minor): The note pairs this line with unit 77, but 'yojyaḥ' here is the verb for the locatives of unit 75, and unit 77 starts a new topic (gathering the fruit)."
+ },
+ {
+  "n": "78",
+  "field": "word.gram",
+  "word": "teṣāṃ",
+  "old": "n. gen. pl.",
+  "new": "m./n. gen. pl.",
+  "why": "reviewer (minor): 'teṣām' and 'guṇavatām' have the same genitive plural form in masculine and neuter. The note asserts 'teṣām is neuter plural', which cannot be told from the form."
+ },
+ {
+  "n": "78",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 79. 'teṣām' is neuter plural; the text does not name what it refers to (presumably the gathered fruits of the previous unit).",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 79. 'teṣām' (gen. pl., masculine or neuter alike); the text does not name what it refers to (presumably the gathered fruits of the previous unit).",
+  "why": "reviewer (minor): Same point: gender is not shown by the form."
+ },
+ {
+  "n": "79",
+  "field": "english",
+  "old": "After an equal number of nights, having taken them out, one should then dry them in the sun.",
+  "new": "After 'equal nights' (reading doubtful), having taken them out, one should then dry them in the sun.",
+  "why": "reviewer (error): 'sama-rātrāt' is a doubtful reading (low confidence). The English says 'an equal number of nights', which adds 'number' and presents a sense the text does not give; the Hindi 'समान रात्रियों के बाद' is closer to the printed words but is also unmarked."
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "समान रात्रियों के बाद उन्हें निकालकर फिर धूप में सुखाना चाहिए।",
+  "new": "समान रात्रियों (पाठ संदिग्ध) के बाद उन्हें निकालकर फिर धूप में सुखाना चाहिए।",
+  "why": "reviewer (minor): Doubtful reading is not marked in the Hindi (the drafter marks damage in unit 107 with a bracket, so the same device is available)."
+ },
+ {
+  "n": "79",
+  "field": "word.w",
+  "word": "sam-uddhṛtya",
+  "old": "sam-uddhṛtya",
+  "new": "samuddhṛtya",
+  "why": "reviewer (minor): A hyphen is put between prefix and base here, but not in 80 (uddhṛtya), 77 (samāharet), 78 (vinikṣipet). The hyphen is for compound members only."
+ },
+ {
+  "n": "83",
+  "field": "english",
+  "old": "Or the kernel of caturaṃgula; one should make (him) drink the cold decoction.",
+  "new": "Or the kernel (majjā) of caturaṃgula; one should make (him) drink the cold decoction.",
+  "why": "reviewer (minor): GLOSSARY: majjā is 'kernel (majjā)' in all units; the bracket is missing here."
+ },
+ {
+  "n": "83",
+  "field": "english",
+  "old": "Or the kernel (majjā) of caturaṃgula; one should make (him) drink the cold decoction.",
+  "new": "Or the kernel (majjā) of caturaṃgula; one should make (him) drink a cold decoction.",
+  "why": "reviewer (minor): 'the' is added (no article in the Sanskrit; no earlier mention of a decoction in this unit). Also '(him)' supplies a gender for the object of 'pāyayet' that the text does not give (same in unit 91). 'cold decoction' (kaṣāyaṃ ... hima) is a literal but awkward rendering; kaṣāya is a preparation here, not the taste, so 'decoction' is the right glossary choice."
+ },
+ {
+  "n": "89",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 88.",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 88. Syntax: 'kaṣāye' is read with the genitives of unit 88 ('in the decoction of daśamūla, of kulattha and of yava'); 'tad eva' ('that same') is taken as the preceding procedure.",
+  "why": "reviewer (minor): The 'kaṣāye' (in the decoction) takes the genitives of unit 88, but this unit's note does not say so, and the English 'in the decoction' reads as if a decoction had been named."
+ },
+ {
+  "n": "91",
+  "field": "english",
+  "old": "One should make (him) drink that ariṣṭa, kept for a month, or even for just a fortnight.",
+  "new": "One should make (him) drink that ariṣṭa, kept for a month, or for just a fortnight.",
+  "why": "reviewer (minor): 'even' and 'just' both render 'eva'; 'even' adds a sense of surprise that 'eva' does not carry here. Also '(him)' supplies a gender (see unit 83)."
+ },
+ {
+  "n": "93",
+  "field": "word.gram",
+  "word": "cūrṇayitvā",
+  "old": "abs. caus. √cūrṇ",
+  "new": "abs. √cūrṇ (10th class)",
+  "why": "reviewer (minor): 'abs. caus. √cūrṇ' is misleading: cūrṇ is a denominative/10th-class root (cūrṇayati), not a causative of a simple root."
+ },
+ {
+  "n": "99",
+  "field": "english",
+  "old": "One should press out the mairujas, and when that has become sauvīraka,",
+  "new": "One should press out the mairujas (reading doubtful), and when that has become sauvīraka,",
+  "why": "reviewer (minor): The unclear word is turned into a plural noun 'mairujas', in the English and Hindi, with no mark of doubt, while the text_flag admits the word is not understood. The grammar (acc. pl.) is inferred only from '-ān'."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "मैरुजों को निचोड़ना चाहिए, और जब वह सौवीरक बन जाए,",
+  "new": "मैरुजों (पाठ अस्पष्ट) को निचोड़ना चाहिए, और जब वह सौवीरक बन जाए,",
+  "why": "reviewer (minor): Same: doubtful word not marked."
+ },
+ {
+  "n": "100",
+  "field": "hindi",
+  "old": "तब उसका अंजलि भर हो; तब रोध्र का कल्क पीना चाहिए।",
+  "new": "उसका अंजलि भर हो; तब रोध्र का कल्क पीना चाहिए।",
+  "why": "reviewer (minor): Hindi has two 'तब'; the Sanskrit has one ('tadā', at the end). The first 'तब' is added."
+ },
+ {
+  "n": "106",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 107. 'mṛdau koṣṭhe' read as 'in a soft koṣṭha' (bowel region), i.e. in one whose koṣṭha is soft. The 'not' of the previous unit carries over.",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 107. 'mṛdau koṣṭhe' read as 'in a soft koṣṭha' (lit. 'storehouse'), i.e. in one whose koṣṭha is soft. The 'not' of the previous unit carries over.",
+  "why": "reviewer (minor): 'koṣṭha' is glossed 'bowel region', an interpretation. Plain literal sense is 'storehouse' (the inner cavity of the body)."
+ },
+ {
+  "n": "106",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 107. 'mṛdau koṣṭhe' read as 'in a soft koṣṭha' (lit. 'storehouse'), i.e. in one whose koṣṭha is soft. The 'not' of the previous unit carries over.",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 107. 'mṛdau koṣṭhe' read as 'in a soft koṣṭha' (lit. 'storehouse'), i.e. in one whose koṣṭha is soft. The 'not' of the previous unit carries over. Unit 107 turns to cases where it is employed ('kalpyā'), so the negation of 105 covers only this unit's locatives.",
+  "why": "reviewer (minor): The note says the 'not' of unit 105 carries over, which is right, but the following unit 107 turns positive ('kalpyā', is to be employed); this should be said so the two units are not read together as one negative list."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "गुल्म, उदर, (अस्पष्ट) रोग और मधुमेह वालों में इसका प्रयोग करना चाहिए।",
+  "new": "गुल्म, उदर, (अस्पष्ट पाठ) और मधुमेह वालों में इसका प्रयोग करना चाहिए।",
+  "why": "reviewer (error): The English treats the whole 'gatvroga' as damaged, but the Hindi translates its last part as 'रोग' ('disease'), building a reading on a damaged word. The two translations disagree."
+ },
+ {
+  "n": "107",
+  "field": "notes",
+  "old": "GROUPING: one half-verse line of the edition; it forms one verse with unit 106. The word 'gatvroga' is damaged and not translated; Hindi marks it as unclear. Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names, not as modern disease names.",
+  "new": "GROUPING: one half-verse line of the edition; it forms one verse with unit 106. The word 'gatvroga' is damaged and not translated; Hindi marks it as unclear. Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names, not as modern disease names. Syntax: 'kalpyā' ('is to be employed') is positive and turns from the negative statement of units 105-106. Unverified guess for the damaged word: a transposition of the printed letters would give 'tvag-roga' (skin ailment), but two syllables are still missing, so it is not used.",
+  "why": "reviewer (minor): Leaving it untranslated is right. No safe reading exists: the printed sequence 'tvro' is impossible, the line has 14 syllables (two short), and the project's own metre check (checks/proposals.tsv) says 'the right word is not visible'. A guess exists (an anagram of the printed letters gives 'tvag-roga', 'skin ailment'; it also would not restore the two missing syllables), so it must stay a note only and must not enter the translation."
+ },
+ {
+  "n": "109",
+  "field": "english",
+  "old": "That one is best which is covered with many sharp thorns.",
+  "new": "That one is best, covered with sharp and many thorns.",
+  "why": "reviewer (minor): The relative clause ('which is covered', Hindi 'जो ... हो') turns the plain description 'sā śreṣṭhā ... samācitā' ('that one is best, covered with sharp and many thorns') into a selecting condition. It also reverses the order 'sharp and many'."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "वह श्रेष्ठ है, जो तीखे और बहुत-से काँटों से ढकी हुई हो।",
+  "new": "वह श्रेष्ठ है, तीखे और बहुत-से काँटों से ढकी हुई।",
+  "why": "reviewer (minor): Same relative/subjunctive turn in Hindi."
+ }
+]

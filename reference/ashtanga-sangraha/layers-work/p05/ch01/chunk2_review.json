@@ -1,0 +1,749 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(prayojayet)",
+     "problem": "The verb understood is wrong: unit 36 (chunk 1) ends with prayuñjīta, not prayojayet.",
+     "fix": "(prayuñjīta, unit 36)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(prayojayet)",
+      "new": "(prayuñjīta, unit 36)",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दो या तीन फलों को",
+     "problem": "Hindi supplies 'fruits' (फलों) that the Sanskrit does not state (dvitrāṇi has no noun; English correctly leaves '(of them)'). The note itself says the object is unnamed.",
+     "fix": "दो या तीन को कूटकर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दो या तीन फलों को कूटकर",
+      "new": "दो या तीन को कूटकर",
+      "n": "38"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "navānām",
+     "problem": "'fresh' vs 'nine' is unresolved, yet both translations commit to 'fresh/ताज़े' (and Hindi adds द्रव्यों). With a core noun phrase undecided, confidence should be low, not medium.",
+     "fix": "confidence: low; keep the 'nine' alternative prominent in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kalkam",
+     "problem": "Form kalkam is labelled 'm. nom. sg.', which is impossible (m. nom. would be kalkaḥ). Since the verb of application is understood (see unit 37) the form is acc. sg. (kalka m./n.).",
+     "fix": "m./n. acc. sg.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "kalkam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pitta-je",
+     "problem": "Labelled 'n. loc. sg.' but unit 38/40 label the same agreement m. (jvare); the noun is unstated.",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pitta-je",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "īkṣvākustu",
+     "problem": "īkṣvāku is an attested variant spelling of ikṣvāku, not a scan error; also w keeps the printed īkṣvākuḥ while the flag proposes ikṣvāku (rule 6 would put the corrected form in words). Drop the flag and keep the variant in notes, or make w follow the flag.",
+     "fix": "remove the flag; note 'variant spelling īkṣvāku'",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "śvāsa (laboured breathing)",
+     "problem": "Gloss in the word table says 'breath-trouble'; English says 'laboured breathing' (nearer a modern diagnosis). Make them agree with the plain sense.",
+     "fix": "śvāsa (breath-trouble)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "śvāsa (laboured breathing)",
+      "new": "śvāsa (breath-trouble)",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "puṣpa-ādiṣu",
+     "problem": "puṣpa is neuter, label says m.",
+     "fix": "loc. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "puṣpa-ādiṣu",
+      "field": "gram",
+      "value": "loc. pl., bahuvrīhi",
+      "n": "44"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "rātajīmūtavatprayogāḥ",
+     "problem": "'suggest': 'unclear' is not a suggestion; an apply step could write it into the text. Keep the doubt in notes only (or give a real candidate).",
+     "fix": "delete this flag entry; the notes already carry the doubt",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "śrutaṃ",
+     "problem": "Extra evidence for the śrutaṃ -> śṛtam flag: the same printed spelling occurs in 05.01.24 (bhallātakavidhiśrutaṃ), also in a cooking context.",
+     "fix": "append the parallel to notes",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Parallel: the same printed spelling śrutaṃ occurs in 05.01.24 (bhallātakavidhiśrutaṃ svarasam), also a cooking context.",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pitte",
+     "problem": "pitta is neuter; label says m.",
+     "fix": "n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pitte",
+      "field": "gram",
+      "value": "n. loc. sg.",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पकाया हुआ",
+     "problem": "sādhita is rendered 'prepared' in English but 'पकाया' (cooked) in Hindi; 'cooked' is the sense of siddha/śṛta elsewhere (units 42, 64). Keep the literal 'prepared'.",
+     "fix": "तिगुने दूध में तैयार किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तिगुने दूध में पकाया हुआ",
+      "new": "तिगुने दूध में तैयार किया हुआ",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पके हुए",
+     "problem": "jīrṇa is 'old' in unit 37 (पुराने / old) but 'ripe' here (Hindi and English). One rendering needed; the literal sense is 'old' (paryāgata is the word rendered 'ripe').",
+     "fix": "पुराने, बीज निकाले हुए फल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पके हुए, बीज",
+      "new": "पुराने, बीज",
+      "n": "46"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a ripe fruit",
+     "problem": "Same jīrṇa inconsistency (see Hindi).",
+     "fix": "an old fruit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a ripe fruit",
+      "new": "an old fruit",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jīrṇe",
+     "problem": "Gloss 'ripe, old' hedges; use the single literal sense.",
+     "fix": "old",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jīrṇe",
+      "field": "gloss",
+      "value": "old",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kuṣṭhaviṣagulmodaragaragaṃḍagraṃthyarbudaślīpadeṣu",
+     "problem": "Unit 48 has the same disease list with galagaṇḍa and viṣa is already present here, so garagaṇḍa is probably a damaged galagaṇḍa. The note admits this but text_flags is empty; rule 6 asks for a 'possible' flag, and the 'gara' glosses in the Hindi/English commit to the less likely reading.",
+     "fix": "add flag {src: garagaṃḍa-token, suggest: ...udaragalagaṇḍagraṃthy..., why: 'possible: parallel unit 48'}; keep confidence medium or lower",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat",
+     "problem": "tat agrees with madhyam (acc., object of bhakṣayet), not nominative.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tat",
+      "field": "gram",
+      "value": "n. acc. sg.",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "steeped in",
+     "problem": "bhāvita/bhāvayitvā is 'soaked' in units 48 and 67 (and in this unit's own gloss), 'steeped' here.",
+     "fix": "soaked in",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "steeped in",
+      "new": "soaked in",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kāthena / kādhayet",
+     "problem": "src is a substring of the printed token (bilvamūlaprasthakāthena, and the kādhayet token is fine); other flags use the whole token. Make src the whole printed token so an apply step can match it.",
+     "fix": "src = bilvamūlaprasthakāthena",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in which the ghee is a third part",
+     "problem": "Contested count stated as fact: tribhāga could be 'three parts'; Hindi and English both commit to 'a third part' while the draft is low confidence. Either hedge in the translation or move the choice to notes.",
+     "fix": "literal: '... in which the ghee is of three parts (tribhāga)' with the note keeping 'a third part' as the alternative",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "फिर भी",
+     "problem": "'punar api' is 'again, once more'. Hindi 'फिर भी' means 'nevertheless' and changes the sense.",
+     "fix": "तत्पश्चात् फिर से पकाकर लेह तैयार करे।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर भी पकाकर",
+      "new": "फिर से पकाकर",
+      "n": "58"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śṛtvā",
+     "problem": "The corrected w 'śṛtvā' is not a regular absolutive (√śrā gives śrātvā/śrapayitvā); the flag admits uncertainty but the word table presents it as a real form.",
+     "fix": "gloss: having boiled (form uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śṛtvā",
+      "field": "gloss",
+      "value": "having boiled (form uncertain)",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pramadhyāmanupibettadvaddhameva",
+     "problem": "Two flags with the same src; the second (tadvaddhṛtam) duplicates part of the first suggestion. An apply step could write both.",
+     "fix": "merge into one flag with the full suggestion",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "यह कल्प",
+     "problem": "'यह' is not in the Sanskrit (kalpaḥ ... veditavyaḥ).",
+     "fix": "कल्प",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह कल्प",
+      "new": "कल्प",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "garagulmodarakāsakaphasaṃcayottharogeṣu",
+     "problem": "Scope of -uttha-roga is not discussed: translation applies 'arising from' only to Kapha-accumulation, but the compound could take all members ('ailments arising from gara, gulma, udara, kāsa and Kapha accumulation').",
+     "fix": "append to notes",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Scope of -uttha-roga: translated as applying only to kapha-saṃcaya; it could govern all preceding members (ailments arising from gara, gulma, udara, kāsa and Kapha accumulation).",
+      "n": "60"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रयोग करे",
+     "problem": "vidadhyāt is 'should prescribe' in English but Hindi uses 'प्रयोग करे', the rendering of prayojayet (unit 66). Keep the verbs distinct.",
+     "fix": "विधान करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रयोग करे",
+      "new": "विधान करे",
+      "n": "61"
+     }
+    },
+    {
+     "field": "english",
+     "where": "jīvanīya (life-promoting)",
+     "problem": "'life-promoting' states an effect for a group name; medical rule says keep the name (gloss 'group name').",
+     "fix": "jīvanīya (group name)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viṣeṣu",
+     "problem": "viṣa is neuter; label says m.",
+     "fix": "n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viṣeṣu",
+      "field": "gram",
+      "value": "n. loc. pl.",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dhāmārgavam / dve",
+     "problem": "dhāmārgavam is labelled m. but dve (dual) is neuter/feminine, so m. is inconsistent; the noun counted is unstated.",
+     "fix": "acc. sg. (gender unclear: dve is n.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhāmārgavam",
+      "field": "gram",
+      "value": "acc. sg.",
+      "n": "63"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vṛścīvārbībīja...",
+     "problem": "arbī is called unknown/damaged in the notes and glossed '(unclear)', yet text_flags is empty and English/Hindi say 'arbī seeds' firmly. Add a 'possible' flag (e.g. vārbī / ārbī or another division) and keep the English hedged.",
+     "fix": "add text_flag for the vṛścīva-arbī-bīja stretch",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "dhāmārgavam ekaṃ dve vā",
+     "problem": "Alternative syntax not mentioned: dhāmārgava (one or two) may be the main object taken WITH the decoction of any one of the listed drugs, rather than a separate alternative 'or one or two of dhāmārgava'.",
+     "fix": "append to notes",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative syntax: dhāmārgavam (one or two) may be the main item used with the decoction of any one of the listed drugs, not a separate alternative.",
+      "n": "63"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिद्ध किए हुए / से सिद्ध घृत",
+     "problem": "siddha is 'cooked' in English and पकाया in unit 42; Hindi 'सिद्ध' alone is ambiguous (perfected).",
+     "fix": "पकाए हुए दूध / से पकाया हुआ घृत",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिद्ध किए हुए दूध",
+      "new": "पकाए हुए दूध",
+      "n": "64"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छह से सिद्ध घृत",
+     "problem": "Same siddha rendering.",
+     "fix": "छह से पकाया हुआ घृत",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छह से सिद्ध घृत",
+      "new": "छह से पकाया हुआ घृत",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शोथ",
+     "problem": "śvayathu is rendered with a different Sanskrit word (शोथ); use the printed word.",
+     "fix": "और श्वयथु में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और शोथ में",
+      "new": "और श्वयथु में",
+      "n": "65"
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "फिर",
+     "problem": "punaḥ is 'on the other hand' in English; Hindi 'फिर' reads as 'then'.",
+     "fix": "कुटज का फल, दूसरी ओर, सुकुमार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुटज का फल फिर सुकुमार",
+      "new": "कुटज का फल, दूसरी ओर, सुकुमार",
+      "n": "66"
+     }
+    },
+    {
+     "field": "english",
+     "where": "blood, Pitta and Kapha",
+     "problem": "The reading 'blood, Pitta and Kapha' (rakta separate) is the less likely one: raktapitta is a term used in this very text (and is in the glossary), and the next compound lists vātaśoṇita separately. Prefer raktapitta and Kapha as the main reading, with the other in notes. Not patched: needs a human decision.",
+     "fix": "in those in whom raktapitta and Kapha are prominent",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Thus.",
+     "problem": "'iti' is rendered 'Thus.' / Hindi 'ऐसा।', which reads as a stray word; the draft's own note says it only closes the passage. Move to notes (unit 70 drops it as well).",
+     "fix": "drop it from both translations",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": " Thus.",
+      "new": "",
+      "n": "67"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": " ऐसा।",
+     "problem": "Same as the English: stray 'ऐसा।'.",
+     "fix": "drop it",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": " ऐसा।",
+      "new": "",
+      "n": "67"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "cūrṇāṃnyarkakṣīreṇa / mulāṃnyatamakaṣāyeṇa",
+     "problem": "The second src is a substring of the printed token madanaphala...jīvakamulāṃnyatamakaṣāyeṇa. Use whole printed tokens as src in all three flags. (The pattern 'extra anusvāra before ny-/n-' also recurs in units 60 and 70, which suggests an edition/OCR habit, worth one note book-wide.)",
+     "fix": "src = whole token",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "madanaphala ... mūla",
+     "problem": "The English 'madanaphala ... roots' reads as 'roots of the madanaphala (fruit)'; the member 'madana-phala' is a fruit name and 'mūla' governing it is odd. Mention in notes.",
+     "fix": "append to notes",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "madanaphala is a fruit name, so 'mūla' governing the whole list (roots of madanaphala, jīmūtaka, ...) is itself doubtful.",
+      "n": "67"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With this as a seed, the wise one should devise variations on others also.",
+     "problem": "'variations on' is added; vikalpayet anyān api is 'should devise others also' (the word table also says 'should vary'). Keep literal.",
+     "fix": "With this seed, the wise one should devise others also.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "With this as a seed, the wise one should devise variations on others also.",
+      "new": "With this seed, the wise one should devise others also.",
+      "n": "70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Thus (ends) the first chapter",
+     "problem": "'(ends)' is an addition (brief: nothing added, e.g. 'thus ends'). The Sanskrit has iti ... prathamo'dhyāyaḥ only.",
+     "fix": "Thus the first chapter",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Thus (ends) the first chapter",
+      "new": "Thus the first chapter",
+      "n": "71"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "35 units reviewed (37-71). src tokens match the input and text/ (ch05.01.md) matches lines_deva for every unit. 5 errors and 37 minor issues (31 with machine patches). Main findings: Hindi 'फिर भी' for punar api (58); kalkam labelled m. nom. (39); additions in English (70 'variations on', 71 '(ends)', 67 'Thus.'); jīrṇa/bhāvita/siddha renderings inconsistent; flags in 49 (garagaṇḍa/galagaṇḍa) and 63 (arbī) missing; flags 44/51 use 'unclear' as a suggestion. Text flags: the draft has 21 flags in 15 units (38,43,44,47,51,54,56,57,58,59,60,62,67,69,70), not 28 in 21; all other flags are plausible corrections, src kept the printed token, and the corrected form is in words (except 43). Low-confidence units 44, 51, 54, 57, 58, 59, 63, 67 are honestly low; 38 should be low too. GROUPING: 68 (lead-in bhavati cātra) + 69 + 70 should be one unit (lead-in plus one verse; metre confirms 69+70 are two 16-syllable half-verses once vamanānāṃ is restored); 71 is the colophon (not verse). 56-59 are one continuous procedure (decoction, ghee, leha, anupāna) and 38-42 / 60-61 are linked, but no regrouping is needed there.",
+ "glossary_suggestions": [
+  {
+   "term": "jīrṇa",
+   "suggest": "always 'old' (Hindi पुराना); paryāgata is the word rendered 'ripe'"
+  },
+  {
+   "term": "bhāvita / bhāvayitvā",
+   "suggest": "'soaked' (Hindi भिगोया), not 'steeped'"
+  },
+  {
+   "term": "siddha / śṛta / sādhita",
+   "suggest": "siddha = cooked (पकाया), śṛta = boiled (उबाला), sādhita = prepared (तैयार किया)"
+  },
+  {
+   "term": "punar api",
+   "suggest": "'again, once more' (Hindi फिर से); never 'फिर भी'"
+  },
+  {
+   "term": "iti at the end of a passage or colophon",
+   "suggest": "not translated; mention in notes; colophon English 'Thus the first chapter, named ...' without '(ends)'"
+  },
+  {
+   "term": "śvāsa, kāsa, chardi",
+   "suggest": "keep the Sanskrit; fixed glosses: śvāsa 'breath-trouble', kāsa 'cough', chardi 'vomiting'"
+  },
+  {
+   "term": "śvayathu",
+   "suggest": "'swelling'; Hindi श्वयथु (not शोथ, which renders a different Sanskrit word)"
+  },
+  {
+   "term": "prayojayet vs vidadhyāt",
+   "suggest": "Hindi 'प्रयोग करे' for prayojayet; 'विधान करे' for vidadhyāt (English 'apply' / 'prescribe')"
+  },
+  {
+   "term": "vātapitta, Vāta-Kapha",
+   "suggest": "lowercase one word for a disease-compound (vātapitta, raktapitta); capitalised, separated items for the doṣas themselves (Vāta and Kapha)"
+  },
+  {
+   "term": "jīvanīya and other group names",
+   "suggest": "keep as 'group name'; do not give an effect gloss ('life-promoting')"
+  }
+ ]
+}

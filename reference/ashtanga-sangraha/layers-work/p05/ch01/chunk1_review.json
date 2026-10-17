@@ -1,0 +1,609 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śrī gaṇeśāya",
+     "problem": "printed as one word; śrī-gaṇeśāya is a compound, and the two are shown as separate words",
+     "fix": "śrī-gaṇeśāya (karmadhāraya/tat-puruṣa, m. dat. sg.)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ātreya / ādayaḥ",
+     "problem": "ātreyādayaḥ is a single compound (ātreya-ādi), not two words; \"ātreya m. nom. sg.\" is wrong as a case label",
+     "fix": "ātreya-ādayaḥ = \"Ātreya and the others\", bahuvrīhi, m. nom. pl.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "doṣa-dṛṣya-ādi-vaśāt",
+     "problem": "the w keeps the printed misprint \"dṛṣya\" although text_flags corrects it to dūṣya (brief rule 6: corrected form in words)",
+     "fix": "doṣa-dūṣya-ādi-vaśāt",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "doṣa-dṛṣya-ādi-vaśāt",
+      "field": "w",
+      "value": "doṣa-dūṣya-ādi-vaśāt"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "etat-kalpanānām",
+     "problem": "etat-kalpanā (\"these preparations\") is a karmadhāraya (pronoun + noun), not a tat-puruṣa",
+     "fix": "karmadhāraya, f. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "etat-kalpanānām",
+      "field": "gram",
+      "value": "karmadhāraya, f. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"the very many different states of doṣa and the rest\"",
+     "problem": "eva (doṣādīnām eva) is dropped in English (Hindi keeps \"ही\")",
+     "fix": "add \"alone/just\" or note it; e.g. \"of doṣa and the rest alone\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "buddhi-matām",
+     "problem": "buddhimat is a possessive (matup) derivative, not a compound with member \"matām\"; hyphenation and \"bahuvrīhi\" label are wrong",
+     "fix": "w buddhimatām, gram \"m. gen. pl. (buddhimat)\"",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "buddhi-matām",
+      "field": "gram",
+      "value": "m. gen. pl. (buddhimat, matup)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "praśaste",
+     "problem": "agrees with ahani (n. loc. sg.), labelled m.; if also read with muhūrte it is m.; label as n. with note",
+     "fix": "loc. sg. (n. with ahani; m. if also with muhūrte)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "praśaste",
+      "field": "gram",
+      "value": "loc. sg. (n. with ahani; m. if also with muhūrte)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"an auspicious day and at an auspicious moment\"",
+     "problem": "praśaste may agree with ahani only; repeating \"auspicious\" for muhūrta decides an ambiguity silently (also Hindi शुभ मुहूर्त)",
+     "fix": "mention in notes that praśaste may qualify both",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "praśaste may qualify only ahani, or both ahani and muhūrte; both translations take it with both."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीले",
+     "problem": "pāṇḍu is \"pale\" (yellowish-white); Hindi \"पीले\" (yellow) vs English \"pale\" are inconsistent (same in unit 35)",
+     "fix": "use one rendering for pāṇḍu in both languages (see glossary_suggestions)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"smeared it with cow-dung\"",
+     "problem": "\"it\" (the bundle) is an inference; Sanskrit object is tāni (the fruits); note already admits this",
+     "fix": "avoid \"it\" or keep note; low priority",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pippalīḥ",
+     "problem": "gloss \"a part or product of the fruit\" is an interpretation; rule 7 asks for the plain name",
+     "fix": "pippalī (drug name)",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "pippalīḥ",
+      "field": "gloss",
+      "value": "pippalī (drug name)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"since again (it goes on) until pitta comes\"",
+     "problem": "ā + ablative (ā-pitta-gamanāt) means \"until/up to the coming of pitta\"; \"since\" gives a causal sense and \"(it goes on)\" is added",
+     "fix": "\"Especially in phlegm (śleṣma), fever, gulma, pratiśyāya and internal abscesses, again until Pitta comes.\"",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "english",
+      "value": "Especially in phlegm (śleṣma), fever, gulma, pratiśyāya and internal abscesses, again until Pitta comes."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "क्योंकि फिर पित्त के आने तक (वमन होता है)",
+     "problem": "bracketed supplied words are not allowed in Hindi, and \"क्योंकि\" is causal (same error as English)",
+     "fix": "कफ, ज्वर, गुल्म, प्रतिश्याय और भीतरी विद्रधि में विशेष रूप से, फिर पित्त के आने तक।",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "कफ, ज्वर, गुल्म, प्रतिश्याय और भीतरी विद्रधि में विशेष रूप से, फिर पित्त के आने तक।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "phala-pippalī-cūrṇam / sva-kvātha-bhāvitam",
+     "problem": "these are objects of pibet, so accusative, not nominative (also tribhāga-triphalā-cūrṇam)",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "phala-pippalī-cūrṇam",
+      "field": "gram",
+      "value": "tat-puruṣa, n. acc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "praseka (\"flow (of saliva)\")",
+     "problem": "\"of saliva\" is an added specific; plain literal sense is \"flow, trickling\"",
+     "fix": "see glossary_suggestions; English/Hindi keep praseka as a term",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong Kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "english",
+      "value": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong Kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kapha-sthāna-gate",
+     "problem": "gender missing; agrees with pitte",
+     "fix": "tat-puruṣa, n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "kapha-sthāna-gate",
+      "field": "gram",
+      "value": "tat-puruṣa, n. loc. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the powder of the kernel of the madana fruit, with a decoction of jīmūtaka and the rest, when Pitta has gone to the seat of Kapha.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "english",
+      "value": "Or the powder of the kernel of the madana fruit, with a decoction of jīmūtaka and the rest, when Pitta has gone to the seat of Kapha."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or a palmful of the santānikā (skin) of that cold milk, when Pitta is aggravated and the chest, throat and heart are smeared with thin Kapha.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "english",
+      "value": "Or a palmful of the santānikā (skin) of that cold milk, when Pitta is aggravated and the chest, throat and heart are smeared with thin Kapha."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in Kapha, vomiting, praseka and tamaka.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "set",
+      "field": "english",
+      "value": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in Kapha, vomiting, praseka and tamaka."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni) is overcome by Kapha and the body is drying up.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "english",
+      "value": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni) is overcome by Kapha and the body is drying up."
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śatāvhā",
+     "problem": "the printed token has \"śatāvhā\" (letters transposed); the word list silently uses śatāhvā with no text_flag (rule 6)",
+     "fix": "add text_flag {src:\"reṇukailāśatāvhākustuṃburutagara...\", suggest:\"śatāhvā\", why:\"possible transposition vhā/hvā\"}",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "pāledhana -> pālīdhana",
+     "problem": "the suggested \"pālīdhana\" is itself an unrecognised form; it is a guess presented as a suggestion",
+     "fix": "say \"no suggestion; word unrecognised\" in why",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anyam / bhakṣyam",
+     "problem": "anyam labelled m. but bhakṣyam n.; they must agree",
+     "fix": "bhakṣyam: \"m./n. acc. sg. (agrees with anyam)\"",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "bhakṣyam",
+      "field": "gram",
+      "value": "m./n. acc. sg. (agrees with anyam)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नीम",
+     "problem": "नीम is the common plant name (identifies nimba as a plant); brief: keep the name, never identify",
+     "fix": "निम्ब",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नीम",
+      "new": "निम्ब"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the decoction of the fruit kernel, with an addition of vatsaka and the rest, mixed with the decoction of either nimba or arka, removing all Kapha ailments arising from satiation (saṃtarpaṇa).",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "english",
+      "value": "Or the decoction of the fruit kernel, with an addition of vatsaka and the rest, mixed with the decoction of either nimba or arka, removing all Kapha ailments arising from satiation (saṃtarpaṇa)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल्दी",
+     "problem": "हल्दी is the plant identification of haridrā (turmeric); keep the name",
+     "fix": "हरिद्रा",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्दी, कृसरा",
+      "new": "हरिद्रा, कृसरा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"while smelling it\"",
+     "problem": "upajighran has no object in the Sanskrit; \"it\" is added (notes admit the relation is uncertain)",
+     "fix": "smelling,",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā, kṛsarā, milk or gruel, with rock salt, jaggery and phāṇita added, smelling, a delicate person, whose Kapha and Pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "english",
+      "value": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā, kṛsarā, milk or gruel, with rock salt, jaggery and phāṇita added, smelling, a delicate person, whose Kapha and Pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "loma-lomavatsu",
+     "problem": "flag says lomavatsu is the likely reading but w keeps the doubled misprint (rule 6); lomavat is a matup form, not a bahuvrīhi",
+     "fix": "w lomavatsu, gram \"n. loc. pl. (lomavat)\"",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "loma-lomavatsu",
+      "field": "gram",
+      "value": "n. loc. pl. (lomavat, matup)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फलों में रोमवाले फलों में पेया",
+     "problem": "Hindi keeps both \"phaleṣu\" while English merges them (\"in fruits that are hairy\"); one of the two renderings drops or adds a word, and Hindi reads as a stutter",
+     "fix": "make both languages follow the same parse and say so in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(फलों)",
+     "problem": "bracketed supplied word in Hindi",
+     "fix": "हरे और पीले फलों में दूध या खट्टा दही।",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हरे और पीले (फलों) में",
+      "new": "हरे और पीले फलों में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यक्ष्मा",
+     "problem": "in modern Hindi यक्ष्मा means tuberculosis (a diagnosis); medical-term rule wants the plain term",
+     "fix": "यक्ष्मन्",
+     "severity": "error",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यक्ष्मा",
+      "new": "यक्ष्मन्"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kapha/pitta",
+     "problem": "fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase",
+     "fix": "Or one should use surā mixed with its decoction in Kapha, arocaka, cough, pāṇḍu disease and yakṣman.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "set",
+      "field": "english",
+      "value": "Or one should use surā mixed with its decoction in Kapha, arocaka, cough, pāṇḍu disease and yakṣman."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "36 units reviewed: 6 errors, 28 minor. Errors: unit 13 (ā+abl. 'until' rendered 'since', bracketed words in Hindi), unit 35 (bracket in Hindi), plant identification in Hindi (नीम, हल्दी), यक्ष्मा for yakṣman. Common minor: English lowercase kapha/pitta against the fixed Kapha/Pitta renderings; uncorrected misprints left in w; gram labels. Draft is otherwise careful and honest on confidence. Regrouping: 4+5 (one elliptical sentence), 6-8 (one long sentence), 12-14 (13 and 14 continue 12), 33-35 (one passage); optional.",
+ "glossary_suggestions": [
+  "kapha/pitta/vāta: capitalise in English (Kapha, Pitta, Vāta); inside compounds like raktapitta keep lowercase",
+  "praseka: gloss \"flow, trickling\"; do not add \"of saliva\"",
+  "harita-pāṇḍu: fix one pair in both languages, e.g. \"green and pale\" / हरे और पाण्डु (पीला-सा)",
+  "majjā (of fruit): \"kernel (majjā)\" in all units",
+  "kaṣāya / kvātha / niryūha: all currently \"decoction\"; decide whether to keep the three apart",
+  "Hindi: never use plant common names (नीम, हल्दी): keep निम्ब, हरिद्रा; use यक्ष्मन् not यक्ष्मा",
+  "avacārayet / pāyayet / lehayet: fix literal verbs (administer / cause to drink / cause to lick)"
+ ]
+}

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "04.21.99",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.107",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.171",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.172",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.173",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "जात्यर्कनिंबजैर्वा पत्रैः शस्त्रैः समुद्रफेनेन ॥",
+  "why": "doubled \"नेन\" at the end of समुद्रफेनेनेन"
+ },
+ {
+  "id": "04.21.207",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.211",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.224",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.225",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "समच्छदार्द्रपल्लवमूलत्वक्निंबचित्रकास्फोताः ॥",
+  "why": "\"दाई\" is not a plausible sequence; possibly \"आर्द्र\""
+ },
+ {
+  "id": "04.21.229",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.233",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "कटुकालाबुन्यस्तं नित्याभ्यंगेन वातकफकुष्ठं ॥",
+  "why": "wrong long ी in विपाचितं"
+ },
+ {
+  "id": "04.21.236",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.240",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "क्रमिपामसिध्मदद्रूमंडलकुष्ठं शमं याति ॥",
+  "why": "सिद्धमदद्रू is meaningless; सिध्म + दद्रू (skin diseases) fits"
+ },
+ {
+  "id": "04.21.251",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.256",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "दार्बी सप्तपर्णा स्नानं सिद्धार्थकं नाम ॥",
+  "why": "doubled न in स्नानं"
+ },
+ {
+  "id": "04.21.260",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.272",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.277",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.21.281",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "श्वित्राणां सविशेषं योक्तव्यं सर्वतो विशुद्धानां ॥",
+  "why": "शिवत्र should be श्वित्र (the chapter topic)"
+ },
+ {
+  "id": "04.22.2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.3",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "श्वित्रमतस्तच्छांत्यै यतेत दीप्ते यथा भवने ॥",
+  "why": "\"तच्छ शांत्यै\" looks like a broken तच्छान्त्यै"
+ },
+ {
+  "id": "04.22.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.17",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.18",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सेवेत विरिक्तश्च त्र्यहं त्र्यहं पिपासुः पिबेत्पेयां ॥",
+  "why": "\"दि\" is stray; सेवेत विरिक्तश्च expected"
+ },
+ {
+  "id": "04.22.33",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.47",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.48",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.49",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.51",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सिद्धार्थकाबृहत्यौ करंजकोशातकीफलं गुंजा ॥",
+  "why": "stray space splits करंज"
+ },
+ {
+  "id": "04.22.62",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.22.73",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "शुद्ध्या शोणितमोक्षैर्वरूक्षणैर्भक्षणैश्च सक्तूनां ॥",
+  "why": "घ for ध in शुद्ध्या"
+ },
+ {
+  "id": "04.23.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.31",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.58",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.63",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.72",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्पीतं परमपतन्त्रकश्वासहिध्माहृद्रोगघ्नं ॥",
+  "why": "ह्रद् should be हृद् (heart)"
+ },
+ {
+  "id": "04.23.91",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.101",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.115",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "स्थलान्युत्लंघयेत् प्रतिस्रोतः सरितं सव्यालां तरेत् ॥",
+  "why": "सरितम्मव्यालां has a doubled म and unclear sense"
+ },
+ {
+  "id": "04.23.231",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.23.232",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.11",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.39",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.48",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "04.24.119",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "समानं शमयेद्द्विधा व्यानं च योजयेत् ॥",
+  "why": "tripled द in शमयेद्द्विधा"
+ },
+ {
+  "id": "05.01.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "दोषदूष्यादिवशाच्चैषामेतत्कल्पनानां प्राधान्यं ॥",
+  "why": "दृष्य should be दूष्य"
+ },
+ {
+  "id": "05.01.25",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.26",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.29",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.52",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ },
+ {
+  "id": "05.01.56",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "बिल्वमूलप्रस्थकाथेन वा तुंबीबीजानि क्वाथयेत् ॥",
+  "why": "काधयेत् is a broken क्वाथयेत्"
+ },
+ {
+  "id": "05.01.70",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "बीजेनानेन मतिमानन्यानपि विकल्पयेदिति ॥",
+  "why": "stray anusvara in अन्यानपि"
+ },
+ {
+  "id": "05.01.71",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible error."
+ }
+]

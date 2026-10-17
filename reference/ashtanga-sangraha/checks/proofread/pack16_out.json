@@ -1,0 +1,422 @@
+[
+ {
+  "id": "06.27.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.27.65",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.33",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.45",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.99",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.100",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.106",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.28.116",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.29.6",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सोऽपि पुनर्वातादिभिरधिष्ठितो निजतां लभते ॥",
+  "why": "stray space splits the instrumental ending -भिः from वातादि"
+ },
+ {
+  "id": "06.29.53",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.29.54",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.29.57",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.23",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.26",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.52",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.54",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.57",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.30.63",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "पाचनार्थं पाकवेदनाशस्त्रकर्मसहनार्थं च ॥",
+  "why": "शास्त्रकर्म is senseless here; शस्त्रकर्म (surgery) fits the context"
+ },
+ {
+  "id": "06.30.188",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "line itself is a normal chapter colophon"
+ },
+ {
+  "id": "06.31.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथातः सद्योव्रणविज्ञानप्रतिषेधं व्याख्यास्यामः ॥",
+  "why": "विज्ञन is missing the long ā of विज्ञान"
+ },
+ {
+  "id": "06.31.2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.31.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.31.140",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "कार्यं वातास्रजित्सिमर्दनाभ्यंगशोधनं ॥",
+  "why": "सिमर्द्न has an impossible conjunct but the intended word is unclear"
+ },
+ {
+  "id": "06.32.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.32.25",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "अण्णुवेद is not a recognisable word; intended reading unclear"
+ },
+ {
+  "id": "06.32.135",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "विगततुषानरजस्कान्संचूर्ण्य सुचूर्णितैर्युज्यात् ॥",
+  "why": "विगत्त has an extra त्; विगत (devoid of) is meant"
+ },
+ {
+  "id": "06.32.144",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.33.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथातो भगंदरविज्ञानप्रतिषेधं व्याख्यास्यामः ॥",
+  "why": "stray space inside the compound, unlike other chapter openings"
+ },
+ {
+  "id": "06.33.57",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.33.61",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.18",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.23",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.26",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "ततो निर्वापितं क्षारक्षौद्रगुडोत्तरैरालेपयेत् ॥",
+  "why": "stray ा before ै in उत्तराै"
+ },
+ {
+  "id": "06.35.42",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.56",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.67",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.35.90",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "गंडान्त्राकुली is an odd sandhi; cannot tell if a letter is dropped"
+ },
+ {
+  "id": "06.35.96",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सर्षपवृक्षादनीक्वाथैर्व्रणक्षालनं ॥",
+  "why": "द्वण is a mistyped व्रण (wound)"
+ },
+ {
+  "id": "06.35.104",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.36.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.19",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.22",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "शुद्धां मधुरकषायसंस्कृतेन तैलेन रोपयेत् ॥",
+  "why": "कपाय should be कषाय, as in neighbouring lines"
+ },
+ {
+  "id": "06.37.23",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "शर्करार्बुदं मेदोर्बुदवदुपाचरेत् ॥",
+  "why": "शर्कराबुर्दं has अर्बुद letters transposed"
+ },
+ {
+  "id": "06.37.29",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.35",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.42",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.58",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.37.63",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.38.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.39.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.39.50",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.39.91",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ },
+ {
+  "id": "06.40.13",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "reads correctly"
+ }
+]

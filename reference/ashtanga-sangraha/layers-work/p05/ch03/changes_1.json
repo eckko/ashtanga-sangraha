@@ -1,0 +1,155 @@
+[
+ {
+  "n": "3",
+  "field": "english",
+  "old": "In that case the desired result is not obtained, and the waste matter (mala) is stirred up.",
+  "new": "In that case what is desired is not attained, and the waste matter (mala) is stirred up.",
+  "why": "reviewer (minor): 'result' is not in ipsita-anavāpti (non-attainment of what is desired)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वहाँ इच्छित फल की प्राप्ति नहीं होती और मल उभर आता है।",
+  "new": "वहाँ इच्छित की प्राप्ति नहीं होती और मल उभर आता है।",
+  "why": "reviewer (minor): 'फल' (result) added."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "yaugikaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): gender n. is unfounded: the noun is unstated (unit 16 has the same pattern with other genders)."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "There: the mishap as stated before, and its remedy (sādhana).",
+  "new": "There: the mishap as stated before, and the remedy (sādhana).",
+  "why": "reviewer (minor): 'its' is not in the Sanskrit (vyāpat sādhanaṃ ca); also Hindi 'उसका'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "वहाँ पहले कही गई व्यापद् और उसका साधन।",
+  "new": "वहाँ पहले कही गई व्यापद् और साधन।",
+  "why": "reviewer (minor): 'उसका' added."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Even after this it rises upward; except for the hṛdya, avalekhana and vaṭaka (kinds), one should not apply a third medicine.",
+  "new": "Even after this it rises upward; except for the hṛdya, avalekhana and vaṭaka, one should not apply a third medicine.",
+  "why": "reviewer (minor): '(kinds)' is an unsupported addition; notes themselves say the line does not say what hṛdya etc. are."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "कठोर कोष्ठ वाले और अत्यन्त तीक्ष्ण अग्नि वाले में, अथवा अल्प वीर्य वाली औषध ऊपर की ओर जाने वाली हो या नीचे की ओर जाने वाली, भोजन के समान पाक को प्राप्त होती है।",
+  "new": "कठोर कोष्ठ वाले और अत्यन्त तीक्ष्ण अग्नि वाले में, अथवा अल्प वीर्य वाली औषध ऊर्ध्वभाग से सम्बन्धित हो या अधोभाग से सम्बन्धित, भोजन के समान पाक को प्राप्त होती है।",
+  "why": "reviewer (minor): Hindi states an action/effect ('going'); bhāgika is only 'pertaining to the upper/lower part'. English 'directed to' is already near the limit."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "उस सुस्निग्ध कोष्ठ वाले को पर्याप्त अन्न और औषध पिलाए।",
+  "new": "उस सुस्निग्ध कोष्ठ वाले को बहुत अन्न और औषध पिलाए।",
+  "why": "reviewer (minor): an-alpa is 'not little'; 'पर्याप्त' (sufficient) is an interpretation."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "अल्प प्रत्यय वाला कषाय, या रूक्ष औषध, स्निग्ध और स्वेदित न किए हुए के द्वारा, अथवा शीत उपचार के साथ पिया जाए, तो वह स्तब्ध दोष वाला, गाँठ पड़ा हुआ अयोगि हो जाता है।",
+  "new": "अल्प प्रत्यय वाला काढ़ा, या रूक्ष औषध, स्निग्ध और स्वेदित न किए हुए के द्वारा, अथवा शीत उपचार के साथ पिया जाए, तो वह स्तब्ध दोष वाला, गाँठ पड़ा हुआ अयोगि हो जाता है।",
+  "why": "reviewer (error): Bare कषाय in Hindi (brief: never bare; glossary: decoction)."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "phala-dāru-pippalī-siddhena",
+  "old": "m. inst. sg. tat-puruṣa",
+  "new": "n. inst. sg. tat-puruṣa",
+  "why": "reviewer (error): Gender m. is wrong: agrees with tailena (n.)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "उसे शीघ्र उल्लिखित करे।",
+  "new": "उसे शीघ्र खुरचे।",
+  "why": "reviewer (error): Wrong sense: उल्लिखित means 'mentioned/written'. ullikhet = 'scrape up'."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "tīkṣṇa-uṣṇaiḥ",
+  "old": "n. inst. pl. dvandva",
+  "new": "dvandva inst. pl.",
+  "why": "reviewer (minor): n. unfounded (noun unstated)."
+ },
+ {
+  "n": "20",
+  "field": "word.w",
+  "word": "sa-śeṣa-ādhmāya",
+  "old": "sa-śeṣa-ādhmāya",
+  "new": "sa-śeṣa-ādhmānāya",
+  "why": "reviewer (minor): 'ādhmāya' is not a Sanskrit word; flag says ādhmānāya is expected but words keep the printed form (rule 6: corrected form belongs in words)."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "The subject of dahati is not stated. śvāsa is left as 'breath (śvāsa)' without naming a disease. basti is rendered 'bladder' here as a body part.",
+  "new": "The subject of dahati is not stated. śvāsa is left as 'breath (śvāsa)' without naming a disease. basti is rendered 'bladder' here as a body part. Printed pāyuvasti: read basti (spelling variant); likewise vasti in unit 22.",
+  "why": "reviewer (minor): Printed 'vasti' (units 21, 22) read as basti in words with no flag; vasti/basti is a spelling variant, but should be noted."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "क्षाम, अल्प बल वाले, मृदु कोष्ठ और अग्नि वाले, रूक्ष, स्निग्ध, स्वेदित, अथवा आम सहित व्यक्ति द्वारा प्रयुक्त बलवान् औषध पित्त सहित वायु को दूषित करके परिकर्तिका उत्पन्न करती है।",
+  "new": "कृश, अल्प बल वाले, मृदु कोष्ठ और अग्नि वाले, रूक्ष, स्निग्ध, स्वेदित, अथवा आम सहित व्यक्ति द्वारा प्रयुक्त बलवान् औषध पित्त सहित वायु को दूषित करके परिकर्तिका उत्पन्न करती है।",
+  "why": "reviewer (minor): Left untranslated while English says 'lean'; reader cannot follow."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "When a strong medicine is taken by one who is lean, of little strength, with soft bowel and soft fire, dry, or oiled, sweated, or with raw (āma) matter, it corrupts wind (anila) together with Pitta and brings about parikartikā (cutting-around pain).",
+  "new": "When a strong medicine is taken by one who is lean, of little strength, with soft bowel and soft fire, dry or oiled, sweated or with raw (āma) matter, it corrupts wind (anila) together with Pitta and brings about parikartikā (cutting-around pain).",
+  "why": "reviewer (minor): Sanskrit pairs are rūkṣa/snigdha 'or', svinna/sāma 'or'; English comma-run obscures it."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "वहाँ नाभि, मूत्राशय, गुदा और मेढ्र में दाह सहित काटने जैसी पीड़ा, वायु का अवरोध और विष्टम्भ होता है।",
+  "new": "वहाँ नाभि, मूत्राशय, गुदा और मेढ्र में दाह सहित चारों ओर से काटना, वायु का अवरोध और विष्टम्भ।",
+  "why": "reviewer (minor): 'जैसी' and 'पीड़ा' are added; also adds the verb 'होता है' although the note says no verb is stated."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "ghṛta-maṇḍena",
+  "old": "with ghee-maṇḍa (the clear upper part of ghee)",
+  "new": "ghee-maṇḍa (kept literal)",
+  "why": "reviewer (error): Gloss 'the clear upper part of ghee' is an identification; brief says keep maṇḍa literal."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "क्षाम के लिए मधुर और बृंहण, सब विधि इष्ट है।",
+  "new": "कृश के लिए मधुर और बृंहण, सब विधि इष्ट है।",
+  "why": "reviewer (minor): Left untranslated (English 'lean')."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "When one has become free of raw (āma) matter (as with treatments of middle strength, as by wind and sun, by scattering dust and ash, and so on), in accordance with Vāta one should employ in food and drink what is light, alkaline and sour; when Vāta is in excess, curd with sour added, joined with the skin of dāḍima.",
+  "new": "When one has become free of raw (āma) matter (as with treatments of middle strength, as by wind and sun, by scattering dust and ash, and so on), in accordance with Vāta one should employ in food and drink what is light, alkaline and sour; when Vāta is in excess, curd together with sour, joined with the skin of dāḍima.",
+  "why": "reviewer (minor): 'added' not in sa-amlam."
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "tīkṣṇaiḥ",
+  "old": "m. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): m. unfounded for unstated noun."
+ }
+]

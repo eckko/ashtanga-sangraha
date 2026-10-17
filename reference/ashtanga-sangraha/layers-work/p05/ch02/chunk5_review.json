@@ -1,0 +1,80 @@
+{
+"units":[
+{"n":"149","verdict":"ok","issues":[]},
+{"n":"150","verdict":"fix","issues":[
+ {"field":"hindi","where":"उसी के समान","problem":"tadvat means 'likewise, in the same way'; 'उसी के समान' reads as 'equal to that'.","fix":"उसी प्रकार","severity":"minor","patch":{"n":"150","op":"replace","field":"hindi","old":"उसी के समान","new":"उसी प्रकार"}},
+ {"field":"confidence","where":"unit","problem":"Verb is supplied by the drafter and the referent of 'tadvat' is not stated, so 'high' is too firm.","fix":"medium","severity":"minor","patch":{"n":"150","op":"set","field":"confidence","value":"medium"}},
+ {"field":"notes","where":"notes","problem":"Note does not say that the referent of tadvat (the leha of the previous unit) is only inferred.","fix":"add note","severity":"minor","patch":{"n":"150","op":"append_note","text":"'tadvat' is taken as 'in the same way' as the leha of the previous unit; the referent is not stated."}}]},
+{"n":"151","verdict":"fix","issues":[
+ {"field":"notes","where":"(a salt-name)","problem":"Identifies viḍa as a salt; nothing in the text says so (no identification rule).","fix":"remove the parenthesis","severity":"error","patch":{"n":"151","op":"replace","field":"notes","old":" (a salt-name)","new":""}}]},
+{"n":"152","verdict":"fix","issues":[
+ {"field":"gloss","where":"viḍi","problem":"The word entry gives a firm-looking gloss 'in stool' for a guessed reading of printed 'viśi' (unit is flagged low-confidence).","fix":"in stool (doubtful reading)","severity":"minor","patch":{"n":"152","op":"word","match_w":"viḍi","field":"gloss","value":"in stool (doubtful reading)"}},
+ {"field":"english","where":"in the stool","problem":"Both translations state the guess 'stool' / 'मल' as the text's meaning; the printed word is 'viśi' and no sense is secure. Notes admit this but the translations do not signal it. Suggest English: 'In obstruction (vibandha), in viśi (reading doubtful), and in gulma risen from Vāta, it is beneficial when joined with something sour.' Hindi needs a human decision (no brackets allowed), e.g. keep 'विशि' in Devanagari.","fix":"see problem","severity":"error"}]},
+{"n":"153","verdict":"fix","issues":[
+ {"field":"split","where":"tad-mūlaiḥ","problem":"Dictionary form of the first member is tat (tanmūla = tat + mūla); 'tad-' is not the base form.","fix":"tat-mūlaiḥ","severity":"minor","patch":{"n":"153","op":"word","match_w":"tad-mūlaiḥ","field":"w","value":"tat-mūlaiḥ"}}]},
+{"n":"154","verdict":"ok","issues":[]},
+{"n":"155","verdict":"ok","issues":[]},
+{"n":"156","verdict":"fix","issues":[
+ {"field":"english","where":"(a satiating preparation)","problem":"'preparation' / 'drink' (gloss) is an addition; tarpaṇa literally 'satiating, satisfying'.","fix":"(satiation)","severity":"minor","patch":{"n":"156","op":"replace","field":"english","old":"(a satiating preparation)","new":"(satiation)"}},
+ {"field":"gloss","where":"tarpaṇam","problem":"Gloss 'satiating drink' adds 'drink'.","fix":"tarpaṇa, satiation","severity":"minor","patch":{"n":"156","op":"word","match_w":"tarpaṇam","field":"gloss","value":"tarpaṇa, satiation"}}]},
+{"n":"157","verdict":"ok","issues":[]},
+{"n":"158","verdict":"ok","issues":[]},
+{"n":"159","verdict":"fix","issues":[
+ {"field":"hindi","where":"प्रशस्त माना जाता है","problem":"śasyate = 'is praised/recommended'; 'माना जाता है' (is considered) adds a different sense.","fix":"प्रशंसित है","severity":"minor","patch":{"n":"159","op":"replace","field":"hindi","old":"प्रशस्त माना जाता है","new":"प्रशंसित है"}},
+ {"field":"text_flags","where":"bāte","problem":"'b/v confusion common in this edition' is an unverified claim about the edition; also the correction is near-certain (Vāta), so say 'b/v interchange; vāta is the term meant'.","fix":"b/v interchange; 'vāta' is the term meant (cf. vātotthe in unit 152)","severity":"minor"}]},
+{"n":"160","verdict":"fix","issues":[
+ {"field":"english","where":"a pala each","problem":"Low-confidence line, but both translations commit to a distributive reading of 'palaṃ palaṃ'; notes list alternatives. Acceptable only with confidence low (kept); a human may prefer the neutral 'a pala, a pala'.","fix":"keep, confidence low","severity":"minor"}]},
+{"n":"161","verdict":"ok","issues":[]},
+{"n":"162","verdict":"fix","issues":[
+ {"field":"gram","where":"ekam","problem":"'n. acc. sg.' is wrong beside masculine modakān; ekam (acc. sg. m./n.) here is taken as 'one' of the balls.","fix":"m./n. acc. sg. (taken as 'one')","severity":"minor","patch":{"n":"162","op":"word","match_w":"ekam","field":"gram","value":"m./n. acc. sg. (taken as 'one')"}}]},
+{"n":"163","verdict":"ok","issues":[]},
+{"n":"164","verdict":"fix","issues":[
+ {"field":"hindi","where":"परहेज़","problem":"Colloquial Persian-origin word; brief asks for standard literary Hindi; parihāra = परिहार.","fix":"परिहार","severity":"minor","patch":{"n":"164","op":"replace","field":"hindi","old":"परहेज़","new":"परिहार"}}]},
+{"n":"165","verdict":"ok","issues":[]},
+{"n":"166","verdict":"fix","issues":[
+ {"field":"notes","where":"notes","problem":"Notes do not say that the printed negation sits oddly with unit 167 (harītakī to be prepared 'also' by the trivṛt method). No emendation should be proposed.","fix":"add note","severity":"minor","patch":{"n":"166","op":"append_note","text":"Sense check: the negation sits oddly beside the next unit, which prepares harītakī 'also' by the trivṛt method. The printed text is kept; a misprint is possible but no emendation is proposed."}}]},
+{"n":"167","verdict":"ok","issues":[]},
+{"n":"168","verdict":"fix","issues":[
+ {"field":"english","where":"the belly-ailment (udara)","problem":"'ailment' is added; udara is 'belly' (draft's own note says plain sense is belly; unit 158 renders 'belly').","fix":"the belly (udara)","severity":"error","patch":{"n":"168","op":"replace","field":"english","old":"the belly-ailment (udara)","new":"the belly (udara)"}},
+ {"field":"notes","where":"'udara' is taken as the ailment","problem":"Contradicts the corrected translation.","fix":"plain sense","severity":"minor","patch":{"n":"168","op":"replace","field":"notes","old":"'udara' is taken as the ailment of the belly; plain sense 'belly'.","new":"'udara' is rendered with its plain sense 'belly'; it could also be a named ailment."}}]},
+{"n":"169","verdict":"ok","issues":[]},
+{"n":"170","verdict":"ok","issues":[]},
+{"n":"171","verdict":"ok","issues":[]},
+{"n":"172","verdict":"ok","issues":[]},
+{"n":"173","verdict":"fix","issues":[
+ {"field":"text_flags","where":"pathyātrivṛddhāṃ","problem":"The metre does not support the emendation (printed and suggested forms both give 16 syllables); only the sense does. The 'why' should say 'possible' and drop the metre argument.","fix":"possible: 'ddhāṃ' is not a valid ending here; dual 'bhyāṃ' (द्धां/भ्यां look alike) fits the sense","severity":"minor"}]},
+{"n":"174","verdict":"fix","issues":[
+ {"field":"notes","where":"notes","problem":"'śuṣkāḥ' (dry) and 'ghṛtadrutāḥ' (melted in ghee) sit together without comment.","fix":"add note","severity":"minor","patch":{"n":"174","op":"append_note","text":"'dry' and 'melted in ghee' both qualify the pills as printed; how they fit together is not stated."}}]},
+{"n":"175","verdict":"fix","issues":[
+ {"field":"english","where":"a pungent thing","problem":"'thing' is an addition; the text has only kaṭu.","fix":"kaṭu (pungent)","severity":"minor","patch":{"n":"175","op":"replace","field":"english","old":"a pungent thing","new":"kaṭu (pungent)"}}]},
+{"n":"176","verdict":"fix","issues":[
+ {"field":"hindi","where":"चूर्ण में मोदक बनाए","problem":"Locative absolute rendered as 'in the powder' (balls made in the powder); the English is right.","fix":"पथ्या का चूर्ण स्नुक् के क्षीर से भावित हो जाने पर मोदक बनाए।","severity":"minor","patch":{"n":"176","op":"set","field":"hindi","value":"पथ्या का चूर्ण स्नुक् के क्षीर से भावित हो जाने पर मोदक बनाए।"}}]},
+{"n":"177","verdict":"ok","issues":[]},
+{"n":"178","verdict":"fix","issues":[
+ {"field":"english","where":"belly-ailment,","problem":"'ailment' added to udara (see 158, 168).","fix":"belly (udara),","severity":"error","patch":{"n":"178","op":"replace","field":"english","old":"belly-ailment,","new":"belly (udara),"}}]},
+{"n":"179","verdict":"ok","issues":[]},
+{"n":"180","verdict":"ok","issues":[]},
+{"n":"181","verdict":"ok","issues":[]},
+{"n":"182","verdict":"fix","issues":[
+ {"field":"text_flags","where":"saṃśleṣa viśleṣa...","problem":"Notes say a hyphen/space is missing but text_flags is empty. Add: {src:'saṃśleṣa viśleṣakālasaṃskārayuktibhiḥ', suggest:'saṃśleṣaviśleṣakālasaṃskārayuktibhiḥ', why:'possible: space inside one compound'}.","fix":"add the flag","severity":"error"},
+ {"field":"gram","where":"saṃśleṣa","problem":"Word is listed alone as 'm. nom. sg.' while the second token's gloss also includes it; inconsistent. Better: first token word 'saṃśleṣa-' as compound member, and keep second token without it, or keep saṃśleṣa in one place only.","fix":"state it once","severity":"minor"},
+ {"field":"hindi","where":"कर सकता है","problem":"'can' adds ability; kuryāt is optative ('may/should do').","fix":"संश्लेष, विश्लेष, काल, संस्कार और युक्ति के द्वारा करे।","severity":"minor","patch":{"n":"182","op":"set","field":"hindi","value":"संश्लेष, विश्लेष, काल, संस्कार और युक्ति के द्वारा करे।"}},
+ {"field":"confidence","where":"unit","problem":"Subject missing and a spacing typo; 'high' too firm.","fix":"medium","severity":"minor","patch":{"n":"182","op":"set","field":"confidence","value":"medium"}}]},
+{"n":"183","verdict":"fix","issues":[
+ {"field":"text_flags","where":"tvakkesarā -> tvakkesarām","problem":"Suggestion 'tvakkesarām' contradicts its own 'why'. The error is a stray space: 'tvakkesarā mrātaka...' should read 'tvakkesarāmrātaka...' (tvak-kesara-āmrātaka).","fix":"src 'tvakkesarā mrātakadāḍimailāsitopalāmākṣikamātuluṃgaiḥ'; suggest 'tvakkesarāmrātakadāḍimailāsitopalāmākṣikamātuluṃgaiḥ'; why 'possible: stray space inside one compound'","severity":"error"},
+ {"field":"split","where":"tvak-kesara-āmrātaka","problem":"First token's word contains 'āmrātaka', whose letters 'mrātaka' belong to the second token; the second token's words omit it. Acceptable only if the flag above is present.","fix":"keep, tie to the flag","severity":"minor"}]},
+{"n":"184","verdict":"fix","issues":[
+ {"field":"english","where":"mixed with wine","problem":"'wine' is narrower than madya (the draft's own note: intoxicating drink).","fix":"mixed with madya (an intoxicating drink)","severity":"minor","patch":{"n":"184","op":"replace","field":"english","old":"mixed with wine","new":"mixed with madya (an intoxicating drink)"}},
+ {"field":"gloss","where":"madyena","problem":"Same.","fix":"with madya (intoxicating drink)","severity":"minor","patch":{"n":"184","op":"word","match_w":"madyena","field":"gloss","value":"with madya (intoxicating drink)"}}]},
+{"n":"185","verdict":"ok","issues":[]}
+],
+"glossary_suggestions":[
+ "udara = 'belly' everywhere (units 158, 168, 178); never 'belly-ailment' unless the text names the disease (plīhodara).",
+ "madya = 'madya (an intoxicating drink)', not 'wine'.",
+ "tarpaṇa = 'tarpaṇa (satiation)'; no 'drink' or 'preparation'.",
+ "viḍa: 'drug name' only; do not call it a salt.",
+ "Hindi कुष्ठ now also names a modern disease: where kuṣṭha is a drug (unit 179) gloss it 'drug name' and note it in notes.",
+ "colophon lines (iti ... nāma ... adhyāyaḥ): typed 'prose', English 'Thus the N-th chapter, named X'."
+],
+"summary":"Reviewed units 149-185. 31 issues: 6 error (151 'salt-name' identification; 152 guessed 'stool' stated as translation; 168 and 178 'belly-ailment' added; 182 missing text_flag; 183 wrong text_flag suggestion), 25 minor. Low-confidence units 152, 155, 160, 166 are correctly low; verbs in 150 and 156 are disclosed in notes (150 confidence lowered). Unit 185 is correctly noted as colophon. Regrouping: sense runs 154-156 (one sentence), 160-163 (recipe, one sentence), 178-179 (one sentence), 181-184 (one sentence); unit 185 should be typed prose/colophon. No unit needs splitting."
+}

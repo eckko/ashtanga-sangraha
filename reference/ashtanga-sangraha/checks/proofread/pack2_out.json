@@ -1,0 +1,422 @@
+[
+ {
+  "id": "02.02.13",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "जरायुरित्यन्ये ॥",
+  "why": "doubled u-sign"
+ },
+ {
+  "id": "02.03.116",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "भार्गीनागरदेवदारुकल्कं वोष्णाम्भसा ॥",
+  "why": "garbled word-start with stray vowel signs; likely a name like भार्गी"
+ },
+ {
+  "id": "02.03.126",
+  "kind": "stray",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "'=' marks an equivalent name in the edition's own style"
+ },
+ {
+  "id": "02.04.79",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तदसिद्धौवीरणशालिकुशकाशेक्षुबालिकावेतसपरिव्याधमूलानां भूतिकांनंतकाश्मर्यपरूषकमधुकमृद्वीकानां च पयसाऽर्द्धोदकेनोद्धृत्य रसं तेन पियालबिभीतकमज्जतिलकल्कयुक्तेनेषल्लवणोष्णेन निरूहयेत् ॥",
+  "why": "doubled e-sign in वेतस"
+ },
+ {
+  "id": "02.04.138",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "दैवोपघात",
+  "why": "stray ा after े in दैवाेपघात"
+ },
+ {
+  "id": "02.05.57",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "साऽग्निनोपस्तब्धोपबृंहितैकयोगक्षेमा",
+  "why": "stray ा after े in अग्निनाेप"
+ },
+ {
+  "id": "02.05.91",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मांसं तृतीयं",
+  "why": "'.' typed for a space"
+ },
+ {
+  "id": "02.05.252",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "भवंतीति",
+  "why": "'|' inside word, broken भवंतीति"
+ },
+ {
+  "id": "02.06.2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "प्रत्यंगान्योजो",
+  "why": "stray ा after ो"
+ },
+ {
+  "id": "02.06.18",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "उपरि रोमराजीमुभयतो द्वे द्वे ता अपि चतस्रः",
+  "why": "dropped र and space in उपरिोमराजी; ताअपि needs space"
+ },
+ {
+  "id": "02.07.29",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अधःकाये",
+  "why": "'.' typed for visarga"
+ },
+ {
+  "id": "02.07.98",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ऊर्ध्वं श्वसिति कृच्छ्रेण",
+  "why": "stray ि/ा in श्वािसति; verb is श्वसिति"
+ },
+ {
+  "id": "02.10.15",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स्वास्थ्यायाविधिना",
+  "why": "garbled स्वास्थ्येाधाय; stray vowel signs, sense needs स्वास्थ्याय अविधिना"
+ },
+ {
+  "id": "02.12.12",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शिवाश्यामापिंगला / गृहगोधिकैकशफाश्च",
+  "why": "stray ि after ा in श्यामािपंगला and ा after ै in गोधिकाैक"
+ },
+ {
+  "id": "03.08.43",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "करपादयोः",
+  "why": "anusvara plus visarga on योंः"
+ },
+ {
+  "id": "03.11.59",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स्वनिवेशादधो नयेत् ॥",
+  "why": "doubled e-sign in स्वनिबेेश"
+ },
+ {
+  "id": "03.13.82",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "विण्मूत्रशुक्रोपहतमलवद्वस्त्रसंकरात् ॥",
+  "why": "stray ा after ो"
+ },
+ {
+  "id": "03.13.93",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तृष्णातियोगाद्वेगानां",
+  "why": "doubled ा"
+ },
+ {
+  "id": "03.14.36",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सकंडूपिडका श्यावा",
+  "why": "stray ि after ू"
+ },
+ {
+  "id": "03.14.92",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नवौदनैः",
+  "why": "stray ै before ौ"
+ },
+ {
+  "id": "03.14.105",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "षट् ते कुष्ठैककर्माणः सहसौस्समातहः",
+  "why": "stray ै in सहसौस्समैातहः; word is garbled beyond that"
+ },
+ {
+  "id": "04.02.34",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "गोजिह्वा",
+  "why": "stray ि in गोजििव्हा"
+ },
+ {
+  "id": "04.03.22",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "'...' placeholder shows text missing after त्रिवृच्छ्यामाकषा"
+ },
+ {
+  "id": "04.04.9",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "क्षाररास्नावचाहिंगु",
+  "why": "stray ि in वचांिहगु"
+ },
+ {
+  "id": "04.04.12",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स श्वासकासतृत्पार्श्वग्रहणीरोगगुल्मनुत् ॥",
+  "why": "stray '.' and spaces in 'स .'"
+ },
+ {
+  "id": "04.04.16",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कर्षैस्तैर्विपाचितः",
+  "why": "doubled ai-sign"
+ },
+ {
+  "id": "04.04.65",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "महौषधं",
+  "why": "stray ो before ौ"
+ },
+ {
+  "id": "04.04.110",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "यवमुद्गकुलत्थैश्चोष्णरूक्षैः",
+  "why": "repeated ai-sign (four)"
+ },
+ {
+  "id": "04.05.47",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तैलैश्चानिलरोगघ्नैः",
+  "why": "repeated ai-sign and stray space in तै लैैैैश्च"
+ },
+ {
+  "id": "04.05.58",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तैः पचेत्सर्पिषः प्रस्थं कर्षांशैः श्लक्ष्णकल्कितैः",
+  "why": "garbled कषौैशैः (cf. कर्षैस्तैः) and stray anusvara in कल्किंतैः"
+ },
+ {
+  "id": "04.05.92",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तैराशुतरमाप्नुयात्",
+  "why": "repeated ai-sign"
+ },
+ {
+  "id": "04.06.127",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "जीवंती बिल्वपेशिका",
+  "why": "'.' typed after जीवंती"
+ },
+ {
+  "id": "04.08.40",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सशारिवापरूषाख्यं",
+  "why": "stray ि and ा in ससास्विा; candidate सशारिवा"
+ },
+ {
+  "id": "04.08.164",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "रोधांजनांबु",
+  "why": "stray anusvara+ा in अंजनंांबु"
+ },
+ {
+  "id": "04.08.178",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "गुडांबु",
+  "why": "stray anusvara+ा in गुडंांबु"
+ },
+ {
+  "id": "04.08.189",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पूर्वामयक्षीणो",
+  "why": "stray ो after ी in क्षीो; likely क्षीणो"
+ },
+ {
+  "id": "04.09.22",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "परं ततोऽनुबंधाति यो रोगस्तस्य भेषजं",
+  "why": "broken space in अनुब ंधाति; stray त in तस्यत"
+ },
+ {
+  "id": "04.09.23",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "यथायथं प्रयुंजीत कृतपानात्ययौषधं",
+  "why": "stray ि in यथाियथं; कृन/प्रयुंजीन are likely त misreads"
+ },
+ {
+  "id": "04.09.26",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "यवानीहपुषाऽजाजीव्योषत्रिलवणार्द्रकैः",
+  "why": "stray ा after े in व्याेष"
+ },
+ {
+  "id": "04.09.50",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "हृदयोरसि",
+  "why": "stray ा after ो"
+ },
+ {
+  "id": "04.09.84",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अशाम्यत्यथवा",
+  "why": "doubled ा"
+ },
+ {
+  "id": "04.09.170",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पुष्टिरिति च स्तुता",
+  "why": "stray ा after ि"
+ },
+ {
+  "id": "04.09.173",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मेदोऽनिलकफोद्भवाः",
+  "why": "stray ा after ो; anushtubh needs avagraha"
+ },
+ {
+  "id": "04.09.194",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सजलाविधिलेखक्षौमवस्त्रावृतांगैः",
+  "why": "tripled ि in विििध"
+ },
+ {
+  "id": "04.09.197",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कार्मणं",
+  "why": "double virama in कार््मणं"
+ },
+ {
+  "id": "04.10.24",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कृष्णाहिबिडालैः",
+  "why": "stray ि in कृष्णािहि"
+ },
+ {
+  "id": "04.10.25",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "केशाहिनिर्मोकबिडालचर्मभिः",
+  "why": "stray ि in केशािहनिर्मोक"
+ },
+ {
+  "id": "04.10.68",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तैलान्यतमेन",
+  "why": "stray े and ा in तैलेान्यतममेन"
+ },
+ {
+  "id": "04.10.123",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कुटजत्वक्फलानिविषारसांजनानि",
+  "why": "doubled ि in फलानििवषा"
+ },
+ {
+  "id": "04.10.142",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शर्करोपेतः",
+  "why": "stray ा after ो"
+ },
+ {
+  "id": "04.10.201",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कुनामसु",
+  "why": "stray ै after ु in कुैनामसु"
+ },
+ {
+  "id": "04.11.71",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शूलार्तस्तु",
+  "why": "doubled ा"
+ },
+ {
+  "id": "04.11.116",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "वा पाठाऽतिविषा",
+  "why": "stray '.' before पाठा"
+ },
+ {
+  "id": "04.12.2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "वारुणीमंडेन",
+  "why": "doubled e-sign"
+ },
+ {
+  "id": "04.12.46",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "दशमूलवीरार्द्रात्रिफला",
+  "why": "misplaced ि: वीरार्द्रिात्रफला"
+ },
+ {
+  "id": "04.12.83",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "आमभोजनेन",
+  "why": "initial अा for आ"
+ },
+ {
+  "id": "04.12.97",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "आविकं",
+  "why": "initial आा for आ"
+ },
+ {
+  "id": "04.13.26",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तंडुलजलालुलितानि",
+  "why": "stray ा/ु in जलाुलितानि"
+ },
+ {
+  "id": "04.14.7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "प्रयोगैर्वामयेद्विरेचयेच्च",
+  "why": "stray ा before ै in प्रयोगाैः"
+ },
+ {
+  "id": "04.14.72",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "दुर्विरेच्या",
+  "why": "doubled u-sign"
+ }
+]

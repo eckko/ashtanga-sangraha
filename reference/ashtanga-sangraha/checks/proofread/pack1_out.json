@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01.01.6",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "श्रीसीतारामचंद्राय नमः ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.03.140",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "न प्रतिस्फालयेदंबु पाणिना चरणेन वा ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.03.179",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नृत्यवादित्रगीतादिनोल्बणां नाचरेत्क्रियां ॥",
+  "why": "e+aa matras on one letter; नोल्बणां intended"
+ },
+ {
+  "id": "01.05.64",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "उचितैरपि चाहारैर्यस्मादस्य वर्द्धंति न ॥",
+  "why": "doubled ai-matra"
+ },
+ {
+  "id": "01.06.4",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सूर्येंदुतप्रमुक्तत्वालघु वातकफापहं ॥",
+  "why": "doubled o/e matra; सूर्य+इंदु gives सूर्येंदु"
+ },
+ {
+  "id": "01.06.79",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "भक्तस्यादौ जलं पीतमग्निसाद कृशांगतां ॥",
+  "why": "stray anusvara and aa-matra; अग्निसादं fits"
+ },
+ {
+  "id": "01.06.99",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तृष्णापित्तानलहरं दीपनं बस्तिशोधनं ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.06.171",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "हृद्यःपुराणः पथ्यश्च नवः श्लेष्माग्निसादकृत् ॥",
+  "why": "virama then aa-matra; श्लेष्माग्निसादकृत्"
+ },
+ {
+  "id": "01.06.209",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सुवर्चलेंगुदीपीलुशंखविनीपसंभवं ॥",
+  "why": "stray i-matra and space inside शंख"
+ },
+ {
+  "id": "01.06.212",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अर्शःकुष्ठकृमिश्लेष्मशुक्रमेदोनिलापहं ॥",
+  "why": "doubled o/aa matra"
+ },
+ {
+  "id": "01.07.27",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शिंबिरो दारुनीवारवरू कूबरकोत्कटाः ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.07.45",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शिंबजा मुद्गमंगल्यवनमुद्गमकुष्टकाः ॥",
+  "why": "stray i-matra after anusvara"
+ },
+ {
+  "id": "01.08.17",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स सम्यक्संपन्नमन्नं सुपरीक्षितं विशुद्धमग्न्यादिषु प्रागुपनीतं शिखिना दृष्टमभिप्रेक्षितं प्रोक्षणैः पुरस्थितोराजानं हस्तबद्धौषधिरन्नं भोजयेत् ॥",
+  "why": "two vowel signs; प्रेक्षितं avoids repeating the following प्रोक्षणैः"
+ },
+ {
+  "id": "01.08.309",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "रक्षाशक्तिं तथोच्छीर्षे सयवांकुर्यादवकां ॥",
+  "why": "doubled aa-matra and a dropped letter; reading uncertain"
+ },
+ {
+  "id": "01.08.316",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इति विषगररक्षोरक्षणायोपदेशं भजति नरपतिर्यो नित्यमेवाप्रमत्तः ॥",
+  "why": "aa+o matras on one letter"
+ },
+ {
+  "id": "01.09.63",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "वार्यूखरेरात्रिषु सक्तवश्च तोयांतरास्ने यवकास्तथैव ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.09.98",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "दिवास्वप्नो हितोऽन्यस्मिन्कफपित्तकरो हि सः ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.09.136",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सर्पिः क्षीरानुपानं च जीवनीयैः शृतं पिबेत् ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.09.152",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नानशितो नात्यशितो वृष्याणां तर्पितरूग्रहान् ॥",
+  "why": "vowel signs on wrong letters; नानशितो intended"
+ },
+ {
+  "id": "01.09.173",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अप्रमत्तो भजेद्द्रवांस्तदात्वसुखसंज्ञकान् ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.09.233",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "दैर्घ्यश्रवसमाद्यैर्विहितः स्वात्मनो वधः ॥",
+  "why": "two vowel signs"
+ },
+ {
+  "id": "01.13.34",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "मृद्घृष्टलोष्टप्रसादश्छर्दितृष्णातियोगप्रशमनानां ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.13.162",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "vowel sign after independent vowel अे; the intended word is not recoverable from the lines given"
+ },
+ {
+  "id": "01.17.67",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "लशुनोऽपि स्नेहौष्ण्यगौरवैः ॥",
+  "why": "aa+au matras on one letter"
+ },
+ {
+  "id": "01.17.73",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "इत्येतन्निदर्शनमात्रमुक्तं ॥",
+  "why": "doubled e-matra"
+ },
+ {
+  "id": "01.19.96",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पांड्वामयं शोणितगो मांससंस्थोऽर्बुदापचीः ॥",
+  "why": "stray aa-matra after ु; पांडु+आमय sandhi"
+ },
+ {
+  "id": "01.20.124",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सन्निरुध्यात्तदा कुर्यात्तंद्रागौरवं ज्वरं ॥",
+  "why": "stray u-matra"
+ },
+ {
+  "id": "01.20.126",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सन्निरुध्यात्तदा कुर्याच्छीतकं गौरवं रुजं ॥",
+  "why": "stray u-matra"
+ },
+ {
+  "id": "01.20.128",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सन्निरुध्यात्तदा कुर्यान्मंदाग्नित्वंशिरोपहं ॥",
+  "why": "stray u-matra"
+ },
+ {
+  "id": "01.21.2",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "वातस्योपक्रमः स्नेहः स्वेदो मृदूर्नि स्निग्धोष्णमधुराम्ललवणानि संशोधनान्यभ्यवहार्याणि चाभ्यंगपूर्वमुपनाहनोपवेष्टनोन्मर्दनपरिषेकावगाहसंवाहनपीडनानि चित्रासनविस्मापनविस्मरणानि सुरासवविधानं स्नेहाश्चानेकयोनयो दीपनीयपाचनीयवातहरविरेचनीयद्रव्योपहितास्तथा शतपाकसहस्रपाकाः सर्वशः प्रयोगाार्था बस्तयो बस्तिनियमो विशेषतस्तैलंमांसरसोऽनुवासनानि सुखशीलता स्त्रीसंपर्कवर्जनश्च हैमंतो विधिः ॥",
+  "why": "stray aa-matra and halant; अभ्यवहार्याणि"
+ },
+ {
+  "id": "01.21.11",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सागराकारितोयाशयोपतीरमुनिविष्टकुसुमितबहुविटपपृथुतुंगविविधतरु निवहबहलच्छायोपसंच्छन्नं धवलरक्तनीलनीरज रजोव्याप्तसमस्तजलविपुलसिकतिलोपकल्पितं दोलायमानगलदुदककलशशरणकरकस्त्रवदुदकप्रवाहाहितमृत्सौरभभूतलैकदेशं प्रलंबमानाम्रजंबूकदंबविदुलनिचुलादिकिसलयमंजरीफलस्तबकमृत्युसपटालिकं मुहुर्मुहुः पुरुषप्रयत्नप्रेरितघटमुखोद्गीर्णोशीरचंदनानुविद्धावलम्वपतितशेषमुक्ताफलायमानजललवमुच्छ्रायविस्तारवदनिषिद्धदूरविस्तृतशीतवातप्रवेशमत्यर्थसततांबुशीतशीकराभिषेकप्रतिहतसंतापदाहमोहश्रमक्लमिपपासमतिशयप्राप्तरामणीयकं हिमाचलस्पर्द्धिशैत्यमंबुधरकाललीलाविडंबि कोंयमानं ॥",
+  "why": "aa+o matras on one letter; stray space in निवहबहल"
+ },
+ {
+  "id": "01.23.24",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शरीरबलादधिकानि ग्लानिमूर्च्छामदमोहबलक्षयानग्निबलादधिकानि ग्लानिमग्निसादं च ॥",
+  "why": "stray anusvara and aa-matra; अग्निसादं fits"
+ },
+ {
+  "id": "01.23.58",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "औषधग्रामस्तु जलदोदरमंततप्रमुक्तधारावपातसंभृतांबु निवहोप्लावितमूलजालसारविटपो बहलकोमलपहवोपचितस्कंधशाखः पुनरिव बालतामुपगतोऽल्पवीर्यो भवति ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.24.64",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "चिंतान्यवायव्यायामशोधनास्वपनं भजेत् ॥",
+  "why": "doubled aa-matra and misplaced space"
+ },
+ {
+  "id": "01.24.119",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "समघष्णासितातैलक्षौद्राज्यो हि संतर्पणः ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.25.66",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "वैद्यो दद्याद्बहुकफे क्षारत्रिकटुकान्वितं ॥",
+  "why": "stray i-matra"
+ },
+ {
+  "id": "01.25.116",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अजीर्णबलवत्यां तु शीतार्द्याच्छिरोमुखं ॥",
+  "why": "i-matra after virama"
+ },
+ {
+  "id": "01.27.9",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "सलिलापममेनानिष्पन्नशाल्यादिवत् ॥",
+  "why": "stray aa/i-matras, letter dropped in सलिल; rest of reading uncertain"
+ },
+ {
+  "id": "01.27.27",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कृमिकोष्ठस्यास्थापनेनाध: पूर्वमनिर्हृतौ कृमिभिरतिवहुत्वादशेषानिःसरणेन हृदयमतिकर्षद्भिश्चर्द्देषोऽतिप्रवृत्ति:स्यात् ॥",
+  "why": "full stop for visarga"
+ },
+ {
+  "id": "01.27.31",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अथ विरेचनसाध्या जीर्णज्वरोष्वंरक्तपे तगुल्मवेद्विप्लीहाऽशौ भगंदरोदरकृमिकोष्ठमूत्राघातरेनयोनियोनिदोषवातशोणितहलीमकव्यंगतिमिरकाचाभिष्यंदाक्षिपाकक्षाराग्निदग्धदुष्टव्रणशिर:पक्वाशयशूलोदावर्त्तवेबंधच्छर्द्दिविस्फोटादयो वम्योक्ताश्च विसूचिकादयो दोषभेदीयोक्ताश्च पित्तन्याधयो विशेषेण ॥",
+  "why": "stray full stops; the words around them are also garbled"
+ },
+ {
+  "id": "01.27.38",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "राजयक्ष्मार्तस्य क्षीणधातुतया मलत्रलत्वं तदभावाद्देहनाश: स्यात् ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.27.45",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अथ साधारणे काले सम्यक्स्निग्धस्विन्नमनुपहतमानसं सुच्छर्द्दयितव्यमिति ग्राम्यानूपौदकमृगमांसरसक्षीरदधिमाषतिलरललशाकादिभिर्द्रवप्रायै: समुत्क्लेशितश्लेष्माणं सुखोषितं जीर्णाहारं पूर्वाह्णे स्नातानुलिप्तं स्त्रग्विणमहतवाससं देवताऽग्निद्विजगुरुवृद्धवैद्यानर्चितवंतं कृतहो मवलमंगलप्रायश्चित्तस्वस्तिवाचनं जानुसमसंस्तृतमहोपधानोपाश्रयासनोपविष्टंनिरन्नमीषत्स्निग्धं वा यवागुमंडेन घृतमात्रां पीतवंतं भीरुशशबालवृद्धसुकुमारान्त्रा दोषानुरूपेणाकंठं पीतक्षीरतक्रयूषेक्षुमांसरसमद्यनुपोदकयवागुमंडान्यतमं नक्षत्रतिथिकरणमुहूर्त्तोदये प्रशस्ते यथान्याधिदोषदृष्यादिविहितामौषधमात्रां मधुसैंधवयुक्तां सुखोष्णां ब्राह्मणयुक्ताभिराशीर्भिरभिमंत्रितां पुनश्च ॥",
+  "why": "stray full stops"
+ },
+ {
+  "id": "01.27.111",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "यथा च वमने स्वेदप्रसेकौषधककपित्तानिलाः क्रमेण प्रवर्तते तथा विरेचने वातमूत्रपुरीषपित्तकफाः पुनभ्रांतो वायुः दोषाणां हि देहे तथःसन्निवेशान्मार्गवैपरीत्याच्चशोधनयोरिति ॥",
+  "why": "stray full stop"
+ },
+ {
+  "id": "01.27.114",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "प्रवृत्ते च दीप्ताग्नेः स्निग्धवपुषो बहुदोषस्याल्पे दोषे नैव वा प्रवृत्तेऽल्पदोषस्यापि जीर्णभेषजस्याह शेषंबलं चापेक्ष्य भूयो मात्रां विदध्यात् ॥",
+  "why": "full stop for a dropped द"
+ },
+ {
+  "id": "01.27.126",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अतिवैरक्कात्तु केबलं दोषरहितमुदकं रक्तं वा मेदोमांसधावनोपमं कृष्णं वा प्रवर्त्तते ॥",
+  "why": "stray full stop; word also looks garbled"
+ },
+ {
+  "id": "01.27.157",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "शर्कार्त्रहूं य वा किंचित्तीक्ष्णाभिः फलवर्तिभिः ॥",
+  "why": "stray full stop and dropped halant त्"
+ },
+ {
+  "id": "01.27.164",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ऊषादिभिर्यथोक्तेश्य नियतेबासतौ मलः ॥",
+  "why": "vowel sign after independent vowel"
+ },
+ {
+  "id": "01.28.89",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "stray ू after वि in सैंधवचूर्णविूर्णितं; true word not recoverable here"
+ },
+ {
+  "id": "01.29.4",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नासाहि शिरसो द्वारं तत्रावसेचितमौषधं स्त्रोतःशृंगाटकं प्राप्य व्याप्यमूर्द्धानं नेत्रश्रोत्रकंठदिसिरामुखानि च मुंजादिषीकामिवासक्तामूंर्ध्वजत्रुगतां वैकारिकीमशेषामाशु दोषसंहतिमुत्तमांगादपकर्षति ॥",
+  "why": "stray i-matra"
+ },
+ {
+  "id": "01.30.18",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "stray aa-matra after ू in स्यूाहार; true word not recoverable here"
+ },
+ {
+  "id": "01.31.42",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "न तु योज्यो रात्रिजागरिताजीर्णदत्तनस्यारुचिहनुग्रहानिश्यायिनां ॥",
+  "why": "stray i-matra"
+ },
+ {
+  "id": "01.33.3",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "",
+  "why": "vowel sign after independent vowel in नाईेषु; true word not recoverable here"
+ },
+ {
+  "id": "01.33.24",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अथ बिल्वमात्रं वेसवारीकृतं मांसपिंडं तन्मात्रेणैवौषधपिंडेनसंसृष्टैरण्डपटोलपत्रैः स्नेहनादिषु क्रमाद्वेष्टयित्वा कुशमुंजसूत्रान्यतमेनवेष्टयेत् ॥",
+  "why": "aa+au matras on one letter"
+ },
+ {
+  "id": "01.34.9",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स्वस्तिकसंदंशतालनाडीशलाकार्व्यान्यनुयंत्राणि च ॥",
+  "why": "doubled aa-matra"
+ },
+ {
+  "id": "01.34.68",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "नासार्शोऽर्बुदयोः कोलास्थिदलमात्रमुखा खल्लीतीक्ष्णोष्ठा ॥",
+  "why": "e+aa matras; dual अर्बुदयोः"
+ },
+ {
+  "id": "01.35.7",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "पद्मोत्पलसौगंधिकादिसुगंधविमलविपुलसलिलशैवालजाः शैवालश्यावा नीलोर्ध्वराजयो हस्ताभ्र निर्विषाः ॥",
+  "why": "e+aa matras on one letter"
+ },
+ {
+  "id": "01.35.49",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "त्वक्स्थेऽलावुघटीशृंगं सिरैव व्यापकेऽसृजि ॥",
+  "why": "aa+ai matras on one letter"
+ },
+ {
+  "id": "02.01.57",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "काश्मर्यक्षुद्रसहासिद्धं वा क्षीरं ॥",
+  "why": "stray ू and ि matras"
+ },
+ {
+  "id": "02.01.74",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "कुणपरेतसि धातकीपुष्पखदिरार्जुनदाडिमैः सिद्धममनादिभिर्वा सर्पिः पाययेत् ॥",
+  "why": "dropped र and stray aa-matra"
+ },
+ {
+  "id": "02.01.130",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "तथाहि यथास्थानमेव तिष्ठंति दोषाः ॥",
+  "why": "misplaced i-matra"
+ }
+]

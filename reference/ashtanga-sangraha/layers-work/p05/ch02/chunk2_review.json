@@ -1,0 +1,615 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बनाई जाएँ",
+     "problem": "Hindi is an injunction ('should be made'); kṛtāḥ is a participle and the English says 'are made'.",
+     "fix": "बनाई जाती हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बनाई जाएँ",
+      "new": "बनाई जाती हैं",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaye",
+     "problem": "Glossed 'wasting, decay' although śoṣa is already 'drying up, wasting'; the two items then look identical. English keeps 'decay (kṣaya)'.",
+     "fix": "decay, loss",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaye",
+      "field": "gloss",
+      "value": "decay, loss",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarva-viṣeṣu",
+     "problem": "viṣa 'poison' is neuter, not masculine.",
+     "fix": "n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sarva-viṣeṣu",
+      "field": "gram",
+      "value": "n. loc. pl.",
+      "n": "41"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tāṣe -> tṛṣi",
+     "problem": "The flag offers 'tṛṣe'/'tṛṣṇe' as other possibilities; neither is a locative (loc. of tṛṣ is tṛṣi, of tṛṣṇā is tṛṣṇāyām; 'tṛṣṇe' is a vocative/dative form). The first item of the list ('In thirst') rests only on this conjecture, and the line already has 17 printed syllables.",
+     "fix": "Keep 'tṛṣi' as the only suggestion, say 'possible' and drop 'tṛṣe/tṛṣṇe'; mention in notes that the English/Hindi 'thirst' is conjectural.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "trivṛtā",
+     "problem": "Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed.",
+     "fix": "trivṛtā",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt",
+      "field": "w",
+      "value": "trivṛtā",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "padma-ca-āhva-śīmalam",
+     "problem": "INVENTED SPLIT. The printed token 'padmacāhvaśīmalaṃ' (Deva पद्मचाह्वशीमलं) is damaged, yet it is cut into padma + ca + āhva + 'unclear' with glosses 'lotus (?)', 'and', 'named'. Nothing in the print supports the 'ca' or 'named', and 'lotus' states a possible ingredient. Notes/flags themselves say no confident correction exists.",
+     "fix": "unclear (printed word not restored)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "padma-ca-āhva-śīmalam",
+      "field": "gloss",
+      "value": "unclear (printed word not restored)",
+      "n": "45"
+     }
+    },
+    {
+     "field": "split",
+     "where": "padma-ca-āhva-śīmalam",
+     "problem": "Keep the printed form as the single unresolved word instead of an invented split (do this after the gloss patch).",
+     "fix": "padmacāhvaśīmalaṃ",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "padma-ca-āhva-śīmalam",
+      "field": "w",
+      "value": "padmacāhvaśīmalaṃ",
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with 'padmacāhvaśīmala' (unclear)",
+     "problem": "'sa' is assumed to be 'with' (it is unresolved), and the damaged word is presented as an item of the list with a translation slot. 'when the clouds have gone' rests on the conjectured 'jaladātyaye' but is stated plainly.",
+     "fix": "With drākṣā water; the printed words 'sa padmacāhvaśīmalaṃ' could not be restored and no reading is given for them; when the clouds have gone (conjectural reading of 'jaladātpaye').",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "With drākṣā water; the printed words 'sa padmacāhvaśīmalaṃ' could not be restored and no reading is given for them; when the clouds have gone (conjectural reading of 'jaladātpaye').",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पद्मच आह्वशीमल सहित",
+     "problem": "Hindi cuts the damaged word into two words (पद्मच, आह्वशीमल), which the print does not show, and renders 'sa' as 'सहित' (with). It also gives 'when the clouds have gone' without saying it is conjectural.",
+     "fix": "द्राक्षा के जल के साथ; मुद्रित शब्द 'स पद्मचाह्वशीमलं' पुनः स्थापित नहीं किए जा सके, इसलिए उनका कोई अर्थ नहीं दिया गया; बादलों के चले जाने पर, यह 'जलदात्पये' का अनुमानित पाठ है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "द्राक्षा के जल के साथ; मुद्रित शब्द 'स पद्मचाह्वशीमलं' पुनः स्थापित नहीं किए जा सके, इसलिए उनका कोई अर्थ नहीं दिया गया; बादलों के चले जाने पर, यह 'जलदात्पये' का अनुमानित पाठ है।",
+      "n": "45"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes call the translation a 'placeholder'; it should instead say plainly that the words are unrestored and that the split in the words list is only the printed form.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: the damaged word 'padmacāhvaśīmalaṃ' is kept unsplit and unglossed; the translation gives no reading for 'sa padmacāhvaśīmalaṃ'. 'jalada-atyaye' is a conjecture for 'jaladātpaye'. Keep confidence low.",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "trivṛtā",
+     "problem": "Same ā-stem problem as unit 42; in addition every other list member here is accusative (citrakaṃ, pāṭhām, ajājīṃ, saralaṃ, vacāṃ, svarṇakṣīrīṃ), so 'trivṛtā' may be an instrumental ('with trivṛt') or a slip for 'trivṛtām'; 'f. nom. sg.' is not firm.",
+     "fix": "trivṛtā (gram: f. nom. sg.; case doubtful, see note)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt",
+      "field": "w",
+      "value": "trivṛtā",
+      "n": "46"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Case of 'trivṛtā' not discussed; the note says only 'same form as in 42'.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: here the other list members are accusative; 'trivṛtā' could be instrumental ('with trivṛt') or a slip for 'trivṛtām'. The list sense is unchanged.",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "trivṛtā",
+     "problem": "Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed.",
+     "fix": "trivṛtā",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt",
+      "field": "w",
+      "value": "trivṛtā",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "trivṛtā",
+     "problem": "Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed.",
+     "fix": "trivṛtā",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt",
+      "field": "w",
+      "value": "trivṛtā",
+      "n": "55"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+     "problem": "The printed words 'sauvarcalāīkarṣaśva palāddhe' (Deva सौवर्चलाईकर्षश्व पलाद्धे) are damaged; 'half a karṣa', the second 'and' and 'half a pala' are restored by guess but the English states them as the text. The measures are the dosage of an ingredient, so a wrong restoration is a real error.",
+     "fix": "On a conjectural reading of damaged print (the printed words 'sauvarcalāīkarṣaśva palāddhe' are not securely restored): sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "On a conjectural reading of damaged print (the printed words 'sauvarcalāīkarṣaśva palāddhe' are not securely restored): sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+      "n": "56"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से",
+     "problem": "Same: conjectured measures presented as the text.",
+     "fix": "मुद्रित शब्द 'सौवर्चलाईकर्षश्व पलाद्धे' बिगड़े हुए हैं; अनुमानित पाठ के अनुसार: सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मुद्रित शब्द 'सौवर्चलाईकर्षश्व पलाद्धे' बिगड़े हुए हैं; अनुमानित पाठ के अनुसार: सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से।",
+      "n": "56"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ardha-karṣaḥ",
+     "problem": "Restored word carries a plain gloss with no sign that it replaces the printed 'ī'.",
+     "fix": "half; karṣa (weight) (conjectural restoration of printed 'ī…karṣa')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ardha-karṣaḥ",
+      "field": "gloss",
+      "value": "half; karṣa (weight) (conjectural restoration of printed 'ī…karṣa')",
+      "n": "56"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "palārdhe",
+     "problem": "Restored from printed 'palāddhe' with a firm locative label, while the translation treats it as a quantity.",
+     "fix": "half a pala (conjectural restoration of printed 'palāddhe'; ending uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "palārdhe",
+      "field": "gloss",
+      "value": "half a pala (conjectural restoration of printed 'palāddhe'; ending uncertain)",
+      "n": "56"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "sauvarcalāīkarṣaśva",
+     "problem": "The 'why' says the line 'then has 8 syllables'. A half-verse line is 16; the printed line already has 16 and the restoration also 16 (it does not fix the metre).",
+     "fix": "Replace '8 syllables as expected' with '16 syllables, same as printed'.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शर्करा के बराबर मिलाकर",
+     "problem": "'मिलाकर' (having mixed) is not in the Sanskrit; śarkarātulyā only says 'equal to sugar' and the English says so.",
+     "fix": "शर्करा के बराबर, माण्ड से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शर्करा के बराबर मिलाकर माण्ड से",
+      "new": "शर्करा के बराबर, माण्ड से",
+      "n": "57"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "āmalakādrase",
+     "problem": "Ablative + locative 'āmalakāt rase' is awkward (the note admits it) and the English 'juice from āmalaka' keeps 'from' while the Hindi 'आमलक के रस में' drops it. The printed word may be damaged; no flag is raised.",
+     "fix": "Add a text_flags entry marked 'possible' (damaged compound for 'juice of āmalaka') and make English and Hindi agree.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "smeared (sealed)",
+     "problem": "'(sealed)' is an interpretation inserted into the translation; the notes already say it is not stated, and the Hindi has no such word.",
+     "fix": "When it has been smeared and a month has passed, drunk, it conquers pāṇḍu, swelling and gulma.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "smeared (sealed)",
+      "new": "smeared",
+      "n": "67"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or a surā (spirituous drink) with a ferment (kiṇva) of a quarter of trivṛt, joined with its decoction.",
+     "problem": "The printed compound 'trivṛtāpādārkiṇvā' (Deva त्रिवृतापादार्किण्वा) is not readable: the 'r' of 'ār' is dropped silently in the word split and the meaning is built on that guess, yet the English states it plainly.",
+     "fix": "Or a surā (spirituous drink) joined with its decoction; the printed compound 'trivṛtāpādārkiṇvā' is damaged, and on a conjectural reading it describes the surā as having a ferment (kiṇva) of a quarter of trivṛt.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Or a surā (spirituous drink) joined with its decoction; the printed compound 'trivṛtāpādārkiṇvā' is damaged, and on a conjectural reading it describes the surā as having a ferment (kiṇva) of a quarter of trivṛt.",
+      "n": "68"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो त्रिवृत् के पादांश के किण्व से बनी और उसके क्वाथ से युक्त हो",
+     "problem": "Adds 'से बनी' (made from) and a subjunctive 'हो'; neither is in the Sanskrit, and the damaged compound is stated as fact.",
+     "fix": "अथवा सुरा, उसके क्वाथ से युक्त; मुद्रित समास 'त्रिवृतापादार्किण्वा' बिगड़ा हुआ है, अनुमानित पाठ के अनुसार वह त्रिवृत् के पादांश के किण्व वाली है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा सुरा, उसके क्वाथ से युक्त; मुद्रित समास 'त्रिवृतापादार्किण्वा' बिगड़ा हुआ है, अनुमानित पाठ के अनुसार वह त्रिवृत् के पादांश के किण्व वाली है।",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trivṛtā-pāda-kiṇvā",
+     "problem": "Word gloss and gram (tat-puruṣa) are given with no sign that the compound is conjectural.",
+     "fix": "trivṛt; a quarter; ferment (kiṇva) (conjectural reading of damaged 'pādārkiṇvā')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā-pāda-kiṇvā",
+      "field": "gloss",
+      "value": "trivṛt; a quarter; ferment (kiṇva) (conjectural reading of damaged 'pādārkiṇvā')",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "trivṛtā-pāda-kiṇvā",
+     "problem": "'tat-puruṣa, f. nom. sg.' is asserted; the compound type and the f. ending of kiṇva are both uncertain.",
+     "fix": "compound type uncertain, f. nom. sg. (conjectural)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā-pāda-kiṇvā",
+      "field": "gram",
+      "value": "compound type uncertain, f. nom. sg. (conjectural)",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जौ के दानों",
+     "problem": "Glossary: no plant common names in Hindi; जौ is the common name of yava. Keep the Sanskrit name.",
+     "fix": "यव के दानों",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जौ के दानों",
+      "new": "यव के दानों",
+      "n": "69"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सूखे जौ",
+     "problem": "Same as unit 69 (plant common name in Hindi).",
+     "fix": "सूखे यव",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूखे जौ",
+      "new": "सूखे यव",
+      "n": "71"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "saṃyuktam",
+     "problem": "'tat-cūrṇa-saṃyuktam' (n. sg.) does not agree with masculine plural yavān; saṃyuktān may be meant. Not mentioned.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: 'saṃyuktam' (n. sg.) does not agree with masculine plural 'yavān'; possibly saṃyuktān, or the phrase is an independent apposition. Sense unchanged.",
+      "n": "71"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वातरक्त",
+     "problem": "Hindi commits to the single disease-term 'वातरक्त' while the notes and English leave open 'Vāta and blood' vs one term; use the literal compound.",
+     "fix": "वातासृक्",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वातरक्त",
+      "new": "वातासृक्",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "37 units reviewed. 15 issues of severity error, 15 minor (applied patches validated against chunk2_out.json). Damaged-print units: 45 (invented padma/ca/āhva split and 'lotus (?)' removed, translations hedged), 56 (conjectured measures were stated as the text), 68 (damaged compound was silently altered and translated plainly, Hindi added 'made from'); all three keep confidence low. Other errors: trivṛtā recorded as 'trivṛt' (42, 46, 48, 55), Hindi जौ for yava (69, 71), Hindi addition 'मिलाकर' (57). No grouping changes needed beyond the drafter's own notes (38-39, 40-41, 42-43, 46-47, 49-50, 52-53, 59-60, 65-66, 69-72 are sound); 73 is the tail of the 69-72 passage and 74 starts a new topic, as the drafter says.",
+ "glossary_suggestions": [
+  {
+   "term": "trivṛtā",
+   "suggest": "When the printed form is trivṛtā (nominative of the ā-stem, used throughout this chapter as the drug name), set `w` to 'trivṛtā' with 'f. nom. sg.'; use 'trivṛt' only for the t-stem forms (e.g. unit 38 'trivṛt'). Drafts in chunk 2 wrote 'trivṛt' for 'trivṛtā' (units 42, 46, 48, 55)."
+  },
+  {
+   "term": "yava",
+   "suggest": "Hindi: keep यव (not जौ), per the no-plant-common-names rule. English: OPEN, 'barley' is a plant identification; either 'yava (a grain)' or accept 'barley grains' book-wide."
+  },
+  {
+   "term": "vyoṣa / tryūṣaṇa / triphalā / trijātaka",
+   "suggest": "Glosses differ between units (vyoṣa 'a set of three drugs', tryūṣaṇa 'a set of three pungent drugs'). Use 'a set of three pungent drugs' for vyoṣa and tryūṣaṇa, 'a set of three fruits' for triphalā, 'a set of three' for trijātaka."
+  },
+  {
+   "term": "snigdha",
+   "suggest": "One rendering in English and Hindi: 'unctuous' / स्निग्ध (unit 51 'unctuous (oiled)', unit 66 'greased'/चिकने)."
+  },
+  {
+   "term": "damaged print",
+   "suggest": "Convention for printed words that cannot be restored: keep the printed form as one unsplit `w`, gloss 'unclear (printed word not restored)', gram 'unclear'; in English and Hindi write 'on a conjectural reading of damaged print' (अनुमानित पाठ के अनुसार), quote the printed words, give no ingredient or measure as fact; confidence low. No brackets or Latin letters in Hindi."
+  }
+ ]
+}

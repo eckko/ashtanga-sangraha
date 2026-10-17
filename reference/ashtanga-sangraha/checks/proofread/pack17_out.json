@@ -1,0 +1,422 @@
+[
+ {
+  "id": "06.40.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.40.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.40.25",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "इतरं तु प्रायः कालांतरप्राहरणं ॥",
+  "why": "Stray space inside the compound; possibly a letter lost in प्राहरणं."
+ },
+ {
+  "id": "06.40.377",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "पैत्तिकं संस्रंसनैः सेकप्रदेहैर्भूरिशीतलैः ॥",
+  "why": "अभूरिशीतलैः (not very cold) is odd for a pitta remedy; maybe extra अ."
+ },
+ {
+  "id": "06.40.403",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.41.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.43.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.44.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.45.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.45.68",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "शस्तं शेल्वर्जुनाम्रातात्तद्वकूलं सिंधुवारतः ॥",
+  "why": "Unsandhied अर्जुन+आ is a doubled vowel; likely अर्जुनाम्रात."
+ },
+ {
+  "id": "06.48.9",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.73",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "परं चोपयोज्येदिति समानं पूर्वेण ॥",
+  "why": "उपयोज्येत् is not a normal finite form; expected उपयोजयेत्."
+ },
+ {
+  "id": "06.49.112",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.207",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.216",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.226",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मासि मासि वर्षशतमायुषोऽपि वृद्धिः ॥",
+  "why": "मन्सि is a corrupt repetition of the expected मासि मासि."
+ },
+ {
+  "id": "06.49.285",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.310",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.315",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.316",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.317",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.325",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.328",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "लेखांमिदोः is unclear, possibly a corrupt word."
+ },
+ {
+  "id": "06.49.335",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.469",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "पानानुपोऽभ्यसेत् looks corrupt (perhaps पानानुपानोऽभ्यसेत्)."
+ },
+ {
+  "id": "06.49.549",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.550",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.551",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.557",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.597",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्निग्धमम्लकषायं मृदु गुरु च शिलाजतु श्रेष्ठं ॥",
+  "why": "मन्म्ल is an impossible conjunct; expected अम्ल."
+ },
+ {
+  "id": "06.49.600",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.604",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.609",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "निचयेऽपि दोषबलतो योगानेतान्विकल्प्य युंजीत ॥",
+  "why": "विकलप्य lacks the conjunct (विकल्प्य); योगानैतान् should be योगानेतान्."
+ },
+ {
+  "id": "06.49.611",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.616",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.617",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "स्वैः स्वैरेवं क्वाथैर्भाव्यं वारान् भवेत्समं ॥",
+  "why": "Final word सम lacks the usual anusvara and sense is unclear."
+ },
+ {
+  "id": "06.49.657",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.660",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.662",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "सर्वाञ्चीनः is not a recognisable word."
+ },
+ {
+  "id": "06.49.665",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.49.668",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "विद्रधिमुदरं कुष्ठं श्वित्रं पांड्यं क्षयं मदं मूर्च्छा ॥",
+  "why": "पांढ्यं may be a mistyped पांड्यं/पांडुत्वं."
+ },
+ {
+  "id": "06.49.677",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.50.432",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "06.50.433",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.02.36",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.03.39",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "मोचकयौ is not a recognisable form; unclear."
+ },
+ {
+  "id": "01.04.45",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "लघूष्णैः प्रावृतः स्वप्यात्कालागुरुधूपाधिवासितः ॥",
+  "why": "कालेधुपाधि is not meaningful; likely कालागुरु/धूप with dropped letters."
+ },
+ {
+  "id": "01.04.57",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Space in चंदनागुरु रूषितः and rare रूषितः (perhaps भूषितः)."
+ },
+ {
+  "id": "01.04.115",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.05.56",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "अतिस्थौल्याग्निसदनकुष्ठमेहहृतौजसः ॥",
+  "why": "Stray space inside the compound."
+ },
+ {
+  "id": "01.05.68",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.06.95",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.06.112",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "आजं शोषज्वरश्वासरक्तपित्तातिसारजित् ॥",
+  "why": "Stray space splits the compound पित्ता तिसार."
+ },
+ {
+  "id": "01.06.132",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.06.216",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.06.262",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.07.195",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.07.292",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ },
+ {
+  "id": "01.07.308",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "स्वराग्निसादोदावर्त्तपीनसांश्च महत्पुनः ॥",
+  "why": "Stray apostrophe-like mark in the line."
+ },
+ {
+  "id": "01.07.346",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No typing error visible."
+ }
+]
