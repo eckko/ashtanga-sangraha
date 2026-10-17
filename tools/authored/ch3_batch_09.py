@@ -896,7 +896,7 @@ AIDS = {
     },
     "113": {
         "diagram": {"groups": [{"label": "इन देशों में न रहे", "items": [
-            "रोगबहुल", "वैद्यरहित", "नायकरहित", "अधर्मी जन अधिक", "उपद्रवग्रस्त", "पर्वतीय"]}]},
+            "रोगबहुल", "वैद्यरहित", "नायकरहित", अधर्मी जन अधिक, "उपद्रवग्रस्त", "पर्वतीय"]}]},
         "chunks": "न देशं व्याधिबहुलं | नावैद्यं नाप्यनायकं ‖ नाधर्मि जनभूयिष्ठं | नोपसृष्टं न पर्वतं।",
         "sandhi": "अ + अ → आ: न + अवैद्यं → नावैद्यं। अ + उ → ओ: न + उपसृष्टं → नोपसृष्टं।",
         "anchors": "अवैद्य = वैद्य के बिना · अनायक = नायक के बिना · उपसृष्ट = ग्रस्त · भूयिष्ठ = अधिकतर।",
@@ -936,22 +936,22 @@ IMAGE_SPECS = {
         "file": "ch3b09-prakashayet-107.svg",
         "alt": "Mind map: five things not to reveal: birth-ascendant and birth-star, best of wealth, the fault in the house, one's own insult, the master's lack of affection",
         "type": "mermaid",
-        "code": ('mindmap\n  न प्रकाशयेत्\n    "जन्म-लग्न, नक्षत्र"\n    "धन का सार"\n    "घर का दोष"\n'
-                 '    "अपना अपमान"\n    "स्वामी की निःस्नेहता"\n'),
+        "code": ('mindmap\n  न प्रकाशयेत्\n    जन्म-लग्न और नक्षत्र\n    धन का सार\n    घर का दोष\n'
+                 '    अपना अपमान\n    स्वामी की निःस्नेहता\n'),
     },
     ("109", "diagram"): {
         "file": "ch3b09-list-109.svg",
         "alt": "Mind map: the five items of the list: noisy wind, talk with tossing of hands brows and eyes, shade on a riverbank, drinking liquor, beasts of prey fanged and horned animals",
         "type": "mermaid",
-        "code": ('mindmap\n  सूची\n    "सशब्द वायु"\n    "हाथ-भौंह-आँख उछालकर बोलना"\n'
-                 '    "तट की छाया"\n    "सुरापान"\n    "हिंसक, दाढ़ वाले, सींग वाले"\n'),
+        "code": ('mindmap\n  सूची\n    सशब्द वायु\n    हाथ-भौंह-आँख उछालकर बोलना\n'
+                 '    तट की छाया\n    सुरापान\n    हिंसक और दाढ़-सींग वाले\n'),
     },
     ("113", "diagram"): {
         "file": "ch3b09-deshas-113.svg",
         "alt": "Mind map: six kinds of region not to live in: abounding in disease, without a physician, without a leader, mostly unrighteous people, afflicted, mountain",
         "type": "mermaid",
         "code": ('mindmap\n  न रहे\n    रोगबहुल\n    वैद्यरहित\n    नायकरहित\n'
-                 '    "अधर्मी जन अधिक"\n    उपद्रवग्रस्त\n    पर्वतीय\n'),
+                 '    अधर्मी जन अधिक\n    उपद्रवग्रस्त\n    पर्वतीय\n'),
     },
     ("114", "diagram"): {
         "file": "ch3b09-vasa-114.svg",
