@@ -1,0 +1,161 @@
+[
+ {
+  "n": "150",
+  "field": "hindi",
+  "old": "उसी के समान पथ्या, अक्ष और दशमूल के लेह अलग-अलग रसों से बनाए जाते हैं।",
+  "new": "उसी प्रकार पथ्या, अक्ष और दशमूल के लेह अलग-अलग रसों से बनाए जाते हैं।",
+  "why": "reviewer (minor): tadvat means 'likewise, in the same way'; 'उसी के समान' reads as 'equal to that'."
+ },
+ {
+  "n": "150",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Verb is supplied by the drafter and the referent of 'tadvat' is not stated, so 'high' is too firm."
+ },
+ {
+  "n": "150",
+  "field": "notes",
+  "old": "No verb in the Sanskrit; 'are made' is supplied in both translations. pathyā and akṣa are kept as drug names (pathyā literally 'wholesome').",
+  "new": "No verb in the Sanskrit; 'are made' is supplied in both translations. pathyā and akṣa are kept as drug names (pathyā literally 'wholesome'). 'tadvat' is taken as 'in the same way' as the leha of the previous unit; the referent is not stated.",
+  "why": "reviewer (minor): Note does not say that the referent of tadvat (the leha of the previous unit) is only inferred."
+ },
+ {
+  "n": "151",
+  "field": "notes",
+  "old": "'tayoḥ' (of those two): the referent is not clear (perhaps pathyā and akṣa of the previous unit). 'viḍasamam' could also be 'equal quantity of viḍa'. viḍa is kept as a drug name (a salt-name). bhāvita = steeped, soaked through.",
+  "new": "'tayoḥ' (of those two): the referent is not clear (perhaps pathyā and akṣa of the previous unit). 'viḍasamam' could also be 'equal quantity of viḍa'. viḍa is kept as a drug name. bhāvita = steeped, soaked through.",
+  "why": "reviewer (error): Identifies viḍa as a salt; nothing in the text says so (no identification rule)."
+ },
+ {
+  "n": "152",
+  "field": "word.gloss",
+  "word": "viḍi",
+  "old": "in stool",
+  "new": "in stool (doubtful reading)",
+  "why": "reviewer (minor): The word entry gives a firm-looking gloss 'in stool' for a guessed reading of printed 'viśi' (unit is flagged low-confidence)."
+ },
+ {
+  "n": "153",
+  "field": "word.w",
+  "word": "tad-mūlaiḥ",
+  "old": "tad-mūlaiḥ",
+  "new": "tat-mūlaiḥ",
+  "why": "reviewer (minor): Dictionary form of the first member is tat (tanmūla = tat + mūla); 'tad-' is not the base form."
+ },
+ {
+  "n": "156",
+  "field": "english",
+  "old": "Steeped in urine, one should drink it with ghee; and when it is digested, tarpaṇa (a satiating preparation).",
+  "new": "Steeped in urine, one should drink it with ghee; and when it is digested, tarpaṇa (satiation).",
+  "why": "reviewer (minor): 'preparation' / 'drink' (gloss) is an addition; tarpaṇa literally 'satiating, satisfying'."
+ },
+ {
+  "n": "156",
+  "field": "word.gloss",
+  "word": "tarpaṇam",
+  "old": "tarpaṇa, satiating drink",
+  "new": "tarpaṇa, satiation",
+  "why": "reviewer (minor): Gloss 'satiating drink' adds 'drink'."
+ },
+ {
+  "n": "159",
+  "field": "hindi",
+  "old": "गण्डमाला में, वात में और पाण्डुरोग में वह प्रशस्त माना जाता है।",
+  "new": "गण्डमाला में, वात में और पाण्डुरोग में वह प्रशंसित है।",
+  "why": "reviewer (minor): śasyate = 'is praised/recommended'; 'माना जाता है' (is considered) adds a different sense."
+ },
+ {
+  "n": "162",
+  "field": "word.gram",
+  "word": "ekam",
+  "old": "n. acc. sg.",
+  "new": "m./n. acc. sg. (taken as 'one')",
+  "why": "reviewer (minor): 'n. acc. sg.' is wrong beside masculine modakān; ekam (acc. sg. m./n.) here is taken as 'one' of the balls."
+ },
+ {
+  "n": "164",
+  "field": "hindi",
+  "old": "ये परहेज़ से रहित हों, सब व्याधियों के नाशक।",
+  "new": "ये परिहार से रहित हों, सब व्याधियों के नाशक।",
+  "why": "reviewer (minor): Colloquial Persian-origin word; brief asks for standard literary Hindi; parihāra = परिहार."
+ },
+ {
+  "n": "166",
+  "field": "notes",
+  "old": "'naivaite' = na eva ete; the sense (not the chief ones, or not the only ones) is unclear. Rendered literally; the next unit adds harītakī.",
+  "new": "'naivaite' = na eva ete; the sense (not the chief ones, or not the only ones) is unclear. Rendered literally; the next unit adds harītakī. Sense check: the negation sits oddly beside the next unit, which prepares harītakī 'also' by the trivṛt method. The printed text is kept; a misprint is possible but no emendation is proposed.",
+  "why": "reviewer (minor): Notes do not say that the printed negation sits oddly with unit 167 (harītakī to be prepared 'also' by the trivṛt method). No emendation should be proposed."
+ },
+ {
+  "n": "168",
+  "field": "english",
+  "old": "especially removing grahaṇī, pāṇḍu, wasting (śoṣa), bewilderment (moha) and the belly-ailment (udara).",
+  "new": "especially removing grahaṇī, pāṇḍu, wasting (śoṣa), bewilderment (moha) and the belly (udara).",
+  "why": "reviewer (error): 'ailment' is added; udara is 'belly' (draft's own note says plain sense is belly; unit 158 renders 'belly')."
+ },
+ {
+  "n": "168",
+  "field": "notes",
+  "old": "'apahām' (feminine) qualifies harītakī of the previous unit. 'udara' is taken as the ailment of the belly; plain sense 'belly'.",
+  "new": "'apahām' (feminine) qualifies harītakī of the previous unit. 'udara' is rendered with its plain sense 'belly'; it could also be a named ailment.",
+  "why": "reviewer (minor): Contradicts the corrected translation."
+ },
+ {
+  "n": "174",
+  "field": "notes",
+  "old": "māṣa is a small measure. 'drutāḥ' is taken as 'melted'. yakṣman is kept as a disease name.",
+  "new": "māṣa is a small measure. 'drutāḥ' is taken as 'melted'. yakṣman is kept as a disease name. 'dry' and 'melted in ghee' both qualify the pills as printed; how they fit together is not stated.",
+  "why": "reviewer (minor): 'śuṣkāḥ' (dry) and 'ghṛtadrutāḥ' (melted in ghee) sit together without comment."
+ },
+ {
+  "n": "175",
+  "field": "english",
+  "old": "Pathyā, trivṛt, a pungent thing and hot water: a purgative desired everywhere.",
+  "new": "Pathyā, trivṛt, kaṭu (pungent) and hot water: a purgative desired everywhere.",
+  "why": "reviewer (minor): 'thing' is an addition; the text has only kaṭu."
+ },
+ {
+  "n": "176",
+  "field": "hindi",
+  "old": "स्नुक् के क्षीर से भावित पथ्या के चूर्ण में मोदक बनाए।",
+  "new": "पथ्या का चूर्ण स्नुक् के क्षीर से भावित हो जाने पर मोदक बनाए।",
+  "why": "reviewer (minor): Locative absolute rendered as 'in the powder' (balls made in the powder); the English is right."
+ },
+ {
+  "n": "178",
+  "field": "english",
+  "old": "of one with gulma, belly-ailment, liver, spleen, pain (śūla), ānāha (tying-up) and obstruction (vibandha),",
+  "new": "of one with gulma, belly (udara), liver, spleen, pain (śūla), ānāha (tying-up) and obstruction (vibandha),",
+  "why": "reviewer (error): 'ailment' added to udara (see 158, 168)."
+ },
+ {
+  "n": "182",
+  "field": "hindi",
+  "old": "संश्लेष, विश्लेष, काल, संस्कार और युक्ति के द्वारा कर सकता है।",
+  "new": "संश्लेष, विश्लेष, काल, संस्कार और युक्ति के द्वारा करे।",
+  "why": "reviewer (minor): 'can' adds ability; kuryāt is optative ('may/should do')."
+ },
+ {
+  "n": "182",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Subject missing and a spacing typo; 'high' too firm."
+ },
+ {
+  "n": "184",
+  "field": "english",
+  "old": "Purgatives should be given, mixed with wine and with those various things agreeable to the mind.",
+  "new": "Purgatives should be given, mixed with madya (an intoxicating drink) and with those various things agreeable to the mind.",
+  "why": "reviewer (minor): 'wine' is narrower than madya (the draft's own note: intoxicating drink)."
+ },
+ {
+  "n": "184",
+  "field": "word.gloss",
+  "word": "madyena",
+  "old": "with wine",
+  "new": "with madya (intoxicating drink)",
+  "why": "reviewer (minor): Same."
+ }
+]

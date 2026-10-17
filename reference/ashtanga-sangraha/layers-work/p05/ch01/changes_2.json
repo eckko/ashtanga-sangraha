@@ -1,0 +1,228 @@
+[
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "No verb is given; the earlier unit's verb of application (prayojayet) is understood. paryāgata taken as 'fully come (ripe)'; vātapitta read as the joint Vāta-Pitta condition.",
+  "new": "No verb is given; the earlier unit's verb of application (prayuñjīta, unit 36) is understood. paryāgata taken as 'fully come (ripe)'; vātapitta read as the joint Vāta-Pitta condition.",
+  "why": "reviewer (minor): The verb understood is wrong: unit 36 (chunk 1) ends with prayuñjīta, not prayojayet."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "दो या तीन फलों को कूटकर, आरग्वध आदि ताज़े द्रव्यों में से किसी एक के अथवा पटोली के काढ़े में भिगोकर, मथकर, पित्त और कफ से उत्पन्न ज्वर में।",
+  "new": "दो या तीन को कूटकर, आरग्वध आदि ताज़े द्रव्यों में से किसी एक के अथवा पटोली के काढ़े में भिगोकर, मथकर, पित्त और कफ से उत्पन्न ज्वर में।",
+  "why": "reviewer (minor): Hindi supplies 'fruits' (फलों) that the Sanskrit does not state (dvitrāṇi has no noun; English correctly leaves '(of them)'). The note itself says the object is unnamed."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "kalkam",
+  "old": "m. nom. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (error): Form kalkam is labelled 'm. nom. sg.', which is impossible (m. nom. would be kalkaḥ). Since the verb of application is understood (see unit 37) the form is acc. sg. (kalka m./n.)."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "pitta-je",
+  "old": "n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Labelled 'n. loc. sg.' but unit 38/40 label the same agreement m. (jvare); the noun is unstated."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Ikṣvāku, however, is especially to be applied in kāsa (cough), śvāsa (laboured breathing), jvara (fever), chardi (vomiting), viṣa (poison) and phlegm-ailments.",
+  "new": "Ikṣvāku, however, is especially to be applied in kāsa (cough), śvāsa (breath-trouble), jvara (fever), chardi (vomiting), viṣa (poison) and phlegm-ailments.",
+  "why": "reviewer (minor): Gloss in the word table says 'breath-trouble'; English says 'laboured breathing' (nearer a modern diagnosis). Make them agree with the plain sense."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "puṣpa-ādiṣu",
+  "old": "m. loc. pl.",
+  "new": "loc. pl., bahuvrīhi",
+  "why": "reviewer (minor): puṣpa is neuter, label says m."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "Doubtful: (1) rātajīmūtavat: reading unclear, translation follows the printed letters. (2) 'that one' (tasya) is the ikṣvāku of the previous passage. (3) a-puṣpa-phala could also mean 'not yet flowered or fruited'.",
+  "new": "Doubtful: (1) rātajīmūtavat: reading unclear, translation follows the printed letters. (2) 'that one' (tasya) is the ikṣvāku of the previous passage. (3) a-puṣpa-phala could also mean 'not yet flowered or fruited'. Parallel: the same printed spelling śrutaṃ occurs in 05.01.24 (bhallātakavidhiśrutaṃ svarasam), also a cooking context.",
+  "why": "reviewer (minor): Extra evidence for the śrutaṃ -> śṛtam flag: the same printed spelling occurs in 05.01.24 (bhallātakavidhiśrutaṃ), also in a cooking context."
+ },
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "pitte",
+  "old": "m. loc. sg.",
+  "new": "n. loc. sg.",
+  "why": "reviewer (minor): pitta is neuter; label says m."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "अथवा इक्ष्वाकु के फल का स्वरस, तिगुने दूध में पकाया हुआ, वमन चाहने वाला रोगी पित्त में, कफ-पीनस में और स्वरसाद में पिए।",
+  "new": "अथवा इक्ष्वाकु के फल का स्वरस, तिगुने दूध में तैयार किया हुआ, वमन चाहने वाला रोगी पित्त में, कफ-पीनस में और स्वरसाद में पिए।",
+  "why": "reviewer (minor): sādhita is rendered 'prepared' in English but 'पकाया' (cooked) in Hindi; 'cooked' is the sense of siddha/śṛta elsewhere (units 42, 64). Keep the literal 'prepared'."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "अथवा पके हुए, बीज निकाले हुए फल में दूध डाले।",
+  "new": "अथवा पुराने, बीज निकाले हुए फल में दूध डाले।",
+  "why": "reviewer (minor): jīrṇa is 'old' in unit 37 (पुराने / old) but 'ripe' here (Hindi and English). One rendering needed; the literal sense is 'old' (paryāgata is the word rendered 'ripe')."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "Or one should pour milk into a ripe fruit from which the seeds have been taken out.",
+  "new": "Or one should pour milk into an old fruit from which the seeds have been taken out.",
+  "why": "reviewer (minor): Same jīrṇa inconsistency (see Hindi)."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "jīrṇe",
+  "old": "ripe, old",
+  "new": "old",
+  "why": "reviewer (minor): Gloss 'ripe, old' hedges; use the single literal sense."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): tat agrees with madhyam (acc., object of bhakṣayet), not nominative."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Or a mantha (stirred drink) with saktu (parched-grain flour) steeped in the expressed juice of that same fruit, in phlegm-fever, kāsa, throat-ailments and arocaka (distaste for food).",
+  "new": "Or a mantha (stirred drink) with saktu (parched-grain flour) soaked in the expressed juice of that same fruit, in phlegm-fever, kāsa, throat-ailments and arocaka (distaste for food).",
+  "why": "reviewer (minor): bhāvita/bhāvayitvā is 'soaked' in units 48 and 67 (and in this unit's own gloss), 'steeped' here."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "तत्पश्चात् फिर भी पकाकर लेह तैयार करे।",
+  "new": "तत्पश्चात् फिर से पकाकर लेह तैयार करे।",
+  "why": "reviewer (error): 'punar api' is 'again, once more'. Hindi 'फिर भी' means 'nevertheless' and changes the sense."
+ },
+ {
+  "n": "58",
+  "field": "word.gloss",
+  "word": "śṛtvā",
+  "old": "having boiled",
+  "new": "having boiled (form uncertain)",
+  "why": "reviewer (minor): The corrected w 'śṛtvā' is not a regular absolutive (√śrā gives śrātvā/śrapayitvā); the flag admits uncertainty but the word table presents it as a real form."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "उसे चाटकर पीछे प्रमथ्या पिए, और उसी प्रकार घृत भी; यह कल्प काश्मर्य आदि चार महापञ्चमूल के अंगों में अलग-अलग कहा हुआ जानना चाहिए।",
+  "new": "उसे चाटकर पीछे प्रमथ्या पिए, और उसी प्रकार घृत भी; कल्प काश्मर्य आदि चार महापञ्चमूल के अंगों में अलग-अलग कहा हुआ जानना चाहिए।",
+  "why": "reviewer (minor): 'यह' is not in the Sanskrit (kalpaḥ ... veditavyaḥ)."
+ },
+ {
+  "n": "60",
+  "field": "notes",
+  "old": "sthireṣu and guruṣu are taken to qualify the ailments (rogeṣu). The end of the unit has no verb of application.",
+  "new": "sthireṣu and guruṣu are taken to qualify the ailments (rogeṣu). The end of the unit has no verb of application. Scope of -uttha-roga: translated as applying only to kapha-saṃcaya; it could govern all preceding members (ailments arising from gara, gulma, udara, kāsa and Kapha accumulation).",
+  "why": "reviewer (minor): Scope of -uttha-roga is not discussed: translation applies 'arising from' only to Kapha-accumulation, but the compound could take all members ('ailments arising from gara, gulma, udara, kāsa and Kapha accumulation')."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "जीवनीय गण में से किसी एक के चूर्ण से युक्त, मधु और शर्करा सहित, उन्हीं के काढ़ों से लेह तैयार करके, पित्त के गौण होने पर कफ की अवस्था में प्रयोग करे।",
+  "new": "जीवनीय गण में से किसी एक के चूर्ण से युक्त, मधु और शर्करा सहित, उन्हीं के काढ़ों से लेह तैयार करके, पित्त के गौण होने पर कफ की अवस्था में विधान करे।",
+  "why": "reviewer (minor): vidadhyāt is 'should prescribe' in English but Hindi uses 'प्रयोग करे', the rendering of prayojayet (unit 66). Keep the verbs distinct."
+ },
+ {
+  "n": "62",
+  "field": "word.gram",
+  "word": "viṣeṣu",
+  "old": "m. loc. pl.",
+  "new": "n. loc. pl.",
+  "why": "reviewer (minor): viṣa is neuter; label says m."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "dhāmārgavam",
+  "old": "m. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): dhāmārgavam is labelled m. but dve (dual) is neuter/feminine, so m. is inconsistent; the noun counted is unstated."
+ },
+ {
+  "n": "63",
+  "field": "notes",
+  "old": "Doubtful: the split of the long compound (especially vṛścīva-arbī-bīja: sandhi a+a, but arbī is unknown, so the member may be damaged or the division different, e.g. vṛścī + vārbī) and saumanasyā as a drug name. 'one or two' dhāmārgava: the thing counted is not stated (fruit, part?). All names kept untranslated.",
+  "new": "Doubtful: the split of the long compound (especially vṛścīva-arbī-bīja: sandhi a+a, but arbī is unknown, so the member may be damaged or the division different, e.g. vṛścī + vārbī) and saumanasyā as a drug name. 'one or two' dhāmārgava: the thing counted is not stated (fruit, part?). All names kept untranslated. Alternative syntax: dhāmārgavam (one or two) may be the main item used with the decoction of any one of the listed drugs, not a separate alternative.",
+  "why": "reviewer (minor): Alternative syntax not mentioned: dhāmārgava (one or two) may be the main object taken WITH the decoction of any one of the listed drugs, rather than a separate alternative 'or one or two of dhāmārgava'."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "धामार्गव की जड़ से सिद्ध किए हुए दूध से उत्पन्न घृत, अथवा फल आदि छह से सिद्ध घृत, मन के विकारों में।",
+  "new": "धामार्गव की जड़ से पकाए हुए दूध से उत्पन्न घृत, अथवा फल आदि छह से सिद्ध घृत, मन के विकारों में।",
+  "why": "reviewer (minor): siddha is 'cooked' in English and पकाया in unit 42; Hindi 'सिद्ध' alone is ambiguous (perfected)."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "धामार्गव की जड़ से पकाए हुए दूध से उत्पन्न घृत, अथवा फल आदि छह से सिद्ध घृत, मन के विकारों में।",
+  "new": "धामार्गव की जड़ से पकाए हुए दूध से उत्पन्न घृत, अथवा फल आदि छह से पकाया हुआ घृत, मन के विकारों में।",
+  "why": "reviewer (minor): Same siddha rendering."
+ },
+ {
+  "n": "65",
+  "field": "hindi",
+  "old": "कृतवेधन, अत्यन्त कटु, तीक्ष्ण और उष्ण, विशेष रूप से गर, उदर, गुल्म, प्लीहा, पाण्डु रोग और शोथ में तैयार करे।",
+  "new": "कृतवेधन, अत्यन्त कटु, तीक्ष्ण और उष्ण, विशेष रूप से गर, उदर, गुल्म, प्लीहा, पाण्डु रोग और श्वयथु में तैयार करे।",
+  "why": "reviewer (minor): śvayathu is rendered with a different Sanskrit word (शोथ); use the printed word."
+ },
+ {
+  "n": "66",
+  "field": "hindi",
+  "old": "कुटज का फल फिर सुकुमार व्यक्तियों में, जिनमें रक्त, पित्त और कफ प्रबल हों उनमें, और वातशोणित, विसर्प, ज्वर, कुष्ठ आदि में प्रयोग करे।",
+  "new": "कुटज का फल, दूसरी ओर, सुकुमार व्यक्तियों में, जिनमें रक्त, पित्त और कफ प्रबल हों उनमें, और वातशोणित, विसर्प, ज्वर, कुष्ठ आदि में प्रयोग करे।",
+  "why": "reviewer (minor): punaḥ is 'on the other hand' in English; Hindi 'फिर' reads as 'then'."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "Having soaked kuṭaja fruit powders for seven days in the milk of arka, or in the decoction of any one of the madanaphala, jīmūtaka, ikṣvāku, jīvantī and jīvaka roots, or in water of any one of sarṣapa, madhūka and salt, or kuṭaja fruit powder with kṛśarā, one should prepare it for emesis. Thus.",
+  "new": "Having soaked kuṭaja fruit powders for seven days in the milk of arka, or in the decoction of any one of the madanaphala, jīmūtaka, ikṣvāku, jīvantī and jīvaka roots, or in water of any one of sarṣapa, madhūka and salt, or kuṭaja fruit powder with kṛśarā, one should prepare it for emesis.",
+  "why": "reviewer (error): 'iti' is rendered 'Thus.' / Hindi 'ऐसा।', which reads as a stray word; the draft's own note says it only closes the passage. Move to notes (unit 70 drops it as well)."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "कुटज फल के चूर्णों को अर्क के दूध से सात दिन तक भिगोकर, अथवा मदनफल, जीमूतक, इक्ष्वाकु, जीवन्ती और जीवक की जड़ों में से किसी एक के काढ़े से, अथवा सर्षप, मधूक और लवण में से किसी एक के जल से, अथवा कुटज फल का चूर्ण कृशरा के साथ, वमन के लिए तैयार करे। ऐसा।",
+  "new": "कुटज फल के चूर्णों को अर्क के दूध से सात दिन तक भिगोकर, अथवा मदनफल, जीमूतक, इक्ष्वाकु, जीवन्ती और जीवक की जड़ों में से किसी एक के काढ़े से, अथवा सर्षप, मधूक और लवण में से किसी एक के जल से, अथवा कुटज फल का चूर्ण कृशरा के साथ, वमन के लिए तैयार करे।",
+  "why": "reviewer (minor): Same as the English: stray 'ऐसा।'."
+ },
+ {
+  "n": "67",
+  "field": "notes",
+  "old": "Doubtful: (1) whether 'mūla' governs all the names before it (as translated) or only jīvaka. (2) sarṣapa and madhūka kept as drug names; lavaṇa 'salt'. (3) 'iti' closes the passage and is rendered 'Thus'. (4) The grammar of the 'or with' alternatives (what is prepared) is elliptical.",
+  "new": "Doubtful: (1) whether 'mūla' governs all the names before it (as translated) or only jīvaka. (2) sarṣapa and madhūka kept as drug names; lavaṇa 'salt'. (3) 'iti' closes the passage and is rendered 'Thus'. (4) The grammar of the 'or with' alternatives (what is prepared) is elliptical. madanaphala is a fruit name, so 'mūla' governing the whole list (roots of madanaphala, jīmūtaka, ...) is itself doubtful.",
+  "why": "reviewer (minor): The English 'madanaphala ... roots' reads as 'roots of the madanaphala (fruit)'; the member 'madana-phala' is a fruit name and 'mūla' governing it is odd. Mention in notes."
+ },
+ {
+  "n": "70",
+  "field": "english",
+  "old": "With this as a seed, the wise one should devise variations on others also.",
+  "new": "With this seed, the wise one should devise others also.",
+  "why": "reviewer (error): 'variations on' is added; vikalpayet anyān api is 'should devise others also' (the word table also says 'should vary'). Keep literal."
+ },
+ {
+  "n": "71",
+  "field": "english",
+  "old": "Thus (ends) the first chapter, named Vamanakalpa (preparations for emesis).",
+  "new": "Thus the first chapter, named Vamanakalpa (preparations for emesis).",
+  "why": "reviewer (error): '(ends)' is an addition (brief: nothing added, e.g. 'thus ends'). The Sanskrit has iti ... prathamo'dhyāyaḥ only."
+ }
+]
