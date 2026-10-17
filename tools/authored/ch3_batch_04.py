@@ -30,8 +30,8 @@ AUTHORED["40"] = {
               ["कृषिम्", "वणिज्याम्", "गोरक्षाम्", "गुणिनं नृपम्"],
               "The verse runs: agriculture, trade, cattle-keeping, a virtuous king.",
               "कृषि · वणिज्या · गोरक्षा · गुणी नृप."),
-        fill(2, "The verse's word for 'agriculture' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("कृषिम्", None, "कृषि"),
+        fill(2, "The verse's word for 'agriculture' is ____ (type it in Devanagari or in English letters)?",
+             accepts("कृषिम्", None, "कृषि", "krsim", "krishi"),
              "कृषिम् (accusative) is the first thing the wealth-seeker resorts to.",
              "Each item of the list stands in the accusative (कृषिम्, वणिज्याम्, गोरक्षाम्) because it is what one resorts to (संश्रयेत्).",
              "कृषिम् = agriculture."),
@@ -44,9 +44,9 @@ AUTHORED["40"] = {
             "Final म् + vowel: the म् joins the vowel (गोरक्षाम् + उपायैः = गोरक्षामुपायैः)."),
         match(4, "Match each word to its meaning.",
               [["धनार्थी", "one desiring wealth"], ["संश्रयेत्", "should resort to"],
-               ["गुणिनम्", "virtuous"], ["क्रियाम्", "occupation"]],
+               ["गुणिनम्", "virtuous"], ["क्रियाम्", "activity, occupation"]],
               "These four words carry the sense of the verse: who, what he does, and the two objects described.",
-              "धनार्थी = one desiring wealth; संश्रयेत् = should resort to; गुणिनम् = virtuous; क्रियाम् = occupation.",
+              "धनार्थी = one desiring wealth; संश्रयेत् = should resort to; गुणिनम् = virtuous; क्रियाम् = activity, occupation.",
               role="apply"),
         mcq("transfer", 5, "Built like धनार्थी, what does विद्यार्थी mean?",
             ("One desiring knowledge", "-अर्थी at the end of a compound means one who desires the first part."),
@@ -69,10 +69,10 @@ AUTHORED["41"] = {
                "आलम्ब्य may be आलभ्य, and the objects in the last compound can be read two ways. "
                "No question here rests on those."),
     "explain_hi": ("यह इकाई छपाई में बिगड़ी हुई है, इसलिए केवल साफ़ शब्द लिए गए हैं। ‘मुक्तवेगः’ का अर्थ है "
-                   "वेगों (मल-मूत्र आदि के वेग) को छोड़ चुका। दूसरी बात ‘निष्क्रामेत्’, यानी ‘बाहर निकले’, "
+                   "वेगों को छोड़ चुका। दूसरी बात ‘निष्क्रामेत्’, यानी ‘बाहर निकले’, "
                    "और ‘पाणिना’ अर्थात् हाथ से। पहली पंक्ति का दूसरा शब्द अस्पष्ट है, इसलिए उसका अर्थ नहीं "
                    "बनाया गया। ‘आलम्ब्य’ और अंतिम समास के बारे में भी पाठ पक्का नहीं है, इसलिए उन पर प्रश्न नहीं बने।"),
-    "hook": "वेग छोड़कर, हाथ से … बाहर निकले — बाकी पाठ अस्पष्ट, उस पर भरोसा नहीं।",
+    "hook": "वेग छोड़कर … बाहर निकले; पाणिना (हाथ से) शब्द है, पर उसके साथ की क्रिया अस्पष्ट — बाकी पाठ अस्पष्ट, उस पर भरोसा नहीं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does मुक्तवेगः say about the person?",
@@ -84,11 +84,11 @@ AUTHORED["41"] = {
             "मुक्त-वेगः = one who has released the urges."),
         match(1, "Match each readable word to its meaning.",
               [["मुक्तवेगः", "having released the urges"], ["पाणिना", "with the hand"],
-               ["निष्क्रामेत्", "should go out"], ["आज्य", "ghee"]],
+               ["निष्क्रामेत्", "should go out"], ["वेग", "urge"]],
               "These words are readable in the print.",
-              "मुक्तवेगः = having released the urges; पाणिना = with the hand; निष्क्रामेत् = should go out; आज्य = ghee."),
+              "मुक्तवेगः = having released the urges; पाणिना = with the hand; निष्क्रामेत् = should go out; वेग = urge."),
         mcq("extend", 2, "Which part of this unit does the card mark as unreadable?",
-            ("The second word of line 1", "गमनखमाहारसमास्त्रियः has no reading."),
+            ("Line 1's second word", "गमनखमाहारसमास्त्रियः has no reading."),
             [("The word निष्क्रामेत्", "This is clear: should go out."),
              ("The word पाणिना", "This is clear: with the hand."),
              ("The word मुक्तवेगः", "This is clear: having released the urges.")],
@@ -102,10 +102,10 @@ AUTHORED["41"] = {
              ("निष्क्रामे + द्देव", "द्देव is not a word.")],
             "निष्क्रामेत् (should go out) + देव- (the first member of the last compound).",
             "त् + voiced consonant → द्: निष्क्रामेत् + देव = निष्क्रामेद्देव."),
-        order(4, "Put these readable parts in the order of the unit.",
-              ["मुक्तवेगश्च", "पाणिना", "निष्क्रामेत्", "देवपूज्याज्यमंगलम्"],
-              "Line 1 begins with the released urges; line 2 has the hand, the going out and the last compound.",
-              "मुक्तवेगः · पाणिना · निष्क्रामेत् · देव-compound.", role="apply"),
+        order(4, "Put these three readable parts in the order of the unit.",
+              ["मुक्तवेगश्च", "पाणिना", "निष्क्रामेत्"],
+              "Line 1 begins with the released urges; line 2 has the hand and then the going out.",
+              "मुक्तवेगः · पाणिना · निष्क्रामेत्.", role="apply"),
         mcq("transfer", 5, "Built like मुक्तवेगः, what does मुक्तक्रोधः mean?",
             ("One who has let go of anger", "मुक्त-X at the start of a bahuvrīhi names one who has released X."),
             [("One who is full of anger", "मुक्त means released, not filled."),
@@ -120,16 +120,16 @@ AUTHORED["41"] = {
 # ---------------------------------------------------------------- unit 42
 AUTHORED["42"] = {
     "title": "सातपत्रपदत्राणः",
-    "question": "How should one walk by day, and what goes with one at night?",
-    "rule": ("By day: with umbrella and footwear, looking only a yoke's length ahead. At night, "
-             "when the business is exceedingly pressing: with a staff, a head-dress and a companion."),
+    "question": "How should one walk about, and what goes with one at night?",
+    "rule": ("With umbrella and footwear, looking only a yoke's length ahead, one should walk about; "
+             "at night, when the business is exceedingly pressing, with a staff, a head-dress and a companion."),
     "limits": ("The length of a yoke is not given. मौली (head-dress) is ambiguous. The verb विचरेत् "
                "is stated once and understood in line 2; the verse gives no reason for the rules."),
-    "explain_hi": ("यह श्लोक चलने के नियम दो समयों के लिए बताता है। दिन में वह छाते और पादत्राण के साथ "
+    "explain_hi": ("यह श्लोक चलने के नियम दो समयों के लिए बताता है। वह छाते और पादत्राण के साथ "
                    "चले और ‘युगमात्र’ दूरी तक देखता हुआ, यानी जुए भर आगे तक। रात में, केवल तब जब काम बहुत ज़रूरी "
                    "(अत्यधिक) हो, वह दंड, मौली और साथी के साथ चले। ‘च’ दोनों बातें जोड़ता है, और ‘विचरेत्’ "
                    "दूसरी पंक्ति में भी समझा जाता है। जुए की लंबाई श्लोक में नहीं दी गई।"),
-    "hook": "दिन में छाता-जूते, नज़र जुए भर आगे; रात में, ज़रूरी काम पर: दंड, मौली, साथी।",
+    "hook": "चलते समय छाता-जूते, नज़र जुए भर आगे; रात में, ज़रूरी काम पर: दंड, मौली, साथी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "How far ahead does the verse say one should look while walking?",
@@ -146,7 +146,7 @@ AUTHORED["42"] = {
         mcq("extend", 2, "Which is the right split of चात्यधिके?",
             ("च + अति + अधिके", "अ + अ gives आ in चाति; इ before अ becomes य् in त्यधि."),
             [("चा + त्यधिके", "त्यधिके is not a word."),
-             ("च + आति + अधिके", "That would give चाति only by another आ; the verse has अति."),
+             ("च + आति + अधिके", "आति is not a word in the verse; the verse has अति."),
              ("चात + यधिके", "यधिके is not a word.")],
             "च (and) + अति (exceedingly) + अधिके (pressing, in a task).",
             "अ + अ → आ (च + अति = चाति); इ + अ → य (ति + अधि = त्यधि).",
@@ -158,8 +158,8 @@ AUTHORED["42"] = {
               "सातपत्रपदत्राणः, युगमात्रदृक्, दंडी and सहायवान् all describe the walker.",
               role="discriminate"),
         mcq("apply", 4, "A task at night is exceedingly pressing. What does the verse give the walker?",
-            ("A staff, a head-dress and a companion", "That is line 2."),
-            [("An umbrella and footwear only", "That is the day rule of line 1."),
+            ("A staff, head-dress and companion", "That is line 2."),
+            [("An umbrella and footwear only", "That is line 1, not the night rule."),
              ("A lamp, a drum and a dog", "None of these is named."),
              ("A staff alone, going without company", "The verse names a companion.")],
             "At night, when the business is exceedingly pressing, the verse names a staff, a head-dress and a companion.",
@@ -211,7 +211,7 @@ AUTHORED["43"] = {
             "अः + अ → ओऽ.",
             teaches="A visarga after अ, before अ, becomes ओ and the following अ is shown by ऽ (शिरः + अहनि = शिरोऽहनि)."),
         mcq("discriminate", 3, "A translation says: 'At night go about covered; by day, with the head covered.' What is wrong?",
-            ("By day the verse says NOT with the head covered", "न प्रावृत्य शिरः अहनि."),
+            ("By day the verse says not", "न प्रावृत्य शिरः अहनि."),
             [("At night the verse says uncovered", "The verse says covered at night."),
              ("The verse says 'roam', not 'go about'", "पर्यटेत् is a verb of going about."),
              ("The verse speaks of evening, not night", "The word is रात्रौ, at night.")],
@@ -237,9 +237,9 @@ AUTHORED["43"] = {
 # ---------------------------------------------------------------- unit 44
 AUTHORED["44"] = {
     "title": "नाक्रमेच्छर्करालोष्ट",
-    "question": "What must one not step upon, and at what times does line 2 name the crossroads?",
-    "rule": ("One should not step upon (न आक्रमेत्) the things of unit 43 nor on ground of gravel, clods, "
-             "offerings or bathing. Line 2 names midday, the two twilights, night and midnight, and the crossroads."),
+    "question": "What must one not step upon, and what times and place does line 2 name?",
+    "rule": ("One should not step upon (न आक्रमेत्) the objects at the end of unit 43 (read as continuing here), nor ground "
+             "of gravel, clods, offerings or bathing. Line 2 names midday, the two twilights, night, midnight and the crossroads."),
     "limits": ("The verb that governs the crossroads (सेवेत) is in unit 45. Whether ‘ground’ (भुवः) "
                "goes with every member of the compound is kept as the English has it. The printed मध्यान्हे is a spelling of मध्याह्ने."),
     "explain_hi": ("पहली पंक्ति मुख्य वाक्य है: ‘न आक्रमेत्’, यानी पैर न रखे। निषेध पिछली इकाई की चीज़ों पर भी है "
@@ -251,9 +251,9 @@ AUTHORED["44"] = {
     "questions": [
         mcq("pretest", 0, "What must one not do to the ground of gravel, clods, offerings and bathing?",
             ("Step upon it", "न आक्रमेत् = should not step upon."),
-            [("Sit upon it", "The verb is आक्रमेत्, step upon."),
-             ("Sweep it", "Nothing like sweeping is in the verse."),
-             ("Dig it", "Nothing like digging is in the verse.")],
+            [("Sit down upon it", "The verb is आक्रमेत्, step upon."),
+             ("Sweep it clean", "Nothing like sweeping is in the verse."),
+             ("Dig it up", "Nothing like digging is in the verse.")],
             "आक्रमेत् is should step upon, and न forbids it.",
             "न आक्रमेत् = should not step upon."),
         order(1, "Put the times of line 2 in the order of the verse.",
@@ -261,8 +261,8 @@ AUTHORED["44"] = {
               "Line 2 names midday, the two twilights, night and midnight.",
               "मध्याह्न · संध्ययोः · रात्रि · अर्धरात्र."),
         mcq("extend", 2, "In नाक्रमेच्छर्करा-, what happens to the final त् of आक्रमेत् before श?",
-            ("त् + श becomes च्छ", "The त् is replaced by च् and the श by छ."),
-            [("It stays as त्श", "That is not how this sandhi works."),
+            ("त् + श → च्छ", "The त् is replaced by च् and the श by छ."),
+            [("It stays as त्श (no change)", "That is not how this sandhi works."),
              ("It becomes द्", "द् stands before voiced sounds; श is unvoiced."),
              ("It becomes न्", "न् is for a following nasal.")],
             "न + आक्रमेत् + शर्करा joins as नाक्रमेच्छर्करा.",
@@ -280,14 +280,14 @@ AUTHORED["44"] = {
               [0, 1, 2],
               "Line 2 names midday, the two twilights, night and midnight; neither the full-moon day nor the rainy season.",
               "मध्याह्न, संध्ययोः, रात्रि, अर्धरात्र."),
-        mcq("transfer", 5, "Built like रात्रौ (at night), what is the form meaning in the fire, from अग्नि?",
-            ("अग्नौ", "A short -इ noun takes -औ in the locative singular."),
+        mcq("transfer", 5, "Built like रात्रौ (at night), what form means in the fire, from अग्नि?",
+            ("अग्नौ", "Some -इ nouns, like अग्नि, take -औ in the locative singular."),
             [("अग्नये", "This is the dative, 'to the fire'."),
              ("अग्निना", "This is the instrumental, 'by the fire'."),
              ("अग्नेः", "This is 'of/from the fire'.")],
             "रात्रि → रात्रौ (locative); अग्नि → अग्नौ.",
-            "Short -इ nouns: locative singular in -औ.",
-            teaches="The locative singular of a noun in short -इ ends in -औ (रात्रौ, अग्नौ)."),
+            "Some -इ nouns: locative singular in -औ.",
+            teaches="Some -इ nouns (अग्नि, रात्रि) have the locative singular in -औ (रात्रौ, अग्नौ)."),
     ],
 }
 
@@ -295,47 +295,47 @@ AUTHORED["44"] = {
 AUTHORED["45"] = {
     "title": "न सेवेत न शर्वर्याम्",
     "question": "Which places does the verse say not to resort to, at night and even by day?",
-    "rule": ("One should not resort to (न सेवेत) the crossroads of unit 44; at night, trees and shrines and "
-             "a courtyard; even by day, slaughterhouses, forests, empty houses and cremation grounds."),
+    "rule": ("One should not resort to (न सेवेत) the crossroads of unit 44; at night, trees and shrines; "
+             "also not a courtyard; even by day, slaughterhouses, forests, empty houses and cremation grounds."),
     "limits": ("वृक्षचैत्यान् is read as 'trees and shrines'; 'sacred trees' is another reading. "
-               "चत्वर is a courtyard or open square. The verse does not say why."),
+               "चत्वर is a courtyard or open square; whether \"at night\" also covers it is not stated. The verse does not say why."),
     "explain_hi": ("यह इकाई पिछली इकाई के चौराहे की क्रिया देती है: ‘न सेवेत’, यानी सेवन न करे। पहली पंक्ति "
-                   "रात्रि (शर्वरी) के लिए है: वृक्ष, चैत्य और चत्वर। दूसरी पंक्ति में ‘दिवाऽपि न’ है, यानी दिन "
+                   "में रात्रि (शर्वरी) का शब्द है: वृक्ष, चैत्य और चत्वर (चत्वर के साथ ‘रात’ का संबंध अलग से नहीं कहा गया)। दूसरी पंक्ति में ‘दिवाऽपि न’ है, यानी दिन "
                    "में भी नहीं: सूना (वधस्थान), अटवी (वन), शून्य घर और श्मशान। चैत्य का अर्थ पवित्र स्थान या "
                    "वृक्ष हो सकता है; यहाँ ‘वृक्ष और चैत्य’ लिया गया है।"),
-    "hook": "रात में: वृक्ष, चैत्य, चौक · दिन में भी नहीं: वधस्थान, वन, सूना घर, श्मशान।",
+    "hook": "पंक्ति १ (रात में): वृक्ष, चैत्य; और चौक नहीं · दिन में भी नहीं: वधस्थान, वन, सूना घर, श्मशान।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "Which places does the verse say not to resort to even by day?",
-            ("Slaughterhouses, forests, empty houses and cremation grounds",
+            ("Slaughterhouse, forest, empty house, cremation ground",
              "Line 2 lists these after दिवाऽपि न."),
-            [("Rivers, gardens, markets and temples", "None of these is named."),
-             ("Trees, shrines and courtyards", "These are named for night in line 1."),
-             ("Roads, fields, wells and bridges", "None of these is named.")],
+            [("Rivers, gardens, markets, temples and open fields nearby", "None of these is named."),
+             ("Trees, shrines and courtyards, which are in line 1", "These are in line 1."),
+             ("Roads, fields, wells, bridges, ferries and market squares", "None of these is named.")],
             "Line 2 lists सूना, अटवी, शून्यगृह and श्मशान, with 'even by day'.",
             "दिवाऽपि न: सूना, अटवी, शून्यगृह, श्मशान."),
         order(1, "Put the places of line 2 in the order of the verse.",
               ["सूना", "अटवी", "शून्यगृह", "श्मशान"],
               "Line 2 lists slaughterhouse, forest, empty house, cremation ground.",
               "सूना · अटवी · शून्यगृह · श्मशान."),
-        mcq("extend", 2, "How is रात्रौ + अपि, meaning even at night, written together?",
-            ("रात्रावपि", "औ before a vowel becomes आव्."),
-            [("रात्रोपि", "ओ is not what औ becomes before a vowel."),
-             ("रात्र्यपि", "That is the join for -इ, not -औ."),
-             ("रात्रौऽपि", "The avagraha belongs to ए and ओ, not औ.")],
-            "औ + अ → आव् + अ: रात्रौ + अपि = रात्रावपि.",
-            "औ + vowel → आव्.",
-            teaches="Final औ before a vowel becomes आव् (रात्रौ + अपि = रात्रावपि)."),
+        mcq("extend", 2, "Which is the right split of दिवाऽपि?",
+            ("दिवा + अपि", "आ before अ stays आ; the printed ऽ only marks the dropped अ."),
+            [("दिवः + अपि", "That would be written दिवोऽपि."),
+             ("दिव + आपि", "आपि is not a word here; the verse has अपि."),
+             ("दिवाः + अपि", "The word is दिवा, without a visarga.")],
+            "दिवा (by day) + अपि (even): दिवाऽपि, even by day.",
+            "आ + अ → आ; ऽ marks the dropped अ.",
+            teaches="आ before अ stays आ; the printed ऽ only marks the elided अ (दिवा + अपि = दिवाऽपि)."),
         multi("discriminate", 3, "Which does line 1 name?",
               [("Trees", "वृक्ष."), ("Shrines", "चैत्य."), ("A courtyard", "चत्वर."),
                ("A cremation ground", "That is in line 2."), ("A slaughterhouse", "That is in line 2.")],
               [0, 1, 2],
-              "Line 1 names trees, shrines and the courtyard at night; the cremation ground and slaughterhouse are in line 2.",
+              "Line 1 names trees, shrines and the courtyard; the cremation ground and slaughterhouse are in line 2.",
               "Line 1: वृक्ष, चैत्य, चत्वर."),
         mcq("apply", 4, "Asha is at an empty house at noon. What does this unit say?",
-            ("The empty house is among the places not resorted to even by day", "शून्यगृह is in line 2 with दिवाऽपि न."),
+            ("Not to be resorted to, even by day", "शून्यगृह is in line 2 with दिवाऽपि न."),
             [("Only at night is it forbidden", "The line says even by day."),
-             ("It is forbidden only at midnight", "Midnight is in unit 44, not here."),
+             ("Forbidden only at midnight (unit 44)", "Midnight is in unit 44, not here."),
              ("It is allowed by day", "The verse says even by day not.")],
             "शून्यगृह is listed with दिवाऽपि न, so it is not to be resorted to even by day.",
             "दिवाऽपि न: शून्यगृह."),
@@ -367,9 +367,9 @@ AUTHORED["46"] = {
     "questions": [
         mcq("pretest", 0, "What does the verse say one should not utter at Śiva, the venerable and auspicious things?",
             ("The sound huṃ", "न हुंकुर्यात् = should not utter huṃ."),
-            [("A curse", "Nothing about a curse is in the verse."),
-             ("A name", "Nothing about a name is in the verse."),
-             ("A blessing", "Nothing about a blessing is in the verse.")],
+            [("A curse on them", "Nothing about a curse is in the verse."),
+             ("A name of the god", "Nothing about a name is in the verse."),
+             ("A blessing for them", "Nothing about a blessing is in the verse.")],
             "हुंकुर्यात् is should utter 'huṃ'; the verse forbids it with न.",
             "न हुंकुर्यात् = should not utter huṃ."),
         order(1, "Put the four objects of the first line in the order of the verse.",
@@ -383,14 +383,14 @@ AUTHORED["46"] = {
              ("नाप + सव्यम्", "The word is अपसव्यम्, left-wise, not सव्यम् alone.")],
             "न (not) + अपसव्यम् (left-wise).",
             "अ + अ → आ: न + अपसव्यम् = नापसव्यम्.",
-            teaches="A न before a word that begins with अ joins with it as ना (नापसव्यम्, नाविदितैः)."),
+            teaches="A न before a word that begins with अ joins with it as ना (नापसव्यम्)."),
         match(3, "Match each word to its meaning.",
               [["हुंकुर्यात्", "should utter huṃ"], ["पूज्यम्", "the venerable"],
                ["प्रशस्तान्", "the praised"], ["अपसव्यम्", "left-wise"]],
               "These four words carry the two prohibitions.",
               "हुंकुर्यात् = should utter huṃ; पूज्यम् = the venerable; प्रशस्तान् = the praised; अपसव्यम् = left-wise.",
               role="discriminate"),
-        mcq("apply", 4, "Ravi says huṃ aloud at a venerable person. What does this unit say?",
+        mcq("apply", 4, "Ravi says huṃ aloud at a venerable one (पूज्यम्). What does this unit say?",
             ("It is forbidden: the venerable is named", "न हुंकुर्यात् … पूज्यम्."),
             [("It is allowed: only Śiva is named", "पूज्यम् is also named."),
              ("It is allowed: only auspicious things are named", "पूज्यम् is also named."),
@@ -411,16 +411,16 @@ AUTHORED["46"] = {
 # ---------------------------------------------------------------- unit 47
 AUTHORED["47"] = {
     "title": "चतुष्पथं नमस्कुर्यात्",
-    "question": "Whom must one not go with, according to line 2, and what is done to the crossroads?",
-    "rule": ("One should bow (नमस्कुर्यात्) to a crossroads. Line 2 lists the fierce, the sick, the ill-regarded, "
-             "and the untamed, hungry and thirsty; the verb is in unit 48."),
-    "limits": ("The second word of line 1 (ज्ञातान्) may be a misprint for चैत्यान्; no question uses it. "
+    "question": "Whom does line 2 list (the verb follows in unit 48), and what is done to the crossroads?",
+    "rule": ("One should bow (नमस्कुर्यात्) to a crossroads (and to trees, with a doubtful word between). Line 2 lists "
+             "the fierce, the sick, the ill-regarded, and the untamed, hungry and thirsty; the verb is in unit 48."),
+    "limits": ("The word ज्ञातान् in line 1 may be a misprint for चैत्यान्; no question uses it. "
                "Line 2 has no noun: whether companions or animals are meant is not stated, and the verb "
                "(not 'go') is in unit 48."),
     "explain_hi": ("पहली पंक्ति कहती है कि चौराहे को नमस्कार करे। इसके बाद का शब्द (ज्ञातान्) छपाई में संदिग्ध है, "
                    "संभवतः ‘चैत्यान्’, इसलिए उसका उपयोग नहीं किया गया। दूसरी पंक्ति केवल नाम गिनाती है, "
-                   "कर्ता या संज्ञा नहीं देती: व्याल (क्रूर), व्याधित (रोगी), अशस्त (निंदित), अदांत, क्षुधा-ग्रस्त "
-                   "और प्यासे। इनके ‘साथ’ क्या न करे, इसकी क्रिया अगली इकाई की पहली पंक्ति में है।"),
+                   "कर्ता या संज्ञा नहीं देती: व्याल (क्रूर), व्याधित (रोगी), अशस्त (निंदित), अदांत, क्षुत् (भूख) "
+                   "और पिपासित (प्यासे)। इनके ‘साथ’ क्या न करे, इसकी क्रिया अगली इकाई की पहली पंक्ति में है।"),
     "hook": "चौराहे को नमस्कार; आगे की सूची: क्रूर, रोगी, निंदित, अदांत, भूखे, प्यासे — क्रिया अगली इकाई में।",
     "core": False,
     "questions": [
@@ -437,7 +437,7 @@ AUTHORED["47"] = {
               "व्याल · व्याधित · अशस्त · अदान्त · क्षुत् · पिपासित."),
         mcq("extend", 2, "Which is the right split of नादान्त-?",
             ("न + अदान्त", "न + अ gives ना."),
-            [("ना + अदान्त", "The word is न, not ना; ना would add a long vowel of its own."),
+            [("ना + अदान्त", "The verse has the particle न, not ना."),
              ("न + आदान्त", "आदान्त is not the word of the verse."),
              ("नाद + अन्त", "That does not give अदान्त (untamed).")],
             "न (not) + अदान्त (untamed).",
@@ -454,14 +454,14 @@ AUTHORED["47"] = {
               [0, 1, 2],
               "Line 2 names the sick, the hungry and the thirsty; not the aged or the learned.",
               "Line 2: व्याल, व्याधित, अशस्त, अदान्त, क्षुत्, पिपासित."),
-        mcq("transfer", 5, "Built like व्याधितैः (with the sick), which form means with good people?",
+        mcq("transfer", 5, "Built like अशस्तैः (with the ill-regarded), which form means with good people?",
             ("सज्जनैः", "A masculine -अ noun takes -ऐः in the instrumental plural."),
             [("सज्जनेन", "This is the singular, 'with a good person'."),
              ("सज्जनान्", "This is the accusative plural, 'good people' as objects."),
              ("सज्जनाः", "This is the nominative plural, 'good people' as doers.")],
-            "व्याधितैः is the instrumental plural of an -अ noun; सज्जनैः is the same form of सज्जन.",
+            "अशस्तैः is the instrumental plural of an -अ noun; सज्जनैः is the same form of सज्जन.",
             "-अ masculine: instrumental plural in -ऐः.",
-            teaches="The instrumental plural of a masculine -अ noun ends in -ऐः (व्याधितैः, सज्जनैः) and means 'with several …'."),
+            teaches="The instrumental plural of a masculine -अ noun ends in -ऐः (अशस्तैः, सज्जनैः) and means 'with several …'."),
     ],
 }
 
@@ -507,18 +507,18 @@ AUTHORED["48"] = {
         mcq("apply", 4, "Raju plans to go on a cow's back. What does this unit say?",
             ("One should not go on a cow's back", "गोपृष्ठेन च न व्रजेत्."),
             [("It is fine by day but not at night", "The verse gives no such limit."),
-             ("It is fine unless the cow's tail is cut", "The verse forbids both separately."),
+             ("It is fine unless the cow's tail is cut", "The verse names no such exception."),
              ("It is fine in deep mud", "Deep mud is a separate prohibition.")],
             "गोपृष्ठेन (on a cow's back) is forbidden by न व्रजेत्.",
             "गोपृष्ठेन च न व्रजेत्."),
         mcq("transfer", 5, "Built like नभोमध्यगे रवौ (when the sun is in mid-sky), which phrase means when the sun has risen?",
-            ("उदिते सूर्ये", "Noun and participle both in the locative: 'when …'."),
+            ("उदिते सूर्ये", "Noun and describing word both in the locative: 'when …'."),
             [("उदितं सूर्यम्", "Both are accusative, 'the risen sun' as an object."),
              ("उदितेन सूर्येण", "Both are instrumental, 'by the risen sun'."),
              ("उदितः सूर्यः", "Both are nominative, 'the sun is risen' as a statement.")],
-            "नभोमध्यगे रवौ has noun and participle in the locative singular; उदिते सूर्ये does the same.",
-            "Noun + participle both in the locative = 'when …'.",
-            teaches="A noun and its participle in the locative together mean 'when X is …' (रवौ नभोमध्यगे, सूर्ये उदिते)."),
+            "नभोमध्यगे रवौ has noun and describing word in the locative singular; उदिते सूर्ये does the same.",
+            "Noun + describing word both in the locative = 'when …'.",
+            teaches="A noun and a describing word in the locative together mean 'when X is …' (रवौ नभोमध्यगे, सूर्ये उदिते)."),
     ],
 }
 
@@ -531,8 +531,8 @@ AUTHORED["49"] = {
     "limits": ("The verb (व्रजेत्) is carried over from unit 48. What is done 'continuously' "
                "is not stated; going is understood."),
     "explain_hi": ("यह इकाई पिछली ‘न व्रजेत्’ सूची को पूरा करती है। पहली पंक्ति स्थिति बताती है: जल पास न होने "
-                   "पर, बहुत शीघ्रता से और लगातार नहीं। दूसरी पंक्ति में साथी हैं, जिनके साथ नहीं: शत्रु, अपरिचित, "
-                   "अकेला होकर और अधार्मिक। ‘सह’ अंत में सबको जोड़ता है। सूची कारण नहीं देती, केवल निषेध गिनाती है।"),
+                   "पर, बहुत शीघ्रता से और लगातार नहीं। दूसरी पंक्ति में शत्रु, अपरिचित और अधार्मिक के ‘साथ’ न जाने की बात है, और अकेला जाना भी वर्जित है: शत्रु, अपरिचित, "
+                   "अकेला और अधार्मिक। ‘एकः’ का अर्थ है अकेला; ‘सह’ अंत में तृतीयांत शब्दों से जुड़ता है। सूची कारण नहीं देती, केवल निषेध गिनाती है।"),
     "hook": "बिना पानी पास, बहुत जल्दी, लगातार — न जाए; शत्रु, अपरिचित, अकेला, अधार्मिक के साथ — न।",
     "core": True,
     "questions": [
@@ -543,7 +543,7 @@ AUTHORED["49"] = {
              ("With the aged", "Not named in this unit.")],
             "Line 2 names the enemy first among those one should not go with.",
             "न शत्रुणा."),
-        order(1, "Put those one should not go with in the order of line 2.",
+        order(1, "Put the four items of line 2 in the order of the verse.",
               ["शत्रुणा", "अविदितैः", "एकः", "अधार्मिकैः"],
               "Line 2 runs: with an enemy, with strangers, alone, with the unrighteous.",
               "शत्रुणा · अविदितैः · एकः · अधार्मिकैः."),
@@ -559,9 +559,9 @@ AUTHORED["49"] = {
               [["असन्निहितपानीयः", "without water at hand"], ["अतितूर्णम्", "too hurriedly"],
                ["संततम्", "continuously"], ["अविदितैः", "with strangers"]],
               "These four words carry the conditions and company of the verse.",
-              "असन्निहितपानीयः, अतितूर्णम्, संततम् and अविदितैः are the first items of the list.",
+              "These four words are items of the verse's list.",
               role="discriminate"),
-        multi("apply", 4, "Which does the unit say one should not do?",
+        multi("apply", 4, "Which does line 1 say one should not do?",
               [("Go without water at hand", "असन्निहितपानीयः."), ("Go too hurriedly", "अतितूर्णम्."),
                ("Go continuously", "संततम्."), ("Go in the rain", "Not named."),
                ("Go with a dog", "Not named.")],
@@ -587,7 +587,7 @@ AUTHORED["50"] = {
              "to a list that includes an unreadable item."),
     "limits": ("Low confidence. In line 1 one item (बैंकि) is not a word and the Hindi and English of the print "
                "disagree, so no question rests on the list. पुरः may be 'in front of' or 'ahead of'; "
-               "the card keeps 'in front of'."),
+               "the card reads 'in front of / before'."),
     "explain_hi": ("पहली पंक्ति मार्ग देने की बात करती है (‘दद्यात् वर्त्म’), पर उसकी सूची में एक शब्द "
                    "(‘बैंकि’) अस्पष्ट है, और पुस्तक का हिन्दी तथा अंग्रेज़ी अनुवाद एक-दूसरे से नहीं मिलते, इसलिए इस "
                    "पंक्ति पर प्रश्न नहीं बना। दूसरी पंक्ति साफ़ है: बाहर के लोगों (बाह्य) के सामने स्नान, भोजन "
@@ -595,7 +595,7 @@ AUTHORED["50"] = {
     "hook": "मार्ग देने की सूची अस्पष्ट; साफ़ बात: बाहरी लोगों के सामने न स्नान, न भोजन, न पान।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "What does the verse say one should not do in front of outsiders?",
+        mcq("pretest", 0, "What does the verse say one should not do before outsiders?",
             ("Bathe, eat or drink", "स्नानभोजनपानानि बाह्येभ्यो नाचरेत्पुरः."),
             [("Speak, sing or dance", "None of these is named."),
              ("Pray, bow or fast", "None of these is named."),
@@ -608,7 +608,7 @@ AUTHORED["50"] = {
               "स्नान · भोजन · पान."),
         mcq("extend", 2, "Which is the right split of नाचरेत्पुरः?",
             ("न + आचरेत् + पुरः", "न + आ gives ना; the verb ends in -एत्."),
-            [("ना + चरेत् + पुरः", "ना is not a word here; the verb is आचरेत्."),
+            [("ना + चरेत् + पुरः", "The card reads the verb as आचरेत् (should do), not चरेत्."),
              ("न + आचरे + तपुरः", "तपुरः is not a word."),
              ("नाच + रेत् + पुरः", "रेत् is not the verb of the verse.")],
             "न (not) + आचरेत् (should do) + पुरः (in front).",
@@ -619,8 +619,8 @@ AUTHORED["50"] = {
               "These nouns are in line 2.",
               "बाह्य = outsider; स्नान = bathing; भोजन = eating; पान = drinking.",
               role="discriminate"),
-        mcq("apply", 4, "Arun wants to drink in front of outsiders. What does the unit say?",
-            ("It is not to be done: drinking is named", "पानानि is in the list."),
+        mcq("apply", 4, "Arun wants to drink before outsiders. What does the unit say?",
+            ("Not to be done: drinking is named", "पानानि is in the list."),
             [("It is allowed: only eating is named", "Drinking is named too."),
              ("It is allowed: only bathing is named", "Drinking is named too."),
              ("It is forbidden only at night", "The verse gives no time.")],
@@ -645,7 +645,7 @@ AUTHORED["51"] = {
              "a rugged mountain, a doubtful boat, or a tree."),
     "limits": ("अग्निस्कन्ध is 'mass of fire'; 'burning trunk' is another reading. "
                "'With the arms' does not name swimming. For the boat, आरोहेत् serves as 'board'."),
-    "explain_hi": ("इस इकाई में पाँच-छह निषेध हैं। पहली पंक्ति: नदी को भुजाओं से पार न करे, अग्नि के "
+    "explain_hi": ("इस इकाई में पाँच निषेध हैं। पहली पंक्ति: नदी को भुजाओं से पार न करे, अग्नि के "
                    "पुंज (स्कंध) के पास न जाए। दूसरी पंक्ति: ऊबड़-खाबड़ पर्वत पर, संदिग्ध (भरोसे के बिना) नाव "
                    "पर और वृक्ष पर न चढ़े। ‘संशयिताम्’ स्त्रीलिंग है और ‘नावम्’ से जुड़ता है, वृक्ष से नहीं। "
                    "‘बाहुभ्याम्’ में तैरना शब्द नहीं है।"),
@@ -664,7 +664,7 @@ AUTHORED["51"] = {
               "The verse runs: river, mass of fire, rugged mountain, doubtful boat, tree.",
               "नदी · अग्निस्कन्ध · विषम शैल · संशयिता नौका · तरु."),
         mcq("extend", 2, "In नाग्निस्कंधमभिब्रजेत्, which is the right split of ...स्कंधमभि-?",
-            ("स्कंधम् + अभि", "Final म् takes the next vowel: म् + अ gives म."),
+            ("स्कंधम् + अभि", "Final म् takes the next vowel: स्कंधम् + अभि = स्कंधमभि."),
             [("स्कंधः + अभि", "A visarga would not give म."),
              ("स्कंधा + भि", "भि is not the prefix; it is अभि."),
              ("स्कंध + मभि", "मभि is not a word.")],
@@ -736,15 +736,15 @@ AUTHORED["52"] = {
               "द्रुमात् = from a tree; लोष्टेन = with a clod; अद्वारेण = through a non-door; प्रविशेत् = should enter.",
               role="discriminate"),
         mcq("apply", 4, "Which two ways of entering does the unit say are not to be used?",
-            ("When forbidden, and through a non-door", "वार्यमाणः and अद्वारेण."),
-            [("At night, and through the back door", "Neither is named."),
+            ("When forbidden, and by a non-door", "वार्यमाणः and अद्वारेण."),
+            [("At night, and alone, without a guide", "Neither is named."),
              ("With a companion, and with a staff", "Neither is named."),
-             ("When ill, and when hungry", "Neither is named.")],
+             ("When ill, and when hungry or thirsty", "Neither is named.")],
             "Line 2 forbids entering when forbidden (वार्यमाणः) and through a non-door (अद्वारेण).",
             "न वार्यमाणः प्रविशेत्, न अद्वारेण."),
         mcq("transfer", 5, "Built like अद्वारेण (through a non-door), what does अपथेन mean?",
             ("By a non-path", "अ- before a noun makes 'not X'."),
-            [("By a path", "That would be पथेन."),
+            [("By a path", "That would be पथा, without the अ-."),
              ("On the path", "That is a locative, पथि."),
              ("From a path", "That is an ablative, पथात्.")],
             "अद्वार is 'not a door'; अपथ is 'not a path', and the -एन ending is the instrumental.",
@@ -755,7 +755,7 @@ AUTHORED["52"] = {
 
 NOTES_HI = {
     "40": "विश्वास: उच्च। ‘उपायैः’ पूरी सूची से जुड़ सकता है या केवल ‘गुणिनं नृपम्’ से; दोनों संभव हैं, इसलिए प्रश्न नहीं बना। ‘लोकद्वय’ (दोनों लोक) शाब्दिक रखा गया है; कौन-से दो हैं, श्लोक नहीं कहता। ‘लोकद्वयाविरुद्धम्’ को क्रियाविशेषण पढ़ा गया है; ‘क्रियाम्’ स्त्रीलिंग है, इसलिए ‘-आम्’ का सुझाव भी है (text_flag)। संधि जाँची: गोरक्षाम् + उपायैः → गोरक्षामुपायैः (म् + उ); लोकद्वय + अविरुद्धम् → लोकद्वयाविरुद्धम्; संश्रयेत् + क्रियाम्; धन + अर्थी → धनार्थी।",
-    "41": "विश्वास: कम। पंक्ति १ का दूसरा शब्द ‘गमनखमाहारसमास्त्रियः’ बिगड़ा है (डेटा की uncertain सूची में); पुस्तक के हिन्दी (इंद्रियों को शांत) और अंग्रेज़ी (clean the passages) में मेल नहीं, इसलिए कोई अर्थ नहीं बनाया गया। ‘आलम्ब्य’ (थामकर) बनाम ‘आलभ्य’ (छूकर) संदिग्ध है। अंतिम समास ‘देवपूज्याज्यमंगल’ द्वंद्व के रूप में पढ़ा गया है, वैकल्पिक पाठ ‘देव आदि मंगल वस्तुएँ’ भी संभव है। प्रश्न केवल साफ़ शब्दों पर हैं: मुक्तवेगः, पाणिना, निष्क्रामेत्, आज्य। संधि जाँची: निष्क्रामेत् + देव → निष्क्रामेद्देव (त् + द → द्द)।",
+    "41": "विश्वास: कम। पंक्ति १ का दूसरा शब्द ‘गमनखमाहारसमास्त्रियः’ बिगड़ा है (डेटा की uncertain सूची में); पुस्तक के हिन्दी (इंद्रियों को शांत) और अंग्रेज़ी (clean the passages) में मेल नहीं, इसलिए कोई अर्थ नहीं बनाया गया। ‘आलम्ब्य’ (थामकर) बनाम ‘आलभ्य’ (छूकर) संदिग्ध है। अंतिम समास ‘देवपूज्याज्यमंगल’ द्वंद्व के रूप में पढ़ा गया है, वैकल्पिक पाठ ‘देव आदि मंगल वस्तुएँ’ भी संभव है। प्रश्न केवल साफ़ शब्दों पर हैं: मुक्तवेगः, पाणिना, निष्क्रामेत्, वेग। संधि जाँची: निष्क्रामेत् + देव → निष्क्रामेद्देव (त् + द → द्द)।",
     "42": "विश्वास: उच्च। ‘युगमात्र’ जुए का माप है; लंबाई नहीं दी गई। ‘मौली’ = मुकुट/शिरोभूषण, अर्थ अस्पष्ट, इसलिए उसे मिलान में नहीं रखा। ‘विचरेत्’ दूसरी पंक्ति में समझा जाता है। संधि जाँची: च + अति + अधिके → चात्यधिके (अ + अ → आ; इ + अ → य); विचरेत् + युग → विचरेद्युग (त् + य → द्य); स + आतपत्र → सातपत्र।",
     "43": "विश्वास: मध्यम। ‘शिरः’ दोनों ‘प्रावृत्य’ से जुड़ सकता है, या पहले ‘प्रावृत्य’ का कर्म नहीं भी हो; अनुवाद दोनों खुले रखता है। दूसरी पंक्ति की सूची अधूरी है और क्रिया (आक्रमेत्) इकाई ४४ में है। ‘छाया’ कहाँ तक जाती है (केवल पहले सदस्यों तक या पूरे समूह तक), यह खुला है, इसलिए इस पर प्रश्न नहीं बना। संधि जाँची: शिरः + अहनि → शिरोऽहनि; पर्यटेत् + रात्रौ → पर्यटेद्रात्रौ (त् + र → द्र)।",
     "44": "विश्वास: उच्च। छपा ‘मध्यान्हे’ वस्तुतः ‘मध्याह्ने’ है (ह और न का क्रम बदला; text_flag)। ‘अर्द्धरात्रे’ में द्ध ‘ध’ का वर्तनी-रूप है। पंक्ति १ मुख्य वाक्य है; ‘चतुष्पथम्’ की क्रिया (सेवेत) इकाई ४५ में है। ‘बलि’ = भेंट। संधि जाँची: न + आक्रमेत् + शर्करा → नाक्रमेच्छर्करा (अ + आ → आ; त् + श → च्छ); संध्ययोः + रात्रौ → संध्ययोरात्रौ (विसर्ग र से पहले छूटा, ‘ओ’ वैसा ही)।",
@@ -780,18 +780,18 @@ AIDS = {
     },
     "41": {
         "chunks": "मुक्तवेगश्च | (गमन… अस्पष्ट) ‖ पाणिना | (आलम्ब्य) निष्क्रामेत् | देवपूज्याज्यमंगलं।",
-        "anchors": "मुक्त = छोड़ा हुआ · वेग = वेग · पाणि = हाथ · निष्क्रामेत् = बाहर निकले · आज्य = घी।",
+        "anchors": "मुक्त = छोड़ा हुआ · वेग = आवेग (urge) · पाणि = हाथ · निष्क्रामेत् = बाहर निकले।",
         "sandhi": "त् + द → द्द: निष्क्रामेत् + देव → निष्क्रामेद्देव।",
     },
     "42": {
         "diagram": {"groups": [
-            {"label": "दिन में",
+            {"label": "चलते समय",
              "items": ["सातपत्रपदत्राणः", "युगमात्रदृक्"]},
             {"label": "रात में, अत्यधिक कार्य पर",
              "items": ["दंडी", "मौली", "सहायवान्"]}]},
         "chunks": "सातपत्रपदत्राणो | विचरेद्युगमात्रदृक् ‖ निशि चात्यधिके कार्ये | दंडी मौली सहायवान्।",
         "sandhi": "अ + अ → आ, इ + अ → य: च + अति + अधिके → चात्यधिके। त् + य → द्य: विचरेत् + युग → विचरेद्युग।",
-        "contrast": "दिन: छाता-पादत्राण, जुए भर नज़र ↔ रात (ज़रूरी काम): दंड, मौली, साथी।",
+        "contrast": "चलते समय: छाता-पादत्राण, जुए भर नज़र ↔ रात (ज़रूरी काम): दंड, मौली, साथी।",
     },
     "43": {
         "diagram": {"groups": [
@@ -806,7 +806,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पैर न रखे (न आक्रमेत्)",
              "items": ["शर्करा-भूमि", "लोष्ट-भूमि", "बलि-भूमि", "स्नान-भूमि"]},
-            {"label": "चतुष्पथ के समय",
+            {"label": "समय (पंक्ति २)",
              "items": ["मध्याह्न", "संध्ययोः", "रात्रि", "अर्धरात्र"]}]},
         "chunks": "नाक्रमेच्छर्करालोष्ट- | बलिस्नानभुवो न च ‖ मध्यान्हे संध्ययोः | रात्रावर्द्धरात्रे चतुष्पथं।",
         "sandhi": "अ + आ → आ, त् + श → च्छ: न + आक्रमेत् + शर्करा → नाक्रमेच्छर्करा।",
@@ -814,13 +814,13 @@ AIDS = {
     },
     "45": {
         "diagram": {"groups": [
-            {"label": "रात में नहीं",
+            {"label": "पंक्ति १",
              "items": ["वृक्ष", "चैत्य", "चत्वर"]},
             {"label": "दिन में भी नहीं",
              "items": ["सूना", "अटवी", "शून्यगृह", "श्मशान"]}]},
         "chunks": "न सेवेत न शर्वर्यां | वृक्षचैत्यान्न चत्वरं ‖ सूनाटवीशून्यगृह- | श्मशानानि दिवाऽपि न।",
-        "contrast": "रात (शर्वर्याम्): वृक्ष, चैत्य, चत्वर ↔ दिन में भी (दिवाऽपि): सूना, अटवी, शून्यगृह, श्मशान।",
-        "sandhi": "औ + स्वर → आव्: रात्रौ + अपि → रात्रावपि (यह मेरा उदाहरण है, श्लोक में दिवा + अपि है)।",
+        "contrast": "पंक्ति १ (शर्वर्याम् के साथ): वृक्ष, चैत्य, चत्वर ↔ दिन में भी (दिवाऽपि): सूना, अटवी, शून्यगृह, श्मशान।",
+        "sandhi": "आ + अ → आ: दिवा + अपि → दिवापि (छपा दिवाऽपि; ऽ केवल लुप्त अ का चिह्न)।",
         "frame": "क्रिया ‘न सेवेत’ इकाई ४४ के चतुष्पथ से यहाँ तक चलती है।",
     },
     "46": {
@@ -851,7 +851,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "स्थिति",
              "items": ["असन्निहित-पानीय", "अतितूर्ण", "संतत"]},
-            {"label": "साथ न (सह)",
+            {"label": "पंक्ति २",
              "items": ["शत्रु", "अविदित", "एकः", "अधार्मिक"]}]},
         "chunks": "नासन्निहितपानीयो | नातितूर्णं न संततं ‖ न शत्रुणा नाविदितै- | र्नैको नाधार्मिकैः सह।",
         "sandhi": "अ + ए → ऐ: न + एकः → नैकः। अ + अ → आ: न + असन्निहित → नासन्निहित।",
@@ -859,7 +859,7 @@ AIDS = {
     },
     "50": {
         "chunks": "दद्याद्वर्त्मा… (सूची में एक शब्द अस्पष्ट) ‖ स्नानभोजनपानानि | बाह्येभ्यो नाचरेत्पुरः।",
-        "anchors": "बाह्य = बाहर का, पराया · स्नान = नहाना · भोजन = खाना · पान = पीना · आचरेत् = करे।",
+        "anchors": "बाह्य = बाहर का (बाहरी व्यक्ति) · स्नान = नहाना · भोजन = खाना · पान = पीना · आचरेत् = करे।",
         "sandhi": "अ + आ → आ: न + आचरेत् → नाचरेत्।",
     },
     "51": {
@@ -887,10 +887,10 @@ IMAGE_SPECS = {
     },
     ("42", "diagram"): {
         "file": "ch3b04-walk-42.svg",
-        "alt": "Two columns: by day, with umbrella and footwear, looking a yoke's length ahead; at night on pressing business, with a staff, a head-dress and a companion",
+        "alt": "Two columns: when walking about, with umbrella and footwear, looking a yoke's length ahead; at night on pressing business, with a staff, a head-dress and a companion",
         "type": "split",
         "title": "श्लोक ४२: चलना",
-        "cols": [["दिन में", ["सातपत्रपदत्राणः", "युगमात्रदृक्"]],
+        "cols": [["चलते समय", ["सातपत्रपदत्राणः", "युगमात्रदृक्"]],
                  ["रात में (अत्यधिक कार्य)", ["दंडी", "मौली", "सहायवान्"]]],
     },
     ("43", "diagram"): {
@@ -907,23 +907,23 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "श्लोक ४४: भूमि और समय",
         "cols": [["पैर न रखे", ["शर्करा", "लोष्ट", "बलि", "स्नान"]],
-                 ["समय (चतुष्पथ)", ["मध्याह्न", "संध्ययोः", "रात्रि", "अर्धरात्र"]]],
+                 ["समय (पंक्ति २)", ["मध्याह्न", "संध्ययोः", "रात्रि", "अर्धरात्र"]]],
     },
     ("45", "diagram"): {
         "file": "ch3b04-places-45.svg",
-        "alt": "Two columns: at night not trees, shrines, courtyard; even by day not slaughterhouses, forests, empty houses, cremation grounds",
+        "alt": "Two columns: line 1, trees, shrines (named with night) and a courtyard; line 2, even by day not slaughterhouses, forests, empty houses, cremation grounds",
         "type": "split",
         "title": "श्लोक ४५: न सेवेत",
-        "cols": [["रात में नहीं", ["वृक्ष", "चैत्य", "चत्वर"]],
+        "cols": [["पंक्ति १", ["वृक्ष", "चैत्य", "चत्वर"]],
                  ["दिन में भी नहीं", ["सूना", "अटवी", "शून्यगृह", "श्मशान"]]],
     },
     ("49", "diagram"): {
         "file": "ch3b04-go-not-49.svg",
-        "alt": "Two columns: states in which not to go (without water at hand, too hurriedly, continuously) and company not to go with (enemy, strangers, alone, unrighteous)",
+        "alt": "Two columns: states in which not to go (without water at hand, too hurriedly, continuously) and line 2: enemy, strangers, alone, unrighteous",
         "type": "split",
         "title": "श्लोक ४९: न जाए",
         "cols": [["स्थिति", ["बिना पास जल", "बहुत शीघ्र", "लगातार"]],
-                 ["साथ न", ["शत्रु", "अविदित", "अकेला", "अधार्मिक"]]],
+                 ["पंक्ति २", ["शत्रु", "अविदित", "अकेला", "अधार्मिक"]]],
     },
     ("51", "diagram"): {
         "file": "ch3b04-five-nots-51.svg",
