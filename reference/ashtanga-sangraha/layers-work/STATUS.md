@@ -5,6 +5,6 @@ Order per chunk: draft -> check_chunk.py -> independent review -> apply_review.p
 
 | Part | Chunks | pending | drafted | checked | reviewed | applied | merged | written |
 |---|---|---|---|---|---|---|---|---|
-| 05 | 26 | 26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 05 | 26 | 25 | 0 | 0 | 0 | 1 | 0 | 0 |
 
-Next pending chunks: p05-c01-k1, p05-c01-k2, p05-c02-k1, p05-c02-k2, p05-c02-k3, p05-c02-k4, p05-c02-k5, p05-c03-k1, p05-c03-k2, p05-c03-k3, p05-c04-k1, p05-c04-k2, p05-c04-k3, p05-c05-k1, p05-c05-k2, p05-c05-k3, p05-c05-k4, p05-c06-k1, p05-c06-k2, p05-c06-k3, p05-c06-k4, p05-c07-k1, p05-c07-k2, p05-c07-k3, p05-c08-k1, p05-c08-k2
+Next pending chunks: p05-c01-k2, p05-c02-k1, p05-c02-k2, p05-c02-k3, p05-c02-k4, p05-c02-k5, p05-c03-k1, p05-c03-k2, p05-c03-k3, p05-c04-k1, p05-c04-k2, p05-c04-k3, p05-c05-k1, p05-c05-k2, p05-c05-k3, p05-c05-k4, p05-c06-k1, p05-c06-k2, p05-c06-k3, p05-c06-k4, p05-c07-k1, p05-c07-k2, p05-c07-k3, p05-c08-k1, p05-c08-k2

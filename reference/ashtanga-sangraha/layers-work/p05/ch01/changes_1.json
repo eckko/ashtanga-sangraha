@@ -1,0 +1,179 @@
+[
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "doṣa-dṛṣya-ādi-vaśāt",
+  "old": "doṣa-dṛṣya-ādi-vaśāt",
+  "new": "doṣa-dūṣya-ādi-vaśāt",
+  "why": "reviewer (minor): the w keeps the printed misprint \"dṛṣya\" although text_flags corrects it to dūṣya (brief rule 6: corrected form in words)"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "etat-kalpanānām",
+  "old": "tat-puruṣa, f. gen. pl.",
+  "new": "karmadhāraya, f. gen. pl.",
+  "why": "reviewer (minor): etat-kalpanā (\"these preparations\") is a karmadhāraya (pronoun + noun), not a tat-puruṣa"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "buddhi-matām",
+  "old": "bahuvrīhi, m. gen. pl.",
+  "new": "m. gen. pl. (buddhimat, matup)",
+  "why": "reviewer (minor): buddhimat is a possessive (matup) derivative, not a compound with member \"matām\"; hyphenation and \"bahuvrīhi\" label are wrong"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "praśaste",
+  "old": "m. loc. sg.",
+  "new": "loc. sg. (n. with ahani; m. if also with muhūrte)",
+  "why": "reviewer (minor): agrees with ahani (n. loc. sg.), labelled m.; if also read with muhūrte it is m.; label as n. with note"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "'muhūrtte' is a variant spelling of muhūrte. 'harita-pāṇḍu' read as 'green and pale-yellow'; as a single compound it could mean 'green-pale'.",
+  "new": "'muhūrtte' is a variant spelling of muhūrte. 'harita-pāṇḍu' read as 'green and pale-yellow'; as a single compound it could mean 'green-pale'. praśaste may qualify only ahani, or both ahani and muhūrte; both translations take it with both.",
+  "why": "reviewer (minor): praśaste may agree with ahani only; repeating \"auspicious\" for muhūrta decides an ambiguity silently (also Hindi शुभ मुहूर्त)"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "pippalīḥ",
+  "old": "pippalīs (a part or product of the fruit; drug name)",
+  "new": "pippalī (drug name)",
+  "why": "reviewer (minor): gloss \"a part or product of the fruit\" is an interpretation; rule 7 asks for the plain name"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Especially in phlegm (śleṣma), fever, gulma, pratiśyāya and internal abscesses, since again (it goes on) until pitta comes.",
+  "new": "Especially in phlegm (śleṣma), fever, gulma, pratiśyāya and internal abscesses, again until Pitta comes.",
+  "why": "reviewer (error): ā + ablative (ā-pitta-gamanāt) means \"until/up to the coming of pitta\"; \"since\" gives a causal sense and \"(it goes on)\" is added"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "कफ, ज्वर, गुल्म, प्रतिश्याय और भीतरी विद्रधि में विशेष रूप से, क्योंकि फिर पित्त के आने तक (वमन होता है)।",
+  "new": "कफ, ज्वर, गुल्म, प्रतिश्याय और भीतरी विद्रधि में विशेष रूप से, फिर पित्त के आने तक।",
+  "why": "reviewer (error): bracketed supplied words are not allowed in Hindi, and \"क्योंकि\" is causal (same error as English)"
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "phala-pippalī-cūrṇam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, n. acc. sg.",
+  "why": "reviewer (minor): these are objects of pibet, so accusative, not nominative (also tribhāga-triphalā-cūrṇam)"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka.",
+  "new": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong Kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "kapha-sthāna-gate",
+  "old": "tat-puruṣa, loc. sg.",
+  "new": "tat-puruṣa, n. loc. sg.",
+  "why": "reviewer (minor): gender missing; agrees with pitte"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Or the powder of the kernel of the madana fruit, with a decoction of jīmūtaka and the rest, when pitta has gone to the seat of kapha.",
+  "new": "Or the powder of the kernel of the madana fruit, with a decoction of jīmūtaka and the rest, when Pitta has gone to the seat of Kapha.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Or a palmful of the santānikā (skin) of that cold milk, when pitta is aggravated and the chest, throat and heart are smeared with thin kapha.",
+  "new": "Or a palmful of the santānikā (skin) of that cold milk, when Pitta is aggravated and the chest, throat and heart are smeared with thin Kapha.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in kapha, vomiting, praseka and tamaka.",
+  "new": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in Kapha, vomiting, praseka and tamaka.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni) is overcome by kapha and the body is drying up.",
+  "new": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni) is overcome by Kapha and the body is drying up.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "bhakṣyam",
+  "old": "n. acc. sg.",
+  "new": "m./n. acc. sg. (agrees with anyam)",
+  "why": "reviewer (minor): anyam labelled m. but bhakṣyam n.; they must agree"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "अथवा फल की मज्जा का क्वाथ, वत्सक आदि के प्रक्षेप सहित, नीम या अर्क में से किसी एक के कषाय से मिला हुआ, संतर्पण से उत्पन्न सब कफ-रोगों को हरने वाला।",
+  "new": "अथवा फल की मज्जा का क्वाथ, वत्सक आदि के प्रक्षेप सहित, निम्ब या अर्क में से किसी एक के कषाय से मिला हुआ, संतर्पण से उत्पन्न सब कफ-रोगों को हरने वाला।",
+  "why": "reviewer (error): नीम is the common plant name (identifies nimba as a plant); brief: keep the name, never identify"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Or the decoction of the fruit kernel, with an addition of vatsaka and the rest, mixed with the decoction of either nimba or arka, removing all kapha ailments arising from satiation (saṃtarpaṇa).",
+  "new": "Or the decoction of the fruit kernel, with an addition of vatsaka and the rest, mixed with the decoction of either nimba or arka, removing all Kapha ailments arising from satiation (saṃtarpaṇa).",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा फल आदि के क्वाथ से इक्कीस बार भली-भाँति भावित फल-पिप्पलियों को पुष्प के पराग के समान चूर्ण से चूर्णित करे। संध्या के समय सरोवर में बड़े कमल में रखकर रात भर रखे उसे प्रातः फिर चूर्ण मिलाकर निकाल ले। हल्दी, कृसरा, दूध या यवागू में से किसी एक को सेंधा नमक, गुड़ और फाणित मिलाकर गले तक पीकर, सूँघता हुआ, सुकुमार, उचित गन्ध की सम्पदा से जिसके कफ और पित्त उभर आए हों और जो औषध से द्वेष रखता हो, वह इस प्रकार सुख से वमन करता है।",
+  "new": "अथवा फल आदि के क्वाथ से इक्कीस बार भली-भाँति भावित फल-पिप्पलियों को पुष्प के पराग के समान चूर्ण से चूर्णित करे। संध्या के समय सरोवर में बड़े कमल में रखकर रात भर रखे उसे प्रातः फिर चूर्ण मिलाकर निकाल ले। हरिद्रा, कृसरा, दूध या यवागू में से किसी एक को सेंधा नमक, गुड़ और फाणित मिलाकर गले तक पीकर, सूँघता हुआ, सुकुमार, उचित गन्ध की सम्पदा से जिसके कफ और पित्त उभर आए हों और जो औषध से द्वेष रखता हो, वह इस प्रकार सुख से वमन करता है।",
+  "why": "reviewer (error): हल्दी is the plant identification of haridrā (turmeric); keep the name"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā, kṛsarā, milk or gruel, with rock salt, jaggery and phāṇita added, while smelling it, a delicate person, whose kapha and pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily.",
+  "new": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā, kṛsarā, milk or gruel, with rock salt, jaggery and phāṇita added, smelling, a delicate person, whose Kapha and Pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "loma-lomavatsu",
+  "old": "bahuvrīhi, n. loc. pl.",
+  "new": "n. loc. pl. (lomavat, matup)",
+  "why": "reviewer (minor): flag says lomavatsu is the likely reading but w keeps the doubled misprint (rule 6); lomavat is a matup form, not a bahuvrīhi"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "हरे और पीले (फलों) में दूध या खट्टा दही।",
+  "new": "हरे और पीले फलों में दूध या खट्टा दही।",
+  "why": "reviewer (error): bracketed supplied word in Hindi"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "अथवा उसके कषाय से मिली हुई सुरा को कफ, अरोचक, कास, पाण्डुरोग और यक्ष्मा में प्रयोग करे।",
+  "new": "अथवा उसके कषाय से मिली हुई सुरा को कफ, अरोचक, कास, पाण्डुरोग और यक्ष्मन् में प्रयोग करे।",
+  "why": "reviewer (error): in modern Hindi यक्ष्मा means tuberculosis (a diagnosis); medical-term rule wants the plain term"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Or one should use surā mixed with its decoction in kapha, arocaka, cough, pāṇḍu disease and yakṣman.",
+  "new": "Or one should use surā mixed with its decoction in Kapha, arocaka, cough, pāṇḍu disease and yakṣman.",
+  "why": "reviewer (minor): fixed rendering is Kapha/Pitta (capitalised) in English; draft uses lowercase"
+ }
+]
