@@ -1,0 +1,837 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the preparations of the siddhabasti",
+     "problem": "kalpam is singular; 'preparations' is plural.",
+     "fix": "the preparation (kalpa) of the siddhabasti",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the preparations of the siddhabasti",
+      "new": "the preparation (kalpa) of the siddhabasti",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarva-dehinām",
+     "problem": "sarva + dehin is an adjective+noun karmadhāraya, not tat-puruṣa.",
+     "fix": "m. gen. pl., karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sarva-dehinām",
+      "field": "gram",
+      "value": "m. gen. pl., karmadhāraya",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bala-buddhi",
+     "problem": "'strength and intelligence' is a dvandva, not a tat-puruṣa.",
+     "fix": "dvandva, first members of a compound ending in karān in the next token",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bala-buddhi",
+      "field": "gram",
+      "value": "dvandva, first members of a compound ending in karān in the next token",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बहुत फल देने वाले, बल और बुद्धि बढ़ाने वाले",
+     "problem": "bahuphalān = 'having many fruits/results' (not 'giving'); karān = 'making/producing', not 'increasing' (बढ़ाने adds a sense; English says producing).",
+     "fix": "ये बिना विपत्ति के, बहुत फलों वाले, बल और बुद्धि उत्पन्न करने वाले तथा सुखद हैं।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ये बिना विपत्ति के, बहुत फलों वाले, बल और बुद्धि उत्पन्न करने वाले तथा सुखद हैं।",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one karṣa",
+     "problem": "karṣaḥ has no numeral; 'one' is supplied. Also miśi is tagged disputed but the translation gives 'dill' unhedged.",
+     "fix": "a karṣa ... miśi (probably dill)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "one karṣa (a unit of weight)",
+      "new": "a karṣa (a unit of weight)",
+      "n": "4"
+     }
+    },
+    {
+     "field": "english",
+     "where": "miśi (dill)",
+     "problem": "Tagged disputed in gloss/notes, so the translation must hedge.",
+     "fix": "miśi (probably dill)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "miśi (dill)",
+      "new": "miśi (probably dill)",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "एक कर्ष; सैन्धव से दो पिचु; मिशि।",
+     "problem": "'एक' supplied (no numeral for karṣa); Hindi gives no modern names for saindhava and miśi (owner policy).",
+     "fix": "मधु और तैल बराबर; कर्ष; सैन्धव यानी सेंधा नमक से दो पिचु; मिशि यानी सम्भवतः सोया।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मधु और तैल बराबर; कर्ष; सैन्धव यानी सेंधा नमक से दो पिचु; मिशि यानी सम्भवतः सोया।",
+      "n": "4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "commentarial reading",
+     "problem": "Notes assert a 'commentarial reading' with no source in the input; unverifiable. (Standard tables also make picu a synonym of karṣa, so 'dvipicu' = two karṣa; human may add.)",
+     "fix": "possible reading (source not checked)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "commentarial reading:",
+      "new": "possible reading (source not checked):",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "eraṇḍa-mūla-kāthena",
+     "problem": "Rule 6: a flagged typo must carry the corrected form in `words`; kāthena is kept in w though text_flags suggests kvātha (as done in 12, 14, 16).",
+     "fix": "eraṇḍa-mūla-kvāthena",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eraṇḍa-mūla-kāthena",
+      "field": "w",
+      "value": "eraṇḍa-mūla-kvāthena",
+      "n": "5"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mādhutailikaḥ",
+     "problem": "mādhutailika is a known named nirūha (honey-oil); 'made with honey and oil' in English plus 'with honey and oil' repeats; observation only.",
+     "fix": "note that mādhutailika is likely a proper name of this nirūha (probable)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "rasāyanam",
+     "problem": "Printed rasāyanaṃ is neuter nom. sg. (predicate noun); draft says m. and note says it agrees with nirūhaḥ (m.), which it cannot. Unit 35 correctly has n.",
+     "fix": "n. nom. sg. (predicate, 'a rasāyana')",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rasāyanam",
+      "field": "gram",
+      "value": "n. nom. sg. (predicate)",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "adjectives agree with nirūhaḥ",
+     "problem": "rasāyanam is neuter so it is a predicate, not an agreeing adjective. Also 'pramehārśaḥ' carries a visarga inside what the draft reads as a compound (prameha-arśaḥ-kṛmi...); a visarga cannot stand inside a compound, so the printed visarga is an anomaly that is neither flagged nor discussed.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: 'rasāyanam' is neuter, a predicate ('it is a rasāyana'), not an adjective agreeing with nirūhaḥ. The printed visarga of 'pramehārśaḥ' sits where a compound member (prameha-arśa-) would have none; it may be a print error, or arśaḥ is a separate word; the reading as a list of objects of -nut is kept.",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रक्तपित्त को जीतने वाला",
+     "problem": "Hindi gives no modern name for raktapitta (English does).",
+     "fix": "रक्तपित्त यानी रक्तस्राव वाले विकार को जीतने वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तपित्त को जीतने वाला",
+      "new": "रक्तपित्त यानी रक्तस्राव वाले विकार को जीतने वाला",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "madhu-taila-vasā-ājyavān",
+     "problem": "Not a bahuvrīhi: dvandva of four substances + possessive suffix -vat (matup).",
+     "fix": "dvandva + -vat (possessive), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madhu-taila-vasā-ājyavān",
+      "field": "gram",
+      "value": "dvandva + -vat (possessive suffix), m. nom. sg.; ājya = ghee",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(एक अस्पष्ट शब्द पर अनुमानित पाठ के अनुसार)",
+     "problem": "Brackets are not allowed in Hindi; the phrase is also detached from what it qualifies. The 'conjectural reading' wording itself is present in both translations.",
+     "fix": "एक अस्पष्ट शब्द के अनुमानित पाठ के अनुसार पीठ और कूल्हे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीठ और कूल्हे (एक अस्पष्ट शब्द पर अनुमानित पाठ के अनुसार),",
+      "new": "एक अस्पष्ट शब्द के अनुमानित पाठ के अनुसार पीठ और कूल्हे,",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with portions of one prasṛta (a handful measure) each",
+     "problem": "'one' and 'each' are supplied; prasṛta-aṃśaiḥ is 'with prasṛta-portions' (the compound is not a tat-puruṣa but a descriptive/karmadhāraya-type one).",
+     "fix": "with prasṛta-portions (prasṛta, a handful measure)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with portions of one prasṛta (a handful measure) each,",
+      "new": "with prasṛta-portions (prasṛta, a handful measure),",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "phalaḥ",
+     "problem": "Gloss 'with fruit' is the sense of the whole bahuvrīhi sa-vacā-pippalī-phalaḥ spread over two printed tokens; as a single word phalaḥ is just 'fruit'.",
+     "fix": "bahuvrīhi (continues sa-vacā-pippalī), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "phalaḥ",
+      "field": "gram",
+      "value": "last member of the bahuvrīhi sa-vacā-pippalī-phalaḥ, m. nom. sg.",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक अस्पष्ट शब्द (छपा रूप पैण्डुण्ठा) पर अनुमानित पाठ के अनुसार,",
+     "problem": "Brackets in Hindi, and the sentence is garbled ('शब्द ... पर'). 'conjectural reading' is present in both languages.",
+     "fix": "पैण्डुण्ठा, जो छपा हुआ अस्पष्ट शब्द है और अनुमानित पाठ के अनुसार लिया गया है,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक अस्पष्ट शब्द (छपा रूप पैण्डुण्ठा) पर अनुमानित पाठ के अनुसार,",
+      "new": "पैण्डुण्ठा, जो छपा हुआ अस्पष्ट शब्द है और अनुमानित पाठ के अनुसार लिया गया है,",
+      "n": "14"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "paiṃḍhuṃthā",
+     "problem": "Needs a human: the print is metrically a 3-syllable word (line = 16 syllables), so a 3-syllable drug name is expected; left unsplit and unidentified, which is right.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मधुक",
+     "problem": "Hindi gives no identification (English hedges 'probably licorice').",
+     "fix": "सैन्धव और मधुक यानी सम्भवतः मुलेठी सहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मधुक सहित",
+      "new": "मधुक यानी सम्भवतः मुलेठी सहित",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बिल्व",
+     "problem": "No modern Hindi name.",
+     "fix": "बिल्व यानी बेल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बिल्व को",
+      "new": "बिल्व यानी बेल को",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वत्सक और तोयद",
+     "problem": "No Hindi identifications although the notes tag both 'probable'.",
+     "fix": "वत्सक यानी सम्भवतः कुटज और तोयद यानी सम्भवतः नागरमोथा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाठा, वत्सक और तोयद",
+      "new": "पाठा, वत्सक यानी सम्भवतः कुटज और तोयद यानी सम्भवतः नागरमोथा",
+      "n": "19"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tenai",
+     "problem": "Reading of 'tenai' is not secure: 'tena' (by that) leaves the construction unclear (what is 'that'?). Metre does not decide (te-nai and te-na are both two syllables). Human decision.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sa-phalaiḥ",
+     "problem": "phala is neuter.",
+     "fix": "n. inst. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sa-phalaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl., bahuvrīhi",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुस्ता, पाठा ... एरण्ड",
+     "problem": "Hindi names missing for musta (standard) and eraṇḍa.",
+     "fix": "add यानी नागरमोथा / यानी अरंडी",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "मुस्ता, पाठा",
+       "new": "मुस्ता यानी नागरमोथा, पाठा",
+       "n": "23"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "एरण्ड, बला",
+       "new": "एरण्ड यानी अरंडी, बला",
+       "n": "23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "akṣa (probably bibhītaka) and rohiṇī (which drug is meant is unclear)",
+     "problem": "Caller check: the English does not say 'on a conjectural reading' for the conjectural akṣa + rohiṇī division, though notes and confidence say so.",
+     "fix": "...akṣa and rohiṇī (on a conjectural reading of the end of the line: akṣa probably bibhītaka; which drug rohiṇī means is unclear)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "akṣa (probably bibhītaka) and rohiṇī (which drug is meant is unclear).",
+      "new": "akṣa and rohiṇī (on a conjectural reading of the end of the line: akṣa probably bibhītaka; which drug rohiṇī means is unclear).",
+      "n": "24"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अक्ष यानी सम्भवतः बहेड़ा और रोहिणी",
+     "problem": "Hindi lacks the conjectural-reading wording and Hindi names for mañjiṣṭhā, āragvadha, uśīra.",
+     "fix": "set",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मंजिष्ठा यानी मंजीठ, आरग्वध यानी अमलतास, उशीर यानी खस, त्रायमाणा जिसकी पहचान में मतभेद है, तथा पंक्ति के अन्त के अनुमानित पाठ के अनुसार अक्ष यानी सम्भवतः बहेड़ा और रोहिणी जिसकी पहचान अस्पष्ट है।",
+      "n": "24"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "avagraha",
+     "problem": "Printed avagraha in maṃjiṣṭhā'ragvadho is spurious (ā+ā gives ā; the whole line is one dvandva compound) and is not flagged.",
+     "fix": "note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the printed avagraha in maṃjiṣṭhā'ragvadho is a print oddity (mañjiṣṭhā + āragvadha gives ā); the line is read as one dvandva compound, so ra-/u sandhi (āragvadha + uśīra -> -dhośīra) is internal.",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kanīyaḥ",
+     "problem": "kanīyaḥ is the neuter nom. sg. of kanīyas (masc. would be kanīyān); it agrees with pañcamūlam (n.). 'm./n.' is imprecise.",
+     "fix": "n. nom. sg. (adj.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kanīyaḥ",
+      "field": "gram",
+      "value": "n. nom. sg. (adj.)",
+      "n": "25"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of the weight of one pala each",
+     "problem": "'each' is supplied (pālikam only says 'of a pala').",
+     "fix": "of the weight of one pala",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of the weight of one pala each",
+      "new": "of the weight of one pala",
+      "n": "25"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आठ मदन",
+     "problem": "No Hindi name (English: probably Randia dumetorum).",
+     "fix": "आठ मदन यानी सम्भवतः मैनफल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आठ मदन",
+      "new": "आठ मदन यानी सम्भवतः मैनफल",
+      "n": "25"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "its members are not listed",
+     "problem": "The lesser pañcamūla (kanīya/laghu) is a standard group: śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (standard). Useful identification the draft omitted; see also 36.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: kanīya (laghu) pañcamūla is the standard group śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī and gokṣura (standard reference tables; the text itself does not list them).",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pacettacca",
+     "problem": "w 'paced' is wrong: pacet before tat- stays pacet (pacet + tat + ca).",
+     "fix": "pacet",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "paced",
+      "field": "w",
+      "value": "pacet",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the amount sapāda",
+     "problem": "'in the amount' is supplied; text has only the compound sapāda-jāṅgalarasaḥ.",
+     "fix": "sapāda (one and a quarter; the unit is not stated)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the amount sapāda (one and a quarter)",
+      "new": "sapāda (one and a quarter; the unit is not stated)",
+      "n": "28"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "miśi (dill)",
+     "problem": "Tagged disputed (as in 4), so must be hedged.",
+     "fix": "miśi (probably dill)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "miśi (dill)",
+      "new": "miśi (probably dill)",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनुमानित पाठ के अनुसार, पिसे हुए ...",
+     "problem": "'conjectural reading' phrase is at the start, not tied to kara; no Hindi names.",
+     "fix": "set",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "पिसे हुए यष्टी यानी मुलेठी, मिशि यानी सम्भवतः सोया, श्यामा जिसकी पहचान में मतभेद है, कलिङ्ग यानी सम्भवतः कुटज का बीज, कर जो अस्पष्ट शब्द है और अनुमानित पाठ के अनुसार लिया गया है, और अञ्जन के साथ।",
+      "n": "29"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "kaliṃgakarañja",
+     "problem": "Metre: the printed line is exactly 16 syllables as it stands; the guess karañja adds a syllable (17), which tells against it. Another possible loss (e.g. a drug name ending in -sa- before añjana) cannot be settled. Human decision.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dhmā",
+     "problem": "Glossary: an unrestorable printed word is kept in w as printed; the draft lists 'dhmā' (neither printed nor a form it explains).",
+     "fix": "dhma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhmā",
+      "field": "w",
+      "value": "dhma",
+      "n": "32"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "dhmāna",
+     "problem": "The guess dhmāna makes the line 17 syllables (printed is 16) and repeats ādhmāna in the next word, so it is weak. Human decision.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कमर के जोड़ पर, जाँघ, कटि, कुक्षि",
+     "problem": "vaṅkṣaṇa is the groin; 'कमर के जोड़ पर' is confusing next to कटि (waist) and adds 'पर'. Kukṣi unglossed.",
+     "fix": "वंक्षण यानी जाँघ के जोड़, जाँघ, कटि यानी कमर, कुक्षि यानी पेट का बगल,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कमर के जोड़ पर, जाँघ, कटि, कुक्षि,",
+      "new": "वंक्षण यानी जाँघ के जोड़, जाँघ, कटि यानी कमर, कुक्षि यानी पेट का बगल,",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गोक्षुर के बिना",
+     "problem": "No Hindi name for gokṣura (standard Tribulus terrestris).",
+     "fix": "गोक्षुर यानी गोखरू के बिना",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोक्षुर के बिना",
+      "new": "गोक्षुर यानी गोखरू के बिना",
+      "n": "36"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "agokṣuram",
+     "problem": "Needs a human: gokṣura belongs to the lesser pañcamūla (see 25) but not to the greater one, so 'pañcamūla without gokṣura' is either redundant (greater group) or leaves four roots (lesser group). Possible corruption (e.g. a different word for agokṣuram). Translation stays literal.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक आढक दूध में ... यष्टि आदि",
+     "problem": "'एक' supplied (āḍhake has no numeral); no Hindi name for yaṣṭi.",
+     "fix": "आढक दूध में, चार प्रस्थ, पिसे हुए यष्टि यानी मुलेठी आदि से युक्त।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "आढक दूध में, चार प्रस्थ, पिसे हुए यष्टि यानी मुलेठी आदि से युक्त।",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yuktaṃ",
+     "problem": "'yuktaṃ' (neuter) does not agree with bastiḥ (masc.), unlike yukto bastiḥ in 21; unflagged. Possible yukto. Translation unaffected.",
+     "fix": "add possible flag",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "kṣaudratailājyasiṃdhūtthayuktaṃ",
+         "suggest": "kṣaudratailājyasiṃdhūtthayukto",
+         "why": "possible: yuktaṃ is neuter but agrees with bastiḥ (masc.), cf. yukto bastiḥ in 21; anusvāra for visarga/o is a common print slip"
+        }
+       ],
+       "n": "38"
+      },
+      {
+       "op": "word",
+       "match_w": "kṣaudra-taila-ājya-sindhūttha-yuktam",
+       "field": "gram",
+       "value": "dvandva + tat-puruṣa, n. nom. sg. as printed (bastiḥ is m.; see text_flags)",
+       "n": "38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those of a comfort-loving nature",
+     "problem": "'loving' is added; sukha-ātman is 'of a comfortable/happy nature'.",
+     "fix": "those of a comfortable (sukha) nature",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "those of a comfort-loving nature",
+      "new": "those of a comfortable (sukha) nature",
+      "n": "39"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 1 (units 1-39): 10 errors, 35 minor. Errors: unsupported 'one'/'each' (4,10), unhedged disputed miśi (4,29), wrong gender/agreement on rasāyanam (6), missing 'conjectural reading' in 24 translations, wrong w 'paced' (26). Damaged-print units 9, 14, 29, 32, 34 carry 'conjectural reading' in both translations (Hindi wording tidied in 9, 14, 29); unit 24 did not and is patched. No identification judged wrong; hedging is the issue (miśi). Needs a human: 14 (paiṃḍhuṃthā), 19 (tenai), 29 (kara; karañja breaks the 16-syllable metre), 32 (dhmāna breaks metre and duplicates ādhmāna), 34 (aśmakuṇḍalān), 36 (pañcamūla agokṣura contradiction), 4 (attachment of quantities), 38 (yuktaṃ vs bastiḥ). Sentences run across 3-8, 5-7, 10-11, 18-20, 21-22, 23-29, 31-34, 36-39; no regrouping claimed (one could group 31-34 and 23-29 as single sentences for display). Hindi in the draft is thin on modern plant names (owner policy): patched for 4, 7, 17, 18, 19, 23, 24, 25, 29, 33, 36, 37; remaining plant Hindi names are suggestions.",
+ "glossary_suggestions": [
+  "saindhava: Hindi 'सैन्धव यानी सेंधा नमक' at first use in a unit; sindhūttha similar.",
+  "miśi = 'probably dill (Anethum sowa)' in both languages wherever it appears; Hindi 'मिशि यानी सम्भवतः सोया'.",
+  "Measures: akṣa, picu, karṣa are standard synonyms of the same weight (karṣa); prasṛta = 2 pala; prastha, āḍhaka volumes; keep generic in translation, give the equivalence once in notes.",
+  "pañcamūla: lesser (kanīya/laghu) = śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura; greater = bilva, agnimantha, śyonāka, pāṭalā, gambhārī; dvipañcamūla = both groups (daśamūla). Add a note only where the text says which.",
+  "Do not supply numerals ('one') or distributives ('each') when the Sanskrit has none (karṣaḥ, āḍhake, pālikam).",
+  "Hindi: no brackets even for 'conjectural reading'; use 'अनुमानित पाठ के अनुसार' in the sentence.",
+  "A rejected typo conjecture belongs in text_flags; the corrected form goes in w only when the flag is 'possible' and plausible; unrestorable words stay as printed in w."
+ ]
+}
