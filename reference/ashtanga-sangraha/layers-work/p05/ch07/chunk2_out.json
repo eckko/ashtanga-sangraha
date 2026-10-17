@@ -1,5 +1,74 @@
 [
  {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārśvacchidraṃ",
+      "words": [
+       {
+        "w": "pārśva-chidram",
+        "gloss": "side; hole",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakramaṣṭau",
+      "words": [
+       {
+        "w": "vakram",
+        "gloss": "crooked",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num. n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "netrāṇi",
+      "words": [
+       {
+        "w": "netrāṇi",
+        "gloss": "nozzles (netra, the tube of the enema)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पार्श्व में छेद वाला और वैसे ही टेढ़ा: इन आठ नेत्र यानी नलियों को छोड़ देना चाहिए।",
+  "english": "With a hole in the side (pārśvacchidra), and likewise crooked: one should avoid the eight nozzles (netra, the tube).",
+  "text_flags": [],
+  "notes": "The list of defective nozzles continues from unit 37 (hrasva, dīrgha, tanu, sthūla, jīrṇa, śithilabandhana); with these two it makes eight. GROUPING: the sentence runs on from unit 37. The two adjectives stand as list items (singular) before the plural noun netrāṇi; no noun is supplied for them. netra = the nozzle/tube of the enema apparatus (standard).",
+  "confidence": "high"
+ },
+ {
   "n": "39",
   "lines": [
    {
@@ -275,6 +344,41 @@
   "confidence": "low"
  },
  {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uccaikaratyavākśīrṣamūrdhvasaṃkucitasthitaṃ",
+      "words": [
+       {
+        "w": "uccaikaratyavākśīrṣam",
+        "gloss": "unclear (the printed form; possibly ucca \"high\" and avākśīrṣa \"head-down\")",
+        "gram": ""
+       },
+       {
+        "w": "ūrdhva-saṅkucita-sthitam",
+        "gloss": "upward; drawn together; staying",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पहला शब्द अस्पष्ट है; एक अनुमानित पाठ के अनुसार: ऊँचा, सिर नीचे किए हुए; ऊपर की ओर सिकुड़ा हुआ स्थित।",
+  "english": "The first word is unclear; on a conjectural reading: high, head-down; staying drawn up above.",
+  "text_flags": [
+   {
+    "src": "uccaikaratyavākśīrṣaṃ",
+    "suggest": "(not restorable)",
+    "why": "printed form is not a word; a conjectural reading \"ucca ... avākśīrṣa\" (high ... head-down) is only a guess from the later part; not corrected"
+   }
+  ],
+  "notes": "Units 45-46 appear to list positions (of the patient or the bed) to be avoided, ending in \"parityajet\" in 46. GROUPING: the sentence runs on into unit 46. The reading of the first word is a guess; \"ūrdhvasaṅkucitasthita\" is taken literally (ūrdhva up, saṅkucita drawn together/contracted, sthita staying), and is not firm either.",
+  "confidence": "low"
+ },
+ {
   "n": "46",
   "lines": [
    {
@@ -407,6 +511,71 @@
    }
   ],
   "notes": "A list of consequences; the heading comes in unit 49 (\"taddoṣāḥ\"). \"mūtrāghāta\" = retention or obstruction of urine (standard, tag standard). Whether each outcome answers one of the positions of units 45-46 is not stated and is not asserted. GROUPING: the list continues in unit 48.",
+  "confidence": "low"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āśvāgatirmarutkopa",
+      "words": [
+       {
+        "w": "āśu-āgatiḥ",
+        "gloss": "quick; coming, return",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "marut-kopaḥ",
+        "gloss": "wind; aggravation",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "straibhiḥ",
+      "words": [
+       {
+        "w": "straibhiḥ",
+        "gloss": "unclear (printed form)",
+        "gram": ""
+       }
+      ]
+     },
+     {
+      "src": "pakvāśayasya",
+      "words": [
+       {
+        "w": "pakvāśayasya",
+        "gloss": "of the pakvāśaya (the seat of digested matter, the large-intestine region; standard)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ के अनुसार: शीघ्र लौट आना, वायु का कुपित होना और पक्वाशय यानी बड़ी आँत के स्थान का भी; स्त्रैभिः शब्द अस्पष्ट है, इसलिए उसका अनुवाद नहीं किया गया।",
+  "english": "On a conjectural reading: quick return (āśu-āgati), aggravation of wind (marut-kopa), and of the pakvāśaya (large-intestine region) as well; the word straibhiḥ is unclear and is not rendered.",
+  "text_flags": [
+   {
+    "src": "straibhiḥ",
+    "suggest": "(not restorable)",
+    "why": "printed form is not a recognisable word in this context; nothing suggested with confidence"
+   }
+  ],
+  "notes": "The printed \"āśvāgatiḥ\" is regular sandhi of āśu + āgatiḥ. \"marutkopa straibhiḥ\": the word break and the form straibhiḥ are unclear. \"pakvāśaya\" = the seat of digested matter, the large-intestine region (standard rendering). GROUPING: the list ends here; unit 49 gives the heading.",
   "confidence": "low"
  },
  {
@@ -728,6 +897,86 @@
   "confidence": "high"
  },
  {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrābhyaṃgo",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in this case",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyaṅgaḥ",
+        "gloss": "oil massage",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gude",
+      "words": [
+       {
+        "w": "gude",
+        "gloss": "on the anus",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snedo",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweating, fomentation (conjectural reading of the printed form)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaghnānyaśanāni",
+      "words": [
+       {
+        "w": "vāta-ghnāni",
+        "gloss": "Vāta-destroying",
+        "gram": "tat-puruṣa, n. nom. pl."
+       },
+       {
+        "w": "aśanāni",
+        "gloss": "foods",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ गुदा में अभ्यंग, स्वेद और वात को नष्ट करने वाले भोजन।",
+  "english": "Here: oil massage (abhyaṅga) on the anus, sweating (sveda), and Vāta-destroying foods.",
+  "text_flags": [
+   {
+    "src": "snedo",
+    "suggest": "svedaḥ",
+    "why": "possible: \"snedaḥ\" is not a word; \"svedaḥ\" (sweating) fits, as in unit 57; \"snehaḥ\" (oil) is also possible"
+   }
+  ],
+  "notes": "Remedy for the colic and pricking pain of unit 53. No verb is stated.",
+  "confidence": "medium"
+ },
+ {
   "n": "55",
   "lines": [
    {
@@ -804,6 +1053,35 @@
   "english": "When [it] is introduced quickly, or drawn out, or else lifted up suddenly.",
   "text_flags": [],
   "notes": "The subject (the nozzle or the apparatus) is not stated. The results follow in unit 56. GROUPING: the sentence continues in unit 56.",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "syātkaṭīgudajaṃghorubastistaṃbhātibhedanaṃ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "kaṭī-guda-jaṅghā-ūru-basti-stambha-ati-bhedanam",
+        "gloss": "waist; anus; calf, shank; thigh; bladder (basti); stiffness; very much; splitting pain",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कमर, गुदा, पिंडलियों, जाँघों और बस्ति यानी मूत्राशय में जकड़न और अत्यधिक भेदन यानी फटने की पीड़ा हो सकती है।",
+  "english": "There would be stiffness (stambha) and severe splitting pain (bhedana) of the waist, anus, calves, thighs and bladder (basti).",
+  "text_flags": [],
+  "notes": "The compound could also be read with \"ati\" going with stambha as well. \"basti\" is taken here as the bladder, a body site (standard), not the enema bag.",
   "confidence": "medium"
  },
  {
@@ -1096,6 +1374,71 @@
    }
   ],
   "notes": "GROUPING: the sentence continues in unit 61 (\"... the strong one would produce pain in the chest and head\"). The subject of \"pīḍyamāne\" and \"mukte\" is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uraḥśirorujaṃ",
+      "words": [
+       {
+        "w": "uraḥ-śiraḥ-rujam",
+        "gloss": "chest; head; pain",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādamūrvośca",
+      "words": [
+       {
+        "w": "sādam",
+        "gloss": "sinking, exhaustion",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ūrvoḥ",
+        "gloss": "of the two thighs",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "janayedvalī",
+      "words": [
+       {
+        "w": "janayet",
+        "gloss": "would produce",
+        "gram": "3 sg. opt. caus. √jan"
+       },
+       {
+        "w": "balī",
+        "gloss": "strong, the strong one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छाती और सिर में पीड़ा, और जाँघों में अवसाद यानी शिथिलता, बलवान वह उत्पन्न कर सकता है।",
+  "english": "The strong one (balī) would produce pain in the chest and head, and sinking (sāda, exhaustion) of the thighs.",
+  "text_flags": [
+   {
+    "src": "valī",
+    "suggest": "balī",
+    "why": "possible: \"valī\" is a fold (as in unit 58) and does not fit a subject; \"balī\" (strong, i.e. the wind of unit 60) fits"
+   }
+  ],
+  "notes": "GROUPING: completes unit 60; the subject is probably the wind (anila) of unit 60, but the text does not say so. v/b spellings are interchangeable in this print.",
   "confidence": "medium"
  },
  {
