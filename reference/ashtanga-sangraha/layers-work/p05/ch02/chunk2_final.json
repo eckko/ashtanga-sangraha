@@ -9,12 +9,12 @@
       "words": [
        {
         "w": "vyoṣa-trijātaka-ambhoda-kṛmighna-āmalakaiḥ",
-        "gloss": "vyoṣa (a set of three drugs); trijātaka (a set of three); ambhoda (drug name, lit. 'water-giver'); kṛmighna (drug name, lit. 'worm-slayer'); āmalaka (drug name)",
+        "gloss": "vyoṣa (a set of three drugs: dry ginger, long pepper, black pepper; standard); trijātaka (a set of three: cinnamon bark, small cardamom, Indian bay leaf; standard); ambhoda (probably musta, nut-grass; lit. 'water-giver'); kṛmighna (probably vidanga, Embelia ribes; lit. 'worm-slayer'); āmalaka (Indian gooseberry, Phyllanthus emblica; standard)",
         "gram": "dvandva, m. inst. pl."
        },
        {
         "w": "trivṛt",
-        "gloss": "trivṛt (drug name, lit. 'threefold')",
+        "gloss": "trivṛt (turpeth, Operculina turpethum; standard; lit. 'threefold')",
         "gram": "f. nom. sg."
        }
       ]
@@ -22,10 +22,10 @@
     ]
    }
   ],
-  "hindi": "व्योष, त्रिजातक, अम्भोद, कृमिघ्न और आमलक के साथ त्रिवृत्",
-  "english": "Trivṛt together with vyoṣa, trijātaka, ambhoda, kṛmighna and āmalaka.",
+  "hindi": "व्योष यानी सोंठ पीपर और काली मिर्च, त्रिजातक यानी दालचीनी इलायची और तेजपात, अम्भोद यानी प्रायः नागरमोथा, कृमिघ्न यानी प्रायः वायविडंग और आमलक यानी आँवला के साथ त्रिवृत् यानी निशोथ",
+  "english": "Trivṛt (turpeth) together with vyoṣa (the set of three: dry ginger, long pepper, black pepper), trijātaka (the set of three: cinnamon bark, small cardamom, Indian bay leaf), ambhoda (probably musta, nut-grass), kṛmighna (probably vidanga) and āmalaka (Indian gooseberry).",
   "text_flags": [],
-  "notes": "GROUPING: 38 and 39 form one sentence (38 names the ingredients; 39 gives the proportion and the pills). The unit is one printed line without a space. Names are drug names and are not identified. Case of trivṛt (nom.) and of the instrumental compound is read from the form.",
+  "notes": "GROUPING: 38 and 39 form one sentence (38 names the ingredients; 39 gives the proportion and the pills). The unit is one printed line without a space. Identifications (modern names beside the Sanskrit): trivṛt = turpeth, Operculina turpethum (standard). vyoṣa = śuṇṭhī (dry ginger, Zingiber officinale), pippalī (long pepper, Piper longum), marica (black pepper, Piper nigrum) (standard group). trijātaka = tvak (cinnamon bark, Cinnamomum zeylanicum), elā (small cardamom, Elettaria cardamomum), patra (Indian bay leaf, Cinnamomum tamala) (standard group). ambhoda = musta, nut-grass, Cyperus rotundus (probable; ambhoda is a synonym of musta). kṛmighna = vidanga, Embelia ribes (probable; 'worm-slayer' is a synonym of vidanga). āmalaka = Indian gooseberry, Phyllanthus emblica (standard). Case of trivṛt (nom.) and of the instrumental compound is read from the form.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -134,7 +134,7 @@
       "words": [
        {
         "w": "mūtra-kṛcchra-jvara-chardi-kāse",
-        "gloss": "urine; difficulty; fever; vomiting; cough",
+        "gloss": "urine; difficulty (mūtrakṛcchra: painful or difficult urination, dysuria); fever (jvara); vomiting (chardi); cough (kāsa)",
         "gram": "dvandva, m. loc. sg."
        }
       ]
@@ -144,7 +144,7 @@
       "words": [
        {
         "w": "śoṣe",
-        "gloss": "drying up, wasting",
+        "gloss": "drying up, wasting (śoṣa: wasting disease, commonly equated with consumption; probable)",
         "gram": "m. loc. sg."
        }
       ]
@@ -154,7 +154,7 @@
       "words": [
        {
         "w": "bhrame",
-        "gloss": "whirling, giddiness",
+        "gloss": "whirling, giddiness (bhrama: vertigo)",
         "gram": "m. loc. sg."
        }
       ]
@@ -164,7 +164,7 @@
       "words": [
        {
         "w": "kṣaye",
-        "gloss": "decay, loss",
+        "gloss": "decay, loss (kṣaya: wasting; sometimes the disease rājayakṣmā; disputed here)",
         "gram": "m. loc. sg."
        }
       ]
@@ -172,10 +172,10 @@
     ]
    }
   ],
-  "hindi": "मूत्रकृच्छ्र, ज्वर, छर्दि और कास में, शोष में, भ्रम में और क्षीणता में",
-  "english": "In mūtrakṛcchra (urine-difficulty), fever, vomiting and cough; in wasting (śoṣa), giddiness and decay (kṣaya).",
+  "hindi": "मूत्रकृच्छ्र यानी पेशाब में कष्ट, ज्वर यानी बुखार, छर्दि यानी उलटी और कास यानी खाँसी में, शोष यानी शरीर सूखने के रोग में, भ्रम यानी चक्कर में और क्षीणता में",
+  "english": "In mūtrakṛcchra (urine-difficulty: painful or difficult urination, dysuria), fever, vomiting and cough; in wasting (śoṣa, a consumption-like wasting), giddiness (bhrama, vertigo) and decay (kṣaya, wasting).",
   "text_flags": [],
-  "notes": "GROUPING: the sentence continues in 41 (verb 'śastāḥ'). Sandhi: 'jvaracchardi' = jvara-chardi. 'mūtrakṛcchra' may be one disease-term (urine-difficulty) rather than two members. Only the Sanskrit terms are rendered; no modern diagnosis intended.",
+  "notes": "GROUPING: the sentence continues in 41 (verb 'śastāḥ'). Sandhi: 'jvaracchardi' = jvara-chardi. 'mūtrakṛcchra' may be one disease-term (urine-difficulty) rather than two members. Modern equivalents beside the Sanskrit terms: mūtrakṛcchra = painful or difficult urination (dysuria; standard); jvara = fever; chardi = vomiting; kāsa = cough; bhrama = giddiness, vertigo (standard); śoṣa = wasting, commonly equated with consumption (probable); kṣaya = wasting, sometimes the disease rājayakṣmā (disputed here).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -209,12 +209,12 @@
       "words": [
        {
         "w": "pāṇḍu-āmaye",
-        "gloss": "pale; ailment",
+        "gloss": "pale (pāṇḍu); ailment (āmaya); pāṇḍu-āmaya = the disease pāṇḍu, anaemia with pallor (standard)",
         "gram": "m. loc. sg."
        },
        {
         "w": "alpa-agnau",
-        "gloss": "small; fire (agni)",
+        "gloss": "small; fire (agni); alpāgni = weak digestive fire, poor digestion (standard)",
         "gram": "m. loc. sg."
        }
       ]
@@ -252,8 +252,8 @@
     ]
    }
   ],
-  "hindi": "तृषा में, पाण्डु-आमय में, अल्प अग्नि होने पर और सब विषों में भी वे प्रशस्त हैं।",
-  "english": "In thirst, in pāṇḍu-ailment, when the fire (agni) is small, and in all poisons, they are approved.",
+  "hindi": "तृषा में, पाण्डु-आमय यानी रक्ताल्पता वाले पाण्डु रोग में, अल्प अग्नि यानी मन्द पाचन होने पर और सब विषों में भी वे प्रशस्त हैं।",
+  "english": "In thirst, in pāṇḍu-ailment (pāṇḍu disease: anaemia with pallor), when the fire (agni) is small (weak digestion), and in all poisons, they are approved.",
   "text_flags": [
    {
     "src": "tāṣe",
@@ -285,7 +285,7 @@
       "words": [
        {
         "w": "trivṛtā",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth)",
         "gram": "f. nom. sg."
        }
       ]
@@ -295,7 +295,7 @@
       "words": [
        {
         "w": "kauṭajam",
-        "gloss": "of kuṭaja (drug name)",
+        "gloss": "of kuṭaja (Holarrhena antidysenterica, kurchi; standard); the seed of kuṭaja is called indrayava",
         "gram": "n. nom. sg."
        }
       ]
@@ -315,7 +315,7 @@
       "words": [
        {
         "w": "pippalī",
-        "gloss": "pippalī (drug name)",
+        "gloss": "pippalī (long pepper; standard)",
         "gram": "f. nom. sg."
        }
       ]
@@ -325,7 +325,7 @@
       "words": [
        {
         "w": "viśva-bheṣajam",
-        "gloss": "drug name (lit. 'all-remedy')",
+        "gloss": "viśvabheṣaja (dry ginger, śuṇṭhī; standard; lit. 'all-remedy')",
         "gram": "n. nom. sg."
        }
       ]
@@ -333,10 +333,10 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत्, कुटज का बीज, पिप्पली और विश्वभेषज",
-  "english": "Trivṛt, the seed of kuṭaja, pippalī and viśvabheṣaja.",
+  "hindi": "त्रिवृत् यानी निशोथ, कुटज का बीज यानी इन्द्रजौ, पिप्पली यानी पीपर और विश्वभेषज यानी सोंठ",
+  "english": "Trivṛt (turpeth), the seed of kuṭaja (kurchi; this seed is called indrayava), pippalī (long pepper) and viśvabheṣaja (dry ginger).",
   "text_flags": [],
-  "notes": "GROUPING: ingredient list continuing in 43 ('upetam'). 'trivṛtā' is read as a list member (form of trivṛt). 'kauṭaja' = 'of/from kuṭaja'. Drug names are not identified.",
+  "notes": "GROUPING: ingredient list continuing in 43 ('upetam'). 'trivṛtā' is read as a list member (form of trivṛt). 'kauṭaja' = 'of/from kuṭaja'. Identifications: kuṭaja = Holarrhena antidysenterica (standard), its seed = indrayava; viśvabheṣaja = śuṇṭhī, dry ginger (standard); pippalī = long pepper (standard); trivṛt = turpeth (standard, see unit 38).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -360,7 +360,7 @@
       "words": [
        {
         "w": "kṣaudra-drākṣā-rasa-upetam",
-        "gloss": "honey; drākṣā (drug/fruit name); juice; joined with",
+        "gloss": "honey; drākṣā (grape or raisin, Vitis vinifera; standard); juice; joined with",
         "gram": "tat-puruṣa, n. nom. sg."
        }
       ]
@@ -388,8 +388,8 @@
     ]
    }
   ],
-  "hindi": "शहद और द्राक्षा के रस से युक्त, वर्षा काल में विरेचन",
-  "english": "Joined with honey and the juice of drākṣā, a purgation (virecana) in the rainy season.",
+  "hindi": "शहद और द्राक्षा यानी अंगूर या मुनक्का के रस से युक्त, वर्षा काल में विरेचन",
+  "english": "Joined with honey and the juice of drākṣā (grape or raisin), a purgation (virecana) in the rainy season.",
   "text_flags": [],
   "notes": "Completes the formula of 42. Whether it is 'honey and drākṣā-juice' or 'honey, and drākṣā, and juice' is not decided by the compound; the plainer reading is taken.",
   "confidence": "high",
@@ -415,7 +415,7 @@
       "words": [
        {
         "w": "trivṛt-durālabhā-musta-śarkarā-udīcya-candanam",
-        "gloss": "trivṛt; durālabhā; musta; sugar; udīcya (drug name, lit. 'northern'); candana",
+        "gloss": "trivṛt (turpeth); durālabhā (probably Fagonia cretica; Alhagi species also proposed, so disputed); musta (nut-grass, Cyperus rotundus; standard); sugar; udīcya (drug name, lit. 'northern'; probably hrīvera, Pavonia odorata, disputed; the reading of the word is itself only suggested); candana (sandalwood, probably Santalum album; probable; the text does not say white or red)",
         "gram": "dvandva, n. nom. sg."
        }
       ]
@@ -423,8 +423,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत्, दुरालभा, मुस्त, शर्करा, उदीच्य और चन्दन",
-  "english": "Trivṛt, durālabhā, musta, sugar, udīcya and candana.",
+  "hindi": "त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, मुस्त यानी नागरमोथा, शर्करा, उदीच्य और चन्दन",
+  "english": "Trivṛt (turpeth), durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed), musta (nut-grass), sugar, udīcya and candana (sandalwood).",
   "text_flags": [
    {
     "src": "trivṛddurālabhāmustaśarkarādīcyacaṃdanaṃ",
@@ -432,7 +432,7 @@
     "why": "possible: 'śarkarā-dīcya' reads oddly; 'śarkarā-udīcya' would give 'śarkarodīcya' and the Devanagari 'ā' may be a misread 'o'; metre is the same"
    }
   ],
-  "notes": "Drug-name list; candana kept as a name. Reading of 'dīcya' as 'udīcya' is only suggested.",
+  "notes": "Drug-name list. Identifications: durālabhā = Fagonia cretica (disputed; the usual rendering, Alhagi species also given); musta = Cyperus rotundus (standard); udīcya = probably hrīvera (Pavonia odorata; disputed), not enriched further in the translation because the reading is only suggested; candana = sandalwood, probably Santalum album (probable; white or red not stated). Reading of 'dīcya' as 'udīcya' is only suggested.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -456,7 +456,7 @@
       "words": [
        {
         "w": "drākṣā-ambunā",
-        "gloss": "drākṣā (drug/fruit name); water",
+        "gloss": "drākṣā (grape or raisin, see unit 43); water",
         "gram": "tat-puruṣa, n. inst. sg."
        }
       ]
@@ -494,8 +494,8 @@
     ]
    }
   ],
-  "hindi": "द्राक्षा के जल के साथ; मुद्रित शब्द 'स पद्मचाह्वशीमलं' पुनः स्थापित नहीं किए जा सके, इसलिए उनका कोई अर्थ नहीं दिया गया; बादलों के चले जाने पर, यह 'जलदात्पये' का अनुमानित पाठ है।",
-  "english": "With drākṣā water; the printed words 'sa padmacāhvaśīmalaṃ' could not be restored and no reading is given for them; when the clouds have gone (conjectural reading of 'jaladātpaye').",
+  "hindi": "द्राक्षा यानी अंगूर या मुनक्का के जल के साथ; मुद्रित शब्द 'स पद्मचाह्वशीमलं' पुनः स्थापित नहीं किए जा सके, इसलिए उनका कोई अर्थ नहीं दिया गया; बादलों के चले जाने पर, यह 'जलदात्पये' का अनुमानित पाठ है।",
+  "english": "With drākṣā (grape or raisin) water; the printed words 'sa padmacāhvaśīmalaṃ' could not be restored and no reading is given for them; when the clouds have gone (conjectural reading of 'jaladātpaye').",
   "text_flags": [
    {
     "src": "jaladātpaye",
@@ -537,7 +537,7 @@
       "words": [
        {
         "w": "trivṛtā",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth)",
         "gram": "f. nom. sg."
        }
       ]
@@ -547,7 +547,7 @@
       "words": [
        {
         "w": "citrakam",
-        "gloss": "citraka (drug name)",
+        "gloss": "citraka (leadwort, Plumbago zeylanica; standard)",
         "gram": "m. acc. sg."
        }
       ]
@@ -557,12 +557,12 @@
       "words": [
        {
         "w": "pāṭhām",
-        "gloss": "pāṭhā (drug name)",
+        "gloss": "pāṭhā (velvet-leaf, Cissampelos pareira; probable; other plants are also called pāṭhā)",
         "gram": "f. acc. sg."
        },
        {
         "w": "ajājīm",
-        "gloss": "ajājī (drug name)",
+        "gloss": "ajājī (cumin, Cuminum cyminum; probable; usually the white cumin)",
         "gram": "f. acc. sg."
        }
       ]
@@ -572,7 +572,7 @@
       "words": [
        {
         "w": "saralam",
-        "gloss": "sarala (drug name, lit. 'straight')",
+        "gloss": "sarala (chir pine, Pinus roxburghii; probable; lit. 'straight')",
         "gram": "m. acc. sg."
        }
       ]
@@ -582,7 +582,7 @@
       "words": [
        {
         "w": "vacām",
-        "gloss": "vacā (drug name)",
+        "gloss": "vacā (sweet flag, Acorus calamus; standard)",
         "gram": "f. acc. sg."
        }
       ]
@@ -590,10 +590,10 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत्, चित्रक, पाठा, अजाजी, सरल और वचा",
-  "english": "Trivṛt, citraka, pāṭhā, ajājī, sarala and vacā.",
+  "hindi": "त्रिवृत् यानी निशोथ, चित्रक यानी चीता, पाठा यानी प्रायः पाढ़, अजाजी यानी जीरा, सरल यानी प्रायः चीड़ और वचा यानी बच",
+  "english": "Trivṛt (turpeth), citraka (leadwort), pāṭhā (probably velvet-leaf), ajājī (cumin), sarala (probably chir pine) and vacā (sweet flag).",
   "text_flags": [],
-  "notes": "GROUPING: ingredient list continuing in 47 ('svarṇakṣīrī', 'cūrṇam'). 'trivṛtā' has the same form as in 42 and is read as a list member. Reviewer: here the other list members are accusative; 'trivṛtā' could be instrumental ('with trivṛt') or a slip for 'trivṛtām'. The list sense is unchanged.",
+  "notes": "GROUPING: ingredient list continuing in 47 ('svarṇakṣīrī', 'cūrṇam'). 'trivṛtā' has the same form as in 42 and is read as a list member. Reviewer: here the other list members are accusative; 'trivṛtā' could be instrumental ('with trivṛt') or a slip for 'trivṛtām'. The list sense is unchanged. Identifications: trivṛt = turpeth (standard); citraka = Plumbago zeylanica (standard); pāṭhā = Cissampelos pareira (probable; other plants are also called pāṭhā); ajājī = Cuminum cyminum, usually white cumin (probable); sarala = Pinus roxburghii (probable); vacā = Acorus calamus (standard).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -617,7 +617,7 @@
       "words": [
        {
         "w": "svarṇa-kṣīrīm",
-        "gloss": "svarṇakṣīrī (drug name, lit. 'gold-milky')",
+        "gloss": "svarṇakṣīrī (usually Argemone mexicana, Mexican poppy; disputed, Euphorbia thomsoniana also proposed; lit. 'gold-milky')",
         "gram": "f. acc. sg."
        }
       ]
@@ -680,8 +680,8 @@
     ]
    }
   ],
-  "hindi": "और स्वर्णक्षीरी, हेमन्त में चूर्ण को गरम जल के साथ पिए।",
-  "english": "And svarṇakṣīrī; in hemanta (the cold season), one should drink the powder with hot water.",
+  "hindi": "और स्वर्णक्षीरी यानी प्रायः सत्यानाशी, हेमन्त में चूर्ण को गरम जल के साथ पिए।",
+  "english": "And svarṇakṣīrī (usually taken as Mexican poppy; disputed); in hemanta (the cold season), one should drink the powder with hot water.",
   "text_flags": [
    {
     "src": "hemaṃtre",
@@ -694,7 +694,7 @@
     "why": "line-end break: the verb 'pibet' is split into 'pibe' and 't'"
    }
   ],
-  "notes": "Powder of the drugs listed in 46 with svarṇakṣīrī. Tokens 'pibe' + 't' together make 'pibet' (src kept as printed).",
+  "notes": "Powder of the drugs listed in 46 with svarṇakṣīrī. Tokens 'pibe' + 't' together make 'pibet' (src kept as printed). svarṇakṣīrī = Argemone mexicana by the usual later reading (disputed; Euphorbia thomsoniana also proposed); enriched with a hedge only.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -718,7 +718,7 @@
       "words": [
        {
         "w": "trivṛtā",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth)",
         "gram": "f. nom. sg."
        }
       ]
@@ -756,8 +756,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत् शर्करा के बराबर, ग्रीष्म काल में विरेचन",
-  "english": "Trivṛt equal to sugar, a purgation (virecana) in the hot season.",
+  "hindi": "त्रिवृत् यानी निशोथ शर्करा के बराबर, ग्रीष्म काल में विरेचन",
+  "english": "Trivṛt (turpeth) equal to sugar, a purgation (virecana) in the hot season.",
   "text_flags": [],
   "notes": "'virecanam' (neuter) is in apposition to the feminine trivṛt-with-sugar; no verb.",
   "confidence": "high",
@@ -783,27 +783,27 @@
       "words": [
        {
         "w": "trivṛtā",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth)",
         "gram": "f. nom. sg."
        },
        {
         "w": "dantī",
-        "gloss": "dantī (drug name)",
+        "gloss": "dantī (probably Baliospermum montanum, wild croton; probable; the reading dantī is conjectural, see text flag)",
         "gram": "f. nom. sg."
        },
        {
         "w": "hapuṣā",
-        "gloss": "hapuṣā (drug name)",
+        "gloss": "hapuṣā (juniper berries, Juniperus communis; probable)",
         "gram": "f. nom. sg."
        },
        {
         "w": "sātalā",
-        "gloss": "sātalā (drug name)",
+        "gloss": "sātalā (disputed: Euphorbia dracunculoides is often given, other plants proposed; identity uncertain)",
         "gram": "f. nom. sg."
        },
        {
         "w": "kaṭu-rohiṇīḥ",
-        "gloss": "kaṭurohiṇī (drug name, lit. 'pungent' + 'rohiṇī')",
+        "gloss": "kaṭurohiṇī (kutki, Picrorhiza kurroa; standard; lit. 'pungent' + 'rohiṇī')",
         "gram": "f. acc. pl."
        }
       ]
@@ -811,8 +811,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत्, दन्ती, हपुषा, सातला और कटुरोहिणी",
-  "english": "Trivṛt, dantī, hapuṣā, sātalā and kaṭurohiṇī.",
+  "hindi": "त्रिवृत् यानी निशोथ, दन्ती यानी प्रायः जंगली जमालगोटा, हपुषा यानी हाऊबेर, सातला और कटुरोहिणी यानी कुटकी",
+  "english": "Trivṛt (turpeth), dantī (probably wild croton), hapuṣā (juniper berries), sātalā (identity disputed) and kaṭurohiṇī (kutki).",
   "text_flags": [
    {
     "src": "trivṛtāyaṃtihapuṣāsātalākaṭurohiṇīḥ",
@@ -820,7 +820,7 @@
     "why": "possible: 'yaṃti' is not a drug name; 'daṃtī' (dantī) fits the pattern of 59 'trivṛtātriphalādaṃtī'; ya/da confusion in the scan"
    }
   ],
-  "notes": "GROUPING: list continues in 50 ('svarṇakṣīrīṃ ca saṃcūrṇya ...'). Case endings are mixed (the last is acc. pl.); read as a plain list. Drug names not identified.",
+  "notes": "GROUPING: list continues in 50 ('svarṇakṣīrīṃ ca saṃcūrṇya ...'). Case endings are mixed (the last is acc. pl.); read as a plain list. Identifications: hapuṣā = Juniperus communis (probable); sātalā = disputed (Euphorbia dracunculoides often given); kaṭurohiṇī = Picrorhiza kurroa (standard); dantī = Baliospermum montanum (probable) only if the conjectural reading dantī of the text flag is right.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -844,7 +844,7 @@
       "words": [
        {
         "w": "svarṇa-kṣīrīm",
-        "gloss": "svarṇakṣīrī (drug name)",
+        "gloss": "svarṇakṣīrī (see unit 47: usually Mexican poppy; disputed)",
         "gram": "f. acc. sg."
        }
       ]
@@ -897,8 +897,8 @@
     ]
    }
   ],
-  "hindi": "और स्वर्णक्षीरी को चूर्ण करके तीन दिन तक गोमूत्र में भिगोए।",
-  "english": "And, having powdered svarṇakṣīrī, one should saturate it in cow's urine for three days.",
+  "hindi": "और स्वर्णक्षीरी यानी प्रायः सत्यानाशी को चूर्ण करके तीन दिन तक गोमूत्र में भिगोए।",
+  "english": "And, having powdered svarṇakṣīrī (usually taken as Mexican poppy; disputed), one should saturate it in cow's urine for three days.",
   "text_flags": [],
   "notes": "Verb 'bhāvayet' rendered 'saturate' (literal causative of √bhū, 'cause to pervade'); wording of such verbs is an OPEN glossary item. The drugs of 49 are the other objects, understood.",
   "confidence": "medium",
@@ -999,7 +999,7 @@
       "words": [
        {
         "w": "śyāmā-trivṛt-durālabhā-hasti-pippalī-vatsakam",
-        "gloss": "śyāmā (drug name, lit. 'dark'); trivṛt; durālabhā; hasti-pippalī (elephant-pippalī); vatsaka (drug name, lit. 'calf')",
+        "gloss": "śyāmā (in the tradition the black kind of trivṛt, Operculina turpethum; disputed here because it is listed beside trivṛt, and other plants are also called śyāmā; lit. 'dark'); trivṛt (turpeth); durālabhā (see unit 44: probably Fagonia); hasti-pippalī (elephant-pippalī, Scindapsus officinalis; probable); vatsaka (kuṭaja, Holarrhena antidysenterica; standard; lit. 'calf')",
         "gram": "dvandva, n. nom. sg."
        }
       ]
@@ -1007,10 +1007,10 @@
     ]
    }
   ],
-  "hindi": "श्यामा, त्रिवृत्, दुरालभा, हस्तिपिप्पली और वत्सक",
-  "english": "Śyāmā, trivṛt, durālabhā, hastipippalī and vatsaka.",
+  "hindi": "श्यामा, त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, हस्तिपिप्पली यानी गजपीपल और वत्सक यानी कुटज",
+  "english": "Śyāmā, trivṛt (turpeth), durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed), hastipippalī (elephant-pippalī) and vatsaka (kuṭaja, kurchi).",
   "text_flags": [],
-  "notes": "GROUPING: list continues in 53 ('yuktaṃ sucūrṇitaṃ'). Drug names not identified.",
+  "notes": "GROUPING: list continues in 53 ('yuktaṃ sucūrṇitaṃ'). Identifications: śyāmā = black trivṛt in the tradition (disputed here); hastipippalī = Scindapsus officinalis (probable); vatsaka = kuṭaja, Holarrhena antidysenterica (standard).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -1034,7 +1034,7 @@
       "words": [
        {
         "w": "nīlinī-kaṭukā-musta-śreṣṭhā-yuktam",
-        "gloss": "nīlinī (drug name); kaṭukā (drug name, lit. 'pungent'); musta; śreṣṭhā (drug name, lit. 'best'); joined with",
+        "gloss": "nīlinī (indigo plant, Indigofera tinctoria; probable); kaṭukā (kutki, Picrorhiza kurroa, as in unit 49; probable; lit. 'pungent'); musta (nut-grass); śreṣṭhā (unidentified; lit. 'best'); joined with",
         "gram": "dvandva + tat-puruṣa, n. nom. sg."
        }
       ]
@@ -1052,8 +1052,8 @@
     ]
    }
   ],
-  "hindi": "नीलिनी, कटुका, मुस्त और श्रेष्ठा से युक्त, भली-भाँति चूर्ण किया हुआ",
-  "english": "Joined with nīlinī, kaṭukā, musta and śreṣṭhā, well powdered.",
+  "hindi": "नीलिनी यानी प्रायः नील, कटुका यानी कुटकी, मुस्त यानी नागरमोथा और श्रेष्ठा से युक्त, भली-भाँति चूर्ण किया हुआ",
+  "english": "Joined with nīlinī (probably indigo), kaṭukā (kutki), musta (nut-grass) and śreṣṭhā, well powdered.",
   "text_flags": [
    {
     "src": "nīlinīkaṭukāmustaśreṣṭāyuktaṃ",
@@ -1061,7 +1061,7 @@
     "why": "typo: 'śreṣṭā' for 'śreṣṭhā' (Devanagari श्रेष्टा for श्रेष्ठा)"
    }
   ],
-  "notes": "Completes 52. Sentence has no finite verb.",
+  "notes": "Completes 52. Sentence has no finite verb. Identifications: nīlinī = indigo, Indigofera tinctoria (probable); kaṭukā = kutki (probable); śreṣṭhā = unidentified (lit. 'best'; not identified here).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -1155,7 +1155,7 @@
       "words": [
        {
         "w": "tri-ūṣaṇam",
-        "gloss": "a set of three pungent drugs (tryūṣaṇa)",
+        "gloss": "tryūṣaṇa (a set of three pungent drugs = vyoṣa: dry ginger, long pepper, black pepper; standard)",
         "gram": "n. nom. sg."
        }
       ]
@@ -1165,7 +1165,7 @@
       "words": [
        {
         "w": "triphalā",
-        "gloss": "a set of three fruits (triphalā)",
+        "gloss": "triphalā (a set of three fruits: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Indian gooseberry; standard)",
         "gram": "f. nom. sg."
        }
       ]
@@ -1175,7 +1175,7 @@
       "words": [
        {
         "w": "hiṅgu",
-        "gloss": "hiṅgu (drug name)",
+        "gloss": "hiṅgu (asafoetida, Ferula assa-foetida; standard)",
         "gram": "n. nom. sg."
        }
       ]
@@ -1195,7 +1195,7 @@
       "words": [
        {
         "w": "trivṛtā",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth)",
         "gram": "f. nom. sg."
        }
       ]
@@ -1213,8 +1213,8 @@
     ]
    }
   ],
-  "hindi": "त्र्यूषण, त्रिफला, हिंगु, एक कर्ष परिमाण, त्रिवृत् एक पल",
-  "english": "Tryūṣaṇa, triphalā, hiṅgu, of a karṣa measure; trivṛt, one pala.",
+  "hindi": "त्र्यूषण यानी सोंठ पीपर और काली मिर्च, त्रिफला यानी हरड़ बहेड़ा और आँवला, हिंगु यानी हींग, एक कर्ष परिमाण, त्रिवृत् यानी निशोथ एक पल",
+  "english": "Tryūṣaṇa (dry ginger, long pepper, black pepper), triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka), hiṅgu (asafoetida), of a karṣa measure; trivṛt (turpeth), one pala.",
   "text_flags": [],
   "notes": "Scope of 'kārṣikam' (hiṅgu only, or all three) is not settled by the text; rendered without a scope. karṣa and pala are units of weight.",
   "confidence": "medium",
@@ -1240,7 +1240,7 @@
       "words": [
        {
         "w": "sauvarcalā",
-        "gloss": "sauvarcala (salt name)",
+        "gloss": "sauvarcala (black salt, kāla namak; standard)",
         "gram": "f. nom. sg."
        },
        {
@@ -1275,7 +1275,7 @@
        },
        {
         "w": "amla-vetasāt",
-        "gloss": "sour; vetasa (drug name)",
+        "gloss": "sour; amlavetasa (disputed: Garcinia pedunculata and other sour plants are proposed)",
         "gram": "m. abl. sg."
        }
       ]
@@ -1283,8 +1283,8 @@
     ]
    }
   ],
-  "hindi": "मुद्रित शब्द 'सौवर्चलाईकर्षश्व पलाद्धे' बिगड़े हुए हैं; अनुमानित पाठ के अनुसार: सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से।",
-  "english": "On a conjectural reading of damaged print (the printed words 'sauvarcalāīkarṣaśva palāddhe' are not securely restored): sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+  "hindi": "मुद्रित शब्द 'सौवर्चलाईकर्षश्व पलाद्धे' बिगड़े हुए हैं; अनुमानित पाठ के अनुसार: सौवर्चल यानी काला नमक आधा कर्ष, और आधा पल अम्लवेतस से।",
+  "english": "On a conjectural reading of damaged print (the printed words 'sauvarcalāīkarṣaśva palāddhe' are not securely restored): sauvarcalā (black salt) half a karṣa, and half a pala from amlavetasa.",
   "text_flags": [
    {
     "src": "sauvarcalāīkarṣaśva",
@@ -1297,7 +1297,7 @@
     "why": "possible: 'addha' is a doubled spelling of 'ardha'; ending -e/-aṃ uncertain"
    }
   ],
-  "notes": "Both corrections are conjectural. The ablative 'amlavetasāt' ('from amlavetasa') is unusual; read as measure taken from that drug.",
+  "notes": "Both corrections are conjectural. The ablative 'amlavetasāt' ('from amlavetasa') is unusual; read as measure taken from that drug. sauvarcala = black salt (standard), enriched on the conjectural reading only; amlavetasa is disputed (Garcinia pedunculata and other sour plants are proposed) and left unidentified in the translation.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -1407,7 +1407,7 @@
       "words": [
        {
         "w": "gulma-pārśva-ārti-nut",
-        "gloss": "gulma (lump, cluster); flank; pain; driving away",
+        "gloss": "gulma (lump, cluster; abdominal lump or mass, standard rendering); flank; pain; driving away",
         "gram": "tat-puruṣa, n. nom. sg."
        },
        {
@@ -1455,10 +1455,10 @@
     ]
    }
   ],
-  "hindi": "गुल्म और पार्श्व की पीड़ा को दूर करने वाला, सिद्ध; और इसके पच जाने पर रस के साथ भात",
-  "english": "Accomplished, a driver-away of gulma and flank-pain; and when this has been digested, boiled rice with rasa.",
+  "hindi": "गुल्म यानी पेट की गाँठ और पार्श्व की पीड़ा को दूर करने वाला, सिद्ध; और इसके पच जाने पर रस के साथ भात",
+  "english": "Accomplished, a driver-away of gulma (abdominal lump) and flank-pain; and when this has been digested, boiled rice with rasa.",
   "text_flags": [],
-  "notes": "'siddham' = 'accomplished' (alternatives: 'proven', 'prepared'). 'rasaudana' = rice with rasa (juice/broth). Verb for the last phrase is not given; the sentence ends there. 'gulma' kept as the Sanskrit term (lit. 'cluster, lump').",
+  "notes": "'siddham' = 'accomplished' (alternatives: 'proven', 'prepared'). 'rasaudana' = rice with rasa (juice/broth). Verb for the last phrase is not given; the sentence ends there. 'gulma' kept as the Sanskrit term (lit. 'cluster, lump'). Modern equivalents: gulma = abdominal lump or mass (standard rendering); pārśvārti = pain in the flank.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1482,7 +1482,7 @@
       "words": [
        {
         "w": "trivṛtā-triphalā-dantī-sātalā-vyoṣa-saindhavaiḥ",
-        "gloss": "trivṛt; triphalā (set of three fruits); dantī; sātalā; vyoṣa (set of three drugs); saindhava (lit. 'of Sindhu')",
+        "gloss": "trivṛt (turpeth); triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka); dantī (see unit 49); sātalā (disputed, see unit 49); vyoṣa (dry ginger, long pepper, black pepper); saindhava (rock salt; standard; lit. 'of Sindhu')",
         "gram": "dvandva, n. inst. pl."
        }
       ]
@@ -1490,8 +1490,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत्, त्रिफला, दन्ती, सातला, व्योष और सैन्धव के साथ",
-  "english": "With trivṛt, triphalā, dantī, sātalā, vyoṣa and saindhava.",
+  "hindi": "त्रिवृत् यानी निशोथ, त्रिफला यानी हरड़ बहेड़ा और आँवला, दन्ती यानी प्रायः जंगली जमालगोटा, सातला, व्योष यानी सोंठ पीपर और काली मिर्च और सैन्धव यानी सेंधा नमक के साथ",
+  "english": "With trivṛt (turpeth), triphalā (the three myrobalans), dantī (probably wild croton), sātalā (identity disputed), vyoṣa (dry ginger, long pepper, black pepper) and saindhava (rock salt).",
   "text_flags": [],
   "notes": "GROUPING: sentence continues in 60 ('prakalpya cūrṇaṃ ...'). 'saindhava' kept as a name (literally 'of Sindhu').",
   "confidence": "high",
@@ -1552,7 +1552,7 @@
        },
        {
         "w": "āmalakāt",
-        "gloss": "from āmalaka",
+        "gloss": "from āmalaka (Indian gooseberry)",
         "gram": "n. abl. sg."
        },
        {
@@ -1565,8 +1565,8 @@
     ]
    }
   ],
-  "hindi": "चूर्ण बनाकर सात दिन तक आमलक के रस में भिगोना चाहिए।",
-  "english": "Having prepared a powder, it is to be saturated for seven days in the juice from āmalaka.",
+  "hindi": "चूर्ण बनाकर सात दिन तक आमलक यानी आँवला के रस में भिगोना चाहिए।",
+  "english": "Having prepared a powder, it is to be saturated for seven days in the juice from āmalaka (Indian gooseberry).",
   "text_flags": [],
   "notes": "'āmalakād rase' is an ablative + locative ('in the juice from āmalaka'); a genitive ('āmalakasya') would be expected, so the reading is slightly uncertain. 'bhāvya' rendered 'to be saturated' (OPEN verb wording).",
   "confidence": "medium",
@@ -1683,7 +1683,7 @@
       "words": [
        {
         "w": "trivṛtā-kalka-siddham",
-        "gloss": "trivṛt; paste; cooked",
+        "gloss": "trivṛt (turpeth); paste; cooked",
         "gram": "ppp. √sidh, n. nom. sg."
        }
       ]
@@ -1693,7 +1693,7 @@
       "words": [
        {
         "w": "gulma-haram",
-        "gloss": "gulma; taking away",
+        "gloss": "gulma (abdominal lump); taking away",
         "gram": "n. nom. sg."
        }
       ]
@@ -1711,8 +1711,8 @@
     ]
    }
   ],
-  "hindi": "बराबर खट्टे द्रव के साथ, त्रिवृत् के कल्क से सिद्ध किया हुआ घृत गुल्म को हरने वाला है।",
-  "english": "Ghee (ghṛta) cooked with a paste of trivṛt, with an equal amount of sour liquid, takes away gulma.",
+  "hindi": "बराबर खट्टे द्रव के साथ, त्रिवृत् यानी निशोथ के कल्क से सिद्ध किया हुआ घृत गुल्म यानी पेट की गाँठ को हरने वाला है।",
+  "english": "Ghee (ghṛta) cooked with a paste of trivṛt (turpeth), with an equal amount of sour liquid, takes away gulma (abdominal lump).",
   "text_flags": [],
   "notes": "'tulyāmla' read as 'equal [measure of] sour liquid'; the thing it is equal to is not stated. 'siddha' here is 'cooked'.",
   "confidence": "medium",
@@ -1738,7 +1738,7 @@
       "words": [
        {
         "w": "śyāmā-trivṛt-kaṣāyeṇa",
-        "gloss": "śyāmā; trivṛt; decoction",
+        "gloss": "śyāmā (see unit 52); trivṛt (turpeth); decoction",
         "gram": "m. inst. sg."
        }
       ]
@@ -1791,8 +1791,8 @@
     ]
    }
   ],
-  "hindi": "श्यामा और त्रिवृत् के कषाय से सिद्ध किया हुआ घृत, अथवा दूध भी।",
-  "english": "Ghee cooked with a decoction of śyāmā and trivṛt, or milk also.",
+  "hindi": "श्यामा और त्रिवृत् के काढ़े से सिद्ध किया हुआ घृत, अथवा दूध भी।",
+  "english": "Ghee cooked with a decoction of śyāmā and trivṛt (turpeth), or milk also.",
   "text_flags": [],
   "notes": "'kaṣāya' rendered 'decoction' (glossary OPEN: kaṣāya/kvātha/niryūha kept as the same word so far). 'payaḥ' is read as milk cooked in the same way.",
   "confidence": "medium",
@@ -1818,7 +1818,7 @@
       "words": [
        {
         "w": "trivṛt-muṣṭīn",
-        "gloss": "trivṛt; handfuls",
+        "gloss": "trivṛt (turpeth); handfuls",
         "gram": "m. acc. pl."
        },
        {
@@ -1871,8 +1871,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत् की नखसहित आठ मुट्ठियाँ एक द्रोण जल में पकाए।",
-  "english": "One should boil eight handfuls of trivṛt, with nails, in a droṇa of water.",
+  "hindi": "त्रिवृत् यानी निशोथ की नखसहित आठ मुट्ठियाँ एक द्रोण जल में पकाए।",
+  "english": "One should boil eight handfuls of trivṛt (turpeth), with nails, in a droṇa of water.",
   "text_flags": [
    {
     "src": "trivanmuṣṭīṃstu",
@@ -1952,7 +1952,7 @@
     ]
    }
   ],
-  "hindi": "एक चौथाई शेष रहा हुआ, छाना हुआ वह कषाय, एक तुला गुड़ से युक्त",
+  "hindi": "एक चौथाई शेष रहा हुआ, छाना हुआ वह काढ़ा, एक तुला गुड़ से युक्त",
   "english": "That decoction, with a quarter remaining, strained, joined with a tulā of jaggery.",
   "text_flags": [],
   "notes": "GROUPING: sentence continues in 66. 'tulā' is a unit of weight (lit. 'balance'). 'kaṣāya' rendered 'decoction'.",
@@ -2009,7 +2009,7 @@
       "words": [
        {
         "w": "kṣaudra-pippalī-phala-citrakaiḥ",
-        "gloss": "honey; pippalī; fruit; citraka",
+        "gloss": "honey; pippalī (long pepper); fruit; citraka (leadwort)",
         "gram": "dvandva, n. inst. pl."
        }
       ]
@@ -2017,8 +2017,8 @@
     ]
    }
   ],
-  "hindi": "चिकने घड़े में शहद, पिप्पली के फल और चित्रक के साथ रखना चाहिए।",
-  "english": "It is to be placed in a greased pot, with honey, the fruit of pippalī and citraka.",
+  "hindi": "चिकने घड़े में शहद, पिप्पली यानी पीपर के फल और चित्रक यानी चीता के साथ रखना चाहिए।",
+  "english": "It is to be placed in a greased pot, with honey, the fruit of pippalī (long pepper) and citraka (leadwort).",
   "text_flags": [],
   "notes": "'pippalī-phala' read as 'fruit of pippalī' (alternative: separate items). 'with' means mixed in.",
   "confidence": "medium",
@@ -2084,7 +2084,7 @@
       "words": [
        {
         "w": "pāṇḍu-śvayathu-gulma-jit",
-        "gloss": "pale (pāṇḍu); swelling; gulma; conquering",
+        "gloss": "pale (pāṇḍu; as a disease name, anaemia with pallor); swelling; gulma (abdominal lump); conquering",
         "gram": "tat-puruṣa, n. nom. sg."
        }
       ]
@@ -2092,8 +2092,8 @@
     ]
    }
   ],
-  "hindi": "लेप किए जाने पर, एक मास बीत जाने पर, पीया हुआ यह पाण्डु, शोथ और गुल्म को जीतने वाला है।",
-  "english": "When it is smeared and a month has passed, drunk, it conquers pāṇḍu, swelling and gulma.",
+  "hindi": "लेप किए जाने पर, एक मास बीत जाने पर, पीया हुआ यह पाण्डु यानी रक्ताल्पता, शोथ यानी सूजन और गुल्म यानी पेट की गाँठ को जीतने वाला है।",
+  "english": "When it is smeared and a month has passed, drunk, it conquers pāṇḍu (anaemia), swelling and gulma (abdominal lump).",
   "text_flags": [],
   "notes": "'lipte' is read as the pot being smeared/sealed (not stated). 'pāṇḍu' kept as 'pale' (glossary), here a condition-name. 'śvayathu' = swelling.",
   "confidence": "medium",
@@ -2190,7 +2190,7 @@
       "words": [
        {
         "w": "yavaiḥ",
-        "gloss": "with barley grains",
+        "gloss": "with yava (barley, Hordeum vulgare; standard) grains",
         "gram": "m. inst. pl."
        }
       ]
@@ -2223,7 +2223,7 @@
     ]
    }
   ],
-  "hindi": "श्यामा और त्रिवृत् के क्वाथ में स्वेदित यव के दानों से, जल के साथ कुल्माष",
+  "hindi": "श्यामा और त्रिवृत् के क्वाथ में स्वेदित यव यानी जौ के दानों से, जल के साथ कुल्माष",
   "english": "Kulmāṣa with barley grains steamed in a decoction of śyāmā and trivṛt, with water.",
   "text_flags": [
    {
@@ -2296,7 +2296,7 @@
       "words": [
        {
         "w": "sauvīrakam",
-        "gloss": "sauvīraka (a sour drink)",
+        "gloss": "sauvīraka (a sour fermented drink, here from barley; standard)",
         "gram": "n. acc. sg."
        }
       ]
@@ -2314,8 +2314,8 @@
     ]
    }
   ],
-  "hindi": "छह दिन भिगोया हुआ, पक जाने पर बना हुआ सौवीरक पिए।",
-  "english": "Steeped for six days, when ripened, the sauvīraka that has arisen one should drink.",
+  "hindi": "छह दिन भिगोया हुआ, पक जाने पर बना हुआ सौवीरक यानी खट्टा किण्वित पेय पिए।",
+  "english": "Steeped for six days, when ripened, the sauvīraka (a sour fermented barley drink) that has arisen one should drink.",
   "text_flags": [],
   "notes": "GROUPING: 69, 70 and 71-72 form one linked passage (kulmāṣa/barley preparations). Exact connection of 'āsutam' and 'jātam' to the noun is not clear; 'sauvīraka' kept as a name.",
   "confidence": "medium",
@@ -2379,7 +2379,7 @@
     ]
    }
   ],
-  "hindi": "भुने हुए अथवा तुष सहित सूखे यव, उसके चूर्ण से युक्त",
+  "hindi": "भुने हुए अथवा तुष सहित सूखे यव यानी जौ, उसके चूर्ण से युक्त",
   "english": "Roasted, or dry barley grains with husk, joined with its powder.",
   "text_flags": [
    {
@@ -2488,7 +2488,7 @@
       "words": [
        {
         "w": "jvara",
-        "gloss": "fever (first member of compound)",
+        "gloss": "fever (jvara; first member of compound)",
         "gram": "m."
        }
       ]
@@ -2498,7 +2498,7 @@
       "words": [
        {
         "w": "hṛd-roga-vāta-asṛj-udāvarta-ādi-rogiṣu",
-        "gloss": "heart; ailment; Vāta; blood; udāvarta (upward turning); and so on; those who have an ailment",
+        "gloss": "heart; ailment (hṛdroga: heart disease); Vāta; blood (vātāsṛj; if read as one term, vātarakta, a gout-like disease; probable); udāvarta (upward turning: reversed movement of Vāta with retention of stool and wind); and so on; those who have an ailment",
         "gram": "dvandva + bahuvrīhi, m. loc. pl."
        }
       ]
@@ -2506,8 +2506,8 @@
     ]
    }
   ],
-  "hindi": "ज्वर, हृद्रोग, वातासृक्, उदावर्त आदि रोग वालों में",
-  "english": "In those afflicted with fever, heart-ailment, Vāta-blood, udāvarta and the like.",
+  "hindi": "ज्वर यानी बुखार, हृद्रोग यानी हृदय रोग, वातासृक् यानी प्रायः वातरक्त, उदावर्त यानी वायु की उलटी गति से होने वाला रोग आदि रोग वालों में",
+  "english": "In those afflicted with fever, heart-ailment (heart disease), Vāta-blood (perhaps vātarakta, a gout-like disease), udāvarta (reversed movement of Vāta, with retention of stool and wind) and the like.",
   "text_flags": [
    {
     "src": "jvara hṛdrogavātāsṛgudāvarttādirogiṣu",
@@ -2539,7 +2539,7 @@
       "words": [
        {
         "w": "rāja-vṛkṣaḥ",
-        "gloss": "drug name (lit. 'king-tree')",
+        "gloss": "rājavṛkṣa (golden shower tree, Cassia fistula, i.e. āragvadha; standard; lit. 'king-tree')",
         "gram": "m. nom. sg."
        },
        {
@@ -2577,10 +2577,10 @@
     ]
    }
   ],
-  "hindi": "राजवृक्ष विशेष रूप से पथ्य, मृदु, मधुर और शीतल है।",
-  "english": "Rājavṛkṣa is especially suitable, mild, sweet and cool.",
+  "hindi": "राजवृक्ष यानी अमलतास विशेष रूप से पथ्य, मृदु, मधुर और शीतल है।",
+  "english": "Rājavṛkṣa (golden shower tree) is especially suitable, mild, sweet and cool.",
   "text_flags": [],
-  "notes": "'pathya' rendered 'suitable' (lit. 'fit for the way'). Drug not identified. This verse may start a new topic (GROUPING: 73-74 probably separate sentences).",
+  "notes": "'pathya' rendered 'suitable' (lit. 'fit for the way'). Rājavṛkṣa = golden shower tree, Cassia fistula, i.e. āragvadha (standard; Hindi amaltas). This verse may start a new topic (GROUPING: 73-74 probably separate sentences).",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [

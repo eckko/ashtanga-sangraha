@@ -1,0 +1,307 @@
+{
+ "units": [
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bṛhatyoḥ",
+     "problem": "Gloss tags the whole identification 'standard' but the note says species names are only probable; inconsistent. The pair bṛhatī + kaṇṭakārī is standard, the exact species less so.",
+     "fix": "pair standard, species probable",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "word",
+      "match_w": "bṛhatyoḥ",
+      "field": "gloss",
+      "value": "bṛhatī (the pair bṛhatī, Solanum indicum, and kaṇṭakārī, Solanum virginianum; pair standard, species probable), of the two"
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "118",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "119",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "arka (swallow-wort)",
+     "problem": "'Swallow-wort' is ambiguous in English (also names Cynanchum/Chelidonium); the gloss and Hindi use Calotropis, madar/milkweed.",
+     "fix": "arka (madar, milkweed)",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "replace",
+      "field": "english",
+      "old": "arka (swallow-wort)",
+      "new": "arka (madar, milkweed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "123",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "124",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "125",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "akṣa-mātram",
+     "problem": "Gram equivalent of akṣa given without a confidence tag in the gloss (note says probable); tables differ.",
+     "fix": "add 'probable'",
+     "severity": "minor",
+     "patch": {
+      "n": "127",
+      "op": "word",
+      "match_w": "akṣa-mātram",
+      "field": "gloss",
+      "value": "an akṣa in measure (one akṣa = one karṣa; about 10 to 12 g in the usual tables, probable)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दन्ती यानी जंगली जमालगोटा",
+     "problem": "Low-confidence unit: the Hindi states the identification of dantī flatly, but the gloss says only 'probable' and the unit's own note says dantī may even be an elephant (dantin). The English has no identification, so the two languages disagree. Hedge it as in 115.",
+     "fix": "दन्ती यानी संभवतः जंगली जमालगोटा",
+     "severity": "error",
+     "patch": {
+      "n": "132",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दन्ती यानी जंगली जमालगोटा",
+      "new": "दन्ती यानी संभवतः जंगली जमालगोटा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pīlu",
+     "problem": "'Salvadora persica; standard' is overconfident: pīlu is also applied to S. oleoides (the two are not always separated in the texts).",
+     "fix": "Salvadora persica, also S. oleoides; probable",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "word",
+      "match_w": "mastu-madirā-takra-pīlu-rasa-āsavaiḥ",
+      "field": "gloss",
+      "value": "with mastu (curd whey), madirā (spirituous drink), takra (buttermilk), pīlu (Salvadora persica, also S. oleoides; probable) juice and āsava (fermented drink)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "139",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pāṇḍu",
+     "problem": "Not wrong, but the English drops the Sanskrit term pāṇḍu; owner policy keeps the Sanskrit beside the modern name. Draft's choice to keep 'pale' is defensible; optional.",
+     "fix": "optional: 'who is pale (pāṇḍu, anaemia-type disease)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "142",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "143",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dantyāḥ",
+     "problem": "Missed: dantī is identified in 132 but not here or in 147; same plant, useful to state.",
+     "fix": "dantī (Baliospermum montanum, wild croton; probable; see 132)",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "word",
+      "match_w": "dantyāḥ",
+      "field": "gloss",
+      "value": "of dantī (Baliospermum montanum, wild croton; probable; see 132)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "147",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dantī-dravantyoḥ",
+     "problem": "Missed: dantī identified in 132, dravantī disputed; state both here for consistency.",
+     "fix": "of dantī (Baliospermum montanum; probable) and dravantī (identity disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "word",
+      "match_w": "dantī-dravantyoḥ",
+      "field": "gloss",
+      "value": "of dantī (Baliospermum montanum, wild croton; probable) and dravantī (identity disputed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "148",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed units 112-148 against pre-enrichment text. No translation change adds an effect, dose or identification as if in the Sanskrit; all added material sits in parentheses or after 'यानी'. Hindi: no Latin letters or brackets in any unit. Identifications checked and accepted: bilva, bṛhatī pair, sudhā/snuk = Euphorbia neriifolia, trivṛt, svarṇakṣīrī (probable), harītakī, atasī, sarṣapa, eraṇḍa, karañja, pippalī, kuśa, dhātrī, tila; disputed/unidentified correctly left for varā, sātalā, śyāmā, śaṅkhinī, dravantī, ajagandhā, bhṛṅgī, nikumbha/kumbha, kāsāri; daśamūla list correct; mahāsneha (four fats) and akṣa=karṣa fine; udara/pāṇḍu kept as belly/pale with disease reading only in notes (acceptable). Low-confidence units 117, 136, 141, 148 not over-enriched; 132 Hindi was (fixed by patch). Issues: 1 error, 7 minor. No regrouping suggested.",
+ "counts": {
+  "error": 1,
+  "minor": 7
+ }
+}
