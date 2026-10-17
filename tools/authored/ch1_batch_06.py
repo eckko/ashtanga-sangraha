@@ -10,7 +10,7 @@ AUTHORED["64"] = {
              "deformed limbs and a doubtful item; with the messenger chapter, twelve chapters. "
              "Then 'निदानं सार्वरोगिकम्': the Nidāna, concerning all diseases."),
     "limits": ("A list with no verb. The split of line 1 and its last item (ईहित-आमयाः) are doubtful, so "
-               "questions use only सिरा, मर्म and the twelve. The verse does not name the section these "
+               "questions use only सिरा, मर्म, सदूता, the twelve and निदानं सार्वरोगिकम्. The verse does not name the section these "
                "titles belong to."),
     "explain_hi": ("यह श्लोक-युग्म शीर्षकों की सूची का अन्त है और पिछले युग्म से चलता है। पहली पंक्ति में "
                    "सिरा, मर्म, प्रकृति, विकृत अंग और ‘ईहित-आमय’ के नाम आते हैं; ‘आख्या’ और "
@@ -23,7 +23,7 @@ AUTHORED["64"] = {
         mcq("pretest", 0,
             "Verse 64 gives a number of chapters together with the messenger chapter. Which number?",
             ("Twelve (द्वादश)", "सदूता द्वादशाध्याया: twelve chapters with the messenger chapter."),
-            [("Sixteen", "Sixteen is a later number, in the Nidāna list of the next unit."),
+            [("Sixteen", "Sixteen (षोडश) comes later, in verse 66."),
              ("Twenty-four", "Twenty-four comes in a later unit, not here."),
              ("Six", "Six is not a number in this verse.")],
             "द्वादश = twelve; सदूता = with the messenger (chapter).",
@@ -76,7 +76,7 @@ AUTHORED["65"] = {
     "limits": ("No verb and no number here (the number sixteen comes in the next unit). The grouping of "
                "members inside the first compound is uncertain. Disease names are terms, not diagnoses; "
                "असृक् and श्वस are kept literal."),
-    "explain_hi": ("यह सूची निदान के विषयों की है, पूरी की पूरी षष्ठी (‘…का’) में। पहली पंक्ति: ज्वर, असृक्, "
+    "explain_hi": ("यह सूची (पिछले श्लोक के ‘निदानम्’ के क्रम में पढ़ी गई, श्लोक स्वयं नहीं कहता) विषयों की है, पूरी की पूरी षष्ठी (‘…का’) में। पहली पंक्ति: ज्वर, असृक्, "
                    "श्वस, यक्ष्म आदि, मद आदि, अर्श और अतिसार वाले। दूसरी पंक्ति: मूत्राघात, प्रमेह, "
                    "विद्रधि आदि, और उदर। पूरे समास पर अन्तिम ‘-आम्’ लगा है, पर सदस्यों का ठीक "
                    "समूह-बँटवारा अनिश्चित है। इसमें क्रिया या संख्या नहीं है; संख्या ‘षोडश’ अगले युग्म में आती है।"),
@@ -98,7 +98,7 @@ AUTHORED["65"] = {
               "ज्वर = fever; असृक् = blood; श्वस = breath; मूत्राघात = urine-obstruction; उदर = abdomen."),
         mcq("extend", 2,
             "What does the ending of मूत्राघातप्रमेहाणाम् convey?",
-            ("'Of' (genitive plural): of urine-obstruction and the pramehas", "-ाणाम् is the genitive plural: 'of'."),
+            ("'Of' (genitive plural)", "-ाणाम् is the genitive plural: 'of'."),
             [("'In' (locative plural)", "'In' would end in -एषु, as in क्षुद्ररोगेषु later."),
              ("'By' (instrumental plural)", "'By' would end in -ैः; this is not that ending."),
              ("'To' (dative plural)", "'To' would end in -भ्यः; this ending is -ाणाम्.")],
@@ -134,8 +134,8 @@ AUTHORED["66"] = {
     "title": "पांडुकुष्ठानिलार्त्तानां",
     "question": "What closes the list in line 1 of verse 66, and what does line 2 begin?",
     "rule": ("Line 1 ends the genitive list with the number षोडश (sixteen); the noun it counts is not stated. "
-             "Line 2 begins a new block: 'चिकित्सा च', the treatment of fever, of ... and of "
-             "breath and yakṣma."),
+             "Line 2 begins a new block: 'चिकित्सा च', the treatment of fever, of asra and kāsa "
+             "(how these pair is uncertain), and of breath and yakṣma."),
     "limits": ("Line 1 belongs with the Nidāna list of units 64 and 65, line 2 with the treatment list of "
                "units 67 and 68. The verse does not say what is sixteen. How asra and kāsa pair up in "
                "line 2 is uncertain, so no question rests on it."),
@@ -175,7 +175,7 @@ AUTHORED["66"] = {
             [("वातेस्रस्य", "अ + अ does not give ए."),
              ("वातोस्रस्य", "अ + अ does not give ओ."),
              ("वातस्रस्य", "The two vowels do not simply drop; they join into आ.")],
-            "वात + अस्रस्य → वातास्रस्य; the data flags the printed form as an unjoined slip.",
+            "वात + अस्रस्य → वातास्रस्य; the print leaves the two words unjoined (a possible slip, flagged only as 'possible').",
             "अ + अ → आ."),
         order(4, "Arrange these words of line 1 of verse 66 in the printed order.",
               ["पांडु", "कुष्ठ", "अनिलार्त्तानां", "वातअस्रस्य", "षोडश"],
@@ -216,7 +216,7 @@ AUTHORED["67"] = {
             [("Of vomiting", "'Of' would be the genitive वमेः."),
              ("By vomiting", "'By' would be the instrumental."),
              ("Vomiting, as the subject", "The subject (nominative) form would not end in -औ.")],
-            "वमौ is the locative of वमि/वमन here: 'in vomiting'.",
+            "वमौ is the locative singular of वमि (vomiting): 'in vomiting'.",
             "Locative = 'in'."),
         match(1, "Match each word of verse 67 to its meaning.",
               [["वमौ", "in vomiting"], ["शोफ", "swelling"], ["द्वौ द्वौ", "two each"],
@@ -287,7 +287,7 @@ AUTHORED["68"] = {
               "चतुर्विंशतिः = twenty-four; चिकित्सितम् = treatment; अनिलव्याधि = diseases of wind; ततः परम् = after that; कल्पसिद्धिः = Kalpa and Siddhi."),
         mcq("extend", 2,
             "How does the card read the singular कल्पसिद्धिः?",
-            ("As Kalpa and Siddhi, the two following sections", "A dvandva taken as a collective singular."),
+            ("As Kalpa and Siddhi together", "A dvandva taken as a collective singular."),
             [("As a single section named Siddhi", "The gloss reads two names, Kalpa and Siddhi."),
              ("As a medicine called Kalpa", "Nothing in the verse makes it a medicine."),
              ("As twenty-four sections", "Twenty-four counts the chapters, not these.")],
@@ -368,14 +368,14 @@ AUTHORED["69"] = {
               "Line 1 reads कल्पो वमेर्विरेकस्य तत्सिद्धिर्बस्तिकल्पना.",
               "Order: कल्पः, वमेः, विरेकस्य, तत्सिद्धिः, बस्तिकल्पना.", role="apply"),
         mcq("transfer", 5,
-            "What does the new compound गुरुशिष्ययोः mean, as बस्त्यनुवासयोः means 'of basti and anuvāsa'?",
-            ("Of the teacher and the pupil", "-योः on a dvandva is the genitive dual: of the two."),
+            "What does the new compound गुरुशिष्ययोः mean when read as a genitive, like बस्त्यनुवासयोः 'of basti and anuvāsa'?",
+            ("Of the teacher and the pupil", "A dvandva with -योः read as genitive dual: of the two."),
             [("In the teacher and the pupils", "'In' plural would end in -षु."),
              ("Of the teacher who is a pupil", "A dvandva lists two, not one person."),
              ("The two teachers and pupils", "That would be a nominative form, not -योः.")],
-            "बस्त्यनुवासयोः is a dvandva with the genitive dual ending -योः; गुरुशिष्ययोः works the same way.",
-            "Dvandva + -योः = 'of the two (A and B)'.",
-            teaches="-योः after a dvandva of two names gives 'of A and B': बस्त्यनुवासयोः, गुरुशिष्ययोः."),
+            "बस्त्यनुवासयोः is a dvandva with the dual ending -योः (genitive here; -योः can also be locative); गुरुशिष्ययोः works the same way.",
+            "Dvandva + -योः = 'of (or in) the two, A and B'; context decides.",
+            teaches="-योः after a dvandva of two names is the genitive (or locative) dual: बस्त्यनुवासयोः = of basti and anuvāsa, गुरुशिष्ययोः = of the teacher and the pupil."),
     ],
 }
 
@@ -410,17 +410,17 @@ AUTHORED["70"] = {
               "द्रव्यकल्पः = Dravyakalpa; अष्टमः = eighth; उत्तरम् = Uttara section; बालोपचरणे = in tending of children; निषेधने = in restraint."),
         mcq("extend", 2,
             "How does द्रव्यकल्पः + अष्टमः become द्रव्यकल्पोऽष्टमः?",
-            ("Visarga becomes ओ and the अ of अष्टमः is dropped, shown by ऽ", "ः → ओ before a voiced sound after अ; अ elided."),
-            [("Visarga becomes ए and nothing is dropped", "After अ the visarga gives ओ, not ए."),
-             ("Visarga stays and a space is added", "The sandhi changes the visarga."),
-             ("The two अ join into long आ", "That is for अ + अ, but here a visarga is between.")],
+            ("ः becomes ओ; the अ drops (ऽ)", "ः → ओ before a voiced sound after अ; अ elided."),
+            [("ः becomes ए; nothing drops", "After अ the visarga gives ओ, not ए."),
+             ("ः stays; a space is added", "The sandhi changes the visarga."),
+             ("अ + अ join into आ", "That is for अ + अ, but here a visarga is between.")],
             "ः + अ after अ → ओ + ऽ (the अ is elided).",
             "After अ, visarga + voiced sound or अ → ओ.",
             teaches="After अ, a visarga before अ becomes ओ and the अ is dropped, marked by ऽ."),
         mcq("discriminate", 3,
             "Which is the right split of बालोपचरणे?",
             ("बाल + उपचरणे", "अ + उ gives ओ: बालोपचरणे."),
-            [("बाला + उपचरणे", "बाला would end in long आ and give बालोपचरणे only by a different rule."),
+            [("बाली + उपचरणे", "ई before उ would give यु, not ओ."),
              ("बालो + उपचरणे", "बालो is the joined form, not a split."),
              ("बाल + पचरणे", "पचरणे is not the second word.")],
             "बाल + उपचरणे → बालोपचरणे: in the tending of children.",
@@ -472,7 +472,7 @@ AUTHORED["71"] = {
               "स्नाने = in bathing; पृथक् = separately; भूते = in bhūta; स्मृतिक्षये = in loss of memory; द्वौ = two."),
         mcq("extend", 2,
             "In पृथग्ग्रहे, what happens to the final क् of पृथक् before ग्रहे?",
-            ("It becomes ग्, a voiced sound", "Before a voiced ग्, क् turns to ग्."),
+            ("It becomes ग्", "Before a voiced ग्, क् turns to ग्."),
             [("It stays क्", "A final stop turns voiced before a voiced sound."),
              ("It becomes ख्", "ख् is not the voiced partner of क्."),
              ("It is dropped", "The letter changes; it is not dropped.")],
@@ -495,7 +495,7 @@ AUTHORED["71"] = {
             "A new line says धनक्षये. What does it say?",
             ("In loss of wealth", "Like स्मृतिक्षये: क्षय of the first word, in the locative."),
             [("By loss of wealth", "'By' would be धनक्षयेण."),
-             ("In wealth and loss", "An 'and'-list of two would be a dual or a longer form."),
+             ("In wealth, and in loss", "That would be two words, धने क्षये; here धन depends on क्षय in one compound."),
              ("Of the wealth's loss", "'Of' would be the genitive.")],
             "धन + क्षये = in loss of wealth, as स्मृति + क्षये = in loss of memory.",
             "Tat-puruṣa + locative -ए = 'in the X of Y'.",
@@ -532,11 +532,11 @@ AUTHORED["72"] = {
               "These words are clear in the data.",
               "कर्ण = ear; नासा = nose; मुख = mouth; मूर्ध्नि = in the head; व्रणे = in the wound."),
         mcq("extend", 2,
-            "What can be said of 'द्वौ द्वौ' (two each) in verse 72?",
-            ("It means two each, but the verse does not say which items it covers", "The repeated number is distributive; the range is open."),
-            [("It covers only the wound", "Nothing in the verse limits it to the wound."),
-             ("It covers only the ear, nose and mouth", "It stands in line 2, after the head and wound."),
-             ("It means two in all", "The repetition means two for each item.")],
+            "What does the repeated word pair द्वौ द्वौ mean?",
+            ("Two each", "The repeated number is distributive: two for each."),
+            [("Two in all", "Repeating the number does not make a total."),
+             ("A second time", "द्वौ is 'two', not 'again'."),
+             ("The two, ear and nose", "द्वौ is a number, not the names of two organs.")],
             "द्वौ द्वौ = two each; the verse leaves open which of the items it covers.",
             "A repeated number = 'two each'; its range here is not stated.",
             teaches="A repeated number word is distributive: द्वौ द्वौ = two each."),
@@ -575,9 +575,9 @@ AUTHORED["73"] = {
     "rule": ("Title list: in granthi and so on; in minor diseases; in diseases of the hidden parts, 'a pair separately'; "
              "in poison, two; in the snake and the insect; in spiders and the rat."),
     "limits": ("No verb. For the snake, the insect, the spiders and the rat the grouping of the number "
-               "'two' is uncertain (the word order allows two readings), so no question rests on it."),
-    "explain_hi": ("यह शीर्षकों की सूची है। ‘ग्रन्थि आदि’, ‘छोटे रोग’, ‘गुह्य रोग’ में ‘पृथक् द्वयम्’ (अलग-अलग "
-                   "दो-दो); फिर विष में दो; फिर साँप और कीट, और मकड़ियाँ और चूहा। दूसरी पंक्ति में "
+               "'two' is uncertain (the word order allows two readings), so no question rests on it. Whether पृथक् द्वयम् covers all three items of line 1 or only the last is also open."),
+    "explain_hi": ("यह शीर्षकों की सूची है। ‘ग्रन्थि आदि’, ‘छोटे रोग’, ‘गुह्य रोग’ में, ‘गुह्य रोग’ के साथ ‘पृथक् द्वयम्’ "
+                   "(अलग-अलग दो-दो; किन-किन पर, पक्का नहीं); फिर विष में दो; फिर साँप और कीट, और मकड़ियाँ और चूहा। दूसरी पंक्ति में "
                    "‘द्वौ च’ भुजग-कीट के साथ जुड़े या लूता-मूषक के साथ, शब्द-क्रम दोनों होने देता है; "
                    "इसलिए इस पर प्रश्न नहीं। सन्धि: ग्रन्थि + आदौ → ग्रन्थ्यादौ।"),
     "hook": "ग्रन्थि आदि, छोटे रोग, गुह्य रोग · विष · साँप, कीट · मकड़ियाँ, चूहा।",
@@ -636,7 +636,7 @@ AUTHORED["74"] = {
     "rule": ("In poison; in the use of poison; likewise a chapter on rasāyana; aiming at vājīkaraṇa, the "
              "fiftieth, 'adhyāṅgapūraṇa' (doubtful)."),
     "limits": ("The last word (अध्यांगपूरणः) is doubtful: 'the chapter completing the limbs' is a literal guess, "
-               "so no question uses its meaning. Which chapter 'vājīkaraṇam uddiśya' refers to is not clear."),
+               "so no question uses its meaning. Which chapter 'vājīkaraṇam uddiśya' refers to is not clear. पञ्चाशः is read as the ordinal \"fiftieth\"; the verse does not say which chapter."),
     "explain_hi": ("सूची के अन्त का श्लोक-युग्म। विष में, विष के उपयोग में, और ‘तथा अध्यायो रसायने’: "
                    "इसी तरह रसायन पर एक अध्याय। दूसरी पंक्ति: ‘वाजीकरणमुद्दिश्य पंचाशः’: वाजीकरण को "
                    "लक्ष्य करके पचासवाँ। अन्तिम शब्द ‘अध्यांगपूरणः’ संदिग्ध है। ‘उद्दिश्य’ में उपसर्ग है, "
@@ -650,7 +650,7 @@ AUTHORED["74"] = {
             [("विषे", "विषे means in poison."),
              ("रसायने", "रसायने means on rasāyana."),
              ("तथा", "तथा means likewise.")],
-            "तथाध्यायो रसायने = likewise a chapter on rasāyana.",
+            "तथाऽध्यायो रसायने = likewise a chapter on rasāyana.",
             "अध्यायः = chapter."),
         match(1, "Match each word of verse 74 to its meaning.",
               [["विषे", "in poison"], ["विषोपयोगे", "in the use of poison"], ["रसायने", "on rasāyana"],
@@ -670,7 +670,7 @@ AUTHORED["74"] = {
             "Which is the right split of विषोपयोगे?",
             ("विष + उपयोगे", "अ + उ gives ओ: विषोपयोगे."),
             [("विषो + उपयोगे", "विषो is the joined form."),
-             ("विषा + उपयोगे", "आ + उ would not give ओ."),
+             ("विषि + उपयोगे", "इ before उ would give यु, not ओ."),
              ("विष + पयोगे", "पयोगे is not the second word.")],
             "विष + उपयोगे → विषोपयोगे: in the use of poison.",
             "अ + उ → ओ."),
@@ -683,7 +683,7 @@ AUTHORED["74"] = {
             ("प्रणम्य", "A prefixed root takes -य."),
             [("प्रणत्वा", "-त्वा is used when there is no prefix."),
              ("प्रणमन्", "That is a present participle, not an absolutive."),
-             ("प्रणमितम्", "That is a past participle.")],
+             ("प्रणतम्", "That is a past participle (bowed), not an absolutive.")],
             "प्र + √नम् + य → प्रणम्य, as उद् + √दिश् → उद्दिश्य.",
             "Prefixed root + -य = absolutive.",
             teaches="With a prefix, the absolutive ends in -य: उद्दिश्य, प्रणम्य."),
@@ -757,7 +757,7 @@ NOTES_HI = {
     "65": "विश्वास: मध्यम। कोई क्रिया नहीं। ‘असृक्’ (रक्त) और ‘श्वस’ (श्वास) शाब्दिक रखे गए; रोगों के नाम पारिभाषिक शब्द हैं, आधुनिक निदान नहीं। प्रथम समास में सदस्यों का समूह-बँटवारा अनिश्चित। सन्धि जाँची: विद्रधि + आदि → विद्रध्यादि; यक्ष्म + आदि → यक्ष्मादि; मद + आदि → मदादि (अ + आ → आ); उदरस्य + च अलग लिखे हैं।",
     "66": "विश्वास: मध्यम। ‘षोडश’ किसकी गिनती है, पाठ में नहीं। पंक्ति १ पिछली निदान-सूची की है, पंक्ति २ चिकित्सा-सूची की। ‘वातअस्रस्य’ बिना जुड़ा छपा है (सम्भवतः वातास्रस्य, अ + अ → आ)। ‘अस्र-कासयोः’ को ‘रक्त और कास’ की जोड़ी माना गया है, पर यह निश्चित नहीं; इस पर प्रश्न नहीं।",
     "67": "विश्वास: निम्न। पंक्ति १ सम्पादकों द्वारा बिगड़ी बताई गई है (१.१२२): ‘अर्शः सु’, ‘बिशि’, ‘मूत्रित्रे’ अस्पष्ट; ‘मूत्रकृच्छ्रे’ केवल अनुमान है और उससे १७ अक्षर हो जाते। केवल वमौ, मदात्यये, द्वौ द्वौ च पक्के हैं। पंक्ति २ में कोई चिह्नित दोष नहीं। ‘दो-दो’ किन पर लागू, अनिश्चित। ‘अर्शः सु’ सम्भवतः ‘अर्शःसु’ (सप्तमी बहुवचन)।",
-    "68": "विश्वास: मध्यम। ‘चौबीस अध्याय’ को उस खण्ड का कुल योग पढ़ा गया है; यह पाठक की व्याख्या है, श्लोक का स्पष्ट कथन नहीं। ‘कल्पसिद्धिः’ एकवचन में दोनों स्थानों का समाहार माना गया (सिद्धान्त: अगली सूची उन्हें खोलती है)। सन्धि जाँची: चतुर्विंशतिः + अध्यायाः → चतुर्विंशतिरध्यायाः (विसर्ग → र्); कल्पसिद्धिः + ततः → कल्पसिद्धिस्ततः।",
+    "68": "विश्वास: मध्यम। ‘चौबीस अध्याय’ को उस खण्ड का कुल योग पढ़ा गया है; यह पाठक की व्याख्या है, श्लोक का स्पष्ट कथन नहीं। ‘कल्पसिद्धिः’ एकवचन में दोनों स्थानों का समाहार माना गया (अगली इकाई की सूची उन्हें खोलती है)। सन्धि जाँची: चतुर्विंशतिः + अध्यायाः → चतुर्विंशतिरध्यायाः (विसर्ग → र्); कल्पसिद्धिः + ततः → कल्पसिद्धिस्ततः।",
     "69": "विश्वास: मध्यम। छपे ‘तत्सिद्धि र्बस्तिकल्पना’ में स्थान-रिक्त गलत है; सही तत्सिद्धिर्बस्तिकल्पना (विसर्ग → र् घोष से पहले)। ‘कल्पो वमेर्विरेकस्य’ में कल्पः + वमेः → कल्पो वमेः (ः → ओ), वमेः + विरेकस्य → वमेर्विरेकस्य (ः → र्)। ‘अनुवास’ को ‘अनुवासन’ माना गया। किसी शीर्षक का अध्याय-क्रम नहीं दिया गया।",
     "70": "विश्वास: निम्न। पंक्ति १ बिगड़ी है (१.१२८): ‘स्था ममतंडुन्तरमुत्तरं’; सुझाव ‘स्थानमतः परमुत्तरम्’ केवल अनुमान है (१५ अक्षर, छपे में १६)। पक्का: ‘द्रव्यकल्पोऽष्टमः’ और ‘उत्तरम्’। ‘आठवाँ’ किसका, पाठ में नहीं। ‘ग्रह’ पारिभाषिक शब्द के रूप में रखा; दूसरी पंक्ति का समास ‘रोग और ग्रह के ज्ञान-निषेध’ या ‘ग्रह-रोगों के’ दोनों तरह पढ़ा जा सकता है। सन्धि: द्रव्यकल्पः + अष्टमः → द्रव्यकल्पोऽष्टमः; बाल + उपचरणे → बालोपचरणे।",
     "71": "विश्वास: निम्न। दोनों पंक्तियाँ चिह्नित (१.१३०, १.१३१): ‘ह्वावुन्मादे’ सम्भवतः ‘द्वावुन्मादे’ (द्वौ + उन्मादे); ‘दृक्नमोर्लिगनाशिषु’ सम्भवतः ‘दृक्तमोर्लिङ्गनाशयोः’ या वैसा कुछ, र् अव्याख्यात। इन दोनों पर, और ‘वर्त्मसंधिगतौ’ पर, कोई प्रश्न नहीं बना। पक्के: स्नाने, पृथग्ग्रहे, भूते, स्मृतिक्षये, द्वौ द्वौ। सन्धि: पृथक् + ग्रहे → पृथग्ग्रहे।",
@@ -780,7 +780,7 @@ AIDS = {
         "chunks": "सिरामर्मप्रकृत्याख्या | विकृतांगेहितामयाः ‖ सदूता द्वादशाध्याया | निदानं सार्वरोगिकं।",
     },
     "65": {
-        "frame": "कौन: निदान के विषय · रूप: ‘…का’ (षष्ठी) की सूची · क्रिया: कोई नहीं।",
+        "frame": "कौन: विषयों की सूची (पिछले श्लोक के निदान से जुड़ी मानी गई) · रूप: ‘…का’ (षष्ठी) की सूची · क्रिया: कोई नहीं।",
         "diagram": {"groups": [
             {"label": "पहली पंक्ति",
              "items": ["ज्वर", "असृक्", "श्वस", "यक्ष्मादि", "मदादि", "अर्श", "अतिसारिणाम्"]},
@@ -847,8 +847,8 @@ AIDS = {
         "chunks": "स्नाने पृथग्ग्रहे भूते | … स्मृतिक्षये ‖ … द्वौ द्वौ …",
     },
     "72": {
-        "chain": {"steps": ["सर्वदृक् · स्पन्ददृक् · दृक्पाक", "कर्ण · नासा · मुख",
-                            "मूर्धा · व्रण · दो-दो", "सद्योभङ्ग · भगन्दर"]},
+        "chain": {"steps": ["सर्व-दृक् · स्पन्द-दृक् · पाके", "कर्ण · नासा · मुखेषु",
+                            "मूर्ध्नि · व्रणे · तथा · द्वौ द्वौ", "सद्योभंगे · भगंदरे"]},
         "diagram": {"groups": [
             {"label": "पंक्ति १",
              "items": ["सर्वदृक्", "स्पन्ददृक्", "पाके", "कर्ण", "नासा", "मुखेषु"]},
@@ -874,7 +874,7 @@ AIDS = {
             {"label": "पंक्ति २",
              "items": ["वाजीकरणम्", "उद्दिश्य", "पञ्चाशः"]}]},
         "sandhi": "अ + उ → ओ: विष + उपयोगे → विषोपयोगे · उपसर्ग वाली धातु में -य: उद् + दिश् → उद्दिश्य।",
-        "chunks": "विषे विषोपयोगे च | तथाध्यायो रसायने ‖ वाजीकरणमुद्दिश्य | पंचाशः (आगे का शब्द संदिग्ध)।",
+        "chunks": "विषे विषोपयोगे च | तथाऽध्यायो रसायने ‖ वाजीकरणमुद्दिश्य | पंचाशः (आगे का शब्द संदिग्ध)।",
     },
     "75": {
         "frame": "पंक्ति १: योग (पचास और सौ अध्याय, छह स्थान) · पंक्ति २: समापन ‘इति … नाम प्रथमोऽध्यायः’।",
@@ -909,9 +909,9 @@ IMAGE_SPECS = {
     },
     ("69", "diagram"): {
         "file": "ch1b06-kalpa-69.svg",
-        "alt": "A table of the five titles of verse 69: kalpa of emesis and purgation; their siddhi; formulation of basti; kalpa and siddhi of the bastis; siddhi of basti and anuvasa",
+        "alt": "A table of the titles listed in verse 69: kalpa of emesis and purgation; their siddhi; formulation of basti; kalpa and siddhi of the bastis; siddhi of basti and anuvasa",
         "type": "table",
-        "title": "श्लोक ६९: पाँच शीर्षक",
+        "title": "श्लोक ६९: शीर्षक-सूची",
         "heads": ["शीर्षक", "किसका"],
         "rows": [["कल्प", "वमन और विरेचन का"],
                  ["सिद्धि", "उन दोनों की"],
@@ -924,8 +924,8 @@ IMAGE_SPECS = {
         "alt": "Four steps in the order of verse 72: the eye items; ear, nose and mouth; head, wound and two each; sudden breaking and bhagandara",
         "type": "chain",
         "title": "श्लोक ७२: क्रम से",
-        "steps": ["सर्वदृक् · स्पन्ददृक् · दृक्पाक", "कर्ण · नासा · मुख",
-                  "मूर्धा · व्रण · दो-दो", "सद्योभङ्ग · भगन्दर"],
+        "steps": ["सर्व-दृक् · स्पन्द-दृक् · पाके", "कर्ण · नासा · मुखेषु",
+                  "मूर्ध्नि · व्रणे · तथा · द्वौ द्वौ", "सद्योभंगे · भगंदरे"],
     },
     ("75", "diagram"): {
         "file": "ch1b06-colophon-75.svg",
