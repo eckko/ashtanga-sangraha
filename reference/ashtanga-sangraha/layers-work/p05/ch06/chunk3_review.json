@@ -1,0 +1,1273 @@
+{
+ "units": [
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुल्थी",
+     "problem": "Glossary fixes Hindi kulattha as कुलथी.",
+     "fix": "कुलत्थ यानी कुलथी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुल्थी",
+      "new": "कुलथी",
+      "n": "83"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "phala-sauvīraka-anvitaiḥ",
+     "problem": "Compound is a dvandva (phala, sauvīraka) followed by anvita; 'tat-puruṣa' alone hides this.",
+     "fix": "dvandva + tat-puruṣa, m. inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "phala-sauvīraka-anvitaiḥ",
+      "field": "gram",
+      "value": "dvandva + tat-puruṣa, m. inst. pl.",
+      "n": "83"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "84"
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "second flag",
+     "problem": "'suggest' holds '(dhanya: dravya or dhānya?)', which is not a text form; an apply step could write it into the text. The doubt is already in notes.",
+     "fix": "keep only the first flag",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tailenānilajiddhanyavipakkenānuvāsayet",
+        "suggest": "tailenānilajiddhanyavipakvenānuvāsayet",
+        "why": "possible: 'vipakka' is a misprint of 'vipakva' (kva read as kka)"
+       }
+      ],
+      "n": "85"
+     }
+    },
+    {
+     "field": "english",
+     "where": "wind-conquering (anilajit)",
+     "problem": "Glossary: Vāta capitalised; anila here is Vāta.",
+     "fix": "Vāta-conquering (anilajit, lit. wind-conquering)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "wind-conquering (anilajit)",
+      "new": "Vāta-conquering (anilajit, lit. wind-conquering)",
+      "n": "85"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धन्य",
+     "problem": "English marks dhanya '(unclear)' but the Hindi gives bare धन्य ('blessed'), reading as a firm word. Also double 'से'.",
+     "fix": "वात को जीतने वाले धन्य, जिसका अर्थ अस्पष्ट है, के साथ भली-भाँति पकाए गए तेल से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात को जीतने वाले धन्य से भली-भाँति पकाए गए तेल से",
+      "new": "वात को जीतने वाले धन्य, जिसका अर्थ अस्पष्ट है, के साथ भली-भाँति पकाए गए तेल से",
+      "n": "85"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "86 and 87 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "86 and 87 are one sentence",
+      "new": "86 and 87 appear to be one sentence",
+      "n": "86"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "87"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "88 and 89 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "88 and 89 are one sentence",
+      "new": "88 and 89 appear to be one sentence",
+      "n": "88"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ādika",
+     "problem": "Printed 'balāsthirādikāśmarya' = balā-sthirā-ādi-kāśmarya; 'ādika' would give ādikakāśmarya. The member is ādi (as in vaṭa-ādi, 111).",
+     "fix": "w balā-sthirā-ādi-kāśmarya-triphalā-rasaiḥ; gloss 'and the rest (ādi)'",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "balā-sthirā-ādika-kāśmarya-triphalā-rasaiḥ",
+       "field": "gloss",
+       "value": "balā (probably Sida cordifolia; probable); sthirā (disputed: often śālaparṇī, Desmodium gangeticum); and the rest (ādi); kāśmarya (Gmelina arborea; standard); triphalā (the three myrobalans: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Phyllanthus emblica; standard); juices (rasa)",
+       "n": "88"
+      },
+      {
+       "op": "word",
+       "match_w": "balā-sthirā-ādika-kāśmarya-triphalā-rasaiḥ",
+       "field": "w",
+       "value": "balā-sthirā-ādi-kāśmarya-triphalā-rasaiḥ",
+       "n": "88"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "'ādika' is read",
+       "new": "'ādi' is read",
+       "n": "88"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "sthirā (identity disputed)",
+     "problem": "Hindi says probably सरिवन (śālaparṇī) but English gives no candidate; make both languages carry the same hedge.",
+     "fix": "sthirā (identity disputed; perhaps śālaparṇī, Desmodium gangeticum)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "sthirā (identity disputed)",
+      "new": "sthirā (identity disputed; perhaps śālaparṇī, Desmodium gangeticum)",
+      "n": "88"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हरड़ बहेड़ा आँवला",
+     "problem": "Three drug names run together without separators.",
+     "fix": "हरड़, बहेड़ा और आँवला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हरड़ बहेड़ा आँवला",
+      "new": "हरड़, बहेड़ा और आँवला",
+      "n": "88"
+     }
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "89"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pakvā'nuvāsayet",
+     "problem": "Printed 'pakvā' is kept and glossed as a gerund but not flagged. The usual gerund is paktvā (क्त्वा), and a lost 't' is a likely misprint (similar kva/kka/ktva confusions elsewhere). Alternative reading: 'pakvam' agreeing with tailam (same sense). Flag it and put the corrected form in words.",
+     "fix": "flag pakvā -> paktvā (possible); w paktvā",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "pakvā'nuvāsayet",
+         "suggest": "paktvā'nuvāsayet",
+         "why": "possible: 'pakvā' for paktvā (t lost; gerund of √pac); alternative: 'pakvam' agreeing with tailam, same sense"
+        }
+       ],
+       "n": "89"
+      },
+      {
+       "op": "word",
+       "match_w": "pakvā",
+       "field": "gram",
+       "value": "abs. √pac",
+       "n": "89"
+      },
+      {
+       "op": "word",
+       "match_w": "pakvā",
+       "field": "w",
+       "value": "paktvā",
+       "n": "89"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "92 and 93 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "92 and 93 are one sentence",
+      "new": "92 and 93 appear to be one sentence",
+      "n": "92"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "samyak-prapīḍitaḥ",
+     "problem": "'pressed out' adds 'out'; pra-√pīḍ is 'pressed, squeezed' (a basti is pressed to push the fluid in).",
+     "fix": "properly; pressed",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "samyak-prapīḍitaḥ",
+      "field": "gloss",
+      "value": "properly; pressed",
+      "n": "92"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pressed (out)",
+     "problem": "Added 'out'.",
+     "fix": "not properly pressed,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "not properly pressed (out),",
+      "new": "not properly pressed,",
+      "n": "92"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वात सहित",
+     "problem": "Hindi commits to the humour while English keeps 'vāta (wind, air)' and the note says both are possible.",
+     "fix": "वात यानी वायु सहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात सहित",
+      "new": "वात यानी वायु सहित",
+      "n": "92"
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kāśa, kuśa",
+     "problem": "Policy: modern names beside the Sanskrit; the word gloss has them (standard) but the translation does not.",
+     "fix": "kāśa (Saccharum spontaneum), kuśa (Desmostachya bipinnata) and utkaṭa (unclear)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "kāśa, kuśa and utkaṭa (unclear)",
+      "new": "kāśa (Saccharum spontaneum), kuśa (Desmostachya bipinnata) and utkaṭa (unclear)",
+      "n": "93"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "काश, कुश और उत्कटों",
+     "problem": "Hindi lacks the plant names and the 'unclear' mark that English has for utkaṭa.",
+     "fix": "काश यानी काँस, कुश यानी कुशा घास और उत्कट, जिसका अर्थ यहाँ अस्पष्ट है, के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "काश, कुश और उत्कटों के साथ",
+      "new": "काश यानी काँस, कुश यानी कुशा घास और उत्कट, जिसका अर्थ यहाँ अस्पष्ट है, के साथ",
+      "n": "93"
+     }
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "94"
+     }
+    },
+    {
+     "field": "english",
+     "where": "karīra (bamboo shoot, or possibly another plant)",
+     "problem": "'possibly another plant' is vague; name the other candidate and the tag.",
+     "fix": "karīra (disputed: bamboo shoot, or the shrub Capparis decidua)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "karīra (bamboo shoot, or possibly another plant)",
+      "new": "karīra (disputed: bamboo shoot, or the shrub Capparis decidua)",
+      "n": "94"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्कन्ध",
+     "problem": "Bare स्कन्ध (shoulder/trunk) with no 'unclear' mark, unlike English.",
+     "fix": "स्कन्ध यानी तना, जिसका आशय यहाँ अस्पष्ट है, करीर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्कन्ध, करीर",
+      "new": "स्कन्ध यानी तना, जिसका आशय यहाँ अस्पष्ट है, करीर",
+      "n": "94"
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to end the passage",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: ends the passage",
+      "new": "GROUPING: appears to end the passage",
+      "n": "95"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with (these) boiled (ones)",
+     "problem": "'(these)' is supplied; the Sanskrit has only śṛtaiḥ.",
+     "fix": "A basti with boiled (ones) is beneficial",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with (these) boiled (ones)",
+      "new": "with boiled (ones)",
+      "n": "95"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "siddhaḥ",
+     "problem": "Glossary: siddha = 'cooked'. The alternative 'accomplished, effective' belongs in notes (already there), not in the gloss.",
+     "fix": "cooked",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "siddhaḥ",
+      "field": "gloss",
+      "value": "cooked",
+      "n": "95"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सिद्ध",
+     "problem": "Glossary: siddha = पकाया हुआ; bare सिद्ध reads as 'accomplished'.",
+     "fix": "बस्ति हितकारी है, पकाया हुआ, और",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बस्ति हितकारी है, सिद्ध, और",
+      "new": "बस्ति हितकारी है, पकाया हुआ, और",
+      "n": "95"
+     }
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "96 to 98 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "96 to 98 are one sentence",
+      "new": "96 to 98 appear to be one sentence",
+      "n": "96"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ati-mātrakaḥ",
+     "problem": "atimātraka is one word (excess); splitting ati/mātraka is not a real compound division.",
+     "fix": "w rūkṣa-tīkṣṇa-atimātrakaḥ; gloss dry; sharp; excessive in quantity",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "rūkṣa-tīkṣṇa-ati-mātrakaḥ",
+       "field": "gloss",
+       "value": "dry; sharp; excessive in quantity",
+       "n": "96"
+      },
+      {
+       "op": "word",
+       "match_w": "rūkṣa-tīkṣṇa-ati-mātrakaḥ",
+       "field": "w",
+       "value": "rūkṣa-tīkṣṇa-atimātrakaḥ",
+       "n": "96"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "97"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bastimaḻān",
+     "problem": "ळ is printed for ल; the word list uses l without a flag. Likely a print habit of this Marathi-printed edition; record once book-wide as orthographic normalisation (see glossary_suggestions).",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "98"
+     }
+    },
+    {
+     "field": "english",
+     "where": "basti (bladder)",
+     "problem": "Note says bladder is probable, not certain, but the translation states it.",
+     "fix": "basti (probably the bladder)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "basti (bladder)",
+      "new": "basti (probably the bladder)",
+      "n": "98"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वे ही",
+     "problem": "hi = 'indeed'; ही restricts ('those alone'). Glossary uses तो for taddhi (116).",
+     "fix": "वे तो इसकी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वे ही इसकी",
+      "new": "वे तो इसकी",
+      "n": "98"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "te",
+     "problem": "'te' is also n. nom. du. and would agree with vāta-pitte (97); the draft's note reads it that way while gram says m. nom. pl. (matching kṛntantaḥ). Owner to decide whether the agreement is loose or kṛntantaḥ is damaged.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "100 and 101 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "100 and 101 are one sentence",
+      "new": "100 and 101 appear to be one sentence",
+      "n": "100"
+     }
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "101"
+     }
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "102 and 103 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "102 and 103 are one sentence",
+      "new": "102 and 103 appear to be one sentence",
+      "n": "102"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अञ्जन",
+     "problem": "Bare अञ्जन (kind unclear in English) with no mark.",
+     "fix": "कर्दम यानी कीचड़ और अञ्जन, जिसका प्रकार अस्पष्ट है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कर्दम यानी कीचड़ और अञ्जन",
+      "new": "कर्दम यानी कीचड़ और अञ्जन, जिसका प्रकार अस्पष्ट है",
+      "n": "102"
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "103"
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्नेह",
+     "problem": "Bare स्नेह means affection in modern Hindi; English glosses it oil or fat.",
+     "fix": "स्नेह यानी तेल या वसा",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उबाला हुआ स्नेह",
+      "new": "उबाला हुआ स्नेह यानी तेल या वसा",
+      "n": "104"
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "105 to 108 appear to be one passage",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "105 to 108 are one passage",
+      "new": "105 to 108 appear to be one passage",
+      "n": "105"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "106"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "क्षीण करते हुए",
+     "problem": "English 'damaging' (kṣiṇvan) vs Hindi 'making emaciated'; align.",
+     "fix": "क्षति पहुँचाते हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षीण करते हुए",
+      "new": "क्षति पहुँचाते हुए",
+      "n": "106"
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "107"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जलने सहित",
+     "problem": "savidagdham is rendered 'with the burnt' in English but 'with burning' in Hindi; the parse (adjective of asram, or an adverb/noun) is undecided and the two languages should follow one reading. Left for the owner.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to end the passage",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: ends the passage",
+      "new": "GROUPING: appears to end the passage",
+      "n": "108"
+     }
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "109 and 110 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "109 and 110 are one sentence",
+      "new": "109 and 110 appear to be one sentence",
+      "n": "109"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ārdra-śāmalī-tantraiḥ",
+     "problem": "The flag proposes śālmalī but w keeps the printed śāmalī; rule 6: corrected form in words, printed form in src.",
+     "fix": "w ārdra-śālmalī-tantraiḥ",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "ārdra-śāmalī-tantraiḥ",
+       "field": "gloss",
+       "value": "fresh, moist; śālmalī (printed 'śāmalī'; silk-cotton tree, Bombax ceiba; probable); tantra (thread, fibre; sense unclear here)",
+       "n": "109"
+      },
+      {
+       "op": "word",
+       "match_w": "ārdra-śāmalī-tantraiḥ",
+       "field": "w",
+       "value": "ārdra-śālmalī-tantraiḥ",
+       "n": "109"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "तन्त्रों",
+     "problem": "Bare तन्त्र (system) with no 'unclear' mark, unlike English.",
+     "fix": "सेमल के तन्त्रों, जिनका अर्थ यहाँ अस्पष्ट है, से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सेमल के तन्त्रों से",
+      "new": "सेमल के तन्त्रों, जिनका अर्थ यहाँ अस्पष्ट है, से",
+      "n": "109"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "110"
+     }
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "111 and 112 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "111 and 112 are one sentence",
+      "new": "111 and 112 appear to be one sentence",
+      "n": "111"
+     }
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "112"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "karbudāre",
+     "problem": "Overconfident tag: karbudāra is commonly a white-flowered form of kovidāra; the same point was made in ch01 (u12 review). Tag disputed.",
+     "fix": "karbudāra (commonly a white-flowered form of kovidāra, Bauhinia variegata; disputed)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "karbudāre",
+      "field": "gloss",
+      "value": "karbudāra (commonly a white-flowered form of kovidāra, Bauhinia variegata; disputed)",
+      "n": "112"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "karbudāra = kovidāra (Bauhinia variegata, probable)",
+     "problem": "Same tag change in notes.",
+     "fix": "disputed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "karbudāra = kovidāra (Bauhinia variegata, probable)",
+      "new": "karbudāra = kovidāra (Bauhinia variegata, disputed)",
+      "n": "112"
+     }
+    },
+    {
+     "field": "english",
+     "where": "suvarcalā (identity disputed)",
+     "problem": "Hindi gives hulhul but English gives no candidate.",
+     "fix": "suvarcalā (identity disputed; perhaps Cleome viscosa) and upodaka (probably Malabar spinach, Basella alba), and in karbudāra (probably Bauhinia variegata; disputed)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "suvarcalā (identity disputed) and upodaka (probably Malabar spinach), and in karbudāra (probably Bauhinia variegata)",
+      "new": "suvarcalā (identity disputed; perhaps Cleome viscosa) and upodaka (probably Malabar spinach, Basella alba), and in karbudāra (probably Bauhinia variegata; disputed)",
+      "n": "112"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुवर्चला / पोय",
+     "problem": "Disputed tag should show in Hindi; standard spelling is पोई.",
+     "fix": "सुवर्चला यानी विवादित पहचान वाली, सम्भवतः हुलहुल और उपोदका यानी सम्भवतः पोई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुवर्चला यानी सम्भवतः हुलहुल और उपोदकी यानी सम्भवतः पोय",
+      "new": "सुवर्चला यानी विवादित पहचान वाली, सम्भवतः हुलहुल और उपोदका यानी सम्भवतः पोई",
+      "n": "112"
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "seka pralepanān",
+     "problem": "Simpler alternative to the flagged 'sekān': the space may be spurious (one compound sekapralepanān, 'pourings and coatings'); same sense.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative to the flag: the space in 'seka pralepanān' may be spurious, giving one compound sekapralepanān (pourings and coatings); the sense is the same.",
+      "n": "113"
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to explain",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: explains",
+      "new": "GROUPING: appears to explain",
+      "n": "116"
+     }
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुद्ध हुआ व्यक्ति",
+     "problem": "'व्यक्ति' is an added noun (viśuddhaḥ is an adjective; glossary: plain adjective in Hindi).",
+     "fix": "और शुद्ध होकर शर्करा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और शुद्ध हुआ व्यक्ति शर्करा",
+      "new": "और शुद्ध होकर शर्करा",
+      "n": "117"
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to continue",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues",
+      "new": "GROUPING: appears to continue",
+      "n": "119"
+     }
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "120 to 122 appear to be one sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "120 to 122 are one sentence",
+      "new": "120 to 122 appear to be one sentence",
+      "n": "120"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(stool)",
+     "problem": "Supplied noun; glossary form for unstated nouns is '(ones)'.",
+     "fix": "would pass raw, putrid (kuṇapa) (ones),",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "raw, putrid (kuṇapa) (stool),",
+       "new": "raw, putrid (kuṇapa) (ones),",
+       "n": "120"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "so '(stool)' is a supplied noun; the Hindi keeps only the adjectives",
+       "new": "so the English supplies only '(ones)'; the Hindi keeps only the adjectives",
+       "n": "120"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "upaveśyeta",
+     "problem": "Gram says passive causative ('would be made to sit/evacuate') but English and Hindi use an active 'would pass'. Owner to decide the rendering.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "121"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "नदारु",
+     "problem": "Bare नदारु with no 'unclear' mark, unlike English.",
+     "fix": "नदारु, जिसका अर्थ अस्पष्ट है, और वचा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नदारु और वचा",
+      "new": "नदारु, जिसका अर्थ अस्पष्ट है, और वचा",
+      "n": "121"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ativiṣā",
+     "problem": "Only name that has a standard identification but is left bare in the English translation.",
+     "fix": "ativiṣā (Aconitum heterophyllum), kuṣṭha (costus)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "ativiṣā, kuṣṭha (costus)",
+      "new": "ativiṣā (Aconitum heterophyllum), kuṣṭha (costus)",
+      "n": "121"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "nadāru",
+     "problem": "Second possible repair not recorded: 'nadāru' may be 'nata-dāru' (nata = tagara; ta/na confusion), giving kuṣṭha, nata, dāru, vacā. Not applied.",
+     "fix": "mention as alternative in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact.",
+     "fix": "GROUPING: appears to complete",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete",
+      "n": "122"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "atisāryate",
+     "problem": "'ati-' may mean 'excessively' (cf. ativiriktasya, 118); English 'made to flow out' drops it. Open; owner.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Unit 124 (next chunk) begins 'ṣaṇṇām eṣām dvisaṃsargāt triṃśad bhedāḥ' (of these six, thirty by pairing). 122 lists five (śakṛt, vāta, asṛk, pitta, kapha), so 'pakvam' here may be the sixth item of the same list. This is an inference only.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Possible link with the next chunk: unit 124 begins 'ṣaṇṇām eṣām dvisaṃsargāt triṃśad bhedāḥ' (of these six, thirty by pairing); unit 122 lists five items (śakṛt, vāta, asṛk, pitta, kapha), so 'pakvam' may be a sixth item of that list. This is an inference, not a decision.",
+      "n": "123"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 3 (units 83-123): no wrong split of the Sanskrit tokens, no invented content; main errors are (a) 88 'ādika' split where the print has ādi+kāśmarya, (b) 104 bare Hindi स्नेह, (c) 112 karbudāra tagged probable instead of disputed. Minor: 89 pakvā unflagged (paktvā likely), 109 w keeps printed śāmalī against rule 6, 85 non-form entry in text_flags, Hindi lacking the 'unclear' marks that English has (85, 93, 94, 102, 109, 121), added '(these)' in 95 and '(stool)' in 120, 'siddha' alternatives in gloss, GROUPING wording ('completes' etc.) across many units, missing botanical names. Identifications judged acceptable as hedged: balā, sthirā (disputed), karīra (disputed), suvarcalā (disputed), jiṅgiṇī, sarjarasa, kulmāṣa, ghana=musta. hatvā 'having destroyed' (97, 116) and sa-vidagdham (107) left for the owner. Units needing a human decision: 85, 93, 94, 98, 99, 107, 109, 120, 121, 123. 123 may link to 122 (six-item count in 124).",
+ "glossary_suggestions": [
+  "ळ (ḻ) in this Marathi-printed edition is the letter l (bastimaḻān, 97): normalise silently, record once.",
+  "vha for hva (yaṣṭyāvha 101/102, śatāvhā ch01): print habit of reversed conjunct; flag once per unit, correct form in w.",
+  "ādi as last member of a compound is 'ādi' (balā-sthirā-ādi), 'ādika' only where the print has -ādika-/-ādikān.",
+  "Hindi sneha = स्नेह यानी तेल या वसा (bare स्नेह = affection).",
+  "karbudāra: tag disputed everywhere (commonly white-flowered kovidāra).",
+  "siddha gloss stays 'cooked'; alternatives go in notes.",
+  "Hindi names: काश यानी काँस, कुश यानी कुशा घास, उपोदका यानी पोई, अतिविषा यानी अतीस, कुष्ठ यानी कूठ, वचा यानी बच, घन (musta) यानी नागरमोथा (probable).",
+  "hatvā: 'having destroyed' used for 97 and 116 and Vāta-ghna 'destroying'; keep consistent; note that purgative action (expelling) is the usual sense.",
+  "Unstated nouns: '(ones)' in English, not '(stool)', '(these)', '(them)'."
+ ]
+}
