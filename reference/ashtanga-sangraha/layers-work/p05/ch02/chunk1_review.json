@@ -1,0 +1,430 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "श्याम वर्ण का",
+     "problem": "Hindi adds the word वर्ण (colour) that is not in the Sanskrit (śyāmam only).",
+     "fix": "लालिमायुक्त और श्याम",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लालिमायुक्त और श्याम वर्ण का",
+      "new": "लालिमायुक्त और श्याम"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेष कल्पना से",
+     "problem": "कल्पना in modern Hindi means imagination/fancy, so kalpanā-viśeṣāt (a particular manner of preparation) misleads the reader.",
+     "fix": "फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर विशेष कल्पना से सब व्याधियों को",
+      "new": "फिर विशेष विधि से तैयार करने पर सब व्याधियों को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "koṣṭha (abdomen, bowel)",
+     "problem": "\"bowel\" is an interpretive narrowing of koṣṭha (lit. inner chamber, belly). Not a draft-only error; see glossary_suggestions.",
+     "fix": "koṣṭha (belly, abdominal interior)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarpiḥ (compound kṣīra-...-sarpiḥ)",
+     "problem": "As printed, sarpiḥ is n. nom./acc. sg., but the unit is translated as an instrumental list (\"with milk, honey ... ghee\"). Grammar label and translation disagree; the printed form needs a note: either sarpirbhiḥ is intended, or sarpiḥ is the stem inside one long compound ending in svādu-kvāthaiḥ.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "As printed, 'sarpiḥ' (n. nom./acc. sg.) cannot itself be instrumental, yet the list is translated with 'with'. Either an instrumental (sarpirbhiḥ) is intended, or the list is one long instrumental compound running on through 'svādu-kvāthaiḥ' (… -svarasa-sarpiḥ-svādu-kvāthaiḥ), the printed space being a spacing slip. Sense unchanged."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "svādukāthaiḥ -> svādukvāthaiḥ",
+     "problem": "Suggestion is plausible, but unit 10 also has a kātha-type form (pañcakolakkathair), so the edition may spell kvātha as kātha (काथ) throughout. The flag should say it may be a spelling variant, not only a scan slip. The sense (decoction) is not in doubt.",
+     "fix": "append note",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pañcakolakkathair",
+     "problem": "Companion remark to unit 9: the printed क्कथैः may be a doubled-ka slip for काथैः (the edition spelling seen in unit 9) rather than for क्वाथैः; both give \"decoctions\".",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "append_note",
+      "text": "The printed 'kkathair' may stand for kāthair (the spelling seen in unit 9, svādukāthaiḥ) or kvāthair; in either case the sense is 'decoctions'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Unit 12 is only the lead-in formula \"bhavati cātra\"; it has no content of its own. Suggest merging it into unit 13 (lead-in line of the first verse), as the draft brief treats such formulas.",
+     "fix": "merge 12 into 13",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sannipāta-jvara-staṃbha-pipāsā-dāha-pīḍitaḥ",
+     "problem": "The word gloss writes \"sannipāta-fever\" as one term, but the English translation takes sannipāta and fever as two members (as the note itself says). Make them agree.",
+     "fix": "afflicted by sannipāta, fever, stiffness, thirst and burning",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "sannipāta-jvara-staṃbha-pipāsā-dāha-pīḍitaḥ",
+      "field": "gloss",
+      "value": "afflicted by sannipāta, fever, stiffness, thirst and burning"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "liṃpedaṃtastrivṛtayā dvidhākṛtekṣugaṃḍikaṃ",
+     "problem": "Not flagged: gaṇḍikā is the usual feminine noun (ikṣugaṇḍikā); the printed -ṃ (n.) may be a slip for -āṃ (f. acc. sg.). The draft only notes the gender mismatch. Meaning unaffected. A possible-typo flag (gaṃḍikaṃ -> gaṃḍikāṃ) would be better than silently reading it as neuter.",
+     "fix": "add text_flag: src ... ikṣugaṃḍikaṃ, suggest ... ikṣugaṃḍikāṃ, why \"possible: f. gaṇḍikā is the usual word\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bhakṣayet \"caus. √bhakṣ\"",
+     "problem": "bhakṣ (10th class, bhakṣayati) is not a true causative; \"caus.\" is misleading.",
+     "fix": "3 sg. opt. √bhakṣ (10th cl.)",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "bhakṣayet",
+      "field": "gram",
+      "value": "3 sg. opt. √bhakṣ (10th cl.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaphavātarutāṃścānyān -> kaphavātarujaś cānyān (?)",
+     "problem": "The suggested rujaś (nom. pl.) does not fit: the objects of parimārṣṭi are accusative (gadān, anyān). The smallest correction that keeps the grammar is ta -> ja: kaphavātarujāṃś cānyān (ruja, acc. pl.; ज/त are easily confused in the scan). As printed (rutāṃś) the word means \"cries\", so the draft reading is marked doubtful, which is right. The English \"the rutas of Kapha and Vāta\" leaves an unglossed Sanskrit plural and no sign of doubt in the sentence.",
+     "fix": "suggest: kaphavātarujāṃś cānyān (?); English could read \"the pains (printed ruta, doubtful) of Kapha and Vāta\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तिल के तेल और त्रिवृत् के चूर्ण के दो भाग",
+     "problem": "The Hindi drops ca (\"and\") at the start of the unit (cāṣṭapalonmitau begins with ca); English has \"and\".",
+     "fix": "और तिल के तेल और त्रिवृत् के चूर्ण के दो भाग, आठ-आठ पल नापे हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तिल के तेल",
+      "new": "और तिल के तेल"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aṣṭa-pala-unmitau \"bahuvrīhi\"",
+     "problem": "aṣṭa-pala-unmita is \"measured by eight palas\" (instrumental tat-puruṣa on a dvigu), not a bahuvrīhi.",
+     "fix": "m. nom. du., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "aṣṭa-pala-unmitau",
+      "field": "gram",
+      "value": "m. nom. du., tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kuṣṭha-arśaḥ-kāmalā-...",
+     "problem": "Member form should be the stem arśas, not the sandhi form arśaḥ. The note calls the visarga \"the edition's spelling\", but visarga before k is ordinary retained sandhi (arśas + kāmalā -> arśaḥkāmalā); nothing is wrong in the print.",
+     "fix": "kuṣṭha-arśas-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "kuṣṭha-arśaḥ-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
+      "field": "w",
+      "value": "kuṣṭha-arśas-kāmalā-meha-gulma-udara-bhagaṃdaraṃ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The visarga in arśaḥ-kāmalā is the edition's spelling",
+     "problem": "Wrong explanation (see above): it is regular visarga sandhi before k.",
+     "fix": "replace note sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "notes",
+      "old": "The visarga in 'arśaḥ-kāmalā' is the edition's spelling inside the compound (arśas is the stem).",
+      "new": "The visarga in 'arśaḥkāmalā' is regular sandhi (arśas + kāmalā; visarga stays before k); the stem is arśas."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ग्रहणी और पाण्डु जैसे रोगों को",
+     "problem": "\"जैसे\" (like/such as) is an unsupported addition: the Sanskrit (as corrected) is grahaṇī-pāṇḍu-rogān, \"the grahaṇī and pāṇḍu ailments\". English has no \"such as\".",
+     "fix": "ग्रहणी और पाण्डु रोगों को नष्ट करता है",
+     "severity": "error",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाण्डु जैसे रोगों",
+      "new": "पाण्डु रोगों"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "grahaṇī-pāṇḍu \"n. acc. sg., dvandva (first part)\"",
+     "problem": "The member is only the first part of the compound grahaṇī-pāṇḍu-rogān (rogān m. acc. pl. is carried by the next token); \"n. acc. sg.\" is not its case.",
+     "fix": "dvandva, first part of grahaṇī-pāṇḍu-rogān",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "grahaṇī-pāṇḍu",
+      "field": "gram",
+      "value": "dvandva; first part of grahaṇī-pāṇḍu-rogān (m. acc. pl.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "text_flag_verdicts": {
+  "2 harīlakī->harītakī": "correct (printed हरीलकी; ल/त confusion)",
+  "5 vahu->bahu": "correct; but व for ब is likely the edition's orthography, not a one-off typo",
+  "9 svādukāthaiḥ->svādukvāthaiḥ": "sense correct; may be a spelling variant (kātha), see unit 10",
+  "10 pañcakolakkathair->pañcakolakvāthair": "correct sense (decoctions)",
+  "10 yoṣa->vyoṣa": "correct (unit 11 has व्योष)",
+  "11 kolkaramardka..->kolakaramardakakapittha": "plausible (dropped a)",
+  "11 kapūra->karpūra": "correct; kapūra is also a Hindi/Marathi spelling form",
+  "11 bhojyāṃny->bhojyāny": "correct (extra anusvāra)",
+  "14 madhuṭrījāta->madhutrijāta": "correct (ट्री for त्रि)",
+  "16 sarpirdhyāṃ->sarpirbhyāṃ": "correct",
+  "25 taccīṭhaṃ->taccūrṇaṃ": "plausible (चूर्ण/चीठ scan confusion; unit 8 has taccūrṇaṃ); keeping low confidence is right",
+  "26 halīmaka marocakaṃ->halīmakam arocakaṃ": "correct (word-division slip)",
+  "27 rutān": "suggestion needs change, see unit 27 issue",
+  "32 tulāṃnvitāna->tulānvitān": "correct",
+  "34 mūrcchā->mūrcchāṃ; arocake->arocakaṃ": "both plausible (ं/े scan confusion; list is accusative)",
+  "36 grahaṇīpāṃ durogāṃś->grahaṇīpāṇḍurogāṃś": "correct and well explained (ण्डु broken across the space)"
+ },
+ "text_integrity": "All 17 flags keep the printed token in src and the corrected form in words (per DRAFT_BRIEF rule 6). lines_deva of the input equals text/ch05.02-sandhi.md for all 05.02.1-37; text/ files untouched (older than the chunk outputs).",
+ "check_chunk_warnings": "Both low-ratio warnings (athāto -> atha+ataḥ, taccīṭhaṃ -> tat+cūrṇaṃ) are acceptable: the first is a normal sandhi split, the second is the deliberate correction.",
+ "glossary_suggestions": [
+  "kaṣāya: taste = 'astringent'; preparation = 'decoction' (units 4 vs 13); keep the two senses apart in the English.",
+  "koṣṭha: 'koṣṭha (belly, abdominal interior)', not 'abdomen, bowel'.",
+  "kṣāra: 'kṣāra (caustic ash-preparation)' rather than 'alkali' (modern chemical term).",
+  "kalpanā in Hindi: use 'तैयारी / विधि', never कल्पना (= imagination).",
+  "Hindi 'x जैसे रोग': do not add जैसे; render 'X और Y रोग'.",
+  "bhakṣayati is a 10th-class verb, not a causative; label '10th cl.'.",
+  "Visarga before k/p in compounds is regular sandhi; use the stem (arśas) in `w`."
+ ],
+ "summary": "37 units reviewed. 1 errors, 16 minor issues (patches given for 13). The only error is the Hindi addition जैसे in unit 36. Text flags are sound apart from unit 27 (suggested rujaś has the wrong case; ta->ja giving rujāṃś is neater) and unit 18 (a possible gaṇḍikā ending is not flagged). Units 20, 24, 25, 27, 36 are honestly marked low; the koṣṭha compound (4), first compound of 11 (parallel with -amlāni/-lavaṇāni supports 'sweet with'), arocake (34), visarga (35) and kaṣāya senses are acceptable. The Kalyāṇaka recipe is coherent: 'saḥ' (36) = the preparation of 28-33, named in 37. Regrouping: merge unit 12 (bhavati cātra) into 13; unit 19 is an orphan third line in 17-19 (drafter noted). Nothing else."
+}

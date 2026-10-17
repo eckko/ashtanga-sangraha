@@ -1,0 +1,91 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "त्रिवृत् का मूल निश्चय ही दो प्रकार का है: लालिमायुक्त और श्याम वर्ण का।",
+  "new": "त्रिवृत् का मूल निश्चय ही दो प्रकार का है: लालिमायुक्त और श्याम।",
+  "why": "reviewer (minor): Hindi adds the word वर्ण (colour) that is not in the Sanskrit (śyāmam only)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उन दोनों में लालिमायुक्त मूल कषाय और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष कल्पना से सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
+  "new": "उन दोनों में लालिमायुक्त मूल कषाय और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
+  "why": "reviewer (minor): कल्पना in modern Hindi means imagination/fancy, so kalpanā-viśeṣāt (a particular manner of preparation) misleads the reader."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The verb 'pibet' is carried over from unit 8 (the sentence continues); the compound kṣīra-...-sarpiḥ is read as a dvandva list of things mixed in. 'pitta-uttheṣu' lit. 'risen from Pitta', noun (roges) supplied. kvātha = decoction (GLOSSARY). GROUPING: unit 9 continues the sentence of unit 8; units 8, 9 and 10 each give a different Vāta/Pitta/Kapha use of the same powder.",
+  "new": "The verb 'pibet' is carried over from unit 8 (the sentence continues); the compound kṣīra-...-sarpiḥ is read as a dvandva list of things mixed in. 'pitta-uttheṣu' lit. 'risen from Pitta', noun (roges) supplied. kvātha = decoction (GLOSSARY). GROUPING: unit 9 continues the sentence of unit 8; units 8, 9 and 10 each give a different Vāta/Pitta/Kapha use of the same powder. As printed, 'sarpiḥ' (n. nom./acc. sg.) cannot itself be instrumental, yet the list is translated with 'with'. Either an instrumental (sarpirbhiḥ) is intended, or the list is one long instrumental compound running on through 'svādu-kvāthaiḥ' (… -svarasa-sarpiḥ-svādu-kvāthaiḥ), the printed space being a spacing slip. Sense unchanged.",
+  "why": "reviewer (minor): As printed, sarpiḥ is n. nom./acc. sg., but the unit is translated as an instrumental list (\"with milk, honey ... ghee\"). Grammar label and translation disagree; the printed form needs a note: either sarpirbhiḥ is intended, or sarpiḥ is the stem inside one long compound ending in svādu-kvāthaiḥ."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "'pibet' carried over from unit 8. Technical names kept: kṣāra (alkali), ariṣṭa, pīlu, triphalā (three fruits), pañcakola (five kola), vyoṣa (drug-group name). Which urine is not stated. The dvandva of 'kvāthaiḥ' may be read so that only the last two are decoctions; rendered as above. GROUPING: continues the sentence of units 8-9.",
+  "new": "'pibet' carried over from unit 8. Technical names kept: kṣāra (alkali), ariṣṭa, pīlu, triphalā (three fruits), pañcakola (five kola), vyoṣa (drug-group name). Which urine is not stated. The dvandva of 'kvāthaiḥ' may be read so that only the last two are decoctions; rendered as above. GROUPING: continues the sentence of units 8-9. The printed 'kkathair' may stand for kāthair (the spelling seen in unit 9, svādukāthaiḥ) or kvāthair; in either case the sense is 'decoctions'.",
+  "why": "reviewer (minor): Companion remark to unit 9: the printed क्कथैः may be a doubled-ka slip for काथैः (the edition spelling seen in unit 9) rather than for क्वाथैः; both give \"decoctions\"."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "sannipāta-jvara-staṃbha-pipāsā-dāha-pīḍitaḥ",
+  "old": "afflicted by sannipāta-fever, stiffness, thirst and burning",
+  "new": "afflicted by sannipāta, fever, stiffness, thirst and burning",
+  "why": "reviewer (minor): The word gloss writes \"sannipāta-fever\" as one term, but the English translation takes sannipāta and fever as two members (as the note itself says). Make them agree."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "bhakṣayet",
+  "old": "3 sg. opt. caus. √bhakṣ",
+  "new": "3 sg. opt. √bhakṣ (10th cl.)",
+  "why": "reviewer (minor): bhakṣ (10th class, bhakṣayati) is not a true causative; \"caus.\" is misleading."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "तिल के तेल और त्रिवृत् के चूर्ण के दो भाग, आठ-आठ पल नापे हुए,",
+  "new": "और तिल के तेल और त्रिवृत् के चूर्ण के दो भाग, आठ-आठ पल नापे हुए,",
+  "why": "reviewer (minor): The Hindi drops ca (\"and\") at the start of the unit (cāṣṭapalonmitau begins with ca); English has \"and\"."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "aṣṭa-pala-unmitau",
+  "old": "m. nom. du., bahuvrīhi",
+  "new": "m. nom. du., tat-puruṣa",
+  "why": "reviewer (minor): aṣṭa-pala-unmita is \"measured by eight palas\" (instrumental tat-puruṣa on a dvigu), not a bahuvrīhi."
+ },
+ {
+  "n": "35",
+  "field": "word.w",
+  "word": "kuṣṭha-arśaḥ-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
+  "old": "kuṣṭha-arśaḥ-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
+  "new": "kuṣṭha-arśas-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
+  "why": "reviewer (minor): Member form should be the stem arśas, not the sandhi form arśaḥ. The note calls the visarga \"the edition's spelling\", but visarga before k is ordinary retained sandhi (arśas + kāmalā -> arśaḥkāmalā); nothing is wrong in the print."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "Ailment names kept in Sanskrit; no modern equivalents given. The visarga in 'arśaḥ-kāmalā' is the edition's spelling inside the compound (arśas is the stem). udara 'belly'; meha lit. 'urinating'.",
+  "new": "Ailment names kept in Sanskrit; no modern equivalents given. The visarga in 'arśaḥkāmalā' is regular sandhi (arśas + kāmalā; visarga stays before k); the stem is arśas. udara 'belly'; meha lit. 'urinating'.",
+  "why": "reviewer (minor): Wrong explanation (see above): it is regular visarga sandhi before k."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "ग्रहणी और पाण्डु जैसे रोगों को नष्ट करता है, और वह पुंसवन भी है।",
+  "new": "ग्रहणी और पाण्डु रोगों को नष्ट करता है, और वह पुंसवन भी है।",
+  "why": "reviewer (error): \"जैसे\" (like/such as) is an unsupported addition: the Sanskrit (as corrected) is grahaṇī-pāṇḍu-rogān, \"the grahaṇī and pāṇḍu ailments\". English has no \"such as\"."
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "grahaṇī-pāṇḍu",
+  "old": "n. acc. sg., dvandva (first part)",
+  "new": "dvandva; first part of grahaṇī-pāṇḍu-rogān (m. acc. pl.)",
+  "why": "reviewer (minor): The member is only the first part of the compound grahaṇī-pāṇḍu-rogān (rogān m. acc. pl. is carried by the next token); \"n. acc. sg.\" is not its case."
+ }
+]
