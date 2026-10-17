@@ -101,8 +101,8 @@ AUTHORED["52"] = {
         mcq("discriminate", 3, "Which split of कायमनोभेदात् is right?",
             ("काय + मनः + भेदात्", "अः before a voiced consonant (भ) becomes ओ: मनः + भेदात् gives मनोभेदात्."),
             [("कायम् + नोभेदात्", "नोभेदात् is not a word."),
-             ("काय + मना + भेदात्", "The base is मनस्, genitive मनसः; मना is not this form."),
-             ("कायमन + उभेदात्", "उभेदात् is not a word.")],
+             ("काय + मना + भेदात्", "मना is not the word on the card; the card has मनः, and मनः + भेदात् gives मनोभेदात्."),
+             ("कायमन् + ओ + भेदात्", "The ओ is the changed visarga of मनः, not a word of its own.")],
             "कायमनोभेदात् = काय + मनः + भेदात्, from the difference of body and mind.",
             "अः + voiced consonant → ओ."),
         multi("apply", 4, "Which are said to be twofold in verse 52?",
@@ -190,11 +190,11 @@ AUTHORED["54"] = {
     "rule": ("The disease is to be examined by cause (निदान), early sign (प्राग्रूप), characteristic sign "
              "(लक्षण), उपशय and आप्ति. Locality (देश) is twofold, by the difference of land (भूमि) and body (देह)."),
     "limits": ("The verb of line 1 is carried over from the previous unit (परीक्षेत). उपशय and आप्ति are not "
-               "defined here. The verse does not say what the two kinds of locality are called."),
+               "defined here. The verse names the two kinds of locality (land and body) but does not describe either."),
     "explain_hi": ("पहली पंक्ति में रोग की परीक्षा के पाँच साधन हैं: निदान, प्राग्रूप, लक्षण, उपशय और आप्ति। "
                    "क्रिया इस इकाई में नहीं है, वह पिछले श्लोक के ‘परीक्षेत’ से आती है। उपशय और आप्ति की "
                    "परिभाषा यहाँ नहीं दी गई। दूसरी पंक्ति कहती है कि देश दो प्रकार का है, भूमि और देह के भेद से। "
-                   "दोनों भेदों के नाम यहाँ नहीं हैं।"),
+                   "दोनों भेदों (भूमि और देह) का कोई वर्णन यहाँ नहीं है।"),
     "hook": "निदान · प्राग्रूप · लक्षण · उपशय · आप्ति; देश = भूमि और देह।",
     "core": False,
     "questions": [
@@ -252,8 +252,8 @@ AUTHORED["55"] = {
                "here (the card reads it as the doṣas, as a guess)."),
     "explain_hi": ("यह श्लोक भूमि के देश को तीन प्रकार का बताता है। जांगल में वात की भूयिष्ठता (प्रधानता) है, "
                    "अनूप में कफ उल्बण (अधिक) है, और साधारण में मल सम हैं। ‘मल’ से यहाँ क्या मतलब है, "
-                   "यह श्लोक नहीं बताता; कार्ड इसे दोष मानता है, पर यह अनुमान है। भूमि की बनावट (सूखी, गीली) "
-                   "का कोई वर्णन इस श्लोक में नहीं है।"),
+                   "यह श्लोक नहीं बताता; कार्ड इसे दोष मानता है, पर यह अनुमान है। भूमि की बनावट का कोई वर्णन "
+                   "इस श्लोक में नहीं है।"),
     "hook": "जांगल: वात · अनूप: कफ · साधारण: मल सम।",
     "core": True,
     "questions": [
@@ -337,7 +337,7 @@ AUTHORED["56"] = {
             ("समासात् + औषधम्", "A final त् becomes द् before a vowel: समासात् + औषधम् gives समासादौषधम्."),
             [("समास + औषधम्", "अ + औ would give औ: समासौषधम्, with no द."),
              ("समासा + औषधम्", "आ + औ would give औ: समासौषधम्, with no द."),
-             ("समासात् + ओषधम्", "The word is औषधम् (medicine), and ओषधम् would not match the card.")],
+             ("समासात् + ओषधम्", "समासात् + ओषधम् would join as समासादोषधम् (ओ); the verse has औ, so the second word is औषधम्.")],
             "समासादौषधम् = समासात् + औषधम्: in brief, medicine.",
             "Final त् before a vowel → द्."),
         multi("apply", 4, "Which statements does verse 56 make?",
@@ -374,7 +374,7 @@ AUTHORED["57"] = {
     "hook": "बस्ति · विरेक · वमन; तथा तैल · घृत · मधु।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "Which remedy does verse 57 name first among the supreme remedies?",
+        mcq("pretest", 0, "Which remedy does verse 57 name first?",
             ("Basti", "बस्तिर्विरेको वमनम्: basti comes first."),
             [("Vamana", "Emesis comes third in the list."),
              ("Ghee", "Ghee is the fifth item."),
@@ -399,7 +399,7 @@ AUTHORED["57"] = {
              ("बस्तिः + विरेक + ओवमनम्", "ओवमनम् is not a word; the ओ is the changed visarga of विरेकः.")],
             "The visarga changes before a voiced consonant: इः → इर्, अः → ओ.",
             "बस्तिः → बस्तिर्; विरेकः → विरेको."),
-        multi("apply", 4, "Which are named as supreme remedies in verse 57?",
+        multi("apply", 4, "Which are named as remedies in verse 57?",
               [("Basti", "Right: बस्तिः."), ("Emesis (vamana)", "Right: वमनम्."),
                ("Honey", "Right: मधु."),
                ("Salt", "Not named in this verse."),
@@ -408,9 +408,9 @@ AUTHORED["57"] = {
               "The verse names six remedies: three procedures, and oil, ghee, honey.",
               "बस्ति, विरेक, वमन, तैल, घृत, मधु."),
         T(mcq("transfer", 5, "By the pattern of शरीरजानाम्, what does मनोजानाम् mean?",
-              ("Of those born in the mind", "-ज means born; the ending -आम् is genitive plural: of those born."),
+              ("Of those born in the mind", "-ज means born; -जानाम् carries the genitive plural ending -नाम्: of those born."),
               [("Of those born in the body", "That is शरीरजानाम्; here the first member is मनः."),
-               ("By those born in the mind", "The ending -आम् is genitive (of), not instrumental (by)."),
+               ("By those born in the mind", "The ending -नाम् is genitive (of), not instrumental (by)."),
                ("Of the mind and the born", "ज is not a separate noun here; it ends the compound.")],
               "शरीर-जानाम् = of those born in the body, so मनस्-जानाम् = of those born in the mind.",
               "X-ज = born in/of X; genitive plural -जानाम् = of those born."),
@@ -430,7 +430,7 @@ AUTHORED["58"] = {
                    "समास को ‘धी, धैर्य और आत्मा आदि का ज्ञान’ भी पढ़ा जा सकता है; भाव लगभग वही है। दूसरी "
                    "पंक्ति में आगे का विषय आता है: ‘वक्ष्यते’ (कहा जाएगा) अध्यायों का संग्रह। यह इस तन्त्र "
                    "की सूची की भूमिका है; सूची अगली इकाई से शुरू होती है। ‘वक्ष्यतेऽध्याय’ में ए + अ का ऽ चिह्न है।"),
-    "hook": "मन के दोषों की औषध: धी, धैर्य, आत्मज्ञान · अब अध्यायों का संग्रह।",
+    "hook": "मन के दोषों की औषध: धी, धैर्य, आत्मा आदि का ज्ञान · अब अध्यायों का संग्रह।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Verse 58 gives the supreme remedy for which doṣas?",
@@ -452,14 +452,14 @@ AUTHORED["58"] = {
                 "First the remedy, then the announcement of the chapter list.",
                 role="extend"),
           "The verse closes the section on doṣas and remedies and announces the chapter list."),
-        mcq("discriminate", 3, "Which English line for verse 58 is right?",
-            ("Intellect, steadiness and knowledge of the self and so on are the supreme remedy for the doṣas of the mind.",
-             "This follows धीधैर्यात्मादिविज्ञानं मनोदोषौषधं परम्."),
-            [("Intellect, steadiness and knowledge of the self and so on are the supreme remedy for the doṣas of the body.", "It is मनोदोष, the mind's doṣas."),
-             ("Intellect and steadiness are the least remedy for the doṣas of the mind.", "परम् means supreme, not least."),
-             ("Intellect, steadiness and knowledge of the self are the cause of the doṣas of the mind.", "औषधम् means remedy, not cause.")],
-            "मनः-दोष-औषधम् = a remedy for the doṣas of the mind; परम् = supreme.",
-            "Remedy of the mind's doṣas: धी, धैर्य, आत्मादिविज्ञान."),
+        mcq("discriminate", 3, "Which English line for the second half of verse 58 is right?",
+            ("Next, the summary of the chapters of this treatise will be stated.",
+             "This follows तन्त्रस्यास्य परं चातो वक्ष्यतेऽध्यायसंग्रहः."),
+            [("The summary of the chapters of this treatise has been stated above.", "वक्ष्यते is future (will be stated), not past."),
+             ("Next, the cure of every disease in this treatise will be stated.", "अध्यायसंग्रह is a summary of chapters, not a cure."),
+             ("Next, the summary of the doṣas of this treatise will be stated.", "What is summarised is the chapters (अध्याय), not the doṣas.")],
+            "तन्त्रस्य अस्य = of this treatise; अतः = next; वक्ष्यते = will be stated; अध्यायसंग्रहः = summary of chapters.",
+            "वक्ष्यते = will be stated; अध्यायसंग्रह = summary of the chapters."),
         mcq("apply", 4, "What does वक्ष्यते tell us about the chapter summary?",
             ("It will be stated later", "वक्ष्यते is a future passive: it will be told."),
             [("It was already stated above", "A past statement would use a past form."),
@@ -499,7 +499,7 @@ AUTHORED["59"] = {
             [("A description of a remedy", "No remedy is described."),
              ("A definition of disease", "Disease is defined in verse 51, not here."),
              ("A rule of conduct", "No instruction is given.")],
-            "The verse lists chapter titles of the first section; it is translated as a list.",
+            "The verse lists chapter titles; it has no verb, so it is translated as a list.",
             "Verse 59: a list of chapter titles, no verb."),
         order(1, "Put these clear words of verse 59 in their printed order.",
               ["दिन", "ऋतु", "द्रव", "अन्न"],
@@ -517,8 +517,8 @@ AUTHORED["59"] = {
              ("दिन + रतु", "रतु is not a word of the card.")],
             "दिन (day) + ऋतु (season) join to दिनर्तु.",
             "अ + ऋ → अर्."),
-        multi("apply", 4, "Which of these words are printed in verse 59?",
-              [("दिन", "Right: दिनर्तु begins with दिन."), ("ऋतु", "Right: दिनर्तु ends with ऋतु."),
+        multi("apply", 4, "Which of these words occur in verse 59?",
+              [("दिन", "Right: दिनर्तु begins with दिन."), ("ऋतु", "Right: दिनर्तु is दिन + ऋतु joined."),
                ("द्रव", "Right: line 2 begins द्रवान्न."),
                ("बस्ति", "Not in this verse; it is in verse 57."),
                ("रस", "Not in this verse; it is in verse 60.")],
@@ -528,7 +528,7 @@ AUTHORED["59"] = {
         T(mcq("transfer", 5, "How is वारि + अत्र written when joined?",
               ("वार्यत्र", "इ + अ gives य् + अ, as in व्याधि + असम्भवाः → व्याध्यसम्भवाः."),
               [("वारित्र", "इ + अ does not simply drop the अ."),
-               ("वारेत्र", "इ + अ would give ए only if the second vowel were इ-like, not अ."),
+               ("वारेत्र", "इ + अ gives य् + अ; ए would come from अ + इ, the other order."),
                ("वारिअत्र", "Vowels must join; they are not left apart.")],
               "A short इ before a different vowel becomes य्.",
               "इ + dissimilar vowel → य् + vowel."),
@@ -542,11 +542,11 @@ AUTHORED["60"] = {
     "question": "Which parts of the title list in verse 60 are clear?",
     "rule": ("Verse 60 continues a list of chapter titles with no verb. Clear words: मात्रा (measure), "
              "अशित (what is eaten), औषध, ज्ञान, महाकषाय (great decoctions), विविध (various), रस (taste)."),
-    "limits": ("Low confidence. The printed शुध्यादि is probably a misspelling of शुद्ध्यादि; how श्रेष्ठ and "
+    "limits": ("Low confidence. The printed शुध्यादि is read as purification (शुद्धि-आदि); the spelling is uncertain. How श्रेष्ठ and "
                "संग्रह group into titles is unclear. No question here rests on those items."),
     "explain_hi": ("यह भी अध्यायों के नामों की सूची है, बिना क्रिया के। साफ़ शब्द हैं: मात्रा, अशित (खाया हुआ), "
                    "औषध, ज्ञान, महाकषाय, विविध द्रव्य और रस। ‘श्रेष्ठ’ और ‘संग्रह’ किस नाम में जुड़ते हैं, यह "
-                   "संस्कृत से अकेले स्पष्ट नहीं है, और ‘शुध्यादि’ संभवतः ‘शुद्ध्यादि’ की वर्तनी-चूक है। इसलिए "
+                   "संस्कृत से अकेले स्पष्ट नहीं है, और ‘शुध्यादि’ को शुद्धि-आदि (शोधन) पढ़ा गया है; उसकी वर्तनी अनिश्चित है। इसलिए "
                    "प्रश्न केवल स्पष्ट शब्दों पर हैं।"),
     "hook": "सूची जारी: मात्रा, औषधज्ञान, महाकषाय, रस के भेद।",
     "core": False,
@@ -571,7 +571,7 @@ AUTHORED["60"] = {
           "Title words of the list are matched only where the reading is certain."),
         mcq("discriminate", 3, "How is अशित + औषध written when joined?",
             ("अशितौषध", "अ + औ gives औ: अशित + औषध is written अशितौषध."),
-            [("अशितोषध", "अ + ओ would give ओ; the second word begins with औ, not ओ."),
+            [("अशितोषध", "अशितोषध would need अ + उ → ओ; the second word begins with औ (अ + औ → औ), so the join is अशितौषध."),
              ("अशितैषध", "अ + ए would give ऐ; the second word begins with औ."),
              ("अशिताषध", "अ + अ would give आ; औषध begins with औ.")],
             "मात्राशितौषधज्ञान contains मात्रा + अशित + औषध + ज्ञान.",
@@ -600,13 +600,12 @@ AUTHORED["61"] = {
     "title": "दोषादिविज्ञान",
     "question": "Which parts of the title list in verse 61 are clear?",
     "rule": ("Verse 61 continues the list of chapter titles. Clear words: दोषादिविज्ञान (knowledge of the doṣas "
-             "and so on), रोग, भेषज, चिकित्सा, स्नेह (oiling), स्वेद (sweating), आस्थापन and नावन."),
-    "limits": ("Low confidence. The printed तद्वेद is probably तद्भेद; शुध्या is probably a misspelling of शुद्धि. "
+             "and so on), रोग, भेषज, चिकित्सा, स्नेह (oiling), स्वेद (sweating) and नावन."),
+    "limits": ("Low confidence. The printed तद्वेद is probably तद्भेद; the printed शुध्या is probably शुद्धि with आस्थापन fused (शुध्यास्थापन); doubtful. "
                "Procedures are only named, with literal glosses. No question rests on the doubtful words."),
-    "explain_hi": ("सूची आगे बढ़ती है। साफ़ शब्द हैं: दोषादिविज्ञान, रोग, भेषज, चिकित्सा, स्नेह, स्वेद, आस्थापन "
-                   "और नावन। ‘तद्वेद’ छपा है, सम्भवतः ‘तद्भेद’ (उनके भेद); ‘शुध्या’ संभवतः ‘शुद्धि’ की वर्तनी-चूक "
-                   "है। इन दो शब्दों पर कोई प्रश्न नहीं है। प्रक्रियाओं के नाम केवल शब्दार्थ के साथ रखे गए हैं।"),
-    "hook": "सूची जारी: चिकित्सा, स्नेह, स्वेद, आस्थापन, नावन।",
+    "explain_hi": ("सूची आगे बढ़ती है। साफ़ शब्द हैं: दोषादिविज्ञान, रोग, भेषज, चिकित्सा, स्नेह, स्वेद "
+                   "और नावन। ‘तद्वेद’ छपा है, सम्भवतः ‘तद्भेद’ (उनके भेद); ‘शुध्यास्थापन’ में ‘शुध्या’ संभवतः शुद्धि + आस्थापन का मेल है, संदिग्ध। इन दो शब्दों पर कोई प्रश्न नहीं है। प्रक्रियाओं के नाम केवल शब्दार्थ के साथ रखे गए हैं।"),
+    "hook": "सूची जारी: चिकित्सा, स्नेह, स्वेद, नावन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which word begins line 2 of verse 61?",
@@ -615,31 +614,30 @@ AUTHORED["61"] = {
              ("दोष", "दोषादि begins line 1."),
              ("भेषज", "भेषजं ends line 1.")],
             "चिकित्सा is the first title word of line 2.",
-            "Line 2: चिकित्सा, स्नेह, स्वेद …, आस्थापन, नावन."),
+            "Line 2: चिकित्सा, स्नेह, स्वेद …, नावन."),
         order(1, "Put these clear words of line 2 in their printed order.",
-              ["चिकित्सा", "स्नेह", "स्वेद", "आस्थापन", "नावन"],
-              "The doubtful word शुध्या sits between स्वेद and आस्थापन and is left out.",
-              "चिकित्सा → स्नेह → स्वेद → (damaged word) → आस्थापन → नावन."),
+              ["चिकित्सा", "स्नेह", "स्वेद", "नावन"],
+              "The doubtful string शुध्यास्थापन sits between स्वेद and नावन and is left out.",
+              "चिकित्सा → स्नेह → स्वेद → (doubtful string) → नावन."),
         T(match(2, "Match each clear word of verse 61 to its meaning.",
-                [["स्नेह", "oiling"], ["स्वेद", "sweating"], ["चिकित्सा", "treatment"],
-                 ["रोग", "disease"], ["भेषज", "medicine"]],
-                "These are glosses of the card; the verse names them only.",
-                "स्नेह = oiling; स्वेद = sweating; चिकित्सा = treatment; रोग = disease; भेषज = medicine.",
+                [["स्नेह", "oiling"], ["स्वेद", "sweating"], ["चिकित्सा", "treatment"]],
+                "These are glosses of the card, all from line 2; the verse names them only.",
+                "स्नेह = oiling; स्वेद = sweating; चिकित्सा = treatment.",
                 role="extend"),
           "Procedure names are kept with a literal gloss; the verse gives no detail."),
-        mcq("discriminate", 3, "What does दोषादिविज्ञान mean?",
-            ("Knowledge of the doṣas and so on", "आदि means and so on, so the title covers the doṣas and more."),
-            [("Knowledge of the doṣas only", "आदि adds more than the doṣas."),
-             ("Knowledge of disease and so on", "The first member is दोष, not रोग."),
-             ("Ignorance of the doṣas", "विज्ञान is knowledge, not ignorance.")],
-            "दोष + आदि + विज्ञान = knowledge of the doṣas and so on.",
-            "X-आदि = X and so on."),
+        mcq("discriminate", 3, "What does स्नेहस्वेद mean?",
+            ("Oiling and sweating", "स्नेह is oiling and स्वेद is sweating; two nouns joined as a pair."),
+            [("Oiling only", "स्वेद, sweating, is the second member."),
+             ("Sweating and treatment", "The first member is स्नेह, not चिकित्सा."),
+             ("Dryness and cold", "स्नेह is oiling, not dryness.")],
+            "स्नेह (oiling) + स्वेद (sweating) are two procedure names in line 2.",
+            "स्नेहस्वेद = oiling and sweating."),
         multi("apply", 4, "Which of these words are printed in verse 61?",
               [("स्नेह", "Right: line 2."), ("स्वेद", "Right: line 2."), ("नावन", "Right: ends line 2."),
                ("वमन", "Not in this verse; it is in verse 57."),
                ("धूम", "Not in this verse; it is in verse 62.")],
               [0, 1, 2],
-              "Clear words of line 2: चिकित्सा, स्नेह, स्वेद, आस्थापन, नावन.",
+              "Clear words of line 2: चिकित्सा, स्नेह, स्वेद, नावन.",
               "Check each word against the printed lines."),
         T(mcq("transfer", 5, "By the pattern of चिकित्सास्नेहस्वेद…, what does तैलघृतमधु mean?",
               ("Oil, ghee and honey", "A list of nouns with no ca is read as a dvandva: all items together."),
@@ -654,7 +652,7 @@ AUTHORED["61"] = {
 
 # ---------------------------------------------------------------- unit 62
 AUTHORED["62"] = {
-    "title": "धूमगण्डूषसेक",
+    "title": "धूमगण्डूष",
     "question": "Which parts of the title list in verse 62 are clear?",
     "rule": ("Verse 62 continues the list of chapter titles. Clear words: धूम (smoke), गण्डूष (gargling), यन्त्र, "
              "जलौकस् (leeches), सिराविधि, शल्यविधि, and operations with blade, caustic and fire."),
@@ -678,12 +676,12 @@ AUTHORED["62"] = {
               "Line 2 is clear: veins, then dart or foreign body, then operations with blade, caustic and fire.",
               "सिराविधि → शल्यविधि → शस्त्र-क्षार-अग्नि-कर्म."),
         T(match(2, "Match each clear word of verse 62 to its meaning.",
-                [["धूम", "smoke"], ["गण्डूष", "gargling"], ["यन्त्र", "instruments"],
-                 ["जलौकस्", "leeches"], ["शल्य", "dart, foreign body"]],
-                "These are firm words; the damaged item of line 1 is not used.",
-                "धूम = smoke; गण्डूष = gargling; यन्त्र = instruments; जलौकस् = leeches; शल्य = dart or foreign body.",
+                [["सिरा", "vein"], ["शल्य", "dart or foreign body"], ["शस्त्र", "blade"],
+                 ["क्षार", "caustic"], ["अग्नि", "fire"]],
+                "These are words of line 2, which is clear; the damaged line 1 is not used.",
+                "सिरा = vein; शल्य = dart or foreign body; शस्त्र = blade; क्षार = caustic; अग्नि = fire.",
                 role="extend"),
-          "Only firm words of a damaged line are used for questions."),
+          "Questions use the clear line 2, not the damaged line 1."),
         mcq("discriminate", 3, "Which three means does शस्त्रक्षाराग्निकर्मकाः name for operations?",
             ("Blade, caustic and fire", "शस्त्र-क्षार-अग्नि: blade, caustic and fire."),
             [("Blade, caustic and water", "The third member is अग्नि, fire."),
@@ -691,13 +689,13 @@ AUTHORED["62"] = {
              ("Blade, leeches and fire", "Leeches are जलौकस्, in line 1; the middle member is क्षार.")],
             "शस्त्र (blade), क्षार (caustic), अग्नि (fire) + कर्म (operation).",
             "शस्त्र-क्षार-अग्नि कर्म = operations with blade, caustic and fire."),
-        multi("apply", 4, "Which of these words are printed and firm in verse 62?",
-              [("धूम", "Right: begins line 1."), ("गण्डूष", "Right: line 1."),
-               ("जलौकस्", "Right: ends line 1."),
+        multi("apply", 4, "Which of these words are printed in verse 62?",
+              [("शस्त्र", "Right: शस्त्रक्षाराग्निकर्मकाः in line 2."), ("क्षार", "Right: line 2."),
+               ("अग्नि", "Right: line 2."),
                ("नावन", "Not in this verse; it is in verse 61."),
                ("बस्ति", "Not in this verse; it is in verse 57.")],
               [0, 1, 2],
-              "Firm words of line 1: धूम, गण्डूष, सेक, यन्त्र, जलौकस्.",
+              "Line 2 names शस्त्र, क्षार and अग्नि as the means of the operations.",
               "Check each word against the printed lines."),
         T(mcq("transfer", 5, "By the pattern of सिराविधिः, what does दन्तविधिः mean?",
               ("The procedure on the teeth", "X-विधिः is a procedure on X, as सिराविधिः is on the veins."),
@@ -712,35 +710,35 @@ AUTHORED["62"] = {
 
 # ---------------------------------------------------------------- unit 63
 AUTHORED["63"] = {
-    "title": "चत्वारिंशदिमेऽध्याया",
+    "title": "चत्वारिंशदिमेऽध्यायाः",
     "question": "What number of chapters does verse 63 open with, and which Śārīra titles can be read?",
     "rule": ("The verse opens with forty chapters and speaks of the Sūtra and the Śārīra; it then lists titles: "
-             "for a son (पुत्रार्थ), descent of the embryo (गर्भावक्रान्ति), conduct (चर्या), mishap (व्यापद्)."),
+             "for a son (पुत्रार्थ), descent of the embryo (गर्भावक्रान्ति), conduct (चर्या); the title after that is unclear."),
     "limits": ("The sentence runs on into the next unit. Whether सूत्रं शारीरमुच्यते is read one way or another "
-               "is ambiguous; no question rests on it. The last title (-शरीरजाः) is unclear."),
+               "is ambiguous; no question rests on it. The last title is printed fused, व्यापच्छरीरजाः (व्यापत् + शरीरजाः, त् + श → च्छ); the split is doubtful, so it is not used."),
     "explain_hi": ("श्लोक की शुरुआत ‘चत्वारिंशत्’ (चालीस) अध्यायों से होती है, फिर सूत्र और शारीर की बात आती है; "
                    "‘सूत्रं शारीरमुच्यते’ को दो तरह पढ़ा जा सकता है, इसलिए उस पर प्रश्न नहीं है। दूसरी पंक्ति में नाम हैं: "
-                   "पुत्रार्थ, गर्भावक्रान्ति, चर्या, व्यापद् और अन्त में ‘शरीरजाः’, जो अस्पष्ट है। यह सूची अगली "
+                   "पुत्रार्थ, गर्भावक्रान्ति, चर्या और अन्त में ‘व्यापच्छरीरजाः’, जो जुड़ा हुआ और अस्पष्ट है। यह सूची अगली "
                    "इकाई तक चलती है।"),
-    "hook": "चालीस अध्याय · पुत्रार्थ, गर्भावक्रान्ति, चर्या, व्यापद्।",
+    "hook": "चालीस अध्याय · पुत्रार्थ, गर्भावक्रान्ति, चर्या।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which number of chapters does verse 63 open with?",
             ("Forty", "चत्वारिंशत् means forty."),
             [("Fourteen", "चतुर्दश would be fourteen."),
-             ("Twelve", "द्वादश is twelve, and it is in a later unit."),
+             ("Twelve", "द्वादश is twelve; the verse says forty (चत्वारिंशत्)."),
              ("Sixteen", "षोडश would be sixteen.")],
             "चत्वारिंशदिमेऽध्यायाः = these forty chapters.",
             "चत्वारिंशत् = forty."),
         order(1, "Put these clear titles of line 2 in the verse's order.",
-              ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या", "व्यापद्"],
-              "The last title, -शरीरजाः, is unclear and is left out.",
-              "पुत्रार्थ → गर्भावक्रान्ति → चर्या → व्यापद्."),
+              ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या"],
+              "The fused last title, व्यापच्छरीरजाः, is unclear and is left out.",
+              "पुत्रार्थ → गर्भावक्रान्ति → चर्या."),
         T(match(2, "Match each word of verse 63 to its meaning.",
                 [["चत्वारिंशत्", "forty"], ["पुत्रार्थ", "for a son"], ["अवक्रान्ति", "descent"],
-                 ["चर्या", "conduct"], ["व्यापद्", "mishap"]],
+                 ["चर्या", "conduct"]],
                 "These are the glosses of the card.",
-                "चत्वारिंशत् = forty; पुत्रार्थ = for a son; अवक्रान्ति = descent; चर्या = conduct; व्यापद् = mishap.",
+                "चत्वारिंशत् = forty; पुत्रार्थ = for a son; अवक्रान्ति = descent; चर्या = conduct.",
                 role="extend"),
           "Title words are glossed literally; the unit gives no further detail."),
         mcq("discriminate", 3, "What does गर्भावक्रान्ति mean?",
@@ -756,16 +754,16 @@ AUTHORED["63"] = {
                ("धूम", "Not in this verse; it is in verse 62."),
                ("दिन", "Not in this verse; it is in verse 59.")],
               [0, 1, 2],
-              "Clear title words of line 2: पुत्रार्थ, गर्भावक्रान्ति, चर्या, व्यापद्.",
+              "Clear title words of line 2: पुत्रार्थ, गर्भावक्रान्ति, चर्या.",
               "Check each word against the printed lines."),
-        T(mcq("transfer", 5, "How is गृहे + अत्र written when joined?",
-              ("गृहेऽत्र", "ए + अ stays ए and the lost अ is marked by ऽ, as in चत्वारिंशदिमेऽध्यायाः."),
-              [("गृहयत्र", "ए before अ does not become अय्."),
-               ("गृहात्र", "ए + अ does not give आ."),
-               ("गृहत्र", "Both vowels are not simply dropped.")],
-              "The rule that gives इमेऽध्यायाः gives गृहेऽत्र.",
-              "ए + अ → ए, with ऽ."),
-          "Final ए before short अ stays ए, and the अ is written ऽ."),
+        T(mcq("transfer", 5, "How is तत् + च written when joined?",
+              ("तच्च", "A final त् becomes च् before च, as त् + श gives च्छ in व्यापच्छरीरजाः."),
+              [("तत्च", "त् is not left unchanged before the palatal च."),
+               ("तद्च", "द् appears before a voiced sound, and च is not voiced."),
+               ("तश्च", "त् does not turn into श् before च.")],
+              "The final त् takes the palatal sound of the following च.",
+              "त् + च → च्च."),
+          "Final त् becomes च् before च (and च्छ before श); use it for any new pair."),
     ],
 }
 
@@ -793,9 +791,9 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पहली पंक्ति", "items": ["सम्यग्योगः", "विज्ञेयः", "रोगारोग्यैककारणम्"]},
             {"label": "दूसरी पंक्ति", "items": ["रोगः", "दोषवैषम्यम्", "दोषसाम्यम्", "अरोगता"]}]},
-        "sandhi": "आ + ए → ऐ: आरोग्य + एक → आरोग्यैक · अं का म्: दोषसाम्यम् + अरोगता → दोषसाम्यमरोगता।",
+        "sandhi": "आ + ए → ऐ: आरोग्य + एक → आरोग्यैक · म् + स्वर: दोषसाम्यम् + अरोगता → दोषसाम्यमरोगता (म् अगले स्वर से जुड़ जाता है)।",
         "chunks": "सम्यग्योगश्च विज्ञेयो | रोगारोग्यैककारणम् ‖ रोगस्तु दोषवैषम्यम् | दोषसाम्यमरोगता।",
-        "pegs": "मेरा बनाया चित्र: तराजू का एक पलड़ा झुका हुआ (रोग = वैषम्य) और दूसरा बराबर (अरोगता = साम्य)।",
+        "pegs": "मेरा बनाया चित्र: एक तराजू झुका हुआ (रोग = वैषम्य) और एक तराजू बराबर (अरोगता = साम्य)। (केवल याद के लिए)",
     },
     "52": {
         "diagram": {"groups": [
@@ -806,12 +804,11 @@ AIDS = {
         "contrast": "निज (अपना, भीतर से) ↔ आगन्तु (बाहर से आने वाला) · काय (शरीर) ↔ मनः (मन)।",
     },
     "53": {
-        "chain": {"steps": ["दर्शन (देखना)", "स्पर्शन (छूना)", "प्रश्न (पूछना)", "रोगी की परीक्षा"]},
         "diagram": {"groups": [
             {"label": "मन के दोष", "items": ["रजः", "तमः", "द्वौ दोषौ"]},
             {"label": "परीक्षा के साधन", "items": ["दर्शन", "स्पर्शन", "प्रश्नैः", "परीक्षेत", "रोगिणम्"]}]},
         "sandhi": "विसर्ग → स् (त से पहले), श् (च से पहले): रजः + तमः + च → रजस्तमश्च · औ + उ → आवु: दोषौ + उदाहृतौ → दोषावुदाहृतौ।",
-        "chunks": "रजस्तमश्च मनसो द्वौ च दोषावुदाहृतौ ‖ दर्शनस्पर्शनप्रश्नैः परीक्षेत च रोगिणम्।",
+        "chunks": "रजस्तमश्च मनसो | द्वौ च दोषावुदाहृतौ ‖ दर्शनस्पर्शनप्रश्नैः | परीक्षेत च रोगिणम्।",
     },
     "54": {
         "diagram": {"groups": [
@@ -842,7 +839,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पहली तिकड़ी", "items": ["बस्तिः", "विरेकः", "वमनम्"]},
             {"label": "‘तथा’ के बाद", "items": ["तैलम्", "घृतम्", "मधु"]}]},
-        "sandhi": "विसर्ग → र् / ओ: बस्तिः + विरेकः → बस्तिर्विरेको · अः + व → ओ व · अ + औ → औ: परम् + औषधम् → परमौषधम्।",
+        "sandhi": "विसर्ग → र् / ओ: बस्तिः + विरेकः → बस्तिर्विरेको · अः + व → ओ व · म् + स्वर: परम् + औषधम् → परमौषधम्।",
         "chunks": "शरीरजानां दोषाणां क्रमेण परमौषधम् ‖ बस्तिर्विरेको वमनं | तथा तैलं घृतं मधु।",
         "pegs": "मेरा बनाया चित्र: एक मेज़ पर छह चीज़ें कतार में: नली (बस्ति), दो कटोरे (विरेक, वमन), फिर तेल की बोतल, घी का डिब्बा, शहद की शीशी। (केवल याद के लिए)",
     },
@@ -858,7 +855,7 @@ AIDS = {
             {"label": "स्पष्ट शब्द (पंक्ति १)", "items": ["दिन", "ऋतु"]},
             {"label": "स्पष्ट शब्द (पंक्ति २)", "items": ["द्रव", "अन्न"]}]},
         "sandhi": "अ + ऋ → अर्: दिन + ऋतु → दिनर्तु · इ + अ → य: व्याधि + असम्भवाः → व्याध्यसम्भवाः।",
-        "chunks": "(स्पष्ट अंश) दिनर्तु… ‖ द्रवान्नज्ञान…। शेष अंश अस्पष्ट है।",
+        "chunks": "आयुष्यकामीयशिष्यार्थदिनर्तुव्याध्यसम्भवाः ‖ द्रवान्नज्ञान संरक्षाविरुद्धाज्ञानभोजपानिकाः। (कई शब्द अनिश्चित: पाठ-टिप्पणी देखें)",
     },
     "60": {
         "diagram": {"groups": [
@@ -870,9 +867,9 @@ AIDS = {
     "61": {
         "diagram": {"groups": [
             {"label": "पंक्ति १ (स्पष्ट)", "items": ["दोषादिविज्ञान", "तत्क्रिया", "रोग", "भेषजम्"]},
-            {"label": "पंक्ति २ (स्पष्ट)", "items": ["चिकित्सा", "स्नेह", "स्वेद", "आस्थापन", "नावनम्"]}]},
+            {"label": "पंक्ति २ (स्पष्ट)", "items": ["चिकित्सा", "स्नेह", "स्वेद", "नावनम्"]}]},
         "sandhi": "अ + आ → आ: दोष + आदि → दोषादि।",
-        "chunks": "(स्पष्ट अंश) दोषादिविज्ञान… रोगभेषजम् ‖ चिकित्सास्नेहस्वेद… आस्थापननावनम्।",
+        "chunks": "(स्पष्ट अंश) दोषादिविज्ञान… रोगभेषजम् ‖ चिकित्सास्नेहस्वेद… नावनम्।",
     },
     "62": {
         "diagram": {"groups": [
@@ -882,12 +879,11 @@ AIDS = {
         "chunks": "धूमगण्डूष… यन्त्रजलौकसः ‖ सिराविधिः शल्यविधिः | शस्त्रक्षाराग्निकर्मकाः।",
     },
     "63": {
-        "chain": {"steps": ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या", "व्यापद्"]},
         "diagram": {"groups": [
             {"label": "पंक्ति १", "items": ["चत्वारिंशत्", "इमे", "अध्यायाः", "सूत्रम्", "शारीरम्", "उच्यते"]},
-            {"label": "पंक्ति २ (स्पष्ट नाम)", "items": ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या", "व्यापद्"]}]},
-        "sandhi": "त् → द्, ए + अ → ए ऽ: चत्वारिंशत् + इमे + अध्यायाः → चत्वारिंशदिमेऽध्यायाः · म् + उ: शारीरम् + उच्यते → शारीरमुच्यते।",
-        "chunks": "चत्वारिंशदिमेऽध्यायाः | सूत्रं शारीरमुच्यते ‖ पुत्रार्थगर्भावक्रान्तिचर्याव्यापद्…।",
+            {"label": "पंक्ति २ (स्पष्ट नाम)", "items": ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या"]}]},
+        "sandhi": "त् → द्, ए + अ → ए ऽ: चत्वारिंशत् + इमे + अध्यायाः → चत्वारिंशदिमेऽध्यायाः · म् + उ: शारीरम् + उच्यते → शारीरमुच्यते · त् + च → च्च: तत् + च → तच्च (इसी तरह त् + श → च्छ: व्यापत् + शरीरजाः → व्यापच्छरीरजाः, विभाजन संदिग्ध)।",
+        "chunks": "चत्वारिंशदिमेऽध्यायाः | सूत्रं शारीरमुच्यते ‖ पुत्रार्थगर्भावक्रान्तिचर्याव्यापच्छरीरजाः (अन्तिम पद अस्पष्ट)।",
     },
 }
 
@@ -902,19 +898,19 @@ IMAGE_SPECS = {
         "rows": [["रोग", "दोषवैषम्य (विषमता)"],
                  ["अरोगता", "दोषसाम्य (समता)"]],
     },
-    ("53", "chain"): {
+    ("53", "diagram"): {
         "file": "ch1b05-su1-53-pariksha.svg",
-        "alt": "Chain of the three means of examining the patient in verse 53: looking, touching, questioning, then the examination of the patient.",
-        "type": "chain",
-        "title": "रोगी की परीक्षा",
-        "steps": ["दर्शन (देखना)", "स्पर्शन (छूना)", "प्रश्न (पूछना)", "रोगी की परीक्षा"],
+        "alt": "The three means of examining the patient in verse 53: looking, touching, questioning.",
+        "type": "split",
+        "title": "रोगी की परीक्षा: तीन साधन",
+        "cols": [["साधन", ["दर्शन (देखना)", "स्पर्शन (छूना)", "प्रश्न (पूछना)"]]],
     },
     ("55", "contrast"): {
         "file": "ch1b05-su1-55-bhudesha.svg",
         "alt": "Table of the three land-regions of verse 55: jangala with vata predominant, anupa with kapha abundant, sadharana with equal mala.",
         "type": "table",
         "title": "भूमि के तीन देश",
-        "heads": ["देश", "पहचान"],
+        "heads": ["देश", "श्लोक में कहा गया"],
         "rows": [["जाङ्गल", "वात प्रधान"],
                  ["अनूप", "कफ अधिक"],
                  ["साधारण", "मल सम"]],
@@ -930,15 +926,16 @@ IMAGE_SPECS = {
         "file": "ch1b05-su1-57-param-aushadha.svg",
         "alt": "Split of verse 57: the first three supreme remedies basti, virecana, vamana; after tatha, oil, ghee and honey.",
         "type": "split",
-        "title": "परम औषध (श्लोक ५७)",
+        "title": "श्लोक ५७ की औषधें",
         "cols": [["पहली तिकड़ी", ["बस्ति", "विरेक", "वमन"]],
                  ["‘तथा’ के बाद", ["तैल", "घृत", "मधु"]]],
     },
-    ("63", "chain"): {
+    ("63", "diagram"): {
         "file": "ch1b05-su1-63-shariram.svg",
-        "alt": "Chain of the four clear Sharira chapter titles of verse 63: for a son, descent of the embryo, conduct, mishap.",
-        "type": "chain",
-        "title": "स्पष्ट नाम (श्लोक ६३)",
-        "steps": ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या", "व्यापद्"],
+        "alt": "Split of verse 63: line 1 has the forty chapters; line 2 has the clear Sharira titles for a son, descent of the embryo, conduct.",
+        "type": "split",
+        "title": "श्लोक ६३ के स्पष्ट पद",
+        "cols": [["पंक्ति १", ["चत्वारिंशत् (चालीस)", "अध्यायाः"]],
+                 ["पंक्ति २ (स्पष्ट नाम)", ["पुत्रार्थ", "गर्भावक्रान्ति", "चर्या"]]],
     },
 }
