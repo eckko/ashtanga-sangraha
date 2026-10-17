@@ -1319,6 +1319,75 @@
   "confidence": "high"
  },
  {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīkṣṇairvikarṣite",
+      "words": [
+       {
+        "w": "tīkṣṇaiḥ",
+        "gloss": "by sharp (ones)",
+        "gram": "inst. pl."
+       },
+       {
+        "w": "vikarṣite",
+        "gloss": "drawn out (depleted)",
+        "gram": "ppp. vi-√kṛṣ, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdho",
+      "words": [
+       {
+        "w": "snigdhaḥ",
+        "gloss": "oily",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhuraḥ",
+      "words": [
+       {
+        "w": "madhuraḥ",
+        "gloss": "sweet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśiro",
+      "words": [
+       {
+        "w": "śiśiraḥ",
+        "gloss": "cool",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛduḥ",
+      "words": [
+       {
+        "w": "mṛduḥ",
+        "gloss": "mild",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीक्ष्णों से खिंच गए में स्निग्ध, मधुर, शीतल, मृदु।",
+  "english": "In one drawn out (depleted) by sharp (ones): oily, sweet, cool, mild.",
+  "text_flags": [],
+  "notes": "GROUPING: elliptical; the subject ('bastiḥ') and the verb ('iṣyate') are carried from 96, and nothing is supplied in the translation. 'vikarṣita' is 'drawn apart, dragged out'; 'depleted' is the likely sense and the literal rendering is kept in the main text.",
+  "confidence": "medium"
+ },
+ {
   "n": "98",
   "lines": [
    {
@@ -1831,7 +1900,7 @@
    {
     "src": "kṣīṇakṣatadurbalamūrcchita kṛśaśuṣkaśuddhadehānāṃ",
     "suggest": "kṣīṇakṣatadurbalamūrcchitakṛśaśuṣkaśuddhadehānāṃ",
-    "why": "possible: stray space; 'mūrcchita' belongs to the compound before 'kṛśa-')"
+    "why": "possible: stray space; 'mūrcchita' belongs to the compound before 'kṛśa-'"
    }
   ],
   "notes": "GROUPING: 106 and 107 appear to be one sentence: 'na ... dehānām' continues into 107's 'dadyāt viśodhanīyān'. This unit has no verb, so none is supplied. 'śuddha' is 'purified, cleansed' (probably by earlier evacuation, but the text does not say). 'kṣata' is 'injured' (the sense 'chest wound' is also possible).",
