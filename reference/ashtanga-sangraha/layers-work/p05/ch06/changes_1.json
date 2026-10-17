@@ -1,0 +1,325 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Now, therefore, we shall explain the siddhi (success, accomplishment) of the mishaps of basti (enema): the Bastivyāpatsiddhi.",
+  "new": "Now, therefore, we shall explain the siddhi (success, accomplishment) of the mishaps of basti (enema): the Bastivyāpattisiddhi.",
+  "why": "reviewer (minor): Title spelled Bastivyāpatsiddhi, but the printed compound is bastivyāpattisiddhi (and the gloss and notes say vyāpatti)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "विबन्ध यानी रुकावट, भारीपन, आध्मान यानी पेट का फूलना, सिर की पीड़ा, वाहन और ऊपर की ओर जाने वाले।",
+  "new": "विबन्ध यानी रुकावट, भारीपन, आध्मान यानी पेट का फूलना, सिर की पीड़ा, वाहन, जिसका अर्थ यहाँ अस्पष्ट है, और ऊपर की ओर जाने वाले।",
+  "why": "reviewer (minor): Bare 'वाहन' reads as 'vehicle' in modern Hindi; the sense of vāhana here is unknown. Keep but consider 'वाहन (अर्थ अस्पष्ट)'-style wording without brackets."
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "kukṣiśūlāṃgarucidhmāhatpīḍākarttanasravāḥ",
+    "suggest": "kukṣiśūlāṃgarucidhmāhṛtpīḍākarttanasravāḥ",
+    "why": "possible: 'hat' for 'hṛt' (lost ṛ-sign; the words give hṛd, heart); heart-pain fits the list (compare hṛcchūla in 18)"
+   }
+  ],
+  "why": "reviewer (error): Silent emendation: the print (Devanagari हत्पीडा) has 'hat', the draft's word list has 'hṛd' (heart) with no text_flag. Heart-pain fits the series (compare hṛcchūla in 18), but an emendation must be flagged."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Belly-colic (kukṣiśūla), aṅga-ruci, dhmā, heart-pain, cutting pain (kartana) and flow (srava).",
+  "new": "Belly-pain (kukṣiśūla), aṅga-ruci, dhmā, heart-pain, cutting pain (kartana) and flow (srava).",
+  "why": "reviewer (minor): 'colic' is an interpretation of śūla; sibling units render śūla as 'pain' (hṛcchūla 'pain in the heart' in 18)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "पेट की शूल, अंग-रुचि, ध्मा, हृदय की पीड़ा, कर्तन और स्राव।",
+  "new": "पेट का शूल, अंग-रुचि, ध्मा, हृदय की पीड़ा, कर्तन और स्राव।",
+  "why": "reviewer (minor): Gender: शूल is masculine in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "kukṣi-śūla-aṅga-ruci-dhmā-hṛd-pīḍā-kartana-sravāḥ",
+  "old": "kukṣi: belly; śūla: pain, colic; aṅga: limb, body; ruci: liking, taste (sense of aṅga-ruci obscure); dhmā: blowing, puffing (a bare stem; doubtful here); hṛd: heart; pīḍā: pain, pressure; kartana: cutting (cutting pain); srava: flow, discharge",
+  "new": "kukṣi: belly; śūla: pain; aṅga: limb, body; ruci: liking, taste (sense of aṅga-ruci obscure); dhmā: blowing, puffing (a bare stem; doubtful here); hṛd: heart (print 'hat', see text_flags); pīḍā: pain, pressure; kartana: cutting (cutting pain); srava: flow, discharge",
+  "why": "reviewer (minor): Gloss says 'pain, colic' for śūla; keep 'pain' (modern term goes in notes, already there as 'colicky belly pain (standard)')."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "a-snigdha-svinna-dehasya",
+  "old": "not oiled; sweated; of the body: of one whose body is not oiled and sweated (see notes)",
+  "new": "not (a-); oiled; sweated; body: of one whose body is neither oiled nor sweated (a- governs both, see notes)",
+  "why": "reviewer (minor): Gloss 'not oiled; sweated' reads as if svinna were not negated, contradicting the translation and notes (a- governs both)."
+ },
+ {
+  "n": "6",
+  "field": "lines.0.tokens.0.words",
+  "old": [
+   {
+    "w": "śīta-alpa-sneha-lavaṇa-dravya-mātraḥ",
+    "gloss": "cold; little; sneha (oil, fat); salt; drug, substance; quantity",
+    "gram": "bahuvrīhi, m. nom. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "śītaḥ",
+    "gloss": "cold",
+    "gram": "m. nom. sg."
+   },
+   {
+    "w": "alpa-sneha-lavaṇa-dravya-mātraḥ",
+    "gloss": "little; sneha (oil, fat); salt; drug, substance; quantity",
+    "gram": "bahuvrīhi, m. nom. sg."
+   }
+  ],
+  "why": "reviewer (error): The 'olpa' is not a print habit for 'alpa': it is śīta[ḥ] + alpa written śīto 'lpa with the avagraha dropped (the same phrase is printed śīto'lpaś with avagraha in unit 36). So 'śīta' is a separate word (nom. sg., cold) and the bahuvrīhi is alpa-sneha-lavaṇa-dravya-mātraḥ; the draft's single compound 'śīta-alpa-...' would need śītālpa."
+ },
+ {
+  "n": "6",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śītolpasnehalavaṇadravyamātro",
+    "suggest": "śītālpasnehalavaṇadravyamātro",
+    "why": "possible: \"olpa\" for \"alpa\" (orthographic habit of this print, also in unit 27)"
+   }
+  ],
+  "new": [
+   {
+    "src": "śītolpasnehalavaṇadravyamātro",
+    "suggest": "śīto'lpasnehalavaṇadravyamātro",
+    "why": "avagraha dropped in the print: śītaḥ + alpa gives śīto 'lpa (compare śīto'lpaś in unit 36); words give śītaḥ and alpa-…"
+   }
+  ],
+  "why": "reviewer (error): The flag's explanation ('orthographic habit') and suggestion 'śītālpa…' are wrong; the print omits the avagraha of śīto 'lpa."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "Continues 5 (the noun basti is supplied only in 7). The print writes \"olpa\" for \"alpa\" (śīta + alpa would give śītālpa); read as alpa, and the same print habit recurs in 27 (\"yuktolpavīryo\"), recorded here once. Ambiguity: whether alpa (\"little\") applies to all four of sneha, lavaṇa, dravya, mātrā, and whether \"cold\" is a separate member, is not fixed by the compound; the plain reading is taken.",
+  "new": "Continues 5 (the noun basti is supplied only in 7). The print omits the avagraha of śīto 'lpa- (śītaḥ + alpa-); the same omission recurs in 27 (\"yuktolpavīryo\" for yukto 'lpavīryo\"), recorded here once. \"śīta\" is therefore a separate word (\"cold\") and alpa begins the bahuvrīhi. Ambiguity: whether alpa (\"little\") applies to all four of sneha, lavaṇa, dravya, mātrā is not fixed by the compound; the plain reading is taken.",
+  "why": "reviewer (error): Notes repeat the wrong 'print habit' explanation and the wrong remark about the compound."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "बस्ति और नाभि में पीड़ा, आनाह, हृदय का लेप और गुदा में सूजन।",
+  "new": "बस्ति यानी मूत्राशय या निचले पेट और नाभि में पीड़ा, आनाह, हृदय का लेप और गुदा में सूजन।",
+  "why": "reviewer (minor): Bare बस्ति in Hindi is ambiguous (enema); the English gives '(bladder, lower belly)' for the organ."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Elliptical: the verb karoti of 8 is carried over, none is supplied. \"basti\" in the first compound is the organ (bladder, lower belly) not the enema,. Modern equivalents: ānāha = abdominal distension with obstruction (standard); hṛllepa = a coating or clinging sensation at the heart (probable); śvayathu = swelling (standard).",
+  "new": "Elliptical: the verb karoti of 8 is carried over, none is supplied. \"basti\" in the first compound is the organ (bladder, lower belly) not the enema. Modern equivalents: ānāha = abdominal distension with obstruction (standard); hṛllepa = a coating or clinging sensation at the heart (probable); śvayathu = swelling (standard).",
+  "why": "reviewer (minor): Stray 'enema,.' in notes."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "bilva-mūla",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, stem form (initial member of the compound; the space in the print is unexplained)",
+  "why": "reviewer (minor): 'n. nom. sg.' is not a possible form of a bare stem 'bilvamūla'; it is the initial member of a compound (the space in the print is unexplained)."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "The word \"saprākūpeṣyas\" is damaged or unintelligible in the print; no reading is built on it; the sense of the unit is therefore uncertain. \"tam ānayet\": the object tam and what is \"brought\" is not stated; what is \"brought\" is not stated. \"surādi\" is read as \"surā etc.\" (the series beginning with surā), kept literal.",
+  "new": "The word \"saprākūpeṣyas\" is damaged or unintelligible in the print; no reading is built on it; the sense of the unit is therefore uncertain. \"tam ānayet\": the object tam is not stated, and what is \"brought\" is not stated. The half-line has 17 syllables (16 expected), which agrees with damage; the boundary of the damaged word is itself conjectural, so \"tam ānayet\" is also only a conjectural reading. \"surādi\" is read as \"surā etc.\" (the series beginning with surā), kept literal.",
+  "why": "reviewer (minor): Notes repeat the clause about what is brought; also the metre (17 syllables, 16 expected) supports the damage, and the boundary of the damaged word (whether 'tam ānayet' is sound) is itself conjectural."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "GROUPING: continues in 17 (verbs mūrcchayati, ruṇaddhi, hinasti). The reading of \"saṃśeṣāme\" is uncertain: saṃśeṣa-āma \"remaining āma (undigested matter)\" is taken, which is not secure; the subject of \"īritaḥ\" is taken to be the basti (nominative masculine) but is not named. The construction is elliptical.",
+  "new": "GROUPING: continues in 17 (verbs mūrcchayati, ruṇaddhi, hinasti). The reading of \"saṃśeṣāme\" is uncertain: saṃśeṣa-āma \"remaining āma (undigested matter)\" is taken, which is not secure; the subject of \"īritaḥ\" is taken to be the basti (nominative masculine) but is not named. The construction is elliptical. Reviewer: īritaḥ needs a masculine nominative subject; if the print has e for o, 'saṃśeṣāmo … īritaḥ' (the remaining āma, stirred by the doṣas, as subject of 17) would read more smoothly. Not adopted; no text_flag.",
+  "why": "reviewer (minor): 'īritaḥ' is masculine nominative singular but no such subject is stated (saṃśeṣāme is locative, nirūheṇa and mṛdunā instrumental); the draft takes the basti. Possible alternative: a misprint for saṃśeṣāmo (the āma itself 'remaining, stirred by the doṣas' as the subject of 17). Not patched; human decision."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "तब करे; उसका रूक्ष, स्वेदन और पाचन उपायों से उपचार करे।",
+  "new": "तब करे; उसका रूक्ष, स्वेद और पाचन से उपचार करे।",
+  "why": "reviewer (minor): 'उपायों' ('means, measures') is a supplied noun; the instrumentals are bare adjectives/nouns in the Sanskrit."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "The verb \"kuryāt\" is left without an object; it is redundant beside \"upacaret\" and may be a mis-print or a remnant of another reading, but this is only a guess and is not applied. The instrumentals are neuter plural but no noun is stated.",
+  "new": "The verb \"kuryāt\" is left without an object; it is redundant beside \"upacaret\" and may be a mis-print or a remnant of another reading, but this is only a guess and is not applied. The instrumentals are neuter plural but no noun is stated. Follows the effects of 16-18 and begins the treatment, which continues in 20-25. 'rūkṣa-sveda-pācana' could also be read as rūkṣa-sveda ('dry fomentation') + pācana.",
+  "why": "reviewer (minor): No note that 19 follows the effects listed in 16-18 and begins the treatment which runs on through 20-25 (without claiming verse pairing)."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "pippalī-kattṛṇa-uśīra-dāru-sūrvā-bhṛtam",
+  "old": "pippalī (long pepper, Piper longum; standard); kattṛṇa (a grass; identity disputed, sometimes the scented grass rauhiṣa, Cymbopogon; disputed); uśīra (vetiver, Vetiveria zizanioides; standard); dāru (probably devadāru, see 14); sūrvā (disputed; perhaps mūrvā, Marsdenia tenacissima); bhṛta: filled, borne",
+  "new": "pippalī (long pepper, Piper longum; standard); kattṛṇa (a grass; identity disputed, sometimes the scented grass rauhiṣa, Cymbopogon; disputed); uśīra (vetiver, Vetiveria zizanioides; standard); dāru (probably devadāru, deodar, Cedrus deodara; probable; see 14); sūrvā (unidentified; possibly a variant of mūrvā, Marsdenia tenacissima, itself disputed); bhṛta: filled, borne",
+  "why": "reviewer (minor): 'disputed' is the wrong tag: there is no known dispute about sūrvā, it is simply unidentified; mūrvā is the draft's own guess (a possible variant), and mūrvā itself (Marsdenia tenacissima) is disputed."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Water filled with pippalī (long pepper), kattṛṇa (a grass, identity uncertain), uśīra (vetiver), dāru (probably devadāru) and sūrvā (identity disputed).",
+  "new": "Water filled with pippalī (long pepper), kattṛṇa (a grass, identity uncertain), uśīra (vetiver), dāru (probably devadāru) and sūrvā (identity uncertain).",
+  "why": "reviewer (minor): Match the tag: unidentified, not disputed."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "पिप्पली यानी पीपर, कत्तृण यानी एक घास, उशीर यानी खस, दारु यानी सम्भवतः देवदारु और सूर्वा से भरा जल।",
+  "new": "पिप्पली यानी पीपर, कत्तृण यानी एक घास, उशीर यानी खस, दारु यानी सम्भवतः देवदारु और सूर्वा, जिसकी पहचान अनिश्चित है, से भरा जल।",
+  "why": "reviewer (minor): English says the identity of sūrvā is uncertain, Hindi gives no hedge (compare śaṭhī in 22)."
+ },
+ {
+  "n": "24",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "dārutrikaṭuukaṃ",
+    "suggest": "dārutrikaṭūṣakaṃ",
+    "why": "possible: damaged print, doubled u-sign; \"trikaṭūṣaka\" is only a guess (not adopted)"
+   }
+  ],
+  "new": [
+   {
+    "src": "dārutrikaṭuukaṃ",
+    "suggest": "dārutrikaṭukaṃ",
+    "why": "possible: doubled u-sign (ṭuu) in the print; the half-line has 17 syllables as printed and 16 with dārutrikaṭukaṃ (dāru + trikaṭuka, the three pungents), which also fits the accusative drug list; not adopted in the translation"
+   }
+  ],
+  "why": "reviewer (error): The suggestion 'dārutrikaṭūṣakaṃ' is an unattested word and wrong for the metre (9 syllables, the half-line would be 17). The print has 17 syllables because of a doubled ु; deleting it gives dārutrikaṭukaṃ (16 syllables, dāru + trikaṭuka, the three pungents), a normal member of an accusative drug list with pathyā, palāśa, citraka, śaṭhī. Fairly likely; the draft's 'unclear' handling is kept, but the flag should offer this."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Having ground (them) with urine, and kuṣṭha (costus), one should drink; and the kindling (dīpana) kṣāras.",
+  "new": "Having ground (them) and kuṣṭha (costus) with urine, one should drink; and the kindling (dīpana) kṣāras.",
+  "why": "reviewer (minor): Word order suggests 'having ground (them) and kuṣṭha with urine'; the draft's order reads as if only the first object is ground with urine and then adds kuṣṭha. Ambiguity of 'mūtreṇa' (with piṣṭvā or with pibet) should be noted."
+ },
+ {
+  "n": "27",
+  "field": "lines.0.tokens.0.words",
+  "old": [
+   {
+    "w": "yukta-alpa-vīryaḥ",
+    "gloss": "applied (yukta); little; potency (vīrya)",
+    "gram": "bahuvrīhi, m. nom. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "yuktaḥ",
+    "gloss": "applied",
+    "gram": "ppp. √yuj, m. nom. sg."
+   },
+   {
+    "w": "alpa-vīryaḥ",
+    "gloss": "little; potency (vīrya)",
+    "gram": "bahuvrīhi, m. nom. sg."
+   }
+  ],
+  "why": "reviewer (error): Same as unit 6: yuktaḥ + alpa-vīryaḥ with avagraha dropped (yukto 'lpa-), not one compound 'yukta-alpa-vīryaḥ'; unflagged although the print departs from the standard form."
+ },
+ {
+  "n": "27",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "yuktolpavīryo",
+    "suggest": "yukto'lpavīryo",
+    "why": "avagraha dropped in the print (yuktaḥ + alpa gives yukto 'lpa; same as śītolpa in unit 6)"
+   }
+  ],
+  "why": "reviewer (error): Same as unit 6: yuktaḥ + alpa-vīryaḥ with avagraha dropped (yukto 'lpa-), not one compound 'yukta-alpa-vīryaḥ'; unflagged although the print departs from the standard form."
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "GROUPING: 27 and 28 form one statement (verb ruṇdhyāt in 28). The subject basti is supplied only in 28. \"yukta\" is read as \"applied\" and \"alpavīrya\" as \"of little potency\"; \"krūrāśaya\" is kept literal (\"harsh abode\"); compare \"krūrakoṣṭha\" in 35. \"olpa\" for \"alpa\" as in unit 6 (recorded there).",
+  "new": "GROUPING: 27 and 28 form one statement (verb ruṇdhyāt in 28). The subject basti is supplied only in 28. \"yukta\" is read as \"applied\" and \"alpavīrya\" as \"of little potency\"; \"krūrāśaya\" is kept literal (\"harsh abode\"); compare \"krūrakoṣṭha\" in 35. \"yuktolpa\" is yukto 'lpa with the avagraha dropped in the print, as in unit 6 (flagged here and there). The verb is rundhyāt (28).",
+  "why": "reviewer (minor): Replace the 'olpa for alpa' remark with the avagraha explanation."
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "GROUPING: 27 and 28 form one statement (verb ruṇdhyāt in 28). The subject basti is supplied only in 28. \"yukta\" is read as \"applied\" and \"alpavīrya\" as \"of little potency\"; \"krūrāśaya\" is kept literal (\"harsh abode\"); compare \"krūrakoṣṭha\" in 35. \"yuktolpa\" is yukto 'lpa with the avagraha dropped in the print, as in unit 6 (flagged here and there). The verb is rundhyāt (28).",
+  "new": "GROUPING: 27 and 28 form one statement (verb rundhyāt in 28). The subject basti is supplied only in 28. \"yukta\" is read as \"applied\" and \"alpavīrya\" as \"of little potency\"; \"krūrāśaya\" is kept literal (\"harsh abode\"); compare \"krūrakoṣṭha\" in 35. \"yuktolpa\" is yukto 'lpa with the avagraha dropped in the print, as in unit 6 (flagged here and there). The verb is rundhyāt (28).",
+  "why": "reviewer (minor): Form: see unit 28 (rundhyāt, with dental n)."
+ },
+ {
+  "n": "28",
+  "field": "word.w",
+  "word": "ruṇdhyāt",
+  "old": "ruṇdhyāt",
+  "new": "rundhyāt",
+  "why": "reviewer (error): Wrong form: the optative of √rudh (rudh-class 7) is rundhyāt (dental n before dh); ṇ appears only in ruṇaddhi. Printed 'ruṃdhyāt' (anusvara) is the standard spelling."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "ādhmānam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (error): ādhmāna is neuter."
+ },
+ {
+  "n": "32",
+  "field": "word.w",
+  "word": "varti",
+  "old": "varti",
+  "new": "vartim",
+  "why": "reviewer (minor): w should be the inflected form 'vartim' (acc. sg., as gram says), not the stem."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "और बिल्व आदि वाला निरूह पीलु यानी सम्भवतः जाल, सर्षप यानी सरसों और मूत्र वाला हो।",
+  "new": "और बिल्व आदि वाला निरूह पीलु यानी सम्भवतः जाल, सर्षप यानी सम्भवतः सरसों और मूत्र वाला हो।",
+  "why": "reviewer (minor): English and gloss hedge sarṣapa ('probably mustard', probable); Hindi states it flatly."
+ },
+ {
+  "n": "34",
+  "field": "text_flags.0.why",
+  "old": "possible: damaged print; suggestion is a guess from the ending -bhyām and the usual pairing, not adopted",
+  "new": "possible: damaged print (displaced i-sign); a guess from the ending -bhyām and the usual pairing, not adopted. Closer in letters: saralāmaradārubhyāṃ (sarala + amaradāru; amaradāru is a synonym of devadāru); saralādevadārubhyāṃ is a further alternative",
+  "why": "reviewer (minor): Observation / better guess: letters are much closer to 'saralāmaradārubhyāṃ' (sarala + amaradāru, amaradāru being a synonym of devadāru) than to saralādevadārubhyām; both fit the metre (8 syllables). Remains a guess, not adopted."
+ },
+ {
+  "n": "35",
+  "field": "text_flags.0.why",
+  "old": "possible: stray tilde in the print",
+  "new": "possible: stray candrabindu in the print (shown as ~ in the transliteration)",
+  "why": "reviewer (minor): The mark in the print is a candrabindu (बहुँ), shown as ~ in the transliteration, not a tilde."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "बहुत दोष और बल वाले में तथा क्रूर कोष्ठ वाले में बस्ति पतली और मृदु हो।",
+  "new": "बहुत दोष और बल वाले में तथा क्रूर कोष्ठ वाले में बस्ति पतली और मृदु,",
+  "why": "reviewer (error): 'हो' supplies a verb ('should be') that the Sanskrit does not have (the verb is pratihanti in 36)."
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "tīkṣṇaiḥ",
+  "old": "n. inst. pl.",
+  "new": "m. inst. pl.",
+  "why": "reviewer (minor): Agrees with dhūmaiḥ (masculine); 'n.' is wrong."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "विरेचनों और बस्तियों से, जो अनुलोम गति वाले हैं, शीघ्र उसका उपचार करे।",
+  "new": "विरेचनों और बस्तियों से, जो आनुलोमिक यानी स्वाभाविक दिशा के अनुसार हैं, शीघ्र उसका उपचार करे।",
+  "why": "reviewer (minor): 'गति' is a supplied word; ānulomika is 'following anuloma (the natural direction)'."
+ }
+]
