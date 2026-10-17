@@ -1,0 +1,356 @@
+[
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śmaśānacaityadevatāyatanāgārasabhāścaārāmavalmīkoṣaravirahite",
+    "suggest": "śmaśānacaityadevatāyatanāgārasabhāścārāmavalmīkoṣaravirahite",
+    "why": "possible: 'caā' leaves an uncontracted hiatus; sandhi would give 'cā'"
+   },
+   {
+    "src": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimuttike",
+    "suggest": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimṛttike",
+    "why": "possible: 'muttikā' is not a word; 'mṛttikā' (soil) fits the sense and the list of qualities"
+   },
+   {
+    "src": "mṛdāvaphālakṛṣṭe'nupahate'nyairbalavattarairdrumairbheṣajāni",
+    "suggest": "(unclear)",
+    "why": "the opening 'mṛdāvaphāla-' is not a clear word; possibly 'mṛdu' + 'avaphāla' or 'mṛdā' (with clay); no firm correction offered"
+   }
+  ],
+  "new": [
+   {
+    "src": "śmaśānacaityadevatāyatanāgārasabhāścaārāmavalmīkoṣaravirahite",
+    "suggest": "śmaśānacaityadevatāyatanāgārasabhāścārāmavalmīkoṣaravirahite",
+    "why": "possible: 'caā' leaves an uncontracted hiatus; sandhi would give 'cā'"
+   },
+   {
+    "src": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimuttike",
+    "suggest": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimṛttike",
+    "why": "possible: 'muttikā' is not a word; 'mṛttikā' (soil) fits the sense and the list of qualities"
+   },
+   {
+    "src": "mṛdāvaphālakṛṣṭe'nupahate'nyairbalavattarairdrumairbheṣajāni",
+    "suggest": "(unclear)",
+    "why": "the opening 'mṛdāvaphāla-' is not a clear word; possibly 'mṛdu' + 'avaphāla' or 'mṛdā' (with clay); no firm correction offered"
+   },
+   {
+    "src": "praśasyaṃtaiti",
+    "suggest": "praśasyanta iti",
+    "why": "possible: the print joins praśasyante and iti with an ai junction that sandhi does not give; read as the verb praśasyante plus iti"
+   }
+  ],
+  "why": "reviewer (minor): Silent emendation: printed praśasyaṃtaiti is split as praśasyante + iti, but the print shows no e/iti junction (a + i would give e, not ai); an unflagged emendation."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "śmaśāna-caitya-devatā-āyatana-āgāra-sabhāḥ",
+  "old": "dvandva, f. nom. pl. (in compound)",
+  "new": "dvandva; ends in the printed visarga form sabhāḥ, as printed; construction with virahite unclear",
+  "why": "reviewer (minor): Draft gives \"f. nom. pl. (in compound)\": a nominative plural cannot sit in the compound/construction with the locative virahite; the printed visarga form (sabhāś ca) is itself unexplained. The gram states a construction the text does not support."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "In a jāṅgala (dry, open country) or in a common region, according to the season, in land that is frequented by cold, sunshine, wind and water, level, clean, with water flowing to the right, free from cremation ground, shrine (caitya), temple, house and assembly hall, and from garden, anthill and saline soil, spread with kuśa grass (Desmostachya bipinnata) and rohiṣa grass (probably a fragrant Cymbopogon grass; disputed), with soil that is unctuous, black, golden-coloured, sweet and fragrant, ploughed (on a conjectural reading of 'mṛdāvaphāla': gently, with the ploughshare), and not harmed by other, stronger trees: medicines are praised. Thus it is the general examination of land.",
+  "new": "In a jāṅgala (dry, open country) or in a common region, according to the season, in land that is frequented by cold, sunshine, wind and water, level, clean, with water flowing to the right, free from cremation ground, shrine (caitya), temple, house and assembly hall, and from garden, anthill and saline soil, spread with kuśa grass (Desmostachya bipinnata) and rohiṣa grass (probably a fragrant Cymbopogon grass; disputed), with soil that is unctuous, black, golden-coloured, sweet and fragrant, ploughed (the printed 'mṛdāvaphāla' is unclear; on a conjectural reading, with a ploughshare), and not harmed by other, stronger trees: medicines are praised. Thus it is the general examination of land.",
+  "why": "reviewer (error): \"gently, with the ploughshare\" over-reads: mṛdā is the instrumental of mṛd (clay, soil), not \"gently\"; no part of the damaged word before kṛṣṭe is safe except kṛṣṭe (ploughed) and possibly phāla (ploughshare). The English builds a meaning on a conjecture."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जांगल यानी रूखे खुले प्रदेश में, या साधारण प्रदेश में, ऋतु के अनुसार, शीत, धूप, वायु और जल से सेवित, समतल, शुद्ध, दाहिनी ओर जल बहने वाली, श्मशान, चैत्य, देवमन्दिर, घर और सभा से तथा बाग, दीमक की बांबी और ऊषर भूमि से रहित, कुश और रोहिष घास से ढकी, चिकनी, काली, सोने के रंग की, मीठी और सुगन्धित मिट्टी वाली, अनुमानित पाठ के अनुसार हल से धीरे जोती हुई, दूसरे अधिक बलवान वृक्षों से अनुपहत भूमि में औषध प्रशस्त माने जाते हैं। यह सामान्य रूप से भूमि की परीक्षा है।",
+  "new": "जांगल यानी रूखे खुले प्रदेश में, या साधारण प्रदेश में, ऋतु के अनुसार, शीत, धूप, वायु और जल से सेवित, समतल, शुद्ध, दाहिनी ओर जल बहने वाली, श्मशान, चैत्य, देवमन्दिर, घर और सभा से तथा बाग, दीमक की बांबी और ऊषर भूमि से रहित, कुश और रोहिष घास से ढकी, चिकनी, काली, सोने के रंग की, मीठी और सुगन्धित मिट्टी वाली, मुद्रित मृदावफाल अस्पष्ट है, अनुमानित पाठ के अनुसार हल से जोती हुई, दूसरे अधिक बलवान वृक्षों से अनुपहत भूमि में औषध प्रशस्त माने जाते हैं। यह सामान्य रूप से भूमि की परीक्षा है।",
+  "why": "reviewer (error): \"धीरे\" rests on the same unsupported guess (mṛdā is not \"gently\")."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जांगल यानी रूखे खुले प्रदेश में, या साधारण प्रदेश में, ऋतु के अनुसार, शीत, धूप, वायु और जल से सेवित, समतल, शुद्ध, दाहिनी ओर जल बहने वाली, श्मशान, चैत्य, देवमन्दिर, घर और सभा से तथा बाग, दीमक की बांबी और ऊषर भूमि से रहित, कुश और रोहिष घास से ढकी, चिकनी, काली, सोने के रंग की, मीठी और सुगन्धित मिट्टी वाली, मुद्रित मृदावफाल अस्पष्ट है, अनुमानित पाठ के अनुसार हल से जोती हुई, दूसरे अधिक बलवान वृक्षों से अनुपहत भूमि में औषध प्रशस्त माने जाते हैं। यह सामान्य रूप से भूमि की परीक्षा है।",
+  "new": "जांगल यानी रूखे खुले प्रदेश में, या साधारण प्रदेश में, ऋतु के अनुसार, शीत, धूप, वायु और जल से सेवित, समतल, शुद्ध, दाहिनी ओर जल बहने वाली, श्मशान, चैत्य, देवमन्दिर, घर और सभा से तथा बाग, दीमक की बांबी और ऊषर भूमि से रहित, कुश और रोहिष यानी सम्भवतः रूसा घास से ढकी, चिकनी, काली, सोने के रंग की, मीठी और सुगन्धित मिट्टी वाली, मुद्रित मृदावफाल अस्पष्ट है, अनुमानित पाठ के अनुसार हल से जोती हुई, दूसरे अधिक बलवान वृक्षों से अनुपहत भूमि में औषध प्रशस्त माने जाते हैं। यह सामान्य रूप से भूमि की परीक्षा है।",
+  "why": "reviewer (minor): Policy: identifications written beside the Sanskrit name in Hindi too, hedged when disputed. English has \"rohiṣa grass (probably a fragrant Cymbopogon grass; disputed)\", Hindi has bare रोहिष."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "सब गुणों से युक्त भूमियों में उभयतोभाग।",
+  "new": "सब गुणों से युक्त भूमियों में उभयतोभाग यानी दोनों ओर भाग वाले।",
+  "why": "reviewer (minor): English gives the literal \"both-way\"; Hindi leaves the term unglossed."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "उनमें जो काल में उत्पन्न हुए हैं, जिन्होंने पूर्ण मात्रा, रस, वीर्य और गन्ध पा ली है, जो काल, धूप, मि नामक अस्पष्ट शब्द, जल, वायु, शस्त्र और जन्तुओं से गन्ध, वर्ण, रस, स्पर्श और प्रभाव में अनुपहत हैं, जिनकी जड़ें गहरी हैं और जो उत्तर दिशा में स्थित हैं।",
+  "new": "उनमें जो काल में उत्पन्न हुए हैं, जिन्होंने पूर्ण मात्रा, रस, वीर्य और गन्ध पा ली है, जो काल, धूप, अस्पष्ट मुद्रित मि, जल, वायु, शस्त्र और जन्तुओं से गन्ध, वर्ण, रस, स्पर्श और प्रभाव में अनुपहत हैं, जिनकी जड़ें गहरी हैं और जो उत्तर दिशा में स्थित हैं।",
+  "why": "reviewer (minor): \"नामक\" invents a word named \"मि\"; the print shows a fragment \"mi\" inside the compound."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "'palāśa' is taken as 'leaf'. The singular neuter dvandva 'śākhāpalāśam' is read as 'branch and leaf' (collective). The relative clause of unit 13 completes here.",
+  "new": "'palāśa' is taken as 'leaf'. The singular neuter dvandva 'śākhāpalāśam' is read as 'branch and leaf' (collective). The relative clause of unit 13 appears to complete here.",
+  "why": "reviewer (minor): GLOSSARY: write \"appears to complete\", never \"completes\"."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "teṣām",
+  "old": "m./n. gen. pl.",
+  "new": "gen. pl.",
+  "why": "reviewer (minor): Gender m./n. is guessed for a pronoun whose referent is unstated."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "śīrṇa-prarūḍha-parṇānām",
+  "old": "bahuvrīhi, n. gen. pl.",
+  "new": "bahuvrīhi, gen. pl.",
+  "why": "reviewer (minor): Gender \"n.\" given to a bahuvrīhi whose noun is unstated (GLOSSARY: no gender for unstated nouns)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "In summer, the roots; or in the cold season (śiśira), of those whose leaves have fallen and (re)sprouted.",
+  "new": "In summer, the roots; or in the cold season (śiśira), of those whose leaves have fallen and sprouted.",
+  "why": "reviewer (minor): \"(re)\" adds \"again\"; prarūḍha is \"sprouted/grown\"."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "ग्रीष्म में जड़ें, या शिशिर में जिनके पत्ते झड़कर फिर उगे हैं उनके।",
+  "new": "ग्रीष्म में जड़ें, या शिशिर में जिनके पत्ते झड़ चुके और उग आए हैं उनके।",
+  "why": "reviewer (minor): \"फिर\" (again) is not in the Sanskrit."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "In winter (hemanta): the cores (sāra), heartwoods.",
+  "new": "In winter (hemanta): the sāra (essence, core; probably heartwood).",
+  "why": "reviewer (error): Translation states \"heartwoods\" as fact; notes call it only probable. Policy: hedge when only probable."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हेमन्त में सार यानी भीतर का सारभाग।",
+  "new": "हेमन्त में सार यानी सम्भवतः काठ का भीतरी भाग।",
+  "why": "reviewer (error): Same: \"भीतर का\" and the heartwood sense are interpretation, not hedged."
+ },
+ {
+  "n": "20",
+  "field": "word.w",
+  "word": "oṣadhāni",
+  "old": "oṣadhāni",
+  "new": "auṣadhāni",
+  "why": "reviewer (error): Invented word: the print is saumyāny auṣadhāni (Devanagari सौम्यान्यौषधानि); \"oṣadhāni\" is not a word. Restore auṣadhāni (n. pl. \"medicines\"), a regular derivative of oṣadhi/auṣadha."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Saumya (gentle) herbs in the saumya seasons, āgneya (fiery) ones in the āgneya (ones).",
+  "new": "Saumya (gentle) medicines (auṣadha) in the saumya seasons, āgneya (fiery) ones in the āgneya (ones).",
+  "why": "reviewer (minor): auṣadha is \"medicine, drug\", not \"herb\"; unit 2 uses \"medicines\"."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "सौम्य औषधियाँ सौम्य ऋतुओं में, आग्नेय आग्नेयों में।",
+  "new": "सौम्य औषध सौम्य ऋतुओं में, आग्नेय आग्नेयों में।",
+  "why": "reviewer (minor): औषधि is feminine \"herb\"; the word is neuter औषध."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "Elliptical: 'grāhyāṇi' (to be taken) carried over. The text does not name which seasons are saumya or āgneya, so none is named here. 'oṣadha' (herb) is printed 'auṣadha'.",
+  "new": "Elliptical: 'grāhyāṇi' (to be taken) carried over. The text does not name which seasons are saumya or āgneya, so none is named here. 'auṣadha' (medicine) is the printed form.",
+  "why": "reviewer (minor): Wrong: the printed word is correct and is the one to be split; no change was made."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "āgneyeṣu",
+  "old": "m. loc. pl.",
+  "new": "loc. pl.",
+  "why": "reviewer (minor): Gender \"m.\" on an adjective whose noun is unstated."
+ },
+ {
+  "n": "22",
+  "field": "text_flags.0.suggest",
+  "old": "prāṅmukhodaṅmukho",
+  "new": "prāṅmukha udaṅmukho",
+  "why": "reviewer (minor): The suggested prāṅmukhodaṅmukho is wrong: aḥ before u gives hiatus, not o. The print is simply two words run together without sandhi (prāṅmukha udaṅmukho, as the split already has)."
+ },
+ {
+  "n": "22",
+  "field": "text_flags.0.why",
+  "old": "possible: a + u gives 'o'; 'au' is not the expected junction",
+  "new": "possible: the print runs the two words together without a space; the expected form is the hiatus prāṅmukha udaṅmukho (aḥ before a vowel other than a drops the visarga)",
+  "why": "reviewer (minor): The suggested prāṅmukhodaṅmukho is wrong: aḥ before u gives hiatus, not o. The print is simply two words run together without sandhi (prāṅmukha udaṅmukho, as the split already has)."
+ },
+ {
+  "n": "23",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "svavaśyāni",
+    "suggest": "(unclear)",
+    "why": "the word is not clear; sva-vaśyāni (own-controlled) is only a conjecture and no correction is offered"
+   }
+  ],
+  "why": "reviewer (minor): Unclear word (translation says \"unclear\", confidence low) but no text_flag, unlike units 13 and 25."
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "anurūpa-guṇavat-bhājane",
+  "old": "m./n. loc. sg.",
+  "new": "n. loc. sg.",
+  "why": "reviewer (minor): bhājana is neuter; \"m./n.\" is a guess."
+ },
+ {
+  "n": "24",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "sakṣīraṇyupakalpayet",
+    "suggest": "sakṣīrāṇyupakalpayet",
+    "why": "possible: the print has short a in sakṣīraṇy; the neuter plural sakṣīrāṇi needs ā"
+   }
+  ],
+  "why": "reviewer (minor): Silent emendation: the print (सक्षीरण्युपकल्पयेत्) has short a, \"sakṣīraṇy\"; the split silently restores sakṣīrāṇi."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Damaged or garbled word; only the end 'natikrāṃtasaṃvatsarāṇi' is read ('whose year has not passed'). Unit 26 begins 'purāṇāni tu', 'but old (ones)', which suggests that 25 speaks of drugs not yet a year old; that is inferred, not stated.",
+  "new": "Damaged or garbled word; only the end 'natikrāṃtasaṃvatsarāṇi' is read ('whose year has not passed'). Unit 26 begins 'purāṇāni tu', 'but old (ones)', which suggests that 25 speaks of drugs not yet a year old; that is inferred, not stated. The negation in 'natikrānta' depends on the damaged junction before it (tāva-n-atikrānta); the opposite sense 'whose year has passed' is not excluded by the print alone. The contrast of unit 26 ('purāṇāni tu') supports the negated reading.",
+  "why": "reviewer (minor): Opposite sense not excluded by the print: the negation depends on the damaged junction (tāva|n|atikrānta). Read as \"year has not passed\" is supported only by 26 \"purāṇāni tu\"."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "बौष्क्यण अस्पष्ट शब्द वाला दूध ग्रहण करना चाहिए, तथा नीरोग का गोबर और मूत्र।",
+  "new": "बौष्क्यण अस्पष्ट शब्द वाला दूध ग्रहण करना चाहिए, तथा मल और मूत्र नीरोग।",
+  "why": "reviewer (error): \"गोबर\" is cow dung specifically; śakṛt is dung of an unnamed animal. \"नीरोग का\" adds an owner. The adjective nīrujam agrees with the dung and urine itself."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Of (those) possessing age and strength: dhātu, tail, horn, hoof and so on.",
+  "new": "Of (those) possessing age and strength: dhātu, tail, horn, hoof and so on, on a conjectural reading.",
+  "why": "reviewer (error): Horn and hoof rest on a conjectured reading of a garbled word (śrṛṃ ga-ra), yet are translated as fact."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "आयु और बल वालों के धातु, पूँछ, सींग, खुर आदि।",
+  "new": "आयु और बल वालों के धातु, पूँछ, सींग, खुर आदि, अनुमानित पाठ के अनुसार।",
+  "why": "reviewer (error): Same: no mark of the conjecture."
+ },
+ {
+  "n": "36",
+  "field": "word.w",
+  "word": "samasta",
+  "old": "samasta",
+  "new": "samasta-",
+  "why": "reviewer (minor): Word broken by a space in print but shown as \"samasta\" with no trailing hyphen (convention: trailing hyphen); notes explain it but no text_flag is given as in units 4, 41, 44."
+ },
+ {
+  "n": "36",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "samasta dravyāparityāgāt",
+    "suggest": "samastadravyāparityāgāt",
+    "why": "a space separates samasta from dravya- in print; read as one compound"
+   }
+  ],
+  "why": "reviewer (minor): Word broken by a space in print but shown as \"samasta\" with no trailing hyphen (convention: trailing hyphen); notes explain it but no text_flag is given as in units 4, 41, 44."
+ },
+ {
+  "n": "38",
+  "field": "word.w",
+  "word": "oṣadhāni",
+  "old": "oṣadhāni",
+  "new": "auṣadhāni",
+  "why": "reviewer (error): Invented word: the print is bhedyānyauṣadhāni (भेद्यान्यौषधानि); the word is auṣadhāni."
+ },
+ {
+  "n": "38",
+  "field": "word.w",
+  "word": "oṣadhānām",
+  "old": "oṣadhānām",
+  "new": "auṣadhānām",
+  "why": "reviewer (error): Invented word: the print is bahulapānīyagrāhitānām auṣadhānām (...नामौषधानाम्...); the word is auṣadhānām."
+ },
+ {
+  "n": "38",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "rukṣāyāmadhaḥpraliptāyāṃ",
+    "suggest": "rūkṣāyāmadhaḥpraliptāyāṃ",
+    "why": "possible: 'rūkṣa' (dry) has a long ū"
+   }
+  ],
+  "new": [
+   {
+    "src": "rukṣāyāmadhaḥpraliptāyāṃ",
+    "suggest": "rūkṣāyāmadhaḥpraliptāyāṃ",
+    "why": "possible: 'rūkṣa' (dry) has a long ū"
+   },
+   {
+    "src": "bahulapānīyagrāhitānāmauṣadhānāmākalathya",
+    "suggest": "bahulapānīyagrāhitānāmauṣadhānāmākalayya",
+    "why": "possible: ākalathya is not a word; ākalayya (having reckoned, estimated) is a conjecture; th and y are close in the Devanagari print"
+   }
+  ],
+  "why": "reviewer (minor): The conjecture ākalayya is only in notes; a typo conjecture belongs in text_flags (in the deva the th/y shapes are close)."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "वह निर्यूह: विदारने योग्य औषधियों को बारीक विदारकर, काटने योग्य को कटवाकर, जल से धोकर, शुद्ध, रूखे और नीचे से लिपे हुए ताँबे, लोहे या मिट्टी में से किसी एक बर्तन में डालकर, बहुत जल ग्रहण कराई गई औषधियों का आकलथ्य, यह शब्द अस्पष्ट है और अनुमान से अनुमान लगाकर पढ़ा गया है, जितने जल से रस छूटने की अवस्था हो, उतना जल डाले और सुखाए।",
+  "new": "वह निर्यूह: विदारने योग्य औषधियों को बारीक विदारकर, काटने योग्य को कटवाकर, जल से धोकर, शुद्ध, रूखे और नीचे से लिपे हुए ताँबे, लोहे या मिट्टी में से किसी एक बर्तन में डालकर, बहुत जल ग्रहण कराई गई औषधियों का आकलथ्य, यह शब्द अस्पष्ट है, अनुमानित पाठ के अनुसार अनुमान लगाकर, जितने जल से रस छूटने की अवस्था हो, उतना जल डाले और सुखाए।",
+  "why": "reviewer (minor): Repetitive and clumsy (\"अनुमान से अनुमान लगाकर\"); also \"आकलथ्य\" is left bare."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "और उतारकर, भली-भाँति छानकर, योग्य स्पर्श वाला होने पर प्रयोग करे।",
+  "new": "और उतारकर, भली-भाँति छानकर, योग्य स्पर्श वाले को प्रयोग करे।",
+  "why": "reviewer (minor): \"होने पर\" turns an accusative adjective into a condition not in the Sanskrit."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "और क्षीर आदि के साथ द्रव्य का रस भली-भाँति छूटा हुआ नहीं होता, इसलिए पहले जल का क्वाथ करके, उसके उपदेश के अनुसार न जलाते हुए क्षीर आदि के साथ पकाए।",
+  "new": "और क्षीर आदि के साथ द्रव्य का रस भली-भाँति छूटा हुआ नहीं होता, इसलिए पहले जल का क्वाथ करके, उसके उपदेश के अनुसार न जलाते हुए क्षीर आदि के साथ क्वाथ करे।",
+  "why": "reviewer (minor): kvāthayet is \"should boil/decoct\" (GLOSSARY: siddha = पकाया हुआ, śṛta = उबाला हुआ); पकाए differs from the earlier क्वाथ in the same sentence."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "The sentence continues in unit 47 (the accusatives are completed by 'ālocya'). Conjectural reading of 'mātrāyā na vyavasthāṃna' as 'mātrāyāḥ na vyavasthānam' (no fixed rule of dose); an alternative reading with 'na' twice cannot be excluded.",
+  "new": "The sentence continues in unit 47 (the accusatives are completed by 'ālocya'). Conjectural reading of 'mātrāyā na vyavasthāṃna' as 'mātrāyāḥ na vyavasthānam' (no fixed rule of dose); an alternative reading with 'na' twice cannot be excluded. Alternative reading of the second flag: 'vyavasthā na' (stray anusvāra) rather than 'vyavasthānam'; the print alone does not decide.",
+  "why": "reviewer (minor): A second reading is simpler to explain: \"vyavasthā na\" (drop the stray anusvāra, one edit, no transposition), giving \"mātrāyā na vyavasthā, na dehaṃ doṣaṃ ...\" Both readings should be recorded; the draft offers only vyavasthānam."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "Completes the sentence of 46: 'having considered the body, doṣa, strength, age, and place and time, one should administer the medicine'. Taken together the saying is quoted from 'some' (45). 'avacārayet' = 'should administer, apply' (OPEN wording in the glossary).",
+  "new": "Appears to complete the sentence of 46: 'having considered the body, doṣa, strength, age, and place and time, one should administer the medicine'. Taken together the saying is quoted from 'some' (45). 'avacārayet' = 'should administer, apply' (OPEN wording in the glossary).",
+  "why": "reviewer (minor): GLOSSARY: \"appears to complete\", not \"completes\"."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "जैसे सब वैद्य समझ सकेंगे, वैसे ही उपदेश दिया जाएगा।",
+  "new": "जैसे सब वैद्य समझेंगे, वैसे ही उपदेश दिया जाएगा।",
+  "why": "reviewer (minor): Modal \"सकेंगे\" (will be able) added; vijñāsyanti is \"will understand\" (GLOSSARY: no added modal verbs)."
+ }
+]
