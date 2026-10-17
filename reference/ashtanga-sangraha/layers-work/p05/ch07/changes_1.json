@@ -1,0 +1,205 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "GROUPING: continues from 2 (one sentence). Printed 'āvṛttau' is normalised to 'āvṛtau' (doubled t, as elsewhere in this book). 'bhuktadattāme' is not clear: it is taken as a compound 'eaten-given-raw'. The seven may be the five coverings (Vāta, Pitta, Kapha, over-eating, stool) plus two more (given without a meal, unripe), but that is only a guess, so the translations are hedged. The number 'seven' is stated in the text; the list is not.",
+  "new": "GROUPING: continues from 2 (one sentence). Printed 'āvṛttau' is normalised to 'āvṛtau' (doubled t, as elsewhere in this book). 'bhuktadattāme' is not clear: it is taken as a compound 'eaten-given-raw'. The seven may be the five coverings (Vāta, Pitta, Kapha, over-eating, stool) plus two more (given without a meal, unripe), but that is only a guess, so the translations are hedged. The number 'seven' is stated in the text; the list is not. Metre note: the line scans as 16 syllables as printed; reading 'abhukta-' would give 17, so the abhukta conjecture rests on sense (units 27 to 35), not on metre.",
+  "why": "reviewer (minor): Metre does not support the conjecture: as printed the line is exactly 16 syllables (ā-vṛt-tau bhuk-ta-dat-tā-me sap-ta-dhā vyā-pa-daḥ smṛ-tāḥ); 'abhuktadattāme' would make 17. The draft's reasoning (seven = five coverings + abhukta + apakva) is attractive but is not metrically confirmed, and the printed word may be a real compound or a different corruption. Keep low confidence; human decision."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "In the covering (āvṛti), and, on a conjectural reading, in 'bhukta-datta-āma' (eaten, given, raw), the mishaps (vyāpad) are remembered as sevenfold.",
+  "new": "In the covering (āvṛti), on a conjectural reading in 'bhukta-datta-āma' (eaten, given, raw), the mishaps (vyāpad) are remembered as sevenfold.",
+  "why": "reviewer (minor): 'and' is supplied: the Sanskrit has no ca between the two locatives."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "आवरण में तथा, एक अनुमानित पाठ के अनुसार, भुक्त-दत्त-आम में, व्यापदें यानी गड़बड़ियाँ सात प्रकार की स्मरण की गई हैं।",
+  "new": "आवरण में, एक अनुमानित पाठ के अनुसार भुक्त-दत्त-आम में, व्यापदें यानी गड़बड़ियाँ सात प्रकार की स्मरण की गई हैं।",
+  "why": "reviewer (minor): 'तथा' is supplied; the Sanskrit has no ca."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "By pain in the flanks and by twisting (cramp-like) pains, one should know the sneha to be covered by Vāyu (wind).",
+  "new": "By pain in the flanks and by twisting (veṣṭana, cramp-like), one should know the sneha to be covered by Vāyu (wind).",
+  "why": "reviewer (minor): 'pains' is not in the Sanskrit: veṣṭana is 'twisting'; 'cramp-like' is only a gloss."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "sneha-āvṛtam",
+  "old": "ppp. ā-√vṛ, m. acc. sg., tat-puruṣa",
+  "new": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered'; not a tat-puruṣa)",
+  "why": "reviewer (minor): 'tat-puruṣa' is wrong for the draft's own reading: with vāyunā separate, the word is 'the sneha, covered' (object + participle), not 'covered by sneha'. Inconsistent with pitta-āvṛtam (14) / ati-aśana-āvṛtam (20), where X is the coverer."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वह यानी आवृत स्नेह: स्निग्ध, खट्टे, नमकीन और गरम वालों से, रास्ना यानी सम्भवतः रास्ना नामक पौधे और पीतद्रु जिसकी पहचान विवादित है, उनके तैलों से,",
+  "new": "वह यानी आवृत स्नेह: स्निग्ध, खट्टे, नमकीन और गरम वालों से, रास्ना, जो सम्भवतः रासन नामक पौधा है, और पीतद्रु, जिसकी पहचान विवादित है, के तैलों से,",
+  "why": "reviewer (minor): Circular identification (रास्ना यानी रास्ना); and 'वालों' / 'उनके' are added words."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वह यानी आवृत स्नेह: स्निग्ध, खट्टे, नमकीन और गरम वालों से, रास्ना, जो सम्भवतः रासन नामक पौधा है, और पीतद्रु, जिसकी पहचान विवादित है, के तैलों से,",
+  "new": "वह यानी आवृत स्नेह: स्निग्ध, खट्टे, नमकीन और गरम से, रास्ना, जो सम्भवतः रासन नामक पौधा है, और पीतद्रु, जिसकी पहचान विवादित है, के तैलों से,",
+  "why": "reviewer (minor): 'वालों' is an added word; unstated nouns take the plain adjective in Hindi."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "prepared with sauvīraka (a sour fermented gruel), surā (a fermented intoxicating drink), kola (jujube), kulattha (horse gram) and yava (barley),",
+  "new": "prepared with sauvīraka (a sour fermented gruel), surā (a fermented intoxicating drink), kola (probably jujube), kulattha (horse gram) and yava (barley),",
+  "why": "reviewer (minor): Draft tags kola 'probable' but the translation is not hedged (policy: hedge when only probable)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "सौवीरक यानी खट्टी काँजी, सुरा यानी मदिरा, कोल यानी बेर, कुलत्थ यानी कुलथी और यव से साधित,",
+  "new": "सौवीरक यानी खट्टी काँजी, सुरा यानी मदिरा, कोल यानी सम्भवतः बेर, कुलत्थ यानी कुलथी और यव से साधित,",
+  "why": "reviewer (minor): Probable identification not hedged."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "sa-mūtraiḥ",
+  "old": "bahuvrīhi, n. inst. pl.",
+  "new": "bahuvrīhi, adj., m. inst. pl.",
+  "why": "reviewer (minor): Gender: the bahuvrīhi adjective agrees with nirūhaiḥ (masculine), not with neuter mūtra."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "प्यास, दाह यानी जलन, ललाई, सम्मोह यानी भ्रम, विवर्णता, तमक यानी सम्भवतः दमा नामक श्वास रोग और ज्वर से,",
+  "new": "प्यास, दाह यानी जलन, ललाई, सम्मोह यानी भ्रम, विवर्णता, तमक यानी सम्भवतः श्वास का दमा वाला प्रकार और ज्वर से,",
+  "why": "reviewer (minor): 'रोग' is added (glossary: no added रोग); the identification can be stated without it."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "sneha-āvṛtam",
+  "old": "ppp. ā-√vṛ, m. acc. sg., tat-puruṣa",
+  "new": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered'; not a tat-puruṣa)",
+  "why": "reviewer (minor): Same as unit 8: 'tat-puruṣa' does not fit 'the sneha, covered' (vāyunā-type coverer is separate: śleṣmaṇā)."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "kaṭūnām",
+  "old": "adj., n. gen. pl.",
+  "new": "adj., gen. pl.",
+  "why": "reviewer (minor): Gender given for an unstated noun (glossary: no gender for unstated nouns)."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Having known the sneha to be covered by stool, with unctuous applications and sweatings together with enemas,",
+  "new": "Having known the sneha to be covered by stool, with sneha and sweating (sveda), together with enemas,",
+  "why": "reviewer (minor): 'applications' is added; the text has sneha and sveda, not snehana/svedana."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "स्नेह को मल से आवृत जानकर, स्नेहन, स्वेदन और बस्तियों के साथ,",
+  "new": "स्नेह को मल से आवृत जानकर, स्नेह और स्वेद से, बस्तियों के साथ,",
+  "why": "reviewer (minor): स्नेहन/स्वेदन are procedure names not in the Sanskrit (sneha, sveda)."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "sneha-svedaiḥ",
+  "old": "with unctuous applications and sweatings",
+  "new": "with sneha and sweating (sveda)",
+  "why": "reviewer (minor): Same added 'applications'."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "and with nirūhas (decoction enemas) cooked with śyāmā, bilva (bael) and the rest, together with anuvāsanas (oil enemas),",
+  "new": "and with nirūhas (decoction enemas) cooked with śyāmā (identity disputed), bilva (bael) and the rest, together with anuvāsanas (oil enemas),",
+  "why": "reviewer (minor): śyāmā is tagged disputed in the gloss but the translation carries no caveat (compare pītadru in unit 9)."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और श्यामा तथा बिल्व यानी बेल आदि से सिद्ध निरूहों से, अनुवासन सहित,",
+  "new": "और श्यामा, जिसकी पहचान विवादित है, तथा बिल्व यानी बेल आदि से सिद्ध निरूहों से, अनुवासन सहित,",
+  "why": "reviewer (minor): Same: disputed identity not stated in the Hindi."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "और विधि से अच्छी तरह निकाले तथा उदावर्त को हरने वाले से भी।",
+  "new": "और विधि से अच्छी तरह निकाले तथा उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, उसे हरने वाले से भी।",
+  "why": "reviewer (minor): Bare उदावर्त; siblings (ch03 u22) give the plain-Hindi meaning, which the owner policy asks for. The identification is tagged probable in the gloss."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "ūrdhvebhyaḥ",
+  "old": "m. dat. pl.",
+  "new": "adj., dat. pl. (with khebhyaḥ)",
+  "why": "reviewer (minor): Gender given as m., but the word agrees with neuter khebhyaḥ."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "Continues 27 and 28 (the sneha that runs up). The printed 'kāryaṃ' (to be done) does not fit; 'kāyāt' is a guess, so the translations are hedged and the unit is low confidence. 'khebhya' is 'khebhyaḥ' (visarga lost before the vowel of 'etya'), the upper orifices (kha) being the openings of the head such as mouth and nostrils (not stated in the line). 'api' = also.",
+  "new": "Continues 27 and 28 (the sneha that runs up). The printed 'kāryaṃ' (to be done) does not fit; 'kāyāt' is a guess, so the translations are hedged and the unit is low confidence. 'khebhya' is 'khebhyaḥ' (regular sandhi before 'eti'; not a misprint), the upper orifices (kha) being the openings of the head such as mouth and nostrils (not stated in the line). 'api' = also.",
+  "why": "reviewer (minor): 'khebhya etyapi' is regular sandhi (-aḥ + e gives -a e); it is not a lost visarga or a misprint."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "yava-kola-kulattha-vān",
+  "old": "bahuvrīhi, m. nom. sg.",
+  "new": "m. nom. sg., possessive suffix -vat",
+  "why": "reviewer (minor): -vat is the possessive (matup) suffix, not a bahuvrīhi."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "cooked with urine, śyāmā and trivṛt (turpeth), having yava (barley), kola (jujube) and kulattha (horse gram),",
+  "new": "cooked with urine, śyāmā and trivṛt (turpeth), having yava (barley), kola (probably jujube) and kulattha (horse gram),",
+  "why": "reviewer (minor): Probable identification not hedged."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, यव, कोल यानी बेर और कुलत्थ यानी कुलथी वाला,",
+  "new": "मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, यव, कोल यानी सम्भवतः बेर और कुलत्थ यानी कुलथी वाला,",
+  "why": "reviewer (minor): Probable identification not hedged."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "cooked with urine, śyāmā and trivṛt (turpeth), having yava (barley), kola (probably jujube) and kulattha (horse gram),",
+  "new": "cooked with urine, śyāmā (identity disputed) and trivṛt (turpeth), having yava (barley), kola (probably jujube) and kulattha (horse gram),",
+  "why": "reviewer (minor): Disputed identity not carried into the translation."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, यव, कोल यानी सम्भवतः बेर और कुलत्थ यानी कुलथी वाला,",
+  "new": "मूत्र, श्यामा, जिसकी पहचान विवादित है, और त्रिवृत् यानी निशोथ से सिद्ध, यव, कोल यानी सम्भवतः बेर और कुलत्थ यानी कुलथी वाला,",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "उसी में सिद्ध तैल वाला निरूह यानी काढ़े की बस्ति, अनुवासन सहित, देना चाहिए।",
+  "new": "उसमें सिद्ध तैल वाला निरूह यानी काढ़े की बस्ति, अनुवासन सहित, देना चाहिए।",
+  "why": "reviewer (minor): 'उसी' (the very) adds emphasis; tat is plain 'that'."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "और उल्टी को नष्ट करने वाली क्रियाओं से उसका निवर्तन यानी लौटाना करे।",
+  "new": "और उल्टी को नष्ट करने वाली क्रियाओं से उसका निवर्तन करे, यानी उसे लौटाए।",
+  "why": "reviewer (minor): Ungrammatical Hindi ('लौटाना करे')."
+ }
+]
