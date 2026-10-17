@@ -12,7 +12,7 @@ AUTHORED["105"] = {
                "'Halo of sun and moon' is one reading; the compound could also be read as three items. "
                "The verb in line 2 is carried over from line 1."),
     "explain_hi": ("यह श्लोक बताता है कि दूसरे को क्या ‘निवेदित’ (दिखाया या बताया) नहीं करना चाहिए। पहली पंक्ति में पिलाती हुई या चरती हुई गाय है। "
-                   "दूसरी पंक्ति में, ‘च’ के साथ, सूर्य-चंद्र का परिवेश, उल्का और इंद्रधनुष (शतक्रतु के धनुष) जुड़ते हैं। "
+                   "दूसरी पंक्ति में, ‘च’ के साथ, सूर्य-चंद्र का परिवेश, उल्का और इंद्रधनुष (शतक्रतु, यानी इंद्र, के धनुष) जुड़ते हैं। "
                    "क्रिया ‘निवेदयेत्’ पहली पंक्ति में है और दूसरी पंक्ति की वस्तुओं पर भी चलती है। "
                    "श्लोक कोई कारण या फल नहीं बताता, इसलिए कारण पर प्रश्न नहीं बने।"),
     "hook": "गाय (पिलाती/चरती), परिवेश, उल्का, इंद्रधनुष — दूसरे को न दिखाए।",
@@ -35,16 +35,16 @@ AUTHORED["105"] = {
         mcq("extend", 2, "Which is the right split of नान्यस्मै?",
             ("न + अन्यस्मै",
              "न + अ gives ना: the two short a-sounds join into a long ā."),
-            [("ना + अन्यस्मै", "That would have a long ā already and would give नान्यस्मै only by dropping a letter."),
+            [("ना + अन्यस्मै", "The card's word split has न (not) and अन्यस्मै; ना is not a word in this line."),
              ("न + आन्यस्मै", "आन्यस्मै is not a word in this line."),
              ("नान् + यस्मै", "Neither part is a word here.")],
             "नान्यस्मै is न (not) + अन्यस्मै (to another): अ + अ → आ.",
             "अ + अ → आ: न + अन्यस्मै = नान्यस्मै.",
             teaches="When न meets a word beginning with short अ, the two join as ना (न + अन्य = नान्य)."),
-        order(3, "Put the items of line 2 in the order of the verse.",
-              ["सूर्य-चंद्र का परिवेश", "उल्का", "शतक्रतु के धनुष (इंद्रधनुष)"],
-              "Line 2 runs: halo of sun and moon, meteor, Indra's bows.",
-              "परिवेश · उल्का · शतक्रतु-धनुष.", role="discriminate"),
+        order(3, "Put these three in the order in which the verse names them.",
+              ["पिलाती या चरती गाय", "उल्का", "शतक्रतु के धनुष (इंद्रधनुष)"],
+              "The verse names the cow first (line 1), then, in line 2, the meteor and then Indra's bows.",
+              "गाय · उल्का · शतक्रतु-धनुष.", role="discriminate"),
         multi("apply", 4, "Which of these are named in line 2 of the unit?",
               [("the halo of sun and moon", "Right: it opens line 2."),
                ("a meteor (उल्का)", "Right: it is the second item."),
@@ -136,7 +136,8 @@ AUTHORED["107"] = {
     "rule": ("One should not reveal one's birth-ascendant, birth-star and best of wealth, the fault in the house, "
              "one's own insult, or the lack of affection of one's master."),
     "limits": ("The verb 'prakāśayet' (should reveal) stands in line 2 and governs line 1 as well. 'Best of wealth' is a loose phrase. "
-               "The verse gives no reason and does not say to whom one should not reveal."),
+               "The verse gives no reason and does not say to whom one should not reveal. "
+               "'Apamāna' is read as one's own insult; the verse does not say whose."),
     "explain_hi": ("यह श्लोक ‘प्रकाशयेत्’ (प्रकट करे) की क्रिया से चलता है, जो दूसरी पंक्ति में है और पहली पंक्ति की वस्तुओं पर भी लगती है। "
                    "न प्रकट करे: अपना जन्म-लग्न, जन्म-नक्षत्र और धन का सार; घर का दोष; अपना अपमान; और स्वामी की निःस्नेहता। "
                    "‘नात्मनो’ में न + आत्मनः है: अ + आ → आ, और विसर्ग घोष व्यंजन (ज) से पहले ओ बन गया। "
@@ -145,7 +146,7 @@ AUTHORED["107"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "What does the verse say one should not do with one's own insult (अपमान)?",
+            "What does the verse say one should not do with an insult (अपमान)?",
             ("Reveal it",
              "प्रकाशयेत् is 'should reveal'; with न it is a prohibition."),
             [("Avenge it", "Nothing about revenge is said."),
@@ -160,26 +161,26 @@ AUTHORED["107"] = {
         match(2, "Match each word to its meaning.",
               [["मलं", "fault, impurity"], ["अपमानं", "insult, dishonour"],
                ["निःस्नेहतां", "lack of affection"], ["प्रभोः", "of the master"]],
-              "These four words name the last three items.",
+              "Three of these words name items of the verse; the fourth names the master.",
               "मल = fault; अपमान = insult; निःस्नेहता = lack of affection; प्रभोः = of the master.",
               role="extend", teaches="मल, अपमान, निःस्नेहता name the faults; प्रभोः (of the master) ends in the 'of' form of a word in -उ."),
         mcq("discriminate", 3,
             "Why does नात्मनो end in -ओ, from न + आत्मनः?",
-            ("A visarga after अ becomes ओ before a voiced sound (here ज of जन्म)",
+            ("Visarga after अ becomes ओ before ज",
              "आत्मनः + जन्म: अः before the voiced ज turns into ओ."),
-            [("अ + अ gives ओ", "अ + अ gives आ, not ओ."),
-             ("न always becomes नो before a vowel", "न does not change like this."),
-             ("The word is a dual", "The ending shows a case, not a dual.")],
+            [("Two short अ sounds join to give ओ here", "अ + अ gives आ, not ओ."),
+             ("न always changes to नो before a vowel", "न does not change like this."),
+             ("The ending marks a dual number of the noun", "The ending shows a case, not a dual.")],
             "आत्मनः before जन्म- (a voiced sound) loses its visarga and gets ओ: आत्मनो.",
             "अः + voiced sound → ओ."),
         multi("apply", 4, "Which of these does the verse say one should not reveal?",
               [("the fault in the house", "Right: गृहे मलं."),
-               ("one's own insult", "Right: अपमानं."),
+               ("an insult", "Right: अपमानं."),
                ("the master's lack of affection", "Right: निःस्नेहतां प्रभोः."),
-               ("the master's wealth", "The wealth is one's own (not the master's)."),
+               ("the master's age", "The master's age is not in the verse."),
                ("a neighbour's quarrel", "Not in the verse.")],
               [0, 1, 2],
-              "The verse names the house fault, the insult and the master's lack of affection; the master's wealth and a neighbour's quarrel are not there.",
+              "The verse names the house fault, the insult and the master's lack of affection; the master's age and a neighbour's quarrel are not there.",
               "Not to reveal: गृहे मल, अपमान, प्रभु की निःस्नेहता."),
         mcq("transfer", 5,
             "By the model प्रभोः (of the master, from प्रभु), what is of the teacher, for गुरु?",
@@ -215,7 +216,7 @@ AUTHORED["108"] = {
             ("Dust",
              "रज (dust) is the third item of line 1."),
             [("Rain", "Rain is not named."),
-             ("Fog", "Fog is not named."),
+             ("Thunder", "Thunder is not named."),
              ("Lightning", "Lightning is not named.")],
             "Line 1 names front or east wind, sun-heat, dust, frost and harsh winds.",
             "Line 1: पुरोवात, आतप, रज, तुषार, परुष अनिल."),
@@ -263,13 +264,13 @@ AUTHORED["108"] = {
 # ---------------------------------------------------------------- unit 109
 AUTHORED["109"] = {
     "title": "सशब्दमनिलं हस्तभ्रूनेत्र",
-    "question": "What five items does this open list contain?",
-    "rule": ("An open list with no verb of its own: noisy wind (flatus), talk with tossing of hands, brows and eyes, "
+    "question": "What does this open list contain?",
+    "rule": ("An open list with no verb of its own: noisy wind, talk with tossing of hands, brows and eyes, "
              "shade on a riverbank, drinking liquor, and beasts of prey, fanged and horned animals."),
-    "limits": ("No verb here: the governing verb is in unit 112. 'Kūlecchāyāṃ' may be kūle + chāyāṃ or kūla-cchāyāṃ (same sense). "
-               "'Vyāla' is a beast of prey (or a snake); the last word's ending is read as plural but could be singular of another case. "
-               "Nothing is asked about these points."),
-    "explain_hi": ("यह भी बिना क्रिया की सूची है; इसकी क्रिया इकाई ११२ में आती है। पाँच बातें हैं: आवाज़ वाली वायु; हाथ, भौंह और आँखें उछालते हुए बोलना; "
+    "limits": ("No verb here: the governing verb is in unit 112. 'Kūlecchāyāṃ' may be kūle + chāyāṃ or kūla-cchāyāṃ. "
+               "'Vyāla' is a beast of prey (or a snake). Nothing is asked about these. "
+               "'Saśabdam anilam' is wind with sound; tradition reads it as flatus, but the verse does not say so."),
+    "explain_hi": ("यह भी बिना क्रिया की सूची है; इसकी क्रिया इकाई ११२ में आती है। ये बातें हैं: आवाज़ वाली वायु; हाथ, भौंह और आँखें उछालते हुए बोलना; "
                    "नदी-तट की छाया; मदिरापान; और हिंसक पशु, दाढ़ों वाले तथा सींगों वाले प्राणी। "
                    "‘दंष्ट्रिन्’ और ‘विषाणिन्’ में -इन् का अर्थ ‘वाला’ है (दाढ़ वाला, सींग वाला)। श्लोक सूची के आगे कुछ नहीं कहता।"),
     "hook": "शब्द-वायु · हाथ-भौंह-आँख उछालकर बोलना · तट की छाया · मदिरा · हिंसक, दाढ़ी और सींग वाले प्राणी।",
@@ -284,7 +285,7 @@ AUTHORED["109"] = {
              ("Singing aloud", "Singing is not named.")],
             "Line 2 names shade on a riverbank, drinking liquor, and beasts of prey, fanged and horned animals.",
             "Line 2: कूले छाया, सुरापान, व्याल-दंष्ट्रि-विषाणिनः."),
-        order(1, "Put the five items of the list in the order of the verse.",
+        order(1, "Put the items of the list in the order of the verse.",
               ["आवाज़ वाली वायु", "हाथ-भौंह-आँख उछालकर बोलना", "नदी-तट की छाया", "मदिरापान", "हिंसक, दाढ़ वाले और सींग वाले प्राणी"],
               "Line 1: noisy wind, talk with tossing. Line 2: bank shade, liquor, beasts.",
               "सशब्द वायु · उत्क्षेपवादिता · कूले छाया · सुरापान · व्याल-दंष्ट्रि-विषाणिन्."),
@@ -303,7 +304,7 @@ AUTHORED["109"] = {
             "The word joins the three parts of the body with उत्क्षेप (tossing) and वादिता (talking).",
             "हस्त-भ्रू-नेत्र-उत्क्षेप-वादिता = talk with tossing of hands, brows, eyes."),
         multi("apply", 4, "Which of these are named in the list of this unit?",
-              [("noisy wind (flatus)", "Right: सशब्दमनिलं."),
+              [("noisy wind", "Right: सशब्दमनिलं."),
                ("drinking liquor", "Right: सुरापानं."),
                ("fanged animals", "Right: दंष्ट्रिन् is in the last word."),
                ("shade of a forest tree", "The verse speaks of shade on a riverbank, not a forest tree."),
@@ -312,7 +313,7 @@ AUTHORED["109"] = {
               "The list has noisy wind, liquor and fanged animals; the forest-tree shade and the quiet breeze are wrong.",
               "In the list: सशब्द वायु, सुरापान, दंष्ट्रिन्."),
         mcq("transfer", 5,
-            "By the model दंष्ट्रिन् (fanged, from दंष्ट्रा, fang), what does an invented केशिन् mean?",
+            "By the model दंष्ट्रिन् (fanged, from दंष्ट्रा, fang), what does केशिन् (from केश, hair) mean?",
             ("having hair",
              "-इन् added to a noun means 'having that noun'."),
             [("without hair", "Without is expressed by a negative word, not by -इन्."),
@@ -330,8 +331,8 @@ AUTHORED["110"] = {
     "question": "What does this open list contain?",
     "rule": ("An open list with no verb of its own: serving the low, the ignoble and the over-clever; strife with superiors; "
              "and, at the twilights, eating, women, sleep, study and thinking."),
-    "limits": ("No verb here: the governing verb is in unit 112. 'Strī' is literally 'women'; the book reads it as union with women, "
-               "so no question rests on it. The verse does not say why these are listed."),
+    "limits": ("No verb here: the governing verb is in unit 112. 'Strī' is literally 'women'; the book reads it as union with women. "
+               "The order question uses स्त्री only as a label; its sense is not tested. The verse gives no reason."),
     "explain_hi": ("यह बिना क्रिया की सूची है; क्रिया इकाई ११२ में है। पहली पंक्ति में: नीच, अनार्य और अति-चतुर लोगों की सेवा, तथा श्रेष्ठ जनों से कलह। "
                    "दूसरी पंक्ति में ‘संध्यासु’ (संध्याओं में) के बाद पाँच नाम हैं: अभ्यवहार (भोजन), स्त्री, स्वप्न (नींद), अध्ययन और चिंतन। "
                    "‘संध्यास्वभ्यवहार’ में संध्यासु + अभ्यवहार है: उ + भिन्न स्वर → व्। इनके कारण या फल श्लोक में नहीं हैं।"),
@@ -340,8 +341,8 @@ AUTHORED["110"] = {
     "questions": [
         mcq("pretest", 0,
             "With whom does the list name strife (विग्रह)?",
-            ("With superiors (उत्तमैः)",
-             "विग्रहमुत्तमैः: strife with the best, the superiors."),
+            ("With superiors",
+             "विग्रहमुत्तमैः: strife with the best, the superiors (उत्तमैः)."),
             [("With servants", "Servants are not named."),
              ("With neighbours", "Neighbours are not named."),
              ("With relatives", "Relatives are not named.")],
@@ -418,7 +419,7 @@ AUTHORED["111"] = {
         mcq("extend", 2, "Which is the right split of तोयाग्नि-?",
             ("तोय + अग्नि",
              "अ + अ joins as आ."),
-            [("तोया + अग्नि", "That would already have a long आ before the join."),
+            [("तोया + अग्नि", "The card's split has तोय with short अ; तोया is not the member here."),
              ("तोय + आग्नि", "आग्नि is not a word."),
              ("तोयाग् + नि", "Neither part is a word.")],
             "तोय (water) + अग्नि (fire): अ + अ → आ.",
@@ -472,7 +473,7 @@ AUTHORED["112"] = {
             ("Trust and independence towards women",
              "विस्रंभस्वातंत्र्ये स्त्रीषु: trust and independence towards women."),
             [("Anger and pride", "These are not named."),
-             ("Sleep and food", "These are not named in this unit."),
+             ("Gambling and hunting", "These are not named."),
              ("Travel and trade", "These are not named.")],
             "Line 1 has two objects of त्यजेत्: excessive attachment to liquor, and trust and independence towards women.",
             "त्यजेत्: मद्यातिसक्ति; स्त्रीषु विस्रंभ-स्वातंत्र्य."),
@@ -480,23 +481,23 @@ AUTHORED["112"] = {
               ["मद्यातिसक्तिं", "विस्रंभस्वातंत्र्ये", "स्त्रीषु च", "त्यजेत्"],
               "Line 1 runs: मद्यातिसक्तिं | विस्रंभस्वातंत्र्ये | स्त्रीषु च | त्यजेत्.",
               "मद्य · विस्रंभ-स्वातंत्र्य · स्त्रीषु · त्यजेत्."),
-        fill(2, "The verb meaning 'should avoid' in line 1 is ____ (type it in Devanagari or in English letters, e.g. tyajet).",
-             accepts("त्यजेत्"),
+        fill(2, "The verb meaning 'should avoid' in line 1 is ____ (type it in Devanagari or in English letters).",
+             accepts("त्यजेत्", "tyajet", "त्यजेत"),
              "त्यजेत् is the optative of √त्यज्, 'give up, avoid'.",
              "त्यजेत् = should avoid, give up.",
              "त्यजेत् = should avoid (from √त्यज्)."),
         match(3, "Match each word to its meaning.",
-              [["त्यजेत्", "should avoid"], ["अधिवसेत्", "should dwell in"],
+              [["विस्रंभ", "trust"], ["अधिवसेत्", "should dwell in"],
                ["वास्तु", "building site, dwelling"], ["गर्हित", "condemned"]],
-              "The two verbs and two key words of the unit.",
-              "त्यजेत् = should avoid; अधिवसेत् = should dwell in; वास्तु = dwelling site; गर्हित = condemned.",
+              "One key word of line 1, and the verb and two key words of line 2.",
+              "विस्रंभ = trust; अधिवसेत् = should dwell in; वास्तु = dwelling site; गर्हित = condemned.",
               role="discriminate"),
         mcq("apply", 4, "Which reading of line 2 is right?",
-            ("One should not live even one day in a site condemned by its treatise",
+            ("Not even one day in a site its treatise condemns",
              "नैकाहमपि अधिवसेत् वास्तु तच्छास्त्रगर्हितम्."),
-            [("One may live there for one day only", "अपि with न means not even one day."),
-             ("One should live in a site praised by its treatise", "The treatise condemns it (गर्हित)."),
-             ("One should build a site for a single day", "Building is not in the line.")],
+            [("One may live there for one day only, not longer", "अपि with न means not even one day."),
+             ("One should live in a site that its treatise praises", "The treatise condemns it (गर्हित)."),
+             ("One should build a new site for a single day only", "Building is not in the line.")],
             "न + एकाहम् + अपि + अधिवसेत्: not even for one day should one dwell.",
             "Not even one day in a condemned site."),
         mcq("transfer", 5,
@@ -521,9 +522,9 @@ AUTHORED["113"] = {
     "limits": ("The verb 'adhivaset' is carried over from unit 112. 'Upasṛṣṭa' means afflicted; the verse does not say by what. "
                "The verse gives no reason and does not say what a mountain region lacks."),
     "explain_hi": ("क्रिया ‘अधिवसेत्’ (रहे) इकाई ११२ से चली आती है। छह तरह के स्थान गिनाए गए हैं जहाँ न रहे: रोगों से भरा देश; वैद्य के बिना; नायक के बिना; "
-                   "जहाँ अधर्मी लोग अधिक हों; उपद्रव से ग्रस्त; और पर्वतीय स्थान। ‘अवैद्य’, ‘अनायक’ में ‘अ-’ का अर्थ ‘के बिना’ है (बहुव्रीहि)। "
+                   "जहाँ अधर्मी लोग अधिक हों; पीड़ित (ग्रस्त); और पर्वतीय स्थान। ‘अवैद्य’, ‘अनायक’ में ‘अ-’ का अर्थ ‘के बिना’ है (बहुव्रीहि)। "
                    "‘नाप्यनायकं’ = न + अपि + अनायकम्। श्लोक कारण नहीं देता।"),
-    "hook": "रोगबहुल · वैद्यहीन · नायकहीन · अधर्मी-बहुल · उपद्रवग्रस्त · पर्वत — इन देशों में न रहे।",
+    "hook": "रोगबहुल · वैद्यहीन · नायकहीन · अधर्मी-बहुल · पीड़ित-ग्रस्त · पर्वत — इन देशों में न रहे।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -564,7 +565,7 @@ AUTHORED["113"] = {
               "Disease-ridden, physician-less and mountain regions are named; desert and coast are not.",
               "Named: व्याधिबहुल, अवैद्य, पर्वत."),
         mcq("transfer", 5,
-            "By the model अवैद्य (without a physician), what does an invented अधन mean?",
+            "By the model अवैद्य (without a physician), what does अधन (from धन, wealth) mean?",
             ("without wealth",
              "अ- at the start of a describing word means 'without'."),
             [("full of wealth", "That would be the opposite."),
@@ -618,7 +619,7 @@ AUTHORED["114"] = {
               "Four words of the unit.",
               "प्राज्य = abundant; अंबु = water; समित् = kindling stick; मंडिते = adorned.",
               role="discriminate"),
-        multi("apply", 4, "Which of these are said to be abundant in the place one should dwell?",
+        multi("apply", 4, "By the card's reading of प्राज्य, which of these are said to be abundant where one should dwell?",
               [("water", "Right: अंबु."),
                ("kindling sticks", "Right: समित्."),
                ("grass", "Right: तृण."),
@@ -644,7 +645,7 @@ AUTHORED["114"] = {
 AUTHORED["115"] = {
     "title": "शास्त्राणां चाजिगुप्सकः",
     "question": "What should one be, or not be, towards siddhas, treatises, the triad and people?",
-    "rule": ("One should be not scornful of the siddhas and of the treatises, and be a cultivator of the trivarga (the triad) "
+    "rule": ("One should not be scornful of the siddhas and of the treatises, and be a cultivator of the trivarga (the triad) "
              "and, as is fitting, of people."),
     "limits": ("The first word of line 1 is a damaged print (narāmasrāṇām); the edited reading 'men and gods' is only a suggestion, "
                "so nothing is asked about it. The verse does not name the three members of the trivarga."),
@@ -655,7 +656,7 @@ AUTHORED["115"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "The unit says one should be not scornful of the siddhas and of what else?",
+            "Which of these is named, with the siddhas, as not to be scorned?",
             ("The treatises (शास्त्र)",
              "सिद्धानां शास्त्राणां च अजिगुप्सकः."),
             [("The kings", "Kings are not named."),
@@ -695,7 +696,7 @@ AUTHORED["115"] = {
             ("अनिंदकः",
              "Put अ- before a consonant to say 'not'."),
             [("नानिंदकः", "ना is not a prefix of this kind."),
-             ("निरिंदकः", "निर् means 'out of, without', not plain 'not'."),
+             ("सुनिंदकः", "सु- means 'good, well', not 'not'."),
              ("अंनिंदकः", "A nasal is not added.")],
             "जिगुप्सक → अजिगुप्सक; निंदक → अनिंदक.",
             "अ- + consonant word = not.",
@@ -706,16 +707,16 @@ AUTHORED["115"] = {
 # ---------------------------------------------------------------- unit 116
 AUTHORED["116"] = {
     "title": "दश धर्मपथान् रक्षन्",
-    "question": "Which six sinful acts does line 2 list?",
+    "question": "Which six items does line 2 list?",
     "rule": ("Line 2 begins a list: violence, theft, wrong desire, slander, harsh speech and falsehood. "
              "The list goes on in unit 117."),
     "limits": ("The second half of line 1 has a doubtful print (jayennābhyantarān), so nothing is asked about it. "
                "The verse does not say here that the list has ten items or how they group; unit 117 completes it. "
                "'Anyathākāma' is literally desire otherwise (than proper)."),
     "explain_hi": ("पहली पंक्ति के बाद के अंश (‘जयेन्नाभ्यन्तरान्’) का पाठ संदिग्ध है, इसलिए उस पर प्रश्न नहीं बना। दूसरी पंक्ति सूची शुरू करती है: "
-                   "हिंसा, स्तेय (चोरी), अन्यथाकाम (अनुचित कामना), पैशुन्य (चुगली), परुष (कठोर वाणी) और अनृत (असत्य)। "
+                   "हिंसा, स्तेय (चोरी), अन्यथाकाम (अनुचित कामना), पैशून्य (चुगली), परुष (कठोर वाणी) और अनृत (असत्य)। "
                    "सूची अगली इकाई में पूरी होती है। ‘हिंसास्तेयान्यथाकामं’ में स्तेय + अन्यथा → स्तेयान्यथा (अ + अ → आ)।"),
-    "hook": "हिंसा · स्तेय · अन्यथाकाम · पैशुन्य · परुष · अनृत — सूची आगे चलती है।",
+    "hook": "हिंसा · स्तेय · अन्यथाकाम · पैशून्य · परुष · अनृत — सूची आगे चलती है।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -734,7 +735,7 @@ AUTHORED["116"] = {
         mcq("extend", 2, "Which is the right split of परुषानृतं?",
             ("परुष + अनृतं",
              "अ + अ joins as आ: two items, harsh speech and falsehood."),
-            [("परुषा + अनृतं", "That would already have a long आ in the first part."),
+            [("परुषा + अनृतं", "The card's split has परुष (short अ) + अनृतं; परुषा is not the member here."),
              ("परु + षानृतं", "Neither part is a word."),
              ("परुष + आनृतं", "आनृतं is not a word here.")],
             "परुष (harsh speech) + अनृत (falsehood): अ + अ → आ.",
@@ -751,9 +752,9 @@ AUTHORED["116"] = {
                ("falsehood", "Right: अनृत."),
                ("harsh speech", "Right: परुष."),
                ("gambling", "Gambling is not named."),
-               ("greed", "Greed is not named in this line.")],
+               ("drinking liquor", "Drinking liquor is not named in this line.")],
               [0, 1, 2],
-              "Theft, falsehood and harsh speech are in the list; gambling and greed are not.",
+              "Theft, falsehood and harsh speech are in the list; gambling and drinking liquor are not.",
               "Line 2 includes स्तेय, परुष, अनृत."),
         mcq("transfer", 5,
             "By the rule of परुषानृतं, how is सत्य + अर्थ joined?",
@@ -800,7 +801,7 @@ AUTHORED["117"] = {
              "अ + आ joins as आ."),
             [("संभिन्ना + लापं", "लापं is not the word meant here."),
              ("सं + भिन्नालापं", "भिन्नालापं is not a word here."),
-             ("संभिन्न + अलापं", "The word is आलाप with a long आ.")],
+             ("संभिन्न + अलापं", "Both splits join to the same letters, but the card's word is आलाप (talk), not अलाप.")],
             "संभिन्न (incoherent) + आलाप (talk): अ + आ → आ.",
             "अ + आ → आ.",
             teaches="Short अ + आ joins as आ (संभिन्न + आलाप = संभिन्नालाप)."),
@@ -814,17 +815,17 @@ AUTHORED["117"] = {
               [("malice", "Right: व्यापाद."),
                ("covetousness", "Right: अभिध्या."),
                ("wrong view", "Right: दृग्विपर्यय."),
-               ("anger", "Anger is not named."),
+               ("gambling", "Gambling is not named."),
                ("pride", "Pride is not named.")],
               [0, 1, 2],
-              "Malice, covetousness and wrong view are in line 1; anger and pride are not.",
+              "Malice, covetousness and wrong view are in line 1; gambling and pride are not.",
               "Line 1: संभिन्नालाप, व्यापाद, अभिध्या, दृग्विपर्यय."),
         mcq("transfer", 5,
             "By the model दशधा (tenfold), what is fivefold, for पञ्च?",
             ("पञ्चधा",
              "-धा after a number means 'in that many ways'."),
             [("पञ्चतः", "-तः means 'from'."),
-             ("पञ्चमम्", "-मम् makes 'fifth'."),
+             ("पञ्चम", "-म makes 'fifth'."),
              ("पञ्चदश", "This is 'fifteen'.")],
             "दश → दशधा (tenfold); पञ्च → पञ्चधा (fivefold).",
             "number + धा = so many-fold.",
@@ -845,7 +846,7 @@ NOTES_HI = {
     "114": "विश्वास: मध्यम। ‘प्राज्य’ पूरे सप्तमी-द्वन्द्व से जुड़ा लिया गया है। ‘समित्’ = यज्ञ की समिधा। ‘सुभिक्षक्षेमरम्यांते’ बहुव्रीहि है (जिसका आसपास अन्न-समृद्ध, सुरक्षित, रमणीय है); ‘रमणीय सीमा पर’ भी पढ़ा जा सकता है। संधि जाँची: पंडितैः + मंडिते → पंडितैर्मंडिते (विसर्ग → र् घोष से पहले); वसेत् + प्राज्य → वसेत्प्राज्य।",
     "115": "विश्वास: मध्यम। ‘नरामस्राणां’ शब्द नहीं है; सुझाव ‘नरामराणां’ (मनुष्यों और देवों का) केवल अनुमान है, इसलिए उस पर प्रश्न नहीं बना। ‘त्रिवर्ग’ परंपरा से धर्म-अर्थ-काम है, पर श्लोक नाम नहीं देता। संधि जाँची: च + अजिगुप्सकः → चाजिगुप्सकः; आराधकः + त्रिवर्गस्य → आराधकस्त्रिवर्गस्य (विसर्ग + त्र → स्त्र)।",
     "116": "विश्वास: मध्यम। ‘जयेन्नाभ्यन्तरानरीन्’ में न् संभवतः अनावश्यक अक्षर है (सुझाव ‘जयेदाभ्यन्तरान्’); इसलिए पहली पंक्ति के उस भाग पर प्रश्न नहीं बना। दूसरी पंक्ति से दस पापकर्मों की सूची शुरू होती है, जो इकाई ११७ में पूरी होती है; ३+४+३ का समूह श्लोक नहीं कहता। संधि जाँची: स्तेय + अन्यथा → स्तेयान्यथा; परुष + अनृत → परुषानृत।",
-    "117": "विश्वास: उच्च। इस इकाई में इकाई ११६ की सूची पूरी होती है (दस: हिंसा, स्तेय, अन्यथाकाम, पैशुन्य, पारुष्य, अनृत, संभिन्नालाप, व्यापाद, अभिध्या, दृग्विपर्यय)। यह इकाई ११६ के साथ एक वाक्य भी पढ़ी जा सकती है। संधि जाँची: संभिन्न + आलाप → संभिन्नालाप; व्यापादम् + अभिध्याम् → व्यापादमभिध्याम्; कर्म + इति → कर्मेति (अ + इ → ए); कायवाक्-मानसैः में वाच् + मानस → वाङ्मानस (नासिक्य से पहले ङ्)।",
+    "117": "विश्वास: उच्च। इस इकाई में इकाई ११६ की सूची पूरी होती है (दस: हिंसा, स्तेय, अन्यथाकाम, पैशून्य, पारुष्य, अनृत, संभिन्नालाप, व्यापाद, अभिध्या, दृग्विपर्यय)। यह इकाई ११६ के साथ एक वाक्य भी पढ़ी जा सकती है। संधि जाँची: संभिन्न + आलाप → संभिन्नालाप; व्यापादम् + अभिध्याम् → व्यापादमभिध्याम्; कर्म + इति → कर्मेति (अ + इ → ए); कायवाक्-मानसैः में वाच् + मानस → वाङ्मानस (नासिक्य से पहले ङ्)।",
 }
 
 AIDS = {
@@ -872,11 +873,11 @@ AIDS = {
         "frame": "पहली पंक्ति: पाँच हवा-धूप की वस्तुएँ · दूसरी: छह शारीरिक क्रियाएँ (छींक से मैथुन तक) · क्रिया अगली सूचियों के बाद (इकाई ११२)।",
     },
     "109": {
-        "diagram": {"groups": [{"label": "सूची के पाँच", "items": [
+        "diagram": {"groups": [{"label": "सूची की बातें", "items": [
             "सशब्द वायु", "हाथ-भौंह-आँख उछालकर बोलना", "तट की छाया", "सुरापान", "हिंसक, दाढ़ और सींग वाले"]}]},
         "chunks": "सशब्दमनिलं हस्त- | भ्रूनेत्रोत्क्षेपवादितां ‖ कूलेच्छायां सुरापानं | व्यालदंष्ट्रिविषाणिनः।",
         "anchors": "दंष्ट्रा = दाढ़ · दंष्ट्रिन् = दाढ़ वाला · विषाण = सींग · विषाणिन् = सींग वाला · व्याल = हिंसक पशु।",
-        "frame": "पाँच बातें · कर्म-पद, क्रिया इकाई ११२ में।",
+        "frame": "ये बातें · कर्म-पद, क्रिया इकाई ११२ में।",
     },
     "110": {
         "chunks": "हीनानार्यातिनिपुणसेवां | विग्रहमुत्तमैः ‖ संध्यास्वभ्यवहार- | स्त्रीस्वप्नाध्ययनचिंतनं।",
@@ -896,7 +897,7 @@ AIDS = {
     },
     "113": {
         "diagram": {"groups": [{"label": "इन देशों में न रहे", "items": [
-            "रोगबहुल", "वैद्यरहित", "नायकरहित", "अधर्मी जन अधिक", "उपद्रवग्रस्त", "पर्वतीय"]}]},
+            "रोगबहुल", "वैद्यरहित", "नायकरहित", "अधर्मी जन अधिक", "पीड़ित-ग्रस्त", "पर्वतीय"]}]},
         "chunks": "न देशं व्याधिबहुलं | नावैद्यं नाप्यनायकं ‖ नाधर्मि जनभूयिष्ठं | नोपसृष्टं न पर्वतं।",
         "sandhi": "अ + अ → आ: न + अवैद्यं → नावैद्यं। अ + उ → ओ: न + उपसृष्टं → नोपसृष्टं।",
         "anchors": "अवैद्य = वैद्य के बिना · अनायक = नायक के बिना · उपसृष्ट = ग्रस्त · भूयिष्ठ = अधिकतर।",
@@ -924,7 +925,7 @@ AIDS = {
     "117": {
         "diagram": {"groups": [
             {"label": "पंक्ति १ की चार", "items": ["संभिन्नालाप", "व्यापाद", "अभिध्या", "दृग्विपर्यय"]},
-            {"label": "इनसे छोड़े", "items": ["काय", "वाक्", "मानस"]}]},
+            {"label": "दस प्रकार का पाप इनसे छोड़े", "items": ["काय", "वाक्", "मानस"]}]},
         "chunks": "संभिन्नालापं व्यापाद- | मभिध्यां दृग्विपर्ययं ‖ पापं कर्मेति दशधा | कायवाङ्मानसैस्त्यजेत्।",
         "sandhi": "अ + आ → आ: संभिन्न + आलाप → संभिन्नालाप। अ + इ → ए: कर्म + इति → कर्मेति।",
         "frame": "सूची पूरी (११६ से मिलकर दस) · दस तरह का पापकर्म · काय-वाक्-मानस से त्यजेत्।",
@@ -941,7 +942,7 @@ IMAGE_SPECS = {
     },
     ("109", "diagram"): {
         "file": "ch3b09-list-109.svg",
-        "alt": "Mind map: the five items of the list: noisy wind, talk with tossing of hands brows and eyes, shade on a riverbank, drinking liquor, beasts of prey fanged and horned animals",
+        "alt": "Mind map: the items of the list: noisy wind, talk with tossing of hands brows and eyes, shade on a riverbank, drinking liquor, beasts of prey fanged and horned animals",
         "type": "mermaid",
         "code": ('mindmap\n  सूची\n    सशब्द वायु\n    हाथ-भौंह-आँख उछालकर बोलना\n'
                  '    तट की छाया\n    सुरापान\n    हिंसक और दाढ़-सींग वाले\n'),
@@ -951,7 +952,7 @@ IMAGE_SPECS = {
         "alt": "Mind map: six kinds of region not to live in: abounding in disease, without a physician, without a leader, mostly unrighteous people, afflicted, mountain",
         "type": "mermaid",
         "code": ('mindmap\n  न रहे\n    रोगबहुल\n    वैद्यरहित\n    नायकरहित\n'
-                 '    अधर्मी जन अधिक\n    उपद्रवग्रस्त\n    पर्वतीय\n'),
+                 '    अधर्मी जन अधिक\n    पीड़ित-ग्रस्त\n    पर्वतीय\n'),
     },
     ("114", "diagram"): {
         "file": "ch3b09-vasa-114.svg",
@@ -959,7 +960,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "श्लोक ११४: कहाँ रहे",
         "cols": [["प्रचुर (प्राज्य)", ["जल", "औषध", "समिधा", "फूल", "घास", "ईंधन"]],
-                 ["नगर", ["आसपास अन्न-समृद्ध", "सुरक्षित, रमणीय", "पंडितों से सुशोभित"]]],
+                 ["नगर", ["आसपास अन्न-समृद्ध, सुरक्षित, रमणीय", "पंडितों से सुशोभित"]]],
     },
     ("116", "diagram"): {
         "file": "ch3b09-sins-116.svg",
@@ -973,6 +974,6 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "श्लोक ११७: सूची पूरी",
         "cols": [["पंक्ति १ की चार", ["संभिन्नालाप", "व्यापाद", "अभिध्या", "दृग्विपर्यय"]],
-                 ["इनसे छोड़े", ["काय", "वाक्", "मानस"]]],
+                 ["दस प्रकार का पाप इनसे छोड़े", ["काय", "वाक्", "मानस"]]],
     },
 }
