@@ -1,0 +1,675 @@
+{
+ "units": [
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jīvādāna",
+     "problem": "jīvādāna is kept undefined; later Āyurvedic usage (and the context of blood in 77-79) takes it as severe blood loss (probable; not verified here). Owner policy wants modern readings beside the term, hedged.",
+     "fix": "Owner decision: optionally append a note \"jīvādāna is probably severe loss of blood (probable)\"; translation stays unchanged.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैद्य को",
+     "problem": "\"वैद्य को\" reads as \"to the physician\"; Sanskrit bhiṣajā is instrumental (by the physician).",
+     "fix": "वैद्य द्वारा दोनों बस्तियाँ ठंडी, मधु और शर्करा सहित दी जानी चाहिए।",
+     "severity": "error",
+     "patch": {
+      "n": "76",
+      "op": "set",
+      "field": "hindi",
+      "value": "वैद्य द्वारा दोनों बस्तियाँ ठंडी, मधु और शर्करा सहित दी जानी चाहिए।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "States \"completes the sentence\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence begun in 75",
+      "new": "GROUPING: appears to complete the sentence begun in 75"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "go'pyajā...",
+     "problem": "'go' is split off as an uninflected word (not a valid form here) and the line then has two 'api'. The token is probably corrupt (e.g. a gavya/ajā compound) or 'go' is a compound member; the draft's reading 'cow too' rests on this. Not flagged in text_flags.",
+     "fix": "Owner decision: add a text_flag (possible corruption of the first compound member, e.g. 'gavy-ajā-'), keep print, lower confidence to low.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "jīvanīya",
+     "problem": "Standard group not identified; owner policy wants useful identifications.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "append_note",
+      "text": "Identification (standard): jīvanīya is the group of ten life-promoting drugs listed in Caraka (jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka); whether this text lists the same members is not checked."
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why of first flag",
+     "problem": "Metre claim is wrong: the printed line (with dakṣa) already counts 16 syllables; with ṛkṣa (eṇarkṣa) it counts 15. So the metre does not support ṛkṣa.",
+     "fix": "Replace the why.",
+     "severity": "error",
+     "patch": {
+      "n": "78",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: 'dakṣa' is not an animal; 'ṛkṣa' (bear) fits the list of animals and the shapes ऋक्ष/दक्ष look alike in print. The metre does not decide it: the printed line is 16 syllables, with ṛkṣa (eṇarkṣa) it is 15."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनुमानित पाठ के अनुसार",
+     "problem": "The hedge sits between भालू and बिल्ली and can be read as qualifying the cat.",
+     "fix": "खरगोश, एण यानी हिरण, अनुमानित पाठ के अनुसार भालू, बिल्ली, भैंस और अन्य से उत्पन्न के रक्तों से।",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "set",
+      "field": "hindi",
+      "value": "खरगोश, एण यानी हिरण, अनुमानित पाठ के अनुसार भालू, बिल्ली, भैंस और अन्य से उत्पन्न के रक्तों से।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "States \"completes\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence of 77-78;",
+      "new": "GROUPING: appears to complete the sentence of 77-78;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "madhunailaghṛtāttrayaḥ",
+     "problem": "The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural.",
+     "fix": "Read madhu-taila-ghṛtāt trayaḥ (on a conjectural reading).",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "82",
+       "op": "set",
+       "field": "lines.0.tokens.3.words",
+       "value": [
+        {
+         "w": "madhu-taila-ghṛtāt",
+         "gloss": "from honey, oil and ghee (conjectural; printed as madhunaila-ghṛtāt)",
+         "gram": "dvandva, n. abl. sg."
+        },
+        {
+         "w": "trayaḥ",
+         "gloss": "three",
+         "gram": "m. nom. pl."
+        }
+       ]
+      },
+      {
+       "n": "82",
+       "op": "set",
+       "field": "text_flags.1",
+       "value": {
+        "src": "madhunailaghṛtāttrayaḥ",
+        "suggest": "madhutailaghṛtāt trayaḥ",
+        "why": "possible: 'madhunaila' is not clear; 'madhu-taila-ghṛtāt' (from honey, oil and ghee) keeps the 8 syllables of the printed half-line (ta/na look alike in print) and matches the ablative 'kṣīrāt'; only a conjecture"
+       }
+      },
+      {
+       "n": "82",
+       "op": "set",
+       "field": "hindi",
+       "value": "दूध से दो प्रसृत बनाने चाहिए; मधु, तेल और घी से तीन, अनुमानित पाठ के अनुसार।"
+      },
+      {
+       "n": "82",
+       "op": "set",
+       "field": "english",
+       "value": "Two prasṛtas are to be made from milk; three from honey, oil and ghee (on a conjectural reading)."
+      },
+      {
+       "n": "82",
+       "op": "replace",
+       "field": "notes",
+       "old": "Another reading: three prasṛtas made up of honey, oil and ghee (one each).",
+       "new": "The reading adopted after review is 'madhu-taila-ghṛtāt trayaḥ' (three prasṛtas from honey, oil and ghee); whether one each is not stated."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बिल्व / कुलत्थ",
+     "problem": "Plant names are given in English but not in Hindi (policy: Hindi name beside the Sanskrit term).",
+     "fix": "बिल्व यानी बेल ... कुलत्थ यानी कुलथी",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "set",
+      "field": "hindi",
+      "value": "बिल्व यानी बेल आदि की जड़ों के काढ़े से दो, कुलत्थ यानी कुलथी से दो; वह वात को जीतने वाली है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bilvādimūla",
+     "problem": "Missed useful identification.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "append_note",
+      "text": "bilvādi-mūla is probably the roots of the pañcamūla group that begins with bilva (probable; the text does not list them)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "saptacchada",
+     "problem": "saptacchada is placed in the first token's word list but belongs to the second printed token \"samacchadāṃbhasaḥ\"; the second token shows only ambhasaḥ, so its corrected word is invisible next to its flag.",
+     "fix": "Move saptacchada to the second token.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "86",
+       "op": "set",
+       "field": "lines.0.tokens.0.words",
+       "value": [
+        {
+         "w": "paṭola-nimba-bhūtīka-rāsnā",
+         "gloss": "paṭola (pointed gourd, Trichosanthes dioica; standard); nimba (neem, Azadirachta indica; standard); bhūtīka (identity disputed); rāsnā (probably Pluchea lanceolata; disputed)",
+         "gram": "dvandva, stem (members)"
+        }
+       ]
+      },
+      {
+       "n": "86",
+       "op": "set",
+       "field": "lines.0.tokens.1.words",
+       "value": [
+        {
+         "w": "saptacchada",
+         "gloss": "saptacchada (devil's tree, Alstonia scholaris; standard); printed as samacchada (see text_flags)",
+         "gram": "m. stem (last member of the dvandva)"
+        },
+        {
+         "w": "ambhasaḥ",
+         "gloss": "of water (or: from water)",
+         "gram": "n. gen./abl. sg."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bastiḥ is the subject of 88",
+     "problem": "No bastiḥ occurs in 88; the nominative bastiḥ is in 87 and the adjectives of 88 agree with it.",
+     "fix": "Reword.",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "replace",
+      "field": "notes",
+      "old": "'bastiḥ' is the subject of 88",
+      "new": "the nominative 'bastiḥ' of 87 appears to be the noun of the adjectives in 88"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "States \"completes\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence of 86-87",
+      "new": "GROUPING: appears to complete the sentence of 86-87"
+     }
+    },
+    {
+     "field": "english",
+     "where": "probably including diabetes",
+     "problem": "\"including\" is an added word; the identification should say what the term is linked to, hedged.",
+     "fix": "prameha (a group of urinary disorders; probably linked to diabetes)",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "replace",
+      "field": "english",
+      "old": "(urinary disorders, probably including diabetes)",
+      "new": "(a group of urinary disorders, probably linked to diabetes)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जिसे परम्परा से कोढ़ कहा गया",
+     "problem": "Garbled tense; reads as a fact about the text.",
+     "fix": "जिसे परम्परा से कोढ़ कहा जाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसे परम्परा से कोढ़ कहा गया",
+      "new": "जिसे परम्परा से कोढ़ कहा जाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "States \"completes\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence of 89-90",
+      "new": "GROUPING: appears to complete the sentence of 89-90"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sarpiṣaḥ",
+     "problem": "The printed sarpiṣaḥ is a valid gen./abl. sg. of a compound ending in sarpis (samāhāra-type), so \"singular\" is not an error as such; the Hindi has no \"का\" and does not match the English \"Of ...\".",
+     "fix": "Keep flag as \"possible\" only; add the genitive to the Hindi.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "मधु और घी।",
+     "problem": "Genitive missing; the Sanskrit list is genitive/ablative and the English says \"Of ...\".",
+     "fix": "... मधु और घी का।",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "set",
+      "field": "hindi",
+      "value": "पयस्या, इक्षु यानी गन्ना, स्थिरा, रास्ना, विदारी यानी विदारीकन्द, मधु और घी का।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "States \"completes\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence of 92",
+      "new": "GROUPING: appears to complete the sentence of 92"
+     }
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "amla",
+     "problem": "Counting helps the open question: with \"four\", the items taila, gomūtra, dadhimaṇḍa, amla-kāñjika give four (one each), supporting amla-kāñjika as one item.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "94",
+      "op": "append_note",
+      "text": "Counting: 'catvāraḥ' (four) matches four items if amla-kāñjika is one item (probable; one prasṛta of each is then understood but not stated)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण, दूसरी बस्ति",
+     "problem": "Word order: anyaḥ (another) and tīkṣṇaḥ (sharp) both qualify basti; Hindi order reads as if tīkṣṇa stands alone.",
+     "fix": "दूसरी, तीक्ष्ण बस्ति",
+     "severity": "minor",
+     "patch": {
+      "n": "96",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीक्ष्ण, दूसरी बस्ति",
+      "new": "दूसरी, तीक्ष्ण बस्ति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "verb",
+     "problem": "Note says the unit has no verb; vidhātavyam of 99 (neuter, agreeing with tīkṣṇatvam and mārdavam) supplies it.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "append_note",
+      "text": "Possibly the gerundive 'vidhātavyam' of 99 serves both tīkṣṇatvam here and mārdavam there."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बिल्व",
+     "problem": "Hindi name missing (English has bael; 85 and 98 should agree).",
+     "fix": "बिल्व यानी बेल",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बिल्व,",
+      "new": "बिल्व यानी बेल,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सात्म्य",
+     "problem": "Term left without gloss in Hindi although English glosses it.",
+     "fix": "सात्म्य यानी आदत से अनुकूल पड़ने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "100",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सात्म्य",
+      "new": "सात्म्य यानी आदत से अनुकूल पड़ने वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "completes 100",
+     "problem": "States \"completes\" as fact.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "101",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 100;",
+      "new": "GROUPING: appears to complete 100;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "Claim that saṃtarkya fits the metre is empty: the line is 15 syllables both as printed and with saṃtarkya.",
+     "fix": "Drop \"and metre\".",
+     "severity": "minor",
+     "patch": {
+      "n": "103",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: 'saṃtarksa' is not a form; the absolutive 'saṃtarkya' (having considered) fits the sense (kya/ksa look alike in print); the line has 15 syllables either way"
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bṛṃhaṇīyān -> viśodhanīyān",
+     "problem": "Human decision. The pairing nourishing/cleansing is odd, but the opposite conjecture is as likely: \"viśodhanīyeṣu\" could be the corrupt word (bṛṃhaṇīyeṣu, \"in diseases needing nourishing\"), and 105-107 then give who gets cleansing bastis. Translation follows print; keep low confidence.",
+     "fix": "Owner: choose print, viśodhanīyān (draft), or bṛṃhaṇīyeṣu.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "Says 105 uses \"viśodhanīya\"; 105 has viśodhya.",
+     "fix": "Correct.",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "107 and 105 use 'viśodhanīya' for the cleansing bastis",
+      "new": "107 uses 'viśodhanīya' for the cleansing bastis and 105 has 'viśodhya'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viśodhyā ye ca",
+     "problem": "Syntax ambiguity not noted: \"the fat who are to be cleansed, and men afflicted by kuṣṭha and meha\" is also possible; the English separates \"(those) to be cleansed\".",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "append_note",
+      "text": "Ambiguity: 'medasvinaḥ viśodhyāḥ' may be 'the fat who are to be cleansed', with 'ye ca narāḥ ...' a second group; the English keeps the items separate."
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वे जो",
+     "problem": "Dangling \"वे जो\" at the end is not Hindi syntax.",
+     "fix": "शोधन करने वाली बस्तियाँ दे, और वे जिनकी आयु दोषों से बँधी है।",
+     "severity": "minor",
+     "patch": {
+      "n": "107",
+      "op": "set",
+      "field": "hindi",
+      "value": "शोधन करने वाली बस्तियाँ दे, और वे जिनकी आयु दोषों से बँधी है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole unit",
+     "problem": "Human decision: the positive \"One should give cleansing (ones)\" probably contradicts the sense if 106's na governs it; the draft handled this in notes and low confidence, which is acceptable. Not patched.",
+     "fix": "Owner may add \"(taking the na of 106 with this)\" nowhere in the translation; notes are enough.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "36 units (73-108) reviewed word by word. Errors: 76 Hindi case (वैद्य को), 78 false metre argument for ṛkṣa, 82 conjecture breaks metre (madhu-taila-ghṛtāt trayaḥ proposed), 86 saptacchada attached to the wrong printed token. Rest minor: hedging of 'completes' in GROUPING notes, missing Hindi plant names (85, 98), 'including' in 88, Hindi syntax (92, 96, 107), missed identifications (jīvanīya 77, pañcamūla 85). Judgement calls left to owner: 75 jīvādāna meaning, 77 'go' split, 92 sarpiṣaḥ, 104 which word is corrupt, 107 na. No plant identification judged wrong; hedging of mūrvā, priyaṅgu, rāsnā, payasyā, sthirā is fine. No regrouping suggested; 108 is a colophon already noted.",
+ "glossary_suggestions": [
+  "prasṛta: Hindi प्रसृत, English prasṛtas (a measure of about two pala, a palmful).",
+  "OCR confusions seen in this chunk: dv as ddh (82, 85), ta as na (82), pta as ma (86), kya as ksa (103), ka as ja (89); check these first for damaged words.",
+  "jīvanīya = the Caraka group of ten drugs (standard); bilvādi-mūla probably pañcamūla (probable).",
+  "kaulattha = कुलत्थ यानी कुलथी; bilva = बिल्व यानी बेल in Hindi throughout.",
+  "GROUPING notes: use 'appears to complete/continue', never 'completes'."
+ ]
+}

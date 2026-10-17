@@ -30,3 +30,4 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 - Orthographic normalisations in `w`: vasti→basti, doubled -rtt-→-rt-; record once, no flag per use.
 - avacārayet "should apply/administer" and pāyayet "should make (him) drink" remain OPEN (owner).
 - (from ch06 k1 review) A dropped avagraha after -o (śīto 'lpa, yukto 'lpa) is two words, flagged "avagraha dropped", not a print habit. Use rundhyāt (dental n). ādhmāna is neuter. śūla in compounds = "pain". sūrvā = unidentified. Add no modal verbs or nouns in Hindi (हो, करे, गति, उपाय) where the Sanskrit has none.
+- (from ch03 k3 review) jīrṇa has two senses: "digested" (jīrṇe, jīryati, ajīrṇa = undigested) and "old/stale"; choose by context, note when ambiguous (ch03 u85 open). vibandha = constipation. Pitta/Kapha capitalised in English hyphen compounds (Pitta-destroying). śṛta = उबाला हुआ, siddha = पकाया हुआ.
