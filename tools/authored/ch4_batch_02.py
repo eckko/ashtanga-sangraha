@@ -4,7 +4,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 14
 AUTHORED["14"] = {
-    "title": "तैर्मार्गशीर्षादिभिः",
+    "title": "तैमार्गशीर्षादिभिः",
     "question": "How do the six seasons come about, and in what order are they named?",
     "rule": ("Taking the months that begin with Mārgaśīrṣa two by two, in order, "
              "there come to be six seasons: Hemanta, Śiśira, Vasanta, Grīṣma, "
@@ -53,13 +53,13 @@ AUTHORED["14"] = {
               "हेमन्त · शिशिर · वसन्त · ग्रीष्म · वर्षा · शरद.",
               role="apply"),
         mcq("transfer", 5,
-            "What does the invented phrase ग्रीष्मादिभिः मासैः mean, built like मार्गशीर्षादिभिः?",
-            ("By the months beginning with Grīṣma",
+            "What does the invented phrase वैशाखादिभिः मासैः mean, built like मार्गशीर्षादिभिः?",
+            ("By the months beginning with Vaiśākha",
              "X-आदि means beginning with X; the ending -भिः is 'by', plural."),
-            [("By the months ending with Grīṣma", "आदि means beginning, not ending."),
-             ("By Grīṣma, the only month", "आदि means 'and the rest', so there is more than one."),
-             ("Of the months beginning with Grīṣma", "-भिः is the 'by' ending, not 'of'.")],
-            "ग्रीष्म + आदि + भिः: beginning with Grīṣma, by those (months).",
+            [("By the months ending with Vaiśākha", "आदि means beginning, not ending."),
+             ("By Vaiśākha, the only month", "आदि means 'and the rest', so there is more than one."),
+             ("Of the months beginning with Vaiśākha", "-भिः is the 'by' ending, not 'of'.")],
+            "वैशाख + आदि + भिः: beginning with Vaiśākha, by those (months).",
             "X-आदि = beginning with X.",
             teaches="A compound ending in -आदि means 'beginning with X' (मार्गशीर्षादि); the ending -भिः on it means 'by' in the plural."),
     ],
@@ -119,11 +119,11 @@ AUTHORED["15"] = {
               role="apply"),
         mcq("transfer", 5,
             "In the invented line पञ्च जनाः; तेषु द्वौ गायकौ शेषा वादकाः, who are the वादकाः?",
-            ("The three of the five who are not the two singers",
+            ("The other three of the five",
              "तेषु picks the group of five; शेषाः means the remaining ones."),
-            [("The two singers themselves", "द्वौ गायकौ are the two singers; शेषाः are the others."),
-             ("All five people together", "शेषाः leaves out the ones already named."),
-             ("Some people outside the five", "तेषु means among them, so the group is the five.")],
+            [("The two singers themselves, named already", "द्वौ गायकौ are the two singers; शेषाः are the others."),
+             ("All five people together, singers too", "शेषाः leaves out the ones already named."),
+             ("Some people outside the group of five", "तेषु means among them, so the group is the five.")],
             "तेषु (among them) fixes the group; शेषाः (the remaining) are those not yet named.",
             "तेषु + named part + शेषाः = the rest of that group.",
             teaches="तेषु (among them) takes a group already named; शेषाः means all the remaining members of that group, as in the sentence 'the remaining three'."),
@@ -156,7 +156,7 @@ AUTHORED["16"] = {
         match(1, "Match each word of the sentence to its meaning.",
               [["तौ", "those two"], ["आदान", "taking-in"],
                ["विसर्ग", "release"], ["वर्ष", "year"]],
-              "These four words are the whole sentence.",
+              "These pairs give the words of the sentence; आदान and विसर्ग are the two members of one compound.",
               "तौ = those two; आदान = taking-in; विसर्ग = release; वर्ष = year."),
         fill(2, "The word for 'year' (the print has वर्ष) is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("वर्षम्", "वर्ष"),
@@ -168,13 +168,13 @@ AUTHORED["16"] = {
              "औ before a vowel becomes आव्: तौ + आ- gives ताव्-आ-."),
             [("ताव + आदानविसर्गौ", "ताव is not a word."),
              ("तु + आदानविसर्गौ", "तु would give त्वादान-, not तावादान-."),
-             ("ताः + आदानविसर्गौ", "ताः would give ता आदान- or ता रादान-, not तावादान-.")],
+             ("ताः + आदानविसर्गौ", "ताः would give ता आदान-, not तावादान-.")],
             "तौ (those two) + आदानविसर्गौ (ādāna and visarga).",
             "औ + a vowel → आव् + vowel."),
         order(4, "Put the parts of the sentence in the order of the verse.",
-              ["तौ", "आदान", "विसर्गौ", "वर्ष"],
+              ["तौ", "आदानविसर्गौ", "वर्ष"],
               "The sentence runs: those two, ādāna and visarga, a year.",
-              "तौ · आदान · विसर्गौ · वर्ष.",
+              "तौ · आदानविसर्गौ · वर्ष.",
               role="apply"),
         mcq("transfer", 5,
             "What does the invented dual compound मातापितरौ mean, built like आदानविसर्गौ?",
@@ -195,9 +195,9 @@ AUTHORED["17"] = {
     "question": "Which of the two, ādāna or visarga, is called āgneya?",
     "rule": "Of those two, ādāna is āgneya (fiery, belonging to Agni).",
     "limits": ("The verse only gives the label āgneya to ādāna; it does not say "
-               "here why. The other half, visarga, is described in the next unit."),
+               "here why. The other half, visarga, is named in unit 19 and described in unit 20."),
     "explain_hi": ("पिछली इकाई में आदान और विसर्ग मिलकर वर्ष थे। यहाँ कहा गया है कि उन दोनों में "
-                   "आदान ‘आग्नेय’ है, यानी अग्नि से संबंधित, उष्ण स्वभाव वाला। "
+                   "आदान ‘आग्नेय’ है, यानी अग्नि से संबंधित। "
                    "‘तयोः’ का अर्थ ‘उन दोनों में’ है। ‘आदानम्’ और ‘आग्नेयम्’ दोनों नपुंसक हैं, "
                    "इसलिए विशेषण संज्ञा के लिंग में चलता है। इस वाक्य में आदान के कारण की "
                    "कोई व्याख्या नहीं है।"),
@@ -291,15 +291,15 @@ AUTHORED["18"] = {
              "अ + उ joins as ओ: अत्यर्थ + उष्ण = अत्यर्थोष्ण."),
             [("अत्यर्थ + ओष्ण", "That would join as अत्यर्थौष्ण, and ओष्ण is not a word here."),
              ("अत्यर्थ + अष्ण", "अष्ण is not a word, and the उ would be lost."),
-             ("अत्यर्थे + उष्ण", "ए + उ would give अत्यर्थ्युष्ण, not अत्यर्थोष्ण.")],
+             ("अत्यर्थे + उष्ण", "ए + उ would give अत्यर्थयुष्ण, not अत्यर्थोष्ण.")],
             "अत्यर्थ (very) + उष्ण (hot): very hot.",
             "अ/आ + उ/ऊ → ओ.",
             ),
         order(4, "Put these parts of the sentence in the order of the verse.",
               ["अर्कः", "तत्संपर्काद्वायवः", "सोमजं गुणमुपशोषयंतः",
-               "जगतः स्नेहमाददानाः", "रसानभिप्रबलयंतः", "दौर्बल्यमावहंति"],
+               "जगतः स्नेहमाददानाः", "रूक्षान् रसांस्तिक्तकषायकटुकानभिप्रबलयंतः", "दौर्बल्यमावहंति"],
               "The two subjects come first, then the three things they do as participles, then the main verb: they bring weakness.",
-              "अर्कः · तत्संपर्काद्वायवः · सोमजं गुणमुपशोषयंतः · जगतः स्नेहमाददानाः · रसानभिप्रबलयंतः · दौर्बल्यमावहंति.",
+              "अर्कः · तत्संपर्काद्वायवः · सोमजं गुणमुपशोषयंतः · जगतः स्नेहमाददानाः · रूक्षान् रसांस्तिक्तकषायकटुकानभिप्रबलयंतः · दौर्बल्यमावहंति.",
               role="apply"),
         mcq("transfer", 5,
             "In the invented line बालाः गायन्तः गच्छन्ति, what does गायन्तः say, like उपशोषयन्तः?",
@@ -323,7 +323,7 @@ AUTHORED["19"] = {
                "explain it here. The word saumya can be gentle or 'of Soma'; both "
                "are kept."),
     "explain_hi": ("पिछली इकाई में आदान को आग्नेय कहा गया था। यहाँ ‘तु’ (किन्तु) के साथ बताया "
-                   "गया है कि विसर्ग सौम्य है, यानी सौम्य, सोम से संबंधित। यह एक छोटा "
+                   "गया है कि विसर्ग सौम्य है, यानी कोमल, सोम (चंद्र) से संबंधित। यह एक छोटा "
                    "वाक्य है। ‘विसर्गस्तु’ में विसर्गः का विसर्ग त से पहले स् बन गया है। "
                    "अगली इकाई इसी विसर्ग का वर्णन करती है।"),
     "hook": "आदान आग्नेय, विसर्ग तो सौम्य।",
@@ -387,7 +387,7 @@ AUTHORED["20"] = {
                    "सूर्य दक्षिणायन में है और काल-मार्ग, मेघ, वायु और वर्षा से उसका प्रभाव दब गया है; "
                    "चंद्रमा का बल अबाधित है; जगत् शीतल किरणों से निरंतर तृप्त हो रहा है और "
                    "महेन्द्र के जल से उसका ताप शांत है। तब अरूखे रस, यानी अम्ल, लवण और मधुर, "
-                   "क्रम से बढ़ते हैं और मनुष्यों का बल संचित होता है। इसका आदान वाले वाक्य "
+                   "क्रम से बढ़ते हैं और मनुष्यों का बल संचित होता है। तिक्त, कषाय और कटु इस वाक्य में नहीं हैं; वे आदान वाले वाक्य (इकाई १८) के रस हैं। इसका आदान वाले वाक्य "
                    "(इकाई १८) से उलटा चित्र है, पर श्लोक कोई सलाह नहीं देता।"),
     "hook": "विसर्ग में सूर्य दबा, चंद्र प्रबल: अम्ल-लवण-मधुर बढ़ते और बल संचित होता।",
     "core": True,
@@ -438,7 +438,7 @@ AUTHORED["20"] = {
              ("After the peacocks dance, it thunders", "The locative phrase is the circumstance, not a later event.")],
             "In the verse, locative phrases like अर्के, शशिनि, जगति give the circumstances, then the main clause follows.",
             "Locative noun + locative participle = 'when X is so'.",
-            teaches="A noun with a participle, both in the locative (सूर्य दक्षिणायनगे), sets the circumstance 'when X is so' before the main clause."),
+            teaches="A noun with a participle, both in the locative (अर्के दक्षिणायनगे), sets the circumstance 'when X is so' before the main clause."),
     ],
 }
 
@@ -458,11 +458,11 @@ AUTHORED["21"] = {
     "questions": [
         mcq("pretest", 0,
             "What does भवति चात्र do in the text?",
-            ("It introduces the verses that follow",
+            ("It leads into the verses",
              "'And on this matter there is the following': then verses come."),
-            [("It ends the chapter", "The chapter continues after this line."),
+            [("It closes the chapter here", "The chapter continues after this line."),
              ("It names a new season", "No season is named in this line."),
-             ("It gives a list of foods", "No food is named in this line.")],
+             ("It lists some foods", "No food is named in this line.")],
             "The line points ahead to what is said next.",
             "भवति चात्र = and on this there is (the following)."),
         match(1, "Match each word of the line to its meaning.",
@@ -530,7 +530,7 @@ AUTHORED["22"] = {
         match(1, "Match each word of the verse to its meaning.",
               [["मध्यम्", "middling"], ["हीनम्", "low, poor"],
                ["बलम्", "strength"], ["निदाघः", "hot season"]],
-              "These words carry the grades and the names of the second line.",
+              "These words carry the grades, the strength and a season name.",
               "मध्यम् = middling; हीनम् = low, poor; बलम् = strength; निदाघः = hot season."),
         fill(2, "The word for 'low, poor' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("हीनम्"),
@@ -579,7 +579,7 @@ AUTHORED["23"] = {
                    "‘दिगादित्याः’ आता है (दिशाएँ और सूर्य; यह पाठ संदिग्ध है)। फिर कहा गया है कि "
                    "वायु की शीतलता के कारण उत्तर रोमांच उत्पन्न करता है। श्लोक में ऋतु का नाम "
                    "नहीं है, इसलिए केवल वही कहा गया है जो पाठ में है।"),
-    "hook": "धूसर, धूल-मंद, पाले-धुँधले; शीतल वायु से उत्तर में रोमांच।",
+    "hook": "धूसर, धूल-मंद, पाले-धुँधले; वायु की शीतलता से उत्तर रोमांच उत्पन्न करता है।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -660,8 +660,8 @@ AUTHORED["24"] = {
                ["वायस", "crow"], ["सूकर", "pig"]],
               "These five of the six animal words are in the second line.",
               "गज = elephant; अज = goat; महिष = buffalo; वायस = crow; सूकर = pig."),
-        fill(2, "The word for spirited or proud (masculine plural) is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("दृप्ताः"),
+        fill(2, "The word for spirited or proud, as in the second line, is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("दृप्ताः", "दृप्ता", "दृप्त"),
              "दृप्ताः says what the six animals are.",
              "दृप्त describes the animals in the plural; the print drops the final visarga before the voiced ग.",
              "दृप्ताः = spirited, proud."),
@@ -776,8 +776,8 @@ AUTHORED["26"] = {
     "questions": [
         mcq("pretest", 0,
             "In the cold, struck by cold wind, what do the heats of the body do?",
-            ("They enter inside (विशन्तः अन्तः)",
-             "देहोष्माणः विशन्तः अन्तः: the heats of the body enter inside."),
+            ("They enter inside",
+             "देहोष्माणः विशन्तः अन्तः: the heats of the body enter inside (अन्तः)."),
             [("They leave the body", "The verse says inside, not out."),
              ("They turn cold and sink", "Nothing of the kind is in the verse."),
              ("They stay on the skin", "The verse says they go inside.")],
@@ -789,7 +789,7 @@ AUTHORED["26"] = {
                ["प्रबलम्", "strong"]],
               "These five words carry the sequence of the verse.",
               "देहोष्माणः = heats of the body; विशन्तः = entering; जठरे = in the belly; अनलम् = fire; प्रबलम् = strong."),
-        fill(2, "The word for 'fire' (accusative) in the second line is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "The word for 'fire', the thing made strong, in the second line is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("अनलम्", "ऽनलम्"),
              "अनलम् is the fire made strong, the object of कुर्वते.",
              "अनल is a word for fire; in the print the अ is the avagraha after कुर्वते.",
@@ -837,7 +837,7 @@ AUTHORED["27"] = {
                    "और ‘क्षमम्’ का कर्ता नहीं बताया गया। दूसरी पंक्ति कहती है कि ‘बृंहण’ (पोषक) "
                    "अन्न और पान का प्रयोग करे। ‘तस्य’ किसके लिए है, यह श्लोक में स्पष्ट नहीं है, "
                    "इसलिए उस पर कोई प्रश्न नहीं बना।"),
-    "hook": "विसर्ग में बलवानों के लिए … ; बृंहण अन्न-पान का प्रयोग करे (पाठ अधूरा)।",
+    "hook": "विसर्ग में बलवानों के लिए … ; दूसरी पंक्ति: बृंहण अन्न-पान का प्रयोग करे (पाठ अधूरा)।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -903,7 +903,7 @@ NOTES_HI = {
 AIDS = {
     "14": {
         "chain": {"steps": ["हेमन्त", "शिशिर", "वसन्त", "ग्रीष्म", "वर्षा", "शरद"]},
-        "chunks": "तैर्मार्गशीर्षादिभिर्द्विसंख्यैः | क्रमाद्धेमंतशिशिरवसंतग्रीष्मवर्षाशरदाख्याः | षडृतवो भवंति।",
+        "chunks": "तैमार्गशीर्षादिभिर्द्विसंख्यैः (तैर्?) | क्रमाद्धेमंतशिशिरवसंतग्रीष्मवर्षाशरदाख्याः | षडृतवो भवंति।",
         "sandhi": "षट् + ऋतवः → षडृतवः (ट् → ड् स्वर से पहले)। ऋतवः + भवंति → ऋतवो भवंति (विसर्ग → ओ, घोष से पहले)।",
         "anchors": "ऋतु = मौसम · मार्गशीर्ष = पहला मास · द्विसंख्य = दो की संख्या वाला · क्रमात् = क्रम से · आख्या = नाम।",
     },
