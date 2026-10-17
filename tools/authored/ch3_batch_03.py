@@ -17,7 +17,7 @@ AUTHORED["27"] = {
     "limits": ("The people described are not named in this unit; the next unit names those "
                "habituated to nasya. The unit says nothing about cause or treatment."),
     "explain_hi": ("यह इकाई एक वर्णन है: पहली पंक्ति में पाँच अंग गिनाए गए हैं (त्वचा, कंधे, गर्दन, मुख, छाती) "
-                   "और तीन गुण (घन, उन्नत, प्रसन्न), जो समास के आरम्भ में होने से हर अंग पर लगते हैं। "
+                   "और तीन गुण (घन, उन्नत, प्रसन्न), जिन्हें इस समास में हर अंग पर लगता हुआ पढ़ा गया है (कार्ड का पाठ)। "
                    "दूसरी पंक्ति में तीन और विशेषताएँ हैं: सुगन्धित मुख, स्निग्ध स्वर, निर्मल इन्द्रियाँ। "
                    "वर्णित लोगों का नाम इस इकाई में नहीं है; वह अगली इकाई में आता है।"),
     "hook": "पाँच अंग, तीन गुण · सुगन्धित मुख, स्निग्ध स्वर, निर्मल इन्द्रियाँ।",
@@ -38,7 +38,7 @@ AUTHORED["27"] = {
                 [["घन", "firm"], ["उन्नत", "raised"], ["प्रसन्न", "clear"], ["स्निग्ध", "smooth"]],
                 "The three qualities open the first compound; स्निग्ध belongs to the voice in line 2.",
                 "घन = firm; उन्नत = raised; प्रसन्न = clear; स्निग्ध = smooth.", role="extend"),
-          "Adjectives at the start of a bahuvrīhi compound apply to each noun that follows them."),
+          "In this compound the three qualities are read as applying to each of the five parts (the card's reading)."),
         mcq("discriminate", 3, "Which split of विमलेन्द्रियाः is right?",
             ("विमल + इन्द्रियाः", "अ + इ gives ए, so विमल + इन्द्रियाः is written विमलेन्द्रियाः: clear sense organs."),
             [("विमलि + इन्द्रियाः", "इ + इ would give ई, not ए."),
@@ -77,7 +77,7 @@ AUTHORED["28"] = {
                    "झुर्रियों, पके बालों और धब्बों से रहित हो जाते हैं (‘भवेयुः’ = हो जाएँ)। दूसरी पंक्ति केवल "
                    "सूची है: होंठ फटना, रूखापन, मुख का सूखना और दाँतों के रोग; इनकी क्रिया ‘न स्युः’ अगली इकाई "
                    "में है। ‘द्विज’ का अर्थ यहाँ दाँत है, ‘आमय’ का रोग।"),
-    "hook": "नस्य-अभ्यासी: झुर्रियाँ, पके बाल, धब्बे नहीं · चार दोष (ओष्ठ, रूखापन, मुखशोष, दन्तरोग) अगली इकाई में ‘न स्युः’।",
+    "hook": "नस्य-अभ्यासी: झुर्रियाँ, पके बाल, धब्बे नहीं · चार सूची-पद (ओष्ठ, रूखापन, मुखशोष, दन्तरोग) अगली इकाई में ‘न स्युः’।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "According to line 1 of unit 28, the nasya-habituated become free of what?",
@@ -104,10 +104,10 @@ AUTHORED["28"] = {
             "भवेयुः (they would become) + नस्यशीलिनः (those habituated to nasya).",
             "उः + voiced consonant → उर्."),
         mcq("apply", 4, "Where is the verb for the diseases listed in line 2 of unit 28?",
-            ("In unit 29, first line (न स्युः)", "The card notes that na syuḥ in unit 29 completes the sentence."),
-            [("In line 1 of unit 28", "भवेयुः governs line 1 only."),
-             ("In unit 27, line 2", "Unit 27 has no verb."),
-             ("In unit 30, line 2", "जायते is there, but it belongs to a different statement.")],
+            ("In unit 29, line 1 (न स्युः)", "The card notes that na syuḥ in unit 29 completes the sentence."),
+            [("In unit 28, line 1 (भवेयुः)", "भवेयुः governs line 1 only."),
+             ("In unit 27, line 2 (no verb)", "Unit 27 has no verb."),
+             ("In unit 30, line 2 (जायते)", "जायते is there, but it belongs to a different statement.")],
             "Line 2 is a list; its verb (they do not occur) is in the first line of unit 29.",
             "The sentence runs across units: 28.1 + 28.2 + 29.1."),
         T(mcq("transfer", 5, "How is गुरुः + नमति written when joined?",
@@ -129,7 +129,7 @@ AUTHORED["29"] = {
              "a new statement: holding a mouthful of water of khadira, milky trees and arimeda; it finishes in unit 30."),
     "limits": ("Line 2 has no predicate here; unit 30 completes it. Khadira and arimeda are names only; "
                "the unit does not say whether the water is a decoction."),
-    "explain_hi": ("पहली पंक्ति पिछली इकाई का वाक्य पूरा करती है: ‘न स्युः’ (नहीं होंगे) स्वर की क्षतियाँ, स्नेह-गण्डूष "
+    "explain_hi": ("पहली पंक्ति पिछली इकाई का वाक्य पूरा करती है: ‘न स्युः’ (न हों) स्वर की क्षतियाँ, स्नेह-गण्डूष "
                    "धारण करने से। दूसरी पंक्ति में नया वाक्य शुरू होता है: खदिर, क्षीरिवृक्ष और अरिमेद के जल का "
                    "कवल मुख में रखना। यह वाक्य अगली इकाई में पूरा होता है। द्रव्यों के नाम केवल नाम माने गए हैं।"),
     "hook": "स्नेह-गण्डूष से स्वर की क्षति नहीं · खदिर-क्षीरिवृक्ष-अरिमेद जल का कवल (आगे अगली इकाई)।",
@@ -137,15 +137,15 @@ AUTHORED["29"] = {
     "questions": [
         mcq("pretest", 0, "Unit 29 says injuries of the voice do not occur from what?",
             ("Holding an oily mouthful", "स्नेहगण्डूषधारणात्: from holding an oily mouthful."),
-            [("Applying collyrium", "Collyrium is not named in this unit."),
-             ("Breathing in smoke", "Smoke is not the means named here."),
-             ("Wearing garlands", "Garlands are not named in this unit.")],
+            [("Applying collyrium to the eyes", "Collyrium is not named in this unit."),
+             ("Breathing in the smoke of a pipe", "Smoke is not the means named here."),
+             ("Wearing garlands on the neck", "Garlands are not named in this unit.")],
             "The means named is the holding of an oily mouthful (sneha-gaṇḍūṣa).",
             "Voice injuries do not occur from sneha-gaṇḍūṣa."),
-        order(1, "Put the items of the water mouthful in line 2 in the verse's order.",
-              ["खदिर", "क्षीरिवृक्ष", "अरिमेद", "अम्बु", "कवल", "ग्रह"],
-              "The compound reads khadira, milky trees, arimeda, water, mouthful, holding.",
-              "खदिर → क्षीरिवृक्ष → अरिमेद → अम्बु → कवल → ग्रह."),
+        order(1, "Put the three parts of line 1 in the verse's order.",
+              ["न स्युः", "स्वरोपघाताः", "स्नेहगण्डूषधारणात्"],
+              "Line 1 reads na syuḥ, injuries of the voice, from holding an oily mouthful.",
+              "न स्युः → स्वरोपघाताः → स्नेहगण्डूषधारणात्."),
         T(match(2, "Match each word of unit 29 to its meaning.",
                 [["स्वर", "voice"], ["उपघात", "injury"], ["धारणात्", "from holding"], ["अम्बु", "water"]],
                 "These four words carry the two statements of the unit.",
@@ -159,7 +159,7 @@ AUTHORED["29"] = {
             "स्वरोपघाताः = स्वर (voice) + उपघाताः (injuries).",
             "अ + उ → ओ."),
         fill(4, "The word for 'voice' in unit 29 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("स्वर", "svara"),
+             accepts("स्वर", "स्वरः", "svara", "svaraḥ"),
              "स्वर, the first member of स्वरोपघाताः, means voice.",
              "स्वर = voice.",
              "स्वर = voice (first member of स्वरोपघाताः).", role="apply"),
@@ -192,9 +192,9 @@ AUTHORED["30"] = {
     "questions": [
         mcq("pretest", 0, "Unit 30 says lightness of the mouth arises from what?",
             ("Mouthfuls of pleasantly warm water", "सुखोष्णोदकगण्डूषैः: with mouthfuls of pleasantly warm water."),
-            [("Mouthfuls of cold milk", "No milk is named in the unit."),
-             ("Smoke taken after a meal", "Smoke is not named in this unit."),
-             ("Garlands of water flowers", "Garlands are not named in this unit.")],
+            [("Mouthfuls of pleasantly cool milk", "No milk is named in the unit."),
+             ("Smoke breathed in after a meal", "Smoke is not named in this unit."),
+             ("Garlands of water flowers worn daily", "Garlands are not named in this unit.")],
             "The line says वक्त्रलाघवं arises from gaṇḍūṣa of pleasantly warm water.",
             "Warm water mouthfuls → lightness of the mouth."),
         order(1, "Put the four things overcome in line 1 in the verse's order.",
@@ -225,7 +225,7 @@ AUTHORED["30"] = {
               "Line 1: अरोचक, आस्यवैरस्य, मलपूति, प्रसेक."),
         T(mcq("transfer", 5, "What would शोकजित् (like प्रसेकजित्) mean?",
               ("Overcoming sorrow", "X-जित् means overcoming X."),
-              [("Won by sorrow", "That would be शोकजित with the opposite sense, not -जित् of overcoming."),
+              [("Won by sorrow", "The card gives X-जित् as overcoming X; X is what is overcome, not the one who overcomes."),
                ("Giver of sorrow", "-जित् does not mean giving."),
                ("Born of sorrow", "-जित् does not mean born of.")],
               "प्रसेकजित् is 'overcoming (excess) salivation', so शोकजित् is overcoming sorrow.",
@@ -241,7 +241,7 @@ AUTHORED["31"] = {
     "rule": ("Then one should practise the smoke suited to regular use, and perfumes, garlands and the like. "
              "By the smoke, diseases of vāta and kapha arising above the collar-bone do not occur for him."),
     "limits": ("The unit does not describe how the smoke is taken or what it is made of. 'Suited to regular "
-               "use' is a literal rendering of प्रायोगिक."),
+               "use' is a free rendering of प्रायोगिक (literally 'of application')."),
     "explain_hi": ("‘ततः’ का अर्थ है इसके बाद: प्रयोग के योग्य धूम, और गन्ध-माला आदि का आचरण करना चाहिए "
                    "(‘आचरेत्’ = करे)। दूसरी पंक्ति कहती है कि धूम से इसके जत्रु (हँसली) के ऊपर उत्पन्न होने वाले "
                    "वात और कफ के रोग नहीं होते। ‘जत्रु’ से हँसली का क्षेत्र समझा गया है। धूम बनाने या लेने की विधि "
@@ -275,11 +275,11 @@ AUTHORED["31"] = {
             "ऊर्ध्वजत्रूत्थाः = ऊर्ध्व (above) + जत्रु (collar-bone) + उत्थाः (arising).",
             "उ + उ → ऊ."),
         mcq("apply", 4, "Which sentence matches unit 31?",
-            ("By the smoke, vāta-kapha diseases above the collar-bone do not occur for him.",
+            ("By the smoke, vāta-kapha diseases above the collar-bone do not occur.",
              "This follows धूमाद्...ऊर्ध्वजत्रूत्था न स्युर्वातकफामयाः."),
-            [("By the smoke, pitta diseases below the collar-bone are cured at once.", "Pitta and below are not in the unit."),
-             ("By perfumes, vāta-kapha diseases above the collar-bone are driven out.", "The unit credits the smoke, not perfumes."),
-             ("By garlands, one's kapha is stirred up above the collar-bone.", "The unit says nothing like this.")],
+            [("By the smoke, pitta diseases below the collar-bone do not occur.", "The unit names vāta and kapha, above the collar-bone; pitta and below are not in it."),
+             ("By perfumes, vāta-kapha diseases above the collar-bone do not occur.", "The unit credits the smoke for this, not perfumes."),
+             ("By garlands, vāta-kapha diseases below the collar-bone do not occur.", "The unit credits the smoke and says above the collar-bone, not below.")],
             "The unit credits the smoke with keeping vāta and kapha diseases above the collar-bone from occurring.",
             "धूम → no vāta-kapha diseases above the collar-bone."),
         T(mcq("transfer", 5, "How is गुरु + उक्तम् (said by the teacher) written when joined?",
@@ -310,7 +310,7 @@ AUTHORED["32"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does the word कवल mean in unit 32?",
-            ("A mouthful held in the mouth", "कवलैः: by mouthfuls."),
+            ("A mouthful", "कवलैः: by mouthfuls."),
             [("Smoke from a pipe", "Smoke is धूम, in unit 33."),
              ("Collyrium for the eyes", "Collyrium is अञ्जन, the first word."),
              ("A garland of flowers", "A garland is माल्य, not कवल.")],
@@ -369,9 +369,9 @@ AUTHORED["33"] = {
     "questions": [
         mcq("pretest", 0, "What does unit 33 say perfumes, garlands and the like do?",
             ("They destroy misfortune", "गन्धमाल्यादिकम् ... अलक्ष्मीघ्नम्: destroying misfortune."),
-            [("They bring misfortune", "That is the opposite of what the unit says."),
-             ("They stir up vāta", "Nothing like this is said."),
-             ("They are forbidden", "The unit calls them an adornment.")],
+            [("They destroy appetite", "Nothing like this is said."),
+             ("They stir up vāta and kapha", "Nothing like this is said."),
+             ("They are to be given up", "The unit calls them an adornment.")],
             "The unit calls them promoting virility, destroying misfortune, and an adornment.",
             "गन्धमाल्यादि: वृष्य, अलक्ष्मीघ्न, प्रसाधन."),
         order(1, "Put the subject and three descriptions of statement (b) in the verse's order.",
@@ -402,7 +402,7 @@ AUTHORED["33"] = {
         T(mcq("transfer", 5, "What would शोकघ्नम् (like अलक्ष्मीघ्नम्) mean?",
               ("Destroying sorrow", "X-घ्न means destroying X."),
               [("Born of sorrow", "-घ्न does not mean born of."),
-               ("Causing sorrow", "That is the opposite of destroying."),
+               ("Giver of sorrow", "That is the opposite of destroying."),
                ("Free from sorrow", "That would be a word like शोकरहित.")],
               "अलक्ष्मीघ्नम् is destroying misfortune, so शोकघ्नम् is destroying sorrow.",
               "X-घ्न = destroying X."),
@@ -427,8 +427,8 @@ AUTHORED["34"] = {
     "questions": [
         mcq("pretest", 0, "Which garment does unit 34 say one should not wear?",
             ("A dirty one", "मलिनम्: dirty."),
-            [("A clean one", "The unit forbids the dirty, not the clean."),
-             ("A new one", "The unit forbids the worn-out, not the new."),
+            [("A freshly washed one", "The unit forbids the dirty, not the clean."),
+             ("A newly made one", "The unit forbids the worn-out, not the new."),
              ("A plain one", "The unit forbids the showy, not the plain.")],
             "The garment faults are worn out, dirty, red, showy.",
             "Not worn out, dirty, red or showy."),
@@ -443,19 +443,19 @@ AUTHORED["34"] = {
           "Four adjectives in one line list the faults of the garment, all in the accusative singular neuter."),
         mcq("discriminate", 3, "Which split of जलजादृते is right?",
             ("जलजात् + ऋते", "त् before a vowel becomes द्: जलजात् + ऋते → जलजादृते, 'except water-born'."),
-            [("जलज + आदृते", "आदृते is not the word 'except'; the card reads ऋते."),
-             ("जलजा + दृते", "दृते is not a word of the card."),
-             ("जल + जादृते", "जादृते is not a word.")],
+            [("जलजा + ऋते (the word जलजा)", "The card's word is जलजात्, in the ablative with ऋते."),
+             ("जलजान् + ऋते", "जलजान् is not a word of the card."),
+             ("जलज + अदृते", "अदृते is not a word of the card.")],
             "जलजादृते = जलजात् (from the water-born) + ऋते (except).",
             "ऋते takes the ablative: जलजात् ऋते."),
         multi("apply", 4, "Which are named in unit 34 as faults?",
               [("A worn-out garment", "Right: जीर्णम्."),
                ("A dirty garment", "Right: मलिनम्."),
-               ("A garland that hangs low", "Right: माल्यं न लम्बम्."),
+               ("A showy garment", "Right: उल्बणम्."),
                ("A garment of silk", "Silk is not mentioned.")],
               [0, 1, 2],
-              "Two garment faults and the low-hanging garland are named; silk is not.",
-              "जीर्ण, मलिन, लम्ब are named."),
+              "Three garment faults are named; silk is not.",
+              "जीर्ण, मलिन, उल्बण are named."),
         T(mcq("transfer", 5, "How is नरः + गच्छेत् written when joined?",
               ("नरो गच्छेत्", "अः before a voiced consonant becomes ओ, as in वासो न."),
               [("नरः गच्छेत्", "A visarga after अ does not stay before a voiced consonant."),
@@ -483,9 +483,9 @@ AUTHORED["35"] = {
     "questions": [
         mcq("pretest", 0, "Unit 35 says one should not wear cloth, a flower or sandals in what condition?",
             ("Already worn by another", "अन्येन विधृतम्: worn by another."),
-            [("Not yet washed clean", "Washing is not mentioned in the unit."),
-             ("Torn at the edge", "Tearing is not mentioned in the unit."),
-             ("Bought that very day", "Buying is not mentioned in the unit.")],
+            [("Not yet washed clean by water", "Washing is not mentioned in the unit."),
+             ("Torn at the edge of the cloth", "Tearing is not mentioned in the unit."),
+             ("Bought that very same day", "Buying is not mentioned in the unit.")],
             "The prohibition is of things already worn by another.",
             "Not cloth, flower or sandals worn by another."),
         order(1, "Put the three things not to wear, as listed in line 1, in the verse's order.",
@@ -518,7 +518,7 @@ AUTHORED["35"] = {
               ("सदैव", "आ + ए gives ऐ, as अ + ए does in नैव."),
               [("सदेव", "ए alone would drop the long vowel; the join gives ऐ."),
                ("सदाएव", "The two vowels join; they do not stand apart."),
-               ("सदोव", "ओ comes from अ/आ + उ or ओ.")],
+               ("सदोव", "ओ comes from अ/आ + उ/ऊ, not from अ/आ + ए.")],
               "The same rule that gives नैव gives सदैव.",
               "अ/आ + ए → ऐ."),
           "अ or आ followed by ए joins into ऐ; use it for any new phrase."),
@@ -542,7 +542,7 @@ AUTHORED["36"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does line 2 of unit 36 call pleasing and accompanied by pūga-fruit?",
-            ("The tender leaf of the tāmbūlī", "ताम्बूलीनां किसलयं हृद्यं पूगफलान्वितम्."),
+            ("The tāmbūlī's tender leaf", "ताम्बूलीनां किसलयं हृद्यं पूगफलान्वितम्."),
             [("A garland of water flowers", "Garlands are in unit 34."),
              ("A pair of sandals", "Sandals are in unit 35, line 1."),
              ("A mouthful of warm water", "Warm water is in unit 30.")],
@@ -568,15 +568,15 @@ AUTHORED["36"] = {
             "अ + अ → आ."),
         mcq("apply", 4, "Where does the verb of unit 36 (hold in the mouth) come from?",
             ("Unit 35, second line (धारयेत्)", "Unit 36 has no verb; the card notes that 35.2 and 36 form one sentence."),
-            [("Unit 36, first line", "Line 1 has only names and सह."),
-             ("Unit 33 (जयेत्)", "जयेत् means one should overcome."),
-             ("Unit 31 (आचरेत्)", "आचरेत् means one should practise, and it belongs to unit 31.")],
+            [("Unit 36, first line (सह)", "Line 1 has only names and सह."),
+             ("Unit 33, statement (a) (जयेत्)", "जयेत् means one should overcome."),
+             ("Unit 31, first line (आचरेत्)", "आचरेत् means one should practise, and it belongs to unit 31.")],
             "35.2 gives धारयेत्, and unit 36 gives what is held.",
             "35.2 + 36: one sentence."),
         T(mcq("transfer", 5, "Which form means accompanied by fruit?",
               ("फलान्वितम्", "X + अन्वितम् means accompanied by X; अ + अ gives आ."),
               [("फलविहीनम्", "That means devoid of fruit."),
-               ("फलवर्जितम्", "That means left out of fruit."),
+               ("फलवर्जितम्", "That means without fruit."),
                ("फलोद्भवम्", "That means born of fruit.")],
               "The pattern of पूगफलान्वितम् gives फलान्वितम्.",
               "X + अन्वितम् = accompanied by X."),
@@ -590,9 +590,9 @@ AUTHORED["37"] = {
     "question": "For whom does unit 37 say that thing is unsuitable?",
     "rule": ("That (तत्) is unsuitable (अपथ्यम्) for those with raktapitta, the wounded, the wasted, the dry "
              "and those with irritated eyes; for those afflicted by poison, fainting or intoxication; and for those with śoṣa."),
-    "limits": ("तत् presumably refers to the preparation of units 35-36, but this unit does not name it. "
-               "क्षतक्षीण may be one pair or two separate items. Raktapitta and śoṣa are named as terms only; "
-               "the unit gives no cause or treatment."),
+    "limits": ("तत् presumably refers to the preparation of units 35-36; this unit does not name it. "
+               "क्षतक्षीण may be one pair or two items; रूक्ष and कुपितचक्षुस् may be one phrase, dry, irritated eyes. "
+               "No cause or treatment is given."),
     "explain_hi": ("इस इकाई में एक ही निर्णय है: ‘तत्’ (वह) अपथ्य है, यानी अनुकूल नहीं। किसके लिए? पहली पंक्ति में: "
                    "रक्तपित्त के रोगी, क्षत वाले, क्षीण, रूक्ष और कुपित नेत्रों वाले। दूसरी पंक्ति में: विष, मूर्च्छा और "
                    "मद से पीड़ित, और शोष के रोगी। ‘तत्’ किस वस्तु का सूचक है, यह इस इकाई में नहीं लिखा; सम्भवतः "
@@ -603,7 +603,7 @@ AUTHORED["37"] = {
         mcq("pretest", 0, "Unit 37 calls that thing (तत्) what, for the persons it lists?",
             ("Unsuitable (अपथ्यम्)", "अपथ्यं शोषिणां च तत्: that is unsuitable."),
             [("Suitable (पथ्यम्)", "Unit 38 calls it suitable for other persons."),
-             ("Sufficient", "No such word is in the unit."),
+             ("Allowed for all", "The unit limits it to the listed persons."),
              ("Pleasing", "हृद्यम् is said of the leaf in unit 36, not here.")],
             "The unit says अपथ्यम्, unsuitable.",
             "तत् = unsuitable for the listed persons."),
@@ -631,14 +631,14 @@ AUTHORED["37"] = {
               [0, 1, 2],
               "Poison, irritated eyes and śoṣa are named in unit 37; the bathed person is in unit 38.",
               "Unit 37: unsuitable for the listed persons; unit 38: suitable after sleep, eating, bathing, vomiting."),
-        T(mcq("transfer", 5, "What does ज्वरार्तानाम् (like विषार्तानाम्) mean?",
-              ("Of those afflicted by fever", "X-आर्त means afflicted by X, and -आनाम् is the genitive plural."),
+        T(mcq("transfer", 5, "What does ज्वरार्त्तानाम् (like मदार्त्तानाम्) mean?",
+              ("Of those afflicted by fever", "X-आर्त्त means afflicted by X, and -आनाम् is the genitive plural."),
               [("By those afflicted by fever", "-आनाम् is the genitive plural, not the instrumental."),
-               ("Of those who overcome fever", "-आर्त means afflicted, not overcoming."),
+               ("Of those who overcome fever", "-आर्त्त means afflicted, not overcoming."),
                ("Fever of the afflicted", "The compound puts fever first: afflicted by fever.")],
-              "The pattern of विष...मदार्त्तानाम् gives 'of those afflicted by fever'.",
-              "X-आर्त + आनाम् = of those afflicted by X."),
-          "X-आर्त means afflicted by X; the ending -आनाम् is the genitive plural (of those)."),
+              "The pattern of मदार्त्तानाम् gives 'of those afflicted by fever'.",
+              "X-आर्त्त + आनाम् = of those afflicted by X."),
+          "X-आर्त्त means afflicted by X; the ending -आनाम् is the genitive plural (of those)."),
     ],
 }
 
@@ -660,9 +660,9 @@ AUTHORED["38"] = {
     "questions": [
         mcq("pretest", 0, "For which person does unit 38 call that thing suitable (पथ्यम्)?",
             ("One who has risen from sleep", "सुप्तोत्थिते: for one who has risen from sleep."),
-            [("One who has run hard", "Running is not mentioned in the unit."),
-             ("One who has fasted", "Fasting is not mentioned in the unit."),
-             ("One who has gone to sleep", "The unit says risen from sleep.")],
+            [("One who has run a long way", "Running is not mentioned in the unit."),
+             ("One who has kept a fast", "Fasting is not mentioned in the unit."),
+             ("One who has gone to sleep at night", "The unit says risen from sleep.")],
             "Unit 38 names four states: risen from sleep, eaten, bathed, vomited.",
             "पथ्य after sleep, eating, bathing, vomiting."),
         order(1, "Put the four states of the person in the verse's order.",
@@ -693,7 +693,7 @@ AUTHORED["38"] = {
         T(mcq("transfer", 5, "Which phrase means in the case of a person who has gone?",
               ("गते मानवे", "A participle in the locative with a noun in the locative, as भुक्ते मानवे."),
               [("गतं मानवम्", "That is accusative: a person who has gone, as an object."),
-               ("गतः मानवः", "That is nominative: the person who has gone, as subject."),
+               ("गतो मानवः", "That is nominative: the person who has gone, as subject."),
                ("गताय मानवाय", "That is dative: for the person gone.")],
               "The pattern of भुक्ते मानवे gives गते मानवे.",
               "Locative participle + locative noun = in the case of X."),
@@ -717,9 +717,9 @@ AUTHORED["39"] = {
     "questions": [
         mcq("pretest", 0, "Line 2 of unit 39 calls even a long life censured when what is lacking?",
             ("The means are not at hand", "असन्निहितसाधनम्: having no means at hand."),
-            [("Children are not at hand", "Children are not mentioned in the line."),
-             ("Friends are not at hand", "Friends are not mentioned in the line."),
-             ("Health is not at hand", "Health is not mentioned in the line.")],
+            [("Children are not near at hand", "Children are not mentioned in the line."),
+             ("Friends are not near at hand", "Friends are not mentioned in the line."),
+             ("Health is not near at hand", "Health is not mentioned in the line.")],
             "The line says a long life is censured if the means are not at hand.",
             "दीर्घ आयु also निन्दित without साधन."),
         order(1, "Put the five parts of line 2 in the verse's order.",
@@ -745,9 +745,9 @@ AUTHORED["39"] = {
              "आयुः = life.", role="apply"),
         T(mcq("transfer", 5, "What does अप्राप्तधनः (like असन्निहितसाधनम्) mean?",
               ("One whose wealth is not obtained", "अ- negates: अप्राप्त + धन, a bahuvrīhi, one whose wealth is not obtained."),
-              [("One who has obtained wealth", "The prefix अ- negates, so it is the opposite."),
-               ("Wealth that is obtained", "That would be प्राप्तधनम्."),
-               ("One who gives wealth", "No giving is in the word.")],
+              [("One who has already obtained wealth", "The prefix अ- negates, so it is the opposite."),
+               ("Wealth that has been obtained", "That would be प्राप्तधनम्."),
+               ("One who gives away wealth", "No giving is in the word.")],
               "असन्निहितसाधनम् = a-sannihita-sādhanam, having no means at hand; अप्राप्तधनः has the same shape.",
               "अ- + participle + noun = one whose X is not ... ."),
           "A bahuvrīhi with negative अ- describes one whose thing is not present or obtained."),
@@ -755,7 +755,7 @@ AUTHORED["39"] = {
 }
 
 NOTES_HI = {
-    "27": "इस इकाई में वर्णित लोगों का नाम नहीं है; अगली इकाई में ‘नस्यशीलिनः’ आता है। ‘ग्रीवाऽऽस्य’ में ग्रीवा + आस्य छपा है (आ + आ → आ, अवग्रह दो बार)। ‘विमलेन्द्रियाः’ में अ + इ → ए जाँचा गया। ‘स्निग्ध’ स्वर के लिए ‘smooth’ और ‘प्रसन्न’ के लिए ‘clear’ रखा गया। पाठ-चिह्न नहीं; विश्वास उच्च।",
+    "27": "इस इकाई में वर्णित लोगों का नाम नहीं है; अगली इकाई में ‘नस्यशीलिनः’ आता है। ‘ग्रीवाऽऽस्य’ में ग्रीवा + आस्य छपा है (छपा रूप; आ + आ का मेल दीर्घ आ है, ऽऽ मुद्रण-चिह्न)। ‘विमलेन्द्रियाः’ में अ + इ → ए जाँचा गया। ‘स्निग्ध’ स्वर के लिए ‘smooth’ और ‘प्रसन्न’ के लिए ‘clear’ रखा गया। पाठ-चिह्न नहीं; विश्वास उच्च।",
     "28": "दूसरी पंक्ति की क्रिया ‘न स्युः’ इकाई 29 की पहली पंक्ति में है; तीनों पंक्तियाँ एक वाक्य हैं। ‘भवेयुर्नस्यशीलिनः’ में विसर्ग का र् होना जाँचा गया। ‘द्विज’ = दाँत, ‘आमय’ = रोग, ‘व्यङ्ग’ = धब्बा। पाठ-चिह्न नहीं; विश्वास उच्च।",
     "29": "वाक्य इकाई 30 में चलता है: ‘कवलग्रहः’ का विशेषण ‘प्रसेकजित्’ वहीं है। ‘खदिर’ और ‘अरिमेद’ द्रव्य-नाम हैं, ‘क्षीरिवृक्ष’ का अर्थ दूध (लेटेक्स) वाले वृक्ष है; पहचान नहीं की गई। ‘अरिमेद’ को एक नाम माना गया। ‘अम्बु’ क्या काढ़ा है, यह नहीं कहा गया। ‘स्वरोपघाताः’ में अ + उ → ओ जाँचा गया। पाठ-चिह्न नहीं; विश्वास उच्च।",
     "30": "‘प्रसेकजित्’ इकाई 29 के ‘कवलग्रहः’ का विशेषण है। ‘मलपूति’ का दूसरा पाठ ‘दुर्गन्धित मल’ भी हो सकता है; शब्दार्थ वही रहता है। ‘सुखोष्णोदकगण्डूषैः’ में अ + उ → ओ दो बार जाँचा गया। पाठ-चिह्न नहीं; विश्वास उच्च।",
@@ -776,7 +776,7 @@ AIDS = {
             {"label": "पाँच अंग", "items": ["त्वक्", "स्कन्ध", "ग्रीवा", "आस्य", "वक्षस्"]},
             {"label": "तीन गुण", "items": ["घन", "उन्नत", "प्रसन्न"]}]},
         "chunks": "घनोन्नतप्रसन्नत्वक्स्कंधग्रीवाऽऽस्यवक्षसः ‖ सुगंधिवदनाः | स्निग्धनिःस्वनाः | विमलेंद्रियाः।",
-        "sandhi": "अ + उ → ओ: घन + उन्नत → घनोन्नत · अ + इ → ए: विमल + इन्द्रियाः → विमलेन्द्रियाः · आ + आ → आ: ग्रीवा + आस्य → ग्रीवाऽऽस्य।",
+        "sandhi": "अ + उ → ओ: घन + उन्नत → घनोन्नत · अ + इ → ए: विमल + इन्द्रियाः → विमलेन्द्रियाः · आ + आ → दीर्घ आ: ग्रीवा + आस्य (छपा रूप ग्रीवाऽऽस्य; ऽऽ मुद्रण-चिह्न है)।",
         "pegs": "मेरा बनाया चित्र: एक आदमी का ऊपर से नीचे का खाका: त्वचा, कंधे, गर्दन, मुख, छाती; फिर तीन चिह्न: मुख पर फूल (सुगन्ध), गले में सुर (स्निग्ध स्वर), आँखों में साफ़ शीशा। (केवल याद के लिए)",
     },
     "28": {
@@ -789,10 +789,10 @@ AIDS = {
     },
     "29": {
         "diagram": {"groups": [
-            {"label": "पंक्ति १", "items": ["स्वरोपघाताः", "न स्युः", "स्नेहगण्डूषधारणात्"]},
+            {"label": "पंक्ति १", "items": ["न स्युः", "स्वरोपघाताः", "स्नेहगण्डूषधारणात्"]},
             {"label": "पंक्ति २ का जल", "items": ["खदिर", "क्षीरिवृक्ष", "अरिमेद", "अम्बु", "कवलग्रह"]}]},
         "chunks": "न स्युः स्वरोपघाताश्च | स्नेहगंडूषधारणात् ‖ खदिरक्षीरिवृक्षारिमेदांबु | कवलग्रहः।",
-        "sandhi": "अः + उ → ओ: स्वर + उपघाताः → स्वरोपघाताः · च से पहले विसर्ग → श्: उपघाताः + च → उपघाताश्च।",
+        "sandhi": "अ + उ → ओ: स्वर + उपघाताः → स्वरोपघाताः · च से पहले विसर्ग → श्: उपघाताः + च → उपघाताश्च।",
         "frame": "दो वाक्य: (१) न स्युः स्वरोपघाताः, स्नेहगण्डूषधारण से · (२) खदिर-क्षीरिवृक्ष-अरिमेद जल का कवलग्रह, जो अगली इकाई में पूरा होता है।",
     },
     "30": {
@@ -813,10 +813,10 @@ AIDS = {
     },
     "32": {
         "diagram": {"groups": [
-            {"label": "पहला जोड़ा", "items": ["अञ्जनोत्क्लेशितम्", "नस्यैः"]},
-            {"label": "दूसरा जोड़ा", "items": ["कवलैः", "नावनेरितम्"]}]},
+            {"label": "पहला भाग", "items": ["अञ्जनोत्क्लेशितम्", "नस्यैः"]},
+            {"label": "दूसरा भाग", "items": ["कवलैः", "नावनेरितम्"]}]},
         "chunks": "अंजनोत्क्लेशितं नस्यैः | कवलैर्नावनेरितम्।",
-        "sandhi": "अ + उ → ओ: अञ्जन + उत्क्लेशितम् → अञ्जनोत्क्लेशितम् · अः + न → र् न: कवलैः + नावन → कवलैर्नावन · अ + ई → ए: नावन + ईरितम् → नावनेरितम्।",
+        "sandhi": "अ + उ → ओ: अञ्जन + उत्क्लेशितम् → अञ्जनोत्क्लेशितम् · ऐः + न → ऐर् न: कवलैः + नावनेरितम् → कवलैर्नावनेरितम् · अ + ई → ए: नावन + ईरितम् → नावनेरितम्।",
         "frame": "यह अधूरा अर्ध-श्लोक है: क्रिया और कर्म अगली इकाई में हैं। शब्द पढ़ें, जोड़ी का निर्णय आगे।",
     },
     "33": {
@@ -832,7 +832,7 @@ AIDS = {
             {"label": "वस्त्र न (चार)", "items": ["जीर्ण", "मलिन", "रक्त", "उल्बण"]},
             {"label": "माला न", "items": ["लम्ब", "बहिः (अर्थ अस्पष्ट)", "रक्त", "जलज को छोड़कर"]}]},
         "chunks": "वासो न धारयेज्जीर्णं | मलिनं रक्तमुल्बणम् ‖ माल्यं न लंबं न बहिर्न | रक्तं जलजादृते।",
-        "sandhi": "अः + न → ओ न: वासः + न → वासो न · त् → द्: धारयेत् + जीर्णम् → धारयेज्जीर्णम्; जलजात् + ऋते → जलजादृते।",
+        "sandhi": "अः + न → ओ न: वासः + न → वासो न · त् + ज → ज्ज: धारयेत् + जीर्णम् → धारयेज्जीर्णम् · स्वर से पहले त् → द्: जलजात् + ऋते → जलजादृते।",
         "frame": "ढाँचा: चार दोषों वाला वस्त्र न पहने · माला के लिए भी निषेध, जलज को छोड़कर (छूट की सीमा अस्पष्ट)।",
     },
     "35": {
@@ -845,16 +845,16 @@ AIDS = {
     },
     "36": {
         "diagram": {"groups": [
-            {"label": "पंक्ति २", "items": ["ताम्बूलीनाम्", "किसलयम्", "हृद्यम्", "पूगफलान्वितम्"]},
-            {"label": "पंक्ति १", "items": ["द्रव्य-नामों के", "सह"]}]},
+            {"label": "पंक्ति १", "items": ["द्रव्य-नामों के", "सह"]},
+            {"label": "पंक्ति २", "items": ["ताम्बूलीनाम्", "किसलयम्", "हृद्यम्", "पूगफलान्वितम्"]}]},
         "chunks": "जातीलवंगकर्पूरकङ्कोलकटुकैः सह ‖ तांबूलीनां किसलयं | हृद्यं पूगफलान्वितम्।",
         "sandhi": "अ + अ → आ: पूगफल + अन्वितम् → पूगफलान्वितम्।",
         "frame": "यह इकाई अकेली अधूरी है: क्रिया ‘धारयेत्’ इकाई ३५.२ से आती है; दोनों मिलकर एक वाक्य हैं।",
     },
     "37": {
         "diagram": {"groups": [
-            {"label": "पंक्ति १", "items": ["रक्तपित्त", "क्षत", "क्षीण", "रूक्ष", "कुपितचक्षु"]},
-            {"label": "पंक्ति २", "items": ["विषार्त", "मूर्च्छार्त", "मदार्त", "शोषी"]}]},
+            {"label": "पंक्ति १", "items": ["रक्तपित्त", "क्षत", "क्षीण", "रूक्ष, कुपित नेत्र"]},
+            {"label": "पंक्ति २", "items": ["विष", "मूर्च्छा", "मद", "आर्त्त", "शोषी"]}]},
         "chunks": "रक्तपित्तक्षतक्षीणरुक्षोत्कुपितचक्षुषां ‖ विषमूर्च्छामदार्त्तानामपथ्यं शोषिणां च तत्।",
         "sandhi": "अ + आ → आ: मद + आर्त्त → मदार्त्त · म् + अ: मदार्त्तानाम् + अपथ्यम् → मदार्त्तानामपथ्यम्।",
         "frame": "ढाँचा: एक ही निर्णय ‘तत् अपथ्यम्’ (वह अनुकूल नहीं) और दो पंक्तियों में उन लोगों की सूची जिनके लिए वह कहा गया है।",
@@ -865,7 +865,7 @@ AIDS = {
             {"label": "पंक्ति २: सहित", "items": ["द्विपत्र", "एक पूग", "चूर्ण", "खदिर"]}]},
         "chunks": "पथ्यं सुप्तोत्थिते भुक्ते | स्नाते वांते च मानवे ‖ द्विपत्रमेकं पूगं च | सचूर्णखदिरं च तत्।",
         "sandhi": "अ + उ → ओ: सुप्त + उत्थिते → सुप्तोत्थिते · म् + ए: द्विपत्रम् + एकम् → द्विपत्रमेकम्",
-        "contrast": "इकाई ३७: तत् अपथ्य (कुछ लोगों के लिए) ↔ इकाई ३८: तत् पथ्य (सोकर उठे, खाए, नहाए, वमन किए के लिए)।",
+        "contrast": "सम्भवतः वही तत्: इकाई ३७: तत् अपथ्य (कुछ लोगों के लिए) ↔ इकाई ३८: तत् पथ्य (सोकर उठे, खाए, नहाए, वमन किए के लिए)।",
         "pegs": "मेरा बनाया चित्र: एक दिन की चार घण्टियाँ: उठना, भोजन, स्नान, वमन; हर घण्टी के साथ एक छोटा डिब्बा (दो पत्ते, एक पूग, चूर्ण, खदिर)। (केवल याद के लिए)",
     },
     "39": {
@@ -920,11 +920,11 @@ IMAGE_SPECS = {
     },
     ("37", "diagram"): {
         "file": "ch3b03-apathya-37.svg",
-        "alt": "Split of unit 37: line 1 raktapitta, wounded, wasted, dry, irritated eyes; line 2 poison, fainting, intoxication, wasting; that is unsuitable for these.",
+        "alt": "Split of unit 37: line 1 raktapitta, wounded, wasted, dry and irritated eyes (which may be one phrase); line 2 poison, fainting, intoxication, wasting; that is unsuitable for these.",
         "type": "split",
         "title": "तत् अपथ्य है",
-        "cols": [["पंक्ति १", ["रक्तपित्त", "क्षत", "क्षीण", "रूक्ष", "कुपित नेत्र"]],
-                 ["पंक्ति २", ["विष से पीड़ित", "मूर्च्छा", "मद", "शोष"]]],
+        "cols": [["पंक्ति १", ["रक्तपित्त", "क्षत", "क्षीण", "रूक्ष, कुपित नेत्र"]],
+                 ["पंक्ति २", ["विष", "मूर्च्छा", "मद", "शोष"]]],
     },
     ("38", "diagram"): {
         "file": "ch3b03-pathya-38.svg",

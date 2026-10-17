@@ -10,8 +10,8 @@ AUTHORED = {}
 AUTHORED["1"] = {
     "title": "अथातः शिष्योपनयनीयम्",
     "question": "What does the speaker announce at the start of the chapter?",
-    "rule": ("अथातः + chapter title in -म् + अध्यायं + व्याख्यास्यामः = Now, "
-             "therefore, we shall explain the chapter on that subject."),
+    "rule": ("अथातः + title word in -ीयम् (concerning ...) + अध्यायं + व्याख्यास्यामः = Now, "
+             "therefore, we shall explain the chapter concerning that subject."),
     "limits": ("This is the stock opening formula. It names the subject "
                "(the pupil's initiation) but says nothing yet about how the "
                "initiation is done."),
@@ -37,14 +37,14 @@ AUTHORED["1"] = {
             "अथातः ... अध्यायं व्याख्यास्यामः = now, therefore, we shall explain the chapter."),
         match(1, "Match each word of the opening to its meaning.",
               [["अथ", "now"], ["अतः", "therefore"], ["अध्यायम्", "chapter"],
-               ["व्याख्यास्यामः", "we shall explain"]],
-              "These four words make the whole announcement.",
-              "अथ = now; अतः = therefore; अध्यायम् = chapter; व्याख्यास्यामः = we shall explain."),
-        fill(2, "The word for 'chapter' in this line is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("अध्यायम्", None, "अध्याय"),
-             "अध्यायम् is the chapter that 'we shall explain'.",
-             "अध्यायम् ends in -म् because the chapter is what is explained, the object of व्याख्यास्यामः.",
-             "अध्यायम् = chapter; the -म् ending marks it as the thing explained.",
+               ["शिष्योपनयनीयम्", "concerning the pupil's initiation"]],
+              "Three words of the formula and the title word of this chapter.",
+              "अथ = now; अतः = therefore; अध्यायम् = chapter; शिष्योपनयनीयम् = concerning the pupil's initiation."),
+        fill(2, "The word for \"we shall explain\" is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("व्याख्यास्यामः", None, "व्याख्यास्याम"),
+             "व्याख्यास्यामः is the verb of the announcement: 'we shall explain'.",
+             "The ending -मः marks 'we' (first person plural), and the verb looks ahead: we shall explain.",
+             "व्याख्यास्यामः = we shall explain; -मः = 'we'.",
              role="extend"),
         mcq("discriminate", 3, "Which is the right split of अथातः?",
             ("अथ + अतः", "अ + अ joins as आ, so अथ + अतः is written अथातः."),
@@ -58,17 +58,17 @@ AUTHORED["1"] = {
               "The line runs: now, therefore, the-initiation-chapter, chapter, we-shall-explain.",
               "अथ → अतः → शिष्योपनयनीयम् → अध्यायम् → व्याख्यास्यामः.", role="apply"),
         mcq("transfer", 5,
-            "An invented line reads अथातः आहारमध्यायं व्याख्यास्यामः. By the same pattern, what is announced?",
+            "An invented line reads अथातः आहारीयमध्यायं व्याख्यास्यामः (आहारीयम् = concerning food). By the same pattern, what is announced?",
             ("Now, therefore, we shall explain the chapter on food",
-             "The pattern is अथातः + title + अध्यायं + व्याख्यास्यामः; आहार is food."),
+             "The pattern is अथातः + title word + अध्यायं + व्याख्यास्यामः; आहारीयम् = concerning food."),
             [("Now, therefore, we shall eat a meal",
               "व्याख्यास्यामः means explaining, and अध्यायम् is a chapter."),
              ("Now, therefore, the chapter on food is finished",
               "The verb is a future 'we shall explain', not a close."),
              ("Now, therefore, you will explain the chapter on food",
               "-मः marks 'we', not 'you'.")],
-            "The opening formula carries over to any chapter title.",
-            "अथातः + title(-म्) + अध्यायं + व्याख्यास्यामः = we shall explain the chapter on that subject.",
+            "आहारीयम् = concerning food; the rest of the formula is unchanged.",
+            "अथातः + title word in -ीयम् + अध्यायं + व्याख्यास्यामः = we shall explain the chapter concerning that subject.",
             teaches="Chapters open with one fixed pattern: only the title word changes."),
     ],
 }
@@ -79,8 +79,8 @@ AUTHORED["2"] = {
     "question": "Which qualities of mind and body does this verse list?",
     "rule": ("धीस्मृतिपाटवैः = with intellect, memory, skill; ऋजु-आस्य-नासा-नयनः = "
              "with straight mouth, nose and eyes; तनु-स्निग्ध-त्वक्-छविः = with thin, smooth skin and complexion."),
-    "limits": ("Who is described is uncertain: the Hindi and English of the data disagree, "
-               "and the first words (गुरुरुक्तः) can be read in more than one way. "
+    "limits": ("Who is described is uncertain: the book's own Hindi and English disagree, "
+               "and गुरुरुक्तः can be read in more than one way. "
                "The card teaches only the listed qualities."),
     "explain_hi": ("इस श्लोक में गुणों और लक्षणों की सूची है। मन के गुण: बुद्धि (धी), स्मृति और "
                    "कुशलता (पाटव), जो ‘-ैः’ अन्त के कारण ‘के साथ’ के अर्थ में हैं। शरीर के "
@@ -108,7 +108,7 @@ AUTHORED["2"] = {
             ("ऋजु + आस्य", "उ before a different vowel becomes व्: ऋजु + आस्य = ऋज्वास्य."),
             [("ऋज + वास्य", "वास्य is not the second word here."),
              ("ऋजो + आस्य", "ओ + आ would not give ज्वा."),
-             ("ऋजू + आस्य", "ऊ + आ would also give व्, but the word is ऋजु (straight).")],
+             ("ऋजि + आस्य", "इ + आ would give ज्या (ऋज्यास्य), not ज्वा.")],
             "ऋज्वास्य = ऋजु (straight) + आस्य (mouth).",
             "उ + different vowel → व्: ऋजु + आस्य = ऋज्वास्य.",
             teaches="Before a different vowel, उ turns into व् and the next vowel joins on to it."),
@@ -129,7 +129,7 @@ AUTHORED["2"] = {
               "The verse says intellect, then memory, then skill.",
               "धी → स्मृति → पाटव.", role="apply"),
         mcq("transfer", 5,
-            "In the same way as ऋज्वास्यनासानयनः, the invented word दीर्घबाहुः describes a person. Which?",
+            "By the pattern of ऋज्वास्यनासानयनः, whom does a word like दीर्घबाहुः describe?",
             ("One with long arms",
              "Such a compound (bahuvrīhi) names the person who has the features: दीर्घ (long) + बाहु (arm)."),
             [("A long arm itself", "The compound names the owner, not the arm."),
@@ -188,12 +188,12 @@ AUTHORED["3"] = {
             "Which rendering of the second line is correct?",
             ("Having lived six months, capable, endowed with modesty, cleanliness and skill",
              "It follows षण्मासानुषितः शक्तो लज्जाशौचकलान्वितः word for word."),
-            [("Having lived six years, capable, endowed with modesty and wealth",
+            [("Having lived six years, capable, endowed with modesty, wealth and skill",
               "Six months, not years; and wealth is not listed."),
-             ("Having lived six months, unable, endowed with modesty and skill",
-              "शक्तः is capable, not unable; cleanliness is also listed."),
-             ("Having lived six months, capable, endowed with anger and cleanliness",
-              "Anger is not listed; modesty and skill are.")],
+             ("Having lived six months, unable, endowed with modesty, cleanliness and skill",
+              "शक्तः is capable, not unable."),
+             ("Having lived six months, capable, endowed with anger, cleanliness and skill",
+              "Anger is not listed; modesty is.")],
             "The line gives one residence of six months and three gifts: लज्जा, शौच, कला.",
             "Second line = six months resident + capable + modesty, cleanliness, skill."),
         order(4, "Put these descriptions in the order of the first line.",
@@ -222,24 +222,25 @@ AUTHORED["4"] = {
              "occasions in the locative = not (to study) at these times."),
     "limits": ("The verb of the prohibition (पठेत्) comes in the next unit; here only "
                "the occasions are named. गतः (gone) can be read in more than one way, "
-               "and Rāhu-sighting is rendered literally."),
+               "and Rāhu-sighting is rendered literally. The three items may also be read "
+               "as one phrase; the card follows the three-item reading."),
     "explain_hi": ("पहली पंक्ति कहती है कि शिष्य को तब तक पढ़ाया जाए जब तक वह तन्त्र (ग्रन्थ), "
                    "उसके अर्थ और कर्मों के अन्त तक न पहुँच जाए। ‘अध्याप्यः’ का अर्थ ‘पढ़ाने "
                    "योग्य’ है। दूसरी पंक्ति से निषेध शुरू होता है: ‘न’ के साथ तीन सप्तमी रूप: असमय "
                    "बिजली-गर्जन में, भूकम्प में, राहु-दर्शन पर। क्रिया ‘पठेत्’ अगले श्लोक में आती है, "
                    "इसलिए वाक्य दो इकाइयों में चलता है।"),
-    "hook": "अन्त तक पढ़ाओ · न पढ़े: असमय बिजली-गर्जन, भूकम्प, राहु-दर्शन।",
+    "hook": "अन्त तक पढ़ाओ · ‘न’ (क्रिया अगली इकाई में) असमय बिजली-गर्जन, भूकम्प, राहु-दर्शन पर।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
             "Until what point is the pupil to be taught, according to the first line?",
             ("Until he reaches the end of the treatise, its meaning and its practices",
              "यावदन्तं तन्त्रार्थकर्मणाम् = up to the end of the treatise, meaning and practices."),
-            [("Until he has taught another pupil",
+            [("Until he has taught the whole treatise to another pupil",
               "Teaching others is not mentioned."),
-             ("Until the teacher grows old",
+             ("Until the teacher himself grows old and weak",
               "Age is not mentioned."),
-             ("Until he can recite one chapter",
+             ("Until he can recite a single chapter from memory",
               "The goal is the end of the whole treatise, not one chapter.")],
             "He is taught up to the end of the treatise, its meaning and its practices.",
             "यावदन्तम् = up to the end."),
@@ -259,15 +260,15 @@ AUTHORED["4"] = {
             teaches="When न meets a word beginning with अ, the two अ merge into आ."),
         mcq("discriminate", 3,
             "What does the ending -णाम् in तन्त्रार्थकर्मणाम् show?",
-            ("Plural 'of': of the treatise, meaning and practices",
+            ("Plural 'of': of the listed things",
              "-णाम् here is the genitive plural."),
-            [("Singular 'in': inside one practice",
+            [("Singular 'in': inside one single practice of the treatise",
               "It is plural, and 'in' would be a different ending."),
-             ("Singular 'by': done by one man",
+             ("Singular 'by': done by one man through practice",
               "It is not an instrumental."),
-             ("Plural 'to': given to the treatises",
+             ("Plural 'to': given to the treatises one by one",
               "'To' would be a different ending.")],
-            "तन्त्रार्थकर्मणाम् = of the treatise, its meaning and its practices.",
+            "तन्त्रार्थकर्मणाम् = of the treatise, its meaning and its practices (three-item reading).",
             "-णाम् / -नाम् on a plural word = 'of'."),
         order(4, "Put the three occasions in the order of the second line.",
               ["अकालविद्युत्स्तनिते", "भूकम्पे", "राहुदर्शने"],
@@ -326,13 +327,13 @@ AUTHORED["5"] = {
             "नात्युच्चनीचकैः = न (not) + अति (too) + उच्च-नीचकैः (high and low tones).",
             "इ + different vowel → य्: अति + उच्च = अत्युच्च.",
             teaches="Before a different vowel, इ turns into य्: अति + उच्च = अत्युच्च."),
-        multi("discriminate", 3, "Which two faults of reciting are named in the second line?",
+        multi("discriminate", 3, "Which of these are named among the manners of reciting in the second line?",
               [("Too slowly", "अतिमन्दम् is named."),
                ("Tones too high or too low", "अत्युच्चनीचकैः is named."),
                ("While walking", "Walking is not mentioned."),
                ("Before sunrise", "The time of day is not mentioned.")],
               [0, 1],
-              "The line warns against reciting too slowly and with tones too high or too low.",
+              "The line names too slowly and tones too high or too low (it also has the doubtful phrase अविच्छिन्नपदम्, left aside).",
               "Named faults: अतिमन्दम् (too slow), अत्युच्च-नीचकैः (too high / too low)."),
         order(4, "Put these phrases of the first line in the order of the verse.",
               ["पञ्चदश्याम्", "अचन्द्रायाम्", "परोक्षे", "गुरोः", "पठेत्"],
@@ -355,15 +356,16 @@ AUTHORED["5"] = {
 AUTHORED["6"] = {
     "title": "हितान्यतममाचार्यम्",
     "question": "How should the pupil serve the teacher, and when should he sleep and rise?",
-    "rule": ("आचार्यं पर्युपासीत राजवत्; शयीत ... अस्मिन् सुप्ते ...; उत्तिष्ठेत अस्य पूर्वतः = he should "
+    "rule": ("आचार्यं पर्युपासीत राजवत्; शयीत सुप्त एव अस्मिन्; उत्तिष्ठेत अस्य पूर्वतः = he should "
              "attend upon the teacher as upon a king, lie down after him and rise before him."),
     "limits": ("The compound हितान्यतमम् (one among the well-wishers?) is uncertain and "
-               "carries no question. The sandhi सुप्त एव is read as सुप्ते एव; the sense stays "
-               "the same."),
+               "carries no question. The printed सुप्त एव is regularly सुप्तः + एव; the data reads "
+               "it as the locative सुप्ते (\"when he is asleep\") because the sense (\"lie down only "
+               "when he sleeps\") is the same either way."),
     "explain_hi": ("आचार्य की सेवा ‘राजवत्’, यानी राजा के समान आदर से करनी है; ‘-वत्’ का अर्थ "
                    "‘के समान’ है। ‘पर्युपासीत’ का अर्थ ‘पास रहकर सेवा करे’ है। दूसरी पंक्ति में दिनचर्या: "
                    "गुरु के सो जाने पर ही सोए (‘शयीत’) और उनसे पहले उठे (‘उत्तिष्ठेत ... पूर्वतः’)। "
-                   "‘हितान्यतमम्’ का अर्थ सन्दिग्ध है (हितैषियों में से एक?), इसलिए उस पर कोई प्रश्न नहीं है।"),
+                   "‘हितान्यतमम्’ का अर्थ सन्दिग्ध है (हितैषियों में से एक?), इसलिए उस पर कोई प्रश्न नहीं है। ‘पर्युपासीत’ और ‘शयीत’ का -ईत ‘चाहिए’ का अर्थ देता है।"),
     "hook": "राजा के समान सेवा · गुरु के बाद सोए · गुरु से पहले उठे।",
     "core": False,
     "questions": [
@@ -392,13 +394,13 @@ AUTHORED["6"] = {
             teaches="-वत् after a noun means 'like' it: राजवत् = like a king."),
         mcq("discriminate", 3,
             "Which pair of times does the second line give the pupil?",
-            ("He lies down after the teacher is asleep and rises before him",
-             "सुप्ते ... शयीत and उत्तिष्ठेत अस्य पूर्वतः say exactly this."),
-            [("He lies down before the teacher and rises after him",
+            ("He lies down after the teacher sleeps and rises before him",
+             "शयीत सुप्त एवास्मिन् (lies down only when he is asleep) and उत्तिष्ठेतास्य पूर्वतः (rises before him) say exactly this."),
+            [("He lies down before the teacher sleeps and rises after him",
               "This reverses both."),
-             ("He lies down after the teacher and rises after him",
+             ("He lies down after the teacher sleeps and rises after him",
               "He rises before the teacher, not after."),
-             ("He lies down before the teacher and rises before him",
+             ("He lies down before the teacher sleeps and rises before him",
               "He lies down only after the teacher is asleep.")],
             "He sleeps only when the teacher has fallen asleep, and rises before him.",
             "After the teacher sleeps; before the teacher rises."),
@@ -418,7 +420,7 @@ AUTHORED["6"] = {
               "The pupil attends, not the teacher.")],
             "The pattern of राजवत् carries over to other nouns.",
             "noun-वत् + पर्युपासीत = he should attend upon, like that noun.",
-            teaches="-वत् gives the comparison and -ईत verbs say 'should': पितृवत् पर्युपासीत = should attend like a father."),
+            teaches="-वत् after a noun gives the comparison, and the middle optative -ईत (पर्युपासीत, शयीत) says \"should\": पितृवत् पर्युपासीत = should attend like a father."),
     ],
 }
 
@@ -482,7 +484,7 @@ AUTHORED["7"] = {
              "प्रिय (pleasant) + भाषण (speech), used for the person, like प्रियदर्शनः."),
             [("The speech itself", "The compound names the person who has it."),
              ("One who dislikes speaking", "प्रिय is pleasant, not disliked."),
-             ("One who shows a pleasant face", "That is the sense of प्रियदर्शनः, not of भाषणः.")],
+             ("One who shows a pleasant face", "That would be प्रियमुखः (pleasant-faced), not प्रियभाषणः.")],
             "प्रियदर्शनः = pleasant to look at; प्रियभाषणः = pleasant in speech.",
             "प्रिय + noun = one with pleasant [that thing].",
             teaches="प्रिय + a noun describes the person who has that thing pleasant."),
@@ -594,10 +596,10 @@ AUTHORED["9"] = {
              "-णा is the instrumental: the one by whom it is done."),
             [("The pupil: समनुज्ञातः shows he is the giver",
               "समनुज्ञातः is 'authorised', so the pupil receives it."),
-             ("The king: गुरुणा means 'of the king'",
-              "गुरुणा means 'by the teacher'."),
-             ("No one: गुरुणा is the name of the book",
-              "गुरुणा is a word for the teacher.")],
+             ("The pupil gives it: -णा on गुरुणा shows the giver is the pupil",
+              "गुरुणा names the teacher; -णा is 'by', so the teacher gives it."),
+             ("The teacher, but -णा means 'to'",
+              "-णा is 'by', not 'to'; 'to' would be गुरवे.")],
             "The permission comes from the teacher (गुरुणा, 'by the teacher').",
             "-णा / -एन (instrumental) names the one by whom an action is done.",
             teaches="A noun in the instrumental (-णा, -एन) names the one by whom something is done: 'by'."),
@@ -667,13 +669,13 @@ AUTHORED["10"] = {
             "visarga after उ + vowel → र्; अ + आ → आ.",
             teaches="A final visarga after उ becomes र् before a vowel, and अ + आ joins as आ."),
         mcq("discriminate", 3, "Why does प्राप्य end in -य and not in -त्वा?",
-            ("It has the prefix प्र-; with a prefix the 'having done' form ends in -य",
+            ("It has the prefix प्र-, so it takes -य",
              "A 'having done' word takes -त्वा without a prefix and -य with one."),
-            [("Because it is a future form",
+            [("Because it is a future form, which always ends in -य",
               "It is a 'having done' form, not a future."),
-             ("Because it is repeated, प्राप्य प्राप्य",
+             ("Because the word is repeated as प्राप्य प्राप्य and doubles",
               "Repetition does not change the ending; it only means 'each time'."),
-             ("Because it is passive",
+             ("Because it is a passive form, which takes -य",
               "It is not passive; it is 'having reached'.")],
             "प्र + √आप् + -य = प्राप्य, 'having reached'.",
             "without prefix: -त्वा; with prefix: -य."),
@@ -682,9 +684,9 @@ AUTHORED["10"] = {
               "He is bewildered; on reaching a patient each time; like a timid man at a battle.",
               "सः मुह्यति → आतुरं प्राप्य प्राप्य → भीरुः इव आहवम्.", role="apply"),
         mcq("transfer", 5,
-            "To say 'having known' with the prefix वि- on the root √ज्ञा, which invented form is right?",
+            "To say 'having known' with the prefix वि- on the root √ज्ञा, which form is right?",
             ("विज्ञाय",
-             "With a prefix the 'having done' form ends in -य: वि + ज्ञाय = विज्ञाय."),
+             "With a prefix the 'having done' form ends in -य: वि + ज्ञा → विज्ञाय."),
             [("विज्ञात्वा", "-त्वा is used without a prefix."),
              ("विज्ञायते", "That is a passive verb, not 'having known'."),
              ("विज्ञाता", "That means one who knows, not 'having known'.")],
@@ -728,7 +730,7 @@ AUTHORED["11"] = {
                ["प्रशमने", "in the alleviation"], ["अपुनर्भवे", "in the non-recurrence"]],
               "The four words are all in the 'in' form.",
               "हेतौ = in the cause; लिङ्गे = in the sign; प्रशमने = in the alleviation; अपुनर्भवे = in the non-recurrence."),
-        mcq("extend", 2, "What does -सु show in सत्सु (satsu)?",
+        mcq("extend", 2, "What does -सु show in सत्सु?",
             ("'Among / in', plural: among the good",
              "-सु is the locative plural ending."),
             [("'By', plural: by the good", "'By' is a different ending."),
@@ -753,15 +755,15 @@ AUTHORED["11"] = {
               "The line gives cause, sign, alleviation, non-recurrence.",
               "हेतौ → लिङ्गे → प्रशमने → अपुनर्भवे.", role="apply"),
         mcq("transfer", 5,
-            "हेतौ (a word in -उ) means 'in the cause'. By the same pattern, which invented word means in the enemy (शत्रु)?",
+            "हेतौ (from masculine हेतु) means in the cause. By the same pattern, which form means in the enemy (शत्रु)?",
             ("शत्रौ",
-             "For words in -उ, 'in' ends in -औ: हेतु → हेतौ, शत्रु → शत्रौ."),
+             "For masculine words in -उ, 'in' ends in -औ: हेतु → हेतौ, शत्रु → शत्रौ."),
             [("शत्रवे", "That is 'for the enemy'."),
              ("शत्रोः", "That is 'of the enemy'."),
              ("शत्रुम्", "That is 'the enemy' as object.")],
-            "The ending of हेतौ carries over to other words in -उ.",
-            "word in -उ + 'in' = -औ.",
-            teaches="For a word in -उ the 'in' form ends in -औ: हेतौ, शत्रौ."),
+            "The ending of हेतौ carries over to other masculine words in -उ.",
+            "masculine word in -उ + 'in' = -औ.",
+            teaches="For a masculine word in -उ the 'in' form ends in -औ: हेतौ, शत्रौ."),
     ],
 }
 
@@ -849,7 +851,7 @@ AUTHORED["13"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "The second line compares the treatise to something that gives light. What?",
+            "In the second line the treatise is compared to what?",
             ("A lamp",
              "प्रदीपभूतं शास्त्रम् = the treatise is like a lamp."),
             [("A mirror", "A mirror is not mentioned."),
@@ -879,8 +881,8 @@ AUTHORED["13"] = {
              "प्रदीपभूतं शास्त्रम् and दर्शनं विपुला मतिः."),
             [("Treatise = sight; wide intellect = lamp",
               "This swaps them."),
-             ("Treatise = sight; lamp = wide intellect",
-              "This also swaps them."),
+             ("Treatise = lamp; wide intellect = fire",
+              "The line says the intellect is the sight, not a fire."),
              ("Lamp = sight; treatise = wide intellect",
               "The line does not equate those.")],
             "The treatise is the lamp, and the wide intellect is the sight.",
@@ -905,11 +907,11 @@ AUTHORED["13"] = {
 # ================================================================== NOTES
 NOTES_HI = {
     "1": "‘अथातः’ = अथ + अतः (अ + अ → आ); शब्द-रूप वही छपा है। इकाई सूत्र-रूप आरम्भ-वाक्य है (गद्य); कोई पाठ-संदेह नहीं, विश्वास उच्च।",
-    "2": "विश्वास: निम्न। पहली पंक्ति के ‘गुरुरुक्तः’ का अन्वय अनिश्चित है: ‘गुरुः उक्तः’ (गुरु कहा गया) या ‘गुरूक्तः’ (गुरु द्वारा कहा गया)। डेटा में हिन्दी और अंग्रेज़ी यह अलग-अलग लेते हैं कि सूची गुरु की है या शिष्य की; इस कार्ड में यह तय नहीं किया गया। ‘अभियुक्तः’ को ‘परिश्रमी’ या ‘जुड़ा हुआ’ दोनों पढ़ सकते हैं। ‘ऋज्वास्य...’ में ऋजु + आस्य → ऋज्वास्य संधि जाँची गई। इकाई अगले श्लोक की ओर चलती है।",
+    "2": "विश्वास: निम्न। पहली पंक्ति के ‘गुरुरुक्तः’ का अन्वय अनिश्चित है: ‘गुरुः उक्तः’ (गुरु कहा गया) या ‘गुरूक्तः’ (गुरु द्वारा कहा गया)। पुस्तक के अपने हिन्दी और अंग्रेज़ी यह अलग-अलग लेते हैं कि सूची गुरु की है या शिष्य की; इस कार्ड में यह तय नहीं किया गया। ‘अभियुक्तः’ को ‘परिश्रमी’ या ‘जुड़ा हुआ’ दोनों पढ़ सकते हैं। ‘ऋज्वास्य...’ में ऋजु + आस्य → ऋज्वास्य संधि जाँची गई। इकाई अगले श्लोक की ओर चलती है।",
     "3": "विश्वास: उच्च। ‘षण्मासानुषितः’ को षट्-मास-अनुषितः या षण्-मासान् उषितः दोनों तरह पढ़ा जा सकता है; अर्थ वही रहता है। गुरु का नाम श्लोक में नहीं है। ‘कला’ का अर्थ ‘कुशलता’ लिया गया है, ‘कलाएँ’ भी सम्भव है। ‘जितद्वंद्वो’ = जितद्वन्द्वः (विसर्ग → ओ, धीरः के घोष ‘ध’ से पहले)।",
     "4": "विश्वास: मध्यम। ‘गतो यावदन्तम्’ को ‘अन्त तक पहुँचा हुआ’ भी पढ़ा जा सकता है। ‘तन्त्रार्थकर्मणाम्’ के तीन पदों को एक वाक्यांश (‘तन्त्र के अर्थ-कर्म’) भी पढ़ा जा सकता है। ‘राहुदर्शन’ शाब्दिक अनुवाद है; पुस्तक इसे ग्रहण मानती है। दूसरी पंक्ति का ‘न’ अगले श्लोक के ‘पठेत्’ से पूरा होता है। ‘नाकाल...’ = न + अकाल... (अ + अ → आ)।",
     "5": "विश्वास: मध्यम। ‘पञ्चदश्याम् अचन्द्रायाम्’ में पुस्तक अमावस्या लेती है, पर पाठ में ‘अमावस्या’ नहीं है; अंग्रेज़ी टिप्पणी का सुझाव ‘पन्द्रहवीं तिथि और चन्द्रहीन रात’ भी है, इसलिए इस पर प्रश्न नहीं बना। ‘नाविच्छिन्नपदम्’ में ‘न अविच्छिन्न’ या ‘न विच्छिन्न’ दोनों सम्भव हैं (पाठ-दोष सम्भव); अपरिवर्तित। ‘नीचकैः’ को नीच + क प्रत्यय वाला रूप माना गया है। ‘नात्युच्च...’ = न + अति + उच्च (इ → य्)।",
-    "6": "विश्वास: मध्यम। ‘हितान्यतमम्’: पुस्तक का विभाजन ‘हितान् यतमम्’ मान्य शब्द-विभाजन नहीं है; ‘हित + अन्यतमम्’ (हितैषियों में से एक) माना गया है, अर्थ सन्दिग्ध। ‘सुप्त एवास्मिन्’ को ‘सुप्ते एव + अस्मिन्’ पढ़ा गया है (पुस्तक का विभाजन ‘सुप्तः’ है); दोनों से अर्थ वही बनता है।",
+    "6": "विश्वास: मध्यम। ‘हितान्यतमम्’: पुस्तक का विभाजन ‘हितान् यतमम्’ मान्य शब्द-विभाजन नहीं है; ‘हित + अन्यतमम्’ (हितैषियों में से एक) माना गया है, अर्थ सन्दिग्ध। सुप्त एवास्मिन् = सुप्तः + एव + अस्मिन् (अः + स्वर → अ + स्वर); डेटा इसे सुप्ते (सप्तमी) लेता है; अर्थ वही रहता है।",
     "7": "विश्वास: मध्यम। (१) ‘न साध्वपि विनोदयेत्’: कर्म स्पष्ट नहीं; हिन्दी और अंग्रेज़ी में अलग-अलग लिया गया है। (२) ‘स्तब्धः’ छपा है, पर ‘अनुद्धतः’ और अन्य गुणों से मेल नहीं खाता; ‘ऽस्तब्धः’ (अस्तब्धः) का अवग्रह खोया लगता है। अनुवाद ‘अस्तब्धः’ लेता है, पर कोई प्रश्न इस पर नहीं टिका। डेटा का हिन्दी ‘अडिग’ और अंग्रेज़ी ‘gentle’ पुराने पाठ पर आधारित हो सकते हैं।",
     "8": "विश्वास: मध्यम। ‘अर्थशास्त्रवित्’ का अर्थ ‘अर्थशास्त्र का जानकार’ भी हो सकता है; ‘शास्त्रों के अर्थ का जानकार’ लिया गया। ‘कालवेदी’ शाब्दिक रखा है। ‘ज्ञातग्रन्थोऽर्थ...’ = ज्ञातग्रन्थः + अर्थ... (विसर्ग → ओ, अ का लोप ऽ)। ‘यश्च’ = यः + च (विसर्ग → श्)।",
     "9": "विश्वास: उच्च। वाक्य अगली इकाई (‘स मुह्यति...’) में चलता है। ‘यस्तु’ = यः + तु (विसर्ग → स्)। ‘भिषक्शब्द’ = ‘भिषक्’ नाम। ‘कर्म’ = व्यावहारिक कार्य।",
@@ -924,11 +926,11 @@ AIDS = {
     "1": {
         "chunks": "अथातः | शिष्योपनयनीयम् अध्यायं | व्याख्यास्यामः ॥",
         "sandhi": "अ + अ → आ: अथ + अतः → अथातः · -म् + अ: शिष्योपनयनीयम् + अध्यायम् → शिष्योपनयनीयमध्यायम् (म् अगले स्वर से जुड़ गया)।",
-        "anchors": "व्याख्या ← वि + आ + ख्या (खोलकर कहना) · अध्याय = अधि + आय (पढ़ाई का भाग) · उपनयन = पास ले जाना।",
+        "anchors": "व्याख्या ← वि + आ + ख्या (खोलकर कहना) · अध्याय ← अधि + √इ (पढ़ना; पढ़ाई का भाग) · उपनयन = पास ले जाना (उप + नयन)।",
     },
     "2": {
-        "chunks": "गुरुरुक्तोऽभियुक्तोऽतियुक्तः धीस्मृतिपाटवैः ‖ ऋज्वास्यनासानयनः तनुस्निग्धत्वक्छविः ॥",
-        "sandhi": "उ + आ → वा: ऋजु + आस्य → ऋज्वास्य · विसर्ग → ओ और अ का लोप (ऽ): गुरुः + उक्तः → गुरुरुक्तः, उक्तः + अभियुक्तः → उक्तोऽभियुक्तः।",
+        "chunks": "गुरुरुक्तोऽभियुक्तोऽतियुक्तो धीस्मृतिपाटवैः ‖ ऋज्वास्यनासानयनः तनुस्निग्धत्वक्छविः ॥",
+        "sandhi": "विसर्ग → र् (उ के बाद, स्वर से पहले): गुरुः + उक्तः → गुरुरुक्तः · उ + आ → वा: ऋजु + आस्य → ऋज्वास्य · विसर्ग → ओ और अ का लोप (ऽ): उक्तः + अभियुक्तः → उक्तोऽभियुक्तः, अभियुक्तः + अतियुक्तः → अभियुक्तोऽतियुक्तः।",
         "pegs": "मेरा बनाया चित्र: तीन दीये (धी, स्मृति, पाटव), और एक चेहरे पर सीधी आँखें, नाक और मुख।",
     },
     "3": {
@@ -939,7 +941,7 @@ AIDS = {
              "items": ["षण्मासानुषितः", "शक्तः", "लज्जा", "शौच", "कला"]}]},
         "frame": "कौन: ब्रह्मचारी · कैसा: द्वन्द्व जीता, धीर, सदाचारी, स्थिर · अवधि: छह मास · क्षमता: समर्थ · युक्त: लज्जा, शौच, कला।",
         "chunks": "ब्रह्मचारी | जितद्वन्द्वः | धीरः | सुचरितः | स्थिरः ‖ षण्मासानुषितः | शक्तः | लज्जाशौचकलान्वितः ॥",
-        "letters": "ज-धी-सु-स्थि (पहली पंक्ति): जित, धीर, सुचरित, स्थिर; फिर श-ल-शौ-क: शक्त, लज्जा, शौच, कला।",
+        "letters": "ब्र-ज-धी-सु-स्थि (पहली पंक्ति): ब्रह्मचारी, जित, धीर, सुचरित, स्थिर; फिर ष-श-ल-शौ-क (दूसरी): षण्मास, शक्त, लज्जा, शौच, कला।",
     },
     "4": {
         "diagram": {"groups": [
@@ -954,7 +956,7 @@ AIDS = {
     "5": {
         "chunks": "पञ्चदश्याम् अचन्द्रायाम् | परोक्षे वा गुरोः पठेत् ‖ न अविच्छिन्नपदम् | न अतिमन्दम् | न अत्युच्चनीचकैः ॥",
         "sandhi": "इ + अलग स्वर → य्: अति + उच्च → अत्युच्च; न + अति → नाति; अ + अ → आ।",
-        "contrast": "अतिमन्दम् (बहुत धीमा) ↔ अत्युच्चनीचकैः (बहुत ऊँचे या नीचे स्वर): दोनों अति-वाले दोष हैं।",
+        "contrast": "उच्च (ऊँचा स्वर) ↔ नीच (नीचा स्वर): दोनों अति-वाले दोष, अत्युच्चनीचकैः में एक साथ।",
     },
     "6": {
         "diagram": {"groups": [
@@ -962,14 +964,14 @@ AIDS = {
              "items": ["आचार्यं पर्युपासीत", "राजवत्"]},
             {"label": "सोना और उठना",
              "items": ["शयीत", "उत्तिष्ठेत पूर्वतः"]}]},
-        "chunks": "आचार्यं पर्युपासीत राजवत् ‖ शयीत सुप्ते एव अस्मिन् | उत्तिष्ठेत अस्य पूर्वतः ॥",
+        "chunks": "आचार्यं पर्युपासीत राजवत् ‖ शयीत सुप्त एव अस्मिन् | उत्तिष्ठेत अस्य पूर्वतः ॥",
         "seesaw": "शयीत (गुरु के बाद सोए) ↔ उत्तिष्ठेत पूर्वतः (गुरु से पहले उठे)।",
         "pegs": "मेरा बनाया चित्र: राजा के सामने झुका हुआ सेवक; रात को राजा के बाद दीया बुझाता, सुबह पहले जलाता।",
     },
     "7": {
-        "chunks": "न ब्रूयात् केवलं नाम | न साध्वपि विनोदयेत् ‖ अभेद्यः अनुद्धतः सूनृतः प्रियदर्शनः ॥",
-        "sandhi": "अ + उ: अन् + उद्धतः → अनुद्धतः · विसर्ग → ओ और ऽ: अभेद्यः + अनुद्धतः → अभेद्योऽनुद्धतः।",
-        "anchors": "सूनृत = सू + नृत (अच्छा-सच्चा बोल) · प्रिय + दर्शन · अभेद्य = न भेदने योग्य।",
+        "chunks": "न ब्रूयात् केवलं नाम | न साध्वपि विनोदयेत् ‖ अभेद्यः अनुद्धतः (स्तब्धः: संदिग्ध) सूनृतः प्रियदर्शनः ॥",
+        "sandhi": "अन् + उ: अन् + उद्धतः → अनुद्धतः (न् अगले स्वर से जुड़ा) · विसर्ग → ओ और ऽ: अभेद्यः + अनुद्धतः → अभेद्योऽनुद्धतः।",
+        "anchors": "सूनृत = सत्य और प्रिय वाणी (डेटा का अर्थ) · प्रिय + दर्शन = देखने में प्रिय · अभेद्य = जिसे भेदा न जा सके।",
         "puns": "केवल सुनने की सहायता: ‘सूनृत’ ≈ ‘सुन-ऋत’ (सुनने में मीठा, सच्चा)।",
     },
     "8": {
@@ -990,11 +992,11 @@ AIDS = {
     },
     "10": {
         "diagram": {"steps": [
-            "सः (केवल शास्त्र जानने वाला)",
-            "आतुरं प्राप्य प्राप्य",
+            "सः (पिछली इकाई का केवल-शास्त्रज्ञ)",
             "मुह्यति",
+            "आतुरं प्राप्य प्राप्य",
             "भीरुः इव आहवम् (उपमा)"]},
-        "chain": {"steps": ["आतुरं प्राप्य प्राप्य", "मुह्यति", "भीरुः इव आहवम्"]},
+        "chain": {"steps": ["सः मुह्यति", "आतुरं प्राप्य प्राप्य", "भीरुः इव आहवम्"]},
         "sandhi": "विसर्ग → र्: भीरुः + इव → भीरुरिव · अ + आ → आ: इव + आहवम् → इवाहवम्।",
         "anchors": "प्राप्य = प्र + आप् + य (उपसर्ग वाला ‘करके’ रूप) · मुह्यति ← मोह।",
         "pegs": "मेरा बनाया चित्र: युद्ध-भूमि के द्वार पर काँपता सिपाही; वैद्य के हाथ में बस एक पोथी।",
@@ -1006,7 +1008,7 @@ AIDS = {
         "chunks": "स सत्सु गर्हाम् आप्नोति | वधं च ... राजतः ‖ हेतौ | लिङ्गे | प्रशमने | रोगाणाम् अपुनर्भवे ॥",
         "letters": "हे-लि-प्र-अ: हेतु, लिङ्ग, प्रशमन, अपुनर्भव।",
         "anchors": "प्रशमन ← शम (शान्त होना) · अपुनर्भव = अ + पुनः + भव।",
-        "sandhi": "औ (हेतौ) और ए (लिङ्गे): उ-अन्त शब्द का ‘में’ -औ बनता है, अ-अन्त का -ए · अ + अ: रोगाणाम् + अपुनर्भवे → रोगाणामपुनर्भवे।",
+        "sandhi": "म् + अ: रोगाणाम् + अपुनर्भवे → रोगाणामपुनर्भवे (म् अगले स्वर से जुड़ा) · (रूप-सूचना) उ-अन्त पुल्लिंग शब्द का ‘में’ -औ: हेतौ; अ-अन्त का -ए: लिङ्गे, प्रशमने।",
     },
     "12": {
         "frame": "किसका ज्ञान: चतुर्विध (चार प्रकार का) · वह कैसा: राजा के योग्य, श्रेष्ठ वैद्य · दूसरी पंक्ति: शस्त्र, शास्त्र, जल: गुण-दोष की उत्पत्ति के लिए।",
@@ -1022,7 +1024,7 @@ AIDS = {
              "items": ["विपुला मतिः", "दर्शनम्"]}]},
         "chunks": "प्रज्ञां बाहुश्रुत्येन बृंहयेत् ‖ प्रदीपभूतं शास्त्रं हि | दर्शनं विपुला मतिः ॥",
         "pegs": "मेरा बनाया चित्र: हाथ में दीया (शास्त्र) और माथे पर खुली आँख (विशाल बुद्धि)।",
-        "contrast": "शास्त्र ↔ मति: शास्त्र दीपक की तरह उजाला देता है, विशाल बुद्धि देखने का काम करती है।",
+        "contrast": "शास्त्र = दीपक-सा (प्रदीपभूतम्) ; विशाल बुद्धि = दृष्टि (दर्शनम्): श्लोक की दो उपमाएँ।",
     },
 }
 
@@ -1038,10 +1040,10 @@ IMAGE_SPECS = {
     },
     ("4", "diagram"): {
         "file": "ch2b01-occasions-4.svg",
-        "alt": "Mind map of verse 4 of chapter 2: three occasions after the word na (not): untimely lightning and thunder, an earthquake, the sight of Rahu.",
+        "alt": "Mind map of verse 4 of chapter 2: three occasions after the word na (not): untimely lightning and thunder, an earthquake, the sight of Rahu. The layout of the map is not the verse order; the verse order is lightning and thunder, earthquake, Rahu.",
         "type": "mermaid",
         "code": '''mindmap
-  इन अवसरों पर न पढ़े
+  न · इन अवसरों पर
     असमय बिजली-गर्जन
     भूकम्प
     राहु-दर्शन''',
@@ -1056,12 +1058,12 @@ IMAGE_SPECS = {
     },
     ("10", "diagram"): {
         "file": "ch2b01-bewildered-10.svg",
-        "alt": "Flow chart of verse 10 of chapter 2: the man who knows only the treatise reaches a patient each time, becomes bewildered, like a timid man at a battle.",
+        "alt": "Flow chart of verse 10 of chapter 2, left to right in verse order: he (the man of the previous unit), is bewildered, on reaching a patient each time, like a timid man at a battle.",
         "type": "mermaid",
-        "code": '''flowchart TD
-  A["केवल शास्त्र जानने वाला"] --> B["आतुर के पास पहुँचा<br/>(हर बार)"]
-  B --> C["मुह्यति: घबरा गया"]
-  C -.->|"जैसे"| D["डरपोक युद्ध में"]''',
+        "code": '''flowchart LR
+  A["सः<br/>(केवल शास्त्रज्ञ)"] --> C["मुह्यति"]
+  C --> B["आतुरं प्राप्य<br/>प्राप्य"]
+  B -.->|"जैसे"| D["भीरुः इव<br/>आहवम्"]''',
     },
     ("11", "diagram"): {
         "file": "ch2b01-four-topics-11.svg",
@@ -1079,7 +1081,7 @@ IMAGE_SPECS = {
         "alt": "Table of verse 13 of chapter 2: the treatise is like a lamp; a wide intellect is the sight.",
         "type": "table",
         "title": "दो उपमाएँ",
-        "heads": ["क्या", "कैसा"],
+        "heads": ["विषय", "उपमा"],
         "rows": [["शास्त्रम्", "प्रदीपभूतम् (दीपक-सा)"],
                  ["विपुला मतिः", "दर्शनम् (दृष्टि)"]],
     },

@@ -34,10 +34,10 @@ AUTHORED["1"] = {
               "First the opening words, then the subject, then the verb.",
               "अथातः → दिनचर्याध्यायम् → व्याख्यास्यामः."),
         T(match(2, "Match each word of the formula to its meaning.",
-                [["अथ", "now"], ["अतः", "therefore"], ["अध्यायम्", "chapter"],
+                [["अथ", "now"], ["अतः", "therefore"], ["दिनचर्याध्यायम्", "chapter on the daily routine"],
                  ["व्याख्यास्यामः", "we shall explain"]],
-                "The four words give: now, therefore, the chapter, we shall explain.",
-                "अथ = now; अतः = therefore; अध्याय = chapter; व्याख्यास्यामः = we shall explain.",
+                "The four words give: now, therefore, the chapter on the daily routine, we shall explain.",
+                "अथ = now; अतः = therefore; दिनचर्याध्याय = chapter on the daily routine; व्याख्यास्यामः = we shall explain.",
                 role="extend"),
           "The formula is made of अथ (now), अतः (therefore), the object, and a future verb in the first person plural."),
         mcq("discriminate", 3, "Which split of अथातो is right?",
@@ -48,16 +48,16 @@ AUTHORED["1"] = {
             "अथातः comes from अथ + अतः.",
             "अ + अ → आ; ः + voiced consonant (after अ) → ओ."),
         mcq("apply", 4, "What does the form व्याख्यास्यामः say about the speaker?",
-            ("We speak, and we will explain", "It is 1st person plural future: we shall explain."),
-            [("He explained, long ago", "That would be third person singular, past."),
-             ("You must explain", "That would be a command to someone else."),
-             ("I am explaining now", "That would be singular and present.")],
+            ("We, a group, will explain", "1st person plural future: we shall explain."),
+            [("He explained it, long ago", "That would be third person singular, past."),
+             ("You must explain it to us", "That would be a command to someone else."),
+             ("I am explaining it now", "That would be singular and present.")],
             "The card labels व्याख्यास्यामः as 1 pl. future.",
             "व्याख्यास्यामः = हम समझाएँगे (उत्तम पुरुष, बहुवचन, भविष्यत्)."),
         T(mcq("transfer", 5, "By the pattern of दिनचर्याध्यायम्, what does ऋतुचर्याध्यायम् mean?",
-              ("Chapter on conduct by the seasons", "X-चर्या-अध्याय is the chapter on the routine of X; here X is ऋतु, season."),
-              [("Chapter on the season of conduct", "The first member names the subject, not the season of something."),
-               ("Chapter on teaching the seasons", "चर्या is conduct, not teaching."),
+              ("Chapter on the routine by season", "X-चर्या-अध्याय is the chapter on the routine of X; here X is ऋतु, season."),
+              [("Chapter on the season of the routine", "The first member names the subject, not the season of something."),
+               ("Chapter on teaching the seasons", "चर्या is routine, not teaching."),
                ("Chapter on the day's routine", "That would be दिनचर्या, with दिन, day.")],
               "दिन-चर्या-अध्याय is the chapter on the daily routine, so ऋतु-चर्या-अध्याय is the chapter on routine by season.",
               "X-चर्याध्याय = chapter on the routine of X."),
@@ -84,7 +84,7 @@ AUTHORED["2"] = {
             ("At the Brāhma muhūrta", "ब्राह्मे मुहूर्त्ते उत्तिष्ठेत्: one should rise at the Brāhma muhūrta."),
             [("At the midday meal", "The verse names no meal time."),
              ("At the evening twilight", "Not named in this verse."),
-             ("At the hour of the sun's rise", "The verse says Brāhma muhūrta, not sunrise.")],
+             ("At noon, when the sun is high", "The verse names no such time.")],
             "The verse names the Brāhma muhūrta, taken as the pre-dawn period.",
             "स्वस्थ व्यक्ति ब्राह्म मुहूर्त में उठे."),
         order(1, "Put these phrases of verse 2 in the verse's order.",
@@ -108,13 +108,13 @@ AUTHORED["2"] = {
             "रक्षार्थम् (रक्षा-अर्थम्, for the protection) + आयुषः (of life).",
             "म् + स्वर: म् साथ का स्वर पकड़ लेता है: अर्थम् + आयुषः → अर्थमायुषः."),
         mcq("apply", 4, "A healthy person finds the urge has arisen. What does verse 2 say?",
-            ("He should void it, for the protection of life", "जातवेगः समुत्सृजेत्, रक्षार्थमायुषः."),
+            ("He should void it, to protect life", "जातवेगः समुत्सृजेत्, रक्षार्थमायुषः."),
             [("He should hold it back, to protect life", "The verse says to void it, not to hold it back."),
              ("He should wait until the evening meal", "No such wait is mentioned."),
              ("He should first rise, then forget it", "The verse gives no such instruction.")],
             "The verse joins jāta-vega with samutsṛjet: when the urge has arisen, void.",
             "वेग उत्पन्न हुआ → त्याग करे."),
-        T(mcq("transfer", 5, "By the pattern of जीर्णाजीर्णे निरूपयन्, what does सुखदुःखे निरूपयन् mean?",
+        T(mcq("transfer", 5, "By the pattern of जीर्णाजीर्णे निरूपयन् (dual objects), what does सुखदुःखे निरूपयन् mean?",
               ("Examining pleasure and pain", "A dual dvandva as object of the participle, as जीर्णाजीर्णे."),
               [("Examining pleasure alone", "The dvandva names both members, सुख and दुःख."),
                ("Pleasure and pain that examine", "निरूपयन् is the one doing the examining, not the object."),
@@ -191,8 +191,9 @@ AUTHORED["4"] = {
     "rule": ("One should let out (प्रवर्तयेत्) what has begun to move, but not force it out with effort "
              "(न तु यत्नादुदीरयेत्). The second line begins a list of places where one should not void."),
     "limits": ("The sentence continues in the next unit. The long compound of line 2 is read as a list; it can be "
-               "grouped differently, so the card does not rest on how it is grouped. The verb is understood from earlier units."),
-    "explain_hi": ("पहली पंक्ति में दो बातें हैं: जो वेग अपने आप चल पड़ा है उसे निकलने दे (प्रवर्तयेत्), पर प्रयत्न से "
+               "grouped differently, so the card does not rest on how it is grouped. The verb is understood from earlier units. "
+               "The noun ‘वेग’ is understood from earlier units."),
+    "explain_hi": ("पहली पंक्ति में दो बातें हैं: जो (समझा हुआ ‘वेग’) चल पड़ा है उसे निकलने दे (प्रवर्तयेत्), पर प्रयत्न से "
                    "जबरदस्ती न निकाले (न तु यत्नात् उदीरयेत्)। दूसरी पंक्ति में स्थानों की सूची शुरू होती है जहाँ त्याग "
                    "नहीं करना है: अपवित्र स्थान, मार्ग, मिट्टी, राख, गोशाला आदि। सूची की बनावट दो तरह पढ़ी जा सकती "
                    "है, इसलिए कार्ड उसकी बारीकी पर नहीं टिकता। वाक्य अगली इकाई में चलता है।"),
@@ -200,7 +201,7 @@ AUTHORED["4"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "What does verse 4 say about an urge that has begun to move?",
-            ("Let it out, but do not force it with effort", "प्रवर्तयेत्प्रचलितं नतु यत्नादुदीरयेत्."),
+            ("Let it out, but not with effort", "प्रवर्तयेत्प्रचलितं नतु यत्नादुदीरयेत्."),
             [("Force it out with all effort", "That is the opposite of न तु यत्नात् उदीरयेत्."),
              ("Hold it back until a later hour", "The verse says to let it out, not hold it."),
              ("Let it out only after the first meal", "No such wait is mentioned.")],
@@ -228,7 +229,7 @@ AUTHORED["4"] = {
               [("Let out what has begun to move", "Right: प्रवर्तयेत् प्रचलितम्."),
                ("Do not force it out with effort", "Right: न तु यत्नादुदीरयेत्."),
                ("Force it out so that none remains", "The verse forbids forcing."),
-               ("Voiding on ash is allowed", "Line 2 has a न with the list that includes भस्म (ash).")],
+               ("What has begun to move should be stopped", "The verse says to let it out: प्रवर्तयेत्.")],
               [0, 1],
               "Two points are said of the urge itself; line 2 begins a list of places not to void.",
               "वेग: निकलने दे, ज़ोर नहीं; स्थान: अपवित्र आदि वर्जित."),
@@ -260,10 +261,10 @@ AUTHORED["5"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In line 2 of verse 5, what does प्रति after the list mean?",
-            ("Toward, in the direction of", "The card glosses प्रति as toward: न ... प्रति = not toward them."),
-            [("Away from", "प्रति does not mean away."),
-             ("Without", "That would be a different word."),
-             ("After", "प्रति is not a word of time here.")],
+            ("Toward them", "The card glosses प्रति as toward: न ... प्रति = not toward them."),
+            [("Away from them", "प्रति does not mean away."),
+             ("Instead of them", "प्रति does not mean instead of."),
+             ("Together with them", "प्रति is not a word of company here.")],
             "The list in line 2 is followed by प्रति: not toward these.",
             "प्रति = की ओर."),
         order(1, "Put the first five items of verse 5, line 2, in the verse's order.",
@@ -277,20 +278,20 @@ AUTHORED["5"] = {
                 "वल्मीक = anthill; द्रुम = tree; अर्क = sun; इन्दु = moon; वायु = wind.",
                 role="extend"),
           "The sun and the moon have several Sanskrit names; here they are अर्क and इन्दु."),
-        mcq("discriminate", 3, "Which of these is NOT named in verse 5?",
-            ("A mountain", "No mountain appears in either list."),
-            [("A cow", "गो is named in line 2."),
-             ("The moon", "इन्दु is named in line 2."),
-             ("An anthill", "वल्मीक is named in line 1.")],
-            "The cow, the moon and the anthill are named; a mountain is not.",
-            "गो, इन्दु, वल्मीक श्लोक में हैं; पर्वत नहीं."),
-        multi("apply", 4, "Which are things toward which line 2 says not to face?",
+        mcq("discriminate", 3, "Which of these is named in line 2 of verse 5?",
+            ("The moon", "इन्दु is named in line 2."),
+            [("A mountain", "Not in the clear list of line 2."),
+             ("A river", "Not in the clear list of line 2."),
+             ("A lamp", "Not in the clear list of line 2.")],
+            "इन्दु, the moon, is one of the clear words of line 2.",
+            "गो, इन्दु, वल्मीक स्पष्ट शब्द हैं; पर्वत, नदी, दीप सूची में नहीं."),
+        multi("apply", 4, "Which of these stand in line 2's list under 'not toward' (न … प्रति)?",
               [("A cow", "Right: गो."), ("The sun", "Right: अर्क."),
-               ("A tree", "द्रुम is in line 1 as a place, not a direction."),
-               ("An anthill", "वल्मीक is in line 1 as a place, not a direction.")],
+               ("A tree", "द्रुम is in line 1 as a place, not in line 2's list."),
+               ("An anthill", "वल्मीक is in line 1 as a place, not in line 2's list.")],
               [0, 1],
-              "Line 2 gives the directions; line 1 gives the places.",
-              "पंक्ति २: दिशाएँ/वस्तुएँ; पंक्ति १: स्थान."),
+              "Line 2 gives the list under 'not toward'; line 1 gives the places.",
+              "पंक्ति २: 'की ओर नहीं' की सूची; पंक्ति १: स्थान."),
         T(mcq("transfer", 5, "By the verse's pattern, how is न with a word for the moon and प्रति written?",
               ("न इन्दुं प्रति", "प्रति takes the accusative: इन्दुम् (the card has जलम् + प्रति)."),
               [("न इन्दुः प्रति", "The nominative does not go with प्रति."),
@@ -313,7 +314,7 @@ AUTHORED["6"] = {
     "explain_hi": ("इस श्लोक की पहली पंक्ति में छपा पाठ संदिग्ध है (‘चौं’), इसलिए उसका भाव पक्का नहीं माना गया। दूसरी पंक्ति का "
                    "साफ़ भाग कहता है कि जिसे वेग हुआ है वह दूसरे काम में लगा न रहे (न वेगितोऽन्यकार्यः स्यात्)। "
                    "आगे ‘न अजित्वा साध्यमामयम्’ संक्षिप्त है: साध्य रोग को जीते बिना। उसका पूरा अन्वय यहाँ पक्का नहीं, "
-                   "इसलिए प्रश्न केवल वेगित और अन्यकार्य पर टिके हैं।"),
+                   "इसलिए प्रश्न दूसरी पंक्ति के साफ़ शब्दों और सन्धि पर टिके हैं; ‘न अजित्वा साध्यमामयम्’ के पूरे अन्वय पर कोई प्रश्न नहीं टिका।"),
     "hook": "वेग हो तो दूसरे काम में न लगे।",
     "core": False,
     "questions": [
@@ -375,7 +376,7 @@ AUTHORED["7"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "With what does verse 7 say the passage is first wiped?",
-            ("Lumps of earth free of splinters and unspoiled", "निःशल्यादुष्टमृत्पिण्डीपरिमृष्टमलायनः."),
+            ("Unspoiled lumps of earth", "निःशल्यादुष्टमृत्पिण्डीपरिमृष्टमलायनः."),
             [("Lumps of ash free of splinters", "The verse names earth, not ash."),
              ("Pieces of cloth that are unspoiled", "No cloth is named in the verse."),
              ("Dry leaves free of splinters", "No leaves are named in the verse.")],
@@ -389,7 +390,7 @@ AUTHORED["7"] = {
                 [["निःशल्य", "free of splinters"], ["अदुष्ट", "unspoiled"],
                  ["शुचिभिः", "with clean ones"], ["अद्भिः", "with waters"],
                  ["योजयेत्", "one should apply"]],
-                "Two words describe the earth, two describe the waters, one is the verb.",
+                "Two words describe the earth, one describes the waters, one is the waters, one is the verb.",
                 "निःशल्य = śalya-free; अदुष्ट = unspoiled; शुचि = clean; अप् = water; योजयेत् = apply.",
                 role="extend"),
           "The prefix नि:/निस् means 'without' and अ- negates: निःशल्य = without splinter, अदुष्ट = not spoiled."),
@@ -448,7 +449,7 @@ AUTHORED["8"] = {
         T(match(2, "Match each word of verse 8 to its meaning.",
                 [["लेप", "smear"], ["गन्ध", "odour"], ["शौचम्", "cleansing"],
                  ["अश्रु", "tears"], ["दृशम्", "the eye"]],
-                "The first four words name the cleansing and what it removes; the last two begin the list.",
+                "The first three words name the cleansing and what it removes; the last two come from the list of line 2.",
                 "लेप = smear; गन्ध = odour; शौच = cleansing; अश्रु = tears; दृश् = eye.",
                 role="extend"),
           "शौचम् is the cleansing; the compound लेपगन्धापहम् says what it removes (अपह = removing)."),
@@ -468,7 +469,7 @@ AUTHORED["8"] = {
               "Line 2 lists dhātus, malas, tears, the eye, fallen hair and nails.",
               "छूने की सूची: धातु, मल, अश्रु, दृक्, केश-नख."),
         T(mcq("transfer", 5, "By the pattern of केशनखान्, what does दन्तकेशान् mean?",
-              ("Teeth and hair, as objects", "A dvandva in the accusative plural, like केशनखान्."),
+              ("Teeth and hair", "A dvandva in the accusative plural, like केशनखान्."),
               [("Teeth of the hair", "The dvandva joins two items; it does not make one belong to the other."),
                ("Hair of the teeth", "The dvandva lists them side by side."),
                ("By teeth and hair", "-ान् is the accusative plural, not the instrumental.")],
@@ -486,8 +487,8 @@ AUTHORED["9"] = {
              "in the worship of the gods, or after passing over a road, seated and facing north."),
     "limits": ("'Seated, facing north' is the posture; the printed joining of upaviṣṭa and udaṅmukhaḥ is irregular "
                "(flagged), though the sense is clear. Whether the touching of unit 8 also calls for sipping is the "
-               "commentary's reading. 'Passed over a road' could also be 'walked on'."),
-    "explain_hi": ("यहाँ आचमन के अवसर गिनाए गए हैं: स्नान के बाद, भोजन की इच्छा होने पर, भोजन के बाद, सोकर उठने पर, छींकने "
+               "book's reading. 'Passed over a road' could also be 'walked on'."),
+    "explain_hi": ("यहाँ आचमन के अवसर गिनाए गए हैं: स्नान के बाद, भोजन की इच्छा होने पर, भोजन के बाद, सोने के बाद, छींकने "
                    "के बाद, देवताओं की पूजा में, और मार्ग को पार करके। क्रिया ‘आचमेत्’ है, यानी आचमन करे; आसन: बैठकर, "
                    "उत्तर की ओर मुख करके। छपे पाठ में ‘वा चामेत्’ का अर्थ वा + आचामेत् है (आ + आ → आ)। "
                    "पिछली इकाई की सूची से इसका सम्बन्ध पुस्तक की पढ़त है, श्लोक में स्पष्ट नहीं।"),
@@ -523,7 +524,7 @@ AUTHORED["9"] = {
               [("After sneezing", "Right: क्षुत्वा."),
                ("After sleeping", "Right: सुप्त्वा."),
                ("After combing the hair", "Not named in this verse."),
-               ("After a walk in a garden", "Not named in this verse.")],
+               ("After reading aloud", "Not named in this verse.")],
               [0, 1],
               "The list is exactly: bathing, wish to eat, eaten, slept, sneezed, worship, passing over a road.",
               "आचमन के अवसर श्लोक की सूची तक सीमित."),
@@ -570,7 +571,7 @@ AUTHORED["10"] = {
                 "अन्यदृक् is the negated feature (न अन्यदृक्).",
                 "प्राङ्मुख = east-facing; विविक्तस्थ = in a secluded place; अजल्पन् = not talking.",
                 role="extend"),
-          "Bahuvrīhi words such as अन्यदृक् and उत्तरासङ्गी describe the person; न or अ- negates them."),
+          "Words such as अन्यदृक् (bahuvrīhi) and उत्तरासङ्गी (one having an upper garment) describe the person; न or अ- negates them."),
         mcq("discriminate", 3, "Which split of नान्यदृक् is right?",
             ("न + अन्यदृक्", "अ + अ gives आ: not looking elsewhere."),
             [("ना + न्यदृक्", "न्यदृक् is not a word."),
@@ -615,10 +616,10 @@ AUTHORED["11"] = {
             ("Waters heated by fire", "नाग्निपक्कैः: not with waters heated by fire."),
             [("Waters that are clean", "Clean waters are the ones required in verse 10."),
              ("Waters that reach the thumb's base", "That is the requirement of verse 10."),
-             ("Waters offered with both hands", "The verse forbids only one-hand offering.")],
+             ("Waters offered with both hands", "The verse forbids offering with one hand; it does not mention both hands.")],
             "The forbidden waters include those heated by fire.",
             "अग्निपक्क जल वर्जित."),
-        order(1, "Put the four kinds of forbidden waters in the verse's order.",
+        order(1, "Put the four clear kinds of forbidden waters in the verse's order.",
               ["अग्निपक्कैः", "पूतिभिः", "फेनबुद्बुदक्षारैः", "एकहस्तार्पितैः"],
               "First fire-heated and foul-smelling, then foam-bubble-alkaline, then offered with one hand.",
               "आग पर पके → दुर्गन्धयुक्त → झाग-बुलबुले-क्षार → एक हाथ से दिए."),
@@ -660,12 +661,12 @@ AUTHORED["12"] = {
     "title": "नार्द्रैकपाणिर्नामेध्य",
     "question": "What three things does line 1 of verse 12 forbid, and what begins in line 2?",
     "rule": ("Line 1: not with one hand wet (आर्द्रैकपाणिः), not with impure hands and feet, and not making sound. "
-             "Line 2 begins a list of trees whose product is named in the next unit: vaṭa, asana, arka, khadira, karañja, kavīra."),
-    "limits": ("The tree names are names only; no plant is identified. 'Kavīra' may be a variant of another name. "
+             "Line 2 begins a list of plant names, each ‘born of’ (ज); what is born of them is named in a later unit: vaṭa, asana, arka, khadira, karañja, kavīra."),
+    "limits": ("The plant names are names only; no plant is identified. The verb (आचमन करना) is understood from earlier units. 'Kavīra' may be a variant of another name. "
                "What the trees give (a tooth-cleaning stick) is stated in a later unit, not here."),
     "explain_hi": ("पहली पंक्ति आचमन की शेष मनाही पूरी करती है: एक हाथ गीला रखकर नहीं, अपवित्र हाथ-पैरों से नहीं, और शब्द करते हुए नहीं। "
-                   "दूसरी पंक्ति नया विषय शुरू करती है: पेड़ों के नामों की सूची (वट, असन, अर्क, खदिर, करंज, कवीर) जिनसे उत्पन्न "
-                   "कुछ चुना जाता है; वह चीज़ यहाँ नहीं, आगे की इकाई में है। नाम केवल नाम हैं, पहचान नहीं दी गई।"),
+                   "दूसरी पंक्ति नया विषय शुरू करती है: नामों की सूची (वट, असन, अर्क, खदिर, करंज, कवीर; ये पौधों के नाम हैं, पहचान नहीं दी गई) जिनसे उत्पन्न "
+                   "कुछ चुना जाता है; वह चीज़ यहाँ नहीं, आगे की इकाई में है।"),
     "hook": "एक हाथ गीला नहीं · अपवित्र नहीं · शब्द नहीं; फिर वट-असन-अर्क… की सूची।",
     "core": False,
     "questions": [
@@ -676,7 +677,7 @@ AUTHORED["12"] = {
              ("Facing east", "That is allowed in verse 10.")],
             "Line 1 forbids a wet hand, impure hands and feet, and making sound.",
             "शब्द न करे."),
-        order(1, "Put the tree names of verse 12, line 2, in the verse's order.",
+        order(1, "Put the names of verse 12, line 2, in the verse's order.",
               ["वट", "असन", "अर्क", "खदिर", "करंज", "कवीर"],
               "The line lists vaṭa, asana, arka, khadira, karañja, kavīra.",
               "वट → असन → अर्क → खदिर → करंज → कवीर."),
@@ -716,7 +717,7 @@ AUTHORED["12"] = {
 # ---------------------------------------------------------------- unit 13
 AUTHORED["13"] = {
     "title": "सर्जारिमेदापामार्ग",
-    "question": "What does verse 13 add to the list of trees, and what tastes does it name?",
+    "question": "What does verse 13 add to the list of plant names, and what tastes does it name?",
     "rule": ("More names: sarja, arimeda, apāmārga, mārutī, kakubha; then three tastes, astringent, bitter, "
              "pungent (कषाय, तिक्त, कटु); and any other root of this kind as well."),
     "limits": ("The names are names only; the split sarja-arimeda is the book's, and 'sarjāri-meda' is also possible. "
@@ -729,15 +730,15 @@ AUTHORED["13"] = {
     "questions": [
         mcq("pretest", 0, "Which three tastes does verse 13 list?",
             ("Astringent, bitter, pungent", "कषायतिक्तकटुकम्: astringent, bitter, pungent."),
-            [("Sweet, sour, salty", "None of these is named in the verse."),
-             ("Astringent, sweet, salty", "Sweet and salty are not named."),
-             ("Bitter, sour, pungent", "Sour is not named.")],
+            [("Sweet, sour, and salty tastes", "None of these is named in the verse."),
+             ("Astringent, sweet, and salty", "Sweet and salty are not named."),
+             ("Bitter, sour, and also pungent", "Sour is not named.")],
             "The verse names three tastes in a dvandva.",
             "कषाय, तिक्त, कटु."),
-        order(1, "Put the names of verse 13, line 1, in the verse's order.",
-              ["सर्ज", "अरिमेद", "अपामार्ग", "मारुती", "ककुभ"],
-              "The line names sarja, arimeda, apāmārga, mārutī, kakubha, then the thing born of them.",
-              "सर्ज → अरिमेद → अपामार्ग → मारुती → ककुभ."),
+        order(1, "Put the parts of verse 13 in the verse's order.",
+              ["सर्जारिमेदापामार्गमारुतीककुभोद्भवम्", "कषायतिक्तकटुकम्", "मूलमन्यदपीदृशम्"],
+              "Line 1 gives the names and what is born of them; then the tastes; then the last words, another root of this kind.",
+              "नामों की सूची → स्वाद → मूल."),
         T(match(2, "Match each word of verse 13, line 2, to its meaning.",
                 [["कषाय", "astringent"], ["तिक्त", "bitter"], ["कटु", "pungent"],
                  ["मूलम्", "root"], ["ईदृशम्", "of this kind"]],
@@ -760,7 +761,7 @@ AUTHORED["13"] = {
             "The last words widen the list to other roots of the same kind.",
             "ऐसी ही अन्य मूल भी."),
         T(mcq("transfer", 5, "By the pattern of कषायतिक्तकटुकम्, what does मधुरलवणम् name?",
-              ("Sweet and salty, as a pair of tastes", "A neuter dvandva of two taste words."),
+              ("Sweet and salty", "A neuter dvandva of two taste words."),
               [("A sweet that is salty", "The dvandva lists both tastes, not one qualifying the other."),
                ("Salt of the sweet", "Neither word is the owner of the other."),
                ("Only the salty taste", "The compound names both.")],
@@ -783,7 +784,7 @@ NOTES_HI = {
     "9": "विश्वास: मध्यम। ‘वा चामेत्’ = वा + आचामेत् (आ + आ → आ)। पाठ-चिह्न: ‘चामेदुपविष्टउदङ्मुखः’ में उपविष्टः + उदङ्मुखः की सन्धि छपे ‘औ’ से मेल नहीं खाती; सुझाव ‘चामेद् उपविष्ट उदङ्मुखः’। पिछली इकाई की सूची आचमन से जुड़ती है, यह पुस्तक की पढ़त है। ‘रथ्यामाक्रम्य’ = मार्ग को पार करके, ‘मार्ग पर चलकर’ भी सम्भव।",
     "10": "विश्वास: मध्यम। ‘बहिर्जानु’ में ‘हाथ’ समझा हुआ शब्द है, मूल में केवल ‘घुटनों के बाहर’। ‘जल’ और ‘आचमेत्’ पड़ोसी इकाइयों से लिए गए हैं। ‘स्वच्छैः … गैः’ तृतीया बहुवचन है जो उन जलों का विशेषण है। ‘नान्यदृक्’ = न + अन्यदृक् जाँचा गया।",
     "11": "विश्वास: मध्यम। सम्पादकों ने ‘उद्धृत’ का अर्थ अनिश्चित चिह्नित किया है (उठाया/निकाला हुआ जल?)। ‘नानतो’ को न + आनतः (झुका नहीं) पढ़ा गया; न + अनतः पढ़ें तो अर्थ उलट जाता है। ‘नोर्ध्वम्’ मुद्रा या जल दोनों के लिए हो सकता है। इसलिए प्रश्न इन तीन पर नहीं। ‘नैकहस्तार्पितैः’ में अ + ए → ऐ जाँचा गया।",
-    "12": "विश्वास: मध्यम। दूसरी पंक्ति से पेड़ों की सूची शुरू होती है, जिसका कर्म (दन्तधावन) आगे की इकाई में है; यहाँ नहीं कहा गया। पेड़ों के नाम केवल नाम हैं; ‘कवीर’ किसी अन्य नाम का रूपान्तर हो सकता है। ‘नार्द्रैक…’ में अ + आ → आ, आ + ए → ऐ जाँचा गया।",
+    "12": "विश्वास: मध्यम। दूसरी पंक्ति से नामों की सूची शुरू होती है, जिसका कर्म (दन्तधावन) आगे की इकाई में है; यहाँ नहीं कहा गया। ये नाम केवल नाम हैं; ‘कवीर’ किसी अन्य नाम का रूपान्तर हो सकता है। ‘नार्द्रैक…’ में अ + आ → आ, आ + ए → ऐ जाँचा गया।",
     "13": "विश्वास: मध्यम। सूची में नाम केवल नाम हैं। ‘सर्जारिमेद’ का विभाजन सर्ज-अरिमेद पुस्तक के अनुसार है; सर्जारि-मेद भी सम्भव। ‘मूल’ का अर्थ जड़ या स्रोत, श्लोक तय नहीं करता। ‘कषायतिक्तकटुकम्’ द्वन्द्व है; अनुवाद में ‘या’ आया है, मूल में केवल सूची। ‘मूलमन्यदपीदृशम्’ में म्/त् की सन्धि और इ + ई जाँचे गए।",
 }
 
@@ -809,20 +810,20 @@ AIDS = {
             {"label": "अवस्था", "items": ["वाचं नियम्य", "प्रणतः", "संवीताङ्गः", "अवगुण्ठितः"]}]},
         "chunks": "उदङ्मुखो मूत्रशकृद् | दक्षिणाभिमुखो निशि ‖ वाचं नियम्य प्रणतः | संवीताङ्गोऽवगुण्ठितः।",
         "sandhi": "अः + म → ओ म: उदङ्मुखः + मूत्र → उदङ्मुखो मूत्र · अः + अ → ओऽ: संवीताङ्गः + अवगुण्ठितः → संवीताङ्गोऽवगुण्ठितः · त् → द्: मूत्रशकृत् + दक्षिण → मूत्रशकृद्दक्षिण।",
-        "pegs": "मेरा बनाया चित्र: दो तीर वाला कम्पास: दिन में ऊपर (उत्तर) की ओर, रात में नीचे (दक्षिण) की ओर। (केवल याद के लिए; श्लोक में दिन की दिशा स्पष्ट नहीं)",
+        "pegs": "मेरा बनाया चित्र: दो तीर वाला कम्पास: एक तीर ऊपर (उत्तर), दूसरा नीचे (दक्षिण), और नीचे वाले तीर पर ‘रात’ लिखा है। (केवल याद के लिए)",
     },
     "4": {
         "contrast": "प्रचलित वेग को निकलने दो ↔ प्रयत्न से ज़बरदस्ती मत निकालो।",
         "diagram": {"groups": [
             {"label": "पंक्ति १", "items": ["प्रवर्तयेत्", "प्रचलितम्", "न तु", "यत्नात्", "उदीरयेत्"]},
-            {"label": "पंक्ति २ (सूची की शुरुआत)", "items": ["अमेध्य", "मार्ग", "मृद्", "भस्म", "गोस्थान", "गोमय"]}]},
-        "chunks": "प्रवर्तयेत्प्रचलितं | न तु यत्नादुदीरयेत् ‖ नामेध्यमार्गमृद्भस्म… गोस्थानाकीर्णगोमये।",
+            {"label": "पंक्ति २ (सूची; पुस्तक का विभाजन)", "items": ["अमेध्य", "मार्ग", "मृद्", "भस्म", "गोस्थान", "आकीर्णगोमय"]}]},
+        "chunks": "प्रवर्तयेत्प्रचलितं | न तु यत्नादुदीरयेत् ‖ नामेध्यमार्गमृद्भस्म | गोस्थानाकीर्णगोमये।",
         "sandhi": "त् → द्: यत्नात् + उदीरयेत् → यत्नादुदीरयेत् · अ + अ → आ: न + अमेध्य → नामेध्य।",
     },
     "5": {
         "diagram": {"groups": [
-            {"label": "पंक्ति १ (साफ़ शब्द)", "items": ["वल्मीक", "रम्य", "चिति", "द्रुम"]},
-            {"label": "पंक्ति २ (की ओर नहीं)", "items": ["नारी", "पूज्य", "गो", "अर्क", "इन्दु", "वायु", "अग्नि", "जल"]}]},
+            {"label": "पंक्ति १ (साफ़ शब्द)", "items": ["वल्मीक", "रम्य", "(उत्कृष्ट: दो अर्थ)", "चिति", "द्रुम"]},
+            {"label": "पंक्ति २ (की ओर नहीं)", "items": ["नारी", "पूज्य", "गो", "अर्क", "इन्दु", "वायु", "अग्नि", "(अभि: अस्पष्ट)", "जल"]}]},
         "chunks": "(अस्पष्ट आरम्भ) …वल्मीकरम्योत्कृष्टचितिद्रुमे ‖ न नारीपूज्यगोर्केंदुवाय्वग्न्याभिजलं प्रति।",
         "pegs": "मेरा बनाया चित्र: आठ चिह्नों की एक पंक्ति: स्त्री, बड़े-बुज़ुर्ग, गाय, सूरज, चाँद, हवा, आग, पानी, और उन सबके सामने एक लाल ‘✕’। (केवल याद के लिए)",
     },
@@ -846,15 +847,15 @@ AIDS = {
             {"label": "पंक्ति १", "items": ["लेप", "गन्ध", "अपहम्", "शौचम्"]},
             {"label": "पंक्ति २ (छूने की सूची)", "items": ["धातून्", "मलान्", "अश्रु", "दृशम्", "केशनखान्", "च्युतान्"]}]},
         "chunks": "लेपगन्धापहं शौचम् | अनुपतितबिन्दुभिः ‖ स्पृष्ट्वा धातून्मलानश्रु | दृशं केशनखांश्च्युतान्।",
-        "sandhi": "अ + अ → आ: गन्ध + अपहम् → गन्धापहम् · न् + अ: मलान् + अश्रु → मलानश्रु · ान् + च → ांश्च: केशनखान् + च्युतान् → केशनखांश्च्युतान्।",
-        "pegs": "मेरा बनाया चित्र: एक हथेली के पास छह छोटी चीज़ें कतार में: कण, मैल, आँसू की बूँद, आँख, बाल, नाखून। (केवल याद के लिए)",
+        "sandhi": "अ + अ → आ: गन्ध + अपहम् → गन्धापहम् · दीर्घ ा के बाद न् दोहराया नहीं जाता: मलान् + अश्रु → मलानश्रु · ान् + च → ांश्च: केशनखान् + च्युतान् → केशनखांश्च्युतान्।",
+        "pegs": "मेरा बनाया चित्र: एक हथेली के पास छह चिह्न कतार में: धातु (अर्थ तय नहीं), मल, आँसू की बूँद, आँख, बाल, नाखून। (केवल याद के लिए)",
     },
     "9": {
         "diagram": {"groups": [
             {"label": "अवसर (पंक्ति १)", "items": ["स्नात्वा", "भोक्तुमनाः", "भुक्त्वा", "सुप्त्वा", "क्षुत्वा", "सुरार्चने"]},
             {"label": "पंक्ति २", "items": ["रथ्याम् आक्रम्य", "वा", "आचामेत्", "उपविष्टः", "उदङ्मुखः"]}]},
         "chunks": "स्नात्वा भोक्तुमना भुक्त्वा | सुप्त्वा क्षुत्वा सुरार्चने ‖ रथ्यामाक्रम्य वा चामेद् | उपविष्ट उदङ्मुखः।",
-        "sandhi": "आ + आ → आ: वा + आचामेत् → वाचामेत् · म् + आ: रथ्याम् + आक्रम्य → रथ्यामाक्रम्य · अः + उ: सुप्त्वा, क्षुत्वा जैसे -त्वा रूपों में कोई सन्धि-परिवर्तन नहीं होता।",
+        "sandhi": "आ + आ → आ: वा + आचामेत् → वाचामेत् · म् + आ: रथ्याम् + आक्रम्य → रथ्यामाक्रम्य · त् + उ → दु: आचामेत् + उपविष्टः → आचामेदुपविष्टः · छपा ‘उपविष्टउदङ्मुखः’ अनियमित है (उपविष्टः + उदङ्मुखः → उपविष्ट उदङ्मुखः)।",
         "pegs": "मेरा बनाया चित्र: सात पड़ाव वाला रास्ता: नल (स्नान), थाली (भोजन की इच्छा), खाली थाली (भोजन), चारपाई (नींद), रूमाल (छींक), दीप (पूजा), सड़क (मार्ग), और हर पड़ाव पर एक चुल्लू जल। (केवल याद के लिए)",
         "puns": "केवल सुनने की सहायता: ‘स्नात्वा-भुक्त्वा-सुप्त्वा-क्षुत्वा’: चारों ‘-त्वा’ में एक ही ताल।",
     },
@@ -873,23 +874,23 @@ AIDS = {
             {"label": "पंक्ति २", "items": ["फेन", "बुद्बुद", "क्षार", "एकहस्तार्पितैः", "जलैः"]}]},
         "chunks": "(अनिश्चित आरम्भ) …नाग्निपक्कैर्न पूतिभिः ‖ न फेनबुद्बुदक्षारैर् | नैकहस्तार्पितैर्जलैः।",
         "sandhi": "अ + ए → ऐ: न + एकहस्त → नैकहस्त · अ + अ → आ: न + अग्निपक्कैः → नाग्निपक्कैः · ः → र्: नाग्निपक्कैः + न → नाग्निपक्कैर्न।",
-        "pegs": "मेरा बनाया चित्र: चार बर्तन, हर पर लाल ‘✕’: उबलता घड़ा, बदबूदार घड़ा, झागदार घड़ा, एक हाथ से थमाया घड़ा। (केवल याद के लिए)",
+        "pegs": "मेरा बनाया चित्र: चार बर्तन, हर पर लाल ‘✕’: आग पर चढ़ा घड़ा, बदबूदार घड़ा, झागदार घड़ा, एक हाथ से थमाया घड़ा। (केवल याद के लिए)",
     },
     "12": {
         "diagram": {"groups": [
             {"label": "पंक्ति १ (न करे)", "items": ["आर्द्रैकपाणिः", "अमेध्यहस्तपादः", "शब्दवान्"]},
-            {"label": "पंक्ति २ (पेड़ों के नाम)", "items": ["वट", "असन", "अर्क", "खदिर", "करंज", "कवीर"]}]},
+            {"label": "पंक्ति २ (नामों की सूची)", "items": ["वट", "असन", "अर्क", "खदिर", "करंज", "कवीर"]}]},
         "chunks": "नार्द्रैकपाणिर् | नामेध्यहस्तपादो न शब्दवान् ‖ वटासनार्कखदिर | करंजकवीरजं।",
         "sandhi": "आ + ए → ऐ: आर्द्र + एक → आर्द्रैक · अ + अ → आ: न + अमेध्य → नामेध्य · अ + अ → आ: वट + असन → वटासन।",
         "puns": "केवल सुनने की सहायता: ‘वट-असन-अर्क-खदिर-करंज-कवीर’ को एक साँस में दोहराने पर ‘व-अ-अ-ख-क-क’ की लय बनती है।",
     },
     "13": {
         "diagram": {"groups": [
-            {"label": "इनसे उत्पन्न", "items": ["सर्ज", "अरिमेद", "अपामार्ग", "मारुती", "ककुभ"]},
+            {"label": "इनसे उत्पन्न (पुस्तक का विभाजन)", "items": ["सर्ज", "अरिमेद", "अपामार्ग", "मारुती", "ककुभ"]},
             {"label": "स्वाद और अन्त", "items": ["कषाय", "तिक्त", "कटु", "मूलम्", "अन्यत् अपि ईदृशम्"]}]},
         "chunks": "सर्जारिमेदापामार्ग | मारुतीककुभोद्भवं ‖ कषायतिक्तकटुकं | मूलमन्यदपीदृशं।",
         "sandhi": "अ + अ → आ: सर्ज + अरिमेद → सर्जारिमेद · त् → द्: अन्यत् + अपि → अन्यदपि · इ + ई → ई: अपि + ईदृशम् → अपीदृशम्।",
-        "pegs": "मेरा बनाया चित्र: पाँच पेड़ों की कतार, उनके नीचे तीन छोटी कटोरियाँ (कसैला, कड़वा, तीखा)। (केवल याद के लिए)",
+        "pegs": "मेरा बनाया चित्र: पौधों के नामों की कतार, उनके नीचे तीन छोटी कटोरियाँ (कसैला, कड़वा, तीखा)। (केवल याद के लिए)",
     },
 }
 
@@ -921,17 +922,17 @@ IMAGE_SPECS = {
     },
     ("9", "diagram"): {
         "file": "ch3b01-achamana-09.svg",
-        "alt": "Mind map of verse 9: seven occasions for sipping water (achamana): after bathing, wishing to eat, after eating, sleeping, sneezing, in worship of gods, after passing over a road.",
+        "alt": "Mind map of verse 9 (the numbers 1 to 7 give the verse order; the layout does not): seven occasions for sipping water (achamana): after bathing, wishing to eat, after eating, sleeping, sneezing, in worship of gods, after passing over a road.",
         "type": "mermaid",
         "code": ("mindmap\n"
                  "  आचमन\n"
-                 "    स्नान के बाद\n"
-                 "    भोजन की इच्छा\n"
-                 "    भोजन के बाद\n"
-                 "    सोने के बाद\n"
-                 "    छींकने के बाद\n"
-                 "    देवपूजा में\n"
-                 "    मार्ग पार करके\n"),
+                 "    १. स्नान के बाद\n"
+                 "    २. भोजन की इच्छा\n"
+                 "    ३. भोजन के बाद\n"
+                 "    ४. सोने के बाद\n"
+                 "    ५. छींकने के बाद\n"
+                 "    ६. देवपूजा में\n"
+                 "    ७. मार्ग पार करके\n"),
     },
     ("11", "contrast"): {
         "file": "ch3b01-jala-11.svg",
@@ -946,10 +947,10 @@ IMAGE_SPECS = {
     },
     ("13", "diagram"): {
         "file": "ch3b01-mula-13.svg",
-        "alt": "Split of verse 13: five names (sarja, arimeda, apamarga, maruti, kakubha) and three tastes (astringent, bitter, pungent).",
+        "alt": "Split of verse 13: names in the book's split (sarja, arimeda, apamarga, maruti, kakubha) and three tastes (astringent, bitter, pungent).",
         "type": "split",
         "title": "श्लोक १३ की सूचियाँ",
-        "cols": [["इनसे उत्पन्न", ["सर्ज", "अरिमेद", "अपामार्ग", "मारुती", "ककुभ"]],
+        "cols": [["इनसे उत्पन्न (पुस्तक का विभाजन)", ["सर्ज", "अरिमेद", "अपामार्ग", "मारुती", "ककुभ"]],
                  ["स्वाद", ["कषाय", "तिक्त", "कटु"]]],
     },
 }
