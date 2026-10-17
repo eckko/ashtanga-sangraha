@@ -1,0 +1,422 @@
+[
+ {
+  "id": "06.40.16",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.02.72",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "पक्वोऽपि हि विकुर्वीत दोषः कोष्ठे कृतास्पदः ॥",
+  "why": "पकोऽपि looks like पक्वोऽपि with the व् dropped"
+ },
+ {
+  "id": "02.03.22",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "त्वग्भेदे वैरूप्यपरिहारार्थं स्नानोद्वर्तनं चंदनं च शीलयेत् ॥",
+  "why": "words run together (missing spaces)"
+ },
+ {
+  "id": "04.05.232",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.21.125",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.46.124",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "ग्रीवास्तंभो वलासेन वेदना दंशमंडले ॥",
+  "why": "रलास is not a word; वलास (kapha) fits"
+ },
+ {
+  "id": "01.10.119",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "घृतदिव्योदकक्षीरक्षौद्रदाडिमसैंधवं ॥",
+  "why": "compound wrongly split: दाडि म"
+ },
+ {
+  "id": "03.14.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.07.187",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "कफप्रसेकं तं विंद्यात्स्निग्धोष्णैरेव निर्जयेत् ॥",
+  "why": "ग्ण is impossible; स्निग्धोष्णैः intended"
+ },
+ {
+  "id": "04.16.18",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "क्षीरायोग्याय च सुरामदिरामस्तुदधिसरदाडिमरसानामन्यतमं विदध्यात् ॥",
+  "why": "विडध्यात् should be विदध्यात्; दाडि म split"
+ },
+ {
+  "id": "06.05.48",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.38.71",
+  "kind": "typo?",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "वक्रयेत् is odd in sense; no clear correction visible"
+ },
+ {
+  "id": "01.25.122",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "05.03.63",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.12.46",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "तदर्द्धांतं",
+  "why": "तदार्द्धांन्तं has stray matra and conjunct"
+ },
+ {
+  "id": "06.20.22",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.45.57",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.10.40",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.09.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.24.96",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.24.26",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "विशुद्धस्रोतसश्च",
+  "why": "स्रोतासः has a stray ा"
+ },
+ {
+  "id": "04.17.60",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.09.88",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.18.15",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "02.03.27",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "02.11.101",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "न स जीवति",
+  "why": "सजीवति is न स जीवति run together"
+ },
+ {
+  "id": "04.05.233",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "अक्षमात्रैर्घृतप्रस्थं",
+  "why": "stray space inside sandhi"
+ },
+ {
+  "id": "04.07.106",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.12.93",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.15.58",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "क्षीरद्विप्रस्थं",
+  "why": "क्षीरद्वप्रस्थं lost its इ (cf. घृतद्विप्रस्थं)"
+ },
+ {
+  "id": "04.16.83",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.49.678",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.38.135",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "04.10.46",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.32.78",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.03.190",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.40.194",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "05.02.53",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "02.12.35",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "भवति यो",
+  "why": "words run together"
+ },
+ {
+  "id": "01.08.156",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "मातुलुंगरसं हिंगु पाययेद्द्विमात्रया ॥",
+  "why": "द्वि wrongly split from मात्रया; stray space in मातुलुंग"
+ },
+ {
+  "id": "02.12.27",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "जायते स",
+  "why": "words run together"
+ },
+ {
+  "id": "05.03.89",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.40.331",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.26.1",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "अथातः स्वेदविधिमध्यायं व्याख्यास्यामः ॥",
+  "why": "':' used for visarga"
+ },
+ {
+  "id": "01.11.53",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "योजयेत् सैंधवांस्तैश्च तत्र विण्मूत्रसंग्रहे ॥",
+  "why": "योजयेद् before स and तंत्र for तत्र are noise"
+ },
+ {
+  "id": "04.09.52",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "सनागरं योजयेत तित्तिरिमपि भोजनं ॥",
+  "why": "तित्तिरिइमपति is garbled (doubled vowel)"
+ },
+ {
+  "id": "02.02.25",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "यथास्वं च ... अन्यतमलिंगानुरूपा",
+  "why": "यथास्वंच joined; अन्यतर्म stray र्"
+ },
+ {
+  "id": "04.09.23",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "यथायथं प्रयुंजीत कृतपानात्ययौषधं ॥",
+  "why": "doubled ि in यथाियथं; प्रयुंजीन should be -त; कृन garbled"
+ },
+ {
+  "id": "05.05.105",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "साधयेच्चतुर्गुणैः",
+  "why": "साधयेत lacks final consonant; sandhi with च"
+ },
+ {
+  "id": "01.17.120",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "03.01.46",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "विरेचनादिकर्म",
+  "why": "stray danda and space inside compound"
+ },
+ {
+  "id": "06.10.33",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.39.15",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "02.01.80",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "सर्वेषु च",
+  "why": "words run together"
+ },
+ {
+  "id": "01.10.116",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "शीलयेच्छालिगोधूमयवषष्टिकजांगलं ॥",
+  "why": "compound split; यवर्षष्टिक has stray र"
+ },
+ {
+  "id": "06.42.115",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "पिप्पली च समं पिष्ट्वा मत्स्यपित्तेन पाययेत् ॥",
+  "why": "पिप्पलीच joined; पिष्टा for पिष्ट्वा"
+ },
+ {
+  "id": "06.49.412",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "01.01.136",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "03.01.54",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "flagged word is a valid form in context"
+ },
+ {
+  "id": "06.14.32",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "वर्जयेच्च कनीनकं सिराश्रुवहाः ॥",
+  "why": "सिराश्राम्रुवहाः garbled; श्रुवहा (अश्रुवहाः) intended"
+ }
+]

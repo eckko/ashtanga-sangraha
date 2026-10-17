@@ -1,0 +1,422 @@
+[
+ {
+  "id": "02.04.64",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Stray hyphen and space after गृध्र suggest a broken word, but the intended form is unclear."
+ },
+ {
+  "id": "02.04.94",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.04.116",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "जघनसक्तस्य जघनकपालानि दारयित्वेति",
+  "why": "शक्त (able) does not fit; सक्त (stuck), as in the preceding अंससंसक्तस्य, does."
+ },
+ {
+  "id": "02.05.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.50",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "ताः धात्वाशयांतरमर्यादाः सप्त कलाः",
+  "why": "ध्वात्वा is not a word; धात्वाशय (धातु+आशय) is meant."
+ },
+ {
+  "id": "02.05.64",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.85",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.96",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.124",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.148",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अंसपीठगुदभगतितंबेषु सामुद्गाः",
+  "why": "गुद्भग has a stray halant; गुदभग is the compound."
+ },
+ {
+  "id": "02.05.181",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.194",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.225",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.05.228",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.06.27",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.06.45",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.06.57",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.06.90",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.39",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.65",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.68",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.85",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.90",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.07.107",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.10",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.50",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.64",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "आयुषः पुण्यबाहुल्याद्यन्मानमिष्यते",
+  "why": "आयुषो before प is impossible sandhi; visarga expected."
+ },
+ {
+  "id": "02.08.76",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.78",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.103",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.114",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.117",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.08.146",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.09.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.09.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.09.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.09.38",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.10.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.11.122",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.12.28",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "02.12.31",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.01.2",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.01.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.01.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.01.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.02.191",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.03.85",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.04.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.05.18",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "हृल्लासच्छर्दिरुचिरश्नतोऽपि बलक्षयः",
+  "why": "ह्ल्लास lacks the vowel sign; हृल्लास is the word."
+ },
+ {
+  "id": "03.07.7",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तस्मिन्पूर्वमुक्ता वलीसंज्ञास्तिस्रः पेश्योऽर्द्धद्व्यंगुलाः",
+  "why": "अर्द्वह्य is an impossible sequence; a measure like अर्द्धद्व्यंगुलाः is likely."
+ },
+ {
+  "id": "03.07.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.07.12",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.07.15",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.07.22",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.07.28",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.08.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ },
+ {
+  "id": "03.09.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit; irregular length and spacing are edition style."
+ }
+]

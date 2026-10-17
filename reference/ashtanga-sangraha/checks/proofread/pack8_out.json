@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01.23.41",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.23.60",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.23.68",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "आतुरावस्थासु तु कालाकालसंज्ञा ॥",
+  "why": "unsandhied a+a hiatus in otherwise sandhied prose."
+ },
+ {
+  "id": "01.23.131",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.24.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.24.136",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.25.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.25.110",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.25.123",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्निग्धद्रवोष्णधन्वोत्थरसभुक् स्वेदमाचरेत् ॥",
+  "why": "broken conjunct 'द्र्व' and stray virama in 'स्वेद्म'."
+ },
+ {
+  "id": "01.25.159",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "॥ इति स्नेहविधिर्नाम पंचविंशोऽध्यायः ॥",
+  "why": "':' used for visarga."
+ },
+ {
+  "id": "01.26.1",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथातः स्वेदविधिमध्यायं व्याख्यास्यामः ॥",
+  "why": "':' used for visarga."
+ },
+ {
+  "id": "01.26.25",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अथ जेंताकं चिकीर्षुर्भूमिं परीक्षेत ॥",
+  "why": "'भुमिं' has short u; should be 'भूमिं'."
+ },
+ {
+  "id": "01.26.44",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अनाग्नेयं पुनर्भेदः कफावृत्ते वायौ ॥",
+  "why": "':' used for visarga."
+ },
+ {
+  "id": "01.26.67",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स्तंभितः स्याद्वले लब्धे यथोक्तामयनात् ॥",
+  "why": "':' used for visarga."
+ },
+ {
+  "id": "01.26.73",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.27.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.27.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.27.67",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'प्रविग्राह' is odd (perhaps प्रतिग्रह), cannot confirm."
+ },
+ {
+  "id": "01.27.105",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.27.112",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.27.125",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सम्यग्विरेकाद्व्याध्युपशमो यथोक्तविपर्ययश्च ॥",
+  "why": "'द्याध्' lacks व्; 'व्याधि' required."
+ },
+ {
+  "id": "01.28.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.28.9",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "आस्थापनमनुवासन उत्तरबस्तिश्च ॥",
+  "why": "'आस्थापम' drops न; next line has 'आस्थापनं'."
+ },
+ {
+  "id": "01.28.14",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तद्वयःस्थापनाद्दोषस्थापनाद्वाऽऽस्थापनमित्युच्यते ॥",
+  "why": "garbled 'तद्य्यःस्थापनादोष'; sense is vayah-sthapana / dosha-sthapana."
+ },
+ {
+  "id": "01.28.16",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.28.31",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.28.36",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'अर्शास्य' unclear (अर्शांसि/अर्शसि?)."
+ },
+ {
+  "id": "01.28.42",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "रूक्षोऽतिदीप्ताग्नयः केवलानिलार्ताश्च विशेषेण ॥",
+  "why": "'श्र्व' for 'श्च' and 'बिशेषेण' for 'विशेषेण'."
+ },
+ {
+  "id": "01.28.84",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.28.91",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.28.95",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.5",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.18",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.79",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.87",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.90",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.29.114",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.30.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.30.20",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "पंच तीक्ष्णस्यनस्यांजनछर्दितस्नानाहारस्वप्नान्ताः ॥",
+  "why": "'स्नानाहः' makes little sense; maybe स्नानाहार."
+ },
+ {
+  "id": "01.30.29",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.30.46",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.31.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.31.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.31.26",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.31.28",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.32.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.32.9",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "आश्योतितं च मृदुना चैलेन शोधयेत् ॥",
+  "why": "'आश्योलितं' has ल for त (past participle of आश्योतन)."
+ },
+ {
+  "id": "01.32.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.32.24",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तत्राम्लादिभीरसैः पंचभिः शुक्रार्मादिषु लेखनं ॥",
+  "why": "'शुक्राद्म' is broken; eye-disease शुक्र/अर्म expected."
+ },
+ {
+  "id": "01.33.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.33.15",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'आतुरामेवां' looks garbled but cannot be fixed with certainty."
+ },
+ {
+  "id": "01.33.33",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.34.6",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.34.31",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.34.36",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'मपनोप कुर्वीत' looks garbled."
+ },
+ {
+  "id": "01.34.62",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ },
+ {
+  "id": "01.34.66",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "No visible typing error."
+ }
+]
