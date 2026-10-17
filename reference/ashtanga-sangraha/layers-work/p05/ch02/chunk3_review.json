@@ -1,0 +1,597 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING note",
+     "problem": "The note says this line forms one verse with unit 74, but the printed marks give no pairing (every line ends with a double danda) and the syntax links this line to unit 76: the locatives 'bāle vṛddhe kṣate kṣīṇe sukumāre ca mānave' are governed by 'yojyaḥ' ('is to be used') in unit 76. The pairing is therefore not established.",
+     "fix": "Add a note that the locatives depend on 'yojyaḥ' in unit 76.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Syntax: the locatives of this unit are governed by 'yojyaḥ' ('is to be used') in unit 76; the pairing of lines into verses is a guess and is not given by the printed marks.",
+      "n": "75"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेष रूप से मृदु",
+     "problem": "English attaches 'viśeṣāt' to the use ('is to be used, especially because ...'), Hindi attaches it to the mildness ('विशेष रूप से मृदु'). The two translations of the same unit disagree.",
+     "fix": "चतुरंगुल का प्रयोग करना चाहिए, विशेषकर इसलिए कि पीने में वह मृदु है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "चतुरंगुल का प्रयोग करना चाहिए, विशेषकर इसलिए कि पीने में वह मृदु है।",
+      "n": "76"
+     }
+    },
+    {
+     "field": "split",
+     "where": "mṛdu-pāyitvāt / hi / viśeṣāt",
+     "problem": "The words array replaces the printed 'mṛdan' with 'mṛdu' and inserts a 'vi' that is not printed ('śeṣāc' is printed). 'pāyitvāt' is an unattested abstract. The whole second word is a conjecture, yet the words, gloss and both translations read as a firm reason clause. The text_flag count (15 syllables) is correct, but the proposed repair is only one possibility.",
+     "fix": "Keep the printed pieces in words with a 'doubtful' gloss, or at least keep confidence low (it is) and let the translation stay hedged in notes (already done).",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING note",
+     "problem": "The note pairs this line with unit 77, but 'yojyaḥ' here is the verb for the locatives of unit 75, and unit 77 starts a new topic (gathering the fruit).",
+     "fix": "Add: the locatives of unit 75 depend on 'yojyaḥ' here.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Syntax: 'yojyaḥ' ('is to be used') completes the locatives of unit 75 ('in a child, an old person ...').",
+      "n": "76"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "teṣāṃ, guṇavatāṃ",
+     "problem": "'teṣām' and 'guṇavatām' have the same genitive plural form in masculine and neuter. The note asserts 'teṣām is neuter plural', which cannot be told from the form.",
+     "fix": "m./n. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "word",
+      "match_w": "teṣāṃ",
+      "field": "gram",
+      "value": "m./n. gen. pl."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'teṣām' is neuter plural",
+     "problem": "Same point: gender is not shown by the form.",
+     "fix": "'teṣām' (gen. pl., masculine or neuter alike)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'teṣām' is neuter plural;",
+      "new": "'teṣām' (gen. pl., masculine or neuter alike);",
+      "n": "78"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "After an equal number of nights",
+     "problem": "'sama-rātrāt' is a doubtful reading (low confidence). The English says 'an equal number of nights', which adds 'number' and presents a sense the text does not give; the Hindi 'समान रात्रियों के बाद' is closer to the printed words but is also unmarked.",
+     "fix": "After 'equal nights' (reading doubtful)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "After an equal number of nights",
+      "new": "After 'equal nights' (reading doubtful)",
+      "n": "79"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समान रात्रियों के बाद",
+     "problem": "Doubtful reading is not marked in the Hindi (the drafter marks damage in unit 107 with a bracket, so the same device is available).",
+     "fix": "समान रात्रियों (पाठ संदिग्ध) के बाद",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "समान रात्रियों के बाद",
+      "new": "समान रात्रियों (पाठ संदिग्ध) के बाद",
+      "n": "79"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "saptarātrāt",
+     "problem": "The suggestion 'saptarātrāt' ('seven nights') has no support in the unit and is an invented variant (marked 'possible', but a concrete number is given). Also the printed word, if 'sama', could be a real word in some other sense; nothing decides it.",
+     "fix": "suggest '(unclear)' with the reason kept",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "sam-uddhṛtya",
+     "problem": "A hyphen is put between prefix and base here, but not in 80 (uddhṛtya), 77 (samāharet), 78 (vinikṣipet). The hyphen is for compound members only.",
+     "fix": "samuddhṛtya",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sam-uddhṛtya",
+      "field": "w",
+      "value": "samuddhṛtya",
+      "n": "79"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or the kernel of caturaṃgula",
+     "problem": "GLOSSARY: majjā is 'kernel (majjā)' in all units; the bracket is missing here.",
+     "fix": "Or the kernel (majjā) of caturaṃgula",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Or the kernel of caturaṃgula;",
+      "new": "Or the kernel (majjā) of caturaṃgula;",
+      "n": "83"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the cold decoction",
+     "problem": "'the' is added (no article in the Sanskrit; no earlier mention of a decoction in this unit). Also '(him)' supplies a gender for the object of 'pāyayet' that the text does not give (same in unit 91). 'cold decoction' (kaṣāyaṃ ... hima) is a literal but awkward rendering; kaṣāya is a preparation here, not the taste, so 'decoction' is the right glossary choice.",
+     "fix": "drink a cold decoction",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "drink the cold decoction",
+      "new": "drink a cold decoction",
+      "n": "83"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "maṇḍa (clear upper part)",
+     "problem": "The bracket is a definition (a sense chosen among several: scum, cream, upper part, thin gruel), not the plain literal sense, and nothing in the text says 'clear'.",
+     "fix": "maṇḍa (upper part, scum) or keep 'maṇḍa' with a short gloss agreed in the glossary",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and of barley",
+     "problem": "The medical-term rule says no plant identification; 'yava' is kept in Hindi as यव but is turned into 'barley' in the English and the note ('yava taken as barley'). The other grain/drug names (kulattha, rodhra, tilvaka) are kept as names.",
+     "fix": "and of yava (a grain)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kaṣāye",
+     "problem": "The 'kaṣāye' (in the decoction) takes the genitives of unit 88, but this unit's note does not say so, and the English 'in the decoction' reads as if a decoction had been named.",
+     "fix": "Add a cross-reference note.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Syntax: 'kaṣāye' is read with the genitives of unit 88 ('in the decoction of daśamūla, of kulattha and of yava'); 'tad eva' ('that same') is taken as the preceding procedure.",
+      "n": "89"
+     }
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or even for just a fortnight",
+     "problem": "'even' and 'just' both render 'eva'; 'even' adds a sense of surprise that 'eva' does not carry here. Also '(him)' supplies a gender (see unit 83).",
+     "fix": "or for a fortnight only",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "or even for just a fortnight",
+      "new": "or for just a fortnight",
+      "n": "91"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cūrṇayitvā",
+     "problem": "'abs. caus. √cūrṇ' is misleading: cūrṇ is a denominative/10th-class root (cūrṇayati), not a causative of a simple root.",
+     "fix": "abs. √cūrṇ (10th class)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "cūrṇayitvā",
+      "field": "gram",
+      "value": "abs. √cūrṇ (10th class)",
+      "n": "93"
+     }
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the mairujas",
+     "problem": "The unclear word is turned into a plural noun 'mairujas', in the English and Hindi, with no mark of doubt, while the text_flag admits the word is not understood. The grammar (acc. pl.) is inferred only from '-ān'.",
+     "fix": "the mairujas (reading doubtful)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the mairujas",
+      "new": "the mairujas (reading doubtful)",
+      "n": "99"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मैरुजों को",
+     "problem": "Same: doubtful word not marked.",
+     "fix": "मैरुजों (पाठ अस्पष्ट) को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैरुजों को",
+      "new": "मैरुजों (पाठ अस्पष्ट) को",
+      "n": "99"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "maireyān",
+     "problem": "The suggestion 'maireyān' is a guess ('cannot be confirmed' is honest) and masculine plural does not suit maireya (a neuter drink word). It would be safer to flag the word as unclear with no suggestion. The printed form is correctly kept in words.",
+     "fix": "suggest '(unclear)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तब उसका अंजलि भर हो",
+     "problem": "Hindi has two 'तब'; the Sanskrit has one ('tadā', at the end). The first 'तब' is added.",
+     "fix": "उसका अंजलि भर हो; तब रोध्र का कल्क पीना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उसका अंजलि भर हो; तब रोध्र का कल्क पीना चाहिए।",
+      "n": "100"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "bhaverdaṃjalinā",
+     "problem": "The correction bhaved aṃjalinā is right, but the 'why' is wrong: the printed form is not 'r' for 'd'; it has an extra 'r' (bhaver + daṃ-) where bhaved + aṃ- gives bhavedaṃ-.",
+     "fix": "why: 'bhavet + aṃjalinā gives bhaved aṃjalinā; the printed form has a stray r (bhaver-daṃ- for bhaveda-)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the painful ruin that comes quickly",
+     "problem": "'that comes quickly' attaches 'āśu' to the ruin, an unmarked choice and an added relative clause; 'ruin'/'हानि' is an interpretation of 'vibhraṃśa' (falling away, slipping), and the drafter's own gloss says 'painful falling away'. Notes do not mention the alternative attachment of 'āśu eva'.",
+     "fix": "Because of the painful falling away (vibhraṃśa), quickly indeed, one should not at all employ it then  (and say in notes that 'āśu eva' may go with the verb)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(bowel region)",
+     "problem": "'koṣṭha' is glossed 'bowel region', an interpretation. Plain literal sense is 'storehouse' (the inner cavity of the body).",
+     "fix": "(lit. 'storehouse')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(bowel region)",
+      "new": "(lit. 'storehouse')",
+      "n": "106"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING / negation",
+     "problem": "The note says the 'not' of unit 105 carries over, which is right, but the following unit 107 turns positive ('kalpyā', is to be employed); this should be said so the two units are not read together as one negative list.",
+     "fix": "Add a note.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Unit 107 turns to cases where it is employed ('kalpyā'), so the negation of 105 covers only this unit's locatives.",
+      "n": "106"
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(अस्पष्ट) रोग",
+     "problem": "The English treats the whole 'gatvroga' as damaged, but the Hindi translates its last part as 'रोग' ('disease'), building a reading on a damaged word. The two translations disagree.",
+     "fix": "गुल्म, उदर, (अस्पष्ट पाठ) और मधुमेह वालों में इसका प्रयोग करना चाहिए।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "(अस्पष्ट) रोग",
+      "new": "(अस्पष्ट पाठ)",
+      "n": "107"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मधुमेह",
+     "problem": "The Hindi word मधुमेह is today's ordinary name for diabetes. The medical-term rule (and the GLOSSARY precedent यक्ष्मन् not यक्ष्मा) forbids modern disease names in Hindi; the note claims compliance, but the form used is the modern name.",
+     "fix": "decide in GLOSSARY (see glossary_suggestions); e.g. मधु-मेह written with a hyphen, or the Sanskrit word given in IAST-free literal form",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "untranslated 'gatvroga'",
+     "problem": "Leaving it untranslated is right. No safe reading exists: the printed sequence 'tvro' is impossible, the line has 14 syllables (two short), and the project's own metre check (checks/proposals.tsv) says 'the right word is not visible'. A guess exists (an anagram of the printed letters gives 'tvag-roga', 'skin ailment'; it also would not restore the two missing syllables), so it must stay a note only and must not enter the translation.",
+     "fix": "Optionally add a note naming the guess as unverified.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Syntax: 'kalpyā' ('is to be employed') is positive and turns from the negative statement of units 105-106. Unverified guess for the damaged word: a transposition of the printed letters would give 'tvag-roga' (skin ailment), but two syllables are still missing, so it is not used.",
+      "n": "107"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "(unclear)",
+     "problem": "The 'suggest' field holds '(unclear)', not a repair. That is acceptable for a damaged word; the syllable count (14) is correct.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "That one is best which is covered with many sharp thorns.",
+     "problem": "The relative clause ('which is covered', Hindi 'जो ... हो') turns the plain description 'sā śreṣṭhā ... samācitā' ('that one is best, covered with sharp and many thorns') into a selecting condition. It also reverses the order 'sharp and many'.",
+     "fix": "That one is best, covered with sharp and many thorns.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "That one is best, covered with sharp and many thorns.",
+      "n": "109"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो तीखे और बहुत-से काँटों से ढकी हुई हो",
+     "problem": "Same relative/subjunctive turn in Hindi.",
+     "fix": "वह श्रेष्ठ है, तीखे और बहुत-से काँटों से ढकी हुई।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वह श्रेष्ठ है, तीखे और बहुत-से काँटों से ढकी हुई।",
+      "n": "109"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "37 units reviewed (75-111). 3 error, 28 minor issues; 3 errors: unit 79 English adds 'number' to a doubtful reading, unit 107 Hindi translates part of a damaged word and uses मधुमेह (the modern diabetes name). The drafter's text flags are sound: real or very likely misprints in 84 (chandrabindu '~', an artifact), 91, 93 (15 syllables, cūrṇayitvā), 98 (kathite for kvathite), 100 (stray r), 105, 107 (14 syllables), 110 (śiśirānte); speculative in 76 (the 'vi' insertion), 79 (saptarātrāt invented) and 99 (maireyān a guess). Printed form is kept in words for 79, 99, 107 (good); words for 76 rely on a reconstruction. Unit 107 left untranslated: correct, no safe reading exists. kaṣāya is the decoction sense everywhere in this chunk, no taste sense. No effects are stated that the text does not state (104 and 103 translate statements actually in the Sanskrit). Cross-unit sentences: 75-76 (locatives + yojyaḥ), 88-89, 102-103, 105-108 are handled but 89 and 106-107 notes need a cross-reference (patches given). Regrouping: no change of unit boundaries; but the 'forms one verse with unit N' claims in every unit rest on an unproven pairing (see glossary_suggestions); syntactic groups are 75-76, 88-89, 102-103, 105-106 (negative) then 107-108 (positive), then 109-110.",
+ "glossary_suggestions": [
+  {
+   "term": "madhumeha (and other disease names)",
+   "suggestion": "English: madhumeha ('honey-urine'). Hindi: the usual word मधुमेह now means diabetes; choose one non-modern form for the whole book (for example the hyphenated मधु-मेह, as यक्ष्मन् was chosen over यक्ष्मा) and apply it everywhere. Same check for पाण्डु, गुल्म, उदावर्त."
+  },
+  {
+   "term": "kaṣāya",
+   "suggestion": "Keep 'decoction' for the preparation sense (all uses in this chunk, units 83, 89-90, 94-95, 101-102, are the preparation); write 'astringent taste (kaṣāya)' only where the taste is meant. 'hima' + kaṣāya is rendered 'cold decoction'."
+  },
+  {
+   "term": "pāyayet / nidhāpayet / bhāvayet",
+   "suggestion": "Fix wording without a supplied pronoun: pāyayet = 'should cause to drink' (no '(him)'), nidhāpayet = 'should cause to be placed' or 'should place' (choose one), bhāvayet = 'should saturate'. The parenthetical '(him)' used in units 83 and 91 adds a gender."
+  },
+  {
+   "term": "maṇḍa",
+   "suggestion": "Keep 'maṇḍa' with one fixed short gloss (e.g. 'upper part, scum'); do not define it as 'clear'."
+  },
+  {
+   "term": "yava",
+   "suggestion": "Medical-term rule says no plant identification: either keep 'yava' in all languages or record 'yava = barley' once as an accepted plain grain word."
+  },
+  {
+   "term": "koṣṭha",
+   "suggestion": "'koṣṭha' (lit. 'storehouse'); do not gloss as 'bowel region'."
+  },
+  {
+   "term": "vibhraṃśa",
+   "suggestion": "Literal 'falling away, slipping'; avoid 'ruin' / 'हानि'."
+  },
+  {
+   "term": "grouping notes",
+   "suggestion": "Do not write 'forms one verse with unit N' as a fact: the printed lines all end in a double danda and the syntax gives mixed evidence (75-76, 71-72, 73-74 pair as odd+even; 80-81, 86-87, 88-89 read better as even+odd). Use 'GROUPING:' only for clear sentence links."
+  }
+ ]
+}
