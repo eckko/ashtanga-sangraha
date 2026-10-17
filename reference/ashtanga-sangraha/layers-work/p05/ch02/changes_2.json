@@ -1,0 +1,203 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "सब के बराबर, बराबर शर्करा के साथ, शहद से गोलियाँ बनाई जाएँ।",
+  "new": "सब के बराबर, बराबर शर्करा के साथ, शहद से गोलियाँ बनाई जाती हैं।",
+  "why": "reviewer (minor): Hindi is an injunction ('should be made'); kṛtāḥ is a participle and the English says 'are made'."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "kṣaye",
+  "old": "wasting, decay",
+  "new": "decay, loss",
+  "why": "reviewer (minor): Glossed 'wasting, decay' although śoṣa is already 'drying up, wasting'; the two items then look identical. English keeps 'decay (kṣaya)'."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "sarva-viṣeṣu",
+  "old": "m. loc. pl.",
+  "new": "n. loc. pl.",
+  "why": "reviewer (minor): viṣa 'poison' is neuter, not masculine."
+ },
+ {
+  "n": "42",
+  "field": "word.w",
+  "word": "trivṛt",
+  "old": "trivṛt",
+  "new": "trivṛtā",
+  "why": "reviewer (error): Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "padma-ca-āhva-śīmalam",
+  "old": "lotus (?); and; named; unclear",
+  "new": "unclear (printed word not restored)",
+  "why": "reviewer (error): INVENTED SPLIT. The printed token 'padmacāhvaśīmalaṃ' (Deva पद्मचाह्वशीमलं) is damaged, yet it is cut into padma + ca + āhva + 'unclear' with glosses 'lotus (?)', 'and', 'named'. Nothing in the print supports the 'ca' or 'named', and 'lotus' states a possible ingredient. Notes/flags themselves say no confident correction exists."
+ },
+ {
+  "n": "45",
+  "field": "word.w",
+  "word": "padma-ca-āhva-śīmalam",
+  "old": "padma-ca-āhva-śīmalam",
+  "new": "padmacāhvaśīmalaṃ",
+  "why": "reviewer (error): Keep the printed form as the single unresolved word instead of an invented split (do this after the gloss patch)."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "With drākṣā water, with 'padmacāhvaśīmala' (unclear), when the clouds have gone.",
+  "new": "With drākṣā water; the printed words 'sa padmacāhvaśīmalaṃ' could not be restored and no reading is given for them; when the clouds have gone (conjectural reading of 'jaladātpaye').",
+  "why": "reviewer (error): 'sa' is assumed to be 'with' (it is unresolved), and the damaged word is presented as an item of the list with a translation slot. 'when the clouds have gone' rests on the conjectured 'jaladātyaye' but is stated plainly."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "द्राक्षा के जल के साथ, पद्मच आह्वशीमल सहित, बादलों के चले जाने पर",
+  "new": "द्राक्षा के जल के साथ; मुद्रित शब्द 'स पद्मचाह्वशीमलं' पुनः स्थापित नहीं किए जा सके, इसलिए उनका कोई अर्थ नहीं दिया गया; बादलों के चले जाने पर, यह 'जलदात्पये' का अनुमानित पाठ है।",
+  "why": "reviewer (error): Hindi cuts the damaged word into two words (पद्मच, आह्वशीमल), which the print does not show, and renders 'sa' as 'सहित' (with). It also gives 'when the clouds have gone' without saying it is conjectural."
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "Line is 17 syllables in print (16 expected). The words 'sa padmacāhvaśīmalaṃ' could not be resolved; the translation of that part is a placeholder and no ingredient is claimed. 'jalada-atyaye' is taken as the season after the rains; it is not stated as 'autumn' in the text.",
+  "new": "Line is 17 syllables in print (16 expected). The words 'sa padmacāhvaśīmalaṃ' could not be resolved; the translation of that part is a placeholder and no ingredient is claimed. 'jalada-atyaye' is taken as the season after the rains; it is not stated as 'autumn' in the text. Reviewer: the damaged word 'padmacāhvaśīmalaṃ' is kept unsplit and unglossed; the translation gives no reading for 'sa padmacāhvaśīmalaṃ'. 'jalada-atyaye' is a conjecture for 'jaladātpaye'. Keep confidence low.",
+  "why": "reviewer (minor): Notes call the translation a 'placeholder'; it should instead say plainly that the words are unrestored and that the split in the words list is only the printed form."
+ },
+ {
+  "n": "46",
+  "field": "word.w",
+  "word": "trivṛt",
+  "old": "trivṛt",
+  "new": "trivṛtā",
+  "why": "reviewer (error): Same ā-stem problem as unit 42; in addition every other list member here is accusative (citrakaṃ, pāṭhām, ajājīṃ, saralaṃ, vacāṃ, svarṇakṣīrīṃ), so 'trivṛtā' may be an instrumental ('with trivṛt') or a slip for 'trivṛtām'; 'f. nom. sg.' is not firm."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "GROUPING: ingredient list continuing in 47 ('svarṇakṣīrī', 'cūrṇam'). 'trivṛtā' has the same form as in 42 and is read as a list member.",
+  "new": "GROUPING: ingredient list continuing in 47 ('svarṇakṣīrī', 'cūrṇam'). 'trivṛtā' has the same form as in 42 and is read as a list member. Reviewer: here the other list members are accusative; 'trivṛtā' could be instrumental ('with trivṛt') or a slip for 'trivṛtām'. The list sense is unchanged.",
+  "why": "reviewer (minor): Case of 'trivṛtā' not discussed; the note says only 'same form as in 42'."
+ },
+ {
+  "n": "48",
+  "field": "word.w",
+  "word": "trivṛt",
+  "old": "trivṛt",
+  "new": "trivṛtā",
+  "why": "reviewer (error): Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed."
+ },
+ {
+  "n": "55",
+  "field": "word.w",
+  "word": "trivṛt",
+  "old": "trivṛt",
+  "new": "trivṛtā",
+  "why": "reviewer (error): Token 'trivṛtā' is the nominative of the ā-stem trivṛtā, but the word is written 'trivṛt' with gram 'f. nom. sg.' (the nom. sg. of trivṛt would be 'trivṛt'). The split word must be the inflected form that is printed."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "Sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+  "new": "On a conjectural reading of damaged print (the printed words 'sauvarcalāīkarṣaśva palāddhe' are not securely restored): sauvarcalā half a karṣa, and half a pala from amlavetasa.",
+  "why": "reviewer (error): The printed words 'sauvarcalāīkarṣaśva palāddhe' (Deva सौवर्चलाईकर्षश्व पलाद्धे) are damaged; 'half a karṣa', the second 'and' and 'half a pala' are restored by guess but the English states them as the text. The measures are the dosage of an ingredient, so a wrong restoration is a real error."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से",
+  "new": "मुद्रित शब्द 'सौवर्चलाईकर्षश्व पलाद्धे' बिगड़े हुए हैं; अनुमानित पाठ के अनुसार: सौवर्चल आधा कर्ष, और आधा पल अम्लवेतस से।",
+  "why": "reviewer (error): Same: conjectured measures presented as the text."
+ },
+ {
+  "n": "56",
+  "field": "word.gloss",
+  "word": "ardha-karṣaḥ",
+  "old": "half; karṣa (weight)",
+  "new": "half; karṣa (weight) (conjectural restoration of printed 'ī…karṣa')",
+  "why": "reviewer (minor): Restored word carries a plain gloss with no sign that it replaces the printed 'ī'."
+ },
+ {
+  "n": "56",
+  "field": "word.gloss",
+  "word": "palārdhe",
+  "old": "half a pala",
+  "new": "half a pala (conjectural restoration of printed 'palāddhe'; ending uncertain)",
+  "why": "reviewer (minor): Restored from printed 'palāddhe' with a firm locative label, while the translation treats it as a quantity."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "उस चूर्ण को शर्करा के बराबर मिलाकर माण्ड से या खट्टे द्रव से पिए।",
+  "new": "उस चूर्ण को शर्करा के बराबर, माण्ड से या खट्टे द्रव से पिए।",
+  "why": "reviewer (error): 'मिलाकर' (having mixed) is not in the Sanskrit; śarkarātulyā only says 'equal to sugar' and the English says so."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "When it is smeared (sealed) and a month has passed, drunk, it conquers pāṇḍu, swelling and gulma.",
+  "new": "When it is smeared and a month has passed, drunk, it conquers pāṇḍu, swelling and gulma.",
+  "why": "reviewer (minor): '(sealed)' is an interpretation inserted into the translation; the notes already say it is not stated, and the Hindi has no such word."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "Or a surā (spirituous drink) with a ferment (kiṇva) of a quarter of trivṛt, joined with its decoction.",
+  "new": "Or a surā (spirituous drink) joined with its decoction; the printed compound 'trivṛtāpādārkiṇvā' is damaged, and on a conjectural reading it describes the surā as having a ferment (kiṇva) of a quarter of trivṛt.",
+  "why": "reviewer (error): The printed compound 'trivṛtāpādārkiṇvā' (Deva त्रिवृतापादार्किण्वा) is not readable: the 'r' of 'ār' is dropped silently in the word split and the meaning is built on that guess, yet the English states it plainly."
+ },
+ {
+  "n": "68",
+  "field": "hindi",
+  "old": "अथवा सुरा, जो त्रिवृत् के पादांश के किण्व से बनी और उसके क्वाथ से युक्त हो।",
+  "new": "अथवा सुरा, उसके क्वाथ से युक्त; मुद्रित समास 'त्रिवृतापादार्किण्वा' बिगड़ा हुआ है, अनुमानित पाठ के अनुसार वह त्रिवृत् के पादांश के किण्व वाली है।",
+  "why": "reviewer (error): Adds 'से बनी' (made from) and a subjunctive 'हो'; neither is in the Sanskrit, and the damaged compound is stated as fact."
+ },
+ {
+  "n": "68",
+  "field": "word.gloss",
+  "word": "trivṛtā-pāda-kiṇvā",
+  "old": "trivṛt; a quarter; ferment (kiṇva)",
+  "new": "trivṛt; a quarter; ferment (kiṇva) (conjectural reading of damaged 'pādārkiṇvā')",
+  "why": "reviewer (minor): Word gloss and gram (tat-puruṣa) are given with no sign that the compound is conjectural."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "trivṛtā-pāda-kiṇvā",
+  "old": "tat-puruṣa, f. nom. sg.",
+  "new": "compound type uncertain, f. nom. sg. (conjectural)",
+  "why": "reviewer (minor): 'tat-puruṣa, f. nom. sg.' is asserted; the compound type and the f. ending of kiṇva are both uncertain."
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "श्यामा और त्रिवृत् के क्वाथ में स्वेदित जौ के दानों से, जल के साथ कुल्माष",
+  "new": "श्यामा और त्रिवृत् के क्वाथ में स्वेदित यव के दानों से, जल के साथ कुल्माष",
+  "why": "reviewer (error): Glossary: no plant common names in Hindi; जौ is the common name of yava. Keep the Sanskrit name."
+ },
+ {
+  "n": "71",
+  "field": "hindi",
+  "old": "भुने हुए अथवा तुष सहित सूखे जौ, उसके चूर्ण से युक्त",
+  "new": "भुने हुए अथवा तुष सहित सूखे यव, उसके चूर्ण से युक्त",
+  "why": "reviewer (error): Same as unit 69 (plant common name in Hindi)."
+ },
+ {
+  "n": "71",
+  "field": "notes",
+  "old": "This line is printed as two tokens only (no spaces inside the long second token). GROUPING: continues in 72. 'tat' = that powder (of trivṛt, as before).",
+  "new": "This line is printed as two tokens only (no spaces inside the long second token). GROUPING: continues in 72. 'tat' = that powder (of trivṛt, as before). Reviewer: 'saṃyuktam' (n. sg.) does not agree with masculine plural 'yavān'; possibly saṃyuktān, or the phrase is an independent apposition. Sense unchanged.",
+  "why": "reviewer (minor): 'tat-cūrṇa-saṃyuktam' (n. sg.) does not agree with masculine plural yavān; saṃyuktān may be meant. Not mentioned."
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "ज्वर, हृद्रोग, वातरक्त, उदावर्त आदि रोग वालों में",
+  "new": "ज्वर, हृद्रोग, वातासृक्, उदावर्त आदि रोग वालों में",
+  "why": "reviewer (minor): Hindi commits to the single disease-term 'वातरक्त' while the notes and English leave open 'Vāta and blood' vs one term; use the literal compound."
+ }
+]

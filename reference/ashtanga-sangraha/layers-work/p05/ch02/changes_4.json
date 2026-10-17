@@ -1,0 +1,199 @@
+[
+ {
+  "n": "116",
+  "field": "english",
+  "old": "Those that have been steeped (lit. have drunk) in snuk milk for seven days, one should drink with juice or with ghee.",
+  "new": "Those that have drunk snuk milk for seven days, one should drink with juice or with ghee.",
+  "why": "reviewer (error): 'steeped' is an unsupported interpretation of pītān; the Sanskrit says only 'having drunk (snuk milk)'."
+ },
+ {
+  "n": "116",
+  "field": "hindi",
+  "old": "उन्हें, जो सात दिन तक स्नुक् के दूध में भीगे हों, रस अथवा घी के साथ पिए।",
+  "new": "उन्हें, जो सात दिन तक स्नुक् का दूध पिए हुए हों, रस अथवा घी के साथ पिए।",
+  "why": "reviewer (error): 'भीगे' (soaked) is not in the Sanskrit; same addition as in English."
+ },
+ {
+  "n": "116",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence begun in 115. pītān is literally 'drunk'; read as having absorbed the milk (steeped). rasa taken as 'juice'; 'taste' is a less likely alternative. snuk is a drug name.",
+  "new": "GROUPING: completes the sentence begun in 115. pītān is literally 'drunk'; read as having absorbed the milk (steeped). rasa taken as 'juice'; 'taste' is a less likely alternative. snuk is a drug name. saptāham could also be construed with pibet (drink for seven days) instead of with pītān.",
+  "why": "reviewer (minor): saptāham may also go with pibet ('for seven days one should drink'); the draft fixes it to pītān without saying so."
+ },
+ {
+  "n": "117",
+  "field": "english",
+  "old": "Likewise vayā, upottamā, nikumbha, kumbha and the others, with jaggery water.",
+  "new": "Likewise vayā(?), upottamā(?), nikumbha(?), kumbha and the others, with jaggery water.",
+  "why": "reviewer (minor): Drug names built on a doubtful reading (including the emendation nikumbha) are given as plain fact in the translation of a low-confidence unit."
+ },
+ {
+  "n": "117",
+  "field": "notes",
+  "old": "The reading of the first token is doubtful, so the drug names are tentative. tadvat refers back to the week-long steeping in snuk milk (115-116). Low confidence.",
+  "new": "The reading of the first token is doubtful, so the drug names are tentative. tadvat refers back to the week-long steeping in snuk milk (115-116). Low confidence. GROUPING: this half-verse has no verb of its own; with 'tadvat' it probably continues the construction of 116 (pibet), possibly of adyāt in 118. Not decided.",
+  "why": "reviewer (minor): 117 has accusatives and an instrumental but no verb; no GROUPING note says which verb governs them."
+ },
+ {
+  "n": "119",
+  "field": "notes",
+  "old": "kāsāri is kept as a drug name; if read as kāsa-ari it would be literally 'enemy of cough', but it is not taken that way. yūṣa = a broth. The compound could also be read 'juice of kāsāri, broth, etc.' (as done) or 'kāsāri-juice-broth'.",
+  "new": "kāsāri is kept as a drug name; it is kept as a drug name and not analysed. yūṣa = a broth. The compound could also be read 'juice of kāsāri, broth, etc.' (as done) or 'kāsāri-juice-broth'.",
+  "why": "reviewer (minor): The etymology 'enemy of cough' hints at an effect; the drug name should simply be kept."
+ },
+ {
+  "n": "121",
+  "field": "hindi",
+  "old": "रात में मूत्र में और दिन में घाम में सात दिन तक रखे; इस प्रकार।",
+  "new": "रात में मूत्र में और दिन में गर्मी में सात दिन तक रखे; इस प्रकार।",
+  "why": "reviewer (minor): 'घाम' means sunshine specifically; gharma is 'heat' (English says heat)."
+ },
+ {
+  "n": "124",
+  "field": "notes",
+  "old": "nistupa = without husk; the husk sense is kept literal.",
+  "new": "nistupī- is probably nistuṣī- (niḥ + tuṣa, 'without husk'; possible print or scan slip, not in text_flags); the husk sense is kept literal.",
+  "why": "reviewer (error): 'nistupa' is not a Sanskrit word; the husk word is tuṣa (nistuṣa/nistuṣī-kṛta). 'nistupī' is probably a print or scan slip. Invented form stated as fact; no text_flag."
+ },
+ {
+  "n": "125",
+  "field": "word.gram",
+  "word": "te",
+  "old": "f. nom. du.",
+  "new": "n. nom. du.",
+  "why": "reviewer (error): te refers to phalam and mūlam, both neuter; dual 'te' here is neuter, not feminine."
+ },
+ {
+  "n": "125",
+  "field": "word.gram",
+  "word": "tīkṣṇa-vikāṣiṇī",
+  "old": "f. nom. du. (dvandva)",
+  "new": "n. nom. du. (dvandva)",
+  "why": "reviewer (error): Dual -iṇī is the neuter ending (feminine would be -iṇyau); label says f."
+ },
+ {
+  "n": "126",
+  "field": "word.gloss",
+  "word": "śleṣma-ā",
+  "old": "Kapha (first part of compound continued in next token)",
+  "new": "Kapha-affliction (compound continues in next token)",
+  "why": "reviewer (minor): Gloss should say Kapha-affliction (apply before the w patches)."
+ },
+ {
+  "n": "126",
+  "field": "word.gloss",
+  "word": "maya-udara-gara-śvayathu-ādiṣu",
+  "old": "affliction (-āmaya), belly (udara), poison (gara), swelling, and so on",
+  "new": "belly (udara), poison (gara), swelling, and so on",
+  "why": "reviewer (minor): Gloss should no longer contain āmaya."
+ },
+ {
+  "n": "126",
+  "field": "word.w",
+  "word": "śleṣma-ā",
+  "old": "śleṣma-ā",
+  "new": "śleṣma-āmaya",
+  "why": "reviewer (minor): The word āmaya is cut in two across the token break; 'maya' is not a word."
+ },
+ {
+  "n": "126",
+  "field": "word.w",
+  "word": "maya-udara-gara-śvayathu-ādiṣu",
+  "old": "maya-udara-gara-śvayathu-ādiṣu",
+  "new": "udara-gara-śvayathu-ādiṣu",
+  "why": "reviewer (minor): Follows from the above."
+ },
+ {
+  "n": "129",
+  "field": "english",
+  "old": "Two portions of śaṅkhinī powder, and one more of tila-seed paste,",
+  "new": "Two portions of śaṅkhinī powder, and one more of tila paste,",
+  "why": "reviewer (minor): 'seed' is added (it identifies the substance); the text says tila-kalka."
+ },
+ {
+  "n": "129",
+  "field": "word.gloss",
+  "word": "tila-kalkasya",
+  "old": "of tila-seed paste",
+  "new": "of tila paste",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "134",
+  "field": "english",
+  "old": "Heavy, agitating Vāta, dissolving Pitta and Kapha.",
+  "new": "Heavy, provoking Vāta, dissolving Pitta and Kapha.",
+  "why": "reviewer (minor): Notes say prakopin is literally 'provoking' and Hindi has कुपित करने वाला (provoking); English uses 'agitating'."
+ },
+ {
+  "n": "134",
+  "field": "word.gloss",
+  "word": "prakopi",
+  "old": "provoking, agitating",
+  "new": "provoking",
+  "why": "reviewer (minor): gloss should be the single literal sense"
+ },
+ {
+  "n": "136",
+  "field": "notes",
+  "old": "The text is damaged. The translation is tentative: only 'dry in the sunshine' and 'its vikāṣitā is destroyed' are read; the damaged part 'myarkau is left out of the translation. Low confidence.",
+  "new": "The text is damaged. The translation is tentative: only 'dry in the sunshine' and 'its vikāṣitā is destroyed' are read; the damaged part 'myarkau is left out of the translation. Low confidence. The printed hato (m. nom.) and vikāṣitāṃ (acc.) do not agree; 'its vikāṣitā is destroyed' rests on the possible emendation hatā ... vikāṣitā and is only a tentative reading. The printed line scans 16 syllables.",
+  "why": "reviewer (minor): Printed hato (m. nom.) and vikāṣitāṃ (acc.) do not agree; the translation silently treats vikāṣitā as subject (the emendation of the flag). Presented as a plain statement."
+ },
+ {
+  "n": "138",
+  "field": "hindi",
+  "old": "जिसका शरीर अभिष्यन्न हो, गुल्म वाला, प्रमेह वाला, जठर रोग वाला, गर वाला,",
+  "new": "जिसका शरीर अभिष्यन्न हो, गुल्म वाला, प्रमेह वाला, जठर वाला, गर वाला,",
+  "why": "reviewer (minor): 'रोग' (disease) is added; jaṭharī is 'one with jaṭhara' (English: with jaṭhara)."
+ },
+ {
+  "n": "139",
+  "field": "hindi",
+  "old": "गाय, मृग और बकरी के रसों से; पाण्डु वर्ण वाला, कोष्ठ में कृमि वाला, भगन्दर वाला,",
+  "new": "गो, मृग और अज के रसों से; पाण्डु वर्ण वाला, कोष्ठ में कृमि वाला, भगन्दर वाला,",
+  "why": "reviewer (minor): aja is a goat (masc.); बकरी is the female and adds a sex; गाय likewise narrows go."
+ },
+ {
+  "n": "142",
+  "field": "english",
+  "old": "Oil, on the other hand, [overcomes] gulma, meha, arśas, binding, Kapha and wind.",
+  "new": "Oil, on the other hand, [may overcome] gulma, meha, arśas, binding, Kapha and wind.",
+  "why": "reviewer (minor): Supplied verb is jayet (optative) as in 141 ('may overcome'); Hindi जीतता है (indicative) is inconsistent with 141."
+ },
+ {
+  "n": "142",
+  "field": "hindi",
+  "old": "तैल तो गुल्म, मेह, अर्श, विबन्ध, कफ और वायु को जीतता है।",
+  "new": "तैल तो गुल्म, मेह, अर्श, विबन्ध, कफ और वायु को जीत ले।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "143",
+  "field": "english",
+  "old": "The mahāsneha [overcomes] obstruction of stool, semen and wind, and pains of wind.",
+  "new": "The mahāsneha [may overcome] obstruction of stool, semen and wind, and pains of wind.",
+  "why": "reviewer (minor): same as 142"
+ },
+ {
+  "n": "143",
+  "field": "hindi",
+  "old": "महास्नेह मल, शुक्र और वात की रुकावट तथा वायु की पीड़ाओं को जीतता है।",
+  "new": "महास्नेह मल, शुक्र और वात की रुकावट तथा वायु की पीड़ाओं को जीत ले।",
+  "why": "reviewer (minor): same as 142"
+ },
+ {
+  "n": "146",
+  "field": "hindi",
+  "old": "वात से उत्पन्न तृष्णा में और पित्त के ज्वर में वही अजगन्धा के साथ हो।",
+  "new": "वात की तृष्णा में और पित्त के ज्वर में वही अजगन्धा के साथ हो।",
+  "why": "reviewer (minor): 'से उत्पन्न' (born of) is added; vāta-tarṣa is 'thirst of Vāta' (English says Vāta-thirst)."
+ },
+ {
+  "n": "148",
+  "field": "notes",
+  "old": "The sense is uncertain: the construction 'three portions, and two from phāṇita' and the meaning of bhajet (employ / add / fry) are doubtful. Low confidence.",
+  "new": "The sense is uncertain: the construction 'three portions, and two from phāṇita' and the meaning of bhajet (employ / add / fry) are doubtful. Low confidence. phāṇitāt is ablative as printed; 'two of phāṇita' is a loose guess at the construction.",
+  "why": "reviewer (minor): Word is labelled ablative, but gloss and translation ('two of phāṇita') read it as a genitive; the doubtful construction should be stated. Confidence low and notes already say the sense is uncertain; nothing invented."
+ }
+]

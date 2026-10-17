@@ -1,0 +1,673 @@
+{
+ "units": [
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Those that have been steeped (lit. have drunk) in snuk milk",
+     "problem": "'steeped' is an unsupported interpretation of pītān; the Sanskrit says only 'having drunk (snuk milk)'.",
+     "fix": "Those that have drunk snuk milk for seven days",
+     "severity": "error",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "english",
+      "old": "Those that have been steeped (lit. have drunk) in snuk milk for seven days",
+      "new": "Those that have drunk snuk milk for seven days"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्नुक् के दूध में भीगे हों",
+     "problem": "'भीगे' (soaked) is not in the Sanskrit; same addition as in English.",
+     "fix": "स्नुक् का दूध पिए हुए हों",
+     "severity": "error",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नुक् के दूध में भीगे हों",
+      "new": "स्नुक् का दूध पिए हुए हों"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "saptāham",
+     "problem": "saptāham may also go with pibet ('for seven days one should drink'); the draft fixes it to pītān without saying so.",
+     "fix": "Add alternative.",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "append_note",
+      "text": "saptāham could also be construed with pibet (drink for seven days) instead of with pītān."
+     }
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vayā, upottamā (gram 'f. nom. sg.')",
+     "problem": "A firm case label is given to words the draft itself calls unclear; they also clash with the accusatives nikuṃbhān/kuṃbhādīn. Nothing supports nominative.",
+     "fix": "mark gram as unclear",
+     "severity": "error"
+    },
+    {
+     "field": "text_flags",
+     "where": "tadvadvayopottamākuṃbhāni",
+     "problem": "Flag suggests 'vayottamā' (dropping 'po') but the words keep 'upottamā'; flag and word split contradict each other. Which of the two is right cannot be decided from the print.",
+     "fix": "Decide by a human; either keep words as printed-based guess or follow the flag, and state the same in both.",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "Likewise vayā, upottamā, nikumbha, kumbha",
+     "problem": "Drug names built on a doubtful reading (including the emendation nikumbha) are given as plain fact in the translation of a low-confidence unit.",
+     "fix": "mark the doubtful names with (?)",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "replace",
+      "field": "english",
+      "old": "Likewise vayā, upottamā, nikumbha,",
+      "new": "Likewise vayā(?), upottamā(?), nikumbha(?),"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "unit",
+     "problem": "117 has accusatives and an instrumental but no verb; no GROUPING note says which verb governs them.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "append_note",
+      "text": "GROUPING: this half-verse has no verb of its own; with 'tadvat' it probably continues the construction of 116 (pibet), possibly of adyāt in 118. Not decided."
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'enemy of cough'",
+     "problem": "The etymology 'enemy of cough' hints at an effect; the drug name should simply be kept.",
+     "fix": "replace",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "replace",
+      "field": "notes",
+      "old": "if read as kāsa-ari it would be literally 'enemy of cough', but it is not taken that way.",
+      "new": "it is kept as a drug name and not analysed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घाम में",
+     "problem": "'घाम' means sunshine specifically; gharma is 'heat' (English says heat).",
+     "fix": "गर्मी में",
+     "severity": "minor",
+     "patch": {
+      "n": "121",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घाम में",
+      "new": "गर्मी में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "122",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prāvṛṇānaḥ",
+     "problem": "The regular middle participle of pra-ā-√vṛ (cover) is prāvṛṇvānaḥ; the printed form is not flagged.",
+     "fix": "Add a text_flag (possible): prāvṛṇānaḥ -> prāvṛṇvānaḥ.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śaṃkhinyā -> śaṃkhinyāḥ",
+     "problem": "Wrong flag. śaṃkhinyāḥ + nistupī- gives regular sandhi (visarga lost after ā before a voiced consonant), so 'śaṃkhinyā nistupī-' is correct as printed; no visarga is missing. The words already (correctly) show śaṃkhinyāḥ.",
+     "fix": "Delete this text_flag.",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "nistupa = without husk",
+     "problem": "'nistupa' is not a Sanskrit word; the husk word is tuṣa (nistuṣa/nistuṣī-kṛta). 'nistupī' is probably a print or scan slip. Invented form stated as fact; no text_flag.",
+     "fix": "Add text_flag nistupīkṛtaṃ -> nistuṣīkṛtaṃ (possible); fix note.",
+     "severity": "error",
+     "patch": {
+      "n": "124",
+      "op": "replace",
+      "field": "notes",
+      "old": "nistupa = without husk; the husk sense is kept literal.",
+      "new": "nistupī- is probably nistuṣī- (niḥ + tuṣa, 'without husk'; possible print or scan slip, not in text_flags); the husk sense is kept literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "te",
+     "problem": "te refers to phalam and mūlam, both neuter; dual 'te' here is neuter, not feminine.",
+     "fix": "n. nom. du.",
+     "severity": "error",
+     "patch": {
+      "n": "125",
+      "op": "word",
+      "match_w": "te",
+      "field": "gram",
+      "value": "n. nom. du."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tīkṣṇa-vikāṣiṇī",
+     "problem": "Dual -iṇī is the neuter ending (feminine would be -iṇyau); label says f.",
+     "fix": "n. nom. du. (dvandva)",
+     "severity": "error",
+     "patch": {
+      "n": "125",
+      "op": "word",
+      "match_w": "tīkṣṇa-vikāṣiṇī",
+      "field": "gram",
+      "value": "n. nom. du. (dvandva)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śleṣma-āmaya",
+     "problem": "Gloss should say Kapha-affliction (apply before the w patches).",
+     "fix": "Kapha-affliction (compound continues in next token)",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "śleṣma-ā",
+      "field": "gloss",
+      "value": "Kapha-affliction (compound continues in next token)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "udara-gara-śvayathu-ādiṣu",
+     "problem": "Gloss should no longer contain āmaya.",
+     "fix": "belly (udara), poison (gara), swelling, and so on",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "maya-udara-gara-śvayathu-ādiṣu",
+      "field": "gloss",
+      "value": "belly (udara), poison (gara), swelling, and so on"
+     }
+    },
+    {
+     "field": "split",
+     "where": "śleṣma-ā + maya-...",
+     "problem": "The word āmaya is cut in two across the token break; 'maya' is not a word.",
+     "fix": "Put the whole of āmaya in the first token.",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "śleṣma-ā",
+      "field": "w",
+      "value": "śleṣma-āmaya"
+     }
+    },
+    {
+     "field": "split",
+     "where": "maya-udara-gara-śvayathu-ādiṣu",
+     "problem": "Follows from the above.",
+     "fix": "udara-gara-śvayathu-ādiṣu",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "maya-udara-gara-śvayathu-ādiṣu",
+      "field": "w",
+      "value": "udara-gara-śvayathu-ādiṣu"
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tila-seed paste",
+     "problem": "'seed' is added (it identifies the substance); the text says tila-kalka.",
+     "fix": "tila paste",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "replace",
+      "field": "english",
+      "old": "tila-seed paste",
+      "new": "tila paste"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tila-kalkasya",
+     "problem": "same",
+     "fix": "of tila paste",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "word",
+      "match_w": "tila-kalkasya",
+      "field": "gloss",
+      "value": "of tila paste"
+     }
+    }
+   ]
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "like the tooth of dantī",
+     "problem": "Low-confidence unit: 'like' (simile) is an addition and the compound could be 'firm and thick as a tusk'/'dantī-tooth'; the English states it firmly. Notes and confidence are honest about it. Nothing invented otherwise.",
+     "fix": "Keep low; no firm patch.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "agitating Vāta",
+     "problem": "Notes say prakopin is literally 'provoking' and Hindi has कुपित करने वाला (provoking); English uses 'agitating'.",
+     "fix": "provoking Vāta",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "replace",
+      "field": "english",
+      "old": "agitating Vāta",
+      "new": "provoking Vāta"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prakopi",
+     "problem": "gloss should be the single literal sense",
+     "fix": "provoking",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "word",
+      "match_w": "prakopi",
+      "field": "gloss",
+      "value": "provoking"
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "One should steam that",
+     "problem": "'steam' is more specific than svedayet (cause to sweat/foment); Hindi stays literal (स्वेदित). Needs a decision, cf. the glossary note on literal verbs.",
+     "fix": "One should cause that ... to sweat (sveda)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "'myarkau gives 17 syllables",
+     "problem": "Wrong count: the printed line scans 16 syllables (śo-ṣa-yec-cā-ta-pe-myar-kau / ha-to / hya-sya / vi-kā-ṣi-tāṃ). The metre gives no support for damage here; the 17 claim must go.",
+     "fix": "Rewrite 'why': damaged: 'myarkau gives no clear sense (line scans 16).",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "क्योंकि इसकी विकाषिता नष्ट हो जाती है",
+     "problem": "Printed hato (m. nom.) and vikāṣitāṃ (acc.) do not agree; the translation silently treats vikāṣitā as subject (the emendation of the flag). Presented as a plain statement.",
+     "fix": "Mark as tentative in notes (done below); English has the ellipsis, Hindi does not show the gap.",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "append_note",
+      "text": "The printed hato (m. nom.) and vikāṣitāṃ (acc.) do not agree; 'its vikāṣitā is destroyed' rests on the possible emendation hatā ... vikāṣitā and is only a tentative reading. The printed line scans 16 syllables."
+     }
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जठर रोग वाला",
+     "problem": "'रोग' (disease) is added; jaṭharī is 'one with jaṭhara' (English: with jaṭhara).",
+     "fix": "जठर वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जठर रोग वाला",
+      "new": "जठर वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बकरी",
+     "problem": "aja is a goat (masc.); बकरी is the female and adds a sex; गाय likewise narrows go.",
+     "fix": "गो, मृग और अज के रसों से",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गाय, मृग और बकरी के रसों से",
+      "new": "गो, मृग और अज के रसों से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाण्डु वर्ण वाला",
+     "problem": "'वर्ण' is added to pāṇḍu; see glossary suggestion.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaṣā -> kṣata",
+     "problem": "Guess; correctly marked 'possible', confidence low, notes say unclear. Acceptable: nothing invented in the words (kaṣā kept, 'unclear'). Translation lists kaṣā as printed.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[overcomes]",
+     "problem": "Supplied verb is jayet (optative) as in 141 ('may overcome'); Hindi जीतता है (indicative) is inconsistent with 141.",
+     "fix": "[may overcome]",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "replace",
+      "field": "english",
+      "old": "[overcomes]",
+      "new": "[may overcome]"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जीतता है",
+     "problem": "same",
+     "fix": "जीत ले",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीतता है",
+      "new": "जीत ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[overcomes]",
+     "problem": "same as 142",
+     "fix": "[may overcome]",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "replace",
+      "field": "english",
+      "old": "[overcomes]",
+      "new": "[may overcome]"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जीतता है",
+     "problem": "same as 142",
+     "fix": "जीत ले",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीतता है",
+      "new": "जीत ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वात से उत्पन्न तृष्णा",
+     "problem": "'से उत्पन्न' (born of) is added; vāta-tarṣa is 'thirst of Vāta' (English says Vāta-thirst).",
+     "fix": "वात की तृष्णा",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात से उत्पन्न तृष्णा",
+      "new": "वात की तृष्णा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "147",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "148",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "phāṇitāt",
+     "problem": "Word is labelled ablative, but gloss and translation ('two of phāṇita') read it as a genitive; the doubtful construction should be stated. Confidence low and notes already say the sense is uncertain; nothing invented.",
+     "fix": "Add to notes: phāṇitāt is ablative ('from/than'); 'two of phāṇita' is a guess.",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "append_note",
+      "text": "phāṇitāt is ablative as printed; 'two of phāṇita' is a loose guess at the construction."
+     }
+    }
+   ]
+  }
+ ],
+ "glossary_suggestions": [
+  {
+   "term": "phāṇita",
+   "suggest": "keep 'phāṇita' with the gloss 'boiled-down sweet syrup' in all units; 'treacle' (118, 148) is a modern equivalent."
+  },
+  {
+   "term": "pāṇḍu (Hindi)",
+   "suggest": "Hindi पाण्डु alone, without adding वर्ण/पीला (139); English 'pale'."
+  },
+  {
+   "term": "kvātha / kaṣāya",
+   "suggest": "This chunk is consistent (decoction / काढ़ा for 112, 118, 130, 140); suggest closing the OPEN item as 'both decoction / काढ़ा'."
+  },
+  {
+   "term": "vikāṣin",
+   "suggest": "keep 'vikāṣin' / विकाषी transliterated as printed in all units (125, 133, 136); do not normalise to vikāśin in the translations."
+  },
+  {
+   "term": "supplied verb jayet",
+   "suggest": "when the verb is supplied from an earlier unit, use the same mood in both languages ('may overcome' / जीत ले)."
+  },
+  {
+   "term": "prakopin",
+   "suggest": "provoking / कुपित करने वाला, not 'agitating'."
+  },
+  {
+   "term": "svedayet",
+   "suggest": "literal 'cause to sweat' / स्वेदित करे; avoid 'steam' (adds a method)."
+  }
+ ],
+ "summary": "37 units (112-148). Units with a fix: 20. Issues: errors and minors counted in the reply. No unit needs regrouping; the long sentences (112-116, 119-123, 126-128, 129-130, 138-141, 144-145) are already marked GROUPING. 117, 132, 136, 141, 148: confidence is low and notes say the text is doubtful; nothing invented except the contradictions noted (117 flag vs words, 136 wrong syllable count). Hindi has no Latin letters, brackets or plant common names; kvātha/kaṣāya rendering is consistent."
+}
