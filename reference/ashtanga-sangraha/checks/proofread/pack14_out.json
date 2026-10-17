@@ -1,0 +1,422 @@
+[
+ {
+  "id": "05.02.107",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'गत्व्रोग' has an impossible sequence (त्व्रो) but the right word is not visible"
+ },
+ {
+  "id": "05.03.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.03.29",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.03.38",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.03.66",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.03.69",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.04.59",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मधुककल्केन सरसाज्येन बृंहणः",
+  "why": "'कल्कैन' is not a valid instrumental; should be कल्केन"
+ },
+ {
+  "id": "05.04.104",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.06.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.06.164",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.25",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'तदंमत्ता' looks garbled but no certain correction"
+ },
+ {
+  "id": "05.08.26",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.30",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.42",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.50",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.58",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "05.08.59",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.01.4",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.01.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.01.30",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "",
+  "why": "'देहलीमनुलिखेद्ङ्मुसलं' contains the impossible cluster द्ङ्"
+ },
+ {
+  "id": "06.01.32",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "प्रहृष्टजनसंपूर्णं च तद्वेश्म कार्य्यं ॥",
+  "why": "'प्रह ष्ट' has a stray space and broken ऋ-sign; 'संपूर्ण' lacks anusvara"
+ },
+ {
+  "id": "06.02.23",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.02.37",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.02.40",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.02.54",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.02.61",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "अनुबंधे च यथाव्याधि प्रतिकुर्वीत ॥",
+  "why": "'यथाय्याधि' should be यथाव्याधि"
+ },
+ {
+  "id": "06.02.71",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.02.82",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सौकुमार्याल्पकायतत्वात्सर्वान्नानुपसेवनात् ॥",
+  "why": "final halant dropped in 'सेवनात'"
+ },
+ {
+  "id": "06.02.96",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'लावतित्तिरित्त्वग्रजः' and 'पुष्प रस' look garbled, no clear fix"
+ },
+ {
+  "id": "06.02.131",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "line is fine (extra द is in the following line)"
+ },
+ {
+  "id": "06.03.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.03.97",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.04.122",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.05.148",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.25",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.41",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "बालं बालहितो देवो नैगमेषोऽभिरक्षतु स्वाहा ॥",
+  "why": "stray 'र्' in 'बालं र्बालहितो'"
+ },
+ {
+  "id": "06.06.57",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.101",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.102",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.120",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.122",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.06.128",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.07.33",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.07.34",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.07.39",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.07.67",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.08.116",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.09.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.09.7",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.09.8",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.10.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.10.138",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.11.3",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.12.58",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "क्षारेण वा दहेत्तप्तया वा शलाकया ॥",
+  "why": "'तमया' makes no sense with a cautery needle; likely तप्तया"
+ },
+ {
+  "id": "06.12.60",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.13.1",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.14.14",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.14.18",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "no error visible"
+ },
+ {
+  "id": "06.14.20",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "तैस्तंडुलैश्चूर्णांजनं बलासग्रथितपिष्टकघ्नं ॥",
+  "why": "stray 'र्' in 'चूर्णार्ंजनं'"
+ },
+ {
+  "id": "06.14.32",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "वर्जयेच्च कनीनकं सिराश्रुवहाः ॥",
+  "why": "'सिराश्राम्रुवहाः' is garbled; tear-carrying vessels are सिराश्रुवहाः"
+ }
+]
