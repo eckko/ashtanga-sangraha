@@ -9,12 +9,12 @@ AUTHORED["1"] = {
     "rule": ("The formula 'athāto … vyākhyāsyāmaḥ' says: now, therefore, we shall "
              "explain the chapter named Rogānutpādanīya (the non-arising of disease)."),
     "limits": ("The line gives only the chapter's name and the promise to explain it. "
-               "It names no disease, urge or remedy; those begin in unit 2."),
+               "It names no disease, urge or remedy: the urges begin in unit 2, the ailments in unit 3 and the remedies in unit 4."),
     "explain_hi": ("हर अध्याय की तरह यह पंक्ति सूत्र-वाक्य है: ‘अथ’ (अब) और ‘अतः’ (इसलिए), "
                    "फिर अध्याय का नाम ‘रोगानुत्पादनीय’, और अंत में ‘व्याख्यास्यामः’ (हम व्याख्या करेंगे)। "
                    "नाम का भाव है रोगों का उत्पन्न न होना। ‘रोग’ और ‘अनुत्पादनीय’ मिलकर "
                    "‘रोगानुत्पादनीय’ बने हैं (अ + अ → आ)। इस पंक्ति में अभी कोई रोग या उपाय नहीं आया।"),
-    "hook": "अब, इसलिए: रोगों के न उपजने वाले अध्याय की व्याख्या करेंगे।",
+    "hook": "अब, इसलिए: ‘रोगों का न उपजना’ नामक अध्याय की व्याख्या करेंगे।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does the verb 'व्याख्यास्यामः' say?",
@@ -28,7 +28,7 @@ AUTHORED["1"] = {
               ["अथ", "अतः", "रोगानुत्पादनीयम्", "अध्यायम्", "व्याख्यास्यामः"],
               "The line runs: now, therefore, the Rogānutpādanīya chapter, we shall explain.",
               "अथातो रोगानुत्पादनीयमध्यायं व्याख्यास्यामः."),
-        fill(2, "The chapter announced is called an ____ (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "The word for 'chapter' in the formula is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("अध्यायम्", None, "अध्याय"),
              "अध्यायम् means 'chapter'; it ends in -म् because it is what 'we shall explain'.",
              "अध्याय is the word for a chapter; in the formula it stands in the accusative (अध्यायम्) as the object of the verb.",
@@ -62,11 +62,11 @@ AUTHORED["2"] = {
     "title": "वेगान्न धारयेत्",
     "question": "Which urges does the verse say one should not hold back?",
     "rule": ("One should not hold back (न धारयेत्) the urges (वेगान्) of fourteen things: wind, "
-             "stool, urine, sneeze, thirst, hunger; sleep, cough, exertion-breath, yawning, "
+             "stool, urine, sneeze, thirst, hunger; sleep, cough, exertion, breath, yawning, "
              "tears, vomiting, semen."),
     "limits": ("The verse only lists the urges and forbids holding them back. It gives no "
-               "reason here. 'श्रम' and 'श्वास' are taken as two members; they may also be "
-               "read as 'breathing from exertion'."),
+               "reason here. 'श्रम' and 'श्वास' are taken as two members (so fourteen urges); read as one "
+               "('breathing from exertion'), there would be thirteen."),
     "explain_hi": ("अध्याय का पहला नियम यही है: वेगों को न रोके। पहली पंक्ति में छह वेग हैं: "
                    "वात (अधोवायु), विट् (मल), मूत्र, क्षव (छींक), तृट् (प्यास) और क्षुधा (भूख)। "
                    "दूसरी पंक्ति में आठ और: निद्रा, कास (खाँसी), श्रम और श्वास, जृंभा (जम्भाई), "
@@ -99,10 +99,10 @@ AUTHORED["2"] = {
              ("धारयेते + वात", "Nothing here gives द् from -ते.")],
             "धारयेत् (one should hold back) + वात (wind): त् → द् before the voiced व.",
             "Final त् → द् before a voiced sound."),
-        order(4, "Put the last six urges of the second line in the verse's order.",
-              ["श्रम", "श्वास", "जृंभा", "अश्रु", "छर्दि", "रेतस्"],
-              "The second line ends: exertion, breath, yawning, tears, vomiting, semen.",
-              "श्रम · श्वास · जृंभा · अश्रु · छर्दि · रेतस्.", role="apply"),
+        order(4, "Put these four urges of the second line in the verse's order.",
+              ["जृंभा", "अश्रु", "छर्दि", "रेतस्"],
+              "The second line ends: yawning, tears, vomiting, semen.",
+              "जृंभा · अश्रु · छर्दि · रेतस्.", role="apply"),
         mcq("transfer", 5, "Which invented sentence means: one should not hold back a yawn?",
             ("जृंभां न धारयेत्", "Object in the accusative + न + धारयेत्, as in the verse."),
             [("जृंभां धारयेत्", "Without न this says one should hold it back."),
@@ -132,9 +132,9 @@ AUTHORED["3"] = {
     "questions": [
         mcq("pretest", 0, "From suppressing what does the unit say gulma and udāvarta arise?",
             ("The downward wind", "अधोवातस्य रोधेन: by suppression of the downward wind."),
-            [("Stool", "Stool is not the cause named in these lines."),
-             ("A sneeze", "A sneeze is not mentioned here."),
-             ("Thirst", "Thirst is not mentioned here.")],
+            [("Retained stool", "Stool is not the cause named in these lines."),
+             ("A held-in sneeze", "A sneeze is not mentioned here."),
+             ("Thirst and hunger", "Thirst is not mentioned here.")],
             "The first words are अधोवातस्य रोधेन, 'by suppression of the downward wind'.",
             "अधोवातस्य रोधेन = by suppression of the downward wind."),
         order(1, "Put the four conditions of the first line in the verse's order.",
@@ -189,9 +189,9 @@ AUTHORED["4"] = {
     "questions": [
         mcq("pretest", 0, "With which pair does the list of means open?",
             ("Oleation and sweating", "स्नेहस्वेदविधिः comes first."),
-            [("Enemas and wicks", "These come later in the list."),
-             ("Foods and drinks", "These stand in the middle."),
-             ("Fasting and rest", "Neither is named in this unit.")],
+            [("Enemas and wicks together", "These come later in the list."),
+             ("Foods and drinks together", "These stand in the middle."),
+             ("Fasting and complete rest", "Neither is named in this unit.")],
             "The list opens with स्नेहस्वेदविधिः, the method of oleation and sweating.",
             "First: स्नेहस्वेदविधि."),
         order(1, "Put the five means in the order of the verse.",
@@ -213,12 +213,12 @@ AUTHORED["4"] = {
             "बस्तयः (enemas) + च (and) + एव (indeed).",
             "अः + च → श्च; अ + ए → ऐ."),
         multi("apply", 4, "Which of these does the unit name among the recommended means?",
-              [("foods (भोजन)", "Right: named."),
+              [("induced vomiting", "Not named in this unit."),
+               ("foods (भोजन)", "Right: named."),
+               ("nasal drops", "Not named in this unit."),
                ("drinks (पान)", "Right: named."),
-               ("enemas (बस्ति)", "Right: named."),
-               ("induced vomiting", "Not named in this unit."),
-               ("nasal drops", "Not named in this unit.")],
-              [0, 1, 2],
+               ("enemas (बस्ति)", "Right: named.")],
+              [1, 3, 4],
               "Foods, drinks and enemas are in the list; induced vomiting and nasal drops are not named here.",
               "Named: स्नेहस्वेदविधि, वर्ति, भोजन, पान, बस्ति."),
         mcq("transfer", 5, "Which is the joined form of वायुः + तत्र?",
@@ -250,8 +250,8 @@ AUTHORED["5"] = {
     "questions": [
         mcq("pretest", 0, "Which condition does the first line name for stool suppression?",
             ("Cramps of the calves", "पिंडिकोद्वेष्ट is the twisting of the calves."),
-            [("Gulma", "Gulma belongs to the downward-wind unit, not this one."),
-             ("Tremor", "Tremor is not in this unit."),
+            [("Gulma and udāvarta", "These belong to the downward-wind unit, not this one."),
+             ("Tremor of the limbs", "Tremor is not in this unit."),
              ("Stone (अश्मरी)", "Not in this unit.")],
             "Line 1 names calf cramps, nasal catarrh and head pain.",
             "Line 1: पिंडिकोद्वेष्ट, प्रतिश्याय, शिरोरुज्."),
@@ -274,12 +274,12 @@ AUTHORED["5"] = {
             "हृदयस्य (of the heart) + उपरोधनम् (obstruction): अ + उ → ओ.",
             "अ + उ → ओ."),
         multi("apply", 4, "Which of these does the unit give for stool suppression?",
-              [("catarrh of the nose", "Right: प्रतिश्याय."),
+              [("gulma", "Not in this unit."),
+               ("catarrh of the nose", "Right: प्रतिश्याय."),
+               ("stone (अश्मरी)", "Not in this unit."),
                ("head pain", "Right: शिरोरुज्."),
-               ("cutting pain", "Right: परिकर्त."),
-               ("gulma", "Not in this unit."),
-               ("stone (अश्मरी)", "Not in this unit.")],
-              [0, 1, 2],
+               ("cutting pain", "Right: परिकर्त.")],
+              [1, 3, 4],
               "Catarrh, head pain and cutting pain are all in the unit; gulma and stone are not.",
               "Named: पिंडिकोद्वेष्ट, प्रतिश्याय, शिरोरुज्, परिकर्त, हृदयोपरोधन."),
         mcq("transfer", 5, "Which is the joined form of गंगा + उदक?",
@@ -336,12 +336,12 @@ AUTHORED["6"] = {
             "पूर्वोक्ताः (stated before) + च (and) + आमयाः (ailments).",
             "अः + च → श्च; अ + आ → आ."),
         multi("apply", 4, "Which are named as places of pain in line 2?",
-              [("bladder", "Right: बस्ति here names a place of pain."),
+              [("head", "Not named in this line."),
+               ("bladder", "Right: बस्ति here names a place of pain."),
+               ("heart", "Not named in this line."),
                ("penis", "Right: मेढ्र (printed मैंढ्र)."),
-               ("groin", "Right: वंक्षण."),
-               ("head", "Not named in this line."),
-               ("heart", "Not named in this line.")],
-              [0, 1, 2],
+               ("groin", "Right: वंक्षण.")],
+              [1, 3, 4],
               "Line 2 ends with pains of the bladder, penis and groin.",
               "बस्ति, मेढ्र, वंक्षण + वेदना."),
         mcq("transfer", 5, "Which is the joined form of रोगः + च?",
@@ -367,8 +367,8 @@ AUTHORED["7"] = {
                "list is read as in the data. Names only: no dose, no manner."),
     "explain_hi": ("पिछली इकाई की सूची का कारण यहाँ पूरा होता है: ‘मूत्ररोधात्’ (मूत्र रोकने से) वे रोग "
                    "‘स्युः’ (हो सकते हैं), और प्रायः पहले के रोग भी। फिर ‘तदौषधम्’ (उसका उपचार) के बाद पाँच नाम "
-                   "आते हैं: बत्ती, अभ्यंग, अवगाह, स्वेदन और बस्तिकर्म। ‘प्रायः’ का अर्थ है ‘अधिकतर’, "
-                   "यानी कोई पक्का नियम नहीं। श्लोक केवल नाम गिनाता है।"),
+                   "आते हैं: बत्ती, अभ्यंग, अवगाह, स्वेदन और बस्तिकर्म। ‘प्रायः’ का अर्थ है ‘अधिकतर’। "
+                   "श्लोक केवल नाम गिनाता है।"),
     "hook": "मूत्र रोका तो वही रोग; उपाय: बत्ती, अभ्यंग, अवगाह, स्वेद, बस्ति।",
     "core": False,
     "questions": [
@@ -397,12 +397,12 @@ AUTHORED["7"] = {
             "मूत्ररोधात् (from suppression of urine) + पूर्वे (the earlier ones).",
             "Final त् before प is unchanged."),
         multi("apply", 4, "Which are named as the remedy in this unit?",
-              [("anointing (अभ्यंग)", "Right: named."),
+              [("ghee before the meal", "Not in this unit."),
+               ("anointing (अभ्यंग)", "Right: named."),
+               ("bringing on a sneeze", "Not in this unit."),
                ("immersion baths (अवगाह)", "Right: named."),
-               ("enema treatment (बस्तिकर्म)", "Right: named."),
-               ("ghee before the meal", "Not in this unit."),
-               ("bringing on a sneeze", "Not in this unit.")],
-              [0, 1, 2],
+               ("enema treatment (बस्तिकर्म)", "Right: named.")],
+              [1, 3, 4],
               "Line 2 names wicks, anointing, immersion baths, sweating and enema treatment.",
               "Remedy: वर्ति, अभ्यंग, अवगाह, स्वेदन, बस्तिकर्म."),
         mcq("transfer", 5, "Which word means from suppression of an urge?",
@@ -454,10 +454,10 @@ AUTHORED["8"] = {
             ("विड्विबन्ध + उत्थेषु", "अ + उ gives ओ."),
             [("विड्विबन्धो + थेषु", "थेषु is not a word."),
              ("विड्विबन्ध + ओत्थेषु", "The ओ comes from the join; there is no word ओत्थेषु."),
-             ("विड्विबन्धा + उत्थेषु", "आ + उ would also give ओ, but the first part has a short अ.")],
+             ("विड्विबन्धः + उत्थेषु", "A visarga before उ would leave a gap (विड्विबन्ध उत्थेषु), not give ओ.")],
             "विड्विबन्ध (retention of stool) + उत्थेषु (arising from): अ + उ → ओ.",
             "अ + उ → ओ."),
-        order(4, "Leaving out small words, put the phrases of the unit in the verse's order.",
+        order(4, "Leaving out the doubtful 'पाने च' and the small words, put the phrases of the unit in the verse's order.",
               ["अन्नपानम्", "विड्भेदि", "विड्विबन्धोत्थेषु यक्ष्मसु", "मूत्रजेषु", "प्राग्भक्ताच्छस्यते घृतम्"],
               "Line 1: food and drink, stool-loosening, in the ailments from stool retention; line 2: from urine, ghee before the meal.",
               "अन्नपानम् · विड्भेदि · विड्विबन्धोत्थेषु यक्ष्मसु · मूत्रजेषु · प्राग्भक्ताच्छस्यते घृतम्.",
@@ -493,7 +493,7 @@ AUTHORED["9"] = {
             ("एतत् + च", "A final त् before च becomes च्."),
             [("एत + च्च", "च्च is not a word."),
              ("एतः + च", "A visarga before च would give श्च."),
-             ("एतद् + च", "द् would stay द्; it does not become च्.")],
+             ("एतत् + श्च", "श्च is not a word; the word is च, 'and'.")],
             "एतत् (this) + च (and): त् + च → च्च.",
             "Final त् + च → च्च."),
         match(1, "Match each plain word of line 2 to its meaning.",
@@ -502,7 +502,7 @@ AUTHORED["9"] = {
               "Only the clear words are tested.",
               "एतत् = this; च = and; संज्ञितम् = is named; धारणात् = from holding back; पुनः = again."),
         fill(2, "The word for 'again' in line 2 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("पुनः"),
+             accepts("पुनः", None, "पुन"),
              "पुनः means 'again'; the visarga may be dropped when typing.",
              "पुनः is a word that never changes its ending; it means 'again'.",
              "पुनः = again.", role="extend"),
@@ -536,7 +536,7 @@ AUTHORED["10"] = {
              "chest, distension, cough, hiccups; the remedy is as for hiccups."),
     "limits": ("'Holding back' comes from धारणात् at the end of unit 9, so the unit alone has the "
                "genitive उद्गारस्य. हृदयोरसोः is a dual read as 'in heart and chest'."),
-    "explain_hi": ("अब तीसरा वेग: उद्गार (डकार)। ‘रोकने से’ का भाव पिछली इकाई के ‘धारणात्’ से आता है। "
+    "explain_hi": ("अब एक और वेग: उद्गार (डकार)। ‘रोकने से’ का भाव पिछली इकाई के ‘धारणात्’ से आता है। "
                    "सूची में छह नाम: अरुचि, कंप, हृदय और छाती में विबंध, आध्मान (अफारा), कास और हिध्मा। "
                    "अंत में कहा गया है कि उपचार ‘हिध्मावत्’ है, यानी हिचकी के समान। ‘हृदय + उरसोः’ मिलकर "
                    "हृदयोरसोः बना है (अ + उ → ओ)।"),
@@ -562,19 +562,19 @@ AUTHORED["10"] = {
               role="extend",
               teaches="The prefix अ- negates: अरुचि is the lack of taste or liking for food."),
         mcq("discriminate", 3, "Which is the right split of हृदयोरसोः?",
-            ("हृदय + उरसोः", "अ + उ gives ओ."),
+            ("हृदय + उरसोः", "The pair 'heart and chest' (हृदय-उरस्) in the dual, 'in heart and chest': अ + उ → ओ."),
             [("हृदयो + रसोः", "रसोः is not the word; it is उरसोः."),
              ("हृदय + ओरसोः", "The ओ is made by the join; there is no word ओरसोः."),
              ("हृदयः + उरसोः", "A visarga before उ would give हृदय उरसोः, not ओ.")],
-            "हृदय (heart) + उरसोः (in the chest, dual): अ + उ → ओ.",
+            "हृदय (heart) + उरसोः (the pair 'heart and chest' in the dual: in heart and chest): अ + उ → ओ.",
             "अ + उ → ओ."),
         multi("apply", 4, "Which of these does the unit name as results?",
-              [("tremor", "Right: कंप."),
+              [("calf cramps", "That is in the stool unit."),
+               ("tremor", "Right: कंप."),
+               ("head pain", "That is in the sneeze unit."),
                ("cough", "Right: कास."),
-               ("hiccups", "Right: हिध्मा."),
-               ("calf cramps", "That is in the stool unit."),
-               ("head pain", "That is in the sneeze unit.")],
-              [0, 1, 2],
+               ("hiccups", "Right: हिध्मा.")],
+              [1, 3, 4],
               "Tremor, cough and hiccups are in the list; calf cramps and head pain are not.",
               "Results: अरुचि, कंप, विबंध, आध्मान, कास, हिध्मा."),
         mcq("transfer", 5, "Which word means like a snake?",
@@ -594,13 +594,13 @@ AUTHORED["11"] = {
     "question": "What does the unit list for holding back a sneeze?",
     "rule": ("From (holding back) a sneeze: head pain, weakness of the senses, stiffness of the "
              "neck and ardita; then a list of means: sharp smoke, collyrium, sniffing, nasal "
-             "drops, looking at the sun."),
+             "drops, looking at 'arka' (read as the sun)."),
     "limits": ("The sentence ends in unit 12, where the verb 'one should bring on' stands. "
                "'अर्क' is read as the sun but may be a drug name, so it is not tested. ardita is "
                "a name only; no diagnosis. Printed 'शिरोर्ति' is शिरः + अर्ति."),
-    "explain_hi": ("चौथा वेग: क्षुत् (छींक)। ‘क्षुतेः’ से छींक रोकने के परिणाम गिनाए गए हैं: सिर में पीड़ा, "
+    "explain_hi": ("अब एक और वेग: क्षुत् (छींक)। ‘क्षुतेः’ से छींक रोकने के परिणाम गिनाए गए हैं: सिर में पीड़ा, "
                    "इंद्रियों की दुर्बलता, मन्या (गर्दन) की जकड़न और अर्दित। दूसरी पंक्ति में उपाय के नाम आते हैं: "
-                   "तीखा धुआँ, अंजन, सूँघना, नस्य, और सूर्य को देखना। इनके साथ की क्रिया अगली इकाई में है। "
+                   "तीखा धुआँ, अंजन, सूँघना, नस्य, और अर्क (सूर्य, ऐसा लिया गया) को देखना। इनके साथ की क्रिया अगली इकाई में है। "
                    "‘अर्क’ का अर्थ दो तरह लिया जा सकता है, इसलिए उस पर प्रश्न नहीं हैं।"),
     "hook": "छींक रोकी: सिरदर्द, इंद्रिय-दुर्बलता, गर्दन-जकड़न, अर्दित।",
     "core": False,
@@ -631,9 +631,9 @@ AUTHORED["11"] = {
              ("शिरः + उर्ति", "उर्ति is not a word.")],
             "शिरः (head) + अर्ति (pain): शिरोऽर्ति, printed here without the avagraha.",
             "अः + अ → ओऽ."),
-        order(4, "Leaving out the last member (looking at the sun), put the four means in the verse's order.",
+        order(4, "Leaving out the last member (arka), put the four means in the verse's order.",
               ["तीक्ष्णधूम", "अंजन", "आघ्राण", "नावन"],
-              "Line 2 runs: sharp smoke, collyrium, sniffing, nasal drops, (then looking at the sun).",
+              "Line 2 runs: sharp smoke, collyrium, sniffing, nasal drops, (then arka).",
               "तीक्ष्णधूम · अंजन · आघ्राण · नावन.", role="apply"),
         mcq("transfer", 5, "Which word means by fruits?",
             ("फलैः", "-ऐः is the plural 'by' ending, as in विलोकनैः."),
@@ -688,12 +688,12 @@ AUTHORED["12"] = {
             "च (and) + उत्तरभक्तकम् (after the meal): अ + उ → ओ.",
             "अ + उ → ओ."),
         multi("apply", 4, "Which does the unit say should be done or applied?",
-              [("sweating (स्वेद)", "Right: स्वेदाभ्यंगौ शीलयेत्."),
+              [("ghee before the meal", "The unit says after, not before."),
+               ("sweating (स्वेद)", "Right: स्वेदाभ्यंगौ शीलयेत्."),
+               ("looking at the sun", "Not named in this unit."),
                ("anointing (अभ्यंग)", "Right: स्वेदाभ्यंगौ शीलयेत्."),
-               ("ghee after the meal", "Right: घृतं चोत्तरभक्तकम्."),
-               ("ghee before the meal", "The unit says after, not before."),
-               ("looking at the sun", "Not named in this unit.")],
-              [0, 1, 2],
+               ("ghee after the meal", "Right: घृतं चोत्तरभक्तकम्.")],
+              [1, 3, 4],
               "Sweating, anointing and ghee after the meal are named; ghee before the meal and looking at the sun are not.",
               "Named: स्वेद, अभ्यंग, वातघ्न अन्न, उत्तरभक्त घृत."),
         mcq("transfer", 5, "Which word means two feet, as स्वेदाभ्यंगौ names a pair?",
@@ -715,7 +715,7 @@ NOTES_HI = {
     "4": "विश्वास: उच्च। ‘शस्तम्’ एकवचन है और बहुवचन सूची के लिए सामूहिक है। ‘वातानुलोमनम्’ पूरी सूची का विशेषण लिया गया है; उसे एक और सदस्य मानना भी संभव है। संधि जाँची: बस्तयश्चैव = बस्तयः + च + एव; विधिस्तत्र = विधिः + तत्र।",
     "5": "विश्वास: उच्च। ‘शकृतः’ षष्ठी है, ‘रोधात्/रोधेन’ अध्याहार। ‘परिकर्तः’ यहाँ पुल्लिंग है (प्रायः ‘परिकर्तिका’)। ‘ऊर्ध्वं वायुः’ का दो तरह अर्थ संभव है, उस पर प्रश्न नहीं। संधि जाँची: पिंडिकोद्वेष्ट = पिंडिका + उद्वेष्ट; हृदयस्योपरोधनम् = हृदयस्य + उपरोधनम्।",
     "6": "विश्वास: मध्यम। संयोजन: पहली पंक्ति मल के विषय को पूरा करती है, दूसरी पंक्ति (मूत्र-रोध की सूची) की क्रिया अगली इकाई की पहली पंक्ति में है; छपाई का जोड़ा रखा गया है। छपा ‘मैंढ्र’ को डेटा में ‘मेढ्र’ लिया गया है। ‘अश्मरी’ का शाब्दिक अर्थ ‘पथरी’। संधि जाँची: पूर्वोक्ताश्चामयाः = पूर्वोक्ताः + च + आमयाः।",
-    "7": "विश्वास: मध्यम। पाठ-चिह्न: ‘वत्त्यंभ्यंगावगाहाश्च’ में वर्ति का र् छूटा है और अनुस्वार अतिरिक्त है (सुझाव: वर्त्त्यभ्यङ्गावगाहाश्च); अर्थ वही रहता है, पर प्रश्नों में बत्ती को छोड़ा गया। पहली पंक्ति पिछली इकाई की सूची की क्रिया पूरी करती है। ‘पूर्वे’ = पहले बताए रोग। ‘बस्तिकर्मच’ बिना खाली स्थान छपा है।",
+    "7": "विश्वास: मध्यम। पाठ-चिह्न: ‘वत्त्यंभ्यंगावगाहाश्च’ में वर्ति का र् छूटा है और अनुस्वार अतिरिक्त है (सुझाव: वर्त्त्यभ्यङ्गावगाहाश्च); अर्थ वही रहता है, प्रश्नों में ‘अभ्यंग’ और ‘अवगाह’ लिए गए हैं (दूषित छपाई में भी अर्थ वही रहता है); बत्ती केवल संदर्भ के रूप में आती है। पहली पंक्ति पिछली इकाई की सूची की क्रिया पूरी करती है। ‘पूर्वे’ = पहले बताए रोग। ‘बस्तिकर्मच’ बिना खाली स्थान छपा है।",
     "8": "विश्वास: मध्यम। पहली पंक्ति में क्रिया नहीं है, ‘शस्यते’ दूसरी पंक्ति से अध्याहार। ‘पाने च’ दो तरह पढ़ा जा सकता है (पीने में, या सेवन का ढंग), इसलिए नहीं लिया गया। यक्ष्म केवल एक नामित वर्ग है। संधि जाँची: विड्विबन्धोत्थेषु = विड्विबन्ध + उत्थेषु (अ + उ → ओ)।",
     "9": "विश्वास: कम। पहली पंक्ति अस्पष्ट है (‘जीर्णान्तिकं’, ‘योजनाद्वयं’ के दो पाठ संभव) और ‘अवपीडक’ तकनीकी शब्द बिना अर्थ के रखा गया है; अनुवाद अस्थायी है। ‘धारणात् पुनः’ (5.17) संपादकों द्वारा अगले विषय का आरंभ चिह्नित है और असल में इकाई 10 के वाक्य में जाता है। इसलिए कोई प्रश्न अर्थ पर नहीं, केवल साफ़ शब्दों और संधि (एतत् + च = एतच्च; धारणात् + पुनः) पर है।",
     "10": "विश्वास: उच्च। ‘रोकने से’ पिछली इकाई के ‘धारणात्’ से आता है (इकाई 9 की टिप्पणी देखें)। हृदयोरसोः द्विवचन है, सप्तमी के अर्थ में लिया गया। ‘हिध्मावत्’ = हिचकी के समान। संधि जाँची: हृदयोरसोः = हृदय + उरसोः (अ + उ → ओ)।",
@@ -734,7 +734,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पहली पंक्ति के छह वेग", "items": ["वात", "विट्", "मूत्र", "क्षव", "तृट्", "क्षुधा"]},
             {"label": "दूसरी पंक्ति के आठ वेग", "items": ["निद्रा", "कास", "श्रम", "श्वास", "जृंभा", "अश्रु", "छर्दि", "रेतस्"]}]},
-        "chunks": "वेगान्न धारयेद् | वातविण्मूत्रक्षवतृट्क्षुधाम् ‖ निद्राकासश्रमश्वास | जृंभाश्रुच्छर्दिरेतसाम्।",
+        "chunks": "वेगान्न धारयेद् | वातविण्मूत्रक्षवतृट्क्षुधाम् ‖ निद्राकासश्रमश्वास | जृंभाश्रुच्छर्द्दिरेतसाम्।",
         "sandhi": "त् → द् घोष से पहले: धारयेत् + वात → धारयेद्वात। वेगान् + न → वेगान्न।",
         "frame": "क्या न करें: वेगों को न रोकें · कितने: छह (पहली पंक्ति) + आठ (दूसरी) · क्रिया: न धारयेत्।",
         "pegs": "मेरा बनाया क्रम: ऊपर की रेखा में छह वेग, नीचे की रेखा में आठ और। केवल याद के लिए।",
@@ -775,7 +775,7 @@ AIDS = {
         "chunks": "अन्नपानं च विड्भेदि | विड्विबन्धोत्थेषु यक्ष्मसु ‖ मूत्रजेषु तु पाने च | प्राग्भक्ताच्छस्यते घृतम्।",
         "sandhi": "अ + उ → ओ: विड्विबन्ध + उत्थेषु → विड्विबन्धोत्थेषु। प्राग्भक्तात् + शस्यते → प्राग्भक्ताच्छस्यते।",
         "frame": "मल-रोध से यक्ष्म में: विड्भेदि अन्न-पान · मूत्रज रोगों में: भोजन से पहले घी।",
-        "contrast": "विड्भेदि (मल-रोध वाले में) ↔ मूत्रज (मूत्र वाले में): दो स्थितियाँ, दो उपाय।",
+        "contrast": "विड्विबन्धोत्थेषु (मल-रोध से उत्पन्न रोगों में) ↔ मूत्रजेषु (मूत्र से उत्पन्न रोगों में): पहली स्थिति में विड्भेदि अन्न-पान, दूसरी में भोजन से पहले घी।",
     },
     "9": {
         "chunks": "अवपीडकमेतच्च | संज्ञितं धारणात्पुनः।",
@@ -787,21 +787,21 @@ AIDS = {
             "अरुचि", "कंप", "विबंध", "आध्मान", "कास", "हिध्मा"]}]},
         "chunks": "उद्गारस्यारुचिः कंपो | विबंधो हृदयोरसोः ‖ आध्मानकासहिध्माश्च | हिध्मावत्तत्र भेषजम्।",
         "sandhi": "अ + उ → ओ: हृदय + उरसोः → हृदयोरसोः। उद्गारस्य + अरुचिः → उद्गारस्यारुचिः।",
-        "pegs": "मेरा बनाया चित्र: डकार से सीना कंपता है, अरुचि के बाद अफारा, खाँसी, हिचकी। केवल याद के लिए।",
+        "pegs": "मेरा बनाया चित्र: डकार रुकी, फिर क्रम से अरुचि, कंप, विबंध, अफारा, खाँसी, हिचकी। केवल याद के लिए।",
     },
     "11": {
         "diagram": {"groups": [
             {"label": "छींक रोकने से", "items": ["शिरोर्ति", "इन्द्रियदौर्बल्य", "मन्यास्तंभ", "अर्दित"]},
             {"label": "दूसरी पंक्ति के साधन", "items": ["तीक्ष्णधूम", "अंजन", "आघ्राण", "नावन", "अर्क-विलोकन"]}]},
         "chunks": "शिरोर्तीन्द्रियदौर्बल्य | मन्यास्तंभार्दितं क्षुतेः ‖ तीक्ष्णधूमांजनाघ्राण | नावनार्कविलोकनैः।",
-        "sandhi": "विसर्ग + अ → ओ: शिरः + अर्ति → शिरोर्ति। इ + इ → ई: अर्ति + इन्द्रिय → अर्तीन्द्रिय।",
+        "sandhi": "अः + अ → ओऽ (अ का लोप; छपाई में अवग्रह नहीं): शिरः + अर्ति → शिरोऽर्ति, छपा शिरोर्ति। इ + इ → ई: अर्ति + इन्द्रिय → अर्तीन्द्रिय।",
         "frame": "किसे रोका: क्षुत् · क्या हुआ: चार · किन साधनों से: पाँच (क्रिया अगली इकाई में)।",
     },
     "12": {
         "chunks": "प्रवर्त्तयेत्क्षुतिं सक्तां | स्वेदाभ्यंगौ च शीलयेत् ‖ योज्यं वातघ्नमन्नं च | घृतं चोत्तरभक्तकम्।",
         "sandhi": "अ + अ → आ: स्वेद + अभ्यंगौ → स्वेदाभ्यंगौ। अ + उ → ओ: च + उत्तरभक्तकम् → चोत्तरभक्तकम्।",
         "frame": "पहली पंक्ति: छींक को प्रवृत्त करो, स्वेद-अभ्यंग करो · दूसरी पंक्ति: वातनाशक अन्न, भोजन के बाद घी।",
-        "contrast": "उत्तरभक्त (भोजन के बाद) ↔ प्राग्भक्त (भोजन से पहले, इकाई 8): दोनों शब्द अलग इकाइयों में।",
+        "contrast": "उत्तरभक्त (भोजन के बाद): इसी इकाई में घी भोजन के बाद है; इकाई 8 में भोजन से पहले (प्राग्भक्त) था।",
     },
 }
 
@@ -845,7 +845,7 @@ IMAGE_SPECS = {
     },
     ("11", "diagram"): {
         "file": "ch5b01-kshuti-11.svg",
-        "alt": "Two columns: results of holding back a sneeze (head pain, weakness of senses, neck stiffness, ardita) and the means of line 2 (sharp smoke, collyrium, sniffing, nasal drops, looking at the sun)",
+        "alt": "Two columns: results of holding back a sneeze (head pain, weakness of senses, neck stiffness, ardita) and the means of line 2 (sharp smoke, collyrium, sniffing, nasal drops, looking at arka (read as the sun))",
         "type": "split",
         "title": "श्लोक ११: छींक रोकने पर",
         "cols": [["क्या होता है", ["शिरोर्ति", "इन्द्रियदौर्बल्य", "मन्यास्तंभ", "अर्दित"]],

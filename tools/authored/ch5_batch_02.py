@@ -10,7 +10,7 @@ AUTHORED["13"] = {
              "giddiness and heart ailments. In that case every cooling procedure is beneficial."),
     "limits": ("The verse names the troubles and says every cooling procedure is beneficial; it names no "
                "particular procedure, dose or duration."),
-    "explain_hi": ("यह श्लोक अध्याय का पहला पूरा नमूना है: पहले वेग, फिर उसके रोकने से होने वाली तकलीफ़ें, फिर उपाय। "
+    "explain_hi": ("इस श्लोक में क्रम साफ़ है: पहले वेग, फिर उसके रोकने से होने वाली तकलीफ़ें, फिर उपाय। "
                    "‘तृष्णाया निग्रहात्’ यानी प्यास को रोकने से छह बातें गिनाई गई हैं: शोष, अंगसाद (अंगों की शिथिलता), "
                    "बाधिर्य (बहरापन), संमोह, भ्रम (चक्कर) और हृद्गद (हृदय के रोग)। दूसरी पंक्ति कहती है कि ‘तत्र’ "
                    "(उस स्थिति में) ‘सर्वः शीतः विधिः हितः’ यानी हर शीतल उपाय हितकर है। किस उपाय का नाम है, "
@@ -35,7 +35,7 @@ AUTHORED["13"] = {
               ["शोष", "अंगसाद", "बाधिर्य", "संमोह", "भ्रम", "हृद्गदाः"],
               "The line runs: dryness, limb-weariness, deafness, bewilderment, giddiness, heart ailments.",
               "शोष → अंगसाद → बाधिर्य → संमोह → भ्रम → हृद्गद.", role="extend",
-              teaches="A string of nouns written together with a plural ending (-ाः) and no linking word is a list of separate items, here six troubles."),
+              teaches="A compound that strings together nouns of one kind (a dvandva) names separate items; here शोष, अंगसाद, बाधिर्य, संमोह, भ्रम, हृद्गद are six troubles."),
         mcq("discriminate", 3,
             "One word is wrong in: 'In that case every warming procedure is beneficial.' Which?",
             ("warming", "शीतः means cooling, not warming."),
@@ -93,7 +93,7 @@ AUTHORED["14"] = {
              ("A doer: 'the one who applies'", "A doer would end in -ता or -क, not -ज्यम्."),
              ("A wish: 'may it apply'", "A wish would be an optative verb, like -एत्.")],
             "योज्य comes from √युज् with the -य ending that says 'to be done'; the neuter -म् agrees with भोजनम्.",
-            "A form in -य (योज्य, कार्य) = is to be done.",
+            "A form in -य built from a root (योज्य from √युज्, कार्य from √कृ) = is to be done.",
             teaches="A form in -य built on a root (योज्य from √युज्, कार्य from √कृ) is a gerundive: 'is to be applied / done'."),
         mcq("discriminate", 3,
             "One word is wrong in: 'A light, unctuous, warm and large meal is to be applied.' Which?",
@@ -194,10 +194,10 @@ AUTHORED["16"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "What does the verse say increases when a cough is suppressed?",
-            ("The cough itself", "तद्वृद्धिः: the increase of that (the cough)."),
-            [("Thirst", "Thirst is not named in this verse."),
-             ("Yawning", "Yawning is not named in this verse."),
-             ("Hunger", "Hunger is not named in this verse.")],
+            ("The cough", "तद्वृद्धिः: the increase of that (the cough)."),
+            [("The thirst", "Thirst is not named in this verse."),
+             ("The yawning", "Yawning is not named in this verse."),
+             ("The hunger", "Hunger is not named in this verse.")],
             "तत् refers back to the cough, so तद्वृद्धिः is its (the cough's) increase.",
             "तद्वृद्धिः = its increase."),
         match(1, "Match each word of the verse to its meaning.",
@@ -253,10 +253,10 @@ AUTHORED["17"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does this verse say is held back?",
-            ("The breathing of exertion", "श्रमश्वासात् विधारितात्: when the breathing of exertion is held back."),
-            [("Thirst", "Thirst is not named in this verse."),
-             ("A cough", "A cough is not named in this verse."),
-             ("Tears", "Tears are not named in this verse.")],
+            ("Breath of exertion", "श्रमश्वासात् विधारितात्: when the breathing of exertion is held back."),
+            [("Thirst of the body", "Thirst is not named in this verse."),
+             ("A cough of the chest", "A cough is not named in this verse."),
+             ("Tears of the eyes", "Tears are not named in this verse.")],
             "श्रमश्वास is the breathing that comes from exertion; विधारित means held back.",
             "श्रमश्वासाद् विधारितात् = from the held-back breathing of exertion."),
         match(1, "Match each word of the verse to its meaning.",
@@ -286,13 +286,13 @@ AUTHORED["17"] = {
               "हितं · विश्रमणं · तत्र · वातघ्नः · च · क्रियाक्रमः.", role="apply"),
         mcq("transfer", 5,
             "An invented word ज्वरकासश्वासाः is built like गुल्महृद्रोगसंमोहाः. How is it read?",
-            ("Fever, cough and breathlessness, three separate items", "The plural -ाः list with no linking word names separate items."),
-            [("The fever of the cough and breath", "No 'of' ending links them."),
+            ("Fever, cough and breath, three items", "In a dvandva the nouns stand side by side as separate items."),
+            [("The fever of the cough and breath", "The three parts are items of one list here, not one thing belonging to another."),
              ("A cough that brings fever and breath", "Nothing in the compound says one causes the other."),
              ("One single condition of fever", "गुल्महृद्रोगसंमोहाः lists three items, not one.")],
             "In the verse, गुल्म, हृद्रोग and संमोह are three separate items in one compound.",
-            "Noun + noun + noun with plural -ाः = a list.",
-            teaches="Nouns joined without a linking word and ending in a plural -ाः form a list of separate items: गुल्म + हृद्रोग + संमोह, so ज्वर + कास + श्वास."),
+            "Dvandva: noun + noun + noun = separate items.",
+            teaches="In a dvandva compound the nouns stand side by side as separate items: गुल्म + हृद्रोग + संमोह are three troubles, so ज्वर + कास + श्वास are three troubles."),
     ],
 }
 
@@ -311,7 +311,7 @@ AUTHORED["18"] = {
     "hook": "जम्भाई: छींक-जैसे रोग, वातजित् विधि · अगली पंक्ति से नई सूची।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Ailments like those of what does line 1 name for a yawn?",
+        mcq("pretest", 0, "Line 1 says a yawn brings ailments like those of what?",
             ("Sneezing", "क्षववत् रोगाः: ailments like those of sneezing."),
             [("Thirst", "Thirst is not named in this unit."),
              ("Hunger", "Hunger is not named in this unit."),
@@ -380,9 +380,9 @@ AUTHORED["19"] = {
             "स्वप्न · मद्य · प्रिया कथा."),
         match(1, "Match each word of line 1 to its meaning.",
               [["बाष्पतः", "from (holding back) tears"], ["स्वप्न", "sleep"], ["मद्य", "liquor"],
-               ["प्रियाः कथाः", "pleasing talks"], ["सगुल्माः", "with gulma"]],
+               ["प्रियाः कथाः", "pleasing talks"], ["सगुल्मा", "with gulma"]],
               "Five phrases of line 1.",
-              "बाष्पतः = from tears; स्वप्न = sleep; मद्य = liquor; प्रियाः कथाः = pleasing talks; सगुल्माः = with gulma."),
+              "बाष्पतः = from tears; स्वप्न = sleep; मद्य = liquor; प्रियाः कथाः = pleasing talks; सगुल्मा = with gulma (सगुल्माः, visarga dropped)."),
         mcq("extend", 2, "What is the right split of बाष्पतस्तत्र?",
             ("बाष्पतः + तत्र", "A visarga before त becomes स्: बाष्पतः + तत्र = बाष्पतस्तत्र."),
             [("बाष्पत + तत्र", "That would give बाष्पततत्र or बाष्पतात्र, not स्त."),
@@ -419,23 +419,23 @@ AUTHORED["19"] = {
 AUTHORED["20"] = {
     "title": "सकासश्वासहृल्लास",
     "question": "Which ailments does line 1 list?",
-    "rule": ("Line 1 lists, with cough, breathlessness, nausea, blemishes and swellings, with the word वमेः "
-             "('from vomiting') ending the line."),
+    "rule": ("Line 1 lists: with cough, breathlessness, nausea, blemishes and swellings, from (holding back) vomiting; "
+             "the word वमेः ends the line."),
     "limits": ("Line 2 is damaged in the print (the word after गंडूष-धूम is garbled) and its reading is tentative: "
                "no question is built on it. Whether स- covers only the cough or the whole list is open. "
                "Confidence of the unit is low."),
     "explain_hi": ("इस इकाई की पहली पंक्ति पिछली इकाई की सूची पूरी करती है: कास, श्वास, हृल्लास (मिचली), व्यंग "
-                   "(शरीर पर निशान) और श्वयथु (सूजन), और पंक्ति ‘वमेः’ (वमन के) पर समाप्त होती है। शुरू का "
+                   "(निशान/धब्बा) और श्वयथु (सूजन), और पंक्ति ‘वमेः’ (वमन के) पर समाप्त होती है। शुरू का "
                    "‘स-’ ‘सहित’ का अर्थ देता है; वह केवल कास पर है या पूरी सूची पर, यह छपाई से तय नहीं होता। "
                    "दूसरी पंक्ति का पाठ बिगड़ा हुआ है, इसलिए उस पर कोई प्रश्न नहीं बनाया गया।"),
     "hook": "कास, श्वास, मिचली, व्यंग, सूजन · वमेः · दूसरी पंक्ति अस्पष्ट।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Which word of line 1 names the source of the listed ailments?",
-            ("वमेः, vomiting", "वमेः is the ablative 'from (holding back) vomiting'."),
-            [("कास, a cough", "कास is one of the ailments listed, not the source."),
-             ("श्वयथु, swelling", "श्वयथु is one of the listed ailments."),
-             ("हृल्लास, nausea", "हृल्लास is one of the listed ailments.")],
+        mcq("pretest", 0, "Which word of line 1 names what the ailments follow from?",
+            ("वमेः, holding back vomiting", "वमेः is the ablative 'from (holding back) vomiting'."),
+            [("कास, cough, an ailment listed", "कास is one of the ailments listed, not the source."),
+             ("श्वयथवः, swellings, also listed", "श्वयथवः is one of the listed ailments."),
+             ("हृल्लास, nausea, also listed", "हृल्लास is one of the listed ailments.")],
             "The list ends with वमेः, 'from (holding back) vomiting'; the others are the ailments.",
             "वमेः = from vomiting."),
         match(1, "Match each ailment of line 1 to its meaning.",
@@ -485,7 +485,7 @@ AUTHORED["21"] = {
                "The verse names no amount, no season, and does not say for which urge this is."),
     "explain_hi": ("पहली पंक्ति में ‘अत्र’ (यहाँ) ‘व्यायामः’ और ‘विरेचनम्’ ‘शस्तम्’ यानी उचित कहे गए हैं। बीच का "
                    "शब्द ‘श्रुतिरस्रस्य’ छपाई में संदिग्ध है (संभवतः ‘स्रुतिः’), इसलिए उस पर प्रश्न नहीं हैं। दूसरी "
-                   "पंक्ति में ‘सक्षारलवणं तैलम्’ यानी क्षार और नमक सहित तेल ‘अभ्यंगार्थम्’ (लेप/अभ्यंग के लिए) "
+                   "पंक्ति में ‘सक्षारलवणं तैलम्’ यानी क्षार और नमक सहित तेल ‘अभ्यंगार्थम्’ (अभ्यंग, तेल लगाने, के लिए) "
                    "‘शस्यते’ है। मात्रा या विधि का कोई उल्लेख नहीं है।"),
     "hook": "यहाँ व्यायाम, विरेचन · अभ्यंग के लिए क्षार-नमक वाला तेल।",
     "core": False,
@@ -503,8 +503,8 @@ AUTHORED["21"] = {
               "Five words of the two lines.",
               "व्यायाम = exercise; विरेचन = purgation; क्षार = alkali; लवण = salt; अभ्यंगार्थ = for anointing."),
         mcq("extend", 2, "How do शस्तं and शस्यते differ?",
-            ("शस्तं is a participle 'recommended'; शस्यते is a verb 'is recommended'",
-             "The data gives शस्तं as a participle and शस्यते as a third person singular passive."),
+            ("शस्तं is a participle; शस्यते is a verb",
+             "शस्तं is a participle 'recommended'; शस्यते is a verb 'is recommended' (third person singular passive)."),
             [("शस्तं is plural and शस्यते is singular", "Both are singular."),
              ("शस्तं is a doer and शस्यते is a quality", "Neither names a doer."),
              ("शस्तं is a verb in the future", "शस्तं is a participle, not a future verb.")],
@@ -538,7 +538,7 @@ AUTHORED["21"] = {
 # ---------------------------------------------------------------- unit 22
 AUTHORED["22"] = {
     "title": "गुह्यवेदनाश्वयथुज्वराः",
-    "question": "Which ailments of this list can be named safely?",
+    "question": "Which ailments in this list are clearly legible in the print?",
     "rule": ("The list names, among others, pain of the private part, swelling, fevers, retention of urine, stone "
              "and impotence. The first word is damaged, and no cause is stated in the unit."),
     "limits": ("The first word of line 1 is damaged (the reading is tentative) and the printed हृद्यथा of line 2 is "
@@ -552,9 +552,9 @@ AUTHORED["22"] = {
     "questions": [
         mcq("pretest", 0, "Which pain is named in line 1?",
             ("Pain of the private part", "गुह्यवेदना: pain of the private part."),
-            [("Pain of the eyes", "Not named in this unit."),
-             ("Pain of the throat", "Not named in this unit."),
-             ("Pain of the teeth", "Not named in this unit.")],
+            [("Pain of the eyes and head", "Not named in this unit."),
+             ("Pain of the throat and neck", "Not named in this unit."),
+             ("Pain of the teeth and gums", "Not named in this unit.")],
             "The clear words of line 1 are गुह्यवेदना, श्वयथु and ज्वराः.",
             "गुह्यवेदना = pain of the private part."),
         match(1, "Match each word of the list to its meaning.",
@@ -562,10 +562,10 @@ AUTHORED["22"] = {
                ["अश्म", "stone"], ["षंढता", "impotence"]],
               "Five clear words of the list.",
               "गुह्यवेदना = pain of the private part; श्वयथु = swelling; मूत्रसंग = retention of urine; अश्म = stone; षंढता = impotence."),
-        fill(2, "The word for 'fever' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "The last member of the compound that ends line 1 means \"fever\": ____ (type it in Devanagari or English letters, e.g. dharma).",
              accepts("ज्वर", None, "ज्वराः", "ज्वरः"),
              "ज्वर = fever; the printed word is the plural ज्वराः.",
-             "The last word of line 1 is the name of the ailment fever (ज्वर); the plural ending -ाः shows it is part of a list.",
+             "ज्वर is the last member of the compound गुह्यवेदनाश्वयथुज्वराः; in the word split it is written ज्वराः (plural), so the root word to type is ज्वर.",
              "ज्वर = fever."),
         mcq("discriminate", 3,
             "One word is wrong in this translation: retention of sweat, stone and impotence. Which?",
@@ -622,7 +622,7 @@ AUTHORED["23"] = {
               "सुरा = liquor; शालि = śāli rice; अभ्यंग = anointing; अवगाहन = immersion bath; क्षीर = milk."),
         order(2, "Put the six names of line 1 in the order of the verse.",
               ["ताम्रचूड", "सुरा", "शालि", "बस्ति", "अभ्यंग", "अवगाहनं"],
-              "The line runs: tāmracūḍa, surā, śāli, basti, anointing, immersion bath.",
+              "The line runs: tāmracūḍa, surā, śāli, basti, anointing, immersion bath. Only the position of each name is asked; the meaning of बस्ति is left open.",
               "ताम्रचूड → सुरा → शालि → बस्ति → अभ्यंग → अवगाहन.", role="extend",
               teaches="A long compound of nouns can be a list: read it name by name in verse order, here six names."),
         mcq("discriminate", 3,
@@ -662,11 +662,11 @@ AUTHORED["24"] = {
                    "(छोड़ देना चाहिए) कहकर उस रोगी की पहचान दी है जो तृट्-शूल से पीड़ित, क्षीण, ‘विड्वम’ (मल की उलटी "
                    "करने वाला) और ‘वेगरोधी’ (वेग रोकने वाला) है। यह एक रोगी के चार लक्षण भी हो सकते हैं और चार रोगी भी; "
                    "श्लोक तय नहीं करता। छोड़ने का कारण श्लोक में नहीं दिया गया।"),
-    "hook": "सब रोग: वेग निकालने और रोकने से · चार चिह्न वाले को छोड़ दे।",
+    "hook": "सब रोग: वेग निकालने और रोकने से · चार वर्णनों वाले रोगी को छोड़ दे।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By what does line 2 say all diseases arise?",
-            ("By forcing out and by holding back the urges", "वेगोदीरणधारणैः: both forcing out and holding back."),
+            ("By forcing out and holding back", "वेगोदीरणधारणैः: both forcing out and holding back the urges."),
             [("By holding back the urges only", "उदीरण, forcing out, is named as well."),
              ("By forcing out the urges only", "धारण, holding back, is named as well."),
              ("By neither; they arise from food", "Food is not mentioned in this verse.")],
@@ -702,7 +702,7 @@ AUTHORED["24"] = {
             ("One who speaks the truth", "-इनम् names the one who does it: वेगरोधिनम् = one who holds back urges."),
             [("The truth of a speaker", "There is no 'of' ending."),
              ("A speech without truth", "There is no negation."),
-             ("By speaking the truth", "'By' would be an -ena or -ais ending.")],
+             ("By speaking the truth", "\"By\" would be an ending like -ेन or -ैः.")],
             "रोधिन् is a doer of रोध, holding back; सत्यवादिन् is a doer of speaking truth.",
             "noun + -इन् = one who does/has it.",
             teaches="The ending -इन् (accusative -इनम्) names the one who does the action: वेगरोधिनम् = one who holds back urges, सत्यवादिनम् = one who speaks the truth."),
@@ -764,7 +764,7 @@ AIDS = {
         "frame": "किसे रोका: परिश्रम की साँस · क्या हुआ: गुल्म, हृद्रोग, संमोह · उपाय: विश्राम और वातघ्न क्रम।",
     },
     "18": {
-        "chunks": "जृंभायाः क्षववद्रोगाः | सर्वश्चानिलजिद्विधिः ‖ पीनसाक्षिशिरोहृद्रुङ्मन्या | स्तंभारुचिभ्रमाः।",
+        "chunks": "जृंभायाः क्षववद्रोगाः | सर्वश्चानिलजिद्विधिः ‖ पीनसाक्षिशिरोहृद्रुङ् | मन्यास्तंभारुचिभ्रमाः।",
         "sandhi": "विसर्ग + च → श्च, अ + अ → आ, त् → द्: सर्वः + च + अनिलजित् + विधिः → सर्वश्चानिलजिद्विधिः।",
         "frame": "पहली पंक्ति: जम्भाई · छींक-जैसे रोग · वातजित् विधि। दूसरी पंक्ति: नई सूची, कारण अगली इकाई में।",
         "anchors": "क्षववत् = छींक के जैसे · अनिलजित् = वात को जीतने वाला · मन्यास्तंभ = गर्दन की जकड़न · पीनस = नाक का एक रोग-नाम।",
@@ -779,7 +779,7 @@ AIDS = {
         "chunks": "सकासश्वासहृल्लास | व्यंगश्वयथवो वमेः ‖ (दूसरी पंक्ति बिगड़ी है, अध्ययन में नहीं ली गई)।",
         "sandhi": "अः + व → ओ व: श्वयथवः + वमेः → श्वयथवो वमेः।",
         "anchors": "स- = सहित · हृल्लास = मिचली · व्यंग = निशान · श्वयथु = सूजन · वमि = वमन।",
-        "pegs": "मेरा बनाया क्रम (केवल याद के लिए): खाँसी → साँस → मिचली → निशान → सूजन: ऊपर से नीचे की ओर।",
+        "pegs": "मेरा बनाया क्रम (केवल याद के लिए): खाँसी → साँस → मिचली → निशान → सूजन।",
     },
     "21": {
         "diagram": {"groups": [{"label": "यहाँ उचित", "items": ["व्यायाम", "विरेचन"]},
@@ -789,7 +789,7 @@ AIDS = {
         "anchors": "शस्त = उचित कहा गया (कृदन्त) · शस्यते = उचित कहा जाता है (क्रिया) · क्षार = क्षार (alkali) · लवण = नमक।",
     },
     "22": {
-        "chunks": "(पहला शब्द बिगड़ा) | गुह्यवेदनाश्वयथुज्वराः ‖ (हृद्-व्यथा संदिग्ध) | मूत्रसंग … अश्मषंढताः।",
+        "chunks": "(पहला शब्द बिगड़ा) शुकान्त्रत्रवणं | गुह्यवेदनाश्वयथुज्वराः ‖ हृद्यथामूत्रसंगांग | भंगवृद्ध्यश्मषंढताः। (दूसरी पंक्ति का ‘हृद्यथा’ संदिग्ध छपाई है।)",
         "anchors": "गुह्य = गुप्त अंग · श्वयथु = सूजन · मूत्रसंग = मूत्र का रुकना · अश्म = पथरी · षंढता = नपुंसकता (-ता = भाव)।",
         "frame": "केवल रोगों की सूची; कारण इकाई में नहीं। साफ़ शब्द: गुह्य-पीड़ा, सूजन, ज्वर, मूत्रसंग, अश्म, षंढता।",
     },
@@ -800,7 +800,7 @@ AIDS = {
         "pegs": "मेरा बनाया क्रम (केवल याद के लिए): ता-सु-शा-ब-अ-अ: ताम्र, सुरा, शालि, बस्ति, अभ्यंग, अवगाहन।",
     },
     "24": {
-        "diagram": {"groups": [{"label": "छोड़ दे (चार चिह्न)",
+        "diagram": {"groups": [{"label": "छोड़ दे (चार वर्णन)",
                                 "items": ["तृट्-शूल से पीड़ित", "क्षीण", "विड्वम", "वेगरोधी"]},
                                {"label": "सब रोग उपजते हैं", "items": ["वेगों के उदीरण से", "वेगों के धारण से"]}]},
         "chunks": "तृट्शूलार्त्तं त्यजेत्क्षीणं | विड्वमं वेगरोधिनं ‖ रोगाः सर्वेऽपि जायंते | वेगोदीरणधारणैः।",
@@ -815,8 +815,8 @@ IMAGE_SPECS = {
         "file": "ch5b02-trishna-13.svg",
         "alt": "Mind map: from restraining thirst, six troubles (dryness, limb-weariness, deafness, bewilderment, giddiness, heart ailments), and every cooling procedure is beneficial",
         "type": "mermaid",
-        "code": ('mindmap\n  प्यास रोकने से\n    शोष\n    अंगों की शिथिलता\n    बहरापन\n'
-                 '    संमोह\n    चक्कर\n    हृदय के रोग\n    हर शीतल विधि हितकर\n'),
+        "code": ('mindmap\n  श्लोक १३\n    प्यास रोकने से\n      शोष\n      अंगों की शिथिलता\n      बहरापन\n'
+                 '      संमोह\n      चक्कर\n      हृदय के रोग\n    उसमें\n      हर शीतल विधि हितकर\n'),
     },
     ("14", "diagram"): {
         "file": "ch5b02-kshudha-14.svg",
@@ -852,10 +852,10 @@ IMAGE_SPECS = {
     },
     ("24", "diagram"): {
         "file": "ch5b02-vega-24.svg",
-        "alt": "Two columns: four marks of the patient one should give up; all diseases arise from forcing out and from holding back the urges",
+        "alt": "Two columns: four descriptions of the patient one should give up; all diseases arise from forcing out and from holding back the urges",
         "type": "split",
         "title": "श्लोक २४",
-        "cols": [["छोड़ दे (चार चिह्न)", ["तृट्-शूल से पीड़ित", "क्षीण", "विड्वम", "वेगरोधी"]],
+        "cols": [["छोड़ दे (चार वर्णन)", ["तृट्-शूल से पीड़ित", "क्षीण", "विड्वम", "वेगरोधी"]],
                  ["सब रोग उपजते हैं", ["वेग निकालने से", "वेग रोकने से"]]],
     },
 }
