@@ -43,7 +43,7 @@ AUTHORED["28"] = {
             ("सीदेत् + अति + उदीर्णतया",
              "त् becomes द् before a vowel, and इ + उ gives य् + उ: अत्युदीर्णतया."),
             [("सीदे + दत्यु + दीर्णतया", "These pieces are not words."),
-             ("सीदेः + अत्य + उदीर्णतया", "A visarga before अ would give -ओऽ, not -देद-."),
+             ("सीदेः + अत्य + उदीर्णतया", "A visarga after ए would become र् before a vowel (सीदेर्), not द्; and अत्य is not a word."),
              ("सीदेत् + अतु + उदीर्णतया", "अतु is not the word; the form is अति (excessively).")],
             "सीदेत् (would subside) + अति-उदीर्णतया (through excess of intensity).",
             "त् → द् before a vowel; इ + उ → यु: अति + उदीर्णतया = अत्युदीर्णतया."),
@@ -81,7 +81,7 @@ AUTHORED["29"] = {
     "explain_hi": ("पिछली इकाई का वाक्य यहाँ पूरा होता है: अग्नि का साथी (यहाँ वायु माना गया है) कुपित होता है, क्योंकि वह शीत है, "
                    "और शीत ऋतु में विशेष रूप से। ‘अतः’ (इसलिए) से दूसरी पंक्ति आदेश देती है: शीत ऋतु (हिम) में स्निग्ध "
                    "तथा मधुर, अम्ल और लवण रसों का सेवन करे। तीन रस ही गिनाए गए हैं; मात्रा का कोई उल्लेख नहीं है।"),
-    "hook": "ठंड में वायु कुपित; इसलिए स्निग्ध, मधुर, अम्ल, लवण रस।",
+    "hook": "ठंड में अग्नि-साथी (यहाँ वायु माना गया) कुपित; इसलिए स्निग्ध, मधुर, अम्ल, लवण रस।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -93,7 +93,7 @@ AUTHORED["29"] = {
              ("Only sweet, with nothing else added to it", "Sour and salty are named too.")],
             "भजेत् स्निग्धान् स्वाद्वम्ललवणान् रसान्: one should use unctuous, sweet, sour and salty tastes.",
             "Cold season: स्निग्ध + स्वादु + अम्ल + लवण."),
-        order(1, "Put the qualities of the tastes in the order of the verse.",
+        order(1, "Put these words of line 2 in the order of the verse.",
               ["स्निग्धान्", "स्वादु", "अम्ल", "लवण"],
               "The line runs स्निग्ध, then sweet, sour, salty.",
               "स्निग्ध · स्वादु · अम्ल · लवण."),
@@ -120,7 +120,7 @@ AUTHORED["29"] = {
              ("Cold weather makes everyone hungry early", "Hunger is not mentioned.")],
             "अतः means 'therefore': the use of the tastes follows from the disturbance in cold.",
             "शीते विशेषतः · अतो हिमे भजेत् = especially in cold; therefore, in the cold season, use ..."),
-        mcq("transfer", 5, "Join invented मधु + अम्ल as one word. Which is right?",
+        mcq("transfer", 5, "Join a new example, मधु + अम्ल, as one word. Which is right?",
             ("मध्वम्ल",
              "उ + a different vowel → व् + vowel, as in स्वाद्वम्ल."),
             [("मधुम्ल", "The vowels would not simply drop."),
@@ -139,7 +139,7 @@ AUTHORED["30"] = {
     "rule": ("Four kinds of creatures: burrow-dwellers, water-dwellers, marsh-dwellers, "
              "predators; then flesh, and fresh wines made from jaggery and flour. The verb "
              "'one should use' is in unit 29."),
-    "limits": ("No animal is identified. 'Predators' (प्रसह) is the gloss of the data. "
+    "limits": ("No animal is identified. 'Predators' is the gloss given for प्रसह in the word split. "
                "The print splits 'गुडपिष्टोत्थ मद्यानि'; the two parts are read as one "
                "compound. The unit does not say how much or when. Confidence medium."),
     "explain_hi": ("पिछली इकाई की क्रिया ‘भजेत्’ यहाँ भी चलती है। पहली पंक्ति चार तरह के प्राणियों के नाम देती है: "
@@ -150,12 +150,12 @@ AUTHORED["30"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "What are the wines in this unit like (मद्यानि)?",
-            ("Fresh, made from jaggery and flour",
-             "गुडपिष्टोत्थ = made from jaggery and flour; अभिनव = fresh."),
-            [("Old, made from milk and rice only", "The unit says fresh, and jaggery and flour."),
-             ("Aged, made from grapes and honey now", "Neither aged wine nor grapes appear in the unit."),
-             ("New, made from sugarcane and barley", "Cane and barley are not named here; jaggery and flour are.")],
+            "What does the unit say about the wines (मद्यानि)?",
+            ("Fresh (अभिनव)",
+             "Right: अभिनवानि = fresh."),
+            [("Aged", "Aged is not said; the word is अभिनव, fresh."),
+             ("Diluted", "Dilution is not mentioned."),
+             ("Boiled", "Boiling is not mentioned.")],
             "गुडपिष्टोत्थ मद्यानि अभिनवानि = fresh wines made from jaggery and flour.",
             "मद्य: अभिनव, गुड-पिष्ट से बना."),
         match(1, "Match each kind of creature to its meaning.",
@@ -177,7 +177,7 @@ AUTHORED["30"] = {
              ("मद्याना + अभिनवानि", "The plural of a neuter noun ends in -आनि, not -आना.")],
             "Two neuter plurals joined: wines (मद्यानि), fresh (अभिनवानि).",
             "इ + different vowel → य् + vowel."),
-        multi("apply", 4, "Which two kinds of creatures does the unit name?",
+        multi("apply", 4, "Which two of these are kinds of creatures named in the unit?",
               [("burrow-dwellers (बिलेशय)", "Right: the first of the four."),
                ("predators (प्रसह)", "Right: the last of the four."),
                ("dry-land animals (जांगल)", "These are named in unit 39, not here."),
@@ -225,7 +225,7 @@ AUTHORED["31"] = {
             "Line 2 lists exercise, rubbing, oil-anointing, sweating, smoke, collyrium and sun-exposure.",
             "Line 2: व्यायाम · उद्वर्तन · अभ्यंग · स्वेद · धूम · अंजन · आतप."),
         match(1, "Match each food of line 1 to its meaning.",
-              [["माष", "māṣa (a pulse)"], ["इक्षु", "sugarcane"],
+              [["माष", "a pulse"], ["इक्षु", "sugarcane"],
                ["वसा", "fat"], ["तैल", "oil"]],
               "These are four of the six foods of line 1.",
               "माष = a pulse; इक्षु = sugarcane; वसा = fat; तैल = oil."),
@@ -304,14 +304,14 @@ AUTHORED["32"] = {
              ("सुखु + अदकम्", "सुखु is not the word.")],
             "सुख (agreeable) + उदकम् (water).",
             "अ + उ → ओ."),
-        mcq("apply", 4, "What does the unit say about the water?",
-            ("It is agreeable, for the cleansing rule",
-             "सुखोदक = agreeable water, set in the rule of cleansing."),
-            [("It is warm, for the cleansing rule", "The text says agreeable, not warm."),
-             ("It is cold, for the cleansing rule", "Cold is not stated."),
-             ("It is boiled, for the cleansing rule", "Boiling is not stated.")],
-            "सुख means agreeable or comfortable; no temperature is named.",
-            "सुखोदक = agreeable water."),
+        mcq("apply", 4, "Which word says the bed is furnished with rugs and blankets?",
+            ("कुथकंबलसंस्कृताम्",
+             "Right: कुथ (rugs) + कंबल (blankets) + संस्कृताम् (furnished)."),
+            [("सुखोदकम्", "This is the agreeable water."),
+             ("भूमिगर्भगृहाणि", "These are the houses inside the earth."),
+             ("शौचविधौ", "This is 'in the cleansing rule'.")],
+            "कुथकंबलसंस्कृतां शय्यां: the bed furnished with rugs and blankets.",
+            "कुथ + कंबल + संस्कृताम् = furnished with rugs and blankets."),
         mcq("transfer", 5, "Which phrase means a bed furnished with a blanket (invented)?",
             ("कंबलसंस्कृतां शय्याम्",
              "The adjective agrees with शय्याम्: feminine, singular, accusative (-ाम्)."),
@@ -341,7 +341,7 @@ AUTHORED["33"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "What kind of coverings (लघूष्ण) does the unit name?",
+            "What two qualities does लघूष्णैः name?",
             ("Light and warm",
              "लघु-उष्ण = light and warm."),
             [("Heavy and cold", "The reverse of what the unit says."),
@@ -439,7 +439,7 @@ AUTHORED["34"] = {
              ("Cloud, sun and fog", "Sun and fog are not named.")],
             "मेघमारुतवर्षजम् is a compound ending in -ज, 'born of'.",
             "मेघ + मारुत + वर्ष + ज = born of cloud, wind and rain."),
-        mcq("transfer", 5, "Like मेघजम् 'born of cloud', what does invented अग्निजम् mean?",
+        mcq("transfer", 5, "Like -जम् in वर्षजम् (rain-born), what does a new compound अग्निजम् mean?",
             ("Born of fire",
              "A compound ending in -ज means 'born of' the first part."),
             [("Fond of fire", "-ज does not mean fond."),
@@ -558,7 +558,7 @@ AUTHORED["36"] = {
              ("चूत + आ + दिवन + राजि", "दिवन is not a word.")],
             "चूत (mango) + आदि (and the like) + वन (forest) + राजि (line).",
             "अ + आ → आ."),
-        multi("apply", 4, "Which trees does line 2 name?",
+        multi("apply", 4, "Which trees does line 2 name (reading printed 'किंशुका शोक' as किंशुक + अशोक)?",
               [("kiṃśuka", "Right: the first name."),
                ("aśoka", "Right: the second name (printed 'शोक')."),
                ("mango (cūta)", "Right: the third name."),
@@ -583,9 +583,9 @@ AUTHORED["36"] = {
 AUTHORED["37"] = {
     "title": "कोकिलालिकुलालाप",
     "question": "What accumulated in Śiśira, and what stirred it up?",
-    "rule": ("The directions are filled with the sweet clamour of cuckoo and bee flocks; "
-             "the śleṣman (Kapha) accumulated in Śiśira is stirred up by the sun's rays. "
-             "The sentence goes on in unit 38."),
+    "rule": ("The long compound of line 1 ('filled with the sweet clamour of cuckoo and bee flocks'), "
+             "taken with the 'directions' of unit 36; the śleṣman (Kapha) accumulated in Śiśira "
+             "is stirred up by the sun's rays. The sentence goes on in unit 38."),
     "limits": ("The long compound of line 1 goes with the description in unit 36 (feminine "
                "plural). The second sentence ends in unit 38: here it only says what is "
                "accumulated and what stirs it. 'दिनकृत्' (day-maker) is the sun."),
@@ -625,7 +625,7 @@ AUTHORED["37"] = {
             "त् → द् before a voiced sound; visarga after इ + vowel → र्."),
         mcq("apply", 4, "What does the unit say stirs up the accumulated śleṣman?",
             ("The sun's rays",
-             "दिनकृद्भाभिः īritaḥ: stirred up by the rays of the sun."),
+             "Right: दिनकृद्भाभिः ईरितः: stirred up by the rays of the sun."),
             [("The southern wind", "The wind of spring is in unit 35, not tied to this."),
              ("The cold rain", "Rain is in unit 34, not tied to this."),
              ("The calls of the cuckoos", "These fill the directions in line 1.")],
@@ -637,7 +637,7 @@ AUTHORED["37"] = {
             [("Seller of vessels", "Selling would be -विक्रयिन्."),
              ("Born of vessels", "Born of would be -ज."),
              ("Eater from vessels", "Eating would be -भुज् or -अद्.")],
-            "दिनकृत् = day-maker = the sun, in the data.",
+            "दिनकृत् = day-maker = the sun, as this unit's word split glosses it.",
             "X-कृत् = maker of X.",
             teaches="A compound ending in -कृत् means the maker of what comes before (दिनकृत् = day-maker = the sun)."),
     ],
@@ -812,12 +812,12 @@ AUTHORED["40"] = {
              "उ + a different vowel → व् + vowel: सु + अलंकृतः = स्वलंकृतः."),
             [("स्व + अलंकृतः", "That would give स्वालंकृतः, with a long आ."),
              ("स्व + लंकृतः", "लंकृतः is not a word."),
-             ("सो + अलंकृतः", "ओ does not turn into व् here.")],
+             ("सो + अलंकृतः", "सो + अलंकृतः would give सोऽलंकृतः, not स्वलंकृतः.")],
             "सु (well) + अलंकृतः (adorned).",
             "उ + different vowel → व् + vowel."),
         mcq("apply", 4, "The words विन्यस्तान् and अंकितान् end in -आन्. What does this show?",
-            ("They describe a plural noun not named in this unit",
-             "-आन् is masculine accusative plural; the person is nominative singular."),
+            ("They qualify a plural noun elsewhere",
+             "Right: -आन् is masculine accusative plural; the noun is in the next unit."),
             [("They describe the bathed person", "The person is nominative singular (-ः)."),
              ("They are verbs saying what is done", "They are participles, not verbs."),
              ("They name the garland of line 1", "The garland is named by स्रग्वी in line 1.")],
@@ -843,7 +843,7 @@ NOTES_HI = {
     "32": "विश्वास: मध्यम। ‘सांगारयानां’ अनिश्चित है: ‘स-अंगार’ (अंगारों सहित) पक्का है, पर ‘-यानाम्’ यहाँ नहीं बैठता (संभवतः भ्रष्ट पाठ; पुस्तक का हिन्दी ‘अग्नि-पात्र’); कोई प्रश्न इस पर नहीं। ‘भूमिगर्भ गृहाणि’ एक समास है जो स्थान से टूटा है। ‘सुखोदक’ = सुखद जल; ‘गर्म’ नहीं लिखा। संधि जाँची: सुखोदकं = सुख + उदकम् (अ + उ → ओ)।",
     "33": "विश्वास: मध्यम। ‘गुरुणा’ के साथ संज्ञा नहीं है (संभवतः भारी अगरु); ‘लघूष्णैः’ के साथ भी संज्ञा नहीं, ‘आवरण’ प्रावृतः से जोड़ा गया। ‘काले’ = उचित समय या ऋतु, दोनों संभव। संधि जाँची: कुंकुमेनानुदिग्धांगोऽगुरुणा = कुंकुमेन + अनुदिग्ध + अंगः + अगुरुणा (अ + अ → आ; अः + अ → ओऽ); लघूष्णैः = लघु + उष्णैः (उ + उ → ऊ); धूपाधिवासितः = धूप + अधिवासितः।",
     "34": "विश्वास: उच्च। पंक्ति १ एक बहुव्रीहि विशेषण है (‘जिसने … शीतल वायु को दूर कर दिया’), बीच में स्थान से टूटा है (डेटा का सुझाव: एक समास)। इसकी क्रिया पिछली पंक्तियों में है। ‘पीन’ = पुष्ट। संधि जाँची: शिशिरेशीतमधिकं = शिशिरे + शीतम् + अधिकम्; पीनांगनांगसंसर्ग = पीन + अंगना + अंग + संसर्ग (अ + अ → आ); निवारितहिमानिलः = निवारित + हिम + अनिलः।",
-    "35": "विश्वास: उच्च। ‘आदान’ (शाब्दिक: ग्रहण) को शब्द के रूप में रखा गया है। ‘अधिकम्’ को ‘कार्यः’ से या ‘विधिः’ से जोड़ा जा सकता है; इस पर प्रश्न नहीं। वसंत का वर्णन बिना क्रिया के है (प्रथमा)। वाक्य अगली इकाई में चलता है। संधि जाँची: चादानजं = च + आदानजम् (अ + आ → आ); तस्मात्कार्यः = तस्मात् + कार्यः; पूर्वोऽधिकंविधिः = पूर्वः + अधिकम् + विधिः; वायुरातांम्र… = वायुः + आताम्र (उः + आ → उर्)।",
+    "35": "विश्वास: उच्च। ‘आदान’ (शाब्दिक: ग्रहण) को शब्द के रूप में रखा गया है। ‘अधिकम्’ को ‘कार्यः’ से या ‘विधिः’ से जोड़ा जा सकता है; इस पर प्रश्न नहीं। वसंत का वर्णन बिना क्रिया के है (प्रथमा)। वाक्य अगली इकाई में चलता है। संधि जाँची: चादानजं = च + आदानजम् (अ + आ → आ); तस्मात्कार्यः = तस्मात् + कार्यः; पूर्वोऽधिकंविधिः = पूर्वः + अधिकम् + विधिः; वायुराताम्र… = वायुः + आताम्र (उः + आ → उर्)।",
     "36": "विश्वास: मध्यम। ‘ककुभः अमलाः’ में ‘ककुभः’ स्त्रीलिंग ‘दिशाएँ’ लिया गया है (‘अमलाः’ और ‘विराजिताः’ के साथ मेल); पुस्तक इसे वृक्ष-नाम ‘ककुभ’ मानती है। इसलिए इस पर और ‘विराजिताः’ के अन्वय पर प्रश्न नहीं बना। छपे ‘किंशुका शोक’ में अशोक का आदि ‘अ’ गिरा है और ‘विराजि ताः’ एक शब्द ‘विराजिताः’ है (दोनों टूटे हुए)। पौधों के नाम केवल नाम हैं। संधि जाँची: चूतादिवनराजि = चूत + आदि + वन + राजि।",
     "37": "विश्वास: उच्च। पंक्ति १ का समास (कोकिल-अलि-कुल-आलाप-कल-कोलाहल-आकुलाः) पिछली इकाई के वर्णन से जुड़ा है; वाक्य पूरा पिछली इकाई में है। दूसरी पंक्ति का वाक्य अगली इकाई में पूरा होता है। ‘दिनकृत्’ = दिन करने वाला = सूर्य। संधि जाँची: दिनकृद्भाभिरीरितः = दिनकृत् + भाभिः + ईरितः (त् → द्; इः + ई → र्); कोकिलालिकुल… = कोकिल + अलि (अ + अ → आ)।",
     "38": "विश्वास: उच्च। कर्ता (श्लेष्मा) पिछली इकाई में है; क्रिया ‘सेवेत’ अगली इकाई में। ‘अस्मिन्’ = इस (ऋतु) में, ‘ऋतु’ ऊपर से जोड़ा। ‘तीक्ष्ण’ केवल वमन का विशेषण है या सबका, स्पष्ट नहीं। संधि जाँची: प्रबाधमानोऽग्निं = प्रबाधमानः + अग्निम्; अतोऽस्मिंस्तीक्ष्ण… = अतः + अस्मिन् + तीक्ष्ण (अः + अ → ओऽ; न् + त → ंस्त); रोगान्प्रकुरुते = रोगान् + प्रकुरुते।",
@@ -853,14 +853,14 @@ NOTES_HI = {
 
 AIDS = {
     "28": {
-        "chain": {"steps": ["ईंधन के बिना वह शांत हो जाती है", "या अत्यधिक प्रबल होकर धातुओं को भी पचाती है",
+        "chain": {"steps": ["(एक विकल्प) ईंधन के बिना वह शांत हो जाती है", "(दूसरा विकल्प) अत्यधिक प्रबल होकर वह धातुओं को भी पचाती है",
                             "तब उन धातुओं के क्षय से मरुत् (वायु) …"]},
-        "chunks": "अनिंधनोऽन्यथा सीदेत् | अत्युदीर्णतयाऽथवा ‖ धातूनपि पचेदस्य | ततस्तेषां क्षयान्मरुत्।",
+        "chunks": "अनिंधनोऽन्यथा | सीदेदत्युदीर्णतयाऽथवा ‖ धातूनपि पचेदस्य | ततस्तेषां क्षयान्मरुत्।",
         "sandhi": "त् → द् स्वर से पहले: सीदेत् + अति → सीदेदति; इ + उ → यु: अति + उदीर्णतया → अत्युदीर्णतया; क्षयात् + मरुत् → क्षयान्मरुत्।",
         "frame": "क्या: अग्नि (पिछली पंक्तियों से) · बिना ईंधन: शांत · अथवा प्रबल: धातु पचे · तब: धातु-क्षय से मरुत् (…)।",
     },
     "29": {
-        "chunks": "तेजःसहचरः कुप्येत् | शीतः शीते विशेषतः ‖ अतो हिमे भजेत् | स्निग्धान् स्वाद्वम्ललवणान् रसान्।",
+        "chunks": "तेजःसहचरः कुप्येच्छीतः | शीते विशेषतः ‖ अतो हिमे भजेत् | स्निग्धान् स्वाद्वम्ललवणान् रसान्।",
         "sandhi": "उ + भिन्न स्वर → व्: स्वादु + अम्ल → स्वाद्वम्ल; त् + श → च्छ: कुप्येत् + शीतः → कुप्येच्छीतः।",
         "frame": "क्यों: शीत ऋतु में ठंड से कोप · इसलिए (अतः): हिम में · क्या: स्निग्ध + स्वादु + अम्ल + लवण रस।",
         "anchors": "शीत = ठंड · हिम = शीत ऋतु · स्निग्ध = चिकना · स्वादु = मधुर · अम्ल = खट्टा · लवण = नमकीन।",
@@ -903,7 +903,7 @@ AIDS = {
         "anchors": "रौक्ष्य = रूखापन · पूर्व = पहले की · विधि = नियम · आताम्र = ताँबे-सा लाल · किरण = किरण।",
     },
     "36": {
-        "diagram": {"groups": [{"label": "वृक्षों में", "items": ["नव", "प्रबाल", "त्वक्", "पत्र"]},
+        "diagram": {"groups": [{"label": "वृक्षों में", "items": ["नव प्रबाल", "त्वक्", "पत्र"]},
                                {"label": "वनों की पंक्तियों में", "items": ["किंशुक", "अशोक", "चूत", "आदि"]}]},
         "chunks": "नवप्रबालत्वक्पत्राः पादपाः ककुभोऽमलाः ‖ किंशुकाशोकचूतादिवनराजिविराजिताः।",
         "sandhi": "अ + आ → आ: चूत + आदि → चूतादि।",
@@ -917,14 +917,14 @@ AIDS = {
     },
     "38": {
         "diagram": {"groups": [{"label": "कारण", "items": ["प्रबाधमानः", "अग्निम्", "रोगान् बहून्"]},
-                               {"label": "अतः (उपाय)", "items": ["तीक्ष्णवमन", "धूम", "गंडूष", "नावन"]}]},
-        "chunks": "तदा प्रबाधमानोऽग्निं | रोगान् प्रकुरुते बहून् ‖ अतोऽस्मिन् तीक्ष्णवमन- | धूमगंडूषनावनं।",
+                               {"label": "अतः (प्रयोग)", "items": ["तीक्ष्णवमन", "धूम", "गंडूष", "नावन"]}]},
+        "chunks": "तदा प्रबाधमानोऽग्निं | रोगान् प्रकुरुते बहून् ‖ अतोऽस्मिंस्तीक्ष्णवमन- | धूमगंडूषनावनं।",
         "sandhi": "अः + अ → ओऽ: प्रबाधमानः + अग्निम् → प्रबाधमानोऽग्निम्; अतः + अस्मिन् → अतोऽस्मिन्।",
-        "frame": "कारण: अग्नि बाधित, बहुत रोग · इसलिए: इस ऋतु में चार उपाय · क्रिया अगली इकाई में।",
+        "frame": "कारण: अग्नि बाधित, बहुत रोग · इसलिए: इस ऋतु में चार प्रयोग · क्रिया अगली इकाई में।",
     },
     "39": {
         "chunks": "व्यायामोद्वर्तनक्षौद्र | यवगोधूमजांगलान् ‖ सेवेत सुहृदुद्यान- | युवतीश्च मनोरमाः।",
-        "sandhi": "अ + उ → ओ: व्यायाम + उद्वर्तन → व्यायामोद्वर्तन; विसर्ग + च → श्च: युवतीः + च → युवतीश्च।",
+        "sandhi": "अ + उ → ओ: व्यायाम + उद्वर्तन → व्यायामोद्वर्तन; विसर्ग + च → श्च: युवतीः + च → युवतीश्च; द् + स्वर: सुहृद् + उद्यान → सुहृदुद्यान (द् अगले स्वर से जुड़ता है)।",
         "frame": "क्रिया: सेवेत · पंक्ति १: व्यायाम, उद्वर्तन, शहद, जौ, गेहूँ, जांगल · पंक्ति २: मित्र, उद्यान, मनोहर युवतियाँ।",
         "contrast": "इकाई ३१ ↔ ३९: व्यायाम और उद्वर्तन दोनों में, पर बाकी सूची अलग (३१: अभ्यंग, स्वेद… ; ३९: शहद, जौ, गेहूँ…)।",
     },
@@ -940,10 +940,10 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "chain"): {
         "file": "ch4b03-agni-dhatu-28.svg",
-        "alt": "Chain of three steps: the fire digests even the dhatus, then their depletion, then from depletion the wind",
+        "alt": "Chain of three steps, the second alternative only: through excessive intensity the fire digests even the dhatus; then their depletion; then from depletion the wind",
         "type": "chain",
-        "title": "श्लोक २८: धातु-क्षय के बाद",
-        "steps": ["धातुओं को भी पचाती है", "तब उन धातुओं का क्षय", "क्षय से मरुत् (वायु) …"],
+        "title": "श्लोक २८: दूसरा विकल्प (अथवा)",
+        "steps": ["अत्यधिक प्रबल होकर धातुओं को भी पचाती है", "तब उन धातुओं का क्षय", "क्षय से मरुत् (वायु) …"],
     },
     ("30", "diagram"): {
         "file": "ch4b03-creatures-30.svg",
@@ -964,7 +964,7 @@ IMAGE_SPECS = {
         "file": "ch4b03-trees-36.svg",
         "alt": "Mind map: trees have fresh sprouts, bark and leaves; lines of forests of kimshuka, ashoka, mango and the like",
         "type": "mermaid",
-        "code": ('mindmap\n  वन का वर्णन\n    वृक्षों में\n      नई कोंपलें\n      छाल\n      पत्ते\n'
+        "code": ('mindmap\n  श्लोक ३६\n    वृक्षों में\n      नई कोंपलें\n      छाल\n      पत्ते\n'
                  '    वनों की पंक्तियाँ\n      किंशुक\n      अशोक\n      आम\n      आदि\n'),
     },
     ("38", "diagram"): {
@@ -972,7 +972,7 @@ IMAGE_SPECS = {
         "alt": "Flowchart: hindering the fire, it produces many diseases; therefore four measures: sharp emesis, smoke, gargling, nasal instillation",
         "type": "mermaid",
         "code": ('flowchart TD\n  A["अग्नि को बाधित करता है"] --> B["बहुत रोग उत्पन्न करता है"]\n'
-                 '  B --> C["अतः इस ऋतु में"]\n  C --> D["तीक्ष्ण वमन"]\n  C --> E["धूम"]\n'
+                 '  B --> C["अतः इस ऋतु में"]\n  C --> D["तीक्ष्णवमन"]\n  C --> E["धूम"]\n'
                  '  C --> F["गंडूष"]\n  C --> G["नावन"]\n'),
     },
     ("40", "diagram"): {
