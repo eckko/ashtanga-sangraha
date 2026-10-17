@@ -1,0 +1,230 @@
+[
+ {
+  "n": "79",
+  "field": "notes",
+  "old": "Elliptical: no verb in this unit (the governing verb stands outside this chunk); none supplied. 'saṃbhavam' is singular neuter while 'tailasarpiṣī' is dual, so the agreement is loose; the Sanskrit does not say whether the oil and ghee come from the eggs or are prepared with them, so the literal 'arising from' is kept. 'śikhin' is taken as peacock (it can also mean other crested things). 'haṃsa' = swan or goose (waterbird).",
+  "new": "Elliptical: no verb in this unit (the governing verb is not in this unit; it may lie in the unit before or in unit 84, 'dadyāt'; the sentence may run across units 79-84); none supplied. 'saṃbhavam' is singular neuter while 'tailasarpiṣī' is dual, so the agreement is loose; the Sanskrit does not say whether the oil and ghee come from the eggs or are prepared with them, so the literal 'arising from' is kept. 'śikhin' is taken as peacock (it can also mean other crested things). 'haṃsa' = swan or goose (waterbird).",
+  "why": "reviewer (minor): Unverified claim; unit 84 has dadyāt and units 79-83 may run into it (sentence across units, no pairing claimed)."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "और जो ब्रह्म, भेरी और मृदंग की ध्वनियों से तैयार किया गया हो।",
+  "new": "और जो ब्रह्म, भेरी यानी नगाड़े और मृदंग की ध्वनियों से तैयार किया गया हो।",
+  "why": "reviewer (minor): Drum names unexplained in Hindi (policy: modern names beside the term)."
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "pūjayitvā",
+  "old": "abs. caus. √pūj",
+  "new": "abs. √pūj",
+  "why": "reviewer (minor): pūj (pūjayati) is a 10th-class/denominative verb, not a causative."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "उससे अत्यधिक वृषता पाकर वह सौ स्त्रियों को थका दे।",
+  "new": "उससे अत्यधिक वृषता यानी पौरुष पाकर वह सौ स्त्रियों को थका दे।",
+  "why": "reviewer (minor): Bare Sanskrit word; English has 'virility'."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "वह झुर्रियों और सफेद बालों से रहित, कान्त और चिरंजीवी हो जाएगा।",
+  "new": "वह झुर्रियों और सफेद बालों से रहित, सुन्दर और चिरंजीवी हो जाएगा।",
+  "why": "reviewer (minor): Archaic/unclear in Hindi; English is 'handsome'."
+ },
+ {
+  "n": "87",
+  "field": "hindi",
+  "old": "जिनका शुक्र नष्ट हो गया है, जो क्षत हैं, क्षीण हैं और विषमज्वर वाले हैं, उनके लिए हितकर।",
+  "new": "जिनका शुक्र नष्ट हो गया है, जो क्षत हैं, क्षीण हैं और विषमज्वर यानी अनियमित बुखार वाले हैं, उनके लिए हितकर।",
+  "why": "reviewer (minor): Modern equivalent only in English notes; viṣamajvara = irregular/intermittent fever is the standard sense."
+ },
+ {
+  "n": "91",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "saparīhārā",
+    "suggest": "saparihārāḥ",
+    "why": "possible: long ī in 'parī-' is not the usual spelling of parihāra; sense unaffected"
+   }
+  ],
+  "why": "reviewer (minor): Long ī in 'parī-' is printed in both scripts; usual spelling is parihāra. Unflagged silent keeping of a likely misprint."
+ },
+ {
+  "n": "93",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "guḍūcyaiṃraṃḍabhūtīkabhārgīvṛṣakaśeriṣaṃ",
+    "suggest": "guḍūcyairaṇḍa… / …śirīṣaṃ",
+    "why": "possible: the extra anusvāra in 'ṃraṃḍa' looks like a slip (guḍūcy-airaṇḍa or guḍūcy-eraṇḍa); 'śeriṣa' is not a known plant name and 'śirīṣa' fits"
+   }
+  ],
+  "new": [
+   {
+    "src": "guḍūcyaiṃraṃḍabhūtīkabhārgīvṛṣakaśeriṣaṃ",
+    "suggest": "guḍūcyairaṇḍabhūtīkabhārgīvṛṣakaśirīṣaṃ",
+    "why": "possible: (1) extra anusvāra in 'yaiṃraṃḍa' read as guḍūcy-airaṇḍa (airaṇḍa 'of castor'; guḍūcī+eraṇḍa would give -yeraṇḍa, not -yairaṇḍa); (2) 'śeriṣa' is not a known drug name, 'śirīṣa' fits (kept as 'possible'; śairīṣa is another conceivable base)"
+   }
+  ],
+  "why": "reviewer (minor): One combined flag with an unusable 'suggest' (ellipsis). Two separate conjectures: extra anusvāra (airaṇḍa; note 'yai' needs airaṇḍa, not eraṇḍa) and śeriṣa->śirīṣa. src is the whole printed token."
+ },
+ {
+  "n": "94",
+  "field": "word.gram",
+  "word": "pala-aṃśikam",
+  "old": "bahuvrīhi, m. acc. sg.",
+  "new": "bahuvrīhi, acc. sg.",
+  "why": "reviewer (minor): Gender 'm.' given for an unstated noun (glossary: no gender for unstated nouns)."
+ },
+ {
+  "n": "95",
+  "field": "notes",
+  "old": "Dvandva of five items, accusative plural. Identifications: yava = barley (standard); māṣa = Vigna mungo (standard); atasī = Linum usitatissimum (standard); kola = Ziziphus jujuba, the jujube berry (probable; kola is also a name of other things); kulattha = Macrotyloma uniflorum (standard). 'prasṛta' is a measure, the amount held in a cupped palm; 'each' is not in the Sanskrit.",
+  "new": "Dvandva of five items, accusative plural. Identifications: yava = barley (standard); māṣa = Vigna mungo (standard); atasī = Linum usitatissimum (standard); kola = Ziziphus jujuba, the jujube berry (probable; kola is also a name of other things); kulattha = Macrotyloma uniflorum (standard). 'prasṛta' is a measure, the amount held in a cupped palm; 'each' is not in the Sanskrit. The accusatives of units 92-95 lack a verb here; they are most probably the objects of 'vipācya' in unit 96 (sentence running across units; no verse pairing claimed).",
+  "why": "reviewer (minor): The accusative lists of 92-95 have no verb of their own; their verb is most probably vipācya in unit 96 (boiled in a vaha of water). Not noted."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "वह नामक माप के जल में पकाकर, एक द्रोण शेष रहने पर, और उससे भी।",
+  "new": "वह नामक माप के जल में पकाकर, एक द्रोण शेष रहने पर, और उससे।",
+  "why": "reviewer (minor): 'भी' is not in the Sanskrit (tena ca = 'and with that')."
+ },
+ {
+  "n": "96",
+  "field": "notes",
+  "old": "Doubtful sense of 'vahe': taken as the measure vaha ('a vaha of water'), with the genitive 'toyasya'. The size of the vaha and droṇa is not worked out here. 'droṇaśeṣeṇa' = 'with a droṇa as remainder', i.e. boiled down until a droṇa is left. 'tena' (with that) refers to the resulting liquid, continued in the next unit; the object being boiled is not stated.",
+  "new": "Doubtful sense of 'vahe': taken as the measure vaha ('a vaha of water'), with the genitive 'toyasya'. The size of the vaha and droṇa is not worked out here. 'droṇaśeṣeṇa' = 'with a droṇa as remainder', i.e. boiled down until a droṇa is left. 'tena' (with that) refers to the resulting liquid, continued in the next unit; the object being boiled is not stated. The object of 'vipācya' is most probably the drug list of units 92-95 (not stated here).",
+  "why": "reviewer (minor): Object of 'vipācya' stated as unknown; most probably the drugs listed in 92-95."
+ },
+ {
+  "n": "98",
+  "field": "word.gloss",
+  "word": "sarva-vāta-vikāra-nud",
+  "old": "all; Vāta; disorder; dispelling (final d written t)",
+  "new": "all; Vāta; disorder; dispelling (-nud, regular final -t)",
+  "why": "reviewer (minor): 'final d written t' is wrong: -nut is the regular pausal form of nud (√nud) in every print, not a printing devoicing."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "Name given in the line: 'anuvāsana'. 'anuvāsana' is the oil enema retained for a time (standard). The stem of the last member is -nud, shown as -nut by the final devoicing in print.",
+  "new": "Name given in the line: 'anuvāsana'. 'anuvāsana' is the oil enema retained for a time (standard). The stem of the last member is -nud, -nut is its regular form at the end of the word.",
+  "why": "reviewer (minor): Same wrong explanation."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "अनूप जीवों की वसा, उसी प्रकार जीवनीयों से तैयार की गई।",
+  "new": "अनूपों की वसा, उसी प्रकार जीवनीयों से तैयार की गई।",
+  "why": "reviewer (minor): 'जीवों' supplies a noun the Sanskrit lacks (English uses '(ones)')."
+ },
+ {
+  "n": "99",
+  "field": "word.gram",
+  "word": "ānūpānām",
+  "old": "m. gen. pl.",
+  "new": "gen. pl.",
+  "why": "reviewer (minor): Gender 'm.' for an unstated noun."
+ },
+ {
+  "n": "100",
+  "field": "word.gram",
+  "word": "amlaiḥ",
+  "old": "m./n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): 'm./n.' for unstated nouns."
+ },
+ {
+  "n": "102",
+  "field": "english",
+  "old": "Jīvantī, madana (emetic nut), medā, śrāvaṇī (probably Sphaeranthus indicus), madhuka (probably liquorice) and balā (Sida cordifolia),",
+  "new": "Jīvantī (Leptadenia reticulata), madana (emetic nut), medā, śrāvaṇī (probably Sphaeranthus indicus), madhuka (probably liquorice) and balā (Sida cordifolia),",
+  "why": "reviewer (minor): Standard identification is in the gloss but not beside the term in the translation."
+ },
+ {
+  "n": "102",
+  "field": "hindi",
+  "old": "जीवन्ती, मदन यानी मैनफल, मेदा, श्रावणी यानी सम्भवतः गोरखमुण्डी, मधुक यानी सम्भवतः मुलेठी और बला यानी बरियार।",
+  "new": "जीवन्ती यानी डोडी, मदन यानी मैनफल, मेदा, श्रावणी यानी सम्भवतः गोरखमुण्डी, मधुक यानी सम्भवतः मुलेठी और बला यानी बरियार।",
+  "why": "reviewer (minor): No modern Hindi name given."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "रज और शुक्र के रोगों को दूर करने वाला, और पुत्रीय अनुवासन।",
+  "new": "रज और शुक्र के रोगों को दूर करने वाला, और पुत्रीय यानी पुत्र से सम्बन्धित अनुवासन।",
+  "why": "reviewer (minor): Unexplained Sanskrit word in Hindi."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "तेल को चौथाई भाग रखकर पकाया गया घी, पित्त का नाश करने वाला अनुवासन।",
+  "new": "जिसमें तेल चौथाई है, ऐसा पकाया गया घी, पित्त का नाश करने वाला अनुवासन।",
+  "why": "reviewer (minor): 'रखकर' reads as an action not in the Sanskrit (bahuvrīhi 'having oil as quarter')."
+ },
+ {
+  "n": "111",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "hrīberaṃ",
+    "suggest": "hrīveram",
+    "why": "orthographic: ba for va (hrībera is an attested variant spelling); read as hrīvera"
+   }
+  ],
+  "why": "reviewer (minor): Silent emendation ba->va in w without a flag (hrībera is an attested variant spelling)."
+ },
+ {
+  "n": "114",
+  "field": "hindi",
+  "old": "बिल्व और अजमोदा यानी सम्भवतः अजमोद, चपला, दन्ती यानी जंगली जमालगोटा और रास्ना, उन समान भागों वालों के साथ।",
+  "new": "बिल्व और अजमोदा यानी सम्भवतः अजमोद, चपला, दन्ती यानी जंगली जमालगोटा और रास्ना, उन समानों के साथ।",
+  "why": "reviewer (error): 'भागों' (parts) is added; the Sanskrit says only taiḥ samaiḥ (with those, equal ones); the draft's own note admits 'parts' is not in the text."
+ },
+ {
+  "n": "114",
+  "field": "word.gram",
+  "word": "taiḥ",
+  "old": "m. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Gender 'm.' for unstated nouns."
+ },
+ {
+  "n": "114",
+  "field": "word.gram",
+  "word": "samaiḥ",
+  "old": "m. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Gender 'm.' for unstated nouns."
+ },
+ {
+  "n": "115",
+  "field": "word.gloss",
+  "word": "kapha-roga-nud",
+  "old": "Kapha; disease; removing (final d written t)",
+  "new": "Kapha; disease; removing (-nud, regular final -t)",
+  "why": "reviewer (minor): 'final d written t' wrong; -nut is regular."
+ },
+ {
+  "n": "116",
+  "field": "english",
+  "old": "Vardhma, udāvarta, gulma, arśas (haemorrhoids), plīha and meha (urinary disorders), together with wind (māruta),",
+  "new": "Vardhma (probably enlargement of the scrotum, hernia or hydrocele), udāvarta (reversed movement of wind), gulma (abdominal lump), arśas (haemorrhoids), plīha (spleen disorder) and meha (urinary disorders), together with wind (māruta),",
+  "why": "reviewer (minor): Identifications only in notes; policy wants them beside the term in the translation; vardhma is only 'probable' so hedged."
+ },
+ {
+  "n": "116",
+  "field": "hindi",
+  "old": "वर्ध्म यानी अण्डवृद्धि, उदावर्त, गुल्म यानी पेट की गाँठ, अर्श यानी बवासीर, प्लीहा यानी तिल्ली का रोग और मेह यानी मूत्र के रोग, वात सहित।",
+  "new": "वर्ध्म यानी सम्भवतः अण्डवृद्धि, उदावर्त यानी वायु का उलटी दिशा में जाना, गुल्म यानी पेट की गाँठ, अर्श यानी बवासीर, प्लीहा यानी तिल्ली का रोग और मेह यानी मूत्र के रोग, वात सहित।",
+  "why": "reviewer (minor): vardhma stated as certain; udāvarta unglossed."
+ }
+]

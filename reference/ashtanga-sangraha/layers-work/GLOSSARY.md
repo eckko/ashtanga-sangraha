@@ -9,7 +9,7 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 # Glossary: fixed renderings (from the independent review of p05-c01-k1; extended by reviewers, not drafters)
 
 - English: capitalise Kapha, Pitta, Vāta; keep lowercase inside compounds (raktapitta).
-- Hindi: no plant common names. Keep the Sanskrit name in Devanagari (निम्ब, हरिद्रा); use यक्ष्मन् (not यक्ष्मा, which means tuberculosis today).
+- (VOID, superseded by the owner policy at the top) Hindi: no plant common names ...; now Hindi writes "Sanskrit name यानी ordinary Hindi name", e.g. निम्ब यानी नीम, यक्ष्मन् यानी क्षय रोग.
 - praseka = "flow, trickling" (no "of saliva").
 - majjā = "kernel (majjā)" in all units.
 - harita-pāṇḍu: one rendering in both languages (OPEN: decide; pāṇḍu = "pale", not Hindi "पीले").
@@ -22,7 +22,7 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 - udara = "belly" (not "ailment"); madya = "madya (an intoxicating drink)"; tarpaṇa = "satiation"; koṣṭha = "storehouse / belly".
 - kṣāra stays "kṣāra" (not "alkali"/"alkaline"); kṣāma = कृश; ghṛtamaṇḍa = "ghee-maṇḍa" (literal); viḍa, kuṣṭha as drug names = "drug name" only.
 - graha = "seizing/grasp", not "seizure". chardi and vamana kept distinct.
-- Hindi: no कल्पना for kalpanā; no added जैसे, वर्ण, रोग, मिलाकर; yava = यव (not जौ); madhumeha: no modern disease name, OPEN for owner (use मधुमेह only as a kept Sanskrit term, flagged).
+- Hindi: no कल्पना for kalpanā; no added जैसे, वर्ण, रोग, मिलाकर; yava = यव (not जौ); madhumeha: modern name allowed (मधुमेह / diabetes-type prameha, tagged probable); the exact wording is an OPEN observation for the owner.
 - Unstated nouns: "(ones)" in English, plain adjective in Hindi; no gender in `gram`.
 - Unrestorable printed word: keep the printed form unsplit in `w`, gloss "unclear", put "on a conjectural reading" in translations, low confidence.
 - A closing "iti" goes to notes; colophon English "Thus the N-th chapter, named X" with no "(ends)".
