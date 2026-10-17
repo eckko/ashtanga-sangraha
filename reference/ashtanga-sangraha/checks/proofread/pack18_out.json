@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01.07.494",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "ऋतुष्वन्यो रसेष्वन्यो रूक्षस्नेहबलक्रमः ॥",
+  "why": "'रसेभ्वन्यो' is an impossible sequence; parallel to 'ऋतुष्वन्यो' it should be 'रसेष्वन्यो'."
+ },
+ {
+  "id": "01.08.176",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.09.123",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.10.65",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.12.179",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.14.18",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.16.40",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.20.129",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.21.64",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.22.49",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.24.46",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.25.46",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "ह्रस्वा पेया सुखा सा हि परिहारे नु वर्त्तते ॥",
+  "why": "Stray anusvara in 'नुं'; the particle is 'नु'."
+ },
+ {
+  "id": "01.25.148",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.27.62",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "हीनवेगस्तु पिप्पल्यामलकसर्षपकल्कलबणोष्णोदकैः पुनः पुनः प्रवर्त्तयेत् ॥",
+  "why": "ASCII colons stand in for visarga after 'दकै' and 'पुन'."
+ },
+ {
+  "id": "01.27.101",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.28.106",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.28.134",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.29.4",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "नासाहि शिरसो द्वारं तत्रावसेचितमौषधं स्त्रोतःशृंगाटकं प्राप्य व्याप्यमूर्द्धानं नेत्रश्रोत्रकंठदिसिरामुखानि च मुंजादिषीकामिवासक्तामूर्ध्वजत्रुगतां वैकारिकीमशेषामाशु दोषसंहतिमुत्तमांगादपकर्षति ॥",
+  "why": "Stray vowel sign in 'षीिका' and stray anusvara in 'मूंर्ध्व'."
+ },
+ {
+  "id": "01.32.45",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.36.85",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "01.38.49",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.02.35",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.03.25",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'षंढकाथो' looks odd but the sense is not clear from the neighbouring lines."
+ },
+ {
+  "id": "02.03.92",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.03.105",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.05.6",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.05.55",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.05.219",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.06.41",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.06.106",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.08.79",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.10.8",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "02.10.69",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "Chapter title 'विकृतेहाविज्ञानीयो' differs from the following 'विकृतव्याधिविज्ञानीय', cannot tell if a typo."
+ },
+ {
+  "id": "02.11.24",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.02.33",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.03.47",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.06.11",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.08.63",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "॥ इत्यतीसारग्रहणीनिदानं नामाष्टमोऽध्यायः ॥",
+  "why": "Stray vowel sign 'ॊ' in 'नामाष्टमॊऽध्यायः'; should be 'ो'."
+ },
+ {
+  "id": "03.11.9",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.11.83",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.12.76",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.13.56",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.14.2",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.14.20",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "03.14.35",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.01.136",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.04.136",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.05.229",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "सिद्धेऽस्मिंश्चूर्णितौ क्षारौ पंचैवलवणानि च ॥",
+  "why": "'चूर्णीतौ' has a wrong long ी; participle is 'चूर्णितौ'."
+ },
+ {
+  "id": "04.05.262",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.06.94",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "घृतमाक्षिकतैलैर्वा व्यूषणं क्षारसंयुतं ॥",
+  "why": "Stray space splits 'तैलैर्वा'."
+ },
+ {
+  "id": "04.08.23",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.08.175",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "तृट्क्षामान्मांसरसं मंथं वा ससितं पिबेत् ॥",
+  "why": "'तृळि क्ष्मान्' is garbled; 'तृट्क्षामान्' (thirst-wasted) fits the sense."
+ },
+ {
+  "id": "04.09.15",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.09.127",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.11.15",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.12.112",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.13.26",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "एलाश्मभेदकशिलाजतुपिप्पलीनां चूर्णानि तंडुलजलालुलितानि पीत्वा ॥",
+  "why": "'जलाुलितानि' has a stray vowel sign / dropped letter."
+ },
+ {
+  "id": "04.14.11",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.14.22",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ },
+ {
+  "id": "04.18.82",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nothing wrong visible."
+ }
+]

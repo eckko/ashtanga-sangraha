@@ -156,5 +156,5 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (plain)
 | 06 | 50 | 436 | S1 + S2 | -- | -- | see README |  |
 
 ## Next
-- Proofreading/verification stage (the plain text is a raw OCR-like scan; see ISSUES.md).
+- Verify stage: checks done and logged (VERIFY.md, checks/); Hindi and English layers not started (Part 5 planned in layers-work/).
 - Translations: none added here (see sources.md for what exists in the repo and why it was left out).

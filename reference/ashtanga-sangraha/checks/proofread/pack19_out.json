@@ -1,0 +1,422 @@
+[
+ {
+  "id": "04.19.22",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "04.19.48",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "04.21.83",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "04.22.28",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "लिंपेत्कामं लेपनाद्वेदनायां लेपे योज्यः शंखनाभिर्जलेन ॥",
+  "why": "'द्वे दनायां' is a split word with a doubled द; reads लेपनाद्वेदनायां."
+ },
+ {
+  "id": "04.23.104",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "सिद्ध्यति चास्मिन्शंखानाध्मापयेत् ॥",
+  "why": "'श्छंखा' is an impossible sequence; शंखान् after sandhi."
+ },
+ {
+  "id": "04.23.158",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "04.24.106",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.01.2",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.01.57",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.04.36",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.04.108",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.05.2",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.05.14",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'पैंढुंथा' looks garbled but the intended herb is not certain."
+ },
+ {
+  "id": "05.05.94",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.07.77",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "05.08.38",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "आकलय्य",
+  "why": "'आकलथ्य' is not a recognisable gerund; आकलय्य possible."
+ },
+ {
+  "id": "06.01.63",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'नो न चैनं' is an odd double negation; sense suggests a prohibition with the negative misplaced."
+ },
+ {
+  "id": "06.01.180",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.03.64",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.05.132",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.07.54",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'अम्रद्धो' and 'भीषणमाणं' look garbled but are unclear."
+ },
+ {
+  "id": "06.08.25",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.14.87",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.16.110",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.16.127",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.17.55",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "स्तन्यमधुकविपक्वेन",
+  "why": "'विपकेन' lacks the conjunct; विपक्वेन fits."
+ },
+ {
+  "id": "06.17.58",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.18.31",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.19.13",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'कंडूपापकाक्लेद' reads oddly; cannot tell the intended compound."
+ },
+ {
+  "id": "06.21.16",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.22.180",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.26.72",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.26.118",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.27.6",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "तत्र मारुतकोपतः",
+  "why": "'तत्रमारुत्तोकोपतः' is garbled; मारुतकोपतः is a candidate."
+ },
+ {
+  "id": "06.28.36",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.28.142",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.30.48",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.30.62",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "पाकाभिमुखे च शोफे यथेष्टमातुरं भोजयेत् ॥",
+  "why": "'शोफै' has a stray ai sign; locative शोफे agrees with पाकाभिमुखे."
+ },
+ {
+  "id": "06.30.130",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.31.56",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.31.74",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.32.117",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "पक्वमांससिरास्नायुः संधिः श्लेषं न गच्छति ॥",
+  "why": "Stray space splits संधिः."
+ },
+ {
+  "id": "06.36.20",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "",
+  "why": "'सा विद्धा' is odd for the context but not clearly wrong."
+ },
+ {
+  "id": "06.36.52",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "कृष्णान्वेदनांस्त्वक्स्थान्मषांस्तानेव चोन्नतान् ॥",
+  "why": "'मपान्' is not a word; मषान् (moles) with ष misread as प."
+ },
+ {
+  "id": "06.41.42",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.46.122",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.46.142",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.46.146",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.47.32",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.47.158",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.48.11",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.48.39",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.48.121",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "विषं सर्पिः सिताक्षौद्रं तिमिरापहमंजनं ॥",
+  "why": "':' after सर्पिः is a stray mark and 'हंमं' has a stray anusvara."
+ },
+ {
+  "id": "06.49.309",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.523",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.593",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.703",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.732",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.767",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ },
+ {
+  "id": "06.49.838",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads as correct Sanskrit or an edition quirk."
+ }
+]
