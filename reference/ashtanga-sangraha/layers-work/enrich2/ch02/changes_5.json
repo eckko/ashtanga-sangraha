@@ -1,0 +1,66 @@
+[
+ {
+  "n": "154",
+  "field": "english",
+  "old": "dantī (Baliospermum montanum), dravantī (identity disputed), marica (black pepper), svarṇakṣīrī (prickly poppy) and yavānaka (ajwain),",
+  "new": "dantī (Baliospermum montanum), dravantī (identity disputed), marica (black pepper), svarṇakṣīrī (prickly poppy, probable) and yavānaka (ajwain),",
+  "why": "reviewer (minor): Both identifications are tagged only 'probable' in the word gloss and notes; the translation itself states them without any confidence word, against the owner's rule that probable identifications carry a confidence word."
+ },
+ {
+  "n": "154",
+  "field": "english",
+  "old": "dantī (Baliospermum montanum), dravantī (identity disputed), marica (black pepper), svarṇakṣīrī (prickly poppy, probable) and yavānaka (ajwain),",
+  "new": "dantī (Baliospermum montanum), dravantī (identity disputed), marica (black pepper), svarṇakṣīrī (prickly poppy, probable) and yavānaka (ajwain, probable),",
+  "why": "reviewer (minor): Both identifications are tagged only 'probable' in the word gloss and notes; the translation itself states them without any confidence word, against the owner's rule that probable identifications carry a confidence word."
+ },
+ {
+  "n": "154",
+  "field": "hindi",
+  "old": "दन्ती यानी जंगली जमालगोटा, द्रवन्ती, मरिच यानी काली मिर्च, स्वर्णक्षीरी यानी सत्यानाशी और यवानक यानी अजवायन,",
+  "new": "दन्ती यानी जंगली जमालगोटा, द्रवन्ती, मरिच यानी काली मिर्च, स्वर्णक्षीरी यानी सम्भवतः सत्यानाशी और यवानक यानी अजवायन,",
+  "why": "reviewer (minor): Same: probable identifications given as certain in Hindi; unit 25 of the same book uses 'यानी सम्भवतः' for a probable identification."
+ },
+ {
+  "n": "154",
+  "field": "hindi",
+  "old": "दन्ती यानी जंगली जमालगोटा, द्रवन्ती, मरिच यानी काली मिर्च, स्वर्णक्षीरी यानी सम्भवतः सत्यानाशी और यवानक यानी अजवायन,",
+  "new": "दन्ती यानी जंगली जमालगोटा, द्रवन्ती, मरिच यानी काली मिर्च, स्वर्णक्षीरी यानी सम्भवतः सत्यानाशी और यवानक यानी सम्भवतः अजवायन,",
+  "why": "reviewer (minor): Same: probable identifications given as certain in Hindi; unit 25 of the same book uses 'यानी सम्भवतः' for a probable identification."
+ },
+ {
+  "n": "155",
+  "field": "english",
+  "old": "together with śuṇṭhī (dried ginger), agnika (probably citraka, leadwort) and pṛthvīka (identity disputed), powdered, for equal days.",
+  "new": "together with śuṇṭhī (dried ginger), agnika and pṛthvīka (identity disputed), powdered, for equal days.",
+  "why": "reviewer (minor): Low-confidence/damaged unit: the identification of agnika (probable only; the name fits other plants) is put into the translation line, although the Hindi correctly leaves agnika bare. Over-enrichment for a low unit; keep the identification in the word gloss and notes only."
+ },
+ {
+  "n": "179",
+  "field": "word.gloss",
+  "word": "kuṣṭha-trikaṭuka-anvitam",
+  "old": "joined with kuṣṭha (costus root, Saussurea lappa: probable) and trikaṭuka (the three pungents: dried ginger, long pepper, black pepper)",
+  "new": "joined with kuṣṭha (costus root, Saussurea lappa: standard) and trikaṭuka (the three pungents: dried ginger, long pepper, black pepper)",
+  "why": "reviewer (minor): Under-confident: kuṣṭha as a drug = Saussurea lappa (S. costus) is the standard Ayurvedic identification, as used for the many kuṣṭha lists; tag should be 'standard' (a drug in a list, not the skin disease). Not an error in substance."
+ },
+ {
+  "n": "179",
+  "field": "notes",
+  "old": "The object ('it') is not named; 'etat' of the next unit refers back. kuṣṭha and eraṇḍa are kept as drug names. ENRICHMENT: eraṇḍa = Ricinus communis, castor (standard); kuṣṭha as a drug = Saussurea lappa (costus), probable (the word also names a skin disease; here it is a drug in a list); trikaṭuka = śuṇṭhī, pippalī, marica (standard).",
+  "new": "The object ('it') is not named; 'etat' of the next unit refers back. kuṣṭha and eraṇḍa are kept as drug names. ENRICHMENT: eraṇḍa = Ricinus communis, castor (standard); kuṣṭha as a drug = Saussurea lappa (costus), standard (the word also names a skin disease; here it is a drug in a list); trikaṭuka = śuṇṭhī, pippalī, marica (standard).",
+  "why": "reviewer (minor): Under-confident: kuṣṭha as a drug = Saussurea lappa (S. costus) is the standard Ayurvedic identification, as used for the many kuṣṭha lists; tag should be 'standard' (a drug in a list, not the skin disease). Not an error in substance."
+ },
+ {
+  "n": "183",
+  "field": "hindi",
+  "old": "त्वक् यानी छाल, केसर, आम्रातक यानी अमड़ा, दाडिम यानी अनार, एला यानी इलायची, सितोपला यानी मिश्री, माक्षिक और मातुलुङ्ग यानी बिजौरा नीबू के साथ,",
+  "new": "त्वक् यानी छाल, केसर यानी सम्भवतः नागकेसर, आम्रातक यानी अमड़ा, दाडिम यानी अनार, एला यानी इलायची, सितोपला यानी मिश्री, माक्षिक और मातुलुङ्ग यानी बिजौरा नीबू के साथ,",
+  "why": "reviewer (minor): In Hindi केसर ordinarily means saffron; kesara here is disputed (probably nāgakesara, Mesua ferrea, per the word gloss) and the translation lines carry no marker, so a Hindi reader will read saffron as fact."
+ },
+ {
+  "n": "183",
+  "field": "english",
+  "old": "with tvak (bark), kesara, āmrātaka (hog plum), dāḍima (pomegranate), elā (cardamom), sitopalā (literally 'white stone'; rock sugar), mākṣika and mātuluṅga (citron),",
+  "new": "with tvak (bark), kesara (probably nāgakesara; disputed), āmrātaka (hog plum), dāḍima (pomegranate), elā (cardamom), sitopalā (literally 'white stone'; rock sugar), mākṣika and mātuluṅga (citron),",
+  "why": "reviewer (minor): In Hindi केसर ordinarily means saffron; kesara here is disputed (probably nāgakesara, Mesua ferrea, per the word gloss) and the translation lines carry no marker, so a Hindi reader will read saffron as fact."
+ }
+]

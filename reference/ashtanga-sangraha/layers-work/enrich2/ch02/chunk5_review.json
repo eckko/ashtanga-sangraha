@@ -1,0 +1,155 @@
+{
+ "units": [
+  {
+   "n": "154",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "svarṇakṣīrī (prickly poppy), yavānaka (ajwain)",
+     "problem": "Both identifications are tagged only 'probable' in the word gloss and notes; the translation itself states them without any confidence word, against the owner's rule that probable identifications carry a confidence word.",
+     "fix": "svarṇakṣīrī (prickly poppy, probable) ... yavānaka (ajwain, probable)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "154",
+       "op": "replace",
+       "field": "english",
+       "old": "svarṇakṣīrī (prickly poppy)",
+       "new": "svarṇakṣīrī (prickly poppy, probable)"
+      },
+      {
+       "n": "154",
+       "op": "replace",
+       "field": "english",
+       "old": "yavānaka (ajwain)",
+       "new": "yavānaka (ajwain, probable)"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "स्वर्णक्षीरी यानी सत्यानाशी; यवानक यानी अजवायन",
+     "problem": "Same: probable identifications given as certain in Hindi; unit 25 of the same book uses 'यानी सम्भवतः' for a probable identification.",
+     "fix": "स्वर्णक्षीरी यानी सम्भवतः सत्यानाशी ... यवानक यानी सम्भवतः अजवायन",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "154",
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्वर्णक्षीरी यानी सत्यानाशी",
+       "new": "स्वर्णक्षीरी यानी सम्भवतः सत्यानाशी"
+      },
+      {
+       "n": "154",
+       "op": "replace",
+       "field": "hindi",
+       "old": "यवानक यानी अजवायन",
+       "new": "यवानक यानी सम्भवतः अजवायन"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "agnika (probably citraka, leadwort)",
+     "problem": "Low-confidence/damaged unit: the identification of agnika (probable only; the name fits other plants) is put into the translation line, although the Hindi correctly leaves agnika bare. Over-enrichment for a low unit; keep the identification in the word gloss and notes only.",
+     "fix": "agnika",
+     "severity": "minor",
+     "patch": {
+      "n": "155",
+      "op": "replace",
+      "field": "english",
+      "old": "agnika (probably citraka, leadwort)",
+      "new": "agnika"
+     }
+    }
+   ]
+  },
+  {
+   "n": "169",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "utpala = disputed (blue lotus / water lily, or Costus speciosus proposed)",
+     "problem": "'Costus speciosus' as a proposal for utpala could not be confirmed from standard usage (that plant is normally kebuka/kemuka); it risks being an invented identification. Safer: drop it and keep 'disputed; the usual meaning is blue lotus / water lily'. Needs a human check, so no machine patch.",
+     "fix": "utpala = disputed (usual meaning blue lotus / water lily; its sense in this drug list is unclear); left unidentified.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "179",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kuṣṭha (costus root, Saussurea lappa: probable)",
+     "problem": "Under-confident: kuṣṭha as a drug = Saussurea lappa (S. costus) is the standard Ayurvedic identification, as used for the many kuṣṭha lists; tag should be 'standard' (a drug in a list, not the skin disease). Not an error in substance.",
+     "fix": "kuṣṭha (costus root, Saussurea lappa: standard)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "179",
+       "op": "word",
+       "match_w": "kuṣṭha-trikaṭuka-anvitam",
+       "field": "gloss",
+       "value": "joined with kuṣṭha (costus root, Saussurea lappa: standard) and trikaṭuka (the three pungents: dried ginger, long pepper, black pepper)"
+      },
+      {
+       "n": "179",
+       "op": "replace",
+       "field": "notes",
+       "old": "Saussurea lappa (costus), probable (the word",
+       "new": "Saussurea lappa (costus), standard (the word"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "183",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "केसर",
+     "problem": "In Hindi केसर ordinarily means saffron; kesara here is disputed (probably nāgakesara, Mesua ferrea, per the word gloss) and the translation lines carry no marker, so a Hindi reader will read saffron as fact.",
+     "fix": "केसर यानी सम्भवतः नागकेसर",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "183",
+       "op": "replace",
+       "field": "hindi",
+       "old": "छाल, केसर, आम्रातक",
+       "new": "छाल, केसर यानी सम्भवतः नागकेसर, आम्रातक"
+      },
+      {
+       "n": "183",
+       "op": "replace",
+       "field": "english",
+       "old": "tvak (bark), kesara, āmrātaka",
+       "new": "tvak (bark), kesara (probably nāgakesara; disputed), āmrātaka"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "mākṣika = honey in many lists, also a mineral (unresolved)",
+     "problem": "Not wrong, but in a list of flavouring/sweetening adjuncts beside sitopalā, honey is the likelier sense; the mineral mākṣika (pyrite) is a metallic drug. Suggest recording 'honey (probable in this food-like list); mineral sense unlikely'. Human decision, no patch.",
+     "fix": "mākṣika = honey (probable here); mineral sense (svarṇamākṣika) possible but unlikely in this list.",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "No factual identification is wrong. Identifications checked and sound: pathyā=harītakī, akṣa=vibhītaka, daśamūla list, dantī=Baliospermum montanum, marica, śuṇṭhī/nāgara, citraka, pippalī, trivṛt, viḍaṅga, sindhūttha, vatsaka=kuṭaja, snuk=snuhī (Euphorbia), kola, eraṇḍa, mātuluṅga, dāḍima, āmrātaka; viḍa=viḍa-lavaṇa, utpala, dravantī, pṛthvīka, kolinī rightly left disputed/unidentified; yakṣman, gaṇḍamālā, grahaṇī, koṭha, gulma, ānāha tagged and glossed reasonably. No effect, dose or identification is smuggled into a translation as if stated; Hindi is Devanagari only with no brackets. Low units 152/160/166 are lightly and safely enriched; 155 slightly over-enriched in the English line (patched). Findings: 0 errors, 6 minor issue groups (5 with machine patches, 2 human-only notes: 169 Costus speciosus suspect, 183 mākṣika). Missed but optional: karṣa/pala metric equivalents in 160-161 (vary by authority, left out). No unit needs regrouping."
+}

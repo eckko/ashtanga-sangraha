@@ -1,0 +1,124 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "siddhi in the chapter title is rendered literally as 'accomplishment'; the compound can also be read 'the successful treatment of mishaps in vomiting and purging'. Chapter-opening formula.",
+  "new": "siddhi in the chapter title is rendered literally as 'accomplishment'; the compound can also be read 'the successful treatment of mishaps in vomiting and purging'. Chapter-opening formula. vamana = therapeutic emesis, virecana = therapeutic purgation (standard technical terms); the translation keeps the literal 'vomiting' and 'purging'.",
+  "why": "reviewer (minor): Missed useful modern equivalents: vamana and virecana are the standard technical terms for therapeutic emesis and therapeutic purgation (the chapter's subject); the literal 'vomiting/purging' is kept in the translation, so add as a note."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "piṇḍa-prastarābhyām",
+  "old": "by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed); both are named kinds of sweating (sveda), standard",
+  "new": "by lump (piṇḍa, probably bolus fomentation) and layer (prastara, fomentation on a heated spread bed); prastara is a standard named kind of sweating (sveda), piṇḍa probable",
+  "why": "reviewer (error): piṇḍa as 'bolus fomentation ... standard' is overconfident: the bare word piṇḍa ('lump') is not a securely attested named sveda in the standard lists (prastara is). Tag piṇḍa 'probable'."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "And in both purifications, one anointed with salt and oil should be made to sweat by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed).",
+  "new": "And in both purifications, one anointed with salt and oil should be made to sweat by lump (piṇḍa, probably bolus fomentation) and layer (prastara, fomentation on a heated spread bed).",
+  "why": "reviewer (error): piṇḍa as 'bolus fomentation ... standard' is overconfident: the bare word piṇḍa ('lump') is not a securely attested named sveda in the standard lists (prastara is). Tag piṇḍa 'probable'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "और दोनों संशोधनों में लवण और तैल से अभ्यक्त को पिण्ड स्वेद यानी गरम पिण्ड से सेंक और प्रस्तर स्वेद यानी गरम बिछावन पर सेंक से स्वेदित कराए।",
+  "new": "और दोनों संशोधनों में लवण और तैल से अभ्यक्त को पिण्ड स्वेद यानी सम्भवतः गरम पिण्ड से सेंक और प्रस्तर स्वेद यानी गरम बिछावन पर सेंक से स्वेदित कराए।",
+  "why": "reviewer (error): piṇḍa as 'bolus fomentation ... standard' is overconfident: the bare word piṇḍa ('lump') is not a securely attested named sveda in the standard lists (prastara is). Tag piṇḍa 'probable'."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "ubhayoḥ saṃśodhanayoḥ can be genitive ('of both') or locative ('in both'); 'in both' chosen. lavaṇataila is 'salt and oil' or 'salted oil'. piṇḍa-sveda and prastara-sveda are standard named kinds of fomentation (standard); the line itself gives only the two words.",
+  "new": "ubhayoḥ saṃśodhanayoḥ can be genitive ('of both') or locative ('in both'); 'in both' chosen. lavaṇataila is 'salt and oil' or 'salted oil'. prastara-sveda is a standard named kind of fomentation; piṇḍa is probably a bolus (lump) fomentation (probable, less securely attested); the line itself gives only the two words.",
+  "why": "reviewer (error): piṇḍa as 'bolus fomentation ... standard' is overconfident: the bare word piṇḍa ('lump') is not a securely attested named sveda in the standard lists (prastara is). Tag piṇḍa 'probable'."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "स्निग्ध और स्वेदित किए हुए, वमन न कराकर विरेचन पीने वाले का, या आम सहित का, या मृदु विरेचन से विरिक्त का, नीचे के भाग में अत्यन्त भारीपन, पेट की कठोरता, शूल यानी ऐंठन भरी तीव्र पीड़ा, तथा वात और मल का अवरोध होता है।",
+  "new": "स्निग्ध और स्वेदित किए हुए, वमन न कराकर विरेचन पीने वाले का, या आम सहित का, या मृदु विरेचन से विरिक्त का, नीचे के भाग में अत्यन्त भारीपन, पेट की कठोरता, शूल यानी तीव्र चुभने वाली पीड़ा, तथा वात और मल का अवरोध होता है।",
+  "why": "reviewer (minor): 'ऐंठन भरी' (cramping) is added; the Sanskrit and the English gloss give piercing pain (śūla; colic as a modern equivalent)."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "There, from obstruction of waste, having bound up, it burns the belly, and there occur inner piercing pain (śūla, colic), fullness of the two flanks like a leather bag, pain of the head and back, śvāsa (labored breathing, dyspnoea), and pricking in the anus and bladder.",
+  "new": "There, from obstruction of waste, having bound up, it burns the belly, and there occur inner piercing pain (śūla, colic), fullness of the two flanks like a leather bag, pain of the head and back, śvāsa (probably labored breathing, dyspnoea), and pricking in the anus and bladder.",
+  "why": "reviewer (minor): Notes say the dyspnoea reading is only 'probable here' (śvāsa may be plain 'breath/breathing'), but translations state it unhedged."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "वहाँ मल के अवरोध से बँधकर पेट को जलाता है, और भीतर शूल, चमड़े की थैली के समान दोनों पार्श्वों में भरापन, सिर और पीठ में पीड़ा, श्वास यानी साँस फूलना, तथा गुदा और मूत्राशय में चुभन होती है।",
+  "new": "वहाँ मल के अवरोध से बँधकर पेट को जलाता है, और भीतर शूल, चमड़े की थैली के समान दोनों पार्श्वों में भरापन, सिर और पीठ में पीड़ा, श्वास यानी सम्भवतः साँस फूलना, तथा गुदा और मूत्राशय में चुभन होती है।",
+  "why": "reviewer (minor): Notes say the dyspnoea reading is only 'probable here' (śvāsa may be plain 'breath/breathing'), but translations state it unhedged."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, और आनाह यानी पेट का फूलकर रुक जाना, इन्हें हरने वाली अभ्यंग यानी तेल मालिश, स्वेद, वर्ति यानी औषधि की बत्ती, दीपन, चूर्ण और बस्ति यानी एनीमा की क्रियाओं से उसका उपचार करे।",
+  "new": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, और आनाह यानी पेट का फूलना और मल-वायु का रुकना, इन्हें हरने वाली अभ्यंग यानी तेल मालिश, स्वेद, वर्ति यानी औषधि की बत्ती, दीपन, चूर्ण और बस्ति यानी एनीमा की क्रियाओं से उसका उपचार करे।",
+  "why": "reviewer (minor): Awkward and imprecise Hindi for ānāha (distension of the belly with retention of stool and flatus)."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "अथवा क्षीरिवृक्षों यानी वट, गूलर, पीपल, पाकड़ आदि दूध वाले वृक्षों के साथ पकाए हुए दूध से।",
+  "new": "अथवा क्षीरिवृक्षों यानी सामान्यतः वट, गूलर, पीपल, पाकड़ आदि दूध वाले वृक्षों के साथ पकाए हुए दूध से।",
+  "why": "reviewer (minor): Hindi names four specific trees as the meaning of kṣīrivṛkṣa without the hedge the notes give (lists differ; members only probable)."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "When one has become free of raw (āma) matter (as with treatments of middle strength, as by wind and sun, by scattering dust and ash, and so on), in accordance with Vāta one should employ in food and drink what is light, alkaline and sour; when Vāta is in excess, curd together with sour, joined with the skin of dāḍima (pomegranate).",
+  "new": "When one has become free of raw (āma) matter (as with treatments of middle strength, as by wind and sun, by scattering dust and ash, and so on), in accordance with Vāta one should employ in food and drink what is light, kṣāra and sour; when Vāta is in excess, curd together with sour, joined with the skin of dāḍima (pomegranate).",
+  "why": "reviewer (minor): GLOSSARY (still valid, a sense decision): kṣāra stays 'kṣāra', not 'alkaline'. Pre-existing, but this unit was enriched (dāḍima) and the rendering was not caught."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "laghu-kṣāra-amlam",
+  "old": "light, alkaline and sour",
+  "new": "light, kṣāra and sour",
+  "why": "reviewer (minor): GLOSSARY (still valid, a sense decision): kṣāra stays 'kṣāra', not 'alkaline'. Pre-existing, but this unit was enriched (dāḍima) and the rendering was not caught."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla, colic).",
+  "new": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla).",
+  "why": "reviewer (minor): In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla).",
+  "new": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (probably wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla).",
+  "why": "reviewer (minor): In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र पीड़ा उत्पन्न करता है।",
+  "new": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी सम्भवतः चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र पीड़ा उत्पन्न करता है।",
+  "why": "reviewer (minor): In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी सम्भवतः चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र पीड़ा उत्पन्न करता है।",
+  "new": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी सम्भवतः चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र चुभने वाली पीड़ा उत्पन्न करता है।",
+  "why": "reviewer (minor): In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations."
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "viṣṭambha-gaurava-śoṣa-koṭha-kaṇḍū-pāṇḍutā-aṅga-sāda-śūlāni",
+  "old": "binding (viṣṭambha; constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption; probable), itching, paleness (pāṇḍutā; pallor), sinking of the limbs, piercing pain (śūla; colic)",
+  "new": "binding (viṣṭambha; constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption; probable), itching, paleness (pāṇḍutā; pallor), sinking of the limbs, piercing pain (śūla)",
+  "why": "reviewer (minor): In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations."
+ }
+]
