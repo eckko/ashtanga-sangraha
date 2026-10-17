@@ -1,0 +1,662 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śiro-roga, timira",
+     "problem": "Case labels (nom. sg.) on non-final members of one compound (the print shows sandhi inside śirorogatimiroraḥ... with no visarga).",
+     "fix": "tat-puruṣa, m. / n.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "81",
+       "op": "word",
+       "match_w": "śiro-roga",
+       "field": "gram",
+       "value": "tat-puruṣa, m."
+      },
+      {
+       "n": "81",
+       "op": "word",
+       "match_w": "timira",
+       "field": "gram",
+       "value": "n."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "timira (dimness of vision)",
+     "problem": "Gloss says probable; English states it flatly. Dimness of vision is the standard meaning, so acceptable; hedge only if owner prefers.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कल्पित पाठ पर:",
+     "problem": "Sibling units (ch07 k1/k2 and elsewhere) use अनुमानित पाठ पर for 'on a conjectural reading'; कल्पित means imagined.",
+     "fix": "अनुमानित पाठ पर:",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कल्पित पाठ पर:",
+      "new": "अनुमानित पाठ पर:"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ādyāḥ",
+     "problem": "Gender f. is unsupported (the compound has no stated noun; glossary: no gender for unstated nouns).",
+     "fix": "adj., nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "word",
+      "match_w": "ādyāḥ",
+      "field": "gram",
+      "value": "adj., nom. pl."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "maka / kāsa",
+     "problem": "Handling of the damaged word is right (printed maka kept, 'unclear', 'on a conjectural reading', low). The kāsa suggestion is plausible (same syllable count 16, cough with blood-spitting and fever) and correctly not adopted. Human may decide whether to print the guess in the translation; no change made.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कल्पित पाठ पर:",
+     "problem": "Inconsistent with siblings (अनुमानित पाठ पर).",
+     "fix": "अनुमानित पाठ पर:",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कल्पित पाठ पर:",
+      "new": "अनुमानित पाठ पर:"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "नस्य यानी नाक में औषधि डालना",
+     "problem": "The conjectured nasya is bracketed in English (allowed by glossary, ch04 k2) but Hindi may not use brackets (ch05 k1), so the Hindi presents the conjectured word as plain text and the reader cannot tell it from the printed ones. Mark it inline without brackets.",
+     "fix": "अनुमान से जोड़ा गया नस्य यानी नाक में औषधि डालना",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नस्य यानी नाक में औषधि डालना",
+      "new": "अनुमान से जोड़ा गया नस्य यानी नाक में औषधि डालना"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "svedanasya -> svedananasya",
+     "problem": "Conjecture is good (haplography of the repeated 'na'; nasya fits head, throat and voice ailments after loud speaking). Checked: src kept as printed, correction only in words and flag; English bracket rule satisfied. Bracket convention English-only is consistent with glossary. No further change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कल्पित पाठ पर:",
+     "problem": "Inconsistent prefix (siblings: अनुमानित पाठ पर).",
+     "fix": "अनुमानित पाठ पर:",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कल्पित पाठ पर:",
+      "new": "अनुमानित पाठ पर:"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "त्रिक यानी रीढ़ के निचले भाग के त्रिकास्थि क्षेत्र",
+     "problem": "trika is tagged probable in the gloss but stated flatly in the translations; the Hindi phrase is also garbled.",
+     "fix": "त्रिक यानी सम्भवतः रीढ़ के निचले भाग का त्रिकास्थि वाला क्षेत्र",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्रिक यानी रीढ़ के निचले भाग के त्रिकास्थि क्षेत्र",
+      "new": "त्रिक यानी सम्भवतः रीढ़ के निचले भाग का त्रिकास्थि वाला क्षेत्र"
+     }
+    },
+    {
+     "field": "english",
+     "where": "trika (the lower back at the sacrum)",
+     "problem": "Probable identification must be hedged in the translation.",
+     "fix": "trika (probably the lower back at the sacrum)",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "english",
+      "old": "trika (the lower back at the sacrum)",
+      "new": "trika (probably the lower back at the sacrum)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "atyāsyāyānābhyāṃ",
+     "problem": "The suggested form has 6 syllables instead of 8, so it breaks the 16-syllable line, while the flag's own argument is that the printed form scans. The suggestion is weak; state this.",
+     "fix": "append to why: the suggested form has only 14 syllables for the line and would break the 16-syllable metre",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "so it may be right and only opaque",
+      "new": "so it may be right and only opaque; the suggested form would have only 14 syllables for the line and break the 16-syllable metre, so it is not preferred"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सदन यानी अवसाद",
+     "problem": "अवसाद in modern Hindi means depression; sadana here is physical sinking, exhaustion.",
+     "fix": "सदन यानी थकावट",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सदन यानी अवसाद",
+      "new": "सदन यानी थकावट"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āma-viṣa",
+     "problem": "Case label 'n. nom. sg.' on a non-final compound member (the compound ends in -ādayaḥ).",
+     "fix": "n.",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "word",
+      "match_w": "āma-viṣa",
+      "field": "gram",
+      "value": "n."
+     }
+    },
+    {
+     "field": "english",
+     "where": "āma-viṣa",
+     "problem": "Open reading (āmaviṣa as one term vs āma + viṣa) is noted, but the translations leave the term wholly untranslated, against the comprehension-first policy. Human decision: add a literal gloss, e.g. 'āma-viṣa (literally raw poison)' in English and 'आमविष यानी कच्चा विष' in Hindi, keeping the alternative reading in notes.",
+     "fix": "decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "halīmaka (a severe stage of the pale-yellow pāṇḍu condition)",
+     "problem": "Gloss tags the identification probable but the translation states it flatly; 'pale-yellow' contradicts the gloss (greenish-yellow) and the glossary (pāṇḍu = pale).",
+     "fix": "halīmaka (probably a severe stage of the pāṇḍu condition)",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "english",
+      "old": "halīmaka (a severe stage of the pale-yellow pāṇḍu condition)",
+      "new": "halīmaka (probably a severe stage of the pāṇḍu condition)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हलीमक यानी पाण्डु रोग की उग्र अवस्था",
+     "problem": "Unhedged probable identification; glossary: पाण्डु = रक्ताल्पता.",
+     "fix": "हलीमक यानी सम्भवतः पाण्डु यानी रक्ताल्पता की उग्र अवस्था",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हलीमक यानी पाण्डु रोग की उग्र अवस्था",
+      "new": "हलीमक यानी सम्भवतः पाण्डु यानी रक्ताल्पता की उग्र अवस्था"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "divāsvamāt",
+     "problem": "The flag's why asserts 'halīmaka is a day-sleep ailment' as a fact; it is not stated in this chunk. The conjecture divāsvapnāt itself is good. Remove that clause.",
+     "fix": "drop the clause",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": " and halīmaka is a day-sleep ailment",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vyavāyājjīvitabhraṃśātaistair…",
+     "problem": "Silent emendation: the print has a single t in 'bhraṃśātaistair', but the split bhraṃśāt + taiḥ + taiḥ needs a doubled t (bhraṃśāttaistair). Unflagged.",
+     "fix": "add flag (possible, tt lost)",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vyavāyājjīvitabhraṃśātaistairasyānilāmayaiḥ",
+        "suggest": "vyavāyājjīvitabhraṃśāttaistairasyānilāmayaiḥ",
+        "why": "possible: the print has a single t in 'bhraṃśātaistair'; the split bhraṃśāt + taiḥ + taiḥ needs the doubled t (a lost t); the 16-syllable count is the same either way"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "jīvitabhraṃśāt",
+     "problem": "Meaning of 'jīvita-bhraṃśa' (literally 'falling away of life') is uncertain, and the whole unit is a bare run of ablatives and an instrumental; the draft's low confidence is right. Human decision whether to keep the literal rendering.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "gudo'valupyataiva",
+     "problem": "The why says 'the usual change of final e before a vowel gives avalupyata iva'. The strict sandhi of e before i is ay (avalupyaya iva), and a + i would give e, not ai, so the printed -aiva is not explained by a regular rule. The suggestion (separate the words, read avalupyate iva) is fine; the explanation is not.",
+     "fix": "reword the why",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "meṃḍhraṃ",
+     "problem": "Silent normalisation: print meṃḍhra (anusvāra inside the word) is written meḍhram in `w` with no flag.",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "95",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "meṃḍhraṃ",
+        "suggest": "meḍhram",
+        "why": "possible spelling normalisation: the print has an anusvāra inside the word (meṃḍhra, a variant of meḍhra/meṇḍhra); the standard form meḍhra is used in `w`"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vṛṣyāḥ",
+     "problem": "Gender wrong: 'f.' but it agrees with bastayaḥ, which the draft itself marks m., and with 'te' (masc. nom. pl.).",
+     "fix": "adj., m. nom. pl.",
+     "severity": "error",
+     "patch": {
+      "n": "97",
+      "op": "word",
+      "match_w": "vṛṣyāḥ",
+      "field": "gram",
+      "value": "adj., m. nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धावनी यानी पृश्निपर्णी यानी पिठवन",
+     "problem": "English hedges this disputed identification ('disputed, perhaps'), Hindi states it flatly.",
+     "fix": "धावनी यानी सम्भवतः पृश्निपर्णी यानी पिठवन",
+     "severity": "minor",
+     "patch": {
+      "n": "101",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धावनी यानी पृश्निपर्णी यानी पिठवन",
+      "new": "धावनी यानी सम्भवतः पृश्निपर्णी यानी पिठवन"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कुम्भ, अग्नि",
+     "problem": "English says kumbha is unidentified; Hindi gives the bare word with no such statement.",
+     "fix": "कुम्भ जिसकी पहचान अज्ञात है, अग्नि",
+     "severity": "minor",
+     "patch": {
+      "n": "101",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुम्भ, अग्नि",
+      "new": "कुम्भ जिसकी पहचान अज्ञात है, अग्नि"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mahat pañcaka",
+     "problem": "Human decision: 'mahat pañcaka' (the great five) is most probably the 'great five roots' (mahat/bṛhat pañcamūla: bilva, agnimantha, śyonāka, pāṭalā, gambhārī), but 104 names the ten roots separately and the line says only 'five'; I rate this probable, not standard. The draft's 'unidentified, possibly the five great roots' is acceptable; if the owner wants it in the translation it must be hedged ('probably the five great roots') and no 'roots' may be added unhedged.",
+     "fix": "decision",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "nikumbha, dhāvanī",
+     "problem": "Checked: nikumbha = dantī (Baliospermum montanum) disputed; dhāvanī as a synonym of pṛśniparṇī (Uraria picta) disputed; agni = citraka probable; urubūka = castor standard; punarnava standard; dāru = devadāru probable. All tags and Latin names are acceptable as drafted.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "samastu",
+     "problem": "Human decision: besides the draft's samastam ('all together'), 'samastu' can be read sa-mastu ('with whey/curd water'), a common nirūha ingredient. Both give 3 syllables. The draft's reading is adequate but the alternative should be in notes.",
+     "fix": "add alternative to notes",
+     "severity": "minor",
+     "patch": {
+      "n": "102",
+      "op": "append_note",
+      "text": "Reviewer: 'samastu' could also be read sa-mastu 'with whey (mastu)'; the draft's samastam 'all together' is kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बला यानी खरेटी रास्ना सहित",
+     "problem": "Glossary and siblings use बला यानी बरियार; the missing comma makes 'खरेटी रास्ना' look like one drug; the disputed identity of rāsnā is stated in English but not in Hindi.",
+     "fix": "बला यानी बरियार, रास्ना सहित, जिसकी पहचान विवादित है",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बला यानी खरेटी रास्ना सहित",
+      "new": "बला यानी बरियार, रास्ना सहित, जिसकी पहचान विवादित है"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the fruit and root from citraka",
+     "problem": "The translation commits to the parse 'fruit and root from citraka', but notes call this parse low-confidence (the root of citraka is the usual part; its fruit is not). The dvi- conjecture (dvipañcamūla) is strong but is also adopted unhedged. Human decision: hedge with 'on a conjectural reading' or keep the lists neutral.",
+     "fix": "decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pāṭhā",
+     "problem": "pāṭhā is probable (Cissampelos pareira) in the gloss but the English gives no name or hedge; policy wants it beside the term.",
+     "fix": "pāṭhā (probably velvet-leaf)",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "replace",
+      "field": "english",
+      "old": "pāṭhā and indrayava",
+      "new": "pāṭhā (probably velvet-leaf) and indrayava"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sadā āturāṇām",
+     "problem": "Open reading: 'always beneficial to the ailing' vs 'beneficial to those who are always ailing'. 98 has 'ye sadā''turāḥ' (always ailing), which supports the draft's reading and 106 seems to refer back to those people; the Hindi is neutral and the English commits. Human decision; draft acceptable.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śatāhvayā",
+     "problem": "Human decision: śatāhvā/śatapuṣpā is dill (Anethum sowa) or fennel (Foeniculum vulgare); the draft gives dill probable and śatāvarī as the alternative, but omits fennel. Add fennel to notes; keep 'probably dill' (consistent with miśi in the glossary).",
+     "fix": "add fennel",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "bālena bilvena",
+     "problem": "Draft reading 'young bilva' is supported by the three-way 'athavā' structure (madhuka / young bilva / śatāhvā); no change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jīvanīya list",
+     "problem": "Unchecked list in the notes matches Caraka's jīvanīya ten (jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka). I cannot check it against this book; keep the caveat. The Hindi 'जीवनीय गण' adds 'गण' (group) while the English says 'drugs'; harmless but not in the Sanskrit.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निरूह बस्ति से बढ़कर दूसरा कोई",
+     "problem": "'से बढ़कर' means 'better than' (a comparison) but anyat + ablative means 'other than'; the Hindi changes the claim.",
+     "fix": "निरूह बस्ति के सिवा दूसरा कोई",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निरूह बस्ति से बढ़कर दूसरा कोई",
+      "new": "निरूह बस्ति के सिवा दूसरा कोई"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nirūhabasteḥ",
+     "problem": "The notes call it an 'ablative of comparison'; it is the ablative governed by anyat ('other than'). The genitive alternative is noted. Correct the label.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "append_note",
+      "text": "Reviewer: 'nirūhabasteḥ' is the ablative with 'anyat' (other than), not a comparative ablative."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "aśiśuvṛddhayoḥ",
+     "problem": "Open reading: dual -yoḥ most naturally pairs two items, so 'of the non-child and the (not) aged' vs 'of those who are neither child nor aged'. The draft's reading matches the usual contraindication of nirūha for infants and the very old; human decision, no change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "36 units (75-110). 1 error (97 vṛṣyāḥ gender), rest minor. Main themes: Hindi conjecture prefix कल्पित→अनुमानित (82,83,85); unhedged probable identifications in translations (85 trika, 91 halīmaka, 101 dhāvanī Hindi, 105 pāṭhā); Hindi 109 'से बढ़कर' imports comparison; case labels on non-final compound members (81,88); two silent emendations unflagged (93 tt, 95 meṃḍhra). Identifications all acceptable as tagged; mahat pañcaka possibly the five great roots (probable). Open readings (88, 92, 102 sa-mastu, 106, 107, 109) left for human decision. No regrouping needed; 110 is the chapter colophon.",
+ "glossary_suggestions": [
+  "Hindi for 'on a conjectural reading' is अनुमानित पाठ पर (not कल्पित).",
+  "Hindi inline hedge for a bracketed English conjecture: 'अनुमान से जोड़ा गया ...' (no brackets).",
+  "Hindi sadana (limb sinking) = थकावट, not अवसाद (depression).",
+  "anyat + ablative = 'other than' (Hindi के सिवा), not a comparative 'से बढ़कर'.",
+  "halīmaka = probably a severe stage of pāṇḍu (pāṇḍu = pale; Hindi पाण्डु यानी रक्ताल्पता), always hedged.",
+  "mahat pañcaka: probably the five great roots (bilva, agnimantha, śyonāka, pāṭalā, gambhārī); hedge if used.",
+  "Do not label case on non-final compound members; give gender only."
+ ]
+}
