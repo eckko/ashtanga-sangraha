@@ -1,0 +1,3766 @@
+[
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "niryāsasya",
+      "words": [
+       {
+        "w": "niryāsasya",
+        "gloss": "niryāsa (expressed juice; the first of the five preparations, see unit 33)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamā",
+      "words": [
+       {
+        "w": "madhyamā",
+        "gloss": "middle",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātrā",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "dose",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "catuṣ",
+        "gloss": "four (first part of catuṣ-pala; the printed space splits it)",
+        "gram": "numeral, in compound"
+       }
+      ]
+     },
+     {
+      "src": "tuṣpalaṃ",
+      "words": [
+       {
+        "w": "pala",
+        "gloss": "pala (a unit of weight)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निर्यास यानी निचोड़े हुए रस की मध्यम मात्रा सम्भवतः चार पल है।",
+  "english": "The middle dose of the niryāsa (expressed juice) is, on a conjectural reading, four palas (pala: a unit of weight).",
+  "text_flags": [
+   {
+    "src": "tuṣpalaṃ",
+    "suggest": "catuṣpalaṃ",
+    "why": "possible: 'ca tuṣpalaṃ' is printed with a stray space; 'ca' alone gives no sense after 'mātrā', and 'ca'+'tuṣpalaṃ' together read as catuṣpalam 'four palas'"
+   }
+  ],
+  "notes": "Nominal sentence; the copula is understood. 'niryāsa' is the expressed juice (svarasa) as defined in unit 33 of this chapter; read here as the name of that preparation. The reading 'four palas' depends on joining 'ca tuṣpalaṃ' into catuṣpalam, which is likely but not certain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.51"
+  ],
+  "lines_deva": [
+   "निर्यासस्य मध्यमा मात्रा च तुष्पलं"
+  ],
+  "lines_iast": [
+   "niryāsasya madhyamā mātrā ca tuṣpalaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalkacūrṇayoḥ",
+      "words": [
+       {
+        "w": "kalka-cūrṇayoḥ",
+        "gloss": "kalka (paste, the ground drug); cūrṇa (powder)",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "karṣaḥ",
+      "words": [
+       {
+        "w": "karṣaḥ",
+        "gloss": "karṣa (a unit of weight)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "palatrayaṃ",
+      "words": [
+       {
+        "w": "pala-trayam",
+        "gloss": "pala (a unit of weight); three",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadāloḍane",
+      "words": [
+       {
+        "w": "tad-āloḍane",
+        "gloss": "that; stirring (āloḍana)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कल्क यानी पिसी हुई लुगदी और चूर्ण का एक कर्ष; उसे घोलने में तीन पल।",
+  "english": "Of kalka (paste) and cūrṇa (powder), a karṣa (a unit of weight); three palas for stirring it.",
+  "text_flags": [],
+  "notes": "Elliptical: 'mātrā' (dose) is understood from unit 51 and no verb is supplied. 'tad' is not stated; it most plainly points back to the kalka and cūrṇa, and the text does not say what the three palas are of (liquid is not stated), so the translation adds nothing. 'āloḍana' is stirring up or mixing.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.52"
+  ],
+  "lines_deva": [
+   "कल्कचूर्णयोः कर्षः पलत्रयं तदालोडने"
+  ],
+  "lines_iast": [
+   "kalkacūrṇayoḥ karṣaḥ palatrayaṃ tadāloḍane"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "niryūhe",
+      "words": [
+       {
+        "w": "niryūhe",
+        "gloss": "niryūha (decoction)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajapalamudakārddhaprasthe'dhiśritya",
+      "words": [
+       {
+        "w": "bheṣaja-palam",
+        "gloss": "drug; pala (a unit of weight)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "udaka-ardha-prasthe",
+        "gloss": "water; half; prastha (a unit of volume); 'in half a prastha of water'",
+        "gram": "tat-puruṣa, loc. sg."
+       },
+       {
+        "w": "adhiśritya",
+        "gloss": "having put on (the fire)",
+        "gram": "abs. adhi-√śri"
+       }
+      ]
+     },
+     {
+      "src": "pādaśeṣitamavatārayet",
+      "words": [
+       {
+        "w": "pāda-śeṣitam",
+        "gloss": "quarter; made to remain",
+        "gram": "ppp. caus. √śiṣ, n. acc. sg."
+       },
+       {
+        "w": "avatārayet",
+        "gloss": "should take down",
+        "gram": "3 sg. opt. caus. ava-√tṝ"
+       }
+      ]
+     },
+     {
+      "src": "śītaphāṃṭayorauṣadhapalaṃ",
+      "words": [
+       {
+        "w": "śīta-phāṇṭayoḥ",
+        "gloss": "śīta (cold infusion); phāṇṭa (hot infusion)",
+        "gram": "dvandva, gen. du. (or loc. du.)"
+       },
+       {
+        "w": "auṣadha-palam",
+        "gloss": "drug; pala",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍbhiścaturbhirbuṃpalairāsutamiti",
+      "words": [
+       {
+        "w": "ṣaḍbhiḥ",
+        "gloss": "six",
+        "gram": "inst. pl."
+       },
+       {
+        "w": "caturbhiḥ",
+        "gloss": "four",
+        "gram": "inst. pl."
+       },
+       {
+        "w": "ambu-palaiḥ",
+        "gloss": "water; palas",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "āsutam",
+        "gloss": "steeped",
+        "gram": "ppp. ā-√su, n. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the rule)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निर्यूह यानी काढ़े में: एक पल औषध को आधे प्रस्थ जल में चढ़ाकर चौथाई शेष रहने पर उतार ले। शीत यानी ठण्डे अर्क और फाण्ट यानी गरम अर्क में: औषध का एक पल छह और चार पल जल से भिगोया हुआ।",
+  "english": "For a decoction (niryūha): having put a pala of the drug on (the fire) in half a prastha (a unit of volume) of water, one should take it down when a quarter remains. For śīta (cold infusion) and phāṇṭa (hot infusion): a pala of the drug, steeped with six and with four palas of water.",
+  "text_flags": [
+   {
+    "src": "ṣaḍbhiścaturbhirbuṃpalairāsutamiti",
+    "suggest": "ṣaḍbhiścaturbhirambupalairāsutamiti",
+    "why": "possible: 'buṃpalair' is not a word; 'ambupalaiḥ' (with palas of water) fits the sense, and 'aṃbu' may have been misprinted as 'buṃ'"
+   }
+  ],
+  "notes": "'iti' closes the rule and is left untranslated. 'prastha' is a unit of volume (defined in unit 71). 'avatārayet' is 'should take down', the fire being understood. The two numerals 'six' and 'four' fit śīta and phāṇṭa in the order given (six for śīta, four for phāṇṭa); the Sanskrit does not say 'respectively', so the translation does not either. 'āsuta' is taken as 'steeped'. Orthography: 'ārddha' in the print is normalised to 'ardha' in w (same for any doubled -rdd-).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.53"
+  ],
+  "lines_deva": [
+   "निर्यूहे भेषजपलमुदकार्द्धप्रस्थेऽधिश्रित्य पादशेषितमवतारयेत् शीतफांटयोरौषधपलं षड्भिश्चतुर्भिर्बुंपलैरासुतमिति"
+  ],
+  "lines_iast": [
+   "niryūhe bheṣajapalamudakārddhaprasthe'dhiśritya pādaśeṣitamavatārayet śītaphāṃṭayorauṣadhapalaṃ ṣaḍbhiścaturbhirbuṃpalairāsutamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehapāke",
+      "words": [
+       {
+        "w": "sneha-pāke",
+        "gloss": "sneha (fat: ghee or oil; standard); cooking",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvanirdiṣṭapramāṇe",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anirdiṣṭa-pramāṇe",
+        "gloss": "not stated; measure",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samuditasya",
+      "words": [
+       {
+        "w": "samuditasya",
+        "gloss": "combined, total",
+        "gram": "ppp. sam-ud-√i, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravasya",
+      "words": [
+       {
+        "w": "dravasya",
+        "gloss": "liquid",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādena",
+      "words": [
+       {
+        "w": "pādena",
+        "gloss": "by a quarter",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaḥ",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "sneha (fat)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayojyastatpādena",
+      "words": [
+       {
+        "w": "prayojyaḥ",
+        "gloss": "should be used",
+        "gram": "gdv. pra-√yuj, m. nom. sg."
+       },
+       {
+        "w": "tat-pādena",
+        "gloss": "that; quarter",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalkaḥ",
+      "words": [
+       {
+        "w": "kalkaḥ",
+        "gloss": "kalka (paste)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस स्नेहपाक में प्रमाण न बताया गया हो, उसमें कुल द्रव का चौथाई भाग स्नेह यानी घी या तेल प्रयोग करना चाहिए और उसका चौथाई भाग कल्क यानी लुगदी।",
+  "english": "In sneha-cooking (the cooking of sneha, fat: ghee or oil) where the measure is not stated, the sneha should be used at a quarter of the total liquid, and the kalka (paste) at a quarter of that.",
+  "text_flags": [],
+  "notes": "'tat' in 'tatpādena' is most naturally the sneha (kalka at a quarter of the sneha); it could also be the liquid, and the text does not say which. 'sneha' in the cooking sense is ghee or oil (standard). The verb 'prayojyaḥ' is carried to 'kalkaḥ'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.54"
+  ],
+  "lines_deva": [
+   "स्नेहपाके त्वनिर्दिष्टप्रमाणे समुदितस्य द्रवस्य पादेन स्नेहः प्रयोज्यस्तत्पादेन कल्कः"
+  ],
+  "lines_iast": [
+   "snehapāke tvanirdiṣṭapramāṇe samuditasya dravasya pādena snehaḥ prayojyastatpādena kalkaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṭhaṃti",
+      "words": [
+       {
+        "w": "paṭhanti",
+        "gloss": "read",
+        "gram": "3 pl. pres. √paṭh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्य फिर पढ़ते हैं।",
+  "english": "Others, again, read.",
+  "text_flags": [],
+  "notes": "Introduces a different reading of the rule on measures; the object of 'read' is not stated here and the alternative is apparently given in the units that follow.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.55"
+  ],
+  "lines_deva": [
+   "अन्ये पुनः पठंति"
+  ],
+  "lines_iast": [
+   "anye punaḥ paṭhaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehe",
+      "words": [
+       {
+        "w": "snehe",
+        "gloss": "sneha (fat)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhyati",
+      "words": [
+       {
+        "w": "siddhyati",
+        "gloss": "being cooked",
+        "gram": "pres. part. √sidh, loc. sg. (or 3 sg. pres.)"
+       }
+      ]
+     },
+     {
+      "src": "śuddhāṃbuniḥkvāthasvarasaiḥ",
+      "words": [
+       {
+        "w": "śuddha-ambu-niḥkvātha-svarasaiḥ",
+        "gloss": "pure; water; decoction; expressed juice",
+        "gram": "dvandva, inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kramāt",
+      "words": [
+       {
+        "w": "kramāt",
+        "gloss": "in order",
+        "gram": "ind. (abl.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेह के पकते समय शुद्ध जल, काढ़ा और स्वरस यानी निचोड़े हुए रस से क्रम से।",
+  "english": "When the sneha is being cooked: with pure water, decoction and expressed juice (svarasa), in order.",
+  "text_flags": [],
+  "notes": "Elliptical: no main verb in this unit. 'snehe siddhyati' is read as a locative absolute ('while the sneha is being cooked'). 'niḥkvātha' is a synonym of kvātha (decoction). The instrumentals are taken with the following units, which the sentence seems to continue into; this is not stated as fact.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.56"
+  ],
+  "lines_deva": [
+   "स्नेहे सिद्ध्यति शुद्धांबुनिःक्वाथस्वरसैः क्रमात्"
+  ],
+  "lines_iast": [
+   "snehe siddhyati śuddhāṃbuniḥkvāthasvarasaiḥ kramāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalkasya",
+      "words": [
+       {
+        "w": "kalkasya",
+        "gloss": "kalka (paste)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yojayedaṃśaṃ",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "should add",
+        "gram": "3 sg. opt. caus. √yuj"
+       },
+       {
+        "w": "aṃśam",
+        "gloss": "portion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturthaṃ",
+      "words": [
+       {
+        "w": "caturtham",
+        "gloss": "a fourth",
+        "gram": "ord. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭhamaṣṭamaṃ",
+      "words": [
+       {
+        "w": "ṣaṣṭham",
+        "gloss": "a sixth",
+        "gram": "ord. m. acc. sg."
+       },
+       {
+        "w": "aṣṭamam",
+        "gloss": "an eighth",
+        "gram": "ord. m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कल्क यानी लुगदी का भाग मिलाना चाहिए: चौथा, छठा, आठवाँ।",
+  "english": "One should add the portion of the kalka (paste): a fourth, a sixth, an eighth.",
+  "text_flags": [],
+  "notes": "The whole of which these fractions are a part is not stated. Since the previous unit lists three liquids 'in order' (kramāt) and this unit lists three fractions, the two lists may go together in the order given; the text does not say so.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.57"
+  ],
+  "lines_deva": [
+   "कल्कस्य योजयेदंशं चतुर्थं षष्ठमष्टमं"
+  ],
+  "lines_iast": [
+   "kalkasya yojayedaṃśaṃ caturthaṃ ṣaṣṭhamaṣṭamaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṃcaprabhṛti",
+      "words": [
+       {
+        "w": "pañca-prabhṛti",
+        "gloss": "five; onward",
+        "gram": "'five onward' (prabhṛti 'beginning with'); adjective of drava or adverbial"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravaṃ",
+      "words": [
+       {
+        "w": "dravam",
+        "gloss": "liquid",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthaksnehasamamevāvapet",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "sneha-samam",
+        "gloss": "equal to the sneha",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "āvapet",
+        "gloss": "should add",
+        "gram": "3 sg. opt. ā-√vap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाँच से आगे, द्रव को अलग से, स्नेह के बराबर ही डालना चाहिए।",
+  "english": "But from five onward, one should add the liquid separately, just equal to the sneha.",
+  "text_flags": [],
+  "notes": "What the 'five' are (liquids, or other things counted) is not stated. 'pṛthak' could also go with 'snehasama' (separately equal to the sneha); the sense is little changed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.58"
+  ],
+  "lines_deva": [
+   "पंचप्रभृति तु द्रवं पृथक्स्नेहसममेवावपेत्"
+  ],
+  "lines_iast": [
+   "paṃcaprabhṛti tu dravaṃ pṛthaksnehasamamevāvapet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anirūpitakalpaṃ",
+      "words": [
+       {
+        "w": "anirūpita-kalpam",
+        "gloss": "not specified; preparation (kalpa)",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "drug",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalkīkuryāt",
+      "words": [
+       {
+        "w": "kalkī-kuryāt",
+        "gloss": "should make into kalka (paste)",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस औषध का कल्प यानी तैयार करने का प्रकार न बताया गया हो, उसे कल्क यानी लुगदी बनाना चाहिए।",
+  "english": "A drug whose kalpa (manner of preparation) is not specified, one should make into kalka (paste).",
+  "text_flags": [],
+  "notes": "'kalpa' is read here as the form of preparation intended for the drug.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.59"
+  ],
+  "lines_deva": [
+   "अनिरूपितकल्पं भेषजं कल्कीकुर्यात्"
+  ],
+  "lines_iast": [
+   "anirūpitakalpaṃ bheṣajaṃ kalkīkuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athaikadhyaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "ekadhyam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratisaṃsṛjyādhiśritya",
+      "words": [
+       {
+        "w": "pratisaṃsṛjya",
+        "gloss": "having mixed together",
+        "gram": "abs. prati-saṃ-√sṛj"
+       },
+       {
+        "w": "adhiśritya",
+        "gloss": "having put on (the fire)",
+        "gram": "abs. adhi-√śri"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niryūhavatsādhayet",
+      "words": [
+       {
+        "w": "niryūha-vat",
+        "gloss": "like a decoction (niryūha)",
+        "gram": "ind."
+       },
+       {
+        "w": "sādhayet",
+        "gloss": "should prepare",
+        "gram": "3 sg. opt. caus. √sādh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब एक साथ मिलाकर और चढ़ाकर निर्यूह यानी काढ़े की तरह तैयार करना चाहिए।",
+  "english": "Then, having mixed (them) together and put (it) on (the fire), one should prepare (it) like a decoction (niryūha).",
+  "text_flags": [],
+  "notes": "The objects are not stated; the drug of unit 59 and the sneha are the natural ones but the text does not name them.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.60"
+  ],
+  "lines_deva": [
+   "अथैकध्यं प्रतिसंसृज्याधिश्रित्य च निर्यूहवत्साधयेत्"
+  ],
+  "lines_iast": [
+   "athaikadhyaṃ pratisaṃsṛjyādhiśritya ca niryūhavatsādhayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadāviramati",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "viramati",
+        "gloss": "ceases",
+        "gram": "3 sg. pres. vi-√ram"
+       }
+      ]
+     },
+     {
+      "src": "śabdaḥ",
+      "words": [
+       {
+        "w": "śabdaḥ",
+        "gloss": "sound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasādamāpyate",
+      "words": [
+       {
+        "w": "prasādam",
+        "gloss": "clarity",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āpyate",
+        "gloss": "is reached",
+        "gram": "3 sg. pass. ā-√āp"
+       }
+      ]
+     },
+     {
+      "src": "sneho",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "sneha (fat)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvavarṇagaṃdharasopapattirbhaiṣajyamaṃgulībhyāṃ",
+      "words": [
+       {
+        "w": "yathā-sva-varṇa-gandha-rasa-upapattiḥ",
+        "gloss": "as proper to itself; colour; smell; taste; attainment",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "bhaiṣajyam",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅgulībhyām",
+        "gloss": "with two fingers",
+        "gram": "f. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "gṛhyamāṇamanatimṛddnatidāruṇamanaṃguligrāhitā",
+      "words": [
+       {
+        "w": "gṛhyamāṇam",
+        "gloss": "being held",
+        "gram": "pres. pass. part. √grah, n. nom. sg."
+       },
+       {
+        "w": "anati-mṛdu",
+        "gloss": "not too soft",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anati-dāruṇam",
+        "gloss": "not too hard",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anaṅguli-grāhitā",
+        "gloss": "not sticking to the fingers",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "should be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālastasyāvatāraṇāya",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "avatāraṇāya",
+        "gloss": "for taking down",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ, जब ध्वनि बन्द हो जाए, स्नेह स्वच्छता को प्राप्त हो, अपने-अपने रंग, गन्ध और रस की प्राप्ति हो, और औषध को दो अंगुलियों से पकड़ने पर वह अनुमानित पाठ के अनुसार न अधिक मृदु और न अधिक कठोर हो तथा अंगुलियों से चिपके नहीं, तब वह उसे उतारने का समय है।",
+  "english": "There, when the sound stops, the sneha reaches clarity, there is the attainment of its own proper colour, smell and taste, and the medicine, when held between two fingers, is neither too soft nor too hard and does not stick to the fingers (on an emended reading, see notes): that is the time for taking it down.",
+  "text_flags": [
+   {
+    "src": "gṛhyamāṇamanatimṛddnatidāruṇamanaṃguligrāhitā",
+    "suggest": "gṛhyamāṇamanatimṛdvanatidāruṇamanaṅguligrāhitā",
+    "why": "possible: 'mṛddnati' is not a word; 'mṛdv-anati-' (not too soft, not too hard) fits the sense and the two printed d-letters may be a misread 'dv'"
+   }
+  ],
+  "notes": "The 'sound' is not further defined. 'āpyate' is a passive form with an accusative ('prasādam'); read as 'the sneha reaches clarity'. 'bhaiṣajyam' is the medicine (not further defined; the kalka is the natural referent), the object judged by the finger test. The reading 'neither too soft nor too hard' rests on the emendation in text_flags. Orthographic note: 'anaṅguli-' is written with anusvara in the print.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.61"
+  ],
+  "lines_deva": [
+   "तत्र यदाविरमति शब्दः प्रसादमाप्यते स्नेहो यथास्ववर्णगंधरसोपपत्तिर्भैषज्यमंगुलीभ्यां गृह्यमाणमनतिमृद्द्नतिदारुणमनंगुलिग्राहिता च स्यात् स कालस्तस्यावतारणाय"
+  ],
+  "lines_iast": [
+   "tatra yadāviramati śabdaḥ prasādamāpyate sneho yathāsvavarṇagaṃdharasopapattirbhaiṣajyamaṃgulībhyāṃ gṛhyamāṇamanatimṛddnatidāruṇamanaṃguligrāhitā ca syāt sa kālastasyāvatāraṇāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "Moreover.",
+  "text_flags": [],
+  "notes": "Formula introducing a further rule (a verse follows in the next units).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.62"
+  ],
+  "lines_deva": [
+   "अपिच"
+  ],
+  "lines_iast": [
+   "apica"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ghṛtasya",
+      "words": [
+       {
+        "w": "ghṛtasya",
+        "gloss": "ghṛta (ghee)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "phenopaśamastailasya",
+      "words": [
+       {
+        "w": "phena-upaśamaḥ",
+        "gloss": "froth; subsiding",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tailasya",
+        "gloss": "taila (oil)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadudbhavaḥ",
+      "words": [
+       {
+        "w": "tat-udbhavaḥ",
+        "gloss": "that; arising",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घृत यानी घी में झाग का शान्त होना; तैल यानी तेल में, फिर, उसका उत्पन्न होना।",
+  "english": "Of ghṛta (ghee), the subsiding of the froth; of taila (oil), however, the arising of that.",
+  "text_flags": [],
+  "notes": "Elliptical: the sign for taking the sneha down is understood from the context (previous unit); no verb is supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.63"
+  ],
+  "lines_deva": [
+   "घृतस्य फेनोपशमस्तैलस्य तु तदुद्भवः"
+  ],
+  "lines_iast": [
+   "ghṛtasya phenopaśamastailasya tu tadudbhavaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lehasya",
+      "words": [
+       {
+        "w": "lehasya",
+        "gloss": "leha (an electuary, a licked preparation)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṃtumattāpsu",
+      "words": [
+       {
+        "w": "tantumattā",
+        "gloss": "having threads",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in water",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "majjanaṃ",
+      "words": [
+       {
+        "w": "majjanam",
+        "gloss": "sinking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saraṇaṃ",
+      "words": [
+       {
+        "w": "saraṇam",
+        "gloss": "spreading",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लेह यानी चाटने की औषध का तन्तुओं से युक्त होना, जल में डूबना और फैलना नहीं।",
+  "english": "Of a leha (electuary), the having of threads, sinking in water, and no spreading.",
+  "text_flags": [],
+  "notes": "Elliptical: the sign of readiness is understood from the context; no verb is supplied. 'apsu' is taken with 'majjanam'; 'no spreading' is not said to be on the water, and the translation does not add it.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.64"
+  ],
+  "lines_deva": [
+   "लेहस्य तंतुमत्ताप्सु मज्जनं सरणं न च"
+  ],
+  "lines_iast": [
+   "lehasya taṃtumattāpsu majjanaṃ saraṇaṃ na ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāvatārya",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "avatārya",
+        "gloss": "having taken down",
+        "gram": "abs. caus. ava-√tṝ"
+       }
+      ]
+     },
+     {
+      "src": "śītībhūtamahatena",
+      "words": [
+       {
+        "w": "śītībhūtam",
+        "gloss": "having become cool",
+        "gram": "ppp. n. acc. sg."
+       },
+       {
+        "w": "ahatena",
+        "gloss": "new, unused (ahata)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsasā",
+      "words": [
+       {
+        "w": "vāsasā",
+        "gloss": "cloth",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripūya",
+      "words": [
+       {
+        "w": "paripūya",
+        "gloss": "having strained",
+        "gram": "abs. pari-√pū"
+       }
+      ]
+     },
+     {
+      "src": "śucau",
+      "words": [
+       {
+        "w": "śucau",
+        "gloss": "clean",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhe",
+      "words": [
+       {
+        "w": "dṛḍhe",
+        "gloss": "firm",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalaśe",
+      "words": [
+       {
+        "w": "kalaśe",
+        "gloss": "jar (kalaśa)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāsicyāpidhānena",
+      "words": [
+       {
+        "w": "samāsicya",
+        "gloss": "having poured in",
+        "gram": "abs. sam-ā-√sic"
+       },
+       {
+        "w": "apidhānena",
+        "gloss": "with a lid",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pidhāya",
+      "words": [
+       {
+        "w": "pidhāya",
+        "gloss": "having closed",
+        "gram": "abs. api-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "śuklena",
+      "words": [
+       {
+        "w": "śuklena",
+        "gloss": "white",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vastrapaṭṭenāvacchādya",
+      "words": [
+       {
+        "w": "vastra-paṭṭena",
+        "gloss": "cloth; strip",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "avacchādya",
+        "gloss": "having covered",
+        "gram": "abs. ava-√chad"
+       }
+      ]
+     },
+     {
+      "src": "sūtreṇa",
+      "words": [
+       {
+        "w": "sūtreṇa",
+        "gloss": "with thread",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "subaddhamanugusaṃ",
+      "words": [
+       {
+        "w": "su-baddham",
+        "gloss": "well tied",
+        "gram": "ppp. n. acc. sg."
+       },
+       {
+        "w": "anuguptam",
+        "gloss": "protected (conjectural reading)",
+        "gram": "ppp. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śucau",
+      "words": [
+       {
+        "w": "śucau",
+        "gloss": "clean",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "susthitaṃ",
+      "words": [
+       {
+        "w": "su-sthitam",
+        "gloss": "well placed",
+        "gram": "ppp. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthāpayet",
+      "words": [
+       {
+        "w": "sthāpayet",
+        "gloss": "should keep",
+        "gram": "3 sg. opt. caus. √sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उतारकर, ठण्डा हो जाने पर, नए वस्त्र से छानकर, शुद्ध और दृढ़ कलश में उँडेलकर, ढक्कन से बन्द करके या सफेद वस्त्र की पट्टी से ढककर, सूत से भली-भाँति बँधा हुआ और सम्भवतः सुरक्षित, उसे शुद्ध स्थान पर भली प्रकार टिकाकर रखे।",
+  "english": "Then, having taken it down and (it) having become cool, having strained it through a new (ahata) cloth, having poured it into a clean, firm jar (kalaśa), having closed it with a lid or covered it with a white strip of cloth, well tied with thread and, on a conjectural reading, well protected, one should keep it well placed in a clean place.",
+  "text_flags": [
+   {
+    "src": "subaddhamanugusaṃ",
+    "suggest": "subaddhamanuguptaṃ",
+    "why": "possible: 'anugusaṃ' is not a word; 'anuguptam' (protected) fits, and a dropped 'pta' ligature printed as 'sa' is a likely scan error (the same pattern may explain 'vyāsā' in unit 96)"
+   }
+  ],
+  "notes": "The object of every action is not stated; it is the prepared sneha. The first 'vā' in the print sits after 'apidhānena' (lid), the second is separate: read as 'with a lid, or covered with a white cloth strip'. 'ahata' is taken as 'new, unused' (literally 'not struck'). 'anuguptam' is conjectural. The adjectives 'subaddham', 'anuguptam', 'susthitam' are read of the covered jar (or its contents).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.65"
+  ],
+  "lines_deva": [
+   "अथावतार्य शीतीभूतमहतेन वाससा परिपूय शुचौ दृढे कलशे समासिच्यापिधानेन वा पिधाय शुक्लेन वस्त्रपट्टेनावच्छाद्य सूत्रेण सुबद्धमनुगुसं शुचौ देशे सुस्थितं स्थापयेत्"
+  ],
+  "lines_iast": [
+   "athāvatārya śītībhūtamahatena vāsasā paripūya śucau dṛḍhe kalaśe samāsicyāpidhānena vā pidhāya śuklena vastrapaṭṭenāvacchādya sūtreṇa subaddhamanugusaṃ śucau deśe susthitaṃ sthāpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parimāṇaṃ",
+      "words": [
+       {
+        "w": "parimāṇam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍaṃśyo",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "numeral"
+       },
+       {
+        "w": "aṃśyaḥ",
+        "gloss": "aṃśya (a minute unit; not defined in the text)",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "marīciḥ",
+      "words": [
+       {
+        "w": "marīciḥ",
+        "gloss": "marīci (a minute unit of measure)",
+        "gram": "nom. sg. (f.? cf. tāḥ in unit 67)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिमाण फिर: छह अंश्य एक मरीचि हैं।",
+  "english": "As for measure, again: six aṃśya are a marīci (a minute unit of measure).",
+  "text_flags": [],
+  "notes": "The copula is understood. 'aṃśya' and 'marīci' are tiny units of measure; the text does not define them beyond this equation, and 'marīci' is not here the pepper (maricha). The form 'aṃśyaḥ' is as printed and the word is not otherwise known to me, so its exact stem is uncertain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.66"
+  ],
+  "lines_deva": [
+   "परिमाणं पुनः षडंश्यो मरीचिः"
+  ],
+  "lines_iast": [
+   "parimāṇaṃ punaḥ ṣaḍaṃśyo marīciḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāḥ",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "sarṣapaḥ",
+      "words": [
+       {
+        "w": "sarṣapaḥ",
+        "gloss": "sarṣapa (mustard seed, Brassica species; standard; here a unit of measure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे छह एक सर्षप यानी सरसों हैं।",
+  "english": "Those six are a sarṣapa (mustard seed; here a unit of measure).",
+  "text_flags": [],
+  "notes": "Copula understood. 'tāḥ' is feminine plural and refers back to the marīci of the previous unit (so marīci is treated as feminine here).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.67"
+  ],
+  "lines_deva": [
+   "ताः षट् सर्षपः"
+  ],
+  "lines_iast": [
+   "tāḥ ṣaṭ sarṣapaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'ṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "taṃḍulaḥ",
+      "words": [
+       {
+        "w": "taṇḍulaḥ",
+        "gloss": "taṇḍula (rice grain; Oryza sativa, standard; here a unit of measure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे आठ एक तण्डुल यानी चावल हैं।",
+  "english": "Those eight are a taṇḍula (rice grain; here a unit of measure).",
+  "text_flags": [],
+  "notes": "Copula understood; 'te' (masculine) refers to the sarṣapas of the previous unit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.68"
+  ],
+  "lines_deva": [
+   "ते ऽष्टौ तंडुलः"
+  ],
+  "lines_iast": [
+   "te 'ṣṭau taṃḍulaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tau",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dhānyamāṣaḥ",
+      "words": [
+       {
+        "w": "dhānya-māṣaḥ",
+        "gloss": "dhānyamāṣa (a small unit of weight; lit. 'grain-māṣa')",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे दो एक धान्यमाष हैं।",
+  "english": "Those two are a dhānyamāṣa (a small unit of weight; literally 'grain-māṣa').",
+  "text_flags": [],
+  "notes": "Copula understood; the two taṇḍulas of the previous unit. 'māṣa' is also the name of a bean; the text uses it here as part of a unit name only.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.69"
+  ],
+  "lines_deva": [
+   "तौ धान्यमाषः"
+  ],
+  "lines_iast": [
+   "tau dhānyamāṣaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tau",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "yavaḥ",
+      "words": [
+       {
+        "w": "yavaḥ",
+        "gloss": "yava (barley, Hordeum vulgare; standard; here a unit of measure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे दो एक यव हैं।",
+  "english": "Those two are a yava (barley; here a unit of measure).",
+  "text_flags": [],
+  "notes": "Copula understood; the two dhānyamāṣas of the previous unit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.70"
+  ],
+  "lines_deva": [
+   "तौ यवः"
+  ],
+  "lines_iast": [
+   "tau yavaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ataḥ",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "after this",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "caturguṇavṛddhyā'ṃḍikāmaṣākaṣāṇakarṣapalakuḍavaprasthāḍhakadroṇavahāḥ",
+      "words": [
+       {
+        "w": "catur-guṇa-vṛddhyā",
+        "gloss": "four; fold; by increase",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "aṇḍikā-māṣaka-śāṇa-karṣa-pala-kuḍava-prastha-āḍhaka-droṇa-vahāḥ",
+        "gloss": "aṇḍikā, māṣaka, śāṇa, karṣa, pala, kuḍava, prastha, āḍhaka, droṇa, vaha (named units of weight or volume)",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalpyaṃte",
+      "words": [
+       {
+        "w": "kalpyante",
+        "gloss": "are reckoned",
+        "gram": "3 pl. pass. √kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके बाद चार गुना वृद्धि से अण्डिका, अनुमानित पाठ के अनुसार माषक, शाण, कर्ष, पल, कुडव, प्रस्थ, आढक, द्रोण और वह माने जाते हैं।",
+  "english": "After this, by fourfold increase, the aṇḍikā, māṣaka and śāṇa (on a conjectural reading), karṣa, pala, kuḍava, prastha, āḍhaka, droṇa and vaha are reckoned.",
+  "text_flags": [
+   {
+    "src": "caturguṇavṛddhyā'ṃḍikāmaṣākaṣāṇakarṣapalakuḍavaprasthāḍhakadroṇavahāḥ",
+    "suggest": "…aṇḍikāmāṣakaśāṇakarṣa…",
+    "why": "possible: 'maṣākaṣāṇa' is not a word; 'māṣaka-śāṇa' (both named in units 73 and 74) fits; the order of the units rises by fourfold steps"
+   }
+  ],
+  "notes": "The names are the list of units; the text does not say here which is bigger than which except 'by fourfold increase'. 'vaha' may be read 'vāha' (a cartload measure); the print has the short vowel. 'māṣaka-śāṇa' is a conjectural restoration of the printed 'maṣākaṣāṇa'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.71"
+  ],
+  "lines_deva": [
+   "अतः परं चतुर्गुणवृद्ध्याऽंडिकामषाकषाणकर्षपलकुडवप्रस्थाढकद्रोणवहाः कल्प्यंते"
+  ],
+  "lines_iast": [
+   "ataḥ paraṃ caturguṇavṛddhyā'ṃḍikāmaṣākaṣāṇakarṣapalakuḍavaprasthāḍhakadroṇavahāḥ kalpyaṃte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dharaṇaṃ",
+      "words": [
+       {
+        "w": "dharaṇam",
+        "gloss": "dharaṇa (a unit of weight)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paladaśabhāgaḥ",
+      "words": [
+       {
+        "w": "pala-daśa-bhāgaḥ",
+        "gloss": "pala; tenth; part",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धरण फिर पल का दसवाँ भाग है।",
+  "english": "The dharaṇa, however, is a tenth part of a pala.",
+  "text_flags": [],
+  "notes": "Read as 'a tenth part of a pala'. The compound could in principle be read 'ten parts', but 'tenth part' is the plainer reading; other texts may give a different value for dharaṇa, which is not used here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.72"
+  ],
+  "lines_deva": [
+   "धरणं तु पलदशभागः"
+  ],
+  "lines_iast": [
+   "dharaṇaṃ tu paladaśabhāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māṣakasyaparyāyo",
+      "words": [
+       {
+        "w": "māṣakasya",
+        "gloss": "of the māṣaka (a unit of weight)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "paryāyaḥ",
+        "gloss": "synonym",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hemo",
+      "words": [
+       {
+        "w": "hemaḥ",
+        "gloss": "hema (a name of the unit)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhānakaśca",
+      "words": [
+       {
+        "w": "dhānakaḥ",
+        "gloss": "dhānaka (a name of the unit)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "माषक के पर्याय हेम और धानक हैं।",
+  "english": "The synonyms of the māṣaka (a unit of weight) are hema and dhānaka.",
+  "text_flags": [],
+  "notes": "'paryāya' is singular in the print; read of both names.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.73"
+  ],
+  "lines_deva": [
+   "माषकस्यपर्यायो हेमो धानकश्च"
+  ],
+  "lines_iast": [
+   "māṣakasyaparyāyo hemo dhānakaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śāṇadvayasya",
+      "words": [
+       {
+        "w": "śāṇa-dvayasya",
+        "gloss": "of two śāṇas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣudraḥ",
+      "words": [
+       {
+        "w": "kṣudraḥ",
+        "gloss": "kṣudra (a name of the unit)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kolo",
+      "words": [
+       {
+        "w": "kolaḥ",
+        "gloss": "kola (a name of the unit; also the name of the jujube fruit)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaṭakaśca",
+      "words": [
+       {
+        "w": "vaṭakaḥ",
+        "gloss": "vaṭaka (a name of the unit)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो शाण के: क्षुद्र, कोल और वटक।",
+  "english": "Of two śāṇas: kṣudra, kola and vaṭaka.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73; no verb is supplied. 'kola' also names a fruit (jujube) and 'vaṭaka' a small cake or pellet; here they are unit names only.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.74"
+  ],
+  "lines_deva": [
+   "शाणद्वयस्य क्षुद्रः कोलो वटकश्च"
+  ],
+  "lines_iast": [
+   "śāṇadvayasya kṣudraḥ kolo vaṭakaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karṣasya",
+      "words": [
+       {
+        "w": "karṣasya",
+        "gloss": "of the karṣa (a unit of weight)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "suvarṇamakṣaṃ",
+      "words": [
+       {
+        "w": "suvarṇam",
+        "gloss": "suvarṇa (a name of the unit; lit. 'gold')",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "akṣam",
+        "gloss": "akṣa (a name of the unit)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "picurbiḍālapadakaṃ",
+      "words": [
+       {
+        "w": "picuḥ",
+        "gloss": "picu (a name of the unit; lit. 'cotton')",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "biḍāla-padakam",
+        "gloss": "cat; foot (biḍālapadaka, a name of the unit)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇitalaṃ",
+      "words": [
+       {
+        "w": "pāṇi-talam",
+        "gloss": "hand; palm (pāṇitala, a name of the unit)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiṃdukaṃ",
+      "words": [
+       {
+        "w": "tindukam",
+        "gloss": "tinduka (a name of the unit)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kavalagrahaḥ",
+      "words": [
+       {
+        "w": "kavala-grahaḥ",
+        "gloss": "mouthful; grasp (kavalagraha, a name of the unit)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍaśikā",
+      "words": [
+       {
+        "w": "ṣoḍaśikā",
+        "gloss": "ṣoḍaśikā (a name of the unit; lit. 'sixteenth')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कर्ष के: सुवर्ण, अक्ष, पिचु, बिडालपदक, पाणितल, तिन्दुक, कवलग्रह और षोडशिका।",
+  "english": "Of the karṣa: suvarṇa, akṣa, picu, biḍālapadaka (cat's-foot), pāṇitala (palm of the hand), tinduka, kavalagraha (mouthful-grasp) and ṣoḍaśikā.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73. Several of these words also name plants or other things (suvarṇa gold, akṣa, picu cotton, tinduka a fruit tree); here they are unit names only and no plant is claimed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.75"
+  ],
+  "lines_deva": [
+   "कर्षस्य सुवर्णमक्षं पिचुर्बिडालपदकं पाणितलं तिंदुकं कवलग्रहः षोडशिका च"
+  ],
+  "lines_iast": [
+   "karṣasya suvarṇamakṣaṃ picurbiḍālapadakaṃ pāṇitalaṃ tiṃdukaṃ kavalagrahaḥ ṣoḍaśikā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karṣadvayasya",
+      "words": [
+       {
+        "w": "karṣa-dvayasya",
+        "gloss": "of two karṣas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuktiraṣṭamikā",
+      "words": [
+       {
+        "w": "śuktiḥ",
+        "gloss": "śukti (a name of the unit; lit. 'shell')",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aṣṭamikā",
+        "gloss": "aṣṭamikā (a name of the unit)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो कर्ष के: शुक्ति और अष्टमिका।",
+  "english": "Of two karṣas: śukti and aṣṭamikā.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.76"
+  ],
+  "lines_deva": [
+   "कर्षद्वयस्य शुक्तिरष्टमिका च"
+  ],
+  "lines_iast": [
+   "karṣadvayasya śuktiraṣṭamikā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "palasya",
+      "words": [
+       {
+        "w": "palasya",
+        "gloss": "of the pala (a unit of weight)",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "muṣṭiḥ",
+      "words": [
+       {
+        "w": "muṣṭiḥ",
+        "gloss": "muṣṭi (a name of the unit; lit. 'fist')",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakuṃcaścaturthikā",
+      "words": [
+       {
+        "w": "prakuñcaḥ",
+        "gloss": "prakuñca (a name of the unit)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "caturthikā",
+        "gloss": "caturthikā (a name of the unit)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bilvamātraṃ",
+      "words": [
+       {
+        "w": "bilva-mātram",
+        "gloss": "bilva (bael, Aegle marmelos; standard); extent",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पल के: मुष्टि, प्रकुञ्च, चतुर्थिका और बिल्व यानी बेल के बराबर।",
+  "english": "Of the pala: muṣṭi (fist), prakuñca, caturthikā and bilvamātra (the extent of a bilva, bael).",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73. 'bilva-mātra' is read 'as much as a bilva'; the text does not say 'fruit'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.77"
+  ],
+  "lines_deva": [
+   "पलस्य मुष्टिः प्रकुंचश्चतुर्थिका बिल्वमात्रं च"
+  ],
+  "lines_iast": [
+   "palasya muṣṭiḥ prakuṃcaścaturthikā bilvamātraṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paladvayasya",
+      "words": [
+       {
+        "w": "pala-dvayasya",
+        "gloss": "of two palas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasṛto'ṣṭamānaṃ",
+      "words": [
+       {
+        "w": "prasṛtaḥ",
+        "gloss": "prasṛta (a name of the unit)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aṣṭamānam",
+        "gloss": "aṣṭamāna (a name of the unit; lit. 'eight-measure')",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो पल के: प्रसृत और अष्टमान।",
+  "english": "Of two palas: prasṛta and aṣṭamāna.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.78"
+  ],
+  "lines_deva": [
+   "पलद्वयस्य प्रसृतोऽष्टमानं च"
+  ],
+  "lines_iast": [
+   "paladvayasya prasṛto'ṣṭamānaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuḍavasyāṃ",
+      "words": [
+       {
+        "w": "kuḍavasya",
+        "gloss": "of the kuḍava (a unit of volume); the printed 'kuḍavasyāṃ' ends in a stray anusvara",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaliḥ",
+      "words": [
+       {
+        "w": "añjaliḥ",
+        "gloss": "añjali (a name of the unit; lit. 'cupped hands'); the printed 'jaliḥ' is read as 'añjaliḥ'",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुडव का: अञ्जलि।",
+  "english": "Of the kuḍava: añjali.",
+  "text_flags": [
+   {
+    "src": "kuḍavasyāṃ jaliḥ",
+    "suggest": "kuḍavasyāñjaliḥ",
+    "why": "possible (near certain): 'jaliḥ' is not a word and 'kuḍavasyāṃ' ends in a stray anusvara; 'kuḍavasya añjaliḥ' (añjali, a cupped-hand measure) is the evident reading"
+   }
+  ],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73. The word 'añjali' is restored from the printed 'āṃ jaliḥ'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.79"
+  ],
+  "lines_deva": [
+   "कुडवस्यां जलिः"
+  ],
+  "lines_iast": [
+   "kuḍavasyāṃ jaliḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuḍavadvayasya",
+      "words": [
+       {
+        "w": "kuḍava-dvayasya",
+        "gloss": "of two kuḍavas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānikā",
+      "words": [
+       {
+        "w": "mānikā",
+        "gloss": "mānikā (a name of the unit)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो कुडव का: मानिका।",
+  "english": "Of two kuḍavas: mānikā.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.80"
+  ],
+  "lines_deva": [
+   "कुडवद्वयस्य मानिका"
+  ],
+  "lines_iast": [
+   "kuḍavadvayasya mānikā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āḍhakasya",
+      "words": [
+       {
+        "w": "āḍhakasya",
+        "gloss": "of the āḍhaka (a unit of volume)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pātraṃ",
+      "words": [
+       {
+        "w": "pātram",
+        "gloss": "pātra (a name of the unit; lit. 'vessel')",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃsaśca",
+      "words": [
+       {
+        "w": "kaṃsaḥ",
+        "gloss": "kaṃsa (a name of the unit; lit. 'metal cup')",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आढक के: पात्र और कंस।",
+  "english": "Of the āḍhaka: pātra and kaṃsa.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.81"
+  ],
+  "lines_deva": [
+   "आढकस्य पात्रं कंसश्च"
+  ],
+  "lines_iast": [
+   "āḍhakasya pātraṃ kaṃsaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "droṇasya",
+      "words": [
+       {
+        "w": "droṇasya",
+        "gloss": "of the droṇa (a unit of volume)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nalvaṇārmaṇonmānaghaṭakuṃbhakalaśāḥ",
+      "words": [
+       {
+        "w": "nalvaṇa-armaṇa-unmāna-ghaṭa-kumbha-kalaśāḥ",
+        "gloss": "nalvaṇa, armaṇa, unmāna, ghaṭa, kumbha, kalaśa (names of the unit; ghaṭa, kumbha and kalaśa also mean 'pot')",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्रोण के: नल्वण, अर्मण, उन्मान, घट, कुम्भ और कलश।",
+  "english": "Of the droṇa: nalvaṇa, armaṇa, unmāna, ghaṭa, kumbha and kalaśa.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73. 'armaṇa' is read as printed; I could not verify the word, so it is taken as a unit name without further gloss.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.82"
+  ],
+  "lines_deva": [
+   "द्रोणस्य नल्वणार्मणोन्मानघटकुंभकलशाः"
+  ],
+  "lines_iast": [
+   "droṇasya nalvaṇārmaṇonmānaghaṭakuṃbhakalaśāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "droṇadvayasya",
+      "words": [
+       {
+        "w": "droṇa-dvayasya",
+        "gloss": "of two droṇas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūrpaḥ",
+      "words": [
+       {
+        "w": "śūrpaḥ",
+        "gloss": "śūrpa (a name of the unit; lit. 'winnowing basket')",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो द्रोण का: शूर्प।",
+  "english": "Of two droṇas: śūrpa.",
+  "text_flags": [],
+  "notes": "Elliptical: 'paryāya' (synonyms) is understood from unit 73.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.83"
+  ],
+  "lines_deva": [
+   "द्रोणद्वयस्य शूर्पः"
+  ],
+  "lines_iast": [
+   "droṇadvayasya śūrpaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulā",
+      "words": [
+       {
+        "w": "tulā",
+        "gloss": "tulā (a unit of weight; lit. 'balance')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥpalaśataṃ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "pala-śatam",
+        "gloss": "pala; hundred",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुला फिर सौ पल है।",
+  "english": "The tulā, again, is a hundred palas.",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.84"
+  ],
+  "lines_deva": [
+   "तुला पुनःपलशतं"
+  ],
+  "lines_iast": [
+   "tulā punaḥpalaśataṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatirbhāraiti",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "bhāraḥ",
+        "gloss": "bhāra (a unit of weight; lit. 'load')",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे बीस एक भार हैं।",
+  "english": "Twenty of those are one bhāra (a load).",
+  "text_flags": [],
+  "notes": "Copula understood; 'tāni' (neuter plural) is read as the hundred-pala units of the previous unit. Closing 'iti' is left untranslated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.85"
+  ],
+  "lines_deva": [
+   "तानि विंशतिर्भारइति"
+  ],
+  "lines_iast": [
+   "tāni viṃśatirbhāraiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "double danda mark opening the line",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में यह है।",
+  "english": "And here there is this:",
+  "text_flags": [],
+  "notes": "Lead-in formula 'bhavati cātra' ('and here there is...'); what follows is understood to be the verse of the next units. GROUPING: this unit is a formula introducing the following verse, not a verse itself.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.86"
+  ],
+  "lines_deva": [
+   "॥ भवति चात्र"
+  ],
+  "lines_iast": [
+   "|| bhavati cātra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuṣkameye",
+      "words": [
+       {
+        "w": "śuṣka-meye",
+        "gloss": "dry; to be measured",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvidaṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānaṃ",
+      "words": [
+       {
+        "w": "mānam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dviguṇaṃ",
+      "words": [
+       {
+        "w": "dvi-guṇam",
+        "gloss": "double",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravārdrayoḥ",
+      "words": [
+       {
+        "w": "drava-ārdrayoḥ",
+        "gloss": "liquid; moist, fresh (ārdra)",
+        "gram": "dvandva, n. loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मापे जाने वाले सूखे में यह माप है; द्रव और आर्द्र में दुगुना।",
+  "english": "In what is to be measured dry, this is the measure; but double in the liquid and the moist (ones).",
+  "text_flags": [],
+  "notes": "Copula understood. 'ārdra' is moist or fresh (not dried). 'dravārdrayoḥ' is a locative dual: liquid things and moist things.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.87"
+  ],
+  "lines_deva": [
+   "शुष्कमेये त्विदं मानं द्विगुणं तु द्रवार्द्रयोः"
+  ],
+  "lines_iast": [
+   "śuṣkameye tvidaṃ mānaṃ dviguṇaṃ tu dravārdrayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "peṣaṇāloḍane",
+      "words": [
+       {
+        "w": "peṣaṇa-āloḍane",
+        "gloss": "grinding; stirring",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāri",
+      "words": [
+       {
+        "w": "vāri",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehapāke",
+      "words": [
+       {
+        "w": "sneha-pāke",
+        "gloss": "sneha-cooking",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and, also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdrave",
+      "words": [
+       {
+        "w": "nirdrave",
+        "gloss": "without liquid",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीसने और घोलने में जल, और बिना द्रव वाले स्नेहपाक में भी।",
+  "english": "Water for grinding and stirring, and also in sneha-cooking that is without liquid.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb here; 'water' is carried over to the sneha-cooking by 'ca' (this is how the sentence reads, but the text does not say the sentence continues). 'nirdrava' means that no other liquid is specified or present.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.88"
+  ],
+  "lines_deva": [
+   "पेषणालोडने वारि स्नेहपाके च निर्द्रवे"
+  ],
+  "lines_iast": [
+   "peṣaṇāloḍane vāri snehapāke ca nirdrave"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalpayetsadṛśān",
+      "words": [
+       {
+        "w": "kalpayet",
+        "gloss": "should make",
+        "gram": "3 sg. opt. caus. √kḷp"
+       },
+       {
+        "w": "sadṛśān",
+        "gloss": "equal",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāgānpramāṇaṃ",
+      "words": [
+       {
+        "w": "bhāgān",
+        "gloss": "portions",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "pramāṇam",
+        "gloss": "quantity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "noditaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "uditam",
+        "gloss": "stated",
+        "gram": "ppp. √vad, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ प्रमाण न कहा गया हो, वहाँ बराबर भाग बनाने चाहिए।",
+  "english": "One should make equal portions where the quantity is not stated.",
+  "text_flags": [],
+  "notes": "The sentence appears to continue from the previous unit (vāri 'water' may be the object of kalpayet, 'in equal portions'); the two units are kept separate and no verse pairing is claimed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.89"
+  ],
+  "lines_deva": [
+   "कल्पयेत्सदृशान् भागान्प्रमाणं यत्र नोदितं"
+  ],
+  "lines_iast": [
+   "kalpayetsadṛśān bhāgānpramāṇaṃ yatra noditaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anirdiṣṭaprasiddheṣu",
+      "words": [
+       {
+        "w": "anirdiṣṭa-prasiddheṣu",
+        "gloss": "not stated; well known",
+        "gram": "two adjectives in compound (type uncertain), loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūlaṃ",
+      "words": [
+       {
+        "w": "mūlam",
+        "gloss": "root",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāhyaṃ",
+      "words": [
+       {
+        "w": "grāhyam",
+        "gloss": "is to be taken",
+        "gram": "gdv. √grah, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvagādiṣu",
+      "words": [
+       {
+        "w": "tvak-ādiṣu",
+        "gloss": "bark; and so on",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनिर्दिष्ट और प्रसिद्ध में, त्वचा आदि में, मूल ग्रहण करना चाहिए।",
+  "english": "In the unspecified and well-known (ones), among bark and the rest, the root is to be taken.",
+  "text_flags": [
+   {
+    "src": "anirdiṣṭaprasiddheṣu",
+    "suggest": "anirdiṣṭāprasiddheṣu",
+    "why": "possible: the compound as printed (unspecified, well known) is hard to understand; 'anirdiṣṭa-aprasiddha' (not stated and not well known) would give a plain sense, but the print does not show the lost 'a'"
+   }
+  ],
+  "notes": "Doubtful. The sense is probably: where the part to be used is not stated (and, on the emended reading, not well known), the root is to be taken, as against bark and so on. The translation follows the printed compound, so it is not firm. 'tvagādiṣu' is read as 'among bark and the rest' (the other parts of a plant).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.08.90"
+  ],
+  "lines_deva": [
+   "अनिर्दिष्टप्रसिद्धेषु मूलं ग्राह्यं त्वगादिषु"
+  ],
+  "lines_iast": [
+   "anirdiṣṭaprasiddheṣu mūlaṃ grāhyaṃ tvagādiṣu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehapākastridhā",
+      "words": [
+       {
+        "w": "sneha-pākaḥ",
+        "gloss": "sneha-cooking",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tridhā",
+        "gloss": "of three kinds",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maṃdaścikkaṇaḥ",
+      "words": [
+       {
+        "w": "mandaḥ",
+        "gloss": "manda (mild)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cikkaṇaḥ",
+        "gloss": "cikkaṇa (smooth, sticky)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharacikkaṇaḥ",
+      "words": [
+       {
+        "w": "khara-cikkaṇaḥ",
+        "gloss": "khara-cikkaṇa (hard-smooth)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेहपाक तीन प्रकार का है: मन्द, चिक्कण यानी चिकना और खर-चिक्कण।",
+  "english": "Sneha-cooking is of three kinds: manda (mild), cikkaṇa (smooth) and khara-cikkaṇa (hard-smooth).",
+  "text_flags": [],
+  "notes": "'khara-cikkaṇa' is taken as 'hard (and) smooth'; the exact sense of the compound is not defined in the text.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.91"
+  ],
+  "lines_deva": [
+   "स्नेहपाकस्त्रिधा मंदश्चिक्कणः खरचिक्कणः"
+  ],
+  "lines_iast": [
+   "snehapākastridhā maṃdaścikkaṇaḥ kharacikkaṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maṃdaḥ",
+      "words": [
+       {
+        "w": "mandaḥ",
+        "gloss": "manda (mild)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalkasame",
+      "words": [
+       {
+        "w": "kalka-same",
+        "gloss": "kalka (paste); like",
+        "gram": "bahuvrīhi, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṭṭe",
+      "words": [
+       {
+        "w": "kiṭṭe",
+        "gloss": "residue (kiṭṭa)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cikkaṇo",
+      "words": [
+       {
+        "w": "cikkaṇaḥ",
+        "gloss": "cikkaṇa (smooth)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madanopame",
+      "words": [
+       {
+        "w": "madana-upame",
+        "gloss": "madana (probably wax); like",
+        "gram": "bahuvrīhi, loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्द तब, जब किट्ट यानी तलछट कल्क के समान हो; चिक्कण तब, जब वह मदन यानी सम्भवतः मोम के समान हो।",
+  "english": "Manda when the residue (kiṭṭa) is like the kalka; cikkaṇa when it is like madana (probably wax).",
+  "text_flags": [],
+  "notes": "'madana' is taken as wax (probable); the word also names a tree (Randia) and the god of love, but wax fits the comparison of a smooth, firm residue. 'kiṭṭa' is the residue or sediment in the pan. 'it' in the second half is the same residue.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.92"
+  ],
+  "lines_deva": [
+   "मंदः कल्कसमे किट्टे चिक्कणो मदनोपमे"
+  ],
+  "lines_iast": [
+   "maṃdaḥ kalkasame kiṭṭe cikkaṇo madanopame"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kiṃcitsīdati",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "a little",
+        "gram": "ind."
+       },
+       {
+        "w": "sīdati",
+        "gloss": "sinks",
+        "gram": "3 sg. pres. √sad (or loc. pres. part.)"
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇe",
+      "words": [
+       {
+        "w": "kṛṣṇe",
+        "gloss": "black",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varttamāne",
+      "words": [
+       {
+        "w": "vartamāne",
+        "gloss": "being present",
+        "gram": "pres. part. √vṛt, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paścimaḥ",
+      "words": [
+       {
+        "w": "paścimaḥ",
+        "gloss": "the last",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्तिम वह, जब थोड़ा बैठता है और काला रहता है।",
+  "english": "The last one, however, when (it) sinks a little and is black.",
+  "text_flags": [],
+  "notes": "'The last' is the third kind, khara-cikkaṇa, of unit 91. The unstated subject of 'sīdati' is the residue of the previous unit. 'kṛṣṇe ca vartamāne' is read as a locative absolute ('and when it is black'). Orthography: 'varttamāne' of the print is normalised to 'vartamāne' in w (doubled -rtt- to -rt-).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.93"
+  ],
+  "lines_deva": [
+   "किंचित्सीदति कृष्णे च वर्त्तमाने तु पश्चिमः"
+  ],
+  "lines_iast": [
+   "kiṃcitsīdati kṛṣṇe ca varttamāne tu paścimaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dagdho'taūrdhvaṃ",
+      "words": [
+       {
+        "w": "dagdhaḥ",
+        "gloss": "burnt",
+        "gram": "ppp. √dah, m. nom. sg."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "from this",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "beyond",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niṣkāryaḥ",
+      "words": [
+       {
+        "w": "niṣkāryaḥ",
+        "gloss": "should be taken out",
+        "gram": "gdv. nis-√kṛ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syādāmāstvagnisādakṛt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "is",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "āmaḥ",
+        "gloss": "raw (underdone)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "agni-sāda-kṛt",
+        "gloss": "fire; sinking, weakening; maker",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके आगे जला हुआ होता है, उसे निकालना चाहिए; कच्चा तो अग्निसाद करने वाला यानी पाचन-अग्नि को क्षीण करने वाला होता है।",
+  "english": "Beyond this it is burnt (dagdha) and should be taken out; the raw (āma) one, however, causes agnisāda (the weakening of the digestive fire, agni).",
+  "text_flags": [
+   {
+    "src": "syādāmāstvagnisādakṛt",
+    "suggest": "syādāmastvagnisādakṛt",
+    "why": "possible: 'āmāḥ' (plural) does not fit the singular sense; 'āmaḥ' (raw) with a short vowel is expected"
+   }
+  ],
+  "notes": "'niṣkāryaḥ' is 'to be taken out', i.e. removed (from the fire or from use; the text does not say which). 'syāt' is read as supporting 'niṣkāryaḥ' ('should be taken out'). The subject throughout is the sneha being cooked, understood from the preceding units. 'agnisāda' is a standard term for the weakening of digestive fire.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.94"
+  ],
+  "lines_deva": [
+   "दग्धोऽतऊर्ध्वं निष्कार्यः स्यादामास्त्वग्निसादकृत्"
+  ],
+  "lines_iast": [
+   "dagdho'taūrdhvaṃ niṣkāryaḥ syādāmāstvagnisādakṛt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛdurnasye",
+      "words": [
+       {
+        "w": "mṛduḥ",
+        "gloss": "soft, mild",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nasye",
+        "gloss": "in nasya (nasal administration)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharo'bhyaṃge",
+      "words": [
+       {
+        "w": "kharaḥ",
+        "gloss": "hard",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhyaṅge",
+        "gloss": "in abhyaṅga (anointing, oil massage)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāne",
+      "words": [
+       {
+        "w": "pāne",
+        "gloss": "in drinking",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastau",
+      "words": [
+       {
+        "w": "bastau",
+        "gloss": "in basti (enema)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cikkaṇaḥ",
+      "words": [
+       {
+        "w": "cikkaṇaḥ",
+        "gloss": "cikkaṇa (smooth)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नस्य यानी नाक में डालने में मृदु, अभ्यंग यानी मालिश में खर, और पान तथा बस्ति यानी एनिमा में चिक्कण।",
+  "english": "Mild (mṛdu) for nasya (nasal administration), hard (khara) for abhyaṅga (anointing, oil massage), and cikkaṇa for drinking and for basti (enema).",
+  "text_flags": [],
+  "notes": "Elliptical: the copula is understood. The words 'mṛdu' and 'khara' are not the names of the three kinds in unit 91 (manda and khara-cikkaṇa); the text may mean the same two kinds, but this is not stated and the translation keeps the printed words.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.95"
+  ],
+  "lines_deva": [
+   "मृदुर्नस्ये खरोऽभ्यंगे पाने बस्तौ च चिक्कणः"
+  ],
+  "lines_iast": [
+   "mṛdurnasye kharo'bhyaṃge pāne bastau ca cikkaṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "himavadviṃdhyaśailābhyāṃ",
+      "words": [
+       {
+        "w": "himavat-vindhya-śailābhyām",
+        "gloss": "Himavat; Vindhya; mountains",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "prāyo",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāsā",
+      "words": [
+       {
+        "w": "vyāptā",
+        "gloss": "pervaded (conjectural reading)",
+        "gram": "ppp. vi-√āp, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasuṃdharā",
+      "words": [
+       {
+        "w": "vasundharā",
+        "gloss": "the earth (lit. 'bearer of treasure')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी प्रायः हिमवान् और विन्ध्य पर्वतों से व्याप्त है, अनुमानित पाठ व्याप्ता के अनुसार।",
+  "english": "The earth is for the most part pervaded by the mountains Himavat and Vindhya (on a conjectural reading, vyāptā).",
+  "text_flags": [
+   {
+    "src": "vyāsā",
+    "suggest": "vyāptā",
+    "why": "possible: 'vyāsā' gives no clear sense here; 'vyāptā' (pervaded) fits, and a lost 'pta' ligature printed as 'sa' is a likely scan error (compare 'anugusaṃ' in unit 65)"
+   }
+  ],
+  "notes": "Conjectural: 'vyāsā' is kept as printed. Another possible restoration is 'vyastā' (divided); the sense 'mostly covered or divided between the two mountain regions' is similar. The next unit speaks of the first and the Vindhya drug, which fits a contrast between the two regions.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.08.96"
+  ],
+  "lines_deva": [
+   "हिमवद्विंध्यशैलाभ्यां प्रायो व्यासा वसुंधरा"
+  ],
+  "lines_iast": [
+   "himavadviṃdhyaśailābhyāṃ prāyo vyāsā vasuṃdharā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saumyaṃ",
+      "words": [
+       {
+        "w": "saumyam",
+        "gloss": "saumya (of Soma's nature, lunar)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pathyaṃ",
+      "words": [
+       {
+        "w": "pathyam",
+        "gloss": "wholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatrādyamāgneyaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "ādyam",
+        "gloss": "the first",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āgneyam",
+        "gloss": "āgneya (of Agni's nature, fiery)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiṃdhyamauṣadhaṃ",
+      "words": [
+       {
+        "w": "vaindhyam",
+        "gloss": "of the Vindhya",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें पहला सौम्य यानी सोम स्वभाव वाला और पथ्य है; विन्ध्य की औषध आग्नेय यानी अग्नि स्वभाव वाली है।",
+  "english": "Among these, the first is saumya (of Soma's nature) and wholesome (pathya); the Vindhya medicine (auṣadha) is āgneya (of Agni's nature).",
+  "text_flags": [],
+  "notes": "Copula understood. 'the first' is the first of the two regions named in unit 96 (Himavat), taken as the plain order. The two terms 'saumya' and 'āgneya' are kept in Sanskrit; the text gives no further definition.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.97"
+  ],
+  "lines_deva": [
+   "सौम्यं पथ्यं च तत्राद्यमाग्नेयं वैंध्यमौषधं"
+  ],
+  "lines_iast": [
+   "saumyaṃ pathyaṃ ca tatrādyamāgneyaṃ vaiṃdhyamauṣadhaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "double danda mark opening the line",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajakalponāmāṣṭamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "bheṣaja-kalpaḥ",
+        "gloss": "bheṣajakalpa (the preparation of medicines)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭamaḥ",
+        "gloss": "eighth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार भेषजकल्प नामक आठवाँ अध्याय।",
+  "english": "Thus the eighth chapter, named Bheṣajakalpa (the preparation of medicines).",
+  "text_flags": [],
+  "notes": "GROUPING: this is the chapter colophon, not a verse; it is typed as a verse in the input. The opening || is a printed mark.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.98"
+  ],
+  "lines_deva": [
+   "॥ इति भेषजकल्पोनामाष्टमोऽध्यायः"
+  ],
+  "lines_iast": [
+   "|| iti bheṣajakalponāmāṣṭamo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "double danda mark opening the line",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrīsiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite'ṣṭāṃgasaṃgrahe",
+      "words": [
+       {
+        "w": "śrī-siṃhagupta-sūnu-śrīmat-vāgbhaṭa-ācārya-viracite",
+        "gloss": "venerable; Siṃhagupta; son; venerable; Vāgbhaṭa; teacher; composed (in the work composed by)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       },
+       {
+        "w": "aṣṭāṅga-saṅgrahe",
+        "gloss": "Aṣṭāṅgasaṅgraha (name of the work)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṃcamaṃ",
+      "words": [
+       {
+        "w": "pañcamam",
+        "gloss": "fifth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpasiddhisthānaṃ",
+      "words": [
+       {
+        "w": "kalpa-siddhi-sthānam",
+        "gloss": "Kalpasiddhisthāna (the fifth section: kalpa, siddhi, sthāna)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpūrṇam",
+      "words": [
+       {
+        "w": "sampūrṇam",
+        "gloss": "complete",
+        "gram": "ppp. sam-√pṝ, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार श्रीसिंहगुप्त के पुत्र श्रीमान् वाग्भटाचार्य द्वारा रचित अष्टांगसंग्रह में पाँचवाँ कल्पसिद्धिस्थान सम्पूर्ण है।",
+  "english": "Thus, in the Aṣṭāṅgasaṅgraha composed by the venerable teacher Vāgbhaṭa, son of the venerable Siṃhagupta, the fifth section, the Kalpasiddhisthāna, is complete.",
+  "text_flags": [],
+  "notes": "GROUPING: this is the colophon of the whole fifth part, not a verse; it is typed as a verse in the input. The part is called Kalpasiddhisthāna here (kalpa, siddhi, sthāna), which this study calls Part 5 (Kalpasthāna). The name Vāgbhaṭa is given with the honorific 'ācārya' (teacher), and the author as the son of Siṃhagupta, as the print says; nothing further is added. The printed title Kalpasiddhisthāna is probably the genuine title of the fifth sthāna of this work (which has Kalpa and Siddhi chapters in one sthāna); the study's label 'Kalpasthāna' is shorthand.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.99"
+  ],
+  "lines_deva": [
+   "॥ इति श्रीसिंहगुप्तसूनुश्रीमद्वाग्भटाचार्यविरचितेऽष्टांगसंग्रहे पंचमं कल्पसिद्धिस्थानं संपूर्णम्"
+  ],
+  "lines_iast": [
+   "|| iti śrīsiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite'ṣṭāṃgasaṃgrahe paṃcamaṃ kalpasiddhisthānaṃ saṃpūrṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śrīkṛṣṇārpaṇamastu",
+      "words": [
+       {
+        "w": "śrī-kṛṣṇa-arpaṇam",
+        "gloss": "venerable; Kṛṣṇa; offering",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह श्रीकृष्ण को अर्पण हो।",
+  "english": "May it be an offering to Śrī Kṛṣṇa.",
+  "text_flags": [],
+  "notes": "GROUPING: this is a closing dedication formula, not a verse and not part of the teaching; probably a copyist's or printer's addition, which the text itself does not say.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.08.100"
+  ],
+  "lines_deva": [
+   "श्रीकृष्णार्पणमस्तु"
+  ],
+  "lines_iast": [
+   "śrīkṛṣṇārpaṇamastu"
+  ],
+  "uncertain": []
+ }
+]
