@@ -43,15 +43,15 @@ AUTHORED["39"] = {
             "अ + उ → ओ (च + उक्तौ → चोक्तौ); औ before a vowel → आव् (उक्तौ + उ → उक्ताव्-उ)."),
         mcq("apply", 4,
             "According to line 1, through what are the two called sixfold and tenfold?",
-            ("Variations such as excess (उत्कर्ष)", "उत्कर्षादिविकल्पनात् gives this reason."),
-            [("The seven dhātus of the next line", "The second line begins a separate list."),
-             ("The number of foods taken", "The verse does not mention foods."),
-             ("The season of the year", "The verse does not mention seasons.")],
+            ("From variations such as excess (उत्कर्ष)", "उत्कर्षादिविकल्पनात् gives this reason."),
+            [("From the list of dhātus in the second line", "The second line begins a separate list."),
+             ("From the foods that the body takes in", "The verse does not mention foods."),
+             ("From the season in which they arise", "The verse does not mention seasons.")],
             "उत्कर्षादिविकल्पनात् = from the variations (विकल्पन) by excess and the like.",
             "Sixfold and tenfold come from variations such as excess."),
         mcq("transfer", 5,
             "In a new line, भेदात् follows the pattern of विकल्पनात्. What does it mean?",
-            ("From (through) the division", "-आत् is the ablative singular, like विकल्पनात् 'through the variation'."),
+            ("From the division", "-आत् is the ablative singular, like विकल्पनात् 'through the variation'."),
             [("Of the division", "Of would be the genitive, भेदस्य."),
              ("In the division", "In would be the locative, भेदे."),
              ("O division!", "A call would be the vocative, भेद.")],
@@ -85,7 +85,7 @@ AUTHORED["40"] = {
              ("Bone, marrow and semen", "Those are dhātus, not malas.")],
             "मूत्रशकृत्स्वेदादयः = urine, faeces, sweat and the like.",
             "Malas named: urine, faeces, sweat."),
-        order(1, "Arrange the three malas in the order the verse names them.",
+        order(1, "Arrange the three malas the verse names first, in its order.",
               ["मूत्र", "शकृत्", "स्वेद"],
               "The compound goes urine, faeces, sweat, then आदि ('and the like').",
               "मूत्र → शकृत् → स्वेद → आदि."),
@@ -100,7 +100,7 @@ AUTHORED["40"] = {
              ("मूत्रशकृत्स्वेदादय + अपि", "A bare अ + अ would give आ, not ओऽ."),
              ("मूत्रशकृत्स्वेदादयः + पि", "The word is अपि, not पि.")],
             "आदयोऽपि = आदयः + अपि. The ending -अः turns into -ओ before अ, and अपि's अ is marked by the avagraha ऽ.",
-            "-अः + अ → -ोऽ."),
+            "-अः + अ → -ओऽ (आदयः + अपि → आदयोऽपि)."),
         mcq("apply", 4,
             "According to line 2, when do the diseases it speaks of arise?",
             ("When doṣas abide in rasa and the others", "रसादिस्थेषु दोषेषु: the doṣas are present in rasa and the rest."),
@@ -148,7 +148,7 @@ AUTHORED["41"] = {
               "The verse gives them in exactly this order.",
               "प्रीणन → जीवन → लेप → स्नेह → धारण → पूरण."),
         match(2, "Match each word of the list to its meaning.",
-              [["प्रीणनम्", "gratifying, nourishing"], ["जीवनम्", "sustaining life"],
+              [["प्रीणनम्", "gratifying"], ["जीवनम्", "sustaining life"],
                ["लेपः", "coating"], ["स्नेहः", "unctuousness"]],
               "These four words are glossed in the card as shown.",
               "प्रीणन = gratifying; जीवन = sustaining life; लेप = coating; स्नेह = unctuousness.", role="extend"),
@@ -170,10 +170,10 @@ AUTHORED["41"] = {
               "Named: प्रीणन, जीवन, लेप, स्नेह, धारण, पूरण."),
         mcq("transfer", 5,
             "A new line has the dvandva पठनलेखने, ending in -ए. What does the ending tell you?",
-            ("Two neuter items: reading and writing", "Like धारणपूरणे, a neuter dvandva of two items has the dual -ए."),
+            ("Two neuter items", "Like धारणपूरणे, a neuter dvandva of two items has the dual -ए."),
             [("One masculine item, singular", "A masculine singular would end in -ः."),
              ("Many items, plural", "The plural of a neuter noun would end in -आनि."),
-             ("A single item in the locative", "Two joined items are meant, not one in the locative.")],
+             ("One item in the instrumental", "Instrumental singular would end in -एन: पठनलेखनेन.")],
             "पठन + लेखन are two neuter nouns, so पठनलेखने is the nominative dual.",
             "Two neuter nouns in a dvandva: nominative dual in -ए.",
             teaches="The same dual -ए of धारणपूरणे appears on any dvandva of two neuter a-stems."),
@@ -218,7 +218,7 @@ AUTHORED["42"] = {
              ("धातवः + आहाराः + च", "धातवः + आ would give धातव आहाराः, not धात्वाहाराः.")],
             "धात्वाहाराश्च = धातु + आहाराः + च: the dhātus and foods.",
             "उ + dissimilar vowel → व् + that vowel (धातु + आ → धात्वा)."),
-        fill(4, "The dhātus and foods sustain the body ____ (the Devanagari word for 'at all times'; type it in Devanagari or in English letters, e.g. sarvada).",
+        fill(4, "The dhātus and foods sustain the body ____ ('at all times'; type it in Devanagari or in English letters, e.g. dhatu).",
              accepts("सर्वदा", "sarvadā"),
              "The verse ends with सर्वदा, 'always'.",
              "सर्वदा = at all times, in the last words of the second line.",
@@ -324,17 +324,17 @@ AUTHORED["44"] = {
               "These words carry the two lines.",
               "द्रव्यम् = substance; आश्रिताः = resting in; बलावहाः = bringing strength; घ्नन्ति = they destroy.", role="extend"),
         mcq("discriminate", 3, "Why does the verse print षड् and not षट् before द्रव्यम्?",
-            ("A final voiceless ट् becomes voiced ड् before the voiced द", "षट् + द्रव्यम् → षड् द्रव्यम्."),
+            ("ट् becomes ड् before the voiced द", "षट् + द्रव्यम् → षड् द्रव्यम्."),
             [("ट् always becomes ड् at the end of a word", "At the end of a sentence it stays ट्; the change needs a voiced sound after it."),
              ("The number six is षड् in every position", "The word is षट्; षड् is a sandhi form."),
              ("It is a misprint for षष्", "There is no such form; the change is regular.")],
             "षड् is षट् changed before the voiced द of द्रव्यम्.",
             "Final voiceless stop + voiced sound → the voiced stop (ट् → ड्)."),
         mcq("apply", 4, "Which doṣa does line 2 say the three rasas beginning with bitter destroy?",
-            ("Kapha (कफ)", "त्रयस्तिक्तादयः कफम्."),
+            ("Kapha", "त्रयस्तिक्तादयः कफम्."),
             [("Māruta (wind)", "Māruta is destroyed by the first rasas, आद्याः."),
-             ("Strength (बल)", "बल is what the six bring, not what is destroyed."),
-             ("The substance (द्रव्य)", "The dravya is where the rasas rest, not what they destroy.")],
+             ("Pitta (पित्त)", "Pitta is not named in this verse; it is treated in the next."),
+             ("Vāta and Pitta together", "Neither is named for the bitter group.")],
             "तिक्तादयः कफं घ्नन्ति: the three starting with bitter destroy Kapha.",
             "आद्याः → मारुत; त्रयस्तिक्तादयः → कफ."),
         mcq("transfer", 5,
@@ -366,9 +366,9 @@ AUTHORED["45"] = {
         mcq("pretest", 0,
             "How does line 2 of verse 45 divide a substance (द्रव्य)?",
             ("Pacifying, provoking, good for the healthy", "शमनं कोपनं स्वस्थहितं द्रव्यमिति त्रिधा."),
-            [("Sweet, sour, salty", "Those are rasas, not the three kinds of dravya."),
-             ("Hot, cold, neutral", "Hot and cold belong to the next verse's vīrya."),
-             ("Light, heavy, soft", "The verse does not divide dravya by these.")],
+            [("Sweet, sour, salty and the rest", "Those are rasas, not the three kinds of dravya."),
+             ("Hot, cold and neither of these", "Hot and cold belong to the next verse's vīrya."),
+             ("Light, heavy, soft and the rest", "The verse does not divide dravya by these.")],
             "The verse says a substance is threefold: शमन, कोपन and स्वस्थहित.",
             "द्रव्य is threefold: शमन, कोपन, स्वस्थहित."),
         order(1, "Arrange the three kinds of substance in the verse's order.",
@@ -391,8 +391,8 @@ AUTHORED["45"] = {
               [("कषाय (astringent)", "Right: named first."),
                ("तिक्त (bitter)", "Right: named second."),
                ("मधुर (sweet)", "Right: named third."),
-               ("अम्ल (sour)", "Not named in this line; it is among the 'others'."),
-               ("लवण (salty)", "Not named in this line; it is among the 'others'.")],
+               ("अम्ल (sour)", "Not named in this line; the line says only that 'others' make Pitta."),
+               ("लवण (salty)", "Not named in this line; the line says only that 'others' make Pitta.")],
               [0, 1, 2],
               "The first line names astringent, bitter and sweet; the others make Pitta.",
               "कषाय-तिक्त-मधुराः destroy Pitta; अन्ये make it."),
@@ -424,7 +424,7 @@ AUTHORED["46"] = {
     "questions": [
         mcq("pretest", 0,
             "In verse 46, from what does the twofold vīrya come?",
-            ("The predominance of the hot or cold quality", "उष्णशीतगुणोत्कर्षात्: from the excess of the hot or cold quality."),
+            ("Hot or cold predominating", "उष्णशीतगुणोत्कर्षात्: from the excess of the hot or cold quality."),
             [("The sweet or sour taste of a substance", "Taste is not given as the basis in this verse."),
              ("The first or last ripening", "Ripening belongs to vipāka, not to the basis of vīrya."),
              ("The strong or weak digestion", "Digestion is not mentioned.")],
@@ -441,7 +441,7 @@ AUTHORED["46"] = {
               "वीर्यम् = potency; विपाकः = ripening; द्विधा = twofold; त्रिधा = threefold.", role="extend"),
         mcq("discriminate", 3, "Which is the right split of गुणोत्कर्षात्?",
             ("गुण + उत्कर्षात्", "अ + उ gives ओ, so गुण + उत्कर्षात् is written गुणोत्कर्षात्."),
-            [("गुणा + उत्कर्षात्", "आ + उ would give आ-उ, not ओ."),
+            [("गुणे + उत्कर्षात्", "ए before a vowel would give अय्, i.e. गुणयुत्कर्षात्, not गुणोत्कर्षात्."),
              ("गुण + त्कर्षात्", "The word is उत्कर्षात्, with its उ."),
              ("गुणो + उत्कर्षात्", "गुणो is not a word; the ओ is produced by the join.")],
             "गुणोत्कर्षात् = गुण + उत्कर्षात् ('from the excess of the quality').",
@@ -505,7 +505,7 @@ AUTHORED["47"] = {
             "-आः + voiced sound → -आ."),
         mcq("apply", 4,
             "The verse names ten qualities. Why does it reach twenty?",
-            ("Each is taken with its opposite (सविपर्ययाः)", "सविपर्ययाः means 'with their opposites'."),
+            ("Each is taken with its opposite", "सविपर्ययाः means 'with their opposites'."),
             [("Each is repeated one more time", "The word says 'with opposites', not 'repeated'."),
              ("Ten more are listed in the next line", "No further list of ten follows in this verse."),
              ("Two are added to each quality", "The two added are सूक्ष्म and विशद, once only.")],
@@ -517,7 +517,7 @@ AUTHORED["47"] = {
             [("Without flowers", "'Without' would be अ- or निः-."),
              ("Having many flowers", "स- only says 'with'; it does not say 'many'."),
              ("Of the flowers", "'Of' is a case ending; स- is a prefix.")],
-            "स + पुष्प-आः = सपुष्पाः, 'with flowers', as सविपर्ययाः is 'with opposites'.",
+            "सपुष्पाः = स + पुष्प with the plural ending, 'with flowers', as सविपर्ययाः is 'with opposites'.",
             "स- + noun = together with that noun.",
             teaches="The prefix स- means 'with', as in सविपर्ययाः; the same works for any noun."),
     ],
@@ -564,11 +564,11 @@ AUTHORED["48"] = {
         multi("apply", 4, "Which of these does line 1 of verse 48 name as other qualities?",
               [("इन्द्रियार्थाः", "Right: objects of the senses."),
                ("व्यवायी", "Right: named in line 1."),
-               ("विकाषी (as printed)", "Right: the third, vikāsin."),
                ("सत्त्व", "Not named in this line."),
-               ("रजस्", "Not named in this line.")],
-              [0, 1, 2],
-              "Line 1 names three: the objects of the senses, vyavāyin and vikāsin.",
+               ("रजस्", "Not named in this line."),
+               ("सूक्ष्म", "Not named in this line; it belongs to verse 47.")],
+              [0, 1],
+              "Line 1 names the objects of the senses and vyavāyin, among others.",
               "Other qualities: इन्द्रियार्थाः, व्यवायी, विकासी."),
         mcq("transfer", 5,
             "Like व्याप्य 'having pervaded', what does प्रविश्य, from a verb with a prefix, mean?",
@@ -587,7 +587,7 @@ AUTHORED["49"] = {
     "title": "विकाषी विकषन्नेव",
     "question": "What does the vikāsin quality do to the joints in line 1 of verse 49?",
     "rule": ("Line 1: the vikāsin quality (printed विकाषी), merely by expanding, loosens the bonds of the joints. "
-             "Line 2 is damaged and is not used on this card."),
+             "Line 2 is damaged; the card mentions only a hedged plain sense and asks no question on it."),
     "limits": ("Low confidence. Line 2 is damaged (सस्तीक्ष्णप्रकर्षौ, कैश्चित्सौ unresolved); the card gives only the plain sense 'some posit sharpness and excess' "
                "and builds no question on it. The spelling विकाषी / विकषन् may stand for विकासी / विकसन् or विकाशी / विकशन्; "
                "the sense 'expanding' stays the same."),
@@ -599,21 +599,21 @@ AUTHORED["49"] = {
     "questions": [
         mcq("pretest", 0,
             "What does the quality in line 1 of verse 49 loosen?",
-            ("The bonds of the joints (संधिबन्धान्)", "संधिबन्धान् विमुञ्चति: it looses the bonds of the joints."),
+            ("The joint-bonds (संधिबन्धान्)", "संधिबन्धान् विमुञ्चति: it looses the bonds of the joints."),
             [("The bonds of the doṣas", "The doṣas are not mentioned in line 1."),
              ("The skin of the body", "The skin is not mentioned."),
              ("The bones of the head", "Only the bonds of the joints are named.")],
             "विमुञ्चति = looses; संधिबन्धान् = the bonds of the joints.",
             "The quality loosens the bonds of the joints."),
-        order(1, "Arrange the phrases of line 1 in the verse's order.",
+        order(1, "Arrange the phrases of line 1 in the verse's order (spellings as printed).",
               ["विकाषी", "विकषन्नेव", "संधिबन्धान्", "विमुञ्चति"],
               "The line names the quality, then 'merely by expanding', the bonds, the verb.",
               "विकाषी विकषन्नेव संधिबन्धान्विमुञ्चति."),
         match(2, "Match each word of line 1 to its meaning.",
-              [["संधि", "joint"], ["बन्धान्", "bonds"], ["विमुञ्चति", "he looses"], ["एव", "merely, just"]],
+              [["संधि", "joint"], ["बन्धान्", "bonds"], ["विमुञ्चति", "it looses"], ["एव", "merely, just"]],
               "These words are the safe, clear ones of the line.",
               "संधि = joint; बन्ध = bond; विमुञ्चति = looses; एव = merely.", role="extend"),
-        mcq("discriminate", 3, "Which is the right split of विकषन्नेव?",
+        mcq("discriminate", 3, "Which is the right split of विकषन्नेव (spelling as printed)?",
             ("विकषन् + एव", "A final न् after a short vowel is doubled before a vowel: विकषन् + एव → विकषन्नेव."),
             [("विकषन + नेव", "नेव is not a word."),
              ("विकषन्न + एव", "विकषन्न is not a form; the second न् comes from the join."),
@@ -621,10 +621,10 @@ AUTHORED["49"] = {
             "विकषन्नेव = विकषन् (expanding) + एव (merely).",
             "Final न् after a short vowel + vowel → न्न्."),
         mcq("apply", 4, "According to line 1, how does this quality loosen the bonds?",
-            ("By expanding alone (विकषन्नेव)", "एव stresses that expanding alone is enough."),
-            [("By pressing on them", "Nothing in the line speaks of pressing."),
-             ("By drying them out", "Nothing in the line speaks of drying."),
-             ("By cooling them", "Nothing in the line speaks of cooling.")],
+            ("By expanding alone", "एव stresses that expanding alone is enough."),
+            [("By pressing hard on them", "Nothing in the line speaks of pressing."),
+             ("By drying them out slowly", "Nothing in the line speaks of drying."),
+             ("By cooling them down", "Nothing in the line speaks of cooling.")],
             "विकषन्नेव = just by expanding; the bonds of the joints are loosened.",
             "Expanding is the means named."),
         mcq("transfer", 5,
@@ -642,7 +642,7 @@ AUTHORED["49"] = {
 # ---------------------------------------------------------------- unit 50
 AUTHORED["50"] = {
     "title": "सत्त्वं रजस्तमश्चेति",
-    "question": "Which three are called the great qualities (mahāguṇa) in verse 50, and what three faults of conjunction does line 2 name?",
+    "question": "Which three are called the great qualities (mahāguṇa) in verse 50, and what three kinds of conjunction does line 2 name?",
     "rule": ("Sattva, rajas and tamas are called the three great qualities. "
              "The conjunction of time, objects and actions may be deficient, wrong or excessive; the sentence continues in the next verse."),
     "limits": ("The second sentence has no verb in this unit; it is completed in the next verse, so the card does not say what the conjunction leads to. "
@@ -666,9 +666,9 @@ AUTHORED["50"] = {
               "The verse gives sattva, then rajas, then tamas.",
               "सत्त्वं रजस्तमः."),
         match(2, "Match each word of verse 50 to its meaning.",
-              [["सत्त्वम्", "clarity"], ["रजस्", "activity"], ["तमस्", "inertia"], ["महागुणाः", "great qualities"]],
-              "These are the glosses of the card for the four words of line 1.",
-              "सत्त्व = clarity; रजस् = activity; तमस् = inertia; महागुण = great quality.", role="extend"),
+              [["महागुणाः", "great qualities"], ["त्रयः", "three"], ["प्रोक्ताः", "called"], ["योगः", "conjunction"]],
+              "These words are glossed in the card's rule and English.",
+              "महागुण = great quality; त्रयः = three; प्रोक्ताः = called; योग = conjunction.", role="extend"),
         mcq("discriminate", 3, "Which is the right split of रजस्तमश्चेति?",
             ("रजः + तमः + च + इति", "The visarga becomes स् before त, श् before च, and च + इति gives चेति."),
             [("रज + स्तमः + च + इति", "स्तमः is not a word; the स् is the changed visarga of रजः."),
@@ -676,7 +676,7 @@ AUTHORED["50"] = {
              ("रजः + तमः + च + एति", "The word is इति ('thus'); एति means 'goes'.")],
             "रजस्तमश्चेति = रजः + तमः + च + इति.",
             "Visarga + त → स्; visarga + च → श्; अ + इ → ए."),
-        multi("apply", 4, "Which faults of the conjunction does line 2 of verse 50 name?",
+        multi("apply", 4, "Which kinds of conjunction does line 2 of verse 50 name?",
               [("हीन (deficient)", "Right: the first."),
                ("मिथ्या (wrong)", "Right: the second."),
                ("अतिमात्र (excessive)", "Right: the third."),
@@ -761,7 +761,7 @@ AIDS = {
             {"label": "पंक्ति २", "items": ["शरीरम्", "धारयन्ति", "एते", "धात्वाहाराः च", "सर्वदा"]}]},
         "chunks": "गर्भोत्पादः च | कर्माणि धातूनां | क्रमशः विदुः ‖ शरीरं धारयन्ति | एते धात्वाहाराः च | सर्वदा।",
         "sandhi": "धातु + आहाराः → धात्वाहाराः (उ → व् + आ); उसी तरह गुरु + आज्ञा → गुर्वाज्ञा।",
-        "anchors": "सर्वदा = सर्व + दा (हर समय) · धारयन्ति ← धारण (श्लोक ४१) एक ही धातु।",
+        "anchors": "सर्वदा = सर्व + दा (हर समय) · धारयन्ति ← धारण (श्लोक ४१): एक ही क्रिया-मूल (√धृ)।",
     },
     "43": {
         "diagram": {"groups": [
@@ -785,8 +785,8 @@ AIDS = {
             {"label": "पंक्ति १", "items": ["कषाय", "तिक्त", "मधुर", "पित्त (नाश)", "अन्ये तु पित्तं कुर्वते"]},
             {"label": "पंक्ति २", "items": ["शमनम्", "कोपनम्", "स्वस्थहितम्", "द्रव्यम् त्रिधा"]}]},
         "contrast": {"groups": [
-            {"label": "तीन रस पित्त को", "items": ["कषाय", "तिक्त", "मधुर"]},
-            {"label": "अन्य रस पित्त को", "items": ["उत्पन्न करते हैं (कुर्वते)"]}]},
+            {"label": "पित्त को नष्ट करते हैं (क्रिया पिछले श्लोक से)", "items": ["कषाय", "तिक्त", "मधुर"]},
+            {"label": "अन्ये (दूसरे रस)", "items": ["पित्त को उत्पन्न करते हैं (कुर्वते)"]}]},
         "chunks": "कषाय-तिक्त-मधुराः पित्तम् | अन्ये तु कुर्वते ‖ शमनं कोपनं स्वस्थहितं | द्रव्यम् इति त्रिधा।",
         "sandhi": "पित्तम् + अन्ये → पित्तमन्ये; द्रव्यम् + इति → द्रव्यमिति: म् स्वर के साथ लिखा जाता है।",
         "pegs": "मेरा बनाया चित्र: तीन दरवाज़े: शान्त करने वाला (शमन), भड़काने वाला (कोपन), और स्वस्थ के लिए अच्छा (स्वस्थहित)। केवल याद के लिए।",
@@ -828,7 +828,8 @@ AIDS = {
     "50": {
         "diagram": {"groups": [
             {"label": "पंक्ति १: महागुण", "items": ["सत्त्वम्", "रजः", "तमः"]},
-            {"label": "पंक्ति २: योग तीन तरह का", "items": ["काल", "अर्थ", "कर्म", "हीन", "मिथ्या", "अतिमात्र"]}]},
+            {"label": "पंक्ति २: योग किनका", "items": ["काल", "अर्थ", "कर्म"]},
+            {"label": "योग तीन तरह का", "items": ["हीन", "मिथ्या", "अतिमात्र"]}]},
         "letters": "मेरा बनाया सूत्र: स-र-त (सत्त्व, रज, तम) और ही-मि-अ (हीन, मिथ्या, अतिमात्र)।",
         "chunks": "सत्त्वं रजः तमः च इति | त्रयः प्रोक्ताः महागुणाः ‖ काल-अर्थ-कर्मणां योगः | हीन-मिथ्या-अतिमात्रकः।",
         "sandhi": "रजः + तमः + च + इति → रजस्तमश्चेति: विसर्ग त से पहले स्, च से पहले श्; अ + इ → ए।",
@@ -839,31 +840,18 @@ AIDS = {
 IMAGE_SPECS = {
     ("39", "diagram"): {
         "file": "ch1b04-dhatus-39.svg",
-        "alt": "Mind map with the head dhatu and the seven dhatus of verse 39 in order: rasa, blood, flesh, fat, bone, marrow, semen",
+        "alt": "Top-to-bottom chain from the head dhatu through the seven dhatus of verse 39 in the verse's order: rasa, blood, flesh, fat, bone, marrow, semen",
         "type": "mermaid",
-        "code": """mindmap
-  धातु
-    रस
-    असृक्
-    मांस
-    मेद
-    अस्थि
-    मज्जा
-    शुक्र
+        "code": """flowchart TD
+  A["धातु"] --> B["रस"] --> C["असृक्"] --> D["मांस"] --> E["मेद"] --> F["अस्थि"] --> G["मज्जा"] --> H["शुक्र"]
 """,
     },
     ("43", "diagram"): {
         "file": "ch1b04-rasas-43.svg",
-        "alt": "Mind map with the head rasa and the six tastes of verse 43 in order: sweet, sour, salty, bitter, pungent, astringent",
+        "alt": "Top-to-bottom chain from the head rasa through the six tastes of verse 43 in the verse's order: sweet, sour, salty, bitter, pungent, astringent",
         "type": "mermaid",
-        "code": """mindmap
-  रस
-    स्वादु
-    अम्ल
-    लवण
-    तिक्त
-    ऊषण
-    कषाय
+        "code": """flowchart TD
+  A["रस"] --> B["स्वादु"] --> C["अम्ल"] --> D["लवण"] --> E["तिक्त"] --> F["ऊषण"] --> G["कषाय"]
 """,
     },
     ("44", "diagram"): {

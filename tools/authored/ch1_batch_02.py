@@ -30,12 +30,12 @@ AUTHORED["14"] = {
         mcq("pretest", 0,
             "What attitude toward the teachings of Āyurveda does the first line urge?",
             ("Supreme regard", "आदर is regard, and परम makes it the highest."),
-            [("Careful doubt", "The line does not ask for doubt."),
-             ("Quiet pride", "The line does not speak of pride."),
-             ("Mild fear", "The line does not speak of fear.")],
+            [("Cautious doubt", "The line does not ask for doubt."),
+             ("Quiet self-pride", "The line does not speak of pride."),
+             ("Mild fear of it", "The line does not speak of fear.")],
             "The line says supreme regard is to be paid to the teachings of Āyurveda.",
             "आयुर्वेदोपदेशेषु विधेयः परमादरः = supreme regard is to be paid."),
-        match(1, "Match each word of the first line to its meaning.",
+        match(1, "Match each part of the first line to its meaning.",
               [["उपदेशेषु", "in the teachings"], ["विधेयः", "to be paid, to be done"],
                ["परम", "supreme"], ["आदरः", "regard"]],
               "These words carry the whole instruction of the line.",
@@ -52,13 +52,12 @@ AUTHORED["14"] = {
              ("आयुर्वेदौ + उपदेशेषु", "This would be written आयुर्वेदावुपदेशेषु.")],
             "आयुर्वेदोपदेशेषु = आयुर्वेद (Āyurveda) + उपदेशेषु (in the teachings).",
             "अ + उ → ओ."),
-        mcq("apply", 4,
-            "विधेयः means to be done, to be paid. Which translation fits विधेयः परमादरः?",
-            ("Supreme regard is to be paid", "विधेयः says what should be done; परमादरः is the regard."),
-            [("Supreme regard was paid", "विधेयः is not a past form."),
-             ("The supreme one pays regard", "परमादरः is the thing paid, not the payer."),
-             ("Regard for the supreme is lost", "Nothing here speaks of loss.")],
-            "विधेयः is a 'to be done' form and agrees with आदरः: regard is what is to be paid.",
+        mcq("apply", 4, "In विधेयः परमादरः, which word names what is to be paid?",
+            ("परमादरः", "विधेयः agrees with it: supreme regard is the thing to be done."),
+            [("आयुर्वेद", "It is the first member of the compound in the first word, not the thing to be paid."),
+             ("उपदेशेषु", "It names where, in the teachings, not what is paid."),
+             ("विधेयः", "It says 'to be done'; it is not the thing paid.")],
+            "विधेयः is a 'to be done' form agreeing with आदरः.",
             "विधेयः + noun = that noun is to be done."),
         mcq("transfer", 5,
             "Join नव (new) and उपदेशेषु (in the teachings) by the same sandhi. Which spelling results?",
@@ -150,14 +149,15 @@ AUTHORED["16"] = {
                    "होने पर’। ‘पुरस्कृत्य’ का अर्थ है ‘आगे करके’; यह -य वाला रूप इसलिए है कि धातु के "
                    "आगे ‘पुरस्’ जुड़ा है। आगे किया गया व्यक्ति पुनर्वसु है (-म् वाला रूप)। दूसरी पंक्ति "
                    "नामों की सूची है: धन्वन्तरि, भरद्वाज, निमि, काश्यप, कश्यप। क्रिया ‘उपाजग्मुः’ अगले "
-                   "श्लोक में आती है।"),
+                   "श्लोक में आती है। ‘करके’ वाले रूप (पूर्वकालिक) साधारण धातु के बाद -त्वा लेते हैं "
+                   "(बुद्ध्वा), और आगे कुछ जुड़ा हो तो -य (पुरस्कृत्य)।"),
     "hook": "मनुष्य पीड़ित हुए → पुनर्वसु को आगे करके → धन्वन्तरि, भरद्वाज, निमि, काश्यप, कश्यप…",
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "Men are suffering, and a group sets out. Which name does the verse put at the head?",
+            "Men are suffering. Which name does the verse put at the head?",
             ("Punarvasu", "पुरस्कृत्य पुनर्वसुम्: having put Punarvasu in front."),
-            [("Indra", "Indra is the one approached in unit 17, not the one put at the head."),
+            [("Indra", "Indra is not named in this verse."),
              ("Brahmā", "Brahmā is not named in this verse."),
              ("Dakṣa", "Dakṣa is not named in this verse.")],
             "Punarvasu is placed in front; the other names follow in the list.",
@@ -174,10 +174,10 @@ AUTHORED["16"] = {
            "The line reads as: when men are afflicted (two words), putting Punarvasu in front (two words)."),
         mcq("discriminate", 3,
             "पुरस्कृत्य means having put in front. Why does it end in -य and not -त्वा?",
-            ("A word, पुरस्, stands before the root", "A 'having done' word takes -य when something is joined before the root."),
-            [("The verb is in the plural", "Number does not decide between -य and -त्वा."),
-             ("The act is still going on", "A 'having done' word names a finished act."),
-             ("-त्वा is used only after ध", "-त्वा is not limited to roots in ध.")],
+            ("A word, पुरस्, comes before the root", "A 'having done' word takes -य when something is joined before the root."),
+            [("The verb is in the plural, not singular", "Number does not decide between -य and -त्वा."),
+             ("The act is still going on right now", "A 'having done' word names a finished act."),
+             ("-त्वा is used only after roots ending in ध", "-त्वा is not limited to roots in ध.")],
             "A 'having done' word has -त्वा after a plain root (बुद्ध्वा) and -य when a word or prefix is joined before it (पुरस्कृत्य).",
             "Plain root + -त्वा; word or prefix + root + -य."),
         multi("apply", 4, "Which of these names appear in this verse? Choose all that apply.",
@@ -187,8 +187,8 @@ AUTHORED["16"] = {
                ("अग्निवेश", "Not named in this verse."),
                ("सुश्रुत", "Not named in this verse.")],
               [0, 1, 2],
-              "The second line gives Dhanvantari, Bharadvāja, Nimi, Kāśyapa and Kaśyapa.",
-              "Named here: धन्वन्तरि, भरद्वाज, निमि (then काश्यप, कश्यप)."),
+              "The second line begins with Dhanvantari, Bharadvāja and Nimi; the last two names of the list are uncertain in the print.",
+              "Named here: धन्वन्तरि, भरद्वाज, निमि."),
         mcq("transfer", 5,
             "An invented phrase जनेषु रुग्णेषु (रुग्ण = sick) follows नरेषु पीड्यमानेषु. What does it mean?",
             ("When the people are sick", "Two words in -एषु that agree give 'when (they are) so and so'."),
@@ -205,17 +205,17 @@ AUTHORED["16"] = {
 AUTHORED["17"] = {
     "title": "महर्षयो महात्मानस्तथालम्बायनादयः",
     "question": "Who approached whom, and how is he described?",
-    "rule": ("The great sages, the high-souled, and Alambāyana and others approached "
+    "rule": ("The high-souled great sages, and Alambāyana and others, approached "
              "Śatakratu, a refuge, lord of the immortals."),
     "limits": ("The verse completes the sentence of unit 16, whose list of names may be the same "
                "company; the card does not decide that. It says nothing yet of what they asked. "
                "The printed तथा'लम्बायन has an avagraha that तथा + अलम्बायन would not need."),
-    "explain_hi": ("यहाँ उपाजग्मुः (पहुँचे) क्रिया आ गई। कर्ता हैं महर्षि, महात्मा और आलम्बायन आदि। "
+    "explain_hi": ("यहाँ उपाजग्मुः (पहुँचे) क्रिया आ गई। कर्ता हैं महात्मा महर्षि (महात्मानः ‘महर्षयः’ का विशेषण है) और आलम्बायन आदि। "
                    "वे शतक्रतु (इंद्र) के पास पहुँचे, जिन्हें दो नाम दिए गए हैं: शरण्य (शरण देने वाला) "
                    "और अमरेश्वर (अमरों का स्वामी)। पाने वाला ‘शतक्रतुम्’ -म् वाले रूप में है। "
                    "सन्धि: महर्षयः + महात्मानः → महर्षयो महात्मानः; शतक्रतुम् + उपाजग्मुः → "
                    "शतक्रतुमुपाजग्मुः।"),
-    "hook": "महर्षि, महात्मा, आलम्बायन आदि → शतक्रतु: शरण, अमरों के ईश्वर।",
+    "hook": "महात्मा महर्षि, आलम्बायन आदि → शतक्रतु: शरण, अमरों के ईश्वर।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -275,7 +275,7 @@ AUTHORED["18"] = {
     "explain_hi": ("इंद्र उन्हें देखते ही बोले। ‘दृष्ट्वा’ (देखकर) पहले हुई क्रिया है और ‘निजगाद’ (कहा) बाद की; "
                    "दोनों का कर्ता सहस्राक्ष है। ‘यथागमम्’ का भाव है ‘परंपरा के अनुसार’, यानी जैसा आगम में है। "
                    "दूसरी पंक्ति बताती है कि क्या कहा: आयु की रक्षा करने वाला वेद, अथर्ववेद का उपवेद। "
-                   "वाक्य अगले श्लोक में आगे बढ़ता है।"),
+                   "वाक्य अगले श्लोक में आगे बढ़ता है। ‘दृष्ट्वा’ जैसा -त्वा रूप (‘करके’) मुख्य क्रिया से पहले की क्रिया बताता है।"),
     "hook": "देखते ही इंद्र बोले · परंपरा से · आयु का रक्षक वेद, अथर्व का उपवेद।",
     "core": False,
     "questions": [
@@ -315,7 +315,7 @@ AUTHORED["18"] = {
         mcq("transfer", 5,
             "Join गत्वा (having gone) and एव by the same sandhi. Which spelling results?",
             ("गत्वैव", "आ + ए gives ऐ, as in दृष्ट्वैव."),
-            [("गत्वेव", "That would be अ + इ or ए, not आ + ए."),
+            [("गत्वेव", "That would come from गत्व + इव (अ + इ → ए), not from आ + ए."),
              ("गत्वाव", "The ए does not vanish."),
              ("गत्वौव", "औ comes from आ + ओ or आ + औ.")],
             "The rule that gave दृष्ट्वैव works for any word ending in आ that meets ए.",
@@ -353,10 +353,10 @@ AUTHORED["19"] = {
                ["शल्य", "dart"], ["जरा", "old age"]],
               "Five of the eight terms; the verse does not explain how they are used.",
               "काय = body; बाल = child; ग्रह = seizers; शल्य = dart; जरा = old age."),
-        ex(order(2, "Put the first seven terms in the verse's order.",
-                 ["काय", "बाल", "ग्रह", "ऊर्ध्वांग", "शल्य", "दंष्ट्रा", "जरा"],
-                 "The line runs: body, child, seizers, upper part, dart, fang, old age, and then bull.",
-                 "काय → बाल → ग्रह → ऊर्ध्वांग → शल्य → दंष्ट्रा → जरा (→ वृष)."),
+        ex(order(2, "The first term is काय. Put the other seven terms in the verse's order.",
+                 ["बाल", "ग्रह", "ऊर्ध्वांग", "शल्य", "दंष्ट्रा", "जरा", "वृष"],
+                 "The line runs: body, child, seizers, upper part, dart, fang, old age, bull.",
+                 "काय → बाल → ग्रह → ऊर्ध्वांग → शल्य → दंष्ट्रा → जरा → वृष (काय पहला है)."),
            "The eight terms are a fixed list; saying them in order is the way to hold them."),
         mcq("discriminate", 3, "Which is the right split of ग्रहोर्ध्वांग?",
             ("ग्रह + ऊर्ध्वांग", "अ + ऊ joins as ओ, so ग्रह + ऊर्ध्वांग is written ग्रहोर्ध्वांग."),
@@ -365,14 +365,13 @@ AUTHORED["19"] = {
              ("ग्रही + ऊर्ध्वांग", "This would be written ग्रह्यूर्ध्वांग.")],
             "ग्रहोर्ध्वांग = ग्रह (seizers) + ऊर्ध्वांग (upper part).",
             "अ + ऊ → ओ."),
-        mcq("apply", 4,
-            "Which word is the doer of बुबुधे ('understood')?",
-            ("पितामहः", "The ending -ः marks the doer."),
-            [("पुण्यम्", "The ending -म् marks the thing understood."),
-             ("अष्टांगताम्", "This is the state attained, in -म् form."),
-             ("गतम्", "This is the attained Veda, in -म् form.")],
-            "पितामहः (the Grandfather) is the doer; यम् is the Veda he understood.",
-            "Doer in -ः; the thing acted on in -म्."),
+        mcq("apply", 4, "In यं पितामहः बुबुधे, what does यम् stand for?",
+            ("The Veda of unit 18", "यम् is 'which'; its noun, the Veda, is supplied from unit 18."),
+            [("The Grandfather", "He is the doer, पितामहः."),
+             ("The eight divisions", "They are in the 'by' form, वृषैः."),
+             ("The state of eight limbs", "अष्टांगताम् is what the Veda attained, not what was understood.")],
+            "यम् points back to the Veda, the one the Grandfather understood.",
+            "यम् = which: it repeats the supplied Veda."),
         mcq("transfer", 5,
             "Join वन (forest) and ऊर्ध्वम् (upward) by the same sandhi. Which spelling results?",
             ("वनोर्ध्वम्", "अ + ऊ gives ओ, as in ग्रहोर्ध्वांग."),
@@ -403,18 +402,18 @@ AUTHORED["20"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "After receiving the teaching, how are the supreme sages described?",
-            ("Delighted", "मुदिताः परमर्षयः: the supreme sages, delighted."),
-            [("Afraid", "No fear is mentioned."),
-             ("Angry", "No anger is mentioned."),
-             ("Doubtful", "No doubt is mentioned.")],
-            "The last two words say the supreme sages were delighted.",
-            "मुदिताः = delighted."),
+            "After the sages take it up, what is it that they receive, per the first line?",
+            ("The teaching (आम्नाय)", "तम् आम्नायम् is what they received."),
+            [("A gift from a king", "No king or gift is named."),
+             ("A weapon for war", "No weapon is named here."),
+             ("A new name for each", "No naming is mentioned.")],
+            "The first line says they received that traditional teaching.",
+            "गृहीत्वा ते तमाम्नायम् = having received that teaching, they."),
         match(1, "Match each word to its meaning.",
               [["गृहीत्वा", "having received"], ["आम्नायम्", "traditional teaching"],
-               ["परस्परम्", "mutually"], ["मुदिताः", "delighted"]],
-              "The act, what was received, how, and the result.",
-              "गृहीत्वा = having received; आम्नायम् = traditional teaching; परस्परम् = mutually; मुदिताः = delighted."),
+               ["परस्परम्", "mutually"], ["ते", "they"]],
+              "The act, what was received, how, and the doers.",
+              "गृहीत्वा = having received; आम्नायम् = traditional teaching; परस्परम् = mutually; ते = they."),
         ex(order(2, "Put the first three words of the unit in order.",
                  ["गृहीत्वा", "ते", "तमाम्नायम्"],
                  "Having received, they, that teaching.",
@@ -427,16 +426,15 @@ AUTHORED["20"] = {
              ("तमाम् + नायम्", "नायम् is not a word here.")],
             "तमाम्नायम् = तम् (that) + आम्नायम् (traditional teaching).",
             "म् + vowel: the म् is written with the vowel."),
-        mcq("apply", 4,
-            "The unit ends with मुदिताः परमर्षयः. Who is delighted?",
-            ("The supreme sages", "मुदिताः is plural and goes with परमर्षयः."),
-            [("The world (लोकम्)", "लोकम् ends in -म्, which marks a thing acted on, not the one delighted."),
-             ("The teaching (आम्नायम्)", "आम्नायम् is what they received."),
-             ("Nobody: it means forgotten", "मुदिताः means delighted.")],
-            "मुदिताः and परमर्षयः are both plural and both name the sages.",
-            "Describing word and noun agree: मुदिताः परमर्षयः."),
+        mcq("apply", 4, "In गृहीत्वा ते तमाम्नायम्, which word is the doer of the receiving?",
+            ("ते", "ते is 'they', the doers; गृहीत्वा names their act."),
+            [("तम्", "तम् is 'that', in the -म् form with the thing received."),
+             ("आम्नायम्", "आम्नायम् is the thing received."),
+             ("परस्परम्", "परस्परम् says how: mutually.")],
+            "ते names the doers; तम् आम्नायम् is what they received.",
+            "Doer ते + गृहीत्वा; the -म् words are what is received."),
         mcq("transfer", 5,
-            "In the invented line शिष्याः पाठं गृहीत्वा मुदिताः अभवन् (became), who is delighted, and when?",
+            "In the invented line शिष्याः पाठं गृहीत्वा मुदिता अभवन् (became), who is delighted, and when?",
             ("The pupils, after receiving the lesson", "गृहीत्वा comes first; मुदिताः goes with शिष्याः."),
             [("The lesson, after the pupils receive it", "पाठम् is what was received."),
              ("The pupils, before receiving the lesson", "गृहीत्वा names the earlier act."),
@@ -489,8 +487,8 @@ AUTHORED["21"] = {
             "स्थित्यर्थम् = स्थिति (continuance) + अर्थम् (for the sake of).",
             "इ + other vowel → य् + vowel."),
         mcq("apply", 4,
-            "तंत्राणि ends in the neuter plural -आणि, and चक्रिरे is a past form. What follows?",
-            ("Several treatises were composed", "Plural noun and a past act."),
+            "तंत्राणि is neuter plural and चक्रिरे is past. How many treatises, and when?",
+            ("Several, already composed", "Plural noun and a past act."),
             [("One treatise was composed", "Plural -आणि does not mean one."),
              ("Treatises are still to be composed", "चक्रिरे is past, not future."),
              ("The treatises composed the sages", "तंत्राणि is the thing made, not the doers.")],
@@ -537,7 +535,7 @@ AUTHORED["22"] = {
                ["स्वंस्वम्", "each his own"], ["चक्रुः", "they made"]],
               "The learners, the causing, the 'own', and the making.",
               "सच्छिष्यान् = good disciples; ग्राहयामासुः = caused to learn; स्वंस्वम् = each his own; चक्रुः = they made."),
-        ex(order(2, "Put the phrases of the second line in the verse's order.",
+        ex(order(2, "Put the phrases of the second line in the verse's order (joined words shown split).",
                  ["स्वंस्वं तंत्रं", "ततः", "तेऽपि", "चक्रुः", "तानि कृतानि च"],
                  "Each his own treatise, then, they too, made, and those made.",
                  "स्वंस्वं तंत्रं → ततः → तेऽपि → चक्रुः → तानि कृतानि च."),
@@ -545,14 +543,14 @@ AUTHORED["22"] = {
         mcq("discriminate", 3, "Which is the right split of सच्छिष्यान्?",
             ("सत् + शिष्यान्", "त् before श joins as च्छ: सत् + शिष्यान् is written सच्छिष्यान्."),
             [("सः + शिष्यान्", "This would be written स शिष्यान्."),
-             ("सच् + शिष्यान्", "No such word सच् is given in the data."),
+             ("सत्य + शिष्यान्", "This would be written सत्यशिष्यान्, keeping the य्."),
              ("सा + शिष्यान्", "This would be written सा शिष्यान्.")],
             "सच्छिष्यान् = सत् (good) + शिष्यान् (disciples).",
             "त् + श → च् + छ."),
         mcq("apply", 4,
             "ग्राहयामासुः means 'they caused to learn'. Who learns?",
             ("The disciples", "The causing is done to the disciples, who are in -आन् form."),
-            [("The sages themselves", "They are the ones who cause."),
+            [("Those who cause it", "They are the subject of ग्राहयामासुः, the causers, not the learners."),
              ("Nobody learns", "The point of the act is that someone learns."),
              ("The treatises", "Treatises are things, not learners.")],
             "The sages are the doers of the causing; Karāla and the other disciples are the learners.",
@@ -578,7 +576,7 @@ AUTHORED["23"] = {
     "limits": ("'Them' (the treatises) is supplied from unit 22. सर्षिसंघान् is read as a bahuvrīhi "
                "describing the teachers (together with groups of sages). Who exactly तैः means is "
                "by sense: the ones to whom the works were recited."),
-    "explain_hi": ("पिछले श्लोक के ‘रचे हुए तंत्रों’ को सुमेधा (बुद्धिमान) शिष्यों ने गुरुओं को सुनाया, ऋषि-समूहों "
+    "explain_hi": ("पिछले श्लोक के ‘रचे हुए तंत्रों’ को बुद्धिमान उन लोगों ने गुरुओं को सुनाया, ऋषि-समूहों "
                    "सहित। ‘संश्रावयामासुः’ प्रेरणार्थक रूप है: ‘सुनवाया, सुनाया’। दूसरी पंक्ति में फल है: उनसे "
                    "(तैः) सराहे गए वे ग्रंथ पृथ्वी पर प्रतिष्ठा को प्राप्त हुए। क्रम इस प्रकार है: सुनाना, सराहना, "
                    "प्रतिष्ठा। सन्धि: तानि + एषाम् → तान्येषाम्।"),
@@ -587,10 +585,10 @@ AUTHORED["23"] = {
     "questions": [
         mcq("pretest", 0,
             "To whom do the intelligent ones recite the treatises?",
-            ("Their teachers, with assemblies of sages", "गुरून् सर्षिसंघान्: teachers together with groups of sages."),
-            [("Kings and their courts", "No king is mentioned."),
-             ("The common people", "No such listeners are named."),
-             ("The two Aśvins", "They are named in unit 15, not here.")],
+            ("Teachers, with groups of sages", "गुरून् सर्षिसंघान्: teachers together with groups of sages."),
+            [("Kings together with their courts", "No king is mentioned."),
+             ("Common people from every town", "No such listeners are named."),
+             ("The two Aśvins and Indra", "They are not named here.")],
             "The works are recited to the teachers, who sit with groups of sages.",
             "गुरून् संश्रावयामासुः = they made the teachers hear."),
         match(1, "Match each word to its meaning.",
@@ -658,7 +656,7 @@ AUTHORED["24"] = {
         match(1, "Match each word of the verse to its meaning.",
               [["तेषाम्", "of those"], ["एकैकम्", "each one"],
                ["अव्यापि", "not all-embracing"], ["तु", "but"]],
-              "Four small words that carry the whole turn of the argument.",
+              "Three words of the first claim and the word तु that turns it.",
               "तेषाम् = of those; एकैकम् = each one; अव्यापि = not all-embracing; तु = but."),
         ex(order(2, "Put these five phrases of the verse in their order.",
                  ["तेषाम्", "एकैकम्", "अव्यापि", "प्रतितंत्राभियोगे", "पुरुषायुषसंक्षयः"],
@@ -736,8 +734,8 @@ AUTHORED["25"] = {
             "प्रोक्तः means 'stated'. Which noun of the second line does it go with?",
             ("अर्थः", "Both end in -ः: the matter is what is stated."),
             [("तंत्रकारैः", "This is 'by the authors', the ones who state."),
-             ("अध्ययनेन", "This is 'by study', from line 1."),
-             ("विशेषतः", "This is 'in particular', not a noun in the doer's form.")],
+             ("कश्चित्", "This is 'some'; it ends in -त्, not in -ः like प्रोक्तः."),
+             ("विशेषतः", "This is 'in particular', an adverb, not a noun.")],
             "प्रोक्तः and अर्थः agree: the matter has been stated by the authors.",
             "Describing word and noun agree in form: प्रोक्तः ~ अर्थः."),
         mcq("transfer", 5,
@@ -773,7 +771,7 @@ NOTES_HI = {
            "माना गया; ‘जिसे पितामह ने जाना’ वाला उपवाक्य अगली इकाई में है। ‘सहस्राक्ष’ = इंद्र, यह संदर्भ से है। छपाई में "
            "दंड ‘अथर्वणः’ से चिपका है। ‘तान्दृष्ट्वैव’ में आ + ए → ऐ; ‘सहस्राक्षो’ में विसर्ग → ओ।"),
     "19": ("विश्वास: उच्च। जोड़ी मीटर से एक पंक्ति खिसकी है (१.२६ पिछले श्लोक की, १.२७ नए की)। आठों पद शब्दार्थ में दिए गए हैं, "
-           "तकनीकी व्याख्या नहीं की गई। ‘वेद’ पिछली इकाई से लिया गया है (‘गतम्’ और ‘यम्’ का पूर्वपद)। ‘ग्रहोर्ध्वांग’ में अ + ऊ → ओ; "
+           "तकनीकी व्याख्या नहीं की गई। ‘वेद’ पिछली इकाई से लिया गया है (‘गतम्’ और ‘यम्’ का संबद्ध संज्ञा-पद)। ‘ग्रहोर्ध्वांग’ में अ + ऊ → ओ; "
            "‘बुबुधेयम्’ = बुबुधे + यम्। श्लोक में आठ अंग ‘अष्टांगताम्’ से कहे गए हैं।"),
     "20": ("विश्वास: निम्न। जोड़ी मीटर से एक पंक्ति खिसकी है (१.२८ पिछले श्लोक की, १.२९ नए की)। ‘आयुःपूर्णानुषं’ बिगड़ा हुआ पाठ है "
            "(‘अनुष’ शब्द नहीं है); संभावित ‘आयुःपूर्णम् अनूनं’ पर सुझाव है, पर अनिश्चित, और ऐसा पढ़ने पर १७ अक्षर होते। "
@@ -810,17 +808,17 @@ AIDS = {
         "diagram": {"steps": ["ब्रह्मा ने दिया (पिछली इकाई से)", "दक्ष को (दक्षाय)", "दोनों अश्विनों को (अश्विभ्याम्)", "शतक्रतु इंद्र को (शतक्रतवे)"]},
         "chunks": "ददौ दक्षाय | सोऽश्विभ्यां | तौ शतक्रतवे ततः ‖ धर्मार्थकाममोक्षाणां | विघ्नकारिभिरामयैः",
         "sandhi": "सः + अश्विभ्याम् → सोऽश्विभ्याम् (विसर्ग → ओ, अ का ऽ) · विघ्नकारिभिः + आमयैः → विघ्नकारिभिरामयैः (विसर्ग → र् स्वर से पहले)।",
-        "letters": "द-अ-शत: ददौ, दक्ष, अश्विनौ, शतक्रतु: चार नामों की कड़ी (मेरा बनाया सूत्र, श्लोक में नहीं)।",
+        "letters": "द-द-अ-श: ददौ, दक्ष, अश्विनौ, शतक्रतु के पहले अक्षर (मेरा बनाया सूत्र, श्लोक में नहीं)।",
         "pegs": "मेरा बनाया चित्र: एक दीया हाथ से हाथ में जाता हुआ: ब्रह्मा, दक्ष, दो अश्विन, इंद्र।",
     },
     "16": {
         "chunks": "नरेषु पीड्यमानेषु | पुरस्कृत्य पुनर्वसुं ‖ धन्वन्तरि | भरद्वाज | निमि | काश्यप | कश्यपाः",
         "sandhi": "पुरस्कृत्य में -य (-त्वा नहीं) क्योंकि धातु के आगे ‘पुरस्’ जुड़ा है · धन्वन्तरि-भरद्वाज-निमि-काश्यप-कश्यपाः एक समस्त पद है।",
         "frame": "जब कुछ लोग (नरेषु) किसी स्थिति में हों (पीड्यमानेषु), तब वाक्य का साँचा: ‘…होने पर, X को आगे करके, …’। (मेरा बनाया साँचा)",
-        "puns": "केवल सुनने की सहायता (मेरी बनाई): ‘पुर’ = आगे, ‘कृत्य’ = करके → पुरस्कृत्य = आगे करके।",
+        "puns": "केवल सुनने की सहायता (मेरी बनाई): ‘पुरस्’ = आगे; कृ + य → -कृत्य ‘करके’; पुरस्कृत्य = आगे करके।",
     },
     "17": {
-        "diagram": {"steps": ["महर्षि, महात्मा और आलम्बायन आदि", "पास पहुँचे (उपाजग्मुः)", "शतक्रतु: शरण्य, अमरेश्वर"]},
+        "diagram": {"steps": ["महात्मा महर्षि और आलम्बायन आदि", "पास पहुँचे (उपाजग्मुः)", "शतक्रतु: शरण्य, अमरेश्वर"]},
         "chunks": "महर्षयो महात्मानः | तथा आलम्बायनादयः ‖ शतक्रतुम् उपाजग्मुः | शरण्यम् अमरेश्वरम्",
         "sandhi": "महर्षयः + महात्मानः → महर्षयो महात्मानः (विसर्ग → ओ) · शतक्रतुम् + उपाजग्मुः → शतक्रतुमुपाजग्मुः (म् + उ → मु) · अमर + ईश्वरम् → अमरेश्वरम् (अ + ई → ए)।",
         "anchors": "शरण्य ← शरण (आश्रय) · अमरेश्वर = अमर (जो न मरे) + ईश्वर (स्वामी)।",
@@ -872,7 +870,7 @@ AIDS = {
         "chunks": "भवति अध्ययनेन एव | यस्मात् | प्रोक्तः | पुनःपुनः ‖ तंत्रकारैः | स एवार्थः | क्वचित् कश्चित् विशेषतः",
         "sandhi": "अध्ययनेन + एव → अध्ययनेनैव (अ + ए → ऐ) · एव + अर्थः → एवार्थः (अ + अ → आ) · सः + एव → स एव (विसर्ग का लोप)।",
         "anchors": "पुनःपुनः = बार-बार · तंत्रकार = तंत्र + कार (रचने वाला) · विशेषतः = विशेष + तः (विशेष रूप से)।",
-        "puns": "केवल सुनने की सहायता (मेरी बनाई): ‘अध्ययन-एव’ → ‘अध्ययनैव’: पढ़ाई ही।",
+        "puns": "केवल सुनने की सहायता (मेरी बनाई): ‘अध्ययनेन + एव’ → ‘अध्ययनेनैव’: पढ़ाई ही।",
     },
 }
 
@@ -888,25 +886,17 @@ IMAGE_SPECS = {
     },
     ("19", "diagram"): {
         "file": "ch1b02-eight-limbs-19.svg",
-        "alt": "Mind map of verse 19: the eight limbs in order: body, child, seizers, upper part, dart, fang, old age, bull.",
-        "type": "mermaid",
-        "code": ('mindmap\n'
-                 '  अष्टांग\n'
-                 '    काय\n'
-                 '    बाल\n'
-                 '    ग्रह\n'
-                 '    ऊर्ध्वांग\n'
-                 '    शल्य\n'
-                 '    दंष्ट्रा\n'
-                 '    जरा\n'
-                 '    वृष\n'),
+        "alt": "Chain of the eight divisions in verse order: body, child, seizers, upper part, dart, fang, old age, bull.",
+        "type": "chain",
+        "title": "आठ विभाग",
+        "steps": ["काय", "बाल", "ग्रह", "ऊर्ध्वांग", "शल्य", "दंष्ट्रा", "जरा", "वृष"],
     },
     ("22", "chain"): {
         "file": "ch1b02-learn-compose-22.svg",
-        "alt": "Chain in verse 22: Karala and other good disciples are made to learn; then they too compose their own treatise.",
+        "alt": "Chain in verse 22: Karala and other good disciples are made to learn; then they too compose their own treatises.",
         "type": "chain",
         "title": "सिखवाना और रचना",
-        "steps": ["कराल आदि सुशिष्य", "उन्हें सिखवाया", "अपना-अपना तंत्र रचा"],
+        "steps": ["कराल आदि सुशिष्य", "उन्हें सिखवाया", "तब उन्होंने भी अपना-अपना तंत्र रचा"],
     },
     ("23", "diagram"): {
         "file": "ch1b02-recite-praise-23.svg",
