@@ -9,10 +9,9 @@ AUTHORED["28"] = {
     "rule": ("Without fuel the fire would subside; or else it would digest even the "
              "dhātus; then, from their depletion, the wind (marut) ... The sentence "
              "continues in the next unit."),
-    "limits": ("The fire (agni) is the unstated subject, taken from the lines before. The "
-               "verb for the wind is in unit 29. Whether 'through excessive intensity' "
-               "goes with 'would subside' or with 'would digest' can be read both ways, so "
-               "no question rests on it; 'anyathā' can be 'otherwise' or 'in another way'."),
+    "limits": ("The fire (agni) is the unstated subject, from the lines before; the wind's verb "
+               "is in unit 29. 'Through excessive intensity' can go with 'would subside' or "
+               "'would digest', so no question rests on it."),
     "explain_hi": ("यह इकाई ऋतुचर्या के बीच के एक वाक्य का अंश है; ‘अग्नि’ कर्ता के रूप में पिछली पंक्तियों से आता है। "
                    "पहली पंक्ति कहती है कि ईंधन के बिना वह अग्नि शांत हो जाती है। फिर ‘अथवा’ से दूसरा विकल्प आता है: "
                    "अत्यधिक प्रबलता के कारण वह धातुओं को भी पचा डालती है। दूसरी पंक्ति का क्रम है: धातुएँ पचती हैं, "
@@ -57,7 +56,7 @@ AUTHORED["28"] = {
             "ततः = then; the wind comes from (after) the depletion of the dhātus. What the wind does is in the next unit.",
             "ततः तेषां क्षयात् मरुत् = then, from their depletion, the wind."),
         mcq("transfer", 5,
-            "Like पचेत् (would digest), which form means 'it would burn' (√दह्)?",
+            "Like पचेत् (would digest), which form means it would burn (√दह्)?",
             ("दहेत्",
              "A 3rd-person singular optative of √दह् ends in -एत्, like पचेत् and सीदेत्."),
             [("दहति", "This is 'it burns', a plain statement, not 'would'."),
@@ -187,7 +186,7 @@ AUTHORED["30"] = {
               "The unit names burrow-dwellers, water-dwellers, marsh-dwellers and predators.",
               "Four kinds: बिलेशय, औदक, आनूप, प्रसह."),
         mcq("transfer", 5,
-            "Which phrase means 'fresh fruits' (invented), agreeing like मद्यानि अभिनवानि?",
+            "Which phrase means fresh fruits (invented), agreeing like मद्यानि अभिनवानि?",
             ("अभिनवानि फलानि",
              "A neuter plural noun takes a neuter plural adjective in -आनि."),
             [("अभिनवं फलानि", "The adjective is singular but the noun is plural."),
@@ -313,7 +312,7 @@ AUTHORED["32"] = {
              ("It is boiled, for the cleansing rule", "Boiling is not stated.")],
             "सुख means agreeable or comfortable; no temperature is named.",
             "सुखोदक = agreeable water."),
-        mcq("transfer", 5, "Which phrase means 'a bed furnished with a blanket' (invented)?",
+        mcq("transfer", 5, "Which phrase means a bed furnished with a blanket (invented)?",
             ("कंबलसंस्कृतां शय्याम्",
              "The adjective agrees with शय्याम्: feminine, singular, accusative (-ाम्)."),
             [("कंबलसंस्कृतः शय्याम्", "-ः is masculine nominative."),
@@ -377,7 +376,7 @@ AUTHORED["33"] = {
              ("अनुदिग्धांगः", "This describes the person; it is not a verb.")],
             "The other words describe the sleeper; स्वप्यात् says what he should do.",
             "स्वप्यात् = 3 sg optative of √स्वप्."),
-        mcq("transfer", 5, "Which phrase means 'a king perfumed with incense' (invented, subject)?",
+        mcq("transfer", 5, "Which phrase means a king perfumed with incense (invented, subject)?",
             ("धूपाधिवासितो राजा",
              "A masculine singular participle agrees with राजा: -ः becomes -ो before a voiced sound."),
             [("धूपाधिवासिता राजा", "-ा is feminine."),
@@ -568,7 +567,7 @@ AUTHORED["36"] = {
               [0, 1, 2],
               "Line 2 names kiṃśuka, aśoka and mango, and then says 'and the like'.",
               "किंशुक · अशोक · चूत · आदि."),
-        mcq("transfer", 5, "Which phrase means 'trees with fresh fruits' (invented), agreeing like नवपत्राः पादपाः?",
+        mcq("transfer", 5, "Which phrase means trees with fresh fruits (invented), agreeing like नवपत्राः पादपाः?",
             ("नवफलाः पादपाः",
              "The adjective is masculine plural, like the noun."),
             [("नवफलः पादपाः", "The adjective is singular but the noun is plural."),
@@ -697,7 +696,7 @@ AUTHORED["38"] = {
             "The measures are given as a consequence of the hindering and the diseases.",
             "अतः = therefore."),
         mcq("transfer", 5,
-            "Like प्रबाधमानः 'hindering', which form means 'growing' (√वृध्, ātmanepada)?",
+            "Like प्रबाधमानः 'hindering', which form means growing (√वृध्, ātmanepada)?",
             ("वर्धमानः",
              "A present participle of the ātmanepada ends in -मान."),
             [("वर्धितः", "This is 'grown', a past participle."),
@@ -760,7 +759,7 @@ AUTHORED["39"] = {
               [0, 1],
               "This unit names honey and gardens; sun-exposure and smoke belong to other units.",
               "Unit 39: क्षौद्र, उद्यान ..."),
-        mcq("transfer", 5, "Which phrase means 'charming maidens' (invented, accusative plural), like युवतीश्च मनोरमाः?",
+        mcq("transfer", 5, "Which phrase means charming maidens (invented, accusative plural), like युवतीश्च मनोरमाः?",
             ("मनोरमाः कन्याः",
              "Feminine plural noun and adjective, both ending in -आः."),
             [("मनोरमान् कन्याः", "-आन् is masculine accusative plural."),
@@ -951,7 +950,7 @@ IMAGE_SPECS = {
         "alt": "Mind map: four kinds of creatures (burrow-dwellers, water-dwellers, marsh-dwellers, predators) and fresh wines of jaggery and flour",
         "type": "mermaid",
         "code": ('mindmap\n  मांस और मद्य\n    चार प्राणी\n      बिल में रहने वाले\n      जल के\n'
-                 '      अनूप देश के\n      झपटकर खाने वाले\n    नए मद्य\n      गुड़ और पिसे अन्न से\n'),
+                 '      अनूप देश के\n      झपटकर खाने वाले\n    नए मद्य\n      गुड़ और आटे से\n'),
     },
     ("31", "diagram"): {
         "file": "ch4b03-foods-practices-31.svg",
