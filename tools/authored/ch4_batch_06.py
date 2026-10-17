@@ -13,7 +13,7 @@ AUTHORED["68"] = {
                "the rains to the sun's heat) and one result (the earlier-accumulated "
                "Pitta is aggravated). It gives no remedy, no timing in days and "
                "no other dosha here."),
-    "explain_hi": ("यह श्लोक वर्षा के बाद के बदलाव का वर्णन करता है। जिन लोगों के शरीर वर्षा की "
+    "explain_hi": ("यह श्लोक वर्षा की शीतलता के अभ्यस्त शरीरों पर अचानक सूर्य-ताप के असर का वर्णन करता है। जिन लोगों के शरीर वर्षा की "
                    "शीतलता के अभ्यस्त हैं, वे जब सहसा ही सूर्य की किरणों से तप जाते हैं, तब "
                    "‘तदा’ (उस समय) पहले से संचित पित्त कुपित हो जाता है। यहाँ तीन बातें साफ़ हैं: "
                    "शीत का अभ्यास, अचानक ताप (‘सहसा’), और पहले से जमा हुआ पित्त। श्लोक इससे आगे कोई "
@@ -38,10 +38,10 @@ AUTHORED["68"] = {
                ["संचितम्", "accumulated"], ["प्रकुप्यति", "becomes aggravated"]],
               "These four words carry the whole event: sudden, heated, accumulated, aggravated.",
               "सहसा = suddenly; तप्तानाम् = of those heated; संचितम् = accumulated; प्रकुप्यति = becomes aggravated."),
-        fill(2, "The dosha that the verse says becomes aggravated is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("पित्तम्"),
+        fill(2, "The word the verse uses for what becomes aggravated is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("पित्तम्", "pitta", "पित्त"),
              "पित्तम् is the subject of प्रकुप्यति: it is the Pitta that was accumulated earlier.",
-             "In this verse the aggravated dosha is पित्तम् (neuter nominative singular), qualified by संचितम् 'accumulated'.",
+             "In this verse the aggravated thing is पित्तम् (neuter nominative singular), qualified by संचितम् 'accumulated'.",
              "पित्तम् = Pitta, the subject of प्रकुप्यति."),
         mcq("discriminate", 3, "Which is the right split of सहसैव?",
             ("सहसा + एव",
@@ -75,7 +75,7 @@ AUTHORED["68"] = {
 
 # ---------------------------------------------------------------- unit 69
 AUTHORED["69"] = {
-    "title": "शस्तं तिक्तैर्हविःपानं",
+    "title": "शस्तं तिक्तैहविःपानं",
     "question": "Which procedures and foods does this unit call recommended?",
     "rule": ("Recommended (शस्तम्) are purgation (विरेक), the flow of blood "
              "(अस्रश्रुति), cold and light food and drink, and what is astringent, "
@@ -112,9 +112,9 @@ AUTHORED["69"] = {
              "विरेकः (purgation) is the second item of the first line.",
              "विरेकः is a masculine nominative singular, 'purgation', one of the things called recommended.",
              "विरेकः = purgation."),
-        mcq("discriminate", 3, "Which is the right split of विरेकोऽस्रश्रुतिः?",
+        mcq("discriminate", 3, "Which is the right split of विरेकोऽस्त्रश्रुतिः (read as अस्रश्रुतिः)?",
             ("विरेकः + अस्रश्रुतिः",
-             "अः + अ → ओऽ (visarga becomes उ, joins अ to make ओ, and अ is dropped as ऽ)."),
+             "(छपा रूप अस्त्र, पढ़ा अस्र.) अः + अ → ओऽ (visarga becomes उ, joins अ to make ओ, and अ is dropped as ऽ)."),
             [("विरेकः + स्रश्रुतिः", "Then the second word would lack its first letter."),
              ("विरेको + ओस्रश्रुतिः", "ओऽ is one sign for both words; there is no extra ओ."),
              ("विरेकोः + अस्रश्रुतिः", "विरेकोः is not a form; the word is विरेकः.")],
@@ -126,7 +126,7 @@ AUTHORED["69"] = {
               "विरेकः · अस्रश्रुतिः · शीतम् · लघ्वन्नपानम् · कषायस्वादुतिक्तकम्.",
               role="apply"),
         mcq("transfer", 5,
-            "An invented phrase says मृद्वन्नम्, on the pattern of लघ्वन्नम्. What does it mean?",
+            "An invented phrase says मृद्वन्नम्, on the pattern of लघ्वन्नपानम् (light food and drink). What does it mean?",
             ("Soft food",
              "A describing word first, then the noun: soft + food."),
             [("Food of the soft", "That would put मृदु in the genitive; here it stands as a plain first part."),
@@ -149,7 +149,7 @@ AUTHORED["70"] = {
                "kṣudvatām ('very hungry') is open, so no question rests on "
                "it. Paṭola and āmalaka are kept as names; the verse says "
                "no more about them."),
-    "explain_hi": ("यह श्लोक केवल एक सूची है, जो पिछली इकाई के ‘शस्तम्’ (प्रशस्त) से जुड़ती है। "
+    "explain_hi": ("यह श्लोक केवल एक सूची है; पिछली इकाई का ‘शस्तम्’ यहाँ संभवतः समझा जाता है (श्लोक में यह शब्द नहीं है)। "
                    "पहली पंक्ति में शालि और षष्टिक चावल, गेहूँ, जौ, मूँग, सिता (शर्करा) और मधु हैं। "
                    "दूसरी पंक्ति में पटोल, आमलक (ये केवल नाम हैं), द्राक्षा और जांगल पशुओं का मांस है। "
                    "‘भृशम्’ संभवतः ‘क्षुद्वताम्’ के साथ है (बहुत भूखे लोगों के लिए), पर यह खुला है। "
@@ -232,7 +232,7 @@ AUTHORED["71"] = {
              ("The lamp's rays", "No lamp is named.")],
             "रात (निशि) goes with निशाकर, the moon, and its rays.",
             "दिवा = by day with the sun's rays; निशि = at night with the moon's rays."),
-        match(1, "Match each word of the first line to its meaning.",
+        match(1, "Match each word of the unit to its meaning.",
               [["दिवा", "by day"], ["निशि", "at night"],
                ["दिवाकरकरैः", "by the sun's rays"],
                ["निशाकरकरैः", "by the moon's rays"],
@@ -241,7 +241,7 @@ AUTHORED["71"] = {
               "दिवा = by day; निशि = at night; दिवाकरकरैः = by the sun's rays; निशाकरकरैः = by the moon's rays; तोयम् = water."),
         fill(2, "The word for 'water' in this unit is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("तोयम्"),
-             "तोयम् is the subject of the sentence: the water that is heated, cooled and freed of poison.",
+             "तोयम् is the water that संतप्तम्, ल्हादितम् and अविषीकृतम् describe.",
              "तोयम् is a neuter word for water; संतप्तम् and the other describing words agree with it.",
              "तोयम् = water."),
         mcq("discriminate", 3, "Which is the right split of निशाकरकरैर्निशि?",
@@ -257,15 +257,15 @@ AUTHORED["71"] = {
               "The verse says: by day, by the sun's rays, by the moon's rays, at night, heated, water.",
               "दिवा · दिवाकरकरैः · निशाकरकरैः · निशि · संतप्तम् · तोयम्.", role="apply"),
         mcq("transfer", 5,
-            "On the pattern of दिवाकर (sun) and निशाकर (moon), which word means the maker of the day, the sun?",
+            "Using दिन (day) in place of दिवा, which compound would mean the day-maker, on the pattern of दिवाकर?",
             ("दिनकरः",
              "X-कर 'maker of X': दिन 'day' + कर, as दिवा + कर in दिवाकर."),
-            [("दिनान्तः", "This means the end of the day."),
-             ("दिनभक्तः", "This would mean one devoted to the day."),
-             ("दिनमासः", "This would join day and month.")],
+            [("दिनान्तः", "दिन + अन्त = day + end; not a maker."),
+             ("दिनभक्तः", "दिन + भक्त = day + devotee; not a maker."),
+             ("दिनमासः", "दिन + मास = day + month; not a maker.")],
             "दिवाकर and निशाकर show the pattern 'maker of the day / of the night'; दिनकर follows it.",
             "-कर at the end of a name: the maker of the first part (दिवाकर sun, निशाकर moon).",
-            teaches="A name ending in -कर means 'maker of' the first part: दिवाकर 'day-maker' is the sun, निशाकर 'night-maker' the moon; the invented दिनकर follows the pattern."),
+            teaches="A name ending in -कर means 'maker of' the first part: दिवाकर 'day-maker' is the sun, निशाकर 'night-maker' the moon; the made-up दिनकर follows the pattern."),
     ],
 }
 
@@ -317,7 +317,7 @@ AUTHORED["72"] = {
               [("It is pure (शुचि)", "Right: शुचि is named."),
                ("It is matured by time (कालेन पक्वम्)", "Right: कालेन पक्वम्."),
                ("It is boiled with spices", "Nothing is said of spices."),
-               ("It is sweet as honey", "The line says like nectar, not like honey."),
+               ("It is bitter as a bitter drug", "Nothing like this is said."),
                ("It is salty", "Nothing is said of salt.")],
               [0, 1],
               "Pure (शुचि) and matured by time (कालेन पक्वम्) are both in the line.",
@@ -389,7 +389,7 @@ AUTHORED["73"] = {
               "The compound लघुशुद्धांबरस्रग्वी gives light clean clothes and a garland.",
               "लघु-शुद्ध-अंबर-स्रग्वी = with light, clean clothes and a garland."),
         mcq("transfer", 5,
-            "An invented word शीतचन्दनविलेपनः, on the pattern of शीतोशीरविलेपनः, means which?",
+            "An invented word शीतचन्दनविलेपनः (चन्दन = sandal), on the pattern of शीतोशीरविलेपनः, means which?",
             ("One anointed with cool sandal paste",
              "-विलेपनः describes a person anointed with the first part."),
             [("One who sells sandal paste", "Nothing in the word means selling."),
@@ -443,7 +443,7 @@ AUTHORED["74"] = {
              "A final म् simply carries onto the next vowel: म् + आ → मा."),
             [("सौध + माश्रितः", "माश्रित is not a word."),
              ("सौधमा + आश्रितः", "सौधमा is not a word."),
-             ("सौधः + आश्रितः", "A visarga would give सौधाश्रितः or सौधो.")],
+             ("सौधः + आश्रितः", "A visarga after -अ before आ drops and the words stay apart (सौध आश्रितः); it would not give सौधमाश्रितः.")],
             "सौधम् 'mansion' + आश्रितः 'having resorted to'.",
             "म् + vowel → म with that vowel (सौधम् + आश्रितः = सौधमाश्रितः)."),
         order(4, "Put these phrases of line 1 in the order of the verse.",
@@ -459,7 +459,7 @@ AUTHORED["74"] = {
              ("Obtaining", "-एत does not make a participle.")],
             "सेवेत is a 3rd person singular optative middle; लभेत is the same kind of form.",
             "-एत (3rd sing. optative, middle) = 'should / may do'.",
-            teaches="A verb stem + -एत gives the 'should' form (3rd singular, optative, middle): सेवेत 'should enjoy'; the invented लभेत 'should obtain'."),
+            teaches="A verb stem + -एत gives the 'should' form (3rd singular, optative, middle): सेवेत 'should enjoy'; the form लभेत (from लभ्) 'should obtain' follows the same pattern."),
     ],
 }
 
@@ -476,8 +476,8 @@ AUTHORED["75"] = {
                "own taste, is open; questions ask neither."),
     "explain_hi": ("पहली पंक्ति (तीक्ष्ण मद्य, दिन की नींद और पाला को छोड़ देना, ‘विवर्जयेत्’) "
                    "का पाठ बिगड़ा है, इसलिए उस पर प्रश्न नहीं बने। दूसरी पंक्ति साफ़ है: सदा सभी रसों का "
-                   "अभ्यास हो (‘नित्यं सर्वरसाभ्यासः’), और ‘ऋतौ ऋतौ’ अर्थात् प्रत्येक ऋतु में "
-                   "अपने-अपने रस की अधिकता रहे। ‘किस ऋतु में कौन-सा रस’ यह श्लोक यहाँ नहीं कहता।"),
+                   "अभ्यास हो (‘नित्यं सर्वरसाभ्यासः’), और ‘स्वस्वाधिक्यम् ऋतौ ऋतौ’ का अर्थ है हर रस की अपनी अधिकता, प्रत्येक ऋतु में "
+                   "(दोनों पढ़ने संभव, ऊपर पाठ-टिप्पणी देखें)। ‘किस ऋतु में कौन-सा रस’ यह श्लोक यहाँ नहीं कहता।"),
     "hook": "सदा सब रसों का अभ्यास; हर ऋतु में अपने-अपने रस की प्रधानता।",
     "core": False,
     "questions": [
@@ -495,8 +495,8 @@ AUTHORED["75"] = {
                ["अभ्यासः", "practice"], ["ऋतौ", "in the season"]],
               "These words carry the second line.",
               "नित्यम् = always; सर्व = all; रस = taste; अभ्यासः = practice; ऋतौ = in the season."),
-        fill(2, "The first word of line 2, meaning constantly, is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("नित्यम्"),
+        fill(2, "The first word of line 2, the word of time glossed on the card, is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("नित्यम्", "nitya"),
              "नित्यम् opens the second line.",
              "नित्यम् is an indeclinable word, 'always'; it is the first word of the line.",
              "नित्यम् = always."),
@@ -565,13 +565,13 @@ AUTHORED["76"] = {
               "Line 2: there, the former regimen to be given up, the latter to be taken up, in order.",
               "तत्र · पूर्वो विधिस्त्याज्यः · सेवनीयोऽपरः · क्रमात्.", role="extend",
               teaches="At the junction, the former regimen is given up first and the latter taken up, in due order."),
-        mcq("discriminate", 3, "Which is the right split of सप्ताहादृतुसंधिः?",
-            ("सप्ताहात् + ऋतुसंधिः",
+        mcq("discriminate", 3, "Which is the right split of सप्ताहादृतु-?",
+            ("सप्ताहात् + ऋतु-",
              "A final त् before a vowel becomes द्, so सप्ताहात् + ऋतु is written सप्ताहादृतु."),
-            [("सप्ताहाद् + दृतुसंधिः", "दृतु is not a word."),
-             ("सप्ताहाः + ऋतुसंधिः", "A visarga would not give द्."),
-             ("सप्ताहा + दृतुसंधिः", "दृतु is not a word.")],
-            "सप्ताहात् 'from the seven days' + ऋतुसंधिः.",
+            [("सप्ताहाद् + दृतु-", "दृतु is not a word."),
+             ("सप्ताहाः + ऋतु-", "A visarga would not give द्."),
+             ("सप्ताहा + दृतु-", "दृतु is not a word.")],
+            "सप्ताहात् 'from the seven days' + ऋतु- (the start of ऋतुसंधिः).",
             "Final त् + vowel → द् (सप्ताहात् + ऋतु = सप्ताहादृतु)."),
         multi("apply", 4, "Which TWO statements does this unit make?",
               [("The former season's regimen is to be given up", "Right: पूर्वो विधिस्त्याज्यः."),
@@ -731,21 +731,20 @@ AUTHORED["78"] = {
 # ---------------------------------------------------------------- unit 79
 AUTHORED["79"] = {
     "title": "यथोत्तरं भजेच्चर्यां",
-    "question": "What is one to follow in succession?",
+    "question": "What is one to follow, according to this verse?",
     "rule": ("One should follow the regimen (चर्याम्) in order of succession "
              "(यथोत्तरम्); 'there, because of its strength'."),
     "limits": ("The sentence completes unit 78, whose text is damaged. What "
                "'तस्य' (of that) refers to, and so what the strength belongs to, "
                "is not clear from the lines; no question rests on it."),
-    "explain_hi": ("यह इकाई पिछली इकाई का वाक्य पूरा करती है। ‘यथोत्तरम्’ का अर्थ है उत्तरोत्तर "
-                   "क्रम से; ‘भजेत् चर्याम्’ का अर्थ है चर्या का पालन करना चाहिए। ‘तत्र तस्य "
+    "explain_hi": ("यह इकाई पिछली इकाई का वाक्य पूरा करती है। ‘यथोत्तरम्’ के दो अर्थ संभव हैं (उत्तरोत्तर क्रम से, या बाद वाले के अनुसार); ‘भजेत् चर्याम्’ का अर्थ है चर्या का पालन करना चाहिए। ‘तत्र तस्य "
                    "बलात्’ (वहाँ उसके बल के कारण) में ‘तस्य’ किसके लिए है, यह इन पंक्तियों से साफ़ "
                    "नहीं होता; इसलिए उस पर प्रश्न नहीं बने।"),
-    "hook": "उत्तरोत्तर क्रम से चर्या का पालन — वाक्य पिछली इकाई से आता है।",
+    "hook": "चर्या का पालन ‘यथोत्तरम्’ (दो पढ़ने संभव) — वाक्य पिछली इकाई से आता है।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "What does the verse say one should follow in succession?",
+            "What does the verse say one should follow?",
             ("The regimen (चर्या)",
              "भजेत् चर्याम्: should follow the regimen."),
             [("The medicine (औषध)", "The word is चर्याम्, regimen."),
@@ -824,7 +823,7 @@ AUTHORED["80"] = {
             ("चतुर्थः + अध्यायः",
              "अः + अ → ओऽ."),
             [("चतुर्थ + ओध्यायः", "ओध्यायः is not a word."),
-             ("चतुर्थो + अध्यायः", "Then the ऽ would not stand."),
+             ("चतुर्थो + अध्यायः", "चतुर्थो is not the form of the word here; the card has चतुर्थः (nominative), which joins with अ as ओऽ."),
              ("चतुर्थाः + अध्यायः", "The ending would then give चतुर्था अध्यायः.")],
             "चतुर्थः 'fourth' + अध्यायः 'chapter'.",
             "अः + अ → ओऽ (चतुर्थः + अध्यायः = चतुर्थोऽध्यायः)."),
@@ -847,16 +846,16 @@ AUTHORED["80"] = {
 
 NOTES_HI = {
     "68": "विश्वास: उच्च। संधि जाँची: वर्षाशीतोचितांगानाम् = वर्षा + शीत + उचित + अंग (अ + उ → ओ); सहसैव = सहसा + एव (आ + ए → ऐ)। ‘प्रकुप्यति’ वर्तमान, परस्मैपद। कोई पाठभेद या पाठ-दोष नहीं।",
-    "69": "विश्वास: मध्यम। पहला समस्त शब्द ‘तिक्तैहविःपानम्’ बिगड़ा है (सुझाव: तिक्तैर्हविःपानम् या तिक्तकहविः); इसलिए उस पर प्रश्न नहीं। ‘सदा’ पहले या दूसरे अर्ध से जुड़ सकता है। अंतिम समास का प्रधान संज्ञा-शब्द स्पष्ट नहीं। संधि जाँची: विरेकः + अस्रश्रुतिः → विरेकोऽस्रश्रुतिः; लघु + अन्न → लघ्वन्न।",
+    "69": "विश्वास: मध्यम। छपा हुआ रूप ‘अस्त्रश्रुतिः’ है; यहाँ ‘अस्रश्रुतिः’ (असृक् + श्रुति) पढ़ा गया है। पहला समस्त शब्द ‘तिक्तैहविःपानम्’ बिगड़ा है (सुझाव: तिक्तैर्हविःपानम् या तिक्तकहविः); इसलिए उस पर प्रश्न नहीं। ‘सदा’ पहले या दूसरे अर्ध से जुड़ सकता है। अंतिम समास का प्रधान संज्ञा-शब्द स्पष्ट नहीं। संधि जाँची: विरेकः + अस्रश्रुतिः → विरेकोऽस्रश्रुतिः; लघु + अन्न → लघ्वन्न।",
     "70": "विश्वास: मध्यम। केवल सूची है; पिछली इकाई का ‘शस्तम्’ यहाँ समझा जाता है। ‘भृशम्’ ‘क्षुद्वताम्’ के साथ लिया गया, पर पूरी सूची से भी जुड़ सकता है। जांगल, पटोल, आमलक केवल नाम। संधि: पटोल + आमलक → पटोलामलक (अ + आ → आ)।",
     "71": "विश्वास: मध्यम। छपाई में ‘दिवाकरकरै र्निशाकरकरैर्निशि’ में स्पेस गलत है (करैः + निशाकर…)। ‘ल्हादितम्’ संभवतः ‘ह्लादितम्’ है; ‘अगस्तेन’ संभवतः ‘अगस्त्येन’ है। वाक्य अगली इकाई में चलता है; अगस्त्य के बारे में श्लोक कुछ और नहीं कहता।",
     "72": "विश्वास: मध्यम। ‘भ्रमद्ध्रमर’ छपाई-दोष है, सही रूप ‘भ्रमद्भ्रमर’ (संभावित)। दूसरी पंक्ति एक सप्तमी समास है जो अगली इकाई के सरोवरों का विशेषण है; वाक्य पिछली और अगली दोनों इकाइयों से जुड़ता है। संधि जाँची: पाने + अमृत + उपम → पानेऽमृतोपमम् (ए + अ → ए ऽ; अ + उ → ओ)।",
-    "73": "विश्वास: मध्यम। ‘सुसरोरुहसेन्यासु’ अनिश्चित है (सुझाव ‘सेव्यासु’); ‘प्लुवेत’ संभवतः ‘प्लवेत’ है। इसलिए प्रश्न ‘सरसीषु’ और दूसरी पंक्ति पर बने। संधि: शीत + उशीर → शीतोशीर (अ + उ → ओ)। उशीर औषधि का नाम है।",
+    "73": "विश्वास: मध्यम। छपा ‘स्त्रग्वी’ है, सही रूप ‘स्रग्वी’ (संभावित)। ‘सुसरोरुहसेन्यासु’ अनिश्चित है (सुझाव ‘सेव्यासु’); ‘प्लुवेत’ संभवतः ‘प्लवेत’ है। इसलिए प्रश्न ‘सरसीषु’ और दूसरी पंक्ति पर बने। संधि: शीत + उशीर → शीतोशीर (अ + उ → ओ)। उशीर औषधि का नाम है।",
     "74": "विश्वास: मध्यम। संपादकों की टिप्पणी: ‘तृप्तिंदध्यातप…’ वाली पंक्ति (४.१२७) पूरी तरह जाँची नहीं जा सकती, इसलिए प्रश्न केवल पहली पंक्ति पर हैं। उस सूची की क्रिया ‘विवर्जयेत्’ अगली इकाई में है। संधि: सौधम् + आश्रितः → सौधमाश्रितः। ‘सौध’ का छत अर्थ अनुमान है।",
     "75": "विश्वास: मध्यम। पहली पंक्ति (४.१२८) में ‘मनुषारांश्च / अनुषारान्’ संभवतः ‘तुषारान्’ है (संपादकीय सुझाव); इसलिए उस पंक्ति पर प्रश्न नहीं। ‘स्वस्वाधिक्यम्…ऋतौ ऋतौ’ दोनों तरह पढ़ा जा सकता है (हर रस अपनी ऋतु में, या हर ऋतु में अपना रस); प्रश्न दोनों से अलग हैं। संधि: सर्व + रस + अभ्यास → सर्वरसाभ्यासः; ऋतौ + ऋतौ → ऋतावृतौ।",
     "76": "विश्वास: उच्च। ‘अंत्यादिसप्ताहात्’ का पंचमी रूप ढीला है; अर्थ ‘अंतिम और आरंभिक सात दिन’ लिया गया। ‘क्रमात्’ दोनों क्रियाओं से जुड़ता है। संधि जाँची: सप्ताहात् + ऋतु → सप्ताहादृतु (त् → द्); पूर्वः + विधिः → पूर्वो विधिः; सेवनीयः + अपरः → सेवनीयोऽपरः।",
     "77": "विश्वास: उच्च। ‘असात्म्य’ को ‘अनुपयुक्तता’ रखा गया। ‘त्यागशीलनात्’ = छोड़ना और अपनाना। ‘ऋतुषु एवंविधेषु एव’ अगली इकाई के ‘अन्यरूपेषु’ से भिन्न है, पर वह इकाई क्षतिग्रस्त है। संधि: ऋतुषु + एवं → ऋतुष्वेवं।",
-    "78": "विश्वास: कम। पहली पंक्ति में ‘विरुद्धज्ञानिको’ अस्पष्ट है (कोई सुधार नहीं मिला)। दूसरी पंक्ति ‘मासराशिखरूपारुथमृतोर्यरुलक्षणत्रयं’ बिगड़ी है; संपादकों का सुझाव ‘मासराशिस्वरूपाख्यमृतोर्यल्लक्षणत्रयं’ है, जिसमें ‘आरुथ’ को ‘आख्य’ पढ़ना अनिश्चित है। इसलिए प्रश्न केवल साफ़ शब्दों पर बने। वाक्य अगली इकाई तक चलता है। संधि: निर्दिश्यते + अन्यरूपेषु → निर्दिश्यतेऽन्यरूपेषु।",
+    "78": "विश्वास: कम। छपा ‘निर्द्दिश्यते’ है, वर्तनी-भेद मात्र (निर्दिश्यते)। पहली पंक्ति में ‘विरुद्धज्ञानिको’ अस्पष्ट है (कोई सुधार नहीं मिला)। दूसरी पंक्ति ‘मासराशिखरूपारुथमृतोर्यरुलक्षणत्रयं’ बिगड़ी है; संपादकों का सुझाव ‘मासराशिस्वरूपाख्यमृतोर्यल्लक्षणत्रयं’ है, जिसमें ‘आरुथ’ को ‘आख्य’ पढ़ना अनिश्चित है। इसलिए प्रश्न केवल साफ़ शब्दों पर बने। वाक्य अगली इकाई तक चलता है। संधि: निर्दिश्यते + अन्यरूपेषु → निर्दिश्यतेऽन्यरूपेषु।",
     "79": "विश्वास: मध्यम। ‘तस्य बलात्’ में ‘तस्य’ किसका है, यह पंक्तियों से स्पष्ट नहीं; ‘यथोत्तरम्’ के दो अर्थ संभव (उत्तरोत्तर, या बाद वाले के अनुसार)। वाक्य इकाई ७८ से चलकर यहाँ पूरा होता है। संधि: भजेत् + चर्याम् → भजेच्चर्याम्; बलात् + इति → बलादिति; यथा + उत्तरम् → यथोत्तरम्।",
     "80": "विश्वास: उच्च। समापन-वाक्य। संधि: चतुर्थः + अध्यायः → चतुर्थोऽध्यायः। ‘४’ अध्याय की संख्या है।",
 }
@@ -871,7 +870,7 @@ AIDS = {
         "frame": "किसमें: वर्षा की शीत के अभ्यस्त शरीर · कैसे: सहसा सूर्य की किरणों से तपना · क्या: पूर्व-संचित पित्त कुपित।",
     },
     "69": {
-        "chunks": "शस्तं (तिक्तैहविःपानं, पाठ अनिश्चित) विरेकोऽस्रश्रुतिः सदा ‖ शीतं लघ्वन्नपानं च | कषायस्वादुतिक्तकं।",
+        "chunks": "शस्तं (तिक्तैहविःपानं, पाठ अनिश्चित) विरेकोऽस्त्रश्रुतिः (अस्रश्रुतिः) सदा ‖ शीतं लघ्वन्नपानं च | कषायस्वादुतिक्तकं।",
         "sandhi": "अः + अ → ओऽ: विरेकः + अस्रश्रुतिः → विरेकोऽस्रश्रुतिः। उ + अ → व्+अ: लघु + अन्न → लघ्वन्न।",
         "anchors": "शस्त = प्रशस्त · विरेक = विरेचन · अस्र = रक्त · श्रुति = बहना · कषाय-स्वादु-तिक्त = तीन रस, इसी क्रम में।",
     },
@@ -880,7 +879,7 @@ AIDS = {
             {"label": "पहली पंक्ति",
              "items": ["शालि", "षष्टिक", "गोधूम", "यव", "मुद्ग", "सिता", "मधु"]},
             {"label": "दूसरी पंक्ति",
-             "items": ["पटोल", "आमलक", "द्राक्षा", "जांगल (क्षुद्वताम्)"]}]},
+             "items": ["पटोल", "आमलक", "द्राक्षा", "जांगल", "क्षुद्वताम् भृशम् (संबंध अनिश्चित)"]}]},
         "chunks": "शालिषष्टिकगोधूमयवमुद्गसितामधु ‖ पटोलामलकं द्राक्षा | जांगलं क्षुद्वतां भृशं।",
         "sandhi": "अ + आ → आ: पटोल + आमलक → पटोलामलक।",
     },
@@ -894,12 +893,12 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "जल के गुण",
              "items": ["निर्मलं", "शुचि", "कालेन पक्वं", "पानेऽमृतोपमं"]}]},
-        "chunks": "निर्मलं शुचि कालेन | पक्वं पानेऽमृतोपमं ‖ हंसौघपक्षविक्षेप | भ्रमद्भ्रमरपंक्तिषु।",
+        "chunks": "निर्मलं शुचि कालेन | पक्वं पानेऽमृतोपमं ‖ हंसौघपक्षविक्षेप | भ्रमद्ध्रमरपंक्तिषु (भ्रमद्भ्रमर)।",
         "sandhi": "ए + अ → ए ऽ: पाने + अमृत → पानेऽमृत। अ + उ → ओ: अमृत + उपम → अमृतोपम।",
         "pegs": "मेरा बनाया चित्र: साफ़, उजला पानी, जिस पर हंस पंख फड़फड़ाते हैं और भौंरे मँडराते हैं। केवल याद के लिए।",
     },
     "73": {
-        "chunks": "सरसीषु (…) प्लवेत ‖ लघुशुद्धांबरस्रग्वी | शीतोशीरविलेपनः।",
+        "chunks": "(सुसरोरुहसेन्यासु, अनिश्चित) सरसीषु प्लुवेत (प्लवेत) च ‖ लघुशुद्धांबरस्त्रग्वी (स्रग्वी) | शीतोशीरविलेपनः।",
         "sandhi": "अ + उ → ओ: शीत + उशीर → शीतोशीर।",
         "frame": "कहाँ: सरोवरों में · वेश: हल्के शुद्ध वस्त्र, माला · लेप: शीतल उशीर।",
     },
@@ -974,7 +973,7 @@ IMAGE_SPECS = {
         "file": "ch4b06-ritusandhi-76.svg",
         "alt": "Flowchart: ritusandhi is the last seven days of one season and the first seven of the next; there the former regimen is given up and the latter taken up in order",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["ऋतुसंधि: दो ऋतुओं के<br/>अंतिम और आरंभिक सात दिन"] --> B["पूर्व विधि<br/>छोड़नी चाहिए"]\n'
+        "code": ('flowchart TD\n  A["ऋतुसंधि: दो ऋतुओं के<br/>अंतिम और आरंभिक सात दिन"] --> B["पूर्व विधि<br/>क्रम से छोड़नी चाहिए"]\n'
                  '  A --> C["बाद वाली विधि<br/>क्रम से अपनानी चाहिए"]\n'),
     },
     ("77", "chain"): {
