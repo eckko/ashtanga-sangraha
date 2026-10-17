@@ -5,6 +5,6 @@ Order per chunk: draft -> check_chunk.py -> independent review -> apply_review.p
 
 | Part | Chunks | pending | drafted | checked | reviewed | applied | merged | written |
 |---|---|---|---|---|---|---|---|---|
-| 05 | 26 | 7 | 0 | 2 | 0 | 17 | 0 | 0 |
+| 05 | 26 | 5 | 0 | 3 | 0 | 18 | 0 | 0 |
 
-Next pending chunks: p05-c06-k2, p05-c06-k3, p05-c06-k4, p05-c07-k1, p05-c07-k2, p05-c07-k3, p05-c08-k2
+Next pending chunks: p05-c06-k2, p05-c06-k3, p05-c06-k4, p05-c07-k3, p05-c08-k2
