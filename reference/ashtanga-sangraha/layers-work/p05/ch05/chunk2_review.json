@@ -1,0 +1,1014 @@
+{
+ "units": [
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sāhacara",
+     "problem": "Flag says sahācara but `w` keeps the printed misspelling; corrected form belongs in words (rule 6); unit 70 has sahācara.",
+     "fix": "w = sahācara",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāhacara",
+      "field": "w",
+      "value": "sahācara",
+      "n": "40"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सिद्ध किया हुआ",
+     "problem": "sādhita is \"prepared\" (glossary: siddha = cooked, sādhita = prepared); सिद्ध blurs the two.",
+     "fix": "तैयार किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिद्ध किया हुआ",
+      "new": "तैयार किया हुआ",
+      "n": "40"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the milk of the preceding enema formula",
+     "problem": "Claims unit 39 contents (outside this chunk); unverified.",
+     "fix": "not stated; presumably continues from the preceding unit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(the milk of the preceding enema formula) is carried over from unit 39 and not stated here",
+      "new": "is not stated here; it presumably continues from the preceding unit, which lies outside this chunk",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बृहती-द्वय",
+     "problem": "Policy: ordinary Hindi plant name beside the term; hedge as probable.",
+     "fix": "बृहती-द्वय यानी सम्भवतः बड़ी और छोटी कटेरी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृहती-द्वय के साथ",
+      "new": "बृहती-द्वय यानी सम्भवतः बड़ी और छोटी कटेरी के साथ",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मागधिका यानी पिप्पली",
+     "problem": "पिप्पली is another Sanskrit name, not the ordinary Hindi name (policy: Hindi name).",
+     "fix": "मागधिका यानी पीपर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मागधिका यानी पिप्पली",
+      "new": "मागधिका यानी पीपर",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "units 41-42 describe one preparation",
+     "problem": "States a grouping as fact; glossary asks that sentence links be noted without claiming pairing.",
+     "fix": "may read as one sentence with 41",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "units 41-42 describe one preparation as printed",
+      "new": "41-42 may be read as one sentence (not claimed as a verse pairing)",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पल भर",
+     "problem": "\"पल भर\" means \"for a moment\" in Hindi; misleading for the unit pala.",
+     "fix": "एक पल तौल में मापा हुआ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पल भर मापा हुआ",
+      "new": "एक पल तौल में मापा हुआ",
+      "n": "43"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "palonmitam",
+     "problem": "ppp. of ud-√mā.",
+     "fix": "ppp. ud-√mā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pala-unmitam",
+      "field": "gram",
+      "value": "tat-puruṣa, ppp. ud-√mā, n. nom. sg.",
+      "n": "43"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pañcamūla group unlisted",
+     "problem": "Policy wants the identification beside the term. \"bṛhatyādi pañcamūla\" is the lesser five roots (standard lists); tag probable, text does not list them.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Identification (probable, from the standard lists, not from this text): the five roots headed by bṛhatī are the lesser pañcamūla - bṛhatī, kaṇṭakārī, śālaparṇī, pṛśniparṇī, gokṣura.",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yaṣṭikā (licorice)",
+     "problem": "yaṣṭikā is not the usual yaṣṭīmadhu/yaṣṭī of unit 42; some lists give other plants. Identification is only probable but is untagged and unhedged in translations.",
+     "fix": "hedge: probably licorice",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "together with yaṣṭikā (licorice)",
+       "new": "together with yaṣṭikā (probably licorice)",
+       "n": "44"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "यष्टिका सहित",
+       "new": "यष्टिका यानी सम्भवतः मुलेठी सहित",
+       "n": "44"
+      },
+      {
+       "op": "word",
+       "match_w": "sa-yaṣṭikam",
+       "field": "gloss",
+       "value": "together with yaṣṭikā (probably licorice; probable)",
+       "n": "44"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "शालि यानी शालि चावल",
+     "problem": "Circular; give the ordinary Hindi name.",
+     "fix": "शालि यानी अगहनी चावल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शालि यानी शालि चावल",
+      "new": "शालि यानी अगहनी चावल",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kukuṭa",
+     "problem": "The split restores kukkuṭa but no text_flag records the change from the printed kukuṭa (unflagged silent emendation).",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "kukuṭāṃḍarasaḥ",
+        "suggest": "kukkuṭāṇḍarasaḥ",
+        "why": "possible: single k for kukkuṭa (spelling variant or scan slip); meaning unchanged"
+       }
+      ],
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a hen's egg",
+     "problem": "Notes say hen vs cock is not firm, yet the translation asserts \"hen\"; the Sanskrit says kukkuṭa (fowl).",
+     "fix": "a fowl's (kukkuṭa) egg",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "a hen's egg",
+       "new": "a fowl's (kukkuṭa) egg",
+       "n": "45"
+      },
+      {
+       "op": "word",
+       "match_w": "kukkuṭa-aṇḍa-rasaḥ",
+       "field": "gloss",
+       "value": "fluid of a fowl's egg",
+       "n": "45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by those (ingredients)",
+     "problem": "\"ingredients\" is supplied; taiḥ is just \"those\".",
+     "fix": "by those",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by those (ingredients)",
+      "new": "by those",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उन द्रव्यों से ... और अत्यन्त श्रेष्ठ है",
+     "problem": "\"द्रव्यों\" is supplied; and param is rendered as an adjective \"best\" (plus an added और) while the English takes it as adverb \"supremely\"; the two languages disagree. The grammar of param is open (notes).",
+     "fix": "उनसे बस्ति अत्यन्त शुक्र को उत्पन्न करने वाली है",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "उन द्रव्यों से",
+       "new": "उनसे",
+       "n": "46"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "शुक्र को उत्पन्न करने वाली और अत्यन्त श्रेष्ठ है",
+       "new": "अत्यन्त शुक्र को उत्पन्न करने वाली है",
+       "n": "46"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "two salts (dvilavaṇa)",
+     "problem": "Observation only: dvilavaṇa kept \"two salts\" as per brief; the pair is usually saindhava with another salt in the lists, but the text does not say.",
+     "fix": "owner",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śikhi-go",
+     "problem": "\"tat-puruṣa\" is wrong for a list member (peacock and gonarda are separate items, dvandva).",
+     "fix": "dvandva member",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śikhi-go",
+      "field": "gram",
+      "value": "dvandva member (first part of the printed split of gonarda)",
+      "n": "47"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "narda (a bird name)",
+     "problem": "The text does not say gonarda is a bird; calling it a bird is an assumption (unidentified).",
+     "fix": "possibly a bird; unidentified",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "narda",
+      "field": "gloss",
+      "value": "second part of 'gonarda' (a creature whose eggs are meant; possibly a bird; unidentified)",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चटक",
+     "problem": "Policy: Hindi name beside the term.",
+     "fix": "चटक यानी गौरैया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चटक के अण्डे",
+      "new": "चटक यानी गौरैया के अण्डे",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sa-śarkarā-ghṛta-madhuḥ",
+     "problem": "Bahuvrīhi agrees with bastiḥ (masculine); \"n. nom. sg.\" is wrong.",
+     "fix": "m. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "sa-śarkarā-ghṛta-madhuḥ",
+      "field": "gram",
+      "value": "bahuvrīhi, m. nom. sg. (printed madhu r- = madhuḥ before bastiḥ)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सबसे अधिक वृषतम यानी अत्यन्त वृष्य",
+     "problem": "Doubled superlative (सबसे अधिक + -तम + अत्यन्त).",
+     "fix": "वृषतम यानी सबसे अधिक वृष्य",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे अधिक वृषतम यानी अत्यन्त वृष्य",
+      "new": "वृषतम यानी सबसे अधिक वृष्य",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "basta-mūkara-jaiḥ",
+     "problem": "Flag says sūkara but `w` keeps the non-word mūkara; corrected form belongs in words. Notes claim mūkara is an attested variant: not supported (I know no such variant).",
+     "fix": "basta-sūkara-jaiḥ",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "basta-mūkara-jaiḥ",
+       "field": "w",
+       "value": "basta-sūkara-jaiḥ",
+       "n": "50"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "'mūkara' is a variant of sūkara 'boar'; the print has mūkara (m for s?) - possible typo, but mūkara is attested as a variant; read as boar, not firm.",
+       "new": "'mūkara' is not a standard word; read as a slip for sūkara 'boar' (m/s confusion in the scan), possible, not firm.",
+       "n": "50"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "depends on the following unit 51",
+     "problem": "Unverified claim about syntax across units.",
+     "fix": "may continue into the next unit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Elliptical: the instrumental list depends on the following unit 51.",
+      "new": "Elliptical (no verb); the instrumental list may continue in the next unit (not claimed as fact).",
+      "n": "50"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चटक",
+     "problem": "Policy: Hindi name.",
+     "fix": "चटक यानी गौरैया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "केकड़े और चटक के मांस",
+      "new": "केकड़े और चटक यानी गौरैया के मांस",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इक्षुरक; मुष्क",
+     "problem": "Hindi lacks the (hedged) identification that the English has, and मुष्क is unexplained.",
+     "fix": "set Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "दूध सिद्ध किया हुआ बकरे के मुष्क यानी अण्डकोश, उच्चटा और इक्षुरक यानी सम्भवतः तालमखाना के साथ, तथा शहद।",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "nirghṛtāḍhya",
+     "problem": "Handled correctly as conjectural/low; observation only: the human should confirm the Devanagari निर्घृताढ्यो against the scan (maybe snigdhāḍhya or a stray nir-).",
+     "fix": "human check",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इक्षुर",
+     "problem": "Hindi lacks the hedged identification.",
+     "fix": "इक्षुर यानी सम्भवतः तालमखाना",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उच्चटा और इक्षुर के साथ",
+      "new": "उच्चटा और इक्षुर यानी सम्भवतः तालमखाना के साथ",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daśa-daśa-ahena",
+     "problem": "A compound ending in -aha is masculine, not neuter/\"n.\".",
+     "fix": "m. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daśa-daśa-ahena",
+      "field": "gram",
+      "value": "dvigu/repetition, m. inst. sg.",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अस्पष्ट शब्द सदृष के साथ",
+     "problem": "\"के साथ\" is invented (no instrumental is readable); would present the unclear word as governed.",
+     "fix": "एक अस्पष्ट शब्द 'सदृषः'",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अस्पष्ट शब्द सदृष के साथ",
+      "new": "एक अस्पष्ट शब्द 'सदृषः'",
+      "n": "55"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मधु; वृष बना देते हैं",
+     "problem": "\"वृष बना देते हैं\" reads as \"turn him into a bull\"; the Hindi name of mākṣika is शहद; no added मिले.",
+     "fix": "set Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ये, माक्षिक यानी शहद से संयुक्त, मनुष्य को अतिवृष यानी अत्यन्त पौरुषयुक्त बना देते हैं।",
+      "n": "56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्तम्भी होने के कारण",
+     "problem": "\"होने के कारण\" (because) is not in the Sanskrit (stambhinaḥ is a bare nominative); the English \"being\" is likewise an addition.",
+     "fix": "स्तम्भी यानी रोकने वाले",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्तम्भी होने के कारण",
+       "new": "स्तम्भी यानी रोकने वाले,",
+       "n": "57"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "And they, being stambhin",
+       "new": "And they, stambhin",
+       "n": "57"
+      }
+     ]
+    },
+    {
+     "field": "confidence",
+     "where": "stambhin referent",
+     "problem": "Needs human decision: who \"they\" are and whether ca...ca links two clauses.",
+     "fix": "owner",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "mostly placement",
+     "problem": "\"prāyaḥ\" stands between the halves; the draft binds it to the second half only, which the notes admit is undecided. Neutral rendering qualifies both.",
+     "fix": "For the most part, ...",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "For the most part, nirūha enemas are scraping (lekhana) and sneha enemas (sneha-basti) are nourishing (bṛṃhaṇa).",
+       "n": "58"
+      },
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "प्रायः निरूह बस्तियाँ लेखन यानी खुरचने वाली और स्नेहबस्तियाँ बृंहण यानी पोषण करने वाली हैं।",
+       "n": "58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In the yāpana enemas",
+     "problem": "\"enemas\" is a supplied noun (glossary: \"(ones)\"); owner may decide since yāpana may itself be the name of a basti kind.",
+     "fix": "owner",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING: units 59-61",
+     "problem": "59 is a complete sentence (iṣṭam); the run-on is 60-61 only.",
+     "fix": "GROUPING: units 60-61",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: units 59-61 read as one sentence",
+      "new": "GROUPING: units 60-61 read as one sentence (60 \"but he in whom these ... should not return\", continued in 61)",
+      "n": "61"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कटने जैसी",
+     "problem": "Glossary forbids added जैसे/जैसी.",
+     "fix": "काटने की पीड़ा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "परिकर्तिका यानी कटने जैसी पीड़ा",
+      "new": "परिकर्तिका यानी काटने की पीड़ा",
+      "n": "62"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "arśaḥ",
+     "problem": "Visarga inside a compound (before p-) is irregular; read as a separate word silently. Needs a flag.",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "śophāgnināśapāṃḍutvaśūlārśaḥparikarttikāḥ",
+        "suggest": "…śūla-arśa-parikartikāḥ (or arśaḥ read as a separate word)",
+        "why": "possible: visarga before p- inside a compound is irregular; meaning unchanged"
+       }
+      ],
+      "n": "62"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाण्डुता यानी फीकापन",
+     "problem": "फीकापन (blandness) is not pallor; glossary: pāṇḍu = pale, not पीला (OPEN).",
+     "fix": "owner to fix wording",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अतिसार",
+     "problem": "Policy: modern/ordinary name.",
+     "fix": "अतिसार यानी दस्त",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ज्वर और अतिसार भी",
+      "new": "ज्वर और अतिसार यानी दस्त भी",
+      "n": "63"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सीधु",
+     "problem": "Policy: ordinary description (sīdhu is standard: fermented sugarcane juice).",
+     "fix": "सीधु यानी गन्ने के रस की मदिरा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अरिष्ट, क्षार, सीधु आदि से",
+      "new": "अरिष्ट, क्षार, सीधु यानी गन्ने के रस की मदिरा आदि से",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "completed in 67 and 68",
+     "problem": "68 starts a new thought; only 67 completes the sentence.",
+     "fix": "completed in 67",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "the reasoning is completed in 67 and 68",
+      "new": "the sentence is completed in 67",
+      "n": "66"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "prepared (cooked)",
+     "problem": "Glossary: siddha = cooked.",
+     "fix": "from cooked sneha",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "from prepared (cooked) sneha",
+       "new": "from cooked sneha",
+       "n": "68"
+      },
+      {
+       "op": "word",
+       "match_w": "siddha-snehāt",
+       "field": "gloss",
+       "value": "from cooked sneha (oil or ghee)",
+       "n": "68"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "बनाए गए द्रव्यों",
+     "problem": "\"बनाए गए\" (made) is not in yāpanārtha (\"meant for yāpana\").",
+     "fix": "यापन के प्रयोजन वाले द्रव्यों में",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यापन के लिए बनाए गए द्रव्यों में",
+      "new": "यापन के प्रयोजन वाले द्रव्यों में",
+      "n": "68"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ablative",
+     "problem": "Possible syntax: pṛthak takes the ablative (\"apart from the cooked sneha\"), then pṛthak pṛthak \"each separately\". Compare 70 \"gokṣurakāt pṛthak\". Human decision.",
+     "fix": "append possibility",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Possible syntax (not decided): 'pṛthak' governs the ablative, 'apart from the cooked sneha'; the repeated 'pṛthak pṛthak' then means 'each separately'.",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अलग-अलग list",
+     "problem": "Hindi gives only gokṣuraka a Hindi name; the other drugs (identified in the gloss and in units 40-41) are bare.",
+     "fix": "add names with hedges",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "सहाचर यानी सम्भवतः कटसरैया, अभीरु यानी सम्भवतः शतावरी, बला यानी बरियार, रास्ना जिसकी पहचान विवादित है यानी रासना या कुलंजन, और गोक्षुरक यानी गोखरू से अलग-अलग।",
+      "n": "70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बिस; नत; वक्षीरी",
+     "problem": "Hindi lacks names and does not mark वक्षीरी as unclear (English does).",
+     "fix": "set Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "छानकर ठण्डा होने पर: बिस यानी कमलनाल, द्राक्षा यानी अंगूर या मुनक्का, नत यानी सम्भवतः तगर, वक्षीरी जो अस्पष्ट शब्द है, और निदिग्धिका यानी कटेरी।",
+      "n": "72"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nata",
+     "problem": "The division \"nata-vakṣīrī\" is itself uncertain (damaged stretch), so the tagara identification for nata rests on an unsure split; human decision.",
+     "fix": "owner",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "mahāsahā-kṣudrasahā",
+     "problem": "Missed possibility: \"ṃśudrasahā\" may be a corruption of \"kṣudrasahā\"; mahāsahā + kṣudrasahā (māṣaparṇī and mudgaparṇī in the usual lists) is a common pair. Possible only; not for the translation.",
+     "fix": "append possibility",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Possible (not firm, not built into the translation): 'aṃśudrasahā' may be a corruption of 'kṣudrasahā', giving the usual pair mahāsahā + kṣudrasahā (often taken as māṣaparṇī and mudgaparṇī).",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मृणाल, उत्पल, उदीच्य",
+     "problem": "Hindi lacks ordinary names; ह्रीवेर is a Sanskrit synonym, not the Hindi name.",
+     "fix": "set Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जीवक, ऋषभक, उदीच्य यानी सम्भवतः ह्रीवेर अर्थात् सुगन्धबाला, मृणाल यानी कमलनाल, उत्पल यानी नीलकमल और चन्दन।",
+      "n": "74"
+     }
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ताल; कणा",
+     "problem": "Hindi lacks ताड़ and the hedge for kaṇā (English has it).",
+     "fix": "set Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "खजूर, ताल की मज्जा यानी ताड़ की गिरी, आत्मगुप्ता यानी केवाँच, आमलकी यानी आँवला और कणा यानी सम्भवतः पीपर।",
+      "n": "75"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tāla probable",
+     "problem": "Inconsistent tag: gloss says standard, note says probable. tāla = palmyra (Borassus flabellifer) is standard.",
+     "fix": "standard",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "tāla = palmyra palm (probable)",
+      "new": "tāla = palmyra palm (standard)",
+      "n": "75"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पटोल, मेदा",
+     "problem": "पटोल lacks the Hindi name; \"मेदा\" reads as मैदा (flour) to a Hindi reader.",
+     "fix": "पटोल यानी परवल, मेदा नामक द्रव्य ...",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पटोल, मेदा,",
+      "new": "पटोल यानी परवल, मेदा नामक द्रव्य जिसकी पहचान विवादित है,",
+      "n": "76"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "śītapākī, odana",
+     "problem": "Correctly left unidentified. Observation: \"a plant\" for odana is assumed from the list context; the text says only \"named odana\".",
+     "fix": "owner",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुष्कों",
+     "problem": "Unexplained; 50 explained it.",
+     "fix": "मुष्कों यानी अण्डकोशों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बकरे के मुष्कों से",
+      "new": "बकरे के मुष्कों यानी अण्डकोशों से",
+      "n": "78"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "39 units reviewed. 54 issues (8 error, 46 minor). Main errors: unit 49 gram (bahuvrīhi agrees with masculine bastiḥ); 50 non-word mūkara kept in `w` and false 'attested variant' claim; 55 invented 'के साथ'; 57 invented causal 'होने के कारण'; 43 Hindi 'पल भर' means 'a moment'; 61 wrong GROUPING span (59 is complete; run-on is 60-61); 68 'बनाए गए' added; 76 'मेदा' reads as flour. Identifications judged acceptable as hedged: sāhacara, abhīru, nata, ikṣuraka, tāla, ātmaguptā, sārivā, nidigdhikā; gonarda hedged but 'bird' is assumed; yaṣṭikā (44) newly hedged. Damaged units (52, 55, 73) handled as the glossary asks; 72 nata/vakṣīrī division uncertain. Items needing a human: 57 (stambhin referent), 59 (yāpana 'enemas'), 62 (पाण्डुता Hindi), 68 (pṛthak + ablative), 72, 73, 76 (śītapākī/odana). No regrouping needed; sentences run across 40-42, 60-61, 62-63, 70-71, 72-77, 77-78.",
+ "glossary_suggestions": [
+  "vṛṣatama / ativṛṣa: fix 'most aphrodisiac' / 'exceedingly virile' in English and वृष्य in Hindi; never bare 'वृष'.",
+  "Hindi unit words: पल, तुला, द्रोण, प्रस्थ kept as Sanskrit; never write 'पल भर'.",
+  "Hindi 'मेदा' must carry 'नामक द्रव्य' (else read as flour मैदा).",
+  "kukkuṭa = 'fowl' (not hen/cock) unless the text specifies.",
+  "pṛthak may take the ablative ('apart from'); decide for 68 vs 70.",
+  "Hindi names to reuse: कटसरैया (sahācara), शतावरी (abhīru), बरियार (balā), तालमखाना (ikṣuraka), परवल (paṭola), सुगन्धबाला (hrīvera/udīcya), कमलनाल (bisa/mṛṇāla), तगर (nata)."
+ ]
+}
