@@ -1,0 +1,1306 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ati-tīkṣṇa-agneḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "ati-tīkṣṇa-agneḥ",
+      "field": "gloss",
+      "value": "of very sharp fire (agni, the digestive fire)"
+     },
+     "fix": "of very sharp fire (agni, the digestive fire)"
+    },
+    {
+     "field": "english",
+     "where": "very sharp fire (agni)",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "very sharp fire (agni)",
+      "new": "very sharp fire (agni, the digestive fire)"
+     },
+     "fix": "very sharp fire (agni, the digestive fire)"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "piṇḍa-prastarābhyām",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "piṇḍa-prastarābhyām",
+      "field": "gloss",
+      "value": "by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed); both are named kinds of sweating (sveda), standard"
+     },
+     "fix": "by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed); both are named kinds of sweating (sveda), standard"
+    },
+    {
+     "field": "english",
+     "where": "by lump (piṇḍa) and layer (prastara)",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "by lump (piṇḍa) and layer (prastara)",
+      "new": "by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed)"
+     },
+     "fix": "by lump (piṇḍa, bolus fomentation) and layer (prastara, fomentation on a heated spread bed)"
+    },
+    {
+     "field": "hindi",
+     "where": "पिण्ड और प्रस्तर से स्वेदित कराए",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिण्ड और प्रस्तर से स्वेदित कराए",
+      "new": "पिण्ड स्वेद यानी गरम पिण्ड से सेंक और प्रस्तर स्वेद यानी गरम बिछावन पर सेंक से स्वेदित कराए"
+     },
+     "fix": "पिण्ड स्वेद यानी गरम पिण्ड से सेंक और प्रस्तर स्वेद यानी गरम बिछावन पर सेंक से स्वेदित कराए"
+    },
+    {
+     "field": "notes",
+     "where": "piṇḍa and prastara are kept as literal words, not identified.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "notes",
+      "old": "piṇḍa and prastara are kept as literal words, not identified.",
+      "new": "piṇḍa-sveda and prastara-sveda are standard named kinds of fomentation (standard); the line itself gives only the two words."
+     },
+     "fix": "piṇḍa-sveda and prastara-sveda are standard named kinds of fomentation (standard); the line itself gives only the two words."
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śūlaḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "śūlaḥ",
+      "field": "gloss",
+      "value": "piercing pain (śūla; colic in the belly)"
+     },
+     "fix": "piercing pain (śūla; colic in the belly)"
+    },
+    {
+     "field": "english",
+     "where": "piercing pain, and",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "piercing pain, and",
+      "new": "piercing pain (śūla, colic), and"
+     },
+     "fix": "piercing pain (śūla, colic), and"
+    },
+    {
+     "field": "hindi",
+     "where": "शूल, तथा",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शूल, तथा",
+      "new": "शूल यानी ऐंठन भरी तीव्र पीड़ा, तथा"
+     },
+     "fix": "शूल यानी ऐंठन भरी तीव्र पीड़ा, तथा"
+    },
+    {
+     "field": "notes",
+     "where": "śūla is glossed 'piercing pain', not a named disease.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "notes",
+      "old": "śūla is glossed 'piercing pain', not a named disease.",
+      "new": "śūla: piercing pain, in this abdominal setting colic (standard)."
+     },
+     "fix": "śūla: piercing pain, in this abdominal setting colic (standard)."
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āsthāpya",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "āsthāpya",
+      "field": "gloss",
+      "value": "having given āsthāpana (decoction enema, standard; literally 'making stand')"
+     },
+     "fix": "having given āsthāpana (decoction enema, standard; literally 'making stand')"
+    },
+    {
+     "field": "gloss",
+     "where": "jāṅgala-rasaiḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "jāṅgala-rasaiḥ",
+      "field": "gloss",
+      "value": "with juices/broths of jāṅgala (dry-land animals; standard: meat broths)"
+     },
+     "fix": "with juices/broths of jāṅgala (dry-land animals; standard: meat broths)"
+    },
+    {
+     "field": "gloss",
+     "where": "anuvāsya",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "anuvāsya",
+      "field": "gloss",
+      "value": "having given anuvāsana (oil enema, standard; literally 'making stay')"
+     },
+     "fix": "having given anuvāsana (oil enema, standard; literally 'making stay')"
+    },
+    {
+     "field": "gloss",
+     "where": "phala-dāru-pippalī-siddhena",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "phala-dāru-pippalī-siddhena",
+      "field": "gloss",
+      "value": "prepared with phala (disputed; perhaps madanaphala, Randia dumetorum), dāru (probable: devadāru, Cedrus deodara) and pippalī (long pepper, Piper longum; standard)"
+     },
+     "fix": "prepared with phala (disputed; perhaps madanaphala, Randia dumetorum), dāru (probable: devadāru, Cedrus deodara) and pippalī (long pepper, Piper longum; standard)"
+    },
+    {
+     "field": "english",
+     "where": "āsthāpana with sharp",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "āsthāpana with sharp",
+      "new": "āsthāpana (decoction enema) with sharp"
+     },
+     "fix": "āsthāpana (decoction enema) with sharp"
+    },
+    {
+     "field": "english",
+     "where": "jāṅgala juices",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "jāṅgala juices",
+      "new": "jāṅgala juices (meat broths of dry-land animals)"
+     },
+     "fix": "jāṅgala juices (meat broths of dry-land animals)"
+    },
+    {
+     "field": "english",
+     "where": "anuvāsana with oil prepared with phala, dāru and pippalī",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "anuvāsana with oil prepared with phala, dāru and pippalī",
+      "new": "anuvāsana (oil enema) with oil prepared with phala, dāru and pippalī (long pepper)"
+     },
+     "fix": "anuvāsana (oil enema) with oil prepared with phala, dāru and pippalī (long pepper)"
+    },
+    {
+     "field": "hindi",
+     "where": "आस्थापन करके",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आस्थापन करके",
+      "new": "आस्थापन यानी निरूह बस्ति करके"
+     },
+     "fix": "आस्थापन यानी निरूह बस्ति करके"
+    },
+    {
+     "field": "hindi",
+     "where": "जाङ्गल रसों से",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाङ्गल रसों से",
+      "new": "जाङ्गल रसों यानी सूखे देश के पशु-पक्षियों के मांसरस से"
+     },
+     "fix": "जाङ्गल रसों यानी सूखे देश के पशु-पक्षियों के मांसरस से"
+    },
+    {
+     "field": "hindi",
+     "where": "पिप्पली से सिद्ध तैल से अनुवासन करके",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिप्पली से सिद्ध तैल से अनुवासन करके",
+      "new": "पिप्पली यानी पीपर से सिद्ध तैल से अनुवासन यानी तैल-बस्ति करके"
+     },
+     "fix": "पिप्पली यानी पीपर से सिद्ध तैल से अनुवासन यानी तैल-बस्ति करके"
+    },
+    {
+     "field": "notes",
+     "where": "the line does not say what they are.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "notes",
+      "old": "the line does not say what they are.",
+      "new": "standard: āsthāpana = decoction enema, anuvāsana = oil enema (the line itself does not define them)."
+     },
+     "fix": "standard: āsthāpana = decoction enema, anuvāsana = oil enema (the line itself does not define them)."
+    },
+    {
+     "field": "notes",
+     "where": "phala, dāru, pippalī are left as drug names without identification.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "notes",
+      "old": "phala, dāru, pippalī are left as drug names without identification.",
+      "new": "pippalī: standard; dāru: probable (devadāru); phala: disputed (madanaphala is one suggestion), the line does not say which."
+     },
+     "fix": "pippalī: standard; dāru: probable (devadāru); phala: disputed (madanaphala is one suggestion), the line does not say which."
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "antaḥ-śūlam",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "antaḥ-śūlam",
+      "field": "gloss",
+      "value": "inner piercing pain (śūla; colic)"
+     },
+     "fix": "inner piercing pain (śūla; colic)"
+    },
+    {
+     "field": "gloss",
+     "where": "śvāsaḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "śvāsaḥ",
+      "field": "gloss",
+      "value": "breathing trouble (śvāsa; labored breathing, dyspnoea)"
+     },
+     "fix": "breathing trouble (śvāsa; labored breathing, dyspnoea)"
+    },
+    {
+     "field": "english",
+     "where": "inner piercing pain,",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "inner piercing pain,",
+      "new": "inner piercing pain (śūla, colic),"
+     },
+     "fix": "inner piercing pain (śūla, colic),"
+    },
+    {
+     "field": "english",
+     "where": "śvāsa (breath)",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "śvāsa (breath)",
+      "new": "śvāsa (labored breathing, dyspnoea)"
+     },
+     "fix": "śvāsa (labored breathing, dyspnoea)"
+    },
+    {
+     "field": "hindi",
+     "where": "श्वास, तथा",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्वास, तथा",
+      "new": "श्वास यानी साँस फूलना, तथा"
+     },
+     "fix": "श्वास यानी साँस फूलना, तथा"
+    },
+    {
+     "field": "notes",
+     "where": "śvāsa is left as 'breath (śvāsa)' without naming a disease.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "notes",
+      "old": "śvāsa is left as 'breath (śvāsa)' without naming a disease.",
+      "new": "śvāsa: in lists of symptoms the standard sense is labored breathing, dyspnoea (probable here)."
+     },
+     "fix": "śvāsa: in lists of symptoms the standard sense is labored breathing, dyspnoea (probable here)."
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "udāvartta-ānāha-hara-",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "udāvartta-ānāha-hara-",
+      "field": "gloss",
+      "value": "taking away udāvarta (reversed movement of Vāta with obstructed stool and flatus) and ānāha (distension with retention)"
+     },
+     "fix": "taking away udāvarta (reversed movement of Vāta with obstructed stool and flatus) and ānāha (distension with retention)"
+    },
+    {
+     "field": "gloss",
+     "where": "abhyaṅga-sveda-varti-dīpana-cūrṇa-basti-kriyābhiḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "abhyaṅga-sveda-varti-dīpana-cūrṇa-basti-kriyābhiḥ",
+      "field": "gloss",
+      "value": "with the procedures of anointing (abhyaṅga, oil massage), sweating, wick (varti, medicated suppository), kindling, powder, and basti (medicated enema)"
+     },
+     "fix": "with the procedures of anointing (abhyaṅga, oil massage), sweating, wick (varti, medicated suppository), kindling, powder, and basti (medicated enema)"
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, और आनाह यानी पेट का फूलकर रुक जाना, इन्हें हरने वाली अभ्यंग यानी तेल मालिश, स्वेद, वर्ति यानी औषधि की बत्ती, दीपन, चूर्ण और बस्ति यानी एनीमा की क्रियाओं से उसका उपचार करे।"
+     },
+     "fix": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, और आनाह यानी पेट का फूलकर रुक जाना, इन्हें हरने वाली अभ्यंग यानी तेल मालिश, स्वेद, वर्ति यानी औषधि की बत्ती, दीपन, चूर्ण और बस्ति यानी एनीमा की क्रियाओं से उसका उपचार करे।"
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "english",
+      "value": "One should treat him with the procedures of anointing (abhyaṅga, oil massage), sweating, wick (varti, medicated suppository), kindling, powder and basti (medicated enema), which take away udāvarta (reversed movement of Vāta, with obstructed stool and flatus) and ānāha (distension with retention)."
+     },
+     "fix": "One should treat him with the procedures of anointing (abhyaṅga, oil massage), sweating, wick (varti, medicated suppository), kindling, powder and basti (medicated enema), which take away udāvarta (reversed movement of Vāta, with obstructed stool and flatus) and ānāha (distension with retention)."
+    },
+    {
+     "field": "notes",
+     "where": "varti, dīpana, cūrṇa, basti are kept as literal words.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": "varti, dīpana, cūrṇa, basti are kept as literal words.",
+      "new": "udāvarta, ānāha, varti, basti: standard meanings as given in the glosses."
+     },
+     "fix": "udāvarta, ānāha, varti, basti: standard meanings as given in the glosses."
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "parikartikām",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "parikartikām",
+      "field": "gloss",
+      "value": "parikartikā (cutting-around pain; scissoring pain in the lower belly and anus, standard term)"
+     },
+     "fix": "parikartikā (cutting-around pain; scissoring pain in the lower belly and anus, standard term)"
+    },
+    {
+     "field": "english",
+     "where": "parikartikā (cutting-around pain)",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "parikartikā (cutting-around pain)",
+      "new": "parikartikā (cutting-around pain, scissoring pain in the lower belly and anus)"
+     },
+     "fix": "parikartikā (cutting-around pain, scissoring pain in the lower belly and anus)"
+    },
+    {
+     "field": "hindi",
+     "where": "परिकर्तिका उत्पन्न करती है",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "परिकर्तिका उत्पन्न करती है",
+      "new": "परिकर्तिका यानी चारों ओर काटने वाली पीड़ा उत्पन्न करती है"
+     },
+     "fix": "परिकर्तिका यानी चारों ओर काटने वाली पीड़ा उत्पन्न करती है"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "viṣṭambhaḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "viṣṭambhaḥ",
+      "field": "gloss",
+      "value": "binding, obstruction (viṣṭambha; constipation with distension)"
+     },
+     "fix": "binding, obstruction (viṣṭambha; constipation with distension)"
+    },
+    {
+     "field": "english",
+     "where": "and binding.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "and binding.",
+      "new": "and binding (viṣṭambha, retention with constipation)."
+     },
+     "fix": "and binding (viṣṭambha, retention with constipation)."
+    },
+    {
+     "field": "hindi",
+     "where": "और विष्टम्भ।",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और विष्टम्भ।",
+      "new": "और विष्टम्भ यानी मल का रुकना।"
+     },
+     "fix": "और विष्टम्भ यानी मल का रुकना।"
+    },
+    {
+     "field": "notes",
+     "where": "viṣṭambha is kept literal ('binding, obstruction').",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "viṣṭambha is kept literal ('binding, obstruction').",
+      "new": "viṣṭambha: 'binding, obstruction', in practice constipation with distension (standard)."
+     },
+     "fix": "viṣṭambha: 'binding, obstruction', in practice constipation with distension (standard)."
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-tila-madhuka-madhu-yuktaiḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "kṛṣṇa-tila-madhuka-madhu-yuktaiḥ",
+      "field": "gloss",
+      "value": "joined with black tila (sesame, Sesamum indicum; standard), madhuka (probable: liquorice, Glycyrrhiza glabra, the yaṣṭīmadhuka of unit 27 [standard]) and honey (madhu)"
+     },
+     "fix": "joined with black tila (sesame, Sesamum indicum; standard), madhuka (probable: liquorice, Glycyrrhiza glabra, the yaṣṭīmadhuka of unit 27 [standard]) and honey (madhu)"
+    },
+    {
+     "field": "gloss",
+     "where": "picchā-bastibhiḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "picchā-bastibhiḥ",
+      "field": "gloss",
+      "value": "with picchā-bastis (slimy enemas; basti = medicated enema)"
+     },
+     "fix": "with picchā-bastis (slimy enemas; basti = medicated enema)"
+    },
+    {
+     "field": "gloss",
+     "where": "āsthāpayet",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "āsthāpayet",
+      "field": "gloss",
+      "value": "should give āsthāpana (decoction enema; literally 'make stand')"
+     },
+     "fix": "should give āsthāpana (decoction enema; literally 'make stand')"
+    },
+    {
+     "field": "english",
+     "where": "give him āsthāpana with picchā-bastis joined with black tila, madhuka and honey",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "give him āsthāpana with picchā-bastis joined with black tila, madhuka and honey",
+      "new": "give him āsthāpana (decoction enema) with picchā-bastis (slimy enemas) joined with black tila (sesame), madhuka (probably liquorice) and honey"
+     },
+     "fix": "give him āsthāpana (decoction enema) with picchā-bastis (slimy enemas) joined with black tila (sesame), madhuka (probably liquorice) and honey"
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसे काले तिल, मधुक यानी सम्भवतः मुलेठी और मधु से युक्त पिच्छा-बस्तियों से आस्थापन यानी निरूह बस्ति करे।"
+     },
+     "fix": "उसे काले तिल, मधुक यानी सम्भवतः मुलेठी और मधु से युक्त पिच्छा-बस्तियों से आस्थापन यानी निरूह बस्ति करे।"
+    },
+    {
+     "field": "notes",
+     "where": "tila and madhuka are kept as drug names without identification;",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "notes",
+      "old": "tila and madhuka are kept as drug names without identification;",
+      "new": "tila: sesame (standard); madhuka: probably liquorice (probable), not madhūka (mahua);"
+     },
+     "fix": "tila: sesame (standard); madhuka: probably liquorice (probable), not madhūka (mahua);"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣīri-vṛkṣa-śṛta-kṣīreṇa",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "kṣīri-vṛkṣa-śṛta-kṣīreṇa",
+      "field": "gloss",
+      "value": "with milk boiled with the milk-bearing trees (kṣīrivṛkṣa; standard group of milky-sap fig trees: nyagrodha, Ficus benghalensis; udumbara, F. racemosa; aśvattha, F. religiosa; plakṣa, F. lacor/virens; lists vary)"
+     },
+     "fix": "with milk boiled with the milk-bearing trees (kṣīrivṛkṣa; standard group of milky-sap fig trees: nyagrodha, Ficus benghalensis; udumbara, F. racemosa; aśvattha, F. religiosa; plakṣa, F. lacor/virens; lists vary)"
+    },
+    {
+     "field": "english",
+     "where": "(kṣīrivṛkṣa).",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "(kṣīrivṛkṣa).",
+      "new": "(kṣīrivṛkṣa, the group of milky-sap trees, chiefly figs)."
+     },
+     "fix": "(kṣīrivṛkṣa, the group of milky-sap trees, chiefly figs)."
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा क्षीरिवृक्षों यानी वट, गूलर, पीपल, पाकड़ आदि दूध वाले वृक्षों के साथ पकाए हुए दूध से।"
+     },
+     "fix": "अथवा क्षीरिवृक्षों यानी वट, गूलर, पीपल, पाकड़ आदि दूध वाले वृक्षों के साथ पकाए हुए दूध से।"
+    },
+    {
+     "field": "notes",
+     "where": "The phrase kṣīrivṛkṣa is rendered by its literal sense, not identified.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "notes",
+      "old": "The phrase kṣīrivṛkṣa is rendered by its literal sense, not identified.",
+      "new": "kṣīrivṛkṣa: a standard group, usually nyagrodha, udumbara, aśvattha, plakṣa (probable members; lists differ); the line names none."
+     },
+     "fix": "kṣīrivṛkṣa: a standard group, usually nyagrodha, udumbara, aśvattha, plakṣa (probable members; lists differ); the line names none."
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yaṣṭī-madhuka-tailena",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "yaṣṭī-madhuka-tailena",
+      "field": "gloss",
+      "value": "with oil of yaṣṭīmadhuka (liquorice; standard, Latin name in unit 25)"
+     },
+     "fix": "with oil of yaṣṭīmadhuka (liquorice; standard, Latin name in unit 25)"
+    },
+    {
+     "field": "gloss",
+     "where": "anuvāsayet",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "anuvāsayet",
+      "field": "gloss",
+      "value": "should give anuvāsana (oil enema; literally 'make stay')"
+     },
+     "fix": "should give anuvāsana (oil enema; literally 'make stay')"
+    },
+    {
+     "field": "english",
+     "where": "anuvāsana with ghee-maṇḍa and with oil of yaṣṭīmadhuka",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "anuvāsana with ghee-maṇḍa and with oil of yaṣṭīmadhuka",
+      "new": "anuvāsana (oil enema) with ghee-maṇḍa and with oil of yaṣṭīmadhuka (liquorice)"
+     },
+     "fix": "anuvāsana (oil enema) with ghee-maṇḍa and with oil of yaṣṭīmadhuka (liquorice)"
+    },
+    {
+     "field": "hindi",
+     "where": "यष्टीमधुक के तैल से अनुवासन करे",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यष्टीमधुक के तैल से अनुवासन करे",
+      "new": "यष्टीमधुक यानी मुलेठी के तैल से अनुवासन यानी तैल-बस्ति करे"
+     },
+     "fix": "यष्टीमधुक यानी मुलेठी के तैल से अनुवासन यानी तैल-बस्ति करे"
+    },
+    {
+     "field": "notes",
+     "where": "yaṣṭīmadhuka is kept as a drug name.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "notes",
+      "old": "yaṣṭīmadhuka is kept as a drug name.",
+      "new": "yaṣṭīmadhuka = liquorice (standard)."
+     },
+     "fix": "yaṣṭīmadhuka = liquorice (standard)."
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dāḍima-tvacā",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "dāḍima-tvacā",
+      "field": "gloss",
+      "value": "with the rind of dāḍima (pomegranate, Punica granatum; standard)"
+     },
+     "fix": "with the rind of dāḍima (pomegranate, Punica granatum; standard)"
+    },
+    {
+     "field": "english",
+     "where": "the skin of dāḍima.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "the skin of dāḍima.",
+      "new": "the skin of dāḍima (pomegranate)."
+     },
+     "fix": "the skin of dāḍima (pomegranate)."
+    },
+    {
+     "field": "hindi",
+     "where": "दाडिम की त्वचा",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दाडिम की त्वचा",
+      "new": "दाडिम यानी अनार की त्वचा"
+     },
+     "fix": "दाडिम यानी अनार की त्वचा"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sa-dāḍima-rasam",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "sa-dāḍima-rasam",
+      "field": "gloss",
+      "value": "with dāḍima juice (pomegranate, see unit 30)"
+     },
+     "fix": "with dāḍima juice (pomegranate, see unit 30)"
+    },
+    {
+     "field": "english",
+     "where": "dāḍima juice",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "dāḍima juice",
+      "new": "dāḍima (pomegranate) juice"
+     },
+     "fix": "dāḍima (pomegranate) juice"
+    },
+    {
+     "field": "hindi",
+     "where": "दाडिम के रस",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दाडिम के रस",
+      "new": "दाडिम यानी अनार के रस"
+     },
+     "fix": "दाडिम यानी अनार के रस"
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tila-devadāru-kalkam",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "tila-devadāru-kalkam",
+      "field": "gloss",
+      "value": "paste of tila (sesame) and devadāru (deodar cedar; standard, Latin names in units 25 and 16)"
+     },
+     "fix": "paste of tila (sesame) and devadāru (deodar cedar; standard, Latin names in units 25 and 16)"
+    },
+    {
+     "field": "english",
+     "where": "a paste (kalka) of tila and devadāru",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "a paste (kalka) of tila and devadāru",
+      "new": "a paste (kalka) of tila (sesame) and devadāru (deodar cedar)"
+     },
+     "fix": "a paste (kalka) of tila (sesame) and devadāru (deodar cedar)"
+    },
+    {
+     "field": "hindi",
+     "where": "तिल और देवदारु का कल्क",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तिल और देवदारु का कल्क",
+      "new": "तिल और देवदारु यानी देवदार का कल्क"
+     },
+     "fix": "तिल और देवदारु यानी देवदार का कल्क"
+    },
+    {
+     "field": "notes",
+     "where": "tila and devadāru are drug names, not identified.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "notes",
+      "old": "tila and devadāru are drug names, not identified.",
+      "new": "tila and devadāru: sesame and deodar cedar (standard)."
+     },
+     "fix": "tila and devadāru: sesame and deodar cedar (standard)."
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "viṣṭambha-gaurava-śoṣa-koṭha-kaṇḍū-pāṇḍutā-aṅga-sāda-śūlāni",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "viṣṭambha-gaurava-śoṣa-koṭha-kaṇḍū-pāṇḍutā-aṅga-sāda-śūlāni",
+      "field": "gloss",
+      "value": "binding (viṣṭambha; constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption; probable), itching, paleness (pāṇḍutā; pallor), sinking of the limbs, piercing pain (śūla; colic)"
+     },
+     "fix": "binding (viṣṭambha; constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption; probable), itching, paleness (pāṇḍutā; pallor), sinking of the limbs, piercing pain (śūla; colic)"
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "english",
+      "value": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla, colic)."
+     },
+     "fix": "And it brings about binding (viṣṭambha, constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption), itching, paleness (pāṇḍutā, pallor), sinking of the limbs and piercing pain (śūla, colic)."
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "hindi",
+      "value": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र पीड़ा उत्पन्न करता है।"
+     },
+     "fix": "और विष्टम्भ यानी मल का रुकना, भारीपन, शोष, कोठ यानी चकत्ते, खुजली, पाण्डुता यानी रंग का फीकापन, अंगों की शिथिलता और शूल यानी तीव्र पीड़ा उत्पन्न करता है।"
+    },
+    {
+     "field": "notes",
+     "where": "koṭha is a technical word and is kept untranslated.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "notes",
+      "old": "koṭha is a technical word and is kept untranslated.",
+      "new": "koṭha: wheals or urticaria-like eruption (probable)."
+     },
+     "fix": "koṭha: wheals or urticaria-like eruption (probable)."
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tiniśa-dhava-aśvakarṇa-palāśa-valā-niryūhaiḥ",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "tiniśa-dhava-aśvakarṇa-palāśa-valā-niryūhaiḥ",
+      "field": "gloss",
+      "value": "with decoctions of tiniśa (Ougeinia oojeinensis; standard), dhava (Anogeissus latifolia; standard), aśvakarṇa (probable: sal, Shorea robusta), palāśa (Butea monosperma, flame of the forest; standard) and valā (Sida cordifolia; standard)"
+     },
+     "fix": "with decoctions of tiniśa (Ougeinia oojeinensis; standard), dhava (Anogeissus latifolia; standard), aśvakarṇa (probable: sal, Shorea robusta), palāśa (Butea monosperma, flame of the forest; standard) and valā (Sida cordifolia; standard)"
+    },
+    {
+     "field": "gloss",
+     "where": "āsthāpayet",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "āsthāpayet",
+      "field": "gloss",
+      "value": "should give āsthāpana (decoction enema; literally 'make stand')"
+     },
+     "fix": "should give āsthāpana (decoction enema; literally 'make stand')"
+    },
+    {
+     "field": "english",
+     "where": "decoctions (niryūha) of tiniśa, dhava, aśvakarṇa, palāśa and valā",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "decoctions (niryūha) of tiniśa, dhava, aśvakarṇa, palāśa and valā",
+      "new": "decoctions (niryūha) of tiniśa, dhava (axlewood), aśvakarṇa (probably sal), palāśa (flame of the forest) and valā (country mallow)"
+     },
+     "fix": "decoctions (niryūha) of tiniśa, dhava (axlewood), aśvakarṇa (probably sal), palāśa (flame of the forest) and valā (country mallow)"
+    },
+    {
+     "field": "english",
+     "where": "give him āsthāpana with",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "give him āsthāpana with",
+      "new": "give him āsthāpana (decoction enema) with"
+     },
+     "fix": "give him āsthāpana (decoction enema) with"
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern names beside Sanskrit terms (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसे तिनिश यानी तिनस, धव यानी धौ, अश्वकर्ण यानी सम्भवतः साल, पलाश यानी ढाक और बला यानी खरेटी के निर्यूहों से, मधु मिलाकर, आस्थापन यानी निरूह बस्ति करे।"
+     },
+     "fix": "उसे तिनिश यानी तिनस, धव यानी धौ, अश्वकर्ण यानी सम्भवतः साल, पलाश यानी ढाक और बला यानी खरेटी के निर्यूहों से, मधु मिलाकर, आस्थापन यानी निरूह बस्ति करे।"
+    },
+    {
+     "field": "notes",
+     "where": "The five names are drug names, not identified.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "notes",
+      "old": "The five names are drug names, not identified.",
+      "new": "The five plants: tiniśa, dhava, palāśa, valā standard; aśvakarṇa probable."
+     },
+     "fix": "The five plants: tiniśa, dhava, palāśa, valā standard; aśvakarṇa probable."
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āsava-ariṣṭa-ādīn",
+     "problem": "modern name/meaning beside the Sanskrit gloss (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "āsava-ariṣṭa-ādīn",
+      "field": "gloss",
+      "value": "āsavas, ariṣṭas (medicinal fermented drinks; standard) and so on"
+     },
+     "fix": "āsavas, ariṣṭas (medicinal fermented drinks; standard) and so on"
+    },
+    {
+     "field": "english",
+     "where": "ariṣṭas and so on",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "english",
+      "old": "ariṣṭas and so on",
+      "new": "ariṣṭas (medicinal fermented drinks) and so on"
+     },
+     "fix": "ariṣṭas (medicinal fermented drinks) and so on"
+    },
+    {
+     "field": "hindi",
+     "where": "आसव, अरिष्ट आदि",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आसव, अरिष्ट आदि",
+      "new": "आसव, अरिष्ट यानी औषधीय किण्वित पेय आदि"
+     },
+     "fix": "आसव, अरिष्ट यानी औषधीय किण्वित पेय आदि"
+    },
+    {
+     "field": "notes",
+     "where": "āsava and ariṣṭa are kept as the text's own words.",
+     "problem": "modern name/meaning beside the Sanskrit term (owner policy)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "notes",
+      "old": "āsava and ariṣṭa are kept as the text's own words.",
+      "new": "āsava and ariṣṭa: medicinal fermented drinks (standard)."
+     },
+     "fix": "āsava and ariṣṭa: medicinal fermented drinks (standard)."
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment pass ch03 chunk 1. Changed 17 units. IDs: standard 14 (pippalī, tila, yaṣṭīmadhuka, devadāru, dāḍima, tiniśa, dhava, palāśa, valā, kṣīrivṛkṣa group, plus procedure terms āsthāpana/anuvāsana/basti/śūla/āsava-ariṣṭa), probable 5 (dāru=devadāru, madhuka=liquorice, aśvakarṇa=sal, koṭha, śvāsa), disputed 1 (phala), unidentified 0. Left alone: units 6, 8, 12, 20, 33 (low confidence); unit 30 (low) touched only for dāḍima. No regrouping."
+}

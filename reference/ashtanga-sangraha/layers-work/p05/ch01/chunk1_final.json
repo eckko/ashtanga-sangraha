@@ -219,7 +219,7 @@
       "words": [
        {
         "w": "madana-jīmūtaka-ikṣvāku-kukkṛtikā-śātakī-kuṭaja-phalāni",
-        "gloss": "fruits of madana, jīmūtaka, ikṣvāku, kukkṛtikā, śātakī and kuṭaja (drug names)",
+        "gloss": "fruits of madana (emetic nut, Randia spinosa; standard), jīmūtaka (Luffa echinata, bandal; probable), ikṣvāku (a bitter bottle-gourd, Lagenaria siceraria; disputed, and the reading is conjectural here), kukkṛtikā (unidentified), śātakī (unidentified) and kuṭaja (kurchi, Holarrhena pubescens; standard) (drug names)",
         "gram": "dvandva+tat-puruṣa, n. nom. pl."
        }
       ]
@@ -247,8 +247,8 @@
     ]
    }
   ],
-  "hindi": "वमन के द्रव्यों में मदन, जीमूतक, इक्ष्वाकु, कुक्कृतिका, शातकी और कुटज के फल श्रेष्ठ हैं।",
-  "english": "Among the substances for emesis, the fruits of madana, jīmūtaka, ikṣvāku, kukkṛtikā, śātakī and kuṭaja are the best.",
+  "hindi": "वमन के द्रव्यों में मदन यानी मैनफल, जीमूतक, इक्ष्वाकु, कुक्कृतिका, शातकी और कुटज यानी कुड़ा के फल श्रेष्ठ हैं।",
+  "english": "Among the substances for emesis, the fruits of madana (emetic nut), jīmūtaka, ikṣvāku, kukkṛtikā, śātakī and kuṭaja (kurchi) are the best.",
   "text_flags": [
    {
     "src": "madanajīmūtakakṣvevākukkṛtikāśātakīkuṭajaphalāni",
@@ -256,7 +256,7 @@
     "why": "'kakṣvevāku' looks like a damaged 'ikṣvāku' (jīmūtaka+ikṣvāku); 'kukkṛtikā' and 'śātakī' are also doubtful (possibly kṛtavedhana / śyātakī in other books); not verified"
    }
   ],
-  "notes": "Drug names kept as names; no plant is identified. The long compound is damaged in the scan: the reading 'ikṣvāku' is a guess, the others kept as printed.",
+  "notes": "Drug names kept as names; the identifications are in the word gloss (owner policy 2026-10-17); only madana and kuṭaja are firm, the rest are tagged probable, disputed or unidentified. The long compound is damaged in the scan: the reading 'ikṣvāku' is a guess, the others kept as printed.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -295,7 +295,7 @@
       "words": [
        {
         "w": "madana-phalam",
-        "gloss": "madana fruit",
+        "gloss": "madana fruit (emetic nut; plant identified in unit 4)",
         "gram": "tat-puruṣa, n. nom. sg."
        }
       ]
@@ -303,8 +303,8 @@
     ]
    }
   ],
-  "hindi": "उनमें भी मदन का फल।",
-  "english": "Among these too, the madana fruit.",
+  "hindi": "उनमें भी मदनफल यानी मैनफल।",
+  "english": "Among these too, the madana (emetic nut) fruit.",
   "text_flags": [],
   "notes": "Elliptical: no predicate in this unit (the sense of 'best' carries over from the previous unit); translated as printed.",
   "confidence": "medium",
@@ -672,7 +672,7 @@
       "words": [
        {
         "w": "madana-phalāni",
-        "gloss": "madana fruits",
+        "gloss": "madana fruits (emetic nut; plant identified in unit 4)",
         "gram": "tat-puruṣa, n. acc. pl."
        },
        {
@@ -685,8 +685,8 @@
     ]
    }
   ],
-  "hindi": "फिर वसन्त और ग्रीष्म के बीच, शुभ दिन और शुभ मुहूर्त में, न बहुत हरे और न बहुत पीले मदन के फलों को ग्रहण करे।",
-  "english": "Then, in the interval between spring and summer, on an auspicious day and at an auspicious moment, one should take madana fruits that are neither very green nor very pale.",
+  "hindi": "फिर वसन्त और ग्रीष्म के बीच, शुभ दिन और शुभ मुहूर्त में, न बहुत हरे और न बहुत पीले मदन यानी मैनफल के फलों को ग्रहण करे।",
+  "english": "Then, in the interval between spring and summer, on an auspicious day and at an auspicious moment, one should take madana (emetic nut) fruits that are neither very green nor very pale.",
   "text_flags": [],
   "notes": "'muhūrtte' is a variant spelling of muhūrte. 'harita-pāṇḍu' read as 'green and pale-yellow'; as a single compound it could mean 'green-pale'. praśaste may qualify only ahani, or both ahani and muhūrte; both translations take it with both.",
   "confidence": "medium",
@@ -732,7 +732,7 @@
       "words": [
        {
         "w": "kuśa-mūḍake",
-        "gloss": "in a bundle (mūḍaka) of kuśa grass",
+        "gloss": "in a bundle (mūḍaka) of kuśa grass (Desmostachya bipinnata; standard)",
         "gram": "tat-puruṣa, m./n. loc. sg."
        }
       ]
@@ -767,7 +767,7 @@
       "words": [
        {
         "w": "yava-busa-māṣa-śāli-vrīhi-kulattha-mudga-anyatama-rāśau",
-        "gloss": "in a heap of any one of: yava, husk (busa), māṣa, śāli, vrīhi, kulattha, mudga (grain names)",
+        "gloss": "in a heap of any one of: yava (barley, Hordeum vulgare; standard), husk (busa), māṣa (black gram, Vigna mungo; standard), śāli (winter rice, Oryza sativa; standard), vrīhi (rice, Oryza sativa, the ordinary rice grain; standard), kulattha (horse gram, Macrotyloma uniflorum; standard), mudga (green gram, Vigna radiata; standard)",
         "gram": "dvandva+tat-puruṣa, m. loc. sg."
        },
        {
@@ -805,8 +805,8 @@
     ]
    }
   ],
-  "hindi": "उन्हें पोंछकर, कुश के मूढक में बाँधकर, गोबर से लीपकर, यव, बुस, माष, शालि, व्रीहि, कुलत्थ या मुद्ग में से किसी एक की राशि में आठ रात रखे हुए को निकालकर धूप में सुखाए।",
-  "english": "Having wiped them, tied them in a bundle of kuśa grass and smeared it with cow-dung, and (having kept them) for eight nights in a heap of any one of yava, husk (busa), māṣa, śāli, vrīhi, kulattha or mudga, one should take them out and dry them in the sun.",
+  "hindi": "उन्हें पोंछकर, कुश के मूढक में बाँधकर, गोबर से लीपकर, यव यानी जौ, बुस, माष यानी उड़द, शालि यानी अगहनी धान, व्रीहि यानी धान, कुलत्थ यानी कुलथी या मुद्ग यानी मूँग में से किसी एक की राशि में आठ रात रखे हुए को निकालकर धूप में सुखाए।",
+  "english": "Having wiped them, tied them in a bundle of kuśa grass and smeared it with cow-dung, and (having kept them) for eight nights in a heap of any one of yava (barley), husk (busa), māṣa (black gram), śāli (winter rice), vrīhi (rice), kulattha (horse gram) or mudga (green gram), one should take them out and dry them in the sun.",
   "text_flags": [
    {
     "src": "badhvā",
@@ -848,7 +848,7 @@
       "words": [
        {
         "w": "pippalīḥ",
-        "gloss": "pippalī (drug name)",
+        "gloss": "pippalī (drug name; the bare word usually means long pepper, Piper longum, standard for that word; in this madana chapter 'phalapippalī' probably means the dried madana fruit pieces, probable, see notes)",
         "gram": "f. acc. pl."
        },
        {
@@ -954,7 +954,7 @@
   "hindi": "भली-भाँति सूखे हुओं में से पिप्पलियों को निकालकर, दही, घी, शहद और पलल में मसली हुई उन्हें फिर सुखाकर, नए और धूल-रहित कलश को गले तक भरकर, उसे अच्छी तरह सुरक्षित रखवाए।",
   "english": "From the well-dried ones, having taken out the pippalīs, rubbed with curd, ghee, honey and palala, and dried them again, one should fill a new, dust-free pot up to the neck and have it stored well guarded.",
   "text_flags": [],
-  "notes": "'pippalī' is not glossed beyond the name here (it is the thing drawn out of the dried fruits; the identity is not stated). 'palala' literally paste (also flesh/sesame paste in dictionaries); kept as a name. The pot is understood to be filled with the rubbed pippalīs.",
+  "notes": "'pippalī' is not glossed beyond the name here (it is the thing drawn out of the dried fruits; the identity is not stated). 'palala' literally paste (also flesh/sesame paste in dictionaries); kept as a name. The pot is understood to be filled with the rubbed pippalīs. Identification: bare 'pippalī' is long pepper (Piper longum; standard). Here, in the chapter on madana, the 'pippalīs' drawn out of the dried fruits and called 'phalapippalī' in the next units are probably the dried madana fruit pieces themselves (read from the context: the pieces are drawn out of the dried madana fruits, are later called phalapippalī, and are kept apart from the kernel, majjā; not checked against a commentary; probable, not certain), so 'long pepper' is not put in the translation. 'palala' is ground sesame paste in some references (kept as the name palala).",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1008,7 +1008,7 @@
       "words": [
        {
         "w": "phala-pippalīnām",
-        "gloss": "of the fruit-pippalīs",
+        "gloss": "of the fruit-pippalīs (here probably the dried madana fruit pieces, as in unit 11; probable)",
         "gram": "tat-puruṣa, f. gen. pl."
        },
        {
@@ -1068,7 +1068,7 @@
       "words": [
        {
         "w": "yaṣṭīmadhuka-kovidāra-karbudāra-nīpa-vidula-bimbī-śaṇapuṣpī-sadāpuṣpī-pratyakpuṣpī-anyatama-kaṣāye",
-        "gloss": "in the decoction of any one of yaṣṭīmadhuka, kovidāra, karbudāra, nīpa, vidula, bimbī, śaṇapuṣpī, sadāpuṣpī, pratyakpuṣpī (drug names)",
+        "gloss": "in the decoction of any one of yaṣṭīmadhuka (liquorice, Glycyrrhiza glabra; standard), kovidāra (orchid tree, Bauhinia variegata; probable, since the name is also applied to Bauhinia purpurea), karbudāra (a Bauhinia, perhaps the white-flowered kovidāra or Bauhinia purpurea; disputed), nīpa (kadamba, Neolamarckia cadamba; probable), vidula (cane, Calamus rotang, or a willow, Salix; disputed), bimbī (ivy gourd, Coccinia grandis; standard), śaṇapuṣpī (a Crotalaria species of the sunn-hemp type; disputed), sadāpuṣpī (possibly a name of arka, Calotropis gigantea; disputed), pratyakpuṣpī (prickly chaff-flower, Achyranthes aspera; standard) (drug names)",
         "gram": "dvandva+tat-puruṣa, m. loc. sg."
        }
       ]
@@ -1141,10 +1141,10 @@
     ]
    }
   ],
-  "hindi": "तब प्रयोग के समय उन फल-पिप्पलियों की भीतर की ओर मुँह वाली एक मुट्ठी, अथवा जितनी ठीक समझे, कूटकर यष्टीमधुक, कोविदार, कर्बुदार, नीप, विदुल, बिम्बी, शणपुष्पी, सदापुष्पी या प्रत्यक्पुष्पी में से किसी एक के कषाय में, अथवा रात भर रखे, मसले और छाने हुए को सूत्रस्थान में कही विधि से पिलाए।",
-  "english": "Then, at the time of use, one should coarsely crush a fist (with the mouth inward) of those fruit-pippalīs, or as much as one thinks fit, and, in the decoction of any one of yaṣṭīmadhuka, kovidāra, karbudāra, nīpa, vidula, bimbī, śaṇapuṣpī, sadāpuṣpī or pratyakpuṣpī, or else kept for a night, rubbed and strained, have it drunk by the method stated in the Sūtra section.",
+  "hindi": "तब प्रयोग के समय उन फल-पिप्पलियों की भीतर की ओर मुँह वाली एक मुट्ठी, अथवा जितनी ठीक समझे, कूटकर यष्टीमधुक यानी मुलेठी, कोविदार यानी कचनार, कर्बुदार, नीप यानी कदम्ब, विदुल, बिम्बी यानी कुन्दरू, शणपुष्पी, सदापुष्पी या प्रत्यक्पुष्पी यानी चिरचिटा में से किसी एक के कषाय में, अथवा रात भर रखे, मसले और छाने हुए को सूत्रस्थान में कही विधि से पिलाए।",
+  "english": "Then, at the time of use, one should coarsely crush a fist (with the mouth inward) of those fruit-pippalīs, or as much as one thinks fit, and, in the decoction of any one of yaṣṭīmadhuka (liquorice), kovidāra (orchid tree), karbudāra, nīpa (kadamba), vidula, bimbī (ivy gourd), śaṇapuṣpī, sadāpuṣpī or pratyakpuṣpī (prickly chaff-flower), or else kept for a night, rubbed and strained, have it drunk by the method stated in the Sūtra section.",
   "text_flags": [],
-  "notes": "'antarmukhamuṣṭim' (a fist with the mouth inward) is uncertain: it may be a handful measure; the printed sense is kept. The second 'vā' after 'kaṣāye' is ambiguous (alternative way of taking it); rendered as 'or else'. All names are drug names; none is identified. 'Sūtra' is taken as the Sūtrasthāna.",
+  "notes": "'antarmukhamuṣṭim' (a fist with the mouth inward) is uncertain: it may be a handful measure; the printed sense is kept. The second 'vā' after 'kaṣāye' is ambiguous (alternative way of taking it); rendered as 'or else'. All names are drug names; identifications are in the word gloss (owner policy 2026-10-17). 'Sūtra' is taken as the Sūtrasthāna.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -1168,7 +1168,7 @@
       "words": [
        {
         "w": "śleṣma-jvara-gulma-pratiśyāya-antar-vidradhiṣu",
-        "gloss": "in phlegm (kapha), fever, gulma, pratiśyāya and internal abscesses",
+        "gloss": "in phlegm (kapha), fever, gulma (abdominal lump), pratiśyāya (coryza, running cold) and internal abscesses (antar-vidradhi)",
         "gram": "dvandva, m. loc. pl."
        }
       ]
@@ -1201,8 +1201,8 @@
     ]
    }
   ],
-  "hindi": "कफ, ज्वर, गुल्म, प्रतिश्याय और भीतरी विद्रधि में विशेष रूप से, फिर पित्त के आने तक।",
-  "english": "Especially in phlegm (śleṣma), fever, gulma, pratiśyāya and internal abscesses, again until Pitta comes.",
+  "hindi": "कफ, ज्वर, गुल्म यानी पेट के भीतर की गाँठ, प्रतिश्याय यानी जुकाम और भीतरी विद्रधि यानी भीतरी फोड़े में विशेष रूप से, फिर पित्त के आने तक।",
+  "english": "Especially in phlegm (śleṣma), fever, gulma (abdominal lump), pratiśyāya (coryza, common cold) and internal abscesses, again until Pitta comes.",
   "text_flags": [],
   "notes": "Continues the sentence of the previous unit. 'śleṣmajvara' could also be read as 'kapha-fever'; 'punar ā-pitta-gamanāt' is obscure ('repeatedly until pitta comes up'?); translated closely with a supplied verb in Hindi.",
   "confidence": "low",
@@ -1313,7 +1313,7 @@
       "words": [
        {
         "w": "tri-bhāga-triphalā-cūrṇam",
-        "gloss": "powder of triphalā (three-fruit group) in three parts",
+        "gloss": "powder of triphalā (three-fruit group: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalakī, Phyllanthus emblica; standard) in three parts",
         "gram": "tat-puruṣa, n. nom. sg."
        }
       ]
@@ -1333,7 +1333,7 @@
       "words": [
        {
         "w": "balavat-kapha-praseka-apaci-arbuda-granthi-jvara-udara-",
-        "gloss": "strong kapha, flow (of saliva), apaci, growth (arbuda), knot (granthi), fever, belly (udara)",
+        "gloss": "strong kapha, praseka (flow, trickling; in clinical use excessive salivation), apaci (chain of glandular swellings, cervical lymphadenitis / scrofula; probable), arbuda (tumour, growth), granthi (nodular swelling, cyst), fever, udara (belly)",
         "gram": "dvandva"
        }
       ]
@@ -1361,8 +1361,8 @@
     ]
    }
   ],
-  "hindi": "अथवा अपने क्वाथ में भावित फल-पिप्पली का चूर्ण, तीन भाग त्रिफला के चूर्ण के साथ, कोविदार आदि के क्वाथ से, प्रबल कफ, प्रसेक, अपची, अर्बुद, ग्रन्थि, ज्वर, उदर और अरुचि में पिए।",
-  "english": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong Kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka.",
+  "hindi": "अथवा अपने क्वाथ में भावित फल-पिप्पली का चूर्ण, तीन भाग त्रिफला यानी हरड़, बहेड़ा और आँवला के चूर्ण के साथ, कोविदार आदि के क्वाथ से, प्रबल कफ, प्रसेक यानी मुँह में पानी भर आना, अपची यानी गण्डमाला, अर्बुद यानी ट्यूमर, ग्रन्थि यानी गाँठ, ज्वर, उदर और अरुचि में पिए।",
+  "english": "Or the powder of fruit-pippalī steeped in its own decoction, with triphalā (harītakī, bibhītaka and āmalakī: the three myrobalans) powder in three parts, one should drink with a decoction of kovidāra and the rest, in strong Kapha, praseka (excessive salivation), apaci (glandular swellings of the neck), arbuda (tumour), granthi (nodular swelling, cyst), fever, udara and arocaka (loss of relish for food).",
   "text_flags": [
    {
     "src": "tribhāgatviphalācūrṇaṃ",
@@ -1370,7 +1370,7 @@
     "why": "'tviphalā' is a misprint for 'triphalā'"
    }
   ],
-  "notes": "The printed line breaks the word 'jvarodarā rocakeṣu': the space splits 'udara-arocakeṣu' in the middle of a sandhi (a+a=ā). The first token is given 'udara-' and the second 'arocakeṣu'. 'balavat' may qualify only 'kapha' or all the conditions. 'tribhāga' could also mean 'a third part'.",
+  "notes": "The printed line breaks the word 'jvarodarā rocakeṣu': the space splits 'udara-arocakeṣu' in the middle of a sandhi (a+a=ā). The first token is given 'udara-' and the second 'arocakeṣu'. 'balavat' may qualify only 'kapha' or all the conditions. 'tribhāga' could also mean 'a third part'. Modern equivalents: udara in a list of diseases usually means udara roga (disease of the belly, such as abdominal enlargement); the translation keeps 'belly' as decided. Triphalā members are standard (harītakī, bibhītaka, āmalakī). The 'kovidāra and the rest' group (kovidārādi) is not enumerated here.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1442,8 +1442,8 @@
     ]
    }
   ],
-  "hindi": "अथवा मदनफल की मज्जा का चूर्ण जीमूतक आदि के क्वाथ से, जब पित्त कफ के स्थान में गया हो।",
-  "english": "Or the powder of the kernel of the madana fruit, with a decoction of jīmūtaka and the rest, when Pitta has gone to the seat of Kapha.",
+  "hindi": "अथवा मदनफल यानी मैनफल की मज्जा का चूर्ण जीमूतक आदि के क्वाथ से, जब पित्त कफ के स्थान में गया हो।",
+  "english": "Or the powder of the kernel of the madana (emetic nut) fruit, with a decoction of jīmūtaka and the rest, when Pitta has gone to the seat of Kapha.",
   "text_flags": [],
   "notes": "'majjā' taken as the inner kernel (literally marrow). No verb in the unit; the sentence is elliptical.",
   "confidence": "medium",
@@ -1524,7 +1524,7 @@
       "words": [
        {
         "w": "rakta-pitte",
-        "gloss": "in raktapitta (blood-pitta)",
+        "gloss": "in raktapitta (blood-pitta; a bleeding disorder, bleeding from the upper or lower passages)",
         "gram": "tat-puruṣa, n. loc. sg."
        }
       ]
@@ -1552,8 +1552,8 @@
     ]
    }
   ],
-  "hindi": "अथवा मदनफल की मज्जा से सिद्ध किया दूध, या उसी में यवागू, निचले भाग में रक्तपित्त में और हृदय की जलन में।",
-  "english": "Or milk cooked with the kernel of the madana fruit, or a gruel (yavāgū) in that, in raktapitta in the lower part and in burning of the heart.",
+  "hindi": "अथवा मदनफल यानी मैनफल की मज्जा से सिद्ध किया दूध, या उसी में यवागू, निचले भाग में रक्तपित्त यानी रक्तस्राव के रोग में और हृदय की जलन में।",
+  "english": "Or milk cooked with the kernel of the madana (emetic nut) fruit, or a gruel (yavāgū) in that, in raktapitta (a bleeding disorder) in the lower part and in burning of the heart (heartburn).",
   "text_flags": [],
   "notes": "'adhobhāge' may mean 'in the lower part (of the body)' going with raktapitta, or 'in the lower portion (of the milk/preparation)'; the former is rendered. 'majja' is read as a variant of 'majjā'.",
   "confidence": "medium",
@@ -1682,8 +1682,8 @@
     ]
    }
   ],
-  "hindi": "अथवा उस ठंडे दूध की संतानिका की एक अञ्जलि, जब पित्त कुपित हो और छाती, कंठ तथा हृदय पतले कफ से लिप्त हों।",
-  "english": "Or a palmful of the santānikā (skin) of that cold milk, when Pitta is aggravated and the chest, throat and heart are smeared with thin Kapha.",
+  "hindi": "अथवा उस ठंडे दूध की संतानिका यानी मलाई की एक अञ्जलि, जब पित्त कुपित हो और छाती, कंठ तथा हृदय पतले कफ से लिप्त हों।",
+  "english": "Or a palmful of the santānikā (skin, milk-cream) of that cold milk, when Pitta is aggravated and the chest, throat and heart are smeared with thin Kapha.",
   "text_flags": [],
   "notes": "'santānikā' is taken as the film that forms on milk. 'uraḥkaṇṭhahṛdaye' is read as a dvandva in the locative, agreeing with 'upādigdhe'.",
   "confidence": "medium",
@@ -1759,7 +1759,7 @@
       "words": [
        {
         "w": "kapha-chardi-praseka-tamakeṣu",
-        "gloss": "in kapha, vomiting, flow (of saliva) and tamaka",
+        "gloss": "in kapha, vomiting (chardi), praseka (flow, trickling; in clinical use excessive salivation) and tamaka (a breathing disorder, bronchial asthma; if the damaged reading 'tamaka' is right)",
         "gram": "dvandva, m. loc. pl."
        }
       ]
@@ -1767,8 +1767,8 @@
     ]
    }
   ],
-  "hindi": "अथवा उससे उत्पन्न दही, या दही का ऊपरी भाग, कफ, छर्दि, प्रसेक और तमक में।",
-  "english": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in Kapha, vomiting, praseka and tamaka.",
+  "hindi": "अथवा उससे उत्पन्न दही, या दही का ऊपरी भाग, कफ, छर्दि, प्रसेक यानी मुँह में पानी भर आना और तमक यानी दमे के एक भेद में।",
+  "english": "Or the curd born of that, or the upper part of the curd (dadhyuttara), in Kapha, vomiting, praseka (excessive salivation) and tamaka (a form of breathlessness, asthma).",
   "text_flags": [
    {
     "src": "kaphacchardiprasekatanmakeṣu",
@@ -1903,8 +1903,8 @@
     ]
    }
   ],
-  "hindi": "अथवा उस दूध से उत्पन्न नवनीत, फलादि छह के क्वाथ से और छह फलों के चूर्ण से मिलाकर सिद्ध किया हुआ, जब अग्नि कफ से दबी हो और शरीर सूख रहा हो।",
-  "english": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni) is overcome by Kapha and the body is drying up.",
+  "hindi": "अथवा उस दूध से उत्पन्न नवनीत यानी मक्खन, फलादि छह के क्वाथ से और छह फलों के चूर्ण से मिलाकर सिद्ध किया हुआ, जब अग्नि यानी पाचन की अग्नि कफ से दबी हो और शरीर सूख रहा हो।",
+  "english": "Or the fresh butter produced from that milk, cooked with a decoction of the six beginning with phala and mixed with the powder of the six phalas, when the fire (agni, the digestive fire) is overcome by Kapha and the body is drying up.",
   "text_flags": [],
   "notes": "'phalādiṣaṭ' and 'phalaṣaṭ' (the six phalas) are not enumerated in this unit.",
   "confidence": "medium",
@@ -1945,7 +1945,7 @@
        },
        {
         "w": "āragvadha-ādi-dravyāṇām",
-        "gloss": "of the substances beginning with āragvadha",
+        "gloss": "of the substances beginning with āragvadha (golden shower tree, Cassia fistula; standard)",
         "gram": "tat-puruṣa, n. gen. pl."
        }
       ]
@@ -1955,7 +1955,7 @@
       "words": [
        {
         "w": "ghoṇṭā-bhūnimba-bāṇa-varjyānām",
-        "gloss": "excluding ghoṇṭā, bhūnimba and bāṇa",
+        "gloss": "excluding ghoṇṭā (Ziziphus xylopyrus; probable), bhūnimba (usually Swertia chirata, sometimes Andrographis paniculata; disputed) and bāṇa (unidentified)",
         "gram": "tat-puruṣa, n. gen. pl."
        }
       ]
@@ -1965,7 +1965,7 @@
       "words": [
        {
         "w": "sa-soma-valka-pañcakolakānām",
-        "gloss": "together with soma-bark and the five kolakas",
+        "gloss": "together with soma-bark (somavalka; reported as a white-barked acacia, Acacia leucophloea; disputed) and the five kolakas (pañcakolaka: pippalī, Piper longum; pippalīmūla, its root; cavya, Piper retrofractum; citraka, Plumbago zeylanica; śuṇṭhī, dry ginger, Zingiber officinale; group standard, cavya probable), of any one",
         "gram": "bahuvrīhi, n. gen. pl."
        },
        {
@@ -2013,8 +2013,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल की मज्जा के चूर्ण से मिले, घोंटा, भूनिम्ब और बाण को छोड़कर आरग्वध आदि द्रव्यों में से, सोमवल्क और पञ्चकोलक सहित, किसी एक के क्वाथ से सिद्ध किए हुए लेह का उपयोग करे।",
-  "english": "Or one should use an electuary (leha) prepared with the decoction of any one of the substances beginning with āragvadha, excluding ghoṇṭā, bhūnimba and bāṇa, together with soma-bark and the pañcakolaka, mixed with the powder of the fruit kernel.",
+  "hindi": "अथवा फल की मज्जा के चूर्ण से मिले, घोंटा, भूनिम्ब और बाण को छोड़कर आरग्वध यानी अमलतास आदि द्रव्यों में से, सोमवल्क और पञ्चकोलक यानी पिप्पली, पिप्पलीमूल, चव्य, चित्रक और सोंठ सहित, किसी एक के क्वाथ से सिद्ध किए हुए लेह का उपयोग करे।",
+  "english": "Or one should use an electuary (leha) prepared with the decoction of any one of the substances beginning with āragvadha (golden shower tree), excluding ghoṇṭā, bhūnimba and bāṇa, together with soma-bark and the pañcakolaka (pippalī, pippalīmūla, cavya, citraka and dry ginger), mixed with the powder of the fruit kernel.",
   "text_flags": [],
   "notes": "The double avagraha in 'vā''ragvadha' marks a long ā (vā + āragvadha). 'sasomavalkapañcakolakānām' could also be read as 'of those having soma-bark and pañcakolaka'. Drug names kept as names.",
   "confidence": "medium",
@@ -2060,7 +2060,7 @@
       "words": [
        {
         "w": "reṇukā-elā-śatāhvā-kustumburu-tagara-kuṣṭha-tvac-koraka-maruvaka-aguru-guggulu-vālaka-śrīveṣṭaka-paripelava-māṃsī-śaileyaka-sthauṇeyaka-surasā-pāledhana-pūti-aśoka-rohiṇīnām",
-        "gloss": "of reṇukā, elā, śatāhvā, kustumburu, tagara, kuṣṭha, tvac, koraka, maruvaka, aguru, guggulu, vālaka, śrīveṣṭaka, paripelava, māṃsī, śaileyaka, sthauṇeyaka, surasā, pāledhana, pūti, aśoka, rohiṇī (drug names)",
+        "gloss": "of reṇukā (disputed: Vitex agnus-castus seed or a pea-like seed), elā (small cardamom, Elettaria cardamomum; standard), śatāhvā (dill, Anethum sowa; probable), kustumburu (coriander, Coriandrum sativum; standard), tagara (Indian valerian, Valeriana wallichii; probable), kuṣṭha (costus root, Saussurea lappa; standard), tvac (bark; cinnamon, Cinnamomum verum; probable), koraka (unidentified; damaged print), maruvaka (marjoram, Origanum majorana; probable), aguru (agarwood, Aquilaria agallocha; standard), guggulu (gum guggul, Commiphora wightii; standard), vālaka (Pavonia odorata, fragrant balā; probable), śrīveṣṭaka (pine resin, Pinus roxburghii; probable), paripelava (unidentified), māṃsī (spikenard, Nardostachys jatamansi; standard), śaileyaka (stone-flower lichen, Parmelia; standard), sthauṇeyaka (unidentified), surasā (holy basil, Ocimum sanctum; standard), pāledhana (unidentified; damaged print), pūti (unidentified), aśoka (Saraca asoca; standard), rohiṇī (disputed: Picrorhiza kurroa or another) (drug names)",
         "gram": "dvandva, f. gen. pl."
        }
       ]
@@ -2138,8 +2138,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल की मज्जा के चूर्ण से मिले हुए, रेणुका, एला, शताह्वा, कुस्तुम्बुरु, तगर, कुष्ठ, त्वक्, कोरक, मरुवक, अगुरु, गुग्गुलु, वालक, श्रीवेष्टक, परिपेलव, मांसी, शैलेयक, स्थौणेयक, सुरसा, पालेधन, पूति, अशोक और रोहिणी, इन बाईस में से किसी एक के कषाय से सिद्ध उत्कारिका या मोदक खाए।",
-  "english": "Or, mixed with the powder of the fruit kernel, one should eat an utkārikā or a modaka prepared with the decoction of any one of these twenty-two: reṇukā, elā, śatāhvā, kustumburu, tagara, kuṣṭha, tvac, koraka, maruvaka, aguru, guggulu, vālaka, śrīveṣṭaka, paripelava, māṃsī, śaileyaka, sthauṇeyaka, surasā, pāledhana, pūti, aśoka and rohiṇī.",
+  "hindi": "अथवा फल की मज्जा के चूर्ण से मिले हुए, रेणुका, एला यानी छोटी इलायची, शताह्वा, कुस्तुम्बुरु यानी धनिया, तगर, कुष्ठ यानी कूठ, त्वक्, कोरक, मरुवक यानी मरुआ, अगुरु यानी अगर, गुग्गुलु यानी गुग्गुल, वालक, श्रीवेष्टक, परिपेलव, मांसी यानी जटामांसी, शैलेयक यानी छरीला, स्थौणेयक, सुरसा यानी तुलसी, पालेधन, पूति, अशोक और रोहिणी, इन बाईस में से किसी एक के कषाय से सिद्ध उत्कारिका या मोदक खाए।",
+  "english": "Or, mixed with the powder of the fruit kernel, one should eat an utkārikā or a modaka prepared with the decoction of any one of these twenty-two: reṇukā, elā (small cardamom), śatāhvā, kustumburu (coriander), tagara, kuṣṭha (costus root), tvac, koraka, maruvaka (marjoram), aguru (agarwood), guggulu (gum guggul), vālaka, śrīveṣṭaka, paripelava, māṃsī (spikenard), śaileyaka (stone-flower lichen), sthauṇeyaka, surasā (holy basil), pāledhana, pūti, aśoka and rohiṇī.",
   "text_flags": [
    {
     "src": "sthauṇeyakasurasāpāledhanapūtyaśokarohiṇīnāṃ",
@@ -2147,7 +2147,7 @@
     "why": "'pāledhana' is not a recognisable drug name; to give the stated 22 it is counted as one item, but it may be damaged"
    }
   ],
-  "notes": "The names are divided to give 22 items (dvāviṃśati): the count works if 'pāledhana' is one item and 'tvac' and 'koraka' are two. The split is a guess where the scan is damaged. No plant is identified. 'tvac' could also be 'bark' generally.",
+  "notes": "The names are divided to give 22 items (dvāviṃśati): the count works if 'pāledhana' is one item and 'tvac' and 'koraka' are two. The split is a guess where the scan is damaged. Identifications are in the word gloss (owner policy 2026-10-17); damaged or doubtful names are left unidentified because this unit's reading is low confidence. 'tvac' could also be 'bark' generally.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -2186,7 +2186,7 @@
       "words": [
        {
         "w": "tila-śāli-taṇḍula-piṣṭaiḥ",
-        "gloss": "with ground tila and śāli grain",
+        "gloss": "with ground tila (sesame, Sesamum indicum; standard) and śāli (winter rice; see unit 10) grain",
         "gram": "dvandva+karmadhāraya, n. inst. pl."
        },
        {
@@ -2274,8 +2274,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल-पिप्पली के स्वरस और कषाय से पीड़ित किए हुए, तिल और शालि के चावल के पिसे हुए आटों से, उसी के कषाय से मिले हुए, या सुरसा आदि द्रव्यों में से किसी एक के क्वाथ से मिले हुए, शष्कुली, अपूप अथवा अन्य भक्ष्य बनाकर खाए।",
-  "english": "Or, with ground tila and śāli grain pressed with the juice and decoction of fruit-pippalī and mixed with its decoction, or mixed with the decoction of any one of the substances beginning with surasā, one should prepare śaṣkulī cakes, apūpa cakes or another food, and eat it.",
+  "hindi": "अथवा फल-पिप्पली के स्वरस और कषाय से पीड़ित किए हुए, तिल और शालि यानी अगहनी धान के चावल के पिसे हुए आटों से, उसी के कषाय से मिले हुए, या सुरसा आदि द्रव्यों में से किसी एक के क्वाथ से मिले हुए, शष्कुली, अपूप अथवा अन्य भक्ष्य बनाकर खाए।",
+  "english": "Or, with ground tila (sesame) and śāli (winter rice) grain pressed with the juice and decoction of fruit-pippalī and mixed with its decoction, or mixed with the decoction of any one of the substances beginning with surasā, one should prepare śaṣkulī cakes, apūpa cakes or another food, and eat it.",
   "text_flags": [
    {
     "src": "phalapippalīsvarasakaṣāyaparipīḍatair",
@@ -2327,7 +2327,7 @@
       "words": [
        {
         "w": "bhallātaka-vidhi-śrutam",
-        "gloss": "as heard in the bhallātaka procedure",
+        "gloss": "as heard in the bhallātaka (marking nut, Semecarpus anacardium; standard) procedure",
         "gram": "tat-puruṣa, m. acc. sg."
        }
       ]
@@ -2365,8 +2365,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल-पिप्पलियों का, भल्लातक की विधि में सुने अनुसार स्वरस, कलछी पर लेप चढ़ने तक पकाकर चटाए।",
-  "english": "Or the juice of the fruit-pippalīs, as heard in the bhallātaka procedure, having cooked it until it coats the ladle, one should have it licked.",
+  "hindi": "अथवा फल-पिप्पलियों का, भल्लातक यानी भिलावा की विधि में सुने अनुसार स्वरस, कलछी पर लेप चढ़ने तक पकाकर चटाए।",
+  "english": "Or the juice of the fruit-pippalīs, as heard in the bhallātaka (marking nut) procedure, having cooked it until it coats the ladle, one should have it licked.",
   "text_flags": [],
   "notes": "'bhallātakavidhi' refers to a procedure for bhallātaka described elsewhere; not imported here.",
   "confidence": "medium",
@@ -2547,7 +2547,7 @@
       "words": [
        {
         "w": "vatsaka-ādi-prativāpam",
-        "gloss": "with an addition of vatsaka and the rest",
+        "gloss": "with an addition of vatsaka (Holarrhena, the same tree as kuṭaja of unit 4; standard) and the rest",
         "gram": "bahuvrīhi, m. acc. sg."
        }
       ]
@@ -2557,7 +2557,7 @@
       "words": [
        {
         "w": "nimba-arka-anyatara-kaṣāya-upasarjanam",
-        "gloss": "mixed with the decoction of either nimba or arka",
+        "gloss": "mixed with the decoction of either nimba (neem, Azadirachta indica; standard) or arka (Calotropis gigantea, C. procera also used; standard)",
         "gram": "tat-puruṣa, m. acc. sg."
        }
       ]
@@ -2575,8 +2575,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल की मज्जा का क्वाथ, वत्सक आदि के प्रक्षेप सहित, निम्ब या अर्क में से किसी एक के कषाय से मिला हुआ, संतर्पण से उत्पन्न सब कफ-रोगों को हरने वाला।",
-  "english": "Or the decoction of the fruit kernel, with an addition of vatsaka and the rest, mixed with the decoction of either nimba or arka, removing all Kapha ailments arising from satiation (saṃtarpaṇa).",
+  "hindi": "अथवा फल की मज्जा का क्वाथ, वत्सक यानी कुटज आदि के प्रक्षेप सहित, निम्ब यानी नीम या अर्क यानी आक में से किसी एक के कषाय से मिला हुआ, संतर्पण से उत्पन्न सब कफ-रोगों को हरने वाला।",
+  "english": "Or the decoction of the fruit kernel, with an addition of vatsaka (kuṭaja) and the rest, mixed with the decoction of either nimba (neem) or arka (Calotropis, madar), removing all Kapha ailments arising from satiation (saṃtarpaṇa).",
   "text_flags": [],
   "notes": "'hara' (removing) is as printed: the text itself states this, it is not added by the draft. No verb in the unit; elliptical like the units before it.",
   "confidence": "medium",
@@ -2762,7 +2762,7 @@
       "words": [
        {
         "w": "haridrā-kṛsarā-kṣīra-yavāgūnām",
-        "gloss": "of haridrā, kṛsarā, milk, gruel",
+        "gloss": "of haridrā (turmeric, Curcuma longa; standard), kṛsarā (a cooked dish of rice and pulse, khichdi; standard sense), milk, gruel",
         "gram": "dvandva, gen. pl."
        },
        {
@@ -2777,7 +2777,7 @@
       "words": [
        {
         "w": "saindhava-guḍa-phāṇita-upetam",
-        "gloss": "with rock salt (saindhava), jaggery (guḍa) and phāṇita added",
+        "gloss": "with rock salt (saindhava), jaggery (guḍa) and phāṇita (thick cane-juice syrup, treacle) added",
         "gram": "tat-puruṣa, n. acc. sg."
        },
        {
@@ -2875,8 +2875,8 @@
     ]
    }
   ],
-  "hindi": "अथवा फल आदि के क्वाथ से इक्कीस बार भली-भाँति भावित फल-पिप्पलियों को पुष्प के पराग के समान चूर्ण से चूर्णित करे। संध्या के समय सरोवर में बड़े कमल में रखकर रात भर रखे उसे प्रातः फिर चूर्ण मिलाकर निकाल ले। हरिद्रा, कृसरा, दूध या यवागू में से किसी एक को सेंधा नमक, गुड़ और फाणित मिलाकर गले तक पीकर, सूँघता हुआ, सुकुमार, उचित गन्ध की सम्पदा से जिसके कफ और पित्त उभर आए हों और जो औषध से द्वेष रखता हो, वह इस प्रकार सुख से वमन करता है।",
-  "english": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā, kṛsarā, milk or gruel, with rock salt, jaggery and phāṇita added, smelling, a delicate person, whose Kapha and Pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily.",
+  "hindi": "अथवा फल आदि के क्वाथ से इक्कीस बार भली-भाँति भावित फल-पिप्पलियों को पुष्प के पराग के समान चूर्ण से चूर्णित करे। संध्या के समय सरोवर में बड़े कमल में रखकर रात भर रखे उसे प्रातः फिर चूर्ण मिलाकर निकाल ले। हरिद्रा यानी हल्दी, कृसरा यानी खिचड़ी, दूध या यवागू में से किसी एक को सेंधा नमक, गुड़ और फाणित यानी राब मिलाकर गले तक पीकर, सूँघता हुआ, सुकुमार, उचित गन्ध की सम्पदा से जिसके कफ और पित्त उभर आए हों और जो औषध से द्वेष रखता हो, वह इस प्रकार सुख से वमन करता है।",
+  "english": "Or the fruit-pippalīs, well steeped twenty-one times in a decoction of phala and the rest, one should dust over with a powder like flower pollen; in the evening, in a lake, a large lotus; that kept for a night, and in the morning taken out and powdered again; having drunk up to the neck any one of haridrā (turmeric), kṛsarā (a rice-and-pulse dish, khichdi), milk or gruel, with rock salt, jaggery and phāṇita (thick cane-juice syrup) added, smelling, a delicate person, whose Kapha and Pitta are stirred by a fitting abundance of fragrance and who hates medicine, thus vomits easily.",
   "text_flags": [
    {
     "src": "sāyānhe",
@@ -2894,7 +2894,7 @@
     "why": "'krasarā' is probably 'kṛsarā' (possible)"
    }
   ],
-  "notes": "This unit is long and partly unclear. 'sarasi saroruhaṃ bṛhat sāyāhne tadrātrim uṣitam' is read as 'in the evening, (placed) in a large lotus in a lake, that kept for a night'; the verb is not in the text. The relation of the powder to the drink ('anyatamam ... pītavān') and the reading 'haridrā-kṛsarā' (one dish or two) are uncertain. 'samucitagandhasampadutkliṣṭakaphapitto' is read as one bahuvrīhi (stirred by a fitting abundance of fragrance); it could also be a list of separate qualities of the person. 'chardayati' is the printed present, rendered 'vomits'. The Hindi is a literal reading, not smoothed.",
+  "notes": "This unit is long and partly unclear. 'sarasi saroruhaṃ bṛhat sāyāhne tadrātrim uṣitam' is read as 'in the evening, (placed) in a large lotus in a lake, that kept for a night'; the verb is not in the text. The relation of the powder to the drink ('anyatamam ... pītavān') and the reading 'haridrā-kṛsarā' (one dish or two) are uncertain. 'samucitagandhasampadutkliṣṭakaphapitto' is read as one bahuvrīhi (stirred by a fitting abundance of fragrance); it could also be a list of separate qualities of the person. 'chardayati' is the printed present, rendered 'vomits'. The Hindi is a literal reading, not smoothed. Modern equivalents for haridrā and kṛsarā follow the printed split; if 'haridrākṛsarā' is one dish the turmeric identification would not apply (this unit stays low confidence).",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -3046,8 +3046,8 @@
     ]
    }
   ],
-  "hindi": "और इसी प्रकार फल के अभाव में मदन के पुष्पों और कच्चे फलों को तैयार करे।",
-  "english": "And in just this way, in the absence of fruit, one should prepare madana flowers and unripe fruits (śalāṭu).",
+  "hindi": "और इसी प्रकार फल के अभाव में मदन यानी मैनफल के पुष्पों और कच्चे फलों को तैयार करे।",
+  "english": "And in just this way, in the absence of fruit, one should prepare madana (emetic nut) flowers and unripe fruits (śalāṭu).",
   "text_flags": [],
   "notes": "'śalāṭu' is taken as unripe fruit.",
   "confidence": "high",
@@ -3203,7 +3203,7 @@
       "words": [
        {
         "w": "jvara-śvāsa-hikkā-ādiṣu",
-        "gloss": "in fever, breathing disorder (śvāsa), hiccup (hikkā) and the like",
+        "gloss": "in fever, breathing disorder (śvāsa; dyspnoea, asthma), hiccup (hikkā) and the like",
         "gram": "dvandva, m. loc. pl."
        }
       ]
@@ -3221,8 +3221,8 @@
     ]
    }
   ],
-  "hindi": "परन्तु विशेष रूप से ज्वर, श्वास, हिक्का आदि में जीमूत।",
-  "english": "But especially in fever, śvāsa, hiccup and the like, jīmūta.",
+  "hindi": "परन्तु विशेष रूप से ज्वर, श्वास यानी दमा, हिक्का यानी हिचकी आदि में जीमूत।",
+  "english": "But especially in fever, śvāsa (breathlessness, asthma), hiccup and the like, jīmūta.",
   "text_flags": [],
   "notes": "Elliptical (no verb). 'jīmūta' is taken as a short form of 'jīmūtaka'.",
   "confidence": "medium",
@@ -3376,8 +3376,8 @@
     ]
    }
   ],
-  "hindi": "वहाँ पुष्पों में दूध, फलों में रोमवाले फलों में पेया, शेष फलों में संतानिका, और रोम-रहित फलों में दही या दही का ऊपरी भाग।",
-  "english": "There: in flowers, milk; in fruits that are hairy, a thin gruel (peyā); in the remaining fruits, santānikā; in those without hair, curd or the upper part of the curd.",
+  "hindi": "वहाँ पुष्पों में दूध, फलों में रोमवाले फलों में पेया, शेष फलों में संतानिका यानी मलाई, और रोम-रहित फलों में दही या दही का ऊपरी भाग।",
+  "english": "There: in flowers, milk; in fruits that are hairy, a thin gruel (peyā); in the remaining fruits, santānikā (milk-cream); in those without hair, curd or the upper part of the curd.",
   "text_flags": [
    {
     "src": "lomalomavatsu",
@@ -3499,7 +3499,7 @@
       "words": [
        {
         "w": "surām",
-        "gloss": "surā (a fermented drink)",
+        "gloss": "surā (a grain-fermented liquor, alcoholic drink)",
         "gram": "f. acc. sg."
        }
       ]
@@ -3509,7 +3509,7 @@
       "words": [
        {
         "w": "kapha-arocaka-kāsa-pāṇḍu-roga-yakṣmasu",
-        "gloss": "in kapha, loss of relish, cough, pāṇḍu disease and yakṣman",
+        "gloss": "in kapha, loss of relish (arocaka, anorexia), cough (kāsa), pāṇḍu disease (anaemia) and yakṣman (consumption, wasting disease; includes what is now called tuberculosis)",
         "gram": "dvandva, loc. pl."
        }
       ]
@@ -3527,8 +3527,8 @@
     ]
    }
   ],
-  "hindi": "अथवा उसके कषाय से मिली हुई सुरा को कफ, अरोचक, कास, पाण्डुरोग और यक्ष्मन् में प्रयोग करे।",
-  "english": "Or one should use surā mixed with its decoction in Kapha, arocaka, cough, pāṇḍu disease and yakṣman.",
+  "hindi": "अथवा उसके कषाय से मिली हुई सुरा यानी अनाज की मदिरा को कफ, अरोचक यानी अरुचि, कास यानी खाँसी, पाण्डुरोग यानी रक्ताल्पता और यक्ष्मन् यानी आज के तपेदिक सहित क्षय में प्रयोग करे।",
+  "english": "Or one should use surā (grain liquor) mixed with its decoction in Kapha, arocaka (loss of relish for food), cough, pāṇḍu disease (anaemia) and yakṣman (consumption; includes what is now called tuberculosis).",
   "text_flags": [],
   "notes": "",
   "confidence": "medium",

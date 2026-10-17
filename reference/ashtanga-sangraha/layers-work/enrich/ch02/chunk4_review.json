@@ -1,0 +1,1593 @@
+{
+ "units": [
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bilva-ādīnām",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "bilva (Aegle marmelos, bael; standard) and others",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "word",
+      "match_w": "bilva-ādīnām",
+      "field": "gloss",
+      "value": "bilva (Aegle marmelos, bael; standard) and others"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bṛhatyoḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "bṛhatī (the pair bṛhatī, Solanum indicum, and kaṇṭakārī, Solanum virginianum; standard), of the two",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "word",
+      "match_w": "bṛhatyoḥ",
+      "field": "gloss",
+      "value": "bṛhatī (the pair bṛhatī, Solanum indicum, and kaṇṭakārī, Solanum virginianum; standard), of the two"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bilva and the others, or of the two bṛha",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "bilva (bael) and the others, or of the two bṛhatī (the large and the small thorny nightshade),",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "replace",
+      "field": "english",
+      "old": "bilva and the others, or of the two bṛhatī,",
+      "new": "bilva (bael) and the others, or of the two bṛhatī (the large and the small thorny nightshade),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "बिल्व यानी बेल आदि के अथवा दोनों बृहतियों यानी बड़ी कटेरी और छोटी कटेरी के काढ़े से, बराबर मात्रा में, एक-एक करके।",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "set",
+      "field": "hindi",
+      "value": "बिल्व यानी बेल आदि के अथवा दोनों बृहतियों यानी बड़ी कटेरी और छोटी कटेरी के काढ़े से, बराबर मात्रा में, एक-एक करके।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bṛhatyoḥ is dual: the two bṛhatī (drug n",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "bṛhatyoḥ is dual: the two bṛhatī, taken in the standard way as bṛhatī (Solanum indicum) and kaṇṭakārī (Solanum virginianum, also called S. xanthocarpum): standard pair, species names probable.",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "replace",
+      "field": "notes",
+      "old": "bṛhatyoḥ is dual: the two bṛhatī (drug names, not identified).",
+      "new": "bṛhatyoḥ is dual: the two bṛhatī, taken in the standard way as bṛhatī (Solanum indicum) and kaṇṭakārī (Solanum virginianum, also called S. xanthocarpum): standard pair, species names probable."
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sudhā-kṣīram",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "milk (latex) of sudhā (Euphorbia neriifolia, spurge; synonym snuhī/snuk; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "word",
+      "match_w": "sudhā-kṣīram",
+      "field": "gloss",
+      "value": "milk (latex) of sudhā (Euphorbia neriifolia, spurge; synonym snuhī/snuk; standard)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the milk of sudhā",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "the milk of sudhā (spurge)",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "replace",
+      "field": "english",
+      "old": "the milk of sudhā",
+      "new": "the milk of sudhā (spurge)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुधा के दूध को",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "सुधा यानी थूहर के दूध को",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुधा के दूध को",
+      "new": "सुधा यानी थूहर के दूध को"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: sudhā = snuhī/snuk, Euphorbia neriifolia (standard); Hindi थूहर or सेंहुड़. The kṣīra of this plant is its white latex (probable); the translation keeps 'milk'.",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "append_note",
+      "text": "Enrichment: sudhā = snuhī/snuk, Euphorbia neriifolia (standard); Hindi थूहर or सेंहुड़. The kṣīra of this plant is its white latex (probable); the translation keeps 'milk'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mastu-mūtra-sura-ādibhiḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "mastu (curd whey), urine, surā (grain-based spirituous drink), and so on",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "word",
+      "match_w": "mastu-mūtra-sura-ādibhiḥ",
+      "field": "gloss",
+      "value": "mastu (curd whey), urine, surā (grain-based spirituous drink), and so on"
+     }
+    },
+    {
+     "field": "english",
+     "where": "mastu, urine, surā and the like",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "mastu (curd whey), urine, surā (a grain-based spirituous drink) and the like",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "replace",
+      "field": "english",
+      "old": "mastu, urine, surā and the like",
+      "new": "mastu (curd whey), urine, surā (a grain-based spirituous drink) and the like"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मस्तु, मूत्र, सुरा आदि",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "मस्तु यानी दही का पानी, मूत्र, सुरा यानी अनाज की बनी मदिरा आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मस्तु, मूत्र, सुरा आदि",
+      "new": "मस्तु यानी दही का पानी, मूत्र, सुरा यानी अनाज की बनी मदिरा आदि"
+     }
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛt-ādīn",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "trivṛt (Operculina turpethum, turpeth; standard) and others",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "trivṛt-ādīn",
+      "field": "gloss",
+      "value": "trivṛt (Operculina turpethum, turpeth; standard) and others"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "varām",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "varā (drug name; disputed, often read as triphalā; lit. excellent)",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "varām",
+      "field": "gloss",
+      "value": "varā (drug name; disputed, often read as triphalā; lit. excellent)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "svarṇa-kṣīrīm",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "svarṇakṣīrī (Argemone mexicana, prickly poppy; probable)",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "svarṇa-kṣīrīm",
+      "field": "gloss",
+      "value": "svarṇakṣīrī (Argemone mexicana, prickly poppy; probable)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sa-sātalām",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "together with sātalā (drug name; identity disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "sa-sātalām",
+      "field": "gloss",
+      "value": "together with sātalā (drug name; identity disputed)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "The nine beginning with trivṛt, varā and",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "The nine beginning with trivṛt (turpeth), varā and svarṇakṣīrī (probably prickly poppy),",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "replace",
+      "field": "english",
+      "old": "The nine beginning with trivṛt, varā and svarṇakṣīrī,",
+      "new": "The nine beginning with trivṛt (turpeth), varā and svarṇakṣīrī (probably prickly poppy),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "त्रिवृत् यानी निशोथ आदि नौ को, वरा, स्वर्णक्षीरी यानी संभवतः सत्यानाशी और सातला के सहित,",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ आदि नौ को, वरा, स्वर्णक्षीरी यानी संभवतः सत्यानाशी और सातला के सहित,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "varā, svarṇakṣīrī, sātalā kept as names,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "varā: disputed (often triphalā; not decided). svarṇakṣīrī: probably Argemone mexicana (probable). sātalā: disputed, no identification adopted. The nine drugs of the trivṛt group are not listed here.",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "replace",
+      "field": "notes",
+      "old": "varā, svarṇakṣīrī, sātalā kept as names, not identified.",
+      "new": "varā: disputed (often triphalā; not decided). svarṇakṣīrī: probably Argemone mexicana (probable). sātalā: disputed, no identification adopted. The nine drugs of the trivṛt group are not listed here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "snuk-payaḥ-pītān",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "steeped in (lit. drunk) milk (latex) of snuk (= sudhā, Euphorbia neriifolia; see 113)",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "word",
+      "match_w": "snuk-payaḥ-pītān",
+      "field": "gloss",
+      "value": "steeped in (lit. drunk) milk (latex) of snuk (= sudhā, Euphorbia neriifolia; see 113)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "snuk milk",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "snuk milk (spurge latex)",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "english",
+      "old": "snuk milk",
+      "new": "snuk milk (spurge latex)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्नुक् का दूध",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "स्नुक् यानी थूहर का दूध",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नुक् का दूध",
+      "new": "स्नुक् यानी थूहर का दूध"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "snuk is a drug name.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "snuk = snuhī, the plant of 113 (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "notes",
+      "old": "snuk is a drug name.",
+      "new": "snuk = snuhī, the plant of 113 (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śyāmā-trivṛt-kvātha-snuk-kṣīra-ghṛta-phāṇitaiḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "with decoction of śyāmā and trivṛt (turpeth, see 115), snuk milk (latex), ghee and phāṇita (treacle, thickened sugarcane juice)",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "word",
+      "match_w": "śyāmā-trivṛt-kvātha-snuk-kṣīra-ghṛta-phāṇitaiḥ",
+      "field": "gloss",
+      "value": "with decoction of śyāmā and trivṛt (turpeth, see 115), snuk milk (latex), ghee and phāṇita (treacle, thickened sugarcane juice)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फाणित के साथ",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "फाणित यानी राब के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "hindi",
+      "old": "फाणित के साथ",
+      "new": "फाणित यानी राब के साथ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: śyāmā is disputed (in Caraka often the black kind of trivṛt, so śyāmā-trivṛt may be one drug; not decided). phāṇita = thickened sugarcane juice (standard); Hindi राब.",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "append_note",
+      "text": "Enrichment: śyāmā is disputed (in Caraka often the black kind of trivṛt, so śyāmā-trivṛt may be one drug; not decided). phāṇita = thickened sugarcane juice (standard); Hindi राब."
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kāsāri-rasa-yūṣa-ādyaiḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "with kāsāri (drug name, unidentified) juice, thin pulse soup (yūṣa), and the like",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "word",
+      "match_w": "kāsāri-rasa-yūṣa-ādyaiḥ",
+      "field": "gloss",
+      "value": "with kāsāri (drug name, unidentified) juice, thin pulse soup (yūṣa), and the like"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यूष आदि",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "यूष यानी दाल का पतला रस आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यूष आदि",
+      "new": "यूष यानी दाल का पतला रस आदि"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: kāsāri is unidentified. yūṣa = a thin strained soup, usually of pulses (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "append_note",
+      "text": "Enrichment: kāsāri is unidentified. yūṣa = a thin strained soup, usually of pulses (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "nikuṃbha-kuṃbha-śyāmā-arka-śaṃkhinī-samalā-rajaḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "powder of nikumbha, kumbha (both unidentified), śyāmā (disputed), arka (Calotropis procera or C. gigantea, madar; standard), śaṅkhinī (disputed) and samalā (unidentified)",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "word",
+      "match_w": "nikuṃbha-kuṃbha-śyāmā-arka-śaṃkhinī-samalā-rajaḥ",
+      "field": "gloss",
+      "value": "powder of nikumbha, kumbha (both unidentified), śyāmā (disputed), arka (Calotropis procera or C. gigantea, madar; standard), śaṅkhinī (disputed) and samalā (unidentified)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "arka, ",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "arka (swallow-wort), ",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "replace",
+      "field": "english",
+      "old": "arka, ",
+      "new": "arka (swallow-wort), "
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अर्क,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "अर्क यानी आक,",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अर्क,",
+      "new": "अर्क यानी आक,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: mṛdu-koṣṭha = one with a 'soft' bowel, i.e. a person whose bowel is easily purged (standard classification mṛdu / madhya / krūra koṣṭha); viricyate = undergoes purgation (virecana).",
+     "severity": "minor",
+     "patch": {
+      "n": "123",
+      "op": "append_note",
+      "text": "Enrichment: mṛdu-koṣṭha = one with a 'soft' bowel, i.e. a person whose bowel is easily purged (standard classification mṛdu / madhya / krūra koṣṭha); viricyate = undergoes purgation (virecana)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śaṃkhinyāḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "of śaṅkhinī (drug name; identity disputed, none adopted)",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "word",
+      "match_w": "śaṃkhinyāḥ",
+      "field": "gloss",
+      "value": "of śaṅkhinī (drug name; identity disputed, none adopted)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: śaṅkhinī is disputed (several different plants are given under this name); no identification is adopted here.",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "append_note",
+      "text": "Enrichment: śaṅkhinī is disputed (several different plants are given under this name); no identification is adopted here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tīkṣṇa-vikāṣiṇī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "sharp (tīkṣṇa) and vikāṣin (loosening the bonds of the tissues)",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "word",
+      "match_w": "tīkṣṇa-vikāṣiṇī",
+      "field": "gloss",
+      "value": "sharp (tīkṣṇa) and vikāṣin (loosening the bonds of the tissues)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "vikāṣin.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "vikāṣin (loosening the bonds of the tissues).",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "english",
+      "old": "vikāṣin.",
+      "new": "vikāṣin (loosening the bonds of the tissues)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण और विकाषी हैं",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "तीक्ष्ण और विकाषी यानी धातुओं के बन्धन को ढीला करने वाले हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीक्ष्ण और विकाषी हैं",
+      "new": "तीक्ष्ण और विकाषी यानी धातुओं के बन्धन को ढीला करने वाले हैं"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vikāṣin is left as a technical quality t",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "vikāṣin (classical vikāśin) is a technical quality; in the standard definition it loosens the bonds of the tissues (dhātu); the text here does not define it;",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "notes",
+      "old": "vikāṣin is left as a technical quality term and not explained;",
+      "new": "vikāṣin (classical vikāśin) is a technical quality; in the standard definition it loosens the bonds of the tissues (dhātu); the text here does not define it;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "udara-gara-śvayathu-ādiṣu",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "belly (udara), poison (gara, compound poison), swelling (śvayathu, oedema), and so on",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "udara-gara-śvayathu-ādiṣu",
+      "field": "gloss",
+      "value": "belly (udara), poison (gara, compound poison), swelling (śvayathu, oedema), and so on"
+     }
+    },
+    {
+     "field": "english",
+     "where": "udara, gara, swelling and",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "udara, gara (compound poison), swelling (oedema) and",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "replace",
+      "field": "english",
+      "old": "udara, gara, swelling and",
+      "new": "udara, gara (compound poison), swelling (oedema) and"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गर में",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "गर यानी कृत्रिम विष में",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर में",
+      "new": "गर यानी कृत्रिम विष में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: gara = poison made by combining substances (kṛtrima viṣa; standard). In this list udara most probably names the disease udara (enlargement of the belly, ascites-type); the translation keeps 'belly' (earlier sense decision).",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "append_note",
+      "text": "Enrichment: gara = poison made by combining substances (kṛtrima viṣa; standard). In this list udara most probably names the disease udara (enlargement of the belly, ascites-type); the translation keeps 'belly' (earlier sense decision)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "akṣa-mātram",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "an akṣa in measure (one akṣa = one karṣa, about 10 to 12 g in the usual tables)",
+     "severity": "minor",
+     "patch": {
+      "n": "127",
+      "op": "word",
+      "match_w": "akṣa-mātram",
+      "field": "gloss",
+      "value": "an akṣa in measure (one akṣa = one karṣa, about 10 to 12 g in the usual tables)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: akṣa = karṣa in the standard weight tables (about 10 to 12 g depending on the table); probable. madirā = a strong spirituous drink.",
+     "severity": "minor",
+     "patch": {
+      "n": "127",
+      "op": "append_note",
+      "text": "Enrichment: akṣa = karṣa in the standard weight tables (about 10 to 12 g depending on the table); probable. madirā = a strong spirituous drink."
+     }
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tad-gulme",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "in the gulma (abdominal lump) of that",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "word",
+      "match_w": "tad-gulme",
+      "field": "gloss",
+      "value": "in the gulma (abdominal lump) of that"
+     }
+    },
+    {
+     "field": "english",
+     "where": "its gulma.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "its gulma (abdominal lump).",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "replace",
+      "field": "english",
+      "old": "its gulma.",
+      "new": "its gulma (abdominal lump)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसके गुल्म में",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "उसके गुल्म यानी पेट की गाँठ में",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके गुल्म में",
+      "new": "उसके गुल्म यानी पेट की गाँठ में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The text speaks of heart-disease; no mod",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "hṛdroga is heart disease (disorders of the heart, with pain in the chest region); gulma is a lump or mass felt in the belly (standard).",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "replace",
+      "field": "notes",
+      "old": "The text speaks of heart-disease; no modern name is intended.",
+      "new": "hṛdroga is heart disease (disorders of the heart, with pain in the chest region); gulma is a lump or mass felt in the belly (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tila-kalkasya",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "of paste of tila (sesame, Sesamum indicum; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "word",
+      "match_w": "tila-kalkasya",
+      "field": "gloss",
+      "value": "of paste of tila (sesame, Sesamum indicum; standard)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tila paste",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "tila (sesame) paste",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "replace",
+      "field": "english",
+      "old": "tila paste",
+      "new": "tila (sesame) paste"
+     }
+    }
+   ]
+  },
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "harītakī-kaṣāyeṇa",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "with decoction of harītakī (Terminalia chebula, chebulic myrobalan; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "word",
+      "match_w": "harītakī-kaṣāyeṇa",
+      "field": "gloss",
+      "value": "with decoction of harītakī (Terminalia chebula, chebulic myrobalan; standard)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a decoction of harītakī.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "a decoction of harītakī (chebulic myrobalan).",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "replace",
+      "field": "english",
+      "old": "a decoction of harītakī.",
+      "new": "a decoction of harītakī (chebulic myrobalan)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हरीतकी के काढ़े",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "हरीतकी यानी हरड़ के काढ़े",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हरीतकी के काढ़े",
+      "new": "हरीतकी यानी हरड़ के काढ़े"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: tailam without qualifier is usually sesame oil (probable); here it is the oil pressed out from the tila mixture of 129.",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "append_note",
+      "text": "Enrichment: tailam without qualifier is usually sesame oil (probable); here it is the oil pressed out from the tila mixture of 129."
+     }
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "atasī-sarṣapa-eraṇḍa-karañjeṣu",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "in atasī (Linum usitatissimum, flax), sarṣapa (Brassica spp., mustard), eraṇḍa (Ricinus communis, castor) and karañja (Pongamia pinnata, pongam tree) (all standard; species of sarṣapa varies)",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "word",
+      "match_w": "atasī-sarṣapa-eraṇḍa-karañjeṣu",
+      "field": "gloss",
+      "value": "in atasī (Linum usitatissimum, flax), sarṣapa (Brassica spp., mustard), eraṇḍa (Ricinus communis, castor) and karañja (Pongamia pinnata, pongam tree) (all standard; species of sarṣapa varies)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "atasī, sarṣapa, eraṇḍa and karañja.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "atasī (flax), sarṣapa (mustard), eraṇḍa (castor) and karañja (pongam tree).",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "replace",
+      "field": "english",
+      "old": "atasī, sarṣapa, eraṇḍa and karañja.",
+      "new": "atasī (flax), sarṣapa (mustard), eraṇḍa (castor) and karañja (pongam tree)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "अतसी यानी अलसी, सर्षप यानी सरसों, एरण्ड यानी अरण्डी और करञ्ज यानी करंज में भी यही विधि है।",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "set",
+      "field": "hindi",
+      "value": "अतसी यानी अलसी, सर्षप यानी सरसों, एरण्ड यानी अरण्डी और करञ्ज यानी करंज में भी यही विधि है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The four names are kept as names, not id",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "The four names are kept in the translation; identifications are in the word gloss (karañja is Pongamia pinnata in the standard reading; a Caesalpinia species is sometimes proposed).",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "replace",
+      "field": "notes",
+      "old": "The four names are kept as names, not identified.",
+      "new": "The four names are kept in the translation; identifications are in the word gloss (karañja is Pongamia pinnata in the standard reading; a Caesalpinia species is sometimes proposed)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dantī-dravantī-jam",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "born of dantī (Baliospermum montanum, wild croton; probable) and dravantī (disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "word",
+      "match_w": "dantī-dravantī-jam",
+      "field": "gloss",
+      "value": "born of dantī (Baliospermum montanum, wild croton; probable) and dravantī (disputed)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दन्ती और द्रवन्ती से उत्पन्न",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "दन्ती यानी जंगली जमालगोटा और द्रवन्ती से उत्पन्न",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दन्ती और द्रवन्ती से उत्पन्न",
+      "new": "दन्ती यानी जंगली जमालगोटा और द्रवन्ती से उत्पन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vikāṣi",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "vikāṣin (loosening the bonds of the tissues; see 125)",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "word",
+      "match_w": "vikāṣi",
+      "field": "gloss",
+      "value": "vikāṣin (loosening the bonds of the tissues; see 125)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaudra-pippalī-liptam",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "smeared with honey (kṣaudra) and pippalī (Piper longum, long pepper; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "word",
+      "match_w": "kṣaudra-pippalī-liptam",
+      "field": "gloss",
+      "value": "smeared with honey (kṣaudra) and pippalī (Piper longum, long pepper; standard)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mṛt-kuśa-antare",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "within clay and kuśa (kuśa grass, Desmostachya bipinnata; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "word",
+      "match_w": "mṛt-kuśa-antare",
+      "field": "gloss",
+      "value": "within clay and kuśa (kuśa grass, Desmostachya bipinnata; standard)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "smeared with honey and pippalī, between ",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "smeared with honey and pippalī (long pepper), between clay and kuśa (sacred grass).",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "replace",
+      "field": "english",
+      "old": "smeared with honey and pippalī, between clay and kuśa.",
+      "new": "smeared with honey and pippalī (long pepper), between clay and kuśa (sacred grass)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पिप्पली से",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "पिप्पली यानी पीपर से",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिप्पली से",
+      "new": "पिप्पली यानी पीपर से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mastu-madirā-takra-pīlu-rasa-āsavaiḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "with mastu (curd whey), madirā (spirituous drink), takra (buttermilk), pīlu (Salvadora persica; standard) juice and āsava (fermented drink)",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "word",
+      "match_w": "mastu-madirā-takra-pīlu-rasa-āsavaiḥ",
+      "field": "gloss",
+      "value": "with mastu (curd whey), madirā (spirituous drink), takra (buttermilk), pīlu (Salvadora persica; standard) juice and āsava (fermented drink)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "One should drink that with mastu (curd whey), madirā (spirituous drink), takra (buttermilk), pīlu juice and āsava (fermented drink).",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "set",
+      "field": "english",
+      "value": "One should drink that with mastu (curd whey), madirā (spirituous drink), takra (buttermilk), pīlu juice and āsava (fermented drink)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "उसे मस्तु यानी दही का पानी, मदिरा, तक्र यानी मट्ठा, पीलु के रस और आसव यानी खमीर उठाए हुए पेय के साथ पिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसे मस्तु यानी दही का पानी, मदिरा, तक्र यानी मट्ठा, पीलु के रस और आसव यानी खमीर उठाए हुए पेय के साथ पिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "gulmī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "one having gulma (abdominal lump)",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "word",
+      "match_w": "gulmī",
+      "field": "gloss",
+      "value": "one having gulma (abdominal lump)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pramehī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "one having prameha (group of urinary disorders, including diabetes-type madhumeha)",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "word",
+      "match_w": "pramehī",
+      "field": "gloss",
+      "value": "one having prameha (group of urinary disorders, including diabetes-type madhumeha)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jaṭharī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "one having jaṭhara (belly disease, udara-type)",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "word",
+      "match_w": "jaṭharī",
+      "field": "gloss",
+      "value": "one having jaṭhara (belly disease, udara-type)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "garī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "one having gara (compound poison)",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "word",
+      "match_w": "garī",
+      "field": "gloss",
+      "value": "one having gara (compound poison)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "one with gulma, with prameha, with jaṭha",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "one with gulma (abdominal lump), with prameha (urinary disorders), with jaṭhara (belly disease), with gara (compound poison),",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "english",
+      "old": "one with gulma, with prameha, with jaṭhara, with gara,",
+      "new": "one with gulma (abdominal lump), with prameha (urinary disorders), with jaṭhara (belly disease), with gara (compound poison),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गुल्म वाला, प्रमेह वाला, जठर वाला, गर वा",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "गुल्म यानी पेट की गाँठ वाला, प्रमेह यानी मूत्र-विकारों वाला, जठर वाला, गर यानी कृत्रिम विष वाला,",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुल्म वाला, प्रमेह वाला, जठर वाला, गर वाला,",
+      "new": "गुल्म यानी पेट की गाँठ वाला, प्रमेह यानी मूत्र-विकारों वाला, जठर वाला, गर यानी कृत्रिम विष वाला,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The four terms are kept as the classical",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "The four terms are disease names kept in the translation: gulma = abdominal lump; prameha = the group of urinary disorders (madhumeha, diabetes-type, is one kind); jaṭhara = belly disease (udara-type, ascites-like); gara = compound poison (standard readings).",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "notes",
+      "old": "The four terms are kept as the classical names.",
+      "new": "The four terms are disease names kept in the translation: gulma = abdominal lump; prameha = the group of urinary disorders (madhumeha, diabetes-type, is one kind); jaṭhara = belly disease (udara-type, ascites-like); gara = compound poison (standard readings)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bhagandarī",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "one having bhagandara (anal fistula)",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "word",
+      "match_w": "bhagandarī",
+      "field": "gloss",
+      "value": "one having bhagandara (anal fistula)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "has bhagandara,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "has bhagandara (anal fistula),",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "replace",
+      "field": "english",
+      "old": "has bhagandara,",
+      "new": "has bhagandara (anal fistula),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भगन्दर वाला",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "भगन्दर यानी गुदा के पास के नासूर वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भगन्दर वाला",
+      "new": "भगन्दर यानी गुदा के पास के नासूर वाला"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: in this list of persons pāṇḍu very probably names the disease pāṇḍu (pallor with anaemia-type illness); the translation keeps 'pale' (earlier sense decision). krimi-koṣṭha = worms in the bowel (intestinal worms). The animal juices (rasa) are probably meat juices of cow, deer and goat; translation keeps 'juices'.",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "append_note",
+      "text": "Enrichment: in this list of persons pāṇḍu very probably names the disease pāṇḍu (pallor with anaemia-type illness); the translation keeps 'pale' (earlier sense decision). krimi-koṣṭha = worms in the bowel (intestinal worms). The animal juices (rasa) are probably meat juices of cow, deer and goat; translation keeps 'juices'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दशमूल के रस",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "दशमूल यानी दस जड़ों के समूह के रस",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दशमूल के रस",
+      "new": "दशमूल यानी दस जड़ों के समूह के रस"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: daśamūla, the ten roots (standard group): bilva, agnimantha, śyonāka, pāṭalā, gambhārī (the larger five) and śāliparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (the smaller five).",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "append_note",
+      "text": "Enrichment: daśamūla, the ten roots (standard group): bilva, agnimantha, śyonāka, pāṭalā, gambhārī (the larger five) and śāliparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (the smaller five)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "visarpa-vidradhi-alajī-kaṣā-dāhān",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "visarpa (spreading inflammatory skin disease, erysipelas-like; probable), vidradhi (deep abscess; standard), alajī (a skin disorder; unsure), kaṣā (unclear), and burning (dāha)",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "word",
+      "match_w": "visarpa-vidradhi-alajī-kaṣā-dāhān",
+      "field": "gloss",
+      "value": "visarpa (spreading inflammatory skin disease, erysipelas-like; probable), vidradhi (deep abscess; standard), alajī (a skin disorder; unsure), kaṣā (unclear), and burning (dāha)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "visarpa, vidradhi,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "visarpa (spreading inflammatory skin disease), vidradhi (deep abscess),",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "english",
+      "old": "visarpa, vidradhi,",
+      "new": "visarpa (spreading inflammatory skin disease), vidradhi (deep abscess),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विसर्प, विद्रधि,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "विसर्प यानी फैलने वाले जलन-सूजन के त्वचा रोग, विद्रधि यानी गहरे फोड़े,",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विसर्प, विद्रधि,",
+      "new": "विसर्प यानी फैलने वाले जलन-सूजन के त्वचा रोग, विद्रधि यानी गहरे फोड़े,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The disorder names are classical terms k",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "The disorder names are classical terms (visarpa and vidradhi are identified in the gloss; alajī and kaṣā stay unresolved);",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "notes",
+      "old": "The disorder names are classical terms kept without identification;",
+      "new": "The disorder names are classical terms (visarpa and vidradhi are identified in the gloss; alajī and kaṣā stay unresolved);"
+     }
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "gulma-meha-arśas-vibandha-kapha-mārutān",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "gulma (abdominal lump), meha (urinary disorders), arśas (haemorrhoids, piles), vibandha (constipation), Kapha and wind",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "word",
+      "match_w": "gulma-meha-arśas-vibandha-kapha-mārutān",
+      "field": "gloss",
+      "value": "gulma (abdominal lump), meha (urinary disorders), arśas (haemorrhoids, piles), vibandha (constipation), Kapha and wind"
+     }
+    },
+    {
+     "field": "english",
+     "where": "gulma, meha, arśas, binding,",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "gulma (abdominal lump), meha (urinary disorders), arśas (piles), binding (vibandha, constipation),",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "replace",
+      "field": "english",
+      "old": "gulma, meha, arśas, binding,",
+      "new": "gulma (abdominal lump), meha (urinary disorders), arśas (piles), binding (vibandha, constipation),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "तैल तो गुल्म यानी पेट की गाँठ, मेह यानी मूत्र-विकार, अर्श यानी बवासीर, विबन्ध यानी मलावरोध, कफ और वायु को जीत ले।",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "set",
+      "field": "hindi",
+      "value": "तैल तो गुल्म यानी पेट की गाँठ, मेह यानी मूत्र-विकार, अर्श यानी बवासीर, विबन्ध यानी मलावरोध, कफ और वायु को जीत ले।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "arśas and meha are classical terms kept ",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "arśas = haemorrhoids (piles); meha = the prameha group of urinary disorders, of which diabetes-type madhumeha is one kind (standard). tailam unqualified is usually sesame oil (probable).",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "replace",
+      "field": "notes",
+      "old": "arśas and meha are classical terms kept without modern names.",
+      "new": "arśas = haemorrhoids (piles); meha = the prameha group of urinary disorders, of which diabetes-type madhumeha is one kind (standard). tailam unqualified is usually sesame oil (probable)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Identification / meaning note per owner policy",
+     "fix": "Enrichment: in the standard usage mahāsneha means the four fats taken together (ghee, oil, muscle-fat vasā, marrow majjā), or a medicated preparation of them; which is meant here is not decided (probable). śukra = semen.",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "append_note",
+      "text": "Enrichment: in the standard usage mahāsneha means the four fats taken together (ghee, oil, muscle-fat vasā, marrow majjā), or a medicated preparation of them; which is meant here is not decided (probable). śukra = semen."
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bhṛṅgyāḥ",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "of bhṛṅgī (drug name; identity disputed, Eclipta prostrata or Clerodendrum serratum proposed)",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "word",
+      "match_w": "bhṛṅgyāḥ",
+      "field": "gloss",
+      "value": "of bhṛṅgī (drug name; identity disputed, Eclipta prostrata or Clerodendrum serratum proposed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dāha-saṃtāpa-meha-nut",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "dispelling burning, heat and meha (urinary disorders incl. diabetes-type)",
+     "severity": "minor",
+     "patch": {
+      "n": "145",
+      "op": "word",
+      "match_w": "dāha-saṃtāpa-meha-nut",
+      "field": "gloss",
+      "value": "dispelling burning, heat and meha (urinary disorders incl. diabetes-type)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और मेह को",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "और मेह यानी मूत्र-विकार को",
+     "severity": "minor",
+     "patch": {
+      "n": "145",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और मेह को",
+      "new": "और मेह यानी मूत्र-विकार को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "146",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ajagandhayā",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "with ajagandhā (drug name; identity disputed, no identification adopted)",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "word",
+      "match_w": "ajagandhayā",
+      "field": "gloss",
+      "value": "with ajagandhā (drug name; identity disputed, no identification adopted)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "के ज्वर में",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "के ज्वर यानी बुखार में",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "replace",
+      "field": "hindi",
+      "old": "के ज्वर में",
+      "new": "के ज्वर यानी बुखार में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "147",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhātrī-rase",
+     "problem": "Add modern identification/meaning per owner policy",
+     "fix": "in the juice of dhātrī (= āmalakī, Phyllanthus emblica, Indian gooseberry; standard)",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "word",
+      "match_w": "dhātrī-rase",
+      "field": "gloss",
+      "value": "in the juice of dhātrī (= āmalakī, Phyllanthus emblica, Indian gooseberry; standard)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "juice of dhātrī.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "juice of dhātrī (Indian gooseberry).",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "replace",
+      "field": "english",
+      "old": "juice of dhātrī.",
+      "new": "juice of dhātrī (Indian gooseberry)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धात्री के रस",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "धात्री यानी आँवले के रस",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धात्री के रस",
+      "new": "धात्री यानी आँवले के रस"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "not identified.",
+     "problem": "Add modern name/meaning per owner policy",
+     "fix": "standard synonym of āmalakī, Indian gooseberry (Phyllanthus emblica); standard.",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "replace",
+      "field": "notes",
+      "old": "not identified.",
+      "new": "standard synonym of āmalakī, Indian gooseberry (Phyllanthus emblica); standard."
+     }
+    }
+   ]
+  },
+  {
+   "n": "148",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Enrichment pass ch02 chunk4 (units 112-148): modern plant names (standard 16, probable 2, disputed 7 left unadopted or flagged), disease names (gulma, prameha, arsas, bhagandara, vidradhi, visarpa, gara, vibandha), measures and preparations glossed. Units 117, 136, 148 left unchanged (low confidence, damaged or doubtful print); 141 enriched only for surest words."
+}

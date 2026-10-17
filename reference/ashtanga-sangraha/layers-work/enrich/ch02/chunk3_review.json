@@ -1,0 +1,854 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "caturaṃgulaḥ",
+     "problem": "\"drug name\" only; standard identification omitted",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "caturaṃgulaḥ",
+       "field": "gloss",
+       "value": "caturaṃgula (four-finger), Indian laburnum, Cassia fistula (standard)",
+       "n": "76"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "Caturaṃgula (lit. 'four-finger')",
+       "new": "Caturaṃgula (lit. 'four-finger'; Indian laburnum)",
+       "n": "76"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "चतुरंगुल का",
+       "new": "चतुरंगुल यानी अमलतास का",
+       "n": "76"
+      },
+      {
+       "op": "append_note",
+       "text": "Identification: caturaṃgula = āragvadha, Cassia fistula (Indian laburnum, amaltas); tag: standard. Unit left otherwise as reviewed (low confidence).",
+       "n": "76"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "drākṣā-rasena",
+     "problem": "plant identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "drākṣā-rasena",
+       "field": "gloss",
+       "value": "with drākṣā juice (grape, Vitis vinifera; standard)",
+       "n": "81"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "द्राक्षा के रस",
+       "new": "द्राक्षा यानी अंगूर के रस",
+       "n": "81"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "दाह और",
+       "new": "दाह यानी जलन और",
+       "n": "81"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "with drākṣā juice",
+       "new": "with drākṣā (grape) juice",
+       "n": "81"
+      },
+      {
+       "op": "append_note",
+       "text": "drākṣā = grape, Vitis vinifera (standard); the text does not say fresh or dried fruit.",
+       "n": "81"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "caturaṃgula",
+     "problem": "Hindi plant name",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "चतुरंगुल की मज्जा",
+       "new": "चतुरंगुल यानी अमलतास की मज्जा",
+       "n": "83"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhātrī-phala",
+     "problem": "plant identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "dadhi-maṃḍa-surā-maṃḍa-dhātrī-phala-rasaiḥ",
+       "field": "gloss",
+       "value": "curd maṇḍa, surā maṇḍa, dhātrī-fruit juices (dhātrī = āmalakī, emblic myrobalan, Phyllanthus emblica; standard)",
+       "n": "84"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "धात्रीफल के रस",
+       "new": "धात्रीफल यानी आँवले के रस",
+       "n": "84"
+      },
+      {
+       "op": "append_note",
+       "text": "dhātrī = āmalakī, Phyllanthus emblica (emblic myrobalan, Hindi āṃvlā); tag: standard.",
+       "n": "84"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sauvīraka, traivṛta",
+     "problem": "\"preparation name\" / \"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sauvīrakeṇa",
+       "field": "gloss",
+       "value": "with sauvīraka (a sour fermented barley drink; probable)",
+       "n": "85"
+      },
+      {
+       "op": "word",
+       "match_w": "traivṛtena",
+       "field": "gloss",
+       "value": "of trivṛt (Operculina turpethum, turpeth; standard)",
+       "n": "85"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "त्रिवृत् के कल्क",
+       "new": "त्रिवृत् यानी निसोथ के कल्क",
+       "n": "85"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "सौवीरक से",
+       "new": "सौवीरक यानी खट्टे किण्वित यव-पेय से",
+       "n": "85"
+      },
+      {
+       "op": "append_note",
+       "text": "Identifications: sauvīraka = a sour fermented drink made from barley (probable; its exact preparation is not given here); trivṛt = Operculina turpethum (turpeth, Hindi nisoth), standard.",
+       "n": "85"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "dhātrīṇāṃ",
+     "problem": "plant name",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "dhātrīṇāṃ",
+       "field": "gloss",
+       "value": "of the dhātrīs (āmalakī fruits; see unit 84)",
+       "n": "87"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "धात्रियों के रस",
+       "new": "धात्रियों यानी आँवलों के रस",
+       "n": "87"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kulattha, yava, daśamūla",
+     "problem": "plant identifications",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "kulatthānāṃ",
+       "field": "gloss",
+       "value": "of kulatthas (horse gram, Macrotyloma uniflorum; standard)",
+       "n": "88"
+      },
+      {
+       "op": "word",
+       "match_w": "yavasya",
+       "field": "gloss",
+       "value": "of barley (Hordeum vulgare; standard)",
+       "n": "88"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कुलत्थों का",
+       "new": "कुलत्थों यानी कुलथी का",
+       "n": "88"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "यव का",
+       "new": "यव यानी जौ का",
+       "n": "88"
+      },
+      {
+       "op": "append_note",
+       "text": "daśamūla, the \"ten roots\": standard members are bilva, agnimantha, śyonāka, pāṭalā, gambhārī (the \"greater five\"), and śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (the \"lesser five\"). The text here does not list them; this is the standard group.",
+       "n": "88"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śyāmā",
+     "problem": "\"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "śyāmā-ādibhiḥ",
+       "field": "gloss",
+       "value": "with śyāmā (disputed: commonly black trivṛt, Operculina turpethum) and others",
+       "n": "89"
+      },
+      {
+       "op": "append_note",
+       "text": "śyāmā: tag disputed; most often taken as the black (śyāmā) variety of trivṛt, Operculina turpethum, but the word is used for several plants. \"And the rest\" (ādi) is not enumerated in this unit.",
+       "n": "89"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "daṃtī",
+     "problem": "plant identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "daṃtī-kaṣāye",
+       "field": "gloss",
+       "value": "in the decoction of daṃtī (Baliospermum montanum; probable)",
+       "n": "90"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "दंती के काढ़े",
+       "new": "दंती के काढ़े",
+       "n": "90"
+      },
+      {
+       "op": "append_note",
+       "text": "daṃtī = Baliospermum montanum (wild croton relative); tag: probable (some authors take Croton polyandrum for dantī or dravantī).",
+       "n": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ariṣṭaṃ",
+     "problem": "\"preparation name\" only",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "ariṣṭaṃ",
+       "field": "gloss",
+       "value": "ariṣṭa (a fermented medicated liquor)",
+       "n": "91"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tilvaka",
+     "problem": "\"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "tilvaka-mūlasya",
+       "field": "gloss",
+       "value": "of the root of tilvaka (disputed; often Symplocos racemosa, also Ventilago species)",
+       "n": "92"
+      },
+      {
+       "op": "append_note",
+       "text": "tilvaka: tag disputed. Texts and later writers variously give Symplocos racemosa (also called lodhra) or Ventilago species; no firm identification is claimed here. The root bark is meant (tvac, with the inner bark discarded).",
+       "n": "92"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rodhra",
+     "problem": "\"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "rodhrasya",
+       "field": "gloss",
+       "value": "of rodhra (lodhra, Symplocos racemosa; standard)",
+       "n": "94"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "रोध्र के ही",
+       "new": "रोध्र यानी लोध के ही",
+       "n": "94"
+      },
+      {
+       "op": "append_note",
+       "text": "rodhra = lodhra, Symplocos racemosa; tag: standard.",
+       "n": "94"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "daśamūla",
+     "problem": "Hindi ordinary name",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "दशमूल के",
+       "new": "दशमूल यानी दस जड़ों के",
+       "n": "95"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mastu, kola",
+     "problem": "identifications",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "mastu",
+       "field": "gloss",
+       "value": "mastu (whey, the watery part of curd)",
+       "n": "97"
+      },
+      {
+       "op": "word",
+       "match_w": "kola",
+       "field": "gloss",
+       "value": "kola (jujube, Ziziphus jujuba; probable)",
+       "n": "97"
+      },
+      {
+       "op": "word",
+       "match_w": "dhātrī-phala",
+       "field": "gloss",
+       "value": "dhātrī fruit (āmalakī; see unit 84)",
+       "n": "97"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "मस्तु, मूत्र",
+       "new": "मस्तु यानी दही का पानी, मूत्र",
+       "n": "97"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कोल,",
+       "new": "कोल यानी बेर,",
+       "n": "97"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "धात्रीफल",
+       "new": "धात्रीफल यानी आँवला",
+       "n": "97"
+      },
+      {
+       "op": "append_note",
+       "text": "mastu = whey (water separated from curd); kola = jujube, Ziziphus jujuba, tag: probable. The animal source of mūtra (urine) is not stated in the text.",
+       "n": "97"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "four drug names",
+     "problem": "\"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "meṣa-śṛṃgī",
+       "field": "gloss",
+       "value": "meṣaśṛṃgī (ram's-horn), Gymnema sylvestre (probable)",
+       "n": "98"
+      },
+      {
+       "op": "word",
+       "match_w": "abhayā",
+       "field": "gloss",
+       "value": "abhayā (harītakī, chebulic myrobalan, Terminalia chebula; standard)",
+       "n": "98"
+      },
+      {
+       "op": "word",
+       "match_w": "kṛṣṇā",
+       "field": "gloss",
+       "value": "kṛṣṇā (long pepper, Piper longum; standard)",
+       "n": "98"
+      },
+      {
+       "op": "word",
+       "match_w": "citrakaiḥ",
+       "field": "gloss",
+       "value": "with citraka (leadwort, Plumbago zeylanica; standard)",
+       "n": "98"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "मेषशृंगी, अभया, कृष्णा और चित्रक",
+       "new": "मेषशृंगी यानी मेढ़ासिंगी, अभया यानी हरड़, कृष्णा यानी पीपर और चित्रक यानी चीता",
+       "n": "98"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "meṣaśṛṃgī, abhayā, kṛṣṇā and citraka",
+       "new": "meṣaśṛṃgī (Gymnema sylvestre), abhayā (chebulic myrobalan), kṛṣṇā (long pepper) and citraka (leadwort)",
+       "n": "98"
+      },
+      {
+       "op": "append_note",
+       "text": "Identifications: meṣaśṛṃgī = Gymnema sylvestre, probable (Dolichandrone falcata is also proposed); abhayā = harītakī, Terminalia chebula, standard; kṛṣṇā = pippalī, Piper longum, standard in this context (the word has other senses); citraka = Plumbago zeylanica, standard.",
+       "n": "98"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "rodhra",
+     "problem": "Hindi plant name",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "रोध्र के काढ़े",
+       "new": "रोध्र यानी लोध के काढ़े",
+       "n": "101"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tilvaka, śarkarā",
+     "problem": "identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sa-śarkaraḥ",
+       "field": "gloss",
+       "value": "with śarkarā (sugar)",
+       "n": "102"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "शर्करा सहित",
+       "new": "शर्करा यानी चीनी सहित",
+       "n": "102"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "virecana",
+     "problem": "Hindi term",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "उत्तम विरेचन है",
+       "new": "उत्तम विरेचन यानी दस्त लाने वाला उपाय है",
+       "n": "103"
+      },
+      {
+       "op": "append_note",
+       "text": "virecana = purgation (induced evacuation by the bowel).",
+       "n": "103"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sudhā",
+     "problem": "\"drug name\" without identification",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sudhā",
+       "field": "gloss",
+       "value": "sudhā (Euphorbia, spurge; disputed between Euphorbia neriifolia and E. nivulia)",
+       "n": "104"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "सुधा दोषों",
+       "new": "सुधा यानी थूहर दोषों",
+       "n": "104"
+      },
+      {
+       "op": "append_note",
+       "text": "sudhā = snuhī, a spiny milky Euphorbia (Euphorbia neriifolia / E. nivulia; the species is disputed, the genus probable). Units 109 and 111 (thorns, milk) fit this plant but do not name it.",
+       "n": "104"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "gulma, madhumeha",
+     "problem": "owner now allows ordinary names where reading is sure (madhumeha, gulma); gatvroga left untouched",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "gulma ('cluster, lump')",
+       "new": "gulma (abdominal lump)",
+       "n": "107"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "madhumeha ('honey-urine')",
+       "new": "madhumeha ('honey-urine', the urinary disorder usually identified with diabetes mellitus)",
+       "n": "107"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names, not as modern disease names.",
+       "new": "Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names (the old restriction against modern disease names is lifted by the owner; see the next note).",
+       "n": "107"
+      },
+      {
+       "op": "append_note",
+       "text": "Enrichment: gulma = abdominal lump (standard); udara = belly (the text names it as a condition: abdominal disease, standard); madhumeha = the urinary disorder of the prameha group, usually identified with diabetes mellitus (probable). Only these clear words were enriched; the damaged word gatvroga and its reading are untouched.",
+       "n": "107"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pāṇḍu, dūṣīviṣa",
+     "problem": "modern equivalent",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "pāṃḍau",
+       "field": "gloss",
+       "value": "in pāṇḍu ('pale', the condition; roughly anaemia with pallor, probable)",
+       "n": "108"
+      },
+      {
+       "op": "word",
+       "match_w": "dūṣī-viṣe",
+       "field": "gloss",
+       "value": "in dūṣī-poison (dūṣīviṣa, residual or weakened poison lodged in the body)",
+       "n": "108"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "पाण्डु में, दूषीविष में",
+       "new": "पाण्डु यानी रक्ताल्पता जैसे फीकेपन के रोग में, दूषीविष यानी शरीर में टिके हलके विष में",
+       "n": "108"
+      },
+      {
+       "op": "append_note",
+       "text": "Identifications: pāṇḍu = the disease marked by pallor, roughly anaemia (probable; it may also include other pale-making conditions); dūṣīviṣa = residual or weakened poison that stays in the body and acts slowly (standard concept in Sanskrit medicine); śopha = swelling (oedema).",
+       "n": "108"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kṣīra",
+     "problem": "interpretation kept separate",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "append_note",
+       "text": "Interpretation (probable, not stated in the text): kṣīra, \"milk\", is here the milky sap (latex) of the plant, which fits sudhā (a milky Euphorbia) of unit 104; the translation keeps \"milk\".",
+       "n": "111"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment pass K=3 (units 75-111): modern names added beside Sanskrit terms. Tags: standard 14 (caturaṃgula, drākṣā, dhātrī, trivṛt, kulattha, yava, rodhra, abhayā, kṛṣṇā, citraka, gulma etc.), probable 7 (sauvīraka, daṃtī, kola, meṣaśṛṃgī, pāṇḍu, madhumeha, kṣīra-as-latex), disputed 3 (śyāmā, tilvaka, sudhā species), unidentified 0 named. Units 99, 100, 105 (low) and gatvroga word of 107 left alone."
+}

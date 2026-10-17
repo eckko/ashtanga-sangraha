@@ -1,0 +1,46 @@
+[
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "अथवा बकरी के दूध में भिगोए हुए इक्ष्वाकु के बीज, विष, गुल्म यानी पेट की गाँठ, उदर यानी पेट के रोग जलोदर समेत, गलगण्ड यानी घेंघा, ग्रन्थि यानी गाँठ, अर्बुद यानी रसौली और श्लीपद यानी हाथीपाँव में।",
+  "new": "अथवा बकरी के दूध में भिगोए हुए इक्ष्वाकु के बीज, विष, गुल्म यानी पेट की गाँठ, उदर यानी पेट के रोग, गलगण्ड यानी घेंघा, ग्रन्थि यानी गाँठ, अर्बुद यानी रसौली और श्लीपद यानी हाथीपाँव में।",
+  "why": "reviewer (error): 'जलोदर समेत' (including ascites) is put into the Hindi translation as if the text said it; udara only means belly-ailment here (unit 49 Hindi correctly has no such clause). The gloss/notes already carry 'includes ascites' as interpretation."
+ },
+ {
+  "n": "57",
+  "field": "word.gloss",
+  "word": "jīmūta-mahājālinī-vatsaka-kṛtavedhanāni",
+  "old": "jīmūta (probably jīmūtaka, bitter luffa), mahājālinī (unidentified, disputed), vatsaka (= kuṭaja, Holarrhena pubescens; probable) and kṛtavedhana (probably Luffa acutangula, ridged gourd; probable) (drug names)",
+  "new": "jīmūta (probably jīmūtaka, bitter luffa), mahājālinī (unidentified), vatsaka (= kuṭaja, Holarrhena pubescens; probable) and kṛtavedhana (Luffa acutangula, ridged gourd; probable) (drug names)",
+  "why": "reviewer (minor): Redundant/contradictory tags: 'probably ... ; probable' and 'unidentified, disputed'. mahājālinī should simply be unidentified."
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "Doubtful: (1) tribhāga taken as 'a third part' (could be 'three parts'). (2) tad-ardha-aṃśika: 'half that quantity'; which members are meant to be at half the quantity is a judgement from pratyekam. (3) 'trikaṭuka equal to the decoction' is literal; the odd quantity is not corrected here. (4) the base liquid is the decoction of unit 56. Identifications (reading of this unit stays low confidence; only the surest names enriched): trikaṭuka = śuṇṭhī (Zingiber officinale), pippalī (Piper longum), marica (Piper nigrum) (standard). vatsaka = kuṭaja, Holarrhena pubescens (Buch.-Ham.) Wall. ex G.Don = H. antidysenterica (probable; indrayava is its seed). kṛtavedhana = koṣātakī, Luffa acutangula (L.) Roxb. (probable; some lists give Luffa cylindrica). jīmūta presumably = jīmūtaka (see unit 37). mahājālinī: unidentified (disputed; a Luffa-like climber in some lists).",
+  "new": "Doubtful: (1) tribhāga taken as 'a third part' (could be 'three parts'). (2) tad-ardha-aṃśika: 'half that quantity'; which members are meant to be at half the quantity is a judgement from pratyekam. (3) 'trikaṭuka equal to the decoction' is literal; the odd quantity is not corrected here. (4) the base liquid is the decoction of unit 56. Identifications (reading of this unit stays low confidence; only the surest names enriched): trikaṭuka = śuṇṭhī (Zingiber officinale), pippalī (Piper longum), marica (Piper nigrum) (standard). vatsaka = kuṭaja, Holarrhena pubescens (Buch.-Ham.) Wall. ex G.Don = H. antidysenterica (probable; indrayava is its seed). kṛtavedhana = koṣātakī, Luffa acutangula (L.) Roxb. (probable; some lists give Luffa cylindrica). jīmūta presumably = jīmūtaka (see unit 37). mahājālinī: unidentified (no identification is relied on here).",
+  "why": "reviewer (minor): Unsourced vague claim ('Luffa-like climber in some lists') attached to an unidentified name; policy says say 'unidentified' when unknown."
+ },
+ {
+  "n": "62",
+  "field": "word.gloss",
+  "word": "tumbaru-dhānya-yūṣeṇa",
+  "old": "with a broth of tumbaru (Zanthoxylum armatum, probable) and dhānya (coriander, Coriandrum sativum, probable; or literally 'grain')",
+  "new": "with a broth of tumbaru (Zanthoxylum armatum, probable) and dhānya (literally 'grain'; some lists read dhānyaka, coriander; disputed)",
+  "why": "reviewer (minor): Overconfident: in a yūṣa (broth) context dhānya is more naturally 'grain/pulse' and the source note itself says it may be literal; coriander is only one reading. Should be tagged disputed, not probable."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "dhānya is literally 'grain' and may here be a drug name; kept as a name in the translation. Identifications (probable): tumbaru = Zanthoxylum armatum DC. (= Z. alatum; Hindi tejbal, timur). dhānya = dhānyaka, coriander, in many lists; the earlier sense note (literal 'grain' kept as a name) is not changed.",
+  "new": "dhānya is literally 'grain' and may here be a drug name; kept as a name in the translation. Identifications (probable): tumbaru = Zanthoxylum armatum DC. (= Z. alatum; Hindi tejbal, timur). dhānya: literally 'grain'; some lists read dhānyaka, coriander (disputed). The earlier sense note (kept as a name in the translation) is not changed.",
+  "why": "reviewer (minor): Same overconfidence; 'in many lists' and heading 'probable' unsupported for dhānya."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "Having soaked kuṭaja fruit powders for seven days in the milk of arka (Calotropis, latex), or in the decoction of any one of the madanaphala (emetic nut), jīmūtaka, ikṣvāku, jīvantī and jīvaka roots, or in water of any one of sarṣapa (mustard), madhūka (mahua) and salt, or kuṭaja fruit powder with kṛśarā, one should prepare it for emesis.",
+  "new": "Having soaked kuṭaja fruit powders for seven days in the milk of arka (Calotropis), or in the decoction of any one of the madanaphala (emetic nut), jīmūtaka, ikṣvāku, jīvantī and jīvaka roots, or in water of any one of sarṣapa (mustard), madhūka (mahua) and salt, or kuṭaja fruit powder with kṛśarā, one should prepare it for emesis.",
+  "why": "reviewer (minor): 'latex' is interpretation placed in the translation; keep it in the gloss only (gloss already says 'milk' = latex)."
+ }
+]

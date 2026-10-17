@@ -1,0 +1,249 @@
+{
+ "units": [
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tilvakaḥ",
+     "problem": "'usually Symplocos racemosa' is overconfident: for the purgative tilvaka of the virechana lists commentators and dravyaguna works also give Wendlandia exserta; lodhra (Symplocos racemosa) is not a purgative.",
+     "fix": "tilvaka (disputed: Symplocos racemosa, i.e. lodhra, or Wendlandia exserta)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "tilvakaḥ",
+      "field": "gloss",
+      "value": "tilvaka (disputed: Symplocos racemosa, i.e. lodhra, or Wendlandia exserta)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tilvaka sentence",
+     "problem": "'commonly equated with lodhra' states a single identification as the usual one.",
+     "fix": "tilvaka is disputed (Symplocos racemosa, the plant called lodhra, and Wendlandia exserta are both proposed)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "tilvaka is disputed (commonly equated with lodhra, Symplocos racemosa; other identifications are proposed)",
+      "new": "tilvaka is disputed (Symplocos racemosa, the plant called lodhra, and Wendlandia exserta are both proposed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कषाय और मधुर",
+     "problem": "Bare कषाय used for the taste (glossary: taste = कसैला; never bare कषाय).",
+     "fix": "कसैला और मधुर",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कषाय और मधुर",
+      "new": "कसैला और मधुर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "drākṣā (grape)",
+     "problem": "In purgative recipes drākṣā is normally the dried grape (raisin, मुनक्का); 'grape' alone is narrower than the gloss ('grape or raisin').",
+     "fix": "drākṣā (grape or raisin)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "english",
+       "old": "drākṣā (grape)",
+       "new": "drākṣā (grape or raisin)"
+      },
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "hindi",
+       "old": "द्राक्षा यानी अंगूर,",
+       "new": "द्राक्षा यानी अंगूर या मुनक्का,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vidārī",
+     "problem": "vidārī is also the name of Ipomoea digitata (kṣīravidārī); 'kudzu' alone suggests Pueraria montana. 'probable' is right, but the alternative should be stated and the English should say Indian kudzu.",
+     "fix": "vidārī (Pueraria tuberosa, Indian kudzu tuber; probable; Ipomoea digitata is also called vidārī)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "ajagaṃdhā-tavakṣīrī-vidārī-śarkarā-trivṛt",
+       "field": "gloss",
+       "value": "ajagandhā (disputed: Gynandropsis gynandra or other plants), tavakṣīrī (disputed, see unit 11), vidārī (Pueraria tuberosa, Indian kudzu tuber; probable; Ipomoea digitata is also called vidārī), sugar, trivṛt"
+      },
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "english",
+       "old": "vidārī (kudzu tuber)",
+       "new": "vidārī (Indian kudzu tuber)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ikṣu",
+     "problem": "Missed obvious identification: ikṣu = sugarcane (standard), already given in units 9; useful here.",
+     "fix": "ikṣu (sugarcane)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "replace",
+       "field": "english",
+       "old": "a piece (joint) of ikṣu that",
+       "new": "a piece (joint) of ikṣu (sugarcane) that"
+      },
+      {
+       "n": "18",
+       "op": "replace",
+       "field": "hindi",
+       "old": "इक्षु-खण्ड के भीतर",
+       "new": "इक्षु-खण्ड यानी गन्ने के टुकड़े के भीतर"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भृंग यानी भांगरा; नीली यानी नील",
+     "problem": "Low-confidence unit (measure relations unclear). Putting bhṛṅga = भांगरा and nīlī = नील flatly into the Hindi and 'Nīlī (indigo)' into the English is over-enrichment: bhṛṅga names several plants (bhṛṅgarāja, Eclipta prostrata, is only the usual one) and the nīlī/nīlinī of purgative lists is not certainly indigo. Keep elā = इलायची, which is standard.",
+     "fix": "भृंग और एला यानी इलायची के बराबर नीली, उनके साथ त्रिवृत् और उनके साथ शर्करा।",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "hindi",
+       "old": "भृंग यानी भांगरा और एला यानी इलायची के बराबर नीली यानी नील,",
+       "new": "भृंग और एला यानी इलायची के बराबर नीली,"
+      },
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "english",
+       "old": "Nīlī (indigo) equal",
+       "new": "Nīlī equal"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "bhṛṃga-elābhyāṃ",
+       "field": "gloss",
+       "value": "with bhṛṅga (disputed: usually bhṛṅgarāja, Eclipta prostrata; not certain in this unit) and elā (small cardamom, Elettaria cardamomum; standard)"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "nīlī",
+       "field": "gloss",
+       "value": "nīlī (probably indigo plant, Indigofera tinctoria; the plant meant is uncertain in this unit)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "halīmakam",
+     "problem": "'pale-yellow jaundiced condition' is loose: halīmaka is described with a greenish-yellow hue as a late stage of pāṇḍu; kāmalā (jaundice) is a separate disease listed in unit 35. 'probable' is the right tag.",
+     "fix": "halīmaka (a severe stage of pāṇḍu with a greenish-yellow hue; probable)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "halīmakam",
+      "field": "gloss",
+      "value": "halīmaka (a severe stage of pāṇḍu with a greenish-yellow hue; probable)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dīpyakaṃ",
+     "problem": "'ajwain ... or ajamodā' is muddled: ajwain is the Hindi name of yavānī, and ajamodā is the other proposed plant. Stating the two candidates cleanly keeps 'disputed' accurate.",
+     "fix": "dīpyaka (disputed: yavānī, ajwain, Trachyspermum ammi, or ajamodā, Carum roxburghianum)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "dīpyakaṃ",
+      "field": "gloss",
+      "value": "dīpyaka (disputed: yavānī, ajwain, Trachyspermum ammi, or ajamodā, Carum roxburghianum)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pāṇḍu equivalent",
+     "problem": "pāṇḍu is the anaemia-type pale condition; jaundice is kāmalā (unit 35), a separate disease. 'anaemia or jaundice type' blurs them.",
+     "fix": "pāṇḍu is the pale condition (anaemia type)",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "notes",
+      "old": "(anaemia or jaundice type)",
+      "new": "(anaemia type)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment of chunk 1 (units 1-37) is largely sound. Checked and found correct (no change): trivṛt/Operculina turpethum = निसोथ, snuhī/Euphorbia neriifolia = सेहुंड, harītakī, śuṇṭhī = सोंठ, saindhava = सेंधा नमक, kāśmarya/Gmelina arborea = गम्भारी, pīlu/Salvadora persica (probable), cavya/Piper retrofractum (probable), triphalā, vyoṣa, pañcakola, akṣoḍa, mātuluṅga, kola, karamardaka, kapittha, sahakāra, trijātaka = दालचीनी, इलायची, तेजपात, nāgakeśara, karpūra, tavakṣīrī (disputed, correctly left unnamed in Hindi), vesavāra (probable), indrayava = इन्द्रजौ (kuṭaja seeds), ajājī = जीरा, hastipippalī = गजपीपल (probable), dhānya = धनिया (probable, hedged in notes), pañcalavaṇa (hedged, not named), tulā = 100 palas, dhātrī = āmalaka, plīhodara, kāmalā = पीलिया, meha = प्रमेह, sannipāta, saktu = सत्तू; the units 24, 25, 27, 36 enrichment is restrained (only viḍaṅga, kaṇā and the hedged yāvaśūka/varā note). Hindi enrichment is Devanagari only with no brackets. Issues: bare कषाय (taste) remains in unit 4 Hindi (inherited, now fixed to कसैला); unit 20 (low) over-enriched with bhṛṅga/nīlī; tilvaka, vidārī, dīpyaka, halīmaka, drākṣā wording tightened; unit 36 note blurred pāṇḍu with jaundice; ikṣu in unit 18 not identified. No unit regrouping suggested. No identification judged outright wrong."
+}

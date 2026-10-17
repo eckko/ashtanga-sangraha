@@ -1,0 +1,409 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "udāvarta",
+     "problem": "udāvarta and dāha left unexplained although the owner wants comprehension; both are standard terms.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "81",
+      "op": "append_note",
+      "text": "Enrichment gap filled: dāha = burning sensation; udāvarta = disorder in which Vāta moves upward or is obstructed, with retention of stool, urine and flatus and abdominal distension (standard description)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "caturaṃgula",
+     "problem": "Identification given in Hindi of this unit and in unit 76 but not in the English; inconsistent.",
+     "fix": "caturaṃgula (Indian laburnum)",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "replace",
+      "field": "english",
+      "old": "of caturaṃgula;",
+      "new": "of caturaṃgula (Indian laburnum);"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'traivṛta' = ... (a drug name, not identified)",
+     "problem": "Stale statement now contradicts the appended identification (trivṛt = turpeth, standard).",
+     "fix": "(a drug name; identified below)",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "notes",
+      "old": "(a drug name, not identified)",
+      "new": "(a drug name; identified below)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "caturaṃgula",
+     "problem": "Identification missing in both languages here although given in 76 and 83.",
+     "fix": "add (Indian laburnum) / यानी अमलतास",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "86",
+       "op": "replace",
+       "field": "english",
+       "old": "cooked with caturaṃgula.",
+       "new": "cooked with caturaṃgula (Indian laburnum)."
+      },
+      {
+       "n": "86",
+       "op": "replace",
+       "field": "hindi",
+       "old": "चतुरंगुल के साथ",
+       "new": "चतुरंगुल यानी अमलतास के साथ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "wild croton relative",
+     "problem": "Baliospermum montanum is itself the plant called wild croton (jaṅglī jamālgoṭā), not a 'relative'; the wording misleads.",
+     "fix": "the plant called wild croton",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "replace",
+      "field": "notes",
+      "old": "(wild croton relative)",
+      "new": "(the plant called wild croton)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tag probable",
+     "problem": "Tag 'probable' is cautious but acceptable; Baliospermum montanum is the usual identification of dantī in the Ayurvedic pharmacopoeia, Croton-type plants being regional substitutes. No change required.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tilvaka disputed (Symplocos racemosa also called lodhra; Ventilago)",
+     "problem": "Tag 'disputed' is right. But the same passage (unit 94) names rodhra as a separate drug, so the text itself treats tilvaka and rodhra as different; the 'also called lodhra' remark could make a reader think they are one. The Ventilago alternative cannot be checked without sources and should stay a hedge.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "append_note",
+      "text": "Note: unit 94 uses rodhra (lodhra) as a separate drug in the same recipe, so the text does not treat tilvaka as lodhra; the Ventilago option is a later opinion not checked here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "meṣaśṛṃgī (Gymnema sylvestre)",
+     "problem": "Translation states the species as certain while the note tags it only 'probable' (Dolichandrone falcata is the rival identification). Overconfident in the translation line.",
+     "fix": "meṣaśṛṃgī (probably Gymnema sylvestre)",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "english",
+      "old": "meṣaśṛṃgī (Gymnema sylvestre)",
+      "new": "meṣaśṛṃgī (probably Gymnema sylvestre)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug names kept, none identified.",
+     "problem": "Stale sentence contradicts the identifications appended after it.",
+     "fix": "Drug names kept.",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug names kept, none identified. Identifications:",
+      "new": "Drug names kept. Identifications:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "leha",
+     "problem": "leha left unexplained.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "103",
+      "op": "append_note",
+      "text": "leha = an electuary, a thick medicated paste that is licked (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Sudhā",
+     "problem": "English carries no identification although Hindi, gloss and note do; a reader of the English alone cannot tell sudhā is a plant.",
+     "fix": "Sudhā (spurge, Euphorbia; see note)",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "replace",
+      "field": "english",
+      "old": "Sudhā splits",
+      "new": "Sudhā (spurge, Euphorbia; see note) splits"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'sudhā' kept as a name (not identified).",
+     "problem": "Stale sentence contradicts the identification appended after it.",
+     "fix": "'sudhā' kept as a name.",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "replace",
+      "field": "notes",
+      "old": "'sudhā' kept as a name (not identified).",
+      "new": "'sudhā' kept as a name."
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "udara = abdominal disease",
+     "problem": "Glossary line 22 (still valid: spelling and sense decisions) fixes udara = belly, not ailment. The note says the text names it 'as a condition: abdominal disease'. Owner decision needed; English was correctly left as 'belly'. Hindi 107 got no enrichment while English did (Hindi keeps the Sanskrit terms, which is acceptable).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हलके",
+     "problem": "Standard spelling is हल्के.",
+     "fix": "हल्के",
+     "severity": "minor",
+     "patch": {
+      "n": "108",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हलके",
+      "new": "हल्के"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pāṇḍu / dūṣīviṣa",
+     "problem": "Hindi explains both terms, English does not; the English reader loses the enrichment.",
+     "fix": "add roughly anaemia; residual poison",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "108",
+       "op": "replace",
+       "field": "english",
+       "old": "('pale', the condition),",
+       "new": "('pale', the condition, roughly anaemia),"
+      },
+      {
+       "n": "108",
+       "op": "replace",
+       "field": "english",
+       "old": "in dūṣīviṣa,",
+       "new": "in dūṣīviṣa (residual poison lodged in the body),"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed every enriched change in units 76-111 against the pre-enrichment file. No wrong identification found: caturaṃgula=Cassia fistula, drākṣā=Vitis vinifera, dhātrī=āmalakī, trivṛt=Operculina turpethum, sauvīraka=sour fermented barley drink (probable), kulattha, yava, daśamūla list, rodhra=lodhra, kola=Ziziphus jujuba (probable), mastu=whey, meṣaśṛṅgī=Gymnema sylvestre (probable), abhayā, kṛṣṇā, citraka, sudhā=snuhī/Euphorbia (species disputed), pāṇḍu, dūṣīviṣa, madhumeha are all acceptable and their tags are honest or cautious. Hindi names (अमलतास, आँवला, निसोथ, कुलथी, लोध, मेढ़ासिंगी, हरड़, पीपर, चीता, थूहर, बेर, चीनी) are correct; no Latin or brackets in any Hindi. No effect, dose or identification is smuggled into a translation as text content; identifications are in 'X (Y)' / 'X यानी Y' form beside the kept Sanskrit term. Damaged units 79, 99, 100, 105 untouched; 76 and 107 enriched only on the clear words (caturaṃgula; gulma, madhumeha) - acceptable. Unit 90 Hindi unchanged (self-replacement harmless). Issues are all minor: stale 'not identified' notes now contradicting appended identifications (85, 98, 104), inconsistent coverage (caturaṃgula in 83/86, English of 104 and 108), one misleading phrase (90 'wild croton relative'), one overconfident translation line (98 Gymnema without 'probably'), tilvaka/rodhra caution (92), udara vs glossary (107, owner decision), spelling हल्के. No regrouping suggested."
+}

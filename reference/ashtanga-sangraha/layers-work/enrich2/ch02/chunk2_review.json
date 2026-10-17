@@ -1,0 +1,444 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूत्रकृच्छ्र यानी पेशाब में कष्ट या रुकावट",
+     "problem": "kṛcchra is difficulty/pain; 'रुकावट' (retention) is mūtrāghāta, not stated",
+     "fix": "पेशाब में कष्ट",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पेशाब में कष्ट या रुकावट",
+      "new": "पेशाब में कष्ट"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "durālabhā (probably Fagonia)",
+     "problem": "Tag inconsistent: translation says 'probably', notes say 'probable ... so disputed'; Fagonia vs Alhagi is genuinely disputed",
+     "fix": "durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "44",
+       "op": "replace",
+       "field": "english",
+       "old": "durālabhā (probably Fagonia)",
+       "new": "durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed)"
+      },
+      {
+       "n": "44",
+       "op": "replace",
+       "field": "notes",
+       "old": "durālabhā = Fagonia cretica (probable; Alhagi species also given, so disputed)",
+       "new": "durālabhā = Fagonia cretica (disputed; the usual rendering, Alhagi species also given)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pāṭhā (velvet-leaf), sarala (chir pine)",
+     "problem": "Gloss tags both 'probable' but the translation and Hindi state them flat; pāṭhā in particular is applied to several plants. Notes carry no tags",
+     "fix": "add 'probably'; add note",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "46",
+       "op": "replace",
+       "field": "english",
+       "old": "pāṭhā (velvet-leaf)",
+       "new": "pāṭhā (probably velvet-leaf)"
+      },
+      {
+       "n": "46",
+       "op": "replace",
+       "field": "english",
+       "old": "sarala (chir pine)",
+       "new": "sarala (probably chir pine)"
+      },
+      {
+       "n": "46",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पाठा यानी पाढ़",
+       "new": "पाठा यानी प्रायः पाढ़"
+      },
+      {
+       "n": "46",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सरल यानी चीड़",
+       "new": "सरल यानी प्रायः चीड़"
+      },
+      {
+       "n": "46",
+       "op": "append_note",
+       "text": "Identifications: trivṛt = turpeth (standard); citraka = Plumbago zeylanica (standard); pāṭhā = Cissampelos pareira (probable; other plants are also called pāṭhā); ajājī = Cuminum cyminum, usually white cumin (probable); sarala = Pinus roxburghii (probable); vacā = Acorus calamus (standard)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit notes",
+     "problem": "Identification tags are only in the gloss; add them to notes",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "append_note",
+      "text": "svarṇakṣīrī = Argemone mexicana by the usual later reading (disputed; Euphorbia thomsoniana also proposed); enriched with a hedge only."
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "svarṇakṣīrī",
+     "problem": "Same drug as 47 and glossed at word level, but translation and Hindi left bare: inconsistent",
+     "fix": "add the same hedged identification",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "50",
+       "op": "replace",
+       "field": "english",
+       "old": "powdered svarṇakṣīrī,",
+       "new": "powdered svarṇakṣīrī (usually taken as Mexican poppy; disputed),"
+      },
+      {
+       "n": "50",
+       "op": "replace",
+       "field": "hindi",
+       "old": "और स्वर्णक्षीरी को",
+       "new": "और स्वर्णक्षीरी यानी प्रायः सत्यानाशी को"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "durālabhā (probably Fagonia)",
+     "problem": "Tag should match unit 44 (disputed)",
+     "fix": "durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed)",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "english",
+      "old": "durālabhā (probably Fagonia)",
+      "new": "durālabhā (disputed; usually Fagonia cretica, Alhagi also proposed)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śreṣṭhā = unidentified (sometimes read as a name of a myrobalan; disputed)",
+     "problem": "Unverified claim about a myrobalan reading; policy: never invent, say unidentified",
+     "fix": "śreṣṭhā = unidentified (lit. 'best'; not identified here)",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "notes",
+      "old": "(sometimes read as a name of a myrobalan; disputed)",
+      "new": "(lit. 'best'; not identified here)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "nīlinī (indigo)",
+     "problem": "Gloss and notes say 'probable' but translation/Hindi flat",
+     "fix": "add 'probably'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "53",
+       "op": "replace",
+       "field": "english",
+       "old": "nīlinī (indigo)",
+       "new": "nīlinī (probably indigo)"
+      },
+      {
+       "n": "53",
+       "op": "replace",
+       "field": "hindi",
+       "old": "नीलिनी यानी नील",
+       "new": "नीलिनी यानी प्रायः नील"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sauvarcalā / amlavetasa",
+     "problem": "Low-confidence damaged unit: black salt is acceptable (sauvarcala is a salt) but the enrichment rests on a conjectural reading; record this and that amlavetasa is deliberately left unidentified",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "append_note",
+      "text": "sauvarcala = black salt (standard), enriched on the conjectural reading only; amlavetasa is disputed (Garcinia pedunculata and other sour plants are proposed) and left unidentified in the translation."
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dantī, sātalā",
+     "problem": "Glossed 'see unit 49' at word level but bare in translation/Hindi: inconsistent with 49",
+     "fix": "add hedged identifications",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "59",
+       "op": "replace",
+       "field": "english",
+       "old": "dantī, sātalā,",
+       "new": "dantī (probably wild croton), sātalā (identity disputed),"
+      },
+      {
+       "n": "59",
+       "op": "replace",
+       "field": "hindi",
+       "old": "दन्ती, सातला,",
+       "new": "दन्ती यानी प्रायः जंगली जमालगोटा, सातला,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कषाय",
+     "problem": "Bare कषाय for the preparation sense is forbidden by the glossary",
+     "fix": "काढ़े",
+     "severity": "error",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "hindi",
+      "old": "के कषाय से",
+      "new": "के काढ़े से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कषाय",
+     "problem": "Bare कषाय for the preparation sense is forbidden by the glossary",
+     "fix": "काढ़ा",
+     "severity": "error",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह कषाय,",
+      "new": "वह काढ़ा,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वातासृक्",
+     "problem": "Left bare in Hindi although English and gloss give vātarakta (probable); add the same hedge",
+     "fix": "वातासृक् यानी प्रायः वातरक्त",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वातासृक्,",
+      "new": "वातासृक् यानी प्रायः वातरक्त,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Enrichment pass reviewed: no identification found wrong. Overconfident or inconsistent tags tightened (44, 46, 52 via 44, 53), bare कषाय fixed in 63 and 65 (69 already uses क्वाथ, no change), missed repeats of svarṇakṣīrī (50), dantī/sātalā (59), vātāsṛj Hindi (73) added, one unverified myrobalan claim for śreṣṭhā removed (53). Low-confidence units 45, 49, 56, 61, 68, 73 are lightly enriched; 61 and 68 untouched. No regrouping suggested."
+}

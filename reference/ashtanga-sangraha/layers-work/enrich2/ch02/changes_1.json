@@ -1,0 +1,120 @@
+[
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "tilvakaḥ",
+  "old": "tilvaka (disputed: usually Symplocos racemosa, lodhra)",
+  "new": "tilvaka (disputed: Symplocos racemosa, i.e. lodhra, or Wendlandia exserta)",
+  "why": "reviewer (minor): 'usually Symplocos racemosa' is overconfident: for the purgative tilvaka of the virechana lists commentators and dravyaguna works also give Wendlandia exserta; lodhra (Symplocos racemosa) is not a purgative."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "kṣīra rendered literally as 'milk' (it could also mean a milky sap); the text only says 'among milks'. Distribution: each locative names the class and the nominative names the foremost item. Identification confidence: trivṛt = Operculina turpethum (standard); snuhī = Euphorbia neriifolia (standard); harītakī = Terminalia chebula (standard); tilvaka is disputed (commonly equated with lodhra, Symplocos racemosa; other identifications are proposed), so no Hindi common name is given for it.",
+  "new": "kṣīra rendered literally as 'milk' (it could also mean a milky sap); the text only says 'among milks'. Distribution: each locative names the class and the nominative names the foremost item. Identification confidence: trivṛt = Operculina turpethum (standard); snuhī = Euphorbia neriifolia (standard); harītakī = Terminalia chebula (standard); tilvaka is disputed (Symplocos racemosa, the plant called lodhra, and Wendlandia exserta are both proposed), so no Hindi common name is given for it.",
+  "why": "reviewer (minor): 'commonly equated with lodhra' states a single identification as the usual one."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उन दोनों में लालिमायुक्त मूल कषाय और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
+  "new": "उन दोनों में लालिमायुक्त मूल कसैला और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
+  "why": "reviewer (error): Bare कषाय used for the taste (glossary: taste = कसैला; never bare कषाय)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "In (ailments) arising from Pitta, (one should drink it) with milk, honey, drākṣā (grape), ikṣu (sugarcane), the expressed juice of kāśmarya (gmelina), and ghee, with sweet decoctions, and with sugar.",
+  "new": "In (ailments) arising from Pitta, (one should drink it) with milk, honey, drākṣā (grape or raisin), ikṣu (sugarcane), the expressed juice of kāśmarya (gmelina), and ghee, with sweet decoctions, and with sugar.",
+  "why": "reviewer (minor): In purgative recipes drākṣā is normally the dried grape (raisin, मुनक्का); 'grape' alone is narrower than the gloss ('grape or raisin')."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "पित्त से उत्पन्न रोगों में, दूध, मधु, द्राक्षा यानी अंगूर, इक्षु यानी गन्ना, काश्मर्य यानी गम्भारी का स्वरस और घृत मिलाकर, मधुर क्वाथों के साथ तथा शर्करा सहित, उसे पिए।",
+  "new": "पित्त से उत्पन्न रोगों में, दूध, मधु, द्राक्षा यानी अंगूर या मुनक्का, इक्षु यानी गन्ना, काश्मर्य यानी गम्भारी का स्वरस और घृत मिलाकर, मधुर क्वाथों के साथ तथा शर्करा सहित, उसे पिए।",
+  "why": "reviewer (minor): In purgative recipes drākṣā is normally the dried grape (raisin, मुनक्का); 'grape' alone is narrower than the gloss ('grape or raisin')."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "ajagaṃdhā-tavakṣīrī-vidārī-śarkarā-trivṛt",
+  "old": "ajagandhā (disputed: Gynandropsis gynandra or other plants), tavakṣīrī (disputed, see unit 11), vidārī (Pueraria tuberosa, Indian kudzu tuber; probable), sugar, trivṛt",
+  "new": "ajagandhā (disputed: Gynandropsis gynandra or other plants), tavakṣīrī (disputed, see unit 11), vidārī (Pueraria tuberosa, Indian kudzu tuber; probable; Ipomoea digitata is also called vidārī), sugar, trivṛt",
+  "why": "reviewer (minor): vidārī is also the name of Ipomoea digitata (kṣīravidārī); 'kudzu' alone suggests Pueraria montana. 'probable' is right, but the alternative should be stated and the English should say Indian kudzu."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Ajagandhā, tavakṣīrī, vidārī (kudzu tuber), sugar (śarkarā) and trivṛt,",
+  "new": "Ajagandhā, tavakṣīrī, vidārī (Indian kudzu tuber), sugar (śarkarā) and trivṛt,",
+  "why": "reviewer (minor): vidārī is also the name of Ipomoea digitata (kṣīravidārī); 'kudzu' alone suggests Pueraria montana. 'probable' is right, but the alternative should be stated and the English should say Indian kudzu."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "should smear, inside, with trivṛt, a piece (joint) of ikṣu that has been split in two,",
+  "new": "should smear, inside, with trivṛt, a piece (joint) of ikṣu (sugarcane) that has been split in two,",
+  "why": "reviewer (minor): Missed obvious identification: ikṣu = sugarcane (standard), already given in units 9; useful here."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "दो भागों में किए हुए इक्षु-खण्ड के भीतर त्रिवृत् का लेप करे,",
+  "new": "दो भागों में किए हुए इक्षु-खण्ड यानी गन्ने के टुकड़े के भीतर त्रिवृत् का लेप करे,",
+  "why": "reviewer (minor): Missed obvious identification: ikṣu = sugarcane (standard), already given in units 9; useful here."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "भृंग यानी भांगरा और एला यानी इलायची के बराबर नीली यानी नील, उनके साथ त्रिवृत् और उनके साथ शर्करा।",
+  "new": "भृंग और एला यानी इलायची के बराबर नीली, उनके साथ त्रिवृत् और उनके साथ शर्करा।",
+  "why": "reviewer (minor): Low-confidence unit (measure relations unclear). Putting bhṛṅga = भांगरा and nīlī = नील flatly into the Hindi and 'Nīlī (indigo)' into the English is over-enrichment: bhṛṅga names several plants (bhṛṅgarāja, Eclipta prostrata, is only the usual one) and the nīlī/nīlinī of purgative lists is not certainly indigo. Keep elā = इलायची, which is standard."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Nīlī (indigo) equal to bhṛṅga and elā (cardamom); with those, trivṛt; and with those, sugar.",
+  "new": "Nīlī equal to bhṛṅga and elā (cardamom); with those, trivṛt; and with those, sugar.",
+  "why": "reviewer (minor): Low-confidence unit (measure relations unclear). Putting bhṛṅga = भांगरा and nīlī = नील flatly into the Hindi and 'Nīlī (indigo)' into the English is over-enrichment: bhṛṅga names several plants (bhṛṅgarāja, Eclipta prostrata, is only the usual one) and the nīlī/nīlinī of purgative lists is not certainly indigo. Keep elā = इलायची, which is standard."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "bhṛṃga-elābhyāṃ",
+  "old": "with bhṛṅga (bhṛṅgarāja, Eclipta prostrata; probable) and elā (small cardamom, Elettaria cardamomum; standard)",
+  "new": "with bhṛṅga (disputed: usually bhṛṅgarāja, Eclipta prostrata; not certain in this unit) and elā (small cardamom, Elettaria cardamomum; standard)",
+  "why": "reviewer (minor): Low-confidence unit (measure relations unclear). Putting bhṛṅga = भांगरा and nīlī = नील flatly into the Hindi and 'Nīlī (indigo)' into the English is over-enrichment: bhṛṅga names several plants (bhṛṅgarāja, Eclipta prostrata, is only the usual one) and the nīlī/nīlinī of purgative lists is not certainly indigo. Keep elā = इलायची, which is standard."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "nīlī",
+  "old": "nīlī (indigo plant, Indigofera tinctoria; standard)",
+  "new": "nīlī (probably indigo plant, Indigofera tinctoria; the plant meant is uncertain in this unit)",
+  "why": "reviewer (minor): Low-confidence unit (measure relations unclear). Putting bhṛṅga = भांगरा and nīlī = नील flatly into the Hindi and 'Nīlī (indigo)' into the English is over-enrichment: bhṛṅga names several plants (bhṛṅgarāja, Eclipta prostrata, is only the usual one) and the nīlī/nīlinī of purgative lists is not certainly indigo. Keep elā = इलायची, which is standard."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "halīmakam",
+  "old": "halīmaka (a severe stage of pāṇḍu, pale-yellow jaundiced condition; probable)",
+  "new": "halīmaka (a severe stage of pāṇḍu with a greenish-yellow hue; probable)",
+  "why": "reviewer (minor): 'pale-yellow jaundiced condition' is loose: halīmaka is described with a greenish-yellow hue as a late stage of pāṇḍu; kāmalā (jaundice) is a separate disease listed in unit 35. 'probable' is the right tag."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "dīpyakaṃ",
+  "old": "dīpyaka (disputed: ajwain, Trachyspermum ammi, or ajamodā)",
+  "new": "dīpyaka (disputed: yavānī, ajwain, Trachyspermum ammi, or ajamodā, Carum roxburghianum)",
+  "why": "reviewer (minor): 'ajwain ... or ajamodā' is muddled: ajwain is the Hindi name of yavānī, and ajamodā is the other proposed plant. Stating the two candidates cleanly keeps 'disputed' accurate."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "Hindi rendering of 'pāṇḍu' kept as the Sanskrit term. The reading grahaṇī-pāṇḍu-rogān is conjectural; as printed the words make no sense ('durogān' lit. 'bad ailments' could be read, 'grahaṇīpāṃ' not). puṃsavana lit. 'bringing forth a male', kept. GROUPING: units 36 and 37 form one verse; 'saḥ' refers to the guḍa Kalyāṇaka named in unit 37. For the surest words only: grahaṇī is a disorder of digestion with disturbed stools (chronic diarrhoea or malabsorption type) and pāṇḍu is the pale condition (anaemia or jaundice type), both standard equivalents; the rest of the reading stays conjectural and is not enriched.",
+  "new": "Hindi rendering of 'pāṇḍu' kept as the Sanskrit term. The reading grahaṇī-pāṇḍu-rogān is conjectural; as printed the words make no sense ('durogān' lit. 'bad ailments' could be read, 'grahaṇīpāṃ' not). puṃsavana lit. 'bringing forth a male', kept. GROUPING: units 36 and 37 form one verse; 'saḥ' refers to the guḍa Kalyāṇaka named in unit 37. For the surest words only: grahaṇī is a disorder of digestion with disturbed stools (chronic diarrhoea or malabsorption type) and pāṇḍu is the pale condition (anaemia type), both standard equivalents; the rest of the reading stays conjectural and is not enriched.",
+  "why": "reviewer (minor): pāṇḍu is the anaemia-type pale condition; jaundice is kāmalā (unit 35), a separate disease. 'anaemia or jaundice type' blurs them."
+ }
+]

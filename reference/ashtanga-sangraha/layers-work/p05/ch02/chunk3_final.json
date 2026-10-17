@@ -129,7 +129,7 @@
        },
        {
         "w": "caturaṃgulaḥ",
-        "gloss": "four-finger (drug name)",
+        "gloss": "caturaṃgula (four-finger), Indian laburnum, Cassia fistula (standard)",
         "gram": "m. nom. sg."
        }
       ]
@@ -137,8 +137,8 @@
     ]
    }
   ],
-  "hindi": "चतुरंगुल का प्रयोग करना चाहिए, विशेषकर इसलिए कि पीने में वह मृदु है।",
-  "english": "Caturaṃgula (lit. 'four-finger') is to be used, especially because it is mild when drunk.",
+  "hindi": "चतुरंगुल यानी अमलतास का प्रयोग करना चाहिए, विशेषकर इसलिए कि पीने में वह मृदु है।",
+  "english": "Caturaṃgula (lit. 'four-finger'; Indian laburnum) is to be used, especially because it is mild when drunk.",
   "text_flags": [
    {
     "src": "mṛdanpāyitvāddhiśeṣāccaturaṃgulaḥ",
@@ -146,7 +146,7 @@
     "why": "possible: the token has 15 syllables where 16 are needed (a 'vi' seems lost before śeṣāt); 'mṛdan' is doubtful (possibly mṛdu); 'pāyitvāt' itself is unusual"
    }
   ],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 77. Reading of the second word is doubtful (see text_flags); the reason clause is reconstructed. Caturaṃgula is kept as a name. Syntax: 'yojyaḥ' ('is to be used') completes the locatives of unit 75 ('in a child, an old person ...').",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 77. Reading of the second word is doubtful (see text_flags); the reason clause is reconstructed. Caturaṃgula is kept as a name. Syntax: 'yojyaḥ' ('is to be used') completes the locatives of unit 75 ('in a child, an old person ...'). Identification: caturaṃgula = āragvadha, Cassia fistula (Indian laburnum, amaltas); tag: standard. Unit left otherwise as reviewed (low confidence).",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -471,7 +471,7 @@
       "words": [
        {
         "w": "drākṣā-rasena",
-        "gloss": "with drākṣā juice",
+        "gloss": "with drākṣā juice (grape, Vitis vinifera; standard)",
         "gram": "m. inst. sg., tat-puruṣa"
        }
       ]
@@ -504,10 +504,10 @@
     ]
    }
   ],
-  "hindi": "द्राक्षा के रस के साथ उसे दाह और उदावर्त से पीड़ित को देना चाहिए।",
-  "english": "One should give it, with drākṣā juice, to one afflicted by burning and udāvarta (lit. 'upward turning').",
+  "hindi": "द्राक्षा यानी अंगूर के रस के साथ उसे दाह यानी जलन और उदावर्त से पीड़ित को देना चाहिए।",
+  "english": "One should give it, with drākṣā (grape) juice, to one afflicted by burning and udāvarta (lit. 'upward turning').",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 80. Printed spelling 'udāvartta' (double t) is a variant spelling of udāvarta. 'rasa' taken as 'juice'. Drug name drākṣā kept.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 80. Printed spelling 'udāvartta' (double t) is a variant spelling of udāvarta. 'rasa' taken as 'juice'. Drug name drākṣā kept. drākṣā = grape, Vitis vinifera (standard); the text does not say fresh or dried fruit. Enrichment gap filled: dāha = burning sensation; udāvarta = disorder in which Vāta moves upward or is obstructed, with retention of stool, urine and flatus and abdominal distension (standard description).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -644,8 +644,8 @@
     ]
    }
   ],
-  "hindi": "अथवा चतुरंगुल की मज्जा; ठंडा काढ़ा पिलाना चाहिए।",
-  "english": "Or the kernel (majjā) of caturaṃgula; one should make (him) drink a cold decoction.",
+  "hindi": "अथवा चतुरंगुल यानी अमलतास की मज्जा; ठंडा काढ़ा पिलाना चाहिए।",
+  "english": "Or the kernel (majjā) of caturaṃgula (Indian laburnum); one should make (him) drink a cold decoction.",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 82. Construction is loose: 'majjaḥ' (nom.) stands without a verb next to 'kaṣāyaṃ pāyayet'; read as the kernel preparation (decoction) of caturaṃgula. 'pāyayet' = 'should make (him) drink' (OPEN glossary item, plainest literal wording).",
   "confidence": "medium",
@@ -671,7 +671,7 @@
       "words": [
        {
         "w": "dadhi-maṃḍa-surā-maṃḍa-dhātrī-phala-rasaiḥ",
-        "gloss": "curd maṇḍa, surā maṇḍa, dhātrī-fruit juices",
+        "gloss": "curd maṇḍa, surā maṇḍa, dhātrī-fruit juices (dhātrī = āmalakī, emblic myrobalan, Phyllanthus emblica; standard)",
         "gram": "m. inst. pl., dvandva"
        }
       ]
@@ -689,7 +689,7 @@
     ]
    }
   ],
-  "hindi": "दही के मण्ड, सुरा के मण्ड और धात्रीफल के रस के साथ, अलग-अलग।",
+  "hindi": "दही के मण्ड, सुरा के मण्ड और धात्रीफल यानी आँवले के रस के साथ, अलग-अलग।",
   "english": "Separately, with the maṇḍa (clear upper part) of curd, the maṇḍa of surā, and the juices of dhātrī fruit.",
   "text_flags": [
    {
@@ -698,7 +698,7 @@
     "why": "stray '~' in the printed token (from a chandrabindu in the scan); no letter is missing"
    }
   ],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 85. 'rasaiḥ' (juices) may attach only to dhātrī-phala or to all three items; rendered as three separate items.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 85. 'rasaiḥ' (juices) may attach only to dhātrī-phala or to all three items; rendered as three separate items. dhātrī = āmalakī, Phyllanthus emblica (emblic myrobalan, Hindi āṃvlā); tag: standard.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -722,7 +722,7 @@
       "words": [
        {
         "w": "sauvīrakeṇa",
-        "gloss": "with sauvīraka (preparation name)",
+        "gloss": "with sauvīraka (a sour fermented barley drink; probable)",
         "gram": "n. inst. sg."
        }
       ]
@@ -762,7 +762,7 @@
       "words": [
        {
         "w": "traivṛtena",
-        "gloss": "of trivṛt (drug name)",
+        "gloss": "of trivṛt (Operculina turpethum, turpeth; standard)",
         "gram": "m. inst. sg."
        }
       ]
@@ -780,10 +780,10 @@
     ]
    }
   ],
-  "hindi": "अथवा सौवीरक से मिलाकर, या त्रिवृत् के कल्क से मिलाकर।",
+  "hindi": "अथवा सौवीरक यानी खट्टे किण्वित यव-पेय से मिलाकर, या त्रिवृत् यानी निसोथ के कल्क से मिलाकर।",
   "english": "Or mixed with sauvīraka, or with a paste (kalka) of trivṛt.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 84. 'traivṛta' = 'relating to trivṛt' (a drug name, not identified); the case of 'yuktaṃ' is taken as agreeing with 'kaṣāyaṃ' of the previous unit.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 84. 'traivṛta' = 'relating to trivṛt' (a drug name; identified below); the case of 'yuktaṃ' is taken as agreeing with 'kaṣāyaṃ' of the previous unit. Identifications: sauvīraka = a sour fermented drink made from barley (probable; its exact preparation is not given here); trivṛt = Operculina turpethum (turpeth, Hindi nisoth), standard.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -845,8 +845,8 @@
     ]
    }
   ],
-  "hindi": "अथवा चतुरंगुल के साथ पकाए गए दूध से जो घी उत्पन्न हो।",
-  "english": "Or the ghee that would arise from milk cooked with caturaṃgula.",
+  "hindi": "अथवा चतुरंगुल यानी अमलतास के साथ पकाए गए दूध से जो घी उत्पन्न हो।",
+  "english": "Or the ghee that would arise from milk cooked with caturaṃgula (Indian laburnum).",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 87.",
   "confidence": "high",
@@ -882,7 +882,7 @@
       "words": [
        {
         "w": "dhātrīṇāṃ",
-        "gloss": "of the dhātrīs",
+        "gloss": "of the dhātrīs (āmalakī fruits; see unit 84)",
         "gram": "f. gen. pl."
        }
       ]
@@ -925,7 +925,7 @@
     ]
    }
   ],
-  "hindi": "उसे मज्जा के कल्क के साथ धात्रियों के रस में पकाकर पीना चाहिए।",
+  "hindi": "उसे मज्जा के कल्क के साथ धात्रियों यानी आँवलों के रस में पकाकर पीना चाहिए।",
   "english": "One should drink that (ghee), cooked with a paste of the kernel (majjā) in the juice of dhātrīs.",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 86. 'tat' is taken to refer to the ghee of the previous unit. 'majja' here is the kernel (majjā).",
@@ -977,7 +977,7 @@
       "words": [
        {
         "w": "kulatthānāṃ",
-        "gloss": "of kulatthas (grain name)",
+        "gloss": "of kulatthas (horse gram, Macrotyloma uniflorum; standard)",
         "gram": "m. gen. pl."
        }
       ]
@@ -987,7 +987,7 @@
       "words": [
        {
         "w": "yavasya",
-        "gloss": "of barley",
+        "gloss": "of barley (Hordeum vulgare; standard)",
         "gram": "m. gen. sg."
        }
       ]
@@ -1005,10 +1005,10 @@
     ]
    }
   ],
-  "hindi": "वही दशमूल का, कुलत्थों का और यव का।",
+  "hindi": "वही दशमूल का, कुलत्थों यानी कुलथी का और यव यानी जौ का।",
   "english": "The same, of the ten roots (daśamūla), of kulatthas, and of barley,",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 89. The genitives depend on 'kaṣāye' (in the decoction) in the next unit. Kulattha kept as a name; yava taken as barley.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 89. The genitives depend on 'kaṣāye' (in the decoction) in the next unit. Kulattha kept as a name; yava taken as barley. daśamūla, the \"ten roots\": standard members are bilva, agnimantha, śyonāka, pāṭalā, gambhārī (the \"greater five\"), and śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (the \"lesser five\"). The text here does not list them; this is the standard group.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1072,7 +1072,7 @@
       "words": [
        {
         "w": "śyāmā-ādibhiḥ",
-        "gloss": "with śyāmā (drug name) and others",
+        "gloss": "with śyāmā (disputed: commonly black trivṛt, Operculina turpethum) and others",
         "gram": "m. inst. pl., bahuvrīhi"
        }
       ]
@@ -1093,7 +1093,7 @@
   "hindi": "काढ़े में पकाया हुआ घी श्यामा आदि के कल्कों के साथ पीना चाहिए।",
   "english": "One should drink ghee cooked in the decoction, with pastes of śyāmā and the rest.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 88. Syntax: 'kaṣāye' is read with the genitives of unit 88 ('in the decoction of daśamūla, of kulattha and of yava'); 'tad eva' ('that same') is taken as the preceding procedure.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 88. Syntax: 'kaṣāye' is read with the genitives of unit 88 ('in the decoction of daśamūla, of kulattha and of yava'); 'tad eva' ('that same') is taken as the preceding procedure. śyāmā: tag disputed; most often taken as the black (śyāmā) variety of trivṛt, Operculina turpethum, but the word is used for several plants. \"And the rest\" (ādi) is not enumerated in this unit.",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -1117,7 +1117,7 @@
       "words": [
        {
         "w": "daṃtī-kaṣāye",
-        "gloss": "in the decoction of daṃtī",
+        "gloss": "in the decoction of daṃtī (Baliospermum montanum; probable)",
         "gram": "m. loc. sg., tat-puruṣa"
        }
       ]
@@ -1178,7 +1178,7 @@
   "hindi": "दंती के काढ़े में उसकी मज्जा और पुराना गुड़ डालना चाहिए।",
   "english": "Into the decoction of daṃtī one should put its kernel (majjā) and old guḍa (unrefined sugar).",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 91.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 91. daṃtī = Baliospermum montanum (the plant called wild croton); tag: probable (some authors take Croton polyandrum for dantī or dravantī).",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -1207,7 +1207,7 @@
        },
        {
         "w": "ariṣṭaṃ",
-        "gloss": "ariṣṭa (preparation name)",
+        "gloss": "ariṣṭa (a fermented medicated liquor)",
         "gram": "m. acc. sg."
        }
       ]
@@ -1308,7 +1308,7 @@
       "words": [
        {
         "w": "tilvaka-mūlasya",
-        "gloss": "of the root of tilvaka (drug name)",
+        "gloss": "of the root of tilvaka (disputed; often Symplocos racemosa, also Ventilago species)",
         "gram": "n. gen. sg., tat-puruṣa"
        }
       ]
@@ -1334,7 +1334,7 @@
   "hindi": "तिल्वक की जड़ की त्वचा को, भीतरी वल्कल को छोड़कर,",
   "english": "The skin (bark) of the root of tilvaka, having discarded the inner bark,",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 93.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 93. tilvaka: tag disputed. Texts and later writers variously give Symplocos racemosa (also called lodhra) or Ventilago species; no firm identification is claimed here. The root bark is meant (tvac, with the inner bark discarded). Note: unit 94 uses rodhra (lodhra) as a separate drug in the same recipe, so the text does not treat tilvaka as lodhra; the Ventilago option is a later opinion not checked here.",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -1454,7 +1454,7 @@
       "words": [
        {
         "w": "rodhrasya",
-        "gloss": "of rodhra (drug name)",
+        "gloss": "of rodhra (lodhra, Symplocos racemosa; standard)",
         "gram": "n. gen. sg."
        },
        {
@@ -1507,10 +1507,10 @@
     ]
    }
   ],
-  "hindi": "रोध्र के ही काढ़े से तीसरे भाग को उसी से भिगोना चाहिए।",
+  "hindi": "रोध्र यानी लोध के ही काढ़े से तीसरे भाग को उसी से भिगोना चाहिए।",
   "english": "With the decoction of rodhra alone, the third (part) one should saturate with it.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 95. 'bhāvayet' (lit. 'cause to become') rendered 'saturate' (soak, steep); 'tṛtīyam' is taken as 'third part' after 'two parts' in the previous unit.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 95. 'bhāvayet' (lit. 'cause to become') rendered 'saturate' (soak, steep); 'tṛtīyam' is taken as 'third part' after 'two parts' in the previous unit. rodhra = lodhra, Symplocos racemosa; tag: standard.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1592,7 +1592,7 @@
     ]
    }
   ],
-  "hindi": "दशमूल के काढ़े में उस भिगोए हुए भाग को फिर भिगोना चाहिए।",
+  "hindi": "दशमूल यानी दस जड़ों के काढ़े में उस भिगोए हुए भाग को फिर भिगोना चाहिए।",
   "english": "In the decoction of the ten roots (one should saturate) that part, already saturated, once more.",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 94. The verb is not stated; 'bhāvayet' is supplied from the previous unit.",
@@ -1704,7 +1704,7 @@
       "words": [
        {
         "w": "mastu",
-        "gloss": "mastu (liquid)",
+        "gloss": "mastu (whey, the watery part of curd)",
         "gram": "n. in cpd., dvandva"
        },
        {
@@ -1719,12 +1719,12 @@
        },
        {
         "w": "kola",
-        "gloss": "kola (fruit name)",
+        "gloss": "kola (jujube, Ziziphus jujuba; probable)",
         "gram": "m. in cpd."
        },
        {
         "w": "dhātrī-phala",
-        "gloss": "dhātrī fruit",
+        "gloss": "dhātrī fruit (āmalakī; see unit 84)",
         "gram": "n. in cpd."
        },
        {
@@ -1737,10 +1737,10 @@
     ]
    }
   ],
-  "hindi": "मस्तु, मूत्र, सुरामंड, कोल, धात्रीफल और जल के साथ।",
+  "hindi": "मस्तु यानी दही का पानी, मूत्र, सुरामंड, कोल यानी बेर, धात्रीफल यानी आँवला और जल के साथ।",
   "english": "With mastu, urine, surā-maṇḍa, kola, dhātrī fruit, and water.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 96. Parsing of the dvandva is ambiguous: 'aṃbubhiḥ' may qualify only kola and dhātrī-phala ('waters of kola and dhātrī fruit'). Rendered as a plain list.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 96. Parsing of the dvandva is ambiguous: 'aṃbubhiḥ' may qualify only kola and dhātrī-phala ('waters of kola and dhātrī fruit'). Rendered as a plain list. mastu = whey (water separated from curd); kola = jujube, Ziziphus jujuba, tag: probable. The animal source of mūtra (urine) is not stated in the text.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1764,22 +1764,22 @@
       "words": [
        {
         "w": "meṣa-śṛṃgī",
-        "gloss": "ram's-horn (drug name)",
+        "gloss": "meṣaśṛṃgī (ram's-horn), Gymnema sylvestre (probable)",
         "gram": "f. in cpd., dvandva"
        },
        {
         "w": "abhayā",
-        "gloss": "abhayā (drug name)",
+        "gloss": "abhayā (harītakī, chebulic myrobalan, Terminalia chebula; standard)",
         "gram": "f. in cpd."
        },
        {
         "w": "kṛṣṇā",
-        "gloss": "kṛṣṇā (drug name)",
+        "gloss": "kṛṣṇā (long pepper, Piper longum; standard)",
         "gram": "f. in cpd."
        },
        {
         "w": "citrakaiḥ",
-        "gloss": "with citraka (drug name)",
+        "gloss": "with citraka (leadwort, Plumbago zeylanica; standard)",
         "gram": "m. inst. pl."
        }
       ]
@@ -1807,8 +1807,8 @@
     ]
    }
   ],
-  "hindi": "मेषशृंगी, अभया, कृष्णा और चित्रक के साथ उबाले गए जल में,",
-  "english": "In water boiled with meṣaśṛṃgī, abhayā, kṛṣṇā and citraka,",
+  "hindi": "मेषशृंगी यानी मेढ़ासिंगी, अभया यानी हरड़, कृष्णा यानी पीपर और चित्रक यानी चीता के साथ उबाले गए जल में,",
+  "english": "In water boiled with meṣaśṛṃgī (probably Gymnema sylvestre), abhayā (chebulic myrobalan), kṛṣṇā (long pepper) and citraka (leadwort),",
   "text_flags": [
    {
     "src": "kathite",
@@ -1816,7 +1816,7 @@
     "why": "possible: 'kathita' (said) does not suit 'jale'; 'kvathita' (boiled) expected"
    }
   ],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 99. Drug names kept, none identified.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 99. Drug names kept. Identifications: meṣaśṛṃgī = Gymnema sylvestre, probable (Dolichandrone falcata is also proposed); abhayā = harītakī, Terminalia chebula, standard; kṛṣṇā = pippalī, Piper longum, standard in this context (the word has other senses); citraka = Plumbago zeylanica, standard.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2060,7 +2060,7 @@
     ]
    }
   ],
-  "hindi": "रोध्र के काढ़े से उत्पन्न, पक्ष भर रखी हुई सुरा पीनी चाहिए।",
+  "hindi": "रोध्र यानी लोध के काढ़े से उत्पन्न, पक्ष भर रखी हुई सुरा पीनी चाहिए।",
   "english": "One should drink surā produced with a decoction of rodhra and kept for a fortnight.",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 100.",
@@ -2127,7 +2127,7 @@
       "words": [
        {
         "w": "sa-śarkaraḥ",
-        "gloss": "with śarkarā",
+        "gloss": "with śarkarā (sugar)",
         "gram": "m. nom. sg., bahuvrīhi"
        }
       ]
@@ -2135,7 +2135,7 @@
     ]
    }
   ],
-  "hindi": "तिल्वक के काढ़े और कल्क से तथा शर्करा सहित,",
+  "hindi": "तिल्वक के काढ़े और कल्क से तथा शर्करा यानी चीनी सहित,",
   "english": "With the decoction and the paste of tilvaka, and with śarkarā (sugar),",
   "text_flags": [],
   "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 103. 'śarkarā' = sugar (alternatively grit/gravel); continues into the next unit (the leha).",
@@ -2230,10 +2230,10 @@
     ]
    }
   ],
-  "hindi": "घी सहित पकाया हुआ लेह; और वह उत्तम विरेचन है।",
+  "hindi": "घी सहित पकाया हुआ लेह; और वह उत्तम विरेचन यानी दस्त लाने वाला उपाय है।",
   "english": "A leha cooked with ghee; and that is an excellent purgation (virecana).",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 102. 'saḥ' (m.) with neuter 'śreṣṭhaṃ virecanaṃ': gender mismatch left as printed.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 102. 'saḥ' (m.) with neuter 'śreṣṭhaṃ virecanaṃ': gender mismatch left as printed. virecana = purgation (induced evacuation by the bowel). leha = an electuary, a thick medicated paste that is licked (standard).",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2257,7 +2257,7 @@
       "words": [
        {
         "w": "sudhā",
-        "gloss": "sudhā (drug name)",
+        "gloss": "sudhā (Euphorbia, spurge; disputed between Euphorbia neriifolia and E. nivulia)",
         "gram": "f. nom. sg."
        }
       ]
@@ -2310,10 +2310,10 @@
     ]
    }
   ],
-  "hindi": "सुधा दोषों के बड़े संचय को भी भेद देती है।",
-  "english": "Sudhā splits even a great accumulation of the doṣas.",
+  "hindi": "सुधा यानी थूहर दोषों के बड़े संचय को भी भेद देती है।",
+  "english": "Sudhā (spurge, Euphorbia; see note) splits even a great accumulation of the doṣas.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 105. 'sudhā' kept as a name (not identified).",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 105. 'sudhā' kept as a name. sudhā = snuhī, a spiny milky Euphorbia (Euphorbia neriifolia / E. nivulia; the species is disputed, the genus probable). Units 109 and 111 (thorns, milk) fit this plant but do not name it.",
   "confidence": "high",
   "type": "verse",
   "line_ids": [
@@ -2527,7 +2527,7 @@
    }
   ],
   "hindi": "गुल्म, उदर, (अस्पष्ट पाठ) और मधुमेह वालों में इसका प्रयोग करना चाहिए।",
-  "english": "It is to be employed in those with gulma ('cluster, lump'), udara ('belly'), 'gatvroga' (damaged), and madhumeha ('honey-urine').",
+  "english": "It is to be employed in those with gulma (abdominal lump), udara ('belly'), 'gatvroga' (damaged), and madhumeha ('honey-urine', the urinary disorder usually identified with diabetes mellitus).",
   "text_flags": [
    {
     "src": "gulmodaragatvrogamadhumehiṣu",
@@ -2535,7 +2535,7 @@
     "why": "damaged: 'gatvroga' is unintelligible; the line has 14 syllables where 16 are needed, so two syllables are lost"
    }
   ],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 106. The word 'gatvroga' is damaged and not translated; Hindi marks it as unclear. Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names, not as modern disease names. Syntax: 'kalpyā' ('is to be employed') is positive and turns from the negative statement of units 105-106. Unverified guess for the damaged word: a transposition of the printed letters would give 'tvag-roga' (skin ailment), but two syllables are still missing, so it is not used.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 106. The word 'gatvroga' is damaged and not translated; Hindi marks it as unclear. Hindi keeps the Sanskrit terms gulma, udara, madhumeha as names (the old restriction against modern disease names is lifted by the owner; see the next note). Syntax: 'kalpyā' ('is to be employed') is positive and turns from the negative statement of units 105-106. Unverified guess for the damaged word: a transposition of the printed letters would give 'tvag-roga' (skin ailment), but two syllables are still missing, so it is not used. Enrichment: gulma = abdominal lump (standard); udara = belly (the text names it as a condition: abdominal disease, standard); madhumeha = the urinary disorder of the prameha group, usually identified with diabetes mellitus (probable). Only these clear words were enriched; the damaged word gatvroga and its reading are untouched.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -2559,7 +2559,7 @@
       "words": [
        {
         "w": "pāṃḍau",
-        "gloss": "in pāṇḍu ('pale', the condition)",
+        "gloss": "in pāṇḍu ('pale', the condition; roughly anaemia with pallor, probable)",
         "gram": "m. loc. sg."
        }
       ]
@@ -2569,7 +2569,7 @@
       "words": [
        {
         "w": "dūṣī-viṣe",
-        "gloss": "in dūṣī-poison (dūṣīviṣa)",
+        "gloss": "in dūṣī-poison (dūṣīviṣa, residual or weakened poison lodged in the body)",
         "gram": "n. loc. sg., tat-puruṣa"
        }
       ]
@@ -2597,10 +2597,10 @@
     ]
    }
   ],
-  "hindi": "पाण्डु में, दूषीविष में, सूजन में, और दोषों से भ्रान्तचित्त में।",
-  "english": "In pāṇḍu ('pale', the condition), in dūṣīviṣa, in swelling, and in one whose mind is bewildered by the doṣas.",
+  "hindi": "पाण्डु यानी रक्ताल्पता जैसे फीकेपन के रोग में, दूषीविष यानी शरीर में टिके हल्के विष में, सूजन में, और दोषों से भ्रान्तचित्त में।",
+  "english": "In pāṇḍu ('pale', the condition, roughly anaemia), in dūṣīviṣa (residual poison lodged in the body), in swelling, and in one whose mind is bewildered by the doṣas.",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 109. Continues the list of conditions begun in unit 107; 'dūṣīviṣa' kept as a technical name.",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 109. Continues the list of conditions begun in unit 107; 'dūṣīviṣa' kept as a technical name. Identifications: pāṇḍu = the disease marked by pallor, roughly anaemia (probable; it may also include other pale-making conditions); dūṣīviṣa = residual or weakened poison that stays in the body and acts slowly (standard concept in Sanskrit medicine); śopha = swelling (oedema).",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2856,7 +2856,7 @@
   "hindi": "उसे शस्त्र से चीरकर फिर दूध निकालना चाहिए।",
   "english": "Having split it open with a blade, one should then draw out the milk (kṣīra).",
   "text_flags": [],
-  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 110. 'śastra' rendered 'blade' (instrument).",
+  "notes": "GROUPING: one half-verse line of the edition; it forms one verse with unit 110. 'śastra' rendered 'blade' (instrument). Interpretation (probable, not stated in the text): kṣīra, \"milk\", is here the milky sap (latex) of the plant, which fits sudhā (a milky Euphorbia) of unit 104; the translation keeps \"milk\".",
   "confidence": "high",
   "type": "verse",
   "line_ids": [

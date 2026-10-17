@@ -1,0 +1,1576 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pravāhikā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "pravāhikā (a flowing forth; dysentery, standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pravāhikā",
+      "field": "gloss",
+      "value": "pravāhikā (a flowing forth; dysentery, standard)",
+      "n": "39"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "then pravāhikā (dysentery; literally a 'flowing forth') arises in him.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "then pravāhikā (dysentery; literally a 'flowing forth') arises in him.",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "तब इसमें प्रवाहिका यानी पेचिश उत्पन्न होती है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "तब इसमें प्रवाहिका यानी पेचिश उत्पन्न होती है।",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Pravāhikā is kept as the text's name; no",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "Pravāhikā is kept as the text's name; its usual modern equivalent is dysentery (painful straining with passage of mucus and blood), tagged standard.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Pravāhikā is kept as the text's name; no modern term is given.",
+      "new": "Pravāhikā is kept as the text's name; its usual modern equivalent is dysentery (painful straining with passage of mucus and blood), tagged standard.",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छर्दि आदि",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "छर्दि यानी उल्टी आदि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छर्दि आदि",
+      "new": "छर्दि यानी उल्टी आदि",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "hṛdgraha (literally 'heart-seizing', graha = grasp) is the text's name for a dreadful heart affliction; no standard modern equivalent is established (unidentified), so none is imposed. Vāta and the others = the doṣas Vāta, Pitta, Kapha.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "hṛdgraha (literally 'heart-seizing', graha = grasp) is the text's name for a dreadful heart affliction; no standard modern equivalent is established (unidentified), so none is imposed. Vāta and the others = the doṣas Vāta, Pitta, Kapha.",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "moha-hikkā-kāsa-lālā-pārśva-śūla-yutaḥ",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "joined with bewilderment, hikkā (hiccup), kāsa (cough), saliva, side-pain (pārśva-śūla)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "moha-hikkā-kāsa-lālā-pārśva-śūla-yutaḥ",
+      "field": "gloss",
+      "value": "joined with bewilderment, hikkā (hiccup), kāsa (cough), saliva, side-pain (pārśva-śūla)",
+      "n": "43"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मोह, हिक्का, कास, लाला",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "मोह, हिक्का यानी हिचकी, कास यानी खाँसी, लाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मोह, हिक्का, कास, लाला",
+      "new": "मोह, हिक्का यानी हिचकी, कास यानी खाँसी, लाला",
+      "n": "43"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "hikkā = hiccup and kāsa = cough (standard); pārśva-śūla = pain in the side.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "hikkā = hiccup and kāsa = cough (standard); pārśva-śūla = pain in the side.",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "avapīḍa: in the classical texts avapīḍa is also a kind of nasal medication (nasya), the juice of pressed drugs squeezed into the nose; here, after anointing and sweating, a strong avapīḍa is probably that nasal form (probable, not stated in the line). hṛdayāpasaraṇa (heart-withdrawal) is the text's name for this condition; no modern equivalent is established (unidentified). dhānya-sveda = fomentation (sweating) with heated grains.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "avapīḍa: in the classical texts avapīḍa is also a kind of nasal medication (nasya), the juice of pressed drugs squeezed into the nose; here, after anointing and sweating, a strong avapīḍa is probably that nasal form (probable, not stated in the line). hṛdayāpasaraṇa (heart-withdrawal) is the text's name for this condition; no modern equivalent is established (unidentified). dhānya-sveda = fomentation (sweating) with heated grains.",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yaṣṭīmadhuka-miśreṇa",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "mixed with yaṣṭīmadhuka (liquorice root, Glycyrrhiza glabra; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yaṣṭīmadhuka-miśreṇa",
+      "field": "gloss",
+      "value": "mixed with yaṣṭīmadhuka (liquorice root, Glycyrrhiza glabra; standard)",
+      "n": "45"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "taṃdula-aṃbunā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with taṇḍula-water (rice-water)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "taṃdula-aṃbunā",
+      "field": "gloss",
+      "value": "with taṇḍula-water (rice-water)",
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "taṇḍula-water mixed with yaṣṭīmadhuka",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "taṇḍula-water (rice-water) mixed with yaṣṭīmadhuka (liquorice)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "taṇḍula-water mixed with yaṣṭīmadhuka",
+      "new": "taṇḍula-water (rice-water) mixed with yaṣṭīmadhuka (liquorice)",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "यष्टीमधुक यानी मुलेठी से मिले हुए तण्डुल यानी चावल के जल से वमन।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यष्टीमधुक यानी मुलेठी से मिले हुए तण्डुल यानी चावल के जल से वमन।",
+      "n": "45"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yaṣṭīmadhuka is a drug name, not identif",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "yaṣṭīmadhuka = liquorice, Glycyrrhiza glabra (standard); taṇḍula = husked rice grain (standard), and taṇḍula-water is usually understood as rice-washing water (probable).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "yaṣṭīmadhuka is a drug name, not identified; taṇḍula is kept (husked grain).",
+      "new": "yaṣṭīmadhuka = liquorice, Glycyrrhiza glabra (standard); taṇḍula = husked rice grain (standard), and taṇḍula-water is usually understood as rice-washing water (probable).",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "bastīn",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "bastis (medicated enemas)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bastīn",
+      "field": "gloss",
+      "value": "bastis (medicated enemas)",
+      "n": "47"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should give bastis",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "should give bastis (enemas)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should give bastis",
+      "new": "should give bastis (enemas)",
+      "n": "47"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बस्तियाँ दे",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "बस्तियाँ यानी एनिमा दे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बस्तियाँ दे",
+      "new": "बस्तियाँ यानी एनिमा दे",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yaṣṭīmadhu-vipakkena",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with that cooked with yaṣṭīmadhu (liquorice)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yaṣṭīmadhu-vipakkena",
+      "field": "gloss",
+      "value": "with that cooked with yaṣṭīmadhu (liquorice)",
+      "n": "50"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anuvāsayet",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "should give anuvāsana (unctuous enema)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anuvāsayet",
+      "field": "gloss",
+      "value": "should give anuvāsana (unctuous enema)",
+      "n": "50"
+     }
+    },
+    {
+     "field": "english",
+     "where": "anuvāsana with oil cooked with yaṣṭīmadh",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "anuvāsana (unctuous enema) with oil cooked with yaṣṭīmadhu (liquorice)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "anuvāsana with oil cooked with yaṣṭīmadhu",
+      "new": "anuvāsana (unctuous enema) with oil cooked with yaṣṭīmadhu (liquorice)",
+      "n": "50"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यष्टीमधु से पकाए हुए तेल से अनुवासन दे",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "यष्टीमधु यानी मुलेठी से पकाए हुए तेल से अनुवासन यानी स्नेहबस्ति दे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यष्टीमधु से पकाए हुए तेल से अनुवासन दे",
+      "new": "यष्टीमधु यानी मुलेठी से पकाए हुए तेल से अनुवासन यानी स्नेहबस्ति दे",
+      "n": "50"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yaṣṭīmadhu is a drug name, not identifie",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "yaṣṭīmadhu = liquorice (see unit 45, standard). Unqualified taila usually means sesame oil (probable; the line does not say). anuvāsana = an unctuous (oil or ghee) enema, standard.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "yaṣṭīmadhu is a drug name, not identified.",
+      "new": "yaṣṭīmadhu = liquorice (see unit 45, standard). Unqualified taila usually means sesame oil (probable; the line does not say). anuvāsana = an unctuous (oil or ghee) enema, standard.",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhātūn",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "dhātus (body tissues)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhātūn",
+      "field": "gloss",
+      "value": "dhātus (body tissues)",
+      "n": "52"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even liquefied the dhātus,",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "even liquefied the dhātus (body tissues),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "even liquefied the dhātus,",
+      "new": "even liquefied the dhātus (body tissues),",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "caṃdana",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "caṃdana (sandalwood, Santalum album; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "caṃdana",
+      "field": "gloss",
+      "value": "caṃdana (sandalwood, Santalum album; standard)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṃjana",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "aṃjana (disputed: a collyrium mineral such as stibnite/sauvīrāñjana, or a plant; unidentified here)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aṃjana",
+      "field": "gloss",
+      "value": "aṃjana (disputed: a collyrium mineral such as stibnite/sauvīrāñjana, or a plant; unidentified here)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "uśīra",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "uśīra (vetiver root, Chrysopogon zizanioides; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "uśīra",
+      "field": "gloss",
+      "value": "uśīra (vetiver root, Chrysopogon zizanioides; standard)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "elā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "elā (small cardamom, Elettaria cardamomum; probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "elā",
+      "field": "gloss",
+      "value": "elā (small cardamom, Elettaria cardamomum; probable)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "lāja",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "lāja (parched rice; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "lāja",
+      "field": "gloss",
+      "value": "lāja (parched rice; standard)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saktūn",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "saktu (meal of parched grain, as in sattu)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saktūn",
+      "field": "gloss",
+      "value": "saktu (meal of parched grain, as in sattu)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "english",
+     "where": "caṃdana, aṃjana, uśīra, goat's blood, co",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "caṃdana (sandalwood), aṃjana, uśīra (vetiver root), goat's blood, cold water, elā (cardamom), and saktu meal of lāja (parched rice)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "caṃdana, aṃjana, uśīra, goat's blood, cold water, elā, and meal of parched grain",
+      "new": "caṃdana (sandalwood), aṃjana, uśīra (vetiver root), goat's blood, cold water, elā (cardamom), and saktu meal of lāja (parched rice)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "चन्दन, अञ्जन, उशीर यानी खस, छाग यानी बकरे का रक्त, शीतल जल, एला यानी इलायची और लाज यानी खील के सक्तु यानी सत्तू पिलाए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "चन्दन, अञ्जन, उशीर यानी खस, छाग यानी बकरे का रक्त, शीतल जल, एला यानी इलायची और लाज यानी खील के सक्तु यानी सत्तू पिलाए।",
+      "n": "54"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug names not identified.",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "Identifications: caṃdana Santalum album (standard); uśīra Chrysopogon zizanioides = Vetiveria zizanioides (standard); elā Elettaria cardamomum (probable; a larger cardamom, Amomum subulatum, is the alternative); lāja parched rice (standard); aṃjana disputed (a collyrium mineral such as stibnite, or a plant) and left unidentified.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug names not identified.",
+      "new": "Identifications: caṃdana Santalum album (standard); uśīra Chrysopogon zizanioides = Vetiveria zizanioides (standard); elā Elettaria cardamomum (probable; a larger cardamom, Amomum subulatum, is the alternative); lāja parched rice (standard); aṃjana disputed (a collyrium mineral such as stibnite, or a plant) and left unidentified.",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "picchā-bastim",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "picchā-basti (slime-basti, a mucilaginous enema)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "picchā-bastim",
+      "field": "gloss",
+      "value": "picchā-basti (slime-basti, a mucilaginous enema)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(a basti of slime)",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "(a basti of slime, i.e. a mucilaginous enema)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(a basti of slime)",
+      "new": "(a basti of slime, i.e. a mucilaginous enema)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "और इसे पिच्छाबस्ति यानी चिपचिपा एनिमा दे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और इसे पिच्छाबस्ति यानी चिपचिपा एनिमा दे।",
+      "n": "55"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "anuvāsanam",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "anuvāsana (unctuous enema)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anuvāsanam",
+      "field": "gloss",
+      "value": "anuvāsana (unctuous enema)",
+      "n": "56"
+     }
+    },
+    {
+     "field": "english",
+     "where": "as anuvāsana.",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "as anuvāsana (unctuous enema).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "as anuvāsana.",
+      "new": "as anuvāsana (unctuous enema).",
+      "n": "56"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनुवासन के रूप में",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "अनुवासन यानी स्नेहबस्ति के रूप में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुवासन के रूप में",
+      "new": "अनुवासन यानी स्नेहबस्ति के रूप में",
+      "n": "56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rakta-pitta-vidhānam",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "procedure for raktapitta (a bleeding disorder)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakta-pitta-vidhānam",
+      "field": "gloss",
+      "value": "procedure for raktapitta (a bleeding disorder)",
+      "n": "57"
+     }
+    },
+    {
+     "field": "english",
+     "where": "for raktapitta.",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "for raktapitta (a bleeding disorder).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "for raktapitta.",
+      "new": "for raktapitta (a bleeding disorder).",
+      "n": "57"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रक्तपित्त की विधि",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "रक्तपित्त यानी रक्तस्राव के रोग की विधि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तपित्त की विधि",
+      "new": "रक्तपित्त यानी रक्तस्राव के रोग की विधि",
+      "n": "57"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "raktapitta = the classical bleeding disorder (haemorrhage from the body's openings, literally 'blood-Pitta'); standard.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "raktapitta = the classical bleeding disorder (haemorrhage from the body's openings, literally 'blood-Pitta'); standard.",
+      "n": "57"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sa-ghṛta-sitā-kṣaudram",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with ghṛta (ghee), sitā (white sugar) and kṣaudra (honey)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sa-ghṛta-sitā-kṣaudram",
+      "field": "gloss",
+      "value": "with ghṛta (ghee), sitā (white sugar) and kṣaudra (honey)",
+      "n": "58"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with ghṛta, sitā and kṣaudra,",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with ghṛta (ghee), sitā (white sugar) and kṣaudra (honey),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with ghṛta, sitā and kṣaudra,",
+      "new": "with ghṛta (ghee), sitā (white sugar) and kṣaudra (honey),",
+      "n": "58"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "घृत, सिता और क्षौद्र सहित",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "घृत, सिता यानी मिश्री और क्षौद्र यानी शहद सहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "घृत, सिता और क्षौद्र सहित",
+      "new": "घृत, सिता यानी मिश्री और क्षौद्र यानी शहद सहित",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣīri-vṛkṣa-śuṃga-siddhām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "cooked with shoots of the milky trees (kṣīrivṛkṣa, the fig-family milky-sap trees)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣīri-vṛkṣa-śuṃga-siddhām",
+      "field": "gloss",
+      "value": "cooked with shoots of the milky trees (kṣīrivṛkṣa, the fig-family milky-sap trees)",
+      "n": "59"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sa-mākṣikām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with mākṣika (probably honey)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sa-mākṣikām",
+      "field": "gloss",
+      "value": "with mākṣika (probably honey)",
+      "n": "59"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "क्षीरिवृक्षों के अंकुरों",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "क्षीरिवृक्षों यानी दूध वाले वृक्षों के अंकुरों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षीरिवृक्षों के अंकुरों",
+      "new": "क्षीरिवृक्षों यानी दूध वाले वृक्षों के अंकुरों",
+      "n": "59"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kṣīrivṛkṣa kept as a name (milk-bearing ",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "kṣīrivṛkṣa = the milky-sap trees, usually the four fig-family trees nyagrodha (Ficus benghalensis), udumbara (Ficus racemosa), aśvattha (Ficus religiosa) and plakṣa (Ficus lacor); probable, lists vary. mākṣika beside gruel is probably honey (probable; the same word is also a mineral name elsewhere); the translation keeps mākṣika.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "kṣīrivṛkṣa kept as a name (milk-bearing trees), not identified.",
+      "new": "kṣīrivṛkṣa = the milky-sap trees, usually the four fig-family trees nyagrodha (Ficus benghalensis), udumbara (Ficus racemosa), aśvattha (Ficus religiosa) and plakṣa (Ficus lacor); probable, lists vary. mākṣika beside gruel is probably honey (probable; the same word is also a mineral name elsewhere); the translation keeps mākṣika.",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhanikā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "dhanikā (unidentified)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhanikā",
+      "field": "gloss",
+      "value": "dhanikā (unidentified)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madhuka",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "madhuka (liquorice; probable, see unit 45)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madhuka",
+      "field": "gloss",
+      "value": "madhuka (liquorice; probable, see unit 45)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madhurasa",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "madhurasa (unidentified)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madhurasa",
+      "field": "gloss",
+      "value": "madhurasa (unidentified)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mustā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "mustā (nut-grass tuber, Cyperus rotundus; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mustā",
+      "field": "gloss",
+      "value": "mustā (nut-grass tuber, Cyperus rotundus; standard)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "english",
+     "where": "dhanikā, madhuka, madhurasa, mustā and a",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "dhanikā, madhuka (liquorice), madhurasa, mustā (nut-grass) and aṃjana",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "dhanikā, madhuka, madhurasa, mustā and aṃjana",
+      "new": "dhanikā, madhuka (liquorice), madhurasa, mustā (nut-grass) and aṃjana",
+      "n": "60"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "और डकार सहित छर्दि यानी उल्टी में धनिका, मधुक यानी मुलेठी, मधुरस, मुस्ता यानी नागरमोथा और अञ्जन शहद के साथ चाटे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और डकार सहित छर्दि यानी उल्टी में धनिका, मधुक यानी मुलेठी, मधुरस, मुस्ता यानी नागरमोथा और अञ्जन शहद के साथ चाटे।",
+      "n": "60"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Names not identified.",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "madhuka = liquorice (probable; spelled with short u, not the mahua tree madhūka); mustā = Cyperus rotundus (standard); dhanikā, madhurasa unidentified; aṃjana disputed (see unit 54).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Names not identified.",
+      "new": "madhuka = liquorice (probable; spelled with short u, not the mahua tree madhūka); mustā = Cyperus rotundus (standard); dhanikā, madhurasa unidentified; aṃjana disputed (see unit 54).",
+      "n": "60"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "alpa-taṃdulām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with few grains (taṇḍula, rice)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "alpa-taṃdulām",
+      "field": "gloss",
+      "value": "with few grains (taṇḍula, rice)",
+      "n": "61"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hanu-saṃhanane",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "in closing of the jaws (lockjaw-like, trismus; probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hanu-saṃhanane",
+      "field": "gloss",
+      "value": "in closing of the jaws (lockjaw-like, trismus; probable)",
+      "n": "61"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of few taṇḍula grains",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "of few taṇḍula (rice) grains",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of few taṇḍula grains",
+      "new": "of few taṇḍula (rice) grains",
+      "n": "61"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "थोड़े तण्डुल वाली",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "थोड़े तण्डुल यानी चावल वाली",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "थोड़े तण्डुल वाली",
+      "new": "थोड़े तण्डुल यानी चावल वाली",
+      "n": "61"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हृद्य अज के मांसरस",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "हृद्य अज यानी बकरे के मांसरस",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हृद्य अज के मांसरस",
+      "new": "हृद्य अज यानी बकरे के मांसरस",
+      "n": "62"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "kavala and gaṇḍūṣa are the two therapeutic mouth-holds (standard): gaṇḍūṣa is a mouth filled with liquid and held without moving, kavala a smaller quantity held and swished. aja = goat.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "kavala and gaṇḍūṣa are the two therapeutic mouth-holds (standard): gaṇḍūṣa is a mouth filled with liquid and held without moving, kavala a smaller quantity held and swished. aja = goat.",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tila-drākṣā-kalka-liptām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "smeared with a paste of tila (sesame, Sesamum indicum; standard) and drākṣā (grape or raisin, Vitis vinifera; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tila-drākṣā-kalka-liptām",
+      "field": "gloss",
+      "value": "smeared with a paste of tila (sesame, Sesamum indicum; standard) and drākṣā (grape or raisin, Vitis vinifera; standard)",
+      "n": "64"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyoṣa-lavaṇa-cūrṇa-praghṛṣṭām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "rubbed with powder of vyoṣa (the triad dry ginger, long pepper, black pepper; standard) and salt",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyoṣa-lavaṇa-cūrṇa-praghṛṣṭām",
+      "field": "gloss",
+      "value": "rubbed with powder of vyoṣa (the triad dry ginger, long pepper, black pepper; standard) and salt",
+      "n": "64"
+     }
+    },
+    {
+     "field": "english",
+     "where": "paste (kalka) of tila and drākṣā, or rub",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "paste (kalka) of tila (sesame) and drākṣā (grape or raisin), or rubbed with powder of vyoṣa (dry ginger, long pepper and black pepper) and salt",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "paste (kalka) of tila and drākṣā, or rubbed with powder of vyoṣa and salt",
+      "new": "paste (kalka) of tila (sesame) and drākṣā (grape or raisin), or rubbed with powder of vyoṣa (dry ginger, long pepper and black pepper) and salt",
+      "n": "64"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्राक्षा के कल्क",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "द्राक्षा यानी अंगूर के कल्क",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्राक्षा के कल्क",
+      "new": "द्राक्षा यानी अंगूर के कल्क",
+      "n": "64"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "व्योष और लवण",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "व्योष यानी सोंठ, पीपर और काली मिर्च, तथा लवण",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्योष और लवण",
+      "new": "व्योष यानी सोंठ, पीपर और काली मिर्च, तथा लवण",
+      "n": "64"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tila, drākṣā, vyoṣa are kept as names (v",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "tila = Sesamum indicum (standard); drākṣā = Vitis vinifera, grape/raisin (standard); vyoṣa is the group of three pungents śuṇṭhī (dry ginger, Zingiber officinale), pippalī (long pepper, Piper longum) and marica (black pepper, Piper nigrum), all standard.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "tila, drākṣā, vyoṣa are kept as names (vyoṣa is a group name), not identified.",
+      "new": "tila = Sesamum indicum (standard); drākṣā = Vitis vinifera, grape/raisin (standard); vyoṣa is the group of three pungents śuṇṭhī (dry ginger, Zingiber officinale), pippalī (long pepper, Piper longum) and marica (black pepper, Piper nigrum), all standard.",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "virecana-atiyoge",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "in excess application of virecana (purgation)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "virecana-atiyoge",
+      "field": "gloss",
+      "value": "in excess application of virecana (purgation)",
+      "n": "67"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "taṃdula-aṃbhasā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "with taṇḍula-water (rice-water)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "taṃdula-aṃbhasā",
+      "field": "gloss",
+      "value": "with taṇḍula-water (rice-water)",
+      "n": "67"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "In excess application of virecana (purgation), he should vomit with taṇḍula-water (rice-water), mixed.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "In excess application of virecana (purgation), he should vomit with taṇḍula-water (rice-water), mixed.",
+      "n": "67"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "विरेचन के अतियोग में मिले हुए तण्डुल यानी चावल के जल से वमन करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "विरेचन के अतियोग में मिले हुए तण्डुल यानी चावल के जल से वमन करे।",
+      "n": "67"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "priyaṃgu-ādikam",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "the priyaṅgu group (priyaṅgu itself disputed: usually Callicarpa macrophylla)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "priyaṃgu-ādikam",
+      "field": "gloss",
+      "value": "the priyaṅgu group (priyaṅgu itself disputed: usually Callicarpa macrophylla)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "lodhra",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "lodhra (Symplocos racemosa; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "lodhra",
+      "field": "gloss",
+      "value": "lodhra (Symplocos racemosa; standard)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dāḍima-tvacaḥ",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "skins of dāḍima (pomegranate rind, Punica granatum; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dāḍima-tvacaḥ",
+      "field": "gloss",
+      "value": "skins of dāḍima (pomegranate rind, Punica granatum; standard)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kamala",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "kamala (lotus, Nelumbo nucifera; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kamala",
+      "field": "gloss",
+      "value": "kamala (lotus, Nelumbo nucifera; standard)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "utpala",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "utpala (blue water lily, Nymphaea; probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "utpala",
+      "field": "gloss",
+      "value": "utpala (blue water lily, Nymphaea; probable)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "samaṃgā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "samaṃgā (disputed: Mimosa pudica or Rubia cordifolia in different commentaries)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "samaṃgā",
+      "field": "gloss",
+      "value": "samaṃgā (disputed: Mimosa pudica or Rubia cordifolia in different commentaries)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "padma-kesarāṇi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "padma filaments (padma-kesara, lotus stamens)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "padma-kesarāṇi",
+      "field": "gloss",
+      "value": "padma filaments (padma-kesara, lotus stamens)",
+      "n": "68"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the skins of dāḍima;",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "the skins of dāḍima (pomegranate);",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the skins of dāḍima;",
+      "new": "the skins of dāḍima (pomegranate);",
+      "n": "68"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kamala, utpala, samaṅgā and padma-kesara",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "kamala (lotus), utpala (blue water lily), samaṅgā and padma-kesara (lotus filaments).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "kamala, utpala, samaṅgā and padma-kesara.",
+      "new": "kamala (lotus), utpala (blue water lily), samaṅgā and padma-kesara (lotus filaments).",
+      "n": "68"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "और प्रियङ्गु आदि को तण्डुल के जल के साथ पीए; अथवा लोध्र यानी लोध, अञ्जन सहित, और दाडिम यानी अनार की त्वचाएँ; अथवा कमल, उत्पल यानी नीलकमल, समङ्गा और पद्मकेसर यानी कमल के केसर।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और प्रियङ्गु आदि को तण्डुल के जल के साथ पीए; अथवा लोध्र यानी लोध, अञ्जन सहित, और दाडिम यानी अनार की त्वचाएँ; अथवा कमल, उत्पल यानी नीलकमल, समङ्गा और पद्मकेसर यानी कमल के केसर।",
+      "n": "68"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Names are not identified; priyaṅgvādika ",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "Identifications: lodhra Symplocos racemosa (standard); dāḍima Punica granatum (standard); kamala/padma Nelumbo nucifera (standard); utpala Nymphaea, e.g. N. nouchali (probable); priyaṅgu usually Callicarpa macrophylla (disputed); samaṅgā disputed (Mimosa pudica or Rubia cordifolia); aṃjana disputed (see unit 54). priyaṅgvādika kept as 'the priyaṅgu group'; its members are not listed here.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Names are not identified; priyaṅgvādika kept as 'the priyaṅgu group'.",
+      "new": "Identifications: lodhra Symplocos racemosa (standard); dāḍima Punica granatum (standard); kamala/padma Nelumbo nucifera (standard); utpala Nymphaea, e.g. N. nouchali (probable); priyaṅgu usually Callicarpa macrophylla (disputed); samaṅgā disputed (Mimosa pudica or Rubia cordifolia); aṃjana disputed (see unit 54). priyaṅgvādika kept as 'the priyaṅgu group'; its members are not listed here.",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaudra",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "kṣaudra (honey)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaudra",
+      "field": "gloss",
+      "value": "kṣaudra (honey)",
+      "n": "69"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śarkarā",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "śarkarā (sugar)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śarkarā",
+      "field": "gloss",
+      "value": "śarkarā (sugar)",
+      "n": "69"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madhuka",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "madhuka (liquorice; probable, see unit 45)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madhuka",
+      "field": "gloss",
+      "value": "madhuka (liquorice; probable, see unit 45)",
+      "n": "69"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "uduṃbara-tvacaḥ",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "skins of uduṃbara (cluster fig bark/rind; see unit 59)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "uduṃbara-tvacaḥ",
+      "field": "gloss",
+      "value": "skins of uduṃbara (cluster fig bark/rind; see unit 59)",
+      "n": "69"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Or kṣaudra, śarkarā, madhuka and the ski",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "Or kṣaudra (honey), śarkarā (sugar), madhuka (liquorice) and the skins of uduṃbara (cluster fig).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Or kṣaudra, śarkarā, madhuka and the skins of uduṃbara.",
+      "new": "Or kṣaudra (honey), śarkarā (sugar), madhuka (liquorice) and the skins of uduṃbara (cluster fig).",
+      "n": "69"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "अथवा क्षौद्र यानी शहद, शर्करा यानी चीनी, मधुक यानी मुलेठी और उदुम्बर यानी गूलर की त्वचाएँ।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा क्षौद्र यानी शहद, शर्करा यानी चीनी, मधुक यानी मुलेठी और उदुम्बर यानी गूलर की त्वचाएँ।",
+      "n": "69"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rakta-atisāra-kriyām",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "the procedure for raktātisāra (bloody diarrhoea)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakta-atisāra-kriyām",
+      "field": "gloss",
+      "value": "the procedure for raktātisāra (bloody diarrhoea)",
+      "n": "70"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(blood-atisāra)",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "(blood-atisāra, bloody diarrhoea)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(blood-atisāra)",
+      "new": "(blood-atisāra, bloody diarrhoea)",
+      "n": "70"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रक्तातिसार की क्रिया",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "रक्तातिसार यानी खूनी दस्त की क्रिया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तातिसार की क्रिया",
+      "new": "रक्तातिसार यानी खूनी दस्त की क्रिया",
+      "n": "70"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "atisāra = diarrhoea (standard); raktātisāra = diarrhoea with blood.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "atisāra = diarrhoea (standard); raktātisāra = diarrhoea with blood.",
+      "n": "70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "guda niḥsṛta (protruded rectum) corresponds to rectal prolapse (gudabhraṃśa); standard.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "guda niḥsṛta (protruded rectum) corresponds to rectal prolapse (gudabhraṃśa); standard.",
+      "n": "71"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rakta-pittam",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "raktapitta (a bleeding disorder)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakta-pittam",
+      "field": "gloss",
+      "value": "raktapitta (a bleeding disorder)",
+      "n": "74"
+     }
+    },
+    {
+     "field": "english",
+     "where": "know raktapitta.",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "know raktapitta (the bleeding disorder).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "know raktapitta.",
+      "new": "know raktapitta (the bleeding disorder).",
+      "n": "74"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रक्तपित्त को जाने",
+     "problem": "enrichment: modern name/meaning",
+     "fix": "रक्तपित्त यानी रक्तस्राव के रोग को जाने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तपित्त को जाने",
+      "new": "रक्तपित्त यानी रक्तस्राव के रोग को जाने",
+      "n": "74"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment of units 38-74 (23 units changed): modern names added beside the Sanskrit terms, Hindi given as Sanskrit term plus yani plus ordinary Hindi name. Plant identifications: standard 12 (liquorice, sandalwood, vetiver, nut-grass, sesame, grape, dry ginger, long pepper, black pepper, lodhra, pomegranate, lotus), probable 4 (cardamom, madhuka as liquorice, blue water lily, kshirivriksha fig group), disputed 3 (anjana, priyangu, samanga), unidentified 3 (dhanika, madhurasa, plus hrdgraha/hrdayapasarana as conditions). Diseases named: pravahika (dysentery), raktapitta, raktatisara, hikka, kasa, rectal prolapse. Units 46, 49, 73 left alone (garbled or low confidence)."
+}

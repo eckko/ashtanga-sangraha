@@ -1,0 +1,113 @@
+{
+ "units": [
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उदर यानी पेट के रोग जलोदर समेत",
+     "problem": "'जलोदर समेत' (including ascites) is put into the Hindi translation as if the text said it; udara only means belly-ailment here (unit 49 Hindi correctly has no such clause). The gloss/notes already carry 'includes ascites' as interpretation.",
+     "fix": "उदर यानी पेट के रोग",
+     "severity": "error",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उदर यानी पेट के रोग जलोदर समेत",
+      "new": "उदर यानी पेट के रोग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jīmūta-mahājālinī-vatsaka-kṛtavedhanāni",
+     "problem": "Redundant/contradictory tags: 'probably ... ; probable' and 'unidentified, disputed'. mahājālinī should simply be unidentified.",
+     "fix": "jīmūta (probably jīmūtaka, bitter luffa), mahājālinī (unidentified), vatsaka (= kuṭaja, Holarrhena pubescens; probable) and kṛtavedhana (Luffa acutangula, ridged gourd; probable) (drug names)",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "jīmūta-mahājālinī-vatsaka-kṛtavedhanāni",
+      "field": "gloss",
+      "value": "jīmūta (probably jīmūtaka, bitter luffa), mahājālinī (unidentified), vatsaka (= kuṭaja, Holarrhena pubescens; probable) and kṛtavedhana (Luffa acutangula, ridged gourd; probable) (drug names)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mahājālinī: unidentified (disputed; a Luffa-like climber in some lists)",
+     "problem": "Unsourced vague claim ('Luffa-like climber in some lists') attached to an unidentified name; policy says say 'unidentified' when unknown.",
+     "fix": "mahājālinī: unidentified (no identification is relied on here).",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "notes",
+      "old": "mahājālinī: unidentified (disputed; a Luffa-like climber in some lists).",
+      "new": "mahājālinī: unidentified (no identification is relied on here)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhānya (coriander ... probable)",
+     "problem": "Overconfident: in a yūṣa (broth) context dhānya is more naturally 'grain/pulse' and the source note itself says it may be literal; coriander is only one reading. Should be tagged disputed, not probable.",
+     "fix": "with a broth of tumbaru (Zanthoxylum armatum, probable) and dhānya (literally 'grain'; some lists read dhānyaka, coriander; disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "word",
+      "match_w": "tumbaru-dhānya-yūṣeṇa",
+      "field": "gloss",
+      "value": "with a broth of tumbaru (Zanthoxylum armatum, probable) and dhānya (literally 'grain'; some lists read dhānyaka, coriander; disputed)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dhānya = dhānyaka, coriander, in many lists",
+     "problem": "Same overconfidence; 'in many lists' and heading 'probable' unsupported for dhānya.",
+     "fix": "dhānya: literally 'grain'; some lists read dhānyaka, coriander (disputed).",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "notes",
+      "old": "dhānya = dhānyaka, coriander, in many lists; the earlier sense note (literal 'grain' kept as a name) is not changed.",
+      "new": "dhānya: literally 'grain'; some lists read dhānyaka, coriander (disputed). The earlier sense note (kept as a name in the translation) is not changed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "arka (Calotropis, latex)",
+     "problem": "'latex' is interpretation placed in the translation; keep it in the gloss only (gloss already says 'milk' = latex).",
+     "fix": "arka (Calotropis)",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "english",
+      "old": "arka (Calotropis, latex)",
+      "new": "arka (Calotropis)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed all 35 enriched units (37-71); 22 changed in word glosses, rest unchanged. Identifications checked and judged correct with sensible tags: jīmūtaka = Luffa echinata (devadālī/bandāl), āragvadha, paṭolī, ikṣu, śatāvarī, bilva, ikṣvāku/tumbī = Lagenaria siceraria (bitter form for ikṣvāku, flagged as not stated in text), kuṭaja = Holarrhena pubescens (Hindi kuṛā; seeds indrayava), kṛtavedhana = Luffa acutangula (probable), jīvantī = Leptadenia reticulata, jīvaka/ṛṣabhaka = Malaxis (disputed), tumbaru = Zanthoxylum armatum (tejbal), kāsamarda = Senna occidentalis (disputed), dhāmārgava left as disputed Luffa, madanaphala, arka, madhūka, sarṣapa, trikaṭuka. The jīvanīya list in unit 61 is explicitly labelled as Caraka's and not as this book's (correct). The unit-59 'four' inference is explicitly marked as inference not stated in text (acceptable). Hindi fields contain no Latin letters or brackets. Low-confidence units 44, 51, 58 untouched; 54, 57, 59, 63, 67 only lightly enriched with the readings kept low (acceptable). Issues: 1 error (unit 48 Hindi smuggles 'जलोदर समेत'), 5 minor (unit 57 x2, unit 62 x2, unit 67 x1); 6 patches, all apply. No regrouping suggested. Not flagged but noted: vātaśoṇita = vātarakta 'gout-type' and śvayathu = swelling/oedema are acceptable; 'kuṣṭha ... including leprosy' and 'pīnasa -> जुकाम' in Hindi are mildly interpretive but standard and consistent across units."
+}

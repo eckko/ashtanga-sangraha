@@ -1,0 +1,379 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vamana, virecana",
+     "severity": "minor",
+     "problem": "Missed useful modern equivalents: vamana and virecana are the standard technical terms for therapeutic emesis and therapeutic purgation (the chapter's subject); the literal 'vomiting/purging' is kept in the translation, so add as a note.",
+     "fix": "note",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "vamana = therapeutic emesis, virecana = therapeutic purgation (standard technical terms); the translation keeps the literal 'vomiting' and 'purging'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "piṇḍa-prastarābhyām",
+     "severity": "error",
+     "problem": "piṇḍa as 'bolus fomentation ... standard' is overconfident: the bare word piṇḍa ('lump') is not a securely attested named sveda in the standard lists (prastara is). Tag piṇḍa 'probable'.",
+     "fix": "by lump (piṇḍa, probably bolus fomentation) and layer (prastara, fomentation on a heated spread bed); prastara standard, piṇḍa probable",
+     "patch": [
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "piṇḍa-prastarābhyām",
+       "field": "gloss",
+       "value": "by lump (piṇḍa, probably bolus fomentation) and layer (prastara, fomentation on a heated spread bed); prastara is a standard named kind of sweating (sveda), piṇḍa probable"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "english",
+       "old": "piṇḍa, bolus fomentation",
+       "new": "piṇḍa, probably bolus fomentation"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पिण्ड स्वेद यानी गरम पिण्ड से सेंक",
+       "new": "पिण्ड स्वेद यानी सम्भवतः गरम पिण्ड से सेंक"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "notes",
+       "old": "piṇḍa-sveda and prastara-sveda are standard named kinds of fomentation (standard); the line itself gives only the two words.",
+       "new": "prastara-sveda is a standard named kind of fomentation; piṇḍa is probably a bolus (lump) fomentation (probable, less securely attested); the line itself gives only the two words."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शूल यानी ऐंठन भरी तीव्र पीड़ा",
+     "severity": "minor",
+     "problem": "'ऐंठन भरी' (cramping) is added; the Sanskrit and the English gloss give piercing pain (śūla; colic as a modern equivalent).",
+     "fix": "शूल यानी तीव्र चुभने वाली पीड़ा",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शूल यानी ऐंठन भरी तीव्र पीड़ा",
+      "new": "शूल यानी तीव्र चुभने वाली पीड़ा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śvāsa (labored breathing, dyspnoea)",
+     "severity": "minor",
+     "problem": "Notes say the dyspnoea reading is only 'probable here' (śvāsa may be plain 'breath/breathing'), but translations state it unhedged.",
+     "fix": "'probably labored breathing, dyspnoea'",
+     "patch": [
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "english",
+       "old": "śvāsa (labored breathing, dyspnoea)",
+       "new": "śvāsa (probably labored breathing, dyspnoea)"
+      },
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "hindi",
+       "old": "श्वास यानी साँस फूलना",
+       "new": "श्वास यानी सम्भवतः साँस फूलना"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आनाह यानी पेट का फूलकर रुक जाना",
+     "severity": "minor",
+     "problem": "Awkward and imprecise Hindi for ānāha (distension of the belly with retention of stool and flatus).",
+     "fix": "आनाह यानी पेट का फूलना और मल-वायु का रुकना",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आनाह यानी पेट का फूलकर रुक जाना",
+      "new": "आनाह यानी पेट का फूलना और मल-वायु का रुकना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यानी वट, गूलर, पीपल, पाकड़ आदि",
+     "severity": "minor",
+     "problem": "Hindi names four specific trees as the meaning of kṣīrivṛkṣa without the hedge the notes give (lists differ; members only probable).",
+     "fix": "यानी सामान्यतः वट, गूलर, पीपल, पाकड़ आदि",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यानी वट, गूलर, पीपल, पाकड़ आदि",
+      "new": "यानी सामान्यतः वट, गूलर, पीपल, पाकड़ आदि"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "light, alkaline and sour",
+     "severity": "minor",
+     "problem": "GLOSSARY (still valid, a sense decision): kṣāra stays 'kṣāra', not 'alkaline'. Pre-existing, but this unit was enriched (dāḍima) and the rendering was not caught.",
+     "fix": "light, kṣāra and sour",
+     "patch": [
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "english",
+       "old": "light, alkaline and sour",
+       "new": "light, kṣāra and sour"
+      },
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "laghu-kṣāra-amlam",
+       "field": "gloss",
+       "value": "light, kṣāra and sour"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "piercing pain (śūla, colic); koṭha",
+     "severity": "minor",
+     "problem": "In this mixed symptom list (no abdominal setting stated) 'colic' is an over-specific reading of śūla; and koṭha is hedged 'probable' in gloss/notes but unhedged in the translations.",
+     "fix": "drop 'colic'; 'probably wheals'",
+     "patch": [
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "english",
+       "old": "piercing pain (śūla, colic)",
+       "new": "piercing pain (śūla)"
+      },
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "english",
+       "old": "koṭha (wheals, urticaria-like eruption)",
+       "new": "koṭha (probably wheals, urticaria-like eruption)"
+      },
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "hindi",
+       "old": "कोठ यानी चकत्ते",
+       "new": "कोठ यानी सम्भवतः चकत्ते"
+      },
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "hindi",
+       "old": "शूल यानी तीव्र पीड़ा",
+       "new": "शूल यानी तीव्र चुभने वाली पीड़ा"
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "viṣṭambha-gaurava-śoṣa-koṭha-kaṇḍū-pāṇḍutā-aṅga-sāda-śūlāni",
+       "field": "gloss",
+       "value": "binding (viṣṭambha; constipation with distension), heaviness, drying (śoṣa), koṭha (wheals, urticaria-like eruption; probable), itching, paleness (pāṇḍutā; pallor), sinking of the limbs, piercing pain (śūla)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Enrichment pass reviewed against the pre-enrichment file. All identifications checked and found correct as tagged: tiniśa (Ougeinia oojeinensis), dhava (Anogeissus latifolia), aśvakarṇa (probable sal, Shorea robusta), palāśa (Butea monosperma), valā (Sida cordifolia), dāḍima, tila, devadāru, pippalī, yaṣṭīmadhuka; madhuka (unit 25) correctly distinguished from madhūka (mahua) and tagged probable; dāru/phala in unit 16 properly hedged (probable devadāru; phala disputed, madanaphala one suggestion); kṣīrivṛkṣa group hedged ('lists vary') in English; āsthāpana = decoction (nirūha) enema, anuvāsana = oil/unctuous enema, basti, varti, parikartikā, udāvarta, ānāha, viṣṭambha, koṭha all acceptable. No effect, dose or identification is stated as Sanskrit content; all additions sit in parentheses or 'यानी' clauses. Hindi additions are Devanagari only, no brackets or Latin; ordinary names correct (मुलेठी, अनार, देवदार, ढाक, खरेटी, तिनस, धौ, पीपर). Low-confidence units 6, 8, 12, 20, 33 were untouched; unit 30 only gained 'pomegranate'. Counts: 1 error (unit 14: piṇḍa sveda tagged 'standard', overconfident), 7 minor (units 1, 15, 21, 22, 26, 30, 34). No regrouping suggested. Nothing identified as wrong outright; aśvakarṇa=sal is the least secure (correctly tagged probable)."
+}
