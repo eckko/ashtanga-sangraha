@@ -89,7 +89,7 @@
       "words": [
        {
         "w": "trivṛt",
-        "gloss": "trivṛt (drug name)",
+        "gloss": "trivṛt (turpeth, Operculina turpethum; standard)",
         "gram": "f. nom. sg."
        },
        {
@@ -104,7 +104,7 @@
       "words": [
        {
         "w": "tilvakaḥ",
-        "gloss": "tilvaka (drug name)",
+        "gloss": "tilvaka (disputed: Symplocos racemosa, i.e. lodhra, or Wendlandia exserta)",
         "gram": "m. nom. sg."
        }
       ]
@@ -124,7 +124,7 @@
       "words": [
        {
         "w": "snuhī",
-        "gloss": "snuhī (drug name)",
+        "gloss": "snuhī (Euphorbia neriifolia, a milky-sap spurge; standard)",
         "gram": "f. nom. sg."
        }
       ]
@@ -144,7 +144,7 @@
       "words": [
        {
         "w": "harītakī",
-        "gloss": "harītakī (drug name)",
+        "gloss": "harītakī (chebulic myrobalan, Terminalia chebula; standard)",
         "gram": "f. nom. sg."
        }
       ]
@@ -162,8 +162,8 @@
     ]
    }
   ],
-  "hindi": "विरेचन द्रव्यों में प्रधान ये हैं: मूलों में त्रिवृत्, त्वचाओं में तिल्वक, दूधों में स्नुही और फलों में हरीतकी।",
-  "english": "Among purgation substances the foremost are: among roots, trivṛt; among barks, tilvaka; among milks, snuhī; among fruits, harītakī.",
+  "hindi": "विरेचन द्रव्यों में प्रधान ये हैं: मूलों में त्रिवृत् यानी निसोथ, त्वचाओं में तिल्वक, दूधों में स्नुही यानी सेहुंड और फलों में हरीतकी यानी हरड़।",
+  "english": "Among purgation substances the foremost are: among roots, trivṛt (turpeth); among barks, tilvaka; among milks, snuhī (a spurge); among fruits, harītakī (chebulic myrobalan).",
   "text_flags": [
    {
     "src": "harīlakī",
@@ -171,7 +171,7 @@
     "why": "possible: la for ta (harītakī is the usual drug name)"
    }
   ],
-  "notes": "kṣīra rendered literally as 'milk' (it could also mean a milky sap); the text only says 'among milks'. Distribution: each locative names the class and the nominative names the foremost item.",
+  "notes": "kṣīra rendered literally as 'milk' (it could also mean a milky sap); the text only says 'among milks'. Distribution: each locative names the class and the nominative names the foremost item. Identification confidence: trivṛt = Operculina turpethum (standard); snuhī = Euphorbia neriifolia (standard); harītakī = Terminalia chebula (standard); tilvaka is disputed (Symplocos racemosa, the plant called lodhra, and Wendlandia exserta are both proposed), so no Hindi common name is given for it.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -195,7 +195,7 @@
       "words": [
        {
         "w": "trivṛtāyāḥ",
-        "gloss": "of trivṛtā (trivṛt, drug name)",
+        "gloss": "of trivṛtā (= trivṛt, turpeth; see unit 2)",
         "gram": "f. gen. sg."
        }
       ]
@@ -258,8 +258,8 @@
     ]
    }
   ],
-  "hindi": "त्रिवृत् का मूल निश्चय ही दो प्रकार का है: लालिमायुक्त और श्याम।",
-  "english": "Indeed, the root of trivṛt is of two kinds: reddish and dark.",
+  "hindi": "त्रिवृत् यानी निसोथ का मूल निश्चय ही दो प्रकार का है: लालिमायुक्त और श्याम।",
+  "english": "Indeed, the root of trivṛt (turpeth) is of two kinds: reddish and dark.",
   "text_flags": [],
   "notes": "aruṇa 'reddish' and śyāma 'dark' are colour words; the text names them as the two kinds.",
   "confidence": "high",
@@ -418,7 +418,7 @@
     ]
    }
   ],
-  "hindi": "उन दोनों में लालिमायुक्त मूल कषाय और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
+  "hindi": "उन दोनों में लालिमायुक्त मूल कसैला और मधुर है, विपाक में कटु है, रूक्ष है और कफ तथा पित्त को हरने वाला है; फिर विशेष विधि से तैयार करने पर सब व्याधियों को शान्त करने वाला है; सुखपूर्वक विरेचन कराने के कारण शिशु, वृद्ध, सुकुमार और मृदु कोष्ठ वालों में प्रशस्त है; और वह 'त्रिवृत्' शब्द से कहा जाता है।",
   "english": "Of these two, the reddish one is astringent and sweet, pungent in vipāka (the post-digestive stage), dry, and removes Kapha (śleṣman) and Pitta; moreover, through a particular preparation it pacifies all ailments; because it purges easily, it is recommended in the young, the aged, the delicate and those whose koṣṭha (abdomen, bowel) is soft; and it is what is denoted by the word trivṛt.",
   "text_flags": [],
   "notes": "kaṣāya here is the taste 'astringent' (not 'decoction'; cf. GLOSSARY OPEN item kaṣāya/kvātha/niryūha). śleṣman = Kapha (synonym). The long compound śiśu-sthavira-sukumāra-mṛdu-koṣṭheṣu may be read as persons (the young, the aged, the delicate) plus 'those of soft koṣṭha', or all four as qualifying koṣṭha; rendered as persons. 'kalpanā-viśeṣāt' = from a particular manner of preparation, not specified here. vipāka, koṣṭha kept with a gloss.",
@@ -766,7 +766,7 @@
       "words": [
        {
         "w": "śuṃṭhī-saiṃdhava-yuktaṃ",
-        "gloss": "combined with śuṇṭhī (drug name) and saindhava (salt)",
+        "gloss": "combined with śuṇṭhī (dried ginger, Zingiber officinale; standard) and saindhava (rock salt)",
         "gram": "n. nom. sg., tat-puruṣa"
        },
        {
@@ -804,8 +804,8 @@
     ]
    }
   ],
-  "hindi": "उस चूर्ण को शुण्ठी और सैन्धव से युक्त करके, अम्ल पदार्थों के साथ अथवा मांस-रस के साथ भी, वात के रोगों में पीना चाहिए।",
-  "english": "In ailments of Vāta one should drink that powder, combined with śuṇṭhī and saindhava, with sour things or also with meat juice.",
+  "hindi": "उस चूर्ण को शुण्ठी यानी सोंठ और सैन्धव यानी सेंधा नमक से युक्त करके, अम्ल पदार्थों के साथ अथवा मांस-रस के साथ भी, वात के रोगों में पीना चाहिए।",
+  "english": "In ailments of Vāta one should drink that powder, combined with śuṇṭhī (dried ginger) and saindhava (rock salt), with sour things or also with meat juice.",
   "text_flags": [],
   "notes": "amlaiḥ is left as 'sour things' (the text names no particular sour substances). Alternative: 'with sour (liquids)'.",
   "confidence": "high",
@@ -831,7 +831,7 @@
       "words": [
        {
         "w": "kṣīra-kṣaudra-drākṣā-ikṣu-kāśmarya-svarasa-sarpiḥ",
-        "gloss": "milk, honey, drākṣā, ikṣu, kāśmarya juice, ghee",
+        "gloss": "milk, honey, drākṣā (grape or raisin, Vitis vinifera; standard), ikṣu (sugarcane, Saccharum officinarum; standard), juice of kāśmarya (Gmelina arborea; standard), ghee",
         "gram": "n. nom./acc. sg., dvandva"
        }
       ]
@@ -869,8 +869,8 @@
     ]
    }
   ],
-  "hindi": "पित्त से उत्पन्न रोगों में, दूध, मधु, द्राक्षा, इक्षु, काश्मर्य का स्वरस और घृत मिलाकर, मधुर क्वाथों के साथ तथा शर्करा सहित, उसे पिए।",
-  "english": "In (ailments) arising from Pitta, (one should drink it) with milk, honey, drākṣā, ikṣu, the expressed juice of kāśmarya, and ghee, with sweet decoctions, and with sugar.",
+  "hindi": "पित्त से उत्पन्न रोगों में, दूध, मधु, द्राक्षा यानी अंगूर या मुनक्का, इक्षु यानी गन्ना, काश्मर्य यानी गम्भारी का स्वरस और घृत मिलाकर, मधुर क्वाथों के साथ तथा शर्करा सहित, उसे पिए।",
+  "english": "In (ailments) arising from Pitta, (one should drink it) with milk, honey, drākṣā (grape or raisin), ikṣu (sugarcane), the expressed juice of kāśmarya (gmelina), and ghee, with sweet decoctions, and with sugar.",
   "text_flags": [
    {
     "src": "svādukāthaiḥ",
@@ -902,12 +902,12 @@
       "words": [
        {
         "w": "mūtra-kṣaudra-kṣāra-ariṣṭa-pīlu-rasa-triphalā-paṃcakola-kvāthaiḥ",
-        "gloss": "with urine, honey, alkali, ariṣṭa, pīlu juice, and decoctions of triphalā and of pañcakola",
+        "gloss": "with urine, honey, kṣāra (alkali), ariṣṭa (fermented medicinal liquor), juice of pīlu (Salvadora persica; probable), and decoctions of triphalā (the three myrobalans) and of pañcakola (the five-kola group)",
         "gram": "m. inst. pl., dvandva"
        },
        {
         "w": "vyoṣa-cūrṇa-anuviddhaṃ",
-        "gloss": "mixed through with vyoṣa powder",
+        "gloss": "mixed through with powder of vyoṣa (the three pungents)",
         "gram": "n. acc. sg., tat-puruṣa"
        }
       ]
@@ -925,8 +925,8 @@
     ]
    }
   ],
-  "hindi": "कफ से उत्पन्न रोगों में, मूत्र, मधु, क्षार, अरिष्ट, पीलु का रस, तथा त्रिफला और पंचकोल के क्वाथों के साथ, व्योष के चूर्ण में मिलाकर, उसे पिए।",
-  "english": "In (ailments) born of Kapha, (one should drink it) with urine, honey, alkali (kṣāra), ariṣṭa, pīlu juice, and the decoctions of triphalā and of pañcakola, mixed through with vyoṣa powder.",
+  "hindi": "कफ से उत्पन्न रोगों में, मूत्र, मधु, क्षार यानी खार, अरिष्ट यानी किण्वित औषधीय पेय, पीलु का रस, तथा त्रिफला यानी हरड़, बहेड़ा और आँवला और पंचकोल यानी पीपर, पिपलामूल, चव्य, चित्रक और सोंठ के क्वाथों के साथ, व्योष यानी सोंठ, पीपर और काली मिर्च के चूर्ण में मिलाकर, उसे पिए।",
+  "english": "In (ailments) born of Kapha, (one should drink it) with urine, honey, alkali (kṣāra), ariṣṭa (fermented medicinal liquor), pīlu juice, and the decoctions of triphalā (the three myrobalans) and of pañcakola (the five-kola group), mixed through with vyoṣa (the three pungents) powder.",
   "text_flags": [
    {
     "src": "pañcakolakkathair",
@@ -939,7 +939,7 @@
     "why": "possible: yoṣa for vyoṣa (v dropped; 'yoṣa' = woman makes no sense here, and unit 11 has vyoṣa)"
    }
   ],
-  "notes": "'pibet' carried over from unit 8. Technical names kept: kṣāra (alkali), ariṣṭa, pīlu, triphalā (three fruits), pañcakola (five kola), vyoṣa (drug-group name). Which urine is not stated. The dvandva of 'kvāthaiḥ' may be read so that only the last two are decoctions; rendered as above. GROUPING: continues the sentence of units 8-9. The printed 'kkathair' may stand for kāthair (the spelling seen in unit 9, svādukāthaiḥ) or kvāthair; in either case the sense is 'decoctions'.",
+  "notes": "'pibet' carried over from unit 8. Technical names kept: kṣāra (alkali), ariṣṭa, pīlu, triphalā (three fruits), pañcakola (five kola), vyoṣa (drug-group name). Which urine is not stated. The dvandva of 'kvāthaiḥ' may be read so that only the last two are decoctions; rendered as above. GROUPING: continues the sentence of units 8-9. The printed 'kkathair' may stand for kāthair (the spelling seen in unit 9, svādukāthaiḥ) or kvāthair; in either case the sense is 'decoctions'. Group members and identifications (each given once for this chunk): triphalā = harītakī, bibhītaka (Terminalia bellirica) and āmalaka (Phyllanthus emblica) (standard). vyoṣa = śuṇṭhī, pippalī (Piper longum) and marica (Piper nigrum) (standard). pañcakola = pippalī, pippalīmūla (root of pippalī), cavya (Piper retrofractum, probable), citraka (Plumbago zeylanica, standard) and śuṇṭhī (standard). pīlu = Salvadora persica (probable; other trees have been proposed). ariṣṭa = a fermented medicinal liquor (standard class). kṣāra = an alkaline preparation, usually from plant ash (standard); which kṣāra is not stated.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1003,7 +1003,7 @@
       "words": [
        {
         "w": "ghṛta-śarkarā-akṣoḍa-tavakṣīrī-madhurāṇi",
-        "gloss": "sweet with ghee, sugar, akṣoḍa, tavakṣīrī",
+        "gloss": "sweet with ghee, sugar, akṣoḍa (walnut, Juglans regia; standard), tavakṣīrī (disputed: Curcuma angustifolia starch, or bamboo manna)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1013,7 +1013,7 @@
       "words": [
        {
         "w": "mātuluṃga-dāḍima-āmalaka-kola-karamardaka-kapittha-rasa-takra-amlāni",
-        "gloss": "sour with the juice of mātuluṅga, dāḍima, āmalaka, kola, karamardaka, kapittha, and buttermilk",
+        "gloss": "sour with the juice of mātuluṅga (citron, Citrus medica; standard), dāḍima (pomegranate, Punica granatum; standard), āmalaka (emblic myrobalan, see unit 10), kola (jujube, Ziziphus jujuba; probable), karamardaka (karaunda, Carissa carandas; standard), kapittha (wood-apple, Limonia acidissima; standard), and buttermilk (takra)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1023,7 +1023,7 @@
       "words": [
        {
         "w": "saiṃdhava-lavaṇāni",
-        "gloss": "salty with saindhava",
+        "gloss": "salty with saindhava (rock salt)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1033,7 +1033,7 @@
       "words": [
        {
         "w": "vyoṣa-tīkṣṇāni",
-        "gloss": "sharp with vyoṣa",
+        "gloss": "sharp with vyoṣa (śuṇṭhī, pippalī, marica)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1043,7 +1043,7 @@
       "words": [
        {
         "w": "vividha-vesavāra-pūritāni",
-        "gloss": "filled with various vesavāra",
+        "gloss": "filled with various vesavāra (a spiced preparation, traditionally of boned minced meat; probable)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1053,7 +1053,7 @@
       "words": [
        {
         "w": "sahakāra-rasa-trijātaka-nāgakeśara-karpūra-surabhīṇi",
-        "gloss": "fragrant with sahakāra juice, trijātaka, nāgakeśara, karpūra",
+        "gloss": "fragrant with sahakāra (mango, Mangifera indica; standard) juice, trijātaka (cinnamon bark, Cinnamomum verum; cardamom, Elettaria cardamomum; bay leaf, Cinnamomum tamala; standard), nāgakeśara (Mesua ferrea stamens; standard), karpūra (camphor, Cinnamomum camphora; standard)",
         "gram": "n. acc. pl., tat-puruṣa"
        }
       ]
@@ -1081,8 +1081,8 @@
     ]
    }
   ],
-  "hindi": "और इन्हीं द्रव्यों से, अपने-अपने अनुसार, लेह, गुटिका, मोदक, भक्ष्य और भोज्य पदार्थ तैयार करे: जो घृत, शर्करा, अक्षोड और तवक्षीरी से मधुर हों; मातुलुंग, दाडिम, आमलक, कोल, करमर्दक और कपित्थ के रस तथा तक्र से अम्ल हों; सैन्धव से लवणयुक्त हों; व्योष से तीक्ष्ण हों; नाना प्रकार के वेसवार से भरे हों; और सहकार के रस, त्रिजातक, नागकेशर तथा कर्पूर से सुगन्धित हों; इस प्रकार।",
-  "english": "And with these very substances, each according to its own, one should prepare lehas (licked preparations), pills, modakas, and bhakṣya and bhojya foods: sweet with ghee, sugar, akṣoḍa and tavakṣīrī; sour with the juice of mātuluṅga, dāḍima, āmalaka, kola, karamardaka and kapittha, and with buttermilk; salty with saindhava; sharp with vyoṣa; filled with various vesavāra; and fragrant with sahakāra juice, trijātaka, nāgakeśara and karpūra; thus.",
+  "hindi": "और इन्हीं द्रव्यों से, अपने-अपने अनुसार, लेह, गुटिका, मोदक, भक्ष्य और भोज्य पदार्थ तैयार करे: जो घृत, शर्करा, अक्षोड यानी अखरोट और तवक्षीरी से मधुर हों; मातुलुंग यानी बिजौरा नींबू, दाडिम यानी अनार, आमलक यानी आँवला, कोल यानी बेर, करमर्दक यानी करौंदा और कपित्थ यानी कैथ के रस तथा तक्र यानी छाछ से अम्ल हों; सैन्धव यानी सेंधा नमक से लवणयुक्त हों; व्योष यानी सोंठ, पीपर और काली मिर्च से तीक्ष्ण हों; नाना प्रकार के वेसवार से भरे हों; और सहकार यानी आम के रस, त्रिजातक यानी दालचीनी, इलायची और तेजपात, नागकेशर तथा कर्पूर यानी कपूर से सुगन्धित हों; इस प्रकार।",
+  "english": "And with these very substances, each according to its own, one should prepare lehas (licked preparations), pills, modakas, and bhakṣya and bhojya foods: sweet with ghee, sugar, akṣoḍa (walnut) and tavakṣīrī; sour with the juice of mātuluṅga (citron), dāḍima (pomegranate), āmalaka (emblic myrobalan), kola (jujube), karamardaka (karaunda) and kapittha (wood-apple), and with buttermilk; salty with saindhava (rock salt); sharp with vyoṣa (the three pungents); filled with various vesavāra (a spiced preparation); and fragrant with sahakāra (mango) juice, trijātaka (cinnamon bark, cardamom and bay leaf), nāgakeśara (Ceylon ironwood stamens) and karpūra (camphor); thus.",
   "text_flags": [
    {
     "src": "kolkaramardkakapittha",
@@ -1100,7 +1100,7 @@
     "why": "extra anusvāra after bhojyā (ā + ṃ + ny); read bhojyāni upakalpayet"
    }
   ],
-  "notes": "yathāsvam 'each according to its own' (its own property is not specified). kinds of taste named by the compounds: sweet, sour, salty, sharp (tīkṣṇa lit. 'sharp'); the text names no bitter or astringent group. vesavāra: preparation name kept. All drug names kept (no identification). 'iti' closes the instruction and is rendered 'thus'. The word split of the first compound is uncertain: ghṛta-śarkarā-akṣoḍa-tavakṣīrī-madhurāṇi could also be read as 'ghee, sugar, akṣoḍa, tavakṣīrī, and sweet things'; the parallel with the next compounds (X-amlāni, X-lavaṇāni, X-tīkṣṇāni) favours 'sweet with'. Foods bhakṣya (to be chewed) and bhojya (to be eaten) kept as the two classes.",
+  "notes": "yathāsvam 'each according to its own' (its own property is not specified). kinds of taste named by the compounds: sweet, sour, salty, sharp (tīkṣṇa lit. 'sharp'); the text names no bitter or astringent group. vesavāra: preparation name kept. All drug names kept in the translation; identifications are given beside them in the word glosses with confidence words (tavakṣīrī disputed; kola, vesavāra probable; the rest standard). 'iti' closes the instruction and is rendered 'thus'. The word split of the first compound is uncertain: ghṛta-śarkarā-akṣoḍa-tavakṣīrī-madhurāṇi could also be read as 'ghee, sugar, akṣoḍa, tavakṣīrī, and sweet things'; the parallel with the next compounds (X-amlāni, X-lavaṇāni, X-tīkṣṇāni) favours 'sweet with'. Foods bhakṣya (to be chewed) and bhojya (to be eaten) kept as the two classes.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -1239,7 +1239,7 @@
       "words": [
        {
         "w": "madhu-trijāta-saṃyuktaḥ",
-        "gloss": "combined with honey and trijāta",
+        "gloss": "combined with honey and trijāta (read as trijātaka: cinnamon bark, cardamom, bay leaf; probable)",
         "gram": "m. nom. sg., tat-puruṣa"
        }
       ]
@@ -1277,8 +1277,8 @@
     ]
    }
   ],
-  "hindi": "मधु और त्रिजात से मिला हुआ लेह हृदय को प्रिय विरेचन है।",
-  "english": "Combined with honey and trijāta, the leha (licked preparation) is a heart-pleasing purgative.",
+  "hindi": "मधु और त्रिजात यानी दालचीनी, इलायची और तेजपात से मिला हुआ लेह हृदय को प्रिय विरेचन है।",
+  "english": "Combined with honey and trijāta (the three aromatics: cinnamon bark, cardamom, bay leaf), the leha (licked preparation) is a heart-pleasing purgative.",
   "text_flags": [
    {
     "src": "madhuṭrījātasaṃyukto",
@@ -1310,7 +1310,7 @@
       "words": [
        {
         "w": "ajagaṃdhā-tavakṣīrī-vidārī-śarkarā-trivṛt",
-        "gloss": "ajagandhā, tavakṣīrī, vidārī, sugar, trivṛt",
+        "gloss": "ajagandhā (disputed: Gynandropsis gynandra or other plants), tavakṣīrī (disputed, see unit 11), vidārī (Pueraria tuberosa, Indian kudzu tuber; probable; Ipomoea digitata is also called vidārī), sugar, trivṛt",
         "gram": "f. nom. sg., dvandva"
        }
       ]
@@ -1318,8 +1318,8 @@
     ]
    }
   ],
-  "hindi": "अजगन्धा, तवक्षीरी, विदारी, शर्करा और त्रिवृत्,",
-  "english": "Ajagandhā, tavakṣīrī, vidārī, sugar (śarkarā) and trivṛt,",
+  "hindi": "अजगन्धा, तवक्षीरी, विदारी यानी विदारीकन्द, शर्करा और त्रिवृत्,",
+  "english": "Ajagandhā, tavakṣīrī, vidārī (Indian kudzu tuber), sugar (śarkarā) and trivṛt,",
   "text_flags": [],
   "notes": "Drug names kept. The list continues into unit 16. GROUPING: units 15 and 16 form one verse and one sentence (these, powdered and licked with honey and ghee, one is well purged).",
   "confidence": "medium",
@@ -1426,7 +1426,7 @@
       "words": [
        {
         "w": "sannipāta-jvara-staṃbha-pipāsā-dāha-pīḍitaḥ",
-        "gloss": "afflicted by sannipāta, fever, stiffness, thirst and burning",
+        "gloss": "afflicted by sannipāta (all three doṣas deranged together), fever (jvara), stiffness (stambha), thirst (pipāsā) and burning (dāha)",
         "gram": "m. nom. sg., tat-puruṣa"
        }
       ]
@@ -1434,8 +1434,8 @@
     ]
    }
   ],
-  "hindi": "सन्निपात, ज्वर, स्तम्भ, पिपासा और दाह से पीड़ित,",
-  "english": "One afflicted by sannipāta, fever, stiffness, thirst and burning,",
+  "hindi": "सन्निपात यानी तीनों दोषों का एक साथ कुपित होना, ज्वर यानी बुखार, स्तम्भ यानी जकड़न, पिपासा यानी प्यास और दाह यानी जलन से पीड़ित,",
+  "english": "One afflicted by sannipāta (derangement of all three doṣas together), fever (jvara), stiffness (stambha), thirst and burning (dāha),",
   "text_flags": [],
   "notes": "sannipāta-jvara may be one term ('sannipāta-fever') or two ('sannipāta' and 'fever'); rendered as two members, alternative noted. stambha lit. 'stiffness'. GROUPING: units 17 and 18 form one verse; unit 19 continues the same sentence.",
   "confidence": "medium",
@@ -1489,8 +1489,8 @@
     ]
    }
   ],
-  "hindi": "दो भागों में किए हुए इक्षु-खण्ड के भीतर त्रिवृत् का लेप करे,",
-  "english": "should smear, inside, with trivṛt, a piece (joint) of ikṣu that has been split in two,",
+  "hindi": "दो भागों में किए हुए इक्षु-खण्ड यानी गन्ने के टुकड़े के भीतर त्रिवृत् का लेप करे,",
+  "english": "should smear, inside, with trivṛt, a piece (joint) of ikṣu (sugarcane) that has been split in two,",
   "text_flags": [],
   "notes": "gaṇḍikā 'piece, joint-section' rendered 'piece'. Object (ikṣu-piece) and 'inside' together: the inside of the split piece is smeared with trivṛt. Gender: the printed ending -ṃ is read as n. acc. sg. (ikṣugaṇḍikā would be f.). ikṣu kept as a name.",
   "confidence": "medium",
@@ -1596,7 +1596,7 @@
       "words": [
        {
         "w": "bhṛṃga-elābhyāṃ",
-        "gloss": "with bhṛṅga and elā",
+        "gloss": "with bhṛṅga (disputed: usually bhṛṅgarāja, Eclipta prostrata; not certain in this unit) and elā (small cardamom, Elettaria cardamomum; standard)",
         "gram": "inst. du., dvandva"
        }
       ]
@@ -1616,7 +1616,7 @@
       "words": [
        {
         "w": "nīlī",
-        "gloss": "nīlī (drug name)",
+        "gloss": "nīlī (probably indigo plant, Indigofera tinctoria; the plant meant is uncertain in this unit)",
         "gram": "f. nom. sg."
        }
       ]
@@ -1659,8 +1659,8 @@
     ]
    }
   ],
-  "hindi": "भृंग और एला के बराबर नीली, उनके साथ त्रिवृत् और उनके साथ शर्करा।",
-  "english": "Nīlī equal to bhṛṅga and elā; with those, trivṛt; and with those, sugar.",
+  "hindi": "भृंग और एला यानी इलायची के बराबर नीली, उनके साथ त्रिवृत् और उनके साथ शर्करा।",
+  "english": "Nīlī equal to bhṛṅga and elā (cardamom); with those, trivṛt; and with those, sugar.",
   "text_flags": [],
   "notes": "The measure relations are not stated clearly: 'taiḥ' (instrumental 'with/by those') occurs twice; probably 'trivṛt equal to those and sugar equal to those', but kept literal. Drug names kept. GROUPING: units 20 and 21 appear to form one verse (unit 21 gives the powder and its drink).",
   "confidence": "low",
@@ -1696,7 +1696,7 @@
       "words": [
        {
         "w": "phala-rasa-kṣaudra-saktubhiḥ",
-        "gloss": "with fruit juice, honey and meal (saktu)",
+        "gloss": "with fruit juice, honey and saktu (flour of roasted grain, commonly barley)",
         "gram": "m. inst. pl., dvandva"
        },
        {
@@ -1719,8 +1719,8 @@
     ]
    }
   ],
-  "hindi": "चूर्ण को फल के रस, मधु और सक्तु के साथ तर्पण रूप में पिए।",
-  "english": "One should drink the powder as a tarpaṇa (satiating draught), with fruit juice, honey and saktu (ground meal).",
+  "hindi": "चूर्ण को फल के रस, मधु और सक्तु यानी सत्तू के साथ तर्पण रूप में पिए।",
+  "english": "One should drink the powder as a tarpaṇa (satiating draught), with fruit juice, honey and saktu (flour of roasted grain, commonly barley).",
   "text_flags": [],
   "notes": "tarpaṇa lit. 'satisfying'; kept with a gloss. saktu kept with a gloss; no identification of the grain. 'phala-rasa' = juice of fruit(s), kind unspecified.",
   "confidence": "medium",
@@ -1871,7 +1871,7 @@
       "words": [
        {
         "w": "viḍaṃga-taṃḍula-varā-yāvaśūka-kaṇāḥ",
-        "gloss": "viḍaṅga grains, varā, yāvaśūka, kaṇā",
+        "gloss": "viḍaṅga (false black pepper, Embelia ribes; standard) grains, varā, yāvaśūka, kaṇā (= pippalī, long pepper; standard)",
         "gram": "m./f. nom. pl., dvandva"
        },
        {
@@ -1884,10 +1884,10 @@
     ]
    }
   ],
-  "hindi": "विडंग के दाने, वरा, यावशूक, कणा और त्रिवृत्,",
-  "english": "Viḍaṅga grains, varā, yāvaśūka, kaṇā and trivṛt,",
+  "hindi": "विडंग यानी वायविडंग के दाने, वरा, यावशूक, कणा यानी पीपर और त्रिवृत्,",
+  "english": "Viḍaṅga (false black pepper) grains, varā, yāvaśūka, kaṇā (long pepper) and trivṛt,",
   "text_flags": [],
-  "notes": "Drug names kept. taṇḍula lit. 'grain'; could instead be a separate member ('viḍaṅga, taṇḍula'). varā lit. 'excellent' (used as a name); kaṇā lit. 'grain, particle' (used as a name). GROUPING: units 24 and 25 form one verse.",
+  "notes": "Drug names kept. taṇḍula lit. 'grain'; could instead be a separate member ('viḍaṅga, taṇḍula'). varā lit. 'excellent' (used as a name); kaṇā lit. 'grain, particle' (used as a name). GROUPING: units 24 and 25 form one verse. varā is disputed (often read as triphalā, but its sense is also 'excellent'); yāvaśūka is probably yavakṣāra (barley-ash alkali) per commentators (probable). Neither is translated further because this unit has low confidence.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
@@ -2002,7 +2002,7 @@
       "words": [
        {
         "w": "gulmaṃ",
-        "gloss": "gulma (a clump-like ailment)",
+        "gloss": "gulma (abdominal lump; standard)",
         "gram": "m. acc. sg."
        }
       ]
@@ -2012,7 +2012,7 @@
       "words": [
        {
         "w": "plīha-udaraṃ",
-        "gloss": "plīhodara (spleen-belly ailment)",
+        "gloss": "plīhodara (spleen enlargement with swollen belly; standard)",
         "gram": "n. acc. sg., tat-puruṣa"
        }
       ]
@@ -2032,7 +2032,7 @@
       "words": [
        {
         "w": "halīmakam",
-        "gloss": "halīmaka (ailment name)",
+        "gloss": "halīmaka (a severe stage of pāṇḍu with a greenish-yellow hue; probable)",
         "gram": "n. acc. sg."
        }
       ]
@@ -2042,7 +2042,7 @@
       "words": [
        {
         "w": "arocakaṃ",
-        "gloss": "arocaka (lack of relish)",
+        "gloss": "arocaka (lack of relish, loss of appetite; standard)",
         "gram": "n. acc. sg."
        }
       ]
@@ -2050,8 +2050,8 @@
     ]
    }
   ],
-  "hindi": "गुल्म, प्लीहोदर, कास, हलीमक, अरोचक,",
-  "english": "gulma, plīhodara, cough (kāsa), halīmaka, arocaka (lack of relish),",
+  "hindi": "गुल्म यानी पेट की गाँठ, प्लीहोदर यानी तिल्ली बढ़ने के साथ पेट फूलना, कास यानी खाँसी, हलीमक यानी पाण्डु रोग की उग्र अवस्था, अरोचक यानी भोजन में अरुचि,",
+  "english": "gulma (abdominal lump), plīhodara (spleen enlargement with swollen belly), cough (kāsa), halīmaka (a severe stage of the pale-yellow pāṇḍu condition), arocaka (lack of relish, loss of appetite),",
   "text_flags": [
    {
     "src": "halīmaka marocakaṃ",
@@ -2059,7 +2059,7 @@
     "why": "m moved to the next word (word-division error); the pair is halīmakam arocakam"
    }
   ],
-  "notes": "Ailment names kept as Sanskrit terms (no modern diagnosis). 'kāsa' glossed 'cough', arocaka lit. 'lack of relish'. GROUPING: units 26 and 27 form one verse; the subject (the preparation of units 24-25) is the one that 'wipes away' these in unit 27.",
+  "notes": "Ailment names kept as Sanskrit terms with modern equivalents beside them (gulma: abdominal lump, standard; plīhodara: spleen enlargement with swollen belly, standard; halīmaka: a severe stage of pāṇḍu, probable; arocaka: loss of appetite, standard). 'kāsa' glossed 'cough', arocaka lit. 'lack of relish'. GROUPING: units 26 and 27 form one verse; the subject (the preparation of units 24-25) is the one that 'wipes away' these in unit 27.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2164,7 +2164,7 @@
       "words": [
        {
         "w": "viḍaṃga-pippalī-mūla-triphalā-dhānya-citrakān",
-        "gloss": "viḍaṅga, root of pippalī, triphalā, dhānya, citraka",
+        "gloss": "viḍaṅga (see unit 24), root of pippalī (long pepper), triphalā (the three myrobalans, see unit 10), dhānya (coriander seed, dhānyaka; probable), citraka (leadwort, see unit 10)",
         "gram": "m. acc. pl., dvandva"
        }
       ]
@@ -2172,10 +2172,10 @@
     ]
    }
   ],
-  "hindi": "विडंग, पिप्पली का मूल, त्रिफला, धान्य और चित्रक,",
-  "english": "Viḍaṅga, the root of pippalī, triphalā, dhānya and citraka,",
+  "hindi": "विडंग यानी वायविडंग, पिप्पली यानी पीपर का मूल, त्रिफला यानी हरड़, बहेड़ा और आँवला, धान्य यानी धनिया और चित्रक यानी चीता,",
+  "english": "Viḍaṅga, the root of pippalī (long pepper), triphalā (the three myrobalans), dhānya (coriander) and citraka (leadwort),",
   "text_flags": [],
-  "notes": "Drug names kept; 'pippalī-mūla' may be taken as one drug name ('pippalīmūla') or 'root of pippalī'; rendered as the second. dhānya lit. 'grain'; kept as a name. GROUPING: units 28 and 29 form one verse (a list of drugs); the sentence continues in units 30-33.",
+  "notes": "Drug names kept; 'pippalī-mūla' may be taken as one drug name ('pippalīmūla') or 'root of pippalī'; rendered as the second. dhānya lit. 'grain'; kept as a name. GROUPING: units 28 and 29 form one verse (a list of drugs); the sentence continues in units 30-33. dhānya = coriander (dhānyaka, Coriandrum sativum) is the usual reading in drug lists (probable); the plain sense 'grain' remains possible.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2199,7 +2199,7 @@
       "words": [
        {
         "w": "marica-indrayava-ajājī-pippalī-hasti-pippalīḥ",
-        "gloss": "marica, indrayava, ajājī, pippalī, hastipippalī",
+        "gloss": "marica (black pepper), indrayava (seeds of kuṭaja, Holarrhena antidysenterica; standard), ajājī (cumin, Cuminum cyminum; standard), pippalī (long pepper), hastipippalī (elephant pepper, Scindapsus officinalis; probable)",
         "gram": "f. acc. pl., dvandva"
        }
       ]
@@ -2207,8 +2207,8 @@
     ]
    }
   ],
-  "hindi": "मरिच, इन्द्रयव, अजाजी, पिप्पली और हस्तिपिप्पली,",
-  "english": "Marica, indrayava, ajājī, pippalī and hastipippalī,",
+  "hindi": "मरिच यानी काली मिर्च, इन्द्रयव यानी इन्द्रजौ, अजाजी यानी जीरा, पिप्पली यानी पीपर और हस्तिपिप्पली यानी गजपीपल,",
+  "english": "Marica (black pepper), indrayava (kuṭaja seeds), ajājī (cumin), pippalī (long pepper) and hastipippalī (elephant pepper),",
   "text_flags": [],
   "notes": "Drug names kept (indrayava lit. 'Indra's barley', hastipippalī lit. 'elephant pippalī', used as names). The list continues into unit 30.",
   "confidence": "medium",
@@ -2234,7 +2234,7 @@
       "words": [
        {
         "w": "dīpyakaṃ",
-        "gloss": "dīpyaka (drug name)",
+        "gloss": "dīpyaka (disputed: yavānī, ajwain, Trachyspermum ammi, or ajamodā, Carum roxburghianum)",
         "gram": "n. acc. sg."
        }
       ]
@@ -2285,7 +2285,7 @@
   "hindi": "दीप्यक और पाँच लवण, चूर्ण किए हुए, प्रत्येक एक कर्ष, अलग-अलग,",
   "english": "Dīpyaka and the five salts, powdered, one karṣa (a measure) each, separately,",
   "text_flags": [],
-  "notes": "karṣa = a measure of weight, kept. The five salts are not named here. GROUPING: units 30 and 31 form one verse.",
+  "notes": "karṣa = a measure of weight, kept. The five salts are not named here. GROUPING: units 30 and 31 form one verse. paṃcalavaṇa (the five salts) is conventionally sauvarcala, saindhava, sāmudra, viḍa and audbhida, but the lists differ between texts (probable); the verse does not name them.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2309,7 +2309,7 @@
       "words": [
        {
         "w": "tila-taila-trivṛt-cūrṇa-bhāgau",
-        "gloss": "the portions of tila oil and of trivṛt powder",
+        "gloss": "the portions of tila (sesame) oil and of trivṛt powder",
         "gram": "m. nom. du., dvandva + tat-puruṣa"
        }
       ]
@@ -2333,9 +2333,9 @@
    }
   ],
   "hindi": "और तिल के तेल और त्रिवृत् के चूर्ण के दो भाग, आठ-आठ पल नापे हुए,",
-  "english": "and the two portions, of tila oil and of trivṛt powder, each measured as eight palas,",
+  "english": "and the two portions, of tila (sesame) oil and of trivṛt powder, each measured as eight palas,",
   "text_flags": [],
-  "notes": "pala = a measure of weight, kept. tila kept as a name. Dual 'bhāgau' = the two portions.",
+  "notes": "pala = a measure of weight, kept. tila = sesame (Sesamum indicum; standard). Dual 'bhāgau' = the two portions.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2359,7 +2359,7 @@
       "words": [
        {
         "w": "dhātrī-phala-rasa-prasthān",
-        "gloss": "prasthas of the juice of dhātrī fruit",
+        "gloss": "prasthas of the juice of dhātrī fruit (dhātrī = āmalaka, emblic myrobalan; standard)",
         "gram": "m. acc. pl., tat-puruṣa"
        },
        {
@@ -2382,8 +2382,8 @@
     ]
    }
   ],
-  "hindi": "धात्री के फल के रस के तीन प्रस्थ, आधा तुला गुड़ से युक्त,",
-  "english": "three prasthas of the juice of dhātrī fruit, joined with half a tulā of jaggery,",
+  "hindi": "धात्री यानी आँवले के फल के रस के तीन प्रस्थ, आधा तुला गुड़ से युक्त,",
+  "english": "three prasthas of the juice of dhātrī (emblic myrobalan) fruit, joined with half a tulā of jaggery,",
   "text_flags": [
    {
     "src": "guḍārddhatulāṃnvitāna",
@@ -2391,7 +2391,7 @@
     "why": "extra anusvāra after tulā, and final -āna for -ān"
    }
   ],
-  "notes": "prastha and tulā are measures, kept. dhātrī kept as a name (lit. 'nurse'). GROUPING: units 32 and 33 form one verse.",
+  "notes": "prastha and tulā are measures, kept. dhātrī (lit. 'nurse') is a standard synonym of āmalakī/āmalaka, the emblic myrobalan. In the standard measure system a tulā is 100 palas. GROUPING: units 32 and 33 form one verse.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2490,7 +2490,7 @@
       "words": [
        {
         "w": "maṃda-agnitvaṃ",
-        "gloss": "slowness of fire",
+        "gloss": "slowness of fire (weak digestion)",
         "gram": "n. acc. sg., tat-puruṣa"
        }
       ]
@@ -2520,7 +2520,7 @@
       "words": [
        {
         "w": "mūtra-kṛcchraṃ",
-        "gloss": "difficulty of urine (mūtrakṛcchra)",
+        "gloss": "difficulty of urine (mūtrakṛcchra; painful or obstructed urination, dysuria)",
         "gram": "n. acc. sg., tat-puruṣa"
        },
        {
@@ -2533,8 +2533,8 @@
     ]
    }
   ],
-  "hindi": "मन्द अग्नि होना, ज्वर, मूर्च्छा, मूत्रकृच्छ्र, अरोचक,",
-  "english": "slowness of fire, fever (jvara), fainting (mūrcchā), mūtrakṛcchra (difficulty of urine), lack of relish (arocaka),",
+  "hindi": "मन्द अग्नि होना यानी पाचन की कमजोरी, ज्वर यानी बुखार, मूर्च्छा यानी बेहोशी, मूत्रकृच्छ्र यानी पेशाब में कठिनाई, अरोचक यानी भोजन में अरुचि,",
+  "english": "slowness of fire (weak digestion), fever (jvara), fainting (mūrcchā), mūtrakṛcchra (difficulty of urine, dysuria), lack of relish (arocaka, loss of appetite),",
   "text_flags": [
    {
     "src": "mūrcchā",
@@ -2571,7 +2571,7 @@
       "words": [
        {
         "w": "kuṣṭha-arśas-kāmalā-meha-gulma-udara-bhagaṃdaraṃ",
-        "gloss": "kuṣṭha, arśas, kāmalā, meha, gulma, udara, bhagandara (ailment names)",
+        "gloss": "kuṣṭha (skin diseases, including leprosy), arśas (haemorrhoids, piles), kāmalā (jaundice), meha (urinary disorders of the prameha class, which includes diabetes), gulma (abdominal lump), udara (belly; here the belly-disease class), bhagandara (anal fistula)",
         "gram": "m./n. acc. sg., dvandva"
        }
       ]
@@ -2579,10 +2579,10 @@
     ]
    }
   ],
-  "hindi": "कुष्ठ, अर्श, कामला, मेह, गुल्म, उदर, भगंदर,",
-  "english": "kuṣṭha, arśas, kāmalā, meha, gulma, udara and bhagandara,",
+  "hindi": "कुष्ठ यानी त्वचा के रोग जिनमें कोढ़ भी है, अर्श यानी बवासीर, कामला यानी पीलिया, मेह यानी प्रमेह जिसमें मधुमेह भी आता है, गुल्म यानी पेट की गाँठ, उदर यानी पेट का रोग और भगंदर यानी गुदा के पास का नासूर,",
+  "english": "kuṣṭha (skin diseases, including leprosy), arśas (haemorrhoids), kāmalā (jaundice), meha (urinary disorders of the prameha class, including diabetes), gulma (abdominal lump), udara (belly, as a disease class) and bhagandara (anal fistula),",
   "text_flags": [],
-  "notes": "Ailment names kept in Sanskrit; no modern equivalents given. The visarga in 'arśaḥkāmalā' is regular sandhi (arśas + kāmalā; visarga stays before k); the stem is arśas. udara 'belly'; meha lit. 'urinating'.",
+  "notes": "Ailment names kept in Sanskrit with modern equivalents beside them, all standard: kuṣṭha is a class of skin diseases that includes leprosy; meha/prameha is the urinary class that includes diabetes mellitus; udara in a list of ailments is the belly disease class (abdominal enlargement); bhagandara is fistula-in-ano. The visarga in 'arśaḥkāmalā' is regular sandhi (arśas + kāmalā; visarga stays before k); the stem is arśas. udara 'belly'; meha lit. 'urinating'.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -2673,7 +2673,7 @@
     "why": "possible: pāṇḍu-rogān misread as pāṃ + du-rogān (ṇḍu broken across two words)"
    }
   ],
-  "notes": "Hindi rendering of 'pāṇḍu' kept as the Sanskrit term. The reading grahaṇī-pāṇḍu-rogān is conjectural; as printed the words make no sense ('durogān' lit. 'bad ailments' could be read, 'grahaṇīpāṃ' not). puṃsavana lit. 'bringing forth a male', kept. GROUPING: units 36 and 37 form one verse; 'saḥ' refers to the guḍa Kalyāṇaka named in unit 37.",
+  "notes": "Hindi rendering of 'pāṇḍu' kept as the Sanskrit term. The reading grahaṇī-pāṇḍu-rogān is conjectural; as printed the words make no sense ('durogān' lit. 'bad ailments' could be read, 'grahaṇīpāṃ' not). puṃsavana lit. 'bringing forth a male', kept. GROUPING: units 36 and 37 form one verse; 'saḥ' refers to the guḍa Kalyāṇaka named in unit 37. For the surest words only: grahaṇī is a disorder of digestion with disturbed stools (chronic diarrhoea or malabsorption type) and pāṇḍu is the pale condition (anaemia type), both standard equivalents; the rest of the reading stays conjectural and is not enriched.",
   "confidence": "low",
   "type": "verse",
   "line_ids": [
