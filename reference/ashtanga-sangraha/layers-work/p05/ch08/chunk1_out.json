@@ -952,11 +952,6 @@
         "w": "avagāḍha-mūlāni",
         "gloss": "deep; roots",
         "gram": "bahuvrīhi, n. nom. pl."
-       },
-       {
-        "w": "udīcyām",
-        "gloss": "in the northern",
-        "gram": "f. loc. sg."
        }
       ]
      },
@@ -964,9 +959,9 @@
       "src": "dīcyāṃ",
       "words": [
        {
-        "w": "(see previous token)",
-        "gloss": "the printed word is broken by a space: 'u dīcyām' for 'udīcyām'",
-        "gram": "—"
+        "w": "udīcyām",
+        "gloss": "in the northern (the first letter 'u' stands at the end of the previous token)",
+        "gram": "f. loc. sg."
        }
       ]
      },
@@ -1226,6 +1221,40 @@
   "confidence": "high"
  },
  {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyepunarāhuḥ",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "punar",
+        "gloss": "again, however",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे फिर कहते हैं।",
+  "english": "Others, again, say:",
+  "text_flags": [],
+  "notes": "Introduces the next view (unit 20). 'punar' is here 'again' as an introducing particle ('however'); the line leaves the content to the next unit.",
+  "confidence": "high"
+ },
+ {
   "n": "20",
   "lines": [
    {
@@ -1278,6 +1307,50 @@
   "text_flags": [],
   "notes": "Elliptical: 'grāhyāṇi' (to be taken) carried over. The text does not name which seasons are saumya or āgneya, so none is named here. 'oṣadha' (herb) is printed 'auṣadha'.",
   "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evamavyāpannānyāpūrṇatararasavīryāṇi",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "avyāpannāni",
+        "gloss": "unspoiled",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "āpūrṇatara-rasa-vīryāṇi",
+        "gloss": "fuller; taste (rasa); potency (vīrya)",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार वे अविकृत और अधिक पूर्ण रस और वीर्य वाले होते हैं।",
+  "english": "Thus (they) become unspoiled, with fuller taste (rasa) and potency (vīrya).",
+  "text_flags": [],
+  "notes": "'āpūrṇatara' is a comparative: 'fuller'. 'avyāpanna' = not spoiled, not damaged. Subject (the herbs) understood.",
+  "confidence": "high"
  },
  {
   "n": "22",
@@ -1621,6 +1694,50 @@
   ],
   "notes": "Damaged or garbled word; only the end 'natikrāṃtasaṃvatsarāṇi' is read ('whose year has not passed'). Unit 26 begins 'purāṇāni tu', 'but old (ones)', which suggests that 25 speaks of drugs not yet a year old; that is inferred, not stated.",
   "confidence": "low"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "purāṇāni",
+      "words": [
+       {
+        "w": "purāṇāni",
+        "gloss": "old",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pippalīviḍaṃgaguḍamadhughṛtāni",
+      "words": [
+       {
+        "w": "pippalī-viḍaṅga-guḍa-madhu-ghṛtāni",
+        "gloss": "pippalī (long pepper, Piper longum; standard); viḍaṅga (Embelia ribes, false black pepper; standard); jaggery (guḍa); honey (madhu); ghee (ghṛta)",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु पुराने: पिप्पली यानी पीपर, विडंग यानी वायविडंग, गुड़, शहद और घी।",
+  "english": "But old (ones): pippalī (long pepper), viḍaṅga (false black pepper; Embelia ribes), jaggery (guḍa), honey (madhu) and ghee (ghṛta).",
+  "text_flags": [],
+  "notes": "Identifications: pippalī = Piper longum (standard); viḍaṅga = Embelia ribes (standard; some also use Embelia tsjeriam-cottam). 'purāṇāni' is taken to qualify the listed items. Elliptical: no verb stated.",
+  "confidence": "medium"
  },
  {
   "n": "27",
@@ -2673,6 +2790,250 @@
   "confidence": "medium"
  },
  {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīrādisahitaṃ",
+      "words": [
+       {
+        "w": "kṣīra-ādi-sahitam",
+        "gloss": "milk; and so on; together with",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "substance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyaṅmukta",
+      "words": [
+       {
+        "w": "samyak-mukta-",
+        "gloss": "well, fully; released; (word continues in the next token)",
+        "gram": "compound (broken by a space in print)"
+       }
+      ]
+     },
+     {
+      "src": "rasaṃ",
+      "words": [
+       {
+        "w": "rasam",
+        "gloss": "taste, sap (rasa)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatīti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vārikvāthapūrvakaṃ",
+      "words": [
+       {
+        "w": "vāri-kvātha-pūrvakam",
+        "gloss": "water; decoction; preceded by",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrādyaistadupadeśānupadagdhaṃ",
+      "words": [
+       {
+        "w": "kṣīra-ādyaiḥ",
+        "gloss": "with milk and so on",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "tad-upadeśa-anupadagdham",
+        "gloss": "that; instruction; not scorched",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāthayet",
+      "words": [
+       {
+        "w": "kvāthayet",
+        "gloss": "he should boil",
+        "gram": "3 sg. opt. caus. √kvath"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और क्षीर आदि के साथ द्रव्य का रस भली-भाँति छूटा हुआ नहीं होता, इसलिए पहले जल का क्वाथ करके, उसके उपदेश के अनुसार न जलाते हुए क्षीर आदि के साथ पकाए।",
+  "english": "And a substance together with milk and the like does not become one whose taste (rasa) is fully released; so, preceded by a decoction in water, he should boil it with milk and the like, as instructed, not scorched.",
+  "text_flags": [
+   {
+    "src": "kāthayet",
+    "suggest": "kvāthayet",
+    "why": "possible: 'kvāth-' (to boil) is the usual form"
+   }
+  ],
+  "notes": "'samyaṅmukta rasaṃ' is broken by a space in print and read as 'samyak-mukta-rasam'. 'tadupadeśānupadagdham' is uncertain: read as 'not scorched, according to that instruction'. The first half gives the reason ('iti', thus).",
+  "confidence": "low"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śītasalilāplutaṃ",
+      "words": [
+       {
+        "w": "śīta-salila-āplutam",
+        "gloss": "cold; water; soaked",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niśāparyuṣitaṃ",
+      "words": [
+       {
+        "w": "niśā-paryuṣitam",
+        "gloss": "night; kept overnight, stale",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūtaṃ",
+      "words": [
+       {
+        "w": "pūtam",
+        "gloss": "strained, purified",
+        "gram": "ppp. √pū, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītaḥ",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "śīta (cold infusion; probable)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ठण्डे जल में भिगोया हुआ, रात भर रखा हुआ और छना हुआ शीत है।",
+  "english": "But (that) soaked in cold water, kept overnight and strained is śīta (cold infusion).",
+  "text_flags": [],
+  "notes": "Defines śīta. The thing soaked is a medicine, not named. The modern name 'cold infusion' is interpretation (probable).",
+  "confidence": "high"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uṣṇāṃbhasi",
+      "words": [
+       {
+        "w": "uṣṇa-ambhasi",
+        "gloss": "hot; in water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣuṇṇābhisutapūtaṃ",
+      "words": [
+       {
+        "w": "kṣuṇṇa-abhisuta-pūtam",
+        "gloss": "crushed; soaked, pressed (abhisuta); strained",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phāṃṭaḥ",
+      "words": [
+       {
+        "w": "phāṇṭaḥ",
+        "gloss": "phāṇṭa (hot infusion; probable)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गरम जल में कुचला हुआ, भिगोया हुआ और छना हुआ फाण्ट है।",
+  "english": "(That) crushed and soaked (abhisuta) in hot water and strained is phāṇṭa (hot infusion).",
+  "text_flags": [
+   {
+    "src": "kṣuṇṇābhisutapūtaṃ",
+    "suggest": "kṣuṇṇābhiṣutapūtaṃ",
+    "why": "possible: 'abhiṣuta' (steeped, pressed) is the regular form; the print has 's'"
+   }
+  ],
+  "notes": "Defines phāṇṭa. 'abhisuta' is read as 'steeped, soaked' (from abhi-√su, 'abhiṣuta'). The modern name 'hot infusion' is interpretation (probable).",
+  "confidence": "medium"
+ },
+ {
   "n": "44",
   "lines": [
    {
@@ -2944,6 +3305,65 @@
    }
   ],
   "notes": "The sentence continues in unit 47 (the accusatives are completed by 'ālocya'). Conjectural reading of 'mātrāyā na vyavasthāṃna' as 'mātrāyāḥ na vyavasthānam' (no fixed rule of dose); an alternative reading with 'na' twice cannot be excluded.",
+  "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ālocya",
+      "words": [
+       {
+        "w": "ā-locya",
+        "gloss": "having considered",
+        "gram": "abs. ā-√loc"
+       }
+      ]
+     },
+     {
+      "src": "deśakālau",
+      "words": [
+       {
+        "w": "deśa-kālau",
+        "gloss": "place; time",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhaiṣajyamavacārayet",
+      "words": [
+       {
+        "w": "bhaiṣajyam",
+        "gloss": "medicine, remedy",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "avacārayet",
+        "gloss": "he should administer, apply",
+        "gram": "3 sg. opt. caus. ava-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन सबको और देश तथा काल को विचारकर औषध का प्रयोग करे।",
+  "english": "Having considered (these) and place and time, he should administer the medicine (bhaiṣajya).",
+  "text_flags": [],
+  "notes": "Completes the sentence of 46: 'having considered the body, doṣa, strength, age, and place and time, one should administer the medicine'. Taken together the saying is quoted from 'some' (45). 'avacārayet' = 'should administer, apply' (OPEN wording in the glossary).",
   "confidence": "medium"
  },
  {
