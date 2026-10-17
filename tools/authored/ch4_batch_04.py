@@ -17,8 +17,8 @@ AUTHORED["41"] = {
                    "पहली पंक्ति में पाँच पेयों के नाम हैं: आसव, अरिष्ट, सीधु, मार्द्वीक और माधव। "
                    "उन्हें ‘निर्गद’ (रोगरहित) कहा गया है। दूसरी पंक्ति में ‘वा’ (अथवा) से तीन जल "
                    "गिनाए हैं: मुस्त और शुंठी वाला जल, सार का जल, और शहद का जल। "
-                   "छह नामों का अर्थ श्लोक नहीं बताता, इसलिए वे नाम ही रखे गए हैं।"),
-    "hook": "पाँच नाम (आसव…माधव), फिर तीन जल — वा, वा।",
+                   "आसव आदि पाँच नाम, तथा मुस्त, शुंठी और सार का अर्थ श्लोक नहीं बताता, इसलिए वे नाम ही रखे गए हैं।"),
+    "hook": "पाँच नाम (आसव…माधव), फिर तीन जल — अंत में वा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which of these is a drink named in line 1 of this unit?",
@@ -88,7 +88,7 @@ AUTHORED["42"] = {
             [("exercise", "Exercise is avoided in a later unit, not in this one."),
              ("wine", "Wine is dealt with in a later unit."),
              ("bathing", "Bathing is not named here.")],
-            "दिवास्वप्न (day-sleep) is the second item of the list.",
+            "दिवास्वप्न (day-sleep) is the third item of the list.",
             "Avoid: गुरु, शीत, दिवास्वप्न, स्निग्ध, अम्ल, मधुर."),
         order(1, "Put the six things of line 1 in the order of the verse.",
               ["गुरु", "शीत", "दिवास्वप्न", "स्निग्ध", "अम्ल", "मधुर"],
@@ -150,7 +150,7 @@ AUTHORED["43"] = {
             "The first words say दिशः ज्वलन्ति, and the earth too.",
             "दिशः ज्वलन्ति · भूमिः च."),
         order(1, "Put these parts of the unit in the order of the verse.",
-              ["the directions blaze", "the earth too", "the wind is pleasant from no side",
+              ["the directions blaze", "the earth too", "the wind is not pleasant from any side",
                "creatures are as if feverish"],
               "Line 1 gives directions, earth and wind; line 2 ends with the creatures.",
               "दिशः · भूमिः · मारुतः · जन्तवः.", role="warmup"),
@@ -160,7 +160,7 @@ AUTHORED["43"] = {
               "These words name what burns, what blows and who is affected.",
               "दिशः = directions; ज्वलन्ति = blaze; मारुतः = wind; जन्तवः = creatures; ज्वरिताः = feverish.",
               role="extend",
-              teaches="ज्वलन्ति ('they blaze') is a plural verb, matching the plural subjects दिशः and भूमिः taken together."),
+              teaches="ज्वलन्ति ('they blaze') is a plural verb agreeing with the plural दिशः; भूमिः च is added to it."),
         mcq("discriminate", 3, "Which is the right split of नैकतः?",
             ("न + एकतः", "अ + ए joins as ऐ: न + एकतः = नैकतः."),
             [("न + ऐकतः", "ऐकतः is not a word; the word is एकतः (from one side)."),
@@ -169,7 +169,7 @@ AUTHORED["43"] = {
             "नैकतः is न (not) + एकतः (from one side), so 'not from one side'.",
             "अ + ए → ऐ."),
         mcq("apply", 4, "What does the unit say about the wind (मारुतः)?",
-            ("It is not pleasant from any one side", "मारुतो नैकतः सुखः."),
+            ("It is not pleasant from any side", "मारुतो नैकतः सुखः."),
             [("It is pleasant from every side", "The line says it is not pleasant."),
              ("It brings the rain", "No rain is mentioned in this unit."),
              ("It is pleasant only from the north", "No direction is singled out.")],
@@ -198,7 +198,7 @@ AUTHORED["44"] = {
     "explain_hi": ("यह युग्म किसी स्त्रीलिंग बहुवचन संज्ञा का वर्णन है, जो अगले श्लोक में आती है, इसलिए यहाँ "
                    "यह नाम नहीं है। पहली पंक्ति: ताप से पीड़ित ऊँचे हाथियों और भैंसों ने उन्हें "
                    "गँदला कर दिया। दूसरी पंक्ति: सूर्य की किरणरूपी अंगारों के समूह ने उनका जल "
-                   "सोख/नष्ट कर दिया। ‘कलुषी-कृत’ का अर्थ है ‘गँदला किया हुआ’।"),
+                   "नष्ट कर दिया। ‘कलुषी-कृत’ का अर्थ है ‘गँदला किया हुआ’।"),
     "hook": "ताप-पीड़ित हाथी-भैंसे गँदला करें; किरण-अंगारे जल सोखें।",
     "core": False,
     "questions": [
@@ -228,7 +228,7 @@ AUTHORED["44"] = {
             "तापार्त = ताप (heat) + आर्त (distressed): 'distressed by heat'.",
             "अ + आ → आ."),
         mcq("apply", 4, "What does line 2 say consumed the waters?",
-            ("a heap of embers that are the sun's rays", "दिवाकरकरांगारनिकर."),
+            ("a heap of sun-ray embers", "दिवाकरकरांगारनिकर."),
             [("a heap of dry leaves", "Leaves are mentioned in unit 45, not here."),
              ("a stream of the wind", "The wind is not named in this line."),
              ("a swarm of thirsty animals", "The animals are in line 1 and only make the water turbid.")],
@@ -279,12 +279,12 @@ AUTHORED["45"] = {
               "These five words are the things the two lines describe.",
               "नद्यः = rivers; महीरुहाः = trees; पर्ण = leaf; वल्कल = bark; लता = creeper.",
               role="extend",
-              teaches="-हीन at the end of a compound means 'devoid of' the first part (छायाहीन = devoid of shade)."),
+              teaches="In a compound the first part tells the kind: पर्ण 'leaf', वल्कल 'bark' and लता 'creeper' appear as parts of the compounds विशीर्णजीर्णपर्णाः and शुष्कवल्कललताङ्किताः."),
         mcq("discriminate", 3, "Which is the right split of नद्यश्छाया-?",
             ("नद्यः + छाया", "A visarga before छ becomes श्: नद्यः + छाया = नद्यश्छाया."),
             [("नद्यो + छाया", "ओ is made only before a voiced sound; छ is unvoiced."),
              ("नद्या + छाया", "नद्या would be a different case, not the plural subject."),
-             ("नद्यस् + छाया", "The printed joining has श्, not स्, before छ.")],
+             ("नद्यः + श्छाया", "श्छाया is not a word; the श् comes from the joining.")],
             "नद्यः (rivers) + छाया... : the visarga changes to श् before the छ of छाया.",
             "ः + छ → श्छ."),
         mcq("apply", 4, "What kind of leaves does line 2 give the trees?",
@@ -322,7 +322,7 @@ AUTHORED["46"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "What does the sun do in line 1, according to the unit?",
-            ("It strongly draws away the world's moisture", "आदत्ते जगतः स्नेहं भृशम्."),
+            ("It draws away the world's moisture", "आदत्ते जगतः स्नेहं भृशम्."),
             [("It gives back the world's moisture", "The verb आदत्ते means draws away, not gives."),
              ("It dries only the rivers", "The verse says the world's moisture, not only rivers."),
              ("It hides behind the clouds", "No cloud is mentioned.")],
@@ -345,8 +345,8 @@ AUTHORED["46"] = {
             "त्यजेत् (should avoid) + अतः (therefore).",
             "त् + vowel → द् + vowel."),
         mcq("apply", 4, "Which reason does the unit give for the avoidance?",
-            ("the sun strongly draws away the world's moisture", "यतः … आदित्यो भृशम्."),
-            [("the wind is pleasant from every side", "Unit 43 says the wind is not pleasant."),
+            ("the sun draws away the world's moisture", "यतः … आदित्यो भृशम्."),
+            [("the wind blows pleasantly from every side", "Unit 43 says the wind is not pleasant."),
              ("the rivers have banks grown high", "That is in unit 45; it is not the stated reason here."),
              ("the earth is cold and still", "The units speak of blazing heat.")],
             "The word यतः (because) introduces the sun's drawing away moisture; अतः (therefore) leads to the avoiding.",
@@ -398,7 +398,7 @@ AUTHORED["47"] = {
               role="extend",
               teaches="अन्यथा ('otherwise') says what happens if the condition just given is not kept."),
         mcq("discriminate", 3, "What does अन्यथा do in line 2?",
-            ("it says what comes if line 1 is not kept", "अन्यथा means otherwise."),
+            ("it begins the results", "अन्यथा means otherwise."),
             [("it adds a further allowed use of wine", "It does not allow anything; it begins the results."),
              ("it gives the reason for line 1", "A reason would be introduced by यतः."),
              ("it names the amount of wine", "No amount is given in the unit.")],
@@ -425,7 +425,7 @@ AUTHORED["47"] = {
 # ---------------------------------------------------------------- unit 48
 AUTHORED["48"] = {
     "title": "पानकानि समंथानि",
-    "question": "What do the four describing words of line 2 say about the drinks?",
+    "question": "What do the three describing words of line 2 say about the drinks?",
     "rule": ("Line 2 names drinks (पानकानि) that are with mantha (समन्थानि), rich in sugar "
              "(सिताढ्यानि) and cold (हिमानि). The four words all end in the neuter plural."),
     "limits": ("Line 1 is damaged in the print: तद्व्यानि is not a word and तोयानि (waters) is "
@@ -456,20 +456,20 @@ AUTHORED["48"] = {
               "The line runs पानकानि, समन्थानि, सिताढ्यानि, हिमानि, च.",
               "पानकानि · समन्थानि · सिताढ्यानि · हिमानि · च.", role="extend",
               teaches="A line can be learned as a row of describing words after its noun: पानकानि first, then the three that describe it."),
-        mcq("discriminate", 3, "Which is the right split of सिताढ्यानि?",
-            ("सित + आढ्यानि", "अ + आ joins as आ: सित + आढ्यानि = सिताढ्यानि."),
-            [("सिता + अढ्यानि", "अढ्य is not the word; the word is आढ्य."),
-             ("सिते + आढ्यानि", "ए would not turn into आ."),
-             ("सितः + आढ्यानि", "A visarga would remain or change, not vanish.")],
-            "सित (sugar) + आढ्यानि (rich): rich in sugar.",
-            "अ + आ → आ."),
+        mcq("discriminate", 3, "Which is the right split of समन्थानि?",
+            ("स + मन्थानि", "स- 'with' + मन्थानि: with mantha."),
+            [("सम + न्थानि", "न्थानि is not a word."),
+             ("समन् + थानि", "थानि is not a word."),
+             ("सा + मन्थानि", "सा + म would stay long: सामन्थानि.")],
+            "स (with) + मन्थानि: with mantha.",
+            "स- = with."),
         mcq("apply", 4, "What gender and number do पानकानि, समन्थानि, सिताढ्यानि and हिमानि share?",
             ("neuter plural", "The data marks all four as neuter nominative plural."),
             [("masculine singular", "A masculine singular would not end in -आनि."),
              ("feminine plural", "A feminine plural would end differently, as in -आः."),
              ("neuter singular", "A neuter singular would end in -म्, as पानकम्.")],
             "All four end in -नि, the neuter plural, so they belong together.",
-            "-आनि / -इनि: neuter plural."),
+            "-आनि: neuter plural."),
         mcq("transfer", 5, "Which phrase means sweet fruits? फल is neuter.",
             ("मधुराणि फलानि", "Neuter plural describing word and noun, like हिमानि पानकानि."),
             [("मधुरः फलानि", "मधुरः is masculine singular; it does not agree."),
@@ -487,21 +487,21 @@ AUTHORED["49"] = {
     "question": "What foods and drinks does this unit list?",
     "rule": ("Line 1: sweet, cold and liquid food, and dry-land (जाङ्गल) animals and birds. Line 2 "
              "lists six: śāli rice, milk, ghee, grapes, coconut water, sugar."),
-    "limits": ("The verb that governs the list is निषेवेत, three units on; this unit only lists. "
+    "limits": ("The verb that governs the list is निषेवेत, two units on (unit 51); this unit only lists. "
                "The unit names the animals and birds, not their flesh, which context implies. "
                "No amount, time or method is given."),
-    "explain_hi": ("यह युग्म सूची है, क्रिया तीन श्लोक आगे (‘निषेवेत’) आती है। पहली पंक्ति: मधुर, शीत और "
+    "explain_hi": ("यह युग्म सूची है, क्रिया दो श्लोक आगे (‘निषेवेत’, श्लोक ५१) आती है। पहली पंक्ति: मधुर, शीत और "
                    "द्रव अन्न, तथा जांगल (शुष्क भूमि के) मृग और पक्षी। दूसरी पंक्ति में छह चीज़ें "
                    "हैं: शालि, दूध, घी, द्राक्षा, नारियल का जल और शर्करा। श्लोक में पशु-पक्षियों का नाम "
                    "है, ‘मांस’ शब्द नहीं; वह प्रसंग से समझा जाता है।"),
-    "hook": "मधुर-शीत-द्रव अन्न, जांगल पशु-पक्षी; शालि, क्षीर, घृत, द्राक्षा, नारिकेलजल, शर्करा।",
+    "hook": "मधुर-शीत-द्रव अन्न, जांगल पशु-पक्षी; शालि, क्षीर, घृत, द्राक्षा, नारिकेरांबु, शर्करा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which of these is named in line 2?",
             ("coconut water", "नारिकेरांबु is in line 2."),
-            [("honey", "Honey is not named in line 2."),
-             ("curds", "Curds are not named."),
-             ("barley", "Barley is not named; the grain is śāli rice.")],
+            [("honey-water", "Honey-water is in unit 41, not here."),
+             ("sugarcane juice", "Not named; the unit names sugar (शर्करा), not juice."),
+             ("barley-water", "Not named; the grain is śāli rice.")],
             "Line 2 names śāli, milk, ghee, grapes, coconut water and sugar.",
             "शालि · क्षीर · घृत · द्राक्षा · नारिकेराम्बु · शर्करा."),
         order(1, "Put the six items of line 2 in the order of the verse.",
@@ -547,8 +547,8 @@ AUTHORED["50"] = {
     "rule": ("Line 1: breezes of palm-leaf fans, necklaces, garlands with lotuses and water-lilies. "
              "Line 2: slender beloved women (कान्ताः) with lotus-stalk bracelets, smeared with sandal."),
     "limits": ("The verb is निषेवेत, in unit 51. 'Slender' (तन्वी) could go with the women or the "
-               "bracelets; the card reads it with the women. स्त्रजः is printed स्त्रजः, a slip "
-               "for स्रजः. The unit only lists."),
+               "bracelets; the card reads it with the women. ‘स्रजः’ (garlands) is printed ‘स्त्रजः’, "
+               "a slip. The unit only lists."),
     "explain_hi": ("यह भी सूची है, जिसकी क्रिया श्लोक ५१ में आती है। पहली पंक्ति: ताल के पंखों की हवाएँ, "
                    "हार, और कमल-उत्पल सहित मालाएँ। दूसरी पंक्ति: कमलनाल के कंगनों वाली, कृश, चंदन से "
                    "लिप्त प्रियतमाएँ। ‘तन्वी’ स्त्रियों का विशेषण पढ़ा गया है, पर वह कंगनों का भी हो सकता है। "
@@ -582,8 +582,8 @@ AUTHORED["50"] = {
             "सकमलोत्पलाः = स (with) + कमल (lotus) + उत्पल (water-lily).",
             "अ + उ → ओ."),
         mcq("apply", 4, "How does line 2 describe the beloved women?",
-            ("with lotus-stalk bracelets, smeared with sandal", "मृणालवलयाः, चन्दनरूषिताः."),
-            [("with gold bracelets, smeared with camphor", "The line says lotus-stalk and sandal."),
+            ("lotus-stalk bracelets, smeared with sandal", "मृणालवलयाः, चन्दनरूषिताः."),
+            [("with gold bracelets, smeared with camphor paste", "The line says lotus-stalk and sandal."),
              ("with lotus garlands, smeared with musk", "The line says lotus-stalk bracelets and sandal."),
              ("with pearl bracelets, strewn with petals", "The line says lotus-stalk and sandal.")],
             "Line 2: slender, with lotus-stalk (मृणाल) bracelets (वलय), beloved, smeared with sandal (चन्दन).",
@@ -609,8 +609,8 @@ AUTHORED["51"] = {
                "both; the card claims none of these. This is the verb that governs the list of "
                "units 48 to 50 as well. It gives no time or amount."),
     "explain_hi": ("यहाँ पिछले तीन श्लोकों की सूची की क्रिया आती है: ‘निषेवेत’ (सेवन करे)। पहली पंक्ति में सरोवर, "
-                   "बावड़ियाँ, नदियाँ और वन हैं; दूसरी पंक्ति में ‘शीतल’ और ‘सुगंधित’ विशेषण हैं, "
-                   "और अत्यंत हल्के वस्त्र हैं। ‘हिमानि’ और ‘सुरभीणि’ किससे जुड़ते हैं, यह साफ़ नहीं: "
+                   "बावड़ियाँ, नदियाँ, वन और ‘हिमानि’ (शीतल) हैं; दूसरी पंक्ति में ‘सुरभीणि’ (सुगंधित), "
+                   "क्रिया ‘निषेवेत’ और अत्यंत हल्के वस्त्र हैं। ‘हिमानि’ और ‘सुरभीणि’ किससे जुड़ते हैं, यह साफ़ नहीं: "
                    "जलस्थानों से, वस्त्रों से, या दोनों से।"),
     "hook": "सर, वापी, सरित्, कानन — शीतल-सुगंधित; और सुलघु वस्त्र: निषेवेत।",
     "core": True,
@@ -622,7 +622,7 @@ AUTHORED["51"] = {
              ("markets", "Markets are not named.")],
             "Line 1 names lakes, tanks, rivers and groves.",
             "सरांसि · वापीः · सरितः · काननानि."),
-        order(1, "Put the four water-places and groves of line 1 in the order of the verse.",
+        order(1, "Put the four places of line 1 in the order of the verse.",
               ["सरांसि", "वापीः", "सरितः", "काननानि"],
               "The line runs lakes, tanks, rivers, groves.",
               "सरांसि · वापीः · सरितः · काननानि.", role="warmup"),
@@ -698,10 +698,10 @@ AUTHORED["52"] = {
             "स्वप्यात् (should sleep) + धारागृहे (in the shower-house).",
             "त् + voiced → द्."),
         mcq("apply", 4, "What does the unit say of the night place?",
-            ("an open roof strewn with fragrant flowers", "आकाशतलके सुगन्धिकुसुमास्तृते."),
+            ("an open roof strewn with flowers", "आकाशतलके सुगन्धिकुसुमास्तृते."),
             [("a shower-house with falling water", "This is the day place."),
              ("a closed room smeared with sandal", "No closed room is named."),
-             ("a river bank with high banks", "River banks are in unit 45, not here.")],
+             ("a high river bank", "River banks are in unit 45, not here.")],
             "At night (रात्रौ) one sleeps on the open roof (आकाशतलक) strewn with fragrant flowers.",
             "रात्रौ … आकाशतलके सुगन्धिकुसुमास्तृते."),
         mcq("transfer", 5, "Which sentence means one should sleep in the garden?",
@@ -718,15 +718,15 @@ AUTHORED["52"] = {
 # ---------------------------------------------------------------- unit 53
 AUTHORED["53"] = {
     "title": "कर्पूरचंदनार्द्रांगो",
-    "question": "How does line 1 describe a person, and what does line 2 say of the rains?",
-    "rule": ("Line 1 describes a person with limbs moistened with camphor and sandal and with rare "
+    "question": "What two descriptions does line 1 give, and what does line 2 say of the rains?",
+    "rule": ("Line 1 gives two descriptions, no noun named: limbs moistened with camphor and sandal, and rare "
              "union with Anaṅga (love). Line 2: in the rains (वर्षासु) the wind is Vāruṇa, and all "
              "crops spring up."),
-    "limits": ("The two descriptions in line 1 are nominative singular and have no verb here: the "
+    "limits": ("The two descriptions in line 1 are nominative singular, name no one and have no verb here: the "
                "sentence began in unit 52. 'Vāruṇa' may be 'western' or 'of Varuṇa'; the card keeps "
                "it untranslated. 'Anaṅga' is love, and the card does not say more."),
-    "explain_hi": ("पहली पंक्ति किसी व्यक्ति का वर्णन है: कपूर और चंदन से भीगे अंग वाला, और जिसका कामसंग "
-                   "विरल हो (‘अनंग’ = प्रेम या काम)। क्रिया पिछले श्लोक से चलती है। दूसरी पंक्ति नया "
+    "explain_hi": ("पहली पंक्ति में दो वर्णन हैं, पर जिसका वर्णन है उसका नाम नहीं आता: कपूर और चंदन से भीगे अंगों वाला, और "
+                   "विरल कामसंग वाला (‘अनंग’ = प्रेम या काम)। क्रिया पिछले श्लोक से चलती है। दूसरी पंक्ति नया "
                    "विषय खोलती है: वर्षा में वायु ‘वारुण’ है और सब धान्यों का उगना होता है। "
                    "‘वारुण’ का अर्थ ‘पश्चिमी’ या ‘वरुण-संबंधी’ दोनों हो सकता है, इसलिए उस पर प्रश्न नहीं बना।"),
     "hook": "कपूर-चंदन से भीगे अंग; वर्षा में वारुण वायु और सब धान्यों का उगना।",
@@ -757,12 +757,12 @@ AUTHORED["53"] = {
             [("वारुणाः + वायुः", "That would join as वारुणा वायुः, with a long vowel."),
              ("वारुणे + वायुः", "ए does not turn into ओ."),
              ("वारुणम् + वायुः", "-म् would stay as -म् or -ं, not become ओ.")],
-            "वारुणः (of Varuṇa) + वायुः (wind): the visarga becomes ओ before the voiced व.",
+            "वारुणः (Vāruṇa, kept untranslated) + वायुः (wind): the visarga becomes ओ before the voiced व.",
             "-अः + voiced → ओ."),
         mcq("apply", 4, "What does line 2 say springs up in the rains?",
             ("all crops", "सर्वसस्यसमुद्गमः."),
             [("only the grass", "The line says all crops."),
-             ("only the lotuses", "Lotuses are in the earlier unit; the line says all crops."),
+             ("only the lotuses", "Lotuses are named in unit 50; the line says all crops."),
              ("all the rivers", "The line does not speak of rivers.")],
             "Line 2: in the rains the wind is Vāruṇa, and all crops (सर्वसस्य) spring up (समुद्गम).",
             "सर्वसस्यसमुद्गमः = springing up of all crops."),
@@ -785,11 +785,11 @@ NOTES_HI = {
     "45": "विश्वास: उच्च। ‘प्रवृद्धरोधसः’ का अर्थ ‘बढ़े हुए तट’ है; तट शायद जल घटने से ऊँचे दिखते हैं (पिछले श्लोक की तुलना), पर यह अनुमान है। सन्धि: नद्यः + छायाहीनाः → नद्यश्छायाहीनाः (छपे ‘छायाहीना’ में अन्त का विसर्ग छूटा है, गलती नहीं); विशीर्णजीर्णपर्णाः + च → ..पर्णाश्च; शुष्क + वल्कल + लता + अंकिताः → शुष्कवल्कलतांकिताः (आ + अ → आ)।",
     "46": "विश्वास: उच्च। ‘स्नेह’ = तेल/चिकनाई/नमी; ‘नमी (स्नेह)’ रखा गया। ‘तदा’ = उस समय (पिछले ग्रीष्म-वर्णन की ओर इशारा)। सन्धि: तदा + आदित्यः → तदादित्यः; व्यायाम + आतप → व्यायामातप; कटु + अम्ल → कट्वम्ल (उ + अ → व); लवण + उष्णम् → लवणोष्णम्; त्यजेत् + अतः → त्यजेदतः।",
     "47": "विश्वास: उच्च। पहली पंक्ति दो ढंग से पढ़ी जा सकती है: तीन विकल्प (न सेव्य / थोड़ा / बहुत जल के साथ), या ‘थोड़ा मद्य’ और ‘बहुत जल वाला मद्य’। ‘शोष’ = सूखना/क्षीणता; ‘मोह’ = भ्रम। सन्धि: मद्यं न सेव्यं (छपे ‘नसेव्यं’ में सिर्फ़ स्पेस छूटा है); शोष..मोहान् + करोति → ..मोहान्करोति; सेव्य + सुबहुवारि।",
-    "48": "विश्वास: निम्न। पहली पंक्ति (४.७४) छपाई में बिगड़ी है: ‘तद्व्यानि’ शब्द नहीं है; सुझाव ‘तोयानि’ (जल) या ‘तद्द्रव्याणि’ केवल अनुमान हैं। इसलिए प्रश्न केवल दूसरी पंक्ति के साफ़ शब्दों और उनके व्याकरण पर बने हैं। ‘मंथ’ एक मथा हुआ पेय है, नाम ही रखा गया। सन्धि: सित + आढ्यानि → सिताढ्यानि; स + मन्थानि → समन्थानि।",
+    "48": "विश्वास: निम्न। पहली पंक्ति (४.७४) छपाई में बिगड़ी है: ‘तद्व्यानि’ शब्द नहीं है; सुझाव ‘तोयानि’ (जल) या ‘तद्द्रव्याणि’ केवल अनुमान हैं। इसलिए प्रश्न केवल दूसरी पंक्ति के साफ़ शब्दों और उनके व्याकरण पर बने हैं। ‘मंथ’ एक मथा हुआ पेय है, नाम ही रखा गया। सन्धि: सित/सिता + आढ्यानि → सिताढ्यानि (दोनों विभाजन सम्भव: अ + आ → आ या आ + आ → आ; सिता = शर्करा, सित = श्वेत); स + मन्थानि → समन्थानि।",
     "49": "विश्वास: उच्च। क्रिया ‘निषेवेत’ आगे के श्लोक में है। ‘जांगल’ = शुष्क भूमि का। मृग-पक्षिणः के साथ ‘मांस’ शब्द नहीं, वह प्रसंग से समझा जाता है। ‘शालि’ चावल की किस्म है, नाम रखा गया। सन्धि: जांगलान् + मृगपक्षिणः → जांगलान्मृगपक्षिणः; नारिकेर + अंबु → नारिकेरांबु; द्राक्षा + नारिकेर → द्राक्षानारिकेर।",
     "50": "विश्वास: उच्च। छपा ‘स्त्रजः’ सम्भवतः ‘स्रजः’ है (स्रज् में त नहीं)। ‘तन्वी’ स्त्रियों का विशेषण पढ़ा गया है; यह कंगनों का भी हो सकता है। सन्धि: ताल + वृन्त + अनिलान् → तालवृन्तानिलान्; स + कमल + उत्पलाः → सकमलोत्पलाः (अ + उ → ओ); कान्ताः + चन्दन → कान्ताश्चन्दन।",
     "51": "विश्वास: उच्च। ‘सुरभीणि’ जलस्थानों, वस्त्रों या दोनों से जुड़ सकता है। ‘वापी’ = बावड़ी/सरोवर। क्रिया ‘निषेवेत’ (आत्मनेपद, विधिलिङ्) पिछले तीन श्लोकों की सूचियों की भी है। सन्धि: सरितः + काननानि → सरितः काननानि (अलग छपे); निषेवेत + वासांसि।",
-    "52": "विश्वास: उच्च। ‘यन्त्र’ = कोई उपकरण; ‘आकाशतलक’ का अक्षरशः अर्थ ‘आकाश का तल’, खुली छत पढ़ा गया। सन्धि: स्वप्यात् + धारागृहे → स्वप्याद्धारागृहे; रात्रौ + च + आकाशतलके → रात्रौ चाकाशतलके (आ + आ → आ); सुगन्धि + कुसुम + आस्तृते → सुगन्धिकुसुमास्तृते (अ + आ → आ)।",
+    "52": "विश्वास: उच्च। ‘यन्त्र’ = कोई उपकरण; ‘आकाशतलक’ का अक्षरशः अर्थ ‘आकाश का तल’, खुली छत पढ़ा गया। सन्धि: स्वप्यात् + धारागृहे → स्वप्याद्धारागृहे; रात्रौ + च + आकाशतलके → रात्रौ चाकाशतलके (अ + आ → आ); सुगन्धि + कुसुम + आस्तृते → सुगन्धिकुसुमास्तृते (अ + आ → आ)।",
     "53": "विश्वास: उच्च। ‘अनंग’ कामदेव/काम; ‘अनंगसंगम’ = कामसंग। ‘वारुण’ का अर्थ ‘पश्चिमी’ या ‘वरुण-संबंधी’, दोनों सम्भव। ‘वर्षासु’ बहुवचन है (वर्षा के महीने)। सन्धि: कर्पूर + चन्दन + आर्द्र + अङ्गः → कर्पूरचन्दनार्द्राङ्गः; विरल + अनङ्ग → विरलानङ्ग; वारुणः + वायुः → वारुणो वायुः।",
 }
 
@@ -801,8 +801,8 @@ AIDS = {
             {"label": "दूसरी पंक्ति: तीन जल (वा)",
              "items": ["मुस्त-शुंठी वाला जल", "सारांभः", "क्षौद्रवारि"]}]},
         "sandhi": "न् + च → ंश्च: निर्गदान् + च + आसव → निर्गदांश्चासव · च + आ → चा।",
-        "chunks": "निर्गदांश्च | आसवारिष्टसीधुमार्द्वीकमाधवान् ‖ कथितमुस्तशुंठ्यंबु | सारांभः | क्षौद्रवारि वा।",
-        "anchors": "पाँच नाम ‘आ-अ-सी-मा-मा’: आसव, अरिष्ट, सीधु, मार्द्वीक, माधव · फिर तीन जल।",
+        "chunks": "निर्गदांश्चासवारिष्टसीधुमार्द्वीकमाधवान् ‖ कथितमुस्तशुंठ्यंबु | सारांभः | क्षौद्रवारि वा।",
+        "anchors": "पाँच नाम ‘आ-अ-सी-मा-मा’ (मेरा बनाया स्मरण-सूत्र): आसव, अरिष्ट, सीधु, मार्द्वीक, माधव · फिर तीन जल।",
     },
     "42": {
         "diagram": {"groups": [
@@ -822,7 +822,7 @@ AIDS = {
              "items": ["पवन-आतप-संस्वेदैः", "जन्तवः", "ज्वरिताः इव"]}]},
         "sandhi": "अः + ज → ओ ज: दिशः + ज्वलन्ति → दिशोज्वलन्ति · अ + ए → ऐ: न + एकतः → नैकतः।",
         "chunks": "दिशोज्वलन्ति भूमिश्च | मारुतो नैकतः सुखः ‖ पवनातपसंस्वेदैः | जन्तवो ज्वरिता इव।",
-        "letters": "द-भू-मा: दिशाएँ, भूमि, मारुत — पहली पंक्ति के तीन आरम्भिक शब्द।",
+        "letters": "द-भू-मा: दिशः, भूमिः, मारुतः — पहली पंक्ति के तीन कर्ता (मेरा बनाया स्मरण-सूत्र)।",
     },
     "44": {
         "diagram": {"groups": [
@@ -830,7 +830,7 @@ AIDS = {
              "items": ["तापार्त", "तुंग", "मातंग", "महिषैः", "कलुषीकृताः"]},
             {"label": "दूसरी पंक्ति (एक समास)",
              "items": ["दिवाकर", "कर", "अंगार", "निकर", "क्षपित", "अंभसः"]}]},
-        "sandhi": "अ + आ → आ: ताप + आर्त → तापार्त · क्षपित + अंभसः → क्षपितांभसः।",
+        "sandhi": "अ + आ → आ: ताप + आर्त → तापार्त · अ + अ → आ: क्षपित + अंभसः → क्षपितांभसः।",
         "chunks": "तापार्ततुंगमातंगमहिषैः | कलुषीकृताः ‖ दिवाकरकरांगारनिकरक्षपितांभसः।",
     },
     "45": {
@@ -845,11 +845,11 @@ AIDS = {
     "46": {
         "diagram": {"groups": [
             {"label": "कारण (यतः)",
-             "items": ["आदित्यः", "भृशम्", "जगतः स्नेहम्", "आदत्ते"]},
+             "items": ["आदत्ते", "जगतः स्नेहम्", "आदित्यः", "भृशम्"]},
             {"label": "निष्कर्ष (अतः): त्यजेत्",
              "items": ["व्यायाम", "आतप", "कटु", "अम्ल", "लवण", "उष्ण"]}]},
         "frame": "क्योंकि सूर्य जगत् का स्नेह खींचता है, इसलिए ये छह छोड़े: व्यायाम, आतप, कटु, अम्ल, लवण, उष्ण।",
-        "sandhi": "त् + अ → द: त्यजेत् + अतः → त्यजेदतः · अ + आ → आ: तदा + आदित्यः → तदादित्यः।",
+        "sandhi": "त् + अ → द् + अ: त्यजेत् + अतः → त्यजेदतः · आ + आ → आ: तदा + आदित्यः → तदादित्यः।",
         "chunks": "आदत्ते जगतः स्नेहं | तदादित्यो भृशं यतः ‖ व्यायामातपकट्वम्ललवणोष्णं | त्यजेदतः।",
     },
     "47": {
@@ -860,14 +860,14 @@ AIDS = {
              "items": ["शोष", "शैथिल्य", "दाह", "मोह"]}]},
         "frame": "मद्य: न सेव्य / थोड़ा / बहुत जल के साथ; अन्यथा चार: शोष, शैथिल्य, दाह, मोह।",
         "chunks": "मद्यं न सेव्यं | स्वल्पं वा सेव्यं | सुबहुवारि वा ‖ अन्यथा | शोषशैथिल्यदाहमोहान्करोति तत्।",
-        "sandhi": "न् + क → न्क: मोहान् + करोति → मोहान्करोति (छपे में जुड़ा) · न + सेव्यम् (छपे में ‘नसेव्यं’, केवल स्पेस छूटा)।",
+        "sandhi": "छपे में मोहान्करोति और नसेव्यं जुड़े हैं (कोई संधि-परिवर्तन नहीं); शब्द हैं मोहान् + करोति, न + सेव्यम्।",
     },
     "48": {
         "diagram": {"groups": [
             {"label": "दूसरी पंक्ति के शब्द",
              "items": ["पानकानि", "समन्थानि", "सिताढ्यानि", "हिमानि", "च"]}]},
-        "sandhi": "अ + आ → आ: सित + आढ्यानि → सिताढ्यानि।",
-        "chunks": "पानकानि | समंथानि | सिताढ्यानि | हिमानि च।",
+        "sandhi": "अ/आ + आ → आ: सित(ा) + आढ्यानि → सिताढ्यानि (सिता = शर्करा; सित = श्वेत)।",
+        "chunks": "नवमृद्भाजनस्थानि तद्व्यानि (पाठ अस्पष्ट) सुरभीणि च ‖ पानकानि | समंथानि | सिताढ्यानि | हिमानि च।",
         "anchors": "चारों शब्द -नि पर समाप्त: नपुंसक बहुवचन — पानकानि के साथ जुड़े।",
     },
     "49": {
@@ -876,9 +876,9 @@ AIDS = {
              "items": ["स्वादु शीतं द्रवं च अन्नम्", "जांगलान् मृगपक्षिणः"]},
             {"label": "दूसरी पंक्ति: छह",
              "items": ["शालि", "क्षीर", "घृत", "द्राक्षा", "नारिकेराम्बु", "शर्करा"]}]},
-        "sandhi": "अ + अ → आ: नारिकेर + अम्बु → नारिकेराम्बु · न् + म → न्म: जांगलान् + मृग → जांगलान्मृग।",
+        "sandhi": "अ + अ → आ: नारिकेर + अम्बु → नारिकेराम्बु · जांगलान् + मृग: म से पहले न् ज्यों का त्यों रहता है, कोई परिवर्तन नहीं (छपा जांगलान्मृग)।",
         "chunks": "स्वादुशीतं द्रवं चान्नं | जांगलान्मृगपक्षिणः ‖ शालिक्षीरघृतद्राक्षानारिकेरांबुशर्कराः।",
-        "anchors": "छह: शालि, क्षीर, घृत, द्राक्षा, नारियल-जल, शर्करा — पहला शब्द ‘शा’ से, अंतिम ‘श’ से।",
+        "anchors": "छह: शालि, क्षीर, घृत, द्राक्षा, नारियल-जल, शर्करा — पहला शब्द ‘शा’ से, अंतिम ‘श’ से (मेरा बनाया स्मरण-सूत्र)।",
     },
     "50": {
         "diagram": {"groups": [
@@ -902,11 +902,11 @@ AIDS = {
     "52": {
         "diagram": {"groups": [
             {"label": "दिन में (दिवा)",
-             "items": ["निष्पतद्यन्त्रसलिले", "धारागृहे", "स्वप्यात्"]},
+             "items": ["निष्पतद्यन्त्रसलिले", "स्वप्यात्", "धारागृहे"]},
             {"label": "रात में (रात्रौ)",
              "items": ["आकाशतलके", "सुगन्धिकुसुमास्तृते"]}]},
         "contrast": "दिन: धारागृह, यंत्र से गिरता जल ↔ रात: खुला आकाशतल, सुगंधित फूलों से बिछा।",
-        "sandhi": "त् + ध → द्ध: स्वप्यात् + धारागृहे → स्वप्याद्धारागृहे · आ + आ → आ: च + आकाशतलके → चाकाशतलके।",
+        "sandhi": "त् + ध → द्ध: स्वप्यात् + धारागृहे → स्वप्याद्धारागृहे · अ + आ → आ: च + आकाशतलके → चाकाशतलके।",
         "chunks": "निष्पतद्यंत्रसलिले | स्वप्याद्धारागृहे दिवा ‖ रात्रौ चाकाशतलके | सुगंधिकुसुमास्तृते।",
     },
     "53": {
@@ -923,10 +923,10 @@ AIDS = {
 IMAGE_SPECS = {
     ("42", "diagram"): {
         "file": "ch4b04-42-avoid-list.svg",
-        "alt": "Mind map of the line 1 list in verse 42: six things to avoid: heavy, cold, day-sleep, unctuous, sour, sweet.",
+        "alt": "Mind map of the line 1 list in verse 42: six things to avoid: heavy, cold, day-sleep, unctuous, sour, sweet (listed in the verse order; the picture's layout is not the verse order).",
         "type": "mermaid",
         "code": """mindmap
-  त्यजेत् (छोड़े)
+  त्यजेत्
     गुरु
     शीत
     दिवास्वप्न
@@ -949,7 +949,7 @@ IMAGE_SPECS = {
     },
     ("47", "frame"): {
         "file": "ch4b04-47-madya.svg",
-        "alt": "Flowchart of verse 47: for wine the verse gives three options (not to be used, a little, or with much water); otherwise four results: drying-up, slackness, burning, bewilderment.",
+        "alt": "Flowchart of verse 47: for wine the verse says not to be used, or a little, or with much water; otherwise four results: drying-up, slackness, burning, bewilderment.",
         "type": "mermaid",
         "code": """flowchart TD
   A["मद्य: न सेव्य, या स्वल्प,<br/>या सुबहुवारि"] --> E["अन्यथा"]
@@ -960,7 +960,7 @@ IMAGE_SPECS = {
     },
     ("49", "diagram"): {
         "file": "ch4b04-49-list.svg",
-        "alt": "Mind map of verse 49: sweet cold liquid food, dry-land animals and birds, and the six items śāli rice, milk, ghee, grapes, coconut water, sugar.",
+        "alt": "Mind map of verse 49: sweet cold liquid food, dry-land animals and birds, and the six items śāli rice, milk, ghee, grapes, coconut water, sugar (listed in the verse order; the picture's layout is not the verse order).",
         "type": "mermaid",
         "code": """mindmap
   सूची
@@ -978,7 +978,7 @@ IMAGE_SPECS = {
     },
     ("51", "frame"): {
         "file": "ch4b04-51-resort.svg",
-        "alt": "Mind map of verse 51: what one should resort to: lakes, tanks, rivers, groves, and very light garments.",
+        "alt": "Mind map of verse 51: what one should resort to: lakes, tanks, rivers, groves, and very light garments (the picture's layout is not the verse order: lakes, tanks, rivers, groves, then garments).",
         "type": "mermaid",
         "code": """mindmap
   निषेवेत
