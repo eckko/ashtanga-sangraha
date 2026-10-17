@@ -1,3 +1,11 @@
+# OWNER POLICY (2026-10-17, overrides DRAFT_BRIEF rule 7 and the "medical-term rule" everywhere in this book)
+The owner wants comprehension and accuracy first. For this book the medical-term rule is DELETED:
+- Translate exactly what the text says. Do not soften, hedge or drop a plant, drug, disease or effect the text names or states.
+- DO use modern names: identify plants (botanical name in English; the ordinary Hindi name in Hindi), name diseases by their usual modern equivalent, and state effects when the text states them.
+- Keep the exact translation separate from interpretation: the Sanskrit name stays in the translation (e.g. "pippalī (long pepper)"); a modern identification is written once, with a confidence word ("standard", "probable", "disputed") in the gloss or notes, never as certain when scholars differ.
+- Never invent an effect, dose or identification that is not in the text or a standard reference; say "unidentified" when unknown. Damaged print stays marked unclear.
+- Everything below that restricts Hindi plant/disease names, or forbids "identification" / "modern disease names" / effects, is VOID. Still valid: spelling and sense decisions (kaṣāya, jīrṇa, udara etc.), no added words that are not in the Sanskrit, damaged-print handling.
+
 # Glossary: fixed renderings (from the independent review of p05-c01-k1; extended by reviewers, not drafters)
 
 - English: capitalise Kapha, Pitta, Vāta; keep lowercase inside compounds (raktapitta).
