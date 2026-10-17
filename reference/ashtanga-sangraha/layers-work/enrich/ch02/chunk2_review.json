@@ -1,0 +1,1803 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vyoṣa-trijātaka-ambhoda-kṛmighna-āmalakaiḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "vyoṣa (a set of three drugs: dry ginger, long pepper, black pepper; standard); trijātaka (a set of three: cinnamon bark, small cardamom, Indian bay leaf; standard); ambhoda (probably musta, nut-grass; lit. 'water-giver'); kṛmighna (probably vidanga, Embelia ribes; lit. 'worm-slayer'); āmalaka (Indian gooseberry, Phyllanthus emblica; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyoṣa-trijātaka-ambhoda-kṛmighna-āmalakaiḥ",
+      "field": "gloss",
+      "value": "vyoṣa (a set of three drugs: dry ginger, long pepper, black pepper; standard); trijātaka (a set of three: cinnamon bark, small cardamom, Indian bay leaf; standard); ambhoda (probably musta, nut-grass; lit. 'water-giver'); kṛmighna (probably vidanga, Embelia ribes; lit. 'worm-slayer'); āmalaka (Indian gooseberry, Phyllanthus emblica; standard)",
+      "n": "38"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trivṛt",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth, Operculina turpethum; standard; lit. 'threefold')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt",
+      "field": "gloss",
+      "value": "trivṛt (turpeth, Operculina turpethum; standard; lit. 'threefold')",
+      "n": "38"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Trivṛt (turpeth) together with vyoṣa (the set of three: dry ginger, long pepper, black pepper), trijātaka (the set of three: cinnamon bark, small cardamom, Indian bay leaf), ambhoda (probably musta, nut-grass), kṛmighna (probably vidanga) and āmalaka (Indian gooseberry).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Trivṛt (turpeth) together with vyoṣa (the set of three: dry ginger, long pepper, black pepper), trijātaka (the set of three: cinnamon bark, small cardamom, Indian bay leaf), ambhoda (probably musta, nut-grass), kṛmighna (probably vidanga) and āmalaka (Indian gooseberry).",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "व्योष यानी सोंठ पीपर और काली मिर्च, त्रिजातक यानी दालचीनी इलायची और तेजपात, अम्भोद यानी प्रायः नागरमोथा, कृमिघ्न यानी प्रायः वायविडंग और आमलक यानी आँवला के साथ त्रिवृत् यानी निशोथ",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "व्योष यानी सोंठ पीपर और काली मिर्च, त्रिजातक यानी दालचीनी इलायची और तेजपात, अम्भोद यानी प्रायः नागरमोथा, कृमिघ्न यानी प्रायः वायविडंग और आमलक यानी आँवला के साथ त्रिवृत् यानी निशोथ",
+      "n": "38"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Names are drug names and are not identified.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Identifications (modern names beside the Sanskrit): trivṛt = turpeth, Operculina turpethum (standard). vyoṣa = śuṇṭhī (dry ginger, Zingiber officinale), pippalī (long pepper, Piper longum), marica (black pepper, Piper nigrum) (standard group). trijātaka = tvak (cinnamon bark, Cinnamomum zeylanicum), elā (small cardamom, Elettaria cardamomum), patra (Indian bay leaf, Cinnamomum tamala) (standard group). ambhoda = musta, nut-grass, Cyperus rotundus (probable; ambhoda is a synonym of musta). kṛmighna = vidanga, Embelia ribes (probable; 'worm-slayer' is a synonym of vidanga). āmalaka = Indian gooseberry, Phyllanthus emblica (standard).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Names are drug names and are not identified.",
+      "new": "Identifications (modern names beside the Sanskrit): trivṛt = turpeth, Operculina turpethum (standard). vyoṣa = śuṇṭhī (dry ginger, Zingiber officinale), pippalī (long pepper, Piper longum), marica (black pepper, Piper nigrum) (standard group). trijātaka = tvak (cinnamon bark, Cinnamomum zeylanicum), elā (small cardamom, Elettaria cardamomum), patra (Indian bay leaf, Cinnamomum tamala) (standard group). ambhoda = musta, nut-grass, Cyperus rotundus (probable; ambhoda is a synonym of musta). kṛmighna = vidanga, Embelia ribes (probable; 'worm-slayer' is a synonym of vidanga). āmalaka = Indian gooseberry, Phyllanthus emblica (standard).",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mūtra-kṛcchra-jvara-chardi-kāse",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "urine; difficulty (mūtrakṛcchra: painful or difficult urination, dysuria); fever (jvara); vomiting (chardi); cough (kāsa)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūtra-kṛcchra-jvara-chardi-kāse",
+      "field": "gloss",
+      "value": "urine; difficulty (mūtrakṛcchra: painful or difficult urination, dysuria); fever (jvara); vomiting (chardi); cough (kāsa)",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śoṣe",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "drying up, wasting (śoṣa: wasting disease, commonly equated with consumption; probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śoṣe",
+      "field": "gloss",
+      "value": "drying up, wasting (śoṣa: wasting disease, commonly equated with consumption; probable)",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhrame",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "whirling, giddiness (bhrama: vertigo)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhrame",
+      "field": "gloss",
+      "value": "whirling, giddiness (bhrama: vertigo)",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣaye",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "decay, loss (kṣaya: wasting; sometimes the disease rājayakṣmā; disputed here)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaye",
+      "field": "gloss",
+      "value": "decay, loss (kṣaya: wasting; sometimes the disease rājayakṣmā; disputed here)",
+      "n": "40"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "In mūtrakṛcchra (urine-difficulty: painful or difficult urination, dysuria), fever, vomiting and cough; in wasting (śoṣa, a consumption-like wasting), giddiness (bhrama, vertigo) and decay (kṣaya, wasting).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "In mūtrakṛcchra (urine-difficulty: painful or difficult urination, dysuria), fever, vomiting and cough; in wasting (śoṣa, a consumption-like wasting), giddiness (bhrama, vertigo) and decay (kṣaya, wasting).",
+      "n": "40"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "मूत्रकृच्छ्र यानी पेशाब में कष्ट या रुकावट, ज्वर यानी बुखार, छर्दि यानी उलटी और कास यानी खाँसी में, शोष यानी शरीर सूखने के रोग में, भ्रम यानी चक्कर में और क्षीणता में",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मूत्रकृच्छ्र यानी पेशाब में कष्ट या रुकावट, ज्वर यानी बुखार, छर्दि यानी उलटी और कास यानी खाँसी में, शोष यानी शरीर सूखने के रोग में, भ्रम यानी चक्कर में और क्षीणता में",
+      "n": "40"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Only the Sanskrit terms are rendered; no modern diagnosis intended.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Modern equivalents beside the Sanskrit terms: mūtrakṛcchra = painful or difficult urination (dysuria; standard); jvara = fever; chardi = vomiting; kāsa = cough; bhrama = giddiness, vertigo (standard); śoṣa = wasting, commonly equated with consumption (probable); kṣaya = wasting, sometimes the disease rājayakṣmā (disputed here).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Only the Sanskrit terms are rendered; no modern diagnosis intended.",
+      "new": "Modern equivalents beside the Sanskrit terms: mūtrakṛcchra = painful or difficult urination (dysuria; standard); jvara = fever; chardi = vomiting; kāsa = cough; bhrama = giddiness, vertigo (standard); śoṣa = wasting, commonly equated with consumption (probable); kṣaya = wasting, sometimes the disease rājayakṣmā (disputed here).",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pāṇḍu-āmaye",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "pale (pāṇḍu); ailment (āmaya); pāṇḍu-āmaya = the disease pāṇḍu, anaemia with pallor (standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pāṇḍu-āmaye",
+      "field": "gloss",
+      "value": "pale (pāṇḍu); ailment (āmaya); pāṇḍu-āmaya = the disease pāṇḍu, anaemia with pallor (standard)",
+      "n": "41"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "alpa-agnau",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "small; fire (agni); alpāgni = weak digestive fire, poor digestion (standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "alpa-agnau",
+      "field": "gloss",
+      "value": "small; fire (agni); alpāgni = weak digestive fire, poor digestion (standard)",
+      "n": "41"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in pāṇḍu-ailment, when the fire (agni) is small,",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "in pāṇḍu-ailment (pāṇḍu disease: anaemia with pallor), when the fire (agni) is small (weak digestion),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in pāṇḍu-ailment, when the fire (agni) is small,",
+      "new": "in pāṇḍu-ailment (pāṇḍu disease: anaemia with pallor), when the fire (agni) is small (weak digestion),",
+      "n": "41"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाण्डु-आमय में, अल्प अग्नि होने पर",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "पाण्डु-आमय यानी रक्ताल्पता वाले पाण्डु रोग में, अल्प अग्नि यानी मन्द पाचन होने पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाण्डु-आमय में, अल्प अग्नि होने पर",
+      "new": "पाण्डु-आमय यानी रक्ताल्पता वाले पाण्डु रोग में, अल्प अग्नि यानी मन्द पाचन होने पर",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā",
+      "field": "gloss",
+      "value": "trivṛt (turpeth)",
+      "n": "42"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kauṭajam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "of kuṭaja (Holarrhena antidysenterica, kurchi; standard); the seed of kuṭaja is called indrayava",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kauṭajam",
+      "field": "gloss",
+      "value": "of kuṭaja (Holarrhena antidysenterica, kurchi; standard); the seed of kuṭaja is called indrayava",
+      "n": "42"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pippalī",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "pippalī (long pepper; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pippalī",
+      "field": "gloss",
+      "value": "pippalī (long pepper; standard)",
+      "n": "42"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viśva-bheṣajam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "viśvabheṣaja (dry ginger, śuṇṭhī; standard; lit. 'all-remedy')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśva-bheṣajam",
+      "field": "gloss",
+      "value": "viśvabheṣaja (dry ginger, śuṇṭhī; standard; lit. 'all-remedy')",
+      "n": "42"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Trivṛt (turpeth), the seed of kuṭaja (kurchi; this seed is called indrayava), pippalī (long pepper) and viśvabheṣaja (dry ginger).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Trivṛt (turpeth), the seed of kuṭaja (kurchi; this seed is called indrayava), pippalī (long pepper) and viśvabheṣaja (dry ginger).",
+      "n": "42"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्रिवृत् यानी निशोथ, कुटज का बीज यानी इन्द्रजौ, पिप्पली यानी पीपर और विश्वभेषज यानी सोंठ",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ, कुटज का बीज यानी इन्द्रजौ, पिप्पली यानी पीपर और विश्वभेषज यानी सोंठ",
+      "n": "42"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug names are not identified.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Identifications: kuṭaja = Holarrhena antidysenterica (standard), its seed = indrayava; viśvabheṣaja = śuṇṭhī, dry ginger (standard); pippalī = long pepper (standard); trivṛt = turpeth (standard, see unit 38).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug names are not identified.",
+      "new": "Identifications: kuṭaja = Holarrhena antidysenterica (standard), its seed = indrayava; viśvabheṣaja = śuṇṭhī, dry ginger (standard); pippalī = long pepper (standard); trivṛt = turpeth (standard, see unit 38).",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaudra-drākṣā-rasa-upetam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "honey; drākṣā (grape or raisin, Vitis vinifera; standard); juice; joined with",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaudra-drākṣā-rasa-upetam",
+      "field": "gloss",
+      "value": "honey; drākṣā (grape or raisin, Vitis vinifera; standard); juice; joined with",
+      "n": "43"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the juice of drākṣā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "the juice of drākṣā (grape or raisin)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the juice of drākṣā",
+      "new": "the juice of drākṣā (grape or raisin)",
+      "n": "43"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्राक्षा के रस",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "द्राक्षा यानी अंगूर या मुनक्का के रस",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्राक्षा के रस",
+      "new": "द्राक्षा यानी अंगूर या मुनक्का के रस",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛt-durālabhā-musta-śarkarā-udīcya-candanam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth); durālabhā (probably Fagonia cretica; Alhagi species also proposed, so disputed); musta (nut-grass, Cyperus rotundus; standard); sugar; udīcya (drug name, lit. 'northern'; probably hrīvera, Pavonia odorata, disputed; the reading of the word is itself only suggested); candana (sandalwood, probably Santalum album; probable; the text does not say white or red)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt-durālabhā-musta-śarkarā-udīcya-candanam",
+      "field": "gloss",
+      "value": "trivṛt (turpeth); durālabhā (probably Fagonia cretica; Alhagi species also proposed, so disputed); musta (nut-grass, Cyperus rotundus; standard); sugar; udīcya (drug name, lit. 'northern'; probably hrīvera, Pavonia odorata, disputed; the reading of the word is itself only suggested); candana (sandalwood, probably Santalum album; probable; the text does not say white or red)",
+      "n": "44"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Trivṛt (turpeth), durālabhā (probably Fagonia), musta (nut-grass), sugar, udīcya and candana (sandalwood).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Trivṛt (turpeth), durālabhā (probably Fagonia), musta (nut-grass), sugar, udīcya and candana (sandalwood).",
+      "n": "44"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, मुस्त यानी नागरमोथा, शर्करा, उदीच्य और चन्दन",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, मुस्त यानी नागरमोथा, शर्करा, उदीच्य और चन्दन",
+      "n": "44"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug-name list; candana kept as a name.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Drug-name list. Identifications: durālabhā = Fagonia cretica (probable; Alhagi species also given, so disputed); musta = Cyperus rotundus (standard); udīcya = probably hrīvera (Pavonia odorata; disputed), not enriched further in the translation because the reading is only suggested; candana = sandalwood, probably Santalum album (probable; white or red not stated).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug-name list; candana kept as a name.",
+      "new": "Drug-name list. Identifications: durālabhā = Fagonia cretica (probable; Alhagi species also given, so disputed); musta = Cyperus rotundus (standard); udīcya = probably hrīvera (Pavonia odorata; disputed), not enriched further in the translation because the reading is only suggested; candana = sandalwood, probably Santalum album (probable; white or red not stated).",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "drākṣā-ambunā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "drākṣā (grape or raisin, see unit 43); water",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "drākṣā-ambunā",
+      "field": "gloss",
+      "value": "drākṣā (grape or raisin, see unit 43); water",
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "With drākṣā water;",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "With drākṣā (grape or raisin) water;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "With drākṣā water;",
+      "new": "With drākṣā (grape or raisin) water;",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्राक्षा के जल के साथ;",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "द्राक्षा यानी अंगूर या मुनक्का के जल के साथ;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्राक्षा के जल के साथ;",
+      "new": "द्राक्षा यानी अंगूर या मुनक्का के जल के साथ;",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā",
+      "field": "gloss",
+      "value": "trivṛt (turpeth)",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "citrakam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "citraka (leadwort, Plumbago zeylanica; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "citrakam",
+      "field": "gloss",
+      "value": "citraka (leadwort, Plumbago zeylanica; standard)",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pāṭhām",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "pāṭhā (velvet-leaf, Cissampelos pareira; probable; other plants are also called pāṭhā)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pāṭhām",
+      "field": "gloss",
+      "value": "pāṭhā (velvet-leaf, Cissampelos pareira; probable; other plants are also called pāṭhā)",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ajājīm",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "ajājī (cumin, Cuminum cyminum; probable; usually the white cumin)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ajājīm",
+      "field": "gloss",
+      "value": "ajājī (cumin, Cuminum cyminum; probable; usually the white cumin)",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saralam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sarala (chir pine, Pinus roxburghii; probable; lit. 'straight')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saralam",
+      "field": "gloss",
+      "value": "sarala (chir pine, Pinus roxburghii; probable; lit. 'straight')",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vacām",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "vacā (sweet flag, Acorus calamus; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vacām",
+      "field": "gloss",
+      "value": "vacā (sweet flag, Acorus calamus; standard)",
+      "n": "46"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Trivṛt (turpeth), citraka (leadwort), pāṭhā (velvet-leaf), ajājī (cumin), sarala (chir pine) and vacā (sweet flag).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Trivṛt (turpeth), citraka (leadwort), pāṭhā (velvet-leaf), ajājī (cumin), sarala (chir pine) and vacā (sweet flag).",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्रिवृत् यानी निशोथ, चित्रक यानी चीता, पाठा यानी पाढ़, अजाजी यानी जीरा, सरल यानी चीड़ और वचा यानी बच",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ, चित्रक यानी चीता, पाठा यानी पाढ़, अजाजी यानी जीरा, सरल यानी चीड़ और वचा यानी बच",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "svarṇa-kṣīrīm",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "svarṇakṣīrī (usually Argemone mexicana, Mexican poppy; disputed, Euphorbia thomsoniana also proposed; lit. 'gold-milky')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "svarṇa-kṣīrīm",
+      "field": "gloss",
+      "value": "svarṇakṣīrī (usually Argemone mexicana, Mexican poppy; disputed, Euphorbia thomsoniana also proposed; lit. 'gold-milky')",
+      "n": "47"
+     }
+    },
+    {
+     "field": "english",
+     "where": "And svarṇakṣīrī;",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "And svarṇakṣīrī (usually taken as Mexican poppy; disputed);",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "And svarṇakṣīrī;",
+      "new": "And svarṇakṣīrī (usually taken as Mexican poppy; disputed);",
+      "n": "47"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और स्वर्णक्षीरी,",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "और स्वर्णक्षीरी यानी प्रायः सत्यानाशी,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और स्वर्णक्षीरी,",
+      "new": "और स्वर्णक्षीरी यानी प्रायः सत्यानाशी,",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā",
+      "field": "gloss",
+      "value": "trivṛt (turpeth)",
+      "n": "48"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Trivṛt equal",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "Trivṛt (turpeth) equal",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Trivṛt equal",
+      "new": "Trivṛt (turpeth) equal",
+      "n": "48"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "त्रिवृत् शर्करा",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "त्रिवृत् यानी निशोथ शर्करा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्रिवृत् शर्करा",
+      "new": "त्रिवृत् यानी निशोथ शर्करा",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā",
+      "field": "gloss",
+      "value": "trivṛt (turpeth)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dantī",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "dantī (probably Baliospermum montanum, wild croton; probable; the reading dantī is conjectural, see text flag)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dantī",
+      "field": "gloss",
+      "value": "dantī (probably Baliospermum montanum, wild croton; probable; the reading dantī is conjectural, see text flag)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hapuṣā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "hapuṣā (juniper berries, Juniperus communis; probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hapuṣā",
+      "field": "gloss",
+      "value": "hapuṣā (juniper berries, Juniperus communis; probable)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sātalā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sātalā (disputed: Euphorbia dracunculoides is often given, other plants proposed; identity uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sātalā",
+      "field": "gloss",
+      "value": "sātalā (disputed: Euphorbia dracunculoides is often given, other plants proposed; identity uncertain)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kaṭu-rohiṇīḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "kaṭurohiṇī (kutki, Picrorhiza kurroa; standard; lit. 'pungent' + 'rohiṇī')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kaṭu-rohiṇīḥ",
+      "field": "gloss",
+      "value": "kaṭurohiṇī (kutki, Picrorhiza kurroa; standard; lit. 'pungent' + 'rohiṇī')",
+      "n": "49"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Trivṛt (turpeth), dantī (probably wild croton), hapuṣā (juniper berries), sātalā (identity disputed) and kaṭurohiṇī (kutki).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Trivṛt (turpeth), dantī (probably wild croton), hapuṣā (juniper berries), sātalā (identity disputed) and kaṭurohiṇī (kutki).",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्रिवृत् यानी निशोथ, दन्ती यानी प्रायः जंगली जमालगोटा, हपुषा यानी हाऊबेर, सातला और कटुरोहिणी यानी कुटकी",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ, दन्ती यानी प्रायः जंगली जमालगोटा, हपुषा यानी हाऊबेर, सातला और कटुरोहिणी यानी कुटकी",
+      "n": "49"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug names not identified.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Identifications: hapuṣā = Juniperus communis (probable); sātalā = disputed (Euphorbia dracunculoides often given); kaṭurohiṇī = Picrorhiza kurroa (standard); dantī = Baliospermum montanum (probable) only if the conjectural reading dantī of the text flag is right.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug names not identified.",
+      "new": "Identifications: hapuṣā = Juniperus communis (probable); sātalā = disputed (Euphorbia dracunculoides often given); kaṭurohiṇī = Picrorhiza kurroa (standard); dantī = Baliospermum montanum (probable) only if the conjectural reading dantī of the text flag is right.",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "svarṇa-kṣīrīm",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "svarṇakṣīrī (see unit 47: usually Mexican poppy; disputed)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "svarṇa-kṣīrīm",
+      "field": "gloss",
+      "value": "svarṇakṣīrī (see unit 47: usually Mexican poppy; disputed)",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śyāmā-trivṛt-durālabhā-hasti-pippalī-vatsakam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "śyāmā (in the tradition the black kind of trivṛt, Operculina turpethum; disputed here because it is listed beside trivṛt, and other plants are also called śyāmā; lit. 'dark'); trivṛt (turpeth); durālabhā (see unit 44: probably Fagonia); hasti-pippalī (elephant-pippalī, Scindapsus officinalis; probable); vatsaka (kuṭaja, Holarrhena antidysenterica; standard; lit. 'calf')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śyāmā-trivṛt-durālabhā-hasti-pippalī-vatsakam",
+      "field": "gloss",
+      "value": "śyāmā (in the tradition the black kind of trivṛt, Operculina turpethum; disputed here because it is listed beside trivṛt, and other plants are also called śyāmā; lit. 'dark'); trivṛt (turpeth); durālabhā (see unit 44: probably Fagonia); hasti-pippalī (elephant-pippalī, Scindapsus officinalis; probable); vatsaka (kuṭaja, Holarrhena antidysenterica; standard; lit. 'calf')",
+      "n": "52"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Śyāmā, trivṛt (turpeth), durālabhā (probably Fagonia), hastipippalī (elephant-pippalī) and vatsaka (kuṭaja, kurchi).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Śyāmā, trivṛt (turpeth), durālabhā (probably Fagonia), hastipippalī (elephant-pippalī) and vatsaka (kuṭaja, kurchi).",
+      "n": "52"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "श्यामा, त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, हस्तिपिप्पली यानी गजपीपल और वत्सक यानी कुटज",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "श्यामा, त्रिवृत् यानी निशोथ, दुरालभा यानी प्रायः धमासा, हस्तिपिप्पली यानी गजपीपल और वत्सक यानी कुटज",
+      "n": "52"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug names not identified.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Identifications: śyāmā = black trivṛt in the tradition (disputed here); hastipippalī = Scindapsus officinalis (probable); vatsaka = kuṭaja, Holarrhena antidysenterica (standard).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug names not identified.",
+      "new": "Identifications: śyāmā = black trivṛt in the tradition (disputed here); hastipippalī = Scindapsus officinalis (probable); vatsaka = kuṭaja, Holarrhena antidysenterica (standard).",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "nīlinī-kaṭukā-musta-śreṣṭhā-yuktam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "nīlinī (indigo plant, Indigofera tinctoria; probable); kaṭukā (kutki, Picrorhiza kurroa, as in unit 49; probable; lit. 'pungent'); musta (nut-grass); śreṣṭhā (unidentified; lit. 'best'); joined with",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "nīlinī-kaṭukā-musta-śreṣṭhā-yuktam",
+      "field": "gloss",
+      "value": "nīlinī (indigo plant, Indigofera tinctoria; probable); kaṭukā (kutki, Picrorhiza kurroa, as in unit 49; probable; lit. 'pungent'); musta (nut-grass); śreṣṭhā (unidentified; lit. 'best'); joined with",
+      "n": "53"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Joined with nīlinī (indigo), kaṭukā (kutki), musta (nut-grass) and śreṣṭhā, well powdered.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Joined with nīlinī (indigo), kaṭukā (kutki), musta (nut-grass) and śreṣṭhā, well powdered.",
+      "n": "53"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "नीलिनी यानी नील, कटुका यानी कुटकी, मुस्त यानी नागरमोथा और श्रेष्ठा से युक्त, भली-भाँति चूर्ण किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "नीलिनी यानी नील, कटुका यानी कुटकी, मुस्त यानी नागरमोथा और श्रेष्ठा से युक्त, भली-भाँति चूर्ण किया हुआ",
+      "n": "53"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Enrichment: identification and confidence.",
+     "fix": "Identifications: nīlinī = indigo, Indigofera tinctoria (probable); kaṭukā = kutki (probable); śreṣṭhā = unidentified (sometimes read as a name of a myrobalan; disputed).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Identifications: nīlinī = indigo, Indigofera tinctoria (probable); kaṭukā = kutki (probable); śreṣṭhā = unidentified (sometimes read as a name of a myrobalan; disputed).",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tri-ūṣaṇam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "tryūṣaṇa (a set of three pungent drugs = vyoṣa: dry ginger, long pepper, black pepper; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tri-ūṣaṇam",
+      "field": "gloss",
+      "value": "tryūṣaṇa (a set of three pungent drugs = vyoṣa: dry ginger, long pepper, black pepper; standard)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "triphalā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "triphalā (a set of three fruits: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Indian gooseberry; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "triphalā",
+      "field": "gloss",
+      "value": "triphalā (a set of three fruits: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Indian gooseberry; standard)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hiṅgu",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "hiṅgu (asafoetida, Ferula assa-foetida; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hiṅgu",
+      "field": "gloss",
+      "value": "hiṅgu (asafoetida, Ferula assa-foetida; standard)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trivṛtā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā",
+      "field": "gloss",
+      "value": "trivṛt (turpeth)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "Tryūṣaṇa (dry ginger, long pepper, black pepper), triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka), hiṅgu (asafoetida), of a karṣa measure; trivṛt (turpeth), one pala.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Tryūṣaṇa (dry ginger, long pepper, black pepper), triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka), hiṅgu (asafoetida), of a karṣa measure; trivṛt (turpeth), one pala.",
+      "n": "55"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्र्यूषण यानी सोंठ पीपर और काली मिर्च, त्रिफला यानी हरड़ बहेड़ा और आँवला, हिंगु यानी हींग, एक कर्ष परिमाण, त्रिवृत् यानी निशोथ एक पल",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्र्यूषण यानी सोंठ पीपर और काली मिर्च, त्रिफला यानी हरड़ बहेड़ा और आँवला, हिंगु यानी हींग, एक कर्ष परिमाण, त्रिवृत् यानी निशोथ एक पल",
+      "n": "55"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sauvarcalā",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sauvarcala (black salt, kāla namak; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sauvarcalā",
+      "field": "gloss",
+      "value": "sauvarcala (black salt, kāla namak; standard)",
+      "n": "56"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "amla-vetasāt",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sour; amlavetasa (disputed: Garcinia pedunculata and other sour plants are proposed)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "amla-vetasāt",
+      "field": "gloss",
+      "value": "sour; amlavetasa (disputed: Garcinia pedunculata and other sour plants are proposed)",
+      "n": "56"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sauvarcalā half a karṣa",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sauvarcalā (black salt) half a karṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "sauvarcalā half a karṣa",
+      "new": "sauvarcalā (black salt) half a karṣa",
+      "n": "56"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सौवर्चल आधा कर्ष",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "सौवर्चल यानी काला नमक आधा कर्ष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौवर्चल आधा कर्ष",
+      "new": "सौवर्चल यानी काला नमक आधा कर्ष",
+      "n": "56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "gulma-pārśva-ārti-nut",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "gulma (lump, cluster; abdominal lump or mass, standard rendering); flank; pain; driving away",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "gulma-pārśva-ārti-nut",
+      "field": "gloss",
+      "value": "gulma (lump, cluster; abdominal lump or mass, standard rendering); flank; pain; driving away",
+      "n": "58"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a driver-away of gulma and flank-pain",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "a driver-away of gulma (abdominal lump) and flank-pain",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a driver-away of gulma and flank-pain",
+      "new": "a driver-away of gulma (abdominal lump) and flank-pain",
+      "n": "58"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गुल्म और पार्श्व की पीड़ा",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "गुल्म यानी पेट की गाँठ और पार्श्व की पीड़ा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुल्म और पार्श्व की पीड़ा",
+      "new": "गुल्म यानी पेट की गाँठ और पार्श्व की पीड़ा",
+      "n": "58"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "append",
+     "problem": "Enrichment: identification and confidence.",
+     "fix": "Modern equivalents: gulma = abdominal lump or mass (standard rendering); pārśvārti = pain in the flank.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Modern equivalents: gulma = abdominal lump or mass (standard rendering); pārśvārti = pain in the flank.",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā-triphalā-dantī-sātalā-vyoṣa-saindhavaiḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth); triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka); dantī (see unit 49); sātalā (disputed, see unit 49); vyoṣa (dry ginger, long pepper, black pepper); saindhava (rock salt; standard; lit. 'of Sindhu')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā-triphalā-dantī-sātalā-vyoṣa-saindhavaiḥ",
+      "field": "gloss",
+      "value": "trivṛt (turpeth); triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka); dantī (see unit 49); sātalā (disputed, see unit 49); vyoṣa (dry ginger, long pepper, black pepper); saindhava (rock salt; standard; lit. 'of Sindhu')",
+      "n": "59"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "With trivṛt (turpeth), triphalā (the three myrobalans), dantī, sātalā, vyoṣa (dry ginger, long pepper, black pepper) and saindhava (rock salt).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "With trivṛt (turpeth), triphalā (the three myrobalans), dantī, sātalā, vyoṣa (dry ginger, long pepper, black pepper) and saindhava (rock salt).",
+      "n": "59"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "त्रिवृत् यानी निशोथ, त्रिफला यानी हरड़ बहेड़ा और आँवला, दन्ती, सातला, व्योष यानी सोंठ पीपर और काली मिर्च और सैन्धव यानी सेंधा नमक के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "त्रिवृत् यानी निशोथ, त्रिफला यानी हरड़ बहेड़ा और आँवला, दन्ती, सातला, व्योष यानी सोंठ पीपर और काली मिर्च और सैन्धव यानी सेंधा नमक के साथ",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āmalakāt",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "from āmalaka (Indian gooseberry)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āmalakāt",
+      "field": "gloss",
+      "value": "from āmalaka (Indian gooseberry)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "english",
+     "where": "juice from āmalaka",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "juice from āmalaka (Indian gooseberry)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "juice from āmalaka",
+      "new": "juice from āmalaka (Indian gooseberry)",
+      "n": "60"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आमलक के रस",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "आमलक यानी आँवला के रस",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आमलक के रस",
+      "new": "आमलक यानी आँवला के रस",
+      "n": "60"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛtā-kalka-siddham",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth); paste; cooked",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛtā-kalka-siddham",
+      "field": "gloss",
+      "value": "trivṛt (turpeth); paste; cooked",
+      "n": "62"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gulma-haram",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "gulma (abdominal lump); taking away",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "gulma-haram",
+      "field": "gloss",
+      "value": "gulma (abdominal lump); taking away",
+      "n": "62"
+     }
+    },
+    {
+     "field": "english",
+     "where": "paste of trivṛt,",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "paste of trivṛt (turpeth),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "paste of trivṛt,",
+      "new": "paste of trivṛt (turpeth),",
+      "n": "62"
+     }
+    },
+    {
+     "field": "english",
+     "where": "takes away gulma.",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "takes away gulma (abdominal lump).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "takes away gulma.",
+      "new": "takes away gulma (abdominal lump).",
+      "n": "62"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "त्रिवृत् के कल्क",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "त्रिवृत् यानी निशोथ के कल्क",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्रिवृत् के कल्क",
+      "new": "त्रिवृत् यानी निशोथ के कल्क",
+      "n": "62"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गुल्म को हरने वाला",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "गुल्म यानी पेट की गाँठ को हरने वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुल्म को हरने वाला",
+      "new": "गुल्म यानी पेट की गाँठ को हरने वाला",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śyāmā-trivṛt-kaṣāyeṇa",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "śyāmā (see unit 52); trivṛt (turpeth); decoction",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śyāmā-trivṛt-kaṣāyeṇa",
+      "field": "gloss",
+      "value": "śyāmā (see unit 52); trivṛt (turpeth); decoction",
+      "n": "63"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śyāmā and trivṛt,",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "śyāmā and trivṛt (turpeth),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "śyāmā and trivṛt,",
+      "new": "śyāmā and trivṛt (turpeth),",
+      "n": "63"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "trivṛt-muṣṭīn",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "trivṛt (turpeth); handfuls",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trivṛt-muṣṭīn",
+      "field": "gloss",
+      "value": "trivṛt (turpeth); handfuls",
+      "n": "64"
+     }
+    },
+    {
+     "field": "english",
+     "where": "eight handfuls of trivṛt,",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "eight handfuls of trivṛt (turpeth),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "eight handfuls of trivṛt,",
+      "new": "eight handfuls of trivṛt (turpeth),",
+      "n": "64"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "त्रिवृत् की नखसहित",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "त्रिवृत् यानी निशोथ की नखसहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्रिवृत् की नखसहित",
+      "new": "त्रिवृत् यानी निशोथ की नखसहित",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaudra-pippalī-phala-citrakaiḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "honey; pippalī (long pepper); fruit; citraka (leadwort)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaudra-pippalī-phala-citrakaiḥ",
+      "field": "gloss",
+      "value": "honey; pippalī (long pepper); fruit; citraka (leadwort)",
+      "n": "66"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the fruit of pippalī and citraka",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "the fruit of pippalī (long pepper) and citraka (leadwort)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fruit of pippalī and citraka",
+      "new": "the fruit of pippalī (long pepper) and citraka (leadwort)",
+      "n": "66"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पिप्पली के फल और चित्रक के साथ",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "पिप्पली यानी पीपर के फल और चित्रक यानी चीता के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिप्पली के फल और चित्रक के साथ",
+      "new": "पिप्पली यानी पीपर के फल और चित्रक यानी चीता के साथ",
+      "n": "66"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pāṇḍu-śvayathu-gulma-jit",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "pale (pāṇḍu; as a disease name, anaemia with pallor); swelling; gulma (abdominal lump); conquering",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pāṇḍu-śvayathu-gulma-jit",
+      "field": "gloss",
+      "value": "pale (pāṇḍu; as a disease name, anaemia with pallor); swelling; gulma (abdominal lump); conquering",
+      "n": "67"
+     }
+    },
+    {
+     "field": "english",
+     "where": "it conquers pāṇḍu, swelling and gulma.",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "it conquers pāṇḍu (anaemia), swelling and gulma (abdominal lump).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "it conquers pāṇḍu, swelling and gulma.",
+      "new": "it conquers pāṇḍu (anaemia), swelling and gulma (abdominal lump).",
+      "n": "67"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाण्डु, शोथ और गुल्म को जीतने",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "पाण्डु यानी रक्ताल्पता, शोथ यानी सूजन और गुल्म यानी पेट की गाँठ को जीतने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाण्डु, शोथ और गुल्म को जीतने",
+      "new": "पाण्डु यानी रक्ताल्पता, शोथ यानी सूजन और गुल्म यानी पेट की गाँठ को जीतने",
+      "n": "67"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yavaiḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "with yava (barley, Hordeum vulgare; standard) grains",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yavaiḥ",
+      "field": "gloss",
+      "value": "with yava (barley, Hordeum vulgare; standard) grains",
+      "n": "69"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्वेदित यव के दानों",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "स्वेदित यव यानी जौ के दानों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वेदित यव के दानों",
+      "new": "स्वेदित यव यानी जौ के दानों",
+      "n": "69"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sauvīrakam",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "sauvīraka (a sour fermented drink, here from barley; standard)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sauvīrakam",
+      "field": "gloss",
+      "value": "sauvīraka (a sour fermented drink, here from barley; standard)",
+      "n": "70"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the sauvīraka that has arisen",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "the sauvīraka (a sour fermented barley drink) that has arisen",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the sauvīraka that has arisen",
+      "new": "the sauvīraka (a sour fermented barley drink) that has arisen",
+      "n": "70"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सौवीरक पिए",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "सौवीरक यानी खट्टा किण्वित पेय पिए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौवीरक पिए",
+      "new": "सौवीरक यानी खट्टा किण्वित पेय पिए",
+      "n": "70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सूखे यव,",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "सूखे यव यानी जौ,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूखे यव,",
+      "new": "सूखे यव यानी जौ,",
+      "n": "71"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jvara",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "fever (jvara; first member of compound)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jvara",
+      "field": "gloss",
+      "value": "fever (jvara; first member of compound)",
+      "n": "73"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hṛd-roga-vāta-asṛj-udāvarta-ādi-rogiṣu",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "heart; ailment (hṛdroga: heart disease); Vāta; blood (vātāsṛj; if read as one term, vātarakta, a gout-like disease; probable); udāvarta (upward turning: reversed movement of Vāta with retention of stool and wind); and so on; those who have an ailment",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hṛd-roga-vāta-asṛj-udāvarta-ādi-rogiṣu",
+      "field": "gloss",
+      "value": "heart; ailment (hṛdroga: heart disease); Vāta; blood (vātāsṛj; if read as one term, vātarakta, a gout-like disease; probable); udāvarta (upward turning: reversed movement of Vāta with retention of stool and wind); and so on; those who have an ailment",
+      "n": "73"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Enrichment: modern names beside the Sanskrit terms.",
+     "fix": "In those afflicted with fever, heart-ailment (heart disease), Vāta-blood (perhaps vātarakta, a gout-like disease), udāvarta (reversed movement of Vāta, with retention of stool and wind) and the like.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "In those afflicted with fever, heart-ailment (heart disease), Vāta-blood (perhaps vātarakta, a gout-like disease), udāvarta (reversed movement of Vāta, with retention of stool and wind) and the like.",
+      "n": "73"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Enrichment: ordinary Hindi names after the Sanskrit terms.",
+     "fix": "ज्वर यानी बुखार, हृद्रोग यानी हृदय रोग, वातासृक्, उदावर्त यानी वायु की उलटी गति से होने वाला रोग आदि रोग वालों में",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ज्वर यानी बुखार, हृद्रोग यानी हृदय रोग, वातासृक्, उदावर्त यानी वायु की उलटी गति से होने वाला रोग आदि रोग वालों में",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rāja-vṛkṣaḥ",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "rājavṛkṣa (golden shower tree, Cassia fistula, i.e. āragvadha; standard; lit. 'king-tree')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rāja-vṛkṣaḥ",
+      "field": "gloss",
+      "value": "rājavṛkṣa (golden shower tree, Cassia fistula, i.e. āragvadha; standard; lit. 'king-tree')",
+      "n": "74"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Rājavṛkṣa is",
+     "problem": "Enrichment: modern name beside the Sanskrit term.",
+     "fix": "Rājavṛkṣa (golden shower tree) is",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Rājavṛkṣa is",
+      "new": "Rājavṛkṣa (golden shower tree) is",
+      "n": "74"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राजवृक्ष विशेष",
+     "problem": "Enrichment: ordinary Hindi name after the Sanskrit term.",
+     "fix": "राजवृक्ष यानी अमलतास विशेष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजवृक्ष विशेष",
+      "new": "राजवृक्ष यानी अमलतास विशेष",
+      "n": "74"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Drug not identified.",
+     "problem": "Old note forbade identification; replaced under owner policy.",
+     "fix": "Rājavṛkṣa = golden shower tree, Cassia fistula, i.e. āragvadha (standard; Hindi amaltas).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Drug not identified.",
+      "new": "Rājavṛkṣa = golden shower tree, Cassia fistula, i.e. āragvadha (standard; Hindi amaltas).",
+      "n": "74"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Enrichment pass, chunk 2 (units 38-74): modern plant, drug-group and disease names added beside the Sanskrit terms in gloss, english, hindi and notes only. Identifications tagged standard/probable/disputed/unidentified; no word split, src, gram, flags or confidence changed. Units 61 and 68 (low confidence) and 39, 51, 54, 57, 65, 72 left alone."
+}
