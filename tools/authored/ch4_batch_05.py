@@ -15,7 +15,7 @@ AUTHORED["54"] = {
                "possibly corrupt and its relation to the rest is uncertain, so "
                "nothing is taught from it. The sentence runs on into unit 55. "
                "The sense of मंदमंद ('gently') is a reading."),
-    "explain_hi": ("यह इकाई वर्षा के वर्णन में आती है, पर इसकी दूसरी पंक्ति छपाई में स्पष्ट नहीं है, "
+    "explain_hi": ("यह इकाई एक लंबे वर्णन का आरंभ है, पर इसकी दूसरी पंक्ति छपाई में स्पष्ट नहीं है, "
                    "इसलिए केवल पहली पंक्ति पर भरोसा किया गया है। पहली पंक्ति में आकाश (नभः) का चित्र है: "
                    "वह कटे हुए इंद्रनील मणि जैसे नीले बादलों से धुँधला हुआ है। शब्द एक लंबे समास में जुड़े हैं, "
                    "इसलिए उन्हें टुकड़ों में पहचानना ज़रूरी है। वाक्य अगली इकाई में भी चलता है।"),
@@ -24,17 +24,17 @@ AUTHORED["54"] = {
     "questions": [
         mcq("pretest", 0, "In line 1, what is said to be dimmed by clouds blue like cut sapphire?",
             ("The sky (नभः)", "नभः is the noun of line 1: the sky."),
-            [("The river", "No river is named in line 1."),
-             ("The sun", "No sun is named in line 1."),
-             ("The forest", "No forest is named in line 1.")],
+            [("The river in the valley", "No river is named in line 1."),
+             ("The sun above the hills", "No sun is named in line 1."),
+             ("The forest on the slope", "No forest is named in line 1.")],
             "The last word of line 1, नभः, is the sky; the long compound before it describes it.",
             "नभः = sky; the clouds are blue like cut sapphire."),
-        match(1, "Match each piece of the line 1 compound to its meaning.",
+        match(1, "Match each word of line 1 to its meaning.",
               [["इंद्रनील", "sapphire"], ["नील", "blue"], ["अभ्र", "cloud"], ["नभः", "sky"]],
               "These pieces carry the picture: blue clouds, sapphire-like, over the sky.",
               "इंद्रनील = sapphire; नील = blue; अभ्र = cloud; नभः = sky."),
         fill(2, "The word for 'sky' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("नभः"),
+             accepts("नभः", "nabhaḥ", "नभ", "nabhah"),
              "नभः is the sky, the thing that the compound describes.",
              "नभः is a neuter noun, nominative singular; the long compound before it describes it.",
              "नभः = sky."),
@@ -74,7 +74,7 @@ AUTHORED["55"] = {
     "title": "वारिधाराभृशाघात",
     "question": "What do the rivers and the earth look like here?",
     "rule": ("The rivers are ocean-shaped (सागराकाराः) and the earth (भूः) has water and "
-             "land indistinct (अव्यक्तजलस्थला). Line 1 speaks of lotuses and heavy streams of water."),
+             "land indistinct (अव्यक्तजलस्थला); आकार = shape. Line 1 speaks of lotuses and heavy streams of water."),
     "limits": ("There is no verb. In line 1 the sense of आशित ('ruined') is a reading "
                "(असित 'dark' is a suggestion), so no question rests on it. The season "
                "is not named in this unit."),
@@ -87,9 +87,9 @@ AUTHORED["55"] = {
     "questions": [
         mcq("pretest", 0, "Which is said to be ocean-shaped in line 2?",
             ("The rivers (सरितः)", "सरितः सागराकाराः: the rivers are ocean-shaped."),
-            [("The lotuses", "Lotuses belong to line 1 and are not called ocean-shaped."),
-             ("The clouds", "No clouds are named in this unit."),
-             ("The hills", "No hills are named in this unit.")],
+            [("The lotus ponds (कमल)", "Lotuses belong to line 1 and are not called ocean-shaped."),
+             ("The dark clouds (मेघ)", "No clouds are named in this unit."),
+             ("The high hills (गिरि)", "No hills are named in this unit.")],
             "Line 2 begins सरितः सागराकारा: the rivers are ocean-shaped.",
             "सरितः = rivers; सागराकाराः = ocean-shaped."),
         match(1, "Match each word of line 2 to its meaning.",
@@ -105,10 +105,10 @@ AUTHORED["55"] = {
             "Visarga after a vowel other than अ/आ + vowel → र्.",
             teaches="A visarga after a vowel other than अ or आ turns into र् before a vowel (भूः + अ… = भूर्…)."),
         mcq("discriminate", 3, "Which is the right translation of line 2?",
-            ("The rivers are ocean-shaped; the earth has water and land indistinct",
+            ("Rivers look like oceans; earth shows no clear water-land line",
              "Both parts follow the words सागराकाराः and अव्यक्तजलस्थला."),
             [("The rivers are dry; the earth has water and land clear", "Neither part matches: अव्यक्त is indistinct."),
-             ("The rivers are ocean-shaped; the earth has only dry land", "जलस्थला names water and land together, indistinct."),
+             ("The rivers are ocean-shaped; the earth has only dry land everywhere", "जलस्थला names water and land together, indistinct."),
              ("The oceans are river-shaped; the earth has water and land clear", "सागर is in the comparison: rivers look like oceans.")],
             "Line 2 says the rivers look like oceans and the earth has no clear line between water and land.",
             "सागराकाराः (rivers) · अव्यक्तजलस्थला (earth)."),
@@ -153,27 +153,27 @@ AUTHORED["56"] = {
     "questions": [
         mcq("pretest", 0, "By which three does line 1 say the earth resounds?",
             ("Clouds, peacocks and frogs", "जीमूत, शिखी, दर्दुर: clouds, peacocks, frogs."),
-            [("Rivers, swans and fish", "None of these is named in line 1."),
-             ("Bees, cuckoos and cranes", "None of these is named in line 1."),
-             ("Winds, drums and bells", "None of these is named in line 1.")],
+            [("Rivers, swans and fish alike", "None of these is named in line 1."),
+             ("Bees, cuckoos and cranes together", "None of these is named in line 1."),
+             ("Winds, drums and bells together", "None of these is named in line 1.")],
             "Line 1 names the deep thunder of clouds and the sounds of peacocks and frogs.",
             "जीमूत (cloud) · शिखी (peacock) · दर्दुर (frog) sound; the earth is नादिता."),
-        match(1, "Match each creature or thing of the unit to its meaning.",
-              [["जीमूत", "cloud"], ["शिखी", "peacock"], ["दर्दुर", "frog"], ["विद्युत्", "lightning"]],
-              "The first three make the sounds of line 1; lightning is the last item of line 2.",
-              "जीमूत = cloud; शिखी = peacock; दर्दुर = frog; विद्युत् = lightning."),
-        fill(2, "The word for 'frog' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("दर्दुर"),
-             "दर्दुर is the frog, the third sound-maker of line 1.",
-             "दर्दुर names the frog; with the cloud and the peacock it makes the three sound-makers.",
-             "दर्दुर = frog."),
+        match(1, "Match each word of the unit to its meaning.",
+              [["जीमूत", "cloud"], ["मंद्र", "deep"], ["दर्दुर", "frog"], ["विद्युत्", "lightning"]],
+              "मंद्र (deep) and the cloud and frog belong to line 1; lightning is the last item of line 2.",
+              "जीमूत = cloud; मंद्र = deep; दर्दुर = frog; विद्युत् = lightning."),
+        fill(2, "The word for 'peacock' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("शिखी", "शिखि", "shikhi"),
+             "शिखी is the peacock, the second sound-maker of line 1.",
+             "शिखी names the peacock; with the cloud and the frog it makes the three sound-makers.",
+             "शिखी = peacock."),
         multi("discriminate", 3, "Which three does line 2 say light up the earth?",
-              [("indragopa insects (इंद्रगोप)", "Right: the first item of line 2."),
+              [("peacocks (शिखी)", "Peacocks belong to line 1 and are among the sounds."),
+               ("indragopa insects (इंद्रगोप)", "Right: the first item of line 2."),
+               ("frogs (दर्दुर)", "Frogs belong to line 1 and are among the sounds."),
                ("fragments of the bow (धनुःखंड)", "Right: the second item of line 2."),
-               ("flashes of lightning (विद्युदुद्योत)", "Right: the third item of line 2."),
-               ("peacocks (शिखी)", "Peacocks belong to line 1 and are among the sounds."),
-               ("frogs (दर्दुर)", "Frogs belong to line 1 and are among the sounds.")],
-              [0, 1, 2],
+               ("flashes of lightning (विद्युदुद्योत)", "Right: the third item of line 2.")],
+              [1, 3, 4],
               "Line 2 lists indragopa insects, bow-fragments and lightning flashes as what lights the earth.",
               "दीपिता (lit) by इंद्रगोप · धनुःखंड · विद्युदुद्योत."),
         order(4, "Put the three things that light the earth in the order of line 2.",
@@ -182,9 +182,9 @@ AUTHORED["56"] = {
               "इंद्रगोप · धनुःखंड · विद्युदुद्योत.", role="apply"),
         mcq("transfer", 5, "In an invented phrase भ्रमरनादिता वनभूः, what does the forest ground do?",
             ("It resounds with bees", "-नादिता is feminine, 'resounding with', like मंद्र…नादिता."),
-            [("It is lit by bees", "Lit would be -दीपिता, as in line 2."),
-             ("It is stung by bees", "Nothing in -नादिता means stung."),
-             ("It is free from bees", "Free from would be -वर्जिता or -रहिता.")],
+            [("It is lit up by the bees", "Lit would be -दीपिता, as in line 2."),
+             ("It is stung by many bees", "Nothing in -नादिता means stung."),
+             ("It is entirely free from bees", "Free from would be -वर्जिता or -रहिता.")],
             "नादिता means resounding; the first part of the compound names what makes the sound, as दर्दुर does.",
             "X-नादिता = resounding with X; X-दीपिता = lit by X.",
             teaches="A feminine compound ending in -नादिता means 'resounding with' the first part, and -दीपिता means 'lit by' it."),
@@ -214,39 +214,40 @@ AUTHORED["57"] = {
     "title": "परितः श्यामलतृणा",
     "question": "How is the earth described, and what starts line 2?",
     "rule": ("Line 1: the earth has dark-green grass all around and is bright with "
-             "śilīndhra and kuṭaja. Line 2 starts a new clause: at that time, body "
-             "weak, fire dull and afflicted again, all in the locative."),
+             "śilīndhra and kuṭaja. Line 2 starts a new clause: at that time (तदा), then "
+             "body weak, fire dull and afflicted, again (पुनः); the nouns and participles "
+             "देहे, मंदेऽग्नौ, बाधिते (and आदानाबले) are locatives."),
     "limits": ("Line 2 is not a complete sentence: it goes on in unit 58. ‘आदान’ is "
                "not explained here. शिलींध्र and कुटज are names only."),
     "explain_hi": ("पहली पंक्ति पृथ्वी का वर्णन पूरा करती है: चारों ओर गहरी हरी घास, और शिलींध्र तथा कुटज से उज्ज्वल। "
                    "दूसरी पंक्ति नया वाक्य खोलती है: ‘तदा’ (उस समय), जब शरीर आदान के कारण निर्बल हो, अग्नि मंद हो "
-                   "और फिर बाधित हो। ये तीनों सप्तमी में हैं, और मुख्य क्रिया अगली इकाई में आती है। "
+                   "और फिर बाधित हो। देहे, मंदे-अग्नौ और बाधिते सप्तमी में हैं, और मुख्य क्रिया अगली इकाई में आती है। "
                    "इसलिए इस इकाई से केवल इन्हीं बातों पर प्रश्न बने हैं।"),
     "hook": "हरी घास की धरती; फिर ‘उस समय’ की शर्तें शुरू।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What grass does line 1 say the earth has all around?",
             ("Dark-green grass (श्यामलतृणा)", "श्यामल = dark-green, तृण = grass."),
-            [("Dry yellow grass", "श्यामल is dark-green, not yellow or dry."),
-             ("No grass at all", "तृणा names grass the earth has."),
-             ("White flowering grass", "No white flowers are mentioned here.")],
+            [("Dry yellow grass of summer", "श्यामल is dark-green, not yellow or dry."),
+             ("No grass anywhere at all", "तृणा names grass the earth has."),
+             ("White flowering grass in bloom", "No white flowers are mentioned here.")],
             "परितः श्यामलतृणा: all around, with dark-green grass.",
             "परितः = all around; श्यामल = dark-green; तृण = grass."),
         match(1, "Match each word of line 1 to its meaning.",
               [["परितः", "all around"], ["श्यामल", "dark-green"], ["तृण", "grass"], ["उज्ज्वल", "bright"]],
               "These four words build line 1.",
               "परितः = all around; श्यामल = dark-green; तृण = grass; उज्ज्वल = bright."),
-        mcq("extend", 2, "In line 2, which three words are all in the locative case?",
+        mcq("extend", 2, "In line 2, which group contains only locative forms?",
             ("देहे, मंदेऽग्नौ, बाधिते", "Each ends in a locative sign (-ए, -औ): in the body, the fire dull, afflicted."),
             [("तदा, पुनः, देहे", "तदा and पुनः are indeclinables, not locative forms."),
              ("आदानाबले, पुनः, तदा", "पुनः and तदा are indeclinables."),
              ("मंदेऽग्नौ, तदा, पुनः", "तदा and पुनः are indeclinables.")],
-            "देहे (in the body), मंदे and अग्नौ (in the fire, dull), बाधिते (afflicted) all stand in the locative.",
+            "देहे (in the body), मंदे and अग्नौ (in the fire, dull), बाधिते (afflicted) are locative, and so is आदानाबले; तदा and पुनः are indeclinables.",
             "Locative absolute: noun + participle both locative = 'when X is Y'.",
             teaches="Two or more words in the locative can together mean 'when X is Y' (a locative absolute); the main verb comes later."),
         mcq("discriminate", 3, "Which is the right sandhi result of मंदे + अग्नौ?",
             ("मंदेऽग्नौ", "-ए before अ keeps ए and drops the अ, marked by ऽ."),
-            [("मंदयग्नौ", "ए + अ would not give य् + अ here."),
+            [("मंदयग्नौ", "Final ए before a short अ keeps ए (the अ is dropped and marked ऽ); it is not changed to य्."),
              ("मंदाग्नौ", "ए + अ does not give long आ."),
              ("मंदैग्नौ", "ए + अ does not give ऐ.")],
             "Final -ए followed by a short अ stays ए, and the अ is shown by the avagraha mark ऽ.",
@@ -291,9 +292,9 @@ AUTHORED["58"] = {
     "questions": [
         mcq("pretest", 0, "Which procedure does line 2 say one should resort to?",
             ("The basti procedure (बस्तिकर्म)", "बस्तिकर्म निषेवेत: one should resort to the basti procedure."),
-            [("The ploughing of fields", "Nothing like this is in the unit."),
-             ("The building of a house", "Nothing like this is in the unit."),
-             ("The bathing of elephants", "Nothing like this is in the unit.")],
+            [("The oil massage (अभ्यंग)", "Not named in line 2."),
+             ("The fasting course (उपवास)", "Not named in line 2."),
+             ("The sweating procedure (स्वेदन)", "Not named in line 2.")],
             "Line 2 gives the instruction बस्तिकर्म निषेवेत.",
             "बस्तिकर्म + निषेवेत = one should resort to the basti procedure."),
         match(1, "Match each word of line 2 to its meaning.",
@@ -310,9 +311,9 @@ AUTHORED["58"] = {
             "-एत् / -एत = optative 'should'.",
             teaches="A verb ending in -एत् (or -एत in the middle voice) says what one should do (निषेवेत, वसेत्)."),
         mcq("discriminate", 3, "Which is the right translation of line 2?",
-            ("One should resort to the basti procedure, having completed the course of cleansing",
+            ("One should resort to basti, having completed the course of cleansing",
              "बस्तिकर्म निषेवेत; कृतसंशोधनक्रमः = one who has completed the course of cleansing."),
-            [("One should avoid the basti procedure, having completed the course of cleansing",
+            [("One should avoid the basti procedure, having completed the whole course of cleansing",
               "निषेवेत means resort to, not avoid."),
              ("One should resort to cleansing, having completed the basti procedure",
               "The completed course is the cleansing, and basti is what follows."),
@@ -324,14 +325,14 @@ AUTHORED["58"] = {
               ["बस्तिकर्म", "निषेवेत", "कृतसंशोधनक्रमः"],
               "Line 2 runs: basti procedure, should resort to, one who has completed the course of cleansing.",
               "बस्तिकर्म · निषेवेत · कृतसंशोधनक्रमः.", role="apply"),
-        mcq("transfer", 5, "Which phrase means one should abandon pride?",
-            ("मानं त्यजेत्", "An accusative object plus a -एत् verb: 'should abandon pride'."),
-            [("मानं त्यजति", "This is the plain present: 'abandons pride'."),
-             ("मानं अत्यजत्", "This is a past form: 'abandoned pride'."),
-             ("मानः त्यागः", "Two nouns: 'pride, abandonment', no verb.")],
+        mcq("transfer", 5, "Which phrase means one should read the book?",
+            ("ग्रंथं पठेत्", "An accusative object plus a -एत् verb: 'should read the book'."),
+            [("ग्रंथं पठति", "This is the plain present: 'reads the book'."),
+             ("ग्रंथम् अपठत्", "This is a past form: 'read the book'."),
+             ("ग्रंथः पाठः", "Two nouns: 'book, reading', no verb.")],
             "Like बस्तिकर्म निषेवेत, the object stands in the accusative and the verb ends in -एत्.",
             "Object (accusative) + -एत् verb = 'should do X'.",
-            teaches="A command in the verse is an object plus a verb in -एत्: मानं त्यजेत् = 'one should abandon pride'."),
+            teaches="A command in the verse is an object plus a verb in -एत्: ग्रंथं पठेत् = 'one should read the book'."),
     ],
 }
 NOTES_HI["58"] = ("विश्वास: उच्च। यह इकाई ५७ का वाक्य पूरा करती है (अग्नि ‘बाधित’ चल आदि दोषों से; मुख्य क्रिया निषेवेत)। ‘चल’ का अर्थ वात लिया गया है, ‘आदि’ से शेष दोष। ‘अम्लपाक’ = जल का खट्टा परिवर्तन, शाब्दिक रखा गया। "
@@ -345,9 +346,9 @@ AIDS["58"] = {
 }
 IMAGE_SPECS[("58", "chain")] = {
     "file": "ch4b05-basti-after-cleansing-58.svg",
-    "alt": "Two-step chain for unit 58: the course of cleansing is completed, then one should resort to the basti procedure.",
+    "alt": "Two-step chain for unit 58 in time order (not verse order): the course of cleansing is completed, then one should resort to the basti procedure.",
     "type": "chain",
-    "title": "श्लोक ५८: क्रम",
+    "title": "श्लोक ५८: समय का क्रम",
     "steps": ["शोधन का क्रम पूरा", "फिर बस्तिकर्म का सेवन"],
 }
 
@@ -355,14 +356,14 @@ IMAGE_SPECS[("58", "chain")] = {
 AUTHORED["59"] = {
     "title": "पुराणशालि गोधूमयवान्",
     "question": "Which grains and which drinks does the unit list?",
-    "rule": ("Old śāli rice, wheat and barley, with prepared yūṣas and broths; harmless "
-             "madirā, ariṣṭa and mārdvīka, or else a very small amount of water."),
+    "rule": ("Old śāli rice, wheat and barley, with prepared yūṣas and broths; madirā, "
+             "ariṣṭa and mārdvīka (निर्गदं \"harmless\", attachment uncertain), or else a very small amount of water."),
     "limits": ("There is no verb: ‘one should take’ is understood from a nearby unit. "
                "निर्गदं may go with the drinks or stand alone as ‘harmless’. The verse "
                "names drinks and gives no dose or reason."),
     "explain_hi": ("इस इकाई में कोई क्रिया नहीं है; ‘लेना चाहिए’ आस-पास की इकाई से समझा जाता है। पहली पंक्ति अन्न गिनाती है: "
                    "पुराना शालि चावल, गेहूँ और जौ, तैयार किए यूष और रसों के साथ। दूसरी पंक्ति पेय गिनाती है: "
-                   "हानिरहित मदिरा, अरिष्ट और मार्द्वीक, अथवा बहुत थोड़ा जल। श्लोक केवल नाम और क्रम देता है, कोई मात्रा नहीं।"),
+                   "मदिरा (निर्गदं: संभवतः उनका विशेषण), अरिष्ट और मार्द्वीक, अथवा बहुत थोड़ा जल। श्लोक केवल नाम और क्रम देता है, कोई मात्रा नहीं।"),
     "hook": "पहली पंक्ति में अन्न, दूसरी में पेय या थोड़ा जल।",
     "core": False,
     "questions": [
@@ -378,20 +379,20 @@ AUTHORED["59"] = {
               "Three words name the grains; अंबु is the water of the last words.",
               "शालि = rice; गोधूम = wheat; यव = barley; अंबु = water."),
         fill(2, "The word for 'barley' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("यव"),
+             accepts("यव", "yava", "यवान्", "yavan"),
              "यव is barley, the third grain of the list.",
              "In the printed गोधूमयवान् the two grains are joined as a pair (wheat and barley).",
              "यव = barley."),
-        multi("discriminate", 3, "Which three drinks does line 2 name?",
+        multi("discriminate", 3, "Which three prepared drinks does line 2 name, not counting the water at the end?",
               [("madirā (मदिरा)", "Right: the first drink of line 2."),
-               ("ariṣṭa (अरिष्ट)", "Right: the second drink of line 2."),
-               ("mārdvīka (मार्द्वीक)", "Right: the third drink of line 2."),
                ("yūṣa (यूष)", "Yūṣa is taken with the grains in line 1."),
-               ("rasa (रस)", "Rasa (broth) is taken with the grains in line 1.")],
-              [0, 1, 2],
+               ("ariṣṭa (अरिष्ट)", "Right: the second drink of line 2."),
+               ("rasa (रस)", "Rasa (broth) is taken with the grains in line 1."),
+               ("mārdvīka (मार्द्वीक)", "Right: the third drink of line 2.")],
+              [0, 2, 4],
               "Line 2 lists madirā, ariṣṭa and mārdvīka, and then 'or a very small amount of water'.",
               "Drinks: मदिरा · अरिष्ट · मार्द्वीक."),
-        order(4, "Put the three drinks in the order of line 2.",
+        order(4, "Put the three prepared drinks in the order of line 2.",
               ["मदिरा", "अरिष्ट", "मार्द्वीक"],
               "Line 2 runs: madirā, ariṣṭa, mārdvīka, then a small amount of water.",
               "मदिरा · अरिष्ट · मार्द्वीक.", role="apply"),
@@ -406,11 +407,11 @@ AUTHORED["59"] = {
     ],
 }
 NOTES_HI["59"] = ("विश्वास: मध्यम। कोई क्रिया नहीं है; ‘निषेवेत’ (५८) या ‘भजेत्’ (६१) समझा जाता है। ‘पुराणशालि’ का -इ एकवचन-समूह है या -न् का लोप — दोनों संभव; अर्थ ‘पुराना शालि’ ही है। "
-                  "‘निर्गदं’ मदिरा-आदि का विशेषण भी हो सकता है और अलग भी; डेटा में पेयों के साथ लिया गया है। यूष और रस को संस्कृत में ही रखा। संधि जाँची: गोधूम + यवान् एक द्वंद्व पद (गोधूमयवान्); मदिरा + अरिष्ट + आर्द्वीक के बीच संधि नहीं, द्वंद्व।")
+                  "‘निर्गदं’ मदिरा-आदि का विशेषण भी हो सकता है और अलग भी; डेटा में पेयों के साथ लिया गया है। यूष और रस को संस्कृत में ही रखा। संधि जाँची: गोधूम + यवान् एक द्वंद्व पद (गोधूमयवान्); मदिरा + अरिष्ट → मदिरारिष्ट (आ + अ → आ); मार्द्वीकं + स्वल्प में अनुस्वार वैसा ही।")
 AIDS["59"] = {
     "diagram": {"groups": [
         {"label": "अन्न (पंक्ति १)", "items": ["पुराणशालि", "गोधूम", "यव"]},
-        {"label": "पेय (पंक्ति २)", "items": ["मदिरा", "अरिष्ट", "मार्द्वीक", "थोड़ा जल"]}]},
+        {"label": "पेय (पंक्ति २; अंत में: जल)", "items": ["मदिरा", "अरिष्ट", "मार्द्वीक", "बहुत थोड़ा जल"]}]},
     "chunks": "पुराणशालि गोधूमयवान् | यूषरसैः कृतैः ‖ निर्गदं मदिरारिष्टमार्द्वीकं | स्वल्पमंबु वा।",
     "frame": "अन्न: शालि · गोधूम · यव (यूष-रस के साथ) · पेय: मदिरा · अरिष्ट · मार्द्वीक, या बहुत थोड़ा जल।",
 }
@@ -420,7 +421,7 @@ IMAGE_SPECS[("59", "diagram")] = {
     "type": "split",
     "title": "श्लोक ५९: अन्न और पेय",
     "cols": [["अन्न (पंक्ति १)", ["पुराणशालि", "गोधूम", "यव"]],
-             ["पेय (पंक्ति २)", ["मदिरा", "अरिष्ट", "मार्द्वीक", "थोड़ा जल"]]],
+             ["पेय (पंक्ति २; अंत में: जल)", ["मदिरा", "अरिष्ट", "मार्द्वीक", "बहुत थोड़ा जल"]]],
 }
 
 # ---------------------------------------------------------------- unit 60
@@ -438,11 +439,11 @@ AUTHORED["60"] = {
     "hook": "चार जल; और वर्षा-वायु के दिन का भोजन क्लेद-वात-जित्।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "On a day troubled by rain and wind, what should the food overcome?",
+        mcq("pretest", 0, "What does line 2 say the food should overcome?",
             ("Dampness (क्लेद) and Vāta", "भोजनं क्लेदवातजित्: food overcoming kleda and Vāta."),
-            [("Hunger and thirst", "These are not named in the line."),
-             ("Heat and sunlight", "These are not named in the line."),
-             ("Dust and smoke", "These are not named in the line.")],
+            [("Hunger and thirst together", "These are not named in the line."),
+             ("Heat and sunlight together", "These are not named in the line."),
+             ("Dust and smoke together", "These are not named in the line.")],
             "Line 2 says the food is क्लेदवातजित्: overcoming dampness and Vāta.",
             "क्लेद-वात-जित् = overcoming dampness and Vāta."),
         match(1, "Match each word of line 1 to its meaning.",
@@ -460,9 +461,9 @@ AUTHORED["60"] = {
             teaches="A final उ before a different vowel turns into व् (तु + अह्नि = त्वह्नि)."),
         mcq("discriminate", 3, "Which phrase describes the day in line 2?",
             ("Troubled by rain and wind", "वृष्टिवाताकुले: troubled by rain and wind."),
-            [("Hot and dry", "Nothing in the words speaks of heat or dryness."),
-             ("Cold and dark", "Nothing in the words speaks of cold or darkness."),
-             ("Clear and calm", "आकुल means troubled, the opposite of calm.")],
+            [("Hot and dry with no rain at all", "Nothing in the words speaks of heat or dryness."),
+             ("Cold and dark with heavy frost", "Nothing in the words speaks of cold or darkness."),
+             ("Clear and calm all day long", "आकुल means troubled, the opposite of calm.")],
             "वृष्टिवाताकुले अह्नि is 'on a day troubled by rain and wind'.",
             "आकुल = troubled; वृष्टि = rain; वात = wind."),
         order(4, "Put these waters in the order of line 1.",
@@ -484,7 +485,7 @@ NOTES_HI["60"] = ("विश्वास: मध्यम। ‘चौंड्�
 AIDS["60"] = {
     "chunks": "दिव्यं कथितकूपोत्थं | चौंड्यं सारसमेववा ‖ वृष्टिवाताकुले त्वह्नि | भोजनं क्लेदवातजित्।",
     "sandhi": "उ + भिन्न स्वर → व्: तु + अह्नि → त्वह्नि। अ + उ → ओ: कूप + उत्थं → कूपोत्थं।",
-    "frame": "पंक्ति १: जल के चार प्रकार · पंक्ति २: वर्षा-वायु से व्याकुल दिन में भोजन क्लेद और वात को जीतने वाला।",
+    "frame": "पंक्ति १: जल के चार प्रकार · पंक्ति २: वर्षा-वायु से व्याकुल दिन में भोजन क्लेद और वात को जीतने वाला। त्वह्नि = तु (परंतु) + अह्नि (दिन में)।",
 }
 
 # ---------------------------------------------------------------- unit 61
@@ -492,41 +493,41 @@ AUTHORED["61"] = {
     "title": "परिशुष्कं लघु स्निग्धम्",
     "question": "What qualities of food does line 1 list?",
     "rule": ("Line 1: food well dried, light, unctuous, hot, sour and salty, to be taken. "
-             "Line 2: mostly food and drink with honey, when dense clouds rise."),
+             "Line 2: food and drink with honey, when dense clouds rise (प्रायः, 'mostly', may belong to line 1)."),
     "limits": ("संस्रुत in line 2 is uncertain (‘strained’ is a reading; the book says "
                "‘thick’), so no question rests on it. प्रायः could also go with line 1. "
                "The verse gives no dose or reason."),
     "explain_hi": ("पहली पंक्ति भोजन के छह गुण गिनाती है: अच्छी तरह सूखा, हल्का, स्निग्ध, गरम, खट्टा और नमकीन; "
-                   "और कहती है कि यह लेना चाहिए। दूसरी पंक्ति में घने बादल उठने पर अधिकतर अन्न-पान शहद के साथ होने की बात है। "
+                   "और कहती है कि यह लेना चाहिए। दूसरी पंक्ति में घने बादल उठने पर अन्न-पान शहद के साथ होने की बात है (‘प्रायः’ किसके साथ है, अनिश्चित)। "
                    "‘संस्रुत’ का अर्थ अनिश्चित है, इसलिए उस पर प्रश्न नहीं बने।"),
     "hook": "सूखा, हल्का, स्निग्ध, गरम, खट्टा, नमकीन: छह गुण।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "With what does line 2 say food and drink are mostly taken when dense clouds rise?",
+        mcq("pretest", 0, "With what does line 2 say food and drink are taken when dense clouds rise?",
             ("With honey (सक्षौद्रम्)", "सक्षौद्रं: with honey."),
-            [("With milk", "Milk is not named in the line."),
-             ("With ghee", "Ghee is not named in the line."),
-             ("With sugar", "Sugar is not named in the line.")],
+            [("With milk and boiled rice", "Not named in the line."),
+             ("With ghee and rock salt", "Not named in the line."),
+             ("With sugar and thick curd", "Not named in the line.")],
             "Line 2 says अन्नपानं सक्षौद्रम्: food and drink with honey.",
             "स + क्षौद्र = with honey."),
         match(1, "Match each quality of line 1 to its meaning.",
-              [["परिशुष्क", "well dried"], ["लघु", "light"], ["स्निग्ध", "unctuous"], ["लवण", "salty"]],
+              [["परिशुष्क", "well dried"], ["लघु", "light"], ["उष्ण", "hot"], ["लवण", "salty"]],
               "Line 1 lists six qualities; these are four of them.",
-              "परिशुष्क = well dried; लघु = light; स्निग्ध = unctuous; लवण = salty."),
-        fill(2, "The word for 'light' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("लघु"),
-             "लघु is light, the second quality of line 1.",
-             "लघु is a neuter accusative singular here, agreeing with the food.",
-             "लघु = light."),
+              "परिशुष्क = well dried; लघु = light; उष्ण = hot; लवण = salty."),
+        fill(2, "The word for 'unctuous' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("स्निग्ध", "स्निग्धम्"),
+             "स्निग्ध is unctuous, the third quality of line 1.",
+             "स्निग्ध is neuter accusative singular (printed स्निग्धम्), agreeing with the understood 'food' (भोजन) of line 1.",
+             "स्निग्ध = unctuous."),
         multi("discriminate", 3, "Which three of these does line 1 name among the qualities?",
-              [("hot (उष्ण)", "Right: named in the dvandva उष्णाम्ललवण."),
-               ("sour (अम्ल)", "Right: named in the dvandva उष्णाम्ललवण."),
-               ("salty (लवण)", "Right: named in the dvandva उष्णाम्ललवण."),
-               ("sweet (मधुर)", "Sweet is not named in line 1."),
-               ("bitter (तिक्त)", "Bitter is not named in line 1.")],
-              [0, 1, 2],
-              "Line 1 ends with the three words hot, sour, salty, joined as उष्णाम्ललवणम्.",
-              "उष्ण · अम्ल · लवण."),
+              [("sweet (मधुर)", "Sweet is not named in line 1."),
+               ("light (लघु)", "Right: named in line 1."),
+               ("sour (अम्ल)", "Right: named in line 1."),
+               ("bitter (तिक्त)", "Bitter is not named in line 1."),
+               ("unctuous (स्निग्ध)", "Right: named in line 1.")],
+              [1, 2, 4],
+              "Line 1 names well dried, light, unctuous, hot, sour and salty; light, sour and unctuous are among them.",
+              "लघु · अम्ल · स्निग्ध."),
         order(4, "Put the six qualities in the order of line 1.",
               ["परिशुष्कम्", "लघु", "स्निग्धम्", "उष्ण", "अम्ल", "लवणम्"],
               "Line 1 runs: well dried, light, unctuous, hot, sour, salty.",
@@ -549,21 +550,22 @@ AIDS["61"] = {
          "items": ["परिशुष्क", "लघु", "स्निग्ध", "उष्ण", "अम्ल", "लवण"]}]},
     "chunks": "परिशुष्कं लघु स्निग्धम् | उष्णाम्ललवणं भजेत् ‖ प्रायोन्नपानं सक्षौद्रं | (संस्रुतं अनिश्चित) च घनोदये।",
     "sandhi": "अ + उ → ओ: घन + उदये → घनोदये। अ + अ → आ: उष्ण + अम्ल → उष्णाम्ल।",
-    "frame": "पंक्ति १: छह गुण वाला भोजन लेना चाहिए · पंक्ति २: घने बादल उठने पर अधिकतर शहद सहित अन्न-पान।",
+    "frame": "पंक्ति १: छह गुण वाला भोजन लेना चाहिए · पंक्ति २: घने बादल उठने पर शहद सहित अन्न-पान (प्रायः का संबंध अनिश्चित)।",
 }
 IMAGE_SPECS[("61", "diagram")] = {
     "file": "ch4b05-food-qualities-61.svg",
-    "alt": "Mind map for unit 61: six qualities of the food, in the verse's order: well dried, light, unctuous, hot, sour, salty.",
-    "type": "mermaid",
-    "code": ('mindmap\n  भोजन के गुण\n    परिशुष्क\n    लघु\n    स्निग्ध\n    उष्ण\n    अम्ल\n    लवण\n'),
+    "alt": "List for unit 61: the six qualities of the food named in line 1, top to bottom in the verse's order: well dried, light, unctuous, hot, sour, salty.",
+    "type": "split",
+    "title": "श्लोक ६१: भोजन के गुण",
+    "cols": [["भोजन के गुण (पंक्ति १)", ["परिशुष्क", "लघु", "स्निग्ध", "उष्ण", "अम्ल", "लवण"]]],
 }
 
 # ---------------------------------------------------------------- unit 62
 AUTHORED["62"] = {
     "title": "असरीसृपभूबाष्प",
     "question": "What is said about the dwelling in line 2?",
-    "rule": ("Line 2 describes a dwelling (भवनम्) with a fire-carrier and free from biting "
-             "flies, mosquitoes and rats. Line 1 is a list of things it is free from."),
+    "rule": ("Line 2 describes a dwelling (भवनम्) with साग्नियान (meaning uncertain) and free from "
+             "biting flies, mosquitoes and rats. निर्दंश is read for the printed निर्दश. Line 1 is a list of things it is free from."),
     "limits": ("There is no verb. Whether the negative in line 1 covers the whole list or only "
                "the first word is uncertain, and सागनियान is obscure (‘portable fire’ is "
                "a reading), so no question rests on those. निर्दश is printed for निर्दंश."),
@@ -571,21 +573,21 @@ AUTHORED["62"] = {
                    "ठंडी हवा और फुहार हैं; ‘अ-’ पूरी सूची पर लगता है या नहीं, यह निश्चित नहीं, इसलिए उसपर प्रश्न नहीं बने। "
                    "दूसरी पंक्ति में भवन ‘साग्नियान’ (आग वाले साधन से युक्त; शब्द अस्पष्ट) है और डाँस, मच्छर तथा चूहों से रहित है। "
                    "‘सहित’ और ‘रहित’ का यह आमने-सामने का प्रयोग याद रखने लायक है।"),
-    "hook": "घर: डाँस, मच्छर, चूहों से रहित; आग के साधन से सहित।",
+    "hook": "घर: डाँस, मच्छर, चूहों से रहित; ‘साग्नियान’ (अर्थ अनिश्चित) से सहित।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which three does line 2 say the dwelling is free from?",
             ("Biting flies, mosquitoes and rats", "निर्दंश-मशक-उन्दुर: free from these three."),
-            [("Snakes, bees and crows", "These are not named in line 2."),
-             ("Dust, smoke and noise", "These are not named in line 2."),
-             ("Rain, hail and lightning", "These are not named in line 2.")],
-            "Line 2 ends with निर्दंशमशकोन्दुरं: free from biting flies, mosquitoes and rats.",
+            [("Venomous snakes, scorpions and wasps", "These are not named in line 2."),
+             ("Heavy dust, smoke and loud noise", "These are not named in line 2."),
+             ("Cold rain, hail and strong winds", "These are not named in line 2.")],
+            "Line 2 ends with the compound read as निर्दंशमशकोन्दुरं (printed निर्दशमशकोंदुरं): free from biting flies, mosquitoes and rats.",
             "निः (without) + दंश (biting fly) · मशक (mosquito) · उन्दुर (rat)."),
         match(1, "Match each word to its meaning.",
               [["भवनम्", "dwelling"], ["दंश", "biting fly"], ["मशक", "mosquito"], ["उन्दुर", "rat"]],
               "Line 2 names the dwelling and the three things it is free from.",
               "भवनम् = dwelling; दंश = biting fly; मशक = mosquito; उन्दुर = rat."),
-        mcq("extend", 2, "Which is the right sandhi result of निः + दंश?",
+        mcq("extend", 2, "Which is the right sandhi result of निः + दंश (printed निर्दश)?",
             ("निर्दंश", "A visarga before a voiced consonant turns into र् after इ."),
             [("निदंश", "The visarga does not simply vanish."),
              ("निःदंश", "The visarga is not kept before द."),
@@ -594,11 +596,11 @@ AUTHORED["62"] = {
             "Visarga after इ/उ + voiced sound → र्.",
             teaches="A visarga after इ or उ turns into र् before a voiced sound (निः + दंश = निर्दंश)."),
         mcq("discriminate", 3, "Which pair of words in line 2 stand as opposites, with and without?",
-            ("साग्नियानं and निर्दंश…", "सा- (with) and निर्- (without) begin the two compounds."),
-            [("भवनं and च", "Neither word means with or without."),
-             ("मशक and उन्दुर", "Both are things the dwelling is free from."),
-             ("च and उन्दुर", "च means 'and'; उन्दुर is rat.")],
-            "सा-ग्नियानं is 'with a fire-carrier' and निर्-दंश… is 'free from biting flies' and the rest.",
+            ("साग्नियानं and निर्दंश…", "स- means with and निर्- means without, whatever अग्नियान exactly is."),
+            [("भवनं and च side by side", "Neither word means with or without."),
+             ("मशक and उन्दुर side by side", "Both are things the dwelling is free from."),
+             ("च and उन्दुर side by side", "च means 'and'; उन्दुर is rat.")],
+            "स- (with) + अग्नियान begin the first compound; निर्- (without) begins the second.",
             "स- = with; निर्- = without."),
         order(4, "Put the three things the dwelling is free from in the order of line 2.",
               ["दंश", "मशक", "उन्दुर"],
@@ -618,7 +620,7 @@ NOTES_HI["62"] = ("विश्वास: मध्यम। डेटा की
                   "डेटा ने पूरी सूची ली है, पर इस पर भी प्रश्न नहीं बना। ‘निर्दशमशकोंदुरं’ का ‘निर्दश’ संभवतः ‘निर्दंश’ है (अनुस्वार छूटा); प्रश्न ‘निर्दंश’ पर बने हैं। कोई क्रिया नहीं। "
                   "संधि जाँची: निः + दंश → निर्दंश; मशक + उन्दुर → मशकोन्दुर (अ + उ → ओ)।")
 AIDS["62"] = {
-    "chunks": "असरीसृपभूबाष्प… (पंक्ति १ की पहुँच अनिश्चित) ‖ साग्नियानं च भवनं | निर्दंशमशकोन्दुरं।",
+    "chunks": "असरीसृपभूबाष्प | शीतमारुतशीकरं (पंक्ति १; ‘अ-’ की पहुँच अनिश्चित) ‖ साग्नियानं च भवनं | निर्दश[निर्दंश]मशकोंदुरं।",
     "sandhi": "विसर्ग (इ के बाद) + घोष → र्: निः + दंश → निर्दंश। अ + उ → ओ: मशक + उन्दुर → मशकोन्दुर।",
     "contrast": "स- (सहित: साग्नियानं) ↔ निर्- (रहित: निर्दंश…), दोनों दूसरी पंक्ति में।",
 }
@@ -640,9 +642,9 @@ AUTHORED["63"] = {
     "questions": [
         mcq("pretest", 0, "With whom does line 2 say the person should go?",
             ("With the foremost she-elephants", "यायात् करेणुमुख्याभिः: should go with the foremost she-elephants."),
-            [("With the foremost horses", "Horses are not named in line 2."),
-             ("With the foremost servants", "Servants are not named in line 2."),
-             ("With the foremost teachers", "Teachers are not named in line 2.")],
+            [("With the foremost horses of the guard", "Horses are not named in line 2."),
+             ("With the foremost servants of the house", "Servants are not named in line 2."),
+             ("With the foremost teachers of the school", "Teachers are not named in line 2.")],
             "Line 2 says यायात् करेणुमुख्याभिः: should go with the foremost she-elephants.",
             "करेणु = she-elephant; मुख्या = foremost; यायात् = should go."),
         match(1, "Match each word of the unit to its meaning.",
@@ -659,22 +661,22 @@ AUTHORED["63"] = {
             "√या + optative → यायात् = should go.",
             teaches="The 'should go' form of √या is यायात्; the plain present is याति."),
         mcq("discriminate", 3, "Which list is the person said to be fond of in line 1?",
-            ("Rubbing, ointment-rubbing, bathing, smoke and agaru scent",
-             "प्रघर्ष, उद्वर्तन, स्नान, धूम, गंध and अगरु are the items of line 1."),
-            [("Singing, dancing, dice and wine", "None of these is in line 1."),
-             ("Hunting, riding, archery and wrestling", "None of these is in line 1."),
-             ("Reading, writing, speech and silence", "None of these is in line 1.")],
-            "Line 1 ends with …प्रियः, 'fond of', after the five tastes.",
+            ("Rubbing, ointment-rubbing, bathing and smoke-scent-agaru",
+             "प्रघर्ष, उद्वर्तन, स्नान and धूमगंधागुरु are the items of line 1."),
+            [("Singing, dancing, dice-play, wine-drinking and music-making", "None of these is in line 1."),
+             ("Hunting, riding, archery, wrestling and other sports", "None of these is in line 1."),
+             ("Reading, writing, speech, silence and daily prayers", "None of these is in line 1.")],
+            "Line 1 ends with …प्रियः, 'fond of', after the list of tastes.",
             "प्रिय = fond of."),
-        order(4, "Put these tastes in the order of line 1.",
-              ["प्रघर्ष", "उद्वर्तन", "स्नान", "धूम", "गंध", "अगरु"],
-              "Line 1 runs: rubbing, ointment-rubbing, bathing, smoke, scent, agaru.",
-              "प्रघर्ष · उद्वर्तन · स्नान · धूम · गंध · अगरु.", role="apply"),
+        order(4, "Put these four parts of line 1 in the order of the verse.",
+              ["प्रघर्ष", "उद्वर्तन", "स्नान", "धूमगंधागुरु"],
+              "Line 1 runs: rubbing, ointment-rubbing, bathing, smoke-scent-agaru.",
+              "प्रघर्ष · उद्वर्तन · स्नान · धूमगंधागुरु.", role="apply"),
         mcq("transfer", 5, "In an invented phrase वनविहारप्रियः, what is the person?",
             ("Fond of walking in the forest", "-प्रिय at the end means fond of the first part."),
-            [("Dear to the forest", "Here the person is the one who is fond, not the one who is dear to it."),
-             ("Afraid of the forest", "Nothing in -प्रिय means afraid."),
-             ("Lord of the forest", "Nothing in -प्रिय means lord.")],
+            [("Dear to the forest and its trees", "Here the person is the one who is fond, not the one who is dear to it."),
+             ("Afraid of the forest and its beasts", "Nothing in -प्रिय means afraid."),
+             ("Lord of the forest and its trees", "Nothing in -प्रिय means lord.")],
             "…गंधागुरुप्रियः is 'fond of … agaru scent'; वनविहारप्रियः is 'fond of forest walks'.",
             "X-प्रिय (describing a person) = fond of X.",
             teaches="A compound ending in -प्रियः, describing a person, means 'fond of' the first part (…अगुरुप्रियः, वनविहारप्रियः)."),
@@ -686,7 +688,7 @@ AIDS["63"] = {
     "chunks": "प्रघर्षोद्वर्तनस्नान | धूमगंधागुरुप्रियः ‖ यायात्करेणुमुख्याभिः | चित्रवस्त्रविभूषितः।",
     "sandhi": "अ + उ → ओ: प्रघर्ष + उद्वर्तन → प्रघर्षोद्वर्तन। अ + अ → आ: गंध + अगरु → गंधागुरु।",
     "frame": "पंक्ति १: किसका प्रेमी (रगड़, उबटन, स्नान, धूम, गंध, अगरु) · पंक्ति २: कैसे चले (हथिनियों के साथ, रंगीन वस्त्रों से सजा)।",
-    "pegs": "मेरा बनाया चित्र: सुगंधित स्नान के बाद रंगीन वस्त्रों में हथिनियों के साथ चलता व्यक्ति। केवल याद के लिए।",
+    "pegs": "मेरा बनाया चित्र: स्नान-उबटन-धूम के शौकीन व्यक्ति रंगीन वस्त्रों में हथिनियों के साथ चलते हैं। केवल याद के लिए।",
 }
 
 # ---------------------------------------------------------------- unit 64
@@ -694,12 +696,12 @@ AUTHORED["64"] = {
     "title": "नदीजलोदमंथाः",
     "question": "Which things does line 2 say to avoid?",
     "rule": ("Line 2 says one should avoid (त्यजेत्) frost, exercise and the sun's rays, "
-             "among the listed items. Line 1 is a list of further things to avoid, and its "
-             "reading is uncertain."),
+             "among the listed items. Line 1 appears to name further things (its reading is "
+             "conjectural)."),
     "limits": ("Line 1 is read as a list only after an assumed missing word, so no question "
                "depends on its construction; only line 2 is used. ‘पादचरण’ (going on foot) is uncertain and is not used. The verse "
                "gives no reason or dose."),
-    "explain_hi": ("यह इकाई त्यागने योग्य बातों की सूची है। पहली पंक्ति में नदी का जल, उदमन्थ, अत्यधिक द्रव और मैथुन जैसे नाम आते हैं; "
+    "explain_hi": ("यह इकाई त्यागने योग्य बातों की सूची है। पहली पंक्ति में कुछ नाम दिखते हैं (नदीजल, उदमन्थ, मैथुन आदि), पर पाठ अनिश्चित है; "
                    "उसका समास-पाठ अनिश्चित है (छपाई में एक शब्द छूटा लगता है), इसलिए उसके ढाँचे पर प्रश्न नहीं बने। "
                    "दूसरी पंक्ति में पाला, व्यायाम और सूर्य की किरणों के साथ ‘त्यजेत्’ आता है, जिसका अर्थ है ‘छोड़ दे’। "
                    "‘पादचरण’ का अर्थ भी अनिश्चित है।"),
@@ -713,7 +715,7 @@ AUTHORED["64"] = {
              ("One should measure", "त्यज् does not mean measure.")],
             "Line 2 ends with त्यजेत्, 'should avoid', which governs the items before it.",
             "त्यजेत् = should avoid."),
-        match(1, "Match each item of line 2 to its meaning.",
+        match(1, "Match each word of line 2 to its meaning.",
               [["तुषार", "frost"], ["व्यायाम", "exercise"], ["अर्ककर", "sun's rays"], ["त्यजेत्", "should avoid"]],
               "Three items and the verb that governs them.",
               "तुषार = frost; व्यायाम = exercise; अर्ककर = sun's ray; त्यजेत् = should avoid."),
@@ -725,35 +727,35 @@ AUTHORED["64"] = {
             "अर्ककरान् (the sun's rays, accusative plural) + त्यजेत् (should avoid).",
             "-ान् + त् → -ांस्त्.",
             teaches="A final -न् before त् gives ंस्त् (अर्ककरान् + त्यजेत् = अर्ककरांस्त्यजेत्)."),
-        multi("discriminate", 3, "Which three of these does line 2 say to avoid?",
-              [("frost (तुषार)", "Right: the first item of line 2."),
+        multi("discriminate", 3, "Which three of these does line 2 say to avoid, leaving out the unclear word?",
+              [("food (अन्न)", "Not named in this unit."),
+               ("frost (तुषार)", "Right: the first item of line 2."),
+               ("water (जल)", "Water belongs to line 1, not line 2."),
                ("exercise (व्यायाम)", "Right: an item of line 2."),
-               ("the sun's rays (अर्ककर)", "Right: the last item of line 2."),
-               ("food (अन्न)", "Not named in this unit."),
-               ("water (जल)", "Water belongs to line 1, not line 2.")],
-              [0, 1, 2],
+               ("the sun's rays (अर्ककर)", "Right: the last item of line 2.")],
+              [1, 3, 4],
               "Line 2 names frost, exercise and the sun's rays before the verb त्यजेत्.",
               "तुषार · व्यायाम · अर्ककर → त्यजेत्."),
-        order(4, "Put these items in the order of line 2 (the unclear middle word is left out).",
+        order(4, "Put these words of line 2 in the order of the verse (the unclear middle word is left out).",
               ["तुषार", "व्यायाम", "अर्ककर", "त्यजेत्"],
               "Line 2 runs: frost, exercise, the sun's rays, should avoid.",
               "तुषार · व्यायाम · अर्ककर · त्यजेत्.", role="apply"),
-        mcq("transfer", 5, "Which phrase means one should abandon greed?",
-            ("लोभं त्यजेत्", "An accusative object plus a -एत् verb: 'should abandon'."),
-            [("लोभं त्यजति", "This is the plain present: 'abandons greed'."),
-             ("लोभः त्यजेत्", "लोभः is the subject; it would mean 'greed should abandon'."),
-             ("लोभं अत्यजत्", "This is a past form: 'abandoned greed'.")],
+        mcq("transfer", 5, "Which phrase means one should conquer anger?",
+            ("क्रोधं जयेत्", "An accusative object plus a -एत् verb: 'should conquer anger'."),
+            [("क्रोधं जयति", "This is the plain present: 'conquers anger'."),
+             ("क्रोधमजयत्", "This is a past form: 'conquered anger'."),
+             ("क्रोधः जयः", "Two nouns: 'anger, victory', no verb.")],
             "Like अर्ककरान् … त्यजेत्, the object is in the accusative and the verb ends in -एत्.",
             "Accusative object + -एत् verb = 'should do X'.",
-            teaches="The 'should avoid' command: accusative object plus त्यजेत् (लोभं त्यजेत् = 'one should abandon greed')."),
+            teaches="A command is an accusative object plus a verb in -एत्: क्रोधं जयेत् = 'one should conquer anger'."),
     ],
 }
 NOTES_HI["64"] = ("विश्वास: मध्यम। पहली पंक्ति (नदीजलोदमंथाःस्वप्नातिद्रवमैथुनं) में १५ अक्षर और एक अकेला विसर्ग है: ‘मंथाः स्वप्न’ का कोई स्पष्ट अन्वय नहीं बनता, इसलिए सुझाव है ‘अहःस्वप्न’ (दिन की नींद) जोड़कर द्वंद्व पढ़ा जाए (१६ अक्षर पूरे होते हैं)। यह सुधार अनुमान है, इसलिए पंक्ति १ की बनावट पर प्रश्न नहीं बना। "
                   "‘पादचरण’ पुस्तक में ‘ओस में भीगे पैर’ जैसा पढ़ा गया है, पर शब्दों में केवल ‘पैदल चलना’ है — अनिश्चित, प्रयोग नहीं हुआ। ‘तुषार’ = पाला/कुहरा। संधि जाँची: अर्ककरान् + त्यजेत् → अर्ककरांस्त्यजेत्; व्यायाम + अर्क → व्यायामार्क (अ + अ → आ)।")
 AIDS["64"] = {
-    "chunks": "नदीजल… (पंक्ति १ अनिश्चित) ‖ तुषारपादचरण | व्यायामार्ककरांस्त्यजेत्।",
+    "chunks": "नदीजलोदमंथाःस्वप्नातिद्रवमैथुनं (पंक्ति १ अनिश्चित) ‖ तुषारपादचरण | व्यायामार्ककरांस्त्यजेत्।",
     "sandhi": "न् + त् → ंस्त्: अर्ककरान् + त्यजेत् → अर्ककरांस्त्यजेत्। अ + अ → आ: व्यायाम + अर्क → व्यायामार्क।",
-    "frame": "दूसरी पंक्ति: क्या छोड़े (पाला, व्यायाम, सूर्य की किरणें) · कैसे कहा (त्यजेत्: छोड़ना चाहिए)।",
+    "frame": "दूसरी पंक्ति: क्या छोड़े (पाला, [पादचरण: अनिश्चित], व्यायाम, सूर्य की किरणें) · कैसे कहा (त्यजेत्: छोड़ना चाहिए)।",
 }
 
 # ---------------------------------------------------------------- unit 65
@@ -773,9 +775,9 @@ AUTHORED["65"] = {
     "questions": [
         mcq("pretest", 0, "What kind of clouds does the sky have in autumn, according to line 1?",
             ("White clouds (शुभ्राभ्र)", "शुभ्र = white, अभ्र = cloud."),
-            [("Black clouds", "शुभ्र means white, not black."),
-             ("No clouds at all", "The compound names clouds the sky has."),
-             ("Red clouds", "शुभ्र means white, not red.")],
+            [("Black clouds of the storm", "शुभ्र means white, not black."),
+             ("No clouds at all in the sky", "The compound names clouds the sky has."),
+             ("Red clouds at sunset", "शुभ्र means white, not red.")],
             "शरदि व्योम शुभ्राभ्रं: in autumn the sky has white clouds.",
             "शुभ्र + अभ्र = white clouds."),
         match(1, "Match each word of line 1 to its meaning.",
@@ -783,7 +785,7 @@ AUTHORED["65"] = {
               "These four words carry the picture of line 1.",
               "शरदि = in autumn; व्योम = sky; पंक = mud; मही = earth."),
         fill(2, "The word for 'earth' at the end of line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("मही"),
+             accepts("मही", "mahī", "mahi"),
              "मही is the earth, the subject of both lines.",
              "मही is feminine, nominative singular; the participle किंचित्पंकांकिता before it agrees with it.",
              "मही = earth."),
@@ -812,11 +814,11 @@ NOTES_HI["65"] = ("विश्वास: उच्च। ‘प्रकाश�
                   "संधि जाँची: शुभ्र + अभ्रं → शुभ्राभ्रं (अ + अ → आ); पंक + अंकिता → पंकांकिता; किंचित् + पंक में त् प् से पहले वैसा ही रहता है। कोई पाठभेद नहीं।")
 AIDS["65"] = {
     "diagram": {"groups": [
-        {"label": "आकाश", "items": ["शुभ्र अभ्र (श्वेत बादल)"]},
+        {"label": "आकाश", "items": ["श्वेत बादल"]},
         {"label": "पृथ्वी", "items": ["थोड़ा कीचड़", "काश", "सप्ताह्व", "कुमुद", "शालि की भरमार"]}]},
     "chunks": "शरदि व्योम शुभ्राभ्रं | किंचित्पंकांकिता मही ‖ प्रकाशकाशसप्ताह्व- | कुमुदा शालिशालिनी।",
     "sandhi": "अ + अ → आ: शुभ्र + अभ्रं → शुभ्राभ्रं; पंक + अंकिता → पंकांकिता।",
-    "frame": "ऋतु: शरद · आकाश: श्वेत बादल · धरती: थोड़ा कीचड़, काश, सप्ताह्व, कुमुद, शालि।",
+    "frame": "ऋतु: शरद · आकाश: श्वेत बादल · धरती: थोड़ा कीचड़, काश, सप्ताह्व, कुमुद, शालि। शुभ्र + अभ्र = \"श्वेत बादलों वाला\" (बहुव्रीहि: जिसके पास वह)।",
 }
 IMAGE_SPECS[("65", "diagram")] = {
     "file": "ch4b05-autumn-65.svg",
@@ -844,7 +846,7 @@ AUTHORED["66"] = {
     "questions": [
         mcq("pretest", 0, "Because of what does the sun scatter sharp rays, according to line 1?",
             ("The departure of the masses of clouds", "मेघौघविगमात्: from the departure of the cloud masses."),
-            [("The arrival of the masses of clouds", "विगम is departure, not arrival."),
+            [("The arrival of the heavy masses of clouds", "विगम is departure, not arrival."),
              ("The rising of the river water", "No river is named in line 1."),
              ("The blowing of the cold wind", "No wind is named in line 1.")],
             "Line 1 gives the cause in the ablative: मेघौघविगमात्, then the effect: the sun scatters sharp rays.",
@@ -862,14 +864,14 @@ AUTHORED["66"] = {
             "त् + voiced sound → द्.",
             teaches="A final त् before a voiced sound becomes द् (विगमात् + रविः = विगमाद्रविः)."),
         mcq("discriminate", 3, "Which phrase describes the directions in line 2?",
-            ("Very clear and crowded with lines of krauñca birds",
+            ("Very clear, crowded with lines of krauñca birds",
              "अतिविमलाः क्रौंचमालाकुलाः दिशः."),
-            [("Very dark and empty of birds", "विमल is clear, not dark."),
-             ("Very clear and empty of birds", "आकुल means crowded with, not empty of."),
-             ("Very dark and crowded with clouds", "Neither dark nor clouds is in line 2.")],
+            [("Very dark and quite empty of any high flying birds", "विमल is clear, not dark."),
+             ("Very clear and quite empty of birds and clouds", "आकुल means crowded with, not empty of."),
+             ("Very dark and crowded with heavy rain clouds", "Neither dark nor clouds is in line 2.")],
             "Line 2 says the directions are very clear (अतिविमलाः) and crowded with lines of krauñca birds.",
             "अतिविमल + क्रौंचमालाकुल = very clear, crowded with krauñca lines."),
-        order(4, "Put these words of the verse in order (the disputed word is left out).",
+        order(4, "Put these words of the verse in order (words not listed are left out).",
               ["मेघौघविगमात्", "रविः", "अतिविमलाः", "क्रौंचमालाकुलाः", "दिशः"],
               "The verse runs: from the departure of cloud masses, the sun; very clear, crowded with krauñca lines, the directions.",
               "मेघौघविगमात् · रविः · अतिविमलाः · क्रौंचमालाकुलाः · दिशः.", role="apply"),
@@ -887,22 +889,25 @@ NOTES_HI["66"] = ("विश्वास: मध्यम। डेटा की
                   "सुझाव ‘बभ्रुवर्णा अतिविमलाः’ (दिशाओं का) अलग पाठ होगा। इसलिए उस शब्द पर प्रश्न नहीं बना। ‘आकुला दिशः’ = ‘आकुलाः दिशः’ (विसर्ग घोष से पहले छूटा)। "
                   "संधि जाँची: मेघ + ओघ → मेघौघ (अ + ओ → औ); विगमात् + रविः → विगमाद्रविः; बभ्रुवर्णः + अति → बभ्रुवर्णोऽति।")
 AIDS["66"] = {
-    "diagram": {"steps": ["बादलों के समूह का हटना (मेघौघविगमात्)", "सूर्य तीखी किरणें बिखेरता है"]},
+    "diagram": {"groups": [
+        {"label": "कारण → फल", "items": ["बादल हटे", "सूर्य की तीखी किरणें"]},
+        {"label": "दिशाएँ", "items": ["अत्यंत निर्मल", "क्रौंच-पंक्तियों से भरी"]}]},
     "chunks": "विक्षिप्ततीक्ष्णकिरणो | मेघौघविगमाद्रविः ‖ (बभ्रुवर्णो विवादित) | अतिविमलाः क्रौंचमालाकुला दिशः।",
     "sandhi": "त् → द्: विगमात् + रविः → विगमाद्रविः। अ + ओ → औ: मेघ + ओघ → मेघौघ।",
     "frame": "कारण: बादल हटे · फल: सूर्य की तीखी किरणें · दिशाएँ: अत्यंत निर्मल, क्रौंच-पंक्तियों से भरी।",
 }
 IMAGE_SPECS[("66", "diagram")] = {
     "file": "ch4b05-clouds-depart-66.svg",
-    "alt": "Flowchart for unit 66: the departure of the cloud masses leads to the sun scattering sharp rays; separately, the directions are very clear and crowded with krauncha birds.",
-    "type": "mermaid",
-    "code": ('flowchart TD\n  A["बादलों के समूह का हटना"] --> B["सूर्य तीखी किरणें बिखेरता है"]\n'
-             '  C["दिशाएँ अत्यंत निर्मल,<br/>क्रौंच-पंक्तियों से भरी"]\n'),
+    "alt": "Two columns for unit 66: cause then effect (the clouds depart, then the sun's sharp rays); and the directions (very clear, crowded with krauncha lines).",
+    "type": "split",
+    "title": "श्लोक ६६: बादल हटे",
+    "cols": [["कारण → फल", ["बादल हटे", "सूर्य की तीखी किरणें"]],
+             ["दिशाएँ", ["अत्यंत निर्मल", "क्रौंच-पंक्तियों से भरी"]]],
 }
 
 # ---------------------------------------------------------------- unit 67
 AUTHORED["67"] = {
-    "title": "कमलांतरसंलीन",
+    "title": "कमलांतरसल्हीन",
     "question": "What makes the lakes look the way they do here?",
     "rule": ("By the jostling of fish and flocks of swans among the lotuses the lakes (सरांसि) "
              "are high with breaking waves, and clear."),
@@ -915,7 +920,7 @@ AUTHORED["67"] = {
     "hook": "मछली और हंसों की टकराहट से लहरें, सरोवर निर्मल।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Which two does line 1 name as jostling among the lotuses?",
+        mcq("pretest", 0, "Which two does line 1 name as jostling?",
             ("Fish and flocks of swans", "मीन and हंसौघ: fish and flocks of swans."),
             [("Frogs and flocks of cranes", "These are not named in line 1."),
              ("Bees and flocks of parrots", "These are not named in line 1."),
@@ -932,10 +937,10 @@ AUTHORED["67"] = {
              "हंस + ओघ = हंसौघ: अ + ओ gives औ.",
              "हंस = swan."),
         mcq("discriminate", 3, "What does the ending of घट्टनैः tell us?",
-            ("By the jostlings: instrumental plural", "-ऐः is the instrumental plural ending of an -अ noun."),
-            [("Of the jostlings: genitive plural", "The genitive plural would end in -आनाम्."),
-             ("In the jostlings: locative plural", "The locative plural would end in -एषु."),
-             ("The jostlings: nominative plural", "The nominative plural would end in -आः or -आनि.")],
+            ("By the jostlings (instrumental plural)", "-ऐः is the instrumental plural ending of an -अ noun."),
+            [("Of the many jostlings: genitive plural", "The genitive plural would end in -आनाम्."),
+             ("In the many jostlings: locative plural", "The locative plural would end in -एषु."),
+             ("The many jostlings: nominative plural", "The nominative plural would end in -आः or -आनि.")],
             "घट्टनैः means 'by the jostlings': the cause that makes the waves in line 2.",
             "-ऐः = instrumental plural = 'by'."),
         order(4, "Put these parts of line 1 in the order of the verse (the damaged word is left out).",
@@ -956,6 +961,6 @@ NOTES_HI["67"] = ("विश्वास: मध्यम। छपा ‘सल
                   "‘तरंगभंगतुंग’ का दूसरा अर्थ ‘लहरों के टूटने से ऊँचे उठे’ भी संभव है। संधि जाँची: हंस + ओघ → हंसौघ (अ + ओ → औ); कमल + अंतर → कमलांतर; सरस् का नपुंसक बहुवचन सरांसि।")
 AIDS["67"] = {
     "chunks": "कमलांतर… (सल्हीन दूषित) | मीनहंसौघघट्टनैः ‖ तरंगभंगतुंगानि | सरांसि विमलानि च।",
-    "sandhi": "अ + ओ → औ: हंस + ओघ → हंसौघ। सरस् का नपुंसक बहुवचन: सरांसि।",
-    "frame": "कारण (पंक्ति १): कमलों के बीच मछलियों और हंसों के झुंडों की टकराहट · फल (पंक्ति २): सरोवर लहरों से ऊँचे और निर्मल।",
+    "sandhi": "अ + ओ → औ: हंस + ओघ → हंसौघ। सरस् का नपुंसक बहुवचन: सरांसि। घट्टनैः = तृतीया बहुवचन (-ऐः): ‘से’।",
+    "frame": "सरांसि (नपुंसक बहुवचन) → विमलानि (-आनि)। कारण (पंक्ति १): कमलों के बीच मछलियों और हंसों के झुंडों की टकराहट · फल (पंक्ति २): सरोवर लहरों से ऊँचे और निर्मल।",
 }

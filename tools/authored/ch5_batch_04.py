@@ -18,15 +18,15 @@ AUTHORED["37"] = {
                    "‘आदि’ के साथ गिनाए गए हैं, और अंत का ‘-भिः’ तृतीया बहुवचन है: ‘इनसे’। "
                    "दूसरी पंक्ति कहती है कि हृद्य (मन को प्रिय) और दीपन भैषज्य द्रव्यों के संयोग से, "
                    "ऐसे साधनों द्वारा जो रुचि और पाचन देते हैं। मात्रा या विधि इस इकाई में नहीं है।"),
-    "hook": "शालि, षष्टिक, गोधूम, मुद्ग, मांस, घृत — आदि से; और संयोग रुचि-पाचन देने वाला।",
+    "hook": "शालि, षष्टिक, गोधूम, मुद्ग, मांस, घृत — आदि से; हृद्य-दीपन भैषज्य के संयोग से; रुचि-पाचन देने वाले साधनों द्वारा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does line 1 of this unit list?",
             ("Foods such as rice, wheat, mung, meat and ghee",
              "Line 1 names शालि, षष्टिक, गोधूम, मुद्ग, मांस and घृत."),
-            [("Kinds of enema and massage", "Massage and enemas come in the next unit."),
-             ("Signs by which a disease is known", "No sign of any disease is named here."),
-             ("Names of the seasons of the year", "No season is named in this unit.")],
+            [("Kinds of enema, massage and bathing of the body", "Massage and enemas come in the next unit."),
+             ("Signs by which a disease is known in a patient", "No sign of any disease is named here."),
+             ("Names of the seasons and the months of the year", "No season is named in this unit.")],
             "Line 1 is a list of foods, ending with आदि, 'and the like'.",
             "शालि · षष्टिक · गोधूम · मुद्ग · मांस · घृत · आदि."),
         order(1, "Put the foods of line 1 in the order of the verse.",
@@ -48,11 +48,11 @@ AUTHORED["37"] = {
             "संयोगात् (from the combination, ablative) + रुचि (relish) join as संयोगाद्रुचि.",
             "त् + voiced sound → द्: संयोगात् + रुचि = संयोगाद्रुचि."),
         mcq("apply", 4, "What does the ending -भिः of ...घृतादिभिः show?",
-            ("Instrumental plural: 'with' or 'by means of' these",
+            ("Instrumental plural: 'with' these",
              "The ending -भिः marks the instrumental plural."),
-            [("Genitive plural: 'of' these", "The genitive plural would end in -आम्."),
-             ("Locative plural: 'in' these", "The locative plural would end in -एषु."),
-             ("Nominative plural: 'these' as subject", "The nominative plural would end in -आः or -इ.")],
+            [("Genitive plural: 'of' these", "The genitive plural ends in -आम् (-ईनाम्), not -भिः."),
+             ("Locative plural: 'in' these", "The locative plural ends in -षु, not -भिः."),
+             ("Nominative plural: 'these' as subject", "The nominative plural has no -भिः; -भिः is the instrumental sign.")],
             "The foods are the means: the ending -भिः says 'with ... and the like'.",
             "-भिः = instrumental plural, 'with / by means of'."),
         mcq("transfer", 5, "Following रुचिपक्तिदैः, what does the invented word सुखदैः mean?",
@@ -90,12 +90,12 @@ AUTHORED["38"] = {
         mcq("pretest", 0, "What does the person obtain, as the second line of this unit puts it?",
             ("Comfort and keenness of all the fires",
              "The line says शर्म and सर्वपावकपाटवम्."),
-            [("Wealth and children", "Neither is named in this unit."),
-             ("Victory and fame", "Neither is named in this unit."),
-             ("Speech and beauty", "Neither is named in this unit.")],
+            [("Wealth, children and a large household", "None of these is named in this unit."),
+             ("Victory in war and lasting fame abroad", "Neither is named in this unit."),
+             ("Sweet speech and bodily beauty at all times", "Neither is named in this unit.")],
             "लभते शर्म सर्वपावकपाटवम्: he obtains comfort and keenness of all the fires.",
             "लभते = obtains; शर्म = comfort; सर्वपावकपाटवम् = keenness of all fires."),
-        order(1, "Put the means of line 1 in the order of the verse.",
+        order(1, "Put the words of line 1 in the order of the verse.",
               ["साभ्यंग", "उद्वर्तन", "स्नान", "निरूह", "स्नेह", "बस्ति"],
               "The line runs: with massage, rubbing, bathing, then nirūha, sneha and basti.",
               "साभ्यंग · उद्वर्तन · स्नान · निरूह · स्नेह · बस्ति."),
@@ -123,14 +123,14 @@ AUTHORED["38"] = {
               "Line 1 names massage, rubbing, bathing and the two kinds of basti; emesis and nasal drops are not in it.",
               "Line 1: अभ्यंग, उद्वर्तन, स्नान, निरूह, स्नेह, बस्ति."),
         mcq("transfer", 5, "By the pattern of साभ्यंग, what does the invented word सपुत्रः mean?",
-            ("Together with a son",
-             "स- at the start means 'together with'."),
+            ("With a son",
+             "स- in a compound can mean 'together with' the rest."),
             [("Without a son", "'Without' would be अ- or निः-, not स-."),
              ("Born of a son", "Nothing in स- means 'born of'."),
              ("Of a son", "That would be पुत्रस्य.")],
             "साभ्यंग = स + अभ्यंग, 'together with massage'; सपुत्र = 'together with a son'.",
-            "स- + noun = 'together with'.",
-            teaches="A word that begins with स- in a compound means 'together with' the rest: साभ्यंग = with oil massage; सपुत्र = with a son."),
+            "स- + noun = 'together with' (in these compounds).",
+            teaches="In a compound the prefix स- (sa-) can mean 'together with' the rest: साभ्यंग = with oil massage; सपुत्र = with a son."),
     ],
 }
 
@@ -221,9 +221,9 @@ AUTHORED["40"] = {
         mcq("pretest", 0, "What does line 1 call the diseases coming from desire, anger, fear and the like?",
             ("Adventitious (आगन्तु) diseases",
              "The line says तेस्युरागंतवो गदाः: they would be the adventitious diseases."),
-            [("Innate (निज) diseases", "The verse does not use निज in this unit."),
-             ("Seasonal (ऋतुज) diseases", "Nothing in the line is about a season."),
-             ("Diseases of the body alone", "The line gives no such name.")],
+            [("Innate (निज), meaning inborn, diseases", "The verse does not use निज in this unit."),
+             ("Seasonal (ऋतुज) diseases of the year", "Nothing in the line is about a season."),
+             ("Diseases of the body alone, by any cause", "The line gives no such name.")],
             "आगन्तु means adventitious; गद means disease; the line calls the diseases from desire, anger and fear by that name.",
             "काम-क्रोध-भय-आदि → आगन्तु गद."),
         order(1, "Put the three named causes of line 1 in the order of the verse.",
@@ -242,7 +242,7 @@ AUTHORED["40"] = {
             [("ते + स्यू + रागंतवः", "रागंतवः is not a word."),
              ("तेस् + युरा + गंतवः", "None of these parts is a word."),
              ("ते + स्युर् + रागंतवः", "A र् would not be written twice here.")],
-            "ते (they) + स्युः (would be) + आगंतवः (adventitious); the final visarga also became ओ before the voiced ग of गदाः.",
+            "ते (they) + स्युः (would be) + आगंतवः (adventitious); the printed तेस्युरागंतवो joins स्युः + आगंतवः; the final visarga of आगंतवः shows as ओ before the voiced ग of गदाः.",
             "उः + vowel → उर् + vowel: स्युः + आगंतवः = स्युरागंतवः."),
         fill(4, "The word for 'diseases' in line 1 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("गदाः"),
@@ -266,12 +266,12 @@ AUTHORED["41"] = {
     "title": "देशकालात्मविज्ञानं",
     "question": "What does the unit list in line 1 and line 2?",
     "rule": ("Line 1 gives knowledge of place, time and self (and a following of "
-             "conduct: the word is damaged). Line 2: the pacificatory rite "
+             "conduct: the printed word सवृत्त may be a damaged सद्वृत्त). Line 2: the pacificatory rite "
              "prescribed in the Atharva (Veda), worship of unfavourable grahas."),
-    "limits": ("The printed सवृत्तस्य is probably a damaged सद्वृत्तस्य "
-               "('of good conduct'); no question uses it. A list with no verb. "
-               "'graha' stays graha (planet or seizing spirit). The verse "
-               "does not say what any item does."),
+    "limits": ("The printed सवृत्तस्य is possibly a damaged सद्वृत्तस्य; no question "
+               "uses it. देशकालात्मविज्ञान is read as knowledge of place, time and "
+               "self; 'knowledge of the self' is another reading. A list with no "
+               "verb; 'graha' stays graha. No item's effect is stated."),
     "explain_hi": ("यह इकाई सूची है और इसमें क्रिया नहीं है। पहली पंक्ति में देश, काल और आत्मा (स्वयं) का ज्ञान है; "
                    "उसके बाद ‘सवृत्तस्य अनुवर्तनम्’ छपा है, जहाँ ‘सवृत्त’ संभवतः ‘सद्वृत्त’ (अच्छा आचरण) है, "
                    "पर यह अनुमान है और प्रश्नों में नहीं लिया गया। दूसरी पंक्ति में अथर्व में विहित शान्ति (शान्ति कर्म) "
@@ -282,9 +282,9 @@ AUTHORED["41"] = {
         mcq("pretest", 0, "Which rite does line 2 name first, and where is it said to be prescribed?",
             ("A pacificatory rite prescribed in the Atharva (Veda)",
              "अथर्वविहिता शान्तिः is the first item of line 2."),
-            [("A sacrifice prescribed in the Ṛgveda", "The line names the Atharva, not the Ṛgveda."),
-             ("A penance prescribed in the law books", "The line names the Atharva."),
-             ("A bath prescribed in the Yajurveda", "The line names the Atharva, and a pacificatory rite.")],
+            [("A fire sacrifice prescribed in the hymns of the Ṛgveda", "The line names the Atharva, not the Ṛgveda."),
+             ("A penance prescribed in the old books of sacred law", "The line names the Atharva."),
+             ("A purifying bath prescribed in the Yajurveda texts", "The line names the Atharva, and a pacificatory rite.")],
             "अथर्वविहिता शान्तिः = the pacificatory rite prescribed in the Atharva (Veda).",
             "अथर्वविहिता शान्तिः = pacificatory rite prescribed in the Atharva."),
         order(1, "Put the three things whose knowledge opens line 1 in the order of the verse.",
@@ -338,7 +338,7 @@ AUTHORED["42"] = {
                "does not repeat the means here."),
     "explain_hi": ("पहली पंक्ति कहती है कि भूत आदि के स्पर्श से बचने का उपाय ‘पृथक्-पृथक्’ (अलग-अलग) बताया जा चुका है। "
                    "दूसरी पंक्ति में ‘अनुत्पत्त्यै’ (उत्पन्न न होने के लिए) चतुर्थी है, और ‘समासेन’ का "
-                   "अर्थ है ‘संक्षेप में’। ‘यह विधि दिखाई गई है’ कहकर पूरा वाक्य बंद होता है। "
+                   "अर्थ है ‘संक्षेप में’। ‘यह विधि दिखाई गई है’ पर क्रिया पूरी होती है; किसके लिए, यह अगली इकाई में आता है। "
                    "किसके उत्पन्न न होने की बात है, यह अगली इकाई में आता है, इसलिए यहाँ केवल इतना पूछा गया है "
                    "जितना इन दो पंक्तियों में है।"),
     "hook": "उपाय अलग-अलग बताया; अनुत्पत्ति के लिए यह विधि संक्षेप में दिखाई गई।",
@@ -381,13 +381,13 @@ AUTHORED["42"] = {
             "पृथक्पृथक् = each separately."),
         mcq("transfer", 5, "By the pattern of अनुत्पत्त्यै, what does the invented रक्षायै in विधिः रक्षायै mean?",
             ("For protection",
-             "A feminine word's dative singular ends in -ऐ and says 'for'."),
+             "A feminine word in -आ has the dative singular -आयै, and it says 'for'."),
             [("By protection", "'By' would be रक्षया."),
              ("In protection", "'In' would be रक्षायाम्."),
              ("From protection", "'From' would be रक्षायाः.")],
             "अनुत्पत्त्यै is the dative of अनुत्पत्ति: 'for non-arising'; रक्षायै is the dative of रक्षा.",
-            "Feminine dative singular -ऐ = for the sake of.",
-            teaches="The dative singular of a feminine word ends in -ऐ (अनुत्पत्त्यै, रक्षायै) and says 'for ...': purpose."),
+            "Feminine dative singular (-आयै, -त्यै) = for.",
+            teaches="The dative singular of a feminine word in -आ ends in -आयै (रक्षायै); a feminine -इ word can end in -त्यै (अनुत्पत्त्यै) or -तये: it says 'for ...', purpose."),
     ],
 }
 
@@ -428,7 +428,7 @@ AUTHORED["43"] = {
         mcq("discriminate", 3, "Which is the right split of निजागंतुविकाराणां?",
             ("निज + आगंतु + विकाराणां",
              "अ + आ joins as आ: निज + आगंतु = निजागंतु."),
-            [("निजा + गंतु + विकाराणां", "गंतु alone is not the word on the card."),
+            [("निजा + गंतु + विकाराणां", "The card splits निज + आगंतु (adventitious); निजा + गंतु leaves a stray आ and breaks the compound."),
              ("निजाग + तुविकाराणां", "Neither part is a word."),
              ("निजः + आगंतु + विकाराणां", "A visarga would not vanish like this.")],
             "निज (innate) + आगंतु (adventitious) + विकाराणां (of disorders) join into one word.",
@@ -491,7 +491,7 @@ AUTHORED["44"] = {
               teaches="घनात्यये is घन (cloud) + अत्यये (at the passing): a locative that says 'when'."),
         mcq("discriminate", 3, "Which is the right split of रोगानृतुजान्न?",
             ("रोगान् + ऋतुजान् + न",
-             "Final न् stays before a vowel and joins it; ऋतुजान् + न joins as ऋतुजान्न."),
+             "रोगान् + ऋतुजान्: final न् is kept before a vowel and written joined (रोगानृतुजान्); ऋतुजान् + न is written ऋतुजान्न with no change."),
             [("रोगाः + ऋतुजान् + न", "A visarga before ऋ would give रोगा ऋ..., not रोगान्."),
              ("रोग + आनृतुजान् + न", "आनृतुजान् is not a word."),
              ("रोगान् + तुजान् + न", "तुजान् is not a word.")],
@@ -594,7 +594,7 @@ AUTHORED["46"] = {
     "limits": ("Low confidence. The clause 'तत्कालयुक्तं यदि नास्ति दैव' is "
                "ambiguous (daiva for daivam, 'fate'?); no question rests on it "
                "or on the verse's claim about diseases. नोनुतपंति is "
-               "unexplained. Questions test only plain words of line 1."),
+               "unexplained. Questions test only plain words of the verse (three of line 1, जितेन्द्रिय of line 2)."),
     "explain_hi": ("इस श्लोक का पाठ अनिश्चित है (विश्वास: कम), इसलिए प्रश्न केवल पहली पंक्ति के साफ़ शब्दों पर हैं। "
                    "पहली पंक्ति कहती है: ‘अलभ्य’ (न पाने योग्य) विषयों में जो प्रयत्न नहीं करता, और ‘उपायवत्’ "
                    "(उपाय वाले) विषयों में सदा आदर रखता है। दूसरी पंक्ति का ‘जितेन्द्रिय’ शब्द साफ़ है, पर ‘तत्कालयुक्तं ... दैव’ वाला "
@@ -613,7 +613,7 @@ AUTHORED["46"] = {
         match(1, "Match each word to its meaning.",
               [["अलभ्य", "unobtainable"], ["अकृतप्रयत्न", "making no effort"],
                ["कृतादर", "showing regard"], ["जितेन्द्रिय", "one who has conquered the senses"]],
-              "Two words come from line 1 and one from line 2; these are the plain compounds.",
+              "Three words come from line 1 and one (जितेन्द्रिय) from line 2; these are the plain compounds.",
               "अलभ्य = unobtainable; अकृतप्रयत्न = making no effort; कृतादर = showing regard; जितेन्द्रिय = one who has conquered the senses.",
               role="warmup"),
         order(2, "Put the three phrases of line 1 in the order of the verse.",
@@ -690,9 +690,9 @@ AUTHORED["47"] = {
         mcq("discriminate", 3, "The printed word विषया ends in -आ. What is the full form?",
             ("विषयाः, with the visarga dropped before a voiced sound",
              "A trailing -आ can be -आः with the visarga dropped before a voiced consonant."),
-            [("विषयः, a single object", "One object would be विषयः, not विषया."),
-             ("विषयाम्, 'object' as the one acted on", "The verb भवंति is plural and needs a plural subject."),
-             ("विषये, 'in the object'", "This would end in -ए, not -आ.")],
+            [("विषयः, a single object, which would need a singular verb", "One object would be विषयः, not विषया."),
+             ("विषयाम्, an object as the one acted on", "The verb भवंति is plural and needs a plural subject."),
+             ("विषये, \"in the object\", locative singular", "This would end in -ए, not -आ.")],
             "विषयाः मनोज्ञाः: sense-objects, agreeable; the next word starts with the voiced म.",
             "-आ for -आः before a voiced sound: not a typo."),
         multi("apply", 4, "Which of these does the verse list as being for the steadfast person's happiness?",
@@ -708,7 +708,7 @@ AUTHORED["47"] = {
             ("Action followed by gain",
              "-अनुबंधि at the end means 'followed by' the first part."),
             [("Action without gain", "'Without' would use a negating अ-."),
-             ("Action that follows gain", "The first part is what follows the action, not what comes first."),
+             ("Action that follows gain", "-अनुबंधि means 'followed by' the first part (the gain comes after the action); the option reverses that order."),
              ("Gain born of action", "The word is built on 'followed by', not 'born of'.")],
             "सुखानुबंधि कर्म = action followed by happiness; लाभानुबंधि कर्म = action followed by gain.",
             "X-अनुबंधि = followed by X.",
@@ -749,7 +749,7 @@ AUTHORED["48"] = {
               "These three words are the frame of the closing line.",
               "इति = thus; नाम = by name; पंचम = fifth.",
               role="extend",
-              teaches="A chapter's closing line follows a frame: इति + title + नाम + number + अध्यायः."),
+              teaches="In this closing line the frame is इति + title + नाम + number + अध्यायः."),
         mcq("discriminate", 3, "Which is the right split of रोगानुत्पादनीयो नाम?",
             ("रोगानुत्पादनीयः + नाम",
              "अः before a voiced sound such as न becomes ओ."),
@@ -763,11 +763,11 @@ AUTHORED["48"] = {
              "अध्यायः means chapter.",
              "अध्यायः ends the line.",
              "अध्यायः = chapter.", role="apply"),
-        mcq("transfer", 5, "Following पंचमोऽध्यायः, how are षष्ठः (sixth) and अध्यायः joined?",
+        mcq("transfer", 5, "Following पंचमोऽध्यायः, how is षष्ठः (sixth) before the word अध्यायः written in sandhi, as two words?",
             ("षष्ठोऽध्यायः",
              "षष्ठः + अध्यायः: अः + अ becomes ओऽ."),
             [("षष्ठेऽध्यायः", "ए would be the locative, 'in the sixth chapter'."),
-             ("षष्ठाध्यायः", "This joins as a compound and shows no visarga change."),
+             ("षष्ठाध्यायः", "That is a single compound word, not the two-word sandhi of the pattern."),
              ("षष्ठ अध्यायः", "The visarga before अ becomes ओऽ here, not a gap.")],
             "पंचमः + अध्यायः gives पंचमोऽध्यायः; षष्ठः + अध्यायः gives षष्ठोऽध्यायः.",
             "अः + अ → ओऽ.",
@@ -781,12 +781,12 @@ NOTES_HI = {
     "39": "विश्वास: मध्यम। पहली पंक्ति इकाई ३८ के ‘लभते’ के शेष कर्म पूरा करती है; दूसरी पंक्ति ‘ये … संभवाः’ का वाक्यांश शुरू करती है जिसका संज्ञा-पद (गदाः) इकाई ४० में है। ‘भूत’ = प्राणी या आत्माएँ; ‘वायु’ यहाँ हवा। अनुवाद के अंत में ‘...’ है क्योंकि वाक्य अधूरा है। संधि जाँची: वर्ण + इन्द्रिय → वर्णेन्द्रिय (अ + इ → ए); दैर्घ्यम् + आयुषः → दैर्घ्यमायुषः; भूत-विष-वायु-अग्नि: वायु + अग्नि → वाय्वग्नि (उ → व्)।",
     "40": "विश्वास: मध्यम। ‘कामक्रोधभयाद्याः’ = ‘काम, क्रोध, भय जिनके आदि में हैं’। छपा ‘तेस्युर’ वस्तुतः ‘ते स्युः’ है। पहली पंक्ति इकाई ३९ के ‘ये’ वाक्यांश को पूरा करती है; दूसरी पंक्ति नई सूची शुरू करती है, क्रिया नहीं। ‘स्मृति’ का अर्थ सजगता भी हो सकता है। संधि जाँची: स्युः + आगंतवः → स्युरागंतवः (विसर्ग → र्); आगंतवः + गदाः → आगंतवो गदाः; भय + आद्याः → भयाद्याः।",
     "41": "विश्वास: मध्यम। पाठ-चिह्न: छपा ‘सवृत्तस्यानुवर्त्तनं’ में ‘सद्वृत्त’ अपेक्षित है (‘द्’ छूटा लगता है, छंद अपरिवर्तित); यह अनुमान है, इसलिए उस अंश पर प्रश्न नहीं। ‘आत्मविज्ञान’ का अर्थ ‘स्व का ज्ञान’ भी हो सकता है। ‘ग्रह’ को ग्रह ही रखा गया है (तारे या पकड़ने वाली शक्ति)। सूची में क्रिया नहीं है। संधि जाँची: देश-काल-आत्म-विज्ञान में काल + आत्म → कालात्म; ग्रह + अर्चन → ग्रहार्चन।",
-    "42": "विश्वास: उच्च। ‘अनुत्पत्त्यै’ का कर्म-पद (निजागंतुविकाराणाम्) इकाई ४३ में है। ‘पृथक्पृथक्’ द्वित्व से ‘अलग-अलग’। ‘निर्दिष्ट’ और ‘प्रदर्शित’ भूतकालिक कृदंत हैं। संधि जाँची: विधिः + एषः → विधिरेषः; भूत-आदि-अस्पर्शन-उपायः → भूताद्यस्पर्शनोपायः (इ + अ → य्; अ + उ → ओ); निर्दिष्टः + च → निर्दिष्टश्च। यह इकाई ४२ का दूसरा आधा और ४३ मिलकर एक श्लोक है।",
+    "42": "विश्वास: उच्च। ‘अनुत्पत्त्यै’ का कर्म-पद (निजागंतुविकाराणाम्) इकाई ४३ में है। ‘पृथक्पृथक्’ द्वित्व से ‘अलग-अलग’। ‘निर्दिष्ट’ और ‘प्रदर्शित’ भूतकालिक कृदंत हैं। संधि जाँची: विधिः + एषः → विधिरेषः; भूत-आदि-अस्पर्शन-उपायः → भूताद्यस्पर्शनोपायः (अ + आ → आ; इ + अ → य्; अ + उ → ओ); निर्दिष्टः + च → निर्दिष्टश्च। यह इकाई ४२ का दूसरा आधा और ४३ मिलकर एक श्लोक है।",
     "43": "विश्वास: उच्च। यह अकेली पंक्ति है; ‘अनुत्पत्त्यै … विधिरेषः प्रदर्शितः’ (इकाई ४२) इसे पूरा करता है। निज + आगन्तु + विकाराणाम् का समास द्वंद्व-फिर-तत्पुरुष है। ‘उत्पन्नानाम्’ षष्ठी बहुवचन है। संधि जाँची: निज + आगंतु → निजागंतु (अ + आ → आ); उत्पन्नानाम् + च → उत्पन्नानां च (अनुस्वार)।",
     "44": "विश्वास: मध्यम। पाठ-चिह्न: ‘ग्रीष्मजमभ्रकाले’ में स्कैन ‘अकाले’ पढ़ता था; ‘अभ्र-’ ऊपरी संपादकीय परिवर्तन है (छंद ४४ में २२ अक्षर इसी से पूरे होते हैं); अंग्रेज़ी का ‘(the rains)’ इसी पर टिका है, इसलिए ग्रीष्मज संचय के शोधन के काल पर प्रश्न नहीं बना। ‘घनात्यये’ = मेघों के जाने पर; ऋतु का नाम श्लोक में नहीं है। कर्ता (विशोधयन्) ऊपर से जोड़ा गया है। उपजाति, २२ अक्षर। संधि जाँची: रोगान् + ऋतुजान् + न → रोगानृतुजान्न।",
     "45": "विश्वास: उच्च। ‘दातासमः’ को ‘दाता समः’ पढ़ा गया है; ‘दाता असमः’ (अतुल्य दाता) व्याकरण से संभव है, इसलिए उस पर प्रश्न नहीं। ‘विहार’ = सामान्य आचरण; ‘आप्त’ = विश्वसनीय जन। उपजाति, २२ अक्षर। संधि जाँची: विषयेषु + असक्तः → विषयेष्वसक्तः (उ → व्); आप्त + उपसेवी → आप्तोपसेवी (अ + उ → ओ); क्षमावान् + आप्त → क्षमावानाप्तो…।",
-    "46": "विश्वास: कम। ‘तत्कालयुक्तं यदि नास्ति दैव’ अस्पष्ट है: ‘दैव’ में अनुस्वार छूटा लगता है (‘दैवम्’ अपेक्षित, सुझाव), और ‘उस समय से जुड़ा’ दो तरह से पढ़ा जा सकता है; पुस्तक इसे प्रतिकूल भाग्य मानती है। इसलिए इस अंश पर और रोगों के दावे पर कोई प्रश्न नहीं बना; प्रश्न केवल साफ़ शब्दों पर हैं। छपा ‘नोनुतपंति’ (न + अनुतपंति) की संधि सामान्य नियम से नहीं बैठती; इसलिए उस पर प्रश्न नहीं। ‘उपायवत्सु’ = उपाय वालों में। उपजाति, २२ अक्षर। संधि जाँची: विषयेषु-रूप अर्थेषु + अलभ्येषु → अर्थेष्वलभ्येषु (उ/उ → व्)।",
-    "47": "विश्वास: उच्च। ‘विषया’ और ‘मनोज्ञा’ विसर्ग-रहित रूप हैं (विषयाः, मनोज्ञाः); यह वर्तनी की भूल नहीं है। ‘क्रियाः कर्म’ को दो पद या एक वाक्यांश दोनों पढ़ा जा सकता है; यहाँ दो माना गया पर प्रश्न इन्हें साथ रखता है। ‘सत्त्व’ = मन (सत्त्व); ‘सत्त्व’ का अर्थ मन का बल भी हो सकता है। उपजाति, २२ अक्षर। संधि जाँची: कालः + अनुकूलः → कालोऽनुकूलः; सुख + अनुबंधि → सुखानुबंधि।",
+    "46": "विश्वास: कम। ‘तत्कालयुक्तं यदि नास्ति दैव’ अस्पष्ट है: ‘दैव’ में अनुस्वार छूटा लगता है (‘दैवम्’ अपेक्षित, सुझाव), और ‘उस समय से जुड़ा’ दो तरह से पढ़ा जा सकता है; पुस्तक इसे प्रतिकूल भाग्य मानती है। इसलिए इस अंश पर और रोगों के दावे पर कोई प्रश्न नहीं बना; प्रश्न केवल साफ़ शब्दों पर हैं। छपा ‘नोनुतपंति’ (न + अनुतपंति) की संधि सामान्य नियम से नहीं बैठती; इसलिए उस पर प्रश्न नहीं। ‘उपायवत्सु’ = उपाय वालों में। उपजाति, २२ अक्षर। संधि जाँची: अर्थेषु + अलभ्येषु → अर्थेष्वलभ्येषु; अलभ्येषु + अकृत- → अलभ्येष्वकृत- (उ + अ → व् + अ)।",
+    "47": "विश्वास: उच्च। ‘विषया’ और ‘मनोज्ञा’ विसर्ग-रहित रूप हैं (विषयाः, मनोज्ञाः); यह वर्तनी की भूल नहीं है। ‘क्रियाः कर्म’ को दो पद या एक वाक्यांश दोनों पढ़ा जा सकता है; यहाँ दो माना गया पर प्रश्न इन्हें साथ रखता है। ‘सत्त्व’ = मन (सत्त्व); ‘सत्त्व’ का अर्थ मन का बल भी हो सकता है। उपजाति, २२ अक्षर। छपा ‘धर्म्म्याः’ में म् दोहरा है; यहाँ ‘धर्म्याः’ (धर्मयुक्त) पढ़ा गया। संधि जाँची: कालः + अनुकूलः → कालोऽनुकूलः; सुख + अनुबंधि → सुखानुबंधि।",
     "48": "विश्वास: उच्च। गद्य समाप्ति-पंक्ति है। ‘रोगानुत्पादनीय’ = रोग + अनुत्पादनीय, ‘जिन रोगों को उत्पन्न नहीं होने देना है’; शीर्षक का अर्थ पुस्तक के अनुसार रोगों के न उत्पन्न होने पर अध्याय। अंत का ‘५’ अध्याय-संख्या है। संधि जाँची: रोगानुत्पादनीयः + नाम → रोगानुत्पादनीयो नाम; पंचमः + अध्यायः → पंचमोऽध्यायः (छपा ‘पंचमो ऽध्यायः’ में बीच का स्थान छपाई का है)।",
 }
 
@@ -795,7 +795,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पंक्ति १: इन द्रव्यों से",
              "items": ["शालि", "षष्टिक", "गोधूम", "मुद्ग", "मांस", "घृत", "आदि"]},
-            {"label": "पंक्ति २: साधन",
+            {"label": "पंक्ति २: संयोग और रुचि-पाचन देने वाले",
              "items": ["हृद्य-दीपन भैषज्य का संयोग", "रुचि और पाचन देने वाले"]}]},
         "chunks": "शालिषष्टिकगोधूम | मुद्गमांसघृतादिभिः ‖ हृद्यदीपनभैषज्य | संयोगाद्रुचिपक्तिदैः।",
         "sandhi": "त् + घोष → द्: संयोगात् + रुचि → संयोगाद्रुचि। घृत + आदिभिः → घृतादिभिः (अ + आ → आ)।",
@@ -805,7 +805,7 @@ AIDS = {
         "diagram": {"steps": ["साधन: अभ्यंग सहित उद्वर्तन, स्नान, निरूह, स्नेह, बस्ति", "वह प्राप्त करता है (लभते)", "फल: शर्म और सब अग्नियों की तीक्ष्णता"]},
         "chunks": "साभ्यंगोद्वर्तन | स्नाननिरूहस्नेहबस्तिभिः ‖ तथा स लभते शर्म | सर्वपावकपाटवं।",
         "sandhi": "अ + अ → आ: स + अभ्यंग → साभ्यंग। अ + उ → ओ: अभ्यंग + उद्वर्तन → अभ्यंगोद्वर्तन।",
-        "anchors": "स- = के साथ · अभ्यंग = तेल-मालिश · उद्वर्तन = उबटन-मलना · शर्म = सुख · पाटव = तीक्ष्णता · पावक = अग्नि।",
+        "anchors": "स- = के साथ · अभ्यंग = तेल-मालिश · उद्वर्तन = (शरीर पर) मलना, रगड़ना · शर्म = सुख · पाटव = तीक्ष्णता · पावक = अग्नि।",
     },
     "39": {
         "diagram": {"groups": [
@@ -828,18 +828,18 @@ AIDS = {
         "anchors": "आगन्तु = बाहर से आने वाला · गद = रोग · प्रज्ञापराध = बुद्धि की भूल · उपशम = शमन · स्मृति = याद।",
     },
     "41": {
-        "chunks": "देशकालात्मविज्ञानं | सवृत्तस्यानुवर्त्तनं (अंतिम शब्द क्षतिग्रस्त) ‖ अथर्वविहिता शांतिः | प्रतिकूलग्रहार्चनं।",
+        "chunks": "देशकालात्मविज्ञानं | सवृत्तस्यानुवर्त्तनं (सवृत्त: संभवतः ‘सद्वृत्त’, अनुमान) ‖ अथर्वविहिता शांतिः | प्रतिकूलग्रहार्चनं।",
         "sandhi": "अ + आ → आ: काल + आत्म → कालात्म। अ + अ → आ: ग्रह + अर्चन → ग्रहार्चन।",
         "anchors": "विहित = विधान किया गया · शान्ति = शान्ति कर्म · प्रतिकूल = विपरीत · अर्चन = पूजा।",
     },
     "42": {
         "chunks": "भूताद्यस्पर्शनोपायो | निर्दिष्टश्च पृथक्पृथक् ‖ अनुत्पत्त्यै समासेन | विधिरेषः प्रदर्शितः।",
-        "sandhi": "इः + स्वर → इर्: विधिः + एषः → विधिरेषः। इ + अ → य्: भूत + आदि + अस्पर्शन → भूताद्यस्पर्शन।",
+        "sandhi": "इः + स्वर → इर्: विधिः + एषः → विधिरेषः। अ + आ → आ: भूत + आदि → भूतादि। इ + अ → य्: आदि + अस्पर्शन → आद्यस्पर्शन।",
         "frame": "पंक्ति १: उपाय अलग-अलग बताया · पंक्ति २: अनुत्पत्ति के लिए यह विधि संक्षेप में।",
         "anchors": "पृथक् = अलग · समास = संक्षेप · अनुत्पत्ति = उत्पन्न न होना · प्रदर्शित = दिखाया गया।",
     },
     "43": {
-        "chunks": "निजागंतुविकाराणा- | मुत्पन्नानां च शांतये।",
+        "chunks": "निजागंतुविकाराणामुत्पन्नानां | च शांतये।",
         "sandhi": "अ + आ → आ: निज + आगंतु → निजागंतु। म् → अनुस्वार: उत्पन्नानाम् + च → उत्पन्नानां च।",
         "anchors": "निज = सहज · आगन्तु = बाहर से आने वाला · विकार = रोग, विकृति · शान्तये = शान्ति के लिए (चतुर्थी)।",
         "frame": "इकाई ४२ का शेष: अनुत्पत्त्यै (निज-आगन्तु के लिए) · शान्तये (उत्पन्नों के लिए)।",
@@ -851,13 +851,13 @@ AIDS = {
             {"label": "शोधन का काल",
              "items": ["वसन्त", "अभ्रकाल (संपादित पाठ)", "घनात्यय"]}]},
         "chunks": "शीतोद्भवं दोषचयं वसंते | विशोधयन् ग्रीष्मजमभ्रकाले ‖ घनात्यये वार्षिकमाशु सम्यक् | प्राप्नोति रोगानृतुजान्न जातु।",
-        "sandhi": "न् + स्वर साथ: रोगान् + ऋतुजान् → रोगानृतुजान्। ‘ान् + न’: ऋतुजान् + न → ऋतुजान्न।",
+        "sandhi": "न् + स्वर साथ: रोगान् + ऋतुजान् → रोगानृतुजान्। ऋतुजान् + न → ऋतुजान्न (न् + न साथ लिखे जाते हैं, बदलाव नहीं)।",
         "frame": "क्या: तीन संचय · कब: वसन्त, (अभ्रकाल), घनात्यय · कैसे: शीघ्र और सम्यक् · फल: ऋतुज रोग कभी नहीं।",
     },
     "45": {
         "diagram": {"groups": [
             {"label": "गुण (श्लोक के क्रम में)",
-             "items": ["हित आहार-विहार", "विचारकर कार्य", "विषयों में अनासक्त", "दाता, सम", "सत्यपरायण", "क्षमावान्", "आप्त-सेवी"]},
+             "items": ["हित आहार-विहार", "विचारकर कार्य", "विषयों में अनासक्त", "दातासमः (दाता सम; दूसरा पाठ: दाता असम)", "सत्यपरायण", "क्षमावान्", "आप्त-सेवी"]},
             {"label": "फल",
              "items": ["अरोग होता है"]}]},
         "chunks": "नित्यं हिताहारविहारसेवी | समीक्ष्यकारी विषयेष्वसक्तः ‖ दातासमः सत्यपरः | क्षमावानाप्तोपसेवी च भवत्यरोगः।",
@@ -865,7 +865,7 @@ AIDS = {
         "anchors": "-सेवी = सेवन करने वाला · -कारी = करने वाला · आप्त = विश्वसनीय · समीक्ष्य = विचारकर · अरोग = नीरोग।",
     },
     "46": {
-        "chunks": "अर्थेष्वलभ्येष्वकृतप्रयत्नं | कृतादरं नित्यमुपायवत्सु ‖ (दूसरी पंक्ति का अंत अस्पष्ट, यहाँ नहीं दिया)",
+        "chunks": "अर्थेष्वलभ्येष्वकृतप्रयत्नं | कृतादरं नित्यमुपायवत्सु ‖ जितेंद्रियं (दूसरी पंक्ति का शेष अंश अस्पष्ट, यहाँ नहीं दिया)",
         "sandhi": "उ + अ → व्: अर्थेषु + अलभ्येषु → अर्थेष्वलभ्येषु; अलभ्येषु + अकृत → अलभ्येष्वकृत।",
         "anchors": "अलभ्य = न पाने योग्य · अकृतप्रयत्न = जिसने प्रयत्न नहीं किया · कृतादर = आदर रखने वाला · उपायवत् = उपाय वाला · जितेन्द्रिय = इन्द्रियों को जीतने वाला।",
     },
@@ -877,7 +877,7 @@ AIDS = {
              "items": ["विधेय सत्त्व", "विशद बुद्धि", "धीर के लिए सदा सुख"]}]},
         "chunks": "कालोऽनुकूलो विषया मनोज्ञा | धर्म्याः क्रियाः कर्म सुखानुबंधि ‖ सत्त्वं विधेयं विशदा च बुद्धिः | भवंति धीरस्य सदासुखाय।",
         "sandhi": "अः + अ → ओऽ: कालः + अनुकूलः → कालोऽनुकूलः। विसर्ग-रहित: विषया = विषयाः, मनोज्ञा = मनोज्ञाः (घोष से पहले)।",
-        "anchors": "अनुकूल = हितकर · मनोज्ञ = मन को भाने वाला · विधेय = वश में रहने वाला · विशद = निर्मल · धीर = स्थिरबुद्धि।",
+        "anchors": "अनुकूल = अनुकूलता वाला, मेल खाने वाला · मनोज्ञ = मन को भाने वाला · विधेय = वश में रहने वाला · विशद = निर्मल · धीर = स्थिरबुद्धि।",
     },
     "48": {
         "chunks": "इति रोगानुत्पादनीयो नाम | पंचमोऽध्यायः ॥ ५ ॥",
@@ -893,7 +893,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "श्लोक ३७: द्रव्य और साधन",
         "cols": [["पंक्ति १: इन द्रव्यों से", ["शालि", "षष्टिक", "गोधूम", "मुद्ग", "मांस", "घृत", "आदि"]],
-                 ["पंक्ति २: साधन", ["हृद्य-दीपन भैषज्य का संयोग", "रुचि-पाचन देने वाले"]]],
+                 ["पंक्ति २: संयोग और रुचि-पाचन देने वाले", ["हृद्य-दीपन भैषज्य का संयोग", "रुचि-पाचन देने वाले"]]],
     },
     ("38", "diagram"): {
         "file": "ch5b04-means-result-38.svg",
@@ -926,10 +926,10 @@ IMAGE_SPECS = {
     },
     ("45", "diagram"): {
         "file": "ch5b04-arogah-45.svg",
-        "alt": "Mind map: the person who follows wholesome food and conduct, acts after consideration, is unattached, generous and even-minded, devoted to truth, forbearing and attends the trustworthy becomes free from disease",
+        "alt": "Mind map: the person who follows wholesome food and conduct, acts after consideration, is unattached, devoted to truth, forbearing and attends the trustworthy becomes free from disease (the doubtful word दातासमः is left out of the picture)",
         "type": "mermaid",
         "code": ('mindmap\n  अरोग होता है\n    हित आहार-विहार\n    विचारकर कार्य\n    विषयों में अनासक्त\n'
-                 '    दाता, सम\n    सत्यपरायण\n    क्षमावान्\n    आप्त-सेवी\n'),
+                 '    सत्यपरायण\n    क्षमावान्\n    आप्त-सेवी\n'),
     },
     ("47", "diagram"): {
         "file": "ch5b04-sukha-47.svg",
