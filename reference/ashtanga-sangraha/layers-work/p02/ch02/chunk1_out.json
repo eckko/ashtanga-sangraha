@@ -711,6 +711,425 @@
   "confidence": "medium"
  },
  {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maharṣo",
+      "words": [
+       {
+        "w": "maharṣaḥ",
+        "gloss": "unclear (printed form; possibly 'great joy' or 'joy', mahā-harṣa/praharṣa)",
+        "gram": "m. nom. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "hṛllābhastaṃdrā'ṃgasādaḥpraseko",
+      "words": [
+       {
+        "w": "hṛllābhaḥ",
+        "gloss": "unclear: printed hṛllābha; probably hṛllāsa, nausea",
+        "gram": "m. nom. sg. (uncertain)"
+       },
+       {
+        "w": "tandrā",
+        "gloss": "drowsiness",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aṅga-sādaḥ",
+        "gloss": "limb; weariness, slackness",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "prasekaḥ",
+        "gloss": "flow, trickling (praseka)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayanpathā",
+      "words": [
+       {
+        "w": "hṛdaya-vyathā",
+        "gloss": "heart; distress, pain (hṛdaya: the heart; standard)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "glāniḥ",
+      "words": [
+       {
+        "w": "glāniḥ",
+        "gloss": "exhaustion",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pipāsā",
+      "words": [
+       {
+        "w": "pipāsā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार, अनुमानित पाठ पर, अत्यन्त हर्ष, जी मिचलाना, तन्द्रा, अंगों की शिथिलता, प्रसेक यानी बहाव, हृदय की पीड़ा, थकावट और प्यास।",
+  "english": "Likewise, on a conjectural reading: great joy, nausea, drowsiness, limb-weariness, flow (praseka), heart-distress, exhaustion and thirst.",
+  "text_flags": [
+   {
+    "src": "maharṣo",
+    "suggest": "praharṣaḥ (or mahāharṣaḥ)",
+    "why": "possible: 'maharṣaḥ' is not a fitting word in a list of signs; harṣa-type word suspected; reading uncertain"
+   },
+   {
+    "src": "hṛllābhaḥ",
+    "suggest": "hṛllāsaḥ",
+    "why": "possible: hṛllāsa 'nausea' is the usual word in such lists; bha/sa confusion; reading uncertain"
+   },
+   {
+    "src": "hṛdayanpathā",
+    "suggest": "hṛdayavyathā",
+    "why": "possible: 'hṛdayanpathā' is not a word; vyathā 'distress' fits the sense; vy/np confusion"
+   }
+  ],
+  "notes": "Three doubtful words in this list of signs of early pregnancy; the printed forms are kept in src and the translations are marked 'on a conjectural reading'. Only 'maharṣaḥ' is the least sure (the first member could be a noun for joy or horripilation); do not rely on it. 'prasekaḥ' is 'flow, trickling' (no noun supplied). 'aṅga-sādaḥ' is a compound of aṅga + sāda (the print has 'aṃgasādaḥpraseko' joined). Identification: hṛdaya = heart (standard).",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "krameṇa",
+      "words": [
+       {
+        "w": "krameṇa",
+        "gloss": "gradually, in order",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyaktagarbhāyāḥkukṣimātraugauravaṃ",
+      "words": [
+       {
+        "w": "vyakta-garbhāyāḥ",
+        "gloss": "manifest; whose foetus (she whose pregnancy has become manifest)",
+        "gram": "bahuvrīhi, f. gen. sg."
+       },
+       {
+        "w": "kukṣi-mātra-gauravam",
+        "gloss": "belly; only, alone; heaviness",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣāmanetrasvaratā'kṣiromasaṃtulanaṃ",
+      "words": [
+       {
+        "w": "kṣāma-netra-svara-tā",
+        "gloss": "weak, faint; eye; voice; state of being",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "akṣi-roma-saṃtulanam",
+        "gloss": "eye; hair; balancing, evenness (sense unclear)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidrā",
+      "words": [
+       {
+        "w": "nidrā",
+        "gloss": "sleep",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṛṃbhaṇaṃ",
+      "words": [
+       {
+        "w": "jṛmbhaṇam",
+        "gloss": "yawning",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūrcchāchardiraruciḥ",
+      "words": [
+       {
+        "w": "mūrcchā",
+        "gloss": "fainting",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "chardiḥ",
+        "gloss": "vomiting (chardi)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aruciḥ",
+        "gloss": "distaste for food (aruci: anorexia)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādaśopho'mle'bhilāṣasteṣu",
+      "words": [
+       {
+        "w": "pāda-śophaḥ",
+        "gloss": "foot; swelling (śopha: swelling, oedema; standard)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "amle",
+        "gloss": "in the sour",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "abhilāṣaḥ",
+        "gloss": "craving",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "teṣu",
+        "gloss": "in those",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "coccāvaceṣu",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uccāvaceṣu",
+        "gloss": "high and low, various",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāveṣviti",
+      "words": [
+       {
+        "w": "bhāveṣu",
+        "gloss": "in states, conditions",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "english": "But gradually, in a woman whose pregnancy has become manifest: heaviness of the belly (kukṣi) alone, weakness of eye and voice, balancing (saṃtulana) of eye and hair (sense unclear), sleep, yawning, fainting, vomiting (chardi), distaste for food, swelling of the feet, and craving for the sour, in those various states.",
+  "text_flags": [
+   {
+    "src": "kukṣimātraugauravaṃ",
+    "suggest": "kukṣimātragauravaṃ",
+    "why": "possible: the print has an extra 'au' after mātra; kukṣi-mātra-gauravam 'heaviness of the belly alone' fits; alternative reading not excluded"
+   }
+  ],
+  "notes": "Two uncertain items: (1) 'kukṣimātra-gauravam' (print 'kukṣimātraugauravaṃ'): see text_flags; (2) 'akṣi-roma-saṃtulanam' has no clear sense; it is translated literally and its meaning is not asserted. 'kṣāmanetrasvaratā' is read as kṣāma-netra-svara-tā 'weakness of eyes and voice'; the sense of 'tā' with this compound is not secure. The closing 'iti' (here 'thus', ending the list) is shown in notes only. 'amle' loc. 'for the sour (taste)'; no noun like 'things' added. The print runs words together without spaces: vyaktagarbhāyāḥkukṣi-, pādaśopho'mle'bhilāṣasteṣu. Identification: chardi = vomiting; aruci = loss of taste for food (anorexia); śopha = swelling (oedema) (all standard).",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāśca",
+      "words": [
+       {
+        "w": "tasyāḥ",
+        "gloss": "of her",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rajovāhinīṃ",
+      "words": [
+       {
+        "w": "rajaḥ-vāhinīnām",
+        "gloss": "rajas (menstrual blood); carrying",
+        "gram": "tat-puruṣa, f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "srotasāṃ",
+      "words": [
+       {
+        "w": "srotasām",
+        "gloss": "of the srotas (bodily channels)",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vartmānyuparudhyaṃte",
+      "words": [
+       {
+        "w": "vartmāni",
+        "gloss": "paths",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "uparudhyante",
+        "gloss": "are blocked",
+        "gram": "3 pl. pres. pass. upa-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "garbheṇa",
+      "words": [
+       {
+        "w": "garbheṇa",
+        "gloss": "by the embryo",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके रज को वहन करने वाले स्रोतसों यानी शरीर की वाहिनियों के मार्ग गर्भ द्वारा रुक जाते हैं।",
+  "english": "And the paths of her srotas (bodily channels) that carry rajas (menstrual blood) are blocked by the embryo.",
+  "text_flags": [
+   {
+    "src": "rajovāhinīṃ",
+    "suggest": "rajovāhinīnāṃ",
+    "why": "possible: the genitive plural 'rajovāhinīnām' is needed to agree with srotasām; the print lacks 'nā'"
+   }
+  ],
+  "notes": "'srotas' (channel) is a doctrinal term, kept with a short plain gloss, not forced to a single modern structure. 'rajovāhinī' = rajas-carrying (channels); rajas = menstrual blood (standard in this context).",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāttataḥparamārtavaṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tataḥ",
+        "gloss": "thereafter",
+        "gram": "ind."
+       },
+       {
+        "w": "param",
+        "gloss": "after, beyond",
+        "gram": "ind."
+       },
+       {
+        "w": "ārtavam",
+        "gloss": "ārtava (menstrual fluid)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pres. pass. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए उसके बाद आर्तव यानी स्त्री का रज दिखाई नहीं देता।",
+  "english": "Therefore, from then on, the ārtava (menstrual fluid) is not seen.",
+  "text_flags": [],
+  "notes": "Refers to the stopping of the menstrual flow after conception (see unit 10). Identification: ārtava = menstrual fluid (standard).",
+  "confidence": "high"
+ },
+ {
   "n": "12",
   "lines": [
    {
@@ -2229,6 +2648,60 @@
   "english": "For its heart is born of the mother, and is joined to the mother's heart by dhamanīs (vessels) that carry its rasa.",
   "text_flags": [],
   "notes": "'tad' in 'tadrasa' is not clearly stated: it may mean 'the rasa of that (mother)' or 'of that (the heart)'; 'its rasa' in the translation is a literal placeholder for that. dhamanī = vessel (tube-like channel); whether it means artery or umbilical vessel is not stated and is not asserted. The printed token runs words together (tadrasahāriṇībhirdhamanībhirmātṛhṛdayenābhisaṃbaddhaṃ). hṛdaya = heart (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāttayostābhiḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tayoḥ",
+        "gloss": "in the two",
+        "gram": "gen./loc. du."
+       },
+       {
+        "w": "tābhiḥ",
+        "gloss": "through them",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śraddhā",
+      "words": [
+       {
+        "w": "śraddhā",
+        "gloss": "longing, desire",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpadyate",
+      "words": [
+       {
+        "w": "sampadyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. mid. sam-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए उन दोनों में उनके द्वारा श्रद्धा यानी इच्छा उत्पन्न होती है।",
+  "english": "Therefore, in the two, through those (vessels), a longing (śraddhā) arises.",
+  "text_flags": [],
+  "notes": "'tayoḥ' is taken as 'in the two (the mother and the embryo)' and 'tābhiḥ' as the dhamanīs of 33; both are the natural reading but are not stated. śraddhā here: longing, desire (see the daurhṛda units 35-38), not 'faith'. GROUPING: appears to continue 33.",
   "confidence": "medium"
  },
  {
