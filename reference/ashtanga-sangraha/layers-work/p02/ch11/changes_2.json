@@ -1,0 +1,172 @@
+[
+ {
+  "n": "43",
+  "field": "english",
+  "old": "On a conjectural reading: (one) harmed by purgation (virecana) and distended (bloated, ānāha) again and again.",
+  "new": "On a conjectural reading: (one) harmed by purgation (virecana) and distended (ānāha: bloating with retention) again and again.",
+  "why": "reviewer (minor): Fixed rendering for ānāha is 'bloating with retention'; plain 'bloated' loses the retention and merges it with ādhmāna (45)."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: विरेचन से आहत, बार-बार आनाह यानी पेट फूलने से ग्रस्त होते हुए को।",
+  "new": "अनुमानित पाठ पर: विरेचन से आहत, बार-बार आनाह यानी रुकावट के साथ पेट फूलने से ग्रस्त होते हुए को।",
+  "why": "reviewer (minor): Fixed rendering for ānāha is 'bloating with retention'; plain 'bloated' loses the retention and merges it with ādhmāna (45)."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "सूजन वाला पाण्डु रोग यानी रक्ताल्पता; पीली आँखों और नाखूनों के दिखने वाले को।",
+  "new": "सूजन वाला पाण्डु रोग यानी रक्ताल्पता; जिसमें पीली आँखें और नाखून दिखाई देते हैं, उसे।",
+  "why": "reviewer (minor): Awkward and ambiguous Hindi for the bahuvrīhi pīta-akṣi-nakha-darśanam; it reads as 'the one who sees' rather than 'in whom yellow eyes and nails are seen'."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "अनेक उपद्रवों से युक्त; दोनों पैरों से फैले हुए पुरुष को।",
+  "new": "अनेक उपद्रवों यानी जटिलताओं से युक्त; दोनों पैरों से फैले हुए पुरुष को।",
+  "why": "reviewer (minor): English glosses upadrava (complications); Hindi has no gloss."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "और जिसकी दोनों जाँघें धँसती हैं, उसे वैद्य छोड़ दे।",
+  "new": "और जिसकी दोनों जाँघें सचमुच धँसती हैं, उसे वैद्य छोड़ दे।",
+  "why": "reviewer (minor): 'eva' (indeed) is translated in English but dropped in Hindi."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "सूजते हैं, या देह को छोड़कर सूजते हैं; वह मास में पञ्चता यानी मृत्यु को प्राप्त होता है।",
+  "new": "सूजते हैं, या देह से अलग सूजते हैं; वह मास में पञ्चता यानी मृत्यु को प्राप्त होता है।",
+  "why": "reviewer (minor): 'देह को छोड़कर' reads as 'leaving the body' (dying). vinā + ablative is 'apart from / without'."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "या जिसका वस्त्र पेट के उभरे होने के कारण अनुमानित पाठ पर नहीं टिकता।",
+  "new": "अनुमानित पाठ पर: या जिसका वस्त्र पेट के उभरे होने के कारण नहीं टिकता।",
+  "why": "reviewer (minor): The conjectural mark placed before 'नहीं टिकता' reads as 'does not stay on a conjectural reading', i.e. as if the statement were hypothetical, not the emendation unnatāt. Put the mark at the head of the sentence, as in 43, 62."
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "Printed 'vīsarpaḥ' (long ī) is the word visarpa, normalised in `w`. The verb ('hanti') appears in 60 if this belongs to the same run (not fixed). Orthography normalised in `w`: doubled consonants (ccharddi, mūrcchā) written chardi, mūrchā.",
+  "new": "Printed 'vīsarpaḥ' (long ī) is the word visarpa, normalised in `w`. The verb ('hanti') appears in 60 if this belongs to the same run (not fixed). Orthography normalised in `w`: doubled consonants (mūrcchā) written mūrchā.",
+  "why": "reviewer (minor): Note mentions 'ccharddi' which does not occur in this unit."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "कुष्ठ यानी कोढ़; बिखरते हुए अंगों वाले, लाल आँखों वाले और नष्ट स्वर वाले को।",
+  "new": "कुष्ठ यानी कोढ़, जो त्वचा रोगों के एक समूह का नाम है; बिखरते हुए अंगों वाले, लाल आँखों वाले और नष्ट स्वर वाले को।",
+  "why": "reviewer (minor): English hedges 'the term covers a group of skin diseases'; Hindi carries no hedge."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "कुष्ठ मारता है मन्द अग्नि यानी मन्द पाचन वाले, जन्तुओं यानी कीड़ों से घिरे हुए, तृष्णा और अतिसार वाले को।",
+  "new": "कुष्ठ मारता है मन्द अग्नि यानी मन्द पाचन वाले, जन्तुओं यानी कीड़ों या छोटे जीवों से घिरे हुए, तृष्णा और अतिसार वाले को।",
+  "why": "reviewer (minor): English hedges jantu ('worms or vermin'); Hindi states कीड़ों flatly."
+ },
+ {
+  "n": "62",
+  "field": "word.gram",
+  "word": "jvara-anvitam",
+  "old": "tat-puruṣa, acc. sg.",
+  "new": "tat-puruṣa, acc. sg. (or n. nom. sg.)",
+  "why": "reviewer (minor): Case 'acc. sg.' is not firmer than n. nom. sg. (63 'kotha-vat' is labelled n. nom. sg. in the same run); give both."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर वातास्र यानी सम्भवतः वातरक्त; मोह, एक अस्पष्ट छपा अंश और ज्वर से युक्त।",
+  "new": "अनुमानित पाठ पर वातास्र यानी सम्भवतः वातरक्त, गठिया की श्रेणी का रोग; मोह, एक अस्पष्ट छपा अंश और ज्वर से युक्त।",
+  "why": "reviewer (minor): English says 'a gout-type disease'; Hindi has no modern name for vātarakta."
+ },
+ {
+  "n": "63",
+  "field": "english",
+  "old": "On a conjectural reading: having an unclear stretch of print (śiropahāruciśvārasa), contraction (saṃkoca), blisters (sphoṭa) and putrefaction (kotha).",
+  "new": "Having an unclear stretch of print (śiropahāruciśvārasa), contraction (saṃkoca), blisters (sphoṭa) and putrefaction (kotha).",
+  "why": "reviewer (minor): Nothing is substituted in 63: the damaged stretch is left unsplit and 'unclear', the rest is printed as read. Per the rule (mark only an adopted substitution) the mark is unwarranted and overstates a reading that was not adopted."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: एक अस्पष्ट छपा अंश, संकोच यानी सिकुड़न, स्फोट यानी फफोले और कोथ यानी सड़न से युक्त।",
+  "new": "एक अस्पष्ट छपा अंश, संकोच यानी सिकुड़न, स्फोट यानी फफोले और कोथ यानी सड़न से युक्त।",
+  "why": "reviewer (minor): Nothing is substituted in 63: the damaged stretch is left unsplit and 'unclear', the rest is printed as read. Per the rule (mark only an adopted substitution) the mark is unwarranted and overstates a reading that was not adopted."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "saṃkoca-sphoṭa-kotha-vat",
+  "old": "dvandva + vat-suffix, n. nom. sg.",
+  "new": "dvandva + vat-suffix, n. nom. or acc. sg.",
+  "why": "reviewer (minor): '-vat' is only neuter nom./acc. (or voc.); the case cannot be fixed as nom."
+ },
+ {
+  "n": "65",
+  "field": "notes",
+  "old": "'anala' beside 'bala' is probably the digestive fire (agni). GROUPING: the verb here appears to govern the descriptions in 61-64 as well.",
+  "new": "'anala' beside 'bala' is probably the digestive fire (agni). GROUPING: with plural 'sarvāmayāḥ' this unit is a complete clause by itself; whether 'ghnanti' also closes 61-64 is not established (their singular subjects vāyuḥ, vātāsram cannot take a plural verb).",
+  "why": "reviewer (minor): The GROUPING claim is too strong: plural 'ghnanti' with plural subject 'sarvāmayāḥ' makes 65 a complete clause by itself, and the singular nominatives vāyuḥ (61), vātāsram (62) cannot be its subjects."
+ },
+ {
+  "n": "69",
+  "field": "notes",
+  "old": "The subjects of 'lakṣyante' are the signs of 68. The printed 'pakṣāñsa' has ñ for the regular pakṣāṃs sa (sandhi n + s); not treated as an error.",
+  "new": "The subjects of 'lakṣyante' are the signs of 68. The printed 'pakṣāñsa' has ñ where the usual sandhi would be pakṣāṃs sa (or pakṣān sa); read as pakṣān sa, a print habit, not flagged.",
+  "why": "reviewer (minor): The note calls the printed ñ 'regular'; ñ before s is not the usual sandhi (pakṣāṃs sa / pakṣān sa). Reading as pakṣān sa is fine but the note should not say regular."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "वाताष्ठीला यानी वात से बनी कठोर गोल गाँठ, बहुत बढ़ी हुई, हृदय में भयंकर रूप से टिकी हुई",
+  "new": "वाताष्ठीला यानी वात से बनी पथरीली, कठोर, गोल गाँठ, बहुत बढ़ी हुई, हृदय में भयंकर रूप से टिकी हुई",
+  "why": "reviewer (minor): English and the fixed rendering are 'hard, round, stony lump'; Hindi omits 'stony' (aṣṭhīlā = round stone)."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "मलों को बस्ति यानी सम्भवतः मूत्राशय के शिर यानी ऊपरी भाग और नाभि पर रोककर, पीड़ा उत्पन्न करता हुआ,",
+  "new": "मलों यानी अपशिष्टों को बस्ति यानी सम्भवतः मूत्राशय के शिर यानी ऊपरी भाग और नाभि पर रोककर, पीड़ा उत्पन्न करता हुआ,",
+  "why": "reviewer (minor): Fixed Hindi gloss for mala in body-part contexts is 'मल यानी अपशिष्ट'."
+ },
+ {
+  "n": "77",
+  "field": "english",
+  "old": "causing pain in the two groins, thirst, and the state of having broken (loose) stool (bhinnapurīṣatā),",
+  "new": "causing pain in the two groins, thirst, and the state of having broken (probably loose) stool (bhinnapurīṣatā),",
+  "why": "reviewer (minor): Glossary (p02 ch09 k2): bhinna purīṣa = broken stool (probably loose); 'loose' is stated without the hedge."
+ },
+ {
+  "n": "77",
+  "field": "hindi",
+  "old": "दोनों वंक्षण में शूल यानी पीड़ा, तृष्णा और भिन्नपुरीषता यानी टूटे हुए यानी पतले मल की अवस्था उत्पन्न करता हुआ,",
+  "new": "दोनों वंक्षण में शूल यानी पीड़ा, तृष्णा और भिन्नपुरीषता यानी टूटे हुए यानी सम्भवतः पतले मल की अवस्था उत्पन्न करता हुआ,",
+  "why": "reviewer (minor): Glossary (p02 ch09 k2): bhinna purīṣa = broken stool (probably loose); 'loose' is stated without the hedge."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "स्तिमित यानी निश्चल, ऊपर उठी आँखों वाले का जीवन अनुमानित पाठ पर तुरन्त हर लेता है।",
+  "new": "स्तिमित यानी निश्चल, अनुमानित पाठ पर उठी हुई आँखों वाले का जीवन तुरन्त हर लेता है।",
+  "why": "reviewer (minor): Hindi mark stands before 'तुरन्त हर लेता है' and does not attach to the emended word (unnata-akṣa); 'ऊपर' is also an addition to 'raised'."
+ },
+ {
+  "n": "81",
+  "field": "notes",
+  "old": "Verb in 82 ('upajāyate'); GROUPING: 81-82 appear to form one statement. Orthography normalised in `w`: doubled consonants (ccharddi, mūrcchā) written chardi, mūrchā.",
+  "new": "Verb in 82 ('upajāyate'); GROUPING: 81-82 appear to form one statement. Orthography normalised in `w`: doubled consonants (mūrcchā) written mūrchā.",
+  "why": "reviewer (minor): Note mentions 'ccharddi' which does not occur in this unit."
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "'mumūrṣu' literally 'wishing to die', i.e. about to die. The verb is singular after plural subjects (agreement with the nearest).",
+  "new": "'mumūrṣu' literally 'wishing to die', i.e. about to die. The verb is singular after several singular subjects (agreement with the nearest).",
+  "why": "reviewer (minor): Subjects are singular (jvarasaṃtāpaḥ, the compound in -kṣayaḥ, viśleṣaṇam), not plural."
+ }
+]
