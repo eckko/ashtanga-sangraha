@@ -1,0 +1,859 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अब इसलिए (athāto)",
+     "problem": "Open glossary item (ch04 k1): rendering of athāto. 'अब इसलिए' follows the glossary ataḥ = इसलिए, so no patch; the owner decides. Also Hindi attaches 'शरीर सम्बन्धी' to the sirās while the note takes śārīra with vibhāga",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "daśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "sapta",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "sevanī / vidhamyamānāḥ",
+     "problem": "Agree with the draft that sevanī is uncertain. Possible alternative for the owner: the simile may be druma-patra-sirā-pratānavat (like the network of veins of a tree leaf), sirā misread as sevanī; not provable from the print, so the printed word stays and 'sense uncertain' stays. vidhamyamānāḥ (blown apart) vs vibhajyamānāḥ (being divided) correctly left as printed with a 'possible' flag",
+     "fix": "none; owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why of the dvātriṃśat flag",
+     "problem": "Premise is wrong: 22 does not 'conflict' with the 136 of the trunk, because tatra here (as in u6 'sixteen not to be pierced' and u9 'fifty') gives a subset, the number of sirās not to be pierced. The real evidence for 32: the trunk lists name 8 (u13) + 2 (u14) + 4 (u16) + 4 (u18) + 14 (u23) = 32 sirās to be guarded, and 16 (u6) + 32 + 50 (u9) = 98. So 22 is probably a misreading of dvātriṃśat. Count stays 22 as printed",
+     "fix": "replace the why and the note",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "8",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "possible, and likely: tatra (as in u6 and u9) gives the number of sirās not to be pierced within the trunk's 136, so 22 does not clash with 136. The trunk lists that name sirās to be guarded add up to 8 (u13) + 2 (u14) + 4 (u16) + 4 (u18) + 14 (u23) = 32, which is dvātriṃśat; dvāviṃśat and dvātriṃśat differ by one letter. Not applied; the printed 22 is translated"
+      },
+      {
+       "n": "8",
+       "op": "set",
+       "field": "notes",
+       "value": "Number translated as printed, not corrected. tatra is read as in unit 6 (sixteen not to be pierced) and unit 9 (fifty): 'among those (the 136 of the trunk)', a subset of sirās not to be pierced; this is an inference from the parallel wording, not stated. 22 therefore does not conflict with the 136, but the guarded sirās named in units 13-23 add up to 32 (8 + 2 + 4 + 4 + 14), so the printed dvāviṃśat is probably a misreading of dvātriṃśat; flagged as possible, not applied. Copula understood. GROUPING: appears to continue unit 7."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tatrāpi pañcāśat",
+     "problem": "The note says it is not stated what the fifty are; an arithmetic check shows the same pattern as units 6 and 8: the sirās named for guarding in the upper part (units 26-38) add up to 50 (16 + 2 + 4 + 3 + 6 + 7 + 4 + 8), if the ear unit 36 counts 4",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Arithmetic check (not stated in the text): the sirās named for guarding in the upper part, units 26-38, give 16 + 2 + 4 + 3 + 6 + 7 + 4 + 8 = 50, which suggests the fifty are the ones not to be pierced, as in units 6 and 8; the ear total of 4 in unit 36 is itself an inference."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और आड़ी जाने वाली तथा भीतर जाने वाली को भी।",
+     "problem": "Three conjunctions (और, तथा, भी) for one ca; 'भी' and 'को' are not in the Sanskrit. English also has two 'and's",
+     "fix": "Hindi: और आड़ी तथा भीतर जाने वाली। English: and (ones) going across and within.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "11",
+       "op": "set",
+       "field": "hindi",
+       "value": "और आड़ी तथा भीतर जाने वाली।"
+      },
+      {
+       "n": "11",
+       "op": "set",
+       "field": "english",
+       "value": "and (ones) going across and within."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "13",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "13",
+       "op": "word",
+       "match_w": "aṣṭau",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "śakhato",
+     "problem": "The gloss of the unrestorable word contains the guess; glossary (p02 ch03 k2) keeps guesses out of the gloss, in the flag and notes only. The translations already carry 'on a conjectural reading'",
+     "fix": "gloss: unclear",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "śakhato",
+      "field": "gloss",
+      "value": "unclear"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kaṭīkataruṇa",
+     "problem": "Possible enrichment (not patched): kaṭīkataruṇa is the marma on either side of the spine in the pelvic (sacro-iliac) region, probable. Keep as 'name of a marma' unless the owner wants it",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "16",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "romarājī",
+     "problem": "The restored romarājī is adopted in the translation without 'on a conjectural reading' (glossary p02 ch02 k1: a correction adopted in a translation needs the mark in both languages). The draft treats it as near certain; owner to decide whether to hedge",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "in the stanamūla and the stanarohita",
+     "problem": "Locative plural (-eṣu) rendered as singular; English and Hindi should be plural",
+     "fix": "in the stanamūlas and the stanarohitas; स्तनमूलों और स्तनरोहितों में",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "english",
+       "old": "in the stanamūla and the stanarohita",
+       "new": "in the stanamūlas and the stanarohitas"
+      },
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्तनमूल और स्तनरोहित में",
+       "new": "स्तनमूलों और स्तनरोहितों में"
+      },
+      {
+       "n": "21",
+       "op": "append_note",
+       "text": "Arithmetic check (not stated): the chest sirās to be guarded come to 14 (unit 23) only if 'dve dve' means two on each side in each of the stanamūla and stanarohita: 2 (heart) + 4 + 4 + 4 (apastambha, apalāpa) = 14. The translation keeps the plural place names and does not decide this."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the apastambha and the apalāpa",
+     "problem": "Locative plural (-eṣu) rendered as singular. Also: apalāpa is a standard marma name beside apastambha, so the conjecture is stronger than 'possible' (keep the hedge, since the print reads ālāpa)",
+     "fix": "plural in both languages",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "english",
+       "old": "in the apastambha and the apalāpa",
+       "new": "in the apastambhas and the apalāpas"
+      },
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अपस्तम्भ और अपलाप में",
+       "new": "अपस्तम्भों और अपलापों में"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "23",
+       "op": "word",
+       "match_w": "caturdaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "fourteen",
+     "problem": "Arithmetic supports the printed 14: 2 + 4 + 4 + 4 under the reading in unit 21 (see note there)",
+     "fix": "note only",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "append_note",
+      "text": "Arithmetic: 14 = 2 (heart) + 4 (stanamūlas) + 4 (stanarohitas) + 4 (apastambhas and apalāpas) if 'dve dve' in unit 21 gives two on each side; this is an inference, the print gives only the total."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "25",
+       "op": "word",
+       "match_w": "aṣṭau",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "26",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "26",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "27",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      },
+      {
+       "n": "27",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "33",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "33",
+       "op": "word",
+       "match_w": "ṣaṭ",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "distribution 2+2+2",
+     "problem": "Agree with the draft (open question): unmeṣa 2, nimeṣa 2, apāṅgas 2 gives the printed total six; the side remark that the dual kriye could qualify the first dve is unnecessary",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "60 additional?",
+     "problem": "Open question answered by the printed totals: the upper-body regions neck 24 (u24) + jaws 16 (u27) + tongue 16 (u28) + nose 24 (u30) + eyes 56 (u32) + ears 16 (u36) + head 12 (u37) = 164, the printed total of u9. The 60 in the forehead are therefore not additional to the nose 24 and eye 56; they are sirās going to the nose and eyes that lie in the forehead. Counts stay as printed",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "append_note",
+      "text": "Arithmetic check: neck 24 + jaws 16 + tongue 16 + nose 24 + eyes 56 + ears 16 + head 12 = 164 (unit 9), so the sixty in the forehead are not additional to the 24 of the nose and 56 of the eyes; they appear to be sirās going to the nose and eyes that lie in the forehead."
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "35",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "35",
+       "op": "word",
+       "match_w": "sapta",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "ṣoḍaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "te eva ca śaṅkhayoḥ",
+     "problem": "Open question: 'those very two' (the sound-carriers) are also in the temples, not two further ones. Supported by the guarded total of the upper part: only with 2 + 2 = 4 for the ears does the sum reach the fifty of u9 (see u9). Translation is already neutral and fine",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "append_note",
+      "text": "'te eva' = those very two (the sound-carriers), not two additional ones: this agrees with the arithmetic of unit 9 (fifty guarded in the upper part needs 4 for the ears: 2 sound-carriers + 2 at the temple joint). Inference, not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "dvādaśa",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve / numerals",
+     "problem": "`dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong",
+     "fix": "dve: 'nom. du.'; numerals: 'nom. pl.'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "38",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "38",
+       "op": "word",
+       "match_w": "aṣṭau",
+       "field": "gram",
+       "value": "nom. pl.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "natathā",
+     "problem": "Alternative the owner may weigh: the print may simply have a stray syllable before tathā, or an OCR slip; the draft's reasoning is sound and hedged in both languages. Hindi adds 'परस्पर' to संकीर्ण and 'स्थित' to the joints, which are not in the Sanskrit",
+     "fix": "Hindi: ... छोटी, टेढ़ी, मिली हुई, गुँथी हुई और जोड़ों में, ...",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "set",
+      "field": "hindi",
+      "value": "अनुमानित पाठ पर, इसी प्रकार छोटी, टेढ़ी, मिली हुई, गुँथी हुई और जोड़ों में, शस्त्र-कर्म के योग्य नहीं हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "41 units. Text flags checked; all plausible. Main finding: u8 (22) is a subset count (tatra, like u6 and u9), and the guarded trunk sirās (u13,14,16,18,23) add to 32, so dvātriṃśat is likely; the draft's reasoning from the 136 was wrong, flag text replaced. Open questions answered by arithmetic: upper-body regions sum to 164 without the forehead 60 (so 60 not additional to nose/eyes); guarded upper sirās sum to 50 only if ears count 4 ('te eva' = same two); u33 2+2+2 fits. Systematic gram fix: dve is dual; numerals carry no gender. Plural locatives fixed in u21, u22. No wrong identifications found; probable tags are right.",
+ "glossary_suggestions": [
+  "dve = 'nom. du.' in gram; numerals above four: 'nom. pl.' with no gender.",
+  "Sirā-count units (p02 ch06): u6/u8/u9 'tatra N' give the sirās not to be pierced (16 + 32? + 50); totals 400 + 136 + 164 = 700, trunk 32+16+24+24+40, upper 24+16+16+24+56+16+12 = 164; the forehead 60 is not additional.",
+  "Locative plural place names (stanamūla, apastambha, sīmanta) are rendered plural."
+ ]
+}
