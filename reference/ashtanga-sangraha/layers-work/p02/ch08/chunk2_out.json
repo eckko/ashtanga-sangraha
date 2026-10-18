@@ -131,8 +131,8 @@
     ]
    }
   ],
-  "hindi": "अनुमानित पाठ पर: सम प्रकृति वाले का उपचार सभी रसों वाले से और सात्म्य से, और दूसरों का ऋतु के अनुसार बताई गई विधि से भी।",
-  "english": "On a conjectural reading: the balanced (one) with a (regimen) of all tastes (rasa) and with what is suited (sātmya); and the others also with what is prescribed according to the season.",
+  "hindi": "अनुमानित पाठ पर: सम को सभी रसों से और सात्म्य से, और दूसरों को ऋतु के अनुसार विहित से भी।",
+  "english": "On a conjectural reading: the balanced (one) with all tastes (rasa) and with what is suited (sātmya); and the others also with what is prescribed according to the season.",
   "text_flags": [
    {
     "src": "semaṃ",
@@ -140,7 +140,7 @@
     "why": "possible: 'semaṃ' is not a word; 'samam' (balanced, as in samadoṣaprakṛti of unit 34 and sama prakṛti of 40/42) fits; e/a confusion"
    }
   ],
-  "notes": "Elliptical: the verb is carried from 38 (upācaret, 'one should treat'); the translation supplies none. The printed 'semaṃ' is read as 'samam' on a conjectural reading; 'samam' could also be the adverb 'equally'. 'sarva-rasena' is read as 'with all tastes' (a regimen of all six tastes is not stated; only the instrumental is given); the unstated noun is shown as '(regimen)' only in English. 'anyāṃś ca' (and the others) taken with 'yathartuvihitena' ('prescribed according to the season'); the first ca joins 'others', the second joins the two halves. Reading and syntax are uncertain.",
+  "notes": "Elliptical: the verb is carried from 38 (upācaret, 'one should treat'); the translation supplies none. The printed 'semaṃ' is read as 'samam' on a conjectural reading; 'samam' could also be the adverb 'equally'. 'sarva-rasena' is read as 'with all tastes' (a regimen of all six tastes is not stated; only the instrumental is given); the thing applied is not named, so no noun is added. 'anyāṃś ca' (and the others) taken with 'yathartuvihitena' ('prescribed according to the season'); the first ca joins 'others', the second joins the two halves. Reading and syntax are uncertain.",
   "confidence": "low"
  },
  {
@@ -311,7 +311,7 @@
       "src": "punaḥ",
       "words": [
        {
-        "w": "punar",
+        "w": "punaḥ",
         "gloss": "again",
         "gram": "ind."
        }
@@ -1663,17 +1663,17 @@
         "w": "manaḥ",
         "gloss": "mind",
         "gram": "n. nom. sg."
+       },
+       {
+        "w": "sarva-indriyāṇi",
+        "gloss": "all; sense-organs",
+        "gram": "bahuvrīhi, n. nom. pl."
        }
       ]
      },
      {
       "src": "ca",
       "words": [
-       {
-        "w": "sarva-indriyāṇi",
-        "gloss": "all; sense-organs",
-        "gram": "bahuvrīhi, n. nom. pl."
-       },
        {
         "w": "ca",
         "gloss": "and",
@@ -1712,17 +1712,17 @@
         "w": "varṣa-śatam",
         "gloss": "a hundred years",
         "gram": "n. nom. sg."
+       },
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
        }
       ]
      },
      {
       "src": "pramāṇaṃ",
       "words": [
-       {
-        "w": "āyuṣaḥ",
-        "gloss": "of life",
-        "gram": "n. gen. sg."
-       },
        {
         "w": "pramāṇam",
         "gloss": "measure",
@@ -1768,7 +1768,7 @@
         "gram": "3 pl. pres. √as"
        },
        {
-        "w": "punar",
+        "w": "punaḥ",
         "gloss": "however, again",
         "gram": "ind."
        }
@@ -2614,13 +2614,13 @@
       "src": "tvagraktamāṃsamedosthimajjaśukrasattvātmakānyattarottaravarāṇibalamānajñānārthamupadiśyate",
       "words": [
        {
-        "w": "tvak-rakta-māṃsa-medas-asthi-majja-śukra-sattva-ātmakāni",
+        "w": "tvak-rakta-māṃsa-medas-asthi-majjā-śukra-sattva-ātmakāni",
         "gloss": "skin; blood; flesh; fat; bone; marrow (majjā); semen (śukra); sattva (mind); consisting of",
         "gram": "dvandva + bahuvrīhi, n. nom. pl."
        },
        {
-        "w": "uttara-uttara-vara-āṇi",
-        "gloss": "successive; better",
+        "w": "uttara-uttara-varāṇi",
+        "gloss": "each succeeding; better",
         "gram": "bahuvrīhi, n. nom. pl."
        },
        {
@@ -2638,7 +2638,7 @@
     ]
    }
   ],
-  "hindi": "उसी प्रकार आठ सार बताए जाते हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, अस्थि, मज्जा, शुक्र यानी वीर्य और सत्त्व स्वरूप वाले, जो अनुमानित पाठ पर उत्तरोत्तर श्रेष्ठ हैं, बल के प्रमाण को जानने के लिए।",
+  "hindi": "उसी प्रकार आठ सार यानी सर्वोत्तम तत्त्व बताए जाते हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, अस्थि, मज्जा, शुक्र यानी वीर्य और सत्त्व स्वरूप वाले, जो अनुमानित पाठ पर उत्तरोत्तर श्रेष्ठ हैं, बल के प्रमाण को जानने के लिए।",
   "english": "Likewise, eight sāras (essences, best qualities) consisting of skin, blood, flesh, fat (medas), bone, marrow (majjā), semen (śukra) and mind (sattva), on a conjectural reading each better than the one before, are taught for knowing the measure of strength.",
   "text_flags": [
    {
