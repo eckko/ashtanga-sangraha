@@ -1,0 +1,1719 @@
+[
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāmaṣṭaṣaṣṭiḥśākhāsu",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "aṣṭaṣaṣṭiḥ",
+        "gloss": "sixty-eight",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "śākhāsu",
+        "gloss": "in the limbs (śākhā)",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें से अड़सठ शाखाओं यानी हाथ-पैरों में।",
+  "english": "Of them, sixty-eight in the limbs (śākhā).",
+  "text_flags": [],
+  "notes": "GROUPING: units 130-132 appear to form one statement continuing unit 129 (the total of 210 asthisaṃdhi): 'of them 68 in the limbs, 59 in the trunk, 80 above'. Elliptical: no verb, and the counted noun is unstated; from 129 it is probably the bone-joints (asthisaṃdhi). teṣām = of those 210. śākhā = the limbs, i.e. arms and legs (standard). Numbers are translated as printed. The visarga before ś (-ḥśā-) is regular.",
+  "confidence": "high"
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekonaṣaṣṭiraṃtarādhau",
+      "words": [
+       {
+        "w": "ekona-ṣaṣṭiḥ",
+        "gloss": "sixty less one, fifty-nine",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "antarādhau",
+        "gloss": "in the trunk (antarādhi)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनसठ अन्तराधि यानी धड़ में।",
+  "english": "Fifty-nine in the trunk (antarādhi).",
+  "text_flags": [],
+  "notes": "Elliptical as in 130. antarādhi = the trunk, the middle part of the body (standard). ekona-ṣaṣṭi = sixty minus one.",
+  "confidence": "high"
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aśīti",
+      "words": [
+       {
+        "w": "aśītiḥ",
+        "gloss": "eighty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अस्सी ऊपर।",
+  "english": "Eighty above (ūrdhvam).",
+  "text_flags": [
+   {
+    "src": "aśīti",
+    "suggest": "tryaśītiḥ (eighty-three)",
+    "why": "possible: the sites listed in units 139-145 add up to 83 (8+3+18+32+3+12+2+5) and 68+59+83 = 210, the total of unit 129; as printed 68+59+80 = 207. The translation keeps the printed 'eighty' and the word list keeps aśītiḥ."
+   }
+  ],
+  "notes": "Elliptical as in 130-131. ūrdhvam = above, probably the region above the trunk (neck and head) (probable); the text does not say more. The print divides 'aśītir ūrdhvam' as 'aśīti rūrdhvaṃ' (the r of aśītir attached to the next word): regular sandhi, words restored. The three totals as printed (68 + 59 + 80) make 207, not the 210 of unit 129; see text_flags. The translation keeps 'eighty' as printed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatraikaikasmin",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaikasmin",
+        "gloss": "in each single",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakthi",
+      "words": [
+       {
+        "w": "sakthni",
+        "gloss": "limb (sakthi)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādāṃgulau",
+      "words": [
+       {
+        "w": "pāda-aṅgulau",
+        "gloss": "foot; toe",
+        "gram": "f. loc. sg. (-au form)"
+       }
+      ]
+     },
+     {
+      "src": "pratyekaṃ",
+      "words": [
+       {
+        "w": "pratyekam",
+        "gloss": "in each, severally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trayaḥ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvāvaṃguṣṭhe",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "aṅguṣṭhe",
+        "gloss": "in the great toe (aṅguṣṭha)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ प्रत्येक सक्थि यानी शाखा में, पैर की प्रत्येक उँगली में तीन, अँगूठे में दो।",
+  "english": "There, in each single limb (sakthi), three in each toe (pādāṅguli), two in the great toe (aṅguṣṭha).",
+  "text_flags": [
+   {
+    "src": "sakthi",
+    "suggest": "sakthni",
+    "why": "possible: the locative of the neuter sakthi is sakthni (or sakthini); the printed bare 'sakthi' also stands in unit 160, so it may be an edition habit"
+   }
+  ],
+  "notes": "GROUPING: units 133-134 appear to belong together ('those are fourteen' totals this line). sakthi literally means thigh or leg; here it is read as each of the four limbs (śākhā), since 68 = 4 x 17 (14 + ankle + knee + groin) (probable). aṅgulau is the optional -au locative of the feminine aṅguli; used distributively with pratyekam ('in each toe'). aṅguṣṭha = thumb or great toe; the foot is being counted, so great toe. The counted noun is unstated (probably the bone-joints, from 129). The printed locative 'sakthi' is the same in unit 160; see text_flags.",
+  "confidence": "medium"
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m./n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caturdaśa",
+      "words": [
+       {
+        "w": "caturdaśa",
+        "gloss": "fourteen",
+        "gram": "num. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे चौदह हैं।",
+  "english": "Those are fourteen.",
+  "text_flags": [],
+  "notes": "Copula understood and supplied (a plain nominal sentence). Check: 3 x 4 toes + 2 = 14 in the foot, as printed in 133.",
+  "confidence": "high"
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekaiko",
+      "words": [
+       {
+        "w": "ekaikaḥ",
+        "gloss": "one each",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gulphajānuvaṃkṣaṇeṣu",
+      "words": [
+       {
+        "w": "gulpha-jānu-vaṅkṣaṇeṣu",
+        "gloss": "ankle; knee; groin",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "trayaḥ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "katikapāleṣu",
+      "words": [
+       {
+        "w": "kaṭi-kapāleṣu",
+        "gloss": "hip; bone-plates (kapāla)",
+        "gram": "tat-puruṣa, n. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "टखने, घुटने और वंक्षण यानी जाँघ के मूल में एक-एक; अनुमानित पाठ पर कमर के कपालों में तीन।",
+  "english": "One each in the ankles (gulpha), knees (jānu) and groins (vaṅkṣaṇa); three in the hip kapālas (kaṭikapāla, on a conjectural reading).",
+  "text_flags": [
+   {
+    "src": "katikapāleṣu",
+    "suggest": "kaṭikapāleṣu",
+    "why": "possible: 'kati' (how many) gives no sense here; kaṭi-kapāla (hip bone-plate) fits the trunk count; the same spelling stands in unit 150"
+   }
+  ],
+  "notes": "gulpha = ankle, jānu = knee, vaṅkṣaṇa = groin (all standard). kapāla = literally skull or bone-plate; in this passage the name of a class of flat bones (see 122) (probable). Limb check: 14 (toes) + ankle + knee + groin = 17 per limb, x 4 = 68, matching 130. The counted noun is unstated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturviṃśatiḥpṛṣṭhavaṃśe",
+      "words": [
+       {
+        "w": "caturviṃśatiḥ",
+        "gloss": "twenty-four",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "pṛṣṭhavaṃśe",
+        "gloss": "in the spine (pṛṣṭhavaṃśa)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चौबीस पृष्ठवंश यानी रीढ़ में।",
+  "english": "Twenty-four in the spine (pṛṣṭhavaṃśa).",
+  "text_flags": [],
+  "notes": "pṛṣṭhavaṃśa = literally back-ridge, the spine (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadvatpārśvayoḥ",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "pārśvayoḥ",
+        "gloss": "in the two flanks (pārśva)",
+        "gram": "loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही दोनों पार्श्वों यानी पसलियों वाले भागों में।",
+  "english": "Likewise in the two flanks (pārśva).",
+  "text_flags": [],
+  "notes": "tadvat = 'like that', i.e. like the preceding count (presumably the same number as in 136); the translation does not supply the number. pārśva = the side of the body (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭāvurasi",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num. nom. pl."
+       },
+       {
+        "w": "urasi",
+        "gloss": "in the chest (uras)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ उरस् यानी छाती में।",
+  "english": "Eight in the chest (uras).",
+  "text_flags": [],
+  "notes": "Trunk check: 3 (135) + 24 (136) + 'tadvat' for the flanks (137, presumably 24) + 8 = 59, matching 131.",
+  "confidence": "high"
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "grīvāyāṃ",
+      "words": [
+       {
+        "w": "grīvāyām",
+        "gloss": "in the neck (grīvā)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ ग्रीवा यानी गर्दन में।",
+  "english": "Eight in the neck (grīvā).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayaḥkaṃṭhanāḍyāṃ",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "kaṇṭha-nāḍyām",
+        "gloss": "throat; channel (nāḍī), probably the windpipe",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन कण्ठनाड़ी में, जो सम्भवतः श्वासनली है।",
+  "english": "Three in the kaṇṭhanāḍī (probably the windpipe).",
+  "text_flags": [],
+  "notes": "kaṇṭhanāḍī = throat-channel, probably the windpipe (probable; the gullet is the alternative).",
+  "confidence": "medium"
+ },
+ {
+  "n": "141",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭādaśa",
+      "words": [
+       {
+        "w": "aṣṭādaśa",
+        "gloss": "eighteen",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭhanāḍīnibaddhā",
+      "words": [
+       {
+        "w": "kaṇṭha-nāḍī-nibaddhāḥ",
+        "gloss": "throat; channel; bound",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayayakṛtklomanāḍīṣu",
+      "words": [
+       {
+        "w": "hṛdaya-yakṛt-kloma-nāḍīṣu",
+        "gloss": "heart; liver; kloma (identity disputed); channels",
+        "gram": "dvandva, f. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अठारह, कण्ठनाड़ी से बँधे हुए, हृदय, यकृत, क्लोम जिसकी पहचान विवादित है, और नाड़ियों में।",
+  "english": "Eighteen, bound to the kaṇṭhanāḍī, in the heart (hṛdaya), liver (yakṛt), kloma (an organ of disputed identity) and channels (nāḍī).",
+  "text_flags": [
+   {
+    "src": "kaṃṭhanāḍīnibaddhā",
+    "suggest": "kaṃṭhanāḍīnibaddhāḥ",
+    "why": "possible: nibaddhā (f. sg.) cannot agree with the plural 'aṣṭādaśa'; a dropped visarga gives nibaddhāḥ"
+   }
+  ],
+  "notes": "hṛdaya = heart and yakṛt = liver (standard); kloma = an organ near the heart and liver, identity disputed (lung, pancreas and others are proposed). The last compound is read as a plain dvandva of four members; the alternative is 'in the nāḍīs of heart, liver and kloma'. The printed 'nibaddhā' does not agree with the plural numeral; the plural masculine is read (see text_flags).",
+  "confidence": "medium"
+ },
+ {
+  "n": "142",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvātriṃśaddaṃtamūleṣu",
+      "words": [
+       {
+        "w": "dvātriṃśat",
+        "gloss": "thirty-two",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "danta-mūleṣu",
+        "gloss": "in the tooth-roots",
+        "gram": "tat-puruṣa, n. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बत्तीस दाँतों की जड़ों में।",
+  "english": "Thirty-two in the tooth-roots (dantamūla).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "143",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekaikaḥ",
+      "words": [
+       {
+        "w": "ekaikaḥ",
+        "gloss": "one each",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kākalanāsāmūrddhasu",
+      "words": [
+       {
+        "w": "kākala-nāsā-mūrdhasu",
+        "gloss": "kākala (throat part, identity disputed); nose; head",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक-एक काकल यानी गले के एक भाग जिसकी पहचान विवादित है, नाक और मूर्धा यानी सिर में।",
+  "english": "One each in the kākala (a throat part of disputed identity), the nose (nāsā) and the head (mūrdhan).",
+  "text_flags": [],
+  "notes": "kākala: identity disputed (the uvula or the larynx prominence have been proposed). mūrdhan = head or crown. Print: 'mūrddhasu' has a doubled dh after r, normalised to mūrdhasu (orthographic, recorded once).",
+  "confidence": "medium"
+ },
+ {
+  "n": "144",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "gaṃḍakarṇaśaṃkhavartmanetrahanusaṃdhiṣu",
+      "words": [
+       {
+        "w": "gaṇḍa-karṇa-śaṅkha-vartma-netra-hanu-saṃdhiṣu",
+        "gloss": "cheek; ear; temple; eyelid; eye; jaw; joints",
+        "gram": "dvandva then tat-puruṣa, m. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गाल, कान, कनपटी, पलक, आँख और जबड़े के जोड़ों में दो-दो।",
+  "english": "Two each in the joints (saṃdhi) of the cheek (gaṇḍa), ear (karṇa), temple (śaṅkha), eyelid (vartman), eye (netra) and jaw (hanu).",
+  "text_flags": [],
+  "notes": "gaṇḍa = cheek, śaṅkha = temple, vartma = eyelid (standard). saṃdhi stands last in the compound and is read as governing all six members. dvau dvau = two each.",
+  "confidence": "high"
+ },
+ {
+  "n": "145",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvāvupariṣṭādbhruvoḥ",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "upariṣṭāt",
+        "gloss": "above",
+        "gram": "ind."
+       },
+       {
+        "w": "bhruvoḥ",
+        "gloss": "of the two eyebrows (bhrū)",
+        "gram": "f. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "paṃca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥkapāleṣu",
+      "words": [
+       {
+        "w": "śiraḥ-kapāleṣu",
+        "gloss": "head; kapālas",
+        "gram": "tat-puruṣa, n. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों भौंहों के ऊपर दो; सिर के कपालों में पाँच।",
+  "english": "Two above the two eyebrows (bhrū); five in the kapālas of the head (śiras).",
+  "text_flags": [],
+  "notes": "Upper-region check: neck 8 (139) + 3 (140) + 18 (141) + 32 (142) + 3 (143) + 12 (144) + 2 + 5 (145) = 83, not the 80 of unit 132 (see the flag there).",
+  "confidence": "high"
+ },
+ {
+  "n": "146",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "meṃguligulphajānumaṇibaṃdhakūrpareṣu",
+      "words": [
+       {
+        "w": "aṅguli-gulpha-jānu-maṇibandha-kūrpareṣu",
+        "gloss": "finger or toe (conjectural); ankle; knee; wrist; elbow",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "korasaṃjñāḥ",
+      "words": [
+       {
+        "w": "kora-saṃjñāḥ",
+        "gloss": "bud; named",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर उँगलियों, टखनों, घुटनों, मणिबन्ध यानी कलाई और कुहनियों में कोर यानी कली नामक।",
+  "english": "In the fingers or toes (aṅguli, on a conjectural reading), ankles, knees, wrists (maṇibandha) and elbows (kūrpara): (ones) named kora (bud).",
+  "text_flags": [
+   {
+    "src": "meṃguligulphajānumaṇibaṃdhakūrpareṣu",
+    "suggest": "aṃguligulphajānumaṇibaṃdhakūrpareṣu",
+    "why": "possible: 'meṃguli' is not a word; aṅguli (finger, toe) fits the list of limb sites (finger, ankle, knee, wrist, elbow) and a misreading of a- as me- is plausible"
+   }
+  ],
+  "notes": "maṇibandha = wrist, kūrpara = elbow (standard). kora = a bud. Elliptical: the unstated noun is shown as '(ones)'; from the context these are kinds of bone-joint (see 154). The first member is a conjectured reading (see text_flags).",
+  "confidence": "medium"
+ },
+ {
+  "n": "147",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kakṣāvaṃkṣaṇadaṃtamūleṣūlūkhalasaṃjñāḥ",
+      "words": [
+       {
+        "w": "kakṣā-vaṅkṣaṇa-danta-mūleṣu",
+        "gloss": "armpit; groin; tooth; roots",
+        "gram": "dvandva, loc. pl."
+       },
+       {
+        "w": "ulūkhala-saṃjñāḥ",
+        "gloss": "mortar; named",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काँख, वंक्षण और दाँतों की जड़ों में उलूखल यानी ओखली नामक।",
+  "english": "In the armpits (kakṣā), groins (vaṅkṣaṇa) and tooth-roots (dantamūla): (ones) named ulūkhala (mortar).",
+  "text_flags": [],
+  "notes": "kakṣā = armpit (standard). Elliptical: unstated noun shown as '(ones)'. The ū-ū of -mūleṣūlū- is regular sandhi (mūleṣu + ulūkhala).",
+  "confidence": "high"
+ },
+ {
+  "n": "148",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃsapīṭhagudbhagatitaṃbeṣu",
+      "words": [
+       {
+        "w": "aṃsa-pīṭha-guda-bhaga-nitambeṣu",
+        "gloss": "shoulder; seat; anus; bhaga (female genital organ); hip (conjectural)",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāmudgāḥ",
+      "words": [
+       {
+        "w": "sāmudgāḥ",
+        "gloss": "sāmudga (casket-type)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अंसपीठ यानी सम्भवतः कन्धे के फलक वाला भाग, गुदा, भग और अनुमानित पाठ पर नितम्बों में सामुद्ग यानी डिब्बे वाला नामक।",
+  "english": "In the shoulder-seats (aṃsapīṭha, probably the region of the shoulder-blade), anus (guda), bhaga (the female genital organ) and hips (nitamba, on a conjectural reading): (ones) of the sāmudga (casket) kind.",
+  "text_flags": [
+   {
+    "src": "aṃsapīṭhagudbhagatitaṃbeṣu",
+    "suggest": "aṃsapīṭhagudabhaganitaṃbeṣu",
+    "why": "possible: 'titaṃba' is not a word; nitamba (hip) fits the sites (cf. 118, 122) and na/ta is a common misreading; 'gudbhaga' probably dropped the a of guda (sense unchanged)"
+   }
+  ],
+  "notes": "aṃsapīṭha = seat of the shoulder, probably the shoulder-blade region (probable). guda = anus, bhaga = vulva (standard), nitamba = hip or buttock (standard). sāmudga is from samudga, a casket or lidded box. Elliptical: unstated noun shown as '(ones)'. The printed 'gudbhaga' reads as guda-bhaga.",
+  "confidence": "medium"
+ },
+ {
+  "n": "149",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grīvāpṛṣṭhavaṃśayoḥpratarāḥ",
+      "words": [
+       {
+        "w": "grīvā-pṛṣṭhavaṃśayoḥ",
+        "gloss": "neck; spine",
+        "gram": "dvandva, loc. du."
+       },
+       {
+        "w": "pratarāḥ",
+        "gloss": "pratara (a kind)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीवा और पृष्ठवंश यानी रीढ़ में प्रतर।",
+  "english": "In the neck and the spine: pratara (ones).",
+  "text_flags": [],
+  "notes": "pratara is the name of a kind of joint; its literal sense is left untranslated. Elliptical: unstated noun shown as '(ones)'.",
+  "confidence": "high"
+ },
+ {
+  "n": "150",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiraḥkatikapāleṣu",
+      "words": [
+       {
+        "w": "śiraḥ-kaṭi-kapāleṣu",
+        "gloss": "head; hip; bone-plates (kapāla)",
+        "gram": "dvandva, n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tūnasevanīsaṃjñāḥ",
+      "words": [
+       {
+        "w": "tunna-sevanī-saṃjñāḥ",
+        "gloss": "tunnasevanī (seam-type name); named",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर सिर और कमर के कपालों में तुन्नसेवनी नामक, यह नाम भी अनुमानित पाठ पर।",
+  "english": "In the head and hip kapālas (on a conjectural reading): (ones) named tunnasevanī (also on a conjectural reading; sevanī means a seam).",
+  "text_flags": [
+   {
+    "src": "katikapāleṣu",
+    "suggest": "kaṭikapāleṣu",
+    "why": "possible: as in unit 135, kaṭi-kapāla (hip bone-plate) fits; 'kati' gives no sense"
+   },
+   {
+    "src": "tūnasevanīsaṃjñāḥ",
+    "suggest": "tunnasevanīsaṃjñāḥ",
+    "why": "possible: tūna is not a known word; the known name is tunnasevanī"
+   }
+  ],
+  "notes": "Two conjectured readings (see text_flags). sevanī = a seam, suture. Elliptical: unstated noun shown as '(ones)'.",
+  "confidence": "low"
+ },
+ {
+  "n": "151",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hanūbhayato",
+      "words": [
+       {
+        "w": "hanū",
+        "gloss": "the two jaws",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyasatuṃḍāḥ",
+      "words": [
+       {
+        "w": "vāyasa-tuṇḍāḥ",
+        "gloss": "crow; beak",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों जबड़ों में दोनों ओर वायसतुण्ड यानी कौए की चोंच।",
+  "english": "At the two jaws (hanu), on both sides: vāyasatuṇḍa (crow-beak) (ones).",
+  "text_flags": [
+   {
+    "src": "hanūbhayato",
+    "suggest": "hanvorubhayato",
+    "why": "possible: hanū (nom./acc. du.) is odd where a locative idea is meant; hanvoḥ (loc. du.) is expected, but the printed form is regular sandhi of hanū + ubhayataḥ"
+   }
+  ],
+  "notes": "hanū is the dual nominative or accusative, used with the sense of a locative ('at the jaws'); hanvoḥ would be the expected form (see text_flags). Elliptical: unstated noun shown as '(ones)'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "152",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṃṭhanetrahṛdayayakṛtklomanāḍīṣu",
+      "words": [
+       {
+        "w": "kaṇṭha-netra-hṛdaya-yakṛt-kloma-nāḍīṣu",
+        "gloss": "throat; eye; heart; liver; kloma (identity disputed); channels",
+        "gram": "dvandva, f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "maṃḍalasaṃjñāḥ",
+      "words": [
+       {
+        "w": "maṇḍala-saṃjñāḥ",
+        "gloss": "circle; named",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कण्ठ, आँखों, हृदय, यकृत, क्लोम जिसकी पहचान विवादित है, और नाड़ियों में मण्डल यानी गोल घेरा नामक।",
+  "english": "In the throat (kaṇṭha), eyes (netra), heart, liver, kloma (an organ of disputed identity) and channels (nāḍī): (ones) named maṇḍala (circle).",
+  "text_flags": [],
+  "notes": "Read as a plain dvandva of six members; the alternative is 'in the nāḍīs of throat, eyes, heart, liver and kloma' (compare 141). Elliptical: unstated noun shown as '(ones)'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "153",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śrotraśṛṃgāṭakeṣu",
+      "words": [
+       {
+        "w": "śrotra-śṛṅgāṭakeṣu",
+        "gloss": "ear; śṛṅgāṭaka (a named site in the head)",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃkhābarttāḥ",
+      "words": [
+       {
+        "w": "śaṅkha-āvartāḥ",
+        "gloss": "conch; whorls",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्रोत्र और शृंगाटकों में शंखावर्त यानी शंख की भँवर।",
+  "english": "In the ears (śrotra) and the śṛṅgāṭakas: śaṅkhāvarta (conch-whorl) (ones).",
+  "text_flags": [],
+  "notes": "śṛṅgāṭaka is the name of a site in the head (a marma); no modern equivalent is forced. Print: 'barttāḥ' normalised to vartāḥ (b/v interchange and doubled -rtt-, recorded once). Elliptical: unstated noun shown as '(ones)'.",
+  "confidence": "high"
+ },
+ {
+  "n": "154",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityasthisaṃdhayo'ṣṭavidhāḥ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "asthi-saṃdhayaḥ",
+        "gloss": "bone; joints",
+        "gram": "tat-puruṣa, m. nom. pl."
+       },
+       {
+        "w": "aṣṭa-vidhāḥ",
+        "gloss": "eight; kinds",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अस्थिसन्धियाँ आठ प्रकार की हैं।",
+  "english": "The bone-joints (asthisaṃdhi) are of eight kinds.",
+  "text_flags": [],
+  "notes": "Closing 'iti' goes here, not in the translation. Copula understood and supplied. The printed avagraha after -o is regular (saṃdhayaḥ + aṣṭa-).",
+  "confidence": "high"
+ },
+ {
+  "n": "155",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snāyupeśīsirāśritaistu",
+      "words": [
+       {
+        "w": "snāyu-peśī-sirā-āśritaiḥ",
+        "gloss": "ligament; muscle; vein; resting on",
+        "gram": "tat-puruṣa (dvandva first), m. inst. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasradvayaṃ",
+      "words": [
+       {
+        "w": "sahasra-dvayam",
+        "gloss": "two thousand (a pair of thousands)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastrapraṇidhāne",
+      "words": [
+       {
+        "w": "śastra-praṇidhāne",
+        "gloss": "surgical instrument; application",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "about them",
+        "gram": "m./n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vācyamastīti",
+      "words": [
+       {
+        "w": "vācyam",
+        "gloss": "to be said",
+        "gram": "n. nom. sg. gerundive √vac"
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthaṅnocyate",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is said",
+        "gram": "3 sg. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नायु, पेशी और सिरा पर आश्रितों के साथ तो दो हजार; और शस्त्र के प्रयोग में उनके विषय में कुछ और कहने को नहीं है, इसलिए अलग से नहीं कहा जाता।",
+  "english": "But together with (ones) resting on ligaments (snāyu), muscles (peśī) and veins (sirā): two thousand. Since nothing more is to be said about them in the application of the surgical instrument (śastrapraṇidhāna), (it) is not stated separately.",
+  "text_flags": [],
+  "notes": "OPEN parse (see glossary). The counted noun of 'two thousand' is unstated; the plainest reading is the bone-joints of 154 taken together with those resting on snāyu, peśī and sirā, but the text does not say so. Unstated subject of ucyate shown as '(it)'. 'iti' is read as giving the reason. snāyu = ligament or tendon, peśī = muscle (standard); sirā = vein or blood vessel (probable). śastra = surgical instrument.",
+  "confidence": "low"
+ },
+ {
+  "n": "156",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nava",
+      "words": [
+       {
+        "w": "nava",
+        "gloss": "nine",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snāyuśatāni",
+      "words": [
+       {
+        "w": "snāyu-śatāni",
+        "gloss": "ligaments (snāyu); hundreds",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नौ सौ स्नायु यानी बन्धन-तन्तु।",
+  "english": "Nine hundred ligaments (snāyu).",
+  "text_flags": [],
+  "notes": "nava śatāni = nine hundreds = 900.",
+  "confidence": "high"
+ },
+ {
+  "n": "157",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭśatāni",
+      "words": [
+       {
+        "w": "ṣaṭ-śatāni",
+        "gloss": "six hundreds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śākhāsu",
+      "words": [
+       {
+        "w": "śākhāsu",
+        "gloss": "in the limbs (śākhā)",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें से छह सौ शाखाओं में।",
+  "english": "Of them, six hundred in the limbs (śākhā).",
+  "text_flags": [],
+  "notes": "GROUPING: units 157-159 appear to continue 156 as one statement. Limb check: per limb 30 (toes) + 30 (160-162: sole, kūrca, ankle) + 30 + 10 + 40 + 10 = 150, x 4 = 600.",
+  "confidence": "high"
+ },
+ {
+  "n": "158",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "triṃśacchatadvayamaṃtarādhau",
+      "words": [
+       {
+        "w": "triṃśat",
+        "gloss": "thirty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "śata-dvayam",
+        "gloss": "two hundreds",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "antarādhau",
+        "gloss": "in the trunk (antarādhi)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो सौ तीस अन्तराधि यानी धड़ में।",
+  "english": "Two hundred and thirty in the trunk (antarādhi).",
+  "text_flags": [],
+  "notes": "triṃśat + śata-dvayam = thirty and two hundred = 230. Check: 600 + 230 + 70 = 900, matching 156.",
+  "confidence": "high"
+ },
+ {
+  "n": "159",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saptatiḥ",
+      "words": [
+       {
+        "w": "saptatiḥ",
+        "gloss": "seventy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊपर सत्तर।",
+  "english": "Seventy above.",
+  "text_flags": [],
+  "notes": "As in 132, ūrdhvam is 'above' (probably the neck and head).",
+  "confidence": "high"
+ },
+ {
+  "n": "160",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatraikaikasminsakthi",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaikasmin",
+        "gloss": "in each single",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "sakthni",
+        "gloss": "limb (sakthi)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādāṃgulyāṃ",
+      "words": [
+       {
+        "w": "pāda-aṅgulyām",
+        "gloss": "foot; toe",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyekaṃ",
+      "words": [
+       {
+        "w": "pratyekam",
+        "gloss": "in each, severally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ-ṣaṭ",
+        "gloss": "six each",
+        "gram": "num., repeated"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ प्रत्येक सक्थि यानी शाखा में, पैर की प्रत्येक उँगली में छह-छह।",
+  "english": "There, in each single limb (sakthi), in each toe (pādāṅguli), six each.",
+  "text_flags": [
+   {
+    "src": "sakthi",
+    "suggest": "sakthni",
+    "why": "possible: see unit 133; the neuter locative would be sakthni, the printed form repeats there"
+   }
+  ],
+  "notes": "GROUPING: 160-161 appear to belong together. Counted noun unstated (snāyu, from 156). For sakthi see unit 133; the same printed locative form is flagged there.",
+  "confidence": "medium"
+ },
+ {
+  "n": "161",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "triṃśat",
+      "words": [
+       {
+        "w": "triṃśat",
+        "gloss": "thirty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे तीस हैं।",
+  "english": "Those are thirty.",
+  "text_flags": [],
+  "notes": "Copula understood and supplied. Check: six in each of five toes = 30.",
+  "confidence": "high"
+ },
+ {
+  "n": "162",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "pādatalakūrccagulpheṣu",
+      "words": [
+       {
+        "w": "pāda-tala-kūrca-gulpheṣu",
+        "gloss": "foot; sole; kūrca (a part of the foot); ankle",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तलवे, कूर्च और टखने में दस-दस।",
+  "english": "Ten each in the sole (pādatala), kūrca and ankle (gulpha).",
+  "text_flags": [],
+  "notes": "kūrca is a named part of the foot; left untranslated. The pāda-tala is read as 'sole of the foot'. Print 'kūrcca' has a doubled c, normalised to kūrca (orthographic, recorded once). daśa daśa = ten each.",
+  "confidence": "medium"
+ },
+ {
+  "n": "163",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "triṃśajjaṃghāyāṃ",
+      "words": [
+       {
+        "w": "triṃśat",
+        "gloss": "thirty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "jaṅghāyām",
+        "gloss": "in the shank (jaṅghā)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीस जंघा यानी पिंडली में।",
+  "english": "Thirty in the shank (jaṅghā).",
+  "text_flags": [],
+  "notes": "jaṅghā = the lower leg, shank (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "164",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "jānuni",
+      "words": [
+       {
+        "w": "jānuni",
+        "gloss": "in the knee (jānu)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस जानु यानी घुटने में।",
+  "english": "Ten in the knee (jānu).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "165",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāriṃśadūrau",
+      "words": [
+       {
+        "w": "catvāriṃśat",
+        "gloss": "forty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ūrau",
+        "gloss": "in the thigh (ūru)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चालीस ऊरु यानी जाँघ में।",
+  "english": "Forty in the thigh (ūru).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "166",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇe",
+      "words": [
+       {
+        "w": "vaṅkṣaṇe",
+        "gloss": "in the groin (vaṅkṣaṇa)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस वंक्षण यानी जाँघ के मूल में।",
+  "english": "Ten in the groin (vaṅkṣaṇa).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "167",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāriṃśatkaṭyāṃ",
+      "words": [
+       {
+        "w": "catvāriṃśat",
+        "gloss": "forty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "kaṭyām",
+        "gloss": "in the hip (kaṭi)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चालीस कटि यानी कमर में।",
+  "english": "Forty in the hip (kaṭi).",
+  "text_flags": [],
+  "notes": "kaṭi = hip or waist.",
+  "confidence": "high"
+ },
+ {
+  "n": "168",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṃśatirmuṣkameṃdrabastyaṃtreṣu",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "muṣka-meḍhra-basti-antreṣu",
+        "gloss": "scrotum or testes; penis; bladder; intestines",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बीस मुष्क यानी अण्डकोष, मेढ्र यानी लिंग, बस्ति यानी मूत्राशय और अन्त्र यानी आँतों में।",
+  "english": "Twenty in the muṣka (scrotum or testes), meḍhra (penis), basti (bladder) and antra (intestines).",
+  "text_flags": [
+   {
+    "src": "viṃśatirmuṣkameṃdrabastyaṃtreṣu",
+    "suggest": "viṃśatirmuṣkameḍhrabastyaṃtreṣu",
+    "why": "possible: 'meṃdra' is not a word; meḍhra (penis) fits the list and ḍha misread as ṃda is plausible"
+   }
+  ],
+  "notes": "muṣka, meḍhra, basti (bladder, in this unit), antra (intestines): all standard. The unit divides as muṣka-meḍhra-basti-antreṣu.",
+  "confidence": "medium"
+ },
+ {
+  "n": "169",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aśītiḥ",
+      "words": [
+       {
+        "w": "aśītiḥ",
+        "gloss": "eighty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhe",
+      "words": [
+       {
+        "w": "pṛṣṭhe",
+        "gloss": "in the back (pṛṣṭha)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अस्सी पृष्ठ यानी पीठ में।",
+  "english": "Eighty in the back (pṛṣṭha).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "170",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṣṭiḥ",
+      "words": [
+       {
+        "w": "ṣaṣṭiḥ",
+        "gloss": "sixty",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārśvayoḥ",
+      "words": [
+       {
+        "w": "pārśvayoḥ",
+        "gloss": "in the two flanks (pārśva)",
+        "gram": "loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साठ दोनों पार्श्वों में।",
+  "english": "Sixty in the two flanks (pārśva).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "171",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭādaśorasi",
+      "words": [
+       {
+        "w": "aṣṭādaśa",
+        "gloss": "eighteen",
+        "gram": "num. nom. pl."
+       },
+       {
+        "w": "urasi",
+        "gloss": "in the chest (uras)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अठारह उरस् यानी छाती में।",
+  "english": "Eighteen in the chest (uras).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "172",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāryakṣakayoḥ",
+      "words": [
+       {
+        "w": "catvāri",
+        "gloss": "four",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "akṣakayoḥ",
+        "gloss": "in the two collarbones (akṣaka)",
+        "gram": "n. loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों अक्षकों यानी हँसली की हड्डियों में चार।",
+  "english": "Four in the two collarbones (akṣaka).",
+  "text_flags": [],
+  "notes": "akṣaka = collarbone (standard). Trunk subtotal as printed in this chunk: 40 + 20 + 80 + 60 + 18 + 4 = 222, short of 230 (158); more trunk sites may follow in the next chunk.",
+  "confidence": "high"
+ }
+]
