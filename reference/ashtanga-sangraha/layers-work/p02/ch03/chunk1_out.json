@@ -2716,5 +2716,947 @@
   "text_flags": [],
   "notes": "Damaged or unclear print in the long compound: 'phaṃpheṇā' is kept unsplit and unidentified; 'patrabhaṅga' (patra + bhaṅga) is unclear (it may be 'leaves, broken', or bhaṅgā = hemp; no firm reading). The rest of the compound is read as a list of plants (dvandva): bael, cotton, pāṭalī, neem, etc. 'garbhiṇyāḥ' is taken as dative-sense genitive 'for the pregnant woman'. 'sarvagandhodaka' = water prepared with all fragrant substances. The decoction is cool (śīta).",
   "confidence": "low"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāk",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "caivāsyā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "navamānmāsādapṛtatāsthiśarkarākapāle",
+      "words": [
+       {
+        "w": "navamāt",
+        "gloss": "ninth",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "māsāt",
+        "gloss": "month",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "apṛtatā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "asthi",
+        "gloss": "bone",
+        "gram": "n."
+       },
+       {
+        "w": "śarkarā",
+        "gloss": "gravel",
+        "gram": "f."
+       },
+       {
+        "w": "kapāle",
+        "gloss": "potsherd",
+        "gram": "n. loc. sg., bahuvrīhi (agrees with deśe)"
+       }
+      ]
+     },
+     {
+      "src": "praśaste",
+      "words": [
+       {
+        "w": "praśaste",
+        "gloss": "auspicious, approved",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśevāstuvidyāpraśastaṃ",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "in a place",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "vāstu-vidyā-praśastam",
+        "gloss": "building-site science (vāstu-vidyā); approved",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sarvartusukhamupṛtatsarvopakaraṇaṃ",
+      "words": [
+       {
+        "w": "sarva-ṛtu-sukham",
+        "gloss": "all; seasons; comfortable",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "upṛtat",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "sarva-upakaraṇam",
+        "gloss": "all; equipment",
+        "gram": "n. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "sannihitajvalanaṃprāgdvāramudagdvāraṃ",
+      "words": [
+       {
+        "w": "sannihita-jvalanam",
+        "gloss": "near at hand; fire",
+        "gram": "n. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "prāk-dvāram",
+        "gloss": "east-facing; door",
+        "gram": "n. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "udak-dvāram",
+        "gloss": "north-facing; door",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūtikāgāraṃ",
+      "words": [
+       {
+        "w": "sūtikā-agāram",
+        "gloss": "delivery chamber (sūtikāgāra)",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके नवें मास से पहले ही, अनुमानित पाठ पर हड्डी, कंकड़ और ठीकरों से रहित प्रशस्त स्थान में, वास्तुविद्या से प्रशस्त, सब ऋतुओं में सुखद, सब उपकरणों से युक्त, जिसमें अग्नि पास हो, पूर्व द्वार वाला अथवा उत्तर द्वार वाला सूतिकागार बनवाए।",
+  "english": "And even before her ninth month, on a conjectural reading, one should have a delivery chamber (sūtikāgāra) made in an auspicious place free of bones, gravel and potsherds, approved by the science of building sites (vāstu-vidyā), comfortable in all seasons, furnished with all equipment, with fire kept at hand, with a door to the east or to the north.",
+  "text_flags": [
+   {
+    "src": "caivāsyā",
+    "suggest": "caivāsyāḥ",
+    "why": "possible: genitive 'asyāḥ' with the visarga lost in print (as in unit 32)."
+   },
+   {
+    "src": "navamānmāsādapṛtatāsthiśarkarākapāle",
+    "suggest": "navamān māsād apahṛtāsthiśarkarākapāle",
+    "why": "possible: 'apṛtatā' is not a word; 'apahṛta' (removed) before asthi-śarkarā-kapāla fits, but the reading is conjectural."
+   },
+   {
+    "src": "sarvartusukhamupṛtatsarvopakaraṇaṃ",
+    "suggest": "sarvartusukham upahṛtasarvopakaraṇaṃ",
+    "why": "possible: 'upṛtat' is not a word; 'upahṛta' (brought) fits 'sarvopakaraṇa', conjectural."
+   }
+  ],
+  "notes": "Damaged print: 'apṛtatā' and 'upṛtat' are kept unsplit with gloss unclear; the translation 'free of bones, gravel and potsherds' and 'furnished with all equipment' follows the conjectural readings apahṛta and upahṛta and is hedged. 'vāstu-vidyā' = the science of sites and buildings. The two doors (east or north) are as printed. 'sūtikāgāra' = delivery chamber.",
+  "confidence": "low"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrānukūleṣu",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "anukūleṣu",
+        "gloss": "favourable",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nakṣatrādiṣu",
+      "words": [
+       {
+        "w": "nakṣatra-ādiṣu",
+        "gloss": "stars; and so on",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṇyāhaśabdena",
+      "words": [
+       {
+        "w": "puṇyāha-śabdena",
+        "gloss": "puṇyāha (auspicious-day formula); sound, utterance",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gobrāhmaṇavṛddhāntvā''vartamānā",
+      "words": [
+       {
+        "w": "go-brāhmaṇa-vṛddhān",
+        "gloss": "cow; brahmin; elders",
+        "gram": "m. acc. pl., dvandva"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "āvartamānā",
+        "gloss": "circling round",
+        "gram": "pres. part. mid. ā-√vṛt, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradakṣiṇaṃ",
+      "words": [
+       {
+        "w": "pradakṣiṇam",
+        "gloss": "clockwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praviśyabahuśaḥ",
+      "words": [
+       {
+        "w": "praviśya",
+        "gloss": "having entered",
+        "gram": "abs. pra-√viś"
+       },
+       {
+        "w": "bahuśaḥ",
+        "gloss": "many times",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasūtābhiranuktābhiravipādābhiḥ",
+      "words": [
+       {
+        "w": "prasūtābhiḥ",
+        "gloss": "by (women) who have given birth",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "anuktābhiḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "avipādābhiḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "kleśakṣamābhiḥ",
+      "words": [
+       {
+        "w": "kleśa-kṣamābhiḥ",
+        "gloss": "hardship; able to bear",
+        "gram": "f. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "paritṛtā",
+      "words": [
+       {
+        "w": "parivṛtā",
+        "gloss": "surrounded",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svastyayanaparā'nulomanerāhāravihārairanulomitavātamtrapurīṣā",
+      "words": [
+       {
+        "w": "svastyayana-parā",
+        "gloss": "auspicious rites; devoted",
+        "gram": "f. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "anulomanaiḥ",
+        "gloss": "regulating",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "āhāra-vihāraiḥ",
+        "gloss": "food; conduct",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "anulomita-vāta-mūtra-purīṣā",
+        "gloss": "made to move properly; wind; urine; stool",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasavakālamudīkṣeta",
+      "words": [
+       {
+        "w": "prasava-kālam",
+        "gloss": "delivery; time",
+        "gram": "m. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "udīkṣeta",
+        "gloss": "should await",
+        "gram": "3 sg. opt. mid. ud-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, वहाँ नक्षत्र आदि अनुकूल होने पर पुण्याह शब्द के साथ, गाय, ब्राह्मण और वृद्धों की ओर प्रदक्षिणा करती हुई प्रवेश करके, बहुत बार प्रसव कर चुकी, अनुक्ताभिः और अविपादाभिः अस्पष्ट, क्लेश सहने वाली स्त्रियों से घिरी हुई, स्वस्त्ययन में लगी हुई, अनुलोमन करने वाले आहार और विहार से वात, मूत्र और मल को अनुलोम की हुई प्रसव के समय की प्रतीक्षा करे।",
+  "english": "On a conjectural reading: there, when the stars and the rest are favourable, with the utterance of puṇyāha (auspicious-day formula), but circling clockwise round the cows, brahmins and elders, having entered, surrounded by women who have given birth many times, anuktābhiḥ and avipādābhiḥ (unclear), able to bear hardship, devoted to auspicious rites (svastyayana), with wind, urine and stool made to move properly by regulating food and conduct, she should await the time of delivery.",
+  "text_flags": [
+   {
+    "src": "gobrāhmaṇavṛddhāntvā''vartamānā",
+    "suggest": "gobrāhmaṇavṛddhān tv āvartamānā",
+    "why": "possible: tu + ā gives 'tvā'; the doubled avagraha mark is a print habit; the sense 'circling round' is not firm."
+   },
+   {
+    "src": "paritṛtā",
+    "suggest": "parivṛtā",
+    "why": "possible: tr for vr is a common OCR confusion; 'surrounded' fits."
+   },
+   {
+    "src": "parā'nulomanerāhāravihārairanulomitavātamtrapurīṣā",
+    "suggest": "parā anulomanair āhāravihārair anulomitavātamūtrapurīṣā",
+    "why": "possible: 'nerā' for 'nair ā' (ai printed e), and 'mtra' for 'mūtra' (ū lost); the sense fits."
+   }
+  ],
+  "notes": "Damaged or unclear print: 'anuktābhiḥ' and 'avipādābhiḥ' are real forms but the sense in a list of qualities of attendants is unclear (they may hide other words); they are kept unglossed. 'prasūtābhir bahuśaḥ' is read as 'by those who have given birth many times'. 'tu' with 'āvartamānā' is awkward and uncertain. The ritual 'puṇyāha' is an auspicious-day benediction. 'pradakṣiṇam' = keeping the right side toward the object. Subject (the woman) is understood; the sentence is long and the join with unit 40 (the chamber) is by context.",
+  "confidence": "low"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svalpe'pi",
+      "words": [
+       {
+        "w": "svalpe",
+        "gloss": "even slight",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṇmūtravibaṃdhe",
+      "words": [
+       {
+        "w": "viṭ-mūtra-vibandhe",
+        "gloss": "stool; urine; obstruction",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "phalavartīḥ",
+      "words": [
+       {
+        "w": "phala-vartīḥ",
+        "gloss": "phalavarti (suppository)",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "praṇidadhyāt",
+      "words": [
+       {
+        "w": "praṇidadhyāt",
+        "gloss": "should apply, insert",
+        "gram": "3 sg. opt. pra-ni-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मल तथा मूत्र की थोड़ी सी भी रुकावट में फलवर्तियाँ यानी बत्तियाँ रखे।",
+  "english": "And even in a slight obstruction (vibandha) of stool and urine, one should insert phalavartis (suppositories).",
+  "text_flags": [],
+  "notes": "'svalpe'pi' is su-alpe api, 'even slight'. 'phalavarti' = a suppository (varti = wick-like roll); the substance 'phala' is not specified here. The text speaks of obstruction of stool and urine (vibandha = constipation / retention). Insertion site and subject are not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāsannaprasavāyāḥ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "āsanna-prasavāyāḥ",
+        "gloss": "near; delivery",
+        "gram": "f. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "klamo",
+      "words": [
+       {
+        "w": "klamaḥ",
+        "gloss": "exhaustion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "glānirmuktabaṃdhane",
+      "words": [
+       {
+        "w": "glāniḥ",
+        "gloss": "weariness",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "mukta-bandhane",
+        "gloss": "released; fastening",
+        "gram": "n. nom. du., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ivākṣiṇī",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣiṇī",
+        "gloss": "the two eyes",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "niṣṭīvikāmūtrapurīṣabāhulyaṃ",
+      "words": [
+       {
+        "w": "niṣṭīvikā-mūtra-purīṣa-bāhulyam",
+        "gloss": "spitting; urine; stool; abundance",
+        "gram": "n. nom. sg., dvandva then tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śithilakukṣitā'dhogurutvamannānabhilāṣo",
+      "words": [
+       {
+        "w": "śithila-kukṣitā",
+        "gloss": "loose; belly; state",
+        "gram": "f. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "adhaḥ-gurutvam",
+        "gloss": "below; heaviness",
+        "gram": "n. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "anna-anabhilāṣaḥ",
+        "gloss": "food; lack of desire",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vedanodarathṛdayakaṭībastivaṃkṣaṇeṣu",
+      "words": [
+       {
+        "w": "vedanā",
+        "gloss": "pain",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "udara-hṛdaya-kaṭī-basti-vaṅkṣaṇeṣu",
+        "gloss": "belly; heart (hṛdaya); waist; bladder (basti); groin",
+        "gram": "n./f. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "todabhedaśūlasphuraṇastravaṇāni",
+      "words": [
+       {
+        "w": "toda-bheda-śūla-sphuraṇa-sravaṇāni",
+        "gloss": "pricking; tearing; pain; throbbing; flow",
+        "gram": "n. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yonyābhavaṃti",
+      "words": [
+       {
+        "w": "yonyāḥ",
+        "gloss": "of the yoni (vagina)",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "bhavanti",
+        "gloss": "occur",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब जिसका प्रसव निकट है, उसमें थकावट, ग्लानि, मानो बन्धन छूटे हुए दोनों नेत्र, थूक, मूत्र और मल की अधिकता, कुक्षि की शिथिलता, नीचे भारीपन, अन्न में अरुचि, पेट, हृदय, कटि, बस्ति और वंक्षण में पीड़ा; चुभन, फटन, शूल, फड़कन और योनि के स्राव होते हैं।",
+  "english": "Then, in her whose delivery is near, there occur exhaustion (klama), weariness (glāni), the two eyes as if with released fastenings, abundance of spitting, urine and stool, looseness of the belly, heaviness below, lack of desire for food, pain (vedanā) in the belly (udara), heart (hṛdaya), waist, bladder (basti) and groin; and pricking (toda), tearing (bheda), pain (śūla), throbbing (sphuraṇa) and flows (sravaṇa) of the yoni occur.",
+  "text_flags": [
+   {
+    "src": "vedanodarathṛdayakaṭībastivaṃkṣaṇeṣu",
+    "suggest": "vedanodarahṛdayakaṭībastivaṃkṣaṇeṣu",
+    "why": "possible: a stray 't' in 'darathṛdaya'; 'udara-hṛdaya' fits."
+   }
+  ],
+  "notes": "Complex list; the grammar of 'vedanā ... udarahṛdaya...' is not certain (it could be pain located in these parts followed by the list toda... as its kinds). 'stravaṇa' (st for sr) is read sravaṇa, flow. 'niṣṭīvikā' = spitting (or excess saliva). 'mukta-bandhane iva akṣiṇī' = the eyes as if with loosened bonds. 'basti' here = bladder; hṛdaya = heart (standard). 'yonyāḥ ... sravaṇāni' read as flows of the yoni (vagina); alternative: 'yonyā bhavanti' is correct sandhi of yonyāḥ + bhavanti; 'yonyā' as an instrumental is not adopted.",
+  "confidence": "low"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadanaṃtaramāvīnāṃ",
+      "words": [
+       {
+        "w": "tad-anantaram",
+        "gloss": "after that",
+        "gram": "ind."
+       },
+       {
+        "w": "āvīnām",
+        "gloss": "of the labour pains (āvī)",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "prādurbhāvo",
+      "words": [
+       {
+        "w": "prādurbhāvaḥ",
+        "gloss": "appearance",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhodakapravāhaśca",
+      "words": [
+       {
+        "w": "garbha-udaka-pravāhaḥ",
+        "gloss": "embryo; water; flow",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके बाद आवियों यानी प्रसव की पीड़ाओं का प्रकट होना और गर्भ के जल का बहना।",
+  "english": "After that, the appearance of the āvīs (labour pains) and the flow of the water of the embryo (garbhodaka: amniotic fluid).",
+  "text_flags": [],
+  "notes": "āvī = labour pains (probable); garbhodaka = amniotic fluid (probable). No verb in the Sanskrit; none supplied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athaināmupasthitagarbhāṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "upasthita-garbhām",
+        "gloss": "arrived; embryo",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtakautukamaṃgalāṃ",
+      "words": [
+       {
+        "w": "kṛta-kautuka-maṅgalām",
+        "gloss": "done; ritual (kautuka); auspicious rite",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punnāmaphalahastāṃ",
+      "words": [
+       {
+        "w": "puṃnāma-phala-hastām",
+        "gloss": "male-named; fruit (unidentified); in hand",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svabhyaktāmuṣṇodakapariṣiktāṃ",
+      "words": [
+       {
+        "w": "su-abhyaktām",
+        "gloss": "well anointed",
+        "gram": "ppp. f. acc. sg."
+       },
+       {
+        "w": "uṣṇa-udaka-pariṣiktām",
+        "gloss": "hot; water; sprinkled",
+        "gram": "ppp. f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtāṃ",
+      "words": [
+       {
+        "w": "sa-ghṛtām",
+        "gloss": "with ghee",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavāgūṃ",
+      "words": [
+       {
+        "w": "yavāgūm",
+        "gloss": "gruel (yavāgū)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāyayet",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "should make drink",
+        "gram": "3 sg. opt. caus. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब उसे, जिसके गर्भ का समय उपस्थित हो, जिसने कौतुक और मंगल किया हो, हाथ में पुंनाम नामक फल लिए हो, भली-भाँति तेल लगी हो, गर्म जल से सींची गई हो, घी सहित यवागू पिलाए।",
+  "english": "Then one should make her drink gruel (yavāgū) with ghee, her to whom the embryo has come forward, who has performed the kautuka and auspicious rites, with a fruit called punnāma (unidentified) in her hand, well anointed with oil and sprinkled with hot water.",
+  "text_flags": [],
+  "notes": "'puṃnāmaphala' = fruit of a masculine name (unidentified); the text does not name the fruit. 'upasthitagarbhā' is literally 'with the embryo arrived/present', i.e. delivery at hand (interpretation not in the text). 'kautuka' = a ritual for protection or auspiciousness; 'svabhyaktā' = well anointed with oil (the oil is not named). 'punnāma' printed with geminate n for puṃ-nāma.",
+  "confidence": "medium"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suraktārṣabhacarmapracchademṛduni",
+      "words": [
+       {
+        "w": "su-rakta-ārṣabha-carma-pracchade",
+        "gloss": "very; red; of a bull; hide; covering",
+        "gram": "n. loc. sg., bahuvrīhi"
+       },
+       {
+        "w": "mṛduni",
+        "gloss": "soft",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiśayane",
+      "words": [
+       {
+        "w": "bhūmi-śayane",
+        "gloss": "ground; bed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śayānāmuttānāmābhugnasakthipṛṣṭhāmahatavāsaso'śaṃkanīyāḥ",
+      "words": [
+       {
+        "w": "śayānām",
+        "gloss": "lying",
+        "gram": "pres. part. mid. √śī, f. acc. sg."
+       },
+       {
+        "w": "uttānām",
+        "gloss": "face upward",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ābhugna-sakthi-pṛṣṭhām",
+        "gloss": "bent; thigh; back",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "ahata-vāsasaḥ",
+        "gloss": "new, unworn; clothes",
+        "gram": "bahuvrīhi, f. nom. pl."
+       },
+       {
+        "w": "aśaṅkanīyāḥ",
+        "gloss": "not to be suspected",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "priyadarśanāḥ",
+      "words": [
+       {
+        "w": "priya-darśanāḥ",
+        "gloss": "pleasant; sight",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pariṇatavayasaḥ",
+      "words": [
+       {
+        "w": "pariṇata-vayasaḥ",
+        "gloss": "advanced; age",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prajanakaśalāḥ",
+      "words": [
+       {
+        "w": "prajanana-kuśalāḥ",
+        "gloss": "childbirth; skilled",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pragalbhāḥ",
+      "words": [
+       {
+        "w": "pragalbhāḥ",
+        "gloss": "bold",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛttanakhāḥ",
+      "words": [
+       {
+        "w": "kṛtta-nakhāḥ",
+        "gloss": "cut; nails",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "striyaḥ",
+      "words": [
+       {
+        "w": "striyaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūtikāṃ",
+      "words": [
+       {
+        "w": "sūtikām",
+        "gloss": "woman in labour (sūtikā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūnṛtābhirvāṇībhirāśvāsayaṃtyaḥ",
+      "words": [
+       {
+        "w": "sūnṛtābhiḥ",
+        "gloss": "pleasant and true",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "vāṇībhiḥ",
+        "gloss": "with words",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "āśvāsayantyaḥ",
+        "gloss": "comforting",
+        "gram": "pres. part. caus. ā-√śvas, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paryupāsīran",
+      "words": [
+       {
+        "w": "paryupāsīran",
+        "gloss": "should sit around, attend",
+        "gram": "3 pl. opt. mid. pari-upa-√ās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब अच्छे लाल बैल के चमड़े के आच्छादन वाली कोमल भूमि की शय्या पर लेटी हुई, उत्तान, जंघाओं और पीठ को मोड़े हुए सूतिका को, नए वस्त्र पहने, सन्देह से परे, देखने में प्रिय, प्रौढ़ आयु की, प्रसव में कुशल, निर्भीक, कटे नखों वाली स्त्रियाँ मधुर और सत्य वाणियों से आश्वासन देती हुई घेरकर सेवा करें।",
+  "english": "Then women with new (unworn) clothes, not to be suspected, pleasant to look at, advanced in age, skilled in delivery, bold, with cut nails, should attend upon the sūtikā (woman in labour) with comforting, pleasant and truthful words, her lying on a soft bed on the ground covered with a very red bull's hide, face upward, with bent thighs and back.",
+  "text_flags": [
+   {
+    "src": "prajanakaśalāḥ",
+    "suggest": "prajananakuśalāḥ",
+    "why": "possible: 'prajanakaśalāḥ' is not a word; 'prajanana-kuśalāḥ' (skilled in delivery) fits; syllables na and ku lost."
+   }
+  ],
+  "notes": "'ābhugnasakthipṛṣṭhām' (with bent thighs and back) is taken as printed; the exact posture is not further described and the text may intend 'bent thighs' with a different word for the back. 'suraktārṣabhacarma' = well-red (or very red) hide of a bull. 'sūtikā' = a woman in childbirth / newly delivered; here in labour by context. 'ahatavāsasaḥ' = with new (unworn) cloth. The women are described by a series of adjectives; 'aśaṅkanīyāḥ' = not to be suspected (trustworthy).",
+  "confidence": "medium"
  }
 ]

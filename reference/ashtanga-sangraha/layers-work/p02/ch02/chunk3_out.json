@@ -2521,5 +2521,844 @@
   ],
   "notes": "The word 'anakṣam' is doubtful; the conjecture 'aniśam, constantly' is not built into the Sanskrit and is only marked in the translation. 'labdhagarbhā' = having obtained an embryo (pregnant). 'garbhasya' goes with the long compound ('in the embryo ... states of ...'); the suffix -tva applies to the whole list. 'minmiṇa' (nasal or indistinct speech) is probable. 'hīnāṅga' (deficient in limbs) and 'adhikāṅga' (excessive in limbs) are as printed. Vāyu is Vāta (standard).",
   "confidence": "low"
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyuvatpittamapi",
+      "words": [
+       {
+        "w": "vāyuvat",
+        "gloss": "like Vāyu (wind-humour)",
+        "gram": "ind."
+       },
+       {
+        "w": "pittam",
+        "gloss": "Pitta (bile-humour)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalatipalitaśmaśruhīnatvakchranakhe",
+      "words": [
+       {
+        "w": "khalati-palita-śmaśru-hīnatvakchranakhe",
+        "gloss": "baldness (khalati; standard); grey hair (palita; standard); then unclear (printed 'śmaśruhīnatvakchranakhe')",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "śapaiṃgalyādīni",
+      "words": [
+       {
+        "w": "śa-paiṅgalya-ādīni",
+        "gloss": "unclear 'śa'; tawny colour (paiṅgalya); and so on",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही वायु की तरह पित्त भी — खालित्य यानी गंजापन, पलित यानी बालों का सफ़ेद होना, फिर छपा रूप श्मश्रुहीनत्वक्छ्रनखे श; यह अस्पष्ट है — पैंगल्य यानी पीलापन लिए भूरापन आदि।",
+  "english": "Likewise Pitta, like Vāyu: baldness (khalati), grey hair (palita), then the printed 'śmaśruhīnatvakchranakhe śa' (unclear; on a conjectural reading only), tawniness (paiṅgalya) and so on.",
+  "text_flags": [
+   {
+    "src": "khalatipalitaśmaśruhīnatvakchranakhe",
+    "suggest": "khalatipalitaśmaśruhīnatvaknakhakeśa-",
+    "why": "possible and not firm: 'kchra' and 'nakhe śa' look damaged; 'tvak-nakha-keśa-paiṅgalya' (skin, nails, hair, tawniness) is a guess, so no firm reading is built"
+   }
+  ],
+  "notes": "Elliptical: no verb ('produces' is understood from 100 and not supplied). Only khalati, palita and paiṅgalya-ādīni are firm; the middle of the compound is damaged or garbled and is not translated. The split of the compound across the two tokens (-nakhe | śa-) is as printed. 'vāyuvat' = like Vāyu. Pitta here is the humour.",
+  "confidence": "low"
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Kapha (phlegm-humour; śleṣman)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhakilāsasadaṃtavādīni",
+      "words": [
+       {
+        "w": "kuṣṭha-kilāsa-sadaṃtavā-ādīni",
+        "gloss": "kuṣṭha (leprosy and related skin disease; standard); kilāsa (white patches, probably vitiligo; probable); unclear 'sadaṃtavā'; and so on",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ तो — कुष्ठ यानी कोढ़ आदि, किलास यानी सफ़ेद दाग, छपा रूप सदंतवा अस्पष्ट है, आदि।",
+  "english": "Kapha, however: kuṣṭha (leprosy and related skin disease), kilāsa (probably vitiligo), the unclear printed 'sadaṃtavā', and so on.",
+  "text_flags": [
+   {
+    "src": "kuṣṭhakilāsasadaṃtavādīni",
+    "suggest": "kuṣṭhakilāsādantatvādīni",
+    "why": "possible and not firm: 'sadaṃtavā' is not a word; 'kilāsa-adantatva' (toothlessness) is a guess from similar letters"
+   }
+  ],
+  "notes": "Elliptical: no verb (understood from the preceding units and not supplied). 'śleṣmā' is the nominative of śleṣman. kuṣṭha (standard) and kilāsa (probable) are identifications; kuṣṭha here may mean a group of skin diseases. The third member is unclear and left untranslated.",
+  "confidence": "low"
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trivargaumiśrānvikārān",
+      "words": [
+       {
+        "w": "trivargaumiśrān",
+        "gloss": "unclear (printed form kept)",
+        "gram": "unclear"
+       },
+       {
+        "w": "vikārān",
+        "gloss": "disorders",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छपा रूप त्रिवर्गौमिश्रान् अस्पष्ट है; अनुमानित पाठ पर विकार।",
+  "english": "Disorders (vikāra), the printed 'trivargaumiśrān' being unclear (on a conjectural reading only).",
+  "text_flags": [
+   {
+    "src": "trivargaumiśrānvikārān",
+    "suggest": "trivargamiśrān vikārān",
+    "why": "possible and not firm: stray 'au'; 'tri-varga-miśra' (mixed with the three groups) is a guess, so no reading is built"
+   }
+  ],
+  "notes": "Unclear and elliptical. 'miśrān vikārān' (mixed disorders) and 'tri-varga' (a group of three, possibly the three doṣas) are possible, but the line is not firm. GROUPING: 103 appears to complete the statements of 101 and 102 (Vāta, Pitta, Kapha and mixed).",
+  "confidence": "low"
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "moreover, also",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "Moreover.",
+  "text_flags": [],
+  "notes": "Printed 'apica' = api + ca, a transition formula. GROUPING: introduces 105.",
+  "confidence": "high"
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛṣṭibhāgamapratipannaṃ",
+      "words": [
+       {
+        "w": "dṛṣṭi-bhāgam",
+        "gloss": "sight, vision; share, portion",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "apratipannam",
+        "gloss": "not reached, not attained",
+        "gram": "ppp. a-prati-√pad, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tejo",
+      "words": [
+       {
+        "w": "tejaḥ",
+        "gloss": "tejas (light, fire)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātyaṃdhatvaṃ",
+      "words": [
+       {
+        "w": "jātya-andhatvam",
+        "gloss": "congenital; blindness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadeva",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātānugataṃ",
+      "words": [
+       {
+        "w": "vāta-anugatam",
+        "gloss": "Vāta; followed by, accompanied",
+        "gram": "ppp. anu-√gam, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtarūkṣāruṇākṣaṃ",
+      "words": [
+       {
+        "w": "vikṛta-rūkṣa-aruṇa-akṣam",
+        "gloss": "deformed; dry; reddish; eye",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittānugataṃ",
+      "words": [
+       {
+        "w": "pitta-anugatam",
+        "gloss": "Pitta; followed by",
+        "gram": "ppp. anu-√gam, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṃgākṣaṃ",
+      "words": [
+       {
+        "w": "piṅga-akṣam",
+        "gloss": "tawny; eye",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmā'nugataṃśuklākṣaṃ",
+      "words": [
+       {
+        "w": "śleṣma-anugatam",
+        "gloss": "Kapha; followed by",
+        "gram": "ppp. anu-√gam, n. nom. sg."
+       },
+       {
+        "w": "śukla-akṣam",
+        "gloss": "white; eye",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktānugataṃ",
+      "words": [
+       {
+        "w": "rakta-anugatam",
+        "gloss": "blood or redness (rakta); followed by",
+        "gram": "ppp. anu-√gam, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktākṣamiti",
+      "words": [
+       {
+        "w": "rakta-akṣam",
+        "gloss": "red; eye",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दृष्टि के भाग को न पहुँचा हुआ तेज जन्मजात अन्धापन है। वही वात से अनुगत हो तो विकृत, रूखी, अरुण आँख वाला; पित्त से अनुगत हो तो पिंगल आँख वाला; कफ से अनुगत हो तो सफ़ेद आँख वाला; रक्त से अनुगत हो तो लाल आँख वाला।",
+  "english": "Light (tejas) that has not reached the share of sight (dṛṣṭibhāga) is congenital blindness (jātyandhatva). That same, followed by Vāta, has deformed, dry, reddish eyes; followed by Pitta, tawny eyes; followed by Kapha, white eyes; followed by blood (rakta), red eyes.",
+  "text_flags": [
+   {
+    "src": "śleṣmā'nugataṃśuklākṣaṃ",
+    "suggest": "śleṣmānugataṃ śuklākṣaṃ",
+    "why": "possible: the avagraha after 'śleṣmā' is a slip for the compound form 'śleṣma-anugatam' and the space is missing between the two words"
+   }
+  ],
+  "notes": "'tejas' is fire or light; the line does not say 'in the eye', and the elemental sense is not applied. 'dṛṣṭibhāga' is read as 'the portion of sight'. The adjectives 'vikṛtarūkṣāruṇākṣam' etc. agree with 'jātyandhatvam' (neuter). 'rakta' may be blood or redness; 'followed by rakta' is rendered 'blood' and the Hindi follows. Closing 'iti' not translated. 'jātyandha' = blind from birth (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "garbhasamānayogakṣemā",
+      "words": [
+       {
+        "w": "garbha-samāna-yogakṣemā",
+        "gloss": "embryo; same; welfare (yogakṣema)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, because",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhiṇī",
+      "words": [
+       {
+        "w": "garbhiṇī",
+        "gloss": "pregnant woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is, becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि गर्भिणी का गर्भ के समान योगक्षेम होता है।",
+  "english": "For the pregnant woman (garbhiṇī) has the same welfare (yogakṣema) as the embryo.",
+  "text_flags": [],
+  "notes": "'yogakṣema' (attainment and preservation) is read as 'welfare'; it is a bahuvrīhi qualifying 'garbhiṇī'. GROUPING: 106 and 107 appear to be one reasoning ('for ... therefore').",
+  "confidence": "high"
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādviśeṣatastāṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       },
+       {
+        "w": "tām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "priyahitābhyāṃ",
+      "words": [
+       {
+        "w": "priya-hitābhyām",
+        "gloss": "dear, pleasant; beneficial",
+        "gram": "dvandva, n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "garbhopaghātakarebhyo",
+      "words": [
+       {
+        "w": "garbha-upaghāta-karebhyaḥ",
+        "gloss": "embryo; injury; causing",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣet",
+      "words": [
+       {
+        "w": "rakṣet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए विशेष रूप से उसकी प्रिय और हितकर से, गर्भ को हानि पहुँचाने वालों से, रक्षा करनी चाहिए।",
+  "english": "Therefore one should protect her especially, by the pleasant and beneficial (ones), from those that cause injury to the embryo.",
+  "text_flags": [],
+  "notes": "'priyahitābhyām' is the instrumental dual of a dvandva, read 'by the pleasant and the beneficial (ones)'; the nouns are not in the text. 'garbhopaghātakarebhyaḥ' = from those (things) that harm the embryo (the following units list them).",
+  "confidence": "medium"
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbho",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhimāpnoti",
+      "words": [
+       {
+        "w": "vṛddhim",
+        "gloss": "growth",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āpnoti",
+        "gloss": "reaches, attains",
+        "gram": "3 sg. pres. √āp"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhārāhārasāpacārācca",
+      "words": [
+       {
+        "w": "bhāra-āhāra-sa-apacārāt",
+        "gloss": "burden; food; unclear 'sa'; misconduct, error",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "striyābalakṣayaḥ",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of the woman",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "bala-kṣayaḥ",
+        "gloss": "strength; loss, wasting",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे-जैसे गर्भ वृद्धि को प्राप्त होता है, वैसे-वैसे भार, आहार और अपचार से, अनुमानित पाठ पर, स्त्री के बल का क्षय होता है।",
+  "english": "As the embryo reaches growth, so, from the burden, the food and the error (apacāra), on a conjectural reading, there is loss of the woman's strength.",
+  "text_flags": [
+   {
+    "src": "bhārāhārasāpacārācca",
+    "suggest": "bhārāhārāpacārāc ca",
+    "why": "possible: the syllable 'sa' is unexplained; 'bhāra-āhāra-apacārāt' (from burden, food and error) is a guess; 'bhāra-āhāra-sāpacārāt' (burden and food together with error) is also possible"
+   }
+  ],
+  "notes": "'yathā yathā ... tathā tathā' means 'as ... so'. 'striyā' is regular sandhi for striyāḥ (visarga dropped before b). The member 'sa' in 'bhārāhārasāpacārāt' is unclear, so the reading of the ablative is conjectural. 'apacāra' = wrong conduct or error (in regimen); the text does not say of what.",
+  "confidence": "low"
+ },
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatreme",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "in this matter, there",
+        "gram": "ind."
+       },
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "garbhopaghātakarāḥ",
+      "words": [
+       {
+        "w": "garbha-upaghāta-karāḥ",
+        "gloss": "embryo; injury; causing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस विषय में ये गर्भ को हानि पहुँचाने वाले हैं।",
+  "english": "In this matter, these are the (ones) causing injury to the embryo.",
+  "text_flags": [],
+  "notes": "GROUPING: 109, 110 ('tadyathā') and 111 form one statement and a list. Predicate is understood ('are').",
+  "confidence": "high"
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as, namely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह जैसे —",
+  "english": "Namely —",
+  "text_flags": [],
+  "notes": "Printed 'tadyathā' = tat + yathā, a formula introducing a list.",
+  "confidence": "high"
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavāyavyāyāmakarśanābhighātātimātrasaṃkṣobhiyānayānarā",
+      "words": [
+       {
+        "w": "vyavāya-vyāyāma-karśana-abhighāta-atimātra-saṃkṣobhi-yāna",
+        "gloss": "sexual intercourse (vyavāya); exertion (vyāyāma); emaciating (karśana); blow, injury (abhighāta); excessive; agitating; riding in vehicles",
+        "gram": "dvandva, m."
+       },
+       {
+        "w": "yāna",
+        "gloss": "vehicle riding (repeated in print; possible slip)",
+        "gram": "n."
+       },
+       {
+        "w": "rātri",
+        "gloss": "night",
+        "gram": "f."
+       }
+      ]
+     },
+     {
+      "src": "trijāgaraṇadivāsvapnavegavidhāraṇājīrṇātapāgnikroghaśokabhayotrāsopavāsotkaṭakaviṣamakaṭhināsanaśvabhrakūpaprapātāpriyāvalokanaśravaṇādayaḥ",
+      "words": [
+       {
+        "w": "jāgaraṇa-diva-svapna-vega-vidhāraṇa-ajīrṇa-ātapa-agni-krodha-śoka-bhaya-utrāsa-upavāsa-utkaṭaka-viṣama-kaṭhina-āsana-śvabhra-kūpa-prapāta-apriya-avalokana-śravaṇa-ādayaḥ",
+        "gloss": "keeping awake; day; sleep; natural urge; holding back; undigested (ajīrṇa); sun-heat; fire; anger; grief; fear; fright; fasting; squatting (utkaṭaka; probable); uneven; hard; seat or posture; pit; well; falling into; disagreeable; seeing; hearing; and so on",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैथुन, व्यायाम, दुबला करने वाला, चोट, अत्यधिक झटके देने वाली सवारी, रात में जागना, दिन में सोना, वेगों को रोकना, अजीर्ण यानी बिना पचा, धूप, आग, क्रोध, शोक, भय, घबराहट, उपवास, उकड़ूँ बैठना, ऊबड़-खाबड़ और कठोर आसन, गड्ढे और कुएँ में गिरना, अप्रिय का देखना और सुनना आदि।",
+  "english": "Sexual intercourse (vyavāya), exertion (vyāyāma), emaciation (karśana), blows (abhighāta), excessively agitating riding in vehicles, keeping awake at night, sleep by day, holding back natural urges, undigested (food) (ajīrṇa), sun-heat, fire, anger, grief, fear, fright, fasting, squatting (utkaṭaka, probably), uneven and hard seats or postures, falling into a pit or well, seeing and hearing disagreeable (things), and so on.",
+  "text_flags": [
+   {
+    "src": "vyavāyavyāyāmakarśanābhighātātimātrasaṃkṣobhiyānayānarā",
+    "suggest": "vyavāyavyāyāmakarśanābhighātātimātrasaṃkṣobhiyānarātri",
+    "why": "possible: 'yānayāna' looks like a doubled 'yāna'; 'rā' + 'trijāgaraṇa' (next token) is a split word 'rātri-jāgaraṇa'"
+   },
+   {
+    "src": "trijāgaraṇadivāsvapnavegavidhāraṇājīrṇātapāgnikroghaśokabhayotrāsopavāsotkaṭakaviṣamakaṭhināsanaśvabhrakūpaprapātāpriyāvalokanaśravaṇādayaḥ",
+    "suggest": "…krodha…",
+    "why": "certain enough: 'krogha' is not a word; 'krodha' (anger) fits the list between agni and śoka; the first 'tri' belongs with the previous token's 'rā' (rātri)"
+   }
+  ],
+  "notes": "A long dvandva list (items of the compound are read as separate items). The stray space 'yānarā trijāgaraṇa' is read as 'rātri-jāgaraṇa'. 'utkaṭaka' is probably a squatting posture (probable); 'utkaṭaviṣama' with a different division is possible. 'ajīrṇa' = undigested (ajīrṇa), read as undigested food. 'karśana' = emaciating, an adjective in the list. 'saṃkṣobhi' = agitating. The list is ended by 'ādayaḥ'. The doubled 'yāna' is not repeated in the translation. 'vyavāya' = sexual intercourse (standard). GROUPING: 111 completes 109-110.",
+  "confidence": "medium"
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise, also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तथा।",
+  "english": "Likewise.",
+  "text_flags": [],
+  "notes": "GROUPING: introduces 114.",
+  "confidence": "high"
+ },
+ {
+  "n": "114",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devatārakṣo'nupacayaparirakṣaṇārthaṃ",
+      "words": [
+       {
+        "w": "devatā-rakṣaḥ-anupacaya-parirakṣaṇa-artham",
+        "gloss": "deity; rakṣas (demon); non-increase; protection; for the sake of",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakttāni",
+      "words": [
+       {
+        "w": "rakttāni",
+        "gloss": "red (rakta)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāsāṃsi",
+      "words": [
+       {
+        "w": "vāsāṃsi",
+        "gloss": "garments",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhārayenna",
+      "words": [
+       {
+        "w": "dhārayet",
+        "gloss": "should wear",
+        "gram": "3 sg. opt. caus. √dhṛ"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yānamadhirohenna",
+      "words": [
+       {
+        "w": "yānam",
+        "gloss": "vehicle",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adhiroḥet",
+        "gloss": "should mount",
+        "gram": "3 sg. opt. adhi-√ruh"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madyamāṃsamaśrīyāt",
+      "words": [
+       {
+        "w": "madya-māṃsam",
+        "gloss": "madya (an intoxicating drink); meat (māṃsa)",
+        "gram": "dvandva, n. acc. sg."
+       },
+       {
+        "w": "aśnīyāt",
+        "gloss": "should eat, consume",
+        "gram": "3 sg. opt. √aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवता, राक्षस और अनुपचय से रक्षा के लिए वह लाल वस्त्र न पहने, सवारी पर न चढ़े, मद्य यानी मादक पेय और मांस का सेवन न करे।",
+  "english": "For the sake of protection from deities, rakṣas (demons) and non-increase (anupacaya), (she) should not wear red garments, should not mount a vehicle, should not consume madya (an intoxicating drink) and meat.",
+  "text_flags": [
+   {
+    "src": "rakttāni",
+    "suggest": "raktāni",
+    "why": "possible: the doubled 't' is a print habit (as in other doubled consonants); 'raktāni' (red) is the word"
+   },
+   {
+    "src": "madyamāṃsamaśrīyāt",
+    "suggest": "madyamāṃsam aśnīyāt",
+    "why": "possible: 'aśrīyāt' is not a form; 'aśnīyāt' (should eat) fits"
+   }
+  ],
+  "notes": "'devatārakṣo'nupacayaparirakṣaṇārtham' is read as 'for the sake of protection from (harm by) deities, rakṣas, and non-increase'; the exact relation of the three members is not decided (they could also be read 'protection of the deities and rakṣas' share'). The subject 'she' (the pregnant woman) is understood from 106-107. 'madya-māṃsa' as a dvandva: madya (intoxicating drink) and meat (māṃsa). 'rakta' may mean red or dyed red; red is taken. GROUPING: follows 113.",
+  "confidence": "medium"
  }
 ]
