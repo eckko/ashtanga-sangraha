@@ -1,0 +1,125 @@
+[
+ {
+  "n": "130",
+  "field": "word.gram",
+  "word": "teṣām",
+  "old": "m. gen. pl.",
+  "new": "gen. pl.",
+  "why": "reviewer (minor): Gram gives 'm.' for a pronoun standing for an unstated noun (glossary: no gender on unstated words); 157 gives 'n.' for the same word, so the two disagree."
+ },
+ {
+  "n": "133",
+  "field": "english",
+  "old": "There, in each single limb (sakthi), three in each toe (pādāṅguli), two in the great toe (aṅguṣṭha).",
+  "new": "There, in each single sakthi (probably meaning limb), three in each toe (pādāṅguli), two in the great toe (aṅguṣṭha).",
+  "why": "reviewer (minor): Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so."
+ },
+ {
+  "n": "133",
+  "field": "hindi",
+  "old": "वहाँ प्रत्येक सक्थि यानी शाखा में, पैर की प्रत्येक उँगली में तीन, अँगूठे में दो।",
+  "new": "वहाँ प्रत्येक सक्थि यानी सम्भवतः शाखा में, पैर की प्रत्येक उँगली में तीन, अँगूठे में दो।",
+  "why": "reviewer (minor): Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so."
+ },
+ {
+  "n": "134",
+  "field": "word.gram",
+  "word": "te",
+  "old": "m./n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): 'm./n.' on te; te is not a neuter form and the noun is unstated."
+ },
+ {
+  "n": "137",
+  "field": "hindi",
+  "old": "वैसे ही दोनों पार्श्वों यानी पसलियों वाले भागों में।",
+  "new": "वैसे ही दोनों पार्श्वों यानी बगलों में।",
+  "why": "reviewer (minor): 'पसलियों वाले भागों' adds an anatomical interpretation; pārśva is the side or flank."
+ },
+ {
+  "n": "148",
+  "field": "hindi",
+  "old": "अंसपीठ यानी सम्भवतः कन्धे के फलक वाला भाग, गुदा, भग और अनुमानित पाठ पर नितम्बों में सामुद्ग यानी डिब्बे वाला नामक।",
+  "new": "अंसपीठ यानी सम्भवतः कन्धे के फलक वाला भाग, गुदा, भग यानी स्त्री के जननांग और अनुमानित पाठ पर नितम्बों में सामुद्ग यानी डिब्बे वाला नामक।",
+  "why": "reviewer (minor): Hindi leaves bhaga unglossed while English says 'the female genital organ'."
+ },
+ {
+  "n": "148",
+  "field": "hindi",
+  "old": "अंसपीठ यानी सम्भवतः कन्धे के फलक वाला भाग, गुदा, भग यानी स्त्री के जननांग और अनुमानित पाठ पर नितम्बों में सामुद्ग यानी डिब्बे वाला नामक।",
+  "new": "अंसपीठ यानी सम्भवतः कन्धे के फलक वाला भाग, गुदा, भग यानी स्त्री के जननांग और अनुमानित पाठ पर नितम्बों में सामुद्ग यानी डिब्बी के प्रकार के।",
+  "why": "reviewer (minor): Ungrammatical and unclear ('डिब्बे वाला नामक'); English says 'of the sāmudga (casket) kind'."
+ },
+ {
+  "n": "151",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "hanūbhayato",
+    "suggest": "hanvorubhayato",
+    "why": "possible: hanū (nom./acc. du.) is odd where a locative idea is meant; hanvoḥ (loc. du.) is expected, but the printed form is regular sandhi of hanū + ubhayataḥ"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): Wrong flag. ubhayataḥ ('on both sides of') takes the accusative, so 'hanū ubhayataḥ' (acc. du.) is regular and needs no emendation to hanvoḥ."
+ },
+ {
+  "n": "151",
+  "field": "notes",
+  "old": "hanū is the dual nominative or accusative, used with the sense of a locative ('at the jaws'); hanvoḥ would be the expected form (see text_flags). Elliptical: unstated noun shown as '(ones)'.",
+  "new": "hanū is the accusative dual governed by ubhayataḥ ('on both sides of'), a regular construction, so nothing is emended. Elliptical: unstated noun shown as '(ones)'.",
+  "why": "reviewer (error): Note repeats the mistaken view that hanū is nom./acc. 'used as a locative'."
+ },
+ {
+  "n": "151",
+  "field": "word.gram",
+  "word": "hanū",
+  "old": "f. nom. du.",
+  "new": "f. acc. du. (with ubhayataḥ)",
+  "why": "reviewer (error): 'nom. du.' is wrong; the case is accusative with ubhayataḥ."
+ },
+ {
+  "n": "151",
+  "field": "english",
+  "old": "At the two jaws (hanu), on both sides: vāyasatuṇḍa (crow-beak) (ones).",
+  "new": "On both sides of the two jaws (hanu): vāyasatuṇḍa (crow-beak) (ones).",
+  "why": "reviewer (error): 'At the jaws' makes hanū a locative; the Sanskrit says on both sides of the two jaws."
+ },
+ {
+  "n": "151",
+  "field": "hindi",
+  "old": "दोनों जबड़ों में दोनों ओर वायसतुण्ड यानी कौए की चोंच।",
+  "new": "दोनों जबड़ों के दोनों ओर वायसतुण्ड यानी कौए की चोंच।",
+  "why": "reviewer (error): Same: 'in the jaws' is not what the Sanskrit says."
+ },
+ {
+  "n": "155",
+  "field": "word.gram",
+  "word": "teṣu",
+  "old": "m./n. loc. pl.",
+  "new": "loc. pl.",
+  "why": "reviewer (minor): 'm./n.' on a pronoun for an unstated noun."
+ },
+ {
+  "n": "157",
+  "field": "word.gram",
+  "word": "teṣām",
+  "old": "n. gen. pl.",
+  "new": "gen. pl.",
+  "why": "reviewer (minor): Same as 130: gender on a pronoun for an unstated noun."
+ },
+ {
+  "n": "160",
+  "field": "english",
+  "old": "There, in each single limb (sakthi), in each toe (pādāṅguli), six each.",
+  "new": "There, in each single sakthi (probably meaning limb), in each toe (pādāṅguli), six each.",
+  "why": "reviewer (minor): Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so. Same as 133."
+ },
+ {
+  "n": "160",
+  "field": "hindi",
+  "old": "वहाँ प्रत्येक सक्थि यानी शाखा में, पैर की प्रत्येक उँगली में छह-छह।",
+  "new": "वहाँ प्रत्येक सक्थि यानी सम्भवतः शाखा में, पैर की प्रत्येक उँगली में छह-छह।",
+  "why": "reviewer (minor): Same as 133."
+ }
+]
