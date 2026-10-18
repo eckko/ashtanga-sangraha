@@ -1,0 +1,2049 @@
+[
+ {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍaṃgulotsedhaṃ",
+      "words": [
+       {
+        "w": "ṣaḍ-aṅgula-utsedham",
+        "gloss": "six; finger-breadth (aṅgula); height",
+        "gram": "bahuvrīhi; n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvātriṃśatpariṇāhaṃ",
+      "words": [
+       {
+        "w": "dvātriṃśat-pariṇāham",
+        "gloss": "thirty-two; girth, circumference",
+        "gram": "bahuvrīhi; n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiraiti",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छह अंगुल ऊँचा और बत्तीस अंगुल घेरे वाला: शिर।",
+  "english": "Six finger-breadths (aṅgula) in height and thirty-two in girth: the head.",
+  "text_flags": [
+   {
+    "src": "śiraiti",
+    "suggest": "śira iti",
+    "why": "possible: printed as one word with the hiatus closed up; regular sandhi of śiraḥ + iti is 'śira iti' (spacing error)"
+   }
+  ],
+  "notes": "Elliptical: no verb is stated, none is supplied. GROUPING: appears to continue from the previous unit (the subject of the measures is the head, śiras, named at the end). The closing 'iti' marks the end of the statement and is not translated. Orthography: anusvāra for a class nasal (ṣaḍaṃgula = ṣaḍaṅgula, daṃta = danta) is the print's habit and is normalised in `w` without a flag in this chunk; doubled rtt/rdd (varttā, varddhamāna) likewise normalised to rt/rd. aṅgula = finger-breadth, a unit of body measure.",
+  "confidence": "medium"
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "whole, all",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīramaṃgulāni",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅgulāni",
+        "gloss": "finger-breadths (aṅgula)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caturaśītiḥ",
+      "words": [
+       {
+        "w": "caturaśītiḥ",
+        "gloss": "eighty-four",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर सारा शरीर चौरासी अंगुल है।",
+  "english": "Again, the whole body is eighty-four finger-breadths (aṅgula).",
+  "text_flags": [],
+  "notes": "Copula understood (none stated). The plural aṅgulāni and singular caturaśītiḥ do not agree in number; the sense is a measure equation. The count (84) is translated as printed.",
+  "confidence": "high"
+ },
+ {
+  "n": "114",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadāyāmavistārasamaṃ",
+      "words": [
+       {
+        "w": "tad-āyāma-vistāra-samam",
+        "gloss": "that; length; breadth; equal",
+        "gram": "bahuvrīhi; n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samamucyate",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "even, symmetrical (sama)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pass. pres. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस लम्बाई और चौड़ाई में बराबर को सम यानी बराबर कहा जाता है।",
+  "english": "What is equal in that length and breadth is called sama (even, symmetrical).",
+  "text_flags": [],
+  "notes": "tad is read as 'that (length and breadth)', i.e. the measure just given. The unstated noun (the body) is not supplied. 'sama' is given as 'even, symmetrical'; the text does not say more.",
+  "confidence": "medium"
+ },
+ {
+  "n": "115",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "therein, in that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathoktaparimāṇamiṣṭamaniṣṭaṃ",
+      "words": [
+       {
+        "w": "yathā-ukta-parimāṇam",
+        "gloss": "as; said; measure",
+        "gram": "karmadhāraya; n. nom. sg."
+       },
+       {
+        "w": "iṣṭam",
+        "gloss": "desirable",
+        "gram": "ppp. √iṣ, n. nom. sg."
+       },
+       {
+        "w": "aniṣṭam",
+        "gloss": "undesirable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīnamadhikaṃ",
+      "words": [
+       {
+        "w": "hīnam",
+        "gloss": "deficient",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "adhikam",
+        "gloss": "excessive",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें कहा गया परिमाण इष्ट है; कम या अधिक अनिष्ट है।",
+  "english": "Therein, the measure as stated is desirable (iṣṭa); deficient or excessive is undesirable (aniṣṭa).",
+  "text_flags": [],
+  "notes": "Copula understood. The division of the clauses (iṣṭam | aniṣṭam hīnam adhikam vā) is the natural reading; hīnam/adhikam could also be read directly with the measure.",
+  "confidence": "high"
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathāhi",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus, so",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "indeed, for",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार, निश्चय ही:",
+  "english": "Thus indeed:",
+  "text_flags": [],
+  "notes": "Formula 'tathā hi' introducing what follows (examples or a list); it is not said what follows.",
+  "confidence": "high"
+ },
+ {
+  "n": "117",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hrasvadīrghagaurakṛṣṇaromāromasthūlakṛśaṃ",
+      "words": [
+       {
+        "w": "hrasva-dīrgha-gaura-kṛṣṇa-roma-aroma-sthūla-kṛśam",
+        "gloss": "short; tall (long); fair; dark; hairy (roma); hairless (aroma); stout; lean",
+        "gram": "dvandva; n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the list)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ह्रस्व यानी छोटा, दीर्घ यानी लम्बा, गोरा, काला, रोम वाला, रोम रहित, स्थूल यानी मोटा और कृश यानी दुबला।",
+  "english": "Short, tall, fair, dark, hairy, hairless, stout and lean.",
+  "text_flags": [],
+  "notes": "One neuter dvandva of eight qualities. The closing 'iti' is not translated. The unit appears to follow 'tathā hi' (u116) and to give instances of body forms; the text does not say so.",
+  "confidence": "high"
+ },
+ {
+  "n": "118",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iṣṭaṃ",
+      "words": [
+       {
+        "w": "iṣṭam",
+        "gloss": "desirable",
+        "gram": "ppp. √iṣ, nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punarmahāśirodaśanavadanahanustanāgrapṛṣṭhasvaramupacitorusphikakaṭivakṣogrīvātālukamubhayaguṇapāṇipādacubukakarṇalalāṭaṃ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, moreover",
+        "gram": "ind."
+       },
+       {
+        "w": "mahā-śiras-daśana-vadana-hanu-stana-agra-pṛṣṭha-svaram",
+        "gloss": "large (mahā); head; teeth; face; jaw (hanu, standard); breast; tip (stana-agra = nipple/breast-tip, probable); back; voice",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       },
+       {
+        "w": "upacita-ūru-sphika-kaṭi-vakṣas-grīvā-tālukam",
+        "gloss": "well-developed; thigh; buttock; waist/hip; chest; neck; palate (tālu, standard)",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       },
+       {
+        "w": "ubhaya-guṇa-pāṇi-pāda-cubuka-karṇa-lalāṭam",
+        "gloss": "both; quality; hand; foot; chin; ear; forehead",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmāsthidaṃtanakhāṃguliparvakeśaṃ",
+      "words": [
+       {
+        "w": "sūkṣma-asthi-danta-nakha-aṅguli-parva-keśam",
+        "gloss": "fine, slender; bone; tooth; nail; finger; joint (parvan); hair",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrghāṃgulisakthibāhūccchāsekṣitanetrajihvaṃ",
+      "words": [
+       {
+        "w": "dīrgha-aṅguli-sakthi-bāhu-ucchvāsa-īkṣita-netra-jihvam",
+        "gloss": "long; finger; thigh (sakthi); arm; breath (conjectural reading ucchvāsa); look, gaze; eye; tongue",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vistīrṇāsyādharoṣṭhajihvalālaṭākarṇapīṭhavakṣo'lpameṃḍhragrīvākeśaṃ",
+      "words": [
+       {
+        "w": "vistīrṇa-āsya-adhara-oṣṭha-jihvā-lalāṭa-karṇa-pīṭha-vakṣas",
+        "gloss": "broad; mouth, face; lower lip (adhara-oṣṭha); tongue; forehead; ear; seat (karṇa-pīṭha = ear-seat, exact part unclear); chest",
+        "gram": "bahuvrīhi"
+       },
+       {
+        "w": "alpa-meḍhra-grīvā-keśam",
+        "gloss": "small; penis (meḍhra, standard); neck; hair",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhatvakacakarajananayanadaśanasvanaṃ",
+      "words": [
+       {
+        "w": "snigdha",
+        "gloss": "smooth, unctuous",
+        "gram": "adj."
+       },
+       {
+        "w": "tvakacakarajana",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "nayana-daśana-svanam",
+        "gloss": "eye; tooth; voice",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthireṃdriyatvaṅnakhakeśapārśvaṃ",
+      "words": [
+       {
+        "w": "sthira-indriya-tvac-nakha-keśa-pārśvam",
+        "gloss": "steady; sense-organ (indriya); skin; nail; hair; side",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaṃbhīranābhisaṃdhisvaraṃ",
+      "words": [
+       {
+        "w": "gambhīra-nābhi-sandhi-svaram",
+        "gloss": "deep; navel (nābhi, standard); joint (sandhi); voice",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gūḍhajatrupṛṣṭhavaṃśadaṃtamūlaṃ",
+      "words": [
+       {
+        "w": "gūḍha-jatru-pṛṣṭha-vaṃśa-danta-mūlam",
+        "gloss": "hidden; collarbone region (jatru, probable); back-bone (pṛṣṭha-vaṃśa, spine; probable); tooth; root",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktatālvoṣṭhanakhanetrāṃtamātāmrajivhāhastapādatalaṃ",
+      "words": [
+       {
+        "w": "rakta-tālu-oṣṭha-nakha-netra-antam",
+        "gloss": "red; palate; lip; nail; eye; corner/end",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       },
+       {
+        "w": "ātāmra-jihvā-hasta-pāda-talam",
+        "gloss": "reddish; tongue; hand; foot; palm/sole",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇakeśabhrūnetrapakṣmatārakaṃśuklaśukaṃmaṃḍaladaśanacaritamunnatacittaskaṃdhalalāṭodaramukhanakhapādaṃ",
+      "words": [
+       {
+        "w": "kṛṣṇa-keśa-bhrū-netra-pakṣma-tārakam",
+        "gloss": "black; hair; eyebrow; eye; eyelash; pupil",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       },
+       {
+        "w": "śuklaśukaṃmaṃḍaladaśanacaritam",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "unnata-citta-skandha-lalāṭa-udara-mukha-nakha-pādam",
+        "gloss": "raised; mind (citta, as printed); shoulder; forehead; belly; face; nail; foot",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nīcairbaddhakarṇastananāsāgracaṃkramaṇaṃ",
+      "words": [
+       {
+        "w": "nīcais-baddha-karṇa-stana-nāsā-agra-caṅkramaṇam",
+        "gloss": "low (nīcais); set, fixed; ear; breast; nose; tip; gait, walking",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghanaskaṃdhakaṃdharāvaṃtāṃgulitvaksauhārdaṃ",
+      "words": [
+       {
+        "w": "ghana-skandha-kandharā",
+        "gloss": "dense, solid; shoulder; neck",
+        "gram": "bahuvrīhi"
+       },
+       {
+        "w": "vaṃtāṃguli",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "tvac-sauhārdam",
+        "gloss": "skin; friendliness (sauhārda)",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इष्ट, फिर, बड़े सिर, दाँत, मुख, हनु यानी जबड़े, स्तनाग्र, पीठ और स्वर वाला; पुष्ट ऊरु यानी जाँघ, नितम्ब, कमर, छाती, गरदन और तालु वाला; दोनों गुणों वाले हाथ, पैर, ठोड़ी, कान और माथे वाला; सूक्ष्म हड्डी, दाँत, नाखून, उँगलियों के पर्व यानी जोड़ और केश वाला; लम्बी उँगलियों, सक्थि यानी जाँघ, भुजा, अनुमानित पाठ पर श्वास, दृष्टि, नेत्र और जीभ वाला; चौड़े मुख, निचले होंठ, जीभ, माथे, कर्णपीठ और छाती वाला, तथा छोटे मेढ्र यानी शिश्न, गरदन और केश वाला; चिकना, अस्पष्ट छपा त्वकचकरजन, नेत्र, दाँत और स्वर वाला; स्थिर इन्द्रिय, त्वचा, नाखून, केश और पार्श्व वाला; गहरी नाभि, जोड़ और स्वर वाला; छिपे हुए जत्रु यानी हँसली के स्थान, पृष्ठवंश यानी रीढ़ और दाँतों की जड़ वाला; लाल तालु, होंठ, नाखून और नेत्रों के कोनों वाला तथा हल्के लाल जीभ, हाथ और पैर के तलों वाला; काले केश, भौंह, नेत्र, पलकों और तारा वाला, अस्पष्ट छपा शुक्लशुकमण्डलदशनचरित वाला, ऊँचे चित्त, कन्धे, माथे, पेट, मुख, नाखून और पैर वाला; नीचे बँधे कान, स्तन, नासाग्र और चाल वाला; घने कन्धे और गरदन वाला, अस्पष्ट छपा वंतांगुलि वाला, त्वचा और सुहृद् भाव वाला।",
+  "english": "Desirable, moreover, (is one) with: large head, teeth, face, jaws (hanu), breast-tips, back and voice; well-developed thighs, buttocks, waist, chest, neck and palate; hands, feet, chin, ears and forehead having both qualities; fine bones, teeth, nails, finger-joints and hair; long fingers, thighs (sakthi), arms, breath (on a conjectural reading), gaze, eyes and tongue; broad mouth, lower lip, tongue, forehead, ear-seat and chest, and small penis (meḍhra), neck and hair; smooth, (unclear: the printed 'tvakacakarajana'), eyes, teeth and voice; steady sense-organs (indriya), skin, nails, hair and sides; deep navel, joints and voice; hidden collarbone region (jatru), spine (pṛṣṭhavaṃśa) and tooth-roots; red palate, lips, nails and eye-corners, and reddish tongue, palms and soles; black hair, eyebrows, eyelashes and pupil; (unclear: the printed 'śuklaśukaṃmaṃḍaladaśanacaritam'); raised mind (citta, as printed), shoulders, forehead, belly, face, nails and feet; low-set ears, breasts, nose-tip and gait; dense shoulders and neck; (unclear: the printed 'vaṃtāṃguli'); skin and friendliness (sauhārda).",
+  "text_flags": [
+   {
+    "src": "dīrghāṃgulisakthibāhūccchāsekṣitanetrajihvaṃ",
+    "suggest": "dīrghāṅgulisakthibāhūcchvāsekṣitanetrajihvam",
+    "why": "possible: 'ccch' has an extra c and 'ucchāsa' is not a word; ucchvāsa (breath) fits; the whole member is doubtful, so the translation marks it 'on a conjectural reading'"
+   },
+   {
+    "src": "vistīrṇāsyādharoṣṭhajihvalālaṭākarṇapīṭhavakṣo'lpameṃḍhragrīvākeśaṃ",
+    "suggest": "lalāṭa (for lālaṭā); meḍhra (for meṃḍhra)",
+    "why": "possible: 'lālaṭā' is not a word, lalāṭa (forehead) is used elsewhere in this unit; 'meṃḍhra' read as the usual meḍhra (penis), a spelling variant of the anusvāra-for-ḍ type"
+   },
+   {
+    "src": "raktatālvoṣṭhanakhanetrāṃtamātāmrajivhāhastapādatalaṃ",
+    "suggest": "ātāmrajihvā",
+    "why": "possible: 'jivhā' is a variant spelling of jihvā (tongue); normalised in `words`"
+   },
+   {
+    "src": "snigdhatvakacakarajananayanadaśanasvanaṃ",
+    "suggest": "unclear: perhaps snigdha-tvak-kaca-… (division uncertain)",
+    "why": "possible damage: 'tvakacakarajana' cannot be divided with confidence (tvak + kaca? + kara? + jana(na)?); kept unsplit and marked unclear"
+   },
+   {
+    "src": "kṛṣṇakeśabhrūnetrapakṣmatārakaṃśuklaśukaṃmaṃḍaladaśanacaritamunnatacittaskaṃdhalalāṭodaramukhanakhapādaṃ",
+    "suggest": "unclear: śukla-… maṇḍala-daśana-… (division uncertain)",
+    "why": "possible damage: 'śuklaśukaṃmaṃḍaladaśanacarita' has no sure reading (śukla, maṇḍala and daśana are recognisable but 'śuka' and 'carita' do not fit); kept unsplit and marked unclear; 'citta' (mind) among body parts is also doubtful"
+   },
+   {
+    "src": "ghanaskaṃdhakaṃdharāvaṃtāṃgulitvaksauhārdaṃ",
+    "suggest": "unclear: vaṃtāṃguli (perhaps āvartāṅguli or avanatāṅguli)",
+    "why": "possible damage: 'vaṃtāṃguli' after kandharā has no sure reading; kept unsplit and marked unclear"
+   }
+  ],
+  "notes": "A very long run of bahuvrīhi adjectives (all nom./acc. sg.), joined in the print without spaces, in the style of a description of a desirable body. No noun is stated in this unit; the later units (to u136, where 'śarīram' stands) appear to continue the same description. GROUPING: appears to continue into u119 (same construction). Scope doubts: whether mahā 'large' applies to every member of its compound (head ... voice), whether upacita applies to all of 'thigh ... palate', whether dīrgha applies to every member of its compound, and what 'both qualities' (ubhaya-guṇa) refers to, are not settled by the Sanskrit; translated in the most literal way. 'stanāgra' = breast-tip (probable: nipple). 'karṇa-pīṭha' is literally ear-seat; the exact part is unclear. 'jatru' = collarbone region (probable). 'pṛṣṭha-vaṃśa' = spine (probable). 'meḍhra' = penis (standard). 'adhara-oṣṭha' taken as one item 'lower lip'; it could be two items (lower lip, lip). 'ātāmra' = reddish. 'netrānta' = corners/ends of the eyes. 'caṅkramaṇa' = walking, gait; 'nīcair baddha' = set low. 'citta' is printed 'mind' among body parts and is probably a misprint (not corrected). 'sauhārda' = friendliness, goodwill. Printed 'ucchāsa' conjecturally read as ucchvāsa (breath). Three stretches are unreadable and kept unsplit (tvakacakarajana; śuklaśukaṃmaṃḍaladaśanacarita; vaṃtāṃguli); translations leave them 'unclear' and give no meaning. Low confidence throughout.",
+  "confidence": "low"
+ },
+ {
+  "n": "119",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hanunavamadyajihvaṃ",
+      "words": [
+       {
+        "w": "hanu",
+        "gloss": "jaw (hanu, standard)",
+        "gram": "f./m."
+       },
+       {
+        "w": "navamadya",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "jihvam",
+        "gloss": "tongue (final member of a bahuvrīhi)",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛttasphikagrīvānakhaṃ",
+      "words": [
+       {
+        "w": "vṛtta-sphika-grīvā-nakham",
+        "gloss": "round; buttock; neck; nail",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samapṛṣṭhadaṃtalalāṭekṣitaṃ",
+      "words": [
+       {
+        "w": "sama-pṛṣṭha-danta-lalāṭa-īkṣitam",
+        "gloss": "even; back; tooth; forehead; look, gaze",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हनु यानी जबड़ा, अस्पष्ट छपा नवमद्य और जीभ वाला; गोल नितम्ब, गरदन और नाखून वाला; समतल पीठ, दाँत, माथे और दृष्टि वाला।",
+  "english": "(One) with jaw (hanu), (unclear: the printed 'navamadya') and tongue; round buttocks, neck and nails; even back, teeth, forehead and gaze.",
+  "text_flags": [
+   {
+    "src": "hanunavamadyajihvaṃ",
+    "suggest": "unclear: hanu-… -jihvam (perhaps 'madya' for 'madhya')",
+    "why": "possible damage: 'navamadya' has no sure reading ('madya' may be a misprint of madhya, 'middle'); kept unsplit and marked unclear"
+   }
+  ],
+  "notes": "Continues the series of adjectives of u118 (GROUPING: appears to continue u118). hanu, 'jaw'. 'navamadya' cannot be read with confidence (nava 'new/nine', madya 'intoxicating drink' make no sense among body parts; madhya 'middle' is possible); no meaning is given. jihvam is taken as the last member of a compound with hanu and the unclear piece, which is itself uncertain. 'īkṣita' = look, gaze. Low confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "120",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā'nupūrvavṛttāvūrū",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anupūrva-vṛttau",
+        "gloss": "in due order, successively; rounded",
+        "gram": "karmadhāraya; n./m. nom. du."
+       },
+       {
+        "w": "ūrū",
+        "gloss": "two thighs",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तथा क्रम से गोल दोनों जाँघें।",
+  "english": "Likewise, the two thighs (ūru) rounded in due succession.",
+  "text_flags": [],
+  "notes": "The avagraha after -ā (tathā'nupūrva) is a print habit; the sandhi is regular tathā + anupūrva. 'anupūrva-vṛtta' = 'rounded in due order', usually understood as evenly tapering; only the literal sense is given. Elliptical: no verb.",
+  "confidence": "medium"
+ },
+ {
+  "n": "121",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dakṣiṇāvarttā",
+      "words": [
+       {
+        "w": "dakṣiṇa-āvartā",
+        "gloss": "right; turn, whorl",
+        "gram": "bahuvrīhi; f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābhiḥ",
+      "words": [
+       {
+        "w": "nābhiḥ",
+        "gloss": "navel (nābhi, standard)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नाभि दक्षिणावर्त यानी दाहिनी ओर घूमी हुई है।",
+  "english": "The navel (nābhi) is right-turning (dakṣiṇāvarta).",
+  "text_flags": [],
+  "notes": "Copula understood. dakṣiṇāvarta is literally 'turning to the right'; nothing more is said. The doubled tt (dakṣiṇāvarttā) is normalised.",
+  "confidence": "high"
+ },
+ {
+  "n": "122",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛṣṭaṃtarau",
+      "words": [
+       {
+        "w": "prakṛṣṭa-antarau",
+        "gloss": "wide, extended; interval",
+        "gram": "bahuvrīhi; m./n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "stanaubhruvau",
+      "words": [
+       {
+        "w": "stanau-bhruvau",
+        "gloss": "two breasts; two eyebrows",
+        "gram": "m. nom. du.; f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, दोनों स्तनों और दोनों भौंहों के बीच बड़ा अन्तर।",
+  "english": "On a conjectural reading, a wide interval between the two breasts and the two eyebrows.",
+  "text_flags": [
+   {
+    "src": "prakṛṣṭaṃtarau",
+    "suggest": "prakṛṣṭāntarau",
+    "why": "possible: the ā-sign is missing before the anusvāra (prakṛṣṭā+ntarau); 'prakṛṣṭa-antara' = having a wide interval fits stanau-bhruvau"
+   }
+  ],
+  "notes": "stanau-bhruvau is printed as one word: stanau + bhruvau, regular dual forms. The corrected word prakṛṣṭāntarau is used in `words` and in the translation, which is marked as conjectural; as printed 'prakṛṣṭaṃtarau' it is not a word. The wide interval is taken to hold between the two members of each pair; the text does not state this. Elliptical: no verb.",
+  "confidence": "low"
+ },
+ {
+  "n": "123",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kūrmānnatayo",
+      "words": [
+       {
+        "w": "kūrma-unnatayaḥ",
+        "gloss": "tortoise; elevation, raised part",
+        "gram": "tat-puruṣa; f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nakhāḥ",
+      "words": [
+       {
+        "w": "nakhāḥ",
+        "gloss": "nails",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pādau",
+      "words": [
+       {
+        "w": "pādau",
+        "gloss": "two feet",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, नाखूनों और दोनों पैरों में कछुए जैसी उठान।",
+  "english": "On a conjectural reading, tortoise-like elevations in the nails and the two feet.",
+  "text_flags": [
+   {
+    "src": "kūrmānnatayo",
+    "suggest": "kūrmonnatayaḥ",
+    "why": "possible: printed 'ā' for 'o'; kūrma-unnati (tortoise-like elevation) fits nails and feet; the plural nakhāḥ/dual pādau do not agree in number, so the reading is not firm"
+   }
+  ],
+  "notes": "Reading uncertain: 'kūrmānnatayo' is not a regular word; kūrma-unnati (f.) 'tortoise-like rise' is taken, with -ḥ before nakhāḥ giving -o. Another possibility is kūrma-unnata 'raised like a tortoise' as an adjective (nakhāḥ pādau ca). Elliptical: no verb.",
+  "confidence": "low"
+ },
+ {
+  "n": "124",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛjvāsyaṃ",
+      "words": [
+       {
+        "w": "ṛju-āsyam",
+        "gloss": "straight; mouth, face",
+        "gram": "karmadhāraya; n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsāvaṃśaśca",
+      "words": [
+       {
+        "w": "nāsā-vaṃśaḥ",
+        "gloss": "nose; ridge, bridge (literally bamboo) (nāsā-vaṃśa, nasal bridge; probable)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सीधा मुख और नासावंश यानी नाक की डण्डी।",
+  "english": "Straight mouth (face) and nose-bridge (nāsāvaṃśa).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. āsya = mouth, also face; 'mouth' is kept with 'face' beside it. nāsāvaṃśa = nasal bridge (probable).",
+  "confidence": "medium"
+ },
+ {
+  "n": "125",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anulbaṇe",
+      "words": [
+       {
+        "w": "an-ulbaṇe",
+        "gloss": "not prominent, not excessive",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "hanū",
+      "words": [
+       {
+        "w": "hanū",
+        "gloss": "two jaws (hanu, standard)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "veṣaśca",
+      "words": [
+       {
+        "w": "veṣaḥ",
+        "gloss": "dress, appearance",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों हनु यानी जबड़े उभरे हुए नहीं, और वेष यानी पहनावा भी।",
+  "english": "The two jaws (hanu) not prominent, and the dress (veṣa) too.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. anulbaṇe is dual and agrees with hanū (hanu is feminine); whether 'not prominent' also applies to veṣa is not stated, and veṣa could also mean 'appearance'. The English 'too' renders ca.",
+  "confidence": "medium"
+ },
+ {
+  "n": "126",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ślakṣṇaṃ",
+      "words": [
+       {
+        "w": "ślakṣṇam",
+        "gloss": "smooth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tālu",
+      "words": [
+       {
+        "w": "tālu",
+        "gloss": "palate (tālu, standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jihvā",
+      "words": [
+       {
+        "w": "jihvā",
+        "gloss": "tongue",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तालु चिकना, और जीभ भी।",
+  "english": "The palate (tālu) smooth, and the tongue too.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. ślakṣṇam is neuter and agrees with tālu; whether it also applies to jihvā is not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nātisthūlakṛśāvoṣṭhau",
+      "words": [
+       {
+        "w": "na-ati-sthūla-kṛśau",
+        "gloss": "not; very; stout; lean",
+        "gram": "dvandva in a negated bahuvrīhi; m. nom. du."
+       },
+       {
+        "w": "oṣṭhau",
+        "gloss": "two lips",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dehabaṃdhaśca",
+      "words": [
+       {
+        "w": "deha-bandhaḥ",
+        "gloss": "body; structure, frame",
+        "gram": "tat-puruṣa; m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों होंठ न बहुत मोटे और न दुबले, और देह का बन्ध भी।",
+  "english": "The two lips neither very stout nor lean, and the structure of the body (deha-bandha) too.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. Whether 'neither very stout nor lean' also applies to deha-bandha is not stated. deha-bandha is literally 'binding/structure of the body' (frame, build).",
+  "confidence": "medium"
+ },
+ {
+  "n": "128",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saspaṃdaṃ",
+      "words": [
+       {
+        "w": "sa-spandam",
+        "gloss": "with throbbing",
+        "gram": "bahuvrīhi; n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart (hṛdaya, standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃkhau",
+      "words": [
+       {
+        "w": "śaṅkhau",
+        "gloss": "two temples (śaṅkha, standard)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "manye",
+      "words": [
+       {
+        "w": "manye",
+        "gloss": "two manyā (the side-neck vessels; probably the carotid vessels, probable)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धड़कता हुआ हृदय, और दोनों शंख यानी कनपटियाँ तथा दोनों मन्या यानी सम्भवतः गरदन के दोनों ओर की रक्तवाहिनियाँ।",
+  "english": "The heart (hṛdaya) with throbbing, and the two temples (śaṅkha) and the two manyā (probably the vessels at the sides of the neck, the carotids).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. sa-spanda (neuter) agrees with hṛdaya; whether it also applies to the temples and manyā is not stated. śaṅkha = temple (standard). manyā = the structures at the sides of the neck, usually the vessels there (probable; the carotid identification is a modern guess).",
+  "confidence": "medium"
+ },
+ {
+  "n": "129",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "soṣma",
+      "words": [
+       {
+        "w": "sa-ūṣma",
+        "gloss": "with warmth, warm",
+        "gram": "bahuvrīhi; n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tālupādodaraṃ",
+      "words": [
+       {
+        "w": "tālu-pāda-udaram",
+        "gloss": "palate; foot; belly",
+        "gram": "dvandva (samāhāra); n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niḥśvāsaśca",
+      "words": [
+       {
+        "w": "niḥśvāsaḥ",
+        "gloss": "breathing out, breath",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तालु, पैर और पेट गरम, और निःश्वास भी।",
+  "english": "Warm palate, feet and belly, and the outbreath (niḥśvāsa) too.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. soṣma (neuter) agrees with the neuter dvandva; whether niḥśvāsa is also called warm is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛṣṭhato'vanatau",
+      "words": [
+       {
+        "w": "pṛṣṭhataḥ",
+        "gloss": "at the back, behind",
+        "gram": "ind."
+       },
+       {
+        "w": "avanatau",
+        "gloss": "bent down, sloping",
+        "gram": "ppp. ava-√nam, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "romaśau",
+      "words": [
+       {
+        "w": "romaśau",
+        "gloss": "hairy",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karṇau",
+      "words": [
+       {
+        "w": "karṇau",
+        "gloss": "two ears",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों कान पीछे की ओर झुके हुए और रोमयुक्त।",
+  "english": "The two ears bent down at the back, and hairy.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. pṛṣṭhataḥ is 'at/from the back'; the exact placement of the bend is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "īṣatpralaṃ",
+      "words": [
+       {
+        "w": "īṣat",
+        "gloss": "slightly",
+        "gram": "ind."
+       },
+       {
+        "w": "pralam-",
+        "gloss": "drooping (first part of pralambinyau, see flag)",
+        "gram": "ind. compound member"
+       }
+      ]
+     },
+     {
+      "src": "binyau",
+      "words": [
+       {
+        "w": "-binyau",
+        "gloss": "(rest of pralambinyau) drooping, hanging",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bhruvau",
+      "words": [
+       {
+        "w": "bhruvau",
+        "gloss": "two eyebrows",
+        "gram": "f. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों भौंहें थोड़ी झुकी हुई।",
+  "english": "The two eyebrows slightly drooping (pralambin).",
+  "text_flags": [
+   {
+    "src": "īṣatpralaṃ",
+    "suggest": "īṣatpralaṃbinyau (as one word, no space)",
+    "why": "possible: a space was printed inside the word pralambinyau (īṣat-pralambinyau); the two printed tokens 'īṣatpralaṃ' and 'binyau' are read together"
+   }
+  ],
+  "notes": "The word pralambinyau (dual feminine of pralambin, 'hanging down') is split across the printed tokens by a stray space; the whole word is glossed in the two tokens. Elliptical: no verb.",
+  "confidence": "medium"
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "valibhaṃ",
+      "words": [
+       {
+        "w": "valibham",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "suśliṣṭasaṃdhyarddhacaṃdrākṛti",
+      "words": [
+       {
+        "w": "su-śliṣṭa-sandhi-ardhacandra-ākṛti",
+        "gloss": "well; joined; joint, junction; half-moon; shape",
+        "gram": "bahuvrīhi; n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lalāṭamātapatropamaṃ",
+      "words": [
+       {
+        "w": "lalāṭam",
+        "gloss": "forehead",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ātapatra-upamam",
+        "gloss": "umbrella; like",
+        "gram": "tat-puruṣa; n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अस्पष्ट छपा वलिभ; भली भाँति जुड़े जोड़ों वाला और अर्धचन्द्र के आकार का माथा; छाते जैसा सिर।",
+  "english": "(Unclear: the printed 'valibham'); a forehead (lalāṭa) with well-joined joints (sandhi) and the shape of a half-moon; the head like an umbrella.",
+  "text_flags": [
+   {
+    "src": "valibhaṃ",
+    "suggest": "unclear: perhaps vali-… (vali 'wrinkle/fold')",
+    "why": "possible damage: 'valibha' has no sure reading; kept unsplit and marked unclear"
+   }
+  ],
+  "notes": "'valibham' is unreadable (it might begin with vali 'wrinkle, fold'); no meaning is given. Which noun the adjective su-śliṣṭa-sandhi-ardhacandrākṛti belongs to is not certain: lalāṭam (forehead) is the nearest neuter, but 'with well-joined sandhi' could also qualify śiraḥ. The 'ātapatra' (umbrella) comparison is placed with the following noun in the translation. GROUPING: the unit is a series of short noun phrases and does not appear to be a full sentence. Elliptical: no verb.",
+  "confidence": "low"
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "naikamulā",
+      "words": [
+       {
+        "w": "na-eka-mūlāḥ",
+        "gloss": "not; one; root",
+        "gram": "bahuvrīhi (negated); m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛdavaḥ",
+      "words": [
+       {
+        "w": "mṛdavaḥ",
+        "gloss": "soft",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "keśāḥ",
+      "words": [
+       {
+        "w": "keśāḥ",
+        "gloss": "hairs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "केश एक मूल वाले नहीं, कोमल।",
+  "english": "The hairs (keśa) not single-rooted, soft.",
+  "text_flags": [
+   {
+    "src": "naikamulā",
+    "suggest": "naikamūlā",
+    "why": "possible: vowel length, mūla (root) for 'mula'; the final -ā is regular visarga-loss before a voiced consonant (naikamūlāḥ + mṛdavaḥ)"
+   }
+  ],
+  "notes": "naika-mūla is taken literally 'not having a single root' (na + eka); some would read naika as 'many', i.e. many-rooted; the sense of the phrase is not explained by the text. Elliptical: no verb.",
+  "confidence": "medium"
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛḍhaṃ",
+      "words": [
+       {
+        "w": "dṛḍham",
+        "gloss": "firm",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gūḍhaṃ",
+      "words": [
+       {
+        "w": "gūḍham",
+        "gloss": "hidden, concealed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirāsthisaṃdhi",
+      "words": [
+       {
+        "w": "śirā-asthi-sandhi",
+        "gloss": "vein, vessel (śirā, standard: vein); bone; joint",
+        "gram": "dvandva (samāhāra); n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिरा यानी नस, हड्डी और जोड़ दृढ़ और छिपे हुए।",
+  "english": "Firm, hidden: the veins (śirā), bones and joints.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. The three words are taken as one neuter dvandva that both adjectives qualify. śirā = vein or vessel (standard: vein).",
+  "confidence": "medium"
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛtimuktāni",
+      "words": [
+       {
+        "w": "prakṛti-muktāni",
+        "gloss": "natural state / by nature; released",
+        "gram": "tat-puruṣa; n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātamūtrapurīṣaguhyāni",
+      "words": [
+       {
+        "w": "vāta-mūtra-purīṣa-guhyāni",
+        "gloss": "wind (flatus; vāta); urine; dung (purīṣa); private (parts or matters; guhya, probable: genitals)",
+        "gram": "dvandva; n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hasitaruditārdrani",
+      "words": [
+       {
+        "w": "hasita-rudita-ārdrani",
+        "gloss": "laughed, laughter; wept, weeping; unclear",
+        "gram": "dvandva (doubtful); unclear"
+       }
+      ]
+     },
+     {
+      "src": "caṃceṣṭitāni",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ceṣṭitāni",
+        "gloss": "activities, movements",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकृति से मुक्त वायु, मूत्र, मल और गुह्य; हँसना, रोना, अस्पष्ट छपा आर्द्रनि और चेष्टाएँ।",
+  "english": "Wind (vāta, flatus), urine, dung (purīṣa) and private parts or matters (guhya), released naturally; laughing, weeping, (unclear: the printed 'ārdrani') and activities.",
+  "text_flags": [
+   {
+    "src": "caṃceṣṭitāni",
+    "suggest": "ca ceṣṭitāni",
+    "why": "possible: stray anusvāra; ca + ceṣṭitāni"
+   },
+   {
+    "src": "hasitaruditārdrani",
+    "suggest": "hasita-rudita-ārdrāṇi (?)",
+    "why": "possible: 'ārdrani' is not a word; kept as printed and marked unclear in the translation"
+   }
+  ],
+  "notes": "'prakṛti-mukta' is taken literally, 'released by (in) the natural way'; whether it governs all the items is not stated. vāta here is wind/flatus (not the humour). guhya = private parts or private matters (probable: genitals). 'hasitaruditārdrani' is doubtful at the end ('ārdra' means 'moist'); only hasita and rudita are firm. The ceṣṭitāni item is translated 'activities'. Elliptical: no verb. Low confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snātānuliptamadhaḥprasṛtānupūrvyā",
+      "words": [
+       {
+        "w": "snāta-anuliptam",
+        "gloss": "bathed; anointed",
+        "gram": "ppp. √snā, ppp. anu-√lip; n. nom./acc. sg."
+       },
+       {
+        "w": "adhaḥ-prasṛta-ānupūrvyā",
+        "gloss": "downward; spread; in due order",
+        "gram": "instr. sg. f."
+       }
+      ]
+     },
+     {
+      "src": "śuṣyadiṣṭaṃ",
+      "words": [
+       {
+        "w": "śuṣyat",
+        "gloss": "drying",
+        "gram": "pres. part. √śuṣ, n. nom. sg."
+       },
+       {
+        "w": "iṣṭam",
+        "gloss": "desirable",
+        "gram": "ppp. √iṣ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīramiti",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तथा स्नान किया और लेप लगा, नीचे फैले हुए क्रम से सूखता हुआ शरीर इष्ट है।",
+  "english": "Likewise, desirable is the body (śarīra), bathed and anointed, drying in due order as (it) spreads downward.",
+  "text_flags": [],
+  "notes": "The closing 'iti' ends the long description begun at u118 ('iṣṭaṃ ca punar …'); GROUPING: appears to complete the series of u118–u135 (the text does not state the pairing). The exact sense of 'adhaḥ-prasṛta-ānupūrvyā' is taken as 'in due order, spread downward'; what spreads (water, unguent) is not stated. The closing 'iti' is not translated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is, it is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, on this (matter)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में है।",
+  "english": "And on this matter there is (the following).",
+  "text_flags": [],
+  "notes": "Formula introducing the verses that follow; the thing that 'is' (a verse) is not stated, so '(the following)' is supplied in parentheses in the English.",
+  "confidence": "high"
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uttarottarasukṣetraṃ",
+      "words": [
+       {
+        "w": "uttara-uttara-su-kṣetram",
+        "gloss": "more and more; good; field, body",
+        "gram": "bahuvrīhi; nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhātprabhṛti",
+      "words": [
+       {
+        "w": "garbhāt",
+        "gloss": "from the garbha (embryo; or womb)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "prabhṛti",
+        "gloss": "onward, beginning",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nīrujaṃ",
+      "words": [
+       {
+        "w": "nīrujam",
+        "gloss": "free from disease",
+        "gram": "nom./acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्तरोत्तर उत्तम क्षेत्र वाला, गर्भ से आरम्भ करके रोगरहित।",
+  "english": "A field (kṣetra) better and better, free from disease from the garbha (embryo; or womb) onward.",
+  "text_flags": [],
+  "notes": "A continuation of the series of adjectives (no noun stated; GROUPING: the construction appears to continue in u139–u141). 'su-kṣetra' = good field; kṣetra also means 'body', but the text is not explained. garbha can mean embryo or womb; 'from the garbha onward' is kept literal. 'uttarottara' = 'one after another, increasingly'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āyāmajñānavijñānairvarddhamānaṃ",
+      "words": [
+       {
+        "w": "āyāma-jñāna-vijñānaiḥ",
+        "gloss": "stretch, length (āyāma); knowledge; specialised knowledge",
+        "gram": "dvandva; n. instr. pl."
+       },
+       {
+        "w": "vardhamānam",
+        "gloss": "growing",
+        "gram": "pres. part. √vṛdh, nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śanaiḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śubhaṃ",
+      "words": [
+       {
+        "w": "śubham",
+        "gloss": "auspicious",
+        "gram": "nom./acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आयाम, ज्ञान और विज्ञान से धीरे धीरे बढ़ता हुआ, शुभ।",
+  "english": "Auspicious, growing slowly by length (āyāma), knowledge (jñāna) and specialised knowledge (vijñāna).",
+  "text_flags": [],
+  "notes": "A continuation of the adjectives of u138. āyāma can mean 'length, extension' or 'restraint' (as in prāṇāyāma); 'length' is kept as the literal sense, but the meaning in this context is open. The doubled dd (varddhamāna) is normalised.",
+  "confidence": "medium"
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvaguṇopete",
+      "words": [
+       {
+        "w": "sarva-guṇa-upete",
+        "gloss": "all; quality; endowed with",
+        "gram": "tat-puruṣa; n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīreśaradāṃ",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "śaradām",
+        "gloss": "of autumns (years)",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śataṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "a hundred",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सब गुणों से युक्त शरीर में सौ शरद् यानी सौ वर्ष।",
+  "english": "Thus, in a body endowed with all qualities, a hundred autumns (years).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. 'a hundred autumns' is the usual idiom for a hundred years; the next unit begins with āyuḥ 'life-span', so the two units appear to be read together (GROUPING: appears to continue in u141). śarīreśaradāṃ is printed without a space; e + ś has no sandhi, so the split is regular.",
+  "confidence": "high"
+ },
+ {
+  "n": "141",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āyuraiśvaryamiṣṭāśca",
+      "words": [
+       {
+        "w": "āyuḥ",
+        "gloss": "life, life-span",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aiśvaryam",
+        "gloss": "lordship, sovereignty",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iṣṭāḥ",
+        "gloss": "desired",
+        "gram": "ppp. √iṣ, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvāḥ",
+      "words": [
+       {
+        "w": "bhāvāḥ",
+        "gloss": "states, things, conditions",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhitāḥ",
+      "words": [
+       {
+        "w": "pratiṣṭhitāḥ",
+        "gloss": "established",
+        "gram": "ppp. prati-√sthā, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आयु, ऐश्वर्य और सब इष्ट भाव स्थापित हैं।",
+  "english": "Life-span (āyus), lordship (aiśvarya) and all desired states (bhāva) are established.",
+  "text_flags": [],
+  "notes": "The token is āyuḥ + aiśvaryam + iṣṭāḥ + ca (the last ca is joined in the print: 'iṣṭāśca'); the words are split accordingly. 'iṣṭāḥ' is taken with 'sarve bhāvāḥ'. It appears to continue u140 (a body endowed with all qualities); the text does not state this.",
+  "confidence": "medium"
+ },
+ {
+  "n": "142",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anutsekamadainyaṃ",
+      "words": [
+       {
+        "w": "an-utsekam",
+        "gloss": "without arrogance",
+        "gram": "adv. (acc. n. sg.)"
+       },
+       {
+        "w": "a-dainyam",
+        "gloss": "without dejection",
+        "gram": "adv. (acc. n. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sukhaṃ",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "pleasure",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "duḥkhaṃ",
+      "words": [
+       {
+        "w": "duḥkham",
+        "gloss": "pain",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sevate",
+      "words": [
+       {
+        "w": "sevate",
+        "gloss": "experiences, resorts to",
+        "gram": "3 sg. pres. mid. √sev"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अहंकार और दीनता के बिना सुख और दुःख को भोगता है।",
+  "english": "(One) experiences pleasure and pain without arrogance and without dejection.",
+  "text_flags": [],
+  "notes": "The subject of sevate is not stated ('one'). anutseka and adainya are taken adverbially (neuter accusative) with the verb. utseka = arrogance, pride; dainya = dejection, wretchedness. It appears to continue u141; the text does not state this.",
+  "confidence": "medium"
+ },
+ {
+  "n": "143",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sattvāṃstapyamānastu",
+      "words": [
+       {
+        "w": "sattvān",
+        "gloss": "sattva (beings, or the quality sattva)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tapyamānaḥ",
+        "gloss": "being heated, suffering, practising austerity",
+        "gram": "pres. part. mid. √tap, m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājaso",
+      "words": [
+       {
+        "w": "rājasaḥ",
+        "gloss": "of the nature of rajas, rājasa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "at all, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāmataḥ",
+      "words": [
+       {
+        "w": "tāmasaḥ",
+        "gloss": "of the nature of tamas, tāmasa (conjectural reading)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सत्त्वान्, परन्तु तप्यमान, राजस, किसी प्रकार भी अनुमानित पाठ पर तामस नहीं।",
+  "english": "But sattvān, being heated (tapyamāna): rājasa, not at all tāmasa (on a conjectural reading).",
+  "text_flags": [
+   {
+    "src": "tāmataḥ",
+    "suggest": "tāmasaḥ",
+    "why": "possible: s/t confusion in the print; 'tāmataḥ' is not a word, tāmasa balances rājasa; the printed -ataḥ is not an ablative suffix here"
+   }
+  ],
+  "notes": "The sense of 'sattvān tapyamānaḥ' is uncertain: sattvān is a regular sandhi form (sattvān + tapyamānaḥ), accusative plural of sattva ('beings' or the quality), but it is not clear what it depends on (tap with an accusative is odd); tapyamāna may mean 'being tormented' or 'practising austerity'. The translation keeps the Sanskrit words and does not resolve them. 'tāmataḥ' is read as tāmasaḥ, hence the conjectural mark. The unit appears to be the second half of a sentence begun in u142 (not stated). Low confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "144",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dānaśīladayāstyabrahmacaryakṛtajñatāḥ",
+      "words": [
+       {
+        "w": "dāna-śīla-dayā-satya-brahmacarya-kṛtajñatāḥ",
+        "gloss": "giving; conduct, character (śīla); compassion; truth (conjectural reading); continence (brahmacarya); gratitude",
+        "gram": "dvandva; f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दान, शील, दया, अनुमानित पाठ पर सत्य, ब्रह्मचर्य और कृतज्ञता।",
+  "english": "Giving (dāna), conduct (śīla), compassion (dayā), truth (on a conjectural reading), continence (brahmacarya) and gratitude (kṛtajñatā).",
+  "text_flags": [
+   {
+    "src": "dayāstyabrahmacaryakṛtajñatāḥ",
+    "suggest": "dayāsatyabrahmacarya-",
+    "why": "possible: 'dayāstya' lacks the vowel after s (dayā-satya); 'astya' is not a word and 'satya' fits a list of virtues"
+   }
+  ],
+  "notes": "A list of qualities. Elliptical: no verb; it appears to be the subject of u145 (rasāyanāni …), but the text does not state this. brahmacarya = continence (celibacy); śīla = conduct, character.",
+  "confidence": "medium"
+ },
+ {
+  "n": "145",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasāyanāni",
+      "words": [
+       {
+        "w": "rasāyanāni",
+        "gloss": "rasāyanas (rejuvenation measures)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "maitrī",
+      "words": [
+       {
+        "w": "maitrī",
+        "gloss": "friendliness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "capuṇyāyurvṛddhihetuguṇaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "puṇya-āyus-vṛddhi-hetu-guṇaḥ",
+        "gloss": "merit; life-span; increase; cause; quality",
+        "gram": "tat-puruṣa; m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रसायन यानी कायाकल्प के साधन, मैत्री, और पुण्य तथा आयु की वृद्धि के कारण वाला गुण।",
+  "english": "Rasāyanas (rejuvenation measures), friendliness (maitrī), and the quality (guṇa) that is the cause of increase of merit and life-span.",
+  "text_flags": [
+   {
+    "src": "capuṇyāyurvṛddhihetuguṇaḥ",
+    "suggest": "ca puṇyāyurvṛddhihetuguṇaḥ",
+    "why": "possible: no space was printed between ca and puṇya (spacing error)"
+   }
+  ],
+  "notes": "Elliptical: no verb. guṇaḥ is singular as printed (a plural guṇāḥ would suit the list better; not corrected). Whether this unit completes the list of u144 is not stated. rasāyana = rejuvenation measure; the text does not say what is meant here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "146",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "double danda (punctuation)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhedīyo",
+      "words": [
+       {
+        "w": "prakṛti-bhedīyaḥ",
+        "gloss": "natural constitution (prakṛti); concerning the divisions (bhedīya)",
+        "gram": "tat-puruṣa; m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmāṣṭamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭamaḥ",
+        "gloss": "eighth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार प्रकृतिभेदीय नामक आठवाँ अध्याय।",
+  "english": "Thus the eighth chapter, named Prakṛtibhedīya (concerning the divisions of prakṛti).",
+  "text_flags": [],
+  "notes": "Colophon of the chapter. prakṛtibhedīya = 'concerning the divisions (bheda) of prakṛti (natural constitution)'.",
+  "confidence": "high"
+ }
+]
