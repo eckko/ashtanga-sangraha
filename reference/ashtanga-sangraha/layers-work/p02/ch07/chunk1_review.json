@@ -1,0 +1,668 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अब इसके बाद",
+     "problem": "glossary: ataḥ = इसलिए (therefore); English says 'therefore'",
+     "fix": "अब इसलिए",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अब इसके बाद",
+      "new": "अब इसलिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "samaṃtriśadūrdhvaṃ flag",
+     "problem": "the anusvara is not missing: it stands after ma (samaṃ) instead of after tri; wording misdescribes the print",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "and the anusvara of triṃśat is missing",
+      "new": "and the anusvara stands after ma instead of after tri (triṃśat)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "catuḥ-catvāriṃśat / ṣaḍ-viṃśatiḥ",
+     "problem": "the numerals are single words (catuścatvāriṃśat 44, ṣaḍviṃśatiḥ 26); gloss 'four; forty' invites reading 4 x 40",
+     "fix": "join and gloss as one number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "catuḥ-catvāriṃśat",
+       "field": "w",
+       "value": "catuścatvāriṃśat"
+      },
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "catuścatvāriṃśat",
+       "field": "gloss",
+       "value": "forty-four"
+      },
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "ṣaḍ-viṃśatiḥ",
+       "field": "w",
+       "value": "ṣaḍviṃśatiḥ"
+      },
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "ṣaḍviṃśatiḥ",
+       "field": "gloss",
+       "value": "twenty-six"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "44 and 26",
+     "problem": "Observation (no change): the printed counts check out against this chunk: limb marmas 11 per limb x 4 = 44 (talahṛdaya, kṣipra, kūrca, kūrcaśiras, gulpha, indrabasti, jānu, āṇi, urvī, lohita, viṭapa; arms by correspondence in 15-17); trunk 26 = guda, basti, nābhi, hṛdaya (4) + 9 pairs (stanamūla, stanarohita, apastambha, apālāpa, kaṭīkataruṇa, kukundara, nitamba, pārśvasandhi, bṛhatī) + aṃsaphalaka and aṃsa pairs (4) = 26. This supports 44 and 26; the remaining 37 for the upper part cannot be checked until the next chunk.",
+     "fix": "append to notes if the owner wants it",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in each sakthi (thigh)",
+     "problem": "sakthi must be the whole lower limb here (sole marma; 11 per limb; u15 'sakthivat bāhvoḥ'); glossary p02 ch05 k5: lower limb when toes are counted. The draft's own note says so but keeps 'thigh'.",
+     "fix": "in each sakthi (lower limb)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "english",
+       "old": "in each sakthi (thigh)",
+       "new": "in each sakthi (lower limb)"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": "प्रत्येक सक्थि यानी जाँघ में",
+       "new": "प्रत्येक सक्थि यानी पूरे निचले अंग में"
+      },
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "sakthi",
+       "field": "gloss",
+       "value": "in the lower limb (sakthi)"
+      },
+      {
+       "n": "4",
+       "op": "append_note",
+       "text": "Reviewer: translations now render sakthi as 'lower limb' (the sole marma cannot lie in the thigh); the earlier remark that the translation keeps 'thigh' is superseded."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stiffness of the sakthi (thigh)",
+     "problem": "OPEN (no patch): same sense question as u4. In u8 (ankle), u11 (āṇi above knee) and u12 (urvī, mid-thigh) 'thigh' is kept; if sakthi = lower limb throughout (as u15 and the 11-per-limb count suggest) these should read 'lower limb'. Owner/glossary decision.",
+     "fix": "decide book-wide; if limb: 'stiffness of the sakthi (lower limb)' in u8, u11, u12",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "पैर और जंघा यानी पिंडली के जोड़ पर",
+     "problem": "glossary p02 ch05 k5: jaṅghā = lower leg, not calf (पिंडली); English says shank",
+     "fix": "पैर और जंघा यानी घुटने से नीचे की टाँग के जोड़ पर",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जंघा यानी पिंडली के जोड़ पर",
+      "new": "जंघा यानी घुटने से नीचे की टाँग के जोड़ पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पिंडली के बीच",
+     "problem": "same jaṅghā point (lower leg, not calf)",
+     "fix": "जंघा यानी घुटने से नीचे की टाँग के बीच",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिंडली के बीच",
+      "new": "जंघा यानी घुटने से नीचे की टाँग के बीच"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Measured from the heel",
+     "problem": "'Measured' is not in the Sanskrit (prabhṛti = beginning with / from)",
+     "fix": "From the heel onward (on a conjectural reading)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "Measured from the heel (on a conjectural reading), at twelve",
+      "new": "Starting from the heel (on a conjectural reading), at twelve"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पिंडली और ऊरु यानी जाँघ के जोड़ पर",
+     "problem": "same jaṅghā point",
+     "fix": "जंघा यानी घुटने से नीचे की टाँग और ऊरु यानी जाँघ के जोड़ पर",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिंडली और ऊरु",
+      "new": "जंघा यानी घुटने से नीचे की टाँग और ऊरु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "regular hiatus after the dropped visarga",
+     "problem": "glossary: regular sandhi is never described as a lost visarga (aḥ + ā gives a-hiatus: ubhayata āṇiḥ)",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "regular hiatus after the dropped visarga",
+      "new": "regular sandhi aḥ + ā giving the hiatus ubhayata āṇiḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "षाण्ढ्य यानी नपुंसकता",
+     "problem": "probable identification hedged in English ('probably') but not in Hindi",
+     "fix": "षाण्ढ्य यानी सम्भवतः नपुंसकता",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "षाण्ढ्य यानी नपुंसकता",
+      "new": "षाण्ढ्य यानी सम्भवतः नपुंसकता"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुक्र यानी वीर्य नामक प्रजनन-द्रव की अल्पता",
+     "problem": "'नामक प्रजनन-द्रव' (so-called reproductive fluid) is added; the Sanskrit says only śukra; gloss already gives वीर्य",
+     "fix": "शुक्र यानी वीर्य की अल्पता",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुक्र यानी वीर्य नामक प्रजनन-द्रव की अल्पता",
+      "new": "शुक्र यानी वीर्य की अल्पता"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Like the sakthi (thigh)",
+     "problem": "sakthi is the lower limb here (the arm corresponds limb for limb; 11 marmas per limb)",
+     "fix": "Like the sakthi (lower limb)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "english",
+       "old": "Like the sakthi (thigh)",
+       "new": "Like the sakthi (lower limb)"
+      },
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सक्थि यानी जाँघ के समान",
+       "new": "सक्थि यानी निचले अंग के समान"
+      },
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "sakthi-vat",
+       "field": "gloss",
+       "value": "like the sakthi (lower limb)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "interpretation",
+     "problem": "Observation (no patch): the dashes 'gulpha—maṇibandha' and 'jānu—kūrpara' in both translations express the drafter's reading of a correspondence that the line only juxtaposes; the note says so, translations are acceptable but this is interpretation. Hindi uses ASCII colon after 'विशेष'.",
+     "fix": "owner may prefer plain commas",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kakṣākṣamadhye suggestion",
+     "problem": "The suggested form 'kakṣāvakṣomadhye' is not a regular compound sandhi; the natural restoration is 'kakṣāvakṣasor madhye' (between armpit and chest; this is also where Suśruta places kakṣādhara). Not adopted in translation: correct; confidence low is right.",
+     "fix": "suggest: kakṣāvakṣasor madhye",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "text_flags.0.suggest",
+      "value": "kakṣāvakṣasor madhye"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भीतर क्टचा जो अस्पष्ट छपा शब्द है, इसलिए अनुमानित पाठ पर",
+     "problem": "Observation (no patch): handling of the damaged word follows the glossary (unsplit, unclear, conjectural mark, low) and kaṭyāḥ/tvacā are not adopted: correct. The Hindi phrase reads awkwardly ('इसलिए') but matches the English.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक ओर कटने पर",
+     "problem": "bhinna = split/broken (English 'split'); 'कटने' (being cut) differs in sense",
+     "fix": "एक ओर फट जाने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक ओर कटने पर",
+      "new": "एक ओर फट जाने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पक्व यानी पचे हुए और आमाशय यानी अपक्व अन्न के आशय, पेट के बीच नाभि",
+     "problem": "garbled: 'पेट' at the end reads as another term; āmāśaya must be hedged 'probably stomach' (Hindi जठर) per glossary; English also unhedged",
+     "fix": "पक्व यानी पचे हुए और आमाशय यानी सम्भवतः जठर के बीच नाभि; वहाँ भी तुरन्त मृत्यु।",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "21",
+       "op": "set",
+       "field": "hindi",
+       "value": "पक्व यानी पचे हुए और आमाशय यानी कच्चे अन्न के आशय, सम्भवतः जठर, के बीच नाभि; वहाँ भी तुरन्त मृत्यु।"
+      },
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "english",
+       "old": "the āmāśaya (stomach)",
+       "new": "the āmāśaya (probably the stomach)"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "pakva stands for pakvāśaya",
+     "problem": "Observation (no patch): the translations rightly keep 'pakva (digested)' without supplying āśaya; the note carries the understood āśaya. Open point is the drafter's.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "āmāśaya (stomach)",
+     "problem": "glossary: āmāśaya hedged 'probably stomach' in both languages",
+     "fix": "āmāśaya (probably the stomach)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "english",
+       "old": "the gate of the āmāśaya (stomach)",
+       "new": "the gate of the āmāśaya (probably the stomach)"
+      },
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "hindi",
+       "old": "आमाशय का द्वार",
+       "new": "आमाशय यानी सम्भवतः जठर का द्वार"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "breathlessness (śvāsa)",
+     "problem": "gloss says probable; not hedged in either translation",
+     "fix": "śvāsa (probably breathlessness)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "25",
+       "op": "replace",
+       "field": "english",
+       "old": "breathlessness (śvāsa)",
+       "new": "śvāsa (probably breathlessness)"
+      },
+      {
+       "n": "25",
+       "op": "replace",
+       "field": "hindi",
+       "old": "श्वास यानी साँस फूलने से",
+       "new": "श्वास यानी सम्भवतः साँस फूलने से"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पूय की अवस्था",
+     "problem": "bare पूय needs a plain gloss",
+     "fix": "पूय यानी मवाद की अवस्था",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूय की अवस्था",
+      "new": "पूय यानी मवाद की अवस्था"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाण्डु यानी फीका सफेद",
+     "problem": "Observation (no patch): glossary open point on Hindi pāṇḍu; 'फीका सफेद' is a reasonable but unfixed choice; owner decides book-wide.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "jaghana (hip region)",
+     "problem": "gloss says probable; translations unhedged and Hindi has no gloss at all",
+     "fix": "jaghana (probably the hip region); Hindi जघन यानी सम्भवतः कूल्हे का क्षेत्र",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "28",
+       "op": "replace",
+       "field": "english",
+       "old": "outer part of the jaghana (hip region)",
+       "new": "outer part of the jaghana (probably the hip region)"
+      },
+      {
+       "n": "28",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जघन के बाहरी भाग में",
+       "new": "जघन यानी सम्भवतः कूल्हे के क्षेत्र के बाहरी भाग में"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "jaghana (hip region)",
+     "problem": "same hedge as u28",
+     "fix": "hedge in both languages",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "english",
+       "old": "the jaghana (hip region)",
+       "new": "the jaghana (probably the hip region)"
+      },
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जघन और पार्श्व के बीच",
+       "new": "जघन यानी सम्भवतः कूल्हे का क्षेत्र और पार्श्व के बीच"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अंसफलक यानी कन्धे की फलक जैसी दो हड्डियाँ",
+     "problem": "'जैसी' is added (glossary: no added जैसे); identification 'shoulder-blades' is hedged 'probably' in English but not in Hindi",
+     "fix": "अंसफलक यानी कन्धे की दो फलकें, सम्भवतः स्कन्धास्थियाँ",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अंसफलक यानी कन्धे की फलक जैसी दो हड्डियाँ",
+      "new": "अंसफलक यानी कन्धे की दो फलकें, सम्भवतः स्कन्धास्थियाँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "catastraḥ",
+     "problem": "w 'catastraḥ' (printed catastro) is a non-standard spelling of catasraḥ (f. nom. pl. of catur); the same in u35. Not flagged or normalised. No patch because the checker needs a matching w and the owner may prefer to record it once as a print habit.",
+     "fix": "normalise to catasraḥ in w and record once in the glossary, or keep as printed",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शिर की चंचलता",
+     "problem": "चंचलता suggests fickleness; cala = moving/unsteady; the gloss 'डगमगाना' rescues it",
+     "fix": "शिर का चलायमान होना यानी डगमगाना (optional)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "36 units, 0 errors, minor issues only. Split, grammar and the six adopted conjectures (u2, u3, u6, u7, u9, u28) are sound, correctly marked in both languages; u17 and u19 correctly not adopted. Fixes: sakthi = lower limb in u4/u15 (open for u8/u11/u12), jaṅghā Hindi per glossary, missing Hindi/English hedges (u14, u21, u22, u25, u28, u30, u32), added words in Hindi (u14, u32), ataḥ Hindi (u1), numeral splits (u3), small wording (u9, u20, u26). Counts 44 and 26 verified against the units (11 per limb x 4; trunk 26 including aṃsaphalaka and aṃsa pairs). No identification judged wrong. Human decisions: sakthi sense in u8/u11/u12; Hindi pāṇḍu u27; catastraḥ spelling u34; u6/u17/u19 stay low confidence.",
+ "glossary_suggestions": [
+  "sakthi in the marma list (p02 ch07) = lower limb (11 marmas per limb; u15 'sakthivat bāhvoḥ'); decide u8/u11/u12 wording.",
+  "jaṅghā Hindi = घुटने से नीचे की टाँग (not पिंडली) in marma units, as in ch05 k5.",
+  "jaghana = probably hip region, hedged in both languages; pārśvāntara sense open.",
+  "catastraḥ (print) = catasraḥ; record once as print habit.",
+  "Marma counts in p02 ch07: limb 44 = 11 x 4; trunk 26 = guda, basti, nābhi, hṛdaya + 9 pairs + aṃsaphalaka pair + aṃsa pair; upper 37 conjectured, check in the next chunk."
+ ]
+}

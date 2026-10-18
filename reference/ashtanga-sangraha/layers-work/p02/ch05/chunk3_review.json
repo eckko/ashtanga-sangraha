@@ -1,0 +1,720 @@
+{
+ "units": [
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvau",
+     "problem": "numeral standing for an unstated noun carries gender 'm.' (glossary: no gender for unstated nouns)",
+     "fix": "nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "word",
+      "match_w": "dvau",
+      "field": "gram",
+      "value": "nom. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and one resting on fire",
+     "problem": "'one' is supplied before 'resting'; the Sanskrit has a bare participle (bāhyaṃ ca āśritam agnyambhasī). Reading remains open, as the draft says; 'their' (teṣām) has no named antecedent. Not patched.",
+     "fix": "consider 'The outer, and resting on fire (agni) and water'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुक्र यानी वीर्य नामक प्रजनन-द्रव",
+     "problem": "'नामक प्रजनन-द्रव' adds words the Sanskrit lacks (śukra here is plainly semen, English says so)",
+     "fix": "शुक्र यानी वीर्य",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुक्र यानी वीर्य नामक प्रजनन-द्रव",
+      "new": "शुक्र यानी वीर्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "māṃsasirāsnāyvasthijāni",
+     "problem": "printed '-jāni' is rendered 'born of', but for a list of four kinds of jāla (nets) the natural text is -jālāni (la dropped by the scan); 'born of' is a strained sense. Not patched: owner to decide whether to add a flag possible 'māṃsasirāsnāyvasthijālāni' and reword to 'the flesh-, vessel-, snāyu- and bone-nets'",
+     "fix": "add text_flag (possible) and keep the translation hedged",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kūrccāhastapādagrīvāmeḍhreṣu",
+     "problem": "FALSE FLAG: kūrcāḥ + hasta- is regular sandhi (visarga is dropped after -ā before a voiced consonant, h is voiced), so there is no lost visarga (glossary: regular sandhi is never a typo flag)",
+     "fix": "[]",
+     "severity": "error",
+     "patch": {
+      "n": "102",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "jivhā",
+     "problem": "the emendation jivhā->jihvā in `words` has no flag in this unit (glossary: every emendation in words needs its own text_flag; notes only point back to u96)",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "jivhāmehanayorekaikā",
+        "suggest": "jihvāmehanayorekaikā",
+        "why": "near certain: jivhā is the hv/vh letter reversal for jihvā (also at 96); normalised in `w`"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "parihāryāḥ",
+     "problem": "gender 'f.' is only inferred from the unstated antecedent (-āḥ could be m.); glossary: no gender for unstated nouns",
+     "fix": "gerundive pari-√hṛ, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "word",
+      "match_w": "parihāryāḥ",
+      "field": "gram",
+      "value": "gerundive pari-√hṛ, nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "त्रिक; वंक्षण; कूर्पर; कक्षा",
+     "problem": "Hindi carries bare Sanskrit body terms and no hedge for trika although English has 'probably the sacral region' (Hindi must carry the hedges the English has)",
+     "fix": "Hindi glossed with यानी",
+     "severity": "minor",
+     "patch": {
+      "n": "106",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुल्फ, जानु, वंक्षण, मणिबन्ध, कूर्पर और कक्षा में तथा, अनुमानित पाठ पर, त्रिक और सिर में",
+      "new": "गुल्फ यानी टखने, जानु यानी घुटने, वंक्षण यानी जाँघ और पेट के बीच के भाग, मणिबन्ध यानी कलाई, कूर्पर यानी कोहनी और कक्षा यानी बगल में तथा, अनुमानित पाठ पर, त्रिक यानी सम्भवतः त्रिकास्थि वाले क्षेत्र और सिर में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ṣaṣṭhyā'dhikāni",
+     "problem": "printed ṣaṣṭhyā (sixth) where sixty is ṣaṣṭi, instr. ṣaṣṭyā; draft keeps print form in `w` and gives sense 'by sixty'. Observation only: owner may want a spelling note (ṣaṣṭhi for ṣaṣṭi, a known variant spelling).",
+     "fix": "note only",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "antarādhi",
+     "problem": "draft tags antarādhi 'probable' in gloss/notes but the translations state 'trunk' unhedged",
+     "fix": "hedge in both languages",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "replace",
+      "field": "english",
+      "old": "a hundred and twenty in the trunk (antarādhi)",
+      "new": "a hundred and twenty in the antarādhi (probably the trunk)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्तराधि यानी धड़",
+     "problem": "no hedge in Hindi for a probable identification",
+     "fix": "सम्भवतः",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्तराधि यानी धड़ में",
+      "new": "अन्तराधि यानी सम्भवतः धड़ में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in each single leg (sakthi)",
+     "problem": "glossary: sakthi = lower limb when toes are counted under it (leg also suggests jaṅghā 'shank' of u111)",
+     "fix": "lower limb",
+     "severity": "minor",
+     "patch": {
+      "n": "110",
+      "op": "replace",
+      "field": "english",
+      "old": "in each single leg (sakthi)",
+      "new": "in each single lower limb (sakthi)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sakthini",
+     "problem": "same: 'in the leg'",
+     "fix": "in the lower limb (sakthi)",
+     "severity": "minor",
+     "patch": {
+      "n": "110",
+      "op": "word",
+      "match_w": "sakthini",
+      "field": "gloss",
+      "value": "in the lower limb (sakthi)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जंघा",
+     "problem": "bare Hindi जंघा means thigh; glossary: jaṅghā = lower leg (not calf, not thigh), English says shank",
+     "fix": "जङ्घा यानी घुटने से नीचे का भाग",
+     "severity": "error",
+     "patch": {
+      "n": "111",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कूर्च, गुल्फ और जंघा में",
+      "new": "कूर्च, गुल्फ यानी टखने और जङ्घा यानी घुटने से नीचे के भाग में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dve (x2), ekaikam",
+     "problem": "numerals standing for unstated nouns carry 'f./n.' / 'n.'",
+     "fix": "nom. du. / nom. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "111",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "111",
+       "op": "word",
+       "match_w": "ekaikam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as in the leg",
+     "problem": "same sakthi rendering",
+     "fix": "as in the lower limb",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "replace",
+      "field": "english",
+      "old": "as in the leg",
+      "new": "as in the lower limb"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sakthi-vat",
+     "problem": "same",
+     "fix": "like the lower limb",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "word",
+      "match_w": "sakthi-vat",
+      "field": "gloss",
+      "value": "like the lower limb"
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "triṃśat",
+     "problem": "gender 'f.' for a numeral standing for an unstated noun",
+     "fix": "nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "triṃśat",
+      "field": "gram",
+      "value": "nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "त्रिक यानी सम्भवतः कमर के पीछे के त्रिक-स्थान",
+     "problem": "circular: explains trika by 'त्रिक-स्थान'",
+     "fix": "त्रिक यानी सम्भवतः त्रिकास्थि वाले क्षेत्र",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्रिक यानी सम्भवतः कमर के पीछे के त्रिक-स्थान में",
+      "new": "त्रिक यानी सम्भवतः त्रिकास्थि वाले क्षेत्र में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ekaikam",
+     "problem": "'n.' for unstated noun",
+     "fix": "nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "word",
+      "match_w": "ekaikam",
+      "field": "gram",
+      "value": "nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve",
+     "problem": "'n.' for unstated noun",
+     "fix": "nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "word",
+      "match_w": "dve",
+      "field": "gram",
+      "value": "nom. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "akṣaka vs jatru",
+     "problem": "both akṣaka (u119) and jatru (u120) are rendered 'collarbone'; they cannot both be; sibling u211 (k5) also has akṣaka 'probably collar-bones'. Not patched: owner to decide whether jatru should stay 'region of the collarbone/neck-shoulder junction'",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "jatru (collarbone region)",
+     "problem": "identification given without hedge although the draft's own note calls it probable",
+     "fix": "hedge",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "replace",
+      "field": "english",
+      "old": "the jatru (collarbone region)",
+      "new": "the jatru (probably the region of the collarbone)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जत्रु यानी हँसली के स्थान",
+     "problem": "unhedged identification",
+     "fix": "सम्भवतः",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जत्रु यानी हँसली के स्थान",
+      "new": "जत्रु यानी सम्भवतः हँसली वाला स्थान"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jatru-tālunoḥ",
+     "problem": "gloss lacks the tag 'probable'",
+     "fix": "add tag",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "word",
+      "match_w": "jatru-tālunoḥ",
+      "field": "gloss",
+      "value": "jatru (probably the region of the collarbone and root of the neck); palate (tālu)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "catvāri, trīṇi",
+     "problem": "'n.' for numerals of unstated nouns",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "121",
+       "op": "word",
+       "match_w": "catvāri",
+       "field": "gram",
+       "value": "nom. pl."
+      },
+      {
+       "n": "121",
+       "op": "word",
+       "match_w": "trīṇi",
+       "field": "gram",
+       "value": "nom. pl."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "हनुबन्धन",
+     "problem": "bare Sanskrit in Hindi; English glosses it as jaw-joints",
+     "fix": "gloss it",
+     "severity": "minor",
+     "patch": {
+      "n": "121",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दो हनुबन्धन में",
+      "new": "दो हनुबन्धन यानी जबड़े के जोड़ों में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "में स्थित",
+     "problem": "'स्थित' is not in the Sanskrit (glossary: no added participles in Hindi); English adds none",
+     "fix": "drop",
+     "severity": "minor",
+     "patch": {
+      "n": "122",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिरों में स्थित कपाल",
+      "new": "सिरों में कपाल"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "madhya",
+     "problem": "OPEN: 'madhya' alone vs 'vaṅkṣaṇamadhya' (middle of the groin); kept as printed, not patched",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "rucakas (a class of bone)",
+     "problem": "parenthetical not in the Sanskrit (inferred from u127) and absent from the Hindi; unidentified terms stay bare",
+     "fix": "rucakas",
+     "severity": "minor",
+     "patch": {
+      "n": "123",
+      "op": "replace",
+      "field": "english",
+      "old": " (a class of bone)",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तरुण यानी कोमल अस्थियाँ",
+     "problem": "'अस्थियाँ' is supplied (taruṇāni has no stated noun); Latin-free Hindi should also gloss the bare body terms",
+     "fix": "adjective only, glossed terms",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "set",
+      "field": "hindi",
+      "value": "घ्राण यानी नाक, कर्ण यानी कान, ग्रीवा यानी गर्दन और अक्षिकोश यानी आँख के गड्ढों में तरुण यानी कोमल हैं, जो सम्भवतः उपास्थि हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छल्ले जैसी हड्डियाँ",
+     "problem": "adds जैसी and हड्डियाँ (draft's own note admits it only restates 'valaya'); glossary forbids added जैसे",
+     "fix": "वलय यानी छल्ले",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "set",
+      "field": "hindi",
+      "value": "पाणि यानी हाथ, पाद यानी पैर, पार्श्व यानी बगल और पृष्ठ यानी पीठ में वलय यानी छल्ले हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नली जैसी",
+     "problem": "adds जैसी",
+     "fix": "नलक यानी नलियाँ",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "set",
+      "field": "hindi",
+      "value": "शेष नलक यानी नलियाँ हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नाम के अनुसार चलने वाली",
+     "problem": "'चलने वाली' is a literal rendering of anugata; 'नाम के अनुरूप' is the natural Hindi (observation, not patched)",
+     "fix": "नाम के अनुरूप",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संख्या",
+     "problem": "'संख्या' (number) is not in the Sanskrit (draft's note admits it)",
+     "fix": "अस्थि-सन्धियों के दो सौ, दस अधिक, यानी दो सौ दस।",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "set",
+      "field": "hindi",
+      "value": "अस्थि-सन्धियों के दो सौ, दस अधिक, यानी दो सौ दस।"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "43 units (87-129) reviewed. 2 errors, 33 minor. Errors: u102 false lost-visarga flag (regular sandhi kūrcā+h); u111 Hindi bare जंघा means thigh. Minor: unhedged probable identifications (antarādhi, jatru, trika in Hindi), sakthi -> lower limb, added Hindi words (जैसी, स्थित, संख्या, हड्डियाँ, नामक प्रजनन-द्रव), gram gender on unstated nouns, missing own flag for jivhā at u104. Open: u101 -jāni vs -jālāni, u119/u120 akṣaka vs jatru both collarbone, u122 madhya, u91 reading. No identification judged clearly wrong; counts kept as printed (sums 16, 14, 360=140+120+100, 35 per limb check out).",
+ "glossary_suggestions": [
+  "jaṅghā in Hindi = जङ्घा यानी घुटने से नीचे का भाग (bare जंघा means thigh).",
+  "Regular sandhi kūrcāḥ + h- -> kūrcā h-: no lost-visarga flag (before any voiced consonant incl. h).",
+  "akṣaka (probably collar-bone) and jatru (region of collarbone/neck-shoulder junction): keep apart; OPEN how to render jatru.",
+  "trika Hindi = त्रिक यानी सम्भवतः त्रिकास्थि वाला क्षेत्र; antarādhi = probably trunk, hedged in both languages.",
+  "kaṇḍarā counts: 16 = 8 (hands/feet two each) + 4 + 4 (neck, back) only if four each; leg bone count 35 per limb = 5 nails+15+5 rods+1+2+2+2+1+1+1 supports conjectural pārṣṇi in u111."
+ ]
+}

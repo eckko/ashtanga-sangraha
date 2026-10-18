@@ -1,0 +1,251 @@
+[
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "dvau",
+  "old": "m. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): numeral standing for an unstated noun carries gender 'm.' (glossary: no gender for unstated nouns)"
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "प्राण के दस आयतन यानी आश्रय स्थान हैं: मूर्धा यानी सिर, जिह्वाबन्धन यानी जीभ का बन्धन, कण्ठ, हृदय, नाभि, बस्ति यानी मूत्राशय, गूद यानी गुदा, शुक्र यानी वीर्य नामक प्रजनन-द्रव, ओज और रक्त।",
+  "new": "प्राण के दस आयतन यानी आश्रय स्थान हैं: मूर्धा यानी सिर, जिह्वाबन्धन यानी जीभ का बन्धन, कण्ठ, हृदय, नाभि, बस्ति यानी मूत्राशय, गूद यानी गुदा, शुक्र यानी वीर्य, ओज और रक्त।",
+  "why": "reviewer (minor): 'नामक प्रजनन-द्रव' adds words the Sanskrit lacks (śukra here is plainly semen, English says so)"
+ },
+ {
+  "n": "102",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "kūrccāhastapādagrīvāmeḍhreṣu",
+    "suggest": "kūrcāḥ hastapādagrīvāmeḍhreṣu",
+    "why": "possible: before h the visarga of kūrcāḥ should remain; the printed -ā looks like a dropped visarga"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): FALSE FLAG: kūrcāḥ + hasta- is regular sandhi (visarga is dropped after -ā before a voiced consonant, h is voiced), so there is no lost visarga (glossary: regular sandhi is never a typo flag)"
+ },
+ {
+  "n": "104",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "jivhāmehanayorekaikā",
+    "suggest": "jihvāmehanayorekaikā",
+    "why": "near certain: jivhā is the hv/vh letter reversal for jihvā (also at 96); normalised in `w`"
+   }
+  ],
+  "why": "reviewer (minor): the emendation jivhā->jihvā in `words` has no flag in this unit (glossary: every emendation in words needs its own text_flag; notes only point back to u96)"
+ },
+ {
+  "n": "105",
+  "field": "word.gram",
+  "word": "parihāryāḥ",
+  "old": "gerundive pari-√hṛ, f. nom. pl.",
+  "new": "gerundive pari-√hṛ, nom. pl.",
+  "why": "reviewer (minor): gender 'f.' is only inferred from the unstated antecedent (-āḥ could be m.); glossary: no gender for unstated nouns"
+ },
+ {
+  "n": "106",
+  "field": "hindi",
+  "old": "चौदह अस्थि-संघात यानी हड्डियों के समूह हैं; उनमें से एक-एक गुल्फ, जानु, वंक्षण, मणिबन्ध, कूर्पर और कक्षा में तथा, अनुमानित पाठ पर, त्रिक और सिर में।",
+  "new": "चौदह अस्थि-संघात यानी हड्डियों के समूह हैं; उनमें से एक-एक गुल्फ यानी टखने, जानु यानी घुटने, वंक्षण यानी जाँघ और पेट के बीच के भाग, मणिबन्ध यानी कलाई, कूर्पर यानी कोहनी और कक्षा यानी बगल में तथा, अनुमानित पाठ पर, त्रिक यानी सम्भवतः त्रिकास्थि वाले क्षेत्र और सिर में।",
+  "why": "reviewer (minor): Hindi carries bare Sanskrit body terms and no hedge for trika although English has 'probably the sacral region' (Hindi must carry the hedges the English has)"
+ },
+ {
+  "n": "109",
+  "field": "english",
+  "old": "And of them, a hundred and forty in the limbs (śākhā), a hundred and twenty in the trunk (antarādhi), a hundred in the head.",
+  "new": "And of them, a hundred and forty in the limbs (śākhā), a hundred and twenty in the antarādhi (probably the trunk), a hundred in the head.",
+  "why": "reviewer (minor): draft tags antarādhi 'probable' in gloss/notes but the translations state 'trunk' unhedged"
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "और उनमें से एक सौ चालीस शाखाओं यानी हाथ-पैरों में, एक सौ बीस अन्तराधि यानी धड़ में, सौ सिर में।",
+  "new": "और उनमें से एक सौ चालीस शाखाओं यानी हाथ-पैरों में, एक सौ बीस अन्तराधि यानी सम्भवतः धड़ में, सौ सिर में।",
+  "why": "reviewer (minor): no hedge in Hindi for a probable identification"
+ },
+ {
+  "n": "110",
+  "field": "english",
+  "old": "There, in each single leg (sakthi): five foot-nails (pādanakha); in each toe three bones; those are fifteen.",
+  "new": "There, in each single lower limb (sakthi): five foot-nails (pādanakha); in each toe three bones; those are fifteen.",
+  "why": "reviewer (minor): glossary: sakthi = lower limb when toes are counted under it (leg also suggests jaṅghā 'shank' of u111)"
+ },
+ {
+  "n": "110",
+  "field": "word.gloss",
+  "word": "sakthini",
+  "old": "in the leg (sakthi)",
+  "new": "in the lower limb (sakthi)",
+  "why": "reviewer (minor): same: 'in the leg'"
+ },
+ {
+  "n": "111",
+  "field": "hindi",
+  "old": "पाँच पादशलाकाएँ, उनका एक प्रतिबन्धक, कूर्च, गुल्फ और जंघा में दो-दो, तथा, अनुमानित पाठ पर, एड़ी, जानु और ऊरु में एक-एक।",
+  "new": "पाँच पादशलाकाएँ, उनका एक प्रतिबन्धक, कूर्च, गुल्फ यानी टखने और जङ्घा यानी घुटने से नीचे के भाग में दो-दो, तथा, अनुमानित पाठ पर, एड़ी, जानु और ऊरु में एक-एक।",
+  "why": "reviewer (error): bare Hindi जंघा means thigh; glossary: jaṅghā = lower leg (not calf, not thigh), English says shank"
+ },
+ {
+  "n": "111",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f./n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): numerals standing for unstated nouns carry 'f./n.' / 'n.'"
+ },
+ {
+  "n": "111",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f./n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): numerals standing for unstated nouns carry 'f./n.' / 'n.'"
+ },
+ {
+  "n": "111",
+  "field": "word.gram",
+  "word": "ekaikam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): numerals standing for unstated nouns carry 'f./n.' / 'n.'"
+ },
+ {
+  "n": "112",
+  "field": "english",
+  "old": "And all, beginning with the nail-bones, as in the leg, also in the two arms.",
+  "new": "And all, beginning with the nail-bones, as in the lower limb, also in the two arms.",
+  "why": "reviewer (minor): same sakthi rendering"
+ },
+ {
+  "n": "112",
+  "field": "word.gloss",
+  "word": "sakthi-vat",
+  "old": "like the leg",
+  "new": "like the lower limb",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "115",
+  "field": "word.gram",
+  "word": "triṃśat",
+  "old": "f. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): gender 'f.' for a numeral standing for an unstated noun"
+ },
+ {
+  "n": "117",
+  "field": "hindi",
+  "old": "एक-एक भग यानी सम्भवतः जघन-क्षेत्र में और त्रिक यानी सम्भवतः कमर के पीछे के त्रिक-स्थान में।",
+  "new": "एक-एक भग यानी सम्भवतः जघन-क्षेत्र में और त्रिक यानी सम्भवतः त्रिकास्थि वाले क्षेत्र में।",
+  "why": "reviewer (minor): circular: explains trika by 'त्रिक-स्थान'"
+ },
+ {
+  "n": "117",
+  "field": "word.gram",
+  "word": "ekaikam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): 'n.' for unstated noun"
+ },
+ {
+  "n": "118",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): 'n.' for unstated noun"
+ },
+ {
+  "n": "120",
+  "field": "english",
+  "old": "Likewise in the cheeks (gaṇḍa), ears and temples (śaṅkha), and in the jatru (collarbone region) and the palate (tālu).",
+  "new": "Likewise in the cheeks (gaṇḍa), ears and temples (śaṅkha), and in the jatru (probably the region of the collarbone) and the palate (tālu).",
+  "why": "reviewer (minor): identification given without hedge although the draft's own note calls it probable"
+ },
+ {
+  "n": "120",
+  "field": "hindi",
+  "old": "वैसे ही गण्ड यानी गाल, कर्ण यानी कान और शंख यानी कनपटी में, तथा जत्रु यानी हँसली के स्थान और तालु में।",
+  "new": "वैसे ही गण्ड यानी गाल, कर्ण यानी कान और शंख यानी कनपटी में, तथा जत्रु यानी सम्भवतः हँसली वाला स्थान और तालु में।",
+  "why": "reviewer (minor): unhedged identification"
+ },
+ {
+  "n": "120",
+  "field": "word.gloss",
+  "word": "jatru-tālunoḥ",
+  "old": "jatru (the region of the collarbone and root of the neck); palate (tālu)",
+  "new": "jatru (probably the region of the collarbone and root of the neck); palate (tālu)",
+  "why": "reviewer (minor): gloss lacks the tag 'probable'"
+ },
+ {
+  "n": "121",
+  "field": "word.gram",
+  "word": "catvāri",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): 'n.' for numerals of unstated nouns"
+ },
+ {
+  "n": "121",
+  "field": "word.gram",
+  "word": "trīṇi",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): 'n.' for numerals of unstated nouns"
+ },
+ {
+  "n": "121",
+  "field": "hindi",
+  "old": "तेरह गर्दन में, चार कण्ठनाड़ी यानी सम्भवतः श्वासनली में, दो हनुबन्धन में; बत्तीस दाँत और उसी प्रकार उलूखल यानी सम्भवतः दाँतों के गड्ढे; तीन नाक में, छह सिर में।",
+  "new": "तेरह गर्दन में, चार कण्ठनाड़ी यानी सम्भवतः श्वासनली में, दो हनुबन्धन यानी जबड़े के जोड़ों में; बत्तीस दाँत और उसी प्रकार उलूखल यानी सम्भवतः दाँतों के गड्ढे; तीन नाक में, छह सिर में।",
+  "why": "reviewer (minor): bare Sanskrit in Hindi; English glosses it as jaw-joints"
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "वे जानु, नितम्ब, अंस, गण्ड, तालु, शंख, वंक्षण, मध्य और सिरों में स्थित कपाल नाम वाले हैं।",
+  "new": "वे जानु, नितम्ब, अंस, गण्ड, तालु, शंख, वंक्षण, मध्य और सिरों में कपाल नाम वाले हैं।",
+  "why": "reviewer (minor): 'स्थित' is not in the Sanskrit (glossary: no added participles in Hindi); English adds none"
+ },
+ {
+  "n": "123",
+  "field": "english",
+  "old": "The teeth (daśana), however, are rucakas (a class of bone).",
+  "new": "The teeth (daśana), however, are rucakas.",
+  "why": "reviewer (minor): parenthetical not in the Sanskrit (inferred from u127) and absent from the Hindi; unidentified terms stay bare"
+ },
+ {
+  "n": "124",
+  "field": "hindi",
+  "old": "घ्राण, कर्ण, ग्रीवा और अक्षिकोश में तरुण यानी कोमल अस्थियाँ हैं, जो सम्भवतः उपास्थि हैं।",
+  "new": "घ्राण यानी नाक, कर्ण यानी कान, ग्रीवा यानी गर्दन और अक्षिकोश यानी आँख के गड्ढों में तरुण यानी कोमल हैं, जो सम्भवतः उपास्थि हैं।",
+  "why": "reviewer (minor): 'अस्थियाँ' is supplied (taruṇāni has no stated noun); Latin-free Hindi should also gloss the bare body terms"
+ },
+ {
+  "n": "125",
+  "field": "hindi",
+  "old": "पाणि, पाद, पार्श्व और पृष्ठ में वलय यानी छल्ले जैसी हड्डियाँ हैं।",
+  "new": "पाणि यानी हाथ, पाद यानी पैर, पार्श्व यानी बगल और पृष्ठ यानी पीठ में वलय यानी छल्ले हैं।",
+  "why": "reviewer (minor): adds जैसी and हड्डियाँ (draft's own note admits it only restates 'valaya'); glossary forbids added जैसे"
+ },
+ {
+  "n": "126",
+  "field": "hindi",
+  "old": "शेष नलक यानी नली जैसी हैं।",
+  "new": "शेष नलक यानी नलियाँ हैं।",
+  "why": "reviewer (minor): adds जैसी"
+ },
+ {
+  "n": "129",
+  "field": "hindi",
+  "old": "अस्थि-सन्धियों की संख्या दो सौ दस।",
+  "new": "अस्थि-सन्धियों के दो सौ, दस अधिक, यानी दो सौ दस।",
+  "why": "reviewer (minor): 'संख्या' (number) is not in the Sanskrit (draft's note admits it)"
+ }
+]

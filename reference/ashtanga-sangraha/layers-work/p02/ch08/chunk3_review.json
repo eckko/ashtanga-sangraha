@@ -1,0 +1,415 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'Printed rddh/-tt style doubling...'",
+     "problem": "Meaningless boilerplate sentence in the note.",
+     "fix": "delete it",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "notes",
+      "old": " Printed 'rddh/-tt' style doubling is not involved here.",
+      "new": ""
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ca/ha confusion",
+     "problem": "Note says ca/ha confusion, text_flag says cy/hy; the printed form is mucyet vs muhyet, so cy/hy.",
+     "fix": "say cy/hy",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "notes",
+      "old": "ca/ha confusion",
+      "new": "cy/hy confusion"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अत्यन्त गौरव यानी भारीपन",
+     "problem": "OPEN, human decision: Hindi गौरव normally means dignity/gravity; the Hindi commits to 'heaviness' while the note leaves 'dignity' open. In sāra descriptions 'dignity, weight of bearing' is at least as likely. Also the sāras are not listed in this unit (they are the eight of u73: skin, blood, flesh, fat, bone, marrow, semen, sattva).",
+     "fix": "if the owner prefers, 'गौरव यानी भारीपन या गरिमा'; left unpatched",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit-of-measure sentence",
+     "problem": "Boilerplate about aṅgula does not apply to this unit (no measure).",
+     "fix": "drop that clause",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "replace",
+      "field": "notes",
+      "old": "Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+      "new": "Copula 'is/are' supplied (copula understood)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unit-of-measure sentence",
+     "problem": "Boilerplate about a bare numeral does not apply (no numeral).",
+     "fix": "drop that clause",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "notes",
+      "old": "Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+      "new": "Copula 'is/are' supplied (copula understood)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tannakha",
+     "problem": "'tat' in tat-nakha-hīnāḥ is unexplained: it may be each toe's own nail or the nail of the preceding toe. Translation 'their nail' is neutral; record it.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "append_note",
+      "text": "Open: 'tat' in tannakha-hīnāḥ may mean the nail of the preceding toe or each toe's own nail; 'a fifth part' (of what) is also not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pāṣṇyaḥ",
+     "problem": "Stem pāṣṇi (f.) gives nom. pl. pāṣṇayaḥ; printed -pāṣṇyaḥ looks like a variant stem (pāṣṇī) or a misprint. Draft keeps the printed form as w without comment.",
+     "fix": "owner to decide whether a note or flag is wanted; no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जंघा यानी घुटने से नीचे की पिंडली",
+     "problem": "GLOSSARY: jaṅghā = lower leg, not calf (पिंडली is calf).",
+     "fix": "use टखने तक की टाँग",
+     "severity": "error",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जंघा यानी घुटने से नीचे की पिंडली का मध्य",
+      "new": "जंघा यानी घुटने से टखने तक की टाँग का मध्य"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tathā",
+     "problem": "Sentence-running: 'tathā' (likewise) may continue the girth measure of u81 ('pādaḥ caturdaśaiva pariṇāhena') for the ankles and mid-shank, or a measure may be lost in the scan. Not claimed either way.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "append_note",
+      "text": "Possible continuation of u81: 'tathā' may carry over a measure (e.g. girth) from the preceding unit, or a measure may have dropped out in print; not claimed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जंघा यानी घुटने से नीचे की पिंडली",
+     "problem": "GLOSSARY: jaṅghā = lower leg, not calf.",
+     "fix": "same wording as u82",
+     "severity": "error",
+     "patch": {
+      "n": "84",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जंघा यानी घुटने से नीचे की पिंडली",
+      "new": "जंघा यानी घुटने से टखने तक की टाँग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पार्श्व यानी दोनों बगलें",
+     "problem": "बगल means armpit (kakṣa, u98) in Hindi; confusing. Sibling ch05 uses 'पसलियों वाले' for pārśva.",
+     "fix": "use the sibling wording",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पार्श्व यानी दोनों बगलें",
+      "new": "पार्श्व यानी पसलियों वाले दोनों भाग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a set of twelve",
+     "problem": "'-ka' in dvādaśaka is probably a mere formative like aṣṭaka (u98); 'is a set of twelve' reads as if the interval were a group. Keep literal but human decision whether 'is twelve (dvādaśaka)' is better.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and the two armpits too",
+     "problem": "'too' asserts that the armpits share the measure, which is exactly the open point (ca only joins). Adds meaning.",
+     "fix": "drop 'too'",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "replace",
+      "field": "english",
+      "old": " and the two armpits too.",
+      "new": " and the two armpits."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्कन्ध; भी",
+     "problem": "Hindi lacks the shoulder identification (English has it); 'भी' adds the shared-measure claim.",
+     "fix": "add यानी कन्धे, drop भी",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "set",
+      "field": "hindi",
+      "value": "दोनों स्कन्ध यानी कन्धे आठ के हैं, और दोनों कक्ष यानी काँख।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ṣaḍḍāvaṃsau",
+     "problem": "HUMAN DECISION: the conjecture ṣaṭkau aṃsau is reasonable by analogy but unproved; the draft is correctly hedged in both languages, low confidence, flag present with src kept. Alternatives not excluded (e.g. a different numeral form). aṃsa vs skandha (u98) both 'shoulder': distinction not stated.",
+     "fix": "keep as is",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "nāsāddṛṣṭy-",
+     "problem": "Doubled d: spurious doubling is the likelier reading (the draft's choice); 'nāsā-dṛṣṭy-antara' (nose-to-eye interval) as one item remains possible and changes the sense; owner decision.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अँगूठे के उदर यानी पेट",
+     "problem": "'पेट' of a thumb reads oddly in Hindi; the note's 'fleshy middle' is not in the translation (rightly). Leave or phrase as 'अँगूठे के पेट (उदर)'.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मसूर यानी मसूर दाल के दल",
+     "problem": "Redundant 'मसूर ... मसूर दाल के दल'; दल here is the split half (दाल) or a leaf; the English keeps both senses, the Hindi is muddled.",
+     "fix": "clearer, both senses kept",
+     "severity": "minor",
+     "patch": {
+      "n": "111",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मसूर यानी मसूर दाल के दल जितना",
+      "new": "मसूर के दल यानी मसूर की दाल की फाँक या पत्ते जितना"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "37 units reviewed. Counts as printed, translations faithful; no invented identifications. 2 errors (jaṅghā rendered as calf in Hindi, against GLOSSARY, u82 and u84), the rest minor wording/notes. Human decisions: u77 gaurava (heaviness vs dignity), u99 ṣaṭkau conjecture, u108 nāsāddṛṣṭy, u94 dvādaśaka, u98 armpit measure, u81 pāṣṇyaḥ form. No regrouping; u82 may continue u81 (not claimed). prabāhu/prapāṇi/trika/dṛṣṭi/aṃsa hedged appropriately.",
+ "glossary_suggestions": [
+  "jaṅghā Hindi = घुटने से टखने तक की टाँग (not पिंडली); sibling ch05 chunk5 still uses पिंडली - sweep.",
+  "pārśva Hindi = पार्श्व यानी पसलियों वाला भाग (बगल = armpit, kakṣa).",
+  "skandha = कन्धे, aṃsa = probably shoulder-joint; measure units: aṅgula understood, copula supplied (ch08 u79-111)."
+ ]
+}
