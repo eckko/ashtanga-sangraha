@@ -1,0 +1,473 @@
+[
+ {
+  "n": "130",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tathāiha",
+    "suggest": "tatheha",
+    "why": "possible: tathā + iha normally gives tatheha; the printed Devanagari (तथािह) is also malformed, so an OCR/print slip is likely; words keep tathā + iha"
+   }
+  ],
+  "why": "reviewer (minor): Printed tathāiha leaves ā+i unsandhied (regular: tatheha); the Devanagari 'तथािह' is also malformed. Unflagged."
+ },
+ {
+  "n": "136",
+  "field": "hindi",
+  "old": "लक्ष्मणा, वट के अंकुर, सहदेवा और विश्वेदेवा नामक पौधों में से किसी एक को, जिनमें लक्ष्मणा की पहचान विवादित है, सहदेवा सम्भवतः सहदेई है और विश्वेदेवा अस्पष्ट है, दूध में कूटकर, अनुमानित पाठ पर पुत्र की इच्छुक स्त्री दाहिने नासिकाछिद्र में तीन या चार बूँदें स्वयं डाले, और पुत्री की इच्छुक बाएँ में।",
+  "new": "लक्ष्मणा, जिसकी पहचान विवादित है, वट यानी बरगद के अंकुर, सहदेवा यानी सम्भवतः सहदेई और विश्वेदेवा, जो अस्पष्ट है, इनमें से किसी एक को दूध में कूटकर, अनुमानित पाठ पर पुत्र की इच्छुक होकर, दाहिने नासिकाछिद्र में तीन या चार बूँदें स्वयं डाले, और बाएँ में तो पुत्री की इच्छुक होकर।",
+  "why": "reviewer (error): Hindi adds 'नामक पौधों' (the Sanskrit does not say plants), turns the unclear pitrunā into a conditional 'पुत्र की इच्छुक' (and duhitṛkāmā into 'if'), and the identification sentence is tangled. No Hindi name for vaṭa."
+ },
+ {
+  "n": "136",
+  "field": "english",
+  "old": "Having pressed (pounded) in milk any one of lakṣmaṇā, vaṭaśuṅga (banyan shoots), sahadevā (probably sahadevī) and viśvedevā (unclear), she should herself instil three or four drops in the right nostril, on a conjectural reading if she desires a son (the printed 'pitrunā' is unclear), and in the left, however, if she desires a daughter.",
+  "new": "Having pressed (pounded) in milk any one of lakṣmaṇā (identity disputed), vaṭaśuṅga (banyan shoots), sahadevā (probably Vernonia cinerea) and viśvedevā (unclear), she should herself instil three or four drops in the right nostril, on a conjectural reading as one desiring a son (the printed 'pitrunā' is unclear), and in the left, however, as one desiring a daughter.",
+  "why": "reviewer (error): 'if she desires a son/daughter' supplies a conditional that the text lacks (duhitṛkāmā is a plain nominative adjective); the translation carries no modern name for sahadevā and no 'disputed' tag for lakṣmaṇā."
+ },
+ {
+  "n": "136",
+  "field": "word.gram",
+  "word": "dakṣiṇe",
+  "old": "n. loc. sg.",
+  "new": "m. loc. sg.",
+  "why": "reviewer (error): dakṣiṇe agrees with nāsāpuṭe (m.), not neuter."
+ },
+ {
+  "n": "136",
+  "field": "word.gram",
+  "word": "vāme",
+  "old": "m. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: case and number only, no gender (GLOSSARY)."
+ },
+ {
+  "n": "138",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śvetabṛhatyā",
+    "suggest": "śvetabṛhatyāḥ",
+    "why": "possible: genitive singular needs final -ḥ (agrees with puṣyoddhṛtāyāḥ); lost in print"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): False typo flag: śvetabṛhatyāḥ + mūla- gives śvetabṛhatyā mūla- by regular sandhi (final -āḥ/-yāḥ loses the visarga before a voiced consonant). The printed form is correct."
+ },
+ {
+  "n": "138",
+  "field": "english",
+  "old": "Likewise, from the paste of the root of white bṛhatī (a Solanum; the white form, identity disputed), uprooted under Puṣya, she should instil the juice into the nose.",
+  "new": "Likewise, from the paste of the root of white bṛhatī (a Solanum; the white form, identity disputed), uprooted under Puṣya, one should instil the juice into the nose.",
+  "why": "reviewer (minor): The subject of nāvayet is not stated; 'she' is supplied, and 142 (instilling into one standing on the threshold) suggests another person may instil, unlike 136 where svayam is explicit."
+ },
+ {
+  "n": "138",
+  "field": "hindi",
+  "old": "वैसे ही पुष्य नक्षत्र में उखाड़ी हुई श्वेत बृहती यानी सम्भवतः सफेद बड़ी कटेरी की जड़ की लुगदी से रस नाक में डाले।",
+  "new": "वैसे ही पुष्य नक्षत्र में उखाड़ी हुई श्वेत बृहती यानी सम्भवतः सफेद बड़ी कटेरी, जिसकी पहचान विवादित है, की जड़ की लुगदी से रस नाक में डाले।",
+  "why": "reviewer (minor): Disputed identification is not marked as disputed in Hindi."
+ },
+ {
+  "n": "138",
+  "field": "notes",
+  "old": "Subject not stated (the woman of 136). bṛhatī in general = Solanum indicum (probable); śveta-bṛhatī (white) is disputed. nāvayet = instil through the nose (nasya); the verb is causative-like, 'cause to enter the nose'. The part uprooted (root) and the process (paste, then juice) are as stated; no quantity given.",
+  "new": "Subject not stated (the woman of 136). bṛhatī in general = Solanum indicum (probable); śveta-bṛhatī (white) is disputed. nāvayet = instil through the nose (nasya); the verb is causative-like, 'cause to enter the nose'. The part uprooted (root) and the process (paste, then juice) are as stated; no quantity given. Review: the subject of nāvayet is not stated (136 has svayam 'herself', 142 may point to another person instilling), so the translation says 'one'.",
+  "why": "reviewer (minor): Subject not stated."
+ },
+ {
+  "n": "139",
+  "field": "english",
+  "old": "Likewise, a leaf (petal) of utpala (probably blue water lily), a leaf (petal) of kumuda (probably night water lily), the root of lakṣmaṇā, and eight banyan shoots; and she should instil into the nose.",
+  "new": "Likewise, a leaf (petal) of utpala (probably blue water lily), a leaf (petal) of kumuda (probably night water lily), the root of lakṣmaṇā, and eight banyan shoots; and one should instil into the nose.",
+  "why": "reviewer (minor): Supplied subject 'she' (see 138)."
+ },
+ {
+  "n": "139",
+  "field": "hindi",
+  "old": "वैसे ही उत्पल यानी सम्भवतः नीले कमल का पत्र, कुमुद यानी सम्भवतः कुमुदिनी का पत्र, लक्ष्मणा की जड़ और आठ वट के अंकुर, और नाक में डाले।",
+  "new": "वैसे ही उत्पल यानी सम्भवतः नीले कमल का पत्र, कुमुद यानी सम्भवतः रात में खिलने वाले श्वेत कमल का पत्र, लक्ष्मणा की जड़ और आठ वट के अंकुर, और नाक में डाले।",
+  "why": "reviewer (minor): Circular: कुमुदिनी is just the feminine of कुमुद and says nothing."
+ },
+ {
+  "n": "139",
+  "field": "word.gram",
+  "word": "utpala-patram",
+  "old": "n. nom. sg.",
+  "new": "n. nom./acc. sg.",
+  "why": "reviewer (minor): Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading."
+ },
+ {
+  "n": "139",
+  "field": "word.gram",
+  "word": "kumuda-patram",
+  "old": "n. nom. sg.",
+  "new": "n. nom./acc. sg.",
+  "why": "reviewer (minor): Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading."
+ },
+ {
+  "n": "139",
+  "field": "word.gram",
+  "word": "lakṣmaṇā-mūlam",
+  "old": "n. nom. sg.",
+  "new": "n. nom./acc. sg.",
+  "why": "reviewer (minor): Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading."
+ },
+ {
+  "n": "139",
+  "field": "word.gram",
+  "word": "vaṭa-śuṅgāni",
+  "old": "n. nom. pl.",
+  "new": "n. nom./acc. pl.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "140",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "puṣyoddhṛtāyā",
+    "suggest": "puṣyoddhṛtāyāḥ",
+    "why": "possible: genitive singular needs final -ḥ; lost in print"
+   },
+   {
+    "src": "lakṣmaṇāyā",
+    "suggest": "lakṣmaṇāyāḥ",
+    "why": "possible: same, final -ḥ lost"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): False typo flags: puṣyoddhṛtāyāḥ + l- and lakṣmaṇāyāḥ + m- give puṣyoddhṛtāyā lakṣmaṇāyā by regular sandhi (visarga lost after -ā before a voiced consonant). The printed forms are correct."
+ },
+ {
+  "n": "140",
+  "field": "hindi",
+  "old": "और श्वेत माला और वस्त्र पहनने वाली स्त्री पुष्य नक्षत्र में उखाड़ी हुई लक्ष्मणा की जड़ की लुगदी, गूलर यानी उदुम्बर के फल के बराबर मात्रा में, दूध के साथ पिए, पुत्र की उत्पत्ति और स्थिति के लिए।",
+  "new": "और श्वेत माला और वस्त्र पहनने वाली स्त्री पुष्य नक्षत्र में उखाड़ी हुई लक्ष्मणा की जड़ की लुगदी, उदुम्बर यानी गूलर के बराबर मात्रा में, दूध के साथ पिए, पुत्र की उत्पत्ति और स्थिति के लिए।",
+  "why": "reviewer (error): 'फल' (fruit) is added; the text says only udumbara-mātra."
+ },
+ {
+  "n": "140",
+  "field": "english",
+  "old": "And a woman wearing white garlands and garments should drink with milk a root-paste of lakṣmaṇā uprooted under Puṣya, of the measure of an udumbara (fig fruit), for the birth and the stability of a son.",
+  "new": "And a woman wearing white garlands and garments should drink with milk a root-paste of lakṣmaṇā uprooted under Puṣya, of the measure of an udumbara (cluster fig, Ficus racemosa), for the birth and the stability of a son.",
+  "why": "reviewer (minor): 'fruit' is interpretation, not in the Sanskrit; give the identification of the plant."
+ },
+ {
+  "n": "141",
+  "field": "english",
+  "old": "Likewise: vauradaṇḍa (unclear), apāmārga (prickly chaff-flower), jīvaka and ṛṣabhaka, śaṅkhapuṣpī (commonly Convolvulus pluricaulis; identity disputed), a middle stalk, sahacara (probably Barleria prionitis), namrajīva (unclear), agnijihvā (probably Gloriosa superba, flame lily), or eight banyan shoots.",
+  "new": "Likewise: vauradaṇḍa (unclear), apāmārga (prickly chaff-flower), jīvaka and ṛṣabhaka (identities disputed), śaṅkhapuṣpī (commonly Convolvulus pluricaulis; identity disputed), a middle stalk, sahacara (probably Barleria prionitis), namrajīva (unclear), agnijihvā (probably Gloriosa superba, flame lily), or eight banyan shoots.",
+  "why": "reviewer (minor): Disputed identity not marked in the translation."
+ },
+ {
+  "n": "141",
+  "field": "hindi",
+  "old": "वैसे ही वौरदण्ड, जो अस्पष्ट शब्द है, अपामार्ग यानी चिचड़ा, जीवक और ऋषभक, शंखपुष्पी यानी सम्भवतः शंखाहुली, मध्य दण्ड, सहचर यानी सम्भवतः कटसरैया, नम्रजीव, जो अस्पष्ट शब्द है, अग्निजिह्वा यानी सम्भवतः कलिहारी, या आठ वट के अंकुर।",
+  "new": "वैसे ही वौरदण्ड, जो अस्पष्ट शब्द है, अपामार्ग यानी चिचड़ा, जीवक और ऋषभक, जिनकी पहचान विवादित है, शंखपुष्पी यानी सम्भवतः शंखाहुली, मध्य दण्ड, सहचर यानी सम्भवतः कटसरैया, नम्रजीव, जो अस्पष्ट शब्द है, अग्निजिह्वा यानी सम्भवतः कलिहारी, या आठ वट के अंकुर।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "141",
+  "field": "hindi",
+  "old": "वैसे ही वौरदण्ड, जो अस्पष्ट शब्द है, अपामार्ग यानी चिचड़ा, जीवक और ऋषभक, जिनकी पहचान विवादित है, शंखपुष्पी यानी सम्भवतः शंखाहुली, मध्य दण्ड, सहचर यानी सम्भवतः कटसरैया, नम्रजीव, जो अस्पष्ट शब्द है, अग्निजिह्वा यानी सम्भवतः कलिहारी, या आठ वट के अंकुर।",
+  "new": "वैसे ही वौरदण्ड, जो अस्पष्ट शब्द है, अपामार्ग यानी चिचड़ा, जीवक और ऋषभक, जिनकी पहचान विवादित है, शंखपुष्पी यानी सम्भवतः शंखाहुली, जिसकी पहचान विवादित है, मध्य दण्ड, सहचर यानी सम्भवतः कटसरैया, नम्रजीव, जो अस्पष्ट शब्द है, अग्निजिह्वा यानी सम्भवतः कलिहारी, या आठ वट के अंकुर।",
+  "why": "reviewer (minor): Disputed tag missing in Hindi (English has it)."
+ },
+ {
+  "n": "141",
+  "field": "notes",
+  "old": "A list of drugs; no verb or preparation is stated (the verb is carried from the surrounding unit). 'vauradaṇḍa' and 'namrajīva' are unclear in print and are neither split nor identified (vaura- might be an orthographic variant of a word beginning ba-/va-, not decided). jīvaka and ṛṣabhaka: two drug names whose botanical identity is disputed (they are generally replaced by substitutes); not identified here. madhyadaṇḍa: 'middle stalk' is the plain meaning; whether it belongs to the preceding śaṅkhapuṣpī is not decided. apāmārga = Achyranthes aspera (standard; Hindi चिचड़ा); sahacara and agnijihvā are probable only; śaṅkhapuṣpī disputed (also Evolvulus alsinoides, Clitoria ternatea are proposed). 'aṣṭau vā ... vaṭaśuṅgāni' = 'or eight banyan shoots'.",
+  "new": "A list of drugs; no verb or preparation is stated (the verb is carried from the surrounding unit). 'vauradaṇḍa' and 'namrajīva' are unclear in print and are neither split nor identified (vaura- might be an orthographic variant of a word beginning ba-/va-, not decided). jīvaka and ṛṣabhaka: two drug names whose botanical identity is disputed (they are generally replaced by substitutes); not identified here. madhyadaṇḍa: 'middle stalk' is the plain meaning; whether it belongs to the preceding śaṅkhapuṣpī is not decided. apāmārga = Achyranthes aspera (standard; Hindi चिचड़ा); sahacara and agnijihvā are probable only; śaṅkhapuṣpī disputed (also Evolvulus alsinoides, Clitoria ternatea are proposed). 'aṣṭau vā ... vaṭaśuṅgāni' = 'or eight banyan shoots'. Review: jīvaka and ṛṣabhaka are standard members of the aṣṭavarga group and of Caraka's jīvanīya group; usually identified as Malaxis acuminata and Malaxis muscifera respectively (disputed; the true plants are rarely available and substitutes are used).",
+  "why": "reviewer (minor): Useful context missing."
+ },
+ {
+  "n": "143",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "brāhmaṇā",
+    "suggest": "brāhmaṇāḥ",
+    "why": "possible: nominative plural needs final -ḥ, which stays before the following v; lost in print"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): False typo flag (and wrong 'why'): brāhmaṇāḥ + v- gives brāhmaṇā vṛddha- by regular sandhi. Printed form is correct."
+ },
+ {
+  "n": "144",
+  "field": "text_flags.0.suggest",
+  "old": "prajāsthāpanākhyāḥ",
+  "new": "prajāsthāpanākhyā",
+  "why": "reviewer (error): Stray r is plausible, but the suggested final -āḥ is wrong: -āḥ before m- (mahauṣadhīḥ) becomes -ā by regular sandhi, so the printed final -ā is correct."
+ },
+ {
+  "n": "144",
+  "field": "text_flags.0.why",
+  "old": "possible: stray r after -nā; and final -ā should be -āḥ to agree with mahauṣadhīḥ (accusative plural)",
+  "new": "possible: stray r after -nā; the final -ā is regular sandhi for -āḥ before m- (agreeing with mahauṣadhīḥ) and is kept",
+  "why": "reviewer (error): Stray r is plausible, but the suggested final -āḥ is wrong: -āḥ before m- (mahauṣadhīḥ) becomes -ā by regular sandhi, so the printed final -ā is correct."
+ },
+ {
+  "n": "144",
+  "field": "notes",
+  "old": "The herbs of the prajāsthāpana group are not listed in this unit. The instruments 'śirasā' and 'pāṇinā' are instrumentals; the plain meaning is carrying on the head and holding in the right hand. 'oṣadhī' (f.) = herb.",
+  "new": "The herbs of the prajāsthāpana group are not listed in this unit. The instruments 'śirasā' and 'pāṇinā' are instrumentals; the plain meaning is carrying on the head and holding in the right hand. 'oṣadhī' (f.) = herb. Review: in Caraka (Sūtrasthāna 4) prajāsthāpana is a named group of ten drugs; this text names only the group here and does not list its members, so none is identified.",
+  "why": "reviewer (minor): Useful context missing."
+ },
+ {
+  "n": "146",
+  "field": "english",
+  "old": "With these very herbs she should bathe on every Puṣya, and she should always touch (them) in this way.",
+  "new": "With these very herbs she should bathe on every Puṣya, and she should always touch in this way.",
+  "why": "reviewer (minor): Supplied bracket word '(them)'; the object is not stated (already noted)."
+ },
+ {
+  "n": "147",
+  "field": "text_flags.0.suggest",
+  "old": "vidhibhiḥ",
+  "new": "vidhibhir",
+  "why": "reviewer (minor): With following iti the regular sandhi is vidhibhir iti (r), not -ḥ; the suggested 'vidhibhiḥ' is only the dictionary form."
+ },
+ {
+  "n": "147",
+  "field": "text_flags.0.why",
+  "old": "possible: final -ḥ lost at the line break",
+  "new": "possible: with the 'ti' that opens 148 read as (i)ti, sandhi gives vidhibhir iti; 'ri' lost at the line break (words give the dictionary form vidhibhiḥ)",
+  "why": "reviewer (minor): With following iti the regular sandhi is vidhibhir iti (r), not -ḥ; the suggested 'vidhibhiḥ' is only the dictionary form."
+ },
+ {
+  "n": "147",
+  "field": "notes",
+  "old": "GROUPING: the sentence appears to continue in unit 148 (which begins with a stray 'ti', probably 'iti'); the line break falls inside 'vidhibhi|ti'. No verb is stated. jīvanīya = 'life-promoting', the name of a group of herbs; its members are not listed here.",
+  "new": "GROUPING: the sentence appears to continue in unit 148 (which begins with a stray 'ti', probably 'iti'); the line break falls inside 'vidhibhi|ti'. No verb is stated. jīvanīya = 'life-promoting', the name of a group of herbs; its members are not listed here. Review: jīvanīya is a named group of ten drugs in Caraka (Sūtrasthāna 4: jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka); this text does not list its members here.",
+  "why": "reviewer (minor): Useful context missing."
+ },
+ {
+  "n": "149",
+  "field": "english",
+  "old": "Attendants gentle in form, speech, service and conduct, following what is dear and beneficial, and likewise the husband.",
+  "new": "Attendants gentle in form, speech, service and conduct, and following what is dear and beneficial, and likewise the husband.",
+  "why": "reviewer (minor): The ca after ceṣṭāḥ is dropped in both translations."
+ },
+ {
+  "n": "149",
+  "field": "hindi",
+  "old": "सौम्य आकृति, वचन, सेवा और चेष्टाओं वाले, प्रिय और हितकर का अनुसरण करने वाले परिचारक, और वैसे ही पति।",
+  "new": "सौम्य आकृति, वचन, सेवा और चेष्टाओं वाले और प्रिय तथा हितकर का अनुसरण करने वाले परिचारक, और वैसे ही पति।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "151",
+  "field": "hindi",
+  "old": "वहाँ प्रत्येक शुक्र यानी पुरुष के वीर्य में, घृतमण्ड जैसा होने पर या, गर्भ की गौरता; तेल जैसा होने पर कालापन; शहद जैसा होने पर साँवलापन।",
+  "new": "वहाँ प्रत्येक शुक्र यानी प्रजनन द्रव में, घृतमण्ड जैसा होने पर या, गर्भ की गौरता; तेल जैसा होने पर कालापन; शहद जैसा होने पर साँवलापन।",
+  "why": "reviewer (error): 'पुरुष के' (of a man) is added; the text says only śukre śukre, and 167 shows śukra is said of women as well."
+ },
+ {
+  "n": "151",
+  "field": "english",
+  "old": "There, in each śukra (semen): when it resembles ghee-maṇḍa, or, fairness of the foetus; when it resembles oil, darkness; when it resembles honey, dusky colour.",
+  "new": "There, in each śukra (reproductive fluid): when it resembles ghee-maṇḍa, or, fairness of the foetus; when it resembles oil, darkness; when it resembles honey, dusky colour.",
+  "why": "reviewer (minor): Same inconsistency with 167 (reproductive fluid)."
+ },
+ {
+  "n": "151",
+  "field": "notes",
+  "old": "Elliptical (no verb). 'śukre śukre' is read as 'in each case of śukra' (the repetition is distributive); 'vā' after the first colour is unexplained (perhaps 'or' marking alternative forms); not decided. ghṛtamaṇḍa is rendered literally as 'ghee-maṇḍa' (the clear upper part of ghee, or ghee-cream, is the usual sense, not asserted). śukra = semen (standard). Colour words: gaura fair, kṛṣṇa dark, śyāma dusky.",
+  "new": "Elliptical (no verb). 'śukre śukre' is read as 'in each case of śukra' (the repetition is distributive); 'vā' after the first colour is unexplained (perhaps 'or' marking alternative forms); not decided. ghṛtamaṇḍa is rendered literally as 'ghee-maṇḍa' (the clear upper part of ghee, or ghee-cream, is the usual sense, not asserted). śukra = semen (standard). Colour words: gaura fair, kṛṣṇa dark, śyāma dusky. Review: whose śukra is meant is not stated; 167 applies śukra to women as well, so the translation uses 'reproductive fluid' as in 167.",
+  "why": "reviewer (minor): Consistency note."
+ },
+ {
+  "n": "153",
+  "field": "word.gram",
+  "word": "deśa-kula-anuvṛttitaḥ",
+  "old": "f. abl. sg. (-tas)",
+  "new": "ind. (ablatival -tas; from anuvṛtti f.)",
+  "why": "reviewer (minor): A -tas form is an indeclinable, not 'f. abl. sg.'."
+ },
+ {
+  "n": "154",
+  "field": "english",
+  "old": "Likewise, from the contact of the fire element (tejas-dhātu) with the water and space elements, fairness; from contact (of it) with earth and air, darkness; when all the elements are in balance, dusky colour.",
+  "new": "Likewise, from the contact of the fire element (tejas-dhātu) with the water and space elements, fairness; from contact with earth and air, darkness; when all the elements are in balance, dusky colour.",
+  "why": "reviewer (minor): Supplied bracket words '(of it)'."
+ },
+ {
+  "n": "155",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "satvaviṣeṣakarāṇi",
+    "suggest": "sattvaviśeṣakarāṇi",
+    "why": "possible: ṣ for ś in viśeṣa; satva for sattva (normalised)"
+   },
+   {
+    "src": "punarmātāpitṛsatvānyaṃtairvatnyāḥ",
+    "suggest": "punarmātāpitṛsattvānyantarvatnyāḥ",
+    "why": "possible: 'antairvatnyāḥ' for antarvatnyāḥ (pregnant woman); ar lost as ai"
+   },
+   {
+    "src": "śrutayaścābhīkṣṇa,",
+    "suggest": "śrutayaścābhīkṣṇam",
+    "why": "possible: final m lost; the comma is a print mark"
+   }
+  ],
+  "new": [
+   {
+    "src": "satvaviśeṣakarāṇi",
+    "suggest": "sattvaviśeṣakarāṇi",
+    "why": "satva is a spelling of sattva (normalised in words, also in mātāpitṛsatvāni); viśeṣa is correct as printed"
+   },
+   {
+    "src": "punarmātāpitṛsatvānyaṃtairvatnyāḥ",
+    "suggest": "punarmātāpitṛsattvānyantarvatnyāḥ",
+    "why": "possible: 'antairvatnyāḥ' for antarvatnyāḥ (pregnant woman); ar lost as ai"
+   },
+   {
+    "src": "śrutayaścābhīkṣṇa,",
+    "suggest": "śrutayaścābhīkṣṇam",
+    "why": "possible: final m lost; the comma is a print mark"
+   }
+  ],
+  "why": "reviewer (error): First flag quotes src 'satvaviṣeṣakarāṇi' but the printed token is satvaviśeṣakarāṇi (viśeṣa is correct as printed); 'ṣ for ś' is not an error. Only satva→sattva is a normalisation."
+ },
+ {
+  "n": "157",
+  "field": "english",
+  "old": "In ghee, milk and the like, mattyāsu (unclear word), in cheerful (ones), in (ones) whose nature is Kapha",
+  "new": "Ghee, milk and the like, mattyāsu (unclear word), in cheerful (ones), in (ones) whose nature is Kapha",
+  "why": "reviewer (minor): 'In' is added: ghṛtakṣīrādi is a bare stem (possibly a compound member of mattyāsu), not a locative."
+ },
+ {
+  "n": "157",
+  "field": "hindi",
+  "old": "घी, दूध आदि, मत्त्यासु नामक अस्पष्ट शब्द, प्रसन्न और कफ प्रकृति वालों में",
+  "new": "घी, दूध आदि, मत्त्यासु नामक अस्पष्ट शब्द, प्रसन्न, कफ स्वभाव वालों में",
+  "why": "reviewer (minor): Hindi adds 'और' between the two locatives (none in Sanskrit) and 'प्रकृति' imports a technical term."
+ },
+ {
+  "n": "157",
+  "field": "notes",
+  "old": "GROUPING: this half-line continues in 158 ('the ārtava stays long'). The words ghṛta-kṣīra-ādi and mattyāsu are not joined into a firm sense: mattyāsu is damaged and is not interpreted. The feminine plural endings (muditāsu) show that women are meant, but the noun is not stated. The sentence is completed in 158.",
+  "new": "GROUPING: the sentence appears to continue in 158 ('the ārtava stays long'). The words ghṛta-kṣīra-ādi and mattyāsu are not joined into a firm sense: mattyāsu is damaged and is not interpreted. The feminine plural endings (muditāsu) show that women are meant, but the noun is not stated. The sentence is completed in 158.",
+  "why": "reviewer (minor): Wording: 'continues'/'completed' and 'half-line' state pairing as fact (GLOSSARY)."
+ },
+ {
+  "n": "157",
+  "field": "notes",
+  "old": "GROUPING: the sentence appears to continue in 158 ('the ārtava stays long'). The words ghṛta-kṣīra-ādi and mattyāsu are not joined into a firm sense: mattyāsu is damaged and is not interpreted. The feminine plural endings (muditāsu) show that women are meant, but the noun is not stated. The sentence is completed in 158.",
+  "new": "GROUPING: the sentence appears to continue in 158 ('the ārtava stays long'). The words ghṛta-kṣīra-ādi and mattyāsu are not joined into a firm sense: mattyāsu is damaged and is not interpreted. The feminine plural endings (muditāsu) show that women are meant, but the noun is not stated. The sentence appears to be completed in 158.",
+  "why": "reviewer (minor): Wording: 'continues'/'completed' and 'half-line' state pairing as fact (GLOSSARY)."
+ },
+ {
+  "n": "158",
+  "field": "hindi",
+  "old": "आर्तव यानी स्त्री का रज देर तक ठहरता है; उलटे स्वभाव वालों में इससे अन्यथा।",
+  "new": "आर्तव यानी स्त्री का रज देर तक ठहरता है; विपरीतों में इससे अन्यथा।",
+  "why": "reviewer (error): 'स्वभाव' is added to viparītāsu."
+ },
+ {
+  "n": "158",
+  "field": "notes",
+  "old": "Completes 157 (appears to continue it). What the ārtava stays in is not stated. ārtava = menstrual blood / female reproductive fluid (probable; the text itself gives no more).",
+  "new": "GROUPING: appears to complete 157. What the ārtava stays in is not stated. ārtava = menstrual blood / female reproductive fluid (probable; the text itself gives no more).",
+  "why": "reviewer (minor): GLOSSARY: never 'completes'; no GROUPING marker."
+ },
+ {
+  "n": "160",
+  "field": "notes",
+  "old": "No verb; the line is elliptical and the connection between the terms is not stated. The field-and-seed pairing is the imagery of the tradition but the text here only lists the terms; no sense is built on it. dhruvam may be adverb 'certainly' or adjective 'sure' (agreeing with garbhaḥ).",
+  "new": "No verb; the line is elliptical and the connection between the terms is not stated. The field-and-seed pairing is the imagery of the tradition but the text here only lists the terms; no sense is built on it. dhruvam may be adverb 'certainly' or adjective 'sure' (agreeing with garbhaḥ). Review: upaskṛtam (n. sg.) could also agree with kṣetram and bījam together ('field and seed, prepared'); the translation keeps the plain list.",
+  "why": "reviewer (minor): upaskṛtam (n.) may agree with both kṣetram and bījam ('field and seed prepared'); the draft's 'the prepared seed' is one reading."
+ },
+ {
+  "n": "161",
+  "field": "word.gram",
+  "word": "aviruddhe",
+  "old": "m. loc. sg.",
+  "new": "n. loc. sg.",
+  "why": "reviewer (error): Agrees with daive (n.), not masculine."
+ },
+ {
+  "n": "162",
+  "field": "word.w",
+  "word": "yasmāt",
+  "old": "yasmāt",
+  "new": "asmāt",
+  "why": "reviewer (error): Wrong sandhi undoing: puṃsavana-ādi + asmāt gives puṃsavanādyasmāt (i+a → ya). The draft's 'yasmāt' ('for which reason') is not a word of this text; the word is asmāt ('from this, therefore'), which also fits 131 (puṃsavana before manifestation)."
+ },
+ {
+  "n": "162",
+  "field": "word.gloss",
+  "word": "asmāt",
+  "old": "for which reason",
+  "new": "from this (therefore)",
+  "why": "reviewer (error): Wrong sandhi undoing: puṃsavana-ādi + asmāt gives puṃsavanādyasmāt (i+a → ya). The draft's 'yasmāt' ('for which reason') is not a word of this text; the word is asmāt ('from this, therefore'), which also fits 131 (puṃsavana before manifestation)."
+ },
+ {
+  "n": "162",
+  "field": "word.gram",
+  "word": "asmāt",
+  "old": "ind.",
+  "new": "n. abl. sg.",
+  "why": "reviewer (error): Wrong sandhi undoing: puṃsavana-ādi + asmāt gives puṃsavanādyasmāt (i+a → ya). The draft's 'yasmāt' ('for which reason') is not a word of this text; the word is asmāt ('from this, therefore'), which also fits 131 (puṃsavana before manifestation)."
+ },
+ {
+  "n": "162",
+  "field": "english",
+  "old": "Success; for which reason one should apply puṃsavana and the like before manifestation.",
+  "new": "Success; therefore one should apply puṃsavana and the like before manifestation.",
+  "why": "reviewer (error): Follows the wrong split."
+ },
+ {
+  "n": "162",
+  "field": "hindi",
+  "old": "सिद्धि; जिस कारण पुंसवन आदि को प्रकट होने से पहले प्रयोग में लाए।",
+  "new": "सिद्धि; इस कारण पुंसवन आदि को प्रकट होने से पहले प्रयोग में लाए।",
+  "why": "reviewer (error): Follows the wrong split."
+ },
+ {
+  "n": "162",
+  "field": "notes",
+  "old": "GROUPING: appears to complete 161 (siddhiḥ). 'vyakteḥ' is the manifestation (of the foetus) as in 131; the foetus is not named in this unit. puṃsavana = rite for obtaining a male child (see 131).",
+  "new": "GROUPING: appears to complete 161 (siddhiḥ). 'vyakteḥ' is the manifestation (of the foetus) as in 131; the foetus is not named in this unit. puṃsavana = rite for obtaining a male child (see 131). Review: puṃsavanādyasmāt is read puṃsavana-ādi + asmāt ('therefore'), not yasmāt.",
+  "why": "reviewer (minor): Record."
+ },
+ {
+  "n": "164",
+  "field": "english",
+  "old": "They would be releasers from debt; good sons are regarded so by those who have sons.",
+  "new": "Good sons would be releasers from debt, regarded by those who have sons.",
+  "why": "reviewer (minor): The draft supplies 'They' and 'so', and cuts suputrāḥ from syuḥ. A more literal reading keeps suputrāḥ as subject of syuḥ and matāḥ."
+ },
+ {
+  "n": "164",
+  "field": "hindi",
+  "old": "वे ऋण से मुक्त कराने वाले हों; अच्छे पुत्र पुत्र वालों द्वारा माने गए हैं।",
+  "new": "अच्छे पुत्र ऋण से मुक्त कराने वाले हों, पुत्र वालों द्वारा माने गए।",
+  "why": "reviewer (minor): The draft supplies 'They' and 'so', and cuts suputrāḥ from syuḥ. A more literal reading keeps suputrāḥ as subject of syuḥ and matāḥ."
+ },
+ {
+  "n": "164",
+  "field": "notes",
+  "old": "'putriṇām matāḥ' is read as 'regarded (so) by those who have sons' (genitive of the agent with a past participle); the alternative 'accounted among those with sons' is possible. ṛṇa = debt; the kind of debt is not stated.",
+  "new": "'putriṇām matāḥ' is read as 'regarded (so) by those who have sons' (genitive of the agent with a past participle); the alternative 'accounted among those with sons' is possible. ṛṇa = debt; the kind of debt is not stated. Review: suputrāḥ is taken as the subject of syuḥ and matāḥ; the alternative division 'they would be releasers from debt; good sons are so regarded by those who have sons' needs a supplied subject and 'so'.",
+  "why": "reviewer (minor): The draft supplies 'They' and 'so', and cuts suputrāḥ from syuḥ. A more literal reading keeps suputrāḥ as subject of syuḥ and matāḥ."
+ },
+ {
+  "n": "165",
+  "field": "english",
+  "old": "A woman devoted to the gods, good conduct, purity and the like bears (one) of great qualities.",
+  "new": "She who is devoted to the gods, conduct, purity and the like bears (one) of great qualities.",
+  "why": "reviewer (error): 'A woman' is a supplied noun and 'good conduct' adds 'good' (ācāra is conduct); GLOSSARY: unstated nouns are not added."
+ },
+ {
+  "n": "165",
+  "field": "hindi",
+  "old": "देवताओं, आचार, शौच आदि में रत स्त्री महान् गुणों वाले को जन्म देती है।",
+  "new": "जो देवताओं, आचार, शौच आदि में रत है, वह महान् गुणों वाले को जन्म देती है।",
+  "why": "reviewer (minor): Supplied noun स्त्री."
+ }
+]
