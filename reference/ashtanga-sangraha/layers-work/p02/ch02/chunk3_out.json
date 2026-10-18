@@ -3223,6 +3223,81 @@
   "confidence": "medium"
  },
  {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samāsata:",
+      "words": [
+       {
+        "w": "samāsataḥ",
+        "gloss": "in brief, in short",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvamatigurūṣṇatīkṣṇarūkṣamannapānaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-guru-uṣṇa-tīkṣṇa-rūkṣam",
+        "gloss": "excessively; heavy; hot; sharp; dry",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "anna-pānam",
+        "gloss": "food; drink",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāruṇāśca",
+      "words": [
+       {
+        "w": "dāruṇāḥ",
+        "gloss": "harsh, violent",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭāḥ",
+      "words": [
+       {
+        "w": "ceṣṭāḥ",
+        "gloss": "activities, movements",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संक्षेप में, सब अन्न और पान जो अत्यन्त भारी, गरम, तीक्ष्ण और रूखा हो, और कठोर चेष्टाएँ।",
+  "english": "In brief, all food and drink that is excessively heavy, hot, sharp (tīkṣṇa) and dry, and harsh activities.",
+  "text_flags": [
+   {
+    "src": "samāsata:",
+    "suggest": "samāsataḥ",
+    "why": "certain: the colon is a printed stand-in for the visarga"
+   }
+  ],
+  "notes": "'ati' is read to govern all four qualities (heavy, hot, sharp, dry). The sentence has no verb; it carries on the list of 111 ('these are causes of injury'), nothing is supplied. 'anna-pāna' (food and drink) is neuter singular as a dvandva.",
+  "confidence": "medium"
+ },
+ {
   "n": "113",
   "lines": [
    {
@@ -3315,7 +3390,7 @@
         "gram": "n. acc. sg."
        },
        {
-        "w": "adhiroḥet",
+        "w": "adhirohet",
         "gloss": "should mount",
         "gram": "3 sg. opt. adhi-√ruh"
        },
