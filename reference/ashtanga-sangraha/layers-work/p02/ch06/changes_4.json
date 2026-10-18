@@ -1,0 +1,259 @@
+[
+ {
+  "n": "128",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "cāsminmalābhāvaḥ",
+    "suggest": "cāsmin malābhāvaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between asmin and mala- (n before m is unchanged)"
+   }
+  ],
+  "why": "reviewer (error): Token is split asmin | mala-abhāvaḥ with no space in print and no sandhi (n before m unchanged), but no text_flag was given (glossary rule: flag every such split)."
+ },
+ {
+  "n": "131",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "paṃcātamā",
+    "suggest": "pañcātmā",
+    "why": "possible: 'ātamā' is not a word; pañcātmā ('five-natured', the wind with five forms) fits the sense and differs by one stray letter"
+   },
+   {
+    "src": "tasmāttasmānmūrcchanāviśeṣādamūrttaḥ",
+    "suggest": "tasmāt tasmān mūrcchanāviśeṣād amūrtaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between the two tasmāt (t before t is unchanged); the following t+m→n, d+a are regular sandhi. Also amūrttaḥ = amūrtaḥ (rtt normalisation, recorded once in the glossary)"
+   }
+  ],
+  "new": [
+   {
+    "src": "paṃcātamā",
+    "suggest": "pañcātmā",
+    "why": "possible: 'ātamā' is not a word; pañcātmā ('five-natured', the wind with five forms) fits the sense and differs by one stray letter"
+   },
+   {
+    "src": "tasmāttasmānmūrcchanāviśeṣādamūrttaḥ",
+    "suggest": "tasmāt tasmān mūrcchanāviśeṣād amūrtaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between the two tasmāt (t before t is unchanged); the following t+m→n, d+a are regular sandhi. Also amūrttaḥ = amūrtaḥ (rtt normalisation, recorded once in the glossary)"
+   },
+   {
+    "src": "śabdavānīṣacchabdapracuro'lpo",
+    "suggest": "śabdavān īṣacchabdapracuro'lpo",
+    "why": "words not separated in print; no sandhi applies at the junction between śabdavān and īṣat- (n after a long vowel before a vowel is unchanged)"
+   }
+  ],
+  "why": "reviewer (error): Split śabdavān | īṣat-... with no printed space and no sandhi (n after long vowel before a vowel is unchanged); no text_flag (bhūyānprathamataṃ in u136 is flagged on the same principle)."
+ },
+ {
+  "n": "131",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: वायु तो अग्नि और आहार की अधिकता और अल्पता से, उस-उस विशेष मूर्च्छना यानी सम्भवतः सघन या प्रबल होने से, अमूर्त, शब्द वाला, थोड़े शब्द में प्रचुर, अथवा अल्प, पञ्चात्मा यानी पाँच स्वरूप वाला होकर कोष्ठ यानी पेट के भीतरी भाग में प्रकट होता है।",
+  "new": "अनुमानित पाठ पर: वायु तो अग्नि और आहार की अधिकता और अल्पता से, उस-उस विशेष मूर्च्छना यानी सम्भवतः प्रबलता से, अमूर्त, शब्द वाला, थोड़े शब्द में प्रचुर, अथवा अल्प, पञ्चात्मा यानी पाँच स्वरूप वाला होकर कोष्ठ यानी पेट के भीतरी भाग में प्रकट होता है।",
+  "why": "reviewer (error): Hindi hedge does not match English/gloss ('probably intensification'): Hindi adds 'सघन' (dense, thickening), which the English does not say."
+ },
+ {
+  "n": "131",
+  "field": "english",
+  "old": "On a conjectural reading: Wind (vāyu), however, through the abundance and scarcity of the fire (agni) and of the food, from this-and-that particular mūrcchanā (probably intensification), appears in the koṣṭha (storehouse, belly cavity), bodiless (amūrta), sound-possessing, abundant in slight sound, or small, and five-natured (pañcātmā).",
+  "new": "On a conjectural reading: Wind (vāyu), however, through the abundance and scarcity of the fire (agni) and of the food, from this-and-that particular mūrcchanā (probably intensification), appears in the koṣṭha (storehouse, belly cavity), non-corporeal (amūrta), sound-possessing, abundant in slight sound, or small, and five-natured (pañcātmā).",
+  "why": "reviewer (minor): Glossary (p02 ch05 k6): mūrta/amūrta = corporeal/non-corporeal; 'bodiless' is an inconsistent rendering."
+ },
+ {
+  "n": "131",
+  "field": "word.gloss",
+  "word": "amūrtaḥ",
+  "old": "bodiless (amūrta)",
+  "new": "non-corporeal (amūrta)",
+  "why": "reviewer (minor): Glossary (p02 ch05 k6): mūrta/amūrta = corporeal/non-corporeal; 'bodiless' is an inconsistent rendering."
+ },
+ {
+  "n": "131",
+  "field": "english",
+  "old": "On a conjectural reading: Wind (vāyu), however, through the abundance and scarcity of the fire (agni) and of the food, from this-and-that particular mūrcchanā (probably intensification), appears in the koṣṭha (storehouse, belly cavity), non-corporeal (amūrta), sound-possessing, abundant in slight sound, or small, and five-natured (pañcātmā).",
+  "new": "On a conjectural reading: Wind (vāyu), however, through the abundance and scarcity of the fire (agni) and of the food, from this-and-that particular mūrcchanā (probably intensification), appears in the koṣṭha (storehouse, belly cavity), non-corporeal (amūrta), sound-possessing, abundant in slight sound, or small, five-natured (pañcātmā).",
+  "why": "reviewer (minor): 'and' before 'five-natured' is supplied; the Sanskrit has a bare list (…alpo vā paṃcātamā)."
+ },
+ {
+  "n": "133",
+  "field": "word.gram",
+  "word": "svāsthya-bala-upacaya-yuktam",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "tat-puruṣa, n. nom./acc. sg.",
+  "why": "reviewer (minor): gram says n. acc. sg. while the note and the word śarīra-yantram say nom./acc.; the adjective must carry the same case range."
+ },
+ {
+  "n": "134",
+  "field": "hindi",
+  "old": "परन्तु अन्यथा, या तो अन्न-रस के उत्क्षेप यानी ऊपर फेंके जाने आदि से बँधे हुए स्रोतस् के कारण, धातुओं के उस प्रवाह के बीच जो ठीक से जुड़ा हुआ नहीं है, कट जाता है, या रोग का पात्र बन जाता है।",
+  "new": "परन्तु अन्यथा, या तो अन्न-रस के उत्क्षेप यानी ऊपर फेंके जाने आदि से बँधे हुए स्रोतस् के कारण, धातुओं के प्रवाह के बीच जो ठीक से जुड़ा हुआ नहीं है, कट जाता है, या रोग का पात्र बन जाता है।",
+  "why": "reviewer (minor): 'उस' (that) is not in the Sanskrit (dhātu-pravāham) and is not in the English."
+ },
+ {
+  "n": "136",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: निगले जाते ही आहार की कण्ठनाड़ी यानी सम्भवतः अन्ननलिका से होकर प्लुति यानी तेज़ बहाव होता है; उसके महानिम्न यानी सम्भवतः उदर-गुहा में उतर जाने पर जो-जो अंश कायाग्नि यानी शरीर की अग्नि से चाटा गया है, वह पाक को पहुँचाया जाता है; उस-उस अंश का ही प्रसाद नामक रस का लेश, उत्पन्न होने के तुरन्त बाद, सभी धातुओं में समान रूप से, बन्द और खुले से, द्वारों द्वारा, खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों में फैलकर, अधिक भाग पहले जाता है और बारी-बारी से अन्य में भी अनुसरण करता है।",
+  "new": "अनुमानित पाठ पर: निगले जाते ही आहार की कण्ठनाड़ी यानी सम्भवतः अन्ननलिका से होकर प्लुति यानी तेज़ बहाव होता है; उसके महानिम्न यानी सम्भवतः उदर-गुहा में उतर जाने पर जो-जो अंश कायाग्नि यानी शरीर की अग्नि से चाटा गया है, वह पाक को पहुँचाया जाता है; उस-उस अंश का ही प्रसाद यानी निर्मल सार नामक रस का लेश, उत्पन्न होने के तुरन्त बाद, सभी धातुओं में समान रूप से, बन्द और खुले से, द्वारों द्वारा, खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों में फैलकर, अधिक भाग पहले जाता है और बारी-बारी से अन्य में भी अनुसरण करता है।",
+  "why": "reviewer (minor): English has 'prasāda (clear essence)'; Hindi omits the gloss (glossary: प्रसाद यानी निर्मल सार)."
+ },
+ {
+  "n": "136",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: निगले जाते ही आहार की कण्ठनाड़ी यानी सम्भवतः अन्ननलिका से होकर प्लुति यानी तेज़ बहाव होता है; उसके महानिम्न यानी सम्भवतः उदर-गुहा में उतर जाने पर जो-जो अंश कायाग्नि यानी शरीर की अग्नि से चाटा गया है, वह पाक को पहुँचाया जाता है; उस-उस अंश का ही प्रसाद यानी निर्मल सार नामक रस का लेश, उत्पन्न होने के तुरन्त बाद, सभी धातुओं में समान रूप से, बन्द और खुले से, द्वारों द्वारा, खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों में फैलकर, अधिक भाग पहले जाता है और बारी-बारी से अन्य में भी अनुसरण करता है।",
+  "new": "अनुमानित पाठ पर: निगले जाते ही आहार की कण्ठनाड़ी यानी सम्भवतः अन्ननलिका से होकर प्लुति यानी तेज़ बहाव होता है; उसके महानिम्न यानी सम्भवतः उदर-गुहा में उतर जाने पर जो-जो अंश कायाग्नि यानी शरीर की अग्नि से चाटा गया है, वह पाक को पहुँचाया जाता है; उस-उस अंश का ही प्रसाद यानी निर्मल सार नामक रस का लेश, उत्पन्न होने के तुरन्त बाद, सभी धातुओं में समान रूप से, बन्द और खुले से, द्वारों द्वारा, खुले मुख वाले, अकासन्नेषु अस्पष्ट शब्द, स्रोतसों में फैलकर, अधिक भाग पहले जाता है और बारी-बारी से अन्य में भी अनुसरण करता है।",
+  "why": "reviewer (minor): Hindi 'खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों' reads as 'srotas having an unclear sound/word' and does not name the damaged token; sibling chunks write the printed word plus 'अस्पष्ट शब्द'; English '(unclear word)' also omits the printed form."
+ },
+ {
+  "n": "136",
+  "field": "english",
+  "old": "On a conjectural reading: Of food, just as it is swallowed, there is the rush (pluti) through the throat-tube (kaṇṭha-nāḍī, probably the gullet); of that, having descended into the great hollow (mahānimna, probably the abdominal cavity), whichever part is licked over by the bodily fire (kāyāgni) is brought to cooking; of each such part, a trace of rasa called prasāda (clear essence), immediately upon its production, spread equally into all the dhātus by the enclosed and open (ones), through the doors, into the srotas with open mouths (unclear word); the greater (part) goes first, and by turns follows in the others also.",
+  "new": "On a conjectural reading: Of food, just as it is swallowed, there is the rush (pluti) through the throat-tube (kaṇṭha-nāḍī, probably the gullet); of that, having descended into the great hollow (mahānimna, probably the abdominal cavity), whichever part is licked over by the bodily fire (kāyāgni) is brought to cooking; of each such part, a trace of rasa called prasāda (clear essence), immediately upon its production, spread equally into all the dhātus by the enclosed and open (ones), through the doors, into the srotas with open mouths akāsanneṣu (unclear); the greater (part) goes first, and by turns follows in the others also.",
+  "why": "reviewer (minor): Hindi 'खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों' reads as 'srotas having an unclear sound/word' and does not name the damaged token; sibling chunks write the printed word plus 'अस्पष्ट शब्द'; English '(unclear word)' also omits the printed form."
+ },
+ {
+  "n": "136",
+  "field": "english",
+  "old": "On a conjectural reading: Of food, just as it is swallowed, there is the rush (pluti) through the throat-tube (kaṇṭha-nāḍī, probably the gullet); of that, having descended into the great hollow (mahānimna, probably the abdominal cavity), whichever part is licked over by the bodily fire (kāyāgni) is brought to cooking; of each such part, a trace of rasa called prasāda (clear essence), immediately upon its production, spread equally into all the dhātus by the enclosed and open (ones), through the doors, into the srotas with open mouths akāsanneṣu (unclear); the greater (part) goes first, and by turns follows in the others also.",
+  "new": "On a conjectural reading: Of food, just as it is swallowed, there is the rush (pluti) through the throat-tube (kaṇṭha-nāḍī, probably the gullet); of that, having descended into the great hollow (mahānimna, probably the abdominal cavity), whichever part is licked over by the bodily fire (kāyāgni) is brought to cooking; of each such part alone, a trace of rasa called prasāda (clear essence), immediately upon its production, spread equally into all the dhātus by the enclosed and open (ones), through the doors, into the srotas with open mouths akāsanneṣu (unclear); the greater (part) goes first, and by turns follows in the others also.",
+  "why": "reviewer (minor): 'tasyaiva' carries eva; 'of each such part' drops it (Hindi has ही)."
+ },
+ {
+  "n": "136",
+  "field": "word.gram",
+  "word": "avatīrṇasya",
+  "old": "ppp. ava-√tṝ, n. gen. sg.",
+  "new": "ppp. ava-√tṝ, m. gen. sg.",
+  "why": "reviewer (minor): avatīrṇasya agrees with tasya/āhārasya (m.), but gram says n. gen. sg."
+ },
+ {
+  "n": "138",
+  "field": "hindi",
+  "old": "परन्तु धातु अपने स्वरूप के नाश से दूसरी धातु की अवस्था को प्राप्त नहीं होते।",
+  "new": "परन्तु धातु अपने स्वरूप के उपमर्द यानी कुचले जाने से दूसरी धातु की अवस्था को प्राप्त नहीं होते।",
+  "why": "reviewer (minor): English renders upamarda as 'crushing', Hindi as 'नाश'; Hindi should carry the same literal sense."
+ },
+ {
+  "n": "140",
+  "field": "english",
+  "old": "Among these, the sama (even) one is that which properly digests food that has been properly taken.",
+  "new": "Among these, the sama (even) one is that which properly digests food that has been taken properly alone.",
+  "why": "reviewer (minor): 'samyag eva' - eva (only/alone) is dropped in English though Hindi has ही."
+ },
+ {
+  "n": "143",
+  "field": "english",
+  "old": "The manda (slow) one, even what is properly taken, after showing the signs of āma (raw, undigested material) — heaviness of the belly, flatulent distension (ādhmāna), constipation (vibandha), gurgling (āṭopa), intestinal murmuring (āntra-kūjana), dryness of the mouth, stiffness of the anus (pāyu) and the like — digests after a long time.",
+  "new": "The manda (slow) one, even what is properly taken, after showing the signs of āma (raw, undigested) — heaviness of the belly, flatulent distension (ādhmāna), constipation (vibandha), gurgling (āṭopa), intestinal murmuring (āntra-kūjana), dryness of the mouth, stiffness of the anus (pāyu) and the like — digests after a long time.",
+  "why": "reviewer (minor): 'material' is a supplied noun; the gloss and the Sanskrit (āma) have only 'raw, undigested'."
+ },
+ {
+  "n": "144",
+  "field": "word.w",
+  "word": "kim-uta",
+  "old": "kim-uta",
+  "new": "kimuta",
+  "why": "reviewer (minor): kimuta is one indeclinable; the hyphen suggests a compound of two words."
+ },
+ {
+  "n": "144",
+  "field": "english",
+  "old": "On a conjectural reading: Even with external fire consisting of flame and embers, cooking is not always of one form; what to say, then, of the heat lodged within, even when it is even (sama)! Therefore one should protect it with effort.",
+  "new": "On a conjectural reading: Even with external fire consisting of flame and embers, cooking is not always of one form; what to say of the heat lodged within, even when it is even (sama)! Therefore one should protect it with effort.",
+  "why": "reviewer (minor): ', then,' is not in the Sanskrit (kimuta = what to say of / how much more)."
+ },
+ {
+  "n": "145",
+  "field": "hindi",
+  "old": "वहाँ श्रेष्ठ सात्म्य यानी अनुकूल के साथ समान रूप से, अपने-अपने अनुसार निम्न के द्वारा अन्य को क्रमशः समता तक पहुँचाकर, श्रेष्ठ के द्वारा रक्षा करे — दोषोपक्रमणीय में कहे वात आदि के साधन से और ग्रहणी रोग यानी सम्भवतः पाचन के विकार में बताए औषध और व्यायाम के योगों से।",
+  "new": "वहाँ श्रेष्ठ सात्म्य यानी अनुकूल के साथ समान रूप से, अपने-अपने अनुसार निम्न के द्वारा अन्य को क्रमशः समता तक पहुँचाकर, श्रेष्ठ के द्वारा रक्षा करे — दोषोपक्रमणीय यानी सम्भवतः दोष-चिकित्सा के अध्याय में कहे वात आदि के साधन से और ग्रहणी रोग यानी सम्भवतः पाचन के विकार में बताए औषध और व्यायाम के योगों से।",
+  "why": "reviewer (error): English hedges 'doṣopakramaṇīya, probably a chapter title'; Hindi gives no gloss or hedge (glossary: Hindi must carry the identifications and hedges the English has)."
+ },
+ {
+  "n": "146",
+  "field": "english",
+  "old": "And on this matter there is:",
+  "new": "And on this matter there are:",
+  "why": "reviewer (error): Fixed rendering (glossary, p02 ch12 k2): bhavati cātra = 'And on this matter there are:' / 'और इस विषय में ये हैं:'."
+ },
+ {
+  "n": "146",
+  "field": "hindi",
+  "old": "और इस विषय में यह है:",
+  "new": "और इस विषय में ये हैं:",
+  "why": "reviewer (error): Fixed rendering (glossary, p02 ch12 k2): bhavati cātra = 'And on this matter there are:' / 'और इस विषय में ये हैं:'."
+ },
+ {
+  "n": "146",
+  "field": "word.gloss",
+  "word": "bhavati",
+  "old": "there is",
+  "new": "there are",
+  "why": "reviewer (error): Fixed rendering (glossary, p02 ch12 k2): bhavati cātra = 'And on this matter there are:' / 'और इस विषय में ये हैं:'."
+ },
+ {
+  "n": "146",
+  "field": "notes",
+  "old": "Lead-in formula; the verses that follow (units 147 onward) are its content. The verses that follow (unit 147 onward) appear to be its content; no break is asserted.",
+  "new": "Lead-in formula; the verses that follow (unit 147 onward) appear to be its content; no break is asserted.",
+  "why": "reviewer (minor): Note repeats itself and contradicts itself ('are its content' then 'appear to be its content')."
+ },
+ {
+  "n": "148",
+  "field": "hindi",
+  "old": "स्रोतस् आकृति में लम्बे हैं और प्रतान यानी सम्भवतः बेल के तन्तु के समान हैं।",
+  "new": "स्रोतस् आकृति में लम्बे हैं और प्रतान यानी सम्भवतः लता के तन्तु के समान हैं।",
+  "why": "reviewer (minor): Hindi बेल is also bael (बिल्व, the glossary's own rendering) - confusing for pratāna 'tendril'."
+ },
+ {
+  "n": "152",
+  "field": "hindi",
+  "old": "अस्पष्ट शब्द या गमन — स्रोतसों की दुष्टि यानी दूषित होने का लक्षण।",
+  "new": "विमार्गप्तो अस्पष्ट शब्द या गमन — स्रोतसों की दुष्टि यानी दूषित होने का लक्षण।",
+  "why": "reviewer (minor): The damaged word is not named in either language (siblings write the printed form: 'X (unclear)' / 'X अस्पष्ट शब्द')."
+ },
+ {
+  "n": "152",
+  "field": "english",
+  "old": "(unclear word) or going: the sign of the vitiation (duṣṭi) of the srotas.",
+  "new": "vimārgapto (unclear) or going: the sign of the vitiation (duṣṭi) of the srotas.",
+  "why": "reviewer (minor): The damaged word is not named in either language (siblings write the printed form: 'X (unclear)' / 'X अस्पष्ट शब्द')."
+ },
+ {
+  "n": "153",
+  "field": "hindi",
+  "old": "कमलनाल के तन्तुओं के समान सूक्ष्म और दूर तक फैले हुए।",
+  "new": "बिस यानी कमलनालों के समान सूक्ष्म और दूर तक फैले हुए।",
+  "why": "reviewer (error): 'तन्तुओं' (fibres) is added; the Sanskrit has only bisānām, and the Hindi also omits the 'bisa' gloss the English has."
+ },
+ {
+  "n": "157",
+  "field": "hindi",
+  "old": "परन्तु वृष्य यानी शुक्र बढ़ाने वाले आदि प्रभाव यानी विशेष शक्ति से तुरन्त शुक्र यानी वीर्य आदि बना देते हैं।",
+  "new": "परन्तु वृष्य यानी शुक्र बढ़ाने वाले आदि, प्रभाव यानी विशेष शक्ति से तुरन्त शुक्र यानी वीर्य आदि बना देते हैं।",
+  "why": "reviewer (minor): 'आदि प्रभाव यानी' can be misread as 'etc. potency'."
+ },
+ {
+  "n": "160",
+  "field": "word.gram",
+  "word": "pitta-abhimūrcchite",
+  "old": "tat-puruṣa, n. loc. sg.",
+  "new": "tat-puruṣa, loc. sg.",
+  "why": "reviewer (minor): Gender given (n.; m./n.) to adjectives that stand for an unstated noun; glossary: no gender, case and number only. (Pitta being neuter does not decide the gender of the participle.)"
+ },
+ {
+  "n": "160",
+  "field": "word.gram",
+  "word": "kapha-pīḍite",
+  "old": "tat-puruṣa, m./n. loc. sg.",
+  "new": "tat-puruṣa, loc. sg.",
+  "why": "reviewer (minor): Gender given (n.; m./n.) to adjectives that stand for an unstated noun; glossary: no gender, case and number only. (Pitta being neuter does not decide the gender of the participle.)"
+ },
+ {
+  "n": "163",
+  "field": "hindi",
+  "old": "इस प्रकार सिराविभाग नामक छठा अध्याय।",
+  "new": "इस प्रकार सिराविभाग यानी सिराओं का विभाग नामक छठा अध्याय।",
+  "why": "reviewer (minor): English glosses the title '(division of the sirā, vessels)'; Hindi gives no gloss."
+ }
+]

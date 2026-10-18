@@ -1,0 +1,3972 @@
+[
+ {
+  "n": "124",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "medasaḥ",
+      "words": [
+       {
+        "w": "medasaḥ",
+        "gloss": "fat (medas; standard)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāro'sthisnāyusaṃdhayaḥ",
+      "words": [
+       {
+        "w": "sāraḥ",
+        "gloss": "essence (sāra)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asthi-snāyu-sandhayaḥ",
+        "gloss": "bone (asthi); ligament (snāyu; standard); joint (sandhi)",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kiṭṭaṃ",
+      "words": [
+       {
+        "w": "kiṭṭam",
+        "gloss": "waste (kiṭṭa)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedaḥ",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweat",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मेद यानी चर्बी का सार अस्थि, स्नायु यानी हड्डियों को बाँधने वाले तन्तु और सन्धियाँ हैं; किट्ट यानी अपशिष्ट पसीना है।",
+  "english": "Of fat (medas), the essence (sāra) is bone (asthi), ligaments (snāyu) and joints (sandhi); the waste (kiṭṭa) is sweat.",
+  "text_flags": [],
+  "notes": "Copula understood. asthi-snāyu-sandhayaḥ is read as one dvandva list of three items (bone, ligaments, joints), all given as the essence as printed; the alternative 'joints of bone and ligament' is possible. The pattern essence (sāra) / waste (kiṭṭa or mala) for each dhātu continues from units 121-123 (chunk 3).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.124"
+  ],
+  "lines_deva": [
+   "मेदसः सारोऽस्थिस्नायुसंधयः किट्टं स्वेदः"
+  ],
+  "lines_iast": [
+   "medasaḥ sāro'sthisnāyusaṃdhayaḥ kiṭṭaṃ svedaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "125",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asthnaḥ",
+      "words": [
+       {
+        "w": "asthnaḥ",
+        "gloss": "bone (asthi; stem asthan-)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāro",
+      "words": [
+       {
+        "w": "sāraḥ",
+        "gloss": "essence (sāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "majjākiṭṭaṃ",
+      "words": [
+       {
+        "w": "majjā",
+        "gloss": "marrow (majjā)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "kiṭṭam",
+        "gloss": "waste (kiṭṭa)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "keśalomāni",
+      "words": [
+       {
+        "w": "keśa-lomāni",
+        "gloss": "hair of the head (keśa); body hair (loman)",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nakhāḥ",
+      "words": [
+       {
+        "w": "nakhāḥ",
+        "gloss": "nails",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अस्थि का सार मज्जा यानी हड्डी के भीतर का गूदा है; किट्ट यानी अपशिष्ट केश, रोम यानी शरीर के बाल और नख हैं।",
+  "english": "Of bone (asthi), the essence is marrow (majjā); the waste (kiṭṭa) is the hair of the head, the body hair (loman) and the nails.",
+  "text_flags": [
+   {
+    "src": "majjākiṭṭaṃ",
+    "suggest": "majjā kiṭṭaṃ",
+    "why": "words not separated in print; no sandhi applies at the junction (majjā ends in a long vowel, kiṭṭam begins with k); read as two words: essence = marrow, waste = hair etc."
+   }
+  ],
+  "notes": "Copula understood. 'majjākiṭṭaṃ' is split into two words because the sense (essence, then waste) requires it and the neighbouring units follow this pattern; a compound 'marrow-waste' does not fit. majjā = marrow in this anatomy unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.125"
+  ],
+  "lines_deva": [
+   "अस्थ्नः सारो मज्जाकिट्टं केशलोमानि नखाः"
+  ],
+  "lines_iast": [
+   "asthnaḥ sāro majjākiṭṭaṃ keśalomāni nakhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "126",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "majjñastu",
+      "words": [
+       {
+        "w": "majjñaḥ",
+        "gloss": "marrow (majjan)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāraḥ",
+      "words": [
+       {
+        "w": "sāraḥ",
+        "gloss": "essence (sāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukraṃ",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "semen (śukra; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "malo'kṣiviṭ",
+      "words": [
+       {
+        "w": "malaḥ",
+        "gloss": "waste (mala)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "akṣi-viṭ",
+        "gloss": "eye-excrement (viṭ)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvacāṃ",
+      "words": [
+       {
+        "w": "tvacām",
+        "gloss": "skins (tvac)",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "snehaḥ",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "oiliness, fat (sneha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मज्जा का तो सार शुक्र यानी वीर्य है; मल यानी अपशिष्ट आँख का मल और त्वचाओं का स्नेह यानी तेल या वसा है।",
+  "english": "Of marrow (majjan), however, the essence is śukra (semen); the waste (mala) is the excrement of the eye (akṣi-viṭ) and the oiliness (sneha) of the skins.",
+  "text_flags": [],
+  "notes": "Copula understood. 'tvacām' = of the skins (plural, as elsewhere in this chapter). The two items after mala (eye-excrement, oiliness of the skins) are read as the waste; the Sanskrit has no 'and'. majjan = marrow here (anatomy unit).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.126"
+  ],
+  "lines_deva": [
+   "मज्ज्ञस्तु सारः शुक्रं मलोऽक्षिविट् त्वचां स्नेहः"
+  ],
+  "lines_iast": [
+   "majjñastu sāraḥ śukraṃ malo'kṣiviṭ tvacāṃ snehaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śukrasya",
+      "words": [
+       {
+        "w": "śukrasya",
+        "gloss": "semen (śukra; standard)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāramojaḥ",
+      "words": [
+       {
+        "w": "sāram",
+        "gloss": "essence (sāra)",
+        "gram": "n. nom. sg. (or acc.)"
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "ojas (vital essence)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शुक्र यानी वीर्य का सार ओजस् यानी जीवन-सार है।",
+  "english": "Of śukra (semen), the essence is ojas (vital essence).",
+  "text_flags": [],
+  "notes": "Copula understood. 'sāram' is neuter here, whereas the neighbouring units have masculine 'sāraḥ' (sāra takes both genders); read as nominative neuter, or as an accusative with a verb understood; the sense is the same. Not corrected.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.127"
+  ],
+  "lines_deva": [
+   "शुक्रस्य सारमोजः"
+  ],
+  "lines_iast": [
+   "śukrasya sāramojaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "128",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atyaṃtaśuddhatayā",
+      "words": [
+       {
+        "w": "atyanta-śuddha-tayā",
+        "gloss": "extreme (atyanta); pure (śuddha); -ness (tā)",
+        "gram": "karmadhāraya + abstract suffix, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāsminmalābhāvaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "mala-abhāvaḥ",
+        "gloss": "waste (mala); absence (abhāva)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अत्यन्त शुद्धता के कारण इसमें मल यानी अपशिष्ट का अभाव है।",
+  "english": "And through extreme purity there is absence of waste (mala) in this.",
+  "text_flags": [
+   {
+    "src": "cāsminmalābhāvaḥ",
+    "suggest": "cāsmin malābhāvaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between asmin and mala- (n before m is unchanged)"
+   }
+  ],
+  "notes": "Copula supplied in the translation ('there is'), as the noun 'abhāva' needs it. 'asmin' (in this) is not tied to a noun in the unit; it is read as the śukra/ojas of unit 127 and is left as 'this'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.128"
+  ],
+  "lines_deva": [
+   "अत्यंतशुद्धतया चास्मिन्मलाभावः"
+  ],
+  "lines_iast": [
+   "atyaṃtaśuddhatayā cāsminmalābhāvaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "129",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyepunarataeva",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "for this reason",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "necchaṃti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "icchanti",
+        "gloss": "wish, accept",
+        "gram": "3 pl. pres. √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "pākaṃ",
+      "words": [
+       {
+        "w": "pākam",
+        "gloss": "cooking (pāka)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे लोग तो इसी कारण उसका पाक यानी पकना स्वीकार नहीं करते।",
+  "english": "Others, however, for this very reason do not accept a cooking (pāka) of it.",
+  "text_flags": [
+   {
+    "src": "anyepunarataeva",
+    "suggest": "anye punar ata eva",
+    "why": "words not separated in print; no sandhi applies at the junction between anye and punar (the following punar ata eva is regular sandhi)"
+   }
+  ],
+  "notes": "'tasya' (of it) is left as a plain pronoun; it is read as referring to the essence of śukra (unit 127-128). Literally icchanti = 'wish, want'; 'accept' is the natural sense. 'ata eva' = ataḥ eva (regular).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.129"
+  ],
+  "lines_deva": [
+   "अन्येपुनरतएव तस्य नेच्छंति पाकं"
+  ],
+  "lines_iast": [
+   "anyepunarataeva tasya necchaṃti pākaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apare",
+      "words": [
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukrasya",
+      "words": [
+       {
+        "w": "śukrasya",
+        "gloss": "semen (śukra; standard)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāraṃ",
+      "words": [
+       {
+        "w": "sāram",
+        "gloss": "essence (sāra)",
+        "gram": "n./m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhamevāmanaṃti",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "embryo (garbha; standard)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "itself, only",
+        "gram": "ind."
+       },
+       {
+        "w": "āmananti",
+        "gloss": "hold (to be), declare",
+        "gram": "3 pl. pres. ā-√mnā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे लोग तो शुक्र यानी वीर्य के सार को ही गर्भ यानी भ्रूण मानते हैं।",
+  "english": "Others, however, hold the essence of śukra (semen) to be the garbha (embryo) itself.",
+  "text_flags": [],
+  "notes": "Two accusatives with āmananti: the essence of śukra and the garbha, read as 'hold X to be Y'. The alternative 'they declare the garbha, the essence of śukra, itself' gives the same sense. garbha = embryo (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.130"
+  ],
+  "lines_deva": [
+   "अपरे पुनः शुक्रस्य सारं गर्भमेवामनंति"
+  ],
+  "lines_iast": [
+   "apare punaḥ śukrasya sāraṃ garbhamevāmanaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaragnerāhārasya",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "of the fire (agni)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āhārasya",
+        "gloss": "of food",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bahvalpatayā",
+      "words": [
+       {
+        "w": "bahu-alpa-tayā",
+        "gloss": "abundance (bahu); scarcity (alpa); -ness (tā)",
+        "gram": "dvandva + abstract suffix, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasmāttasmānmūrcchanāviśeṣādamūrttaḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "from that",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "tasmāt",
+        "gloss": "from that",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "mūrcchanā-viśeṣāt",
+        "gloss": "mūrcchanā (probably intensification, thickening); particular kind (viśeṣa)",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "amūrtaḥ",
+        "gloss": "non-corporeal (amūrta)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śabdavānīṣacchabdapracuro'lpo",
+      "words": [
+       {
+        "w": "śabda-vān",
+        "gloss": "having sound",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "īṣat-śabda-pracuraḥ",
+        "gloss": "slight (īṣat); sound (śabda); abundant (pracura); sense of the compound uncertain",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcātamā",
+      "words": [
+       {
+        "w": "pañca-ātmā",
+        "gloss": "five-natured (conjecture for printed paṃcātamā)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhe",
+      "words": [
+       {
+        "w": "koṣṭhe",
+        "gloss": "in the storehouse, belly cavity (koṣṭha)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prādurbhavati",
+      "words": [
+       {
+        "w": "prādurbhavati",
+        "gloss": "appears, arises",
+        "gram": "3 sg. pres. prādus-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: वायु तो अग्नि और आहार की अधिकता और अल्पता से, उस-उस विशेष मूर्च्छना यानी सम्भवतः प्रबलता से, अमूर्त, शब्द वाला, थोड़े शब्द में प्रचुर, अथवा अल्प, पञ्चात्मा यानी पाँच स्वरूप वाला होकर कोष्ठ यानी पेट के भीतरी भाग में प्रकट होता है।",
+  "english": "On a conjectural reading: Wind (vāyu), however, through the abundance and scarcity of the fire (agni) and of the food, from this-and-that particular mūrcchanā (probably intensification), appears in the koṣṭha (storehouse, belly cavity), non-corporeal (amūrta), sound-possessing, abundant in slight sound, or small, five-natured (pañcātmā).",
+  "text_flags": [
+   {
+    "src": "paṃcātamā",
+    "suggest": "pañcātmā",
+    "why": "possible: 'ātamā' is not a word; pañcātmā ('five-natured', the wind with five forms) fits the sense and differs by one stray letter"
+   },
+   {
+    "src": "tasmāttasmānmūrcchanāviśeṣādamūrttaḥ",
+    "suggest": "tasmāt tasmān mūrcchanāviśeṣād amūrtaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between the two tasmāt (t before t is unchanged); the following t+m→n, d+a are regular sandhi. Also amūrttaḥ = amūrtaḥ (rtt normalisation, recorded once in the glossary)"
+   },
+   {
+    "src": "śabdavānīṣacchabdapracuro'lpo",
+    "suggest": "śabdavān īṣacchabdapracuro'lpo",
+    "why": "words not separated in print; no sandhi applies at the junction between śabdavān and īṣat- (n after a long vowel before a vowel is unchanged)"
+   }
+  ],
+  "notes": "Hard sentence; confidence low. (1) 'pañcātmā' is adopted for printed 'paṃcātamā', hence the conjectural mark. (2) mūrcchanā: sense uncertain (swoon / thickening / intensification); kept as mūrcchanā with a hedged gloss. (3) 'īṣacchabdapracuro'lpo vā': read as three descriptors of the wind, 'īṣat-śabda-pracura' (abundant in slight sound; literal) and 'alpa' (small) joined by vā; it may instead mean 'with slight or abundant sound, or small'. (4) bahvalpatayā is a dvandva: 'abundance and scarcity' (literal), natural sense 'according to how much or how little'. (5) The five forms (pañcātmā) are not named here.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.131"
+  ],
+  "lines_deva": [
+   "वायुः पुनरग्नेराहारस्य च बह्वल्पतया तस्मात्तस्मान्मूर्च्छनाविशेषादमूर्त्तः शब्दवानीषच्छब्दप्रचुरोऽल्पो वा पंचातमा कोष्ठे प्रादुर्भवति"
+  ],
+  "lines_iast": [
+   "vāyuḥ punaragnerāhārasya ca bahvalpatayā tasmāttasmānmūrcchanāviśeṣādamūrttaḥ śabdavānīṣacchabdapracuro'lpo vā paṃcātamā koṣṭhe prādurbhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having done",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "dehe'nnamayā",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "anna-mayāḥ",
+        "gloss": "made of food (anna)",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "alone, only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvāḥ",
+      "words": [
+       {
+        "w": "bhāvāḥ",
+        "gloss": "states, entities (bhāva)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और ऐसा करके देह में सभी भाव यानी पदार्थ या अवस्थाएँ अन्न से बने हुए ही हैं।",
+  "english": "And having thus done, all states (bhāva) in the body are made of food alone.",
+  "text_flags": [],
+  "notes": "'evaṃ kṛtvā' is rendered literally; the idiom is probably 'this being so'. Copula understood. 'annamayā' is annamayāḥ with the visarga lost before eva (regular -āḥ + vowel).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.132"
+  ],
+  "lines_deva": [
+   "एवं च कृत्वा देहेऽन्नमया एव सर्वे भावाः"
+  ],
+  "lines_iast": [
+   "evaṃ ca kṛtvā dehe'nnamayā eva sarve bhāvāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tenaiva",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cedamevaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cireṇa",
+      "words": [
+       {
+        "w": "cireṇa",
+        "gloss": "for a long time",
+        "gram": "n. inst. sg. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "nyāsamaṃtarbahiḥ",
+      "words": [
+       {
+        "w": "nyāsam",
+        "gloss": "nyāsa (deposit, placing; sense uncertain)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "antar",
+        "gloss": "inside",
+        "gram": "ind."
+       },
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīrayaṃtramanavaratapravāheṇa",
+      "words": [
+       {
+        "w": "śarīra-yantram",
+        "gloss": "body (śarīra); machine (yantra)",
+        "gram": "tat-puruṣa, n. nom./acc. sg."
+       },
+       {
+        "w": "anavarata-pravāheṇa",
+        "gloss": "unceasing (anavarata); flow (pravāha)",
+        "gram": "karmadhāraya, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāsthyabalopacayayuktaṃyāvatkarmopādānaṃ",
+      "words": [
+       {
+        "w": "svāsthya-bala-upacaya-yuktam",
+        "gloss": "health (svāsthya); strength (bala); growth (upacaya); endowed with (yukta)",
+        "gram": "tat-puruṣa, n. nom./acc. sg."
+       },
+       {
+        "w": "yāvat",
+        "gloss": "as long as",
+        "gram": "ind."
+       },
+       {
+        "w": "karma-upādānam",
+        "gloss": "action (karma); taking up (upādāna)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāpyate",
+      "words": [
+       {
+        "w": "yāpyate",
+        "gloss": "is kept going, is sustained",
+        "gram": "3 sg. pass. caus. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी से यह शरीर-यन्त्र इस प्रकार देर तक, भीतर और बाहर न्यास यानी धरोहर के रूप में, अटूट प्रवाह के साथ, स्वास्थ्य, बल और वृद्धि से युक्त होकर, जब तक कर्म का उपादान यानी ग्रहण है तब तक चलाया जाता है।",
+  "english": "By that alone, this body-machine (śarīra-yantra), thus, for a long time, as a deposit (nyāsa) within and without, with an unbroken flow, endowed with health, strength and growth, is kept going for as long as the taking up (upādāna) of action (karma).",
+  "text_flags": [
+   {
+    "src": "nyāsamaṃtarbahiḥ",
+    "suggest": "nyāsam antar bahiḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between antar and bahiḥ (r before b is unchanged)"
+   },
+   {
+    "src": "svāsthyabalopacayayuktaṃyāvatkarmopādānaṃ",
+    "suggest": "svāsthyabalopacayayuktaṃ yāvat karmopādānaṃ",
+    "why": "words not separated in print; no sandhi applies at the junction between yuktam and yāvat, and between yāvat and karma (t before k is unchanged)"
+   }
+  ],
+  "notes": "Confidence low. 'nyāsam antarbahiḥ' is not clearly construed: nyāsa (deposit, placing) is taken as an adverbial 'as a deposit' and 'within and without' goes with it; other readings (e.g. 'placed within and without') are possible. 'yāvat karmopādānam' is read as 'for as long as the taking up of karma (action)', i.e. as long as karma is taken up; it may mean 'as far as karma takes it'. The subject (this body-machine) is in the nominative/accusative form śarīra-yantram. 'tena' is left as 'by that' (the food of the preceding units).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.133"
+  ],
+  "lines_deva": [
+   "तेनैव चेदमेवं चिरेण न्यासमंतर्बहिः शरीरयंत्रमनवरतप्रवाहेण स्वास्थ्यबलोपचययुक्तंयावत्कर्मोपादानं याप्यते"
+  ],
+  "lines_iast": [
+   "tenaiva cedamevaṃ cireṇa nyāsamaṃtarbahiḥ śarīrayaṃtramanavaratapravāheṇa svāsthyabalopacayayuktaṃyāvatkarmopādānaṃ yāpyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyathā",
+      "words": [
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvannarasotkṣepādibaddhasrotasā",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-rasa-utkṣepa-ādi-baddha-srotasā",
+        "gloss": "food (anna); rasa; throwing up (utkṣepa); and the like (ādi); bound (baddha); channel (srotas)",
+        "gram": "bahuvrīhi, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "either",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathāvadanabhisaṃdhīyamānadhātupravāhamaṃtarā",
+      "words": [
+       {
+        "w": "yathāvat",
+        "gloss": "duly, properly",
+        "gram": "ind."
+       },
+       {
+        "w": "anabhisaṃdhīyamāna-dhātu-pravāham",
+        "gloss": "not being joined (anabhisaṃdhīyamāna); dhātu; flow (pravāha)",
+        "gram": "karmadhāraya, m. acc. sg."
+       },
+       {
+        "w": "antarā",
+        "gloss": "in the midst of",
+        "gram": "ind. (with acc.)"
+       }
+      ]
+     },
+     {
+      "src": "vyavacchidyate",
+      "words": [
+       {
+        "w": "vyavacchidyate",
+        "gloss": "is cut off",
+        "gram": "3 sg. pass. vi-ava-√chid"
+       }
+      ]
+     },
+     {
+      "src": "vyādhibhājanaṃ",
+      "words": [
+       {
+        "w": "vyādhi-bhājanam",
+        "gloss": "disease (vyādhi); vessel (bhājana)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु अन्यथा, या तो अन्न-रस के उत्क्षेप यानी ऊपर फेंके जाने आदि से बँधे हुए स्रोतस् के कारण, धातुओं के प्रवाह के बीच जो ठीक से जुड़ा हुआ नहीं है, कट जाता है, या रोग का पात्र बन जाता है।",
+  "english": "But otherwise, either, with the srotas (channels) bound by the throwing up (utkṣepa) of food-rasa and the like, it is cut off in the midst of the flow of the dhātus, which is not duly joined, or it becomes a vessel (bhājana) of disease (vyādhi).",
+  "text_flags": [],
+  "notes": "Confidence low. The subject is not stated (the body-machine of unit 133 is understood; the English 'it' is a bare pronoun for the verb, no noun added). 'vā ... vā' is read as 'either ... or'. 'baddhasrotasā' (instrumental singular) is read with the unstated subject; it may instead be 'srotasāṃ' (genitive plural, 'of the srotas bound by ...'). 'antarā' with the accusative 'pravāham' = 'in the midst of the flow'. utkṣepa = throwing up, ejection.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.134"
+  ],
+  "lines_deva": [
+   "अन्यथा त्वन्नरसोत्क्षेपादिबद्धस्रोतसा वा यथावदनभिसंधीयमानधातुप्रवाहमंतरा व्यवच्छिद्यते व्याधिभाजनं वा भवति"
+  ],
+  "lines_iast": [
+   "anyathā tvannarasotkṣepādibaddhasrotasā vā yathāvadanabhisaṃdhīyamānadhātupravāhamaṃtarā vyavacchidyate vyādhibhājanaṃ vā bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṇayaṃti",
+      "words": [
+       {
+        "w": "varṇayanti",
+        "gloss": "describe",
+        "gram": "3 pl. pres. √varṇ (10th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु दूसरे लोग वर्णन करते हैं।",
+  "english": "But others describe.",
+  "text_flags": [],
+  "notes": "GROUPING: the unit is a lead-in; the description follows in unit 136 (appears to continue there). The object of 'varṇayanti' is not stated and not supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.135"
+  ],
+  "lines_deva": [
+   "अन्ये तु वर्णयंति"
+  ],
+  "lines_iast": [
+   "anye tu varṇayaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhyavahṛtamātrasyāhārasyakaṃṭhanāḍīplutistasya",
+      "words": [
+       {
+        "w": "abhyavahṛta-mātrasya",
+        "gloss": "swallowed (abhyavahṛta); just (mātra)",
+        "gram": "bahuvrīhi, m. gen. sg."
+       },
+       {
+        "w": "āhārasya",
+        "gloss": "of food",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "kaṇṭha-nāḍī-plutiḥ",
+        "gloss": "throat (kaṇṭha); tube (nāḍī; probably the gullet); rush, leap (pluti)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahānimna",
+      "words": [
+       {
+        "w": "mahā-nimnam",
+        "gloss": "great (mahā); hollow (nimna; probably the abdominal cavity)",
+        "gram": "karmadhāraya, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mavatīrṇasya",
+      "words": [
+       {
+        "w": "avatīrṇasya",
+        "gloss": "having descended",
+        "gram": "ppp. ava-√tṝ, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "whichever",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "whichever",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evāṃśaḥ",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "aṃśaḥ",
+        "gloss": "part",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāyāgninā'blīḍhaḥ",
+      "words": [
+       {
+        "w": "kāya-agninā",
+        "gloss": "body (kāya); fire (agni)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "avalīḍhaḥ",
+        "gloss": "licked over, touched (conjecture for printed blīḍhaḥ)",
+        "gram": "ppp. ava-√lih, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pākamupanīyate",
+      "words": [
+       {
+        "w": "pākam",
+        "gloss": "cooking (pāka)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upanīyate",
+        "gloss": "is brought to",
+        "gram": "3 sg. pass. upa-√nī"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasyaiva",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasādākhyo",
+      "words": [
+       {
+        "w": "prasāda-ākhyaḥ",
+        "gloss": "clear essence (prasāda); named (ākhya)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasleśo'bhinirvattisamanaṃtaraṃ",
+      "words": [
+       {
+        "w": "rasa-leśaḥ",
+        "gloss": "rasa; trace, small portion (leśa) (conjecture for printed rasleśo)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "abhinirvṛtti-samanantaram",
+        "gloss": "production (abhinirvṛtti) (conjecture for printed abhinirvatti); immediately after (samanantaram)",
+        "gram": "tat-puruṣa, adv."
+       }
+      ]
+     },
+     {
+      "src": "samaṃ",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "equally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samastadhātuṣu",
+      "words": [
+       {
+        "w": "samasta-dhātuṣu",
+        "gloss": "all (samasta); dhātu",
+        "gram": "karmadhāraya, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃvṛtāsaṃvṛtaiḥ",
+      "words": [
+       {
+        "w": "saṃvṛta-asaṃvṛtaiḥ",
+        "gloss": "enclosed (saṃvṛta); open (asaṃvṛta)",
+        "gram": "dvandva, inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravissṛto",
+      "words": [
+       {
+        "w": "pravisṛtaḥ",
+        "gloss": "spread out (conjecture for printed pravissṛto)",
+        "gram": "ppp. pra-vi-√sṛ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vivṛtamukheṣvakāsanneṣu",
+      "words": [
+       {
+        "w": "vivṛta-mukheṣu",
+        "gloss": "open (vivṛta); mouths (mukha)",
+        "gram": "bahuvrīhi, loc. pl."
+       },
+       {
+        "w": "akāsanneṣu",
+        "gloss": "unclear",
+        "gram": ""
+       }
+      ]
+     },
+     {
+      "src": "dvāraiḥ",
+      "words": [
+       {
+        "w": "dvāraiḥ",
+        "gloss": "by doors, openings (dvāra)",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "srotaḥsu",
+      "words": [
+       {
+        "w": "srotaḥsu",
+        "gloss": "in the srotas (channels)",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūyānprathamataṃ",
+      "words": [
+       {
+        "w": "bhūyān",
+        "gloss": "the greater (part)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "prathamataḥ",
+        "gloss": "first (conjecture for printed prathamataṃ)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cānveti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anveti",
+        "gloss": "follows",
+        "gram": "3 sg. pres. anu-√i"
+       }
+      ]
+     },
+     {
+      "src": "paryāyaiṇetareṣvapi",
+      "words": [
+       {
+        "w": "paryāyeṇa",
+        "gloss": "by turns (conjecture for printed paryāyaiṇa)",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "itareṣu",
+        "gloss": "in the others",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: निगले जाते ही आहार की कण्ठनाड़ी यानी सम्भवतः अन्ननलिका से होकर प्लुति यानी तेज़ बहाव होता है; उसके महानिम्न यानी सम्भवतः उदर-गुहा में उतर जाने पर जो-जो अंश कायाग्नि यानी शरीर की अग्नि से चाटा गया है, वह पाक को पहुँचाया जाता है; उस-उस अंश का ही प्रसाद यानी निर्मल सार नामक रस का लेश, उत्पन्न होने के तुरन्त बाद, सभी धातुओं में समान रूप से, बन्द और खुले से, द्वारों द्वारा, खुले मुख वाले, अकासन्नेषु अस्पष्ट शब्द, स्रोतसों में फैलकर, अधिक भाग पहले जाता है और बारी-बारी से अन्य में भी अनुसरण करता है।",
+  "english": "On a conjectural reading: Of food, just as it is swallowed, there is the rush (pluti) through the throat-tube (kaṇṭha-nāḍī, probably the gullet); of that, having descended into the great hollow (mahānimna, probably the abdominal cavity), whichever part is licked over by the bodily fire (kāyāgni) is brought to cooking; of each such part alone, a trace of rasa called prasāda (clear essence), immediately upon its production, spread equally into all the dhātus by the enclosed and open (ones), through the doors, into the srotas with open mouths akāsanneṣu (unclear); the greater (part) goes first, and by turns follows in the others also.",
+  "text_flags": [
+   {
+    "src": "abhyavahṛtamātrasyāhārasyakaṃṭhanāḍīplutistasya",
+    "suggest": "abhyavahṛtamātrasyāhārasya kaṃṭhanāḍīplutis tasya",
+    "why": "words not separated in print; no sandhi applies at the junction between āhārasya and kaṃṭha-"
+   },
+   {
+    "src": "mahānimna",
+    "suggest": "mahānimnam",
+    "why": "the final m is printed on the next token ('mavatīrṇasya'); a misplaced space"
+   },
+   {
+    "src": "mavatīrṇasya",
+    "suggest": "avatīrṇasya",
+    "why": "the initial m belongs to the preceding mahānimna (mahānimnam avatīrṇasya); misplaced space"
+   },
+   {
+    "src": "kāyāgninā'blīḍhaḥ",
+    "suggest": "kāyāgninā'valīḍhaḥ",
+    "why": "possible: 'blīḍha' is not a word; avalīḍha (licked over, touched) fits (b/v interchange in this print, vowel dropped); ālīḍha is an alternative"
+   },
+   {
+    "src": "rasleśo'bhinirvattisamanaṃtaraṃ",
+    "suggest": "rasaleśo'bhinirvṛttisamanantaraṃ",
+    "why": "possible: rasleśo has lost its a (rasa-leśaḥ); abhinirvatti has lost its ṛ (abhinirvṛtti); also rtt/tt spelling"
+   },
+   {
+    "src": "pravissṛto",
+    "suggest": "pravisṛto",
+    "why": "possible: doubled s; pravisṛta (spread out)"
+   },
+   {
+    "src": "vivṛtamukheṣvakāsanneṣu",
+    "suggest": "vivṛtamukheṣv āsanneṣu",
+    "why": "damaged: 'akāsanneṣu' is not a word; possibly 'āsanneṣu' (near) with a stray ka; left unsplit as unclear"
+   },
+   {
+    "src": "bhūyānprathamataṃ",
+    "suggest": "bhūyān prathamataḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between bhūyān and prathamataṃ; and printed final ṃ for ḥ (possible)"
+   },
+   {
+    "src": "paryāyaiṇetareṣvapi",
+    "suggest": "paryāyeṇetareṣv api",
+    "why": "possible: 'paryāyaiṇa' is not a form; paryāyeṇa (instrumental, 'by turns') + itareṣu + api"
+   }
+  ],
+  "notes": "Confidence low; heavily damaged. Conjectures adopted in `words` (hence the conjectural mark in both translations): avalīḍhaḥ, rasa-leśaḥ, abhinirvṛtti, pravisṛtaḥ, prathamataḥ, paryāyeṇa. Left unclear: 'akāsanneṣu' (guess in the flag only). The construction after 'pravisṛtaḥ' is uncertain: 'saṃvṛtāsaṃvṛtaiḥ' (by the enclosed and open ones) and 'dvāraiḥ' (by the doors) are both instrumental; 'vivṛtamukheṣu ... srotaḥsu' = in the srotas with open mouths. 'plutiḥ' is rendered 'rush' (leap, passage). 'mahānimna' = great hollow, probably the stomach/belly cavity (hedged). 'kaṇṭhanāḍī' = throat-tube, probably the gullet. 'bhūyān' (the greater) is read as the greater part of that rasa-trace. GROUPING: appears to continue the description introduced in unit 135 ('others describe').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.136"
+  ],
+  "lines_deva": [
+   "अभ्यवहृतमात्रस्याहारस्यकंठनाडीप्लुतिस्तस्य महानिम्न मवतीर्णस्य यो य एवांशः कायाग्निनाऽब्लीढः पाकमुपनीयते तस्य तस्यैव प्रसादाख्यो रस्लेशोऽभिनिर्वत्तिसमनंतरं समं समस्तधातुषु संवृतासंवृतैः प्रविस्सृतो विवृतमुखेष्वकासन्नेषु द्वारैः स्रोतःसु भूयान्प्रथमतं चान्वेति पर्यायैणेतरेष्वपि"
+  ],
+  "lines_iast": [
+   "abhyavahṛtamātrasyāhārasyakaṃṭhanāḍīplutistasya mahānimna mavatīrṇasya yo ya evāṃśaḥ kāyāgninā'blīḍhaḥ pākamupanīyate tasya tasyaiva prasādākhyo rasleśo'bhinirvattisamanaṃtaraṃ samaṃ samastadhātuṣu saṃvṛtāsaṃvṛtaiḥ pravissṛto vivṛtamukheṣvakāsanneṣu dvāraiḥ srotaḥsu bhūyānprathamataṃ cānveti paryāyaiṇetareṣvapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evamantarasaeva",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "anna-rasaḥ",
+        "gloss": "food (anna); rasa (conjecture for printed anta-rasa)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "itself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sākṣātsarvadhātūn",
+      "words": [
+       {
+        "w": "sākṣāt",
+        "gloss": "directly",
+        "gram": "ind."
+       },
+       {
+        "w": "sarva-dhātūn",
+        "gloss": "all; dhātus",
+        "gram": "karmadhāraya, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kenacideva",
+      "words": [
+       {
+        "w": "kenacit",
+        "gloss": "by some",
+        "gram": "m./n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālabhedena",
+      "words": [
+       {
+        "w": "kāla-bhedena",
+        "gloss": "time (kāla); difference (bheda)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣṇāti",
+      "words": [
+       {
+        "w": "puṣṇāti",
+        "gloss": "nourishes",
+        "gram": "3 sg. pres. √puṣ (9th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: इस प्रकार अन्न-रस ही सीधे सभी धातुओं का, केवल किसी काल-भेद से, पोषण करता है।",
+  "english": "On a conjectural reading: Thus the food-rasa itself directly nourishes all the dhātus, by only some difference of time.",
+  "text_flags": [
+   {
+    "src": "evamantarasaeva",
+    "suggest": "evam annarasa eva",
+    "why": "possible: printed 'antarasa' = anta-rasa; anna-rasa (food-rasa) fits (ta/na confusion, seen elsewhere in this book) and matches āhāra-rasa in unit 119; 'rasa eva' is regular hiatus"
+   },
+   {
+    "src": "sākṣātsarvadhātūn",
+    "suggest": "sākṣāt sarvadhātūn",
+    "why": "words not separated in print; no sandhi applies at the junction (t before s is unchanged)"
+   }
+  ],
+  "notes": "'anna-rasa' is a conjecture for printed 'antarasa'; the printed form read as anta-rasa ('end rasa') or antara-rasa ('inner rasa') does not suit as well. 'kenacid eva kālabhedena' = by just some difference of time (literal).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.137"
+  ],
+  "lines_deva": [
+   "एवमन्तरसएव साक्षात्सर्वधातून् केनचिदेव कालभेदेन पुष्णाति"
+  ],
+  "lines_iast": [
+   "evamantarasaeva sākṣātsarvadhātūn kenacideva kālabhedena puṣṇāti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punardhātavo",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "dhātavaḥ",
+        "gloss": "dhātus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhātvaṃtaratāṃ",
+      "words": [
+       {
+        "w": "dhātu-antara-tām",
+        "gloss": "dhātu; other (antara); state of (tā)",
+        "gram": "tat-puruṣa + abstract suffix, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svarūpopamardena",
+      "words": [
+       {
+        "w": "sva-rūpa-upamardena",
+        "gloss": "own (sva); form (rūpa); crushing, destruction (upamarda)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratipadyaṃtaiti",
+      "words": [
+       {
+        "w": "pratipadyante",
+        "gloss": "pass into, attain",
+        "gram": "3 pl. pres. prati-√pad"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु धातु अपने स्वरूप के उपमर्द यानी कुचले जाने से दूसरी धातु की अवस्था को प्राप्त नहीं होते।",
+  "english": "But the dhātus do not pass into the state of another dhātu through the crushing (upamarda) of their own form.",
+  "text_flags": [],
+  "notes": "'iti' marks the end of the statement (the view of 'others', units 135-138; appears to be the end of that view) and is not translated. 'pratipadyanta iti' = pratipadyante + iti (regular, printed 'taiti').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.138"
+  ],
+  "lines_deva": [
+   "न पुनर्धातवो धात्वंतरतां स्वरूपोपमर्देन प्रतिपद्यंतइति"
+  ],
+  "lines_iast": [
+   "na punardhātavo dhātvaṃtaratāṃ svarūpopamardena pratipadyaṃtaiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnistu",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "agni, digestive fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balabhedenacaturvidho",
+      "words": [
+       {
+        "w": "bala-bhedena",
+        "gloss": "strength (bala); difference (bheda)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "catur-vidhaḥ",
+        "gloss": "fourfold",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "samo",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "sama, even",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣamastīkṣṇo",
+      "words": [
+       {
+        "w": "viṣamaḥ",
+        "gloss": "viṣama, uneven",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tīkṣṇaḥ",
+        "gloss": "tīkṣṇa, sharp",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṃdaśca",
+      "words": [
+       {
+        "w": "mandaḥ",
+        "gloss": "manda, slow",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि यानी पाचन-अग्नि तो बल के भेद से चार प्रकार की होती है: सम यानी समान, विषम यानी असमान, तीक्ष्ण यानी तेज़ और मन्द यानी धीमी।",
+  "english": "Agni (digestive fire), however, is of four kinds by difference of strength: sama (even), viṣama (uneven), tīkṣṇa (sharp) and manda (slow).",
+  "text_flags": [
+   {
+    "src": "balabhedenacaturvidho",
+    "suggest": "balabhedena caturvidho",
+    "why": "words not separated in print; no sandhi applies at the junction between balabhedena and caturvidhaḥ"
+   }
+  ],
+  "notes": "agni = digestive fire (the sense in this passage). The four names are kept with plain glosses.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.139"
+  ],
+  "lines_deva": [
+   "अग्निस्तु बलभेदेनचतुर्विधो भवति समो विषमस्तीक्ष्णो मंदश्च"
+  ],
+  "lines_iast": [
+   "agnistu balabhedenacaturvidho bhavati samo viṣamastīkṣṇo maṃdaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samo",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "sama, even",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samyagevopayuktamannaṃ",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "upayuktam",
+        "gloss": "taken, eaten",
+        "gram": "ppp. upa-√yuj, n. acc. sg."
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samyak",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pacati",
+      "words": [
+       {
+        "w": "pacati",
+        "gloss": "digests, cooks",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें सम वह है जो ठीक से ही खाए गए अन्न को ठीक से पचाती है।",
+  "english": "Among these, the sama (even) one is that which properly digests food that has been taken properly alone.",
+  "text_flags": [],
+  "notes": "Copula understood. The subject (agni) is carried from unit 139. Tokens 'samyagevopayuktamannaṃ' = samyak eva upayuktam annam (regular sandhi).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.140"
+  ],
+  "lines_deva": [
+   "तत्र समो यः सम्यगेवोपयुक्तमन्नं सम्यक् पचति"
+  ],
+  "lines_iast": [
+   "tatra samo yaḥ samyagevopayuktamannaṃ samyak pacati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "141",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣamo",
+      "words": [
+       {
+        "w": "viṣamaḥ",
+        "gloss": "viṣama, uneven",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'samyagapyupayuktaṃ",
+      "words": [
+       {
+        "w": "asamyak",
+        "gloss": "improperly",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "upayuktam",
+        "gloss": "taken, eaten",
+        "gram": "ppp. upa-√yuj, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pacati",
+      "words": [
+       {
+        "w": "pacati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     },
+     {
+      "src": "samyagapica",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pacati",
+      "words": [
+       {
+        "w": "pacati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विषम अग्नि अनुचित रीति से खाए हुए को भी पचा लेती है और ठीक से खाए हुए को भी नहीं पचाती।",
+  "english": "The viṣama (uneven) one digests even what is improperly taken, and even when properly (taken) does not digest.",
+  "text_flags": [
+   {
+    "src": "samyagapica",
+    "suggest": "samyag api ca",
+    "why": "words not separated in print; no sandhi applies at the junction between api and ca"
+   }
+  ],
+  "notes": "The object is not stated (annam of unit 140 understood); no noun supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.141"
+  ],
+  "lines_deva": [
+   "विषमो ऽसम्यगप्युपयुक्तं पचति सम्यगपिच न पचति"
+  ],
+  "lines_iast": [
+   "viṣamo 'samyagapyupayuktaṃ pacati samyagapica na pacati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "142",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīkṣṇo",
+      "words": [
+       {
+        "w": "tīkṣṇaḥ",
+        "gloss": "tīkṣṇa, sharp",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'samyagapyupayuktamāśu",
+      "words": [
+       {
+        "w": "asamyak",
+        "gloss": "improperly",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "upayuktam",
+        "gloss": "taken, eaten",
+        "gram": "ppp. upa-√yuj, n. acc. sg."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pacati",
+      "words": [
+       {
+        "w": "pacati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vardhamāno'tyagnirbhavati",
+      "words": [
+       {
+        "w": "vardhamānaḥ",
+        "gloss": "increasing",
+        "gram": "pres. part. √vṛdh, m. nom. sg."
+       },
+       {
+        "w": "atyagniḥ",
+        "gloss": "atyagni, excessive fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीक्ष्ण अग्नि अनुचित रीति से खाए हुए को भी शीघ्र पचा देती है; वही बढ़ती हुई अत्यग्नि यानी अत्यधिक अग्नि हो जाती है।",
+  "english": "The tīkṣṇa (sharp) one digests quickly even what is improperly taken; that very one, increasing, becomes atyagni (excessive fire).",
+  "text_flags": [],
+  "notes": "atyagni (ati-agni) is kept as a term with the plain gloss 'excessive fire'; the text does not describe it further here.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.142"
+  ],
+  "lines_deva": [
+   "तीक्ष्णो ऽसम्यगप्युपयुक्तमाशु पचति स एव वर्धमानोऽत्यग्निर्भवति"
+  ],
+  "lines_iast": [
+   "tīkṣṇo 'samyagapyupayuktamāśu pacati sa eva vardhamāno'tyagnirbhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "143",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maṃdastu",
+      "words": [
+       {
+        "w": "mandaḥ",
+        "gloss": "manda, slow",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyagapyupayuktamudaragauravādhmānavibaṃdhāṭopāṃtrakūjanamukhaśoṣapāyustaṃbhādīnyāmaliṃgāni",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "upayuktam",
+        "gloss": "taken, eaten",
+        "gram": "ppp. upa-√yuj, n. acc. sg."
+       },
+       {
+        "w": "udara-gaurava-ādhmāna-vibandha-āṭopa-āntra-kūjana-mukha-śoṣa-pāyu-stambha-ādīni",
+        "gloss": "belly (udara); heaviness (gaurava); flatulent distension (ādhmāna); constipation (vibandha); gurgling (āṭopa); intestinal murmuring (āntra-kūjana); dryness (śoṣa) of the mouth (mukha); stiffness (stambha) of the anus (pāyu); and the like (ādi)",
+        "gram": "dvandva + ādi, n. acc. pl."
+       },
+       {
+        "w": "āma-liṅgāni",
+        "gloss": "signs (liṅga) of āma (raw, undigested; standard)",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśayitvā",
+      "words": [
+       {
+        "w": "darśayitvā",
+        "gloss": "having shown",
+        "gram": "abs. caus. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "cirātpacati",
+      "words": [
+       {
+        "w": "cirāt",
+        "gloss": "after a long time",
+        "gram": "ind. (abl.)"
+       },
+       {
+        "w": "pacati",
+        "gloss": "digests",
+        "gram": "3 sg. pres. √pac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्द तो ठीक से भी खाए हुए को उदर का भारीपन, आध्मान यानी पेट फूलना, विबन्ध यानी मल का रुकना, आटोप यानी गड़गड़ाहट, आन्त्र-कूजन यानी आँतों की आवाज़, मुख का सूखना, पायु यानी गुदा की जकड़न आदि आम यानी अपक्व कच्चे के लक्षण दिखाकर देर से पचाती है।",
+  "english": "The manda (slow) one, even what is properly taken, after showing the signs of āma (raw, undigested) — heaviness of the belly, flatulent distension (ādhmāna), constipation (vibandha), gurgling (āṭopa), intestinal murmuring (āntra-kūjana), dryness of the mouth, stiffness of the anus (pāyu) and the like — digests after a long time.",
+  "text_flags": [
+   {
+    "src": "cirātpacati",
+    "suggest": "cirāt pacati",
+    "why": "words not separated in print; no sandhi applies at the junction (t before p is unchanged)"
+   }
+  ],
+  "notes": "The long compound is read as one dvandva of seven items followed by 'ādi' (and the like); 'udara-gaurava' is taken as 'heaviness of the belly' (udara = belly, not the disease), though 'udara' and 'gaurava' could be two items. āma = raw, undigested stuff (standard); the exact items are as printed. ādhmāna is neuter.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.143"
+  ],
+  "lines_deva": [
+   "मंदस्तु सम्यगप्युपयुक्तमुदरगौरवाध्मानविबंधाटोपांत्रकूजनमुखशोषपायुस्तंभादीन्यामलिंगानि दर्शयित्वा चिरात्पचति"
+  ],
+  "lines_iast": [
+   "maṃdastu samyagapyupayuktamudaragauravādhmānavibaṃdhāṭopāṃtrakūjanamukhaśoṣapāyustaṃbhādīnyāmaliṃgāni darśayitvā cirātpacati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "144",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bāhyenāpi",
+      "words": [
+       {
+        "w": "bāhyena",
+        "gloss": "by external",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jvālāṃgārātmakenāgninā",
+      "words": [
+       {
+        "w": "jvālā-aṅgāra-ātmakena",
+        "gloss": "flame (jvālā); embers (aṅgāra); consisting of (ātmaka)",
+        "gram": "dvandva + bahuvrīhi, m. inst. sg."
+       },
+       {
+        "w": "agninā",
+        "gloss": "by fire",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "naikākāraḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eka-ākāraḥ",
+        "gloss": "one (eka); form (ākāra)",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvadā",
+      "words": [
+       {
+        "w": "sarvadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pākobhavati",
+      "words": [
+       {
+        "w": "pākaḥ",
+        "gloss": "cooking (pāka)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "kimutāṃtarāśrayeṇoṣmamanā",
+      "words": [
+       {
+        "w": "kimuta",
+        "gloss": "how much more, what to say of",
+        "gram": "ind."
+       },
+       {
+        "w": "antara-āśrayeṇa",
+        "gloss": "inner (antara); lodged (āśraya)",
+        "gram": "karmadhāraya, m. inst. sg."
+       },
+       {
+        "w": "ūṣmaṇā",
+        "gloss": "by heat (conjecture for printed ṣmamanā)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samenāpi",
+      "words": [
+       {
+        "w": "samena",
+        "gloss": "by the even (sama)",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasmāttaṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayatnato",
+      "words": [
+       {
+        "w": "prayatnataḥ",
+        "gloss": "with effort",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣet",
+      "words": [
+       {
+        "w": "rakṣet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: ज्वाला और अंगारे वाली बाहरी अग्नि से भी पाक सदा एक ही रूप का नहीं होता; तो भीतर आश्रित ऊष्मा से, सम होने पर भी, कहना ही क्या; इसलिए उसकी प्रयत्न से रक्षा करनी चाहिए।",
+  "english": "On a conjectural reading: Even with external fire consisting of flame and embers, cooking is not always of one form; what to say of the heat lodged within, even when it is even (sama)! Therefore one should protect it with effort.",
+  "text_flags": [
+   {
+    "src": "kimutāṃtarāśrayeṇoṣmamanā",
+    "suggest": "kimutāntarāśrayeṇoṣmaṇā",
+    "why": "possible: 'oṣmamanā' is not a form; ūṣmaṇā (by heat) fits, with a doubled syllable (ma) in print; the agni of the preceding units is the heat meant"
+   },
+   {
+    "src": "tasmāttaṃ",
+    "suggest": "tasmāt taṃ",
+    "why": "words not separated in print; no sandhi applies at the junction (t before t is unchanged)"
+   }
+  ],
+  "notes": "ūṣmaṇā is a conjecture adopted in `words` (hence the conjectural mark). 'tam' (it) is a stated pronoun, taken as the agni. 'kimuta' is read as a rhetorical 'how much more / what to say of'. 'samena' agrees with ūṣman (even, steady). 'pākobhavati' = pākaḥ bhavati (regular sandhi).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.144"
+  ],
+  "lines_deva": [
+   "बाह्येनापि च ज्वालांगारात्मकेनाग्निना नैकाकारः सर्वदा पाकोभवति किमुतांतराश्रयेणोष्ममना समेनापि तस्मात्तं प्रयत्नतो रक्षेत्"
+  ],
+  "lines_iast": [
+   "bāhyenāpi ca jvālāṃgārātmakenāgninā naikākāraḥ sarvadā pākobhavati kimutāṃtarāśrayeṇoṣmamanā samenāpi tasmāttaṃ prayatnato rakṣet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "145",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these, therein",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravareṇa",
+      "words": [
+       {
+        "w": "pravareṇa",
+        "gloss": "by the best (pravara)",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sātmyena",
+      "words": [
+       {
+        "w": "sātmyena",
+        "gloss": "by what is suited (sātmya)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samaṃ",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "equally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvamavareṇetarān",
+      "words": [
+       {
+        "w": "yathāsvam",
+        "gloss": "each according to its own",
+        "gram": "ind."
+       },
+       {
+        "w": "avareṇa",
+        "gloss": "by the lesser (avara)",
+        "gram": "m./n. inst. sg."
+       },
+       {
+        "w": "itarān",
+        "gloss": "the others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kramaśaḥ",
+      "words": [
+       {
+        "w": "kramaśaḥ",
+        "gloss": "gradually",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmyamāpādya",
+      "words": [
+       {
+        "w": "sāmyam",
+        "gloss": "equality",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpādya",
+        "gloss": "having brought to",
+        "gram": "abs. caus. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "pravareṇa",
+      "words": [
+       {
+        "w": "pravareṇa",
+        "gloss": "by the best (pravara)",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripālayeddoṣopakramaṇīyoktena",
+      "words": [
+       {
+        "w": "paripālayet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. pari-√pāl"
+       },
+       {
+        "w": "doṣa-upakramaṇīya-uktena",
+        "gloss": "doṣa; treatment (upakramaṇīya, probably a section or chapter title); stated (ukta)",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātādisādhanena",
+      "words": [
+       {
+        "w": "vāta-ādi-sādhanena",
+        "gloss": "Vāta; and the like (ādi); remedy, means (sādhana)",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "grahaṇīrogavihitaiścauṣadhavyāyāmayogairiti",
+      "words": [
+       {
+        "w": "grahaṇī-roga-vihitaiḥ",
+        "gloss": "grahaṇī (probably a digestive disorder); disease (roga); prescribed (vihita)",
+        "gram": "tat-puruṣa, inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadha-vyāyāma-yogaiḥ",
+        "gloss": "medicine (auṣadha); exercise (vyāyāma); combination (yoga)",
+        "gram": "dvandva + tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ श्रेष्ठ सात्म्य यानी अनुकूल के साथ समान रूप से, अपने-अपने अनुसार निम्न के द्वारा अन्य को क्रमशः समता तक पहुँचाकर, श्रेष्ठ के द्वारा रक्षा करे — दोषोपक्रमणीय यानी सम्भवतः दोष-चिकित्सा के अध्याय में कहे वात आदि के साधन से और ग्रहणी रोग यानी सम्भवतः पाचन के विकार में बताए औषध और व्यायाम के योगों से।",
+  "english": "Therein, equally with the best sātmya (what suits), each according to its own, having brought the others gradually to equality by means of the lesser (avara), one should protect (it) with the best (pravara), by the remedy for Vāta and the like stated in the doṣa-treatment section (doṣopakramaṇīya, probably a chapter title), and by the combinations of medicines and exercises prescribed in grahaṇī disease (grahaṇī-roga, probably a digestive disorder).",
+  "text_flags": [],
+  "notes": "Confidence low: the sentence is elliptical. 'pravareṇa sātmyena samam', 'avareṇa itarān' and the second 'pravareṇa' are all instrumentals whose exact roles (sātmya of food and conduct? the stronger and weaker agnis?) are not stated; the translation keeps them literal. 'samam' is read as 'equally' (alternatives: 'together with'). 'doṣopakramaṇīya' is read as a reference to a section on doṣa treatment (probably a chapter title elsewhere in the work; not verified). Closing 'iti' marks the end of the statement. 'it' in 'protect (it)' is the agni, not stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.145"
+  ],
+  "lines_deva": [
+   "तत्र प्रवरेण सात्म्येन समं यथास्वमवरेणेतरान् क्रमशः साम्यमापाद्य प्रवरेण परिपालयेद्दोषोपक्रमणीयोक्तेन च वातादिसाधनेन ग्रहणीरोगविहितैश्चौषधव्यायामयोगैरिति"
+  ],
+  "lines_iast": [
+   "tatra pravareṇa sātmyena samaṃ yathāsvamavareṇetarān kramaśaḥ sāmyamāpādya pravareṇa paripālayeddoṣopakramaṇīyoktena ca vātādisādhanena grahaṇīrogavihitaiścauṣadhavyāyāmayogairiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "146",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there are",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "on this matter",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में ये हैं:",
+  "english": "And on this matter there are:",
+  "text_flags": [],
+  "notes": "Lead-in formula; the verses that follow (unit 147 onward) appear to be its content; no break is asserted.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.146"
+  ],
+  "lines_deva": [
+   "भवति चात्र"
+  ],
+  "lines_iast": [
+   "bhavati cātra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "147",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svadhātusamavarṇāṃni",
+      "words": [
+       {
+        "w": "sva-dhātu-sama-varṇāni",
+        "gloss": "own (sva); dhātu; equal (sama); colour (varṇa)",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛttasthūlānyaṇūni",
+      "words": [
+       {
+        "w": "vṛtta-sthūlāni",
+        "gloss": "round (vṛtta); thick (sthūla)",
+        "gram": "dvandva, n. nom. pl."
+       },
+       {
+        "w": "aṇūni",
+        "gloss": "fine, minute (aṇu)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने धातु के समान रंग वाले, गोल, मोटे और बारीक।",
+  "english": "Equal in colour to their own dhātu, round, thick and fine (ones).",
+  "text_flags": [
+   {
+    "src": "svadhātusamavarṇāṃni",
+    "suggest": "svadhātusamavarṇāni",
+    "why": "printed anusvāra before n (varṇāṃni); varṇāni (neuter plural)"
+   }
+  ],
+  "notes": "The nouns described (the srotas) are named in unit 148 (srotāṃsi); this unit has no subject of its own. GROUPING: appears to continue in unit 148. The three adjectives are read as a list ('round, thick and fine').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.147"
+  ],
+  "lines_deva": [
+   "स्वधातुसमवर्णांनि वृत्तस्थूलान्यणूनि च"
+  ],
+  "lines_iast": [
+   "svadhātusamavarṇāṃni vṛttasthūlānyaṇūni ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "148",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "srotāṃsi",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "srotas, channels",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dīrghāṇyākṛtyā",
+      "words": [
+       {
+        "w": "dīrghāṇi",
+        "gloss": "long",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ākṛtyā",
+        "gloss": "in form",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratānasadṛśāni",
+      "words": [
+       {
+        "w": "pratāna-sadṛśāni",
+        "gloss": "tendril (pratāna; probable); like (sadṛśa)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्रोतस् आकृति में लम्बे हैं और प्रतान यानी सम्भवतः लता के तन्तु के समान हैं।",
+  "english": "The srotas (channels) are long in form and like tendrils (pratāna, probably tendrils of a creeper).",
+  "text_flags": [],
+  "notes": "Copula understood. pratāna: 'tendril, creeper-filament' is probable; 'extension' is another sense of the word. The subject srotāṃsi is the subject also of the adjectives in unit 147 (appears to continue from there).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.148"
+  ],
+  "lines_deva": [
+   "स्रोतांसि दीर्घाण्याकृत्या प्रतानसदृशानि च"
+  ],
+  "lines_iast": [
+   "srotāṃsi dīrghāṇyākṛtyā pratānasadṛśāni ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "149",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āhāraśca",
+      "words": [
+       {
+        "w": "āhāraḥ",
+        "gloss": "food",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihāraśca",
+      "words": [
+       {
+        "w": "vihāraḥ",
+        "gloss": "conduct, regimen (vihāra)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāddoṣaguṇaiḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "doṣa-guṇaiḥ",
+        "gloss": "doṣa; qualities (guṇa)",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "samaḥ",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "equal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आहार और विहार यानी आचरण या दिनचर्या, जो दोषों के गुणों के समान हो,",
+  "english": "Food and also conduct (vihāra), whichever would be equal to the doṣas in qualities,",
+  "text_flags": [],
+  "notes": "Sentence continues in unit 150 (GROUPING: appears to continue there): 'and that which is unlike the dhātus ... is the defiler of the srotas'. 'yaḥ' is masculine singular for the two nouns; rendered 'whichever'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.149"
+  ],
+  "lines_deva": [
+   "आहारश्च विहारश्च यः स्याद्दोषगुणैः समः"
+  ],
+  "lines_iast": [
+   "āhāraśca vihāraśca yaḥ syāddoṣaguṇaiḥ samaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "150",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhātubhirviguṇo",
+      "words": [
+       {
+        "w": "dhātubhiḥ",
+        "gloss": "by the dhātus",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "viguṇaḥ",
+        "gloss": "unlike in quality (viguṇa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaśca",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srotasāṃ",
+      "words": [
+       {
+        "w": "srotasām",
+        "gloss": "of the srotas",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradūṣakaḥ",
+      "words": [
+       {
+        "w": "pradūṣakaḥ",
+        "gloss": "defiler (pradūṣaka)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो धातुओं से भिन्न गुण वाला हो, वह स्रोतसों को दूषित करने वाला है।",
+  "english": "and whichever is unlike the dhātus in quality (viguṇa), that is the defiler (pradūṣaka) of the srotas.",
+  "text_flags": [],
+  "notes": "viguṇa is read as 'unlike in quality' with the instrumental dhātubhiḥ; 'deviant, defective in quality' is an alternative. Appears to continue the sentence of unit 149.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.150"
+  ],
+  "lines_deva": [
+   "धातुभिर्विगुणो यश्च स्रोतसां स प्रदूषकः"
+  ],
+  "lines_iast": [
+   "dhātubhirviguṇo yaśca srotasāṃ sa pradūṣakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "151",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atipravṛttiḥ",
+      "words": [
+       {
+        "w": "atipravṛttiḥ",
+        "gloss": "excessive flow (atipravṛtti)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃgo",
+      "words": [
+       {
+        "w": "saṅgaḥ",
+        "gloss": "obstruction (saṅga)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sirāṇāṃgraṃthayo'pi",
+      "words": [
+       {
+        "w": "sirāṇām",
+        "gloss": "of the vessels (sirā; probably veins)",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "granthayaḥ",
+        "gloss": "knots (granthi)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अतिप्रवृत्ति यानी अत्यधिक प्रवाह, या रुकावट, या सिराओं यानी सम्भवतः नसों की गाँठें भी,",
+  "english": "Excessive flow (atipravṛtti), or obstruction (saṅga), or also knots (granthi) of the vessels (sirā, probably veins),",
+  "text_flags": [
+   {
+    "src": "sirāṇāṃgraṃthayo'pi",
+    "suggest": "sirāṇāṃ graṃthayo'pi",
+    "why": "words not separated in print; no sandhi applies at the junction (anusvāra before g) between sirāṇām and granthayaḥ"
+   }
+  ],
+  "notes": "Continues in unit 152 (appears to continue). 'saṃgo' = saṅgaḥ (anusvāra for ṅ, orthographic).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.151"
+  ],
+  "lines_deva": [
+   "अतिप्रवृत्तिः संगो वा सिराणांग्रंथयोऽपि वा"
+  ],
+  "lines_iast": [
+   "atipravṛttiḥ saṃgo vā sirāṇāṃgraṃthayo'pi vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "152",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vimārgapto",
+      "words": [
+       {
+        "w": "vimārgapto",
+        "gloss": "unclear",
+        "gram": ""
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gamanaṃ",
+      "words": [
+       {
+        "w": "gamanam",
+        "gloss": "going, movement",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "srotasāṃ",
+      "words": [
+       {
+        "w": "srotasām",
+        "gloss": "of the srotas",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "duṣṭilakṣaṇaṃ",
+      "words": [
+       {
+        "w": "duṣṭi-lakṣaṇam",
+        "gloss": "vitiation (duṣṭi); sign (lakṣaṇa)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विमार्गप्तो अस्पष्ट शब्द या गमन — स्रोतसों की दुष्टि यानी दूषित होने का लक्षण।",
+  "english": "vimārgapto (unclear) or going: the sign of the vitiation (duṣṭi) of the srotas.",
+  "text_flags": [
+   {
+    "src": "vimārgapto",
+    "suggest": "vimārgaprāpto",
+    "why": "damaged: not a word as printed; possibly vimārga-prāptaḥ ('having reached a wrong path'), or a garbling of vimārga-gamanaṃ ('going by a wrong path') of a parallel list; left unsplit as unclear"
+   }
+  ],
+  "notes": "Damaged print: 'vimārgapto' kept unsplit as unclear (guess only here and in the flag, not adopted). The first element looks like 'vimārga' (wrong path). Items of units 151-152 are the signs of vitiated srotas as printed. Confidence low for the damaged word only.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.152"
+  ],
+  "lines_deva": [
+   "विमार्गप्तो वा गमनं स्रोतसां दुष्टिलक्षणं"
+  ],
+  "lines_iast": [
+   "vimārgapto vā gamanaṃ srotasāṃ duṣṭilakṣaṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "153",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bisānāmiva",
+      "words": [
+       {
+        "w": "bisānām",
+        "gloss": "of lotus stalks (bisa; Nelumbo nucifera, standard)",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmāṇi",
+      "words": [
+       {
+        "w": "sūkṣmāṇi",
+        "gloss": "fine",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dūraṃ",
+      "words": [
+       {
+        "w": "dūram",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viprasṛtāni",
+      "words": [
+       {
+        "w": "viprasṛtāni",
+        "gloss": "spread out",
+        "gram": "ppp. vi-pra-√sṛ, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिस यानी कमलनालों के समान सूक्ष्म और दूर तक फैले हुए।",
+  "english": "Fine like (those) of lotus stalks (bisa), and spread far.",
+  "text_flags": [],
+  "notes": "The noun described is not stated in this unit; the neuter plural fits 'dvārāṇi' (openings) of unit 154 (GROUPING: appears to continue there). 'bisānām iva' is rendered 'like (those) of lotus stalks'; bisa = lotus stalk or root fibre.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.153"
+  ],
+  "lines_deva": [
+   "बिसानामिव सूक्ष्माणि दूरं विप्रसृतानि च"
+  ],
+  "lines_iast": [
+   "bisānāmiva sūkṣmāṇi dūraṃ viprasṛtāni ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "154",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvārāṇi",
+      "words": [
+       {
+        "w": "dvārāṇi",
+        "gloss": "openings, doors (dvāra)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "srotasāṃ",
+      "words": [
+       {
+        "w": "srotasām",
+        "gloss": "of the srotas",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasoyairupacīyate",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "rasa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "yaiḥ",
+        "gloss": "by which",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "upacīyate",
+        "gloss": "is built up, increases",
+        "gram": "3 sg. pass. upa-√ci"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देह में स्रोतसों के द्वार, जिनसे रस का उपचय यानी वृद्धि होती है।",
+  "english": "The openings (dvāra) of the srotas in the body, by which rasa is built up.",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.154"
+  ],
+  "lines_deva": [
+   "द्वाराणि स्रोतसां देहे रसोयैरुपचीयते"
+  ],
+  "lines_iast": [
+   "dvārāṇi srotasāṃ dehe rasoyairupacīyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "155",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kecidāhurahorātrāt",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "say",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "ahorātrāt",
+        "gloss": "from a day and night",
+        "gram": "dvandva, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍahādapare",
+      "words": [
+       {
+        "w": "ṣaḍ-ahāt",
+        "gloss": "from six days",
+        "gram": "dvigu, abl. sg."
+       },
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pare",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "still others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुछ लोग कहते हैं अहोरात्र यानी दिन-रात से, दूसरे षडह यानी छह दिन से, और अन्य।",
+  "english": "Some say from a day and night, others from six days, others still.",
+  "text_flags": [],
+  "notes": "Elliptical: what takes place after these periods is stated in unit 156 (GROUPING: appears to continue there). The period of the third group (pare) is not stated in this unit; unit 156 gives a month and may belong with it.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.155"
+  ],
+  "lines_deva": [
+   "केचिदाहुरहोरात्रात् षडहादपरे परे"
+  ],
+  "lines_iast": [
+   "kecidāhurahorātrāt ṣaḍahādapare pare"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "156",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māsātprayātiśukratvamannaṃ",
+      "words": [
+       {
+        "w": "māsāt",
+        "gloss": "from a month",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "prayāti",
+        "gloss": "goes on to, reaches",
+        "gram": "3 sg. pres. pra-√yā"
+       },
+       {
+        "w": "śukra-tvam",
+        "gloss": "state of śukra (semen)",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pākakramāditi",
+      "words": [
+       {
+        "w": "pāka-kramāt",
+        "gloss": "cooking (pāka); sequence (krama)",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महीने से अन्न पाक के क्रम से शुक्रत्व यानी वीर्य की अवस्था को पहुँचता है।",
+  "english": "From a month, food goes on to the state of śukra (semen), by the sequence of cooking (pāka).",
+  "text_flags": [
+   {
+    "src": "māsātprayātiśukratvamannaṃ",
+    "suggest": "māsāt prayāti śukratvam annaṃ",
+    "why": "words not separated in print; no sandhi applies at the junction between māsāt and prayāti (t before p), and between prayāti and śukratvam (i before ś)"
+   }
+  ],
+  "notes": "Closing 'iti' marks the end of the view; not translated. Appears to continue unit 155 (GROUPING).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.156"
+  ],
+  "lines_deva": [
+   "मासात्प्रयातिशुक्रत्वमन्नं पाकक्रमादिति"
+  ],
+  "lines_iast": [
+   "māsātprayātiśukratvamannaṃ pākakramāditi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "157",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛṣyādīni",
+      "words": [
+       {
+        "w": "vṛṣya-ādīni",
+        "gloss": "virility-promoting (vṛṣya; standard); and the like (ādi)",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvāttu",
+      "words": [
+       {
+        "w": "prabhāvāt",
+        "gloss": "by special potency (prabhāva)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyaḥ",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukrādikurvaṃte",
+      "words": [
+       {
+        "w": "śukra-ādi",
+        "gloss": "śukra (semen); and the like",
+        "gram": "bahuvrīhi, n. acc. sg."
+       },
+       {
+        "w": "kurvante",
+        "gloss": "make",
+        "gram": "3 pl. pres. √kṛ (ātmanepada)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु वृष्य यानी शुक्र बढ़ाने वाले आदि, प्रभाव यानी विशेष शक्ति से तुरन्त शुक्र यानी वीर्य आदि बना देते हैं।",
+  "english": "But those that are vṛṣya (virility-promoting) and the like, through their prabhāva (special potency), at once make śukra (semen) and the like.",
+  "text_flags": [
+   {
+    "src": "prabhāvāttu",
+    "suggest": "prabhāvāt tu",
+    "why": "words not separated in print; no sandhi applies at the junction (t before t is unchanged)"
+   },
+   {
+    "src": "śukrādikurvaṃte",
+    "suggest": "śukrādi kurvaṃte",
+    "why": "words not separated in print; no sandhi applies at the junction between śukrādi and kurvante (i before k)"
+   }
+  ],
+  "notes": "'vṛṣyādīni' is used for an unstated noun (drugs or foods); rendered 'those that are vṛṣya and the like'. prabhāva is kept with a short gloss (a special, not reasoned, potency).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.157"
+  ],
+  "lines_deva": [
+   "वृष्यादीनि प्रभावात्तु सद्यः शुक्रादिकुर्वंते"
+  ],
+  "lines_iast": [
+   "vṛṣyādīni prabhāvāttu sadyaḥ śukrādikurvaṃte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "158",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāyaḥ",
+      "words": [
+       {
+        "w": "prāyaḥ",
+        "gloss": "generally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karotyahorātrādyadanyadapi",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "does, makes",
+        "gram": "3 sg. pres. √kṛ"
+       },
+       {
+        "w": "ahorātrāt",
+        "gloss": "from a day and night",
+        "gram": "dvandva, m. abl. sg."
+       },
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anyat",
+        "gloss": "other",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bheṣajaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "medicine (bheṣaja)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रायः जो अन्य भेषज यानी औषध भी है, वह अहोरात्र से करता है।",
+  "english": "Generally, whatever other medicine (bheṣaja) also does, from a day and night.",
+  "text_flags": [],
+  "notes": "Confidence low: the object of 'karoti' (the making of śukra and the like, unit 157) is not stated and is not supplied. GROUPING: appears to continue unit 157. 'ahorātrāt' is rendered literally ('from a day and night').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.06.158"
+  ],
+  "lines_deva": [
+   "प्रायः करोत्यहोरात्राद्यदन्यदपि भेषजं"
+  ],
+  "lines_iast": [
+   "prāyaḥ karotyahorātrādyadanyadapi bheṣajaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "159",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samaḥ",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "sama, even",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāne",
+      "words": [
+       {
+        "w": "samāne",
+        "gloss": "when Samāna (a wind)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthānasthe",
+      "words": [
+       {
+        "w": "sthāna-sthe",
+        "gloss": "own place (sthāna); standing (stha)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣamo'gniṃvimārgage",
+      "words": [
+       {
+        "w": "viṣamaḥ",
+        "gloss": "viṣama, uneven",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vimārga-ge",
+        "gloss": "wrong path (vimārga); going (ga)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सम तब, जब समान नामक वायु अपने स्थान में स्थित हो; अग्नि विषम तब, जब गलत मार्ग में गया हो।",
+  "english": "Even (sama) when Samāna (a wind) stands in its own place; the fire (agni) is viṣama (uneven) when gone along a wrong path.",
+  "text_flags": [
+   {
+    "src": "viṣamo'gniṃvimārgage",
+    "suggest": "viṣamo'gnir vimārgage",
+    "why": "possible: printed 'gniṃ' for 'gnir' (ṃ for r before v); agniḥ is the subject; also no space between the words"
+   }
+  ],
+  "notes": "Copula understood. The subject of 'samaḥ' (agni) is carried from unit 139. 'vimārgage' agrees with Samāna, unstated; no pronoun supplied. Named wind: Samāna kept with a gloss.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.159"
+  ],
+  "lines_deva": [
+   "समः समाने स्थानस्थे विषमोऽग्निंविमार्गगे"
+  ],
+  "lines_iast": [
+   "samaḥ samāne sthānasthe viṣamo'gniṃvimārgage"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "160",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittābhimūrcchite",
+      "words": [
+       {
+        "w": "pitta-abhimūrcchite",
+        "gloss": "Pitta; overcome (abhimūrcchita)",
+        "gram": "tat-puruṣa, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇo",
+      "words": [
+       {
+        "w": "tīkṣṇaḥ",
+        "gloss": "tīkṣṇa, sharp",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṃdo'sminkaphapīḍite",
+      "words": [
+       {
+        "w": "mandaḥ",
+        "gloss": "manda, slow",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "kapha-pīḍite",
+        "gloss": "Kapha; afflicted (pīḍita)",
+        "gram": "tat-puruṣa, loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीक्ष्ण तब, जब पित्त से आक्रान्त हो; मन्द तब, जब यह कफ से पीड़ित हो।",
+  "english": "Sharp (tīkṣṇa) when overcome by Pitta; slow (manda) when this is afflicted by Kapha.",
+  "text_flags": [
+   {
+    "src": "maṃdo'sminkaphapīḍite",
+    "suggest": "maṃdo'smin kaphapīḍite",
+    "why": "words not separated in print; no sandhi applies at the junction between asmin and kapha-"
+   }
+  ],
+  "notes": "Copula understood. 'asmin' (in this) is read as the subject of a locative absolute with 'kapha-pīḍite' (this being afflicted by Kapha); the referent (the agni or the region) is not stated. Subject of the first half (the agni) is carried from unit 159.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.06.160"
+  ],
+  "lines_deva": [
+   "पित्ताभिमूर्च्छिते तीक्ष्णो मंदोऽस्मिन्कफपीडिते"
+  ],
+  "lines_iast": [
+   "pittābhimūrcchite tīkṣṇo maṃdo'sminkaphapīḍite"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "161",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śāṃte'gnau",
+      "words": [
+       {
+        "w": "śānte",
+        "gloss": "extinguished, calmed (śānta)",
+        "gram": "ppp. √śam, m. loc. sg."
+       },
+       {
+        "w": "agnau",
+        "gloss": "when the fire",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mriyate",
+      "words": [
+       {
+        "w": "mriyate",
+        "gloss": "dies",
+        "gram": "3 sg. pres. √mṛ (ātmanepada)"
+       }
+      ]
+     },
+     {
+      "src": "yukte",
+      "words": [
+       {
+        "w": "yukte",
+        "gloss": "well-ordered (yukta)",
+        "gram": "ppp. √yuj, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ciraṃ",
+      "words": [
+       {
+        "w": "ciram",
+        "gloss": "for a long time",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvatyanāmayaḥ",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       },
+       {
+        "w": "anāmayaḥ",
+        "gloss": "free from disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि के शान्त हो जाने पर मरता है; ठीक रहने पर चिरकाल तक नीरोग जीता है।",
+  "english": "When the fire (agni) is extinguished (śānta), one dies; when well-ordered (yukta), one lives long, free from disease.",
+  "text_flags": [],
+  "notes": "Subject of 'mriyate' and 'jīvati' is not stated (\"one\"). 'yukte' agrees with agnau (understood). The agni's state is meant, not the wind or the person.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.161"
+  ],
+  "lines_deva": [
+   "शांतेऽग्नौ म्रियते युक्ते चिरं जीवत्यनामयः"
+  ],
+  "lines_iast": [
+   "śāṃte'gnau mriyate yukte ciraṃ jīvatyanāmayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "162",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rogīsyādvikṛte",
+      "words": [
+       {
+        "w": "rogī",
+        "gloss": "diseased (one)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "vikṛte",
+        "gloss": "abnormal (vikṛta)",
+        "gram": "ppp. vi-√kṛ, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasmāttaṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayatnena",
+      "words": [
+       {
+        "w": "prayatnena",
+        "gloss": "with effort",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pālayet",
+      "words": [
+       {
+        "w": "pālayet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. √pāl"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विकृत होने पर रोगी हो जाए; इसलिए उसकी प्रयत्न से रक्षा करे।",
+  "english": "When abnormal (vikṛta), one would be diseased; therefore one should protect it with effort.",
+  "text_flags": [
+   {
+    "src": "rogīsyādvikṛte",
+    "suggest": "rogī syād vikṛte",
+    "why": "words not separated in print; no sandhi applies at the junction between rogī and syād (ī before s)"
+   },
+   {
+    "src": "tasmāttaṃ",
+    "suggest": "tasmāt taṃ",
+    "why": "words not separated in print; no sandhi applies at the junction (t before t is unchanged)"
+   }
+  ],
+  "notes": "'vikṛte' agrees with agnau of unit 161 (understood). 'tam' is the stated pronoun, the agni. Same words as the end of unit 144 ('tasmāt taṃ prayatnato rakṣet').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.162"
+  ],
+  "lines_deva": [
+   "रोगीस्याद्विकृते तस्मात्तं प्रयत्नेन पालयेत्"
+  ],
+  "lines_iast": [
+   "rogīsyādvikṛte tasmāttaṃ prayatnena pālayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "163",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sirāvibhāgo",
+      "words": [
+       {
+        "w": "sirā-vibhāgaḥ",
+        "gloss": "vessels (sirā); division (vibhāga)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmaṣaṣṭho'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṣṭhaḥ",
+        "gloss": "sixth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सिराविभाग यानी सिराओं का विभाग नामक छठा अध्याय।",
+  "english": "Thus the sixth chapter, named Sirāvibhāga (division of the sirā, vessels).",
+  "text_flags": [
+   {
+    "src": "nāmaṣaṣṭho'dhyāyaḥ",
+    "suggest": "nāma ṣaṣṭho'dhyāyaḥ",
+    "why": "words not separated in print; no sandhi applies at the junction between nāma and ṣaṣṭhaḥ"
+   }
+  ],
+  "notes": "Colophon of chapter 6 of Śārīrasthāna (Part 2). The unit is typed as a verse in the input but is a closing title line.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.06.163"
+  ],
+  "lines_deva": [
+   "इति सिराविभागो नामषष्ठोऽध्यायः"
+  ],
+  "lines_iast": [
+   "iti sirāvibhāgo nāmaṣaṣṭho'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]
