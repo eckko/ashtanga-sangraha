@@ -1,0 +1,1273 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शालिपर्णी और पलाश",
+     "problem": "Hindi gives no modern names for the two plants (policy wants Sanskrit यानी Hindi name; palāśa only probable, so hedged).",
+     "fix": "शालिपर्णी यानी सरिवन और पलाश यानी सम्भवतः ढाक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शालिपर्णी और पलाश के साथ",
+      "new": "शालिपर्णी यानी सरिवन और पलाश यानी सम्भवतः ढाक के साथ",
+      "n": "3"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "kathita",
+     "problem": "Silent emendation: printed kathita is glossed \"boiled\" without a flag. kathita normally means \"said\"; \"boiled\" needs kvathita. Unflagged emendations are not allowed; the corrected form belongs only in `words`.",
+     "fix": "Add flag; put kvathita in w.",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "kanakarajatakathitaśītodakānupānaṃ",
+         "suggest": "kanakarajatakvathitaśītodakānupānaṃ",
+         "why": "possible: 'kathita' is 'spoken'; for water treated with gold and silver the expected word is kvathita 'boiled' (v lost in print). Translation 'boiled' rests on this reading."
+        }
+       ],
+       "n": "3"
+      },
+      {
+       "op": "word",
+       "match_w": "kanaka-rajata-kathita-śīta-udaka-anupānam",
+       "field": "w",
+       "value": "kanaka-rajata-kvathita-śīta-udaka-anupānam",
+       "n": "3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुकूल से",
+     "problem": "Garbled Hindi: \"और अनुकूल से सायं और प्रातः आहार कराए\" (से is the instrumental of the wrong noun; adjectives are accusative). Also the sweet reading rests on the conjecture svādu and is not marked in the translation (glossary: a conjectural reading must be marked in both translations).",
+     "fix": "अनुमानित पाठ पर, मीठे और ठण्डे, अधिकतर तरल और अनुकूल का सायं और प्रातः आहार कराए।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अनुमानित पाठ पर, मीठे और ठण्डे, अधिकतर तरल और अनुकूल का सायं और प्रातः आहार कराए।",
+      "n": "4"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Awkward \"food of sweet and cool (ones)\"; conjectural svādu not marked.",
+     "fix": "On a conjectural reading, one should have her take as food, in the evening and in the morning, (ones) that are sweet and cool, mostly liquid and suitable (sātmya).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "On a conjectural reading, one should have her take as food, in the evening and in the morning, (ones) that are sweet and cool, mostly liquid and suitable (sātmya).",
+      "n": "4"
+     }
+    },
+    {
+     "field": "split",
+     "where": "khāduśītaṃ",
+     "problem": "Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only).",
+     "fix": "w svādu-śītam; gram without gender.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "khādu-śītam",
+       "field": "gloss",
+       "value": "sweet; cool",
+       "n": "4"
+      },
+      {
+       "op": "word",
+       "match_w": "khādu-śītam",
+       "field": "w",
+       "value": "svādu-śītam",
+       "n": "4"
+      },
+      {
+       "op": "word",
+       "match_w": "svādu-śītam",
+       "field": "gram",
+       "value": "acc. sg.",
+       "n": "4"
+      },
+      {
+       "op": "word",
+       "match_w": "drava-prāyam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg.",
+       "n": "4"
+      },
+      {
+       "op": "word",
+       "match_w": "sātmyam",
+       "field": "gram",
+       "value": "acc. sg.",
+       "n": "4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अभ्यंग तथा उद्वर्तन",
+     "problem": "Hindi gives no plain equivalents for the two treatments.",
+     "fix": "अभ्यंग यानी तेल की मालिश तथा उद्वर्तन यानी उबटन",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और अभ्यंग यानी तेल की मालिश तथा उद्वर्तन यानी उबटन का सेवन न करे।",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ārpacamān",
+     "problem": "Observation only: the conjecture āpañcamāt māsāt is sound as sandhi (pañcamāt + māsāt gives pañcamān māsāt), which supports it; \"ā + ablative\" is usually exclusive (\"up to, before, the fifth month\"), so the endpoint stays uncertain. Low confidence is right.",
+     "fix": "No change.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvitīye",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvitīye",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tṛtīye",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tṛtīye",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(milk)",
+     "problem": "Supplied noun: \"that same (milk)\". The Sanskrit says only tad eva; the antecedent (milk of 7? milk-ghee? the whole regimen) is not stated, and unit 11 itself says the antecedent is open. The note claiming it is the milk of unit 7 is an inference.",
+     "fix": "In the third (month), the same, with ghee (sarpis) and honey (madhu).",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "In the third (month), the same, with ghee (sarpis) and honey (madhu).",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "caturthe",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "caturthe",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अक्ष मात्रा के नवनीत",
+     "problem": "Hindi gives no plain name for navanīta and no note that akṣa is a measure.",
+     "fix": "चौथे में अक्ष माप की मात्रा के नवनीत यानी मक्खन से युक्त।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "चौथे में अक्ष माप की मात्रा के नवनीत यानी मक्खन से युक्त।",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "akṣa-mātra-navanīta-yuktam",
+     "problem": "-yukta \"joined with\" after an instrumental sense is a tat-puruṣa, not a bahuvrīhi.",
+     "fix": "tat-puruṣa, n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "akṣa-mātra-navanīta-yuktam",
+      "field": "gram",
+      "value": "tat-puruṣa, n. acc. sg.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañcame",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañcame",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ṣaṣṭhe",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ṣaṣṭhe",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saptame",
+     "problem": "Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\".",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saptame",
+      "field": "gram",
+      "value": "loc. sg.",
+      "n": "12"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "whole",
+     "problem": "Observation: unit 13 begins tasmiṃś ca, so 12 + 13 may be one sentence or the seventh-month regimen has dropped out; do not pair as fact. Draft note is acceptable.",
+     "fix": "No change.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसा नहीं, भगवान् आत्रेय।",
+     "problem": "Observation: Hindi has no verb for Ātreya (English supplies \"(says)\" in brackets; Hindi may not bracket). Acceptable as a literal rendering but reads abruptly.",
+     "fix": "Owner may accept as is.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "itching with kikisa",
+     "problem": "Invented relation: \"itching with kikisa\" and \"of pregnancy\" are not in the Sanskrit (kaṇḍū-kikisa is an unclear compound: tat-puruṣa, dvandva or a dittography of kaṇḍū).",
+     "fix": "(kaṇḍū, itching, + kikisa, probably stretch marks; compound unclear)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(itching with kikisa, probably the stretch marks of pregnancy)",
+      "new": "(kaṇḍū, itching, + kikisa, probably stretch marks; compound unclear)",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खुजली वाला किकिस",
+     "problem": "Same invented relation (\"खुजली वाला\") and \"गर्भावस्था की\".",
+     "fix": "कण्डूकिकिस, किकिस यानी सम्भवतः त्वचा पर खिंचाव की धारियाँ; समास अस्पष्ट",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "खुजली वाला किकिस, सम्भवतः गर्भावस्था की धारियाँ",
+      "new": "कण्डूकिकिस, किकिस यानी सम्भवतः त्वचा पर खिंचाव की धारियाँ; समास अस्पष्ट",
+      "n": "14"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṇḍū-kikisam",
+     "problem": "Compound type is asserted as tat-puruṣa though the draft itself says it is tentative.",
+     "fix": "compound type unclear, n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kaṇḍū-kikisam",
+      "field": "gram",
+      "value": "compound type unclear, n. nom. sg.",
+      "n": "14"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kaṇḍūkikisaṃ",
+     "problem": "Observation (no patch): kikisa = stretch marks (striae) of pregnancy is the usual identification (probable); the repeated kaṇḍū may be a dittography for \"kaṇḍūr jāyate kikisaṃ\" (itching arises, kikisa). Human decision on whether to read kaṇḍūkikisaṃ as kaṇḍūḥ kikisaṃ ca.",
+     "fix": "Owner decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नवनीत",
+     "problem": "Hindi gives no plain name.",
+     "fix": "नवनीत यानी मक्खन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नवनीत का हथेली भर",
+      "new": "नवनीत यानी मक्खन का हथेली भर",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मसले",
+     "problem": "मसलना = to crush/squeeze; mṛdnīyāt here is \"rub\".",
+     "fix": "मले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मसले",
+      "new": "मले",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धाय के फूल",
+     "problem": "\"के फूल\" (flowers) is not in the Sanskrit (dhātakī alone).",
+     "fix": "धातकी यानी धाय",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "धाय के फूल",
+      "new": "धाय",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Hindi for kuṭaja",
+     "problem": "Note says Hindi leaves kuṭaja as कुटज but the Hindi gives कुड़ा (glossary form). Note is wrong.",
+     "fix": "Hindi: कुटज यानी कुड़ा (glossary).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi for kuṭaja is left as कुटज.",
+      "new": "Hindi gives कुटज यानी कुड़ा (glossary).",
+      "n": "18"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "surasa",
+     "problem": "Observation (no patch): the print and `w` have surasa (m.), not surasā; the gloss and note say surasā. Both are names of holy basil (probable); keep w as printed and make the gloss \"surasa\". Arjaka \"a basil\" is vague (probably Ocimum gratissimum, wild basil) but hedged correctly.",
+     "fix": "Optional gloss tidy.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "mālatī (a jasmine, identity disputed)",
+     "problem": "\"A jasmine\" states as fact what is disputed (Jasminum grandiflorum vs other plants).",
+     "fix": "mālatī (identity disputed; possibly a jasmine)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "mālatī (a jasmine, identity disputed)",
+      "new": "mālatī (identity disputed; possibly a jasmine)",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Hindi lacks the modern names for mālatī (disputed, must be marked), karavīra and triphalā that the policy wants beside the Sanskrit term.",
+     "fix": "शश यानी खरगोश, हरिण यानी हिरन, पुनर्नवा यानी गदहपूर्णा, मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से, पृषत यानी चित्तीदार हिरन के रुधिर से युक्त त्रिफला यानी हरड़, बहेड़ा और आँवला से, और करवीर यानी कनेर के पत्तों के कल्क से पकाए हुए तेल से अभ्यंग।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "शश यानी खरगोश, हरिण यानी हिरन, पुनर्नवा यानी गदहपूर्णा, मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से, पृषत यानी चित्तीदार हिरन के रुधिर से युक्त त्रिफला यानी हरड़, बहेड़ा और आँवला से, और करवीर यानी कनेर के पत्तों के कल्क से पकाए हुए तेल से अभ्यंग।",
+      "n": "19"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "siddhena",
+     "problem": "siddha agrees with ambhasā / tailena (neuter), not masculine.",
+     "fix": "n. inst. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "śaśa-hariṇa-punarnavā-mālatī-madhuka-siddhena",
+       "field": "gram",
+       "value": "dvandva then tat-puruṣa, n. inst. sg.",
+       "n": "19"
+      },
+      {
+       "op": "word",
+       "match_w": "karavīra-patra-kalka-siddhena",
+       "field": "gram",
+       "value": "tat-puruṣa, n. inst. sg.",
+       "n": "19"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "śaśa-hariṇa",
+     "problem": "Observation (no patch): hare and deer in a herb decoction poured over the body, then triphalā with deer blood, is unusual; the print could hide other words. Which part of the animals is meant, and how ambhasā, triphalayā and tailena combine in one abhyaṅga, are unresolved; the literal rendering is right. Human decision.",
+     "fix": "Owner decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पारिषेक",
+     "problem": "Misspelling (परिषेक); mālatī and madhuka lack the identity marking used in unit 19.",
+     "fix": "फिर मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से परिषेक यानी सींचना।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "फिर मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से परिषेक यानी सींचना।",
+      "n": "20"
+     }
+    },
+    {
+     "field": "english",
+     "where": "mālatī and madhuka",
+     "problem": "Identity hedges missing.",
+     "fix": "mālatī (identity disputed; possibly a jasmine) and madhuka (probably licorice)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "mālatī and madhuka",
+      "new": "mālatī (identity disputed; possibly a jasmine) and madhuka (probably licorice)",
+      "n": "20"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "siddhena",
+     "problem": "Agrees with neuter ambhasā.",
+     "fix": "n. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mālatī-madhuka-siddhena",
+      "field": "gram",
+      "value": "dvandva then tat-puruṣa, n. inst. sg.",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूर करने",
+     "problem": "parihāra = avoiding/warding off, not removing.",
+     "fix": "कुरूपता से बचाव के लिए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुरूपता को दूर करने के लिए",
+      "new": "कुरूपता से बचाव के लिए",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उद्वर्तन",
+     "problem": "No plain equivalent.",
+     "fix": "उद्वर्तन यानी उबटन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नान, उद्वर्तन और चन्दन",
+      "new": "स्नान, उद्वर्तन यानी उबटन और चन्दन",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "madhuram",
+     "problem": "Qualifies āhāram (masculine), labelled neuter.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madhuram",
+      "field": "gram",
+      "value": "m. acc. sg.",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "says ṣaṇḍhakātho",
+     "problem": "\"says\" is a supplied verb and the word is treated as a speaker although the print is unparsed.",
+     "fix": "'Not so,' ṣaṇḍhakātho (unclear), on a conjectural reading, from fear ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "'Not so,' on a conjectural reading, says ṣaṇḍhakātho (unclear), from fear",
+      "new": "'Not so,' ṣaṇḍhakātho (unclear), on a conjectural reading, from fear",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "brings forth",
+     "problem": "Glossary: janayati = \"produces\" throughout.",
+     "fix": "She produces a child",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "She brings forth a child",
+       "new": "She produces a child",
+       "n": "27"
+      },
+      {
+       "op": "word",
+       "match_w": "janayati",
+       "field": "gloss",
+       "value": "she produces",
+       "n": "27"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "जातिजनों",
+     "problem": "Wrong word: jñāti = kinsmen (ज्ञाति), not जाति (caste/kind); जन्म देती है should be उत्पन्न करती है (glossary); संहनन and सत्त्व need the plain gloss.",
+     "fix": "वह रोग से रहित, बल, वर्ण यानी रंग, सत्त्व यानी मन की शक्ति और संहनन यानी शरीर की सुगठित रचना की सम्पदा से युक्त, सम्बन्धियों में अग्रगण्य सन्तान को उत्पन्न करती है, ऐसा भगवान् आत्रेय कहते हैं।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वह रोग से रहित, बल, वर्ण यानी रंग, सत्त्व यानी मन की शक्ति और संहनन यानी शरीर की सुगठित रचना की सम्पदा से युक्त, सम्बन्धियों में अग्रगण्य सन्तान को उत्पन्न करती है, ऐसा भगवान् आत्रेय कहते हैं।",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "palala (probably sesame paste)",
+     "problem": "palala is disputed (sesame paste or flesh); words/notes say disputed, English says \"probably\". Hindi has no identification for palala, badara or mastu.",
+     "fix": "palala (identity disputed; possibly sesame paste)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "palala (probably sesame paste)",
+      "new": "palala (identity disputed; possibly sesame paste)",
+      "n": "28"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Missing Hindi names/marks for badara, palala (disputed), mastu.",
+     "fix": "बदर यानी बेर के जल से, जो पलल यानी सम्भवतः तिल की लुगदी, जिसकी पहचान विवादित है, दूध, दही, मस्तु यानी दही का पानी, तेल, नमक, फल, घी और मधु से युक्त हो, आस्थापन यानी काढ़े की वस्ति दे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "बदर यानी बेर के जल से, जो पलल यानी सम्भवतः तिल की लुगदी, जिसकी पहचान विवादित है, दूध, दही, मस्तु यानी दही का पानी, तेल, नमक, फल, घी और मधु से युक्त हो, आस्थापन यानी काढ़े की वस्ति दे।",
+      "n": "28"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "phala",
+     "problem": "Observation (no patch): bare phala in an āsthāpana list is often madanaphala, but the text only says \"fruit\"; keep literal.",
+     "fix": "No change.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मधुक आदि",
+     "problem": "madhuka unmarked in Hindi (probable licorice).",
+     "fix": "मधुक यानी सम्भवतः मुलेठी आदि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और मधुक आदि मधुर औषधों",
+      "new": "और मधुक यानी सम्भवतः मुलेठी आदि मधुर औषधों",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उपद्रव",
+     "problem": "Bare उपद्रव reads as \"disturbance\".",
+     "fix": "उपद्रव यानी जटिलता से रहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपद्रव से रहित",
+      "new": "उपद्रव यानी जटिलता से रहित",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bent over",
+     "problem": "nyubja = face down, prone; \"bent over\" and Hindi \"झुकी हुई स्थिति\" read in a posture.",
+     "fix": "face down (nyubja); Hindi औंधी",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "bent over (nyubja)",
+       "new": "face down (nyubja)",
+       "n": "31"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "झुकी हुई",
+       "new": "औंधी",
+       "n": "31"
+      },
+      {
+       "op": "word",
+       "match_w": "nyubjām",
+       "field": "gloss",
+       "value": "face down, prone (nyubja)",
+       "n": "31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "mārga",
+     "problem": "Observation (no patch): in a run of enema units (28-31) vivṛtamārgatā may refer to the lower (anal) passage rather than the birth passage; the note comparing garbhamārga (unit 34) is a guess. Keep mārga plain.",
+     "fix": "Owner may soften the note.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रसों",
+     "problem": "Bare रस is ambiguous in Hindi.",
+     "fix": "जाङ्गल जीवों के रसों यानी शोरबे से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाङ्गल जीवों के रसों से",
+      "new": "जाङ्गल जीवों के रसों यानी शोरबे से",
+      "n": "33"
+     }
+    },
+    {
+     "field": "english",
+     "where": "animals",
+     "problem": "Observation (no patch): \"animals\" is supplied (jāṅgala-rasa); the usual sense, but the text says only jāṅgala juices.",
+     "fix": "Owner decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the receptacle (āśaya)",
+     "problem": "Draft tags āśaya probably the uterus in words/notes but the translation leaves it unmarked.",
+     "fix": "the receptacle (āśaya, probably the uterus)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the receptacle (āśaya)",
+      "new": "the receptacle (āśaya, probably the uterus)",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Hindi lacks plain glosses for picu, āśaya, snehana (bare स्नेहन can read as affection).",
+     "fix": "नवें में तो उसी अनुवासन के तेल से पिचु यानी रुई का फाहा योनि में रखे, गर्भ के मार्ग और आशय यानी सम्भवतः गर्भाशय को स्नेहन यानी तेल से चिकना करने के लिए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "नवें में तो उसी अनुवासन के तेल से पिचु यानी रुई का फाहा योनि में रखे, गर्भ के मार्ग और आशय यानी सम्भवतः गर्भाशय को स्नेहन यानी तेल से चिकना करने के लिए।",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इससे पहले मास",
+     "problem": "Ambiguous: \"इससे पहले\" reads \"before this\".",
+     "fix": "इसके द्वारा पहले मास से आरम्भ करके",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इससे पहले मास",
+      "new": "इसके द्वारा पहले मास",
+      "n": "35"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "garbha-dhāriṇī",
+     "problem": "\"bearing the embryo\" is an upapada tat-puruṣa, not karmadhāraya; anena unstated referent should not carry gender.",
+     "fix": "f., tat-puruṣa",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "garbha-dhāriṇī",
+       "field": "gram",
+       "value": "f., tat-puruṣa",
+       "n": "35"
+      },
+      {
+       "op": "word",
+       "match_w": "anena",
+       "field": "gram",
+       "value": "inst. sg.",
+       "n": "35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काढ़े से, ठण्डे काढ़े से",
+     "problem": "Hindi duplicates the decoction (kvāthena śītena is one phrase, \"cooled decoction\"), producing three options; no names/hedges for pāṭalī, agnimantha, māṃsī, vardhamānaka (probable/disputed ones must be hedged in Hindi too).",
+     "fix": "अनुमानित पाठ पर, बिल्व यानी बेल, कार्पासी यानी कपास, फंफेणा अस्पष्ट, पाटली यानी पाढ़ल, पिचुमन्द यानी नीम, अग्निमन्थ यानी सम्भवतः अरणी, मांसी यानी सम्भवतः जटामांसी, वर्धमानक यानी सम्भवतः अरण्ड, जिसकी पहचान विवादित है, और पत्रभंग अस्पष्ट, इनके ठण्डे किए हुए काढ़े से अथवा सब गन्ध वाले द्रव्यों के जल से गर्भिणी के लिए प्रतिदिन स्नान का उपदेश करे।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अनुमानित पाठ पर, बिल्व यानी बेल, कार्पासी यानी कपास, फंफेणा अस्पष्ट, पाटली यानी पाढ़ल, पिचुमन्द यानी नीम, अग्निमन्थ यानी सम्भवतः अरणी, मांसी यानी सम्भवतः जटामांसी, वर्धमानक यानी सम्भवतः अरण्ड, जिसकी पहचान विवादित है, और पत्रभंग अस्पष्ट, इनके ठण्डे किए हुए काढ़े से अथवा सब गन्ध वाले द्रव्यों के जल से गर्भिणी के लिए प्रतिदिन स्नान का उपदेश करे।",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "garbhiṇyāḥ",
+     "problem": "garbhiṇyāḥ is not a dative form (garbhiṇyai); genitive in dative sense.",
+     "fix": "f. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "garbhiṇyāḥ",
+      "field": "gram",
+      "value": "f. gen. sg.",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "phaṃpheṇā, patrabhaṅga",
+     "problem": "Observation (no patch): damaged compound; vardhamānaka = castor (eraṇḍa, a recorded synonym) is a reasonable \"possibly\". Keep as unclear.",
+     "fix": "No change.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "anuktābhiḥ, avipādābhiḥ",
+     "problem": "Both words sit in the list of qualities but are not flagged; avipāda is not a known word, and the note calls them \"real forms\". A possible emendation should be recorded.",
+     "fix": "Add flag.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "gobrāhmaṇavṛddhāntvā''vartamānā",
+        "suggest": "gobrāhmaṇavṛddhān tv āvartamānā",
+        "why": "possible: tu + ā gives 'tvā'; the doubled avagraha mark is a print habit; the sense 'circling round' is not firm."
+       },
+       {
+        "src": "paritṛtā",
+        "suggest": "parivṛtā",
+        "why": "possible: tr for vr is a common OCR confusion; 'surrounded' fits."
+       },
+       {
+        "src": "parā'nulomanerāhāravihārairanulomitavātamtrapurīṣā",
+        "suggest": "parā anulomanair āhāravihārair anulomitavātamūtrapurīṣā",
+        "why": "possible: 'nerā' for 'nair ā' (ai printed e), and 'mtra' for 'mūtra' (ū lost); the sense fits."
+       },
+       {
+        "src": "prasūtābhiranuktābhiravipādābhiḥ",
+        "suggest": "prasūtābhir anuraktābhir avipannābhiḥ ?",
+        "why": "possible: anuktā ('unsaid') and avipādā (not a known word) give no sense among attendant qualities; anuraktā ('devoted') and avipannā ('unharmed') are conjectured (r and n lost). Kept as printed and unglossed in `words`."
+       }
+      ],
+      "n": "41"
+     }
+    },
+    {
+     "field": "english",
+     "where": "surrounded by women",
+     "problem": "\"women\" is a supplied noun (strī appears only in unit 46); glossary: unstated nouns as \"(ones)\".",
+     "fix": "surrounded by (ones) who have given birth many times",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "surrounded by women who have given birth many times",
+      "new": "surrounded by (ones) who have given birth many times",
+      "n": "41"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्त्रियों",
+     "problem": "Same supplied noun in Hindi (स्त्रियों से घिरी हुई); left for the owner, as the adjectives are plainly feminine plural.",
+     "fix": "Owner decision.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "की ओर प्रदक्षिणा",
+     "problem": "\"की ओर\" (towards) is not circumambulation.",
+     "fix": "की प्रदक्षिणा करती हुई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गाय, ब्राह्मण और वृद्धों की ओर प्रदक्षिणा करती हुई",
+      "new": "गाय, ब्राह्मण और वृद्धों की प्रदक्षिणा करती हुई",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "stravaṇāni",
+     "problem": "Silent emendation stravaṇa -> sravaṇa is only in the notes; a flag is required.",
+     "fix": "Add flag.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vedanodarathṛdayakaṭībastivaṃkṣaṇeṣu",
+        "suggest": "vedanodarahṛdayakaṭībastivaṃkṣaṇeṣu",
+        "why": "possible: a stray 't' in 'darathṛdaya'; 'udara-hṛdaya' fits."
+       },
+       {
+        "src": "todabhedaśūlasphuraṇastravaṇāni",
+        "suggest": "todabhedaśūlasphuraṇasravaṇāni",
+        "why": "possible: st for s; sravaṇa 'flow' is the usual word, stravaṇa is not a recognised form. `words` use sravaṇa."
+       }
+      ],
+      "n": "43"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कटि, बस्ति और वंक्षण",
+     "problem": "Part 2: plain equivalents wanted beside body terms.",
+     "fix": "कटि यानी कमर, बस्ति यानी मूत्राशय और वंक्षण यानी जाँघ के जोड़",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कटि, बस्ति और वंक्षण में",
+      "new": "कटि यानी कमर, बस्ति यानी मूत्राशय और वंक्षण यानी जाँघ के जोड़ में",
+      "n": "43"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "udara-hṛdaya-...",
+     "problem": "Mixed gender label for a locative dvandva.",
+     "fix": "loc. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "udara-hṛdaya-kaṭī-basti-vaṅkṣaṇeṣu",
+      "field": "gram",
+      "value": "loc. pl., dvandva",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(labour pains)",
+     "problem": "āvī is tagged probable but unhedged in the translation.",
+     "fix": "(probably labour pains)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(labour pains)",
+      "new": "(probably labour pains)",
+      "n": "44"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आवियों",
+     "problem": "Same hedge missing; garbhodaka needs a plain name.",
+     "fix": "आवियों यानी सम्भवतः प्रसव की पीड़ाओं का प्रकट होना और गर्भोदक यानी गर्भ के जल, उल्बद्रव का बहना।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उसके बाद आवियों यानी सम्भवतः प्रसव की पीड़ाओं का प्रकट होना और गर्भोदक यानी गर्भ के जल, उल्बद्रव का बहना।",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fruit called punnāma",
+     "problem": "Mistranslation: puṃ-nāma-phala is a fruit \"with a male name\" (as the draft's own words/notes say), not a fruit \"called punnāma\".",
+     "fix": "with a male-named fruit (puṃnāma-phala, unidentified) in her hand",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with a fruit called punnāma (unidentified) in her hand",
+      "new": "with a male-named fruit (puṃnāma-phala, unidentified) in her hand",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुंनाम नामक फल",
+     "problem": "Same mistranslation (\"नामक\").",
+     "fix": "हाथ में पुंनामफल यानी पुरुष नाम वाला फल, जिसकी पहचान अज्ञात है, लिए हो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हाथ में पुंनाम नामक फल लिए हो",
+      "new": "हाथ में पुंनामफल यानी पुरुष नाम वाला फल, जिसकी पहचान अज्ञात है, लिए हो",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गर्भ का समय",
+     "problem": "\"समय\" is added (upasthita-garbhā = whose embryo is present/arrived).",
+     "fix": "जिसका गर्भ उपस्थित हो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके गर्भ का समय उपस्थित हो",
+      "new": "जिसका गर्भ उपस्थित हो",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जंघाओं",
+     "problem": "sakthi = thigh; जंघा is the shank in Sanskrit usage.",
+     "fix": "जाँघों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जंघाओं",
+      "new": "जाँघों",
+      "n": "46"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "46 units reviewed. 12 errors, 57 minor. No identification is clearly wrong; unhedged Hindi identifications and the mālatī/palala tags were tightened. Units needing a human decision: 6 and 25 (damaged print), 14 (kaṇḍūkikisa), 19 (hare/deer decoction), 29, 32 (mārga), 39, 40, 41 (anuktābhiḥ, avipādābhiḥ), 43. Unit 12 incomplete as printed. No regrouping beyond the draft's notes.",
+ "glossary_suggestions": [
+  "janayati = 'produces' / उत्पन्न करती है also in ch03 (u27); not 'brings forth' / जन्म देती है.",
+  "mālatī = identity disputed (possibly a jasmine); mark '(identity disputed)' in both languages. palala = identity disputed (possibly sesame paste), never 'probable'.",
+  "Hindi reusable: शालिपर्णी यानी सरिवन, पलाश यानी सम्भवतः ढाक, अग्निमन्थ यानी सम्भवतः अरणी, पाटली यानी पाढ़ल, करवीर यानी कनेर, बदर यानी बेर, नवनीत यानी मक्खन, पिचु यानी रुई का फाहा, मस्तु यानी दही का पानी.",
+  "puṃnāma-phala = 'male-named fruit' (unidentified), not 'a fruit called punnāma'.",
+  "nyubja = face down (prone), not 'bent over'. jñāti (kinsman) = ज्ञाति/सम्बन्धी, not जाति.",
+  "Month ordinals standing for an unstated noun: gram 'loc. sg.' (no gender). kathita for water boiled with gold/silver = probable misprint for kvathita (flag it)."
+ ]
+}
