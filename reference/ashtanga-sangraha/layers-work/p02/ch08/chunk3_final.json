@@ -1,0 +1,2255 @@
+[
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mucyeddehamātradarśanādeva",
+      "words": [
+       {
+        "w": "muhyet",
+        "gloss": "should be deluded (conjectured; printed mucyet)",
+        "gram": "opt. 3 sg. √muh"
+       },
+       {
+        "w": "deha-mātra-darśanāt",
+        "gloss": "body; only; from seeing: from merely seeing the body",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone, merely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣagayamupacayena",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this (one)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "upacayena",
+        "gloss": "by bulk (upacaya), accumulation of flesh",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahāśarīratvādvā",
+      "words": [
+       {
+        "w": "mahā-śarīra-tvāt",
+        "gloss": "large; body; -ness: from largeness of body",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balavānayaṃ",
+      "words": [
+       {
+        "w": "balavān",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this (one)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛśatvādalpaśarīratvādvā'lpabalaiti",
+      "words": [
+       {
+        "w": "kṛśa-tvāt",
+        "gloss": "from thinness",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "alpa-śarīra-tvāt",
+        "gloss": "from smallness of body",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "alpa-balaḥ",
+        "gloss": "of little strength",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the thought)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, वैद्य केवल देह को देखने मात्र से भ्रमित न हो कि 'यह उपचय यानी शरीर की पुष्टि से या बड़े शरीर के कारण बलवान है, और यह दुबलेपन से या छोटे शरीर के कारण अल्प बल वाला है।'",
+  "english": "On a conjectural reading, a physician should not be deluded merely by seeing the body alone, thinking: 'This one is strong because of bulk (upacaya) or because of a large body; this one is of little strength because of thinness or because of a small body.'",
+  "text_flags": [
+   {
+    "src": "mucyeddehamātradarśanādeva",
+    "suggest": "muhyeddehamātradarśanādeva",
+    "why": "possible: 'mucyet' (should be released) gives no sense after 'na ... bhiṣak'; 'muhyet' (should be deluded) fits the quoted wrong inferences that follow; cy/hy confusion in the scan"
+   }
+  ],
+  "notes": "The printed 'mucyed' (mucyet, 'should be released') gives no sense here; 'muhyed' ('should be deluded', cy/hy confusion) fits the sense and is adopted on a conjectural reading, so the translations carry the mark. 'bhiṣag' is the subject; the two 'ayam' are the two cases quoted ('this one ... this one ...'). Printed 'balaiti' is 'bala iti' written together (hiatus). upacaya = accumulation, plumpness of flesh (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.75"
+  ],
+  "lines_deva": [
+   "न मुच्येद्देहमात्रदर्शनादेव भिषगयमुपचयेन महाशरीरत्वाद्वा बलवानयं कृशत्वादल्पशरीरत्वाद्वाऽल्पबलइति"
+  ],
+  "lines_iast": [
+   "na mucyeddehamātradarśanādeva bhiṣagayamupacayena mahāśarīratvādvā balavānayaṃ kṛśatvādalpaśarīratvādvā'lpabalaiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taccobhayamapyanyathādṛṣṭaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayam",
+        "gloss": "both",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even, also",
+        "gram": "ind."
+       },
+       {
+        "w": "anyathā-dṛṣṭam",
+        "gloss": "seen otherwise",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gajasiṃhe",
+      "words": [
+       {
+        "w": "gaja-siṃhe",
+        "gloss": "elephant; lion: in the elephant and the lion",
+        "gram": "dvandva, n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वे दोनों भी हाथी और सिंह में अन्य प्रकार से देखे गए हैं।",
+  "english": "And both of these are also seen to be otherwise in the elephant and the lion.",
+  "text_flags": [],
+  "notes": "Refers back to the two inferences quoted in 75 (strong from a large body; weak from a small body). 'gajasiṃhe' is read as a locative of the dvandva 'gaja-siṃha' (elephant and lion); the text does not say in which way each is 'otherwise'. 'api' is rendered 'also'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.76"
+  ],
+  "lines_deva": [
+   "तच्चोभयमप्यन्यथादृष्टं गजसिंहे"
+  ],
+  "lines_iast": [
+   "taccobhayamapyanyathādṛṣṭaṃ gajasiṃhe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvaiḥ",
+      "words": [
+       {
+        "w": "sarvaiḥ",
+        "gloss": "all",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sārairupaitobhavatyatibalaḥ",
+      "words": [
+       {
+        "w": "sāraiḥ",
+        "gloss": "essences (sāra)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upaitaḥ",
+        "gloss": "endowed with",
+        "gram": "ppp. upa-√i, m. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "is, becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "atibalaḥ",
+        "gloss": "exceedingly strong",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paramagauravayuktaḥ",
+      "words": [
+       {
+        "w": "parama-gaurava-yuktaḥ",
+        "gloss": "supreme; heaviness, weight, gravity; joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kleśakṣamaḥsarvāraṃbheṣvātmani",
+      "words": [
+       {
+        "w": "kleśa-kṣamaḥ",
+        "gloss": "able to bear hardship",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "sarva-ārambheṣu",
+        "gloss": "all; undertakings",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "ātmani",
+        "gloss": "in himself",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyāśāvān",
+      "words": [
+       {
+        "w": "pratyāśā-vān",
+        "gloss": "having hope, expectation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalyāṇābhiniveśī",
+      "words": [
+       {
+        "w": "kalyāṇa-abhiniveśī",
+        "gloss": "devoted to the good (kalyāṇa)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthiraśarīraḥ",
+      "words": [
+       {
+        "w": "sthira-śarīraḥ",
+        "gloss": "steady-bodied",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "susamāhitagatiḥ",
+      "words": [
+       {
+        "w": "su-samāhita-gatiḥ",
+        "gloss": "of well-composed gait",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sānunādasnigdhagaṃbhīramahāsvaraḥ",
+      "words": [
+       {
+        "w": "sa-anunāda-snigdha-gambhīra-mahā-svaraḥ",
+        "gloss": "with resonance; smooth; deep; great; voice",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhaiśvaryavittopabhogaḥ",
+      "words": [
+       {
+        "w": "sukha-aiśvarya-vitta-upabhogaḥ",
+        "gloss": "comfort; lordship, prosperity; wealth; enjoyment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sanmānabhāṅmaṃdajarāmayaḥprāyastulyaguṇavistīrṇāpatyo",
+      "words": [
+       {
+        "w": "san-māna-bhāk",
+        "gloss": "receiving honour",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "manda-jarā-āmayaḥ",
+        "gloss": "slow, mild; old age; illness",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "prāyaḥ",
+        "gloss": "mostly, usually",
+        "gram": "ind."
+       },
+       {
+        "w": "tulya-guṇa-vistīrṇa-apatyaḥ",
+        "gloss": "equal; qualities; extensive; offspring",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrghāyuśca",
+      "words": [
+       {
+        "w": "dīrgha-āyuḥ",
+        "gloss": "long-lived",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ सब सारों से युक्त होने वाला अत्यन्त बलवान, अत्यन्त गौरव यानी भारीपन से युक्त, क्लेश सहने में समर्थ, सब आरम्भों में अपने में आशा रखने वाला, कल्याण में लगनशील, स्थिर शरीर वाला, सुसंयत गति वाला, अनुनाद सहित स्निग्ध गम्भीर और महान् स्वर वाला, सुख, ऐश्वर्य और धन के उपभोग वाला, सम्मान पाने वाला, मन्द जरा और मन्द रोग वाला, प्रायः समान गुणों वाली विस्तृत सन्तान वाला और दीर्घायु होता है।",
+  "english": "There, one endowed with all the essences (sāra) is exceedingly strong, endowed with great heaviness (gaurava), able to bear hardship, having hope in himself in all undertakings, devoted to the good, steady in body, of well-composed gait, with a resonant, smooth, deep and great voice, with the enjoyment of comfort, lordship and wealth, receiving honour, with slow old age and mild illness, usually with widely extended offspring of equal qualities, and long-lived.",
+  "text_flags": [],
+  "notes": "The sāras themselves are not listed in this unit; 'sāra' is rendered 'essence'. 'tatra' (there, among these) has no stated antecedent. 'gaurava' is bodily heaviness or gravity of bearing (dignity is an alternative sense). 'manda' is taken with both jarā and āmaya (slow/mild); 'prāyaḥ' (usually) could be taken with the preceding or the following phrase. 'vistīrṇa-apatya' = offspring that are extensive/numerous. 'sānunāda' = with resonance (anunāda). All adjectives qualify the one endowed with all sāras (subject understood from 'upaitaḥ').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.77"
+  ],
+  "lines_deva": [
+   "तत्र सर्वैः सारैरुपैतोभवत्यतिबलः परमगौरवयुक्तः क्लेशक्षमःसर्वारंभेष्वात्मनि प्रत्याशावान् कल्याणाभिनिवेशी स्थिरशरीरः सुसमाहितगतिः सानुनादस्निग्धगंभीरमहास्वरः सुखैश्वर्यवित्तोपभोगः सन्मानभाङ्मंदजरामयःप्रायस्तुल्यगुणविस्तीर्णापत्यो दीर्घायुश्च"
+  ],
+  "lines_iast": [
+   "tatra sarvaiḥ sārairupaitobhavatyatibalaḥ paramagauravayuktaḥ kleśakṣamaḥsarvāraṃbheṣvātmani pratyāśāvān kalyāṇābhiniveśī sthiraśarīraḥ susamāhitagatiḥ sānunādasnigdhagaṃbhīramahāsvaraḥ sukhaiśvaryavittopabhogaḥ sanmānabhāṅmaṃdajarāmayaḥprāyastulyaguṇavistīrṇāpatyo dīrghāyuśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadviparītastvasāraḥ",
+      "words": [
+       {
+        "w": "tat-viparītaḥ",
+        "gloss": "opposite of that",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       },
+       {
+        "w": "asāraḥ",
+        "gloss": "without essence (sāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyo",
+      "words": [
+       {
+        "w": "madhyaḥ",
+        "gloss": "middle (one)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyaguṇaḥ",
+      "words": [
+       {
+        "w": "madhya-guṇaḥ",
+        "gloss": "of middling qualities",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका विपरीत तो असार यानी सार से रहित है; मध्य वाला मध्यम गुणों वाला है।",
+  "english": "The opposite of that, however, is without essence (asāra); the middle one has middling qualities.",
+  "text_flags": [],
+  "notes": "'tat' is taken as the one endowed with all sāras (77). Copula 'is/are' supplied (copula understood). Whether 'asāra' means entirely lacking every sāra is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.78"
+  ],
+  "lines_deva": [
+   "तद्विपरीतस्त्वसारः मध्यो मध्यगुणः"
+  ],
+  "lines_iast": [
+   "tadviparītastvasāraḥ madhyo madhyaguṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pramāṇaṃ",
+      "words": [
+       {
+        "w": "pramāṇam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "moreover",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāṃgulaiḥ",
+      "words": [
+       {
+        "w": "sva-aṅgulaiḥ",
+        "gloss": "one's own; finger-breadths (aṅgula)",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रमाण फिर अपने अंगुलों यानी अंगुल की चौड़ाई से है।",
+  "english": "The measure, moreover, is by one's own aṅgulas (finger-breadths).",
+  "text_flags": [],
+  "notes": "Introduces the measurements that follow. Copula 'is/are' supplied (copula understood).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.79"
+  ],
+  "lines_deva": [
+   "प्रमाणं पुनः स्वांगुलैः"
+  ],
+  "lines_iast": [
+   "pramāṇaṃ punaḥ svāṃgulaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pādāṃguṣṭhapradeśinyau",
+      "words": [
+       {
+        "w": "pāda-aṅguṣṭha-pradeśinyau",
+        "gloss": "of the foot; big toe; second toe (pradeśinī, lit. pointing one)",
+        "gram": "dvandva, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dvyaṃgulāyate",
+      "words": [
+       {
+        "w": "dvi-aṅgula-āyate",
+        "gloss": "two aṅgulas long",
+        "gram": "bahuvrīhi, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tisro'nyāḥ",
+      "words": [
+       {
+        "w": "tisraḥ",
+        "gloss": "three",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "anyāḥ",
+        "gloss": "other",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "krameṇottarottaraṃ",
+      "words": [
+       {
+        "w": "krameṇa",
+        "gloss": "in order",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "uttarottaram",
+        "gloss": "each successive, one after another",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcamabhāgahīnāstannakhahīnā",
+      "words": [
+       {
+        "w": "pañcama-bhāga-hīnāḥ",
+        "gloss": "fifth; part; diminished by",
+        "gram": "tat-puruṣa, f. nom. pl."
+       },
+       {
+        "w": "tat-nakha-hīnāḥ",
+        "gloss": "their; nail; diminished by",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैर के अँगूठे और प्रदेशिनी यानी अँगूठे के बाद की अंगुली दो अंगुल लम्बी हैं; अन्य तीन क्रम से आगे-आगे पाँचवें भाग से हीन हैं, या उनके नख से हीन हैं।",
+  "english": "The big toe and the second toe (pradeśinī) of the foot are two aṅgulas long; the other three, in order, each successive one, are less by a fifth part, or less by their nail.",
+  "text_flags": [],
+  "notes": "Final -hīnā before 'vā' is regular sandhi (hīnāḥ vā). 'tat-nakha' = the nail of those (toes); the text does not say how a nail's length is fixed. pradeśinī (index finger) applied to the foot = second toe (standard). 'Other three' are the remaining toes, not named. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed. Open: 'tat' in tannakha-hīnāḥ may mean the nail of the preceding toe or each toe's own nail; 'a fifth part' (of what) is also not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.80"
+  ],
+  "lines_deva": [
+   "पादांगुष्ठप्रदेशिन्यौ द्व्यंगुलायते तिस्रोऽन्याः क्रमेणोत्तरोत्तरं पंचमभागहीनास्तन्नखहीना वा"
+  ],
+  "lines_iast": [
+   "pādāṃguṣṭhapradeśinyau dvyaṃgulāyate tisro'nyāḥ krameṇottarottaraṃ paṃcamabhāgahīnāstannakhahīnā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturaṃgulāyatāḥ",
+      "words": [
+       {
+        "w": "catur-aṅgula-āyatāḥ",
+        "gloss": "four aṅgulas long",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthakprapadapādatalapāṣṇyaḥ",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "prapada-pāda-tala-pāṣṇyaḥ",
+        "gloss": "front of the foot (prapada); sole (pādatala); heel (pāṣṇi)",
+        "gram": "dvandva, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭpaṃcacaturaṃgulavistṛtāścaturdaśaivāyāmena",
+      "words": [
+       {
+        "w": "ṣaṭ-pañca-catur-aṅgula-vistṛtāḥ",
+        "gloss": "six, five, four aṅgulas broad",
+        "gram": "bahuvrīhi, f. nom. pl."
+       },
+       {
+        "w": "caturdaśa",
+        "gloss": "fourteen",
+        "gram": "num. nom."
+       },
+       {
+        "w": "eva",
+        "gloss": "exactly, only",
+        "gram": "ind."
+       },
+       {
+        "w": "āyāmena",
+        "gloss": "in length",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādaścaturdaśaiva",
+      "words": [
+       {
+        "w": "pādaḥ",
+        "gloss": "foot",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "caturdaśa",
+        "gloss": "fourteen",
+        "gram": "num. nom."
+       },
+       {
+        "w": "eva",
+        "gloss": "exactly, only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pariṇāhena",
+      "words": [
+       {
+        "w": "pariṇāhena",
+        "gloss": "in girth",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रपद, पादतल और पाष्णि अलग-अलग चार अंगुल लम्बे हैं, और छः, पाँच और चार अंगुल चौड़े हैं; पैर लम्बाई में चौदह ही है और घेरे में चौदह ही है।",
+  "english": "The prapada (front of the foot), the sole (pādatala) and the heel (pāṣṇi) are separately four aṅgulas long, and are spread six, five and four aṅgulas broad; the foot is exactly fourteen in length and exactly fourteen in girth.",
+  "text_flags": [],
+  "notes": "Pairing of the widths six, five, four with the three parts follows their order (natural reading, not stated). The three lengths of four plus the two of the big toe (80) make fourteen, which agrees with the foot's length; this is an observation only. 'aṅgula' is understood after the numerals. prapada = forepart of the foot, pāṣṇi = heel (standard). Final -āḥ/-aḥ before c is regular sandhi (vistṛtāś, pādaś). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.81"
+  ],
+  "lines_deva": [
+   "चतुरंगुलायताः पृथक्प्रपदपादतलपाष्ण्यः षट्पंचचतुरंगुलविस्तृताश्चतुर्दशैवायामेन पादश्चतुर्दशैव परिणाहेन"
+  ],
+  "lines_iast": [
+   "caturaṃgulāyatāḥ pṛthakprapadapādatalapāṣṇyaḥ ṣaṭpaṃcacaturaṃgulavistṛtāścaturdaśaivāyāmena pādaścaturdaśaiva pariṇāhena"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gulphau",
+      "words": [
+       {
+        "w": "gulphau",
+        "gloss": "two ankles",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jaṃghāmadhyaṃca",
+      "words": [
+       {
+        "w": "jaṅghā-madhyam",
+        "gloss": "shank (jaṅghā); middle",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही दोनों गुल्फ यानी टखने और जंघा यानी घुटने से टखने तक की टाँग का मध्य।",
+  "english": "Likewise the two ankles (gulpha) and the middle of the shank (jaṅghā).",
+  "text_flags": [],
+  "notes": "Elliptical: no measure and no verb are printed here; both are carried from the neighbouring units, but the text does not say which measure. Unit 83 begins a new item (the foot's height). gulpha = ankle (standard); jaṅghā = the lower leg between knee and ankle (standard); in Hindi jaṅghā is not the thigh. Possible continuation of u81: 'tathā' may carry over a measure (e.g. girth) from the preceding unit, or a measure may have dropped out in print; not claimed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.82"
+  ],
+  "lines_deva": [
+   "तथा गुल्फौ जंघामध्यंच"
+  ],
+  "lines_iast": [
+   "tathā gulphau jaṃghāmadhyaṃca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturaṃgulotsedhaḥ",
+      "words": [
+       {
+        "w": "catur-aṅgula-utsedhaḥ",
+        "gloss": "four aṅgulas high",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādaḥ",
+      "words": [
+       {
+        "w": "pādaḥ",
+        "gloss": "foot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैर ऊँचाई में चार अंगुल का है।",
+  "english": "The foot is four aṅgulas in height.",
+  "text_flags": [],
+  "notes": "Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.83"
+  ],
+  "lines_deva": [
+   "चतुरंगुलोत्सेधः पादः"
+  ],
+  "lines_iast": [
+   "caturaṃgulotsedhaḥ pādaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭādaśāyāmā",
+      "words": [
+       {
+        "w": "aṣṭādaśa-āyāmā",
+        "gloss": "eighteen in length",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṃghāūruśca",
+      "words": [
+       {
+        "w": "jaṅghā",
+        "gloss": "shank",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ūruḥ",
+        "gloss": "thigh",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जंघा यानी घुटने से टखने तक की टाँग और ऊरु यानी जाँघ लम्बाई में अठारह हैं।",
+  "english": "The shank (jaṅghā) and the thigh (ūru) are eighteen in length.",
+  "text_flags": [],
+  "notes": "'aṣṭādaśāyāmā' is feminine singular, agreeing with jaṅghā, and is understood for both. ūru = thigh (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.84"
+  ],
+  "lines_deva": [
+   "अष्टादशायामा जंघाऊरुश्च"
+  ],
+  "lines_iast": [
+   "aṣṭādaśāyāmā jaṃghāūruśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturaṃgulaṃ",
+      "words": [
+       {
+        "w": "catur-aṅgulam",
+        "gloss": "four aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jānu",
+      "words": [
+       {
+        "w": "jānu",
+        "gloss": "knee",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जानु यानी घुटना चार अंगुल का है।",
+  "english": "The knee (jānu) is of four aṅgulas.",
+  "text_flags": [],
+  "notes": "The dimension (length, breadth) is not stated. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.85"
+  ],
+  "lines_deva": [
+   "चतुरंगुलं जानु"
+  ],
+  "lines_iast": [
+   "caturaṃgulaṃ jānu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "triṃśadaṃgulapariṇāhaūruḥ",
+      "words": [
+       {
+        "w": "triṃśad-aṅgula-pariṇāhaḥ",
+        "gloss": "thirty aṅgulas in girth",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ūruḥ",
+        "gloss": "thigh",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊरु यानी जाँघ घेरे में तीस अंगुल की है।",
+  "english": "The thigh is thirty aṅgulas in girth.",
+  "text_flags": [],
+  "notes": "Printed 'pariṇāhaūruḥ' = pariṇāhaḥ + ūruḥ (visarga lost in hiatus, regular). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.86"
+  ],
+  "lines_deva": [
+   "त्रिंशदंगुलपरिणाहऊरुः"
+  ],
+  "lines_iast": [
+   "triṃśadaṃgulapariṇāhaūruḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍāyāmau",
+      "words": [
+       {
+        "w": "ṣaṭ-āyāmau",
+        "gloss": "six in length",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "muṣkameṃḍhrāvaṣṭapaṃcapariṇāhau",
+      "words": [
+       {
+        "w": "muṣka-meḍhrau",
+        "gloss": "scrotum or testicles (muṣka); penis (meḍhra)",
+        "gram": "dvandva, m. nom. du."
+       },
+       {
+        "w": "aṣṭa-pañca-pariṇāhau",
+        "gloss": "eight and five in girth",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मुष्क यानी अण्डकोश और मेढ्र यानी शिश्न, दोनों लम्बाई में छः हैं और घेरे में आठ और पाँच हैं।",
+  "english": "The muṣka (scrotum or testicles) and the meḍhra (penis) are both six in length, and eight and five in girth.",
+  "text_flags": [],
+  "notes": "Printed 'meṃḍhra' is read meḍhra (nasal before the conjunct; spelling normalised). Pairing 'eight and five' with the two organs in order is the natural reading, not stated. muṣka = testicle/scrotum (standard, the dictionaries give both), meḍhra = penis (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.87"
+  ],
+  "lines_deva": [
+   "षडायामौ मुष्कमेंढ्रावष्टपंचपरिणाहौ"
+  ],
+  "lines_iast": [
+   "ṣaḍāyāmau muṣkameṃḍhrāvaṣṭapaṃcapariṇāhau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣoḍaśavistārā",
+      "words": [
+       {
+        "w": "ṣoḍaśa-vistārā",
+        "gloss": "sixteen in breadth",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭī",
+      "words": [
+       {
+        "w": "kaṭī",
+        "gloss": "hip, waist region",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṃcāśatpariṇāhā",
+      "words": [
+       {
+        "w": "pañcāśat-pariṇāhā",
+        "gloss": "fifty in girth",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटी यानी कमर का भाग चौड़ाई में सोलह और घेरे में पचास है।",
+  "english": "The kaṭī (hip or waist region) is sixteen in breadth and fifty in girth.",
+  "text_flags": [],
+  "notes": "kaṭī = hip/waist region (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.88"
+  ],
+  "lines_deva": [
+   "षोडशविस्तारा कटी पंचाशत्परिणाहा"
+  ],
+  "lines_iast": [
+   "ṣoḍaśavistārā kaṭī paṃcāśatpariṇāhā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśāṃgulaṃbastiśiraḥ",
+      "words": [
+       {
+        "w": "daśa-aṅgulam",
+        "gloss": "ten aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "basti-śiraḥ",
+        "gloss": "bladder; head: head of the bladder",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्तिशिर यानी मूत्राशय का शिर दस अंगुल का है।",
+  "english": "The basti-śiras ('head of the bladder'; basti = bladder) is ten aṅgulas.",
+  "text_flags": [],
+  "notes": "basti = urinary bladder (standard); 'basti-śiras' is kept literal, and the exact part meant (the top of the bladder, or the region above it) is not stated here. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.89"
+  ],
+  "lines_deva": [
+   "दशांगुलंबस्तिशिरः"
+  ],
+  "lines_iast": [
+   "daśāṃgulaṃbastiśiraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvādaśāṃgulamudaraṃ",
+      "words": [
+       {
+        "w": "dvādaśa-aṅgulam",
+        "gloss": "twelve aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "udaram",
+        "gloss": "belly",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उदर यानी पेट बारह अंगुल का है।",
+  "english": "The belly (udara) is twelve aṅgulas.",
+  "text_flags": [],
+  "notes": "Here udara is the belly (body part), not a disease. The dimension is not stated. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.90"
+  ],
+  "lines_deva": [
+   "द्वादशांगुलमुदरं"
+  ],
+  "lines_iast": [
+   "dvādaśāṃgulamudaraṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "vistāre",
+      "words": [
+       {
+        "w": "vistāre",
+        "gloss": "in breadth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśāyāme",
+      "words": [
+       {
+        "w": "dvādaśa-āyāme",
+        "gloss": "twelve in length",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārśve",
+      "words": [
+       {
+        "w": "pārśve",
+        "gloss": "two flanks (sides)",
+        "gram": "n. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पार्श्व यानी पसलियों वाले दोनों भाग चौड़ाई में दस और लम्बाई में बारह हैं।",
+  "english": "The two flanks (pārśva) are ten in breadth and twelve in length.",
+  "text_flags": [],
+  "notes": "'vistāre' and 'āyāme' may be locatives ('in breadth', 'in length') or dual forms agreeing with 'pārśve'; the sense is the same. pārśva = flank, side of the trunk (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.91"
+  ],
+  "lines_deva": [
+   "दश विस्तारे द्वादशायामे पार्श्वे"
+  ],
+  "lines_iast": [
+   "daśa vistāre dvādaśāyāme pārśve"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvādaśotsedhaṃ",
+      "words": [
+       {
+        "w": "dvādaśa-utsedham",
+        "gloss": "twelve in height",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "trikaṃ",
+      "words": [
+       {
+        "w": "trikam",
+        "gloss": "trika (probably the sacral region of the lower back)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्रिक यानी सम्भवतः पीठ के निचले भाग का त्रिकास्थि वाला स्थान ऊँचाई में बारह है।",
+  "english": "The trika (probably the sacral region of the lower back) is twelve in height.",
+  "text_flags": [],
+  "notes": "trika = the lower back where the spine meets the pelvis, sacrum (probable). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.92"
+  ],
+  "lines_deva": [
+   "द्वादशोत्सेधं त्रिकं"
+  ],
+  "lines_iast": [
+   "dvādaśotsedhaṃ trikaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭādaśotsedhaṃ",
+      "words": [
+       {
+        "w": "aṣṭādaśa-utsedham",
+        "gloss": "eighteen in height",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhaṃ",
+      "words": [
+       {
+        "w": "pṛṣṭham",
+        "gloss": "back",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृष्ठ यानी पीठ ऊँचाई में अठारह है।",
+  "english": "The back (pṛṣṭha) is eighteen in height.",
+  "text_flags": [],
+  "notes": "Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.93"
+  ],
+  "lines_deva": [
+   "अष्टादशोत्सेधं पृष्ठं"
+  ],
+  "lines_iast": [
+   "aṣṭādaśotsedhaṃ pṛṣṭhaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvādaśakaṃ",
+      "words": [
+       {
+        "w": "dvādaśakam",
+        "gloss": "a set of twelve, twelve",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stanāṃtaraṃ",
+      "words": [
+       {
+        "w": "stana-antaram",
+        "gloss": "interval between the breasts",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्तनान्तर यानी दोनों स्तनों के बीच का अन्तर बारह का है।",
+  "english": "The interval between the breasts (stanāntara) is a set of twelve.",
+  "text_flags": [],
+  "notes": "'dvādaśaka' = a group of twelve. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.94"
+  ],
+  "lines_deva": [
+   "द्वादशकं स्तनांतरं"
+  ],
+  "lines_iast": [
+   "dvādaśakaṃ stanāṃtaraṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvyaṃgulaḥ",
+      "words": [
+       {
+        "w": "dvi-aṅgulaḥ",
+        "gloss": "two aṅgulas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stanaparyaṃtaḥ",
+      "words": [
+       {
+        "w": "stana-paryantaḥ",
+        "gloss": "breast; limit, extremity",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्तन का पर्यन्त यानी छोर दो अंगुल का है।",
+  "english": "The limit (paryanta) of the breast is two aṅgulas.",
+  "text_flags": [],
+  "notes": "'paryanta' = boundary, extremity; it may mean the breast's own extent or the edge region; the text does not say. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.95"
+  ],
+  "lines_deva": [
+   "द्व्यंगुलः स्तनपर्यंतः"
+  ],
+  "lines_iast": [
+   "dvyaṃgulaḥ stanaparyaṃtaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturviṃśatyaṃgulaviśālaṃ",
+      "words": [
+       {
+        "w": "catur-viṃśati-aṅgula-viśālam",
+        "gloss": "twenty-four aṅgulas broad",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśotsedhamuraḥ",
+      "words": [
+       {
+        "w": "dvādaśa-utsedham",
+        "gloss": "twelve in height",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "uraḥ",
+        "gloss": "chest",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उरस् यानी छाती चौबीस अंगुल चौड़ी और ऊँचाई में बारह है।",
+  "english": "The chest (uras) is twenty-four aṅgulas broad and twelve in height.",
+  "text_flags": [],
+  "notes": "Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.96"
+  ],
+  "lines_deva": [
+   "चतुर्विंशत्यंगुलविशालं द्वादशोत्सेधमुरः"
+  ],
+  "lines_iast": [
+   "caturviṃśatyaṃgulaviśālaṃ dvādaśotsedhamuraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvyaṃgulaṃ",
+      "words": [
+       {
+        "w": "dvi-aṅgulam",
+        "gloss": "two aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हृदय यानी दिल दो अंगुल का है।",
+  "english": "The heart (hṛdaya) is of two aṅgulas.",
+  "text_flags": [],
+  "notes": "hṛdaya = heart (standard). The dimension is not stated. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.97"
+  ],
+  "lines_deva": [
+   "द्व्यंगुलं हृदयं"
+  ],
+  "lines_iast": [
+   "dvyaṃgulaṃ hṛdayaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭakau",
+      "words": [
+       {
+        "w": "aṣṭakau",
+        "gloss": "of eight, a set of eight",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "skaṃdhau",
+      "words": [
+       {
+        "w": "skandhau",
+        "gloss": "two shoulders (skandha)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kakṣe",
+      "words": [
+       {
+        "w": "kakṣe",
+        "gloss": "two armpits",
+        "gram": "nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों स्कन्ध यानी कन्धे आठ के हैं, और दोनों कक्ष यानी काँख।",
+  "english": "The two shoulders (skandha) are of eight, and the two armpits.",
+  "text_flags": [],
+  "notes": "'aṣṭakau' is masculine dual and agrees only with 'skandhau'; that the armpits share the measure is understood from 'ca'. kakṣa = armpit (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.98"
+  ],
+  "lines_deva": [
+   "अष्टकौ स्कंधौ कक्षे च"
+  ],
+  "lines_iast": [
+   "aṣṭakau skaṃdhau kakṣe ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaḍḍāvaṃsau",
+      "words": [
+       {
+        "w": "ṣaṭkau",
+        "gloss": "of six, a set of six (conjectured; printed ṣaḍḍā)",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "aṃsau",
+        "gloss": "two aṃsa (shoulder-joints, probable)",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, दोनों अंस यानी सम्भवतः कन्धे के जोड़ छः के हैं।",
+  "english": "On a conjectural reading, the two aṃsa (probably the shoulder-joints) are of six.",
+  "text_flags": [
+   {
+    "src": "ṣaḍḍāvaṃsau",
+    "suggest": "ṣaṭkāvaṃsau",
+    "why": "possible: 'ṣaḍḍā' is not a form; the parallel dual numerals in 98, 100, 101 (aṣṭakau, ṣoḍaśakau, pañcadaśakau) suggest 'ṣaṭkau aṃsau' = ṣaṭkāv aṃsau (ṭk/ḍḍ confusion in the scan); conjectural"
+   }
+  ],
+  "notes": "Printed 'ṣaḍḍāvaṃsau' is not a regular form. The neighbouring units 98, 100, 101 use dual '-ka' forms (aṣṭakau, ṣoḍaśakau, pañcadaśakau); 'ṣaṭkau' + 'aṃsau' would give 'ṣaṭkāvaṃsau', close to the print, so this is a possible reading only. The numeral 'six' and 'aṃsa' are fairly sure; the middle syllables are not. aṃsa (shoulder or shoulder-joint) is probable; skandha in 98 is also rendered shoulder, and how the two differ is not stated here. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.08.99"
+  ],
+  "lines_deva": [
+   "षड्डावंसौ"
+  ],
+  "lines_iast": [
+   "ṣaḍḍāvaṃsau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣoḍaśakau",
+      "words": [
+       {
+        "w": "ṣoḍaśakau",
+        "gloss": "of sixteen, a set of sixteen",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "prabāhū",
+      "words": [
+       {
+        "w": "prabāhū",
+        "gloss": "two prabāhu (an arm segment, identity disputed)",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों प्रबाहु यानी भुजा का एक भाग, जिसकी पहचान विवादित है, सोलह के हैं।",
+  "english": "The two prabāhu (a segment of the arm; identity disputed) are of sixteen.",
+  "text_flags": [],
+  "notes": "prabāhu is given as 'forearm' in some dictionaries and as part of the upper limb in others; identity disputed, so the Sanskrit term is kept. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.100"
+  ],
+  "lines_deva": [
+   "षोडशकौ प्रबाहू"
+  ],
+  "lines_iast": [
+   "ṣoḍaśakau prabāhū"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṃcadaśakau",
+      "words": [
+       {
+        "w": "pañcadaśakau",
+        "gloss": "of fifteen, a set of fifteen",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "prapāṇī",
+      "words": [
+       {
+        "w": "prapāṇī",
+        "gloss": "two prapāṇi (a part of the hand or arm, identity disputed)",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों प्रपाणि यानी हाथ या बाँह का एक भाग, जिसकी पहचान विवादित है, पन्द्रह के हैं।",
+  "english": "The two prapāṇi (a part of the hand or arm; identity disputed) are of fifteen.",
+  "text_flags": [],
+  "notes": "prapāṇi is unclear: a length of fifteen is longer than the hand (twelve, 102), so a part of the arm is possible, but this is not certain; identity disputed, Sanskrit term kept. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.101"
+  ],
+  "lines_deva": [
+   "पंचदशकौ प्रपाणी"
+  ],
+  "lines_iast": [
+   "paṃcadaśakau prapāṇī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvādaśāṃgulau",
+      "words": [
+       {
+        "w": "dvādaśa-aṅgulau",
+        "gloss": "twelve aṅgulas",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pāṇī",
+      "words": [
+       {
+        "w": "pāṇī",
+        "gloss": "two hands",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tatrāpi",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in them",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcāṃgulāmadhyamāṃguliḥ",
+      "words": [
+       {
+        "w": "pañca-aṅgulā",
+        "gloss": "five aṅgulas",
+        "gram": "bahuvrīhi, f. nom. sg."
+       },
+       {
+        "w": "madhyama-aṅguliḥ",
+        "gloss": "middle finger",
+        "gram": "karmadhāraya, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों हाथ बारह अंगुल के हैं; उनमें भी मध्यमा अंगुली पाँच अंगुल की है।",
+  "english": "The two hands (pāṇi) are twelve aṅgulas; in them as well, the middle finger is five aṅgulas.",
+  "text_flags": [],
+  "notes": "Printed 'paṃcāṃgulāmadhyamāṃguliḥ' = pañcāṅgulā madhyamāṅguliḥ. 'tatra api' could also be 'even there (in each hand)'. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.102"
+  ],
+  "lines_deva": [
+   "द्वादशांगुलौ पाणी तत्रापि पंचांगुलामध्यमांगुलिः"
+  ],
+  "lines_iast": [
+   "dvādaśāṃgulau pāṇī tatrāpi paṃcāṃgulāmadhyamāṃguliḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato'rddhāṃgulahīne",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "than that, from that",
+        "gram": "ind."
+       },
+       {
+        "w": "ardha-aṅgula-hīne",
+        "gloss": "diminished by half an aṅgula",
+        "gram": "tat-puruṣa, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pradeśinyanāmike",
+      "words": [
+       {
+        "w": "pradeśinī-anāmike",
+        "gloss": "index finger (pradeśinī); ring finger (anāmikā)",
+        "gram": "dvandva, f. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे आधा अंगुल हीन प्रदेशिनी यानी तर्जनी और अनामिका हैं।",
+  "english": "Less than that by half an aṅgula are the index finger (pradeśinī) and the ring finger (anāmikā).",
+  "text_flags": [],
+  "notes": "Printed 'arddha' = ardha (doubling after r, print habit; normalised). 'tataḥ' refers to the five aṅgulas of the middle finger (102). anāmikā ('nameless') = ring finger (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.103"
+  ],
+  "lines_deva": [
+   "ततोऽर्द्धांगुलहीने प्रदेशिन्यनामिके"
+  ],
+  "lines_iast": [
+   "tato'rddhāṃgulahīne pradeśinyanāmike"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sārddhatryaṃgulau",
+      "words": [
+       {
+        "w": "sa-ardha-tri-aṅgulau",
+        "gloss": "three and a half aṅgulas",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kaniṣṭhikāṃguṣṭhau",
+      "words": [
+       {
+        "w": "kaniṣṭhikā-aṅguṣṭhau",
+        "gloss": "little finger (kaniṣṭhikā); thumb (aṅguṣṭha)",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कनिष्ठिका यानी छोटी अंगुली और अँगूठा साढ़े तीन अंगुल के हैं।",
+  "english": "The little finger (kaniṣṭhikā) and the thumb (aṅguṣṭha) are three and a half aṅgulas.",
+  "text_flags": [],
+  "notes": "Printed 'sārddha' = sārdha (doubling after r; normalised). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.104"
+  ],
+  "lines_deva": [
+   "सार्द्धत्र्यंगुलौ कनिष्ठिकांगुष्ठौ"
+  ],
+  "lines_iast": [
+   "sārddhatryaṃgulau kaniṣṭhikāṃguṣṭhau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturutsedhā",
+      "words": [
+       {
+        "w": "catur-utsedhā",
+        "gloss": "four in height",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvāviṃśatipariṇāhā",
+      "words": [
+       {
+        "w": "dvāviṃśati-pariṇāhā",
+        "gloss": "twenty-two in girth",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirodharā",
+      "words": [
+       {
+        "w": "śirodharā",
+        "gloss": "neck (lit. head-bearer)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिरोधरा यानी गर्दन ऊँचाई में चार और घेरे में बाईस है।",
+  "english": "The neck (śirodharā) is four in height and twenty-two in girth.",
+  "text_flags": [],
+  "notes": "śirodharā = neck (standard). Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.105"
+  ],
+  "lines_deva": [
+   "चतुरुत्सेधा द्वाविंशतिपरिणाहा शिरोधरा"
+  ],
+  "lines_iast": [
+   "caturutsedhā dvāviṃśatipariṇāhā śirodharā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvādaśotsedhaṃ",
+      "words": [
+       {
+        "w": "dvādaśa-utsedham",
+        "gloss": "twelve in height",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturviṃśatipariṇāhamānanaṃ",
+      "words": [
+       {
+        "w": "catur-viṃśati-pariṇāham",
+        "gloss": "twenty-four in girth",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "ānanam",
+        "gloss": "face",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आनन यानी चेहरा ऊँचाई में बारह और घेरे में चौबीस है।",
+  "english": "The face (ānana) is twelve in height and twenty-four in girth.",
+  "text_flags": [],
+  "notes": "ānana = face; āsya in 107 = mouth. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.106"
+  ],
+  "lines_deva": [
+   "द्वादशोत्सेधं चतुर्विंशतिपरिणाहमाननं"
+  ],
+  "lines_iast": [
+   "dvādaśotsedhaṃ caturviṃśatipariṇāhamānanaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṃcāṃgulamāsyaṃ",
+      "words": [
+       {
+        "w": "pañca-aṅgulam",
+        "gloss": "five aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "āsyam",
+        "gloss": "mouth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आस्य यानी मुँह पाँच अंगुल का है।",
+  "english": "The mouth (āsya) is of five aṅgulas.",
+  "text_flags": [],
+  "notes": "The dimension (opening, width) is not stated. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.08.107"
+  ],
+  "lines_deva": [
+   "पंचांगुलमास्यं"
+  ],
+  "lines_iast": [
+   "paṃcāṃgulamāsyaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturaṃgulaṃpṛthak",
+      "words": [
+       {
+        "w": "catur-aṅgulam",
+        "gloss": "four aṅgulas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "pṛthak",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cibukauṣṭhanāsāddṛṣṭyaṃtarakarṇalalāṭaṃ",
+      "words": [
+       {
+        "w": "cibuka-oṣṭha-nāsā-dṛṣṭy-antara-karṇa-lalāṭam",
+        "gloss": "chin; lip; nose; interval of the eyes; ear; forehead",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चिबुक यानी ठुड्डी, ओष्ठ यानी होंठ, नासा यानी नाक, दृष्टि-अन्तर यानी सम्भवतः आँखों के बीच की दूरी, कर्ण यानी कान और ललाट यानी माथा, अलग-अलग चार अंगुल के हैं।",
+  "english": "Separately, four aṅgulas: the chin (cibuka), the lip (oṣṭha), the nose (nāsā), the interval between the eyes (dṛṣṭy-antara, probably), the ear (karṇa) and the forehead (lalāṭa).",
+  "text_flags": [
+   {
+    "src": "cibukauṣṭhanāsāddṛṣṭyaṃtarakarṇalalāṭaṃ",
+    "suggest": "cibukauṣṭhanāsādṛṣṭyantarakarṇalalāṭam",
+    "why": "possible: doubled d in 'nāsāddṛṣṭy-' is not required inside a compound; may be a spurious doubling, or nāsāt + dṛṣṭyantara (which would change the sense)"
+   }
+  ],
+  "notes": "Printed 'nāsāddṛṣṭy-' has a doubled d: either a spurious doubling (flagged) or 'nāsāt dṛṣṭy-antara'. 'dṛṣṭy-antara' is read as the interval between the eyes (probable); 'nāsā-dṛṣṭy-antara' as one item, the nose-to-eye interval, is a possible alternative. The compound is a neuter singular dvandva (caturaṅgulam). cibuka, oṣṭha, karṇa, lalāṭa are standard. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.108"
+  ],
+  "lines_deva": [
+   "चतुरंगुलंपृथक् चिबुकौष्ठनासाद्दृष्ट्यंतरकर्णललाटं"
+  ],
+  "lines_iast": [
+   "caturaṃgulaṃpṛthak cibukauṣṭhanāsāddṛṣṭyaṃtarakarṇalalāṭaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tribhāgāṃgulavistārā",
+      "words": [
+       {
+        "w": "tri-bhāga-aṅgula-vistārā",
+        "gloss": "a third part of an aṅgula in breadth",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsāpuṭamaryādā",
+      "words": [
+       {
+        "w": "nāsā-puṭa-maryādā",
+        "gloss": "nose; cavity, nostril; border",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नासापुट यानी नथुने की मर्यादा यानी किनारा चौड़ाई में अंगुल का तिहाई भाग है।",
+  "english": "The border (maryādā) of the nostril (nāsāpuṭa) is a third part of an aṅgula in breadth.",
+  "text_flags": [],
+  "notes": "'tribhāga' is taken as a third part; 'three parts' of an aṅgula is an alternative. maryādā = border, limit. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.109"
+  ],
+  "lines_deva": [
+   "त्रिभागांगुलविस्तारा नासापुटमर्यादा"
+  ],
+  "lines_iast": [
+   "tribhāgāṃgulavistārā nāsāpuṭamaryādā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvyaṃgulāyatamaṃguṣṭhodaravistṛtaṃ",
+      "words": [
+       {
+        "w": "dvi-aṅgula-āyatam",
+        "gloss": "two aṅgulas long",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "aṅguṣṭha-udara-vistṛtam",
+        "gloss": "thumb; belly; spread: broad by the belly of the thumb",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "netraṃ",
+      "words": [
+       {
+        "w": "netram",
+        "gloss": "eye",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नेत्र यानी आँख दो अंगुल लम्बी है और अँगूठे के उदर यानी पेट की चौड़ाई वाली है।",
+  "english": "The eye (netra) is two aṅgulas long and broad by the belly (udara) of the thumb.",
+  "text_flags": [],
+  "notes": "'aṅguṣṭhodara' = the belly, i.e. the fleshy middle of the thumb; the text gives no further measure, so it is not enriched. Here udara is a body part, not a disease. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.110"
+  ],
+  "lines_deva": [
+   "द्व्यंगुलायतमंगुष्ठोदरविस्तृतं नेत्रं"
+  ],
+  "lines_iast": [
+   "dvyaṃgulāyatamaṃguṣṭhodaravistṛtaṃ netraṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in it",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuklatṛtīyāṃśaḥ",
+      "words": [
+       {
+        "w": "śukla-tṛtīya-aṃśaḥ",
+        "gloss": "of the white; third; portion",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇaḥ",
+      "words": [
+       {
+        "w": "kṛṣṇaḥ",
+        "gloss": "black (part)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇānnavamāṃśāmasūradalamātrā",
+      "words": [
+       {
+        "w": "kṛṣṇāt",
+        "gloss": "of the black",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "navama-aṃśā",
+        "gloss": "ninth portion",
+        "gram": "karmadhāraya, f. nom. sg."
+       },
+       {
+        "w": "masūra-dala-mātrā",
+        "gloss": "lentil (masūra); half-seed or leaf (dala); measure",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭiḥ",
+      "words": [
+       {
+        "w": "dṛṣṭiḥ",
+        "gloss": "sight, the seeing part (probably the pupil)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें कृष्ण यानी काला भाग शुक्ल यानी सफेद भाग का तीसरा अंश है; कृष्ण का नौवाँ अंश, मसूर के दल यानी मसूर की दाल की फाँक या पत्ते जितना, दृष्टि है, सम्भवतः पुतली।",
+  "english": "In it, the black (part) is a third portion of the white; the dṛṣṭi (the seeing part, probably the pupil) is a ninth portion of the black, of the size of a masūra-dala (half of a lentil, or a lentil leaf).",
+  "text_flags": [],
+  "notes": "Read as 'the black is a third portion of the white' (śuklasya tṛtīyāṃśaḥ); 'tṛtīya-aṃśa' = one third or the third portion. 'dṛṣṭi' = the seeing part, probably the pupil. masūra = lentil, Lens culinaris (standard); 'dala' = half-seed, split, or leaf (ambiguous). Final -ā of 'navamāṃśā' agrees with feminine dṛṣṭi. Copula 'is/are' supplied (copula understood); the unit of measure (aṅgula) is understood where only a numeral is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.08.111"
+  ],
+  "lines_deva": [
+   "तत्र शुक्लतृतीयांशः कृष्णः कृष्णान्नवमांशामसूरदलमात्रा दृष्टिः"
+  ],
+  "lines_iast": [
+   "tatra śuklatṛtīyāṃśaḥ kṛṣṇaḥ kṛṣṇānnavamāṃśāmasūradalamātrā dṛṣṭiḥ"
+  ],
+  "uncertain": []
+ }
+]

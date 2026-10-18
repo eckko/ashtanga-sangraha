@@ -1,0 +1,246 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अब इसके बाद हम मर्मविभाग शारीर की व्याख्या करेंगे, अर्थात् मर्म यानी शरीर के प्राणस्थानों के विभाजन की।",
+  "new": "अब इसलिए हम मर्मविभाग शारीर की व्याख्या करेंगे, अर्थात् मर्म यानी शरीर के प्राणस्थानों के विभाजन की।",
+  "why": "reviewer (minor): glossary: ataḥ = इसलिए (therefore); English says 'therefore'"
+ },
+ {
+  "n": "3",
+  "field": "text_flags.0.why",
+  "old": "possible: 'samaṃtriśat' is not a numeral; pta -> ma is a seen OCR confusion, and the anusvara of triṃśat is missing; 44 + 26 + 37 = 107 matches the total of unit 2 (conjectured)",
+  "new": "possible: 'samaṃtriśat' is not a numeral; pta -> ma is a seen OCR confusion, and the anusvara stands after ma instead of after tri (triṃśat); 44 + 26 + 37 = 107 matches the total of unit 2 (conjectured)",
+  "why": "reviewer (minor): the anusvara is not missing: it stands after ma (samaṃ) instead of after tri; wording misdescribes the print"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "catuḥ-catvāriṃśat",
+  "old": "catuḥ-catvāriṃśat",
+  "new": "catuścatvāriṃśat",
+  "why": "reviewer (minor): the numerals are single words (catuścatvāriṃśat 44, ṣaḍviṃśatiḥ 26); gloss 'four; forty' invites reading 4 x 40"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "catuścatvāriṃśat",
+  "old": "four; forty (forty-four)",
+  "new": "forty-four",
+  "why": "reviewer (minor): the numerals are single words (catuścatvāriṃśat 44, ṣaḍviṃśatiḥ 26); gloss 'four; forty' invites reading 4 x 40"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "ṣaḍ-viṃśatiḥ",
+  "old": "ṣaḍ-viṃśatiḥ",
+  "new": "ṣaḍviṃśatiḥ",
+  "why": "reviewer (minor): the numerals are single words (catuścatvāriṃśat 44, ṣaḍviṃśatiḥ 26); gloss 'four; forty' invites reading 4 x 40"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "ṣaḍviṃśatiḥ",
+  "old": "six; twenty (twenty-six)",
+  "new": "twenty-six",
+  "why": "reviewer (minor): the numerals are single words (catuścatvāriṃśat 44, ṣaḍviṃśatiḥ 26); gloss 'four; forty' invites reading 4 x 40"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Now, in each sakthi (thigh), near the middle toe, in the middle of the sole of the foot, the marma named talahṛdaya (sole-heart); for one pierced there, death through pain.",
+  "new": "Now, in each sakthi (lower limb), near the middle toe, in the middle of the sole of the foot, the marma named talahṛdaya (sole-heart); for one pierced there, death through pain.",
+  "why": "reviewer (minor): sakthi must be the whole lower limb here (sole marma; 11 per limb; u15 'sakthivat bāhvoḥ'); glossary p02 ch05 k5: lower limb when toes are counted. The draft's own note says so but keeps 'thigh'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अब प्रत्येक सक्थि यानी जाँघ में, मध्यमा अंगुली के समीप, पैर के तलवे के बीच तलहृदय नामक मर्म; वहाँ बिंधे हुए की पीड़ा से मृत्यु।",
+  "new": "अब प्रत्येक सक्थि यानी पूरे निचले अंग में, मध्यमा अंगुली के समीप, पैर के तलवे के बीच तलहृदय नामक मर्म; वहाँ बिंधे हुए की पीड़ा से मृत्यु।",
+  "why": "reviewer (minor): sakthi must be the whole lower limb here (sole marma; 11 per limb; u15 'sakthivat bāhvoḥ'); glossary p02 ch05 k5: lower limb when toes are counted. The draft's own note says so but keeps 'thigh'."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "sakthi",
+  "old": "in the thigh (sakthi)",
+  "new": "in the lower limb (sakthi)",
+  "why": "reviewer (minor): sakthi must be the whole lower limb here (sole marma; 11 per limb; u15 'sakthivat bāhvoḥ'); glossary p02 ch05 k5: lower limb when toes are counted. The draft's own note says so but keeps 'thigh'."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "'sakthi' (thigh) is printed as a locative in -i (allowed for neuters in -i). Since the marma lies in the sole, sakthi here evidently stands for the whole lower limb; the translation keeps 'thigh'. 'abhitaḥ' with the accusative is taken as 'near, around'. 'madhyamāṅguli' = middle toe here. 'ekaikasmin' (m./n.) agrees with sakthi. Death 'through pain' is the text's wording; nothing is added. First unit of the limb marmas.",
+  "new": "'sakthi' (thigh) is printed as a locative in -i (allowed for neuters in -i). Since the marma lies in the sole, sakthi here evidently stands for the whole lower limb; the translation keeps 'thigh'. 'abhitaḥ' with the accusative is taken as 'near, around'. 'madhyamāṅguli' = middle toe here. 'ekaikasmin' (m./n.) agrees with sakthi. Death 'through pain' is the text's wording; nothing is added. First unit of the limb marmas. Reviewer: translations now render sakthi as 'lower limb' (the sole marma cannot lie in the thigh); the earlier remark that the translation keeps 'thigh' is superseded.",
+  "why": "reviewer (minor): sakthi must be the whole lower limb here (sole marma; 11 per limb; u15 'sakthivat bāhvoḥ'); glossary p02 ch05 k5: lower limb when toes are counted. The draft's own note says so but keeps 'thigh'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "पैर और जंघा यानी पिंडली के जोड़ पर गुल्फ यानी टखना; वहाँ पीड़ा, सक्थि यानी जाँघ का अकड़ जाना, अथवा जड़ता यानी सुन्नपन।",
+  "new": "पैर और जंघा यानी घुटने से नीचे की टाँग के जोड़ पर गुल्फ यानी टखना; वहाँ पीड़ा, सक्थि यानी जाँघ का अकड़ जाना, अथवा जड़ता यानी सुन्नपन।",
+  "why": "reviewer (minor): glossary p02 ch05 k5: jaṅghā = lower leg, not calf (पिंडली); English says shank"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "एड़ी से, अनुमानित पाठ पर, बारह अंगुल पर, पिंडली के बीच इन्द्रबस्ति; वहाँ शोणित यानी रक्त के क्षय से मृत्यु।",
+  "new": "एड़ी से, अनुमानित पाठ पर, बारह अंगुल पर, जंघा यानी घुटने से नीचे की टाँग के बीच इन्द्रबस्ति; वहाँ शोणित यानी रक्त के क्षय से मृत्यु।",
+  "why": "reviewer (minor): same jaṅghā point (lower leg, not calf)"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Measured from the heel (on a conjectural reading), at twelve aṅgulas, in the middle of the shank (jaṅghā), indrabasti; there, death from loss of blood (śoṇita).",
+  "new": "Starting from the heel (on a conjectural reading), at twelve aṅgulas, in the middle of the shank (jaṅghā), indrabasti; there, death from loss of blood (śoṇita).",
+  "why": "reviewer (minor): 'Measured' is not in the Sanskrit (prabhṛti = beginning with / from)"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "पिंडली और ऊरु यानी जाँघ के जोड़ पर जानु यानी घुटना; वहाँ लंगड़ापन।",
+  "new": "जंघा यानी घुटने से नीचे की टाँग और ऊरु यानी जाँघ के जोड़ पर जानु यानी घुटना; वहाँ लंगड़ापन।",
+  "why": "reviewer (minor): same jaṅghā point"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "The print joins ubhayataḥ and āṇiḥ (ubhayata + āṇiḥ, regular hiatus after the dropped visarga); split without a flag. āṇi is read as the marma name.",
+  "new": "The print joins ubhayataḥ and āṇiḥ (ubhayata + āṇiḥ, regular sandhi aḥ + ā giving the hiatus ubhayata āṇiḥ); split without a flag. āṇi is read as the marma name.",
+  "why": "reviewer (minor): glossary: regular sandhi is never described as a lost visarga (aḥ + ā gives a-hiatus: ubhayata āṇiḥ)"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "वंक्षण यानी जाँघ और पेड़ू के जोड़ तथा वृषण यानी अण्डकोष के बीच विटप; वहाँ षाण्ढ्य यानी नपुंसकता अथवा शुक्र यानी वीर्य नामक प्रजनन-द्रव की अल्पता।",
+  "new": "वंक्षण यानी जाँघ और पेड़ू के जोड़ तथा वृषण यानी अण्डकोष के बीच विटप; वहाँ षाण्ढ्य यानी सम्भवतः नपुंसकता अथवा शुक्र यानी वीर्य नामक प्रजनन-द्रव की अल्पता।",
+  "why": "reviewer (minor): probable identification hedged in English ('probably') but not in Hindi"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "वंक्षण यानी जाँघ और पेड़ू के जोड़ तथा वृषण यानी अण्डकोष के बीच विटप; वहाँ षाण्ढ्य यानी सम्भवतः नपुंसकता अथवा शुक्र यानी वीर्य नामक प्रजनन-द्रव की अल्पता।",
+  "new": "वंक्षण यानी जाँघ और पेड़ू के जोड़ तथा वृषण यानी अण्डकोष के बीच विटप; वहाँ षाण्ढ्य यानी सम्भवतः नपुंसकता अथवा शुक्र यानी वीर्य की अल्पता।",
+  "why": "reviewer (minor): 'नामक प्रजनन-द्रव' (so-called reproductive fluid) is added; the Sanskrit says only śukra; gloss already gives वीर्य"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Like the sakthi (thigh), in the two arms (bāhu).",
+  "new": "Like the sakthi (lower limb), in the two arms (bāhu).",
+  "why": "reviewer (minor): sakthi is the lower limb here (the arm corresponds limb for limb; 11 marmas per limb)"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "सक्थि यानी जाँघ के समान, दोनों भुजाओं में।",
+  "new": "सक्थि यानी निचले अंग के समान, दोनों भुजाओं में।",
+  "why": "reviewer (minor): sakthi is the lower limb here (the arm corresponds limb for limb; 11 marmas per limb)"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "sakthi-vat",
+  "old": "like the sakthi (thigh)",
+  "new": "like the sakthi (lower limb)",
+  "why": "reviewer (minor): sakthi is the lower limb here (the arm corresponds limb for limb; 11 marmas per limb)"
+ },
+ {
+  "n": "17",
+  "field": "text_flags.0.suggest",
+  "old": "kakṣāvakṣomadhye",
+  "new": "kakṣāvakṣasor madhye",
+  "why": "reviewer (minor): The suggested form 'kakṣāvakṣomadhye' is not a regular compound sandhi; the natural restoration is 'kakṣāvakṣasor madhye' (between armpit and chest; this is also where Suśruta places kakṣādhara). Not adopted in translation: correct; confidence low is right."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "वहाँ भी दोनों ओर बिंधने पर जीवित नहीं रहता; एक ओर कटने पर मूत्र बहाने वाला घाव होता है; वह प्रयत्न से उपचारित किया गया भर जाता है।",
+  "new": "वहाँ भी दोनों ओर बिंधने पर जीवित नहीं रहता; एक ओर फट जाने पर मूत्र बहाने वाला घाव होता है; वह प्रयत्न से उपचारित किया गया भर जाता है।",
+  "why": "reviewer (minor): bhinna = split/broken (English 'split'); 'कटने' (being cut) differs in sense"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "पक्व यानी पचे हुए और आमाशय यानी अपक्व अन्न के आशय, पेट के बीच नाभि; वहाँ भी तुरन्त मृत्यु।",
+  "new": "पक्व यानी पचे हुए और आमाशय यानी कच्चे अन्न के आशय, सम्भवतः जठर, के बीच नाभि; वहाँ भी तुरन्त मृत्यु।",
+  "why": "reviewer (minor): garbled: 'पेट' at the end reads as another term; āmāśaya must be hedged 'probably stomach' (Hindi जठर) per glossary; English also unhedged"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "In the middle of the pakva (digested) and the āmāśaya (stomach), the nābhi (navel); there too, immediate death.",
+  "new": "In the middle of the pakva (digested) and the āmāśaya (probably the stomach), the nābhi (navel); there too, immediate death.",
+  "why": "reviewer (minor): garbled: 'पेट' at the end reads as another term; āmāśaya must be hedged 'probably stomach' (Hindi जठर) per glossary; English also unhedged"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "In the middle of the koṣṭha (belly) and the chest (vakṣas), and of the two breasts, the hṛdaya (heart), the seat of sattva, rajas and tamas (the three guṇas, qualities), the gate of the āmāśaya (stomach); there too, immediate death.",
+  "new": "In the middle of the koṣṭha (belly) and the chest (vakṣas), and of the two breasts, the hṛdaya (heart), the seat of sattva, rajas and tamas (the three guṇas, qualities), the gate of the āmāśaya (probably the stomach); there too, immediate death.",
+  "why": "reviewer (minor): glossary: āmāśaya hedged 'probably stomach' in both languages"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "कोष्ठ यानी पेट और वक्ष के तथा दोनों स्तनों के बीच सत्त्व, रज और तम नामक तीन गुणों का आधार, आमाशय का द्वार, हृदय; वहाँ भी तुरन्त मृत्यु।",
+  "new": "कोष्ठ यानी पेट और वक्ष के तथा दोनों स्तनों के बीच सत्त्व, रज और तम नामक तीन गुणों का आधार, आमाशय यानी सम्भवतः जठर का द्वार, हृदय; वहाँ भी तुरन्त मृत्यु।",
+  "why": "reviewer (minor): glossary: āmāśaya hedged 'probably stomach' in both languages"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "On both sides of the chest (uras), two nāḍī (channels) carrying vāta (wind), the two apastambha; in those two, death through the koṣṭha being full of blood, and through cough (kāsa) and breathlessness (śvāsa).",
+  "new": "On both sides of the chest (uras), two nāḍī (channels) carrying vāta (wind), the two apastambha; in those two, death through the koṣṭha being full of blood, and through cough (kāsa) and śvāsa (probably breathlessness).",
+  "why": "reviewer (minor): gloss says probable; not hedged in either translation"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "दोनों ओर छाती की दो नाड़ियाँ जो वात यानी वायु को ले जाती हैं, अपस्तम्भ; उन दोनों में रक्त से भरे कोष्ठ होने के कारण और कास यानी खाँसी तथा श्वास यानी साँस फूलने से मृत्यु।",
+  "new": "दोनों ओर छाती की दो नाड़ियाँ जो वात यानी वायु को ले जाती हैं, अपस्तम्भ; उन दोनों में रक्त से भरे कोष्ठ होने के कारण और कास यानी खाँसी तथा श्वास यानी सम्भवतः साँस फूलने से मृत्यु।",
+  "why": "reviewer (minor): gloss says probable; not hedged in either translation"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "दोनों अंसकूट यानी कन्धे के शिखरों के नीचे, दोनों पार्श्वों के भागों के ऊपर, अपालाप; उन दोनों में पूय की अवस्था को प्राप्त हुए रक्त से मृत्यु।",
+  "new": "दोनों अंसकूट यानी कन्धे के शिखरों के नीचे, दोनों पार्श्वों के भागों के ऊपर, अपालाप; उन दोनों में पूय यानी मवाद की अवस्था को प्राप्त हुए रक्त से मृत्यु।",
+  "why": "reviewer (minor): bare पूय needs a plain gloss"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "On the two sides, in the outer part of the jaghana (hip region), on both sides of the spine, the two kukundara; in those two, absence of perception of touch (sparśa-ajñāna) in the lower body, on a conjectural reading, and loss of movement (ceṣṭā).",
+  "new": "On the two sides, in the outer part of the jaghana (probably the hip region), on both sides of the spine, the two kukundara; in those two, absence of perception of touch (sparśa-ajñāna) in the lower body, on a conjectural reading, and loss of movement (ceṣṭā).",
+  "why": "reviewer (minor): gloss says probable; translations unhedged and Hindi has no gloss at all"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "दोनों पार्श्वों में जघन के बाहरी भाग में, रीढ़ के दोनों ओर, कुकुन्दर; उन दोनों में निचले शरीर में स्पर्श का अज्ञान यानी अनुभव न होना, अनुमानित पाठ पर, और चेष्टा का नाश यानी हिलने-डुलने की हानि।",
+  "new": "दोनों पार्श्वों में जघन यानी सम्भवतः कूल्हे के क्षेत्र के बाहरी भाग में, रीढ़ के दोनों ओर, कुकुन्दर; उन दोनों में निचले शरीर में स्पर्श का अज्ञान यानी अनुभव न होना, अनुमानित पाठ पर, और चेष्टा का नाश यानी हिलने-डुलने की हानि।",
+  "why": "reviewer (minor): gloss says probable; translations unhedged and Hindi has no gloss at all"
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "Bound to the lower interior of the sides, in the middle between the jaghana (hip region) and the side (pārśva), slanting and upward, the two pārśvasandhi (side-joints); in those two, death through the koṣṭha being full of blood.",
+  "new": "Bound to the lower interior of the sides, in the middle between the jaghana (probably the hip region) and the side (pārśva), slanting and upward, the two pārśvasandhi (side-joints); in those two, death through the koṣṭha being full of blood.",
+  "why": "reviewer (minor): same hedge as u28"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "नीचे पार्श्वों के भीतरी भाग से बँधे, जघन और पार्श्व के बीच तिरछे और ऊपर की ओर, पार्श्वसन्धि; उन दोनों में रक्त से भरे कोष्ठ होने के कारण मृत्यु।",
+  "new": "नीचे पार्श्वों के भीतरी भाग से बँधे, जघन यानी सम्भवतः कूल्हे का क्षेत्र और पार्श्व के बीच तिरछे और ऊपर की ओर, पार्श्वसन्धि; उन दोनों में रक्त से भरे कोष्ठ होने के कारण मृत्यु।",
+  "why": "reviewer (minor): same hedge as u28"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "रीढ़ के दोनों ओर, बाहु के मूल से जुड़े, अंसफलक यानी कन्धे की फलक जैसी दो हड्डियाँ; उन दोनों में भुजा का स्वाप यानी सुन्न होना और शोष यानी सूखकर क्षीण होना।",
+  "new": "रीढ़ के दोनों ओर, बाहु के मूल से जुड़े, अंसफलक यानी कन्धे की दो फलकें, सम्भवतः स्कन्धास्थियाँ; उन दोनों में भुजा का स्वाप यानी सुन्न होना और शोष यानी सूखकर क्षीण होना।",
+  "why": "reviewer (minor): 'जैसी' is added (glossary: no added जैसे); identification 'shoulder-blades' is hedged 'probably' in English but not in Hindi"
+ }
+]
