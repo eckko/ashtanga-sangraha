@@ -1,6 +1,6 @@
 # Status: ashtanga-sangraha
 
-Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (plain), S2 (sandhi-split twin). All 150 chapters extracted; no translations (see sources.md).
+Updated: 2026-10-18 on branch docs/2026-10-18/version-5. Base source: S1 (plain), S2 (sandhi-split twin). All 150 chapters extracted. Hindi and English layers (AI drafts, no person has read them) exist for Part 05 and Part 02 (see VERIFY.md); the Hindi and English columns below are not regenerated.
 
 | Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
 |---|---|---|---|---|---|---|---|
