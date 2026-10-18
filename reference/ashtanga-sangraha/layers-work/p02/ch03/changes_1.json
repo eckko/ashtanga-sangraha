@@ -1,0 +1,562 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उस में भी पहली बारह रातों तक दूध से उत्पन्न घी, शालिपर्णी और पलाश के साथ उबाला हुआ, सोने और चाँदी के साथ उबाले हुए ठण्डे जल के अनुपान सहित, पिए।",
+  "new": "उस में भी पहली बारह रातों तक दूध से उत्पन्न घी, शालिपर्णी यानी सरिवन और पलाश यानी सम्भवतः ढाक के साथ उबाला हुआ, सोने और चाँदी के साथ उबाले हुए ठण्डे जल के अनुपान सहित, पिए।",
+  "why": "reviewer (minor): Hindi gives no modern names for the two plants (policy wants Sanskrit यानी Hindi name; palāśa only probable, so hedged)."
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "kanakarajatakathitaśītodakānupānaṃ",
+    "suggest": "kanakarajatakvathitaśītodakānupānaṃ",
+    "why": "possible: 'kathita' is 'spoken'; for water treated with gold and silver the expected word is kvathita 'boiled' (v lost in print). Translation 'boiled' rests on this reading."
+   }
+  ],
+  "why": "reviewer (error): Silent emendation: printed kathita is glossed \"boiled\" without a flag. kathita normally means \"said\"; \"boiled\" needs kvathita. Unflagged emendations are not allowed; the corrected form belongs only in `words`."
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "kanaka-rajata-kathita-śīta-udaka-anupānam",
+  "old": "kanaka-rajata-kathita-śīta-udaka-anupānam",
+  "new": "kanaka-rajata-kvathita-śīta-udaka-anupānam",
+  "why": "reviewer (error): Silent emendation: printed kathita is glossed \"boiled\" without a flag. kathita normally means \"said\"; \"boiled\" needs kvathita. Unflagged emendations are not allowed; the corrected form belongs only in `words`."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मीठे और ठण्डे, अधिकतर तरल और अनुकूल से सायं और प्रातः आहार कराए।",
+  "new": "अनुमानित पाठ पर, मीठे और ठण्डे, अधिकतर तरल और अनुकूल का सायं और प्रातः आहार कराए।",
+  "why": "reviewer (error): Garbled Hindi: \"और अनुकूल से सायं और प्रातः आहार कराए\" (से is the instrumental of the wrong noun; adjectives are accusative). Also the sweet reading rests on the conjecture svādu and is not marked in the translation (glossary: a conjectural reading must be marked in both translations)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "One should have her take food of sweet and cool (ones), mostly liquid and suitable (sātmya), in the evening and in the morning.",
+  "new": "On a conjectural reading, one should have her take as food, in the evening and in the morning, (ones) that are sweet and cool, mostly liquid and suitable (sātmya).",
+  "why": "reviewer (minor): Awkward \"food of sweet and cool (ones)\"; conjectural svādu not marked."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "khādu-śītam",
+  "old": "sweet (read svādu); cool",
+  "new": "sweet; cool",
+  "why": "reviewer (minor): Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only)."
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "khādu-śītam",
+  "old": "khādu-śītam",
+  "new": "svādu-śītam",
+  "why": "reviewer (minor): Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only)."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "svādu-śītam",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only)."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "drava-prāyam",
+  "old": "n. acc. sg., bahuvrīhi",
+  "new": "bahuvrīhi, acc. sg.",
+  "why": "reviewer (minor): Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only)."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "sātmyam",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Rule 6: the corrected form belongs in `words` (svādu-śītam), the printed khādu only in src/text_flags. Gram carries a gender for adjectives standing for an unstated noun (glossary: case and number only)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और अभ्यंग तथा उद्वर्तन का सेवन न करे।",
+  "new": "और अभ्यंग यानी तेल की मालिश तथा उद्वर्तन यानी उबटन का सेवन न करे।",
+  "why": "reviewer (minor): Hindi gives no plain equivalents for the two treatments."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "dvitīye",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "tṛtīye",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "In the third (month), that same (milk), with ghee and honey.",
+  "new": "In the third (month), the same, with ghee (sarpis) and honey (madhu).",
+  "why": "reviewer (error): Supplied noun: \"that same (milk)\". The Sanskrit says only tad eva; the antecedent (milk of 7? milk-ghee? the whole regimen) is not stated, and unit 11 itself says the antecedent is open. The note claiming it is the milk of unit 7 is an inference."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "caturthe",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "चौथे में अक्ष मात्रा के नवनीत से युक्त।",
+  "new": "चौथे में अक्ष माप की मात्रा के नवनीत यानी मक्खन से युक्त।",
+  "why": "reviewer (minor): Hindi gives no plain name for navanīta and no note that akṣa is a measure."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "akṣa-mātra-navanīta-yuktam",
+  "old": "n. acc. sg., bahuvrīhi",
+  "new": "tat-puruṣa, n. acc. sg.",
+  "why": "reviewer (minor): -yukta \"joined with\" after an instrumental sense is a tat-puruṣa, not a bahuvrīhi."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "pañcame",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "ṣaṣṭhe",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "saptame",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Month ordinal stands for an unstated noun (month is only understood): glossary gives case and number only, not \"m./n.\"."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "But from the pressure of the embryo, the doṣas, having reached the heart (hṛdaya), burn; then itching arises, (and) kaṇḍūkikisa (itching with kikisa, probably the stretch marks of pregnancy).",
+  "new": "But from the pressure of the embryo, the doṣas, having reached the heart (hṛdaya), burn; then itching arises, (and) kaṇḍūkikisa (kaṇḍū, itching, + kikisa, probably stretch marks; compound unclear).",
+  "why": "reviewer (error): Invented relation: \"itching with kikisa\" and \"of pregnancy\" are not in the Sanskrit (kaṇḍū-kikisa is an unclear compound: tat-puruṣa, dvandva or a dittography of kaṇḍū)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "गर्भ के दबाव से तो दोष हृदय तक पहुँचकर जलाते हैं; तब खुजली उत्पन्न होती है, खुजली वाला किकिस, सम्भवतः गर्भावस्था की धारियाँ।",
+  "new": "गर्भ के दबाव से तो दोष हृदय तक पहुँचकर जलाते हैं; तब खुजली उत्पन्न होती है, कण्डूकिकिस, किकिस यानी सम्भवतः त्वचा पर खिंचाव की धारियाँ; समास अस्पष्ट।",
+  "why": "reviewer (error): Same invented relation (\"खुजली वाला\") and \"गर्भावस्था की\"."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "kaṇḍū-kikisam",
+  "old": "n. nom. sg., tat-puruṣa",
+  "new": "compound type unclear, n. nom. sg.",
+  "why": "reviewer (minor): Compound type is asserted as tat-puruṣa though the draft itself says it is tentative."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "वहाँ कोल यानी सम्भवतः बेर के जल के साथ, मधुर औषधों से पकाए हुए नवनीत का हथेली भर इस स्त्री को दे।",
+  "new": "वहाँ कोल यानी सम्भवतः बेर के जल के साथ, मधुर औषधों से पकाए हुए नवनीत यानी मक्खन का हथेली भर इस स्त्री को दे।",
+  "why": "reviewer (minor): Hindi gives no plain name."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "और चन्दन यानी श्वेत चन्दन तथा मृणाल यानी कमलनाल के कल्कों से स्तन और पेट को मसले।",
+  "new": "और चन्दन यानी श्वेत चन्दन तथा मृणाल यानी कमलनाल के कल्कों से स्तन और पेट को मले।",
+  "why": "reviewer (minor): मसलना = to crush/squeeze; mṛdnīyāt here is \"rub\"."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अथवा शिरीष यानी सिरिस, अनुमानित पाठ पर धातकी यानी धाय के फूल, सरसों और मधुक यानी सम्भवतः मुलेठी के चूर्णों से।",
+  "new": "अथवा शिरीष यानी सिरिस, अनुमानित पाठ पर धातकी यानी धाय, सरसों और मधुक यानी सम्भवतः मुलेठी के चूर्णों से।",
+  "why": "reviewer (error): \"के फूल\" (flowers) is not in the Sanskrit (dhātakī alone)."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "Elliptical: verb carried from unit 16. 'ḻ' in 'koḻa' is normalised to l (print habit, glossary). Whether 'bīja' governs both kuṭaja and arjaka is taken as yes (plural 'seeds of kuṭaja and arjaka'). 'surasa' read as surasā (holy basil); alternative readings (sura + sa..) not adopted. kola identity probable (jujube). arjaka = a white basil, probable. Hindi for kuṭaja is left as कुटज.",
+  "new": "Elliptical: verb carried from unit 16. 'ḻ' in 'koḻa' is normalised to l (print habit, glossary). Whether 'bīja' governs both kuṭaja and arjaka is taken as yes (plural 'seeds of kuṭaja and arjaka'). 'surasa' read as surasā (holy basil); alternative readings (sura + sa..) not adopted. kola identity probable (jujube). arjaka = a white basil, probable. Hindi gives कुटज यानी कुड़ा (glossary).",
+  "why": "reviewer (minor): Note says Hindi leaves kuṭaja as कुटज but the Hindi gives कुड़ा (glossary form). Note is wrong."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Oil massage (abhyaṅga) with water cooked with hare (śaśa), deer (hariṇa), punarnavā (Boerhavia diffusa), mālatī (a jasmine, identity disputed) and madhuka (probably licorice); with triphalā (the three fruits) mixed with the blood of the spotted deer (pṛṣata); and with oil cooked with a paste of karavīra leaves (oleander).",
+  "new": "Oil massage (abhyaṅga) with water cooked with hare (śaśa), deer (hariṇa), punarnavā (Boerhavia diffusa), mālatī (identity disputed; possibly a jasmine) and madhuka (probably licorice); with triphalā (the three fruits) mixed with the blood of the spotted deer (pṛṣata); and with oil cooked with a paste of karavīra leaves (oleander).",
+  "why": "reviewer (minor): \"A jasmine\" states as fact what is disputed (Jasminum grandiflorum vs other plants)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "शश यानी खरगोश, हरिण यानी हिरन, पुनर्नवा यानी गदहपूर्णा, मालती और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से, पृषत यानी चित्तीदार हिरन के रुधिर से युक्त त्रिफला से, और करवीर के पत्तों के कल्क से पकाए हुए तेल से अभ्यंग।",
+  "new": "शश यानी खरगोश, हरिण यानी हिरन, पुनर्नवा यानी गदहपूर्णा, मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से, पृषत यानी चित्तीदार हिरन के रुधिर से युक्त त्रिफला यानी हरड़, बहेड़ा और आँवला से, और करवीर यानी कनेर के पत्तों के कल्क से पकाए हुए तेल से अभ्यंग।",
+  "why": "reviewer (minor): Hindi lacks the modern names for mālatī (disputed, must be marked), karavīra and triphalā that the policy wants beside the Sanskrit term."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "śaśa-hariṇa-punarnavā-mālatī-madhuka-siddhena",
+  "old": "dvandva then tat-puruṣa, m. inst. sg.",
+  "new": "dvandva then tat-puruṣa, n. inst. sg.",
+  "why": "reviewer (minor): siddha agrees with ambhasā / tailena (neuter), not masculine."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "karavīra-patra-kalka-siddhena",
+  "old": "m. inst. sg., tat-puruṣa",
+  "new": "tat-puruṣa, n. inst. sg.",
+  "why": "reviewer (minor): siddha agrees with ambhasā / tailena (neuter), not masculine."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "फिर मालती और मधुक के साथ पकाए हुए जल से पारिषेक यानी सींचना।",
+  "new": "फिर मालती यानी सम्भवतः चमेली की एक जाति, जिसकी पहचान विवादित है, और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से परिषेक यानी सींचना।",
+  "why": "reviewer (minor): Misspelling (परिषेक); mālatī and madhuka lack the identity marking used in unit 19."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Pouring (pariṣeka) again with water cooked with mālatī and madhuka.",
+  "new": "Pouring (pariṣeka) again with water cooked with mālatī (identity disputed; possibly a jasmine) and madhuka (probably licorice).",
+  "why": "reviewer (minor): Identity hedges missing."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "mālatī-madhuka-siddhena",
+  "old": "m. inst. sg., dvandva then tat-puruṣa",
+  "new": "dvandva then tat-puruṣa, n. inst. sg.",
+  "why": "reviewer (minor): Agrees with neuter ambhasā."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "त्वचा के फटने पर कुरूपता को दूर करने के लिए स्नान, उद्वर्तन और चन्दन का सेवन करे।",
+  "new": "त्वचा के फटने पर कुरूपता से बचाव के लिए स्नान, उद्वर्तन और चन्दन का सेवन करे।",
+  "why": "reviewer (minor): parihāra = avoiding/warding off, not removing."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "त्वचा के फटने पर कुरूपता से बचाव के लिए स्नान, उद्वर्तन और चन्दन का सेवन करे।",
+  "new": "त्वचा के फटने पर कुरूपता से बचाव के लिए स्नान, उद्वर्तन यानी उबटन और चन्दन का सेवन करे।",
+  "why": "reviewer (minor): No plain equivalent."
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "madhuram",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): Qualifies āhāram (masculine), labelled neuter."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "'Not so,' on a conjectural reading, says ṣaṇḍhakātho (unclear), from fear of the affliction of tawny colour to the embryo.",
+  "new": "'Not so,' ṣaṇḍhakātho (unclear), on a conjectural reading, from fear of the affliction of tawny colour to the embryo.",
+  "why": "reviewer (minor): \"says\" is a supplied verb and the word is treated as a speaker although the print is unparsed."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "She brings forth a child free of disease, endowed with the excellence of strength, complexion, sattva and body-build (saṃhanana), reckoned foremost among his kinsmen: so (says) the venerable Ātreya.",
+  "new": "She produces a child free of disease, endowed with the excellence of strength, complexion, sattva and body-build (saṃhanana), reckoned foremost among his kinsmen: so (says) the venerable Ātreya.",
+  "why": "reviewer (minor): Glossary: janayati = \"produces\" throughout."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "janayati",
+  "old": "she brings forth",
+  "new": "she produces",
+  "why": "reviewer (minor): Glossary: janayati = \"produces\" throughout."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "वह रोग से रहित, बल, वर्ण, सत्त्व और संहनन की सम्पदा से युक्त, जातिजनों में अग्रगण्य सन्तान को जन्म देती है, ऐसा भगवान् आत्रेय कहते हैं।",
+  "new": "वह रोग से रहित, बल, वर्ण यानी रंग, सत्त्व यानी मन की शक्ति और संहनन यानी शरीर की सुगठित रचना की सम्पदा से युक्त, सम्बन्धियों में अग्रगण्य सन्तान को उत्पन्न करती है, ऐसा भगवान् आत्रेय कहते हैं।",
+  "why": "reviewer (error): Wrong word: jñāti = kinsmen (ज्ञाति), not जाति (caste/kind); जन्म देती है should be उत्पन्न करती है (glossary); संहनन and सत्त्व need the plain gloss."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "One should administer an āsthāpana (decoction enema) with jujube (badara) water joined with palala (probably sesame paste), milk, curd, whey (mastu), oil, salt, fruit, ghee and honey.",
+  "new": "One should administer an āsthāpana (decoction enema) with jujube (badara) water joined with palala (identity disputed; possibly sesame paste), milk, curd, whey (mastu), oil, salt, fruit, ghee and honey.",
+  "why": "reviewer (minor): palala is disputed (sesame paste or flesh); words/notes say disputed, English says \"probably\". Hindi has no identification for palala, badara or mastu."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "बदर के जल से, जो पलल, दूध, दही, मस्तु, तेल, नमक, फल, घी और मधु से युक्त हो, आस्थापन यानी काढ़े की वस्ति दे।",
+  "new": "बदर यानी बेर के जल से, जो पलल यानी सम्भवतः तिल की लुगदी, जिसकी पहचान विवादित है, दूध, दही, मस्तु यानी दही का पानी, तेल, नमक, फल, घी और मधु से युक्त हो, आस्थापन यानी काढ़े की वस्ति दे।",
+  "why": "reviewer (minor): Missing Hindi names/marks for badara, palala (disputed), mastu."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर पुराने मल की शुद्धि के लिए, और मधुक आदि मधुर औषधों से पकाए तेल से अनुवासन दे, वायु के अनुलोमन के लिए।",
+  "new": "अनुमानित पाठ पर पुराने मल की शुद्धि के लिए, और मधुक यानी सम्भवतः मुलेठी आदि मधुर औषधों से पकाए तेल से अनुवासन दे, वायु के अनुलोमन के लिए।",
+  "why": "reviewer (minor): madhuka unmarked in Hindi (probable licorice)."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "क्योंकि वायु के अनुलोम होने पर वह सुख से, उपद्रव से रहित, प्रसव करती है।",
+  "new": "क्योंकि वायु के अनुलोम होने पर वह सुख से, उपद्रव यानी जटिलता से रहित, प्रसव करती है।",
+  "why": "reviewer (minor): Bare उपद्रव reads as \"disturbance\"."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "But to the pregnant woman, bent over (nyubja), one should administer either an āsthāpana (decoction enema) or an anuvāsana (oil enema).",
+  "new": "But to the pregnant woman, face down (nyubja), one should administer either an āsthāpana (decoction enema) or an anuvāsana (oil enema).",
+  "why": "reviewer (minor): nyubja = face down, prone; \"bent over\" and Hindi \"झुकी हुई स्थिति\" read in a posture."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "गर्भिणी को तो झुकी हुई स्थिति में आस्थापन दे अथवा अनुवासन दे।",
+  "new": "गर्भिणी को तो औंधी स्थिति में आस्थापन दे अथवा अनुवासन दे।",
+  "why": "reviewer (minor): nyubja = face down, prone; \"bent over\" and Hindi \"झुकी हुई स्थिति\" read in a posture."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "nyubjām",
+  "old": "bent over, face downward (nyubja)",
+  "new": "face down, prone (nyubja)",
+  "why": "reviewer (minor): nyubja = face down, prone; \"bent over\" and Hindi \"झुकी हुई स्थिति\" read in a posture."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "इसके बाद प्रसव के समय तक चिकनी यवागुओं और जाङ्गल जीवों के रसों से उपचार करे, ऐसा भगवान् धन्वन्तरि कहते हैं।",
+  "new": "इसके बाद प्रसव के समय तक चिकनी यवागुओं और जाङ्गल जीवों के रसों यानी शोरबे से उपचार करे, ऐसा भगवान् धन्वन्तरि कहते हैं।",
+  "why": "reviewer (minor): Bare रस is ambiguous in Hindi."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "In the ninth (month), however, from that same anuvāsana oil, a picu (cotton swab) should be inserted into the yoni (vagina), for the oiling of the passage of the embryo and the receptacle (āśaya).",
+  "new": "In the ninth (month), however, from that same anuvāsana oil, a picu (cotton swab) should be inserted into the yoni (vagina), for the oiling of the passage of the embryo and the receptacle (āśaya, probably the uterus).",
+  "why": "reviewer (minor): Draft tags āśaya probably the uterus in words/notes but the translation leaves it unmarked."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "नवें में तो उसी अनुवासन के तेल से पिचु योनि में रखे, गर्भ के मार्ग और आशय को स्नेहन के लिए।",
+  "new": "नवें में तो उसी अनुवासन के तेल से पिचु यानी रुई का फाहा योनि में रखे, गर्भ के मार्ग और आशय यानी सम्भवतः गर्भाशय को स्नेहन यानी तेल से चिकना करने के लिए।",
+  "why": "reviewer (minor): Hindi lacks plain glosses for picu, āśaya, snehana (bare स्नेहन can read as affection)."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "इससे पहले मास से आरम्भ करके क्रम से गर्भिणी के प्रसव के समय गर्भ को धारण करने वाली कुक्षि, कटि, पार्श्व और पीठ मृदु हो जाती है।",
+  "new": "इसके द्वारा पहले मास से आरम्भ करके क्रम से गर्भिणी के प्रसव के समय गर्भ को धारण करने वाली कुक्षि, कटि, पार्श्व और पीठ मृदु हो जाती है।",
+  "why": "reviewer (minor): Ambiguous: \"इससे पहले\" reads \"before this\"."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "garbha-dhāriṇī",
+  "old": "f., karmadhāraya",
+  "new": "f., tat-puruṣa",
+  "why": "reviewer (minor): \"bearing the embryo\" is an upapada tat-puruṣa, not karmadhāraya; anena unstated referent should not carry gender."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "anena",
+  "old": "n. inst. sg.",
+  "new": "inst. sg.",
+  "why": "reviewer (minor): \"bearing the embryo\" is an upapada tat-puruṣa, not karmadhāraya; anena unstated referent should not carry gender."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, बिल्व यानी बेल, कार्पासी यानी कपास, फंफेणा अस्पष्ट, पाटली, पिचुमन्द यानी नीम, अग्निमन्थ, मांसी यानी जटामांसी, वर्धमानक और पत्र भंग के काढ़े से, ठण्डे काढ़े से अथवा सब गन्ध वाले द्रव्यों के जल से गर्भिणी के लिए प्रतिदिन स्नान का उपदेश करे।",
+  "new": "अनुमानित पाठ पर, बिल्व यानी बेल, कार्पासी यानी कपास, फंफेणा अस्पष्ट, पाटली यानी पाढ़ल, पिचुमन्द यानी नीम, अग्निमन्थ यानी सम्भवतः अरणी, मांसी यानी सम्भवतः जटामांसी, वर्धमानक यानी सम्भवतः अरण्ड, जिसकी पहचान विवादित है, और पत्रभंग अस्पष्ट, इनके ठण्डे किए हुए काढ़े से अथवा सब गन्ध वाले द्रव्यों के जल से गर्भिणी के लिए प्रतिदिन स्नान का उपदेश करे।",
+  "why": "reviewer (error): Hindi duplicates the decoction (kvāthena śītena is one phrase, \"cooled decoction\"), producing three options; no names/hedges for pāṭalī, agnimantha, māṃsī, vardhamānaka (probable/disputed ones must be hedged in Hindi too)."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "garbhiṇyāḥ",
+  "old": "f. dat./gen. sg.",
+  "new": "f. gen. sg.",
+  "why": "reviewer (minor): garbhiṇyāḥ is not a dative form (garbhiṇyai); genitive in dative sense."
+ },
+ {
+  "n": "41",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "gobrāhmaṇavṛddhāntvā''vartamānā",
+    "suggest": "gobrāhmaṇavṛddhān tv āvartamānā",
+    "why": "possible: tu + ā gives 'tvā'; the doubled avagraha mark is a print habit; the sense 'circling round' is not firm."
+   },
+   {
+    "src": "paritṛtā",
+    "suggest": "parivṛtā",
+    "why": "possible: tr for vr is a common OCR confusion; 'surrounded' fits."
+   },
+   {
+    "src": "parā'nulomanerāhāravihārairanulomitavātamtrapurīṣā",
+    "suggest": "parā anulomanair āhāravihārair anulomitavātamūtrapurīṣā",
+    "why": "possible: 'nerā' for 'nair ā' (ai printed e), and 'mtra' for 'mūtra' (ū lost); the sense fits."
+   }
+  ],
+  "new": [
+   {
+    "src": "gobrāhmaṇavṛddhāntvā''vartamānā",
+    "suggest": "gobrāhmaṇavṛddhān tv āvartamānā",
+    "why": "possible: tu + ā gives 'tvā'; the doubled avagraha mark is a print habit; the sense 'circling round' is not firm."
+   },
+   {
+    "src": "paritṛtā",
+    "suggest": "parivṛtā",
+    "why": "possible: tr for vr is a common OCR confusion; 'surrounded' fits."
+   },
+   {
+    "src": "parā'nulomanerāhāravihārairanulomitavātamtrapurīṣā",
+    "suggest": "parā anulomanair āhāravihārair anulomitavātamūtrapurīṣā",
+    "why": "possible: 'nerā' for 'nair ā' (ai printed e), and 'mtra' for 'mūtra' (ū lost); the sense fits."
+   },
+   {
+    "src": "prasūtābhiranuktābhiravipādābhiḥ",
+    "suggest": "prasūtābhir anuraktābhir avipannābhiḥ ?",
+    "why": "possible: anuktā ('unsaid') and avipādā (not a known word) give no sense among attendant qualities; anuraktā ('devoted') and avipannā ('unharmed') are conjectured (r and n lost). Kept as printed and unglossed in `words`."
+   }
+  ],
+  "why": "reviewer (minor): Both words sit in the list of qualities but are not flagged; avipāda is not a known word, and the note calls them \"real forms\". A possible emendation should be recorded."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "On a conjectural reading: there, when the stars and the rest are favourable, with the utterance of puṇyāha (auspicious-day formula), but circling clockwise round the cows, brahmins and elders, having entered, surrounded by women who have given birth many times, anuktābhiḥ and avipādābhiḥ (unclear), able to bear hardship, devoted to auspicious rites (svastyayana), with wind, urine and stool made to move properly by regulating food and conduct, she should await the time of delivery.",
+  "new": "On a conjectural reading: there, when the stars and the rest are favourable, with the utterance of puṇyāha (auspicious-day formula), but circling clockwise round the cows, brahmins and elders, having entered, surrounded by (ones) who have given birth many times, anuktābhiḥ and avipādābhiḥ (unclear), able to bear hardship, devoted to auspicious rites (svastyayana), with wind, urine and stool made to move properly by regulating food and conduct, she should await the time of delivery.",
+  "why": "reviewer (minor): \"women\" is a supplied noun (strī appears only in unit 46); glossary: unstated nouns as \"(ones)\"."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, वहाँ नक्षत्र आदि अनुकूल होने पर पुण्याह शब्द के साथ, गाय, ब्राह्मण और वृद्धों की ओर प्रदक्षिणा करती हुई प्रवेश करके, बहुत बार प्रसव कर चुकी, अनुक्ताभिः और अविपादाभिः अस्पष्ट, क्लेश सहने वाली स्त्रियों से घिरी हुई, स्वस्त्ययन में लगी हुई, अनुलोमन करने वाले आहार और विहार से वात, मूत्र और मल को अनुलोम की हुई प्रसव के समय की प्रतीक्षा करे।",
+  "new": "अनुमानित पाठ पर, वहाँ नक्षत्र आदि अनुकूल होने पर पुण्याह शब्द के साथ, गाय, ब्राह्मण और वृद्धों की प्रदक्षिणा करती हुई प्रवेश करके, बहुत बार प्रसव कर चुकी, अनुक्ताभिः और अविपादाभिः अस्पष्ट, क्लेश सहने वाली स्त्रियों से घिरी हुई, स्वस्त्ययन में लगी हुई, अनुलोमन करने वाले आहार और विहार से वात, मूत्र और मल को अनुलोम की हुई प्रसव के समय की प्रतीक्षा करे।",
+  "why": "reviewer (minor): \"की ओर\" (towards) is not circumambulation."
+ },
+ {
+  "n": "43",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vedanodarathṛdayakaṭībastivaṃkṣaṇeṣu",
+    "suggest": "vedanodarahṛdayakaṭībastivaṃkṣaṇeṣu",
+    "why": "possible: a stray 't' in 'darathṛdaya'; 'udara-hṛdaya' fits."
+   }
+  ],
+  "new": [
+   {
+    "src": "vedanodarathṛdayakaṭībastivaṃkṣaṇeṣu",
+    "suggest": "vedanodarahṛdayakaṭībastivaṃkṣaṇeṣu",
+    "why": "possible: a stray 't' in 'darathṛdaya'; 'udara-hṛdaya' fits."
+   },
+   {
+    "src": "todabhedaśūlasphuraṇastravaṇāni",
+    "suggest": "todabhedaśūlasphuraṇasravaṇāni",
+    "why": "possible: st for s; sravaṇa 'flow' is the usual word, stravaṇa is not a recognised form. `words` use sravaṇa."
+   }
+  ],
+  "why": "reviewer (error): Silent emendation stravaṇa -> sravaṇa is only in the notes; a flag is required."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "तब जिसका प्रसव निकट है, उसमें थकावट, ग्लानि, मानो बन्धन छूटे हुए दोनों नेत्र, थूक, मूत्र और मल की अधिकता, कुक्षि की शिथिलता, नीचे भारीपन, अन्न में अरुचि, पेट, हृदय, कटि, बस्ति और वंक्षण में पीड़ा; चुभन, फटन, शूल, फड़कन और योनि के स्राव होते हैं।",
+  "new": "तब जिसका प्रसव निकट है, उसमें थकावट, ग्लानि, मानो बन्धन छूटे हुए दोनों नेत्र, थूक, मूत्र और मल की अधिकता, कुक्षि की शिथिलता, नीचे भारीपन, अन्न में अरुचि, पेट, हृदय, कटि यानी कमर, बस्ति यानी मूत्राशय और वंक्षण यानी जाँघ के जोड़ में पीड़ा; चुभन, फटन, शूल, फड़कन और योनि के स्राव होते हैं।",
+  "why": "reviewer (minor): Part 2: plain equivalents wanted beside body terms."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "udara-hṛdaya-kaṭī-basti-vaṅkṣaṇeṣu",
+  "old": "n./f. loc. pl., dvandva",
+  "new": "loc. pl., dvandva",
+  "why": "reviewer (minor): Mixed gender label for a locative dvandva."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "After that, the appearance of the āvīs (labour pains) and the flow of the water of the embryo (garbhodaka: amniotic fluid).",
+  "new": "After that, the appearance of the āvīs (probably labour pains) and the flow of the water of the embryo (garbhodaka: amniotic fluid).",
+  "why": "reviewer (minor): āvī is tagged probable but unhedged in the translation."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "उसके बाद आवियों यानी प्रसव की पीड़ाओं का प्रकट होना और गर्भ के जल का बहना।",
+  "new": "उसके बाद आवियों यानी सम्भवतः प्रसव की पीड़ाओं का प्रकट होना और गर्भोदक यानी गर्भ के जल, उल्बद्रव का बहना।",
+  "why": "reviewer (minor): Same hedge missing; garbhodaka needs a plain name."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Then one should make her drink gruel (yavāgū) with ghee, her to whom the embryo has come forward, who has performed the kautuka and auspicious rites, with a fruit called punnāma (unidentified) in her hand, well anointed with oil and sprinkled with hot water.",
+  "new": "Then one should make her drink gruel (yavāgū) with ghee, her to whom the embryo has come forward, who has performed the kautuka and auspicious rites, with a male-named fruit (puṃnāma-phala, unidentified) in her hand, well anointed with oil and sprinkled with hot water.",
+  "why": "reviewer (error): Mistranslation: puṃ-nāma-phala is a fruit \"with a male name\" (as the draft's own words/notes say), not a fruit \"called punnāma\"."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "तब उसे, जिसके गर्भ का समय उपस्थित हो, जिसने कौतुक और मंगल किया हो, हाथ में पुंनाम नामक फल लिए हो, भली-भाँति तेल लगी हो, गर्म जल से सींची गई हो, घी सहित यवागू पिलाए।",
+  "new": "तब उसे, जिसके गर्भ का समय उपस्थित हो, जिसने कौतुक और मंगल किया हो, हाथ में पुंनामफल यानी पुरुष नाम वाला फल, जिसकी पहचान अज्ञात है, लिए हो, भली-भाँति तेल लगी हो, गर्म जल से सींची गई हो, घी सहित यवागू पिलाए।",
+  "why": "reviewer (error): Same mistranslation (\"नामक\")."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "तब उसे, जिसके गर्भ का समय उपस्थित हो, जिसने कौतुक और मंगल किया हो, हाथ में पुंनामफल यानी पुरुष नाम वाला फल, जिसकी पहचान अज्ञात है, लिए हो, भली-भाँति तेल लगी हो, गर्म जल से सींची गई हो, घी सहित यवागू पिलाए।",
+  "new": "तब उसे, जिसका गर्भ उपस्थित हो, जिसने कौतुक और मंगल किया हो, हाथ में पुंनामफल यानी पुरुष नाम वाला फल, जिसकी पहचान अज्ञात है, लिए हो, भली-भाँति तेल लगी हो, गर्म जल से सींची गई हो, घी सहित यवागू पिलाए।",
+  "why": "reviewer (error): \"समय\" is added (upasthita-garbhā = whose embryo is present/arrived)."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "तब अच्छे लाल बैल के चमड़े के आच्छादन वाली कोमल भूमि की शय्या पर लेटी हुई, उत्तान, जंघाओं और पीठ को मोड़े हुए सूतिका को, नए वस्त्र पहने, सन्देह से परे, देखने में प्रिय, प्रौढ़ आयु की, प्रसव में कुशल, निर्भीक, कटे नखों वाली स्त्रियाँ मधुर और सत्य वाणियों से आश्वासन देती हुई घेरकर सेवा करें।",
+  "new": "तब अच्छे लाल बैल के चमड़े के आच्छादन वाली कोमल भूमि की शय्या पर लेटी हुई, उत्तान, जाँघों और पीठ को मोड़े हुए सूतिका को, नए वस्त्र पहने, सन्देह से परे, देखने में प्रिय, प्रौढ़ आयु की, प्रसव में कुशल, निर्भीक, कटे नखों वाली स्त्रियाँ मधुर और सत्य वाणियों से आश्वासन देती हुई घेरकर सेवा करें।",
+  "why": "reviewer (minor): sakthi = thigh; जंघा is the shank in Sanskrit usage."
+ }
+]
