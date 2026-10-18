@@ -1,0 +1,644 @@
+{
+ "units": [
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "nine joined tokens",
+     "problem": "Printed spaces are missing where no sandhi applies (glossary: give missing-space tokens a text_flag); the draft split them in words but flagged none (only ādyai rvā).",
+     "fix": "add one certain flag per token",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "pretapiśācarakṣodraviḍāṃdhrastrīcaṃḍālādyai rvā",
+        "suggest": "ādyair vā",
+        "why": "certain: stray printed space before visarga-r (ādyai rvā = ādyaiḥ vā); fixed in words"
+       },
+       {
+        "src": "śailaprāsādāgrātpatyārohati",
+        "suggest": "śailaprāsādāgrātpatatyārohati (= agrāt patati ārohati)",
+        "why": "possible: 'patya' is not a form that fits; 'patati ārohati' (falls … or climbs) gives sense and sandhi (patatyārohati) with one lost syllable ta; adopted on a conjectural reading and marked so in the translations"
+       },
+       {
+        "src": "paśyativakraṃ",
+        "suggest": "paśyati vaktraṃ",
+        "why": "possible, NOT adopted: 'vakram vā bāhum' reads oddly (crooked … or arm); vaktram 'mouth, face' may be meant (kt/k loss); printed vakram kept in words and translation"
+       },
+       {
+        "src": "pratibuddhaśchardayatiyasya",
+        "suggest": "pratibuddhaś chardayati yasya",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "bhavatiyo",
+        "suggest": "bhavati yo",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "svayaṃvā",
+        "suggest": "svayaṃ vā",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "pariṣvajyatenagno",
+        "suggest": "pariṣvajyate nagno",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "saṃbādhaṃjananīṃ",
+        "suggest": "saṃbādhaṃ jananīṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "gātravṛddhiṃvivāhaṃ",
+        "suggest": "gātravṛddhiṃ vivāhaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "chardayativiricyate",
+        "suggest": "chardayati viricyate",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "kupitaiḥpitṛbhiḥ",
+        "suggest": "kupitaiḥ pitṛbhiḥ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "paśyativakraṃ",
+        "suggest": "paśyati vakraṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dakṣiṇābhimukhaṃ ākṛṣyate",
+     "problem": "The accusative adverb dakṣiṇābhimukham can mean \"toward the south\" (dragged southward) as well as \"facing south\"; the translation keeps the ambiguous \"facing south\" but the notes do not record the alternative.",
+     "fix": "append a note",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "append_note",
+      "text": "'dakṣiṇābhimukham ākṛṣyate': the adverb may mean 'dragged toward the south' rather than 'facing south'; both readings are possible and the translation keeps 'facing south'. 'srotasā vāhriyate' is read vā hriyate (is carried off by a current); vā āhriyate is also possible."
+     }
+    },
+    {
+     "field": "split",
+     "where": "vāhriyate",
+     "problem": "vāhriyate is split vā + āhriyate with an invented prefix ā; the plain stock form is vā hriyate (srotasā hriyate, carried off by a current); same translation either way.",
+     "fix": "w hriyate, pass. √hṛ",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "35",
+       "op": "word",
+       "match_w": "āhriyate",
+       "field": "gram",
+       "value": "3 sg. pres. pass. √hṛ"
+      },
+      {
+       "n": "35",
+       "op": "word",
+       "match_w": "āhriyate",
+       "field": "w",
+       "value": "hriyate"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "धारा में बहा लिया जाता है",
+     "problem": "srotasā is instrumental (by a current); Hindi has a locative \"in the current\".",
+     "fix": "धारा से",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धारा में बहा लिया जाता है",
+      "new": "धारा से बहा लिया जाता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धूल को तकिया बनाई हुई भूमि पर",
+     "problem": "Awkward and slightly off: pāṃśūpadhānā is a bahuvrīhi \"having dust as pillow\" qualifying the ground.",
+     "fix": "धूल के तकिये वाली भूमि पर",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धूल को तकिया बनाई हुई भूमि पर",
+      "new": "धूल के तकिये वाली भूमि पर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "या लेप लगाया जाता है",
+     "problem": "abhyajyate (abhi-√añj) is anointing/oil-massage; \"लेप\" is a paste (ālepana, cf. u47) and changes the sense.",
+     "fix": "अभ्यंग किया जाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "या लेप लगाया जाता है",
+      "new": "या अभ्यंग किया जाता है"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śūnya-aṭavīm",
+     "problem": "Adjective plus noun is karmadhāraya, not tat-puruṣa.",
+     "fix": "karmadhāraya, f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "śūnya-aṭavīm",
+      "field": "gram",
+      "value": "karmadhāraya, f. acc. sg."
+     }
+    },
+    {
+     "field": "split",
+     "where": "yūpa-puṣpa-āḍhya-śālmalī-…",
+     "problem": "puṣpāḍhya (\"rich in flowers\") as a separate climbed item with an unstated noun (\"flower-rich (ones)\") is the weaker parse; it more naturally qualifies the four red-flowered trees that follow (\"flower-rich śālmalī, kiṃśuka, kovidāra, pāribhadraka\"), with yūpa alone before it. The draft mentions the alternative in notes. OWNER DECISION.",
+     "fix": "alternative translation: climbs sacrificial posts and flower-rich śālmalī (silk-cotton), kiṃśuka (flame-of-the-forest), kovidāra (probably mountain ebony) and pāribhadraka (probably coral tree)",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "valmīka-bhasma-śmaśāna-śvabhra-āyataneṣu",
+     "problem": "āyatana as a bare last list member (\"abodes\", Hindi \"निवासों\") reads poorly; it may be the final member governing the whole list (\"places of anthills, ash, cremation grounds, pits\") or part of śvabhrāyatana. OWNER DECISION; the draft notes only the second alternative.",
+     "fix": "keep, decide at the end",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "And here there are.",
+     "problem": "Glossary fixes \"bhavati cātra\" = \"And on this matter there is:\" (colon, no filler); the draft has \"And here there are.\" (cf. ch02/ch04 siblings \"इस विषय में\").",
+     "fix": "And on this matter there are:",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "set",
+       "field": "english",
+       "value": "And on this matter there are:"
+      },
+      {
+       "n": "37",
+       "op": "set",
+       "field": "hindi",
+       "value": "और इस विषय में ये हैं:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saumyam, śubham",
+     "problem": "Adjectives standing for an unstated noun carry case and number only (glossary); \"n.\" contradicts the understood noun svapna (masculine, u40).",
+     "fix": "acc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "saumyam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "śubham",
+       "field": "gram",
+       "value": "acc. sg.",
+       "occurrence": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "su-acchān",
+     "problem": "su-accha is not a dictionary word; the word is svaccha (very clear).",
+     "fix": "w svacchān",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "su-acchān",
+      "field": "w",
+      "value": "svacchān"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vanhimiddhaṃ",
+     "problem": "Glossary (ch07 k3): vanhi→vahni is a print/orthographic habit that needs no separate flag. The flag is harmless; leave unless the owner wants uniformity.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "The \"8-syllable pāda\" argument is empty: the printed pāda is also 8 syllables (glossary: syllable counts cannot support letter-level typo flags).",
+     "fix": "drop the metre claim",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "fits the sense and the 8-syllable pāda;",
+      "new": "fits the sense (the pāda has 8 syllables either way, so metre is no evidence);"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पूर्वोत्तर दिशा से",
+     "problem": "\"दिशा\" (direction) is a supplied word; पूर्वोत्तर already is the north-east.",
+     "fix": "पूर्वोत्तर से",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूर्वोत्तर दिशा से",
+      "new": "पूर्वोत्तर से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "rodanaṃpatitotthānaṃ",
+     "problem": "Missing space between rodanaṃ and patitotthānaṃ (no sandhi), unflagged.",
+     "fix": "flag",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "rodanaṃpatitotthānaṃ",
+        "suggest": "rodanaṃ patitotthānaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "yasya syād āyurārogyaṃ vittaṃ sa bahuśo aśnute",
+     "problem": "Alternative parse that removes the unstated object: syāt closes the relative clause (\"for whom [the above] occurs\") and āyurārogyam vittam are the ACCUSATIVE objects of aśnute: \"he for whom [these] occur obtains life-and-health [or life, health] and wealth, often\". This fits the adopted aśnute better than the draft parse (āyuḥ nominative with no object). Translation kept as drafted. OWNER DECISION.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "append_note",
+      "text": "Alternative parse: 'yasya syāt' may close the relative clause (the items of 50-52 occur for him), with 'āyur-ārogyaṃ vittam' as accusative objects of 'aśnute' ('he obtains life, health and wealth, often'); this would give aśnute an object and fits the adopted conjecture. Translation kept as drafted; owner to decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and of (ones) with dirty garments",
+     "problem": "\"and\" (Hindi \"और ... भी\") is supplied: the Sanskrit has no ca. malina-ambara-puṣpāṇām may well be a further adjective of the SAME forefathers, gods and twice-born (as 56 teṣām eva … tuṣṭānāṃ śuddhapuṣpāmbarātmanām suggests), not a new set of persons.",
+     "fix": "drop the supplied \"and\"/\"और ... भी\"; keep the alternative in notes",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "55",
+       "op": "replace",
+       "field": "english",
+       "old": "and of (ones) with dirty garments",
+       "new": "of (ones) with dirty garments"
+      },
+      {
+       "n": "55",
+       "op": "replace",
+       "field": "hindi",
+       "old": "और मैले वस्त्र और फूलों वालों के भी दर्शन",
+       "new": "मैले वस्त्र और फूलों वालों के दर्शन"
+      },
+      {
+       "n": "55",
+       "op": "replace",
+       "field": "notes",
+       "old": "and is rendered with 'and'",
+       "new": "and no 'and' is supplied in the translation; the compound may instead qualify the same forefathers, gods and twice-born as a further adjective (cf. 56)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bathed in the morning, and sarpaṣānamivarṇān (unclear)",
+     "problem": "\"and\" / \"और\" supplied; the Sanskrit has no ca before the damaged word.",
+     "fix": "remove \"and\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "english",
+       "old": ", and sarpaṣānamivarṇān (unclear)",
+       "new": ", sarpaṣānamivarṇān (unclear)"
+      },
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "hindi",
+       "old": ", और अस्पष्ट शब्द",
+       "new": ", अस्पष्ट शब्द"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "भयंकर या शुभ स्वप्नों",
+     "problem": "śobhana (\"good, beautiful\") is rendered शुभ (śubha) in Hindi; the English keeps śobhana; śubha is a different word used in u40-41.",
+     "fix": "शोभन यानी अच्छे स्वप्नों",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भयंकर या शुभ स्वप्नों",
+      "new": "भयंकर या शोभन यानी अच्छे स्वप्नों"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "sarpaṣānamivarṇān",
+     "problem": "Observation only: printed sarpaṣān- looks like a p/ṣ metathesis of sarṣapān (mustard seeds), which would fit the offering of 59 (sarpiṣāktān tilān vā); the draft lists sarṣapān as a guess in the flag. Kept out of gloss and translation, correctly. A note built on \"-varṇān is an accusative plural\" is itself a guess on a damaged word; low confidence stays.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(ones) smeared with ghee, or … sesame seeds",
+     "problem": "Supplied noun \"(ones)\": āktān and tilān are adjacent accusative plurals, so the plainer parse is \"sesame seeds smeared with ghee\" (āktān qualifying tilān, possibly also the damaged object of 58), with vā offering an alternative to that damaged item. The draft splits them. OWNER DECISION; translation kept.",
+     "fix": "alternative: having offered, with the Sāvitrī (a sacred verse), sesame seeds smeared with ghee (on a conjectural reading)",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "append_note",
+      "text": "Alternative parse: 'sarpiṣā āktān tilān' = 'sesame seeds smeared with ghee' (āktān as adjective of tilān), which needs no supplied '(ones)'; the damaged word of 58 may be a second object. sāvitrī = the Sāvitrī verse, i.e. the Gāyatrī addressed to Savitṛ (standard). Translation kept as drafted; owner to decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "maṃgalācārasaṃpannaḥparivārastathā''turaḥ",
+     "problem": "Missing space between saṃpannaḥ and parivāraḥ, unflagged.",
+     "fix": "flag",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "maṃgalācārasaṃpannaḥparivārastathā''turaḥ",
+        "suggest": "maṃgalācārasaṃpannaḥ parivāras tathā ''turaḥ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tataḥsthānaṃ",
+     "problem": "Missing space between tataḥ and sthānaṃ (no sandhi), unflagged.",
+     "fix": "flag",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tataḥsthānaṃ",
+        "suggest": "tataḥ sthānaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "itiśrīvaidya…",
+     "problem": "Missing space between iti and śrī- (no sandhi), unflagged.",
+     "fix": "flag",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "itiśrīvaidyapatisiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite'ṣṭāṃgasaṃgrahe",
+        "suggest": "iti śrīvaidyapatisiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite 'ṣṭāṃgasaṃgrahe",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "34 units reviewed word by word against the printed Devanagari (no IAST ai/au hiatus problems: counts of ै/ौ match in all 34 lines). No identification judged wrong (śālmalī, kiṃśuka standard; kovidāra, pāribhadraka, vetra, śaṣkulī correctly probable and hedged in both languages); all four adopted typo conjectures (patya, nadan hadodadhīn, aśrute, tvilān) are kept out of src, flagged, and marked 'on a conjectural reading' in both translations; viśāmiṣa and sarpaṣānamivarṇān correctly unsplit/unclear. Dream omens translated as written; nothing softened. Findings: 0 errors; minor: unflagged missing-space tokens (u35 x9, 52, 60, 65, 67), supplied 'and' (u55, u58), Hindi slips (u35 srotasā case, abhyajyate, dust-pillow; u50 दिशा; u58 śobhana), u37 not matching the glossary rendering of bhavanti cātra, u41 gram labels, u43 w su-acchān, u35 hriyate, u49 metre claim in flag, plus owner decisions without patch (puṣpāḍhya scope, āyatana scope, vakram/vaktram, aśnāti scope, u53 parse with āyurārogyam as object of aśnute, u59 āktān agreement). No regrouping needed; groupings in the draft look sound.",
+ "glossary_suggestions": [
+  "bhavanti cātra: Hindi 'और इस विषय में ये हैं:' / English 'And on this matter there are:' (one form book-wide; siblings vary).",
+  "Missing printed space where no sandhi applies (including ṃ before a consonant): flag per token, split in words (applied p02 ch12 k2).",
+  "srotasā hriyate (carried off by a current) not srotasā āhriyate; abhyajyate = अभ्यंग किया जाता है (not लेप).",
+  "Hindi śobhana = शोभन यानी अच्छे, kept apart from śubha = शुभ.",
+  "sāvitrī (homa verse) = the Sāvitrī/Gāyatrī verse (standard); kaṣāya-vāsas = ochre-coloured garments (colour, not taste).",
+  "OPEN (owner): puṣpāḍhya scope in u35 list of trees; āyatana scope; u53 parse; u59 āktān agreement; damaged-word rule conflict (unclear vs guess in translation) still undecided."
+ ]
+}

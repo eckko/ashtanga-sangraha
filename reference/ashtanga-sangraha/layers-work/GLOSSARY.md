@@ -94,3 +94,9 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 - ghurghuraka = death rattle (probable). mushka = testicle / वृषण (not अण्डकोष). srasta-pāyu = prolapse of the anus, hedged "probably" both languages. grīvā = गर्दन.
 - Accusative adjectives for an unstated person carry no gender in gram.
 - OPEN ch11 k1: conjectural-mark criterion for silent letter-level restorations (u2 savair→sarvair, u32 kṣaṇisya→kṣīṇasya; anusvāra/diacritic restorations idra, arśāsi, pramehiṇa, masikā unmarked) — owner to decide; u22-24 whether tulyaḥ governs all three lists; u32 "tud" vs tṛḍ-dāha (check scan); u25 ghana-vedanaḥ "with intense pain" vs list item.
+
+(from p02 ch12 k2 review)
+- bhavanti cātra = "And on this matter there are:" / और इस विषय में ये हैं: (one rendering book-wide).
+- Flag every token split where the print has no space and no sandhi applies, including ṃ before a consonant.
+- srotasā hriyate (not āhriyate); abhyajyate = अभ्यंग किया जाता है; Hindi śobhana = शोभन यानी अच्छे (not शुभ); sāvitrī = Gāyatrī/Sāvitrī verse (standard).
+- OPEN ch12 k2: u35 puṣpāḍhya qualifies the four red-flowered trees?; u35 āyatana governs list or belongs to śvabhrāyatana; vakraṃ/vaktraṃ; aśnāti scope; u53 alternative parse (yasya syāt closes clause, āyur-ārogyaṃ vittam objects of aśnute); u55 malina-ambara-puṣpāṇām may qualify same forefathers/gods/twice-born; u59 āktān probably agrees with tilān; u58 sarpaṣān- p/ṣ metathesis of sarṣapān?; damaged-word rule conflict (translate "unclear" vs conjectural guess) still owner decision.

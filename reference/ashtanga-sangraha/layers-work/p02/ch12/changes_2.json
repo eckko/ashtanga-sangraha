@@ -1,0 +1,298 @@
+[
+ {
+  "n": "35",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "pretapiśācarakṣodraviḍāṃdhrastrīcaṃḍālādyai rvā",
+    "suggest": "ādyair vā",
+    "why": "certain: stray printed space before visarga-r (ādyai rvā = ādyaiḥ vā); fixed in words"
+   },
+   {
+    "src": "śailaprāsādāgrātpatyārohati",
+    "suggest": "śailaprāsādāgrātpatatyārohati (= agrāt patati ārohati)",
+    "why": "possible: 'patya' is not a form that fits; 'patati ārohati' (falls … or climbs) gives sense and sandhi (patatyārohati) with one lost syllable ta; adopted on a conjectural reading and marked so in the translations"
+   },
+   {
+    "src": "paśyativakraṃ",
+    "suggest": "paśyati vaktraṃ",
+    "why": "possible, NOT adopted: 'vakram vā bāhum' reads oddly (crooked … or arm); vaktram 'mouth, face' may be meant (kt/k loss); printed vakram kept in words and translation"
+   }
+  ],
+  "new": [
+   {
+    "src": "pretapiśācarakṣodraviḍāṃdhrastrīcaṃḍālādyai rvā",
+    "suggest": "ādyair vā",
+    "why": "certain: stray printed space before visarga-r (ādyai rvā = ādyaiḥ vā); fixed in words"
+   },
+   {
+    "src": "śailaprāsādāgrātpatyārohati",
+    "suggest": "śailaprāsādāgrātpatatyārohati (= agrāt patati ārohati)",
+    "why": "possible: 'patya' is not a form that fits; 'patati ārohati' (falls … or climbs) gives sense and sandhi (patatyārohati) with one lost syllable ta; adopted on a conjectural reading and marked so in the translations"
+   },
+   {
+    "src": "paśyativakraṃ",
+    "suggest": "paśyati vaktraṃ",
+    "why": "possible, NOT adopted: 'vakram vā bāhum' reads oddly (crooked … or arm); vaktram 'mouth, face' may be meant (kt/k loss); printed vakram kept in words and translation"
+   },
+   {
+    "src": "pratibuddhaśchardayatiyasya",
+    "suggest": "pratibuddhaś chardayati yasya",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "bhavatiyo",
+    "suggest": "bhavati yo",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "svayaṃvā",
+    "suggest": "svayaṃ vā",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "pariṣvajyatenagno",
+    "suggest": "pariṣvajyate nagno",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "saṃbādhaṃjananīṃ",
+    "suggest": "saṃbādhaṃ jananīṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "gātravṛddhiṃvivāhaṃ",
+    "suggest": "gātravṛddhiṃ vivāhaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "chardayativiricyate",
+    "suggest": "chardayati viricyate",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "kupitaiḥpitṛbhiḥ",
+    "suggest": "kupitaiḥ pitṛbhiḥ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "paśyativakraṃ",
+    "suggest": "paśyati vakraṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Printed spaces are missing where no sandhi applies (glossary: give missing-space tokens a text_flag); the draft split them in words but flagged none (only ādyai rvā)."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "GROUPING: 35 and 36 appear to continue one sentence: 36 gives the contrast for the healthy (verb carried over). The whole unit is one long printed line with many yaḥ-clauses (each 'who …') and closes with 'te vyādhitāḥ pañcatām āpnuvanti'; the clauses are all marked by vā/ca, so the semicolons in the translation are an editorial division. Readings: 'abhyavahṛtya' = eating or swallowing (kept as in the glossary). 'chardayati' (vomits) and 'viricyate' (is purged, passive) kept distinct. 'srotasā' here is a water-current, not the body channel. 'dig-vāsāḥ' (sky-clothed) = naked. 'kapi-ratha' (monkey-chariot) relation of the compound is not stated. 'valmīka-…-āyatana': śvabhra-āyatana could also be one tat-puruṣa ('pit-abodes'); the dvandva list is taken. 'paṅka-kūpa-kaluṣa-udaka': could also be 'mud, well, turbid water' as three or four members; taken as a list. 'saṃbādha' read as noun 'confined place'; 'jananī' is 'mother' (a womb is not stated). 'śmaśru-karma' is literally beard-work (not further explained). 'yūpa-puṣpa-āḍhya-śālmalī-…': puṣpāḍhya (flower-rich) may qualify the following trees ('flower-rich śālmalī, …') instead of standing as a separate member; the plain list reading is taken. 'labhate vā hiraṇya…kārpāsān aśnāti pakvānnaṃ': taken as 'obtains gold…cotton; eats cooked food'. Alternatively aśnāti takes the whole list (eats gold, iron, salt, oil, oil-cake, cotton) as well as the cooked food; the sandhi 'kārpāsān aśnāti' allows both. 'daśana' in the series moon … eyes, teeth = teeth. 'anyatamān' is plural ('any of'); 'naśyataḥ' accusative plural participle. 'vakraṃ vā bāhuṃ nagnaṃ vā vibhidyamānaṃ': vibhidyamānam may agree with vakram, bāhum or nagnam; translated as printed (see text_flags). 'kaṣāya-vāsasaḥ': kaṣāya here is a colour (reddish-brown, ochre), not a taste (standard sense of the word). 'śukla-darśanā' = of white appearance; daśanā 'white-toothed' is a possible alternative, not adopted. 'dīrgha-keśa-stanīm': dīrgha may qualify hair only or hair and breasts. Kālarātri here = form of 'dark night'. 'pañcatā' = the euphemism for death. Identifications (modern names beside the Sanskrit): śālmalī = Bombax ceiba (standard). kiṃśuka = Butea monosperma, palāśa (standard). kovidāra = Bauhinia variegata (probable). pāribhadraka = Erythrina variegata (probable; the name is also used for other trees). vetra = cane, rattan, Calamus (probable). vaṃśa = bamboo (standard). kārpāsa = cotton, Gossypium (standard). śaṣkulī = a fried cake (probable; the word also means the ear-orifice, not here). Draviḍa and Āndhra are kept as names (in standard use peoples of the south). Print habits (recorded here once): b for v (bayāṃsi = vayāṃsi, prabrajita = pravrajita); a double avagraha ('' ) printed after -ā in ''kṛṣyate is a print habit, not an elision. Regular sandhi (digvāsā, pariṣvajyate nagno) needs no flag.",
+  "new": "GROUPING: 35 and 36 appear to continue one sentence: 36 gives the contrast for the healthy (verb carried over). The whole unit is one long printed line with many yaḥ-clauses (each 'who …') and closes with 'te vyādhitāḥ pañcatām āpnuvanti'; the clauses are all marked by vā/ca, so the semicolons in the translation are an editorial division. Readings: 'abhyavahṛtya' = eating or swallowing (kept as in the glossary). 'chardayati' (vomits) and 'viricyate' (is purged, passive) kept distinct. 'srotasā' here is a water-current, not the body channel. 'dig-vāsāḥ' (sky-clothed) = naked. 'kapi-ratha' (monkey-chariot) relation of the compound is not stated. 'valmīka-…-āyatana': śvabhra-āyatana could also be one tat-puruṣa ('pit-abodes'); the dvandva list is taken. 'paṅka-kūpa-kaluṣa-udaka': could also be 'mud, well, turbid water' as three or four members; taken as a list. 'saṃbādha' read as noun 'confined place'; 'jananī' is 'mother' (a womb is not stated). 'śmaśru-karma' is literally beard-work (not further explained). 'yūpa-puṣpa-āḍhya-śālmalī-…': puṣpāḍhya (flower-rich) may qualify the following trees ('flower-rich śālmalī, …') instead of standing as a separate member; the plain list reading is taken. 'labhate vā hiraṇya…kārpāsān aśnāti pakvānnaṃ': taken as 'obtains gold…cotton; eats cooked food'. Alternatively aśnāti takes the whole list (eats gold, iron, salt, oil, oil-cake, cotton) as well as the cooked food; the sandhi 'kārpāsān aśnāti' allows both. 'daśana' in the series moon … eyes, teeth = teeth. 'anyatamān' is plural ('any of'); 'naśyataḥ' accusative plural participle. 'vakraṃ vā bāhuṃ nagnaṃ vā vibhidyamānaṃ': vibhidyamānam may agree with vakram, bāhum or nagnam; translated as printed (see text_flags). 'kaṣāya-vāsasaḥ': kaṣāya here is a colour (reddish-brown, ochre), not a taste (standard sense of the word). 'śukla-darśanā' = of white appearance; daśanā 'white-toothed' is a possible alternative, not adopted. 'dīrgha-keśa-stanīm': dīrgha may qualify hair only or hair and breasts. Kālarātri here = form of 'dark night'. 'pañcatā' = the euphemism for death. Identifications (modern names beside the Sanskrit): śālmalī = Bombax ceiba (standard). kiṃśuka = Butea monosperma, palāśa (standard). kovidāra = Bauhinia variegata (probable). pāribhadraka = Erythrina variegata (probable; the name is also used for other trees). vetra = cane, rattan, Calamus (probable). vaṃśa = bamboo (standard). kārpāsa = cotton, Gossypium (standard). śaṣkulī = a fried cake (probable; the word also means the ear-orifice, not here). Draviḍa and Āndhra are kept as names (in standard use peoples of the south). Print habits (recorded here once): b for v (bayāṃsi = vayāṃsi, prabrajita = pravrajita); a double avagraha ('' ) printed after -ā in ''kṛṣyate is a print habit, not an elision. Regular sandhi (digvāsā, pariṣvajyate nagno) needs no flag. 'dakṣiṇābhimukham ākṛṣyate': the adverb may mean 'dragged toward the south' rather than 'facing south'; both readings are possible and the translation keeps 'facing south'. 'srotasā vāhriyate' is read vā hriyate (is carried off by a current); vā āhriyate is also possible.",
+  "why": "reviewer (minor): The accusative adverb dakṣiṇābhimukham can mean \"toward the south\" (dragged southward) as well as \"facing south\"; the translation keeps the ambiguous \"facing south\" but the notes do not record the alternative."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "āhriyate",
+  "old": "3 sg. pres. pass. ā-√hṛ",
+  "new": "3 sg. pres. pass. √hṛ",
+  "why": "reviewer (minor): vāhriyate is split vā + āhriyate with an invented prefix ā; the plain stock form is vā hriyate (srotasā hriyate, carried off by a current); same translation either way."
+ },
+ {
+  "n": "35",
+  "field": "word.w",
+  "word": "āhriyate",
+  "old": "āhriyate",
+  "new": "hriyate",
+  "why": "reviewer (minor): vāhriyate is split vā + āhriyate with an invented prefix ā; the plain stock form is vā hriyate (srotasā hriyate, carried off by a current); same translation either way."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल को तकिया बनाई हुई भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा में बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या लेप लगाया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "new": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल को तकिया बनाई हुई भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा से बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या लेप लगाया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "why": "reviewer (minor): srotasā is instrumental (by a current); Hindi has a locative \"in the current\"."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल को तकिया बनाई हुई भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा से बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या लेप लगाया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "new": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल के तकिये वाली भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा से बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या लेप लगाया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "why": "reviewer (minor): Awkward and slightly off: pāṃśūpadhānā is a bahuvrīhi \"having dust as pillow\" qualifying the ground."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल के तकिये वाली भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा से बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या लेप लगाया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "new": "जो शष्कुली यानी सम्भवतः एक प्रकार की तली हुई टिकिया या अपूप यानी पुओं को खाकर या निगलकर जागने पर उलटी करता है; जिसके सिर पर लताएँ आदि उगती हैं और पक्षी आकर बैठ जाते हैं, या मौढ्य यानी मूढ़ता हो जाती है; जिसकी सेवा गिद्ध, उल्लू, कौए आदि से होती है, या प्रेत यानी मृतात्मा, पिशाच, राक्षस, द्रविड़, आन्ध्र, स्त्री, चण्डाल आदि से; या जिसे दक्षिण की ओर मुख किए हुए नाचती हुई स्त्री खींचती है, या कौए आदि खींचते हैं; या जो स्वयं दिगम्बर होकर निर्जन वन को जाता है, या वानर के रथ से; जिसे प्रेत या प्रव्रजित यानी संन्यासी गले लगाते हैं; या जो नग्न होकर लाल माला धारण करता है; कीचड़ से लिपटा हुआ हँसता या नाचता है; वेत्र यानी सम्भवतः बेंत, बाँस, काँटों और घास के घने झुरमुट में उलझ जाता है; या धूल के तकिये वाली भूमि पर गिरता है, या दीमक की बाँबी, राख, श्मशान, गड्ढों और निवासों में; या कीचड़, कुओं और गँदले जल में डूबता है, या धारा से बहा लिया जाता है; या लाल फूलों के वनों वाली भूमि, अँधेरे से भरी गुफा, बुरे कर्म के निवास, संकीर्ण स्थान या माता में प्रवेश करता है; या मछली से निगला जाता है; और जो श्मश्रु-कर्म यानी दाढ़ी का कर्म, शरीर की वृद्धि और विवाह का अनुभव करता है; जो अनुमानित पाठ पर पर्वत या महल की चोटी से गिरता है या चढ़ता है यूप यानी यज्ञ के खम्भों पर, फूलों से भरे हुओं पर, शाल्मली यानी सेमल पर, किंशुक यानी ढाक पर, कोविदार यानी सम्भवतः कचनार पर और पारिभद्रक यानी सम्भवतः फरहद पर; या जो हारता है, बाँधा जाता है, उलटी करता है, विरेचित होता है, प्रसन्न होता है, या सोना, लोहा, नमक, तेल, पिण्याक यानी खली और कपास पाता है; पका हुआ अन्न खाता है, मद्य यानी नशीला पेय या स्नेह यानी तेल या वसा पीता है, या अभ्यंग किया जाता है, या क्रुद्ध पितरों से डाँटा जाता है; या चन्द्र, सूर्य, तारा, दीपक, देवता, नेत्र और दाँतों में से किसी एक को नष्ट होता देखता है; या टेढ़े को, या बाँह को, या विदीर्ण होते हुए नग्न को देखता है; या नग्न, गेरुए रंग के वस्त्र पहने, असौम्य यानी उग्र, हाथ में दण्ड और पाश लिए, काले, लाल आँखों वाले पुरुषों को, या काली, श्वेत रूप वाली, लम्बे केश और स्तनों वाली, कालरात्रि के रूप वाली स्त्री को देखता है; वे रोगी पंचता यानी मृत्यु को प्राप्त होते हैं।",
+  "why": "reviewer (minor): abhyajyate (abhi-√añj) is anointing/oil-massage; \"लेप\" is a paste (ālepana, cf. u47) and changes the sense."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "śūnya-aṭavīm",
+  "old": "tat-puruṣa, f. acc. sg.",
+  "new": "karmadhāraya, f. acc. sg.",
+  "why": "reviewer (minor): Adjective plus noun is karmadhāraya, not tat-puruṣa."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "And here there are.",
+  "new": "And on this matter there are:",
+  "why": "reviewer (minor): Glossary fixes \"bhavati cātra\" = \"And on this matter there is:\" (colon, no filler); the draft has \"And here there are.\" (cf. ch02/ch04 siblings \"इस विषय में\")."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "और यहाँ होते हैं।",
+  "new": "और इस विषय में ये हैं:",
+  "why": "reviewer (minor): Glossary fixes \"bhavati cātra\" = \"And on this matter there is:\" (colon, no filler); the draft has \"And here there are.\" (cf. ch02/ch04 siblings \"इस विषय में\")."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "saumyam",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Adjectives standing for an unstated noun carry case and number only (glossary); \"n.\" contradicts the understood noun svapna (masculine, u40)."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "śubham",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Adjectives standing for an unstated noun carry case and number only (glossary); \"n.\" contradicts the understood noun svapna (masculine, u40)."
+ },
+ {
+  "n": "43",
+  "field": "word.w",
+  "word": "su-acchān",
+  "old": "su-acchān",
+  "new": "svacchān",
+  "why": "reviewer (minor): su-accha is not a dictionary word; the word is svaccha (very clear)."
+ },
+ {
+  "n": "49",
+  "field": "text_flags.0.why",
+  "old": "possible: 'hada' (r dropped) and 'nadan' do not give the expected nouns; nadān hradodadhīn (rivers, lakes, oceans) fits the sense and the 8-syllable pāda; adopted on a conjectural reading",
+  "new": "possible: 'hada' (r dropped) and 'nadan' do not give the expected nouns; nadān hradodadhīn (rivers, lakes, oceans) fits the sense (the pāda has 8 syllables either way, so metre is no evidence); adopted on a conjectural reading",
+  "why": "reviewer (minor): The \"8-syllable pāda\" argument is empty: the printed pāda is also 8 syllables (glossary: syllable counts cannot support letter-level typo flags)."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "पूर्वोत्तर दिशा से गमन, अगम्य के पास जाना, मृत्यु",
+  "new": "पूर्वोत्तर से गमन, अगम्य के पास जाना, मृत्यु",
+  "why": "reviewer (minor): \"दिशा\" (direction) is a supplied word; पूर्वोत्तर already is the north-east."
+ },
+ {
+  "n": "52",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "rodanaṃpatitotthānaṃ",
+    "suggest": "rodanaṃ patitotthānaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Missing space between rodanaṃ and patitotthānaṃ (no sandhi), unflagged."
+ },
+ {
+  "n": "53",
+  "field": "notes",
+  "old": "GROUPING: 50-53 appear to be one construction: a list of dream-events followed by this statement. The syntax is not clear: 'yasya syāt …' may mean that the listed things occur for him, with āyuḥ, ārogyam, vittam as further members, and the object of 'aśnute' is not stated. Taken in the plainest way; confidence low.",
+  "new": "GROUPING: 50-53 appear to be one construction: a list of dream-events followed by this statement. The syntax is not clear: 'yasya syāt …' may mean that the listed things occur for him, with āyuḥ, ārogyam, vittam as further members, and the object of 'aśnute' is not stated. Taken in the plainest way; confidence low. Alternative parse: 'yasya syāt' may close the relative clause (the items of 50-52 occur for him), with 'āyur-ārogyaṃ vittam' as accusative objects of 'aśnute' ('he obtains life, health and wealth, often'); this would give aśnute an object and fits the adopted conjecture. Translation kept as drafted; owner to decide.",
+  "why": "reviewer (minor): Alternative parse that removes the unstated object: syāt closes the relative clause (\"for whom [the above] occurs\") and āyurārogyam vittam are the ACCUSATIVE objects of aśnute: \"he for whom [these] occur obtains life-and-health [or life, health] and wealth, often\". This fits the adopted aśnute better than the draft parse (āyuḥ nominative with no object). Translation kept as drafted. OWNER DECISION."
+ },
+ {
+  "n": "55",
+  "field": "english",
+  "old": "and of (ones) with dirty garments and flowers, the sight is not praised.",
+  "new": "of (ones) with dirty garments and flowers, the sight is not praised.",
+  "why": "reviewer (minor): \"and\" (Hindi \"और ... भी\") is supplied: the Sanskrit has no ca. malina-ambara-puṣpāṇām may well be a further adjective of the SAME forefathers, gods and twice-born (as 56 teṣām eva … tuṣṭānāṃ śuddhapuṣpāmbarātmanām suggests), not a new set of persons."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "और मैले वस्त्र और फूलों वालों के भी दर्शन की प्रशंसा नहीं की जाती।",
+  "new": "मैले वस्त्र और फूलों वालों के दर्शन की प्रशंसा नहीं की जाती।",
+  "why": "reviewer (minor): \"and\" (Hindi \"और ... भी\") is supplied: the Sanskrit has no ca. malina-ambara-puṣpāṇām may well be a further adjective of the SAME forefathers, gods and twice-born (as 56 teṣām eva … tuṣṭānāṃ śuddhapuṣpāmbarātmanām suggests), not a new set of persons."
+ },
+ {
+  "n": "55",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence begun in 54; the genitive 'malina-ambara-puṣpāṇām' joins 54's list of persons by asyndeton and is rendered with 'and'.",
+  "new": "GROUPING: completes the sentence begun in 54; the genitive 'malina-ambara-puṣpāṇām' joins 54's list of persons by asyndeton and no 'and' is supplied in the translation; the compound may instead qualify the same forefathers, gods and twice-born as a further adjective (cf. 56).",
+  "why": "reviewer (minor): \"and\" (Hindi \"और ... भी\") is supplied: the Sanskrit has no ca. malina-ambara-puṣpāṇām may well be a further adjective of the SAME forefathers, gods and twice-born (as 56 teṣām eva … tuṣṭānāṃ śuddhapuṣpāmbarātmanām suggests), not a new set of persons."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Having seen terrible or good (śobhana) dreams, bathed in the morning, and sarpaṣānamivarṇān (unclear),",
+  "new": "Having seen terrible or good (śobhana) dreams, bathed in the morning, sarpaṣānamivarṇān (unclear),",
+  "why": "reviewer (minor): \"and\" / \"और\" supplied; the Sanskrit has no ca before the damaged word."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "भयंकर या शुभ स्वप्नों को देखकर, प्रातः स्नान किया हुआ, और अस्पष्ट शब्द सर्पषानमिवर्णान",
+  "new": "भयंकर या शुभ स्वप्नों को देखकर, प्रातः स्नान किया हुआ, अस्पष्ट शब्द सर्पषानमिवर्णान",
+  "why": "reviewer (minor): \"and\" / \"और\" supplied; the Sanskrit has no ca before the damaged word."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "भयंकर या शुभ स्वप्नों को देखकर, प्रातः स्नान किया हुआ, अस्पष्ट शब्द सर्पषानमिवर्णान",
+  "new": "भयंकर या शोभन यानी अच्छे स्वप्नों को देखकर, प्रातः स्नान किया हुआ, अस्पष्ट शब्द सर्पषानमिवर्णान",
+  "why": "reviewer (minor): śobhana (\"good, beautiful\") is rendered शुभ (śubha) in Hindi; the English keeps śobhana; śubha is a different word used in u40-41."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence of 58. The object of 'hutvā' is not clear: 'āktān' (smeared) agrees with an accusative plural, which may be the damaged word at the end of 58 or 'tilān'; the plain reading 'smeared (ones), or sesame seeds' is taken. 'sāvitryā' is the Sāvitrī verse (not further identified here). 'pūtaḥ' purified; 'mucyate' takes the instrumental. The subject is not stated ('one').",
+  "new": "GROUPING: completes the sentence of 58. The object of 'hutvā' is not clear: 'āktān' (smeared) agrees with an accusative plural, which may be the damaged word at the end of 58 or 'tilān'; the plain reading 'smeared (ones), or sesame seeds' is taken. 'sāvitryā' is the Sāvitrī verse (not further identified here). 'pūtaḥ' purified; 'mucyate' takes the instrumental. The subject is not stated ('one'). Alternative parse: 'sarpiṣā āktān tilān' = 'sesame seeds smeared with ghee' (āktān as adjective of tilān), which needs no supplied '(ones)'; the damaged word of 58 may be a second object. sāvitrī = the Sāvitrī verse, i.e. the Gāyatrī addressed to Savitṛ (standard). Translation kept as drafted; owner to decide.",
+  "why": "reviewer (minor): Supplied noun \"(ones)\": āktān and tilān are adjacent accusative plurals, so the plainer parse is \"sesame seeds smeared with ghee\" (āktān qualifying tilān, possibly also the damaged object of 58), with vā offering an alternative to that damaged item. The draft splits them. OWNER DECISION; translation kept."
+ },
+ {
+  "n": "60",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "maṃgalācārasaṃpannaḥparivārastathā''turaḥ",
+    "suggest": "maṃgalācārasaṃpannaḥ parivāras tathā ''turaḥ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Missing space between saṃpannaḥ and parivāraḥ, unflagged."
+ },
+ {
+  "n": "65",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tataḥsthānaṃ",
+    "suggest": "tataḥ sthānaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Missing space between tataḥ and sthānaṃ (no sandhi), unflagged."
+ },
+ {
+  "n": "67",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "itiśrīvaidyapatisiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite'ṣṭāṃgasaṃgrahe",
+    "suggest": "iti śrīvaidyapatisiṃhaguptasūnuśrīmadvāgbhaṭācāryaviracite 'ṣṭāṃgasaṃgrahe",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Missing space between iti and śrī- (no sandhi), unflagged."
+ }
+]
