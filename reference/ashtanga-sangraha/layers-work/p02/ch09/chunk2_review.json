@@ -1,0 +1,756 @@
+{
+ "units": [
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसका अलग-अलग भी शब्द ... परे हो",
+     "problem": "English marks the reading 'other and other' as doubtful but the Hindi gives it with no hedge (glossary: hedge must match in both languages); the Hindi also adds a verb 'हो' where the second clause has none, and an 'और' not in the Sanskrit.",
+     "fix": "Hindi with a hedge and no added verb",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसकी उँगलियाँ खींचे जाने पर न चटकें, और जिसका, संदिग्ध पाठ के अनुसार, 'अलग-अलग' भी शब्द छींकने, गमन, मूत्रत्याग आदि में अपनी स्वाभाविक अवस्था से परे"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "yasyānyo'nyo'pi",
+     "problem": "Observation, no patch: the Devanagari (यस्यान्योऽन्योऽपि) has no hiatus problem; the doubt is real. A reading such as 'anyathā api' or 'anyonyam api' cannot be excluded; also 'gata' in kṣuta-gata-mūtraṇa could be 'passing wind' (gata for 'apāna' type event) rather than 'going'. Keep confidence low; owner to decide whether a better parse exists in another witness.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मल",
+     "problem": "Bare मल in Hindi means faeces; glossary fixes 'मल यानी अपशिष्ट' for mala (doctrinal term).",
+     "fix": "मल यानी अपशिष्ट",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुख, मल, व्रण",
+      "new": "मुख, मल यानी अपशिष्ट, व्रण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhajaṃti",
+     "problem": "Silent emendation: printed 'bhajaṃti' (parasmaipada bhajanti) was restored as 'bhajante' with no text_flag, while the neighbouring printed 'tyajaṃte' is ātmanepada. Keep the printed form in `w`.",
+     "fix": "w = bhajanti",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "bhajante",
+      "field": "w",
+      "value": "bhajanti"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tyajante",
+     "problem": "Observation, no patch: tyaj is normally parasmaipada (tyajanti); the printed ātmanepada 'tyajaṃte' is unusual (epic/irregular). Kept as printed; gram '3 pl. pres. √tyaj' is fine. Hindi 'छोड़ देती हैं' adds a completive 'दे'; 'छोड़ती हैं' would be closer.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "The sentence appears to be completed by the next unit",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "notes",
+      "old": "The sentence is completed by the next unit",
+      "new": "The sentence appears to be completed by the next unit"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete the sentence begun in unit 45",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes the sentence begun in unit 45",
+      "new": "Appears to complete the sentence begun in unit 45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "The verb appears to be in the next unit",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "notes",
+      "old": "The verb is in the next unit",
+      "new": "The verb appears to be in the next unit"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to continue unit 47",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "notes",
+      "old": "Continues unit 47",
+      "new": "Appears to continue unit 47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yasyaromakūpāśca",
+     "problem": "Missing-space token is only in notes; the chunk convention (e.g. ch02 k2 u76, ch03 k3 u100) records word-division typos as a text_flag.",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "yasyaromakūpāśca",
+        "suggest": "yasya roma-kūpāś ca",
+        "why": "possible: three words printed joined without spaces (yasya, romakūpāḥ, ca); no letter changed"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to be completed by the next unit.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completed by the next unit.",
+      "new": "Appears to be completed by the next unit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete the sentence of unit 49.",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes the sentence of unit 49.",
+      "new": "Appears to complete the sentence of unit 49."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "the sentence appears to run into unit 52",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "notes",
+      "old": "the sentence runs into unit 52",
+      "new": "the sentence appears to run into unit 52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Smoke with oiliness on the head, or;",
+     "problem": "The English ends a clause with a dangling 'or;'. In Sanskrit 'vā' follows dhūmaḥ and links 'smoke' to the alternatives of unit 51 ('powder ... or smoke'), so 'or' belongs before the smoke clause. Hindi 'अथवा;' has the same dangling form.",
+     "fix": "Or smoke with oiliness on the head; his life is up to the end of a month",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "52",
+       "op": "set",
+       "field": "english",
+       "value": "Or smoke with oiliness on the head; his life is up to the end of a month"
+      },
+      {
+       "n": "52",
+       "op": "set",
+       "field": "hindi",
+       "value": "अथवा सिर पर चिकनाई वाला धुआँ; उसका जीवन मास के अन्त तक है"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "sasneham / vā māsāntam",
+     "problem": "Observation, no patch (open): 'sasneham' neuter beside masculine dhūma (taken as adverb); 'vā māsāntam' division uncertain (vā māsa-antam vs vāmāsa-antam). The English/Hindi rendering is acceptable; keep confidence medium or lower to low.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "माँग और भँवर जैसे चिह्न करते हैं",
+     "problem": "Hindi adds 'जैसे' and 'चिह्न', neither in the Sanskrit (glossary: no added जैसे; nothing supplied). The note admits 'चिह्न' is only for readability.",
+     "fix": "... सीमन्तावर्तक यानी माँग और भँवर करते हैं",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "53",
+       "op": "replace",
+       "field": "hindi",
+       "old": "माँग और भँवर जैसे चिह्न करते हैं",
+       "new": "माँग और भँवर करते हैं"
+      },
+      {
+       "n": "53",
+       "op": "replace",
+       "field": "notes",
+       "old": " The Hindi 'चिह्न' is used only to make the Hindi readable and is not in the Sanskrit.",
+       "new": ""
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "sīmanta-āvartakāḥ",
+     "problem": "Observation, no patch: dvandva 'partings and whorls' vs karmadhāraya/tat-puruṣa 'whorls (shaped) like a parting' is open; translation may be wrong either way. Confidence low is right.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ṣaṭ-rātrāt / tri-rātrāt",
+     "problem": "Wrong gender: -rātrāt is the ablative of -rātra (m./n. dvigu), not feminine; 'ablative,' is also repeated before 'abl.'.",
+     "fix": "dvigu, abl. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "54",
+       "op": "word",
+       "match_w": "ṣaṭ-rātrāt",
+       "field": "gram",
+       "value": "dvigu, abl. sg."
+      },
+      {
+       "n": "54",
+       "op": "word",
+       "match_w": "tri-rātrāt",
+       "field": "gram",
+       "value": "dvigu, abl. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पहले ही",
+     "problem": "Hindi adds emphasis 'ही' (not in the Sanskrit pūrvam).",
+     "fix": "पहले, बहुत सूख जाती है",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पहले ही बहुत",
+      "new": "पहले, बहुत"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "The sentence appears to continue in unit 56",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "notes",
+      "old": "The sentence continues in unit 56",
+      "new": "The sentence appears to continue in unit 56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "While all the limbs are wet",
+     "problem": "The meaning depends on the emendation ārdveṣu→ārdreṣu (word not attested); glossary: a correction adopted in a translation carries the conjectural mark in both languages (as the draft does in u67).",
+     "fix": "mark both",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "56",
+       "op": "set",
+       "field": "english",
+       "value": "On a conjectural reading: while all the limbs are wet, he does not live half a month"
+      },
+      {
+       "n": "56",
+       "op": "set",
+       "field": "hindi",
+       "value": "अनुमानित पाठ पर, सब अंगों के गीले रहते वह आधा मास नहीं जीता"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "straṃsaḥ / cūrṇa / ṣaḍarātrān (u42, u51, u54)",
+     "problem": "Observation, no patch (OPEN, owner): the same glossary rule would also ask for a conjectural mark for u42 sraṃsaḥ, u54 and u60; I marked only u56 where the word itself is replaced. Decide book-wide whether letter-level corrections (straṃsaḥ→sraṃsaḥ, cūrṇa→cūrṇam, ṣaḍarātrān→ṣaḍrātrāt) need the mark.",
+     "fix": "none",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete unit 55.",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes unit 55.",
+      "new": "Appears to complete unit 55."
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "appears to run into unit 58",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "notes",
+      "old": "runs into unit 58",
+      "new": "appears to run into unit 58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Loose stool (bhinna, literally 'broken')",
+     "problem": "English leads with the interpretation 'Loose' unhedged and puts the literal 'broken' in brackets; Hindi leads with the literal 'टूटा हुआ'. The two languages should agree and the modern sense should be hedged (policy).",
+     "fix": "Broken stool (bhinna; probably loose) ... / भिन्न यानी टूटा हुआ, सम्भवतः ढीला",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "english",
+       "old": "Loose stool (bhinna, literally 'broken')",
+       "new": "Broken stool (bhinna; probably loose)"
+      },
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "hindi",
+       "old": "भिन्न यानी टूटा हुआ मल",
+       "new": "भिन्न यानी टूटा हुआ, सम्भवतः ढीला, मल"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "tṛṣṇāca",
+     "problem": "Missing-space token is only in notes; add a text_flag per the chunk convention.",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tṛṣṇāca",
+        "suggest": "tṛṣṇā ca",
+        "why": "possible: 'ca' printed joined to tṛṣṇā without a space; no letter changed"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to continue unit 57.",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "notes",
+      "old": "Continues unit 57.",
+      "new": "Appears to continue unit 57."
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "māsānsa",
+     "problem": "Observation, no patch (owner): the draft keeps the printed 'māsān' in `words` although DRAFT_BRIEF rule 6 puts the corrected form in `words`; here the sense 'perishes in months' (no number) is poor and 'māsāt saḥ' (after a month) fits the neighbouring signs (māsāntam, ṣaṇmāsān). Either keep printed with the translation hedged, or adopt māsāt with the conjectural mark; currently neither is marked in the translation. Not patched because the choice is the owner's.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "the two units appear to form one sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "notes",
+      "old": "the two units form one sentence",
+      "new": "the two units appear to form one sentence"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete unit 61",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes unit 61",
+      "new": "Appears to complete unit 61"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूर से ही",
+     "problem": "Hindi adds emphasis 'ही'.",
+     "fix": "दूर से त्याग दे",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूर से ही त्याग दे",
+      "new": "दूर से त्याग दे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसको",
+     "problem": "Hindi supplies a pronoun object that the Sanskrit does not state (glossary: Hindi never takes the pronoun).",
+     "fix": "drop , उसको",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीड़ा से पीड़ित हैं, उसको",
+      "new": "पीड़ा से पीड़ित हैं"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ūrdhva-śvāsam",
+     "problem": "Observation, no patch: ūrdhvaśvāsa is a named sign (gasping, prolonged laboured breathing; modern equivalent 'probably laboured/gasping breathing, dyspnoea') - the policy wants a hedged modern name beside the term; Hindi 'साँस ऊपर की ओर चढ़ती है' adds a verb. Owner may add 'probably laboured breathing' in a note.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete unit 65",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes unit 65",
+      "new": "Appears to complete unit 65"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "vidahyate",
+     "problem": "Observation, no patch: the conjecture vidahyate is well supported (inner burning with cold limbs, then 'hating heat and afflicted by cold' in u68), and the Devanagari विद्ह्यते is vid-hyate with a dropped a; the draft's handling (flag + conjectural mark in both languages + low) is correct. The glossary OPEN conflict (guess in gloss vs 'unclear') applies: the gloss here holds the guess.",
+     "fix": "none",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "The sentence appears to run on into unit 68.",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "notes",
+      "old": "The sentence runs on into unit 68.",
+      "new": "The sentence appears to run on into unit 68."
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete unit 67.",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes unit 67.",
+      "new": "Appears to complete unit 67."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "The sentence appears to be completed in unit 70",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "notes",
+      "old": "The sentence is completed in unit 70",
+      "new": "The sentence appears to be completed in unit 70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact).",
+     "fix": "Appears to complete unit 69.",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes unit 69.",
+      "new": "Appears to complete unit 69."
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "35 units reviewed against the printed Devanagari. 1 error (u41: printed bhajaṃti silently restored as bhajante with no flag; `w` patched to bhajanti). Minor: Hindi additions (u40 bare मल, u53 जैसे/चिह्न, u55/u64 ही, u65 उसको, u39 added हो and no doubt mark), u52 dangling 'or;', u54 -rātrāt labelled feminine, u56 emendation ārdreṣu unmarked in translations, u58 'Loose' unhedged, spacing typos u49/u58 only in notes (flags added), and continuation wording in notes hedged with 'appears to'. Checked and found sound: no ai/au hiatus problem in any flagged sandhi (u42, u51, u54, u56, u60, u67 Devanagari read); u67 vidahyate conjecture good; identifications kumuda/utpala (probable), padminī, candana, vaṅkṣaṇa, pretādhipa (Yama, probable) are correct and suitably hedged; no wrong identifications. Needs a human decision: u39 (anyo'nyo'pi, gata), u53 (sīmantāvartaka), u60 (māsān vs māsāt, which form goes in words), u63/u64 grammar, u52 sasneham/vā māsāntam, and whether letter-level corrections need the conjectural mark. No regrouping suggested (45-46, 47-48, 49-50, 51-52, 55-56, 57-58, 61-62, 63-64, 65-66, 67-68, 69-70 read as drafted; 53-54 one sentence).",
+ "glossary_suggestions": [
+  "bhajanti (parasmaipada) vs printed tyajaṃte (ātmanepada): keep printed forms in `w`, never silently normalise voice.",
+  "-rātra dvigu ablatives (ṣaḍ-rātrāt, tri-rātrāt): gram 'dvigu, abl. sg.', not feminine.",
+  "Hindi mala = 'मल यानी अपशिष्ट' also in lists of body parts (ch09 u40).",
+  "Missing-space tokens (yasyaromakūpāśca, tṛṣṇāca) get a text_flag as well as a note.",
+  "bhinna purīṣa: 'broken stool (probably loose)', Hindi 'भिन्न यानी टूटा हुआ, सम्भवतः ढीला, मल'.",
+  "pretādhipa = lord of the departed, probably Yama (hedged in both languages); kumuda = probably white water lily, utpala = probably blue water lily (Nymphaea nouchali).",
+  "Decide book-wide: do letter-level typo corrections adopted in `words` (straṃsaḥ→sraṃsaḥ, cūrṇa→cūrṇam) need the conjectural mark in translations, or only word-replacing ones (ārdveṣu→ārdreṣu)?"
+ ]
+}
