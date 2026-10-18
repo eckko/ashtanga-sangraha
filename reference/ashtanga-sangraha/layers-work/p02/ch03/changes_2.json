@@ -1,0 +1,298 @@
+[
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, तब इसे कुष्ठ यानी कूठ, एला यानी छोटी इलायची, लाङ्गली यानी कलिहारी, वचा यानी बच, च्यन्य नाम का अस्पष्ट शब्द, चित्रक यानी चीता और चिरबिल्व यानी सम्भवतः चिलबिल का चूर्ण बार-बार सूँघने के लिए देना चाहिए।",
+  "new": "अनुमानित पाठ पर, तब इसे कुष्ठ यानी कूठ, एला यानी छोटी इलायची, लाङ्गली यानी कलिहारी, वचा यानी बच, च्यन्य अस्पष्ट शब्द, चित्रक यानी चीता और चिरबिल्व यानी सम्भवतः चिलबिल का चूर्ण बार-बार सूँघने के लिए देना चाहिए।",
+  "why": "reviewer (minor): \"नाम का\" presents the damaged word as a name; English only says (unclear)"
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "वैसे ही भूर्जपत्र यानी भोजपत्र, शिंशपा यानी शीशम, या सर्ज यानी साल के रस, इनमें से किसी एक का धूम यानी धुआँ, बीच-बीच में भी।",
+  "new": "वैसे ही भूर्जपत्र यानी भोजपत्र, शिशिपा यानी शीशम, या सर्ज यानी साल के रस, इनमें से किसी एक का धूम यानी धुआँ, बीच-बीच में भी।",
+  "why": "reviewer (minor): Hindi silently normalises the printed śiśipā to शिंशपा while English keeps śiśipā"
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "Elliptical: the verb (dadyāt, 'one should give') is carried from the previous units, so the line is translated without a verb. 'sarja' (end of token 2) and 'rasa' (start of token 3) are read together as sarja-rasa, 'sap of sarja'; the print separates them, and 'rasa' could alternatively be a separate item. The whole is one compound: [bhūrjapatra, śiśipā, sarjarasa]-anyatama-dhūma. 'antarāntarā ca' is read as 'and at intervals' (between the sniffings). Tags: bhūrja, śiśipā, sarja standard; the resin sense of rasa is the usual one but is an interpretation.",
+  "new": "Elliptical: the verb (dadyāt, 'one should give') is carried from the previous units, so the line is translated without a verb. 'sarja' (end of token 2) and 'rasa' (start of token 3) are read together as sarja-rasa, 'sap of sarja'; the print separates them, and 'rasa' could alternatively be a separate item. The whole is one compound: [bhūrjapatra, śiśipā, sarjarasa]-anyatama-dhūma. 'antarāntarā ca' is read as 'and at intervals' (between the sniffings). Tags: bhūrja, śiśipā, sarja standard; the resin sense of rasa is the usual one but is an interpretation. 'śiśipā' is kept as printed; the usual forms are śiṃśapā or śiśapā (sissoo, Dalbergia sissoo).",
+  "why": "reviewer (minor): printed śiśipā is kept as is (standard forms are śiṃśapā / śiśapā, sissoo); worth one line"
+ },
+ {
+  "n": "52",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "bastiśiro'vagṛṇhāti",
+    "suggest": "bastiśiro'vagṛhṇāti",
+    "why": "possible: ṇh for hṇ (metathesis); avagṛhṇāti (takes hold of) is the standard form"
+   }
+  ],
+  "why": "reviewer (error): `words` has avagṛhṇāti but the printed avagṛṇhāti is not flagged (silent emendation); the note calls it an \"attested spelling variant\", which is not established"
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "Subject (the fetus, from 50) is not stated here. 'basti' is the bladder in this anatomical context (tag probable); 'śiras' = head/top. 'avagṛṇhāti' is an attested spelling variant of avagṛhṇāti. The sign is that the fetus leaves the region of the heart and descends; the text says nothing more.",
+  "new": "Subject (the fetus, from 50) is not stated here. 'basti' is the bladder in this anatomical context (tag probable); 'śiras' = head/top. 'avagṛṇhāti' is read as avagṛhṇāti (see the flag; a possible metathesis of ṇh). The sign is that the fetus leaves the region of the heart and descends; the text says nothing more.",
+  "why": "reviewer (error): `words` has avagṛhṇāti but the printed avagṛṇhāti is not flagged (silent emendation); the note calls it an \"attested spelling variant\", which is not established"
+ },
+ {
+  "n": "53",
+  "field": "text_flags.0.why",
+  "old": "possible: 'āḍhyaḥ' (nom. sg. 'rich, abounding') makes no sense after 'tvarayanti enām'; probably a corrupt word for a plural subject (for example something like 'pains'); not resolvable from the print, so it is left unsplit and unclear",
+  "new": "possible: 'āḍhyaḥ' (nom. sg. 'rich, abounding') makes no sense after 'tvarayanti enām'; possibly a corrupt word for the plural subject of the verb; not resolvable from the print, so it is left unsplit and unclear",
+  "why": "reviewer (minor): \"for example something like pains\" is an invented guess about the lost word"
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "गर्भिणी के लिए कठोर व्यायाम से बचना सदा बताया जाता है।",
+  "new": "क्योंकि गर्भिणी के लिए कठोर व्यायाम से बचना सदा बताया जाता है।",
+  "why": "reviewer (minor): Hindi drops hi (\"for\"), which the English renders"
+ },
+ {
+  "n": "57",
+  "field": "word.gloss",
+  "word": "muśalyāyāmena",
+  "old": "unclear (conjecturally: exertion with a pestle)",
+  "new": "unclear",
+  "why": "reviewer (error): Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "On a conjectural reading: and especially at the time of delivery, in her whose dhātus and doṣas have all been set in motion, because of delicacy (trāryā, unclear), the wind (vāyu), stirred up by muśalyāyāma (unclear; conjecturally exertion with a pestle), having found an opening, might injure the vital breaths (prāṇa).",
+  "new": "On a conjectural reading: and especially at the time of delivery, in her whose dhātus and doṣas have all been set in motion, because of delicacy (trāryā, unclear), the wind (vāyu), stirred up by muśalyāyāma (unclear), having found an opening, might injure the vital breaths (prāṇa).",
+  "why": "reviewer (error): Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, और विशेषकर प्रसव के समय, जिसके सब धातु और दोष चलायमान हो गए हैं उसके, कोमलता के कारण, त्रार्या अस्पष्ट शब्द है, मुशल्यायाम अस्पष्ट शब्द है जिसका अनुमानित अर्थ मूसल का श्रम है, उससे प्रेरित वायु अवसर पाकर प्राणों को हानि पहुँचा सकती है।",
+  "new": "अनुमानित पाठ पर, और विशेषकर प्रसव के समय, जिसके सब धातु और दोष चलायमान हो गए हैं उसके, कोमलता के कारण, त्रार्या अस्पष्ट शब्द है, मुशल्यायाम अस्पष्ट शब्द है, उससे प्रेरित वायु अवसर पाकर प्राणों को हानि पहुँचा सकती है।",
+  "why": "reviewer (error): Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes."
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "Two damaged words, 'trāryā' and 'muśalyāyāma', are kept unsplit and marked unclear; the sentence is therefore a conjectural reading. 'dhātu-doṣa' in the bahuvrīhi is taken as dvandva 'dhātus and doṣas'. 'antara' = opening/gap (alternative: opportunity). The closing 'iti' gives the reason for the prohibition in 56. 'hiṃsyāt' is a statement of what might happen, not a certain result.",
+  "new": "Two damaged words, 'trāryā' and 'muśalyāyāma', are kept unsplit and marked unclear; the sentence is therefore a conjectural reading. 'dhātu-doṣa' in the bahuvrīhi is taken as dvandva 'dhātus and doṣas'. 'antara' = opening/gap (alternative: opportunity). The closing 'iti' gives the reason for the prohibition in 56. 'hiṃsyāt' is a statement of what might happen, not a certain result. The guess muśala-vyāyāma ('exertion with a pestle') comes only from the context of units 54-56 and is kept out of the gloss and translation; see the flag.",
+  "why": "reviewer (error): Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes."
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "pīḍayet",
+  "old": "3 sg. opt. caus. √pīḍ",
+  "new": "3 sg. opt. √pīḍ (10th class)",
+  "why": "reviewer (minor): pīḍ is a tenth-class (curādi) verb, not a causative"
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, और कहे: हे सौभाग्यवती, धीरे-धीरे प्रवाहण करो यानी नीचे की ओर बल लगाओ, तुम्हारे मुख का वर्ण बहुत निर्मल है, तुम पुत्र को जन्म दोगी।",
+  "new": "अनुमानित पाठ पर, और कहे: हे सौभाग्यवती, धीरे-धीरे प्रवाहण करो यानी जोर लगाओ, तुम्हारे मुख का वर्ण बहुत निर्मल है, तुम पुत्र को जन्म दोगी।",
+  "why": "reviewer (minor): \"downward\" is not in pravāhayasva; added direction"
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "हे सुन्दर मुख वाली, तुम अपीड़ित रहकर अपीड़ित को जन्म दो।",
+  "new": "हे सुन्दर मुख वाली, अपीड़ित तुम अपीड़ित को जन्म दो।",
+  "why": "reviewer (minor): \"रहकर\" supplies a verb the Sanskrit does not have (avikliṣṭā is an adjective)"
+ },
+ {
+  "n": "70",
+  "field": "text_flags.0.why",
+  "old": "possible: 'analpavana' (a-l-p-a-v) is not a word; anala-pavana (fire, wind) fits the list with arka and Vāsava, and the a/p letters look swapped",
+  "new": "possible: 'analpavana' (a-l-p-a-v) is not a word; anala-pavana (fire, wind) fits the list with arka and Vāsava, and a short 'a' looks dropped after 'l' (analpavana for analapavana)",
+  "why": "reviewer (minor): The reason given is wrong: the suggested form differs from the print by one dropped \"a\" after l (analpa- for analapa-), not by swapped a/p letters"
+ },
+ {
+  "n": "72",
+  "field": "notes",
+  "old": "The aorist form of pra-√vah (instead of the causative used in 60, pravāhayasva) is as printed in both 72 and 75; the grammar is not fully certain, but the sense is clear from 73.",
+  "new": "The aorist form of pra-√vah (instead of the causative used in 60, pravāhayasva) is as printed in both 72 and 75; the grammar is not fully certain, but the sense is clear from 73. vedanā 'pain' here is probably the pain of labour (contractions), a reading from context (probable).",
+  "why": "reviewer (minor): Useful identification missing"
+ },
+ {
+  "n": "73",
+  "field": "notes",
+  "old": "Copula understood. 'garbhasya' is taken with 'ahitam' (unwholesome for the fetus); it could also go with the list of harms. The harms are stated by the text as consequences of untimely bearing down. 'śoṣa' = wasting (in older usage sometimes consumption); kept as 'wasting'.",
+  "new": "Copula understood. 'garbhasya' is taken with 'ahitam' (unwholesome for the fetus); it could also go with the list of harms. The harms are stated by the text as consequences of untimely bearing down. 'śoṣa' = wasting (in older usage sometimes consumption); kept as 'wasting'. 'anarthakaram' is rendered 'useless'; an alternative is 'causing harm/trouble' (anartha = harm).",
+  "why": "reviewer (minor): anarthakara can mean \"causing harm/mischief\" as well as \"useless\"; the draft gives only \"useless\", and ahitam follows separately"
+ },
+ {
+  "n": "74",
+  "field": "english",
+  "old": "Likewise, not bearing down when there is pain (vedanā) is like the holding back of those very (urges), and leads to injury.",
+  "new": "Likewise, not bearing down when there is pain (vedanā), like the holding back of those very (urges), is for injury.",
+  "why": "reviewer (error): \"and\" and \"leads to\" are supplied (the Sanskrit has only the dative upaghātāya and no connective before it)"
+ },
+ {
+  "n": "78",
+  "field": "notes",
+  "old": "'āpyāyyante' = are nourished/refreshed/swollen; rendered 'nourished'. The cry of 77 is the evident cause of the joy.",
+  "new": "'āpyāyyante' = are nourished/refreshed/swollen; rendered 'nourished'. The cry of 77 appears to be the cause of the joy.",
+  "why": "reviewer (minor): \"evident\" overstates; the text does not name the cause"
+ },
+ {
+  "n": "80",
+  "field": "notes",
+  "old": "'hiraṇyapuṣpī' (literally 'golden-flowered') is not identified here: sources differ and no safe identification is given. 'hastapāde' is a singular collective 'hand and foot'; the text does not say whose or whether both sides.",
+  "new": "'hiraṇyapuṣpī' (literally 'golden-flowered') is not identified here: sources differ and no safe identification is given. 'hastapāde' is a singular collective 'hand and foot'; the text does not say whose or whether both sides. The 'if' condition of 79 (garbha-saṅga) appears to carry on into 80 and 81; it is not repeated here.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "82",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
+    "suggest": "nābherupariṣṭādbalavadupapīḍyapṛṣṭhata",
+    "why": "possible: ṣṭh for ṣṭ in upariṣṭāt (from above); the aspirate looks like a misprint"
+   }
+  ],
+  "why": "reviewer (error): `words` has upariṣṭāt but the printed upariṣṭhāt is not flagged (silent emendation); the note calls it a \"variant\", which is not established"
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "'prasūtāyā na' is regular sandhi for prasūtāyāḥ na. The object of 'upasaṅgṛhya' and 'vidhūnuyāt' is not stated (not even the abdomen), so none is supplied; 'upariṣṭhāt' is printed with ṣṭh (variant of upariṣṭāt). 'aparā' = placenta/afterbirth (standard).",
+  "new": "'prasūtāyā na' is regular sandhi for prasūtāyāḥ na. The object of 'upasaṅgṛhya' and 'vidhūnuyāt' is not stated (not even the abdomen), so none is supplied; 'upariṣṭhāt' is printed with ṣṭh (read as upariṣṭāt; see the flag). 'aparā' = placenta/afterbirth (standard).",
+  "why": "reviewer (error): `words` has upariṣṭāt but the printed upariṣṭhāt is not flagged (silent emendation); the note calls it a \"variant\", which is not established"
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "ākuṭṭayet",
+  "old": "3 sg. opt. caus. ā-√kuṭṭ",
+  "new": "3 sg. opt. ā-√kuṭṭ (10th class)",
+  "why": "reviewer (minor): kuṭṭ is tenth-class (curādi), not a causative"
+ },
+ {
+  "n": "83",
+  "field": "notes",
+  "old": "'śroṇi' = hip/pelvic region (alternative: buttock). The text does not say whose heel.",
+  "new": "'śroṇi' = hip/pelvic region (alternative: buttock). The text does not say whose heel. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "84",
+  "field": "notes",
+  "old": "'supīḍitam pīḍayet' is a cognate expression, 'press so that it is well pressed'.",
+  "new": "'supīḍitam pīḍayet' is a cognate expression, 'press so that it is well pressed'. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "85",
+  "field": "notes",
+  "old": "'keśaveṣṭitayā' is taken with 'aṅgulyā' (the finger wound with hair); it could also go with 'veṇyā'. The text states no effect of the touch.",
+  "new": "'keśaveṣṭitayā' is taken with 'aṅgulyā' (the finger wound with hair); it could also go with 'veṇyā'. The text states no effect of the touch. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "86",
+  "field": "notes",
+  "old": "'kāca-maṇi' is taken literally (glass + gem/bead); fumigating with glass is odd, so the word may be corrupt (for example a plant name); not resolved and not interpreted. The print joins 'dhūpayet' to 'bhūrja' (no space). 'nirmoka' = slough.",
+  "new": "'kāca-maṇi' is taken literally (glass + gem/bead); fumigating with glass is odd, so the word may be corrupt (for example a plant name); not resolved and not interpreted. The print joins 'dhūpayet' to 'bhūrja' (no space). 'nirmoka' = slough. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "87",
+  "field": "text_flags.1.why",
+  "old": "possible: ḍ for ṭ in 'kaduka'; 'alāmbu' is a valid variant of alābu and is not changed",
+  "new": "possible: ḍ for ṭ in 'kaduka'; 'alāmbu' (a variant of alābu) is normalised to alābu in `words`",
+  "why": "reviewer (error): The flag says alāmbu \"is not changed\" but `words` has alābu (changed)"
+ },
+ {
+  "n": "87",
+  "field": "hindi",
+  "old": "या शालि की जड़ के साथ पकाए घी से योनि का अभ्यंग करके सम्भवतः कड़वी लौकी, जालिनी यानी सम्भवतः तोरई जिसकी पहचान विवादित है, निम्ब यानी नीम और साँप की केंचुली से धूपन करे।",
+  "new": "या शालि यानी धान की एक किस्म की जड़ के साथ पकाए घी से योनि का अभ्यंग करके सम्भवतः कड़वी लौकी, जालिनी यानी सम्भवतः तोरई जिसकी पहचान विवादित है, निम्ब यानी नीम और साँप की केंचुली से धूपन करे।",
+  "why": "reviewer (minor): Policy: modern names beside the Sanskrit term; śāli has no gloss in either translation (the gloss in `words` says a rice variety)"
+ },
+ {
+  "n": "87",
+  "field": "english",
+  "old": "Or, having anointed the yoni (vagina) with ghee cooked with śāli root, one should fumigate with probably bitter bottle gourd (kaṭukālābu), jālinī (a Luffa; disputed), nimba (neem) and snake slough.",
+  "new": "Or, having anointed the yoni (vagina) with ghee cooked with the root of śāli (a variety of rice), one should fumigate with probably bitter bottle gourd (kaṭukālābu), jālinī (a Luffa; disputed), nimba (neem) and snake slough.",
+  "why": "reviewer (minor): Policy: modern names beside the Sanskrit term; śāli has no gloss in either translation (the gloss in `words` says a rice variety)"
+ },
+ {
+  "n": "87",
+  "field": "notes",
+  "old": "'kaṭukālābu' is read as one drug, 'bitter bottle gourd'; the alternative is two drugs, kaṭukā (probably Picrorhiza kurroa) and alābu. 'śāli' is a rice variety; 'śālimūla' could in principle be a shortened name of another plant, so only the literal sense is given. 'siddha' = cooked. 'jālinī' is disputed (Luffa species are the usual guess).",
+  "new": "'kaṭukālābu' is read as one drug, 'bitter bottle gourd'; the alternative is two drugs, kaṭukā (probably Picrorhiza kurroa) and alābu. 'śāli' is a rice variety; 'śālimūla' could in principle be a shortened name of another plant, so only the literal sense is given. 'siddha' = cooked. 'jālinī' is disputed (Luffa species are the usual guess). Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on through 83-92.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "Or, for one not anointed, one should smear with (ones) mixed with kaṭu oil (probably mustard oil) and made into a paste (kalka), or smeared with oil.",
+  "new": "Or, for one not anointed, one should smear with (ones) mixed with kaṭu oil (probably mustard oil), made into a paste (kalka), or smeared with oil.",
+  "why": "reviewer (error): \"and\" is supplied; the Sanskrit lists the three instrumentals (the second vā after kalkīkṛtaiḥ) without \"and\"; the Hindi has no \"and\""
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "kaṭu-taila-miśraiḥ",
+  "old": "tat-puruṣa, m./n. inst. pl.",
+  "new": "tat-puruṣa, inst. pl.",
+  "why": "reviewer (minor): \"m./n.\" guesses a gender for an unstated noun (glossary: no gender in gram for unstated nouns)"
+ },
+ {
+  "n": "90",
+  "field": "english",
+  "old": "Or she should eat that very (paste).",
+  "new": "Or one should eat that very (paste).",
+  "why": "reviewer (error): \"she\" is supplied; the subject is not stated (the draft notes this itself)"
+ },
+ {
+  "n": "90",
+  "field": "notes",
+  "old": "'tat' most probably refers to the guḍa-nāgara paste of 89; the noun is not stated. Subject is the woman (not stated).",
+  "new": "'tat' most probably refers to the guḍa-nāgara paste of 89; the noun is not stated. The subject is not stated (probably the woman).",
+  "why": "reviewer (error): \"she\" is supplied; the subject is not stated (the draft notes this itself)"
+ },
+ {
+  "n": "91",
+  "field": "english",
+  "old": "Or with a paste (kalka) of lāṅgalī root one should smear the hand and the belly (udara).",
+  "new": "Or with a paste (kalka) of lāṅgalī (glory lily) root one should smear the hand and the belly (udara).",
+  "why": "reviewer (minor): Identification missing beside the term (given in 47 and 81; policy wants it beside the Sanskrit name)"
+ },
+ {
+  "n": "91",
+  "field": "hindi",
+  "old": "या लाङ्गली की जड़ के कल्क से हाथ और पेट पर लेप करे।",
+  "new": "या लाङ्गली यानी कलिहारी की जड़ के कल्क से हाथ और पेट पर लेप करे।",
+  "why": "reviewer (minor): Identification missing beside the term (given in 47 and 81; policy wants it beside the Sanskrit name)"
+ },
+ {
+  "n": "91",
+  "field": "notes",
+  "old": "'pāṇim' is singular ('hand'); the text does not say whether one or both hands. lāṅgalī: see unit 47.",
+  "new": "'pāṇim' is singular ('hand'); the text does not say whether one or both hands. lāṅgalī: see unit 47. Appears to continue the placenta remedies of 82 onward.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ },
+ {
+  "n": "92",
+  "field": "english",
+  "old": "Or one should pour the milk (kṣīra) of mahāvṛkṣa (disputed; probably a spurge such as snuhī) over the head.",
+  "new": "Or one should pour the milk (kṣīra) of mahāvṛkṣa (disputed; probably snuhī, a spurge) over the head.",
+  "why": "reviewer (minor): \"such as\" appears in the English translation (policy: no \"such as\"); the identification can be stated directly"
+ },
+ {
+  "n": "92",
+  "field": "notes",
+  "old": "'mahāvṛkṣa' (literally 'great tree') is a drug name whose identity varies by source; tagged disputed. 'kṣīra' of a plant = milky sap (latex).",
+  "new": "'mahāvṛkṣa' (literally 'great tree') is a drug name whose identity varies by source; tagged disputed. 'kṣīra' of a plant = milky sap (latex). Appears to continue the placenta remedies of 82 onward.",
+  "why": "reviewer (minor): sentence continuation not noted"
+ }
+]

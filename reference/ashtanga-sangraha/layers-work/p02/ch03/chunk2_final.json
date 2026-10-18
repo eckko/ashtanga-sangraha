@@ -1,0 +1,3926 @@
+[
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāsyai",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now, then",
+        "gram": "ind."
+       },
+       {
+        "w": "asyai",
+        "gloss": "to her",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyātkuṣṭhailālāṃgalīvacācyanyacitrakacirabilvacūrṇamupāghātuṃ",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "one should give",
+        "gram": "3 sg. opt. √dā"
+       },
+       {
+        "w": "kuṣṭha-elā-lāṅgalī-vacā-cyanya-citraka-cirabilva-cūrṇam",
+        "gloss": "powder (cūrṇa) of: kuṣṭha (costus, Saussurea costus, standard); elā (small cardamom, Elettaria cardamomum, standard); lāṅgalī (glory lily, Gloriosa superba, standard); vacā (sweet flag, Acorus calamus, standard); cyanya (unclear); citraka (leadwort, Plumbago zeylanica, standard); cirabilva (probably Indian elm, Holoptelea integrifolia, probable)",
+        "gram": "dvandva + tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "upāghrātum",
+        "gloss": "to smell",
+        "gram": "inf. upa-ā-√ghrā"
+       }
+      ]
+     },
+     {
+      "src": "muhurmuhuḥ",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, तब इसे कुष्ठ यानी कूठ, एला यानी छोटी इलायची, लाङ्गली यानी कलिहारी, वचा यानी बच, च्यन्य अस्पष्ट शब्द, चित्रक यानी चीता और चिरबिल्व यानी सम्भवतः चिलबिल का चूर्ण बार-बार सूँघने के लिए देना चाहिए।",
+  "english": "On a conjectural reading: then one should give her, to smell again and again, a powder of kuṣṭha (costus), elā (small cardamom), lāṅgalī (glory lily), vacā (sweet flag), cyanya (unclear), citraka (leadwort) and cirabilva (probably the Indian elm).",
+  "text_flags": [
+   {
+    "src": "cyanya",
+    "suggest": "cavya",
+    "why": "possible: 'cyanya' is not a drug name; cavya (Piper chaba, long-pepper relative) is often paired with citraka and vacā in such lists, and 'cavya' could be misread as 'cyanya'. Not certain, so the word is kept unclear."
+   },
+   {
+    "src": "upāghātuṃ",
+    "suggest": "upāghrātuṃ",
+    "why": "possible: 'upāghātum' is not a valid infinitive; 'upāghrātum' (to smell) fits a powder given 'muhurmuhuḥ' (again and again)"
+   }
+  ],
+  "notes": "Print habit for the whole chunk: anusvāra is written for homorganic nasals (lāṃgalī, jṛṃbhaṇa, maṃdira), and doubled -rtt- (parivarttate) and ṣṭh/ṣṭ and muśala/musala spellings vary; `words` give the standard forms and none of these is flagged again. The compound is a drug list; its fifth member 'cyanya' is unclear in print (kept unsplit, translated as unclear), so the list is read on a conjectural reading. 'upāghātuṃ' is read as upāghrātum (to smell), also conjectural. Verb 'dadyāt' has no stated subject (one/she who attends). Identification tags: kuṣṭha, elā, lāṅgalī, vacā, citraka standard; cirabilva probable. Hindi names: कुष्ठ=कूठ, एला=छोटी इलायची, लाङ्गली=कलिहारी, वचा=बच, चित्रक=चीता, चिरबिल्व=चिलबिल (probable).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.03.47"
+  ],
+  "lines_deva": [
+   "अथास्यै दद्यात्कुष्ठैलालांगलीवचाच्यन्यचित्रकचिरबिल्वचूर्णमुपाघातुं मुहुर्मुहुः"
+  ],
+  "lines_iast": [
+   "athāsyai dadyātkuṣṭhailālāṃgalīvacācyanyacitrakacirabilvacūrṇamupāghātuṃ muhurmuhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūrjapatraśiśipāsarja",
+      "words": [
+       {
+        "w": "bhūrja-patra-śiśipā-sarja",
+        "gloss": "birch (bhūrja, Betula utilis, standard); bark (patra); śiśipā (sissoo / Indian rosewood, Dalbergia sissoo, standard); sarja (sāl tree, Shorea robusta, standard)",
+        "gram": "dvandva (first member tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "rasānyatamadhūmamaṃtarāṃtarā",
+      "words": [
+       {
+        "w": "rasa",
+        "gloss": "sap (of sarja)",
+        "gram": "m., compound member"
+       },
+       {
+        "w": "anyatama",
+        "gloss": "any one of",
+        "gram": "adj., compound member"
+       },
+       {
+        "w": "dhūmam",
+        "gloss": "smoke, fumes",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "antarāntarā",
+        "gloss": "at intervals",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही भूर्जपत्र यानी भोजपत्र, शिशिपा यानी शीशम, या सर्ज यानी साल के रस, इनमें से किसी एक का धूम यानी धुआँ, बीच-बीच में भी।",
+  "english": "Likewise, the smoke of any one of birch bark (bhūrjapatra), śiśipā (sissoo) or the sap (rasa) of sarja (sāl), and at intervals.",
+  "text_flags": [],
+  "notes": "Elliptical: the verb (dadyāt, 'one should give') is carried from the previous units, so the line is translated without a verb. 'sarja' (end of token 2) and 'rasa' (start of token 3) are read together as sarja-rasa, 'sap of sarja'; the print separates them, and 'rasa' could alternatively be a separate item. The whole is one compound: [bhūrjapatra, śiśipā, sarjarasa]-anyatama-dhūma. 'antarāntarā ca' is read as 'and at intervals' (between the sniffings). Tags: bhūrja, śiśipā, sarja standard; the resin sense of rasa is the usual one but is an interpretation. 'śiśipā' is kept as printed; the usual forms are śiṃśapā or śiśapā (sissoo, Dalbergia sissoo).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.48"
+  ],
+  "lines_deva": [
+   "तथा भूर्जपत्रशिशिपासर्ज रसान्यतमधूममंतरांतरा च"
+  ],
+  "lines_iast": [
+   "tathā bhūrjapatraśiśipāsarja rasānyatamadhūmamaṃtarāṃtarā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārśvapṛṣṭhakaṭīsakthideśānkoṣṇena",
+      "words": [
+       {
+        "w": "pārśva-pṛṣṭha-kaṭī-sakthi-deśān",
+        "gloss": "regions of: side (pārśva); back (pṛṣṭha); waist/hip (kaṭī); thigh (sakthi)",
+        "gram": "dvandva + tat-puruṣa, m. acc. pl."
+       },
+       {
+        "w": "koṣṇena",
+        "gloss": "lukewarm",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailenābhyajyānusukhamasyā",
+      "words": [
+       {
+        "w": "tailena",
+        "gloss": "with oil",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "abhyajya",
+        "gloss": "having anointed",
+        "gram": "abs. abhi-√añj"
+       },
+       {
+        "w": "anusukham",
+        "gloss": "comfortably, agreeably",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her, of her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdgīyāt",
+      "words": [
+       {
+        "w": "mṛdnīyāt",
+        "gloss": "one should rub, knead",
+        "gram": "3 sg. opt. √mṛd"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके पार्श्व, पीठ, कटि और जाँघ के प्रदेशों का गुनगुने तेल से अभ्यंग करके सुखपूर्वक मर्दन करे।",
+  "english": "Having anointed the regions of her sides, back, waist and thighs with lukewarm oil, one should knead them comfortably.",
+  "text_flags": [
+   {
+    "src": "mṛdgīyāt",
+    "suggest": "mṛdnīyāt",
+    "why": "possible: 'mṛdgīyāt' is not a form; the optative of mṛd (9th class) is mṛdnīyāt, and sense fits (rubbing after anointing); n/g confusion is common in this print"
+   }
+  ],
+  "notes": "'asyā' stands for asyāḥ with the visarga dropped before the voiced m of the next word; this is regular sandhi, not a typo. 'deśa' = region/part. 'tailena' is oil unspecified. The same sandhi applies in units 58, 61, 78 and 82.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.49"
+  ],
+  "lines_deva": [
+   "पार्श्वपृष्ठकटीसक्थिदेशान्कोष्णेन तैलेनाभ्यज्यानुसुखमस्या मृद्गीयात्"
+  ],
+  "lines_iast": [
+   "pārśvapṛṣṭhakaṭīsakthideśānkoṣṇena tailenābhyajyānusukhamasyā mṛdgīyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evamavāk",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "avāk",
+        "gloss": "downward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parivartate",
+      "words": [
+       {
+        "w": "parivartate",
+        "gloss": "turns around",
+        "gram": "3 sg. pres. mid. pari-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "garbhaḥ",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "fetus",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार गर्भ नीचे की ओर पलट जाता है।",
+  "english": "Thus the fetus (garbha) turns around, downward.",
+  "text_flags": [],
+  "notes": "'avāk' is taken as the adverb 'downward'; the line does not say which part of the fetus leads, and no position is stated. 'evam' refers to the preceding procedure (units 47-49).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.50"
+  ],
+  "lines_deva": [
+   "एवमवाक् परिवर्तते गर्भः"
+  ],
+  "lines_iast": [
+   "evamavāk parivartate garbhaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyalakṣaṇaṃ",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its, of that",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "lakṣaṇam",
+        "gloss": "sign, mark",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका लक्षण।",
+  "english": "Its sign (lakṣaṇa).",
+  "text_flags": [],
+  "notes": "GROUPING: this short unit appears to introduce unit 52, which then states the sign. 'tasya' most likely refers to the turning of the fetus in 50. Copula understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.51"
+  ],
+  "lines_deva": [
+   "तस्यलक्षणं"
+  ],
+  "lines_iast": [
+   "tasyalakṣaṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vimucya",
+      "words": [
+       {
+        "w": "vimucya",
+        "gloss": "having left, released",
+        "gram": "abs. vi-√muc"
+       }
+      ]
+     },
+     {
+      "src": "hṛdayamudaramāviśati",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart (hṛdaya, standard)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "udaram",
+        "gloss": "belly (udara)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āviśati",
+        "gloss": "enters",
+        "gram": "3 sg. pres. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "bastiśiro'vagṛṇhāti",
+      "words": [
+       {
+        "w": "basti-śiraḥ",
+        "gloss": "head (top) of the bladder (basti, probable)",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "avagṛhṇāti",
+        "gloss": "takes hold of, seizes",
+        "gram": "3 sg. pres. ava-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हृदय को छोड़कर वह उदर यानी पेट में प्रवेश करता है और बस्ति यानी सम्भवतः मूत्राशय के सिर को पकड़ लेता है।",
+  "english": "Having left the heart (hṛdaya), it enters the belly (udara) and takes hold of the head of the bladder (basti, probably).",
+  "text_flags": [
+   {
+    "src": "bastiśiro'vagṛṇhāti",
+    "suggest": "bastiśiro'vagṛhṇāti",
+    "why": "possible: ṇh for hṇ (metathesis); avagṛhṇāti (takes hold of) is the standard form"
+   }
+  ],
+  "notes": "Subject (the fetus, from 50) is not stated here. 'basti' is the bladder in this anatomical context (tag probable); 'śiras' = head/top. 'avagṛṇhāti' is read as avagṛhṇāti (see the flag; a possible metathesis of ṇh). The sign is that the fetus leaves the region of the heart and descends; the text says nothing more.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.52"
+  ],
+  "lines_deva": [
+   "विमुच्य हृदयमुदरमाविशति बस्तिशिरोऽवगृण्हाति"
+  ],
+  "lines_iast": [
+   "vimucya hṛdayamudaramāviśati bastiśiro'vagṛṇhāti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvarayaṃtyenāmāḍhyaḥ",
+      "words": [
+       {
+        "w": "tvarayanti",
+        "gloss": "(they) hasten, urge on",
+        "gram": "3 pl. pres. caus. √tvar"
+       },
+       {
+        "w": "enām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āḍhyaḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cedevaṃ",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parivarttate",
+      "words": [
+       {
+        "w": "parivartate",
+        "gloss": "turns around",
+        "gram": "3 sg. pres. mid. pari-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muhurmuhurjṛṃbhaṇaṃ",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "jṛmbhaṇam",
+        "gloss": "yawning",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caṃkramaṇaṃ",
+      "words": [
+       {
+        "w": "caṅkramaṇam",
+        "gloss": "walking about",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayitavyā'naṃtaroṃktaṃ",
+      "words": [
+       {
+        "w": "kārayitavyā",
+        "gloss": "she is to be made to do",
+        "gram": "gerundive caus. √kṛ, nom. sg."
+       },
+       {
+        "w": "anantara-uktam",
+        "gloss": "stated immediately before",
+        "gram": "tat-puruṣa (ppp. √vac), m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhiṃ",
+      "words": [
+       {
+        "w": "vidhim",
+        "gloss": "procedure",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, वे उसे जल्दी करने को प्रेरित करते हैं, आढ्यः अस्पष्ट शब्द है। यदि वह इस प्रकार नहीं पलटता, तब उससे बार-बार जम्हाई लेना और टहलना कराना चाहिए, और अभी पहले कही गई विधि भी।",
+  "english": "On a conjectural reading: they urge her on, āḍhyaḥ (unclear). If it does not turn in this way, then she should be made to do yawning and walking about again and again, and the procedure stated just before.",
+  "text_flags": [
+   {
+    "src": "tvarayaṃtyenāmāḍhyaḥ",
+    "suggest": "unresolved",
+    "why": "possible: 'āḍhyaḥ' (nom. sg. 'rich, abounding') makes no sense after 'tvarayanti enām'; possibly a corrupt word for the plural subject of the verb; not resolvable from the print, so it is left unsplit and unclear"
+   },
+   {
+    "src": "kārayitavyā'naṃtaroṃktaṃ",
+    "suggest": "kārayitavyā'nantaroktaṃ",
+    "why": "possible: stray anusvāra in 'anantaroṃktam'; the sense 'anantara-uktam' (stated just before) fits"
+   }
+  ],
+  "notes": "'āḍhyaḥ' is damaged or corrupt, so 'tvarayanti enām' (they hasten her) is translated only on a conjectural reading and without a firm subject. 'kārayitavyā' agrees with an understood 'strī' (the woman, nominative); the three accusatives (yawning, walking about, the procedure) are what she is to be made to do. 'The procedure stated just before' appears to point back to units 47-49. 'parivarttate' (doubled -rtt-) is normalised to parivartate.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.03.53"
+  ],
+  "lines_deva": [
+   "त्वरयंत्येनामाढ्यः न चेदेवं परिवर्त्तते ततो मुहुर्मुहुर्जृंभणं चंक्रमणं च कारयितव्याऽनंतरोंक्तं विधिं"
+  ],
+  "lines_iast": [
+   "tvarayaṃtyenāmāḍhyaḥ na cedevaṃ parivarttate tato muhurmuhurjṛṃbhaṇaṃ caṃkramaṇaṃ ca kārayitavyā'naṃtaroṃktaṃ vidhiṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muśalenolūkhalaṃ",
+      "words": [
+       {
+        "w": "muśalena",
+        "gloss": "with the pestle",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ulūkhalam",
+        "gloss": "mortar",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhānyapūrṇamāhanīyamityāhuḥ",
+      "words": [
+       {
+        "w": "dhānya-pūrṇam",
+        "gloss": "filled with grain",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "āhanīyam",
+        "gloss": "to be struck",
+        "gram": "gerundive ā-√han, n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे तो कहते हैं कि अनाज से भरी ओखली पर मूसल से प्रहार करना चाहिए।",
+  "english": "Others, however, say that a mortar filled with grain is to be struck with a pestle.",
+  "text_flags": [],
+  "notes": "'muśala' is a variant spelling of musala (pestle). 'dhānya' is grain, kind not stated. The purpose is not stated in this unit; the next unit rejects this view. The closing 'iti' marks the report of the others' opinion.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.54"
+  ],
+  "lines_deva": [
+   "अन्ये तु मुशलेनोलूखलं धान्यपूर्णमाहनीयमित्याहुः"
+  ],
+  "lines_iast": [
+   "anye tu muśalenolūkhalaṃ dhānyapūrṇamāhanīyamityāhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tattū",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samyak",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "rightly, properly",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह तो ठीक नहीं है।",
+  "english": "That, however, is not right.",
+  "text_flags": [
+   {
+    "src": "tattū",
+    "suggest": "tattu",
+    "why": "possible: long ū in 'tū' is not needed; 'tat tu' (that, however) is meant"
+   }
+  ],
+  "notes": "Copula understood. 'tat' refers to the view reported in 54.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.55"
+  ],
+  "lines_deva": [
+   "तत्तू न सम्यक्"
+  ],
+  "lines_iast": [
+   "tattū na samyak"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dāruṇavyāyāmavarjanaṃ",
+      "words": [
+       {
+        "w": "dāruṇa-vyāyāma-varjanam",
+        "gloss": "avoidance (varjana) of severe (dāruṇa) exertion (vyāyāma)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhiṇyāḥ",
+      "words": [
+       {
+        "w": "garbhiṇyāḥ",
+        "gloss": "for a pregnant woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "satatamupadiśyate",
+      "words": [
+       {
+        "w": "satatam",
+        "gloss": "constantly",
+        "gram": "ind."
+       },
+       {
+        "w": "upadiśyate",
+        "gloss": "is prescribed, is taught",
+        "gram": "3 sg. pres. pass. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि गर्भिणी के लिए कठोर व्यायाम से बचना सदा बताया जाता है।",
+  "english": "For the avoidance of severe exertion is constantly prescribed for a pregnant woman.",
+  "text_flags": [],
+  "notes": "'garbhiṇyāḥ' (genitive) is rendered 'for a pregnant woman' (genitive of the person concerned). 'vyāyāma' = exertion.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.56"
+  ],
+  "lines_deva": [
+   "दारुणव्यायामवर्जनं हि गर्भिण्याः सततमुपदिश्यते"
+  ],
+  "lines_iast": [
+   "dāruṇavyāyāmavarjanaṃ hi garbhiṇyāḥ satatamupadiśyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśeṣataścaprasavakāle",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "prasava-kāle",
+        "gloss": "at the time of delivery",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pracalitasarvadhātudoṣāyāḥ",
+      "words": [
+       {
+        "w": "pracalita-sarva-dhātu-doṣāyāḥ",
+        "gloss": "of her in whom all (sarva) dhātus and doṣas are set in motion (pracalita)",
+        "gram": "bahuvrīhi, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saukumāryāttrāryā",
+      "words": [
+       {
+        "w": "saukumāryāt",
+        "gloss": "from (because of) delicacy",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "trāryā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "muśalyāyāmenerito",
+      "words": [
+       {
+        "w": "muśalyāyāmena",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "īritaḥ",
+        "gloss": "stirred up, set in motion",
+        "gram": "ppp. √īr, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuaṃtaraṃ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "antaram",
+        "gloss": "opening, gap",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labdhvā",
+      "words": [
+       {
+        "w": "labdhvā",
+        "gloss": "having found",
+        "gram": "abs. √labh"
+       }
+      ]
+     },
+     {
+      "src": "prāṇān",
+      "words": [
+       {
+        "w": "prāṇān",
+        "gloss": "vital breaths (prāṇa)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hiṃsyāditi",
+      "words": [
+       {
+        "w": "hiṃsyāt",
+        "gloss": "might injure",
+        "gram": "3 sg. opt. √hiṃs"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the reason)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, और विशेषकर प्रसव के समय, जिसके सब धातु और दोष चलायमान हो गए हैं उसके, कोमलता के कारण, त्रार्या अस्पष्ट शब्द है, मुशल्यायाम अस्पष्ट शब्द है, उससे प्रेरित वायु अवसर पाकर प्राणों को हानि पहुँचा सकती है।",
+  "english": "On a conjectural reading: and especially at the time of delivery, in her whose dhātus and doṣas have all been set in motion, because of delicacy (trāryā, unclear), the wind (vāyu), stirred up by muśalyāyāma (unclear), having found an opening, might injure the vital breaths (prāṇa).",
+  "text_flags": [
+   {
+    "src": "saukumāryāttrāryā",
+    "suggest": "unresolved",
+    "why": "possible: 'trāryā' is not a word; it may be a corrupt 'nāryāḥ' (of the woman) but this is not certain, so it is kept unclear"
+   },
+   {
+    "src": "muśalyāyāmenerito",
+    "suggest": "muśalavyāyāmenerito",
+    "why": "possible: 'muśalyāyāma' is not a word; context (units 54-56: pestle, severe exertion) suggests muśala-vyāyāma or muśala-āyāma, 'exertion with a pestle'; not certain"
+   },
+   {
+    "src": "vāyuaṃtaraṃ",
+    "suggest": "vāyurantaraṃ",
+    "why": "possible: vāyuḥ + antaram should join as 'vāyur antaram'; the r is missing in print"
+   }
+  ],
+  "notes": "Two damaged words, 'trāryā' and 'muśalyāyāma', are kept unsplit and marked unclear; the sentence is therefore a conjectural reading. 'dhātu-doṣa' in the bahuvrīhi is taken as dvandva 'dhātus and doṣas'. 'antara' = opening/gap (alternative: opportunity). The closing 'iti' gives the reason for the prohibition in 56. 'hiṃsyāt' is a statement of what might happen, not a certain result. The guess muśala-vyāyāma ('exertion with a pestle') comes only from the context of units 54-56 and is kept out of the gloss and translation; see the flag.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.03.57"
+  ],
+  "lines_deva": [
+   "विशेषतश्चप्रसवकाले प्रचलितसर्वधातुदोषायाः सौकुमार्यात्त्रार्या मुशल्यायामेनेरितो वायुअंतरं लब्ध्वा प्राणान् हिंस्यादिति"
+  ],
+  "lines_iast": [
+   "viśeṣataścaprasavakāle pracalitasarvadhātudoṣāyāḥ saukumāryāttrāryā muśalyāyāmenerito vāyuaṃtaraṃ labdhvā prāṇān hiṃsyāditi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now, then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parivṛttagarbhāṃ",
+      "words": [
+       {
+        "w": "parivṛtta-garbhām",
+        "gloss": "her whose fetus has turned",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paryaṃkamenāmāropya",
+      "words": [
+       {
+        "w": "paryaṅkam",
+        "gloss": "couch",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "enām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āropya",
+        "gloss": "having placed (on)",
+        "gram": "abs. ā-√ruh caus."
+       }
+      ]
+     },
+     {
+      "src": "kuśalā",
+      "words": [
+       {
+        "w": "kuśalā",
+        "gloss": "skilled",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādato'syā",
+      "words": [
+       {
+        "w": "pādataḥ",
+        "gloss": "from the foot-side",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "of her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣaṇṇāyā",
+      "words": [
+       {
+        "w": "niṣaṇṇāyāḥ",
+        "gloss": "seated",
+        "gram": "ppp. ni-√sad, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonimanulomamanusukhamabhyajya",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "yoni (vagina, birth passage; standard)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anulomam",
+        "gloss": "in the natural direction",
+        "gram": "ind. (adv. acc.)"
+       },
+       {
+        "w": "anusukham",
+        "gloss": "comfortably",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyajya",
+        "gloss": "having anointed",
+        "gram": "abs. abhi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "sphijau",
+      "words": [
+       {
+        "w": "sphijau",
+        "gloss": "the two buttocks (sphij)",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "pādābhyāṃ",
+      "words": [
+       {
+        "w": "pādābhyām",
+        "gloss": "with the two feet",
+        "gram": "m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "pīḍayet",
+      "words": [
+       {
+        "w": "pīḍayet",
+        "gloss": "should press",
+        "gram": "3 sg. opt. √pīḍ (10th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब कुशल स्त्री, गर्भ के पलट जाने पर उस स्त्री को पलंग पर बिठाकर, बैठी हुई उसके पैरों की ओर से योनि यानी जननमार्ग का अनुलोम दिशा में सुखपूर्वक अभ्यंग करके, दोनों नितम्बों को पैरों से दबाए।",
+  "english": "Then a skilled woman, having placed her whose fetus has turned on a couch (paryaṅka), and, from the foot-side of her as she sits, having anointed the yoni (vagina) comfortably in the natural direction (anuloma), should press the two buttocks (sphij) with the two feet.",
+  "text_flags": [],
+  "notes": "'pādābhyām' ('with the two feet') does not say whose feet; the natural reading is the attendant's. 'paryaṅka' = couch (alternative: a seated posture). 'anuloma' = in the natural direction (with the grain / downward); the text gives no further detail. The substance anointed is not named. 'niṣaṇṇāyā' = niṣaṇṇāyāḥ with regular visarga loss before y.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.58"
+  ],
+  "lines_deva": [
+   "अथ परिवृत्तगर्भां पर्यंकमेनामारोप्य कुशला स्त्री पादतोऽस्या निषण्णाया योनिमनुलोममनुसुखमभ्यज्य स्फिजौ पादाभ्यां पीडयेत्"
+  ],
+  "lines_iast": [
+   "atha parivṛttagarbhāṃ paryaṃkamenāmāropya kuśalā strī pādato'syā niṣaṇṇāyā yonimanulomamanusukhamabhyajya sphijau pādābhyāṃ pīḍayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yoniṃ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "yoni (vagina)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥpunaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasārayet",
+      "words": [
+       {
+        "w": "prasārayet",
+        "gloss": "should stretch out",
+        "gram": "3 sg. opt. caus. pra-√sṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और योनि को बार-बार फैलाए।",
+  "english": "And she should stretch out the yoni (vagina) again and again.",
+  "text_flags": [],
+  "notes": "Subject (the skilled woman of 58) is not stated here. The text does not say how the yoni is stretched.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.59"
+  ],
+  "lines_deva": [
+   "योनिं च पुनःपुनः प्रसारयेत्"
+  ],
+  "lines_iast": [
+   "yoniṃ ca punaḥpunaḥ prasārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brūyācca",
+      "words": [
+       {
+        "w": "brūyāt",
+        "gloss": "she should say",
+        "gram": "3 sg. opt. √brū"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "subhage",
+      "words": [
+       {
+        "w": "subhage",
+        "gloss": "O fortunate one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śanaiḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly, gently",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śanaiḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly, gently",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravāhayasva",
+      "words": [
+       {
+        "w": "pravāhayasva",
+        "gloss": "bear down",
+        "gram": "2 sg. imp. mid. caus. pra-√vah"
+       }
+      ]
+     },
+     {
+      "src": "suprasannete",
+      "words": [
+       {
+        "w": "suprasannaḥ",
+        "gloss": "very clear, serene",
+        "gram": "ppp. su-pra-√sad, m. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhavarṇaḥ",
+      "words": [
+       {
+        "w": "mukha-varṇaḥ",
+        "gloss": "colour of the face, complexion",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "putraṃ",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayiṣyatīti",
+      "words": [
+       {
+        "w": "janayiṣyasi",
+        "gloss": "you will bear",
+        "gram": "2 sg. fut. caus. √jan"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, और कहे: हे सौभाग्यवती, धीरे-धीरे प्रवाहण करो यानी जोर लगाओ, तुम्हारे मुख का वर्ण बहुत निर्मल है, तुम पुत्र को जन्म दोगी।",
+  "english": "On a conjectural reading: and she should say, \"O fortunate one, bear down (pravāhaṇa) gently, gently; the colour of your face is very clear; you will bear a son.\"",
+  "text_flags": [
+   {
+    "src": "suprasannete",
+    "suggest": "suprasannas te",
+    "why": "possible: 'suprasanna' + 'ete' makes no sense with 'te mukhavarṇaḥ'; the nominative 'suprasannaḥ te' (your ... very clear) fits"
+   },
+   {
+    "src": "janayiṣyatīti",
+    "suggest": "janayiṣyasīti",
+    "why": "possible: the addressee is 'you', so the 2nd person 'janayiṣyasi' is expected; the printed 3rd person 'janayiṣyati' has no stated subject"
+   }
+  ],
+  "notes": "Two small corrections (above) are adopted in `words` and marked in the translation. As printed, 'janayiṣyati' would have the face-colour or an unstated 'she' as subject. 'pravāhaṇa' = pushing/bearing down; the speaker (the attendant) addresses the woman in labour. The closing 'iti' ends the quoted speech.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.60"
+  ],
+  "lines_deva": [
+   "ब्रूयाच्च सुभगे शनैः शनैः प्रवाहयस्व सुप्रसन्नेते मुखवर्णः पुत्रं जनयिष्यतीति"
+  ],
+  "lines_iast": [
+   "brūyācca subhage śanaiḥ śanaiḥ pravāhayasva suprasannete mukhavarṇaḥ putraṃ janayiṣyatīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyā",
+      "words": [
+       {
+        "w": "anyā",
+        "gloss": "another (woman)",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāmakarṇe'syā",
+      "words": [
+       {
+        "w": "vāma-karṇe",
+        "gloss": "in the left ear",
+        "gram": "tat-puruṣa, m. loc. sg."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṃtramimaṃ",
+      "words": [
+       {
+        "w": "mantram",
+        "gloss": "mantra",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "japet",
+      "words": [
+       {
+        "w": "japet",
+        "gloss": "should mutter, recite",
+        "gram": "3 sg. opt. √jap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरी तो इसके बाएँ कान में यह मन्त्र जपे।",
+  "english": "Another (woman), however, should mutter this mantra in her left ear.",
+  "text_flags": [],
+  "notes": "'anyā' is feminine, so another woman is meant; the noun is not stated. The mantra follows in 62 onward.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.61"
+  ],
+  "lines_deva": [
+   "अन्या तु वामकर्णेऽस्या मंत्रमिमं जपेत्"
+  ],
+  "lines_iast": [
+   "anyā tu vāmakarṇe'syā maṃtramimaṃ japet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣitirjalaṃ",
+      "words": [
+       {
+        "w": "kṣitiḥ",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "jalam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viyattejo",
+      "words": [
+       {
+        "w": "viyat",
+        "gloss": "sky, space",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tejaḥ",
+        "gloss": "fire (tejas)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyurviṣṇuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "viṣṇuḥ",
+        "gloss": "Viṣṇu (name of a deity)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajāpatiḥ",
+      "words": [
+       {
+        "w": "prajāpatiḥ",
+        "gloss": "Prajāpati (lord of creatures; a deity)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी, जल, आकाश, तेज यानी अग्नि, वायु, विष्णु, प्रजापति।",
+  "english": "Earth, water, sky (viyat), fire (tejas), wind, Viṣṇu, Prajāpati.",
+  "text_flags": [],
+  "notes": "GROUPING: this list of names (the mantra) has no verb; it appears to continue in unit 63, whose verbs (pātu, dadhātu) probably have these as subjects. The verbs in 63 are singular although seven names are listed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.62"
+  ],
+  "lines_deva": [
+   "क्षितिर्जलं वियत्तेजो वायुर्विष्णुः प्रजापतिः"
+  ],
+  "lines_iast": [
+   "kṣitirjalaṃ viyattejo vāyurviṣṇuḥ prajāpatiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sagarbhāṃ",
+      "words": [
+       {
+        "w": "sa-garbhām",
+        "gloss": "with the fetus, pregnant",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvāṃ",
+      "words": [
+       {
+        "w": "tvām",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadāpātu",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "pātu",
+        "gloss": "may (it) protect",
+        "gram": "3 sg. imp. √pā"
+       }
+      ]
+     },
+     {
+      "src": "vaiśalyaṃ",
+      "words": [
+       {
+        "w": "vaiśalyam",
+        "gloss": "freedom from the dart (śalya)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadhātvapi",
+      "words": [
+       {
+        "w": "dadhātu",
+        "gloss": "may (it) grant",
+        "gram": "3 sg. imp. √dhā"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भ सहित तुम्हारी सदा रक्षा करे, या शल्य से मुक्ति भी प्रदान करे।",
+  "english": "May (it) always protect you, together with the fetus, or also grant freedom from the dart (śalya).",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 62. Subject is not stated in this unit; the verbs are singular, probably agreeing with the list in 62 taken together. 'śalya' = dart (also a foreign body or a piercing pain); its precise sense here is not certain, so it is not interpreted. 'vaiśalya' = state without the dart. The sense of 'vā ... api' ('or ... also') is loose.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.63"
+  ],
+  "lines_deva": [
+   "सगर्भां त्वां सदापातु वैशल्यं वा दधात्वपि"
+  ],
+  "lines_iast": [
+   "sagarbhāṃ tvāṃ sadāpātu vaiśalyaṃ vā dadhātvapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prasūṣva",
+      "words": [
+       {
+        "w": "prasūṣva",
+        "gloss": "give birth, bring forth",
+        "gram": "2 sg. imp. mid. pra-√sū"
+       }
+      ]
+     },
+     {
+      "src": "tvamavikḻiṣṭamavikḻiṣṭā",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "avikliṣṭam",
+        "gloss": "unharmed, without distress",
+        "gram": "ppp. a-vi-√kliś, m. acc. sg. or adv."
+       },
+       {
+        "w": "avikliṣṭā",
+        "gloss": "unharmed",
+        "gram": "ppp., f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śubhānane",
+      "words": [
+       {
+        "w": "śubhānane",
+        "gloss": "O fair-faced one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सुन्दर मुख वाली, अपीड़ित तुम अपीड़ित को जन्म दो।",
+  "english": "Give birth, you who are unharmed, to the unharmed (one), O fair-faced one.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue in 65, where 'putram' (son) is the object, so the first 'avikliṣṭam' most likely agrees with it; it could instead be the adverb 'without distress'. The printed letter ḻ (in avikḻiṣṭa) is normalised to l, a print habit recorded once for this book.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.64"
+  ],
+  "lines_deva": [
+   "प्रसूष्व त्वमविक्ळिष्टमविक्ळिष्टा शुभानने"
+  ],
+  "lines_iast": [
+   "prasūṣva tvamavikḻiṣṭamavikḻiṣṭā śubhānane"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kārtikeyadyutiṃ",
+      "words": [
+       {
+        "w": "kārtikeya-dyutim",
+        "gloss": "having the splendour (dyuti) of Kārtikeya",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "putraṃ",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārtikeyābhirakṣitamiti",
+      "words": [
+       {
+        "w": "kārtikeya-abhirakṣitam",
+        "gloss": "protected by Kārtikeya",
+        "gram": "tat-puruṣa, m. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the mantra)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कार्तिकेय की कान्ति वाले, कार्तिकेय से रक्षित पुत्र को।",
+  "english": "A son having the splendour of Kārtikeya, protected by Kārtikeya.",
+  "text_flags": [],
+  "notes": "Elliptical: the verb 'prasūṣva' (give birth) is carried from 64, so no verb is supplied. Kārtikeya is the name of a god, as printed. The closing 'iti' ends the mantra.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.65"
+  ],
+  "lines_deva": [
+   "कार्तिकेयद्युतिं पुत्रं कार्तिकेयाभिरक्षितमिति"
+  ],
+  "lines_iast": [
+   "kārtikeyadyutiṃ putraṃ kārtikeyābhirakṣitamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तथा।",
+  "english": "Likewise.",
+  "text_flags": [],
+  "notes": "Connecting word before a second mantra (67 onward).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.66"
+  ],
+  "lines_deva": [
+   "तथा"
+  ],
+  "lines_iast": [
+   "tathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ihāmṛtaṃ",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "nectar (amṛta)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "casomaśca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "citrabhānuśca",
+      "words": [
+       {
+        "w": "citrabhānuḥ",
+        "gloss": "Citrabhānu (bright-rayed; an epithet of fire or sun)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāmini",
+      "words": [
+       {
+        "w": "bhāmini",
+        "gloss": "O lady",
+        "gram": "f. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ अमृत और सोम और चित्रभानु, हे भामिनी।",
+  "english": "Here: nectar (amṛta), and Soma, and Citrabhānu, O lady.",
+  "text_flags": [],
+  "notes": "GROUPING: no verb here; the plural verb 'nivasantu' in 68 appears to complete this line. 'citrabhānu' is an epithet (of fire or the sun); which is meant is not stated, so only the epithet is given.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.67"
+  ],
+  "lines_deva": [
+   "इहामृतं चसोमश्च चित्रभानुश्च भामिनि"
+  ],
+  "lines_iast": [
+   "ihāmṛtaṃ casomaśca citrabhānuśca bhāmini"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uccaiḥśravāśca",
+      "words": [
+       {
+        "w": "uccaiḥśravāḥ",
+        "gloss": "Uccaiḥśravas (name of a horse)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "turago",
+      "words": [
+       {
+        "w": "turagaḥ",
+        "gloss": "horse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṃdire",
+      "words": [
+       {
+        "w": "mandire",
+        "gloss": "in the house, in the abode",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nivasaṃtute",
+      "words": [
+       {
+        "w": "nivasantu",
+        "gloss": "may (they) dwell",
+        "gram": "3 pl. imp. ni-√vas"
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उच्चैःश्रवा घोड़ा तुम्हारे घर में निवास करें।",
+  "english": "And Uccaiḥśravas, the horse: may (they) dwell in your house.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 67; the plural verb probably has amṛta, Soma, Citrabhānu and Uccaiḥśravas as subjects. 'te' is taken as 'your' (alternatively 'to you'). 'mandira' is house/dwelling.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.68"
+  ],
+  "lines_deva": [
+   "उच्चैःश्रवाश्च तुरगो मंदिरे निवसंतुते"
+  ],
+  "lines_iast": [
+   "uccaiḥśravāśca turago maṃdire nivasaṃtute"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "idamamṛtamapāṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "nectar (amṛta)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "samuddhṛtaṃ",
+      "words": [
+       {
+        "w": "samuddhṛtam",
+        "gloss": "drawn up, extracted",
+        "gram": "ppp. sam-ud-√hṛ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vai",
+      "words": [
+       {
+        "w": "vai",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tava",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu",
+      "words": [
+       {
+        "w": "laghu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhamimaṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "fetus",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramuṃcatu",
+      "words": [
+       {
+        "w": "pramuñcatu",
+        "gloss": "may (it) release",
+        "gram": "3 sg. imp. pra-√muc"
+       }
+      ]
+     },
+     {
+      "src": "stri",
+      "words": [
+       {
+        "w": "stri",
+        "gloss": "O woman",
+        "gram": "f. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलों से निकाला गया यह अमृत निश्चय ही, हे स्त्री, तुम्हारे इस गर्भ को शीघ्र छोड़ दे।",
+  "english": "This nectar (amṛta), indeed drawn up from the waters: may it quickly release this fetus of yours, O woman.",
+  "text_flags": [],
+  "notes": "'stri' is the regular vocative of strī. 'laghu' is taken as the adverb 'quickly' (alternative: lightly, easily).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.69"
+  ],
+  "lines_deva": [
+   "इदममृतमपां समुद्धृतं वै तव लघु गर्भमिमं प्रमुंचतु स्त्रि"
+  ],
+  "lines_iast": [
+   "idamamṛtamapāṃ samuddhṛtaṃ vai tava laghu garbhamimaṃ pramuṃcatu stri"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadanalpavanārkavāsavāste",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "anala-pavana-arka-vāsavāḥ",
+        "gloss": "fire (anala), wind (pavana), sun (arka), Indra (Vāsava)",
+        "gram": "dvandva, m. nom. pl."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg. (enclitic)"
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇāṃbudharairdiśaṃtu",
+      "words": [
+       {
+        "w": "lavaṇa-ambu-dharaiḥ",
+        "gloss": "bearers of salt water (sense uncertain)",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "diśantu",
+        "gloss": "may (they) grant",
+        "gram": "3 pl. imp. √diś"
+       }
+      ]
+     },
+     {
+      "src": "śāṃtimiti",
+      "words": [
+       {
+        "w": "śāntim",
+        "gloss": "peace",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the mantra)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, इसलिए अग्नि, वायु, सूर्य और इन्द्र, लवण जल धारण करने वालों के साथ, तुम्हें शान्ति दें।",
+  "english": "On a conjectural reading: therefore may fire (anala), wind (pavana), sun (arka) and Indra (Vāsava), together with the bearers of salt water, grant you peace (śānti).",
+  "text_flags": [
+   {
+    "src": "tadanalpavanārkavāsavāste",
+    "suggest": "tadanalapavanārkavāsavāste",
+    "why": "possible: 'analpavana' (a-l-p-a-v) is not a word; anala-pavana (fire, wind) fits the list with arka and Vāsava, and a short 'a' looks dropped after 'l' (analpavana for analapavana)"
+   }
+  ],
+  "notes": "The list reading depends on the correction above. 'te' is taken as the enclitic 'to you' (alternative: 'they'). 'lavaṇāmbudhara' is literally 'bearer(s) of salt water'; whether oceans or clouds is not clear, so it is left literal. 'arka' = sun here (arka is also a plant name). 'tat' = therefore (alternative: that).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.70"
+  ],
+  "lines_deva": [
+   "तदनल्पवनार्कवासवास्ते सह लवणांबुधरैर्दिशंतु शांतिमिति"
+  ],
+  "lines_iast": [
+   "tadanalpavanārkavāsavāste saha lavaṇāṃbudharairdiśaṃtu śāṃtimiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parā'nuśiṣyāt",
+      "words": [
+       {
+        "w": "parā",
+        "gloss": "another (woman)",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "anuśiṣyāt",
+        "gloss": "should instruct",
+        "gram": "3 sg. opt. anu-√śās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही दूसरी समझाए।",
+  "english": "Likewise another (woman) should instruct (her).",
+  "text_flags": [],
+  "notes": "'parā' is feminine, so a woman is meant. The object (the woman in labour) is not stated; the instruction appears to follow in 72-76.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.71"
+  ],
+  "lines_deva": [
+   "तथा पराऽनुशिष्यात्"
+  ],
+  "lines_iast": [
+   "tathā parā'nuśiṣyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anāgatāyāṃ",
+      "words": [
+       {
+        "w": "anāgatāyām",
+        "gloss": "not (yet) come",
+        "gram": "ppp. an-ā-√gam, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vedanāyāṃ",
+      "words": [
+       {
+        "w": "vedanāyām",
+        "gloss": "pain",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "do not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praivāhiṭṭāḥ",
+      "words": [
+       {
+        "w": "pravāhiṣṭhāḥ",
+        "gloss": "bear down",
+        "gram": "2 sg. aor. inj. mid. pra-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेदना के न आने पर प्रवाहण मत करो।",
+  "english": "When the pain (vedanā) has not come, do not bear down.",
+  "text_flags": [
+   {
+    "src": "praivāhiṭṭāḥ",
+    "suggest": "pravāhiṣṭhāḥ",
+    "why": "possible: 'praivāhiṭṭāḥ' is not a form; mā + the aorist 'pravāhiṣṭhāḥ' (do not bear down) fits, and unit 75 has the same verb as 'prabāhiṣṭāḥ'"
+   }
+  ],
+  "notes": "The aorist form of pra-√vah (instead of the causative used in 60, pravāhayasva) is as printed in both 72 and 75; the grammar is not fully certain, but the sense is clear from 73. vedanā 'pain' here is probably the pain of labour (contractions), a reading from context (probable).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.72"
+  ],
+  "lines_deva": [
+   "अनागतायां वेदनायां मा प्रैवाहिट्टाः"
+  ],
+  "lines_iast": [
+   "anāgatāyāṃ vedanāyāṃ mā praivāhiṭṭāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "akālapravāhaṇaṃhi",
+      "words": [
+       {
+        "w": "akāla-pravāhaṇam",
+        "gloss": "bearing down at the wrong time",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṇmūtrādivegānāmivodīraṇamanarthakaramahitaṃ",
+      "words": [
+       {
+        "w": "viṭ-mūtra-ādi-vegānām",
+        "gloss": "of the urges (vega) of feces, urine and the rest",
+        "gram": "dvandva + tat-puruṣa, m. gen. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "udīraṇam",
+        "gloss": "forcing out",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anarthakaram",
+        "gloss": "useless",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ahitam",
+        "gloss": "unwholesome",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhasya",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "for the fetus",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvāsakāsaśoṣakubjatādikāritvāt",
+      "words": [
+       {
+        "w": "śvāsa-kāsa-śoṣa-kubjatā-ādi-kāritvāt",
+        "gloss": "because of causing: breathlessness (śvāsa, standard); cough (kāsa, standard); wasting (śoṣa, probable); hunchedness (kubjatā); and so on",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "असमय प्रवाहण मल, मूत्र आदि के वेगों को जबरन निकालने के समान है, निरर्थक है और गर्भ के लिए अहितकर है, क्योंकि वह श्वास यानी साँस फूलना, कास यानी खाँसी, शोष यानी सूखकर घटते जाना, कुब्जता यानी कूबड़ापन आदि करता है।",
+  "english": "For bearing down at the wrong time (akāla-pravāhaṇa) is like forcing out the urges (vega) of feces, urine and the rest; it is useless and unwholesome for the fetus, because it causes breathlessness (śvāsa), cough (kāsa), wasting (śoṣa), hunchedness (kubjatā) and so on.",
+  "text_flags": [],
+  "notes": "Copula understood. 'garbhasya' is taken with 'ahitam' (unwholesome for the fetus); it could also go with the list of harms. The harms are stated by the text as consequences of untimely bearing down. 'śoṣa' = wasting (in older usage sometimes consumption); kept as 'wasting'. 'anarthakaram' is rendered 'useless'; an alternative is 'causing harm/trouble' (anartha = harm).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.73"
+  ],
+  "lines_deva": [
+   "अकालप्रवाहणंहि विण्मूत्रादिवेगानामिवोदीरणमनर्थकरमहितं च गर्भस्य श्वासकासशोषकुब्जतादिकारित्वात्"
+  ],
+  "lines_iast": [
+   "akālapravāhaṇaṃhi viṇmūtrādivegānāmivodīraṇamanarthakaramahitaṃ ca garbhasya śvāsakāsaśoṣakubjatādikāritvāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "teṣāmeva",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidhāraṇamiva",
+      "words": [
+       {
+        "w": "vidhāraṇam",
+        "gloss": "holding back, suppression",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vedanāyāmapravāhaṇamupaghātāya",
+      "words": [
+       {
+        "w": "vedanāyām",
+        "gloss": "when there is pain",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "apravāhaṇam",
+        "gloss": "not bearing down",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upaghātāya",
+        "gloss": "for injury",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही वेदना में प्रवाहण न करना उन्हीं के रोकने के समान है, हानि के लिए होता है।",
+  "english": "Likewise, not bearing down when there is pain (vedanā), like the holding back of those very (urges), is for injury.",
+  "text_flags": [],
+  "notes": "'teṣām' refers back to the urges (vega) in 73. Copula understood; 'upaghātāya' (dative of purpose) is rendered 'leads to injury'. The text does not say what injury.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.74"
+  ],
+  "lines_deva": [
+   "तथा तेषामेव विधारणमिव वेदनायामप्रवाहणमुपघाताय"
+  ],
+  "lines_iast": [
+   "tathā teṣāmeva vidhāraṇamiva vedanāyāmapravāhaṇamupaghātāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathoktaṃ",
+      "words": [
+       {
+        "w": "yathā-uktam",
+        "gloss": "as stated",
+        "gram": "adv. (ppp. √vac)"
+       }
+      ]
+     },
+     {
+      "src": "kuruṣva",
+      "words": [
+       {
+        "w": "kuruṣva",
+        "gloss": "do",
+        "gram": "2 sg. imp. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "śanaiḥ",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly, gently",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śanaiśca",
+      "words": [
+       {
+        "w": "śanaiḥ",
+        "gloss": "slowly, gently",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "first, at first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prabāhiṣṭāḥ",
+      "words": [
+       {
+        "w": "pravāhiṣṭhāḥ",
+        "gloss": "bear down",
+        "gram": "2 sg. aor. inj. mid. pra-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब जैसा कहा गया है वैसा करो, धीरे-धीरे, और पहले प्रवाहण करो।",
+  "english": "Then do as stated, gently, gently, and at first bear down.",
+  "text_flags": [
+   {
+    "src": "prabāhiṣṭāḥ",
+    "suggest": "pravāhiṣṭhāḥ",
+    "why": "possible: b/v confusion and lost -h-; same verb as in unit 72 (pravāhiṣṭhāḥ)"
+   }
+  ],
+  "notes": "GROUPING: 75 and 76 appear to form one sentence about the stages of bearing down. 'pūrvam' = first/at first.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.75"
+  ],
+  "lines_deva": [
+   "ततो यथोक्तं कुरुष्व शनैः शनैश्च पूर्वं प्रबाहिष्टाः"
+  ],
+  "lines_iast": [
+   "tato yathoktaṃ kuruṣva śanaiḥ śanaiśca pūrvaṃ prabāhiṣṭāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirgame",
+      "words": [
+       {
+        "w": "nirgame",
+        "gloss": "at the exit",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāḍhaṃ",
+      "words": [
+       {
+        "w": "bāḍham",
+        "gloss": "strongly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhasya",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the fetus",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonimukhapratipattau",
+      "words": [
+       {
+        "w": "yoni-mukha-pratipattau",
+        "gloss": "on arrival at the mouth of the yoni",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāḍhataramāprasavāditi",
+      "words": [
+       {
+        "w": "bāḍhataram",
+        "gloss": "more strongly",
+        "gram": "ind."
+       },
+       {
+        "w": "ā-prasavāt",
+        "gloss": "until delivery",
+        "gram": "ind. (ā + abl.)"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भ के निकलने पर जोर से, योनि के मुख तक पहुँचने पर और अधिक जोर से, प्रसव तक।",
+  "english": "Strongly at the exit of the fetus; more strongly on arrival at the mouth of the yoni, until delivery.",
+  "text_flags": [],
+  "notes": "Elliptical: the verb 'pravāhiṣṭhāḥ' (bear down) is carried from 75, so none is supplied. 'garbhasya' probably governs both 'nirgame' and 'pratipattau'. The closing 'iti' ends the instruction.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.76"
+  ],
+  "lines_deva": [
+   "निर्गमे बाढं गर्भस्य योनिमुखप्रतिपत्तौ बाढतरमाप्रसवादिति"
+  ],
+  "lines_iast": [
+   "nirgame bāḍhaṃ garbhasya yonimukhapratipattau bāḍhataramāprasavāditi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāstu",
+      "words": [
+       {
+        "w": "tasyāḥ",
+        "gloss": "of that",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravāhamānāyāḥ",
+      "words": [
+       {
+        "w": "pravāhamānāyāḥ",
+        "gloss": "bearing down",
+        "gram": "pres. part. mid. pra-√vah, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "striyāḥ",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of the woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śabdaṃ",
+      "words": [
+       {
+        "w": "śabdam",
+        "gloss": "cry, sound",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "they should make",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "prajātā",
+      "words": [
+       {
+        "w": "prajātā",
+        "gloss": "she has given birth",
+        "gram": "ppp. pra-√jan, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajātā",
+      "words": [
+       {
+        "w": "prajātā",
+        "gloss": "she has given birth",
+        "gram": "ppp. pra-√jan, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhanyaṃdhanyaṃ",
+      "words": [
+       {
+        "w": "dhanyam",
+        "gloss": "blessed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "dhanyam",
+        "gloss": "blessed",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "putramiti",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस प्रवाहण करती हुई स्त्री के लिए वे यह शब्द करें: जन्म दे दिया, जन्म दे दिया, धन्य, धन्य पुत्र को!",
+  "english": "For that woman who is bearing down, they should raise a cry: \"She has given birth, she has given birth, to a blessed, blessed son!\"",
+  "text_flags": [],
+  "notes": "The genitives 'tasyāḥ ... striyāḥ' are taken as 'for/over that woman'; the exact relation is loose. The subject of 'kuryuḥ' (they) is not stated. 'prajātā' is used actively ('has given birth'). 'dhanya' = blessed (alternatively fortunate).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.77"
+  ],
+  "lines_deva": [
+   "तस्यास्तु प्रवाहमानायाः स्त्रियाः शब्दं कुर्युः प्रजाता प्रजाता धन्यंधन्यं पुत्रमिति"
+  ],
+  "lines_iast": [
+   "tasyāstu pravāhamānāyāḥ striyāḥ śabdaṃ kuryuḥ prajātā prajātā dhanyaṃdhanyaṃ putramiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā'syā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "harṣeṇa",
+      "words": [
+       {
+        "w": "harṣeṇa",
+        "gloss": "by joy",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāṇā",
+      "words": [
+       {
+        "w": "prāṇāḥ",
+        "gloss": "vital breaths (prāṇa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpyāyyaṃte",
+      "words": [
+       {
+        "w": "āpyāyyante",
+        "gloss": "are nourished, refreshed",
+        "gram": "3 pl. pres. pass. ā-√pyāy"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार उसके प्राण हर्ष से पुष्ट होते हैं।",
+  "english": "Thus her vital breaths (prāṇa) are nourished by joy.",
+  "text_flags": [],
+  "notes": "'āpyāyyante' = are nourished/refreshed/swollen; rendered 'nourished'. The cry of 77 appears to be the cause of the joy.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.78"
+  ],
+  "lines_deva": [
+   "तथाऽस्या हर्षेण प्राणा आप्याय्यंते"
+  ],
+  "lines_iast": [
+   "tathā'syā harṣeṇa prāṇā āpyāyyaṃte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "garbhasaṃge",
+      "words": [
+       {
+        "w": "garbha-saṅge",
+        "gloss": "in retention (obstruction) of the fetus; garbha-saṅga, probably obstructed labour (probable)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tuyoniṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "yonim",
+        "gloss": "yoni (vagina)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūpayet",
+      "words": [
+       {
+        "w": "dhūpayet",
+        "gloss": "should fumigate",
+        "gram": "3 sg. opt. caus. √dhūp"
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇasarpanirmokena",
+      "words": [
+       {
+        "w": "kṛṣṇa-sarpa-nirmokeṇa",
+        "gloss": "with the sloughed skin of a black snake",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṃḍītakena",
+      "words": [
+       {
+        "w": "piṇḍītakena",
+        "gloss": "with piṇḍītaka (probably emetic nut, Randia dumetorum, probable)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भसंग यानी गर्भ के रुकने में, योनि यानी जननमार्ग को काले साँप की केंचुली से या पिण्डीतक यानी सम्भवतः मैनफल से धूपित करे।",
+  "english": "In garbha-saṅga (retention of the fetus; probably obstructed labour), one should fumigate the yoni (vagina) with the sloughed skin of a black snake, or with piṇḍītaka (probably the emetic nut).",
+  "text_flags": [],
+  "notes": "'saṅga' = sticking/obstruction; the modern equivalent 'obstructed labour' is a probable reading, not stated. 'kṛṣṇasarpa' is literally 'black snake'; the species is not stated. 'nirmokena' is printed with n for ṇ (orthographic). piṇḍītaka is commonly equated with madana (Randia dumetorum) but the identity is not certain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.79"
+  ],
+  "lines_deva": [
+   "गर्भसंगे तुयोनिं धूपयेत् कृष्णसर्पनिर्मोकेन पिंडीतकेन वा"
+  ],
+  "lines_iast": [
+   "garbhasaṃge tuyoniṃ dhūpayet kṛṣṇasarpanirmokena piṃḍītakena vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "badhnīyācca",
+      "words": [
+       {
+        "w": "badhnīyāt",
+        "gloss": "one should tie",
+        "gram": "3 sg. opt. √bandh"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyapuṣpīmūlaṃ",
+      "words": [
+       {
+        "w": "hiraṇyapuṣpī-mūlam",
+        "gloss": "root of hiraṇyapuṣpī (unidentified)",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hastapāde",
+      "words": [
+       {
+        "w": "hasta-pāde",
+        "gloss": "on the hand and foot",
+        "gram": "dvandva (samāhāra), n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और हिरण्यपुष्पी की जड़, जिसकी पहचान अज्ञात है, हाथ और पैर में बाँधे।",
+  "english": "And one should tie the root of hiraṇyapuṣpī (unidentified) on the hand and foot.",
+  "text_flags": [],
+  "notes": "'hiraṇyapuṣpī' (literally 'golden-flowered') is not identified here: sources differ and no safe identification is given. 'hastapāde' is a singular collective 'hand and foot'; the text does not say whose or whether both sides. The 'if' condition of 79 (garbha-saṅga) appears to carry on into 80 and 81; it is not repeated here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.80"
+  ],
+  "lines_deva": [
+   "बध्नीयाच्च हिरण्यपुष्पीमूलं हस्तपादे"
+  ],
+  "lines_iast": [
+   "badhnīyācca hiraṇyapuṣpīmūlaṃ hastapāde"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhārayecca",
+      "words": [
+       {
+        "w": "dhārayet",
+        "gloss": "one should hold",
+        "gram": "3 sg. opt. caus. √dhṛ"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suvarcalāṃ",
+      "words": [
+       {
+        "w": "suvarcalām",
+        "gloss": "suvarcalā (identity disputed)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśalyāṃ",
+      "words": [
+       {
+        "w": "viśalyām",
+        "gloss": "viśalyā (probably = lāṅgalī, probable)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और सुवर्चला, जिसकी पहचान विवादित है, या विशल्या, जो सम्भवतः लाङ्गली यानी कलिहारी है, धारण करे।",
+  "english": "And one should hold suvarcalā (identity disputed) or viśalyā (probably the same as lāṅgalī).",
+  "text_flags": [],
+  "notes": "GROUPING: 80 and 81 appear to continue one another (things to tie or hold). suvarcalā is disputed (candidates include Cleome gynandra and others); viśalyā is a recognised synonym of lāṅgalī (Gloriosa superba) in the drug lists, tagged probable.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.81"
+  ],
+  "lines_deva": [
+   "धारयेच्च सुवर्चलां विशल्यां वा"
+  ],
+  "lines_iast": [
+   "dhārayecca suvarcalāṃ viśalyāṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasūtāyāna",
+      "words": [
+       {
+        "w": "prasūtāyāḥ",
+        "gloss": "of her who has delivered",
+        "gram": "ppp. pra-√sū, f. gen. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cedaparā",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "aparā",
+        "gloss": "placenta (aparā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patati",
+      "words": [
+       {
+        "w": "patati",
+        "gloss": "falls (out)",
+        "gram": "3 sg. pres. √pat"
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇena",
+      "words": [
+       {
+        "w": "dakṣiṇena",
+        "gloss": "right",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇinā",
+      "words": [
+       {
+        "w": "pāṇinā",
+        "gloss": "with the hand",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
+      "words": [
+       {
+        "w": "nābheḥ",
+        "gloss": "of the navel (nābhi)",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "upariṣṭāt",
+        "gloss": "from above",
+        "gram": "ind."
+       },
+       {
+        "w": "balavat",
+        "gloss": "forcibly, firmly",
+        "gram": "ind."
+       },
+       {
+        "w": "upapīḍya",
+        "gloss": "having pressed",
+        "gram": "abs. upa-√pīḍ"
+       },
+       {
+        "w": "pṛṣṭhataḥ",
+        "gloss": "from behind, from the back",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upasaṃgṛhya",
+      "words": [
+       {
+        "w": "upasaṅgṛhya",
+        "gloss": "having gripped",
+        "gram": "abs. upa-sam-√grah"
+       }
+      ]
+     },
+     {
+      "src": "vidhūnuyāt",
+      "words": [
+       {
+        "w": "vidhūnuyāt",
+        "gloss": "should shake",
+        "gram": "3 sg. opt. vi-√dhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब यदि प्रसव कर चुकी स्त्री का अपरा यानी जेर नहीं गिरता, तब दाहिने हाथ से नाभि के ऊपर से जोर से दबाकर और पीछे की ओर से पकड़कर हिलाए।",
+  "english": "Now, if the placenta (aparā) of one who has delivered does not fall out, then, pressing firmly with the right hand from above the navel and gripping from behind, one should shake.",
+  "text_flags": [
+   {
+    "src": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
+    "suggest": "nābherupariṣṭādbalavadupapīḍyapṛṣṭhata",
+    "why": "possible: ṣṭh for ṣṭ in upariṣṭāt (from above); the aspirate looks like a misprint"
+   }
+  ],
+  "notes": "'prasūtāyā na' is regular sandhi for prasūtāyāḥ na. The object of 'upasaṅgṛhya' and 'vidhūnuyāt' is not stated (not even the abdomen), so none is supplied; 'upariṣṭhāt' is printed with ṣṭh (read as upariṣṭāt; see the flag). 'aparā' = placenta/afterbirth (standard).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.82"
+  ],
+  "lines_deva": [
+   "अथ प्रसूतायान चेदपरा पतति ततो दक्षिणेन पाणिना नाभेरुपरिष्ठाद्बलवदुपपीड्यपृष्ठत उपसंगृह्य विधूनुयात्"
+  ],
+  "lines_iast": [
+   "atha prasūtāyāna cedaparā patati tato dakṣiṇena pāṇinā nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata upasaṃgṛhya vidhūnuyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṣṇyāṃ",
+      "words": [
+       {
+        "w": "pāṣṇyā",
+        "gloss": "with the heel",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śroṇimākuṭṭayet",
+      "words": [
+       {
+        "w": "śroṇim",
+        "gloss": "hip (śroṇi)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ākuṭṭayet",
+        "gloss": "should strike",
+        "gram": "3 sg. opt. ā-√kuṭṭ (10th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या एड़ी से श्रोणि यानी कूल्हे पर प्रहार करे।",
+  "english": "Or one should strike the hip (śroṇi) with the heel.",
+  "text_flags": [
+   {
+    "src": "pāṣṇyāṃ",
+    "suggest": "pāṣṇyā",
+    "why": "possible: instrumental 'pāṣṇyā' (with the heel) is expected; the anusvāra looks like a stray mark (a locative would be 'pāṣṇyām', 'on the heel')"
+   }
+  ],
+  "notes": "'śroṇi' = hip/pelvic region (alternative: buttock). The text does not say whose heel. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.83"
+  ],
+  "lines_deva": [
+   "पाष्ण्यां वा श्रोणिमाकुट्टयेत्"
+  ],
+  "lines_iast": [
+   "pāṣṇyāṃ vā śroṇimākuṭṭayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sphijau",
+      "words": [
+       {
+        "w": "sphijau",
+        "gloss": "the two buttocks (sphij)",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vopasaṃgṛhya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "upasaṅgṛhya",
+        "gloss": "having gripped",
+        "gram": "abs. upa-sam-√grah"
+       }
+      ]
+     },
+     {
+      "src": "supīḍitaṃ",
+      "words": [
+       {
+        "w": "supīḍitam",
+        "gloss": "well pressed, thoroughly",
+        "gram": "ppp. su-√pīḍ, n. acc. sg. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "pīḍayet",
+      "words": [
+       {
+        "w": "pīḍayet",
+        "gloss": "should press",
+        "gram": "3 sg. opt. caus. √pīḍ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या दोनों नितम्बों को पकड़कर खूब दबाए।",
+  "english": "Or, having gripped the two buttocks (sphij), one should press them thoroughly.",
+  "text_flags": [],
+  "notes": "'supīḍitam pīḍayet' is a cognate expression, 'press so that it is well pressed'. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.84"
+  ],
+  "lines_deva": [
+   "स्फिजौ वोपसंगृह्य सुपीडितं पीडयेत्"
+  ],
+  "lines_iast": [
+   "sphijau vopasaṃgṛhya supīḍitaṃ pīḍayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "veṇyā'ṅgulyā",
+      "words": [
+       {
+        "w": "veṇyā",
+        "gloss": "with a braid",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "aṅgulyā",
+        "gloss": "with a finger",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśaveṣṭitayā",
+      "words": [
+       {
+        "w": "keśa-veṣṭitayā",
+        "gloss": "wound round with hair",
+        "gram": "tat-puruṣa, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakaṇṭhatālu",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "kaṇṭha-tālu",
+        "gloss": "throat and palate",
+        "gram": "dvandva, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parāmṛśet",
+      "words": [
+       {
+        "w": "parāmṛśet",
+        "gloss": "should touch",
+        "gram": "3 sg. opt. parā-√mṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेणी से, या बालों से लिपटी अँगुली से, कण्ठ और तालु को स्पर्श करे।",
+  "english": "With a braid, or with a finger wound round with hair, one should touch the throat (kaṇṭha) and palate (tālu).",
+  "text_flags": [],
+  "notes": "'keśaveṣṭitayā' is taken with 'aṅgulyā' (the finger wound with hair); it could also go with 'veṇyā'. The text states no effect of the touch. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.85"
+  ],
+  "lines_deva": [
+   "वेण्याऽङ्गुल्या वा केशवेष्टितया चकण्ठतालु परामृशेत्"
+  ],
+  "lines_iast": [
+   "veṇyā'ṅgulyā vā keśaveṣṭitayā cakaṇṭhatālu parāmṛśet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūrjapatrakācamaṇisarpanirmokaiśca",
+      "words": [
+       {
+        "w": "bhūrja-patra-kāca-maṇi-sarpa-nirmokaiḥ",
+        "gloss": "with birch bark (bhūrjapatra); kāca-maṇi (literally 'glass-gem', sense doubtful); snake slough",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoniṃ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "yoni (vagina)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūpayetbhūrjaguggulubhyāṃ",
+      "words": [
+       {
+        "w": "dhūpayet",
+        "gloss": "should fumigate",
+        "gram": "3 sg. opt. caus. √dhūp"
+       },
+       {
+        "w": "bhūrja-guggulubhyām",
+        "gloss": "with bhūrja (birch) and guggulu (Indian bdellium, Commiphora wightii, standard)",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भूर्जपत्र यानी भोजपत्र, काचमणि जिसका अर्थ यहाँ संदिग्ध है, और साँप की केंचुली से योनि यानी जननमार्ग को धूपित करे, या भूर्ज और गुग्गुल से।",
+  "english": "And one should fumigate the yoni (vagina) with birch bark (bhūrjapatra), kāca-maṇi (literally 'glass-gem'; sense doubtful) and snake slough, or with bhūrja and guggulu (Indian bdellium).",
+  "text_flags": [],
+  "notes": "'kāca-maṇi' is taken literally (glass + gem/bead); fumigating with glass is odd, so the word may be corrupt (for example a plant name); not resolved and not interpreted. The print joins 'dhūpayet' to 'bhūrja' (no space). 'nirmoka' = slough. Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.86"
+  ],
+  "lines_deva": [
+   "भूर्जपत्रकाचमणिसर्पनिर्मोकैश्च योनिं धूपयेत्भूर्जगुग्गुलुभ्यां वा"
+  ],
+  "lines_iast": [
+   "bhūrjapatrakācamaṇisarpanirmokaiśca yoniṃ dhūpayetbhūrjaguggulubhyāṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śālimūlasiddhena",
+      "words": [
+       {
+        "w": "śāli-mūla-siddhena",
+        "gloss": "cooked with the root of śāli (a rice variety, Oryza sativa)",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarpiṣā",
+      "words": [
+       {
+        "w": "sarpiṣā",
+        "gloss": "with ghee (sarpis)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonimbhyajya",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "yoni (vagina)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "abhyajya",
+        "gloss": "having anointed",
+        "gram": "abs. abhi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "kadukālāmbujālinīnimbasarpanirmokairdhūpayet",
+      "words": [
+       {
+        "w": "kaṭuka-alābu-jālinī-nimba-sarpa-nirmokaiḥ",
+        "gloss": "with bitter bottle gourd (kaṭukālābu, Lagenaria siceraria, probable); jālinī (a Luffa, disputed); nimba (neem, Azadirachta indica, standard); snake slough",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "dhūpayet",
+        "gloss": "should fumigate",
+        "gram": "3 sg. opt. caus. √dhūp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या शालि यानी धान की एक किस्म की जड़ के साथ पकाए घी से योनि का अभ्यंग करके सम्भवतः कड़वी लौकी, जालिनी यानी सम्भवतः तोरई जिसकी पहचान विवादित है, निम्ब यानी नीम और साँप की केंचुली से धूपन करे।",
+  "english": "Or, having anointed the yoni (vagina) with ghee cooked with the root of śāli (a variety of rice), one should fumigate with probably bitter bottle gourd (kaṭukālābu), jālinī (a Luffa; disputed), nimba (neem) and snake slough.",
+  "text_flags": [
+   {
+    "src": "yonimbhyajya",
+    "suggest": "yonim abhyajya",
+    "why": "possible: the a of abhyajya is lost in print"
+   },
+   {
+    "src": "kadukālāmbujālinīnimbasarpanirmokairdhūpayet",
+    "suggest": "kaṭukālābujālinīnimbasarpanirmokairdhūpayet",
+    "why": "possible: ḍ for ṭ in 'kaduka'; 'alāmbu' (a variant of alābu) is normalised to alābu in `words`"
+   }
+  ],
+  "notes": "'kaṭukālābu' is read as one drug, 'bitter bottle gourd'; the alternative is two drugs, kaṭukā (probably Picrorhiza kurroa) and alābu. 'śāli' is a rice variety; 'śālimūla' could in principle be a shortened name of another plant, so only the literal sense is given. 'siddha' = cooked. 'jālinī' is disputed (Luffa species are the usual guess). Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on through 83-92.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.87"
+  ],
+  "lines_deva": [
+   "शालिमूलसिद्धेन वा सर्पिषा योनिम्भ्यज्य कदुकालाम्बुजालिनीनिम्बसर्पनिर्मोकैर्धूपयेत्"
+  ],
+  "lines_iast": [
+   "śālimūlasiddhena vā sarpiṣā yonimbhyajya kadukālāmbujālinīnimbasarpanirmokairdhūpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anabhyaktāṃ",
+      "words": [
+       {
+        "w": "an-abhyaktām",
+        "gloss": "not anointed",
+        "gram": "ppp. an-abhi-√añj, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭutailamiśraiḥ",
+      "words": [
+       {
+        "w": "kaṭu-taila-miśraiḥ",
+        "gloss": "mixed with kaṭu oil (pungent oil, probably mustard oil, probable)",
+        "gram": "tat-puruṣa, inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalkīkṛtairvā",
+      "words": [
+       {
+        "w": "kalkī-kṛtaiḥ",
+        "gloss": "made into a paste (kalka)",
+        "gram": "cvi tat-puruṣa, inst. pl."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tailāktairālimpet",
+      "words": [
+       {
+        "w": "taila-aktaiḥ",
+        "gloss": "smeared with oil",
+        "gram": "tat-puruṣa, inst. pl."
+       },
+       {
+        "w": "ālimpet",
+        "gloss": "should smear",
+        "gram": "3 sg. opt. ā-√lip"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या जिसका अभ्यंग न हुआ हो उसे, कटुतैल यानी सम्भवतः सरसों के तेल से मिले हुए, कल्क बनाए हुए, या तेल से लिपे हुए से लेप करे।",
+  "english": "Or, for one not anointed, one should smear with (ones) mixed with kaṭu oil (probably mustard oil), made into a paste (kalka), or smeared with oil.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 87. The nouns are not stated: 'anabhyaktām' (feminine, probably the yoni or the woman) and the three instrumentals (probably the fumigants of 87, but not stated) are left as in the Sanskrit. The structure of the two 'vā' is uncertain. 'kaṭu-taila' (pungent oil) is probably mustard oil, a modern reading.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.03.88"
+  ],
+  "lines_deva": [
+   "अनभ्यक्तां वा कटुतैलमिश्रैः कल्कीकृतैर्वा तैलाक्तैरालिम्पेत्"
+  ],
+  "lines_iast": [
+   "anabhyaktāṃ vā kaṭutailamiśraiḥ kalkīkṛtairvā tailāktairālimpet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guḍanāgarakalkena",
+      "words": [
+       {
+        "w": "guḍa-nāgara-kalkena",
+        "gloss": "with a paste (kalka) of jaggery (guḍa) and dry ginger (nāgara, Zingiber officinale, standard)",
+        "gram": "dvandva + tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या गुड़ और नागर यानी सोंठ के कल्क से।",
+  "english": "Or with a paste (kalka) of jaggery (guḍa) and dry ginger (nāgara).",
+  "text_flags": [],
+  "notes": "Elliptical: the verb 'ālimpet' (should smear) is carried from 88, so none is supplied. The next unit says that this very paste may be eaten.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.89"
+  ],
+  "lines_deva": [
+   "गुडनागरकल्केन वा"
+  ],
+  "lines_iast": [
+   "guḍanāgarakalkena vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadevavā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhakṣayet",
+      "words": [
+       {
+        "w": "bhakṣayet",
+        "gloss": "should eat",
+        "gram": "3 sg. opt. √bhakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या उसी को खाए।",
+  "english": "Or one should eat that very (paste).",
+  "text_flags": [],
+  "notes": "'tat' most probably refers to the guḍa-nāgara paste of 89; the noun is not stated. The subject is not stated (probably the woman).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.03.90"
+  ],
+  "lines_deva": [
+   "तदेववा भक्षयेत्"
+  ],
+  "lines_iast": [
+   "tadevavā bhakṣayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lāṅgalīmulakalkena",
+      "words": [
+       {
+        "w": "lāṅgalī-mūla-kalkena",
+        "gloss": "with a paste (kalka) of lāṅgalī root",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāṇimudaraṃ",
+      "words": [
+       {
+        "w": "pāṇim",
+        "gloss": "hand",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "udaram",
+        "gloss": "belly (udara)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cālimpet",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ālimpet",
+        "gloss": "should smear",
+        "gram": "3 sg. opt. ā-√lip"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या लाङ्गली यानी कलिहारी की जड़ के कल्क से हाथ और पेट पर लेप करे।",
+  "english": "Or with a paste (kalka) of lāṅgalī (glory lily) root one should smear the hand and the belly (udara).",
+  "text_flags": [
+   {
+    "src": "lāṅgalīmulakalkena",
+    "suggest": "lāṅgalīmūlakalkena",
+    "why": "possible: short u in 'mula'; 'mūla' (root) is the expected word"
+   }
+  ],
+  "notes": "'pāṇim' is singular ('hand'); the text does not say whether one or both hands. lāṅgalī: see unit 47. Appears to continue the placenta remedies of 82 onward.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.91"
+  ],
+  "lines_deva": [
+   "लाङ्गलीमुलकल्केन वा पाणिमुदरं चालिम्पेत्"
+  ],
+  "lines_iast": [
+   "lāṅgalīmulakalkena vā pāṇimudaraṃ cālimpet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mahāvṛkṣakṣīraṃ",
+      "words": [
+       {
+        "w": "mahāvṛkṣa-kṣīram",
+        "gloss": "milk (sap) of mahāvṛkṣa (disputed, probably a spurge such as snuhī)",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūrdhnyanuṣecayet",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "anuṣecayet",
+        "gloss": "should pour over",
+        "gram": "3 sg. opt. caus. anu-√sic"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या महावृक्ष, जिसकी पहचान विवादित है, सम्भवतः थूहर, का दूध सिर पर डाले।",
+  "english": "Or one should pour the milk (kṣīra) of mahāvṛkṣa (disputed; probably snuhī, a spurge) over the head.",
+  "text_flags": [],
+  "notes": "'mahāvṛkṣa' (literally 'great tree') is a drug name whose identity varies by source; tagged disputed. 'kṣīra' of a plant = milky sap (latex). Appears to continue the placenta remedies of 82 onward.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.03.92"
+  ],
+  "lines_deva": [
+   "महावृक्षक्षीरं वा मूर्ध्न्यनुषेचयेत्"
+  ],
+  "lines_iast": [
+   "mahāvṛkṣakṣīraṃ vā mūrdhnyanuṣecayet"
+  ],
+  "uncertain": []
+ }
+]
