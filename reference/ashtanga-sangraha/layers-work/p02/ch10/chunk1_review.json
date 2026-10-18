@@ -204,15 +204,7 @@
   {
    "n": "11",
    "verdict": "ok",
-   "issues": [
-    {
-     "field": "text_flags",
-     "where": "asaṃto -> asato",
-     "problem": "Correct and well argued (asanto agrees with nothing; asataḥ + na = asato na). No change. Note that 'na sato 'pi vā' is literally 'or not even existing ones'; the verb 'hears' is carried, so the English could be misread as 'hears not-even-existing ones'. Left as is.",
-     "fix": "none",
-     "severity": "minor"
-    }
-   ]
+   "issues": []
   },
   {
    "n": "12",
@@ -232,15 +224,7 @@
   {
    "n": "15",
    "verdict": "ok",
-   "issues": [
-    {
-     "field": "confidence",
-     "where": "u15",
-     "problem": "Conflict check: damaged-word rule. This unit follows the later rule (guess only in text_flag/note, 'unclear' in gloss, 'on a conjectural reading' in translation) and is consistent with the older rule too, since no guess is put in the translation. No conflict in this unit.",
-     "fix": "none",
-     "severity": "minor"
-    }
-   ]
+   "issues": []
   },
   {
    "n": "16",
@@ -373,15 +357,7 @@
   {
    "n": "26",
    "verdict": "ok",
-   "issues": [
-    {
-     "field": "hindi",
-     "where": "झटके खाता हुआ अत्यन्त फड़कता है",
-     "problem": "Fine; no issue. (vyāviddham as adverb remains open.)",
-     "fix": "none",
-     "severity": "minor"
-    }
-   ]
+   "issues": []
   },
   {
    "n": "27",
@@ -518,15 +494,7 @@
   {
    "n": "35",
    "verdict": "ok",
-   "issues": [
-    {
-     "field": "notes",
-     "where": "grouping",
-     "problem": "Confirmed: ye ... dviṣaḥ continues into chunk 2 u36 (vaśagāḥ sarvaevaite vijñeyāḥ samavartinaḥ). Wording 'appears to continue' fine.",
-     "fix": "none",
-     "severity": "minor"
-    }
-   ]
+   "issues": []
   }
  ],
  "summary": "35 units reviewed. Overall sound and conservative; low-confidence units u15 and u27 are handled as the glossary says (unsplit/unclear, 'on a conjectural reading', guess only in flag/note). Errors (4): u10 Hindi brackets plus added noun/verb; u16 Hindi brackets; u34 added 'वर्ण'; u10 flag evidence wrong (vīṇa and vīṇā are both two syllables, 16-syllable argument invalid, flag itself still right on grammar). Minor: added concessives in u22, unhedged paṇava, Hindi 'अवस्था'/'आकर' additions, u29 inconsistent with u32, u2 gram, hiatus flagged in u2 only, u3 order of 'X iva Y' vs u2 (needs human decision). No identification judged wrong: Arundhatī=Alcor (probable), Seven Sages=Great Bear (probable), dhruva=pole star (probable), Milky Way (standard), lip, belch fine. Damaged-word rule conflict does not arise in this chunk (u15/u27 satisfy both rules). Groupings agreed: u2-u7, u8-9, u10-11, u17-18, u19-20; u35 continues to chunk 2 u36. Hindi 'अब इसके बाद' for athāto at u1 matches sibling chapters though the glossary elsewhere prefers 'इसलिए' (book-wide open). Needs human: u3 (and u2) appearance-iva order; u7 vyākṛti/vikṛti(m); u17 vā+vidhi vs vā+avidhi; u24 ceṣṭate; u25 ud-√śvas direction; u29 saṃmuhyet.",
