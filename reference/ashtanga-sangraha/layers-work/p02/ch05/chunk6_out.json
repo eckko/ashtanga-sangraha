@@ -1,0 +1,3286 @@
+[
+ {
+  "n": "216",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "n. nom. sg. (dual)"
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "n. nom. sg. (dual)"
+       }
+      ]
+     },
+     {
+      "src": "tālulalāṭayoḥ",
+      "words": [
+       {
+        "w": "tālu-lalāṭayoḥ",
+        "gloss": "palate (tālu); forehead (lalāṭa)",
+        "gram": "dvandva, n. loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो-दो तालु और ललाट में।",
+  "english": "Two, two, in the palate (tālu) and the forehead.",
+  "text_flags": [],
+  "notes": "GROUPING: the counted noun is not in this unit; this appears to continue a count begun in an earlier unit (225 names peśī, so the noun is probably peśī, muscles, probable only). The doubled dve is read as 'two, two' (a pair in each place); no word 'each' is supplied. Both numerals are dual in form.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.216"
+  ],
+  "lines_deva": [
+   "द्वे द्वे तालुललाटयोः"
+  ],
+  "lines_iast": [
+   "dve dve tālulalāṭayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "217",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāsauṣṭhakarṇeṣu",
+      "words": [
+       {
+        "w": "nāsā-oṣṭha-karṇeṣu",
+        "gloss": "nose (nāsā); lip (oṣṭha); ear (karṇa)",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नाक, ओठ और कानों में।",
+  "english": "In the nose, the lips and the ears.",
+  "text_flags": [],
+  "notes": "Elliptical, continuing 216 (numeral and counted noun are carried over from the preceding unit; nothing supplied). 'ca' links the three places; it is not rendered separately.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.217"
+  ],
+  "lines_deva": [
+   "नासौष्ठकर्णेषु च"
+  ],
+  "lines_iast": [
+   "nāsauṣṭhakarṇeṣu ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "218",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "strīṇāṃ",
+      "words": [
+       {
+        "w": "strīṇām",
+        "gloss": "of women",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatiradhikā",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "adhikā",
+        "gloss": "more, in excess",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्त्रियों में तो बीस अधिक।",
+  "english": "In women, however, twenty more.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb and no counted noun in the unit; none supplied. The counted noun is probably peśī (muscles, probable), carried from the preceding count.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.218"
+  ],
+  "lines_deva": [
+   "स्त्रीणां तु विंशतिरधिका"
+  ],
+  "lines_iast": [
+   "strīṇāṃ tu viṃśatiradhikā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "219",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daśastanayoḥ",
+      "words": [
+       {
+        "w": "daśa-stanayoḥ",
+        "gloss": "ten (daśa); in the two breasts (stana)",
+        "gram": "daśa n. nom. sg.; stana n. loc. du."
+       }
+      ]
+     },
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of those",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yauvane",
+      "words": [
+       {
+        "w": "yauvane",
+        "gloss": "in youth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parivṛddhirbhavati",
+      "words": [
+       {
+        "w": "parivṛddhiḥ",
+        "gloss": "increase",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "takes place",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें दस दोनों स्तनों में हैं। उनकी वृद्धि यौवन में होती है।",
+  "english": "Among these, ten are in the two breasts (stana). Their increase takes place in youth.",
+  "text_flags": [],
+  "notes": "Printed 'daśastanayoḥ' = daśa stanayoḥ (two words). tāsām is feminine plural, 'of those' (the twenty); the second sentence is read as a separate statement. Counted noun not stated. 'are' in 'ten are in the two breasts' is a copula understood in a locative phrase.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.219"
+  ],
+  "lines_deva": [
+   "तत्र दशस्तनयोः तासां यौवने परिवृद्धिर्भवति"
+  ],
+  "lines_iast": [
+   "tatra daśastanayoḥ tāsāṃ yauvane parivṛddhirbhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "220",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "in the yoni (female genital tract; probable)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस योनि यानी स्त्री के जननमार्ग में।",
+  "english": "Ten in the yoni (female genital tract, probably).",
+  "text_flags": [],
+  "notes": "yoni = female genital tract, probably including the vagina (probable); the Sanskrit term stays in both translations. Elliptical (no verb, no counted noun).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.220"
+  ],
+  "lines_deva": [
+   "दश योनौ"
+  ],
+  "lines_iast": [
+   "daśa yonau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "221",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāsāmabhyaṃtarāśrite",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of those",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "abhyantara-āśrite",
+        "gloss": "inside (abhyantara); resting on (āśrita)",
+        "gram": "bahuvrīhi, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "mukhāśrite",
+      "words": [
+       {
+        "w": "mukha-āśrite",
+        "gloss": "at the mouth (mukha); resting on (āśrita)",
+        "gram": "bahuvrīhi, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vṛtte",
+      "words": [
+       {
+        "w": "vṛtte",
+        "gloss": "round",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "n. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें दो भीतर टिकी हुई, दो मुख पर टिकी हुई, दो गोल।",
+  "english": "Of those, two resting inside (abhyantara), two resting at the mouth (mukha), two round.",
+  "text_flags": [],
+  "notes": "Printed 'tāsāmabhyaṃtarāśrite' is one token (tāsām + abhyantara-āśrite). The printed counts 2+2+2 here and 3 in 222 make nine against the ten of 220; counts are translated as printed and not corrected (223 may carry a further one). Alternative reading: dve mukhāśrite vṛtte = 'two at the mouth, round'. Counted noun not stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.221"
+  ],
+  "lines_deva": [
+   "तासाम्अभ्यंतराश्रिते द्वे मुखाश्रिते वृत्ते द्वे"
+  ],
+  "lines_iast": [
+   "tāsāmabhyaṃtarāśrite dve mukhāśrite vṛtte dve"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "222",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tisro",
+      "words": [
+       {
+        "w": "tisraḥ",
+        "gloss": "three",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "garbhamārgāśrayāḥ",
+      "words": [
+       {
+        "w": "garbha-mārga-āśrayāḥ",
+        "gloss": "fetus (garbha); path (mārga); resting on (āśraya)",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन गर्भ के मार्ग पर टिकी हुई।",
+  "english": "Three resting on the path of the fetus (garbha).",
+  "text_flags": [],
+  "notes": "garbhamārga = the path of the fetus, probably the birth passage (probable). Counted noun not stated; tisraḥ is feminine, consistent with peśī.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.222"
+  ],
+  "lines_deva": [
+   "तिस्रो गर्भमार्गाश्रयाः"
+  ],
+  "lines_iast": [
+   "tisro garbhamārgāśrayāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "223",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāṃgarbha",
+      "words": [
+       {
+        "w": "yasyām",
+        "gloss": "in which",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "garbhaḥ",
+        "gloss": "fetus (garbha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stiṣṭhati",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसमें गर्भ ठहरता है।",
+  "english": "In which the fetus (garbha) stays.",
+  "text_flags": [],
+  "notes": "GROUPING: a relative clause with no antecedent or main clause in the unit; it appears to continue 222 or to describe a further member of the count (a numeral such as 'one' may be missing; nothing is supplied). Printed 'yasyāṃgarbha stiṣṭhati' = yasyām garbhaḥ tiṣṭhati by regular sandhi (garbhaḥ + t- → garbhas t-).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.223"
+  ],
+  "lines_deva": [
+   "यस्यांगर्भ स्तिष्ठति"
+  ],
+  "lines_iast": [
+   "yasyāṃgarbha stiṣṭhati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "224",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yonistu",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "yoni (female genital tract; probable)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaṃkhanābhyākṛtirudyāvarttā",
+      "words": [
+       {
+        "w": "śaṅkha-nābhi-ākṛtiḥ",
+        "gloss": "conch (śaṅkha); navel, whorl (nābhi); shape (ākṛti)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       },
+       {
+        "w": "tri-āvartā",
+        "gloss": "three-whorled (conjectural; printed udyāvarttā)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasyāstṛtīya",
+      "words": [
+       {
+        "w": "tasyāḥ",
+        "gloss": "of it",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "tṛtīye",
+        "gloss": "third",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āvarttepittapakvāśayāṃtare",
+      "words": [
+       {
+        "w": "āvarte",
+        "gloss": "in the whorl",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "pitta-pakvāśaya-antare",
+        "gloss": "pitta; pakvāśaya (abode of the digested food, large intestine region; probable); interval",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rohitamatsyamukhākārā",
+      "words": [
+       {
+        "w": "rohita-matsya-mukha-ākārā",
+        "gloss": "rohita (rohu carp, Labeo rohita; standard); fish (matsya); mouth (mukha); shape (ākāra)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhaśayyā",
+      "words": [
+       {
+        "w": "garbha-śayyā",
+        "gloss": "bed of the fetus (garbhaśayyā; the uterus, probable)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "योनि तो शंख की नाभि के आकार की है और अनुमानित पाठ पर तीन चक्करों वाली है। उसके तीसरे चक्कर में पित्त और पक्वाशय के बीच, रोहित यानी रोहू मछली के मुख के आकार की गर्भशय्या है।",
+  "english": "The yoni (female genital tract, probably), however, has the shape of a conch's navel (śaṅkhanābhi) and, on a conjectural reading, is three-whorled. In its third whorl, in the interval between pitta and the pakvāśaya (abode of digested matter, probably the large intestine region), is the garbhaśayyā (bed of the fetus, probably the uterus), shaped like the mouth of a rohita fish (rohu carp).",
+  "text_flags": [
+   {
+    "src": "śaṃkhanābhyākṛtirudyāvarttā",
+    "suggest": "śaṃkhanābhyākṛtistryāvarttā",
+    "why": "possible: 'udyāvarttā' is not a word; the following 'tasyāḥ tṛtīya āvarte' (in its third whorl) points to a three-whorled shape (tri-āvartā, tryāvartā); u-d for t-r is a plausible scan confusion. Conjectural."
+   }
+  ],
+  "notes": "Conjectural reading tryāvartā adopted in both translations and marked there. rohita = Labeo rohita (standard). pitta-pakvāśayāntare: 'pitta' may stand for pittāśaya (seat of Pitta); printed form kept as pitta, nothing added; antare = 'in the interval/interior between'. pakvāśaya = seat of digested matter, large intestine region (probable); garbhaśayyā = uterus (probable). Printed 'āvartepitta...' follows 'tasyāstṛtīya' as separate tokens (tasyāḥ tṛtīye? the printed 'tṛtīya' is read as the locative tṛtīye before āvarte by regular sandhi e + ā → a ā).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.224"
+  ],
+  "lines_deva": [
+   "योनिस्तु शंखनाभ्याकृतिरुद्यावर्त्ता तस्यास्तृतीय आवर्त्तेपित्तपक्वाशयांतरे रोहितमत्स्यमुखाकारा गर्भशय्या"
+  ],
+  "lines_iast": [
+   "yonistu śaṃkhanābhyākṛtirudyāvarttā tasyāstṛtīya āvarttepittapakvāśayāṃtare rohitamatsyamukhākārā garbhaśayyā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "225",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in it",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukrārttavapraveśinyastisraḥ",
+      "words": [
+       {
+        "w": "śukra-ārtava-praveśinyaḥ",
+        "gloss": "semen (śukra); menstrual blood (ārtava); entering (praveśinī)",
+        "gram": "tat-puruṣa, f. nom. pl."
+       },
+       {
+        "w": "tisraḥ",
+        "gloss": "three",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "peśyaḥ",
+      "words": [
+       {
+        "w": "peśyaḥ",
+        "gloss": "peśī (muscle); muscles",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें शुक्र यानी पुरुष के वीर्य और आर्तव यानी रज में प्रवेश करने वाली तीन पेशियाँ हैं।",
+  "english": "In it are three peśī (muscles) entering śukra (semen) and ārtava (menstrual blood).",
+  "text_flags": [],
+  "notes": "peśī = muscle (standard; also 'strand of flesh'). śukra = semen (standard); ārtava = menstrual blood (probable, 'the female generative fluid'). praveśinī is rendered literally 'entering'; the sense may be 'admitting/receiving' (alternative). Copula 'are' supplied for the locative construction. tisraḥ peśyaḥ is a plural nominative with praveśinyaḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.225"
+  ],
+  "lines_deva": [
+   "तस्यां शुक्रार्त्तवप्रवेशिन्यस्तिस्रः पेश्यः"
+  ],
+  "lines_iast": [
+   "tasyāṃ śukrārttavapraveśinyastisraḥ peśyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "226",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tābhirhi",
+      "words": [
+       {
+        "w": "tābhiḥ",
+        "gloss": "by those",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanubahalasthūlāṇupṛthuvṛttahrasvadīrghasthiramṛduślakṣṇakarkaśābhiḥ",
+      "words": [
+       {
+        "w": "tanu-bahala-sthūla-aṇu-pṛthu-vṛtta-hrasva-dīrgha-sthira-mṛdu-ślakṣṇa-karkaśābhiḥ",
+        "gloss": "thin (tanu); dense (bahala); large (sthūla); minute (aṇu); broad (pṛthu); round (vṛtta); short (hrasva); long (dīrgha); firm (sthira); soft (mṛdu); smooth (ślakṣṇa); rough (karkaśa)",
+        "gram": "dvandva, f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhyasthisirāsnāvāni",
+      "words": [
+       {
+        "w": "saṃdhi-asthi-sirā-snāvāni",
+        "gloss": "joints (saṃdhi); bones (asthi); sirā (vessel); snāva (sinew, snāyu; probable)",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pracchāditāni",
+      "words": [
+       {
+        "w": "pracchāditāni",
+        "gloss": "covered",
+        "gram": "ppp. pra-√chad, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि उन पतली, घनी, स्थूल, सूक्ष्म, चौड़ी, गोल, छोटी, लम्बी, स्थिर, कोमल, चिकनी और कर्कश के द्वारा शरीर में सन्धियाँ, अस्थियाँ, सिराएँ और स्नायु ढके हुए हैं।",
+  "english": "For by those (ones)—thin, dense, large, minute, broad, round, short, long, firm, soft, smooth and rough—the joints (saṃdhi), bones (asthi), sirā (vessels) and snāva (sinews, snāyu) in the body are covered.",
+  "text_flags": [],
+  "notes": "tābhiḥ is feminine and probably refers back to the peśī (muscles) of 225; nothing is supplied. sirā = vessel (veins and similar channels; probable); snāva/snāyu = sinew, ligament, tendon (probable). bahala 'dense, thick' and sthūla 'large, gross' are kept as two members. 'hi' is rendered 'for'. Copula 'are' understood in the participle phrase.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.226"
+  ],
+  "lines_deva": [
+   "ताभिर्हि शरीरे तनुबहलस्थूलाणुपृथुवृत्तह्रस्वदीर्घस्थिरमृदुश्लक्ष्णकर्कशाभिः संध्यस्थिसिरास्नावानि प्रच्छादितानि"
+  ],
+  "lines_iast": [
+   "tābhirhi śarīre tanubahalasthūlāṇupṛthuvṛttahrasvadīrghasthiramṛduślakṣṇakarkaśābhiḥ saṃdhyasthisirāsnāvāni pracchāditāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "227",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sirādhamanīmukhānāṃ",
+      "words": [
+       {
+        "w": "sirā-dhamanī-mukhānām",
+        "gloss": "sirā (vessel); dhamanī (vessel); mouth, opening (mukha)",
+        "gram": "dvandva then tat-puruṣa, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvaṇuśo",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "aṇuśaḥ",
+        "gloss": "minutely, finely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajyamānānāmekonatriṃśacchatasahasrāṇi",
+      "words": [
+       {
+        "w": "vibhajyamānānām",
+        "gloss": "when divided",
+        "gram": "pres. pass. part. vi-√bhaj, n. gen. pl."
+       },
+       {
+        "w": "ekonatriṃśat-śata-sahasrāṇi",
+        "gloss": "twenty-nine; hundred-thousand",
+        "gram": "ekonatriṃśat f. + śata-sahasra n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nava",
+      "words": [
+       {
+        "w": "nava",
+        "gloss": "nine",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatāni",
+      "words": [
+       {
+        "w": "śatāni",
+        "gloss": "hundreds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭpaṃcāśāni",
+      "words": [
+       {
+        "w": "ṣaṭpañcāśāni",
+        "gloss": "fifty-six",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिरा और धमनी के मुखों की, सूक्ष्म रूप से बाँटने पर, उनतीस लाख और नौ सौ छप्पन होती हैं।",
+  "english": "Of the openings (mukha) of the sirā and dhamanī (vessels), however, when divided minutely, there are twenty-nine hundred-thousands and nine hundred and fifty-six.",
+  "text_flags": [],
+  "notes": "Number translated exactly as printed: ekonatriṃśat-śata-sahasra = 29 × 100,000; nava śatāni ṣaṭpañcāśāni = nine hundred and fifty-six (the 'hundreds with fifty-six' idiom); the total as printed is thus 2,900,956. Not corrected (another witness may read 29,956; not applied). Hindi 'लाख' is the usual word for hundred-thousand. sirā and dhamanī: vessels, no firm modern split (probable: veins and arteries or vessels generally). The openings of the vessels are what is counted. 'aṇuśaḥ' = in minute parts.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.227"
+  ],
+  "lines_deva": [
+   "सिराधमनीमुखानां त्वणुशो विभज्यमानानामेकोनत्रिंशच्छतसहस्राणि नव च शतानि षट्पंचाशानि भवंति"
+  ],
+  "lines_iast": [
+   "sirādhamanīmukhānāṃ tvaṇuśo vibhajyamānānāmekonatriṃśacchatasahasrāṇi nava ca śatāni ṣaṭpaṃcāśāni bhavaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "228",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tābhiridaṃ",
+      "words": [
+       {
+        "w": "tābhiḥ",
+        "gloss": "by those",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃgavākṣitaṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "gavākṣitam",
+        "gloss": "latticed, made like a window-lattice",
+        "gram": "n. nom. sg. (ppp.)"
+       }
+      ]
+     },
+     {
+      "src": "pinaddhamātataṃ",
+      "words": [
+       {
+        "w": "pinaddham",
+        "gloss": "bound round",
+        "gram": "ppp. api-√nah, n. nom. sg."
+       },
+       {
+        "w": "ātatam",
+        "gloss": "stretched, spread out",
+        "gram": "ppp. ā-√tan, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनसे यह शरीर जालीदार, बँधा हुआ और फैला हुआ है।",
+  "english": "By those this body is latticed (gavākṣita), bound round and stretched out.",
+  "text_flags": [],
+  "notes": "tābhiḥ is feminine and probably refers to the sirā and dhamanī of 227 (not stated). gavākṣita is a denominative participle from gavākṣa (window, lattice). pinaddha is 'bound/tied round' (from api-nah with loss of a-).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.228"
+  ],
+  "lines_deva": [
+   "ताभिरिदं शरीरंगवाक्षितं पिनद्धमाततं च"
+  ],
+  "lines_iast": [
+   "tābhiridaṃ śarīraṃgavākṣitaṃ pinaddhamātataṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "229",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāvaṃti",
+      "words": [
+       {
+        "w": "tāvanti",
+        "gloss": "that many, as many",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśaśmaśrulomāni",
+      "words": [
+       {
+        "w": "keśa-śmaśru-lomāni",
+        "gloss": "hair of the head (keśa); beard-hair (śmaśru); body-hair (loman)",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of those",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "himukhāni",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "mukhāni",
+        "gloss": "mouths, openings",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tatpratibaddhānyatastāni",
+      "words": [
+       {
+        "w": "tat-pratibaddhāni",
+        "gloss": "bound to that",
+        "gram": "tat-puruṣa, n. nom. pl."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tābhirāpyāyaṃte",
+      "words": [
+       {
+        "w": "tābhiḥ",
+        "gloss": "by those",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "āpyāyante",
+        "gloss": "are nourished",
+        "gram": "3 pl. pass./mid. ā-√pyāy"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उतने ही सिर के बाल, दाढ़ी-मूँछ के बाल और शरीर के रोम हैं। उनके मुख उनसे बँधे हुए हैं, इसलिए वे उनसे पोषण पाते हैं।",
+  "english": "And just as many are the hairs of the head (keśa), the beard (śmaśru) and the body (loman). For the openings of those are bound to them; therefore they are nourished by those.",
+  "text_flags": [],
+  "notes": "Reference of tāvanti is probably 'as many as the openings' of 227 (not stated). tāsām and tābhiḥ are feminine and probably refer to the sirā and dhamanī; tat-pratibaddha 'bound to that/them' has an unclear antecedent (alternatives: the openings are bound to the hairs, or to the vessels). Read: hairs as nourished by the vessels. āpyāyante = are nourished/swollen with fluid (pass.). Copula 'are' supplied in the first sentence.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.229"
+  ],
+  "lines_deva": [
+   "तावंति च केशश्मश्रुलोमानि तासां हिमुखानि तत्प्रतिबद्धान्यतस्तानि ताभिराप्यायंते"
+  ],
+  "lines_iast": [
+   "tāvaṃti ca keśaśmaśrulomāni tāsāṃ himukhāni tatpratibaddhānyatastāni tābhirāpyāyaṃte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "230",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taiśca",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "by those",
+        "gram": "m./n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāḥ",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svedamabhivahaṃti",
+      "words": [
+       {
+        "w": "svedam",
+        "gloss": "sweat",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhivahanti",
+        "gloss": "carry, convey",
+        "gram": "3 pl. pres. abhi-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उनसे वे पसीने को ले जाती हैं।",
+  "english": "And by those, those carry the sweat (sveda).",
+  "text_flags": [],
+  "notes": "taiḥ is masculine/neuter (probably the hairs or their pores, 229) and tāḥ feminine (probably the vessels); neither is named in the unit. 'abhivahanti' = carry toward/convey; direction not stated. Printed 'svedamabhivahaṃti' = svedam abhivahanti.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.230"
+  ],
+  "lines_deva": [
+   "तैश्च ताः स्वेदमभिवहंति"
+  ],
+  "lines_iast": [
+   "taiśca tāḥ svedamabhivahaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "231",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā'bhyaṃgalepādivīryyaṃ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyaṅga-lepa-ādi-vīryam",
+        "gloss": "oil massage (abhyaṅga); paste, plaster (lepa); and so on (ādi); potency (vīrya)",
+        "gram": "dvandva + tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaci",
+      "words": [
+       {
+        "w": "tvaci",
+        "gloss": "in the skin",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipakvaṃtaṃnayaṃti",
+      "words": [
+       {
+        "w": "vipakvam",
+        "gloss": "fully matured",
+        "gram": "ppp. vi-√pac, n. acc. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "nayanti",
+        "gloss": "they lead, carry",
+        "gram": "3 pl. pres. √nī"
+       }
+      ]
+     },
+     {
+      "src": "sparśaṃ",
+      "words": [
+       {
+        "w": "sparśam",
+        "gloss": "touch",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛṇhaṃti",
+      "words": [
+       {
+        "w": "gṛhṇanti",
+        "gloss": "they grasp, take up",
+        "gram": "3 pl. pres. √grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार अभ्यंग, लेप आदि के वीर्य यानी शक्ति को, जो त्वचा में पूरी तरह पक चुकी है, उसे वे ले जाती हैं और स्पर्श को ग्रहण करती हैं।",
+  "english": "Likewise they carry the potency (vīrya) of oil massage (abhyaṅga), paste (lepa) and the like, fully matured in the skin; and they take up touch (sparśa).",
+  "text_flags": [
+   {
+    "src": "gṛṇhaṃti",
+    "suggest": "gṛhṇanti",
+    "why": "possible: variant spelling of gṛhṇanti (√grah, 3 pl.); the form gṛṇh- is a non-standard spelling"
+   }
+  ],
+  "notes": "Subject (they) is unstated and probably the same feminine vessels as 230. Printed 'vipakvaṃtaṃnayaṃti' = vipakvam, tat, nayanti (tat + n- → tan n-, printed taṃ); the destination of nayanti is not stated and nothing is supplied. 'abhyaṅga' = oil massage (standard); 'lepa' = application of a paste (standard). Printed vīryyaṃ: orthographic doubling normalised. The avagraha after tathā is a print habit (tathā abhyaṅga), not an elision.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.231"
+  ],
+  "lines_deva": [
+   "तथाऽभ्यंगलेपादिवीर्य्यं त्वचि विपक्वंतंनयंति स्पर्शं च गृण्हंति"
+  ],
+  "lines_iast": [
+   "tathā'bhyaṃgalepādivīryyaṃ tvaci vipakvaṃtaṃnayaṃti sparśaṃ ca gṛṇhaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "232",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "srotāṃsi",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "srotas (bodily channels)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarasaṃkhyeyānyeva",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "however, again",
+        "gram": "ind."
+       },
+       {
+        "w": "asaṅkhyeyāni",
+        "gloss": "countless",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्रोत यानी शरीर के मार्ग तो असंख्य ही हैं।",
+  "english": "The srotas (bodily channels), however, are indeed countless.",
+  "text_flags": [],
+  "notes": "srotas is a doctrinal term (channel); kept with a short gloss, no modern equivalent forced. Copula 'are' understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.232"
+  ],
+  "lines_deva": [
+   "स्रोतांसि पुनरसंख्येयान्येव"
+  ],
+  "lines_iast": [
+   "srotāṃsi punarasaṃkhyeyānyeva"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "233",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā'pi",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "even so",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sirādīni",
+      "words": [
+       {
+        "w": "sirā-ādīni",
+        "gloss": "sirā and the rest",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathāsthūlaṃyathopayogaṃ",
+      "words": [
+       {
+        "w": "yathā-sthūlam",
+        "gloss": "according to the gross (outline), broadly",
+        "gram": "ind."
+       },
+       {
+        "w": "yathā-upayogam",
+        "gloss": "according to use",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cānyatropadekṣyaṃte",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyatra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       },
+       {
+        "w": "upadekṣyante",
+        "gloss": "will be taught",
+        "gram": "3 pl. fut. pass. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर भी सिरा आदि का स्थूल रूप से और उपयोग के अनुसार आगे दूसरी जगह उपदेश किया जाएगा।",
+  "english": "Even so, the sirā and the rest will be taught elsewhere, broadly (in outline) and as their use requires.",
+  "text_flags": [],
+  "notes": "The avagraha after tathā is a print habit (tathā api). 'yathāsthūlam' = according to what is gross, i.e. in broad outline; 'yathopayogam' = according to use.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.233"
+  ],
+  "lines_deva": [
+   "तथाऽपि तु सिरादीनि यथास्थूलंयथोपयोगं चान्यत्रोपदेक्ष्यंते"
+  ],
+  "lines_iast": [
+   "tathā'pi tu sirādīni yathāsthūlaṃyathopayogaṃ cānyatropadekṣyaṃte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "234",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityevaṃ",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parisaṃkhyātā",
+      "words": [
+       {
+        "w": "parisaṅkhyātāḥ",
+        "gloss": "enumerated",
+        "gram": "ppp. pari-√saṃ-khyā, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūrtti",
+      "words": [
+       {
+        "w": "mūrti",
+        "gloss": "form, body (first member of mūrtimantaḥ)",
+        "gram": "f. stem"
+       }
+      ]
+     },
+     {
+      "src": "maṃtaḥsthirā",
+      "words": [
+       {
+        "w": "mantaḥ",
+        "gloss": "having (-mat); possessing",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "sthirāḥ",
+        "gloss": "firm",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvāḥ",
+      "words": [
+       {
+        "w": "bhāvāḥ",
+        "gloss": "entities, factors (bhāva)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार शरीर में मूर्तिमान और स्थिर भाव गिनाए गए।",
+  "english": "Thus the corporeal, firm entities (bhāva) in the body have been enumerated.",
+  "text_flags": [
+   {
+    "src": "parisaṃkhyātā",
+    "suggest": "parisaṃkhyātāḥ",
+    "why": "possible: visarga not lost before ś (āḥ ś- keeps the visarga or becomes ś), so a final ḥ is probably missing; agrees with bhāvāḥ"
+   }
+  ],
+  "notes": "Printed 'mūrtti maṃtaḥsthirā' is read as mūrti-mantaḥ sthirāḥ (mūrtimantaḥ with a stray space; the sthirā loses its visarga by regular sandhi before bhāvāḥ). Alternative: mūrtimanto 'sthirāḥ'. Contrasted with the liquids (dravāḥ) of 235. 'iti' read as 'thus' (the usual closing of the enumeration).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.234"
+  ],
+  "lines_deva": [
+   "इत्येवं परिसंख्याता शरीरे मूर्त्ति मंतःस्थिरा भावाः"
+  ],
+  "lines_iast": [
+   "ityevaṃ parisaṃkhyātā śarīre mūrtti maṃtaḥsthirā bhāvāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "235",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravāstu",
+      "words": [
+       {
+        "w": "dravāḥ",
+        "gloss": "liquids",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yattadatiyogena",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "that which",
+        "gram": "n. nom./acc. sg."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom./acc. sg."
+       },
+       {
+        "w": "atiyogena",
+        "gloss": "by excess, by overuse",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cyavamānaṃ",
+      "words": [
+       {
+        "w": "cyavamānam",
+        "gloss": "falling away, flowing out",
+        "gram": "pres. part. √cyu, n. acc./nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purīṣamanubadhnāti",
+      "words": [
+       {
+        "w": "purīṣam",
+        "gloss": "dung",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anubadhnāti",
+        "gloss": "binds on to, attaches",
+        "gram": "3 sg. pres. anu-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "tathāmūtraṃrudhiramanyāṃca",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "rudhiram",
+        "gloss": "blood",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anyān",
+        "gloss": "other",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhātūn",
+      "words": [
+       {
+        "w": "dhātūn",
+        "gloss": "dhātus",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्रव तो वह, जो अतियोग से च्युत होता हुआ मल को बाँधता है, वैसे ही मूत्र, रुधिर और शरीर में अन्य धातुओं को।",
+  "english": "As for the liquids (drava): that which, falling away through excess, binds on to the dung (purīṣa), likewise the urine, the blood and the other dhātus in the body.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue into 236, which defines udaka (water). The syntax of this unit is unclear (no antecedent for yat tat; the subject of anubadhnāti is unstated, probably the liquid; cyavamānam could instead qualify purīṣam: 'dung that falls away through excess'). The translation follows the literal order and does not resolve it. purīṣa = dung (excrement); rudhira = blood.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.235"
+  ],
+  "lines_deva": [
+   "द्रवास्तु यत्तदतियोगेन च्यवमानं पुरीषमनुबध्नाति तथामूत्रंरुधिरमन्यांच शरीरे धातून्"
+  ],
+  "lines_iast": [
+   "dravāstu yattadatiyogena cyavamānaṃ purīṣamanubadhnāti tathāmūtraṃrudhiramanyāṃca śarīre dhātūn"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "236",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what, that which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvaśarīragataṃ",
+      "words": [
+       {
+        "w": "sarva-śarīra-gatam",
+        "gloss": "gone through the whole body",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhyā",
+      "words": [
+       {
+        "w": "bāhyā",
+        "gloss": "outer",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvagvibhartti",
+      "words": [
+       {
+        "w": "tvak",
+        "gloss": "skin",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vibharti",
+        "gloss": "holds, carries",
+        "gram": "3 sg. pres. vi-√bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaccatvagaṃtare",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "tvak-antare",
+        "gloss": "within the skin",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vraṇagataṃ",
+      "words": [
+       {
+        "w": "vraṇa-gatam",
+        "gloss": "gone to a wound",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lasīkāśabdavācyaṃ",
+      "words": [
+       {
+        "w": "lasīkā-śabda-vācyam",
+        "gloss": "lasīkā (lymph; probable); word; to be called by",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaccoṣmaṇā'nubaddhaṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ūṣmaṇā",
+        "gloss": "by heat",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "anubaddham",
+        "gloss": "bound",
+        "gram": "ppp. anu-√bandh, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "romakūpebhyo'bhiniṣpatatsvedavācyaṃ",
+      "words": [
+       {
+        "w": "roma-kūpebhyaḥ",
+        "gloss": "hair-pores (roma-kūpa)",
+        "gram": "tat-puruṣa, m. abl. pl."
+       },
+       {
+        "w": "abhiniṣpatat",
+        "gloss": "flowing out",
+        "gram": "pres. part. abhi-niḥ-√pat, n. nom. sg."
+       },
+       {
+        "w": "sveda-vācyam",
+        "gloss": "sweat (sveda); to be called by",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadudakaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "udakam",
+        "gloss": "water (udaka)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasyādyasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ādyasya",
+        "gloss": "of the first",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāhārasārasya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāra-sārasya",
+        "gloss": "essence of food (āhārasāra)",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasākhyasya",
+      "words": [
+       {
+        "w": "rasa-ākhyasya",
+        "gloss": "called rasa",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathāraktasya",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "raktasya",
+        "gloss": "of blood (rakta)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakṛtaḥ",
+      "words": [
+       {
+        "w": "śakṛtaḥ",
+        "gloss": "of dung (śakṛt)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmaṇaḥ",
+      "words": [
+       {
+        "w": "śleṣmaṇaḥ",
+        "gloss": "of phlegm (śleṣman)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittasya",
+      "words": [
+       {
+        "w": "pittasya",
+        "gloss": "of pitta (bile; probable)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūtrasya",
+      "words": [
+       {
+        "w": "mūtrasya",
+        "gloss": "of urine (mūtra)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasāyāḥ",
+      "words": [
+       {
+        "w": "vasāyāḥ",
+        "gloss": "of vasā (muscle-fat; probable)",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "medaso",
+      "words": [
+       {
+        "w": "medasaḥ",
+        "gloss": "of medas (adipose tissue; probable)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "majjñaścasvena",
+      "words": [
+       {
+        "w": "majjñaḥ",
+        "gloss": "of marrow (majjan)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "svena",
+        "gloss": "by its own",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svenāṃjalipramāṇeṇa",
+      "words": [
+       {
+        "w": "svena",
+        "gloss": "by its own",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "añjali-pramāṇena",
+        "gloss": "by the measure of a cupped handful (añjali)",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāpūrvamekādisaṃkhyāpravṛddhiḥ",
+      "words": [
+       {
+        "w": "yathā-pūrvam",
+        "gloss": "in accordance with the preceding",
+        "gram": "ind."
+       },
+       {
+        "w": "eka-ādi-saṃkhyā-pravṛddhiḥ",
+        "gloss": "increase of number beginning with one",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो समस्त शरीर में गया हुआ है, जिसे बाहरी त्वचा धारण करती है; और जो त्वचा के भीतर घाव में गया हुआ लसीका शब्द से कहा जाता है; और जो ऊष्मा से बँधा हुआ रोमकूपों से निकलता हुआ पसीना कहलाता है, वह उदक यानी जल है। उसका, और आदि वाले रस नामक आहार के सार का, तथा रक्त, मल, श्लेष्मा, पित्त, मूत्र, वसा यानी मांसपेशियों की चर्बी, मेदस् यानी मेद धातु और मज्जा का, प्रत्येक का अपनी-अपनी अंजलि के माप से, पूर्व के अनुसार एक से आरम्भ होने वाली संख्या की वृद्धि है।",
+  "english": "And what has gone through the whole body, which the outer skin holds; and what, within the skin, having gone to a wound, is called by the word lasīkā (lymph, probably); and what, bound with heat, flows out from the hair-pores and is called sweat (sveda): that is water (udaka). Of that and of the first, the essence of food named rasa, and likewise of blood (rakta), dung (śakṛt), phlegm (śleṣman), Pitta (probably bile), urine (mūtra), vasā (muscle-fat, probably), medas (adipose tissue, probably) and marrow (majjan), in each case by its own measure of a cupped handful (añjali), there is an increase of number beginning with one, in accordance with the preceding.",
+  "text_flags": [
+   {
+    "src": "svenāṃjalipramāṇeṇa",
+    "suggest": "svenāñjalipramāṇena",
+    "why": "likely: -ṇeṇa is not a form; the instrumental of pramāṇa is pramāṇena"
+   }
+  ],
+  "notes": "The sentence is long and its relative clauses are loosely joined; the translation follows the printed order. The three 'yat' clauses (what has gone through the body; what is called lasīkā; what is called sweat) are taken as defining udaka, 'that is water'. lasīkā = lymph or tissue fluid (probable). The measure of each substance is not stated numerically; 'increase of number beginning with one, in accordance with the preceding' is a literal rendering (ekādi-saṃkhyā-pravṛddhi; the reading that the series rises from one by one step each is a probable interpretation, not stated). 'tasya ādyasya' is read 'of that (water) and of the first (rasa)'; alternative: ādya qualifies rasa only. majjan = marrow (probable; the dhātu); the glossary rendering 'kernel' for majjā applies to foods, not here. Printed 'ūṣmaṇā'nubaddhaṃ' avagraha is a print habit after ā. vibhartti: doubled tt normalised. śleṣman = phlegm (the Kapha substance; probable). pitta here is the bodily fluid (probably bile).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.236"
+  ],
+  "lines_deva": [
+   "यच्च सर्वशरीरगतं बाह्या त्वग्विभर्त्ति यच्चत्वगंतरे व्रणगतं लसीकाशब्दवाच्यं यच्चोष्मणाऽनुबद्धं रोमकूपेभ्योऽभिनिष्पतत्स्वेदवाच्यं तदुदकं तस्याद्यस्य चाहारसारस्य रसाख्यस्य तथारक्तस्य शकृतः श्लेष्मणः पित्तस्य मूत्रस्य वसायाः मेदसो मज्ज्ञश्चस्वेन स्वेनांजलिप्रमाणेण यथापूर्वमेकादिसंख्याप्रवृद्धिः"
+  ],
+  "lines_iast": [
+   "yacca sarvaśarīragataṃ bāhyā tvagvibhartti yaccatvagaṃtare vraṇagataṃ lasīkāśabdavācyaṃ yaccoṣmaṇā'nubaddhaṃ romakūpebhyo'bhiniṣpatatsvedavācyaṃ tadudakaṃ tasyādyasya cāhārasārasya rasākhyasya tathāraktasya śakṛtaḥ śleṣmaṇaḥ pittasya mūtrasya vasāyāḥ medaso majjñaścasvena svenāṃjalipramāṇeṇa yathāpūrvamekādisaṃkhyāpravṛddhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "237",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arddhaṃjaliḥśukrasya",
+      "words": [
+       {
+        "w": "ardha-añjaliḥ",
+        "gloss": "half; cupped handful (añjali)",
+        "gram": "karmadhāraya, m. nom. sg."
+       },
+       {
+        "w": "śukrasya",
+        "gloss": "of śukra (semen; standard)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शुक्र की आधी अंजलि।",
+  "english": "Half a cupped handful (añjali) of śukra (semen).",
+  "text_flags": [
+   {
+    "src": "arddhaṃjaliḥśukrasya",
+    "suggest": "arddhāṃjaliḥ śukrasya",
+    "why": "possible: the ā of ardha-añjali is lost (a + a → ā) and the word-space is missing; read ardha-añjaliḥ"
+   }
+  ],
+  "notes": "Elliptical (no verb); quantity continues the series of 236. śukra = semen (standard). Printed 'arddhaṃjaliḥ' (ṃ = ñ before j, as elsewhere in this print, e.g. aṃjali): both the lost ā and the missing space are print slips, not independent readings. Doubled dd normalised.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.237"
+  ],
+  "lines_deva": [
+   "अर्द्धंजलिःशुक्रस्य"
+  ],
+  "lines_iast": [
+   "arddhaṃjaliḥśukrasya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "238",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāvadeva",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "so much",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mastiṣka",
+      "words": [
+       {
+        "w": "mastiṣkam",
+        "gloss": "brain (mastiṣka; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mojaśca",
+      "words": [
+       {
+        "w": "ojaḥ",
+        "gloss": "ojas (vital essence)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उतना ही मस्तिष्क और ओज।",
+  "english": "Just so much of the brain (mastiṣka) and of ojas (vital essence).",
+  "text_flags": [],
+  "notes": "Elliptical (no verb). tāvat eva = 'just that much', i.e. half a cupped handful as in 237 (not stated here). The case of mastiṣka and ojas is read as nominative/accusative neuter; ojas = the vital essence, a doctrinal term with no modern equivalent (kept as ojas). Printed 'mastiṣka mojaśca' = mastiṣkam ojaḥ ca (final m run together with the next word, space misplaced).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.238"
+  ],
+  "lines_deva": [
+   "तावदेव मस्तिष्क मोजश्च"
+  ],
+  "lines_iast": [
+   "tāvadeva mastiṣka mojaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "239",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "strīṇāṃ",
+      "words": [
+       {
+        "w": "strīṇām",
+        "gloss": "of women",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rajaso'jalyaścatasraḥ",
+      "words": [
+       {
+        "w": "rajasaḥ",
+        "gloss": "of rajas (menstrual blood; probable)",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "añjalyaḥ",
+        "gloss": "cupped handfuls (añjali)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्त्रियों में रजस् यानी आर्तव की चार अंजलियाँ।",
+  "english": "In women, four cupped handfuls (añjali) of rajas (menstrual blood, probably).",
+  "text_flags": [
+   {
+    "src": "rajaso'jalyaścatasraḥ",
+    "suggest": "rajaso 'ñjalyaś catasraḥ",
+    "why": "likely: the nasal ñ of añjalyaḥ is dropped in the print (compare svenāṃjali in 236)"
+   }
+  ],
+  "notes": "Elliptical (no verb). rajas here = menstrual blood (probable; the context is the fluids of women). Gender: añjali read as feminine here because catasraḥ is feminine (añjalyaḥ).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.239"
+  ],
+  "lines_deva": [
+   "स्त्रीणां रजसोऽजल्यश्चतस्रः"
+  ],
+  "lines_iast": [
+   "strīṇāṃ rajaso'jalyaścatasraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "240",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stanyasya",
+      "words": [
+       {
+        "w": "stanyasya",
+        "gloss": "of breast milk (stanya)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m./n. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्तन्य यानी दूध की दो।",
+  "english": "Of breast milk (stanya), two.",
+  "text_flags": [],
+  "notes": "Elliptical; the measure (añjali, as in 239) is understood and not supplied. dvau is a masculine/dual numeral, unlike the feminine catasraḥ of 239 (añjali taken as masculine here); the gender difference is noted only.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.240"
+  ],
+  "lines_deva": [
+   "स्तन्यस्य द्वौ"
+  ],
+  "lines_iast": [
+   "stanyasya dvau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "241",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhayamapi",
+      "words": [
+       {
+        "w": "ubhayam",
+        "gloss": "both",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "caitadrasaprasādātmakamiti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "rasa-prasāda-ātmakam",
+        "gloss": "having as its nature the clear essence (prasāda) of rasa",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing particle)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और ये दोनों भी रस के प्रसाद, यानी सार स्वरूप हैं।",
+  "english": "And both of these as well are of the nature of the clear essence (prasāda) of rasa.",
+  "text_flags": [],
+  "notes": "'iti' closes the statement and is not translated. 'ubhayam' = both (rajas and stanya of 239-240; not stated). rasa-prasāda = the clear/refined part of rasa. Copula 'are' understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.241"
+  ],
+  "lines_deva": [
+   "उभयमपि चैतद्रसप्रसादात्मकमिति"
+  ],
+  "lines_iast": [
+   "ubhayamapi caitadrasaprasādātmakamiti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "242",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samadhātoḥ",
+      "words": [
+       {
+        "w": "sama-dhātoḥ",
+        "gloss": "of one with balanced dhātus",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṃrimāṇamidaṃ",
+      "words": [
+       {
+        "w": "parimāṇam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह सम धातु वाले का परिमाण है।",
+  "english": "This is the measure for one whose dhātus are in balance (sama).",
+  "text_flags": [
+   {
+    "src": "paṃrimāṇamidaṃ",
+    "suggest": "parimāṇam idam",
+    "why": "possible: extra anusvara in 'paṃrimāṇam' (print slip); read parimāṇam"
+   }
+  ],
+  "notes": "samadhātu = having dhātus in equilibrium (doctrinal; kept as dhātu). The printed anusvara is a slip, the word is parimāṇa. Copula 'is' understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.242"
+  ],
+  "lines_deva": [
+   "समधातोः पंरिमाणमिदं"
+  ],
+  "lines_iast": [
+   "samadhātoḥ paṃrimāṇamidaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "243",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ato",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhikṣayau",
+      "words": [
+       {
+        "w": "vṛddhi-kṣayau",
+        "gloss": "increase and decrease",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvaṃ",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "each according to its own",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇairvibhāvayedaparāṃścāpāresaṃkhyātānmūrttāmūrttān",
+      "words": [
+       {
+        "w": "lakṣaṇaiḥ",
+        "gloss": "by signs",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "vibhāvayet",
+        "gloss": "one should discern",
+        "gram": "3 sg. opt. vi-√bhū (caus.)"
+       },
+       {
+        "w": "aparān",
+        "gloss": "other",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "a-parisaṅkhyātān",
+        "gloss": "not enumerated",
+        "gram": "ppp. neg., m. acc. pl."
+       },
+       {
+        "w": "mūrta-amūrtān",
+        "gloss": "corporeal; non-corporeal",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvān",
+      "words": [
+       {
+        "w": "bhāvān",
+        "gloss": "entities (bhāva)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए वृद्धि और क्षय को अपने-अपने लक्षणों से पहचानना चाहिए, और अन्य अनगिने मूर्त और अमूर्त भावों को भी।",
+  "english": "Therefore one should discern the increase and the decrease, each by its own signs, and also the other, un-enumerated, corporeal and non-corporeal entities (bhāva).",
+  "text_flags": [
+   {
+    "src": "lakṣaṇairvibhāvayedaparāṃścāpāresaṃkhyātānmūrttāmūrttān",
+    "suggest": "lakṣaṇairvibhāvayedaparāṃścāparisaṃkhyātānmūrttāmūrttān",
+    "why": "possible: 'apāresaṃkhyātān' is not a word; read a-parisaṃkhyātān (not enumerated), with ri written as re and the vowel mark of pā misplaced"
+   }
+  ],
+  "notes": "The conjectural reading aparisaṃkhyātān is used in the words and in both translations ('un-enumerated'; Hindi 'अनगिने'). The tokens lakṣaṇairvibhāvayedaparāṃścāpāresaṃkhyātānmūrttāmūrttān run together five words, so the split is mine. mūrta/amūrta = having form / formless (doctrinal; no modern equivalent forced).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.243"
+  ],
+  "lines_deva": [
+   "अतो वृद्धिक्षयौ यथास्वं लक्षणैर्विभावयेदपरांश्चापारेसंख्यातान्मूर्त्तामूर्त्तान् भावान्"
+  ],
+  "lines_iast": [
+   "ato vṛddhikṣayau yathāsvaṃ lakṣaṇairvibhāvayedaparāṃścāpāresaṃkhyātānmūrttāmūrttān bhāvān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "244",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as, namely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह इस प्रकार।",
+  "english": "Namely.",
+  "text_flags": [],
+  "notes": "A formula introducing examples ('tad yathā'): rendered 'Namely'. Hindi 'वह इस प्रकार' is literal.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.244"
+  ],
+  "lines_deva": [
+   "तद्यथा"
+  ],
+  "lines_iast": [
+   "tadyathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "245",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māṃsakarṇādimalānvāyubuddhismṛtyādīṃśca",
+      "words": [
+       {
+        "w": "māṃsa-karṇa-ādi-malān",
+        "gloss": "flesh (māṃsa); ear (karṇa); and so on; waste products (mala)",
+        "gram": "tat-puruṣa, m. acc. pl."
+       },
+       {
+        "w": "vāyu-buddhi-smṛti-ādīn",
+        "gloss": "wind (vāyu); intellect (buddhi); memory (smṛti); and so on",
+        "gram": "dvandva, m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मांस और कान आदि के मल को, और वायु, बुद्धि, स्मृति आदि को भी।",
+  "english": "The malas (waste products) of flesh, ear and the like, and vāyu (wind), intellect (buddhi), memory (smṛti) and the like.",
+  "text_flags": [],
+  "notes": "The first compound is ambiguous: māṃsa-karṇādi-malān may be 'the malas of flesh, ears and so on' (used) or 'flesh, and the malas beginning with those of the ear'. The literal first reading is used; the case is read from the form (accusative plural, objects of vibhāvayet in 243). vāyu here = wind (the doṣa or plain wind is not stated). buddhi, smṛti: no modern term forced.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.245"
+  ],
+  "lines_deva": [
+   "मांसकर्णादिमलान्वायुबुद्धिस्मृत्यादींश्च"
+  ],
+  "lines_iast": [
+   "māṃsakarṇādimalānvāyubuddhismṛtyādīṃśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "246",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhānvaṃtarīyāḥ",
+      "words": [
+       {
+        "w": "dhānvantarīyāḥ",
+        "gloss": "followers of Dhanvantari (dhānvantarīya)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "however, on the other hand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṭhaṃti",
+      "words": [
+       {
+        "w": "paṭhanti",
+        "gloss": "read, recite",
+        "gram": "3 pl. pres. √paṭh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धान्वन्तरीय यानी धन्वन्तरि के अनुयायी तो पढ़ते हैं।",
+  "english": "The Dhanvantari school (dhānvantarīya) on the other hand read (recite).",
+  "text_flags": [],
+  "notes": "The reading itself follows in the next unit(s) (247-249 appear to give it). dhānvantarīya = belonging to or following Dhanvantari; 'school' is a rendering, not stated. No object is stated in this unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.246"
+  ],
+  "lines_deva": [
+   "धान्वंतरीयाः पुनः पठंति"
+  ],
+  "lines_iast": [
+   "dhānvaṃtarīyāḥ punaḥ paṭhaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "247",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vilakṣaṇāni",
+      "words": [
+       {
+        "w": "vilakṣaṇāni",
+        "gloss": "of dissimilar characteristics",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīrāṇinityameva",
+      "words": [
+       {
+        "w": "śarīrāṇi",
+        "gloss": "bodies",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "calā",
+      "words": [
+       {
+        "w": "calāḥ",
+        "gloss": "unsteady, moving",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣadhātumalāḥ",
+      "words": [
+       {
+        "w": "doṣa-dhātu-malāḥ",
+        "gloss": "doṣa; dhātu; mala",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि शरीर विलक्षण हैं, और दोष, धातु और मल सदा ही चल हैं।",
+  "english": "For bodies are of dissimilar characteristics, and the doṣas, dhātus and malas are always unsteady.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to be the first part of the Dhanvantari reading announced in 246 and to continue to 248-249. doṣa, dhātu, mala are doctrinal terms (kept; mala = waste product). 'calāḥ' printed 'calā' by regular sandhi before d-. Copula 'are' understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.247"
+  ],
+  "lines_deva": [
+   "विलक्षणानि हि शरीराणिनित्यमेव च चला दोषधातुमलाः"
+  ],
+  "lines_iast": [
+   "vilakṣaṇāni hi śarīrāṇinityameva ca calā doṣadhātumalāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "248",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādudakādīnāmapi",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "udaka-ādīnām",
+        "gloss": "of water and the others",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samatvaṃ",
+      "words": [
+       {
+        "w": "samatvam",
+        "gloss": "equilibrium, evenness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsādivatparimāṇato",
+      "words": [
+       {
+        "w": "māṃsa-ādivat",
+        "gloss": "like flesh and the others",
+        "gram": "ind."
+       },
+       {
+        "w": "parimāṇataḥ",
+        "gloss": "by measure",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdeṣṭumaśakyaṃ",
+      "words": [
+       {
+        "w": "nirdeṣṭum",
+        "gloss": "to specify",
+        "gram": "inf. nir-√diś"
+       },
+       {
+        "w": "aśakyam",
+        "gloss": "impossible",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए जल आदि की भी समता को मांस आदि की तरह परिमाण से निर्दिष्ट करना असम्भव है।",
+  "english": "Therefore it is impossible to specify the evenness (samatva) even of water and the others by measure, as for flesh and the rest.",
+  "text_flags": [],
+  "notes": "Continues the Dhanvantari reading (247). 'udaka-ādi' = water and the others (the series of 236); 'māṃsādivat' = in the way of flesh and the rest, whose measure is given. Copula 'is' understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.248"
+  ],
+  "lines_deva": [
+   "तस्मादुदकादीनामपि समत्वं मांसादिवत्परिमाणतो निर्देष्टुमशक्यं"
+  ],
+  "lines_iast": [
+   "tasmādudakādīnāmapi samatvaṃ māṃsādivatparimāṇato nirdeṣṭumaśakyaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "249",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kevalaṃ",
+      "words": [
+       {
+        "w": "kevalam",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāsthyamātreṇānumānatolakṣayediti",
+      "words": [
+       {
+        "w": "svāsthya-mātreṇa",
+        "gloss": "by mere health",
+        "gram": "tat-puruṣa, n. inst. sg."
+       },
+       {
+        "w": "anumānataḥ",
+        "gloss": "by inference",
+        "gram": "ind."
+       },
+       {
+        "w": "lakṣayet",
+        "gloss": "one should recognise, judge",
+        "gram": "3 sg. opt. √lakṣ"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing particle)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "केवल स्वास्थ्य मात्र से अनुमान द्वारा पहचानना चाहिए।",
+  "english": "One should only recognise (it) by inference through mere health.",
+  "text_flags": [],
+  "notes": "'iti' closes the quoted reading and is not translated. The object of lakṣayet is not stated (probably the evenness of 248; nothing is supplied beyond '(it)', which is only English). Printed 'anumānatolakṣayediti' = anumānataḥ lakṣayet iti (ḥ + l → o written with no space).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.249"
+  ],
+  "lines_deva": [
+   "केवलं स्वास्थ्यमात्रेणानुमानतोलक्षयेदिति"
+  ],
+  "lines_iast": [
+   "kevalaṃ svāsthyamātreṇānumānatolakṣayediti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "250",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvaeva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvavayavāḥ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       },
+       {
+        "w": "avayavāḥ",
+        "gloss": "parts",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paramāṇubhedenātisaukṣmyādasaṃkhyeyatāṃyāṃti",
+      "words": [
+       {
+        "w": "paramāṇu-bhedena",
+        "gloss": "by division into atoms",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "ati-saukṣmyāt",
+        "gloss": "because of extreme subtlety",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "asaṅkhyeyatām",
+        "gloss": "countlessness",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "yānti",
+        "gloss": "go to, reach",
+        "gram": "3 pl. pres. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु सभी अवयव परमाणुओं के भेद से अत्यन्त सूक्ष्म होने के कारण असंख्य हो जाते हैं।",
+  "english": "But all the parts (avayava), by division into atoms (paramāṇu), because of extreme subtlety, come to be countless.",
+  "text_flags": [],
+  "notes": "Printed 'sarvaeva' = sarve eva by regular sandhi. paramāṇu = atom (the smallest particle; the doctrine's own term). 'asaṅkhyeyatāṃ yānti' = 'go to countlessness'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.250"
+  ],
+  "lines_deva": [
+   "सर्वएव त्ववयवाः परमाणुभेदेनातिसौक्ष्म्यादसंख्येयतांयांति"
+  ],
+  "lines_iast": [
+   "sarvaeva tvavayavāḥ paramāṇubhedenātisaukṣmyādasaṃkhyeyatāṃyāṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "251",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃyogavibhāge",
+      "words": [
+       {
+        "w": "saṃyoga-vibhāge",
+        "gloss": "in the union and separation",
+        "gram": "dvandva, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paramāṇūnāṃ",
+      "words": [
+       {
+        "w": "paramāṇūnām",
+        "gloss": "of atoms",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "karmaprerito",
+      "words": [
+       {
+        "w": "karma-preritaḥ",
+        "gloss": "impelled by action (karma)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇaṃ",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "cause",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके, यानी परमाणुओं के संयोग और विभाग में कर्म से प्रेरित वायु कारण है।",
+  "english": "In the union and separation of those—of the atoms (paramāṇu)—wind (vāyu), impelled by action (karma), is the cause.",
+  "text_flags": [],
+  "notes": "karma = action (deed), a doctrinal term. vāyu = wind. Copula 'is' understood. teṣām and paramāṇūnām are in apposition.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.251"
+  ],
+  "lines_deva": [
+   "तेषां संयोगविभागे परमाणूनां कर्मप्रेरितो वायुः कारणं"
+  ],
+  "lines_iast": [
+   "teṣāṃ saṃyogavibhāge paramāṇūnāṃ karmaprerito vāyuḥ kāraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "252",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadetadaṃgabhedena",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅga-bhedena",
+        "gloss": "by distinction of parts",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhedataśca",
+      "words": [
+       {
+        "w": "bhedataḥ",
+        "gloss": "by division",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhyamāṇaṃ",
+      "words": [
+       {
+        "w": "gṛhyamāṇam",
+        "gloss": "being grasped, understood",
+        "gram": "pass. pres. part. √grah, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "baṃdhāya",
+      "words": [
+       {
+        "w": "bandhāya",
+        "gloss": "for bondage",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mokṣāya",
+      "words": [
+       {
+        "w": "mokṣāya",
+        "gloss": "for liberation",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatāṃ|ti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, leads",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing particle)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह यह अंगों के भेद से और भेद से ग्रहण किया जाता हुआ बन्ध या मोक्ष के लिए होता है।",
+  "english": "This, understood by distinction of parts and by division, leads to bondage or to liberation.",
+  "text_flags": [
+   {
+    "src": "bhavatāṃ|ti",
+    "suggest": "bhavatīti",
+    "why": "likely: stray ṃ and | in the print; read bhavati + iti"
+   }
+  ],
+  "notes": "Restored from 'bhavatāṃ|ti' as bhavati + iti; the closing iti is not translated. 'bandhāya mokṣāya' has no 'or' in the Sanskrit; the English 'or' joins two datives and is the natural sense. Subject tat etat is unclear: it appears to be the atomic doctrine of 250-251. 'aṅga-bheda' may also mean 'difference of the limbs'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.252"
+  ],
+  "lines_deva": [
+   "तदेतदंगभेदेन भेदतश्च गृह्यमाणं बंधाय मोक्षाय भवतां|ति"
+  ],
+  "lines_iast": [
+   "tadetadaṃgabhedena bhedataśca gṛhyamāṇaṃ baṃdhāya mokṣāya bhavatāṃ|ti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "253",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavaticātra",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, on this",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में है।",
+  "english": "And here there is.",
+  "text_flags": [],
+  "notes": "A formula introducing a verse ('bhavati cātra'); the verse is in 254-255. The formula has no stated object; nothing is supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.253"
+  ],
+  "lines_deva": [
+   "भवतिचात्र"
+  ],
+  "lines_iast": [
+   "bhavaticātra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "254",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvāvayavaśo",
+      "words": [
+       {
+        "w": "sarva-avayavaśaḥ",
+        "gloss": "part by part, in all parts",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jānāti",
+      "words": [
+       {
+        "w": "jānāti",
+        "gloss": "knows",
+        "gram": "3 sg. pres. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "kalevaraṃ",
+      "words": [
+       {
+        "w": "kalevaram",
+        "gloss": "body",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार जो सब अवयवों के अनुसार शरीर को जानता है।",
+  "english": "Thus he who knows the body (kalevara) part by part, in all its parts.",
+  "text_flags": [],
+  "notes": "GROUPING: 254 and 255 appear to form one verse (relative clause in 254, main clause in 255). 'sarvāvayavaśaḥ' printed 'sarvāvayavaśo' by regular sandhi.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.254"
+  ],
+  "lines_deva": [
+   "इति सर्वावयवशो यो जानाति कलेवरं"
+  ],
+  "lines_iast": [
+   "iti sarvāvayavaśo yo jānāti kalevaraṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "255",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ahiteṣu",
+      "words": [
+       {
+        "w": "ahiteṣu",
+        "gloss": "in harmful (matters)",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mohenana",
+      "words": [
+       {
+        "w": "mohena",
+        "gloss": "through delusion",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kadācitpravarttate",
+      "words": [
+       {
+        "w": "kadācit",
+        "gloss": "ever",
+        "gram": "ind."
+       },
+       {
+        "w": "pravartate",
+        "gloss": "engages, proceeds",
+        "gram": "3 sg. pres. pra-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह मोह से अहित में कभी प्रवृत्त नहीं होता।",
+  "english": "He never engages in what is harmful (ahita) through delusion.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 254. Printed 'mohenana' = mohena na (two words run together in the print). 'ahiteṣu' is a plural, 'in harmful (ones)'. Doubled tt normalised in pravarttate.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.255"
+  ],
+  "lines_deva": [
+   "अहितेषु स मोहेनन कदाचित्प्रवर्त्तते"
+  ],
+  "lines_iast": [
+   "ahiteṣu sa mohenana kadācitpravarttate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "256",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityaṃgavibhāgo",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "aṅga-vibhāgaḥ",
+        "gloss": "division of the parts of the body (aṅgavibhāga)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "pañcamaḥ",
+        "gloss": "fifth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अंगविभाग नामक पाँचवाँ अध्याय।",
+  "english": "Thus the fifth chapter, named Aṅgavibhāga (Division of the Parts of the Body).",
+  "text_flags": [],
+  "notes": "Colophon. The title is rendered literally 'division of the parts'; aṅga here is the limb or part. No 'ends' supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.256"
+  ],
+  "lines_deva": [
+   "इत्यंगविभागो नाम पंचमोऽध्यायः"
+  ],
+  "lines_iast": [
+   "ityaṃgavibhāgo nāma paṃcamo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]
