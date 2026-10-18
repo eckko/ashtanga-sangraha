@@ -1,0 +1,152 @@
+[
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "एक-एक से घटे हुओं और अल्पों के क्रम से दूसरे; और दूसरे लोग स्वभाव से ही कहते हैं।",
+  "new": "एक-एक से घटे हुओं और अल्पों के क्रम से अन्य; और दूसरे लोग स्वभाव से ही कहते हैं।",
+  "why": "reviewer (minor): Hindi uses दूसरे both for itarāṇi (other ones) and for anye (other people), which blurs the two; the same sentence has 'और दूसरे लोग'."
+ },
+ {
+  "n": "76",
+  "field": "text_flags.0.why",
+  "old": "possible: the lodestone is ayaskānta with long ā (the long ā is lost in print)",
+  "new": "possible: the lodestone is ayaskānta with long ā (the long ā is lost in print); also 'vanhi' is the older spelling of vahni, normalised in `w`",
+  "why": "reviewer (minor): The flag's suggestion also normalises vanhi to vahni, but the 'why' mentions only the ayaskānta ā. Glossary: every emendation in `words` needs its own mention. vanhi is the older spelling of vahni (no flag per use needed once it is stated here)."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "Identifications: ayaskānta = lodestone (standard); candra and sūrya stones = moonstone and sunstone (probable; the pairing of the three stones with water, fire and iron in order is natural but not stated). 'vanhi' is the printed spelling of vahni (orthographic, normalised in 'w'). 'pratiniyata-karman' = each having its own fixed action. 'chinneṣu ... pāṇipādeṣu' is a locative absolute; no verb is supplied for 'na mṛtyuḥ'. GROUPING: appears to continue 74-75 (the view of those who say 'by nature').",
+  "new": "Identifications: ayaskānta = lodestone (standard); candra and sūrya stones = moonstone and sunstone (probable; the pairing of the three stones with water, fire and iron in order is natural but not stated). 'vanhi' is the printed spelling of vahni (orthographic, normalised in 'w'). 'pratiniyata-karman' = each having its own fixed action. 'chinneṣu ... pāṇipādeṣu' is a locative absolute; no verb is supplied for 'na mṛtyuḥ'. GROUPING: appears to continue 74-75 (the view of those who say 'by nature'). REVIEW: traditionally candrakānta (moon-crystal) is said to exude water in moonlight and sūryakānta (sun-crystal) to yield fire in sunlight; modern moonstone/sunstone are different minerals, so the identification stays hedged (probable, identity disputed).",
+  "why": "reviewer (minor): Useful identification missing: in the tradition candrakānta is the moon-crystal said to exude water in moonlight and sūryakānta the sun-crystal said to give fire in sunlight; modern 'moonstone/sunstone' are different minerals, so the English/Hindi hedge must stay ('probably'; identity disputed). The three stones pair with water, fire and iron in order, but the unit does not say so."
+ },
+ {
+  "n": "78",
+  "field": "text_flags.1.suggest",
+  "old": "tvatiraktasruti-to (tu atiraktasrutito)",
+  "new": "tvatiraktasrutito",
+  "why": "reviewer (minor): The `suggest` text 'tvatiraktasruti-to (tu atiraktasrutito)' is garbled; the intended correction is simply srutiṃto -> srutito."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "अत्यन्त चोट खाए मर्मों में अपने-अपने अनुसार कर्म: पूर्व-पूर्व वाला; या ईषत् अन्ते, यह अंश अस्पष्ट है, चोट खाए हुओं का केवल बाद वाला।",
+  "new": "अत्यन्त चोट खाए मर्मों का अपने-अपने अनुसार कर्म: पूर्व-पूर्व वाला; या ईषत् अन्ते, यह अंश अस्पष्ट है, चोट खाए हुओं का केवल बाद वाला।",
+  "why": "reviewer (minor): atihatānāṃ ... marmaṇāṃ is genitive plural ('of the severely struck marmas'); Hindi 'में' (in) is wrong."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "अत्यन्त चोट खाए मर्मों का अपने-अपने अनुसार कर्म: पूर्व-पूर्व वाला; या ईषत् अन्ते, यह अंश अस्पष्ट है, चोट खाए हुओं का केवल बाद वाला।",
+  "new": "अत्यन्त चोट खाए मर्मों का अपने-अपने अनुसार कर्म: पूर्व-पूर्व वाला; या ईषत् अन्ते यानी थोड़ा, अन्त में; यह अंश अस्पष्ट है, चोट खाए हुओं का केवल बाद वाला।",
+  "why": "reviewer (minor): English gives 'slightly, at the end' beside the unclear mark but Hindi gives no gloss, so the two translations differ ('Hindi unclear mark must match English')."
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "dvādaśa",
+  "old": "num.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): Glossary (ch06 k1): numerals above four are 'nom. pl.', not 'num.'."
+ },
+ {
+  "n": "84",
+  "field": "word.gram",
+  "word": "ṣaṭ",
+  "old": "num.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): Glossary: numerals above four are 'nom. pl.', not 'num.'."
+ },
+ {
+  "n": "84",
+  "field": "hindi",
+  "old": "दो गुल्फ यानी टखने, दो मणिबन्ध यानी कलाई और दो स्तनमूल यानी स्तन का आधार: छह, दो अंगुल माप के।",
+  "new": "दो गुल्फ यानी टखने, दो मणिबन्ध यानी कलाई और दो स्तनमूल यानी स्तन का आधार: छह, दो अंगुल के।",
+  "why": "reviewer (minor): dvyaṅgulāni has no word for 'measure' (unlike unmitāni in 83); 'माप' is added."
+ },
+ {
+  "n": "85",
+  "field": "word.gram",
+  "word": "catvāri",
+  "old": "num.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): 'num.' is not a case label; glossary pattern is 'nom. pl.' without gender for a count standing for an unstated noun."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "दो जानु यानी घुटने और दो कूर्पर यानी कोहनी: चार, तीन अंगुल माप के।",
+  "new": "दो जानु यानी घुटने और दो कूर्पर यानी कोहनी: चार, तीन अंगुल के।",
+  "why": "reviewer (minor): tryaṅgulāni has no word for 'measure'; 'माप' is added."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "मर्मव्यामे, यह शब्द अस्पष्ट है, इस शरीर में भी आयु मर्मों की रक्षा करती है।",
+  "new": "मर्मव्यामे भी, यह शब्द अस्पष्ट है, इस शरीर में आयु मर्मों की रक्षा करती है।",
+  "why": "reviewer (minor): api belongs to the unclear word (English: 'Even in marmavyāme (unclear), in this body'); Hindi moves 'भी' to 'इस शरीर में', which changes the sense."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "मर्म में आश्रय वाले रोग भी वैसे ही, प्रयत्न से भी आरम्भ किए हुए।",
+  "new": "मर्म में आश्रय वाले रोग वैसे ही, प्रयत्न से भी आरम्भ किए हुए।",
+  "why": "reviewer (minor): 'भी' after रोग is added: api in the Sanskrit goes with yatnataḥ and Hindi already has 'प्रयत्न से भी'."
+ },
+ {
+  "n": "99",
+  "field": "english",
+  "old": "And his heart (hṛdaya) burns and does not stay in one place.",
+  "new": "And his heart (hṛdaya) burns; it does not stay in one place.",
+  "why": "reviewer (minor): Only one ca stands in the line (hṛdayaṃ dahyate ca asya ...); the translations give two 'and's, the second added."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "और उसका हृदय जलता है और एक स्थान पर नहीं टिकता।",
+  "new": "और उसका हृदय जलता है, एक स्थान पर नहीं टिकता।",
+  "why": "reviewer (minor): Same: the second और is added."
+ },
+ {
+  "n": "102",
+  "field": "english",
+  "old": "and one with much blood flowed out gives up life at once.",
+  "new": "and, with much blood flowed out, he gives up life at once.",
+  "why": "reviewer (minor): The subject is the same man as in 101 (naraḥ ... atinisrutaraktaḥ, a bahuvrīhi in apposition), not a new person; 'one with' reads as a different subject. Hindi adds a subjunctive 'हो' and also introduces a new subject (जिसका ... वह)."
+ },
+ {
+  "n": "102",
+  "field": "hindi",
+  "old": "और जिसका बहुत रक्त बह गया हो, वह तुरन्त जीवन छोड़ देता है।",
+  "new": "और अत्यन्त बहे हुए रक्त वाला वह तुरन्त जीवन छोड़ देता है।",
+  "why": "reviewer (minor): The subject is the same man as in 101 (naraḥ ... atinisrutaraktaḥ, a bahuvrīhi in apposition), not a new person; 'one with' reads as a different subject. Hindi adds a subjunctive 'हो' and also introduces a new subject (जिसका ... वह)."
+ },
+ {
+  "n": "104",
+  "field": "english",
+  "old": "puṇyavācchviyatāyuś (unclear), and in no way does he not live.",
+  "new": "puṇyavācchviyatāyuś (unclear), and in no way does he not live, on a conjectural reading.",
+  "why": "reviewer (error): The double negation exists only if 'ca na' are taken out of the damaged token puṇyavācchviyatāyuścana (the draft's own note says polarity is uncertain). The certain words 'kathaṃcin na jīvati' alone mean 'does not live in any way'; the opposite polarity is equally possible (cf. 103 where the pierced man lives). A reading built on the damaged token must carry 'on a conjectural reading' in both languages (glossary)."
+ },
+ {
+  "n": "104",
+  "field": "hindi",
+  "old": "पुण्यवाच्छ्वियतायुश् अस्पष्ट, और किसी प्रकार भी वह जीवित न रहे, ऐसा नहीं है।",
+  "new": "पुण्यवाच्छ्वियतायुश् अस्पष्ट, और किसी प्रकार भी वह जीवित न रहे, ऐसा नहीं है, अनुमानित पाठ पर।",
+  "why": "reviewer (error): The double negation exists only if 'ca na' are taken out of the damaged token puṇyavācchviyatāyuścana (the draft's own note says polarity is uncertain). The certain words 'kathaṃcin na jīvati' alone mean 'does not live in any way'; the opposite polarity is equally possible (cf. 103 where the pierced man lives). A reading built on the damaged token must carry 'on a conjectural reading' in both languages (glossary)."
+ },
+ {
+  "n": "104",
+  "field": "notes",
+  "old": "The first token is damaged and kept unsplit and unclear in both translations; I read its ending as 'yuś ca na' (the double negation 'na kathaṃcit na jīvati', 'in no way does he not live', then fits the preceding unit, but this depends on that reading, so the polarity of the sentence is not certain). The sense may be that a meritorious man with life left does not die. Metre: 16 syllables as printed. GROUPING: appears to continue 103.",
+  "new": "The first token is damaged and kept unsplit and unclear in both translations; I read its ending as 'yuś ca na' (the double negation 'na kathaṃcit na jīvati', 'in no way does he not live', then fits the preceding unit, but this depends on that reading, so the polarity of the sentence is not certain). The sense may be that a meritorious man with life left does not die. Metre: 16 syllables as printed. GROUPING: appears to continue 103. REVIEW: without taking 'ca na' out of the damaged token, the certain words are 'kathaṃcin na jīvati' = 'does not live in any way'; the double negation of the translation is a conjecture and the opposite polarity is possible. Human decision.",
+  "why": "reviewer (minor): Record the plain-reading alternative so the owner sees both."
+ },
+ {
+  "n": "105",
+  "field": "text_flags.0.why",
+  "old": "possible: 'ucchāsa' is not a known word; ucchvāsa (breath) fits and the v is easily lost in print (the syllable count is unchanged)",
+  "new": "near certain: 'ucchāsa' is not a known word; ucchvāsa (breath) fits and the v is easily lost in print (the syllable count is unchanged)",
+  "why": "reviewer (minor): ucchāsa is not a word and ācarama-ucchvāsāt ('up to the last breath') is a standard idiom; 'possible' understates it and the glossary asks that a correction adopted in a translation be marked, so it should be recorded as near certain (as in u98, u102)."
+ }
+]

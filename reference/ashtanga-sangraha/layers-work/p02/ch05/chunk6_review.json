@@ -1,0 +1,831 @@
+{
+ "units": [
+  {
+   "n": "216",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dve (both)",
+     "problem": "gram 'n. nom. sg. (dual)' is self-contradictory; the unstated noun has no gender (glossary: dve = nom. du.)",
+     "fix": "nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "216",
+      "op": "word",
+      "match_w": "dve",
+      "field": "gram",
+      "value": "nom. du.",
+      "occurrence": "all"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "note says 225 names peśī; the counted item is introduced in u188 (chunk 5 notes) and carried from there",
+     "fix": "(the counted item peśī, muscles, is introduced in u188 and carried from the preceding units; probable only)",
+     "severity": "minor",
+     "patch": {
+      "n": "216",
+      "op": "replace",
+      "field": "notes",
+      "old": "(225 names peśī, so the noun is probably peśī, muscles, probable only)",
+      "new": "(the counted item peśī, muscles, is introduced in u188 and carried from the preceding units; probable only)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "217",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "218",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "219",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daśa-stanayoḥ",
+     "problem": "gram label mixes two words and gives daśa a gender/number; numerals above four are 'nom. pl.' without gender (glossary)",
+     "fix": "daśa nom. pl.; stana loc. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "219",
+      "op": "word",
+      "match_w": "daśa-stanayoḥ",
+      "field": "gram",
+      "value": "daśa nom. pl.; stana loc. du."
+     }
+    },
+    {
+     "field": "split",
+     "where": "daśa-stanayoḥ",
+     "problem": "printed 'daśastanayoḥ' is two words (as the draft's own note says) but w joins them with a hyphen, which marks a compound; write them as two words",
+     "fix": "daśa stanayoḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "219",
+      "op": "word",
+      "match_w": "daśa-stanayoḥ",
+      "field": "w",
+      "value": "daśa stanayoḥ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tāsām",
+     "problem": "note asserts tāsām = 'the twenty'; the antecedent is not stated (could be the ten of the breasts)",
+     "fix": "'of those' (antecedent not stated: possibly the ten of the breasts, or the peśī generally)",
+     "severity": "minor",
+     "patch": {
+      "n": "219",
+      "op": "replace",
+      "field": "notes",
+      "old": "'of those' (the twenty)",
+      "new": "'of those' (antecedent not stated: possibly the ten of the breasts, or the peśī generally)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "220",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daśa",
+     "problem": "numeral above four: 'nom. pl.' with no gender (glossary)",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "220",
+      "op": "word",
+      "match_w": "daśa",
+      "field": "gram",
+      "value": "nom. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "योनि यानी स्त्री के जननमार्ग",
+     "problem": "English hedges the identification ('probably'); Hindi must carry the same hedge (glossary)",
+     "fix": "दस योनि यानी सम्भवतः स्त्री के जननमार्ग में।",
+     "severity": "minor",
+     "patch": {
+      "n": "220",
+      "op": "set",
+      "field": "hindi",
+      "value": "दस योनि यानी सम्भवतः स्त्री के जननमार्ग में।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "221",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "two ... two ... two",
+     "problem": "the print has only two dve: 'abhyantarāśrite dve' and 'mukhāśrite vṛtte dve'. The draft's three groups of two need a third 'two' that is not printed (error: an added numeral, and the derived total in the note is wrong). Literal rendering keeps the print order",
+     "fix": "Of those, two resting inside (abhyantara); resting at the mouth (mukha), round, two.",
+     "severity": "error",
+     "patch": {
+      "n": "221",
+      "op": "set",
+      "field": "english",
+      "value": "Of those, two resting inside (abhyantara); resting at the mouth (mukha), round, two."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दो गोल",
+     "problem": "same as English: a third दो is not in the Sanskrit",
+     "fix": "उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो।",
+     "severity": "error",
+     "patch": {
+      "n": "221",
+      "op": "set",
+      "field": "hindi",
+      "value": "उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "counts",
+     "problem": "note says 2+2+2 and nine against ten; with the print there are two dve (so 2+2 here, 3 in 222: seven against the ten of 220, 223 possibly one more). Keep as printed; owner to check the scan for a dropped dve",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "221",
+      "op": "replace",
+      "field": "notes",
+      "old": "The printed counts 2+2+2 here and 3 in 222 make nine against the ten of 220; counts are translated as printed and not corrected (223 may carry a further one). Alternative reading: dve mukhāśrite vṛtte = 'two at the mouth, round'.",
+      "new": "The print has only two dve: 'abhyantarāśrite dve' and 'mukhāśrite vṛtte dve', so the counts are 2+2 here and 3 in 222 (seven against the ten of 220; 223 may carry a further one). Counts are translated as printed and not corrected; the translation keeps the literal order and does not repeat the final dve for mukhāśrite (if the scan dropped a dve, the owner decides)."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dve (both), vṛtte, abhyantara-āśrite, mukha-āśrite",
+     "problem": "dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi",
+     "fix": "nom. du. / tat-puruṣa, nom. du.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "221",
+       "op": "word",
+       "match_w": "dve",
+       "field": "gram",
+       "value": "nom. du.",
+       "occurrence": "all"
+      },
+      {
+       "n": "221",
+       "op": "word",
+       "match_w": "vṛtte",
+       "field": "gram",
+       "value": "nom. du."
+      },
+      {
+       "n": "221",
+       "op": "word",
+       "match_w": "abhyantara-āśrite",
+       "field": "gram",
+       "value": "tat-puruṣa, nom. du."
+      },
+      {
+       "n": "221",
+       "op": "word",
+       "match_w": "mukha-āśrite",
+       "field": "gram",
+       "value": "tat-puruṣa, nom. du."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "222",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "223",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "224",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "योनि ... पक्वाशय ... गर्भशय्या",
+     "problem": "English carries three hedged identifications (yoni, pakvāśaya, garbhaśayyā); Hindi has none (glossary: Hindi must carry the identifications and hedges of the English)",
+     "fix": "योनि यानी सम्भवतः स्त्री का जननमार्ग तो शंख की नाभि के आकार का है और अनुमानित पाठ पर तीन चक्करों वाला है। उसके तीसरे चक्कर में पित्त और पक्वाशय यानी सम्भवतः बड़ी आँत वाले क्षेत्र के बीच, रोहित यानी रोहू मछली के मुख के आकार की गर्भशय्या यानी सम्भवतः गर्भाशय है।",
+     "severity": "minor",
+     "patch": {
+      "n": "224",
+      "op": "set",
+      "field": "hindi",
+      "value": "योनि यानी सम्भवतः स्त्री का जननमार्ग तो शंख की नाभि के आकार का है और अनुमानित पाठ पर तीन चक्करों वाला है। उसके तीसरे चक्कर में पित्त और पक्वाशय यानी सम्भवतः बड़ी आँत वाले क्षेत्र के बीच, रोहित यानी रोहू मछली के मुख के आकार की गर्भशय्या यानी सम्भवतः गर्भाशय है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tasyāstṛtīya āvarte",
+     "problem": "garbled sentence with a question mark; the sandhi (tṛtīye + āvarte -> tṛtīya āvarte) is regular",
+     "fix": "clean wording",
+     "severity": "minor",
+     "patch": {
+      "n": "224",
+      "op": "replace",
+      "field": "notes",
+      "old": "(tasyāḥ tṛtīye? the printed 'tṛtīya' is read as the locative tṛtīye before āvarte by regular sandhi e + ā → a ā)",
+      "new": "(tasyāḥ tṛtīye; the printed 'tṛtīya' is the locative tṛtīye before āvarte by regular sandhi, e + ā → a ā)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "225",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ārtava (menstrual blood)",
+     "problem": "hedge missing here but present at u239 ('probably'); keep consistent",
+     "fix": "ārtava (menstrual blood, probably)",
+     "severity": "minor",
+     "patch": {
+      "n": "225",
+      "op": "replace",
+      "field": "english",
+      "old": "ārtava (menstrual blood)",
+      "new": "ārtava (menstrual blood, probably)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुक्र यानी पुरुष के वीर्य ... आर्तव यानी रज",
+     "problem": "'पुरुष के' is not in the Sanskrit; रज alone is ambiguous in Hindi and is unhedged (English hedges ārtava)",
+     "fix": "उसमें शुक्र यानी वीर्य और आर्तव यानी सम्भवतः मासिक धर्म के रक्त में प्रवेश करने वाली तीन पेशियाँ हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "225",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसमें शुक्र यानी वीर्य और आर्तव यानी सम्भवतः मासिक धर्म के रक्त में प्रवेश करने वाली तीन पेशियाँ हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "226",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those (ones)",
+     "problem": "tābhiḥ is a stated pronoun (glossary: translate plainly); '(ones)' is an unneeded supplied word",
+     "fix": "by those—thin,",
+     "severity": "minor",
+     "patch": {
+      "n": "226",
+      "op": "replace",
+      "field": "english",
+      "old": "by those (ones)—thin",
+      "new": "by those—thin"
+     }
+    }
+   ]
+  },
+  {
+   "n": "227",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "228",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "229",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "just as many ... the body (loman)",
+     "problem": "'just' is added emphasis (tāvanti = that many) and loman is body-hair, not 'the body' (word dropped)",
+     "fix": "And that many are the head-hairs (keśa), the beard-hairs (śmaśru) and the body-hairs (loman).",
+     "severity": "error",
+     "patch": {
+      "n": "229",
+      "op": "replace",
+      "field": "english",
+      "old": "And just as many are the hairs of the head (keśa), the beard (śmaśru) and the body (loman).",
+      "new": "And that many are the head-hairs (keśa), the beard-hairs (śmaśru) and the body-hairs (loman)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उतने ही",
+     "problem": "'ही' is added emphasis",
+     "fix": "और उतने सिर के बाल",
+     "severity": "minor",
+     "patch": {
+      "n": "229",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और उतने ही सिर के बाल",
+      "new": "और उतने सिर के बाल"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āpyāyante",
+     "problem": "ātmanepada present, not passive (glossary: āpyāyate ātmanepada)",
+     "fix": "3 pl. pres. ātm. ā-√pyāy",
+     "severity": "minor",
+     "patch": {
+      "n": "229",
+      "op": "word",
+      "match_w": "āpyāyante",
+      "field": "gram",
+      "value": "3 pl. pres. ātm. ā-√pyāy"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(pass.)",
+     "problem": "same point in the note",
+     "fix": "(ātmanepada)",
+     "severity": "minor",
+     "patch": {
+      "n": "229",
+      "op": "replace",
+      "field": "notes",
+      "old": "swollen with fluid (pass.)",
+      "new": "swollen with fluid (ātmanepada)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "are bound to them",
+     "problem": "tat-pratibaddhāni has singular 'tat' ('to that'); 'to them' and 'they are nourished by those' fix an antecedent the Sanskrit does not give; owner to decide (e.g. 'bound to that (tat); therefore those are nourished by those')",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "230",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "231",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vipakvaṃtaṃnayaṃti",
+     "problem": "unflagged silent emendation: printed 'taṃ' is read as tat+n- = tan (neuter, agreeing with vīryam); if the print means tam (m.) the object changes. Needs its own flag",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "231",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "gṛṇhaṃti",
+        "suggest": "gṛhṇanti",
+        "why": "possible: variant spelling of gṛhṇanti (√grah, 3 pl.); the form gṛṇh- is a non-standard spelling"
+       },
+       {
+        "src": "vipakvaṃtaṃnayaṃti",
+        "suggest": "vipakvaṃ tan nayanti",
+        "why": "possible: printed 'taṃ' is read as tat before n- (tat+nayanti -> tan nayanti), neuter agreeing with vīryam; if 'tam' (masculine) were meant the object would differ"
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "fully matured in the skin; ... carry",
+     "problem": "Sanskrit has a resumptive 'tat' ('that ... they carry') not rendered in English (Hindi has उसे); harmless but note",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "232",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "233",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Even so,",
+     "problem": "tu ('however') is not rendered in English or Hindi (same untranslated-tu OPEN as p02 ch01 u168)",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "234",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "235",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tathāmūtraṃrudhiramanyāṃca",
+     "problem": "unflagged: anyān + ca regularly gives anyāṃś ca; the print has no ś (contrast aparāṃścā in u243). Needs a flag",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "235",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tathāmūtraṃrudhiramanyāṃca",
+        "suggest": "tathāmūtraṃrudhiramanyāṃśca",
+        "why": "possible: anyān + ca gives anyāṃś ca; the ś is missing in the print (compare aparāṃścā in u243)"
+       }
+      ]
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मल को बाँधता है",
+     "problem": "Hindi 'बाँधता है' reads as 'constipates/holds the stool', which the text does not say; anubadhnāti is also 'attaches to / follows'. Owner to decide (English 'binds on to' is also open)",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "236",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आदि वाले रस नामक",
+     "problem": "ādya = 'first', not 'आदि वाले'",
+     "fix": "और प्रथम, आहार के सार रस नामक का",
+     "severity": "error",
+     "patch": {
+      "n": "236",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और आदि वाले रस नामक आहार के सार का",
+      "new": "और प्रथम, आहार के सार रस नामक का"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पित्त ... वसा ... मेदस्",
+     "problem": "English hedges pitta (probably bile), vasā and medas as probable; Hindi gives them unhedged (glossary: Hindi carries the hedge)",
+     "fix": "पित्त यानी सम्भवतः शरीर का पित्त द्रव, मूत्र, वसा यानी सम्भवतः मांसपेशियों की चर्बी, मेदस् यानी सम्भवतः मेद धातु और मज्जा",
+     "severity": "minor",
+     "patch": {
+      "n": "236",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पित्त, मूत्र, वसा यानी मांसपेशियों की चर्बी, मेदस् यानी मेद धातु और मज्जा",
+      "new": "पित्त यानी सम्भवतः शरीर का पित्त द्रव, मूत्र, वसा यानी सम्भवतः मांसपेशियों की चर्बी, मेदस् यानी सम्भवतः मेद धातु और मज्जा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "237",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुक्र",
+     "problem": "bare शुक्र can be read as the planet; gloss it as elsewhere",
+     "fix": "शुक्र यानी वीर्य की आधी अंजलि।",
+     "severity": "minor",
+     "patch": {
+      "n": "237",
+      "op": "set",
+      "field": "hindi",
+      "value": "शुक्र यानी वीर्य की आधी अंजलि।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "238",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of the brain ... of ojas",
+     "problem": "Sanskrit has nominatives (mastiṣkam ojaś ca); 'of' is supplied",
+     "fix": "Just that much: the brain (mastiṣka) and ojas (vital essence).",
+     "severity": "minor",
+     "patch": {
+      "n": "238",
+      "op": "set",
+      "field": "english",
+      "value": "Just that much: the brain (mastiṣka) and ojas (vital essence)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "239",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रजस् यानी आर्तव",
+     "problem": "defines one doctrinal term by another and drops the hedge the English has",
+     "fix": "स्त्रियों में रजस् यानी सम्भवतः मासिक धर्म के रक्त की चार अंजलियाँ।",
+     "severity": "minor",
+     "patch": {
+      "n": "239",
+      "op": "set",
+      "field": "hindi",
+      "value": "स्त्रियों में रजस् यानी सम्भवतः मासिक धर्म के रक्त की चार अंजलियाँ।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "añjalyaḥ",
+     "problem": "añjali is masculine i-stem (nom. pl. añjalayaḥ); 'añjalyaḥ' f. implies an ī-stem añjalī. The draft's feminine is chosen only to fit the printed catasraḥ; u237 has it m. and u240 dvau m. Owner to decide (print habit vs añjalayaś catvāraḥ); no change made",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "240",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "की दो",
+     "problem": "'की' imports a feminine noun; dvau is masculine (and no noun is stated); also bare 'दूध'",
+     "fix": "स्तन्य यानी स्तन के दूध के दो।",
+     "severity": "minor",
+     "patch": {
+      "n": "240",
+      "op": "set",
+      "field": "hindi",
+      "value": "स्तन्य यानी स्तन के दूध के दो।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dvau",
+     "problem": "dvau is masculine only (neuter is dve); unstated noun: no gender",
+     "fix": "nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "240",
+      "op": "word",
+      "match_w": "dvau",
+      "field": "gram",
+      "value": "nom. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "241",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "242",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "243",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "un-enumerated",
+     "problem": "conjectural reading used in the translation without the mark (glossary: mark 'on a conjectural reading' in both languages)",
+     "fix": "un-enumerated (on a conjectural reading)",
+     "severity": "error",
+     "patch": {
+      "n": "243",
+      "op": "replace",
+      "field": "english",
+      "old": "un-enumerated, corporeal",
+      "new": "un-enumerated (on a conjectural reading), corporeal"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनगिने",
+     "problem": "same: unmarked conjecture",
+     "fix": "अनुमानित पाठ पर",
+     "severity": "error",
+     "patch": {
+      "n": "243",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और अन्य अनगिने मूर्त",
+      "new": "और अनुमानित पाठ पर अन्य अनगिने मूर्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "244",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह इस प्रकार।",
+     "problem": "literal but acceptable; owner may prefer 'वह इस प्रकार है।'",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "245",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "246",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "school",
+     "problem": "'school' is not in the Sanskrit (the draft's note admits it); dhānvantarīya = followers of Dhanvantari",
+     "fix": "The followers of Dhanvantari (dhānvantarīya), on the other hand, read (recite).",
+     "severity": "minor",
+     "patch": {
+      "n": "246",
+      "op": "set",
+      "field": "english",
+      "value": "The followers of Dhanvantari (dhānvantarīya), on the other hand, read (recite)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "247",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "248",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "249",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "recognise (it)",
+     "problem": "object not stated; glossary: drop '(it)' where the object is uncertain (the note itself says so)",
+     "fix": "One should only recognise by inference through mere health.",
+     "severity": "minor",
+     "patch": {
+      "n": "249",
+      "op": "set",
+      "field": "english",
+      "value": "One should only recognise by inference through mere health."
+     }
+    }
+   ]
+  },
+  {
+   "n": "250",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "251",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of those—of the atoms",
+     "problem": "teṣām and paramāṇūnām are both m. gen. pl.: 'of those atoms'. The dashes and Hindi 'यानी' assert an identity (apposition) the Sanskrit does not state",
+     "fix": "In the union and separation of those atoms (paramāṇu), wind (vāyu), impelled by action (karma), is the cause.",
+     "severity": "minor",
+     "patch": {
+      "n": "251",
+      "op": "set",
+      "field": "english",
+      "value": "In the union and separation of those atoms (paramāṇu), wind (vāyu), impelled by action (karma), is the cause."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उनके, यानी परमाणुओं के",
+     "problem": "same",
+     "fix": "उन परमाणुओं के",
+     "severity": "minor",
+     "patch": {
+      "n": "251",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके, यानी परमाणुओं के",
+      "new": "उन परमाणुओं के"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "apposition",
+     "problem": "same",
+     "fix": "teṣām agrees with paramāṇūnām ('of those atoms')",
+     "severity": "minor",
+     "patch": {
+      "n": "251",
+      "op": "replace",
+      "field": "notes",
+      "old": "teṣām and paramāṇūnām are in apposition.",
+      "new": "teṣām agrees with paramāṇūnām ('of those atoms'); its antecedent (probably the avayavāḥ of 250) is not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "252",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "253",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "254",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "255",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ahiteṣu",
+     "problem": "adjective standing for an unstated noun: case and number only (glossary)",
+     "fix": "loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "255",
+      "op": "word",
+      "match_w": "ahiteṣu",
+      "field": "gram",
+      "value": "loc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "256",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "41 units reviewed. Patches: 7 errors (u221 added numeral/Hindi/note, u229 English 'the body'/'just', u236 Hindi 'आदि वाले', u243 unmarked conjecture in both languages), many minor (gram numerals/dual, Hindi hedges missing for yoni/pakvāśaya/garbhaśayyā/ārtava/pitta/vasā/medas, supplied words '(ones)', 'school', '(it)', 'of', two missing text_flags in u231 and u235). No identification judged wrong (rohita = Labeo rohita standard; others properly probable). Units needing a human decision: 221, 224, 229, 231, 233, 235, 236, 239, 245. No regrouping suggested beyond the GROUPING notes already present.",
+ "glossary_suggestions": [
+  "yoni: this chapter reads it as the whole female genital tract (the garbhaśayyā sits in its third whorl, u224), 'yoni (female genital tract, probably)'; p02 ch01 k3 fixed 'yoni (vagina)'. Owner to decide which wins; keep one rule.",
+  "lasīkā = lymph / tissue fluid (probable); vasā = muscle-fat (probable); medas = adipose tissue (probable); pitta in the fluid-measure list = probably bile; hedged in both languages.",
+  "ārtava and rajas (women) = menstrual blood, hedged 'probably' in both languages in every unit; Hindi 'आर्तव यानी सम्भवतः मासिक धर्म के रक्त' (bare रज is ambiguous).",
+  "mūrta/amūrta = corporeal/non-corporeal; mūrtimat = having form; paramāṇu = atom; avayava = part.",
+  "Hindi śatasahasra = लाख (hundred-thousand); printed counts kept as printed (u227 = 29 hundred-thousands and 956).",
+  "dvau is masculine only, dve is nom. du. with no gender; daśa and other numerals above four 'nom. pl.' (already in glossary, repeat for sweep: ch05 u216-221, 240).",
+  "dhānvantarīya = followers of Dhanvantari (no 'school').",
+  "añjali is a masculine i-stem; u239 'añjalyaḥ' f. follows printed catasraḥ - OPEN.",
+  "OPEN p02 ch05 k6: u221 only two dve printed (2+2 here, 3 in u222); u224 tryāvartā conjecture; u231 tat/tan and destination of nayanti; u234 mūrtimantaḥ sthirāḥ vs mūrtimanto 'sthirāḥ'; u235 syntax and Hindi बाँधता; u236 ādya scope and lasīkā; u239 añjalyaḥ gender and u240 dvau; u245 māṃsa-karṇādi-malān; u227 count 2,900,956 vs another witness 29,956."
+ ]
+}

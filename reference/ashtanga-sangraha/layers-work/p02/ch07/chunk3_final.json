@@ -1,0 +1,2710 @@
+[
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvāhuḥ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे तो कहते हैं।",
+  "english": "Others, however, say.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to introduce the statements of the 'others' in the following units (74 onward). 'āhuḥ' is a perfect form with present sense.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.73"
+  ],
+  "lines_deva": [
+   "अन्ये त्वाहुः"
+  ],
+  "lines_iast": [
+   "anye tvāhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māṃsādīnāṃ",
+      "words": [
+       {
+        "w": "māṃsa-ādīnām",
+        "gloss": "flesh (māṃsa); and the rest",
+        "gram": "bahuvrīhi, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṃcānamapi",
+      "words": [
+       {
+        "w": "pañcānām",
+        "gloss": "five",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even, also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivṛddhānāṃsamavāyādviśalyaghnāni",
+      "words": [
+       {
+        "w": "vivṛddhānām",
+        "gloss": "greatly increased",
+        "gram": "ppp. vi-√vṛdh, gen. pl."
+       },
+       {
+        "w": "samavāyāt",
+        "gloss": "from the coming together, combination",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vi-śalya-ghnāni",
+        "gloss": "without the dart (viśalya); killing (ghna); viśalyaghna = killing when the dart is removed (standard sense)",
+        "gram": "upapada compound, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विशल्यघ्न यानी शल्य निकाले जाने पर मारने वाले, मांस आदि पाँचों के भी अत्यन्त बढ़े हुओं के मेल से।",
+  "english": "Viśalyaghna (ones, those that kill when the dart is removed), through the coming together of even the five, flesh and the rest, greatly increased.",
+  "text_flags": [
+   {
+    "src": "paṃcānamapi",
+    "suggest": "pañcānām api",
+    "why": "possible: the genitive plural of pañcan is pañcānām; the long ā of the ending appears to be lost in print"
+   }
+  ],
+  "notes": "Elliptical: no verb; the neuter plural 'viśalyaghnāni' stands for an unstated noun and is shown as '(ones)'. The five are not named in this unit ('māṃsa-ādi' = flesh and the rest). 'viśalyaghna' = 'killing when the dart (śalya) is removed' is the usual sense of the term; this unit does not spell it out. 'vivṛddha' (greatly increased) may qualify the five or be read with 'samavāya'. GROUPING: appears to be the first statement of the 'others' introduced in 73, and continues in 75-76.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.74"
+  ],
+  "lines_deva": [
+   "मांसादीनां पंचानमपि विवृद्धानांसमवायाद्विशल्यघ्नानि"
+  ],
+  "lines_iast": [
+   "māṃsādīnāṃ paṃcānamapi vivṛddhānāṃsamavāyādviśalyaghnāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekaikahīnānāmalpānāṃ",
+      "words": [
+       {
+        "w": "eka-eka-hīnānām",
+        "gloss": "one; one; reduced, lacking",
+        "gram": "tat-puruṣa, gen. pl."
+       },
+       {
+        "w": "alpānām",
+        "gloss": "small, few",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kramāditarāṇisvabhāvataeva",
+      "words": [
+       {
+        "w": "kramāt",
+        "gloss": "in order",
+        "gram": "m. abl. sg. used as adverb"
+       },
+       {
+        "w": "itarāṇi",
+        "gloss": "other",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "svabhāvataḥ",
+        "gloss": "by nature",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "alone, only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cānye",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vadaṃti",
+      "words": [
+       {
+        "w": "vadanti",
+        "gloss": "they say",
+        "gram": "3 pl. pres. √vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक-एक से घटे हुओं और अल्पों के क्रम से अन्य; और दूसरे लोग स्वभाव से ही कहते हैं।",
+  "english": "Of those reduced by one each, and of the small ones, in order, the other (ones); and others say, by nature alone.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb for the first clause; the things reduced by one each are not named (they appear to be the five of 74, but the unit does not say so). 'itarāṇi' (other ones) stands for an unstated noun. The join is uncertain: 'svabhāvataḥ eva' may instead go with 'itarāṇi' ('the others by nature alone'), leaving 'ca anye vadanti' as 'and others say'. Regular sandhi: svabhāvataḥ + eva = svabhāvata eva. GROUPING: appears to continue 74.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.75"
+  ],
+  "lines_deva": [
+   "एकैकहीनानामल्पानां च क्रमादितराणिस्वभावतएव चान्ये वदंति"
+  ],
+  "lines_iast": [
+   "ekaikahīnānāmalpānāṃ ca kramāditarāṇisvabhāvataeva cānye vadaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratiniyatakarmāṇi",
+      "words": [
+       {
+        "w": "prati-niyata-karmāṇi",
+        "gloss": "each, severally; fixed, definite; functions",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caṃdrasūryāyaskaṃtopalānāmivāṃbuvanhilohasaṃśleṣāḥ",
+      "words": [
+       {
+        "w": "candra-sūrya-ayaskānta-upalānām",
+        "gloss": "moon; sun; ayaskānta (lodestone; standard); stones (candra and sūrya stones: probably moonstone and sunstone, probable)",
+        "gram": "dvandva + tat-puruṣa, gen. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ambu-vahni-loha-saṃśleṣāḥ",
+        "gloss": "water; fire; iron; unions, clinging",
+        "gram": "dvandva + tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chinneṣu",
+      "words": [
+       {
+        "w": "chinneṣu",
+        "gloss": "cut off",
+        "gram": "ppp. √chid, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahumarmasvapi",
+      "words": [
+       {
+        "w": "bahu-marmasu",
+        "gloss": "many; marmas",
+        "gram": "bahuvrīhi, loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even, though",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāṇipādeṣu",
+      "words": [
+       {
+        "w": "pāṇi-pādeṣu",
+        "gloss": "hands; feet",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svabhāvata",
+      "words": [
+       {
+        "w": "svabhāvataḥ",
+        "gloss": "by nature",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "itself, alone",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyuḥ",
+      "words": [
+       {
+        "w": "mṛtyuḥ",
+        "gloss": "death",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रत्येक के अपने नियत कर्म वाले, चन्द्र और सूर्य पत्थरों यानी सम्भवतः चन्द्रकान्त और सूर्यकान्त, तथा अयस्कान्त यानी चुम्बक पत्थर के जल, अग्नि और लोहे से मिलन की भाँति; और वैसे ही बहुत मर्मों वाले हाथ-पैर कट जाने पर भी स्वभाव से ही मृत्यु नहीं।",
+  "english": "With each its own fixed function, like the unions of the candra and sūrya stones (probably moonstone and sunstone) and the ayaskānta (lodestone) with water, fire and iron; and likewise, when the hands and feet, though having many marmas, are cut off, by nature itself no death.",
+  "text_flags": [
+   {
+    "src": "caṃdrasūryāyaskaṃtopalānāmivāṃbuvanhilohasaṃśleṣāḥ",
+    "suggest": "caṃdrasūryāyaskāṃtopalānām ivāṃbuvahnilohasaṃśleṣāḥ",
+    "why": "possible: the lodestone is ayaskānta with long ā (the long ā is lost in print); also 'vanhi' is the older spelling of vahni, normalised in `w`"
+   }
+  ],
+  "notes": "Identifications: ayaskānta = lodestone (standard); candra and sūrya stones = moonstone and sunstone (probable; the pairing of the three stones with water, fire and iron in order is natural but not stated). 'vanhi' is the printed spelling of vahni (orthographic, normalised in 'w'). 'pratiniyata-karman' = each having its own fixed action. 'chinneṣu ... pāṇipādeṣu' is a locative absolute; no verb is supplied for 'na mṛtyuḥ'. GROUPING: appears to continue 74-75 (the view of those who say 'by nature'). REVIEW: traditionally candrakānta (moon-crystal) is said to exude water in moonlight and sūryakānta (sun-crystal) to yield fire in sunlight; modern moonstone/sunstone are different minerals, so the identification stays hedged (probable, identity disputed).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.76"
+  ],
+  "lines_deva": [
+   "प्रतिनियतकर्माणि चंद्रसूर्यायस्कंतोपलानामिवांबुवन्हिलोहसंश्लेषाः तथा च छिन्नेषु बहुमर्मस्वपि पाणिपादेषु स्वभावत एव न मृत्युः"
+  ],
+  "lines_iast": [
+   "pratiniyatakarmāṇi caṃdrasūryāyaskaṃtopalānāmivāṃbuvanhilohasaṃśleṣāḥ tathā ca chinneṣu bahumarmasvapi pāṇipādeṣu svabhāvata eva na mṛtyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apare",
+      "words": [
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punaratrāpi",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, in this matter",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hetumāhuḥ",
+      "words": [
+       {
+        "w": "hetum",
+        "gloss": "reason",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे फिर यहाँ भी कारण बताते हैं।",
+  "english": "Others again state a reason here also.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to introduce the reason given in 78.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.77"
+  ],
+  "lines_deva": [
+   "अपरे पुनरत्रापि हेतुमाहुः"
+  ],
+  "lines_iast": [
+   "apare punaratrāpi hetumāhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṇipādacchede",
+      "words": [
+       {
+        "w": "pāṇi-pāda-chede",
+        "gloss": "hands; feet; cutting off",
+        "gram": "dvandva + tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sirāḥ",
+      "words": [
+       {
+        "w": "sirāḥ",
+        "gloss": "sirā (vessels; veins, probable)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃkocamāyāṃti",
+      "words": [
+       {
+        "w": "saṃkocam",
+        "gloss": "contraction",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyānti",
+        "gloss": "they come to",
+        "gram": "3 pl. pres. ā-√yā"
+       }
+      ]
+     },
+     {
+      "src": "tato'lpāsrakprasruterjīvitaṃ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "hence",
+        "gram": "ind."
+       },
+       {
+        "w": "alpa-asṛk-prasruteḥ",
+        "gloss": "little; blood (asṛj); flowing out",
+        "gram": "tat-puruṣa, f. abl. sg."
+       },
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "marmavyadhe",
+      "words": [
+       {
+        "w": "marma-vyadhe",
+        "gloss": "marma; piercing",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvatiraktasrutiṃto",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-rakta-srutitaḥ",
+        "gloss": "excessive; blood; flow; from",
+        "gram": "tat-puruṣa, f. abl. sg. (suffix -tas)"
+       }
+      ]
+     },
+     {
+      "src": "vāyuvaikṛtena",
+      "words": [
+       {
+        "w": "vāyu-vaikṛtena",
+        "gloss": "wind (vāyu); abnormality",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि हाथ-पैर के कटने पर सिराएँ यानी सम्भवतः शिराएँ सिकुड़ जाती हैं; इसलिए रक्त के थोड़े बहने से जीवन; पर मर्म के बिंधने पर रक्त के अत्यधिक बहने से और वायु की विकृति से मृत्यु।",
+  "english": "For, on the cutting off of hands and feet, the sirā (vessels, probably veins) contract; hence, from slight flow of blood, life; but, on the piercing of a marma, from excessive flow of blood and from abnormality of wind (vāyu), death.",
+  "text_flags": [
+   {
+    "src": "tato'lpāsrakprasruterjīvitaṃ",
+    "suggest": "tato'lpāsṛkprasruter jīvitaṃ",
+    "why": "possible: the compound is alpa-asṛj-prasruti; 'asrak' looks like a print slip with ṛ lost as ra"
+   },
+   {
+    "src": "tvatiraktasrutiṃto",
+    "suggest": "tvatiraktasrutito",
+    "why": "possible: the ablative in -tas (atirakta-srutitaḥ) parallels alpāsṛk-prasruteḥ in the first half; the anusvara before -to looks like a stray sign"
+   }
+  ],
+  "notes": "Elliptical: 'jīvitam' (life) and 'maraṇam' (death) have no verb; none is supplied. sirā = vessel or channel; 'veins' is a probable modern equivalent only (the word is used for vessels in general). 'vāyu' = wind; whether the doṣa Vāta is meant is not stated. The two corrections in `text_flags` are used in `words` but the translation does not depend on them beyond the sense 'from flow of blood'. GROUPING: appears to complete the reason announced in 77.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.78"
+  ],
+  "lines_deva": [
+   "पाणिपादच्छेदे हि सिराः संकोचमायांति ततोऽल्पास्रक्प्रस्रुतेर्जीवितं मर्मव्यधे त्वतिरक्तस्रुतिंतो वायुवैकृतेन च मरणं"
+  ],
+  "lines_iast": [
+   "pāṇipādacchede hi sirāḥ saṃkocamāyāṃti tato'lpāsrakprasruterjīvitaṃ marmavyadhe tvatiraktasrutiṃto vāyuvaikṛtena ca maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmānmarmābhihatasya",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "marma-abhihatasya",
+        "gloss": "marma; struck",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadaṃgamāśu",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅgam",
+        "gloss": "limb",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhideśācchedanīyaṃ",
+      "words": [
+       {
+        "w": "sandhi-deśāt",
+        "gloss": "joint (sandhi); place, region",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "chedanīyam",
+        "gloss": "to be cut off",
+        "gram": "gerundive √chid, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए मर्म पर चोट खाए हुए का वह अंग शीघ्र सन्धि के स्थान पर काट देना चाहिए।",
+  "english": "Therefore, of one struck on a marma, that limb should be cut off quickly at the place of a joint (sandhi).",
+  "text_flags": [],
+  "notes": "'sandhideśāt' (ablative) is rendered 'at the place of a joint'. sandhi = joint (standard). 'tadaṅgam' = that limb, i.e. the one struck. GROUPING: appears to follow 78 as its conclusion.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.79"
+  ],
+  "lines_deva": [
+   "तस्मान्मर्माभिहतस्य तदंगमाशु संधिदेशाच्छेदनीयं"
+  ],
+  "lines_iast": [
+   "tasmānmarmābhihatasya tadaṃgamāśu saṃdhideśācchedanīyaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atihatānāṃ",
+      "words": [
+       {
+        "w": "ati-hatānām",
+        "gloss": "very much; struck",
+        "gram": "karmadhāraya, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "marmaṇāṃ",
+      "words": [
+       {
+        "w": "marmaṇām",
+        "gloss": "of marmas",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvaṃ",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "each according to its own",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "preceding",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "preceding",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "īṣadaṃte",
+      "words": [
+       {
+        "w": "īṣat-ante",
+        "gloss": "slightly, a little; at the end (sense unclear here)",
+        "gram": "loc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hatānāmuttarameva",
+      "words": [
+       {
+        "w": "hatānām",
+        "gloss": "of the struck",
+        "gram": "ppp. √han, gen. pl."
+       },
+       {
+        "w": "uttaram",
+        "gloss": "later, the latter",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अत्यन्त चोट खाए मर्मों का अपने-अपने अनुसार कर्म: पूर्व-पूर्व वाला; या ईषत् अन्ते यानी थोड़ा, अन्त में; यह अंश अस्पष्ट है, चोट खाए हुओं का केवल बाद वाला।",
+  "english": "But of marmas that are severely struck, each according to its own, the action: each preceding one; or, 'īṣat ante' (slightly, at the end; this part unclear), of those struck, only the latter.",
+  "text_flags": [],
+  "notes": "Obscure; no verb. Plain reading offered: for severely struck marmas the action is that of each preceding (item); for the others struck, only the latter. What the preceding and the latter items are is not stated in this unit. 'īṣadaṃte' is not clear: it may be īṣat + ante, or a damaged form; it is left unclear in both translations. 'pūrvaṃ pūrvaṃ' is a distributive repetition ('each preceding'). GROUPING: appears to continue 79 (what follows a blow on a marma).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.80"
+  ],
+  "lines_deva": [
+   "अतिहतानां तु मर्मणां यथास्वं पूर्वं पूर्वं च कर्म ईषदंते वा हतानामुत्तरमेव"
+  ],
+  "lines_iast": [
+   "atihatānāṃ tu marmaṇāṃ yathāsvaṃ pūrvaṃ pūrvaṃ ca karma īṣadaṃte vā hatānāmuttarameva"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "punaśca",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcadhā",
+      "words": [
+       {
+        "w": "pañcadhā",
+        "gloss": "in five ways, fivefold",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhidyate",
+      "words": [
+       {
+        "w": "bhidyate",
+        "gloss": "is divided",
+        "gram": "3 sg. pass. √bhid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और फिर पाँच प्रकार से विभाजित किया जाता है।",
+  "english": "And again, (it) is divided fivefold.",
+  "text_flags": [],
+  "notes": "The subject is not stated (the marmas, from the chapter's subject). GROUPING: appears to introduce the fivefold division that 82 and the following units (83-87, five groups by measure) set out.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.81"
+  ],
+  "lines_deva": [
+   "पुनश्च पंचधा भिद्यते"
+  ],
+  "lines_iast": [
+   "punaśca paṃcadhā bhidyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as, namely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह इस प्रकार:",
+  "english": "Namely:",
+  "text_flags": [],
+  "notes": "Introductory formula (tad yathā). GROUPING: appears to introduce the list in 83-87.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.82"
+  ],
+  "lines_deva": [
+   "तद्यथा"
+  ],
+  "lines_iast": [
+   "tadyathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrvyaḥ",
+      "words": [
+       {
+        "w": "ūrvyaḥ",
+        "gloss": "ūrvī (name)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kūrcaśirāṃsi",
+      "words": [
+       {
+        "w": "kūrca-śirāṃsi",
+        "gloss": "kūrcaśiras (name; literally 'tuft-head')",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viṭape",
+      "words": [
+       {
+        "w": "viṭape",
+        "gloss": "viṭapa (name)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kakṣādhare",
+      "words": [
+       {
+        "w": "kakṣā-dhare",
+        "gloss": "kakṣādhara (name; literally 'armpit-holder')",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa",
+      "words": [
+       {
+        "w": "dvādaśa",
+        "gloss": "twelve",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svāṃgulonmitāni",
+      "words": [
+       {
+        "w": "sva-aṅgula-unmitāni",
+        "gloss": "own; finger-breadth (aṅgula); measured",
+        "gram": "tat-puruṣa, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊर्वी, कूर्चशिरस्, दो विटप और दो कक्षाधर: बारह, अपने अंगुल के माप के।",
+  "english": "Ūrvī (plural), kūrcaśiras (plural), the two viṭapa and the two kakṣādhara: twelve, measured by one's own finger-breadth (aṅgula).",
+  "text_flags": [],
+  "notes": "These are names of marmas, the subject of the chapter; the unit itself does not say 'marma' and has no verb. 'viṭape' and 'kakṣādhare' are read as duals (probable; they could also be locatives). The numbers within the twelve are not given; the plurals ūrvyaḥ and kūrcaśirāṃsi plus the two duals fit the total only if the plurals are four each, which the text does not state. 'svāṅgula' = the person's own finger-breadth; the Sanskrit gives no number before it.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.83"
+  ],
+  "lines_deva": [
+   "ऊर्व्यः कूर्चशिरांसि विटपे कक्षाधरे च द्वादश स्वांगुलोन्मितानि"
+  ],
+  "lines_iast": [
+   "ūrvyaḥ kūrcaśirāṃsi viṭape kakṣādhare ca dvādaśa svāṃgulonmitāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulphau",
+      "words": [
+       {
+        "w": "gulphau",
+        "gloss": "gulpha (ankle; standard)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "maṇibaṃdhau",
+      "words": [
+       {
+        "w": "maṇi-bandhau",
+        "gloss": "wrist (maṇibandha; standard)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "stanamūle",
+      "words": [
+       {
+        "w": "stana-mūle",
+        "gloss": "base of the breast (stanamūla; standard)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "caṣaṭ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvyaṃgulāni",
+      "words": [
+       {
+        "w": "dvi-aṅgulāni",
+        "gloss": "two; finger-breadth (aṅgula)",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो गुल्फ यानी टखने, दो मणिबन्ध यानी कलाई और दो स्तनमूल यानी स्तन का आधार: छह, दो अंगुल के।",
+  "english": "The two gulpha (ankle), the two maṇibandha (wrist) and the two stanamūla (base of the breast): six, of two finger-breadths (aṅgula).",
+  "text_flags": [],
+  "notes": "Names of marmas that are also names of body parts; the unit names only the parts. No verb. 'caṣaṭ' is printed run together (ca ṣaṭ, spacing slip). 'stanamūle' is read as a dual; it could also be a locative singular.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.84"
+  ],
+  "lines_deva": [
+   "गुल्फौ मणिबंधौ स्तनमूले चषट् द्व्यंगुलानि"
+  ],
+  "lines_iast": [
+   "gulphau maṇibaṃdhau stanamūle caṣaṭ dvyaṃgulāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jānunī",
+      "words": [
+       {
+        "w": "jānunī",
+        "gloss": "knee (jānu; standard)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kūrpare",
+      "words": [
+       {
+        "w": "kūrpare",
+        "gloss": "elbow (kūrpara; standard)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catvāri",
+      "words": [
+       {
+        "w": "catvāri",
+        "gloss": "four",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tryaṃgulāni",
+      "words": [
+       {
+        "w": "tri-aṅgulāni",
+        "gloss": "three; finger-breadth (aṅgula)",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो जानु यानी घुटने और दो कूर्पर यानी कोहनी: चार, तीन अंगुल के।",
+  "english": "The two jānu (knee) and the two kūrpara (elbow): four, of three finger-breadths (aṅgula).",
+  "text_flags": [],
+  "notes": "Names of marmas that are also names of body parts; no verb. The duals are read from the endings (-ī, -e).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.85"
+  ],
+  "lines_deva": [
+   "जानुनी कूर्परे च चत्वारि त्र्यंगुलानि"
+  ],
+  "lines_iast": [
+   "jānunī kūrpare ca catvāri tryaṃgulāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kūrcā",
+      "words": [
+       {
+        "w": "kūrcāḥ",
+        "gloss": "kūrca (name)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gudobastirnābhirhṛdayaṃ",
+      "words": [
+       {
+        "w": "gudaḥ",
+        "gloss": "guda (anus; standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (bladder; standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nābhiḥ",
+        "gloss": "nābhi (navel; standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "hṛdayam",
+        "gloss": "hṛdaya (heart; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nīle",
+      "words": [
+       {
+        "w": "nīle",
+        "gloss": "nīlā (name; literally 'dark blue')",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "manye",
+      "words": [
+       {
+        "w": "manye",
+        "gloss": "manyā (name; the word also means nape of the neck)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "mātṛkāḥ",
+      "words": [
+       {
+        "w": "mātṛkāḥ",
+        "gloss": "mātṛkā (name; literally 'little mother')",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sīmaṃtāḥ",
+      "words": [
+       {
+        "w": "sīmantāḥ",
+        "gloss": "sīmanta (name; literally 'parting')",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śṛṃgāṭakāni",
+      "words": [
+       {
+        "w": "śṛṅgāṭakāni",
+        "gloss": "śṛṅgāṭaka (name; literally 'four-way junction')",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "caikonatriṃśatpāṇitalasaṃmitāni",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekonatriṃśat",
+        "gloss": "twenty-nine",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "pāṇi-tala-saṃmitāni",
+        "gloss": "hand; palm; measured",
+        "gram": "tat-puruṣa, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कूर्च, गुद यानी मलद्वार, बस्ति यानी मूत्राशय, नाभि, हृदय, दो नीला, दो मन्या, मातृकाएँ, सीमन्त और शृंगाटक: उनतीस, हथेली के माप के।",
+  "english": "The kūrca (plural), guda (anus), basti (bladder), nābhi (navel), hṛdaya (heart), the two nīlā, the two manyā, the mātṛkā (plural), the sīmanta (plural) and the śṛṅgāṭaka (plural): twenty-nine, measured by the palm (pāṇitala).",
+  "text_flags": [],
+  "notes": "Names of marmas; several are also body-part names. No verb. 'kūrcā gudo' is regular sandhi (kūrcāḥ gudaḥ). 'nīle manye' are read as duals. The numbers within the twenty-nine are not given in the text. 'basti' here = bladder (the body part), not the enema bag or enema. 'sīmanta' and 'śṛṅgāṭaka' are kept as names; the literal meanings in the glosses are the ordinary senses of the words, not a claim about the structure.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.86"
+  ],
+  "lines_deva": [
+   "कूर्चा गुदोबस्तिर्नाभिर्हृदयं नीले मन्ये मातृकाः सीमंताः शृंगाटकानि चैकोनत्रिंशत्पाणितलसंमितानि"
+  ],
+  "lines_iast": [
+   "kūrcā gudobastirnābhirhṛdayaṃ nīle manye mātṛkāḥ sīmaṃtāḥ śṛṃgāṭakāni caikonatriṃśatpāṇitalasaṃmitāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śeṣāṇi",
+      "words": [
+       {
+        "w": "śeṣāṇi",
+        "gloss": "remaining",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭpaṃcāśadaṃguladalapramāṇāni",
+      "words": [
+       {
+        "w": "ṣaṭ-pañcāśat",
+        "gloss": "fifty-six",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aṅgula-dala-pramāṇāni",
+        "gloss": "finger-breadth (aṅgula); dala (half, probable; literally 'petal, part'); measure",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शेष छप्पन, अंगुलदल के माप के यानी सम्भवतः आधे अंगुल के।",
+  "english": "The remaining: fifty-six, of the measure of an aṅgula-dala (probably half a finger-breadth).",
+  "text_flags": [],
+  "notes": "No verb. 'dala' = half is probable (the word also means petal or part). The printed numbers in 83-87 are 12, 6, 4, 29 and 56, which add up to 107; the text does not state this total here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.87"
+  ],
+  "lines_deva": [
+   "शेषाणि षट्पंचाशदंगुलदलप्रमाणानि"
+  ],
+  "lines_iast": [
+   "śeṣāṇi ṣaṭpaṃcāśadaṃguladalapramāṇāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarāhuḥ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे फिर कहते हैं।",
+  "english": "Others again say.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to introduce the views of other authorities on the measures, in 89-91.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.88"
+  ],
+  "lines_deva": [
+   "अन्ये पुनराहुः"
+  ],
+  "lines_iast": [
+   "anye punarāhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vrīhipramāṇāni",
+      "words": [
+       {
+        "w": "vrīhi-pramāṇāni",
+        "gloss": "rice grain (vrīhi; Oryza sativa, standard); measure",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣiprāṇi",
+      "words": [
+       {
+        "w": "kṣiprāṇi",
+        "gloss": "kṣipra (name; literally 'quick')",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्रीहि यानी धान के दाने के माप के: क्षिप्र।",
+  "english": "Of the measure of a vrīhi (rice grain): the kṣipra.",
+  "text_flags": [],
+  "notes": "No verb. 'kṣiprāṇi' is read as the marma name kṣipra (neuter plural); the alternative is the plain adjective 'quick'. GROUPING: appears to follow 88 and continues in 90-91.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.89"
+  ],
+  "lines_deva": [
+   "व्रीहिप्रमाणानि क्षिप्राणि"
+  ],
+  "lines_iast": [
+   "vrīhipramāṇāni kṣiprāṇi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalāyapramāṇāni",
+      "words": [
+       {
+        "w": "kalāya-pramāṇāni",
+        "gloss": "kalāya (pea; Pisum sativum, probable); measure",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "stanarohitotkṣepāḥ",
+      "words": [
+       {
+        "w": "stanarohita-utkṣepāḥ",
+        "gloss": "stanarohita (name); utkṣepa (name; literally 'lifting up')",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कलाय यानी सम्भवतः मटर के माप के: स्तनरोहित और उत्क्षेप।",
+  "english": "Of the measure of a kalāya (probably the pea): the stanarohita and the utkṣepa.",
+  "text_flags": [],
+  "notes": "No verb. kalāya = pea, probable (another pulse, grass pea, is a possible alternative). 'stanarohita' and 'utkṣepa' are marma names, read as two names in a dvandva. GROUPING: appears to continue 89.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.90"
+  ],
+  "lines_deva": [
+   "कलायप्रमाणानि स्तनरोहितोत्क्षेपाः"
+  ],
+  "lines_iast": [
+   "kalāyapramāṇāni stanarohitotkṣepāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā'nye",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tilapramāṇānyapi",
+      "words": [
+       {
+        "w": "tila-pramāṇāni",
+        "gloss": "sesame seed (tila; Sesamum indicum, standard); measure",
+        "gram": "bahuvrīhi, nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "marmāṇīcchaṃti",
+      "words": [
+       {
+        "w": "marmāṇi",
+        "gloss": "marmas",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "icchanti",
+        "gloss": "they accept, wish",
+        "gram": "3 pl. pres. √iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैसे ही दूसरे लोग तिल के माप के भी मर्म मानते हैं।",
+  "english": "Likewise others accept marmas even of the measure of a tila (sesame seed).",
+  "text_flags": [],
+  "notes": "'icchanti' literally 'they wish for'; 'accept' is the natural sense here. The avagraha printed after -ā (tathā'nye) is a print habit. GROUPING: appears to continue 88-90.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.91"
+  ],
+  "lines_deva": [
+   "तथाऽन्ये तिलप्रमाणान्यपि मर्माणीच्छंति"
+  ],
+  "lines_iast": [
+   "tathā'nye tilapramāṇānyapi marmāṇīcchaṃti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, in this matter",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यहाँ हैं:",
+  "english": "And here there are:",
+  "text_flags": [],
+  "notes": "Formula introducing the verses that follow; the noun (verses) is not stated. GROUPING: appears to introduce 93 onward.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.92"
+  ],
+  "lines_deva": [
+   "भवंति चात्र"
+  ],
+  "lines_iast": [
+   "bhavaṃti cātra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marmavyāme'pi",
+      "words": [
+       {
+        "w": "marmavyāme",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dehe'sminnāyurmarmāṇi",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "marmāṇi",
+        "gloss": "marmas",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣati",
+      "words": [
+       {
+        "w": "rakṣati",
+        "gloss": "guards, protects",
+        "gram": "3 sg. pres. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्मव्यामे भी, यह शब्द अस्पष्ट है, इस शरीर में आयु मर्मों की रक्षा करती है।",
+  "english": "Even in marmavyāme (unclear), in this body, life guards the marmas.",
+  "text_flags": [
+   {
+    "src": "marmavyāme'pi",
+    "suggest": "marmavyāpte 'pi",
+    "why": "possible: pta/ma is a known OCR confusion in this print and 'marma-vyāpta' (pervaded by marmas) would fit 'dehe'; but 'vyāma' (span, fathom) gives no clear sense; no reading is adopted"
+   }
+  ],
+  "notes": "'marmavyāme' is left unsplit and unclear; the conjecture in the flag is not used in the translations. 'āyuḥ' and 'marmāṇi' are both nominative/accusative-looking neuters; with the singular verb 'rakṣati' the singular 'āyuḥ' is taken as subject (so 'life guards the marmas'), but 'marmāṇi' as subject with 'āyuḥ' as object, or 'āyur-marmāṇi' as a compound, cannot be excluded. Regular sandhi: dehe asminn āyur. Metre: 16 syllables as printed. GROUPING: appears to open the verses announced in 92.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.93"
+  ],
+  "lines_deva": [
+   "मर्मव्यामेऽपि देहेऽस्मिन्नायुर्मर्माणि रक्षति"
+  ],
+  "lines_iast": [
+   "marmavyāme'pi dehe'sminnāyurmarmāṇi rakṣati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āyurvyāpyeva",
+      "words": [
+       {
+        "w": "āyur-vyāpi",
+        "gloss": "life (āyus); pervading",
+        "gram": "tat-puruṣa, acc. sg. (case uncertain)"
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "seveta",
+      "words": [
+       {
+        "w": "seveta",
+        "gloss": "should attend to, resort to",
+        "gram": "3 sg. opt. mid. √sev"
+       }
+      ]
+     },
+     {
+      "src": "sadā",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasmādvicakṣaṇaḥ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "vicakṣaṇaḥ",
+        "gloss": "the discerning (man)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए विचक्षण को सदा आयु में व्याप्त रहने वाले का ही सेवन करना चाहिए।",
+  "english": "Therefore the discerning (man) should always attend only to what pervades life (āyur-vyāpi).",
+  "text_flags": [],
+  "notes": "Obscure. 'āyurvyāpi' is read as 'life-pervading' (n.), standing for an unstated object; the case is uncertain and the object of 'seveta' is not named. 'sev' can also mean serve, practise or enjoy. GROUPING: appears to continue 93 ('tasmāt'). Metre: 16 syllables as printed.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.94"
+  ],
+  "lines_deva": [
+   "आयुर्व्याप्येव सेवेत सदा तस्माद्विचक्षणः"
+  ],
+  "lines_iast": [
+   "āyurvyāpyeva seveta sadā tasmādvicakṣaṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marmābhighātaḥ",
+      "words": [
+       {
+        "w": "marma-abhighātaḥ",
+        "gloss": "marma; blow, injury",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svalpo'piprāyaśo",
+      "words": [
+       {
+        "w": "su-alpaḥ",
+        "gloss": "very; little",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "prāyaśaḥ",
+        "gloss": "generally, for the most part",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bādhate",
+      "words": [
+       {
+        "w": "bādhate",
+        "gloss": "afflicts",
+        "gram": "3 sg. pres. mid. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "tarāṃ",
+      "words": [
+       {
+        "w": "tarām",
+        "gloss": "exceedingly, more",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्म पर थोड़ी भी चोट प्रायः बहुत अधिक पीड़ित करती है।",
+  "english": "A blow on a marma, even a slight one, generally afflicts exceedingly.",
+  "text_flags": [],
+  "notes": "The object of 'bādhate' (afflicts) is not stated. 'svalpaḥ api prāyaśaḥ' is printed run together (svalpo'piprāyaśo), a spacing slip. 'tarām' = exceedingly or more.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.95"
+  ],
+  "lines_deva": [
+   "मर्माभिघातः स्वल्पोऽपिप्रायशो बाधते तरां"
+  ],
+  "lines_iast": [
+   "marmābhighātaḥ svalpo'piprāyaśo bādhate tarāṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rogā",
+      "words": [
+       {
+        "w": "rogāḥ",
+        "gloss": "diseases",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "marmāśrayāstadvatprakrāṃtā",
+      "words": [
+       {
+        "w": "marma-āśrayāḥ",
+        "gloss": "marma; seat, lodging",
+        "gram": "bahuvrīhi, m. nom. pl."
+       },
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "prakrāntāḥ",
+        "gloss": "begun, undertaken",
+        "gram": "ppp. pra-√kram, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yatnato'pica",
+      "words": [
+       {
+        "w": "yatnataḥ",
+        "gloss": "with effort",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्म में आश्रय वाले रोग वैसे ही, प्रयत्न से भी आरम्भ किए हुए।",
+  "english": "Diseases that have a marma as their seat are likewise, set about (prakrāntāḥ) even with effort.",
+  "text_flags": [],
+  "notes": "Obscure; no predicate is stated here (the verb 'bādhate' of 95 may be carried, but the unit does not say so). 'prakrānta' = begun, set about; whether it means 'treatment undertaken' or 'set in' is not clear and is not enriched. Regular sandhi: rogāḥ marma- (rogā marmā-). GROUPING: appears to continue 95 and to lead into the signs given in 97-99.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.96"
+  ],
+  "lines_deva": [
+   "रोगा मर्माश्रयास्तद्वत्प्रक्रांता यत्नतोऽपिच"
+  ],
+  "lines_iast": [
+   "rogā marmāśrayāstadvatprakrāṃtā yatnato'pica"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikṣipyate",
+      "words": [
+       {
+        "w": "vikṣipyate",
+        "gloss": "is tossed about",
+        "gram": "3 sg. pass. vi-√kṣip"
+       }
+      ]
+     },
+     {
+      "src": "bhṛśaṃ",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sīdan",
+      "words": [
+       {
+        "w": "sīdan",
+        "gloss": "sinking",
+        "gram": "pres. part. √sad, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūnyo",
+      "words": [
+       {
+        "w": "śūnyaḥ",
+        "gloss": "empty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhramati",
+      "words": [
+       {
+        "w": "bhramati",
+        "gloss": "reels, wanders",
+        "gram": "3 sg. pres. √bhram"
+       }
+      ]
+     },
+     {
+      "src": "vepate",
+      "words": [
+       {
+        "w": "vepate",
+        "gloss": "trembles",
+        "gram": "3 sg. pres. mid. √vep"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह बहुत इधर-उधर फेंका जाता है, डूबता हुआ, शून्य, घूमता है, काँपता है।",
+  "english": "He is greatly tossed about, sinking, empty, reels, trembles.",
+  "text_flags": [],
+  "notes": "The subject (the afflicted person) is not stated; 'he' is understood from the verbs. 'śūnya' = empty, kept literal (it may describe a vacant or dazed state). 'sīdan' = sinking, languishing. GROUPING: appears to continue 96 and run on through 99; the signs are summed up in 100. Metre: 16 syllables.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.97"
+  ],
+  "lines_deva": [
+   "विक्षिप्यते भृशं सीदन् शून्यो भ्रमति वेपते"
+  ],
+  "lines_iast": [
+   "vikṣipyate bhṛśaṃ sīdan śūnyo bhramati vepate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śvāisati",
+      "words": [
+       {
+        "w": "śvasiti",
+        "gloss": "breathes",
+        "gram": "3 sg. pres. √śvas"
+       }
+      ]
+     },
+     {
+      "src": "kṛcchreṇa",
+      "words": [
+       {
+        "w": "kṛcchreṇa",
+        "gloss": "with difficulty",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "srastagātro",
+      "words": [
+       {
+        "w": "srasta-gātraḥ",
+        "gloss": "slack, drooping; limbs, body",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "muhurmuhuḥ",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "muhuḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह कठिनाई से ऊपर की ओर साँस लेता है, ढीले अंगों वाला, बार-बार।",
+  "english": "He breathes upward with difficulty, with slack limbs, again and again.",
+  "text_flags": [
+   {
+    "src": "śvāisati",
+    "suggest": "śvasiti",
+    "why": "near certain: stray vowel signs (ā, i) in print; √śvas gives śvasiti, and the metre (16 syllables) fits only śvasiti"
+   }
+  ],
+  "notes": "Subject 'he' as in 97. 'muhurmuhuḥ' is regular sandhi (muhuḥ muhuḥ). GROUPING: appears to continue 97.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.98"
+  ],
+  "lines_deva": [
+   "ऊर्ध्वं श्वािसति कृच्छ्रेण स्रस्तगात्रो मुहुर्मुहुः"
+  ],
+  "lines_iast": [
+   "ūrdhvaṃ śvāisati kṛcchreṇa srastagātro muhurmuhuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "hṛdaya (heart; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dahyate",
+      "words": [
+       {
+        "w": "dahyate",
+        "gloss": "burns",
+        "gram": "3 sg. pass. √dah"
+       }
+      ]
+     },
+     {
+      "src": "cāsya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "naikasthāne'vatiṣṭhate",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eka-sthāne",
+        "gloss": "one; place",
+        "gram": "karmadhāraya, n. loc. sg."
+       },
+       {
+        "w": "avatiṣṭhate",
+        "gloss": "stays",
+        "gram": "3 sg. pres. mid. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसका हृदय जलता है, एक स्थान पर नहीं टिकता।",
+  "english": "And his heart (hṛdaya) burns; it does not stay in one place.",
+  "text_flags": [],
+  "notes": "The subject of 'avatiṣṭhate' is taken to be the hṛdaya; it could also be the man. GROUPING: appears to continue 97-98.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.99"
+  ],
+  "lines_deva": [
+   "हृदयं दह्यते चास्य नैकस्थानेऽवतिष्ठते"
+  ],
+  "lines_iast": [
+   "hṛdayaṃ dahyate cāsya naikasthāne'vatiṣṭhate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marmopaghātānmaraṇametairliṃgaiḥ",
+      "words": [
+       {
+        "w": "marma-upaghātāt",
+        "gloss": "marma; injury",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "etaiḥ",
+        "gloss": "these",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "liṅgaiḥ",
+        "gloss": "with signs",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "samaśnute",
+      "words": [
+       {
+        "w": "samaśnute",
+        "gloss": "he reaches",
+        "gram": "3 sg. pres. mid. sam-√aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्म पर आघात से वह इन लक्षणों के साथ मृत्यु को प्राप्त होता है।",
+  "english": "From injury to a marma he reaches death, with these signs (liṅga).",
+  "text_flags": [],
+  "notes": "The subject 'he' is not stated. 'etaiḥ liṅgaiḥ' refers back to the signs in 97-99. GROUPING: appears to complete 97-99.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.100"
+  ],
+  "lines_deva": [
+   "मर्मोपघातान्मरणमेतैर्लिंगैः समश्नुते"
+  ],
+  "lines_iast": [
+   "marmopaghātānmaraṇametairliṃgaiḥ samaśnute"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amarmaviddho'pinaraśchedabhedādipīḍitaḥ",
+      "words": [
+       {
+        "w": "a-marma-viddhaḥ",
+        "gloss": "not marma; pierced",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "naraḥ",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cheda-bheda-ādi-pīḍitaḥ",
+        "gloss": "cutting; splitting; and the rest; afflicted",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अमर्म में बिंधा हुआ भी मनुष्य, छेदन, भेदन आदि से पीड़ित,",
+  "english": "Even a man pierced at a non-marma (amarma), afflicted by cutting, splitting and the rest,",
+  "text_flags": [],
+  "notes": "The sentence is completed in 102 (verb 'tyajati'). 'amarmaviddha' can also be read 'not pierced at a marma'; the sense is the same. GROUPING: appears to continue in 102.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.101"
+  ],
+  "lines_deva": [
+   "अमर्मविद्धोऽपिनरश्छेदभेदादिपीडितः"
+  ],
+  "lines_iast": [
+   "amarmaviddho'pinaraśchedabhedādipīḍitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atinisrutaraktaśca",
+      "words": [
+       {
+        "w": "ati-nisruta-raktaḥ",
+        "gloss": "excessive; flowed out; blood",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyasyajati",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       },
+       {
+        "w": "tyajati",
+        "gloss": "gives up",
+        "gram": "3 sg. pres. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अत्यन्त बहे हुए रक्त वाला वह तुरन्त जीवन छोड़ देता है।",
+  "english": "and, with much blood flowed out, he gives up life at once.",
+  "text_flags": [
+   {
+    "src": "sadyasyajati",
+    "suggest": "sadyastyajati",
+    "why": "near certain: sadyaḥ + tyajati gives sadyas tyajati; the t is lost in print (the syllable count is unchanged)"
+   }
+  ],
+  "notes": "Completes the sentence begun in 101. GROUPING: appears to complete 101.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.102"
+  ],
+  "lines_deva": [
+   "अतिनिस्रुतरक्तश्च सद्यस्यजति जीवितं"
+  ],
+  "lines_iast": [
+   "atinisrutaraktaśca sadyasyajati jīvitaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ato'nyathā",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "than this",
+        "gram": "ind."
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viddhaḥ",
+      "words": [
+       {
+        "w": "viddhaḥ",
+        "gloss": "pierced",
+        "gram": "ppp. √vyadh, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaraśatairapi",
+      "words": [
+       {
+        "w": "śara-śataiḥ",
+        "gloss": "arrow; hundred",
+        "gram": "tat-puruṣa, n. inst. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे अन्यथा, तो सैकड़ों बाणों से बिंधा हुआ भी जीता है।",
+  "english": "Otherwise than this, however, one pierced even by hundreds of arrows lives.",
+  "text_flags": [],
+  "notes": "'ataḥ anyathā' refers back to the marma injury and the blood loss of 100-102. Regular sandhi: ataḥ anyathā = ato'nyathā.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.103"
+  ],
+  "lines_deva": [
+   "अतोऽन्यथा जीवति तु विद्धः शरशतैरपि"
+  ],
+  "lines_iast": [
+   "ato'nyathā jīvati tu viddhaḥ śaraśatairapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "puṇyavācchviyatāyuścana",
+      "words": [
+       {
+        "w": "puṇyavācchviyatāyuś",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kathaṃcinna",
+      "words": [
+       {
+        "w": "kathaṃcit",
+        "gloss": "in any way",
+        "gram": "ind."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुण्यवाच्छ्वियतायुश् अस्पष्ट, और किसी प्रकार भी वह जीवित न रहे, ऐसा नहीं है, अनुमानित पाठ पर।",
+  "english": "puṇyavācchviyatāyuś (unclear), and in no way does he not live, on a conjectural reading.",
+  "text_flags": [
+   {
+    "src": "puṇyavācchviyatāyuścana",
+    "suggest": "puṇyavān … yuś ca na (damaged; restoration unknown)",
+    "why": "possible: damaged; 'chviyatā' is not a known word; the start might be puṇyavān (meritorious) followed by a word for life-span, but no firm reading is built"
+   }
+  ],
+  "notes": "The first token is damaged and kept unsplit and unclear in both translations; I read its ending as 'yuś ca na' (the double negation 'na kathaṃcit na jīvati', 'in no way does he not live', then fits the preceding unit, but this depends on that reading, so the polarity of the sentence is not certain). The sense may be that a meritorious man with life left does not die. Metre: 16 syllables as printed. GROUPING: appears to continue 103. REVIEW: without taking 'ca na' out of the damaged token, the certain words are 'kathaṃcin na jīvati' = 'does not live in any way'; the double negation of the translation is a conjecture and the opposite polarity is possible. Human decision.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.104"
+  ],
+  "lines_deva": [
+   "पुण्यवाच्छ्वियतायुश्चन कथंचिन्न जीवति"
+  ],
+  "lines_iast": [
+   "puṇyavācchviyatāyuścana kathaṃcinna jīvati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādācaramocchāsāccikitsedeva",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "ā-carama-ucchvāsāt",
+        "gloss": "up to; last; breath",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "cikitset",
+        "gloss": "one should treat",
+        "gram": "3 sg. opt. desid. √kit"
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatnataḥ",
+      "words": [
+       {
+        "w": "yatnataḥ",
+        "gloss": "with effort",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए अन्तिम श्वास तक प्रयत्नपूर्वक चिकित्सा करनी ही चाहिए।",
+  "english": "Therefore one should treat, indeed, with effort, up to the last breath.",
+  "text_flags": [
+   {
+    "src": "tasmādācaramocchāsāccikitsedeva",
+    "suggest": "tasmādācaramocchvāsāc cikitsed eva",
+    "why": "near certain: 'ucchāsa' is not a known word; ucchvāsa (breath) fits and the v is easily lost in print (the syllable count is unchanged)"
+   }
+  ],
+  "notes": "The subject (the physician) is not stated. 'ācarama' is read as ā + carama, 'up to the last'. Printed 'ucchāsāt' is read as ucchvāsāt (see the flag). GROUPING: appears to continue 103-104.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.105"
+  ],
+  "lines_deva": [
+   "तस्मादाचरमोच्छासाच्चिकित्सेदेव यत्नतः"
+  ],
+  "lines_iast": [
+   "tasmādācaramocchāsāccikitsedeva yatnataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sadvaṃdhumitrānumataḥ",
+      "words": [
+       {
+        "w": "sat-bandhu-mitra-anumataḥ",
+        "gloss": "good, true; kinsman; friend; approved",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyākhyāyāturaṃ",
+      "words": [
+       {
+        "w": "pratyākhyāya",
+        "gloss": "having refused, rejected",
+        "gram": "abs. prati-ā-√khyā"
+       },
+       {
+        "w": "āturam",
+        "gloss": "patient, sick man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सज्जन बन्धुओं और मित्रों से अनुमत वैद्य, रोगी को अस्वीकार करके।",
+  "english": "The physician (bhiṣak), approved by good kinsmen and friends, having refused the patient.",
+  "text_flags": [],
+  "notes": "No main verb in this unit. 'pratyākhyāya' = having refused or rejected (the Sanskrit does not say 'to treat'). 'sat' may qualify only bandhu. Printed 'sadvaṃdhu' has v for b (v/b interchange in this print, normalised). GROUPING: appears to continue 105.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.106"
+  ],
+  "lines_deva": [
+   "सद्वंधुमित्रानुमतः प्रत्याख्यायातुरं भिषक्"
+  ],
+  "lines_iast": [
+   "sadvaṃdhumitrānumataḥ pratyākhyāyāturaṃ bhiṣak"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "marmavibhāgo",
+      "words": [
+       {
+        "w": "marma-vibhāgaḥ",
+        "gloss": "marma; division",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmasaptamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "saptamaḥ",
+        "gloss": "seventh",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार मर्मविभाग यानी मर्मों का विभाग नामक सप्तम अध्याय।",
+  "english": "Thus the seventh chapter, named Marmavibhāga (the division of the marmas).",
+  "text_flags": [],
+  "notes": "Colophon. GROUPING: this is the chapter colophon, not a verse; it is typed as a verse in the input. The tokens 'nāmasaptamo'dhyāyaḥ' are run together by sandhi.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.107"
+  ],
+  "lines_deva": [
+   "इति मर्मविभागो नामसप्तमोऽध्यायः"
+  ],
+  "lines_iast": [
+   "iti marmavibhāgo nāmasaptamo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]
