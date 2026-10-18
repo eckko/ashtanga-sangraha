@@ -406,6 +406,222 @@
   "uncertain": []
  },
  {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śleṣmā",
+      "words": [
+       {
+        "w": "śleṣmā",
+        "gloss": "Śleṣman (Kapha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paraṃsarvasaṃdhibaṃdhanamityuktaṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "highest, chief",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "sarva-sandhi-bandhanam",
+        "gloss": "all; joint; binder",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "uktam",
+        "gloss": "said",
+        "gram": "ppp. √vac, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāk",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before, earlier",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्लेष्मा यानी कफ तो सभी सन्धियों का परम बन्धन है, ऐसा पहले कहा गया।",
+  "english": "Śleṣman (Kapha), however, is the highest binder of all joints; thus it was said before.",
+  "text_flags": [],
+  "notes": "The printed 'paraṃsarvasaṃdhibaṃdhanam' joins param and sarva (spacing slip, split without a flag). 'param' read as 'highest, chief'; 'further' is possible. The earlier statement is not located here. Copula understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.93"
+  ],
+  "lines_deva": [
+   "श्लेष्मा तु परंसर्वसंधिबंधनमित्युक्तं प्राक्"
+  ],
+  "lines_iast": [
+   "śleṣmā tu paraṃsarvasaṃdhibaṃdhanamityuktaṃ prāk"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "netrāśritaṃ",
+      "words": [
+       {
+        "w": "netra-āśritam",
+        "gloss": "eye; resting in",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tejo",
+      "words": [
+       {
+        "w": "tejaḥ",
+        "gloss": "tejas (fire, radiance)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhyatejasā",
+      "words": [
+       {
+        "w": "bāhya-tejasā",
+        "gloss": "outer; tejas",
+        "gram": "karmadhāraya, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svayoninā",
+      "words": [
+       {
+        "w": "sva-yoninā",
+        "gloss": "own; source",
+        "gram": "bahuvrīhi, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yogācchastramivāśmanā",
+      "words": [
+       {
+        "w": "yogāt",
+        "gloss": "through union",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "śastram",
+        "gloss": "weapon",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "aśmanā",
+        "gloss": "with a stone",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇyaṃ",
+      "words": [
+       {
+        "w": "karmaṇyam",
+        "gloss": "fit for its work",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatiḥatiyogādupahanyate",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "ati-yogāt",
+        "gloss": "excess; through union",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "upahanyate",
+        "gloss": "is harmed",
+        "gram": "3 sg. pass. upa-√han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आँख में आश्रित तेज तो अपने उद्गम बाहरी तेज के योग से कर्म के योग्य होता है, जैसे शस्त्र पत्थर से। अतियोग से वह क्षति पाता है।",
+  "english": "The tejas (fire, radiance) resting in the eye becomes fit for its work through union with the outer tejas, its own source, as a weapon does with a stone; through excessive union it is harmed.",
+  "text_flags": [
+   {
+    "src": "bhavatiḥatiyogādupahanyate",
+    "suggest": "bhavati | atiyogādupahanyate",
+    "why": "possible: the visarga after bhavati looks like a misprinted danda; the two sentences run together"
+   }
+  ],
+  "notes": "Two sentences run together in the print (see text_flags); the first ends at 'bhavati'. 'svayoninā' is taken with bāhyatejasā ('its own source'). The stone (aśman) is probably a whetstone, but the Sanskrit only says 'stone'. karmaṇya = fit for work, functioning. The subject of 'upahanyate' (the tejas) is carried over.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.94"
+  ],
+  "lines_deva": [
+   "नेत्राश्रितं तु तेजो बाह्यतेजसा स्वयोनिना योगाच्छस्त्रमिवाश्मना कर्मण्यं भवतिःअतियोगादुपहन्यते"
+  ],
+  "lines_iast": [
+   "netrāśritaṃ tu tejo bāhyatejasā svayoninā yogācchastramivāśmanā karmaṇyaṃ bhavatiḥatiyogādupahanyate"
+  ],
+  "uncertain": []
+ },
+ {
   "n": "95",
   "lines": [
    {
@@ -752,6 +968,71 @@
   "uncertain": []
  },
  {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eṣāmādyāni",
+      "words": [
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m./n. gen. pl."
+       },
+       {
+        "w": "ādyāni",
+        "gloss": "first",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarmahāmarmasaṃjñāni",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "mahā-marma-saṃjñāni",
+        "gloss": "great; marma (vital point); named",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें से पहले सात फिर महामर्म नाम वाले हैं।",
+  "english": "Of these, the first seven, again, are named mahāmarma (great marma, vital point).",
+  "text_flags": [],
+  "notes": "'The first seven' are, in the order of 98, head, tongue-binding, throat, heart, navel, bladder, gūda (the order is the reader's inference from 98). Copula understood. marma is a doctrinal term (a vital point of the body) and is kept.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.99"
+  ],
+  "lines_deva": [
+   "एषामाद्यानि सप्त पुनर्महामर्मसंज्ञानि"
+  ],
+  "lines_iast": [
+   "eṣāmādyāni sapta punarmahāmarmasaṃjñāni"
+  ],
+  "uncertain": []
+ },
+ {
   "n": "100",
   "lines": [
    {
@@ -1048,6 +1329,357 @@
   "uncertain": []
  },
  {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catasro",
+      "words": [
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "māṃsarajjavaḥ",
+      "words": [
+       {
+        "w": "māṃsa-rajjavaḥ",
+        "gloss": "flesh; cords",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhavaṃśamubhayataḥ",
+      "words": [
+       {
+        "w": "pṛṣṭha-vaṃśam",
+        "gloss": "back; ridge, the spine (pṛṣṭhavaṃśa)",
+        "gram": "tat-puruṣa, m. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "peśīnibaṃdhanārthe",
+      "words": [
+       {
+        "w": "peśī-nibandhana-arthe",
+        "gloss": "peśī (muscle); binding; for the purpose of",
+        "gram": "tat-puruṣa, loc. sg. used as ind."
+       }
+      ]
+     },
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of them",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bāhye",
+      "words": [
+       {
+        "w": "bāhye",
+        "gloss": "outer",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "cābhyaṃtarasthite",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyantara-sthite",
+        "gloss": "inner; situated",
+        "gram": "tat-puruṣa, f. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार मांसरज्जु हैं, पृष्ठवंश यानी रीढ़ के दोनों ओर, पेशियों को बाँधने के लिए; उनमें दो बाहरी और दो भीतर स्थित।",
+  "english": "There are four flesh-cords (māṃsarajju) on both sides of the spine (pṛṣṭhavaṃśa), for the binding of the peśīs (muscles); of them two are outer and two are situated inside.",
+  "text_flags": [],
+  "notes": "Copula understood. peśī = muscle (standard). The cords are on both sides of the spine; the text does not say how many on each side. 'pṛṣṭhavaṃśam ubhayataḥ' takes the accusative with ubhayataḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.103"
+  ],
+  "lines_deva": [
+   "चतस्रो मांसरज्जवः पृष्ठवंशमुभयतः पेशीनिबंधनार्थे तासां द्वे बाह्ये द्वे चाभ्यंतरस्थिते"
+  ],
+  "lines_iast": [
+   "catasro māṃsarajjavaḥ pṛṣṭhavaṃśamubhayataḥ peśīnibaṃdhanārthe tāsāṃ dve bāhye dve cābhyaṃtarasthite"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sīvanyaḥ",
+      "words": [
+       {
+        "w": "sīvanyaḥ",
+        "gloss": "sīvanīs (sutures, seams; probable)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāḥ",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "of them, they",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṃca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śirasi",
+      "words": [
+       {
+        "w": "śirasi",
+        "gloss": "in the head",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jivhāmehanayorekaikā",
+      "words": [
+       {
+        "w": "jihvā-mehanayoḥ",
+        "gloss": "tongue; penis (mehana; standard)",
+        "gram": "dvandva, loc. du."
+       },
+       {
+        "w": "ekaikā",
+        "gloss": "one each",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सात सीवनी यानी सिलाई की रेखाएँ हैं; उनमें पाँच सिर में, जीभ और मेहन यानी शिश्न में एक-एक।",
+  "english": "There are seven sīvanīs (seams, probably sutures); of them five are in the head, one each in the tongue and the penis (mehana).",
+  "text_flags": [],
+  "notes": "sīvanī = sevanī, seam; 'suture' is the usual modern reading (probable). The count 5 + 1 + 1 = seven matches. Print: 'jivhā' for jihvā (letter reversal, normalised; flagged at 96). Copula understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.104"
+  ],
+  "lines_deva": [
+   "सप्त सीवन्यः ताः पंच शिरसि जिव्हामेहनयोरेकैका"
+  ],
+  "lines_iast": [
+   "sapta sīvanyaḥ tāḥ paṃca śirasi jivhāmehanayorekaikā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parihāryyāśca",
+      "words": [
+       {
+        "w": "parihāryāḥ",
+        "gloss": "to be avoided, to be spared",
+        "gram": "gerundive pari-√hṛ, f. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastreṇa",
+      "words": [
+       {
+        "w": "śastreṇa",
+        "gloss": "with the blade (śastra, surgical instrument)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और शस्त्र से परिहार्य यानी बचाने योग्य।",
+  "english": "And to be avoided with the śastra (blade, surgical instrument).",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 104 (the subject, presumably the sīvanīs, is not stated in this unit and is not supplied). parihārya = to be avoided; the sense 'to be spared from the cut' is the natural one. Print: doubled y in 'parihāryyāḥ' normalised.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.105"
+  ],
+  "lines_deva": [
+   "परिहार्य्याश्च शस्त्रेण"
+  ],
+  "lines_iast": [
+   "parihāryyāśca śastreṇa"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturdaśāsthisaṃghātāḥ",
+      "words": [
+       {
+        "w": "caturdaśa",
+        "gloss": "fourteen",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "asthi-saṃghātāḥ",
+        "gloss": "bone; assemblages, groups",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣāmekaiko",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ekaikaḥ",
+        "gloss": "one each",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gulphajānuvaṃkṣaṇamaṇibaṃdhakūrparakakṣāsu",
+      "words": [
+       {
+        "w": "gulpha-jānu-vaṅkṣaṇa-maṇibandha-kūrpara-kakṣāsu",
+        "gloss": "ankle; knee; groin; wrist; elbow; armpit",
+        "gram": "dvandva, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "trikajaśirasośca",
+      "words": [
+       {
+        "w": "trika-śirasoḥ",
+        "gloss": "trika (the sacral region, probable); head",
+        "gram": "dvandva, loc. du."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चौदह अस्थि-संघात यानी हड्डियों के समूह हैं; उनमें से एक-एक गुल्फ, जानु, वंक्षण, मणिबन्ध, कूर्पर और कक्षा में तथा, अनुमानित पाठ पर, त्रिक और सिर में।",
+  "english": "There are fourteen asthi-saṃghātas (bone assemblages); of them one each in the ankle, knee, groin, wrist, elbow and armpit, and, on a conjectural reading, in the trika (probably the sacral region) and the head.",
+  "text_flags": [
+   {
+    "src": "trikajaśirasośca",
+    "suggest": "trikaśirasoś ca",
+    "why": "possible: 'ja' looks like an inserted syllable; without it the places are twelve limb joints (6 sites on two sides) plus trika and head, which makes fourteen"
+   }
+  ],
+  "notes": "The sum 12 + 1 + 1 = 14 fits the flagged reading; this arithmetic is the evidence, not stated in the text. The translation adopts the corrected reading and is hedged ('on a conjectural reading'). 'trika' = the lower-back region (sacral, probable). 'ekaikaḥ' is taken as 'one each' (one at each of the paired places). Copula understood.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.05.106"
+  ],
+  "lines_deva": [
+   "चतुर्दशास्थिसंघाताः तेषामेकैको गुल्फजानुवंक्षणमणिबंधकूर्परकक्षासु त्रिकजशिरसोश्च"
+  ],
+  "lines_iast": [
+   "caturdaśāsthisaṃghātāḥ teṣāmekaiko gulphajānuvaṃkṣaṇamaṇibaṃdhakūrparakakṣāsu trikajaśirasośca"
+  ],
+  "uncertain": []
+ },
+ {
   "n": "107",
   "lines": [
    {
@@ -1059,12 +1691,7 @@
         "w": "tad-vat",
         "gloss": "likewise",
         "gram": "ind."
-       }
-      ]
-     },
-     {
-      "src": "te",
-      "words": [
+       },
        {
         "w": "sīmantāḥ",
         "gloss": "sīmantas (partings; here probably sutures of bone)",
@@ -1073,13 +1700,18 @@
       ]
      },
      {
-      "src": "tu",
+      "src": "te",
       "words": [
        {
         "w": "te",
         "gloss": "they",
         "gram": "m. nom. pl."
-       },
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
        {
         "w": "tu",
         "gloss": "but",
@@ -1134,6 +1766,61 @@
   ],
   "lines_iast": [
    "tadvatsīmaṃtāḥ te tu paṃca śirasītyaṣṭādaśa"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trīṇi",
+      "words": [
+       {
+        "w": "trīṇi",
+        "gloss": "three",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭhyā'dhikānyasthiśatāni",
+      "words": [
+       {
+        "w": "ṣaṣṭhyā",
+        "gloss": "by sixty",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "adhikāni",
+        "gloss": "exceeding, in excess",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "asthi-śatāni",
+        "gloss": "bone; hundreds",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन सौ अस्थियाँ साठ से अधिक, यानी तीन सौ साठ।",
+  "english": "Three hundred bones, in excess by sixty (that is, three hundred and sixty).",
+  "text_flags": [],
+  "notes": "Count translated as printed: 300 plus 60 = 360. Printed 'ṣaṣṭhyā'dhikāni': the avagraha after -ā is a print habit (no flag).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.05.108"
+  ],
+  "lines_deva": [
+   "त्रीणि षष्ठ्याऽधिकान्यस्थिशतानि"
+  ],
+  "lines_iast": [
+   "trīṇi ṣaṣṭhyā'dhikānyasthiśatāni"
   ],
   "uncertain": []
  },
@@ -1727,6 +2414,46 @@
   ],
   "lines_iast": [
    "triṃśat pṛṣṭhe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭāvurasi",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "urasi",
+        "gloss": "in the chest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ छाती में।",
+  "english": "Eight in the chest.",
+  "text_flags": [],
+  "notes": "Printed 'aṣṭāvurasi' = aṣṭau urasi. GROUPING: appears to continue the bone count of 108-114; the thing counted (bones) is not stated in the line and is not supplied. Elliptical: no verb is stated and none is supplied; the copula is understood. ",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.116"
+  ],
+  "lines_deva": [
+   "अष्टावुरसि"
+  ],
+  "lines_iast": [
+   "aṣṭāvurasi"
   ],
   "uncertain": []
  },
@@ -2333,6 +3060,77 @@
   ],
   "lines_iast": [
    "śeṣāṇi nalakānīti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāmānugatāmūnīni",
+      "words": [
+       {
+        "w": "nāma-anugatāni",
+        "gloss": "name; conforming to",
+        "gram": "tat-puruṣa, n. nom. pl."
+       },
+       {
+        "w": "amūni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṃca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidhānyasthīni",
+      "words": [
+       {
+        "w": "vidhāni",
+        "gloss": "kinds",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "asthīni",
+        "gloss": "bones",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नाम के अनुसार चलने वाली ये पाँच प्रकार की अस्थियाँ हैं, अनुमानित पाठ पर।",
+  "english": "These are five kinds of bones, following their names, on a conjectural reading.",
+  "text_flags": [
+   {
+    "src": "nāmānugatāmūnīni",
+    "suggest": "nāmānugatānyamūni",
+    "why": "possible: 'amūnīni' is not a word; nāmānugatāni + amūni with the sandhi -ny a- is the likely sense, and the five classes of 123-126 (kapāla, rucaka, taruṇa, valaya, nalaka) fit"
+   }
+  ],
+  "notes": "The five classes are kapāla (122), rucaka (123), taruṇa (124), valaya (125), nalaka (126) (the list is inferred from those units). 'following their names' = the name matches the nature of each class. Copula understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.05.127"
+  ],
+  "lines_deva": [
+   "नामानुगतामूनीनि पंच विधान्यस्थीनि"
+  ],
+  "lines_iast": [
+   "nāmānugatāmūnīni paṃca vidhānyasthīni"
   ],
   "uncertain": []
  },
