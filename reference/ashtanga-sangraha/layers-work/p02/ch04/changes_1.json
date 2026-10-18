@@ -1,0 +1,287 @@
+[
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "yasyāḥ",
+  "old": "of whom, whose (visarga lost before b-)",
+  "new": "of whom, whose (printed yasyā by regular sandhi before b-)",
+  "why": "reviewer (minor): 'visarga lost before b-' is wrong: yasyāḥ + b- gives yasyā b- by regular sandhi (āḥ before a voiced consonant), not a print loss."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "sahasra-dhautena",
+  "old": "bahuvrīhi, n. inst. sg.",
+  "new": "tat-puruṣa (sahasra 'thousand times' + dhauta), n. inst. sg.",
+  "why": "reviewer (minor): Labelled bahuvrīhi; 'thousand-washed' (washed a thousand times) is a tat-puruṣa/kṛdanta compound qualifying ghee, not a bahuvrīhi."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "With ghee (sarpis) washed a thousand times, one should smear (it) all round below the navel.",
+  "new": "With ghee (sarpis) washed a thousand times, one should smear (the area) all round below the navel.",
+  "why": "reviewer (minor): '(it)' reads as the ghee, but the object (the area) is unstated; keep the supplied noun neutral and consistent with the note."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "But when the blood flows too much, one should make (her) take, from that very (preparation), a measure of an akṣa.",
+  "new": "But when the blood flows too much, one should make (her) take, from that very (one), a measure of an akṣa.",
+  "why": "reviewer (minor): 'preparation' is a supplied noun on the forbidden list; tataḥ only means 'from that'."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "'tataḥ eva' (from that very) points back to the milk-and-ghee of unit 10; the sense is the same as the book's 'from that'. akṣa, picu and karṣa are synonyms of one weight (about 10 g in the standard reckoning); stated once here. The printed 'tata' is the ablative tataḥ with its visarga lost before e-.",
+  "new": "'tataḥ eva' (from that very) points back to the milk-and-ghee of unit 10; the sense is the same as the book's 'from that'. akṣa, picu and karṣa are synonyms of one weight (about 10 g in the standard reckoning); stated once here. The printed 'tata eva' is regular sandhi of tataḥ + eva.",
+  "why": "reviewer (minor): tataḥ + eva gives tata eva by regular sandhi (aḥ before e); not a print loss."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अथवा न्यग्रोध आदि की छाल और कोंपल का कल्क यानी लेई।",
+  "new": "अथवा न्यग्रोध आदि की छाल और कोंपल का कल्क यानी लुगदी।",
+  "why": "reviewer (minor): 'लेई' is a flour paste; the usual Hindi for kalka (drug paste) is लुगदी."
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "śaśa-aiṇa-hariṇa-rudhiram",
+  "old": "śaśa-aiṇa-hariṇa-rudhiram",
+  "new": "śaśa-eṇa-hariṇa-rudhiram",
+  "why": "reviewer (error): The split is wrong: the word is eṇa (black antelope), and śaśa + eṇa gives śaśaiṇa by sandhi. 'aiṇa' as a dictionary word is not what is meant (the draft's own gloss says 'of the eṇa antelope')."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "The reading 'aiṇa' is a conjecture, so the antelope is hedged ('probably'). Even without it the unit reads 'blood of the hare ... deer'.",
+  "new": "The reading 'eṇa' (śaśa + eṇa gives śaśaiṇa) is a conjecture, so the antelope is hedged ('probably'). Even without it the unit reads 'blood of the hare ... deer'.",
+  "why": "reviewer (error): The split is wrong: the word is eṇa (black antelope), and śaśa + eṇa gives śaśaiṇa by sandhi. 'aiṇa' as a dictionary word is not what is meant (the draft's own gloss says 'of the eṇa antelope')."
+ },
+ {
+  "n": "16",
+  "field": "text_flags.0.why",
+  "old": "possible: 'auṇa' is not a known word; 'aiṇa' (of the eṇa antelope) fits the animal list; the au/ai difference is a likely print error",
+  "new": "possible: 'auṇa' is not a known word; śaśa + eṇa (the eṇa antelope) gives śaśaiṇa, which fits the animal list; the au/ai difference is a likely print error",
+  "why": "reviewer (error): The split is wrong: the word is eṇa (black antelope), and śaśa + eṇa gives śaśaiṇa by sandhi. 'aiṇa' as a dictionary word is not what is meant (the draft's own gloss says 'of the eṇa antelope')."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Or vṛddhi (identity disputed), vidārī (probably Indian kudzu) and jīvantī (a milky climber), with milk.",
+  "new": "Or vṛddhi (identity disputed), vidārī (probably Indian kudzu) and jīvantī (Leptadenia reticulata, a milky climber; standard), with milk.",
+  "why": "reviewer (minor): Modern name missing in the English; jīvantī = Leptadenia reticulata (standard; Hindi डोडी is already given)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अथवा वृद्धि यानी अष्टवर्ग की वृद्धि नामक औषधि जिसकी पहचान विवादित है, विदारी यानी विदारीकन्द और जीवन्ती यानी डोडी, दूध के साथ।",
+  "new": "अथवा वृद्धि यानी अष्टवर्ग की वृद्धि नामक औषधि जिसकी पहचान विवादित है, विदारी यानी सम्भवतः विदारीकन्द और जीवन्ती यानी डोडी, दूध के साथ।",
+  "why": "reviewer (minor): English hedges vidārī as 'probably', the Hindi does not (tag is probable)."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Nīlotpala (blue water lily), sitā (sugar), pakloṣṭa [unclear], sandalwood (candana) and the like; or taṇḍulāmbu (rice-water); or sarasānyasareṇa [unclear].",
+  "new": "Nīlotpala (blue water lily), sitā (crystal sugar), pakloṣṭa [unclear], sandalwood (candana) and the like; or taṇḍulāmbu (rice-water); or sarasānyasareṇa [unclear].",
+  "why": "reviewer (minor): English 'sugar' vs Hindi 'मिश्री' disagree; sitā is crystal/white sugar."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Gandha, priyaṅgu (probable identification given in the notes), dark utpala, śālūka (probably the edible rhizome of a water lily), the unripe fruits of udumbara (cluster fig) and the shoots of nyagrodha; or (taken) with goat's milk.",
+  "new": "Gandha, priyaṅgu (probably Callicarpa macrophylla), dark utpala, śālūka (probably the edible rhizome of a water lily), the unripe fruits of udumbara (cluster fig) and the shoots of nyagrodha; or (taken) with goat's milk.",
+  "why": "reviewer (minor): The identification is neither in the English nor in the notes (only in `gloss`); the policy wants it beside the term."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Gandha, priyaṅgu (probably Callicarpa macrophylla), dark utpala, śālūka (probably the edible rhizome of a water lily), the unripe fruits of udumbara (cluster fig) and the shoots of nyagrodha; or (taken) with goat's milk.",
+  "new": "Gandha, priyaṅgu (probably Callicarpa macrophylla), dark utpala, śālūka (probably the edible rhizome of a water lily), the unripe fruits of udumbara (cluster fig) and the shoots of nyagrodha; or with goat's milk.",
+  "why": "reviewer (minor): '(taken)' supplies a verb the Sanskrit lacks (other units supply none)."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or with a decoction of kaseruka, lotus stalk (mṛṇāla), śṛṅgāṭaka (water chestnut), kāśmarya, parūṣaka, drākṣā (grape or raisin), sārivā, [unclear syllable ma], puṇḍarīka (probably the white lotus), ananta (identity disputed), utpala, tuber(s) (kanda) and seed(s) (bīja), sweet with sugar and honey.",
+  "new": "Or with a decoction of kaseruka, lotus stalk (mṛṇāla), śṛṅgāṭaka (water chestnut), kāśmarya, parūṣaka, drākṣā (grape or raisin), sārivā, [unclear syllable ma], puṇḍarīka (on a conjectural reading; probably the white lotus), ananta (identity disputed), utpala, tuber(s) (kanda) and seed(s) (bīja), sweet with sugar and honey.",
+  "why": "reviewer (error): puṇḍarīka rests on the printed proṃḍarīka (Devanagari प्रोंडरीक), a conjecture not marked in the translation (glossary: mark 'on a conjectural reading'). The printed string with the stray 'ma' might also hide e.g. prapauṇḍarīka/pauṇḍarīka (another drug name) rather than 'ma' + puṇḍarīka."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा, अस्पष्ट अक्षर, पुण्डरीक यानी सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "new": "अथवा कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "why": "reviewer (error): puṇḍarīka rests on the printed proṃḍarīka (Devanagari प्रोंडरीक), a conjecture not marked in the translation (glossary: mark 'on a conjectural reading'). The printed string with the stray 'ma' might also hide e.g. prapauṇḍarīka/pauṇḍarīka (another drug name) rather than 'ma' + puṇḍarīka."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or with a decoction of kaseruka, lotus stalk (mṛṇāla), śṛṅgāṭaka (water chestnut), kāśmarya, parūṣaka, drākṣā (grape or raisin), sārivā, [unclear syllable ma], puṇḍarīka (on a conjectural reading; probably the white lotus), ananta (identity disputed), utpala, tuber(s) (kanda) and seed(s) (bīja), sweet with sugar and honey.",
+  "new": "Or with a decoction of kaseruka (probably Scirpus grossus), lotus stalk (mṛṇāla), śṛṅgāṭaka (water chestnut), kāśmarya (Gmelina arborea), parūṣaka (phalsa, Grewia asiatica), drākṣā (grape or raisin), sārivā (Hemidesmus indicus), [unclear syllable ma], puṇḍarīka (on a conjectural reading; probably the white lotus), ananta (identity disputed), utpala, tuber(s) (kanda) and seed(s) (bīja), sweet with sugar and honey.",
+  "why": "reviewer (minor): Identifications given only in `gloss`, not beside the terms in the English."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "new": "अथवा कसेरुक यानी सम्भवतः कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "why": "reviewer (minor): Hindi lacks a plain name for sārivā and does not hedge kaseruka (probable)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा कसेरुक यानी सम्भवतः कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "new": "अथवा कसेरुक यानी सम्भवतः कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा यानी अनन्तमूल, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "why": "reviewer (minor): Hindi lacks a plain name for sārivā and does not hedge kaseruka (probable)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा कसेरुक यानी सम्भवतः कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा यानी अनन्तमूल, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा किया गया हो।",
+  "new": "अथवा कसेरुक यानी सम्भवतः कसेरू, कमलनाल, सिंघाड़ा, गम्भारी, फालसा, द्राक्षा यानी मुनक्का, सारिवा यानी अनन्तमूल, अस्पष्ट अक्षर, पुण्डरीक यानी अनुमानित पाठ पर, सम्भवतः श्वेत कमल, अनन्त यानी पहचान विवादित द्रव्य, उत्पल, कन्द और बीज के काढ़े से, जो शर्करा और शहद से मीठा हो।",
+  "why": "reviewer (minor): madhura = sweet; 'किया गया' adds that it was sweetened."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "Ambiguous: piṣṭam, śṛtam and kṣīram all agree (neuter), so it may be one noun 'milk (kṣīra) [made with] śāli flour or boiled with jīvanīya'. The literal two-item reading is given. The verb is carried from the earlier units and not supplied. 'jīvanīya' is the standard name of a drug group; its members are not named here.",
+  "new": "Ambiguous: piṣṭam, śṛtam and kṣīram all agree (neuter), so it may be one noun 'milk (kṣīra) [made with] śāli flour or boiled with jīvanīya'. The literal two-item reading is given. The verb is carried from the earlier units and not supplied. 'jīvanīya' is the standard name of a drug group; its members are not named here. The jīvanīya group is, in the classical (Caraka) list, ten drugs: jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka (standard for the group name; this line does not name the members, and several of them are themselves disputed).",
+  "why": "reviewer (minor): Missing useful identification: jīvanīya is the standard group of ten drugs."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "And one should feed red śāli rice-meal (odana), very cool, with milk boiled (on a conjectural reading) with balā, atibalā, śāli, ṣaṣṭika, sugarcane root (on a conjectural reading) and kākolī (identity disputed), together with honey and sugar; or with the broth of jāṅgala (dry-land game) that is cool in vīrya (potency).",
+  "new": "And one should feed red śāli rice-meal (odana), very cool, with milk boiled (on a conjectural reading) with balā (Sida cordifolia), atibalā (probably Abutilon indicum), śāli, ṣaṣṭika (sixty-day rice), sugarcane root (on a conjectural reading) and kākolī (identity disputed), together with honey and sugar; or with the broth of jāṅgala (dry-land game) that is cool in vīrya (potency).",
+  "why": "reviewer (minor): Modern names missing beside the terms (only in `gloss`)."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "और बला यानी बरियार, अतिबला यानी सम्भवतः कंघी, शालि, षष्टिक यानी साठी चावल, अनुमानित पाठ पर ईख की जड़ और काकोली, जिसकी पहचान विवादित है, से अनुमानित पाठ पर उबाले हुए दूध के साथ और शहद व शर्करा के साथ, बहुत ठण्डा लाल शालि का भात खिलाए, अथवा शीतवीर्य यानी शीतल शक्ति वाले जाङ्गल के रस से।",
+  "new": "और बला यानी बरियार, अतिबला यानी सम्भवतः कंघी, शालि, षष्टिक यानी साठी चावल, अनुमानित पाठ पर ईख की जड़ और काकोली, जिसकी पहचान विवादित है, से अनुमानित पाठ पर उबाले हुए दूध के साथ और शहद व शर्करा के साथ, बहुत ठण्डा लाल शालि का भात खिलाए, अथवा शीतवीर्य यानी शीतल शक्ति वाले जाङ्गल यानी शुष्क प्रदेश के वन्य पशुओं के रस से।",
+  "why": "reviewer (minor): jāṅgala is not glossed in the Hindi (English has 'dry-land game')."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "śṛtena",
+  "old": "ppp. √śrā/śṛ, m. inst. sg.",
+  "new": "ppp. √śrā, n. inst. sg. (agrees with payasā)",
+  "why": "reviewer (minor): Agrees with payasā (neuter), not masculine; root is √śrā."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Or with tāmravallī (unidentified), aśmantaka (identity disputed), śatāvarī (asparagus) and payasyā (identity disputed).",
+  "new": "Or with tāmravallī (unidentified), aśmantaka (identity disputed; usually Bauhinia racemosa), śatāvarī (asparagus) and payasyā (identity disputed).",
+  "why": "reviewer (minor): The usual candidate (Bauhinia racemosa) is in `gloss` only; English/Hindi give no name for the reader."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "अथवा ताम्रवल्ली, अश्मन्तक जिसकी पहचान विवादित है, शतावरी और पयस्याओं के साथ।",
+  "new": "अथवा ताम्रवल्ली, अश्मन्तक, जिसकी पहचान विवादित है और जिसे प्रायः आपटा माना जाता है, शतावरी और पयस्याओं के साथ।",
+  "why": "reviewer (minor): The usual candidate (Bauhinia racemosa) is in `gloss` only; English/Hindi give no name for the reader."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "vidārī-ādi-gaṇena",
+  "old": "vidārī (Pueraria tuberosa); and so on; group",
+  "new": "vidārī (Pueraria tuberosa; probable); and so on; group",
+  "why": "reviewer (minor): Pueraria tuberosa has no tag (probable elsewhere)."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा श्वदंष्ट्रा यानी गोखरू के स्वरस और दूध में पकाया हुआ घी।",
+  "new": "अथवा श्वदंष्ट्रा यानी गोखरू के स्वरस यानी निकाले हुए ताज़े रस और दूध में पकाया हुआ घी।",
+  "why": "reviewer (minor): svarasa is not glossed in Hindi."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "First fasting; likewise the drinking of a decoction of durālabhā, amṛtā (guḍūcī), uśīra (vetiver), parpaṭaka, ghana (mustā, nut-grass), sandalwood (candana), ativiṣā, balā, kaṭvaṅga (on a conjectural reading) and dhānyaka (coriander); and, as food, thin gruel (peyā) of tṛṇadhānya (grass-grains), śāli and ṣaṣṭika, with soups (yūṣa) of mudga (green gram) and the like; but when āma has been overcome, unctuous and cool (ones) as before.",
+  "new": "First fasting; likewise the drinking of a decoction of durālabhā (identity disputed; Alhagi or Fagonia), amṛtā (guḍūcī, Tinospora cordifolia), uśīra (vetiver), parpaṭaka (probably Fumaria parviflora), ghana (on a conjectural reading; mustā, nut-grass), sandalwood (candana), ativiṣā (Aconitum heterophyllum), balā (Sida cordifolia), kaṭvaṅga (on a conjectural reading; unidentified) and dhānyaka (coriander); and, as food, thin gruel (peyā) of tṛṇadhānya (grass-grains), śāli and ṣaṣṭika, with soups (yūṣa) of mudga (green gram) and the like; but when āma has been overcome, unctuous and cool (ones) as before.",
+  "why": "reviewer (error): Identifications missing beside the terms in the English; ghana is a conjectured reading but is not marked in the English or Hindi although the notes say it is; kaṭvaṅga is not marked 'unidentified'."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पहले उपवास, तथा दुरालभा यानी सम्भवतः जवासा, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी पित्तपापड़ा, घन यानी नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, कटुअंग नामक अज्ञात द्रव्य, जो अनुमानित पाठ पर कट्वंग है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "new": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी पित्तपापड़ा, घन यानी नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, कटुअंग नामक अज्ञात द्रव्य, जो अनुमानित पाठ पर कट्वंग है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "why": "reviewer (error): Identifications missing beside the terms in the English; ghana is a conjectured reading but is not marked in the English or Hindi although the notes say it is; kaṭvaṅga is not marked 'unidentified'."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी पित्तपापड़ा, घन यानी नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, कटुअंग नामक अज्ञात द्रव्य, जो अनुमानित पाठ पर कट्वंग है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "new": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, कटुअंग नामक अज्ञात द्रव्य, जो अनुमानित पाठ पर कट्वंग है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "why": "reviewer (error): Identifications missing beside the terms in the English; ghana is a conjectured reading but is not marked in the English or Hindi although the notes say it is; kaṭvaṅga is not marked 'unidentified'."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, कटुअंग नामक अज्ञात द्रव्य, जो अनुमानित पाठ पर कट्वंग है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "new": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, अनुमानित पाठ पर कट्वंग, जिसकी पहचान अज्ञात है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "why": "reviewer (error): Identifications missing beside the terms in the English; ghana is a conjectured reading but is not marked in the English or Hindi although the notes say it is; kaṭvaṅga is not marked 'unidentified'."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, अनुमानित पाठ पर कट्वंग, जिसकी पहचान अज्ञात है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "new": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, अनुमानित पाठ पर कट्वंग, जिसकी पहचान अज्ञात है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम यानी अपक्व रस जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "why": "reviewer (minor): Bare आम reads as 'mango' (glossary); तृणधान्य and पेया are not glossed."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, अनुमानित पाठ पर कट्वंग, जिसकी पहचान अज्ञात है, और धनिया के काढ़े का पान, और तृणधान्य, शालि तथा साठी चावल की पेया का भोजन, मूँग आदि के यूष के साथ; और जब आम यानी अपक्व रस जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "new": "पहले उपवास, तथा दुरालभा यानी जवासा या धमासा, जिसकी पहचान विवादित है, अमृता यानी गिलोय, उशीर यानी खस, पर्पटक यानी सम्भवतः पित्तपापड़ा, घन यानी अनुमानित पाठ पर नागरमोथा, चन्दन, अतिविषा यानी अतीस, बला यानी बरियार, अनुमानित पाठ पर कट्वंग, जिसकी पहचान अज्ञात है, और धनिया के काढ़े का पान, और तृणधान्य यानी घास के अनाज, शालि तथा साठी चावल की पेया यानी पतली लपसी का भोजन, मूँग आदि के यूष के साथ; और जब आम यानी अपक्व रस जीत लिया जाए तब पहले की तरह स्निग्ध और शीतल।",
+  "why": "reviewer (minor): Bare आम reads as 'mango' (glossary); तृणधान्य and पेया are not glossed."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "परन्तु आमगर्भ यानी कच्चे गर्भ के गिर जाने पर, अपनी सामर्थ्य के अनुसार मद्य यानी नशीले पेयों में से किसी एक को पिलाए, गर्भकोष्ठ यानी गर्भ के कोष्ठ, सम्भवतः गर्भाशय, की शुद्धि के लिए और पीड़ा को भुलाने के लिए।",
+  "new": "परन्तु आमगर्भ यानी कच्चे गर्भ के गिर जाने पर, सामर्थ्य के अनुसार मद्य यानी नशीले पेयों में से किसी एक को पिलाए, गर्भकोष्ठ यानी गर्भ के कोष्ठ, सम्भवतः गर्भाशय, की शुद्धि के लिए और पीड़ा को भुलाने के लिए।",
+  "why": "reviewer (minor): 'अपनी' adds a possessive; the text has only sāmarthyataḥ."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "One who does not drink madya (intoxicating drink) one should treat with yavāgūs (thick gruels) of uddālaka and the like, joined with pācanīya (digestion-promoting) substances, without sneha (oil, fat) and salt, and with sesame, for as many days as there are months.",
+  "new": "One should treat a non-drinker of madya (intoxicating drink) with yavāgūs (thick gruels) of uddālaka and the like, joined with pācanīya (digestion-promoting) substances, without sneha (oil, fat) and salt, and with sesame, for as many days as there are months.",
+  "why": "reviewer (minor): Awkward double subject; amadyapām is the object of upācaret."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "One should treat a non-drinker of madya (intoxicating drink) with yavāgūs (thick gruels) of uddālaka and the like, joined with pācanīya (digestion-promoting) substances, without sneha (oil, fat) and salt, and with sesame, for as many days as there are months.",
+  "new": "One should treat a non-drinker of madya (intoxicating drink) with yavāgūs (thick gruels) of uddālaka (identity disputed; probably a kind of kodo millet) and the like, joined with pācanīya (digestion-promoting) substances, without sneha (oil, fat) and salt, and with sesame, for as many days as there are months.",
+  "why": "reviewer (minor): Identification missing in translation (only in notes/gloss)."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "मद्य न पीने वाले को पाचनीय द्रव्यों से युक्त, स्नेह यानी तेल या वसा और लवण से रहित, तिल सहित, उद्दालक आदि की यवागू यानी गाढ़ी लपसियों से उपचार करे, जितने मास हों उतने दिन तक।",
+  "new": "मद्य न पीने वाले को पाचनीय द्रव्यों से युक्त, स्नेह यानी तेल या वसा और लवण से रहित, तिल सहित, उद्दालक यानी सम्भवतः कोदो की कोई किस्म, जिसकी पहचान विवादित है, आदि की यवागू यानी गाढ़ी लपसियों से उपचार करे, जितने मास हों उतने दिन तक।",
+  "why": "reviewer (minor): Identification missing in translation (only in notes/gloss)."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "फिर तृप्त करने वाले, बल की रक्षा करने वाले, स्नेहरहित आहारों से, दोष, धातु और क्लेद की शुद्धि होने तक।",
+  "new": "फिर तृप्त करने वाले, बल की रक्षा करने वाले, स्नेहरहित आहारों से, दोष, धातु और क्लेद की शुद्धि तक।",
+  "why": "reviewer (minor): 'होने' adds a verb (glossary: no added 'होने' in Hindi)."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "इसके बाद स्नेह यानी तेल या वसा के पान, बस्तियों और आहारों से, जो दीपनीय, पाचनीय, जीवनीय, बृंहणीय, मधुर और वात को हरने वाले हों।",
+  "new": "इसके बाद स्नेह यानी तेल या वसा के पान, बस्तियों यानी एनिमा और आहारों से, जो दीपनीय, पाचनीय, जीवनीय, बृंहणीय, मधुर और वात को हरने वाले हों।",
+  "why": "reviewer (minor): Bare बस्ति is ambiguous (bladder in u3); glossary asks to note the sense per unit."
+ }
+]
