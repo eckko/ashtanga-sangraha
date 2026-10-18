@@ -1,0 +1,717 @@
+{
+ "units": [
+  {
+   "n": "124",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "125",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "cāsminmalābhāvaḥ",
+     "problem": "Token is split asmin | mala-abhāvaḥ with no space in print and no sandhi (n before m unchanged), but no text_flag was given (glossary rule: flag every such split).",
+     "fix": "add flag",
+     "severity": "error",
+     "patch": {
+      "n": "128",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "cāsminmalābhāvaḥ",
+        "suggest": "cāsmin malābhāvaḥ",
+        "why": "words not separated in print; no sandhi applies at the junction between asmin and mala- (n before m is unchanged)"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śabdavānīṣacchabdapracuro'lpo",
+     "problem": "Split śabdavān | īṣat-... with no printed space and no sandhi (n after long vowel before a vowel is unchanged); no text_flag (bhūyānprathamataṃ in u136 is flagged on the same principle).",
+     "fix": "add flag",
+     "severity": "error",
+     "patch": {
+      "n": "131",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "paṃcātamā",
+        "suggest": "pañcātmā",
+        "why": "possible: 'ātamā' is not a word; pañcātmā ('five-natured', the wind with five forms) fits the sense and differs by one stray letter"
+       },
+       {
+        "src": "tasmāttasmānmūrcchanāviśeṣādamūrttaḥ",
+        "suggest": "tasmāt tasmān mūrcchanāviśeṣād amūrtaḥ",
+        "why": "words not separated in print; no sandhi applies at the junction between the two tasmāt (t before t is unchanged); the following t+m→n, d+a are regular sandhi. Also amūrttaḥ = amūrtaḥ (rtt normalisation, recorded once in the glossary)"
+       },
+       {
+        "src": "śabdavānīṣacchabdapracuro'lpo",
+        "suggest": "śabdavān īṣacchabdapracuro'lpo",
+        "why": "words not separated in print; no sandhi applies at the junction between śabdavān and īṣat- (n after a long vowel before a vowel is unchanged)"
+       }
+      ]
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूर्च्छना यानी सम्भवतः सघन या प्रबल होने से",
+     "problem": "Hindi hedge does not match English/gloss ('probably intensification'): Hindi adds 'सघन' (dense, thickening), which the English does not say.",
+     "fix": "Use the same sense as the English.",
+     "severity": "error",
+     "patch": {
+      "n": "131",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस-उस विशेष मूर्च्छना यानी सम्भवतः सघन या प्रबल होने से",
+      "new": "उस-उस विशेष मूर्च्छना यानी सम्भवतः प्रबलता से"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bodiless (amūrta)",
+     "problem": "Glossary (p02 ch05 k6): mūrta/amūrta = corporeal/non-corporeal; 'bodiless' is an inconsistent rendering.",
+     "fix": "non-corporeal (amūrta)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "131",
+       "op": "replace",
+       "field": "english",
+       "old": "bodiless (amūrta)",
+       "new": "non-corporeal (amūrta)"
+      },
+      {
+       "n": "131",
+       "op": "word",
+       "match_w": "amūrtaḥ",
+       "field": "gloss",
+       "value": "non-corporeal (amūrta)"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "and five-natured",
+     "problem": "'and' before 'five-natured' is supplied; the Sanskrit has a bare list (…alpo vā paṃcātamā).",
+     "fix": "drop 'and'",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "replace",
+      "field": "english",
+      "old": "or small, and five-natured",
+      "new": "or small, five-natured"
+     }
+    }
+   ]
+  },
+  {
+   "n": "132",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svāsthya-bala-upacaya-yuktam",
+     "problem": "gram says n. acc. sg. while the note and the word śarīra-yantram say nom./acc.; the adjective must carry the same case range.",
+     "fix": "n. nom./acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "word",
+      "match_w": "svāsthya-bala-upacaya-yuktam",
+      "field": "gram",
+      "value": "tat-puruṣa, n. nom./acc. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "as a deposit (nyāsa) within and without",
+     "problem": "The translation (and Hindi 'न्यास यानी धरोहर के रूप में') commits to an adverbial 'as a deposit', while the gloss says 'sense uncertain' and the note admits other readings; on a low-confidence unit the commitment is stronger than the evidence.",
+     "fix": "Hedge in both languages, e.g. English 'nyāsa (deposit, placing; sense uncertain) within and without' and Hindi 'न्यास यानी धरोहर या स्थापना, अर्थ अनिश्चित'. Owner decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धातुओं के उस प्रवाह",
+     "problem": "'उस' (that) is not in the Sanskrit (dhātu-pravāham) and is not in the English.",
+     "fix": "drop 'उस'",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धातुओं के उस प्रवाह के बीच",
+      "new": "धातुओं के प्रवाह के बीच"
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रसाद नामक रस का लेश",
+     "problem": "English has 'prasāda (clear essence)'; Hindi omits the gloss (glossary: प्रसाद यानी निर्मल सार).",
+     "fix": "प्रसाद यानी निर्मल सार नामक रस का लेश",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रसाद नामक रस का लेश",
+      "new": "प्रसाद यानी निर्मल सार नामक रस का लेश"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अस्पष्ट शब्द वाले स्रोतसों",
+     "problem": "Hindi 'खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों' reads as 'srotas having an unclear sound/word' and does not name the damaged token; sibling chunks write the printed word plus 'अस्पष्ट शब्द'; English '(unclear word)' also omits the printed form.",
+     "fix": "Name the printed word in both: English 'akāsanneṣu (unclear)'; Hindi 'अकासन्नेषु अस्पष्ट शब्द'.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "136",
+       "op": "replace",
+       "field": "hindi",
+       "old": "खुले मुख वाले अस्पष्ट शब्द वाले स्रोतसों में",
+       "new": "खुले मुख वाले, अकासन्नेषु अस्पष्ट शब्द, स्रोतसों में"
+      },
+      {
+       "n": "136",
+       "op": "replace",
+       "field": "english",
+       "old": "(unclear word)",
+       "new": "akāsanneṣu (unclear)"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "of each such part",
+     "problem": "'tasyaiva' carries eva; 'of each such part' drops it (Hindi has ही).",
+     "fix": "of each such part alone",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "english",
+      "old": "of each such part, a trace",
+      "new": "of each such part alone, a trace"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "avatīrṇasya",
+     "problem": "avatīrṇasya agrees with tasya/āhārasya (m.), but gram says n. gen. sg.",
+     "fix": "ppp. ava-√tṝ, m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "word",
+      "match_w": "avatīrṇasya",
+      "field": "gram",
+      "value": "ppp. ava-√tṝ, m. gen. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "akāsanneṣu / āsanneṣu",
+     "problem": "Unit is heavily damaged; six conjectures plus an unsplit word. Draft handles it as the glossary says (conjectural mark in both languages, unclear word unsplit, guess only in flag). Confidence low is right. Human decision still open: whether letter-level restorations (pravissṛto, prathamataṃ) really need the conjectural mark (book-wide OPEN).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "annarasa",
+     "problem": "Conjecture antarasa→annarasa is plausible (ta/na) and marked in both translations; alternative reading antara-rasa/anta-rasa given. Low confidence right. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने स्वरूप के नाश से",
+     "problem": "English renders upamarda as 'crushing', Hindi as 'नाश'; Hindi should carry the same literal sense.",
+     "fix": "अपने स्वरूप के उपमर्द यानी कुचले जाने से",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने स्वरूप के नाश से",
+      "new": "अपने स्वरूप के उपमर्द यानी कुचले जाने से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "food that has been properly taken",
+     "problem": "'samyag eva' - eva (only/alone) is dropped in English though Hindi has ही.",
+     "fix": "food that has been taken properly alone",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "english",
+      "old": "food that has been properly taken",
+      "new": "food that has been taken properly alone"
+     }
+    }
+   ]
+  },
+  {
+   "n": "141",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "142",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "raw, undigested material",
+     "problem": "'material' is a supplied noun; the gloss and the Sanskrit (āma) have only 'raw, undigested'.",
+     "fix": "āma (raw, undigested)",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "replace",
+      "field": "english",
+      "old": "(raw, undigested material)",
+      "new": "(raw, undigested)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kim-uta",
+     "problem": "kimuta is one indeclinable; the hyphen suggests a compound of two words.",
+     "fix": "w = kimuta",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "word",
+      "match_w": "kim-uta",
+      "field": "w",
+      "value": "kimuta"
+     }
+    },
+    {
+     "field": "english",
+     "where": "what to say, then, of",
+     "problem": "', then,' is not in the Sanskrit (kimuta = what to say of / how much more).",
+     "fix": "what to say of the heat lodged within",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "replace",
+      "field": "english",
+      "old": "what to say, then, of",
+      "new": "what to say of"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bāhyenāpi ca",
+     "problem": "The ca after bāhyenāpi is untranslated in both languages (the unit's first word 'And' / 'और').",
+     "fix": "'And even with external fire…' (owner may keep as is; untranslated-ca policy is OPEN)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोषोपक्रमणीय में कहे",
+     "problem": "English hedges 'doṣopakramaṇīya, probably a chapter title'; Hindi gives no gloss or hedge (glossary: Hindi must carry the identifications and hedges the English has).",
+     "fix": "दोषोपक्रमणीय यानी सम्भवतः दोष-चिकित्सा के अध्याय में कहे",
+     "severity": "error",
+     "patch": {
+      "n": "145",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोषोपक्रमणीय में कहे वात आदि के साधन से",
+      "new": "दोषोपक्रमणीय यानी सम्भवतः दोष-चिकित्सा के अध्याय में कहे वात आदि के साधन से"
+     }
+    },
+    {
+     "field": "english",
+     "where": "grahaṇī-roga, probably a digestive disorder",
+     "problem": "Identification is hedged but vague; a standard modern equivalent exists (grahaṇī roga ~ chronic malabsorption/sprue-type disorder, probable). Owner decision whether to add it in gloss, English and Hindi.",
+     "fix": "grahaṇī-roga (probably a malabsorption-type digestive disorder)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "146",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "there is",
+     "problem": "Fixed rendering (glossary, p02 ch12 k2): bhavati cātra = 'And on this matter there are:' / 'और इस विषय में ये हैं:'.",
+     "fix": "set English and Hindi, gloss 'there are'",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "146",
+       "op": "set",
+       "field": "english",
+       "value": "And on this matter there are:"
+      },
+      {
+       "n": "146",
+       "op": "set",
+       "field": "hindi",
+       "value": "और इस विषय में ये हैं:"
+      },
+      {
+       "n": "146",
+       "op": "word",
+       "match_w": "bhavati",
+       "field": "gloss",
+       "value": "there are"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "Lead-in formula",
+     "problem": "Note repeats itself and contradicts itself ('are its content' then 'appear to be its content').",
+     "fix": "single sentence with 'appear to be'",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "replace",
+      "field": "notes",
+      "old": "Lead-in formula; the verses that follow (units 147 onward) are its content. The verses that follow (unit 147 onward) appear to be its content; no break is asserted.",
+      "new": "Lead-in formula; the verses that follow (unit 147 onward) appear to be its content; no break is asserted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "147",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "148",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बेल के तन्तु",
+     "problem": "Hindi बेल is also bael (बिल्व, the glossary's own rendering) - confusing for pratāna 'tendril'.",
+     "fix": "लता के तन्तु",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्भवतः बेल के तन्तु",
+      "new": "सम्भवतः लता के तन्तु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "149",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "150",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "151",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "152",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अस्पष्ट शब्द या गमन",
+     "problem": "The damaged word is not named in either language (siblings write the printed form: 'X (unclear)' / 'X अस्पष्ट शब्द').",
+     "fix": "English 'vimārgapto (unclear) or going'; Hindi 'विमार्गप्तो अस्पष्ट शब्द या गमन'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "152",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अस्पष्ट शब्द या गमन",
+       "new": "विमार्गप्तो अस्पष्ट शब्द या गमन"
+      },
+      {
+       "n": "152",
+       "op": "replace",
+       "field": "english",
+       "old": "(unclear word) or going",
+       "new": "vimārgapto (unclear) or going"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "vimārgapto",
+     "problem": "Observation for the owner (from the reviewer's memory, not checked): the same verse appears in Caraka (Vimānasthāna, srotas chapter) as '...vimārgagamanaṃ cāpi srotasāṃ duṣṭilakṣaṇam'. That supports reading the damaged 'vimārgapto vā gamanaṃ' as a garbling of vimārga-gamanaṃ cāpi (going by a wrong path). Check the scan; do not adopt without the owner's decision.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "153",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कमलनाल के तन्तुओं के समान",
+     "problem": "'तन्तुओं' (fibres) is added; the Sanskrit has only bisānām, and the Hindi also omits the 'bisa' gloss the English has.",
+     "fix": "बिस यानी कमलनालों के समान सूक्ष्म और दूर तक फैले हुए।",
+     "severity": "error",
+     "patch": {
+      "n": "153",
+      "op": "set",
+      "field": "hindi",
+      "value": "बिस यानी कमलनालों के समान सूक्ष्म और दूर तक फैले हुए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "154",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "155",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "156",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "157",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वृष्य ... आदि प्रभाव",
+     "problem": "'आदि प्रभाव यानी' can be misread as 'etc. potency'.",
+     "fix": "insert a comma after आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "157",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आदि प्रभाव यानी",
+      "new": "आदि, प्रभाव यानी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "158",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "159",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "gone along a wrong path",
+     "problem": "Translation attaches 'gone along a wrong path' to the fire, but the note says vimārgage agrees with Samāna (locative absolute with samāne). English and Hindi contradict the note; also unclear who 'gone astray' is. Needs a human decision (reading: 'the fire is viṣama when [Samāna] has gone along a wrong path').",
+     "fix": "Choose one construction and make words, notes, English and Hindi agree.",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "On a conjectural reading",
+     "problem": "agniṃ→agnir/agniḥ substitutes another valid word-form (accusative agniṃ) in `words`; under the rule 'conjectural reading only where a substituted word is adopted in words' the translations may need the mark. Book-wide OPEN (letter-level restorations).",
+     "fix": "Owner to decide; if yes, prefix 'On a conjectural reading: ' / 'अनुमानित पाठ पर: '.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "160",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pitta-abhimūrcchite / kapha-pīḍite",
+     "problem": "Gender given (n.; m./n.) to adjectives that stand for an unstated noun; glossary: no gender, case and number only. (Pitta being neuter does not decide the gender of the participle.)",
+     "fix": "tat-puruṣa, loc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "160",
+       "op": "word",
+       "match_w": "pitta-abhimūrcchite",
+       "field": "gram",
+       "value": "tat-puruṣa, loc. sg."
+      },
+      {
+       "n": "160",
+       "op": "word",
+       "match_w": "kapha-pīḍite",
+       "field": "gram",
+       "value": "tat-puruṣa, loc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "161",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "162",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "163",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिराविभाग नामक",
+     "problem": "English glosses the title '(division of the sirā, vessels)'; Hindi gives no gloss.",
+     "fix": "सिराविभाग यानी सिराओं का विभाग नामक",
+     "severity": "minor",
+     "patch": {
+      "n": "163",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिराविभाग नामक",
+      "new": "सिराविभाग यानी सिराओं का विभाग नामक"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "typed as verse",
+     "problem": "Colophon typed as a verse unit in the input; draft note is right. Suggest retyping as colophon at merge.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "40 units reviewed (u124-u163). 7 errors, 27 minor. No plant or drug identification is wrong (sirā/veins, bisa/Nelumbo nucifera, pratāna/tendril, vṛṣya, grahaṇī are hedged or standard); none was added. Errors: two missing split flags (u128, u131), bhavati cātra number (u146), Hindi missing the hedge on doṣopakramaṇīya (u145), Hindi 'सघन' mismatch with 'intensification' (u131), Hindi 'तन्तुओं' added (u153), and u159 whose translation contradicts its own note on what vimārgage agrees with. Units needing a human decision: 133 (nyāsa), 136 and 152 (damaged; Caraka parallel for 152), 145 (grahaṇī equivalent), 159 (construction and conjectural mark). Checked and found fine: all other flags, the avagraha/hiatus cases, the 33 text_flags (src kept as printed, corrections only in words), the 6 conjectures of u136, u131 pañcātmā, u137 annarasa, u144 ūṣmaṇā with marks in both translations, 'unclear' unsplit in u136/u152 without mark. Hindi carries the glosses/hedges except where patched. No regrouping needed; the draft's 'appears to continue' GROUPING notes (u135-138, 147-148/153-154, 149-152, 155-158) are sensible and not stated as verse pairing.",
+ "glossary_suggestions": [
+  "mūrcchanā = 'probably intensification' / मूर्च्छना यानी सम्भवतः प्रबलता (same wording in English and Hindi); amūrta = non-corporeal (u131), abhimūrcchita = overcome (u160): same root, keep both hedged.",
+  "Hindi bare बेल = bael; for 'creeper' write लता.",
+  "bhavati cātra = 'And on this matter there are:' (u146 now follows this).",
+  "Unsplit damaged word: name the printed word in both languages ('akāsanneṣu (unclear)' / 'अकासन्नेषु अस्पष्ट शब्द').",
+  "Adjectives agreeing with an unstated noun (pittābhimūrcchite, kapha-pīḍite): gram without gender.",
+  "kimuta = 'what to say of' (one word, not kim-uta); no added 'then'.",
+  "āma = raw, undigested (no 'material'); āṭopa = gurgling, āntra-kūjana = intestinal murmuring (borborygmus-type, probable) - modern equivalent optional.",
+  "snāyu = ligament / स्नायु यानी हड्डियों को बाँधने वाले तन्तु; bisa = lotus stalks / बिस यानी कमलनाल.",
+  "OPEN: grahaṇī-roga modern equivalent (malabsorption/sprue-type, probable); atyagni = excessive fire (bhasmaka-type voracious hunger? unverified, keep out); vimārgapto (u152) vs Caraka parallel 'vimārgagamanaṃ cāpi'; u159 construction and conjectural mark for agniṃ→agnir."
+ ]
+}
