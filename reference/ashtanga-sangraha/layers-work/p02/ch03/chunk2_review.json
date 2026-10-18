@@ -83,7 +83,7 @@
      "where": "avagṛṇhāti",
      "problem": "`words` has avagṛhṇāti but the printed avagṛṇhāti is not flagged (silent emendation); the note calls it an \"attested spelling variant\", which is not established",
      "fix": "add a flag and soften the note",
-     "severity": "minor",
+     "severity": "error",
      "patch": [
       {
        "n": "52",
@@ -180,7 +180,7 @@
      "where": "muśalyāyāmena",
      "problem": "Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes.",
      "fix": "gloss unclear; translations \"(unclear)\" only",
-     "severity": "minor",
+     "severity": "error",
      "patch": [
       {
        "n": "57",
@@ -416,7 +416,7 @@
      "where": "and leads to injury",
      "problem": "\"and\" and \"leads to\" are supplied (the Sanskrit has only the dative upaghātāya and no connective before it)",
      "fix": "is for injury",
-     "severity": "minor",
+     "severity": "error",
      "patch": {
       "n": "74",
       "op": "replace",
@@ -499,7 +499,7 @@
      "where": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
      "problem": "`words` has upariṣṭāt but the printed upariṣṭhāt is not flagged (silent emendation); the note calls it a \"variant\", which is not established",
      "fix": "flag it",
-     "severity": "minor",
+     "severity": "error",
      "patch": [
       {
        "n": "82",
@@ -633,7 +633,7 @@
      "where": "alāmbu",
      "problem": "The flag says alāmbu \"is not changed\" but `words` has alābu (changed)",
      "fix": "correct the why",
-     "severity": "minor",
+     "severity": "error",
      "patch": {
       "n": "87",
       "op": "replace",
@@ -695,7 +695,7 @@
      "where": "and made into a paste",
      "problem": "\"and\" is supplied; the Sanskrit lists the three instrumentals (the second vā after kalkīkṛtaiḥ) without \"and\"; the Hindi has no \"and\"",
      "fix": "use commas",
-     "severity": "minor",
+     "severity": "error",
      "patch": {
       "n": "88",
       "op": "replace",
@@ -734,7 +734,7 @@
      "where": "she",
      "problem": "\"she\" is supplied; the subject is not stated (the draft notes this itself)",
      "fix": "one",
-     "severity": "minor",
+     "severity": "error",
      "patch": [
       {
        "n": "90",
