@@ -100,3 +100,9 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 - Flag every token split where the print has no space and no sandhi applies, including ṃ before a consonant.
 - srotasā hriyate (not āhriyate); abhyajyate = अभ्यंग किया जाता है; Hindi śobhana = शोभन यानी अच्छे (not शुभ); sāvitrī = Gāyatrī/Sāvitrī verse (standard).
 - OPEN ch12 k2: u35 puṣpāḍhya qualifies the four red-flowered trees?; u35 āyatana governs list or belongs to śvabhrāyatana; vakraṃ/vaktraṃ; aśnāti scope; u53 alternative parse (yasya syāt closes clause, āyur-ārogyaṃ vittam objects of aśnute); u55 malina-ambara-puṣpāṇām may qualify same forefathers/gods/twice-born; u59 āktān probably agrees with tilān; u58 sarpaṣān- p/ṣ metathesis of sarṣapān?; damaged-word rule conflict (translate "unclear" vs conjectural guess) still owner decision.
+
+(from p02 ch12 k1 review)
+- Hiatus again: छेदशब्दइष्टो, प्रवर्त्तनशब्दइति (u16) are regular hiatus, flags removed.
+- ādi = "and the like" (not "such as"). Hindi "on a conjectural reading" inline, never in brackets. chardi = छर्दि यानी उलटी. apasmāra standard. śvapāka = "dog-cooker".
+- godharājāhaka (u14): rājāhaka unsplit, unclear; hedgehog/porcupine guess for jāhaka only in notes.
+- OPEN ch12 k1: u4 "or" in vehicle list, aneka, loṣṭupāṃgāra, mārjanośastra, pala; u10 item count vs 108, rut-fluid "honey(-like)", cloud "heavy with water"; u12 scope of "na" in śikhi…śveti na gajājaka payaśca; u16 udara disease vs belly; u19 scope of "na" in na satkāro lābha…, stray r in lābhartuṣṭi, śubhāśubhā āturasya attachment; u21 list after tathā lacks predicate; u25 hasan nāryā vs hasan āryā.

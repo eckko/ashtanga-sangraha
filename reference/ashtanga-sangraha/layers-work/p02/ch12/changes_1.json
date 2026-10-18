@@ -1,0 +1,967 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अब इसके बाद हम शरीर सम्बन्धी दूतादिविज्ञानीय का व्याख्यान करेंगे।",
+  "new": "अब इसलिए हम शरीर सम्बन्धी दूतादिविज्ञानीय यानी दूत आदि के ज्ञान का व्याख्यान करेंगे।",
+  "why": "reviewer (minor): Hindi renders atha ataḥ as 'अब इसके बाद' (glossary: ataḥ = इसलिए, as in ch05-ch09, ch11) and, unlike the English, gives no gloss for the chapter name."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "sūcayanti",
+  "old": "3 pl. pres. √sūc (caus. type)",
+  "new": "3 pl. pres. √sūc",
+  "why": "reviewer (minor): '(caus. type)' in gram: 10th-class/curādi verbs are not marked caus. (glossary)."
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vyādhino",
+    "suggest": "vyādhitaḥ",
+    "why": "possible: vyādhin is not a regular nominative; vyādhitaḥ (diseased) is expected"
+   },
+   {
+    "src": "'nekojīrṇavivarṇamalinacchinnādraikavasanaḥ",
+    "suggest": "'nekajīrṇavivarṇamalinacchinnārdraikavasanaḥ",
+    "why": "possible: the o of 'neko' and the 'dra' for 'rdra' look like print slips; the compound should be aneka-...-ārdra-eka-vasanaḥ"
+   },
+   {
+    "src": "dūrādāhvayamānastṛṇaloṣṭupāṃgārabhasmatuṣasīsāsthikeśaśirolalāṭanāsikā''syadaṃtajihvāgrīvānakhā'nāmikā'ṃgulistanajaṭharanābhipṛṣṭhakaṭīmehanajaṃghākapālapalopalamuśalaśūrpopānanmārjanośastravastrāṃtadaśākārpāsabhagnacyutaspṛkkāṣṭhayaṣṭitulārajjupāśacarmaveṇuriktabhājanasnehabhājanadharaḥ",
+    "suggest": "loṣṭāṃgāra ... mārjanūṣaśastra ...",
+    "why": "possible: 'loṣṭopāṃgāra' read loṣṭāṃgāra, and 'mārjanośastra' read mārjanoṣaśastra / mārjana-ūṣa-śastra; 'spṛk' itself is unexplained"
+   }
+  ],
+  "new": [
+   {
+    "src": "vyādhino",
+    "suggest": "vyādhitaḥ",
+    "why": "possible: vyādhin is not a regular nominative; vyādhitaḥ (diseased) is expected"
+   },
+   {
+    "src": "'nekojīrṇavivarṇamalinacchinnādraikavasanaḥ",
+    "suggest": "'nekajīrṇavivarṇamalinacchinnārdraikavasanaḥ",
+    "why": "possible: the o of 'neko' and the 'dra' for 'rdra' look like print slips; the compound should be aneka-...-ārdra-eka-vasanaḥ"
+   },
+   {
+    "src": "dūrādāhvayamānastṛṇaloṣṭupāṃgārabhasmatuṣasīsāsthikeśaśirolalāṭanāsikā''syadaṃtajihvāgrīvānakhā'nāmikā'ṃgulistanajaṭharanābhipṛṣṭhakaṭīmehanajaṃghākapālapalopalamuśalaśūrpopānanmārjanośastravastrāṃtadaśākārpāsabhagnacyutaspṛkkāṣṭhayaṣṭitulārajjupāśacarmaveṇuriktabhājanasnehabhājanadharaḥ",
+    "suggest": "loṣṭāṃgāra ... mārjanūṣaśastra ...",
+    "why": "possible: the printed 'loṣṭupāṃgāra' read loṣṭāṃgāra, and 'mārjanośastra' read mārjanoṣaśastra / mārjana-ūṣa-śastra; 'spṛk' itself is unexplained"
+   },
+   {
+    "src": "vilikhangṛhītvā",
+    "suggest": "vilikhan gṛhītvā",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "deśekāle",
+    "suggest": "deśe kāle",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "rudanniṣṭhuro'maṃgalābhidhāyī",
+    "suggest": "rudan niṣṭhuro 'maṃgalābhidhāyī",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "pakkaṃ",
+    "suggest": "pakvaṃ",
+    "why": "possible: pakka is a Prakrit-type spelling; written pakva in words (orthographic normalisation)"
+   }
+  ],
+  "why": "reviewer (minor): Three tokens are split in `words` although the print has no space and no sandhi applies (vilikhan|gṛhītvā, deśe|kāle, rudan|niṣṭhuraḥ) and pakka is silently written pakva; the glossary requires a flag for each."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "GROUPING: one long sentence; the subject 'dūtaḥ' comes near the end (dūto vaidyam upasarpan aśubhaḥ). The giant compound 'tṛṇa...sneha-bhājana-dharaḥ' is printed as one word ending in -dharaḥ (bearer, holder) and is rendered as a list in the printed order; the body parts inside it (head, nose, ..., lower leg) sit oddly with 'bearer', and 'spṛk' (possibly 'touching') suggests the original may have listed things touched, but this is not certain and no verb is supplied. 'loṣṭopāṃgāra' is read as loṣṭa + aṅgāra (charcoal), and 'mārjanośastra' as mārjana + ūṣa (saline soil) + śastra; both are conjectural. 'pala' is flesh (pala can also be a measure); 'kapāla' skull or potsherd. 'pādābhyāṃ bhuvaṃ muñcan' is rendered literally, its sense is unclear. 'vyādhino' is a doubtful form (vyādhin nominative would be vyādhī); read as 'diseased'. 'neko' (before jīrṇa) has a visarga-o for which the compound gives no reason; 'aneka' is rendered 'of many kinds'. 'varṇottama' read as 'higher in varṇa than the patient'. jaṅghā = lower leg per glossary.",
+  "new": "GROUPING: one long sentence; the subject 'dūtaḥ' comes near the end (dūto vaidyam upasarpan aśubhaḥ). The giant compound 'tṛṇa...sneha-bhājana-dharaḥ' is printed as one word ending in -dharaḥ (bearer, holder) and is rendered as a list in the printed order; the body parts inside it (head, nose, ..., lower leg) sit oddly with 'bearer', and 'spṛk' (possibly 'touching') suggests the original may have listed things touched, but this is not certain and no verb is supplied. The printed 'loṣṭupāṃgāra' is read as loṣṭa + aṅgāra (charcoal), which does not match the print letter for letter (the letters 'u' and 'pā' are dropped; loṣṭa + pāṃsu 'dust' + aṅgāra is another possible guess), and 'mārjanośastra' as mārjana + ūṣa (saline soil) + śastra; both are conjectural. 'pala' is flesh (pala can also be a measure); 'kapāla' skull or potsherd. 'pādābhyāṃ bhuvaṃ muñcan' is rendered literally, its sense is unclear. 'vyādhino' is a doubtful form (vyādhin nominative would be vyādhī); read as 'diseased'. 'neko' (before jīrṇa) has a visarga-o for which the compound gives no reason; 'aneka' is rendered 'of many kinds'. 'varṇottama' read as 'higher in varṇa than the patient'. jaṅghā = lower leg per glossary.",
+  "why": "reviewer (minor): The note and the flag quote the print wrongly: the printed word is 'loṣṭupāṃgāra' (लोष्टुपांगार), not 'loṣṭopāṃgāra'. Reading it as loṣṭa + aṅgāra does not match the print letter for letter (the letters 'u' and 'pā' are dropped); loṣṭa + pāṃsu (dust) + aṅgāra would keep more of the print. Either way the reading is a guess, which is why it is marked conjectural."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "spṛk",
+  "old": "unclear (as printed; possibly 'touching')",
+  "new": "unclear (as printed)",
+  "why": "reviewer (minor): The gloss carries a guess ('possibly touching'); rule: guesses for damaged words go only in flags and notes, the gloss says 'unclear'."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal, ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil, weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious. Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+  "new": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal (on a conjectural reading), ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil, weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious. Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal (on a conjectural reading), ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil, weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious. Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+  "new": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal (on a conjectural reading), ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil (on a conjectural reading), weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious. Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal (on a conjectural reading), ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil (on a conjectural reading), weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious. Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+  "new": "Among these, a messenger who is higher in varṇa (class) than the patient, of another stage of life (āśrama), a heretic (pākhaṇḍa), a eunuch, shaven-headed, matted-haired, a woman, diseased, wearing a single garment of many kinds (aneka): old, discoloured, dirty, torn, wet; smeared with mud and oil, with red garlands and ointment, deformed in limbs, form and actions, riding a donkey, camel or buffalo, agitated, panting, weeping, harsh, speaking inauspicious things, calling from afar, a bearer of grass, clod, charcoal (on a conjectural reading), ashes, husk, lead, bone, hair, head, forehead, nose, mouth, tooth, tongue, neck, nail, ring finger, finger, breast, belly, navel, back, waist, penis, lower leg (jaṅghā), skull (kapāla; or potsherd), flesh (pala), stone, pestle, winnowing basket, shoe, broom, saline soil (on a conjectural reading), weapon, edge of a cloth, fringe, cotton, broken, fallen, spṛk (unclear), wood, staff, balance, rope, noose, leather, bamboo, empty vessel and vessel of oil or fat (sneha); releasing the ground with his feet, scratching, having taken a ripe fruit or a worthless (one) or another of that kind, in a place or at a time similar in quality to the disease, approaching the physician, is inauspicious.",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है। इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+  "new": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, अनुमानित पाठ पर कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है। इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, अनुमानित पाठ पर कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है। इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+  "new": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, अनुमानित पाठ पर कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, अनुमानित पाठ पर ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है। इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, अनुमानित पाठ पर कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, अनुमानित पाठ पर ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है। इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+  "new": "वहाँ रोगी से ऊँचे वर्ण का, दूसरे आश्रम का, पाखण्डी, षण्ढ यानी नपुंसक, मुण्डित सिर वाला, जटाधारी, स्त्री, रोगी, अनेक प्रकार का एक वस्त्र पहने हुए, जो पुराना, बदरंग, मैला, फटा, गीला है, कीचड़ और तेल से लिपटा, लाल मालाओं और लेप वाला, विकृत अंग रूप और कर्म वाला, गधा ऊँट या भैंसे पर सवार, घबराया हुआ, हाँफता, रोता, कठोर, अमंगल बोलने वाला, दूर से पुकारता हुआ, तृण, ढेला, अनुमानित पाठ पर कोयला, राख, भूसी, सीसा, हड्डी, केश, सिर, ललाट, नाक, मुख, दाँत, जीभ, गर्दन, नख, अनामिका, उँगली, स्तन, पेट, नाभि, पीठ, कमर, लिंग, जङ्घा यानी घुटने से टखने तक की टाँग, कपाल यानी खोपड़ी, मांस, पत्थर, मूसल, सूप, जूता, झाड़ू, अनुमानित पाठ पर ऊष यानी खारी मिट्टी, शस्त्र, वस्त्र का किनारा, झालर, रुई, टूटा, गिरा, स्पृक् जो अस्पष्ट है, काष्ठ, लाठी, तराजू, रस्सी, फन्दा, चमड़ा, बाँस, खाली पात्र और स्नेह यानी तेल या वसा का पात्र, इनका धारण करने वाला, पैरों से भूमि को छोड़ता हुआ, खरोंचता हुआ, पका फल या निःसार फल अथवा वैसी ही कोई और वस्तु लेकर, रोग के समान गुण वाले स्थान या समय में, जो दूत वैद्य के पास आता है, वह अशुभ है।",
+  "why": "reviewer (minor): The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "At dawn, one standing near liquids such as ghee and water, very cold and stiff, on a conjectural reading, is inauspicious in a Kapha disease, but auspicious in a Pitta disease.",
+  "new": "On a conjectural reading, at dawn, one standing near liquids (ghee, water and the like), very cold and stiff, is inauspicious in a Kapha disease, but auspicious in a Pitta disease.",
+  "why": "reviewer (minor): 'liquids such as ghee and water' adds 'such as' (ādi = 'and the like', glossary); the conjectural mark sits mid-sentence and in Hindi comes after the list (siblings put it at the head). The gloss of the compound repeats 'such as'. Also: the word-level reading 'samīpastham' (acc.) is taken as a nominative in the translation; the flag already notes this."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "भोर के समय घी, जल आदि द्रवों के पास खड़ा हुआ, अत्यन्त ठंडा और अकड़ा हुआ, अनुमानित पाठ पर, कफ के रोग में अशुभ है, परन्तु पित्त के रोग में शुभ है।",
+  "new": "अनुमानित पाठ पर, भोर के समय घी, जल आदि द्रवों के पास खड़ा हुआ, अत्यन्त ठंडा और अकड़ा हुआ, कफ के रोग में अशुभ है, परन्तु पित्त के रोग में शुभ है।",
+  "why": "reviewer (minor): 'liquids such as ghee and water' adds 'such as' (ādi = 'and the like', glossary); the conjectural mark sits mid-sentence and in Hindi comes after the list (siblings put it at the head). The gloss of the compound repeats 'such as'. Also: the word-level reading 'samīpastham' (acc.) is taken as a nominative in the translation; the flag already notes this."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "ghṛta-udaka-ādi-drava-samīpastham",
+  "old": "standing near liquids such as ghee and water",
+  "new": "standing near liquids (ghee, water and the like) (drava read for printed dva)",
+  "why": "reviewer (minor): 'liquids such as ghee and water' adds 'such as' (ādi = 'and the like', glossary); the conjectural mark sits mid-sentence and in Hindi comes after the list (siblings put it at the head). The gloss of the compound repeats 'such as'. Also: the word-level reading 'samīpastham' (acc.) is taken as a nominative in the translation; the flag already notes this."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "इसी प्रकार सेतु टूटने पर वमन, मेह यानी प्रमेह नामक मूत्र के रोग, अतिसार आदि में अशुभ है, परन्तु सेतु बाँधने पर शुभ है।",
+  "new": "इसी प्रकार सेतु टूटने पर छर्दि यानी उलटी, मेह यानी प्रमेह नामक मूत्र के रोग, अतिसार यानी दस्त आदि में अशुभ है, परन्तु सेतु बाँधने पर शुभ है।",
+  "why": "reviewer (minor): Hindi renders chardi as 'वमन' (glossary: chardi and vamana kept distinct) and leaves atisāra bare while English glosses it 'diarrhoea'."
+ },
+ {
+  "n": "8",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "tathāmadhyānhobhayasaṃdhyārdrārātricaturthīṣaṣṭhīnavamīparvadineṣu",
+    "suggest": "tathāmadhyāhnobhayasaṃdhyārdharātricaturthīṣaṣṭhīnavamīparvadineṣu",
+    "why": "possible: 'madhyānha' for madhyāhna (inversion); 'ārdrārātri' for ardharātri (midnight), dha/dra confusion and extra ā"
+   }
+  ],
+  "new": [
+   {
+    "src": "tathāmadhyānhobhayasaṃdhyārdrārātricaturthīṣaṣṭhīnavamīparvadineṣu",
+    "suggest": "tathāmadhyāhnobhayasaṃdhyārdharātricaturthīṣaṣṭhīnavamīparvadineṣu",
+    "why": "possible: 'madhyānha' for madhyāhna (inversion); 'ārdrārātri' for ardharātri (midnight), dha/dra confusion and extra ā; also 'tathā' is joined to madhyāhna with no space where no sandhi applies (written as separate words in words)"
+   },
+   {
+    "src": "vaidyaṃsuptaṃ",
+    "suggest": "vaidyaṃ suptaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "vikḻavaṃchiṃdaṃtaṃ",
+    "suggest": "vikḻavaṃ chiṃdaṃtaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): Tokens split in `words` without a printed space and without sandhi (ṃ before a consonant stays) have no flag (glossary rule)."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Likewise, at midday, at both twilights, at midnight (on a conjectural reading), on the fourth, sixth and ninth lunar days, on parva days, on seeing an eclipse (uparāga) of a graha or portents (utpāta), and under the nakṣatras Bharaṇī, Kṛttikā, Ārdrā, Āśleṣā, Maghā, Mūla and the Pūrvā ones, (the messenger) is inauspicious; and he who approaches the physician when he is asleep, naked, lying on the ground, anointed with oil, with loosened hair, facing south, agitated, cutting, breaking, inclined to fire-rites and rites for the ancestors, thinking and speaking what is inauspicious; or he who, having made an añjali toward the southern direction, stands on one foot, unevenly; and when the messenger is telling the abode of the patient, if the physician notices an inauspicious sense-object or imagines one, he should not follow him.",
+  "new": "Likewise, at midday, at both twilights, at midnight (on a conjectural reading), on the fourth, sixth and ninth lunar days, on parva days, on seeing an eclipse (uparāga) of a graha or portents (utpāta), and under the nakṣatras Bharaṇī, Kṛttikā, Ārdrā, Āśleṣā, Maghā, Mūla and the Pūrvā ones, (one) is inauspicious; and he who approaches the physician when he is asleep, naked, lying on the ground, anointed with oil, with loosened hair, facing south, agitated, cutting, breaking, inclined to fire-rites and rites for the ancestors, thinking and speaking what is inauspicious; or he who, having made an añjali toward the southern direction, stands on one foot, unevenly; and when the messenger is telling the abode of the patient, if the physician notices an inauspicious sense-object or imagines one, he should not follow him.",
+  "why": "reviewer (minor): The subject of aśubhaḥ is not stated; '(the messenger)' and Hindi 'दूत' supply it (the notes say none is supplied)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इसी प्रकार दोपहर, दोनों सन्ध्याओं, आधी रात (अनुमानित पाठ पर), चतुर्थी, षष्ठी और नवमी तिथियों, पर्व के दिनों, ग्रह के उपराग यानी ग्रहण या उत्पात के दर्शन में तथा भरणी, कृत्तिका, आर्द्रा, आश्लेषा, मघा, मूल और पूर्वा नक्षत्रों में दूत अशुभ है; और जो उस वैद्य के पास आता है जो सोया हुआ, नंगा, भूमि पर लेटा, तेल लगाए, खुले बाल वाला, दक्षिण की ओर मुख किए, घबराया हुआ, काटता, तोड़ता, अग्नि और पितृ कर्मों में लगा हुआ, अशुभ सोचता और कहता हो; या जो दक्षिण दिशा की ओर अंजलि करके विषम रूप से एक पैर पर खड़ा है; जिस दूत के रोगी का आश्रय बताते समय वैद्य अशुभ इन्द्रिय विषय को देखे या उसकी कल्पना करे, उसके पीछे न जाए।",
+  "new": "इसी प्रकार दोपहर, दोनों सन्ध्याओं, आधी रात (अनुमानित पाठ पर), चतुर्थी, षष्ठी और नवमी तिथियों, पर्व के दिनों, ग्रह के उपराग यानी ग्रहण या उत्पात के दर्शन में तथा भरणी, कृत्तिका, आर्द्रा, आश्लेषा, मघा, मूल और पूर्वा नक्षत्रों में अशुभ है; और जो उस वैद्य के पास आता है जो सोया हुआ, नंगा, भूमि पर लेटा, तेल लगाए, खुले बाल वाला, दक्षिण की ओर मुख किए, घबराया हुआ, काटता, तोड़ता, अग्नि और पितृ कर्मों में लगा हुआ, अशुभ सोचता और कहता हो; या जो दक्षिण दिशा की ओर अंजलि करके विषम रूप से एक पैर पर खड़ा है; जिस दूत के रोगी का आश्रय बताते समय वैद्य अशुभ इन्द्रिय विषय को देखे या उसकी कल्पना करे, उसके पीछे न जाए।",
+  "why": "reviewer (minor): The subject of aśubhaḥ is not stated; '(the messenger)' and Hindi 'दूत' supply it (the notes say none is supplied)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इसी प्रकार दोपहर, दोनों सन्ध्याओं, आधी रात (अनुमानित पाठ पर), चतुर्थी, षष्ठी और नवमी तिथियों, पर्व के दिनों, ग्रह के उपराग यानी ग्रहण या उत्पात के दर्शन में तथा भरणी, कृत्तिका, आर्द्रा, आश्लेषा, मघा, मूल और पूर्वा नक्षत्रों में अशुभ है; और जो उस वैद्य के पास आता है जो सोया हुआ, नंगा, भूमि पर लेटा, तेल लगाए, खुले बाल वाला, दक्षिण की ओर मुख किए, घबराया हुआ, काटता, तोड़ता, अग्नि और पितृ कर्मों में लगा हुआ, अशुभ सोचता और कहता हो; या जो दक्षिण दिशा की ओर अंजलि करके विषम रूप से एक पैर पर खड़ा है; जिस दूत के रोगी का आश्रय बताते समय वैद्य अशुभ इन्द्रिय विषय को देखे या उसकी कल्पना करे, उसके पीछे न जाए।",
+  "new": "इसी प्रकार दोपहर, दोनों सन्ध्याओं, आधी रात, अनुमानित पाठ पर, चतुर्थी, षष्ठी और नवमी तिथियों, पर्व के दिनों, ग्रह के उपराग यानी ग्रहण या उत्पात के दर्शन में तथा भरणी, कृत्तिका, आर्द्रा, आश्लेषा, मघा, मूल और पूर्वा नक्षत्रों में अशुभ है; और जो उस वैद्य के पास आता है जो सोया हुआ, नंगा, भूमि पर लेटा, तेल लगाए, खुले बाल वाला, दक्षिण की ओर मुख किए, घबराया हुआ, काटता, तोड़ता, अग्नि और पितृ कर्मों में लगा हुआ, अशुभ सोचता और कहता हो; या जो दक्षिण दिशा की ओर अंजलि करके विषम रूप से एक पैर पर खड़ा है; जिस दूत के रोगी का आश्रय बताते समय वैद्य अशुभ इन्द्रिय विषय को देखे या उसकी कल्पना करे, उसके पीछे न जाए।",
+  "why": "reviewer (minor): Hindi must not use brackets (brief); the mark goes inline."
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "apatya",
+  "old": "apatya",
+  "new": "apatyam",
+  "why": "reviewer (minor): Five tokens are split in `words` where the print has no space and no sandhi applies (and apatya|kṣamā loses an anusvara) without a flag."
+ },
+ {
+  "n": "10",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśadarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+    "suggest": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśādarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+    "why": "possible: 'ā' lost, giving ādarśa (mirror), an auspicious object; 'darśa' alone does not fit the list"
+   },
+   {
+    "src": "vaṃruṇamadhumadsiktagaṃḍagajastoyalaṃbo'budaḥ",
+    "suggest": "vāruṇamadhumadasiktagaṇḍagajastoyalambo'mbudaḥ",
+    "why": "possible: 'madsikta' for madasikta, 'budaḥ' for ambudaḥ; 'vaṃruṇa' is unexplained (vāruṇa?) and left unclear"
+   },
+   {
+    "src": "phalānyārdre",
+    "suggest": "phalānyārdram",
+    "why": "possible: ārdre (loc.) does not agree; ārdram with māṃsam (fresh meat) fits"
+   },
+   {
+    "src": "dharmārthakāmāmāśritaṃ",
+    "suggest": "dharmārthakāmāśritaṃ",
+    "why": "possible: stray 'mā' (kāmā-mā-śritam); dharma-artha-kāma-āśritam is expected"
+   },
+   {
+    "src": "ditiraditiruṃdhatī",
+    "suggest": "ditiraditirarundhatī",
+    "why": "possible: 'a' of arundhatī lost; read from the name"
+   }
+  ],
+  "new": [
+   {
+    "src": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśadarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+    "suggest": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśādarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+    "why": "possible: 'ā' lost, giving ādarśa (mirror), an auspicious object; 'darśa' alone does not fit the list"
+   },
+   {
+    "src": "vaṃruṇamadhumadsiktagaṃḍagajastoyalaṃbo'budaḥ",
+    "suggest": "vāruṇamadhumadasiktagaṇḍagajastoyalambo'mbudaḥ",
+    "why": "possible: 'madsikta' for madasikta, 'budaḥ' for ambudaḥ; 'vaṃruṇa' is unexplained (vāruṇa?) and left unclear"
+   },
+   {
+    "src": "phalānyārdre",
+    "suggest": "phalānyārdram",
+    "why": "possible: ārdre (loc.) does not agree; ārdram with māṃsam (fresh meat) fits"
+   },
+   {
+    "src": "dharmārthakāmāmāśritaṃ",
+    "suggest": "dharmārthakāmāśritaṃ",
+    "why": "possible: stray 'mā' (kāmā-mā-śritam); dharma-artha-kāma-āśritam is expected"
+   },
+   {
+    "src": "ditiraditiruṃdhatī",
+    "suggest": "ditiraditirarundhatī",
+    "why": "possible: 'a' of arundhatī lost; read from the name"
+   },
+   {
+    "src": "bhūmirabhyuddhṛtāsiddhamannaṃ",
+    "suggest": "bhūmir abhyuddhṛtā siddham annaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "sahasraṃnarāṇāṃ",
+    "suggest": "sahasraṃ narāṇāṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "maṃgalānāṃśataṃ",
+    "suggest": "maṃgalānāṃ śataṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "darśanātsparśanātkīrtanācāśubhāni",
+    "suggest": "darśanāt sparśanāt kīrtanāc cāśubhāni",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   },
+   {
+    "src": "sarasvatyapatyakṣamā",
+    "suggest": "sarasvatī apatyaṃ kṣamā",
+    "why": "possible: apatya and kṣamā are joined with no space and no anusvara where no sandhi applies; read as two words (apatyam, kṣamā), w gives apatyam"
+   }
+  ],
+  "why": "reviewer (minor): Five tokens are split in `words` where the print has no space and no sandhi applies (and apatya|kṣamā loses an anusvara) without a flag."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "tri-nayana",
+  "old": "m. nom. sg.",
+  "new": "dvandva member (stem)",
+  "why": "reviewer (minor): These four are given separate 'm. nom. sg.' labels, but 'toyotthitastrinayanamadhusūdanaskaṃdapadmāsanā' reads as toya-utthitaḥ + a dvandva tri-nayana-madhusūdana-skanda-padmāsanāḥ (ending -āḥ, plural; the first three are bare stems with no case ending, and w padma-āsanāḥ is plural against 'sg.')."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "madhu-sūdana",
+  "old": "m. nom. sg.",
+  "new": "dvandva member (stem)",
+  "why": "reviewer (minor): These four are given separate 'm. nom. sg.' labels, but 'toyotthitastrinayanamadhusūdanaskaṃdapadmāsanā' reads as toya-utthitaḥ + a dvandva tri-nayana-madhusūdana-skanda-padmāsanāḥ (ending -āḥ, plural; the first three are bare stems with no case ending, and w padma-āsanāḥ is plural against 'sg.')."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "skanda",
+  "old": "m. nom. sg.",
+  "new": "dvandva member (stem)",
+  "why": "reviewer (minor): These four are given separate 'm. nom. sg.' labels, but 'toyotthitastrinayanamadhusūdanaskaṃdapadmāsanā' reads as toya-utthitaḥ + a dvandva tri-nayana-madhusūdana-skanda-padmāsanāḥ (ending -āḥ, plural; the first three are bare stems with no case ending, and w padma-āsanāḥ is plural against 'sg.')."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "padma-āsanāḥ",
+  "old": "m. nom. sg.",
+  "new": "dvandva, m. nom. pl. (last member)",
+  "why": "reviewer (minor): These four are given separate 'm. nom. sg.' labels, but 'toyotthitastrinayanamadhusūdanaskaṃdapadmāsanā' reads as toya-utthitaḥ + a dvandva tri-nayana-madhusūdana-skanda-padmāsanāḥ (ending -āḥ, plural; the first three are bare stems with no case ending, and w padma-āsanāḥ is plural against 'sg.')."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन, मधुसूदन, स्कन्द, पद्मासन, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन, मधुसूदन, स्कन्द, पद्मासन, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन, मधुसूदन, स्कन्द, पद्मासन, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देता है।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण (अनुमानित पाठ पर), कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण, अनुमानित पाठ पर, कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण, अनुमानित पाठ पर, कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ (अनुमानित पाठ पर), पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण, अनुमानित पाठ पर, कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ, अनुमानित पाठ पर, पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण, अनुमानित पाठ पर, कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ, अनुमानित पाठ पर, पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस (अनुमानित पाठ पर), श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "new": "प्रस्थान, गमन और प्रवेश के समय: दही, मधु, घी, लाजा यानी भुना अन्न, पुष्प, अक्षत यानी अखण्ड चावल, उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, मोती, मणि, कुशा, दर्पण, अनुमानित पाठ पर, कन्या, ध्वज, रथ, राष्ट्र, उपहार, पासा, राजा, श्री, वृक्ष, भद्रपीठ, फसलें, मछलियाँ, घोड़े, हंस, चाष यानी सम्भवतः नीलकण्ठ, बैल, सिंह, दक्षिणावर्त शंख, कमल, सिद्धार्थक यानी सफेद सरसों, रोचना यानी सम्भवतः गोरोचन, स्वस्तिक, तोरण, कीचक यानी सम्भवतः सीटी जैसी ध्वनि करने वाला बाँस, वेणु यानी बाँस, अस्पष्ट शब्द के साथ मधु और मद से भीगे गण्डस्थल वाला हाथी, पानी से लदा लटकता मेघ, अनुमानित पाठ पर, पूर्ण कलश, हल्दी, पर्वत, इन्द्र, फल, ताज़ा मांस, अनुमानित पाठ पर, श्वेत चामर, बछड़े वाली गाय, पुत्र वाली स्त्री, मनुष्य, वर्धमान, हजार मनुष्य, जुते हुए वाहन, धन्वन्तरि, वामन यानी बौना, ब्राह्मण, उठाई हुई पृथ्वी, पका हुआ अन्न, जल से उठा हुआ वराह, त्रिनयन यानी तीन नेत्रों वाले, मधुसूदन, स्कन्द, पद्मासन यानी कमल पर बैठे हुए, लोकपाल, देवता, आकाश, दिशाएँ, अग्नि, सरोवर, बहती नदियाँ, समुद्र, यज्ञ, वायु, ज्योतिष, धर्मशास्त्र, तीर्थ, धर्म अर्थ और काम पर आश्रित काव्य, वालखिल्य आदि, वेद का वचन, निधि, कौस्तुभ, सोना, मणिभद्र, सुमेरु, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, दीपक, वचा यानी बच और मोदक यानी एक मिठाई, दिति, अदिति, अरुन्धती, बुद्धि, सावित्री, उमा, आकाशगंगा, शची, देवसेना, सुधा, शान्ति, लक्ष्मी, सरस्वती, सन्तान, क्षमा, स्वस्ति शब्द, वषट्कार, ओंकार, पुण्याह और धर्म कर्म, मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम कार्यसिद्धि देते हैं।",
+  "why": "reviewer (minor): English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Further.",
+  "new": "And further.",
+  "why": "reviewer (minor): Every sibling (ch07, ch08) renders apica 'And further.' / और भी; this one has 'Further.'; also the space-missing flag."
+ },
+ {
+  "n": "11",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "apica",
+    "suggest": "api ca",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): flags added/changed/removed as described in the other issues of this unit"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "पुरुष नाम वाले पक्षी बाईं ओर हों तो शुभ हैं; शिवा यानी सम्भवतः सियारिन, श्यामा, पिंगला, कोकिला, अस्पष्ट शब्द रला, छुछुन्दरी, सूकरी, घर की छिपकली और एक खुर वाले पशु, स्त्री नाम वाले, दाहिनी ओर शुभ हैं; मोर, भालू, श्रीकण्ठ और कुत्ता, ऐसा, नहीं; हाथी, बकरा और पयस् यानी दूध या जल भी; प्रवेश के समय ये उलटे हैं। और सब जगह अनुमानित पाठ पर कुत्ते और सियार का दाहिने से बाईं ओर जाना अनिष्ट है; मृग और पक्षियों का उलटा है।",
+  "new": "पुरुष नाम वाले पक्षी बाईं ओर शुभ हैं; शिवा यानी सम्भवतः सियारिन, श्यामा, पिंगला, कोकिला, अस्पष्ट शब्द रला, छुछुन्दरी, सूकरी, घर की छिपकली और एक खुर वाले पशु, स्त्री नाम वाले, दाहिनी ओर शुभ हैं; मोर, भालू, श्रीकण्ठ और कुत्ता, ऐसा, नहीं; हाथी, बकरा और पयस् यानी दूध या जल भी; प्रवेश के समय ये उलटे हैं। और सब जगह अनुमानित पाठ पर कुत्ते और सियार का दाहिने से बाईं ओर जाना अनिष्ट है; मृग और पक्षियों का उलटा है।",
+  "why": "reviewer (minor): 'हों तो' makes the clause conditional ('if they are on the left'), which the Sanskrit does not say; chuchundarī and sūkarī are bare in Hindi while English glosses them (musk shrew, sow)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "पुरुष नाम वाले पक्षी बाईं ओर शुभ हैं; शिवा यानी सम्भवतः सियारिन, श्यामा, पिंगला, कोकिला, अस्पष्ट शब्द रला, छुछुन्दरी, सूकरी, घर की छिपकली और एक खुर वाले पशु, स्त्री नाम वाले, दाहिनी ओर शुभ हैं; मोर, भालू, श्रीकण्ठ और कुत्ता, ऐसा, नहीं; हाथी, बकरा और पयस् यानी दूध या जल भी; प्रवेश के समय ये उलटे हैं। और सब जगह अनुमानित पाठ पर कुत्ते और सियार का दाहिने से बाईं ओर जाना अनिष्ट है; मृग और पक्षियों का उलटा है।",
+  "new": "पुरुष नाम वाले पक्षी बाईं ओर शुभ हैं; शिवा यानी सम्भवतः सियारिन, श्यामा, पिंगला, कोकिला, अस्पष्ट शब्द रला, छुछुन्दरी यानी छछूंदर, सूकरी यानी मादा सूअर, घर की छिपकली और एक खुर वाले पशु, स्त्री नाम वाले, दाहिनी ओर शुभ हैं; मोर, भालू, श्रीकण्ठ और कुत्ता, ऐसा, नहीं; हाथी, बकरा और पयस् यानी दूध या जल भी; प्रवेश के समय ये उलटे हैं। और सब जगह अनुमानित पाठ पर कुत्ते और सियार का दाहिने से बाईं ओर जाना अनिष्ट है; मृग और पक्षियों का उलटा है।",
+  "why": "reviewer (minor): 'हों तो' makes the clause conditional ('if they are on the left'), which the Sanskrit does not say; chuchundarī and sūkarī are bare in Hindi while English glosses them (musk shrew, sow)."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "śikhi-bhallūka-śrīkaṇṭha-śva",
+  "old": "dvandva, m. nom. sg.",
+  "new": "dvandva (stem, before iti)",
+  "why": "reviewer (minor): Both are bare dvandva stems (before 'iti' and 'payaḥ') but carry 'm. nom. sg.': no case ending is printed and the sense is plural."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "gaja-ajaka",
+  "old": "dvandva, m. nom. sg.",
+  "new": "dvandva (stem)",
+  "why": "reviewer (minor): Both are bare dvandva stems (before 'iti' and 'payaḥ') but carry 'm. nom. sg.': no case ending is printed and the sense is plural."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "In every way, also, the sight of the bharadvāja (probably the skylark), cāṣa, bhāsa (vulture) and mongooses.",
+  "new": "In every way, also, the sight of the bharadvāja (probably the skylark), cāṣa (probably the Indian roller), bhāsa (probably the vulture) and mongooses.",
+  "why": "reviewer (minor): English and Hindi leave cāṣa and bhāsa unhedged although the notes tag both 'probable' (unit 10 hedges cāṣa 'probably the Indian roller'); Hindi also lacks the hedge for bhāsa."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हर प्रकार से भरद्वाज यानी सम्भवतः भरत पक्षी, चाष, भास यानी गिद्ध और नेवलों का दर्शन।",
+  "new": "हर प्रकार से भरद्वाज यानी सम्भवतः भरत पक्षी, चाष यानी सम्भवतः नीलकण्ठ, भास यानी सम्भवतः गिद्ध और नेवलों का दर्शन।",
+  "why": "reviewer (minor): English and Hindi leave cāṣa and bhāsa unhedged although the notes tag both 'probable' (unit 10 hedges cāṣa 'probably the Indian roller'); Hindi also lacks the hedge for bhāsa."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "śaśa-sarpa-ajā-avi-godha-rāja-jāhaka-sūkarāṇām",
+  "old": "of hare, snake, goat, sheep, monitor lizard, rāja (unclear), jāhaka (hedgehog or porcupine; probable), boar (conjectural)",
+  "new": "of hare, snake, goat, sheep, monitor lizard, rājāhaka (unclear), boar (conjectural)",
+  "why": "reviewer (error): The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note."
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "śaśa-sarpa-ajā-avi-godha-rāja-jāhaka-sūkarāṇām",
+  "old": "śaśa-sarpa-ajā-avi-godha-rāja-jāhaka-sūkarāṇām",
+  "new": "śaśa-sarpa-ajā-avi-godha-rājāhaka-sūkarāṇām",
+  "why": "reviewer (error): The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Of hare, snake, goat, sheep, monitor lizard, rāja (unclear), jāhaka (probably hedgehog or porcupine) and boar (on a conjectural reading), the mention is desired, but not the sight; and the cry; the reverse for bear and monkey.",
+  "new": "Of hare, snake, goat, sheep, monitor lizard, rājāhaka (unclear) and boar (on a conjectural reading), the mention is desired, but not the sight; and the cry; the reverse for bear and monkey.",
+  "why": "reviewer (error): The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "खरगोश, साँप, बकरी, भेड़, गोह, राज शब्द जो अस्पष्ट है, जाहक यानी सम्भवतः साही और सूअर (अनुमानित पाठ पर) का नाम लेना इष्ट है, दर्शन नहीं; और ध्वनि भी; रीछ और वानर के लिए उलटा है।",
+  "new": "खरगोश, साँप, बकरी, भेड़, गोह, अस्पष्ट शब्द राजाहक और अनुमानित पाठ पर सूअर का नाम लेना इष्ट है, दर्शन नहीं; और ध्वनि भी; रीछ और वानर के लिए उलटा है।",
+  "why": "reviewer (error): The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "Verbless; 'iṣṭam' (desired) is carried to 'virutam' (the cry) on the natural reading and no copula is supplied. 'godharājāhakamūkarāṇām' is read godha + rāja + jāhaka + sūkara: 'rāja' is left unclear (a word such as 'rājī' or 'ahi' may be intended), jāhaka is probably hedgehog or porcupine (probable), and the printed 'mūkara' is read as sūkara (boar) conjecturally. godha = monitor lizard (standard). The printed 'viparītaṃmṛkṣa' has an extra m before ṛkṣa. The printed 'ajā'vi' has the avagraha after ā (print habit).",
+  "new": "Verbless; 'iṣṭam' (desired) is carried to 'virutam' (the cry) on the natural reading and no copula is supplied. In 'godharājāhakamūkarāṇām' the stretch 'rājāhaka' is left unsplit and unclear: reading it as rāja + jāhaka does not match the printed letters (one 'jā' is printed, not two). Guesses only here: godhā + jāhaka (monitor lizard, hedgehog or porcupine) with a stray 'ra', or a word such as 'rājī' or 'ahi'. The printed 'mūkara' is read as sūkara (boar) conjecturally. godha = monitor lizard (standard). The printed 'viparītaṃmṛkṣa' has an extra m before ṛkṣa. The printed 'ajā'vi' has the avagraha after ā (print habit).",
+  "why": "reviewer (error): The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note."
+ },
+ {
+  "n": "14",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śaśasarpājā'vigodharājāhakamūkarāṇāṃ",
+    "suggest": "śaśasarpājāvigodharājāhakasūkarāṇāṃ",
+    "why": "possible: 'mūkara' is not a word; sūkara (boar) is expected in this list"
+   },
+   {
+    "src": "caviparītaṃmṛkṣavānarayoḥ",
+    "suggest": "caviparītaṃṛkṣavānarayoḥ",
+    "why": "possible: stray 'm' before ṛkṣa (ṛkṣa-vānarayoḥ, of bear and monkey)"
+   }
+  ],
+  "new": [
+   {
+    "src": "śaśasarpājā'vigodharājāhakamūkarāṇāṃ",
+    "suggest": "śaśasarpājāvigodharājāhakasūkarāṇāṃ",
+    "why": "possible: 'mūkara' is not a word; sūkara (boar) is expected in this list; the stretch 'rājāhaka' is not restored (kept unclear, see notes)"
+   },
+   {
+    "src": "caviparītaṃmṛkṣavānarayoḥ",
+    "suggest": "ca viparītaṃ ṛkṣavānarayoḥ",
+    "why": "possible: stray 'm' before ṛkṣa (ṛkṣa-vānarayoḥ, of bear and monkey); also 'ca' is joined to viparītam with no space where no sandhi applies"
+   }
+  ],
+  "why": "reviewer (minor): The flag's suggestion did not separate 'ca viparītaṃ' (space missing, no sandhi)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "सरट यानी सम्भवतः गिरगिट, मुर्गे, बिल्ली और उल्लुओं का तो सब कुछ ही अनिष्ट है।",
+  "new": "सरट यानी सम्भवतः गिरगिट या बगीचे की छिपकली, मुर्गे, बिल्ली और उल्लुओं का तो सब कुछ ही अनिष्ट है।",
+  "why": "reviewer (minor): English says 'chameleon or garden lizard' (probable); Hindi has only गिरगिट."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "'iṣṭaḥ' is stated once and carried to the later pairs (elliptical; no verb supplied). Identifications: granthi = nodule or cyst, arbuda = tumour (standard); gulma = abdominal lump (probable); udara here is the abdominal disease (probably the swelling of the belly), not the belly itself (probable); atisāra = diarrhoea (standard); raktapitta = a bleeding disorder (standard); aśmarī = urinary stone (standard); udāvarta = a disorder in which the downward wind is turned upward, with stoppage of stool and wind (probable). The printed 'chedaśabdaiṣṭo' and 'pravarttanaśabdaiti' fuse 'śabdaḥ iṣṭaḥ' and 'śabdaḥ iti'; the doubled -rtt- of pravarttana is normalised (recorded once book-wide).",
+  "new": "'iṣṭaḥ' is stated once and carried to the later pairs (elliptical; no verb supplied). Identifications: granthi = nodule or cyst, arbuda = tumour (standard); gulma = abdominal lump (probable); udara here is the abdominal disease (probably the swelling of the belly), not the belly itself (probable); atisāra = diarrhoea (standard); raktapitta = a bleeding disorder (standard); aśmarī = urinary stone (standard); udāvarta = a disorder in which the downward wind is turned upward, with stoppage of stool and wind (probable). 'chedaśabdaiṣṭo' (छेदशब्दइष्टो) and 'pravarttanaśabdaiti' (प्रवर्त्तनशब्दइति) are printed with separate vowels: regular hiatus after -aḥ (śabda iṣṭaḥ, śabda iti), not typos. The doubled -rtt- of pravarttana is normalised (recorded once book-wide).",
+  "why": "reviewer (error): Both flags say 'a + i is fused to ai', but the printed Devanagari has the vowels separate (छेदशब्दइष्टो, प्रवर्त्तनशब्दइति: no ै): regular hiatus after -aḥ (śabda iṣṭaḥ, śabda iti), the same case as ch11 k1 कूर्मइवोन्नतः. Not typos; the doubled tt is the book-wide normalisation, no flag."
+ },
+ {
+  "n": "16",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "chedaśabdaiṣṭo",
+    "suggest": "chedaśabda iṣṭo",
+    "why": "possible: a + i is fused to ai; a separate word iṣṭaḥ with a lost space is intended"
+   },
+   {
+    "src": "pravarttanaśabdaiti",
+    "suggest": "pravartanaśabda iti",
+    "why": "possible: a + i is fused to ai; śabdaḥ iti is intended (and doubled tt)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): Both flags say 'a + i is fused to ai', but the printed Devanagari has the vowels separate (छेदशब्दइष्टो, प्रवर्त्तनशब्दइति: no ै): regular hiatus after -aḥ (śabda iṣṭaḥ, śabda iti), the same case as ch11 k1 कूर्मइवोन्नतः. Not typos; the doubled tt is the book-wide normalisation, no flag."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Likewise, in granthi (nodule), arbuda (tumour) and the like, the word 'cutting' (cheda) is desired; in gulma (abdominal lump), udara (abdominal disease) and the like, the word 'breaking' (bheda); in atisāra (diarrhoea), raktapitta (a bleeding disorder) and the like, the word 'stopped' (ruddha); in aśmarī (urinary stone), udāvarta (upward-turning of wind) and the like, the word 'impelling' (pravartana): thus.",
+  "new": "Likewise, in granthi (nodule), arbuda (tumour) and the like, the word 'cutting' (cheda) is desired; in gulma (abdominal lump), udara (probably an abdominal disease) and the like, the word 'breaking' (bheda); in atisāra (diarrhoea), raktapitta (a bleeding disorder) and the like, the word 'stopped' (ruddha); in aśmarī (urinary stone), udāvarta (upward-turning of wind) and the like, the word 'impelling' (pravartana): thus.",
+  "why": "reviewer (minor): udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इसी प्रकार ग्रन्थि और अर्बुद आदि में छेद शब्द इष्ट है; गुल्म और उदर यानी पेट के रोग आदि में भेद शब्द; अतिसार और रक्तपित्त आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "new": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म और उदर यानी पेट के रोग आदि में भेद शब्द; अतिसार और रक्तपित्त आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "why": "reviewer (minor): udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म और उदर यानी पेट के रोग आदि में भेद शब्द; अतिसार और रक्तपित्त आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "new": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में भेद शब्द; अतिसार और रक्तपित्त आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "why": "reviewer (minor): udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में भेद शब्द; अतिसार और रक्तपित्त आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "new": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में भेद शब्द; अतिसार यानी दस्त और रक्तपित्त यानी रक्तस्राव का रोग आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "why": "reviewer (minor): udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में भेद शब्द; अतिसार यानी दस्त और रक्तपित्त यानी रक्तस्राव का रोग आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त आदि में प्रवर्तन शब्द, ऐसा।",
+  "new": "इसी प्रकार ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में छेद शब्द इष्ट है; गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में भेद शब्द; अतिसार यानी दस्त और रक्तपित्त यानी रक्तस्राव का रोग आदि में रुद्ध शब्द; अश्मरी यानी पथरी और उदावर्त यानी वायु का ऊपर की ओर पलटना आदि में प्रवर्तन शब्द, ऐसा।",
+  "why": "reviewer (minor): udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "इसी प्रकार दूसरी ध्वनियों को भी जोड़कर समझना चाहिए।",
+  "new": "इसी प्रकार दूसरी ध्वनियाँ भी जोड़ी जानी चाहिए।",
+  "why": "reviewer (minor): 'समझना' (to understand) is added; yojyāḥ = are to be applied/joined. Also the dropped avagraha in 'anyepi' had no flag."
+ },
+ {
+  "n": "17",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "evamanyepi",
+    "suggest": "evam anye 'pi",
+    "why": "possible: avagraha dropped after -e (anye 'pi); written as anye api in words"
+   }
+  ],
+  "why": "reviewer (minor): flags added/changed/removed as described in the other issues of this unit"
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "And everywhere, words such as sthira (firm), sthāvara (stationary), vardhamāna (increasing), trāta (protected), acala (immovable), dhruva (fixed), kṣema (safety), śiva (auspicious) and so on, and other sounds of musical instruments, are best.",
+  "new": "And everywhere, the words sthira (firm), sthāvara (stationary), vardhamāna (increasing), trāta (protected), acala (immovable), dhruva (fixed), kṣema (safety), śiva (auspicious) and the like, and other sounds of musical instruments, are best.",
+  "why": "reviewer (minor): 'such as' added (ādi = 'and the like', glossary); the anusvara after sthāvara was dropped in `words` without a flag; Hindi 'त्राता' (protector) does not match English 'trāta (protected)'."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "और सब जगह स्थिर, स्थावर, वर्धमान, त्राता, अचल, ध्रुव, क्षेम, शिव आदि शब्द तथा अन्य वाद्यों के स्वर श्रेष्ठ हैं।",
+  "new": "और सब जगह स्थिर, स्थावर, वर्धमान, त्रात यानी रक्षित, अचल, ध्रुव, क्षेम, शिव आदि शब्द तथा अन्य वाद्यों के स्वर श्रेष्ठ हैं।",
+  "why": "reviewer (minor): 'such as' added (ādi = 'and the like', glossary); the anusvara after sthāvara was dropped in `words` without a flag; Hindi 'त्राता' (protector) does not match English 'trāta (protected)'."
+ },
+ {
+  "n": "18",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "anyā",
+    "suggest": "anye",
+    "why": "possible: feminine singular/plural form does not agree with masculine vāditrasvarāḥ"
+   }
+  ],
+  "new": [
+   {
+    "src": "anyā",
+    "suggest": "anye",
+    "why": "possible: feminine singular/plural form does not agree with masculine vāditrasvarāḥ"
+   },
+   {
+    "src": "sthirasthāvaraṃvardhamānatrātā'caladhruvakṣemaśivādayaḥ",
+    "suggest": "sthirasthāvaravardhamānatrātā'caladhruvakṣemaśivādayaḥ",
+    "why": "possible: stray anusvara after sthāvara inside the compound (or a lost space: sthāvaraṃ vardhamāna...); written without it in words"
+   }
+  ],
+  "why": "reviewer (minor): flags added/changed/removed as described in the other issues of this unit"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Words such as sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā' and prohibition are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "new": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā' and prohibition are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "why": "reviewer (minor): 'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā' and prohibition are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "new": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "why": "reviewer (minor): 'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "new": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-cooker, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "why": "reviewer (minor): 'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "kṣuta-hata-patita-ākrośa-prahāra-cheda-bheda-dāha-hāhā-pratiṣedha-ādi-śabdāḥ",
+  "old": "sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition, and such words",
+  "new": "sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition, and the like (words)",
+  "why": "reviewer (minor): 'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "kaṇṭaka-ūrdhva-pāda-yāna-śayana-āsana-ādi-bhagna-upaskara-rikta-kumbha-madya-vasā-taila-garbhiṇī-śvapāka-vyasanī-mṛtānām",
+  "old": "of a thorn, one with raised foot, vehicle, bed, seat and so on, broken, household articles, empty pot, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-eater, outcaste), one in distress (vyasanin), the dead",
+  "new": "of a thorn, one with raised foot, vehicle, bed, seat and so on, broken, household articles, empty pot, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-cooker, outcaste), one in distress (vyasanin), the dead",
+  "why": "reviewer (minor): 'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-cooker, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "new": "The words sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are forbidden; in a forbidden and in a blazing direction, cruel cries of birds and beasts; or on a dry, withered tree with creepers and thorns, or in a place of that kind; and, at the entering, the sight of grass, palala (sense uncertain: mud, flesh or sesame paste), a bundle of wood, a potsherd, a clod and so on, of a thorn, of one with raised foot, of vehicles, beds, seats and so on, broken, household articles, empty pots, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-cooker, outcaste), one in distress (vyasanin) and the dead; and, on a conjectural reading, the going out of the previously mentioned auspicious things from the patient's house; and for the physician who has entered, no honour, and gain, satisfaction and praises, auspicious and inauspicious (ones) of the patient; on a conjectural reading, the planets (graha) retrograde and following-retrograde (vakra, anuvakra), standing in condemned positions; the overpowering of the birth-nakṣatra by Ketu, Saturn and Rāhu; or the appearance of condemned signs in house, wife, bed, seat, vehicle, gem, jewel, equipment: for the prohibition of treatment.",
+  "why": "reviewer (error): `words` adopt grahāḥ for the printed 'yahā' (and ketu-śani for 'ketuśini'), a substituted word, but only the cāturgṛhāt clause carries 'on a conjectural reading' (glossary: the mark goes wherever a substituted word is adopted)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "छींक, मारा गया, गिरा, चीख, प्रहार, छेद, भेद, जलना, हाहा और निषेध आदि शब्द निषिद्ध हैं; निषिद्ध और जलती हुई दिशा में पक्षियों और पशुओं की क्रूर ध्वनियाँ; या सूखे और मुरझाए, लताओं और काँटों वाले वृक्ष पर अथवा वैसे ही स्थान में; और तृण, पलल यानी कीचड़ या मांस या तिल की लुगदी, लकड़ी का बोझ, ठीकरा, ढेला आदि का, काँटे का, ऊपर उठे पैर वाले का, वाहन, शय्या, आसन आदि का, टूटा हुआ, गृहसामग्री, खाली घड़ा, मद्य यानी नशीला पेय, वसा, तेल, गर्भिणी, श्वपाक, विपत्ति में पड़े हुए और मृतों का दर्शन, प्रवेश के समय; और रोगी के घर से पहले कहे गए मंगल पदार्थों का निकलना (अनुमानित पाठ पर); और भीतर आए वैद्य का सत्कार नहीं, लाभ, सन्तोष और स्तुतियाँ, रोगी के शुभ और अशुभ; वक्र और अनुवक्र ग्रह, निन्दित स्थानों में स्थित; केतु, शनि और राहु द्वारा जन्म नक्षत्र का दबाया जाना; घर, पत्नी, शय्या, आसन, वाहन, मणि, रत्न और उपकरणों में निन्दित लक्षणों का प्रकट होना, चिकित्सा के निषेध के लिए।",
+  "new": "छींक, मारा गया, गिरा, चीख, प्रहार, छेद, भेद, जलना, हाहा और निषेध आदि शब्द निषिद्ध हैं; निषिद्ध और जलती हुई दिशा में पक्षियों और पशुओं की क्रूर ध्वनियाँ; या सूखे और मुरझाए, लताओं और काँटों वाले वृक्ष पर अथवा वैसे ही स्थान में; और तृण, पलल यानी कीचड़ या मांस या तिल की लुगदी, लकड़ी का बोझ, ठीकरा, ढेला आदि का, काँटे का, ऊपर उठे पैर वाले का, वाहन, शय्या, आसन आदि का, टूटा हुआ, गृहसामग्री, खाली घड़ा, मद्य यानी नशीला पेय, वसा, तेल, गर्भिणी, श्वपाक, विपत्ति में पड़े हुए और मृतों का दर्शन, प्रवेश के समय; और रोगी के घर से पहले कहे गए मंगल पदार्थों का निकलना (अनुमानित पाठ पर); और भीतर आए वैद्य का सत्कार नहीं, लाभ, सन्तोष और स्तुतियाँ, रोगी के शुभ और अशुभ; अनुमानित पाठ पर, वक्र और अनुवक्र ग्रह, निन्दित स्थानों में स्थित; केतु, शनि और राहु द्वारा जन्म नक्षत्र का दबाया जाना; घर, पत्नी, शय्या, आसन, वाहन, मणि, रत्न और उपकरणों में निन्दित लक्षणों का प्रकट होना, चिकित्सा के निषेध के लिए।",
+  "why": "reviewer (error): `words` adopt grahāḥ for the printed 'yahā' (and ketu-śani for 'ketuśini'), a substituted word, but only the cāturgṛhāt clause carries 'on a conjectural reading' (glossary: the mark goes wherever a substituted word is adopted)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "छींक, मारा गया, गिरा, चीख, प्रहार, छेद, भेद, जलना, हाहा और निषेध आदि शब्द निषिद्ध हैं; निषिद्ध और जलती हुई दिशा में पक्षियों और पशुओं की क्रूर ध्वनियाँ; या सूखे और मुरझाए, लताओं और काँटों वाले वृक्ष पर अथवा वैसे ही स्थान में; और तृण, पलल यानी कीचड़ या मांस या तिल की लुगदी, लकड़ी का बोझ, ठीकरा, ढेला आदि का, काँटे का, ऊपर उठे पैर वाले का, वाहन, शय्या, आसन आदि का, टूटा हुआ, गृहसामग्री, खाली घड़ा, मद्य यानी नशीला पेय, वसा, तेल, गर्भिणी, श्वपाक, विपत्ति में पड़े हुए और मृतों का दर्शन, प्रवेश के समय; और रोगी के घर से पहले कहे गए मंगल पदार्थों का निकलना (अनुमानित पाठ पर); और भीतर आए वैद्य का सत्कार नहीं, लाभ, सन्तोष और स्तुतियाँ, रोगी के शुभ और अशुभ; अनुमानित पाठ पर, वक्र और अनुवक्र ग्रह, निन्दित स्थानों में स्थित; केतु, शनि और राहु द्वारा जन्म नक्षत्र का दबाया जाना; घर, पत्नी, शय्या, आसन, वाहन, मणि, रत्न और उपकरणों में निन्दित लक्षणों का प्रकट होना, चिकित्सा के निषेध के लिए।",
+  "new": "छींक, मारा गया, गिरा, चीख, प्रहार, छेद, भेद, जलना, हाहा और निषेध आदि शब्द निषिद्ध हैं; निषिद्ध और जलती हुई दिशा में पक्षियों और पशुओं की क्रूर ध्वनियाँ; या सूखे और मुरझाए, लताओं और काँटों वाले वृक्ष पर अथवा वैसे ही स्थान में; और तृण, पलल यानी कीचड़ या मांस या तिल की लुगदी, लकड़ी का बोझ, ठीकरा, ढेला आदि का, काँटे का, ऊपर उठे पैर वाले का, वाहन, शय्या, आसन आदि का, टूटा हुआ, गृहसामग्री, खाली घड़ा, मद्य यानी नशीला पेय, वसा, तेल, गर्भिणी, श्वपाक, विपत्ति में पड़े हुए और मृतों का दर्शन, प्रवेश के समय; और रोगी के घर से पहले कहे गए मंगल पदार्थों का निकलना, अनुमानित पाठ पर; और भीतर आए वैद्य का सत्कार नहीं, लाभ, सन्तोष और स्तुतियाँ, रोगी के शुभ और अशुभ; अनुमानित पाठ पर, वक्र और अनुवक्र ग्रह, निन्दित स्थानों में स्थित; केतु, शनि और राहु द्वारा जन्म नक्षत्र का दबाया जाना; घर, पत्नी, शय्या, आसन, वाहन, मणि, रत्न और उपकरणों में निन्दित लक्षणों का प्रकट होना, चिकित्सा के निषेध के लिए।",
+  "why": "reviewer (minor): Brackets in Hindi are not allowed; mark inline."
+ },
+ {
+  "n": "19",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "cāturgṛhātpūrvīktamāṃgalyanirgamaḥ",
+    "suggest": "cāturagṛhātpūrvoktamāṃgalyanirgamaḥ",
+    "why": "possible: 'a' of ātura lost, and 'pūrvīkta' for pūrvokta"
+   },
+   {
+    "src": "lābhartuṣṭinutayaśca",
+    "suggest": "lābhatuṣṭinutayaśca",
+    "why": "possible: stray r (lābhaḥ tuṣṭi would give lābhastuṣṭi)"
+   },
+   {
+    "src": "vakrānuvakrāyahā",
+    "suggest": "vakrānuvakrā grahāḥ",
+    "why": "possible: 'yahā' for 'grahāḥ' (gra/ya confusion), since garhitasthānasthāḥ (nom. pl.) follows"
+   },
+   {
+    "src": "ketuśini",
+    "suggest": "ketuśani",
+    "why": "possible: śini for śani (Saturn)"
+   }
+  ],
+  "new": [
+   {
+    "src": "cāturgṛhātpūrvīktamāṃgalyanirgamaḥ",
+    "suggest": "cāturagṛhātpūrvoktamāṃgalyanirgamaḥ",
+    "why": "possible: 'a' of ātura lost, and 'pūrvīkta' for pūrvokta"
+   },
+   {
+    "src": "lābhartuṣṭinutayaśca",
+    "suggest": "lābhatuṣṭinutayaśca",
+    "why": "possible: stray r (lābhaḥ tuṣṭi would give lābhastuṣṭi)"
+   },
+   {
+    "src": "vakrānuvakrāyahā",
+    "suggest": "vakrānuvakrā grahāḥ",
+    "why": "possible: 'yahā' for 'grahāḥ' (gra/ya confusion), since garhitasthānasthāḥ (nom. pl.) follows"
+   },
+   {
+    "src": "ketuśini",
+    "suggest": "ketuśani",
+    "why": "possible: śini for śani (Saturn)"
+   },
+   {
+    "src": "gṛhadāraśayanāsanavāhanamaṇiratnopakaraṇeṣuvā",
+    "suggest": "gṛhadāraśayanāsanavāhanamaṇiratnopakaraṇeṣu vā",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): split in `words` (eṣu|vā) with no space and no sandhi, no flag. The flag for 'ketuśini' should also state that the compound ketu-śani-rāhubhiḥ is divided by a printed space (it is in the note)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "स्वप्न चाहे स्वयं देखा गया हो या दूसरे के द्वारा, शुभ और अशुभ का कारण है। वह सात प्रकार का है: देखा हुआ, सुना हुआ, अनुभव किया हुआ, चाहा हुआ, कल्पित, भाविक यानी आगे होने वाले से सम्बन्धित, और दोषों से उत्पन्न।",
+  "new": "स्वप्न स्वयं या दूसरे के द्वारा देखा गया शुभ और अशुभ का कारण है। वह सात प्रकार का है: देखा हुआ, सुना हुआ, अनुभव किया हुआ, चाहा हुआ, कल्पित, भाविक यानी आगे होने वाले से सम्बन्धित, और दोषों से उत्पन्न।",
+  "why": "reviewer (minor): 'चाहे ... हो' makes the clause concessive ('whether'); the Sanskrit is a plain participial phrase. 'prārthitaḥsaṃkalpito' (joined, no sandhi) had no flag."
+ },
+ {
+  "n": "20",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "svayamamyena",
+    "suggest": "svayamanyena",
+    "why": "possible: m for n (the sense needs anyena, by another)"
+   }
+  ],
+  "new": [
+   {
+    "src": "svayamamyena",
+    "suggest": "svayamanyena",
+    "why": "possible: m for n (the sense needs anyena, by another)"
+   },
+   {
+    "src": "prārthitaḥsaṃkalpito",
+    "suggest": "prārthitaḥ saṃkalpito",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): flags added/changed/removed as described in the other issues of this unit"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "ati-supta-dṛṣṭaḥ",
+  "old": "seen when not deeply asleep",
+  "new": "seen when deeply asleep",
+  "why": "reviewer (minor): The gloss 'seen when not deeply asleep' already contains the negation, which the separate word na then repeats."
+ },
+ {
+  "n": "22",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "mahatsadyaśca",
+    "suggest": "mahat sadyaś ca",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): split into mahat | sadyaḥ | ca with no space and no sandhi (t before s stays), no flag."
+ },
+ {
+  "n": "23",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vacobhirdānaśamanīyamādibhirvā",
+    "suggest": "vacobhirdānaśamanīyādibhirvā",
+    "why": "possible: stray m inside śamanīya-m-ādibhiḥ"
+   }
+  ],
+  "new": [
+   {
+    "src": "vacobhirdānaśamanīyamādibhirvā",
+    "suggest": "vacobhirdānaśamanīyādibhirvā",
+    "why": "possible: stray m inside śamanīya-m-ādibhiḥ"
+   },
+   {
+    "src": "capunaranupahataḥ",
+    "suggest": "ca punar anupahataḥ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): ca|punar joined with no sandhi; no flag."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "और फिर नींद से, या विपरीत वचनों से, या दान, शमनीय कर्म आदि से नष्ट न किया गया।",
+  "new": "और फिर नींद से, या विपरीत वचनों से, या दान, शमनीय यानी शान्त करने वाले आदि से नष्ट न किया गया।",
+  "why": "reviewer (minor): 'कर्म' is added (dāna-śamanīya-ādibhiḥ = by giving, appeasing and the like); English has no such noun."
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "pratīpaiḥ",
+  "old": "m. inst. pl.",
+  "new": "n. inst. pl. (agrees with vacobhiḥ)",
+  "why": "reviewer (minor): Adjective of the stated neuter vacobhiḥ labelled m."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "उनमें जो प्रेतों के साथ मद्य यानी नशीला पेय पीता हुआ कुत्ते द्वारा खींचा जाता है, वह ज्वर यानी बुखार से मारा जाता है।",
+  "new": "उनमें जो प्रेतों के साथ मद्य यानी नशीला पेय पीता हुआ कुत्ते द्वारा खींचा जाता है, वह ज्वर यानी बुखार से आहत होता है।",
+  "why": "reviewer (minor): Hindi 'मारा जाता है' reads as 'is killed'; the note deliberately keeps hanyate literal ('struck down')."
+ },
+ {
+  "n": "25",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "hasannāryā",
+    "suggest": "hasan nāryā",
+    "why": "possible: space missing where no sandhi applies; but hasannāryā is also the regular sandhi form of hasan + āryā (ārya, 'noble'), which is not adopted because 'by a woman' fits better"
+   }
+  ],
+  "why": "reviewer (minor): The split hasan + nāryā has no space in print and no sandhi; the print is also exactly what hasan + āryā would give (n doubled). The draft's reading (nārī, by a woman) is the natural one; the alternative is recorded in the new flag. No change to the translation."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "जो लाख के लाल रंग जैसा अम्बर यानी वस्त्र या आकाश देखता है, अथवा जो लाल देह, माला और वस्त्र वाला हँसता हुआ स्त्री द्वारा ले जाया जाता है, वह रक्तपित्त से।",
+  "new": "जो लाख के लाल रंग जैसा अम्बर यानी वस्त्र या आकाश देखता है, अथवा जो लाल देह, माला और वस्त्र वाला हँसता हुआ स्त्री द्वारा ले जाया जाता है, वह रक्तपित्त यानी रक्तस्राव के रोग से।",
+  "why": "reviewer (minor): English glosses raktapitta (a bleeding disorder); Hindi leaves it bare."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "He who toward the southern direction by any one of donkey, camel, buffalo and boar, he by yakṣman (wasting disease; consumption).",
+  "new": "He who the southern direction by any one of donkey, camel, buffalo and boar, he by yakṣman (wasting disease; consumption).",
+  "why": "reviewer (minor): 'toward' (and Hindi को is the plain accusative) supplies a relation to a verb that is missing in the print; the siblings (u34) keep the bare accusative."
+ },
+ {
+  "n": "27",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "jāyatesa",
+    "suggest": "jāyate sa",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): jāyate|saḥ joined with no space and no sandhi; the note records it but no flag exists."
+ },
+ {
+  "n": "29",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "yasyanagnasyājyāvasiktasyāgnimanarciṣaṃ",
+    "suggest": "yasya nagnasyājyāvasiktasyāgnimanarciṣaṃ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): yasya|nagnasya joined with no sandhi; the note mentions it, no flag."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "He of whom, naked, besmeared with ghee, offering into a flameless fire, lotuses grow on the chest, he by kuṣṭha (a skin disease; the leprosy group).",
+  "new": "He of whom, naked, sprinkled with ghee, offering into a flameless fire, lotuses grow on the chest, he by kuṣṭha (a skin disease; the leprosy group).",
+  "why": "reviewer (minor): avasikta = sprinkled/drenched; 'besmeared' (English) and 'सींचे हुए' (Hindi) differ."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "ājya-avasiktasya",
+  "old": "besmeared with ghee",
+  "new": "sprinkled with ghee",
+  "why": "reviewer (minor): avasikta = sprinkled/drenched; 'besmeared' (English) and 'सींचे हुए' (Hindi) differ."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "He who drinks sneha (oil or fat) with caṇḍālas (outcastes), he by prameha (urinary disorders, including the diabetes-type; probable).",
+  "new": "He who drinks sneha (oil or fat) with caṇḍālas (outcastes), he by prameha (a urinary disorder, probably of the diabetes type).",
+  "why": "reviewer (minor): The translation parenthesis uses the banned 'including' and the bare tag '; probable'; Hindi has no identification at all."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "जो चाण्डालों यानी अछूत माने जाने वालों के साथ स्नेह यानी तेल या वसा पीता है, वह प्रमेह से।",
+  "new": "जो चाण्डालों यानी अछूत माने जाने वालों के साथ स्नेह यानी तेल या वसा पीता है, वह प्रमेह यानी मूत्र सम्बन्धी रोग से, जो सम्भवतः मधुमेह की श्रेणी का है।",
+  "why": "reviewer (minor): The translation parenthesis uses the banned 'including' and the bare tag '; probable'; Hindi has no identification at all."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "apasmāreṇa",
+  "old": "by apasmāra (epilepsy; probable)",
+  "new": "by apasmāra (epilepsy; standard)",
+  "why": "reviewer (minor): apasmāra = epilepsy is a standard identification; tag 'probable' while the translation is unhedged is inconsistent."
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "Printed 'matta:' has a colon in place of the visarga (print habit). 'matta' can be 'intoxicated' or 'frenzied'. apasmāra = epilepsy (probable).",
+  "new": "Printed 'matta:' has a colon in place of the visarga (print habit). 'matta' can be 'intoxicated' or 'frenzied'. apasmāra = epilepsy (standard).",
+  "why": "reviewer (minor): apasmāra = epilepsy is a standard identification; tag 'probable' while the translation is unhedged is inconsistent."
+ },
+ {
+  "n": "34",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tasyanetravināśaḥ",
+    "suggest": "tasya netravināśaḥ",
+    "why": "certain: space missing where no sandhi applies; written as separate words in words"
+   }
+  ],
+  "why": "reviewer (minor): tasya|netravināśaḥ joined with no space and no sandhi; the note mentions it, no flag."
+ }
+]
