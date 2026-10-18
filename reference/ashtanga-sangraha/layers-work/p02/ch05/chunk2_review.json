@@ -1,0 +1,1072 @@
+{
+ "units": [
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(layer) / परत",
+     "problem": "\"layer\"/\"परत\" is a supplied noun (tvac is unstated); unit 43 in the sibling chunk translates the bare ordinal with nothing supplied. Nothing may be added.",
+     "fix": "drop the supplied noun",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "The third (layer) is",
+       "new": "The third is",
+       "n": "44"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "तीसरी परत",
+       "new": "तीसरी",
+       "n": "44"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "stale: says \"layer\" is supplied",
+     "fix": "(ordinal feminine agrees with an unstated tvac, skin; nothing is supplied in the translation, as in unit 43)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(ordinal feminine agrees with an unstated tvac, skin-layer, supplied as \"layer\")",
+      "new": "(ordinal feminine agrees with an unstated tvac, skin; nothing is supplied in the translation, as in unit 43)",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(layer) / परत",
+     "problem": "\"layer\"/\"परत\" is a supplied noun (tvac is unstated); unit 43 in the sibling chunk translates the bare ordinal with nothing supplied. Nothing may be added.",
+     "fix": "drop the supplied noun",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "The fourth (layer) is",
+       "new": "The fourth is",
+       "n": "45"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "चौथी परत",
+       "new": "चौथी",
+       "n": "45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(layer) / परत",
+     "problem": "\"layer\"/\"परत\" is a supplied noun (tvac is unstated); unit 43 in the sibling chunk translates the bare ordinal with nothing supplied. Nothing may be added.",
+     "fix": "drop the supplied noun",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "The fifth (layer) is",
+       "new": "The fifth is",
+       "n": "46"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "पाँचवीं परत",
+       "new": "पाँचवीं",
+       "n": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(layer) / परत",
+     "problem": "\"layer\"/\"परत\" is a supplied noun (tvac is unstated); unit 43 in the sibling chunk translates the bare ordinal with nothing supplied. Nothing may be added.",
+     "fix": "drop the supplied noun",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "The sixth (layer) is",
+       "new": "The sixth is",
+       "n": "47"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "छठी परत",
+       "new": "छठी",
+       "n": "47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(layer) / परत",
+     "problem": "\"layer\"/\"परत\" is a supplied noun (tvac is unstated); unit 43 in the sibling chunk translates the bare ordinal with nothing supplied. Nothing may be added.",
+     "fix": "drop the supplied noun",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "The seventh (layer) is",
+       "new": "The seventh is",
+       "n": "48"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "सातवीं परत",
+       "new": "सातवीं",
+       "n": "48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dhātu-āśaya-antareṣu",
+     "problem": "antara \"interval, space\" is neuter; m. is wrong here",
+     "fix": "tat-puruṣa, n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhātu-āśaya-antareṣu",
+      "field": "gram",
+      "value": "tat-puruṣa, n. loc. pl.",
+      "n": "49"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes: cchannaḥ",
+     "problem": "jarāyu ends in a short -u, not a long vowel; the doubling is regular sandhi",
+     "fix": "cchannaḥ = channaḥ after the short vowel -u of jarāyu (regular doubling of ch after a short vowel)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "cchannaḥ = channaḥ after a long vowel (chandas sandhi doubling)",
+      "new": "cchannaḥ = channaḥ after the short vowel -u of jarāyu (regular doubling of ch after a short vowel)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "english",
+     "where": "snāyu/jarāyu",
+     "problem": "siblings (p02 ch05 chunks 3, 4) render snāyu as \"ligament\"; jarāyu is only probable (draft itself tags it probable) and must be hedged in the translation",
+     "fix": "covered by ligament (snāyu), Kapha (śleṣman) and (probably) membrane (jarāyu)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "covered by sinew (snāyu), Kapha (śleṣman) and membrane (jarāyu)",
+      "new": "covered by ligament (snāyu), Kapha (śleṣman) and (probably) membrane (jarāyu)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जरायु",
+     "problem": "Hindi must carry the identification and hedge the English has",
+     "fix": "स्नायु, श्लेष्मा और जरायु यानी सम्भवतः झिल्ली से ढकी हुई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नायु, श्लेष्मा और जरायु से ढकी हुई",
+      "new": "स्नायु, श्लेष्मा और जरायु यानी सम्भवतः झिल्ली से ढकी हुई",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "sinew -> ligament as in siblings; hedge jarāyu",
+     "fix": "ligament (snāyu); Kapha (śleṣman); membrane (jarāyu, probable); covered",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "snāyu-śleṣma-jarāyu-channaḥ",
+      "field": "gloss",
+      "value": "ligament (snāyu); Kapha (śleṣman); membrane (jarāyu, probable); covered",
+      "n": "49"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "align with siblings",
+     "fix": "snāyu = ligament (probable)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "snāyu = sinew/ligament (probable)",
+      "new": "snāyu = ligament (probable)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "kāṣṭhaiva",
+     "problem": "Printed Devanagari is काष्ठइव (kāṣṭha iva, unjoined); the case of kāṣṭha is not stated and the translation \"of wood\" supplies a genitive that the print does not show (kāṣṭhe iva or kāṣṭhasyeva would give it). The note says the case is uncertain, but no text_flag records the doubt.",
+     "fix": "Owner: either add a \"possible\" flag (kāṣṭhe iva / kāṣṭhasyeva) or keep as is; translation \"like the heartwood of wood\" is acceptable.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sapta",
+     "problem": "glossary (ch06 k1): numerals above four are \"nom. pl.\", not \"ind.\"",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sapta",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sirā/snāyu/dhamanī",
+     "problem": "identifications tagged probable in the gloss must be hedged in the translation; sibling u20 writes \"sirā (probably veins), dhamanī (probably arteries)\"; snāyu = ligament as in siblings",
+     "fix": "the spreading networks of the sirā (probably veins), snāyu (ligaments), dhamanī (probably arteries) and srotas (channels)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the spreading networks of the sirā (veins), snāyu (sinews), dhamanī (arteries) and srotas (channels)",
+      "new": "the spreading networks of the sirā (probably veins), snāyu (ligaments), dhamanī (probably arteries) and srotas (channels)",
+      "n": "51"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Hindi must carry the hedge; dhamanī and srotas need a plain gloss",
+     "fix": "सिरा यानी सम्भवतः शिरा, स्नायु, धमनी यानी सम्भवतः रक्तवाहिनी और स्रोतस् यानी मार्ग के",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिरा यानी शिरा, स्नायु, धमनी और स्रोतस् के",
+      "new": "सिरा यानी सम्भवतः शिरा, स्नायु, धमनी यानी सम्भवतः रक्तवाहिनी और स्रोतस् यानी मार्ग के",
+      "n": "51"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "sinew -> ligament",
+     "fix": "vein (sirā; probable); ligament (snāyu); artery (dhamanī; probable); channel (srotas)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sirā-snāyu-dhamanī-srotasām",
+      "field": "gloss",
+      "value": "vein (sirā; probable); ligament (snāyu); artery (dhamanī; probable); channel (srotas)",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "दूसरी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूसरी परत",
+      "new": "दूसरी",
+      "n": "52"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sirā",
+     "problem": "hedge probable identification",
+     "fix": "especially in the sirā (probably veins), spleen",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "especially in the sirā (veins), spleen",
+      "new": "especially in the sirā (probably veins), spleen",
+      "n": "52"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "policy: modern/ordinary Hindi name beside the Sanskrit term",
+     "fix": "सिराओं यानी सम्भवतः शिराओं, प्लीहा यानी तिल्ली और यकृत यानी जिगर में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिराओं, प्लीहा और यकृत में",
+      "new": "सिराओं यानी सम्भवतः शिराओं, प्लीहा यानी तिल्ली और यकृत यानी जिगर में",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "तीसरी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीसरी परत",
+      "new": "तीसरी",
+      "n": "53"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mastu",
+     "problem": "gram \"n.\" is asserted for a word whose very identity is conjectural; mastu is also an ordinary word (whey), so a firm gram is misleading",
+     "fix": "unclear (see notes)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mastu",
+      "field": "gram",
+      "value": "unclear (see notes)",
+      "n": "53"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mastu",
+     "problem": "mastu is also an ordinary word (whey, curd-water); reading it as the first member of mastuluṅga (brain-substance) is conjectural, as is dropping the printed space.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "mastu is also an ordinary word (whey); its reading as the first member of mastuluṅga is conjectural, as is ignoring the printed space; gram left as unclear.",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "चौथी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चौथी परत",
+      "new": "चौथी",
+      "n": "54"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "सन्धि is feminine in Hindi (सब सन्धि ... जाते हैं is ungrammatical); needs a plain gloss \"जोड़\"; \"अपने\" is not in the Sanskrit (sa-)",
+     "fix": "जुड़ी हुई सब सन्धियाँ यानी जोड़ दृढ़ हो जाती हैं, और, अनुमानित पाठ पर, उपांग अवयवों सहित",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जुड़े हुए सब सन्धि दृढ़ हो जाते हैं, और अनुमानित पाठ पर अपने उपांग अवयवों सहित",
+      "new": "जुड़ी हुई सब सन्धियाँ यानी जोड़ दृढ़ हो जाती हैं, और, अनुमानित पाठ पर, उपांग अवयवों सहित",
+      "n": "54"
+     }
+    },
+    {
+     "field": "english",
+     "where": "on a conjectural reading, together with their subsidiary parts",
+     "problem": "Human decision: the translations build the guess sopāṅgāvayavāḥ into the sentence under \"on a conjectural reading\" (glossary: unrestorable word -> conjectural mark in translations), while the later p02 ch03 k2 rule says a guess for a damaged word stays out of translations (\"unclear\"). The two glossary rules conflict. Confidence low is correct.",
+     "fix": "Owner to decide between the two rules.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "पाँचवीं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाँचवीं परत",
+      "new": "पाँचवीं",
+      "n": "55"
+     }
+    },
+    {
+     "field": "english",
+     "where": "unduka",
+     "problem": "gloss tags unduka \"probable\" but the translation states \"caecum\" unhedged (u70 and u73 hedge it)",
+     "fix": "lying within the koṣṭha (storehouse), in the unduka (probably the caecum)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "lying within the koṣṭha, in the unduka (caecum)",
+      "new": "lying within the koṣṭha (storehouse), in the unduka (probably the caecum)",
+      "n": "55"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आम",
+     "problem": "bare आम reads as \"mango\" in Hindi (glossary ch07 k1)",
+     "fix": "आम यानी कच्चे तथा पक्व यानी पके के आशय पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आम तथा पक्व के आशय पर",
+      "new": "आम यानी कच्चे तथा पक्व यानी पके के आशय पर",
+      "n": "55"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उण्डुक",
+     "problem": "Hindi must carry the identification and hedge",
+     "fix": "उण्डुक यानी सम्भवतः अन्धान्त्र में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उण्डुक में",
+      "new": "उण्डुक यानी सम्भवतः अन्धान्त्र में",
+      "n": "55"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "छठी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छठी परत",
+      "new": "छठी",
+      "n": "56"
+     }
+    },
+    {
+     "field": "english",
+     "where": "āmāśaya/pakvāśaya",
+     "problem": "glossary (ch05 k5) hedges āmāśaya \"probably stomach\"; sibling u183 writes \"āmāśaya and pakvāśaya, probably the stomach and the large intestine\"; the draft gives no equivalent anywhere in u55-57, 68, 69",
+     "fix": "that faces from the āmāśaya (probably the stomach) toward the pakvāśaya (probably the large intestine)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "that faces from the āmāśaya toward the pakvāśaya",
+      "new": "that faces from the āmāśaya (probably the stomach) toward the pakvāśaya (probably the large intestine)",
+      "n": "56"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "\"चले\" (moving) is not in unmukha (facing toward); identification missing",
+     "fix": "आमाशय यानी सम्भवतः जठर से पक्वाशय यानी सम्भवतः बड़ी आँत की ओर उन्मुख अन्न",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आमाशय से पक्वाशय की ओर चले अन्न",
+      "new": "आमाशय यानी सम्भवतः जठर से पक्वाशय यानी सम्भवतः बड़ी आँत की ओर उन्मुख अन्न",
+      "n": "56"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आम",
+     "problem": "bare आम = mango in Hindi",
+     "fix": "पक्व यानी पके और आम यानी कच्चे के आशयों के बीच में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पक्व और आम के आशयों के बीच में",
+      "new": "पक्व यानी पके और आम यानी कच्चे के आशयों के बीच में",
+      "n": "56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आम",
+     "problem": "bare आम = mango in Hindi",
+     "fix": "केवल आम यानी कच्चा।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "केवल आम।",
+      "new": "केवल आम यानी कच्चा।",
+      "n": "57"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "gram",
+     "problem": "the gloss/translation take upabṛṃhita (\"strengthened\") as a separate word, but the w joins it to eka-yoga-kṣemā as if one bahuvrīhi",
+     "fix": "bahuvrīhi, f. nom. sg. (upabṛṃhitā read as a separate word)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "upabṛṃhita-eka-yoga-kṣemā",
+      "field": "gram",
+      "value": "bahuvrīhi, f. nom. sg. (upabṛṃhitā read as a separate word)",
+      "n": "57"
+     }
+    },
+    {
+     "field": "split",
+     "where": "upabṛṃhita-eka-yoga-kṣemā",
+     "problem": "The split should be two words: upabṛṃhitā (f. nom. sg., strengthened) + eka-yoga-kṣemā (bahuvrīhi); the patch tool cannot split a word, so only the gram was adjusted.",
+     "fix": "Owner: split into upabṛṃhitā + eka-yoga-kṣemā.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परत",
+     "problem": "Hindi supplies \"परत\" (layer) for the unstated kalā; English and Hindi u51 (\"पहली\") supply nothing. Not in the Sanskrit.",
+     "fix": "सातवीं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सातवीं परत",
+      "new": "सातवीं",
+      "n": "58"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बस्ति",
+     "problem": "English writes \"bladder (basti)\"; Hindi has no gloss",
+     "fix": "बस्ति यानी मूत्राशय के द्वार के नीचे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बस्ति के द्वार के नीचे",
+      "new": "बस्ति यानी मूत्राशय के द्वार के नीचे",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañca",
+     "problem": "glossary (ch06 k1): numerals above four are \"nom. pl.\", not \"ind.\"",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "60"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañca",
+     "problem": "glossary (ch06 k1): numerals above four are \"nom. pl.\", not \"ind.\"",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañca",
+     "problem": "glossary (ch06 k1): numerals above four are \"nom. pl.\", not \"ind.\"",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "63"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपान द्वार",
+     "problem": "\"अपान द्वार\" is an invention (apāyu = anus, गुदा); उपस्थ left bare while English glosses it",
+     "fix": "वाक् यानी वाणी, अपायु यानी गुदा, उपस्थ यानी जननेन्द्रिय, पाणि यानी हाथ और पाद यानी पैर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाक्, अपान द्वार, उपस्थ, हाथ और पैर",
+      "new": "वाक् यानी वाणी, अपायु यानी गुदा, उपस्थ यानी जननेन्द्रिय, पाणि यानी हाथ और पाद यानी पैर",
+      "n": "63"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "stale after the Hindi fix",
+     "fix": "Hindi: अपायु यानी गुदा.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi अपान द्वार used for apāyu.",
+      "new": "Hindi: अपायु यानी गुदा.",
+      "n": "63"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sapta",
+     "problem": "numeral gram (glossary ch06 k1)",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sapta",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "68"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आम",
+     "problem": "bare आम = mango",
+     "fix": "आम यानी कच्चे, पित्त, पक्व यानी पके, वायु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आम, पित्त, पक्व, वायु",
+      "new": "आम यानी कच्चे, पित्त, पक्व यानी पके, वायु",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Hindi lacks the identifications (and the unduka hedge) that the English has",
+     "fix": "हृदय, यकृत यानी जिगर, प्लीहा यानी तिल्ली, फुप्फुस यानी फेफड़ा, उण्डुक यानी सम्भवतः अन्धान्त्र, वृक्क यानी गुर्दा, अन्त्र आदि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हृदय, यकृत, प्लीहा, फुप्फुस, उण्डुक, वृक्क, अन्त्र आदि",
+      "new": "हृदय, यकृत यानी जिगर, प्लीहा यानी तिल्ली, फुप्फुस यानी फेफड़ा, उण्डुक यानी सम्भवतः अन्धान्त्र, वृक्क यानी गुर्दा, अन्त्र आदि",
+      "n": "70"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vakka",
+     "problem": "Observation: vakka may be a genuine (Prakrit/Pali-like) form for the kidney, not only a misprint of vṛkka; \"possible\" is already stated, keep it that way.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "acchataḥ",
+     "problem": "glossary (p02 ch03 k2): a guess for a damaged word stays out of the gloss; the guess is already in the flag and note",
+     "fix": "unclear",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "acchataḥ",
+      "field": "gloss",
+      "value": "unclear",
+      "n": "71"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "not a causative (that would be ādhmāpayamāna); gram already says pass. part. ā-√dhmā",
+     "fix": "ādhmāyamānasya is the present passive participle of ā-√dhmā (being blown up, inflated)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "ādhmāyamānasya is the passive present participle of the causative (being made to swell)",
+      "new": "ādhmāyamānasya is the present passive participle of ā-√dhmā (being blown up, inflated)",
+      "n": "71"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "gram",
+     "problem": "the printed -ā is the masculine plīhan form (plīhā, as in u81), so \"n.\" is not supported; possibly two words (yakṛt, plīhā)",
+     "fix": "dvandva, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yakṛt-plīhā",
+      "field": "gram",
+      "value": "dvandva, nom. sg.",
+      "n": "71"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समान",
+     "problem": "bare \"समान\" is unintelligible (English says \"the Vāyu so named\")",
+     "fix": "वहाँ समान नामक वायु से फुलाए जाते हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वहाँ समान से फुलाए जाते हुए",
+      "new": "वहाँ समान नामक वायु से फुलाए जाते हुए",
+      "n": "71"
+     }
+    },
+    {
+     "field": "english",
+     "where": "from its unclear word acchataḥ (on a conjectural reading, \"from its clear part\")",
+     "problem": "Human decision: the conjectured sense \"from its clear part\" is built into both translations (see u54 note on the two glossary rules). Also the clause reads strangely; consider \"from the ... acchataḥ [unclear]\".",
+     "fix": "Owner to decide.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उण्डुक",
+     "problem": "Hindi lacks the identification and hedge that the English has",
+     "fix": "से उण्डुक यानी सम्भवतः अन्धान्त्र।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "से उण्डुक।",
+      "new": "से उण्डुक यानी सम्भवतः अन्धान्त्र।",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्याम",
+     "problem": "English glosses vyāma; Hindi leaves it bare",
+     "fix": "साढ़े तीन व्याम यानी फैलाई हुई दोनों बाँहों की लम्बाई के होते हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "साढ़े तीन व्याम के होते हैं",
+      "new": "साढ़े तीन व्याम यानी फैलाई हुई दोनों बाँहों की लम्बाई के होते हैं",
+      "n": "76"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "raktasyānilayogātkolīyaṃ",
+     "problem": "The flag has suggest == src (no suggestion); harmless but pointless. Possibility for the owner (not adopted, unverified): kolīyam might be an OCR form for the organ named klomam in u81, since no other organ arises \"from blood with Vāyu\" in this passage. Keep unresolved.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viśeṣeṇa",
+     "problem": "viśeṣa is masculine; \"n. inst.\" is wrong",
+     "fix": "m. inst. sg. (adverb)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśeṣeṇa",
+      "field": "gram",
+      "value": "m. inst. sg. (adverb)",
+      "n": "80"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañca",
+     "problem": "glossary (ch06 k1): numerals above four are \"nom. pl.\", not \"ind.\"",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca",
+      "field": "gram",
+      "value": "nom. pl.",
+      "n": "85"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed u44-86. Splits, cases and counts are sound; all 19 text_flags are plausible and kept as printed (src) with corrections only in words. Main problems: (1) Hindi omitted identifications and hedges the English carries (unduka, sirā, dhamanī, jarāyu, āmāśaya/pakvāśaya) and left आम bare (mango); (2) supplied nouns 'layer'/परत (not in the Sanskrit, unit 43 does not supply them); (3) u54 Hindi ungrammatical (सन्धि masculine); (4) u63 'अपान द्वार' invented; (5) numerals pañca/sapta tagged ind.; (6) snāyu rendered 'sinew' against sibling 'ligament'. Human decisions: u54 and u71 (guess built into translation vs. glossary rule), u57 split of upabṛṃhitā, u49 kāṣṭha case, u78 kolīyam (maybe klomam), u53 mastu. No identification judged wrong. No regrouping suggested; u71-78 correctly noted as a continuing statement, and u76-77 counts are as printed. Errors: 1, minor: 57.",
+ "glossary_suggestions": [
+  "majjā = 'marrow' in anatomical contexts (p02), 'kernel' only in pharmacy units (existing glossary entry says kernel in all units: needs a scoped exception).",
+  "snāyu = 'ligament' (as in siblings ch05 k3/k4), not 'sinew'; sirā 'probably veins', dhamanī 'probably arteries' hedged in both languages.",
+  "unduka = 'probably the caecum' (Hindi उण्डुक यानी सम्भवतः अन्धान्त्र), always hedged.",
+  "āmāśaya = 'probably the stomach', pakvāśaya = 'probably the large intestine' wherever they occur (already in ch05 k5/k4 entries); Hindi bare आम/पक्व need 'यानी कच्चा/पका'.",
+  "prasāda = 'clear essence' (Hindi प्रसाद यानी स्वच्छ सार), consistent across u74-84.",
+  "maṇḍala = 'circle'; śukla-/kṛṣṇa-/dṛṣṭi-maṇḍala 'probably the white/dark part of the eye/pupil region', hedged.",
+  "vyāma = 'fathom, arm-span' (Hindi व्याम यानी फैलाई हुई दोनों बाँहों की लम्बाई).",
+  "āśleṣita = 'joined'; Śleṣmadharā 'Kapha-bearing'; kalā ordinal units supply no noun ('layer'/परत) in either language.",
+  "Hindi सन्धि (joint) is feminine: सन्धियाँ यानी जोड़.",
+  "Hindi apāyu = अपायु यानी गुदा; upastha = उपस्थ यानी जननेन्द्रिय.",
+  "OPEN: two glossary rules conflict on a guess for a damaged word (conjectural reading in translations vs. 'unclear' only; p02 ch05 u54, u71, u68, u85)."
+ ]
+}
