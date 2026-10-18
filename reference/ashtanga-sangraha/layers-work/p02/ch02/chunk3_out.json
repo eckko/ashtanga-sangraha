@@ -1494,7 +1494,7 @@
       "words": [
        {
         "w": "vandhyām",
-        "gloss": "barren (woman)",
+        "gloss": "barren (one)",
         "gram": "f. acc. sg."
        }
       ]
@@ -1523,5 +1523,1003 @@
   ],
   "notes": "Token 'yadā hyasyāḥ' = yadā + hi + asyāḥ. The subject of 'janayati' is not stated ('it', the vitiated seed). 'Barren (vandhyā)' is the feminine as printed; the noun 'woman' is not in the text. 'nirvartaka' = that which brings about or forms (the body), the line does not say more. The two uses of 'bīja' (the blood-seed, and the forming seed) are as printed.",
   "confidence": "medium"
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasyāvayavastadāpūtaprajāṃ",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its, of that",
+        "gram": "m./n. gen. sg."
+       },
+       {
+        "w": "avayavaḥ",
+        "gloss": "part, limb",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "āpūtaprajām",
+        "gloss": "unclear (printed form kept)",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब उसका अवयव, तब — छपा रूप तदापूतप्रजां अस्पष्ट है, अनुमानित पाठ पर बिगड़ी हुई सन्तान वाली —",
+  "english": "When its part (avayava), then, on a conjectural reading, (one) of spoiled offspring (pūtiprajā) —",
+  "text_flags": [
+   {
+    "src": "tasyāvayavastadāpūtaprajāṃ",
+    "suggest": "tasyāvayavaḥ tadā pūtiprajāṃ",
+    "why": "possible: 'āpūtaprajāṃ' is not a word; 'pūtiprajam' occurs in 97 and the sense 'one whose offspring spoils' fits 93; the clause also lacks a predicate"
+   }
+  ],
+  "notes": "Damaged or elliptical: 'yadā tasya avayavaḥ' has no predicate, and 'tadāpūtaprajāṃ' is doubtful in print. The verb 'janayati' (produces) is understood from 91, but is not supplied in the translation. GROUPING: 92 appears to continue 91 and be completed by 93. 'pūtiprajā' as 'one whose offspring is spoiled' is a conjecture, not firm.",
+  "confidence": "low"
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyā",
+      "words": [
+       {
+        "w": "tasyāḥ",
+        "gloss": "of her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaṃ",
+      "words": [
+       {
+        "w": "jātam",
+        "gloss": "born (one)",
+        "gram": "ppp. √jan, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaṃ",
+      "words": [
+       {
+        "w": "jātam",
+        "gloss": "born (one)",
+        "gram": "ppp. √jan, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mriyate",
+      "words": [
+       {
+        "w": "mriyate",
+        "gloss": "dies",
+        "gram": "3 sg. pres. ātm. √mṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका जन्मा-जन्मा मर जाता है।",
+  "english": "Of her, each one born dies.",
+  "text_flags": [],
+  "notes": "'tasyā jātaṃ' is regular sandhi (visarga dropped before j). The repetition 'jātaṃ jātaṃ' means 'each one born'. GROUPING: appears to give the result of 92.",
+  "confidence": "high"
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "so'vayavaḥ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "avayavaḥ",
+        "gloss": "part, limb",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strīkaraṇāṃ",
+      "words": [
+       {
+        "w": "strī-karaṇānām",
+        "gloss": "female; making (karaṇa)",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīrasaṃśrayāṇāmadhogurutvādīnāṃ",
+      "words": [
+       {
+        "w": "śarīra-saṃśrayāṇām",
+        "gloss": "body; dependent on, resting in",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "adhas-gurutva-ādīnām",
+        "gloss": "downward, lower; heaviness; beginning with",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nirvartakā",
+      "words": [
+       {
+        "w": "nirvartakāḥ",
+        "gloss": "producing, forming",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bījāṃśāsteṣāmekadeśaḥ",
+      "words": [
+       {
+        "w": "bījāṃśāḥ",
+        "gloss": "seed-portions",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "teṣām",
+        "gloss": "of those",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "eka-deśaḥ",
+        "gloss": "one; part",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब फिर वह अवयव और स्त्री को बनाने वालों के, तथा शरीर में आश्रित अधोगुरुता आदि के निर्माता जो बीजांश हैं, उनका एक देश,",
+  "english": "When again that part (avayava), and the seed-portions (bījāṃśa) which produce the female-making (ones) and the body-dependent (ones) beginning with downward heaviness — a part of those,",
+  "text_flags": [
+   {
+    "src": "strīkaraṇāṃ",
+    "suggest": "strīkaraṇānāṃ",
+    "why": "possible: the genitive plural is expected beside 'śarīrasaṃśrayāṇām ... ādīnām'; the printed form lacks 'nā'"
+   }
+  ],
+  "notes": "Elliptical: no predicate after 'ekadeśaḥ'; 95 gives the result. GROUPING: 94 appears to continue in 95. 'strīkaraṇa' (female-making, or instruments of the female) and 'adho-gurutva' (downward or lower heaviness) are rendered literally and are not firm; the line does not say what is meant. ādi = 'beginning with', the list is not given.",
+  "confidence": "low"
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūpākṛtiprāyāmastriyaṃ",
+      "words": [
+       {
+        "w": "rūpa-ākṛti-prāyām",
+        "gloss": "form; shape; mostly, chiefly",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "astriyam",
+        "gloss": "non-woman (astrī)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārtāṃ",
+      "words": [
+       {
+        "w": "vārtām",
+        "gloss": "vārtā (a name)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब रूप और आकृति की प्रधानता वाली, अस्त्री यानी स्त्री न होने वाली को, जिसका नाम वार्ता है, उत्पन्न करता है।",
+  "english": "Then it produces (one) mostly of form and shape, a non-woman (astrī), named vārtā.",
+  "text_flags": [
+   {
+    "src": "rūpākṛtiprāyāmastriyaṃ",
+    "suggest": "strīrūpākṛtiprāyām astriyaṃ",
+    "why": "possible: 'rūpākṛtiprāyām' alone does not say whose form and shape; the parallel in 97 ('puruṣākṛtiprāyam apuruṣam') suggests 'strī-' has dropped out"
+   }
+  ],
+  "notes": "Subject of 'janayati' is not stated ('it'). The translation follows the printed text; the missing 'strī-' (of a woman) is only a conjecture and is not applied. GROUPING: 95 appears to complete 94. vārtā is a name, not translated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "her, that",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "strīvyāpadamācakṣate",
+      "words": [
+       {
+        "w": "strī-vyāpadam",
+        "gloss": "woman; ruin, defect (vyāpad)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ācakṣate",
+        "gloss": "they call",
+        "gram": "3 pl. pres. ātm. ā-√cakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे स्त्रीव्यापद् कहते हैं।",
+  "english": "They call her a strī-vyāpad (a woman's defect).",
+  "text_flags": [],
+  "notes": "'vyāpad' means ruin, failure or defect; 'strīvyāpad' is kept as a term. 'woman's defect' is a literal reading of the compound and may be a technical name. GROUPING: appears to close 94-95.",
+  "confidence": "medium"
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evameva",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus, in the same way",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puṃso",
+      "words": [
+       {
+        "w": "puṃsaḥ",
+        "gloss": "of the man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukarārakhye",
+      "words": [
+       {
+        "w": "śukra-ākhye",
+        "gloss": "semen (śukra; standard); called",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīje",
+      "words": [
+       {
+        "w": "bīje",
+        "gloss": "in the seed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījaṃpraduṣyatītyādiyojayedvaṃdhyaṃ",
+      "words": [
+       {
+        "w": "bījam",
+        "gloss": "seed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "praduṣyati",
+        "gloss": "is vitiated",
+        "gram": "3 sg. pres. pra-√duṣ"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "ādi",
+        "gloss": "and so on",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yojayet",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. caus. √yuj"
+       },
+       {
+        "w": "vandhyam",
+        "gloss": "barren (one)",
+        "gram": "m./n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūtiprajaṃ",
+      "words": [
+       {
+        "w": "pūti-prajam",
+        "gloss": "spoiled; offspring",
+        "gram": "bahuvrīhi, m./n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣākṛtiprāyamapuruṣaṃmṛṇāsuliṃgā",
+      "words": [
+       {
+        "w": "puruṣa-ākṛti-prāyam",
+        "gloss": "male; shape; mostly",
+        "gram": "bahuvrīhi, m./n. acc. sg."
+       },
+       {
+        "w": "apuruṣam",
+        "gloss": "non-male (apuruṣa)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "mṛṇāsuliṅgā",
+        "gloss": "mṛṇāsuliṅgā (a name; printed form kept, meaning unclear)",
+        "gram": "name"
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "janayatītyetena",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing quotation)",
+        "gram": "ind."
+       },
+       {
+        "w": "etena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātṛjānāṃ",
+      "words": [
+       {
+        "w": "mātṛjānām",
+        "gloss": "of the mother-born",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pitṛjānāṃ",
+      "words": [
+       {
+        "w": "pitṛjānām",
+        "gloss": "of the father-born",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāvayavānāṃvikṛtivyākhyānena",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avayavānām",
+        "gloss": "of parts, limbs",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "vikṛti-vyākhyānena",
+        "gloss": "deformity; explanation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sātmyajānāṃ",
+      "words": [
+       {
+        "w": "sātmya-jānām",
+        "gloss": "sātmya (what suits, habit); born of",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasajānāṃ",
+      "words": [
+       {
+        "w": "rasa-jānām",
+        "gloss": "rasa (nutritive fluid); born of",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sattvajānāṃ",
+      "words": [
+       {
+        "w": "sattva-jānām",
+        "gloss": "sattva (mind); born of",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāvayavānāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avayavānām",
+        "gloss": "of parts, limbs",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtirvyākhyātā",
+      "words": [
+       {
+        "w": "vikṛtiḥ",
+        "gloss": "deformity",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vyākhyātā",
+        "gloss": "explained",
+        "gram": "ppp. vi-ā-√khyā, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is, becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार पुरुष के विषय में भी, जब शुक्र नामक बीज में बीज दूषित होता है, इत्यादि जोड़ लेना चाहिए: बन्ध्य, बिगड़ी हुई सन्तान वाला, तथा पुरुष की आकृति की प्रधानता वाला, अपुरुष, जिसका नाम मृणासुलिंगा है, उसे उत्पन्न करता है। इसके द्वारा, माता से और पिता से उत्पन्न अवयवों की विकृति के व्याख्यान से, सात्म्य से, रस से और सत्त्व से उत्पन्न अवयवों की विकृति भी समझा दी गई होती है।",
+  "english": "In just the same way, for a man: 'when, in the seed called śukra, the seed is vitiated' and so on, one should apply it: a barren (one), one of spoiled offspring; and likewise (one) mostly of male shape, a non-male, named mṛṇāsuliṅgā, it produces. By this explanation of the deformity of the mother-born and father-born parts, the deformity of the parts born of sātmya (what suits), of rasa and of sattva (mind) is explained too.",
+  "text_flags": [
+   {
+    "src": "śukarārakhye",
+    "suggest": "śukrākhye",
+    "why": "possible: 'śukarāra-' is not a word; 'śukra-ākhye' (called semen) fits the sense and the pattern of 'śoṇitākhye' in 91; the ra-insertion also appears there"
+   }
+  ],
+  "notes": "The first part is a quotation ('when ... iti') of the pattern of 91, applied to the man. 'mṛṇāsuliṅgā' is a name after 'nāma'; its meaning is unclear and the print may be corrupt, so it is left untranslated. Several tokens are printed without spaces (bījaṃpraduṣyatītyādiyojayedvaṃdhyaṃ, puruṣākṛtiprāyamapuruṣaṃmṛṇāsuliṃgā, cāvayavānāṃvikṛtivyākhyānena). 'vandhyam' is read as an accusative object (a barren male), 'pūtiprajam' as 'of spoiled offspring' (conjectural). sātmya = what suits one, habit; rasa here is nutritive fluid (probable); sattva = mind (standard); each tagged as the standard reading. Subject of 'janayati' not stated. 'ity-etena' closes the quotation and starts 'by this'.",
+  "confidence": "low"
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of which",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṃgāvayavasya",
+      "words": [
+       {
+        "w": "aṅga-avayavasya",
+        "gloss": "limb; part",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīje",
+      "words": [
+       {
+        "w": "bīje",
+        "gloss": "in the seed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījāṃśe",
+      "words": [
+       {
+        "w": "bīja-aṃśe",
+        "gloss": "seed; portion",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "utpattirbhavati",
+      "words": [
+       {
+        "w": "utpattiḥ",
+        "gloss": "arising, origin",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "occurs, is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasyāṃgāvayavasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aṅga-avayavasya",
+        "gloss": "limb; part",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtirupajāyate",
+      "words": [
+       {
+        "w": "vikṛtiḥ",
+        "gloss": "deformity",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises, is produced",
+        "gram": "3 sg. pres. ātm. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस अंग-अवयव के बीज में या बीजांश में उत्पत्ति होती है, उस-उस अंग-अवयव की विकृति उत्पन्न होती है।",
+  "english": "Of whichever limb-part (aṅga-avayava), in its seed or seed-portion, an origin occurs, of that very limb-part a deformity arises.",
+  "text_flags": [
+   {
+    "src": "utpattirbhavati",
+    "suggest": "upatāpo bhavati",
+    "why": "possible: 'utpatti' (origin) is odd here; 99 gives the opposite 'anupatāpāt' (from absence of affliction), which suggests 'upatāpaḥ' (affliction); the print is translated as given"
+   }
+  ],
+  "notes": "Printed 'yasya' is neuter or masculine genitive (aṅgāvayava is masculine in form 'aṅgāvayavasya'; gender not marked). The printed reading 'utpatti' is translated as it stands; the conjecture 'upatāpa' is not applied. The pairing with 99 is not asserted.",
+  "confidence": "low"
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nopajāyate'nupattāpāt",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. ātm. upa-√jan"
+       },
+       {
+        "w": "an-upatāpāt",
+        "gloss": "without; affliction",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्पन्न नहीं होती, उपताप न होने से।",
+  "english": "(It) does not arise, because of absence of affliction.",
+  "text_flags": [
+   {
+    "src": "nopajāyate'nupattāpāt",
+    "suggest": "nopajāyate 'nupatāpāt",
+    "why": "possible: doubled 'tt' in 'anupattāpāt' appears to be a print slip for 'anupatāpāt' (an-upatāpāt, no affliction)"
+   }
+  ],
+  "notes": "Elliptical: the subject (the deformity of 98) is understood and not supplied. Printed 'anupattāpāt' is read an-upatāpāt.",
+  "confidence": "medium"
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "labdhagarbhā'nakṣameva",
+      "words": [
+       {
+        "w": "labdha-garbhā",
+        "gloss": "having obtained; embryo, pregnancy",
+        "gram": "bahuvrīhi, f. nom. sg."
+       },
+       {
+        "w": "anakṣam",
+        "gloss": "unclear (printed form kept; conjecturally 'aniśam', constantly)",
+        "gram": "unclear"
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātalānyāsevate",
+      "words": [
+       {
+        "w": "vātalāni",
+        "gloss": "Vāta-increasing (vātala; standard) (ones)",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "āsevate",
+        "gloss": "resorts to, takes",
+        "gram": "3 sg. pres. ātm. ā-√sev"
+       }
+      ]
+     },
+     {
+      "src": "tadā'syā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥprakupitaḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "Vāyu (wind-humour, Vāta)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "prakupitaḥ",
+        "gloss": "provoked, aggravated",
+        "gram": "ppp. pra-√kup, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīramanusarpan",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anusarpan",
+        "gloss": "moving along",
+        "gram": "pres. part. anu-√sṛp, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhāśaye'vatiṣṭhamāno",
+      "words": [
+       {
+        "w": "garbhāśaye",
+        "gloss": "in the uterus (garbhāśaya; standard)",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "avatiṣṭhamānaḥ",
+        "gloss": "lodging, stationed",
+        "gram": "pres. part. ātm. ava-√sthā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhasya",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the embryo",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaḍabadhiramūkaminmiṇagadgadakhaṃjakubjavāmanahīnāṃgādhikāṃgatvānyanyaṃ",
+      "words": [
+       {
+        "w": "jaḍa-badhira-mūka-minmiṇa-gadgada-khañja-kubja-vāmana-hīna-aṅga-adhika-aṅga-tvāni",
+        "gloss": "dull, stupid (jaḍa); deaf; mute; nasal-voiced (minmiṇa; probable); stammering; lame; hunchbacked; dwarfish; deficient; limb; excessive; limb; -ness",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātavikāraṃ",
+      "words": [
+       {
+        "w": "vāta-vikāram",
+        "gloss": "Vāta; disorder",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "makes, produces",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जब गर्भ पाई हुई स्त्री — अनक्षम् छपा रूप अस्पष्ट है, अनुमानित पाठ पर निरन्तर — वातकारक पदार्थों का सेवन करती है, तब उसका प्रकुपित वायु शरीर में सरकता हुआ गर्भाशय में ठहरकर गर्भ में जड़ता, बहरापन, गूँगापन, नकियापन, हकलापन, लंगड़ापन, कुबड़ापन, बौनापन, अंगों की कमी और अंगों की अधिकता, या कोई दूसरा वात का विकार उत्पन्न करता है।",
+  "english": "And when (she) who has obtained a pregnancy resorts only to Vāta-increasing (ones), the printed 'anakṣam' being unclear (conjecturally 'constantly'), then her provoked Vāyu, moving along the body and lodging in the uterus (garbhāśaya), produces in the embryo the states of being dull (jaḍa), deaf (badhira), mute (mūka), nasal-voiced (minmiṇa), stammering (gadgada), lame (khañja), hunchbacked (kubja), dwarfish (vāmana), deficient in limbs and excessive in limbs, or another Vāta disorder (vātavikāra).",
+  "text_flags": [
+   {
+    "src": "labdhagarbhā'nakṣameva",
+    "suggest": "labdhagarbhā 'niśam eva",
+    "why": "possible and not firm: 'anakṣam' is not a word in this sense; 'aniśam' (constantly) is a guess from similar letters (śa/kṣa)"
+   }
+  ],
+  "notes": "The word 'anakṣam' is doubtful; the conjecture 'aniśam, constantly' is not built into the Sanskrit and is only marked in the translation. 'labdhagarbhā' = having obtained an embryo (pregnant). 'garbhasya' goes with the long compound ('in the embryo ... states of ...'); the suffix -tva applies to the whole list. 'minmiṇa' (nasal or indistinct speech) is probable. 'hīnāṅga' (deficient in limbs) and 'adhikāṅga' (excessive in limbs) are as printed. Vāyu is Vāta (standard).",
+  "confidence": "low"
  }
 ]
