@@ -1,0 +1,841 @@
+{
+ "units": [
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "च्यन्य नाम का अस्पष्ट शब्द",
+     "problem": "\"नाम का\" presents the damaged word as a name; English only says (unclear)",
+     "fix": "च्यन्य अस्पष्ट शब्द",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "hindi",
+      "old": "च्यन्य नाम का अस्पष्ट शब्द",
+      "new": "च्यन्य अस्पष्ट शब्द"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "cyanya",
+     "problem": "HUMAN DECISION: cavya is a plausible repair (Devanagari च्यन्य vs चव्य) but is only a guess; the draft correctly keeps the word unclear and low confidence. Nothing to patch; keep as is unless the owner has a second witness.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शिंशपा यानी शीशम",
+     "problem": "Hindi silently normalises the printed śiśipā to शिंशपा while English keeps śiśipā",
+     "fix": "शिशिपा यानी शीशम",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शिंशपा यानी शीशम",
+      "new": "शिशिपा यानी शीशम"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śiśipā",
+     "problem": "printed śiśipā is kept as is (standard forms are śiṃśapā / śiśapā, sissoo); worth one line",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "append_note",
+      "text": "'śiśipā' is kept as printed; the usual forms are śiṃśapā or śiśapā (sissoo, Dalbergia sissoo)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "avagṛṇhāti",
+     "problem": "`words` has avagṛhṇāti but the printed avagṛṇhāti is not flagged (silent emendation); the note calls it an \"attested spelling variant\", which is not established",
+     "fix": "add a flag and soften the note",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "52",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "bastiśiro'vagṛṇhāti",
+         "suggest": "bastiśiro'vagṛhṇāti",
+         "why": "possible: ṇh for hṇ (metathesis); avagṛhṇāti (takes hold of) is the standard form"
+        }
+       ]
+      },
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "notes",
+       "old": "'avagṛṇhāti' is an attested spelling variant of avagṛhṇāti.",
+       "new": "'avagṛṇhāti' is read as avagṛhṇāti (see the flag; a possible metathesis of ṇh)."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "basti",
+     "problem": "OBSERVATION: basti = urinary bladder is the standard anatomical sense, so the hedge \"(basti, probably)\" is underconfident but harmless; owner may drop it. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "āḍhyaḥ",
+     "problem": "\"for example something like pains\" is an invented guess about the lost word",
+     "fix": "soften",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "probably a corrupt word for a plural subject (for example something like 'pains')",
+      "new": "possibly a corrupt word for the plural subject of the verb"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kārayitavyā ... vidhiṃ",
+     "problem": "HUMAN DECISION: the gerundive kārayitavyā (f. nom.) with an accusative object vidhim is irregular (a passive gerundive takes a nominative object), so either the form or the case is damaged; also the English/Hindi add a second \"and\"/भी before \"the procedure stated just before\" (the only ca follows caṅkramaṇam). One possible repair: āptāḥ (trusted attendants) for āḍhyaḥ, which would give the missing subject; only a guess. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hi",
+     "problem": "Hindi drops hi (\"for\"), which the English renders",
+     "fix": "क्योंकि गर्भिणी के लिए कठोर व्यायाम से बचना सदा बताया जाता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि गर्भिणी के लिए कठोर व्यायाम से बचना सदा बताया जाता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss/english/hindi",
+     "where": "muśalyāyāmena",
+     "problem": "Over-enrichment of a damaged word: the guess \"exertion with a pestle\" is placed in the gloss and in both translations; the glossary wants the word glossed \"unclear\" and unrestorable words left unenriched. The guess stays in the flag and notes.",
+     "fix": "gloss unclear; translations \"(unclear)\" only",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "57",
+       "op": "word",
+       "match_w": "muśalyāyāmena",
+       "field": "gloss",
+       "value": "unclear"
+      },
+      {
+       "n": "57",
+       "op": "replace",
+       "field": "english",
+       "old": "muśalyāyāma (unclear; conjecturally exertion with a pestle)",
+       "new": "muśalyāyāma (unclear)"
+      },
+      {
+       "n": "57",
+       "op": "replace",
+       "field": "hindi",
+       "old": "मुशल्यायाम अस्पष्ट शब्द है जिसका अनुमानित अर्थ मूसल का श्रम है",
+       "new": "मुशल्यायाम अस्पष्ट शब्द है"
+      },
+      {
+       "n": "57",
+       "op": "append_note",
+       "text": "The guess muśala-vyāyāma ('exertion with a pestle') comes only from the context of units 54-56 and is kept out of the gloss and translation; see the flag."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "vāyu",
+     "problem": "OBSERVATION: vāyuḥ here is the bodily wind (Vāta) that the line says is stirred; \"the wind (vāyu)\" is acceptable (doctrinal term, no forced equivalent); owner may prefer \"the wind (vāyu, i.e. Vāta)\". No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pīḍayet",
+     "problem": "pīḍ is a tenth-class (curādi) verb, not a causative",
+     "fix": "3 sg. opt. √pīḍ (10th class)",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "word",
+      "match_w": "pīḍayet",
+      "field": "gram",
+      "value": "3 sg. opt. √pīḍ (10th class)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नीचे की ओर",
+     "problem": "\"downward\" is not in pravāhayasva; added direction",
+     "fix": "प्रवाहण करो यानी जोर लगाओ",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रवाहण करो यानी नीचे की ओर बल लगाओ",
+      "new": "प्रवाहण करो यानी जोर लगाओ"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "HUMAN DECISION: two corrections (suprasannas te, janayiṣyasi) are adopted in `words`; they are marked conjectural in both translations as required. The \"suprasannete\" repair is itself uncertain (a plain sandhi gives suprasannas te, which is two letters away from the print); consider low confidence. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपीड़ित रहकर",
+     "problem": "\"रहकर\" supplies a verb the Sanskrit does not have (avikliṣṭā is an adjective)",
+     "fix": "अपीड़ित तुम अपीड़ित को जन्म दो",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम अपीड़ित रहकर अपीड़ित को",
+      "new": "अपीड़ित तुम अपीड़ित को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "apām samuddhṛtam",
+     "problem": "OBSERVATION: apām is a genitive (\"of the waters\"); \"drawn up from the waters\" turns it into an ablative. Literal: \"this nectar of the waters, drawn up\". Left to the owner. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tadanalpavanārkavāsavāste",
+     "problem": "The reason given is wrong: the suggested form differs from the print by one dropped \"a\" after l (analpa- for analapa-), not by swapped a/p letters",
+     "fix": "fix the why",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "and the a/p letters look swapped",
+      "new": "and a short 'a' looks dropped after 'l' (analpavana for analapavana)"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "HUMAN DECISION: conjectural split plus an unexplained lavaṇāmbudhara; both translations are hedged correctly, but confidence \"medium\" may be generous (consider low). No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vedanā",
+     "problem": "Useful identification missing",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "append_note",
+      "text": "vedanā 'pain' here is probably the pain of labour (contractions), a reading from context (probable)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "anarthakaram",
+     "problem": "anarthakara can mean \"causing harm/mischief\" as well as \"useless\"; the draft gives only \"useless\", and ahitam follows separately",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "append_note",
+      "text": "'anarthakaram' is rendered 'useless'; an alternative is 'causing harm/trouble' (anartha = harm)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and leads to injury",
+     "problem": "\"and\" and \"leads to\" are supplied (the Sanskrit has only the dative upaghātāya and no connective before it)",
+     "fix": "is for injury",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "english",
+      "old": "pain (vedanā) is like the holding back of those very (urges), and leads to injury.",
+      "new": "pain (vedanā), like the holding back of those very (urges), is for injury."
+     }
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "evident cause",
+     "problem": "\"evident\" overstates; the text does not name the cause",
+     "fix": "appears to be",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "replace",
+      "field": "notes",
+      "old": "is the evident cause of the joy",
+      "new": "appears to be the cause of the joy"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "append_note",
+      "text": "The 'if' condition of 79 (garbha-saṅga) appears to carry on into 80 and 81; it is not repeated here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
+     "problem": "`words` has upariṣṭāt but the printed upariṣṭhāt is not flagged (silent emendation); the note calls it a \"variant\", which is not established",
+     "fix": "flag it",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "82",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "nābherupariṣṭhādbalavadupapīḍyapṛṣṭhata",
+         "suggest": "nābherupariṣṭādbalavadupapīḍyapṛṣṭhata",
+         "why": "possible: ṣṭh for ṣṭ in upariṣṭāt (from above); the aspirate looks like a misprint"
+        }
+       ]
+      },
+      {
+       "n": "82",
+       "op": "replace",
+       "field": "notes",
+       "old": "(variant of upariṣṭāt)",
+       "new": "(read as upariṣṭāt; see the flag)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ākuṭṭayet",
+     "problem": "kuṭṭ is tenth-class (curādi), not a causative",
+     "fix": "3 sg. opt. ā-√kuṭṭ (10th class)",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "word",
+      "match_w": "ākuṭṭayet",
+      "field": "gram",
+      "value": "3 sg. opt. ā-√kuṭṭ (10th class)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "append_note",
+      "text": "Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "append_note",
+      "text": "Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "append_note",
+      "text": "Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "cakaṇṭhatālu",
+     "problem": "HUMAN DECISION: the printed \"ca\" (veṇyā aṅgulyā vā keśaveṣṭitayā ca kaṇṭhatālu) is glossed \"and\" but has no word in either translation; it may join keśaveṣṭitayā to the preceding instrumentals or kaṇṭha and tālu. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "append_note",
+      "text": "Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on here; it is not repeated."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kāca-maṇi",
+     "problem": "OBSERVATION: kept literal (\"glass-gem\") as the glossary requires; correct. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "alāmbu",
+     "problem": "The flag says alāmbu \"is not changed\" but `words` has alābu (changed)",
+     "fix": "correct the why",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "replace",
+      "field": "text_flags.1.why",
+      "old": "'alāmbu' is a valid variant of alābu and is not changed",
+      "new": "'alāmbu' (a variant of alābu) is normalised to alābu in `words`"
+     }
+    },
+    {
+     "field": "hindi/english",
+     "where": "śāli",
+     "problem": "Policy: modern names beside the Sanskrit term; śāli has no gloss in either translation (the gloss in `words` says a rice variety)",
+     "fix": "add \"a variety of rice\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "87",
+       "op": "replace",
+       "field": "hindi",
+       "old": "या शालि की जड़ के साथ",
+       "new": "या शालि यानी धान की एक किस्म की जड़ के साथ"
+      },
+      {
+       "n": "87",
+       "op": "replace",
+       "field": "english",
+       "old": "ghee cooked with śāli root",
+       "new": "ghee cooked with the root of śāli (a variety of rice)"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "kaṭukālābu",
+     "problem": "HUMAN DECISION: one drug (bitter bottle gourd, kaṭuka + alābu) versus two (kaṭukā, probably Picrorhiza kurroa, + alābu): both give kaṭukālābu by sandhi (ā+a). The draft takes one drug, hedged \"probably\", and records the alternative; reasonable. No patch.",
+     "fix": "none",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "append_note",
+      "text": "Elliptical: the 'if the placenta does not fall' condition of 82 appears to carry on through 83-92."
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and made into a paste",
+     "problem": "\"and\" is supplied; the Sanskrit lists the three instrumentals (the second vā after kalkīkṛtaiḥ) without \"and\"; the Hindi has no \"and\"",
+     "fix": "use commas",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "replace",
+      "field": "english",
+      "old": "(probably mustard oil) and made into a paste",
+      "new": "(probably mustard oil), made into a paste"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṭu-taila-miśraiḥ",
+     "problem": "\"m./n.\" guesses a gender for an unstated noun (glossary: no gender in gram for unstated nouns)",
+     "fix": "tat-puruṣa, inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "word",
+      "match_w": "kaṭu-taila-miśraiḥ",
+      "field": "gram",
+      "value": "tat-puruṣa, inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "she",
+     "problem": "\"she\" is supplied; the subject is not stated (the draft notes this itself)",
+     "fix": "one",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "90",
+       "op": "replace",
+       "field": "english",
+       "old": "Or she should eat",
+       "new": "Or one should eat"
+      },
+      {
+       "n": "90",
+       "op": "replace",
+       "field": "notes",
+       "old": "Subject is the woman (not stated).",
+       "new": "The subject is not stated (probably the woman)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi/english",
+     "where": "lāṅgalī",
+     "problem": "Identification missing beside the term (given in 47 and 81; policy wants it beside the Sanskrit name)",
+     "fix": "add glory lily / कलिहारी",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "91",
+       "op": "replace",
+       "field": "english",
+       "old": "of lāṅgalī root",
+       "new": "of lāṅgalī (glory lily) root"
+      },
+      {
+       "n": "91",
+       "op": "replace",
+       "field": "hindi",
+       "old": "या लाङ्गली की जड़",
+       "new": "या लाङ्गली यानी कलिहारी की जड़"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "append_note",
+      "text": "Appears to continue the placenta remedies of 82 onward."
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "such as",
+     "problem": "\"such as\" appears in the English translation (policy: no \"such as\"); the identification can be stated directly",
+     "fix": "probably snuhī, a spurge",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "replace",
+      "field": "english",
+      "old": "probably a spurge such as snuhī",
+      "new": "probably snuhī, a spurge"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "continuation",
+     "problem": "sentence continuation not noted",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "append_note",
+      "text": "Appears to continue the placenta remedies of 82 onward."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "46 units reviewed word by word. No unit needs retranslation and no identification was found wrong: cirabilva, piṇḍītaka, viśalyā, mahāvṛkṣa, jālinī, suvarcalā, hiraṇyapuṣpī, aparā and kaṭutaila are tagged and hedged acceptably. Fixes: over-enrichment of a damaged word (57), two silent emendations without flags (52, 82), a wrong flag reason (70) and a flag text contradicting `words` (87), supplied words in English/Hindi (74, 88, 90, 60, 64), a dropped hi in Hindi (56), missing identification beside lāṅgalī/śāli (91, 87), 'such as' in 92, curādi verbs mislabelled causative (58, 83), and cross-unit continuation notes (80, 83-87, 91, 92). Human decisions left open: 47 cyanya, 53 āḍhyaḥ and the gerundive+accusative, 57 trāryā/muśalyāyāma, 60 and 70 conjectures (confidence), 69 genitive apām, 85 stray ca, 87 kaṭukālābu one drug vs two. Copula supplied in 51/55/73/74 is within the glossary's 'copula understood' practice (74 loses the extra 'and leads to'). Regrouping: none required; 51+52 (heading plus sign), 62-65 and 67-68 (mantra), 75+76, 79-81 and 82-92 (remedy lists) are noted as continuations only.",
+ "glossary_suggestions": [
+  "curādi verbs (pīḍayet, ākuṭṭayet, bhakṣayet) take gram '(10th class)', not 'caus.'; dhūpayet label left as is.",
+  "aparā = placenta (अपरा यानी जेर), standard; yoni = vagina/birth passage, standard; vedanā in labour contexts = labour pain (probable); garbha-saṅga = retained/obstructed fetus (probable).",
+  "pravāhaṇa / pra-√vah = 'bearing down' (English), Hindi प्रवाहण with जोर लगाना, no added 'downward'.",
+  "Identifications used in ch03 k2: cirabilva = Holoptelea integrifolia / चिलबिल (probable); piṇḍītaka = Randia dumetorum / मैनफल (probable); viśalyā = lāṅgalī (probable); suvarcalā disputed; jālinī a Luffa, तोरई hedged (disputed); mahāvṛkṣa probably snuhī / थूहर (disputed); hiraṇyapuṣpī unidentified; kaṭutaila probably mustard oil.",
+  "kāca-maṇi stays literal 'glass-gem' (sense doubtful); a damaged word's conjectured meaning goes only to the text_flag and notes, never into the gloss or translation (e.g. 57 muśalyāyāma).",
+  "A silent emendation in `words` (e.g. avagṛṇhāti→avagṛhṇāti, upariṣṭhāt→upariṣṭāt, alāmbu→alābu) needs a text_flag; do not call a misprint an 'attested variant' without evidence.",
+  "Do not supply 'she' for an unstated subject of an optative when the actor may differ (use 'one'); 'such as' is banned even inside identification parentheses."
+ ]
+}

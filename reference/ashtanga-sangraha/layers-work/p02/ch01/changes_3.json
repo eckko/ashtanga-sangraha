@@ -1,0 +1,325 @@
+[
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "vadanām",
+  "old": "n. acc. sg. (bahuvrīhi, f. acc. sg.)",
+  "new": "n.",
+  "why": "reviewer (error): Member words of the bahuvrīhi carry the compound's ending: vadanām labelled 'n. acc. sg. (bahuvrīhi, f. acc. sg.)' is self-contradictory (a case label on a member; vadana is neuter, the whole compound feminine accusative); payodharām likewise. Stems belong in w."
+ },
+ {
+  "n": "87",
+  "field": "word.w",
+  "word": "vadanām",
+  "old": "vadanām",
+  "new": "vadana",
+  "why": "reviewer (error): Member words of the bahuvrīhi carry the compound's ending: vadanām labelled 'n. acc. sg. (bahuvrīhi, f. acc. sg.)' is self-contradictory (a case label on a member; vadana is neuter, the whole compound feminine accusative); payodharām likewise. Stems belong in w."
+ },
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "payodharām",
+  "old": "m. (bahuvrīhi, f. acc. sg.)",
+  "new": "m.",
+  "why": "reviewer (error): Member words of the bahuvrīhi carry the compound's ending: vadanām labelled 'n. acc. sg. (bahuvrīhi, f. acc. sg.)' is self-contradictory (a case label on a member; vadana is neuter, the whole compound feminine accusative); payodharām likewise. Stems belong in w."
+ },
+ {
+  "n": "87",
+  "field": "word.w",
+  "word": "payodharām",
+  "old": "payodharām",
+  "new": "payodhara",
+  "why": "reviewer (error): Member words of the bahuvrīhi carry the compound's ending: vadanām labelled 'n. acc. sg. (bahuvrīhi, f. acc. sg.)' is self-contradictory (a case label on a member; vadana is neuter, the whole compound feminine accusative); payodharām likewise. Stems belong in w."
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "srasta",
+  "old": "ppp. √srṃs",
+  "new": "ppp. √sraṃs",
+  "why": "reviewer (minor): Root is √sraṃs, not √srṃs."
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "One should know that woman to be in her fertile season (ṛtumatī) who has drooping eyes and belly and desire for a man.",
+  "new": "One should know that woman to be in her ṛtu (season), a ṛtumatī who has drooping eyes and belly and desire for a man.",
+  "why": "reviewer (minor): 'fertile season' is the draft's own interpretation and conflicts with sibling unit 83 (ṛtu (season) = the twelve nights counted from ārtava seen). The note 'her fertile period after menstruation' contradicts 83."
+ },
+ {
+  "n": "88",
+  "field": "word.gloss",
+  "word": "ṛtumatīm",
+  "old": "a woman in her fertile season (ṛtumatī)",
+  "new": "a woman in her ṛtu (season) (ṛtumatī)",
+  "why": "reviewer (minor): 'fertile season' is the draft's own interpretation and conflicts with sibling unit 83 (ṛtu (season) = the twelve nights counted from ārtava seen). The note 'her fertile period after menstruation' contradicts 83."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "GROUPING: continues 87 (the accusative descriptions in 87 and here qualify 'striyam'). 'kukṣi' = belly/flank. 'ṛtumatī' = a woman in the ṛtu (her fertile period after menstruation) (standard sense).",
+  "new": "GROUPING: continues 87 (the accusative descriptions in 87 and here qualify 'striyam'). 'kukṣi' = belly/flank. 'ṛtumatī' = a woman in her ṛtu (season); in ch01 u83 the ṛtu is the twelve nights counted from the ārtava being seen (standard sense).",
+  "why": "reviewer (minor): 'fertile season' is the draft's own interpretation and conflicts with sibling unit 83 (ṛtu (season) = the twelve nights counted from ārtava seen). The note 'her fertile period after menstruation' contradicts 83."
+ },
+ {
+  "n": "90",
+  "field": "word.gram",
+  "word": "yoniḥ",
+  "old": "m. nom. sg.",
+  "new": "f. nom. sg.",
+  "why": "reviewer (error): yoni is feminine here (agrees with sā), not m."
+ },
+ {
+  "n": "90",
+  "field": "english",
+  "old": "when the fertile season (ṛtu) has passed, that yoni (womb) does not receive semen (śukra) inside.",
+  "new": "when the ṛtu (season) has passed, that yoni (vagina) does not receive semen (śukra) inside.",
+  "why": "reviewer (minor): Sibling units (k2 u59-85) render yoni as 'yoni (vagina)' and keep garbhāśaya = womb (this chunk u127); 'womb' for yoni collides with garbhāśaya. 'fertile season' is interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "90",
+  "field": "word.gloss",
+  "word": "yoniḥ",
+  "old": "yoni (womb, female genital passage)",
+  "new": "yoni (vagina)",
+  "why": "reviewer (minor): Sibling units (k2 u59-85) render yoni as 'yoni (vagina)' and keep garbhāśaya = womb (this chunk u127); 'womb' for yoni collides with garbhāśaya. 'fertile season' is interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "90",
+  "field": "word.gloss",
+  "word": "ṛtau",
+  "old": "in the fertile season (ṛtu)",
+  "new": "in the ṛtu (season)",
+  "why": "reviewer (minor): Sibling units (k2 u59-85) render yoni as 'yoni (vagina)' and keep garbhāśaya = womb (this chunk u127); 'womb' for yoni collides with garbhāśaya. 'fertile season' is interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "91",
+  "field": "english",
+  "old": "Blood accumulated over a month, again in the fertile season (ṛtu), by the two dhamanīs (vessels),",
+  "new": "Blood accumulated over a month, again in the ṛtu (season), by the two dhamanīs (vessels),",
+  "why": "reviewer (minor): Interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "91",
+  "field": "word.gloss",
+  "word": "ṛtau",
+  "old": "in the fertile season (ṛtu)",
+  "new": "in the ṛtu (season)",
+  "why": "reviewer (minor): Interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "91",
+  "field": "notes",
+  "old": "GROUPING: the sentence is completed in 92 (verb 'sṛdet'). 'upacitaṃ raktaṃ' agree. dhamanī = a vessel or channel (probable; whether artery, vein or other duct is not stated); two are named. The exact case sense of 'dhamanībhyām' (instrumental dual) is by means of the two vessels.",
+  "new": "GROUPING: the sentence is completed in 92 (verb 'sṛdet'). 'upacitaṃ raktaṃ' agree. dhamanī = a vessel or channel (probable; whether artery, vein or other duct is not stated); the text says only 'the two' and names neither. The exact case sense of 'dhamanībhyām' (instrumental dual) is by means of the two vessels.",
+  "why": "reviewer (minor): Interpretive; siblings use 'ṛtu (season)'."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "थोड़ा काला और दुर्गन्ध वाला रक्त वायु योनि के मुख से बाहर निकालता है।",
+  "new": "थोड़े काले और दुर्गन्ध वाले को वायु योनि के मुख से निकालता है।",
+  "why": "reviewer (error): Hindi supplies the noun रक्त, which unit 92 does not contain (the adjectives are unattached; the object is carried from 91). Policy: plain adjective in Hindi, no supplied noun. Also बाहर is not in the Sanskrit."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "तब पुष्पदर्शन यानी रजोदर्शन होने पर पहले दिन से ही स्त्री ब्रह्मचारिणी रहे, स्नान और अलंकार से रहित, दर्भ के बिछौने पर सोती हुई, तीन रात तक रहे।",
+  "new": "तब पुष्पदर्शन यानी रजोदर्शन होने पर पहले दिन से ही ब्रह्मचारिणी रहे, स्नान और अलंकार से रहित, दर्भ के बिछौने पर सोती हुई, तीन रात तक रहे।",
+  "why": "reviewer (minor): darbha is a plant name and the policy asks for the modern name beside the Sanskrit; draft gives none. Also Hindi supplies the noun स्त्री."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "तब पुष्पदर्शन यानी रजोदर्शन होने पर पहले दिन से ही ब्रह्मचारिणी रहे, स्नान और अलंकार से रहित, दर्भ के बिछौने पर सोती हुई, तीन रात तक रहे।",
+  "new": "तब पुष्पदर्शन यानी रजोदर्शन होने पर पहले दिन से ही ब्रह्मचारिणी रहे, स्नान और अलंकार से रहित, दर्भ यानी सम्भवतः कुश के बिछौने पर सोती हुई, तीन रात तक रहे।",
+  "why": "reviewer (minor): darbha is a plant name and the policy asks for the modern name beside the Sanskrit; draft gives none. Also Hindi supplies the noun स्त्री."
+ },
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "Prose unit; the subject (the woman, 'strī') is not named and is understood from the context. 'puṣpa' (flower) is the usual word for the menstrual flow; 'puṣpadarśana' = first sight of menses (standard). 'āsīta' is 'should stay / sit', here 'remain'.",
+  "new": "Prose unit; the subject (the woman, 'strī') is not named and is understood from the context. 'puṣpa' (flower) is the usual word for the menstrual flow; 'puṣpadarśana' = first sight of menses (standard). 'āsīta' is 'should stay / sit', here 'remain'. darbha = a sacred grass, usually kuśa (Desmostachya bipinnata); some sources give Imperata cylindrica for darbha (identity disputed).",
+  "why": "reviewer (minor): darbha is a plant name and the policy asks for the modern name beside the Sanskrit; draft gives none. Also Hindi supplies the noun स्त्री."
+ },
+ {
+  "n": "94",
+  "field": "hindi",
+  "old": "और पत्ते के दोने या हथेली, इनमें से किसी एक में, दूध के साथ पकाया हुआ थोड़ा यावक यानी सम्भवतः जौ से बना एक पदार्थ, कृश करने के लिए खाए।",
+  "new": "और पत्ते के दोने या हथेली, इनमें से किसी एक में, दूध के साथ पकाया हुआ थोड़ा यावक यानी सम्भवतः यव से बना एक पदार्थ, कृश करने के लिए खाए।",
+  "why": "reviewer (minor): GLOSSARY: yava = यव (not जौ)."
+ },
+ {
+  "n": "95",
+  "field": "word.gram",
+  "word": "varjayet",
+  "old": "3 sg. opt. caus. √vṛj",
+  "new": "3 sg. opt. 10th cl. √vṛj",
+  "why": "reviewer (minor): varj- (vṛj) is a 10th-class verb, not a causative."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "चौथे दिन उबटन लगाई हुई, ठण्डे जल से नहाई हुई, लेप लगाई हुई, अलंकृत, श्वेत माला और वस्त्र वाली, मंगल और स्वस्त्ययन किए हुए, अन्य किसी में मन न रखने वाली स्त्री ठीक इसी प्रकार के पति को देखे।",
+  "new": "चौथे दिन उबटन लगाई हुई, ठण्डे जल से नहाई हुई, लेप लगाई हुई, अलंकृत, श्वेत माला और वस्त्र वाली, मंगल और स्वस्त्ययन कर चुकी, अन्य किसी में मन न रखने वाली स्त्री ठीक इसी प्रकार के पति को देखे।",
+  "why": "reviewer (minor): Gender/number mismatch: the bahuvrīhi qualifies the woman (f. sg.)."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "cintayati",
+  "old": "3 sg. pres. caus. √cint",
+  "new": "3 sg. pres. 10th cl. √cint",
+  "why": "reviewer (minor): cint- is 10th class, not causative."
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "तब स्नान के बाद, फिर भी, गुणवान् पुत्र की इच्छा वाला चार रात छोड़ दे।",
+  "new": "अनुमानित पाठ पर, तब स्नान के बाद, फिर से, गुणवान् पुत्र की इच्छा वाला चार रात बीतने दे।",
+  "why": "reviewer (error): 'फिर भी' means 'nevertheless'; punar api = 'again' (GLOSSARY: फिर से). The draft's reading (snātāt, upekṣeta = let pass, caturātra) is conjectural but the translations carry no 'on a conjectural reading' mark (GLOSSARY)."
+ },
+ {
+  "n": "98",
+  "field": "english",
+  "old": "Then, after the bath, again, one desiring a son with good qualities should let four nights pass.",
+  "new": "Then, after the bath, again, one desiring a son with good qualities should let four nights pass (on a conjectural reading).",
+  "why": "reviewer (error): 'फिर भी' means 'nevertheless'; punar api = 'again' (GLOSSARY: फिर से). The draft's reading (snātāt, upekṣeta = let pass, caturātra) is conjectural but the translations carry no 'on a conjectural reading' mark (GLOSSARY)."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "'upekṣeta' (look over, disregard, let pass) is read as letting four nights go by; this is a conjectural sense in context (counting with 99-100 reaches the 8th night). The subject is not stated: 'putrārthī' is masculine, but the form is the general one. 'snātāt' (ablative of snāta, 'after the bath') is an unusual form. GROUPING: this unit appears to continue with 99 and 100.",
+  "new": "'upekṣeta' (look over, disregard, let pass) is read as letting four nights go by; this is a conjectural sense in context (counting with 99-100 reaches the 8th night). The subject is not stated: 'putrārthī' is masculine, but the form is the general one. 'snātāt' (ablative of snāta, 'after the bath') is an unusual form. GROUPING: this unit appears to continue with 99 and 100. Reviewer: upekṣeta (upa-√īkṣ) usually means 'disregard, abstain from, neglect'. A possible alternative reading is snātāṃ (f. acc., 'the bathed woman') with the t as a stray letter, giving 'should abstain from the bathed woman for four nights'; undecided, for the owner.",
+  "why": "reviewer (error): 'फिर भी' means 'nevertheless'; punar api = 'again' (GLOSSARY: फिर से). The draft's reading (snātāt, upekṣeta = let pass, caturātra) is conjectural but the translations carry no 'on a conjectural reading' mark (GLOSSARY)."
+ },
+ {
+  "n": "99",
+  "field": "english",
+  "old": "From the day of the flower (menstruation), seven nights.",
+  "new": "From the day of the flower (menstruation), seven nights (on a conjectural reading).",
+  "why": "reviewer (minor): Reading puṣpa-dināt is a conjecture (puṣpe dināt is the other option) but the translation carries no mark. Fragment, low confidence."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "पुष्प के दिन से सात रात",
+  "new": "अनुमानित पाठ पर: पुष्प के दिन से सात रात।",
+  "why": "reviewer (minor): Reading puṣpa-dināt is a conjecture (puṣpe dināt is the other option) but the translation carries no mark. Fragment, low confidence."
+ },
+ {
+  "n": "101",
+  "field": "english",
+  "old": "Or on the fifth, seventh or ninth (night), one desiring a daughter.",
+  "new": "On the fifth, seventh or ninth (night), one desiring a daughter.",
+  "why": "reviewer (minor): Initial 'Or' / 'अथवा' is added; the Sanskrit has vā only inside the list."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "अथवा पाँचवीं, सातवीं या नवीं रात में पुत्री की कामना वाला।",
+  "new": "पाँचवीं, सातवीं या नवीं रात में पुत्री की कामना वाला।",
+  "why": "reviewer (minor): Initial 'Or' / 'अथवा' is added; the Sanskrit has vā only inside the list."
+ },
+ {
+  "n": "110",
+  "field": "hindi",
+  "old": "तब उपाध्याय यानी आचार्य पुत्र सम्बन्धी विधान का आचरण करे।",
+  "new": "तब उपाध्याय यानी शिक्षक पुत्र सम्बन्धी विधान का आचरण करे।",
+  "why": "reviewer (minor): upādhyāya is not simply ācārya (a distinct teacher grade); equating them is an unsupported identification."
+ },
+ {
+  "n": "111",
+  "field": "notes",
+  "old": "Fragment with no verb and no stated noun; the sense is probably that the procedure for the purified woman is without a mantra (conjectural). 'śuddhā' = purified (apparently after the bath of 96). GROUPING: appears to belong with 110 (the procedure), unclear how.",
+  "new": "Fragment with no verb and no stated noun; the sense is probably that the procedure for the purified woman is without a mantra (conjectural). 'śuddhā' = purified (apparently after the bath of 96). GROUPING: appears to belong with 110 (the procedure), unclear how. Reviewer conjecture (undecided): śuddhāyāstu may be an OCR misreading of śūdrāyās tu ('but for a śūdra woman, without mantra'); dr/ddh confusion is recorded in the glossary.",
+  "why": "reviewer (minor): Possible conjecture the draft missed: śūdrāyās tu (dr/ddh is a recorded OCR confusion): 'but for a śūdra woman, without mantra'. This fits the rite of 110 and the mantra of 117 far better than 'but for the purified woman, devoid of mantra'. Not applied (a reading change). HUMAN DECISION; if accepted add a text_flag and rewrite the translation 'on a conjectural reading'."
+ },
+ {
+  "n": "114",
+  "field": "hindi",
+  "old": "और रीति पूरी होने पर पुरुष एक मास ब्रह्मचारी रहकर, घी और दूध के साथ शालि का भात खाकर, अधिक न खाया हुआ, सुखी, माला पहने, प्रसन्न मन वाला, तृप्त अंगों वाला, श्वेत वस्त्र पहने, मुहूर्त जानने वाले को मान्य रात्रि के भाग में, कल्याणकारी बातें सोचता हुआ, उसकी कामना वाला, भली-भाँति बिछी शय्या पर दाहिने पैर से पूर्व की ओर चढ़े।",
+  "new": "और कर्म के अन्त में पुरुष एक मास ब्रह्मचारी रहकर, घी और दूध के साथ शालि का भात खाकर, अधिक न खाया हुआ, सुखी, माला पहने, प्रसन्न मन वाला, तृप्त अंगों वाला, श्वेत वस्त्र पहने, मुहूर्त जानने वाले को मान्य रात्रि के भाग में, कल्याणकारी बातें सोचता हुआ, उसकी कामना वाला, भली-भाँति बिछी शय्या पर दाहिने पैर से पूर्व की ओर चढ़े।",
+  "why": "reviewer (minor): 'रीति' (custom) is not karma (rite); the Hindi should stay literal."
+ },
+ {
+  "n": "114",
+  "field": "word.gram",
+  "word": "cintayan",
+  "old": "pres. part. caus. √cint",
+  "new": "pres. part. 10th cl. √cint",
+  "why": "reviewer (minor): cint- is 10th class, not causative."
+ },
+ {
+  "n": "115",
+  "field": "english",
+  "old": "And the woman, likewise prepared, with limbs made thin and with oil and māṣa (black gram) as the chief food, should first ascend the bed with the left foot, on the right of the man.",
+  "new": "And the woman, of that very kind, with limbs made thin and with oil and māṣa (black gram) as the chief food, should first ascend the bed with the left foot, on the right of the man.",
+  "why": "reviewer (minor): 'prepared' is not in tad-vidhā eva ('of just that kind')."
+ },
+ {
+  "n": "117",
+  "field": "english",
+  "old": "You are the ahi; you are life; you are the support on every side. May Dhātṛ place you; may Vidhātṛ place you. Be one with brahma-splendour (brahmavarcas).",
+  "new": "You are the ahi; you are life; you are the support on every side. May Dhātṛ place you; may Vidhātṛ place you. Be with brahma-splendour (brahmavarcas).",
+  "why": "reviewer (minor): 'brahmavarcasā bhava' is instrumental + imperative: 'be with / possessed of'; 'be one with' suggests identity."
+ },
+ {
+  "n": "118",
+  "field": "hindi",
+  "old": "ब्रह्मा, बृहस्पति, विष्णु, सोम, सूर्य तथा दोनों अश्विनौ,",
+  "new": "ब्रह्मा, बृहस्पति, विष्णु, सोम, सूर्य तथा दोनों अश्विनीकुमार,",
+  "why": "reviewer (minor): Double dual (दोनों + अश्विनौ)."
+ },
+ {
+  "n": "125",
+  "field": "notes",
+  "old": "'nyubja' (also nyubja = face down) is the usual form. 'seveta' = resort to, have union with; the object (the woman) is the accusative feminine. The subject is not stated (the man is probably meant).",
+  "new": "'nyubja' = face down, prone. 'seveta' = resort to, have union with; the object (the woman) is the accusative feminine. The subject is not stated (the man is probably meant).",
+  "why": "reviewer (minor): Garbled note: '(also nyubja = face down)'."
+ },
+ {
+  "n": "126",
+  "field": "word.gram",
+  "word": "yonim",
+  "old": "m. acc. sg.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (error): yoni is feminine (cf. 90 'yoniḥ sā'); 'it/he' sa refers to vāta."
+ },
+ {
+  "n": "126",
+  "field": "english",
+  "old": "In one lying face down Vāta is strong; it presses upon the yoni (womb).",
+  "new": "In one lying face down Vāta is strong; it presses (afflicts) the yoni (vagina).",
+  "why": "reviewer (minor): Use yoni (vagina) as in siblings (garbhāśaya = womb in 127); 'presses upon' adds a preposition; pīḍayati = presses, afflicts."
+ },
+ {
+  "n": "126",
+  "field": "word.gram",
+  "word": "pīḍayati",
+  "old": "3 sg. pres. caus. √pīḍ",
+  "new": "3 sg. pres. 10th cl. √pīḍ",
+  "why": "reviewer (minor): pīḍ- is 10th class, not causative."
+ },
+ {
+  "n": "127",
+  "field": "hindi",
+  "old": "दाहिनी करवट पर पड़ी हुई स्त्री का श्लेष्मा यानी कफ दबकर अपने स्थान से हटा हुआ गर्भाशय को ढक देता है।",
+  "new": "दाहिनी करवट पर पड़ी हुई स्त्री का श्लेष्मा यानी कफ दबकर च्युत होकर गर्भाशय को बन्द कर देता है।",
+  "why": "reviewer (minor): English says 'closes', Hindi 'ढक देता है' (covers): inconsistent. 'अपने स्थान से' is not in the Sanskrit (cyuta only)."
+ },
+ {
+  "n": "129",
+  "field": "english",
+  "old": "Therefore, lying on her back, she should receive the seed (bīja, semen).",
+  "new": "Therefore, lying on her back, she should receive the seed (bīja; probably semen).",
+  "why": "reviewer (minor): Identification stated as certain in the translation but only probable (notes); needs the hedge. Hindi has bare बीज with no gloss."
+ },
+ {
+  "n": "129",
+  "field": "hindi",
+  "old": "इसलिए चित लेटी हुई स्त्री बीज को ग्रहण करे।",
+  "new": "इसलिए चित लेटी हुई स्त्री बीज यानी सम्भवतः शुक्र को ग्रहण करे।",
+  "why": "reviewer (minor): Identification stated as certain in the translation but only probable (notes); needs the hedge. Hindi has bare बीज with no gloss."
+ }
+]

@@ -1,0 +1,790 @@
+{
+ "units": [
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vadanām / payodharām",
+     "problem": "Member words of the bahuvrīhi carry the compound's ending: vadanām labelled 'n. acc. sg. (bahuvrīhi, f. acc. sg.)' is self-contradictory (a case label on a member; vadana is neuter, the whole compound feminine accusative); payodharām likewise. Stems belong in w.",
+     "fix": "w = vadana (n.), payodhara (m.); whole compound is f. acc. sg. (already in notes)",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "vadanām",
+       "field": "gram",
+       "value": "n.",
+       "n": "87"
+      },
+      {
+       "op": "word",
+       "match_w": "vadanām",
+       "field": "w",
+       "value": "vadana",
+       "n": "87"
+      },
+      {
+       "op": "word",
+       "match_w": "payodharām",
+       "field": "gram",
+       "value": "m.",
+       "n": "87"
+      },
+      {
+       "op": "word",
+       "match_w": "payodharām",
+       "field": "w",
+       "value": "payodhara",
+       "n": "87"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "srasta",
+     "problem": "Root is √sraṃs, not √srṃs.",
+     "fix": "ppp. √sraṃs",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "srasta",
+      "field": "gram",
+      "value": "ppp. √sraṃs",
+      "n": "88"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ṛtumatī",
+     "problem": "'fertile season' is the draft's own interpretation and conflicts with sibling unit 83 (ṛtu (season) = the twelve nights counted from ārtava seen). The note 'her fertile period after menstruation' contradicts 83.",
+     "fix": "english: 'to be in her ṛtu (season), a ṛtumatī'; gloss ṛtumatīm = 'a woman in her ṛtu (season)'; note corrected",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "to be in her fertile season (ṛtumatī)",
+       "new": "to be in her ṛtu (season), a ṛtumatī",
+       "n": "88"
+      },
+      {
+       "op": "word",
+       "match_w": "ṛtumatīm",
+       "field": "gloss",
+       "value": "a woman in her ṛtu (season) (ṛtumatī)",
+       "n": "88"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "a woman in the ṛtu (her fertile period after menstruation) (standard sense)",
+       "new": "a woman in her ṛtu (season); in ch01 u83 the ṛtu is the twelve nights counted from the ārtava being seen (standard sense)",
+       "n": "88"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yoniḥ",
+     "problem": "yoni is feminine here (agrees with sā), not m.",
+     "fix": "f. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "yoniḥ",
+      "field": "gram",
+      "value": "f. nom. sg.",
+      "n": "90"
+     }
+    },
+    {
+     "field": "english",
+     "where": "yoni (womb) / fertile season",
+     "problem": "Sibling units (k2 u59-85) render yoni as 'yoni (vagina)' and keep garbhāśaya = womb (this chunk u127); 'womb' for yoni collides with garbhāśaya. 'fertile season' is interpretive; siblings use 'ṛtu (season)'.",
+     "fix": "when the ṛtu (season) has passed, that yoni (vagina) does not receive semen (śukra) inside.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "when the ṛtu (season) has passed, that yoni (vagina) does not receive semen (śukra) inside.",
+       "n": "90"
+      },
+      {
+       "op": "word",
+       "match_w": "yoniḥ",
+       "field": "gloss",
+       "value": "yoni (vagina)",
+       "n": "90"
+      },
+      {
+       "op": "word",
+       "match_w": "ṛtau",
+       "field": "gloss",
+       "value": "in the ṛtu (season)",
+       "n": "90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "fertile season",
+     "problem": "Interpretive; siblings use 'ṛtu (season)'.",
+     "fix": "Blood accumulated over a month, again in the ṛtu (season), by the two dhamanīs (vessels),",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "in the fertile season (ṛtu)",
+       "new": "in the ṛtu (season)",
+       "n": "91"
+      },
+      {
+       "op": "word",
+       "match_w": "ṛtau",
+       "field": "gloss",
+       "value": "in the ṛtu (season)",
+       "n": "91"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "; two are named.",
+       "new": "; the text says only 'the two' and names neither.",
+       "n": "91"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रक्त",
+     "problem": "Hindi supplies the noun रक्त, which unit 92 does not contain (the adjectives are unattached; the object is carried from 91). Policy: plain adjective in Hindi, no supplied noun. Also बाहर is not in the Sanskrit.",
+     "fix": "थोड़े काले और दुर्गन्ध वाले को वायु योनि के मुख से निकालता है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "थोड़े काले और दुर्गन्ध वाले को वायु योनि के मुख से निकालता है।",
+      "n": "92"
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दर्भ",
+     "problem": "darbha is a plant name and the policy asks for the modern name beside the Sanskrit; draft gives none. Also Hindi supplies the noun स्त्री.",
+     "fix": "Hindi: ब्रह्मचारिणी रहे ... दर्भ यानी सम्भवतः कुश के बिछौने पर; note adds the identification tagged disputed.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्त्री ब्रह्मचारिणी रहे",
+       "new": "ब्रह्मचारिणी रहे",
+       "n": "93"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "दर्भ के बिछौने",
+       "new": "दर्भ यानी सम्भवतः कुश के बिछौने",
+       "n": "93"
+      },
+      {
+       "op": "append_note",
+       "text": "darbha = a sacred grass, usually kuśa (Desmostachya bipinnata); some sources give Imperata cylindrica for darbha (identity disputed).",
+       "n": "93"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जौ",
+     "problem": "GLOSSARY: yava = यव (not जौ).",
+     "fix": "...सम्भवतः यव से बना एक पदार्थ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्भवतः जौ से बना",
+      "new": "सम्भवतः यव से बना",
+      "n": "94"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in one of the two, a leaf-bowl or the palm of the hand",
+     "problem": "anyatame is 'in any one of several' (anyatama, not anyatara) and 'or' and 'the two' are supplied. The compound parṇa-śarāva-kara-tala may be three items (leaf, earthen dish, palm) rather than a 'leaf-bowl' plus palm. The draft's 'one of the two' is not supported by the Sanskrit either way. HUMAN DECISION: e.g. 'in any one of leaf, earthen dish (śarāva) and palm of the hand' if three, or keep two members and say 'in one of the leaf-bowl and the palm'.",
+     "fix": "owner to decide",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "varjayet",
+     "problem": "varj- (vṛj) is a 10th-class verb, not a causative.",
+     "fix": "3 sg. opt. 10th cl. √vṛj",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "varjayet",
+      "field": "gram",
+      "value": "3 sg. opt. 10th cl. √vṛj",
+      "n": "95"
+     }
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मंगल और स्वस्त्ययन किए हुए",
+     "problem": "Gender/number mismatch: the bahuvrīhi qualifies the woman (f. sg.).",
+     "fix": "मंगल और स्वस्त्ययन कर चुकी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मंगल और स्वस्त्ययन किए हुए",
+      "new": "मंगल और स्वस्त्ययन कर चुकी",
+      "n": "96"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cintayati",
+     "problem": "cint- is 10th class, not causative.",
+     "fix": "3 sg. pres. 10th cl. √cint",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "cintayati",
+      "field": "gram",
+      "value": "3 sg. pres. 10th cl. √cint",
+      "n": "97"
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "फिर भी",
+     "problem": "'फिर भी' means 'nevertheless'; punar api = 'again' (GLOSSARY: फिर से). The draft's reading (snātāt, upekṣeta = let pass, caturātra) is conjectural but the translations carry no 'on a conjectural reading' mark (GLOSSARY).",
+     "fix": "Hindi: अनुमानित पाठ पर, तब स्नान के बाद, फिर से, गुणवान् पुत्र की इच्छा वाला चार रात बीतने दे। English: add 'on a conjectural reading'.",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "अनुमानित पाठ पर, तब स्नान के बाद, फिर से, गुणवान् पुत्र की इच्छा वाला चार रात बीतने दे।",
+       "n": "98"
+      },
+      {
+       "op": "set",
+       "field": "english",
+       "value": "Then, after the bath, again, one desiring a son with good qualities should let four nights pass (on a conjectural reading).",
+       "n": "98"
+      },
+      {
+       "op": "append_note",
+       "text": "Reviewer: upekṣeta (upa-√īkṣ) usually means 'disregard, abstain from, neglect'. A possible alternative reading is snātāṃ (f. acc., 'the bathed woman') with the t as a stray letter, giving 'should abstain from the bathed woman for four nights'; undecided, for the owner.",
+       "n": "98"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "catūrātram",
+     "problem": "The flag 'long ū not expected' is itself uncertain: catūrātra is attested as a variant of caturātra. Soften to 'possible' only, or drop; the split (catur-rātram) is not affected.",
+     "fix": "owner to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole unit",
+     "problem": "Reading puṣpa-dināt is a conjecture (puṣpe dināt is the other option) but the translation carries no mark. Fragment, low confidence.",
+     "fix": "English: add 'on a conjectural reading'; Hindi likewise",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "From the day of the flower (menstruation), seven nights (on a conjectural reading).",
+       "n": "99"
+      },
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "अनुमानित पाठ पर: पुष्प के दिन से सात रात।",
+       "n": "99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or / अथवा at the start",
+     "problem": "Initial 'Or' / 'अथवा' is added; the Sanskrit has vā only inside the list.",
+     "fix": "On the fifth, seventh or ninth (night), one desiring a daughter. / पाँचवीं, सातवीं या नवीं रात में पुत्री की कामना वाला।",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "Or on the fifth",
+       "new": "On the fifth",
+       "n": "101"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "अथवा पाँचवीं",
+       "new": "पाँचवीं",
+       "n": "101"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उपाध्याय यानी आचार्य",
+     "problem": "upādhyāya is not simply ācārya (a distinct teacher grade); equating them is an unsupported identification.",
+     "fix": "उपाध्याय यानी शिक्षक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपाध्याय यानी आचार्य",
+      "new": "उपाध्याय यानी शिक्षक",
+      "n": "110"
+     }
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śuddhāyāstu",
+     "problem": "Possible conjecture the draft missed: śūdrāyās tu (dr/ddh is a recorded OCR confusion): 'but for a śūdra woman, without mantra'. This fits the rite of 110 and the mantra of 117 far better than 'but for the purified woman, devoid of mantra'. Not applied (a reading change). HUMAN DECISION; if accepted add a text_flag and rewrite the translation 'on a conjectural reading'.",
+     "fix": "append note only",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer conjecture (undecided): śuddhāyāstu may be an OCR misreading of śūdrāyās tu ('but for a śūdra woman, without mantra'); dr/ddh confusion is recorded in the glossary.",
+      "n": "111"
+     }
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रीति पूरी होने पर",
+     "problem": "'रीति' (custom) is not karma (rite); the Hindi should stay literal.",
+     "fix": "और कर्म के अन्त में पुरुष ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और रीति पूरी होने पर",
+      "new": "और कर्म के अन्त में",
+      "n": "114"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ciṃtayaṃstadabhikāmaḥ",
+     "problem": "cint- is 10th class, not causative.",
+     "fix": "pres. part. 10th cl. √cint",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "cintayan",
+      "field": "gram",
+      "value": "pres. part. 10th cl. √cint",
+      "n": "114"
+     }
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "likewise prepared",
+     "problem": "'prepared' is not in tad-vidhā eva ('of just that kind').",
+     "fix": "And the woman, of that very kind, with limbs made thin ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "likewise prepared",
+      "new": "of that very kind",
+      "n": "115"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "uttara",
+     "problem": "Observation only: uttarāhāra 'chief' vs 'additional' stays open (caller already knows).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Be one with",
+     "problem": "'brahmavarcasā bhava' is instrumental + imperative: 'be with / possessed of'; 'be one with' suggests identity.",
+     "fix": "Be with brahma-splendour (brahmavarcas).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Be one with brahma-splendour",
+      "new": "Be with brahma-splendour",
+      "n": "117"
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोनों अश्विनौ",
+     "problem": "Double dual (दोनों + अश्विनौ).",
+     "fix": "दोनों अश्विनीकुमार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों अश्विनौ",
+      "new": "दोनों अश्विनीकुमार",
+      "n": "118"
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "Observation: asau is m. or f.; 'he' follows the draft's reading that the man should not lie below (cf. 124). Verbless first clause is not supplied. Low confidence is right.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "nyubja",
+     "problem": "Garbled note: '(also nyubja = face down)'.",
+     "fix": "'nyubja' = face down, prone.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'nyubja' (also nyubja = face down) is the usual form.",
+      "new": "'nyubja' = face down, prone.",
+      "n": "125"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yoniṃ",
+     "problem": "yoni is feminine (cf. 90 'yoniḥ sā'); 'it/he' sa refers to vāta.",
+     "fix": "f. acc. sg.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "yonim",
+      "field": "gram",
+      "value": "f. acc. sg.",
+      "n": "126"
+     }
+    },
+    {
+     "field": "english",
+     "where": "yoni (womb) / presses upon",
+     "problem": "Use yoni (vagina) as in siblings (garbhāśaya = womb in 127); 'presses upon' adds a preposition; pīḍayati = presses, afflicts.",
+     "fix": "In one lying face down Vāta is strong; it presses (afflicts) the yoni (vagina).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "In one lying face down Vāta is strong; it presses (afflicts) the yoni (vagina).",
+      "n": "126"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pīḍayati",
+     "problem": "pīḍ- is 10th class, not causative.",
+     "fix": "3 sg. pres. 10th cl. √pīḍ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pīḍayati",
+      "field": "gram",
+      "value": "3 sg. pres. 10th cl. √pīḍ",
+      "n": "126"
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ढक देता है / अपने स्थान से",
+     "problem": "English says 'closes', Hindi 'ढक देता है' (covers): inconsistent. 'अपने स्थान से' is not in the Sanskrit (cyuta only).",
+     "fix": "दाहिनी करवट पर पड़ी हुई स्त्री का श्लेष्मा यानी कफ दबकर च्युत होकर गर्भाशय को बन्द कर देता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "दाहिनी करवट पर पड़ी हुई स्त्री का श्लेष्मा यानी कफ दबकर च्युत होकर गर्भाशय को बन्द कर देता है।",
+      "n": "127"
+     }
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seed (bīja, semen)",
+     "problem": "Identification stated as certain in the translation but only probable (notes); needs the hedge. Hindi has bare बीज with no gloss.",
+     "fix": "English: the seed (bīja; probably semen). Hindi: बीज यानी सम्भवतः शुक्र.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the seed (bīja, semen)",
+       "new": "the seed (bīja; probably semen)",
+       "n": "129"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "बीज को",
+       "new": "बीज यानी सम्भवतः शुक्र को",
+       "n": "129"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "43 units checked word by word. Splits and text_flags are sound (all typo conjectures plausible, src kept as printed). Main errors: wrong gender for yoni (u90, 126); contradictory case label on bahuvrīhi members (u87); supplied noun रक्त in Hindi 92; 'फिर भी' for punar api (u98); anyatame mistranslated as 'one of the two' (u94, needs human); sibling inconsistency yoni (womb)/fertile season vs yoni (vagina)/ṛtu (season); conjectural readings in 98/99 unmarked in translation; missed darbha identification; missed possible conjecture śūdrāyās tu for śuddhāyāstu (u111, human). Sentences running across units: 87-88, 89-90, 91-92, 98-99-100, 100-101, 107-108, 110-111, 112-113, 117-119; no regrouping needed.",
+ "glossary_suggestions": [
+  "yoni = 'yoni (vagina)' (garbhāśaya = womb); do not write 'yoni (womb)'.",
+  "ṛtu = 'ṛtu (season)' (twelve nights from ārtava seen, ch01 u83); not 'fertile season'.",
+  "punar api in Hindi = फिर से (never फिर भी).",
+  "cintayati, varjayati, pīḍayati are 10th-class verbs; do not label 'caus.' in gram.",
+  "yava = यव also in compound explanations (yāvaka).",
+  "darbha = kuśa-type grass, Desmostachya bipinnata (disputed; Imperata cylindrica also given).",
+  "anyatama = one of several (3+), not 'one of the two'.",
+  "bīja in conception contexts = probably semen; hedge and gloss बीज यानी सम्भवतः शुक्र."
+ ]
+}
