@@ -1,0 +1,2077 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snehavyāpadikāṃ",
+      "words": [
+       {
+        "w": "sneha-vyāpad-ikām",
+        "gloss": "relating to the mishaps (vyāpad) of the unctuous substance (sneha: oil or fat)",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "siddhiṃ",
+      "words": [
+       {
+        "w": "siddhim",
+        "gloss": "accomplishment (siddhi)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम स्नेह की व्यापदों से सम्बन्धित सिद्धि की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall explain the accomplishment (siddhi) concerning the mishaps (vyāpad) of sneha (the unctuous substance).",
+  "text_flags": [],
+  "notes": "Chapter-opening formula. siddhi is kept literal as 'accomplishment' (as in the other chapter openings). sneha = the unctuous substance (oil or fat) used for oleation and for the unctuous enema; vyāpad = mishap, faulty course.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehabastau",
+      "words": [
+       {
+        "w": "sneha-bastau",
+        "gloss": "in the unctuous enema (sneha-basti)",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "marutpittakaphātyaśanaviṭcayaiḥ",
+      "words": [
+       {
+        "w": "marut-pitta-kapha-ati-aśana-viṭ-cayaiḥ",
+        "gloss": "wind (marut, i.e. Vāta); Pitta; Kapha; excessive; eating; stool; accumulation",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेहबस्ति में वात, पित्त, कफ, अति भोजन और मल के संचय से,",
+  "english": "In the unctuous enema (sneha-basti), by wind (marut, i.e. Vāta), Pitta, Kapha, over-eating and accumulation of stool,",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues in 3 ('āvṛttau ... vyāpadaḥ smṛtāḥ'); the instrumentals here belong with 'āvṛttau' of 3. Read as five causes: marut, pitta, kapha, atyaśana (over-eating), viṭ-caya (accumulation of stool); this matches the coverings by Vāta, Pitta, Kapha, over-eating and stool taken up in 7 to 26. 'marut' is a word for wind and is taken as Vāta.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āvṛttau",
+      "words": [
+       {
+        "w": "āvṛtau",
+        "gloss": "in the covering (āvṛti)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuktadattāme",
+      "words": [
+       {
+        "w": "bhukta-datta-āme",
+        "gloss": "eaten; given; raw (reading uncertain)",
+        "gram": "loc. sg., compound, uncertain"
+       }
+      ]
+     },
+     {
+      "src": "saptadhā",
+      "words": [
+       {
+        "w": "saptadhā",
+        "gloss": "in seven ways, sevenfold",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyāpadaḥ",
+      "words": [
+       {
+        "w": "vyāpadaḥ",
+        "gloss": "mishaps",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "smṛtāḥ",
+      "words": [
+       {
+        "w": "smṛtāḥ",
+        "gloss": "are remembered",
+        "gram": "ppp. √smṛ, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आवरण में तथा, एक अनुमानित पाठ के अनुसार, भुक्त-दत्त-आम में, व्यापदें यानी गड़बड़ियाँ सात प्रकार की स्मरण की गई हैं।",
+  "english": "In the covering (āvṛti), and, on a conjectural reading, in 'bhukta-datta-āma' (eaten, given, raw), the mishaps (vyāpad) are remembered as sevenfold.",
+  "text_flags": [
+   {
+    "src": "bhuktadattāme",
+    "suggest": "abhuktadattāme",
+    "why": "possible: units 27 to 35 treat sneha given to one who has not eaten (abhukta) and unripe sneha (apakva, 34), which with the five coverings would make seven; 'bhukta' may have lost its a-. The printed word is kept"
+   }
+  ],
+  "notes": "GROUPING: continues from 2 (one sentence). Printed 'āvṛttau' is normalised to 'āvṛtau' (doubled t, as elsewhere in this book). 'bhuktadattāme' is not clear: it is taken as a compound 'eaten-given-raw'. The seven may be the five coverings (Vāta, Pitta, Kapha, over-eating, stool) plus two more (given without a meal, unripe), but that is only a guess, so the translations are hedged. The number 'seven' is stated in the text; the list is not.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śīto",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "cold",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'lpo",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "little",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhike",
+      "words": [
+       {
+        "w": "adhike",
+        "gloss": "in excess",
+        "gram": "adj., m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāte",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "when Vāta",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitte",
+      "words": [
+       {
+        "w": "pitte",
+        "gloss": "in Pitta",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tyuṣṇaḥ",
+      "words": [
+       {
+        "w": "ati-uṣṇaḥ",
+        "gloss": "very hot",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛduḥ",
+      "words": [
+       {
+        "w": "mṛduḥ",
+        "gloss": "mild, soft",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात के अधिक होने पर ठण्डा या थोड़ा; पित्त में अत्यन्त गरम; कफ में मृदु।",
+  "english": "Cold or little when Vāta is in excess; very hot in Pitta; mild in Kapha.",
+  "text_flags": [
+   {
+    "src": "dhike",
+    "suggest": "'dhike",
+    "why": "possible: the avagraha is missing; 'vā dhike' stands for 'vā ’dhike' (adhike), 'in excess'"
+   }
+  ],
+  "notes": "Elliptical: no verb and no subject. The subject is the sneha (oil) of the neighbouring lines, and the line says what sort of sneha was given in each case. 'adhike vāte' is read as 'when Vāta is in excess'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atibhuktegururvarcaḥsaṃcaye",
+      "words": [
+       {
+        "w": "ati-bhukte",
+        "gloss": "when over-fed",
+        "gram": "ppp. √bhuj, m. loc. sg."
+       },
+       {
+        "w": "guruḥ",
+        "gloss": "heavy",
+        "gram": "adj., m. nom. sg."
+       },
+       {
+        "w": "varcaḥ-saṃcaye",
+        "gloss": "accumulation of stool",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'lpabala",
+      "words": [
+       {
+        "w": "alpa-balaḥ",
+        "gloss": "of little strength",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अति भोजन करने पर भारी; मल के संचय में अल्प बल वाला, वैसे ही।",
+  "english": "When over-fed, heavy; and likewise of little strength when stool has accumulated.",
+  "text_flags": [
+   {
+    "src": "'lpabala stathā",
+    "suggest": "'lpabalas tathā",
+    "why": "possible: only the word division is wrong (the s of the visarga is printed with the next word); the first token also runs three words together without a space"
+   }
+  ],
+  "notes": "Elliptical, like 4: the subject is the sneha. 'tathā' is taken as 'likewise'. 'alpabala' (little strength) is read as a quality of the sneha given; the line does not say more.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dattastairāvṛtaḥ",
+      "words": [
+       {
+        "w": "dattaḥ",
+        "gloss": "given",
+        "gram": "ppp. √dā, m. nom. sg."
+       },
+       {
+        "w": "taiḥ",
+        "gloss": "by them",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "āvṛtaḥ",
+        "gloss": "covered",
+        "gram": "ppp. ā-√vṛ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sneho",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "the unctuous substance (sneha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāyātyabhibhavādapi",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "āyāti",
+        "gloss": "comes",
+        "gram": "3 sg. pres. ā-√yā"
+       },
+       {
+        "w": "abhibhavāt",
+        "gloss": "from overpowering",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also, even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दिया गया स्नेह, उनसे आवृत होकर, अभिभव यानी दब जाने के कारण भी नहीं आता।",
+  "english": "The sneha that has been given, covered by them, does not come (out), also on account of being overpowered.",
+  "text_flags": [],
+  "notes": "'taiḥ' refers back to the causes in 4 and 5 (Vāta, Pitta, Kapha, over-eating, stool). 'nāyāti' is literally 'does not come'; the sense 'come out' is understood from the later lines. 'api' is taken as 'also'; it could also be read 'even through overpowering'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "staṃbhorusadanādhmānajvaraśūlāṃgamardaiḥ",
+      "words": [
+       {
+        "w": "stambha-ūru-sadana-ādhmāna-jvara-śūla-aṅga-mardaiḥ",
+        "gloss": "stiffness; thighs; sinking, weakness; distension of the belly (bloating, standard); fever (standard); pain; limb; aching",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जकड़न, जाँघों की शिथिलता, अफारा यानी पेट का फूलना, ज्वर, शूल यानी पीड़ा और अंगों में टूटन से,",
+  "english": "By stiffness, weakness of the thighs, distension of the belly, fever, pain (śūla) and aching of the limbs,",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues in 8 ('vidyāt ... vāyunā snehāvṛtam'); the whole is a list of signs. Compound divided as stambha, ūru-sadana, ādhmāna, jvara, śūla, aṅga-marda; 'ūrusadana' is taken as 'weakness (sinking) of the thighs'. Modern equivalents: ādhmāna = abdominal distension, bloating (standard); jvara = fever (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārśvarugveṣṭanairvidyādvāyunā",
+      "words": [
+       {
+        "w": "pārśva-ruj-veṣṭanaiḥ",
+        "gloss": "flank; pain; twisting (cramp-like pain)",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "vāyunā",
+        "gloss": "by Vāyu (wind)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehāvṛtaṃ",
+      "words": [
+       {
+        "w": "sneha-āvṛtam",
+        "gloss": "the sneha, covered",
+        "gram": "ppp. ā-√vṛ, m. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पार्श्व में पीड़ा और ऐंठन से जानना चाहिए कि स्नेह वायु से आवृत है।",
+  "english": "By pain in the flanks and by twisting (cramp-like) pains, one should know the sneha to be covered by Vāyu (wind).",
+  "text_flags": [],
+  "notes": "GROUPING: completes the sentence begun in 7 (signs of covering by Vāyu). 'snehāvṛtam' is read as 'sneha, covered', object of 'vidyāt', with 'vāyunā' giving the coverer. 'veṣṭana' is literally 'twisting, wrapping'; 'cramp-like' is only a gloss.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snigdhāmlalavaṇoṣṇaistaṃ",
+      "words": [
+       {
+        "w": "snigdha-amla-lavaṇa-uṣṇaiḥ",
+        "gloss": "unctuous; sour; salty; hot",
+        "gram": "dvandva, adj., m. inst. pl."
+       },
+       {
+        "w": "tam",
+        "gloss": "that (the covered sneha)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāsnāpītadrutailakaiḥ",
+      "words": [
+       {
+        "w": "rāsnā-pītadru-tailakaiḥ",
+        "gloss": "rāsnā (probably Pluchea lanceolata; probable, other plants also proposed); pītadru (identity disputed: deodar, Cedrus deodara, or a yellow-wooded Berberis have been suggested, not applied); oils (tailaka)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह यानी आवृत स्नेह: स्निग्ध, खट्टे, नमकीन और गरम वालों से, रास्ना यानी सम्भवतः रास्ना नामक पौधे और पीतद्रु जिसकी पहचान विवादित है, उनके तैलों से,",
+  "english": "That (covered sneha): with (ones) unctuous, sour, salty and hot, with the oils of rāsnā (probably Pluchea lanceolata) and pītadru (identity disputed),",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues through 10 and 11 ('nirūhair nirharet'); the adjectives here are taken with the nirūhas of 11. Identifications: rāsnā = Pluchea lanceolata (probable; Alpinia galanga is also given by some); pītadru = disputed (deodar, Cedrus deodara, or a yellow-wooded species such as Berberis; not applied). 'tailakaiḥ' is read as 'with oils'; 12 says 'tābhyām ... tailābhyām' (those two oils), which supports the reading 'the oils of rāsnā and of pītadru', but the compound could also be taken as 'rāsnā, pītadru and oils'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sauvīrakasurākolakulatthayavasādhitaiḥ",
+      "words": [
+       {
+        "w": "sauvīraka-surā-kola-kulattha-yava-sādhitaiḥ",
+        "gloss": "sauvīraka (a sour fermented gruel; standard); surā (a fermented intoxicating drink); kola (jujube, Ziziphus jujuba; probable); kulattha (horse gram, Macrotyloma uniflorum; standard); yava (barley, Hordeum vulgare; standard); prepared",
+        "gram": "dvandva + tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सौवीरक यानी खट्टी काँजी, सुरा यानी मदिरा, कोल यानी बेर, कुलत्थ यानी कुलथी और यव से साधित,",
+  "english": "prepared with sauvīraka (a sour fermented gruel), surā (a fermented intoxicating drink), kola (jujube), kulattha (horse gram) and yava (barley),",
+  "text_flags": [],
+  "notes": "GROUPING: continues from 9 and into 11 (the noun 'nirūhaiḥ' is in 11). 'sādhita' is rendered 'prepared'. Identifications: sauvīraka = a sour fermented gruel (standard); surā = a grain-fermented intoxicating drink (standard); kola = jujube, Ziziphus jujuba (probable; Z. mauritiana is also called badara/kola); kulattha = horse gram, Macrotyloma uniflorum (standard); yava = barley, Hordeum vulgare (standard). Whether kola is the fruit or another part is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirūhairnirharetsamyaksamūtraiḥ",
+      "words": [
+       {
+        "w": "nirūhaiḥ",
+        "gloss": "with decoction enemas (nirūha)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "nirharet",
+        "gloss": "one should expel",
+        "gram": "3 sg. opt. nir-√hṛ"
+       },
+       {
+        "w": "samyak",
+        "gloss": "properly, well",
+        "gram": "ind."
+       },
+       {
+        "w": "sa-mūtraiḥ",
+        "gloss": "together with urine",
+        "gram": "bahuvrīhi, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṃcamulikaiḥ",
+      "words": [
+       {
+        "w": "pāñcamūlikaiḥ",
+        "gloss": "of the five roots (pañcamūla)",
+        "gram": "adj., inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निरूह यानी काढ़े की बस्तियों से, मूत्र सहित और पाञ्चमूलिक से, उसे अच्छी तरह निकाल दे।",
+  "english": "one should expel it well with nirūhas (decoction enemas), with urine and with those of the five roots (pāñcamūlika).",
+  "text_flags": [
+   {
+    "src": "pāṃcamulikaiḥ",
+    "suggest": "pāṃcamūlikaiḥ",
+    "why": "possible: pāñcamūlika has long ū; short u is probably a misprint"
+   }
+  ],
+  "notes": "Completes the sentence of 9 to 11. 'taṃ' of 9 is the covered sneha. 'pāñcamūlika' = 'of the five roots'; which five (the lesser or greater pañcamūla) is not stated here, so the plants are unidentified in this text. 'samūtra' = 'with urine', as printed. The noun for 'pāñcamūlikaiḥ' is supplied from 'nirūhaiḥ' only as 'those'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tābhyāmeva",
+      "words": [
+       {
+        "w": "tābhyām",
+        "gloss": "with those two",
+        "gram": "dual inst."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tailābhyāṃ",
+      "words": [
+       {
+        "w": "tailābhyām",
+        "gloss": "oils",
+        "gram": "n. dual inst."
+       }
+      ]
+     },
+     {
+      "src": "sāyaṃ",
+      "words": [
+       {
+        "w": "sāyam",
+        "gloss": "in the evening",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhukte",
+      "words": [
+       {
+        "w": "bhukte",
+        "gloss": "in one who has eaten",
+        "gram": "ppp. √bhuj, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'nuvāsayet",
+      "words": [
+       {
+        "w": "anuvāsayet",
+        "gloss": "one should give an anuvāsana (oil enema)",
+        "gram": "3 sg. opt. caus. anu-√vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उन्हीं दोनों तैलों से सायंकाल, भोजन कर लेने पर, अनुवासन यानी तैल-बस्ति दे।",
+  "english": "And with those very two oils, in the evening, in one who has eaten, one should give an anuvāsana (oil enema).",
+  "text_flags": [],
+  "notes": "'those two oils' (dual) most likely means the two oils named in 9 (of rāsnā and of pītadru). 'bhukte' is a locative, 'when (one) has eaten'; the person is not named. anuvāsana = oil enema (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛḍadāharāgasaṃmohavaivarṇyatamakajvaraiḥ",
+      "words": [
+       {
+        "w": "tṛṭ-dāha-rāga-saṃmoha-vaivarṇya-tamaka-jvaraiḥ",
+        "gloss": "thirst; burning; redness; bewilderment; discolouration; tamaka (named condition, probably the asthma-type breathing disorder; probable); fever",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्यास, दाह यानी जलन, ललाई, सम्मोह यानी भ्रम, विवर्णता, तमक यानी सम्भवतः दमा नामक श्वास रोग और ज्वर से,",
+  "english": "By thirst, burning, redness, bewilderment, discolouration, tamaka (probably the asthma-type breathing disorder) and fever,",
+  "text_flags": [
+   {
+    "src": "tṛḍadāharāgasaṃmohavaivarṇyatamakajvaraiḥ",
+    "suggest": "tṛḍdāharāgasaṃmohavaivarṇyatamakajvaraiḥ",
+    "why": "possible: 'tṛḍ' + 'dāha' should be 'tṛḍdāha'; the printed extra a (tṛḍa-dāha) looks like a lost virāma"
+   }
+  ],
+  "notes": "GROUPING: the sentence continues in 14 ('vidyāt pittāvṛtam'); a list of signs of covering by Pitta. 'tamaka' is a named condition; as a breathing disorder (tamaka śvāsa, an asthma type) it is probable, but in a list of Pitta signs 'darkness' is also possible, so the identification is only probable. 'rāga' is read as 'redness'. The line could also be divided 'tṛḍ-adāha' (thirst, absence of burning), which does not suit a list of Pitta signs.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidyātpittāvṛtaṃ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "pitta-āvṛtam",
+        "gloss": "the sneha, covered by Pitta",
+        "gram": "ppp. ā-√vṛ, m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "svādutiktaistaṃ",
+      "words": [
+       {
+        "w": "svādu-tiktaiḥ",
+        "gloss": "sweet and bitter",
+        "gram": "adj., m. inst. pl."
+       },
+       {
+        "w": "tam",
+        "gloss": "it (the covered sneha)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastibhirharet",
+      "words": [
+       {
+        "w": "bastibhiḥ",
+        "gloss": "with enemas",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "haret",
+        "gloss": "one should remove",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे पित्त से आवृत जानना चाहिए; उसे मीठी और कड़वी बस्तियों से निकाल दे।",
+  "english": "One should know it to be covered by Pitta; one should remove it with enemas that are sweet and bitter.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 13. 'pittāvṛtam' is 'covered by Pitta' (the sneha understood). 'svādutiktaiḥ' qualifies 'bastibhiḥ' (enemas that are sweet and bitter in their substances; the line does not give the ingredients).",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃdrāśītajvarālasyaprasekārucigauravaiḥ",
+      "words": [
+       {
+        "w": "tandrā-śīta-jvara-ālasya-praseka-aruci-gauravaiḥ",
+        "gloss": "drowsiness; cold; fever; lassitude; praseka (flow, trickling); aversion (aruci); heaviness",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तन्द्रा, शीत, ज्वर, आलस्य, प्रसेक यानी बहना, अरुचि और भारीपन से,",
+  "english": "By drowsiness, cold, fever, lassitude, praseka (flow, trickling), aversion (aruci) and heaviness,",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 16. 'śītajvara' could also be read as a single sign 'fever with cold (chill)'; the items are given separately. Signs of covering by Kapha (16).",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samūrcchaglānibhirvidyācchleṣmaṇā",
+      "words": [
+       {
+        "w": "sa-mūrcchā-glānibhiḥ",
+        "gloss": "together with fainting and exhaustion",
+        "gram": "bahuvrīhi, f. inst. pl."
+       },
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "śleṣmaṇā",
+        "gloss": "by Kapha (śleṣman)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehāvṛtaṃ",
+      "words": [
+       {
+        "w": "sneha-āvṛtam",
+        "gloss": "the sneha, covered",
+        "gram": "ppp. ā-√vṛ, m. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूर्च्छा सहित ग्लानि यानी थकावट से जानना चाहिए कि स्नेह कफ से आवृत है।",
+  "english": "By fainting together with exhaustion, one should know the sneha to be covered by Kapha.",
+  "text_flags": [
+   {
+    "src": "samūrcchaglānibhirvidyācchleṣmaṇā",
+    "suggest": "samūrcchāglānibhirvidyācchleṣmaṇā",
+    "why": "possible: mūrcchā is feminine with long ā; the printed short a may be a misprint or a variant stem"
+   }
+  ],
+  "notes": "Completes the sentence of 15. 'samūrcchāglānibhiḥ' could also be 'with fainting, and exhaustion' (two separate signs); the plural suggests a continuation of the list of 15.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṣāyatiktakaṭukaiḥ",
+      "words": [
+       {
+        "w": "kaṣāya-tikta-kaṭukaiḥ",
+        "gloss": "astringent; bitter; pungent",
+        "gram": "dvandva, adj., m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "surāmūtropasādhitaiḥ",
+      "words": [
+       {
+        "w": "surā-mūtra-upasādhitaiḥ",
+        "gloss": "prepared with surā (a fermented intoxicating drink) and urine",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कसैले, कड़वे और तीखे, सुरा और मूत्र के साथ साधित,",
+  "english": "(ones) astringent, bitter and pungent, prepared with surā (a fermented intoxicating drink) and urine,",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 18 (the noun 'bastibhiḥ' is there). 'kaṣāya' is the taste 'astringent' here, as it qualifies substances alongside tikta and kaṭu; 'upasādhita' is rendered 'prepared'.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "phalatailayutaiḥ",
+      "words": [
+       {
+        "w": "phala-taila-yutaiḥ",
+        "gloss": "joined with fruit (phala) and oil",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāmlairbastibhistaṃ",
+      "words": [
+       {
+        "w": "sa-amlaiḥ",
+        "gloss": "with sour",
+        "gram": "bahuvrīhi, m. inst. pl."
+       },
+       {
+        "w": "bastibhiḥ",
+        "gloss": "with enemas",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "tam",
+        "gloss": "it (the covered sneha)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinirharet",
+      "words": [
+       {
+        "w": "vinirharet",
+        "gloss": "one should expel completely",
+        "gram": "3 sg. opt. vi-nir-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फल और तैल से युक्त, अम्ल सहित बस्तियों से उसे पूरी तरह निकाल दे।",
+  "english": "one should expel it completely with enemas joined with fruit (phala) and oil, and with sour (things).",
+  "text_flags": [],
+  "notes": "Completes the sentence of 17 and 18: the remedy for the sneha covered by Kapha (16). 'phala' is not specified (in enema recipes it often means madanaphala, Randia species, but the text does not say, so it is left unidentified). 'sāmla' = 'with sour (things)'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chardimūrcchāruciglāniśūlanidrāṃgamardanaiḥ",
+      "words": [
+       {
+        "w": "chardi-mūrcchā-aruci-glāni-śūla-nidrā-aṅga-mardanaiḥ",
+        "gloss": "vomiting (chardi); fainting; aversion (aruci); exhaustion; pain; sleep; limb; aching",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छर्दि यानी उल्टी, मूर्च्छा, अरुचि, ग्लानि, शूल यानी पीड़ा, निद्रा और अंगों में टूटन से,",
+  "english": "By vomiting (chardi), fainting, aversion (aruci), exhaustion, pain (śūla), sleep and aching of the limbs,",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 20. 'nidrā' is literally 'sleep' (sleepiness is the likely sense). Signs of covering by over-eating (20).",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āmaliṃgaiḥ",
+      "words": [
+       {
+        "w": "āma-liṅgaiḥ",
+        "gloss": "by signs of āma (the raw, undigested state)",
+        "gram": "tat-puruṣa, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sadāhaistaṃ",
+      "words": [
+       {
+        "w": "sa-dāhaiḥ",
+        "gloss": "accompanied by burning",
+        "gram": "bahuvrīhi, n. inst. pl."
+       },
+       {
+        "w": "tam",
+        "gloss": "it (the covered sneha)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyādatyaśanāvṛtaṃ",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       },
+       {
+        "w": "ati-aśana-āvṛtam",
+        "gloss": "covered by over-eating",
+        "gram": "ppp. ā-√vṛ, tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलन सहित आम के लक्षणों से उसे अति भोजन से आवृत जानना चाहिए।",
+  "english": "By signs of āma (the raw, undigested state) together with burning, one should know it to be covered by over-eating.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 19 and 20: signs of the sneha covered by over-eating (atyaśana). 'āma' is kept as the term (raw, undigested). The remedy follows in 21 and 22.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭūnāṃ",
+      "words": [
+       {
+        "w": "kaṭūnām",
+        "gloss": "of pungent (ones)",
+        "gram": "adj., n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇānāṃ",
+      "words": [
+       {
+        "w": "lavaṇānām",
+        "gloss": "of salts",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāthaiścūrṇaiśca",
+      "words": [
+       {
+        "w": "kvāthaiḥ",
+        "gloss": "with decoctions",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "cūrṇaiḥ",
+        "gloss": "with powders",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pācanaṃ",
+      "words": [
+       {
+        "w": "pācanam",
+        "gloss": "a digestive (pācana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीखों और लवणों के काढ़ों और चूर्णों से पाचन।",
+  "english": "A digestive (pācana) with decoctions and powders of pungent (ones) and of salts.",
+  "text_flags": [
+   {
+    "src": "kāthaiścūrṇaiśca",
+    "suggest": "kvāthaiścūrṇaiśca",
+    "why": "possible: 'kātha' is not a standard word; kvātha (decoction) fits, and the same misprint appears elsewhere in this book"
+   }
+  ],
+  "notes": "Elliptical (no verb). 'pācana' = a digestive, that which makes cook (digest) the āma of 20; the line does not name the pungent substances or the salts.",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛduvirekaḥ",
+      "words": [
+       {
+        "w": "mṛdu-virekaḥ",
+        "gloss": "mild purgation",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "everything",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatrāmavihitaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "āma-vihitam",
+        "gloss": "prescribed for āma",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitaṃ",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "beneficial",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मृदु विरेचन; और वहाँ आम के लिए बताया गया सब कुछ हितकर है।",
+  "english": "A mild purgation; and all that is prescribed for āma is beneficial there.",
+  "text_flags": [],
+  "notes": "'tatra' = 'there' (in this covering by over-eating). 'virekaḥ' = purgation.",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṇmūtrānilasaṃgānirgurutvādhmānahṛdgrahaiḥ",
+      "words": [
+       {
+        "w": "viṭ-mūtra-anila",
+        "gloss": "stool; urine; wind",
+        "gram": "dvandva, compound member"
+       },
+       {
+        "w": "saṃgānir",
+        "gloss": "unclear (printed form kept; perhaps saṅga-ārti, 'blockage, pain')",
+        "gram": "unclear"
+       },
+       {
+        "w": "gurutva",
+        "gloss": "heaviness",
+        "gram": "n."
+       },
+       {
+        "w": "ādhmāna",
+        "gloss": "distension of the belly",
+        "gram": "n."
+       },
+       {
+        "w": "hṛd-grahaiḥ",
+        "gloss": "seizing (grasp) of the heart",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मल, मूत्र और वायु के, एक अनुमानित पाठ के अनुसार संग यानी रुकावट और पीड़ा, भारीपन, अफारा और हृदय की पकड़ से,",
+  "english": "On a conjectural reading, by blockage of stool, urine and wind, and pain, heaviness, distension and seizing (grasp) of the heart (hṛdgraha),",
+  "text_flags": [
+   {
+    "src": "viṇmūtrānilasaṃgānirgurutvādhmānahṛdgrahaiḥ",
+    "suggest": "viṇmūtrānilasaṃgārtigurutvādhmānahṛdgrahaiḥ",
+    "why": "possible: 'saṃgānir' is not a word; 'saṃgārti' (blockage, pain) fits the sense (signs of covering by stool) and the shapes of the printed letters; metre and sense are only a guide, not a proof"
+   }
+  ],
+  "notes": "GROUPING: the sentence continues in 24 ('snehaṃ viḍāvṛtaṃ jñātvā'). The stretch 'saṃgānir' is doubtful: it is kept unsplit, and the translations follow a conjectural reading (blockage and pain). The sure parts are stool, urine, wind, heaviness, distension and hṛdgraha (seizing of the heart; a gripping feeling in the heart region is the probable sense, not certain).",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehaṃ",
+      "words": [
+       {
+        "w": "sneham",
+        "gloss": "the sneha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viḍāvṛtaṃ",
+      "words": [
+       {
+        "w": "viṭ-āvṛtam",
+        "gloss": "covered by stool",
+        "gram": "ppp. ā-√vṛ, tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "snehasvedaiḥ",
+      "words": [
+       {
+        "w": "sneha-svedaiḥ",
+        "gloss": "with unctuous applications and sweatings",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sabastibhiḥ",
+      "words": [
+       {
+        "w": "sa-bastibhiḥ",
+        "gloss": "together with enemas",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेह को मल से आवृत जानकर, स्नेहन, स्वेदन और बस्तियों के साथ,",
+  "english": "Having known the sneha to be covered by stool, with unctuous applications and sweatings together with enemas,",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues in 25 and ends in 26 with 'nirharet'. 'viḍ' is 'stool' (viṭ) here; not the drug name viḍa. 'sneha-sveda' = sneha applications and sweating (sveda).",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śyāmābilvādisiddhaiśca",
+      "words": [
+       {
+        "w": "śyāmā-bilva-ādi-siddhaiḥ",
+        "gloss": "cooked with śyāmā (identity disputed; trivṛt is listed separately in 30, so not the same here) and bilva (bael, Aegle marmelos; standard) and the rest",
+        "gram": "dvandva + tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirūhaiḥ",
+      "words": [
+       {
+        "w": "nirūhaiḥ",
+        "gloss": "with decoction enemas (nirūha)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sānuvāsanaiḥ",
+      "words": [
+       {
+        "w": "sa-anuvāsanaiḥ",
+        "gloss": "together with oil enemas (anuvāsana)",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और श्यामा तथा बिल्व यानी बेल आदि से सिद्ध निरूहों से, अनुवासन सहित,",
+  "english": "and with nirūhas (decoction enemas) cooked with śyāmā, bilva (bael) and the rest, together with anuvāsanas (oil enemas),",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 26. 'siddha' = cooked. Identifications: bilva = Aegle marmelos (standard); śyāmā is disputed (several plants carry this name; here trivṛt is listed separately in 30, so it is left unidentified). 'ādi' = 'and the rest'; the rest are not listed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirharedvidhinā",
+      "words": [
+       {
+        "w": "nirharet",
+        "gloss": "one should expel",
+        "gram": "3 sg. opt. nir-√hṛ"
+       },
+       {
+        "w": "vidhinā",
+        "gloss": "by the rule, according to procedure",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samyagudāvarttahareṇa",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "udāvarta-hareṇa",
+        "gloss": "with (one) that removes udāvarta (upward-moving wind with retention; roughly obstructed bowel, probable)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विधि से अच्छी तरह निकाले तथा उदावर्त को हरने वाले से भी।",
+  "english": "one should expel it properly according to the rule, and with (one) that removes udāvarta.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 24 to 26 (sneha covered by stool). Printed 'udāvartta' is normalised to 'udāvarta' (doubled t). The token 'samyagudāvarttahareṇa' joins 'samyak' and the compound; 'samyak' could go with 'nirharet' or with the compound, and is taken with the verb. udāvarta = a condition of upward-turned wind with blocked stool, urine and flatus (roughly obstructed bowel or severe constipation; probable). The noun to which 'udāvarta-harena' belongs is not given.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhukte",
+      "words": [
+       {
+        "w": "a-bhukte",
+        "gloss": "in one who has not eaten",
+        "gram": "ppp. √bhuj, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūnapāyau",
+      "words": [
+       {
+        "w": "śūna-pāyau",
+        "gloss": "in one with a swollen anus",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "peyāmātrāśitasyavā",
+      "words": [
+       {
+        "w": "peyā-mātra-aśitasya",
+        "gloss": "of one who has eaten only peyā (thin gruel)",
+        "gram": "bahuvrīhi, ppp. √aś, m. gen. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भोजन न किए हुए में, सूजी हुई गुदा वाले में, या केवल पेया यानी पतली लपसी खाए हुए के,",
+  "english": "In one who has not eaten, or in one with a swollen anus, or of one who has eaten only peyā (thin gruel),",
+  "text_flags": [],
+  "notes": "GROUPING: one sentence with 28 ('gude praṇihitaḥ sneho vegāddhāvati'). The cases are mixed (two locatives, then a genitive); all three are conditions of the person to whom the enema is given, and the person is not named. 'peyā' is a thin gruel (standard). The token 'peyāmātrāśitasyavā' runs 'asya' and 'vā' together without a space.",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gude",
+      "words": [
+       {
+        "w": "gude",
+        "gloss": "in the anus",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇihitaḥ",
+      "words": [
+       {
+        "w": "praṇihitaḥ",
+        "gloss": "placed, put in",
+        "gram": "ppp. pra-ni-√dhā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sneho",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "the sneha",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vegāddhāvatyanāvṛtaḥ",
+      "words": [
+       {
+        "w": "vegāt",
+        "gloss": "by force",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "dhāvati",
+        "gloss": "runs, rushes",
+        "gram": "3 sg. pres. √dhāv"
+       },
+       {
+        "w": "an-āvṛtaḥ",
+        "gloss": "not covered",
+        "gram": "ppp. ā-√vṛ, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुदा में डाला गया स्नेह वेग से दौड़ता है, आवृत हुए बिना।",
+  "english": "The sneha placed in the anus rushes with force, not covered.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 27. The direction of the running is given in 29 ('ūrdhvam').",
+  "confidence": "high"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāyāt",
+        "gloss": "from the body (conjectural reading of the printed 'kāryaṃ')",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭhādūrdhvebhyaḥ",
+      "words": [
+       {
+        "w": "kaṇṭhāt",
+        "gloss": "from the throat",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ūrdhvebhyaḥ",
+        "gloss": "to the upper",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "khebhya",
+      "words": [
+       {
+        "w": "khebhyaḥ",
+        "gloss": "to the orifices (kha)",
+        "gram": "n. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "etyapi",
+      "words": [
+       {
+        "w": "eti",
+        "gloss": "it goes",
+        "gram": "3 sg. pres. √i"
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक अनुमानित पाठ के अनुसार: ऊपर की ओर शरीर से, फिर कण्ठ से ऊपर के छिद्रों तक भी जाता है।",
+  "english": "On a conjectural reading: upward from the body, then from the throat it goes also to the upper orifices.",
+  "text_flags": [
+   {
+    "src": "kāryaṃ",
+    "suggest": "kāyāt",
+    "why": "possible: 'kāryam' (to be done) gives no sense in this line; 'kāyāt' (from the body) fits the course of the sneha described (upward from the body, then from the throat to the upper openings)"
+   }
+  ],
+  "notes": "Continues 27 and 28 (the sneha that runs up). The printed 'kāryaṃ' (to be done) does not fit; 'kāyāt' is a guess, so the translations are hedged and the unit is low confidence. 'khebhya' is 'khebhyaḥ' (visarga lost before the vowel of 'etya'), the upper orifices (kha) being the openings of the head such as mouth and nostrils (not stated in the line). 'api' = also.",
+  "confidence": "low"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtraśyāmātrivṛtsiddho",
+      "words": [
+       {
+        "w": "mūtra-śyāmā-trivṛt-siddhaḥ",
+        "gloss": "cooked with urine, śyāmā (identity disputed, see 25) and trivṛt (turpeth, Operculina turpethum; standard)",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavakolakulatthavān",
+      "words": [
+       {
+        "w": "yava-kola-kulattha-vān",
+        "gloss": "having yava (barley), kola (jujube) and kulattha (horse gram) (see 10)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, यव, कोल यानी बेर और कुलत्थ यानी कुलथी वाला,",
+  "english": "cooked with urine, śyāmā and trivṛt (turpeth), having yava (barley), kola (jujube) and kulattha (horse gram),",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 31 (the noun 'nirūhaḥ' is there). Identifications: trivṛt = Operculina turpethum (standard); the others as in 10. In 25 'śyāmā' stands before 'bilva'; here 'śyāmā' and 'trivṛt' are listed separately, so they are different items.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatsiddhatailo",
+      "words": [
+       {
+        "w": "tat-siddha-tailaḥ",
+        "gloss": "one whose oil is cooked with that",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deyaḥ",
+      "words": [
+       {
+        "w": "deyaḥ",
+        "gloss": "to be given",
+        "gram": "gerundive √dā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syānnirūhaḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "it should be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "nirūhaḥ",
+        "gloss": "a nirūha (decoction enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sānuvāsanaḥ",
+      "words": [
+       {
+        "w": "sa-anuvāsanaḥ",
+        "gloss": "together with an anuvāsana (oil enema)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी में सिद्ध तैल वाला निरूह यानी काढ़े की बस्ति, अनुवासन सहित, देना चाहिए।",
+  "english": "A nirūha (decoction enema), with oil cooked in that, together with an anuvāsana (oil enema), should be given.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 30 and 31. 'tatsiddhataila' is a bahuvrīhi 'having oil cooked with that'; it is not fully clear whether it belongs with the nirūha or names the oil of the anuvāsana, so the translation keeps the order of the Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṃṭhādāgacchataḥ",
+      "words": [
+       {
+        "w": "kaṇṭhāt",
+        "gloss": "from the throat",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "āgacchataḥ",
+        "gloss": "of (it) coming",
+        "gram": "pres. part. ā-√gam, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "staṃbhakaṃṭhagrahavirecanaiḥ",
+      "words": [
+       {
+        "w": "stambha-kaṇṭha-graha-virecanaiḥ",
+        "gloss": "stiffening, arresting (stambha); throat-seizing (kaṇṭhagraha); purgations (virecana)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कण्ठ से आते हुए उसके, स्तम्भ, कण्ठग्रह और विरेचनों से,",
+  "english": "Of it, as it comes from the throat, by stiffening (stambha), throat-seizing (kaṇṭhagraha) and purgations (virecana),",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues in 33 ('tasya kuryān nivarttanam'). The compound could be divided 'stambha, kaṇṭha-graha, virecana' (as here) or 'stambha-kaṇṭha-graha' as one (stiffening and seizing of the throat); it is not clear whether the first two are measures or effects. Since 33 adds 'and by anti-vomiting actions' as further means, the words here are taken as means, but this is uncertain. 'āgacchataḥ' is a genitive of the sneha (understood).",
+  "confidence": "low"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chardighnībhiḥ",
+      "words": [
+       {
+        "w": "chardi-ghnībhiḥ",
+        "gloss": "destroying vomiting",
+        "gram": "tat-puruṣa, f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kriyābhiśca",
+      "words": [
+       {
+        "w": "kriyābhiḥ",
+        "gloss": "with actions, measures",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryānnivarttanaṃ",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "one should do, bring about",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "nivartanam",
+        "gloss": "turning back",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उल्टी को नष्ट करने वाली क्रियाओं से उसका निवर्तन यानी लौटाना करे।",
+  "english": "and by actions that destroy vomiting (chardi), one should bring about its turning back.",
+  "text_flags": [],
+  "notes": "Completes the sentence of 32 to 33. Printed 'nivarttana' is normalised to 'nivartana' (doubled t). chardi is kept as 'vomiting' (different from vamana).",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāpakaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "apakvam",
+        "gloss": "unripe, uncooked",
+        "gram": "adj., m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇayetsnehaṃ",
+      "words": [
+       {
+        "w": "praṇayet",
+        "gloss": "one should administer",
+        "gram": "3 sg. opt. pra-√nī"
+       },
+       {
+        "w": "sneham",
+        "gloss": "sneha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gudaṃ",
+      "words": [
+       {
+        "w": "gudam",
+        "gloss": "the anus",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyupaliṃpati",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "upalimpati",
+        "gloss": "smears, coats",
+        "gram": "3 sg. pres. upa-√lip"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपक्व स्नेह नहीं देना चाहिए, क्योंकि वह गुदा को लीप देता है।",
+  "english": "One should not administer unripe (uncooked) sneha, for it smears the anus.",
+  "text_flags": [
+   {
+    "src": "nāpakaṃ",
+    "suggest": "nāpakvaṃ",
+    "why": "possible: 'apaka' is not a word; apakva (unripe, uncooked) is the usual form"
+   }
+  ],
+  "notes": "'apakva' = unripe or uncooked; whether it means oil not yet prepared (cooked) or not yet digested is not stated. 'praṇayet' = 'should administer' (open wording).",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryātsarudgrāhakaṃḍūśophān",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "(it) would cause",
+        "gram": "3 sg. opt. √kṛ"
+       },
+       {
+        "w": "sa-ruj-grāha-kaṇḍū-śophān",
+        "gloss": "retention (grāha) with pain (ruj); itching (kaṇḍū); swelling (śopha)",
+        "gram": "bahuvrīhi + dvandva, m. acc. pl. (reading conjectural)"
+       }
+      ]
+     },
+     {
+      "src": "kriyā",
+      "words": [
+       {
+        "w": "kriyā",
+        "gloss": "the treatment",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tra",
+      "words": [
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब, एक अनुमानित पाठ के अनुसार, वह पीड़ा के साथ रुकावट, खुजली और सूजन उत्पन्न करेगा; और यहाँ क्रिया",
+  "english": "Then, on a conjectural reading, it would cause retention with pain, itching and swelling; and the treatment here",
+  "text_flags": [
+   {
+    "src": "kuryātsarudgrāhakaṃḍūśophān",
+    "suggest": "kuryātsarug-grāhakaṃḍūśophān",
+    "why": "possible: 'sarud-' is not a form before 'g'; 'sa-ruj-grāha' (retention with pain) or 'sa-rug-grāha' is probable, the grouping of the words is a guess"
+   }
+  ],
+  "notes": "GROUPING: the sentence continues in 36 ('tīkṣṇo bastiḥ ...'), which gives the treatment. 'kuryāt' has no stated subject; 'it' is the unripe sneha of 34. The stretch 'sarudgrāha' is doubtful, so the translations are hedged. 'grāha' is read as 'holding, retention' (of stool or wind; the line does not say). 'śopha' = swelling.",
+  "confidence": "low"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīkṣṇo",
+      "words": [
+       {
+        "w": "tīkṣṇaḥ",
+        "gloss": "sharp, strong",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastistathā",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "enema (basti)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tailamarkapatrarase",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arka-patra-rase",
+        "gloss": "in the juice of arka leaves (arka: Calotropis gigantea or C. procera, madar; standard)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrṛtaṃ",
+      "words": [
+       {
+        "w": "śṛtam",
+        "gloss": "boiled",
+        "gram": "ppp. √śrā, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीक्ष्ण बस्ति, और अर्क यानी आक या मदार के पत्तों के रस में उबाला हुआ तैल।",
+  "english": "A sharp enema (basti), and oil boiled in the juice of arka (Calotropis, madar) leaves.",
+  "text_flags": [
+   {
+    "src": "śrṛtaṃ",
+    "suggest": "śṛtaṃ",
+    "why": "near-certain: 'śrṛta' is not a Sanskrit form; the extra r is a misprint for śṛta, boiled"
+   }
+  ],
+  "notes": "Completes the sentence of 35 (the treatment). arka = Calotropis gigantea or C. procera (standard). 'tīkṣṇa' = sharp, strong; the substances are not named.",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hrasvaṃ",
+      "words": [
+       {
+        "w": "hrasvam",
+        "gloss": "short",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrghaṃ",
+      "words": [
+       {
+        "w": "dīrgham",
+        "gloss": "long",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanu",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "thin",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthūlaṃ",
+      "words": [
+       {
+        "w": "sthūlam",
+        "gloss": "thick",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīrṇaṃ",
+      "words": [
+       {
+        "w": "jīrṇam",
+        "gloss": "old",
+        "gram": "adj., n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śithilabaṃdhanaṃ",
+      "words": [
+       {
+        "w": "śithila-bandhanam",
+        "gloss": "with loose binding",
+        "gram": "bahuvrīhi, adj., n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छोटा, लम्बा, पतला, मोटा, पुराना, ढीले बन्धन वाला।",
+  "english": "Short, long, thin, thick, old, with loose binding.",
+  "text_flags": [],
+  "notes": "GROUPING: a list of adjectives with no noun in this unit; it probably continues in the next chunk (the noun is not given here, and all words are neuter singular). Nothing is added.",
+  "confidence": "medium"
+ }
+]

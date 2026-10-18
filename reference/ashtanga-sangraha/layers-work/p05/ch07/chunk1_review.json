@@ -1,0 +1,643 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "text_flag abhuktadattāme",
+     "problem": "Metre does not support the conjecture: as printed the line is exactly 16 syllables (ā-vṛt-tau bhuk-ta-dat-tā-me sap-ta-dhā vyā-pa-daḥ smṛ-tāḥ); 'abhuktadattāme' would make 17. The draft's reasoning (seven = five coverings + abhukta + apakva) is attractive but is not metrically confirmed, and the printed word may be a real compound or a different corruption. Keep low confidence; human decision.",
+     "fix": "Add to notes: metre favours the printed syllable count; abhukta is only a sense-based guess.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Metre note: the line scans as 16 syllables as printed; reading 'abhukta-' would give 17, so the abhukta conjecture rests on sense (units 27 to 35), not on metre."
+     }
+    },
+    {
+     "field": "english",
+     "where": "'(āvṛti), and, on a conjectural reading, in'",
+     "problem": "'and' is supplied: the Sanskrit has no ca between the two locatives.",
+     "fix": "In the covering (āvṛti), on a conjectural reading in 'bhukta-datta-āma' (eaten, given, raw), ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(āvṛti), and, on a conjectural reading, in",
+      "new": "(āvṛti), on a conjectural reading in"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आवरण में तथा",
+     "problem": "'तथा' is supplied; the Sanskrit has no ca.",
+     "fix": "आवरण में, एक अनुमानित पाठ के अनुसार भुक्त-दत्त-आम में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आवरण में तथा, एक अनुमानित पाठ के अनुसार, भुक्त-दत्त-आम में",
+      "new": "आवरण में, एक अनुमानित पाठ के अनुसार भुक्त-दत्त-आम में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "twisting (cramp-like) pains",
+     "problem": "'pains' is not in the Sanskrit: veṣṭana is 'twisting'; 'cramp-like' is only a gloss.",
+     "fix": "by twisting (veṣṭana, cramp-like)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by twisting (cramp-like) pains",
+      "new": "by twisting (veṣṭana, cramp-like)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sneha-āvṛtam",
+     "problem": "'tat-puruṣa' is wrong for the draft's own reading: with vāyunā separate, the word is 'the sneha, covered' (object + participle), not 'covered by sneha'. Inconsistent with pitta-āvṛtam (14) / ati-aśana-āvṛtam (20), where X is the coverer.",
+     "fix": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sneha-āvṛtam",
+      "field": "gram",
+      "value": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered'; not a tat-puruṣa)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "snehāvṛtaṃ",
+     "problem": "Observation: the line has 15 syllables as printed (the same in unit 16); 'snehamāvṛtaṃ' (sneham āvṛtam) would give the regular 16 and matches the draft's reading. The printed form is kept; no flag added because the draft's split does not change the letters. Human decision whether to flag 'm' dropped in 8 and 16.",
+     "fix": "Possibly flag: possible 'snehamāvṛtaṃ' (ma lost; 15 syllables as printed).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रास्ना यानी सम्भवतः रास्ना नामक पौधे",
+     "problem": "Circular identification (रास्ना यानी रास्ना); and 'वालों' / 'उनके' are added words.",
+     "fix": "रास्ना, जो सम्भवतः रासन नामक पौधा है, और पीतद्रु, जिसकी पहचान विवादित है, के तैलों से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रास्ना यानी सम्भवतः रास्ना नामक पौधे और पीतद्रु जिसकी पहचान विवादित है, उनके तैलों से",
+      "new": "रास्ना, जो सम्भवतः रासन नामक पौधा है, और पीतद्रु, जिसकी पहचान विवादित है, के तैलों से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गरम वालों से",
+     "problem": "'वालों' is an added word; unstated nouns take the plain adjective in Hindi.",
+     "fix": "स्निग्ध, खट्टे, नमकीन और गरम से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गरम वालों से",
+      "new": "गरम से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tailakaiḥ",
+     "problem": "Reading check (units 9 to 12): plural 'tailakaiḥ' here and dual 'tailābhyām' in 12 make 'the two oils of rāsnā and of pītadru' the best reading, but it is an inference; the compound could also be 'by rāsnā, pītadru and oils' with 12 then referring to something else. Left to the owner.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kola (jujube)",
+     "problem": "Draft tags kola 'probable' but the translation is not hedged (policy: hedge when only probable).",
+     "fix": "kola (probably jujube)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "kola (jujube)",
+      "new": "kola (probably jujube)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कोल यानी बेर",
+     "problem": "Probable identification not hedged.",
+     "fix": "कोल यानी सम्भवतः बेर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कोल यानी बेर",
+      "new": "कोल यानी सम्भवतः बेर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sa-mūtraiḥ",
+     "problem": "Gender: the bahuvrīhi adjective agrees with nirūhaiḥ (masculine), not with neuter mūtra.",
+     "fix": "bahuvrīhi, adj., m. inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sa-mūtraiḥ",
+      "field": "gram",
+      "value": "bahuvrīhi, adj., m. inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tailābhyām",
+     "problem": "Depends on the open reading in unit 9 (see there): 'those two oils' = oils of rāsnā and of pītadru is plausible but an inference.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दमा नामक श्वास रोग",
+     "problem": "'रोग' is added (glossary: no added रोग); the identification can be stated without it.",
+     "fix": "तमक यानी सम्भवतः श्वास का दमा वाला प्रकार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दमा नामक श्वास रोग",
+      "new": "श्वास का दमा वाला प्रकार"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tṛḍadāha",
+     "problem": "Confirmed by metre: as printed the line has 17 syllables, with tṛḍdāha 16. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sneha-āvṛtam",
+     "problem": "Same as unit 8: 'tat-puruṣa' does not fit 'the sneha, covered' (vāyunā-type coverer is separate: śleṣmaṇā).",
+     "fix": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered'; not a tat-puruṣa)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sneha-āvṛtam",
+      "field": "gram",
+      "value": "ppp. ā-√vṛ, m. acc. sg. (sneha + āvṛta, 'the sneha, covered'; not a tat-puruṣa)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "snehāvṛtaṃ",
+     "problem": "Same metre observation as unit 8 (15 syllables; 'snehamāvṛtaṃ' gives 16).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭūnām",
+     "problem": "Gender given for an unstated noun (glossary: no gender for unstated nouns).",
+     "fix": "adj., gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kaṭūnām",
+      "field": "gram",
+      "value": "adj., gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "saṃgānir",
+     "problem": "Alternative conjecture worth recording: 'saṃga-glāni' (glāni, exhaustion, is common in these sign lists and 'gl' could have dropped); 'saṃgārti' is not the only candidate. Metre is 16 either way, so it cannot decide. Unit correctly low confidence and hedged.",
+     "fix": "Record both candidates in notes; human decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "unctuous applications and sweatings",
+     "problem": "'applications' is added; the text has sneha and sveda, not snehana/svedana.",
+     "fix": "with sneha and sweating (sveda), together with enemas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with unctuous applications and sweatings together with enemas",
+      "new": "with sneha and sweating (sveda), together with enemas"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्नेहन, स्वेदन",
+     "problem": "स्नेहन/स्वेदन are procedure names not in the Sanskrit (sneha, sveda).",
+     "fix": "स्नेह और स्वेद से, बस्तियों के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नेहन, स्वेदन और बस्तियों के साथ",
+      "new": "स्नेह और स्वेद से, बस्तियों के साथ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sneha-svedaiḥ",
+     "problem": "Same added 'applications'.",
+     "fix": "with sneha and sweating (sveda)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sneha-svedaiḥ",
+      "field": "gloss",
+      "value": "with sneha and sweating (sveda)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śyāmā",
+     "problem": "śyāmā is tagged disputed in the gloss but the translation carries no caveat (compare pītadru in unit 9).",
+     "fix": "cooked with śyāmā (identity disputed), bilva (bael) and the rest",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "śyāmā, bilva (bael)",
+      "new": "śyāmā (identity disputed), bilva (bael)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्यामा तथा बिल्व",
+     "problem": "Same: disputed identity not stated in the Hindi.",
+     "fix": "श्यामा, जिसकी पहचान विवादित है, तथा बिल्व यानी बेल आदि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्यामा तथा बिल्व",
+      "new": "श्यामा, जिसकी पहचान विवादित है, तथा बिल्व"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उदावर्त को हरने वाले",
+     "problem": "Bare उदावर्त; siblings (ch03 u22) give the plain-Hindi meaning, which the owner policy asks for. The identification is tagged probable in the gloss.",
+     "fix": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, उसे हरने वाले से भी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उदावर्त को हरने वाले से भी",
+      "new": "उदावर्त यानी वायु के उलटा चलने से मल और वायु का रुकना, उसे हरने वाले से भी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ūrdhvebhyaḥ",
+     "problem": "Gender given as m., but the word agrees with neuter khebhyaḥ.",
+     "fix": "adj., dat. pl. (with khebhyaḥ)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ūrdhvebhyaḥ",
+      "field": "gram",
+      "value": "adj., dat. pl. (with khebhyaḥ)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "visarga lost",
+     "problem": "'khebhya etyapi' is regular sandhi (-aḥ + e gives -a e); it is not a lost visarga or a misprint.",
+     "fix": "(regular sandhi before 'eti', not a misprint)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(visarga lost before the vowel of 'etya')",
+      "new": "(regular sandhi before 'eti'; not a misprint)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yava-kola-kulattha-vān",
+     "problem": "-vat is the possessive (matup) suffix, not a bahuvrīhi.",
+     "fix": "m. nom. sg., possessive -vat",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yava-kola-kulattha-vān",
+      "field": "gram",
+      "value": "m. nom. sg., possessive suffix -vat"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kola (jujube)",
+     "problem": "Probable identification not hedged.",
+     "fix": "kola (probably jujube)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "kola (jujube)",
+      "new": "kola (probably jujube)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कोल यानी बेर",
+     "problem": "Probable identification not hedged.",
+     "fix": "कोल यानी सम्भवतः बेर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कोल यानी बेर",
+      "new": "कोल यानी सम्भवतः बेर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śyāmā",
+     "problem": "Disputed identity not carried into the translation.",
+     "fix": "cooked with urine, śyāmā (identity disputed) and trivṛt (turpeth)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "urine, śyāmā and trivṛt",
+      "new": "urine, śyāmā (identity disputed) and trivṛt"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्यामा और त्रिवृत्",
+     "problem": "Same.",
+     "fix": "मूत्र, श्यामा, जिसकी पहचान विवादित है, और त्रिवृत् यानी निशोथ से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्यामा और त्रिवृत्",
+      "new": "श्यामा, जिसकी पहचान विवादित है, और त्रिवृत्"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसी में",
+     "problem": "'उसी' (the very) adds emphasis; tat is plain 'that'.",
+     "fix": "उसमें सिद्ध तैल वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसी में सिद्ध",
+      "new": "उसमें सिद्ध"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stiffening (stambha)",
+     "problem": "The sense of stambha, kaṇṭhagraha and virecana here (means or effects) is unclear; English 'stiffening' is a guess stated without hedge, while Hindi leaves stambha untranslated. Unit is low confidence; human decision.",
+     "fix": "Hedge, e.g. 'stambha (unclear sense)'.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निवर्तन यानी लौटाना करे",
+     "problem": "Ungrammatical Hindi ('लौटाना करे').",
+     "fix": "उसका निवर्तन करे, यानी उसे लौटाए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका निवर्तन यानी लौटाना करे",
+      "new": "उसका निवर्तन करे, यानी उसे लौटाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kuryātsarudgrāha",
+     "problem": "The draft says 'kuryāt' has no subject. A more natural parse supplies one: 'kuryāt sa rug-grāha-kaṇḍū-śophān' (sa = that sneha, as 'sa' in 34), 'it would cause pain, grāha, itching, swelling', with 'rud' a misprint for 'rug'. The draft's 'sa-ruj-grāha' (retention with pain) is therefore not the only reading; both are conjectural. Human decision; unit stays low confidence.",
+     "fix": "Record the alternative in notes.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hrasvam ... śithila-bandhanam",
+     "problem": "With the noun unstated, 'nom.' (and neuter) is a guess; the forms could equally be accusative. Glossary: no case labels on unstated words.",
+     "fix": "adj., n. sg. (noun not stated)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk p05/ch07 k1 (units 1-37) reviewed. Draft is sound: split and grammar are mostly right, no invented content found, typo flags plausible (13 also confirmed by metre). Fixes: supplied words (Hindi/English 'and', 'pains', 'applications'), unhedged probable/disputed identifications (kola in 10 and 30, śyāmā in 25 and 30), Hindi wording (9, 13, 24, 26, 31, 33), gram labels (sneha-āvṛtam, sa-mūtraiḥ, kaṭūnām, ūrdhvebhyaḥ, -vat). Needs human decision: 3 (metre does not support abhukta conjecture), 9 to 12 (tailābhyām = two oils of rāsnā and pītadru), 23, 29, 32, 35 (alternative conjectures), 8/16 (15-syllable lines; possible snehamāvṛtaṃ). Identifications judged acceptable: rāsnā probable, pītadru and śyāmā disputed, tamaka and udāvarta probable, trivṛt, bilva, arka, kulattha, yava standard. No regrouping needed (GROUPING notes are sensible; 37 continues beyond the chunk).",
+ "glossary_suggestions": [
+  "Hindi: bare आम can read as 'mango'; at first use write 'आम यानी अपक्व अवस्था'.",
+  "X-āvṛta: tat-puruṣa 'covered by X' only when X is the coverer (pitta-āvṛtam); 'sneha-āvṛtam' with a separate coverer = 'the sneha, covered' (no tat-puruṣa).",
+  "Probable identifications (kola = jujube) are hedged in both translations; disputed ones (pītadru, śyāmā) carry '(identity disputed)' / 'जिसकी पहचान विवादित है' in both translations.",
+  "-vat (yavakolakulatthavān) is a possessive suffix, not bahuvrīhi.",
+  "aruci: modern equivalent 'anorexia / loss of appetite' may be added in the gloss (standard).",
+  "Metre (16 syllables) is usable as evidence for typo flags: tṛḍadāha in 13 (17 as printed, 16 corrected); lines 8 and 16 have 15 (possible lost 'ma' in snehamāvṛtaṃ)."
+ ]
+}

@@ -1,0 +1,290 @@
+[
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "वैद्य को दोनों बस्तियाँ ठंडी, मधु और शर्करा सहित देनी चाहिए।",
+  "new": "वैद्य द्वारा दोनों बस्तियाँ ठंडी, मधु और शर्करा सहित दी जानी चाहिए।",
+  "why": "reviewer (error): \"वैद्य को\" reads as \"to the physician\"; Sanskrit bhiṣajā is instrumental (by the physician)."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence begun in 75 ('dvau ... saṃyutau'). 'śarkarā' is rendered 'sugar'; whether crystal sugar or another form is not stated.",
+  "new": "GROUPING: appears to complete the sentence begun in 75 ('dvau ... saṃyutau'). 'śarkarā' is rendered 'sugar'; whether crystal sugar or another form is not stated.",
+  "why": "reviewer (minor): States \"completes the sentence\" as fact."
+ },
+ {
+  "n": "77",
+  "field": "notes",
+  "old": "GROUPING: 77, 78 and 79 appear to form one sentence (instrumentals in 77-78, verb 'praśasyate' in 79). The printed token 'go'pyajā...' is split go + api + ajā..., which gives two 'api' in the line (one inside the compound and one at the end); the metre is regular (16 syllables), so no change is proposed. 'jīvanīya' is the name of a standard group of life-promoting drugs; its members are not listed in this unit and are not supplied.",
+  "new": "GROUPING: 77, 78 and 79 appear to form one sentence (instrumentals in 77-78, verb 'praśasyate' in 79). The printed token 'go'pyajā...' is split go + api + ajā..., which gives two 'api' in the line (one inside the compound and one at the end); the metre is regular (16 syllables), so no change is proposed. 'jīvanīya' is the name of a standard group of life-promoting drugs; its members are not listed in this unit and are not supplied. Identification (standard): jīvanīya is the group of ten life-promoting drugs listed in Caraka (jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka); whether this text lists the same members is not checked.",
+  "why": "reviewer (minor): Standard group not identified; owner policy wants useful identifications."
+ },
+ {
+  "n": "78",
+  "field": "text_flags.0.why",
+  "old": "possible: 'dakṣa' is not an animal; 'ṛkṣa' (bear) fits the list of animals, and 'śaśaiṇarkṣa' (7 syllables) + 'mahiṣyanyajaśoṇitaiḥ' (9) gives exactly 16 syllables, while the printed 'dakṣa' makes 17 (ऋक्ष/दक्ष look alike in print)",
+  "new": "possible: 'dakṣa' is not an animal; 'ṛkṣa' (bear) fits the list of animals and the shapes ऋक्ष/दक्ष look alike in print. The metre does not decide it: the printed line is 16 syllables, with ṛkṣa (eṇarkṣa) it is 15.",
+  "why": "reviewer (error): Metre claim is wrong: the printed line (with dakṣa) already counts 16 syllables; with ṛkṣa (eṇarkṣa) it counts 15. So the metre does not support ṛkṣa."
+ },
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "खरगोश, एण यानी हिरण, भालू, अनुमानित पाठ के अनुसार, बिल्ली, भैंस और अन्य से उत्पन्न के रक्तों से।",
+  "new": "खरगोश, एण यानी हिरण, अनुमानित पाठ के अनुसार भालू, बिल्ली, भैंस और अन्य से उत्पन्न के रक्तों से।",
+  "why": "reviewer (minor): The hedge sits between भालू and बिल्ली and can be read as qualifying the cat."
+ },
+ {
+  "n": "79",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence of 77-78; the adjectives 'sadyaskaiḥ mṛditaiḥ' agree with the instrumentals of 78 (blood) and are left as '(ones)' here. 'mṛdita' may also be 'rubbed, mixed'; that crushing fits blood less well than the milks or drugs is not resolved. 'sadyaska' is 'fresh' (lit. 'of the same day').",
+  "new": "GROUPING: appears to complete the sentence of 77-78; the adjectives 'sadyaskaiḥ mṛditaiḥ' agree with the instrumentals of 78 (blood) and are left as '(ones)' here. 'mṛdita' may also be 'rubbed, mixed'; that crushing fits blood less well than the milks or drugs is not resolved. 'sadyaska' is 'fresh' (lit. 'of the same day').",
+  "why": "reviewer (minor): States \"completes\" as fact."
+ },
+ {
+  "n": "82",
+  "field": "lines.0.tokens.3.words",
+  "old": [
+   {
+    "w": "madhunā",
+    "gloss": "with honey",
+    "gram": "n. inst. sg."
+   },
+   {
+    "w": "taila-ghṛtāt",
+    "gloss": "from oil and ghee (conjectural; printed as -naila-)",
+    "gram": "dvandva, abl. sg."
+   },
+   {
+    "w": "trayaḥ",
+    "gloss": "three",
+    "gram": "m. nom. pl."
+   }
+  ],
+  "new": [
+   {
+    "w": "madhu-taila-ghṛtāt",
+    "gloss": "from honey, oil and ghee (conjectural; printed as madhunaila-ghṛtāt)",
+    "gram": "dvandva, n. abl. sg."
+   },
+   {
+    "w": "trayaḥ",
+    "gloss": "three",
+    "gram": "m. nom. pl."
+   }
+  ],
+  "why": "reviewer (error): The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural."
+ },
+ {
+  "n": "82",
+  "field": "text_flags.1",
+  "old": {
+   "src": "madhunailaghṛtāttrayaḥ",
+   "suggest": "madhunā tailaghṛtāt trayaḥ",
+   "why": "possible: 'madhunaila' is not clear; 'madhunā taila-ghṛtāt' (with honey, from oil and ghee) matches the ablative pattern 'kṣīrāt'; the metre of the half-line then has 9 syllables, so this is only a conjecture"
+  },
+  "new": {
+   "src": "madhunailaghṛtāttrayaḥ",
+   "suggest": "madhutailaghṛtāt trayaḥ",
+   "why": "possible: 'madhunaila' is not clear; 'madhu-taila-ghṛtāt' (from honey, oil and ghee) keeps the 8 syllables of the printed half-line (ta/na look alike in print) and matches the ablative 'kṣīrāt'; only a conjecture"
+  },
+  "why": "reviewer (error): The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "दूध से दो प्रसृत बनाने चाहिए; मधु के साथ, तेल और घी से तीन, अनुमानित पाठ के अनुसार।",
+  "new": "दूध से दो प्रसृत बनाने चाहिए; मधु, तेल और घी से तीन, अनुमानित पाठ के अनुसार।",
+  "why": "reviewer (error): The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural."
+ },
+ {
+  "n": "82",
+  "field": "english",
+  "old": "Two prasṛtas are to be made from milk; with honey, three from oil and ghee (on a conjectural reading).",
+  "new": "Two prasṛtas are to be made from milk; three from honey, oil and ghee (on a conjectural reading).",
+  "why": "reviewer (error): The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural."
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "GROUPING: 82 appears to give the quantities of a basti whose churning with a khaja is in 83. The second half is uncertain. Another reading: three prasṛtas made up of honey, oil and ghee (one each). 'ela' (cardamom) is also possible for the printed 'aila', but no spice is added. Quantities are not applied beyond what is printed.",
+  "new": "GROUPING: 82 appears to give the quantities of a basti whose churning with a khaja is in 83. The second half is uncertain. The reading adopted after review is 'madhu-taila-ghṛtāt trayaḥ' (three prasṛtas from honey, oil and ghee); whether one each is not stated. 'ela' (cardamom) is also possible for the printed 'aila', but no spice is added. Quantities are not applied beyond what is printed.",
+  "why": "reviewer (error): The draft conjecture \"madhunā taila-ghṛtāt\" has no support and breaks the metre (9 syllables vs the printed 8). \"madhu-taila-ghṛtāt\" keeps the 8 syllables, needs only ta misread as na, parallels the abl. \"kṣīrāt\" and matches the draft's own alternative (honey, oil, ghee). Still conjectural."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "बिल्व आदि की जड़ों के काढ़े से दो, कुलत्थ से दो; वह वात को जीतने वाली है।",
+  "new": "बिल्व यानी बेल आदि की जड़ों के काढ़े से दो, कुलत्थ यानी कुलथी से दो; वह वात को जीतने वाली है।",
+  "why": "reviewer (minor): Plant names are given in English but not in Hindi (policy: Hindi name beside the Sanskrit term)."
+ },
+ {
+  "n": "85",
+  "field": "notes",
+  "old": "GROUPING: continues 84 (the one-prasṛta items); the whole is one recipe. 'bilvādimūla' means the roots of bilva and the others; which others is not stated. 'kaulatthāt' has no noun: 'decoction' is understood from the first half (not added in the translation).",
+  "new": "GROUPING: continues 84 (the one-prasṛta items); the whole is one recipe. 'bilvādimūla' means the roots of bilva and the others; which others is not stated. 'kaulatthāt' has no noun: 'decoction' is understood from the first half (not added in the translation). bilvādi-mūla is probably the roots of the pañcamūla group that begins with bilva (probable; the text does not list them).",
+  "why": "reviewer (minor): Missed useful identification."
+ },
+ {
+  "n": "86",
+  "field": "lines.0.tokens.0.words",
+  "old": [
+   {
+    "w": "paṭola-nimba-bhūtīka-rāsnā-saptacchada",
+    "gloss": "paṭola (pointed gourd, Trichosanthes dioica; standard); nimba (neem, Azadirachta indica; standard); bhūtīka (identity disputed); rāsnā (probably Pluchea lanceolata; disputed); saptacchada (devil's tree, Alstonia scholaris; standard)",
+    "gram": "dvandva, stem (members)"
+   }
+  ],
+  "new": [
+   {
+    "w": "paṭola-nimba-bhūtīka-rāsnā",
+    "gloss": "paṭola (pointed gourd, Trichosanthes dioica; standard); nimba (neem, Azadirachta indica; standard); bhūtīka (identity disputed); rāsnā (probably Pluchea lanceolata; disputed)",
+    "gram": "dvandva, stem (members)"
+   }
+  ],
+  "why": "reviewer (error): saptacchada is placed in the first token's word list but belongs to the second printed token \"samacchadāṃbhasaḥ\"; the second token shows only ambhasaḥ, so its corrected word is invisible next to its flag."
+ },
+ {
+  "n": "86",
+  "field": "lines.0.tokens.1.words",
+  "old": [
+   {
+    "w": "ambhasaḥ",
+    "gloss": "of water (or: from water)",
+    "gram": "n. gen./abl. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "saptacchada",
+    "gloss": "saptacchada (devil's tree, Alstonia scholaris; standard); printed as samacchada (see text_flags)",
+    "gram": "m. stem (last member of the dvandva)"
+   },
+   {
+    "w": "ambhasaḥ",
+    "gloss": "of water (or: from water)",
+    "gram": "n. gen./abl. sg."
+   }
+  ],
+  "why": "reviewer (error): saptacchada is placed in the first token's word list but belongs to the second printed token \"samacchadāṃbhasaḥ\"; the second token shows only ambhasaḥ, so its corrected word is invisible next to its flag."
+ },
+ {
+  "n": "87",
+  "field": "notes",
+  "old": "GROUPING: continues 86 ('prasṛtaḥ' of the waters, separately) and runs on into 88; 'bastiḥ' is the subject of 88. The words 'one from ghee' are the literal ablative 'ājyāt'.",
+  "new": "GROUPING: continues 86 ('prasṛtaḥ' of the waters, separately) and runs on into 88; the nominative 'bastiḥ' of 87 appears to be the noun of the adjectives in 88. The words 'one from ghee' are the literal ablative 'ājyāt'.",
+  "why": "reviewer (minor): No bastiḥ occurs in 88; the nominative bastiḥ is in 87 and the adjectives of 88 agree with it."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence of 86-87 ('bastiḥ ... sarṣapakalkavān'). 'pañcatikta' is the five bitters; the five drugs named in 86 may be meant, but the text does not say so. 'abhiṣyanda' is kept in Sanskrit (the sense is oozing or exudative congestion; for the eyes it is conjunctivitis, which is not stated here). Identifications: kuṣṭha = group of skin diseases, traditional rendering leprosy (standard); prameha = group of urinary disorders, associated with diabetes (probable); kṛmi = worms (probable).",
+  "new": "GROUPING: appears to complete the sentence of 86-87 ('bastiḥ ... sarṣapakalkavān'). 'pañcatikta' is the five bitters; the five drugs named in 86 may be meant, but the text does not say so. 'abhiṣyanda' is kept in Sanskrit (the sense is oozing or exudative congestion; for the eyes it is conjunctivitis, which is not stated here). Identifications: kuṣṭha = group of skin diseases, traditional rendering leprosy (standard); prameha = group of urinary disorders, associated with diabetes (probable); kṛmi = worms (probable).",
+  "why": "reviewer (minor): States \"completes\" as fact."
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "With the five bitters (pañcatikta), destroying abhiṣyanda, worms (kṛmi), kuṣṭha (skin disease, traditionally \"leprosy\") and prameha (urinary disorders, probably including diabetes).",
+  "new": "With the five bitters (pañcatikta), destroying abhiṣyanda, worms (kṛmi), kuṣṭha (skin disease, traditionally \"leprosy\") and prameha (a group of urinary disorders, probably linked to diabetes).",
+  "why": "reviewer (minor): \"including\" is an added word; the identification should say what the term is linked to, hedged."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "पाँच तिक्तों सहित, अभिष्यन्द, कृमि यानी कीड़े, कुष्ठ यानी त्वचा रोग, जिसे परम्परा से कोढ़ कहा गया, और प्रमेह यानी मूत्र-विकार, जो सम्भवतः मधुमेह से जुड़ा है, इनका नाश करने वाली।",
+  "new": "पाँच तिक्तों सहित, अभिष्यन्द, कृमि यानी कीड़े, कुष्ठ यानी त्वचा रोग, जिसे परम्परा से कोढ़ कहा जाता है, और प्रमेह यानी मूत्र-विकार, जो सम्भवतः मधुमेह से जुड़ा है, इनका नाश करने वाली।",
+  "why": "reviewer (minor): Garbled tense; reads as a fact about the text."
+ },
+ {
+  "n": "91",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence of 89-90 ('having churned them, a nirūha ...'). 'vella' is left as the printed name: identity disputed (viḍaṅga or another drug).",
+  "new": "GROUPING: appears to complete the sentence of 89-90 ('having churned them, a nirūha ...'). 'vella' is left as the printed name: identity disputed (viḍaṅga or another drug).",
+  "why": "reviewer (minor): States \"completes\" as fact."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "पयस्या, इक्षु यानी गन्ना, स्थिरा, रास्ना, विदारी यानी विदारीकन्द, मधु और घी।",
+  "new": "पयस्या, इक्षु यानी गन्ना, स्थिरा, रास्ना, विदारी यानी विदारीकन्द, मधु और घी का।",
+  "why": "reviewer (minor): Genitive missing; the Sanskrit list is genitive/ablative and the English says \"Of ...\"."
+ },
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence of 92 (the list of ingredients, one prasṛta each). 'vṛṣatva' is virility, sexual potency; the text says only 'vṛṣatva-kṛt'. The reading of 'kṛṣṇākalkau' is conjectural. kṛṣṇā = pippalī (long pepper; standard).",
+  "new": "GROUPING: appears to complete the sentence of 92 (the list of ingredients, one prasṛta each). 'vṛṣatva' is virility, sexual potency; the text says only 'vṛṣatva-kṛt'. The reading of 'kṛṣṇākalkau' is conjectural. kṛṣṇā = pippalī (long pepper; standard).",
+  "why": "reviewer (minor): States \"completes\" as fact."
+ },
+ {
+  "n": "94",
+  "field": "notes",
+  "old": "GROUPING: 94 and 95 appear to be one sentence ('bastiḥ kavoṣṇaḥ ...' in 95). The noun counted by 'catvāraḥ' is not stated (prasṛtas, as in 82-93, is likely but is not supplied). Whether the four are one from each of the four items, or 'amla' stands apart, is not decided by the compound. gomūtra is read as cow's urine.",
+  "new": "GROUPING: 94 and 95 appear to be one sentence ('bastiḥ kavoṣṇaḥ ...' in 95). The noun counted by 'catvāraḥ' is not stated (prasṛtas, as in 82-93, is likely but is not supplied). Whether the four are one from each of the four items, or 'amla' stands apart, is not decided by the compound. gomūtra is read as cow's urine. Counting: 'catvāraḥ' (four) matches four items if amla-kāñjika is one item (probable; one prasṛta of each is then understood but not stated).",
+  "why": "reviewer (minor): Counting helps the open question: with \"four\", the items taila, gomūtra, dadhimaṇḍa, amla-kāñjika give four (one each), supporting amla-kāñjika as one item."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "मृदु बस्ति से जड़ हो गए में तीक्ष्ण, दूसरी बस्ति चाही जाती है।",
+  "new": "मृदु बस्ति से जड़ हो गए में दूसरी, तीक्ष्ण बस्ति चाही जाती है।",
+  "why": "reviewer (minor): Word order: anyaḥ (another) and tīkṣṇaḥ (sharp) both qualify basti; Hindi order reads as if tīkṣṇa stands alone."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "GROUPING: elliptical; no verb (understood 'is produced/made'). 'agni' is left as 'agni'; it may be the drug of that name (citraka, Plumbago zeylanica; disputed) or fire; 'mūtra' is urine, the animal is not stated. 'kṣāra' is kept (an ash-derived alkaline substance).",
+  "new": "GROUPING: elliptical; no verb (understood 'is produced/made'). 'agni' is left as 'agni'; it may be the drug of that name (citraka, Plumbago zeylanica; disputed) or fire; 'mūtra' is urine, the animal is not stated. 'kṣāra' is kept (an ash-derived alkaline substance). Possibly the gerundive 'vidhātavyam' of 99 serves both tīkṣṇatvam here and mārdavam there.",
+  "why": "reviewer (minor): Note says the unit has no verb; vidhātavyam of 99 (neuter, agreeing with tīkṣṇatvam and mārdavam) supplies it."
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "तीक्ष्णता, मूत्र, बिल्व, अग्नि, लवण, क्षार और सरसों से।",
+  "new": "तीक्ष्णता, मूत्र, बिल्व यानी बेल, अग्नि, लवण, क्षार और सरसों से।",
+  "why": "reviewer (minor): Hindi name missing (English has bael; 85 and 98 should agree)."
+ },
+ {
+  "n": "100",
+  "field": "hindi",
+  "old": "बल, काल, देश, सात्म्य और प्रकृतियों को भली-भाँति अलग-अलग करके प्रयुक्त की गई बस्ति",
+  "new": "बल, काल, देश, सात्म्य यानी आदत से अनुकूल पड़ने वाला और प्रकृतियों को भली-भाँति अलग-अलग करके प्रयुक्त की गई बस्ति",
+  "why": "reviewer (minor): Term left without gloss in Hindi although English glosses it."
+ },
+ {
+  "n": "101",
+  "field": "notes",
+  "old": "GROUPING: completes 100; the subject is the basti of 100. Orthography: printed 'nivarttayati' is given as nivartayati (see 74).",
+  "new": "GROUPING: appears to complete 100; the subject is the basti of 100. Orthography: printed 'nivarttayati' is given as nivartayati (see 74).",
+  "why": "reviewer (minor): States \"completes\" as fact."
+ },
+ {
+  "n": "103",
+  "field": "text_flags.0.why",
+  "old": "possible: 'saṃtarksa' is not a form; the absolutive 'saṃtarkya' (having considered) fits the sense and metre",
+  "new": "possible: 'saṃtarksa' is not a form; the absolutive 'saṃtarkya' (having considered) fits the sense (kya/ksa look alike in print); the line has 15 syllables either way",
+  "why": "reviewer (minor): Claim that saṃtarkya fits the metre is empty: the line is 15 syllables both as printed and with saṃtarkya."
+ },
+ {
+  "n": "104",
+  "field": "text_flags.0.why",
+  "old": "possible, low confidence: 'nourishing' bastis in 'cleansing' diseases looks contradictory; 107 and 105 use 'viśodhanīya' for the cleansing bastis; the printed text is kept and the reading is not firm",
+  "new": "possible, low confidence: 'nourishing' bastis in 'cleansing' diseases looks contradictory; 107 uses 'viśodhanīya' for the cleansing bastis and 105 has 'viśodhya'; the printed text is kept and the reading is not firm",
+  "why": "reviewer (minor): Says 105 uses \"viśodhanīya\"; 105 has viśodhya."
+ },
+ {
+  "n": "105",
+  "field": "notes",
+  "old": "GROUPING: part of the passage 104-107; the case of these nominatives and the verb they belong to are not given in this unit (the verb 'dadyāt' is in 104). 'medasvin' is 'having much medas (fat)', i.e. fat or obese. 'meha' is the same group as prameha (88).",
+  "new": "GROUPING: part of the passage 104-107; the case of these nominatives and the verb they belong to are not given in this unit (the verb 'dadyāt' is in 104). 'medasvin' is 'having much medas (fat)', i.e. fat or obese. 'meha' is the same group as prameha (88). Ambiguity: 'medasvinaḥ viśodhyāḥ' may be 'the fat who are to be cleansed', with 'ye ca narāḥ ...' a second group; the English keeps the items separate.",
+  "why": "reviewer (minor): Syntax ambiguity not noted: \"the fat who are to be cleansed, and men afflicted by kuṣṭha and meha\" is also possible; the English separates \"(those) to be cleansed\"."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "शोधन करने वाली बस्तियाँ दे, और जिनकी आयु दोषों में बँधी है, वे जो।",
+  "new": "शोधन करने वाली बस्तियाँ दे, और वे जिनकी आयु दोषों से बँधी है।",
+  "why": "reviewer (minor): Dangling \"वे जो\" at the end is not Hindi syntax."
+ }
+]

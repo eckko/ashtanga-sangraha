@@ -1,0 +1,845 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जाल वाला",
+     "problem": "jālavat means \"net-like\" (as the English says); \"जाल वाला\" is \"having a net\" and disagrees with the English.",
+     "fix": "जाल के समान",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाल वाला",
+      "new": "जाल के समान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन आठों",
+     "problem": "tān = \"those\", not \"these\".",
+     "fix": "उन आठों",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन आठों",
+      "new": "उन आठों"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Irregular flow (gati-vaiṣamya)",
+     "problem": "gati is \"going/course\" (unit 40 renders it \"course\"); \"flow\" is an imported sense (praseka/srava are the flow words).",
+     "fix": "Unevenness of going (gati-vaiṣamya)",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "Irregular flow (gati-vaiṣamya)",
+      "new": "Unevenness of going (gati-vaiṣamya)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "would occur in the basti, from a fault of the basti",
+     "problem": "basteḥ is genitive (\"of the basti\"); the translation makes it locative (\"in the basti\") and the verb phrase is invented.",
+     "fix": "[these] would be of the basti (basteḥ), from the basti's faults (basti-doṣataḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "english",
+      "old": "[these] would occur in the basti, from a fault of the basti",
+      "new": "[these] would be of the basti (basteḥ), from the basti's faults (basti-doṣataḥ)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बस्ति में ये हो सकते हैं",
+     "problem": "Same: \"बस्ति में\" (in the basti) is not in the Sanskrit (basteḥ = of the basti).",
+     "fix": "बस्ति के ये हो सकते हैं, बस्ति के दोष से",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बस्ति के दोष से बस्ति में ये हो सकते हैं",
+      "new": "बस्ति के ये हो सकते हैं, बस्ति के दोष से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "basti sense",
+     "problem": "Glossary says basti = \"bag\" (the device) in units 41-44; unit 44 does not record it.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "append_note",
+      "text": "Here basti is read as the bag (the device), as in units 41-42; the faults listed in 43-44 are of the bag. The 5 faults of unit 43 plus phenila and the doubtful second item make about seven, one short of the eight bastis of 41-42, so a fault may be hidden in the damaged word."
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ūrdhva-saṅkucita-sthitam",
+     "problem": "\"tat-puruṣa\" is not established for ūrdhva + saṅkucita + sthita (they may be a list of three adjectives); do not assert a compound type.",
+     "fix": "n. acc. sg. (compound of three adjectives; type uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "ūrdhva-saṅkucita-sthitam",
+      "field": "gram",
+      "value": "n. acc. sg. (compound; type uncertain)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्तान",
+     "problem": "The English explains \"supine (uttāna)\"; the Hindi leaves उत्तान bare, which a reader may not know.",
+     "fix": "उत्तान यानी पीठ के बल",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तान, दाहिना पार्श्व",
+      "new": "उत्तान यानी पीठ के बल, दाहिना पार्श्व"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "sama / śayyāḥ",
+     "problem": "Needs a human decision. Besides the oddity of \"even beds\" in a list of things to avoid, sama is singular and uncoloured while śayyāḥ is plural feminine (samāḥ would be expected), which is a second reason to doubt the print. The metre point in the flag is fair (viṣama gives 17, sama gives 16) but one syllable is weak evidence in a damaged text; keep low confidence and the \"possible\" wording.",
+     "fix": "owner decides: keep \"sama (even)\" with the flag, or adopt viṣama",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Obstruction of urine (mūtra-āghāta, retention of urine)",
+     "problem": "The translation silently builds on the conjectural mūtrāghāta (printed mūtraughāta, flagged only \"possible\"); the glossary wants conjectural readings marked in the translation.",
+     "fix": "On a conjectural reading of the printed mūtraughāta, obstruction of urine (mūtra-āghāta, retention of urine)",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "english",
+      "old": "Obstruction of urine (mūtra-āghāta, retention of urine)",
+      "new": "On a conjectural reading of the printed mūtraughāta, obstruction of urine (mūtra-āghāta, retention of urine)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूत्र का रुकना",
+     "problem": "Same: first item rests on a conjecture but is not marked in Hindi.",
+     "fix": "एक अनुमानित पाठ के अनुसार मूत्र का रुकना",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूत्र का रुकना, आँत",
+      "new": "एक अनुमानित पाठ के अनुसार मूत्र का रुकना, आँत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "quick return (āśu-āgati)",
+     "problem": "āgati is \"coming/arrival\"; \"return\" is imported from unit 68 (nivartate).",
+     "fix": "quick coming (āśu-āgati)",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "english",
+      "old": "quick return (āśu-āgati)",
+      "new": "quick coming (āśu-āgati)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शीघ्र लौट आना",
+     "problem": "Same: \"लौट\" (return) is not in āśvāgati.",
+     "fix": "शीघ्र आना",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शीघ्र लौट आना",
+      "new": "शीघ्र आना"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "āśu-āgatiḥ",
+     "problem": "Gloss \"return\" same issue.",
+     "fix": "quick; coming, arrival",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "word",
+      "match_w": "āśu-āgatiḥ",
+      "field": "gloss",
+      "value": "quick; coming, arrival"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Those would be their faults",
+     "problem": "taddoṣāḥ is one word \"their faults\"; \"Those ... their\" doubles the pronoun, and \"what is to be arranged is as suitable\" is clumsy and supplies \"what\".",
+     "fix": "There would be their faults (taddoṣa); and here, arrangement is to be made as suitable.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "english",
+      "value": "There would be their faults (taddoṣa); and here, arrangement is to be made as suitable."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वे उनके दोष होंगे",
+     "problem": "Same doubled pronoun.",
+     "fix": "उनके दोष होंगे; और यहाँ जैसा उपयुक्त हो वैसा विधान करना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "set",
+      "field": "hindi",
+      "value": "उनके दोष होंगे; और यहाँ जैसा उपयुक्त हो वैसा विधान करना चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जल्दी वाला",
+     "problem": "\"वाला\" adds a possessive that druta (ppp., hurried/fast) does not have.",
+     "fix": "शीघ्र",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जल्दी वाला और",
+      "new": "शीघ्र और"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "saṃvāta guess",
+     "problem": "\"With wind\" for saṃvāta is a guess with no support; saṃvṛta (\"covered, closed\") is palaeographically as close and equally possible, and the flag suggestion \"savāta\" is itself an invented form.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "append_note",
+      "text": "Reviewer: saṃvṛta ('covered') is an equally possible reading of the damaged first member; 'with wind' and the suggestion savāta are guesses and should not be relied on."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उच्छ्वास न होने के क्रम में",
+     "problem": "anubandha is \"continuation / persistence\", not \"क्रम\" (order, sequence).",
+     "fix": "उच्छ्वास न होने के अनुबन्ध यानी बने रहने में",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उच्छ्वास न होने के क्रम में",
+      "new": "उच्छ्वास न होने के अनुबन्ध यानी बने रहने में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "datte",
+     "problem": "datte is also 3 sg. pres. middle of √dā (\"gives\"); gender \"m.\" is not stated (no gender on unstated nouns).",
+     "fix": "ppp. √dā, loc. sg. (or 3 sg. pres. mid. √dā)",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "datte",
+      "field": "gram",
+      "value": "ppp. √dā, loc. sg. (or 3 sg. pres. mid. √dā)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "niḥśeṣa",
+     "problem": "Case agreement unresolved: datte is locative but niḥśeṣa (from niḥśeṣaḥ before eva) is read nominative; niḥśeṣe or niḥśeṣam may have been meant. Not flagged in text_flags. Human decision.",
+     "fix": "add \"possible\" flag or note",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "colic pain (śūla)",
+     "problem": "Glossary: śūla in compounds = \"pain\"; \"colic\" is an added interpretation.",
+     "fix": "pain (śūla)",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "colic pain (śūla)",
+      "new": "pain (śūla)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śūla-toda-karaḥ",
+     "problem": "Same.",
+     "fix": "pain; pricking pain; producing",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "śūla-toda-karaḥ",
+      "field": "gloss",
+      "value": "pain; pricking pain; producing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sweating (sveda)",
+     "problem": "Emendation snedo to svedaḥ is flagged \"possible\" but the translation adopts it silently.",
+     "fix": "sweating (sveda, on a conjectural reading of the printed snedo)",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "sweating (sveda)",
+      "new": "sweating (sveda, on a conjectural reading of the printed snedo)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्वेद",
+     "problem": "Same, in Hindi (no brackets).",
+     "fix": "अभ्यंग, एक अनुमानित पाठ के अनुसार स्वेद, और",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अभ्यंग, स्वेद और",
+      "new": "अभ्यंग, एक अनुमानित पाठ के अनुसार स्वेद, और"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Remedy for the colic",
+     "problem": "\"colic\" again (see unit 53; glossary says pain).",
+     "fix": "pain (śūla) and pricking pain",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "notes",
+      "old": "colic and pricking pain",
+      "new": "pain (śūla) and pricking pain"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sahasotkṣipta / utkṣiptaḥ",
+     "problem": "utkṣiptaḥ is nominative among locatives (praṇīte, niṣkṛṣṭe); utkṣipte may have been meant. Not flagged. Human decision; the translation follows the printed form.",
+     "fix": "add \"possible\" note",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और बस्तियाँ यानी एनिमा भी",
+     "problem": "\"भी\" (also) is not in the Sanskrit; sa- means \"together with\" (unit 64 Hindi correctly says सहित).",
+     "fix": "बस्तियों यानी एनिमा सहित",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और बस्तियाँ यानी एनिमा भी",
+      "new": "बस्तियों यानी एनिमा सहित"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "netre / tat",
+     "problem": "Observation: netre (locative) beside tat ṛju (accusatives) is loose; netraṃ tad ṛju, with netram as object of niṣkāsya, would read smoothly and may be what was meant. Not flagged; the draft note already admits the loose grammar. Human decision.",
+     "fix": "optional \"possible\" flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The strong one (balī)",
+     "problem": "Emendation valī to balī adopted silently in the translation (flagged \"possible\" only).",
+     "fix": "The strong one (balī, on a conjectural reading of the printed valī)",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "english",
+      "old": "The strong one (balī)",
+      "new": "The strong one (balī, on a conjectural reading of the printed valī)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बलवान वह उत्पन्न कर सकता है",
+     "problem": "Same; also \"वह\" is supplied.",
+     "fix": "अनुमानित पाठ के अनुसार, बलवान उत्पन्न कर सकता है",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बलवान वह उत्पन्न कर सकता है",
+      "new": "अनुमानित पाठ के अनुसार, बलवान उत्पन्न कर सकता है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary (ch04 k3): write \"appears to complete\", never \"completes\"; the edition lines do not prove the link.",
+     "fix": "appears to complete",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes",
+      "new": "GROUPING: appears to complete"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śyāmā",
+     "problem": "Observation for the owner: the translation leaves śyāmā unidentified (as instructed, identification kept out), while the gloss and notes both carry the disputed trivṛt/turpeth identification; policy says write it once. Owner may prefer \"śyāmā (disputed; often read as trivṛt, turpeth)\" in the English. bilva = Aegle marmelos and the Hindi बेल are correct (standard).",
+     "fix": "owner decides",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बहुत मात्रा में, यानी हद से अधिक, डाली गई नली से",
+     "problem": "\"बहुत मात्रा में\" reads as a large quantity; atimātra here is beyond (proper) measure of insertion.",
+     "fix": "मात्रा से अधिक डाली गई नली से",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहुत मात्रा में, यानी हद से अधिक, डाली गई नली से",
+      "new": "मात्रा से अधिक डाली गई नली से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "On a conjectural reading there would be pain",
+     "problem": "Needs a human decision: the translation commits to \"pain\" (ārti) for the unclear sarti, but sṛti (\"flow, going\") is equally possible, and then the item would read \"flow, burning, pricking pain, passing of heavy stool\". Both readings are conjectural; low confidence is right.",
+     "fix": "owner decides between \"pain\" and \"flow\", or write \"pain (or flow)\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "picchā-basti",
+     "problem": "Missing identification the policy wants (tag probable): in Āyurvedic usage picchā-basti is an enema made with the sticky gum (picchā) of the śālmali (silk-cotton tree, Bombax ceiba). Not stated in this text.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "append_note",
+      "text": "Reviewer (probable, not stated in the text): picchā in picchā-basti is, in Ayurvedic usage, the sticky gum of the śālmali (silk-cotton tree, Bombax ceiba); the Sanskrit here only says picchā-basti."
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मन्द वाला",
+     "problem": "Glossary (unstated nouns): plain adjective in Hindi, not \"वाला\".",
+     "fix": "मन्द",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मन्द वाला भावित",
+      "new": "मन्द भावित"
+     }
+    },
+    {
+     "field": "english",
+     "where": "does not impregnate (bhāvayati)",
+     "problem": "Observation: glossary has bhāvita = \"soaked\"; \"impregnate\" is a different rendering of the same root. Keep consistent or record why.",
+     "fix": "owner decides",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "galapīḍā",
+     "problem": "Needs a human decision: throat-pressing (taken) versus throat-pain. As \"galapīḍā-ādi-karma\" (\"procedure beginning with galapīḍā\") the pressing reading is more natural, but \"treatment of throat-pain etc.\" is also grammatical; the draft note states both. Keep the note.",
+     "fix": "owner decides",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "anala",
+     "problem": "Missing probable identification: bala and anala as a pair almost always mean strength and digestive fire (agni); the translation says only \"fire\".",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "append_note",
+      "text": "Reviewer (probable): anala here, beside bala, most likely means the digestive fire; the Sanskrit says only 'fire'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "apacārataḥ",
+     "problem": "-tas is an indeclinable suffix, not an ablative singular; sarvasmāt has no stated gender.",
+     "fix": "ind. (-tas suffix, \"from\")",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "word",
+      "match_w": "apacārataḥ",
+      "field": "gram",
+      "value": "ind. (-tas suffix, \"from\")"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sarvasmāt",
+     "problem": "No gender for an unstated noun.",
+     "fix": "abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "word",
+      "match_w": "sarvasmāt",
+      "field": "gram",
+      "value": "abl. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "should carefully protect [him] from every wrong conduct",
+     "problem": "\"carefully\" and \"पूरे\" are not in prayatnataḥ (\"with effort\").",
+     "fix": "should protect [him] with effort from all wrong conduct",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "english",
+      "old": "should carefully protect [him] from every wrong conduct",
+      "new": "should protect [him] with effort from all wrong conduct"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पूरे यत्न से",
+     "problem": "\"पूरे\" is supplied.",
+     "fix": "यत्न से",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूरे यत्न से",
+      "new": "यत्न से"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 2 (units 38-74): 0 errors, 49 minor issues (41 with machine patches). The draft is careful and honest: the damaged units (44-48, 50, 51, 66, 67) are unsplit/unclear, flagged and marked 'on a conjectural reading', none invented. Main recurring faults: typo conjectures (54 svedaḥ, 61 balī, 47 mūtrāghāta) adopted silently in the translations; 'completes' in GROUPING notes; small imports (colic, return, flow, carefully, भी, वाला, बहुत मात्रा में). No plant identification is wrong: bilva = Aegle marmelos (standard, correct); śyāmā disputed and kept out of the translation. Human decisions: 46 sama/viṣama, 52 niḥśeṣa case, 55 utkṣipta case, 59 netre, 62 whether to show śyāmā in the English, 66 sarti pain vs flow, 68 bhāvayati rendering, 71 galapīḍā pressing vs pain. No regrouping needed; sentences running across units (37-40, 41-44, 45-46, 47-49, 50-51, 52-54, 55-57, 58-59, 60-61, 65-67, 68-69, 70-71, 72-74) are already noted.",
+ "glossary_suggestions": [
+  "basti: 'bag' in ch07 u41-44, 'bladder' in u56, 'enema' elsewhere (already recorded); picchā-basti = enema with picchā (probably śālmali gum, Bombax ceiba).",
+  "doṣa meaning 'flaw' (ch07 u38-51) is rendered 'fault', not the humour doṣa; keep the distinction.",
+  "āgati = 'coming, arrival' (not 'return'); nivartate = 'returns'.",
+  "anala beside bala = probably digestive fire (agni).",
+  "Conjectural emendations adopted in a translation must be marked there ('on a conjectural reading of the printed X'), not only in text_flags.",
+  "GROUPING notes: 'appears to complete' (units 40, 42, 44, 46, 51, 61 patched)."
+ ]
+}

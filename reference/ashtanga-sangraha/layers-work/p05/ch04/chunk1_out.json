@@ -1,0 +1,2533 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastikalpaṃ",
+      "words": [
+       {
+        "w": "basti-kalpam",
+        "gloss": "basti (medicated enema); kalpa (formulary, set of preparations)",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम बस्तिकल्प की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall explain the Basti-kalpa (the preparations for basti, the medicated enema).",
+  "text_flags": [],
+  "notes": "Chapter-opening formula; the chapter title is Basti-kalpa. basti = medicated enema (standard); kalpa = formulary, set of preparations. The printed ḻ/ळ in later units (unit 2 'baḻāṃ') is the Marathi-print form of l and is normalised to l in `w` (recorded once, here and in unit 2).",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "baḻāṃ",
+      "words": [
+       {
+        "w": "balām",
+        "gloss": "balā (country mallow, Sida cordifolia; standard)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guḍūcīṃ",
+      "words": [
+       {
+        "w": "guḍūcīm",
+        "gloss": "guḍūcī (giloy, Tinospora cordifolia; standard)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "triphalāṃ",
+      "words": [
+       {
+        "w": "triphalām",
+        "gloss": "triphalā (the three myrobalans: harītakī, bibhītaka, āmalaka; standard group)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarāsnāṃ",
+      "words": [
+       {
+        "w": "sa-rāsnām",
+        "gloss": "together with; rāsnā (disputed: Pluchea lanceolata or Alpinia galanga, galangal)",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvipaṃcamūlaṃ",
+      "words": [
+       {
+        "w": "dvi-pañca-mūlam",
+        "gloss": "two; five; root(s); the ten-root group (dvipañcamūla, also called daśamūla; standard group of ten roots)",
+        "gram": "dvigu, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "palonmitāni",
+      "words": [
+       {
+        "w": "pala-unmitāni",
+        "gloss": "pala (a unit of weight); measured",
+        "gram": "tat-puruṣa, ppp. ud-√mā, n. nom./acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बला यानी बरियार, गिलोय, त्रिफला यानी हरड़ बहेड़ा और आँवला, रास्ना के साथ जिसकी पहचान विवादित है, और द्विपंचमूल यानी दशमूल, पल से मापे हुए।",
+  "english": "Balā (country mallow), guḍūcī (giloy), triphalā (the three myrobalans) together with rāsnā (identity disputed), and the ten-root group (dvipañcamūla), measured by the pala (a unit of weight).",
+  "text_flags": [],
+  "notes": "Start of a recipe that runs on through the next units (GROUPING: units 2 to 6 form one sentence; the verb 'pacet' is in unit 3). The printed ḻ in 'baḻāṃ' is the Marathi-print l (normalised to l). The text names the group dvipañcamūla but does not list its ten roots here. 'palonmitāni' is neuter plural and so does not agree in gender with the feminine nouns; read as 'each measured by the pala'.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num., n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "phalānyarddhatulāṃ",
+      "words": [
+       {
+        "w": "phalāni",
+        "gloss": "fruits",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "ardha-tulām",
+        "gloss": "half; tulā (a large unit of weight)",
+        "gram": "karmadhāraya, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "māṃsācchāgātpacedapsu",
+      "words": [
+       {
+        "w": "māṃsāt",
+        "gloss": "from the meat",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "chāgāt",
+        "gloss": "of a goat",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "pacet",
+        "gloss": "one should cook",
+        "gram": "3 sg. opt. √pac"
+       },
+       {
+        "w": "apsu",
+        "gloss": "in water",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "caturthaśeṣaṃ",
+      "words": [
+       {
+        "w": "caturtha-śeṣam",
+        "gloss": "one-fourth; remaining",
+        "gram": "bahuvrīhi, n. acc. sg. (adverbial)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ फल और आधा तुला बकरे का मांस जल में पकाए, चौथाई शेष रखते हुए।",
+  "english": "Eight fruits, and half a tulā (a unit of weight) of goat meat, one should cook in water, with a quarter remaining.",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues from unit 2; the drugs of unit 2 are understood as also cooked. Which eight fruits are meant is not stated (not identified here). 'māṃsāt chāgāt' is ablative; read as 'from goat meat', i.e. half a tulā of it. 'caturthaśeṣam' read as 'with a fourth part remaining'.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūte",
+      "words": [
+       {
+        "w": "pūte",
+        "gloss": "when strained",
+        "gram": "ppp. √pū, n. loc. sg. (loc. abs.)"
+       }
+      ]
+     },
+     {
+      "src": "yavānīphalabilvakuṣṭhavacāśatāvhāghanapippalīnāṃ",
+      "words": [
+       {
+        "w": "yavānī-phala",
+        "gloss": "yavānī (ajwain, Trachyspermum ammi; standard); fruit (the ajwain 'seed' is botanically a fruit)",
+        "gram": "tat-puruṣa"
+       },
+       {
+        "w": "bilva",
+        "gloss": "bilva (bael, Aegle marmelos; standard)",
+        "gram": "m./n. stem"
+       },
+       {
+        "w": "kuṣṭha",
+        "gloss": "kuṣṭha (drug name: costus root, Saussurea costus; standard)",
+        "gram": "n. stem"
+       },
+       {
+        "w": "vacā",
+        "gloss": "vacā (sweet flag, Acorus calamus; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "śatāhvā",
+        "gloss": "śatāhvā (dill, Anethum sowa; probable)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "ghana",
+        "gloss": "ghana (drug name; as a drug usually mustā, nut-grass, Cyperus rotundus; probable; lit. 'dense, cloud')",
+        "gram": "m./n. stem"
+       },
+       {
+        "w": "pippalīnām",
+        "gloss": "pippalī (long pepper, Piper longum; standard)",
+        "gram": "dvandva, f. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छान लेने पर, यवानीफल यानी अजवायन का फल, बिल्व यानी बेल, कुष्ठ यानी कूठ, वचा यानी बच, शताह्वा यानी सम्भवतः सोआ, घन यानी सम्भवतः नागरमोथा और पिप्पली यानी पीपर के",
+  "english": "When strained, of yavānī-phala (ajwain fruit), bilva (bael), kuṣṭha (costus root), vacā (sweet flag), śatāhvā (probably dill), ghana (probably nut-grass) and pippalī (long pepper) —",
+  "text_flags": [
+   {
+    "src": "yavānīphalabilvakuṣṭhavacāśatāvhāghanapippalīnāṃ",
+    "suggest": "yavānīphalabilvakuṣṭhavacāśatāhvāghanapippalīnāṃ",
+    "why": "possible: 'śatāvhā' has the letters v and h transposed; śatāhvā (dill) is the usual form"
+   }
+  ],
+  "notes": "GROUPING: the genitive list is completed by 'kalkaiḥ' (with pastes) at the start of unit 5; the translation ends with a dash. 'yavānīphala' is read as one member 'fruit of yavānī'; it could also be two items, yavānī and phala (fruit). 'ghana' is a drug-name use of the word; it is usually explained as mustā but this is probable only (also compare unit 12). 'pūte' is a locative absolute with no noun stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalkairmṛdvīkākṣaudraghṛtaiḥ",
+      "words": [
+       {
+        "w": "kalkaiḥ",
+        "gloss": "with pastes",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "mṛdvīkā-kṣaudra-ghṛtaiḥ",
+        "gloss": "mṛdvīkā (grape or raisin, Vitis vinifera; standard); kṣaudra (honey; standard); ghṛta (ghee)",
+        "gram": "dvandva, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "satailairyuktaḥ",
+      "words": [
+       {
+        "w": "sa-tailaiḥ",
+        "gloss": "together with oil (taila)",
+        "gram": "bahuvrīhi, n. inst. pl."
+       },
+       {
+        "w": "yuktaḥ",
+        "gloss": "joined",
+        "gram": "ppp. √yuj, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhoṣṇolavaṇānvitaśca",
+      "words": [
+       {
+        "w": "sukha-uṣṇaḥ",
+        "gloss": "pleasantly; warm",
+        "gram": "karmadhāraya, m. nom. sg."
+       },
+       {
+        "w": "lavaṇa-anvitaḥ",
+        "gloss": "salt; endowed with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कल्कों से, मृद्वीका यानी मुनक्का या अंगूर, शहद और घी से, तेल के साथ युक्त, सुखोष्ण, और नमक से युक्त।",
+  "english": "Joined with pastes, with mṛdvīkā (grape or raisin), honey (kṣaudra) and ghee, together with oil, pleasantly warm, and endowed with salt.",
+  "text_flags": [],
+  "notes": "GROUPING: completes the sentence begun in unit 4 ('when strained, ... with pastes ...'); the subject is understood and not named. 'taila' is oil of an unstated kind. The pastes are those of the drugs listed in unit 4.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (medicated enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supremely",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "sarvagadapramāthī",
+      "words": [
+       {
+        "w": "sarva-gada-pramāthī",
+        "gloss": "all; disease (gada); destroyer",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svasthe",
+      "words": [
+       {
+        "w": "svasthe",
+        "gloss": "in a healthy person",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hito",
+      "words": [
+       {
+        "w": "hitaḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvanabṛṃhaṇaśca",
+      "words": [
+       {
+        "w": "jīvana-bṛṃhaṇaḥ",
+        "gloss": "life-giving; nourishing (bṛṃhaṇa)",
+        "gram": "karmadhāraya, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्ति सब गदों यानी रोगों का उत्कृष्ट रूप से नाश करने वाली है, स्वस्थ के लिए हितकर है, और जीवन देने वाली तथा पुष्टि करने वाली है।",
+  "english": "The basti is supremely a destroyer of all diseases (gada), beneficial for a healthy person, and life-giving and nourishing (bṛṃhaṇa).",
+  "text_flags": [],
+  "notes": "'jīvanabṛṃhaṇaḥ' can also be read as two qualities, 'jīvana' (life-sustaining) and 'bṛṃhaṇa' (nourishing); both readings give the same sense. The edition's lines all end in a double danda, so no claim is made about how this unit pairs with its neighbours.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastau",
+      "words": [
+       {
+        "w": "bastau",
+        "gloss": "in a basti",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasmin",
+      "words": [
+       {
+        "w": "yasmin",
+        "gloss": "in which",
+        "gram": "m. loc. sg. (rel.)"
+       }
+      ]
+     },
+     {
+      "src": "praṇito",
+      "words": [
+       {
+        "w": "praṇītaḥ",
+        "gloss": "introduced",
+        "gram": "ppp. pra-√nī, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kalkaḥ",
+      "words": [
+       {
+        "w": "kalkaḥ",
+        "gloss": "paste",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvatra",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere, in every case",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadyādamumeva",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "one should give",
+        "gram": "3 sg. opt. √dā"
+       },
+       {
+        "w": "amum",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिस बस्ति में कल्क नहीं डाला गया हो, उसमें सर्वत्र इसी को दे।",
+  "english": "And in whichever basti no paste has been introduced, in every case one should give this very one there.",
+  "text_flags": [],
+  "notes": "'amum' is masculine and is taken to refer to 'kalka' (the paste of units 4 and 5); the text does not say which paste. 'sarvatra' = 'everywhere / in every case'.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvipaṃcamūlasya",
+      "words": [
+       {
+        "w": "dvi-pañca-mūlasya",
+        "gloss": "two; five; root(s); of the ten-root group (see unit 2)",
+        "gram": "dvigu, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "raso'mlayuktaḥ",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "liquid, juice (rasa)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "amla-yuktaḥ",
+        "gloss": "sour; joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sacchāgamāṃsasya",
+      "words": [
+       {
+        "w": "sat-chāga-māṃsasya",
+        "gloss": "good; goat; meat",
+        "gram": "karmadhāraya + tat-puruṣa, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sapairbapeṣyaḥ",
+      "words": [
+       {
+        "w": "sapairbapeṣyaḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस मूलों के समूह का और अच्छे बकरे के मांस का रस, खट्टे से युक्त, और अनुमान से, छपाई में अस्पष्ट शब्द के अनुसार, पीसने योग्य वस्तु के साथ।",
+  "english": "The liquid (rasa) of the ten-root group and of good goat meat, joined with something sour (amla), and — on a conjectural reading of the damaged word 'sapairbapeṣyaḥ' — together with what is to be ground.",
+  "text_flags": [
+   {
+    "src": "sapairbapeṣyaḥ",
+    "suggest": "sapeṣyaḥ",
+    "why": "possible: 'sapeṣyaḥ' (with what is to be ground) occurs in unit 23; the printed 'sapairba-' looks like inserted or damaged letters; no firm reading"
+   }
+  ],
+  "notes": "Damaged word: 'sapairbapeṣyaḥ' is kept unsplit; only its ending '-peṣyaḥ' (to be ground) is recognisable, which is why the translation is marked conjectural. 'sacchāga' is read as sat-chāga 'good goat'; the alternative sa-chāga (with goat) does not suit the genitive. 'amla' = 'sour' (the souring substance is not named). 'rasa' is kept as the Sanskrit word (liquid, juice, broth).",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trisnehayuktaḥ",
+      "words": [
+       {
+        "w": "tri-sneha-yuktaḥ",
+        "gloss": "three; fats (sneha); joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravaro",
+      "words": [
+       {
+        "w": "pravaraḥ",
+        "gloss": "foremost",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirūhaḥ",
+      "words": [
+       {
+        "w": "nirūhaḥ",
+        "gloss": "nirūha (decoction enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvānilavyādhiharaḥ",
+      "words": [
+       {
+        "w": "sarva-anila-vyādhi-haraḥ",
+        "gloss": "all; anila (wind, vāta); disease; remover",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradiṣṭaḥ",
+      "words": [
+       {
+        "w": "pradiṣṭaḥ",
+        "gloss": "declared",
+        "gram": "ppp. pra-√diś, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन स्नेहों से युक्त, श्रेष्ठ निरूह यानी काढ़े की बस्ति, सब अनिल यानी वात की व्याधियों को हरने वाला कहा गया है।",
+  "english": "Joined with the three fats (trisneha), the foremost nirūha (decoction enema), declared to be a remover of all diseases of anila (wind, vāta).",
+  "text_flags": [],
+  "notes": "The three fats (sneha) are not named in this unit. nirūha = decoction enema (standard modern name). 'anila' = wind = vāta. The edition's lines all end in a double danda, so no claim is made about verse pairing.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balāpaṭolīlaghupaṃcamūlatrāyaṃtikāeraṃḍayavātsusiddhāt",
+      "words": [
+       {
+        "w": "balā",
+        "gloss": "balā (see unit 2)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "paṭolī",
+        "gloss": "paṭolī (pointed gourd, Trichosanthes dioica; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "laghu-pañca-mūla",
+        "gloss": "small; five; root(s); the small five-root group (laghupañcamūla; standard group)",
+        "gram": "karmadhāraya + dvigu"
+       },
+       {
+        "w": "trāyantikā",
+        "gloss": "trāyantikā (disputed: trāyantī, Gentiana kurroo, or another plant)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "eraṇḍa",
+        "gloss": "eraṇḍa (castor, Ricinus communis; standard)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "yavāt",
+        "gloss": "yava (barley, Hordeum vulgare; standard)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "su-siddhāt",
+        "gloss": "well; cooked",
+        "gram": "ppp. √sidh, m./n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बला, परवल, लघुपंचमूल, त्रायन्तिका जिसकी पहचान विवादित है, एरण्ड और यव से भली-भाँति पकाए हुए से",
+  "english": "From what is well cooked of balā, paṭolī (pointed gourd), the small five-root group (laghupañcamūla), trāyantikā (identity disputed), eraṇḍa (castor) and yava (barley)",
+  "text_flags": [],
+  "notes": "One long compound with an ablative ending on its last member (yava, well-cooked), covering all the drugs. It is taken as 'from (the cooking of) these', with the thing cooked not named; unit 11 continues with 'a prastha from the rasa'. GROUPING: units 10 to 13 form one recipe. The group names laghupañcamūla are not listed in the text.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prastho",
+      "words": [
+       {
+        "w": "prasthaḥ",
+        "gloss": "prastha (a unit of measure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasācchāgarasāīyuktaḥ",
+      "words": [
+       {
+        "w": "rasāt",
+        "gloss": "from the liquid (rasa)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "chāga-rasa",
+        "gloss": "goat; rasa (broth, juice)",
+        "gram": "tat-puruṣa, m. stem"
+       },
+       {
+        "w": "ī",
+        "gloss": "unclear (stray syllable in print)",
+        "gram": "unclear"
+       },
+       {
+        "w": "yuktaḥ",
+        "gloss": "joined",
+        "gram": "ppp. √yuj, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhyaḥ",
+      "words": [
+       {
+        "w": "sādhyaḥ",
+        "gloss": "to be prepared",
+        "gram": "gerundive √sādh, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasthasamaḥ",
+      "words": [
+       {
+        "w": "prastha-samaḥ",
+        "gloss": "prastha; equal",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "it",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāvat",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "until",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रस में से एक प्रस्थ, बकरे के रस से युक्त, फिर तब तक सिद्ध किया जाए जब तक वह एक प्रस्थ के बराबर हो।",
+  "english": "A prastha (a measure) from the liquid (rasa), joined with goat's rasa (broth), is to be prepared again, until it equals a prastha.",
+  "text_flags": [
+   {
+    "src": "rasācchāgarasāīyuktaḥ",
+    "suggest": "rasācchāgarasayuktaḥ",
+    "why": "possible: a stray 'ī' after 'rasā'; but the printed line has exactly 22 syllables, so it may instead be a damaged different word; the sense of the whole is not affected"
+   }
+  ],
+  "notes": "'rasāt' is taken as the rasa produced from unit 10. 'yāvat' has no 'tāvat' in the unit; read as 'until it equals a prastha' (cooked down to that measure). 'sādhya' = 'to be prepared'. The stray syllable 'ī' is kept as unclear and left out of the translation.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "priyaṃgukṛṣṇāghanakalkayuktaḥ",
+      "words": [
+       {
+        "w": "priyaṅgu",
+        "gloss": "priyaṅgu (disputed: usually Callicarpa macrophylla; other plants also proposed)",
+        "gram": "m./f. stem"
+       },
+       {
+        "w": "kṛṣṇā",
+        "gloss": "kṛṣṇā (long pepper, Piper longum; standard; same as pippalī, unit 4)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "ghana",
+        "gloss": "ghana (see unit 4)",
+        "gram": "stem"
+       },
+       {
+        "w": "kalka-yuktaḥ",
+        "gloss": "paste; joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satailasarpirmadhusaiṃdhavaśca",
+      "words": [
+       {
+        "w": "sa-taila-sarpiḥ-madhu-saindhavaḥ",
+        "gloss": "together with; oil; ghee; honey; saindhava (rock salt; standard; lit. 'of Sindhu')",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रियंगु जिसकी पहचान विवादित है, कृष्णा यानी पीपर और घन के कल्क से युक्त, तेल, घी, शहद और सैन्धव यानी सेंधा नमक के साथ।",
+  "english": "Joined with a paste of priyaṅgu (identity disputed), kṛṣṇā (long pepper) and ghana, together with oil, ghee, honey and saindhava (rock salt).",
+  "text_flags": [],
+  "notes": "Continues the recipe of units 10 and 11; the subject is the prepared prastha of unit 11. 'saindhava' kept as the name for rock salt (lit. 'of Sindhu'). 'sa-' is taken to govern all four items (oil, ghee, honey, saindhava).",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "syāddīpano",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "it would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "dīpanaḥ",
+        "gloss": "kindling (dīpana, a digestive stimulant)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māṃsabalapradaśca",
+      "words": [
+       {
+        "w": "māṃsa-bala-pradaḥ",
+        "gloss": "flesh; strength; giver",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cakṣurbalaṃ",
+      "words": [
+       {
+        "w": "cakṣuḥ-balam",
+        "gloss": "eye; strength",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "copadadhāti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upadadhāti",
+        "gloss": "bestows",
+        "gram": "3 sg. pres. upa-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "sadyaḥ",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह दीपन होगा, मांस और बल देने वाला होगा, और आँखों का बल तुरन्त देता है।",
+  "english": "It would be a kindler (dīpana), a giver of flesh and strength, and it at once bestows strength of the eyes.",
+  "text_flags": [],
+  "notes": "Completes the recipe of units 10 to 12. 'cakṣurbalam' is read as 'strength of the eyes'; it could also be 'the eyes and strength' (cakṣuḥ, balam). dīpana = digestive stimulant (standard sense of the term).",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eraṃḍamūlāttripalaṃ",
+      "words": [
+       {
+        "w": "eraṇḍa-mūlāt",
+        "gloss": "castor; from the root",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "tri-palam",
+        "gloss": "three palas",
+        "gram": "dvigu, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "palāśāttathā",
+      "words": [
+       {
+        "w": "palāśāt",
+        "gloss": "from palāśa (probably flame-of-the-forest tree, Butea monosperma; the word also means 'leaf'; probable)",
+        "gram": "m./n. abl. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "palāṃśaṃ",
+      "words": [
+       {
+        "w": "pala-aṃśam",
+        "gloss": "pala; portion",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghupaṃcamūlaṃ",
+      "words": [
+       {
+        "w": "laghu-pañca-mūlam",
+        "gloss": "the small five-root group (see unit 10)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एरण्ड के मूल से तीन पल, वैसे ही पलाश से, यानी सम्भवतः ढाक से, एक पल का अंश, लघुपंचमूल।",
+  "english": "Three palas from the root of eraṇḍa (castor); likewise from palāśa (probably flame-of-the-forest) a portion of one pala; the small five-root group (laghupañcamūla).",
+  "text_flags": [],
+  "notes": "New recipe begins (units 14 to 18). Elliptical: no verb here; the drugs are cooked in unit 16 ('vipācayet'). 'palāśa' is either the Butea tree (probable) or 'leaf'; the part used is not stated. 'palāṃśam' read as 'a share of one pala'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rāsnābalācchinnaruhāśvagaṃdhāpunarnavārgavadhadevadāru",
+      "words": [
+       {
+        "w": "rāsnā",
+        "gloss": "rāsnā (see unit 2)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "balā",
+        "gloss": "balā (see unit 2)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "chinnaruhā",
+        "gloss": "chinnaruhā (a name of guḍūcī, giloy; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "aśvagandhā",
+        "gloss": "aśvagandhā (winter cherry, Withania somnifera; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "punarnavā",
+        "gloss": "punarnavā (hogweed, Boerhavia diffusa; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "āragvadha",
+        "gloss": "āragvadha (Indian laburnum, Cassia fistula; standard)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "devadāru",
+        "gloss": "devadāru (deodar, Cedrus deodara; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रास्ना, बला, छिन्नरुहा यानी गिलोय, अश्वगन्धा, पुनर्नवा, आरग्वध यानी अमलतास और देवदारु",
+  "english": "Rāsnā, balā, chinnaruhā (giloy), aśvagandhā (winter cherry), punarnavā (hogweed), āragvadha (Indian laburnum) and devadāru (deodar).",
+  "text_flags": [
+   {
+    "src": "rāsnābalācchinnaruhāśvagaṃdhāpunarnavārgavadhadevadāru",
+    "suggest": "rāsnābalācchinnaruhāśvagaṃdhāpunarnavāragvadhadevadāru",
+    "why": "possible: 'ārgavadha' has the letters g and a transposed; āragvadha (Cassia fistula) is the known name (printed correctly as -āragvadha- in unit 34)"
+   }
+  ],
+  "notes": "A list of drug names continuing the ingredients of unit 14 (no quantities are given for them in the text). It is one dvandva compound; the final member 'devadāru' is neuter.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "phalāni",
+      "words": [
+       {
+        "w": "phalāni",
+        "gloss": "fruits",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāṣṭau",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num., n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "salilāḍhakābhyāṃ",
+      "words": [
+       {
+        "w": "salila-āḍhakābhyām",
+        "gloss": "water; two āḍhakas (a measure)",
+        "gram": "tat-puruṣa, n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "vipācayedaṣṭamaśeṣite'smin",
+      "words": [
+       {
+        "w": "vipācayet",
+        "gloss": "one should cook thoroughly",
+        "gram": "3 sg. opt. vi-√pac (caus.)"
+       },
+       {
+        "w": "aṣṭama-śeṣite",
+        "gloss": "eighth; remaining",
+        "gram": "ppp. caus. √śiṣ, n. loc. sg. (loc. abs.)"
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और आठ फल, दो आढक जल के साथ भली-भाँति पकाए, इसका आठवाँ भाग शेष रहने पर।",
+  "english": "And eight fruits: with two āḍhakas (a measure) of water one should cook thoroughly, with an eighth of this remaining.",
+  "text_flags": [],
+  "notes": "The eight fruits are not named here. 'aṣṭamaśeṣite' is a locative absolute, 'this being left at an eighth'; what the eighth is a fraction of is not stated (the water is the natural reading). 'salilāḍhakābhyām' is dual: two āḍhakas of water.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vacāśatāvhāpuṣpāmipriyaṃguyaṣṭīkaṇāvatsakabījamustaṃ",
+      "words": [
+       {
+        "w": "vacā",
+        "gloss": "vacā (see unit 4)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "śatāhvā",
+        "gloss": "śatāhvā (see unit 4)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "puṣpāmi",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "priyaṅgu",
+        "gloss": "priyaṅgu (see unit 12)",
+        "gram": "stem"
+       },
+       {
+        "w": "yaṣṭī",
+        "gloss": "yaṣṭī (liquorice, Glycyrrhiza glabra; standard; short for yaṣṭīmadhu)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "kaṇā",
+        "gloss": "kaṇā (long pepper, Piper longum; standard; same as pippalī, unit 4)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "vatsaka-bīja",
+        "gloss": "vatsaka (a name of kuṭaja, kurchi, Holarrhena antidysenterica; standard); seed (the seed is called indrayava)",
+        "gram": "tat-puruṣa"
+       },
+       {
+        "w": "mustam",
+        "gloss": "musta (nut-grass, Cyperus rotundus; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वचा यानी बच, शताह्वा यानी सम्भवतः सोआ, पुष्पामि जो छपाई में अस्पष्ट है, प्रियंगु, यष्टी यानी मुलेठी, कणा यानी पीपर, वत्सक के बीज यानी कुटज के बीज, और मुस्ता यानी नागरमोथा",
+  "english": "Vacā, śatāhvā, puṣpāmi (unclear in print), priyaṅgu, yaṣṭī (liquorice), kaṇā (long pepper), the seeds of vatsaka (kuṭaja, kurchi) and musta (nut-grass).",
+  "text_flags": [
+   {
+    "src": "vacāśatāvhāpuṣpāmipriyaṃguyaṣṭīkaṇāvatsakabījamustaṃ",
+    "suggest": "vacāśatāhvāpuṣpāmipriyaṃguyaṣṭīkaṇāvatsakabījamustaṃ",
+    "why": "possible: 'śatāvhā' has v and h transposed; śatāhvā is the usual form"
+   }
+  ],
+  "notes": "Damaged or unclear: 'puṣpāmi' (a flower-word 'puṣpa-' may be meant, but 'āmi' is not recognisable; no firm reading, kept unsplit). The compound is a list of drug names (a paste, see unit 18). 'vatsakabīja' is read as 'seeds of vatsaka'; musta is read as a separate item.",
+  "confidence": "low"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dadyātsupiṣṭaṃ",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "one should give",
+        "gram": "3 sg. opt. √dā"
+       },
+       {
+        "w": "su-piṣṭam",
+        "gloss": "well; ground",
+        "gram": "ppp. √piṣ, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahatārkṣyaśailamakṣapramāṇaṃ",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together with",
+        "gram": "ind."
+       },
+       {
+        "w": "tārkṣya-śailam",
+        "gloss": "tārkṣyaśaila (disputed: commentators explain it as rasāñjana, an extract of Indian barberry)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "akṣa-pramāṇam",
+        "gloss": "akṣa (a unit of weight); measure",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇāṃśayuktaṃ",
+      "words": [
+       {
+        "w": "lavaṇa-aṃśa-yuktam",
+        "gloss": "salt; portion; joined with",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भली-भाँति पीसकर दे, तार्क्ष्यशैल के साथ जो सम्भवतः रसौत है, अक्ष के माप का, नमक के अंश से युक्त।",
+  "english": "One should give it well ground, together with tārkṣyaśaila (possibly rasāñjana, an extract of Indian barberry; disputed), of the measure of an akṣa (a unit of weight), joined with a portion of salt.",
+  "text_flags": [],
+  "notes": "The object of 'dadyāt' is the list of unit 17, understood and not named. 'saha' takes an accusative here, which is unusual. Identification of tārkṣyaśaila is disputed; the commentators' explanation rasāñjana is only given as a possibility. Whether the akṣa measure belongs to tārkṣyaśaila alone or to the whole is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samākṣikastailayutaḥ",
+      "words": [
+       {
+        "w": "sa-mākṣikaḥ",
+        "gloss": "together with; mākṣika (probably honey; the word also names a mineral, pyrite; probable)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "taila-yutaḥ",
+        "gloss": "oil; joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samūtro",
+      "words": [
+       {
+        "w": "sa-mūtraḥ",
+        "gloss": "together with urine",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastirjayellekhanadīpano",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (medicated enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jayet",
+        "gloss": "would overcome",
+        "gram": "3 sg. opt. √ji"
+       },
+       {
+        "w": "lekhana-dīpanaḥ",
+        "gloss": "scraping (lekhana); kindling (dīpana)",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'sau",
+      "words": [
+       {
+        "w": "asau",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह बस्ति, माक्षिक यानी सम्भवतः शहद के साथ, तेल से युक्त, मूत्र के साथ, लेखन और दीपन करने वाली, जीत सकती है",
+  "english": "That basti, with mākṣika (probably honey), joined with oil, with urine, scraping (lekhana) and kindling (dīpana), would overcome —",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues into units 20 and 21, which give what is overcome. 'mākṣika' is probably honey but can also name a mineral; the text does not say. The kind of urine is not stated. The word order 'bastir jayel lekhanadīpano 'sau' puts 'asau' (that) last.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jaṃghorupādatrikapṛṣṭhakoṣṭhahṛdguhyaśūlaṃ",
+      "words": [
+       {
+        "w": "jaṅghā-ūru-pāda-trika-pṛṣṭha-koṣṭha-hṛd-guhya-śūlam",
+        "gloss": "shank; thigh; foot; trika (the lumbosacral region); back; koṣṭha (belly); heart; guhya (private part); pain",
+        "gram": "dvandva + tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gurutāṃ",
+      "words": [
+       {
+        "w": "gurutām",
+        "gloss": "heaviness",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibaṃdhaṃ",
+      "words": [
+       {
+        "w": "vibandham",
+        "gloss": "vibandha (obstruction, constipation)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जंघा, ऊरु, पैर, त्रिक, पीठ, कोष्ठ, हृदय और गुह्य अंग की पीड़ा; भारीपन; और विबन्ध यानी मल का रुकना",
+  "english": "Pain in the shanks, thighs, feet, trika (lumbosacral region), back, koṣṭha (belly), heart and private part; heaviness; and obstruction (vibandha, constipation) —",
+  "text_flags": [],
+  "notes": "Object of 'jayet' (unit 19). Whether 'śūla' (pain) governs every member of the dvandva is the natural reading but is not certain. 'trika' = the lumbosacral region (standard sense). 'vibandha' = obstruction, usually of stool.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulmāśmabadhmagrahaṇīgudotthāṃstāṃstāṃśca",
+      "words": [
+       {
+        "w": "gulma-aśma-badhma-grahaṇī-guda-utthān",
+        "gloss": "gulma (abdominal lump or mass, standard rendering); aśma (stone); badhma (unclear in print); grahaṇī (chronic diarrhoea with malabsorption, sprue-like; standard rendering); guda (anus); arisen from",
+        "gram": "dvandva + tat-puruṣa, m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogānkaphavātajātān",
+      "words": [
+       {
+        "w": "rogān",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "kapha-vāta-jātān",
+        "gloss": "Kapha; Vāta; born of",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और गुल्म, अश्म, बध्म जो छपाई में अस्पष्ट है, ग्रहणी और गुद से उत्पन्न उन-उन रोगों को, तथा कफ और वात से उत्पन्न रोगों को।",
+  "english": "and those various diseases that arise from gulma (abdominal lump), aśma (stone), badhma (unclear in print), grahaṇī (chronic diarrhoea) and the anus (guda), and the diseases born of Kapha and Vāta.",
+  "text_flags": [
+   {
+    "src": "gulmāśmabadhmagrahaṇīgudotthāṃstāṃstāṃśca",
+    "suggest": "gulmāśmavardhmagrahaṇīgudotthāṃstāṃstāṃśca",
+    "why": "possible: 'badhma' is not a known word; 'vardhma' (a swelling of the groin or scrotum) is a candidate with the same syllable count; no firm reading"
+   }
+  ],
+  "notes": "Object of 'jayet' (unit 19). 'badhma' is unclear and kept as printed; not translated further. The reading of 'gudotthān' is uncertain: it may govern all the preceding members (as translated) or only 'guda'. 'tān tān ca rogān' = 'and those and those diseases' (various). Modern equivalents given only as the standard renderings of the Sanskrit terms: gulma = abdominal lump, grahaṇī = chronic diarrhoea with malabsorption.",
+  "confidence": "low"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catuṣpale",
+      "words": [
+       {
+        "w": "catuḥ-pale",
+        "gloss": "four; in a measure of palas",
+        "gram": "dvigu, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taila",
+      "words": [
+       {
+        "w": "taila",
+        "gloss": "oil",
+        "gram": "n. stem (case ending lacking)"
+       }
+      ]
+     },
+     {
+      "src": "ghṛtasya",
+      "words": [
+       {
+        "w": "ghṛtasya",
+        "gloss": "of ghee",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛṣṭaḥcchāgācchatāvhādadhidāḍimāmlaḥ",
+      "words": [
+       {
+        "w": "bhṛṣṭāt",
+        "gloss": "fried",
+        "gram": "ppp. √bhṛj, n./m. abl. sg."
+       },
+       {
+        "w": "chāgāt",
+        "gloss": "from goat",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "śatāhvā-dadhi-dāḍima-amlaḥ",
+        "gloss": "śatāhvā (see unit 4); curd (dadhi); dāḍima (pomegranate, Punica granatum; standard); sour",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेल और घी के चार पल में भुने हुए बकरे से, शताह्वा, दही और अनार से खट्टा",
+  "english": "From goat fried in four palas of oil and of ghee, sour with śatāhvā (probably dill), curd and dāḍima (pomegranate) —",
+  "text_flags": [
+   {
+    "src": "taila",
+    "suggest": "taile",
+    "why": "possible: no case ending; 'in four palas of oil and of ghee' needs a locative; or 'tailaghṛtasya' is meant as one compound split by a space"
+   },
+   {
+    "src": "bhṛṣṭaḥcchāgācchatāvhādadhidāḍimāmlaḥ",
+    "suggest": "bhṛṣṭāc chāgāc chatāhvādadhidāḍimāmlaḥ",
+    "why": "possible: 'bhṛṣṭaḥ' + 'cchāgāt' should read 'bhṛṣṭāt chāgāt' (bhṛṣṭāc chāgāc); the printed visarga is probably a lost ā; 'śatāvhā' also has v and h transposed (śatāhvā)"
+   }
+  ],
+  "notes": "Damaged or irregular print; the reading above is a repair. 'chāga' stands alone (goat); the word māṃsa (meat) is not in the unit (compare māṃsa in unit 3). 'amlaḥ' (sour) agrees with the 'rasaḥ' of unit 23, so the unit is not complete in itself. GROUPING: units 22 and 23 look like one sentence.",
+  "confidence": "low"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasaḥ",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "liquid (rasa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sapeṣyo",
+      "words": [
+       {
+        "w": "sa-peṣyaḥ",
+        "gloss": "together with what is to be ground",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavarṇa",
+      "words": [
+       {
+        "w": "bala-varṇa",
+        "gloss": "strength; complexion (colour)",
+        "gram": "dvandva stem; case ending lacking"
+       }
+      ]
+     },
+     {
+      "src": "māṃsareto'gnihitairmirṣaśirorujīṣṭaḥ",
+      "words": [
+       {
+        "w": "māṃsa-retaḥ-agni-hitaiḥ",
+        "gloss": "flesh; semen (retas); fire (agni, the digestive fire); beneficial",
+        "gram": "tat-puruṣa, m. inst. pl. (as printed)"
+       },
+       {
+        "w": "mirṣa",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "śiro-rujī",
+        "gloss": "head; pain; having",
+        "gram": "bahuvrīhi/tat-puruṣa, m. nom. sg. (uncertain)"
+       },
+       {
+        "w": "iṣṭaḥ",
+        "gloss": "desired",
+        "gram": "ppp. √iṣ, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रस, पीसने योग्य वस्तु के साथ; अनुमान से बल, वर्ण, मांस, रेतस् और अग्नि के लिए हितकर; मिर्ष जो छपाई में अस्पष्ट है; और सिर के दर्द वाले के लिए इष्ट।",
+  "english": "The liquid (rasa), together with what is to be ground; on a conjectural reading, beneficial to strength, complexion, flesh, semen (retas) and the digestive fire (agni); mirṣa (unclear in print); and desired in one with head-pain.",
+  "text_flags": [],
+  "notes": "Damaged print in the second half of the line ('māṃsareto'gnihitairmirṣaśirorujīṣṭaḥ'): 'hitaiḥ' is instrumental plural and does not agree with 'rasaḥ' (hitaḥ would); 'mirṣa' is not a recognisable word; 'śirorujīṣṭaḥ' may be 'śirorujin' + 'iṣṭaḥ' or 'śirorujā' + 'iṣṭaḥ'. 'balavarṇa' has no case ending (a space may have split a longer compound with 'māṃsa-…'). No firm reading; the translation is conjectural. GROUPING: this unit continues unit 22 ('rasaḥ' is the noun that 'amlaḥ' qualifies).",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṣṭyāhvayasyāṣṭapalena",
+      "words": [
+       {
+        "w": "yaṣṭi-āhvayasya",
+        "gloss": "yaṣṭi (liquorice, see unit 17); named",
+        "gram": "bahuvrīhi, n. gen. sg."
+       },
+       {
+        "w": "aṣṭa-palena",
+        "gloss": "eight; with palas",
+        "gram": "dvigu, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhaṃ",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "cooked",
+        "gram": "ppp. √sidh, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatāvhāphalapippalībhiḥ",
+      "words": [
+       {
+        "w": "śatāhvā-phala-pippalībhiḥ",
+        "gloss": "śatāhvā (see unit 4); fruit; pippalī (long pepper)",
+        "gram": "dvandva, f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ पल यष्ट्याह्वय यानी मुलेठी के साथ, शताह्वा के फल और पिप्पलियों के साथ पकाया हुआ दूध",
+  "english": "Milk cooked with eight palas of the one named yaṣṭī (liquorice), with śatāhvā fruit and pippalīs (long pepper).",
+  "text_flags": [
+   {
+    "src": "śatāvhāphalapippalībhiḥ",
+    "suggest": "śatāhvāphalapippalībhiḥ",
+    "why": "possible: 'śatāvhā' has v and h transposed; śatāhvā is the usual form"
+   }
+  ],
+  "notes": "'śatāhvāphalapippalībhiḥ' could also be three items, śatāhvā, fruits, pippalīs; read as 'fruit of śatāhvā' and pippalī. 'yaṣṭyāhvaya' = 'named yaṣṭi', i.e. yaṣṭīmadhu (liquorice). GROUPING: unit 25 continues ('yuktam').",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "joined",
+        "gram": "ppp. √yuj, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasarpirmadhu",
+      "words": [
+       {
+        "w": "sa-sarpiḥ-madhu",
+        "gloss": "together with ghee and honey",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaraktavisarpavaisvaryahito",
+      "words": [
+       {
+        "w": "vātarakta-visarpa-vaisvarya-hitaḥ",
+        "gloss": "vātarakta (gout-type disease); visarpa (erysipelas, a spreading skin infection); vaisvarya (hoarseness, change of voice); beneficial",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirūhaḥ",
+      "words": [
+       {
+        "w": "nirūhaḥ",
+        "gloss": "nirūha (decoction enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घी और शहद के साथ युक्त, वातरक्त यानी गठिया, विसर्प यानी फैलने वाला त्वचा का संक्रमण और वैस्वर्य यानी स्वर के बिगड़ने में हितकर निरूह यानी काढ़े की बस्ति।",
+  "english": "Joined with ghee and honey, the nirūha (decoction enema) is beneficial in vātarakta (a gout-type disease), visarpa (erysipelas) and vaisvarya (hoarseness, change of voice).",
+  "text_flags": [],
+  "notes": "'yuktam' is neuter and agrees with 'payaḥ' (milk) of unit 24, not with the masculine 'nirūhaḥ'. The milk is not named again here. vātarakta = a gout-type disease (standard rendering); visarpa = erysipelas / spreading skin infection (standard); vaisvarya = bad or broken voice.",
+  "confidence": "high"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṣṭyāhvaroghrāmayacaṃdanaiśca",
+      "words": [
+       {
+        "w": "yaṣṭyāhva",
+        "gloss": "yaṣṭyāhva (liquorice, see unit 17)",
+        "gram": "m./n. stem"
+       },
+       {
+        "w": "rodhra",
+        "gloss": "rodhra (lodhra, Symplocos racemosa; standard)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "āmaya",
+        "gloss": "āmaya (as a drug name unclear; the word means 'ailment')",
+        "gram": "unclear"
+       },
+       {
+        "w": "candanaiḥ",
+        "gloss": "candana (sandalwood, probably Santalum album; probable)",
+        "gram": "m./n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śṛtaṃ",
+      "words": [
+       {
+        "w": "śṛtam",
+        "gloss": "boiled",
+        "gram": "ppp. √śrā, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "payo'rghyaṃ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arghyam",
+        "gloss": "valuable",
+        "gram": "n. nom. sg. (reading uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "kamalotpalaiśca",
+      "words": [
+       {
+        "w": "kamala-utpalaiḥ",
+        "gloss": "kamala (lotus, Nelumbo nucifera; standard); utpala (blue water lily, Nymphaea; probable)",
+        "gram": "dvandva, n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यष्ट्याह्व यानी मुलेठी, रोध्र यानी लोध्र, आमय जो यहाँ अस्पष्ट है, और चन्दन के साथ तथा कमल और उत्पल के साथ उबाला हुआ मूल्यवान दूध",
+  "english": "Milk boiled with yaṣṭyāhva (liquorice), rodhra (lodhra), āmaya (unclear here) and candana (probably sandalwood), and with kamala (lotus) and utpala (blue water lily): valuable (arghya).",
+  "text_flags": [
+   {
+    "src": "yaṣṭyāhvaroghrāmayacaṃdanaiśca",
+    "suggest": "yaṣṭyāhvarodhrāmayacaṃdanaiśca",
+    "why": "possible: 'roghra' is not a word; rodhra (lodhra) fits the context (dh printed as gh)"
+   }
+  ],
+  "notes": "'āmaya' is kept as printed: as a drug name it is not clear to me (the word means 'ailment'); it may be damaged. 'arghyam' (valuable) is doubtful in sense here and may be a damaged word. The text does not say which part of each plant is used. GROUPING: unit 27 continues the sentence (cooled, with sugar, honey and ghee).",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saśarkarākṣaudraghṛtaṃ",
+      "words": [
+       {
+        "w": "sa-śarkarā-kṣaudra-ghṛtam",
+        "gloss": "together with; sugar (śarkarā); honey (kṣaudra); ghee",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suśītaṃ",
+      "words": [
+       {
+        "w": "su-śītam",
+        "gloss": "well-cooled",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittāmayān",
+      "words": [
+       {
+        "w": "pitta-āmayān",
+        "gloss": "Pitta; ailments",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "haṃti",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "sajīvanīyaṃ",
+      "words": [
+       {
+        "w": "sa-jīvanīyam",
+        "gloss": "together with; jīvanīya (group name)",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शर्करा, शहद और घी के साथ, भली-भाँति ठण्डा किया हुआ, पित्त के आमयों को नष्ट करता है, जीवनीय के साथ।",
+  "english": "With sugar, honey and ghee, well cooled, it destroys the ailments of Pitta, together with jīvanīya (a group name).",
+  "text_flags": [],
+  "notes": "Subject is the milk of unit 26 (neuter 'payaḥ'). 'jīvanīya' is the name of a standard group of ten herbs; the group is not listed in the text and it is kept as a group name. 'pittāmayān' = 'ailments of Pitta'.",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mopāṃganācaṃdanaśītapākīdrākṣākṣaudrikāśmaryamadhukasaiṃnyaiḥ",
+      "words": [
+       {
+        "w": "mopāṅganā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "candana",
+        "gloss": "candana (sandalwood, see unit 26)",
+        "gram": "stem"
+       },
+       {
+        "w": "śītapākī",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "drākṣā",
+        "gloss": "drākṣā (grape or raisin, see unit 5)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "kṣaudra",
+        "gloss": "kṣaudra (honey; printed with ending -i, 'kṣaudri-')",
+        "gram": "stem"
+       },
+       {
+        "w": "kāśmarya",
+        "gloss": "kāśmarya (gambhārī, Gmelina arborea; probable)",
+        "gram": "stem"
+       },
+       {
+        "w": "madhuka",
+        "gloss": "madhuka (probably liquorice, yaṣṭīmadhu; the word can also mean the mahua tree; disputed)",
+        "gram": "stem"
+       },
+       {
+        "w": "saiṃnyaiḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमान से, छपाई में अस्पष्ट मोपांगना, चन्दन, अस्पष्ट शीतपाकी, द्राक्षा यानी मुनक्का या अंगूर, शहद, काश्मर्य, मधुक यानी सम्भवतः मुलेठी, और अन्तिम अस्पष्ट शब्द के साथ।",
+  "english": "On a conjectural reading, with mopāṅganā (unclear in print), candana (sandalwood), śītapākī (unclear), drākṣā (grape or raisin), honey (kṣaudra), kāśmarya, madhuka (probably liquorice) and a last word that is unclear (saiṃnyaiḥ).",
+  "text_flags": [],
+  "notes": "Heavily damaged compound. Unclear: 'mopāṅganā', 'śītapākī', 'saiṃnyaiḥ' are kept as printed. The division of 'kṣaudrikāśmarya' into kṣaudra + kāśmarya is a guess; it could be another word. 'madhuka' is probably liquorice (compare yaṣṭīmadhu in units 29 and 31). GROUPING: the unit is a list of ingredients (instrumental plural); the main phrase is not in it. No firm identifications; the translation is conjectural.",
+  "confidence": "low"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "payaḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śṛtaṃ",
+      "words": [
+       {
+        "w": "śṛtam",
+        "gloss": "boiled",
+        "gram": "ppp. √śrā, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrāvaṇīmudgaparṇībalākhaṃ",
+      "words": [
+       {
+        "w": "śrāvaṇī",
+        "gloss": "śrāvaṇī (probably mundi, Sphaeranthus indicus; probable)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "mudgaparṇī",
+        "gloss": "mudgaparṇī (wild mung, Vigna trilobata; standard)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "balā-ākhyam",
+        "gloss": "balā (see unit 2); named",
+        "gram": "n. acc. sg. (corrected; printed -ākhaṃ)"
+       }
+      ]
+     },
+     {
+      "src": "guptāmadhuyaṣṭikalkaiḥ",
+      "words": [
+       {
+        "w": "guptā",
+        "gloss": "guptā (disputed: a plant name, perhaps Mucuna pruriens, or simply 'protected')",
+        "gram": "f. stem"
+       },
+       {
+        "w": "madhuyaṣṭi",
+        "gloss": "madhuyaṣṭi (liquorice, see unit 17)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "kalkaiḥ",
+        "gloss": "with pastes",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उबाला हुआ दूध, अनुमान से श्रावणी, मुद्गपर्णी और बला नाम वालों के साथ, गुप्ता और मधुयष्टि के कल्कों के साथ",
+  "english": "Boiled milk, on a conjectural reading with those named śrāvaṇī (probably mundi), mudgaparṇī (wild mung) and balā, with pastes of guptā (identity disputed) and madhuyaṣṭi (liquorice) —",
+  "text_flags": [
+   {
+    "src": "śrāvaṇīmudgaparṇībalākhaṃ",
+    "suggest": "śrāvaṇīmudgaparṇībalākhyaṃ",
+    "why": "possible: 'balākhaṃ' looks like 'balākhyaṃ' (named balā) with the conjunct -khya- damaged; no firm reading"
+   }
+  ],
+  "notes": "The final member of the compound is uncertain: 'balākhaṃ' is read as 'balākhyam' 'named balā', and the relation of the three herbs to the milk (cooked with them) is inferred, so the translation is conjectural. 'guptā' is either a plant (disputed identity) or a participle 'protected'. GROUPING: the sentence continues in unit 30 ('yuktam').",
+  "confidence": "low"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "godhūmacūrṇaiśca",
+      "words": [
+       {
+        "w": "godhūma-cūrṇaiḥ",
+        "gloss": "wheat (Triticum aestivum; standard); powders",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "picupramāṇairikṣorvidāryāśca",
+      "words": [
+       {
+        "w": "picu-pramāṇaiḥ",
+        "gloss": "picu (a small unit of measure); measure",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "ikṣoḥ",
+        "gloss": "of sugarcane (ikṣu, Saccharum officinarum; standard)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "vidāryāḥ",
+        "gloss": "of vidārī (probably Indian kudzu tuber, Pueraria tuberosa; probable)",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasena",
+      "words": [
+       {
+        "w": "rasena",
+        "gloss": "with the juice",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktaṃ",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "joined",
+        "gram": "ppp. √yuj, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गेहूँ के चूर्णों से जो पिचु के माप के हैं, तथा ईख के और विदारी के रस से युक्त",
+  "english": "Joined with wheat powders of the measure of a picu (a small measure), and with the juice of sugarcane and of vidārī (probably Indian kudzu).",
+  "text_flags": [],
+  "notes": "Continues unit 29 (the boiled milk). 'picupramāṇaiḥ' is taken with the wheat powders. 'rasena' is singular and is taken as the juice of both sugarcane and vidārī. vidārī is probably Pueraria tuberosa (Ipomoea digitata is also called vidārī).",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tailena",
+      "words": [
+       {
+        "w": "tailena",
+        "gloss": "with oil",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṣṭīmadhusādhitena",
+      "words": [
+       {
+        "w": "yaṣṭīmadhu-sādhitena",
+        "gloss": "liquorice (yaṣṭīmadhu); prepared",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sitopalākṣaudraghṛtaiśca",
+      "words": [
+       {
+        "w": "sitopalā-kṣaudra-ghṛtaiḥ",
+        "gloss": "sitopalā (sugar candy; probable); honey (kṣaudra); ghee",
+        "gram": "dvandva, n. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītaḥ",
+      "words": [
+       {
+        "w": "śītaḥ",
+        "gloss": "cooled",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यष्टीमधु से तैयार किए हुए तेल के साथ, और मिश्री, शहद और घी के साथ, ठण्डा",
+  "english": "With oil prepared with yaṣṭīmadhu (liquorice), and with sitopalā (sugar candy), honey and ghee, cooled —",
+  "text_flags": [],
+  "notes": "Continues units 29 and 30; the subject (the basti) appears in unit 32. 'sitopalā' = literally 'white stone', the usual word for sugar candy (probable). 'tailena' is oil of an unstated kind; 'sādhita' = prepared.",
+  "confidence": "high"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (medicated enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśastaḥ",
+      "words": [
+       {
+        "w": "praśastaḥ",
+        "gloss": "recommended",
+        "gram": "ppp. pra-√śaṃs, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samastadehadāhe",
+      "words": [
+       {
+        "w": "samasta-deha-dāhe",
+        "gloss": "whole; body; in burning",
+        "gram": "karmadhāraya + tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśūle",
+      "words": [
+       {
+        "w": "sa-śūle",
+        "gloss": "with pain",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'vayavāśrite",
+      "words": [
+       {
+        "w": "avayava-āśrite",
+        "gloss": "limb or part; resting in",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह बस्ति प्रशस्त है, पूरे शरीर की जलन में, पीड़ा सहित जलन में, या किसी अवयव में टिकी हुई जलन में।",
+  "english": "That basti is recommended in burning of the whole body, in burning with pain, or in burning seated in a limb or part.",
+  "text_flags": [],
+  "notes": "The parse is uncertain: 'samastadehadāhe saśūle avayavāśrite vā' is read as three kinds of burning (dāha): of the whole body; with pain; or seated in a part. It could also be two items, 'burning of the whole body with pain' and 'seated in a part'. The words 'burning' in the second and third members are carried over from 'dāhe'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulmātisārabhramamūtrakṛcchrakṣīṇe",
+      "words": [
+       {
+        "w": "gulma-atisāra-bhrama-mūtra-kṛcchra-kṣīṇe",
+        "gloss": "gulma (abdominal lump or mass); atisāra (diarrhoea); bhrama (giddiness); mūtrakṛcchra (difficulty in urination, dysuria); kṣīṇa (wasted)",
+        "gram": "dvandva, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣataujojabalasaṃkṣaye",
+      "words": [
+       {
+        "w": "kṣata-ojaḥ-bala-saṃkṣaye",
+        "gloss": "kṣata (injury); ojas (vital essence); strength; wasting",
+        "gram": "dvandva + tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुल्म, अतिसार, भ्रम, मूत्रकृच्छ्र और क्षीण में, क्षत में, और ओज तथा बल के क्षय में।",
+  "english": "In gulma (abdominal lump), atisāra (diarrhoea), bhrama (giddiness), mūtrakṛcchra (difficult urination) and in the wasted (kṣīṇa), in injury (kṣata), and in the wasting of ojas and strength.",
+  "text_flags": [
+   {
+    "src": "kṣataujojabalasaṃkṣaye",
+    "suggest": "kṣataujobalasaṃkṣaye",
+    "why": "possible: the stray syllable 'ja' (ojoja-) looks like a doubled 'jo'; without it the line has the expected 22 syllables"
+   }
+  ],
+  "notes": "Completes the list of conditions for the basti of unit 32. 'kṣīṇe' is taken as the last member of the dvandva ('in the wasted'); 'kṣīṇe kṣate' is a usual pair. Alternative reading of 'ojoja-bala': 'strength born of ojas'; the flag follows the 22-syllable count. ojas = vital essence (kept as the Sanskrit term).",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kośātakāragvadhadevadārumūrvvāśvadaṃṣṭrākuṭajārkapāṭhāḥ",
+      "words": [
+       {
+        "w": "kośātaka",
+        "gloss": "kośātaka (ridge gourd, Luffa acutangula; probable)",
+        "gram": "m./f. stem"
+       },
+       {
+        "w": "āragvadha",
+        "gloss": "āragvadha (see unit 15)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "devadāru",
+        "gloss": "devadāru (see unit 15)",
+        "gram": "n. stem"
+       },
+       {
+        "w": "mūrvā",
+        "gloss": "mūrvā (Marsdenia tenacissima; probable; printed 'mūrvvā', doubled v normalised)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "aśvadaṃṣṭrā",
+        "gloss": "aśvadaṃṣṭrā (probably puncture vine, Tribulus terrestris, a name of gokṣura; probable)",
+        "gram": "f. stem"
+       },
+       {
+        "w": "kuṭaja",
+        "gloss": "kuṭaja (kurchi, see unit 17)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "arka",
+        "gloss": "arka (Calotropis gigantea, giant milkweed; standard)",
+        "gram": "m. stem"
+       },
+       {
+        "w": "pāṭhāḥ",
+        "gloss": "pāṭhā (Cissampelos pareira, velvet leaf; probable)",
+        "gram": "dvandva, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कोशातक, आरग्वध यानी अमलतास, देवदारु, मूर्वा, अश्वदंष्ट्रा यानी सम्भवतः गोखरू, कुटज, अर्क यानी आक, और पाठा।",
+  "english": "Kośātaka (probably ridge gourd), āragvadha (Indian laburnum), devadāru (deodar), mūrvā (probably Marsdenia tenacissima), aśvadaṃṣṭrā (probably puncture vine), kuṭaja (kurchi), arka (giant milkweed) and pāṭhā.",
+  "text_flags": [],
+  "notes": "A list in the nominative plural with no verb; the drugs are probably the ones cooked with kulattha and bṛhatī in unit 35, but the text does not say so (GROUPING: units 34 to 36 look like one recipe). 'mūrvvā' is printed with doubled v and normalised to mūrvā. The part of each plant used is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paktvā",
+      "words": [
+       {
+        "w": "paktvā",
+        "gloss": "having cooked",
+        "gram": "abs. √pac"
+       }
+      ]
+     },
+     {
+      "src": "kulatthān",
+      "words": [
+       {
+        "w": "kulatthān",
+        "gloss": "kulattha (horse gram, Macrotyloma uniflorum; standard)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bṛhatīṃ",
+      "words": [
+       {
+        "w": "bṛhatīm",
+        "gloss": "bṛhatī (probably Indian nightshade, Solanum indicum; probable)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "toye",
+      "words": [
+       {
+        "w": "toye",
+        "gloss": "in water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasasya",
+      "words": [
+       {
+        "w": "rasasya",
+        "gloss": "of the liquid (rasa)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasṛtā",
+      "words": [
+       {
+        "w": "prasṛtāḥ",
+        "gloss": "prasṛtas (handfuls, a measure)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśa",
+      "words": [
+       {
+        "w": "daśa",
+        "gloss": "ten",
+        "gram": "num., m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syuḥ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "there should be",
+        "gram": "3 pl. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुलत्थ और बृहती को जल में पकाकर, उस रस के दस प्रसृत हों।",
+  "english": "Having cooked kulattha (horse gram) and bṛhatī (probably Indian nightshade) in water, there should be ten prasṛtas (handfuls, a measure) of that liquid (rasa).",
+  "text_flags": [],
+  "notes": "The sandhi 'prasṛtā daśa' stands for prasṛtāḥ daśa (visarga lost before a voiced consonant). The list of unit 34 is possibly cooked together with these; the unit itself names only kulattha and bṛhatī. 'prasṛta' is a measure, 'handful'.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tānsarṣapatailāmadanaiḥ",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "sarṣapa-taila",
+        "gloss": "mustard (sarṣapa); oil (could also be two items, sarṣapa and taila)",
+        "gram": "tat-puruṣa"
+       },
+       {
+        "w": "madanaiḥ",
+        "gloss": "madana (disputed: emetic nut, Randia, or beeswax)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sakuṣṭhairakṣapramāṇaiḥ",
+      "words": [
+       {
+        "w": "sa-kuṣṭhaiḥ",
+        "gloss": "together with; kuṣṭha (costus root, see unit 4)",
+        "gram": "bahuvrīhi, m. inst. pl."
+       },
+       {
+        "w": "akṣa-pramāṇaiḥ",
+        "gloss": "akṣa (a unit of weight); measure",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "prasṛtaiśca",
+      "words": [
+       {
+        "w": "prasṛtaiḥ",
+        "gloss": "with prasṛtas (handfuls)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuktān",
+      "words": [
+       {
+        "w": "yuktān",
+        "gloss": "joined",
+        "gram": "ppp. √yuj, m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन्हें सरसों के तेल और मदन के साथ, कुष्ठ सहित, अक्ष के माप के, और प्रसृतों के साथ युक्त",
+  "english": "Those, joined with mustard oil and madana (disputed: emetic nut or beeswax), with kuṣṭha (costus root), of the measure of an akṣa, and with prasṛtas (handfuls) —",
+  "text_flags": [
+   {
+    "src": "tānsarṣapatailāmadanaiḥ",
+    "suggest": "tānsarṣapatailamadanaiḥ",
+    "why": "possible: the long ā in 'tailā-' looks like a misprint for a (taila + madana)"
+   }
+  ],
+  "notes": "No finite verb in the unit; it ends with 'yuktān' ('joined') and the construction continues beyond this chunk. The relation of the measures is unclear: 'akṣapramāṇaiḥ' and 'prasṛtaiḥ' are not clearly assigned to oil, madana or kuṣṭha (the oil may be the item measured in prasṛtas). 'madana' is either the emetic-nut tree (Randia) or beeswax; the text does not decide. 'sarṣapatailā-' may also be 'sarṣapa' (mustard) and 'taila' (oil) as two items. 'tān' (them) refers to the ten prasṛtas of unit 35.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+  "n": "81",
+  "field": "word.gram",
+  "word": "śiro-roga",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "tat-puruṣa, m.",
+  "why": "reviewer (minor): Case labels (nom. sg.) on non-final members of one compound (the print shows sandhi inside śirorogatimiroraḥ... with no visarga)."
+ },
+ {
+  "n": "81",
+  "field": "word.gram",
+  "word": "timira",
+  "old": "n. nom. sg.",
+  "new": "n.",
+  "why": "reviewer (minor): Case labels (nom. sg.) on non-final members of one compound (the print shows sandhi inside śirorogatimiroraḥ... with no visarga)."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "कल्पित पाठ पर: रक्त का थूकना, मक जो अस्पष्ट है, ज्वर आदि; उस स्थिति में साधन यानी उपचार",
+  "new": "अनुमानित पाठ पर: रक्त का थूकना, मक जो अस्पष्ट है, ज्वर आदि; उस स्थिति में साधन यानी उपचार",
+  "why": "reviewer (minor): Sibling units (ch07 k1/k2 and elsewhere) use अनुमानित पाठ पर for 'on a conjectural reading'; कल्पित means imagined."
+ },
+ {
+  "n": "82",
+  "field": "word.gram",
+  "word": "ādyāḥ",
+  "old": "f. nom. pl.",
+  "new": "adj., nom. pl.",
+  "why": "reviewer (minor): Gender f. is unsupported (the compound has no stated noun; glossary: no gender for unstated nouns)."
+ },
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "कल्पित पाठ पर: अभ्यंग यानी तेल मालिश, स्वेदन यानी पसीना लाना, नस्य यानी नाक में औषधि डालना, और भोजन के बाद स्नेह का सेवन",
+  "new": "अनुमानित पाठ पर: अभ्यंग यानी तेल मालिश, स्वेदन यानी पसीना लाना, नस्य यानी नाक में औषधि डालना, और भोजन के बाद स्नेह का सेवन",
+  "why": "reviewer (minor): Inconsistent with siblings (अनुमानित पाठ पर)."
+ },
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: अभ्यंग यानी तेल मालिश, स्वेदन यानी पसीना लाना, नस्य यानी नाक में औषधि डालना, और भोजन के बाद स्नेह का सेवन",
+  "new": "अनुमानित पाठ पर: अभ्यंग यानी तेल मालिश, स्वेदन यानी पसीना लाना, अनुमान से जोड़ा गया नस्य यानी नाक में औषधि डालना, और भोजन के बाद स्नेह का सेवन",
+  "why": "reviewer (minor): The conjectured nasya is bracketed in English (allowed by glossary, ch04 k2) but Hindi may not use brackets (ch05 k1), so the Hindi presents the conjectured word as plain text and the reader cannot tell it from the printed ones. Mark it inline without brackets."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "कल्पित पाठ पर: अत्यधिक बैठने और यान से जाने से जोड़ों, सिर, त्रिक यानी रीढ़ के निचले भाग के त्रिकास्थि क्षेत्र, आदि की पीड़ा",
+  "new": "अनुमानित पाठ पर: अत्यधिक बैठने और यान से जाने से जोड़ों, सिर, त्रिक यानी रीढ़ के निचले भाग के त्रिकास्थि क्षेत्र, आदि की पीड़ा",
+  "why": "reviewer (minor): Inconsistent prefix (siblings: अनुमानित पाठ पर)."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: अत्यधिक बैठने और यान से जाने से जोड़ों, सिर, त्रिक यानी रीढ़ के निचले भाग के त्रिकास्थि क्षेत्र, आदि की पीड़ा",
+  "new": "अनुमानित पाठ पर: अत्यधिक बैठने और यान से जाने से जोड़ों, सिर, त्रिक यानी सम्भवतः रीढ़ के निचले भाग का त्रिकास्थि वाला क्षेत्र, आदि की पीड़ा",
+  "why": "reviewer (minor): trika is tagged probable in the gloss but stated flatly in the translations; the Hindi phrase is also garbled."
+ },
+ {
+  "n": "85",
+  "field": "english",
+  "old": "On a conjectural reading: from excessive sitting and travelling by vehicle, pain of the joints, head, trika (the lower back at the sacrum) and so on",
+  "new": "On a conjectural reading: from excessive sitting and travelling by vehicle, pain of the joints, head, trika (probably the lower back at the sacrum) and so on",
+  "why": "reviewer (minor): Probable identification must be hedged in the translation."
+ },
+ {
+  "n": "85",
+  "field": "text_flags.0.why",
+  "old": "possible: the printed word has 'yāna' twice and is not clearly analysable; 'ati-āsyā-yānābhyām' (from excessive sitting and riding) fits the sense, but the printed form scans correctly as it stands (8 syllables), so it may be right and only opaque",
+  "new": "possible: the printed word has 'yāna' twice and is not clearly analysable; 'ati-āsyā-yānābhyām' (from excessive sitting and riding) fits the sense, but the printed form scans correctly as it stands (8 syllables), so it may be right and only opaque; the suggested form would have only 14 syllables for the line and break the 16-syllable metre, so it is not preferred",
+  "why": "reviewer (minor): The suggested form has 6 syllables instead of 8, so it breaks the 16-syllable line, while the flag's own argument is that the printed form scans. The suggestion is weak; state this."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "अत्यधिक चलने-फिरने से पैर, पिंडली और जाँघ का सदन यानी अवसाद आदि",
+  "new": "अत्यधिक चलने-फिरने से पैर, पिंडली और जाँघ का सदन यानी थकावट आदि",
+  "why": "reviewer (minor): अवसाद in modern Hindi means depression; sadana here is physical sinking, exhaustion."
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "āma-viṣa",
+  "old": "n. nom. sg.",
+  "new": "n.",
+  "why": "reviewer (minor): Case label 'n. nom. sg.' on a non-final compound member (the compound ends in -ādayaḥ)."
+ },
+ {
+  "n": "91",
+  "field": "english",
+  "old": "From day-sleep, halīmaka (a severe stage of the pale-yellow pāṇḍu condition) and the other diseases (gada) have been declared earlier.",
+  "new": "From day-sleep, halīmaka (probably a severe stage of the pāṇḍu condition) and the other diseases (gada) have been declared earlier.",
+  "why": "reviewer (minor): Gloss tags the identification probable but the translation states it flatly; 'pale-yellow' contradicts the gloss (greenish-yellow) and the glossary (pāṇḍu = pale)."
+ },
+ {
+  "n": "91",
+  "field": "hindi",
+  "old": "दिन में सोने से हलीमक यानी पाण्डु रोग की उग्र अवस्था आदि गद पहले कहे गए हैं।",
+  "new": "दिन में सोने से हलीमक यानी सम्भवतः पाण्डु यानी रक्ताल्पता की उग्र अवस्था आदि गद पहले कहे गए हैं।",
+  "why": "reviewer (minor): Unhedged probable identification; glossary: पाण्डु = रक्ताल्पता."
+ },
+ {
+  "n": "91",
+  "field": "text_flags.0.why",
+  "old": "possible: 'divāsvamāt' is not a word; 'divāsvapnāt' (from day-sleep) is the expected form (OCR pna/ma confusion) and halīmaka is a day-sleep ailment",
+  "new": "possible: 'divāsvamāt' is not a word; 'divāsvapnāt' (from day-sleep) is the expected form (OCR pna/ma confusion)",
+  "why": "reviewer (minor): The flag's why asserts 'halīmaka is a day-sleep ailment' as a fact; it is not stated in this chunk. The conjecture divāsvapnāt itself is good. Remove that clause."
+ },
+ {
+  "n": "93",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "vyavāyājjīvitabhraṃśātaistairasyānilāmayaiḥ",
+    "suggest": "vyavāyājjīvitabhraṃśāttaistairasyānilāmayaiḥ",
+    "why": "possible: the print has a single t in 'bhraṃśātaistair'; the split bhraṃśāt + taiḥ + taiḥ needs the doubled t (a lost t); the 16-syllable count is the same either way"
+   }
+  ],
+  "why": "reviewer (minor): Silent emendation: the print has a single t in 'bhraṃśātaistair', but the split bhraṃśāt + taiḥ + taiḥ needs a doubled t (bhraṃśāttaistair). Unflagged."
+ },
+ {
+  "n": "95",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "meṃḍhraṃ",
+    "suggest": "meḍhram",
+    "why": "possible spelling normalisation: the print has an anusvāra inside the word (meṃḍhra, a variant of meḍhra/meṇḍhra); the standard form meḍhra is used in `w`"
+   }
+  ],
+  "why": "reviewer (minor): Silent normalisation: print meṃḍhra (anusvāra inside the word) is written meḍhram in `w` with no flag."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "vṛṣyāḥ",
+  "old": "adj., f. nom. pl.",
+  "new": "adj., m. nom. pl.",
+  "why": "reviewer (error): Gender wrong: 'f.' but it agrees with bastayaḥ, which the draft itself marks m., and with 'te' (masc. nom. pl.)."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "निकुम्भ यानी सम्भवतः जंगली जमालगोटा, कुम्भ, अग्नि यानी सम्भवतः चित्रक, उरुबूक यानी अरंडी, धावनी यानी पृश्निपर्णी यानी पिठवन, पुनर्नवा यानी गदहपूर्णा, दारु यानी सम्भवतः देवदारु, और महत् पञ्चक",
+  "new": "निकुम्भ यानी सम्भवतः जंगली जमालगोटा, कुम्भ, अग्नि यानी सम्भवतः चित्रक, उरुबूक यानी अरंडी, धावनी यानी सम्भवतः पृश्निपर्णी यानी पिठवन, पुनर्नवा यानी गदहपूर्णा, दारु यानी सम्भवतः देवदारु, और महत् पञ्चक",
+  "why": "reviewer (minor): English hedges this disputed identification ('disputed, perhaps'), Hindi states it flatly."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "निकुम्भ यानी सम्भवतः जंगली जमालगोटा, कुम्भ, अग्नि यानी सम्भवतः चित्रक, उरुबूक यानी अरंडी, धावनी यानी सम्भवतः पृश्निपर्णी यानी पिठवन, पुनर्नवा यानी गदहपूर्णा, दारु यानी सम्भवतः देवदारु, और महत् पञ्चक",
+  "new": "निकुम्भ यानी सम्भवतः जंगली जमालगोटा, कुम्भ जिसकी पहचान अज्ञात है, अग्नि यानी सम्भवतः चित्रक, उरुबूक यानी अरंडी, धावनी यानी सम्भवतः पृश्निपर्णी यानी पिठवन, पुनर्नवा यानी गदहपूर्णा, दारु यानी सम्भवतः देवदारु, और महत् पञ्चक",
+  "why": "reviewer (minor): English says kumbha is unidentified; Hindi gives the bare word with no such statement."
+ },
+ {
+  "n": "102",
+  "field": "notes",
+  "old": "The fruit is not named (phala only), and the kind of urine is not stated. 'pañca lavaṇāni' = five salts: the usual group is rock salt, black salt, viḍa salt, sea salt and efflorescent salt (probable), but the line does not list them. Elliptical: no verb. GROUPING: appears to continue 101 and to be used in 103.",
+  "new": "The fruit is not named (phala only), and the kind of urine is not stated. 'pañca lavaṇāni' = five salts: the usual group is rock salt, black salt, viḍa salt, sea salt and efflorescent salt (probable), but the line does not list them. Elliptical: no verb. GROUPING: appears to continue 101 and to be used in 103. Reviewer: 'samastu' could also be read sa-mastu 'with whey (mastu)'; the draft's samastam 'all together' is kept.",
+  "why": "reviewer (minor): Human decision: besides the draft's samastam ('all together'), 'samastu' can be read sa-mastu ('with whey/curd water'), a common nirūha ingredient. Both give 3 syllables. The draft's reading is adequate but the alternative should be in notes."
+ },
+ {
+  "n": "104",
+  "field": "hindi",
+  "old": "बला यानी खरेटी रास्ना सहित; चित्रक यानी चीता से फल और मूल; द्विपञ्चमूल यानी दशमूल; कृतमालक यानी अमलतास से फल",
+  "new": "बला यानी बरियार, रास्ना सहित, जिसकी पहचान विवादित है; चित्रक यानी चीता से फल और मूल; द्विपञ्चमूल यानी दशमूल; कृतमालक यानी अमलतास से फल",
+  "why": "reviewer (minor): Glossary and siblings use बला यानी बरियार; the missing comma makes 'खरेटी रास्ना' look like one drug; the disputed identity of rāsnā is stated in English but not in Hindi."
+ },
+ {
+  "n": "105",
+  "field": "english",
+  "old": "Barley (yava) and horse gram (kulattha): one should boil in water; the rasa (extract) has a paste (kalka) with musta (nut-grass), pāṭhā and indrayava (kurchi seed).",
+  "new": "Barley (yava) and horse gram (kulattha): one should boil in water; the rasa (extract) has a paste (kalka) with musta (nut-grass), pāṭhā (probably velvet-leaf) and indrayava (kurchi seed).",
+  "why": "reviewer (minor): pāṭhā is probable (Cissampelos pareira) in the gloss but the English gives no name or hedge; policy wants it beside the term."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "और निरूह बस्ति से बढ़कर दूसरा कोई शीघ्र अंगों का बल बढ़ाने वाला नहीं; शिशु और वृद्ध से भिन्नों के लिए हितकर।",
+  "new": "और निरूह बस्ति के सिवा दूसरा कोई शीघ्र अंगों का बल बढ़ाने वाला नहीं; शिशु और वृद्ध से भिन्नों के लिए हितकर।",
+  "why": "reviewer (minor): 'से बढ़कर' means 'better than' (a comparison) but anyat + ablative means 'other than'; the Hindi changes the claim."
+ },
+ {
+  "n": "109",
+  "field": "notes",
+  "old": "'nirūhabasteḥ' is read as an ablative of comparison ('than nirūha-basti'); a genitive reading is also possible. 'aśiśuvṛddhayoḥ' is read as 'of the not-child and not-aged'; an alternative is 'of the non-child and the aged'. The verb is not stated ('is'). GROUPING: appears to close the chapter's teaching before the colophon 110.",
+  "new": "'nirūhabasteḥ' is read as an ablative of comparison ('than nirūha-basti'); a genitive reading is also possible. 'aśiśuvṛddhayoḥ' is read as 'of the not-child and not-aged'; an alternative is 'of the non-child and the aged'. The verb is not stated ('is'). GROUPING: appears to close the chapter's teaching before the colophon 110. Reviewer: 'nirūhabasteḥ' is the ablative with 'anyat' (other than), not a comparative ablative.",
+  "why": "reviewer (minor): The notes call it an 'ablative of comparison'; it is the ablative governed by anyat ('other than'). The genitive alternative is noted. Correct the label."
+ }
+]

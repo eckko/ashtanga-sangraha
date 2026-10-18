@@ -1,0 +1,306 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Now, therefore, we shall explain the preparations of the siddhabasti (a named enema; lit. 'proven enema').",
+  "new": "Now, therefore, we shall explain the preparation (kalpa) of the siddhabasti (a named enema; lit. 'proven enema').",
+  "why": "reviewer (minor): kalpam is singular; 'preparations' is plural."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "sarva-dehinām",
+  "old": "m. gen. pl., tat-puruṣa",
+  "new": "m. gen. pl., karmadhāraya",
+  "why": "reviewer (minor): sarva + dehin is an adjective+noun karmadhāraya, not tat-puruṣa."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "bala-buddhi",
+  "old": "tat-puruṣa, first members of a compound ending in karān in the next token",
+  "new": "dvandva, first members of a compound ending in karān in the next token",
+  "why": "reviewer (minor): 'strength and intelligence' is a dvandva, not a tat-puruṣa."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "ये बिना विपत्ति के, बहुत फल देने वाले, बल और बुद्धि बढ़ाने वाले तथा सुखद हैं।",
+  "new": "ये बिना विपत्ति के, बहुत फलों वाले, बल और बुद्धि उत्पन्न करने वाले तथा सुखद हैं।",
+  "why": "reviewer (minor): bahuphalān = 'having many fruits/results' (not 'giving'); karān = 'making/producing', not 'increasing' (बढ़ाने adds a sense; English says producing)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Honey and oil, equal; one karṣa (a unit of weight); from rock salt (saindhava), two picu (a unit of weight); miśi (dill).",
+  "new": "Honey and oil, equal; a karṣa (a unit of weight); from rock salt (saindhava), two picu (a unit of weight); miśi (dill).",
+  "why": "reviewer (error): karṣaḥ has no numeral; 'one' is supplied. Also miśi is tagged disputed but the translation gives 'dill' unhedged."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Honey and oil, equal; a karṣa (a unit of weight); from rock salt (saindhava), two picu (a unit of weight); miśi (dill).",
+  "new": "Honey and oil, equal; a karṣa (a unit of weight); from rock salt (saindhava), two picu (a unit of weight); miśi (probably dill).",
+  "why": "reviewer (error): Tagged disputed in gloss/notes, so the translation must hedge."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मधु और तैल बराबर; एक कर्ष; सैन्धव से दो पिचु; मिशि।",
+  "new": "मधु और तैल बराबर; कर्ष; सैन्धव यानी सेंधा नमक से दो पिचु; मिशि यानी सम्भवतः सोया।",
+  "why": "reviewer (error): 'एक' supplied (no numeral for karṣa); Hindi gives no modern names for saindhava and miśi (owner policy)."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Elliptic list of quantities with no verb; the exact relation of 'karṣaḥ' and 'saindhavāt dvipicuḥ' to the ingredients is not clear from the line (commentarial reading: one karṣa of rock salt, two picu of miśi; not applied here). Identifications: saindhava = rock salt (standard); miśi = dill, Anethum sowa (disputed; fennel also proposed).",
+  "new": "Elliptic list of quantities with no verb; the exact relation of 'karṣaḥ' and 'saindhavāt dvipicuḥ' to the ingredients is not clear from the line (possible reading (source not checked): one karṣa of rock salt, two picu of miśi; not applied here). Identifications: saindhava = rock salt (standard); miśi = dill, Anethum sowa (disputed; fennel also proposed).",
+  "why": "reviewer (minor): Notes assert a 'commentarial reading' with no source in the input; unverifiable. (Standard tables also make picu a synonym of karṣa, so 'dvipicu' = two karṣa; human may add.)"
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "eraṇḍa-mūla-kāthena",
+  "old": "eraṇḍa-mūla-kāthena",
+  "new": "eraṇḍa-mūla-kvāthena",
+  "why": "reviewer (minor): Rule 6: a flagged typo must carry the corrected form in `words`; kāthena is kept in w though text_flags suggests kvātha (as done in 12, 14, 16)."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "rasāyanam",
+  "old": "m. nom. sg. (adj.)",
+  "new": "n. nom. sg. (predicate)",
+  "why": "reviewer (error): Printed rasāyanaṃ is neuter nom. sg. (predicate noun); draft says m. and note says it agrees with nirūhaḥ (m.), which it cannot. Unit 35 correctly has n."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "Continues 5; the adjectives agree with nirūhaḥ. 'pramehārśaḥ' read as prameha-arśaḥ (sandhi a+a). Identifications: arśas = haemorrhoids (standard); prameha = urinary disorders, commonly linked with diabetes (probable); antravṛddhi = hernia (standard).",
+  "new": "Continues 5; the adjectives agree with nirūhaḥ. 'pramehārśaḥ' read as prameha-arśaḥ (sandhi a+a). Identifications: arśas = haemorrhoids (standard); prameha = urinary disorders, commonly linked with diabetes (probable); antravṛddhi = hernia (standard). Review: 'rasāyanam' is neuter, a predicate ('it is a rasāyana'), not an adjective agreeing with nirūhaḥ. The printed visarga of 'pramehārśaḥ' sits where a compound member (prameha-arśa-) would have none; it may be a print error, or arśaḥ is a separate word; the reading as a list of objects of -nut is kept.",
+  "why": "reviewer (minor): rasāyanam is neuter so it is a predicate, not an agreeing adjective. Also 'pramehārśaḥ' carries a visarga inside what the draft reads as a compound (prameha-arśaḥ-kṛmi...); a visarga cannot stand inside a compound, so the printed visarga is an anomaly that is neither flagged nor discussed."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "और यष्टीमधु यानी मुलेठी के साथ, आँखों के लिए हितकर तथा रक्तपित्त को जीतने वाला।",
+  "new": "और यष्टीमधु यानी मुलेठी के साथ, आँखों के लिए हितकर तथा रक्तपित्त यानी रक्तस्राव वाले विकार को जीतने वाला।",
+  "why": "reviewer (minor): Hindi gives no modern name for raktapitta (English does)."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "madhu-taila-vasā-ājyavān",
+  "old": "bahuvrīhi, m. nom. sg.; ājya = ghee",
+  "new": "dvandva + -vat (possessive suffix), m. nom. sg.; ājya = ghee",
+  "why": "reviewer (minor): Not a bahuvrīhi: dvandva of four substances + possessive suffix -vat (matup)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "यह गुदा, घुटने, जाँघ, पीठ और कूल्हे (एक अस्पष्ट शब्द पर अनुमानित पाठ के अनुसार), मूत्राशय और लिंग की पीड़ा को जीतने वाला है।",
+  "new": "यह गुदा, घुटने, जाँघ, एक अस्पष्ट शब्द के अनुमानित पाठ के अनुसार पीठ और कूल्हे, मूत्राशय और लिंग की पीड़ा को जीतने वाला है।",
+  "why": "reviewer (minor): Brackets are not allowed in Hindi; the phrase is also detached from what it qualifies. The 'conjectural reading' wording itself is present in both translations."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "One should prepare, with portions of one prasṛta (a handful measure) each, with ghee, honey, fat (vasā) and oil.",
+  "new": "One should prepare, with prasṛta-portions (prasṛta, a handful measure), with ghee, honey, fat (vasā) and oil.",
+  "why": "reviewer (error): 'one' and 'each' are supplied; prasṛta-aṃśaiḥ is 'with prasṛta-portions' (the compound is not a tat-puruṣa but a descriptive/karmadhāraya-type one)."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "phalaḥ",
+  "old": "m. nom. sg.; phala unspecified",
+  "new": "last member of the bahuvrīhi sa-vacā-pippalī-phalaḥ, m. nom. sg.",
+  "why": "reviewer (minor): Gloss 'with fruit' is the sense of the whole bahuvrīhi sa-vacā-pippalī-phalaḥ spread over two printed tokens; as a single word phalaḥ is just 'fruit'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "काढ़े के साथ, शहद, एक अस्पष्ट शब्द (छपा रूप पैण्डुण्ठा) पर अनुमानित पाठ के अनुसार, शताह्वा यानी सम्भवतः सोया, हींग और सैन्धव।",
+  "new": "काढ़े के साथ, शहद, पैण्डुण्ठा, जो छपा हुआ अस्पष्ट शब्द है और अनुमानित पाठ के अनुसार लिया गया है, शताह्वा यानी सम्भवतः सोया, हींग और सैन्धव।",
+  "why": "reviewer (minor): Brackets in Hindi, and the sentence is garbled ('शब्द ... पर'). 'conjectural reading' is present in both languages."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "सैन्धव और मधुक सहित यह सिद्धबस्ति कहा गया है।",
+  "new": "सैन्धव और मधुक यानी सम्भवतः मुलेठी सहित यह सिद्धबस्ति कहा गया है।",
+  "why": "reviewer (minor): Hindi gives no identification (English hedges 'probably licorice')."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "द्विपंचमूल, त्रिफला, फल और बिल्व को पकाए।",
+  "new": "द्विपंचमूल, त्रिफला, फल और बिल्व यानी बेल को पकाए।",
+  "why": "reviewer (minor): No modern Hindi name."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "गोमूत्र में, उससे, तथा पाठा, वत्सक और तोयद के पिसे हुए के साथ।",
+  "new": "गोमूत्र में, उससे, तथा पाठा, वत्सक यानी सम्भवतः कुटज और तोयद यानी सम्भवतः नागरमोथा के पिसे हुए के साथ।",
+  "why": "reviewer (minor): No Hindi identifications although the notes tag both 'probable'."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "sa-phalaiḥ",
+  "old": "m. inst. pl., bahuvrīhi",
+  "new": "n. inst. pl., bahuvrīhi",
+  "why": "reviewer (minor): phala is neuter."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मुस्ता, पाठा, अमृता यानी गिलोय, एरण्ड, बला यानी सम्भवतः बरियार, रास्ना और पुनर्नवा।",
+  "new": "मुस्ता यानी नागरमोथा, पाठा, अमृता यानी गिलोय, एरण्ड, बला यानी सम्भवतः बरियार, रास्ना और पुनर्नवा।",
+  "why": "reviewer (minor): Hindi names missing for musta (standard) and eraṇḍa."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मुस्ता यानी नागरमोथा, पाठा, अमृता यानी गिलोय, एरण्ड, बला यानी सम्भवतः बरियार, रास्ना और पुनर्नवा।",
+  "new": "मुस्ता यानी नागरमोथा, पाठा, अमृता यानी गिलोय, एरण्ड यानी अरंडी, बला यानी सम्भवतः बरियार, रास्ना और पुनर्नवा।",
+  "why": "reviewer (minor): Hindi names missing for musta (standard) and eraṇḍa."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Mañjiṣṭhā (Indian madder), āragvadha (Indian laburnum), uśīra (vetiver), trāyamāṇā (identity disputed), akṣa (probably bibhītaka) and rohiṇī (which drug is meant is unclear).",
+  "new": "Mañjiṣṭhā (Indian madder), āragvadha (Indian laburnum), uśīra (vetiver), trāyamāṇā (identity disputed), akṣa and rohiṇī (on a conjectural reading of the end of the line: akṣa probably bibhītaka; which drug rohiṇī means is unclear).",
+  "why": "reviewer (error): Caller check: the English does not say 'on a conjectural reading' for the conjectural akṣa + rohiṇī division, though notes and confidence say so."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "मंजिष्ठा, आरग्वध, उशीर, त्रायमाणा जिसकी पहचान में मतभेद है, अक्ष यानी सम्भवतः बहेड़ा और रोहिणी जिसकी पहचान अस्पष्ट है।",
+  "new": "मंजिष्ठा यानी मंजीठ, आरग्वध यानी अमलतास, उशीर यानी खस, त्रायमाणा जिसकी पहचान में मतभेद है, तथा पंक्ति के अन्त के अनुमानित पाठ के अनुसार अक्ष यानी सम्भवतः बहेड़ा और रोहिणी जिसकी पहचान अस्पष्ट है।",
+  "why": "reviewer (error): Hindi lacks the conjectural-reading wording and Hindi names for mañjiṣṭhā, āragvadha, uśīra."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "A list with no verb. The reading 'akṣa' + 'rohiṇī' is conjectural; the end of the line could also be one word. Identifications: mañjiṣṭhā = Rubia cordifolia (standard); āragvadha = Cassia fistula (standard); uśīra = Vetiveria zizanioides (standard); trāyamāṇā = disputed (Gentiana kurroo often given); akṣa = Terminalia bellirica (probable); rohiṇī = disputed (kaṭukā, kutki, or harītakī).",
+  "new": "A list with no verb. The reading 'akṣa' + 'rohiṇī' is conjectural; the end of the line could also be one word. Identifications: mañjiṣṭhā = Rubia cordifolia (standard); āragvadha = Cassia fistula (standard); uśīra = Vetiveria zizanioides (standard); trāyamāṇā = disputed (Gentiana kurroo often given); akṣa = Terminalia bellirica (probable); rohiṇī = disputed (kaṭukā, kutki, or harītakī). Review: the printed avagraha in maṃjiṣṭhā'ragvadho is a print oddity (mañjiṣṭhā + āragvadha gives ā); the line is read as one dvandva compound, so ra-/u sandhi (āragvadha + uśīra -> -dhośīra) is internal.",
+  "why": "reviewer (minor): Printed avagraha in maṃjiṣṭhā'ragvadho is spurious (ā+ā gives ā; the whole line is one dvandva compound) and is not flagged."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "kanīyaḥ",
+  "old": "m./n. nom. sg. (adj.)",
+  "new": "n. nom. sg. (adj.)",
+  "why": "reviewer (minor): kanīyaḥ is the neuter nom. sg. of kanīyas (masc. would be kanīyān); it agrees with pañcamūlam (n.). 'm./n.' is imprecise."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "The lesser (kanīyaḥ) pañcamūla (group of five roots), of the weight of one pala each, and eight madana (probably emetic nut, Randia dumetorum).",
+  "new": "The lesser (kanīyaḥ) pañcamūla (group of five roots), of the weight of one pala, and eight madana (probably emetic nut, Randia dumetorum).",
+  "why": "reviewer (minor): 'each' is supplied (pālikam only says 'of a pala')."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "छोटा पंचमूल, एक पल के मान का, और आठ मदन।",
+  "new": "छोटा पंचमूल, एक पल के मान का, और आठ मदन यानी सम्भवतः मैनफल।",
+  "why": "reviewer (minor): No Hindi name (English: probably Randia dumetorum)."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "'kanīyaḥ pañcamūla' is the lesser five-root group (laghu pañcamūla); its members are not listed in the text. 'pālikam' ('of a pala') may apply to the pañcamūla alone or to all ingredients. madana = Randia dumetorum (probable). Continues 23-24.",
+  "new": "'kanīyaḥ pañcamūla' is the lesser five-root group (laghu pañcamūla); its members are not listed in the text. 'pālikam' ('of a pala') may apply to the pañcamūla alone or to all ingredients. madana = Randia dumetorum (probable). Continues 23-24. Review: kanīya (laghu) pañcamūla is the standard group śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī and gokṣura (standard reference tables; the text itself does not list them).",
+  "why": "reviewer (minor): The lesser pañcamūla (kanīya/laghu) is a standard group: śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura (standard). Useful identification the draft omitted; see also 36."
+ },
+ {
+  "n": "26",
+  "field": "word.w",
+  "word": "paced",
+  "old": "paced",
+  "new": "pacet",
+  "why": "reviewer (error): w 'paced' is wrong: pacet before tat- stays pacet (pacet + tat + ca)."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "With jāṅgala-rasa (the juice of dry-land animals) in the amount sapāda (one and a quarter), and with ghee, honey and rock salt (saindhava).",
+  "new": "With jāṅgala-rasa (the juice of dry-land animals) sapāda (one and a quarter; the unit is not stated), and with ghee, honey and rock salt (saindhava).",
+  "why": "reviewer (minor): 'in the amount' is supplied; text has only the compound sapāda-jāṅgalarasaḥ."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "With the ground (ones): yaṣṭī (licorice), miśi (dill), śyāmā (identity disputed), kaliṅga (probably kuṭaja seed), kara (an unclear word, on a conjectural reading) and añjana (collyrium).",
+  "new": "With the ground (ones): yaṣṭī (licorice), miśi (probably dill), śyāmā (identity disputed), kaliṅga (probably kuṭaja seed), kara (an unclear word, on a conjectural reading) and añjana (collyrium).",
+  "why": "reviewer (error): Tagged disputed (as in 4), so must be hedged."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "अनुमानित पाठ के अनुसार, पिसे हुए यष्टी, मिशि, श्यामा जिसकी पहचान में मतभेद है, कलिङ्ग, कर जो अस्पष्ट शब्द है और अञ्जन के साथ।",
+  "new": "पिसे हुए यष्टी यानी मुलेठी, मिशि यानी सम्भवतः सोया, श्यामा जिसकी पहचान में मतभेद है, कलिङ्ग यानी सम्भवतः कुटज का बीज, कर जो अस्पष्ट शब्द है और अनुमानित पाठ के अनुसार लिया गया है, और अञ्जन के साथ।",
+  "why": "reviewer (error): 'conjectural reading' phrase is at the start, not tied to kara; no Hindi names."
+ },
+ {
+  "n": "32",
+  "field": "word.w",
+  "word": "dhmā",
+  "old": "dhmā",
+  "new": "dhma",
+  "why": "reviewer (minor): Glossary: an unrestorable printed word is kept in w as printed; the draft lists 'dhmā' (neither printed nor a form it explains)."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "कमर के जोड़ पर, जाँघ, कटि, कुक्षि, मन्या यानी गर्दन के पिछले भाग, कान और सिर की पीड़ाओं को।",
+  "new": "वंक्षण यानी जाँघ के जोड़, जाँघ, कटि यानी कमर, कुक्षि यानी पेट का बगल, मन्या यानी गर्दन के पिछले भाग, कान और सिर की पीड़ाओं को।",
+  "why": "reviewer (minor): vaṅkṣaṇa is the groin; 'कमर के जोड़ पर' is confusing next to कटि (waist) and adds 'पर'. Kukṣi unglossed."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "प्रत्येक को अलग-अलग एक पल के अंश में गोक्षुर के बिना पंचमूल को पकाए।",
+  "new": "प्रत्येक को अलग-अलग एक पल के अंश में गोक्षुर यानी गोखरू के बिना पंचमूल को पकाए।",
+  "why": "reviewer (minor): No Hindi name for gokṣura (standard Tribulus terrestris)."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "एक आढक दूध में, चार प्रस्थ, पिसे हुए यष्टि आदि से युक्त।",
+  "new": "आढक दूध में, चार प्रस्थ, पिसे हुए यष्टि यानी मुलेठी आदि से युक्त।",
+  "why": "reviewer (minor): 'एक' supplied (āḍhake has no numeral); no Hindi name for yaṣṭi."
+ },
+ {
+  "n": "38",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "kṣaudratailājyasiṃdhūtthayuktaṃ",
+    "suggest": "kṣaudratailājyasiṃdhūtthayukto",
+    "why": "possible: yuktaṃ is neuter but agrees with bastiḥ (masc.), cf. yukto bastiḥ in 21; anusvāra for visarga/o is a common print slip"
+   }
+  ],
+  "why": "reviewer (minor): 'yuktaṃ' (neuter) does not agree with bastiḥ (masc.), unlike yukto bastiḥ in 21; unflagged. Possible yukto. Translation unaffected."
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "kṣaudra-taila-ājya-sindhūttha-yuktam",
+  "old": "dvandva + tat-puruṣa, n. nom. sg.",
+  "new": "dvandva + tat-puruṣa, n. nom. sg. as printed (bastiḥ is m.; see text_flags)",
+  "why": "reviewer (minor): 'yuktaṃ' (neuter) does not agree with bastiḥ (masc.), unlike yukto bastiḥ in 21; unflagged. Possible yukto. Translation unaffected."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Especially for children, the old, women, the delicate and those of a comfort-loving nature.",
+  "new": "Especially for children, the old, women, the delicate and those of a comfortable (sukha) nature.",
+  "why": "reviewer (minor): 'loving' is added; sukha-ātman is 'of a comfortable/happy nature'."
+ }
+]

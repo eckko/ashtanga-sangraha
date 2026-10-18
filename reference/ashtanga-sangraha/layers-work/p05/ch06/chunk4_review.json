@@ -1,0 +1,1263 @@
+{
+ "units": [
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "triṃśad-bhedāḥ",
+     "problem": "Count: 6 items give 15 pairs, yet the print says 30. Not a typo to correct: 125 says 36 \"together with the single ones\" = 30 + 6, so the book is internally consistent. Keep \"thirty\" as printed; the draft note is right not to correct it.",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 125 appears to follow on 124",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 125 follows on 124",
+      "new": "GROUPING: 125 appears to follow on 124"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kevalaiḥ",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "word",
+      "match_w": "kevalaiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sa-upadravān",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "bahuvrīhi, acc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "word",
+      "match_w": "sa-upadravān",
+      "field": "gram",
+      "value": "bahuvrīhi, acc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 126 and 127 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 126 and 127 form one statement",
+      "new": "GROUPING: 126 and 127 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Colic pain (śūla)",
+     "problem": "Glossary: śūla in compounds = \"pain\"; \"colic\" is added interpretation.",
+     "fix": "Pain (śūla)",
+     "severity": "error",
+     "patch": {
+      "n": "126",
+      "op": "replace",
+      "field": "english",
+      "old": "Colic pain (śūla)",
+      "new": "Pain (śūla)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "whole compound",
+     "problem": "Same \"colic pain\" in the word gloss.",
+     "fix": "pain; pravāhikā (straining at stool, tenesmus; standard); distension; cutting pain; loss of appetite; fevers",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "śūla-pravāhikā-ādhmāna-parikarti-aruci-jvarān",
+      "field": "gloss",
+      "value": "pain; pravāhikā (straining at stool, tenesmus; standard); distension; cutting pain; loss of appetite; fevers"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शूल / आध्मान / परिकर्ती",
+     "problem": "Bare शूल, आध्मान, परिकर्ती are not explained in Hindi (policy: Sanskrit term यानी plain meaning).",
+     "fix": "शूल यानी पीड़ा, प्रवाहिका यानी मल के लिए ज़ोर लगना, आध्मान यानी अफारा, परिकर्ती यानी काटने की पीड़ा, अरुचि यानी भोजन की अनिच्छा और ज्वर यानी बुखार।",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "set",
+      "field": "hindi",
+      "value": "शूल यानी पीड़ा, प्रवाहिका यानी मल के लिए ज़ोर लगना, आध्मान यानी अफारा, परिकर्ती यानी काटने की पीड़ा, अरुचि यानी भोजन की अनिच्छा और ज्वर यानी बुखार।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 126",
+     "severity": "minor",
+     "patch": {
+      "n": "127",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 126",
+      "new": "GROUPING: appears to complete 126"
+     }
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 128 and 129 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 128 and 129 form one statement",
+      "new": "GROUPING: 128 and 129 appear to form one statement"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आम",
+     "problem": "Hindi bare \"आम\" reads as mango; first use in the chunk needs the meaning (English already glosses it).",
+     "fix": "वहाँ आम यानी अपक्व, अपचे पदार्थ में, अस्पष्ट शब्द के अनुमानित पाठ पर, पान, कटु, अम्ल और लवण से युक्त,",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "set",
+      "field": "hindi",
+      "value": "वहाँ आम यानी अपक्व, अपचे पदार्थ में, अस्पष्ट शब्द के अनुमानित पाठ पर, पान, कटु, अम्ल और लवण से युक्त,"
+     }
+    },
+    {
+     "field": "split",
+     "where": "atara / pānam",
+     "problem": "Glossary: an unrestorable printed word is kept unsplit. The draft splits \"atara\" (the avagraha restored as a) from pānam, which builds a partial reading on the damaged word; same in 135. Owner may prefer a single unsplit word \"'tarapānam\" with gloss \"unclear\" (the patch tool cannot merge words).",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to continue 128.",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues 128.",
+      "new": "GROUPING: appears to continue 128."
+     }
+    }
+   ]
+  },
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ग्राही",
+     "problem": "Bare ग्राही is unexplained (English glosses \"binding\").",
+     "fix": "मल में वातनाशक और ग्राही यानी बाँधने वाले वर्ग की बस्ति प्रशस्त है।",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "set",
+      "field": "hindi",
+      "value": "मल में वातनाशक और ग्राही यानी बाँधने वाले वर्ग की बस्ति प्रशस्त है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svādu-amlaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "131",
+      "op": "word",
+      "match_w": "svādu-amlaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṣāya-svādu-tiktakaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "word",
+      "match_w": "kaṣāya-svādu-tiktakaḥ",
+      "field": "gram",
+      "value": "dvandva, nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pitta-asre",
+     "problem": "Glossed \"pitta; blood\" so it is a dvandva, not tat-puruṣa (cf. 140, 143).",
+     "fix": "dvandva, n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "word",
+      "match_w": "pitta-asre",
+      "field": "gram",
+      "value": "dvandva, n. loc. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pittāsre / rakte raktena",
+     "problem": "pittāsra (and asṛkpitta, 143) is also the usual Sanskrit name of the disease raktapitta (bleeding disorder). The draft reads it as \"pitta and blood\" (consistent with the list of combinations, and kept), but add the alternative to the notes. \"rakte raktena\" (locative then instrumental of the same word) may be a corruption; unresolved.",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "pitta-and-blood",
+     "problem": "Glossary: Pitta capitalised in English hyphen compounds.",
+     "fix": "In Pitta-and-blood (pittāsra)",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "replace",
+      "field": "english",
+      "old": "in pitta-and-blood (pittāsra)",
+      "new": "in Pitta-and-blood (pittāsra)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭu-tiktakaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "word",
+      "match_w": "kaṭu-tiktakaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हो",
+     "problem": "Added modal/copula \"हो\" where the Sanskrit has no verb (glossary).",
+     "fix": "कफ के सरकाए जाते समय बस्ति कसैली, कटु और तिक्त।",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "set",
+      "field": "hindi",
+      "value": "कफ के सरकाए जाते समय बस्ति कसैली, कटु और तिक्त।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 134 and 135 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 134 and 135 form one statement",
+      "new": "GROUPING: 134 and 135 appear to form one statement"
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 134.",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 134.",
+      "new": "GROUPING: appears to complete 134."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "saṃsṛṣṭe",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "word",
+      "match_w": "saṃsṛṣṭe",
+      "field": "gram",
+      "value": "loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 136 and 137 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 136 and 137 form one statement",
+      "new": "GROUPING: 136 and 137 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pitta",
+     "problem": "Capitalise Pitta.",
+     "fix": "With Pitta, in āma",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "english",
+      "old": "With pitta, in āma",
+      "new": "With Pitta, in āma"
+     }
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 136.",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 136.",
+      "new": "GROUPING: appears to complete 136."
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṣāya-kaṭu-tiktakam",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "word",
+      "match_w": "kaṣāya-kaṭu-tiktakam",
+      "field": "gram",
+      "value": "dvandva, nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English breaks off",
+     "problem": "English ends mid-sentence (\"... and — on a conjectural reading ... —\"). Complete it, with the conjectured word in brackets as the glossary requires (flagged in text_flags).",
+     "fix": "But when Kapha is joined with āma: a medicine (auṣadha), astringent and — on a conjectural reading of the doubtful word 'lava' — [salty].",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "set",
+      "field": "english",
+      "value": "But when Kapha is joined with āma: a medicine (auṣadha), astringent and — on a conjectural reading of the doubtful word 'lava' — [salty]."
+     }
+    }
+   ]
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 140 and 141 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 140 and 141 form one statement",
+      "new": "GROUPING: 140 and 141 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "With wind",
+     "problem": "vātena should be Vāta (glossary: Vāta/Pitta/Kapha); Pitta capitalised.",
+     "fix": "With Vāta, in stool or in Pitta; in stool, Pitta and blood, likewise in wind,",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "set",
+      "field": "english",
+      "value": "With Vāta, in stool or in Pitta; in stool, Pitta and blood, likewise in wind,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vātena",
+     "problem": "Vāta not \"wind\".",
+     "fix": "with Vāta",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "word",
+      "match_w": "vātena",
+      "field": "gloss",
+      "value": "with Vāta"
+     }
+    }
+   ]
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 140.",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 140.",
+      "new": "GROUPING: appears to complete 140."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṣāya-amla-madhuraḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "word",
+      "match_w": "kaṣāya-amla-madhuraḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "saṃsṛṣṭe",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "word",
+      "match_w": "saṃsṛṣṭe",
+      "field": "gram",
+      "value": "loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svādu-amla-tiktakaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "word",
+      "match_w": "svādu-amla-tiktakaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "With wind",
+     "problem": "vātena = Vāta.",
+     "fix": "With Vāta and in blood",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "replace",
+      "field": "english",
+      "old": "With wind and in blood",
+      "new": "With Vāta and in blood"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vātena",
+     "problem": "Vāta not \"wind\".",
+     "fix": "with Vāta",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "word",
+      "match_w": "vātena",
+      "field": "gloss",
+      "value": "with Vāta"
+     }
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 143 and 144 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 143 and 144 form one statement",
+      "new": "GROUPING: 143 and 144 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pitta",
+     "problem": "Capitalise Pitta.",
+     "fix": "Of Pitta and stool, of blood and Pitta",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "replace",
+      "field": "english",
+      "old": "of pitta and stool, of blood and pitta",
+      "new": "of Pitta and stool, of blood and Pitta"
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 143.",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 143.",
+      "new": "GROUPING: appears to complete 143."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṣāya-svādu-tiktakaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "word",
+      "match_w": "kaṣāya-svādu-tiktakaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हो",
+     "problem": "Added \"हो\" where there is no verb; English uses \"is\".",
+     "fix": "परस्पर संयोग में बस्ति कसैली, मधुर और तिक्त है।",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "set",
+      "field": "hindi",
+      "value": "परस्पर संयोग में बस्ति कसैली, मधुर और तिक्त है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 145 and 146 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "145",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 145 and 146 form one statement",
+      "new": "GROUPING: 145 and 146 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pitta",
+     "problem": "Capitalise Pitta.",
+     "fix": "or in Pitta; in Kapha, with stool, Pitta and blood",
+     "severity": "minor",
+     "patch": {
+      "n": "145",
+      "op": "replace",
+      "field": "english",
+      "old": "or in pitta; in Kapha, with stool, pitta and blood",
+      "new": "or in Pitta; in Kapha, with stool, Pitta and blood"
+     }
+    }
+   ]
+  },
+  {
+   "n": "146",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to complete 145.",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes 145.",
+      "new": "GROUPING: appears to complete 145."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṭu-tikta-kaṣāyaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "word",
+      "match_w": "kaṭu-tikta-kaṣāyaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "saṃsṛṣṭe",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "word",
+      "match_w": "saṃsṛṣṭe",
+      "field": "gram",
+      "value": "loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "147",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭu-tikta-amlaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "word",
+      "match_w": "kaṭu-tikta-amlaḥ",
+      "field": "gram",
+      "value": "dvandva, m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "148",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "madhura-uṣaṇa-tiktaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "word",
+      "match_w": "madhura-uṣaṇa-tiktaḥ",
+      "field": "gram",
+      "value": "dvandva, nom. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कटु",
+     "problem": "Hindi renders uṣaṇa as plain कटु, dropping the printed word; English keeps uṣaṇa.",
+     "fix": "रक्त में, जो कफ से मिला हो, मधुर, उषण यानी तीखा और तिक्त।",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "set",
+      "field": "hindi",
+      "value": "रक्त में, जो कफ से मिला हो, मधुर, उषण यानी तीखा और तिक्त।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "149",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭu-amla-lavaṇaḥ",
+     "problem": "A list of tastes is a dvandva (as the draft itself labels it in 128/135), not a bahuvrīhi; inconsistent labelling. Gender dropped where the noun (basti) is not stated in the line (glossary).",
+     "fix": "dvandva, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "149",
+      "op": "word",
+      "match_w": "kaṭu-amla-lavaṇaḥ",
+      "field": "gram",
+      "value": "dvandva, nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "150",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tri-catuḥ-pañca-ṣaṭ-yogena",
+     "problem": "Whole compound is tat-puruṣa (dvandva of numbers + yoga), not dvandva.",
+     "fix": "tat-puruṣa (dvandva of numbers + yoga), m. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "150",
+      "op": "word",
+      "match_w": "tri-catuḥ-pañca-ṣaṭ-yogena",
+      "field": "gram",
+      "value": "tat-puruṣa (dvandva of numbers + yoga), m. inst. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "or",
+     "problem": "The Sanskrit has no \"or\" (dvandva); Hindi has \"और\". Literal: and.",
+     "fix": "By combining three, four, five and six, one should vary (it) in just this way.",
+     "severity": "minor",
+     "patch": {
+      "n": "150",
+      "op": "replace",
+      "field": "english",
+      "old": "three, four, five or six",
+      "new": "three, four, five and six"
+     }
+    }
+   ]
+  },
+  {
+   "n": "151",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "152",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "153",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "nirāmāṇām",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "153",
+      "op": "word",
+      "match_w": "nirāmāṇām",
+      "field": "gram",
+      "value": "gen. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ṣaḍ-rasikaḥ",
+     "problem": "-ika is a possessive taddhita suffix on ṣaḍ-rasa, not a bahuvrīhi.",
+     "fix": "taddhita (ṣaḍ-rasa + -ika), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "153",
+      "op": "word",
+      "match_w": "ṣaḍ-rasikaḥ",
+      "field": "gram",
+      "value": "taddhita (ṣaḍ-rasa + -ika), m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "154",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 154 and 155 appear to be one list",
+     "severity": "minor",
+     "patch": {
+      "n": "154",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 154 and 155 are one list",
+      "new": "GROUPING: 154 and 155 appear to be one list"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जामुन, आम",
+     "problem": "Hindi lacks the Sanskrit names and the hedge: \"आम\" (mango) collides with āma (undigested matter) used throughout this chunk; jambū is only probable (English hedges).",
+     "fix": "उदुम्बर यानी गूलर के शलाटु यानी कच्चे फल, जम्बू यानी सम्भवतः जामुन, आम्र यानी आम और उदुम्बर यानी गूलर की छालें।",
+     "severity": "minor",
+     "patch": {
+      "n": "154",
+      "op": "set",
+      "field": "hindi",
+      "value": "उदुम्बर यानी गूलर के शलाटु यानी कच्चे फल, जम्बू यानी सम्भवतः जामुन, आम्र यानी आम और उदुम्बर यानी गूलर की छालें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: appears to continue 154.",
+     "severity": "minor",
+     "patch": {
+      "n": "155",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: continues 154.",
+      "new": "GROUPING: appears to continue 154."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "एक पल",
+     "problem": "Hindi supplies the numeral \"एक\" (glossary: no supplied numerals); kattṛṇa left unexplained.",
+     "fix": "शंख, सर्जरस यानी साल का राल, लाख और कत्तृण यानी एक घास, जिसकी पहचान अज्ञात है, और पल यानी तौल की इकाई के अंश वाला।",
+     "severity": "minor",
+     "patch": {
+      "n": "155",
+      "op": "set",
+      "field": "hindi",
+      "value": "शंख, सर्जरस यानी साल का राल, लाख और कत्तृण यानी एक घास, जिसकी पहचान अज्ञात है, और पल यानी तौल की इकाई के अंश वाला।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kattṛṇa",
+     "problem": "Some lexicons give kattṛṇa as a fragrant grass of the lemon-grass/rauhiṣa kind (Cymbopogon); I am not sure, so leave \"unidentified\" but the owner may record \"possibly a fragrant Cymbopogon grass (disputed)\". English \"a grass, unidentified\" and gloss \"a fragrant grass\" differ slightly.",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "156",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "Appears to complete 154-155.",
+     "severity": "minor",
+     "patch": {
+      "n": "156",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 154-155.",
+      "new": "Appears to complete 154-155."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "taiḥ",
+     "problem": "Gender given for a word whose noun is unstated; glossary: no gender in gram for unstated nouns.",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "156",
+      "op": "word",
+      "match_w": "taiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "157",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "158",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 158 and 159 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "158",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 158 and 159 form one statement",
+      "new": "GROUPING: 158 and 159 appear to form one statement"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bilva (wood-apple)",
+     "problem": "Wrong common name: Aegle marmelos is bael (stone apple); \"wood-apple\" is Limonia acidissima (kapittha). Identification error.",
+     "fix": "bilva (bael)",
+     "severity": "error",
+     "patch": {
+      "n": "158",
+      "op": "replace",
+      "field": "english",
+      "old": "bilva (wood-apple)",
+      "new": "bilva (bael)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bilva",
+     "problem": "Same wrong common name.",
+     "fix": "bilva (bael, Aegle marmelos; standard)",
+     "severity": "error",
+     "patch": {
+      "n": "158",
+      "op": "word",
+      "match_w": "bilva",
+      "field": "gloss",
+      "value": "bilva (bael, Aegle marmelos; standard)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kacchurā / raktamūlin",
+     "problem": "kacchurā: lexicons variously give an Alhagi/durālabhā-type plant or Mucuna (kapikacchu); disputed, correctly not applied. raktamūlin: \"red-rooted\" is a literal guess only; unidentified, as the draft says.",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "159",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "Appears to complete 158.",
+     "severity": "minor",
+     "patch": {
+      "n": "159",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 158.",
+      "new": "Appears to complete 158."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीपल की कोंपलों",
+     "problem": "Hindi uses कोंपल for śṛṅga (tips) here and also for pallava in 160 (sprouts); aśvattha also unglossed (Sanskrit name यानी Hindi name).",
+     "fix": "और मसूर तथा अश्वत्थ यानी पीपल के शृंग यानी अग्रभागों से, जल में उबालने पर, यवागू यानी लपसी हो।",
+     "severity": "minor",
+     "patch": {
+      "n": "159",
+      "op": "set",
+      "field": "hindi",
+      "value": "और मसूर तथा अश्वत्थ यानी पीपल के शृंग यानी अग्रभागों से, जल में उबालने पर, यवागू यानी लपसी हो।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "160",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "GROUPING: 160 and 161 appear to form one statement",
+     "severity": "minor",
+     "patch": {
+      "n": "160",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: 160 and 161 form one statement",
+      "new": "GROUPING: 160 and 161 appear to form one statement"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्लक्ष यानी पाकड़",
+     "problem": "plakṣa is tagged probable (English hedges \"probably\") but Hindi does not hedge.",
+     "fix": "कोमल गूलर, कट्वंग यानी सम्भवतः सोनापाठा, समंगा और प्लक्ष यानी सम्भवतः पाकड़ की कोंपलों से,",
+     "severity": "minor",
+     "patch": {
+      "n": "160",
+      "op": "set",
+      "field": "hindi",
+      "value": "कोमल गूलर, कट्वंग यानी सम्भवतः सोनापाठा, समंगा और प्लक्ष यानी सम्भवतः पाकड़ की कोंपलों से,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "161",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING wording",
+     "problem": "Glossary: do not state verse pairing as fact; use \"appears to complete/continue/form\".",
+     "fix": "Appears to complete 160;",
+     "severity": "minor",
+     "patch": {
+      "n": "161",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 160;",
+      "new": "Appears to complete 160;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धातकी",
+     "problem": "dhātakī given without Hindi name here (158 has it).",
+     "fix": "और मसूर, धातकी यानी धाय के फूल और बला यानी खरैटी से भी उसी प्रकार हो।",
+     "severity": "minor",
+     "patch": {
+      "n": "161",
+      "op": "set",
+      "field": "hindi",
+      "value": "और मसूर, धातकी यानी धाय के फूल और बला यानी खरैटी से भी उसी प्रकार हो।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "162",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यापदें",
+     "problem": "Bare व्यापद is unclear Hindi; English \"mishaps (vyāpad)\" and \"error (vibhrama)\".",
+     "fix": "बस्ति के विभ्रम यानी भूल से अनेक प्रकार की व्यापदें यानी दुर्घटनाएँ उत्पन्न होती हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "162",
+      "op": "set",
+      "field": "hindi",
+      "value": "बस्ति के विभ्रम यानी भूल से अनेक प्रकार की व्यापदें यानी दुर्घटनाएँ उत्पन्न होती हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "163",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "साधन",
+     "problem": "Bare साधन (means, tool) misleads; English says treatment.",
+     "fix": "मार्ग के अनुसार, अवस्था के अनुसार, उनका साधन यानी उपचार करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "163",
+      "op": "set",
+      "field": "hindi",
+      "value": "मार्ग के अनुसार, अवस्था के अनुसार, उनका साधन यानी उपचार करे।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "yathāpatham",
+     "problem": "No flag is raised for the obscure yathāpatham. A possible-level flag to yathāpathyam (\"as is wholesome\") would be reasonable but is a guess; owner to decide. Translation \"according to the path\" is literal and left as is.",
+     "fix": "(owner decision; no machine patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "164",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 4 (ch06 units 124-164): draft is largely faithful and careful with damaged print (128, 135, 139, 152 unsplit/unclear, hedged). 3 errors, 73 minor. Errors: 'bilva (wood-apple)' is a wrong common name (Aegle marmelos = bael) in 158 (English + gloss); 'colic pain' for śūla in 126 (glossary: pain). Minor: tastes lists labelled bahuvrīhi instead of dvandva, gender on unstated nouns, Pitta/Vāta capitalisation in English, Hindi additions of 'हो', bare Sanskrit terms in Hindi (आम collides with mango in 154), pairing stated as fact in GROUPING notes, 139 English left broken off. No regrouping suggested; running sentences are 126-127, 128-129, 134-135, 136-137, 140-141, 143-144, 145-146, 154-156, 158-159, 160-161. Unresolved for the owner: 128/135 'tarapāna', 132 'rakte raktena' and pittāsra possibly = raktapitta, 134/136 list sense, 139 lava, 152 sadrusam, 163 yathāpatham, kacchurā/raktamūlin/kattṛṇa identities. Text-flag conjectures (146 kaṭu, 153 nirāmāṇām, 134/143 śakṛ, 140/145 viṣi, 150, 154 jambvāmra) are plausible and src is kept as printed.",
+ "glossary_suggestions": [
+  "bilva = bael (Aegle marmelos), NOT 'wood-apple' (that is kapittha); Hindi बिल्व यानी बेल.",
+  "Lists of tastes (kaṭu-amla-lavaṇa etc.) = dvandva in gram, never bahuvrīhi; no gender when the noun (basti, pāna) is unstated.",
+  "Hindi आम (āma) collides with mango: always write 'आम यानी अपक्व पदार्थ' at first use per chunk, and 'आम्र यानी आम' for the tree.",
+  "vātena = Vāta in English; samīraṇa/anila/māruta/vāyu = 'wind'; Pitta capitalised in compounds.",
+  "pittāsra/asṛkpitta are also names of the disease raktapitta; keep 'pitta and blood' in lists of combinations and note the alternative.",
+  "Hindi pala = 'पल यानी तौल की इकाई'; no 'एक'.",
+  "samaṅgā probable Mimosa pudica (लाजवन्ती) disputed; kaṭvaṅga probable Oroxylum indicum (सोनापाठा) disputed; plakṣa probable Ficus virens (पाकड़), hedge in Hindi too."
+ ]
+}

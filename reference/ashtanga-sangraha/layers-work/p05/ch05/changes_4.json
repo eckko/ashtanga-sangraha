@@ -1,0 +1,241 @@
+[
+ {
+  "n": "118",
+  "field": "hindi",
+  "old": "पञ्चमूल से साधित तैल, अथवा बिल्व आदि से साधित।",
+  "new": "पञ्चमूल से साधित तैल, अथवा बिल्व यानी बेल आदि से साधित।",
+  "why": "reviewer (minor): Plant named without its ordinary Hindi name (owner policy: Sanskrit name यानी Hindi name)."
+ },
+ {
+  "n": "118",
+  "field": "word.gram",
+  "word": "bilva-ādinā",
+  "old": "tat-puruṣa, n. inst. sg.",
+  "new": "tat-puruṣa, m. inst. sg.",
+  "why": "reviewer (minor): ādi is masculine; the compound cannot be neuter."
+ },
+ {
+  "n": "120",
+  "field": "hindi",
+  "old": "कफ में फलों के साथ और आठ गुने खट्टे में सिद्ध किया हुआ अन्वासन।",
+  "new": "कफ में फलों के साथ और आठ गुने खट्टे में पकाया हुआ अन्वासन।",
+  "why": "reviewer (minor): GLOSSARY: siddha = पकाया हुआ."
+ },
+ {
+  "n": "121",
+  "field": "english",
+  "old": "In colic (śūla) and distension (ānāha), a nirūha (decoction enema) joined with that, on a conjectural reading having paṭu (probably salt) and urine.",
+  "new": "In pain (śūla) and distension (ānāha), a nirūha (decoction enema) joined with that, on a conjectural reading having paṭu (probably salt) and urine.",
+  "why": "reviewer (minor): GLOSSARY: śūla = 'pain'. 'colic' is a narrowing the Sanskrit does not give, and the same word is 'pain' elsewhere. Keep 'pain (śūla)'; 'distension of the belly' in the gloss of ānāha adds 'of the belly' (not in the word)."
+ },
+ {
+  "n": "121",
+  "field": "word.gloss",
+  "word": "śūla-anāhe",
+  "old": "colic, pain (śūla); distension of the belly (ānāha; standard)",
+  "new": "pain (śūla); distension (ānāha; standard)",
+  "why": "reviewer (minor): GLOSSARY: śūla = 'pain'. 'colic' is a narrowing the Sanskrit does not give, and the same word is 'pain' elsewhere. Keep 'pain (śūla)'; 'distension of the belly' in the gloss of ānāha adds 'of the belly' (not in the word)."
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "तब बुद्धिमान् अग्निवेश ने मुनि से इस प्रकार पूछा: यहाँ फलों में भला क्या",
+  "new": "तब बुद्धिमान् अग्निवेश ने मुनि से इस प्रकार पूछा: यहाँ, परन्तु, फलों में क्या",
+  "why": "reviewer (minor): 'भला' is an added word; 'tu' (but) is dropped in Hindi though the English keeps 'but'."
+ },
+ {
+  "n": "122",
+  "field": "notes",
+  "old": "GROUPING: the question continues in 123 ('... may be always beneficial in basti-action?'). 'pṛcchati sma' is the present with sma, giving a past sense. The quotation ends with 'iti' in 123, not here. 'agniveśa' = agniveśaḥ (visarga dropped before iha).",
+  "new": "GROUPING: the question continues in 123 ('... may be always beneficial in basti-action?'). 'pṛcchati sma' is the present with sma, giving a past sense. 'iti' here (after munim) is read as 'thus', introducing the question; the question ends at 'syāt' in 123, and the 'iti' after punarvasuḥ in 123 goes with praśaśāsa. 'agniveśa' = agniveśaḥ (visarga dropped before iha).",
+  "why": "reviewer (minor): Wrong: 'iti' in 122 (after munim) introduces the question as 'thus'; the question ends at 'syāt' in 123, and 'iti' after punarvasuḥ goes with praśaśāsa. Also the 122 draft's own English closes the quote in 123 without any 'iti'."
+ },
+ {
+  "n": "124",
+  "field": "notes",
+  "old": "'gairāgirī' is not a known name; kept unsplit and unidentified (unidentified). Its femininity is shown by 'hitā'. ikṣvāku = bitter gourd of Lagenaria siceraria (probable). kuṣṭha is read as the skin-disease group, not the drug costus, because 'hitā' goes with a disease context. prameha is rendered as a Sanskrit term (group of urinary disorders, standard).",
+  "new": "'gairāgirī' is not a known name; kept unsplit and unidentified (unidentified). Its femininity is shown by 'hitā'. ikṣvāku = bitter bottle gourd, Lagenaria siceraria (not Momordica; probable). kuṣṭha is read as the skin-disease group, not the drug costus, because 'hitā' goes with a disease context. prameha is rendered as a Sanskrit term (group of urinary disorders, standard).",
+  "why": "reviewer (minor): Confusing: 'bitter gourd' is Momordica; Lagenaria siceraria is the bitter variety of bottle gourd (tiktālābu), which is the standard reading."
+ },
+ {
+  "n": "125",
+  "field": "hindi",
+  "old": "कुटज यानी कुड़ा का फल हृदय के रोग में श्रेष्ठ है, पर कौट फल पाण्डु रोगों में।",
+  "new": "कुटज यानी कुड़ा का फल हृदय के रोग में श्रेष्ठ है, पर कौट फल पाण्डु यानी रक्ताल्पता में।",
+  "why": "reviewer (minor): GLOSSARY: no added रोग; the Sanskrit has only pāṇḍuṣu. Also no modern name in Hindi though English gives 'anaemia'."
+ },
+ {
+  "n": "125",
+  "field": "english",
+  "old": "The fruit of kuṭaja (kurchi) is foremost in heart ailment, but the kauṭa-fruit in pāṇḍu cases (anaemia with pallor).",
+  "new": "The fruit of kuṭaja (kurchi) is foremost in heart ailment, but the kauṭa-fruit in pāṇḍu (anaemia with pallor).",
+  "why": "reviewer (minor): 'cases' is a supplied word (pāṇḍuṣu is just 'in pāṇḍus')."
+ },
+ {
+  "n": "126",
+  "field": "hindi",
+  "old": "उदर में कृतवेधन हितकर है; मदन तो सब रोगों में अविरोधी है।",
+  "new": "उदर में कृतवेधन यानी सम्भवतः तोरई हितकर है; मदन यानी मैनफल तो सब रोगों में अविरोधी है।",
+  "why": "reviewer (minor): Hindi omits the identifications the English gives (policy: Sanskrit name यानी Hindi name, hedged if probable)."
+ },
+ {
+  "n": "127",
+  "field": "english",
+  "old": "Sweet, with astringent and bitter (ones); that is not dry; on a conjectural reading, with pungent, hot (ones), and slimy.",
+  "new": "Sweet, with astringent and bitter (ones); that is not dry; on a conjectural reading, with pungent, hot and slimy (ones).",
+  "why": "reviewer (minor): '(ones)' placed inside the list; it belongs after the whole list for consistency with the first half."
+ },
+ {
+  "n": "129",
+  "field": "english",
+  "old": "Therefore that is held foremost among fruit and the rest, in applications of āsthāpana (decoction enema); thus.",
+  "new": "Therefore that is held foremost among fruit and the rest, in applications of āsthāpana (decoction enema).",
+  "why": "reviewer (minor): GLOSSARY: a closing 'iti' goes to notes, not the translation."
+ },
+ {
+  "n": "129",
+  "field": "hindi",
+  "old": "इसलिए वह फल आदि में आस्थापन के प्रयोगों में श्रेष्ठ माना गया है, ऐसा।",
+  "new": "इसलिए वह फल आदि में आस्थापन के प्रयोगों में श्रेष्ठ माना गया है।",
+  "why": "reviewer (minor): GLOSSARY: a closing 'iti' goes to notes, not the translation."
+ },
+ {
+  "n": "129",
+  "field": "notes",
+  "old": "Closes the answer of Punarvasu. 'phalādiṣu' = among fruit and the rest. āsthāpana is the decoction enema (= nirūha, standard).",
+  "new": "Closes the answer of Punarvasu. 'phalādiṣu' = among fruit and the rest. āsthāpana is the decoction enema (= nirūha, standard). The closing 'iti' (thus) after yojanāsu is left out of the translations per glossary.",
+  "why": "reviewer (minor): GLOSSARY: a closing 'iti' goes to notes, not the translation."
+ },
+ {
+  "n": "129",
+  "field": "word.gram",
+  "word": "phala-ādiṣu",
+  "old": "tat-puruṣa, n. loc. pl.",
+  "new": "tat-puruṣa, m. loc. pl.",
+  "why": "reviewer (minor): ādi is masculine."
+ },
+ {
+  "n": "130",
+  "field": "lines.0.tokens.5.words",
+  "old": [
+   {
+    "w": "vijñāpayām",
+    "gloss": "made known, petitioned",
+    "gram": "periphrastic pf. caus. vi-√jñā"
+   }
+  ],
+  "new": [
+   {
+    "w": "vijñāpayām",
+    "gloss": "made known, petitioned",
+    "gram": "periphrastic pf. (ām) caus. vi-√jñā"
+   },
+   {
+    "w": "babhūva",
+    "gloss": "he did (auxiliary)",
+    "gram": "3 sg. pf. √bhū"
+   }
+  ],
+  "why": "reviewer (error): The word list has only vijñāpayām; babhūva (3 sg. pf. √bhū, the auxiliary of the periphrastic perfect) is missing, so a printed word part is not shown."
+ },
+ {
+  "n": "130",
+  "field": "word.gram",
+  "word": "sthitavati",
+  "old": "pf. act. part. √sthā, m. loc. sg.",
+  "new": "past act. part. (-vat) √sthā, m. loc. sg.",
+  "why": "reviewer (minor): Not a perfect participle: sthitavat is the past active participle in -vat (kta-vatu); the perfect participle would be tasthivas."
+ },
+ {
+  "n": "131",
+  "field": "hindi",
+  "old": "यह अत्यन्त गहन विषय; अन्य शिष्यों के साथ भूमि पर झुका हुआ, आगे अञ्जलि रखकर।",
+  "new": "यह अत्यन्त गहन; अन्य शिष्यों के साथ भूमि पर झुका हुआ, आगे अञ्जलि रखकर।",
+  "why": "reviewer (minor): 'विषय' is a supplied noun; glossary: plain adjective in Hindi for unstated nouns."
+ },
+ {
+  "n": "134",
+  "field": "hindi",
+  "old": "गुरु ने कहा: शरीर का यह जो बाहर या भीतर आश्रित है, वह स्तिमित वायु के वश में है।",
+  "new": "गुरु ने कहा: यह शरीर का, जो बाहर या भीतर आश्रित है, स्तिमित वायु के वश में है।",
+  "why": "reviewer (minor): 'वह' is a supplied resumptive pronoun and 'etat' (this) is not rendered at its place; English is literal."
+ },
+ {
+  "n": "137",
+  "field": "hindi",
+  "old": "जो ये हैं, उनके जन्म में वायु से परे कोई और हेतु नहीं है।",
+  "new": "जो हैं, उनके जन्म में वायु से परे कोई और हेतु नहीं है।",
+  "why": "reviewer (minor): 'ये' misreads 'ye santi' (those which are) as 'these'."
+ },
+ {
+  "n": "138",
+  "field": "english",
+  "old": "For wind (vāyu) is the doer of the scattering and the gathering of the accumulations of faeces, drying (śoṣa), Pitta and so on, (and) wastes (mala).",
+  "new": "For wind (vāyu) is the doer of the scattering and the gathering of the accumulations of wastes (mala): faeces, drying (śoṣa), Pitta and so on.",
+  "why": "reviewer (minor): '(and)' is a supplied word and mala is split from its list; the compound is 'accumulations of the wastes (mala): faeces, śoṣa, Pitta and so on'."
+ },
+ {
+  "n": "143",
+  "field": "hindi",
+  "old": "बस्ति अपने वीर्य से उन्हें खींच लेता है, स्वस्थ सूर्य के भूमि के रसों को खींचने की भाँति।",
+  "new": "बस्ति वीर्य यानी शक्ति से उन्हें खींच लेता है, स्वस्थ सूर्य के भूमि के रसों को खींचने की भाँति।",
+  "why": "reviewer (minor): 'अपने' is added; and Hindi वीर्य ordinarily means semen, so the term needs the pharmacological gloss (same in 144)."
+ },
+ {
+  "n": "144",
+  "field": "hindi",
+  "old": "जो वहाँ औषध का वीर्य है, वह निश्चय ही अपान वायु के द्वारा",
+  "new": "जो वहाँ औषध का वीर्य यानी शक्ति है, वह निश्चय ही अपान वायु के द्वारा",
+  "why": "reviewer (minor): Hindi वीर्य = semen to most readers; needs the gloss."
+ },
+ {
+  "n": "145",
+  "field": "hindi",
+  "old": "पूरा का पूरा शीघ्र ही समान वायु प्राप्त कर लेता है।",
+  "new": "पूर्ण रूप से शीघ्र ही समान वायु प्राप्त कर लेता है।",
+  "why": "reviewer (minor): Emphatic reduplication is added; 'paryāptam' is 'fully'."
+ },
+ {
+  "n": "153",
+  "field": "word.gram",
+  "word": "su-kṛcchrān",
+  "old": "bahuvrīhi, m. acc. pl.",
+  "new": "adj. compound (su-), m. acc. pl.",
+  "why": "reviewer (minor): su- + kṛcchra is not a bahuvrīhi."
+ },
+ {
+  "n": "153",
+  "field": "hindi",
+  "old": "व्याप्त होता हुआ बलपूर्वक अत्यन्त कष्टसाध्य यक्ष्मनों को भी नष्ट करता है।",
+  "new": "व्याप्त होता हुआ बलपूर्वक अत्यन्त कष्टसाध्य यक्ष्मन् यानी क्षय रोगों को भी नष्ट करता है।",
+  "why": "reviewer (minor): GLOSSARY/owner policy: Hindi 'यक्ष्मन् यानी क्षय रोग'. The draft note says 'kept per glossary (not tuberculosis)' which contradicts that line."
+ },
+ {
+  "n": "153",
+  "field": "notes",
+  "old": "Completes 152; 'it' is the basti. 'yakṣmaṇaḥ' is accusative plural in masculine form (yakṣman is neuter; read as 'yakṣmans'). Hindi 'यक्ष्मन्' kept per glossary (not the modern 'tuberculosis').",
+  "new": "Completes 152; 'it' is the basti. 'yakṣmaṇaḥ' is accusative plural in masculine form (yakṣman is neuter; read as 'yakṣmans'). Hindi gives 'यक्ष्मन् यानी क्षय रोग' per glossary (yakṣman = wasting disease, consumption; tuberculosis-type is probable).",
+  "why": "reviewer (minor): GLOSSARY/owner policy: Hindi 'यक्ष्मन् यानी क्षय रोग'. The draft note says 'kept per glossary (not tuberculosis)' which contradicts that line."
+ },
+ {
+  "n": "153",
+  "field": "notes",
+  "old": "Completes 152; 'it' is the basti. 'yakṣmaṇaḥ' is accusative plural in masculine form (yakṣman is neuter; read as 'yakṣmans'). Hindi gives 'यक्ष्मन् यानी क्षय रोग' per glossary (yakṣman = wasting disease, consumption; tuberculosis-type is probable).",
+  "new": "Completes 152; 'it' is the basti. 'yakṣmaṇaḥ' is accusative plural in masculine form (taken as masculine, agreeing with 'sukṛcchrān'). Hindi gives 'यक्ष्मन् यानी क्षय रोग' per glossary (yakṣman = wasting disease, consumption; tuberculosis-type is probable).",
+  "why": "reviewer (minor): GLOSSARY/owner policy: Hindi 'यक्ष्मन् यानी क्षय रोग'. The draft note says 'kept per glossary (not tuberculosis)' which contradicts that line."
+ },
+ {
+  "n": "155",
+  "field": "english",
+  "old": "And having cleansed within the channel (srotas), it would make the doṣas, tejas (brilliance), and the brightness of semen (śukra), body and digestive fire (agni); thus.",
+  "new": "And having cleansed within the channel (srotas), it would make the doṣas, tejas (brilliance), and the brightness of semen (śukra), body and digestive fire (agni).",
+  "why": "reviewer (minor): GLOSSARY: closing 'iti' goes to notes."
+ },
+ {
+  "n": "155",
+  "field": "hindi",
+  "old": "और स्रोत के भीतर शुद्ध करके, दोषों, तेज, शुक्र, देह और अग्नि की दीप्ति करे, ऐसा।",
+  "new": "और स्रोत के भीतर शुद्ध करके, दोषों, तेज, शुक्र, देह और अग्नि की दीप्ति करे।",
+  "why": "reviewer (minor): GLOSSARY: closing 'iti' goes to notes."
+ }
+]

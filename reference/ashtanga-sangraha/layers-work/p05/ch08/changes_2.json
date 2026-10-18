@@ -1,0 +1,249 @@
+[
+ {
+  "n": "51",
+  "field": "english",
+  "old": "The middle dose of the niryāsa (expressed juice) is four palas (pala: a unit of weight).",
+  "new": "The middle dose of the niryāsa (expressed juice) is, on a conjectural reading, four palas (pala: a unit of weight).",
+  "why": "reviewer (error): The dose rests on a joined, conjectured reading (ca tuṣpalaṃ = catuṣpalam) yet is stated as fact in both translations; glossary rule for conjectural readings requires the hedge in the translation."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "निर्यास यानी निचोड़े हुए रस की मध्यम मात्रा चार पल है।",
+  "new": "निर्यास यानी निचोड़े हुए रस की मध्यम मात्रा सम्भवतः चार पल है।",
+  "why": "reviewer (error): The dose rests on a joined, conjectured reading (ca tuṣpalaṃ = catuṣpalam) yet is stated as fact in both translations; glossary rule for conjectural readings requires the hedge in the translation."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "Of kalka (paste) and cūrṇa (powder), one karṣa (a unit of weight); three palas for stirring it.",
+  "new": "Of kalka (paste) and cūrṇa (powder), a karṣa (a unit of weight); three palas for stirring it.",
+  "why": "reviewer (minor): 'one' is a supplied numeral (karṣaḥ is simply 'a karṣa'; glossary: no supplied numerals)."
+ },
+ {
+  "n": "53",
+  "field": "word.gram",
+  "word": "udaka-ardha-prasthe",
+  "old": "bahuvrīhi, m. loc. sg.",
+  "new": "tat-puruṣa, loc. sg.",
+  "why": "reviewer (minor): Labelled bahuvrīhi; 'half a prastha of water' is a tat-puruṣa (udaka + ardha-prastha), not a bahuvrīhi."
+ },
+ {
+  "n": "53",
+  "field": "word.gram",
+  "word": "śīta-phāṇṭayoḥ",
+  "old": "dvandva, m. loc. du.",
+  "new": "dvandva, gen. du. (or loc. du.)",
+  "why": "reviewer (minor): Labelled loc. du., but the sense is genitive ('of śīta and phāṇṭa', cf. kalka-cūrṇayoḥ in unit 52); the form is ambiguous. Gender not stated in the text."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "निर्यूह यानी काढ़े में: एक पल औषध को आधे प्रस्थ जल में चढ़ाकर चौथाई शेष रहने पर उतार ले। शीत और फाण्ट में: औषध का एक पल छह और चार पल जल से भिगोया हुआ।",
+  "new": "निर्यूह यानी काढ़े में: एक पल औषध को आधे प्रस्थ जल में चढ़ाकर चौथाई शेष रहने पर उतार ले। शीत यानी ठण्डे अर्क और फाण्ट यानी गरम अर्क में: औषध का एक पल छह और चार पल जल से भिगोया हुआ।",
+  "why": "reviewer (minor): English glosses śīta and phāṇṭa, the Hindi leaves them unexplained (policy: Sanskrit term यानी modern name). Both identifications are standard (cold and hot infusion)."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "अन्य लोग फिर पढ़ते हैं।",
+  "new": "अन्य फिर पढ़ते हैं।",
+  "why": "reviewer (minor): 'लोग' is an added noun; anye is only 'others'."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "When the sneha is being cooked: with plain water, decoction and expressed juice (svarasa), in order.",
+  "new": "When the sneha is being cooked: with pure water, decoction and expressed juice (svarasa), in order.",
+  "why": "reviewer (minor): śuddha is 'pure'; 'plain' is an interpretation (Hindi already says शुद्ध)."
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "pañca-prabhṛti",
+  "old": "n. nom. sg. (adverbial)",
+  "new": "'five onward' (prabhṛti 'beginning with'); adjective of drava or adverbial",
+  "why": "reviewer (minor): 'n. nom. sg. (adverbial)' is not a sound label: prabhṛti ends the compound in the sense 'beginning with', five and onward; it qualifies the liquids or works adverbially."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "पाँच से आगे होने पर, द्रव को अलग से, स्नेह के बराबर ही डालना चाहिए।",
+  "new": "पाँच से आगे, द्रव को अलग से, स्नेह के बराबर ही डालना चाहिए।",
+  "why": "reviewer (minor): 'होने पर' supplies a verb the Sanskrit does not have."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "वहाँ, जब ध्वनि बन्द हो जाए, स्नेह स्वच्छता को प्राप्त हो, अपने-अपने रंग, गन्ध और रस की प्राप्ति हो, और औषध को दो अंगुलियों से पकड़ने पर वह न अधिक मृदु और न अधिक कठोर हो तथा अंगुलियों से चिपके नहीं, तब वह उसे उतारने का समय है।",
+  "new": "वहाँ, जब ध्वनि बन्द हो जाए, स्नेह स्वच्छता को प्राप्त हो, अपने-अपने रंग, गन्ध और रस की प्राप्ति हो, और औषध को दो अंगुलियों से पकड़ने पर वह अनुमानित पाठ के अनुसार न अधिक मृदु और न अधिक कठोर हो तथा अंगुलियों से चिपके नहीं, तब वह उसे उतारने का समय है।",
+  "why": "reviewer (minor): English marks the emended reading mṛdv-anati-; Hindi does not. Use a hedge word, no brackets."
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "The 'sound' is not further defined. 'āpyate' is a passive form with an accusative ('prasādam'); read as 'the sneha reaches clarity'. 'bhaiṣajyam' is the medicine in the pan (the paste), the object judged by the finger test. The reading 'neither too soft nor too hard' rests on the emendation in text_flags. Orthographic note: 'anaṅguli-' is written with anusvara in the print.",
+  "new": "The 'sound' is not further defined. 'āpyate' is a passive form with an accusative ('prasādam'); read as 'the sneha reaches clarity'. 'bhaiṣajyam' is the medicine (not further defined; the kalka is the natural referent), the object judged by the finger test. The reading 'neither too soft nor too hard' rests on the emendation in text_flags. Orthographic note: 'anaṅguli-' is written with anusvara in the print.",
+  "why": "reviewer (minor): Note identifies bhaiṣajyam as 'the paste' in the pan; the text only says 'medicine' (inference, not in the Sanskrit)."
+ },
+ {
+  "n": "66",
+  "field": "word.gram",
+  "word": "marīciḥ",
+  "old": "m. nom. sg.",
+  "new": "nom. sg. (f.? cf. tāḥ in unit 67)",
+  "why": "reviewer (minor): Labelled m., but unit 67 refers back with feminine tāḥ ('those' marīcis); marīci is both m. and f. Gender is not settled by the text."
+ },
+ {
+  "n": "66",
+  "field": "english",
+  "old": "As for measure, again: six aṃśya are one marīci (a minute unit of measure).",
+  "new": "As for measure, again: six aṃśya are a marīci (a minute unit of measure).",
+  "why": "reviewer (minor): DECISION on the copula in measure equations (units 66-70, 84-85): English 'are/is' and Hindi 'हैं/है' are accepted, since neither language can state an equation without it and the notes already say 'copula understood'. But 'one' is a supplied numeral where Sanskrit has the singular only; use the article."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "Those six are one sarṣapa (mustard seed; here a unit of measure).",
+  "new": "Those six are a sarṣapa (mustard seed; here a unit of measure).",
+  "why": "reviewer (minor): 'one' supplied; use the article."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "Those eight are one taṇḍula (rice grain; here a unit of measure).",
+  "new": "Those eight are a taṇḍula (rice grain; here a unit of measure).",
+  "why": "reviewer (minor): 'one' supplied; use the article."
+ },
+ {
+  "n": "69",
+  "field": "english",
+  "old": "Those two are one dhānyamāṣa (a small unit of weight; literally 'grain-māṣa').",
+  "new": "Those two are a dhānyamāṣa (a small unit of weight; literally 'grain-māṣa').",
+  "why": "reviewer (minor): 'one' supplied; use the article."
+ },
+ {
+  "n": "70",
+  "field": "english",
+  "old": "Those two are one yava (barley; here a unit of measure).",
+  "new": "Those two are a yava (barley; here a unit of measure).",
+  "why": "reviewer (minor): 'one' supplied; use the article."
+ },
+ {
+  "n": "71",
+  "field": "word.gram",
+  "word": "catur-guṇa-vṛddhyā",
+  "old": "m. inst. sg.",
+  "new": "f. inst. sg.",
+  "why": "reviewer (error): vṛddhi is feminine; 'm. inst. sg.' is wrong."
+ },
+ {
+  "n": "71",
+  "field": "english",
+  "old": "After this, by fourfold increase, the aṇḍikā, māṣaka, śāṇa, karṣa, pala, kuḍava, prastha, āḍhaka, droṇa and vaha are reckoned.",
+  "new": "After this, by fourfold increase, the aṇḍikā, māṣaka and śāṇa (on a conjectural reading), karṣa, pala, kuḍava, prastha, āḍhaka, droṇa and vaha are reckoned.",
+  "why": "reviewer (minor): The restoration of printed 'maṣākaṣāṇa' to māṣaka-śāṇa is conjectural, but the translations present both names as certain (glossary: mark conjectural readings in the translation)."
+ },
+ {
+  "n": "71",
+  "field": "hindi",
+  "old": "इसके बाद चार गुना वृद्धि से अण्डिका, माषक, शाण, कर्ष, पल, कुडव, प्रस्थ, आढक, द्रोण और वह माने जाते हैं।",
+  "new": "इसके बाद चार गुना वृद्धि से अण्डिका, अनुमानित पाठ के अनुसार माषक, शाण, कर्ष, पल, कुडव, प्रस्थ, आढक, द्रोण और वह माने जाते हैं।",
+  "why": "reviewer (minor): The restoration of printed 'maṣākaṣāṇa' to māṣaka-śāṇa is conjectural, but the translations present both names as certain (glossary: mark conjectural readings in the translation)."
+ },
+ {
+  "n": "75",
+  "field": "english",
+  "old": "Of the karṣa: suvarṇa, akṣa, picu, biḍālapadaka (cat's-foot), pāṇitala (palm of the hand), tinduka, kavalagraha (mouthful) and ṣoḍaśikā.",
+  "new": "Of the karṣa: suvarṇa, akṣa, picu, biḍālapadaka (cat's-foot), pāṇitala (palm of the hand), tinduka, kavalagraha (mouthful-grasp) and ṣoḍaśikā.",
+  "why": "reviewer (minor): graha is 'grasp' (glossary); the gloss drops it."
+ },
+ {
+  "n": "77",
+  "field": "word.gram",
+  "word": "palasya",
+  "old": "m. gen. sg.",
+  "new": "gen. sg.",
+  "why": "reviewer (minor): Gender 'm.' stated; pala is n. in this chapter (palam, units 52, 53) and m./n. in lexica. Do not state gender."
+ },
+ {
+  "n": "87",
+  "field": "english",
+  "old": "In the dry (thing) to be measured, this is the measure; but double in the liquid and the moist (ones).",
+  "new": "In what is to be measured dry, this is the measure; but double in the liquid and the moist (ones).",
+  "why": "reviewer (minor): '(thing)' is a supplied noun; meya is itself a noun ('what is to be measured')."
+ },
+ {
+  "n": "87",
+  "field": "hindi",
+  "old": "सूखी मापने योग्य वस्तु में यह माप है; द्रव और आर्द्र में दुगुना।",
+  "new": "मापे जाने वाले सूखे में यह माप है; द्रव और आर्द्र में दुगुना।",
+  "why": "reviewer (minor): 'वस्तु' is an added noun; Hindi should use a plain adjective (glossary)."
+ },
+ {
+  "n": "89",
+  "field": "notes",
+  "old": "",
+  "new": "The sentence appears to continue from the previous unit (vāri 'water' may be the object of kalpayet, 'in equal portions'); the two units are kept separate and no verse pairing is claimed.",
+  "why": "reviewer (minor): Sentence runs across units: 88 (vāri ... snehapāke ca nirdrave) and 89 (kalpayet sadṛśān bhāgān pramāṇaṃ yatra noditaṃ) appear to continue each other (vāri may be the object of kalpayet, 'water in equal portions'). Not claimed as verse pairing."
+ },
+ {
+  "n": "90",
+  "field": "word.gram",
+  "word": "anirdiṣṭa-prasiddheṣu",
+  "old": "dvandva, loc. pl.",
+  "new": "two adjectives in compound (type uncertain), loc. pl.",
+  "why": "reviewer (minor): 'dvandva' is wrong or at least unlikely for two participial adjectives; the compound type is unknown because the reading is doubtful."
+ },
+ {
+  "n": "92",
+  "field": "word.gram",
+  "word": "kalka-same",
+  "old": "bahuvrīhi, m. loc. sg.",
+  "new": "bahuvrīhi, loc. sg.",
+  "why": "reviewer (minor): Gender stated m., while madana-upame says n.; the two agree with the same kiṭṭe and locative -e is identical in both genders."
+ },
+ {
+  "n": "92",
+  "field": "word.gram",
+  "word": "madana-upame",
+  "old": "bahuvrīhi, n. loc. sg.",
+  "new": "bahuvrīhi, loc. sg.",
+  "why": "reviewer (minor): Gender stated m., while madana-upame says n.; the two agree with the same kiṭṭe and locative -e is identical in both genders."
+ },
+ {
+  "n": "93",
+  "field": "english",
+  "old": "The last one, however, when (it) sinks a little and blackness is present.",
+  "new": "The last one, however, when (it) sinks a little and is black.",
+  "why": "reviewer (minor): Adds an abstract noun; kṛṣṇe is the adjective 'black' with vartamāne ('being')."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "अन्तिम वह, जब थोड़ा बैठे और कालापन हो।",
+  "new": "अन्तिम वह, जब थोड़ा बैठता है और काला रहता है।",
+  "why": "reviewer (minor): Adds an abstract noun; kṛṣṇe is the adjective 'black' with vartamāne ('being')."
+ },
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "'The last' is the third kind, khara-cikkaṇa, of unit 91. The unstated subject of 'sīdati' is the residue of the previous unit. 'kṛṣṇe ca vartamāne' is read as a locative absolute ('and when black is present'). Orthography: 'varttamāne' of the print is normalised to 'vartamāne' in w (doubled -rtt- to -rt-).",
+  "new": "'The last' is the third kind, khara-cikkaṇa, of unit 91. The unstated subject of 'sīdati' is the residue of the previous unit. 'kṛṣṇe ca vartamāne' is read as a locative absolute ('and when it is black'). Orthography: 'varttamāne' of the print is normalised to 'vartamāne' in w (doubled -rtt- to -rt-).",
+  "why": "reviewer (minor): Adds an abstract noun; kṛṣṇe is the adjective 'black' with vartamāne ('being')."
+ },
+ {
+  "n": "97",
+  "field": "hindi",
+  "old": "उनमें पहली सौम्य यानी सोम स्वभाव वाली और पथ्य है; विन्ध्य की औषध आग्नेय यानी अग्नि स्वभाव वाली है।",
+  "new": "उनमें पहला सौम्य यानी सोम स्वभाव वाला और पथ्य है; विन्ध्य की औषध आग्नेय यानी अग्नि स्वभाव वाली है।",
+  "why": "reviewer (minor): ādyam is neuter and no noun is stated; feminine 'पहली' and 'वाली' imply an unstated feminine noun. Use plain masculine adjective."
+ },
+ {
+  "n": "99",
+  "field": "notes",
+  "old": "GROUPING: this is the colophon of the whole fifth part, not a verse; it is typed as a verse in the input. The part is called Kalpasiddhisthāna here (kalpa, siddhi, sthāna), which this study calls Part 5 (Kalpasthāna). The name Vāgbhaṭa is given with the honorific 'ācārya' (teacher), and the author as the son of Siṃhagupta, as the print says; nothing further is added.",
+  "new": "GROUPING: this is the colophon of the whole fifth part, not a verse; it is typed as a verse in the input. The part is called Kalpasiddhisthāna here (kalpa, siddhi, sthāna), which this study calls Part 5 (Kalpasthāna). The name Vāgbhaṭa is given with the honorific 'ācārya' (teacher), and the author as the son of Siṃhagupta, as the print says; nothing further is added. The printed title Kalpasiddhisthāna is probably the genuine title of the fifth sthāna of this work (which has Kalpa and Siddhi chapters in one sthāna); the study's label 'Kalpasthāna' is shorthand.",
+  "why": "reviewer (minor): OBSERVATION: the printed colophon is probably right, not a slip: in the Aṣṭāṅga Saṅgraha the fifth sthāna is Kalpasiddhi (six sthānas: Sūtra, Śārīra, Nidāna, Cikitsā, Kalpasiddhi, Uttara). The study's label 'Part 5 (Kalpasthāna)' is shorthand for its Kalpa chapters."
+ }
+]

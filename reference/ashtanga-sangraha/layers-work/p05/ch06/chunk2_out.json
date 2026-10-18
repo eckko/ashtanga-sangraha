@@ -1,0 +1,2451 @@
+[
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snigdhasvinne",
+      "words": [
+       {
+        "w": "snigdha-svinne",
+        "gloss": "oiled; sweated",
+        "gram": "ppp., m. loc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "mahādoṣe",
+      "words": [
+       {
+        "w": "mahā-doṣe",
+        "gloss": "great; doṣa",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastirmṛdvalpabheṣajaḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "mṛdu-alpa-bheṣajaḥ",
+        "gloss": "mild; little; drug (bheṣaja)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्निग्ध और स्वेदित में, महान् दोष होने पर, मृदु और अल्प औषध वाली बस्ति",
+  "english": "In (one) who is oiled and sweated, when the doṣa is great, a basti (enema) that is mild and has little drug.",
+  "text_flags": [],
+  "notes": "GROUPING: units 42 to 45 read as one statement about a mild basti with little drug: 42 gives the conditions, the verbs are in 43 (haret, janayet), and 44-45 give the signs. The subject basti is carried to 43 and no verb is supplied here. 'snigdhasvinne' is taken as a locative 'in (one) oiled and sweated'; it could also be read as a locative absolute with 'mahādoṣe'. 'mṛdu' and 'alpabheṣaja' are taken as two adjectives of the basti.",
+  "confidence": "high"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "utklaiśyālpaṃ",
+      "words": [
+       {
+        "w": "utkleśya",
+        "gloss": "having stirred up (ut-kleśa)",
+        "gram": "abs. ut-√kliś, caus."
+       },
+       {
+        "w": "alpam",
+        "gloss": "little",
+        "gram": "m. acc. sg., agrees with doṣam"
+       }
+      ]
+     },
+     {
+      "src": "hareddoṣaṃ",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "would remove",
+        "gram": "3 sg. pot. √hṛ"
+       },
+       {
+        "w": "doṣam",
+        "gloss": "doṣa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayecca",
+      "words": [
+       {
+        "w": "janayet",
+        "gloss": "would produce",
+        "gram": "3 sg. pot. caus. √jan"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravāhikāṃ",
+      "words": [
+       {
+        "w": "pravāhikām",
+        "gloss": "pravāhikā (dysentery with straining; standard)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोष को उभारकर थोड़ा दोष निकालेगी और प्रवाहिका यानी पेचिश उत्पन्न करेगी।",
+  "english": "Having stirred up the doṣa, (it) would remove a little doṣa and would produce pravāhikā (dysentery with straining).",
+  "text_flags": [
+   {
+    "src": "utklaiśyālpaṃ",
+    "suggest": "utkleśyālpaṃ",
+    "why": "possible: 'utklaiśya' is not a regular form; the gerund of ut-√kliś (causative) is 'utkleśya'; 'ai' is probably a printing slip for 'e' (metre unchanged)"
+   }
+  ],
+  "notes": "Continues 42 (subject basti, 'it'). Modern equivalent: pravāhikā = dysentery with painful straining at stool (standard). 'alpam' agrees with 'doṣam' (a little doṣa).",
+  "confidence": "medium"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śopho",
+      "words": [
+       {
+        "w": "śophaḥ",
+        "gloss": "swelling (śopha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastāvapāne",
+      "words": [
+       {
+        "w": "bastau",
+        "gloss": "basti (bladder, lower belly)",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "apāne",
+        "gloss": "apāna (anus)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadanaṃ",
+      "words": [
+       {
+        "w": "sadanam",
+        "gloss": "sinking, weakness (sadana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "corujaṃghayoḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ūru-jaṅghayoḥ",
+        "gloss": "thigh; shank",
+        "gram": "dvandva, f./n. loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्ति और अपान में शोफ यानी सूजन, और जाँघों तथा पिंडलियों में सदन यानी शिथिलता।",
+  "english": "Swelling (śopha) in the basti (bladder, lower belly) and in the apāna (anus), and sinking (sadana, weakness) in the thighs and shanks.",
+  "text_flags": [],
+  "notes": "Elliptical: the verb 'janayet' of 43 is carried over and none is supplied. 'basti' here is the organ (bladder, lower belly), not the enema. 'apāna' is taken as the anal region; the other sense, the downward wind (apāna), is possible. Modern equivalents: śopha = swelling, oedema (standard); sadana = sinking, lassitude, weakness (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vibaddhamāruto",
+      "words": [
+       {
+        "w": "vibaddha-mārutaḥ",
+        "gloss": "obstructed; wind (māruta)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṃturbhīkṣṇaṃ",
+      "words": [
+       {
+        "w": "jantuḥ",
+        "gloss": "being, creature (jantu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhīkṣṇam",
+        "gloss": "repeatedly",
+        "gram": "ind., adv."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravāhate",
+      "words": [
+       {
+        "w": "pravāhate",
+        "gloss": "strains",
+        "gram": "3 sg. pres. mid. pra-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी वायु रुकी हुई है, वह प्राणी बार-बार जोर लगाता है।",
+  "english": "The being (jantu) whose wind is obstructed strains repeatedly.",
+  "text_flags": [
+   {
+    "src": "jaṃturbhīkṣṇaṃ",
+    "suggest": "jaṃtur abhīkṣṇaṃ",
+    "why": "possible: 'bhīkṣṇa' is not a word; the initial a of 'abhīkṣṇam' (repeatedly) seems lost; this fits the sense and gives the 16 syllables of the half-verse"
+   }
+  ],
+  "notes": "Completes the statement of 42-45. 'pravāhate' is the verb that gives pravāhikā its name: straining, as at stool. 'jantu' is a being, a creature; it is kept literal.",
+  "confidence": "medium"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svedābhyaṃgānnirūhāṃśca",
+      "words": [
+       {
+        "w": "sveda-abhyaṅgān",
+        "gloss": "sweating; anointing (abhyaṅga)",
+        "gram": "dvandva, m. acc. pl."
+       },
+       {
+        "w": "nirūhān",
+        "gloss": "nirūha (decoction enema)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śodhanīyānulomikān",
+      "words": [
+       {
+        "w": "śodhanīya-ānulomikān",
+        "gloss": "cleansing (śodhanīya); following the natural direction (ānulomika)",
+        "gram": "m. acc. pl., adjectives"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वेदन, अभ्यंग और निरूह, जो शोधनीय यानी शोधन करने वाले और अनुलोमिक यानी अनुलोम गति वाले हों,",
+  "english": "Sweatings (sveda), anointings (abhyaṅga) and nirūhas (decoction enemas), cleansing (śodhanīya) and ānulomika (following the natural direction) (ones),",
+  "text_flags": [],
+  "notes": "GROUPING: 46 and 47 form one statement (verb vidadhyāt in 47), and follow 42-45. The adjectives 'śodhanīyānulomikān' agree with all three accusatives (all masculine); whether they qualify only the nirūhas is not decided. The printed 'śodhanīyānulomikān' may be śodhanīya-ānulomikān (as read) or śodhanīya-anulomikān; ānulomika is kept as in the earlier chunk.",
+  "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidadhyāllaṃghayitvā",
+      "words": [
+       {
+        "w": "vidadhyāt",
+        "gloss": "one should prescribe",
+        "gram": "3 sg. pot. vi-√dhā"
+       },
+       {
+        "w": "laṅghayitvā",
+        "gloss": "having subjected to laṅghana (lightening, fasting)",
+        "gram": "abs. caus. √laṅgh"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛttitasya",
+      "words": [
+       {
+        "w": "vṛttim",
+        "gloss": "regimen (vṛtti)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "viriktavat",
+      "words": [
+       {
+        "w": "virikta-vat",
+        "gloss": "like one purged",
+        "gram": "ind., -vat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विधान करे; और लंघन यानी उपवास कराकर उसकी वृत्ति यानी आचरण विरेचन किए हुए के समान रखे।",
+  "english": "One should prescribe, and, having subjected (him) to laṅghana (lightening, fasting), (prescribe) his regimen (vṛtti) like that of one purged.",
+  "text_flags": [
+   {
+    "src": "vṛttitasya",
+    "suggest": "vṛttiṃ tasya",
+    "why": "possible: the printed word has no ending for 'vṛtti' as the object of 'vidadhyāt'; 'vṛttiṃ tasya' (his regimen) fits the sense and the 16 syllables; 'vṛttis tasya' (nominative, verb understood) is the other possibility"
+   }
+  ],
+  "notes": "Completes 46. 'viriktavat' is 'as for one who has been purged'. 'laṅghana' is kept as a term (lightening by fasting). The second 'prescribe' is implied by the accusative 'vṛttim'; the reading rests on the possible correction in text_flags.",
+  "confidence": "medium"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ku~rvaṃto",
+      "words": [
+       {
+        "w": "kurvan",
+        "gloss": "making, causing",
+        "gram": "pres. part. √kṛ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vegasaṃrodhaṃ",
+      "words": [
+       {
+        "w": "vega-saṃrodham",
+        "gloss": "urge; holding back",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pīḍito",
+      "words": [
+       {
+        "w": "pīḍitaḥ",
+        "gloss": "pressed, squeezed",
+        "gram": "ppp. √pīḍ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'timātrayā",
+      "words": [
+       {
+        "w": "ati-mātrayā",
+        "gloss": "excess; measure (quantity)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेग का संरोध यानी रोकना करता हुआ, अथवा अतिमात्रा से पीड़ित,",
+  "english": "Causing holding back (saṃrodha) of the urge (vega), or pressed by excess quantity,",
+  "text_flags": [
+   {
+    "src": "ku~rvaṃto",
+    "suggest": "kurvan",
+    "why": "possible: the print has a stray tilde (ku~r) and the plural 'kurvanto' does not agree with the singular basti of 49; 'kurvan' is expected, but 'kurvanto' fits the 16 syllables, so this is only suspected"
+   }
+  ],
+  "notes": "GROUPING: 48-51 form one statement about a basti that is thrown upward; the subject is the basti named in 49 ('bastiḥ'), the verb 'nireti' is in 51. Subject and sense of 'pīḍita' are not stated: 'pressed, squeezed' (the basti pressed by excess quantity) is taken; 'afflicted' (the patient) is the other possibility. 'vegasaṃrodha' is the holding back of a natural urge; which urge is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnigdhalavaṇoṣṇo",
+      "words": [
+       {
+        "w": "a-snigdha-lavaṇa-uṣṇaḥ",
+        "gloss": "not; unctuous; salt; hot",
+        "gram": "bahuvrīhi (a- governing all), m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastiralpo",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'lpabheṣajaḥ",
+      "words": [
+       {
+        "w": "alpa-bheṣajaḥ",
+        "gloss": "little; drug",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अस्निग्ध, नमक और गर्मी से रहित, अल्प और अल्प औषध वाली बस्ति,",
+  "english": "Or a basti lacking unctuousness, salt (lavaṇa) and heat, small, with little drug,",
+  "text_flags": [
+   {
+    "src": "agnigdhalavaṇoṣṇo",
+    "suggest": "asnigdhalavaṇoṣṇo",
+    "why": "possible: 'agnigdha' is not a word; 'asnigdha' (not unctuous) is the likely word, 's' and 'g' being easily confused in the print"
+   }
+  ],
+  "notes": "Continues 48. The compound is read with a- governing all three members (without unctuousness, salt and heat), as in the list of 'little oil, salt, drug' defects of chapter unit 6; the alternative is only snigdha negated ('not unctuous, (but) salty and hot'). The reading is not firm.",
+  "confidence": "medium"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛdurvā",
+      "words": [
+       {
+        "w": "mṛduḥ",
+        "gloss": "mild",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mārutenordhvaṃ",
+      "words": [
+       {
+        "w": "mārutena",
+        "gloss": "by the wind (māruta)",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind., adv."
+       }
+      ]
+     },
+     {
+      "src": "vikṣipto",
+      "words": [
+       {
+        "w": "vikṣiptaḥ",
+        "gloss": "thrown",
+        "gram": "ppp. vi-√kṣip, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhanāsikāt",
+      "words": [
+       {
+        "w": "mukha-nāsikāt",
+        "gloss": "mouth; nose",
+        "gram": "dvandva, n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मृदु, वायु द्वारा ऊपर की ओर फेंकी गई, मुख और नासिका से,",
+  "english": "Or mild, thrown upward by the wind, from the mouth and nose,",
+  "text_flags": [],
+  "notes": "Continues 48-49; the verb 'nireti' is in 51, and the subject is the basti of 49.",
+  "confidence": "high"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nireti",
+      "words": [
+       {
+        "w": "niḥ-eti",
+        "gloss": "comes out",
+        "gram": "3 sg. pres. niḥ-√i"
+       }
+      ]
+     },
+     {
+      "src": "mūrcchāhṛllāsatṛḍadāhādīnpravarttayan",
+      "words": [
+       {
+        "w": "mūrcchā-hṛllāsa-tṛṭ-dāha-ādīn",
+        "gloss": "fainting; nausea; thirst; burning; and others",
+        "gram": "dvandva, m. acc. pl."
+       },
+       {
+        "w": "pravartayan",
+        "gloss": "producing",
+        "gram": "pres. part. pra-√vṛt caus., m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बाहर निकलती है, मूर्च्छा, हृल्लास यानी मिचली, प्यास, दाह आदि को उत्पन्न करती हुई।",
+  "english": "(It) comes out, producing fainting (mūrcchā), nausea (hṛllāsa), thirst, burning (dāha) and the others.",
+  "text_flags": [
+   {
+    "src": "mūrcchāhṛllāsatṛḍadāhādīnpravarttayan",
+    "suggest": "mūrcchāhṛllāsatṛḍdāhādīnpravarttayan",
+    "why": "possible: the extra 'a' in 'tṛḍadāha' breaks the sandhi of tṛṭ + dāha (tṛḍdāha) and makes the half-verse 17 instead of 16 syllables"
+   }
+  ],
+  "notes": "Completes 48-51. The print writes 'pravarttayan' with doubled t, normalised to 'pravartayan' (recorded once for the chunk). Modern equivalents: mūrcchā = fainting, swoon (standard); hṛllāsa = nausea (standard); dāha = burning sensation (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūrcchāvikāraṃ",
+      "words": [
+       {
+        "w": "mūrcchā-vikāram",
+        "gloss": "fainting; disorder",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā'sya",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "siṃcecchītāṃbunā",
+      "words": [
+       {
+        "w": "siñcet",
+        "gloss": "one should sprinkle",
+        "gram": "3 sg. pot. √sic"
+       },
+       {
+        "w": "śīta-ambunā",
+        "gloss": "cold; water",
+        "gram": "karmadhāraya, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhaṃ",
+      "words": [
+       {
+        "w": "mukham",
+        "gloss": "face",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसकी मूर्च्छा के विकार को देखकर शीतल जल से मुख को सींचे।",
+  "english": "Having seen his disorder (vikāra) of fainting, one should sprinkle the face with cold water.",
+  "text_flags": [],
+  "notes": "'asya' is taken as 'his', going with the fainting and the face.",
+  "confidence": "high"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyajedāklamanāśācca",
+      "words": [
+       {
+        "w": "vyajet",
+        "gloss": "one should fan",
+        "gram": "3 sg. pot. √vyaj (denom. of vyajana)"
+       },
+       {
+        "w": "āklama-nāśāt",
+        "gloss": "exhaustion (āklama); destruction",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāṇāyāmaṃ",
+      "words": [
+       {
+        "w": "prāṇāyāmam",
+        "gloss": "prāṇāyāma (breath control)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "one should cause to do",
+        "gram": "3 sg. pot. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आक्लम यानी थकावट के नाश तक पंखा झले और प्राणायाम कराए।",
+  "english": "One should fan (him) until the destruction of the exhaustion (āklama), and should make (him) do prāṇāyāma (breath control).",
+  "text_flags": [],
+  "notes": "'vyajet' is read as 'should fan' (from vyajana, a fan; probable, the verb is rare). 'āklamanāśāt' is an ablative, here 'up to the destruction of exhaustion'. The person fanned is not named.",
+  "confidence": "medium"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛṣṭhapārśvodaraṃ",
+      "words": [
+       {
+        "w": "pṛṣṭha-pārśva-udaram",
+        "gloss": "back; side; belly",
+        "gram": "dvandva, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdyātkarairuṣṇairadhomukhaṃ",
+      "words": [
+       {
+        "w": "mṛdyāt",
+        "gloss": "one should knead",
+        "gram": "3 sg. pot. √mṛd"
+       },
+       {
+        "w": "karaiḥ",
+        "gloss": "with hands",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "uṣṇaiḥ",
+        "gloss": "hot",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "adhaḥ-mukham",
+        "gloss": "face downward",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीठ, पार्श्व और उदर को गर्म हाथों से मसले, मुख नीचे की ओर करके।",
+  "english": "One should knead the back, sides and belly with hot hands, (him) face downward.",
+  "text_flags": [],
+  "notes": "The person is not named. 'adhomukham' is taken as describing the person (face downward); it cannot agree with the neuter 'udaram' in a sensible way. Continues the treatment of the fainting in 52-53.",
+  "confidence": "medium"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "keśeṣvākṣipya",
+      "words": [
+       {
+        "w": "keśeṣu",
+        "gloss": "in the hair",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "ākṣipya",
+        "gloss": "having pulled",
+        "gram": "abs. ā-√kṣip"
+       }
+      ]
+     },
+     {
+      "src": "dhunvīta",
+      "words": [
+       {
+        "w": "dhunvīta",
+        "gloss": "one should shake",
+        "gram": "3 sg. pot. mid. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "bhīṣayedvyāḻadaṃṣṭribhiḥ",
+      "words": [
+       {
+        "w": "bhīṣayet",
+        "gloss": "one should frighten",
+        "gram": "3 sg. pot. caus. √bhī"
+       },
+       {
+        "w": "vyāla-daṃṣṭribhiḥ",
+        "gloss": "vyāla (snake or savage beast); fanged (ones)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बालों में खींचकर हिलाए और व्याल यानी सर्प या हिंसक पशुओं तथा दाढ़ वालों से डराए।",
+  "english": "Having pulled (him) by the hair, one should shake (him) and frighten (him) with vyāla (snakes or savage beasts) and fanged (ones).",
+  "text_flags": [],
+  "notes": "The print writes 'vyāḻa' with ḻ; normalised to 'vyāla' (recorded once for the chunk; the same ḻ appears for l elsewhere in the print). 'vyāla' is a snake or a savage beast; 'daṃṣṭrin' is a fanged or tusked animal; the compound is read as a pair. Continues 52-54 (the person is not named).",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śastrolkārājapuruṣairbastireti",
+      "words": [
+       {
+        "w": "śastra-ulkā-rāja-puruṣaiḥ",
+        "gloss": "weapon; firebrand (ulkā); king; men",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyadhaḥ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "downward",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शस्त्रों, उल्का यानी जलती लकड़ी और राजपुरुषों से; क्योंकि इस प्रकार बस्ति नीचे जाती है।",
+  "english": "With weapons, firebrands (ulkā) and the king's men (rāja-puruṣa); for thus the basti goes downward.",
+  "text_flags": [],
+  "notes": "Continues 55 (verb bhīṣayet). 'ulkā' is a firebrand or torch (it also means meteor). 'rāja-puruṣa' is a king's man, an officer or soldier.",
+  "confidence": "high"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṇivastrairgalāpīḍaṃ",
+      "words": [
+       {
+        "w": "pāṇi-vastraiḥ",
+        "gloss": "hand; cloth",
+        "gram": "dvandva, inst. pl."
+       },
+       {
+        "w": "gala-āpīḍam",
+        "gloss": "throat; pressure",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryācca",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "one should make",
+        "gram": "3 sg. pot. √kṛ"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mriyate",
+      "words": [
+       {
+        "w": "mriyate",
+        "gloss": "he dies",
+        "gram": "3 sg. pres. mid. √mṛ"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और हाथों तथा वस्त्रों से गले का आपीड़ यानी दबाव करे, मानो वह मर रहा हो।",
+  "english": "And one should make pressure (āpīḍa) on the throat with the hands and cloths, as if he were dying.",
+  "text_flags": [],
+  "notes": "'mriyate yathā' is taken as 'as if he were dying'; 'in such a way that he dies' is the literal sense and is not intended. Continues 55-56.",
+  "confidence": "medium"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāṇodānanirodhāddhi",
+      "words": [
+       {
+        "w": "prāṇa-udāna-nirodhāt",
+        "gloss": "prāṇa; udāna; obstruction",
+        "gram": "dvandva + tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suprasiddhatarāyaṇaḥ",
+      "words": [
+       {
+        "w": "su-prasiddha-tara-ayanaḥ",
+        "gloss": "very well established (su-prasiddha); more (-tara); course (ayana)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्राण और उदान के निरोध से, जिसका मार्ग और अधिक भली-भाँति स्थापित हो गया है,",
+  "english": "For, from the obstruction of prāṇa and udāna, (the one) whose course is the more fully established,",
+  "text_flags": [],
+  "notes": "GROUPING: 58 and 59 form one statement: the bahuvrīhi 'suprasiddhatarāyaṇaḥ' (masculine) agrees with 'apānaḥ pavanaḥ' of 59. The sense of 'suprasiddha' ('well established') is literal; the context suggests that the course of apāna, the downward wind, is freed, but this is an interpretation (probable) and is not put in the translation. Sandhi: -tara + ayana gives -tarāyaṇa (ṇ after r).",
+  "confidence": "medium"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apānaḥ",
+      "words": [
+       {
+        "w": "apānaḥ",
+        "gloss": "apāna",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pavano",
+      "words": [
+       {
+        "w": "pavanaḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiṃ",
+      "words": [
+       {
+        "w": "bastim",
+        "gloss": "basti (enema)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamāśvevāpakarṣati",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "apakarṣati",
+        "gloss": "draws away",
+        "gram": "3 sg. pres. apa-√kṛṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपान वायु उस बस्ति को शीघ्र ही खींच लेती है।",
+  "english": "The apāna wind (pavana) quickly draws that basti away.",
+  "text_flags": [],
+  "notes": "Completes 58. 'apakarṣati' means draws off or draws away; the prefix apa- does not itself say 'down', and 'down' is not added.",
+  "confidence": "high"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhakramukakalkaṃ",
+      "words": [
+       {
+        "w": "kuṣṭha-kramuka-kalkam",
+        "gloss": "kuṣṭha (costus, Saussurea costus; standard); kramuka (areca nut, Areca catechu; probable); paste (kalka)",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāyayetāmlasaṃyutaṃ",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "one should make (him) drink",
+        "gram": "3 sg. pot. caus. √pā"
+       },
+       {
+        "w": "amla-saṃyutam",
+        "gloss": "sour; joined with",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कुष्ठ यानी कूठ तथा क्रमुक यानी सम्भवतः सुपारी का कल्क यानी पिसी लुगदी, अम्ल से युक्त, पिलाए।",
+  "english": "And one should make (him) drink a paste (kalka) of kuṣṭha (costus) and kramuka (probably areca nut), joined with sour (amla).",
+  "text_flags": [],
+  "notes": "Identifications: kuṣṭha here is the drug costus, Saussurea costus (standard), not the skin disease of the same name; kramuka = pūga, areca nut, Areca catechu (probable). 'amla' (sour) is not said to be any particular sour substance; none is added. 'pāyayet' rendered 'should make (him) drink' as fixed in the glossary.",
+  "confidence": "medium"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "auṣṇyāttaikṣṇyātsaratvācca",
+      "words": [
+       {
+        "w": "auṣṇyāt",
+        "gloss": "from heat",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "taikṣṇyāt",
+        "gloss": "from sharpness",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "saratvāt",
+        "gloss": "from flowing nature (saratva)",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastiṃ",
+      "words": [
+       {
+        "w": "bastim",
+        "gloss": "basti (enema)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sopyanulomayet",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "anulomayet",
+        "gloss": "would bring into the natural direction",
+        "gram": "3 sg. pot. caus. anu-√lom"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उष्णता, तीक्ष्णता और सरत्व के कारण वह भी बस्ति को अनुलोम गति में ले आता है।",
+  "english": "From heat, sharpness and flowing nature (saratva), that too would bring the basti into the natural direction (anulomayet).",
+  "text_flags": [],
+  "notes": "GROUPING: 60 and 61 form one statement; 'saḥ' is the paste (kalka) of 60. 'sara' is the quality 'flowing, mobile'; the word is kept literal. 'anulomayet' is rendered 'would bring into the natural direction', as 'ānulomika' was in the earlier chunk.",
+  "confidence": "medium"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gomūtreṇa",
+      "words": [
+       {
+        "w": "go-mūtreṇa",
+        "gloss": "cow; urine",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "trivṛtpathyākalkaṃ",
+      "words": [
+       {
+        "w": "trivṛt-pathyā-kalkam",
+        "gloss": "trivṛt (turpeth, Operculina turpethum; standard); pathyā (chebulic myrobalan, Terminalia chebula; standard); paste (kalka)",
+        "gram": "dvandva + tat-puruṣa, m. acc./nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'dho'nulomanaṃ",
+      "words": [
+       {
+        "w": "adhaḥ",
+        "gloss": "downward",
+        "gram": "ind."
+       },
+       {
+        "w": "anulomanam",
+        "gloss": "bringing into the natural direction",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा गोमूत्र के साथ त्रिवृत् यानी निशोथ और पथ्या यानी हरड़ का कल्क, नीचे की ओर अनुलोमन।",
+  "english": "Or a paste (kalka) of trivṛt (turpeth) and pathyā (chebulic myrobalan) with cow's urine, a downward anulomana (bringing into the natural direction).",
+  "text_flags": [],
+  "notes": "Elliptical (a nominal phrase); no verb is supplied. 'pathyā' is taken as the name of the drug (a synonym of haritakī); 'wholesome' is the plain meaning of the word and is not used here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakvāśayasthite",
+      "words": [
+       {
+        "w": "pakva-āśaya-sthite",
+        "gloss": "digested (matter); receptacle; situated",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svinne",
+      "words": [
+       {
+        "w": "svinne",
+        "gloss": "sweated",
+        "gram": "ppp. √svid, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirūho",
+      "words": [
+       {
+        "w": "nirūhaḥ",
+        "gloss": "nirūha (decoction enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāśamūlikaḥ",
+      "words": [
+       {
+        "w": "dāśamūlikaḥ",
+        "gloss": "of the daśamūla (the ten roots)",
+        "gram": "adj., m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्वाशय में स्थित होने पर, स्वेदित में, दशमूल का निरूह,",
+  "english": "When (it) is situated in the pakvāśaya (receptacle of the digested, the large intestine), in the sweated (one), a nirūha (decoction enema) of the daśamūla (the ten roots),",
+  "text_flags": [],
+  "notes": "GROUPING: 63 and 64 form one statement (verb vidheyaḥ in 64). 'pakvāśaya' is the lower gut where the digested matter lies (large intestine; standard). The ten roots of the daśamūla are not listed in the text and are not listed here. 'sthite' has no stated subject (the basti or the mishap).",
+  "confidence": "medium"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yavakolakulatthaiśca",
+      "words": [
+       {
+        "w": "yava-kola-kulatthaiḥ",
+        "gloss": "yava (barley, Hordeum vulgare; standard); kola (jujube, Ziziphus jujuba; probable); kulattha (horse gram, Macrotyloma uniflorum; standard)",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidheyo",
+      "words": [
+       {
+        "w": "vidheyaḥ",
+        "gloss": "to be administered",
+        "gram": "gerundive vi-√dhā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūtrasādhitaiḥ",
+      "words": [
+       {
+        "w": "mūtra-sādhitaiḥ",
+        "gloss": "urine; prepared",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मूत्र में साधित यव, कोल यानी सम्भवतः बेर और कुलत्थ यानी कुलथी के साथ इसका विधान करना चाहिए।",
+  "english": "And (it) is to be administered with yava (barley), kola (probably jujube) and kulattha (horse gram) prepared in urine.",
+  "text_flags": [],
+  "notes": "Completes 63 (the nirūha is the subject, 'it'). 'mūtra' is urine; which animal is not stated here (cow's urine is named in 62 and 65). 'sādhita' = prepared, as fixed in the glossary.",
+  "confidence": "medium"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastirgaumūtrasiddhairvā",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "go-mūtra-siddhaiḥ",
+        "gloss": "cow; urine; cooked",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmṛtāvaṃśapallavaiḥ",
+      "words": [
+       {
+        "w": "sa-amṛtā-vaṃśa-pallavaiḥ",
+        "gloss": "with; amṛtā (giloy, Tinospora cordifolia; probable); vaṃśa (bamboo, Bambusa arundinacea; probable); shoot (pallava)",
+        "gram": "bahuvrīhi + tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा बस्ति, गोमूत्र में सिद्ध किए हुए, अमृता यानी सम्भवतः गिलोय सहित वंश यानी सम्भवतः बाँस के पल्लवों से,",
+  "english": "Or a basti with shoots (pallava) of vaṃśa (probably bamboo) together with amṛtā (probably giloy), cooked in cow's urine,",
+  "text_flags": [],
+  "notes": "Elliptical: no verb is supplied. 'gaumūtrasiddhaiḥ' agrees with 'pallavaiḥ' (cooked in cow's urine). Identifications: amṛtā = guḍūcī, Tinospora cordifolia (probable; the name amṛtā is also used for other drugs); vaṃśa = bamboo (probable); 'pallava' is a young shoot or leaf-bud.",
+  "confidence": "medium"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūtīkaraṃjatvakpatraśaṭhīdevānvarohiṣaiḥ",
+      "words": [
+       {
+        "w": "pūtī-karañja",
+        "gloss": "pūtīkarañja (identity disputed; Caesalpinia bonduc is one proposal)",
+        "gram": "m./n., member of compound"
+       },
+       {
+        "w": "tvak-patra",
+        "gloss": "bark; leaf",
+        "gram": "dvandva"
+       },
+       {
+        "w": "śaṭhī",
+        "gloss": "śaṭhī (identity disputed; Hedychium spicatum and Curcuma zedoaria both proposed)",
+        "gram": "f."
+       },
+       {
+        "w": "devāhva",
+        "gloss": "devāhva (probably devadāru, Cedrus deodara; probable)",
+        "gram": "m."
+       },
+       {
+        "w": "rohiṣaiḥ",
+        "gloss": "rohiṣa (a fragrant grass, probably Cymbopogon martinii; probable)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पूतिकरंज यानी सम्भवतः कंजा, जिसकी पहचान विवादित है, उसकी छाल और पत्ते, शठी, जिसकी पहचान विवादित है, देवाह्व यानी सम्भवतः देवदारु और रोहिष यानी सम्भवतः रूसा घास से।",
+  "english": "With the bark and leaf of pūtīkarañja (identity disputed), śaṭhī (identity disputed), devāhva (probably devadāru) and rohiṣa (probably a fragrant grass).",
+  "text_flags": [
+   {
+    "src": "pūtīkaraṃjatvakpatraśaṭhīdevānvarohiṣaiḥ",
+    "suggest": "pūtīkaraṃjatvakpatraśaṭhīdevāhvarohiṣaiḥ",
+    "why": "possible: 'devānva' is not a recognisable word; 'devāhva' (called 'deva', i.e. devadāru) fits the list of drugs and the sense, and 'nva' is easily a misreading of 'hva' in the print"
+   }
+  ],
+  "notes": "Continues 65 (list of ingredients of the basti). The compound is read as: pūtīkarañja's bark and leaf, then śaṭhī, devāhva, rohiṣa; 'tvak' and 'patra' could instead be separate drugs (bark, leaf) but a bare 'bark' and 'leaf' are not drug names, so the first reading is taken. Identifications: pūtīkarañja is disputed (Caesalpinia bonduc proposed; Holoptelea integrifolia and Pongamia pinnata also named); śaṭhī is disputed (as in the earlier chunk); devāhva = devadāru, Cedrus deodara, only on the possible correction (probable); rohiṣa = a scented grass, Cymbopogon martinii (probable).",
+  "confidence": "medium"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "satailaguḍasiṃdhūttho",
+      "words": [
+       {
+        "w": "sa-taila-guḍa-sindhūtthaḥ",
+        "gloss": "with; oil; jaggery; sindhūttha (rock salt; standard)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "virekauṣadhakalkavān",
+      "words": [
+       {
+        "w": "vireka-auṣadha-kalka-vān",
+        "gloss": "purgation; drug; paste (kalka); having",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bilvādipaṃcamūlena",
+      "words": [
+       {
+        "w": "bilva-ādi-pañca-mūlena",
+        "gloss": "bilva (wood-apple, Aegle marmelos; standard); and the others; five; roots",
+        "gram": "bahuvrīhi/tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddho",
+      "words": [
+       {
+        "w": "siddhaḥ",
+        "gloss": "cooked",
+        "gram": "ppp. √sidh, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiruraḥsthite",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uraḥ-sthite",
+        "gloss": "chest; situated",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेल, गुड़ और सिन्धूत्थ यानी सेंधा नमक वाली, विरेचन की औषधों के कल्क से युक्त, बिल्व यानी बेल आदि पाँच मूलों से सिद्ध की गई बस्ति, छाती में स्थित होने पर।",
+  "english": "A basti with oil, jaggery and sindhūttha (rock salt), having a paste (kalka) of purgative drugs, cooked with the five roots beginning with bilva (wood-apple), when (it) is situated in the chest.",
+  "text_flags": [],
+  "notes": "GROUPING: this unit holds 32 syllables in one printed line (two 16-syllable halves: 'satailaguḍa... kalkavān' and 'bilvādi... uraḥsthite'), unlike the neighbouring units of one 16-syllable line. The five roots 'beginning with bilva' are not listed in the text; in the Āyurvedic tradition the group is usually bilva, agnimantha, śyonāka, pāṭalā and gambhārī (standard in the tradition, not stated here). 'taila' is oil, not specified. 'uraḥsthite' is a locative without a stated subject (the mishap or the basti in the chest); the series by seat continues in 68 (head).",
+  "confidence": "medium"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiraḥsthe",
+      "words": [
+       {
+        "w": "śiraḥ-sthe",
+        "gloss": "head; situated",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāvanaṃ",
+      "words": [
+       {
+        "w": "nāvanam",
+        "gloss": "nāvana (nasal medication)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūmaḥ",
+      "words": [
+       {
+        "w": "dhūmaḥ",
+        "gloss": "smoke (dhūma)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pracchādyaṃ",
+      "words": [
+       {
+        "w": "pracchādyam",
+        "gloss": "to be covered",
+        "gram": "gerundive pra-√chad, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṣapaiḥ",
+      "words": [
+       {
+        "w": "sarṣapaiḥ",
+        "gloss": "sarṣapa (mustard, Brassica species; probable)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिर में स्थित होने पर नावन यानी नस्य, धूम; सिर सरसों से ढका जाना चाहिए।",
+  "english": "When (it) is situated in the head: nāvana (nasal medication), smoke (dhūma); the head is to be covered with sarṣapa (mustard).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb is supplied; compare 67 (seat in the chest). 'pracchādyam' is a gerundive, 'to be covered'; the form in which the mustard is used (seeds, paste) is not stated. 'dhūma' is smoke (to be inhaled); kept literal.",
+  "confidence": "medium"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastiratyuṣṇatīkṣṇāmlaghano",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-uṣṇa-tīkṣṇa-amla-ghanaḥ",
+        "gloss": "too; hot; sharp; sour; thick",
+        "gram": "dvandva/karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisveditasya",
+      "words": [
+       {
+        "w": "ati-sveditasya",
+        "gloss": "excessively sweated",
+        "gram": "ppp. √svid, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्ति अत्यन्त उष्ण, तीक्ष्ण, अम्ल या घन, अथवा अत्यन्त स्वेदित के लिए,",
+  "english": "A basti too hot, sharp, sour or thick, or of one excessively sweated,",
+  "text_flags": [],
+  "notes": "GROUPING: 69, 70 and 71 form one statement (verb bhavet in 71): the causes of over-application (atiyoga). 'atisveditasya' is a genitive with no governing noun (basti given to one excessively sweated); the construction is loose. 'ghana' = thick, dense.",
+  "confidence": "medium"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpe",
+      "words": [
+       {
+        "w": "alpe",
+        "gloss": "little",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣe",
+      "words": [
+       {
+        "w": "doṣe",
+        "gloss": "doṣa",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdau",
+      "words": [
+       {
+        "w": "mṛdau",
+        "gloss": "soft",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭhe",
+      "words": [
+       {
+        "w": "koṣṭhe",
+        "gloss": "koṣṭha (storehouse, belly)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayukto",
+      "words": [
+       {
+        "w": "prayuktaḥ",
+        "gloss": "applied",
+        "gram": "ppp. pra-√yuj, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "थोड़े दोष में, मृदु कोष्ठ में, अथवा बार-बार प्रयुक्त,",
+  "english": "In a little doṣa, in a soft koṣṭha (storehouse, belly), or applied again and again,",
+  "text_flags": [],
+  "notes": "Continues 69 (the subject is the basti).",
+  "confidence": "high"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atiyogatvamāpannaḥ",
+      "words": [
+       {
+        "w": "ati-yoga-tvam",
+        "gloss": "over-application; the state of",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "āpannaḥ",
+        "gloss": "having reached",
+        "gram": "ppp. ā-√pad, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kukṣiśūlakaro",
+      "words": [
+       {
+        "w": "kukṣi-śūla-karaḥ",
+        "gloss": "belly (kukṣi); colic pain (śūla); causing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "would become",
+        "gram": "3 sg. pot. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अतियोग की अवस्था को प्राप्त होकर वह कुक्षि के शूल यानी पेट के दर्द का कारण हो सकती है।",
+  "english": "Having reached the state of over-application (atiyoga), it would become a cause of belly-colic (kukṣiśūla).",
+  "text_flags": [],
+  "notes": "Completes 69-70. Modern equivalent: kukṣiśūla = colicky pain in the belly or flank (standard). 'atiyoga' is kept as a term.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "virecanātiyogena",
+      "words": [
+       {
+        "w": "virecana-atiyogena",
+        "gloss": "purgation; over-application",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "satulyākṛtisādhanaḥ",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tulya-ākṛti-sādhanaḥ",
+        "gloss": "similar; form (features); treatment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह, विरेचन के अतियोग के समान आकृति और चिकित्सा वाला।",
+  "english": "That, similar in features (ākṛti) and treatment (sādhana) to over-application of purgation (virecana).",
+  "text_flags": [],
+  "notes": "The instrumental 'virecanātiyogena' is governed by 'tulya' (similar to). The printed 'satulya-' could also be sa-tulya- ('with similar ...'), but 'sa' = 'that' with the instrumental of comparison is the plainer reading. Elliptical: no verb is supplied. 'ākṛti' = features, appearance.",
+  "confidence": "medium"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛśniparṇī",
+      "words": [
+       {
+        "w": "pṛśniparṇī",
+        "gloss": "pṛśniparṇī (Uraria picta; standard)",
+        "gram": "f. nom. sg. (accusative sense)"
+       }
+      ]
+     },
+     {
+      "src": "sthirāṃ",
+      "words": [
+       {
+        "w": "sthirām",
+        "gloss": "sthirā (probably śālaparṇī, Desmodium gangeticum; probable)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "padmaṃ",
+      "words": [
+       {
+        "w": "padmam",
+        "gloss": "padma (lotus, Nelumbo nucifera; probable)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāśmaryaṃ",
+      "words": [
+       {
+        "w": "kāśmaryam",
+        "gloss": "kāśmarya (gambhārī, Gmelina arborea; standard)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhūkotpale",
+      "words": [
+       {
+        "w": "madhūka-utpale",
+        "gloss": "madhūka (mahua, Madhuca longifolia; standard); utpala (blue lotus, Nymphaea species; probable)",
+        "gram": "dvandva, n. acc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृश्निपर्णी यानी पिठवन, स्थिरा यानी सम्भवतः शालपर्णी, पद्म यानी सम्भवतः कमल, काश्मर्य यानी गम्भारी, मधूक यानी महुआ और उत्पल यानी सम्भवतः नीलकमल,",
+  "english": "Pṛśniparṇī (pithvan), sthirā (probably śālaparṇī), padma (probably lotus), kāśmarya (gambhārī), and madhūka (mahua) and utpala (probably blue lotus),",
+  "text_flags": [
+   {
+    "src": "pṛśniparṇī",
+    "suggest": "pṛśniparṇīṃ",
+    "why": "possible: the other members are accusatives governed by 'piṣṭvā' in 74; the final anusvāra seems to have been lost (the syllable count is unchanged)"
+   }
+  ],
+  "notes": "GROUPING: an ingredient list continuing in 74 ('piṣṭvā'), 75 and 76 (verbs). Identifications: pṛśniparṇī = Uraria picta (standard); sthirā = śālaparṇī, Desmodium gangeticum (probable; the name sthirā is used for more than one plant); padma = lotus, Nelumbo nucifera (probable; padmaka, a different drug, is not meant); kāśmarya = gambhārī, Gmelina arborea (standard); madhūka = Madhuca longifolia (standard); utpala = blue lotus, Nymphaea (probable).",
+  "confidence": "medium"
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "piṣṭvā",
+      "words": [
+       {
+        "w": "piṣṭvā",
+        "gloss": "having ground",
+        "gram": "abs. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "drākṣāṃ",
+      "words": [
+       {
+        "w": "drākṣām",
+        "gloss": "drākṣā (grape or raisin, Vitis vinifera; standard)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhūkaṃ",
+      "words": [
+       {
+        "w": "madhūkam",
+        "gloss": "madhūka (mahua)",
+        "gram": "m./n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīre",
+      "words": [
+       {
+        "w": "kṣīre",
+        "gloss": "in milk",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṃḍuladhāvane",
+      "words": [
+       {
+        "w": "taṇḍula-dhāvane",
+        "gloss": "rice; washing (water)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्राक्षा यानी अंगूर या मुनक्का और मधूक यानी महुआ को पीसकर, दूध में और चावल के धोवन में,",
+  "english": "Having ground drākṣā (grape or raisin) and madhūka (mahua), in milk (and) in rice-washing,",
+  "text_flags": [],
+  "notes": "Continues 73 (all the accusatives of 73 and 74 go with 'piṣṭvā'; the main verb is in 76). 'kṣīre taṇḍuladhāvane' are two juxtaposed locatives; 'and' versus 'or' is not decided.",
+  "confidence": "medium"
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "drākṣāyāḥ",
+      "words": [
+       {
+        "w": "drākṣāyāḥ",
+        "gloss": "of drākṣā",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakvaloṣṭasya",
+      "words": [
+       {
+        "w": "pakva-loṣṭasya",
+        "gloss": "cooked, baked or ripe; clod",
+        "gram": "karmadhāraya, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasāde",
+      "words": [
+       {
+        "w": "prasāde",
+        "gloss": "in the clear part (prasāda)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhukasya",
+      "words": [
+       {
+        "w": "madhukasya",
+        "gloss": "of madhuka (liquorice, Glycyrrhiza glabra; probable)",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्राक्षा के, पक्वलोष्ट यानी पके हुए ढेले के, अथवा मधुक यानी सम्भवतः मुलेठी के प्रसाद यानी निथरे हुए स्वच्छ भाग में,",
+  "english": "In the clear part (prasāda) of drākṣā, of pakvaloṣṭa (a baked or ripe clod; sense uncertain), or of madhuka (probably liquorice),",
+  "text_flags": [],
+  "notes": "Continues 73-74 (liquids for the grinding or mixing). 'pakvaloṣṭa' is kept literal as 'cooked, baked or ripe clod'; the sense is unclear, so nothing is built on it (not enriched). 'madhuka' is read as liquorice, Glycyrrhiza glabra (probable); the madhūka of 74 (mahua) is a different spelling and may be what is meant here too. 'prasāda' = clearness, the clear settled part.",
+  "confidence": "low"
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vinīya",
+      "words": [
+       {
+        "w": "vinīya",
+        "gloss": "having added, put in",
+        "gram": "abs. vi-√nī"
+       }
+      ]
+     },
+     {
+      "src": "saghṛtaṃ",
+      "words": [
+       {
+        "w": "sa-ghṛtam",
+        "gloss": "with ghee",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiṃ",
+      "words": [
+       {
+        "w": "bastim",
+        "gloss": "basti (enema)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuṃjyāddāhe",
+      "words": [
+       {
+        "w": "yuñjyāt",
+        "gloss": "one should apply",
+        "gram": "3 sg. pot. √yuj"
+       },
+       {
+        "w": "dāhe",
+        "gloss": "in burning",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tiyogaje",
+      "words": [
+       {
+        "w": "ati-yoga-je",
+        "gloss": "over-application; born of",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "डालकर, घी सहित बस्ति को अतियोग से उत्पन्न दाह में प्रयुक्त करे।",
+  "english": "Having added (it), one should apply the basti with ghee in burning (dāha) arising from over-application (atiyoga).",
+  "text_flags": [],
+  "notes": "GROUPING: 73 to 76 form one statement: the drugs of 73-74 are ground (piṣṭvā) in the liquids of 74-75, added (vinīya), and the basti with ghee is applied for the burning of 76. The object of 'vinīya' (the ground drugs) is not stated; 'saghṛtam' is read with 'bastim'. Modern equivalent: dāha = burning sensation (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snehasvedairasaṃpādya",
+      "words": [
+       {
+        "w": "sneha-svedaiḥ",
+        "gloss": "oleation (sneha); sweating (sveda)",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "asaṃpādya",
+        "gloss": "without having prepared",
+        "gram": "negative abs. a-sam-√pad caus."
+       }
+      ]
+     },
+     {
+      "src": "gurutīkṣṇo'timātrakaḥ",
+      "words": [
+       {
+        "w": "guru-tīkṣṇaḥ",
+        "gloss": "heavy; sharp",
+        "gram": "dvandva, m. nom. sg."
+       },
+       {
+        "w": "ati-mātrakaḥ",
+        "gloss": "of excessive quantity",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नेहन और स्वेदन से तैयार किए बिना; भारी, तीक्ष्ण, अतिमात्रा वाला,",
+  "english": "Without having prepared (him) by oleation (sneha) and sweating (sveda); heavy, sharp, of excessive quantity (one),",
+  "text_flags": [],
+  "notes": "GROUPING: 77, 78, 79 and 80 form one statement about a basti applied wrongly; the subject 'bastiḥ' is in 78 and the verb 'karoti' in 80. 'asaṃpādya' is a negative gerund; the person prepared is not named. 'sneha' is oil or oleation; kept as 'oleation (sneha)'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "duḥsthitāya",
+      "words": [
+       {
+        "w": "duḥ-sthitāya",
+        "gloss": "badly placed",
+        "gram": "tat-puruṣa, m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇihito",
+      "words": [
+       {
+        "w": "praṇihitaḥ",
+        "gloss": "introduced, applied",
+        "gram": "ppp. pra-ni-√dhā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastirduḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "duḥ",
+        "gloss": "badly (prefix of duḥ-śayitāya)",
+        "gram": "ind., prefix"
+       }
+      ]
+     },
+     {
+      "src": "śayitāya",
+      "words": [
+       {
+        "w": "śayitāya",
+        "gloss": "lying",
+        "gram": "ppp. √śī, m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बुरी स्थिति में स्थित के लिए, अथवा बुरी तरह लेटे हुए के लिए प्रविष्ट की गई बस्ति,",
+  "english": "A basti introduced to one badly placed (duḥsthita), or to one lying badly (duḥśayita),",
+  "text_flags": [
+   {
+    "src": "bastirduḥ",
+    "suggest": "bastirduḥśayitāya (one word with the next token)",
+    "why": "possible: the print splits the compound duḥ-śayitāya by a space; the two tokens are given here as printed"
+   }
+  ],
+  "notes": "Continues 77. 'duḥsthita' = badly placed or posed (the posture); 'duḥśayita' = lying badly (the manner of lying). The person is not named. The words are split as printed, 'duḥ' being the prefix of 'śayitāya'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avipravṛtto",
+      "words": [
+       {
+        "w": "avipravṛttaḥ",
+        "gloss": "not properly set going (avipravṛtta)",
+        "gram": "ppp. a-vi-pra-√vṛt, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "marutaṃ",
+      "words": [
+       {
+        "w": "marutam",
+        "gloss": "wind (marut)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kopayetsa",
+      "words": [
+       {
+        "w": "kopayet",
+        "gloss": "would provoke",
+        "gram": "3 sg. pot. caus. √kup"
+       },
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vimārgagaḥ",
+      "words": [
+       {
+        "w": "vimārga-gaḥ",
+        "gloss": "wrong path; gone",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अविप्रवृत्त होकर वह वायु को कुपित करे; वह विमार्ग में गई हुई,",
+  "english": "Not properly set going (avipravṛtta), (it) would provoke the wind (marut); that (basti), gone by a wrong path,",
+  "text_flags": [],
+  "notes": "The sense of 'avipravṛtta' is uncertain: 'not set going, not moving forth properly' is taken; the combination of a- and vi- is unusual, and 'not issued out' is the other possibility. 'vimārgaga' = gone by a wrong path. The subject is the basti of 78; the verb 'karoti' is in 80.",
+  "confidence": "low"
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karotyaṃgarujāṃ",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "produces",
+        "gram": "3 sg. pres. √kṛ"
+       },
+       {
+        "w": "aṅga-rujām",
+        "gloss": "limb; pain",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṛṃbhāṃ",
+      "words": [
+       {
+        "w": "jṛmbhām",
+        "gloss": "yawning (jṛmbhā)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "staṃbhaṃ",
+      "words": [
+       {
+        "w": "stambham",
+        "gloss": "stiffness (stambha)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhedaṃ",
+      "words": [
+       {
+        "w": "bhedam",
+        "gloss": "splitting (bheda)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parvaṇāṃ",
+      "words": [
+       {
+        "w": "parvaṇām",
+        "gloss": "of the joints",
+        "gram": "n. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अंगों की पीड़ा, जम्हाई, स्तम्भ यानी जकड़न और जोड़ों का भेद यानी फटन करता है।",
+  "english": "(It) produces pain of the limbs (aṅga-ruj), yawning (jṛmbhā), stiffness (stambha) and splitting (bheda) of the joints.",
+  "text_flags": [],
+  "notes": "Completes 77-80 (subject: the basti of 78-79). 'aṅgarujām' is taken as a singular accusative; a genitive plural is the other possibility. Modern equivalents: jṛmbhā = yawning (standard); stambha = stiffness (standard); bheda of the joints = splitting or breaking pain in the joints (kept literal).",
+  "confidence": "medium"
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailalavaṇābhyaktaṃ",
+      "words": [
+       {
+        "w": "taila-lavaṇa-abhyaktam",
+        "gloss": "oil; salt; smeared",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sveditaṃ",
+      "words": [
+       {
+        "w": "sveditam",
+        "gloss": "sweated",
+        "gram": "ppp. caus. √svid, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃstarādibhiḥ",
+      "words": [
+       {
+        "w": "saṃstara-ādibhiḥ",
+        "gloss": "saṃstara (a sweating method); and the others",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे, जो तेल और नमक से अभ्यक्त यानी लेपित है, संस्तर आदि से स्वेदित,",
+  "english": "Him, smeared (abhyakta) with oil and salt, sweated with saṃstara and the others,",
+  "text_flags": [],
+  "notes": "GROUPING: 81 and 82 continue into the next unit (outside this chunk), which should hold the verb; the object 'tam' is the person of 80. 'saṃstara' is a method of sweating (saṃstara-sveda, a spread bed of heated material; probable); the 'others' (ādi) are not listed. Elliptical: no verb here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bilvakoḻyavairaṃḍavarṣābhūdvahatīdvayaiḥ",
+      "words": [
+       {
+        "w": "bilva-kola-yava-eraṇḍa-varṣābhū-bṛhatī-dvayaiḥ",
+        "gloss": "bilva (wood-apple); kola (jujube, probable); yava (barley); eraṇḍa (castor, Ricinus communis; standard); varṣābhū (punarnavā, Boerhavia diffusa; standard); pair of bṛhatī (bṛhatī and kaṇṭakārī, the two prickly nightshades, Solanum species; standard)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिल्व यानी बेल, कोल यानी सम्भवतः बेर, यव, एरण्ड यानी अरंडी, वर्षाभू यानी पुनर्नवा और बृहती-द्वय यानी बनभंटा और भटकटैया से।",
+  "english": "With bilva (wood-apple), kola (probably jujube), yava (barley), eraṇḍa (castor), varṣābhū (punarnavā) and the pair of bṛhatī (the two prickly nightshades).",
+  "text_flags": [
+   {
+    "src": "bilvakoḻyavairaṃḍavarṣābhūdvahatīdvayaiḥ",
+    "suggest": "bilvakolayavairaṇḍavarṣābhūbṛhatīdvayaiḥ",
+    "why": "possible: 'koḻyava' lacks the a of kola-yava (the half-verse has 15 syllables, 16 with it); 'dvahatī' is read as a misprint of 'bṛhatī' (the pair of bṛhatī is a standard drug pair, and 'dva' is easily a misreading of 'bṛ')"
+   }
+  ],
+  "notes": "Continues 81 (the verb and the exact use are in the next unit, outside this chunk). The print writes ḻ for l in 'koḻ' (normalised, as in 55). The pair 'bṛhatī-dvaya' is bṛhatī and kaṇṭakārī (standard in the tradition, not named in the text). The two corrections are suggested only; the token is kept as printed.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,773 @@
+{
+ "units": [
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is four palas",
+     "problem": "The dose rests on a joined, conjectured reading (ca tuṣpalaṃ = catuṣpalam) yet is stated as fact in both translations; glossary rule for conjectural readings requires the hedge in the translation.",
+     "fix": "'... is, on a conjectural reading, four palas (pala: a unit of weight).'; Hindi 'सम्भवतः चार पल है'",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "51",
+       "op": "replace",
+       "field": "english",
+       "old": "is four palas",
+       "new": "is, on a conjectural reading, four palas"
+      },
+      {
+       "n": "51",
+       "op": "replace",
+       "field": "hindi",
+       "old": "चार पल है",
+       "new": "सम्भवतः चार पल है"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one karṣa",
+     "problem": "'one' is a supplied numeral (karṣaḥ is simply 'a karṣa'; glossary: no supplied numerals).",
+     "fix": "a karṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "english",
+      "old": "one karṣa",
+      "new": "a karṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "udaka-ardha-prasthe",
+     "problem": "Labelled bahuvrīhi; 'half a prastha of water' is a tat-puruṣa (udaka + ardha-prastha), not a bahuvrīhi.",
+     "fix": "tat-puruṣa, loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "udaka-ardha-prasthe",
+      "field": "gram",
+      "value": "tat-puruṣa, loc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śīta-phāṇṭayoḥ",
+     "problem": "Labelled loc. du., but the sense is genitive ('of śīta and phāṇṭa', cf. kalka-cūrṇayoḥ in unit 52); the form is ambiguous. Gender not stated in the text.",
+     "fix": "dvandva, gen. du. (or loc. du.)",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "śīta-phāṇṭayoḥ",
+      "field": "gram",
+      "value": "dvandva, gen. du. (or loc. du.)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शीत और फाण्ट में",
+     "problem": "English glosses śīta and phāṇṭa, the Hindi leaves them unexplained (policy: Sanskrit term यानी modern name). Both identifications are standard (cold and hot infusion).",
+     "fix": "शीत यानी ठण्डे अर्क और फाण्ट यानी गरम अर्क में",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शीत और फाण्ट में",
+      "new": "शीत यानी ठण्डे अर्क और फाण्ट यानी गरम अर्क में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्य लोग",
+     "problem": "'लोग' is an added noun; anye is only 'others'.",
+     "fix": "अन्य फिर पढ़ते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्य लोग फिर",
+      "new": "अन्य फिर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "plain water",
+     "problem": "śuddha is 'pure'; 'plain' is an interpretation (Hindi already says शुद्ध).",
+     "fix": "pure water",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "english",
+      "old": "plain water",
+      "new": "pure water"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pañca-prabhṛti",
+     "problem": "'n. nom. sg. (adverbial)' is not a sound label: prabhṛti ends the compound in the sense 'beginning with', five and onward; it qualifies the liquids or works adverbially.",
+     "fix": "'five onward' (prabhṛti: 'beginning with'); adjective of drava or adverbial",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "word",
+      "match_w": "pañca-prabhṛti",
+      "field": "gram",
+      "value": "'five onward' (prabhṛti 'beginning with'); adjective of drava or adverbial"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "होने पर",
+     "problem": "'होने पर' supplies a verb the Sanskrit does not have.",
+     "fix": "पाँच से आगे, द्रव को अलग से, स्नेह के बराबर ही डालना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाँच से आगे होने पर, ",
+      "new": "पाँच से आगे, "
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "न अधिक मृदु और न अधिक कठोर",
+     "problem": "English marks the emended reading mṛdv-anati-; Hindi does not. Use a hedge word, no brackets.",
+     "fix": "'वह अनुमानित पाठ के अनुसार न अधिक मृदु और न अधिक कठोर हो'",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह न अधिक मृदु और न अधिक कठोर हो",
+      "new": "वह अनुमानित पाठ के अनुसार न अधिक मृदु और न अधिक कठोर हो"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bhaiṣajyam",
+     "problem": "Note identifies bhaiṣajyam as 'the paste' in the pan; the text only says 'medicine' (inference, not in the Sanskrit).",
+     "fix": "'bhaiṣajyam' is the medicine (not further defined; the kalka is the natural referent), the object judged by the finger test.",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "notes",
+      "old": "'bhaiṣajyam' is the medicine in the pan (the paste), the object judged by the finger test.",
+      "new": "'bhaiṣajyam' is the medicine (not further defined; the kalka is the natural referent), the object judged by the finger test."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āpyate",
+     "problem": "Passive of ā-√āp with a nominative subject (snehaḥ) and an accusative (prasādam) is irregular; the sense is middle ('reaches'). Possible original 'āpadyate' or 'āpnoti', not certain. Left as printed.",
+     "fix": "Keep; owner may add a text_flag 'possible' if a second witness exists.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "marīciḥ",
+     "problem": "Labelled m., but unit 67 refers back with feminine tāḥ ('those' marīcis); marīci is both m. and f. Gender is not settled by the text.",
+     "fix": "nom. sg. (f.? cf. tāḥ in unit 67)",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "marīciḥ",
+      "field": "gram",
+      "value": "nom. sg. (f.? cf. tāḥ in unit 67)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "ṣaḍaṃśyo",
+     "problem": "Draft admits aṃśya is unattested to it as a unit and the stem uncertain but sets no flag. The word is probably a corrupt or unusual reading (other tiny-measure lists name aṇu or trasareṇu steps before marīci); no safe correction can be proved from the print.",
+     "fix": "Owner decision: keep as printed; add a 'possible' text_flag only if a second witness shows the unit name.",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "are one marīci",
+     "problem": "DECISION on the copula in measure equations (units 66-70, 84-85): English 'are/is' and Hindi 'हैं/है' are accepted, since neither language can state an equation without it and the notes already say 'copula understood'. But 'one' is a supplied numeral where Sanskrit has the singular only; use the article.",
+     "fix": "Six aṃśya are a marīci (a minute unit of measure).",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "english",
+      "old": "are one marīci",
+      "new": "are a marīci"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "एक मरीचि",
+     "problem": "OWNER DECISION: Hindi 'एक' renders the singular (marīciḥ) as an indefinite article; dropping it makes the Hindi read as 'they are six X'. Kept in all of 66-70, 85.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one sarṣapa",
+     "problem": "'one' supplied; use the article.",
+     "fix": "Those six are a sarṣapa (mustard seed; here a unit of measure).",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "english",
+      "old": "are one sarṣapa",
+      "new": "are a sarṣapa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one taṇḍula",
+     "problem": "'one' supplied; use the article.",
+     "fix": "Those eight are a taṇḍula",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "english",
+      "old": "are one taṇḍula",
+      "new": "are a taṇḍula"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one dhānyamāṣa",
+     "problem": "'one' supplied; use the article.",
+     "fix": "Those two are a dhānyamāṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "english",
+      "old": "are one dhānyamāṣa",
+      "new": "are a dhānyamāṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one yava",
+     "problem": "'one' supplied; use the article.",
+     "fix": "Those two are a yava",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "english",
+      "old": "are one yava",
+      "new": "are a yava"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "catur-guṇa-vṛddhyā",
+     "problem": "vṛddhi is feminine; 'm. inst. sg.' is wrong.",
+     "fix": "f. inst. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "71",
+      "op": "word",
+      "match_w": "catur-guṇa-vṛddhyā",
+      "field": "gram",
+      "value": "f. inst. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "māṣaka, śāṇa",
+     "problem": "The restoration of printed 'maṣākaṣāṇa' to māṣaka-śāṇa is conjectural, but the translations present both names as certain (glossary: mark conjectural readings in the translation).",
+     "fix": "'... the aṇḍikā, māṣaka and śāṇa (on a conjectural reading), karṣa ...'; Hindi 'अनुमानित पाठ के अनुसार माषक, शाण'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "71",
+       "op": "replace",
+       "field": "english",
+       "old": "māṣaka, śāṇa, karṣa",
+       "new": "māṣaka and śāṇa (on a conjectural reading), karṣa"
+      },
+      {
+       "n": "71",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अण्डिका, माषक, शाण,",
+       "new": "अण्डिका, अनुमानित पाठ के अनुसार माषक, शाण,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a tenth part of a pala",
+     "problem": "Reading of pala-daśa-bhāga as 'one tenth of a pala' is the plain idiom (cf. ṣaḍbhāga 'one sixth'), but dharaṇa values differ across texts. Fine as drafted; owner to confirm against another witness if one exists.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kavalagraha (mouthful)",
+     "problem": "graha is 'grasp' (glossary); the gloss drops it.",
+     "fix": "kavalagraha (mouthful-grasp)",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "english",
+      "old": "kavalagraha (mouthful)",
+      "new": "kavalagraha (mouthful-grasp)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "palasya",
+     "problem": "Gender 'm.' stated; pala is n. in this chapter (palam, units 52, 53) and m./n. in lexica. Do not state gender.",
+     "fix": "gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "word",
+      "match_w": "palasya",
+      "field": "gram",
+      "value": "gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In the dry (thing) to be measured",
+     "problem": "'(thing)' is a supplied noun; meya is itself a noun ('what is to be measured').",
+     "fix": "In what is to be measured dry, this is the measure; but double in the liquid and the moist (ones).",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "replace",
+      "field": "english",
+      "old": "In the dry (thing) to be measured",
+      "new": "In what is to be measured dry"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सूखी मापने योग्य वस्तु में",
+     "problem": "'वस्तु' is an added noun; Hindi should use a plain adjective (glossary).",
+     "fix": "मापे जाने वाले सूखे में यह माप है",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूखी मापने योग्य वस्तु में",
+      "new": "मापे जाने वाले सूखे में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "Sentence runs across units: 88 (vāri ... snehapāke ca nirdrave) and 89 (kalpayet sadṛśān bhāgān pramāṇaṃ yatra noditaṃ) appear to continue each other (vāri may be the object of kalpayet, 'water in equal portions'). Not claimed as verse pairing.",
+     "fix": "Append note.",
+     "severity": "minor",
+     "patch": {
+      "n": "89",
+      "op": "append_note",
+      "text": "The sentence appears to continue from the previous unit (vāri 'water' may be the object of kalpayet, 'in equal portions'); the two units are kept separate and no verse pairing is claimed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anirdiṣṭa-prasiddheṣu",
+     "problem": "'dvandva' is wrong or at least unlikely for two participial adjectives; the compound type is unknown because the reading is doubtful.",
+     "fix": "two adjectives in compound (type uncertain), loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "word",
+      "match_w": "anirdiṣṭa-prasiddheṣu",
+      "field": "gram",
+      "value": "two adjectives in compound (type uncertain), loc. pl."
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole unit",
+     "problem": "HUMAN DECISION: no proof either way; the printed text gives 'in the unspecified and well-known ones, among bark and the rest, the root is to be taken', which is internally strained (root against bark etc.). The suggested anirdiṣṭāprasiddheṣu is plausible but unproven; the unit is rightly low confidence. Do not enrich.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kalka-same",
+     "problem": "Gender stated m., while madana-upame says n.; the two agree with the same kiṭṭe and locative -e is identical in both genders.",
+     "fix": "bahuvrīhi, loc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "92",
+       "op": "word",
+       "match_w": "kalka-same",
+       "field": "gram",
+       "value": "bahuvrīhi, loc. sg."
+      },
+      {
+       "n": "92",
+       "op": "word",
+       "match_w": "madana-upame",
+       "field": "gram",
+       "value": "bahuvrīhi, loc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "blackness is present",
+     "problem": "Adds an abstract noun; kṛṣṇe is the adjective 'black' with vartamāne ('being').",
+     "fix": "The last one, however, when (it) sinks a little and is black.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "93",
+       "op": "replace",
+       "field": "english",
+       "old": "and blackness is present",
+       "new": "and is black"
+      },
+      {
+       "n": "93",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जब थोड़ा बैठे और कालापन हो",
+       "new": "जब थोड़ा बैठता है और काला रहता है"
+      },
+      {
+       "n": "93",
+       "op": "replace",
+       "field": "notes",
+       "old": "('and when black is present')",
+       "new": "('and when it is black')"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "it is burnt ... should be taken out",
+     "problem": "OBSERVATION: niṣkārya may mean 'to be removed (from the fire)' or 'to be discarded'; the draft keeps this open in notes. No change.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पहली",
+     "problem": "ādyam is neuter and no noun is stated; feminine 'पहली' and 'वाली' imply an unstated feminine noun. Use plain masculine adjective.",
+     "fix": "उनमें पहला सौम्य यानी सोम स्वभाव वाला और पथ्य है",
+     "severity": "minor",
+     "patch": {
+      "n": "97",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनमें पहली सौम्य यानी सोम स्वभाव वाली और पथ्य है",
+      "new": "उनमें पहला सौम्य यानी सोम स्वभाव वाला और पथ्य है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Kalpasiddhisthāna",
+     "problem": "OBSERVATION: the printed colophon is probably right, not a slip: in the Aṣṭāṅga Saṅgraha the fifth sthāna is Kalpasiddhi (six sthānas: Sūtra, Śārīra, Nidāna, Cikitsā, Kalpasiddhi, Uttara). The study's label 'Part 5 (Kalpasthāna)' is shorthand for its Kalpa chapters.",
+     "fix": "Add a note; do not change the translation.",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "append_note",
+      "text": "The printed title Kalpasiddhisthāna is probably the genuine title of the fifth sthāna of this work (which has Kalpa and Siddhi chapters in one sthāna); the study's label 'Kalpasthāna' is shorthand."
+     }
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "50 units reviewed. Overall careful draft: tokens, splits and identifications are sound (sarṣapa, taṇḍula, yava, bilva, kola standard; madana=wax correctly hedged as probable). Real errors: unit 51 states the conjectural 'four palas' as fact; unit 71 gender of vṛddhyā. Measure equations (66-70, 84-85): the English/Hindi copula is accepted as unavoidable; supplied 'one' in English patched to the article; Hindi 'एक' kept as an owner decision. Elliptical lists 73-83 are fine (colon, no added verb). Unit 72 'tenth part' is the plain reading. Units 98-100 are colophon/dedication, rightly noted; unit 99 Kalpasiddhisthāna is probably the genuine title. Unit 90 needs a human decision.",
+ "glossary_suggestions": [
+  "Measure equations (nominal sentences 'six X = Y'): copula are/is/हैं/है allowed; English uses the article 'a', not 'one'; Hindi 'एक' as article (OPEN for owner).",
+  "Conjectural joins/restorations of numbers or unit names (e.g. ch08 u51 catuṣpalam, u71 māṣaka-śāṇa) must be hedged in the translation (English 'on a conjectural reading', Hindi 'सम्भवतः' or 'अनुमानित पाठ के अनुसार').",
+  "vṛddhi f.; pala: no gender in gram.",
+  "kavalagraha = 'mouthful-grasp'; madana = wax (probable) when used as a comparison for sneha residue; śīta/phāṇṭa Hindi 'ठण्डा अर्क / गरम अर्क'.",
+  "Aṣṭāṅga Saṅgraha part 5 is titled Kalpasiddhisthāna in the colophon."
+ ]
+}

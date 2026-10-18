@@ -1,0 +1,409 @@
+[
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "sāhacara",
+  "old": "sāhacara",
+  "new": "sahācara",
+  "why": "reviewer (minor): Flag says sahācara but `w` keeps the printed misspelling; corrected form belongs in words (rule 6); unit 70 has sahācara."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "उसी प्रकार सहाचर यानी सम्भवतः कटसरैया, बला यानी बरियार, सारिवा यानी अनन्तमूल और दर्भ यानी सम्भवतः कुश के साथ सिद्ध किया हुआ।",
+  "new": "उसी प्रकार सहाचर यानी सम्भवतः कटसरैया, बला यानी बरियार, सारिवा यानी अनन्तमूल और दर्भ यानी सम्भवतः कुश के साथ तैयार किया हुआ।",
+  "why": "reviewer (minor): sādhita is \"prepared\" (glossary: siddha = cooked, sādhita = prepared); सिद्ध blurs the two."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "Elliptical: the noun being prepared (the milk of the preceding enema formula) is carried over from unit 39 and not stated here; no noun is supplied in the translation. Printed 'sāhacara' is read as sahacara/sahācara (the word is sahācara in unit 70). Identification of sahacara is probable only (Barleria prionitis; some sources take sahacara as kuraṇṭaka, the yellow variety); darbha as Desmostachya bipinnata is probable. Compound sandhi 'bhasādhitam' read as '-darbha-sādhitam'.",
+  "new": "Elliptical: the noun being prepared is not stated here; it presumably continues from the preceding unit, which lies outside this chunk; no noun is supplied in the translation. Printed 'sāhacara' is read as sahacara/sahācara (the word is sahācara in unit 70). Identification of sahacara is probable only (Barleria prionitis; some sources take sahacara as kuraṇṭaka, the yellow variety); darbha as Desmostachya bipinnata is probable. Compound sandhi 'bhasādhitam' read as '-darbha-sādhitam'.",
+  "why": "reviewer (minor): Claims unit 39 contents (outside this chunk); unverified."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "दूध की बस्ति, उसी प्रकार अभीरु यानी सम्भवतः शतावरी, गुडूची यानी गिलोय और बृहती-द्वय के साथ।",
+  "new": "दूध की बस्ति, उसी प्रकार अभीरु यानी सम्भवतः शतावरी, गुडूची यानी गिलोय और बृहती-द्वय यानी सम्भवतः बड़ी और छोटी कटेरी के साथ।",
+  "why": "reviewer (minor): Policy: ordinary Hindi plant name beside the term; hedge as probable."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "दूध सिद्ध किया हुआ, मागधिका यानी पिप्पली और यष्टीमधु यानी मुलेठी के कल्क से युक्त।",
+  "new": "दूध सिद्ध किया हुआ, मागधिका यानी पीपर और यष्टीमधु यानी मुलेठी के कल्क से युक्त।",
+  "why": "reviewer (minor): पिप्पली is another Sanskrit name, not the ordinary Hindi name (policy: Hindi name)."
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "Continues 41. 'kalkavat' read as 'having the paste (kalka) of ...'; the other reading 'like a paste' is possible. The text does not say what the milk is cooked with beyond what unit 41 gives; units 41-42 describe one preparation as printed.",
+  "new": "Continues 41. 'kalkavat' read as 'having the paste (kalka) of ...'; the other reading 'like a paste' is possible. The text does not say what the milk is cooked with beyond what unit 41 gives; 41-42 may be read as one sentence (not claimed as a verse pairing).",
+  "why": "reviewer (minor): States a grouping as fact; glossary asks that sentence links be noted without claiming pairing."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "पञ्चमूल यानी पाँच मूल, बृहती से आरम्भ होने वाले, प्रत्येक द्रव्य पल भर मापा हुआ।",
+  "new": "पञ्चमूल यानी पाँच मूल, बृहती से आरम्भ होने वाले, प्रत्येक द्रव्य एक पल तौल में मापा हुआ।",
+  "why": "reviewer (error): \"पल भर\" means \"for a moment\" in Hindi; misleading for the unit pala."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "pala-unmitam",
+  "old": "tat-puruṣa, ppp. √mā, n. nom. sg.",
+  "new": "tat-puruṣa, ppp. ud-√mā, n. nom. sg.",
+  "why": "reviewer (minor): ppp. of ud-√mā."
+ },
+ {
+  "n": "43",
+  "field": "notes",
+  "old": "Elliptical list (no verb). 'bṛhatyādi-pañcamūla' is the group of five roots headed by bṛhatī (usually the lesser pañcamūla; probable, the text does not list them). 'pratidravyam' read as 'for each substance' with palonmitam 'measured by a pala'; the exact grammatical link is not certain.",
+  "new": "Elliptical list (no verb). 'bṛhatyādi-pañcamūla' is the group of five roots headed by bṛhatī (usually the lesser pañcamūla; probable, the text does not list them). 'pratidravyam' read as 'for each substance' with palonmitam 'measured by a pala'; the exact grammatical link is not certain. Identification (probable, from the standard lists, not from this text): the five roots headed by bṛhatī are the lesser pañcamūla - bṛhatī, kaṇṭakārī, śālaparṇī, pṛśniparṇī, gokṣura.",
+  "why": "reviewer (minor): Policy wants the identification beside the term. \"bṛhatyādi pañcamūla\" is the lesser five roots (standard lists); tag probable, text does not list them."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Two palas of śāli (winter rice), godhūma (wheat), yava (barley) and māṣa (black gram), together with yaṣṭikā (licorice).",
+  "new": "Two palas of śāli (winter rice), godhūma (wheat), yava (barley) and māṣa (black gram), together with yaṣṭikā (probably licorice).",
+  "why": "reviewer (minor): yaṣṭikā is not the usual yaṣṭīmadhu/yaṣṭī of unit 42; some lists give other plants. Identification is only probable but is untagged and unhedged in translations."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "दो पल शालि यानी शालि चावल, गोधूम यानी गेहूँ, यव और माष यानी उड़द, यष्टिका सहित।",
+  "new": "दो पल शालि यानी शालि चावल, गोधूम यानी गेहूँ, यव और माष यानी उड़द, यष्टिका यानी सम्भवतः मुलेठी सहित।",
+  "why": "reviewer (minor): yaṣṭikā is not the usual yaṣṭīmadhu/yaṣṭī of unit 42; some lists give other plants. Identification is only probable but is untagged and unhedged in translations."
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "sa-yaṣṭikam",
+  "old": "together with yaṣṭikā (licorice)",
+  "new": "together with yaṣṭikā (probably licorice; probable)",
+  "why": "reviewer (minor): yaṣṭikā is not the usual yaṣṭīmadhu/yaṣṭī of unit 42; some lists give other plants. Identification is only probable but is untagged and unhedged in translations."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "दो पल शालि यानी शालि चावल, गोधूम यानी गेहूँ, यव और माष यानी उड़द, यष्टिका यानी सम्भवतः मुलेठी सहित।",
+  "new": "दो पल शालि यानी अगहनी चावल, गोधूम यानी गेहूँ, यव और माष यानी उड़द, यष्टिका यानी सम्भवतः मुलेठी सहित।",
+  "why": "reviewer (minor): Circular; give the ordinary Hindi name."
+ },
+ {
+  "n": "45",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "kukuṭāṃḍarasaḥ",
+    "suggest": "kukkuṭāṇḍarasaḥ",
+    "why": "possible: single k for kukkuṭa (spelling variant or scan slip); meaning unchanged"
+   }
+  ],
+  "why": "reviewer (minor): The split restores kukkuṭa but no text_flag records the change from the printed kukuṭa (unflagged silent emendation)."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Goat's milk cooked with those, the fluid (rasa) of a hen's egg, and sitā (crystallised sugar).",
+  "new": "Goat's milk cooked with those, the fluid (rasa) of a fowl's (kukkuṭa) egg, and sitā (crystallised sugar).",
+  "why": "reviewer (minor): Notes say hen vs cock is not firm, yet the translation asserts \"hen\"; the Sanskrit says kukkuṭa (fowl)."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "kukkuṭa-aṇḍa-rasaḥ",
+  "old": "fluid of a hen's egg",
+  "new": "fluid of a fowl's egg",
+  "why": "reviewer (minor): Notes say hen vs cock is not firm, yet the translation asserts \"hen\"; the Sanskrit says kukkuṭa (fowl)."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "With ghee, honey and the two salts (dvilavaṇa), by those (ingredients) the enema (basti) is a maker of semen (śukra), supremely.",
+  "new": "With ghee, honey and the two salts (dvilavaṇa), by those the enema (basti) is a maker of semen (śukra), supremely.",
+  "why": "reviewer (minor): \"ingredients\" is supplied; taiḥ is just \"those\"."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "घी, शहद और दो लवणों के साथ, उन द्रव्यों से बस्ति शुक्र को उत्पन्न करने वाली और अत्यन्त श्रेष्ठ है।",
+  "new": "घी, शहद और दो लवणों के साथ, उनसे बस्ति शुक्र को उत्पन्न करने वाली और अत्यन्त श्रेष्ठ है।",
+  "why": "reviewer (minor): \"द्रव्यों\" is supplied; and param is rendered as an adjective \"best\" (plus an added और) while the English takes it as adverb \"supremely\"; the two languages disagree. The grammar of param is open (notes)."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "घी, शहद और दो लवणों के साथ, उनसे बस्ति शुक्र को उत्पन्न करने वाली और अत्यन्त श्रेष्ठ है।",
+  "new": "घी, शहद और दो लवणों के साथ, उनसे बस्ति अत्यन्त शुक्र को उत्पन्न करने वाली है।",
+  "why": "reviewer (minor): \"द्रव्यों\" is supplied; and param is rendered as an adjective \"best\" (plus an added और) while the English takes it as adverb \"supremely\"; the two languages disagree. The grammar of param is open (notes)."
+ },
+ {
+  "n": "47",
+  "field": "word.gram",
+  "word": "śikhi-go",
+  "old": "tat-puruṣa, stem",
+  "new": "dvandva member (first part of the printed split of gonarda)",
+  "why": "reviewer (minor): \"tat-puruṣa\" is wrong for a list member (peacock and gonarda are separate items, dvandva)."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "narda",
+  "old": "second part of 'gonarda' (a bird name; unidentified)",
+  "new": "second part of 'gonarda' (a creature whose eggs are meant; possibly a bird; unidentified)",
+  "why": "reviewer (minor): The text does not say gonarda is a bird; calling it a bird is an assumption (unidentified)."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "केकड़े के मांस का रस, चटक के अण्डे के रस से युक्त।",
+  "new": "केकड़े के मांस का रस, चटक यानी गौरैया के अण्डे के रस से युक्त।",
+  "why": "reviewer (minor): Policy: Hindi name beside the term."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "sa-śarkarā-ghṛta-madhuḥ",
+  "old": "bahuvrīhi, n. nom. sg. (madhur before bastiḥ)",
+  "new": "bahuvrīhi, m. nom. sg. (printed madhu r- = madhuḥ before bastiḥ)",
+  "why": "reviewer (error): Bahuvrīhi agrees with bastiḥ (masculine); \"n. nom. sg.\" is wrong."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "शर्करा, घी और शहद के साथ बस्ति सबसे अधिक वृषतम यानी अत्यन्त वृष्य मानी गई है।",
+  "new": "शर्करा, घी और शहद के साथ बस्ति वृषतम यानी सबसे अधिक वृष्य मानी गई है।",
+  "why": "reviewer (minor): Doubled superlative (सबसे अधिक + -तम + अत्यन्त)."
+ },
+ {
+  "n": "50",
+  "field": "word.w",
+  "word": "basta-mūkara-jaiḥ",
+  "old": "basta-mūkara-jaiḥ",
+  "new": "basta-sūkara-jaiḥ",
+  "why": "reviewer (error): Flag says sūkara but `w` keeps the non-word mūkara; corrected form belongs in words. Notes claim mūkara is an attested variant: not supported (I know no such variant)."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "Printed 'bastamūkarajair' is read basta-mūkara-jaiḥ ('from he-goat and boar'); 'muṣka' = testis (standard, lit. 'testicles'). 'mūkara' is a variant of sūkara 'boar'; the print has mūkara (m for s?) - possible typo, but mūkara is attested as a variant; read as boar, not firm. Elliptical: the instrumental list depends on the following unit 51.",
+  "new": "Printed 'bastamūkarajair' is read basta-mūkara-jaiḥ ('from he-goat and boar'); 'muṣka' = testis (standard, lit. 'testicles'). 'mūkara' is not a standard word; read as a slip for sūkara 'boar' (m/s confusion in the scan), possible, not firm. Elliptical: the instrumental list depends on the following unit 51.",
+  "why": "reviewer (error): Flag says sūkara but `w` keeps the non-word mūkara; corrected form belongs in words. Notes claim mūkara is an attested variant: not supported (I know no such variant)."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "Printed 'bastamūkarajair' is read basta-mūkara-jaiḥ ('from he-goat and boar'); 'muṣka' = testis (standard, lit. 'testicles'). 'mūkara' is not a standard word; read as a slip for sūkara 'boar' (m/s confusion in the scan), possible, not firm. Elliptical: the instrumental list depends on the following unit 51.",
+  "new": "Printed 'bastamūkarajair' is read basta-mūkara-jaiḥ ('from he-goat and boar'); 'muṣka' = testis (standard, lit. 'testicles'). 'mūkara' is not a standard word; read as a slip for sūkara 'boar' (m/s confusion in the scan), possible, not firm. Elliptical (no verb); the instrumental list may continue in the next unit (not claimed as fact).",
+  "why": "reviewer (minor): Unverified claim about syntax across units."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "बकरे और सूअर से उत्पन्न अण्डकोशों यानी मुष्कों से तथा केकड़े और चटक के मांस से।",
+  "new": "बकरे और सूअर से उत्पन्न अण्डकोशों यानी मुष्कों से तथा केकड़े और चटक यानी गौरैया के मांस से।",
+  "why": "reviewer (minor): Policy: Hindi name."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "दूध सिद्ध किया हुआ बकरे के मुष्क, उच्चटा और इक्षुरक के साथ, तथा शहद।",
+  "new": "दूध सिद्ध किया हुआ बकरे के मुष्क यानी अण्डकोश, उच्चटा और इक्षुरक यानी सम्भवतः तालमखाना के साथ, तथा शहद।",
+  "why": "reviewer (minor): Hindi lacks the (hedged) identification that the English has, and मुष्क is unexplained."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "सिद्ध किए हुए दूध से भोज्य, आत्मगुप्ता यानी केवाँच, उच्चटा और इक्षुर के साथ।",
+  "new": "सिद्ध किए हुए दूध से भोज्य, आत्मगुप्ता यानी केवाँच, उच्चटा और इक्षुर यानी सम्भवतः तालमखाना के साथ।",
+  "why": "reviewer (minor): Hindi lacks the hedged identification."
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "daśa-daśa-ahena",
+  "old": "dvigu/repetition, n. inst. sg.",
+  "new": "dvigu/repetition, m. inst. sg.",
+  "why": "reviewer (minor): A compound ending in -aha is masculine, not neuter/\"n.\"."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, घोड़े की तरह पुष्ट हुआ, अस्पष्ट शब्द सदृष के साथ, वह सौ स्त्रियों के पास जाता है।",
+  "new": "अनुमानित पाठ पर, घोड़े की तरह पुष्ट हुआ, एक अस्पष्ट शब्द 'सदृषः', वह सौ स्त्रियों के पास जाता है।",
+  "why": "reviewer (error): \"के साथ\" is invented (no instrumental is readable); would present the unclear word as governed."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "ये माक्षिक यानी मधु से मिले हुए मनुष्य को अत्यन्त वृष बना देते हैं।",
+  "new": "ये, माक्षिक यानी शहद से संयुक्त, मनुष्य को अतिवृष यानी अत्यन्त पौरुषयुक्त बना देते हैं।",
+  "why": "reviewer (minor): \"वृष बना देते हैं\" reads as \"turn him into a bull\"; the Hindi name of mākṣika is शहद; no added मिले."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "और वे स्तम्भी होने के कारण न अतियोग करते हैं और न अयोग।",
+  "new": "और वे स्तम्भी यानी रोकने वाले, न अतियोग करते हैं और न अयोग।",
+  "why": "reviewer (error): \"होने के कारण\" (because) is not in the Sanskrit (stambhinaḥ is a bare nominative); the English \"being\" is likewise an addition."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "And they, being stambhin (checking, retaining), bring about neither excess (atiyoga) nor lack (ayoga).",
+  "new": "And they, stambhin (checking, retaining), bring about neither excess (atiyoga) nor lack (ayoga).",
+  "why": "reviewer (error): \"होने के कारण\" (because) is not in the Sanskrit (stambhinaḥ is a bare nominative); the English \"being\" is likewise an addition."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Nirūha enemas are scraping (lekhana); sneha enemas (sneha-basti) are mostly nourishing (bṛṃhaṇa).",
+  "new": "For the most part, nirūha enemas are scraping (lekhana) and sneha enemas (sneha-basti) are nourishing (bṛṃhaṇa).",
+  "why": "reviewer (minor): \"prāyaḥ\" stands between the halves; the draft binds it to the second half only, which the notes admit is undecided. Neutral rendering qualifies both."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "निरूह बस्तियाँ लेखन करने वाली हैं, और स्नेहबस्तियाँ प्रायः बृंहण करने वाली हैं।",
+  "new": "प्रायः निरूह बस्तियाँ लेखन यानी खुरचने वाली और स्नेहबस्तियाँ बृंहण यानी पोषण करने वाली हैं।",
+  "why": "reviewer (minor): \"prāyaḥ\" stands between the halves; the draft binds it to the second half only, which the notes admit is undecided. Neutral rendering qualifies both."
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "GROUPING: units 59-61 read as one sentence, but the verb is missing in 61; either the main clause is lost or 'saḥ' begins a clause that continues in the next unit. The subject of 'āsthāpya' (physician) and the 'he' (saḥ) are not both clear. No verb is supplied.",
+  "new": "GROUPING: units 60-61 read as one sentence (60 \"but he in whom these ... should not return\", continued in 61), but the verb is missing in 61; either the main clause is lost or 'saḥ' begins a clause that continues in the next unit. The subject of 'āsthāpya' (physician) and the 'he' (saḥ) are not both clear. No verb is supplied.",
+  "why": "reviewer (error): 59 is a complete sentence (iṣṭam); the run-on is 60-61 only."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "सूजन, अग्नि का नाश, पाण्डुता यानी फीकापन, शूल, अर्श यानी बवासीर और परिकर्तिका यानी कटने जैसी पीड़ा।",
+  "new": "सूजन, अग्नि का नाश, पाण्डुता यानी फीकापन, शूल, अर्श यानी बवासीर और परिकर्तिका यानी काटने की पीड़ा।",
+  "why": "reviewer (minor): Glossary forbids added जैसे/जैसी."
+ },
+ {
+  "n": "62",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "śophāgnināśapāṃḍutvaśūlārśaḥparikarttikāḥ",
+    "suggest": "…śūla-arśa-parikartikāḥ (or arśaḥ read as a separate word)",
+    "why": "possible: visarga before p- inside a compound is irregular; meaning unchanged"
+   }
+  ],
+  "why": "reviewer (minor): Visarga inside a compound (before p-) is irregular; read as a separate word silently. Needs a flag."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "यापन के अत्यधिक सेवन से ज्वर और अतिसार भी हो सकते हैं।",
+  "new": "यापन के अत्यधिक सेवन से ज्वर और अतिसार यानी दस्त भी हो सकते हैं।",
+  "why": "reviewer (minor): Policy: modern/ordinary name."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "उस स्थिति में अरिष्ट, क्षार, सीधु आदि से दीपन क्रिया यानी अग्नि को प्रदीप्त करने वाला उपचार इष्ट है।",
+  "new": "उस स्थिति में अरिष्ट, क्षार, सीधु यानी गन्ने के रस की मदिरा आदि से दीपन क्रिया यानी अग्नि को प्रदीप्त करने वाला उपचार इष्ट है।",
+  "why": "reviewer (minor): Policy: ordinary description (sīdhu is standard: fermented sugarcane juice)."
+ },
+ {
+  "n": "66",
+  "field": "notes",
+  "old": "Elliptical list of reasons; the reasoning is completed in 67 and 68. 'pāda' = one quarter (standard). Reading 'mild and little' vs 'mild little' of 'mṛdvalpa' is not decided.",
+  "new": "Elliptical list of reasons; the sentence is completed in 67. 'pāda' = one quarter (standard). Reading 'mild and little' vs 'mild little' of 'mṛdvalpa' is not decided.",
+  "why": "reviewer (minor): 68 starts a new thought; only 67 completes the sentence."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "In the drugs meant for yāpana, from prepared (cooked) sneha, separately, each.",
+  "new": "In the drugs meant for yāpana, from cooked sneha, separately, each.",
+  "why": "reviewer (minor): Glossary: siddha = cooked."
+ },
+ {
+  "n": "68",
+  "field": "word.gloss",
+  "word": "siddha-snehāt",
+  "old": "from prepared (cooked) sneha, oil or ghee",
+  "new": "from cooked sneha (oil or ghee)",
+  "why": "reviewer (minor): Glossary: siddha = cooked."
+ },
+ {
+  "n": "68",
+  "field": "hindi",
+  "old": "यापन के लिए बनाए गए द्रव्यों में, सिद्ध स्नेह से, अलग-अलग।",
+  "new": "यापन के प्रयोजन वाले द्रव्यों में, सिद्ध स्नेह से, अलग-अलग।",
+  "why": "reviewer (error): \"बनाए गए\" (made) is not in yāpanārtha (\"meant for yāpana\")."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "'siddhāsnehāt' is read as 'siddha-snehāt'; the long 'ā' looks like a typo (possible). Sentence completed in 69. The syntax of the ablative is not certain, hence confidence low.",
+  "new": "'siddhāsnehāt' is read as 'siddha-snehāt'; the long 'ā' looks like a typo (possible). Sentence completed in 69. The syntax of the ablative is not certain, hence confidence low. Possible syntax (not decided): 'pṛthak' governs the ablative, 'apart from the cooked sneha'; the repeated 'pṛthak pṛthak' then means 'each separately'.",
+  "why": "reviewer (minor): Possible syntax: pṛthak takes the ablative (\"apart from the cooked sneha\"), then pṛthak pṛthak \"each separately\". Compare 70 \"gokṣurakāt pṛthak\". Human decision."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "सहाचर, अभीरु, बला, रास्ना और गोक्षुरक यानी गोखरू से अलग-अलग।",
+  "new": "सहाचर यानी सम्भवतः कटसरैया, अभीरु यानी सम्भवतः शतावरी, बला यानी बरियार, रास्ना जिसकी पहचान विवादित है यानी रासना या कुलंजन, और गोक्षुरक यानी गोखरू से अलग-अलग।",
+  "why": "reviewer (minor): Hindi gives only gokṣuraka a Hindi name; the other drugs (identified in the gloss and in units 40-41) are bare."
+ },
+ {
+  "n": "72",
+  "field": "hindi",
+  "old": "छानकर ठण्डा होने पर: बिस, द्राक्षा यानी अंगूर या मुनक्का, नत, वक्षीरी और निदिग्धिका यानी कटेरी।",
+  "new": "छानकर ठण्डा होने पर: बिस यानी कमलनाल, द्राक्षा यानी अंगूर या मुनक्का, नत यानी सम्भवतः तगर, वक्षीरी जो अस्पष्ट शब्द है, और निदिग्धिका यानी कटेरी।",
+  "why": "reviewer (minor): Hindi lacks names and does not mark वक्षीरी as unclear (English does)."
+ },
+ {
+  "n": "73",
+  "field": "notes",
+  "old": "The printed compound is garbled ('mahāsahāṃśudrasahāyahaṣṭīmadhumūlikāḥ'); it probably contains mahāsahā, aṃśumatī (or aṃśu), a form of 'sahā', yaṣṭī (misprinted as 'haṣṭī') and madhumūlikā or madhuka, but the division is not safe. It is left unsplit and no identification is built on it. Continues the list of 72.",
+  "new": "The printed compound is garbled ('mahāsahāṃśudrasahāyahaṣṭīmadhumūlikāḥ'); it probably contains mahāsahā, aṃśumatī (or aṃśu), a form of 'sahā', yaṣṭī (misprinted as 'haṣṭī') and madhumūlikā or madhuka, but the division is not safe. It is left unsplit and no identification is built on it. Continues the list of 72. Possible (not firm, not built into the translation): 'aṃśudrasahā' may be a corruption of 'kṣudrasahā', giving the usual pair mahāsahā + kṣudrasahā (often taken as māṣaparṇī and mudgaparṇī).",
+  "why": "reviewer (minor): Missed possibility: \"ṃśudrasahā\" may be a corruption of \"kṣudrasahā\"; mahāsahā + kṣudrasahā (māṣaparṇī and mudgaparṇī in the usual lists) is a common pair. Possible only; not for the translation."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "जीवक, ऋषभक, उदीच्य यानी सम्भवतः ह्रीवेर, मृणाल, उत्पल और चन्दन।",
+  "new": "जीवक, ऋषभक, उदीच्य यानी सम्भवतः ह्रीवेर अर्थात् सुगन्धबाला, मृणाल यानी कमलनाल, उत्पल यानी नीलकमल और चन्दन।",
+  "why": "reviewer (minor): Hindi lacks ordinary names; ह्रीवेर is a Sanskrit synonym, not the Hindi name."
+ },
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "खजूर, ताल की मज्जा यानी गिरी, आत्मगुप्ता यानी केवाँच, आमलकी यानी आँवला और कणा।",
+  "new": "खजूर, ताल की मज्जा यानी ताड़ की गिरी, आत्मगुप्ता यानी केवाँच, आमलकी यानी आँवला और कणा यानी सम्भवतः पीपर।",
+  "why": "reviewer (minor): Hindi lacks ताड़ and the hedge for kaṇā (English has it)."
+ },
+ {
+  "n": "75",
+  "field": "notes",
+  "old": "The printed 'ātmaguptānāmalakī' has an extra 'n': read as ātmaguptā + āmalakī (possible typo). 'kaṇā' commonly names long pepper (pippalī) (probable). tāla = palmyra palm (probable).",
+  "new": "The printed 'ātmaguptānāmalakī' has an extra 'n': read as ātmaguptā + āmalakī (possible typo). 'kaṇā' commonly names long pepper (pippalī) (probable). tāla = palmyra palm (standard).",
+  "why": "reviewer (minor): Inconsistent tag: gloss says standard, note says probable. tāla = palmyra (Borassus flabellifer) is standard."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "पटोल, मेदा, त्वक् और पत्र, शीतपाकी, और ओदन नाम वाले।",
+  "new": "पटोल यानी परवल, मेदा नामक द्रव्य जिसकी पहचान विवादित है, त्वक् और पत्र, शीतपाकी, और ओदन नाम वाले।",
+  "why": "reviewer (error): पटोल lacks the Hindi name; \"मेदा\" reads as मैदा (flour) to a Hindi reader."
+ },
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "रस, सूअर, भैंसे और बकरे के मुष्कों से उत्पन्न, उसी प्रकार।",
+  "new": "रस, सूअर, भैंसे और बकरे के मुष्कों यानी अण्डकोशों से उत्पन्न, उसी प्रकार।",
+  "why": "reviewer (minor): Unexplained; 50 explained it."
+ }
+]

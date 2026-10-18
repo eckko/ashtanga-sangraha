@@ -1,0 +1,686 @@
+{
+ "units": [
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'governing verb stands outside this chunk'",
+     "problem": "Unverified claim; unit 84 has dadyāt and units 79-83 may run into it (sentence across units, no pairing claimed).",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(the governing verb stands outside this chunk)",
+      "new": "(the governing verb is not in this unit; it may lie in the unit before or in unit 84, 'dadyāt'; the sentence may run across units 79-84)",
+      "n": "79"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भेरी और मृदंग",
+     "problem": "Drum names unexplained in Hindi (policy: modern names beside the term).",
+     "fix": "भेरी यानी नगाड़ा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भेरी और मृदंग",
+      "new": "भेरी यानी नगाड़े और मृदंग",
+      "n": "81"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pūjayitvā",
+     "problem": "pūj (pūjayati) is a 10th-class/denominative verb, not a causative.",
+     "fix": "abs. √pūj",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pūjayitvā",
+      "field": "gram",
+      "value": "abs. √pūj",
+      "n": "83"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वृषता",
+     "problem": "Bare Sanskrit word; English has 'virility'.",
+     "fix": "वृषता यानी पौरुष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यधिक वृषता पाकर",
+      "new": "अत्यधिक वृषता यानी पौरुष पाकर",
+      "n": "85"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "prāptes / dhanitā",
+     "problem": "Both conjectures are plausible (ग/ध-type and व/ध misreads; prāptas before t). Translation rests on both; kept as 'possible'. Alternative for the first: a different case ending cannot be excluded.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कान्त",
+     "problem": "Archaic/unclear in Hindi; English is 'handsome'.",
+     "fix": "सुन्दर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कान्त और चिरंजीवी",
+      "new": "सुन्दर और चिरंजीवी",
+      "n": "86"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विषमज्वर वाले",
+     "problem": "Modern equivalent only in English notes; viṣamajvara = irregular/intermittent fever is the standard sense.",
+     "fix": "add gloss in Hindi",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विषमज्वर वाले हैं",
+      "new": "विषमज्वर यानी अनियमित बुखार वाले हैं",
+      "n": "87"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "saparīhārā",
+     "problem": "Long ī in 'parī-' is printed in both scripts; usual spelling is parihāra. Unflagged silent keeping of a likely misprint.",
+     "fix": "add possible flag",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "saparīhārā",
+        "suggest": "saparihārāḥ",
+        "why": "possible: long ī in 'parī-' is not the usual spelling of parihāra; sense unaffected"
+       }
+      ],
+      "n": "91"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "daśamūla list in notes",
+     "problem": "The ten-root list sits in the notes of 92 only; fine as standard, but a glossary entry would let later units reuse it. Identifications checked: rāsnā, aśvagandhā, punarnavā, varā tags are sound.",
+     "fix": "glossary entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "guḍūcyaiṃraṃḍa… / …śirīṣaṃ",
+     "problem": "One combined flag with an unusable 'suggest' (ellipsis). Two separate conjectures: extra anusvāra (airaṇḍa; note 'yai' needs airaṇḍa, not eraṇḍa) and śeriṣa->śirīṣa. src is the whole printed token.",
+     "fix": "replace by one flag with the full corrected token",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "guḍūcyaiṃraṃḍabhūtīkabhārgīvṛṣakaśeriṣaṃ",
+        "suggest": "guḍūcyairaṇḍabhūtīkabhārgīvṛṣakaśirīṣaṃ",
+        "why": "possible: (1) extra anusvāra in 'yaiṃraṃḍa' read as guḍūcy-airaṇḍa (airaṇḍa 'of castor'; guḍūcī+eraṇḍa would give -yeraṇḍa, not -yairaṇḍa); (2) 'śeriṣa' is not a known drug name, 'śirīṣa' fits (kept as 'possible'; śairīṣa is another conceivable base)"
+       }
+      ],
+      "n": "93"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "low is right: damaged long compound; identifications are kept off the uncertain items (bhūtīka). No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pala-aṃśikam",
+     "problem": "Gender 'm.' given for an unstated noun (glossary: no gender for unstated nouns).",
+     "fix": "bahuvrīhi, acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pala-aṃśikam",
+      "field": "gram",
+      "value": "bahuvrīhi, acc. sg.",
+      "n": "94"
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "units 92-95",
+     "problem": "The accusative lists of 92-95 have no verb of their own; their verb is most probably vipācya in unit 96 (boiled in a vaha of water). Not noted.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The accusatives of units 92-95 lack a verb here; they are most probably the objects of 'vipācya' in unit 96 (sentence running across units; no verse pairing claimed).",
+      "n": "95"
+     }
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vaha / droṇa",
+     "problem": "Measures not worked out (known risk). Standard: droṇa = 4 āḍhaka (about 12 litres by the usual 1 āḍhaka = about 3 litres); the size of the vaha differs between texts (a multiple of the droṇa) and cannot be fixed from this line. Human decision whether to add numbers.",
+     "fix": "append note if wanted",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "और उससे भी",
+     "problem": "'भी' is not in the Sanskrit (tena ca = 'and with that').",
+     "fix": "और उससे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और उससे भी।",
+      "new": "और उससे।",
+      "n": "96"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "object of vipācya",
+     "problem": "Object of 'vipācya' stated as unknown; most probably the drugs listed in 92-95.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The object of 'vipācya' is most probably the drug list of units 92-95 (not stated here).",
+      "n": "96"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sarva-vāta-vikāra-nud",
+     "problem": "'final d written t' is wrong: -nut is the regular pausal form of nud (√nud) in every print, not a printing devoicing.",
+     "fix": "fix gloss and note",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sarva-vāta-vikāra-nud",
+      "field": "gloss",
+      "value": "all; Vāta; disorder; dispelling (-nud, regular final -t)",
+      "n": "98"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "devoicing",
+     "problem": "Same wrong explanation.",
+     "fix": "regular sandhi",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "shown as -nut by the final devoicing in print",
+      "new": "-nut is its regular form at the end of the word",
+      "n": "98"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनूप जीवों",
+     "problem": "'जीवों' supplies a noun the Sanskrit lacks (English uses '(ones)').",
+     "fix": "अनूपों की वसा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनूप जीवों की वसा",
+      "new": "अनूपों की वसा",
+      "n": "99"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ānūpānām",
+     "problem": "Gender 'm.' for an unstated noun.",
+     "fix": "gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ānūpānām",
+      "field": "gram",
+      "value": "gen. pl.",
+      "n": "99"
+     }
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "amlaiḥ",
+     "problem": "'m./n.' for unstated nouns.",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "amlaiḥ",
+      "field": "gram",
+      "value": "inst. pl.",
+      "n": "100"
+     }
+    },
+    {
+     "field": "english",
+     "where": "for wind",
+     "problem": "Locative 'samīraṇe' is literally 'in wind'; 'for' is interpretation. Owner decision (same for hindi 'में' which is literal).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dhṛtam/ghṛtam",
+     "problem": "Conjecture accepted (Devanagari द्ध for घ is a likely misread; ghṛta fits oil-and-ghee context and 'anilajit'). Translation rests on it; consider adding 'on a conjectural reading' to the English.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Jīvantī",
+     "problem": "Standard identification is in the gloss but not beside the term in the translation.",
+     "fix": "Jīvantī (Leptadenia reticulata)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Jīvantī, madana",
+      "new": "Jīvantī (Leptadenia reticulata), madana",
+      "n": "102"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जीवन्ती",
+     "problem": "No modern Hindi name given.",
+     "fix": "जीवन्ती यानी डोडी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीवन्ती, मदन",
+      "new": "जीवन्ती यानी डोडी, मदन",
+      "n": "102"
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुत्रीय",
+     "problem": "Unexplained Sanskrit word in Hindi.",
+     "fix": "पुत्रीय यानी पुत्र से सम्बन्धित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और पुत्रीय अनुवासन",
+      "new": "और पुत्रीय यानी पुत्र से सम्बन्धित अनुवासन",
+      "n": "107"
+     }
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तेल को चौथाई भाग रखकर",
+     "problem": "'रखकर' reads as an action not in the Sanskrit (bahuvrīhi 'having oil as quarter').",
+     "fix": "जिसमें तेल चौथाई है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेल को चौथाई भाग रखकर पकाया गया घी",
+      "new": "जिसमें तेल चौथाई है, ऐसा पकाया गया घी",
+      "n": "109"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "nicalo",
+     "problem": "Plausible; kuṣṭha as costus drug and nicula disputed: fine. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hrīberaṃ",
+     "problem": "Silent emendation ba->va in w without a flag (hrībera is an attested variant spelling).",
+     "fix": "add orthographic flag",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "hrīberaṃ",
+        "suggest": "hrīveram",
+        "why": "orthographic: ba for va (hrībera is an attested variant spelling); read as hrīvera"
+       }
+      ],
+      "n": "111"
+     }
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन समान भागों वालों के साथ",
+     "problem": "'भागों' (parts) is added; the Sanskrit says only taiḥ samaiḥ (with those, equal ones); the draft's own note admits 'parts' is not in the text.",
+     "fix": "उन समानों के साथ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन समान भागों वालों के साथ",
+      "new": "उन समानों के साथ",
+      "n": "114"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "taiḥ / samaiḥ",
+     "problem": "Gender 'm.' for unstated nouns.",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "taiḥ",
+       "field": "gram",
+       "value": "inst. pl.",
+       "n": "114"
+      },
+      {
+       "op": "word",
+       "match_w": "samaiḥ",
+       "field": "gram",
+       "value": "inst. pl.",
+       "n": "114"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kapha-roga-nud",
+     "problem": "'final d written t' wrong; -nut is regular.",
+     "fix": "fix gloss",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kapha-roga-nud",
+      "field": "gloss",
+      "value": "Kapha; disease; removing (-nud, regular final -t)",
+      "n": "115"
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Vardhma, udāvarta, gulma, plīha",
+     "problem": "Identifications only in notes; policy wants them beside the term in the translation; vardhma is only 'probable' so hedged.",
+     "fix": "gloss each",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Vardhma (probably enlargement of the scrotum, hernia or hydrocele), udāvarta (reversed movement of wind), gulma (abdominal lump), arśas (haemorrhoids), plīha (spleen disorder) and meha (urinary disorders), together with wind (māruta),",
+      "n": "116"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्ध्म यानी अण्डवृद्धि, उदावर्त",
+     "problem": "vardhma stated as certain; udāvarta unglossed.",
+     "fix": "hedge and gloss",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर्ध्म यानी अण्डवृद्धि, उदावर्त,",
+      "new": "वर्ध्म यानी सम्भवतः अण्डवृद्धि, उदावर्त यानी वायु का उलटी दिशा में जाना,",
+      "n": "116"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "meha",
+     "problem": "HUMAN DECISION: meha is the prameha group (twenty urinary disorders, classically including diabetes, madhumeha). 'urinary disorders' is safe; owner policy (modern names wanted) vs glossary OPEN on madhumeha. Not patched.",
+     "fix": "decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Draft is careful: no invented content, identifications are tagged and hedged sensibly, text_flags conjectures (85, 86, 88, 101, 105, 110) are plausible and src is kept as printed. One error (114 Hindi adds 'भागों'/parts). Minor: unstated-noun genders in gram (94, 99, 100, 114), Hindi glosses missing (81, 85, 87, 102, 107, 116), 116 English lacks beside-the-term glosses, -nut explained wrongly as devoicing (98, 115), 93 flag unusable (ellipsis), missing flags (91, 111), cross-unit notes (79, 95, 96). Human decisions: meha/prameha wording (116), vaha/droṇa numbers (96), 'for wind' (100), 'conjectural reading' wording where the translation rests on a conjecture (85, 101, 105). No identification judged wrong. Regrouping: none needed, but 92-97 form one recipe sentence (drug list 92-95 -> vipācya 96 -> pacet 97) and 79-84 may be one sentence.",
+ "glossary_suggestions": [
+  "-nud compounds (vikāranut, roganut): 'final -t is regular sandhi', not a print error.",
+  "gram: no gender for unstated nouns (ānūpānām, amlaiḥ, taiḥ samaiḥ, palāṃśikam).",
+  "śatāvhā = print form of śatāhvā (dill, Anethum sowa); hrībera = hrīvera (Pavonia odorata).",
+  "Fix drug renderings used 3+ times: medā, kākanāsā, kṣīrakākolī, ṛṣabhaka kept bare (disputed); madhuka probable liquorice; kṛṣṇā probable pippalī; bhārgī = Clerodendrum serratum (भारंगी); jīvantī = Leptadenia reticulata (डोडी).",
+  "meha: decide wording (prameha group, includes diabetes) once.",
+  "Measures: droṇa = 4 āḍhaka; decide whether to give litre values; vaha unfixed.",
+  "Hindi basti: decide whether to add 'यानी एनिमा' or keep बस्ति."
+ ]
+}

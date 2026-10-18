@@ -1,0 +1,270 @@
+[
+ {
+  "n": "76",
+  "field": "word.gram",
+  "word": "tasmin",
+  "old": "n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Gender given (n.) for words agreeing with an unstated noun; glossary says no gender on unstated nouns."
+ },
+ {
+  "n": "76",
+  "field": "word.gram",
+  "word": "bhukte",
+  "old": "past part. √bhuj, n. loc. sg.",
+  "new": "past part. √bhuj, loc. sg.",
+  "why": "reviewer (minor): Gender given (n.) for words agreeing with an unstated noun; glossary says no gender on unstated nouns."
+ },
+ {
+  "n": "76",
+  "field": "word.gram",
+  "word": "a-bhukte",
+  "old": "past part. a-√bhuj, n. loc. sg.",
+  "new": "past part. a-√bhuj, loc. sg.",
+  "why": "reviewer (minor): Gender given (n.) for words agreeing with an unstated noun; glossary says no gender on unstated nouns."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "Elliptical: the verb (something like 'one should know it as') is carried from earlier units and not supplied. jīva is read as jīvarakta ('life-blood') of the preceding units; pitta here is the humour-related blood (cf. raktapitta) as the text uses it, no more is stated.",
+  "new": "Elliptical: the verb (something like 'one should know it as') is carried from earlier units and not supplied. jīva is read as jīvarakta ('life-blood') of the preceding units; pitta presumably stands for raktapitta as in units 73-74; the line itself does not say so.",
+  "why": "reviewer (minor): Note claims pitta is 'the humour-related blood ... as the text uses it': unsupported. Units 73-74 use raktapitta, so pitta here most plausibly stands for (rakta)pitta; the text does not say."
+ },
+ {
+  "n": "77",
+  "field": "english",
+  "old": "And up to death, for him afflicted by thirst, fainting and intoxication (mada), he should carry out the pitta-destroying treatment and what is stated for excess (atiyoga).",
+  "new": "And up to death, for him afflicted by thirst, fainting and intoxication (mada), he should carry out the Pitta-destroying treatment and what is stated for excess (atiyoga).",
+  "why": "reviewer (minor): Capitalisation: glossary has Pitta capitalised outside raktapitta; unit 103 writes 'Kapha-dispelling'."
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "अथवा श्यामा, जिसकी पहचान विवादित है, काश्मर्य यानी गम्भारी, दूर्वा यानी दूब और उशीर यानी खस के साथ पकाया हुआ दूध, एक अनुमानित पाठ के अनुसार बकरी के घृतमण्ड से युक्त, ठण्डा, बस्ति में डाले।",
+  "new": "अथवा श्यामा, जिसकी पहचान विवादित है, काश्मर्य यानी गम्भारी, दूर्वा यानी दूब और उशीर यानी खस के साथ उबाला हुआ दूध, एक अनुमानित पाठ के अनुसार बकरी के घृतमण्ड से युक्त, ठण्डा, बस्ति में डाले।",
+  "why": "reviewer (minor): Glossary: śṛta 'boiled', siddha 'cooked'; पकाया would blur the two."
+ },
+ {
+  "n": "80",
+  "field": "word.w",
+  "word": "samyak-prayukta-vamana-virecana-upadraveṣu",
+  "old": "samyak-prayukta-vamana-virecana-upadraveṣu",
+  "new": "a-samyak-prayukta-vamana-virecana-upadraveṣu",
+  "why": "reviewer (error): Likely misreading: printed 'cā samyak…' with the space removed is 'cāsamyak…' = ca + a-samyak ('improperly administered'). No letter has to be changed, only the space; the draft's reading needs the printed ā to be an error and gives the opposite sense ('properly'). 'Improperly administered' also fits a chapter on faulty administration and 'the remaining complications (śeṣeṣu)'. Draft already mentions this alternative."
+ },
+ {
+  "n": "80",
+  "field": "word.gloss",
+  "word": "a-samyak-prayukta-vamana-virecana-upadraveṣu",
+  "old": "in the complications of properly administered emesis and purgation",
+  "new": "in the complications of improperly administered emesis and purgation",
+  "why": "reviewer (error): Likely misreading: printed 'cā samyak…' with the space removed is 'cāsamyak…' = ca + a-samyak ('improperly administered'). No letter has to be changed, only the space; the draft's reading needs the printed ā to be an error and gives the opposite sense ('properly'). 'Improperly administered' also fits a chapter on faulty administration and 'the remaining complications (śeṣeṣu)'. Draft already mentions this alternative."
+ },
+ {
+  "n": "80",
+  "field": "english",
+  "old": "And in the remaining complications (upadrava) too, of emesis and purgation properly administered, he should counter them according to the disease, having regard to the doṣas, and should look to the basti-vyāpat-siddhi.",
+  "new": "And in the remaining complications (upadrava) too, of emesis and purgation improperly administered, he should counter them according to the disease, having regard to the doṣas, and should look to the basti-vyāpat-siddhi.",
+  "why": "reviewer (error): Follows from the split above."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "और भली-भाँति प्रयुक्त वमन और विरेचन के शेष उपद्रवों में भी, रोग के अनुसार दोषों का विचार करके प्रतिकार करे, और बस्तिव्यापत्सिद्धि को देखे।",
+  "new": "और अनुचित रूप से प्रयुक्त वमन और विरेचन के शेष उपद्रवों में भी, रोग के अनुसार दोषों का विचार करके प्रतिकार करे, और बस्तिव्यापत्सिद्धि को देखे।",
+  "why": "reviewer (error): Follows from the split above."
+ },
+ {
+  "n": "80",
+  "field": "text_flags.0.suggest",
+  "old": "ca",
+  "new": "cāsamyak",
+  "why": "reviewer (minor): Flag says long ā where ca is expected; the better explanation is ca + initial a of asamyak (only the space is displaced)."
+ },
+ {
+  "n": "80",
+  "field": "text_flags.0.why",
+  "old": "long ā where ca is expected; possible",
+  "new": "ā is ca + the initial a of a-samyak (cāsamyak…); only the space is misplaced; possible",
+  "why": "reviewer (minor): Flag says long ā where ca is expected; the better explanation is ca + initial a of asamyak (only the space is displaced)."
+ },
+ {
+  "n": "80",
+  "field": "notes",
+  "old": "'cā samyak' is read as ca + samyak ('properly administered'); the alternative ca + a-samyak ('improperly administered') would suit a chapter on faulty administration but is not what is printed. basti-vyāpat-siddhi presumably names the chapter of that name (cf. the colophon style); literally 'cure of the complications of basti'. Printed 'vasti' normalised to basti.",
+  "new": "'cā samyak' is read as ca + a-samyak ('improperly administered'): the printed text without the space is cāsamyak, so only the spacing is off. The alternative ca + samyak ('properly administered') would need the printed ā to be an error. basti-vyāpat-siddhi presumably names the chapter of that name (cf. the colophon style); literally 'cure of the complications of basti'. Printed 'vasti' normalised to basti.",
+  "why": "reviewer (error): Note must follow the corrected reading."
+ },
+ {
+  "n": "81",
+  "field": "word.gram",
+  "word": "ubhayataḥ-bhāge",
+  "old": "m. loc. sg.",
+  "new": "loc. sg. (compound ubhayatobhāga, agreeing with śodhane)",
+  "why": "reviewer (minor): 'm.' asserted, but ubhayatobhāga here agrees with neuter śodhane (or is a compound adjective); gender not safe."
+ },
+ {
+  "n": "85",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence begun in the previous unit (excess, wrong time, scanty, not soaked, improperly prepared, old: the medicine fails). jīrṇa 'old' follows the glossary; 'worn out, decayed' is possible.",
+  "new": "GROUPING: completes the sentence begun in the previous unit (excess, wrong time, scanty, not soaked, improperly prepared, old: the medicine fails). jīrṇa 'old' follows the glossary; 'worn out, decayed' is possible. jīrṇa could also mean 'already digested' (the medicine digested without acting); 'old' kept per glossary (OPEN, owner).",
+  "why": "reviewer (minor): jīrṇa 'old' follows the glossary, but in a list of causes of a failed drug it could also be 'already digested (before acting)'; ambiguous. For the owner."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "जिसके पीया हुआ अनुलोमिक यानी स्वाभाविक दिशा में चलने वाला कफ से मिला हुआ ऊपर की ओर जाता है,",
+  "new": "जिसके पीया हुआ, अनुलोमिक यानी स्वाभाविक दिशा में चलने वाला, कफ से मिला हुआ ऊपर की ओर जाता है,",
+  "why": "reviewer (minor): Hindi word order makes 'कफ' look like what is ānulomika ('स्वाभाविक दिशा में चलने वाला कफ से मिला हुआ ...')."
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "pītam",
+  "old": "past part. √pā, n. nom. sg.",
+  "new": "past part. √pā, nom. sg.",
+  "why": "reviewer (minor): Gender given for words agreeing with an unstated noun (the medicine, per the draft's own note)."
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "kapha-saṃsṛṣṭam",
+  "old": "tat-puruṣa, n. nom. sg.",
+  "new": "tat-puruṣa, nom. sg.",
+  "why": "reviewer (minor): Gender given for words agreeing with an unstated noun (the medicine, per the draft's own note)."
+ },
+ {
+  "n": "88",
+  "field": "word.gram",
+  "word": "ānulomikam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Gender given for words agreeing with an unstated noun (the medicine, per the draft's own note)."
+ },
+ {
+  "n": "88",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): 'goes upward' with 'ānulomika' is odd for a purgative; ānulomikam may be adverbial or the object of yāti; the construction is not settled, so medium is too firm."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "GROUPING: the sentence continues in the next unit. 'What is drunk' (pītam) is the medicine, unstated. ānulomika is literally 'going with the grain'; for a purgative this is probably downward (probable), but the line does not say.",
+  "new": "GROUPING: the sentence continues in the next unit. 'What is drunk' (pītam) is the medicine, unstated. ānulomika is literally 'going with the grain'; for a purgative this is probably downward (probable), but the line does not say. Syntax uncertain: ānulomikam may be adverbial ('goes in the natural way') or a noun, and 'goes upward' sits oddly with ānulomika for a purgative.",
+  "why": "reviewer (minor): 'goes upward' with 'ānulomika' is odd for a purgative; ānulomikam may be adverbial or the object of yāti; the construction is not settled, so medium is too firm."
+ },
+ {
+  "n": "90",
+  "field": "english",
+  "old": "When the doṣa is held back, scanty, and flowing (only) after a long time, he should drink hot water.",
+  "new": "When the doṣa is held back, scanty, and flowing after a long time, he should drink hot water.",
+  "why": "reviewer (minor): '(only)' is not in the Sanskrit."
+ },
+ {
+  "n": "91",
+  "field": "notes",
+  "old": "ādhmāna = abdominal distension, bloating (standard). The singular verb serves the whole list. 'That' (tena) is the hot water of the previous unit.",
+  "new": "ādhmāna = abdominal distension, bloating (standard). The singular verb serves the whole list. 'That' (tena) is the hot water of the previous unit. vibandha = constipation / obstruction of stool and flatus (standard).",
+  "why": "reviewer (minor): Modern equivalent missing: vibandha is standardly constipation (retention of stool and flatus); translation 'obstruction' is fine."
+ },
+ {
+  "n": "94",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Note says the construction is uncertain, gram says 'construction unclear'; medium is too firm."
+ },
+ {
+  "n": "95",
+  "field": "word.gram",
+  "word": "a-jīrṇam",
+  "old": "n. nom./acc. sg.",
+  "new": "nom./acc. sg.",
+  "why": "reviewer (minor): Gender given for words with unstated noun."
+ },
+ {
+  "n": "95",
+  "field": "word.gram",
+  "word": "su-śītaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Gender given for words with unstated noun."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "jīrṇe",
+  "old": "past part. √jṝ, n. loc. sg.",
+  "new": "past part. √jṝ, loc. sg.",
+  "why": "reviewer (minor): Gender given for words with unstated noun."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "tiṣṭhati",
+  "old": "pres. part. √sthā, n. loc. sg.",
+  "new": "pres. part. √sthā, loc. sg.",
+  "why": "reviewer (minor): Gender given for words with unstated noun."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "ūrdhva-gate",
+  "old": "tat-puruṣa, n. loc. sg.",
+  "new": "tat-puruṣa, loc. sg.",
+  "why": "reviewer (minor): Gender given for words with unstated noun."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "The syntax is uncertain: jīrṇe, tiṣṭhati and ūrdhvagate are read as three locatives (absolute) of an unstated subject (the medicine / Kapha). jīrṇa is rendered 'digested' here, not 'old' (the glossary rendering, used in an earlier unit for aged medicine), because the context is digestion; 'old' remains possible. tiṣṭhati may also be a verb ('it stays').",
+  "new": "The syntax is uncertain: jīrṇe, tiṣṭhati and ūrdhvagate are read as three locatives (absolute) of an unstated subject (the medicine / Kapha). jīrṇa is rendered 'digested' here, not 'old' (the glossary rendering, used in an earlier unit for aged medicine), because the context is digestion; 'old' remains possible. tiṣṭhati may also be a verb ('it stays'). Metre: the printed half-line rūkṣānnāhārayejjīrṇe has 8 syllables; the suggested rūkṣānnamāhārayejjīrṇe would have 9, so the emendation is doubtful (printed form may be rūkṣānna + āhārayet).",
+  "why": "reviewer (minor): Typo conjecture (+m) is doubtful on metre: the printed half-line has 8 syllables, adding -m makes 9. The printed text may be rūkṣānna (bare stem) + āhārayet. Flag stays 'possible'; src kept as printed, correction only in words: fine."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "किन्तु औषध के वायु से रुकने पर किसी दूसरे को स्नेह और लवण सहित पिए।",
+  "new": "किन्तु औषध के वायु से रुकने पर स्नेह और लवण सहित दूसरा पिए।",
+  "why": "reviewer (minor): 'को' reads as 'to someone else'; anyat is neuter accusative 'another (one)'."
+ },
+ {
+  "n": "99",
+  "field": "word.gram",
+  "word": "anyat",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Gender given for an unstated noun."
+ },
+ {
+  "n": "99",
+  "field": "notes",
+  "old": "Elliptical: the participle (probably ruddha, 'held', carried from the earlier unit about Kapha) is not in the line. 'Another (one)' is a drink or medicine, unstated. sasnehalavaṇa could also mean 'salt with fat' (bahuvrīhi) instead of 'fat and salt'.",
+  "new": "Elliptical: the participle (probably ruddha, 'held', carried from the earlier unit about Kapha) is not in the line. 'Another (one)' is a drink or medicine, unstated. sasnehalavaṇa could also mean 'salt with fat' (bahuvrīhi) instead of 'fat and salt'. Alternative to the suggested sasneha: the printed 'saneha' may be snehalavaṇam with a stray a, giving 'another one: fat and salt'; sense differs slightly.",
+  "why": "reviewer (minor): Alternative to sa-sneha: plain snehalavaṇam (fat and salt) with an extra a; not mentioned."
+ },
+ {
+  "n": "101",
+  "field": "english",
+  "old": "In that case a medicine that is pitta-destroying, sweet and cool is recommended.",
+  "new": "In that case a medicine that is Pitta-destroying, sweet and cool is recommended.",
+  "why": "reviewer (minor): Capitalisation as in 77."
+ },
+ {
+  "n": "102",
+  "field": "text_flags.0.why",
+  "old": "hallāsa is not a word; hṛllāsa ('nausea') expected; possible",
+  "new": "hallāsa may be a variant spelling of hṛllāsa ('nausea'); the standard form is hṛllāsa; possible",
+  "why": "reviewer (minor): 'hallāsa is not a word' is too strong: hallāsa is, to my knowledge, a recorded variant spelling of hṛllāsa. Sense unchanged."
+ },
+ {
+  "n": "103",
+  "field": "word.w",
+  "word": "kapha-nud",
+  "old": "kapha-nud",
+  "new": "kapha-nut",
+  "why": "reviewer (minor): Stem/nominative should be kapha-nut (final d of root nud devoiced; the d of 'kaphanuddhitam' comes from sandhi t + h)."
+ }
+]

@@ -1,0 +1,938 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "praśasyaṃtaiti",
+     "problem": "Silent emendation: printed praśasyaṃtaiti is split as praśasyante + iti, but the print shows no e/iti junction (a + i would give e, not ai); an unflagged emendation.",
+     "fix": "Add a flag: src praśasyaṃtaiti, suggest praśasyanta iti (or praśasyante iti), possible; print joins the two words without correct sandhi.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "śmaśānacaityadevatāyatanāgārasabhāścaārāmavalmīkoṣaravirahite",
+        "suggest": "śmaśānacaityadevatāyatanāgārasabhāścārāmavalmīkoṣaravirahite",
+        "why": "possible: 'caā' leaves an uncontracted hiatus; sandhi would give 'cā'"
+       },
+       {
+        "src": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimuttike",
+        "suggest": "snigdhakṛṣṇasuvarṇavarṇamadhurasurabhimṛttike",
+        "why": "possible: 'muttikā' is not a word; 'mṛttikā' (soil) fits the sense and the list of qualities"
+       },
+       {
+        "src": "mṛdāvaphālakṛṣṭe'nupahate'nyairbalavattarairdrumairbheṣajāni",
+        "suggest": "(unclear)",
+        "why": "the opening 'mṛdāvaphāla-' is not a clear word; possibly 'mṛdu' + 'avaphāla' or 'mṛdā' (with clay); no firm correction offered"
+       },
+       {
+        "src": "praśasyaṃtaiti",
+        "suggest": "praśasyanta iti",
+        "why": "possible: the print joins praśasyante and iti with an ai junction that sandhi does not give; read as the verb praśasyante plus iti"
+       }
+      ],
+      "n": "2"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śmaśāna-caitya-devatā-āyatana-āgāra-sabhāḥ",
+     "problem": "Draft gives \"f. nom. pl. (in compound)\": a nominative plural cannot sit in the compound/construction with the locative virahite; the printed visarga form (sabhāś ca) is itself unexplained. The gram states a construction the text does not support.",
+     "fix": "dvandva; ends in the printed visarga form sabhāḥ (nominative plural as printed); its construction with virahite is unclear",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śmaśāna-caitya-devatā-āyatana-āgāra-sabhāḥ",
+      "field": "gram",
+      "value": "dvandva; ends in the printed visarga form sabhāḥ, as printed; construction with virahite unclear",
+      "n": "2"
+     }
+    },
+    {
+     "field": "english",
+     "where": "mṛdāvaphālakṛṣṭe",
+     "problem": "\"gently, with the ploughshare\" over-reads: mṛdā is the instrumental of mṛd (clay, soil), not \"gently\"; no part of the damaged word before kṛṣṭe is safe except kṛṣṭe (ploughed) and possibly phāla (ploughshare). The English builds a meaning on a conjecture.",
+     "fix": "ploughed (the printed \"mṛdāvaphāla\" before \"ploughed\" is unclear; on a conjectural reading, with a ploughshare)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "ploughed (on a conjectural reading of 'mṛdāvaphāla': gently, with the ploughshare)",
+      "new": "ploughed (the printed 'mṛdāvaphāla' is unclear; on a conjectural reading, with a ploughshare)",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मृदावफालकृष्टे",
+     "problem": "\"धीरे\" rests on the same unsupported guess (mṛdā is not \"gently\").",
+     "fix": "Say that the printed word is unclear and keep only \"हल से जोती हुई\" on a conjectural reading; no brackets.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुमानित पाठ के अनुसार हल से धीरे जोती हुई",
+      "new": "मुद्रित मृदावफाल अस्पष्ट है, अनुमानित पाठ के अनुसार हल से जोती हुई",
+      "n": "2"
+     }
+    },
+    {
+     "field": "split",
+     "where": "mṛdāvaphālakṛṣṭe",
+     "problem": "GLOSSARY: an unrestorable printed word is kept unsplit in w with gloss \"unclear\". The draft splits the damaged opening into mṛdā + avaphāla-kṛṣṭe and glosses mṛdā as \"probably gently or with clay\", which presents a split the print does not support.",
+     "fix": "Keep as is only if the owner accepts a conjectural split; safer: one word \"mṛdāvaphāla-kṛṣṭe\" glossed unclear. Not patched because the checker joins words by token.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "रोहिष",
+     "problem": "Policy: identifications written beside the Sanskrit name in Hindi too, hedged when disputed. English has \"rohiṣa grass (probably a fragrant Cymbopogon grass; disputed)\", Hindi has bare रोहिष.",
+     "fix": "रोहिष यानी सम्भवतः रूसा घास",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुश और रोहिष घास से ढकी",
+      "new": "कुश और रोहिष यानी सम्भवतः रूसा घास से ढकी",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दाहिनी ... ढकी",
+     "problem": "Hindi switches to feminine adjectives and supplies \"भूमि\" although the locatives agree with देश (m.); also \"बहने\" (flowing) is not in pradakṣiṇa-udaka (\"with water to the right\"); same \"flowing\" in English.",
+     "fix": "Optional: literal \"दाहिनी ओर जल वाले\" and drop \"बहने\"/\"flowing\"; owner to decide.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सस्य",
+     "problem": "Hindi leaves sasya untranslated while English gives \"crops\".",
+     "fix": "फसलों/पौधों",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "mostly slight, hollow and saline",
+     "problem": "Hindi reads tanu, koṭara, ūṣara as three nouns; English reads them as adjectives; the two languages disagree on the same compound.",
+     "fix": "Align the two (owner).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उभयतोभाग",
+     "problem": "English gives the literal \"both-way\"; Hindi leaves the term unglossed.",
+     "fix": "उभयतोभाग यानी दोनों ओर भाग वाले।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उभयतोभाग।",
+      "new": "उभयतोभाग यानी दोनों ओर भाग वाले।",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मि नामक अस्पष्ट शब्द",
+     "problem": "\"नामक\" invents a word named \"मि\"; the print shows a fragment \"mi\" inside the compound.",
+     "fix": "अस्पष्ट मुद्रित मि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मि नामक अस्पष्ट शब्द",
+      "new": "अस्पष्ट मुद्रित मि",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The relative clause of unit 13 completes here",
+     "problem": "GLOSSARY: write \"appears to complete\", never \"completes\".",
+     "fix": "The relative clause of unit 13 appears to complete here.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The relative clause of unit 13 completes here.",
+      "new": "The relative clause of unit 13 appears to complete here.",
+      "n": "14"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "teṣām",
+     "problem": "Gender m./n. is guessed for a pronoun whose referent is unstated.",
+     "fix": "gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "teṣām",
+      "field": "gram",
+      "value": "gen. pl.",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śīrṇa-prarūḍha-parṇānām",
+     "problem": "Gender \"n.\" given to a bahuvrīhi whose noun is unstated (GLOSSARY: no gender for unstated nouns).",
+     "fix": "bahuvrīhi, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śīrṇa-prarūḍha-parṇānām",
+      "field": "gram",
+      "value": "bahuvrīhi, gen. pl.",
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(re)sprouted",
+     "problem": "\"(re)\" adds \"again\"; prarūḍha is \"sprouted/grown\".",
+     "fix": "of those whose leaves have fallen and sprouted",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "have fallen and (re)sprouted",
+      "new": "have fallen and sprouted",
+      "n": "15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर उगे हैं",
+     "problem": "\"फिर\" (again) is not in the Sanskrit.",
+     "fix": "जिनके पत्ते झड़ चुके और उग आए हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिनके पत्ते झड़कर फिर उगे हैं",
+      "new": "जिनके पत्ते झड़ चुके और उग आए हैं",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "heartwoods",
+     "problem": "Translation states \"heartwoods\" as fact; notes call it only probable. Policy: hedge when only probable.",
+     "fix": "In winter (hemanta): the sāra (essence, core; probably heartwood).",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the cores (sāra), heartwoods",
+      "new": "the sāra (essence, core; probably heartwood)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सार यानी भीतर का सारभाग",
+     "problem": "Same: \"भीतर का\" and the heartwood sense are interpretation, not hedged.",
+     "fix": "हेमन्त में सार यानी सम्भवतः काठ का भीतरी भाग।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सार यानी भीतर का सारभाग",
+      "new": "सार यानी सम्भवतः काठ का भीतरी भाग",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "oṣadhāni",
+     "problem": "Invented word: the print is saumyāny auṣadhāni (Devanagari सौम्यान्यौषधानि); \"oṣadhāni\" is not a word. Restore auṣadhāni (n. pl. \"medicines\"), a regular derivative of oṣadhi/auṣadha.",
+     "fix": "auṣadhāni",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "oṣadhāni",
+      "field": "w",
+      "value": "auṣadhāni",
+      "n": "20"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Saumya (gentle) herbs",
+     "problem": "auṣadha is \"medicine, drug\", not \"herb\"; unit 2 uses \"medicines\".",
+     "fix": "Saumya (gentle) medicines (auṣadha) in the saumya seasons, āgneya (fiery) ones in the āgneya (ones).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Saumya (gentle) herbs",
+      "new": "Saumya (gentle) medicines (auṣadha)",
+      "n": "20"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "औषधियाँ",
+     "problem": "औषधि is feminine \"herb\"; the word is neuter औषध.",
+     "fix": "सौम्य औषध सौम्य ऋतुओं में, आग्नेय आग्नेयों में।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौम्य औषधियाँ",
+      "new": "सौम्य औषध",
+      "n": "20"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'oṣadha' (herb) is printed 'auṣadha'",
+     "problem": "Wrong: the printed word is correct and is the one to be split; no change was made.",
+     "fix": "'auṣadha' (medicine) as printed.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'oṣadha' (herb) is printed 'auṣadha'.",
+      "new": "'auṣadha' (medicine) is the printed form.",
+      "n": "20"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āgneyeṣu",
+     "problem": "Gender \"m.\" on an adjective whose noun is unstated.",
+     "fix": "loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āgneyeṣu",
+      "field": "gram",
+      "value": "loc. pl.",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prāṅmukhaudaṅmukho",
+     "problem": "The suggested prāṅmukhodaṅmukho is wrong: aḥ before u gives hiatus, not o. The print is simply two words run together without sandhi (prāṅmukha udaṅmukho, as the split already has).",
+     "fix": "suggest: prāṅmukha udaṅmukho; why: possible: printed run together without a space; the expected form is the hiatus (aḥ before a vowel other than a).",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "prāṅmukha udaṅmukho",
+       "n": "22"
+      },
+      {
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "possible: the print runs the two words together without a space; the expected form is the hiatus prāṅmukha udaṅmukho (aḥ before a vowel other than a drops the visarga)",
+       "n": "22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "svavaśyāni",
+     "problem": "Unclear word (translation says \"unclear\", confidence low) but no text_flag, unlike units 13 and 25.",
+     "fix": "Add flag src svavaśyāni, suggest (unclear).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "svavaśyāni",
+        "suggest": "(unclear)",
+        "why": "the word is not clear; sva-vaśyāni (own-controlled) is only a conjecture and no correction is offered"
+       }
+      ],
+      "n": "23"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anurūpa-guṇavat-bhājane",
+     "problem": "bhājana is neuter; \"m./n.\" is a guess.",
+     "fix": "n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anurūpa-guṇavat-bhājane",
+      "field": "gram",
+      "value": "n. loc. sg.",
+      "n": "23"
+     }
+    },
+    {
+     "field": "english",
+     "where": "places",
+     "problem": "\"in places of ... \" (twice: nivāta-pravāta-eka-deśeṣu is genuinely deśa, but \"places of constant flower-offering and bali rites\" for karmasu) adds \"places\"; karmasu is locative of karma, \"in the rites\".",
+     "fix": "Mark supplied words with parentheses or keep literal; owner to decide. Whole unit stays low-confidence.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "एक भाग में वायुरहित और वायुयुक्त स्थानों में",
+     "problem": "Garbled and not matching the English \"in places of one part windless and breezy\"; the compound is nivāta-pravāta-eka-deśeṣu and its grouping is open.",
+     "fix": "Owner to decide; keep both languages equally uncertain.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sakṣīraṇyupakalpayet",
+     "problem": "Silent emendation: the print (सक्षीरण्युपकल्पयेत्) has short a, \"sakṣīraṇy\"; the split silently restores sakṣīrāṇi.",
+     "fix": "Add flag src sakṣīraṇyupakalpayet, suggest sakṣīrāṇyupakalpayet, possible: long ā missing.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "sakṣīraṇyupakalpayet",
+        "suggest": "sakṣīrāṇyupakalpayet",
+        "why": "possible: the print has short a in sakṣīraṇy; the neuter plural sakṣīrāṇi needs ā"
+       }
+      ],
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "natikrānta",
+     "problem": "Opposite sense not excluded by the print: the negation depends on the damaged junction (tāva|n|atikrānta). Read as \"year has not passed\" is supported only by 26 \"purāṇāni tu\".",
+     "fix": "Append: the negation is itself uncertain because the junction before atikrānta is damaged.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The negation in 'natikrānta' depends on the damaged junction before it (tāva-n-atikrānta); the opposite sense 'whose year has passed' is not excluded by the print alone. The contrast of unit 26 ('purāṇāni tu') supports the negated reading.",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गोबर",
+     "problem": "\"गोबर\" is cow dung specifically; śakṛt is dung of an unnamed animal. \"नीरोग का\" adds an owner. The adjective nīrujam agrees with the dung and urine itself.",
+     "fix": "तथा मल और मूत्र नीरोग।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तथा नीरोग का गोबर और मूत्र",
+      "new": "तथा मल और मूत्र नीरोग",
+      "n": "28"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "śakanmūtraṃ",
+     "problem": "Weak point: śakan- is an attested weak stem of śakṛt, so the printed śakan-mūtra may be legitimate; the flag is hedged \"possible\" but w silently normalises to śakṛn-.",
+     "fix": "Keep as possible; owner may drop the flag.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "horn",
+     "problem": "Horn and hoof rest on a conjectured reading of a garbled word (śrṛṃ ga-ra), yet are translated as fact.",
+     "fix": "Of (those) possessing age and strength: dhātu, tail, horn, hoof and so on, on a conjectural reading.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "hoof and so on.",
+      "new": "hoof and so on, on a conjectural reading.",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सींग, खुर",
+     "problem": "Same: no mark of the conjecture.",
+     "fix": "आयु और बल वालों के धातु, पूँछ, सींग, खुर आदि, अनुमानित पाठ के अनुसार।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सींग, खुर आदि।",
+      "new": "सींग, खुर आदि, अनुमानित पाठ के अनुसार।",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "fivefold decoction (kaṣāya)",
+     "problem": "Rendering kaṣāya as \"decoction\" is wrong for a set that includes juice (niryāsa), paste (kalka) and infusions (31); the text states five kinds of kaṣāya. Needs the owner (GLOSSARY OPEN: kaṣāya).",
+     "fix": "Owner: \"preparation (kaṣāya)\" here, and काढ़ा only for niryūha/kvātha.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शीत और फाण्ट",
+     "problem": "Only English carries the glosses (cold/hot infusion); Hindi leaves them bare, and the probable identification is not hedged anywhere in the translation line.",
+     "fix": "Optional: शीत यानी ठण्डा अर्क, फाण्ट यानी गरम अर्क (सम्भवतः).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "samasta",
+     "problem": "Word broken by a space in print but shown as \"samasta\" with no trailing hyphen (convention: trailing hyphen); notes explain it but no text_flag is given as in units 4, 41, 44.",
+     "fix": "w samasta-",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "samasta",
+       "field": "w",
+       "value": "samasta-",
+       "n": "36"
+      },
+      {
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "samasta dravyāparityāgāt",
+         "suggest": "samastadravyāparityāgāt",
+         "why": "a space separates samasta from dravya- in print; read as one compound"
+        }
+       ],
+       "n": "36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "oṣadhāni",
+     "problem": "Invented word: the print is bhedyānyauṣadhāni (भेद्यान्यौषधानि); the word is auṣadhāni.",
+     "fix": "auṣadhāni",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "oṣadhāni",
+      "field": "w",
+      "value": "auṣadhāni",
+      "n": "38"
+     }
+    },
+    {
+     "field": "split",
+     "where": "oṣadhānām",
+     "problem": "Invented word: the print is bahulapānīyagrāhitānām auṣadhānām (...नामौषधानाम्...); the word is auṣadhānām.",
+     "fix": "auṣadhānām",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "oṣadhānām",
+      "field": "w",
+      "value": "auṣadhānām",
+      "n": "38"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "ākalathya",
+     "problem": "The conjecture ākalayya is only in notes; a typo conjecture belongs in text_flags (in the deva the th/y shapes are close).",
+     "fix": "Add a flag on the printed token, suggest ākalayya, possible.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "rukṣāyāmadhaḥpraliptāyāṃ",
+        "suggest": "rūkṣāyāmadhaḥpraliptāyāṃ",
+        "why": "possible: 'rūkṣa' (dry) has a long ū"
+       },
+       {
+        "src": "bahulapānīyagrāhitānāmauṣadhānāmākalathya",
+        "suggest": "bahulapānīyagrāhitānāmauṣadhānāmākalayya",
+        "why": "possible: ākalathya is not a word; ākalayya (having reckoned, estimated) is a conjecture; th and y are close in the Devanagari print"
+       }
+      ],
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनुमान से अनुमान लगाकर",
+     "problem": "Repetitive and clumsy (\"अनुमान से अनुमान लगाकर\"); also \"आकलथ्य\" is left bare.",
+     "fix": "यह शब्द अस्पष्ट है, अनुमानित पाठ के अनुसार अनुमान लगाकर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह शब्द अस्पष्ट है और अनुमान से अनुमान लगाकर पढ़ा गया है",
+      "new": "यह शब्द अस्पष्ट है, अनुमानित पाठ के अनुसार अनुमान लगाकर",
+      "n": "38"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should reduce it",
+     "problem": "\"reduce it\" is interpretation (śoṣayet = dry up, cause to dry); \"it\" supplied.",
+     "fix": "and should dry it up (reduce, on the usual sense)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "योग्य स्पर्श वाला होने पर",
+     "problem": "\"होने पर\" turns an accusative adjective into a condition not in the Sanskrit.",
+     "fix": "योग्य स्पर्श वाले को प्रयोग करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "योग्य स्पर्श वाला होने पर प्रयोग करे",
+      "new": "योग्य स्पर्श वाले को प्रयोग करे",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पकाए",
+     "problem": "kvāthayet is \"should boil/decoct\" (GLOSSARY: siddha = पकाया हुआ, śṛta = उबाला हुआ); पकाए differs from the earlier क्वाथ in the same sentence.",
+     "fix": "क्षीर आदि के साथ क्वाथ करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षीर आदि के साथ पकाए।",
+      "new": "क्षीर आदि के साथ क्वाथ करे।",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vyavasthāṃna",
+     "problem": "A second reading is simpler to explain: \"vyavasthā na\" (drop the stray anusvāra, one edit, no transposition), giving \"mātrāyā na vyavasthā, na dehaṃ doṣaṃ ...\" Both readings should be recorded; the draft offers only vyavasthānam.",
+     "fix": "Owner decides; add the alternative to the note.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative reading of the second flag: 'vyavasthā na' (stray anusvāra) rather than 'vyavasthānam'; the print alone does not decide.",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Completes the sentence of 46",
+     "problem": "GLOSSARY: \"appears to complete\", not \"completes\".",
+     "fix": "Appears to complete the sentence of 46",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes the sentence of 46:",
+      "new": "Appears to complete the sentence of 46:",
+      "n": "47"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन सबको",
+     "problem": "Hindi supplies \"इन सबको\" for the accusatives of 46 with no bracket possible; English marks it \"(these)\".",
+     "fix": "Acceptable; owner may delete.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समझ सकेंगे",
+     "problem": "Modal \"सकेंगे\" (will be able) added; vijñāsyanti is \"will understand\" (GLOSSARY: no added modal verbs).",
+     "fix": "जैसे सब वैद्य समझेंगे, वैसे ही उपदेश दिया जाएगा।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसे सब वैद्य समझ सकेंगे",
+      "new": "जैसे सब वैद्य समझेंगे",
+      "n": "50"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk p05/ch08 units 1-50 reviewed word by word against the print and Devanagari. Main errors: invented word 'oṣadhāni/oṣadhānām' for printed auṣadhāni (units 20, 38); translations built on conjectures without the required hedge (2 'gently', 17 'heartwoods', 28 'गोबर', 29 horn/hoof); wrong typo suggestion in 22 (hiatus, not o); unflagged emendations (2 praśasyaṃtaiti, 24 sakṣīraṇi, 38 ākalathya, 36 samasta space). Identifications kuśa, pippalī, viḍaṅga (standard) and rohiṣa (disputed, hedged) accepted; no wrong identification found. Human decisions: 30 (kaṣāya as 'decoction' for a set of five forms), 23 (nivāta-pravāta-eka-deśa), 46 (vyavasthānam vs vyavasthā na), 2 (damaged mṛdāvaphāla split), 25 negation.",
+ "glossary_suggestions": [
+  "auṣadha (n.) = 'medicine' (औषध), distinct from oṣadhi (f.) 'herb'.",
+  "kaṣāya in 'pañcavidhaḥ kaṣāyaḥ' = a general 'preparation' (the five include juice and paste); fix this wording for the book.",
+  "A conjectural reading of a damaged word needs the hedge in BOTH Hindi and English wherever the translation depends on it (e.g. 'horn' in unit 29).",
+  "Do not turn an accusative adjective into a condition ('होने पर') in Hindi; no modal 'सकेंगे' for a future.",
+  "śakṛt = 'dung' (Hindi मल), not गोबर unless the animal is a cow."
+ ]
+}

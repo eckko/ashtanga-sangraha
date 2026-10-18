@@ -1,0 +1,541 @@
+[
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "कुलत्थ यानी कुल्थी के साथ, उबाला हुआ मस्तु यानी दही का पानी, फल और सौवीरक यानी खट्टी कांजी से युक्त।",
+  "new": "कुलत्थ यानी कुलथी के साथ, उबाला हुआ मस्तु यानी दही का पानी, फल और सौवीरक यानी खट्टी कांजी से युक्त।",
+  "why": "reviewer (minor): Glossary fixes Hindi kulattha as कुलथी."
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "phala-sauvīraka-anvitaiḥ",
+  "old": "tat-puruṣa, m. inst. pl.",
+  "new": "dvandva + tat-puruṣa, m. inst. pl.",
+  "why": "reviewer (minor): Compound is a dvandva (phala, sauvīraka) followed by anvita; 'tat-puruṣa' alone hides this."
+ },
+ {
+  "n": "84",
+  "field": "notes",
+  "old": "GROUPING: continues 83 (āsthāpayet governs the items of 83). 'aśitam' is read as the person (accusative), 'one who has eaten'. 'jāṅgala rasa' is literally the juices of dry-country (animals); the tradition takes these as meat soups, but the text does not say so. 'sindhūtthaiḥ' is plural as printed (rock salts); kept as printed.",
+  "new": "GROUPING: appears to continue 83 (āsthāpayet governs the items of 83). 'aśitam' is read as the person (accusative), 'one who has eaten'. 'jāṅgala rasa' is literally the juices of dry-country (animals); the tradition takes these as meat soups, but the text does not say so. 'sindhūtthaiḥ' is plural as printed (rock salts); kept as printed.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "85",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "tailenānilajiddhanyavipakkenānuvāsayet",
+    "suggest": "tailenānilajiddhanyavipakvenānuvāsayet",
+    "why": "possible: 'vipakka' is a misprint of 'vipakva' (kva read as kka)"
+   },
+   {
+    "src": "tailenānilajiddhanyavipakkenānuvāsayet",
+    "suggest": "(dhanya: dravya or dhānya?)",
+    "why": "possible: 'dhanya' gives no good sense; dravya (drug) or dhānya (grain) is conceivable but not applied"
+   }
+  ],
+  "new": [
+   {
+    "src": "tailenānilajiddhanyavipakkenānuvāsayet",
+    "suggest": "tailenānilajiddhanyavipakvenānuvāsayet",
+    "why": "possible: 'vipakka' is a misprint of 'vipakva' (kva read as kka)"
+   }
+  ],
+  "why": "reviewer (minor): 'suggest' holds '(dhanya: dravya or dhānya?)', which is not a text form; an apply step could write it into the text. The doubt is already in notes."
+ },
+ {
+  "n": "85",
+  "field": "english",
+  "old": "On a conjectural reading: he should give an anuvāsana (oil enema) with oil well cooked with the wind-conquering (anilajit) dhanya (unclear).",
+  "new": "On a conjectural reading: he should give an anuvāsana (oil enema) with oil well cooked with the Vāta-conquering (anilajit, lit. wind-conquering) dhanya (unclear).",
+  "why": "reviewer (minor): Glossary: Vāta capitalised; anila here is Vāta."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "अनुमानित पाठ के अनुसार, वात को जीतने वाले धन्य से भली-भाँति पकाए गए तेल से अनुवासन करे।",
+  "new": "अनुमानित पाठ के अनुसार, वात को जीतने वाले धन्य, जिसका अर्थ अस्पष्ट है, के साथ भली-भाँति पकाए गए तेल से अनुवासन करे।",
+  "why": "reviewer (minor): English marks dhanya '(unclear)' but the Hindi gives bare धन्य ('blessed'), reading as a firm word. Also double 'से'."
+ },
+ {
+  "n": "86",
+  "field": "notes",
+  "old": "GROUPING: 86 and 87 are one sentence (the verb 'kuryāt' is in 87). Printed 'nirharan' is read as the present participle of nir-√hṛ, 'expelling'. The list 'mṛdukoṣṭhe abale' is two locatives; the persons are not named in the Sanskrit.",
+  "new": "GROUPING: 86 and 87 appear to be one sentence (the verb 'kuryāt' is in 87). Printed 'nirharan' is read as the present participle of nir-√hṛ, 'expelling'. The list 'mṛdukoṣṭhe abale' is two locatives; the persons are not named in the Sanskrit.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "87",
+  "field": "notes",
+  "old": "GROUPING: continues 86; the subject of 'kuryāt' is the basti of 86. Hidhmā = hiccup (standard).",
+  "new": "GROUPING: appears to continue 86; the subject of 'kuryāt' is the basti of 86. Hidhmā = hiccup (standard).",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "GROUPING: 88 and 89 are one sentence (the verb 'anuvāsayet' is in 89). Identifications: balā = Sida cordifolia (probable; several Sida species are called balā); sthirā = disputed (often śālaparṇī, Desmodium gangeticum, but other plants carry the name); kāśmarya = Gmelina arborea (standard); triphalā = harītakī, bibhītaka, āmalaka (standard). 'ādika' is read 'and the rest' after balā and sthirā. The printed 'rasaiṃ saiṃdhavaiḥ' has anusvāra for visarga and no space; see text_flags.",
+  "new": "GROUPING: 88 and 89 appear to be one sentence (the verb 'anuvāsayet' is in 89). Identifications: balā = Sida cordifolia (probable; several Sida species are called balā); sthirā = disputed (often śālaparṇī, Desmodium gangeticum, but other plants carry the name); kāśmarya = Gmelina arborea (standard); triphalā = harītakī, bibhītaka, āmalaka (standard). 'ādika' is read 'and the rest' after balā and sthirā. The printed 'rasaiṃ saiṃdhavaiḥ' has anusvāra for visarga and no space; see text_flags.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "88",
+  "field": "word.gloss",
+  "word": "balā-sthirā-ādika-kāśmarya-triphalā-rasaiḥ",
+  "old": "balā (probably Sida cordifolia; probable); sthirā (disputed: often śālaparṇī, Desmodium gangeticum); and the rest (ādika); kāśmarya (Gmelina arborea; standard); triphalā (the three myrobalans: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Phyllanthus emblica; standard); juices (rasa)",
+  "new": "balā (probably Sida cordifolia; probable); sthirā (disputed: often śālaparṇī, Desmodium gangeticum); and the rest (ādi); kāśmarya (Gmelina arborea; standard); triphalā (the three myrobalans: harītakī, Terminalia chebula; bibhītaka, Terminalia bellirica; āmalaka, Phyllanthus emblica; standard); juices (rasa)",
+  "why": "reviewer (error): Printed 'balāsthirādikāśmarya' = balā-sthirā-ādi-kāśmarya; 'ādika' would give ādikakāśmarya. The member is ādi (as in vaṭa-ādi, 111)."
+ },
+ {
+  "n": "88",
+  "field": "word.w",
+  "word": "balā-sthirā-ādika-kāśmarya-triphalā-rasaiḥ",
+  "old": "balā-sthirā-ādika-kāśmarya-triphalā-rasaiḥ",
+  "new": "balā-sthirā-ādi-kāśmarya-triphalā-rasaiḥ",
+  "why": "reviewer (error): Printed 'balāsthirādikāśmarya' = balā-sthirā-ādi-kāśmarya; 'ādika' would give ādikakāśmarya. The member is ādi (as in vaṭa-ādi, 111)."
+ },
+ {
+  "n": "88",
+  "field": "notes",
+  "old": "GROUPING: 88 and 89 appear to be one sentence (the verb 'anuvāsayet' is in 89). Identifications: balā = Sida cordifolia (probable; several Sida species are called balā); sthirā = disputed (often śālaparṇī, Desmodium gangeticum, but other plants carry the name); kāśmarya = Gmelina arborea (standard); triphalā = harītakī, bibhītaka, āmalaka (standard). 'ādika' is read 'and the rest' after balā and sthirā. The printed 'rasaiṃ saiṃdhavaiḥ' has anusvāra for visarga and no space; see text_flags.",
+  "new": "GROUPING: 88 and 89 appear to be one sentence (the verb 'anuvāsayet' is in 89). Identifications: balā = Sida cordifolia (probable; several Sida species are called balā); sthirā = disputed (often śālaparṇī, Desmodium gangeticum, but other plants carry the name); kāśmarya = Gmelina arborea (standard); triphalā = harītakī, bibhītaka, āmalaka (standard). 'ādi' is read 'and the rest' after balā and sthirā. The printed 'rasaiṃ saiṃdhavaiḥ' has anusvāra for visarga and no space; see text_flags.",
+  "why": "reviewer (error): Printed 'balāsthirādikāśmarya' = balā-sthirā-ādi-kāśmarya; 'ādika' would give ādikakāśmarya. The member is ādi (as in vaṭa-ādi, 111)."
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "With the juices (rasa) of balā (probably Sida cordifolia), sthirā (identity disputed) and the rest, kāśmarya (Gmelina arborea) and triphalā (the three myrobalans), and with rock salts (saindhava),",
+  "new": "With the juices (rasa) of balā (probably Sida cordifolia), sthirā (identity disputed; perhaps śālaparṇī, Desmodium gangeticum) and the rest, kāśmarya (Gmelina arborea) and triphalā (the three myrobalans), and with rock salts (saindhava),",
+  "why": "reviewer (minor): Hindi says probably सरिवन (śālaparṇī) but English gives no candidate; make both languages carry the same hedge."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "बला यानी सम्भवतः बरियार, स्थिरा यानी सम्भवतः सरिवन और अन्य, काश्मर्य यानी गम्हार और त्रिफला यानी हरड़ बहेड़ा आँवला के रसों के साथ, सेंधा नमकों के साथ",
+  "new": "बला यानी सम्भवतः बरियार, स्थिरा यानी सम्भवतः सरिवन और अन्य, काश्मर्य यानी गम्हार और त्रिफला यानी हरड़, बहेड़ा और आँवला के रसों के साथ, सेंधा नमकों के साथ",
+  "why": "reviewer (minor): Three drug names run together without separators."
+ },
+ {
+  "n": "89",
+  "field": "notes",
+  "old": "GROUPING: completes 88. 'pakvā' (printed) is taken as a gerund 'having cooked' (the usual gerund is paktvā); kept as printed. Surā is an intoxicating fermented drink.",
+  "new": "GROUPING: appears to complete 88. 'pakvā' (printed) is taken as a gerund 'having cooked' (the usual gerund is paktvā); kept as printed. Surā is an intoxicating fermented drink.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "89",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "pakvā'nuvāsayet",
+    "suggest": "paktvā'nuvāsayet",
+    "why": "possible: 'pakvā' for paktvā (t lost; gerund of √pac); alternative: 'pakvam' agreeing with tailam, same sense"
+   }
+  ],
+  "why": "reviewer (minor): Printed 'pakvā' is kept and glossed as a gerund but not flagged. The usual gerund is paktvā (क्त्वा), and a lost 't' is a likely misprint (similar kva/kka/ktva confusions elsewhere). Alternative reading: 'pakvam' agreeing with tailam (same sense). Flag it and put the corrected form in words."
+ },
+ {
+  "n": "89",
+  "field": "word.gram",
+  "word": "pakvā",
+  "old": "abs. √pac (printed form; usual paktvā)",
+  "new": "abs. √pac",
+  "why": "reviewer (minor): Printed 'pakvā' is kept and glossed as a gerund but not flagged. The usual gerund is paktvā (क्त्वा), and a lost 't' is a likely misprint (similar kva/kka/ktva confusions elsewhere). Alternative reading: 'pakvam' agreeing with tailam (same sense). Flag it and put the corrected form in words."
+ },
+ {
+  "n": "89",
+  "field": "word.w",
+  "word": "pakvā",
+  "old": "pakvā",
+  "new": "paktvā",
+  "why": "reviewer (minor): Printed 'pakvā' is kept and glossed as a gerund but not flagged. The usual gerund is paktvā (क्त्वा), and a lost 't' is a likely misprint (similar kva/kka/ktva confusions elsewhere). Alternative reading: 'pakvam' agreeing with tailam (same sense). Flag it and put the corrected form in words."
+ },
+ {
+  "n": "92",
+  "field": "notes",
+  "old": "GROUPING: 92 and 93 are one sentence; the subject 'bastiḥ' is in 93. 'savāta' may mean 'with air (in the bag or syringe)' or 'with Vāta (the humour)'; the text does not say; both are possible.",
+  "new": "GROUPING: 92 and 93 appear to be one sentence; the subject 'bastiḥ' is in 93. 'savāta' may mean 'with air (in the bag or syringe)' or 'with Vāta (the humour)'; the text does not say; both are possible.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "92",
+  "field": "word.gloss",
+  "word": "samyak-prapīḍitaḥ",
+  "old": "properly; pressed out",
+  "new": "properly; pressed",
+  "why": "reviewer (minor): 'pressed out' adds 'out'; pra-√pīḍ is 'pressed, squeezed' (a basti is pressed to push the fluid in)."
+ },
+ {
+  "n": "92",
+  "field": "english",
+  "old": "(A basti) that is very sharp, or with vāta (wind, air), or not properly pressed (out),",
+  "new": "(A basti) that is very sharp, or with vāta (wind, air), or not properly pressed,",
+  "why": "reviewer (minor): Added 'out'."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "बहुत तीक्ष्ण, या वात सहित, या ठीक से दबाया न गया",
+  "new": "बहुत तीक्ष्ण, या वात यानी वायु सहित, या ठीक से दबाया न गया",
+  "why": "reviewer (minor): Hindi commits to the humour while English keeps 'vāta (wind, air)' and the note says both are possible."
+ },
+ {
+  "n": "93",
+  "field": "english",
+  "old": "The basti (enema) would strike the heart. In that (case), with kāśa, kuśa and utkaṭa (unclear),",
+  "new": "The basti (enema) would strike the heart. In that (case), with kāśa (Saccharum spontaneum), kuśa (Desmostachya bipinnata) and utkaṭa (unclear),",
+  "why": "reviewer (minor): Policy: modern names beside the Sanskrit; the word gloss has them (standard) but the translation does not."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "बस्ति हृदय पर आघात करे। उसमें काश, कुश और उत्कटों के साथ",
+  "new": "बस्ति हृदय पर आघात करे। उसमें काश यानी काँस, कुश यानी कुशा घास और उत्कट, जिसका अर्थ यहाँ अस्पष्ट है, के साथ",
+  "why": "reviewer (minor): Hindi lacks the plant names and the 'unclear' mark that English has for utkaṭa."
+ },
+ {
+  "n": "94",
+  "field": "notes",
+  "old": "GROUPING: continues 93 and leads into 95 ('śṛtaiḥ'). The grouping of the compound is uncertain: 'sāmla' may attach only to 'lavaṇa' (with sour and salt), and 'skandha' may be a plant part rather than a drug. 'karīra' is disputed (bamboo shoot, or the thorny shrub Capparis decidua).",
+  "new": "GROUPING: appears to continue 93 and leads into 95 ('śṛtaiḥ'). The grouping of the compound is uncertain: 'sāmla' may attach only to 'lavaṇa' (with sour and salt), and 'skandha' may be a plant part rather than a drug. 'karīra' is disputed (bamboo shoot, or the thorny shrub Capparis decidua).",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "94",
+  "field": "english",
+  "old": "It would be with sour (ones), salt, skandha (trunk; unclear here), karīra (bamboo shoot, or possibly another plant) and badarī (jujube) fruits,",
+  "new": "It would be with sour (ones), salt, skandha (trunk; unclear here), karīra (disputed: bamboo shoot, or the shrub Capparis decidua) and badarī (jujube) fruits,",
+  "why": "reviewer (minor): 'possibly another plant' is vague; name the other candidate and the tag."
+ },
+ {
+  "n": "94",
+  "field": "hindi",
+  "old": "सहित खट्टे, नमक, स्कन्ध, करीर यानी बाँस का अंकुर या कैर और बदरी यानी बेर के फलों के साथ हो।",
+  "new": "सहित खट्टे, नमक, स्कन्ध यानी तना, जिसका आशय यहाँ अस्पष्ट है, करीर यानी बाँस का अंकुर या कैर और बदरी यानी बेर के फलों के साथ हो।",
+  "why": "reviewer (minor): Bare स्कन्ध (shoulder/trunk) with no 'unclear' mark, unlike English."
+ },
+ {
+  "n": "95",
+  "field": "notes",
+  "old": "GROUPING: ends the passage of 93 to 95. The syntax is loose: 'siddhaḥ' may mean 'cooked', 'accomplished' or 'effective', and 'vātaghnaiś cānuvāsanaiḥ' may belong with 'siddhaḥ' or be a second means; the translation keeps the order of the Sanskrit.",
+  "new": "GROUPING: appears to end the passage of 93 to 95. The syntax is loose: 'siddhaḥ' may mean 'cooked', 'accomplished' or 'effective', and 'vātaghnaiś cānuvāsanaiḥ' may belong with 'siddhaḥ' or be a second means; the translation keeps the order of the Sanskrit.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "95",
+  "field": "english",
+  "old": "A basti with (these) boiled (ones) is beneficial, siddha (cooked), and with Vāta-destroying anuvāsanas (oil enemas).",
+  "new": "A basti with boiled (ones) is beneficial, siddha (cooked), and with Vāta-destroying anuvāsanas (oil enemas).",
+  "why": "reviewer (minor): '(these)' is supplied; the Sanskrit has only śṛtaiḥ."
+ },
+ {
+  "n": "95",
+  "field": "word.gloss",
+  "word": "siddhaḥ",
+  "old": "cooked (siddha; or accomplished, effective)",
+  "new": "cooked",
+  "why": "reviewer (minor): Glossary: siddha = 'cooked'. The alternative 'accomplished, effective' belongs in notes (already there), not in the gloss."
+ },
+ {
+  "n": "95",
+  "field": "hindi",
+  "old": "उबाले हुओं से बस्ति हितकारी है, सिद्ध, और वात को नष्ट करने वाले अनुवासनों से।",
+  "new": "उबाले हुओं से बस्ति हितकारी है, पकाया हुआ, और वात को नष्ट करने वाले अनुवासनों से।",
+  "why": "reviewer (minor): Glossary: siddha = पकाया हुआ; bare सिद्ध reads as 'accomplished'."
+ },
+ {
+  "n": "96",
+  "field": "notes",
+  "old": "GROUPING: 96 to 98 are one sentence; the subject (a basti) is understood from the context and the verb 'prakopayet' is in 97. 'atimātraka' is read 'exceeding the measure, excessive in quantity'. 'mṛdukoṣṭhālpadoṣasya' is read as one bahuvrīhi (soft koṣṭha, little doṣa), or as two genitives.",
+  "new": "GROUPING: 96 to 98 appear to be one sentence; the subject (a basti) is understood from the context and the verb 'prakopayet' is in 97. 'atimātraka' is read 'exceeding the measure, excessive in quantity'. 'mṛdukoṣṭhālpadoṣasya' is read as one bahuvrīhi (soft koṣṭha, little doṣa), or as two genitives.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "96",
+  "field": "word.gloss",
+  "word": "rūkṣa-tīkṣṇa-ati-mātrakaḥ",
+  "old": "dry; sharp; excessive; in quantity",
+  "new": "dry; sharp; excessive in quantity",
+  "why": "reviewer (minor): atimātraka is one word (excess); splitting ati/mātraka is not a real compound division."
+ },
+ {
+  "n": "96",
+  "field": "word.w",
+  "word": "rūkṣa-tīkṣṇa-ati-mātrakaḥ",
+  "old": "rūkṣa-tīkṣṇa-ati-mātrakaḥ",
+  "new": "rūkṣa-tīkṣṇa-atimātrakaḥ",
+  "why": "reviewer (minor): atimātraka is one word (excess); splitting ati/mātraka is not a real compound division."
+ },
+ {
+  "n": "97",
+  "field": "notes",
+  "old": "GROUPING: continues 96. 'bastimalān' is printed with ḻ (ळ); read as mala. 'basti' can mean the enema or the bladder, and 98 lists 'basti' beside the navel and the anus, so 'bastimala' may be the wastes of the basti region or of the bladder; the translation keeps the word basti.",
+  "new": "GROUPING: appears to continue 96. 'bastimalān' is printed with ḻ (ळ); read as mala. 'basti' can mean the enema or the bladder, and 98 lists 'basti' beside the navel and the anus, so 'bastimala' may be the wastes of the basti region or of the bladder; the translation keeps the word basti.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "98",
+  "field": "notes",
+  "old": "GROUPING: continues 97; 'te' is read as the two, Vāta and Pitta (dual neuter in 97, but 'te ... kṛntantaḥ' is plural masculine as printed). The sentence continues in 99. 'basti' between navel and anus is probably the bladder; this is not certain.",
+  "new": "GROUPING: appears to continue 97; 'te' is read as the two, Vāta and Pitta (dual neuter in 97, but 'te ... kṛntantaḥ' is plural masculine as printed). The sentence continues in 99. 'basti' between navel and anus is probably the bladder; this is not certain.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "98",
+  "field": "english",
+  "old": "They, indeed, cutting his navel, basti (bladder) and anus again and again,",
+  "new": "They, indeed, cutting his navel, basti (probably the bladder) and anus again and again,",
+  "why": "reviewer (minor): Note says bladder is probable, not certain, but the translation states it."
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "वे ही इसकी नाभि, बस्ति और गुदा को बार-बार काटते हुए",
+  "new": "वे तो इसकी नाभि, बस्ति और गुदा को बार-बार काटते हुए",
+  "why": "reviewer (minor): hi = 'indeed'; ही restricts ('those alone'). Glossary uses तो for taddhi (116)."
+ },
+ {
+  "n": "100",
+  "field": "notes",
+  "old": "GROUPING: 100 and 101 are one sentence; the verb is 'syāt' in 101. The words 'svādu śīta' are read as two adjectives of 'auṣadhaiḥ'.",
+  "new": "GROUPING: 100 and 101 appear to be one sentence; the verb is 'syāt' in 101. The words 'svādu śīta' are read as two adjectives of 'auṣadhaiḥ'.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "101",
+  "field": "notes",
+  "old": "GROUPING: completes 100. The printed 'yaṣṭyāvha' has v and h reversed; yaṣṭyāhva ('named yaṣṭi') is read. 'kṣīrabhojinaḥ' is a genitive: 'of (one) who lives on milk'.",
+  "new": "GROUPING: appears to complete 100. The printed 'yaṣṭyāvha' has v and h reversed; yaṣṭyāhva ('named yaṣṭi') is read. 'kṣīrabhojinaḥ' is a genitive: 'of (one) who lives on milk'.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "102",
+  "field": "notes",
+  "old": "GROUPING: 102 and 103 are one sentence ('vinīya' is in 103). 'sama' is read as 'equal' for the whole list. The printed 'yaṣṭyāvhaṃ' again reverses hva (see 101); 'karddama' (doubled dd) is read kardama. 'kardama' (mud, clay) as a drug is unusual; read literally. 'añjana' could be a pigment or collyrium; not narrowed.",
+  "new": "GROUPING: 102 and 103 appear to be one sentence ('vinīya' is in 103). 'sama' is read as 'equal' for the whole list. The printed 'yaṣṭyāvhaṃ' again reverses hva (see 101); 'karddama' (doubled dd) is read kardama. 'kardama' (mud, clay) as a drug is unusual; read literally. 'añjana' could be a pigment or collyrium; not narrowed.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "102",
+  "field": "hindi",
+  "old": "बराबर सर्जरस यानी सम्भवतः राल, यष्ट्याह्व यानी मुलेठी, जिंगिनी यानी सम्भवतः झिंगन, कर्दम यानी कीचड़ और अञ्जन",
+  "new": "बराबर सर्जरस यानी सम्भवतः राल, यष्ट्याह्व यानी मुलेठी, जिंगिनी यानी सम्भवतः झिंगन, कर्दम यानी कीचड़ और अञ्जन, जिसका प्रकार अस्पष्ट है",
+  "why": "reviewer (minor): Bare अञ्जन (kind unclear in English) with no mark."
+ },
+ {
+  "n": "103",
+  "field": "notes",
+  "old": "GROUPING: completes 102. 'vinīya' is read 'having put in, having added' (the items of 102 into milk). 'vyaktāmlarasabhojinaḥ' is read literally as 'eating a clear sour taste'; the text does not say what food is meant.",
+  "new": "GROUPING: appears to complete 102. 'vinīya' is read 'having put in, having added' (the items of 102 into milk). 'vyaktāmlarasabhojinaḥ' is read literally as 'eating a clear sour taste'; the text does not say what food is meant.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "104",
+  "field": "hindi",
+  "old": "चिपचिपी बस्ति हितकारी है, और मीठों के साथ उबाला हुआ स्नेह।",
+  "new": "चिपचिपी बस्ति हितकारी है, और मीठों के साथ उबाला हुआ स्नेह यानी तेल या वसा।",
+  "why": "reviewer (error): Bare स्नेह means affection in modern Hindi; English glosses it oil or fat."
+ },
+ {
+  "n": "105",
+  "field": "notes",
+  "old": "GROUPING: 105 to 108 are one passage; the verb 'karoti' is in 106. The line is read 'a basti that is kṣāra, sour, sharp, hot and salty, or (given) to a paittika (Pitta-type) (one)'; the Sanskrit gives only the genitive 'paittikasya', so the translation keeps it as a genitive. kṣāra is kept as the Sanskrit word.",
+  "new": "GROUPING: 105 to 108 appear to be one passage; the verb 'karoti' is in 106. The line is read 'a basti that is kṣāra, sour, sharp, hot and salty, or (given) to a paittika (Pitta-type) (one)'; the Sanskrit gives only the genitive 'paittikasya', so the translation keeps it as a genitive. kṣāra is kept as the Sanskrit word.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "106",
+  "field": "notes",
+  "old": "GROUPING: continues 105 (subject: the basti of 105). 'kṣiṇvan' (printed) is read as the present participle of √kṣi, 'damaging, wasting'; the exact sense is not certain.",
+  "new": "GROUPING: appears to continue 105 (subject: the basti of 105). 'kṣiṇvan' (printed) is read as the present participle of √kṣi, 'damaging, wasting'; the exact sense is not certain.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "106",
+  "field": "hindi",
+  "old": "गुदा को जलाते, खुरचते और क्षीण करते हुए यह इसके लिए परिस्रव यानी बहाव कर देता है।",
+  "new": "गुदा को जलाते, खुरचते और क्षति पहुँचाते हुए यह इसके लिए परिस्रव यानी बहाव कर देता है।",
+  "why": "reviewer (minor): English 'damaging' (kṣiṇvan) vs Hindi 'making emaciated'; align."
+ },
+ {
+  "n": "107",
+  "field": "notes",
+  "old": "GROUPING: continues 106. 'savidagdham' is read with 'asram' (blood together with what is burnt); 'vidagdha' is not specified further (it can mean scorched, over-heated). 'varṇaiḥ' is plural, 'with colours'. Raktapitta-like bleeding is not named here. The reading is literal.",
+  "new": "GROUPING: appears to continue 106. 'savidagdham' is read with 'asram' (blood together with what is burnt); 'vidagdha' is not specified further (it can mean scorched, over-heated). 'varṇaiḥ' is plural, 'with colours'. Raktapitta-like bleeding is not named here. The reading is literal.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "108",
+  "field": "notes",
+  "old": "GROUPING: ends the passage 105 to 108. The subject of 'gacchati' (the patient) is not named. 'moha' is rendered bewilderment or fainting; the text gives only the word moha. Modern equivalent: fainting or loss of awareness (probable).",
+  "new": "GROUPING: appears to end the passage 105 to 108. The subject of 'gacchati' (the patient) is not named. 'moha' is rendered bewilderment or fainting; the text gives only the word moha. Modern equivalent: fainting or loss of awareness (probable).",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "109",
+  "field": "notes",
+  "old": "GROUPING: 109 and 110 are one sentence; the verb is 'dadyāt' in 110. 'śāmalī' is not a known word; śālmalī (silk-cotton tree, Bombax ceiba; probable) is likely, with the l-m conjunct lost. 'tantra' (thread, fibre) as a plant part is unclear and is not enriched. The reading is conjectural.",
+  "new": "GROUPING: 109 and 110 appear to be one sentence; the verb is 'dadyāt' in 110. 'śāmalī' is not a known word; śālmalī (silk-cotton tree, Bombax ceiba; probable) is likely, with the l-m conjunct lost. 'tantra' (thread, fibre) as a plant part is unclear and is not enriched. The reading is conjectural.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "109",
+  "field": "word.gloss",
+  "word": "ārdra-śāmalī-tantraiḥ",
+  "old": "fresh, moist; śāmalī (printed; probably śālmalī, silk-cotton tree, Bombax ceiba; probable); tantra (thread, fibre; sense unclear here)",
+  "new": "fresh, moist; śālmalī (printed 'śāmalī'; silk-cotton tree, Bombax ceiba; probable); tantra (thread, fibre; sense unclear here)",
+  "why": "reviewer (minor): The flag proposes śālmalī but w keeps the printed śāmalī; rule 6: corrected form in words, printed form in src."
+ },
+ {
+  "n": "109",
+  "field": "word.w",
+  "word": "ārdra-śāmalī-tantraiḥ",
+  "old": "ārdra-śāmalī-tantraiḥ",
+  "new": "ārdra-śālmalī-tantraiḥ",
+  "why": "reviewer (minor): The flag proposes śālmalī but w keeps the printed śāmalī; rule 6: corrected form in words, printed form in src."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "वहाँ अनुमानित पाठ के अनुसार, कुचले हुए ताज़े शामली यानी सम्भवतः सेमल के तन्त्रों से उबाला हुआ बकरी का दूध",
+  "new": "वहाँ अनुमानित पाठ के अनुसार, कुचले हुए ताज़े शामली यानी सम्भवतः सेमल के तन्त्रों, जिनका अर्थ यहाँ अस्पष्ट है, से उबाला हुआ बकरी का दूध",
+  "why": "reviewer (minor): Bare तन्त्र (system) with no 'unclear' mark, unlike English."
+ },
+ {
+  "n": "110",
+  "field": "notes",
+  "old": "GROUPING: completes 109. The participles 'pūtam' and 'ghṛtānvitam' are neuter and agree with the milk (payaḥ) of 109. 'anyān ca picchilān' is read as other slimy (bastis); the noun is not stated, so 'bastis' is not added to the translation.",
+  "new": "GROUPING: appears to complete 109. The participles 'pūtam' and 'ghṛtānvitam' are neuter and agree with the milk (payaḥ) of 109. 'anyān ca picchilān' is read as other slimy (bastis); the noun is not stated, so 'bastis' is not added to the translation.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "111",
+  "field": "notes",
+  "old": "GROUPING: 111 and 112 are one sentence ('śasyate' is in 112). 'vaṭādi' means vaṭa and the rest; the other members are not named in the text and none is supplied. 'evam kalpaḥ' is read as 'the preparation is thus', that is, as in 109 and 110; this is an inference from the context.",
+  "new": "GROUPING: 111 and 112 appear to be one sentence ('śasyate' is in 112). 'vaṭādi' means vaṭa and the rest; the other members are not named in the text and none is supplied. 'evam kalpaḥ' is read as 'the preparation is thus', that is, as in 109 and 110; this is an inference from the context.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "112",
+  "field": "notes",
+  "old": "GROUPING: completes 111. Identifications: suvarcalā is disputed (hulhul is one view); upodakā = Basella (probable; printed 'upodaka'); karbudāra = kovidāra (Bauhinia variegata, probable). The unstated subject of 'śasyate' is the kalpa of 111.",
+  "new": "GROUPING: appears to complete 111. Identifications: suvarcalā is disputed (hulhul is one view); upodakā = Basella (probable; printed 'upodaka'); karbudāra = kovidāra (Bauhinia variegata, probable). The unstated subject of 'śasyate' is the kalpa of 111.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "112",
+  "field": "word.gloss",
+  "word": "karbudāre",
+  "old": "karbudāra (a synonym of kovidāra, Bauhinia variegata; probable)",
+  "new": "karbudāra (commonly a white-flowered form of kovidāra, Bauhinia variegata; disputed)",
+  "why": "reviewer (error): Overconfident tag: karbudāra is commonly a white-flowered form of kovidāra; the same point was made in ch01 (u12 review). Tag disputed."
+ },
+ {
+  "n": "112",
+  "field": "notes",
+  "old": "GROUPING: appears to complete 111. Identifications: suvarcalā is disputed (hulhul is one view); upodakā = Basella (probable; printed 'upodaka'); karbudāra = kovidāra (Bauhinia variegata, probable). The unstated subject of 'śasyate' is the kalpa of 111.",
+  "new": "GROUPING: appears to complete 111. Identifications: suvarcalā is disputed (hulhul is one view); upodakā = Basella (probable; printed 'upodaka'); karbudāra = kovidāra (Bauhinia variegata, disputed). The unstated subject of 'śasyate' is the kalpa of 111.",
+  "why": "reviewer (minor): Same tag change in notes."
+ },
+ {
+  "n": "112",
+  "field": "english",
+  "old": "It is recommended in suvarcalā (identity disputed) and upodaka (probably Malabar spinach), and in karbudāra (probably Bauhinia variegata).",
+  "new": "It is recommended in suvarcalā (identity disputed; perhaps Cleome viscosa) and upodaka (probably Malabar spinach, Basella alba), and in karbudāra (probably Bauhinia variegata; disputed).",
+  "why": "reviewer (minor): Hindi gives hulhul but English gives no candidate."
+ },
+ {
+  "n": "112",
+  "field": "hindi",
+  "old": "सुवर्चला यानी सम्भवतः हुलहुल और उपोदकी यानी सम्भवतः पोय में, और कर्बुदार यानी सम्भवतः कचनार में प्रशस्त है।",
+  "new": "सुवर्चला यानी विवादित पहचान वाली, सम्भवतः हुलहुल और उपोदका यानी सम्भवतः पोई में, और कर्बुदार यानी सम्भवतः कचनार में प्रशस्त है।",
+  "why": "reviewer (minor): Disputed tag should show in Hindi; standard spelling is पोई."
+ },
+ {
+  "n": "113",
+  "field": "notes",
+  "old": "The printed 'seka' is read as 'sekān' (accusative plural, agreeing with 'śītamadhurān' and 'pralepanān'); the final n is missing in the print. The noun after 'śīta-madhurān' is not stated; the two nouns 'seka' and 'pralepana' are taken as the objects.",
+  "new": "The printed 'seka' is read as 'sekān' (accusative plural, agreeing with 'śītamadhurān' and 'pralepanān'); the final n is missing in the print. The noun after 'śīta-madhurān' is not stated; the two nouns 'seka' and 'pralepana' are taken as the objects. Alternative to the flag: the space in 'seka pralepanān' may be spurious, giving one compound sekapralepanān (pourings and coatings); the sense is the same.",
+  "why": "reviewer (minor): Simpler alternative to the flagged 'sekān': the space may be spurious (one compound sekapralepanān, 'pourings and coatings'); same sense."
+ },
+ {
+  "n": "116",
+  "field": "notes",
+  "old": "GROUPING: explains 115. 'pittaśakṛdvātān' is a dvandva in the masculine accusative plural (the final member vāta is masculine; pitta is neuter). 'hatvā' is literally 'having killed'; here 'having destroyed'. It is possible that 'destroyed' means 'expelled', but the text says only hatvā.",
+  "new": "GROUPING: appears to explain 115. 'pittaśakṛdvātān' is a dvandva in the masculine accusative plural (the final member vāta is masculine; pitta is neuter). 'hatvā' is literally 'having killed'; here 'having destroyed'. It is possible that 'destroyed' means 'expelled', but the text says only hatvā.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "117",
+  "field": "hindi",
+  "old": "और शुद्ध हुआ व्यक्ति शर्करा यानी चीनी से युक्त ठण्डी यवागू यानी पतली लपसी पिए।",
+  "new": "और शुद्ध होकर शर्करा यानी चीनी से युक्त ठण्डी यवागू यानी पतली लपसी पिए।",
+  "why": "reviewer (minor): 'व्यक्ति' is an added noun (viśuddhaḥ is an adjective; glossary: plain adjective in Hindi)."
+ },
+ {
+  "n": "119",
+  "field": "notes",
+  "old": "GROUPING: continues 118 ('bhojanam'). Kulmāṣa is read as a preparation of partly cooked grain (probable); the exact sense differs between authors. The verb 'yuñjyāt' is carried over from 118 and is not supplied.",
+  "new": "GROUPING: appears to continue 118 ('bhojanam'). Kulmāṣa is read as a preparation of partly cooked grain (probable); the exact sense differs between authors. The verb 'yuñjyāt' is carried over from 118 and is not supplied.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "120",
+  "field": "notes",
+  "old": "GROUPING: 120 to 122 are one sentence (the treatment is in 121). 'upaveśyeta' (to go to stool) is read as passing; the noun it governs is not stated, so '(stool)' is a supplied noun; the Hindi keeps only the adjectives. 'kuṇapa' is rendered putrid (foul-smelling); the lexical sense is corpse.",
+  "new": "GROUPING: 120 to 122 appear to be one sentence (the treatment is in 121). 'upaveśyeta' (to go to stool) is read as passing; the noun it governs is not stated, so '(stool)' is a supplied noun; the Hindi keeps only the adjectives. 'kuṇapa' is rendered putrid (foul-smelling); the lexical sense is corpse.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "120",
+  "field": "english",
+  "old": "He who, in pain and with aruci (distaste for food), would pass raw, putrid (kuṇapa) (stool),",
+  "new": "He who, in pain and with aruci (distaste for food), would pass raw, putrid (kuṇapa) (ones),",
+  "why": "reviewer (minor): Supplied noun; glossary form for unstated nouns is '(ones)'."
+ },
+ {
+  "n": "120",
+  "field": "notes",
+  "old": "GROUPING: 120 to 122 appear to be one sentence (the treatment is in 121). 'upaveśyeta' (to go to stool) is read as passing; the noun it governs is not stated, so '(stool)' is a supplied noun; the Hindi keeps only the adjectives. 'kuṇapa' is rendered putrid (foul-smelling); the lexical sense is corpse.",
+  "new": "GROUPING: 120 to 122 appear to be one sentence (the treatment is in 121). 'upaveśyeta' (to go to stool) is read as passing; the noun it governs is not stated, so the English supplies only '(ones)'; the Hindi keeps only the adjectives. 'kuṇapa' is rendered putrid (foul-smelling); the lexical sense is corpse.",
+  "why": "reviewer (minor): Supplied noun; glossary form for unstated nouns is '(ones)'."
+ },
+ {
+  "n": "121",
+  "field": "notes",
+  "old": "GROUPING: completes 120. The compound is a dvandva with 'sa' (together with). 'nadāru' is not a known drug name; it may be a damaged 'dāru' (or a stray 'na' before it); no reading is applied. Which preparation is drunk (powder, decoction) is not stated. 'kuṣṭha' here is the drug, not the disease.",
+  "new": "GROUPING: appears to complete 120. The compound is a dvandva with 'sa' (together with). 'nadāru' is not a known drug name; it may be a damaged 'dāru' (or a stray 'na' before it); no reading is applied. Which preparation is drunk (powder, decoction) is not stated. 'kuṣṭha' here is the drug, not the disease.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "121",
+  "field": "hindi",
+  "old": "अनुमानित पाठ के अनुसार, घन यानी सम्भवतः नागरमोथा, अतिविषा यानी अतीस, कुष्ठ यानी कूठ, नदारु और वचा यानी बच के साथ पिए।",
+  "new": "अनुमानित पाठ के अनुसार, घन यानी सम्भवतः नागरमोथा, अतिविषा यानी अतीस, कुष्ठ यानी कूठ, नदारु, जिसका अर्थ अस्पष्ट है, और वचा यानी बच के साथ पिए।",
+  "why": "reviewer (minor): Bare नदारु with no 'unclear' mark, unlike English."
+ },
+ {
+  "n": "121",
+  "field": "english",
+  "old": "On a conjectural reading: he should drink (them) together with ghana (probably musta), ativiṣā, kuṣṭha (costus), nadāru (unclear) and vacā (sweet flag).",
+  "new": "On a conjectural reading: he should drink (them) together with ghana (probably musta), ativiṣā (Aconitum heterophyllum), kuṣṭha (costus), nadāru (unclear) and vacā (sweet flag).",
+  "why": "reviewer (minor): Only name that has a standard identification but is left bare in the English translation."
+ },
+ {
+  "n": "122",
+  "field": "notes",
+  "old": "GROUPING: completes 120 and 121 as a list of what flows out; the treatment continues in 123. The print is corrupt: see text_flags; the intended words are read as śakṛt, vātam, asṛk, pittam. The Hindi keeps the sense 'whose ... is made to flow out'.",
+  "new": "GROUPING: appears to complete 120 and 121 as a list of what flows out; the treatment continues in 123. The print is corrupt: see text_flags; the intended words are read as śakṛt, vātam, asṛk, pittam. The Hindi keeps the sense 'whose ... is made to flow out'.",
+  "why": "reviewer (minor): Glossary: GROUPING notes say 'appears to', never state pairing/completion as fact."
+ },
+ {
+  "n": "123",
+  "field": "notes",
+  "old": "GROUPING: unclear; 'pakvam' may belong to the end of 122 or begin a new statement, and the unit may continue in the next chunk. 'pakvam' (cooked or ripe) has no stated noun and no sense is applied. 'svavargīya' is 'belonging to its own group' (the group of drugs for the same condition is not stated). 'bhiṣagjitam' is read 'conquered by the physician' (the alternative is 'the physician's victory'); the neuter 'śreṣṭham' with the masculine 'bastiḥ' is also loose.",
+  "new": "GROUPING: unclear; 'pakvam' may belong to the end of 122 or begin a new statement, and the unit may continue in the next chunk. 'pakvam' (cooked or ripe) has no stated noun and no sense is applied. 'svavargīya' is 'belonging to its own group' (the group of drugs for the same condition is not stated). 'bhiṣagjitam' is read 'conquered by the physician' (the alternative is 'the physician's victory'); the neuter 'śreṣṭham' with the masculine 'bastiḥ' is also loose. Possible link with the next chunk: unit 124 begins 'ṣaṇṇām eṣām dvisaṃsargāt triṃśad bhedāḥ' (of these six, thirty by pairing); unit 122 lists five items (śakṛt, vāta, asṛk, pitta, kapha), so 'pakvam' may be a sixth item of that list. This is an inference, not a decision.",
+  "why": "reviewer (minor): Unit 124 (next chunk) begins 'ṣaṇṇām eṣām dvisaṃsargāt triṃśad bhedāḥ' (of these six, thirty by pairing). 122 lists five (śakṛt, vāta, asṛk, pitta, kapha), so 'pakvam' here may be the sixth item of the same list. This is an inference only."
+ }
+]

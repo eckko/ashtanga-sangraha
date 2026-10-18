@@ -1,0 +1,691 @@
+{
+ "units": [
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tasmin, bhukte, a-bhukte",
+     "problem": "Gender given (n.) for words agreeing with an unstated noun; glossary says no gender on unstated nouns.",
+     "fix": "loc. sg. only",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "76",
+       "op": "word",
+       "match_w": "tasmin",
+       "field": "gram",
+       "value": "loc. sg."
+      },
+      {
+       "n": "76",
+       "op": "word",
+       "match_w": "bhukte",
+       "field": "gram",
+       "value": "past part. √bhuj, loc. sg."
+      },
+      {
+       "n": "76",
+       "op": "word",
+       "match_w": "a-bhukte",
+       "field": "gram",
+       "value": "past part. a-√bhuj, loc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "pitta",
+     "problem": "Note claims pitta is 'the humour-related blood ... as the text uses it': unsupported. Units 73-74 use raktapitta, so pitta here most plausibly stands for (rakta)pitta; the text does not say.",
+     "fix": "Replace with a cautious note.",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "notes",
+      "old": "pitta here is the humour-related blood (cf. raktapitta) as the text uses it, no more is stated.",
+      "new": "pitta presumably stands for raktapitta as in units 73-74; the line itself does not say so."
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pitta-destroying",
+     "problem": "Capitalisation: glossary has Pitta capitalised outside raktapitta; unit 103 writes 'Kapha-dispelling'.",
+     "fix": "Pitta-destroying",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "replace",
+      "field": "english",
+      "old": "pitta-destroying",
+      "new": "Pitta-destroying"
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "joined with goat's ghee-maṇḍa",
+     "problem": "Damaged token: only 'ghṛtamaṃḍa' and the final 'yuktaṃ' are reasonably clear; 'goat's' (from 'ājam') and 'joined with' are conjecture stacked on an unclear stretch, and ājam + ghṛtamaṇḍa is an odd pairing (ājya/ghṛta alternatives are possible). Draft does say 'on a conjectural reading' and gives low confidence, which is right; the owner may prefer to drop 'goat's' or keep the whole phrase marked as unclear.",
+     "fix": "Human decision: keep as drafted, or render as 'on a conjectural reading joined with ghee-maṇḍa'.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "पकाया हुआ दूध",
+     "problem": "Glossary: śṛta 'boiled', siddha 'cooked'; पकाया would blur the two.",
+     "fix": "उबाला हुआ दूध",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पकाया हुआ दूध",
+      "new": "उबाला हुआ दूध"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "samyak-prayukta-… / cā",
+     "problem": "Likely misreading: printed 'cā samyak…' with the space removed is 'cāsamyak…' = ca + a-samyak ('improperly administered'). No letter has to be changed, only the space; the draft's reading needs the printed ā to be an error and gives the opposite sense ('properly'). 'Improperly administered' also fits a chapter on faulty administration and 'the remaining complications (śeṣeṣu)'. Draft already mentions this alternative.",
+     "fix": "a-samyak-prayukta-vamana-virecana-upadraveṣu; 'improperly administered emesis and purgation'",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "80",
+       "op": "word",
+       "match_w": "samyak-prayukta-vamana-virecana-upadraveṣu",
+       "field": "w",
+       "value": "a-samyak-prayukta-vamana-virecana-upadraveṣu"
+      },
+      {
+       "n": "80",
+       "op": "word",
+       "match_w": "a-samyak-prayukta-vamana-virecana-upadraveṣu",
+       "field": "gloss",
+       "value": "in the complications of improperly administered emesis and purgation"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "properly administered",
+     "problem": "Follows from the split above.",
+     "fix": "of emesis and purgation improperly administered",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "english",
+      "old": "of emesis and purgation properly administered",
+      "new": "of emesis and purgation improperly administered"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भली-भाँति प्रयुक्त",
+     "problem": "Follows from the split above.",
+     "fix": "अनुचित रूप से प्रयुक्त",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भली-भाँति प्रयुक्त",
+      "new": "अनुचित रूप से प्रयुक्त"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "cā",
+     "problem": "Flag says long ā where ca is expected; the better explanation is ca + initial a of asamyak (only the space is displaced).",
+     "fix": "suggest cāsamyak (spacing only)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "80",
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "cāsamyak"
+      },
+      {
+       "n": "80",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "ā is ca + the initial a of a-samyak (cāsamyak…); only the space is misplaced; possible"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "cā samyak",
+     "problem": "Note must follow the corrected reading.",
+     "fix": "see replace",
+     "severity": "error",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "notes",
+      "old": "'cā samyak' is read as ca + samyak ('properly administered'); the alternative ca + a-samyak ('improperly administered') would suit a chapter on faulty administration but is not what is printed.",
+      "new": "'cā samyak' is read as ca + a-samyak ('improperly administered'): the printed text without the space is cāsamyak, so only the spacing is off. The alternative ca + samyak ('properly administered') would need the printed ā to be an error."
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ubhayataḥ-bhāge",
+     "problem": "'m.' asserted, but ubhayatobhāga here agrees with neuter śodhane (or is a compound adjective); gender not safe.",
+     "fix": "loc. sg. (compound ubhayatobhāga, agreeing with śodhane)",
+     "severity": "minor",
+     "patch": {
+      "n": "81",
+      "op": "word",
+      "match_w": "ubhayataḥ-bhāge",
+      "field": "gram",
+      "value": "loc. sg. (compound ubhayatobhāga, agreeing with śodhane)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "jīrṇaṃ",
+     "problem": "jīrṇa 'old' follows the glossary, but in a list of causes of a failed drug it could also be 'already digested (before acting)'; ambiguous. For the owner.",
+     "fix": "append alternative",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "append_note",
+      "text": "jīrṇa could also mean 'already digested' (the medicine digested without acting); 'old' kept per glossary (OPEN, owner)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "duśchardṃ",
+     "problem": "Handling matches the glossary (unsplit, unclear, conjectural reading, low). Observation: the parallel 'durvirecam … recanam' suggests duś-chardanam rather than duścharda(m); the sense given is still conjecture. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "translation",
+     "where": "taṃ nihanti tathā hi te",
+     "problem": "Syntax unresolved, as the draft says: the subject of nihanti and the referent of te are unknown, and 'for indeed they are so' is a bare literal. Needs a human decision (low confidence is correct).",
+     "fix": "Human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पूरा वाक्य",
+     "problem": "Hindi word order makes 'कफ' look like what is ānulomika ('स्वाभाविक दिशा में चलने वाला कफ से मिला हुआ ...').",
+     "fix": "जिसके पीया हुआ, अनुलोमिक यानी स्वाभाविक दिशा में चलने वाला, कफ से मिला हुआ ऊपर की ओर जाता है,",
+     "severity": "minor",
+     "patch": {
+      "n": "88",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके पीया हुआ, अनुलोमिक यानी स्वाभाविक दिशा में चलने वाला, कफ से मिला हुआ ऊपर की ओर जाता है,"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pītam, kapha-saṃsṛṣṭam, ānulomikam",
+     "problem": "Gender given for words agreeing with an unstated noun (the medicine, per the draft's own note).",
+     "fix": "drop n.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "88",
+       "op": "word",
+       "match_w": "pītam",
+       "field": "gram",
+       "value": "past part. √pā, nom. sg."
+      },
+      {
+       "n": "88",
+       "op": "word",
+       "match_w": "kapha-saṃsṛṣṭam",
+       "field": "gram",
+       "value": "tat-puruṣa, nom. sg."
+      },
+      {
+       "n": "88",
+       "op": "word",
+       "match_w": "ānulomikam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    },
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "'goes upward' with 'ānulomika' is odd for a purgative; ānulomikam may be adverbial or the object of yāti; the construction is not settled, so medium is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "88",
+       "op": "set",
+       "field": "confidence",
+       "value": "low"
+      },
+      {
+       "n": "88",
+       "op": "append_note",
+       "text": "Syntax uncertain: ānulomikam may be adverbial ('goes in the natural way') or a noun, and 'goes upward' sits oddly with ānulomika for a purgative."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "flowing (only)",
+     "problem": "'(only)' is not in the Sanskrit.",
+     "fix": "and flowing after a long time",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "replace",
+      "field": "english",
+      "old": "and flowing (only) after a long time",
+      "new": "and flowing after a long time"
+     }
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vibandha",
+     "problem": "Modern equivalent missing: vibandha is standardly constipation (retention of stool and flatus); translation 'obstruction' is fine.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "91",
+      "op": "append_note",
+      "text": "vibandha = constipation / obstruction of stool and flatus (standard)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "Note says the construction is uncertain, gram says 'construction unclear'; medium is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "94",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "a-jīrṇam, su-śītaiḥ",
+     "problem": "Gender given for words with unstated noun.",
+     "fix": "nom./acc. sg.; inst. pl.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "95",
+       "op": "word",
+       "match_w": "a-jīrṇam",
+       "field": "gram",
+       "value": "nom./acc. sg."
+      },
+      {
+       "n": "95",
+       "op": "word",
+       "match_w": "su-śītaiḥ",
+       "field": "gram",
+       "value": "inst. pl."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jīrṇe, tiṣṭhati, ūrdhva-gate",
+     "problem": "Gender given for words with unstated noun.",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "98",
+       "op": "word",
+       "match_w": "jīrṇe",
+       "field": "gram",
+       "value": "past part. √jṝ, loc. sg."
+      },
+      {
+       "n": "98",
+       "op": "word",
+       "match_w": "tiṣṭhati",
+       "field": "gram",
+       "value": "pres. part. √sthā, loc. sg."
+      },
+      {
+       "n": "98",
+       "op": "word",
+       "match_w": "ūrdhva-gate",
+       "field": "gram",
+       "value": "tat-puruṣa, loc. sg."
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "rūkṣānnāhārayejjīrṇe",
+     "problem": "Typo conjecture (+m) is doubtful on metre: the printed half-line has 8 syllables, adding -m makes 9. The printed text may be rūkṣānna (bare stem) + āhārayet. Flag stays 'possible'; src kept as printed, correction only in words: fine.",
+     "fix": "append metre note",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "append_note",
+      "text": "Metre: the printed half-line rūkṣānnāhārayejjīrṇe has 8 syllables; the suggested rūkṣānnamāhārayejjīrṇe would have 9, so the emendation is doubtful (printed form may be rūkṣānna + āhārayet)."
+     }
+    },
+    {
+     "field": "glossary",
+     "where": "jīrṇe (digested) vs 85 (old)",
+     "problem": "'Digested' for jīrṇa/jīryati in 98, 100 (and ajīrṇa 'undigested' in 95) is correct for the digestion sense; the glossary entry jīrṇa 'old' only fits 85-type 'stale' use. Not an error in this chunk, but the glossary should state both senses; owner to confirm, and to decide 85 (old vs already digested).",
+     "fix": "Glossary: jīrṇa = 'old' (of a drug, stale) and 'digested' (jīrṇe, jīryati, ajīrṇa, of food/medicine in the body)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "किसी दूसरे को",
+     "problem": "'को' reads as 'to someone else'; anyat is neuter accusative 'another (one)'.",
+     "fix": "स्नेह और लवण सहित दूसरा पिए",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "replace",
+      "field": "hindi",
+      "old": "किसी दूसरे को स्नेह और लवण सहित पिए",
+      "new": "स्नेह और लवण सहित दूसरा पिए"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anyat",
+     "problem": "Gender given for an unstated noun.",
+     "fix": "acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "word",
+      "match_w": "anyat",
+      "field": "gram",
+      "value": "acc. sg."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tvanyatsanehalavaṇaṃ",
+     "problem": "Alternative to sa-sneha: plain snehalavaṇam (fat and salt) with an extra a; not mentioned.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "append_note",
+      "text": "Alternative to the suggested sasneha: the printed 'saneha' may be snehalavaṇam with a stray a, giving 'another one: fat and salt'; sense differs slightly."
+     }
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "glossary",
+     "where": "jīryati",
+     "problem": "Rendered 'while being digested'; see 98 note. English 'and while the medicine is being digested' is a bare fragment of ca + locative absolute; literal, acceptable.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pitta-destroying",
+     "problem": "Capitalisation as in 77.",
+     "fix": "Pitta-destroying",
+     "severity": "minor",
+     "patch": {
+      "n": "101",
+      "op": "replace",
+      "field": "english",
+      "old": "pitta-destroying",
+      "new": "Pitta-destroying"
+     }
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hallāsa",
+     "problem": "'hallāsa is not a word' is too strong: hallāsa is, to my knowledge, a recorded variant spelling of hṛllāsa. Sense unchanged.",
+     "fix": "soften why",
+     "severity": "minor",
+     "patch": {
+      "n": "102",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "hallāsa may be a variant spelling of hṛllāsa ('nausea'); the standard form is hṛllāsa; possible"
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kapha-nud",
+     "problem": "Stem/nominative should be kapha-nut (final d of root nud devoiced; the d of 'kaphanuddhitam' comes from sandhi t + h).",
+     "fix": "kapha-nut",
+     "severity": "minor",
+     "patch": {
+      "n": "103",
+      "op": "word",
+      "match_w": "kapha-nud",
+      "field": "w",
+      "value": "kapha-nut"
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vi-vidhe",
+     "problem": "Possible variant dvi-vidhe ('twofold', i.e. upward and downward virecana, cf. unit 81 ubhayatobhāga); printed vividhe is kept and is acceptable. Observation only.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "37 units reviewed. Main error: unit 80 'cā samyak' is cāsamyak (ca + a-samyak), so 'improperly administered' (patched in split, English, Hindi, note, flag). Remaining items are minor: gender on unstated nouns (76, 88, 95, 98, 99), Pitta capitalisation (77, 101), Hindi fixes (79, 88, 99), 'goat's' conjecture in 79, kapha-nut (103), unsupported '(only)' (90), confidence 88 and 94 to low. No wrong plant/drug identifications found (kāśmarya, dūrvā, uśīra standard; śyāmā disputed; khaḍga and pravāhikā hedged). Human decisions: 79, 86, 87, 88, 94, 98 (rūkṣānna), 85 jīrṇa. No regrouping needed; cross-unit sentence notes are present.",
+ "glossary_suggestions": [
+  "jīrṇa: 'old' (of a drug, stale) vs 'digested' (jīrṇe, jīryati, of food or medicine in the body); ajīrṇa 'undigested'. Decide 85 (old vs already digested).",
+  "Pitta/Kapha capitalised in English hyphen-compounds (Pitta-destroying, Kapha-dispelling); lowercase only in Sanskrit compounds like raktapitta.",
+  "vibandha = constipation (standard) with 'obstruction' as literal gloss.",
+  "ubhayatobhāga: technical term (cleansing through both ways); keep Sanskrit with gloss.",
+  "śṛta Hindi: उबाला हुआ (boiled), siddha पकाया हुआ (cooked)."
+ ]
+}

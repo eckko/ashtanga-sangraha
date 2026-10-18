@@ -1,0 +1,2864 @@
+[
+ {
+  "n": "124",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṇṇāmeṣāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "six",
+        "gram": "num. gen. pl."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvisaṃsargāttriṃśadbhedā",
+      "words": [
+       {
+        "w": "dvi-saṃsargāt",
+        "gloss": "two; combination",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "triṃśat-bhedāḥ",
+        "gloss": "thirty; varieties",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are, become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन छह के दो-दो के संयोग से तीस भेद होते हैं।",
+  "english": "Of these six, from the combination of two, there are thirty varieties.",
+  "text_flags": [],
+  "notes": "The six are not named in this unit. Thirty is as printed; the text does not explain how the count is reached (it is not the number of pairs of six). 'triṃśadbhedā bhavanti' is regular sandhi (āḥ before b becomes ā).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.124"
+  ],
+  "lines_deva": [
+   "षण्णामेषां द्विसंसर्गात्त्रिंशद्भेदा भवंति तु"
+  ],
+  "lines_iast": [
+   "ṣaṇṇāmeṣāṃ dvisaṃsargāttriṃśadbhedā bhavaṃti tu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "125",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kevalaiḥ",
+      "words": [
+       {
+        "w": "kevalaiḥ",
+        "gloss": "single, alone",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sahaṣaṭtriṃśadvidyātsopadravānapi",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "with",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṭtriṃśat",
+        "gloss": "thirty-six",
+        "gram": "num."
+       },
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "opt. 3 sg. √vid"
+       },
+       {
+        "w": "sa-upadravān",
+        "gloss": "with; complications",
+        "gram": "bahuvrīhi, acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अकेलों के साथ छत्तीस को जाने, उपद्रवों सहित भी।",
+  "english": "Together with the single (ones), one should know thirty-six, also with their complications (upadrava).",
+  "text_flags": [],
+  "notes": "The noun for the thirty-six is not stated; no noun is added. Thirty-six equals the thirty of 124 plus six, but the text does not say so. 'kevalaiḥ' read as 'single, alone'; 'sa-upadravān' is accusative plural, agreeing with the unstated object of vidyāt. GROUPING: 125 appears to follow on 124 and 126-127 name the upadravas.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.125"
+  ],
+  "lines_deva": [
+   "केवलैः सहषट्त्रिंशद्विद्यात्सोपद्रवानपि"
+  ],
+  "lines_iast": [
+   "kevalaiḥ sahaṣaṭtriṃśadvidyātsopadravānapi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "126",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūlapravāhikā''dhmānaparikartyarucijvarān",
+      "words": [
+       {
+        "w": "śūla-pravāhikā-ādhmāna-parikarti-aruci-jvarān",
+        "gloss": "pain; pravāhikā (straining at stool, tenesmus; standard); distension; cutting pain; loss of appetite; fevers",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शूल यानी पीड़ा, प्रवाहिका यानी मल के लिए ज़ोर लगना, आध्मान यानी अफारा, परिकर्ती यानी काटने की पीड़ा, अरुचि यानी भोजन की अनिच्छा और ज्वर यानी बुखार।",
+  "english": "Pain (śūla), pravāhikā (straining at stool, tenesmus), distension (ādhmāna), cutting pain (parikarti), loss of appetite (aruci) and fevers (jvara).",
+  "text_flags": [],
+  "notes": "GROUPING: 126 and 127 appear to form one statement; the verb vidyāt and the governing phrase 'upadravān' are in 127, so this unit is a bare list (no verb supplied). The final member is accusative plural (jvarān), the rest are compound members. Printed 'parikartyaruci' = parikarti + aruci (sandhi i+a = ya). 'parikarti' read as cutting pain (cf. parikartikā); standard.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.126"
+  ],
+  "lines_deva": [
+   "शूलप्रवाहिकाऽऽध्मानपरिकर्त्यरुचिज्वरान्"
+  ],
+  "lines_iast": [
+   "śūlapravāhikā''dhmānaparikartyarucijvarān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛṇmohadāhamūrcchādīṃścaiṣāṃ",
+      "words": [
+       {
+        "w": "tṛṣ-moha-dāha-mūrcchā-ādīn",
+        "gloss": "thirst; bewilderment; burning; fainting; and so on",
+        "gram": "dvandva, m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidyādupadravān",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "opt. 3 sg. √vid"
+       },
+       {
+        "w": "upadravān",
+        "gloss": "complications",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तृष्णा यानी प्यास, मोह यानी भ्रम, दाह यानी जलन, मूर्च्छा यानी बेहोशी आदि को भी इनके उपद्रव जाने।",
+  "english": "Thirst (tṛṣ), bewilderment (moha), burning (dāha), fainting (mūrcchā) and so on one should know as the complications (upadrava) of these.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 126 (the list there and this list are the objects of vidyāt). 'tṛṇmoha' = tṛṣ + moha (ṣ-final becomes ṇ before m). 'eṣām' is not specified further in the unit (it refers to the varieties of 124-125).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.127"
+  ],
+  "lines_deva": [
+   "तृण्मोहदाहमूर्च्छादींश्चैषां विद्यादुपद्रवान्"
+  ],
+  "lines_iast": [
+   "tṛṇmohadāhamūrcchādīṃścaiṣāṃ vidyādupadravān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "128",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāme'tarapānaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that case",
+        "gram": "ind."
+       },
+       {
+        "w": "āme",
+        "gloss": "in āma (undigested matter)",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "atara",
+        "gloss": "unclear (printed 'tara)",
+        "gram": "unclear"
+       },
+       {
+        "w": "pānam",
+        "gloss": "drink, drinking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṭvamlalavaṇairyutaṃ",
+      "words": [
+       {
+        "w": "kaṭu-amla-lavaṇaiḥ",
+        "gloss": "pungent; sour; salty",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "yutam",
+        "gloss": "joined with",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ आम यानी अपक्व, अपचे पदार्थ में, अस्पष्ट शब्द के अनुमानित पाठ पर, पान, कटु, अम्ल और लवण से युक्त,",
+  "english": "There, in āma (undigested matter), the drink — on a conjectural reading of the unclear word 'tara' — joined with pungent, sour and salty (ones),",
+  "text_flags": [
+   {
+    "src": "tatrāme'tarapānaṃ",
+    "suggest": "tatrāme'ntarapānaṃ",
+    "why": "possible: 'tarapāna' with avagraha is not a known word; 'antarapāna' is one guess (metre is unaffected); same form in 135"
+   }
+  ],
+  "notes": "GROUPING: 128 and 129 appear to form one statement; the predicate 'pācanam śasyate' is in 129. The printed 'tarapānam' (after an avagraha) is unclear: no reading is built on it. Possible 'antara-pāna' (a drink taken between things) or 'itara-pāna', but neither is certain and neither is applied; the same word recurs in 135. Sandhi is regular otherwise.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.128"
+  ],
+  "lines_deva": [
+   "तत्रामेऽतरपानं तु कट्वम्ललवणैर्युतं"
+  ],
+  "lines_iast": [
+   "tatrāme'tarapānaṃ tu kaṭvamlalavaṇairyutaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "129",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pācanaṃ",
+      "words": [
+       {
+        "w": "pācanam",
+        "gloss": "digestive (pācana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śasyate",
+      "words": [
+       {
+        "w": "śasyate",
+        "gloss": "is recommended",
+        "gram": "3 sg. pass. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "bastirāme",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āme",
+        "gloss": "in āma",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣidhyate",
+      "words": [
+       {
+        "w": "pratiṣidhyate",
+        "gloss": "is forbidden",
+        "gram": "3 sg. pass. prati-√sidh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाचन प्रशस्त है; आम में तो बस्ति का निषेध किया जाता है।",
+  "english": "A digestive (pācana) is recommended; in āma, basti (enema) is indeed forbidden.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 128. The grammar of 'pācanam' (neuter singular) with the drink of 128 is a natural reading but the link is not certain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.129"
+  ],
+  "lines_deva": [
+   "पाचनं शस्यते बस्तिरामे हि प्रतिषिध्यते"
+  ],
+  "lines_iast": [
+   "pācanaṃ śasyate bastirāme hi pratiṣidhyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātaghnagrāhivargīyo",
+      "words": [
+       {
+        "w": "vāta-ghna-grāhi-vargīyaḥ",
+        "gloss": "wind-destroying; binding (grāhin); belonging to the group",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakṛti",
+      "words": [
+       {
+        "w": "śakṛti",
+        "gloss": "in stool",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śasyate",
+      "words": [
+       {
+        "w": "śasyate",
+        "gloss": "is recommended",
+        "gram": "3 sg. pass. √śaṃs"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मल में वातनाशक और ग्राही यानी बाँधने वाले वर्ग की बस्ति प्रशस्त है।",
+  "english": "A basti (enema) of the group of wind-destroying and binding (grāhin) (ones) is recommended in stool.",
+  "text_flags": [],
+  "notes": "'grāhin' = binding, checking the bowels; kept as grāhi. 'vargīya' = belonging to the group (varga); the members of the group are not listed. 'in stool' is literal (śakṛti); what condition is meant is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.130"
+  ],
+  "lines_deva": [
+   "वातघ्नग्राहिवर्गीयो बस्तिः शकृति शस्यते"
+  ],
+  "lines_iast": [
+   "vātaghnagrāhivargīyo bastiḥ śakṛti śasyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svādvamlo",
+      "words": [
+       {
+        "w": "svādu-amlaḥ",
+        "gloss": "sweet; sour",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyaktalavaṇaḥ",
+      "words": [
+       {
+        "w": "vyakta-lavaṇaḥ",
+        "gloss": "evident; salt",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehabastiḥ",
+      "words": [
+       {
+        "w": "sneha-bastiḥ",
+        "gloss": "oil; enema",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samīraṇe",
+      "words": [
+       {
+        "w": "samīraṇe",
+        "gloss": "in wind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु में मधुर और अम्ल, स्पष्ट लवण वाली स्नेहबस्ति।",
+  "english": "An oil enema (sneha-basti), sweet and sour, with the salt evident, in wind (samīraṇa).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb; 'is recommended' of 130 is carried over, none supplied. 'samīraṇa' (wind) is read as vāta; kept as 'wind'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.131"
+  ],
+  "lines_deva": [
+   "स्वाद्वम्लो व्यक्तलवणः स्नेहबस्तिः समीरणे"
+  ],
+  "lines_iast": [
+   "svādvamlo vyaktalavaṇaḥ snehabastiḥ samīraṇe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rakte",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "in blood",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktena",
+      "words": [
+       {
+        "w": "raktena",
+        "gloss": "with blood",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittāsre",
+      "words": [
+       {
+        "w": "pitta-asre",
+        "gloss": "pitta; blood",
+        "gram": "dvandva, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyasvādutiktakaḥ",
+      "words": [
+       {
+        "w": "kaṣāya-svādu-tiktakaḥ",
+        "gloss": "astringent; sweet; bitter",
+        "gram": "dvandva, nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त में, रक्त से, पित्त और रक्त में कसैला, मधुर और तिक्त।",
+  "english": "In blood, with blood, in Pitta-and-blood (pittāsra): astringent, sweet and bitter.",
+  "text_flags": [],
+  "notes": "Elliptical: the noun 'basti' is not in the line (carried from the series, none supplied). 'rakte raktena' is odd (locative then instrumental of the same word); the sense of the pair is not clear and no reading is built on it. 'pitta-asra' read as pitta-and-blood. Tastes: kaṣāya = astringent; the -ka ending is the usual adjectival suffix.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.132"
+  ],
+  "lines_deva": [
+   "रक्ते रक्तेन पित्तास्रे कषायस्वादुतिक्तकः"
+  ],
+  "lines_iast": [
+   "rakte raktena pittāsre kaṣāyasvādutiktakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāryamāṇe",
+      "words": [
+       {
+        "w": "sāryamāṇe",
+        "gloss": "being made to move",
+        "gram": "caus. pass. pres. part., m. loc. sg. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyaḥ",
+      "words": [
+       {
+        "w": "kaṣāyaḥ",
+        "gloss": "astringent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭutiktakaḥ",
+      "words": [
+       {
+        "w": "kaṭu-tiktakaḥ",
+        "gloss": "pungent; bitter",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ के सरकाए जाते समय बस्ति कसैली, कटु और तिक्त।",
+  "english": "When Kapha is being made to move (sāryamāṇa), the basti is astringent, pungent and bitter.",
+  "text_flags": [],
+  "notes": "'sāryamāṇe' read as the passive-causative present participle of √sṛ (being made to move or flow); this is the plain reading but not secure. No verb in the Sanskrit; 'is' supplied only as the copula of a locative absolute statement. Kaṣāya is the taste here (astringent), not a decoction.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.133"
+  ],
+  "lines_deva": [
+   "सार्यमाणे कफे बस्तिः कषायः कटुतिक्तकः"
+  ],
+  "lines_iast": [
+   "sāryamāṇe kaphe bastiḥ kaṣāyaḥ kaṭutiktakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaqatā",
+      "words": [
+       {
+        "w": "śakṛtā",
+        "gloss": "with stool",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyunā",
+      "words": [
+       {
+        "w": "vāyunā",
+        "gloss": "with wind",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā''mena",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "āmena",
+        "gloss": "with āma",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "varcasyathavā'nilai",
+      "words": [
+       {
+        "w": "varcasi",
+        "gloss": "in stool",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "athavā",
+        "gloss": "or else",
+        "gram": "ind."
+       },
+       {
+        "w": "anilaiḥ",
+        "gloss": "with winds",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मल से, अथवा वायु से, अथवा आम से; मल में, अथवा वायुओं से।",
+  "english": "With stool, or with wind, or with āma; in stool, or else with winds.",
+  "text_flags": [
+   {
+    "src": "śaqatā",
+    "suggest": "śakṛtā",
+    "why": "possible (very likely): the nukta-k stands for kṛ; same print habit in 143 'śaqacchoṇitayoḥ'"
+   },
+   {
+    "src": "varcasyathavā'nilai",
+    "suggest": "varcasyathavā'nilaiḥ",
+    "why": "possible: final visarga dropped (the instrumental plural anilaiḥ is expected; metre needs 16 syllables as printed)"
+   }
+  ],
+  "notes": "GROUPING: 134 and 135 appear to form one statement (the predicate is in 135: saṃsṛṣṭe ... syāt). The line is a list of combinations (saṃsarga) and is odd: stool appears twice (śakṛt, varcas) and the cases vary (instrumental, locative); no reading is built on the sense. Print: 'śaqatā' (q is a nukta sign) for śakṛtā; final visarga of 'anilai' lost.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.134"
+  ],
+  "lines_deva": [
+   "शक़ता वायुना वाऽऽमेन वर्चस्यथवाऽनिलै"
+  ],
+  "lines_iast": [
+   "śaqatā vāyunā vā''mena varcasyathavā'nilai"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃsṛṣṭe'tarapānaṃ",
+      "words": [
+       {
+        "w": "saṃsṛṣṭe",
+        "gloss": "in the mixed (case)",
+        "gram": "loc. sg."
+       },
+       {
+        "w": "atara",
+        "gloss": "unclear (printed 'tara)",
+        "gram": "unclear"
+       },
+       {
+        "w": "pānam",
+        "gloss": "drink, drinking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syātkaṭvamlalavaṇairyutaṃ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √as"
+       },
+       {
+        "w": "kaṭu-amla-lavaṇaiḥ",
+        "gloss": "pungent; sour; salty",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "yutam",
+        "gloss": "joined with",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संसृष्ट में, अस्पष्ट शब्द के अनुमानित पाठ पर, पान कटु, अम्ल और लवण से युक्त हो।",
+  "english": "In the mixed (case), there should be the drink — on a conjectural reading of the unclear word 'tara' — joined with pungent, sour and salty (ones).",
+  "text_flags": [
+   {
+    "src": "saṃsṛṣṭe'tarapānaṃ",
+    "suggest": "saṃsṛṣṭe'ntarapānaṃ",
+    "why": "possible: same doubtful 'tarapāna' as in 128"
+   }
+  ],
+  "notes": "GROUPING: appears to complete 134. The word printed 'tarapānam' is unclear, as in 128 (see there); no reading is built on it. 'saṃsṛṣṭe' (mixed, combined) has no noun in the unit.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.135"
+  ],
+  "lines_deva": [
+   "संसृष्टेऽतरपानं स्यात्कट्वम्ललवणैर्युतं"
+  ],
+  "lines_iast": [
+   "saṃsṛṣṭe'tarapānaṃ syātkaṭvamlalavaṇairyutaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittenāme'sṛjātadvattayorāmena",
+      "words": [
+       {
+        "w": "pittena",
+        "gloss": "with pitta",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "āme",
+        "gloss": "in āma",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "asṛjā",
+        "gloss": "with blood",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "tayoḥ",
+        "gloss": "of those two",
+        "gram": "du. gen./loc."
+       },
+       {
+        "w": "āmena",
+        "gloss": "with āma",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पित्त से, आम में, रक्त से, उसी प्रकार; अथवा फिर उन दोनों का आम से।",
+  "english": "With Pitta, in āma, with blood, likewise; or again, of those two, with āma.",
+  "text_flags": [],
+  "notes": "GROUPING: 136 and 137 appear to form one statement (predicate 'bhavet pānam' in 137). A list of combinations; the sense of 'tayoḥ āmena' (of/in the two, with āma) is not fully clear, so the literal order is kept; 'tayoḥ' could be genitive or locative dual.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.136"
+  ],
+  "lines_deva": [
+   "पित्तेनामेऽसृजातद्वत्तयोरामेन वा पुनः"
+  ],
+  "lines_iast": [
+   "pittenāme'sṛjātadvattayorāmena vā punaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃsṛṣṭayorbhavetpānaṃ",
+      "words": [
+       {
+        "w": "saṃsṛṣṭayoḥ",
+        "gloss": "of the two that are mixed",
+        "gram": "du. gen./loc."
+       },
+       {
+        "w": "bhavet",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √bhū"
+       },
+       {
+        "w": "pānam",
+        "gloss": "drink",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakaṭukasvādutiktakaṃ",
+      "words": [
+       {
+        "w": "sa-kaṭuka-svādu-tiktakam",
+        "gloss": "with; pungent; sweet; bitter",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो संसृष्टों में कटु, मधुर और तिक्त सहित पान हो।",
+  "english": "Of the two that are mixed, there should be a drink with pungent, sweet and bitter (tastes).",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 136. 'saṃsṛṣṭayoḥ' (genitive or locative dual) has no noun in the unit; 'sa-kaṭuka' is read as 'with pungent' (kaṭuka = kaṭu).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.137"
+  ],
+  "lines_deva": [
+   "संसृष्टयोर्भवेत्पानं सकटुकस्वादुतिक्तकं"
+  ],
+  "lines_iast": [
+   "saṃsṛṣṭayorbhavetpānaṃ sakaṭukasvādutiktakaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "''me",
+      "words": [
+       {
+        "w": "āme",
+        "gloss": "in āma",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphasaṃsṛṣṭe",
+      "words": [
+       {
+        "w": "kapha-saṃsṛṣṭe",
+        "gloss": "Kapha; mixed",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyakaṭutiktakaṃ",
+      "words": [
+       {
+        "w": "kaṣāya-kaṭu-tiktakam",
+        "gloss": "astringent; pungent; bitter",
+        "gram": "dvandva, nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी प्रकार कफ से संसृष्ट आम में कसैला, कटु और तिक्त।",
+  "english": "Likewise, in āma mixed with Kapha, (one) astringent, pungent and bitter.",
+  "text_flags": [],
+  "notes": "Elliptical: 'pānam' (drink) of 137 is carried over (neuter ending), none supplied. Printed token \"''me\" = āme (double avagraha stands for ā). Kaṣāya here is the taste (astringent).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.138"
+  ],
+  "lines_deva": [
+   "तथा ऽऽमे कफसंसृष्टे कषायकटुतिक्तकं"
+  ],
+  "lines_iast": [
+   "tathā ''me kaphasaṃsṛṣṭe kaṣāyakaṭutiktakaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āmena",
+      "words": [
+       {
+        "w": "āmena",
+        "gloss": "with āma",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yukte",
+      "words": [
+       {
+        "w": "yukte",
+        "gloss": "joined",
+        "gram": "m. loc. sg. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyalavauṣadhaṃ",
+      "words": [
+       {
+        "w": "kaṣāya",
+        "gloss": "astringent",
+        "gram": "adj."
+       },
+       {
+        "w": "lava",
+        "gloss": "unclear (perhaps lavaṇa, salt)",
+        "gram": "unclear"
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आम से तो कफ के युक्त होने पर कसैला, लव शब्द के अनुमानित पाठ पर, औषध।",
+  "english": "But when Kapha is joined with āma: a medicine (auṣadha), astringent and — on a conjectural reading of the doubtful word 'lava' — [salty].",
+  "text_flags": [
+   {
+    "src": "kaṣāyalavauṣadhaṃ",
+    "suggest": "kaṣāyalavaṇauṣadhaṃ",
+    "why": "possible: the line is 15 syllables as printed and 16 with lavaṇa (ṇa dropped); not certain"
+   }
+  ],
+  "notes": "The compound 'kaṣāyalavauṣadham' is doubtful at 'lava': it may be a truncated lavaṇa (salt), which would give a 16-syllable line, but this is not certain and no reading is built on it. The English breaks off because the sense of the damaged word is not secure. kaṣāya = astringent taste or decoction: not fixed here.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.139"
+  ],
+  "lines_deva": [
+   "आमेन तु कफे युक्ते कषायलवौषधं"
+  ],
+  "lines_iast": [
+   "āmena tu kaphe yukte kaṣāyalavauṣadhaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātena",
+      "words": [
+       {
+        "w": "vātena",
+        "gloss": "with Vāta",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśi",
+      "words": [
+       {
+        "w": "viṣi",
+        "gloss": "in stool",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitte",
+      "words": [
+       {
+        "w": "pitte",
+        "gloss": "in pitta",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṭpittāsre",
+      "words": [
+       {
+        "w": "viṭ-pitta-asre",
+        "gloss": "stool; pitta; blood",
+        "gram": "dvandva, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā'nile",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "anile",
+        "gloss": "in wind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात से, मल में अथवा पित्त में; मल, पित्त और रक्त में, उसी प्रकार वायु में,",
+  "english": "With Vāta, in stool or in Pitta; in stool, Pitta and blood, likewise in wind,",
+  "text_flags": [
+   {
+    "src": "viśi",
+    "suggest": "viṣi",
+    "why": "possible: ś for ṣ; viṣ (viṭ) = excrement, locative viṣi; same form in 145"
+   }
+  ],
+  "notes": "GROUPING: 140 and 141 appear to form one statement (predicate 'syāt ... bastiḥ uttamaḥ' in 141). Print 'viśi' read as viṣi (locative of viṣ/viṭ, excrement); the same print form recurs in 145. Pure list of combinations.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.140"
+  ],
+  "lines_deva": [
+   "वातेन विशि पित्ते वा विट्पित्तास्रे तथाऽनिले"
+  ],
+  "lines_iast": [
+   "vātena viśi pitte vā viṭpittāsre tathā'nile"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "141",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "syātkaṣāyāmlamadhuraḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √as"
+       },
+       {
+        "w": "kaṣāya-amla-madhuraḥ",
+        "gloss": "astringent; sour; sweet",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛṣṭe",
+      "words": [
+       {
+        "w": "saṃsṛṣṭe",
+        "gloss": "in the mixed (case)",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiruttamaḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uttamaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संसृष्ट में कसैली, खट्टी और मधुर बस्ति उत्तम होगी।",
+  "english": "In the mixed (case), a basti astringent, sour and sweet would be best.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 140. 'syāt' with 'uttamaḥ' is read as 'would be best'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.141"
+  ],
+  "lines_deva": [
+   "स्यात्कषायाम्लमधुरः संसृष्टे बस्तिरुत्तमः"
+  ],
+  "lines_iast": [
+   "syātkaṣāyāmlamadhuraḥ saṃsṛṣṭe bastiruttamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "142",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastirvātena",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vātena",
+        "gloss": "with Vāta",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakte",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "in blood",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāryaḥ",
+      "words": [
+       {
+        "w": "kāryaḥ",
+        "gloss": "should be done",
+        "gram": "gerundive m. nom. sg. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "svādvamlatiktakaḥ",
+      "words": [
+       {
+        "w": "svādu-amla-tiktakaḥ",
+        "gloss": "sweet; sour; bitter",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात से और रक्त में बस्ति मधुर, अम्ल और तिक्त करनी चाहिए।",
+  "english": "With Vāta and in blood, the basti should be done sweet, sour and bitter.",
+  "text_flags": [],
+  "notes": "Literal: 'kāryaḥ' (should be done, made). 'with wind' and 'in blood' are the conditions as printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.142"
+  ],
+  "lines_deva": [
+   "बस्तिर्वातेन रक्ते च कार्यः स्वाद्वम्लतिक्तकः"
+  ],
+  "lines_iast": [
+   "bastirvātena rakte ca kāryaḥ svādvamlatiktakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "143",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaqacchoṇitayoḥ",
+      "words": [
+       {
+        "w": "śakṛt-śoṇitayoḥ",
+        "gloss": "stool; blood",
+        "gram": "dvandva, du. gen./loc."
+       }
+      ]
+     },
+     {
+      "src": "pittaśakṛtorasṛkpittayoḥ",
+      "words": [
+       {
+        "w": "pitta-śakṛtoḥ",
+        "gloss": "pitta; stool",
+        "gram": "dvandva, du. gen./loc."
+       },
+       {
+        "w": "asṛk-pittayoḥ",
+        "gloss": "blood; pitta",
+        "gram": "dvandva, du. gen./loc."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मल और रक्त के, पित्त और मल के, रक्त और पित्त के,",
+  "english": "Of stool and blood, of Pitta and stool, of blood and Pitta,",
+  "text_flags": [
+   {
+    "src": "śaqacchoṇitayoḥ",
+    "suggest": "śakṛcchoṇitayoḥ",
+    "why": "possible (very likely): the nukta-k stands for kṛ, as in 134"
+   }
+  ],
+  "notes": "GROUPING: 143 and 144 appear to form one statement (predicate in 144: basti ... in mutual combination). Genitive or locative dual throughout, so 'of' is chosen; 'in' is also possible. Print 'śaqacchoṇitayoḥ' read as śakṛc-śoṇitayoḥ (sandhi śakṛt + ś = śakṛc-ch).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.143"
+  ],
+  "lines_deva": [
+   "शक़च्छोणितयोः पित्तशकृतोरसृक्पित्तयोः"
+  ],
+  "lines_iast": [
+   "śaqacchoṇitayoḥ pittaśakṛtorasṛkpittayoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "144",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bastiranyonyasaṃsarge",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anyonya-saṃsarge",
+        "gloss": "each other; combination",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyasvādutiktakaḥ",
+      "words": [
+       {
+        "w": "kaṣāya-svādu-tiktakaḥ",
+        "gloss": "astringent; sweet; bitter",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परस्पर संयोग में बस्ति कसैली, मधुर और तिक्त है।",
+  "english": "In mutual combination, the basti is astringent, sweet and bitter.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 143. No verb in the Sanskrit; 'is' is the copula of the statement. 'anyonya' = one another (mutual).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.144"
+  ],
+  "lines_deva": [
+   "बस्तिरन्योन्यसंसर्गे कषायस्वादुतिक्तकः"
+  ],
+  "lines_iast": [
+   "bastiranyonyasaṃsarge kaṣāyasvādutiktakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "145",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaphena",
+      "words": [
+       {
+        "w": "kaphena",
+        "gloss": "with Kapha",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśi",
+      "words": [
+       {
+        "w": "viṣi",
+        "gloss": "in stool",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitte",
+      "words": [
+       {
+        "w": "pitte",
+        "gloss": "in pitta",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṭpittaśoṇitaiḥ",
+      "words": [
+       {
+        "w": "viṭ-pitta-śoṇitaiḥ",
+        "gloss": "stool; pitta; blood",
+        "gram": "dvandva, n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ से, मल में अथवा पित्त में; कफ में मल, पित्त और रक्त के साथ,",
+  "english": "With Kapha, in stool or in Pitta; in Kapha, with stool, Pitta and blood,",
+  "text_flags": [
+   {
+    "src": "viśi",
+    "suggest": "viṣi",
+    "why": "possible: same print form and reading as in 140"
+   }
+  ],
+  "notes": "GROUPING: 145 and 146 appear to form one statement (predicate in 146). 'viśi' is read as viṣi (see 140); flagged again for this occurrence.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.145"
+  ],
+  "lines_deva": [
+   "कफेन विशि पित्ते वा कफे विट्पित्तशोणितैः"
+  ],
+  "lines_iast": [
+   "kaphena viśi pitte vā kaphe viṭpittaśoṇitaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "146",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kadutiktakaṣāyaḥ",
+      "words": [
+       {
+        "w": "kaṭu-tikta-kaṣāyaḥ",
+        "gloss": "pungent; bitter; astringent",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syātsaṃsṛṣṭe",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √as"
+       },
+       {
+        "w": "saṃsṛṣṭe",
+        "gloss": "in the mixed (case)",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiruttamaḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uttamaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "संसृष्ट में कटु, तिक्त और कसैली बस्ति उत्तम होगी।",
+  "english": "In the mixed (case), a basti pungent, bitter and astringent would be best.",
+  "text_flags": [
+   {
+    "src": "kadutiktakaṣāyaḥ",
+    "suggest": "kaṭutiktakaṣāyaḥ",
+    "why": "probable: 'kadu' is not a word; kaṭu fits the sense and the series of tastes in 133, 138"
+   }
+  ],
+  "notes": "GROUPING: appears to complete 145. Print 'kadutikta...' read as kaṭutikta (the Devanagari has da for ṭa).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.146"
+  ],
+  "lines_deva": [
+   "कदुतिक्तकषायः स्यात्संसृष्टे बस्तिरुत्तमः"
+  ],
+  "lines_iast": [
+   "kadutiktakaṣāyaḥ syātsaṃsṛṣṭe bastiruttamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "147",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "syādbastiḥ",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √as"
+       },
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭutiktāmlaḥ",
+      "words": [
+       {
+        "w": "kaṭu-tikta-amlaḥ",
+        "gloss": "pungent; bitter; sour",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛṣṭe",
+      "words": [
+       {
+        "w": "saṃsṛṣṭe",
+        "gloss": "mixed",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyunā",
+      "words": [
+       {
+        "w": "vāyunā",
+        "gloss": "with wind",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphe",
+      "words": [
+       {
+        "w": "kaphe",
+        "gloss": "in Kapha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु से संसृष्ट कफ में कटु, तिक्त और अम्ल बस्ति हो।",
+  "english": "In Kapha mixed with wind, there should be a basti pungent, bitter and sour.",
+  "text_flags": [],
+  "notes": "'saṃsṛṣṭe' agrees with 'kaphe', with 'vāyunā' as the thing it is mixed with.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.147"
+  ],
+  "lines_deva": [
+   "स्याद्बस्तिः कटुतिक्ताम्लः संसृष्टे वायुना कफे"
+  ],
+  "lines_iast": [
+   "syādbastiḥ kaṭutiktāmlaḥ saṃsṛṣṭe vāyunā kaphe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "148",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhuroṣaṇatiktastu",
+      "words": [
+       {
+        "w": "madhura-uṣaṇa-tiktaḥ",
+        "gloss": "sweet; uṣaṇa (pungent, pepper-like); bitter",
+        "gram": "dvandva, nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakte",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "in blood",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphavimūrcchite",
+      "words": [
+       {
+        "w": "kapha-vimūrcchite",
+        "gloss": "Kapha; mingled",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त में, जो कफ से मिला हो, मधुर, उषण यानी तीखा और तिक्त।",
+  "english": "But in blood mingled with Kapha: sweet, uṣaṇa (pungent) and bitter.",
+  "text_flags": [],
+  "notes": "Elliptical: 'basti' of the series is carried over, none supplied. 'uṣaṇa' is read as the pungent taste (also pepper); if it is a misprint for uṣṇa the sense would be 'hot'. Not applied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.148"
+  ],
+  "lines_deva": [
+   "मधुरोषणतिक्तस्तु रक्ते कफविमूर्च्छिते"
+  ],
+  "lines_iast": [
+   "madhuroṣaṇatiktastu rakte kaphavimūrcchite"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "149",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mārute",
+      "words": [
+       {
+        "w": "mārute",
+        "gloss": "in wind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaphasaṃsṛṣṭe",
+      "words": [
+       {
+        "w": "kapha-saṃsṛṣṭe",
+        "gloss": "Kapha; mixed",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭvamlalavaṇo",
+      "words": [
+       {
+        "w": "kaṭu-amla-lavaṇaḥ",
+        "gloss": "pungent; sour; salty",
+        "gram": "dvandva, nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "it should be",
+        "gram": "opt. 3 sg. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ से संसृष्ट वायु में कटु, अम्ल और लवण हो।",
+  "english": "In wind mixed with Kapha, it should be pungent, sour and salty.",
+  "text_flags": [],
+  "notes": "The subject (basti) is not stated; 'it' is used. Compare 147, where Kapha is mixed with wind.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.149"
+  ],
+  "lines_deva": [
+   "मारुते कफसंसृष्टे कट्वम्ललवणो भवेत्"
+  ],
+  "lines_iast": [
+   "mārute kaphasaṃsṛṣṭe kaṭvamlalavaṇo bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "150",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tricatuḥpaṃcaṣaḍyogenāvemeva",
+      "words": [
+       {
+        "w": "tri-catuḥ-pañca-ṣaṭ-yogena",
+        "gloss": "three; four; five; six; by combining",
+        "gram": "tat-puruṣa (dvandva of numbers + yoga), m. inst. sg."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikalpayet",
+      "words": [
+       {
+        "w": "vikalpayet",
+        "gloss": "one should vary",
+        "gram": "opt. 3 sg. caus. vi-√kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन, चार, पाँच और छह के योग से इसी प्रकार विकल्प करे।",
+  "english": "By combining three, four, five and six, one should vary (it) in just this way.",
+  "text_flags": [
+   {
+    "src": "tricatuḥpaṃcaṣaḍyogenāvemeva",
+    "suggest": "tricatuḥpaṃcaṣaḍyogenaivameva",
+    "why": "possible: 'āvem' is not a word; yogena + evam + eva gives 16 syllables and a sense"
+   }
+  ],
+  "notes": "Printed 'yogenāvemeva' is read as yogena + evam + eva (naivameva garbled in the scan). The object of vikalpayet and the things combined are not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.150"
+  ],
+  "lines_deva": [
+   "त्रिचतुःपंचषड्योगेनावेमेव विकल्पयेत्"
+  ],
+  "lines_iast": [
+   "tricatuḥpaṃcaṣaḍyogenāvemeva vikalpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "151",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yuktiścaiṣā'tisāroktā",
+      "words": [
+       {
+        "w": "yuktiḥ",
+        "gloss": "method",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "atisāra-uktā",
+        "gloss": "atisāra (diarrhoea); stated",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvarogeṣvapi",
+      "words": [
+       {
+        "w": "sarva-rogeṣu",
+        "gloss": "all; diseases",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smṛtā",
+      "words": [
+       {
+        "w": "smṛtā",
+        "gloss": "is held",
+        "gram": "f. nom. sg. p.p.p. √smṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यह युक्ति, जो अतिसार यानी दस्त के लिए कही गई है, सब रोगों में भी मानी गई है।",
+  "english": "And this method (yukti), stated for atisāra (diarrhoea), is held also in all diseases.",
+  "text_flags": [],
+  "notes": "Atisāra = diarrhoea (standard). 'atisāroktā' = atisāra-uktā, 'stated for/in atisāra'. 'smṛtā' = remembered, held (traditionally taught).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.151"
+  ],
+  "lines_deva": [
+   "युक्तिश्चैषाऽतिसारोक्ता सर्वरोगेष्वपि स्मृता"
+  ],
+  "lines_iast": [
+   "yuktiścaiṣā'tisāroktā sarvarogeṣvapi smṛtā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "152",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yugapatsadrusaṃ",
+      "words": [
+       {
+        "w": "yugapat",
+        "gloss": "at once",
+        "gram": "ind."
+       },
+       {
+        "w": "sadrusam",
+        "gloss": "unclear (printed sadrusam)",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇṇāṃ",
+      "words": [
+       {
+        "w": "ṣaṇṇām",
+        "gloss": "of six",
+        "gram": "num. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃsarge",
+      "words": [
+       {
+        "w": "saṃsarge",
+        "gloss": "in combination",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pācanaṃ",
+      "words": [
+       {
+        "w": "pācanam",
+        "gloss": "digestive (pācana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक साथ, अस्पष्ट शब्द के अनुमानित पाठ पर, छह के संयोग में पाचन हो।",
+  "english": "At once, on a conjectural reading of the unclear word 'sadrusam', in the combination of six, there should be a pācana (digestive).",
+  "text_flags": [
+   {
+    "src": "yugapatsadrusaṃ",
+    "suggest": "yugapatṣaḍrasaṃ",
+    "why": "possible: 'sadrusam' is not a word; ṣaḍ-rasam fits 153, metre is 16 either way"
+   }
+  ],
+  "notes": "'sadrusam' is not a known word and is left unsplit and unread. It may be ṣaḍ-rasam (six tastes), as in 153 ṣaḍrasika, but that is only a guess and is not applied. Sense of the unit therefore uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.06.152"
+  ],
+  "lines_deva": [
+   "युगपत्सद्रुसं षण्णां संसर्गे पाचनं भवेत्"
+  ],
+  "lines_iast": [
+   "yugapatsadrusaṃ ṣaṇṇāṃ saṃsarge pācanaṃ bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "153",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirāmārṇāṃ",
+      "words": [
+       {
+        "w": "nirāmāṇām",
+        "gloss": "free of āma",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcānāṃ",
+      "words": [
+       {
+        "w": "pañcānām",
+        "gloss": "of five",
+        "gram": "num. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (enema)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍrasiko",
+      "words": [
+       {
+        "w": "ṣaḍ-rasikaḥ",
+        "gloss": "six; taste; having",
+        "gram": "taddhita (ṣaḍ-rasa + -ika), m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hitaḥ",
+      "words": [
+       {
+        "w": "hitaḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आम से रहित पाँचों के लिए छह रसों वाली बस्ति हितकर है।",
+  "english": "But of the five (ones) free of āma, a basti having six tastes is beneficial.",
+  "text_flags": [
+   {
+    "src": "nirāmārṇāṃ",
+    "suggest": "nirāmāṇāṃ",
+    "why": "probable: stray r; nirāmāṇām (of those free of āma) is regular and keeps 16 syllables"
+   }
+  ],
+  "notes": "Printed 'nirāmārṇām' has a stray r; nirāmāṇām is the regular genitive plural (ṇ after r is not blocked by m). The five are not named. 'ṣaḍrasika' = having six rasas (tastes).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.153"
+  ],
+  "lines_deva": [
+   "निरामार्णां तु पंचानां बस्तिः षड्रसिको हितः"
+  ],
+  "lines_iast": [
+   "nirāmārṇāṃ tu paṃcānāṃ bastiḥ ṣaḍrasiko hitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "154",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uduṃbaraśalāṭūni",
+      "words": [
+       {
+        "w": "udumbara-śalāṭūni",
+        "gloss": "udumbara (cluster fig, Ficus racemosa; standard); unripe fruits",
+        "gram": "tat-puruṣa, n. nom./acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jaṃbyāmroduṃbaratvacaḥ",
+      "words": [
+       {
+        "w": "jambū-āmra-udumbara-tvacaḥ",
+        "gloss": "jambū (jamun, Syzygium cumini; probable, reading uncertain); mango (Mangifera indica; standard); udumbara; barks",
+        "gram": "dvandva/tat-puruṣa, f. nom./acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उदुम्बर यानी गूलर के शलाटु यानी कच्चे फल, जम्बू यानी सम्भवतः जामुन, आम्र यानी आम और उदुम्बर यानी गूलर की छालें।",
+  "english": "Unripe fruits (śalāṭu) of udumbara (cluster fig), the barks of jambū (probably jamun), āmra (mango) and udumbara.",
+  "text_flags": [
+   {
+    "src": "jaṃbyāmroduṃbaratvacaḥ",
+    "suggest": "jaṃbvāmroduṃbaratvacaḥ",
+    "why": "possible: jambu + āmra gives jaṃbvām; the printed 'byā' may be a misprint; metre is unchanged"
+   }
+  ],
+  "notes": "GROUPING: 154 and 155 appear to be one list; 156 gives the preparation (piṣṭvā ... pacet). Printed 'jaṃbyāmra' (jambī/jambya + āmra) is read as jambū or jambu + āmra; possibly a misprint for jaṃbvāmra. 'śalāṭu' = unripe fruit (standard). The bark list is read as the barks of the three trees. Hindi names: गूलर, जामुन, आम.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.154"
+  ],
+  "lines_deva": [
+   "उदुंबरशलाटूनि जंब्याम्रोदुंबरत्वचः"
+  ],
+  "lines_iast": [
+   "uduṃbaraśalāṭūni jaṃbyāmroduṃbaratvacaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "155",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaṃkhaṃ",
+      "words": [
+       {
+        "w": "śaṅkham",
+        "gloss": "conch shell (śaṅkha; standard)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarjarasaṃ",
+      "words": [
+       {
+        "w": "sarja-rasam",
+        "gloss": "sarja (sal tree, Shorea robusta); resin (sarjarasa; standard)",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lākṣāṃ",
+      "words": [
+       {
+        "w": "lākṣām",
+        "gloss": "lac (lākṣā, Kerria lacca resin; standard)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kattṛṇaṃ",
+      "words": [
+       {
+        "w": "kattṛṇam",
+        "gloss": "kattṛṇa (a fragrant grass; unidentified)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "palāṃśikaṃ",
+      "words": [
+       {
+        "w": "pala-aṃśikam",
+        "gloss": "pala; share, portion",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शंख, सर्जरस यानी साल का राल, लाख और कत्तृण यानी एक घास, जिसकी पहचान अज्ञात है, और पल यानी तौल की इकाई के अंश वाला।",
+  "english": "Conch shell (śaṅkha), sarjarasa (resin of the sal tree), lac (lākṣā) and kattṛṇa (a grass, unidentified), and with a pala as the portion.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 154. 'palāṃśikam' is singular; whether it applies to all items (each one pala) is not stated, so the literal 'with a pala as the portion' is kept. Pala is a unit of weight. kattṛṇa unidentified here (earlier chunk: a grass, identity uncertain).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.155"
+  ],
+  "lines_deva": [
+   "शंखं सर्जरसं लाक्षां कत्तृणं च पलांशिकं"
+  ],
+  "lines_iast": [
+   "śaṃkhaṃ sarjarasaṃ lākṣāṃ kattṛṇaṃ ca palāṃśikaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "156",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "piṣṭvā",
+      "words": [
+       {
+        "w": "piṣṭvā",
+        "gloss": "having ground",
+        "gram": "abs. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "taiḥ",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "with these",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarpiṣaḥ",
+      "words": [
+       {
+        "w": "sarpiṣaḥ",
+        "gloss": "of ghee",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasthaṃ",
+      "words": [
+       {
+        "w": "prastham",
+        "gloss": "a prastha (a measure)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīradviguṇitaṃ",
+      "words": [
+       {
+        "w": "kṣīra-dviguṇitam",
+        "gloss": "milk; doubled",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pacet",
+      "words": [
+       {
+        "w": "pacet",
+        "gloss": "one should cook",
+        "gram": "opt. 3 sg. √pac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीसकर उनके साथ एक प्रस्थ घी को, दूध से दुगुना किया हुआ, पकाए।",
+  "english": "Having ground (them), one should cook with these a prastha (a measure) of ghee, doubled with milk.",
+  "text_flags": [],
+  "notes": "Appears to complete 154-155. 'kṣīradviguṇitam' = made twofold by milk (the amount of milk is thus twice the ghee on one reading); the text does not state the ratio, so the literal wording is kept. The grammar of the 'doubled' word (agreeing with prastha) is the plain reading.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.156"
+  ],
+  "lines_deva": [
+   "पिष्ट्वा तैः सर्पिषः प्रस्थं क्षीरद्विगुणितं पचेत्"
+  ],
+  "lines_iast": [
+   "piṣṭvā taiḥ sarpiṣaḥ prasthaṃ kṣīradviguṇitaṃ pacet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "157",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atisāreṣu",
+      "words": [
+       {
+        "w": "atisāreṣu",
+        "gloss": "in diarrhoeas",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarveṣu",
+      "words": [
+       {
+        "w": "sarveṣu",
+        "gloss": "in all",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "peyametadyathābalaṃ",
+      "words": [
+       {
+        "w": "peyam",
+        "gloss": "to be drunk",
+        "gram": "gerundive n. nom. sg. √pā"
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā-balam",
+        "gloss": "according to strength",
+        "gram": "adv."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब अतिसारों में यह बल के अनुसार पीना चाहिए।",
+  "english": "In all atisāras (diarrhoeas), this is to be drunk according to strength.",
+  "text_flags": [],
+  "notes": "'this' refers to the ghee of 154-156. 'yathābalam' = according to the strength (of the patient is the natural sense, but the text does not say whose).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.157"
+  ],
+  "lines_deva": [
+   "अतिसारेषु सर्वेषु पेयमेतद्यथाबलं"
+  ],
+  "lines_iast": [
+   "atisāreṣu sarveṣu peyametadyathābalaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "158",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kacchurādhātakībilvasamaṃgāraktamūlibhiḥ",
+      "words": [
+       {
+        "w": "kacchurā",
+        "gloss": "kacchurā (identity disputed)",
+        "gram": "f."
+       },
+       {
+        "w": "dhātakī",
+        "gloss": "dhātakī (woodfordia, Woodfordia fruticosa; standard)",
+        "gram": "f."
+       },
+       {
+        "w": "bilva",
+        "gloss": "bilva (bael, Aegle marmelos; standard)",
+        "gram": "n."
+       },
+       {
+        "w": "samaṅgā",
+        "gloss": "samaṅgā (disputed; Mimosa pudica is often given)",
+        "gram": "f."
+       },
+       {
+        "w": "rakta-mūlibhiḥ",
+        "gloss": "red; rooted (raktamūlin; unidentified)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कच्छुरा, धातकी यानी धाय, बिल्व यानी बेल, समंगा यानी सम्भवतः लाजवन्ती और रक्तमूली से,",
+  "english": "With kacchurā, dhātakī (woodfordia), bilva (bael), samaṅgā (probably touch-me-not; disputed) and raktamūlin,",
+  "text_flags": [],
+  "notes": "GROUPING: 158 and 159 appear to form one statement (yavāgū, 159). Identifications: kacchurā disputed (no botanical name given); dhātakī standard; bilva standard; samaṅgā disputed (Mimosa pudica often given); raktamūlin unidentified (read as 'red-rooted'). The last member is an instrumental plural, the others are compound members.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.158"
+  ],
+  "lines_deva": [
+   "कच्छुराधातकीबिल्वसमंगारक्तमूलिभिः"
+  ],
+  "lines_iast": [
+   "kacchurādhātakībilvasamaṃgāraktamūlibhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "159",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "masūraśvatthaśṛṃgaiśca",
+      "words": [
+       {
+        "w": "masūra",
+        "gloss": "masūra (lentil, Lens culinaris; standard)",
+        "gram": "m."
+       },
+       {
+        "w": "aśvattha-śṛṅgaiḥ",
+        "gloss": "aśvattha (sacred fig, Ficus religiosa; standard); tips, shoots",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yavāgūḥ",
+      "words": [
+       {
+        "w": "yavāgūḥ",
+        "gloss": "yavāgū (gruel)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syājjale",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "there should be",
+        "gram": "opt. 3 sg. √as"
+       },
+       {
+        "w": "jale",
+        "gloss": "in water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śṛtaiḥ",
+      "words": [
+       {
+        "w": "śṛtaiḥ",
+        "gloss": "boiled",
+        "gram": "m. inst. pl. p.p.p. √śrā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मसूर तथा अश्वत्थ यानी पीपल के शृंग यानी अग्रभागों से, जल में उबालने पर, यवागू यानी लपसी हो।",
+  "english": "And with masūra (lentil) and aśvattha (sacred fig) tips, boiled in water, there should be a yavāgū (gruel).",
+  "text_flags": [],
+  "notes": "Appears to complete 158. 'masūraśvatthaśṛṅgaiḥ' is read as masūra + aśvattha-śṛṅga (shoots of the aśvattha); a reading of three separate items (masūra, aśvattha, śṛṅga) is also possible. Which of the things listed in 158-159 are boiled is not stated precisely.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.159"
+  ],
+  "lines_deva": [
+   "मसूरश्वत्थशृंगैश्च यवागूः स्याज्जले शृतैः"
+  ],
+  "lines_iast": [
+   "masūraśvatthaśṛṃgaiśca yavāgūḥ syājjale śṛtaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "160",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bāloduṃbarakaṭvaṃgasamaṃgāplakṣapallavaiḥ",
+      "words": [
+       {
+        "w": "bāla-udumbara-kaṭvaṅga-samaṅgā-plakṣa-pallavaiḥ",
+        "gloss": "young; udumbara (cluster fig); kaṭvaṅga (disputed; Oroxylum indicum often given); samaṅgā (see 158); plakṣa (probably Ficus virens, pilkhan; probable); sprouts",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कोमल गूलर, कट्वंग यानी सम्भवतः सोनापाठा, समंगा और प्लक्ष यानी सम्भवतः पाकड़ की कोंपलों से,",
+  "english": "With the sprouts (pallava) of young udumbara, kaṭvaṅga (probably Oroxylum indicum; disputed), samaṅgā and plakṣa (probably a fig, pilkhan),",
+  "text_flags": [],
+  "notes": "GROUPING: 160 and 161 appear to form one statement (predicate 'tathā bhavet' in 161, i.e. likewise a yavāgū). Whether 'bāla' (young) governs only udumbara or all members is not clear; the plain reading is the first. Identifications: kaṭvaṅga disputed (Oroxylum indicum often given; some give Ailanthus); plakṣa probable (Ficus virens).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.160"
+  ],
+  "lines_deva": [
+   "बालोदुंबरकट्वंगसमंगाप्लक्षपल्लवैः"
+  ],
+  "lines_iast": [
+   "bāloduṃbarakaṭvaṃgasamaṃgāplakṣapallavaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "161",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "masūradhātakīpuṣpabalābhiśca",
+      "words": [
+       {
+        "w": "masūra-dhātakī-puṣpa-balābhiḥ",
+        "gloss": "masūra (lentil); dhātakī (woodfordia); flowers; balā (country mallow, Sida cordifolia; standard)",
+        "gram": "tat-puruṣa, f. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavet",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "it should be",
+        "gram": "opt. 3 sg. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मसूर, धातकी यानी धाय के फूल और बला यानी खरैटी से भी उसी प्रकार हो।",
+  "english": "And with masūra, dhātakī flowers and balā (country mallow), it should be likewise.",
+  "text_flags": [],
+  "notes": "Appears to complete 160; 'it' is the yavāgū of 159 (not named in this unit). The compound 'masūradhātakīpuṣpabalābhiḥ' is read as masūra + dhātakī-puṣpa + balā; 'dhātakī flowers' is the plain reading, with 'masūra' a separate member.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.161"
+  ],
+  "lines_deva": [
+   "मसूरधातकीपुष्पबलाभिश्च तथा भवेत्"
+  ],
+  "lines_iast": [
+   "masūradhātakīpuṣpabalābhiśca tathā bhavet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "162",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nānāprakārā",
+      "words": [
+       {
+        "w": "nānā-prakārāḥ",
+        "gloss": "various; kinds",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāyaṃte",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. √jan"
+       }
+      ]
+     },
+     {
+      "src": "vyāpado",
+      "words": [
+       {
+        "w": "vyāpadaḥ",
+        "gloss": "mishaps",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bastivibhramāt",
+      "words": [
+       {
+        "w": "basti-vibhramāt",
+        "gloss": "basti; error, disorder",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्ति के विभ्रम यानी भूल से अनेक प्रकार की व्यापदें यानी दुर्घटनाएँ उत्पन्न होती हैं।",
+  "english": "Mishaps (vyāpad) of various kinds arise from an error (vibhrama) in the basti.",
+  "text_flags": [],
+  "notes": "'vibhrama' = error, deviation, confusion; kept as 'error'. 'nānāprakārā jāyante' is regular sandhi (āḥ before j). Here the chapter turns back to the mishaps of basti named in its title.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.162"
+  ],
+  "lines_deva": [
+   "नानाप्रकारा जायंते व्यापदो बस्तिविभ्रमात्"
+  ],
+  "lines_iast": [
+   "nānāprakārā jāyaṃte vyāpado bastivibhramāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "163",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathāpathaṃ",
+      "words": [
+       {
+        "w": "yathā-patham",
+        "gloss": "according to the path",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "yathāvasthaṃ",
+      "words": [
+       {
+        "w": "yathā-avastham",
+        "gloss": "according to the condition",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of those",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kurvīta",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "one should do",
+        "gram": "opt. 3 sg. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sādhanaṃ",
+      "words": [
+       {
+        "w": "sādhanam",
+        "gloss": "treatment, accomplishment",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मार्ग के अनुसार, अवस्था के अनुसार, उनका साधन यानी उपचार करे।",
+  "english": "According to the path, according to the condition, one should carry out the treatment (sādhana) of those.",
+  "text_flags": [],
+  "notes": "'yathāpatham' is obscure: 'path' could mean the course or route of the mishap; a misreading for 'yathāpathyam' (as is suitable) is conceivable but not applied. 'sādhana' = accomplishing, treating; kept with a gloss.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.06.163"
+  ],
+  "lines_deva": [
+   "यथापथं यथावस्थं तासां कुर्वीत साधनं"
+  ],
+  "lines_iast": [
+   "yathāpathaṃ yathāvasthaṃ tāsāṃ kurvīta sādhanaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "164",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bastivyāpatsiddhirnāmaṣaṣṭho'dhyāyaḥ",
+      "words": [
+       {
+        "w": "basti-vyāpat-siddhiḥ",
+        "gloss": "basti; mishap; siddhi",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṣṭhaḥ",
+        "gloss": "sixth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार बस्तिव्यापत्सिद्धि नामक छठा अध्याय।",
+  "english": "Thus the sixth chapter, named Bastivyāpatsiddhi.",
+  "text_flags": [],
+  "notes": "Chapter colophon (Kalpasthāna chapter 6). The closing 'iti' is the usual end-mark. Title as in unit 1: basti-vyāpat-siddhi, 'accomplishment (success) concerning the mishaps of basti'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.06.164"
+  ],
+  "lines_deva": [
+   "इति बस्तिव्यापत्सिद्धिर्नामषष्ठोऽध्यायः"
+  ],
+  "lines_iast": [
+   "iti bastivyāpatsiddhirnāmaṣaṣṭho'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]
