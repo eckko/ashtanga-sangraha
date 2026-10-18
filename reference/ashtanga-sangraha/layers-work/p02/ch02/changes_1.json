@@ -1,0 +1,279 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "When the old rajas (menstrual blood) has gone, the new one is established, and the receptacle of the embryo (the womb, garbhāśaya) and the passage are clean, the śukra (semen), in the form of seed, unaltered, impelled by unaltered wind (vāyu), followed by the other great elements (mahābhūta), mingled with ārtava (menstrual fluid), probably at once, and joined with the jīva (the living soul) that follows the sway of the afflictions beginning with passion, is impelled by its own action (karma) and is swift as the mind, goes to the womb.",
+  "new": "When the old rajas (menstrual blood) has gone, the new one is established, and the receptacle of the embryo (the womb, garbhāśaya) and the passage are clean, the śukra (semen), in the form of seed, unaltered, impelled by unaltered wind (vāyu), followed by the other great elements (mahābhūta), mingled with ārtava (menstrual fluid), probably at once, and joined with the jīva (the living soul) - which follows the sway of the afflictions beginning with passion, is impelled by its own action (karma) and is swift as the mind - goes to the womb.",
+  "why": "reviewer (error): Ungrammatical English: 'joined with the jīva ... is impelled ... and is swift ..., goes to the womb' (two finite 'is' with a stray 'goes'); the Sanskrit qualifiers svakarma-codita and manojava belong to jīva, the only finite verb is upayāti."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "And from that very cause: a male from the abundance of śukra (semen), a female from the abundance of ārtava (menstrual fluid), a napuṃsaka (neither male nor female) from the equality of the two.",
+  "new": "And for that very reason: a male from the abundance of śukra (semen), a female from the abundance of ārtava (menstrual fluid), a napuṃsaka (neither male nor female) from the equality of the two.",
+  "why": "reviewer (minor): 'cause' is not in tataḥ eva (tataḥ = from that / therefore)."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "śukra-ārtave",
+  "old": "dvandva, n. loc. du.",
+  "new": "dvandva (samāhāra), n. loc. sg.",
+  "why": "reviewer (error): Ending -e of a neuter a-stem is not locative dual (that is -ayoḥ); with bhinne and the locative absolute it is locative singular (dvandva in samāhāra, neuter singular)."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "bhinne",
+  "old": "ppp. √bhid, n. loc. du.",
+  "new": "ppp. √bhid, n. loc. sg.",
+  "why": "reviewer (error): Same: n. loc. sg., not dual."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "When vitiated: of those having the forms of other wombs.",
+  "new": "When vitiated: of the forms of other wombs.",
+  "why": "reviewer (minor): viyonyākṛtīnām is genitive plural of ākṛti (f.), glossed 'of forms'; 'those having' (bahuvrīhi, persons) is an addition."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "विकृत होने पर अन्य योनि के आकार वालों की।",
+  "new": "विकृत होने पर अन्य योनि के आकारों की।",
+  "why": "reviewer (minor): Same addition (वालों)."
+ },
+ {
+  "n": "8",
+  "field": "text_flags.1.src",
+  "old": "hṛllābhaḥ",
+  "new": "hṛllābhastaṃdrā'ṃgasādaḥpraseko",
+  "why": "reviewer (minor): Flag src 'hṛllābhaḥ' is not a printed token or substring (print: hṛllābhastaṃdrā'ṃgasādaḥpraseko)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "new": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "why": "reviewer (error): English marks 'balancing of eye and hair (sense unclear)' but the Hindi gives no 'unclear' mark (glossary: Hindi mark must match English)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "But gradually, in a woman whose pregnancy has become manifest: heaviness of the belly (kukṣi) alone, weakness of eye and voice, balancing (saṃtulana) of eye and hair (sense unclear), sleep, yawning, fainting, vomiting (chardi), distaste for food, swelling of the feet, and craving for the sour, in those various states.",
+  "new": "But gradually, in a woman whose pregnancy has become manifest: heaviness of the belly (kukṣi) alone, on a conjectural reading, weakness of eye and voice, balancing (saṃtulana) of eye and hair (sense unclear), sleep, yawning, fainting, vomiting (chardi), distaste for food, swelling of the feet, and craving for the sour, in those various states.",
+  "why": "reviewer (minor): The adopted correction (kukṣimātragauravam for printed kukṣimātraugauravam) is built into the translation 'heaviness of the belly alone' without the conjectural mark the glossary requires."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "new": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, अनुमानित पाठ पर कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "why": "reviewer (minor): Same, Hindi."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "फिर क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, अनुमानित पाठ पर कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "new": "किन्तु क्रम से, जिसका गर्भ प्रकट हो चुका है उसमें, अनुमानित पाठ पर कुक्षि का ही भारीपन, आँखों और स्वर की क्षीणता, आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,, निद्रा, जम्हाई, मूर्च्छा, उलटी, अरुचि, पैरों की सूजन और खट्टे में अभिलाषा, और उन विविध भावों में।",
+  "why": "reviewer (minor): 'tu' is 'but/and', not 'then'; 'फिर' adds sequence (English has 'But gradually')."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Others say: jarāyu (the foetal membrane).",
+  "new": "Others say: jarāyu (probably the foetal membrane).",
+  "why": "reviewer (error): Hindi hedges 'सम्भवतः', English states it flat although gloss and notes say probable (hedge required in both languages)."
+ },
+ {
+  "n": "16",
+  "field": "text_flags.0.suggest",
+  "old": "kaphopaśarañjitaṃ or kaphoparañjitaṃ",
+  "new": "kaphoparañjitaṃ",
+  "why": "reviewer (minor): 'kaphopaśarañjitaṃ' is an invented form (no upaśa-); only kaphoparañjitaṃ is a real word."
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "pum",
+  "old": "m.",
+  "new": "dvandva member (pum-strī-napuṃsakāni)",
+  "why": "reviewer (minor): puṃstrīnapuṃsakāni is a single dvandva (singular 'pum', 'strī' with plural neuter napuṃsakāni cannot be separate words); the draft splits it into three independent words with 'pum m.', 'strī f.' as if separate. The tool cannot merge words, so only the labels are patched. (u25 treats the same compound as one.)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "strī",
+  "old": "f.",
+  "new": "dvandva member (pum-strī-napuṃsakāni)",
+  "why": "reviewer (minor): puṃstrīnapuṃsakāni is a single dvandva (singular 'pum', 'strī' with plural neuter napuṃsakāni cannot be separate words); the draft splits it into three independent words with 'pum m.', 'strī f.' as if separate. The tool cannot merge words, so only the labels are patched. (u25 treats the same compound as one.)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "napuṃsakāni",
+  "old": "n. nom. pl.",
+  "new": "dvandva (pum-strī-napuṃsakāni), n. nom. pl.",
+  "why": "reviewer (minor): puṃstrīnapuṃsakāni is a single dvandva (singular 'pum', 'strī' with plural neuter napuṃsakāni cannot be separate words); the draft splits it into three independent words with 'pum m.', 'strī f.' as if separate. The tool cannot merge words, so only the labels are patched. (u25 treats the same compound as one.)"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "दोनों सक्थि यानी जंघाएँ, दोनों बाहु और सिर।",
+  "new": "दोनों सक्थि यानी जाँघें, दोनों बाहु और सिर।",
+  "why": "reviewer (minor): Hindi जंघा can read as Sanskrit jaṅghā (shank); sakthi is the thigh (English says thighs). Hindi u22 says 'पैरों' for the same word, inconsistent with u21 and the English."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "और पैरों आदि के अंकुरित होने के समय ही सब अंग, अवयव और इन्द्रियाँ एक साथ उत्पन्न होते हैं, केवल जन्म के बाद के समय में उत्पन्न होने वाले दाँत आदि को छोड़कर; किन्तु क्रम से वे स्पष्ट हो जाते हैं।",
+  "new": "और जाँघों आदि के अंकुरित होने के समय ही सब अंग, अवयव और इन्द्रियाँ एक साथ उत्पन्न होते हैं, केवल जन्म के बाद के समय में उत्पन्न होने वाले दाँत आदि को छोड़कर; किन्तु क्रम से वे स्पष्ट हो जाते हैं।",
+  "why": "reviewer (minor): Sakthi = thighs (English: 'the thighs and the rest'); 'पैरों' is a different word."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "और जाँघों आदि के अंकुरित होने के समय ही सब अंग, अवयव और इन्द्रियाँ एक साथ उत्पन्न होते हैं, केवल जन्म के बाद के समय में उत्पन्न होने वाले दाँत आदि को छोड़कर; किन्तु क्रम से वे स्पष्ट हो जाते हैं।",
+  "new": "और जाँघों आदि के अंकुरित होने के समय ही सब अंग, अवयव और इन्द्रियाँ एक साथ उत्पन्न होते हैं, जन्म के बाद के समय में उत्पन्न होने वाले दाँत आदि को छोड़कर; किन्तु क्रम से वे स्पष्ट हो जाते हैं।",
+  "why": "reviewer (minor): 'केवल' (only) is not in the Sanskrit (anyatra = except)."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "janma-uttara-kāla-jebhyaḥ",
+  "old": "tat-puruṣa, n. abl. pl.",
+  "new": "tat-puruṣa, m. abl. pl.",
+  "why": "reviewer (minor): Adjective agreeing with dantādibhyaḥ (m.), not n."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "sarva-aṅga-avayava-indriyāṇi",
+  "old": "dvandva/tat-puruṣa, n. nom. pl.",
+  "new": "dvandva of aṅga, avayava, indriya (sarva qualifies all), n. nom. pl.",
+  "why": "reviewer (minor): gram says 'dvandva/tat-puruṣa' while the notes say a series of three terms, not a closed compound."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "यह प्रकृति है।",
+  "new": "यह प्रकृति यानी स्वाभाविक अवस्था है।",
+  "why": "reviewer (minor): Doctrinal term without a plain gloss in Hindi (English has one)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "इससे अन्यथा विकृति है।",
+  "new": "इससे अन्यथा विकृति यानी असामान्य अवस्था है।",
+  "why": "reviewer (minor): Same: no gloss in Hindi."
+ },
+ {
+  "n": "25",
+  "field": "text_flags.0.suggest",
+  "old": "puṃstrīnapuṃsakānyatamaliṅgānurūpāḥ",
+  "new": "puṃstrīnapuṃsakānyatamaliṅgānurūpā",
+  "why": "reviewer (minor): The 'why' says the visarga after anurūpā is missing before eva; but printed 'anurūpā eva' is correct sandhi for anurūpāḥ eva, so nothing is wrong there. The suggestion should be the printed form with only anyatarma -> anyatama."
+ },
+ {
+  "n": "25",
+  "field": "text_flags.0.why",
+  "old": "possible: 'anyatarma' appears to be anyatama (any one of several) with ra/ma confusion; the visarga after anurūpā is also missing before 'eva' (sandhi ā eva is normal)",
+  "new": "possible: 'anyatarma' appears to be anyatama ('any one of the three') with an extra r; the final -ā before eva is correct sandhi for -āḥ and is not an error",
+  "why": "reviewer (minor): The 'why' says the visarga after anurūpā is missing before eva; but printed 'anurūpā eva' is correct sandhi for anurūpāḥ eva, so nothing is wrong there. The suggestion should be the printed form with only anyatarma -> anyatama."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "But in a mixture of signs, the distinguishing (determination) is from where there is greater abundance; from that, the states are those of one or the other.",
+  "new": "On a conjectural reading: but in a mixture of signs, the distinguishing (determination) is from where there is greater abundance; from that, the states are those of one or the other.",
+  "why": "reviewer (error): The translation builds on the correction yavo -> yataḥ ('from where there is greater abundance') without the conjectural mark required by the glossary; unit is low confidence."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "किन्तु लिंगों के मिश्रण में विशेष निर्धारण वहाँ से होता है जहाँ अधिकता हो; उससे भाव दोनों में से किसी एक के होते हैं।",
+  "new": "अनुमानित पाठ पर, किन्तु लिंगों के मिश्रण में विशेष निर्धारण वहाँ से होता है जहाँ अधिकता हो; उससे भाव दोनों में से किसी एक के होते हैं।",
+  "why": "reviewer (error): Same, Hindi."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "नपुंसकता, भीरुता, आत्मविश्वास की कमी, मोह, अस्थिरता, नीचे भारीपन, कसाव की कमी, शिथिलता, मृदुता, गर्भाशय और बीज के भाव, तथा उसी प्रकार अन्य उचित भी, ये स्त्री बनाने वाले भाव हैं।",
+  "new": "क्लैब्य यानी सम्भवतः नपुंसकता, भीरुता, आत्मविश्वास की कमी, मोह, अस्थिरता, नीचे भारीपन, कसाव की कमी, शिथिलता, मृदुता, गर्भाशय और बीज के भाव, तथा उसी प्रकार अन्य उचित भी, ये स्त्री बनाने वाले भाव हैं।",
+  "why": "reviewer (minor): Hindi renders klaibya by नपुंसकता, which collides with napuṃsaka (the third category, u18/u30) and states a modern equivalent unhedged; English keeps 'Klaibya (unmanliness)'."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "viparītāḥ",
+  "old": "ppp. vi-pari-√i, m. nom. pl.",
+  "new": "ppp. vi-pari-√i, nom. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "puṃ-karāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "tat-puruṣa, nom. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "saṅkīrṇāḥ",
+  "old": "ppp. sam-√kṝ, m. nom. pl.",
+  "new": "ppp. sam-√kṝ, nom. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "napuṃsaka-karāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "tat-puruṣa, nom. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "For its heart is born of the mother, and is joined to the mother's heart by dhamanīs (vessels) that carry its rasa.",
+  "new": "For its heart is born of the mother, and is joined to the mother's heart by dhamanīs (vessels) that carry the rasa of that (tad, referent not stated).",
+  "why": "reviewer (minor): 'its' reads as the embryo's rasa; Sanskrit has 'tad' (referent unstated: mother, or her heart). The notes say 'its' is a placeholder, but it misleads in the translation."
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "'tayoḥ' is taken as 'in the two (the mother and the embryo)' and 'tābhiḥ' as the dhamanīs of 33; both are the natural reading but are not stated. śraddhā here: longing, desire (see the daurhṛda units 35-38), not 'faith'. GROUPING: appears to continue 33.",
+  "new": "'tayoḥ' is taken as 'in the two (the mother and the embryo)' and 'tābhiḥ' as the dhamanīs of 33; both are the natural reading but are not stated. śraddhā here: longing, desire (see the daurhṛda units 35-38), not 'faith'. GROUPING: appears to continue 33. Alternative: 'tayoḥ' may refer to the two hearts (the mother's and the embryo's, unit 33), which fits dvihṛdayā in unit 35; not asserted.",
+  "why": "reviewer (minor): Notes take 'the two' as mother and embryo only; given dvihṛdayā in u35 and the two hearts of u33, 'the two' may equally be the two hearts."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "और इसी प्रकार दो हृदय वाली स्त्री को दौर्हृदिनी कहते हैं।",
+  "new": "और इसी प्रकार दो हृदय वाली स्त्री को दौर्हृदिनी यानी इच्छाओं वाली कहते हैं।",
+  "why": "reviewer (minor): Technical term unglossed in Hindi (English has the gloss)."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "और इच्छा तीव्र होने पर इसे कामनानुसार, अहित भी हो तो हित के साथ मिलाकर, देना चाहिए।",
+  "new": "और इच्छा तीव्र होने पर इसे कामनानुसार अहित भी, हित से युक्त करके, देना चाहिए।",
+  "why": "reviewer (minor): Glossary bans added 'मिलाकर'; 'हो तो' is also not in the Sanskrit (ahitam api is concessive, hitopasaṃhitam = joined with the wholesome)."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "क्योंकि दौर्हृद की उपेक्षा से कुपित वायु शरीर के भीतर घूमती हुई गर्भ का नाश या विकृत रूप कर सकती है।",
+  "new": "क्योंकि दौर्हृद की उपेक्षा से कुपित वायु शरीर के भीतर घूमता हुआ गर्भ का नाश, यानी सम्भवतः गर्भपात, या विरूपता कर सकता है।",
+  "why": "reviewer (error): Hindi वायु is masculine (कुपित वायु ... घूमती हुई ... सकती है is wrong); 'विकृत रूप कर' is awkward for vairūpya (deformity); modern equivalent of vināśa (miscarriage, probable) wanted beside the Sanskrit."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "For, from disregard of the daurhṛda (longing), the wind (vāyu), agitated and moving about inside the body, may cause destruction or deformity of the embryo.",
+  "new": "For, from disregard of the daurhṛda (longing), the wind (vāyu), agitated and moving about inside the body, may cause destruction (probably miscarriage) or deformity of the embryo.",
+  "why": "reviewer (minor): Notes say vināśa is probably miscarriage but the translation gives no modern equivalent (owner policy: write it beside, hedged)."
+ }
+]
