@@ -812,8 +812,8 @@
    },
    {
     "src": "tatsaugaṃdhikāraṇyaṃ",
-    "suggest": "tat saugandhikam āraṇyam",
-    "why": "possible and not firm: saugandhika (fragrant) and āraṇya (of the forest) are real words but their relation here is unknown"
+    "suggest": "tat saugandhikākhyam",
+    "why": "possible and not firm: 'raṇya' may be a misreading of 'khya' (the same ra-insertion is seen in 'śoṇitārakhye', 91); 'tat saugandhikākhyam' would be 'that called saugandhika'"
    }
   ],
   "notes": "The second and third words of the line are doubtful in print; no firm reading is built on them. The subject of 'labhate' is not stated. 'yonidhvajagandhena' is read as smell of the yoni and the dhvaja (dvandva); 'smell of the dhvaja of the yoni' is also possible. 'dhvaja' = penis (standard euphemism). 'balam' is strength; the line does not say erection.",
@@ -901,6 +901,627 @@
   "english": "When the two, overcome by jealousy and of little delight, are joined, then the name 'īrṣyālu' (jealous one)",
   "text_flags": [],
   "notes": "Elliptical: no verb after 'saṃjñām' (e.g. 'obtains the name' is not in the text, none is supplied). GROUPING: 86 appears to continue in 87. Token 'tvīrṣyābhibhūtau' = tu + īrṣyā-abhibhūtau; 'maṃdaharṣausaṃsṛjyete' is printed as one token (manda-harṣau + saṃsṛjyete).",
+  "confidence": "medium"
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him, his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "another, other",
+        "gram": "m./n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mithunībhūtaṃ",
+      "words": [
+       {
+        "w": "mithunī-bhūtam",
+        "gloss": "coupled, in union (mithuna)",
+        "gram": "ppp. √bhū, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "maithunapravṛttirbhavati",
+      "words": [
+       {
+        "w": "maithuna-pravṛttiḥ",
+        "gloss": "sexual intercourse; urge, engagement",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "bhavati",
+        "gloss": "arises, occurs",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसकी, दूसरे को मिथुन बने हुए देखकर, मैथुन में प्रवृत्ति होती है।",
+  "english": "Of him, on seeing another who has become coupled (in union), the engagement in sexual intercourse arises.",
+  "text_flags": [],
+  "notes": "GROUPING: 87 appears to continue 86 (it describes the one named īrṣyālu), though the line does not name him. 'param' is read as 'another (person or couple)'; an adverbial 'merely' is not excluded. 'tasya' is read with pravṛttiḥ ('his').",
+  "confidence": "medium"
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of the male, of the man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhasya",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the embryo",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyvagnidoṣādvṛṣaṇanāśaḥ",
+      "words": [
+       {
+        "w": "vāyu-agni-doṣāt",
+        "gloss": "wind (vāyu); fire (agni); fault",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vṛṣaṇa-nāśaḥ",
+        "gloss": "testis (vṛṣaṇa; standard); destruction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyupiṃḍakākhyaṃ",
+      "words": [
+       {
+        "w": "vāyu-piṇḍaka-ākhyam",
+        "gloss": "vāyupiṇḍaka (name of a type); called",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब पुरुष गर्भ में वायु और अग्नि के दोष से वृषण यानी अण्डकोष का नाश होता है, तब वह वायुपिण्डक नाम वाला होता है।",
+  "english": "When, in the male embryo, there is destruction of the testes (vṛṣaṇa) through the fault of wind (vāyu) and fire (agni), then (it) becomes the one called vāyupiṇḍaka.",
+  "text_flags": [],
+  "notes": "'puruṣasya garbhasya' is read 'of the male embryo'; the line does not say 'in' but the genitive carries it. 'doṣa' here is read 'fault' (not the humour), because it is joined with agni and vāyu in a compound. vṛṣaṇa = testis (standard); the plural or dual is not marked in the compound. 'vāyupiṇḍaka' is a type name, left untranslated. Subject of 'bhavati' not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etāḥ",
+      "words": [
+       {
+        "w": "etāḥ",
+        "gloss": "these",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "karmavaicitryādaṣṭau",
+      "words": [
+       {
+        "w": "karma-vaicitryāt",
+        "gloss": "action (karma); variety",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṃḍhayonayaḥ",
+      "words": [
+       {
+        "w": "ṣaṇḍha-yonayaḥ",
+        "gloss": "ṣaṇḍha (the impotent; standard); kinds, origins (yoni)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃkīrṇāḥkathitāḥ",
+      "words": [
+       {
+        "w": "saṃkīrṇāḥ",
+        "gloss": "mixed",
+        "gram": "ppp. saṃ-√kṝ, f. nom. pl."
+       },
+       {
+        "w": "kathitāḥ",
+        "gloss": "said, declared",
+        "gram": "ppp. √kath, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कर्म की विचित्रता से ये आठ षण्ढ-योनियाँ यानी नपुंसकों की आठ प्रकार की उत्पत्तियाँ संकीर्ण यानी मिश्रित कही गई हैं।",
+  "english": "These eight kinds (yoni) of ṣaṇḍha (the impotent), because of the variety of action (karma), are said to be mixed.",
+  "text_flags": [],
+  "notes": "Printed 'ṣaṃḍha' is an orthographic form of ṣaṇḍha (recorded once, not flagged). 'saṃkīrṇāḥkathitāḥ' is printed as one token without the expected space. 'yoni' is read as 'kind/origin'. 'Mixed' (saṃkīrṇa) may also be read 'miscellaneous'. The text does not here list the eight.",
+  "confidence": "medium"
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "striyāḥ",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of the woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitagarbhāśayau",
+      "words": [
+       {
+        "w": "śoṇita-garbhāśayau",
+        "gloss": "blood (śoṇita; standard); uterus (garbhāśaya; standard)",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "doṣāḥ",
+      "words": [
+       {
+        "w": "doṣāḥ",
+        "gloss": "doṣas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kiṃcit",
+      "words": [
+       {
+        "w": "kiṃcit",
+        "gloss": "slightly, somewhat",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradūṣayaṃti",
+      "words": [
+       {
+        "w": "pradūṣayanti",
+        "gloss": "vitiate, spoil",
+        "gram": "3 pl. pres. caus. pra-√duṣ"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbho",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "arises, comes to be",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhasya",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "embryo",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whichever",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whichever",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātṛjasyāvayavasya",
+      "words": [
+       {
+        "w": "mātṛjasya-avayavasya",
+        "gloss": "mother-born; part, limb",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīje",
+      "words": [
+       {
+        "w": "bīje",
+        "gloss": "in the seed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījāṃśe",
+      "words": [
+       {
+        "w": "bīja-aṃśe",
+        "gloss": "seed; portion",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣaḥ",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "doṣa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakopamāpadyate",
+      "words": [
+       {
+        "w": "prakopam",
+        "gloss": "provocation, aggravation",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āpadyate",
+        "gloss": "reaches, falls into",
+        "gram": "3 sg. pres. ātm. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamavayavaṃ",
+      "words": [
+       {
+        "w": "tam-avayavam",
+        "gloss": "that; part, limb",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtirāviśati",
+      "words": [
+       {
+        "w": "vikṛtiḥ",
+        "gloss": "deformity, abnormality",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "āviśati",
+        "gloss": "enters",
+        "gram": "3 sg. pres. ā-√viś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब स्त्री के रक्त और गर्भाशय को दोष थोड़ा दूषित करते हैं, तब जो गर्भ होता है, उस गर्भ के माता से उत्पन्न जिस-जिस अवयव के बीज में या बीजांश में दोष प्रकोप को प्राप्त होता है, उस-उस अवयव में विकृति प्रवेश करती है।",
+  "english": "When, however, the doṣas slightly vitiate the woman's blood (śoṇita) and uterus (garbhāśaya), then in the embryo that comes to be, whichever mother-born part (avayava) of that embryo has its doṣa reach provocation in the seed (bīja) or in the seed-portion, into that very part a deformity (vikṛti) enters.",
+  "text_flags": [],
+  "notes": "'mātṛjasyāvayavasya' is genitive, read as the possessor of the seed or seed-portion. Doctrinal terms doṣa, bīja, avayava are kept. 'garbhāśaya' = uterus (standard). Constructions 'yasya yasya ... tam tam' are distributive ('each such part').",
+  "confidence": "medium"
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hyasyāḥ",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed, for",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitārakhye",
+      "words": [
+       {
+        "w": "śoṇita-ākhye",
+        "gloss": "blood (śoṇita); called",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīje",
+      "words": [
+       {
+        "w": "bīje",
+        "gloss": "in the seed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhāśayasthe",
+      "words": [
+       {
+        "w": "garbhāśaya-sthe",
+        "gloss": "uterus (garbhāśaya); situated",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirvartakaṃ",
+      "words": [
+       {
+        "w": "nirvartakam",
+        "gloss": "producing, forming",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījaṃ",
+      "words": [
+       {
+        "w": "bījam",
+        "gloss": "seed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praduṣyati",
+      "words": [
+       {
+        "w": "praduṣyati",
+        "gloss": "is vitiated, is spoiled",
+        "gram": "3 sg. pres. pra-√duṣ"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaṃdhyāṃ",
+      "words": [
+       {
+        "w": "vandhyām",
+        "gloss": "barren (woman)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces, brings forth",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब इसके गर्भाशय में स्थित शोणित नामक बीज में निर्वर्तक बीज दूषित होता है, तब वह बन्ध्या को उत्पन्न करता है।",
+  "english": "When, indeed, in her seed called blood (śoṇita), situated in the uterus (garbhāśaya), the forming seed (nirvartaka bīja) is vitiated, then it produces a barren one (vandhyā).",
+  "text_flags": [
+   {
+    "src": "śoṇitārakhye",
+    "suggest": "śoṇitākhye",
+    "why": "possible: 'ra' appears inserted ('ākhye' = called); the same insertion is seen in 'śukarārakhye' (97); 'śoṇita-ākhye' fits the sense"
+   }
+  ],
+  "notes": "Token 'yadā hyasyāḥ' = yadā + hi + asyāḥ. The subject of 'janayati' is not stated ('it', the vitiated seed). 'Barren (vandhyā)' is the feminine as printed; the noun 'woman' is not in the text. 'nirvartaka' = that which brings about or forms (the body), the line does not say more. The two uses of 'bīja' (the blood-seed, and the forming seed) are as printed.",
   "confidence": "medium"
  }
 ]

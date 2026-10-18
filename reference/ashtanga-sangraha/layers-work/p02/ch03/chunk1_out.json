@@ -1634,5 +1634,601 @@
   "text_flags": [],
   "notes": "'evam' points to the regimen of unit 24 (gruel with ghee), per context; this is not stated.",
   "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nīrujaṃ",
+      "words": [
+       {
+        "w": "nīrujam",
+        "gloss": "free from disease",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavarṇasattvasaṃhananasaṃpadupetaṃ",
+      "words": [
+       {
+        "w": "bala-varṇa-sattva-saṃhanana-saṃpad-upetam",
+        "gloss": "strength; complexion; sattva (mind, vitality); firm build; excellence; endowed with",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñātīnāmagragaṇyamapatyaṃ",
+      "words": [
+       {
+        "w": "jñātīnām",
+        "gloss": "among kinsmen",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "agra-gaṇyam",
+        "gloss": "foremost; to be counted",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "apatyam",
+        "gloss": "child",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayatīti",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "she brings forth",
+        "gram": "3 sg. pres. caus. √jan"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name of a teacher)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह रोग से रहित, बल, वर्ण, सत्त्व और संहनन की सम्पदा से युक्त, जातिजनों में अग्रगण्य सन्तान को जन्म देती है, ऐसा भगवान् आत्रेय कहते हैं।",
+  "english": "She brings forth a child free of disease, endowed with the excellence of strength, complexion, sattva and body-build (saṃhanana), reckoned foremost among his kinsmen: so (says) the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "The subject of 'janayati' is not stated; the woman who follows the regimen above is understood. 'saṃhanana' = firm, compact build of the body. 'sattva' is kept as a doctrinal term (mind, mental strength). 'jñātīnām agragaṇyam' = counted first among his relatives.",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "badarodakena",
+      "words": [
+       {
+        "w": "badara-udakena",
+        "gloss": "jujube (badara; Ziziphus jujuba, standard); water",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "palalapayodadhimastutailalavaṇaphalagṛtamadhuyuktenāsthāpayet",
+      "words": [
+       {
+        "w": "palala-payaḥ-dadhi-mastu-taila-lavaṇa-phala-ghṛta-madhu-yuktena",
+        "gloss": "palala (probably sesame paste; disputed); milk; curd; whey (mastu); oil; salt; fruit; ghee; honey; joined with",
+        "gram": "dvandva then tat-puruṣa, n. inst. sg."
+       },
+       {
+        "w": "āsthāpayet",
+        "gloss": "should administer an āsthāpana (decoction enema)",
+        "gram": "3 sg. opt. caus. ā-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बदर के जल से, जो पलल, दूध, दही, मस्तु, तेल, नमक, फल, घी और मधु से युक्त हो, आस्थापन यानी काढ़े की वस्ति दे।",
+  "english": "One should administer an āsthāpana (decoction enema) with jujube (badara) water joined with palala (probably sesame paste), milk, curd, whey (mastu), oil, salt, fruit, ghee and honey.",
+  "text_flags": [
+   {
+    "src": "palalapayodadhimastutailalavaṇaphalagṛtamadhuyuktenāsthāpayet",
+    "suggest": "palalapayodadhimastutailalavaṇaphalaghṛtamadhuyuktenāsthāpayet",
+    "why": "possible: 'gṛta' is not a word; ghṛta (ghee) fits the list of substances."
+   }
+  ],
+  "notes": "palala is disputed: sesame paste (tila-kalka) is likely here, but 'flesh' is another meaning. 'phala' (fruit) is not specified. mastu = whey of curd. The object (the pregnant woman) is understood; the enema is described as in the previous units.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "purāṇavidviśśuttyarthaṃ",
+      "words": [
+       {
+        "w": "purāṇa-viṭ-viśuddhi-artham",
+        "gloss": "old; stool; cleansing; for the purpose of",
+        "gram": "tat-puruṣa, ind. (conjectural reading)"
+       }
+      ]
+     },
+     {
+      "src": "madhukādimadhurauṣadhasiddhena",
+      "words": [
+       {
+        "w": "madhuka-ādi-madhura-auṣadha-siddhena",
+        "gloss": "madhuka (probably licorice); beginning with; sweet; medicines; cooked",
+        "gram": "bahuvrīhi then tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tailenānuvāsayedanulomanāya",
+      "words": [
+       {
+        "w": "tailena",
+        "gloss": "with oil",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "anuvāsayet",
+        "gloss": "should administer an anuvāsana (oil enema)",
+        "gram": "3 sg. opt. caus. anu-√vas"
+       },
+       {
+        "w": "anulomanāya",
+        "gloss": "for moving downward, for setting in order",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyoḥ",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of the wind (vāyu)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर पुराने मल की शुद्धि के लिए, और मधुक आदि मधुर औषधों से पकाए तेल से अनुवासन दे, वायु के अनुलोमन के लिए।",
+  "english": "On a conjectural reading, for clearing the old stool, and with oil cooked with sweet medicines beginning with madhuka (probably licorice), one should administer an anuvāsana (oil enema), for the downward movement (anulomana) of the wind (vāyu).",
+  "text_flags": [
+   {
+    "src": "purāṇavidviśśuttyarthaṃ",
+    "suggest": "purāṇaviḍviśuddhyarthaṃ",
+    "why": "possible: 'vidviśśutti-' is not a word; viḍ-viśuddhi 'cleansing of stool' fits (d for ḍ, śś for ś, t for ddh), but the whole reading is conjectural."
+   }
+  ],
+  "notes": "The first token is badly printed; the reading 'purāṇaviḍviśuddhyartham' (for cleansing of old stool) is a conjecture. 'madhukādi' = madhuka (probably licorice) and the others of the sweet group. anulomana = making move in the proper (downward) direction. vāyu = wind, here the Vāta in the body. Subject (the physician) understood.",
+  "confidence": "low"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anulome",
+      "words": [
+       {
+        "w": "anulome",
+        "gloss": "moving downward",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "himārute",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "mārute",
+        "gloss": "in the wind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhamanupadravā",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "easily",
+        "gram": "ind."
+       },
+       {
+        "w": "anupadravā",
+        "gloss": "free from complications (upadrava)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasūte",
+      "words": [
+       {
+        "w": "prasūte",
+        "gloss": "gives birth",
+        "gram": "3 sg. pres. mid. pra-√sū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि वायु के अनुलोम होने पर वह सुख से, उपद्रव से रहित, प्रसव करती है।",
+  "english": "For when the wind is moving downward, she gives birth easily, free of complications (upadrava).",
+  "text_flags": [],
+  "notes": "'himārute' is two words printed together, 'hi mārute'. Subject (the woman) understood. 'upadrava' = complication.",
+  "confidence": "high"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "garbhiṇīṃ",
+      "words": [
+       {
+        "w": "garbhiṇīm",
+        "gloss": "pregnant woman",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nyubjāmāsthāpayedanuvāsayedvā",
+      "words": [
+       {
+        "w": "nyubjām",
+        "gloss": "bent over, face downward (nyubja)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āsthāpayet",
+        "gloss": "should administer an āsthāpana (decoction enema)",
+        "gram": "3 sg. opt. caus. ā-√sthā"
+       },
+       {
+        "w": "anuvāsayet",
+        "gloss": "should administer an anuvāsana (oil enema)",
+        "gram": "3 sg. opt. caus. anu-√vas"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भिणी को तो झुकी हुई स्थिति में आस्थापन दे अथवा अनुवासन दे।",
+  "english": "But to the pregnant woman, bent over (nyubja), one should administer either an āsthāpana (decoction enema) or an anuvāsana (oil enema).",
+  "text_flags": [],
+  "notes": "'nyubja' is taken as 'bent over / face downward'; the exact posture is not described in the text. Sentence is the continuation of the instructions of 28-29.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "thus, in that way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'syā",
+      "words": [
+       {
+        "w": "asyāḥ",
+        "gloss": "of her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vivṛtamārgatayā",
+      "words": [
+       {
+        "w": "vivṛta-mārga-tayā",
+        "gloss": "opened; passage; because of the state",
+        "gram": "f. inst. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "samyagauṣadhamanupraviśati",
+      "words": [
+       {
+        "w": "samyak",
+        "gloss": "properly",
+        "gram": "ind."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine (auṣadha)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anupraviśati",
+        "gloss": "enters",
+        "gram": "3 sg. pres. anu-pra-√viś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस प्रकार उसके मार्ग के खुले होने से औषध ठीक से भीतर प्रवेश करता है।",
+  "english": "In that way, because of the openness of her passage, the medicine (auṣadha) enters properly.",
+  "text_flags": [
+   {
+    "src": "'syā",
+    "suggest": "asyāḥ",
+    "why": "possible: the genitive 'asyāḥ' is meant; the final visarga is lost in print (an instrumental 'asyā' with vivṛtamārgatayā would not fit)."
+   }
+  ],
+  "notes": "Printed 'tathā 'syā': tathā + asyāḥ (avagraha for the dropped a). The word 'mārga' (passage) is not further defined (compare 'garbhamārga' in unit 34). 'vivṛta' = opened.",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ataūrdhvaṃ",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "from this",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "snigdhābhiryavāgūbhirjāṃgalarasaiścopācaredāprasavakālāditi",
+      "words": [
+       {
+        "w": "snigdhābhiḥ",
+        "gloss": "with unctuous (ones)",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "yavāgūbhiḥ",
+        "gloss": "with gruels (yavāgū)",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "jāṅgala-rasaiḥ",
+        "gloss": "dry-land animals (jāṅgala); juices, broths",
+        "gram": "m. inst. pl., tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upacaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-√car"
+       },
+       {
+        "w": "ā-prasava-kālāt",
+        "gloss": "up to; delivery; time",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavāndhanvantariḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dhanvantariḥ",
+        "gloss": "Dhanvantari (name of a teacher)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके बाद प्रसव के समय तक चिकनी यवागुओं और जाङ्गल जीवों के रसों से उपचार करे, ऐसा भगवान् धन्वन्तरि कहते हैं।",
+  "english": "After this, until the time of delivery, one should treat (her) with unctuous gruels (yavāgū) and with the juices (broths) of jāṅgala (dry-land) animals: so (says) the venerable Dhanvantari.",
+  "text_flags": [],
+  "notes": "'jāṅgalarasa' = broth of animals of the dry-land (jāṅgala) class; the text does not name them. The object (the pregnant woman) is understood. 'ataḥ ūrdhvam' printed 'ataūrdhvaṃ'. The verb of speaking for Dhanvantari is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "navame",
+      "words": [
+       {
+        "w": "navame",
+        "gloss": "in the ninth",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tataevānuvāsanatailātpicuṃ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "from that",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       },
+       {
+        "w": "anuvāsana-tailāt",
+        "gloss": "oil enema (anuvāsana); oil",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "picum",
+        "gloss": "a picu (cotton swab)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "in the yoni (vagina)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇayet",
+      "words": [
+       {
+        "w": "praṇayet",
+        "gloss": "should insert",
+        "gram": "3 sg. opt. pra-√nī"
+       }
+      ]
+     },
+     {
+      "src": "garbhamārgāśāyayoḥ",
+      "words": [
+       {
+        "w": "garbha-mārga-āśayayoḥ",
+        "gloss": "embryo; passage; receptacle (āśaya, probably the uterus)",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "snehanāthaṃmiti",
+      "words": [
+       {
+        "w": "snehana-artham",
+        "gloss": "oiling; for the purpose of",
+        "gram": "tat-puruṣa, ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नवें में तो उसी अनुवासन के तेल से पिचु योनि में रखे, गर्भ के मार्ग और आशय को स्नेहन के लिए।",
+  "english": "In the ninth (month), however, from that same anuvāsana oil, a picu (cotton swab) should be inserted into the yoni (vagina), for the oiling of the passage of the embryo and the receptacle (āśaya).",
+  "text_flags": [
+   {
+    "src": "snehanāthaṃmiti",
+    "suggest": "snehanārtham iti",
+    "why": "possible: 'snehanātham' is not a word and has no sense here; 'snehanārtham' (for oiling) fits, the r dropped in print."
+   }
+  ],
+  "notes": "'garbhamārgāśayayoḥ' can be read 'of the embryo's passage and receptacle' (taken) or 'of the garbha-mārga and the āśaya'; āśaya is probably the uterus (probable). picu = cotton swab (it is also a weight measure; here the object inserted). yoni here = the vaginal passage (it may mean womb elsewhere). The oil is the one used for anuvāsana in 29.",
+  "confidence": "medium"
  }
 ]

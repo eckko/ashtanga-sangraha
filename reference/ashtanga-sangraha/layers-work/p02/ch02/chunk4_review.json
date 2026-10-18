@@ -1,0 +1,1059 @@
+{
+ "units": [
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 1 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "117",
+       "op": "word",
+       "match_w": "unmattam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "Subject (the pregnant woman) understood",
+     "problem": "The subjects are the two nominatives vivṛtaśayā and naktacāriṇī themselves; only their being pregnant women is understood from context.",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "n": "117",
+      "op": "replace",
+      "field": "notes",
+      "old": "Subject (the pregnant woman) understood from the context.",
+      "new": "The subjects are the nominatives vivṛtaśayā and naktacāriṇī; that they are pregnant women is understood from the context."
+     }
+    },
+    {
+     "field": "english",
+     "where": "units 117-134 as a whole",
+     "problem": "Observation (no change): with janayati not repeated, the English and Hindi of 118-134 are fragments ('She who is X: a Y (one).'). This keeps to the no-added-words rule and the '(one)' convention is acceptable (marked with brackets), but readers lose the sentence. The owner may prefer one shared note or a bracketed '[produces]' lead; not patched.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 1 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "118",
+       "op": "word",
+       "match_w": "apasmāriṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kalahaśīlā'pasmāriṇaṃ",
+     "problem": "The printed avagraha after -ā (ऽ) marks no real elision (ā + a gives ā); same in 126 and 135. Print habit, not a typo of the word; worth one recorded line.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "append_note",
+      "text": "The avagraha printed after -ā (śīlā'pasmāriṇaṃ) is a print habit (ā + a gives ā); no flag."
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "119",
+       "op": "word",
+       "match_w": "dur-vapuṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "119",
+       "op": "word",
+       "match_w": "ahrīkam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "119",
+       "op": "word",
+       "match_w": "straiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "119",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "120",
+       "op": "word",
+       "match_w": "bhīrum",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "120",
+       "op": "word",
+       "match_w": "apacitam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "120",
+       "op": "word",
+       "match_w": "alpa-āyuṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "121",
+       "op": "word",
+       "match_w": "para-upatāpanam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      },
+      {
+       "n": "121",
+       "op": "word",
+       "match_w": "īrṣyālum",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "121",
+       "op": "word",
+       "match_w": "straiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "121",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "122",
+       "op": "word",
+       "match_w": "āyāsa-bahulam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "122",
+       "op": "word",
+       "match_w": "abhidrohiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "122",
+       "op": "word",
+       "match_w": "akarma-śīlam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "122",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    },
+    {
+     "field": "split",
+     "where": "stenā tu āyāsa…",
+     "problem": "The split stenā tu depends on reading the run-together token stenātvāyāsa as stenā + tv + āyāsa; 'tu' is an odd element in a list of habit-compounds and the English 'however' / Hindi 'तो' rest on it. Alternatives (e.g. a different first word) cannot be excluded. Draft states 'probable' in notes but gives no text_flag and the translation is not hedged.",
+     "fix": "owner to decide: either add a text_flag (possible) and hedge 'however', or drop the 'however' from both translations and keep tu only in words",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 2 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "123",
+       "op": "word",
+       "match_w": "caṇḍam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "123",
+       "op": "word",
+       "match_w": "aupadhikam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "123",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "124",
+       "op": "word",
+       "match_w": "nidrālum",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "124",
+       "op": "word",
+       "match_w": "abudham",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "124",
+       "op": "word",
+       "match_w": "alpa-agnim",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'nityā' = constant in, given to",
+     "problem": "Copy-pasted sentence about nityā; this unit has no nityā compound (śīlā/other compound).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "replace",
+      "field": "notes",
+      "old": " 'nityā' = constant in, given to.",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "125",
+       "op": "word",
+       "match_w": "tṛṣṇālum",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "125",
+       "op": "word",
+       "match_w": "alpa-smṛtim",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "125",
+       "op": "word",
+       "match_w": "anavasthitam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "अत्यधिक प्यास वाला",
+     "problem": "-ālu means 'prone to'; 'अत्यधिक' (excessive) adds an intensity the Sanskrit does not state and differs from the English 'prone to thirst'.",
+     "fix": "प्यास की प्रवृत्ति वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "125",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यधिक प्यास वाला",
+      "new": "प्यास की प्रवृत्ति वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "126",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 2 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "126",
+       "op": "word",
+       "match_w": "aśmariṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "126",
+       "op": "word",
+       "match_w": "śanaiḥ-mehinam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "śanaiḥ-mehinam",
+     "problem": "Labelled bahuvrīhi, but a compound of the adverb śanaiḥ with the agent noun mehin is not a bahuvrīhi.",
+     "fix": "gram: adverb + noun compound, acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "126",
+      "op": "word",
+      "match_w": "śanaiḥ-mehinam",
+      "field": "gram",
+      "value": "adverb + mehin compound, acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "127",
+       "op": "word",
+       "match_w": "rakta-akṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "127",
+       "op": "word",
+       "match_w": "krathanam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "127",
+       "op": "word",
+       "match_w": "ati-paruṣa-romāṇam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "krathanam",
+     "problem": "Unflagged doubtful word. 'krathana' as an adjective in a list of body signs (red-eyed, ?, very rough hair) is unattested in the sense needed. Possible OCR confusion for krodhanam 'wrathful' (dh/th and a lost o-matra; Devanagari क्रथन vs क्रोधन), which would fit the boar-like list. Only a possibility; the draft's 'sense uncertain' hedge in both languages is the right treatment either way.",
+     "fix": "owner to decide whether to add a 'possible' text_flag krathanam -> krodhanam; keep the hedge until then",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 2 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "128",
+       "op": "word",
+       "match_w": "cira-nimeṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "128",
+       "op": "word",
+       "match_w": "stabdha-akṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "129",
+       "op": "word",
+       "match_w": "pramehiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "129",
+       "op": "word",
+       "match_w": "mūkam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "129",
+       "op": "word",
+       "match_w": "ati-sthūlam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "madhurā-nityā",
+     "problem": "All sibling compounds (amla-, lavaṇa-, tikta-, kaṭuka-, kaṣāya-nityā) use the bare stem; madhurā- with long ā is an unexplained oddity. The note's explanation ('feminine form agreeing with the noun-less taste') is not a valid compound formation. Very probably a print slip for madhura-nityā; unflagged, and w keeps the printed long ā.",
+     "fix": "words: madhura-nityā; add a possible text_flag; reword the note",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "129",
+       "op": "word",
+       "match_w": "madhurā-nityā",
+       "field": "w",
+       "value": "madhura-nityā"
+      },
+      {
+       "n": "129",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "madhurānityā",
+         "suggest": "madhuranityā",
+         "why": "possible: the other taste compounds in 130-134 (amlanityā, lavaṇanityā, tiktanityā, kaṭukanityā, kaṣāyanityā) use the bare stem; the long ā of madhurā- looks like a print slip"
+        }
+       ]
+      },
+      {
+       "n": "129",
+       "op": "replace",
+       "field": "notes",
+       "old": "= madhurā-nityā (madhura as a taste, rasa, in feminine form agreeing with the noun-less 'taste')",
+       "new": "= madhura-nityā with a lengthened ā (possible print slip, see text_flags)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 2 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "130",
+       "op": "word",
+       "match_w": "rakta-pittinam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "130",
+       "op": "word",
+       "match_w": "tvak-akṣi-rogiṇam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 2 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "131",
+       "op": "word",
+       "match_w": "śīghra-valī-palitam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "131",
+       "op": "word",
+       "match_w": "khalatikam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "132",
+       "op": "word",
+       "match_w": "śoṣiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "132",
+       "op": "word",
+       "match_w": "abalam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "132",
+       "op": "word",
+       "match_w": "apacitam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "133",
+       "op": "word",
+       "match_w": "durbalam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "133",
+       "op": "word",
+       "match_w": "alpa-śukram",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "133",
+       "op": "word",
+       "match_w": "anapatyam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adjectives with unstated noun",
+     "problem": "GLOSSARY: unstated nouns carry no gender in gram; draft writes 'm./n.' on 3 word(s).",
+     "fix": "drop 'm./n.' keep case and number",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "134",
+       "op": "word",
+       "match_w": "śyāmam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "134",
+       "op": "word",
+       "match_w": "ānāhinam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "134",
+       "op": "word",
+       "match_w": "udāvartinam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "वायु के उलटे ऊपर चढ़ने",
+     "problem": "English says Vāta; Hindi should keep the doṣa name वात (Hindi doṣa names: वात, पित्त, कफ), not वायु (which is used for plain wind in 150).",
+     "fix": "वात के उलटे ऊपर चढ़ने",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वायु के उलटे",
+      "new": "वात के उलटे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "begets",
+     "problem": "janayati is rendered 'produces' (117) in English and 'उत्पन्न करती है' in Hindi there, but 135 ends the same sentence-series with 'begets' / 'जन्म देती है'. Use one rendering for the same verb.",
+     "fix": "produces / उत्पन्न करती है",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "135",
+       "op": "replace",
+       "field": "english",
+       "old": "begets",
+       "new": "produces"
+      },
+      {
+       "n": "135",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जन्म देती है",
+       "new": "उत्पन्न करती है"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "upācaretām",
+     "problem": "-etām is the parasmaipada 3 du. optative ending (ātmanepada would be -eyātām); 'mid.' is wrong.",
+     "fix": "3 du. opt. upa-ā-√car",
+     "severity": "error",
+     "patch": {
+      "n": "137",
+      "op": "word",
+      "match_w": "upācaretām",
+      "field": "gram",
+      "value": "3 du. opt. upa-ā-√car"
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रक्तावसेचन नहीं",
+     "problem": "English glosses raktāvasecana as bloodletting; Hindi leaves the technical term bare. Comprehension first.",
+     "fix": "रक्तावसेचन यानी रक्त निकालना नहीं",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तावसेचन नहीं",
+      "new": "रक्तावसेचन यानी रक्त निकालना नहीं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और ... फिर",
+     "problem": "Hindi begins 'और' (no ca in the Sanskrit; added) and renders punar as 'फिर' while the English says 'But'. Make Hindi match the English.",
+     "fix": "किन्तु वमन आदि से साध्य विकारों में मृदु या उसी प्रयोजन को पूरा करने वालों से उपक्रम करना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "142",
+      "op": "set",
+      "field": "hindi",
+      "value": "किन्तु वमन आदि से साध्य विकारों में मृदु या उसी प्रयोजन को पूरा करने वालों से उपक्रम करना चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhavaṃti | cātra",
+     "problem": "Words are attached to the wrong tokens: 'ca' sits under token bhavaṃti, but it is the c- of token cātra (ca + atra). Token cātra lists only atra.",
+     "fix": "token bhavaṃti -> bhavanti; token cātra -> ca + atra",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "144",
+       "op": "set",
+       "field": "lines.0.tokens.0.words",
+       "value": [
+        {
+         "w": "bhavanti",
+         "gloss": "are, there are",
+         "gram": "3 pl. pres. √bhū"
+        }
+       ]
+      },
+      {
+       "n": "144",
+       "op": "set",
+       "field": "lines.0.tokens.1.words",
+       "value": [
+        {
+         "w": "ca",
+         "gloss": "and",
+         "gram": "ind."
+        },
+        {
+         "w": "atra",
+         "gloss": "here, in this matter",
+         "gram": "ind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "there are these",
+     "problem": "'these' is not in the Sanskrit (bhavanti cātra = 'and here there are'); the noun is unstated, as the note says, so the demonstrative is a small addition. Hindi 'ये हैं' likewise.",
+     "fix": "owner: accept as idiom or use 'And on this matter there are (verses).' / 'और इस विषय में हैं।'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "147",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "148",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarva-āśramāṇām",
+     "problem": "sarva + āśrama is a karmadhāraya (adjective + noun), not a tat-puruṣa.",
+     "fix": "karmadhāraya, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "word",
+      "match_w": "sarva-āśramāṇām",
+      "field": "gram",
+      "value": "karmadhāraya, m. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "149",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "150",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वायु के मार्ग…",
+     "problem": "The Sanskrit has ca (+ 'and' in the English) joining this to 149; Hindi drops it.",
+     "fix": "और वायु के मार्ग के रुक जाने से गर्भ में रहने वाला रोता नहीं।",
+     "severity": "minor",
+     "patch": {
+      "n": "150",
+      "op": "set",
+      "field": "hindi",
+      "value": "और वायु के मार्ग के रुक जाने से गर्भ में रहने वाला रोता नहीं।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "not read as the humour Vāta",
+     "problem": "Too firm: the text does not say vāyu is not Vāta; the sense wind/air is the plainer one.",
+     "fix": "soften",
+     "severity": "minor",
+     "patch": {
+      "n": "150",
+      "op": "replace",
+      "field": "notes",
+      "old": "it is not read as the humour Vāta here.",
+      "new": "it is read as wind/air rather than the humour Vāta, though the text does not exclude the latter."
+     }
+    }
+   ]
+  },
+  {
+   "n": "151",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 115-151 is sound overall: no invented content, identifications (apasmāra, aśmarī, godhā, varāha, prameha, raktapitta, śoṣa, ānāha, udāvarta, jarāyu, nāḍī=umbilical cord) are correctly tagged and hedged. Real faults: unit 144 words attached to the wrong tokens (ca under bhavaṃti), 137 upācaretām labelled mid. (it is parasmaipada). Minor: gender 'm./n.' against glossary rule on unstated nouns (117-134), copy-pasted nityā note in six units, madhurā- unflagged anomaly (129), Hindi vāyu/वात, 'अत्यधिक' in 125, missing 'और' in 150, 'begets' vs 'produces', Hindi gloss for raktāvasecana. Unpatched observations: 122 'stenā tu' conjectural split behind 'however'; 127 krathana (possibly krodhana); 144 'these'; 117-134 fragments. Text flags 116,119,120,135,139,141,143 judged plausible (116 nāḍīṃ, 119 ahrīka, 143 stray d are 'possible'; 120 and 139 near certain). Hedges and src handling OK; confidence levels honest. Counts: 2 errors, 40 minor.",
+ "glossary_suggestions": [
+  "janayati carried over 117-134 is rendered 'produces' / उत्पन्न करती है in every unit (also 135).",
+  "Avagraha printed after -ā (ऽ in kalahaśīlā'pasmāriṇaṃ, nityā'śmariṇaṃ, āsevamānāṃ'tarvatnī) is a print habit; normalise, record once.",
+  "upācaretām is parasmaipada (3 du. opt.); 'mid.' only for -eyātām etc.",
+  "Taste compounds in the -nityā lists use the bare stem (madhura-nityā); long ā in madhurā- is a print slip (possible).",
+  "Hindi names the doṣa as वात even in explanatory glosses (udāvarta); वायु only for plain wind.",
+  "Unstated-noun adjectives: gram gives case and number only, never 'm./n.'.",
+  "Verb janayati 'produces' (caus. √jan), not 'begets'/'जन्म देना'."
+ ]
+}

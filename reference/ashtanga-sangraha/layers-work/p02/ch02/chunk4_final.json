@@ -1,0 +1,2645 @@
+[
+ {
+  "n": "115",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaccānyadapi",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyat",
+        "gloss": "other",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhastriyo",
+      "words": [
+       {
+        "w": "vṛddha-striyaḥ",
+        "gloss": "old; women",
+        "gram": "karmadhāraya, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "may say",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी जो कुछ वृद्ध स्त्रियाँ कहें।",
+  "english": "And whatever else old women may also say.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to be the tail of a longer statement (what old women say) whose main clause lies outside this unit; the sentence is left open here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.115"
+  ],
+  "lines_deva": [
+   "यच्चान्यदपि वृद्धस्त्रियो ब्रूयुः"
+  ],
+  "lines_iast": [
+   "yaccānyadapi vṛddhastriyo brūyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratānottānaśāyinyāḥ",
+      "words": [
+       {
+        "w": "pratāna-uttāna-śāyinyāḥ",
+        "gloss": "stretched out (pratāna); lying face up (uttāna); sleeping",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "punargarbhasya",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "garbhasya",
+        "gloss": "of the fetus (garbha)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābhyāśrayā",
+      "words": [
+       {
+        "w": "nābhi-āśrayā",
+        "gloss": "navel (nābhi); resting on",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāḍīṃ",
+      "words": [
+       {
+        "w": "nāḍī",
+        "gloss": "nāḍī (channel, vessel; here probably the umbilical cord, probable)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭhamanuveṣṭya",
+      "words": [
+       {
+        "w": "kaṇṭham",
+        "gloss": "neck, throat",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anuveṣṭya",
+        "gloss": "having wound around",
+        "gram": "abs. anu-√veṣṭ"
+       }
+      ]
+     },
+     {
+      "src": "vyāpattiṃ",
+      "words": [
+       {
+        "w": "vyāpattim",
+        "gloss": "mishap, calamity",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "causes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तानकर और उत्तान यानी चित सोने वाली के गर्भ की, नाभि पर टिकी नाड़ी, जो सम्भवतः गर्भनाल है, फिर कण्ठ को लपेटकर विपत्ति करती है।",
+  "english": "For a woman who sleeps stretched out and face up, again, the fetus's nāḍī (probably the umbilical cord), resting on the navel, having wound around the neck, causes a mishap (vyāpatti).",
+  "text_flags": [
+   {
+    "src": "nāḍīṃ",
+    "suggest": "nāḍī",
+    "why": "possible: nābhyāśrayā is feminine nominative, so the subject should be nāḍī (nom.); the accusative anusvara looks like a print slip"
+   }
+  ],
+  "notes": "nāḍī = vessel or channel; reading it as the umbilical cord is probable, not stated in the word itself. 'garbhasya' is taken with nāḍī; whose neck is not stated (the fetus's is the natural reading). 'pratāna' is not firmly known (stretched out); the compound may also be two habits run together, 'sleeping stretched out and sleeping face up'. The genitive of the woman stands loosely ('in the case of').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.116"
+  ],
+  "lines_deva": [
+   "प्रतानोत्तानशायिन्याः पुनर्गर्भस्य नाभ्याश्रया नाडीं कंठमनुवेष्ट्य व्यापत्तिं करोति"
+  ],
+  "lines_iast": [
+   "pratānottānaśāyinyāḥ punargarbhasya nābhyāśrayā nāḍīṃ kaṃṭhamanuveṣṭya vyāpattiṃ karoti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "117",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vivṛtaśayā",
+      "words": [
+       {
+        "w": "vivṛta-śayā",
+        "gloss": "uncovered, exposed; sleeping",
+        "gram": "upapada compound, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naktacāriṇī",
+      "words": [
+       {
+        "w": "nakta-cāriṇī",
+        "gloss": "night; roaming",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "conmattaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "unmattam",
+        "gloss": "mad, insane",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिना ढके सोने वाली और रात में घूमने वाली उन्मत्त को उत्पन्न करती है।",
+  "english": "She who sleeps uncovered, and she who roams at night, produces a mad (one).",
+  "text_flags": [],
+  "notes": "The subjects are the nominatives vivṛtaśayā and naktacāriṇī; that they are pregnant women is understood from the context. Whether one woman has both habits or either habit suffices is not settled by the wording (singular verb). 'vivṛta' = uncovered, or possibly 'in the open'. unmatta = mad (unmāda, standard). The verb janayati serves the following units 118-134 as well.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.117"
+  ],
+  "lines_deva": [
+   "विवृतशया नक्तचारिणी चोन्मत्तं जनयति"
+  ],
+  "lines_iast": [
+   "vivṛtaśayā naktacāriṇī conmattaṃ janayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "118",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalahaśīlā'pasmāriṇaṃ",
+      "words": [
+       {
+        "w": "kalaha-śīlā",
+        "gloss": "quarrel; habit, disposition",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "apasmāriṇam",
+        "gloss": "one with apasmāra (epilepsy; standard)",
+        "gram": "acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "झगड़ालू स्वभाव वाली: अपस्मार यानी मिर्गी वाला।",
+  "english": "She who is quarrelsome by nature: one with apasmāra (epilepsy).",
+  "text_flags": [],
+  "notes": "Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. The avagraha printed after -ā (śīlā'pasmāriṇaṃ) is a print habit (ā + a gives ā); no flag.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.118"
+  ],
+  "lines_deva": [
+   "कलहशीलाऽपस्मारिणं"
+  ],
+  "lines_iast": [
+   "kalahaśīlā'pasmāriṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "119",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavāyaśīlā",
+      "words": [
+       {
+        "w": "vyavāya-śīlā",
+        "gloss": "sexual intercourse (vyavāya; standard); disposition",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durvapuṣamanhīkaṃ",
+      "words": [
+       {
+        "w": "dur-vapuṣam",
+        "gloss": "ill, bad; body, form",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "ahrīkam",
+        "gloss": "shameless (on a conjectural reading)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "straiṇaṃ",
+      "words": [
+       {
+        "w": "straiṇam",
+        "gloss": "womanish (straiṇa)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यवाय यानी मैथुन में लगी रहने वाली: बुरे शरीर वाला, अनुमानित पाठ पर निर्लज्ज, या स्त्रैण।",
+  "english": "She who is given to sexual intercourse (vyavāya): an ill-shaped, shameless (on a conjectural reading) or womanish (straiṇa) (one).",
+  "text_flags": [
+   {
+    "src": "durvapuṣamanhīkaṃ",
+    "suggest": "durvapuṣam ahrīkam",
+    "why": "possible: 'anhīka' is not a known word; ahrīka (a-hrī-ka, 'without shame') fits the series of faults and a dropped/misread conjunct hrī -> nhī is a plausible OCR error"
+   }
+  ],
+  "notes": "Hedged: 'ahrīka' is a conjectured reading of the printed 'anhīkaṃ'. 'straiṇa' = womanish, effeminate (it can also mean fond of women); the plainest sense is kept. The three adjectives are read as alternatives, 'or' closing the list. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.119"
+  ],
+  "lines_deva": [
+   "व्यवायशीला दुर्वपुषमन्हीकं स्त्रैणं वा"
+  ],
+  "lines_iast": [
+   "vyavāyaśīlā durvapuṣamanhīkaṃ straiṇaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "120",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaॉkanityā",
+      "words": [
+       {
+        "w": "śoka-nityā",
+        "gloss": "grief (śoka); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhīrumapacitamalpāyuṣaṃ",
+      "words": [
+       {
+        "w": "bhīrum",
+        "gloss": "timid",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "apacitam",
+        "gloss": "wasted",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "alpa-āyuṣam",
+        "gloss": "short; life, lifespan",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निरन्तर शोक में रहने वाली: डरपोक, क्षीण या अल्पायु।",
+  "english": "She who is constantly given to grief (śoka): a timid, wasted or short-lived (one).",
+  "text_flags": [
+   {
+    "src": "śaॉkanityā",
+    "suggest": "śokanityā",
+    "why": "near certain: ॉ is a stray vowel sign; 'śoka' (grief) fits the series of X-nityā compounds"
+   }
+  ],
+  "notes": "apacita = wasted, diminished (it also means 'honoured'; wasted suits the list). The same word occurs in 132. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.120"
+  ],
+  "lines_deva": [
+   "शॉकनित्या भीरुमपचितमल्पायुषं वा"
+  ],
+  "lines_iast": [
+   "śaॉkanityā bhīrumapacitamalpāyuṣaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "121",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhidhyāyinī",
+      "words": [
+       {
+        "w": "abhidhyāyinī",
+        "gloss": "covetous (one who covets)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paropatāpanamīrṣyāluṃ",
+      "words": [
+       {
+        "w": "para-upatāpanam",
+        "gloss": "others; tormenting",
+        "gram": "tat-puruṣa, acc. sg."
+       },
+       {
+        "w": "īrṣyālum",
+        "gloss": "jealous",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "straiṇaṃ",
+      "words": [
+       {
+        "w": "straiṇam",
+        "gloss": "womanish (straiṇa)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लोभ करने वाली: दूसरों को सन्ताप देने वाला, ईर्ष्यालु या स्त्रैण।",
+  "english": "She who is covetous: one who torments others, a jealous or womanish (one).",
+  "text_flags": [],
+  "notes": "abhidhyā = coveting (longing for another's possession). 'paropatāpana' = causing distress to others. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.121"
+  ],
+  "lines_deva": [
+   "अभिध्यायिनी परोपतापनमीर्ष्यालुं स्त्रैणं वा"
+  ],
+  "lines_iast": [
+   "abhidhyāyinī paropatāpanamīrṣyāluṃ straiṇaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "122",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stenātvāyāsabahulamabhidrohiṇamakarmaśīlaṃ",
+      "words": [
+       {
+        "w": "stenā",
+        "gloss": "thief (female)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       },
+       {
+        "w": "āyāsa-bahulam",
+        "gloss": "exertion, toil; abounding in",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "abhidrohiṇam",
+        "gloss": "hostile, malicious",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "akarma-śīlam",
+        "gloss": "no action; disposition",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चोर स्त्री तो: परिश्रम से भरा, द्रोही या अकर्मशील।",
+  "english": "She who is a thief, however: one abounding in toil (āyāsa), hostile, or given to inaction (akarma).",
+  "text_flags": [],
+  "notes": "The printed run-together first word is split as stenā tu āyāsabahulam abhidrohiṇam akarmaśīlam; 'tu' is the odd element (it contrasts with the preceding habits) and the split is probable, not certain. 'akarmaśīla' could also mean 'given to wrong action'; the literal 'inaction' is kept. 'abhidrohin' = hostile/injurious to others. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.122"
+  ],
+  "lines_deva": [
+   "स्तेनात्वायासबहुलमभिद्रोहिणमकर्मशीलं वा"
+  ],
+  "lines_iast": [
+   "stenātvāyāsabahulamabhidrohiṇamakarmaśīlaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "123",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amarṣaṇā",
+      "words": [
+       {
+        "w": "amarṣaṇā",
+        "gloss": "intolerant, impatient of offence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caṃḍamaupadhikaṃvā",
+      "words": [
+       {
+        "w": "caṇḍam",
+        "gloss": "fierce, violent",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "aupadhikam",
+        "gloss": "probably deceitful (from upadhi, deceit)",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "असहनशील: उग्र या सम्भवतः कपटी।",
+  "english": "She who is intolerant: a fierce or probably deceitful (aupadhika) (one).",
+  "text_flags": [],
+  "notes": "aupadhika: 'deceitful, practising upadhi (trick, fraud)' is probable; the word has other senses ('additional'), so it is hedged. The print joins 'vā' to the previous word (aupadhikaṃvā); split here without a flag as a spacing slip. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.123"
+  ],
+  "lines_deva": [
+   "अमर्षणा चंडमौपधिकंवा"
+  ],
+  "lines_iast": [
+   "amarṣaṇā caṃḍamaupadhikaṃvā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "124",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svapnaśīlā",
+      "words": [
+       {
+        "w": "svapna-śīlā",
+        "gloss": "sleep; disposition",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidrālumabudhamalpāgniṃ",
+      "words": [
+       {
+        "w": "nidrālum",
+        "gloss": "drowsy, sleepy",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "abudham",
+        "gloss": "foolish, unwise",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "alpa-agnim",
+        "gloss": "small; fire (agni); alpāgni = weak digestive fire, poor digestion (standard)",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सोने के स्वभाव वाली: उनींदा, नासमझ या अल्प अग्नि यानी मन्द पाचन वाला।",
+  "english": "She who is given to sleep: a drowsy, foolish (one), or one with small fire (agni), weak digestion.",
+  "text_flags": [],
+  "notes": "svapna = sleep here (it can also mean dream). Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.124"
+  ],
+  "lines_deva": [
+   "स्वप्नशीला निद्रालुमबुधमल्पाग्निं वा"
+  ],
+  "lines_iast": [
+   "svapnaśīlā nidrālumabudhamalpāgniṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "125",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madyanityā",
+      "words": [
+       {
+        "w": "madya-nityā",
+        "gloss": "madya (an intoxicating drink); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇālumalpasmṛtimanavasthitaṃ",
+      "words": [
+       {
+        "w": "tṛṣṇālum",
+        "gloss": "prone to thirst",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "alpa-smṛtim",
+        "gloss": "little, poor; memory",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "anavasthitam",
+        "gloss": "unsteady, unstable",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मद्य यानी मादक पेय में नित्य लगी रहने वाली: प्यास की प्रवृत्ति वाला, अल्प स्मृति वाला या अस्थिर।",
+  "english": "She who is constantly given to madya (an intoxicating drink): one prone to thirst, of poor memory, or unsteady.",
+  "text_flags": [],
+  "notes": "tṛṣṇālu could also mean craving (tṛṣṇā in general); 'prone to thirst' is the plainer sense. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.125"
+  ],
+  "lines_deva": [
+   "मद्यनित्या तृष्णालुमल्पस्मृतिमनवस्थितं वा"
+  ],
+  "lines_iast": [
+   "madyanityā tṛṣṇālumalpasmṛtimanavasthitaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "126",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "godhāmāṃsanityā'śmariṇaṃ",
+      "words": [
+       {
+        "w": "godhā-māṃsa-nityā",
+        "gloss": "monitor lizard (godhā, standard; the species, probably Varanus bengalensis, is probable); flesh; constant in",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aśmariṇam",
+        "gloss": "one with aśmarī (urinary stone; standard)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śanairmehinaṃ",
+      "words": [
+       {
+        "w": "śanaiḥ-mehinam",
+        "gloss": "slowly; one who passes urine",
+        "gram": "adverb + mehin compound, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गोधा यानी गोह के मांस में नित्य लगी रहने वाली: अश्मरी यानी पथरी वाला, या धीरे मूत्र करने वाला।",
+  "english": "She who is constantly given to godhā-flesh (meat of the monitor lizard): one with aśmarī (urinary stone), or one who passes urine slowly.",
+  "text_flags": [],
+  "notes": "Printed with avagraha (godhāmāṃsanityā'śmariṇaṃ) = nityā aśmariṇam. 'śanair-mehin' is taken as 'passing urine slowly (in a trickle)'; mehin could also mean 'one with meha (urinary disorder)', so the sense is not firm. Hedged identification: godhā = monitor lizard standard, exact species probable. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.126"
+  ],
+  "lines_deva": [
+   "गोधामांसनित्याऽश्मरिणं शनैर्मेहिनं वा"
+  ],
+  "lines_iast": [
+   "godhāmāṃsanityā'śmariṇaṃ śanairmehinaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "127",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varāhamāṃsanityā",
+      "words": [
+       {
+        "w": "varāha-māṃsa-nityā",
+        "gloss": "wild boar or pig (varāha; standard); flesh; constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktākṣaṃ",
+      "words": [
+       {
+        "w": "rakta-akṣam",
+        "gloss": "red; eye",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "krathanamatiparuṣaromāṇaṃ",
+      "words": [
+       {
+        "w": "krathanam",
+        "gloss": "krathana (rare word; sense uncertain)",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "ati-paruṣa-romāṇam",
+        "gloss": "very; rough; hair",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वराह यानी सूअर के मांस में नित्य लगी रहने वाली: लाल आँखों वाला, क्रथन जिसका अर्थ अनिश्चित है, या अत्यन्त कठोर रोमों वाला।",
+  "english": "She who is constantly given to varāha-flesh (meat of the wild boar or pig): a red-eyed (one), a krathana (sense uncertain), or one with very rough hair.",
+  "text_flags": [],
+  "notes": "'krathana' is kept untranslated: a rare word (possibly from √krath 'to hurt', or a sound-word), not enriched. 'varāha' = boar/pig (standard). The last compound is a bahuvrīhi in -roman (acc. -romāṇam). Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.127"
+  ],
+  "lines_deva": [
+   "वराहमांसनित्या रक्ताक्षं क्रथनमतिपरुषरोमाणं वा"
+  ],
+  "lines_iast": [
+   "varāhamāṃsanityā raktākṣaṃ krathanamatiparuṣaromāṇaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "128",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "matsyamāṃsanityā",
+      "words": [
+       {
+        "w": "matsya-māṃsa-nityā",
+        "gloss": "fish (matsya); flesh; constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ciranimeṣaṃ",
+      "words": [
+       {
+        "w": "cira-nimeṣam",
+        "gloss": "long, slow; blinking",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stabdhākṣaṃ",
+      "words": [
+       {
+        "w": "stabdha-akṣam",
+        "gloss": "stiff, fixed; eye",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मछली के मांस में नित्य लगी रहने वाली: देर से पलक झपकाने वाला या जड़ आँखों वाला।",
+  "english": "She who is constantly given to fish-flesh: one with slow blinking, or a stiff-eyed (one).",
+  "text_flags": [],
+  "notes": "'ciranimeṣa' = slow in blinking (literally 'long wink'); 'stabdhākṣa' = stiff or staring eyes. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.128"
+  ],
+  "lines_deva": [
+   "मत्स्यमांसनित्या चिरनिमेषं स्तब्धाक्षं वा"
+  ],
+  "lines_iast": [
+   "matsyamāṃsanityā ciranimeṣaṃ stabdhākṣaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "129",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhurānityā",
+      "words": [
+       {
+        "w": "madhura-nityā",
+        "gloss": "sweet (madhura, the sweet taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramehiṇaṃ",
+      "words": [
+       {
+        "w": "pramehiṇam",
+        "gloss": "one with prameha (a group of urinary disorders; diabetes-type probable)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūkamatisthūlaṃvā",
+      "words": [
+       {
+        "w": "mūkam",
+        "gloss": "mute, dumb",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "ati-sthūlam",
+        "gloss": "very; stout, corpulent",
+        "gram": "tat-puruṣa, acc. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुर यानी मीठे में नित्य लगी रहने वाली: प्रमेह यानी सम्भवतः मधुमेह की प्रकृति की मूत्र-व्याधि वाला, गूँगा या अत्यन्त स्थूल।",
+  "english": "She who is constantly given to the sweet (madhura): one with prameha (a group of urinary disorders, probably diabetes-type), a mute, or a very stout (one).",
+  "text_flags": [
+   {
+    "src": "madhurānityā",
+    "suggest": "madhuranityā",
+    "why": "possible: the other taste compounds in 130-134 (amlanityā, lavaṇanityā, tiktanityā, kaṭukanityā, kaṣāyanityā) use the bare stem; the long ā of madhurā- looks like a print slip"
+   }
+  ],
+  "notes": "Printed 'madhurānityā' = madhura-nityā with a lengthened ā (possible print slip, see text_flags) and 'mūkamatisthūlaṃvā' joins vā. Identification of prameha as diabetes-type: probable. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.129"
+  ],
+  "lines_deva": [
+   "मधुरानित्या प्रमेहिणं मूकमतिस्थूलंवा"
+  ],
+  "lines_iast": [
+   "madhurānityā pramehiṇaṃ mūkamatisthūlaṃvā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "130",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amlanityā",
+      "words": [
+       {
+        "w": "amla-nityā",
+        "gloss": "sour (amla, the sour taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktapittinaṃ",
+      "words": [
+       {
+        "w": "rakta-pittinam",
+        "gloss": "raktapitta (a bleeding disorder; probable); one with it",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvagakṣirogiṇaṃ",
+      "words": [
+       {
+        "w": "tvak-akṣi-rogiṇam",
+        "gloss": "skin; eye; disease; one with",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अम्ल यानी खट्टे में नित्य लगी रहने वाली: रक्तपित्त यानी सम्भवतः रक्तस्राव की व्याधि वाला, या त्वचा और आँखों के रोग वाला।",
+  "english": "She who is constantly given to the sour (amla): one with raktapitta (a bleeding disorder, probable), or one with diseases of skin and eyes.",
+  "text_flags": [],
+  "notes": "raktapitta = bleeding from body openings, probable as the modern sense. 'tvagakṣirogin' is read as 'one with disease of skin and of eyes'. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.130"
+  ],
+  "lines_deva": [
+   "अम्लनित्या रक्तपित्तिनं त्वगक्षिरोगिणं वा"
+  ],
+  "lines_iast": [
+   "amlanityā raktapittinaṃ tvagakṣirogiṇaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "131",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lavaṇanityā",
+      "words": [
+       {
+        "w": "lavaṇa-nityā",
+        "gloss": "salty (lavaṇa, the salt taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīghrabalīpalitaṃ",
+      "words": [
+       {
+        "w": "śīghra-valī-palitam",
+        "gloss": "early, quick; wrinkle (valī); grey hair (palita)",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khalatikaṃ",
+      "words": [
+       {
+        "w": "khalatikam",
+        "gloss": "bald (khalatika)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लवण यानी नमकीन में नित्य लगी रहने वाली: शीघ्र झुर्रियों और पलित यानी बाल पकने वाला, या गंजा।",
+  "english": "She who is constantly given to the salty (lavaṇa): one with early wrinkles (valī) and greying (palita), or a bald (one).",
+  "text_flags": [],
+  "notes": "Printed 'balī' for valī (v/b interchange, normalised). khalatika = bald (baldness, standard). Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.131"
+  ],
+  "lines_deva": [
+   "लवणनित्या शीघ्रबलीपलितं खलतिकं वा"
+  ],
+  "lines_iast": [
+   "lavaṇanityā śīghrabalīpalitaṃ khalatikaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "132",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tiktanityā",
+      "words": [
+       {
+        "w": "tikta-nityā",
+        "gloss": "bitter (tikta, the bitter taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṣiṇamabalamapacitaṃ",
+      "words": [
+       {
+        "w": "śoṣiṇam",
+        "gloss": "one with śoṣa (wasting disease; consumption-type, probable)",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "abalam",
+        "gloss": "weak",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "apacitam",
+        "gloss": "wasted",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तिक्त यानी कड़वे में नित्य लगी रहने वाली: शोष यानी सम्भवतः क्षय की प्रकृति की सूखने वाली व्याधि वाला, दुर्बल या क्षीण।",
+  "english": "She who is constantly given to the bitter (tikta): one with śoṣa (a wasting disease, probably consumption-type), a weak, or a wasted (one).",
+  "text_flags": [],
+  "notes": "śoṣa = drying, wasting; the consumption-type sense is probable. apacita as in 120. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.132"
+  ],
+  "lines_deva": [
+   "तिक्तनित्या शोषिणमबलमपचितं वा"
+  ],
+  "lines_iast": [
+   "tiktanityā śoṣiṇamabalamapacitaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "133",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭukanityā",
+      "words": [
+       {
+        "w": "kaṭuka-nityā",
+        "gloss": "pungent (kaṭuka, the pungent taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durvalamalpaśukramanapatyaṃ",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "weak (printed durvalam, v/b spelling)",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "alpa-śukram",
+        "gloss": "little; śukra (semen; standard)",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "anapatyam",
+        "gloss": "without offspring",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कटुक यानी तीखे में नित्य लगी रहने वाली: दुर्बल, अल्प शुक्र यानी वीर्य नामक प्रजनन-द्रव वाला, या सन्तानहीन।",
+  "english": "She who is constantly given to the pungent (kaṭuka): a weak (one), one with little śukra (semen), or one without offspring.",
+  "text_flags": [],
+  "notes": "The printed 'durvalam' is an accepted spelling variant of durbala; no flag. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.133"
+  ],
+  "lines_deva": [
+   "कटुकनित्या दुर्वलमल्पशुक्रमनपत्यं वा"
+  ],
+  "lines_iast": [
+   "kaṭukanityā durvalamalpaśukramanapatyaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "134",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṣāyanityā",
+      "words": [
+       {
+        "w": "kaṣāya-nityā",
+        "gloss": "astringent (kaṣāya, the astringent taste); constant in",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyāmamānāhinamudāvartinaṃ",
+      "words": [
+       {
+        "w": "śyāmam",
+        "gloss": "dusky, dark",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "ānāhinam",
+        "gloss": "one with ānāha (distension of the belly with retention of stool and wind; standard)",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "udāvartinam",
+        "gloss": "one with udāvarta (reversed, upward course of Vāta; standard)",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कसैले में नित्य लगी रहने वाली: श्याम यानी साँवला, आनाह यानी पेट फूलने और मल रुकने वाला, या उदावर्त यानी वात के उलटे ऊपर चढ़ने की व्याधि वाला।",
+  "english": "She who is constantly given to the astringent (kaṣāya): a dusky (one), one with ānāha (distension of the belly with retention), or one with udāvarta (a disorder in which Vāta runs upward).",
+  "text_flags": [],
+  "notes": "kaṣāya here is the taste (astringent), not a decoction. Printed 'śyāmamānāhinamudāvartinaṃ' = śyāmam ānāhinam udāvartinam. Elliptical: the verb janayati (produces) is carried from unit 117 and is not supplied; the unstated noun is shown as '(one)'. 'nityā' = constant in, given to.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.134"
+  ],
+  "lines_deva": [
+   "कषायनित्या श्याममानाहिनमुदावर्तिनं वा"
+  ],
+  "lines_iast": [
+   "kaṣāyanityā śyāmamānāhinamudāvartinaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "135",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yacca",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of which",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyādhernidānaṃ",
+      "words": [
+       {
+        "w": "vyādheḥ",
+        "gloss": "disease",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "nidānam",
+        "gloss": "cause (nidāna)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattadāsevamānāṃ'tarvatnī",
+      "words": [
+       {
+        "w": "tat-tat",
+        "gloss": "that, that (each such)",
+        "gram": "n. acc. sg., distributive"
+       },
+       {
+        "w": "āsevamānā",
+        "gloss": "indulging in, practising",
+        "gram": "pres. mid. part. ā-√sev, f. nom. sg."
+       },
+       {
+        "w": "antarvatnī",
+        "gloss": "pregnant woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattadvikārabahulamapatyaṃ",
+      "words": [
+       {
+        "w": "tat-tad-vikāra-bahulam",
+        "gloss": "each such; disorder; abounding in",
+        "gram": "bahuvrīhi, n. acc. sg."
+       },
+       {
+        "w": "apatyam",
+        "gloss": "offspring",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayati",
+      "words": [
+       {
+        "w": "janayati",
+        "gloss": "produces, begets",
+        "gram": "3 sg. pres. caus. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो-जो जिस रोग का निदान है, उस-उसका सेवन करती हुई अन्तर्वत्नी यानी गर्भवती स्त्री उन-उन विकारों से भरपूर सन्तान को उत्पन्न करती है।",
+  "english": "Whatever is the cause (nidāna) of whatever disease, the pregnant woman (antarvatnī) who indulges in each of those produces offspring abounding in the corresponding disorders.",
+  "text_flags": [
+   {
+    "src": "tattadāsevamānāṃ'tarvatnī",
+    "suggest": "tattadāsevamānā 'ntarvatnī",
+    "why": "possible: āsevamānāṃ (acc.) does not agree with the nominative strī/antarvatnī; the anusvara looks like a print slip for ā"
+   }
+  ],
+  "notes": "Token 'tattadāsevamānāṃ'tarvatnī' = tat-tat āsevamānā antarvatnī (avagraha printed for a-). 'nidāna' = cause (of disease, standard). apatya is neuter. The Sanskrit says 'each of those', 'cause' is not repeated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.135"
+  ],
+  "lines_deva": [
+   "यच्च यच्च यस्य व्याधेर्निदानं तत्तदासेवमानांऽतर्वत्नी स्त्री तत्तद्विकारबहुलमपत्यं जनयति"
+  ],
+  "lines_iast": [
+   "yacca yacca yasya vyādhernidānaṃ tattadāsevamānāṃ'tarvatnī strī tattadvikārabahulamapatyaṃ janayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "136",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etena",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitṛjā",
+      "words": [
+       {
+        "w": "pitṛjāḥ",
+        "gloss": "born of the father",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "apiśukradoṣā",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "śukra-doṣāḥ",
+        "gloss": "śukra (semen; standard); faults",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "explained",
+        "gram": "ppp. vi-ā-√khyā, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे पिता से उत्पन्न शुक्र के दोष भी बताए गए हैं।",
+  "english": "By this, the faults of śukra (semen) that are born of the father are also explained.",
+  "text_flags": [],
+  "notes": "Printed 'pitṛjā apiśukradoṣā' = pitṛjāḥ api śukra-doṣāḥ (regular visarga loss). 'etena' refers back to the preceding account of the mother's habits. doṣa = fault here, not the humour.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.136"
+  ],
+  "lines_deva": [
+   "एतेन पितृजा अपिशुक्रदोषा व्याख्याताः"
+  ],
+  "lines_iast": [
+   "etena pitṛjā apiśukradoṣā vyākhyātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "137",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmātprajāsaṃpadamicchaṃtau",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "prajā-sampadam",
+        "gloss": "offspring (prajā); success, excellence",
+        "gram": "tat-puruṣa, f. acc. sg."
+       },
+       {
+        "w": "icchantau",
+        "gloss": "wishing",
+        "gram": "pres. part. √iṣ, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sādhvātmānamupācaretāṃ",
+      "words": [
+       {
+        "w": "sādhu",
+        "gloss": "well",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmānam",
+        "gloss": "self",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upācaretām",
+        "gloss": "should look after, attend to",
+        "gram": "3 du. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए सन्तान की सम्पन्नता चाहने वाले दोनों अपनी भली प्रकार देखभाल करें।",
+  "english": "Therefore the two, wishing for success of offspring (prajā-sampad), should look after themselves well.",
+  "text_flags": [],
+  "notes": "The dual subject is 'the two' (in the context, the couple); the text does not name them in this line. 'ātmānam' is singular (each one's self).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.137"
+  ],
+  "lines_deva": [
+   "तस्मात्प्रजासंपदमिच्छंतौ साध्वात्मानमुपाचरेतां"
+  ],
+  "lines_iast": [
+   "tasmātprajāsaṃpadamicchaṃtau sādhvātmānamupācaretāṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "138",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśeṣeṇa",
+      "words": [
+       {
+        "w": "viśeṣeṇa",
+        "gloss": "especially",
+        "gram": "m. inst. sg. used as ind."
+       }
+      ]
+     },
+     {
+      "src": "nārī",
+      "words": [
+       {
+        "w": "nārī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विशेष रूप से नारी।",
+  "english": "Especially the woman (nārī).",
+  "text_flags": [],
+  "notes": "Elliptical: the verb of 137 (upācaretām) or a similar verb is understood and not supplied. GROUPING: appears to continue 137.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.138"
+  ],
+  "lines_deva": [
+   "विशेषेण नारी"
+  ],
+  "lines_iast": [
+   "viśeṣeṇa nārī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "139",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhīṃścāsyā",
+      "words": [
+       {
+        "w": "vyādhīn",
+        "gloss": "diseases",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdumadhuraśiśirasukhairauṣadhāhāravihārairūpācaret",
+      "words": [
+       {
+        "w": "mṛdu-madhura-śiśira-sukhaiḥ",
+        "gloss": "mild; sweet; cool; pleasant",
+        "gram": "dvandva/karmadhāraya, inst. pl."
+       },
+       {
+        "w": "auṣadha-āhāra-vihāraiḥ",
+        "gloss": "medicine (auṣadha); food; regimen, conduct (vihāra)",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "one should treat",
+        "gram": "3 sg. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसके रोगों का मृदु, मधुर, शीतल और सुखकर औषध, आहार और विहार से उपचार करना चाहिए।",
+  "english": "And one should treat her diseases with mild, sweet, cool and pleasant medicines (auṣadha), foods and regimens (vihāra).",
+  "text_flags": [
+   {
+    "src": "mṛdumadhuraśiśirasukhairauṣadhāhāravihārairūpācaret",
+    "suggest": "mṛdumadhuraśiśirasukhairauṣadhāhāravihārairupācaret",
+    "why": "certain: the prefix is upa-ā-√car with short u; long ū in 'airūpācaret' is a print slip"
+   }
+  ],
+  "notes": "vihāra = regimen or conduct (daily activities). The four adjectives are read as qualifying all three nouns. 'asyāḥ' written 'asyā' by regular sandhi.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.139"
+  ],
+  "lines_deva": [
+   "व्याधींश्चास्या मृदुमधुरशिशिरसुखैरौषधाहारविहारैरूपाचरेत्"
+  ],
+  "lines_iast": [
+   "vyādhīṃścāsyā mṛdumadhuraśiśirasukhairauṣadhāhāravihārairūpācaret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "140",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cāsyā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "for her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vamanādīni",
+      "words": [
+       {
+        "w": "vamana-ādīni",
+        "gloss": "emesis (vamana); and the rest",
+        "gram": "bahuvrīhi, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayojayet",
+      "words": [
+       {
+        "w": "prayojayet",
+        "gloss": "one should apply",
+        "gram": "3 sg. opt. caus. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसके लिए वमन आदि का प्रयोग नहीं करना चाहिए।",
+  "english": "And one should not apply to her emesis (vamana) and the rest.",
+  "text_flags": [],
+  "notes": "vamana = therapeutic emesis; 'ādi' = and the other cleansing procedures, not listed here. Genitive 'asyāḥ' taken as 'to/for her'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.140"
+  ],
+  "lines_deva": [
+   "न चास्या वमनादीनि प्रयोजयेत्"
+  ],
+  "lines_iast": [
+   "na cāsyā vamanādīni prayojayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "141",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakttāvasecanaṃ",
+      "words": [
+       {
+        "w": "rakta-avasecanam",
+        "gloss": "blood; letting out, bloodletting",
+        "gram": "tat-puruṣa, n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kevalaṃ",
+      "words": [
+       {
+        "w": "kevalam",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṣṭamaṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "aṣṭamam",
+        "gloss": "eighth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsamupādāyāsthāpanamanuvāsanaṃ",
+      "words": [
+       {
+        "w": "māsam",
+        "gloss": "month",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upādāya",
+        "gloss": "taking up, beginning from",
+        "gram": "abs. upa-ā-√dā"
+       },
+       {
+        "w": "āsthāpanam",
+        "gloss": "āsthāpana (decoction enema; standard)",
+        "gram": "n. nom./acc. sg."
+       },
+       {
+        "w": "anuvāsanam",
+        "gloss": "anuvāsana (oil enema; standard)",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्तावसेचन यानी रक्त निकालना नहीं; किन्तु केवल आठवें मास से आरम्भ करके आस्थापन यानी काढ़े की बस्ति या अनुवासन यानी तेल की बस्ति।",
+  "english": "Not bloodletting (raktāvasecana); but only, beginning from the eighth month, āsthāpana (decoction enema) or anuvāsana (oil enema).",
+  "text_flags": [
+   {
+    "src": "rakttāvasecanaṃ",
+    "suggest": "raktāvasecanaṃ",
+    "why": "possible: doubled t in 'rakttā-' is not a spelling of rakta-avasecana; likely a print slip"
+   }
+  ],
+  "notes": "Elliptical: the verb of 140 (prayojayet) is understood and not supplied. The wording does not settle whether the enemas are an exception to the prohibitions or a continuing prohibition; the literal sequence is kept ('but only ... from the eighth month'). Enema identifications are standard.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.02.141"
+  ],
+  "lines_deva": [
+   "न रक्त्तावसेचनं केवलं त्वष्टमं मासमुपादायास्थापनमनुवासनं वा"
+  ],
+  "lines_iast": [
+   "na rakttāvasecanaṃ kevalaṃ tvaṣṭamaṃ māsamupādāyāsthāpanamanuvāsanaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "142",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vamanādisādhyeṣu",
+      "words": [
+       {
+        "w": "vamana-ādi-sādhyeṣu",
+        "gloss": "emesis; and the rest; curable by",
+        "gram": "tat-puruṣa, loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarvikāreṣu",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, but",
+        "gram": "ind."
+       },
+       {
+        "w": "vikāreṣu",
+        "gloss": "disorders",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛdubhistadarthakāribhirvopakramet",
+      "words": [
+       {
+        "w": "mṛdubhiḥ",
+        "gloss": "mild",
+        "gram": "inst. pl."
+       },
+       {
+        "w": "tad-artha-kāribhiḥ",
+        "gloss": "that; purpose; accomplishing",
+        "gram": "tat-puruṣa, inst. pl."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "upakramet",
+        "gloss": "should proceed (to treat)",
+        "gram": "3 sg. opt. upa-√kram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु वमन आदि से साध्य विकारों में मृदु या उसी प्रयोजन को पूरा करने वालों से उपक्रम करना चाहिए।",
+  "english": "But in disorders curable by emesis (vamana) and the rest, one should proceed with mild (ones) or with those that accomplish the same purpose.",
+  "text_flags": [],
+  "notes": "Printed 'mṛdubhistadarthakāribhirvopakramet' = mṛdubhiḥ tad-artha-kāribhiḥ vā upakramet. The means are not named ('(ones)'). upakrama = beginning of treatment.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.142"
+  ],
+  "lines_deva": [
+   "वमनादिसाध्येषु पुनर्विकारेषु मृदुभिस्तदर्थकारिभिर्वोपक्रमेत्"
+  ],
+  "lines_iast": [
+   "vamanādisādhyeṣu punarvikāreṣu mṛdubhistadarthakāribhirvopakramet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "143",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūrṇamivatailapātramasaṃkṣobhayandgarbhiṇīmupācarediti",
+      "words": [
+       {
+        "w": "pūrṇam",
+        "gloss": "full",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "taila-pātram",
+        "gloss": "oil; vessel",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "asaṃkṣobhayan",
+        "gloss": "not agitating, not shaking",
+        "gram": "pres. part. caus. saṃ-√kṣubh, m. nom. sg."
+       },
+       {
+        "w": "garbhiṇīm",
+        "gloss": "pregnant woman",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "one should attend to",
+        "gram": "3 sg. opt. upa-ā-√car"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेल से भरे पात्र की तरह, बिना हिलाए गर्भिणी की सेवा करनी चाहिए।",
+  "english": "Like a full vessel of oil, one should attend to the pregnant woman (garbhiṇī) without shaking (her).",
+  "text_flags": [
+   {
+    "src": "pūrṇamivatailapātramasaṃkṣobhayandgarbhiṇīmupācarediti",
+    "suggest": "pūrṇamivatailapātramasaṃkṣobhayan garbhiṇīmupācarediti",
+    "why": "possible: stray 'd' before garbhiṇīm (asaṃkṣobhayan + garbhiṇīm)"
+   }
+  ],
+  "notes": "The object of asaṃkṣobhayan is understood (her, or by the simile the vessel); '(her)' is supplied only for readability. The closing 'iti' ends the prose passage and is not translated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.143"
+  ],
+  "lines_deva": [
+   "पूर्णमिवतैलपात्रमसंक्षोभयन्द्गर्भिणीमुपाचरेदिति"
+  ],
+  "lines_iast": [
+   "pūrṇamivatailapātramasaṃkṣobhayandgarbhiṇīmupācarediti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "144",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are, there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, in this matter",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में ये हैं।",
+  "english": "And on this matter there are these.",
+  "text_flags": [],
+  "notes": "Standard lead-in formula, 'and on this there are (verses)'; the noun is not stated in the Sanskrit and is not supplied. It introduces the verses that follow (145 onward).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.144"
+  ],
+  "lines_deva": [
+   "भवंति चात्र"
+  ],
+  "lines_iast": [
+   "bhavaṃti cātra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "145",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityanātyayike",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "an-ātyayike",
+        "gloss": "not urgent, not critical",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyādhau",
+      "words": [
+       {
+        "w": "vyādhau",
+        "gloss": "disease",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhiratyadhike",
+      "words": [
+       {
+        "w": "vidhiḥ",
+        "gloss": "rule, procedure",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "atyadhike",
+        "gloss": "very great, excessive",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "but, again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अनात्ययिक रोग में विधि; किन्तु अत्यधिक में।",
+  "english": "Thus the rule in a non-critical (anātyayika) disease; but in a very severe (one)",
+  "text_flags": [],
+  "notes": "Left elliptical: no copula is supplied. 'atyadhike' agrees with an understood vyādhau. The sentence runs on into 146 (146 appears to complete 145 as one verse of two lines; this pairing is not stated by the print).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.145"
+  ],
+  "lines_deva": [
+   "इत्यनात्ययिके व्याधौ विधिरत्यधिके पुनः"
+  ],
+  "lines_iast": [
+   "ityanātyayike vyādhau vidhiratyadhike punaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "146",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīkṣṇairapi",
+      "words": [
+       {
+        "w": "tīkṣṇaiḥ",
+        "gloss": "sharp, strong",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kriyāyogaiḥ",
+      "words": [
+       {
+        "w": "kriyā-yogaiḥ",
+        "gloss": "treatment; applications",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "striyaṃyatnena",
+      "words": [
+       {
+        "w": "striyam",
+        "gloss": "woman",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "yatnena",
+        "gloss": "with care",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pālayet",
+      "words": [
+       {
+        "w": "pālayet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. caus. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीक्ष्ण चिकित्सा-प्रयोगों से भी स्त्री की यत्न से रक्षा करनी चाहिए।",
+  "english": "Even with sharp applications of treatment (kriyāyoga), one should carefully protect the woman.",
+  "text_flags": [],
+  "notes": "Continues 145 (appears to complete it). tīkṣṇa = sharp, strong, harsh.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.146"
+  ],
+  "lines_deva": [
+   "तीक्ष्णैरपि क्रियायोगैः स्त्रियंयत्नेन पालयेत्"
+  ],
+  "lines_iast": [
+   "tīkṣṇairapi kriyāyogaiḥ striyaṃyatnena pālayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "147",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūlamapatyānāṃ",
+      "words": [
+       {
+        "w": "mūlam",
+        "gloss": "root",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "apatyānām",
+        "gloss": "of offspring",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣati",
+      "words": [
+       {
+        "w": "rakṣati",
+        "gloss": "protects",
+        "gram": "3 sg. pres. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "rakṣitā",
+      "words": [
+       {
+        "w": "rakṣitā",
+        "gloss": "protected",
+        "gram": "ppp. √rakṣ, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्त्री ही सन्तानों की जड़ है; स्त्री ही, रक्षित होने पर, रक्षा करती है।",
+  "english": "For woman is the root of offspring; for woman, when protected, protects.",
+  "text_flags": [],
+  "notes": "The object of rakṣati is not expressed and not supplied. The printed tokens are 'strī hi mūlamapatyānāṃ strī hi rakṣati rakṣitā'. 147-148 appear to pair as one verse; not stated by the print.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.147"
+  ],
+  "lines_deva": [
+   "स्त्री हि मूलमपत्यानां स्त्री हि रक्षति रक्षिता"
+  ],
+  "lines_iast": [
+   "strī hi mūlamapatyānāṃ strī hi rakṣati rakṣitā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "148",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvāśramāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-āśramāṇām",
+        "gloss": "all; āśramas (stages of life)",
+        "gram": "karmadhāraya, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "prathamaṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhasthatvamaniṃditaṃ",
+      "words": [
+       {
+        "w": "gṛhastha-tvam",
+        "gloss": "householder-state",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aninditam",
+        "gloss": "unblamed, blameless",
+        "gram": "ppp. n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब आश्रमों में प्रथम, निन्दारहित गृहस्थपन।",
+  "english": "Of all the āśramas (stages of life), first, blameless, the state of a householder.",
+  "text_flags": [],
+  "notes": "Elliptical: no copula supplied. 'prathamam' may also be an adverb ('first'); either way the sense is the same. Appears to belong with 147 as one verse; not stated by the print. The line is not further explained here.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.148"
+  ],
+  "lines_deva": [
+   "सर्वाश्रमाणां प्रथमं गृहस्थत्वमनिंदितं"
+  ],
+  "lines_iast": [
+   "sarvāśramāṇāṃ prathamaṃ gṛhasthatvamaniṃditaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "149",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jarāyuṇā",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "by the jarāyu (fetal membrane; standard)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhe",
+      "words": [
+       {
+        "w": "mukhe",
+        "gloss": "mouth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "channe",
+      "words": [
+       {
+        "w": "channe",
+        "gloss": "covered",
+        "gram": "ppp. √chad, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭhe",
+      "words": [
+       {
+        "w": "kaṇṭhe",
+        "gloss": "throat",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakaphaveṣṭite",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "kapha-veṣṭite",
+        "gloss": "Kapha; wrapped, enveloped",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जरायु से मुख ढके होने पर और कफ से कण्ठ लिपटे होने पर",
+  "english": "When the mouth is covered by the jarāyu (fetal membrane) and the throat is enveloped by Kapha,",
+  "text_flags": [],
+  "notes": "Two locative absolutes; the sentence completes in 150 (150 appears to complete it; not stated by the print). jarāyu = the membrane enclosing the fetus (the exact structure, amnion or chorion, is not given). 'cakaphaveṣṭite' = ca kapha-veṣṭite.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.149"
+  ],
+  "lines_deva": [
+   "जरायुणा मुखे छन्ने कंठे चकफवेष्टिते"
+  ],
+  "lines_iast": [
+   "jarāyuṇā mukhe channe kaṃṭhe cakaphaveṣṭite"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "150",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyormārganirodhācca",
+      "words": [
+       {
+        "w": "vāyoḥ",
+        "gloss": "of wind (vāyu)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "mārga-nirodhāt",
+        "gloss": "path; obstruction",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhasthaḥ",
+      "words": [
+       {
+        "w": "garbha-sthaḥ",
+        "gloss": "in the womb (garbha); staying",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praroditi",
+      "words": [
+       {
+        "w": "praroditi",
+        "gloss": "cries out, weeps",
+        "gram": "3 sg. pres. pra-√rud"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वायु के मार्ग के रुक जाने से गर्भ में रहने वाला रोता नहीं।",
+  "english": "And because of obstruction of the path of wind (vāyu), the one staying in the womb does not cry out.",
+  "text_flags": [],
+  "notes": "Completes the sentence begun in 149 (appears to). 'garbhastha' = the one in the womb (not further specified). 'vāyu' is the wind or air; it is read as wind/air rather than the humour Vāta, though the text does not exclude the latter.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.150"
+  ],
+  "lines_deva": [
+   "वायोर्मार्गनिरोधाच्च न गर्भस्थः प्ररोदिति"
+  ],
+  "lines_iast": [
+   "vāyormārganirodhācca na garbhasthaḥ praroditi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "151",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "itigarbhāvakrāṃtirnāma",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "garbhāvakrāntiḥ",
+        "gloss": "Garbhāvakrānti (descent, entry of the embryo)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvitīyo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "dvitīyaḥ",
+        "gloss": "second",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार गर्भावक्रान्ति यानी गर्भ का अवतरण नामक द्वितीय अध्याय",
+  "english": "Thus the second chapter, named Garbhāvakrānti (the descent of the embryo).",
+  "text_flags": [],
+  "notes": "Colophon. The printed tokens 'itigarbhāvakrāṃtirnāma' and 'dvitīyo'dhyāyaḥ' are run together by sandhi.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.02.151"
+  ],
+  "lines_deva": [
+   "इतिगर्भावक्रांतिर्नाम द्वितीयोऽध्यायः"
+  ],
+  "lines_iast": [
+   "itigarbhāvakrāṃtirnāma dvitīyo'dhyāyaḥ"
+  ],
+  "uncertain": []
+ }
+]

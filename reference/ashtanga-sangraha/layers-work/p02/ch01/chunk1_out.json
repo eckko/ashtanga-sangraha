@@ -1680,5 +1680,817 @@
   ],
   "notes": "The sentence is loose and its syntax is not certain. The words are translated in the printed order. It appears that the blood (ārtava) of unit 11 is the unstated subject, retained and later flowing, and that what results shows signs of pregnancy and is lifeless (jīva-rahita); the reading 'gulmī bhavati' = 'becomes gulmin' (a person or thing with gulma) is not decided. gulma kept in Sanskrit; commonly an abdominal lump or mass (standard rendering).",
   "confidence": "low"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kadācidvā",
+      "words": [
+       {
+        "w": "kadācid",
+        "gloss": "sometimes",
+        "gram": "ind."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhaiva",
+      "words": [
+       {
+        "w": "garbhā",
+        "gloss": "pregnant (woman)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātodaraṃbhavati",
+      "words": [
+       {
+        "w": "vāta-udaram",
+        "gloss": "Vāta; belly (vātodara: Vāta-belly, abdominal swelling from Vāta; probable)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "occurs, becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tadvātaupaśamanairupaśāmyati",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vāta-aupaśamanaiḥ",
+        "gloss": "Vāta; pacifying (ones)",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "upaśāmyati",
+        "gloss": "subsides",
+        "gram": "3 sg. pres. upa-√śam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कभी गर्भवती स्त्री में भी वातोदर यानी वात से पेट का फूलना हो जाता है; वह वात को शान्त करने वालों से शान्त हो जाता है।",
+  "english": "Or sometimes, in a pregnant (woman) indeed, vātodara (Vāta-belly: abdominal swelling from Vāta) occurs; that subsides with Vāta-pacifying (ones).",
+  "text_flags": [],
+  "notes": "'garbhaiva' is ambiguous: garbhā eva ('a pregnant woman indeed'; taken here) or garbha eva ('the embryo itself'); garbha iva would give garbheva, so 'as if pregnant' is not read. vātodara: Vāta-belly, a swelling of the belly attributed to Vāta; modern equivalent probably abdominal distension (probable). 'vāta-aupaśamana' = Vāta-pacifying; the noun they qualify is not stated.",
+  "confidence": "low"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadeva",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kadācidārtavaṃ",
+      "words": [
+       {
+        "w": "kadācit",
+        "gloss": "sometimes",
+        "gram": "ind."
+       },
+       {
+        "w": "ārtavam",
+        "gloss": "ārtava (menstrual blood; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saumyairbṛṃhaṇātmabhirāhāravihāraiḥ",
+      "words": [
+       {
+        "w": "saumyaiḥ",
+        "gloss": "gentle",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "bṛṃhaṇa-ātmabhiḥ",
+        "gloss": "bulk-promoting (bṛṃhaṇa); having the nature of",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "āhāra-vihāraiḥ",
+        "gloss": "diets; regimens (conduct)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "staṃbhitamanupadravamevodaraṃ",
+      "words": [
+       {
+        "w": "stambhitam",
+        "gloss": "held back",
+        "gram": "ppp. caus. √stambh, n. nom. sg."
+       },
+       {
+        "w": "anupadravam",
+        "gloss": "without complications",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "udaram",
+        "gloss": "belly",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhādhiṣṭhitamiva",
+      "words": [
+       {
+        "w": "garbha-adhiṣṭhitam",
+        "gloss": "embryo; occupied",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vardvayati",
+      "words": [
+       {
+        "w": "vardhayati",
+        "gloss": "makes grow, increases",
+        "gram": "3 sg. pres. caus. √vṛdh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही आर्तव कभी सौम्य, बृंहण स्वभाव वाले आहार और विहारों से रुका हुआ, उपद्रवरहित ही उदर को, मानो गर्भ से अधिष्ठित हो, बढ़ा देता है।",
+  "english": "That very ārtava (menstrual blood), sometimes held back by gentle diets and regimens of a bulk-promoting (bṛṃhaṇa) nature, increases the belly (udara), free of complications, as if occupied by an embryo.",
+  "text_flags": [
+   {
+    "src": "vardvayati",
+    "suggest": "vardhayati",
+    "why": "dv for dh: OCR/print confusion; vardhayati 'makes grow'"
+   }
+  ],
+  "notes": "Subject is ārtava; stambhita is taken with ārtava, anupadrava with udara (belly); the grouping of these adjectives is not certain. bṛṃhaṇa = bulk-promoting, nourishing (doctrinal term). 'udara' is rendered 'belly'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāmagarbhī",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "agarbhiṇīm",
+        "gloss": "not pregnant",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhiṇīmāhurmūḍhāḥ",
+      "words": [
+       {
+        "w": "garbhiṇīm",
+        "gloss": "pregnant",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "call",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "mūḍhāḥ",
+        "gloss": "fools, the deluded",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिससे मूढ़ लोग उस अगर्भिणी को गर्भिणी कहते हैं।",
+  "english": "Because of which the deluded call her, who is not pregnant, pregnant.",
+  "text_flags": [
+   {
+    "src": "tāmagarbhī",
+    "suggest": "tām agarbhiṇīm",
+    "why": "possible: the final -m and -ṇī- seem lost; agarbhīm would also scan"
+   }
+  ],
+  "notes": "'yena' is taken as 'by which / because of which' (the appearance described in 16).",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparītairyadṛcchayā",
+      "words": [
+       {
+        "w": "viparītaiḥ",
+        "gloss": "by contrary (ones)",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yadṛcchayā",
+        "gloss": "by chance, spontaneously",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāpravṛtte",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "pravṛtte",
+        "gloss": "flowing",
+        "gram": "ppp. pra-√vṛt, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakte",
+      "words": [
+       {
+        "w": "rakte",
+        "gloss": "blood",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhaśarīramapaśyaṃto",
+      "words": [
+       {
+        "w": "garbha-śarīram",
+        "gloss": "embryo; body",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "apaśyantaḥ",
+        "gloss": "not seeing",
+        "gram": "pres. part. m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūtahṛtamityajñā",
+      "words": [
+       {
+        "w": "bhūta-hṛtam",
+        "gloss": "beings (bhūta); carried off",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "ajñāḥ",
+        "gloss": "the ignorant",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bruvate",
+      "words": [
+       {
+        "w": "bruvate",
+        "gloss": "say",
+        "gram": "3 pl. pres. ā. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब विपरीतों से या संयोग से रक्त के बहने पर गर्भ का शरीर न देखते हुए अज्ञ लोग कहते हैं कि भूतों द्वारा हर लिया गया।",
+  "english": "Then, when the blood flows through contrary (ones) or by chance, not seeing the body of the embryo, the ignorant say: 'carried off by beings (bhūta)'.",
+  "text_flags": [],
+  "notes": "'viparītaiḥ' (contrary) has no stated noun; it probably refers to the opposite measures to those in unit 16 (not certain). 'bhūta' = being, spirit; kept literal.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasmātsaṃbhavatyojaso'paharaṇaṃ",
+      "words": [
+       {
+        "w": "yasmāt",
+        "gloss": "since",
+        "gram": "ind."
+       },
+       {
+        "w": "saṃbhavati",
+        "gloss": "is possible, occurs",
+        "gram": "3 sg. pres. sam-√bhū"
+       },
+       {
+        "w": "ojasaḥ",
+        "gloss": "of ojas (vital essence; doctrinal term)",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "apaharaṇam",
+        "gloss": "taking away",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣobhirna",
+      "words": [
+       {
+        "w": "rakṣobhiḥ",
+        "gloss": "by rakṣas (demons)",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāyasyāniṣṭatvādśaktervā",
+      "words": [
+       {
+        "w": "kāyasya",
+        "gloss": "of the body",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aniṣṭatvāt",
+        "gloss": "from undesirability",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "aśakteḥ",
+        "gloss": "from incapacity",
+        "gram": "f. abl. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि राक्षसों द्वारा ओज का अपहरण सम्भव है, परन्तु शरीर का नहीं, अनिष्ट होने से या असमर्थता से।",
+  "english": "Since the taking away of ojas (vital essence) by rakṣas (demons) occurs, but not of the body, from undesirability or from incapacity.",
+  "text_flags": [
+   {
+    "src": "kāyasyāniṣṭatvādśaktervā",
+    "suggest": "kāyasyāniṣṭatvādaśakter vā",
+    "why": "possible: initial a of aśakteḥ lost in the printed ād-ś"
+   }
+  ],
+  "notes": "Elliptical: 'apaharaṇam' (taking away) is carried over to 'of the body'. Whose undesirability or incapacity is meant is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "icchāśaktayorhi",
+      "words": [
+       {
+        "w": "icchā-śaktayoḥ",
+        "gloss": "desire; power",
+        "gram": "dvandva, f. loc. du."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravṛtte",
+      "words": [
+       {
+        "w": "pravṛtte",
+        "gloss": "when engaged",
+        "gram": "ppp. pra-√vṛt, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rupalabdhirna",
+      "words": [
+       {
+        "w": "upalabdhiḥ",
+        "gloss": "perception",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pres. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "kasyacinmānuṣairdehāpahāraḥ",
+      "words": [
+       {
+        "w": "kasyacit",
+        "gloss": "of anyone",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "mānuṣaiḥ",
+        "gloss": "by humans",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "deha-apahāraḥ",
+        "gloss": "body; removal",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि इच्छा और शक्ति के प्रवृत्त होने पर उपलब्धि नहीं होती, और किसी के देह का मनुष्यों द्वारा अपहरण नहीं देखा जाता।",
+  "english": "For when desire and power are engaged, there is no perception, and the removal of anyone's body by humans is not seen.",
+  "text_flags": [
+   {
+    "src": "rupalabdhirna",
+    "suggest": "upalabdhir na",
+    "why": "possible: initial r looks extra; upalabdhi 'perception' fits the sense; rūpa-labdhi is not clear"
+   }
+  ],
+  "notes": "The grammar of 'icchāśaktayor hi pravṛtte' is uncertain (locative dual absolute). The reading is not firm.",
+  "confidence": "low"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭamapi",
+      "words": [
+       {
+        "w": "dṛṣṭam",
+        "gloss": "seen",
+        "gram": "ppp. √dṛś, n. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samullaṃghya",
+      "words": [
+       {
+        "w": "samullaṅghya",
+        "gloss": "having transgressed",
+        "gram": "abs. sam-ud-√laṅgh"
+       }
+      ]
+     },
+     {
+      "src": "kecidatiśayaśaktiyuktā",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "atiśaya-śakti-yuktāḥ",
+        "gloss": "excess; power; endowed",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "garbhasyaśarīrākṣepe",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the embryo",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "śarīra-ākṣepe",
+        "gloss": "body; casting off",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravarttante",
+      "words": [
+       {
+        "w": "pravartante",
+        "gloss": "proceed",
+        "gram": "3 pl. pres. ā. pra-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kathamiva",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       },
+       {
+        "w": "iva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāptaviśarāstajjananīrupekṣeran",
+      "words": [
+       {
+        "w": "prāptaviśarāḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "tad-jananīḥ",
+        "gloss": "its; mothers",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "upekṣeran",
+        "gloss": "would neglect",
+        "gram": "3 pl. opt. upa-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यदि कुछ अत्यधिक शक्ति से युक्त लोग देखे हुए को भी लाँघकर गर्भ के शरीर के उत्क्षेप में प्रवृत्त होते हैं, तब कैसे भला अनुमानित पाठ पर उसकी माताओं की उपेक्षा करेंगे।",
+  "english": "And if some, endowed with excessive power, passing beyond even what is seen, proceed to cast off the body of the embryo, then how indeed would the prāptaviśarāḥ (unclear, on a conjectural reading) neglect its mothers?",
+  "text_flags": [
+   {
+    "src": "kecidatiśayaśaktiyuktā",
+    "suggest": "kecid atiśayaśaktiyuktāḥ",
+    "why": "possible: visarga lost before garbhasya"
+   },
+   {
+    "src": "prāptaviśarāstajjananīrupekṣeran",
+    "suggest": "unknown",
+    "why": "the word prāptaviśarāḥ is unclear; no sure restoration; the rest tad-jananīḥ upekṣeran is clear"
+   }
+  ],
+  "notes": "Damaged or unclear word 'prāptaviśarāḥ' kept unsplit; it is probably an adjective or subject of 'upekṣeran' (the beings said to take the embryo?), but this is a conjecture and the translation of that part is on a conjectural reading. 'ākṣepa' = casting off or removal. 'dṛṣṭam api samullaṅghya' = literally 'even having transgressed what is seen'. The doubled tt in 'pravarttante' is normalised.",
+  "confidence": "low"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ārtavaṃ",
+      "words": [
+       {
+        "w": "ārtavam",
+        "gloss": "ārtava (menstrual blood; standard)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, on the other hand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaśarudhiralākṣārasopamaṃ",
+      "words": [
+       {
+        "w": "śaśa-rudhira-lākṣā-rasa-upamam",
+        "gloss": "hare; blood; lac (lākṣā); juice; resembling",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhautaṃ",
+      "words": [
+       {
+        "w": "dhautam",
+        "gloss": "washed",
+        "gram": "ppp. √dhāv, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "virajyamānaṃ",
+      "words": [
+       {
+        "w": "virajyamānam",
+        "gloss": "losing colour",
+        "gram": "pres. part. pass. vi-√rañj, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuddhamāhuḥ",
+      "words": [
+       {
+        "w": "śuddham",
+        "gloss": "pure",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they call",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आर्तव को फिर, जो खरगोश के रक्त और लाख के रस के समान हो और धोने पर रंग छोड़ता जाए, शुद्ध कहते हैं।",
+  "english": "Ārtava (menstrual blood), moreover, which resembles hare's blood and lac-juice and, when washed, loses its colour, they call pure.",
+  "text_flags": [],
+  "notes": "lākṣā = lac, the resin dye of the lac insect (standard). 'śaśarudhira-lākṣārasa' is read as a dvandva (hare's blood and lac-juice), not decided. 'virajyamāna' = losing colour (becoming decoloured).",
+  "confidence": "medium"
  }
 ]
