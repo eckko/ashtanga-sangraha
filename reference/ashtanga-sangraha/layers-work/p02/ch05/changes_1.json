@@ -1,0 +1,175 @@
+[
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "mahā-guṇa-mayebhyaḥ",
+  "old": "bahuvrīhi, m. abl. pl.",
+  "new": "abl. pl.",
+  "why": "reviewer (minor): Adjective of mahābhūtebhyaḥ (n.) is labelled m.; also -maya is a suffix, not a bahuvrīhi. Use plain case/number."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "महागुणों से युक्त तथा अनुमानित पाठ पर ख यानी आकाश, पवन यानी वायु, तेज यानी अग्नि, जल और भूमि से निर्मित, और चेतना से अधिष्ठित महाभूतों से उत्पत्ति होती है।",
+  "new": "महागुणों से बने तथा अनुमानित पाठ पर ख यानी आकाश, पवन यानी वायु, तेज यानी अग्नि, जल और भूमि से निर्मित, और चेतना से अधिष्ठित महाभूतों से उत्पत्ति होती है।",
+  "why": "reviewer (minor): -maya means 'made of / consisting of' (English says 'consisting of'); 'युक्त' means 'endowed with'. Align Hindi."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "darśanam",
+  "old": "sight",
+  "new": "organ of sight",
+  "why": "reviewer (minor): In the parallel series (u14 śrotram/śabdaḥ, u15 sparśanam/sparśaḥ, u17 rasanam/rasaḥ, u18 ghrāṇam/gandhaḥ) darśanam beside rūpam is the sense organ (eye), like sparśana and rasana, which the draft glossed as organs. 'sight' / bare दर्शन (which reads as religious viewing) is inconsistent."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Those belonging to fire (agni) are sight (darśana), form (rūpa), Pitta, heat (ūṣman), digestion (pakti), burning heat (saṃtāpa), intelligence (medhā), colour (varṇa), radiance (bhā), brilliance (tejas) and valour (śaurya).",
+  "new": "Those belonging to fire (agni) are the organ of sight (darśana), form (rūpa), Pitta, heat (ūṣman), digestion (pakti), burning heat (saṃtāpa), intelligence (medhā), colour (varṇa), radiance (bhā), brilliance (tejas) and valour (śaurya).",
+  "why": "reviewer (minor): In the parallel series (u14 śrotram/śabdaḥ, u15 sparśanam/sparśaḥ, u17 rasanam/rasaḥ, u18 ghrāṇam/gandhaḥ) darśanam beside rūpam is the sense organ (eye), like sparśana and rasana, which the draft glossed as organs. 'sight' / bare दर्शन (which reads as religious viewing) is inconsistent."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "अग्नि सम्बन्धी हैं: दर्शन, रूप, पित्त, ऊष्मा यानी गर्मी, पक्ति यानी पाचन, सन्ताप, मेधा, वर्ण यानी रंग, भा यानी दीप्ति, तेज और शौर्य।",
+  "new": "अग्नि सम्बन्धी हैं: दर्शन यानी देखने की इन्द्रिय, रूप, पित्त, ऊष्मा यानी गर्मी, पक्ति यानी पाचन, सन्ताप, मेधा, वर्ण यानी रंग, भा यानी दीप्ति, तेज और शौर्य।",
+  "why": "reviewer (minor): In the parallel series (u14 śrotram/śabdaḥ, u15 sparśanam/sparśaḥ, u17 rasanam/rasaḥ, u18 ghrāṇam/gandhaḥ) darśanam beside rūpam is the sense organ (eye), like sparśana and rasana, which the draft glossed as organs. 'sight' / bare दर्शन (which reads as religious viewing) is inconsistent."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Those born of compatibility (sātmya) are: lifespan (āyus), health (ārogya), absence of laziness, absence of greed, clarity of the sense organs, voice, colour, seed (bīja) and vital essence (ojas), an unclear word (printed saṃpadyaśastanatāḥ), abundance of joy, intelligence (medhā) and strength (bala).",
+  "new": "Those born of compatibility (sātmya) are: lifespan (āyus), health (ārogya), absence of laziness, absence of greed, clarity of the sense organs, voice, colour, seed (bīja, probably semen) and vital essence (ojas), an unclear word (printed saṃpadyaśastanatāḥ), abundance of joy, intelligence (medhā) and strength (bala).",
+  "why": "reviewer (minor): Glossary (p02 ch01 k3): bīja = probably semen. Add hedge in both languages."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "सात्म्य यानी अनुकूलता से उत्पन्न हैं: आयु, आरोग्य, आलस्य का अभाव, लोभ का अभाव, इन्द्रियों की स्वच्छता, स्वर, वर्ण, बीज और ओज, एक अस्पष्ट शब्द संपद्यशस्तनताः, हर्ष की अधिकता, मेधा और बल।",
+  "new": "सात्म्य यानी अनुकूलता से उत्पन्न हैं: आयु, आरोग्य, आलस्य का अभाव, लोभ का अभाव, इन्द्रियों की स्वच्छता, स्वर, वर्ण, बीज यानी सम्भवतः वीर्य और ओज, एक अस्पष्ट शब्द संपद्यशस्तनताः, हर्ष की अधिकता, मेधा और बल।",
+  "why": "reviewer (minor): Glossary (p02 ch01 k3): bīja = probably semen. Add hedge in both languages."
+ },
+ {
+  "n": "25",
+  "field": "text_flags.1.suggest",
+  "old": "krodhaharṣaḥ",
+  "new": "krodho harṣaḥ",
+  "why": "reviewer (minor): The flag's suggestion 'krodhaharṣaḥ' is weaker than the likelier slip: Devanagari क्रोधाहर्षः vs क्रोधो हर्षः differs by one vowel sign (ो/ा), giving two separate items 'anger, excitement/joy' in the rājasa list; 'joylessness' (aharṣa) fits a rājasa list poorly and a singular -ḥ dvandva of two items is odd. Keep printed parse as the draft does, but record the better conjecture."
+ },
+ {
+  "n": "25",
+  "field": "text_flags.1.why",
+  "old": "possible: the long ā is unexplained unless a-harṣa ('absence of joy') is meant; harṣa ('excitement') would also suit a rājasa list; the printed parse is kept",
+  "new": "possible: the Devanagari ो/ा (क्रोधो हर्षः for क्रोधाहर्षः) is a one-stroke misprint, giving two items 'anger' and 'excitement, joy'; the printed parse krodha + aharṣa ('joylessness') is kept in the words and translation and is uncertain",
+  "why": "reviewer (minor): The flag's suggestion 'krodhaharṣaḥ' is weaker than the likelier slip: Devanagari क्रोधाहर्षः vs क्रोधो हर्षः differs by one vowel sign (ो/ा), giving two separate items 'anger, excitement/joy' in the rājasa list; 'joylessness' (aharṣa) fits a rājasa list poorly and a singular -ḥ dvandva of two items is odd. Keep printed parse as the draft does, but record the better conjecture."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "doṣā",
+  "old": "doṣā",
+  "new": "doṣāḥ",
+  "why": "reviewer (minor): Visarga lost before a voiced consonant is regular sandhi; DRAFT_BRIEF rule 1 requires the dictionary form in `w` (as done for tvacaḥ, dhātavaḥ, kūrcāḥ, sīmantāḥ). Restore -āḥ."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "kalā",
+  "old": "kalā",
+  "new": "kalāḥ",
+  "why": "reviewer (minor): Visarga lost before a voiced consonant is regular sandhi; DRAFT_BRIEF rule 1 requires the dictionary form in `w` (as done for tvacaḥ, dhātavaḥ, kūrcāḥ, sīmantāḥ). Restore -āḥ."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "malā",
+  "old": "malā",
+  "new": "malāḥ",
+  "why": "reviewer (minor): Visarga lost before a voiced consonant is regular sandhi; DRAFT_BRIEF rule 1 requires the dictionary form in `w` (as done for tvacaḥ, dhātavaḥ, kūrcāḥ, sīmantāḥ). Restore -āḥ."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "kaṇḍarā",
+  "old": "kaṇḍarā",
+  "new": "kaṇḍarāḥ",
+  "why": "reviewer (minor): Visarga lost before a voiced consonant is regular sandhi; DRAFT_BRIEF rule 1 requires the dictionary form in `w` (as done for tvacaḥ, dhātavaḥ, kūrcāḥ, sīmantāḥ). Restore -āḥ."
+ },
+ {
+  "n": "31",
+  "field": "text_flags.1.suggest",
+  "old": "srotāṃsy agnyūṣmāṇo",
+  "new": "srotāṃsy agnaya ūṣmāṇo",
+  "why": "reviewer (minor): Suggested form 'srotāṃsy agnyūṣmāṇo' is a compound agni-ūṣmāṇaḥ, but `words` give agnayaḥ + ūṣmāṇaḥ, which would be 'srotāṃsy agnaya ūṣmāṇo'. Make the flag match the words."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "त्वचाएँ, कलाएँ यानी सम्भवतः झिल्लियाँ, दोष, धातु, मल, बुद्धीन्द्रियाँ यानी ज्ञान की इन्द्रियाँ और उनके अधिष्ठान, कर्मेन्द्रियाँ, अतीन्द्रिय, आशय, प्राणायतन, कण्डराएँ यानी सम्भवतः टेंडन, जाल, कूर्च, रज्जुक और सीवनियाँ, अस्थिसंघात, सीमन्त, अस्थियाँ, अस्थिसन्धियाँ, स्नायु यानी सम्भवतः स्नायुबन्ध, पेशियाँ यानी मांसपेशियाँ, सिरा यानी सम्भवतः शिराएँ, धमनी यानी सम्भवतः धमनियाँ, स्रोतस् यानी मार्ग, अनुमानित पाठ पर अग्नि और ऊष्माएँ, मर्म यानी प्राण के विशेष स्थान, केश, दाढ़ी-मूँछ और रोम, तथा प्रकृति और विकृति के भेद।",
+  "new": "त्वचाएँ, कलाएँ यानी सम्भवतः झिल्लियाँ, दोष, धातु, मल, बुद्धीन्द्रियाँ यानी ज्ञान की इन्द्रियाँ और उनके अधिष्ठान, कर्मेन्द्रियाँ, अतीन्द्रिय, आशय यानी धारण करने के स्थान, प्राणायतन यानी प्राण के निवास-स्थान, कण्डराएँ यानी सम्भवतः टेंडन, जाल, कूर्च, रज्जुक और सीवनियाँ, अस्थिसंघात, सीमन्त, अस्थियाँ, अस्थिसन्धियाँ, स्नायु यानी सम्भवतः स्नायुबन्ध, पेशियाँ यानी मांसपेशियाँ, सिरा यानी सम्भवतः शिराएँ, धमनी यानी सम्भवतः धमनियाँ, स्रोतस् यानी मार्ग, अनुमानित पाठ पर अग्नि और ऊष्माएँ, मर्म यानी प्राण के विशेष स्थान, केश, दाढ़ी-मूँछ और रोम, तथा प्रकृति और विकृति के भेद।",
+  "why": "reviewer (minor): Bare आशय in Hindi means 'intention'; आशय and प्राणायतन need a plain gloss in the 'यानी' form, matching English 'receptacles' and 'abodes of the life-breath'. Also bare रज्जुक (cord-like structures) has no Hindi gloss (owner optional)."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "उनमें पकते हुए रक्त की छः त्वचाएँ होती हैं, पकते हुए दूध की सन्तानिकाओं यानी मलाई की परतों की तरह।",
+  "new": "उनमें पकते हुए रक्त से छः त्वचाएँ बनती हैं, दूध की सन्तानिकाओं यानी मलाई की परतों की तरह।",
+  "why": "reviewer (error): Hindi attaches 'पकते हुए' to both blood and milk, English only to blood, and the note says kṣīrasya takes pacyamāna: three different readings. pacyamānasya (n.) can agree with asṛjaḥ or kṣīrasya. Align Hindi with English and state the ambiguity in the note."
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "Syntax: 'asṛjaḥ pacyamānasya' may be a genitive ('of the blood being cooked') or an ablative ('from the blood'); 'from' is chosen. The comparison with milk is stated: the skins are like the creamy films of milk being boiled (kṣīrasya is read with pacyamāna by sense).",
+  "new": "Syntax: 'asṛjaḥ pacyamānasya' may be a genitive ('of the blood being cooked') or an ablative ('from the blood'); 'from' is chosen. The comparison with milk is stated: the skins are like the creamy films of milk being boiled (pacyamānasya is taken here with asṛjaḥ; it could instead go with kṣīrasya, 'milk being cooked'; the unit does not settle it).",
+  "why": "reviewer (error): Hindi attaches 'पकते हुए' to both blood and milk, English only to blood, and the note says kṣīrasya takes pacyamāna: three different readings. pacyamānasya (n.) can agree with asṛjaḥ or kṣīrasya. Align Hindi with English and state the ambiguity in the note."
+ },
+ {
+  "n": "33",
+  "field": "lines.0.tokens.0.words",
+  "old": [
+   {
+    "w": "tvak-prasādāt",
+    "gloss": "skin; clarity",
+    "gram": "tat-puruṣa, m. abl. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "tvak-prasādāt",
+    "gloss": "skin; clarity",
+    "gram": "tat-puruṣa, m. abl. sg."
+   },
+   {
+    "w": "raktasya",
+    "gloss": "of blood",
+    "gram": "n. gen. sg."
+   }
+  ],
+  "why": "reviewer (minor): `raktasya` belongs to the first printed token (tvakprasādādraktasya = tvak-prasādāt + raktasya) but sits under the token `prasādaḥ`; token 1 is left incomplete. Move it."
+ },
+ {
+  "n": "33",
+  "field": "lines.0.tokens.1.words",
+  "old": [
+   {
+    "w": "raktasya",
+    "gloss": "of blood",
+    "gram": "n. gen. sg."
+   },
+   {
+    "w": "prasādaḥ",
+    "gloss": "clarity, purity",
+    "gram": "m. nom. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "prasādaḥ",
+    "gloss": "clarity, purity",
+    "gram": "m. nom. sg."
+   }
+  ],
+  "why": "reviewer (minor): `raktasya` belongs to the first printed token (tvakprasādādraktasya = tvak-prasādāt + raktasya) but sits under the token `prasādaḥ`; token 1 is left incomplete. Move it."
+ }
+]
