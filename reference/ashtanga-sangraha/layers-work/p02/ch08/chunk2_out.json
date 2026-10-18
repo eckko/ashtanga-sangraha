@@ -1,0 +1,2682 @@
+[
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmādviparītaguṇena",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "viparīta-guṇena",
+        "gloss": "opposite; quality (viparīta-guṇa: having opposite qualities)",
+        "gram": "bahuvrīhi, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhinā",
+      "words": [
+       {
+        "w": "vidhinā",
+        "gloss": "by method, procedure",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣopakramaṇīyoktena",
+      "words": [
+       {
+        "w": "doṣa-upakramaṇīya-uktena",
+        "gloss": "doṣa; treatment (upakramaṇīya; probably a chapter title); stated",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tānupācaret",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. √car (upa-ā)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए उनका उपचार विपरीत गुणों वाली उस विधि से करना चाहिए जो दोषोपक्रमणीय में कही गई है।",
+  "english": "Therefore one should treat them with a method of opposite qualities, as stated in the Doṣopakramaṇīya (the treatment of the doṣas).",
+  "text_flags": [],
+  "notes": "The antecedent of 'tān' (them) is not in this unit; it is read as the constitutions (prakṛti) of the preceding units. 'doṣopakramaṇīya' is probably the title of an earlier chapter on the treatment of the doṣas (probable); read as a locative-sense 'stated in the ...'. upācaret is 'one should treat / apply treatment to'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "semaṃ",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "balanced (one) (sama: balanced, equal)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvarasena",
+      "words": [
+       {
+        "w": "sarva-rasena",
+        "gloss": "all; taste (rasa)",
+        "gram": "bahuvrīhi, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sātmyenānyāṃśca",
+      "words": [
+       {
+        "w": "sātmyena",
+        "gloss": "with what is suited (sātmya: suited by habit)",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and, also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathartuvihitena",
+      "words": [
+       {
+        "w": "yathā-ṛtu-vihitena",
+        "gloss": "according to; season (ṛtu); prescribed",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and, also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: सम को सभी रसों से और सात्म्य से, और दूसरों को ऋतु के अनुसार विहित से भी।",
+  "english": "On a conjectural reading: the balanced (one) with all tastes (rasa) and with what is suited (sātmya); and the others also with what is prescribed according to the season.",
+  "text_flags": [
+   {
+    "src": "semaṃ",
+    "suggest": "samaṃ",
+    "why": "possible: 'semaṃ' is not a word; 'samam' (balanced, as in samadoṣaprakṛti of unit 34 and sama prakṛti of 40/42) fits; e/a confusion"
+   }
+  ],
+  "notes": "Elliptical: the verb is carried from 38 (upācaret, 'one should treat'); the translation supplies none. The printed 'semaṃ' is read as 'samam' on a conjectural reading; 'samam' could also be the adverb 'equally'. 'sarva-rasena' is read as 'with all tastes' (a regimen of all six tastes is not stated; only the instrumental is given); the thing applied is not named, so no noun is added. 'anyāṃś ca' (and the others) taken with 'yathartuvihitena' ('prescribed according to the season'); the first ca joins 'others', the second joins the two halves. Reading and syntax are uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "doṣavacca",
+      "words": [
+       {
+        "w": "doṣa-vat",
+        "gloss": "like the doṣas",
+        "gram": "ind. (-vat)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇairapi",
+      "words": [
+       {
+        "w": "guṇaiḥ",
+        "gloss": "by qualities",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sattvādibhiḥ",
+      "words": [
+       {
+        "w": "sattva-ādibhiḥ",
+        "gloss": "sattva (mind; standard); and so on",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sama",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num. adj."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtayo",
+      "words": [
+       {
+        "w": "prakṛtayaḥ",
+        "gloss": "constitutions (prakṛti)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are, arise",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: दोषों के समान ही, सत्त्व आदि गुणों से भी सात प्रकृतियाँ होती हैं।",
+  "english": "On a conjectural reading: like the doṣas, and also by the qualities beginning with sattva, there are seven constitutions (prakṛti).",
+  "text_flags": [
+   {
+    "src": "sama",
+    "suggest": "sapta",
+    "why": "possible but well supported: 'sama' leaves 'prakṛtayaḥ' without a number; unit 42 lists seven bases (jāti, kula, deśa, kāla, vaya, bala, pratyātma) and unit 43 has 'saptādīnām'; pta/ma is a known OCR confusion in this scan"
+   }
+  ],
+  "notes": "Read as 'sapta prakṛtayaḥ' on a conjectural reading (see text_flag); the alternative 'samāḥ prakṛtayaḥ' would give 'the constitutions are balanced', which fits neither the context (units 31-37 list single, dual and balanced constitutions) nor 43. prakṛti kept as 'constitution' (the doctrinal term). 'doṣavat' = 'like the doṣas' (suffix -vat); read as 'as with the doṣas, so with the guṇas'. sattva = mind (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāstadabhinivṛttaireva",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "them",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "tad-abhinivṛttaiḥ",
+        "gloss": "from them; arisen, produced",
+        "gram": "tat-puruṣa, n. inst. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathoktaiḥ",
+      "words": [
+       {
+        "w": "yathā-uktaiḥ",
+        "gloss": "as stated",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaucādibhirjānīyāt",
+      "words": [
+       {
+        "w": "śauca-ādibhiḥ",
+        "gloss": "cleanliness (śauca); and so on",
+        "gram": "bahuvrīhi, n. inst. pl."
+       },
+       {
+        "w": "jānīyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √jñā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन्हें केवल उन्हीं से उत्पन्न, जैसा कहा गया है, शौच आदि से जानना चाहिए।",
+  "english": "One should know them only by what has arisen from them, as stated, by cleanliness (śauca) and the like.",
+  "text_flags": [],
+  "notes": "Several lines in the chunk start 'tāḥ' = the constitutions (prakṛti, f. pl.) of 40, antecedent assumed. 'tad-abhinivṛtta' = produced from it/them, read as 'the (features) produced from them' (noun unstated, so none is added). Sandhi: tāḥ+tad > tās tad; abhinivṛttair+eva; śaucādibhir+jānīyāt (regular).",
+  "confidence": "medium"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sama",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num. adj."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtayojātikuladeśakālavayobalapratyātmasaṃśrayāḥ",
+      "words": [
+       {
+        "w": "prakṛtayaḥ",
+        "gloss": "constitutions (prakṛti)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "jāti-kula-deśa-kāla-vayas-bala-pratyātma-saṃśrayāḥ",
+        "gloss": "birth-class (jāti); family; region; time; age; strength; each individual; basis, support",
+        "gram": "dvandva + bahuvrīhi, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: उसी प्रकार फिर सात प्रकृतियाँ जाति, कुल, देश, काल, वय, बल और प्रत्येक आत्मा पर आश्रित हैं।",
+  "english": "On a conjectural reading: likewise, again, the seven constitutions (prakṛti) are based on birth-class (jāti), family, region, time, age, strength, and each individual.",
+  "text_flags": [
+   {
+    "src": "sama",
+    "suggest": "sapta",
+    "why": "possible but well supported: seven bases are listed in this very unit; 'saptādīnām' in 43; pta/ma OCR confusion (see unit 40)"
+   }
+  ],
+  "notes": "Copula understood (verbless unit); 'are' supplied in the translation. 'saṃśraya' = basis, resting on; 'pratyātma' = in each self / each individual. 'jāti' could be caste, species or birth-class; 'birth-class' used. prakṛtayaḥ+jāti is regular sandhi (prakṛtayo jāti). Seven items in the compound match 'sapta'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛśyaṃte",
+      "words": [
+       {
+        "w": "dṛśyante",
+        "gloss": "are seen",
+        "gram": "3 pl. pres. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣāṇāṃjātyādiniyatāste",
+      "words": [
+       {
+        "w": "puruṣāṇām",
+        "gloss": "among men",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "jāti-ādi-niyatāḥ",
+        "gloss": "birth-class (jāti); and so on; fixed, determined",
+        "gram": "tat-puruṣa, m. nom. pl."
+       },
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāvaviśeṣāḥ",
+      "words": [
+       {
+        "w": "bhāva-viśeṣāḥ",
+        "gloss": "states, conditions (bhāva); particular kinds",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saptādīnāṃ",
+      "words": [
+       {
+        "w": "sapta-ādīnām",
+        "gloss": "seven; and so on",
+        "gram": "bahuvrīhi, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taratamayogāccharīraviśeṣebhyaścānyānuvidhānatvācca",
+      "words": [
+       {
+        "w": "tara-tama-yogāt",
+        "gloss": "more; most; combination",
+        "gram": "dvandva, m. abl. sg."
+       },
+       {
+        "w": "śarīra-viśeṣebhyaḥ",
+        "gloss": "body; differences",
+        "gram": "tat-puruṣa, m. abl. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anya-anuvidhāna-tvāt",
+        "gloss": "other; conformity, following; the state of",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhedāgramasaṃkhyeyaṃ",
+      "words": [
+       {
+        "w": "bheda-agram",
+        "gloss": "varieties; extent, total (agra)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "asaṃkhyeyam",
+        "gloss": "countless",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि पुरुषों में जाति आदि से निश्चित वे-वे भाव-विशेष दिखाई देते हैं; और सात आदि के कम-अधिक योग से, शरीर की विशेषताओं से और दूसरे के अनुसरण के कारण भेदों का कुल विस्तार अगणित हो जाता है।",
+  "english": "For among men are seen those various particular states (bhāva) determined by birth-class (jāti) and the rest; and by the more-and-most degrees of combination of the seven and others, by differences of body, and because of conformity to another, the total extent of the varieties becomes countless.",
+  "text_flags": [],
+  "notes": "Printed spacing 'puruṣāṇāṃjātyādi' (no space) is only a spacing habit. 'te te' = 'those several / each of those'. 'saptādīnām' = of the seven and the rest (the seven constitutions of 42 and, probably, the combinations); 'taratama-yoga' = combination by degrees of more and most. 'anyānuvidhānatva' = 'the state of conforming to another' (see 44: body and sattva conform to each other). 'bhedāgram' = 'bheda-agram', taken as 'the total/extent of varieties' (agra read as extent); this word is the least sure. The long ablative series gives reasons for 'countless'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarīramapi",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sattvādīnanuvidhīyate",
+      "words": [
+       {
+        "w": "sattva-ādīn",
+        "gloss": "sattva (mind; standard); and so on",
+        "gram": "bahuvrīhi, m. acc. pl."
+       },
+       {
+        "w": "anuvidhīyate",
+        "gloss": "conforms to, follows",
+        "gram": "3 sg. pres. pass./mid. √dhā (anu-vi), used with acc."
+       }
+      ]
+     },
+     {
+      "src": "sattvādayo'pi",
+      "words": [
+       {
+        "w": "sattva-ādayaḥ",
+        "gloss": "sattva (mind); and so on",
+        "gram": "bahuvrīhi, m. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sattvāyasaṃkhyeyabhedavaśācca",
+      "words": [
+       {
+        "w": "sattva-ādi-asaṃkhyeya-bheda-vaśāt",
+        "gloss": "sattva; and so on; countless; varieties; power, influence",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rūpasvaracaritānukaraṇamapyanekaśabdavācyamasaṃkhyabhedaṃbhavati",
+      "words": [
+       {
+        "w": "rūpa-svara-carita-anukaraṇam",
+        "gloss": "form; voice; conduct; imitation",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "aneka-śabda-vācyam",
+        "gloss": "many; words; expressible",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "asaṃkhya-bhedam",
+        "gloss": "countless; varieties",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरीर भी सत्त्व आदि का अनुसरण करता है और सत्त्व आदि भी शरीर का; और अनुमानित पाठ पर, सत्त्व आदि के अगणित भेदों के प्रभाव से रूप, स्वर और आचरण की नकल भी, जो अनेक शब्दों से कही जाती है, अगणित भेदों वाली हो जाती है।",
+  "english": "The body also conforms to sattva (mind) and the rest, and sattva and the rest also conform to the body; and, on a conjectural reading, by the influence of the countless varieties of sattva and the rest, the imitation of form, voice and conduct as well, which is expressible by many words, becomes of countless varieties.",
+  "text_flags": [
+   {
+    "src": "sattvāyasaṃkhyeyabhedavaśācca",
+    "suggest": "sattvādyasaṃkhyeyabhedavaśācca",
+    "why": "possible: 'sattvāya-' is not a word; 'sattvādi-' / 'sattvādy-' (as in the two earlier phrases of this unit) with 'asaṃkhyeya' gives the sense; d dropped"
+   }
+  ],
+  "notes": "'anuvidhīyate' is passive in form but takes the accusative (sattvādīn) and is read as 'conforms to'; the second clause has the object 'śarīram' for 'sattvādayaḥ' with the same verb understood. The emendation 'sattvādy-asaṃkhyeya-' (flagged) is conjectural; the word 'sattvāya' is otherwise unclear. 'aneka-śabda-vācya' = 'expressible by many words'. Spacing 'bhedaṃbhavati' is a printed joining only.",
+  "confidence": "low"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadāveśastvanaṃtarajanmābhyāsavāsa",
+      "words": [
+       {
+        "w": "tad-āveśaḥ",
+        "gloss": "that; entry, absorption (āveśa)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "anantara-janma-abhyāsa-vāsanayā",
+        "gloss": "immediately preceding; birth; practice; latent impression (vāsanā)",
+        "gram": "tat-puruṣa, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nayā",
+      "words": [
+       {
+        "w": "nayā",
+        "gloss": "(second half of vāsanayā, printed apart)",
+        "gram": "part of f. inst. sg. vāsanayā"
+       }
+      ]
+     },
+     {
+      "src": "janyate",
+      "words": [
+       {
+        "w": "janyate",
+        "gloss": "is produced",
+        "gram": "3 sg. pres. pass. √jan"
+       }
+      ]
+     },
+     {
+      "src": "tasmādevamānuṣatiryakpretanārakāṇāṃ",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. abl."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       },
+       {
+        "w": "mānuṣa-tiryak-preta-nārakāṇām",
+        "gloss": "human; animal; departed spirit (preta); inhabitant of hell (nāraka)",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tattadviśeṣāṇāṃ",
+      "words": [
+       {
+        "w": "tat-tat-viśeṣāṇām",
+        "gloss": "each such; particular kinds",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathāyathamevānūkaṃ",
+      "words": [
+       {
+        "w": "yathā-yatham",
+        "gloss": "accordingly",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "anūkam",
+        "gloss": "anūka (meaning uncertain; possibly lineage or inherited trait)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasyānvīkṣeta",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of the person",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "anvīkṣeta",
+        "gloss": "should examine",
+        "gram": "3 sg. opt. mid. √īkṣ (anu)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु उसमें प्रवेश तुरन्त पिछले जन्म के अभ्यास के संस्कार से उत्पन्न होता है। इसीलिए मनुष्य, तिर्यक् यानी पशु-पक्षी, प्रेत और नारकी जीवों के, और उनके उन-उन विशेष भेदों के भी, पुरुष के अनूक को, जिसका अर्थ निश्चित नहीं है, यथोचित रूप से ही देखना चाहिए।",
+  "english": "But the entry into that (tad-āveśa) is produced by the latent impression (vāsanā) of practice in the immediately preceding birth. For that very reason one should examine, accordingly, the anūka (meaning uncertain) of the person, of humans, animals (tiryak), departed spirits (preta) and hell-beings (nāraka), and of their various particular kinds.",
+  "text_flags": [
+   {
+    "src": "vāsa nayā",
+    "suggest": "vāsanayā",
+    "why": "spacing error: a space was printed inside the word vāsanayā (instrumental of vāsanā)"
+   }
+  ],
+  "notes": "The printed space inside 'vāsa nayā' is a spacing error; the restored word 'vāsanayā' is given under the first token and 'nayā' marks its second half. 'tasmād eva mānuṣa-...' is read 'tasmāt eva' + 'mānuṣa' (the printed 'tasmādevamānuṣa' could also be 'tasmād evaṃ ānuṣa-', but 'ānuṣa' is no word). 'anūka' is uncertain: dictionaries give 'lineage, family' and 'backbone'; read tentatively as an inherited/lineal trait, and left as 'anūka' in the translations; 'puruṣasya' (of the person) and the genitive list of beings are joined loosely. 'tad-āveśa' read as 'the entering into that (state)'. Tiryak = animals (standard); preta = departed spirit; nāraka = being in hell. The sense of the whole unit is not firm.",
+  "confidence": "low"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vayastrividhaṃ",
+      "words": [
+       {
+        "w": "vayaḥ",
+        "gloss": "age, stage of life",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tri-vidham",
+        "gloss": "threefold",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bālaṃ",
+      "words": [
+       {
+        "w": "bālam",
+        "gloss": "young (age); childhood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyaṃ",
+      "words": [
+       {
+        "w": "madhyam",
+        "gloss": "middle (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhaṃ",
+      "words": [
+       {
+        "w": "vṛddham",
+        "gloss": "old (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वय तीन प्रकार का है: बाल, मध्य और वृद्ध।",
+  "english": "Age (vayas) is threefold: young (bāla), middle (madhya) and old (vṛddha).",
+  "text_flags": [],
+  "notes": "Copula understood. 'bāla', 'madhya', 'vṛddha' are neuter adjectives standing for the age-stages (childhood, middle age, old age); the following units give the limits. 'madhyam' (not madhyamam) is as printed and is a regular neuter form.",
+  "confidence": "high"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāṣoḍaśādvarṣādbālaṃ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "of these, there",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣoḍaśāt",
+        "gloss": "sixteenth",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "varṣāt",
+        "gloss": "year",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "bālam",
+        "gloss": "young (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें सोलहवें वर्ष तक बाल है।",
+  "english": "Of these, up to the sixteenth year (is) the young (age).",
+  "text_flags": [],
+  "notes": "Copula understood (verbless unit). Whether the sixteenth year is included is not stated ('ā' with the ablative is usually 'up to'); the translation keeps 'up to the sixteenth year'.",
+  "confidence": "high"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āṣaṣṭermadhyamaṃ",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṣṭeḥ",
+        "gloss": "sixty",
+        "gram": "f. abl. sg."
+       },
+       {
+        "w": "madhyamam",
+        "gloss": "middle (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then, after that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhaṃ",
+      "words": [
+       {
+        "w": "vṛddham",
+        "gloss": "old (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साठ तक मध्य; उसके बाद वृद्ध।",
+  "english": "Up to sixty, the middle (age); after that, the old (age).",
+  "text_flags": [],
+  "notes": "Copula understood. The unit of count (years) is not repeated here; it is carried from the previous unit (varṣāt) and no word is added in the translation. Sandhi: ā+ṣaṣṭeḥ+madhyamam.",
+  "confidence": "high"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣvapi",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "among these",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stanyāhārobhayavṛttyā",
+      "words": [
+       {
+        "w": "stanya-āhāra-ubhaya-vṛttyā",
+        "gloss": "breast-milk; food; both; mode of living, subsistence",
+        "gram": "dvandva + tat-puruṣa, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bālaṃtrividhaṃ",
+      "words": [
+       {
+        "w": "bālam",
+        "gloss": "young (age)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tri-vidham",
+        "gloss": "threefold",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें भी बाल अवस्था स्तन्य, आहार और दोनों की वृत्ति से तीन प्रकार की है।",
+  "english": "Among these also, the young (age) is threefold by mode of living: on breast-milk, on food, and on both.",
+  "text_flags": [],
+  "notes": "Copula understood. 'ubhaya' = 'both' (breast-milk and food together); the three kinds are not named in the text. Printed 'bālaṃtrividhaṃ' is a joining of two words only (bālam trividham). Dvandva read as stanya, āhāra, ubhaya.",
+  "confidence": "high"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmin",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in it",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehapramāṇavṛddhiḥ",
+      "words": [
+       {
+        "w": "deha-pramāṇa-vṛddhiḥ",
+        "gloss": "body; measure, size; growth",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śleṣmodrekaśca",
+      "words": [
+       {
+        "w": "śleṣma-udrekaḥ",
+        "gloss": "śleṣman (phlegm, Kapha; standard); predominance",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें शरीर के परिमाण की वृद्धि और श्लेष्मा यानी कफ की अधिकता।",
+  "english": "In it: growth in the size of the body, and predominance of śleṣman (phlegm, Kapha).",
+  "text_flags": [],
+  "notes": "Verbless; no verb added. 'tasmin' = in the young age. śleṣman (phlegm) is used here as the name of Kapha (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that, because of that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bālasyasnehamārdavasaukumāryālpakrodhatvasaubhāgyāni",
+      "words": [
+       {
+        "w": "bālasya",
+        "gloss": "of the young (age)",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "sneha-mārdava-saukumārya-alpa-krodha-tva-saubhāgyāni",
+        "gloss": "unctuousness (sneha; or affection); softness; delicacy; little; anger; the state of; good fortune",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "arise, there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे बाल अवस्था में स्नेह यानी चिकनापन, कोमलता, सुकुमारता, अल्प क्रोध और सौभाग्य होते हैं।",
+  "english": "Because of that, in the young (age) there are unctuousness (sneha), softness, delicacy, little anger and good fortune (saubhāgya).",
+  "text_flags": [],
+  "notes": "'sneha' is ambiguous: bodily unctuousness (taken here, as the effect of Kapha predominance in 50) or affection. 'saubhāgya' = good fortune (also charm, being loved). The compound ends 'alpa-krodha-tva' = 'smallness of anger'. Case of 'bālasya' read as 'in the young (age)' (genitive of the stage).",
+  "confidence": "medium"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhyamapi",
+      "words": [
+       {
+        "w": "madhyam",
+        "gloss": "middle (age)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trividhaṃ",
+      "words": [
+       {
+        "w": "tri-vidham",
+        "gloss": "threefold",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yauvanaṃ",
+      "words": [
+       {
+        "w": "yauvanam",
+        "gloss": "youth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpūrṇatvamaparihāniśca",
+      "words": [
+       {
+        "w": "sampūrṇa-tvam",
+        "gloss": "fullness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aparihāniḥ",
+        "gloss": "non-decline",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मध्य भी तीन प्रकार का है: यौवन, सम्पूर्णता और अपरिहानि।",
+  "english": "The middle (age) also is threefold: youth (yauvana), fullness, and non-decline.",
+  "text_flags": [
+   {
+    "src": "madhyamapi",
+    "suggest": "madhyamam api",
+    "why": "possible: the neuter nominative elsewhere in this chapter is 'madhyamam' (unit 48); 'madhyam api' is also grammatical, so only a suspicion"
+   }
+  ],
+  "notes": "Copula understood. The three stages are named only; their limits are given in 54. Spelling 'madhyamapi' = 'madhyam' + 'api' or a dropped 'ma' of 'madhyamam api'; the sense is the same.",
+  "confidence": "high"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmin",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in it",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittodrekaḥ",
+      "words": [
+       {
+        "w": "pitta-udrekaḥ",
+        "gloss": "Pitta; predominance",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tenadīptāgnitā",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "dīpta-agni-tā",
+        "gloss": "kindled; digestive fire (agni); the state of",
+        "gram": "bahuvrīhi + abstract, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajñādhikyaparipākau",
+      "words": [
+       {
+        "w": "prajñā-ādhikya-paripākau",
+        "gloss": "understanding (prajñā); abundance; ripening, maturity",
+        "gram": "dvandva/tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vyavasāyaśca",
+      "words": [
+       {
+        "w": "vyavasāyaḥ",
+        "gloss": "determination, resolve",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें पित्त की अधिकता; उससे अग्नि की प्रदीप्त अवस्था, प्रज्ञा की अधिकता, परिपाक और व्यवसाय यानी दृढ़ निश्चय।",
+  "english": "In it: predominance of Pitta; because of that, a kindled state of the digestive fire (agni), abundance of understanding (prajñā) and ripening, and determination (vyavasāya).",
+  "text_flags": [],
+  "notes": "Verbless; no verb added. 'prajñādhikyaparipākau' is dual: 'abundance of prajñā' and 'paripāka', read as 'abundance of understanding, and ripening (maturity)'; paripāka could also mean digestion, the sense is not fixed. The tā-compound dīptāgnitā means the state of having a kindled agni. The printed 'tenadīptāgnitā' joins two words.",
+  "confidence": "medium"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrātriṃśato",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "of these, there",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       },
+       {
+        "w": "triṃśataḥ",
+        "gloss": "thirty",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "yauvanamācatvāriṃśataḥ",
+      "words": [
+       {
+        "w": "yauvanam",
+        "gloss": "youth",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       },
+       {
+        "w": "catvāriṃśataḥ",
+        "gloss": "forty",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvadhātviṃdriyabalavīryapauruṣasmaraṇavacanavijñānapraśnayaguṇasaṃpūrṇatvamataḥ",
+      "words": [
+       {
+        "w": "sarva-dhātu-indriya-bala-vīrya-pauruṣa-smaraṇa-vacana-vijñāna-praśraya-guṇa-sampūrṇa-tvam",
+        "gloss": "all; dhātu; sense-organ (indriya); strength; vigour (vīrya); manliness (pauruṣa); memory; speech; knowledge (vijñāna); humility (praśraya); qualities; fullness; the state of",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "from here, thereafter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paramaparihāniḥ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "after",
+        "gram": "ind."
+       },
+       {
+        "w": "aparihāniḥ",
+        "gloss": "non-decline",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें तीस तक यौवन; चालीस तक सभी धातु, इन्द्रिय, बल, वीर्य यानी शक्ति, पौरुष, स्मरण, वचन, विज्ञान और अनुमानित पाठ पर विनय के गुणों की पूर्णता; इसके बाद अपरिहानि।",
+  "english": "Of these, up to thirty, youth; up to forty, fullness in the qualities of all the dhātus, the sense-organs, strength, vigour (vīrya), manliness (pauruṣa), memory, speech, knowledge (vijñāna) and, on a conjectural reading, humility (praśraya); after this, non-decline.",
+  "text_flags": [
+   {
+    "src": "sarvadhātviṃdriyabalavīryapauruṣasmaraṇavacanavijñānapraśnayaguṇasaṃpūrṇatvamataḥ",
+    "suggest": "…vijñānapraśrayaguṇasaṃpūrṇatvam ataḥ",
+    "why": "possible: 'praśnaya' is not a word; 'praśraya' (humility, modesty) fits the list of qualities; n/r confusion"
+   }
+  ],
+  "notes": "Verbless; no verb added (copula understood). 'ā triṃśataḥ' = up to thirty, 'ā catvāriṃśataḥ' = up to forty. 'ataḥ param' = 'after this'; the end of the non-decline stage is given in 48 (sixty). The dvandva list read as the qualities of all dhātus, sense-organs, strength, vīrya, pauruṣa, smaraṇa, vacana, vijñāna, praśraya; 'vīrya' = vigour (not semen) beside bala; the exact scope of 'guṇa' is the commentator's. 'praśnaya' emended to 'praśraya' (flagged), so the last member is conjectural. Printed dhātviṃdriya = dhātu-indriya (regular sandhi).",
+  "confidence": "medium"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛddhaṃ",
+      "words": [
+       {
+        "w": "vṛddham",
+        "gloss": "old (age)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śvaḥ",
+      "words": [
+       {
+        "w": "śvaḥ",
+        "gloss": "tomorrow",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śvaḥ",
+      "words": [
+       {
+        "w": "śvaḥ",
+        "gloss": "tomorrow",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīyamāṇadhātviṃdriyādiguṇaṃ",
+      "words": [
+       {
+        "w": "kṣīyamāṇa-dhātu-indriya-ādi-guṇam",
+        "gloss": "wasting; dhātu; sense-organ; and so on; qualities",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "valīkhalitakāsaśvāsāgnisādādibhirabhibhūyamānaṃ",
+      "words": [
+       {
+        "w": "valī-khalita-kāsa-śvāsa-agni-sāda-ādibhiḥ",
+        "gloss": "wrinkle (valī); baldness (khalita; probable); cough (kāsa); breathlessness (śvāsa); digestive fire (agni); sinking, weakness (sāda); and so on",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "abhibhūyamānam",
+        "gloss": "being overcome",
+        "gram": "pres. pass. part. √bhū (abhi), n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīrṇaṃ",
+      "words": [
+       {
+        "w": "jīrṇam",
+        "gloss": "old, decayed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavanamivābhivṛṣṭamavasīdati",
+      "words": [
+       {
+        "w": "bhavanam",
+        "gloss": "house",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "abhivṛṣṭam",
+        "gloss": "rained upon",
+        "gram": "ppp. √vṛṣ (abhi), n. nom. sg."
+       },
+       {
+        "w": "avasīdati",
+        "gloss": "sinks down, collapses",
+        "gram": "3 sg. pres. √sad (ava)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वृद्ध अवस्था, परन्तु, दिन-प्रतिदिन धातु, इन्द्रिय आदि के गुणों के क्षीण होते जाने वाली, झुर्रियों, खलति यानी गंजापन, खाँसी, श्वास यानी साँस फूलना, अग्नि की मन्दता आदि से दबाई जाती हुई, वर्षा से भीगे पुराने घर की तरह बैठ जाती है।",
+  "english": "The old (age), however, with the qualities of the dhātus, sense-organs and the rest wasting day after day, overcome by wrinkles, baldness (khalita), cough, breathlessness (śvāsa), weakness of the digestive fire (agni) and the like, sinks down like an old house rained upon.",
+  "text_flags": [],
+  "notes": "'śvaḥ śvaḥ' (tomorrow, tomorrow) = day after day. 'jīrṇa' is read as 'old, decayed' (it qualifies bhavana), not 'digested'. 'khalita' = baldness (probable; the word can also mean stumbling). 'agnisāda' = sinking or weakness of the agni. The old age (vṛddham) is the subject of 'avasīdati'; 'jīrṇaṃ bhavanam iva abhivṛṣṭam' is the simile (neuter nominative). The case of 'abhibhūyamānam' and of 'kṣīyamāṇa...guṇam' (bahuvrīhi qualifying the age) is read from the form. Modern equivalents: valī = wrinkles, kāsa = cough, śvāsa = breathlessness (all standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasminmārutodrekaḥ",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in it",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "māruta-udrekaḥ",
+        "gloss": "māruta (wind, Vāta; standard); predominance",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ślathāsāramāṃsasaṃdhyasthitā",
+      "words": [
+       {
+        "w": "ślatha-asāra-māṃsa-sandhi-asthi-tā",
+        "gloss": "loose; sapless, lacking essence; flesh; joints; bones; the state of",
+        "gram": "dvandva + abstract, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvakpāruṣyamavanāmaḥ",
+      "words": [
+       {
+        "w": "tvak-pāruṣyam",
+        "gloss": "skin; roughness",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "avanāmaḥ",
+        "gloss": "stooping, bending down",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāyasya",
+      "words": [
+       {
+        "w": "kāyasya",
+        "gloss": "of the body",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vepathuḥ",
+      "words": [
+       {
+        "w": "vepathuḥ",
+        "gloss": "trembling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāsaśvāsaśleṣmasiṃghāṇakodīraṇaṃ",
+      "words": [
+       {
+        "w": "kāsa-śvāsa-śleṣma-siṃghāṇaka-udīraṇam",
+        "gloss": "cough (kāsa); breathlessness (śvāsa); phlegm (śleṣman); nasal mucus (siṃghāṇaka); bringing up, expulsion",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhātukṣayaśca",
+      "words": [
+       {
+        "w": "dhātu-kṣayaḥ",
+        "gloss": "dhātu; wasting",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें मारुत यानी वात की अधिकता; उससे मांस, सन्धियों और अस्थियों की शिथिलता और सारहीनता, त्वचा की रूखाई, शरीर का झुक जाना, कम्पन, खाँसी, श्वास यानी साँस फूलना, श्लेष्मा और सिंघाणक यानी नाक के मल का निकलना, और धातुओं का क्षय।",
+  "english": "In it: predominance of māruta (wind; Vāta). Because of that: looseness and lack of essence in the flesh, joints and bones, roughness of the skin, stooping of the body, trembling, cough, breathlessness (śvāsa), the bringing up of phlegm (śleṣman) and nasal mucus (siṃghāṇaka), and wasting of the dhātus.",
+  "text_flags": [],
+  "notes": "Verbless; no verb added. 'māruta' = wind, a name of Vāta (standard). 'ślathāsāramāṃsasaṃdhyasthitā' is read as 'ślatha-asāra-māṃsa-sandhi-asthi-tā' (the state of the flesh, joints and bones being loose and sapless); the alternative parse '...sandhi-a-sthitā' (instability) is possible and the split is uncertain. 'siṃghāṇaka' = nasal mucus (standard). The compound 'kāsa-śvāsa-śleṣma-siṃghāṇaka-udīraṇa' may be read as cough and breathlessness together with the bringing up of phlegm and mucus; the translation keeps the list. Modern equivalents: vepathu = tremor; asāra = lacking essence (sāra).",
+  "confidence": "medium"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "punarāhuḥ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, however",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे लोग फिर कहते हैं:",
+  "english": "Others, however, say:",
+  "text_flags": [],
+  "notes": "Introduces the view of 'others' stated in the next units (58-59); 'punar' = again/however. The next verse lines appear to be what they say.",
+  "confidence": "high"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bālyevṛddhiḥ",
+      "words": [
+       {
+        "w": "bālye",
+        "gloss": "in childhood",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "growth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhāmedhātvakśukrākṣiśrutīṃdriyaṃ",
+      "words": [
+       {
+        "w": "prabhā-medhā-tvak-śukra-akṣi-śruti-indriyam",
+        "gloss": "lustre (prabhā); intelligence (medhā); skin (tvak); semen (śukra; standard); eye (akṣi); hearing (śruti); sense-organ (indriya)",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बाल्यावस्था में वृद्धि; प्रभा, मेधा, त्वचा, शुक्र यानी वीर्य, आँख और श्रुति इन्द्रिय।",
+  "english": "In childhood, growth; lustre, intelligence, skin, semen (śukra), eye and the faculty of hearing.",
+  "text_flags": [
+   {
+    "src": "bālyevṛddhiḥ",
+    "suggest": "bālyaṃ vṛddhiḥ",
+    "why": "possible, not adopted: as printed 'bālye vṛddhiḥ' is grammatical (in childhood, growth); but a list of ten items for 'daśakeṣu' (59) would need 'bālyam' as an item (childhood, growth, lustre, intelligence, skin, semen, eye, hearing, mind, all sense-organs)"
+   }
+  ],
+  "notes": "GROUPING: 58 and 59 appear to be the two halves of one verse; the sense of the pair is not firm. The printed reading is kept (bālye, 'in childhood'). With the alternative 'bālyam vṛddhiḥ ...' the pair would list ten items (childhood, growth, lustre, intelligence, skin, semen, eye, hearing, mind, all sense-organs) against ten decades (daśakeṣu) of 59, which is a good argument for it, but the translation follows the print. 'śruti-indriya' = the faculty of hearing (śruti, hearing). 'prabhā' = lustre/radiance; 'medhā' = intelligence. Verbless; the verb is in 59 (yānti). Modern equivalent: śukra = semen (standard).",
+  "confidence": "low"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daśakeṣu",
+      "words": [
+       {
+        "w": "daśakeṣu",
+        "gloss": "in the decades",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kramādyāṃti",
+      "words": [
+       {
+        "w": "kramāt",
+        "gloss": "in order, successively",
+        "gram": "m. abl. sg. (adv.)"
+       },
+       {
+        "w": "yānti",
+        "gloss": "go",
+        "gram": "3 pl. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "manaḥsarvedriyāṇi",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "sarva-indriyāṇi",
+        "gloss": "all; sense-organs",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दशकों में क्रम से मन और सभी इन्द्रियाँ जाती हैं।",
+  "english": "In the decades, in order, go the mind and all the sense-organs.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 58 (the verb 'yānti' governs the items of 58 as well, on a possible reading), but this is not stated. 'yānti' = 'go'; whether it means 'depart/decline' or 'proceed/arrive' is not stated by the Sanskrit, so only 'go' is given. The verb is plural and 'manaḥ' singular (the plural verb also fits the list of 58). 'daśaka' = a group of ten (years), i.e. a decade; the word 'years' is not in the Sanskrit.",
+  "confidence": "low"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṣaśatamāyuṣaḥ",
+      "words": [
+       {
+        "w": "varṣa-śatam",
+        "gloss": "a hundred years",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramāṇaṃ",
+      "words": [
+       {
+        "w": "pramāṇam",
+        "gloss": "measure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सौ वर्ष आयु का प्रमाण है।",
+  "english": "Thus a hundred years is the measure of life.",
+  "text_flags": [],
+  "notes": "Copula understood; 'is' supplied in the translation.",
+  "confidence": "high"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asminkāle",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "kāle",
+        "gloss": "time, age",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃtipunaḥ",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       },
+       {
+        "w": "punaḥ",
+        "gloss": "however, again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmaviśeṣādanādhikavarṣaśatajīvino",
+      "words": [
+       {
+        "w": "karma-viśeṣāt",
+        "gloss": "action (karma); particular, special",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "an-adhika-varṣa-śata-jīvinaḥ",
+        "gloss": "not; more; year; hundred; living",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "manuṣyāḥ",
+      "words": [
+       {
+        "w": "manuṣyāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathoktaiḥ",
+      "words": [
+       {
+        "w": "yathā-uktaiḥ",
+        "gloss": "as stated",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtiviśaiśairāyuṣaḥ",
+      "words": [
+       {
+        "w": "prakṛti-viśeṣaiḥ",
+        "gloss": "constitution (prakṛti); particular marks, distinctions",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramāṇamupalabhya",
+      "words": [
+       {
+        "w": "pramāṇam",
+        "gloss": "measure",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upalabhya",
+        "gloss": "having ascertained",
+        "gram": "abs. √labh (upa)"
+       }
+      ]
+     },
+     {
+      "src": "vayastridhā",
+      "words": [
+       {
+        "w": "vayaḥ",
+        "gloss": "age",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tridhā",
+        "gloss": "in three ways",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajet",
+      "words": [
+       {
+        "w": "vibhajet",
+        "gloss": "should divide",
+        "gram": "3 sg. opt. √bhaj (vi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस काल में किन्तु विशेष कर्म के कारण सौ वर्ष से अधिक न जीने वाले मनुष्य होते हैं। अनुमानित पाठ पर, उनकी आयु का प्रमाण कही गई प्रकृति की विशेषताओं से जानकर वय को तीन भागों में बाँटना चाहिए।",
+  "english": "In this age, however, there are men who, because of a particular action (karma), live no more than a hundred years. On a conjectural reading, having ascertained the measure of their life by the particular marks of constitution (prakṛti) as stated, one should divide the age (vayas) into three.",
+  "text_flags": [
+   {
+    "src": "prakṛtiviśaiśairāyuṣaḥ",
+    "suggest": "prakṛtiviśeṣair āyuṣaḥ",
+    "why": "possible: 'viśaiśaiḥ' is not a word; 'viśeṣaiḥ' (particular marks, distinctions) gives the sense; ṣ/ś and e/ai confusion"
+   }
+  ],
+  "notes": "'an-adhika-varṣa-śata-jīvin' = 'living no more than a hundred years' (anadhika = not more). 'karma-viśeṣāt' = 'because of a particular (special) action' and may go with either 'santi' or the compound. 'asmin kāle' = in this time/age, not named further. The emendation to 'prakṛtiviśeṣaiḥ' is conjectural; the whole second sentence rests on it. 'yathoktaiḥ' = as stated (earlier). 'vayaḥ tridhā vibhajet' picks up 46-48.",
+  "confidence": "medium"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "further, also",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "And further.",
+  "text_flags": [],
+  "notes": "Formula 'api ca' introducing a further statement; the following verse (63-64) is the statement.",
+  "confidence": "high"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣaṃ",
+      "words": [
+       {
+        "w": "varṣam",
+        "gloss": "year",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṣaṃ",
+      "words": [
+       {
+        "w": "varṣam",
+        "gloss": "year",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣayaṃ",
+      "words": [
+       {
+        "w": "kṣayam",
+        "gloss": "decay, decline",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "nṛṇāṃ",
+      "words": [
+       {
+        "w": "nṛṇām",
+        "gloss": "for men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāte",
+      "words": [
+       {
+        "w": "yāte",
+        "gloss": "has passed",
+        "gram": "ppp. √yā, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śate",
+      "words": [
+       {
+        "w": "śate",
+        "gloss": "hundred",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śate",
+      "words": [
+       {
+        "w": "śate",
+        "gloss": "hundred",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनुष्यों के लिए, जब-जब सौ बीत जाते हैं, एक-एक वर्ष क्षय को प्राप्त होता है।",
+  "english": "For men, each time a hundred has passed, a year goes to decay.",
+  "text_flags": [],
+  "notes": "GROUPING: 63 and 64 appear to be the two halves of one verse. 'varṣam varṣam' is read as nominative 'a year' with the singular verb 'yāti' and 'yāte śate śate' as a locative absolute 'hundred by hundred having passed'; the other reading is the adverbial 'year after year it goes to decay, as each hundred passes'. What decays (life, or the measure of life) is not stated here. The sentence appears to continue in 64.",
+  "confidence": "medium"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āyuṣo",
+      "words": [
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṇyabāhulyādyanmānamiṣyate",
+      "words": [
+       {
+        "w": "puṇya-bāhulyāt",
+        "gloss": "merit (puṇya); abundance",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "mānam",
+        "gloss": "measure",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iṣyate",
+        "gloss": "is accepted, desired",
+        "gram": "3 sg. pres. pass. √iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आयु का, पुण्य की अधिकता के कारण, जो मान माना जाता है।",
+  "english": "Of life, owing to abundance of merit (puṇya), the measure that is accepted.",
+  "text_flags": [
+   {
+    "src": "āyuṣo",
+    "suggest": "āyuṣaḥ",
+    "why": "possible: before 'p' the visarga would stay (āyuṣaḥ puṇya...); the line has 14 syllables where 16 are expected, so a word may have dropped out"
+   }
+  ],
+  "notes": "The line is short by two syllables and is incomplete as a sentence (a relative 'yat' without its 'tat'), so a word may be lost; read literally. GROUPING: appears to continue 63. The measure referred to is of life (āyus). 'iṣyate' = is wished / accepted.",
+  "confidence": "low"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balamapi",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trividhaṃ",
+      "words": [
+       {
+        "w": "tri-vidham",
+        "gloss": "threefold",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बल भी तीन प्रकार का होता है।",
+  "english": "Strength (bala) also is threefold.",
+  "text_flags": [],
+  "notes": "The three kinds are named in 66.",
+  "confidence": "high"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sahajaṃ",
+      "words": [
+       {
+        "w": "sahajam",
+        "gloss": "innate, born with",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālakṛtaṃ",
+      "words": [
+       {
+        "w": "kāla-kṛtam",
+        "gloss": "made by time",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktikṛtaṃ",
+      "words": [
+       {
+        "w": "yukti-kṛtam",
+        "gloss": "made by method (yukti: skilful application)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सहज, काल से किया गया और युक्ति से किया गया।",
+  "english": "Innate (sahaja), made by time (kāla), and made by method (yukti).",
+  "text_flags": [],
+  "notes": "Verbless list of the three kinds of strength named in 65. 'yukti' = application, contrivance, skilful method; kept as 'method' and explained in 69.",
+  "confidence": "high"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "of these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahajaṃ",
+      "words": [
+       {
+        "w": "sahajam",
+        "gloss": "innate",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehasattvayoḥ",
+      "words": [
+       {
+        "w": "deha-sattvayoḥ",
+        "gloss": "body; sattva (mind; standard)",
+        "gram": "dvandva, n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "prākṛtaṃ",
+      "words": [
+       {
+        "w": "prākṛtam",
+        "gloss": "natural",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें सहज बल देह और सत्त्व का प्राकृत है।",
+  "english": "Of these, the innate (strength) is the natural (prākṛta) one of the body and of the mind (sattva).",
+  "text_flags": [],
+  "notes": "Copula understood. 'prākṛta' = natural, belonging to the original constitution (prakṛti). 'sattva' = mind (standard). 'strength' is carried from 65 and shown in brackets in English only.",
+  "confidence": "medium"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kālakṛtamṛtuvibhāgajaṃ",
+      "words": [
+       {
+        "w": "kāla-kṛtam",
+        "gloss": "made by time",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ṛtu-vibhāga-jam",
+        "gloss": "season (ṛtu); division; born of",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vayaḥkṛtaṃ",
+      "words": [
+       {
+        "w": "vayaḥ-kṛtam",
+        "gloss": "made by age (vayas)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कालकृत ऋतुओं के विभाग से उत्पन्न और वय से किया गया है।",
+  "english": "The time-made (strength) is born of the divisions of the seasons (ṛtu) and made by age.",
+  "text_flags": [],
+  "notes": "Copula understood. The two descriptions are read together as the kinds of time-made strength: 'born of the divisions of the seasons' and 'made by age'. Sandhi: kālakṛtam+ṛtu > kālakṛtamṛtu.",
+  "confidence": "high"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yuktikṛtaṃ",
+      "words": [
+       {
+        "w": "yukti-kṛtam",
+        "gloss": "made by method (yukti)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarāhāravihārotthamurjaskaraṃyogajaṃ",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, however",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāra-vihāra-uttham",
+        "gloss": "food; way of life (vihāra); arisen from",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ūrjaskaram",
+        "gloss": "vigour-giving",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yoga-jam",
+        "gloss": "yoga (application, combination); born of",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "युक्ति से किया गया फिर आहार और विहार से उत्पन्न, ऊर्जा देने वाला और योग से उत्पन्न है।",
+  "english": "The method-made (strength), again, is that arising from food and way of life (vihāra), the vigour-giving, and that born of yoga.",
+  "text_flags": [
+   {
+    "src": "punarāhāravihārotthamurjaskaraṃyogajaṃ",
+    "suggest": "…vihārotthamūrjaskaraṃ yogajaṃ",
+    "why": "possible: vowel length (u for ū in ūrjaskara); the missing space before 'yogajaṃ' is only a joining"
+   }
+  ],
+  "notes": "Copula understood. 'vihāra' = way of life, regimen of activity. 'ūrjaskara' = giving vigour. 'yoga' is ambiguous here (application of means, combination, or yoga); the kinds are read as three: from food and way of life, vigour-giving, and born of yoga. The sense of the last two is not firm.",
+  "confidence": "medium"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadvṛddhikarāstvime",
+      "words": [
+       {
+        "w": "tad-vṛddhi-karāḥ",
+        "gloss": "its; increase; making, causing",
+        "gram": "bahuvrīhi, m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "too, and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāvā",
+      "words": [
+       {
+        "w": "bhāvāḥ",
+        "gloss": "conditions, factors",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु उसकी वृद्धि करने वाले ये भाव भी हैं।",
+  "english": "But these conditions (bhāva), too, are producers of its increase.",
+  "text_flags": [],
+  "notes": "'tad' = of it, i.e. of strength (bala). 'tu' = but and 'ca' = too are both kept; the second ca may also be 'and'. The conditions are listed in 72 (71 is 'tadyathā', namely).",
+  "confidence": "medium"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadyathā",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह इस प्रकार है:",
+  "english": "Namely:",
+  "text_flags": [],
+  "notes": "Formula 'tad yathā' (that is, as follows) introducing the list in 72.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balavatpuruṣe",
+      "words": [
+       {
+        "w": "balavat-puruṣe",
+        "gloss": "strong; men (balavat: having strength)",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "in a region",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janma",
+      "words": [
+       {
+        "w": "janma",
+        "gloss": "birth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadvidhe",
+      "words": [
+       {
+        "w": "tad-vidhe",
+        "gloss": "of that kind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "in a time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sukhaśca",
+      "words": [
+       {
+        "w": "sukhaḥ",
+        "gloss": "pleasant, favourable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālayogo",
+      "words": [
+       {
+        "w": "kāla-yogaḥ",
+        "gloss": "time; connection, conjunction (kāla-yoga)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bījakṣetraguṇaśarīrāhārasattvasaṃpatayaḥ",
+      "words": [
+       {
+        "w": "bīja-kṣetra-guṇa-śarīra-āhāra-sattva-sampatayaḥ",
+        "gloss": "seed (bīja); field (kṣetra); qualities; body; food; sattva (mind); excellences",
+        "gram": "dvandva + tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svabhāvo",
+      "words": [
+       {
+        "w": "svabhāvaḥ",
+        "gloss": "own nature, natural disposition",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yauvanaṃ",
+      "words": [
+       {
+        "w": "yauvanam",
+        "gloss": "youth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāyāmo",
+      "words": [
+       {
+        "w": "vyāyāmaḥ",
+        "gloss": "exercise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "harṣaśca",
+      "words": [
+       {
+        "w": "harṣaḥ",
+        "gloss": "joy",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बलवान् पुरुषों वाले देश में जन्म और वैसे ही काल में; सुखद कालयोग; बीज, क्षेत्र के गुणों, शरीर, आहार और सत्त्व की सम्पत्तियाँ; स्वभाव, यौवन, व्यायाम और हर्ष।",
+  "english": "Birth in a region with strong men, and in a time of that kind; a pleasant conjunction of time (kāla-yoga); the excellences of the seed (bīja) and field (kṣetra) with their qualities, of the body, of food and of the mind (sattva); natural disposition (svabhāva), youth, exercise and joy.",
+  "text_flags": [],
+  "notes": "Verbless list of the conditions that increase strength (70); no verb added. 'balavat-puruṣe deśe' = in a region with strong men (balavat taken as 'strong'). 'tadvidhe kāle' = in a time of that kind (the kind of time is not named). 'bīja' = probably semen/seed, 'kṣetra' = probably the womb (field), both probable. 'bīja-kṣetra-guṇa-...-sampatayaḥ' is plural, read as excellence of: (1) the qualities of seed and field, (2) body, (3) food, (4) sattva; the scope of 'guṇa' is uncertain. 'sukhaḥ' modifies kāla-yogaḥ. Printed 'sukhaśca' = sukhaḥ ca.",
+  "confidence": "medium"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathāsārāṇyaṣṭau",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "sārāṇi",
+        "gloss": "sāras, best essences",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "tvagraktamāṃsamedosthimajjaśukrasattvātmakānyattarottaravarāṇibalamānajñānārthamupadiśyate",
+      "words": [
+       {
+        "w": "tvak-rakta-māṃsa-medas-asthi-majjā-śukra-sattva-ātmakāni",
+        "gloss": "skin; blood; flesh; fat; bone; marrow (majjā); semen (śukra); sattva (mind); consisting of",
+        "gram": "dvandva + bahuvrīhi, n. nom. pl."
+       },
+       {
+        "w": "uttara-uttara-varāṇi",
+        "gloss": "each succeeding; better",
+        "gram": "bahuvrīhi, n. nom. pl."
+       },
+       {
+        "w": "bala-māna-jñāna-artham",
+        "gloss": "strength; measure; knowledge; for the purpose of",
+        "gram": "tat-puruṣa, ind. (n. acc. sg.)"
+       },
+       {
+        "w": "upadiśyate",
+        "gloss": "is taught",
+        "gram": "3 sg. pres. pass. √diś (upa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी प्रकार आठ सार यानी सर्वोत्तम तत्त्व बताए जाते हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, अस्थि, मज्जा, शुक्र यानी वीर्य और सत्त्व स्वरूप वाले, जो अनुमानित पाठ पर उत्तरोत्तर श्रेष्ठ हैं, बल के प्रमाण को जानने के लिए।",
+  "english": "Likewise, eight sāras (essences, best qualities) consisting of skin, blood, flesh, fat (medas), bone, marrow (majjā), semen (śukra) and mind (sattva), on a conjectural reading each better than the one before, are taught for knowing the measure of strength.",
+  "text_flags": [
+   {
+    "src": "sattvātmakānyattarottaravarāṇibalamānajñānārthamupadiśyate",
+    "suggest": "sattvātmakāny uttarottaravarāṇi bala-māna-jñānārtham upadiśyate",
+    "why": "possible: 'ātmakānyattara-' is not a word; the dropped vowel 'u' gives 'ātmakāny uttarottara-' (each better than the previous), which fits the rest"
+   }
+  ],
+  "notes": "The printed token joins many words with no spaces. 'sāra' = essence/best quality of a tissue; the eight sāras are skin, blood, flesh, fat, bone, marrow, semen and sattva, each the 'consisting of' (ātmaka) item. 'uttarottaravara' = each next one better. 'upadiśyate' is singular beside the neuter plural 'sārāṇi' and is read impersonally 'is taught'. 'bala-māna-jñāna-artham' = for the knowledge of the measure of strength. The reading 'uttarottara' is conjectural (see text_flag); the translations mark it. Modern equivalents: medas = fat, majjā = marrow, śukra = semen (all standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "further, also",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "And further.",
+  "text_flags": [],
+  "notes": "Formula 'api ca' introducing a further statement, which begins in the next chunk.",
+  "confidence": "high"
+ }
+]

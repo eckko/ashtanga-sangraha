@@ -1,0 +1,144 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "ākāśam",
+  "old": "m./n. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): ākāśa is neuter; 'm./n.' is a hedge that is not needed (second occurrence already n.)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "तेजस्वी मानो तेजहीन, और उसी प्रकार; श्वेत मानो काला, और असत् मानो सत्",
+  "new": "तेजस्वी, तेजहीन, और उसी प्रकार; श्वेत, काला, और असत्, सत्",
+  "why": "reviewer (minor): Hindi adds 'मानो' (iva) three times as plain text; the Sanskrit has no iva here (the English marks '(as)' as supplied, Hindi cannot use brackets). Make Hindi a bare list as the Sanskrit is."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जाग्रत अवस्था में राक्षसों, गन्धर्वों, प्रेतों और वैसे ही दूसरों को —",
+  "new": "जागते हुए राक्षसों, गन्धर्वों, प्रेतों और वैसे ही दूसरों को —",
+  "why": "reviewer (minor): 'अवस्था' (state) is not in the Sanskrit (jāgrat = while awake)."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "vyākṛti",
+  "old": "f. acc. sg.",
+  "new": "f. nom. sg. (as printed; acc. vyākṛtim expected)",
+  "why": "reviewer (minor): Printed form has no final -m; gram says 'acc.' but the form is nom. (or acc. with dropped anusvāra; the print drops/places anusvāra irregularly). Record in the flag."
+ },
+ {
+  "n": "7",
+  "field": "text_flags.0.why",
+  "old": "possible: 'vyākṛti' is an unusual word; 'vikṛti' (deformity, abnormal appearance) is the commoner word, but 'vyākṛti' (altered or distorted shape) also gives sense, so no change is made",
+  "new": "possible: 'vyākṛti' is an unusual word; 'vikṛti' (deformity, abnormal appearance) is the commoner word, but 'vyākṛti' (altered or distorted shape) also gives sense, so no change is made; also the printed form lacks the final -m of an accusative (vyākṛtim expected), so a dropped anusvāra is possible",
+  "why": "reviewer (minor): Add the missing-anusvāra possibility to the existing flag."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अथवा ध्रुव यानी सम्भवतः ध्रुव तारे को, या आकाशगंगा को — वह उस वर्ष को नहीं देखता।",
+  "new": "अथवा ध्रुव यानी सम्भवतः उत्तर दिशा में स्थिर दिखने वाले ध्रुवतारे को, या आकाशगंगा को — वह उस वर्ष को नहीं देखता।",
+  "why": "reviewer (minor): Gloss merely repeats the Sanskrit name (glossary: an identification must not repeat the Sanskrit name)."
+ },
+ {
+  "n": "10",
+  "field": "text_flags.0.why",
+  "old": "probable: the half-line scans as 16 syllables with 'vīṇā' (megha-toya-ogha-nirghoṣa-vīṇā-paṇava-veṇu-jān) and 15 with the printed 'vīṇa'; also printed with a space before 'paṇava'",
+  "new": "probable: as a member of the compound the feminine stem is vīṇā (megha-toya-ogha-nirghoṣa-vīṇā-paṇava-veṇu-jān); the printed short 'vīṇa' is not a stem form. Syllable count is 16 either way (vī-ṇa / vī-ṇā), so metre does not decide; also printed with a space before 'paṇava'",
+  "why": "reviewer (minor): The metre argument is wrong: vīṇa and vīṇā both have two syllables (vī-ṇa / vī-ṇā), so the half-line is 16 syllables either way; the draft claims 15 vs 16. The flag itself (long ā-stem as compound member of a fem. noun) is still right, on grammar not on syllable count."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "(जो शब्द) बादल और जल-प्रवाह की गर्जना से, वीणा, पणव और बाँसुरी से उत्पन्न होते हैं,",
+  "new": "बादल और जल-प्रवाह की गर्जना से तथा वीणा, पणव यानी सम्भवतः छोटे ढोल और बाँसुरी से उत्पन्न",
+  "why": "reviewer (error): Hindi has a bracketed supplied noun and an added finite verb 'होते हैं' (glossary: no brackets in Hindi, no added nouns or verbs; unstated nouns are plain adjectives). paṇava is not glossed in Hindi."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "(ones) born of the roar of cloud and flood-water, of the vīṇā (lute), the paṇava (a small drum) and the flute,",
+  "new": "(ones) born of the roar of cloud and flood-water, of the vīṇā (lute), the paṇava (probably a small drum) and the flute,",
+  "why": "reviewer (minor): Identification noted 'probable' in notes but written unhedged in the translation."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "जिसके अंग मानो धूल से ढके हुए हों (अनुमानित पाठ पर), अथवा जो अंग में चोट को नहीं जानता —",
+  "new": "जिसके अंग मानो धूल से ढके हुए हों, यह अनुमानित पाठ पर है, अथवा जो अंग में चोट को नहीं जानता —",
+  "why": "reviewer (error): Brackets in Hindi (glossary: no brackets in Hindi even for 'conjectural reading'; hedge inline)."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "'vāvidhipūrvakam' is read vā + vidhipūrvakam ('or yoga according to rule'), which gives the sense that he knows what is beyond the senses without having done the proper practice; vā + avidhipūrvakam ('yoga not done by rule') is also possible from the print, and the sense would then be different. Continues in unit 18.",
+  "new": "'vāvidhipūrvakam' is read vā + vidhipūrvakam ('or yoga according to rule'), which gives the sense that he knows what is beyond the senses without having done the proper practice; vā + avidhipūrvakam ('yoga not done by rule') is also possible from the print, and the sense would then be different. Continues in unit 18. Reviewer: this print writes an avagraha for vā + a- elsewhere (vā'mūrta u3, vā'lpāśī u24), and none here, which supports vā + vidhipūrvakam.",
+  "why": "reviewer (minor): Supporting evidence the draft missed: elsewhere this print writes an avagraha for vā + a- (vā'mūrta u3, vā'lpāśī u24, vā'pi); here there is none, which favours vā + vidhipūrvakam. Also the sense (knowing the supersensory without proper practice) needs the positive reading."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा जिसके सिर पर पक्षी आकर बैठ जाते हैं, उससे बचना चाहिए।",
+  "new": "अथवा जिसके सिर पर पक्षी बैठ जाते हैं, उससे बचना चाहिए।",
+  "why": "reviewer (minor): 'आकर' (having come) is not in the Sanskrit (līyante = settle, cling)."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "who, though eating much wholesome (hita) food, continually declines in strength —",
+  "new": "who, eating much wholesome (hita) food, continually declines in strength —",
+  "why": "reviewer (minor): 'though' (and Hindi 'भी') is a supplied concessive; the Sanskrit has only the participle aśnan. The notes admit it. Nothing may be added."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "जो हितकर बहुत अन्न खाता हुआ भी बल से लगातार क्षीण होता जाता है —",
+  "new": "जो हितकर बहुत अन्न खाता हुआ बल से लगातार क्षीण होता जाता है —",
+  "why": "reviewer (minor): Same added concessive 'भी'."
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "DAMAGED PRINT: 'acayitvā prapāṇikau' is kept as printed and is unclear; nothing is built on it. Only 'śiro vikṣipate kṛcchrāt yaḥ' (who with difficulty throws his head about) is secure, and even that is on a conjectural reading because of the damaged end. Low confidence.",
+  "new": "DAMAGED PRINT: 'acayitvā prapāṇikau' is kept as printed and is unclear; nothing is built on it. Only 'śiro vikṣipate kṛcchrāt yaḥ' (who with difficulty throws his head about) is secure, and even that is on a conjectural reading because of the damaged end. Low confidence. Reviewer conjecture (not adopted): 'acayitvā' may be 'añcayitvā' (having drawn up/bent, √añc); 'prapāṇikau' stays unrestorable. Low confidence kept.",
+  "why": "reviewer (minor): Guess for the owner (kept out of gloss and translation per glossary): 'acayitvā' may be 'añcayitvā' (having drawn up, from √añc; ñ lost in the scan); 'prapāṇikau' not restorable. Also the flag suggests 'kṛcchrādyo' while `words` use 'kṛcchrāt' + 'yaḥ' (dictionary form), which is consistent (kṛcchrād yaḥ is the sandhi)."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "who, when being raised up, would become bewildered (faint), whether strong or even weak —",
+  "new": "who, when being raised up, would become bewildered (probably faint), whether strong or even weak —",
+  "why": "reviewer (minor): saṃmuhyet is 'bewildered/faint'; Hindi says 'मूर्च्छित' (certain) while u32 saṃmuhyan is 'मोहग्रस्त'. Make the unit hedged and consistent."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "जो उठाए जाने पर मूर्च्छित हो जाता है, चाहे बलवान हो या दुर्बल भी —",
+  "new": "जो उठाए जाने पर मोहग्रस्त यानी सम्भवतः मूर्च्छित हो जाता है, बलवान अथवा दुर्बल भी —",
+  "why": "reviewer (minor): Hindi decides 'faint' as certain and inconsistent with u32 मोहग्रस्त."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "who tries to grasp what is non-existent, on bed, seat, wall and so on —",
+  "new": "who tries to grasp only what is non-existent, on bed, seat, wall and so on —",
+  "why": "reviewer (minor): 'eva' (only/just) is dropped in English though Hindi has 'ही'."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "जो ऊपरी ओठ के चारों ओर चाटता है और डकारें उत्पन्न करता है, अनुमानित पाठ पर —",
+  "new": "जो ऊपरी ओठ के चारों ओर चाटता है, यह अनुमानित पाठ पर है, और डकारें उत्पन्न करता है —",
+  "why": "reviewer (minor): Conjectural mark is tacked on after the clause and reads as if the verb 'उत्पन्न करता है' were conjectural only; make it a clear inline hedge (no brackets, ok as is) - minor wording."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "जिस पर छाया, चाहे काली, पीली या अरुण वर्ण की भी, झपटती है —",
+  "new": "जिस पर छाया, काली, पीली अथवा लालिमा लिए भी, झपटती है —",
+  "why": "reviewer (error): 'वर्ण' is on the glossary's list of forbidden additions; aruṇā is itself the colour adjective."
+ }
+]

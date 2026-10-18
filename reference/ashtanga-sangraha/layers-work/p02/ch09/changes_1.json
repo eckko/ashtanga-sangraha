@@ -1,0 +1,422 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "sūcayantaḥ",
+  "old": "pres. part. √sūc (caus.), m. nom. pl.",
+  "new": "pres. part. √sūc, m. nom. pl.",
+  "why": "reviewer (minor): 10th-class (curādi) verb marked \"caus.\" (glossary: curādi verbs are not caus.)"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): tat is the object of āhuḥ and riṣṭam its predicate accusative, not nominative"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "riṣṭam",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): tat is the object of āhuḥ and riṣṭam its predicate accusative, not nominative"
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "'kṛṣṇaiti",
+    "suggest": "'kṛṣṇa iti",
+    "why": "possible: a+i has been joined into ai; akṛṣṇaḥ + iti should give akṛṣṇa iti (the same printing habit as in the neighbouring pairs)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): False typo flag: the printed Devanagari is कृष्णइति, a separate vowel इ after ण (hiatus, akṛṣṇa iti), not a joined ai. Only a missing space; src and words are right. (recurring ai/au finding)"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The meaning of the a- forms is literal 'not fair' etc.; a sense 'slightly' (not very fair) is possible but not stated. 'or' is supplied to show the pairs; the text has none. prakṛti here is rendered 'natural state'.",
+  "new": "The meaning of the a- forms is literal 'not fair' etc.; a sense 'slightly' (not very fair) is possible but not stated. 'or' is supplied to show the pairs; the text has none. prakṛti here is rendered 'natural state'. Reviewer: the printed Devanagari has a separate vowel इ (अकृष्ण इति written without a space), so there is no sandhi error and no typo; only the space is missing.",
+  "why": "reviewer (minor): False typo flag: the printed Devanagari is कृष्णइति, a separate vowel इ after ण (hiatus, akṛṣṇa iti), not a joined ai. Only a missing space; src and words are right. (recurring ai/au finding)"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "But blue, dusky, copper-coloured, turmeric-yellow, white and the like are abnormalities. Among these, the natural-state colour and the abnormal colour together at once, or on a conjectural reading in one part of the body, are for death.",
+  "new": "But blue, dusky, copper-coloured, turmeric-yellow, white and the like are abnormalities. Among these, the natural-state colour and the abnormal colour, unclear (damaged print: yugapadgaṃdhegaikadeśe, followed by vā 'or'), are for death.",
+  "why": "reviewer (error): Guess for the damaged unsplit word yugapadgaṃdhegaikadeśe put into the translation. Glossary (later rule, p02 ch03 k2 and ch08 k1): damaged word stays unsplit, translation says \"unclear\", the guess lives only in the flag and the note. The other rule (glossary line 27 / ch05 k2: guess in translation) is superseded."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "नील, श्याम, ताम्र, हारिद्र यानी हल्दी के रंग के, शुक्ल आदि तो विकृतियाँ हैं। उनमें प्रकृति का वर्ण और विकृति का वर्ण, एक साथ, या अनुमानित पाठ पर शरीर के एक भाग में, मृत्यु के लिए होते हैं।",
+  "new": "नील, श्याम, ताम्र, हारिद्र यानी हल्दी के रंग के, शुक्ल आदि तो विकृतियाँ हैं। उनमें प्रकृति का वर्ण और विकृति का वर्ण, छपाई बिगड़ी होने से अस्पष्ट शब्द के साथ या, मृत्यु के लिए होते हैं।",
+  "why": "reviewer (error): Guess for the damaged unsplit word yugapadgaṃdhegaikadeśe put into the translation. Glossary (later rule, p02 ch03 k2 and ch08 k1): damaged word stays unsplit, translation says \"unclear\", the guess lives only in the flag and the note. The other rule (glossary line 27 / ch05 k2: guess in translation) is superseded."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The word 'yugapadgaṃdhegaikadeśe' is damaged and kept unsplit; the conjecture 'yugapad gātra-ekadeśe' (at once, or in one part of the body) is used in the translations and marked as conjectural. 'vikṛtayaḥtatra' has a missing space (vikṛtayaḥ tatra). The verb is understood ('are'). maraṇāya is dative, 'for death', i.e. leading to death.",
+  "new": "The word 'yugapadgaṃdhegaikadeśe' is damaged and kept unsplit; the conjecture 'yugapad gātra-ekadeśe' (at once, or in one part of the body) stays in the flag and this note only; the translations say 'unclear' (glossary rule). 'vikṛtayaḥtatra' has a missing space (vikṛtayaḥ tatra). The verb is understood ('are'). maraṇāya is dative, 'for death', i.e. leading to death.",
+  "why": "reviewer (error): Guess for the damaged unsplit word yugapadgaṃdhegaikadeśe put into the translation. Glossary (later rule, p02 ch03 k2 and ch08 k1): damaged word stays unsplit, translation says \"unclear\", the guess lives only in the flag and the note. The other rule (glossary line 27 / ch05 k2: guess in translation) is superseded."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "By this, the being otherwise without cause of fading, growth, grief, joy, dryness, unctuousness and the like, and likewise of all the states stated in the (passage) on varieties of prakṛti (large, plump, fine, long) and determined by the division of doṣas etc., is stated.",
+  "new": "By this, the being otherwise without cause of fading, growth (on a conjectural reading), grief, joy, dryness, unctuousness and the like, and likewise of all the states stated in the (passage) on varieties of prakṛti (large, plump, fine, long) and determined by the division of doṣas etc., is stated.",
+  "why": "reviewer (error): Emendation uracaya→upacaya adopted in both translations (growth / वृद्धि) without the conjectural mark (glossary: every adopted conjecture carries the mark in both languages)"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "इससे मुरझाना, वृद्धि, शोक, हर्ष, रूखापन, स्निग्धता आदि, तथा प्रकृतिभेदीय में कहे गए बड़े, उपचित, सूक्ष्म, दीर्घ, और दोष आदि के भाग से नियत सभी भावों का बिना कारण अन्यथा होना कहा गया है।",
+  "new": "इससे मुरझाना, अनुमानित पाठ पर वृद्धि, शोक, हर्ष, रूखापन, स्निग्धता आदि, तथा प्रकृतिभेदीय में कहे गए बड़े, उपचित, सूक्ष्म, दीर्घ, और दोष आदि के भाग से नियत सभी भावों का बिना कारण अन्यथा होना कहा गया है।",
+  "why": "reviewer (error): Emendation uracaya→upacaya adopted in both translations (growth / वृद्धि) without the conjectural mark (glossary: every adopted conjecture carries the mark in both languages)"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "pratiniyatānām",
+  "old": "ppp. pra+ni+√yam, gen. pl.",
+  "new": "ppp. prati+ni+√yam, gen. pl.",
+  "why": "reviewer (minor): root prefix wrong: pratiniyata is prati+ni+√yam"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Among these, on a conjectural reading, the one from ether (kha), stainless, blue like a sword and the sky, clear, unctuous, as if with lustre (prabhā).",
+  "new": "Among these, unclear (damaged print: khādamlakhaṅgākāśanīlanirmalā); unctuous, as if with lustre (prabhā).",
+  "why": "reviewer (error): Whole guess for the damaged compound khādamlakhaṅgākāśanīlanirmalā is in the translation. Later glossary rule: write \"unclear\"; guess only in flag and note. Only sasnehā saprabheva is readable."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "उनमें अनुमानित पाठ पर आकाश से, निर्मल, तलवार और आकाश के समान नीली, स्वच्छ, स्निग्ध, मानो प्रभा सहित।",
+  "new": "उनमें छपाई बिगड़ने से अस्पष्ट शब्द; स्निग्ध, मानो प्रभा सहित।",
+  "why": "reviewer (error): Whole guess for the damaged compound khādamlakhaṅgākāśanīlanirmalā is in the translation. Later glossary rule: write \"unclear\"; guess only in flag and note. Only sasnehā saprabheva is readable."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The long compound is damaged and kept unsplit; the reading in the translations is a conjecture. The element is ether (ākāśa), by the pattern of the next four units. 'saprabheva' = saprabhā iva.",
+  "new": "The long compound is damaged and kept unsplit; the translations say 'unclear' and the guess stays in the flag only (glossary rule). The element is ether (ākāśa), by the pattern of the next four units. 'saprabheva' = saprabhā iva.",
+  "why": "reviewer (error): Whole guess for the damaged compound khādamlakhaṅgākāśanīlanirmalā is in the translation. Later glossary rule: write \"unclear\"; guess only in flag and note. Only sasnehā saprabheva is readable."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "From vāyu (wind): dry as dust and ash, dust-reddish, dark brown, lacking lustre, smelling of sweat-waste (sveda-mala).",
+  "new": "From wind (vāta): dry as dust and ash, dust-reddish, dark brown, lacking lustre, smelling of sweat-waste (sveda-mala).",
+  "why": "reviewer (minor): The printed word is vātāt; vāyu is a different word. Hindi plain wind rule."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वायु से आने वाली छाया धूल और राख के समान रूखी, धूल से लाल, श्याव, प्रभाहीन और स्वेदमल की गन्ध वाली होती है।",
+  "new": "वात यानी वायु से आने वाली छाया धूल और राख के समान रूखी, धूल से लाल, श्याव, प्रभाहीन और स्वेदमल की गन्ध वाली होती है।",
+  "why": "reviewer (minor): The printed word is vātāt; vāyu is a different word. Hindi plain wind rule."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "vātāt",
+  "old": "from vāyu (wind)",
+  "new": "from wind (vāta)",
+  "why": "reviewer (minor): The printed word is vātāt; vāyu is a different word. Hindi plain wind rule."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "The noun chāyā is understood from unit 8 (the five shades); no noun is stated here, the adjectives are feminine singular. 'pāṃśubhasmarūkṣā' is read 'dry as dust and ash'; 'rajo'ruṇā' 'reddish with dust' (rajas read as dust; no other sense is stated). The final 'gandhiḥ' is a masculine-type ending used with feminine agreement; read as printed. mala here is the waste (sveda-mala, sweat-waste), not an added disease.",
+  "new": "The noun chāyā is understood from unit 8 (the five shades); no noun is stated here, the adjectives are feminine singular. 'pāṃśubhasmarūkṣā' is read 'dry as dust and ash'; 'rajo'ruṇā' 'reddish with dust' (rajas read as dust; no other sense is stated). The final 'gandhiḥ' is the regular feminine of the i-stem adjective -gandhi. mala here is the waste (sveda-mala, sweat-waste), not an added disease.",
+  "why": "reviewer (minor): Note is wrong: -gandhi is an i-stem adjective of three genders, f. nom. sg. gandhiḥ is regular; it is not a masculine ending with feminine agreement"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "From tejas (fire): on a conjectural reading, red like an oblation-fed fire, lightning and gold; dṛṣṭimukhā (with eye and face).",
+  "new": "From tejas (fire): unclear (damaged print: hutahutāśavidyutasatapanīyaraktā, ending in raktā 'red'); dṛṣṭimukhā (with eye and face).",
+  "why": "reviewer (error): Guess for the damaged unsplit compound in the translation; later rule says \"unclear\". The printed compound visibly ends in raktā (red)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "तेजस् यानी अग्नि से आने वाली छाया, अनुमानित पाठ पर हवन की अग्नि, बिजली और सोने के समान लाल, दृष्टि और मुख वाली होती है।",
+  "new": "तेजस् यानी अग्नि से आने वाली छाया, छपाई बिगड़ने से अस्पष्ट शब्द जो रक्त यानी लाल पर समाप्त होता है, दृष्टि और मुख वाली होती है।",
+  "why": "reviewer (error): Guess for the damaged unsplit compound in the translation; later rule says \"unclear\". The printed compound visibly ends in raktā (red)."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "The compound is damaged and kept unsplit; the reading in the translations is a conjecture (huta-hutāśa = fire fed with oblation, tapanīya = gold). 'dṛṣṭimukhā' is rendered literally 'with eye and face'; the text does not say that the colour shows in the eyes and face, though this is probable. Normalisation: tejas read as the element fire.",
+  "new": "The compound is damaged and kept unsplit; the translations say 'unclear' and the guess stays in the flag and this note (huta-hutāśa = fire fed with oblation, tapanīya = gold). 'dṛṣṭimukhā' is rendered literally 'with eye and face'; the text does not say that the colour shows in the eyes and face, though this is probable. Normalisation: tejas read as the element fire.",
+  "why": "reviewer (error): Guess for the damaged unsplit compound in the translation; later rule says \"unclear\". The printed compound visibly ends in raktā (red)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "जल से आने वाली छाया वैदूर्य यानी लहसुनिया, पर पहचान विवादित है, और अनुमानित पाठ पर इन्द्रनील यानी सम्भवतः नीलम के समान निर्मल, घनी और अत्यन्त स्निग्ध होती है।",
+  "new": "जल से आने वाली छाया वैदूर्य यानी लहसुनिया या बेरिल, पर पहचान विवादित है, और अनुमानित पाठ पर इन्द्रनील यानी सम्भवतः नीलम के समान निर्मल, घनी और अत्यन्त स्निग्ध होती है।",
+  "why": "reviewer (minor): English says beryl or cat's-eye, disputed; Hindi gives only cat's-eye"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Of these, the one of vāyu (wind) is for destruction and for very great affliction; the remaining ones are, however, bringers of a rise of happiness.",
+  "new": "Of these, the one of vāyu (wind) is for destruction and for very great affliction; the remaining ones, however, are those with a rise of happiness (sukhodaya).",
+  "why": "reviewer (minor): \"bringers of\" is looser than sukha-udaya bahuvrīhi \"having a rise of happiness\""
+ },
+ {
+  "n": "15",
+  "field": "text_flags.0.why",
+  "old": "possible: visarga before c should become ś (haritāś ca); printed without it",
+  "new": "possible: visarga before c should become ś (haritāś ca); printed without it (the same dropped visarga before voiceless consonants occurs in raktā pītā, pītā pāṇḍurā, pāṇḍurā sitā; restored in the words as a print habit)",
+  "why": "reviewer (minor): Flag is right but selective: the same dropped visarga (before voiceless p, s) occurs in raktā pītā, pītā pāṇḍurā, pāṇḍurā sitā, all restored silently in words. Record as one print habit."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "The chāyā overspreads the colour; it is near; on a conjectural reading it is also perceived; and it consists of the five elements (bhūta).",
+  "new": "The chāyā overspreads the colour; on a conjectural reading it is perceived as near; and it consists of the five elements (bhūta).",
+  "why": "reviewer (minor): Parallel with unit 19 (viprakṛṣṭā lakṣyate \"is perceived from afar\") shows āsannā belongs with lakṣyate: \"is perceived near\". Draft splits it into two statements."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "छाया वर्ण पर छा जाती है, समीप है, अनुमानित पाठ पर और दिखाई देती है, और पाँच भूतों से बनी है।",
+  "new": "छाया वर्ण पर छा जाती है, अनुमानित पाठ पर समीप दिखाई देती है, और पाँच भूतों से बनी है।",
+  "why": "reviewer (minor): Parallel with unit 19 (viprakṛṣṭā lakṣyate \"is perceived from afar\") shows āsannā belongs with lakṣyate: \"is perceived near\". Draft splits it into two statements."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "No predicate follows in this unit (the clause continues in the same series of conditions); the main clause is not given here. Two conjectural readings (ādarśa, jihmā) are marked in the translations. The word 'adhikā' next to 'hīnā' read as deficient / in excess.",
+  "new": "No predicate follows in this unit (the clause continues in the same series of conditions); the main clause is not given here. Two conjectural readings (ādarśa, jihmā) are marked in the translations. The word 'adhikā' next to 'hīnā' read as deficient / in excess. Reviewer: the printed reading ātapa-darśa-ādiṣu (on seeing sunlight etc.) is also possible; ātapādarśa (sunlight, mirror) is preferred for sense.",
+  "why": "reviewer (minor): The printed ātapa-darśa is a possible word (\"on seeing sunlight\"), so ātapādarśa is a preference, not a certain correction; the conjectural mark in the translations is right. Hindi mark sits before the whole phrase."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "जिसके केश और रोम बिना तेल लगे होने पर तेल लगे हुए के समान दिखाई देते हैं।",
+  "new": "जिसके केश और रोम तेल न लगे हुए होकर भी तेल लगे हुए के समान दिखाई देते हैं।",
+  "why": "reviewer (minor): \"होने पर\" is an added phrase (glossary)"
+ },
+ {
+  "n": "24",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "jihve",
+    "suggest": "jihme",
+    "why": "possible: 'jihve' would be dual 'two tongues'; the list is of eye qualities and the neuter dual 'jihme' (crooked) fits (compare unit 21, 28)"
+   },
+   {
+    "src": "saṃkṣiptabhruṇī",
+    "suggest": "saṃkṣiptabhruvī",
+    "why": "possible: the final member should be a dual of bhrū; 'bhruṇī' is irregular (compare pakṣmaṇī, a true -man dual); sense unaffected"
+   },
+   {
+    "src": "vinatabhruṇī",
+    "suggest": "vinatabhruvī",
+    "why": "possible: same irregular dual as the preceding word"
+   }
+  ],
+  "new": [
+   {
+    "src": "jihve",
+    "suggest": "jihme",
+    "why": "possible: 'jihve' would be dual 'two tongues'; the list is of eye qualities and the neuter dual 'jihme' (crooked) fits (compare unit 21, 28)"
+   }
+  ],
+  "why": "reviewer (error): Both flags are wrong: bhruṇī is the regular neuter dual of the shortened stem bhru (as madhunī, vāriṇī) agreeing with neuter nayane; no emendation needed. words already keep the printed form."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "GROUPING: the unit has no 'yasya' and no main verb; it appears to continue the series of conditions of units 22 and 23 and to be completed in unit 25. All adjectives agree with nayane (two eyes). 'viśrānta' is kept as printed (ceased, rested); 'vibhrānta' (confused) is an alternative. nakula = mongoose (standard); the colour comparison is meant, not stated as such. 'stabdhasraste' is read as dvandva 'stiff and drooping'. Conjectural reading: jihme.",
+  "new": "GROUPING: the unit has no 'yasya' and no main verb; it appears to continue the series of conditions of units 22 and 23 and to be completed in unit 25. All adjectives agree with nayane (two eyes). 'viśrānta' is kept as printed (ceased, rested); 'vibhrānta' (confused) is an alternative. nakula = mongoose (standard); the colour comparison is meant, not stated as such. 'stabdhasraste' is read as dvandva 'stiff and drooping'. Conjectural reading: jihme. Reviewer: bhruṇī (saṃkṣipta-bhruṇī, vinata-bhruṇī) is the regular neuter dual of bhru, so no emendation.",
+  "why": "reviewer (error): Both flags are wrong: bhruṇī is the regular neuter dual of the shortened stem bhru (as madhunī, vāriṇī) agreeing with neuter nayane; no emendation needed. words already keep the printed form."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "And the two eyes: sunk in too deep, protruding, widened, contracted; with contracted brows, with bent-down brows; on a conjectural reading crooked, uneven; with ceased sight, with deficient sight; resembling a mongoose (nakula), resembling a pigeon (kapota), of the colour of a firebrand, of abnormal colour such as blue; very unsteady, stiff and drooping, discharging, too widely open, too tightly shut, or with lost eyelashes.",
+  "new": "And the two eyes: sunk in too deep, protruding, widened, contracted; with contracted brows, with bent-down brows; on a conjectural reading crooked, uneven; with ceased sight, with deficient sight; resembling a mongoose (nakula), resembling a pigeon (kapota), of the colour of a firebrand, of abnormal colour such as blue; very unsteady, stiff and drooping, discharging, excessively open, excessively shut, or with lost eyelashes.",
+  "why": "reviewer (error): \"widely\", \"tightly\" and \"such as\" are not in the Sanskrit (ati-unmiṣite, ati-nimiṣite, nīlādi-)"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "And the two eyes: sunk in too deep, protruding, widened, contracted; with contracted brows, with bent-down brows; on a conjectural reading crooked, uneven; with ceased sight, with deficient sight; resembling a mongoose (nakula), resembling a pigeon (kapota), of the colour of a firebrand, of abnormal colour such as blue; very unsteady, stiff and drooping, discharging, excessively open, excessively shut, or with lost eyelashes.",
+  "new": "And the two eyes: sunk in too deep, protruding, widened, contracted; with contracted brows, with bent-down brows; on a conjectural reading crooked, uneven; with ceased sight, with deficient sight; resembling a mongoose (nakula), resembling a pigeon (kapota), of the colour of a firebrand, of abnormal colour, blue and the like; very unsteady, stiff and drooping, discharging, excessively open, excessively shut, or with lost eyelashes.",
+  "why": "reviewer (error): \"widely\", \"tightly\" and \"such as\" are not in the Sanskrit (ati-unmiṣite, ati-nimiṣite, nīlādi-)"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "ati-unmiṣite",
+  "old": "too widely open",
+  "new": "excessively open",
+  "why": "reviewer (error): \"widely\", \"tightly\" and \"such as\" are not in the Sanskrit (ati-unmiṣite, ati-nimiṣite, nīlādi-)"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "ati-nimiṣite",
+  "old": "too tightly shut",
+  "new": "excessively shut",
+  "why": "reviewer (error): \"widely\", \"tightly\" and \"such as\" are not in the Sanskrit (ati-unmiṣite, ati-nimiṣite, nīlādi-)"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "nīla-ādi-vikṛta-varṇe",
+  "old": "of abnormal colour such as blue",
+  "new": "of abnormal colour, blue and the like",
+  "why": "reviewer (error): \"widely\", \"tightly\" and \"such as\" are not in the Sanskrit (ati-unmiṣite, ati-nimiṣite, nīlādi-)"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "और दोनों आँखें बहुत भीतर धँसी हुई, बाहर निकली हुई, फैली हुई, सिकुड़ी हुई; सिकुड़ी भौंहों वाली, झुकी भौंहों वाली; अनुमानित पाठ पर टेढ़ी, ऊँची-नीची; रुकी हुई दृष्टि वाली, क्षीण दृष्टि वाली; नकुल के समान, कपोत के समान, जलती लकड़ी के रंग की, नील आदि विकृत रंग की; बहुत चंचल, कड़ी और ढीली, बहती हुई, बहुत खुली, बहुत मिची हुई, या झड़ी पलकों वाली।",
+  "new": "और दोनों आँखें बहुत भीतर धँसी हुई, बाहर निकली हुई, फैली हुई, सिकुड़ी हुई; सिकुड़ी भौंहों वाली, झुकी भौंहों वाली; अनुमानित पाठ पर टेढ़ी, ऊँची-नीची; रुकी हुई दृष्टि वाली, क्षीण दृष्टि वाली; नकुल यानी नेवले के समान, कपोत यानी कबूतर के समान, जलती लकड़ी के रंग की, नील आदि विकृत रंग की; बहुत चंचल, कड़ी और ढीली, बहती हुई, बहुत खुली, बहुत मिची हुई, या झड़ी पलकों वाली।",
+  "why": "reviewer (minor): Hindi lacks the identifications the English has"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "GROUPING: appears to complete the series of conditions begun in units 22 to 24 (the main clause 'sa gatāyuḥ' occurs only here). The leading avagraha on 'tivivṛtā is a print habit for vā + ati. piṭikā: small boil, pustule.",
+  "new": "GROUPING: appears to complete the series of conditions begun in units 22 to 24 (the main clause 'sa gatāyuḥ' occurs only here). The leading avagraha on 'tivivṛtā is a print habit for vā + ati. piṭikā: small boil, pustule. Reviewer: unit 21 also belongs to this series of conditions (it has no consequent either).",
+  "why": "reviewer (minor): Unit 21 (yasya ... dṛśyate, no consequent) is also part of the series ended by \"sa gatāyuḥ\"; note says 22-24 only"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "pakva-jambū",
+  "old": "tat-puruṣa, f.",
+  "new": "karmadhāraya, f.",
+  "why": "reviewer (minor): karmadhāraya, not tat-puruṣa"
+ },
+ {
+  "n": "29",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "dhante",
+    "suggest": "dhatte",
+    "why": "possible: 'dhante' is not a regular form; sense requires a verb 'holds, bears' (n/tt confusion)"
+   },
+   {
+    "src": "śirodharāṃ",
+    "suggest": "śirodharā",
+    "why": "possible: the neck as a subject (nominative) beside śiraḥ and pṛṣṭham; the final ṃ may be a print slip or may mark an accusative object"
+   }
+  ],
+  "new": [
+   {
+    "src": "dhante",
+    "suggest": "dhatte",
+    "why": "possible: 'dhante' is not a regular form; sense requires a verb 'holds, bears' (n/tt confusion)"
+   },
+   {
+    "src": "śirodharāṃ",
+    "suggest": "śirodharā",
+    "why": "possible: the neck as a subject (nominative) beside śiraḥ and pṛṣṭham; the final ṃ may be a print slip or may mark an accusative object"
+   },
+   {
+    "src": "gaṃḍelalāṭahanubaṃdhanāni",
+    "suggest": "gaṇḍa-lalāṭa-hanu-bandhanāni (alt. gaṇḍe lalāṭe hanu-bandhanāni)",
+    "why": "possible: printed gaṃḍe- has -e where the compound needs -a; read gaṇḍa- in the words; locative gaṇḍe is the alternative"
+   }
+  ],
+  "why": "reviewer (error): Unflagged silent restoration: printed gaṃḍe- (-e) read as gaṇḍa- in words; needs a flag (alternative locative gaṇḍe lalāṭe)."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "जिसके गाल, ललाट और हनु के बन्धन मानो स्थान से च्युत और ढीले हैं, अनुमानित पाठ पर जिसका सिर, गर्दन या पीठ अपना भार नहीं सहता।",
+  "new": "जिसके गाल, ललाट और हनु यानी जबड़े के बन्धन मानो स्थान से च्युत और ढीले हैं, अनुमानित पाठ पर जिसका सिर, गर्दन या पीठ अपना भार नहीं सहता।",
+  "why": "reviewer (minor): Hindi hanu needs a gloss at first use"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "या दोनों हनु, मुख में स्थित पिण्ड।",
+  "new": "या दोनों हनु यानी जबड़े, मुख में स्थित पिण्ड।",
+  "why": "reviewer (minor): gloss missing"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "जिसका मेढ्र सूजा हुआ है, या दोनों वृषण बहुत बाहर निकले हैं, या इससे उलटा है।",
+  "new": "जिसका मेढ्र यानी पुरुष-लिंग सूजा हुआ है, या दोनों वृषण यानी अण्डकोष बहुत बाहर निकले हैं, या इससे उलटा है।",
+  "why": "reviewer (minor): Hindi lacks the glosses the English has"
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "He whose voice, single or manifold, or stammering, indistinct, thin or piteous, is suddenly perceived.",
+  "new": "He whose voice, single or manifold, or stammering, indistinct (on a conjectural reading), thin or piteous, is suddenly perceived.",
+  "why": "reviewer (error): Adopted emendation anyakta→avyakta has no conjectural mark (note says sense certain; glossary requires the mark)"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "जिसका स्वर एक या अनेक, या हकलाता हुआ, अव्यक्त, कृश या दीन अचानक सुनाई देता है।",
+  "new": "जिसका स्वर एक या अनेक, या हकलाता हुआ, अनुमानित पाठ पर अव्यक्त, कृश या दीन अचानक सुनाई देता है।",
+  "why": "reviewer (error): Adopted emendation anyakta→avyakta has no conjectural mark (note says sense certain; glossary requires the mark)"
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "'ekaḥ anekaḥ' is kept literal (single or manifold). The corrected avyakta is adopted in the translations without a separate conjectural mark because the sense is certain from the list.",
+  "new": "'ekaḥ anekaḥ' is kept literal (single or manifold). The corrected avyakta is adopted in the translations with the conjectural mark (glossary rule).",
+  "why": "reviewer (error): Adopted emendation anyakta→avyakta has no conjectural mark (note says sense certain; glossary requires the mark)"
+ },
+ {
+  "n": "35",
+  "field": "lines.0.tokens.3.words",
+  "old": [
+   {
+    "w": "gadgada",
+    "gloss": "stammering",
+    "gram": "m. nom. sg."
+   },
+   {
+    "w": "avyakta",
+    "gloss": "indistinct",
+    "gram": "m. nom. sg."
+   },
+   {
+    "w": "kṣāma",
+    "gloss": "thin",
+    "gram": "m. nom. sg."
+   },
+   {
+    "w": "dīnaḥ",
+    "gloss": "piteous",
+    "gram": "m. nom. sg."
+   }
+  ],
+  "new": [
+   {
+    "w": "gadgada-avyakta-kṣāma-dīnaḥ",
+    "gloss": "stammering, indistinct, thin, piteous",
+    "gram": "dvandva, m. nom. sg."
+   }
+  ],
+  "why": "reviewer (minor): Printed as one token with no visarga/o sandhi, so it is a dvandva compound, not four inflected nominatives; stems given with case labels"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "या जो बोलना चाहता हुआ मोहित हो जाता है।",
+  "new": "या जो बोलना चाहता हुआ भ्रमित हो जाता है।",
+  "why": "reviewer (minor): मोहित reads as \"charmed\"; muhyati = becomes bewildered"
+ }
+]

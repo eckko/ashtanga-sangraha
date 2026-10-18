@@ -1,0 +1,275 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अब इसलिए हम प्रकृति के भेदों से सम्बन्धित, शरीर सम्बन्धी का व्याख्यान करेंगे।",
+  "new": "अब इसलिए हम प्रकृति के भेदों से सम्बन्धित शारीर यानी शरीर सम्बन्धी की व्याख्या करेंगे।",
+  "why": "reviewer (minor): Hindi is ungrammatical (\"शरीर सम्बन्धी का व्याख्यान\"); sibling chapter openers use the form \"शारीर यानी शरीर सम्बन्धी ... की व्याख्या करेंगे\"."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "sapta",
+  "old": "numeral, f. nom. pl.",
+  "new": "numeral, nom. pl.",
+  "why": "reviewer (minor): Glossary: numerals above four are \"nom. pl.\" with no gender."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "There, whichever doṣa, one or more, becomes predominant in the semen (śukra), the menstrual fluid (ārtava), the womb (garbhāśaya) and the time, and in the mother's food and conduct, by that the constitution (prakṛti) arises, lasting until death, as for a worm being born in a poison-creeper, by the poison; like a poisonous worm, a scorpion and so on, or like a snake, by its own poison.",
+  "new": "There, whichever doṣa, one or more, becomes predominant in the semen (śukra), the menstrual fluid (ārtava), the womb (garbhāśaya) and the time, and in the mother's food and conduct, by that, until death (on a conjectural reading), the constitution (prakṛti) arises, as for a worm being born in a poison-creeper, by the poison; like a poisonous worm, a scorpion and so on, or like a snake, by its own poison.",
+  "why": "reviewer (error): The reading tena ā-maraṇāt viṣa-valyām (printed \"āmaraṇāhviṣa\") is a flagged typo conjecture adopted in the translation, so it needs the conjectural mark in both languages (glossary); \"lasting\" is also supplied (ā-maraṇāt = \"until death\")."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वहाँ शुक्र, आर्तव, गर्भाशय और काल में तथा माता के आहार और विहार में, जो एक या अनेक दोष अधिकता से हो, उससे मृत्यु तक प्रकृति उत्पन्न होती है, जैसे विष की बेल में उत्पन्न होने वाले कृमि के लिए विष से, विषैले कृमि या बिच्छू आदि के लिए, अथवा सर्प के लिए अपने विष से।",
+  "new": "वहाँ शुक्र, आर्तव, गर्भाशय और काल में तथा माता के आहार और विहार में, जो एक या अनेक दोष अधिकता से हो, उससे, अनुमानित पाठ पर मृत्यु तक, प्रकृति उत्पन्न होती है, जैसे विष की बेल में उत्पन्न होने वाले कृमि के लिए विष से, विषैले कृमि या बिच्छू आदि के लिए, अथवा सर्प के लिए अपने विष से।",
+  "why": "reviewer (error): Same: adopted conjecture unmarked in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वहाँ शुक्र, आर्तव, गर्भाशय और काल में तथा माता के आहार और विहार में, जो एक या अनेक दोष अधिकता से हो, उससे, अनुमानित पाठ पर मृत्यु तक, प्रकृति उत्पन्न होती है, जैसे विष की बेल में उत्पन्न होने वाले कृमि के लिए विष से, विषैले कृमि या बिच्छू आदि के लिए, अथवा सर्प के लिए अपने विष से।",
+  "new": "वहाँ शुक्र, आर्तव, गर्भाशय और काल में तथा माता के आहार और विहार में, जो एक या अनेक दोष अधिकता से हो, उससे, अनुमानित पाठ पर मृत्यु तक, प्रकृति उत्पन्न होती है, जैसे विष की बेल में उत्पन्न होने वाले कृमि के लिए विष से, विषैले कृमि, बिच्छू आदि के लिए, अथवा सर्प के लिए अपने विष से।",
+  "why": "reviewer (minor): Hindi inserts \"या\" between worm and scorpion; the Sanskrit lists them without a conjunction (saviṣakṛmer iva vṛścikāder)."
+ },
+ {
+  "n": "3",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Notes call it a hard, partly garbled sentence with uncertain attachment of the genitives and a conjectural join; \"medium\" is too firm."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "इसलिए उसी से बने होने के कारण, शरीर के शुक्र और आर्तव से भावित यानी भीगे हुए होने के कारण और प्राकृत होने के कारण वह उस दोष से उतने में नष्ट नहीं होता।",
+  "new": "इसलिए उसी से बने होने के कारण, शरीर के शुक्र और आर्तव से भावित यानी भीगे हुए होने के कारण और प्राकृत होने के कारण वह उस दोष से उतने में आहत नहीं होता।",
+  "why": "reviewer (minor): vi-√han (vihanyate) is \"is struck down, hindered\"; \"नष्ट\" (destroyed) is stronger than the English \"harmed\"."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "But the abnormal (vaikṛta) ones, arising in one who has come out of the womb from foods of unclear kind (asāt), grow only upon the natural (prākṛta) ones; by the force of time and so on, through [unclear: svapnamāṇavṛddhikṣayayogāt], they favour the body and also vitiate it. Likewise ojas too, supreme, situated in the heart, of the measure of eight drops, is the support; [unclear: prākṛtikalya]; of ojas, whose nature is rasa, sharing in decrease and increase.",
+  "new": "But the abnormal (vaikṛta) ones, arising from the foods of one who has come out of the womb, [unclear: asāt], grow only upon the natural (prākṛta) ones; by the force of time and so on, through [unclear: svapnamāṇavṛddhikṣayayogāt], they favour the body and also vitiate it. Likewise ojas too, supreme, situated in the heart, of the measure of eight drops, is the support; [unclear: prākṛtikalya]; of ojas, whose nature is rasa, sharing in decrease and increase.",
+  "why": "reviewer (error): \"of unclear kind\" supplies a noun (\"kind\") the Sanskrit lacks, and the damaged word is attached as if it described the foods; \"in one\" turns the genitive abhiniḥsṛtasya into a locative (Hindi has \"के\")."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "परन्तु वैकृत, गर्भ से बाहर आए हुए के अस्पष्ट पद असात् वाले आहारों से उत्पन्न होते हुए, प्राकृतों पर ही जमते हैं; वे काल आदि के प्रभाव से अस्पष्ट पद स्वप्नमाणवृद्धिक्षययोगात् के कारण शरीर को अनुगृहीत करते हैं और दूषित भी करते हैं। उसी प्रकार ओज भी परम, हृदय में स्थित, आठ बूँद के माप का आधार है; अस्पष्ट पद प्राकृतिकल्य; रस स्वरूप वाले, क्षय और वृद्धि में भागी ओज का।",
+  "new": "परन्तु वैकृत, गर्भ से बाहर आए हुए के आहारों से, अस्पष्ट पद असात्, उत्पन्न होते हुए, प्राकृतों पर ही जमते हैं; वे काल आदि के प्रभाव से अस्पष्ट पद स्वप्नमाणवृद्धिक्षययोगात् के कारण शरीर को अनुगृहीत करते हैं और दूषित भी करते हैं। उसी प्रकार ओज भी परम, हृदय में स्थित, आठ बूँद के माप का आधार है; अस्पष्ट पद प्राकृतिकल्य; रस स्वरूप वाले, क्षय और वृद्धि में भागी ओज का।",
+  "why": "reviewer (error): \"वाले\" attaches the damaged word to the foods as an adjective; same fix as English."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Now, in accordance with the qualities of his own doṣa, one of Vāta constitution (vātaprakṛti) is thin and dry, with thin and scanty limbs, teeth, nails, hair, eyes and voice; a hater of cold, with tightly bound (udbaddha) calves; going with noisy joints; quick to begin, to be agitated, to grasp and to forget; unsteady in fortitude, mind, gait, gaze, disposition and friendship; a thief, ignoble; envious, with his senses unconquered; fond of music (gāndharva), legends (itihāsa), laughter, play, quarrel, hunting, gardens and journeys; and with a desire for, and suitability to, unctuous, hot, sweet, sour and salty food and drink.",
+  "new": "Now, in accordance with the qualities of his own doṣa, one of Vāta constitution (vātaprakṛti) is thin and dry, with thin and scanty limbs, teeth, nails, hair, eyes and voice; a hater of cold, with tightly bound (udbaddha) calves; going with noisy joints; quick to begin, to be agitated, to grasp and to forget; unsteady in fortitude, mind, gait, gaze, disposition and friendship; a thief, ignoble; envious, with his senses unconquered; fond of music (gāndharva), legends (itihāsa), laughter, play, quarrel, hunting, gardens and journeys; and with a desire for, and suitability to, unctuous, hot, sweet, sour (on a conjectural reading) and salty food and drink.",
+  "why": "reviewer (error): \"sour\" rests on the flagged conjecture madhurāmsa -> madhurāmla; glossary: an adopted correction must carry the conjectural mark in both languages."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अब अपने दोष के गुणों के अनुसार वात प्रकृति वाला दुबला और रूखा होता है; उसके अंग, दाँत, नाखून, रोम, नेत्र और स्वर पतले और कम होते हैं; वह शीत से द्वेष करने वाला है, पिंडलियाँ कसी हुई हैं; सशब्द जोड़ों से चलता है; आरम्भ, क्षोभ, ग्रहण और भूलने में शीघ्र है; धैर्य, बुद्धि, चाल, दृष्टि, स्वभाव और मित्रता में चंचल है; चोर है, अनार्य है; ईर्ष्यालु है, इन्द्रियों को न जीतने वाला है; गान्धर्व यानी संगीत, इतिहास, हास, विलास, कलह, शिकार, उद्यान और यात्रा का प्रिय है; और चिकने, गरम, मीठे, खट्टे, नमकीन अन्न और पान की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "अब अपने दोष के गुणों के अनुसार वात प्रकृति वाला दुबला और रूखा होता है; उसके अंग, दाँत, नाखून, रोम, नेत्र और स्वर पतले और कम होते हैं; वह शीत से द्वेष करने वाला है, पिंडलियाँ कसी हुई हैं; सशब्द जोड़ों से चलता है; आरम्भ, क्षोभ, ग्रहण और भूलने में शीघ्र है; धैर्य, बुद्धि, चाल, दृष्टि, स्वभाव और मित्रता में चंचल है; चोर है, अनार्य है; ईर्ष्यालु है, इन्द्रियों को न जीतने वाला है; गान्धर्व यानी संगीत, इतिहास, हास, विलास, कलह, शिकार, उद्यान और यात्रा का प्रिय है; और चिकने, गरम, मीठे, अनुमानित पाठ पर खट्टे, नमकीन अन्न और पान की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (error): Same: unmarked conjecture in Hindi."
+ },
+ {
+  "n": "15",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "snigdhoṣṇamadhurāmsalavaṇānnapānakāṃkṣopaśayaśca",
+    "suggest": "snigdhoṣṇamadhurāmlalavaṇānnapānakāṅkṣopaśayaśca",
+    "why": "likely: 'madhurāmsa' is not a taste; ms for ml (OCR), and madhura-amla-lavaṇa is the usual sequence"
+   }
+  ],
+  "new": [
+   {
+    "src": "snigdhoṣṇamadhurāmsalavaṇānnapānakāṃkṣopaśayaśca",
+    "suggest": "snigdhoṣṇamadhurāmlalavaṇānnapānakāṅkṣopaśayaśca",
+    "why": "likely: 'madhurāmsa' is not a taste; ms for ml (OCR), and madhura-amla-lavaṇa is the usual sequence"
+   },
+   {
+    "src": "śītadvidudvaddhapiṃḍikaḥ",
+    "suggest": "śītadviḍ udbaddhapiṇḍikaḥ",
+    "why": "possible: dental d printed where sandhi gives retroflex ḍ (dviṣ + udbaddha -> dviḍ udbaddha), and v for b (recorded once book-wide); the split is a reading, not firm"
+   }
+  ],
+  "why": "reviewer (minor): The split śīta-dviṭ + udbaddha silently restores ḍ/ṭ for the printed dental d; an emendation in `words` needs its own flag."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "With little wealth, strength, life and sleep; with weak (kṣāma) speech and a body spread over with vessels (dhamanī).",
+  "new": "With little wealth, strength, life and sleep; with weak (kṣāma) speech and a body spread over with vessels (dhamanī, probably the visible veins).",
+  "why": "reviewer (minor): Policy: a probable identification is written beside the term and hedged; the draft keeps it only in gloss/notes."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "थोड़े धन, बल, जीवन और नींद वाला; कृश वाणी वाला, धमनियों से फैले हुए गात्र वाला।",
+  "new": "थोड़े धन, बल, जीवन और नींद वाला; कृश वाणी वाला, धमनी यानी सम्भवतः दिखाई देने वाली नसों से फैले हुए गात्र वाला।",
+  "why": "reviewer (minor): Bare \"धमनियों\" reads as arteries; the glossary requires dhamanī to be hedged in both languages."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "थोड़ी खुली दृष्टि और बहुत ढीले मुख वाला; वह कराहता है, अस्पष्ट क्रिया कथति करता है, दाँतों को चबाता है।",
+  "new": "थोड़ी खुली दृष्टि और बहुत ढीले मुख वाला; वह कराहता है, अस्पष्ट पद क्थति, दाँतों को चबाता है।",
+  "why": "reviewer (error): The printed word is क्थति (kthati), not \"कथति\"; \"करता है\" and \"क्रिया\" are supplied. Other units write \"अस्पष्ट पद ...\"."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "One of Pitta constitution (pittaprakṛti) is warm and fair-bodied, with copper-coloured nails, eyes, tongue, lips, palms and soles; with loose joint-ligaments and flesh; with hair of the head and body like a karabha (camel or young elephant), tawny, sparse and soft; of middling strength and life, with little semen, sexual intercourse and offspring; brave, proud; with early wrinkles (valī), baldness (khalita), grey hair (palita), pimples (piṭka) and blemishes (vyaṅga) and, on a conjectural reading, hunger and thirst; intelligent, unfortunate; and with desire for, and suitability to, sweet, bitter and astringent (kaṣāya) and cold things.",
+  "new": "One of Pitta constitution (pittaprakṛti) is warm and fair-bodied, with copper-coloured nails, eyes, tongue, lips, palms and soles; with loose joint-ligaments and flesh; with hair of the head and body like a karabha (camel or young elephant), tawny, sparse and soft; of middling strength and life, with little semen, sexual intercourse and offspring; brave, proud; with early wrinkles (valī), baldness (khalita), grey hair (palita), pimples (piṭka) and blemishes (vyaṅga) and, on a conjectural reading, hunger and thirst; intelligent, unfortunate; and with desire for, and suitability to, sweet, bitter, astringent (kaṣāya) and cold (ones).",
+  "why": "reviewer (minor): Glossary: unstated nouns are \"(ones)\", not \"things\"."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "पित्त प्रकृति वाला गरम और गोरे शरीर वाला होता है; उसके नाखून, नेत्र, जीभ, होंठ, हथेलियाँ और तलवे ताँबे के रंग के होते हैं; जोड़ों के बन्धन और मांस ढीले होते हैं; केश और रोम करभ के समान कपिल यानी भूरे, विरल और मुलायम होते हैं; बल और आयु मध्यम होती है, शुक्र, मैथुन और सन्तान थोड़ी होती है; शूर है, अभिमानी है; झुर्रियाँ, गंजापन, बाल पकना, फुंसियाँ और झाइयाँ जल्दी होती हैं, अनुमानित पाठ पर उसे भूख और प्यास लगती है; मेधावी है, दुर्भाग्य वाला है; और मीठे, कड़वे, कसैले और ठंडे की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "पित्त प्रकृति वाला गरम और गोरे शरीर वाला होता है; उसके नाखून, नेत्र, जीभ, होंठ, हथेलियाँ और तलवे ताँबे के रंग के होते हैं; जोड़ों के बन्धन और मांस ढीले होते हैं; केश और रोम करभ यानी ऊँट या हाथी के बच्चे के समान कपिल यानी भूरे, विरल और मुलायम होते हैं; बल और आयु मध्यम होती है, शुक्र, मैथुन और सन्तान थोड़ी होती है; शूर है, अभिमानी है; झुर्रियाँ, गंजापन, बाल पकना, फुंसियाँ और झाइयाँ जल्दी होती हैं, अनुमानित पाठ पर उसे भूख और प्यास लगती है; मेधावी है, दुर्भाग्य वाला है; और मीठे, कड़वे, कसैले और ठंडे की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (minor): Hindi leaves karabha unglossed while English gives \"camel or young elephant\"."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "वैभव, साहस, बुद्धि और बल से युक्त होता है; भय में दिशाओं के स्वामियों का भी सहारा होता है।",
+  "new": "वैभव, साहस, बुद्धि और बल से युक्त होता है; भय में दिशाओं के स्वामियों के लिए भी वह आश्रय होता है।",
+  "why": "reviewer (error): Reads as \"he has the support of the lords of the quarters\" (reverses the sense); gatiḥ digpatām = a refuge for/of the lords. English says \"for\"."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "A hater of heat, sweating, foul-smelling, with much stool, anger, drinking, eating and jealousy.",
+  "new": "A hater of heat, sweating, foul-smelling (on a conjectural reading), with much stool, anger, drinking, eating and jealousy.",
+  "why": "reviewer (error): Adopted conjecture pūniṃ -> pūti is unmarked in the translation."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "गरमी से द्वेष करने वाला, पसीने वाला, दुर्गन्ध वाला, जिसे मल, क्रोध, पान, भोजन और ईर्ष्या बहुत होते हैं।",
+  "new": "गरमी से द्वेष करने वाला, पसीने वाला, अनुमानित पाठ पर दुर्गन्ध वाला, जिसे मल, क्रोध, पान, भोजन और ईर्ष्या बहुत होते हैं।",
+  "why": "reviewer (error): Same: unmarked in Hindi."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned, unctuous, firm, delicate, smooth, with well-fitted joint-ligaments; with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "new": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with well-fitted joint-ligaments; with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "why": "reviewer (error): su- is restored from printed \"mu\" (flagged); adopted correction needs the mark."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with well-fitted joint-ligaments; with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "new": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with joint-ligaments well-fitted (on a conjectural reading); with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "why": "reviewer (error): su-sandhi-bandha is restored from printed \"sasandhibandha\" (flagged); adopted correction needs the mark."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with joint-ligaments well-fitted (on a conjectural reading); with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "new": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with joint-ligaments well-fitted (on a conjectural reading); with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much (on a conjectural reading) ojas, strength, semen, sexual intercourse and offspring; [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "why": "reviewer (minor): The mark is detached from the conjectural word (bahu from \"banho\") and reads as if it applied to the unclear item."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with joint-ligaments well-fitted (on a conjectural reading); with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much (on a conjectural reading) ojas, strength, semen, sexual intercourse and offspring; [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "new": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned (on a conjectural reading), unctuous, firm, delicate, smooth, with joint-ligaments well-fitted (on a conjectural reading); with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much (on a conjectural reading) ojas, strength, semen, sexual intercourse and offspring; [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry (ones).",
+  "why": "reviewer (minor): Glossary: unstated nouns are \"(ones)\"."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण अंगों वाला है, उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (error): \"अंगों\" is a noun the Sanskrit lacks; the two restored readings (su-, su-sandhi-bandha) are unmarked in Hindi."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (minor): \"गहरा\" and \"गड़गड़ाहट\" are added; English says only \"a sound like a lion, a mṛdaṅga drum and a cloud\"."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है; वह भूख, प्यास और गरमी सह लेता है; उसके ओज, बल, शुक्र, मैथुन और सन्तान अनुमानित पाठ पर बहुत हैं; अस्पष्ट पद स्थिरशोष, माला और लेप वाला है; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (minor): Mark detached from the conjectural word and \"उसके ... हैं\" wrongly makes the unclear item an object of possession."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है; वह भूख, प्यास और गरमी सह लेता है; उसके ओज, बल, शुक्र, मैथुन और सन्तान अनुमानित पाठ पर बहुत हैं; अस्पष्ट पद स्थिरशोष, माला और लेप वाला है; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "new": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है; वह भूख, प्यास और गरमी सह लेता है; उसके ओज, बल, शुक्र, मैथुन और सन्तान अनुमानित पाठ पर बहुत हैं; अस्पष्ट पद स्थिरशोष, माला और लेप वाला है; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "why": "reviewer (minor): \"स्वभाव\" is not in the Sanskrit (peśala)."
+ },
+ {
+  "n": "27",
+  "field": "word.w",
+  "word": "bahu-ojaḥ-bala-śukra-vyavāya-apatya",
+  "old": "bahu-ojaḥ-bala-śukra-vyavāya-apatya",
+  "new": "bahu-ojas-bala-śukra-vyavāya-apatya",
+  "why": "reviewer (minor): Compound member should be the stem ojas, not the nominative with visarga."
+ },
+ {
+  "n": "29",
+  "field": "word.w",
+  "word": "prājya-āyuḥ-vittaḥ",
+  "old": "prājya-āyuḥ-vittaḥ",
+  "new": "prājya-āyus-vittaḥ",
+  "why": "reviewer (minor): Compound member should be the stem āyus."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "श्रद्धालु, गम्भीर, स्थूललक्ष, क्षमावान, श्रेष्ठ, नींद वाला, दीर्घसूत्री यानी देर लगाने वाला, कृतज्ञ।",
+  "new": "श्रद्धालु, गम्भीर, स्थूललक्ष यानी बड़े लक्ष्य वाला, क्षमावान, श्रेष्ठ, निद्रालु यानी सोने की प्रवृत्ति वाला, दीर्घसूत्री यानी देर लगाने वाला, कृतज्ञ।",
+  "why": "reviewer (minor): Hindi leaves sthūlalakṣa untranslated and \"नींद वाला\" is ambiguous for nidrālu (prone to sleep)."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "किन्तु दोनों के लक्षणों के मिलने पर संसर्ग से बनी प्रकृति होती है।",
+  "new": "किन्तु दोनों के लक्षणों के मिलने पर संसर्ग से बनी होती है।",
+  "why": "reviewer (minor): Hindi supplies the noun \"प्रकृति\" which the Sanskrit does not state (glossary: no added nouns in Hindi)."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "सब गुणों से युक्त व्यक्ति समदोष प्रकृति वाला होता है।",
+  "new": "सब गुणों से युक्त समदोष प्रकृति वाला होता है।",
+  "why": "reviewer (minor): \"व्यक्ति\" is a noun the Sanskrit does not state."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "उनमें पहली तीन सदा रोगी रहने वाली हैं, अस्पष्ट पद दोषानुप्रशयितप्रकृतित्वात् के कारण।",
+  "new": "उनमें पहले तीन सदा रोगी रहने वाले हैं, अस्पष्ट पद दोषानुप्रशयितप्रकृतित्वात् के कारण।",
+  "why": "reviewer (minor): ādyāḥ trayaḥ nityāturāḥ are masculine; Hindi feminine forms silently supply feminine \"प्रकृतियाँ\" (the notes say the noun is \"constitutions\"). The unstated noun is masculine (persons)."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "The last word is damaged or unknown ('anupraśayita' is not a recognised form) and is left unsplit and unclear. A plausible sense is 'because their constitution is attached to (lies along) the doṣa' (doṣa-anuśayita-prakṛti-tva), but this is a guess and is not used in the translation. 'The first three' = the three single-doṣa constitutions; the noun 'constitutions' is not stated, and the gram is given for the adjective only.",
+  "new": "The last word is damaged or unknown ('anupraśayita' is not a recognised form) and is left unsplit and unclear. A plausible sense is 'because their constitution is attached to (lies along) the doṣa' (doṣa-anuśayita-prakṛti-tva), but this is a guess and is not used in the translation. 'The first three' = the three single-doṣa constitutions; the noun 'constitutions' is not stated, and the gram is given for the adjective only. Reviewer: ādyāḥ trayaḥ nityāturāḥ are masculine plural, so the unstated noun is masculine (persons of those types), not the feminine prakṛtayaḥ.",
+  "why": "reviewer (minor): Gender: masculine plural forms point to persons, not feminine prakṛtayaḥ; note only."
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "kṣut-pipāsā-ādiṣu",
+  "old": "dvandva, f. loc. pl.",
+  "new": "dvandva, m. loc. pl.",
+  "why": "reviewer (minor): ādi is masculine; \"f. loc. pl.\" is wrong."
+ }
+]

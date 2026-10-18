@@ -1,0 +1,784 @@
+{
+ "units": [
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीव्र",
+     "problem": "Hindi adds 'तीव्र' (intense) to the longing; the Sanskrit has only daurhṛda.",
+     "fix": "गर्भावस्था की इच्छा",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर्भावस्था की तीव्र इच्छा",
+      "new": "गर्भावस्था की इच्छा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In the fourth, the division",
+     "problem": "Both text_flags (pratyaṅga, pravyakta) are conjectures adopted in the words and the translation, but the translation is not marked (GLOSSARY: a conjectural reading adopted in a translation must be marked there).",
+     "fix": "In the fourth, on a conjectural reading, the division ...",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "40",
+       "op": "replace",
+       "field": "english",
+       "old": "In the fourth, the division",
+       "new": "In the fourth, on a conjectural reading, the division"
+      },
+      {
+       "n": "40",
+       "op": "replace",
+       "field": "hindi",
+       "old": "चौथे में अङ्ग",
+       "new": "चौथे में, अनुमानित पाठ पर, अङ्ग"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रस को ... ओज",
+     "problem": "Doctrinal terms rasa and ojas stand bare in Hindi although the English glosses them (brief: doctrinal terms kept with plain glosses).",
+     "fix": "रस यानी पोषक द्रव ... ओज यानी जीवन-सार",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "set",
+      "field": "hindi",
+      "value": "आठवें में गर्भ माता से और माता गर्भ से, रस यानी पोषक द्रव को ले जाने वाली वाहिनियों के द्वारा, बार-बार एक-दूसरे से ओज यानी जीवन-सार ग्रहण करते हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "giving the reason for unit 46",
+     "problem": "Stated as fact; the glossary asks for 'appears to' wording where a unit's link to its neighbour is only inferred.",
+     "fix": "which appears to give the reason for unit 46",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "notes",
+      "old": "giving the reason for unit 46",
+      "new": "which appears to give the reason for unit 46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "eager to come out",
+     "problem": "unmukha = turned toward, on the point of; 'eager' adds a feeling the Sanskrit does not state.",
+     "fix": "in this one who is on the point of coming out",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "48",
+       "op": "replace",
+       "field": "english",
+       "old": "in this one who is eager to come out",
+       "new": "in this one who is on the point of coming out"
+      },
+      {
+       "n": "48",
+       "op": "word",
+       "match_w": "niṣkramaṇa-unmukhasya",
+       "field": "gloss",
+       "value": "directed toward coming out, on the point of coming out"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "'ojasā' ... where an ablative is the usual case",
+     "problem": "Incorrect claim: viyoga/viyukta are regularly construed with the instrumental, so ojasā viyogaḥ is normal; the only loose point is genitive asya ... unmukhasya against nominative anubhavan.",
+     "fix": "Replace the clause about the ablative.",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "notes",
+      "old": "and 'ojasā' (instrumental) stands with 'viyoga' where an ablative is the usual case; the translation follows the printed forms.",
+      "new": "while 'ojasā' (instrumental) with 'viyoga' is acceptable (viyoga and viyukta take the instrumental); the translation follows the printed forms."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "anubhavan",
+     "problem": "OBSERVATION (human decision): 'asya niṣkramaṇonmukhasya ... anubhavan' is ungrammatical as printed; a genitive participle (anubhavataḥ) would agree with asya. This is a possible text flag the draft did not make. Not patched because the reading is a guess; unit stays low confidence.",
+     "fix": "possible flag: anubhavan -> anubhavataḥ (agrees with asya ... unmukhasya)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संस्कार",
+     "problem": "Doctrinal term saṃskāra stands bare in Hindi (reads as 'rites' to a modern reader); English glosses it as 'impression'.",
+     "fix": "ओज के संस्कार यानी छाप के बने रहने से",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ओज के संस्कार के बने रहने से",
+      "new": "ओज के संस्कार यानी छाप के बने रहने से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Because it is the Nairṛta share",
+     "problem": "'bhāgatavāt' -> 'bhāgatvāt' is a conjecture adopted in the translation but not marked there.",
+     "fix": "Because, on a conjectural reading, it is the Nairṛta share ...",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "english",
+       "old": "Because it is the Nairṛta share",
+       "new": "Because, on a conjectural reading, it is the Nairṛta share"
+      },
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "hindi",
+       "old": "नैर्ऋत यानी",
+       "new": "अनुमानित पाठ पर नैर्ऋत यानी"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बलि",
+     "problem": "Hindi 'बलि' reads as animal sacrifice; the Sanskrit bali here is an offering of meat and rice.",
+     "fix": "बलि यानी भेंट",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "की बलि अर्पित करे",
+      "new": "की बलि यानी भेंट अर्पित करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Even when one day has passed in that (period)",
+     "problem": "OBSERVATION (human decision): 'tasmin ... ekadivasātikrānte' looks like a single locative absolute, 'when that (time) has passed by a day', rather than 'in that, when one day has passed'. 'tasmin' referent and the whole sense stay uncertain; unit correctly low confidence.",
+     "fix": "possible: Even when that (time) has passed by one day, they speak of a time of delivery up to a year.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुमान् टिकता है, बाएँ का स्त्री, मध्य का नपुंसक",
+     "problem": "Ungrammatical Hindi ('बाएँ का स्त्री', 'मध्य का नपुंसक'); 'पुमान्' left as Sanskrit; garbha-koṣṭha = uterine cavity is only 'probable' (draft's own tag) but is unhedged in both translations.",
+     "fix": "Rewrite Hindi; hedge both.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "57",
+       "op": "set",
+       "field": "hindi",
+       "value": "गर्भ माता की पीठ की ओर मुख किए हुए, ललाट पर अञ्जलि बाँधे हुए और अंगों को सिकोड़े हुए, गर्भ-कोष्ठ यानी सम्भवतः गर्भाशय की गुहा में दाहिने पार्श्व का आश्रय लेकर पुमान् यानी पुरुष टिकता है, बाएँ का आश्रय लेकर स्त्री और मध्य का आश्रय लेकर नपुंसक।"
+      },
+      {
+       "n": "57",
+       "op": "replace",
+       "field": "english",
+       "old": "(uterine cavity)",
+       "new": "(probably the uterine cavity)"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "napuṃsakam",
+     "problem": "Consistency check requested: u57 and u75 give 'n. nom. sg.', u69 gave 'acc. sg.' with no gender. The same form is the gender-term neuter; u69 patched to 'n. acc. sg.' so all three agree (see u69).",
+     "fix": "n/a",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Hindi adds 'ही' (only) and 'क्षण' (moment), neither in the Sanskrit; renders aparā as 'आँवल' against GLOSSARY (अपरा यानी जेर); nāḍī = umbilical cord is only probable and unhedged; the two conjectures (pratyaṅga, aparā) are not marked in the translations; niṣeka is left bare in Hindi.",
+     "fix": "Rewrite Hindi and English.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "60",
+       "op": "set",
+       "field": "hindi",
+       "value": "निषेक यानी गर्भाधान से लेकर गर्भाशय का उपस्नेह यानी भीगना और उपस्वेद यानी पसीना पोषण का साधन है। उसके बाद, अनुमानित पाठ पर, जिसके अंग-प्रत्यंग प्रकट हो रहे हैं उस इसकी नाभि में नाड़ी यानी सम्भवतः गर्भनाल बँधी है; नाड़ी में, अनुमानित पाठ पर, अपरा यानी जेर; उसमें माता का हृदय।"
+      },
+      {
+       "n": "60",
+       "op": "replace",
+       "field": "english",
+       "old": "in this one whose limbs and minor limbs are becoming manifest, a duct (nāḍī) is fastened at the navel; in the duct, the aparā (placenta);",
+       "new": "in this one whose limbs and minor limbs are becoming manifest (on a conjectural reading), a duct (nāḍī, probably the umbilical cord) is fastened at the navel; in the duct, the aparā (placenta; on a conjectural reading);"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "niṣekāt",
+     "problem": "niṣeka = (pouring in of semen) conception/insemination is the standard meaning, not merely probable.",
+     "fix": "retag standard",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "60",
+       "op": "word",
+       "match_w": "niṣekāt",
+       "field": "gloss",
+       "value": "from impregnation (niṣeka; the infusion of semen, standard)"
+      },
+      {
+       "n": "60",
+       "op": "replace",
+       "field": "notes",
+       "old": "so impregnation (probable)",
+       "new": "so impregnation (standard)"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "vyaktībhavat-aṅga-pratyaṅgasya",
+     "problem": "gram 'n.' contradicts the following 'asya' (m.); a bahuvrīhi qualifying asya needs no gender.",
+     "fix": "gen. sg. (bahuvrīhi)",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "word",
+      "match_w": "vyaktībhavat-aṅga-pratyaṅgasya",
+      "field": "gram",
+      "value": "gen. sg. (bahuvrīhi)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आँवल; धमनियों",
+     "problem": "'आँवल' against GLOSSARY (अपरा यानी जेर); 'धमनियों' = arteries, whereas the draft tags dhamanī only 'probably blood vessels'.",
+     "fix": "अपरा यानी जेर; धमनी यानी वाहिकाओं",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "61",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अपरा यानी आँवल को",
+       "new": "अपरा यानी जेर को"
+      },
+      {
+       "n": "61",
+       "op": "replace",
+       "field": "hindi",
+       "old": "धमनियों के द्वारा",
+       "new": "धमनी यानी वाहिकाओं के द्वारा"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Fine as grouped. Suggest reading 61, 62 and 63 as one sentence (rasa reaches the aparā, then in sequence the navel, then ... in the pakvāśaya); the grouping is not claimed as fact.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "And then it,",
+     "problem": "'punar' ('again') is dropped from the English (Hindi has फिर). Hindi 'पक्वाशय यानी मल के स्थान' does not match the English hedge (probably the large intestine); kāyāgni stays bare in Hindi.",
+     "fix": "add 'again'; hedge Hindi; gloss kāyāgni",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "63",
+       "op": "replace",
+       "field": "english",
+       "old": "And then it, in the embryo's pakvāśaya",
+       "new": "And then it again, in the embryo's pakvāśaya"
+      },
+      {
+       "n": "63",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पक्वाशय यानी मल के स्थान में",
+       "new": "पक्वाशय यानी सम्भवतः बड़ी आँत में"
+      },
+      {
+       "n": "63",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अपनी काया की अग्नि से",
+       "new": "अपनी कायाग्नि यानी शरीर की पाचन-अग्नि से"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "there is moistening",
+     "problem": "OBSERVATION (human decision): English supplies 'there is' in u50, u64 and u65 but not in u43, u52, u59, u62 (all verbless); the Hindi supplies none in any of them. The copula policy should be one rule across the chunk. Also payobhūta 'milk or water': both alternatives sit in the translation itself; the brief wants the most literal rendering with the alternative in notes. Left as drafted (low confidence).",
+     "fix": "decide one rule",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "free from impurity (amala)",
+     "problem": "amala-tva, set against 'gross waste (sthūla-mala)', is freedom from mala (waste); 'impurity' breaks the link with mala.",
+     "fix": "because the rasa is free from mala (waste)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "65",
+       "op": "replace",
+       "field": "english",
+       "old": "because the rasa is free from impurity (amala)",
+       "new": "because the rasa is free from mala (waste; amala)"
+      },
+      {
+       "n": "65",
+       "op": "replace",
+       "field": "hindi",
+       "old": "रस के निर्मल होने से",
+       "new": "रस के अमल यानी मल से रहित होने से"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "wind of parturition",
+     "problem": "The draft's own probable modern equivalent (labour contractions) stays in notes only; the owner policy wants it beside the Sanskrit term, hedged. Hindi uses 'आँवल' against GLOSSARY.",
+     "fix": "hedged equivalent; जेर",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "66",
+       "op": "replace",
+       "field": "english",
+       "old": "(prasūti-māruta)",
+       "new": "(prasūti-māruta, probably the contractions of labour)"
+      },
+      {
+       "n": "66",
+       "op": "replace",
+       "field": "hindi",
+       "old": "प्रसव की वायु के संयोग से",
+       "new": "प्रसव की वायु, सम्भवतः प्रसव-संकुचन, के संयोग से"
+      },
+      {
+       "n": "66",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अपरा यानी आँवल",
+       "new": "अपरा यानी जेर"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "natural (prakṛti) course",
+     "problem": "'course' is not in the Sanskrit.",
+     "fix": "This is the natural state (prakṛti).",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "67",
+       "op": "replace",
+       "field": "english",
+       "old": "This is the natural (prakṛti) course.",
+       "new": "This is the natural state (prakṛti)."
+      },
+      {
+       "n": "67",
+       "op": "set",
+       "field": "hindi",
+       "value": "यह प्रकृति यानी स्वाभाविक अवस्था है।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "abnormal (vikṛti) course",
+     "problem": "'course' is not in the Sanskrit.",
+     "fix": "Otherwise than this is abnormality (vikṛti).",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "68",
+       "op": "replace",
+       "field": "english",
+       "old": "Otherwise than this is the abnormal (vikṛti) course.",
+       "new": "Otherwise than this is abnormality (vikṛti)."
+      },
+      {
+       "n": "68",
+       "op": "set",
+       "field": "hindi",
+       "value": "इससे अन्यथा विकृति यानी असामान्य अवस्था है।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whose belly (kukṣi) is very raised and the embryo (garbha) round",
+     "problem": "Translation rests on a compound the draft itself calls conjectural ('tat' read as 'her'), yet the translations are unmarked (GLOSSARY: mark the conjecture in both languages).",
+     "fix": "add 'on a conjectural reading'",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "69",
+       "op": "replace",
+       "field": "english",
+       "old": "whose belly (kukṣi) is very raised and the embryo (garbha) round",
+       "new": "whose belly (kukṣi) is very raised and the embryo (garbha) round (on a conjectural reading of this compound)"
+      },
+      {
+       "n": "69",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है",
+       "new": "अनुमानित पाठ पर जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "atyunnatatatkukṣiparimaṃḍalagarbhā",
+     "problem": "OBSERVATION (human decision): the stray 'tat' in 'atyunnatatatkukṣi' should be a text_flag (possible: atyunnatakukṣi...), not only a note. Not patched because `words` would then need to change and the reading is a guess; the compound could also be divided differently.",
+     "fix": "possible flag: 'tat' superfluous (atyunnata-kukṣi-parimaṇḍala-garbhā)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "होने पर",
+     "problem": "'विपरीत होने पर / मिश्रण होने पर' adds 'होने पर' (GLOSSARY: not added where the Sanskrit has plain locatives).",
+     "fix": "उसके विपर्यय में ... मिश्रण में",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके विपरीत होने पर कन्या को और मिश्रण होने पर नपुंसक को।",
+      "new": "उसके विपर्यय में कन्या को और मिश्रण में नपुंसक को।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "napuṃsakam",
+     "problem": "Inconsistent with u57/u75 ('n. nom. sg.'): gender missing.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "word",
+      "match_w": "napuṃsakam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "split",
+     "where": "puruṣānabhilāṣiṇī",
+     "problem": "OBSERVATION (human decision): puruṣān + abhilāṣiṇī ('desiring men') versus puruṣa + anabhilāṣiṇī ('not desiring men') are both possible by sandhi; the draft chose the first and states the other in notes. Within a sign list for a son, either could stand; I cannot decide from the Sanskrit alone. Keep the unit at low confidence.",
+     "fix": "human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्रोतों",
+     "problem": "Doctrinal term srotas bare in Hindi (reads as 'source/stream').",
+     "fix": "स्रोतों यानी वाहक मार्गों",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर्भ के रस को ले जाने वाले स्रोतों को",
+      "new": "गर्भ के रस को ले जाने वाले स्रोतों यानी वाहक मार्गों को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "unfinished",
+     "problem": "OBSERVATION: u75 begins 'yadā ca', so 73, 74 and 75 look like parallel conditions; 73 and 74 print no result, 75 has its own 'tadā'. A lost result or a shared one cannot be decided from the print; do not claim either. Keep the notes as drafted.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दो रेत वाला",
+     "problem": "'रेत' reads as sand in Hindi; retas needs the Sanskrit form with a gloss (GLOSSARY: Hindi retas/śukra = semen).",
+     "fix": "दो रेतस् यानी वीर्य वाला",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "75",
+       "op": "replace",
+       "field": "hindi",
+       "old": "दो रेत वाला",
+       "new": "दो रेतस् यानी वीर्य वाला"
+      },
+      {
+       "n": "75",
+       "op": "word",
+       "match_w": "dvi-retaḥ",
+       "field": "gloss",
+       "value": "having two retas (seed, semen)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "then Vāta vitiates it, in the woman whose mind is unsteady with joy",
+     "problem": "(1) 'tataḥ' and 'paścāt' are merged into one 'afterwards' and a 'then' is misplaced before Vāta; (2) the genitive 'striyāḥ' (the woman's Vāta) is turned into 'in the woman'; (3) the unstated object 'it' is silent (conjecture must be bracketed and flagged); (4) Hindi 'नष्ट करता है' is stronger than upahanti 'damages'.",
+     "fix": "Rewrite both.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "76",
+       "op": "set",
+       "field": "english",
+       "value": "When the woman first has her purpose accomplished, then afterwards semen (śukra) is emitted by the man, and the Vāta of the woman, whose mind is unsteady with joy, vitiates [it] and damages the channels (srotas) of this one that carry virility (puṃstva), then a vātendriya (lit. 'Vāta organ') comes to be."
+      },
+      {
+       "n": "76",
+       "op": "set",
+       "field": "hindi",
+       "value": "जब स्त्री पहले कृतार्थ यानी सफल प्रयोजन वाली हो जाती है, फिर पुरुष द्वारा बाद में शुक्र यानी वीर्य छोड़ा जाता है, और हर्ष से अस्थिर चित्त वाली स्त्री का वात विगुण कर देता है तथा इसके पुंस्त्व को ले जाने वाले स्रोतों यानी वाहक मार्गों को क्षति पहुँचाता है, तब वातेन्द्रिय होता है।"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "vātendriya",
+     "problem": "OBSERVATION (human decision): the bracketed [it] (probably śukra) and the identity of 'vātendriya' (draft: probably a kind of impotent person) are guesses; keep low confidence. The text_flag for 'cāsyasrotāṃsi' only records a missing space, not an error.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk p02/ch02 k2 (units 39-76): 6 errors, 28 minor issues. Errors: unmarked conjectural readings in translations (u40, u52, u60, u69), unhedged probable anatomy and ungrammatical Hindi (u57, u60), mis-built translation of u76. No botanical names in chunk, so no plant identification errors. Anatomy equivalents (garbhāśaya uterus, aparā placenta, kāyāgni, śukra/retas) are correct; garbha-koṣṭha, nāḍī=umbilical cord, pakvāśaya=large intestine, dhamanī now hedged in both languages; niṣeka retagged standard. Counts as printed (none in this chunk). Units needing a human decision: 48 (anubhavan/asya agreement), 55 (tasmin, locative absolute), 64 (payobhūta; copula policy), 69 (atyunnatatatkukṣi; puruṣānabhilāṣiṇī), 76 (object of viguṇīkaroti; vātendriya). No regrouping needed; 61-62-63 and 73-75 read as continuing sentences.",
+ "glossary_suggestions": [
+  "Hindi retas = रेतस् यानी वीर्य (never bare रेत, which is sand).",
+  "garbha-koṣṭha, nāḍī (umbilical cord), pakvāśaya (large intestine), dhamanī (blood vessels), prasūti-māruta (labour contractions): probable, hedged 'probably'/'सम्भवतः' in both languages; niṣeka = impregnation is standard.",
+  "aparā Hindi = जेर everywhere (not आँवल), as already fixed in the p02 ch02 k4 entry.",
+  "prakṛti/vikṛti in ch02 u67-68 (normal/abnormal): 'natural state' / 'abnormality'; do not add 'course'.",
+  "napuṃsakam as a word in these lists: gram 'n. nom./acc. sg.' in every unit (u57, u69, u75).",
+  "amala-tva beside mala: 'free from mala (waste)', not 'impurity'.",
+  "viyoga/viyukta take the instrumental (ojasā viyogaḥ is regular).",
+  "OPEN: copula policy in verbless units (English 'there is' supplied in u50/64/65, not in u43/52/59/62)."
+ ]
+}

@@ -1,0 +1,488 @@
+{
+ "units": [
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "teṣām",
+     "problem": "Gram gives 'm.' for a pronoun standing for an unstated noun (glossary: no gender on unstated words); 157 gives 'n.' for the same word, so the two disagree.",
+     "fix": "gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "word",
+      "match_w": "teṣām",
+      "field": "gram",
+      "value": "gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in each single limb (sakthi)",
+     "problem": "Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so.",
+     "fix": "in each single sakthi (probably meaning limb)",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "replace",
+      "field": "english",
+      "old": "in each single limb (sakthi)",
+      "new": "in each single sakthi (probably meaning limb)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सक्थि यानी शाखा",
+     "problem": "Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so.",
+     "fix": "सक्थि यानी सम्भवतः शाखा",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सक्थि यानी शाखा",
+      "new": "सक्थि यानी सम्भवतः शाखा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "te",
+     "problem": "'m./n.' on te; te is not a neuter form and the noun is unstated.",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "word",
+      "match_w": "te",
+      "field": "gram",
+      "value": "nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पसलियों वाले भागों",
+     "problem": "'पसलियों वाले भागों' adds an anatomical interpretation; pārśva is the side or flank.",
+     "fix": "दोनों पार्श्वों यानी बगलों में",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पार्श्वों यानी पसलियों वाले भागों",
+      "new": "पार्श्वों यानी बगलों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kaṃṭhanāḍīnibaddhā",
+     "problem": "Observation, no patch. The flag may be unnecessary: if the print simply split a compound, 'kaṃṭhanāḍīnibaddha-hṛdaya-yakṛt-kloma-nāḍīṣu' ('in the nāḍīs of heart, liver and kloma that are bound to the kaṇṭhanāḍī') needs no emendation, and the final -ā would be an ordinary word-end. The draft's reading (separate nibaddhāḥ, four-member dvandva) is also possible. Both are conjectural; confidence medium is right. Owner to decide which reading, if any, goes in the translation.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "143",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "144",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "147",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "148",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भग",
+     "problem": "Hindi leaves bhaga unglossed while English says 'the female genital organ'.",
+     "fix": "भग यानी स्त्री के जननांग",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुदा, भग और",
+      "new": "गुदा, भग यानी स्त्री के जननांग और"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सामुद्ग यानी डिब्बे वाला नामक",
+     "problem": "Ungrammatical and unclear ('डिब्बे वाला नामक'); English says 'of the sāmudga (casket) kind'.",
+     "fix": "सामुद्ग यानी डिब्बी के प्रकार के।",
+     "severity": "minor",
+     "patch": {
+      "n": "148",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सामुद्ग यानी डिब्बे वाला नामक।",
+      "new": "सामुद्ग यानी डिब्बी के प्रकार के।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "149",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "150",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "151",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hanūbhayato",
+     "problem": "Wrong flag. ubhayataḥ ('on both sides of') takes the accusative, so 'hanū ubhayataḥ' (acc. du.) is regular and needs no emendation to hanvoḥ.",
+     "fix": "remove the flag",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "hanū",
+     "problem": "Note repeats the mistaken view that hanū is nom./acc. 'used as a locative'.",
+     "fix": "replace the note",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "set",
+      "field": "notes",
+      "value": "hanū is the accusative dual governed by ubhayataḥ ('on both sides of'), a regular construction, so nothing is emended. Elliptical: unstated noun shown as '(ones)'."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "hanū",
+     "problem": "'nom. du.' is wrong; the case is accusative with ubhayataḥ.",
+     "fix": "f. acc. du. (with ubhayataḥ)",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "word",
+      "match_w": "hanū",
+      "field": "gram",
+      "value": "f. acc. du. (with ubhayataḥ)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "At the two jaws (hanu), on both sides",
+     "problem": "'At the jaws' makes hanū a locative; the Sanskrit says on both sides of the two jaws.",
+     "fix": "On both sides of the two jaws (hanu): vāyasatuṇḍa (crow-beak) (ones).",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "replace",
+      "field": "english",
+      "old": "At the two jaws (hanu), on both sides",
+      "new": "On both sides of the two jaws (hanu)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दोनों जबड़ों में दोनों ओर",
+     "problem": "Same: 'in the jaws' is not what the Sanskrit says.",
+     "fix": "दोनों जबड़ों के दोनों ओर",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों जबड़ों में दोनों ओर",
+      "new": "दोनों जबड़ों के दोनों ओर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "152",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "153",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "barttāḥ",
+     "problem": "Checked: b for v and doubled -rtt- are covered by the glossary (v/b interchange; -rtt- to -rt-, recorded once); no flag needed. Same for mūrddha (143) and kūrcca (162): an orthographic doubling after r, covered by the same rule; note-only is fine.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "154",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "teṣu",
+     "problem": "'m./n.' on a pronoun for an unstated noun.",
+     "fix": "loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "155",
+      "op": "word",
+      "match_w": "teṣu",
+      "field": "gram",
+      "value": "loc. pl."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "No change proposed; observation for the owner. The parse stays open: (a) 'saha' + instrumental 'snāyupeśīsirāśritaiḥ' with the unstated counted noun (joints) is plausible; (b) 'na punaḥ' rendered 'nothing more' leans on punaḥ='further' and 'iti' read as causal 'since'; a plainer literal alternative is 'but nothing is to be said about them again in the application of the instrument; thus (it) is not stated separately'. Low confidence is right; do not enrich.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "156",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "157",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "teṣām",
+     "problem": "Same as 130: gender on a pronoun for an unstated noun.",
+     "fix": "gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "157",
+      "op": "word",
+      "match_w": "teṣām",
+      "field": "gram",
+      "value": "gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "158",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "159",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "160",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in each single limb (sakthi)",
+     "problem": "Hedge the reading of sakthi. The Sanskrit says only 'in each single sakthi' (thigh or leg; glossary: जाँघ). Taking it as each of the four limbs rests on the 4 x 17 = 68 count and on the later sites aṅguli/maṇibandha/kūrpara, so it is probable, not stated. The translation should say so. Same as 133.",
+     "fix": "in each single sakthi (probably meaning limb)",
+     "severity": "minor",
+     "patch": {
+      "n": "160",
+      "op": "replace",
+      "field": "english",
+      "old": "in each single limb (sakthi)",
+      "new": "in each single sakthi (probably meaning limb)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सक्थि यानी शाखा",
+     "problem": "Same as 133.",
+     "fix": "सक्थि यानी सम्भवतः शाखा",
+     "severity": "minor",
+     "patch": {
+      "n": "160",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सक्थि यानी शाखा",
+      "new": "सक्थि यानी सम्भवतः शाखा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "161",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "162",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "163",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "164",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "165",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "166",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "167",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "168",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "169",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "170",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "171",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "172",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "catvāri / akṣakayoḥ",
+     "problem": "Observation, no patch: catvāri is neuter, but akṣaka (collarbone) is usually masculine; the draft labels akṣakayoḥ 'n.'. The gender is unsettled; if the counted noun (snāyu) is unstated, the neuter numeral may agree with it. Check against the owner's reference.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "43 units (130-172) reviewed word by word. The draft is careful and mostly sound: counts are as printed (210 vs 207 total correctly flagged, sites 139-145 sum to 83), typo flags are plausible, conjectures are hedged in both languages and low confidence is on the right units (150, 155). One real error: unit 151 'hanū ubhayato' is regular (ubhayataḥ takes the accusative), so the text_flag, the note, the gram 'nom. du.' and the translations 'at the jaws' are wrong; patched. Minor: sakthi='limb' is an inference and is now hedged ('probably') in 133 and 160; Hindi tidy-ups in 137 (no 'ribs' addition), 148 (bhaga gloss, garbled sāmudga phrase); gender labels on pronouns for unstated nouns in 130, 134, 155, 157. Normalisations barttāḥ/mūrddha/kūrcca are covered by the glossary and need no flag. No identification found wrong (kaṇṭhanāḍī windpipe, akṣaka collarbone, aṃsapīṭha shoulder-blade region all properly hedged or standard). Human decisions: u141 (nibaddhā may be a split compound member needing no emendation), u155 parse, u172 gender of akṣaka. No regrouping suggested; the GROUPING notes (130-132, 133-134, 156-159, 160-161) are sensible.",
+ "glossary_suggestions": [
+  "ubhayataḥ (also sarvataḥ, abhitaḥ, paritaḥ) governs the accusative: 'hanū ubhayataḥ' = on both sides of the two jaws; do not flag as a locative problem.",
+  "sakthi in the joint and snāyu counts: render 'sakthi (probably meaning limb)' in both languages; it is an inference from the 4 x 17 count.",
+  "Hindi bhaga = भग यानी स्त्री के जननांग; Hindi sāmudga = सामुद्ग यानी डिब्बी के प्रकार के.",
+  "Numerals and pronouns standing for an unstated noun (trayaḥ, dvau, ekaikaḥ, te, teṣām, -saṃjñāḥ lists in 146-153): case and number only in gram, no gender (draft still has m. on many; left as is outside the units patched here, owner may sweep)."
+ ]
+}

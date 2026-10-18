@@ -1,0 +1,336 @@
+[
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "जब वह पूरी तरह हानि पहुँचाता है, या हानि न पहुँचाते हुए ही स्रोत के मुख को ढक देता है,",
+  "new": "जब वह पूरी तरह हानि पहुँचाता है, या हानि न पहुँचाते हुए ही स्रोत यानी वाहिनी के मुख को ढक देता है,",
+  "why": "reviewer (minor): Doctrinal term srotas has no plain gloss in Hindi (English has \"channel\")."
+ },
+ {
+  "n": "79",
+  "field": "english",
+  "old": "Then (he) becomes outside refining treatment (saṃskāra). There the treatment is aphrodisiac (vājīkara) enemas (basti), internal administration (abhyavahāra), and mind-gladdening (ones) too.",
+  "new": "Then (it) becomes outside refining treatment (saṃskāra). There the treatment is aphrodisiac (vājīkara) enemas (basti), internal administration (abhyavahāra), and mind-gladdening (ones) too.",
+  "why": "reviewer (minor): saṃskārabāhyam is neuter and no subject is stated; \"(he)\" supplies a male subject."
+ },
+ {
+  "n": "79",
+  "field": "english",
+  "old": "Then (it) becomes outside refining treatment (saṃskāra). There the treatment is aphrodisiac (vājīkara) enemas (basti), internal administration (abhyavahāra), and mind-gladdening (ones) too.",
+  "new": "Then (it) becomes outside refining treatment (saṃskāra). There the treatment is aphrodisiac (vājīkara) enemas (basti), eating or swallowing (abhyavahāra), and mind-gladdening (ones) too.",
+  "why": "reviewer (minor): abhyavahāra means eating, swallowing; \"internal administration\" is interpretation."
+ },
+ {
+  "n": "79",
+  "field": "word.gloss",
+  "word": "abhyavahāraḥ",
+  "old": "internal administration (abhyavahāra)",
+  "new": "eating, swallowing (abhyavahāra)",
+  "why": "reviewer (minor): abhyavahāra means eating, swallowing; \"internal administration\" is interpretation."
+ },
+ {
+  "n": "79",
+  "field": "notes",
+  "old": "The subject of 'bhavati' is not stated. 'saṃskārabāhya' is read 'outside (the scope of) refining treatment'; the sense 'treatment' for saṃskāra is taken from 'tatra saṃskāraḥ'. 'vājīkarā bastayaḥ' is regular sandhi (visarga dropped before b). The list is: aphrodisiac enemas, internal administration, and gladdening (ones). 'basti' = enema here.",
+  "new": "The subject of 'bhavati' is not stated. 'saṃskārabāhya' is read 'outside (the scope of) refining treatment'; the sense 'treatment' for saṃskāra is taken from 'tatra saṃskāraḥ'. 'vājīkarā bastayaḥ' is regular sandhi (visarga dropped before b). The list is: aphrodisiac enemas, eating or swallowing, and gladdening (ones). 'basti' = enema here.",
+  "why": "reviewer (minor): abhyavahāra means eating, swallowing; \"internal administration\" is interpretation."
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "तब वह संस्कार से बाहर हो जाता है। वहाँ संस्कार है: वाजीकर बस्तियाँ यानी वाजीकर एनिमा, अभ्यवहार और चित्त को हर्षित करने वाले भी।",
+  "new": "तब वह संस्कार से बाहर हो जाता है। वहाँ संस्कार है: वाजीकर यानी पौरुष बढ़ाने वाली बस्तियाँ यानी एनिमा, अभ्यवहार यानी खाना और चित्त को हर्षित करने वाले भी।",
+  "why": "reviewer (minor): Hindi repeats vājīkara instead of glossing it, and leaves abhyavahāra unglossed."
+ },
+ {
+  "n": "80",
+  "field": "hindi",
+  "old": "वे शुक्र यानी पुरुष के प्रजनन द्रव में बल देते हुए इसके स्रोतों को पुष्ट करते हैं।",
+  "new": "क्योंकि वे शुक्र यानी वीर्य में बल देते हुए इसके स्रोतों यानी वाहिनियों को पुष्ट करते हैं।",
+  "why": "reviewer (minor): Hindi gloss of śukra is an invented periphrasis; the plain Hindi equivalent is वीर्य. Also hi (\"for\") is dropped and srotas is unglossed."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "जब अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला या दूसरी की कामना करने वाला पुरुष स्त्री के साथ मैथुन में रुकावट करता है, या स्त्री पुरुष के प्रति वैसी ही हो,",
+  "new": "जब अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला या किसी अन्य की कामना करने वाला पुरुष स्त्री के साथ मैथुन में रुकावट करता है, या स्त्री पुरुष के प्रति वैसी ही हो,",
+  "why": "reviewer (minor): anya-kāma is unmarked for gender; \"दूसरी\" supplies a woman."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "जब अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला या किसी अन्य की कामना करने वाला पुरुष स्त्री के साथ मैथुन में रुकावट करता है, या स्त्री पुरुष के प्रति वैसी ही हो,",
+  "new": "जब अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला या किसी अन्य की कामना करने वाला पुरुष स्त्री के साथ मैथुन में रुकावट करता है, या स्त्री पुरुष के प्रति वैसी हो,",
+  "why": "reviewer (minor): \"ही\" adds emphasis not in tadvidhā."
+ },
+ {
+  "n": "82",
+  "field": "word.gram",
+  "word": "āsekyam",
+  "old": "m. nom. sg.",
+  "new": "name; case unclear (printed -am)",
+  "why": "reviewer (minor): Printed āsekyam cannot be m. nom. sg. (that would be āsekyaḥ); case is unclear for a bare name."
+ },
+ {
+  "n": "82",
+  "field": "english",
+  "old": "Then āsekya. The woman and the man become of that kind. Then he becomes vakradhvaja (one with a bent dhvaja, the penis); his dhvaja (penis) is simply not made stiff.",
+  "new": "Then āsekya. The woman and the man become of that kind. Then he becomes vakradhvaja (one with a bent dhvaja, the penis); his dhvaja (penis) is not made stiff at all.",
+  "why": "reviewer (minor): naiva = \"not at all\"; \"simply\" misrenders; Hindi \"कभी\" (ever) likewise adds a time sense."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "तब आसेक्य। स्त्री और पुरुष वैसे ही प्रकार के हो जाते हैं। तब वह वक्रध्वज यानी टेढ़े शिश्न वाला हो जाता है; उसका ध्वज यानी शिश्न कभी कड़ा नहीं होता।",
+  "new": "तब आसेक्य। स्त्री और पुरुष वैसे ही प्रकार के हो जाते हैं। तब वह वक्रध्वज यानी टेढ़े शिश्न वाला हो जाता है; उसका ध्वज यानी शिश्न बिलकुल कड़ा नहीं होता।",
+  "why": "reviewer (minor): naiva = \"not at all\"; \"simply\" misrenders; Hindi \"कभी\" (ever) likewise adds a time sense."
+ },
+ {
+  "n": "82",
+  "field": "notes",
+  "old": "GROUPING: 82 appears to continue 81. 'tadā''sekyaṃ' (double avagraha as printed) is read tadā + āsekyam; āsekya appears to be a technical name but the line does not define it, so it is left untranslated and the reading is not firm. 'dhvaja' (banner) is a euphemism for the penis (standard). 'vakradhvaja' is read as a bahuvrīhi naming a type. The 'then ... he' clauses have no stated subject.",
+  "new": "GROUPING: 82 appears to continue 81. 'tadā''sekyaṃ' (double avagraha as printed) is read tadā + āsekyam; āsekya appears to be a technical name but the line does not define it, so it is left untranslated and the reading is not firm. 'dhvaja' (banner) is a euphemism for the penis (standard). 'vakradhvaja' is read as a bahuvrīhi naming a type. The 'then ... he' clauses have no stated subject. Observation (reviewer): āsekya, saugandhika (85) and īrṣyālu (86) probably name kinds of ṣaṇḍha (impotent man) in the series that 89 sums up as eight ṣaṇḍha-yonis; this identification comes from the parallel lists in other works and is only probable here, not stated in the lines.",
+  "why": "reviewer (minor): Draft calls āsekya an undefined technical term. From the parallel lists of the kinds of ṣaṇḍha in other works (āsekya, saugandhika, kumbhīka, īrṣyaka and others) it is probably the name of one such kind (probable, not stated in this line); useful to the reader, and saugandhika (85) and īrṣyālu (86) in this chunk fit the same pattern."
+ },
+ {
+  "n": "83",
+  "field": "english",
+  "old": "When an embryo (garbha) arises of a woman with a putrid vagina (yoni),",
+  "new": "When an embryo (garbha) arises of a woman (on a conjectural reading of the printed striyā as striyāḥ) with a putrid vagina (yoni),",
+  "why": "reviewer (minor): Translation adopts the conjectural genitive striyāḥ for printed striyā but does not mark it (glossary: a conjectural reading adopted in a translation must be marked there)."
+ },
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "जब दुर्गन्धयुक्त योनि वाली स्त्री का गर्भ होता है,",
+  "new": "जब दुर्गन्धयुक्त योनि वाली स्त्री का, अनुमानित पाठ पर, गर्भ होता है,",
+  "why": "reviewer (minor): Translation adopts the conjectural genitive striyāḥ for printed striyā but does not mark it (glossary: a conjectural reading adopted in a translation must be marked there)."
+ },
+ {
+  "n": "85",
+  "field": "notes",
+  "old": "The second and third words of the line are doubtful in print; no firm reading is built on them. The subject of 'labhate' is not stated. 'yonidhvajagandhena' is read as smell of the yoni and the dhvaja (dvandva); 'smell of the dhvaja of the yoni' is also possible. 'dhvaja' = penis (standard euphemism). 'balam' is strength; the line does not say erection.",
+  "new": "The second and third words of the line are doubtful in print; no firm reading is built on them. The subject of 'labhate' is not stated. 'yonidhvajagandhena' is read as smell of the yoni and the dhvaja (dvandva); 'smell of the dhvaja of the yoni' is also possible. 'dhvaja' = penis (standard euphemism). 'balam' is strength; the line does not say erection. Observation (reviewer): the printed string contains 'saugandhika', probably the name of a kind of ṣaṇḍha (who gains strength from the smell of the genitals) in the lists of other works; this is a probable identification from parallel texts, and the remaining letters stay unclear.",
+  "why": "reviewer (minor): Printed string contains a clearly readable \"saugandhika\", the name of one kind of ṣaṇḍha in the parallel lists (probable); worth a note while the rest stays unsplit and unclear."
+ },
+ {
+  "n": "88",
+  "field": "english",
+  "old": "When, in the male embryo, there is destruction of the testes (vṛṣaṇa) through the fault of wind (vāyu) and fire (agni), then (it) becomes the one called vāyupiṇḍaka.",
+  "new": "When there is destruction of the testes (vṛṣaṇa) of the male embryo through the fault of wind (vāyu) and fire (agni), then (it) becomes the one called vāyupiṇḍaka.",
+  "why": "reviewer (minor): puruṣasya garbhasya is genitive (\"of the male embryo\"); the draft turns it into \"in\" in English and Hindi (the note itself says the line does not say \"in\")."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "जब पुरुष गर्भ में वायु और अग्नि के दोष से वृषण यानी अण्डकोष का नाश होता है, तब वह वायुपिण्डक नाम वाला होता है।",
+  "new": "जब पुरुष गर्भ के वृषण यानी अण्डकोष का वायु और अग्नि के दोष से नाश होता है, तब वह वायुपिण्डक नाम वाला होता है।",
+  "why": "reviewer (minor): puruṣasya garbhasya is genitive (\"of the male embryo\"); the draft turns it into \"in\" in English and Hindi (the note itself says the line does not say \"in\")."
+ },
+ {
+  "n": "90",
+  "field": "word.w",
+  "word": "tam-avayavam",
+  "old": "tam-avayavam",
+  "new": "tam avayavam",
+  "why": "reviewer (minor): Printed \"tamavayavaṃ\" is tam + avayavam (cf. preceding taṃ), but the draft joins it with a hyphen as if a compound."
+ },
+ {
+  "n": "94",
+  "field": "english",
+  "old": "When again that part (avayava), and the seed-portions (bījāṃśa) which produce the female-making (ones) and the body-dependent (ones) beginning with downward heaviness — a part of those,",
+  "new": "When again that part (avayava) is one part of those seed-portions (bījāṃśa) that produce the female-making (ones) and the body-dependent (ones) beginning with downward heaviness,",
+  "why": "reviewer (error): The ca joins strīkaraṇānām with śarīrasaṃśrayāṇām; \"that part ... and the seed-portions\" mis-groups it. Grammar: so'vayavaḥ ... ye bījāṃśāḥ ... teṣām ekadeśaḥ = \"that part (is) a part of those seed-portions which produce ...\"."
+ },
+ {
+  "n": "94",
+  "field": "hindi",
+  "old": "जब फिर वह अवयव और स्त्री को बनाने वालों के, तथा शरीर में आश्रित अधोगुरुता आदि के निर्माता जो बीजांश हैं, उनका एक देश,",
+  "new": "जब फिर वह अवयव उन बीजांशों का एक देश है, जो स्त्री बनाने वालों के और शरीर में आश्रित अधोगुरुता आदि के निर्माता हैं,",
+  "why": "reviewer (error): The ca joins strīkaraṇānām with śarīrasaṃśrayāṇām; \"that part ... and the seed-portions\" mis-groups it. Grammar: so'vayavaḥ ... ye bījāṃśāḥ ... teṣām ekadeśaḥ = \"that part (is) a part of those seed-portions which produce ...\"."
+ },
+ {
+  "n": "94",
+  "field": "notes",
+  "old": "Elliptical: no predicate after 'ekadeśaḥ'; 95 gives the result. GROUPING: 94 appears to continue in 95. 'strīkaraṇa' (female-making, or instruments of the female) and 'adho-gurutva' (downward or lower heaviness) are rendered literally and are not firm; the line does not say what is meant. ādi = 'beginning with', the list is not given.",
+  "new": "Elliptical: no predicate after 'ekadeśaḥ'; 95 gives the result. GROUPING: 94 appears to continue in 95. 'strīkaraṇa' (female-making, or instruments of the female) and 'adho-gurutva' (downward or lower heaviness) are rendered literally and are not firm; the line does not say what is meant. ādi = 'beginning with', the list is not given. Review: copula 'is' understood (ekadeśaḥ stands as the predicate); the relative clause 'ye bījāṃśāḥ' governs the genitives strīkaraṇānām and śarīrasaṃśrayāṇām adhogurutvādīnām.",
+  "why": "reviewer (error): The ca joins strīkaraṇānām with śarīrasaṃśrayāṇām; \"that part ... and the seed-portions\" mis-groups it. Grammar: so'vayavaḥ ... ye bījāṃśāḥ ... teṣām ekadeśaḥ = \"that part (is) a part of those seed-portions which produce ...\"."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "mātṛjānām",
+  "old": "n. gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): These agree with avayavānām, which is masculine; \"n. gen. pl.\" is wrong."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "pitṛjānām",
+  "old": "n. gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): These agree with avayavānām, which is masculine; \"n. gen. pl.\" is wrong."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "sātmya-jānām",
+  "old": "n. gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): These agree with avayavānām, which is masculine; \"n. gen. pl.\" is wrong."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "rasa-jānām",
+  "old": "n. gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): These agree with avayavānām, which is masculine; \"n. gen. pl.\" is wrong."
+ },
+ {
+  "n": "97",
+  "field": "word.gram",
+  "word": "sattva-jānām",
+  "old": "n. gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): These agree with avayavānām, which is masculine; \"n. gen. pl.\" is wrong."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "yasya",
+  "old": "n. gen. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (minor): avayava is masculine (the draft note itself says so) but gram says n."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "aṅga-avayavasya",
+  "old": "n. gen. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (minor): avayava is masculine (the draft note itself says so) but gram says n."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "aṅga-avayavasya",
+  "old": "n. gen. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (minor): avayava is masculine (the draft note itself says so) but gram says n."
+ },
+ {
+  "n": "100",
+  "field": "hindi",
+  "old": "और जब गर्भ पाई हुई स्त्री — अनक्षम् छपा रूप अस्पष्ट है, अनुमानित पाठ पर निरन्तर — वातकारक पदार्थों का सेवन करती है, तब उसका प्रकुपित वायु शरीर में सरकता हुआ गर्भाशय में ठहरकर गर्भ में जड़ता, बहरापन, गूँगापन, नकियापन, हकलापन, लंगड़ापन, कुबड़ापन, बौनापन, अंगों की कमी और अंगों की अधिकता, या कोई दूसरा वात का विकार उत्पन्न करता है।",
+  "new": "और जब गर्भ पाई हुई स्त्री — अनक्षम् छपा रूप अस्पष्ट है, अनुमानित पाठ पर निरन्तर ही — वात बढ़ाने वालों का सेवन करती है, तब उसका प्रकुपित वात शरीर में सरकता हुआ गर्भाशय में ठहरकर गर्भ में जड़ता, बहरापन, गूँगापन, नकियापन, हकलापन, लंगड़ापन, कुबड़ापन, बौनापन, अंगों की कमी और अंगों की अधिकता, या कोई दूसरा वात का विकार उत्पन्न करता है।",
+  "why": "reviewer (error): \"पदार्थों\" is a supplied noun; vātala is an adjective (Vāta-increasing); Hindi should use a plain adjective. Also \"eva\" is dropped in Hindi and displaced onto the object in English (\"resorts only to\")."
+ },
+ {
+  "n": "100",
+  "field": "english",
+  "old": "And when (she) who has obtained a pregnancy resorts only to Vāta-increasing (ones), the printed 'anakṣam' being unclear (conjecturally 'constantly'), then her provoked Vāyu, moving along the body and lodging in the uterus (garbhāśaya), produces in the embryo the states of being dull (jaḍa), deaf (badhira), mute (mūka), nasal-voiced (minmiṇa), stammering (gadgada), lame (khañja), hunchbacked (kubja), dwarfish (vāmana), deficient in limbs and excessive in limbs, or another Vāta disorder (vātavikāra).",
+  "new": "And when (she) who has obtained a pregnancy resorts, indeed, to Vāta-increasing (ones), the printed 'anakṣam' being unclear (conjecturally 'constantly'), then her provoked Vāyu, moving along the body and lodging in the uterus (garbhāśaya), produces in the embryo the states of being dull (jaḍa), deaf (badhira), mute (mūka), nasal-voiced (minmiṇa), stammering (gadgada), lame (khañja), hunchbacked (kubja), dwarfish (vāmana), deficient in limbs and excessive in limbs, or another Vāta disorder (vātavikāra).",
+  "why": "reviewer (error): \"पदार्थों\" is a supplied noun; vātala is an adjective (Vāta-increasing); Hindi should use a plain adjective. Also \"eva\" is dropped in Hindi and displaced onto the object in English (\"resorts only to\")."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "वैसे ही वायु की तरह पित्त भी — खालित्य यानी गंजापन, पलित यानी बालों का सफ़ेद होना, फिर छपा रूप श्मश्रुहीनत्वक्छ्रनखे श; यह अस्पष्ट है — पैंगल्य यानी पीलापन लिए भूरापन आदि।",
+  "new": "वैसे ही वायु की तरह पित्त भी — खलति यानी गंजापन, पलित यानी बालों का सफ़ेद होना, फिर छपा रूप श्मश्रुहीनत्वक्छ्रनखे श; यह अस्पष्ट है — पैंगल्य यानी पीलापन लिए भूरापन आदि।",
+  "why": "reviewer (minor): Printed word is khalati, not khālitya; Hindi should follow the Sanskrit."
+ },
+ {
+  "n": "102",
+  "field": "hindi",
+  "old": "कफ तो — कुष्ठ यानी कोढ़ आदि, किलास यानी सफ़ेद दाग, छपा रूप सदंतवा अस्पष्ट है, आदि।",
+  "new": "कफ तो — कुष्ठ यानी कोढ़, किलास यानी सफ़ेद दाग, छपा रूप सदंतवा अस्पष्ट है, आदि।",
+  "why": "reviewer (minor): \"आदि\" inside the gloss is not part of the gloss of kuṣṭha and confuses the later real ādīni; owner wording is कुष्ठ यानी कोढ़."
+ },
+ {
+  "n": "105",
+  "field": "hindi",
+  "old": "दृष्टि के भाग को न पहुँचा हुआ तेज जन्मजात अन्धापन है। वही वात से अनुगत हो तो विकृत, रूखी, अरुण आँख वाला; पित्त से अनुगत हो तो पिंगल आँख वाला; कफ से अनुगत हो तो सफ़ेद आँख वाला; रक्त से अनुगत हो तो लाल आँख वाला।",
+  "new": "दृष्टि के भाग को न पहुँचा हुआ तेज जन्मजात अन्धापन है। वही वात से अनुगत विकृत, रूखी, अरुण आँख वाला; पित्त से अनुगत पिंगल आँख वाला; कफ से अनुगत सफ़ेद आँख वाला; रक्त से अनुगत लाल आँख वाला।",
+  "why": "reviewer (minor): \"हो तो\" adds a conditional that the Sanskrit (participles in apposition) does not have."
+ },
+ {
+  "n": "105",
+  "field": "text_flags.0.why",
+  "old": "possible: the avagraha after 'śleṣmā' is a slip for the compound form 'śleṣma-anugatam' and the space is missing between the two words",
+  "new": "possible: a space is missing between 'śleṣmānugatam' and 'śuklākṣam'; the avagraha after -ā is a print habit, not an elision",
+  "why": "reviewer (minor): Glossary: an avagraha after -ā is a print habit, not a slip; the real defect is the missing space."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "इसलिए विशेष रूप से उसकी प्रिय और हितकर से, गर्भ को हानि पहुँचाने वालों से, रक्षा करनी चाहिए।",
+  "new": "इसलिए विशेष रूप से उसकी रक्षा, गर्भ को हानि पहुँचाने वालों से, प्रिय और हितकर दोनों से करनी चाहिए।",
+  "why": "reviewer (minor): Hindi is hard to parse (\"उसकी ... से\"); the dual instrumental \"by the pleasant and the beneficial\" reads clearly if rearranged."
+ },
+ {
+  "n": "110",
+  "field": "hindi",
+  "old": "वह जैसे —",
+  "new": "यथा —",
+  "why": "reviewer (minor): tadyathā is the formula \"namely\"; \"वह जैसे\" is odd and \"जैसे\" is disfavoured by the glossary."
+ },
+ {
+  "n": "111",
+  "field": "english",
+  "old": "Sexual intercourse (vyavāya), exertion (vyāyāma), emaciation (karśana), blows (abhighāta), excessively agitating riding in vehicles, keeping awake at night, sleep by day, holding back natural urges, undigested (food) (ajīrṇa), sun-heat, fire, anger, grief, fear, fright, fasting, squatting (utkaṭaka, probably), uneven and hard seats or postures, falling into a pit or well, seeing and hearing disagreeable (things), and so on.",
+  "new": "Sexual intercourse (vyavāya), exertion (vyāyāma), emaciation (karśana), blows (abhighāta), excessively agitating riding in vehicles, keeping awake at night, sleep by day, holding back natural urges, undigested (ajīrṇa), sun-heat, fire, anger, grief, fear, fright, fasting, squatting (utkaṭaka, probably), uneven and hard seats or postures, falling into a pit or well, seeing and hearing disagreeable (things), and so on.",
+  "why": "reviewer (minor): \"(food)\" is a supplied noun; ajīrṇa stands alone. Also \"natural\" before urges is not in the Sanskrit."
+ },
+ {
+  "n": "111",
+  "field": "english",
+  "old": "Sexual intercourse (vyavāya), exertion (vyāyāma), emaciation (karśana), blows (abhighāta), excessively agitating riding in vehicles, keeping awake at night, sleep by day, holding back natural urges, undigested (ajīrṇa), sun-heat, fire, anger, grief, fear, fright, fasting, squatting (utkaṭaka, probably), uneven and hard seats or postures, falling into a pit or well, seeing and hearing disagreeable (things), and so on.",
+  "new": "Sexual intercourse (vyavāya), exertion (vyāyāma), emaciation (karśana), blows (abhighāta), excessively agitating riding in vehicles, keeping awake at night, sleep by day, holding back urges (vega), undigested (ajīrṇa), sun-heat, fire, anger, grief, fear, fright, fasting, squatting (utkaṭaka, probably), uneven and hard seats or postures, falling into a pit or well, seeing and hearing disagreeable (things), and so on.",
+  "why": "reviewer (minor): \"(food)\" is a supplied noun; ajīrṇa stands alone. Also \"natural\" before urges is not in the Sanskrit."
+ },
+ {
+  "n": "111",
+  "field": "notes",
+  "old": "A long dvandva list (items of the compound are read as separate items). The stray space 'yānarā trijāgaraṇa' is read as 'rātri-jāgaraṇa'. 'utkaṭaka' is probably a squatting posture (probable); 'utkaṭaviṣama' with a different division is possible. 'ajīrṇa' = undigested (ajīrṇa), read as undigested food. 'karśana' = emaciating, an adjective in the list. 'saṃkṣobhi' = agitating. The list is ended by 'ādayaḥ'. The doubled 'yāna' is not repeated in the translation. 'vyavāya' = sexual intercourse (standard). GROUPING: 111 completes 109-110.",
+  "new": "A long dvandva list (items of the compound are read as separate items). The stray space 'yānarā trijāgaraṇa' is read as 'rātri-jāgaraṇa'. 'utkaṭaka' is probably a squatting posture (probable); 'utkaṭaviṣama' with a different division is possible. 'ajīrṇa' = undigested (ajīrṇa), read as \"undigested\" (the noun is not stated). 'karśana' = emaciating, an adjective in the list. 'saṃkṣobhi' = agitating. The list is ended by 'ādayaḥ'. The doubled 'yāna' is not repeated in the translation. 'vyavāya' = sexual intercourse (standard). GROUPING: 111 completes 109-110.",
+  "why": "reviewer (minor): \"(food)\" is a supplied noun; ajīrṇa stands alone. Also \"natural\" before urges is not in the Sanskrit."
+ },
+ {
+  "n": "111",
+  "field": "notes",
+  "old": "A long dvandva list (items of the compound are read as separate items). The stray space 'yānarā trijāgaraṇa' is read as 'rātri-jāgaraṇa'. 'utkaṭaka' is probably a squatting posture (probable); 'utkaṭaviṣama' with a different division is possible. 'ajīrṇa' = undigested (ajīrṇa), read as \"undigested\" (the noun is not stated). 'karśana' = emaciating, an adjective in the list. 'saṃkṣobhi' = agitating. The list is ended by 'ādayaḥ'. The doubled 'yāna' is not repeated in the translation. 'vyavāya' = sexual intercourse (standard). GROUPING: 111 completes 109-110.",
+  "new": "A long dvandva list (items of the compound are read as separate items). The stray space 'yānarā trijāgaraṇa' is read as 'rātri-jāgaraṇa'. 'utkaṭaka' is probably a squatting posture (probable); 'utkaṭaviṣama' with a different division is possible. 'ajīrṇa' = undigested (ajīrṇa), read as \"undigested\" (the noun is not stated). 'karśana' = emaciating, an adjective in the list. 'saṃkṣobhi' = agitating. The list is ended by 'ādayaḥ'. The doubled 'yāna' is not repeated in the translation. 'vyavāya' = sexual intercourse (standard). GROUPING: 111 appears to complete 109-110.",
+  "why": "reviewer (minor): \"(food)\" is a supplied noun; ajīrṇa stands alone. Also \"natural\" before urges is not in the Sanskrit."
+ },
+ {
+  "n": "111",
+  "field": "hindi",
+  "old": "मैथुन, व्यायाम, दुबला करने वाला, चोट, अत्यधिक झटके देने वाली सवारी, रात में जागना, दिन में सोना, वेगों को रोकना, अजीर्ण यानी बिना पचा, धूप, आग, क्रोध, शोक, भय, घबराहट, उपवास, उकड़ूँ बैठना, ऊबड़-खाबड़ और कठोर आसन, गड्ढे और कुएँ में गिरना, अप्रिय का देखना और सुनना आदि।",
+  "new": "मैथुन, व्यायाम, दुबला करने वाला, चोट, अत्यधिक झटके देने वाली सवारी, रात में जागना, दिन में सोना, वेगों को रोकना, अजीर्ण यानी बिना पचा, धूप, आग, क्रोध, शोक, भय, घबराहट, उपवास, सम्भवतः उकड़ूँ बैठना, ऊबड़-खाबड़ और कठोर आसन, गड्ढे और कुएँ में गिरना, अप्रिय का देखना और सुनना आदि।",
+  "why": "reviewer (minor): utkaṭaka is only probable; Hindi lacks the hedge that English has."
+ },
+ {
+  "n": "111",
+  "field": "text_flags.1.suggest",
+  "old": "…krodha…",
+  "new": "trijāgaraṇadivāsvapnavegavidhāraṇājīrṇātapāgnikrodhaśokabhayotrāsopavāsotkaṭakaviṣamakaṭhināsanaśvabhrakūpaprapātāpriyāvalokanaśravaṇādayaḥ",
+  "why": "reviewer (minor): The second flag gives only \"…krodha…\" as suggestion; full token wanted. (krogha -> krodha is certain, as the draft says.)"
+ },
+ {
+  "n": "112",
+  "field": "word.gram",
+  "word": "ati-guru-uṣṇa-tīkṣṇa-rūkṣam",
+  "old": "bahuvrīhi, n. nom. sg.",
+  "new": "n. nom. sg. (adj.; ati + dvandva of guru, uṣṇa, tīkṣṇa, rūkṣa)",
+  "why": "reviewer (minor): Not a bahuvrīhi: it is an adjective compound (ati + dvandva of the four qualities) agreeing with annapānam."
+ },
+ {
+  "n": "114",
+  "field": "hindi",
+  "old": "देवता, राक्षस और अनुपचय से रक्षा के लिए वह लाल वस्त्र न पहने, सवारी पर न चढ़े, मद्य यानी मादक पेय और मांस का सेवन न करे।",
+  "new": "देवता, राक्षस और अनुपचय यानी वृद्धि न होने से रक्षा के लिए वह लाल वस्त्र न पहने, सवारी पर न चढ़े, मद्य यानी मादक पेय और मांस का सेवन न करे।",
+  "why": "reviewer (minor): anupacaya has no plain Hindi gloss."
+ }
+]

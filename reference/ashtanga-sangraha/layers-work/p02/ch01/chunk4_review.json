@@ -1,0 +1,1022 @@
+{
+ "units": [
+  {
+   "n": "130",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tathāiha",
+     "problem": "Printed tathāiha leaves ā+i unsandhied (regular: tatheha); the Devanagari 'तथािह' is also malformed. Unflagged.",
+     "fix": "add flag (possible)",
+     "severity": "minor",
+     "patch": {
+      "n": "130",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tathāiha",
+        "suggest": "tatheha",
+        "why": "possible: tathā + iha normally gives tatheha; the printed Devanagari (तथािह) is also malformed, so an OCR/print slip is likely; words keep tathā + iha"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Hindi adds 'नामक पौधों' (the Sanskrit does not say plants), turns the unclear pitrunā into a conditional 'पुत्र की इच्छुक' (and duhitṛkāmā into 'if'), and the identification sentence is tangled. No Hindi name for vaṭa.",
+     "fix": "rewrite",
+     "severity": "error",
+     "patch": {
+      "n": "136",
+      "op": "set",
+      "field": "hindi",
+      "value": "लक्ष्मणा, जिसकी पहचान विवादित है, वट यानी बरगद के अंकुर, सहदेवा यानी सम्भवतः सहदेई और विश्वेदेवा, जो अस्पष्ट है, इनमें से किसी एक को दूध में कूटकर, अनुमानित पाठ पर पुत्र की इच्छुक होकर, दाहिने नासिकाछिद्र में तीन या चार बूँदें स्वयं डाले, और बाएँ में तो पुत्री की इच्छुक होकर।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "'if she desires a son/daughter' supplies a conditional that the text lacks (duhitṛkāmā is a plain nominative adjective); the translation carries no modern name for sahadevā and no 'disputed' tag for lakṣmaṇā.",
+     "fix": "rewrite",
+     "severity": "error",
+     "patch": {
+      "n": "136",
+      "op": "set",
+      "field": "english",
+      "value": "Having pressed (pounded) in milk any one of lakṣmaṇā (identity disputed), vaṭaśuṅga (banyan shoots), sahadevā (probably Vernonia cinerea) and viśvedevā (unclear), she should herself instil three or four drops in the right nostril, on a conjectural reading as one desiring a son (the printed 'pitrunā' is unclear), and in the left, however, as one desiring a daughter."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dakṣiṇe",
+     "problem": "dakṣiṇe agrees with nāsāpuṭe (m.), not neuter.",
+     "fix": "m. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "136",
+      "op": "word",
+      "match_w": "dakṣiṇe",
+      "field": "gram",
+      "value": "m. loc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vāme",
+     "problem": "Adjective standing for an unstated noun: case and number only, no gender (GLOSSARY).",
+     "fix": "loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "word",
+      "match_w": "vāme",
+      "field": "gram",
+      "value": "loc. sg."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "second flag",
+     "problem": "The suggest '(…viśvadevānām…)' is not a corrected form of the printed token; the owner should decide whether viśvedevā (as printed) is itself a plant name. viśvedevā is kept in words as printed, which is acceptable under low confidence.",
+     "fix": "owner decision: viśvedevā vs viśvadevā; plant unidentified",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śvetabṛhatyā",
+     "problem": "False typo flag: śvetabṛhatyāḥ + mūla- gives śvetabṛhatyā mūla- by regular sandhi (final -āḥ/-yāḥ loses the visarga before a voiced consonant). The printed form is correct.",
+     "fix": "remove the flag",
+     "severity": "error",
+     "patch": {
+      "n": "138",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "english",
+     "where": "she should instil",
+     "problem": "The subject of nāvayet is not stated; 'she' is supplied, and 142 (instilling into one standing on the threshold) suggests another person may instil, unlike 136 where svayam is explicit.",
+     "fix": "one should instil",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "english",
+      "old": "she should instil the juice",
+      "new": "one should instil the juice"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्वेत बृहती",
+     "problem": "Disputed identification is not marked as disputed in Hindi.",
+     "fix": "add 'जिसकी पहचान विवादित है'",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सफेद बड़ी कटेरी की जड़",
+      "new": "सफेद बड़ी कटेरी, जिसकी पहचान विवादित है, की जड़"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "nāvayet",
+     "problem": "Root label '√nāv' is questionable (nāvayati is a denominative from nāvana/nasya); gloss is right.",
+     "fix": "owner: gram could read 'denom., 3 sg. opt.'",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "subject",
+     "problem": "Subject not stated.",
+     "fix": "note",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "append_note",
+      "text": "Review: the subject of nāvayet is not stated (136 has svayam 'herself', 142 may point to another person instilling), so the translation says 'one'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "she should instil",
+     "problem": "Supplied subject 'she' (see 138).",
+     "fix": "one should instil",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "replace",
+      "field": "english",
+      "old": "and she should instil into the nose",
+      "new": "and one should instil into the nose"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कुमुद यानी सम्भवतः कुमुदिनी",
+     "problem": "Circular: कुमुदिनी is just the feminine of कुमुद and says nothing.",
+     "fix": "name the plant",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुमुद यानी सम्भवतः कुमुदिनी का पत्र",
+      "new": "कुमुद यानी सम्भवतः रात में खिलने वाले श्वेत कमल का पत्र"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "utpala-patram",
+     "problem": "Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading.",
+     "fix": "n. nom./acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "word",
+      "match_w": "utpala-patram",
+      "field": "gram",
+      "value": "n. nom./acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kumuda-patram",
+     "problem": "Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading.",
+     "fix": "n. nom./acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "word",
+      "match_w": "kumuda-patram",
+      "field": "gram",
+      "value": "n. nom./acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "lakṣmaṇā-mūlam",
+     "problem": "Neuter nom. and acc. coincide; the items are the objects of nāvayet, so nom. alone is misleading.",
+     "fix": "n. nom./acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "word",
+      "match_w": "lakṣmaṇā-mūlam",
+      "field": "gram",
+      "value": "n. nom./acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vaṭa-śuṅgāni",
+     "problem": "Same.",
+     "fix": "n. nom./acc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "139",
+      "op": "word",
+      "match_w": "vaṭa-śuṅgāni",
+      "field": "gram",
+      "value": "n. nom./acc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "140",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "both flags",
+     "problem": "False typo flags: puṣyoddhṛtāyāḥ + l- and lakṣmaṇāyāḥ + m- give puṣyoddhṛtāyā lakṣmaṇāyā by regular sandhi (visarga lost after -ā before a voiced consonant). The printed forms are correct.",
+     "fix": "remove both flags",
+     "severity": "error",
+     "patch": {
+      "n": "140",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उदुम्बर के फल",
+     "problem": "'फल' (fruit) is added; the text says only udumbara-mātra.",
+     "fix": "उदुम्बर यानी गूलर के बराबर",
+     "severity": "error",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गूलर यानी उदुम्बर के फल के बराबर",
+      "new": "उदुम्बर यानी गूलर के बराबर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "udumbara (fig fruit)",
+     "problem": "'fruit' is interpretation, not in the Sanskrit; give the identification of the plant.",
+     "fix": "udumbara (cluster fig, Ficus racemosa)",
+     "severity": "minor",
+     "patch": {
+      "n": "140",
+      "op": "replace",
+      "field": "english",
+      "old": "udumbara (fig fruit)",
+      "new": "udumbara (cluster fig, Ficus racemosa)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "141",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "jīvaka and ṛṣabhaka",
+     "problem": "Disputed identity not marked in the translation.",
+     "fix": "(identities disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "english",
+      "old": "jīvaka and ṛṣabhaka,",
+      "new": "jīvaka and ṛṣabhaka (identities disputed),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जीवक और ऋषभक",
+     "problem": "Same.",
+     "fix": "add 'जिनकी पहचान विवादित है'",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीवक और ऋषभक,",
+      "new": "जीवक और ऋषभक, जिनकी पहचान विवादित है,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शंखपुष्पी",
+     "problem": "Disputed tag missing in Hindi (English has it).",
+     "fix": "add",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शंखपुष्पी यानी सम्भवतः शंखाहुली,",
+      "new": "शंखपुष्पी यानी सम्भवतः शंखाहुली, जिसकी पहचान विवादित है,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "jīvaka ṛṣabhaka",
+     "problem": "Useful context missing.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "141",
+      "op": "append_note",
+      "text": "Review: jīvaka and ṛṣabhaka are standard members of the aṣṭavarga group and of Caraka's jīvanīya group; usually identified as Malaxis acuminata and Malaxis muscifera respectively (disputed; the true plants are rarely available and substitutes are used)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "142",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dehalyāṃ sthitāṃ / āghrāya",
+     "problem": "Grammar tension left open: the agent of āghrāya and nāvayet is the same, yet the translation has the instiller smelling the vapour and instilling into '(her)'; sthitāṃ (acc.) may be a slip for sthitā (nom., 'she, standing on the threshold'). '(her)' is a supplied bracket word.",
+     "fix": "owner decision: sthitām as printed vs possible sthitā",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "brāhmaṇā",
+     "problem": "False typo flag (and wrong 'why'): brāhmaṇāḥ + v- gives brāhmaṇā vṛddha- by regular sandhi. Printed form is correct.",
+     "fix": "remove the flag",
+     "severity": "error",
+     "patch": {
+      "n": "143",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prajāsthāpanārakhyā",
+     "problem": "Stray r is plausible, but the suggested final -āḥ is wrong: -āḥ before m- (mahauṣadhīḥ) becomes -ā by regular sandhi, so the printed final -ā is correct.",
+     "fix": "suggest prajāsthāpanākhyā",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "144",
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "prajāsthāpanākhyā"
+      },
+      {
+       "n": "144",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "possible: stray r after -nā; the final -ā is regular sandhi for -āḥ before m- (agreeing with mahauṣadhīḥ) and is kept"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "prajāsthāpana",
+     "problem": "Useful context missing.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "append_note",
+      "text": "Review: in Caraka (Sūtrasthāna 4) prajāsthāpana is a named group of ten drugs; this text names only the group here and does not list its members, so none is identified."
+     }
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "touch (them)",
+     "problem": "Supplied bracket word '(them)'; the object is not stated (already noted).",
+     "fix": "drop '(them)'",
+     "severity": "minor",
+     "patch": {
+      "n": "146",
+      "op": "replace",
+      "field": "english",
+      "old": "touch (them) in this way",
+      "new": "touch in this way"
+     }
+    }
+   ]
+  },
+  {
+   "n": "147",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vidhibhi",
+     "problem": "With following iti the regular sandhi is vidhibhir iti (r), not -ḥ; the suggested 'vidhibhiḥ' is only the dictionary form.",
+     "fix": "suggest vidhibhir",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "147",
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "vidhibhir"
+      },
+      {
+       "n": "147",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "possible: with the 'ti' that opens 148 read as (i)ti, sandhi gives vidhibhir iti; 'ri' lost at the line break (words give the dictionary form vidhibhiḥ)"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "jīvanīya",
+     "problem": "Useful context missing.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "append_note",
+      "text": "Review: jīvanīya is a named group of ten drugs in Caraka (Sūtrasthāna 4: jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī, mudgaparṇī, māṣaparṇī, jīvantī, madhuka); this text does not list its members here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "148",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "149",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dropped ca",
+     "problem": "The ca after ceṣṭāḥ is dropped in both translations.",
+     "fix": "add 'and'",
+     "severity": "minor",
+     "patch": {
+      "n": "149",
+      "op": "replace",
+      "field": "english",
+      "old": "conduct, following what",
+      "new": "conduct, and following what"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "dropped ca",
+     "problem": "Same.",
+     "fix": "add",
+     "severity": "minor",
+     "patch": {
+      "n": "149",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाले, प्रिय और हितकर का अनुसरण करने वाले परिचारक",
+      "new": "वाले और प्रिय तथा हितकर का अनुसरण करने वाले परिचारक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "150",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "151",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुरुष के वीर्य",
+     "problem": "'पुरुष के' (of a man) is added; the text says only śukre śukre, and 167 shows śukra is said of women as well.",
+     "fix": "प्रजनन द्रव (as in 167)",
+     "severity": "error",
+     "patch": {
+      "n": "151",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रत्येक शुक्र यानी पुरुष के वीर्य में",
+      "new": "प्रत्येक शुक्र यानी प्रजनन द्रव में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(semen)",
+     "problem": "Same inconsistency with 167 (reproductive fluid).",
+     "fix": "(reproductive fluid)",
+     "severity": "minor",
+     "patch": {
+      "n": "151",
+      "op": "replace",
+      "field": "english",
+      "old": "in each śukra (semen)",
+      "new": "in each śukra (reproductive fluid)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śukra",
+     "problem": "Consistency note.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "151",
+      "op": "append_note",
+      "text": "Review: whose śukra is meant is not stated; 167 applies śukra to women as well, so the translation uses 'reproductive fluid' as in 167."
+     }
+    }
+   ]
+  },
+  {
+   "n": "152",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "153",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "deśa-kula-anuvṛttitaḥ",
+     "problem": "A -tas form is an indeclinable, not 'f. abl. sg.'.",
+     "fix": "ind. (ablatival -tas; from anuvṛtti f.)",
+     "severity": "minor",
+     "patch": {
+      "n": "153",
+      "op": "word",
+      "match_w": "deśa-kula-anuvṛttitaḥ",
+      "field": "gram",
+      "value": "ind. (ablatival -tas; from anuvṛtti f.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "154",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(of it)",
+     "problem": "Supplied bracket words '(of it)'.",
+     "fix": "drop",
+     "severity": "minor",
+     "patch": {
+      "n": "154",
+      "op": "replace",
+      "field": "english",
+      "old": "from contact (of it) with earth and air",
+      "new": "from contact with earth and air"
+     }
+    }
+   ]
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "satvaviṣeṣakarāṇi",
+     "problem": "First flag quotes src 'satvaviṣeṣakarāṇi' but the printed token is satvaviśeṣakarāṇi (viśeṣa is correct as printed); 'ṣ for ś' is not an error. Only satva→sattva is a normalisation.",
+     "fix": "fix src and why",
+     "severity": "error",
+     "patch": {
+      "n": "155",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "satvaviśeṣakarāṇi",
+        "suggest": "sattvaviśeṣakarāṇi",
+        "why": "satva is a spelling of sattva (normalised in words, also in mātāpitṛsatvāni); viśeṣa is correct as printed"
+       },
+       {
+        "src": "punarmātāpitṛsatvānyaṃtairvatnyāḥ",
+        "suggest": "punarmātāpitṛsattvānyantarvatnyāḥ",
+        "why": "possible: 'antairvatnyāḥ' for antarvatnyāḥ (pregnant woman); ar lost as ai"
+       },
+       {
+        "src": "śrutayaścābhīkṣṇa,",
+        "suggest": "śrutayaścābhīkṣṇam",
+        "why": "possible: final m lost; the comma is a print mark"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "156",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(verses)",
+     "problem": "Bracketed noun 'verses' is supplied (noted); acceptable but owner may prefer 'there are (ones)'.",
+     "fix": "owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "157",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In ghee",
+     "problem": "'In' is added: ghṛtakṣīrādi is a bare stem (possibly a compound member of mattyāsu), not a locative.",
+     "fix": "drop 'In'",
+     "severity": "minor",
+     "patch": {
+      "n": "157",
+      "op": "replace",
+      "field": "english",
+      "old": "In ghee, milk and the like, mattyāsu",
+      "new": "Ghee, milk and the like, mattyāsu"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और",
+     "problem": "Hindi adds 'और' between the two locatives (none in Sanskrit) and 'प्रकृति' imports a technical term.",
+     "fix": "प्रसन्न, कफ स्वभाव वालों में",
+     "severity": "minor",
+     "patch": {
+      "n": "157",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रसन्न और कफ प्रकृति वालों में",
+      "new": "प्रसन्न, कफ स्वभाव वालों में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Wording: 'continues'/'completed' and 'half-line' state pairing as fact (GLOSSARY).",
+     "fix": "use 'appears to'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "157",
+       "op": "replace",
+       "field": "notes",
+       "old": "GROUPING: this half-line continues in 158",
+       "new": "GROUPING: the sentence appears to continue in 158"
+      },
+      {
+       "n": "157",
+       "op": "replace",
+       "field": "notes",
+       "old": "The sentence is completed in 158.",
+       "new": "The sentence appears to be completed in 158."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "158",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उलटे स्वभाव वालों",
+     "problem": "'स्वभाव' is added to viparītāsu.",
+     "fix": "विपरीतों में",
+     "severity": "error",
+     "patch": {
+      "n": "158",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उलटे स्वभाव वालों में",
+      "new": "विपरीतों में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Completes 157",
+     "problem": "GLOSSARY: never 'completes'; no GROUPING marker.",
+     "fix": "fix",
+     "severity": "minor",
+     "patch": {
+      "n": "158",
+      "op": "replace",
+      "field": "notes",
+      "old": "Completes 157 (appears to continue it).",
+      "new": "GROUPING: appears to complete 157."
+     }
+    }
+   ]
+  },
+  {
+   "n": "159",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "160",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upaskṛtam",
+     "problem": "upaskṛtam (n.) may agree with both kṣetram and bījam ('field and seed prepared'); the draft's 'the prepared seed' is one reading.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "160",
+      "op": "append_note",
+      "text": "Review: upaskṛtam (n. sg.) could also agree with kṣetram and bījam together ('field and seed, prepared'); the translation keeps the plain list."
+     }
+    }
+   ]
+  },
+  {
+   "n": "161",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "aviruddhe",
+     "problem": "Agrees with daive (n.), not masculine.",
+     "fix": "n. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "161",
+      "op": "word",
+      "match_w": "aviruddhe",
+      "field": "gram",
+      "value": "n. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "162",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "puṃsavanādyasmāt",
+     "problem": "Wrong sandhi undoing: puṃsavana-ādi + asmāt gives puṃsavanādyasmāt (i+a → ya). The draft's 'yasmāt' ('for which reason') is not a word of this text; the word is asmāt ('from this, therefore'), which also fits 131 (puṃsavana before manifestation).",
+     "fix": "w asmāt, gloss 'therefore', gram n. abl. sg.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "162",
+       "op": "word",
+       "match_w": "yasmāt",
+       "field": "w",
+       "value": "asmāt"
+      },
+      {
+       "n": "162",
+       "op": "word",
+       "match_w": "asmāt",
+       "field": "gloss",
+       "value": "from this (therefore)"
+      },
+      {
+       "n": "162",
+       "op": "word",
+       "match_w": "asmāt",
+       "field": "gram",
+       "value": "n. abl. sg."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "for which reason",
+     "problem": "Follows the wrong split.",
+     "fix": "Success; therefore one should apply puṃsavana and the like before manifestation.",
+     "severity": "error",
+     "patch": {
+      "n": "162",
+      "op": "set",
+      "field": "english",
+      "value": "Success; therefore one should apply puṃsavana and the like before manifestation."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जिस कारण",
+     "problem": "Follows the wrong split.",
+     "fix": "इस कारण",
+     "severity": "error",
+     "patch": {
+      "n": "162",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस कारण",
+      "new": "इस कारण"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "split",
+     "problem": "Record.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "162",
+      "op": "append_note",
+      "text": "Review: puṃsavanādyasmāt is read puṃsavana-ādi + asmāt ('therefore'), not yasmāt."
+     }
+    }
+   ]
+  },
+  {
+   "n": "163",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "164",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "They / so",
+     "problem": "The draft supplies 'They' and 'so', and cuts suputrāḥ from syuḥ. A more literal reading keeps suputrāḥ as subject of syuḥ and matāḥ.",
+     "fix": "Good sons would be releasers from debt, regarded by those who have sons.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "164",
+       "op": "set",
+       "field": "english",
+       "value": "Good sons would be releasers from debt, regarded by those who have sons."
+      },
+      {
+       "n": "164",
+       "op": "set",
+       "field": "hindi",
+       "value": "अच्छे पुत्र ऋण से मुक्त कराने वाले हों, पुत्र वालों द्वारा माने गए।"
+      },
+      {
+       "n": "164",
+       "op": "append_note",
+       "text": "Review: suputrāḥ is taken as the subject of syuḥ and matāḥ; the alternative division 'they would be releasers from debt; good sons are so regarded by those who have sons' needs a supplied subject and 'so'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "165",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "A woman",
+     "problem": "'A woman' is a supplied noun and 'good conduct' adds 'good' (ācāra is conduct); GLOSSARY: unstated nouns are not added.",
+     "fix": "She who is devoted to the gods, conduct, purity and the like bears (one) of great qualities.",
+     "severity": "error",
+     "patch": {
+      "n": "165",
+      "op": "set",
+      "field": "english",
+      "value": "She who is devoted to the gods, conduct, purity and the like bears (one) of great qualities."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्त्री",
+     "problem": "Supplied noun स्त्री.",
+     "fix": "जो ... रत है, वह ...",
+     "severity": "minor",
+     "patch": {
+      "n": "165",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो देवताओं, आचार, शौच आदि में रत है, वह महान् गुणों वाले को जन्म देती है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "166",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "167",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "168",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tu",
+     "problem": "tu is not rendered in either language; negligible but a drop.",
+     "fix": "owner decision: add 'however'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "169",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "p02 ch01 k4 (130-169): 16 errors, 39 minor. Main errors: 162 wrong sandhi split (yasmāt for asmāt) feeding both translations; four false typo flags on regular sandhi (138, 140 x2, 143, 144 suggest) and a wrong flag src in 155; 136 Hindi/English add 'plants' and 'if'; 151 Hindi adds 'पुरुष के'; 140 Hindi adds 'फल'; 158 Hindi adds 'स्वभाव'; 161 and 136 gram genders; 165 supplied noun 'woman'. Identifications (vaṭaśuṅga, udumbara, apāmārga standard; sahadevā, sahacara, agnijihvā, utpala, kumuda probable; lakṣmaṇā, śveta-bṛhatī, śaṅkhapuṣpī, jīvaka, ṛṣabhaka disputed; viśvedevā unidentified) are correctly tagged. Damaged units 136, 141, 152, 157, 160 handled per glossary. Human decisions: 136 viśvedevā vs viśvadevā, 142 sthitāṃ vs sthitā, 156 '(verses)', 168 tu, 138 root label nāvayet. No regrouping beyond the draft's 147-148, 157-158, 161-162 notes.",
+ "glossary_suggestions": [
+  "Sandhi: final -āḥ / -āyāḥ before a voiced consonant loses the visarga (brāhmaṇā vṛddha-, puṣyoddhṛtāyā lakṣmaṇāyā mūla-); do not flag such forms as typos (4 false flags in p02 ch01 k4).",
+  "Verse-closing 'iti' joined to the previous word: vidhibhir iti (r), not vidhibhiḥ iti.",
+  "puṃsavana = rite to obtain a male child (standard); nāvayet = should instil into the nose (nasya); when the agent is not stated (138, 139, 142) use 'one', not 'she'.",
+  "jīvanīya and prajāsthāpana are named drug groups (Caraka Sūtra 4); jīvaka and ṛṣabhaka (aṣṭavarga) = Malaxis acuminata and M. muscifera, disputed.",
+  "śukra said of both sexes (151, 167): 'reproductive fluid' in Hindi प्रजनन द्रव and English; never add 'पुरुष के'.",
+  "Adjective alone as subject (daivatācāra...ratā): 'She who is devoted ...' / 'जो ... रत है, वह', not 'A woman ...'."
+ ]
+}

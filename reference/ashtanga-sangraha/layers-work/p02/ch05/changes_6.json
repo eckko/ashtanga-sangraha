@@ -1,0 +1,332 @@
+[
+ {
+  "n": "216",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "n. nom. sg. (dual)",
+  "new": "nom. du.",
+  "why": "reviewer (minor): gram 'n. nom. sg. (dual)' is self-contradictory; the unstated noun has no gender (glossary: dve = nom. du.)"
+ },
+ {
+  "n": "216",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "n. nom. sg. (dual)",
+  "new": "nom. du.",
+  "why": "reviewer (minor): gram 'n. nom. sg. (dual)' is self-contradictory; the unstated noun has no gender (glossary: dve = nom. du.)"
+ },
+ {
+  "n": "216",
+  "field": "notes",
+  "old": "GROUPING: the counted noun is not in this unit; this appears to continue a count begun in an earlier unit (225 names peśī, so the noun is probably peśī, muscles, probable only). The doubled dve is read as 'two, two' (a pair in each place); no word 'each' is supplied. Both numerals are dual in form.",
+  "new": "GROUPING: the counted noun is not in this unit; this appears to continue a count begun in an earlier unit (the counted item peśī, muscles, is introduced in u188 and carried from the preceding units; probable only). The doubled dve is read as 'two, two' (a pair in each place); no word 'each' is supplied. Both numerals are dual in form.",
+  "why": "reviewer (minor): note says 225 names peśī; the counted item is introduced in u188 (chunk 5 notes) and carried from there"
+ },
+ {
+  "n": "219",
+  "field": "word.gram",
+  "word": "daśa-stanayoḥ",
+  "old": "daśa n. nom. sg.; stana n. loc. du.",
+  "new": "daśa nom. pl.; stana loc. du.",
+  "why": "reviewer (minor): gram label mixes two words and gives daśa a gender/number; numerals above four are 'nom. pl.' without gender (glossary)"
+ },
+ {
+  "n": "219",
+  "field": "word.w",
+  "word": "daśa-stanayoḥ",
+  "old": "daśa-stanayoḥ",
+  "new": "daśa stanayoḥ",
+  "why": "reviewer (minor): printed 'daśastanayoḥ' is two words (as the draft's own note says) but w joins them with a hyphen, which marks a compound; write them as two words"
+ },
+ {
+  "n": "219",
+  "field": "notes",
+  "old": "Printed 'daśastanayoḥ' = daśa stanayoḥ (two words). tāsām is feminine plural, 'of those' (the twenty); the second sentence is read as a separate statement. Counted noun not stated. 'are' in 'ten are in the two breasts' is a copula understood in a locative phrase.",
+  "new": "Printed 'daśastanayoḥ' = daśa stanayoḥ (two words). tāsām is feminine plural, 'of those' (antecedent not stated: possibly the ten of the breasts, or the peśī generally); the second sentence is read as a separate statement. Counted noun not stated. 'are' in 'ten are in the two breasts' is a copula understood in a locative phrase.",
+  "why": "reviewer (minor): note asserts tāsām = 'the twenty'; the antecedent is not stated (could be the ten of the breasts)"
+ },
+ {
+  "n": "220",
+  "field": "word.gram",
+  "word": "daśa",
+  "old": "n. nom. sg.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): numeral above four: 'nom. pl.' with no gender (glossary)"
+ },
+ {
+  "n": "220",
+  "field": "hindi",
+  "old": "दस योनि यानी स्त्री के जननमार्ग में।",
+  "new": "दस योनि यानी सम्भवतः स्त्री के जननमार्ग में।",
+  "why": "reviewer (minor): English hedges the identification ('probably'); Hindi must carry the same hedge (glossary)"
+ },
+ {
+  "n": "221",
+  "field": "english",
+  "old": "Of those, two resting inside (abhyantara), two resting at the mouth (mukha), two round.",
+  "new": "Of those, two resting inside (abhyantara); resting at the mouth (mukha), round, two.",
+  "why": "reviewer (error): the print has only two dve: 'abhyantarāśrite dve' and 'mukhāśrite vṛtte dve'. The draft's three groups of two need a third 'two' that is not printed (error: an added numeral, and the derived total in the note is wrong). Literal rendering keeps the print order"
+ },
+ {
+  "n": "221",
+  "field": "hindi",
+  "old": "उनमें दो भीतर टिकी हुई, दो मुख पर टिकी हुई, दो गोल।",
+  "new": "उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो।",
+  "why": "reviewer (error): same as English: a third दो is not in the Sanskrit"
+ },
+ {
+  "n": "221",
+  "field": "notes",
+  "old": "Printed 'tāsāmabhyaṃtarāśrite' is one token (tāsām + abhyantara-āśrite). The printed counts 2+2+2 here and 3 in 222 make nine against the ten of 220; counts are translated as printed and not corrected (223 may carry a further one). Alternative reading: dve mukhāśrite vṛtte = 'two at the mouth, round'. Counted noun not stated.",
+  "new": "Printed 'tāsāmabhyaṃtarāśrite' is one token (tāsām + abhyantara-āśrite). The print has only two dve: 'abhyantarāśrite dve' and 'mukhāśrite vṛtte dve', so the counts are 2+2 here and 3 in 222 (seven against the ten of 220; 223 may carry a further one). Counts are translated as printed and not corrected; the translation keeps the literal order and does not repeat the final dve for mukhāśrite (if the scan dropped a dve, the owner decides). Counted noun not stated.",
+  "why": "reviewer (error): note says 2+2+2 and nine against ten; with the print there are two dve (so 2+2 here, 3 in 222: seven against the ten of 220, 223 possibly one more). Keep as printed; owner to check the scan for a dropped dve"
+ },
+ {
+  "n": "221",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi"
+ },
+ {
+  "n": "221",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi"
+ },
+ {
+  "n": "221",
+  "field": "word.gram",
+  "word": "vṛtte",
+  "old": "n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi"
+ },
+ {
+  "n": "221",
+  "field": "word.gram",
+  "word": "abhyantara-āśrite",
+  "old": "bahuvrīhi, n. nom. du.",
+  "new": "tat-puruṣa, nom. du.",
+  "why": "reviewer (minor): dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi"
+ },
+ {
+  "n": "221",
+  "field": "word.gram",
+  "word": "mukha-āśrite",
+  "old": "bahuvrīhi, n. nom. du.",
+  "new": "tat-puruṣa, nom. du.",
+  "why": "reviewer (minor): dual -e forms stand for an unstated noun (could be feminine, -ā stems have dual -e): no gender; X-āśrita with X the place is a tat-puruṣa, not a bahuvrīhi"
+ },
+ {
+  "n": "224",
+  "field": "hindi",
+  "old": "योनि तो शंख की नाभि के आकार की है और अनुमानित पाठ पर तीन चक्करों वाली है। उसके तीसरे चक्कर में पित्त और पक्वाशय के बीच, रोहित यानी रोहू मछली के मुख के आकार की गर्भशय्या है।",
+  "new": "योनि यानी सम्भवतः स्त्री का जननमार्ग तो शंख की नाभि के आकार का है और अनुमानित पाठ पर तीन चक्करों वाला है। उसके तीसरे चक्कर में पित्त और पक्वाशय यानी सम्भवतः बड़ी आँत वाले क्षेत्र के बीच, रोहित यानी रोहू मछली के मुख के आकार की गर्भशय्या यानी सम्भवतः गर्भाशय है।",
+  "why": "reviewer (minor): English carries three hedged identifications (yoni, pakvāśaya, garbhaśayyā); Hindi has none (glossary: Hindi must carry the identifications and hedges of the English)"
+ },
+ {
+  "n": "224",
+  "field": "notes",
+  "old": "Conjectural reading tryāvartā adopted in both translations and marked there. rohita = Labeo rohita (standard). pitta-pakvāśayāntare: 'pitta' may stand for pittāśaya (seat of Pitta); printed form kept as pitta, nothing added; antare = 'in the interval/interior between'. pakvāśaya = seat of digested matter, large intestine region (probable); garbhaśayyā = uterus (probable). Printed 'āvartepitta...' follows 'tasyāstṛtīya' as separate tokens (tasyāḥ tṛtīye? the printed 'tṛtīya' is read as the locative tṛtīye before āvarte by regular sandhi e + ā → a ā).",
+  "new": "Conjectural reading tryāvartā adopted in both translations and marked there. rohita = Labeo rohita (standard). pitta-pakvāśayāntare: 'pitta' may stand for pittāśaya (seat of Pitta); printed form kept as pitta, nothing added; antare = 'in the interval/interior between'. pakvāśaya = seat of digested matter, large intestine region (probable); garbhaśayyā = uterus (probable). Printed 'āvartepitta...' follows 'tasyāstṛtīya' as separate tokens (tasyāḥ tṛtīye; the printed 'tṛtīya' is the locative tṛtīye before āvarte by regular sandhi, e + ā → a ā).",
+  "why": "reviewer (minor): garbled sentence with a question mark; the sandhi (tṛtīye + āvarte -> tṛtīya āvarte) is regular"
+ },
+ {
+  "n": "225",
+  "field": "english",
+  "old": "In it are three peśī (muscles) entering śukra (semen) and ārtava (menstrual blood).",
+  "new": "In it are three peśī (muscles) entering śukra (semen) and ārtava (menstrual blood, probably).",
+  "why": "reviewer (minor): hedge missing here but present at u239 ('probably'); keep consistent"
+ },
+ {
+  "n": "225",
+  "field": "hindi",
+  "old": "उसमें शुक्र यानी पुरुष के वीर्य और आर्तव यानी रज में प्रवेश करने वाली तीन पेशियाँ हैं।",
+  "new": "उसमें शुक्र यानी वीर्य और आर्तव यानी सम्भवतः मासिक धर्म के रक्त में प्रवेश करने वाली तीन पेशियाँ हैं।",
+  "why": "reviewer (minor): 'पुरुष के' is not in the Sanskrit; रज alone is ambiguous in Hindi and is unhedged (English hedges ārtava)"
+ },
+ {
+  "n": "226",
+  "field": "english",
+  "old": "For by those (ones)—thin, dense, large, minute, broad, round, short, long, firm, soft, smooth and rough—the joints (saṃdhi), bones (asthi), sirā (vessels) and snāva (sinews, snāyu) in the body are covered.",
+  "new": "For by those—thin, dense, large, minute, broad, round, short, long, firm, soft, smooth and rough—the joints (saṃdhi), bones (asthi), sirā (vessels) and snāva (sinews, snāyu) in the body are covered.",
+  "why": "reviewer (minor): tābhiḥ is a stated pronoun (glossary: translate plainly); '(ones)' is an unneeded supplied word"
+ },
+ {
+  "n": "229",
+  "field": "english",
+  "old": "And just as many are the hairs of the head (keśa), the beard (śmaśru) and the body (loman). For the openings of those are bound to them; therefore they are nourished by those.",
+  "new": "And that many are the head-hairs (keśa), the beard-hairs (śmaśru) and the body-hairs (loman). For the openings of those are bound to them; therefore they are nourished by those.",
+  "why": "reviewer (error): 'just' is added emphasis (tāvanti = that many) and loman is body-hair, not 'the body' (word dropped)"
+ },
+ {
+  "n": "229",
+  "field": "hindi",
+  "old": "और उतने ही सिर के बाल, दाढ़ी-मूँछ के बाल और शरीर के रोम हैं। उनके मुख उनसे बँधे हुए हैं, इसलिए वे उनसे पोषण पाते हैं।",
+  "new": "और उतने सिर के बाल, दाढ़ी-मूँछ के बाल और शरीर के रोम हैं। उनके मुख उनसे बँधे हुए हैं, इसलिए वे उनसे पोषण पाते हैं।",
+  "why": "reviewer (minor): 'ही' is added emphasis"
+ },
+ {
+  "n": "229",
+  "field": "word.gram",
+  "word": "āpyāyante",
+  "old": "3 pl. pass./mid. ā-√pyāy",
+  "new": "3 pl. pres. ātm. ā-√pyāy",
+  "why": "reviewer (minor): ātmanepada present, not passive (glossary: āpyāyate ātmanepada)"
+ },
+ {
+  "n": "229",
+  "field": "notes",
+  "old": "Reference of tāvanti is probably 'as many as the openings' of 227 (not stated). tāsām and tābhiḥ are feminine and probably refer to the sirā and dhamanī; tat-pratibaddha 'bound to that/them' has an unclear antecedent (alternatives: the openings are bound to the hairs, or to the vessels). Read: hairs as nourished by the vessels. āpyāyante = are nourished/swollen with fluid (pass.). Copula 'are' supplied in the first sentence.",
+  "new": "Reference of tāvanti is probably 'as many as the openings' of 227 (not stated). tāsām and tābhiḥ are feminine and probably refer to the sirā and dhamanī; tat-pratibaddha 'bound to that/them' has an unclear antecedent (alternatives: the openings are bound to the hairs, or to the vessels). Read: hairs as nourished by the vessels. āpyāyante = are nourished/swollen with fluid (ātmanepada). Copula 'are' supplied in the first sentence.",
+  "why": "reviewer (minor): same point in the note"
+ },
+ {
+  "n": "231",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "gṛṇhaṃti",
+    "suggest": "gṛhṇanti",
+    "why": "possible: variant spelling of gṛhṇanti (√grah, 3 pl.); the form gṛṇh- is a non-standard spelling"
+   }
+  ],
+  "new": [
+   {
+    "src": "gṛṇhaṃti",
+    "suggest": "gṛhṇanti",
+    "why": "possible: variant spelling of gṛhṇanti (√grah, 3 pl.); the form gṛṇh- is a non-standard spelling"
+   },
+   {
+    "src": "vipakvaṃtaṃnayaṃti",
+    "suggest": "vipakvaṃ tan nayanti",
+    "why": "possible: printed 'taṃ' is read as tat before n- (tat+nayanti -> tan nayanti), neuter agreeing with vīryam; if 'tam' (masculine) were meant the object would differ"
+   }
+  ],
+  "why": "reviewer (minor): unflagged silent emendation: printed 'taṃ' is read as tat+n- = tan (neuter, agreeing with vīryam); if the print means tam (m.) the object changes. Needs its own flag"
+ },
+ {
+  "n": "235",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tathāmūtraṃrudhiramanyāṃca",
+    "suggest": "tathāmūtraṃrudhiramanyāṃśca",
+    "why": "possible: anyān + ca gives anyāṃś ca; the ś is missing in the print (compare aparāṃścā in u243)"
+   }
+  ],
+  "why": "reviewer (minor): unflagged: anyān + ca regularly gives anyāṃś ca; the print has no ś (contrast aparāṃścā in u243). Needs a flag"
+ },
+ {
+  "n": "236",
+  "field": "hindi",
+  "old": "और जो समस्त शरीर में गया हुआ है, जिसे बाहरी त्वचा धारण करती है; और जो त्वचा के भीतर घाव में गया हुआ लसीका शब्द से कहा जाता है; और जो ऊष्मा से बँधा हुआ रोमकूपों से निकलता हुआ पसीना कहलाता है, वह उदक यानी जल है। उसका, और आदि वाले रस नामक आहार के सार का, तथा रक्त, मल, श्लेष्मा, पित्त, मूत्र, वसा यानी मांसपेशियों की चर्बी, मेदस् यानी मेद धातु और मज्जा का, प्रत्येक का अपनी-अपनी अंजलि के माप से, पूर्व के अनुसार एक से आरम्भ होने वाली संख्या की वृद्धि है।",
+  "new": "और जो समस्त शरीर में गया हुआ है, जिसे बाहरी त्वचा धारण करती है; और जो त्वचा के भीतर घाव में गया हुआ लसीका शब्द से कहा जाता है; और जो ऊष्मा से बँधा हुआ रोमकूपों से निकलता हुआ पसीना कहलाता है, वह उदक यानी जल है। उसका, और प्रथम, आहार के सार रस नामक का, तथा रक्त, मल, श्लेष्मा, पित्त, मूत्र, वसा यानी मांसपेशियों की चर्बी, मेदस् यानी मेद धातु और मज्जा का, प्रत्येक का अपनी-अपनी अंजलि के माप से, पूर्व के अनुसार एक से आरम्भ होने वाली संख्या की वृद्धि है।",
+  "why": "reviewer (error): ādya = 'first', not 'आदि वाले'"
+ },
+ {
+  "n": "236",
+  "field": "hindi",
+  "old": "और जो समस्त शरीर में गया हुआ है, जिसे बाहरी त्वचा धारण करती है; और जो त्वचा के भीतर घाव में गया हुआ लसीका शब्द से कहा जाता है; और जो ऊष्मा से बँधा हुआ रोमकूपों से निकलता हुआ पसीना कहलाता है, वह उदक यानी जल है। उसका, और प्रथम, आहार के सार रस नामक का, तथा रक्त, मल, श्लेष्मा, पित्त, मूत्र, वसा यानी मांसपेशियों की चर्बी, मेदस् यानी मेद धातु और मज्जा का, प्रत्येक का अपनी-अपनी अंजलि के माप से, पूर्व के अनुसार एक से आरम्भ होने वाली संख्या की वृद्धि है।",
+  "new": "और जो समस्त शरीर में गया हुआ है, जिसे बाहरी त्वचा धारण करती है; और जो त्वचा के भीतर घाव में गया हुआ लसीका शब्द से कहा जाता है; और जो ऊष्मा से बँधा हुआ रोमकूपों से निकलता हुआ पसीना कहलाता है, वह उदक यानी जल है। उसका, और प्रथम, आहार के सार रस नामक का, तथा रक्त, मल, श्लेष्मा, पित्त यानी सम्भवतः शरीर का पित्त द्रव, मूत्र, वसा यानी सम्भवतः मांसपेशियों की चर्बी, मेदस् यानी सम्भवतः मेद धातु और मज्जा का, प्रत्येक का अपनी-अपनी अंजलि के माप से, पूर्व के अनुसार एक से आरम्भ होने वाली संख्या की वृद्धि है।",
+  "why": "reviewer (minor): English hedges pitta (probably bile), vasā and medas as probable; Hindi gives them unhedged (glossary: Hindi carries the hedge)"
+ },
+ {
+  "n": "237",
+  "field": "hindi",
+  "old": "शुक्र की आधी अंजलि।",
+  "new": "शुक्र यानी वीर्य की आधी अंजलि।",
+  "why": "reviewer (minor): bare शुक्र can be read as the planet; gloss it as elsewhere"
+ },
+ {
+  "n": "238",
+  "field": "english",
+  "old": "Just so much of the brain (mastiṣka) and of ojas (vital essence).",
+  "new": "Just that much: the brain (mastiṣka) and ojas (vital essence).",
+  "why": "reviewer (minor): Sanskrit has nominatives (mastiṣkam ojaś ca); 'of' is supplied"
+ },
+ {
+  "n": "239",
+  "field": "hindi",
+  "old": "स्त्रियों में रजस् यानी आर्तव की चार अंजलियाँ।",
+  "new": "स्त्रियों में रजस् यानी सम्भवतः मासिक धर्म के रक्त की चार अंजलियाँ।",
+  "why": "reviewer (minor): defines one doctrinal term by another and drops the hedge the English has"
+ },
+ {
+  "n": "240",
+  "field": "hindi",
+  "old": "स्तन्य यानी दूध की दो।",
+  "new": "स्तन्य यानी स्तन के दूध के दो।",
+  "why": "reviewer (minor): 'की' imports a feminine noun; dvau is masculine (and no noun is stated); also bare 'दूध'"
+ },
+ {
+  "n": "240",
+  "field": "word.gram",
+  "word": "dvau",
+  "old": "m./n. nom. du.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): dvau is masculine only (neuter is dve); unstated noun: no gender"
+ },
+ {
+  "n": "243",
+  "field": "english",
+  "old": "Therefore one should discern the increase and the decrease, each by its own signs, and also the other, un-enumerated, corporeal and non-corporeal entities (bhāva).",
+  "new": "Therefore one should discern the increase and the decrease, each by its own signs, and also the other, un-enumerated (on a conjectural reading), corporeal and non-corporeal entities (bhāva).",
+  "why": "reviewer (error): conjectural reading used in the translation without the mark (glossary: mark 'on a conjectural reading' in both languages)"
+ },
+ {
+  "n": "243",
+  "field": "hindi",
+  "old": "इसलिए वृद्धि और क्षय को अपने-अपने लक्षणों से पहचानना चाहिए, और अन्य अनगिने मूर्त और अमूर्त भावों को भी।",
+  "new": "इसलिए वृद्धि और क्षय को अपने-अपने लक्षणों से पहचानना चाहिए, और अनुमानित पाठ पर अन्य अनगिने मूर्त और अमूर्त भावों को भी।",
+  "why": "reviewer (error): same: unmarked conjecture"
+ },
+ {
+  "n": "246",
+  "field": "english",
+  "old": "The Dhanvantari school (dhānvantarīya) on the other hand read (recite).",
+  "new": "The followers of Dhanvantari (dhānvantarīya), on the other hand, read (recite).",
+  "why": "reviewer (minor): 'school' is not in the Sanskrit (the draft's note admits it); dhānvantarīya = followers of Dhanvantari"
+ },
+ {
+  "n": "249",
+  "field": "english",
+  "old": "One should only recognise (it) by inference through mere health.",
+  "new": "One should only recognise by inference through mere health.",
+  "why": "reviewer (minor): object not stated; glossary: drop '(it)' where the object is uncertain (the note itself says so)"
+ },
+ {
+  "n": "251",
+  "field": "english",
+  "old": "In the union and separation of those—of the atoms (paramāṇu)—wind (vāyu), impelled by action (karma), is the cause.",
+  "new": "In the union and separation of those atoms (paramāṇu), wind (vāyu), impelled by action (karma), is the cause.",
+  "why": "reviewer (minor): teṣām and paramāṇūnām are both m. gen. pl.: 'of those atoms'. The dashes and Hindi 'यानी' assert an identity (apposition) the Sanskrit does not state"
+ },
+ {
+  "n": "251",
+  "field": "hindi",
+  "old": "उनके, यानी परमाणुओं के संयोग और विभाग में कर्म से प्रेरित वायु कारण है।",
+  "new": "उन परमाणुओं के संयोग और विभाग में कर्म से प्रेरित वायु कारण है।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "251",
+  "field": "notes",
+  "old": "karma = action (deed), a doctrinal term. vāyu = wind. Copula 'is' understood. teṣām and paramāṇūnām are in apposition.",
+  "new": "karma = action (deed), a doctrinal term. vāyu = wind. Copula 'is' understood. teṣām agrees with paramāṇūnām ('of those atoms'); its antecedent (probably the avayavāḥ of 250) is not stated.",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "255",
+  "field": "word.gram",
+  "word": "ahiteṣu",
+  "old": "n. loc. pl.",
+  "new": "loc. pl.",
+  "why": "reviewer (minor): adjective standing for an unstated noun: case and number only (glossary)"
+ }
+]

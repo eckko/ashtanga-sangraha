@@ -1,0 +1,453 @@
+[
+ {
+  "n": "83",
+  "field": "hindi",
+  "old": "शुक्र को वहन करने वालों के स्तन, मुष्क यानी अण्डकोश और मज्जा।",
+  "new": "शुक्र यानी वीर्य को वहन करने वालों के दोनों स्तन, दोनों मुष्क यानी अण्डकोश और मज्जा।",
+  "why": "reviewer (minor): Hindi leaves śukra bare while English glosses it; dual stanau/muṣkau lost."
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "śukra-vāhinām",
+  "old": "tat-puruṣa, n. gen. pl.",
+  "new": "tat-puruṣa, gen. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender."
+ },
+ {
+  "n": "84",
+  "field": "word.gram",
+  "word": "mūtra-vāhinām",
+  "old": "tat-puruṣa, n. gen. pl.",
+  "new": "tat-puruṣa, gen. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender."
+ },
+ {
+  "n": "85",
+  "field": "word.gram",
+  "word": "śakṛd-vāhinām",
+  "old": "tat-puruṣa, n. gen. pl.",
+  "new": "tat-puruṣa, gen. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender."
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "मल को वहन करने वालों का पक्वाशय और स्थूलान्त्र यानी सम्भवतः बड़ी आँत।",
+  "new": "मल को वहन करने वालों का पक्वाशय यानी पचे हुए का स्थान, सम्भवतः बड़ी आँत का क्षेत्र और स्थूलान्त्र यानी सम्भवतः बड़ी आँत।",
+  "why": "reviewer (error): English glosses and hedges pakvāśaya (probably the large-bowel region); Hindi gives bare पक्वाशय (Hindi must carry the identification and hedge)."
+ },
+ {
+  "n": "86",
+  "field": "word.gram",
+  "word": "sveda-vāhinām",
+  "old": "tat-puruṣa, n. gen. pl.",
+  "new": "tat-puruṣa, gen. pl.",
+  "why": "reviewer (minor): Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender."
+ },
+ {
+  "n": "86",
+  "field": "hindi",
+  "old": "स्वेद को वहन करने वालों का मेद यानी वसा और रोमकूप यानी रोम के छिद्र।",
+  "new": "स्वेद यानी पसीने को वहन करने वालों का मेद यानी चर्बी और रोमकूप यानी रोम के छिद्र।",
+  "why": "reviewer (minor): Hindi equates medas with वसा, but u123 (and the text) keep medas and vasā as two different items; the Hindi reader would conflate them."
+ },
+ {
+  "n": "87",
+  "field": "hindi",
+  "old": "इनकी विविध दूषण, अहितकर आहार और विहार, उपद्रव और साधन को दोष आदि से जानना चाहिए; यथायोग्य वृद्धि और क्षय के लक्षण से पहचानना चाहिए।",
+  "new": "इनके अनेक तरह के दूषण, अहितकर आहार और विहार यानी आचरण, उपद्रव और साधन को दोष आदि से जानना चाहिए; अपने-अपने अनुसार वृद्धि और क्षय के लक्षण से पहचानना चाहिए।",
+  "why": "reviewer (error): Ungrammatical, hard-to-read Hindi ('इनकी विविध दूषण'); yathāsvam rendered यथायोग्य where the chunk elsewhere uses 'अपने-अपने अनुसार'; vihāra unglossed."
+ },
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "lakṣayet",
+  "old": "3 sg. opt. caus. √lakṣ",
+  "new": "3 sg. opt. √lakṣ (10th cl.)",
+  "why": "reviewer (minor): lakṣayati (√lakṣ) is 10th class, not a causative (glossary: curādi verbs are not 'caus.')."
+ },
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "ahita-āhāra-vihāram",
+  "old": "dvandva, m. acc. sg.",
+  "new": "dvandva (collective), n. acc. sg.",
+  "why": "reviewer (minor): A singular accusative dvandva of two masculines is a collective (samāhāra) dvandva and neuter, not 'm.'; the neuter 'vividham' might then agree with it."
+ },
+ {
+  "n": "87",
+  "field": "notes",
+  "old": "The syntax is loose: 'doṣādivijñānīyāt' is read as doṣa-ādi + vijñānīyāt ('one should know ... by/as doṣa and the rest'); the instrument of knowing is not stated, so the translation keeps 'through' only as the plainest reading. Alternative: 'one should know the doṣa and the rest' as objects. 'yathāsvam' is placed with the final verb. Printed 'vijñānīyādyathāsvaṃ' joins the verb and the adverb (sandhi t + y -> d y).",
+  "new": "The syntax is loose: 'doṣādivijñānīyāt' is read as doṣa-ādi + vijñānīyāt ('one should know ... by/as doṣa and the rest'); the instrument of knowing is not stated, so the translation keeps 'through' only as the plainest reading. Alternative: 'one should know the doṣa and the rest' as objects. 'yathāsvam' is placed with the final verb. Printed 'vijñānīyādyathāsvaṃ' joins the verb and the adverb (sandhi t + y -> d y). Alternative: 'vividham' (n. acc. sg.) may agree with 'ahitāhāravihāram' ('various unwholesome food and conduct') instead of qualifying 'dūṣaṇam'.",
+  "why": "reviewer (minor): A singular accusative dvandva of two masculines is a collective (samāhāra) dvandva and neuter, not 'm.'; the neuter 'vividham' might then agree with it."
+ },
+ {
+  "n": "87",
+  "field": "word.gram",
+  "word": "vṛddhi-kṣaya-lakṣaṇena",
+  "old": "dvandva/tat-puruṣa, n. inst. sg.",
+  "new": "tat-puruṣa (with dvandva vṛddhi-kṣaya), n. inst. sg.",
+  "why": "reviewer (minor): Label 'dvandva/tat-puruṣa' is undecided."
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "स्रोतस् के वेध पर तो भ्रम, मोह, कम्प, प्रलाप, आध्मान, शूल, अरुचि, प्यास, वमन, ज्वर, अनुमानित पाठ पर रक्त का बहना, मूत्र और मल का रुकना, और मृत्यु होती है।",
+  "new": "स्रोतस् के वेध पर तो भ्रम, मोह, कम्प, प्रलाप, आध्मान, शूल, अरुचि, प्यास, वमन, ज्वर, अनुमानित पाठ पर रक्त का बहना, मूत्र और मल का रुकना, और मृत्यु।",
+  "why": "reviewer (minor): Hindi adds the verb 'होती है'; the Sanskrit (and the English) has no verb in the list."
+ },
+ {
+  "n": "89",
+  "field": "word.gram",
+  "word": "srotas-viddham",
+  "old": "tat-puruṣa, m. acc. sg.",
+  "new": "tat-puruṣa, acc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated person: gloss/gram should carry case and number only."
+ },
+ {
+  "n": "89",
+  "field": "notes",
+  "old": "Printed 'srotauviddhaṃ' is read as srotoviddham (srotas-viddha); the 'au' looks like a print slip. 'pratyākhyāya' = having declined (the case as hopeless); that one then treats is as stated. The object 'him' is understood.",
+  "new": "Printed 'srotauviddhaṃ' is read as srotoviddham (srotas-viddha); the 'au' looks like a print slip. 'pratyākhyāya' = having declined (the case as hopeless); that one then treats is as stated. The object 'him' is understood. Alternative emendation: 'srotasi viddham' (pierced in the srotas); sense the same.",
+  "why": "reviewer (minor): Observation: 'srotauviddham' could also be an OCR slip for 'srotasi viddham' (pierced in the srotas), which is what the translation already says; the draft's srotoviddha (srotas-viddha) is equally possible."
+ },
+ {
+  "n": "90",
+  "field": "word.gram",
+  "word": "uddhṛta-śalyam",
+  "old": "bahuvrīhi, m. acc. sg.",
+  "new": "bahuvrīhi, acc. sg.",
+  "why": "reviewer (minor): Adjective for an unstated person: no gender in gram."
+ },
+ {
+  "n": "91",
+  "field": "word.gram",
+  "word": "sirā",
+  "old": "f. nom. sg.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (error): Printed 'sirā dhamanyaḥ': -āḥ before dh loses its visarga by regular sandhi (glossary), so this is sirāḥ nom. pl., as the draft itself reads it in u95. 'f. nom. sg.' and the note 'sirā is singular' are wrong."
+ },
+ {
+  "n": "91",
+  "field": "word.w",
+  "word": "sirā",
+  "old": "sirā",
+  "new": "sirāḥ",
+  "why": "reviewer (error): Printed 'sirā dhamanyaḥ': -āḥ before dh loses its visarga by regular sandhi (glossary), so this is sirāḥ nom. pl., as the draft itself reads it in u95. 'f. nom. sg.' and the note 'sirā is singular' are wrong."
+ },
+ {
+  "n": "91",
+  "field": "notes",
+  "old": "sirā and dhamanī: modern equivalents (vein, artery) are probable, not exact. The copula is understood. Number: sirā is singular and dhamanyaḥ plural as printed.",
+  "new": "sirā and dhamanī: modern equivalents (vein, artery) are probable, not exact. The copula is understood. Printed 'sirā' is sirāḥ (visarga lost before dh, regular sandhi), plural like dhamanyaḥ.",
+  "why": "reviewer (error): Printed 'sirā dhamanyaḥ': -āḥ before dh loses its visarga by regular sandhi (glossary), so this is sirāḥ nom. pl., as the draft itself reads it in u95. 'f. nom. sg.' and the note 'sirā is singular' are wrong."
+ },
+ {
+  "n": "91",
+  "field": "hindi",
+  "old": "उनमें सिरा यानी सम्भवतः शिरा और धमनियाँ यानी सम्भवतः नाड़ियाँ स्रोतसों के ही विशेष रूप हैं।",
+  "new": "उनमें सिराएँ यानी सम्भवतः शिराएँ यानी नसें और धमनियाँ यानी स्पन्दन करने वाली वाहिकाएँ, सम्भवतः आधुनिक अर्थ की धमनियाँ, स्रोतसों के ही विशेष रूप हैं।",
+  "why": "reviewer (error): Hindi renders dhamanī as 'नाड़ियाँ', which is a different item (nāḍī, listed separately in u95) and contradicts the English (probably arteries); the gloss of sirā repeats the name (शिरा)."
+ },
+ {
+  "n": "92",
+  "field": "english",
+  "old": "But others hold that they are different.",
+  "new": "But others maintain a difference (anyatva).",
+  "why": "reviewer (minor): English supplies 'that they are different' ('they', 'are'); the Sanskrit says only anyatvam icchanti."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "परन्तु दूसरे अन्यता चाहते हैं।",
+  "new": "परन्तु दूसरे अन्यता यानी भिन्नता मानते हैं।",
+  "why": "reviewer (minor): English supplies 'that they are different' ('they', 'are'); the Sanskrit says only anyatvam icchanti."
+ },
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "Printed 'avibhāgaiva' is read as avibhāga + iva (spacing slip; regular sandhi). 'kevalam' taken with the reasons. Only a view being reported (see 92, 94).",
+  "new": "Printed 'avibhāgaiva' is read as avibhāga + iva (spacing slip; the Devanagari prints अविभाग इव with the vowels unjoined, the IAST 'ai' is a transliteration artefact). 'kevalam' taken with the reasons. Only a view being reported (see 92, 94).",
+  "why": "reviewer (minor): The note calls the join regular sandhi; a+iva would give 'eva'. The Devanagari actually shows अविभाग इव (two vowels unjoined, IAST 'ai' is only the transliteration), so the draft's reading is right but the justification is wrong."
+ },
+ {
+  "n": "93",
+  "field": "word.gram",
+  "word": "vibhakta-karmaṇām",
+  "old": "bahuvrīhi, n. gen. pl.",
+  "new": "bahuvrīhi, gen. pl.",
+  "why": "reviewer (minor): Bahuvrīhi qualifying the three previously named items of mixed gender; 'n.' is not secure."
+ },
+ {
+  "n": "95",
+  "field": "hindi",
+  "old": "स्रोतस्, सिराएँ, धमनियाँ, रस को वहन करने वाली, नाड़ियाँ, पन्थ, अयन, मार्ग, शरीर के छिद्र, बन्द और खुले, स्थान, आशय, क्षय और निकेत: ये शरीर में धातुओं के दिखाई देने वाले और न दिखाई देने वाले अवकाशों के नाम हैं।",
+  "new": "स्रोतस्, सिराएँ, धमनियाँ, रसवाहिनियाँ, नाड़ियाँ, पन्थ, अयन, मार्ग, शरीर के छिद्र, बन्द और खुले, स्थान, आशय, क्षय और निकेत: ये शरीर में धातुओं के दिखाई देने वाले और न दिखाई देने वाले अवकाशों के नाम हैं।",
+  "why": "reviewer (error): Singular feminine adjective dangling in a plural list; number and the noun's absence not shown."
+ },
+ {
+  "n": "95",
+  "field": "hindi",
+  "old": "स्रोतस्, सिराएँ, धमनियाँ, रसवाहिनियाँ, नाड़ियाँ, पन्थ, अयन, मार्ग, शरीर के छिद्र, बन्द और खुले, स्थान, आशय, क्षय और निकेत: ये शरीर में धातुओं के दिखाई देने वाले और न दिखाई देने वाले अवकाशों के नाम हैं।",
+  "new": "स्रोतस्, सिराएँ, धमनियाँ, रसवाहिनियाँ, नाड़ियाँ, पन्थ, अयन, मार्ग, शरीर के छिद्र, बन्द और खुले, स्थान, आशय यानी आधार, क्षय यानी निवास और निकेत यानी आवास: ये शरीर में धातुओं के दिखाई देने वाले और न दिखाई देने वाले अवकाशों के नाम हैं।",
+  "why": "reviewer (minor): Glossary: always gloss Hindi आशय; क्षय here means 'abode' and could be read as the disease/decrease sense; English glosses all three."
+ },
+ {
+  "n": "95",
+  "field": "notes",
+  "old": "The words after 'rasavāhinyaḥ' are all nominative plural names in a list; 'saṃvṛtāsaṃvṛtāni' (closed and open) is read as qualifying the list. 'rasavāhinyaḥ' = the carriers of rasa (feminine plural: vessels). Printed 'kṣayā' = kṣayāḥ; 'paṃthāno'yanāni' = panthānaḥ ayanāni. The closing 'iti' is left to notes.",
+  "new": "The words after 'rasavāhinyaḥ' are all nominative plural names in a list; 'saṃvṛtāsaṃvṛtāni' (closed and open) is read with 'śarīracchidrāṇi' (openings of the body); it could also be a separate name in the list. 'rasavāhinyaḥ' = the carriers of rasa (feminine plural: vessels). Printed 'kṣayā' = kṣayāḥ; 'paṃthāno'yanāni' = panthānaḥ ayanāni. The closing 'iti' is left to notes.",
+  "why": "reviewer (minor): Note says 'closed and open' qualifies the list, but the English (and Hindi) attach it to 'openings of the body'; it could also be a separate name."
+ },
+ {
+  "n": "100",
+  "field": "english",
+  "old": "Of all these indeed, the vitiators are the vitiated doṣas.",
+  "new": "The vitiators of all these indeed are the vitiated doṣas.",
+  "why": "reviewer (minor): Detached 'Of all these' reads as if teṣām sarveṣām qualified something else; natural order: the vitiators of all these."
+ },
+ {
+  "n": "100",
+  "field": "notes",
+  "old": "Printed 'sarveṣāmaiva' is read as sarveṣām eva ('ai' for 'e' looks like a print slip). 'duṣṭā' = duṣṭāḥ (visarga dropped before d in print is regular).",
+  "new": "Printed 'sarveṣāmaiva' is read as sarveṣām eva ('ai' for 'e' looks like a print slip). 'duṣṭā' = duṣṭāḥ (visarga dropped before d in print is regular). Alternative for the printed Devanagari 'सर्वेषामैव' (real ऐ): sarveṣāṃ caiva (ca lost); 'eva' kept as the simpler guess.",
+  "why": "reviewer (minor): Detached 'Of all these' reads as if teṣām sarveṣām qualified something else; natural order: the vitiators of all these."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "और वे अधिकतर अग्नि के दोष से दूषित होते हैं।",
+  "new": "और वे अधिकतर अग्नि यानी पाचन की अग्नि के दोष से दूषित होते हैं।",
+  "why": "reviewer (minor): English glosses agni as digestive fire; Hindi bare."
+ },
+ {
+  "n": "102",
+  "field": "hindi",
+  "old": "इसलिए निमित्त: आयु, आरोग्य, बल, उपचय, वर्ण और ओजस्।",
+  "new": "इसलिए निमित्त: आयु, आरोग्य, बल, उपचय यानी वृद्धि, वर्ण यानी रंगत और ओजस् यानी जीवन-सार।",
+  "why": "reviewer (minor): Technical words unglossed in Hindi (and ojas in English)."
+ },
+ {
+  "n": "102",
+  "field": "english",
+  "old": "Therefore the causes (nimitta): lifespan, health, strength, growth, complexion and ojas.",
+  "new": "Therefore the causes (nimitta): lifespan, health, strength, growth, complexion and ojas (vital essence).",
+  "why": "reviewer (minor): Technical words unglossed in Hindi (and ojas in English)."
+ },
+ {
+  "n": "103",
+  "field": "english",
+  "old": "And dependent on that alone are the rañjaka and the rest, the bhūtāgnis (fires of the elements) and the dhātvagnis (fires of the dhātus).",
+  "new": "And dependent on that alone are the rañjaka (a kind of Pitta) and the rest, the bhūtāgnis (fires of the elements) and the dhātvagnis (fires of the dhātus).",
+  "why": "reviewer (minor): Doctrinal term left bare in the translation; caller policy: short gloss."
+ },
+ {
+  "n": "103",
+  "field": "hindi",
+  "old": "और उसी पर आश्रित रञ्जक आदि, भूताग्नियाँ और धात्वग्नियाँ हैं।",
+  "new": "और उसी पर आश्रित रञ्जक यानी पित्त का एक भेद आदि, भूताग्नियाँ और धात्वग्नियाँ हैं।",
+  "why": "reviewer (minor): Technical terms unglossed in Hindi."
+ },
+ {
+  "n": "103",
+  "field": "hindi",
+  "old": "और उसी पर आश्रित रञ्जक यानी पित्त का एक भेद आदि, भूताग्नियाँ और धात्वग्नियाँ हैं।",
+  "new": "और उसी पर आश्रित रञ्जक यानी पित्त का एक भेद आदि, भूताग्नियाँ यानी भूतों की अग्नियाँ और धात्वग्नियाँ यानी धातुओं की अग्नियाँ हैं।",
+  "why": "reviewer (minor): Technical terms unglossed in Hindi."
+ },
+ {
+  "n": "104",
+  "field": "english",
+  "old": "Likewise food too, digested (pakva) by that very agni, attains the state of nectar (amṛta), and undigested, the state of poison (viṣa).",
+  "new": "Likewise food too, digested (pakva) by that very (agni), attains the state of nectar (amṛta), and undigested, the state of poison (viṣa).",
+  "why": "reviewer (minor): 'agni' is supplied for tena (pronoun); draft convention marks supplied words in parentheses."
+ },
+ {
+  "n": "105",
+  "field": "hindi",
+  "old": "उनमें पित्त का विशेष रूप, जिसका नाम पाचक है, अग्नि है, ऐसा पहले कहा गया।",
+  "new": "उनमें पित्त का विशेष रूप, जिसका नाम पाचक यानी पचाने वाला है, अग्नि है, ऐसा पहले कहा गया।",
+  "why": "reviewer (minor): Hindi leaves pācaka unglossed (English: the digesting one)."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "दोष, धातु और मल के संयोग से उत्पन्न भीतरी ऊष्मा, जिसका स्थान और कर्म पहले बताए अनुसार हैं, अग्नि है।",
+  "new": "दोष, धातु और मल यानी अपशिष्ट के संयोग से उत्पन्न भीतरी ऊष्मा, जिसका स्थान और कर्म पहले बताए अनुसार हैं, अग्नि है।",
+  "why": "reviewer (minor): Bare मल reads as stool in Hindi; English glosses it as waste."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "वह अग्नि, यानी भीतरी अग्नि, विधि से खाए हुए अन्न को, जिसे प्राण वायु ने कोष्ठ में खींचा है, जिसका संघात द्रवों से टूट गया है, जिसे स्नेह यानी तेल या वसा से नरम किया गया है, समान वायु से प्रज्वलित होकर, आमाशय में स्थित को, हाँडी में स्थित पानी और चावल के समान, पकाता है।",
+  "new": "वह अग्नि, यानी भीतरी अग्नि, विधि से खाए हुए अन्न को, जिसे प्राण वायु ने कोष्ठ यानी भण्डार या पेट में खींचा है, जिसका संघात द्रवों से टूट गया है, जिसे स्नेह यानी तेल या वसा से नरम किया गया है, समान वायु से प्रज्वलित होकर, आमाशय में स्थित को, हाँडी में स्थित पानी और चावल के समान, पकाता है।",
+  "why": "reviewer (error): Hindi omits the glosses and the hedge the English carries (koṣṭha storehouse/belly; āmāśaya probably the stomach; Hindi आमाशय = जठर per glossary)."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "वह अग्नि, यानी भीतरी अग्नि, विधि से खाए हुए अन्न को, जिसे प्राण वायु ने कोष्ठ यानी भण्डार या पेट में खींचा है, जिसका संघात द्रवों से टूट गया है, जिसे स्नेह यानी तेल या वसा से नरम किया गया है, समान वायु से प्रज्वलित होकर, आमाशय में स्थित को, हाँडी में स्थित पानी और चावल के समान, पकाता है।",
+  "new": "वह अग्नि, यानी भीतरी अग्नि, विधि से खाए हुए अन्न को, जिसे प्राण वायु ने कोष्ठ यानी भण्डार या पेट में खींचा है, जिसका संघात द्रवों से टूट गया है, जिसे स्नेह यानी तेल या वसा से नरम किया गया है, समान वायु से प्रज्वलित होकर, आमाशय यानी कच्चे अन्न का स्थान, सम्भवतः जठर में स्थित को, हाँडी में स्थित पानी और चावल के समान, पकाता है।",
+  "why": "reviewer (error): Hindi omits the glosses and the hedge the English carries (koṣṭha storehouse/belly; āmāśaya probably the stomach; Hindi आमाशय = जठर per glossary)."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "वह अन्न तो, सब रसों वाला होते हुए भी, पकते समय पहले मधुर हो जाकर फेनिल हुए कफ को उभारता है।",
+  "new": "वह अन्न तो, सब रसों यानी स्वादों वाला होते हुए भी, पकते समय पहले मधुर हो जाकर फेनिल हुए कफ को उभारता है।",
+  "why": "reviewer (minor): Bare रस = juice/essence in Hindi; here the six tastes."
+ },
+ {
+  "n": "109",
+  "field": "word.gram",
+  "word": "ādau",
+  "old": "n. loc. sg. as ind.",
+  "new": "loc. sg. of ādi, as ind.",
+  "why": "reviewer (minor): ādi is masculine; 'n. loc. sg.' is wrong."
+ },
+ {
+  "n": "110",
+  "field": "english",
+  "old": "Then, burnt (vidagdha), turned sour, passing down from the āmāśaya, (it stirs up) clear Pitta.",
+  "new": "Then, burnt (vidagdha), turned sour, falling away from the āmāśaya, (it stirs up) clear Pitta.",
+  "why": "reviewer (minor): 'down' is not in cyavamāna (falling/slipping away from); the direction is inferred."
+ },
+ {
+  "n": "110",
+  "field": "hindi",
+  "old": "तब जला हुआ, खट्टा हो गया, आमाशय से नीचे जाता हुआ, स्वच्छ पित्त को।",
+  "new": "तब जला हुआ, खट्टा हो गया, आमाशय से खिसकता हुआ, स्वच्छ पित्त को।",
+  "why": "reviewer (minor): 'down' is not in cyavamāna (falling/slipping away from); the direction is inferred."
+ },
+ {
+  "n": "110",
+  "field": "word.gloss",
+  "word": "cyavamānam",
+  "old": "falling, passing down",
+  "new": "falling, slipping away",
+  "why": "reviewer (minor): 'down' is not in cyavamāna (falling/slipping away from); the direction is inferred."
+ },
+ {
+  "n": "111",
+  "field": "hindi",
+  "old": "और पक्वाशय में पहुँचकर तीखा हो गया, वायु को।",
+  "new": "और पक्वाशय यानी सम्भवतः बड़ी आँत के क्षेत्र में पहुँचकर तीखा हो गया, अनिल यानी वात को।",
+  "why": "reviewer (error): Glossary: Hindi uses वात for the doṣa and वायु only for plain wind. Here anila stands in the Kapha-Pitta-anila series (Vāta), and Hindi also drops the pakvāśaya gloss/hedge the English carries."
+ },
+ {
+  "n": "111",
+  "field": "english",
+  "old": "And having reached the pakvāśaya (probably the large-bowel region), turned pungent, (it stirs up) wind (anila).",
+  "new": "And having reached the pakvāśaya (probably the large-bowel region), turned pungent, (it stirs up) the wind (anila, that is Vāta).",
+  "why": "reviewer (error): Glossary: Hindi uses वात for the doṣa and वायु only for plain wind. Here anila stands in the Kapha-Pitta-anila series (Vāta), and Hindi also drops the pakvāśaya gloss/hedge the English carries."
+ },
+ {
+  "n": "112",
+  "field": "notes",
+  "old": "Damaged print: 'paṃcātamaka mahābhūtana mayo' are kept unsplit as unclear; a possible restoration is 'pañcātmakāḥ mahābhūtāgnayaḥ' (the five fires of the great elements, which would give the plural subject of 'pacanti'), but this is not adopted. The grammar of 'vyastāni' and the subject of 'pacanti' are therefore uncertain. Printed 'viklinnaāhāre' is read as viklinne āhāre (the vowels are not joined in print). Compare the bhūtāgnis in unit 103.",
+  "new": "Damaged print: 'paṃcātamaka mahābhūtana mayo' are kept unsplit as unclear; a possible restoration is 'pañcātmakāḥ mahābhūtāgnayaḥ' (the five fires of the great elements, which would give the plural subject of 'pacanti'), but this is not adopted. The grammar of 'vyastāni' and the subject of 'pacanti' are therefore uncertain. Printed 'viklinnaāhāre' is read as viklinne āhāre (the vowels are not joined in print). Compare the bhūtāgnis in unit 103. The neuter plural 'vyastāni' suggests a neuter subject (such as mahābhūtāni) rather than the masculine 'mahābhūtāgnayaḥ'; the restoration is a guess only.",
+  "why": "reviewer (minor): Observation: 'vyastāni' is neuter plural, so the subject behind the damaged words is probably neuter (e.g. mahābhūtāni, 'pañcātmakāni mahābhūtāni'), not the masculine 'mahābhūtāgnayaḥ' of the flag; the flag stays a guess only."
+ },
+ {
+  "n": "113",
+  "field": "hindi",
+  "old": "वे पके हुए फिर अपने-अपने अनुसार ही शरीर में स्थित, अपने अविकृत रूप वाले भूत-गुणों को पुष्ट करते हैं।",
+  "new": "वे पके हुए फिर अपने-अपने अनुसार ही शरीर में स्थित और अपने अविकृत रूप वाले भूत-गुणों को पुष्ट करते हैं।",
+  "why": "reviewer (minor): 'ca' (dehāśritāṃś ca) dropped in Hindi."
+ },
+ {
+  "n": "114",
+  "field": "hindi",
+  "old": "और इस प्रकार पके हुए आहार से, मानो अनेक औषध-द्रव्यों को भीतर रखने वाले स्नेह से, रस नामक स्वच्छ सार और किट्ट नामक मल उत्पन्न होता है।",
+  "new": "और इस प्रकार पके हुए आहार से, मानो अनेक औषधों को भीतर रखने वाले स्नेह से, रस नामक स्वच्छ सार और किट्ट नामक मल उत्पन्न होता है।",
+  "why": "reviewer (minor): Adds 'द्रव्य'; auṣadha = medicine (औषध)."
+ },
+ {
+  "n": "115",
+  "field": "word.gram",
+  "word": "tābhyām",
+  "old": "f. inst. du.",
+  "new": "m. inst. du.",
+  "why": "reviewer (error): Refers to sāra and mala (both masculine); 'f.' is wrong."
+ },
+ {
+  "n": "115",
+  "field": "hindi",
+  "old": "और उन सार और मल दोनों से, उसी स्वरूप वाले, धातु नामक शारीरिक गुणों के स्रोतस् अपने-अपने अनुसार क्रम से अटूट प्रवाह में भरते हैं।",
+  "new": "और उन सार और मल दोनों से, उसी स्वरूप वाले, धातु नामक शारीरिक गुणों के स्रोतस् अपने-अपने अनुसार क्रम से अटूट प्रवाह में भरे जाते हैं।",
+  "why": "reviewer (error): āpūryante is passive; Hindi 'भरते हैं' reads as if the srotas fill something."
+ },
+ {
+  "n": "117",
+  "field": "word.gram",
+  "word": "āpyāyamānānām",
+  "old": "pres. pass. part. ā-√pyāy, n. gen. pl.",
+  "new": "pres. mid. part. ā-√pyāy, n. gen. pl.",
+  "why": "reviewer (minor): āpyāyate is ātmanepada, not passive (glossary)."
+ },
+ {
+  "n": "118",
+  "field": "hindi",
+  "old": "और तब धातु नामक प्रसाद और मल अपने-अपने मान का ही अनुसरण करते हैं, आयु और शरीर के अनुसार।",
+  "new": "और तब धातु नामक प्रसाद यानी निर्मल सार और मल यानी अपशिष्ट अपने-अपने मान यानी माप का ही अनुसरण करते हैं, आयु और शरीर के अनुसार।",
+  "why": "reviewer (minor): Hindi technical terms bare (प्रसाद, मल, मान)."
+ },
+ {
+  "n": "119",
+  "field": "english",
+  "old": "There, the food-rasa (āhāra-rasa), scattered by vyāna, each according to its own, even (reading uncertain), being cooked in order in the dhātu-fires, immediately after the loss of its own state, named by the dhātus beginning with 'prāmrakta' (unclear), timely and of unfailing measure of strength, having invigorated the body, nourishes the dhātus and the wastes of the dhātus.",
+  "new": "There, the food-rasa (āhāra-rasa), scattered by vyāna, each according to its own, even (reading uncertain), being cooked in order in the dhātu-fires, immediately after the loss of its own state, bearing the dhātu name 'prāmraktādi' (unclear), timely and of unfailing measure of strength, having invigorated the body, nourishes the dhātus and the wastes of the dhātus.",
+  "why": "reviewer (error): 'beginning with' and 'the dhātus' are not in the damaged word: prāmraktādi is printed as one unclear word before dhātu-saṃjñakaḥ ('having the dhātu name'). The draft's Hindi ('अस्पष्ट आरम्भ वाले') says something different again, so the unclear mark does not match across languages; samastu's 'reading uncertain' is also missing in Hindi; vyāna unglossed."
+ },
+ {
+  "n": "119",
+  "field": "english",
+  "old": "There, the food-rasa (āhāra-rasa), scattered by vyāna, each according to its own, even (reading uncertain), being cooked in order in the dhātu-fires, immediately after the loss of its own state, bearing the dhātu name 'prāmraktādi' (unclear), timely and of unfailing measure of strength, having invigorated the body, nourishes the dhātus and the wastes of the dhātus.",
+  "new": "There, the food-rasa (āhāra-rasa), scattered by vyāna (a wind), each according to its own, even (reading uncertain), being cooked in order in the dhātu-fires, immediately after the loss of its own state, bearing the dhātu name 'prāmraktādi' (unclear), timely and of unfailing measure of strength, having invigorated the body, nourishes the dhātus and the wastes of the dhātus.",
+  "why": "reviewer (error): 'beginning with' and 'the dhātus' are not in the damaged word: prāmraktādi is printed as one unclear word before dhātu-saṃjñakaḥ ('having the dhātu name'). The draft's Hindi ('अस्पष्ट आरम्भ वाले') says something different again, so the unclear mark does not match across languages; samastu's 'reading uncertain' is also missing in Hindi; vyāna unglossed."
+ },
+ {
+  "n": "119",
+  "field": "hindi",
+  "old": "वहाँ आहार-रस, व्यान से बिखेरा हुआ, अपने-अपने अनुसार सम होकर, धातुओं की अग्नियों में क्रम से पकता हुआ, अपने स्वरूप के छूटने के तुरन्त बाद, अस्पष्ट आरम्भ वाले धातु नाम धारण करने वाला, यथासमय अटूट बल-परिमाण वाला होकर, शरीर को पुष्ट करके, धातुओं और धातुओं के मलों को पोषित करता है।",
+  "new": "वहाँ आहार-रस, व्यान यानी शरीर में फैलने वाली वायु से बिखेरा हुआ, अपने-अपने अनुसार सम होकर — पाठ अनिश्चित —, धातुओं की अग्नियों में क्रम से पकता हुआ, अपने स्वरूप के छूटने के तुरन्त बाद, प्राम्रक्तादि — यह शब्द अस्पष्ट है — धातु नाम वाला, यथासमय अटूट बल-परिमाण वाला होकर, शरीर को पुष्ट करके, धातुओं और धातुओं के मलों को पोषित करता है।",
+  "why": "reviewer (error): 'beginning with' and 'the dhātus' are not in the damaged word: prāmraktādi is printed as one unclear word before dhātu-saṃjñakaḥ ('having the dhātu name'). The draft's Hindi ('अस्पष्ट आरम्भ वाले') says something different again, so the unclear mark does not match across languages; samastu's 'reading uncertain' is also missing in Hindi; vyāna unglossed."
+ },
+ {
+  "n": "120",
+  "field": "hindi",
+  "old": "अब अन्न का किट्ट: स्वच्छ मूत्र और घना मल।",
+  "new": "अब अन्न का किट्ट यानी अपशिष्ट: स्वच्छ मूत्र और घना मल।",
+  "why": "reviewer (minor): Hindi leaves kiṭṭa unglossed (u114 too)."
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "रक्त का सार मांस है; कण्डराएँ और सिराएँ भी; मल पित्त है।",
+  "new": "रक्त का सार मांस है; कण्डराएँ यानी सम्भवतः बड़े टेंडन और सिराएँ भी; मल पित्त है।",
+  "why": "reviewer (minor): English hedges kaṇḍarā (probably large tendons); Hindi carries no identification or hedge."
+ },
+ {
+  "n": "123",
+  "field": "english",
+  "old": "Of flesh the essence is fat (medas), the skin layers and vasā (muscle fat); the refuse is the wastes of the ear, eye, nose, mouth, hair-pores and genital organ.",
+  "new": "Of flesh the essence is fat (medas), the skins (tvacaḥ, plural) and vasā (muscle fat); the refuse is the wastes of the ear, eye, nose, mouth, hair-pores and genital organ.",
+  "why": "reviewer (minor): 'layers' is supplied; tvacaḥ is plural 'skins'."
+ },
+ {
+  "n": "123",
+  "field": "word.gloss",
+  "word": "tvacaḥ",
+  "old": "skin layers",
+  "new": "skins (plural)",
+  "why": "reviewer (minor): 'layers' is supplied; tvacaḥ is plural 'skins'."
+ },
+ {
+  "n": "123",
+  "field": "hindi",
+  "old": "मांस का सार मेद, त्वचाएँ और वसा है; किट्ट कान, आँख, नाक, मुख, रोमकूप और जननेन्द्रिय के मल हैं।",
+  "new": "मांस का सार मेद यानी चर्बी, त्वचाएँ और वसा यानी मांस की चर्बी है; किट्ट कान, आँख, नाक, मुख, रोमकूप और जननेन्द्रिय के मल हैं।",
+  "why": "reviewer (minor): 'layers' is supplied; tvacaḥ is plural 'skins'."
+ }
+]

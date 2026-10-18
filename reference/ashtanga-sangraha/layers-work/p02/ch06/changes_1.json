@@ -1,0 +1,404 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "daśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "sapta",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "8",
+  "field": "text_flags.0.why",
+  "old": "possible: 22 does not fit the figures of units 12-19 (they sum to 136 with 32 for the hip region); dvā-viṃ/dvā-triṃ differ by one letter. Not applied; the printed 22 is translated",
+  "new": "possible, and likely: tatra (as in u6 and u9) gives the number of sirās not to be pierced within the trunk's 136, so 22 does not clash with 136. The trunk lists that name sirās to be guarded add up to 8 (u13) + 2 (u14) + 4 (u16) + 4 (u18) + 14 (u23) = 32, which is dvātriṃśat; dvāviṃśat and dvātriṃśat differ by one letter. Not applied; the printed 22 is translated",
+  "why": "reviewer (error): Premise is wrong: 22 does not 'conflict' with the 136 of the trunk, because tatra here (as in u6 'sixteen not to be pierced' and u9 'fifty') gives a subset, the number of sirās not to be pierced. The real evidence for 32: the trunk lists name 8 (u13) + 2 (u14) + 4 (u16) + 4 (u18) + 14 (u23) = 32 sirās to be guarded, and 16 (u6) + 32 + 50 (u9) = 98. So 22 is probably a misreading of dvātriṃśat. Count stays 22 as printed"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Number translated as printed, not corrected. GROUPING: appears to continue unit 7, but the trunk figures in units 12-19 (32, 16, 24, 24, 40) already add up to 136 without any 22, and unit 12 gives 32 for the hip region; so 'dvāviṃśat' may be a misreading of dvātriṃśat, or the unit may be out of place. Left as printed and flagged as possible. Copula understood.",
+  "new": "Number translated as printed, not corrected. tatra is read as in unit 6 (sixteen not to be pierced) and unit 9 (fifty): 'among those (the 136 of the trunk)', a subset of sirās not to be pierced; this is an inference from the parallel wording, not stated. 22 therefore does not conflict with the 136, but the guarded sirās named in units 13-23 add up to 32 (8 + 2 + 4 + 4 + 14), so the printed dvāviṃśat is probably a misreading of dvātriṃśat; flagged as possible, not applied. Copula understood. GROUPING: appears to continue unit 7.",
+  "why": "reviewer (error): Premise is wrong: 22 does not 'conflict' with the 136 of the trunk, because tatra here (as in u6 'sixteen not to be pierced' and u9 'fifty') gives a subset, the number of sirās not to be pierced. The real evidence for 32: the trunk lists name 8 (u13) + 2 (u14) + 4 (u16) + 4 (u18) + 14 (u23) = 32 sirās to be guarded, and 16 (u6) + 32 + 50 (u9) = 98. So 22 is probably a misreading of dvātriṃśat. Count stays 22 as printed"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "'catuḥṣaṣṭyadhikaṃ śatam' = a hundred with sixty-four in excess = 164. 'ūrdhvam' = above (the upper part of the body); it is not further defined in the line. What the fifty are is not stated. Copula understood. 400 + 136 + 164 = 700 as in unit 4.",
+  "new": "'catuḥṣaṣṭyadhikaṃ śatam' = a hundred with sixty-four in excess = 164. 'ūrdhvam' = above (the upper part of the body); it is not further defined in the line. What the fifty are is not stated. Copula understood. 400 + 136 + 164 = 700 as in unit 4. Arithmetic check (not stated in the text): the sirās named for guarding in the upper part, units 26-38, give 16 + 2 + 4 + 3 + 6 + 7 + 4 + 8 = 50, which suggests the fifty are the ones not to be pierced, as in units 6 and 8; the ear total of 4 in unit 36 is itself an inference.",
+  "why": "reviewer (minor): The note says it is not stated what the fifty are; an arithmetic check shows the same pattern as units 6 and 8: the sirās named for guarding in the upper part (units 26-38) add up to 50 (16 + 2 + 4 + 3 + 6 + 7 + 4 + 8), if the ear unit 36 counts 4"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "और आड़ी जाने वाली तथा भीतर जाने वाली को भी।",
+  "new": "और आड़ी तथा भीतर जाने वाली।",
+  "why": "reviewer (minor): Three conjunctions (और, तथा, भी) for one ca; 'भी' and 'को' are not in the Sanskrit. English also has two 'and's"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "and the ones going across and going within.",
+  "new": "and (ones) going across and within.",
+  "why": "reviewer (minor): Three conjunctions (और, तथा, भी) for one ca; 'भी' and 'को' are not in the Sanskrit. English also has two 'and's"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "aṣṭau",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "śakhato",
+  "old": "unclear (possibly śastrataḥ, from the knife)",
+  "new": "unclear",
+  "why": "reviewer (minor): The gloss of the unrestorable word contains the guess; glossary (p02 ch03 k2) keeps guesses out of the gloss, in the flag and notes only. The translations already carry 'on a conjectural reading'"
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "And two and two in the stanamūla and the stanarohita.",
+  "new": "And two and two in the stanamūlas and the stanarohitas.",
+  "why": "reviewer (minor): Locative plural (-eṣu) rendered as singular; English and Hindi should be plural"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "और दो-दो स्तनमूल और स्तनरोहित में।",
+  "new": "और दो-दो स्तनमूलों और स्तनरोहितों में।",
+  "why": "reviewer (minor): Locative plural (-eṣu) rendered as singular; English and Hindi should be plural"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "Copula understood. stanamūla and stanarohita are names of marmas in this tradition (probable); the line does not say so, so they are kept as names. GROUPING: appears to continue unit 20.",
+  "new": "Copula understood. stanamūla and stanarohita are names of marmas in this tradition (probable); the line does not say so, so they are kept as names. GROUPING: appears to continue unit 20. Arithmetic check (not stated): the chest sirās to be guarded come to 14 (unit 23) only if 'dve dve' means two on each side in each of the stanamūla and stanarohita: 2 (heart) + 4 + 4 + 4 (apastambha, apalāpa) = 14. The translation keeps the plural place names and does not decide this.",
+  "why": "reviewer (minor): Locative plural (-eṣu) rendered as singular; English and Hindi should be plural"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "One each in the apastambha and the apalāpa (on a conjectural reading), thus.",
+  "new": "One each in the apastambhas and the apalāpas (on a conjectural reading), thus.",
+  "why": "reviewer (minor): Locative plural (-eṣu) rendered as singular. Also: apalāpa is a standard marma name beside apastambha, so the conjecture is stronger than 'possible' (keep the hedge, since the print reads ālāpa)"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "एक-एक अपस्तम्भ और अपलाप में, अनुमानित पाठ पर; इस प्रकार।",
+  "new": "एक-एक अपस्तम्भों और अपलापों में, अनुमानित पाठ पर; इस प्रकार।",
+  "why": "reviewer (minor): Locative plural (-eṣu) rendered as singular. Also: apalāpa is a standard marma name beside apastambha, so the conjecture is stronger than 'possible' (keep the hedge, since the print reads ālāpa)"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "caturdaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "Copula understood. 'tāḥ' = those counted in units 20-22 (appears). GROUPING: appears to complete units 19-22 (the chest total of forty is given in unit 19; fourteen is a part).",
+  "new": "Copula understood. 'tāḥ' = those counted in units 20-22 (appears). GROUPING: appears to complete units 19-22 (the chest total of forty is given in unit 19; fourteen is a part). Arithmetic: 14 = 2 (heart) + 4 (stanamūlas) + 4 (stanarohitas) + 4 (apastambhas and apalāpas) if 'dve dve' in unit 21 gives two on each side; this is an inference, the print gives only the total.",
+  "why": "reviewer (minor): Arithmetic supports the printed 14: 2 + 4 + 4 + 4 under the reading in unit 21 (see note there)"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "aṣṭau",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "ṣaṭ",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "Copula understood. The line does not say whether the sixty are additional to the 24 of the nose and 56 of the eyes; no relation is stated or assumed. GROUPING: appears to continue unit 33.",
+  "new": "Copula understood. The line does not say whether the sixty are additional to the 24 of the nose and 56 of the eyes; no relation is stated or assumed. GROUPING: appears to continue unit 33. Arithmetic check: neck 24 + jaws 16 + tongue 16 + nose 24 + eyes 56 + ears 16 + head 12 = 164 (unit 9), so the sixty in the forehead are not additional to the 24 of the nose and 56 of the eyes; they appear to be sirās going to the nose and eyes that lie in the forehead.",
+  "why": "reviewer (minor): Open question answered by the printed totals: the upper-body regions neck 24 (u24) + jaws 16 (u27) + tongue 16 (u28) + nose 24 (u30) + eyes 56 (u32) + ears 16 (u36) + head 12 (u37) = 164, the printed total of u9. The 60 in the forehead are therefore not additional to the nose 24 and eye 56; they are sirās going to the nose and eyes that lie in the forehead. Counts stay as printed"
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "sapta",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "ṣoḍaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "Printed 'evaca' joins eva and ca (spacing slip, no flag). The second and third clauses are elliptical; copula understood. The relation of 'those very two' to the two in the temples is as the Sanskrit states it and is not explained further. śaṅkha = temple of the head (the same word means conch); standard here. GROUPING: appears to continue unit 35.",
+  "new": "Printed 'evaca' joins eva and ca (spacing slip, no flag). The second and third clauses are elliptical; copula understood. The relation of 'those very two' to the two in the temples is as the Sanskrit states it and is not explained further. śaṅkha = temple of the head (the same word means conch); standard here. GROUPING: appears to continue unit 35. 'te eva' = those very two (the sound-carriers), not two additional ones: this agrees with the arithmetic of unit 9 (fifty guarded in the upper part needs 4 for the ears: 2 sound-carriers + 2 at the temple joint). Inference, not stated.",
+  "why": "reviewer (minor): Open question: 'those very two' (the sound-carriers) are also in the temples, not two further ones. Supported by the guarded total of the upper part: only with 2 + 2 = 4 for the ears does the sum reach the fifty of u9 (see u9). Translation is already neutral and fine"
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "dvādaśa",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "dve",
+  "old": "f. nom. pl.",
+  "new": "nom. du.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "aṣṭau",
+  "old": "n. nom. pl.",
+  "new": "nom. pl.",
+  "why": "reviewer (minor): `dve` is a dual form (not plural) and standing for an unstated noun carries no gender (glossary); numerals above four have no gender of their own, so 'n.' is wrong"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, इसी प्रकार छोटी, टेढ़ी, परस्पर मिली हुई, गुँथी हुई और जोड़ों में स्थित, शस्त्र-कर्म के योग्य नहीं हैं।",
+  "new": "अनुमानित पाठ पर, इसी प्रकार छोटी, टेढ़ी, मिली हुई, गुँथी हुई और जोड़ों में, शस्त्र-कर्म के योग्य नहीं हैं।",
+  "why": "reviewer (minor): Alternative the owner may weigh: the print may simply have a stray syllable before tathā, or an OCR slip; the draft's reasoning is sound and hedged in both languages. Hindi adds 'परस्पर' to संकीर्ण and 'स्थित' to the joints, which are not in the Sanskrit"
+ }
+]

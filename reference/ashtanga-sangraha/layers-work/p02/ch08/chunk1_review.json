@@ -1,0 +1,798 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole sentence",
+     "problem": "Hindi is ungrammatical (\"शरीर सम्बन्धी का व्याख्यान\"); sibling chapter openers use the form \"शारीर यानी शरीर सम्बन्धी ... की व्याख्या करेंगे\".",
+     "fix": "अब इसलिए हम प्रकृति के भेदों से सम्बन्धित शारीर यानी शरीर सम्बन्धी की व्याख्या करेंगे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अब इसलिए हम प्रकृति के भेदों से सम्बन्धित शारीर यानी शरीर सम्बन्धी की व्याख्या करेंगे।",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sapta",
+     "problem": "Glossary: numerals above four are \"nom. pl.\" with no gender.",
+     "fix": "numeral, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sapta",
+      "field": "gram",
+      "value": "numeral, nom. pl.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"lasting until death\"",
+     "problem": "The reading tena ā-maraṇāt viṣa-valyām (printed \"āmaraṇāhviṣa\") is a flagged typo conjecture adopted in the translation, so it needs the conjectural mark in both languages (glossary); \"lasting\" is also supplied (ā-maraṇāt = \"until death\").",
+     "fix": "by that, until death (on a conjectural reading), the constitution (prakṛti) arises",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by that the constitution (prakṛti) arises, lasting until death, as",
+      "new": "by that, until death (on a conjectural reading), the constitution (prakṛti) arises, as",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उससे मृत्यु तक",
+     "problem": "Same: adopted conjecture unmarked in Hindi.",
+     "fix": "उससे, अनुमानित पाठ पर मृत्यु तक, प्रकृति उत्पन्न होती है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उससे मृत्यु तक प्रकृति उत्पन्न होती है",
+      "new": "उससे, अनुमानित पाठ पर मृत्यु तक, प्रकृति उत्पन्न होती है",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विषैले कृमि या बिच्छू आदि",
+     "problem": "Hindi inserts \"या\" between worm and scorpion; the Sanskrit lists them without a conjunction (saviṣakṛmer iva vṛścikāder).",
+     "fix": "विषैले कृमि, बिच्छू आदि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विषैले कृमि या बिच्छू आदि",
+      "new": "विषैले कृमि, बिच्छू आदि",
+      "n": "3"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Notes call it a hard, partly garbled sentence with uncertain attachment of the genitives and a conjectural join; \"medium\" is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "garbhāśaya",
+     "problem": "Observation (no patch): garbhāśaya is \"womb\" here; the glossary has both \"uterus\" (p02 ch01 k1/ch05 k1) and \"womb\" (p02 ch01 k3). Owner to unify book-wide.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नष्ट नहीं होता",
+     "problem": "vi-√han (vihanyate) is \"is struck down, hindered\"; \"नष्ट\" (destroyed) is stronger than the English \"harmed\".",
+     "fix": "आहत नहीं होता",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नष्ट नहीं होता",
+      "new": "आहत नहीं होता",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole unit",
+     "problem": "Observation (no patch): damaged unit handled as the glossary requires (unsplit, \"unclear\", guess only in flag, low). The rendering of the genitives (vikṛtānām bījabhūtānām, mumūrṣoḥ) is loose; a human should confirm the unit stays low.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"arising in one who has come out of the womb from foods of unclear kind (asāt)\"",
+     "problem": "\"of unclear kind\" supplies a noun (\"kind\") the Sanskrit lacks, and the damaged word is attached as if it described the foods; \"in one\" turns the genitive abhiniḥsṛtasya into a locative (Hindi has \"के\").",
+     "fix": "arising from the foods of one who has come out of the womb, [unclear: asāt],",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "arising in one who has come out of the womb from foods of unclear kind (asāt), grow",
+      "new": "arising from the foods of one who has come out of the womb, [unclear: asāt], grow",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "असात् वाले आहारों",
+     "problem": "\"वाले\" attaches the damaged word to the foods as an adjective; same fix as English.",
+     "fix": "गर्भ से बाहर आए हुए के आहारों से, अस्पष्ट पद असात्, उत्पन्न होते हुए",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर्भ से बाहर आए हुए के अस्पष्ट पद असात् वाले आहारों से उत्पन्न होते हुए",
+      "new": "गर्भ से बाहर आए हुए के आहारों से, अस्पष्ट पद असात्, उत्पन्न होते हुए",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"sweet, sour and salty food\"",
+     "problem": "\"sour\" rests on the flagged conjecture madhurāmsa -> madhurāmla; glossary: an adopted correction must carry the conjectural mark in both languages.",
+     "fix": "sweet, sour (on a conjectural reading) and salty food",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "sweet, sour and salty food",
+      "new": "sweet, sour (on a conjectural reading) and salty food",
+      "n": "15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मीठे, खट्टे, नमकीन",
+     "problem": "Same: unmarked conjecture in Hindi.",
+     "fix": "मीठे, अनुमानित पाठ पर खट्टे, नमकीन",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मीठे, खट्टे, नमकीन",
+      "new": "मीठे, अनुमानित पाठ पर खट्टे, नमकीन",
+      "n": "15"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "śītadvidudvaddhapiṃḍikaḥ",
+     "problem": "The split śīta-dviṭ + udbaddha silently restores ḍ/ṭ for the printed dental d; an emendation in `words` needs its own flag.",
+     "fix": "add flag (possible)",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "snigdhoṣṇamadhurāmsalavaṇānnapānakāṃkṣopaśayaśca",
+        "suggest": "snigdhoṣṇamadhurāmlalavaṇānnapānakāṅkṣopaśayaśca",
+        "why": "likely: 'madhurāmsa' is not a taste; ms for ml (OCR), and madhura-amla-lavaṇa is the usual sequence"
+       },
+       {
+        "src": "śītadvidudvaddhapiṃḍikaḥ",
+        "suggest": "śītadviḍ udbaddhapiṇḍikaḥ",
+        "why": "possible: dental d printed where sandhi gives retroflex ḍ (dviṣ + udbaddha -> dviḍ udbaddha), and v for b (recorded once book-wide); the split is a reading, not firm"
+       }
+      ],
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"a thief\"",
+     "problem": "Observation (no patch): stena rendered as noun \"a thief\" (open in brief); \"hater of cold\" (śīta-dviṭ) and \"tightly bound calves\" are readings, not firm; \"kāṅkṣā-upaśaya\" = desire and suitability is a reading.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"vessels (dhamanī)\"",
+     "problem": "Policy: a probable identification is written beside the term and hedged; the draft keeps it only in gloss/notes.",
+     "fix": "a body spread over with vessels (dhamanī, probably the visible veins)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "vessels (dhamanī)",
+      "new": "vessels (dhamanī, probably the visible veins)",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धमनियों से फैले हुए",
+     "problem": "Bare \"धमनियों\" reads as arteries; the glossary requires dhamanī to be hedged in both languages.",
+     "fix": "धमनी यानी सम्भवतः दिखाई देने वाली नसों से फैले हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "धमनियों से फैले हुए",
+      "new": "धमनी यानी सम्भवतः दिखाई देने वाली नसों से फैले हुए",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अस्पष्ट क्रिया कथति करता है",
+     "problem": "The printed word is क्थति (kthati), not \"कथति\"; \"करता है\" and \"क्रिया\" are supplied. Other units write \"अस्पष्ट पद ...\".",
+     "fix": "अस्पष्ट पद क्थति",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अस्पष्ट क्रिया कथति करता है",
+      "new": "अस्पष्ट पद क्थति",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"cold things\"",
+     "problem": "Glossary: unstated nouns are \"(ones)\", not \"things\".",
+     "fix": "sweet, bitter, astringent (kaṣāya) and cold (ones)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "sweet, bitter and astringent (kaṣāya) and cold things",
+      "new": "sweet, bitter, astringent (kaṣāya) and cold (ones)",
+      "n": "21"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "करभ के समान",
+     "problem": "Hindi leaves karabha unglossed while English gives \"camel or young elephant\".",
+     "fix": "करभ यानी ऊँट या हाथी के बच्चे के समान कपिल यानी भूरे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "करभ के समान",
+      "new": "करभ यानी ऊँट या हाथी के बच्चे के समान",
+      "n": "21"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"on a conjectural reading, hunger and thirst\"",
+     "problem": "REPORT (rule conflict): sṛtpipāsa -> kṣutpipāsa is a typo conjecture adopted in the translation with the mark, as the draft did; supported by u27 kṣutpipāsoṣṇasahiṣṇu. Not changed; owner to confirm the book-wide policy.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दिशाओं के स्वामियों का भी सहारा होता है",
+     "problem": "Reads as \"he has the support of the lords of the quarters\" (reverses the sense); gatiḥ digpatām = a refuge for/of the lords. English says \"for\".",
+     "fix": "भय में दिशाओं के स्वामियों के लिए भी वह आश्रय होता है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भय में दिशाओं के स्वामियों का भी सहारा होता है",
+      "new": "भय में दिशाओं के स्वामियों के लिए भी वह आश्रय होता है",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "foul-smelling",
+     "problem": "Adopted conjecture pūniṃ -> pūti is unmarked in the translation.",
+     "fix": "foul-smelling (on a conjectural reading)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "foul-smelling",
+      "new": "foul-smelling (on a conjectural reading)",
+      "n": "25"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुर्गन्ध वाला",
+     "problem": "Same: unmarked in Hindi.",
+     "fix": "अनुमानित पाठ पर दुर्गन्ध वाला",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुर्गन्ध वाला",
+      "new": "अनुमानित पाठ पर दुर्गन्ध वाला",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "karṇikāra, arka",
+     "problem": "Observation (no patch): identifications are acceptable (karṇikāra = Pterospermum acerifolium, kanak-champa, probable; Cassia fistula/amaltas is the other common proposal, so \"disputed\" would also be defensible); arka sun vs Calotropis is noted.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"well-proportioned\"",
+     "problem": "su- is restored from printed \"mu\" (flagged); adopted correction needs the mark.",
+     "fix": "even, well-proportioned (on a conjectural reading), unctuous",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "even, well-proportioned, unctuous",
+      "new": "even, well-proportioned (on a conjectural reading), unctuous",
+      "n": "27"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"with well-fitted joint-ligaments\"",
+     "problem": "su-sandhi-bandha is restored from printed \"sasandhibandha\" (flagged); adopted correction needs the mark.",
+     "fix": "with joint-ligaments well-fitted (on a conjectural reading)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with well-fitted joint-ligaments",
+      "new": "with joint-ligaments well-fitted (on a conjectural reading)",
+      "n": "27"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"much ojas ... on a conjectural reading, [unclear: sthiraśoṣa]\"",
+     "problem": "The mark is detached from the conjectural word (bahu from \"banho\") and reads as if it applied to the unclear item.",
+     "fix": "with much (on a conjectural reading) ojas, strength, semen, sexual intercourse and offspring; [unclear: sthiraśoṣa], garlands and unguents",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents",
+      "new": "with much (on a conjectural reading) ojas, strength, semen, sexual intercourse and offspring; [unclear: sthiraśoṣa], garlands and unguents",
+      "n": "27"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"hot and dry things\"",
+     "problem": "Glossary: unstated nouns are \"(ones)\".",
+     "fix": "hot and dry (ones)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "hot and dry things",
+      "new": "hot and dry (ones)",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सम, सुविभक्त, ... मसृण अंगों वाला है, उसके जोड़ों के बन्धन अच्छे हैं",
+     "problem": "\"अंगों\" is a noun the Sanskrit lacks; the two restored readings (su-, su-sandhi-bandha) are unmarked in Hindi.",
+     "fix": "वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह सम, सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण अंगों वाला है, उसके जोड़ों के बन्धन अच्छे हैं",
+      "new": "वह सम, अनुमानित पाठ पर सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण है, अनुमानित पाठ पर उसके जोड़ों के बन्धन अच्छे हैं",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है",
+     "problem": "\"गहरा\" and \"गड़गड़ाहट\" are added; English says only \"a sound like a lion, a mṛdaṅga drum and a cloud\".",
+     "fix": "उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है",
+      "new": "उसकी ध्वनि सिंह, मृदंग और मेघ जैसी है",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसका ओज ... अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष",
+     "problem": "Mark detached from the conjectural word and \"उसके ... हैं\" wrongly makes the unclear item an object of possession.",
+     "fix": "उसके ओज, बल, शुक्र, मैथुन और सन्तान अनुमानित पाठ पर बहुत हैं; अस्पष्ट पद स्थिरशोष, माला और लेप वाला है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं",
+      "new": "उसके ओज, बल, शुक्र, मैथुन और सन्तान अनुमानित पाठ पर बहुत हैं; अस्पष्ट पद स्थिरशोष, माला और लेप वाला है",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुकोमल स्वभाव का",
+     "problem": "\"स्वभाव\" is not in the Sanskrit (peśala).",
+     "fix": "वह सुकोमल,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह सुकोमल स्वभाव का,",
+      "new": "वह सुकोमल,",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bahu-ojaḥ-bala-śukra-vyavāya-apatya",
+     "problem": "Compound member should be the stem ojas, not the nominative with visarga.",
+     "fix": "bahu-ojas-bala-śukra-vyavāya-apatya",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bahu-ojaḥ-bala-śukra-vyavāya-apatya",
+      "field": "w",
+      "value": "bahu-ojas-bala-śukra-vyavāya-apatya",
+      "n": "27"
+     }
+    },
+    {
+     "field": "english",
+     "where": "mahā-lalāṭa-uru-bāhuḥ",
+     "problem": "Observation (no patch, open): \"large forehead, thighs and arms\" takes mahā- over all three and uru as thigh; \"large forehead, broad arms\" is the other parse. REPORT: u27 marks several readings with \"on a conjectural reading\" (samamu-, sasandhi-, banhojo) as typo corrections, per the later rule; sthiraśoṣa is kept unclear.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "w",
+     "where": "prājya-āyuḥ-vittaḥ",
+     "problem": "Compound member should be the stem āyus.",
+     "fix": "prājya-āyus-vittaḥ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prājya-āyuḥ-vittaḥ",
+      "field": "w",
+      "value": "prājya-āyus-vittaḥ",
+      "n": "29"
+     }
+    },
+    {
+     "field": "english",
+     "where": "medhā",
+     "problem": "Observation (no patch, open): medhā \"intellect\" in a list of Kapha smallnesses is odd (meha?); kept as printed, correctly not emended.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्थूललक्ष, ... नींद वाला",
+     "problem": "Hindi leaves sthūlalakṣa untranslated and \"नींद वाला\" is ambiguous for nidrālu (prone to sleep).",
+     "fix": "श्रद्धालु, गम्भीर, स्थूललक्ष यानी बड़े लक्ष्य वाला, क्षमावान, श्रेष्ठ, निद्रालु यानी सोने की प्रवृत्ति वाला,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रद्धालु, गम्भीर, स्थूललक्ष, क्षमावान, श्रेष्ठ, नींद वाला,",
+      "new": "श्रद्धालु, गम्भीर, स्थूललक्ष यानी बड़े लक्ष्य वाला, क्षमावान, श्रेष्ठ, निद्रालु यानी सोने की प्रवृत्ति वाला,",
+      "n": "30"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sthūlalakṣa",
+     "problem": "Observation (no patch, open): dictionaries also give \"liberal, noticing large things\" for sthūlalakṣa; \"large aim\" is kept literal with the alternative in notes (acceptable).",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संसर्ग से बनी प्रकृति होती है",
+     "problem": "Hindi supplies the noun \"प्रकृति\" which the Sanskrit does not state (glossary: no added nouns in Hindi).",
+     "fix": "किन्तु दोनों के लक्षणों के मिलने पर संसर्ग से बनी होती है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "संसर्ग से बनी प्रकृति होती है",
+      "new": "संसर्ग से बनी होती है",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यक्ति",
+     "problem": "\"व्यक्ति\" is a noun the Sanskrit does not state.",
+     "fix": "सब गुणों से युक्त समदोष प्रकृति वाला होता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब गुणों से युक्त व्यक्ति समदोष",
+      "new": "सब गुणों से युक्त समदोष",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पहली तीन ... रहने वाली",
+     "problem": "ādyāḥ trayaḥ nityāturāḥ are masculine; Hindi feminine forms silently supply feminine \"प्रकृतियाँ\" (the notes say the noun is \"constitutions\"). The unstated noun is masculine (persons).",
+     "fix": "उनमें पहले तीन सदा रोगी रहने वाले हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनमें पहली तीन सदा रोगी रहने वाली हैं",
+      "new": "उनमें पहले तीन सदा रोगी रहने वाले हैं",
+      "n": "35"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "unstated noun",
+     "problem": "Gender: masculine plural forms point to persons, not feminine prakṛtayaḥ; note only.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: ādyāḥ trayaḥ nityāturāḥ are masculine plural, so the unstated noun is masculine (persons of those types), not the feminine prakṛtayaḥ.",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those of dual constitution",
+     "problem": "Observation (no patch): dvandva-prakṛtayaḥ may also be read as a plain nominative \"the dual constitutions\"; the added \"those of\" is a reading.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kṣut-pipāsā-ādiṣu",
+     "problem": "ādi is masculine; \"f. loc. pl.\" is wrong.",
+     "fix": "dvandva, m. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣut-pipāsā-ādiṣu",
+      "field": "gram",
+      "value": "dvandva, m. loc. pl.",
+      "n": "37"
+     }
+    },
+    {
+     "field": "english",
+     "where": "\"on a conjectural reading\"",
+     "problem": "REPORT: avārogya -> anārogya adopted and marked, as the draft did; low confidence kept. Whether \"teṣu ... kāriṣu\" and \"kṣutpipāsādiṣu\" are two phrases is open.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 37 units of p02 ch08 k1 word by word against the Sanskrit and the Devanagari. Structure, splits, identifications (dūrvā, indīvara, śara, padma, palāśa, karṇikāra) and the damaged-print handling (u12, u14, u19, u35 unsplit and unclear, guesses only in flags) are sound. Fixes: adopted typo conjectures not marked in the translations (u3, u15, u25, u27); damaged words wrongly attached/supplied (u14 'of unclear kind', u19 क्थति); Hindi that reverses or adds (u24 'सहारा' of the lords, u27 'अंगों', u33 'प्रकृति', u34 'व्यक्ति', u35 feminine for masculine); hedges for dhamanī (u17); '(ones)' for unstated nouns; compound stems and one gram. No identification judged wrong. Items without patch are open observations for the owner (u3 womb/uterus and confidence, u15 stena and readings, u21/u27/u37 conjectural-mark policy, u27 uru, u29 medhā, u30 sthūlalakṣa, u36 reading). No regrouping suggested; u35-u37 form one running argument and u16/u22/u28 are 'api ca' links.",
+ "glossary_suggestions": [
+  "(p02 ch08 k1) prakṛti in the constitution chapter = 'constitution (prakṛti)'; vikṛti = abnormality; dhamanī in Vāta description = 'probably the visible veins' hedged in both languages.",
+  "(p02 ch08 k1) Typo conjectures adopted in a translation (madhurāmla, pūti-gandhi, kṣut-pipāsā, bahu-ojas, anārogya, su-vibhakta) carry 'on a conjectural reading' / 'अनुमानित पाठ पर' next to the conjectural word; damaged words with no sound conjecture stay 'unclear' / 'अस्पष्ट पद' with the printed Devanagari form.",
+  "(p02 ch08 k1) karabha = 'camel or young elephant' / 'ऊँट या हाथी का बच्चा'; karṇikāra probable Pterospermum acerifolium (कनकचम्पा), Cassia fistula the other proposal; indīvara probable blue lotus (नीला कमल); śara probable reed (सरकंडा); gāndharva = music (गान्धर्व यानी संगीत).",
+  "(p02 ch08 k1) OPEN: stena 'a thief' (u15); mahā- over forehead/thighs/arms vs uru 'broad' (u27); medhā vs meha (u29); sthūlalakṣa 'large-aimed' vs 'liberal' (u30); garbhāśaya womb vs uterus book-wide.",
+  "(p02 ch08 k1) Compound members in `w` take the stem (ojas, āyus), not the nominative with visarga."
+ ]
+}

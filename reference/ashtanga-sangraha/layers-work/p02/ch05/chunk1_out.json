@@ -1,0 +1,3306 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto'ṃgavibhāgaṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "aṅga-vibhāgam",
+        "gloss": "part (aṅga) of the body; division",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śārīraṃ",
+      "words": [
+       {
+        "w": "śārīram",
+        "gloss": "bodily, relating to the body",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम अंगों के विभाग की, जो शारीर यानी शरीर सम्बन्धी है, व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall explain the bodily (śārīra) division of the parts (aṅga).",
+  "text_flags": [],
+  "notes": "śārīra is read as an adjective of aṅga-vibhāga (it may also echo the name of the Śārīra section). Opening formula atha ... vyākhyāsyāmaḥ.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sakalamapi",
+      "words": [
+       {
+        "w": "sakalam",
+        "gloss": "whole, entire",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also, even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīramimityucyate",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body (śarīra)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus, so named",
+        "gram": "ind."
+       },
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सम्पूर्ण को भी शरीर कहा जाता है।",
+  "english": "Even the whole is called 'body' (śarīra).",
+  "text_flags": [
+   {
+    "src": "śarīramimityucyate",
+    "suggest": "śarīramityucyate",
+    "why": "possible: the extra syllables 'mi' (śarīram-i-mity) are unexplained; read as śarīram iti ucyate, perhaps a dittography of 'ram'"
+   }
+  ],
+  "notes": "The text is read as 'sakalam api śarīram iti ucyate'; the printed form has two extra letters (flagged). The sentence is short and its exact point (the whole, as against the six parts of the next unit) is not stated here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍaṃgaṃ",
+      "words": [
+       {
+        "w": "ṣaṭ-aṅgam",
+        "gloss": "six; part (aṅga)",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiro'ntarādhidvau",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "antarādhiḥ",
+        "gloss": "trunk, the middle part of the body (standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bāhū",
+      "words": [
+       {
+        "w": "bāhū",
+        "gloss": "arms",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sakthinīca",
+      "words": [
+       {
+        "w": "sakthinī",
+        "gloss": "lower limbs, thighs and legs (sakthi)",
+        "gram": "n. nom. du."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह फिर छः अंगों वाला है: शिर, अन्तराधि यानी धड़, दो भुजाएँ और दो सक्थि यानी टाँगें।",
+  "english": "And that again has six parts (aṅga): the head, the trunk (antarādhi), the two arms and the two lower limbs (sakthi).",
+  "text_flags": [
+   {
+    "src": "śiro'ntarādhidvau",
+    "suggest": "śiro 'ntarādhir dvau",
+    "why": "possible: a visarga-sandhi r is missing before dvau (antarādhiḥ + dvau = antarādhir dvau)"
+   }
+  ],
+  "notes": "The printed word-run 'sakthinīca' lacks a space before ca (spacing only). sakthi = thigh/leg, here the lower limb as a whole.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "netranābhighrāṇipādādīni",
+      "words": [
+       {
+        "w": "netra-nābhi-ghrāṇa-pāda-ādīni",
+        "gloss": "eye; navel; nose; foot; and so on",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvasya",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyaṃgāni",
+      "words": [
+       {
+        "w": "pratyaṅgāni",
+        "gloss": "minor parts, secondary limbs (standard)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके प्रत्यंग यानी छोटे अंग तो नेत्र, नाभि, घ्राण यानी नाक, पाद आदि हैं।",
+  "english": "But the minor parts (pratyaṅga) of this are the eyes, the navel, the nose, the feet and so on.",
+  "text_flags": [
+   {
+    "src": "netranābhighrāṇipādādīni",
+    "suggest": "netranābhighrāṇapādādīni",
+    "why": "possible: the compound member 'ghrāṇi' is not a known stem; ghrāṇa (nose) is expected, and nābhi + ghrāṇa would join as nābhighrāṇa"
+   }
+  ],
+  "notes": "Read as ghrāṇa (nose). 'ādi' is rendered 'and so on'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mahāguṇamayebhyaścakhapavanatejojalabhūmyārunebhyo",
+      "words": [
+       {
+        "w": "mahā-guṇa-mayebhyaḥ",
+        "gloss": "great; guṇa, quality; made of, consisting of",
+        "gram": "bahuvrīhi, m. abl. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "kha-pavana-tejas-jala-bhūmi",
+        "gloss": "space (kha); wind (pavana); fire (tejas); water (jala); earth (bhūmi)",
+        "gram": "dvandva"
+       },
+       {
+        "w": "ārunebhyaḥ",
+        "gloss": "unclear (printed; conjecturally ārabdhebhyaḥ, 'constituted of')",
+        "gram": "unclear, abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahābhūtebhyaścetanādhiṣṭhitebhyo'bhinirvṛttiḥ",
+      "words": [
+       {
+        "w": "mahābhūtebhyaḥ",
+        "gloss": "great elements (mahābhūta)",
+        "gram": "n. abl. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "cetanā-adhiṣṭhitebhyaḥ",
+        "gloss": "consciousness; presided over",
+        "gram": "tat-puruṣa, n. abl. pl."
+       },
+       {
+        "w": "abhinirvṛttiḥ",
+        "gloss": "origination, coming into being",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महागुणों से युक्त तथा अनुमानित पाठ पर ख यानी आकाश, पवन यानी वायु, तेज यानी अग्नि, जल और भूमि से निर्मित, और चेतना से अधिष्ठित महाभूतों से उत्पत्ति होती है।",
+  "english": "Origination is from the great elements (mahābhūta), those consisting of the great guṇas and, on a conjectural reading, constituted of space (kha), wind (pavana), fire (tejas), water (jala) and earth (bhūmi), and presided over by consciousness (cetanā).",
+  "text_flags": [
+   {
+    "src": "ārunebhyo",
+    "suggest": "ārabdhebhyo",
+    "why": "possible: 'āruna' gives no sense; ārabdha ('constituted of, begun from') fits 'made of space, wind, fire, water, earth'; the conjecture is unsure"
+   }
+  ],
+  "notes": "Damaged word: the printed ārunebhyo is kept unsplit; the translation adopts the conjecture ārabdhebhyaḥ and marks it. The copula (is) is understood. 'mahāguṇa' is left as 'great guṇas' (the doctrinal guṇas of the following units are not assumed). The first ca joins two descriptions of the mahābhūtas; the second joins 'presided over by consciousness'.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūtānāmevaca",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "elements (bhūta; 'beings' is also possible)",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed, themselves",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭādṛṣṭavividhakarmavaśādanekarūpāt",
+      "words": [
+       {
+        "w": "dṛṣṭa-adṛṣṭa-vividha-karma-vaśāt",
+        "gloss": "seen; unseen; various; action; power",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "aneka-rūpāt",
+        "gloss": "many; form",
+        "gram": "bahuvrīhi, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sanniveśaviśeṣādākṛtipramāṇasnehadīptisvarādīnāṃ",
+      "words": [
+       {
+        "w": "sanniveśa-viśeṣāt",
+        "gloss": "arrangement; special feature",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "ākṛti-pramāṇa-sneha-dīpti-svara-ādīnām",
+        "gloss": "form; size; unctuousness; lustre; voice; and so on",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sārūpyamasārūpyaṃ",
+      "words": [
+       {
+        "w": "sārūpyam",
+        "gloss": "similarity",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asārūpyam",
+        "gloss": "dissimilarity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūkṣmasthūlatāratamyabhedabhinnamatibahuprakāraṃ",
+      "words": [
+       {
+        "w": "sūkṣma-sthūla-tāratamya-bheda-bhinnam",
+        "gloss": "fine; gross; gradation; difference; differentiated",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ati-bahu-prakāram",
+        "gloss": "very; many; kinds",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣpadyate",
+      "words": [
+       {
+        "w": "niṣpadyate",
+        "gloss": "comes about, is produced",
+        "gram": "3 sg. pres. mid. nis-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भूतों की ही, दृष्ट और अदृष्ट अनेक कर्मों के बल से, अनेक रूपों वाली विशेष संरचना से, आकृति, प्रमाण, चिकनाई, दीप्ति और स्वर आदि की समानता या असमानता उत्पन्न होती है, जो सूक्ष्म और स्थूल के तारतम्य के भेद से भिन्न तथा अत्यन्त अनेक प्रकार की होती है।",
+  "english": "And from the special arrangement of the elements (bhūta) themselves, of many forms, through the power of various actions, seen and unseen, there comes about similarity or dissimilarity of form, size, unctuousness, lustre, voice and so on, differentiated by gradations of fine and gross, of very many kinds.",
+  "text_flags": [],
+  "notes": "bhūta: 'elements' is chosen after the previous unit; 'beings' is the alternative. sneha here is a bodily quality (unctuousness, smoothness). tāratamya = gradation in degree. The arrangement is described as 'of many forms' and as arising through the power of actions (karma) seen and unseen.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "satvabahulamākāśaṃ",
+      "words": [
+       {
+        "w": "sattva-bahulam",
+        "gloss": "sattva (the guṇa of lucidity); abundant",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "ākāśam",
+        "gloss": "space, ether (ākāśa)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें आकाश सत्त्व की बहुलता वाला है।",
+  "english": "Among these, space (ākāśa) is abundant in sattva.",
+  "text_flags": [],
+  "notes": "Orthography (recorded once for the chunk): printed 'satva' is read as sattva in `w`. Copula understood. 'tatra' refers to the five great elements named in unit 5.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rajobahulo",
+      "words": [
+       {
+        "w": "rajas-bahulaḥ",
+        "gloss": "rajas (the guṇa of activity); abundant",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind, air (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु रजस् की बहुलता वाला है।",
+  "english": "Wind (vāyu) is abundant in rajas.",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhayabahulo'gniḥ",
+      "words": [
+       {
+        "w": "ubhaya-bahulaḥ",
+        "gloss": "both; abundant",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "fire (agni)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि दोनों की बहुलता वाला है।",
+  "english": "Fire (agni) is abundant in both.",
+  "text_flags": [],
+  "notes": "'both' is not named in the unit; from the context of units 7-8 it would be sattva and rajas, but the text does not say so here. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "satvatamobahulamaṃbu",
+      "words": [
+       {
+        "w": "sattva-tamas-bahulam",
+        "gloss": "sattva; tamas (the guṇa of inertia); abundant",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "ambu",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जल सत्त्व और तमस् की बहुलता वाला है।",
+  "english": "Water (ambu) is abundant in sattva and tamas.",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamobahulā",
+      "words": [
+       {
+        "w": "tamas-bahulā",
+        "gloss": "tamas; abundant",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūḥ",
+      "words": [
+       {
+        "w": "bhūḥ",
+        "gloss": "earth (bhū)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी तमस् की बहुलता वाली है।",
+  "english": "Earth (bhū) is abundant in tamas.",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāmapratighātaścalatvamauṣṇyaṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "apratighātaḥ",
+        "gloss": "non-obstruction, unobstructedness",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "calatvam",
+        "gloss": "mobility",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "auṣṇyam",
+        "gloss": "heat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravatā",
+      "words": [
+       {
+        "w": "dravatā",
+        "gloss": "fluidity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāṭhinyamitikramālliṃgāni",
+      "words": [
+       {
+        "w": "kāṭhinyam",
+        "gloss": "hardness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closes the list)",
+        "gram": "ind."
+       },
+       {
+        "w": "kramāt",
+        "gloss": "in order",
+        "gram": "ind."
+       },
+       {
+        "w": "liṅgāni",
+        "gloss": "marks, signs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके चिह्न क्रम से अप्रतिघात, चलत्व, उष्णता, द्रवता और कठिनता हैं।",
+  "english": "Their marks, in order, are unobstructedness (apratighāta), mobility, heat, fluidity and hardness.",
+  "text_flags": [],
+  "notes": "The closing 'iti' marks the end of the list and is not translated. 'teṣām' refers back to the five elements; the text does not name which mark belongs to which.",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśeṣataśca",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "specifically, in particular",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrotrādiṣviṃdriyeṣvavasthānaṃ",
+      "words": [
+       {
+        "w": "śrotra-ādiṣu",
+        "gloss": "ear; beginning with",
+        "gram": "bahuvrīhi, n. loc. pl."
+       },
+       {
+        "w": "indriyeṣu",
+        "gloss": "in the sense organs (indriya)",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "avasthānam",
+        "gloss": "abiding, residence",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śabdasparśarūparasagaṃdhairaikaikapravṛddhairanvayaḥ",
+      "words": [
+       {
+        "w": "śabda-sparśa-rūpa-rasa-gandhaiḥ",
+        "gloss": "sound; touch; form; taste; smell",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "ekaika-pravṛddhaiḥ",
+        "gloss": "one by one; increased",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "anvayaḥ",
+        "gloss": "association, connection",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विशेष रूप से श्रोत्र आदि इन्द्रियों में स्थिति, तथा एक-एक बढ़े हुए शब्द, स्पर्श, रूप, रस और गन्ध के साथ अन्वय यानी सम्बन्ध।",
+  "english": "And in particular, abiding in the sense organs (indriya) beginning with the ear (śrotra), and association with sound, touch, form, taste and smell, increased one by one.",
+  "text_flags": [
+   {
+    "src": "śabdasparśarūparasagaṃdhairaikaikapravṛddhairanvayaḥ",
+    "suggest": "śabdasparśarūparasagandhair ekaikapravṛddhair anvayaḥ",
+    "why": "possible: 'aikaika' is not a word; gandhair + ekaika is the expected sandhi, so the 'a' of 'aikaika' looks like a misprint"
+   }
+  ],
+  "notes": "The sentence is read as two items: residence in the sense organs, and association with the five sense-objects 'increased one by one'. Which object belongs to which organ is not stated here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrākāśajāni",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "ākāśa-jāni",
+        "gloss": "born of space (ākāśa)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śrotraṃ",
+      "words": [
+       {
+        "w": "śrotram",
+        "gloss": "ear (śrotra)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śabdaḥ",
+      "words": [
+       {
+        "w": "śabdaḥ",
+        "gloss": "sound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "srotāṃsi",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "channels (srotas)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viviktatā",
+      "words": [
+       {
+        "w": "viviktatā",
+        "gloss": "separateness, openness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें आकाश से उत्पन्न श्रोत्र यानी कान, शब्द, स्रोतस् यानी मार्ग और विविक्तता यानी अलगाव हैं।",
+  "english": "Among these, those born of space (ākāśa) are the ear (śrotra), sound, the channels (srotas) and separateness (viviktatā).",
+  "text_flags": [],
+  "notes": "viviktatā: 'separateness', also 'openness, emptiness'; the plainest sense is kept. srotas is a doctrinal term (a channel of the body) and is not forced into a modern equivalent.",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyavīyāni",
+      "words": [
+       {
+        "w": "vāyavīyāni",
+        "gloss": "belonging to wind (vāyu)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sparśanaṃ",
+      "words": [
+       {
+        "w": "sparśanam",
+        "gloss": "organ of touch, skin sense",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sparśaḥ",
+      "words": [
+       {
+        "w": "sparśaḥ",
+        "gloss": "touch",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśvāsocchvāsādiparispaṃdanāni",
+      "words": [
+       {
+        "w": "praśvāsa-ucchvāsa-ādi-parispandanāni",
+        "gloss": "out-breath; in-breath; beginning with; movements",
+        "gram": "dvandva + tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "lāghavaṃ",
+      "words": [
+       {
+        "w": "lāghavam",
+        "gloss": "lightness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु से सम्बन्धित हैं: स्पर्शन यानी स्पर्श की इन्द्रिय, स्पर्श, प्रश्वास और उच्छ्वास आदि के स्पन्दन, और लघुता।",
+  "english": "Those belonging to wind (vāyu) are the organ of touch (sparśana), touch (sparśa), the movements (parispandana) beginning with the two breaths (praśvāsa and ucchvāsa), and lightness (lāghava).",
+  "text_flags": [],
+  "notes": "sparśana is the touch faculty (skin) in parallel with śrotra in the previous unit; the direction of praśvāsa versus ucchvāsa (out or in) is not fixed in the translation.",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āgneyāni",
+      "words": [
+       {
+        "w": "āgneyāni",
+        "gloss": "belonging to fire (agni)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśanaṃ",
+      "words": [
+       {
+        "w": "darśanam",
+        "gloss": "sight",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpaṃ",
+      "words": [
+       {
+        "w": "rūpam",
+        "gloss": "form",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittamūṣmāpaktiḥ",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "Pitta (one of the three doṣas)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ūṣmā",
+        "gloss": "heat (ūṣman)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "paktiḥ",
+        "gloss": "digestion, cooking",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃtāpo",
+      "words": [
+       {
+        "w": "saṃtāpaḥ",
+        "gloss": "burning heat, warmth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "medhā",
+      "words": [
+       {
+        "w": "medhā",
+        "gloss": "intelligence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇo",
+      "words": [
+       {
+        "w": "varṇaḥ",
+        "gloss": "colour (varṇa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāstejaḥ",
+      "words": [
+       {
+        "w": "bhāḥ",
+        "gloss": "radiance",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tejaḥ",
+        "gloss": "brilliance, fire-energy (tejas)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śauryyaṃ",
+      "words": [
+       {
+        "w": "śauryam",
+        "gloss": "valour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि सम्बन्धी हैं: दर्शन, रूप, पित्त, ऊष्मा यानी गर्मी, पक्ति यानी पाचन, सन्ताप, मेधा, वर्ण यानी रंग, भा यानी दीप्ति, तेज और शौर्य।",
+  "english": "Those belonging to fire (agni) are sight (darśana), form (rūpa), Pitta, heat (ūṣman), digestion (pakti), burning heat (saṃtāpa), intelligence (medhā), colour (varṇa), radiance (bhā), brilliance (tejas) and valour (śaurya).",
+  "text_flags": [],
+  "notes": "Orthography (recorded once): doubled -yy-/-rmm-/-rtt- in the print (śauryyaṃ, dharmma, mūrtti) are normalised in `w`. pitta is neuter. 'ūṣmāpaktiḥ' = ūṣmā + paktiḥ (not a-pakti). varṇa: colour (it may also mean complexion). pitta is the doṣa and is not forced into a modern equivalent.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āṃbhasāni",
+      "words": [
+       {
+        "w": "āmbhasāni",
+        "gloss": "belonging to water (ambhas)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rasanaṃ",
+      "words": [
+       {
+        "w": "rasanam",
+        "gloss": "tongue, organ of taste",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasaḥsvedakledavasārasāsṛkśukramūtrādidravasamūhaḥ",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "taste",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "sveda-kleda-vasā-rasa-asṛj-śukra-mūtra-ādi-drava-samūhaḥ",
+        "gloss": "sweat; moisture; muscle-fat (vasā; probable); rasa, the nutritive fluid (first dhātu); blood (asṛj; standard); semen (śukra; standard); urine; and so on; fluid; mass",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaithilyaṃ",
+      "words": [
+       {
+        "w": "śaithilyam",
+        "gloss": "looseness, laxity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaśca",
+      "words": [
+       {
+        "w": "snehaḥ",
+        "gloss": "unctuousness (sneha)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जल सम्बन्धी हैं: रसन यानी जिह्वा, रस यानी स्वाद, पसीना, क्लेद यानी गीलापन, वसा यानी सम्भवतः मांसगत चर्बी, रस यानी पोषक द्रव, रक्त, शुक्र यानी वीर्य, मूत्र आदि द्रवों का समूह, शिथिलता और स्नेह यानी चिकनाई।",
+  "english": "Those belonging to water (ambhas) are the tongue (rasana), taste (rasa), the mass of fluids: sweat, moisture (kleda), probably muscle-fat (vasā), rasa (the nutritive fluid), blood (asṛj), semen (śukra), urine (mūtra) and so on, looseness (śaithilya) and unctuousness (sneha).",
+  "text_flags": [],
+  "notes": "The first rasa is taste; the second (inside the compound) is the rasa dhātu, the nutritive fluid (often equated with plasma or chyle: probable). vasā = muscle-fat (probable). The missing space after 'rasaḥ' is a print slip only.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārthivāni",
+      "words": [
+       {
+        "w": "pārthivāni",
+        "gloss": "belonging to earth (pṛthivī)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ghrāṇaṃ",
+      "words": [
+       {
+        "w": "ghrāṇam",
+        "gloss": "nose, organ of smell",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaṃdhaḥ",
+      "words": [
+       {
+        "w": "gandhaḥ",
+        "gloss": "smell",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "keśanakhāsthyādimūrttisamūho",
+      "words": [
+       {
+        "w": "keśa-nakha-asthi-ādi-mūrti-samūhaḥ",
+        "gloss": "hair; nails; bones; and so on; solid form; mass",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhairyyaṃ",
+      "words": [
+       {
+        "w": "dhairyam",
+        "gloss": "steadiness, firmness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gauravaṃ",
+      "words": [
+       {
+        "w": "gauravam",
+        "gloss": "heaviness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी सम्बन्धी हैं: घ्राण यानी नाक, गन्ध, केश, नख, अस्थि आदि मूर्तियों यानी ठोस रूपों का समूह, धैर्य और गुरुता।",
+  "english": "Those belonging to earth (pṛthivī) are the nose (ghrāṇa), smell (gandha), the mass of solid forms (mūrti) beginning with hair, nails and bones, steadiness (dhairya) and heaviness (gaurava).",
+  "text_flags": [],
+  "notes": "dhairya is taken as steadiness/firmness (the list is of earthy qualities); 'fortitude' is a possible alternative.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "among these",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mātṛjāni",
+      "words": [
+       {
+        "w": "mātṛ-jāni",
+        "gloss": "born of the mother",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛdūni",
+      "words": [
+       {
+        "w": "mṛdūni",
+        "gloss": "soft",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvagraktamāṃsamedomajjanābhihṛdayāmāśayagarbhāśayayakṛtplīhaklomāṃtragudādīni",
+      "words": [
+       {
+        "w": "tvac-rakta-māṃsa-medas-majja-nābhi-hṛdaya-āmāśaya-garbhāśaya-yakṛt-plīha-kloma-āntra-guda-ādīni",
+        "gloss": "skin; blood; flesh; fat; marrow (majjā); navel; heart (standard); stomach (āmāśaya; standard); uterus (garbhāśaya; standard); liver (standard); spleen (standard); kloma (identity disputed: pancreas, lung or other); intestines (standard); rectum, anus (standard); and so on",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें माता से उत्पन्न कोमल हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, मज्जा, नाभि, हृदय, आमाशय यानी पेट, गर्भाशय, यकृत यानी जिगर, प्लीहा यानी तिल्ली, क्लोम जिसकी पहचान विवादित है, आन्त्र यानी आँत, गुद यानी मलद्वार आदि।",
+  "english": "Among these, those born of the mother (mātṛja) are soft: skin, blood, flesh, fat, marrow (majjā), navel, heart (hṛdaya), stomach (āmāśaya), uterus (garbhāśaya), liver (yakṛt), spleen (plīhan), kloma (identity disputed), intestines (āntra), rectum (guda) and so on.",
+  "text_flags": [],
+  "notes": "Identifications: hṛdaya, yakṛt, plīhan, garbhāśaya, āntra, guda standard; āmāśaya = stomach, standard; kloma is disputed (the pancreas, the lungs or a pleural structure have each been proposed) and is kept as 'kloma'. The compound is read as a plain list; the members' modern names are taken from standard usage.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitṛjāni",
+      "words": [
+       {
+        "w": "pitṛ-jāni",
+        "gloss": "born of the father",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthirāṇi",
+      "words": [
+       {
+        "w": "sthirāṇi",
+        "gloss": "firm, stable",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "keśanakhāsthiśukrasirādhamanyādīni",
+      "words": [
+       {
+        "w": "keśa-nakha-asthi-śukra-sirā-dhamanī-ādīni",
+        "gloss": "hair; nails; bones; semen; sirā (vessels, probably veins); dhamanī (vessels, probably arteries); and so on",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता से उत्पन्न स्थिर हैं: केश, नख, अस्थि, शुक्र यानी वीर्य, सिरा यानी सम्भवतः शिराएँ, धमनी यानी सम्भवतः धमनियाँ आदि।",
+  "english": "Those born of the father (pitṛja) are firm: hair, nails, bones, semen (śukra), sirā (probably veins), dhamanī (probably arteries) and so on.",
+  "text_flags": [],
+  "notes": "sirā and dhamanī are tubular vessels of the body; the equivalents veins and arteries are only probable (the two terms are not used identically in every text).",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ātmajāni",
+      "words": [
+       {
+        "w": "ātma-jāni",
+        "gloss": "born of the self (ātman)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāsu",
+      "words": [
+       {
+        "w": "tāsu",
+        "gloss": "in those",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāsu",
+      "words": [
+       {
+        "w": "tāsu",
+        "gloss": "in those",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yoniṣūtpattirmanaścetaneṃdriyāṇi",
+      "words": [
+       {
+        "w": "yoniṣu",
+        "gloss": "in wombs, in birth-classes (yoni)",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "utpattiḥ",
+        "gloss": "birth, origin",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "manaḥ",
+        "gloss": "mind (manas)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "cetanā",
+        "gloss": "consciousness",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "indriyāṇi",
+        "gloss": "sense organs (indriya)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāṇāpānau",
+      "words": [
+       {
+        "w": "prāṇa-apānau",
+        "gloss": "prāṇa (vital breath); apāna (downward breath)",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dhāraṇamākṛtisvaravarṇaviśeṣāḥ",
+      "words": [
+       {
+        "w": "dhāraṇam",
+        "gloss": "sustaining, holding",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ākṛti-svara-varṇa-viśeṣāḥ",
+        "gloss": "form; voice; colour; distinctions",
+        "gram": "dvandva + tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāmakrodhalobhabhaya",
+      "words": [
+       {
+        "w": "kāma-krodha-lobha-bhaya",
+        "gloss": "desire; anger; greed; fear",
+        "gram": "dvandva (members)"
+       }
+      ]
+     },
+     {
+      "src": "harṣāḥ",
+      "words": [
+       {
+        "w": "harṣāḥ",
+        "gloss": "joy",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dharmmādharmmaśīlatāsmṛtibuddhīcchādveṣaprayatnāhaṃkārasukhaduḥkhāyurātmajñānāni",
+      "words": [
+       {
+        "w": "dharma-adharma-śīlatā-smṛti-buddhi-icchā-dveṣa-prayatna-ahaṅkāra-sukha-duḥkha-āyuḥ-ātma-jñānāni",
+        "gloss": "dharma; adharma; disposition; memory; intellect (buddhi); wish; aversion; effort; ego (ahaṅkāra); pleasure; pain; lifespan (āyus); self; knowledge",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आत्मा से उत्पन्न हैं: उन उन योनियों में जन्म, मन, चेतना, इन्द्रियाँ, प्राण और अपान, धारण, आकृति, स्वर और वर्ण की विशेषताएँ, काम, क्रोध, लोभ, भय, हर्ष, धर्म और अधर्म में प्रवृत्ति का स्वभाव, स्मृति, बुद्धि, इच्छा, द्वेष, प्रयत्न, अहंकार, सुख, दुःख, आयु और आत्मज्ञान।",
+  "english": "Those born of the self (ātman) are: birth in this and that womb (yoni), mind (manas), consciousness (cetanā), the sense organs (indriya), prāṇa and apāna, sustaining (dhāraṇa), the distinctions of form, voice and colour, desire (kāma), anger, greed, fear, joy, the disposition towards dharma and adharma, memory, intellect (buddhi), wish (icchā), aversion, effort, ego (ahaṅkāra), pleasure, pain, lifespan (āyus) and knowledge of the self (ātmajñāna).",
+  "text_flags": [
+   {
+    "src": "bhaya harṣāḥ",
+    "suggest": "bhayaharṣāḥ",
+    "why": "possible: a stray space inside the dvandva; the sense is unchanged either way"
+   }
+  ],
+  "notes": "The last compound is read as one dvandva ending in -jñānāni; 'ātmajñāna' may alternatively be two items (ātman and jñānāni, 'knowledges'). dharmādharma-śīlatā = habitual disposition towards dharma and adharma. prāṇa and apāna are kept as Sanskrit terms (the two vital breaths).",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sātmyajānyāyurāyogyamanālasyamalolupatvamiṃdriyaprasādasvaravarṇabījaujaḥ",
+      "words": [
+       {
+        "w": "sātmya-jāni",
+        "gloss": "born of compatibility (sātmya)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "lifespan (āyus)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ārogyam",
+        "gloss": "health, freedom from disease",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anālasyam",
+        "gloss": "absence of laziness",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "alolupatvam",
+        "gloss": "absence of greed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "indriya-prasāda-svara-varṇa-bīja-ojaḥ",
+        "gloss": "sense organ; clarity; voice; colour; seed (bīja); vital essence (ojas)",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpadyaśastanatāḥ",
+      "words": [
+       {
+        "w": "saṃpadyaśastanatāḥ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "praharṣabhūyastvaṃmedhā",
+      "words": [
+       {
+        "w": "praharṣa-bhūyastvam",
+        "gloss": "joy; abundance",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "medhā",
+        "gloss": "intelligence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balaṃ",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सात्म्य यानी अनुकूलता से उत्पन्न हैं: आयु, आरोग्य, आलस्य का अभाव, लोभ का अभाव, इन्द्रियों की स्वच्छता, स्वर, वर्ण, बीज और ओज, एक अस्पष्ट शब्द संपद्यशस्तनताः, हर्ष की अधिकता, मेधा और बल।",
+  "english": "Those born of compatibility (sātmya) are: lifespan (āyus), health (ārogya), absence of laziness, absence of greed, clarity of the sense organs, voice, colour, seed (bīja) and vital essence (ojas), an unclear word (printed saṃpadyaśastanatāḥ), abundance of joy, intelligence (medhā) and strength (bala).",
+  "text_flags": [
+   {
+    "src": "sātmyajānyāyurāyogyam",
+    "suggest": "sātmyajāny āyurārogyam",
+    "why": "near certain: 'āyogya' (unfitness) contradicts the list of good results; ārogya (health) fits and ro -> yo is a plausible misprint"
+   },
+   {
+    "src": "saṃpadyaśastanatāḥ",
+    "suggest": "saṃpat praśastatanutāḥ (?)",
+    "why": "possible only, and unreliable: the word is garbled; 'saṃpad' (excellence) may be present, but no reading is adopted"
+   }
+  ],
+  "notes": "Damaged word: saṃpadyaśastanatāḥ is kept unsplit and untranslated (no reading is adopted). sātmya = what is habitually suited or compatible. 'bījaujaḥ' is read as bīja + ojas (two items); 'ojas of the seed' is a possible alternative. 'indriya-prasāda' = clarity of the sense organs.",
+  "confidence": "low"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasajāni",
+      "words": [
+       {
+        "w": "rasa-jāni",
+        "gloss": "born of rasa (the nutritive fluid)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛtstrasya",
+      "words": [
+       {
+        "w": "kṛtsnasya",
+        "gloss": "of the whole",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehasya",
+      "words": [
+       {
+        "w": "dehasya",
+        "gloss": "of the body",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhavo",
+      "words": [
+       {
+        "w": "saṃbhavaḥ",
+        "gloss": "coming into being, origin",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛttirvṛddhistṛptiraulyaṃ",
+      "words": [
+       {
+        "w": "vṛttiḥ",
+        "gloss": "maintenance, functioning",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vṛddhiḥ",
+        "gloss": "growth",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "tṛptiḥ",
+        "gloss": "satisfaction",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aulyam",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "puṣṭirutsāhaśca",
+      "words": [
+       {
+        "w": "puṣṭiḥ",
+        "gloss": "nourishment",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "utsāhaḥ",
+        "gloss": "vigour",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रस यानी पोषक द्रव से उत्पन्न हैं, सम्पूर्ण शरीर के: उत्पत्ति, वृत्ति, वृद्धि, तृप्ति, एक अस्पष्ट शब्द औल्यं, पुष्टि और उत्साह।",
+  "english": "Those born of rasa (the nutritive fluid) are, of the whole body: its coming into being, maintenance (vṛtti), growth, satisfaction (tṛpti), an unclear word (printed aulyaṃ), nourishment (puṣṭi) and vigour (utsāha).",
+  "text_flags": [
+   {
+    "src": "kṛtstrasya",
+    "suggest": "kṛtsnasya",
+    "why": "near certain: kṛtstra is not a word; kṛtsna (whole) is meant and 'tstr' is a misprint of 'tsn'"
+   },
+   {
+    "src": "tṛptiraulyaṃ",
+    "suggest": "tṛptir aujjvalyaṃ (?)",
+    "why": "possible only: the word 'aulya' is unknown; aujjvalya (brilliance) is one conjecture, with dropped letters, and is not adopted"
+   }
+  ],
+  "notes": "Damaged word: 'aulyam' is kept and left untranslated. The genitive 'of the whole body' is taken with all the items of the list. rasa here is the nutritive fluid (the first dhātu).",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuddhasatvajāni",
+      "words": [
+       {
+        "w": "śuddha-sattva-jāni",
+        "gloss": "pure; sattva; born of",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaucamāstikatvaṃ",
+      "words": [
+       {
+        "w": "śaucam",
+        "gloss": "purity",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āstikatvam",
+        "gloss": "belief, faith (being an āstika)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtajñatā",
+      "words": [
+       {
+        "w": "kṛtajñatā",
+        "gloss": "gratitude",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dākṣiṇyaṃ",
+      "words": [
+       {
+        "w": "dākṣiṇyam",
+        "gloss": "courtesy, kindliness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavasāyaḥ",
+      "words": [
+       {
+        "w": "vyavasāyaḥ",
+        "gloss": "resolve, determination",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śauryyaṃ",
+      "words": [
+       {
+        "w": "śauryam",
+        "gloss": "valour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gāṃbhīryyaṃ",
+      "words": [
+       {
+        "w": "gāmbhīryam",
+        "gloss": "depth, gravity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "buddhirmedhā",
+      "words": [
+       {
+        "w": "buddhiḥ",
+        "gloss": "intellect (buddhi)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "medhā",
+        "gloss": "intelligence",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtiḥ",
+      "words": [
+       {
+        "w": "smṛtiḥ",
+        "gloss": "memory",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukladharmharūcirbhaktiranabhiṣvaṃgastamoguṇaviparyyayaśca",
+      "words": [
+       {
+        "w": "śukla-dharma-ruciḥ",
+        "gloss": "bright, pure; dharma; liking",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "bhaktiḥ",
+        "gloss": "devotion",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "anabhiṣvaṅgaḥ",
+        "gloss": "non-attachment",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tamas-guṇa-viparyayaḥ",
+        "gloss": "tamas; guṇa; reversal, contrary",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शुद्ध सत्त्व से उत्पन्न हैं: शौच, आस्तिकता, कृतज्ञता, दाक्षिण्य, व्यवसाय यानी निश्चय, शौर्य, गाम्भीर्य, बुद्धि, मेधा, स्मृति, शुक्ल धर्म में रुचि, भक्ति, अनासक्ति और तमोगुण का विपर्यय यानी उलटा।",
+  "english": "Those born of pure sattva are: purity (śauca), belief (āstikatva), gratitude, courtesy, resolve, valour, depth, intellect (buddhi), intelligence (medhā), memory, liking for bright dharma (śukla-dharma), devotion (bhakti), non-attachment, and the contrary of the guṇa tamas.",
+  "text_flags": [
+   {
+    "src": "śukladharmharūciḥ",
+    "suggest": "śukladharmaruciḥ",
+    "why": "near certain: 'ruci' (liking) is meant; the stray 'ha' and the long ū are misprints"
+   }
+  ],
+  "notes": "śukla-dharma = 'bright' or 'pure' dharma. āstikatva = belief (that there is an afterlife / in the sacred tradition); the plain sense 'belief' is kept. viparyaya = reversal, contrary: 'the contrary of the guṇa tamas'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rājasāni",
+      "words": [
+       {
+        "w": "rājasāni",
+        "gloss": "belonging to rajas (rājasa)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "durupaghāratāśauryyaṃ",
+      "words": [
+       {
+        "w": "durupaghāratāśauryyaṃ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "mātsaryyamamitabhāṣitvamahaṃkāro",
+      "words": [
+       {
+        "w": "mātsaryam",
+        "gloss": "envy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "amita-bhāṣitvam",
+        "gloss": "unmeasured; talkativeness",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "ahaṅkāraḥ",
+        "gloss": "egoism (ahaṅkāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lolupatvaṃ",
+      "words": [
+       {
+        "w": "lolupatvam",
+        "gloss": "greed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṃbho",
+      "words": [
+       {
+        "w": "dambhaḥ",
+        "gloss": "hypocrisy, pretension",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānaḥ",
+      "words": [
+       {
+        "w": "mānaḥ",
+        "gloss": "pride",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "krodhāharṣaḥ",
+      "words": [
+       {
+        "w": "krodha-aharṣaḥ",
+        "gloss": "anger; joylessness, absence of joy (as printed)",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāmaśca",
+      "words": [
+       {
+        "w": "kāmaḥ",
+        "gloss": "desire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रजस् सम्बन्धी हैं: एक अस्पष्ट शब्द दुरुपघारताशौर्यं, मात्सर्य, अमित भाषण, अहंकार, लोभ, दम्भ, मान, क्रोध और हर्ष का अभाव, और काम।",
+  "english": "Those belonging to rajas (rājasa) are: an unclear word (printed durupaghāratāśauryyaṃ), envy (mātsarya), unmeasured talkativeness, egoism (ahaṅkāra), greed, hypocrisy (dambha), pride (māna), anger and joylessness (krodha, aharṣa, as printed) and desire (kāma).",
+  "text_flags": [
+   {
+    "src": "durupaghāratāśauryyaṃ",
+    "suggest": "durupaghātatā-aśauryam (?)",
+    "why": "possible only, very uncertain: 'durupaghāra' is not a known word; no reading is adopted"
+   },
+   {
+    "src": "krodhāharṣaḥ",
+    "suggest": "krodhaharṣaḥ",
+    "why": "possible: the long ā is unexplained unless a-harṣa ('absence of joy') is meant; harṣa ('excitement') would also suit a rājasa list; the printed parse is kept"
+   }
+  ],
+  "notes": "Damaged word: durupaghāratāśauryyaṃ is kept unsplit and untranslated; an a-/śaurya split is not adopted. 'krodhāharṣaḥ' is parsed as printed (krodha + aharṣa) but may stand for krodha + harṣa. Envy (mātsarya) also occurs in the next unit's tamas list.",
+  "confidence": "low"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāmasānyajñānaṃ",
+      "words": [
+       {
+        "w": "tāmasāni",
+        "gloss": "belonging to tamas (tāmasa)",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ajñānam",
+        "gloss": "ignorance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣādaḥ",
+      "words": [
+       {
+        "w": "viṣādaḥ",
+        "gloss": "dejection",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramādo",
+      "words": [
+       {
+        "w": "pramādaḥ",
+        "gloss": "heedlessness, negligence",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidrā''lasyaṃ",
+      "words": [
+       {
+        "w": "nidrā",
+        "gloss": "sleep",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ālasyam",
+        "gloss": "laziness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣuttṛṣṇā",
+      "words": [
+       {
+        "w": "kṣut-tṛṣṇā",
+        "gloss": "hunger; thirst",
+        "gram": "dvandva, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoko",
+      "words": [
+       {
+        "w": "śokaḥ",
+        "gloss": "grief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātsaryyaṃ",
+      "words": [
+       {
+        "w": "mātsaryam",
+        "gloss": "envy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipratipattiḥ",
+      "words": [
+       {
+        "w": "vipratipattiḥ",
+        "gloss": "wrong notion, perplexity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parābhisaṃdhānaṃ",
+      "words": [
+       {
+        "w": "para-abhisandhānam",
+        "gloss": "others; scheming, plotting",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satvaguṇavaiparītyaṃca",
+      "words": [
+       {
+        "w": "sattva-guṇa-vaiparītyam",
+        "gloss": "sattva; guṇa; contrariness",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तमस् सम्बन्धी हैं: अज्ञान, विषाद, प्रमाद, निद्रा, आलस्य, भूख और प्यास, शोक, मात्सर्य, विप्रतिपत्ति यानी विपरीत धारणा, दूसरों के विरुद्ध षड्यन्त्र, और सत्त्व गुण का विपरीत भाव।",
+  "english": "Those belonging to tamas (tāmasa) are: ignorance, dejection (viṣāda), heedlessness (pramāda), sleep, laziness, hunger and thirst, grief, envy (mātsarya), a wrong notion (vipratipatti), scheming against others and the contrary of the guṇa sattva.",
+  "text_flags": [],
+  "notes": "Orthography: the double avagraha printed in nidrā''lasyaṃ is a print habit (ā + ā gives ā); no flag. vipratipatti: 'wrong notion'; 'perplexity' or 'contrary conduct' are alternatives. abhisandhāna: 'scheming' (it can also mean deceiving). 'kṣuttṛṣṇā' is read as a pair, hunger and thirst.",
+  "confidence": "high"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "satvaṃ",
+      "words": [
+       {
+        "w": "sattvam",
+        "gloss": "sattva",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manaḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind (manas)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें सत्त्व मन है।",
+  "english": "Among these, sattva is the mind (manas).",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyopaplavo",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "upaplavaḥ",
+        "gloss": "disturbance, affliction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rajastamaśceti",
+      "words": [
+       {
+        "w": "rajas",
+        "gloss": "rajas",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tamas",
+        "gloss": "tamas",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका उपप्लव यानी उपद्रव रजस् और तमस् है।",
+  "english": "Its disturbance (upaplava) is rajas and tamas.",
+  "text_flags": [],
+  "notes": "The closing 'iti' marks the end of the statement and is not translated. 'tasya' refers to sattva / the mind of unit 27. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūtātmakaṃ",
+      "words": [
+       {
+        "w": "bhūta-ātmakam",
+        "gloss": "element; having as its nature, consisting of",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehamāhuḥ",
+      "words": [
+       {
+        "w": "deham",
+        "gloss": "body",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say, they call",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार वे देह को भूतात्मक यानी भूतों से बना हुआ कहते हैं।",
+  "english": "Thus they call the body consisting of the elements (bhūtātmaka).",
+  "text_flags": [],
+  "notes": "'they' is unspecified in the text. bhūta here again means the elements (see unit 5).",
+  "confidence": "high"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravibhāgaḥ",
+      "words": [
+       {
+        "w": "pravibhāgaḥ",
+        "gloss": "division, classification",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर उसका प्रविभाग।",
+  "english": "Again, its division (pravibhāga).",
+  "text_flags": [],
+  "notes": "Fragment without a verb (elliptical). GROUPING: this unit appears to continue into unit 31, which gives the list of the division. 'tasya' refers to the body (deha) of unit 29.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvacaḥ",
+      "words": [
+       {
+        "w": "tvacaḥ",
+        "gloss": "skins (tvac)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalā",
+      "words": [
+       {
+        "w": "kalā",
+        "gloss": "membranes (kalā; probable)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣā",
+      "words": [
+       {
+        "w": "doṣā",
+        "gloss": "doṣas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhātavo",
+      "words": [
+       {
+        "w": "dhātavaḥ",
+        "gloss": "dhātus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "malā",
+      "words": [
+       {
+        "w": "malā",
+        "gloss": "malas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "buddhīṃdriyāṇi",
+      "words": [
+       {
+        "w": "buddhi-indriyāṇi",
+        "gloss": "knowledge; sense organs (indriya)",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tadadhiṣṭhānāni",
+      "words": [
+       {
+        "w": "tat-adhiṣṭhānāni",
+        "gloss": "their seats",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "karmendriyaṇyatīṃdriyamāśayāḥprāṇāyatanāni",
+      "words": [
+       {
+        "w": "karmendriyāṇi",
+        "gloss": "organs of action (karmendriya)",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "atīndriyam",
+        "gloss": "beyond the senses, supra-sensory",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āśayāḥ",
+        "gloss": "receptacles, seats (āśaya)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "prāṇa-āyatanāni",
+        "gloss": "life-breath (prāṇa); abodes",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṃḍarā",
+      "words": [
+       {
+        "w": "kaṇḍarā",
+        "gloss": "tendons (kaṇḍarā; probable)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jālāni",
+      "words": [
+       {
+        "w": "jālāni",
+        "gloss": "nets, net-like structures (jāla)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kūrccā",
+      "words": [
+       {
+        "w": "kūrcāḥ",
+        "gloss": "bundles (kūrca)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rajjukasīvanyo'sthisaṃghātāḥsīmaṃtā",
+      "words": [
+       {
+        "w": "rajjuka-sīvanyaḥ",
+        "gloss": "cord-like structures; sutures (sīvanī)",
+        "gram": "dvandva, f. nom. pl."
+       },
+       {
+        "w": "asthi-saṃghātāḥ",
+        "gloss": "bone; groupings",
+        "gram": "tat-puruṣa, m. nom. pl."
+       },
+       {
+        "w": "sīmantāḥ",
+        "gloss": "sutures (sīmanta; probable)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "asthīnyasthisaṃdhayaḥ",
+      "words": [
+       {
+        "w": "asthīni",
+        "gloss": "bones",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "asthi-saṃdhayaḥ",
+        "gloss": "bone; joints",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snāyūni",
+      "words": [
+       {
+        "w": "snāyūni",
+        "gloss": "sinews (snāyu; probably ligaments)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "peśyaḥ",
+      "words": [
+       {
+        "w": "peśyaḥ",
+        "gloss": "muscles (peśī; standard)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sirā",
+      "words": [
+       {
+        "w": "sirāḥ",
+        "gloss": "sirā (vessels, probably veins)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhamanyaḥ",
+      "words": [
+       {
+        "w": "dhamanyaḥ",
+        "gloss": "dhamanī (vessels, probably arteries)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "srotāṃsyahyūṣmāṇo",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "channels (srotas)",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "agnayaḥ",
+        "gloss": "digestive fires (agni), on a conjectural reading",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ūṣmāṇaḥ",
+        "gloss": "heats (ūṣman)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "marmāṇi",
+      "words": [
+       {
+        "w": "marmāṇi",
+        "gloss": "vital spots (marma)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "keśāśmaśrulomāni",
+      "words": [
+       {
+        "w": "keśāḥ",
+        "gloss": "hair of the head",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "śmaśru-lomāni",
+        "gloss": "beard; body hair",
+        "gram": "dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtivikṛtibhedāśca",
+      "words": [
+       {
+        "w": "prakṛti-vikṛti-bhedāḥ",
+        "gloss": "natural state (prakṛti); deviation (vikṛti); divisions",
+        "gram": "tat-puruṣa, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्वचाएँ, कलाएँ यानी सम्भवतः झिल्लियाँ, दोष, धातु, मल, बुद्धीन्द्रियाँ यानी ज्ञान की इन्द्रियाँ और उनके अधिष्ठान, कर्मेन्द्रियाँ, अतीन्द्रिय, आशय, प्राणायतन, कण्डराएँ यानी सम्भवतः टेंडन, जाल, कूर्च, रज्जुक और सीवनियाँ, अस्थिसंघात, सीमन्त, अस्थियाँ, अस्थिसन्धियाँ, स्नायु यानी सम्भवतः स्नायुबन्ध, पेशियाँ यानी मांसपेशियाँ, सिरा यानी सम्भवतः शिराएँ, धमनी यानी सम्भवतः धमनियाँ, स्रोतस् यानी मार्ग, अनुमानित पाठ पर अग्नि और ऊष्माएँ, मर्म यानी प्राण के विशेष स्थान, केश, दाढ़ी-मूँछ और रोम, तथा प्रकृति और विकृति के भेद।",
+  "english": "The skins (tvac), membranes (kalā, probably), doṣas, dhātus, malas, the sense organs of knowledge (buddhīndriya) and their seats, the organs of action (karmendriya), the supra-sensory (atīndriya), the receptacles (āśaya), the abodes of the life-breath (prāṇa), tendons (kaṇḍarā, probably), nets (jāla), bundles (kūrca), cords and sutures (rajjuka, sīvanī), the bone-groupings (asthisaṃghāta), sutures (sīmanta), bones, bone-joints, sinews (snāyu, probably ligaments), muscles (peśī), sirā (probably veins), dhamanī (probably arteries), channels (srotas), on a conjectural reading the digestive fires (agni) and heats (ūṣman), vital spots (marma), hair of the head, beard and body hair, and the divisions of natural state (prakṛti) and deviation (vikṛti).",
+  "text_flags": [
+   {
+    "src": "karmendriyaṇyatīṃdriyamāśayāḥprāṇāyatanāni",
+    "suggest": "karmendriyāṇy atīndriyam āśayāḥ prāṇāyatanāni",
+    "why": "near certain: karmendriyaṇi lacks the long ā (karmendriyāṇi)"
+   },
+   {
+    "src": "srotāṃsyahyūṣmāṇo",
+    "suggest": "srotāṃsy agnyūṣmāṇo",
+    "why": "possible: 'ahyūṣmāṇaḥ' gives no sense; agnayaḥ + ūṣmāṇaḥ (digestive fires, heats) fits a list of body items and gn -> h is a plausible misreading; the conjecture is marked in the translations"
+   }
+  ],
+  "notes": "This is a bare list of items of the division. Doctrinal terms (doṣa, dhātu, mala, srotas, marma, prakṛti) are kept without a forced modern equivalent. Identifications: peśī muscle (standard); kalā membrane, kaṇḍarā tendon, snāyu ligament, sirā vein, dhamanī artery, sīmanta suture (probable; the anatomical terms are not used identically in every text); kūrca and jāla have no sure modern equivalent. atīndriya ('beyond the senses') probably stands for the mind (manas) but the unit does not say so. 'rajjuka-sīvanyaḥ' is read as a pair 'cords, sutures'; the form rajjuka (rather than rajjavaḥ) is uncertain. 'keśāśmaśru-' is read keśāḥ + śmaśru (the double ś of keśāś śmaśru reduced in print). 'asthīnyasthisaṃdhayaḥ' = asthīni + asthisaṃdhayaḥ. Missing spaces in the print (āśayāḥprāṇā-, saṃghātāḥsīmantā) are spacing only.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāsṛjaḥ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "asṛjaḥ",
+        "gloss": "of blood (asṛj)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pacyamānasya",
+      "words": [
+       {
+        "w": "pacyamānasya",
+        "gloss": "being cooked, being heated",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrasyeva",
+      "words": [
+       {
+        "w": "kṣīrasya",
+        "gloss": "of milk",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃtānikāḥ",
+      "words": [
+       {
+        "w": "saṃtānikāḥ",
+        "gloss": "films, creamy layers (santānikā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaco",
+      "words": [
+       {
+        "w": "tvacaḥ",
+        "gloss": "skins (tvac)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "there are, come into being",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें पकते हुए रक्त की छः त्वचाएँ होती हैं, पकते हुए दूध की सन्तानिकाओं यानी मलाई की परतों की तरह।",
+  "english": "Among these, there come into being six skins (tvac) from blood (asṛj) being cooked, like the films (santānikā) of milk.",
+  "text_flags": [],
+  "notes": "Syntax: 'asṛjaḥ pacyamānasya' may be a genitive ('of the blood being cooked') or an ablative ('from the blood'); 'from' is chosen. The comparison with milk is stated: the skins are like the creamy films of milk being boiled (kṣīrasya is read with pacyamāna by sense).",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvakprasādādraktasya",
+      "words": [
+       {
+        "w": "tvak-prasādāt",
+        "gloss": "skin; clarity",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasādaḥ",
+      "words": [
+       {
+        "w": "raktasya",
+        "gloss": "of blood",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "prasādaḥ",
+        "gloss": "clarity, purity",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्वचा की निर्मलता से रक्त की निर्मलता।",
+  "english": "From the clarity (prasāda) of the skin, the clarity of the blood.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb. The ablative is read as expressing the dependence of the blood's clarity on that of the skin; the unit does not say more. prasāda may also be 'essence'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāsāmudakadharā",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "udaka-dharā",
+        "gloss": "water; bearing, holding",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cādyā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādyā",
+        "gloss": "first",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उनमें पहली उदकधरा यानी जल धारण करने वाली है।",
+  "english": "And of these, the first is udakadharā ('water-bearing').",
+  "text_flags": [],
+  "notes": "The six (or seven) skins are meant by 'these'. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvitīyā'sṛgdharā",
+      "words": [
+       {
+        "w": "dvitīyā",
+        "gloss": "second",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asṛg-dharā",
+        "gloss": "blood; bearing",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरी असृग्धरा यानी रक्त धारण करने वाली है।",
+  "english": "The second is asṛgdharā ('blood-bearing').",
+  "text_flags": [],
+  "notes": "The avagraha printed after -ā (dvitīyā'sṛgdharā) is a print habit (ā + a gives ā); no flag. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛtīyāsidhmakilāsādhiṣṭhānā",
+      "words": [
+       {
+        "w": "tṛtīyā",
+        "gloss": "third",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "sidhma-kilāsa-adhiṣṭhānā",
+        "gloss": "sidhma (probably a patchy skin disease, pityriasis versicolor; disputed); kilāsa (probably vitiligo); seat",
+        "gram": "dvandva + bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीसरी सिध्म यानी सम्भवतः छीप, पहचान विवादित, और किलास यानी सम्भवतः सफेद दाग का अधिष्ठान है।",
+  "english": "The third is the seat of sidhma (a patchy skin disease, probably pityriasis versicolor; identity disputed) and kilāsa (probably vitiligo).",
+  "text_flags": [],
+  "notes": "Identification tags: sidhma disputed; kilāsa probable. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturthī",
+      "words": [
+       {
+        "w": "caturthī",
+        "gloss": "fourth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvakuṣṭhādhiṣṭhānā",
+      "words": [
+       {
+        "w": "sarva-kuṣṭha-adhiṣṭhānā",
+        "gloss": "all; kuṣṭha (the group of chronic skin diseases including leprosy; standard); seat",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चौथी सभी कुष्ठों का अधिष्ठान है; कुष्ठ यानी कोढ़ आदि त्वचा के रोग।",
+  "english": "The fourth is the seat of all kuṣṭha (the group of chronic skin diseases, which includes leprosy).",
+  "text_flags": [],
+  "notes": "kuṣṭha: standard identification as the group of chronic skin diseases (leprosy among them). Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṃcamī",
+      "words": [
+       {
+        "w": "pañcamī",
+        "gloss": "fifth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaraljīvidradhyadhiṣṭhānā",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again, further",
+        "gram": "ind."
+       },
+       {
+        "w": "alajī-vidradhi-adhiṣṭhānā",
+        "gloss": "alajī (a skin eruption; identity uncertain); vidradhi (abscess; standard); seat",
+        "gram": "dvandva + bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाँचवीं फिर अलजी और विद्रधि यानी फोड़े का अधिष्ठान है; अलजी एक त्वचा-विस्फोट है जिसकी पहचान अनिश्चित है।",
+  "english": "The fifth, again, is the seat of alajī (a skin eruption; identity uncertain) and vidradhi (abscess).",
+  "text_flags": [
+   {
+    "src": "punaraljīvidradhyadhiṣṭhānā",
+    "suggest": "punar alajīvidradhyadhiṣṭhānā",
+    "why": "near certain: 'aljī' lacks the vowel a; the disease name is alajī"
+   }
+  ],
+  "notes": "alajī is a skin disease named in the lists of small diseases; its identity is uncertain (disputed). vidradhi = abscess (standard). Copula understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣaṣṭhī",
+      "words": [
+       {
+        "w": "ṣaṣṭhī",
+        "gloss": "sixth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāṇadharā",
+      "words": [
+       {
+        "w": "prāṇa-dharā",
+        "gloss": "life-breath (prāṇa); bearing",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छठी तो प्राणधरा यानी प्राण धारण करने वाली है।",
+  "english": "The sixth, however, is prāṇadharā ('life-bearing').",
+  "text_flags": [],
+  "notes": "Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāṃ",
+      "words": [
+       {
+        "w": "yasyām",
+        "gloss": "in which",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chinnāyāṃ",
+      "words": [
+       {
+        "w": "chinnāyām",
+        "gloss": "when cut",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāmyatyaṃdhamivaca",
+      "words": [
+       {
+        "w": "tāmyati",
+        "gloss": "one faints, is distressed",
+        "gram": "3 sg. pres. √tam"
+       },
+       {
+        "w": "andham",
+        "gloss": "blind",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as it were",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tamaḥ",
+      "words": [
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praviśati",
+      "words": [
+       {
+        "w": "praviśati",
+        "gloss": "enters",
+        "gram": "3 sg. pres. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "yāṃ",
+      "words": [
+       {
+        "w": "yām",
+        "gloss": "on which",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cādhiṣṭhāyārūṃṣi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "adhiṣṭhāya",
+        "gloss": "resting on, based on",
+        "gram": "abs. adhi-√sthā"
+       },
+       {
+        "w": "arūṃṣi",
+        "gloss": "sores, wounds (arus)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāyaṃte",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "arise",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "at the joints, in the knots",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇaraktāni",
+      "words": [
+       {
+        "w": "kṛṣṇa-raktāni",
+        "gloss": "black; red",
+        "gram": "dvandva or karmadhāraya, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthūlamūlāni",
+      "words": [
+       {
+        "w": "sthūla-mūlāni",
+        "gloss": "thick; root",
+        "gram": "bahuvrīhi, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "duścikitsyatamāni",
+      "words": [
+       {
+        "w": "duścikitsya-tamāni",
+        "gloss": "hard to treat; most",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके कट जाने पर वह मूर्छित सा हो जाता है और मानो अन्धे अन्धकार में प्रवेश करता है, और जिसके आश्रय पर जोड़ों में काले-लाल, मोटी जड़ वाले, अत्यन्त कठिनाई से चिकित्सा योग्य अरुस् यानी घाव उत्पन्न होते हैं।",
+  "english": "When it is cut, one faints and, as it were, enters blinding darkness; and resting on it, sores (arus) arise at the joints, black-red, thick-rooted and most difficult to treat.",
+  "text_flags": [],
+  "notes": "'one' (the person) is unstated; tāmyati = is distressed, faints. arūṃṣi = sores (arus); the unit gives no modern disease name for them. kṛṣṇa-rakta: 'black-red' (it may be read 'black and red'). Both relative clauses refer to the sixth skin of unit 39. The word 'ca' after iva belongs with 'tamaḥ praviśati'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaco",
+      "words": [
+       {
+        "w": "tvacaḥ",
+        "gloss": "skins (tvac)",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vadaṃti",
+      "words": [
+       {
+        "w": "vadanti",
+        "gloss": "they say",
+        "gram": "3 pl. pres. √vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे लोग तो सात त्वचाएँ कहते हैं।",
+  "english": "Others, however, speak of seven skins (tvac).",
+  "text_flags": [],
+  "notes": "'Others' are unnamed.",
+  "confidence": "high"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatraprathamā",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "prathamā",
+        "gloss": "first",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāsinī",
+      "words": [
+       {
+        "w": "bhāsinī",
+        "gloss": "Bhāsinī ('shining')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇānāmavabhāsinī",
+      "words": [
+       {
+        "w": "varṇānām",
+        "gloss": "of colours",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "avabhāsinī",
+        "gloss": "making manifest, illuminating",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "khādīnāṃ",
+      "words": [
+       {
+        "w": "kha-ādīnām",
+        "gloss": "space (kha); beginning with",
+        "gram": "bahuvrīhi, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paṃcānāṃchāyānāṃ",
+      "words": [
+       {
+        "w": "pañcānām",
+        "gloss": "five",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "chāyānām",
+        "gloss": "shadows, reflections (chāyā)",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she, that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vrīheraṣṭādaśabhāgapramāṇā",
+      "words": [
+       {
+        "w": "vrīheḥ",
+        "gloss": "of the vrīhi (paddy, rice grain, Oryza sativa; standard)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aṣṭādaśa-bhāga-pramāṇā",
+        "gloss": "eighteen; part; measure",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें पहली भासिनी नामक है, जो वर्णों को और ख यानी आकाश आदि पाँच छायाओं को प्रकट करने वाली है; वह व्रीहि यानी धान के अठारहवें भाग के प्रमाण की है।",
+  "english": "Among these, the first is named Bhāsinī, which makes manifest the colours (varṇa) and the five shadows (chāyā) beginning with space (kha); it is of the measure of an eighteenth part of a vrīhi (rice grain).",
+  "text_flags": [],
+  "notes": "vrīhi = paddy rice grain (Oryza sativa, standard). chāyā: shadow, reflection (also lustre); 'shadows' is the plainest literal sense. 'avabhāsinī' = making manifest or shining on. Missing space in the print (paṃcānāṃchāyānāṃ) is spacing only. Copula understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvitīyā",
+      "words": [
+       {
+        "w": "dvitīyā",
+        "gloss": "second",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lohinī",
+      "words": [
+       {
+        "w": "lohinī",
+        "gloss": "Lohinī ('red')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍaśabhāgapramāṇā",
+      "words": [
+       {
+        "w": "ṣoḍaśa-bhāga-pramāṇā",
+        "gloss": "sixteen; part; measure",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरी लोहिनी नामक है, सोलहवें भाग के प्रमाण की।",
+  "english": "The second is named Lohinī, of the measure of a sixteenth part.",
+  "text_flags": [],
+  "notes": "Elliptical: '(of a vrīhi)' is carried from unit 42 and is not supplied; the copula is understood.",
+  "confidence": "high"
+ }
+]

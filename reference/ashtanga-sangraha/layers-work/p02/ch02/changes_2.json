@@ -1,0 +1,301 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जिस स्त्री की दौर्हृद यानी गर्भावस्था की तीव्र इच्छा पूरी कर दी गई हो, वह वीर्यवान् यानी शक्तिशाली और दीर्घ आयु वाले पुत्र को जन्म देती है।",
+  "new": "जिस स्त्री की दौर्हृद यानी गर्भावस्था की इच्छा पूरी कर दी गई हो, वह वीर्यवान् यानी शक्तिशाली और दीर्घ आयु वाले पुत्र को जन्म देती है।",
+  "why": "reviewer (minor): Hindi adds 'तीव्र' (intense) to the longing; the Sanskrit has only daurhṛda."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "In the fourth, the division into limbs and minor limbs is manifest, and the embryo (garbha) becomes stable.",
+  "new": "In the fourth, on a conjectural reading, the division into limbs and minor limbs is manifest, and the embryo (garbha) becomes stable.",
+  "why": "reviewer (error): Both text_flags (pratyaṅga, pravyakta) are conjectures adopted in the words and the translation, but the translation is not marked (GLOSSARY: a conjectural reading adopted in a translation must be marked there)."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "चौथे में अङ्ग और प्रत्यङ्ग का विभाग प्रकट हो जाता है और गर्भ स्थिर हो जाता है।",
+  "new": "चौथे में, अनुमानित पाठ पर, अङ्ग और प्रत्यङ्ग का विभाग प्रकट हो जाता है और गर्भ स्थिर हो जाता है।",
+  "why": "reviewer (error): Both text_flags (pratyaṅga, pravyakta) are conjectures adopted in the words and the translation, but the translation is not marked (GLOSSARY: a conjectural reading adopted in a translation must be marked there)."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "आठवें में गर्भ माता से और माता गर्भ से, रस को ले जाने वाली वाहिनियों के द्वारा, बार-बार एक-दूसरे से ओज ग्रहण करते हैं।",
+  "new": "आठवें में गर्भ माता से और माता गर्भ से, रस यानी पोषक द्रव को ले जाने वाली वाहिनियों के द्वारा, बार-बार एक-दूसरे से ओज यानी जीवन-सार ग्रहण करते हैं।",
+  "why": "reviewer (minor): Doctrinal terms rasa and ojas stand bare in Hindi although the English glosses them (brief: doctrinal terms kept with plain glosses)."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "Dependent ablative phrase giving the reason for unit 46; a single token with the avagraha 'ojaso'navasthitatvāt'. ojas = vital essence (no modern equivalent forced).",
+  "new": "Dependent ablative phrase which appears to give the reason for unit 46; a single token with the avagraha 'ojaso'navasthitatvāt'. ojas = vital essence (no modern equivalent forced).",
+  "why": "reviewer (minor): Stated as fact; the glossary asks for 'appears to' wording where a unit's link to its neighbour is only inferred."
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "For thus, in this one who is eager to come out, experiencing turning round and the like, this is the separation from ojas (the vital essence).",
+  "new": "For thus, in this one who is on the point of coming out, experiencing turning round and the like, this is the separation from ojas (the vital essence).",
+  "why": "reviewer (minor): unmukha = turned toward, on the point of; 'eager' adds a feeling the Sanskrit does not state."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "niṣkramaṇa-unmukhasya",
+  "old": "eager to come out, directed toward coming out",
+  "new": "directed toward coming out, on the point of coming out",
+  "why": "reviewer (minor): unmukha = turned toward, on the point of; 'eager' adds a feeling the Sanskrit does not state."
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "Hard line; read with confidence only in outline. 'niṣkramaṇonmukhasyaparivartanādīnyanubhavan' is printed without a space between unmukhasya and parivartana. Syntax is loose: asya ... unmukhasya is genitive while 'anubhavan' is nominative, and 'ojasā' (instrumental) stands with 'viyoga' where an ablative is the usual case; the translation follows the printed forms. 'is' is a copula understood. 'eṣaḥ' (printed as eṣa + ojasā = eṣaujasā) is taken as 'this'.",
+  "new": "Hard line; read with confidence only in outline. 'niṣkramaṇonmukhasyaparivartanādīnyanubhavan' is printed without a space between unmukhasya and parivartana. Syntax is loose: asya ... unmukhasya is genitive while 'anubhavan' is nominative, while 'ojasā' (instrumental) with 'viyoga' is acceptable (viyoga and viyukta take the instrumental); the translation follows the printed forms. 'is' is a copula understood. 'eṣaḥ' (printed as eṣa + ojasā = eṣaujasā) is taken as 'this'.",
+  "why": "reviewer (minor): Incorrect claim: viyoga/viyukta are regularly construed with the instrumental, so ojasā viyogaḥ is normal; the only loose point is genitive asya ... unmukhasya against nominative anubhavan."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "और यदि इसका कुछ समय तक साँस लेना हो भी, तो वह कटे हुए अंग की तरह, ओज के संस्कार के बने रहने से किया हुआ है।",
+  "new": "और यदि इसका कुछ समय तक साँस लेना हो भी, तो वह कटे हुए अंग की तरह, ओज के संस्कार यानी छाप के बने रहने से किया हुआ है।",
+  "why": "reviewer (minor): Doctrinal term saṃskāra stands bare in Hindi (reads as 'rites' to a modern reader); English glosses it as 'impression'."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "Because it is the Nairṛta share (the share belonging to Nirṛti), there, death of the embryo (garbha).",
+  "new": "Because, on a conjectural reading, it is the Nairṛta share (the share belonging to Nirṛti), there, death of the embryo (garbha).",
+  "why": "reviewer (error): 'bhāgatavāt' -> 'bhāgatvāt' is a conjecture adopted in the translation but not marked there."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "नैर्ऋत यानी निर्ऋति से सम्बन्धित भाग होने के कारण वहाँ गर्भ की मृत्यु।",
+  "new": "अनुमानित पाठ पर नैर्ऋत यानी निर्ऋति से सम्बन्धित भाग होने के कारण वहाँ गर्भ की मृत्यु।",
+  "why": "reviewer (error): 'bhāgatavāt' -> 'bhāgatvāt' is a conjecture adopted in the translation but not marked there."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "और यहाँ मांस और ओदन यानी पके चावल की बलि अर्पित करे।",
+  "new": "और यहाँ मांस और ओदन यानी पके चावल की बलि यानी भेंट अर्पित करे।",
+  "why": "reviewer (minor): Hindi 'बलि' reads as animal sacrifice; the Sanskrit bali here is an offering of meat and rice."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "गर्भ माता की पीठ की ओर मुख किए हुए, ललाट पर अञ्जलि बाँधे हुए और अंगों को सिकोड़े हुए, गर्भ-कोष्ठ यानी गर्भाशय की गुहा में दाहिने पार्श्व का आश्रय लेकर पुमान् टिकता है, बाएँ का स्त्री, मध्य का नपुंसक।",
+  "new": "गर्भ माता की पीठ की ओर मुख किए हुए, ललाट पर अञ्जलि बाँधे हुए और अंगों को सिकोड़े हुए, गर्भ-कोष्ठ यानी सम्भवतः गर्भाशय की गुहा में दाहिने पार्श्व का आश्रय लेकर पुमान् यानी पुरुष टिकता है, बाएँ का आश्रय लेकर स्त्री और मध्य का आश्रय लेकर नपुंसक।",
+  "why": "reviewer (error): Ungrammatical Hindi ('बाएँ का स्त्री', 'मध्य का नपुंसक'); 'पुमान्' left as Sanskrit; garbha-koṣṭha = uterine cavity is only 'probable' (draft's own tag) but is unhedged in both translations."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "The embryo (garbha), facing the mother's back, with the palms joined (añjali) at the forehead and the limbs contracted, stays in the garbha-koṣṭha (uterine cavity), the male (pumān) resting on the right side, the female (strī) on the left, the neuter (napuṃsaka) in the middle.",
+  "new": "The embryo (garbha), facing the mother's back, with the palms joined (añjali) at the forehead and the limbs contracted, stays in the garbha-koṣṭha (probably the uterine cavity), the male (pumān) resting on the right side, the female (strī) on the left, the neuter (napuṃsaka) in the middle.",
+  "why": "reviewer (error): Ungrammatical Hindi ('बाएँ का स्त्री', 'मध्य का नपुंसक'); 'पुमान्' left as Sanskrit; garbha-koṣṭha = uterine cavity is only 'probable' (draft's own tag) but is unhedged in both translations."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "गर्भाधान के क्षण से लेकर गर्भाशय यानी गर्भ के स्थान का उपस्नेह यानी भीगना और उपस्वेद यानी पसीना ही पोषण का साधन है। उसके बाद, इसके प्रकट होते हुए अंग-प्रत्यंग वाले के, नाभि में नाड़ी बँधी है; नाड़ी में अपरा यानी आँवल; उसमें माता का हृदय।",
+  "new": "निषेक यानी गर्भाधान से लेकर गर्भाशय का उपस्नेह यानी भीगना और उपस्वेद यानी पसीना पोषण का साधन है। उसके बाद, अनुमानित पाठ पर, जिसके अंग-प्रत्यंग प्रकट हो रहे हैं उस इसकी नाभि में नाड़ी यानी सम्भवतः गर्भनाल बँधी है; नाड़ी में, अनुमानित पाठ पर, अपरा यानी जेर; उसमें माता का हृदय।",
+  "why": "reviewer (error): Hindi adds 'ही' (only) and 'क्षण' (moment), neither in the Sanskrit; renders aparā as 'आँवल' against GLOSSARY (अपरा यानी जेर); nāḍī = umbilical cord is only probable and unhedged; the two conjectures (pratyaṅga, aparā) are not marked in the translations; niṣeka is left bare in Hindi."
+ },
+ {
+  "n": "60",
+  "field": "english",
+  "old": "From niṣeka (impregnation) onward, the moistening (upasneha) and sweating or warming (upasveda) of the womb (garbhāśaya) are the means of sustenance (vartana). Then, in this one whose limbs and minor limbs are becoming manifest, a duct (nāḍī) is fastened at the navel; in the duct, the aparā (placenta); in that, the mother's heart (hṛdaya).",
+  "new": "From niṣeka (impregnation) onward, the moistening (upasneha) and sweating or warming (upasveda) of the womb (garbhāśaya) are the means of sustenance (vartana). Then, in this one whose limbs and minor limbs are becoming manifest (on a conjectural reading), a duct (nāḍī, probably the umbilical cord) is fastened at the navel; in the duct, the aparā (placenta; on a conjectural reading); in that, the mother's heart (hṛdaya).",
+  "why": "reviewer (error): Hindi adds 'ही' (only) and 'क्षण' (moment), neither in the Sanskrit; renders aparā as 'आँवल' against GLOSSARY (अपरा यानी जेर); nāḍī = umbilical cord is only probable and unhedged; the two conjectures (pratyaṅga, aparā) are not marked in the translations; niṣeka is left bare in Hindi."
+ },
+ {
+  "n": "60",
+  "field": "word.gloss",
+  "word": "niṣekāt",
+  "old": "from impregnation (niṣeka; the infusion of semen, probable)",
+  "new": "from impregnation (niṣeka; the infusion of semen, standard)",
+  "why": "reviewer (minor): niṣeka = (pouring in of semen) conception/insemination is the standard meaning, not merely probable."
+ },
+ {
+  "n": "60",
+  "field": "notes",
+  "old": "Elliptical: 'pratibaddhā' is carried over to 'aparā' and to 'mātṛhṛdayam' (the connections are 'fastened'), and no verb is supplied beyond the first. 'garbhāśayopasnehopasvedau' is taken as upasneha and upasveda of the garbhāśaya; the other possible reading (garbhāśaya as a third item in the dvandva) is less likely. niṣeka = emission or infusion of semen, so impregnation (probable). nāḍī = the umbilical cord (probable); aparā = placenta (standard). Both text_flags are conjectures.",
+  "new": "Elliptical: 'pratibaddhā' is carried over to 'aparā' and to 'mātṛhṛdayam' (the connections are 'fastened'), and no verb is supplied beyond the first. 'garbhāśayopasnehopasvedau' is taken as upasneha and upasveda of the garbhāśaya; the other possible reading (garbhāśaya as a third item in the dvandva) is less likely. niṣeka = emission or infusion of semen, so impregnation (standard). nāḍī = the umbilical cord (probable); aparā = placenta (standard). Both text_flags are conjectures.",
+  "why": "reviewer (minor): niṣeka = (pouring in of semen) conception/insemination is the standard meaning, not merely probable."
+ },
+ {
+  "n": "60",
+  "field": "word.gram",
+  "word": "vyaktībhavat-aṅga-pratyaṅgasya",
+  "old": "n. gen. sg. (bahuvrīhi)",
+  "new": "gen. sg. (bahuvrīhi)",
+  "why": "reviewer (minor): gram 'n.' contradicts the following 'asya' (m.); a bahuvrīhi qualifying asya needs no gender."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "तब माता के हृदय से आहार-रस धमनियों के द्वारा स्पन्दित होता हुआ अपरा यानी आँवल को प्राप्त होता है।",
+  "new": "तब माता के हृदय से आहार-रस धमनियों के द्वारा स्पन्दित होता हुआ अपरा यानी जेर को प्राप्त होता है।",
+  "why": "reviewer (minor): 'आँवल' against GLOSSARY (अपरा यानी जेर); 'धमनियों' = arteries, whereas the draft tags dhamanī only 'probably blood vessels'."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "तब माता के हृदय से आहार-रस धमनियों के द्वारा स्पन्दित होता हुआ अपरा यानी जेर को प्राप्त होता है।",
+  "new": "तब माता के हृदय से आहार-रस धमनी यानी वाहिकाओं के द्वारा स्पन्दित होता हुआ अपरा यानी जेर को प्राप्त होता है।",
+  "why": "reviewer (minor): 'आँवल' against GLOSSARY (अपरा यानी जेर); 'धमनियों' = arteries, whereas the draft tags dhamanī only 'probably blood vessels'."
+ },
+ {
+  "n": "63",
+  "field": "english",
+  "old": "And then it, in the embryo's pakvāśaya (the site of digested matter, probably the large intestine), being cooked by its own bodily fire (kāyāgni), becomes, through the abundance of the clear part (prasāda), nourishing to the dhātus and the rest.",
+  "new": "And then it again, in the embryo's pakvāśaya (the site of digested matter, probably the large intestine), being cooked by its own bodily fire (kāyāgni), becomes, through the abundance of the clear part (prasāda), nourishing to the dhātus and the rest.",
+  "why": "reviewer (minor): 'punar' ('again') is dropped from the English (Hindi has फिर). Hindi 'पक्वाशय यानी मल के स्थान' does not match the English hedge (probably the large intestine); kāyāgni stays bare in Hindi."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "और तब वह फिर गर्भ के पक्वाशय यानी मल के स्थान में, अपनी काया की अग्नि से पकाया जाता हुआ, प्रसाद यानी निर्मल भाग की अधिकता से धातु आदि की पुष्टि करने वाला हो जाता है।",
+  "new": "और तब वह फिर गर्भ के पक्वाशय यानी सम्भवतः बड़ी आँत में, अपनी काया की अग्नि से पकाया जाता हुआ, प्रसाद यानी निर्मल भाग की अधिकता से धातु आदि की पुष्टि करने वाला हो जाता है।",
+  "why": "reviewer (minor): 'punar' ('again') is dropped from the English (Hindi has फिर). Hindi 'पक्वाशय यानी मल के स्थान' does not match the English hedge (probably the large intestine); kāyāgni stays bare in Hindi."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "और तब वह फिर गर्भ के पक्वाशय यानी सम्भवतः बड़ी आँत में, अपनी काया की अग्नि से पकाया जाता हुआ, प्रसाद यानी निर्मल भाग की अधिकता से धातु आदि की पुष्टि करने वाला हो जाता है।",
+  "new": "और तब वह फिर गर्भ के पक्वाशय यानी सम्भवतः बड़ी आँत में, अपनी कायाग्नि यानी शरीर की पाचन-अग्नि से पकाया जाता हुआ, प्रसाद यानी निर्मल भाग की अधिकता से धातु आदि की पुष्टि करने वाला हो जाता है।",
+  "why": "reviewer (minor): 'punar' ('again') is dropped from the English (Hindi has फिर). Hindi 'पक्वाशय यानी मल के स्थान' does not match the English hedge (probably the large intestine); kāyāgni stays bare in Hindi."
+ },
+ {
+  "n": "65",
+  "field": "english",
+  "old": "In the embryo (garbha) not yet born, because food and drink do not enter directly and because the rasa is free from impurity (amala), there is no arising of gross waste (sthūla-mala).",
+  "new": "In the embryo (garbha) not yet born, because food and drink do not enter directly and because the rasa is free from mala (waste; amala), there is no arising of gross waste (sthūla-mala).",
+  "why": "reviewer (minor): amala-tva, set against 'gross waste (sthūla-mala)', is freedom from mala (waste); 'impurity' breaks the link with mala."
+ },
+ {
+  "n": "65",
+  "field": "hindi",
+  "old": "जन्म न लिए हुए गर्भ के लिए, अन्न और पान का साक्षात् प्रवेश न होने से और रस के निर्मल होने से, स्थूल मल का उत्पन्न न होना।",
+  "new": "जन्म न लिए हुए गर्भ के लिए, अन्न और पान का साक्षात् प्रवेश न होने से और रस के अमल यानी मल से रहित होने से, स्थूल मल का उत्पन्न न होना।",
+  "why": "reviewer (minor): amala-tva, set against 'gross waste (sthūla-mala)', is freedom from mala (waste); 'impurity' breaks the link with mala."
+ },
+ {
+  "n": "66",
+  "field": "english",
+  "old": "But at the time of birth, through contact with the wind of parturition (prasūti-māruta), having turned round, he comes out head downward; and afterwards the aparā (placenta), detached from the mother's heart.",
+  "new": "But at the time of birth, through contact with the wind of parturition (prasūti-māruta, probably the contractions of labour), having turned round, he comes out head downward; and afterwards the aparā (placenta), detached from the mother's heart.",
+  "why": "reviewer (minor): The draft's own probable modern equivalent (labour contractions) stays in notes only; the owner policy wants it beside the Sanskrit term, hedged. Hindi uses 'आँवल' against GLOSSARY."
+ },
+ {
+  "n": "66",
+  "field": "hindi",
+  "old": "परन्तु जन्म के समय प्रसूति-मारुत यानी प्रसव की वायु के संयोग से, पलटकर, सिर नीचे किए हुए वह निकलता है; और उसके बाद अपरा यानी आँवल, माता के हृदय से अलग होकर।",
+  "new": "परन्तु जन्म के समय प्रसूति-मारुत यानी प्रसव की वायु, सम्भवतः प्रसव-संकुचन, के संयोग से, पलटकर, सिर नीचे किए हुए वह निकलता है; और उसके बाद अपरा यानी आँवल, माता के हृदय से अलग होकर।",
+  "why": "reviewer (minor): The draft's own probable modern equivalent (labour contractions) stays in notes only; the owner policy wants it beside the Sanskrit term, hedged. Hindi uses 'आँवल' against GLOSSARY."
+ },
+ {
+  "n": "66",
+  "field": "hindi",
+  "old": "परन्तु जन्म के समय प्रसूति-मारुत यानी प्रसव की वायु, सम्भवतः प्रसव-संकुचन, के संयोग से, पलटकर, सिर नीचे किए हुए वह निकलता है; और उसके बाद अपरा यानी आँवल, माता के हृदय से अलग होकर।",
+  "new": "परन्तु जन्म के समय प्रसूति-मारुत यानी प्रसव की वायु, सम्भवतः प्रसव-संकुचन, के संयोग से, पलटकर, सिर नीचे किए हुए वह निकलता है; और उसके बाद अपरा यानी जेर, माता के हृदय से अलग होकर।",
+  "why": "reviewer (minor): The draft's own probable modern equivalent (labour contractions) stays in notes only; the owner policy wants it beside the Sanskrit term, hedged. Hindi uses 'आँवल' against GLOSSARY."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "This is the natural (prakṛti) course.",
+  "new": "This is the natural state (prakṛti).",
+  "why": "reviewer (minor): 'course' is not in the Sanskrit."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "यह प्रकृति है।",
+  "new": "यह प्रकृति यानी स्वाभाविक अवस्था है।",
+  "why": "reviewer (minor): 'course' is not in the Sanskrit."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "Otherwise than this is the abnormal (vikṛti) course.",
+  "new": "Otherwise than this is abnormality (vikṛti).",
+  "why": "reviewer (minor): 'course' is not in the Sanskrit."
+ },
+ {
+  "n": "68",
+  "field": "hindi",
+  "old": "इससे अन्यथा विकृति है।",
+  "new": "इससे अन्यथा विकृति यानी असामान्य अवस्था है।",
+  "why": "reviewer (minor): 'course' is not in the Sanskrit."
+ },
+ {
+  "n": "69",
+  "field": "english",
+  "old": "There, she who puts the right foot forward first, whose right arm is strong and who acts with it, in whose breast milk is seen first, whose belly (kukṣi) is very raised and the embryo (garbha) round, who delights in longings (daurhṛda) for seeing, touching and asking about male-named (ones), who sees dreams bearing male names, with a clear complexion of the face, keen hunger, an upward line of body-hair, and who desires men, she bears a son; in the opposite case, a girl; and in a mixture, a napuṃsaka (neuter).",
+  "new": "There, she who puts the right foot forward first, whose right arm is strong and who acts with it, in whose breast milk is seen first, whose belly (kukṣi) is very raised and the embryo (garbha) round (on a conjectural reading of this compound), who delights in longings (daurhṛda) for seeing, touching and asking about male-named (ones), who sees dreams bearing male names, with a clear complexion of the face, keen hunger, an upward line of body-hair, and who desires men, she bears a son; in the opposite case, a girl; and in a mixture, a napuṃsaka (neuter).",
+  "why": "reviewer (error): Translation rests on a compound the draft itself calls conjectural ('tat' read as 'her'), yet the translations are unmarked (GLOSSARY: mark the conjecture in both languages)."
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "वहाँ जो स्त्री पहले दाहिना पैर आगे बढ़ाती है, जिसकी दाहिनी भुजा बलवान् होती है और वह उसी से चेष्टा करती है, जिसके स्तन में पहले दूध दिखाई देता है, जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है, जो पुरुष नाम वालों को देखने, छूने और उनके विषय में पूछने की दौर्हृद यानी गर्भावस्था की इच्छाओं में रत रहती है, पुरुष नाम वाले स्वप्न देखती है, जिसके मुख का वर्ण प्रसन्न है, जिसकी भूख तीव्र है और रोमों की पंक्ति ऊपर की ओर है, और जो पुरुषों की अभिलाषा करती है, वह पुत्र को जन्म देती है; उसके विपरीत होने पर कन्या को और मिश्रण होने पर नपुंसक को।",
+  "new": "वहाँ जो स्त्री पहले दाहिना पैर आगे बढ़ाती है, जिसकी दाहिनी भुजा बलवान् होती है और वह उसी से चेष्टा करती है, जिसके स्तन में पहले दूध दिखाई देता है, अनुमानित पाठ पर जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है, जो पुरुष नाम वालों को देखने, छूने और उनके विषय में पूछने की दौर्हृद यानी गर्भावस्था की इच्छाओं में रत रहती है, पुरुष नाम वाले स्वप्न देखती है, जिसके मुख का वर्ण प्रसन्न है, जिसकी भूख तीव्र है और रोमों की पंक्ति ऊपर की ओर है, और जो पुरुषों की अभिलाषा करती है, वह पुत्र को जन्म देती है; उसके विपरीत होने पर कन्या को और मिश्रण होने पर नपुंसक को।",
+  "why": "reviewer (error): Translation rests on a compound the draft itself calls conjectural ('tat' read as 'her'), yet the translations are unmarked (GLOSSARY: mark the conjecture in both languages)."
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "वहाँ जो स्त्री पहले दाहिना पैर आगे बढ़ाती है, जिसकी दाहिनी भुजा बलवान् होती है और वह उसी से चेष्टा करती है, जिसके स्तन में पहले दूध दिखाई देता है, अनुमानित पाठ पर जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है, जो पुरुष नाम वालों को देखने, छूने और उनके विषय में पूछने की दौर्हृद यानी गर्भावस्था की इच्छाओं में रत रहती है, पुरुष नाम वाले स्वप्न देखती है, जिसके मुख का वर्ण प्रसन्न है, जिसकी भूख तीव्र है और रोमों की पंक्ति ऊपर की ओर है, और जो पुरुषों की अभिलाषा करती है, वह पुत्र को जन्म देती है; उसके विपरीत होने पर कन्या को और मिश्रण होने पर नपुंसक को।",
+  "new": "वहाँ जो स्त्री पहले दाहिना पैर आगे बढ़ाती है, जिसकी दाहिनी भुजा बलवान् होती है और वह उसी से चेष्टा करती है, जिसके स्तन में पहले दूध दिखाई देता है, अनुमानित पाठ पर जिसकी कुक्षि बहुत ऊँची है और गर्भ गोल है, जो पुरुष नाम वालों को देखने, छूने और उनके विषय में पूछने की दौर्हृद यानी गर्भावस्था की इच्छाओं में रत रहती है, पुरुष नाम वाले स्वप्न देखती है, जिसके मुख का वर्ण प्रसन्न है, जिसकी भूख तीव्र है और रोमों की पंक्ति ऊपर की ओर है, और जो पुरुषों की अभिलाषा करती है, वह पुत्र को जन्म देती है; उसके विपर्यय में कन्या को और मिश्रण में नपुंसक को।",
+  "why": "reviewer (minor): 'विपरीत होने पर / मिश्रण होने पर' adds 'होने पर' (GLOSSARY: not added where the Sanskrit has plain locatives)."
+ },
+ {
+  "n": "69",
+  "field": "word.gram",
+  "word": "napuṃsakam",
+  "old": "acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): Inconsistent with u57/u75 ('n. nom. sg.'): gender missing."
+ },
+ {
+  "n": "71",
+  "field": "hindi",
+  "old": "परन्तु जब मार्ग से भटका हुआ वात गर्भ के रस को ले जाने वाले स्रोतों को सुखा देता है, तब वह वातरोगी और हीन उत्पन्न होता है।",
+  "new": "परन्तु जब मार्ग से भटका हुआ वात गर्भ के रस को ले जाने वाले स्रोतों यानी वाहक मार्गों को सुखा देता है, तब वह वातरोगी और हीन उत्पन्न होता है।",
+  "why": "reviewer (minor): Doctrinal term srotas bare in Hindi (reads as 'source/stream')."
+ },
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "और जब बीज किसी भाग में दूषित होता है, तब दो प्रकृति वाला, दो रेत वाला नपुंसक होता है।",
+  "new": "और जब बीज किसी भाग में दूषित होता है, तब दो प्रकृति वाला, दो रेतस् यानी वीर्य वाला नपुंसक होता है।",
+  "why": "reviewer (minor): 'रेत' reads as sand in Hindi; retas needs the Sanskrit form with a gloss (GLOSSARY: Hindi retas/śukra = semen)."
+ },
+ {
+  "n": "75",
+  "field": "word.gloss",
+  "word": "dvi-retaḥ",
+  "old": "having two kinds of seed",
+  "new": "having two retas (seed, semen)",
+  "why": "reviewer (minor): 'रेत' reads as sand in Hindi; retas needs the Sanskrit form with a gloss (GLOSSARY: Hindi retas/śukra = semen)."
+ },
+ {
+  "n": "76",
+  "field": "english",
+  "old": "When the woman first has her purpose accomplished, and afterwards semen (śukra) is emitted by the man, then Vāta vitiates it, in the woman whose mind is unsteady with joy, and damages the channels (srotas) of this one that carry virility (puṃstva); then a vātendriya (lit. 'Vāta organ') comes to be.",
+  "new": "When the woman first has her purpose accomplished, then afterwards semen (śukra) is emitted by the man, and the Vāta of the woman, whose mind is unsteady with joy, vitiates [it] and damages the channels (srotas) of this one that carry virility (puṃstva), then a vātendriya (lit. 'Vāta organ') comes to be.",
+  "why": "reviewer (error): (1) 'tataḥ' and 'paścāt' are merged into one 'afterwards' and a 'then' is misplaced before Vāta; (2) the genitive 'striyāḥ' (the woman's Vāta) is turned into 'in the woman'; (3) the unstated object 'it' is silent (conjecture must be bracketed and flagged); (4) Hindi 'नष्ट करता है' is stronger than upahanti 'damages'."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "जब स्त्री पहले कृतार्थ यानी सफल प्रयोजन वाली हो जाती है, उसके बाद पुरुष द्वारा शुक्र यानी वीर्य छोड़ा जाता है, तब हर्ष से अस्थिर चित्त वाली स्त्री का वात विगुण कर देता है और इसके पुंस्त्व को ले जाने वाले स्रोतों को नष्ट करता है, तब वातेन्द्रिय होता है।",
+  "new": "जब स्त्री पहले कृतार्थ यानी सफल प्रयोजन वाली हो जाती है, फिर पुरुष द्वारा बाद में शुक्र यानी वीर्य छोड़ा जाता है, और हर्ष से अस्थिर चित्त वाली स्त्री का वात विगुण कर देता है तथा इसके पुंस्त्व को ले जाने वाले स्रोतों यानी वाहक मार्गों को क्षति पहुँचाता है, तब वातेन्द्रिय होता है।",
+  "why": "reviewer (error): (1) 'tataḥ' and 'paścāt' are merged into one 'afterwards' and a 'then' is misplaced before Vāta; (2) the genitive 'striyāḥ' (the woman's Vāta) is turned into 'in the woman'; (3) the unstated object 'it' is silent (conjecture must be bracketed and flagged); (4) Hindi 'नष्ट करता है' is stronger than upahanti 'damages'."
+ }
+]

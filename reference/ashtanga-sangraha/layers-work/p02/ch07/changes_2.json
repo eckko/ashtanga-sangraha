@@ -1,0 +1,350 @@
+[
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "saṃśrite",
+  "old": "m. nom. du.",
+  "new": "ppp. saṃ-√śri, nom. du.",
+  "why": "reviewer (minor): gender asserted ('m.') for a participle agreeing with vidhure whose gender is not shown by the form (dual -e serves m. and n.); it is also a participle, not a bare adjective."
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "śrotra-mārga-pratibaddham",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "tat-puruṣa, acc. sg. (agreement unsettled)",
+  "why": "reviewer (minor): Printed 'pratibaddham' is singular and does not agree with the dual 'phaṇau'; the draft labels it 'n. acc. sg.' yet translates it as a qualifier of the phaṇas. It may agree with 'ghrāṇamārgam' (the nose-passage joined to the ear-passage) or be a slip for the dual. The label should not claim neuter and the ambiguity belongs in the notes."
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "Elliptical: no verb is printed and none is supplied. The print joins 'abhyantarataḥ' and 'phaṇau' without a space (spacing slip). Whether 'ubhayataḥ' goes with the nose-passage or with the phaṇas is not settled; the plainest reading is kept. Injury is understood, not stated.",
+  "new": "Elliptical: no verb is printed and none is supplied. The print joins 'abhyantarataḥ' and 'phaṇau' without a space (spacing slip). Whether 'ubhayataḥ' goes with the nose-passage or with the phaṇas is not settled; the plainest reading is kept. Injury is understood, not stated. The printed 'pratibaddham' is singular, so it does not agree with the dual 'phaṇau'; it may go with 'ghrāṇamārgam' (the nose-passage is joined to the ear-passage) or be a slip for a dual. The translation keeps the reading that the phaṇas are joined to the ear-passage (plainest sense); not settled.",
+  "why": "reviewer (minor): Printed 'pratibaddham' is singular and does not agree with the dual 'phaṇau'; the draft labels it 'n. acc. sg.' yet translates it as a qualifier of the phaṇas. It may agree with 'ghrāṇamārgam' (the nose-passage joined to the ear-passage) or be a slip for the dual. The label should not claim neuter and the ambiguity belongs in the notes."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "दोनों भौंहों के पूँछ जैसे सिरों के नीचे, दोनों आँखों के बाहर की ओर दो अपाङ्ग नामक मर्म; उन दोनों का अन्धापन।",
+  "new": "दोनों भौंहों के पूँछ-छोरों के नीचे, दोनों आँखों के बाहर की ओर दो अपाङ्ग नामक मर्म; उन दोनों का अन्धापन।",
+  "why": "reviewer (error): 'जैसे' is added (glossary: no added जैसे); the Sanskrit has the compound puccha-anta (tail-end), which English renders 'tail-ends'."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "दोनों भौंहों के सिरों के ऊपर, कान की ओर, माथे पर दो शङ्ख नामक मर्म; उन दोनों का तत्काल मरण।",
+  "new": "दोनों भौंहों के पूँछ-छोरों के ऊपर, कान की ओर, माथे पर दो शङ्ख नामक मर्म; उन दोनों का तत्काल मरण।",
+  "why": "reviewer (minor): 'puccha' (tail) is dropped in Hindi; English has 'tail-ends'."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "दोनों भौंहों के पूँछ-छोरों के ऊपर, कान की ओर, माथे पर दो शङ्ख नामक मर्म; उन दोनों का तत्काल मरण।",
+  "new": "दोनों भौंहों के पूँछ-छोरों के ऊपर, कान की ओर, माथे पर दो शङ्ख नामक मर्म यानी सम्भवतः कनपटियाँ; उन दोनों का तत्काल मरण।",
+  "why": "reviewer (minor): English hedges the identification ('probably the temples'); glossary: Hindi must carry the hedge the English has."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "दोनों शङ्खों के ऊपर केशों के छोर पर दो उत्क्षेप नामक मर्म; उन दोनों में शल्य सहित, या पाक से जिसका शल्य गिर गया हो, वह जी सकता है; जिसका शल्य निकाल दिया गया हो वह नहीं।",
+  "new": "दोनों शङ्खों के ऊपर केशों के छोर पर दो उत्क्षेप नामक मर्म; उन दोनों में शल्य सहित, या पाक यानी पक जाने से जिसका शल्य गिर गया हो, वह जी सकता है; जिसका शल्य निकाल दिया गया हो वह नहीं।",
+  "why": "reviewer (minor): bare 'पाक' reads as cooking; English has 'suppuration' in the note only and '(pāka)' in the text. Hindi needs a plain gloss at first use."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "सिर पर तिरछे और ऊपर की ओर पाँच सन्धियाँ सीमन्त नामक हैं; उनमें उन्माद, भ्रम और चित्त के नाश से मरण।",
+  "new": "सिर पर तिरछे और ऊपर की ओर पाँच सन्धियाँ सीमन्त नामक हैं; उनमें उन्माद, चक्कर आने और चित्त के नाश से मरण।",
+  "why": "reviewer (minor): English renders bhrama 'giddiness'; Hindi भ्रम means delusion/confusion and clashes with u49 'सम्मोह यानी भ्रम'. Use चक्कर आना for bhrama."
+ },
+ {
+  "n": "48",
+  "field": "word.gram",
+  "word": "sāmānyena",
+  "old": "n. inst. sg.",
+  "new": "inst. sg.",
+  "why": "reviewer (minor): adjective standing for an unstated noun carries 'n.' (glossary p02 ch02 k4: case and number only, never m./n.)."
+ },
+ {
+  "n": "57",
+  "field": "word.gram",
+  "word": "indra-basti",
+  "old": "n.",
+  "new": "m.",
+  "why": "reviewer (minor): gender n. here but m. in u63 (same name); lexica give m."
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "Verbless list; no verb supplied. The fivefold division announced in 55 begins here (flesh marmas). 'Stanarohita' is read as one name, not as 'stana' and 'rohita' separately; the split is probable. Identifications of the marma names with body regions: probable (the names are standard marma names; regions come from the commentarial tradition, not from this line). The count 'eleven' is translated as printed.",
+  "new": "Verbless list; no verb supplied. The fivefold division announced in 55 begins here (flesh marmas). 'Stanarohita' is read as one name, not as 'stana' and 'rohita' separately; the split is probable. Identifications of the marma names with body regions: probable (the names are standard marma names; regions come from the commentarial tradition, not from this line). The count 'eleven' is translated as printed. COUNT CHECK (observation, from this book's own limb and trunk units): eleven = talahṛdaya 4 + indrabasti 4 (one per limb, units 4 and 9) + guda 1 (u18) + stanarohita 2 (u24). The printed number counts every side and limb, not the number of names.",
+  "why": "reviewer (minor): Observation: the printed count is the sum over all sides and limbs, not the number of names (4 names listed): talahṛdaya 4 + indrabasti 4 (units 4, 9: one per limb) + guda 1 (u18) + stanarohita 2 (u24) = 11. Useful for the reader."
+ },
+ {
+  "n": "58",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "nīlāmanmāmātṛkāphaṇāpāṃgasthapanīśṛṃgāṭakānyekacatvāriṃśacchirā",
+    "suggest": "nīlāmanyāmātṛkā...",
+    "why": "possible: 'manmā' is not a marma name; 'manyā' (the neck marma) is the usual name between nīlā and mātṛkā, and ya -> n+m is a plausible OCR error (also seen in 67 'nīlāmandyā')"
+   }
+  ],
+  "new": [
+   {
+    "src": "nīlāmanmāmātṛkāphaṇāpāṃgasthapanīśṛṃgāṭakānyekacatvāriṃśacchirā",
+    "suggest": "nīlāmanyāmātṛkā...",
+    "why": "possible: 'manmā' is not a marma name; 'manyā' (the neck marma) is the usual name between nīlā and mātṛkā, and ya -> n+m is a plausible OCR error (also seen in 67 'nīlāmandyā')"
+   },
+   {
+    "src": "apastaṃbhālāpa",
+    "suggest": "apastaṃbhāpālāpa",
+    "why": "possible: 'alāpa' is probably apālāpa (printed 'apālāpau' in u26); the syllable pā was lost after apastambha; kept as printed in the split and not adopted in the translation"
+   }
+  ],
+  "why": "reviewer (minor): 'alāpa' is almost certainly the marma apālāpa (printed 'apālāpau' in u26, apalāpa elsewhere in Part 2): 'apastambha' + 'apālāpa' written together would be apastambhāpālāpa and the print has lost 'pā'. The draft treats 'alāpa' as a name without comment. Kept as printed in the split; flag added, not adopted."
+ },
+ {
+  "n": "58",
+  "field": "notes",
+  "old": "Verbless list. Printed 'stana mūla' (space inside the compound) = stanamūla, a spacing slip. 'lohitākhya' = 'called lohita' (a marma name); 'urvī' as in 67. Printed 'śirā' = sirā (variant). Marma names are kept untranslated; nābhi and hṛdaya are also ordinary words for navel and heart, so the equivalents are given as standard. The count 'forty-one' is translated as printed. 'mātṛkā' and 'bṛhatī' kept as names. The emended manyā is conjectural and marked so in both translations.",
+  "new": "Verbless list. Printed 'stana mūla' (space inside the compound) = stanamūla, a spacing slip. 'lohitākhya' = 'called lohita' (a marma name); 'urvī' as in 67. Printed 'śirā' = sirā (variant). Marma names are kept untranslated; nābhi and hṛdaya are also ordinary words for navel and heart, so the equivalents are given as standard. The count 'forty-one' is translated as printed. 'mātṛkā' and 'bṛhatī' kept as names. The emended manyā is conjectural and marked so in both translations. COUNT CHECK (observation): forty-one = urvī 4 + lohitākhya 4 (one per limb) + nābhi 1 + hṛdaya 1 + stanamūla 2 + apastambha 2 + alāpa (apālāpa) 2 + pārśvasandhi 2 + bṛhatī 2 + nīlā 2 + manyā 2 + mātṛkā 8 + phaṇa 2 + apāṅga 2 + sthapanī 1 + śṛṅgāṭaka 4, counting sides and limbs as in units 4-46. The 'alāpa' of this unit is probably the apālāpa of u26 (a lost pā).",
+  "why": "reviewer (minor): 'alāpa' is almost certainly the marma apālāpa (printed 'apālāpau' in u26, apalāpa elsewhere in Part 2): 'apastambha' + 'apālāpa' written together would be apastambhāpālāpa and the print has lost 'pā'. The draft treats 'alāpa' as a name without comment. Kept as printed in the split; flag added, not adopted."
+ },
+ {
+  "n": "59",
+  "field": "word.gloss",
+  "word": "kakṣādharāṇi",
+  "old": "kakṣādhara (marma name; kakṣa = armpit)",
+  "new": "kakṣādhara (marma name; kakṣa = armpit); āṇi (marma name)",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "kakṣādharāṇi",
+  "old": "n. nom. pl.",
+  "new": "marma names",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "59",
+  "field": "word.w",
+  "word": "kakṣādharāṇi",
+  "old": "kakṣādharāṇi",
+  "new": "kakṣādhara-āṇi",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "59",
+  "field": "english",
+  "old": "Kṣipra, kūrca, kūrcaśiras, viṭapa, kakṣādhara, basti (bladder), aṃsa (shoulder), vidhura and utkṣepa: twenty-seven sinew-marmas (snāva-marma).",
+  "new": "Kṣipra, kūrca, kūrcaśiras, viṭapa, kakṣādhara, āṇi, basti (bladder), aṃsa (shoulder), vidhura and utkṣepa: twenty-seven sinew-marmas (snāva-marma).",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "क्षिप्र, कूर्च, कूर्चशिरस्, विटप, कक्षाधर, बस्ति यानी मूत्राशय, अंस यानी कन्धा, विधुर और उत्क्षेप: सत्ताईस स्नायु-मर्म।",
+  "new": "क्षिप्र, कूर्च, कूर्चशिरस्, विटप, कक्षाधर, आणि, बस्ति यानी मूत्राशय, अंस यानी कन्धा, विधुर और उत्क्षेप: सत्ताईस स्नायु-मर्म।",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "Verbless list. The print runs the whole list into one token with mixed endings (-āṇi, then -āḥ); it is read as a single dvandva list of names. 'snāva' = sinew (snāyu). Here 'basti' is a marma name; its ordinary meaning (bladder, standard) is given beside it. The count 'twenty-seven' is translated as printed.",
+  "new": "Verbless list. The print runs the whole list into one token ; it is read as a single dvandva list of names. 'kakṣādharāṇi' is read as kakṣādhara + āṇi (āṇi is the marma of u11), not as a neuter plural: with āṇi the printed total twenty-seven works out (kṣipra 4, kūrca 4, kūrcaśiras 4, āṇi 4, viṭapa 2, kakṣādhara 2, basti 1, aṃsa 2, vidhura 2, utkṣepa 2, counting limbs and sides as in units 4-36); the single counts are not printed here. 'snāva' = sinew (snāyu). Here 'basti' is a marma name; its ordinary meaning (bladder, standard) is given beside it. The count 'twenty-seven' is translated as printed.",
+  "why": "reviewer (error): The token 'kakṣādharāṇi' is read as kakṣādhara + neuter-plural ending -āṇi, which leaves the list without the marma āṇi (u11, four of them, one per limb) that the usual snāyu list has right after kakṣādhara. Read kakṣādhara + āṇi: then the printed total works out: kṣipra 4 + kūrca 4 + kūrcaśiras 4 + āṇi 4 + viṭapa 2 + kakṣādhara 2 + basti 1 + aṃsa 2 + vidhura 2 + utkṣepa 2 = 27. Without āṇi the list gives only 23. Translations must name āṇi."
+ },
+ {
+  "n": "60",
+  "field": "word.gloss",
+  "word": "kaṭīkataruṇa",
+  "old": "kaṭīkataruṇa (marma name; kaṭī = hip, loin; taruṇa = young, tender)",
+  "new": "kaṭīkataruṇa (marma name; kaṭī = hip, loin; taruṇa also means cartilage, soft bone)",
+  "why": "reviewer (minor): 'taruṇa = young, tender' is the everyday sense; in anatomy taruṇa also means soft bone, cartilage (taruṇāsthi), and u27 of chunk 1 calls the two kaṭīkataruṇa 'bones'. The gloss should not suggest 'young'."
+ },
+ {
+  "n": "60",
+  "field": "english",
+  "old": "Kaṭīkataruṇa, nitamba, aṃsaphalaka and śaṅkha, however: eight bone-marmas (asthi-marma).",
+  "new": "Kaṭīkataruṇa, nitamba, aṃsaphalaka (probably the shoulder-blades) and śaṅkha (probably the temples), however: eight bone-marmas (asthi-marma).",
+  "why": "reviewer (minor): Consistency with chunk 1 u32 ('aṃsaphalaka, probably the shoulder-blades') and u40 (śaṅkha, probably the temples): the equivalents are in the gloss but not beside the names; policy wants them beside the term, hedged."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "कटीकतरुण, नितम्ब, अंसफलक और शङ्ख: आठ अस्थि-मर्म।",
+  "new": "कटीकतरुण, नितम्ब, अंसफलक यानी सम्भवतः कन्धे की चपटी हड्डियाँ और शङ्ख यानी सम्भवतः कनपटियाँ: आठ अस्थि-मर्म।",
+  "why": "reviewer (minor): Consistency with chunk 1 u32 ('aṃsaphalaka, probably the shoulder-blades') and u40 (śaṅkha, probably the temples): the equivalents are in the gloss but not beside the names; policy wants them beside the term, hedged."
+ },
+ {
+  "n": "62",
+  "field": "word.gloss",
+  "word": "samarātra-abhyantaram",
+  "old": "samarātra (probably a full day and night); within",
+  "new": "samarātra (unclear); within",
+  "why": "reviewer (error): 'samarātra' is not a known word; 'a full day and night' is a guess built into the translation (overconfident sense). The glossary keeps guesses for damaged or unknown words out of translations and gloss ('unclear'). Likely a misprint of saptarātra (pta/ma confusion listed in the glossary), which would also fit the sequence with 'within a fortnight' in u63; possible only. Mark unclear in both languages, put the guess in a flag/note."
+ },
+ {
+  "n": "62",
+  "field": "english",
+  "old": "And again, in five ways: gudaba (unclear), stana, nābhi (navel), hṛdaya (heart), mātṛkā, śaṅkha, śṛṅgāṭaka and adhipati: nineteen that take life at once; because of their fiery nature (āgneya), the time for them is within a samarātra (probably a full day and night).",
+  "new": "And again, in five ways: gudaba (unclear), stana, nābhi (navel), hṛdaya (heart), mātṛkā, śaṅkha, śṛṅgāṭaka and adhipati: nineteen that take life at once; because of their fiery nature (āgneya), the time for them is within a samarātra (unclear).",
+  "why": "reviewer (error): 'samarātra' is not a known word; 'a full day and night' is a guess built into the translation (overconfident sense). The glossary keeps guesses for damaged or unknown words out of translations and gloss ('unclear'). Likely a misprint of saptarātra (pta/ma confusion listed in the glossary), which would also fit the sequence with 'within a fortnight' in u63; possible only. Mark unclear in both languages, put the guess in a flag/note."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "फिर पाँच प्रकार से: गुदब जो अस्पष्ट है, स्तन, नाभि, हृदय, मातृका, शङ्ख, शृङ्गाटक और अधिपति: उन्नीस जो तत्काल प्राण हर लेते हैं; आग्नेय होने से उनका समय समरात्र के भीतर।",
+  "new": "फिर पाँच प्रकार से: गुदब जो अस्पष्ट है, स्तन, नाभि, हृदय, मातृका, शङ्ख, शृङ्गाटक और अधिपति: उन्नीस जो तत्काल प्राण हर लेते हैं; आग्नेय होने से उनका समय समरात्र जो अस्पष्ट शब्द है, उसके भीतर।",
+  "why": "reviewer (error): 'samarātra' is not a known word; 'a full day and night' is a guess built into the translation (overconfident sense). The glossary keeps guesses for damaged or unknown words out of translations and gloss ('unclear'). Likely a misprint of saptarātra (pta/ma confusion listed in the glossary), which would also fit the sequence with 'within a fortnight' in u63; possible only. Mark unclear in both languages, put the guess in a flag/note."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "The first word of the list is damaged: kept unsplit as 'gudaba', glossed unclear, and left untranslated; the conjecture (guda and basti) is given only in the flag. The count 'nineteen' is as printed and the reader cannot check it against the damaged list. 'punaś ca pañcadhā' opens a second fivefold division (by effect on life); the five kinds are the headings of 62, 63, 65, 67 and 70 (this is an observation of the layout, not stated in this unit). 'samarātra' is not firmly known; 'a full day and night' is probable only. 'āgneya' = of Agni (fire).",
+  "new": "The first word of the list is damaged: kept unsplit as 'gudaba', glossed unclear, and left untranslated; the conjecture (guda and basti) is given only in the flag. The count 'nineteen' is as printed and the reader cannot check it against the damaged list. 'punaś ca pañcadhā' opens a second fivefold division (by effect on life); the five kinds are the headings of 62, 63, 65, 67 and 70 (this is an observation of the layout, not stated in this unit). 'samarātra' is not a known word and is left unclear in both translations; it may be a misprint of saptarātra ('seven nights', pta/ma confusion), which would suit the sequence with 'within a fortnight' in 63 (possible only; no sense is adopted). 'āgneya' = of Agni (fire).",
+  "why": "reviewer (error): 'samarātra' is not a known word; 'a full day and night' is a guess built into the translation (overconfident sense). The glossary keeps guesses for damaged or unknown words out of translations and gloss ('unclear'). Likely a misprint of saptarātra (pta/ma confusion listed in the glossary), which would also fit the sequence with 'within a fortnight' in u63; possible only. Mark unclear in both languages, put the guess in a flag/note."
+ },
+ {
+  "n": "62",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "gudaba",
+    "suggest": "gudabasti",
+    "why": "possible: 'gudaba' is not a word; the next token 'stanābhi...' starts with 'stana', so 'gudabasti stana-' (guda, basti, stana) with the repeated 'sti' collapsed is a plausible OCR loss; not adopted in the translation"
+   }
+  ],
+  "new": [
+   {
+    "src": "gudaba",
+    "suggest": "gudabasti (and stanābhi as stinābhi, i.e. gudabasti-nābhi)",
+    "why": "possible: 'gudaba' is not a word; 'gudaba stanābhi...' probably stands for gudabasti-nābhi-hṛdaya-... (the Devanagari 'गुदब स्तनाभि' = गुदबस्तिनाभि with a lost vowel sign); the nineteen then add up without any 'stana' marma (see notes); not adopted in the translation"
+   },
+   {
+    "src": "samarātrābhyaṃtaraṃ",
+    "suggest": "saptarātrābhyaṃtaraṃ",
+    "why": "possible: 'samarātra' is not a known word; pta/ma confusion would give saptarātra (seven nights); not adopted, the word is left unclear"
+   }
+  ],
+  "why": "reviewer (minor): The draft flag takes 'gudaba stanābhi' as gudabasti + stana. Better: 'gudaba' + 'stanābhi' = gudabasti + nābhi (the Devanagari 'गुदब स्तनाभि' is गुदबस्तिनाभि with the ि lost), and the printed 'nineteen' then works out from this book's own units without any 'stana' marma: guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35, four a side) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46) = 19; with stana it would exceed 19. So the firm rendering 'stana' in the translations is probably wrong; hedge it, flag it, note the count. Not adopted as a reading (damaged print)."
+ },
+ {
+  "n": "62",
+  "field": "word.gloss",
+  "word": "stana",
+  "old": "stana (marma name; breast)",
+  "new": "stana (marma name as printed; breast; reading doubtful, see flag)",
+  "why": "reviewer (minor): The draft flag takes 'gudaba stanābhi' as gudabasti + stana. Better: 'gudaba' + 'stanābhi' = gudabasti + nābhi (the Devanagari 'गुदब स्तनाभि' is गुदबस्तिनाभि with the ि lost), and the printed 'nineteen' then works out from this book's own units without any 'stana' marma: guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35, four a side) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46) = 19; with stana it would exceed 19. So the firm rendering 'stana' in the translations is probably wrong; hedge it, flag it, note the count. Not adopted as a reading (damaged print)."
+ },
+ {
+  "n": "62",
+  "field": "english",
+  "old": "And again, in five ways: gudaba (unclear), stana, nābhi (navel), hṛdaya (heart), mātṛkā, śaṅkha, śṛṅgāṭaka and adhipati: nineteen that take life at once; because of their fiery nature (āgneya), the time for them is within a samarātra (unclear).",
+  "new": "And again, in five ways: gudaba (unclear), stana (reading doubtful), nābhi (navel), hṛdaya (heart), mātṛkā, śaṅkha, śṛṅgāṭaka and adhipati: nineteen that take life at once; because of their fiery nature (āgneya), the time for them is within a samarātra (unclear).",
+  "why": "reviewer (minor): The draft flag takes 'gudaba stanābhi' as gudabasti + stana. Better: 'gudaba' + 'stanābhi' = gudabasti + nābhi (the Devanagari 'गुदब स्तनाभि' is गुदबस्तिनाभि with the ि lost), and the printed 'nineteen' then works out from this book's own units without any 'stana' marma: guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35, four a side) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46) = 19; with stana it would exceed 19. So the firm rendering 'stana' in the translations is probably wrong; hedge it, flag it, note the count. Not adopted as a reading (damaged print)."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "फिर पाँच प्रकार से: गुदब जो अस्पष्ट है, स्तन, नाभि, हृदय, मातृका, शङ्ख, शृङ्गाटक और अधिपति: उन्नीस जो तत्काल प्राण हर लेते हैं; आग्नेय होने से उनका समय समरात्र जो अस्पष्ट शब्द है, उसके भीतर।",
+  "new": "फिर पाँच प्रकार से: गुदब जो अस्पष्ट है, स्तन जिसका पाठ सन्दिग्ध है, नाभि, हृदय, मातृका, शङ्ख, शृङ्गाटक और अधिपति: उन्नीस जो तत्काल प्राण हर लेते हैं; आग्नेय होने से उनका समय समरात्र जो अस्पष्ट शब्द है, उसके भीतर।",
+  "why": "reviewer (minor): The draft flag takes 'gudaba stanābhi' as gudabasti + stana. Better: 'gudaba' + 'stanābhi' = gudabasti + nābhi (the Devanagari 'गुदब स्तनाभि' is गुदबस्तिनाभि with the ि lost), and the printed 'nineteen' then works out from this book's own units without any 'stana' marma: guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35, four a side) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46) = 19; with stana it would exceed 19. So the firm rendering 'stana' in the translations is probably wrong; hedge it, flag it, note the count. Not adopted as a reading (damaged print)."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "The first word of the list is damaged: kept unsplit as 'gudaba', glossed unclear, and left untranslated; the conjecture (guda and basti) is given only in the flag. The count 'nineteen' is as printed and the reader cannot check it against the damaged list. 'punaś ca pañcadhā' opens a second fivefold division (by effect on life); the five kinds are the headings of 62, 63, 65, 67 and 70 (this is an observation of the layout, not stated in this unit). 'samarātra' is not a known word and is left unclear in both translations; it may be a misprint of saptarātra ('seven nights', pta/ma confusion), which would suit the sequence with 'within a fortnight' in 63 (possible only; no sense is adopted). 'āgneya' = of Agni (fire).",
+  "new": "The first word of the list is damaged: kept unsplit as 'gudaba', glossed unclear, and left untranslated; the conjecture (guda and basti) is given only in the flag. The count 'nineteen' is as printed and the reader cannot check it against the damaged list. 'punaś ca pañcadhā' opens a second fivefold division (by effect on life); the five kinds are the headings of 62, 63, 65, 67 and 70 (this is an observation of the layout, not stated in this unit). 'samarātra' is not a known word and is left unclear in both translations; it may be a misprint of saptarātra ('seven nights', pta/ma confusion), which would suit the sequence with 'within a fortnight' in 63 (possible only; no sense is adopted). 'āgneya' = of Agni (fire). COUNT CHECK (observation, from this book's own units): nineteen = guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46). So the damaged start 'gudaba stanābhi' probably hides gudabasti and nābhi, and 'stana' is probably not a marma here; the printed text is kept and not corrected.",
+  "why": "reviewer (minor): The draft flag takes 'gudaba stanābhi' as gudabasti + stana. Better: 'gudaba' + 'stanābhi' = gudabasti + nābhi (the Devanagari 'गुदब स्तनाभि' is गुदबस्तिनाभि with the ि lost), and the printed 'nineteen' then works out from this book's own units without any 'stana' marma: guda 1 (u18) + basti 1 (u19) + nābhi 1 (u21) + hṛdaya 1 (u22) + mātṛkā 8 (u35, four a side) + śaṅkha 2 (u40) + śṛṅgāṭaka 4 (u45) + adhipati 1 (u46) = 19; with stana it would exceed 19. So the firm rendering 'stana' in the translations is probably wrong; hedge it, flag it, note the count. Not adopted as a reading (damaged print)."
+ },
+ {
+  "n": "63",
+  "field": "notes",
+  "old": "'kālāntara' = after an interval of time. The print splits the list across two tokens at 'nitamba' / 'pārśvasandhi'. The count 'thirty-three' is as printed. 'saumya' = of Soma, soft, cool (the contrast with āgneya, fiery). Verbless, no verb supplied. 'vakṣomarma' is kept as printed.",
+  "new": "'kālāntara' = after an interval of time. The print splits the list across two tokens at 'nitamba' / 'pārśvasandhi'. The count 'thirty-three' is as printed. 'saumya' = of Soma, soft, cool (the contrast with āgneya, fiery). Verbless, no verb supplied. 'vakṣomarma' is kept as printed. COUNT CHECK (observation, from this book's own units): the named marmas give talahṛdaya 4 + kṣipra 4 + indrabasti 4 + kaṭīkataruṇa 2 + nitamba 2 + pārśvasandhi 2 + bṛhatī 2 + sīmanta 5 = 25; the chest marmas of units 23-26 (stanamūla, stanarohita, apastambha, apālāpa, two each) make 8, giving exactly the printed thirty-three. So 'vakṣomarma' may be genuine, a collective 'chest marmas', and the flag may be unnecessary; kept as printed and left open.",
+  "why": "reviewer (minor): The flag says 'vakṣomarma' sits oddly and a name may be lost. The count suggests it is genuine as a collective 'chest marmas': the named ones give talahṛdaya 4 + kṣipra 4 + indrabasti 4 + kaṭīkataruṇa 2 + nitamba 2 + pārśvasandhi 2 + bṛhatī 2 + sīmanta 5 (u44) = 25, and the four chest marmas of units 23-26 (stanamūla, stanarohita, apastambha, apālāpa, two each) = 8 give exactly the printed thirty-three. Not adopted (kept as printed, 'reading doubtful' stays); recorded for the owner."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "तलहृदय, क्षिप्र, इन्द्रबस्ति, वक्षोमर्म जिसका पाठ सन्दिग्ध है, कटीकतरुण, नितम्ब, पार्श्वसन्धि, बृहती और सीमन्त: तैंतीस जो कुछ अन्तर के बाद प्राण हरते हैं; सौम्य और आग्नेय होने से उनका समय पक्ष के भीतर।",
+  "new": "तलहृदय, क्षिप्र, इन्द्रबस्ति, वक्षोमर्म जिसका पाठ सन्दिग्ध है, कटीकतरुण, नितम्ब, पार्श्वसन्धि, बृहती और सीमन्त: तैंतीस जो कालान्तर में प्राण हरते हैं; सौम्य और आग्नेय होने से उनका समय पक्ष के भीतर।",
+  "why": "reviewer (minor): 'कुछ' is added; kālāntara = after a lapse/interval of time."
+ },
+ {
+  "n": "67",
+  "field": "word.gloss",
+  "word": "kūrparāṇi",
+  "old": "kūrpara (marma name)",
+  "new": "kūrpara (marma name; elbow, standard); āṇi (marma name)",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "word.gram",
+  "word": "kūrparāṇi",
+  "old": "n. nom. pl.",
+  "new": "marma names",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "word.w",
+  "word": "kūrparāṇi",
+  "old": "kūrparāṇi",
+  "new": "kūrpara-āṇi",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "english",
+  "old": "Kūrca, jānu, kūrpara, urvī, lohitākhya, viṭapa, kakṣādhara, kukundara, aṃsaphalaka, nīlā, manyā (on a conjectural reading), kṛkāṭikā, vidhura, phaṇa, apāṅga and āvarta: forty-four that cause impairment (vaikalya), because of their saumya (soft, of Soma) nature.",
+  "new": "Kūrca, jānu, kūrpara, āṇi, urvī, lohitākhya, viṭapa, kakṣādhara, kukundara, aṃsaphalaka, nīlā, manyā (on a conjectural reading), kṛkāṭikā, vidhura, phaṇa, apāṅga and āvarta: forty-four that cause impairment (vaikalya), because of their saumya (soft, of Soma) nature.",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "कूर्च, जानु, कूर्पर, उर्वी, लोहिताख्य, विटप, कक्षाधर, कुकुन्दर, अंसफलक, नीला, अनुमानित पाठ पर मन्या, कृकाटिका, विधुर, फण, अपाङ्ग और आवर्त: चवालीस जो विकलता करने वाले हैं, सौम्य होने से।",
+  "new": "कूर्च, जानु, कूर्पर, आणि, उर्वी, लोहिताख्य, विटप, कक्षाधर, कुकुन्दर, अंसफलक, नीला, अनुमानित पाठ पर मन्या, कृकाटिका, विधुर, फण, अपाङ्ग और आवर्त: चवालीस जो विकलता करने वाले हैं, सौम्य होने से।",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "notes",
+  "old": "Printed 'kūrcca' (double c) is normalised to kūrca (orthographic, as in 59); recorded once, no flag. The long run-together token is split by name and the join of 'catuścatvāriṃśad-vaikalya-' follows the print. 'vaikalya' = impairment, defect of a limb or organ; the exact modern equivalent (deformity, disability) is not stated. The count 'forty-four' is as printed. The emended manyā is conjectural and marked so in both translations.",
+  "new": "Printed 'kūrcca' (double c) is normalised to kūrca (orthographic, as in 59); recorded once, no flag. The long run-together token is split by name and the join of 'catuścatvāriṃśad-vaikalya-' follows the print. 'vaikalya' = impairment, defect of a limb or organ; the exact modern equivalent (deformity, disability) is not stated. The count 'forty-four' is as printed. The emended manyā is conjectural and marked so in both translations. 'kūrparāṇyurvī' is read as kūrpara + āṇi + urvī (āṇi is the marma of u11). COUNT CHECK (observation): the printed names then give 42 (kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2); the printed forty-four needs aṃsa (2) as well, which may be hidden in 'kukuṃdarāṃsaphalaka' (a lost repeated aṃsa); left as printed, open.",
+  "why": "reviewer (error): Same as u59: 'kūrparāṇyurvī' is kūrpara + āṇi + urvī (āṇi + u > āṇy u), not kūrpara with a neuter ending. With āṇi (4) the list gives kūrca 4, jānu 2, kūrpara 2, āṇi 4, urvī 4, lohitākhya 4, viṭapa 2, kakṣādhara 2, kukundara 2, aṃsaphalaka 2, nīlā 2, manyā 2, kṛkāṭikā 2, vidhura 2, phaṇa 2, apāṅga 2, āvarta 2 = 42. The printed forty-four is reached only if aṃsa (2) also stands in the list: 'kukuṃdarāṃsaphalaka' may hide kukundara + aṃsa + aṃsaphalaka with one aṃsa lost by haplography. Left as printed (OPEN)."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "कूर्च, जानु, कूर्पर, आणि, उर्वी, लोहिताख्य, विटप, कक्षाधर, कुकुन्दर, अंसफलक, नीला, अनुमानित पाठ पर मन्या, कृकाटिका, विधुर, फण, अपाङ्ग और आवर्त: चवालीस जो विकलता करने वाले हैं, सौम्य होने से।",
+  "new": "कूर्च, जानु, कूर्पर, आणि, उर्वी, लोहिताख्य, विटप, कक्षाधर, कुकुन्दर, अंसफलक, नीला, अनुमानित पाठ पर मन्या, कृकाटिका, विधुर, फण, अपाङ्ग और आवर्त: चवालीस जो वैकल्य यानी अपूर्णता करने वाले हैं, सौम्य होने से।",
+  "why": "reviewer (minor): 'विकलता' in Hindi means restlessness/distress; vaikalya here is defect or incompleteness."
+ },
+ {
+  "n": "72",
+  "field": "text_flags.0.suggest",
+  "old": "prāṇān avalambata ityuktaṃ",
+  "new": "prāṇān avalambate ityuktaṃ",
+  "why": "reviewer (minor): Inconsistency: `words` have avalambate (3 sg. pres. mid.), the flag and note suggest avalambata (an imperfect form). The reading needs three small corrections (lost a-, -ta for -te, ha for i); make flag and note agree with `words`."
+ },
+ {
+  "n": "72",
+  "field": "text_flags.0.why",
+  "old": "possible: 'valaṃbata' is not a form; the verb avalambate/avalambata (supports) with a lost initial a fits 68 (Soma sustains the life-breaths), and 'ha' for 'i' in 'ityuktaṃ' is a plausible OCR error",
+  "new": "possible: 'valaṃbata' is not a form; the verb avalambate (supports) with a lost initial a (and -ta for -te) fits 68 (Soma sustains the life-breaths), and 'ha' for 'i' in 'ityuktaṃ' is a plausible OCR error",
+  "why": "reviewer (minor): Inconsistency: `words` have avalambate (3 sg. pres. mid.), the flag and note suggest avalambata (an imperfect form). The reading needs three small corrections (lost a-, -ta for -te, ha for i); make flag and note agree with `words`."
+ },
+ {
+  "n": "72",
+  "field": "notes",
+  "old": "The reading is conjectural: 'valaṃbata' emended to avalambata and 'hatyuktam' to 'ityuktam'; the sense (Soma supports life) agrees with 68. The sandhi 'prāṇān avalambata' would normally give 'prāṇānavalambata'; the print drops the a-, which supports the damage. The unit closes the marma-classification passage.",
+  "new": "The reading is conjectural: 'valaṃbata' emended to avalambate and 'hatyuktam' to 'ityuktam'; the sense (Soma supports life) agrees with 68. The sandhi 'prāṇān avalambata' would normally give 'prāṇānavalambata'; the print drops the a-, which supports the damage. The unit closes the marma-classification passage.",
+  "why": "reviewer (minor): Inconsistency: `words` have avalambate (3 sg. pres. mid.), the flag and note suggest avalambata (an imperfect form). The reading needs three small corrections (lost a-, -ta for -te, ha for i); make flag and note agree with `words`."
+ }
+]

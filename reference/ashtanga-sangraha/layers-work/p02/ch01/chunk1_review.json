@@ -1,0 +1,1218 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अब इसके बाद",
+     "problem": "ataḥ means \"therefore\"; \"इसके बाद\" means \"after this\" and mistranslates it (English has \"therefore\")",
+     "fix": "अब इसलिए हम",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अब इसके बाद हम",
+      "new": "अब इसलिए हम"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसी कन्या से विवाह करे ... वह उसे ब्याहे",
+     "problem": "Hindi adds \"ऐसी\" (no \"such\" in the Sanskrit) and renders the verb twice (विवाह करे ... ब्याहे) with a split object; the Sanskrit has one object kanyām and one verb udvahet at the end",
+     "fix": "Rewrite with one object and one verb (kanyām ... udvahet)",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "अब इक्कीस वर्ष का पुरुष असमान गोत्र की, असमान वंश की, ऐसे कुल में उत्पन्न जिसमें रोग संचारी नहीं है, रूप, शील और लक्षणों से सम्पन्न, न्यून न होने वाली, जिसके दाँत, होंठ, कान, नख, केश और स्तन नष्ट न हुए हों, जिसकी प्रकृति कोमल और रोगरहित हो, जो न कपिला हो न पिंगला, जिसके अंग न हीन हों न अधिक, जो लगभग बारह वर्ष की हो, जो देवता, सर्प, नदी, चल वस्तु, वृक्ष, पक्षी, नक्षत्र तथा अन्य न देखने योग्य और भयानक वस्तुओं के नाम धारण न करती हो, निर्दोष और निन्दा से रहित कन्या को निन्दारहित विधि से ब्याहे।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whose constitution (prakṛti) is gentle and free of disease",
+     "problem": "The translation commits to the conjectural emendation mṛdv-aroga-prakṛtim; the printed mṛdumarogāprakṛtim could also be mṛdum arogām prakṛtim (same sense), so the sense is safe but the reading is uncertain and not hedged in the translation",
+     "fix": "Owner may add \"on a conjectural reading\"; sense is the same on both parses",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "cala / amara",
+     "problem": "\"cala\" (moving things) could be a corruption of a different word and \"amara\" is rendered \"immortals\" in English but \"देवता\" in Hindi (interpretive); both renderings are acceptable but not identical",
+     "fix": "Owner to decide whether Hindi should say अमर",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may reach destruction in the womb itself",
+     "problem": "Translation adopts the conjectural kukṣisthaḥ for the printed kukṣisya without marking it in the translation (glossary: conjecture adopted in a translation must be marked there)",
+     "fix": "Mark in English and Hindi",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "8",
+       "op": "replace",
+       "field": "english",
+       "old": "may reach destruction in the womb itself,",
+       "new": "may reach destruction in the womb itself (kukṣisthaḥ, on a conjectural reading of the printed kukṣisya),"
+      },
+      {
+       "n": "8",
+       "op": "replace",
+       "field": "hindi",
+       "old": "कोख में ही नाश को प्राप्त हो जाए",
+       "new": "कोख में ही, अनुमानित पाठ पर, नाश को प्राप्त हो जाए"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "ūna-ṣoḍaśa-varṣīyām āhitaḥ",
+     "problem": "Accusative with āhita (normally locative); read as \"placed in one of under sixteen\". Not an error but worth the owner knowing",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुरुष का प्रजनन द्रव",
+     "problem": "Hindi adds \"पुरुष का प्रजनन द्रव\" (\"the male reproductive fluid\"), not in the Sanskrit; śukra is glossed adequately by \"शुक्र यानी वीर्य\"",
+     "fix": "शुक्र यानी वीर्य नाम पाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुक्र यानी वीर्य, पुरुष का प्रजनन द्रव, नाम पाता है",
+      "new": "शुक्र यानी वीर्य नाम पाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संप्रहनन",
+     "problem": "Hindi misspells saṃprahana (printed संप्रहनेन, stem संप्रहन) as संप्रहनन",
+     "fix": "संप्रहन",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हर्ष से और संप्रहनन से प्रेरित",
+      "new": "हर्ष से, संप्रहन यानी आपस में टकराने से, प्रेरित"
+     }
+    },
+    {
+     "field": "english",
+     "where": "excitement and by saṃprahana",
+     "problem": "An \"and\" is supplied between harṣodīritam and saṃprahanena; the Sanskrit lists the causes without a conjunction",
+     "fix": "excitement, by saṃprahana",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "excitement and by saṃprahana",
+      "new": "excitement, by saṃprahana"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुक्रधरा कला",
+     "problem": "Hindi has bare \"कला\" (reads as \"art\") while English glosses kalā as a membranous layer; doctrinal term needs the plain gloss in Hindi too",
+     "fix": "कला यानी झिल्लीदार परत",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुक्रधरा कला का आश्रय",
+      "new": "शुक्रधरा कला यानी झिल्लीदार परत का आश्रय"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tatu / kṣīrahava / sarpirikṣurasahava",
+     "problem": "Restorations tat tu, kṣīre iva, sarpiḥ ikṣurase iva are plausible and match the standard simile (ghee in milk, jaggery in cane juice); ha for i is a repeated print confusion. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "garbhakoṣṭha (womb)",
+     "problem": "Draft tags womb as probable in notes but states it flatly in both translations (Hindi gives no gloss at all)",
+     "fix": "hedge in both",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "11",
+       "op": "replace",
+       "field": "english",
+       "old": "garbhakoṣṭha (womb)",
+       "new": "garbhakoṣṭha (probably the womb)"
+      },
+      {
+       "n": "11",
+       "op": "replace",
+       "field": "hindi",
+       "old": "गर्भकोष्ठ को प्राप्त",
+       "new": "गर्भकोष्ठ यानी सम्भवतः गर्भाशय को प्राप्त"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "asṛgdara (excessive menstrual bleeding), pradara (...)",
+     "problem": "Probable identifications stated without hedge in the translation; Hindi gives none",
+     "fix": "hedge, add Hindi gloss",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "english",
+       "old": "asṛgdara (excessive menstrual bleeding), pradara (abnormal vaginal discharge or bleeding)",
+       "new": "asṛgdara (probably excessive menstrual bleeding), pradara (probably abnormal vaginal discharge or bleeding)"
+      },
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वही असृग्दर, प्रदर और व्यापद तथा रक्तयोनि नाम पाता है",
+       "new": "वही असृग्दर यानी सम्भवतः अधिक रजःस्राव, प्रदर यानी सम्भवतः योनि से असामान्य स्राव और व्यापद यानी विकार तथा रक्तयोनि नाम पाता है"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "asṛgdaram, pradaram: \"n.\"",
+     "problem": "Both nouns are masculine in the dictionaries (asṛgdara, pradara); gender uncertain at best, so drop the label",
+     "fix": "acc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "12",
+       "op": "word",
+       "match_w": "asṛgdaram",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "12",
+       "op": "word",
+       "match_w": "pradaram",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "obtains the names asṛgdara ... and vyāpad",
+     "problem": "English supplies \"the names\" for the first three accusatives; only raktayoni carries saṃjñā in the Sanskrit. Both parses possible; owner to decide literal wording",
+     "fix": "\"obtains asṛgdara, pradara and vyāpad, and the name raktayoni\" is the strictly literal order",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "raktapitta (a bleeding disorder)",
+     "problem": "Notes tag this probable; translation states it flatly",
+     "fix": "hedge",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "english",
+       "old": "raktapitta (a bleeding disorder)",
+       "new": "raktapitta (probably a bleeding disorder)"
+      },
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "hindi",
+       "old": "रक्तपित्त की चिकित्सा",
+       "new": "रक्तपित्त यानी सम्भवतः रक्तस्राव वाले विकार की चिकित्सा"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-kapha-āvṛta-mārgāṇām \"m.\"; vātalāni \"n.\"",
+     "problem": "Unstated nouns: the bahuvrīhi qualifies women (strīṇām, f.) and vātalāni has no noun; glossary: case and number only, no gender",
+     "fix": "drop gender",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "vāta-kapha-āvṛta-mārgāṇām",
+       "field": "gram",
+       "value": "bahuvrīhi, gen. pl."
+      },
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "vātalāni",
+       "field": "gram",
+       "value": "acc. pl."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "वात बढ़ाने वाले का सेवन",
+     "problem": "Singular where Sanskrit vātalāni is plural",
+     "fix": "वात बढ़ाने वालों का सेवन",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात बढ़ाने वाले का सेवन",
+      "new": "वात बढ़ाने वालों का सेवन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "garbhā (f. nom. sg.) vs \"in a pregnant (woman)\"",
+     "problem": "Grammar and translation disagree: garbhā is given as nominative, the English renders a locative (\"in a pregnant woman\"). A nominative would read \"the pregnant woman herself has/gets vātodara\". Alternatives garbhe eva / garbha eva (the embryo itself) remain open; decision for the owner",
+     "fix": "Decide the case; keep low confidence",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "vātodara (Vāta-belly: abdominal swelling from Vāta)",
+     "problem": "Tagged probable in notes but stated flatly",
+     "fix": "hedge",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "english",
+       "old": "abdominal swelling from Vāta)",
+       "new": "probably abdominal swelling from Vāta)"
+      },
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वातोदर यानी वात से पेट का फूलना",
+       "new": "वातोदर यानी सम्भवतः वात से पेट का फूलना"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "vāta-aupaśamanaiḥ \"n.\"",
+     "problem": "Unstated noun; no gender",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "vāta-aupaśamanaiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "free of complications, as if",
+     "problem": "eva after anupadravam is dropped in English (Hindi has ही)",
+     "fix": "free of complications indeed, as if",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "free of complications, as if",
+      "new": "free of complications indeed, as if"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बृंहण स्वभाव वाले",
+     "problem": "Doctrinal term bṛṃhaṇa has an English gloss but none in Hindi",
+     "fix": "बृंहण यानी पुष्टि करने वाले स्वभाव के",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृंहण स्वभाव वाले",
+      "new": "बृंहण यानी पुष्टि करने वाले स्वभाव के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viparītaiḥ \"n.\"",
+     "problem": "Unstated noun; no gender",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "viparītaiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ओज का अपहरण",
+     "problem": "Doctrinal term ojas glossed in English, bare in Hindi",
+     "fix": "ओज यानी जीवन-सार का अपहरण",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ओज का अपहरण",
+      "new": "ओज यानी जीवन-सार का अपहरण"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Continues unit 18 (yasmāt gives the reason for \"bhūtahṛtam\")",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "append_note",
+      "text": "GROUPING: appears to continue the argument of unit 18 (yasmāt gives the reason)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pravṛtte rupalabdhirna",
+     "problem": "The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual",
+     "fix": "Read pravṛtteḥ (f. gen. sg.) and upalabdhiḥ na; no stray-r typo",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "pravṛtte",
+       "field": "gloss",
+       "value": "of the activity"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "pravṛtte",
+       "field": "gram",
+       "value": "f. gen. sg."
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "pravṛtte",
+       "field": "w",
+       "value": "pravṛtteḥ"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "icchā-śaktayoḥ",
+       "field": "gram",
+       "value": "dvandva, f. gen. du."
+      },
+      {
+       "n": "20",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "rupalabdhirna",
+         "suggest": "upalabdhir na",
+         "why": "print spacing: the initial r is the visarga of the preceding word (pravṛtter upalabdhir na)"
+        },
+        {
+         "src": "pravṛtte",
+         "suggest": "pravṛtteḥ",
+         "why": "possible: its visarga (r) stands at the start of the next printed token"
+        }
+       ]
+      },
+      {
+       "n": "20",
+       "op": "set",
+       "field": "english",
+       "value": "For there is no perception of the activity of desire and power, and the removal of anyone's body by humans is not seen."
+      },
+      {
+       "n": "20",
+       "op": "set",
+       "field": "hindi",
+       "value": "क्योंकि इच्छा और शक्ति की प्रवृत्ति की उपलब्धि नहीं होती, और किसी के देह का मनुष्यों द्वारा अपहरण नहीं देखा जाता।"
+      },
+      {
+       "n": "20",
+       "op": "set",
+       "field": "notes",
+       "value": "Reading adopted on a print-spacing correction: the printed 'pravṛtte rupalabdhirna' is pravṛtter upalabdhir na (the r is the visarga of pravṛtteḥ, displaced across the space, as in unit 5); the earlier locative-dual-absolute reading is dropped. 'icchā-śaktayoḥ' is then a genitive dual dependent on pravṛtteḥ. The argument (demons act by will and power unseen; no human removal of a body is seen) is not firm, hence low confidence. GROUPING: appears to continue unit 19 (hi)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तब कैसे भला अनुमानित पाठ पर उसकी माताओं की उपेक्षा करेंगे",
+     "problem": "Hindi drops the unclear word prāptaviśarāḥ altogether, while English keeps it with \"unclear\"; glossary: Hindi unclear mark must match English",
+     "fix": "include the word and mark it unclear",
+     "severity": "error",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तब कैसे भला अनुमानित पाठ पर उसकी माताओं की उपेक्षा करेंगे",
+      "new": "तब कैसे भला प्राप्तविशराः, जो अस्पष्ट शब्द है, अनुमानित पाठ पर, उसकी माताओं की उपेक्षा करेंगे"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्क्षेप",
+     "problem": "उत्क्षेप (throwing up) is a different word from ākṣepa; English says \"casting off\"",
+     "fix": "गर्भ के शरीर को फेंकने में",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर्भ के शरीर के उत्क्षेप में",
+      "new": "गर्भ के शरीर को फेंकने में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Continues units 19-20 (the same argument about demons)",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "GROUPING: appears to continue the argument of units 19-20."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "lac-juice",
+     "problem": "Sanskrit term lākṣā not kept in the translation (policy: Sanskrit name beside the identification)",
+     "fix": "lākṣā (lac) juice",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "english",
+       "old": "hare's blood and lac-juice",
+       "new": "hare's blood and lākṣā (lac) juice"
+      },
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "hindi",
+       "old": "लाख के रस",
+       "new": "लाक्षा यानी लाख के रस"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और सत्तर वर्ष",
+     "problem": "English says \"or\", Hindi \"और\" (and); no man is under sixteen and over seventy. Unit 24 English uses \"and\". Make all four \"or\"",
+     "fix": "या",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सोलह वर्ष से कम और सत्तर वर्ष से अधिक बीते हुए",
+      "new": "सोलह वर्ष से कम या सत्तर वर्ष से अधिक बीते हुए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and past fifty years ... thus",
+     "problem": "\"and\" should be \"or\" as in unit 23; closing iti belongs in notes, not the translation (glossary)",
+     "fix": "drop \"thus\", \"or\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "24",
+       "op": "replace",
+       "field": "english",
+       "old": "less than twelve and past fifty years, the rajas (menses), breast milk (stanya) and the rest, thus.",
+       "new": "less than twelve or past fifty years, the rajas (menses), breast milk (stanya) and the rest."
+      },
+      {
+       "n": "24",
+       "op": "replace",
+       "field": "hindi",
+       "old": "बारह वर्ष से कम तथा पचास वर्ष से अधिक बीते हुए वर्षों वाली स्त्री के रजस्, स्तन्य आदि, ऐसा।",
+       "new": "बारह वर्ष से कम या पचास वर्ष से अधिक बीते हुए वर्षों वाली स्त्री के रजस्, स्तन्य आदि।"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "yoṣit nom. vs genitive translation",
+     "problem": "yoṣit is glossed nominative but both translations render \"of a woman\" (genitive). Printed form kept; owner may prefer yoṣitaḥ as a typo flag",
+     "fix": "Add a flag or keep as is",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Completes the sentence of unit 23 (na upalabhyante carried; closing iti)",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "append_note",
+      "text": "GROUPING: appears to complete the statement of unit 23."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "having been oleated, and as prescribed having been cleansed",
+     "problem": "The absolutives upasnehya and saṃśodhya are active (\"having oleated\", \"having cleansed\"), with mithunam as object; English makes them passive and leaves \"one\" as subject dangling",
+     "fix": "rewrite",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "english",
+      "value": "Then, having oleated a couple whose semen (śukra) and ārtava are pure, who are free of disease and mutually attached, and having cleansed them as prescribed, one should treat them with āsthāpana (decoction enema) and anuvāsana (oil enema)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आस्थापन और अनुवासन से",
+     "problem": "Hindi has no gloss for the two enema names (English has)",
+     "fix": "आस्थापन यानी काढ़े की वस्ति और अनुवासन यानी तेल की वस्ति से",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आस्थापन और अनुवासन से",
+      "new": "आस्थापन यानी काढ़े की वस्ति और अनुवासन यानी तेल की वस्ति से"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "upasnehya",
+     "problem": "The absolutive of snih with upa is causative (snehayati, \"oleate\")",
+     "fix": "abs. (caus.) upa-√snih",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "upasnehya",
+      "field": "gram",
+      "value": "abs. (caus.) upa-√snih"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pittalaiḥ \"m.\"",
+     "problem": "Agrees with māṃsaiḥ, and māṃsa is neuter (draft itself has n. for māṃsaiḥ)",
+     "fix": "n. inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "pittalaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Continues unit 25 (upācaret carried)",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "append_note",
+      "text": "GROUPING: appears to continue unit 25."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āpyāyate \"pass.\"",
+     "problem": "ā-pyāyate is the ātmanepada present of √pyāy (intransitive, \"swells, grows\"); the passive would be āpyāyyate",
+     "fix": "3 sg. pres. ā. ā-√pyāy",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "āpyāyate",
+      "field": "gram",
+      "value": "3 sg. pres. ā. ā-√pyāy"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "wasted, urine and faeces",
+     "problem": "The notes say mūtra-purīṣa is ONE member (eight kinds, matching units 29-37), but the English list reads as two items",
+     "fix": "urine-and-faeces",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "wasted, urine and faeces, however,",
+      "new": "wasted, urine-and-faeces, however,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रेत",
+     "problem": "Bare रेत reads as \"sand\" in Hindi; retas is semen",
+     "fix": "रेतस् यानी वीर्य",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूत्र-पुरीष वाले रेत तो बीजहीन",
+      "new": "मूत्र-पुरीष वाले रेतस् यानी वीर्य तो बीजहीन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "tanu",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "rūkṣam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "phenilam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "aruṇam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "alpam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "sa-rujam",
+       "field": "gram",
+       "value": "bahuvrīhi, nom. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "pītam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "apicchilam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "30",
+       "op": "word",
+       "match_w": "nīlam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    },
+    {
+     "field": "confidence",
+     "where": "dahadviṣa",
+     "problem": "Agree: low confidence, unsplit and \"unclear\" is the correct handling; flag fine",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "majja-upasaṃsṛṣṭam",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "prabhūtam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "and it sinks somewhat in water",
+     "problem": "The second ca (cāmbhasi ca) is not rendered; \"bound and, in water too, sinks somewhat\" is possible. Also the reading \"sinks in water\" is the kapha sign; the sense is as printed",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "32",
+       "op": "word",
+       "match_w": "kuṇapa-gandhi",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "32",
+       "op": "word",
+       "match_w": "alpam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "33",
+       "op": "word",
+       "match_w": "granthi-bhūtam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "pūti-pūya-nibham",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vāta-pittābhyām \"m.\"",
+     "problem": "A dvandva takes the gender of its last member; pitta is neuter (units 33/34 end in śleṣman, m., and are fine)",
+     "fix": "n. inst. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "vāta-pittābhyām",
+      "field": "gram",
+      "value": "n. inst. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "neuter adjectives",
+     "problem": "Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n.",
+     "fix": "drop \"n.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "mūtra-purīṣa-gandhi",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "सन्निपात के कारण",
+     "problem": "Hindi सन्निपात alone commonly means a delirious fever; English glosses it as the three doṣas together",
+     "fix": "सन्निपात यानी तीनों दोषों के एक साथ होने के कारण",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सन्निपात के कारण।",
+      "new": "सन्निपात यानी तीनों दोषों के एक साथ होने के कारण।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tasya \"m.\"",
+     "problem": "Refers to the neuter ārtava; form is gender-neutral",
+     "fix": "gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gram",
+      "value": "gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "teṣu \"m.\"",
+     "problem": "Refers to the neuter retāṃsi/kinds",
+     "fix": "loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "teṣu",
+      "field": "gram",
+      "value": "loc. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रेत",
+     "problem": "Bare रेत reads as \"sand\"",
+     "fix": "रेतस् यानी वीर्य",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षीण रेत कठिनाई",
+      "new": "क्षीण रेतस् यानी वीर्य कठिनाई"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "साधे",
+     "problem": "\"साधे\" (from साधना, to practise/master) is not natural for sādhayet; English \"should treat\"",
+     "fix": "उपचार करे",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने दोष के साधन से साधे।",
+      "new": "अपने दोष के साधन से उपचार करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Independent review of p02/ch01 units 1-43: 10 errors, 48 minor. Main errors: u20 misplaced printed space (pravṛtter upalabdhir na), u21 Hindi drops the unclear word, u8 unmarked conjecture (kukṣisthaḥ), u3 Hindi ataḥ, u5 Hindi added/duplicated verb, u10 Hindi saṃprahana, u12/u15 unhedged probable identifications, u28/u40 Hindi रेत. Many minor: unstated-noun gram genders, missing Hindi glosses of doctrinal terms, iti/or consistency. GROUPING: 23-24 one statement; 25-26; 28-37 one run; 19-21 one argument; 42-43. No identification judged wrong, only unhedged. Human decisions: u15, u8, u21, u30, u5, u12.",
+ "glossary_suggestions": [
+  "A misplaced printed space can move a final r, m or visarga to the start of the next token (u5 aniṃdyā maniṃdyena; u12 vātadevā sṛgdaram; u20 pravṛtte rupalabdhirna = pravṛtter upalabdhir na). Check this before proposing a stray-letter typo.",
+  "A dvandva takes the gender of its last member (vāta-pitta n.; pitta-śleṣman m.); but adjectives for an unstated noun carry no gender in gram (u14, 15, 18, 29-37).",
+  "Hindi retas = रेतस् यानी वीर्य (bare रेत means sand). Hindi सन्निपात needs the gloss तीनों दोषों का एक साथ होना.",
+  "Hindi saṃprahana = संप्रहन (not संप्रहनन); Hindi kalā needs 'झिल्लीदार परत'; ojas = ओज यानी जीवन-सार; bṛṃhaṇa = बृंहण यानी पुष्टि करने वाला.",
+  "asṛgdara, pradara: masculine nouns; probable identifications must be hedged ('probably') in both translations; garbhakoṣṭha = probably the womb; vātodara = probably abdominal swelling from Vāta.",
+  "Age bounds written as one compound (ūna-X ... atīta-Y) are rendered 'or' in both languages and both sexes (u23, u24).",
+  "Absolutives of caus. verbs (upasnehya, saṃśodhya) are active: 'having oleated / cleansed (them)'.",
+  "Open for the owner: u15 garbhaiva (case/alternatives), u8 śukrārtavahati, u21 prāptaviśarāḥ, u30 dahadviṣa, u5 mṛdumarogā- parse, u12 whether 'names' governs all four accusatives."
+ ]
+}

@@ -1,0 +1,146 @@
+[
+ {
+  "n": "179",
+  "field": "word.gram",
+  "word": "uttara-adhareṣu",
+  "old": "dvandva, m. loc. pl.",
+  "new": "dvandva, loc. pl.",
+  "why": "reviewer (minor): gram says m. but the adjectives agree with the neuter daṃtamāṃseṣu (own notes say so)"
+ },
+ {
+  "n": "181",
+  "field": "hindi",
+  "old": "उनमें अंगों और सन्धियों में रहने वाले प्रतानयुक्त यानी लता की शाखाओं या तन्तुओं वाले हैं।",
+  "new": "उनमें शाखाओं यानी हाथ-पैरों और सन्धियों में जो हैं, वे प्रतानवत् यानी फैली हुई शाखाओं वाले हैं।",
+  "why": "reviewer (minor): Hindi brings in a creeper (लता) that the note says is not added; शाखा rendered अंगों here but शाखाओं यानी हाथ-पैरों at u189; clumsy syntax"
+ },
+ {
+  "n": "183",
+  "field": "word.w",
+  "word": "basti-āma-pakva-āśaya-antreṣu",
+  "old": "basti-āma-pakva-āśaya-antreṣu",
+  "new": "basti-āmāśaya-pakvāśaya-antreṣu",
+  "why": "reviewer (minor): splitting āma and pakva as separate dvandva members gives 'raw, cooked, seat' nonsense; the compound is basti + āmāśaya + pakvāśaya (āmapakvāśaya, shared second member) + antra"
+ },
+ {
+  "n": "183",
+  "field": "hindi",
+  "old": "बस्ति यानी मूत्राशय, कच्चे और पके के स्थान यानी आमाशय और पक्वाशय जो सम्भवतः पेट और बड़ी आँत हैं, तथा आँतों में खोखले।",
+  "new": "बस्ति यानी मूत्राशय, कच्चे और पके के स्थान यानी आमाशय और पक्वाशय जो सम्भवतः जठर और बड़ी आँत हैं, तथा आँतों में खोखले।",
+  "why": "reviewer (minor): Hindi पेट is also udara 'belly' (u204 उदर यानी पेट); ambiguous for āmāśaya"
+ },
+ {
+  "n": "186",
+  "field": "hindi",
+  "old": "इसलिए हड्डी, सिरा आदि से भी अधिक उनकी यत्न से रक्षा करनी चाहिए।",
+  "new": "इसलिए हड्डी, सिरा यानी सम्भवतः वाहिनी (नस) आदि से भी अधिक उनकी यत्न से रक्षा करनी चाहिए।",
+  "why": "reviewer (minor): bare सिरा in Hindi also means 'end/tip'; modern equivalent wanted beside the term (hedged as in the word gloss)"
+ },
+ {
+  "n": "196",
+  "field": "hindi",
+  "old": "जंघा यानी घुटने के नीचे की पिंडली में बीस।",
+  "new": "जंघा यानी घुटने के नीचे की टाँग में बीस।",
+  "why": "reviewer (minor): पिंडली = calf only; jaṅghā is the whole leg below the knee; English 'calf' likewise too narrow"
+ },
+ {
+  "n": "196",
+  "field": "english",
+  "old": "Twenty in the jaṅghā (lower leg, calf).",
+  "new": "Twenty in the jaṅghā (lower leg).",
+  "why": "reviewer (minor): पिंडली = calf only; jaṅghā is the whole leg below the knee; English 'calf' likewise too narrow"
+ },
+ {
+  "n": "199",
+  "field": "word.gloss",
+  "word": "meṇḍra-sevanyoḥ",
+  "old": "penis (meṇḍra, variant of meḍhra, standard); sevanī (seam, raphe; probable)",
+  "new": "penis (meḍhra, standard); sevanī (seam, raphe; probable)",
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "199",
+  "field": "word.w",
+  "word": "meṇḍra-sevanyoḥ",
+  "old": "meṇḍra-sevanyoḥ",
+  "new": "meḍhra-sevanyoḥ",
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "199",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "meṃdrasevanyoḥ",
+    "suggest": "meḍhrasevanyoḥ",
+    "why": "possible: 'meṃdra' is not a word; meḍhra (penis) fits the list and ḍha misread as ṃda is plausible (same reading as u168)"
+   }
+  ],
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "199",
+  "field": "hindi",
+  "old": "मेण्ड्र यानी लिंग और सेवनी यानी सम्भवतः सीवन अर्थात् मध्य रेखा में एक-एक।",
+  "new": "मेढ्र यानी लिंग और सेवनी यानी सम्भवतः सीवन अर्थात् मध्य रेखा में एक-एक।",
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "199",
+  "field": "english",
+  "old": "One each in the meṇḍra (penis) and the sevanī (probably the seam, the raphe).",
+  "new": "One each in the meḍhra (penis) and the sevanī (probably the seam, the raphe).",
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "199",
+  "field": "notes",
+  "old": "ELLIPSIS: no noun or verb is printed; the counted item (peśī, introduced in u188) is carried from the preceding units. meṇḍra is kept as printed (also u168); it is a variant of meḍhra. sevanī as the raphe is probable only. The Sanskrit has the dual because two sites are named.",
+  "new": "ELLIPSIS: no noun or verb is printed; the counted item (peśī, introduced in u188) is carried from the preceding units. Printed meṃdra is read meḍhra, as in u168 (flagged there and here). sevanī as the raphe is probable only. The Sanskrit has the dual because two sites are named.",
+  "why": "reviewer (error): Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established."
+ },
+ {
+  "n": "206",
+  "field": "word.gloss",
+  "word": "āmāśaye",
+  "old": "in the stomach (āmāśaya, standard)",
+  "new": "in the stomach (āmāśaya, probable)",
+  "why": "reviewer (minor): āmāśaya tagged 'standard' stomach here but hedged 'probably the stomach' in u183; Hindi पेट clashes with udara=पेट (u204)"
+ },
+ {
+  "n": "206",
+  "field": "english",
+  "old": "Two in the heart (hṛd) and in the stomach (āmāśaya).",
+  "new": "Two in the heart (hṛd) and in the stomach (āmāśaya, probably the stomach).",
+  "why": "reviewer (minor): āmāśaya tagged 'standard' stomach here but hedged 'probably the stomach' in u183; Hindi पेट clashes with udara=पेट (u204)"
+ },
+ {
+  "n": "206",
+  "field": "hindi",
+  "old": "हृदय और आमाशय यानी पेट में दो।",
+  "new": "हृदय और आमाशय यानी सम्भवतः जठर में दो।",
+  "why": "reviewer (minor): āmāśaya tagged 'standard' stomach here but hedged 'probably the stomach' in u183; Hindi पेट clashes with udara=पेट (u204)"
+ },
+ {
+  "n": "207",
+  "field": "text_flags.0.why",
+  "old": "possible: the standard word is uṇḍuka (retroflex ṇḍ); the print has dental nd. Corrected in `words`.",
+  "new": "possible: the standard word is uṇḍuka (retroflex ṇḍ); the print has anusvara plus d (ṃd). Corrected in `words`.",
+  "why": "reviewer (minor): says the print has 'dental nd'; the print has anusvara + d (ṃd)"
+ },
+ {
+  "n": "207",
+  "field": "english",
+  "old": "Six in the liver (yakṛt), the spleen (plīhan) and the uṇḍuka (probably the caecum).",
+  "new": "Six in the liver (yakṛt), the spleen (plīha) and the uṇḍuka (probably the caecum).",
+  "why": "reviewer (minor): compound member is plīha"
+ },
+ {
+  "n": "208",
+  "field": "text_flags.0.why",
+  "old": "missing doubled n: sam-ni-viṣṭa gives sanniviṣṭa (cf. sanniviṣṭāḥ, u195); saniviṣṭa is not a word.",
+  "new": "possible: missing doubled n: sam-ni-viṣṭa gives sanniviṣṭa (cf. sanniviṣṭāḥ, u195); saniviṣṭa is not a word.",
+  "why": "reviewer (minor): only a suspected typo: rule 6 requires 'possible' in why"
+ }
+]

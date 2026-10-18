@@ -1,0 +1,754 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "last clause",
+     "problem": "Ungrammatical English: 'joined with the jīva ... is impelled ... and is swift ..., goes to the womb' (two finite 'is' with a stray 'goes'); the Sanskrit qualifiers svakarma-codita and manojava belong to jīva, the only finite verb is upayāti.",
+     "fix": "which follows the sway of the afflictions (kleśa) beginning with passion, is impelled by its own action and is swift as the mind - goes to the womb",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "and joined with the jīva (the living soul) that follows the sway of the afflictions beginning with passion, is impelled by its own action (karma) and is swift as the mind, goes to the womb.",
+      "new": "and joined with the jīva (the living soul) - which follows the sway of the afflictions beginning with passion, is impelled by its own action (karma) and is swift as the mind - goes to the womb."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'from that very cause'",
+     "problem": "'cause' is not in tataḥ eva (tataḥ = from that / therefore).",
+     "fix": "And for that very reason:",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "And from that very cause:",
+      "new": "And for that very reason:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śukra-ārtave",
+     "problem": "Ending -e of a neuter a-stem is not locative dual (that is -ayoḥ); with bhinne and the locative absolute it is locative singular (dvandva in samāhāra, neuter singular).",
+     "fix": "dvandva (samāhāra), n. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "śukra-ārtave",
+      "field": "gram",
+      "value": "dvandva (samāhāra), n. loc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhinne",
+     "problem": "Same: n. loc. sg., not dual.",
+     "fix": "ppp. √bhid, n. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "bhinne",
+      "field": "gram",
+      "value": "ppp. √bhid, n. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'those having the forms'",
+     "problem": "viyonyākṛtīnām is genitive plural of ākṛti (f.), glossed 'of forms'; 'those having' (bahuvrīhi, persons) is an addition.",
+     "fix": "When vitiated: of the forms of other wombs.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "of those having the forms of other wombs",
+      "new": "of the forms of other wombs"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'आकार वालों की'",
+     "problem": "Same addition (वालों).",
+     "fix": "विकृत होने पर अन्य योनि के आकारों की।",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्य योनि के आकार वालों की",
+      "new": "अन्य योनि के आकारों की"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "athanāryāḥ / spacing flags",
+     "problem": "Spacing flags are applied inconsistently across the chunk: u7, u14, u31, u37 flag run-together words while u2, u4, u5, u15, u33 (also run-together, same print habit) do not, and the u4/u5 notes call it a spacing habit not a typo. Owner to decide whether such spacing needs flags at all.",
+     "fix": "Either drop the four spacing flags or flag all; no patch.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "text_flags.1.src",
+     "problem": "Flag src 'hṛllābhaḥ' is not a printed token or substring (print: hṛllābhastaṃdrā'ṃgasādaḥpraseko).",
+     "fix": "Use the printed token.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "text_flags.1.src",
+      "value": "hṛllābhastaṃdrā'ṃgasādaḥpraseko"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "maharṣo / hṛllābha / hṛdayanpathā",
+     "problem": "Human decision: three adjacent conjectures (praharṣa, hṛllāsa, vyathā) are all translated ('great joy', 'nausea', 'heart-distress'). Hedged as 'on a conjectural reading' and low confidence, which is acceptable, but 'great joy' and 'nausea' are guesses; owner may prefer 'unclear' for the first two.",
+     "fix": "Keep as is or replace with 'unclear' in both languages.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आँख और रोम की सन्तुलनता",
+     "problem": "English marks 'balancing of eye and hair (sense unclear)' but the Hindi gives no 'unclear' mark (glossary: Hindi mark must match English).",
+     "fix": "आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आँख और रोम की सन्तुलनता",
+      "new": "आँख और रोम की सन्तुलनता, जिसका अर्थ अस्पष्ट है,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kukṣimātra-gauravam",
+     "problem": "The adopted correction (kukṣimātragauravam for printed kukṣimātraugauravam) is built into the translation 'heaviness of the belly alone' without the conjectural mark the glossary requires.",
+     "fix": "on a conjectural reading, heaviness of the belly alone",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "heaviness of the belly (kukṣi) alone",
+      "new": "heaviness of the belly (kukṣi) alone, on a conjectural reading"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कुक्षि का ही भारीपन",
+     "problem": "Same, Hindi.",
+     "fix": "अनुमानित पाठ पर कुक्षि का ही भारीपन",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुक्षि का ही भारीपन",
+      "new": "अनुमानित पाठ पर कुक्षि का ही भारीपन"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर क्रम से",
+     "problem": "'tu' is 'but/and', not 'then'; 'फिर' adds sequence (English has 'But gradually').",
+     "fix": "किन्तु क्रम से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर क्रम से",
+      "new": "किन्तु क्रम से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपरा यानी सम्भवतः आँवल",
+     "problem": "Hedged 'probably' here, but siblings (ch02 k2 u61, u66) and the glossary give aparā = placenta without hedge. Hindi आँवल matches siblings. Owner to settle whether the hedge stays (it is justified here only by the difficult line).",
+     "fix": "No patch; decide hedge book-wide.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "jarāyu (the foetal membrane)",
+     "problem": "Hindi hedges 'सम्भवतः', English states it flat although gloss and notes say probable (hedge required in both languages).",
+     "fix": "jarāyu (probably the foetal membrane)",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "Others say: jarāyu (the foetal membrane).",
+      "new": "Others say: jarāyu (probably the foetal membrane)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "text_flags.0.suggest",
+     "problem": "'kaphopaśarañjitaṃ' is an invented form (no upaśa-); only kaphoparañjitaṃ is a real word.",
+     "fix": "kaphoparañjitaṃ",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "text_flags.0.suggest",
+      "value": "kaphoparañjitaṃ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pum / strī / napuṃsakāni",
+     "problem": "puṃstrīnapuṃsakāni is a single dvandva (singular 'pum', 'strī' with plural neuter napuṃsakāni cannot be separate words); the draft splits it into three independent words with 'pum m.', 'strī f.' as if separate. The tool cannot merge words, so only the labels are patched. (u25 treats the same compound as one.)",
+     "fix": "gram shows dvandva membership",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "pum",
+       "field": "gram",
+       "value": "dvandva member (pum-strī-napuṃsakāni)"
+      },
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "strī",
+       "field": "gram",
+       "value": "dvandva member (pum-strī-napuṃsakāni)"
+      },
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "napuṃsakāni",
+       "field": "gram",
+       "value": "dvandva (pum-strī-napuṃsakāni), n. nom. pl."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जंघाएँ",
+     "problem": "Hindi जंघा can read as Sanskrit jaṅghā (shank); sakthi is the thigh (English says thighs). Hindi u22 says 'पैरों' for the same word, inconsistent with u21 and the English.",
+     "fix": "जाँघें",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों सक्थि यानी जंघाएँ",
+      "new": "दोनों सक्थि यानी जाँघें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पैरों आदि",
+     "problem": "Sakthi = thighs (English: 'the thighs and the rest'); 'पैरों' is a different word.",
+     "fix": "जाँघों आदि",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पैरों आदि",
+      "new": "जाँघों आदि"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "केवल",
+     "problem": "'केवल' (only) is not in the Sanskrit (anyatra = except).",
+     "fix": "delete",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "केवल जन्म के बाद",
+      "new": "जन्म के बाद"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "janma-uttara-kāla-jebhyaḥ",
+     "problem": "Adjective agreeing with dantādibhyaḥ (m.), not n.",
+     "fix": "tat-puruṣa, m. abl. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "janma-uttara-kāla-jebhyaḥ",
+      "field": "gram",
+      "value": "tat-puruṣa, m. abl. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sarva-aṅga-avayava-indriyāṇi",
+     "problem": "gram says 'dvandva/tat-puruṣa' while the notes say a series of three terms, not a closed compound.",
+     "fix": "dvandva of aṅga, avayava, indriya with sarva qualifying, n. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "sarva-aṅga-avayava-indriyāṇi",
+      "field": "gram",
+      "value": "dvandva of aṅga, avayava, indriya (sarva qualifies all), n. nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रकृति",
+     "problem": "Doctrinal term without a plain gloss in Hindi (English has one).",
+     "fix": "यह प्रकृति यानी स्वाभाविक अवस्था है।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "यह प्रकृति यानी स्वाभाविक अवस्था है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विकृति",
+     "problem": "Same: no gloss in Hindi.",
+     "fix": "इससे अन्यथा विकृति यानी असामान्य अवस्था है।",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे अन्यथा विकृति यानी असामान्य अवस्था है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "text_flags.0",
+     "problem": "The 'why' says the visarga after anurūpā is missing before eva; but printed 'anurūpā eva' is correct sandhi for anurūpāḥ eva, so nothing is wrong there. The suggestion should be the printed form with only anyatarma -> anyatama.",
+     "fix": "suggest puṃstrīnapuṃsakānyatamaliṅgānurūpā",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "25",
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "puṃstrīnapuṃsakānyatamaliṅgānurūpā"
+      },
+      {
+       "n": "25",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "possible: 'anyatarma' appears to be anyatama ('any one of the three') with an extra r; the final -ā before eva is correct sandhi for -āḥ and is not an error"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "conjectural reading yataḥ",
+     "problem": "The translation builds on the correction yavo -> yataḥ ('from where there is greater abundance') without the conjectural mark required by the glossary; unit is low confidence.",
+     "fix": "On a conjectural reading: but in a mixture of signs, ...",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "But in a mixture of signs",
+      "new": "On a conjectural reading: but in a mixture of signs"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "conjectural reading",
+     "problem": "Same, Hindi.",
+     "fix": "अनुमानित पाठ पर, किन्तु लिंगों के मिश्रण में",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "किन्तु लिंगों के मिश्रण में",
+      "new": "अनुमानित पाठ पर, किन्तु लिंगों के मिश्रण में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नपुंसकता",
+     "problem": "Hindi renders klaibya by नपुंसकता, which collides with napuṃsaka (the third category, u18/u30) and states a modern equivalent unhedged; English keeps 'Klaibya (unmanliness)'.",
+     "fix": "क्लैब्य यानी सम्भवतः नपुंसकता",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नपुंसकता, भीरुता",
+      "new": "क्लैब्य यानी सम्भवतः नपुंसकता, भीरुता"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viparītāḥ",
+     "problem": "Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n.",
+     "fix": "ppp. vi-pari-√i, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "viparītāḥ",
+      "field": "gram",
+      "value": "ppp. vi-pari-√i, nom. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "puṃ-karāḥ",
+     "problem": "Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n.",
+     "fix": "tat-puruṣa, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "puṃ-karāḥ",
+      "field": "gram",
+      "value": "tat-puruṣa, nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saṅkīrṇāḥ",
+     "problem": "Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n.",
+     "fix": "ppp. sam-√kṝ, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "saṅkīrṇāḥ",
+      "field": "gram",
+      "value": "ppp. sam-√kṝ, nom. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "napuṃsaka-karāḥ",
+     "problem": "Adjective standing for the unstated noun (bhāvāḥ understood): glossary says case and number only, never m./n.",
+     "fix": "tat-puruṣa, nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "napuṃsaka-karāḥ",
+      "field": "gram",
+      "value": "tat-puruṣa, nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'carry its rasa'",
+     "problem": "'its' reads as the embryo's rasa; Sanskrit has 'tad' (referent unstated: mother, or her heart). The notes say 'its' is a placeholder, but it misleads in the translation.",
+     "fix": "carry the rasa of that (tad, referent not stated)",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "that carry its rasa",
+      "new": "that carry the rasa of that (tad, referent not stated)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tayoḥ",
+     "problem": "Notes take 'the two' as mother and embryo only; given dvihṛdayā in u35 and the two hearts of u33, 'the two' may equally be the two hearts.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "append_note",
+      "text": "Alternative: 'tayoḥ' may refer to the two hearts (the mother's and the embryo's, unit 33), which fits dvihṛdayā in unit 35; not asserted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दौर्हृदिनी",
+     "problem": "Technical term unglossed in Hindi (English has the gloss).",
+     "fix": "दौर्हृदिनी यानी इच्छाओं वाली कहते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दौर्हृदिनी कहते हैं",
+      "new": "दौर्हृदिनी यानी इच्छाओं वाली कहते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मिलाकर / हो तो",
+     "problem": "Glossary bans added 'मिलाकर'; 'हो तो' is also not in the Sanskrit (ahitam api is concessive, hitopasaṃhitam = joined with the wholesome).",
+     "fix": "और इच्छा तीव्र होने पर इसे कामनानुसार अहित भी, हित से युक्त करके, देना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "hindi",
+      "value": "और इच्छा तीव्र होने पर इसे कामनानुसार अहित भी, हित से युक्त करके, देना चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वायु ... सकती है",
+     "problem": "Hindi वायु is masculine (कुपित वायु ... घूमती हुई ... सकती है is wrong); 'विकृत रूप कर' is awkward for vairūpya (deformity); modern equivalent of vināśa (miscarriage, probable) wanted beside the Sanskrit.",
+     "fix": "क्योंकि दौर्हृद की उपेक्षा से कुपित वायु शरीर के भीतर घूमता हुआ गर्भ का नाश, यानी सम्भवतः गर्भपात, या विरूपता कर सकता है।",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि दौर्हृद की उपेक्षा से कुपित वायु शरीर के भीतर घूमता हुआ गर्भ का नाश, यानी सम्भवतः गर्भपात, या विरूपता कर सकता है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "vināśa",
+     "problem": "Notes say vināśa is probably miscarriage but the translation gives no modern equivalent (owner policy: write it beside, hedged).",
+     "fix": "destruction (probably miscarriage) or deformity of the embryo",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "destruction or deformity of the embryo",
+      "new": "destruction (probably miscarriage) or deformity of the embryo"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed units 1-38 of p02/ch02 k1. 8 errors, 30 minor. Errors: u2 English last clause ungrammatical; u5 locative singular mislabelled dual; u9 Hindi lacks 'unclear' for saṃtulana; u13 English lacks the 'probably' hedge; u26 adopted yataḥ correction unmarked in both languages; u38 Hindi gender of vāyu and awkward vairūpya. No identification judged wrong; hedges for kalala, aparā, jarāyu, vināśa are appropriate. Human decisions: u8 (three conjectures translated), u12 aparā hedge vs sibling units, u7 spacing-flag inconsistency, u18 dvandva merge (tool cannot merge). No regrouping needed beyond the draft's GROUPING notes (6 continues 5; 13 continues 12; 34 continues 33).",
+ "glossary_suggestions": [
+  "sakthi = thigh (Hindi जाँघ), not जंघा (Sanskrit jaṅghā is the shank).",
+  "klaibya: Hindi 'क्लैब्य यानी ...' with a hedged modern name; avoid bare नपुंसकता, which collides with napuṃsaka (third category).",
+  "aparā/jarāyu: decide whether to hedge 'probably' (u12/13 hedge; ch02 k2 u61/66 and k4 do not). Spelling foetal (k1) vs fetal (k4).",
+  "puṃstrīnapuṃsaka(ni) is one dvandva compound wherever it occurs.",
+  "A correction adopted in a translation (yavo->yataḥ, kukṣimātra-) needs 'on a conjectural reading' / 'अनुमानित पाठ पर' in both languages.",
+  "Hindi वायु is masculine."
+ ]
+}

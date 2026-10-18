@@ -1,0 +1,642 @@
+{
+ "units": [
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "distended (bloated, ānāha)",
+     "problem": "Fixed rendering for ānāha is 'bloating with retention'; plain 'bloated' loses the retention and merges it with ādhmāna (45).",
+     "fix": "distended (ānāha: bloating with retention)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "43",
+       "op": "replace",
+       "field": "english",
+       "old": "distended (bloated, ānāha)",
+       "new": "distended (ānāha: bloating with retention)"
+      },
+      {
+       "n": "43",
+       "op": "replace",
+       "field": "hindi",
+       "old": "आनाह यानी पेट फूलने से ग्रस्त",
+       "new": "आनाह यानी रुकावट के साथ पेट फूलने से ग्रस्त"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "construction",
+     "problem": "OPEN for the owner: besides the adopted conjecture, 'ānahyantaṃ' is an irregular parasmaipada participle (ānahyamānam expected) and the printed 'hatānām/ānahyaṃtaṃ' could hide a different word division (e.g. a genitive plural reading with 41-42). Low confidence is right; nothing more can be fixed from the print.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "के दिखने वाले को",
+     "problem": "Awkward and ambiguous Hindi for the bahuvrīhi pīta-akṣi-nakha-darśanam; it reads as 'the one who sees' rather than 'in whom yellow eyes and nails are seen'.",
+     "fix": "जिसमें पीली आँखें और नाखून दिखाई देते हैं, उसे",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीली आँखों और नाखूनों के दिखने वाले को।",
+      "new": "जिसमें पीली आँखें और नाखून दिखाई देते हैं, उसे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उपद्रवों",
+     "problem": "English glosses upadrava (complications); Hindi has no gloss.",
+     "fix": "उपद्रवों यानी जटिलताओं",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनेक उपद्रवों से युक्त",
+      "new": "अनेक उपद्रवों यानी जटिलताओं से युक्त"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prasṛtaṃ / ubhau",
+     "problem": "OPEN (agree with draft): the likely pattern is 'swelling spread from the feet kills a man (46), from the face a woman, from belly and genitals both (47)', with śopha of 47 as the subject of hanti; this is inference only. Translation correctly adds nothing.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "caiva",
+     "problem": "'eva' (indeed) is translated in English but dropped in Hindi.",
+     "fix": "और जिसकी दोनों जाँघें सचमुच धँसती हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और जिसकी दोनों जाँघें धँसती हैं",
+      "new": "और जिसकी दोनों जाँघें सचमुच धँसती हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śuṣyataḥ / śūyante",
+     "problem": "OPEN: the pairing could also be read with the two verbs exchanged (yasya śūyataḥ in 53, śuṣyante vā vinā dehāt in 54: 'of one swelling, face and hands/feet especially; or (they) wither apart from the body'); the printed Devanagari has śuṣyataḥ in 53 and śūṃyaṃte in 54, so the draft keeps the print. The draft reading (wasting person whose face/hands/feet swell especially, or swell apart from the rest of the body) is coherent. Owner may keep low confidence.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देह को छोड़कर",
+     "problem": "'देह को छोड़कर' reads as 'leaving the body' (dying). vinā + ablative is 'apart from / without'.",
+     "fix": "देह से अलग सूजते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "या देह को छोड़कर सूजते हैं",
+      "new": "या देह से अलग सूजते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "units 55-56",
+     "problem": "OPEN: the relative clauses yaḥ (55) and yasya (56) have neither verb nor correlative in the two units; the nearest correlative 'sa māsād yāti pañcatām' stands before them (54) and 'hanti' after (60). Draft correctly supplies nothing; consider a note that no outcome is stated (already in 56).",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुमानित पाठ पर नहीं टिकता",
+     "problem": "The conjectural mark placed before 'नहीं टिकता' reads as 'does not stay on a conjectural reading', i.e. as if the statement were hypothetical, not the emendation unnatāt. Put the mark at the head of the sentence, as in 43, 62.",
+     "fix": "अनुमानित पाठ पर: या जिसका वस्त्र पेट के उभरे होने के कारण नहीं टिकता।",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "hindi",
+      "old": "या जिसका वस्त्र पेट के उभरे होने के कारण अनुमानित पाठ पर नहीं टिकता।",
+      "new": "अनुमानित पाठ पर: या जिसका वस्त्र पेट के उभरे होने के कारण नहीं टिकता।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "boilerplate",
+     "problem": "Note mentions 'ccharddi' which does not occur in this unit.",
+     "fix": "(mūrcchā) written mūrchā",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "notes",
+      "old": "(ccharddi, mūrcchā) written chardi, mūrchā",
+      "new": "(mūrcchā) written mūrchā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुष्ठ यानी कोढ़",
+     "problem": "English hedges 'the term covers a group of skin diseases'; Hindi carries no hedge.",
+     "fix": "कुष्ठ यानी कोढ़, जो त्वचा रोगों के एक समूह का नाम है",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुष्ठ यानी कोढ़;",
+      "new": "कुष्ठ यानी कोढ़, जो त्वचा रोगों के एक समूह का नाम है;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जन्तुओं यानी कीड़ों",
+     "problem": "English hedges jantu ('worms or vermin'); Hindi states कीड़ों flatly.",
+     "fix": "जन्तुओं यानी कीड़ों या छोटे जीवों से घिरे हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जन्तुओं यानी कीड़ों से घिरे हुए",
+      "new": "जन्तुओं यानी कीड़ों या छोटे जीवों से घिरे हुए"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "subject",
+     "problem": "OPEN: the subject of hanti may be both the visarpa of 57-58 and the kuṣṭha of 59 (57-58 give nominative disease + signs but no patient; the accusatives of 59-60 can serve both). Draft supplies '(Kuṣṭha)' only; acceptable, but the grouping 57-60 should stay marked 'appears to'.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vāyuḥ",
+     "problem": "OPEN: 'wind (vāyu)' in the translation vs note 'the Vāta of the body'. Glossary uses वात for the doṣa, वायु for plain wind or named vāyus; owner to decide whether 61 (and 72-80 mārutaḥ) are Vāta.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jvara-anvitam",
+     "problem": "Case 'acc. sg.' is not firmer than n. nom. sg. (63 'kotha-vat' is labelled n. nom. sg. in the same run); give both.",
+     "fix": "tat-puruṣa, acc. sg. (or n. nom. sg.)",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "word",
+      "match_w": "jvara-anvitam",
+      "field": "gram",
+      "value": "tat-puruṣa, acc. sg. (or n. nom. sg.)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वातरक्त",
+     "problem": "English says 'a gout-type disease'; Hindi has no modern name for vātarakta.",
+     "fix": "वातास्र यानी सम्भवतः वातरक्त, गठिया की श्रेणी का रोग",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्भवतः वातरक्त;",
+      "new": "सम्भवतः वातरक्त, गठिया की श्रेणी का रोग;"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vātasraṃ",
+     "problem": "Consistency for the owner: the dropped-length-mark restoration vātasraṃ->vātāsram is marked 'on a conjectural reading' in the translation (because the identification vātarakta rests on it), while similar one-letter restorations in 53, 64 are not. Defensible; keep, but the book-wide OPEN rule (letter-level corrections) applies.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "On a conjectural reading:",
+     "problem": "Nothing is substituted in 63: the damaged stretch is left unsplit and 'unclear', the rest is printed as read. Per the rule (mark only an adopted substitution) the mark is unwarranted and overstates a reading that was not adopted.",
+     "fix": "remove the mark in both languages",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "63",
+       "op": "replace",
+       "field": "english",
+       "old": "On a conjectural reading: having an unclear",
+       "new": "Having an unclear"
+      },
+      {
+       "n": "63",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अनुमानित पाठ पर: एक अस्पष्ट",
+       "new": "एक अस्पष्ट"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "saṃkoca-sphoṭa-kotha-vat",
+     "problem": "'-vat' is only neuter nom./acc. (or voc.); the case cannot be fixed as nom.",
+     "fix": "dvandva + vat-suffix, n. nom. or acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "saṃkoca-sphoṭa-kotha-vat",
+      "field": "gram",
+      "value": "dvandva + vat-suffix, n. nom. or acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "The GROUPING claim is too strong: plural 'ghnanti' with plural subject 'sarvāmayāḥ' makes 65 a complete clause by itself, and the singular nominatives vāyuḥ (61), vātāsram (62) cannot be its subjects.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: the verb here appears to govern the descriptions in 61-64 as well.",
+      "new": "GROUPING: with plural 'sarvāmayāḥ' this unit is a complete clause by itself; whether 'ghnanti' also closes 61-64 is not established (their singular subjects vāyuḥ, vātāsram cannot take a plural verb)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "raktī",
+     "problem": "OPEN: 'raktī' (blood) remains unidentified; alternative that the original is a disease name such as raktapittī is only speculation. Draft's conjectural mark in both languages is correct.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pakṣāñsa",
+     "problem": "The note calls the printed ñ 'regular'; ñ before s is not the usual sandhi (pakṣāṃs sa / pakṣān sa). Reading as pakṣān sa is fine but the note should not say regular.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "notes",
+      "old": "has ñ for the regular pakṣāṃs sa (sandhi n + s); not treated as an error.",
+      "new": "has ñ where the usual sandhi would be pakṣāṃs sa (or pakṣān sa); read as pakṣān sa, a print habit, not flagged."
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कठोर गोल गाँठ",
+     "problem": "English and the fixed rendering are 'hard, round, stony lump'; Hindi omits 'stony' (aṣṭhīlā = round stone).",
+     "fix": "वात से बनी पथरीली, कठोर, गोल गाँठ",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात से बनी कठोर गोल गाँठ",
+      "new": "वात से बनी पथरीली, कठोर, गोल गाँठ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kṣīṇadehasya vā",
+     "problem": "OPEN (agree): English '(in the case)' is supplied in parentheses; attachment unresolved.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "at the head of the bladder",
+     "problem": "'at' (and Hindi 'पर') supplies a locative the print does not show; the compound basti-śiras-nābhi has no case ending (n. nom./acc.). OPEN for the owner: either keep the locative sense with a note, or render 'the head of the bladder and the navel' as further objects of vibadhya.",
+     "fix": "no patch",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "मलों को",
+     "problem": "Fixed Hindi gloss for mala in body-part contexts is 'मल यानी अपशिष्ट'.",
+     "fix": "मलों यानी अपशिष्टों को",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मलों को बस्ति",
+      "new": "मलों यानी अपशिष्टों को बस्ति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "broken (loose) stool",
+     "problem": "Glossary (p02 ch09 k2): bhinna purīṣa = broken stool (probably loose); 'loose' is stated without the hedge.",
+     "fix": "broken (probably loose) stool; Hindi सम्भवतः पतले",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "77",
+       "op": "replace",
+       "field": "english",
+       "old": "broken (loose) stool",
+       "new": "broken (probably loose) stool"
+      },
+      {
+       "n": "77",
+       "op": "replace",
+       "field": "hindi",
+       "old": "टूटे हुए यानी पतले मल",
+       "new": "टूटे हुए यानी सम्भवतः पतले मल"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "guda-vaṅkṣaṇau",
+     "problem": "OPEN: dual dvandva could be 'anus and groin' (each member singular); draft's 'anus and the groins' acceptable.",
+     "fix": "no patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुमानित पाठ पर",
+     "problem": "Hindi mark stands before 'तुरन्त हर लेता है' and does not attach to the emended word (unnata-akṣa); 'ऊपर' is also an addition to 'raised'.",
+     "fix": "स्तिमित यानी निश्चल, अनुमानित पाठ पर उठी हुई आँखों वाले का जीवन तुरन्त हर लेता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्तिमित यानी निश्चल, ऊपर उठी आँखों वाले का जीवन अनुमानित पाठ पर तुरन्त हर लेता है।",
+      "new": "स्तिमित यानी निश्चल, अनुमानित पाठ पर उठी हुई आँखों वाले का जीवन तुरन्त हर लेता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "boilerplate",
+     "problem": "Note mentions 'ccharddi' which does not occur in this unit.",
+     "fix": "(mūrcchā) written mūrchā",
+     "severity": "minor",
+     "patch": {
+      "n": "81",
+      "op": "replace",
+      "field": "notes",
+      "old": "(ccharddi, mūrcchā) written chardi, mūrchā",
+      "new": "(mūrcchā) written mūrchā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "plural subjects",
+     "problem": "Subjects are singular (jvarasaṃtāpaḥ, the compound in -kṣayaḥ, viśleṣaṇam), not plural.",
+     "fix": "several singular subjects",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "notes",
+      "old": "after plural subjects (agreement with the nearest)",
+      "new": "after several singular subjects (agreement with the nearest)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Draft is sound: no errors found. Splits, case labels (gender: pitta/viṣa not involved), identifications (pāṇḍuroga, śopha, apasmāra, kuṣṭha, gulma, meha, kṣaya, udara, visarpa, vātāsra=vātarakta, manyā, basti-śiras, anala) are plausible and hedged correctly in English; Hindi lacked a few hedges/glosses (kuṣṭha group, jantu, upadrava, mala, vātarakta, aṣṭhīlā 'stony'), patched. Prognostic statements are translated exactly; nothing softened. Typo flags all plausible and src kept as printed; conjectural marks consistent with the glossary except u63 (nothing substituted, mark removed) and Hindi mark placement in 56 and 80. Issues: 0 errors, 32 minor (patchable and observations). Units needing human decision: 43 (construction, low), 53/54 (construction, possible verb swap), 55-56 (no correlative), 60 (subject kuṣṭha and/or visarpa), 61 (vāyu vs Vāta), 62/63 (garbled, low), 66 (raktī), 75, 76 (locative 'at' supplied), 80 (stimita). No regrouping needed; 65 GROUPING note softened (complete clause by itself).",
+ "glossary_suggestions": [
+  "ānāha = 'bloating with retention' in English, Hindi 'आनाह यानी रुकावट के साथ पेट फूलना'; keep apart from ādhmāna (flatulent distension / पेट फूलना).",
+  "aṣṭhīlā = 'hard, round, stony lump' / Hindi 'पथरीली, कठोर, गोल गाँठ' (literally round stone); vātāṣṭhīlā standard term, no modern equivalent.",
+  "pañcatā = 'death (literally the state of five)'; Hindi 'पञ्चता यानी मृत्यु'.",
+  "jantu = 'creatures (worms or vermin)'; Hindi must carry the hedge: 'कीड़ों या छोटे जीवों'.",
+  "'On a conjectural reading' only where a substituted word is adopted in `words`; a damaged stretch left unsplit as 'unclear' carries no mark (p02 ch11 u63). Hindi mark placed at the head of the sentence, not mid-sentence.",
+  "vātāsra = probably vātarakta (gout-type); Hindi 'गठिया की श्रेणी का रोग'. visarpa = erysipelas-type spreading skin inflammation (probable). raktī (ch11 u66) unidentified.",
+  "udarī = one with udara (belly disease, probably ascites-type): same wording in ch11 u55 and u66."
+ ]
+}

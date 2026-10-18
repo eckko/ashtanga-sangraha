@@ -1,0 +1,392 @@
+{
+ "units": [
+  {
+   "n": 36,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 37,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 38,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 39,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनेकाग्र यानी एक बिन्दु पर ध्यान न टिका पाने वाला",
+     "problem": "Adds an inability ('unable to keep attention') that an-ekāgra ('not one-pointed') does not state.",
+     "fix": "अनेकाग्र यानी जो एकाग्र (एक बिन्दु पर टिका हुआ) नहीं है",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनेकाग्र यानी एक बिन्दु पर ध्यान न टिका पाने वाला",
+      "new": "अनेकाग्र यानी जो एकाग्र (एक बिन्दु पर टिका हुआ) नहीं है"
+     }
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 41,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 42,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ato vā",
+     "problem": "OPEN reading, not an error: 'ataḥ' could take vibhraṃśa as ablative of separation ('falls away from these') or be 'from this cause'; the draft's rendering is literal and fine. Kept as a human item. The note's sentence 'the sense is a sudden gain or loss without cause' is interpretation inside notes only (acceptable).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[nature]",
+     "problem": "Supplied noun in brackets: the Sanskrit has only the feminine adjective mayī; 'prakṛtiḥ' is in the next unit. Policy: unstated nouns shown as '(one)', nothing supplied.",
+     "fix": "Whose (one) made up of guṇa ...",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "[nature]",
+      "new": "(one)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "guṇa-doṣa-mayī",
+     "problem": "'tat-puruṣa' is the wrong label: guṇa-doṣa is a dvandva and -maya is a suffix (consisting of).",
+     "fix": "dvandva + -maya (consisting of), f. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "guṇa-doṣa-mayī",
+      "field": "gram",
+      "value": "dvandva + -maya (consisting of), f. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "emendation",
+     "problem": "Support for the repair is understated: ta/na is a recorded OCR confusion in this print (glossary), so printed 'ṣaṇmāsānta sa' = 'ṣaṇmāsānna sa' is a single-letter slip, which favours 'ṣaṇmāsān na' over 'ṣaṇmāsānte'. Draft correctly stays low and conjectural; the owner should still decide (the alternative 'ṣaṇmāsānte' gives the opposite sense).",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "append_note",
+      "text": "Reviewer: ta/na is a known OCR confusion in this print, so 'ṣaṇmāsānta sa' may be 'ṣaṇmāsānna sa' (one letter); this favours 'ṣaṇmāsān na' but is not proof. OPEN for owner: 'does not live six months' vs 'lives to the end of six months' (opposite senses)."
+     }
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 46,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ये छह छह मास में",
+     "problem": "'छह छह' can be read as 'six each'; the first is the six items, the second the six months.",
+     "fix": "ये छह, छह मास में",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ये छह छह मास में",
+      "new": "ये छह, छह मास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "suggest",
+     "problem": "The suggested string adds a visarga ('mohāḥ'); final -ā before m- is regular sandhi (mohāḥ + māsāt), so only gāti→gati is being flagged.",
+     "fix": "mattavad gativākkampamohā",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "set",
+      "field": "text_flags.0.suggest",
+      "value": "mattavad gativākkampamohā"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "gāti",
+     "problem": "Another repair of equal metre is 'gātra' (limb): 'gātra-vāk-kampa-mohāḥ' (limbs, speech, trembling, bewilderment). Not decidable from the print; the draft's 'gati' is fine but 'gātra' should be on record.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "append_note",
+      "text": "Reviewer: 'gātra' (limb/body) for printed 'gāti' is an equally short repair (gātra-vāk-kampa-mohāḥ); not decidable from the print."
+     }
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole line",
+     "problem": "Handling is right (printed word unsplit, 'unclear', conjectural, low). Observation only: 'naśyati' is called firm although the whole line is one damaged string; the owner may prefer 'unclear' for it too. No guess at a restoration should enter the translation.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 50,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 51,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 52,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ārpyate",
+     "problem": "Inconsistent: the word is kept as printed 'ārpyate' (ā-√ṛ caus. pass., 'is placed / delivered') but glossed 'is filled, is supplied', which is the meaning of the CONJECTURED 'āpūryate'. DRAFT_BRIEF rule 6: the corrected form goes in `words`. The translation 'filled' rests on the conjecture only.",
+     "fix": "w āpūryate, gloss 'is filled (conjectural)', gram '3 sg. pass. ā-√pṝ'",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "52",
+       "op": "word",
+       "match_w": "ārpyate",
+       "field": "gloss",
+       "value": "is filled (conjectural; printed ārpyate)"
+      },
+      {
+       "n": "52",
+       "op": "word",
+       "match_w": "ārpyate",
+       "field": "gram",
+       "value": "3 sg. pass. ā-√pṝ"
+      },
+      {
+       "n": "52",
+       "op": "word",
+       "match_w": "ārpyate",
+       "field": "w",
+       "value": "āpūryate"
+      },
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "notes",
+       "old": "'ārpyate' is kept as printed (a valid passive form); 'āpūryate' is the likely intended word and would give the same sense ('is filled').",
+       "new": "Printed 'ārpyate' (ā-√ṛ caus. pass.) would mean 'is placed / delivered', not 'is filled'; `words` therefore carry the conjectured 'āpūryate' ('is filled'), as in the text_flag. Both 'ārpyate' and 'āpūryate' sit oddly with the genitive 'aśrūṇām' (instrumental expected); the whole repair is conjectural."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 54,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 55,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should tell",
+     "problem": "HUMAN DECISION. The doubled 'ca ca' is unexplained and the draft's own flag shows that 'kathayen na ca' ('should not tell, even if asked') is metrically identical (16). The printed reading has the physician SAY a hard-to-hear death; the surrounding units (56-58: do not wish to treat, avoid him) do not settle it. The translation correctly follows the print and the flag is not adopted; keep confidence low and have the owner check the scan for 'na' vs 'cca'. No change made.",
+     "fix": "owner to check scan",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 57,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "para-asuḥ",
+     "problem": "'parāsu' is parā- (prefix 'away') + asu, not para ('other') + asu.",
+     "fix": "parā-asuḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "para-asuḥ",
+      "field": "w",
+      "value": "parā-asuḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 59,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "there is life in which riṣṭa has been seen",
+     "problem": "HUMAN DECISION. The draft supplies a positive copula for the second clause ('there is life in which riṣṭa has been seen'). The more natural reading of 'ariṣṭaṃ nāsti maraṇaṃ dṛṣṭariṣṭaṃ ca jīvitaṃ' shares nāsti: 'there is no death without riṣṭa, and no life (where) riṣṭa is seen'. That also agrees with u62 ('death in riṣṭa is certain') and with u60 (apparent exceptions come from lack of skill). The draft's reading makes u59 contradict u62. Not patched in the translation; the alternative is added to notes.",
+     "fix": "owner to choose; alternative: 'There is no death without riṣṭa, and no life with riṣṭa seen.'",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "append_note",
+      "text": "Reviewer: ca may carry nāsti into the second clause: 'there is no death without riṣṭa, and no life (in one) in whom riṣṭa has been seen'. This fits u62 (death in riṣṭa is certain) and u60 better than the translation given; OPEN for owner."
+     }
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 61,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "This is the statement",
+     "problem": "'iti' is rendered as 'This is'; the Sanskrit has 'thus' with the copula understood (note not made). Harmless; consider 'Such is the statement of Caraka'.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 63,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 64,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 65,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 66,
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह शान्त हो जाएगा",
+     "problem": "Optative śāmyet rendered as a future with an added pronoun 'वह' (no subject is stated; glossary: Hindi takes no pronoun for an unstated subject).",
+     "fix": "शान्त हो जाए",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह शान्त हो जाएगा",
+      "new": "शान्त हो जाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 68,
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": 69,
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "34 units reviewed word by word against the printed Devanagari (no hiatus-vowel typos found; only u36 sarvaevaite is a true a+e hiatus, correctly read). Draft is careful. Errors: u52 (gloss 'is filled' on the printed word ārpyate; corrected form must be in words), u59 (second clause may share nāsti: 'no life with riṣṭa seen'; human decision). Human decisions: u44, u47, u48, u55 (doubled ca could flip tell/not tell), u59. Minor: u39, u43, u46, u57, u66 patched; u42, u61 observations. Identifications: no plants; balibhuj=crows hedged 'probable' in both languages is acceptable; hṛdaya, kaṇṭha, Samavartin=Yama, rasāyana correct. Grouping suggestions: none beyond the draft's 'appears to' links (37-38, 41-42, 43-44, 45-46, 55-56, 57-58, 62-63, 65-66, 67-68 all plausible); u59-u62 should be read together with the Caraka/Suśruta remark of u61.",
+ "glossary_suggestions": [
+  "p02 ch10 k2: parāsu = parā-asu (prefix parā), not para-asu.",
+  "guṇa-doṣa-maya: dvandva + -maya suffix, not tat-puruṣa.",
+  "OPEN p02 ch10: u55 'kathayecca ca' tell vs not tell (kathayen na ca); u59 shared nāsti ('no life with riṣṭa seen'); u44 ṣaṇmāsān na vs ṣaṇmāsānte; u52 conjecture āpūryate belongs in words, not the printed ārpyate.",
+  "When a conjectured word is used in the translation, its `words` entry carries the conjectured form and gloss (u52)."
+ ]
+}

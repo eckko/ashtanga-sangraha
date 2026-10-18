@@ -1,0 +1,2237 @@
+[
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātike",
+      "words": [
+       {
+        "w": "vātike",
+        "gloss": "relating to Vāta (Vāta-type)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukradoṣe",
+      "words": [
+       {
+        "w": "śukra-doṣe",
+        "gloss": "semen (śukra; standard); fault (doṣa)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suktasaiṃdhavaphalāmlasiddhaṃ",
+      "words": [
+       {
+        "w": "sukta-saindhava-phala-amla-siddham",
+        "gloss": "sukta (a sour fermented liquid); saindhava (rock salt; standard); fruit; sour; cooked",
+        "gram": "compound, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavakṣāraprativāpaṃ",
+      "words": [
+       {
+        "w": "yava-kṣāra-prativāpam",
+        "gloss": "barley (yava, Hordeum vulgare; standard); kṣāra; addition (prativāpa)",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpiḥpānaṃ",
+      "words": [
+       {
+        "w": "sarpiḥ-pānam",
+        "gloss": "ghee; drinking",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वातिक शुक्रदोष में सुक्त, सैन्धव यानी सेंधा नमक और खट्टे फल के साथ पकाया हुआ, यव के क्षार के प्रतिवाप सहित घी का पान।",
+  "english": "In the Vāta-type fault (doṣa) of semen (śukra): drinking of ghee cooked with sukta, saindhava (rock salt) and sour fruit, with yava-kṣāra (kṣāra of barley) as the addition (prativāpa).",
+  "text_flags": [],
+  "notes": "Start of the treatment list for faults of śukra (semen) and ārtava. Parse of 'suktasaindhavaphalāmla' as three items (sukta, saindhava, sour fruit) is the plainer reading; 'phalāmla' could also be read as one sour fruit; 'sukta' is a sour fermented liquid (vinegar-like), not enriched further. 'siddha' agrees with sarpiḥ (ghee), which is only named in the last word. Prativāpa = a substance added to the preparation; the text gives no dose or stage. Identifications: saindhava = rock salt (standard); yava = barley, Hordeum vulgare (standard). Verb: none, a noun phrase ('drinking of ghee'). doṣa here is 'fault' of the semen. The printed internal ṃ in 'saiṃdhava' is the print's way of writing n.",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bilvavidārīkṣīrayuktamāsthapanaṃ",
+      "words": [
+       {
+        "w": "bilva-vidārī-kṣīra-yuktam",
+        "gloss": "bilva (bael, Aegle marmelos; standard); vidārī (Pueraria tuberosa, vidārīkanda; probable); milk; joined with",
+        "gram": "compound, n. nom. sg."
+       },
+       {
+        "w": "āsthāpanam",
+        "gloss": "āsthāpana (decoction enema; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिल्व यानी बेल, विदारी यानी सम्भवतः विदारीकन्द और दूध से युक्त आस्थापन यानी काढ़े का बस्ति।",
+  "english": "Āsthāpana (decoction enema) joined with bilva (bael), vidārī (probably vidārīkanda) and milk.",
+  "text_flags": [
+   {
+    "src": "bilvavidārīkṣīrayuktamāsthapanaṃ",
+    "suggest": "…yuktamāsthāpanaṃ",
+    "why": "possible: 'āsthapana' has a short a; the word is āsthāpana (long ā), as printed in units 50 and 55"
+   }
+  ],
+  "notes": "Elliptical noun phrase; the verb of administering is not stated, and none is supplied. Identifications: bilva = Aegle marmelos, bael (standard); vidārī = Pueraria tuberosa (probable; the name is also applied to other tubers). Āsthāpana is an enema with decoction (standard). The Hindi gloss 'बस्ति' is the medical enema, not the bladder.",
+  "confidence": "high"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhukabhadradārusiddhaṃ",
+      "words": [
+       {
+        "w": "madhuka-bhadradāru-siddham",
+        "gloss": "madhuka (licorice, Glycyrrhiza glabra; probable); bhadradāru (deodar, Cedrus deodara; probable); cooked",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailamanuvāsanaṃ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anuvāsanam",
+        "gloss": "anuvāsana (oil enema; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुक यानी सम्भवतः मुलेठी और भद्रदारु यानी सम्भवतः देवदारु के साथ पकाया हुआ तेल, अनुवासन यानी तेल का बस्ति।",
+  "english": "Oil cooked with madhuka (probably licorice) and bhadradāru (probably deodar), as anuvāsana (oil enema).",
+  "text_flags": [],
+  "notes": "Elliptical (no verb); the previous unit's therapy list continues. Identifications: madhuka = licorice, Glycyrrhiza glabra (probable; the name madhuka is also used for Madhuca trees, see unit 61); bhadradāru = Cedrus deodara, deodar, usually identified with devadāru (probable). 'tailam anuvāsanam' read as 'oil, (as) anuvāsana'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīrakulīrarasarasasiddhaṃ",
+      "words": [
+       {
+        "w": "kṣīra-kulīra-rasa-siddham",
+        "gloss": "milk; kulīra (crab; standard); juice (rasa); cooked",
+        "gram": "compound, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailamuttarabastiḥ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttara-bastiḥ",
+        "gloss": "uttarabasti (injection through the urinary or genital passage; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूध और कुलीर यानी केकड़े के रस से पकाया हुआ तेल, उत्तरबस्ति यानी मूत्रमार्ग या योनि से दिया जाने वाला बस्ति।",
+  "english": "Oil cooked with milk and the juice (rasa) of kulīra (crab), as uttarabasti (injection through the urinary or genital passage).",
+  "text_flags": [
+   {
+    "src": "kṣīrakulīrarasarasasiddhaṃ",
+    "suggest": "kṣīrakulīrarasasiddhaṃ",
+    "why": "possible: 'rasarasa' reads as a doubled 'rasa' (dittography); one 'rasa' gives the sense 'milk, crab-juice, cooked'"
+   }
+  ],
+  "notes": "Elliptical (no verb). The doubled 'rasa' is taken as a print doubling; if both stand, the second rasa could be read as a further 'juice', but the sense is not changed. kulīra is read as 'crab' (standard); it can also be a plant name in some lists, so this is not certain. Uttarabasti is given through the urinary passage (man) or the genital passage (woman); the text gives no route here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paittike",
+      "words": [
+       {
+        "w": "paittike",
+        "gloss": "relating to Pitta (Pitta-type)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāṃḍeṃkṣuśvadaṃṣṭrāguḍūcīsiddhaṃ",
+      "words": [
+       {
+        "w": "kāṇḍa-ikṣu-śvadaṃṣṭrā-guḍūcī-siddham",
+        "gloss": "kāṇḍekṣu (a kind of cane; identity disputed); śvadaṃṣṭrā (puncture vine, Tribulus terrestris; standard); guḍūcī (Tinospora cordifolia; standard); cooked",
+        "gram": "compound, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūrvāmadhukapratīvāpaṃsarpiḥpānaṃ",
+      "words": [
+       {
+        "w": "mūrvā-madhuka-pratīvāpam",
+        "gloss": "mūrvā (Marsdenia tenacissima; disputed); madhuka (licorice); addition",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "sarpiḥ-pānam",
+        "gloss": "ghee; drinking",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैत्तिक में काण्डेक्षु, श्वदंष्ट्रा यानी गोखरू और गुडूची यानी गिलोय के साथ पकाया हुआ, मूर्वा और मधुक के प्रतिवाप सहित घी का पान।",
+  "english": "In the Pitta-type (one): drinking of ghee cooked with kāṇḍekṣu, śvadaṃṣṭrā (puncture vine) and guḍūcī (Tinospora cordifolia), with mūrvā and madhuka as the addition (pratīvāpa).",
+  "text_flags": [
+   {
+    "src": "kāṃḍeṃkṣuśvadaṃṣṭrā…",
+    "suggest": "kāṇḍekṣu…",
+    "why": "possible: the second ṃ after e is not needed; the word kāṇḍa-ikṣu gives kāṇḍekṣu"
+   }
+  ],
+  "notes": "'śukradoṣe' is understood from unit 44. Identifications: kāṇḍekṣu = a cane (ikṣu) of kāṇḍa kind, not identified here (disputed); śvadaṃṣṭrā = gokṣura, Tribulus terrestris (standard); guḍūcī = Tinospora cordifolia (standard); mūrvā = Marsdenia tenacissima (disputed). 'pratīvāpa' is the same as prativāpa of unit 44 (long ī as printed). The last token joins two words without a space; the printed ṃ inside is a print habit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trivṛccūrṇa:",
+      "words": [
+       {
+        "w": "trivṛt-cūrṇaḥ",
+        "gloss": "trivṛt (turpeth, Operculina turpethum; standard); powder",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saghṛto",
+      "words": [
+       {
+        "w": "sa-ghṛtaḥ",
+        "gloss": "with ghee",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "virekaḥ",
+      "words": [
+       {
+        "w": "virekaḥ",
+        "gloss": "virecana (purgation)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्रिवृत् यानी निशोथ का चूर्ण, घी सहित, विरेचन है।",
+  "english": "Powder of trivṛt (turpeth) with ghee is the purgation (virecana).",
+  "text_flags": [
+   {
+    "src": "trivṛccūrṇa:",
+    "suggest": "trivṛccūrṇaḥ",
+    "why": "possible: the colon stands for the visarga (ḥ) in the print"
+   }
+  ],
+  "notes": "The colon in the print is read as visarga; the Devanagari has ':' too. virekaḥ is masculine (virecana, purgation). The text says 'is' by juxtaposition; no verb in the Sanskrit, and the English 'is' is only a natural rendering of the nominal sentence.",
+  "confidence": "high"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "payasyāśrīparṇīsiddhaṃ",
+      "words": [
+       {
+        "w": "payasyā-śrīparṇī-siddham",
+        "gloss": "payasyā (identity disputed); śrīparṇī (Gmelina arborea; probable); cooked",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrayuktamāsthāpanaṃ",
+      "words": [
+       {
+        "w": "kṣīra-yuktam",
+        "gloss": "milk; joined with",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "āsthāpanam",
+        "gloss": "āsthāpana (decoction enema)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पयस्या और श्रीपर्णी यानी सम्भवतः गम्भारी के साथ पकाया हुआ, दूध से युक्त आस्थापन।",
+  "english": "Āsthāpana (decoction enema) cooked with payasyā and śrīparṇī (probably gambhārī), joined with milk.",
+  "text_flags": [],
+  "notes": "Elliptical. payasyā is variously identified (identity disputed; not enriched). śrīparṇī = Gmelina arborea, gambhārī (probable). 'siddha' and 'yukta' both qualify āsthāpana.",
+  "confidence": "medium"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhukamudgaparṇīsiddhaṃ",
+      "words": [
+       {
+        "w": "madhuka-mudgaparṇī-siddham",
+        "gloss": "madhuka (licorice); mudgaparṇī (Phaseolus trilobus; probable); cooked",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailamanuvāsanamuttarabastiśca",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anuvāsanam",
+        "gloss": "anuvāsana (oil enema)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttara-bastiḥ",
+        "gloss": "uttarabasti",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुक और मुद्गपर्णी यानी सम्भवतः मुँगवन के साथ पकाया हुआ तेल, अनुवासन और उत्तरबस्ति भी।",
+  "english": "Oil cooked with madhuka and mudgaparṇī (probably Phaseolus trilobus), as anuvāsana (oil enema) and as uttarabasti.",
+  "text_flags": [],
+  "notes": "Elliptical. mudgaparṇī = Phaseolus trilobus (Vigna trilobata) (probable).",
+  "confidence": "high"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ślaiṣmike",
+      "words": [
+       {
+        "w": "ślaiṣmike",
+        "gloss": "relating to Kapha (Kapha-type)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṣāṇabhedakāśmaṃtakāmalakakvāthasiddhaṃ",
+      "words": [
+       {
+        "w": "pāṣāṇabhedaka-aśmantaka-āmalaka-kvātha-siddham",
+        "gloss": "pāṣāṇabhedaka (Bergenia ligulata; probable); aśmantaka (identity disputed); āmalaka (emblic myrobalan, Phyllanthus emblica; standard); decoction (kvātha); cooked",
+        "gram": "compound, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pippalīmadhukacūrṇapratīvāpaṃ",
+      "words": [
+       {
+        "w": "pippalī-madhuka-cūrṇa-pratīvāpam",
+        "gloss": "pippalī (long pepper, Piper longum; standard); madhuka; powder; addition",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpiḥpānaṃ",
+      "words": [
+       {
+        "w": "sarpiḥ-pānam",
+        "gloss": "ghee; drinking",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफज में पाषाणभेदक यानी सम्भवतः पाषाणभेद, अश्मन्तक और आमलक यानी आँवला के क्वाथ में पकाया हुआ, पिप्पली यानी पीपर और मधुक के चूर्ण के प्रतिवाप सहित घी का पान।",
+  "english": "In the Kapha-type (one): drinking of ghee cooked with a decoction (kvātha) of pāṣāṇabhedaka (probably pāṣāṇabheda), aśmantaka and āmalaka (emblic myrobalan), with powder of pippalī (long pepper) and madhuka as the addition.",
+  "text_flags": [
+   {
+    "src": "pāṣāṇabhedakāśmaṃtakāmalakakvāthasiddhaṃ",
+    "suggest": "pāṣāṇabhedakāśmantaka… (read as pāṣāṇabhedaka + aśmantaka)",
+    "why": "possible: 'kāśmantaka' is read as ka + aśmantaka; the alternative reading kāśmantaka as one word has no known sense"
+   }
+  ],
+  "notes": "Printed 'bhedakāśmaṃtaka' is read as bhedaka + aśmantaka by sandhi (a+a=ā). Identifications: pāṣāṇabhedaka = pāṣāṇabheda, Bergenia ligulata (probable; other plants also called pāṣāṇabheda); aśmantaka = identity disputed (Bauhinia species or a fig have been proposed), not enriched in the translation; āmalaka = Phyllanthus emblica (standard); pippalī = Piper longum (standard). Hindi 'कफज' for ślaiṣmika (Kapha-type).",
+  "confidence": "medium"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madanaphalakaṣāyo",
+      "words": [
+       {
+        "w": "madana-phala-kaṣāyaḥ",
+        "gloss": "madanaphala (Randia dumetorum; standard); decoction (kaṣāya)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "vamana (emesis)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मदनफल यानी मैनफल का काढ़ा वमन यानी उल्टी कराना है।",
+  "english": "A decoction of madanaphala (Randia dumetorum) as vamana (emesis).",
+  "text_flags": [],
+  "notes": "Nominal sentence; no verb. kaṣāya = decoction (preparation sense). madanaphala = fruit of madana, Randia dumetorum (standard), Hindi मैनफल.",
+  "confidence": "high"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daṃtīviḍaṃgacūrṇastailalīḍho",
+      "words": [
+       {
+        "w": "dantī-viḍaṅga-cūrṇaḥ",
+        "gloss": "dantī (Baliospermum montanum; probable); viḍaṅga (Embelia ribes; standard); powder",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "taila-līḍhaḥ",
+        "gloss": "oil; licked",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "virekaḥ",
+      "words": [
+       {
+        "w": "virekaḥ",
+        "gloss": "virecana (purgation)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दन्ती यानी सम्भवतः दन्तीमूल और विडंग यानी वायविडंग का चूर्ण, तेल से चाटा गया, विरेचन है।",
+  "english": "The powder of dantī (probably Baliospermum montanum) and viḍaṅga (Embelia ribes), licked with oil, is the purgation (virecana).",
+  "text_flags": [],
+  "notes": "'taila-līḍha' = licked with oil. dantī = Baliospermum montanum (probable); viḍaṅga = Embelia ribes (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rājavṛkṣamadanaphalakaṣāyapragāḍhamāsthāpanaṃ",
+      "words": [
+       {
+        "w": "rāja-vṛkṣa-madana-phala-kaṣāya-pragāḍham",
+        "gloss": "rājavṛkṣa (Cassia fistula; standard); madanaphala; decoction; thick, strong",
+        "gram": "compound, n. nom. sg."
+       },
+       {
+        "w": "āsthāpanam",
+        "gloss": "āsthāpana (decoction enema)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजवृक्ष यानी अमलतास और मदनफल के काढ़े से प्रगाढ़ आस्थापन।",
+  "english": "Āsthāpana (decoction enema) made strong (pragāḍha) with a decoction of rājavṛkṣa (Cassia fistula) and madanaphala.",
+  "text_flags": [],
+  "notes": "Elliptical. pragāḍha = thick / strong / dense; 'strong with the decoction' is the plain reading. rājavṛkṣa = Cassia fistula (standard); the text does not say which part. Whether 'phala' (fruit) goes with both names or only madana is not decided; the compound is read as rājavṛkṣa + madanaphala.",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhukapippalīsiddhaṃ",
+      "words": [
+       {
+        "w": "madhuka-pippalī-siddham",
+        "gloss": "madhuka; pippalī; cooked",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailamanuvāsanamuttarabastiśca",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anuvāsanam",
+        "gloss": "anuvāsana",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uttara-bastiḥ",
+        "gloss": "uttarabasti",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātaje'pyārtavadoṣebhārgībhadradārusiddhaṃ",
+      "words": [
+       {
+        "w": "vātaje",
+        "gloss": "relating to Vāta (Vāta-type)",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "ārtava-doṣe",
+        "gloss": "ārtava (menstrual blood; standard); fault (doṣa)",
+        "gram": "tat-puruṣa, m. loc. sg."
+       },
+       {
+        "w": "bhārgī-bhadradāru-siddham",
+        "gloss": "bhārgī (Clerodendrum serratum; standard); bhadradāru; cooked",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpiḥpānaṃ",
+      "words": [
+       {
+        "w": "sarpiḥ-pānam",
+        "gloss": "ghee; drinking",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुक और पिप्पली के साथ पकाया हुआ तेल, अनुवासन और उत्तरबस्ति भी। वातज आर्तव के दोष में भी भार्गी और भद्रदारु के साथ पकाए हुए घी का पान।",
+  "english": "Oil cooked with madhuka and pippalī, as anuvāsana and as uttarabasti. In the Vāta-type fault of ārtava (menstrual blood) also: drinking of ghee cooked with bhārgī (Clerodendrum serratum) and bhadradāru.",
+  "text_flags": [],
+  "notes": "GROUPING: the unit appears to join two statements. The first part (oil with madhuka and pippalī as anuvāsana and uttarabasti) appears to continue the Kapha-type therapies of 52-55; the second part ('vātaje api ārtavadoṣe …') starts the ārtava (menstrual blood) faults. The print omits the space in 'ārtavadoṣebhārgī…' (read as ārtavadoṣe + bhārgī). 'api' may mean that the Vāta-type of ārtava is treated 'also' like the earlier cases. Identification: bhārgī = Clerodendrum serratum (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāśmaryakṣudrasahāsūisiddhaṃ",
+      "words": [
+       {
+        "w": "kāśmaryakṣudrasahāsūisiddhaṃ",
+        "gloss": "unclear (damaged compound, begins like kāśmarya and kṣudrasahā, ends 'cooked')",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīraṃ",
+      "words": [
+       {
+        "w": "kṣīram",
+        "gloss": "milk",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा, अनुमानित पाठ पर, काश्मर्य, क्षुद्रसहा और एक अस्पष्ट शब्द के साथ पकाया हुआ दूध।",
+  "english": "Or milk cooked with kāśmarya, kṣudrasahā and an unclear word, on a conjectural reading.",
+  "text_flags": [
+   {
+    "src": "kāśmaryakṣudrasahāsūisiddhaṃ",
+    "suggest": "kāśmarya-kṣudrasahā-[…]-siddhaṃ",
+    "why": "damaged: 'sūi' is not a word; the middle is unrestorable (a drug name may stand there), and 'kṣudrasahā' is itself doubtful"
+   }
+  ],
+  "notes": "Damaged print: the printed word is kept unsplit. The beginning kāśmarya (Gmelina arborea, gambhārī; standard) and kṣudrasahā (a drug name, identity disputed) is a reading only; the part 'sūi' is unclear and nothing is built on it. Translation therefore given on a conjectural reading, and the grammar (milk cooked with the drugs) is also conjectural.",
+  "confidence": "low"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhukaśṛgālavinnākalke",
+      "words": [
+       {
+        "w": "madhuka-śṛgālavinnā-kalke",
+        "gloss": "madhuka; śṛgālavinnā (identity disputed); paste (kalka)",
+        "gram": "dvandva + tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "payaḥsarpiḥ",
+      "words": [
+       {
+        "w": "payaḥ-sarpiḥ",
+        "gloss": "milk; ghee",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahitaṃ",
+      "words": [
+       {
+        "w": "sahitam",
+        "gloss": "combined, together with",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुक और शृगालविन्ना के कल्क में, दूध और घी के साथ संयुक्त।",
+  "english": "In a paste (kalka) of madhuka and śṛgālavinnā, combined with milk and ghee.",
+  "text_flags": [
+   {
+    "src": "kalke",
+    "suggest": "kalkaṃ",
+    "why": "possible: 'sahitam' is neuter nominative/accusative, so 'kalkam' (paste combined with milk and ghee) fits better than the locative"
+   }
+  ],
+  "notes": "As printed, kalke is locative; the neuter 'sahitam' suggests kalkam. Both readings are literal-possible; the translation follows the printed locative. Elliptical. śṛgālavinnā: identity disputed (Pseudarthria viscida has been proposed), not enriched in the translation.",
+  "confidence": "low"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "priyaṃgutilakalkaṃ",
+      "words": [
+       {
+        "w": "priyaṅgu-tila-kalkam",
+        "gloss": "priyaṅgu (Callicarpa macrophylla; probable); tila (sesame, Sesamum indicum; standard); paste",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "yoni (vagina; standard)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhārayet",
+      "words": [
+       {
+        "w": "dhārayet",
+        "gloss": "should hold, retain",
+        "gram": "3 sg. opt. caus. √dhṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा प्रियंगु यानी सम्भवतः फूलप्रियंगु और तिल का कल्क योनि में धारण करे।",
+  "english": "Or one should hold a paste (kalka) of priyaṅgu (probably Callicarpa macrophylla) and tila (sesame) in the yoni (vagina).",
+  "text_flags": [],
+  "notes": "Identifications: priyaṅgu = Callicarpa macrophylla (probable; the name is also used for other plants); tila = Sesamum indicum (standard). 'kalka' is taken as masculine here.",
+  "confidence": "high"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saralamudgaparṇīkaṣāyaḥ",
+      "words": [
+       {
+        "w": "sarala-mudgaparṇī-kaṣāyaḥ",
+        "gloss": "sarala (Pinus roxburghii; probable); mudgaparṇī; decoction (kaṣāya)",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṣālanaṃ",
+      "words": [
+       {
+        "w": "prakṣālanam",
+        "gloss": "washing, rinsing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सरल यानी सम्भवतः चीड़ और मुद्गपर्णी का काढ़ा प्रक्षालन है।",
+  "english": "A decoction of sarala (probably Pinus roxburghii) and mudgaparṇī as the wash (prakṣālana).",
+  "text_flags": [],
+  "notes": "Nominal sentence. sarala = Pinus roxburghii, chir pine (probable). kaṣāya = decoction. Wash presumably of the yoni, from the preceding unit, but the text does not say.",
+  "confidence": "high"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittaje",
+      "words": [
+       {
+        "w": "pittaje",
+        "gloss": "relating to Pitta (Pitta-type)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kākolīdvayavidārīmūlakvāthamutpalapadmakakvāthaṃ",
+      "words": [
+       {
+        "w": "kākolī-dvaya-vidārī-mūla-kvātham",
+        "gloss": "kākolī (identity disputed); pair; vidārī; root; decoction",
+        "gram": "compound, m. acc. sg."
+       },
+       {
+        "w": "utpala-padmaka-kvātham",
+        "gloss": "utpala (blue lotus, Nymphaea; probable); padmaka (Prunus cerasoides; probable); decoction",
+        "gram": "compound, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhukapuṣpakāśmaryaphalakvāthaṃ",
+      "words": [
+       {
+        "w": "madhuka-puṣpa-kāśmarya-phala-kvātham",
+        "gloss": "madhuka (Madhuca tree is possible here); flower; kāśmarya (Gmelina arborea; standard); fruit; decoction",
+        "gram": "compound, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsaśarkaraṃ",
+      "words": [
+       {
+        "w": "vāsa-śarkaram",
+        "gloss": "vāsa (Adhatoda vasica; standard); sugar (śarkarā)",
+        "gram": "n./m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पित्तज में काकोली के जोड़े और विदारी की जड़ का क्वाथ, उत्पल और पद्मक का क्वाथ, मधुक के फूल और काश्मर्य के फल का क्वाथ, वासा और शर्करा सहित पीए।",
+  "english": "In the Pitta-type (one) one should drink the decoction of the pair of kākolī and the root of vidārī, the decoction of utpala and padmaka, and the decoction of the flower of madhuka and the fruit of kāśmarya, with vāsa and sugar.",
+  "text_flags": [],
+  "notes": "Identifications: kākolī = identity disputed (a Himalayan tuber, with its pair kṣīrakākolī, is proposed), not enriched; utpala = blue lotus (probable); padmaka = Prunus cerasoides (probable); vāsa = Adhatoda vasica (standard). The decoction kvātha is repeated three times; whether 'with vāsa and sugar' applies to one or all three is not decided by the Sanskrit. 'madhuka-puṣpa': the flower suggests the madhuka tree (Madhuca), not licorice. Taken as 'flower of madhuka, fruit of kāśmarya'; the alternative 'madhuka; flower and fruit of kāśmarya' is possible.",
+  "confidence": "medium"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śvetacaṃdanakvāthaṃ",
+      "words": [
+       {
+        "w": "śveta-candana-kvātham",
+        "gloss": "white; sandalwood (Santalum album; probable); decoction",
+        "gram": "karmadhāraya + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sakṣaudraṃ",
+      "words": [
+       {
+        "w": "sa-kṣaudram",
+        "gloss": "with honey (kṣaudra)",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा श्वेत चन्दन का क्वाथ, शहद सहित।",
+  "english": "Or a decoction of white sandalwood (śveta-candana, probably Santalum album), with honey.",
+  "text_flags": [],
+  "notes": "Elliptical; 'pibet' is not stated here. śveta-candana = white sandalwood, Santalum album (probable). kṣaudra = honey (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhavadhātakīkalkaṃ",
+      "words": [
+       {
+        "w": "dhava-dhātakī-kalkam",
+        "gloss": "dhava (Anogeissus latifolia; probable); dhātakī (Woodfordia fruticosa; standard); paste",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा धव यानी सम्भवतः धौ और धातकी यानी धाय का कल्क।",
+  "english": "Or a paste (kalka) of dhava (probably Anogeissus latifolia) and dhātakī (Woodfordia fruticosa).",
+  "text_flags": [],
+  "notes": "Elliptical. dhava = Anogeissus latifolia (probable); dhātakī = Woodfordia fruticosa (standard); the part used is not named.",
+  "confidence": "high"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ghṛtena",
+      "words": [
+       {
+        "w": "ghṛtena",
+        "gloss": "with ghee",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhukamadhurasāmṛdvīkākalkaṃ",
+      "words": [
+       {
+        "w": "madhuka-madhurasā-mṛdvīkā-kalkam",
+        "gloss": "madhuka; madhurasā (identity disputed); mṛdvīkā (grape or raisin, Vitis vinifera; standard); paste",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा घी के साथ मधुक, मधुरसा और मृद्वीका यानी मुनक्का का कल्क।",
+  "english": "Or, with ghee, a paste (kalka) of madhuka, madhurasā and mṛdvīkā (grape or raisin).",
+  "text_flags": [],
+  "notes": "Elliptical. madhurasā: identity disputed (several plants carry the name), not enriched. mṛdvīkā = grape or raisin, Vitis vinifera (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śamyākagavākṣīkṣīraṃ",
+      "words": [
+       {
+        "w": "śamyāka-gavākṣī-kṣīram",
+        "gloss": "śamyāka (probably Cassia fistula; disputed); gavākṣī (Citrullus colocynthis; probable); milk",
+        "gram": "compound, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "virekaḥ",
+      "words": [
+       {
+        "w": "virekaḥ",
+        "gloss": "virecana (purgation)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शम्याक, गवाक्षी यानी सम्भवतः इन्द्रायण और दूध विरेचन है।",
+  "english": "Śamyāka, gavākṣī (probably Citrullus colocynthis) and milk are the purgation (virecana).",
+  "text_flags": [],
+  "notes": "Nominal sentence. The compound can be read as a list 'śamyāka, gavākṣī and milk' (taken here) or as 'milk (or latex, kṣīra) of śamyāka and gavākṣī'. Identifications: śamyāka = probably Cassia fistula (disputed; another tree is also proposed); gavākṣī = Citrullus colocynthis (probable).",
+  "confidence": "medium"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caṃdanapayasyākalkaṃ",
+      "words": [
+       {
+        "w": "candana-payasyā-kalkam",
+        "gloss": "candana (sandalwood); payasyā; paste",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "yoni (vagina)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhārayet",
+      "words": [
+       {
+        "w": "dhārayet",
+        "gloss": "should hold, retain",
+        "gram": "3 sg. opt. caus. √dhṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चन्दन और पयस्या का कल्क योनि में धारण करे।",
+  "english": "One should hold a paste (kalka) of candana (sandalwood) and payasyā in the yoni (vagina).",
+  "text_flags": [],
+  "notes": "candana: the text does not say white or red (compare unit 62). payasyā identity disputed (see 50).",
+  "confidence": "high"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gairikāriṣṭakaṣāyaḥ",
+      "words": [
+       {
+        "w": "gairika-ariṣṭa-kaṣāyaḥ",
+        "gloss": "gairika (red ochre; standard); ariṣṭa (probably neem, Azadirachta indica; disputed); decoction",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṣālanaṃ",
+      "words": [
+       {
+        "w": "prakṣālanam",
+        "gloss": "washing, rinsing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गैरिक यानी लाल गेरू और अरिष्ट यानी सम्भवतः नीम का काढ़ा प्रक्षालन है।",
+  "english": "A decoction of gairika (red ochre) and ariṣṭa (probably neem) as the wash (prakṣālana).",
+  "text_flags": [],
+  "notes": "Nominal sentence. gairika is a mineral (red ochre), so 'decoction' of it is literal as the print says; the sense may be a decoction of ariṣṭa with gairika. ariṣṭa = probably neem (disputed; soapnut, ariṣṭaka, is also proposed).",
+  "confidence": "medium"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ślaiṣmike",
+      "words": [
+       {
+        "w": "ślaiṣmike",
+        "gloss": "relating to Kapha (Kapha-type)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṭajakaṭukā'śvagaṃdhākvāthaṃ",
+      "words": [
+       {
+        "w": "kuṭaja-kaṭukā-aśvagandhā-kvātham",
+        "gloss": "kuṭaja (Holarrhena antidysenterica; standard); kaṭukā (Picrorhiza kurroa; probable); aśvagandhā (Withania somnifera; standard); decoction",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफज में कुटज यानी कुड़ा, कटुका यानी सम्भवतः कुटकी और अश्वगन्धा का क्वाथ पीए।",
+  "english": "In the Kapha-type (one) one should drink a decoction of kuṭaja (Holarrhena antidysenterica), kaṭukā (probably Picrorhiza kurroa) and aśvagandhā (Withania somnifera).",
+  "text_flags": [],
+  "notes": "Identifications: kuṭaja (standard), kaṭukā (probable; the name is also used for other bitter plants), aśvagandhā (standard).",
+  "confidence": "high"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samākṣikaṃ",
+      "words": [
+       {
+        "w": "sa-mākṣikam",
+        "gloss": "with honey (mākṣika)",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrivṛkṣabhavālakāthaṃ",
+      "words": [
+       {
+        "w": "kṣīrivṛkṣabhavālakāthaṃ",
+        "gloss": "unclear (damaged; begins like kṣīrivṛkṣa, milk-trees; ends like a decoction)",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा, अनुमानित पाठ पर, मधु सहित क्षीरिवृक्ष से सम्बन्धित एक अस्पष्ट पद का काढ़ा।",
+  "english": "Or, with honey (mākṣika), on a conjectural reading a decoction relating to the milk-trees (kṣīrivṛkṣa); the printed word is unclear.",
+  "text_flags": [
+   {
+    "src": "kṣīrivṛkṣabhavālakāthaṃ",
+    "suggest": "kṣīrivṛkṣa-…-kvāthaṃ",
+    "why": "damaged: 'bhavālakātha' is not a word; probably a decoction (kvātha) of something of the milk-trees, but the middle cannot be restored"
+   }
+  ],
+  "notes": "Damaged print: kept unsplit. 'kṣīrivṛkṣa' = trees with milky latex (the fig group, probable); the rest is not restorable and nothing is built on it. samākṣika = with honey (mākṣika means honey; a mineral of that name is also known, so honey is the plain sense).",
+  "confidence": "low"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eteṣāmeva",
+      "words": [
+       {
+        "w": "eteṣām",
+        "gloss": "of these",
+        "gram": "m./n. gen. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇa",
+      "words": [
+       {
+        "w": "cūrṇam",
+        "gloss": "powder",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhughṛtābhyāṃ",
+      "words": [
+       {
+        "w": "madhu-ghṛtābhyām",
+        "gloss": "honey; ghee",
+        "gram": "dvandva, n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "lihyāt",
+      "words": [
+       {
+        "w": "lihyāt",
+        "gloss": "should lick",
+        "gram": "3 sg. opt. √lih"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा इन्हीं का चूर्ण शहद और घी के साथ चाटे।",
+  "english": "Or one should lick the powder of just these, with honey and ghee.",
+  "text_flags": [
+   {
+    "src": "cūrṇa",
+    "suggest": "cūrṇaṃ",
+    "why": "possible: the anusvāra is missing; cūrṇam (n. acc. sg.) is needed as object"
+   }
+  ],
+  "notes": "'eteṣām' refers to the drugs of the preceding Kapha-type formulas (not stated which). The dual instrumental 'madhughṛtābhyām' means with honey and ghee; no proportions are given.",
+  "confidence": "high"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madanaphalakaṣāyeṇa",
+      "words": [
+       {
+        "w": "madana-phala-kaṣāyeṇa",
+        "gloss": "madanaphala; decoction (kaṣāya)",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "vamana (emesis)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मदनफल के काढ़े से वमन।",
+  "english": "Vamana (emesis) with a decoction of madanaphala.",
+  "text_flags": [],
+  "notes": "Elliptical; no verb. See unit 53 for the identification of madanaphala.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatkalkameva",
+      "words": [
+       {
+        "w": "tat-kalkam",
+        "gloss": "its paste",
+        "gram": "tat-puruṣa, m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "yoni (vagina)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhārayet",
+      "words": [
+       {
+        "w": "dhārayet",
+        "gloss": "should hold, retain",
+        "gram": "3 sg. opt. caus. √dhṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसी का कल्क योनि में धारण करे।",
+  "english": "And one should hold just its paste in the yoni (vagina).",
+  "text_flags": [],
+  "notes": "'tat' refers to madanaphala of unit 71 (the nearest drug); this is the plain reading.",
+  "confidence": "medium"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rodhārtidukakaṣāyaḥ",
+      "words": [
+       {
+        "w": "rodhārtidukakaṣāyaḥ",
+        "gloss": "unclear (damaged compound ending 'decoction')",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "prakṣālanaṃ",
+      "words": [
+       {
+        "w": "prakṣālanam",
+        "gloss": "washing, rinsing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastameṣamūtraṃ",
+      "words": [
+       {
+        "w": "basta-meṣa-mūtram",
+        "gloss": "he-goat; sheep; urine",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, रोधार्तिदुक नामक अस्पष्ट पद का काढ़ा प्रक्षालन है, अथवा बकरे और भेड़ का मूत्र।",
+  "english": "On a conjectural reading, a decoction of the unclear compound rodhārtiduka- as the wash (prakṣālana), or the urine of goat and sheep.",
+  "text_flags": [
+   {
+    "src": "rodhārtidukakaṣāyaḥ",
+    "suggest": "rodhra-…-kaṣāyaḥ (reading unclear)",
+    "why": "damaged: 'rodhārtiduka' is not a known drug; 'rodha-' may stand for lodhra, but nothing can be restored with confidence"
+   }
+  ],
+  "notes": "Damaged print: kept unsplit. 'kaṣāya' at the end is read as decoction. basta is he-goat (it can also mean bladder, but 'meṣa' beside it makes animals the sense). The urine is named without any condition.",
+  "confidence": "low"
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṇaparetasi",
+      "words": [
+       {
+        "w": "kuṇapa-retasi",
+        "gloss": "kuṇapa (corpse); semen (retas)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhātakīpuṣpakhadiārjunadāḍimaiḥ",
+      "words": [
+       {
+        "w": "dhātakī-puṣpa-khadira-arjuna-dāḍimaiḥ",
+        "gloss": "dhātakī (flower); khadira (Acacia catechu; standard); arjuna (Terminalia arjuna; standard); dāḍima (pomegranate, Punica granatum; standard)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "siddhamamanādibhirvā",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "cooked",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "amanādibhiḥ",
+        "gloss": "unclear (damaged; possibly madanādibhiḥ, 'with madana and the like')",
+        "gram": "unclear"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarpiḥ",
+      "words": [
+       {
+        "w": "sarpiḥ",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāyayet",
+      "words": [
+       {
+        "w": "pāyayet",
+        "gloss": "should make (him) drink",
+        "gram": "3 sg. opt. caus. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुणप-रेतस् यानी सम्भवतः शव जैसी गन्ध वाले शुक्र में धातकी के फूल, खदिर, अर्जुन और अनार के साथ पकाया हुआ, अथवा अनुमानित पाठ पर मदन आदि के साथ पकाया हुआ घी पिलाए।",
+  "english": "In kuṇapa-retas (probably semen of a corpse-like smell), one should make him drink ghee cooked with the flowers of dhātakī, khadira, arjuna and dāḍima (pomegranate), or, on a conjectural reading, with madana and the like.",
+  "text_flags": [
+   {
+    "src": "dhātakīpuṣpakhadiārjunadāḍimaiḥ",
+    "suggest": "dhātakīpuṣpakhadirārjunadāḍimaiḥ",
+    "why": "possible: 'khadi-ā' is not sandhi; khadira + arjuna gives khadirārjuna with the r dropped in print"
+   },
+   {
+    "src": "siddhamamanādibhirvā",
+    "suggest": "siddhaṃ madanādibhirvā",
+    "why": "possible: 'amanādi' may be madanādi with da and ma transposed; damaged, so only conjectural"
+   }
+  ],
+  "notes": "'dhātakī-puṣpa' read as 'flowers of dhātakī' (Woodfordia fruticosa, see unit 63). Identifications: khadira = Acacia catechu (standard); arjuna = Terminalia arjuna (standard); dāḍima = Punica granatum (standard). 'kuṇapa-retas': literally 'corpse semen'; the usual understanding is semen smelling like a corpse (probable), not enriched in the split. 'pāyayet' = causative, 'should make (him) drink'. 'madanādi' (conjectured) would mean madana and the like; this reading is only conjectural.",
+  "confidence": "low"
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "graṃdhiretasi",
+      "words": [
+       {
+        "w": "granthi-retasi",
+        "gloss": "knot, lump (granthi); semen (retas)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṣāṇabhidā",
+      "words": [
+       {
+        "w": "pāṣāṇabhidā",
+        "gloss": "pāṣāṇabhid (pāṣāṇabheda)",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "palāśabhasmanā",
+      "words": [
+       {
+        "w": "palāśa-bhasmanā",
+        "gloss": "palāśa (Butea monosperma; standard); ash",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रन्थि-रेतस् यानी गाँठ वाले शुक्र में पाषाणभिद् से, अथवा पलाश यानी ढाक की भस्म से।",
+  "english": "In granthi-retas (semen with knots or lumps): with pāṣāṇabhid, or with the ash of palāśa (Butea monosperma).",
+  "text_flags": [],
+  "notes": "Elliptical: the verb and the nature of the preparation are not stated (the verb of unit 74 may be carried over; none supplied). pāṣāṇabhid = pāṣāṇabheda (Bergenia ligulata, probable, see 52). palāśa = Butea monosperma (standard). 'granthi-retas' = semen with granthi (knot / lump), the text gives no further description.",
+  "confidence": "medium"
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūyaretasi",
+      "words": [
+       {
+        "w": "pūya-retasi",
+        "gloss": "pus; semen (retas)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parūṣakādinyagrodhādibhyāṃ",
+      "words": [
+       {
+        "w": "parūṣaka-ādi",
+        "gloss": "parūṣaka (phalsa, Grewia asiatica; standard); beginning with",
+        "gram": "bahuvrīhi, m. inst. du."
+       },
+       {
+        "w": "nyagrodha-ādibhyām",
+        "gloss": "nyagrodha (banyan, Ficus benghalensis; standard); beginning with",
+        "gram": "bahuvrīhi, m. inst. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पूय-रेतस् यानी पीब वाले शुक्र में परूषक से आरम्भ होने वाले और न्यग्रोध से आरम्भ होने वाले दो समूहों से।",
+  "english": "In pūya-retas (semen with pus): with the two (groups) beginning with parūṣaka and beginning with nyagrodha.",
+  "text_flags": [],
+  "notes": "Elliptical; the verb and the form of use (decoction, paste, etc.) are not stated. The dual 'ādibhyām' is read as the two groups parūṣakādi and nyagrodhādi (named drug groups); the members of the groups are not given here and are not supplied. parūṣaka = Grewia asiatica (standard); nyagrodha = Ficus benghalensis (standard). The first 'ādi' is in compound form, so the dual ending is read once on the second.",
+  "confidence": "medium"
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtrapurīṣaretasi",
+      "words": [
+       {
+        "w": "mūtra-purīṣa-retasi",
+        "gloss": "urine; feces; semen (retas)",
+        "gram": "dvandva + tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyunā'tivikṛte",
+      "words": [
+       {
+        "w": "vāyunā",
+        "gloss": "by Vāyu (wind)",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ati-vikṛte",
+        "gloss": "greatly; altered",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hiṃguśīracitrakairathavācitrakavitunnakapriyaṃguhiṃgusamaṃgāmṛṇālasiddhamelāmocacūrṇapratīvāpaṃ",
+      "words": [
+       {
+        "w": "hiṅgu-uśīra-citrakaiḥ",
+        "gloss": "hiṅgu (asafoetida, Ferula assa-foetida; standard); uśīra (vetiver, Vetiveria zizanioides; probable); citraka (leadwort, Plumbago zeylanica; standard)",
+        "gram": "dvandva, m. inst. pl."
+       },
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "citraka-vitunnaka-priyaṅgu-hiṅgu-samaṅgā-mṛṇāla-siddham",
+        "gloss": "citraka; vitunnaka (identity disputed); priyaṅgu; hiṅgu; samaṅgā (identity disputed); mṛṇāla (lotus stalk, Nelumbo nucifera; standard); cooked",
+        "gram": "dvandva, n. nom. sg."
+       },
+       {
+        "w": "elā-moca-cūrṇa-pratīvāpam",
+        "gloss": "elā (small cardamom, Elettaria cardamomum; probable); moca (identity disputed); powder; addition",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूत्र-पुरीष-रेतस् यानी मूत्र और मल वाले शुक्र में, जब वह वायु से अत्यन्त विकृत हो, हींग, उशीर और चित्रकों से; अथवा चित्रक, वितुन्नक, प्रियंगु, हींग, समंगा और मृणाल के साथ पकाया हुआ, इलायची और मोच के चूर्ण के प्रतिवाप सहित।",
+  "english": "In mūtra-purīṣa-retas (semen with urine and feces), when it is greatly altered by Vāyu (wind): with hiṅgu, uśīra and citraka; or the (one) cooked with citraka, vitunnaka, priyaṅgu, hiṅgu, samaṅgā and mṛṇāla (lotus stalk), with the powder of elā and moca as the addition.",
+  "text_flags": [
+   {
+    "src": "hiṃguśīra…",
+    "suggest": "hiṅgūśīra…",
+    "why": "possible: hiṅgu + uśīra gives hiṅgūśīra with long ū; the print has a short u; 'śīra' alone has no sense here"
+   }
+  ],
+  "notes": "Long, elliptical unit; no verb. 'mūtra-purīṣa-retas' is read as semen marked by urine and feces (probable; the exact sense is not given). 'vāyunā' = by Vāyu, the wind (Vāta). The first list (hiṅgu, uśīra, citraka) is instrumental plural and the second list is 'cooked' (siddha) with a powder as addition; the Sanskrit does not name what is cooked (supplied as 'the (one)'). citraka and hiṅgu occur in both lists as printed. Identifications: hiṅgu = Ferula assa-foetida (standard); uśīra = Vetiveria zizanioides (probable, depends on the typo reading); citraka = Plumbago zeylanica (standard); vitunnaka and samaṅgā = identity disputed, not enriched; mṛṇāla = lotus stalk (standard); elā = small cardamom (probable); moca = identity disputed (banana or a gum of the silk-cotton tree have been proposed). The printed 'mocacūrṇa' is read as 'moca' + 'cūrṇa' (mocā-cūrṇa possible).",
+  "confidence": "low"
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "graṃthyārtave",
+      "words": [
+       {
+        "w": "granthi-ārtave",
+        "gloss": "knot, lump (granthi); ārtava (menstrual blood)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṭhātrikaṃṭakavṛkṣakakvāthaṃ",
+      "words": [
+       {
+        "w": "pāṭhā-trikaṇṭaka-vṛkṣaka-kvātham",
+        "gloss": "pāṭhā (Cissampelos pareira; probable); trikaṇṭaka (probably Tribulus terrestris, as for śvadaṃṣṭrā; probable); vṛkṣaka (probably kuṭaja; probable); decoction",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी प्रकार ग्रन्थि वाले आर्तव में पाठा, त्रिकण्टक और वृक्षक का क्वाथ।",
+  "english": "Likewise, in granthi-ārtava (menstrual blood with knots or lumps): a decoction of pāṭhā, trikaṇṭaka and vṛkṣaka.",
+  "text_flags": [],
+  "notes": "Elliptical; the verb (pibet of unit 79) is not stated here and none is supplied. Identifications: pāṭhā = Cissampelos pareira (probable); trikaṇṭaka = Tribulus terrestris (probable, the same plant as śvadaṃṣṭrā); vṛkṣaka = kuṭaja, Holarrhena antidysenterica (probable). The part used of each is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṇapapūyārtave",
+      "words": [
+       {
+        "w": "kuṇapa-pūya-ārtave",
+        "gloss": "corpse; pus; ārtava (menstrual blood)",
+        "gram": "dvandva + tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caṃdanakvāthaṃ",
+      "words": [
+       {
+        "w": "candana-kvātham",
+        "gloss": "candana; decoction",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     },
+     {
+      "src": "triphalākalkakvāthau",
+      "words": [
+       {
+        "w": "triphalā-kalka-kvāthau",
+        "gloss": "triphalā (the three myrobalans; standard); paste; decoction",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhāraṇācamane",
+      "words": [
+       {
+        "w": "dhāraṇa-ācamane",
+        "gloss": "holding, retaining (dhāraṇa); rinsing (ācamana)",
+        "gram": "dvandva, n. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शव और पीब वाले आर्तव में चन्दन का क्वाथ पीए। और यहाँ त्रिफला यानी हरड़, बहेड़ा और आँवला का कल्क और क्वाथ, धारण और आचमन।",
+  "english": "In kuṇapa-pūya-ārtava (menstrual blood with a corpse-like smell and pus, probably), one should drink a decoction of candana. And here the paste and the decoction of triphalā (the three myrobalans), the holding (dhāraṇa) and the rinsing (ācamana).",
+  "text_flags": [],
+  "notes": "'kuṇapa-pūya' is read as corpse-like and pus (the understanding of kuṇapa as smell is probable, see unit 74). The last clause is a nominal sentence of two duals: paste and decoction, holding and rinsing; the text does not say which goes with which (paste for holding and decoction for rinsing is the natural order), and no verb is supplied. triphalā = the three myrobalans: harītakī, bibhītaka, āmalaka (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarveṣuca",
+      "words": [
+       {
+        "w": "sarveṣu",
+        "gloss": "in all",
+        "gram": "m./n. loc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukrārtavadoṣeṣu",
+      "words": [
+       {
+        "w": "śukra-ārtava-doṣeṣu",
+        "gloss": "semen; ārtava; faults (doṣa)",
+        "gram": "dvandva + tat-puruṣa, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "strīpuṃsau",
+      "words": [
+       {
+        "w": "strī-puṃsau",
+        "gloss": "woman; man",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "snehādikarmabhirviśeṣeṇottarabastibhiḥpunaḥ",
+      "words": [
+       {
+        "w": "sneha-ādi-karmabhiḥ",
+        "gloss": "sneha (oil, fat); beginning with; actions",
+        "gram": "bahuvrīhi, n. inst. pl."
+       },
+       {
+        "w": "viśeṣeṇa",
+        "gloss": "especially",
+        "gram": "m. inst. sg. as adv."
+       },
+       {
+        "w": "uttara-bastibhiḥ",
+        "gloss": "uttarabasti injections",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punarupācaret",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "upācaret",
+        "gloss": "should treat",
+        "gram": "3 sg. opt. upa-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और शुक्र तथा आर्तव के सभी दोषों में स्त्री और पुरुष दोनों का स्नेह यानी तेल या वसा आदि कर्मों से, विशेष रूप से उत्तरबस्तियों से, बार बार उपचार करे।",
+  "english": "And in all faults (doṣa) of semen and ārtava, one should treat the woman and the man again and again with the actions beginning with sneha (oil, fat), especially with uttarabasti injections.",
+  "text_flags": [],
+  "notes": "'sarveṣuca' is printed without a space (sarveṣu ca). 'punaḥ punaḥ' = again and again; the first 'punaḥ' is joined to 'uttarabastibhiḥ'. 'strī-puṃsau' is a dual: the woman and the man, both. 'snehādi-karma' = the actions beginning with oleation (sneha); the list is not given.",
+  "confidence": "high"
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathāsvaṃ",
+      "words": [
+       {
+        "w": "yathāsvam",
+        "gloss": "each according to its own, as suited",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "yoni (vagina)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalkaiḥ",
+      "words": [
+       {
+        "w": "kalkaiḥ",
+        "gloss": "with pastes",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "picubhiśca",
+      "words": [
+       {
+        "w": "picubhiḥ",
+        "gloss": "with picu (cotton-wool wads)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिसके लिए जो उचित हो, योनि में कल्कों और पिचुओं से।",
+  "english": "And in the yoni (vagina), as suited to each, with pastes (kalka) and with picu (cotton-wool wads).",
+  "text_flags": [],
+  "notes": "GROUPING: the unit appears to continue unit 80 (the verb 'upācaret' is carried over; none supplied). picu = a wad or swab of cotton (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ityevaṃviśuddhaśukrārtavau",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       },
+       {
+        "w": "viśuddha-śukra-ārtavau",
+        "gloss": "purified; semen; ārtava",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pūrvoktaṃ",
+      "words": [
+       {
+        "w": "pūrva-uktam",
+        "gloss": "earlier; stated",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhimāsevetāṃ",
+      "words": [
+       {
+        "w": "vidhim",
+        "gloss": "procedure (vidhi)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsevetām",
+        "gloss": "should follow, practise",
+        "gram": "3 du. opt. ā-√sev"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार जिन दोनों के शुक्र और आर्तव शुद्ध हों, वे पहले कहे गए विधि का पालन करें।",
+  "english": "In this way, the two whose semen and ārtava are purified should follow the procedure (vidhi) stated earlier.",
+  "text_flags": [],
+  "notes": "'iti' here closes the preceding statement and is not translated. 'pūrvoktam' is masculine accusative in the print; vidhim is masculine, so it agrees. 'The two' are the man and the woman of unit 80.",
+  "confidence": "high"
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛtustu",
+      "words": [
+       {
+        "w": "ṛtuḥ",
+        "gloss": "ṛtu (season, the woman's period)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭārtavo",
+      "words": [
+       {
+        "w": "dṛṣṭa-ārtavaḥ",
+        "gloss": "seen; ārtava (menstrual blood)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśarātraṃ",
+      "words": [
+       {
+        "w": "dvādaśa-rātram",
+        "gloss": "twelve nights",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऋतु तो दृष्ट आर्तव वाला और बारह रात तक होता है।",
+  "english": "The ṛtu (season), however, is that with ārtava seen, and it lasts twelve nights.",
+  "text_flags": [],
+  "notes": "Reading: 'ṛtuḥ dṛṣṭārtavaḥ dvādaśarātram bhavati', 'the ṛtu is one with visible ārtava, for twelve nights'. The sense of ṛtu is the woman's season for conception (probable); not enriched in the translation. The counts follow the print: twelve nights, then sixteen (84) and a month (85) as the views of others.",
+  "confidence": "medium"
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣoḍaśarātramityanye",
+      "words": [
+       {
+        "w": "ṣoḍaśa-rātram",
+        "gloss": "sixteen nights",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्य लोगों के अनुसार सोलह रात।",
+  "english": "According to others, sixteen nights.",
+  "text_flags": [],
+  "notes": "Elliptical; 'iti anye' marks the opinion of others, so 'according to others' is a plain rendering; no verb in the Sanskrit. Refers to the length of the ṛtu of unit 83. The number is as printed.",
+  "confidence": "high"
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuddhayonigarbhāśayārtavāyā",
+      "words": [
+       {
+        "w": "śuddha-yoni-garbhāśaya-ārtavāyāḥ",
+        "gloss": "pure; yoni; garbhāśaya (womb); ārtava",
+        "gram": "bahuvrīhi, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsamapi",
+      "words": [
+       {
+        "w": "māsam",
+        "gloss": "a month",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kecit",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके योनि, गर्भाशय और आर्तव शुद्ध हों, उसके लिए कुछ लोगों के अनुसार एक मास भी।",
+  "english": "But, according to some, even a month, of (the one) whose yoni, womb (garbhāśaya) and ārtava are pure.",
+  "text_flags": [
+   {
+    "src": "śuddhayonigarbhāśayārtavāyā",
+    "suggest": "…ārtavāyāḥ",
+    "why": "possible: the visarga is missing; the genitive singular is ārtavāyāḥ"
+   }
+  ],
+  "notes": "GROUPING: the unit appears to continue units 83-84 (the length of the ṛtu). The feminine bahuvrīhi implies a woman; it is shown as 'the one'. garbhāśaya = womb (standard), literally 'seat of the embryo'. 'Some' states an opinion; no verb in the Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadvadadṛṣṭārtavo'pyastītyapare",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "adṛṣṭa-ārtavaḥ",
+        "gloss": "not seen; ārtava",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "asti",
+        "gloss": "is, exists",
+        "gram": "3 sg. pres. √as"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "apare",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्य लोगों के अनुसार उसी प्रकार अदृष्ट आर्तव वाला भी होता है।",
+  "english": "According to others, in the same way there is also one with ārtava not seen.",
+  "text_flags": [],
+  "notes": "'iti apare' marks the opinion of others. The unstated noun is shown as 'one' (it agrees with ṛtu, masculine). 'tadvat' is read as 'in the same way (a month)'. The printed unit begins 'tadvada…' with the sandhi tadvat + adṛṣṭa.",
+  "confidence": "medium"
+ }
+]

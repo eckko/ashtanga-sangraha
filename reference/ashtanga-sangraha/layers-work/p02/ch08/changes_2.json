@@ -1,0 +1,196 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: सम को सभी रसों से और सात्म्य से, और दूसरों को ऋतु के अनुसार विहित से भी।",
+  "new": "अनुमानित पाठ पर: सम को सभी रसों से और सात्म्य यानी अनुकूल से, और दूसरों को ऋतु के अनुसार विहित से भी।",
+  "why": "reviewer (minor): Hindi leaves sātmya unglossed while English gives 'suited by habit'."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "One should know them only by what has arisen from them, as stated, by cleanliness (śauca) and the like.",
+  "new": "One should know them by cleanliness (śauca) and the like, as stated, arisen only from them.",
+  "why": "reviewer (error): 'tad-abhinivṛttaiḥ' and 'yathoktaiḥ' are adjectives agreeing with śaucādibhiḥ; the English invents a separate noun ('what has arisen') and so says 'by ... by'."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "Several lines in the chunk start 'tāḥ' = the constitutions (prakṛti, f. pl.) of 40, antecedent assumed. 'tad-abhinivṛtta' = produced from it/them, read as 'the (features) produced from them' (noun unstated, so none is added). Sandhi: tāḥ+tad > tās tad; abhinivṛttair+eva; śaucādibhir+jānīyāt (regular).",
+  "new": "Several lines in the chunk start 'tāḥ' = the constitutions (prakṛti, f. pl.) of 40, antecedent assumed. 'tad-abhinivṛtta' = produced from it/them, an adjective agreeing with śaucādibhiḥ ('cleanliness etc. produced from them'). Sandhi: tāḥ+tad > tās tad; abhinivṛttair+eva; śaucādibhir+jānīyāt (regular).",
+  "why": "reviewer (minor): Note repeats the wrong analysis (a noun supplied for the adjectives)."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "tad-abhinivṛttaiḥ",
+  "old": "tat-puruṣa, n. inst. pl.",
+  "new": "tat-puruṣa, inst. pl.",
+  "why": "reviewer (minor): Gender 'n.' asserted without need (ādi-compounds and the agreeing adjectives are not shown neuter by the form)."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "yathā-uktaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Gender 'n.' asserted without need (ādi-compounds and the agreeing adjectives are not shown neuter by the form)."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "śauca-ādibhiḥ",
+  "old": "bahuvrīhi, n. inst. pl.",
+  "new": "bahuvrīhi, inst. pl.",
+  "why": "reviewer (minor): Gender 'n.' asserted without need (ādi-compounds and the agreeing adjectives are not shown neuter by the form)."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर: उसी प्रकार फिर सात प्रकृतियाँ जाति, कुल, देश, काल, वय, बल और प्रत्येक आत्मा पर आश्रित हैं।",
+  "new": "अनुमानित पाठ पर: उसी प्रकार फिर सात प्रकृतियाँ जाति, कुल, देश, काल, वय, बल और प्रत्येक व्यक्ति पर आश्रित हैं।",
+  "why": "reviewer (minor): Hindi आत्मा reads as 'soul'; English says 'each individual'."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "शरीर भी सत्त्व आदि का अनुसरण करता है और सत्त्व आदि भी शरीर का; और अनुमानित पाठ पर, सत्त्व आदि के अगणित भेदों के प्रभाव से रूप, स्वर और आचरण की नकल भी, जो अनेक शब्दों से कही जाती है, अगणित भेदों वाली हो जाती है।",
+  "new": "शरीर भी सत्त्व यानी मन आदि का अनुसरण करता है और सत्त्व आदि भी शरीर का; और अनुमानित पाठ पर, सत्त्व आदि के अगणित भेदों के प्रभाव से रूप, स्वर और आचरण की नकल भी, जो अनेक शब्दों से कही जाती है, अगणित भेदों वाली हो जाती है।",
+  "why": "reviewer (minor): English glosses sattva as mind; Hindi must carry the same gloss."
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "Of these, up to the sixteenth year (is) the young (age).",
+  "new": "Of these, up to the sixteenth year is the young (age).",
+  "why": "reviewer (minor): Copula in parentheses here, bare 'is/are' in neighbouring units (42, 48, 60)."
+ },
+ {
+  "n": "51",
+  "field": "notes",
+  "old": "'sneha' is ambiguous: bodily unctuousness (taken here, as the effect of Kapha predominance in 50) or affection. 'saubhāgya' = good fortune (also charm, being loved). The compound ends 'alpa-krodha-tva' = 'smallness of anger'. Case of 'bālasya' read as 'in the young (age)' (genitive of the stage).",
+  "new": "'sneha' is ambiguous: bodily unctuousness (taken here, as the effect of Kapha predominance in 50) or affection. 'saubhāgya' = good fortune (also charm, being loved). The compound ends 'alpa-krodha-tva' = 'smallness of anger'. Case of 'bālasya' read as 'in the young (age)' (genitive of the stage). bālasya is identical for masculine and neuter, so 'of the child' is an equally possible reading.",
+  "why": "reviewer (minor): bālasya is identical for masculine and neuter: 'of the child' is as natural as 'of the young age'. sneha 'unctuousness' vs 'affection' stays a human decision (in a list of positive temperament traits 'affection' is plausible)."
+ },
+ {
+  "n": "52",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "madhyamapi",
+    "suggest": "madhyamam api",
+    "why": "possible: the neuter nominative elsewhere in this chapter is 'madhyamam' (unit 48); 'madhyam api' is also grammatical, so only a suspicion"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): Spurious flag. Devanagari मध्यमपि is the regular writing of madhyam + api (final m before a vowel), exactly what 'words' give; no typo. The flag also suggests 'madhyamam' which contradicts the words."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "Copula understood. The three stages are named only; their limits are given in 54. Spelling 'madhyamapi' = 'madhyam' + 'api' or a dropped 'ma' of 'madhyamam api'; the sense is the same.",
+  "new": "Copula understood. The three stages are named only; their limits are given in 54. Spelling 'madhyamapi' = 'madhyam' + 'api' (regular writing of final m before a vowel), so there is no typo.",
+  "why": "reviewer (error): Spurious flag. Devanagari मध्यमपि is the regular writing of madhyam + api (final m before a vowel), exactly what 'words' give; no typo. The flag also suggests 'madhyamam' which contradicts the words."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "उसमें पित्त की अधिकता; उससे अग्नि की प्रदीप्त अवस्था, प्रज्ञा की अधिकता, परिपाक और व्यवसाय यानी दृढ़ निश्चय।",
+  "new": "उसमें पित्त की अधिकता; उससे अग्नि यानी पाचन-अग्नि की प्रदीप्त अवस्था, प्रज्ञा की अधिकता, परिपाक और व्यवसाय यानी दृढ़ निश्चय।",
+  "why": "reviewer (minor): English says digestive fire; Hindi bare अग्नि."
+ },
+ {
+  "n": "55",
+  "field": "english",
+  "old": "The old (age), however, with the qualities of the dhātus, sense-organs and the rest wasting day after day, overcome by wrinkles, baldness (khalita), cough, breathlessness (śvāsa), weakness of the digestive fire (agni) and the like, sinks down like an old house rained upon.",
+  "new": "The old (age), however, with the qualities of the dhātus, sense-organs and the rest wasting day after day, overcome by wrinkles, probably baldness (khalita), cough, breathlessness (śvāsa), weakness of the digestive fire (agni) and the like, sinks down like an old house rained upon.",
+  "why": "reviewer (error): Draft tags khalita 'probable' but the translation states it unhedged (policy: hedge probable identifications in both languages). Hindi also gives खलति, not the printed khalita."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "वृद्ध अवस्था, परन्तु, दिन-प्रतिदिन धातु, इन्द्रिय आदि के गुणों के क्षीण होते जाने वाली, झुर्रियों, खलति यानी गंजापन, खाँसी, श्वास यानी साँस फूलना, अग्नि की मन्दता आदि से दबाई जाती हुई, वर्षा से भीगे पुराने घर की तरह बैठ जाती है।",
+  "new": "वृद्ध अवस्था, परन्तु, दिन-प्रतिदिन धातु, इन्द्रिय आदि के गुणों के क्षीण होते जाने वाली, झुर्रियों, खलित यानी सम्भवतः गंजापन, खाँसी, श्वास यानी साँस फूलना, अग्नि की मन्दता आदि से दबाई जाती हुई, वर्षा से भीगे पुराने घर की तरह बैठ जाती है।",
+  "why": "reviewer (error): Draft tags khalita 'probable' but the translation states it unhedged (policy: hedge probable identifications in both languages). Hindi also gives खलति, not the printed khalita."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "वृद्ध अवस्था, परन्तु, दिन-प्रतिदिन धातु, इन्द्रिय आदि के गुणों के क्षीण होते जाने वाली, झुर्रियों, खलित यानी सम्भवतः गंजापन, खाँसी, श्वास यानी साँस फूलना, अग्नि की मन्दता आदि से दबाई जाती हुई, वर्षा से भीगे पुराने घर की तरह बैठ जाती है।",
+  "new": "वृद्ध अवस्था, परन्तु, दिन-प्रतिदिन धातु, इन्द्रिय आदि के गुणों के क्षीण होते जाने वाली, झुर्रियों, खलित यानी सम्भवतः गंजापन, खाँसी, श्वास यानी साँस फूलना, अग्नि यानी पाचन-अग्नि की मन्दता आदि से दबाई जाती हुई, वर्षा से भीगे पुराने घर की तरह बैठ जाती है।",
+  "why": "reviewer (minor): Hindi bare अग्नि; English 'digestive fire'."
+ },
+ {
+  "n": "61",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "prakṛtiviśaiśairāyuṣaḥ",
+    "suggest": "prakṛtiviśeṣair āyuṣaḥ",
+    "why": "possible: 'viśaiśaiḥ' is not a word; 'viśeṣaiḥ' (particular marks, distinctions) gives the sense; ṣ/ś and e/ai confusion"
+   }
+  ],
+  "new": [
+   {
+    "src": "prakṛtiviśaiśairāyuṣaḥ",
+    "suggest": "prakṛtiviśeṣair āyuṣaḥ",
+    "why": "possible: 'viśaiśaiḥ' is not a word; 'viśeṣaiḥ' (particular marks, distinctions) gives the sense; ṣ/ś and e/ai confusion"
+   },
+   {
+    "src": "karmaviśeṣādanādhikavarṣaśatajīvino",
+    "suggest": "karmaviśeṣād anadhikavarṣaśatajīvino",
+    "why": "possible: the print has 'anādhika' with a long ā, which is no word in this sense; read as 'anadhika' (not exceeding) in words, so this is an emendation (the opposite sense 'adhika', more than a hundred, cannot be excluded)"
+   }
+  ],
+  "why": "reviewer (error): Silent emendation: the print has 'anādhika' (long ā; Devanagari अनाधिक), but 'words' give 'an-adhika' with no flag."
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "'an-adhika-varṣa-śata-jīvin' = 'living no more than a hundred years' (anadhika = not more). 'karma-viśeṣāt' = 'because of a particular (special) action' and may go with either 'santi' or the compound. 'asmin kāle' = in this time/age, not named further. The emendation to 'prakṛtiviśeṣaiḥ' is conjectural; the whole second sentence rests on it. 'yathoktaiḥ' = as stated (earlier). 'vayaḥ tridhā vibhajet' picks up 46-48.",
+  "new": "'an-adhika-varṣa-śata-jīvin' = 'living no more than a hundred years' (anadhika = not more). 'karma-viśeṣāt' = 'because of a particular (special) action' and may go with either 'santi' or the compound. 'asmin kāle' = in this time/age, not named further. The emendation to 'prakṛtiviśeṣaiḥ' is conjectural; the whole second sentence rests on it. 'yathoktaiḥ' = as stated (earlier). 'vayaḥ tridhā vibhajet' picks up 46-48. The form 'anadhika' in words is an emendation of the printed 'anādhika' (see text_flags); the sense 'no more than a hundred years' depends on it.",
+  "why": "reviewer (error): Silent emendation: the print has 'anādhika' (long ā; Devanagari अनाधिक), but 'words' give 'an-adhika' with no flag."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "Formula 'api ca' introducing a further statement; the following verse (63-64) is the statement.",
+  "new": "Formula 'api ca' introducing a further statement; the statement appears to be in the following units (63-64).",
+  "why": "reviewer (minor): States the pairing as fact (glossary: do not)."
+ },
+ {
+  "n": "67",
+  "field": "hindi",
+  "old": "इनमें सहज बल देह और सत्त्व का प्राकृत है।",
+  "new": "इनमें सहज देह और सत्त्व यानी मन का प्राकृत है।",
+  "why": "reviewer (minor): Hindi adds the noun बल that the Sanskrit does not state (glossary: unstated nouns are a plain adjective in Hindi); sattva also lacks the gloss given in English."
+ },
+ {
+  "n": "72",
+  "field": "english",
+  "old": "Birth in a region with strong men, and in a time of that kind; a pleasant conjunction of time (kāla-yoga); the excellences of the seed (bīja) and field (kṣetra) with their qualities, of the body, of food and of the mind (sattva); natural disposition (svabhāva), youth, exercise and joy.",
+  "new": "Birth in a region with strong men, and in a time of that kind; a pleasant conjunction of time (kāla-yoga); the excellences of the seed (bīja, probably semen) and field (kṣetra, probably the womb) with their qualities, of the body, of food and of the mind (sattva); natural disposition (svabhāva), youth, exercise and joy.",
+  "why": "reviewer (minor): bīja/kṣetra identifications (probably semen/seed and womb) appear only in notes; policy wants them beside the term and hedged."
+ },
+ {
+  "n": "72",
+  "field": "hindi",
+  "old": "बलवान् पुरुषों वाले देश में जन्म और वैसे ही काल में; सुखद कालयोग; बीज, क्षेत्र के गुणों, शरीर, आहार और सत्त्व की सम्पत्तियाँ; स्वभाव, यौवन, व्यायाम और हर्ष।",
+  "new": "बलवान् पुरुषों वाले देश में जन्म और वैसे ही काल में; सुखद कालयोग; बीज यानी सम्भवतः वीर्य, क्षेत्र यानी सम्भवतः गर्भाशय के गुणों, शरीर, आहार और सत्त्व की सम्पत्तियाँ; स्वभाव, यौवन, व्यायाम और हर्ष।",
+  "why": "reviewer (minor): bīja/kṣetra identifications (probably semen/seed and womb) appear only in notes; policy wants them beside the term and hedged."
+ },
+ {
+  "n": "72",
+  "field": "hindi",
+  "old": "बलवान् पुरुषों वाले देश में जन्म और वैसे ही काल में; सुखद कालयोग; बीज यानी सम्भवतः वीर्य, क्षेत्र यानी सम्भवतः गर्भाशय के गुणों, शरीर, आहार और सत्त्व की सम्पत्तियाँ; स्वभाव, यौवन, व्यायाम और हर्ष।",
+  "new": "बलवान् पुरुषों वाले देश में जन्म और वैसे ही काल में; सुखद कालयोग; बीज यानी सम्भवतः वीर्य, क्षेत्र यानी सम्भवतः गर्भाशय के गुणों, शरीर, आहार और सत्त्व यानी मन की सम्पत्तियाँ; स्वभाव, यौवन, व्यायाम और हर्ष।",
+  "why": "reviewer (minor): bīja/kṣetra identifications (probably semen/seed and womb) appear only in notes; policy wants them beside the term and hedged."
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "उसी प्रकार आठ सार यानी सर्वोत्तम तत्त्व बताए जाते हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, अस्थि, मज्जा, शुक्र यानी वीर्य और सत्त्व स्वरूप वाले, जो अनुमानित पाठ पर उत्तरोत्तर श्रेष्ठ हैं, बल के प्रमाण को जानने के लिए।",
+  "new": "उसी प्रकार आठ सार यानी सर्वोत्तम तत्त्व बताए जाते हैं: त्वचा, रक्त, मांस, मेद यानी चर्बी, अस्थि, मज्जा, शुक्र यानी वीर्य और सत्त्व यानी मन स्वरूप वाले, जो अनुमानित पाठ पर उत्तरोत्तर श्रेष्ठ हैं, बल के प्रमाण को जानने के लिए।",
+  "why": "reviewer (minor): English glosses sattva as mind; Hindi bare."
+ }
+]

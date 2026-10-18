@@ -1,0 +1,269 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जिसकी उँगलियाँ खींचे जाने पर न चटकें, और जिसका अलग-अलग भी शब्द छींकने, गमन, मूत्रत्याग आदि में अपनी स्वाभाविक अवस्था से परे हो",
+  "new": "जिसकी उँगलियाँ खींचे जाने पर न चटकें, और जिसका, संदिग्ध पाठ के अनुसार, 'अलग-अलग' भी शब्द छींकने, गमन, मूत्रत्याग आदि में अपनी स्वाभाविक अवस्था से परे",
+  "why": "reviewer (minor): English marks the reading 'other and other' as doubtful but the Hindi gives it with no hedge (glossary: hedge must match in both languages); the Hindi also adds a verb 'हो' where the second clause has none, and an 'और' not in the Sanskrit."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "जिसके शरीर, मुख, मल, व्रण यानी घाव, वस्त्र आदि में माला, फल, चन्दन, शव आदि की प्रिय अथवा अप्रिय गन्ध",
+  "new": "जिसके शरीर, मुख, मल यानी अपशिष्ट, व्रण यानी घाव, वस्त्र आदि में माला, फल, चन्दन, शव आदि की प्रिय अथवा अप्रिय गन्ध",
+  "why": "reviewer (minor): Bare मल in Hindi means faeces; glossary fixes 'मल यानी अपशिष्ट' for mala (doctrinal term)."
+ },
+ {
+  "n": "41",
+  "field": "word.w",
+  "word": "bhajante",
+  "old": "bhajante",
+  "new": "bhajanti",
+  "why": "reviewer (error): Silent emendation: printed 'bhajaṃti' (parasmaipada bhajanti) was restored as 'bhajante' with no text_flag, while the neighbouring printed 'tyajaṃte' is ātmanepada. Keep the printed form in `w`."
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "The sentence is completed by the next unit (the places and the six months). 'sirā' = vein, vessel (probable; a general term for blood vessels). 'bāla-indu' = young (crescent) moon. The line has no verb. 'sirālekhā' = sirālekhāḥ (regular sandhi before voiced b).",
+  "new": "The sentence appears to be completed by the next unit (the places and the six months). 'sirā' = vein, vessel (probable; a general term for blood vessels). 'bāla-indu' = young (crescent) moon. The line has no verb. 'sirālekhā' = sirālekhāḥ (regular sandhi before voiced b).",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "Completes the sentence begun in unit 45 ('whose vein-lines ...'). 'bastiśīrṣa' is kept literal ('head of the bladder'); which part is meant (upper part of the bladder, or the lower abdomen above it) is not fixed by the text. 'ṣaṇmāsān' accusative of duration, 'for six months'.",
+  "new": "Appears to complete the sentence begun in unit 45 ('whose vein-lines ...'). 'bastiśīrṣa' is kept literal ('head of the bladder'); which part is meant (upper part of the bladder, or the lower abdomen above it) is not fixed by the text. 'ṣaṇmāsān' accusative of duration, 'for six months'.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "The verb is in the next unit ('plavate'). Whether 'vat' compares the water's behaviour on a lotus leaf is understood but not stated, so the translation stays close to the words.",
+  "new": "The verb appears to be in the next unit ('plavate'). Whether 'vat' compares the water's behaviour on a lotus leaf is understood but not stated, so the translation stays close to the words.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "Continues unit 47 ('water ... in the body of whichever embodied being'). 'plavamānasya' (of one floating) is difficult: it may refer to the water or to the person; the translation keeps it literal. Copula understood ('is').",
+  "new": "Appears to continue unit 47 ('water ... in the body of whichever embodied being'). 'plavamānasya' (of one floating) is difficult: it may refer to the water or to the person; the translation keeps it literal. Copula understood ('is').",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "49",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "yasyaromakūpāśca",
+    "suggest": "yasya roma-kūpāś ca",
+    "why": "possible: three words printed joined without spaces (yasya, romakūpāḥ, ca); no letter changed"
+   }
+  ],
+  "why": "reviewer (minor): Missing-space token is only in notes; the chunk convention (e.g. ch02 k2 u76, ch03 k3 u100) records word-division typos as a text_flag."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "The printed 'yasyaromakūpāśca' is yasya roma-kūpāḥ ca with the space missing (a spacing matter, not a letter error). 'saṃvṛta' can mean closed or covered; 'closed' is chosen. Completed by the next unit. 'harita' = green or yellowish-green.",
+  "new": "The printed 'yasyaromakūpāśca' is yasya roma-kūpāḥ ca with the space missing (a spacing matter, not a letter error). 'saṃvṛta' can mean closed or covered; 'closed' is chosen. Appears to be completed by the next unit. 'harita' = green or yellowish-green.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "Completes the sentence of unit 49. 'amla' is the sour taste. 'pittāt' is ablative, 'from/because of Pitta'. pitta is neuter.",
+  "new": "Appears to complete the sentence of unit 49. 'amla' is the sour taste. 'pittāt' is ablative, 'from/because of Pitta'. pitta is neuter.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "51",
+  "field": "notes",
+  "old": "The line has no verb; the sentence runs into unit 52 ('or oily smoke on the head ...'). 'mūrdhni' is the locative of mūrdhan.",
+  "new": "The line has no verb; the sentence appears to run into unit 52 ('or oily smoke on the head ...'). 'mūrdhni' is the locative of mūrdhan.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "Smoke with oiliness on the head, or; his life is up to the end of a month",
+  "new": "Or smoke with oiliness on the head; his life is up to the end of a month",
+  "why": "reviewer (minor): The English ends a clause with a dangling 'or;'. In Sanskrit 'vā' follows dhūmaḥ and links 'smoke' to the alternatives of unit 51 ('powder ... or smoke'), so 'or' belongs before the smoke clause. Hindi 'अथवा;' has the same dangling form."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "सिर पर चिकनाई वाला धुआँ, अथवा; उसका जीवन मास के अन्त तक है",
+  "new": "अथवा सिर पर चिकनाई वाला धुआँ; उसका जीवन मास के अन्त तक है",
+  "why": "reviewer (minor): The English ends a clause with a dangling 'or;'. In Sanskrit 'vā' follows dhūmaḥ and links 'smoke' to the alternatives of unit 51 ('powder ... or smoke'), so 'or' belongs before the smoke clause. Hindi 'अथवा;' has the same dangling form."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "सिर पर अथवा दोनों भौंहों पर नए सीमन्तावर्तक यानी माँग और भँवर जैसे चिह्न करते हैं",
+  "new": "सिर पर अथवा दोनों भौंहों पर नए सीमन्तावर्तक यानी माँग और भँवर करते हैं",
+  "why": "reviewer (minor): Hindi adds 'जैसे' and 'चिह्न', neither in the Sanskrit (glossary: no added जैसे; nothing supplied). The note admits 'चिह्न' is only for readability."
+ },
+ {
+  "n": "53",
+  "field": "notes",
+  "old": "GROUPING: the object of 'kurvanti' is 'mṛtyum' in unit 54, so this unit appears to continue there. 'sīmantāvartaka' is read as a dvandva 'partings and whorls' (hair-parting-like and whorl-like marks); it could also be one term for whorl-like partings, so the sense is not firm. The Hindi 'चिह्न' is used only to make the Hindi readable and is not in the Sanskrit.",
+  "new": "GROUPING: the object of 'kurvanti' is 'mṛtyum' in unit 54, so this unit appears to continue there. 'sīmantāvartaka' is read as a dvandva 'partings and whorls' (hair-parting-like and whorl-like marks); it could also be one term for whorl-like partings, so the sense is not firm.",
+  "why": "reviewer (minor): Hindi adds 'जैसे' and 'चिह्न', neither in the Sanskrit (glossary: no added जैसे; nothing supplied). The note admits 'चिह्न' is only for readability."
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "ṣaṭ-rātrāt",
+  "old": "ablative, f. abl. sg.",
+  "new": "dvigu, abl. sg.",
+  "why": "reviewer (minor): Wrong gender: -rātrāt is the ablative of -rātra (m./n. dvigu), not feminine; 'ablative,' is also repeated before 'abl.'."
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "tri-rātrāt",
+  "old": "ablative, f. abl. sg.",
+  "new": "dvigu, abl. sg.",
+  "why": "reviewer (minor): Wrong gender: -rātrāt is the ablative of -rātra (m./n. dvigu), not feminine; 'ablative,' is also repeated before 'abl.'."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "जिसकी, स्नान किए और लेप लगाए हुए की, छाती पहले ही बहुत सूख जाती है",
+  "new": "जिसकी, स्नान किए और लेप लगाए हुए की, छाती पहले, बहुत सूख जाती है",
+  "why": "reviewer (minor): Hindi adds emphasis 'ही' (not in the Sanskrit pūrvam)."
+ },
+ {
+  "n": "55",
+  "field": "notes",
+  "old": "The sentence continues in unit 56 ('while all the limbs are wet ...'). 'pūrvam' = first, before the rest; 'ahead' is also possible. 'snātānuliptasya' is a genitive in the sense 'of one who has bathed and been anointed'.",
+  "new": "The sentence appears to continue in unit 56 ('while all the limbs are wet ...'). 'pūrvam' = first, before the rest; 'ahead' is also possible. 'snātānuliptasya' is a genitive in the sense 'of one who has bathed and been anointed'.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "While all the limbs are wet, he does not live half a month",
+  "new": "On a conjectural reading: while all the limbs are wet, he does not live half a month",
+  "why": "reviewer (minor): The meaning depends on the emendation ārdveṣu→ārdreṣu (word not attested); glossary: a correction adopted in a translation carries the conjectural mark in both languages (as the draft does in u67)."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "सब अंगों के गीले रहते वह आधा मास नहीं जीता",
+  "new": "अनुमानित पाठ पर, सब अंगों के गीले रहते वह आधा मास नहीं जीता",
+  "why": "reviewer (minor): The meaning depends on the emendation ārdveṣu→ārdreṣu (word not attested); glossary: a correction adopted in a translation carries the conjectural mark in both languages (as the draft does in u67)."
+ },
+ {
+  "n": "56",
+  "field": "notes",
+  "old": "Completes unit 55. 'so'rddhamāsaṃ': 'rddh' is the print's spelling of 'rdh' (orthographic normalisation, recorded once book-wide). The locatives are read as 'with all the limbs wet'; 'ārdreṣu' stands for an unstated noun with sarvagātreṣu.",
+  "new": "Appears to complete unit 55. 'so'rddhamāsaṃ': 'rddh' is the print's spelling of 'rdh' (orthographic normalisation, recorded once book-wide). The locatives are read as 'with all the limbs wet'; 'ārdreṣu' stands for an unstated noun with sarvagātreṣu.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "Part of a sentence that runs into unit 58 ('loose stool and thirst; just as a preta, so is he'). The verb 'bhavet' is stated once; 'in the belly ... excessive coldness' shares it.",
+  "new": "Part of a sentence that appears to run into unit 58 ('loose stool and thirst; just as a preta, so is he'). The verb 'bhavet' is stated once; 'in the belly ... excessive coldness' shares it.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Loose stool (bhinna, literally 'broken') and thirst; as a departed one (preta), just so is he",
+  "new": "Broken stool (bhinna; probably loose) and thirst; as a departed one (preta), just so is he",
+  "why": "reviewer (minor): English leads with the interpretation 'Loose' unhedged and puts the literal 'broken' in brackets; Hindi leads with the literal 'टूटा हुआ'. The two languages should agree and the modern sense should be hedged (policy)."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "भिन्न यानी टूटा हुआ मल और प्यास; जैसे प्रेत, वैसे ही वह",
+  "new": "भिन्न यानी टूटा हुआ, सम्भवतः ढीला, मल और प्यास; जैसे प्रेत, वैसे ही वह",
+  "why": "reviewer (minor): English leads with the interpretation 'Loose' unhedged and puts the literal 'broken' in brackets; Hindi leads with the literal 'टूटा हुआ'. The two languages should agree and the modern sense should be hedged (policy)."
+ },
+ {
+  "n": "58",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tṛṣṇāca",
+    "suggest": "tṛṣṇā ca",
+    "why": "possible: 'ca' printed joined to tṛṣṇā without a space; no letter changed"
+   }
+  ],
+  "why": "reviewer (minor): Missing-space token is only in notes; add a text_flag per the chunk convention."
+ },
+ {
+  "n": "58",
+  "field": "notes",
+  "old": "Continues unit 57. 'tṛṣṇāca' is tṛṣṇā ca with the space missing. 'bhinna purīṣa' is kept literal ('broken' stool); the modern sense (loose or watery stool) is probable but not stated. 'preta' = a departed one, a dead person. Copula understood.",
+  "new": "Appears to continue unit 57. 'tṛṣṇāca' is tṛṣṇā ca with the space missing. 'bhinna purīṣa' is kept literal ('broken' stool); the modern sense (loose or watery stool) is probable but not stated. 'preta' = a departed one, a dead person. Copula understood.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "The object of 'dṛṣṭvā' in unit 62; the two units form one sentence. 'varṇa' is colour or complexion; 'colour' is the plain rendering.",
+  "new": "The object of 'dṛṣṭvā' in unit 62; the two units appear to form one sentence. 'varṇa' is colour or complexion; 'colour' is the plain rendering.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "62",
+  "field": "notes",
+  "old": "Completes unit 61 (the signs seen are the weakening of the voice, the loss of strength and colour, and the increase of disease). 'ayuktyā' is literally 'without (proper) reason, unreasonably'; the sense might also be 'by improper means'. The agent of 'ādiśet' is not stated, so 'one'.",
+  "new": "Appears to complete unit 61 (the signs seen are the weakening of the voice, the loss of strength and colour, and the increase of disease). 'ayuktyā' is literally 'without (proper) reason, unreasonably'; the sense might also be 'by improper means'. The agent of 'ādiśet' is not stated, so 'one'.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "और इसके शब्द के श्रोता को दूर से ही त्याग दे",
+  "new": "और इसके शब्द के श्रोता को दूर से त्याग दे",
+  "why": "reviewer (minor): Hindi adds emphasis 'ही'."
+ },
+ {
+  "n": "65",
+  "field": "hindi",
+  "old": "जिसकी साँस ऊपर की ओर चढ़ती है, जिसकी गर्मी चली गई है और जिसके वंक्षण यानी जाँघ के जोड़ पीड़ा से पीड़ित हैं, उसको",
+  "new": "जिसकी साँस ऊपर की ओर चढ़ती है, जिसकी गर्मी चली गई है और जिसके वंक्षण यानी जाँघ के जोड़ पीड़ा से पीड़ित हैं",
+  "why": "reviewer (minor): Hindi supplies a pronoun object that the Sanskrit does not state (glossary: Hindi never takes the pronoun)."
+ },
+ {
+  "n": "66",
+  "field": "notes",
+  "old": "Completes unit 65 (the persons described there and here are the objects of 'parivarjayet'). The Sanskrit does not say who the intelligent one is, so none is named.",
+  "new": "Appears to complete unit 65 (the persons described there and here are the objects of 'parivarjayet'). The Sanskrit does not say who the intelligent one is, so none is named.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "67",
+  "field": "notes",
+  "old": "The verb is damaged in print: the IAST 'vidhyate' (is pierced) is a valid form but the printed Devanagari is 'विद्ह्यते'; the translation adopts 'vidahyate' only on a conjectural reading, so confidence is low. 'piṭaka' = pustule, boil. 'śīta-piṭaka' read as 'cold pustules' (the text gives no further detail). The sentence runs on into unit 68.",
+  "new": "The verb is damaged in print: the IAST 'vidhyate' (is pierced) is a valid form but the printed Devanagari is 'विद्ह्यते'; the translation adopts 'vidahyate' only on a conjectural reading, so confidence is low. 'piṭaka' = pustule, boil. 'śīta-piṭaka' read as 'cold pustules' (the text gives no further detail). The sentence appears to run on into unit 68.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "Completes unit 67. 'pretādhipa' = lord of the departed; Yama is the usual identification (probable). 'gocara' = range, domain. Copula understood ('he is').",
+  "new": "Appears to complete unit 67. 'pretādhipa' = lord of the departed; Yama is the usual identification (probable). 'gocara' = range, domain. Copula understood ('he is').",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "69",
+  "field": "notes",
+  "old": "The sentence is completed in unit 70 (he is dragged by Yama's servants). 'chāyā' = shadow (also 'lustre'); 'shadow' is the plain rendering.",
+  "new": "The sentence appears to be completed in unit 70 (he is dragged by Yama's servants). 'chāyā' = shadow (also 'lustre'); 'shadow' is the plain rendering.",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ },
+ {
+  "n": "70",
+  "field": "notes",
+  "old": "Completes unit 69. 'kṛṣyate' is a passive, 'is dragged' (pulled).",
+  "new": "Appears to complete unit 69. 'kṛṣyate' is a passive, 'is dragged' (pulled).",
+  "why": "reviewer (minor): GROUPING/continuation wording should hedge: glossary requires 'appears to' (never 'completes/continues' as fact)."
+ }
+]

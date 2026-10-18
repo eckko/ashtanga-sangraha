@@ -1,0 +1,379 @@
+[
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "vātike",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Āsthāpana (decoction enema) joined with bilva (bael), vidārī (probably vidārīkanda) and milk.",
+  "new": "Āsthāpana (decoction enema) joined with bilva (bael), vidārī (probably Indian kudzu, Pueraria tuberosa) and milk.",
+  "why": "reviewer (minor): The 'identification' is only the Sanskrit trade name (circular); policy wants the modern name beside the term."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "बिल्व यानी बेल, विदारी यानी सम्भवतः विदारीकन्द और दूध से युक्त आस्थापन यानी काढ़े का बस्ति।",
+  "new": "बिल्व यानी बेल, विदारी यानी सम्भवतः विदारीकन्द और दूध से युक्त आस्थापन यानी काढ़े की बस्ति।",
+  "why": "reviewer (minor): Hindi बस्ति is feminine."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "मधुक यानी सम्भवतः मुलेठी और भद्रदारु यानी सम्भवतः देवदारु के साथ पकाया हुआ तेल, अनुवासन यानी तेल का बस्ति।",
+  "new": "मधुक यानी सम्भवतः मुलेठी और भद्रदारु यानी सम्भवतः देवदारु के साथ पकाया हुआ तेल, अनुवासन यानी तेल की बस्ति।",
+  "why": "reviewer (minor): Hindi बस्ति is feminine."
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "Oil cooked with milk and the juice (rasa) of kulīra (crab), as uttarabasti (injection through the urinary or genital passage).",
+  "new": "Oil cooked with milk and the juice (rasa) of kulīra (probably crab), as uttarabasti (injection through the urinary or genital passage).",
+  "why": "reviewer (error): Task note: kulīra = crab vs plant is open; gloss tags it 'standard' and the translation states it flatly, while the draft's own notes call it not certain. Must be hedged and tagged probable."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "दूध और कुलीर यानी केकड़े के रस से पकाया हुआ तेल, उत्तरबस्ति यानी मूत्रमार्ग या योनि से दिया जाने वाला बस्ति।",
+  "new": "दूध और कुलीर यानी सम्भवतः केकड़े के रस से पकाया हुआ तेल, उत्तरबस्ति यानी मूत्रमार्ग या योनि से दिया जाने वाला बस्ति।",
+  "why": "reviewer (error): Task note: kulīra = crab vs plant is open; gloss tags it 'standard' and the translation states it flatly, while the draft's own notes call it not certain. Must be hedged and tagged probable."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "kṣīra-kulīra-rasa-siddham",
+  "old": "milk; kulīra (crab; standard); juice (rasa); cooked",
+  "new": "milk; kulīra (crab, probable; could be a plant name); juice (rasa); cooked",
+  "why": "reviewer (error): Task note: kulīra = crab vs plant is open; gloss tags it 'standard' and the translation states it flatly, while the draft's own notes call it not certain. Must be hedged and tagged probable."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "दूध और कुलीर यानी सम्भवतः केकड़े के रस से पकाया हुआ तेल, उत्तरबस्ति यानी मूत्रमार्ग या योनि से दिया जाने वाला बस्ति।",
+  "new": "दूध और कुलीर यानी सम्भवतः केकड़े के रस से पकाया हुआ तेल, उत्तरबस्ति यानी मूत्रमार्ग या योनि से दी जाने वाली बस्ति।",
+  "why": "reviewer (minor): Hindi बस्ति is feminine."
+ },
+ {
+  "n": "48",
+  "field": "word.gram",
+  "word": "paittike",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "Āsthāpana (decoction enema) cooked with payasyā and śrīparṇī (probably gambhārī), joined with milk.",
+  "new": "Āsthāpana (decoction enema) cooked with payasyā and śrīparṇī (probably gambhārī, Gmelina arborea), joined with milk.",
+  "why": "reviewer (minor): Circular: gambhārī is again a Sanskrit name; the modern botanical name should stand beside it."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "ślaiṣmike",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "कफज में पाषाणभेदक यानी सम्भवतः पाषाणभेद, अश्मन्तक और आमलक यानी आँवला के क्वाथ में पकाया हुआ, पिप्पली यानी पीपर और मधुक के चूर्ण के प्रतिवाप सहित घी का पान।",
+  "new": "श्लैष्मिक में पाषाणभेदक यानी सम्भवतः पाषाणभेद, अश्मन्तक और आमलक यानी आँवला के क्वाथ में पकाया हुआ, पिप्पली यानी पीपर और मधुक के चूर्ण के प्रतिवाप सहित घी का पान।",
+  "why": "reviewer (minor): Sanskrit is ślaiṣmika (as in 44 vātika, 48 paittika), not -ja; Hindi कफज would match kaphaje. Follow the print."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "श्लैष्मिक में पाषाणभेदक यानी सम्भवतः पाषाणभेद, अश्मन्तक और आमलक यानी आँवला के क्वाथ में पकाया हुआ, पिप्पली यानी पीपर और मधुक के चूर्ण के प्रतिवाप सहित घी का पान।",
+  "new": "श्लैष्मिक में पाषाणभेदक यानी सम्भवतः पखानभेद, अश्मन्तक और आमलक यानी आँवला के क्वाथ में पकाया हुआ, पिप्पली यानी पीपर और मधुक के चूर्ण के प्रतिवाप सहित घी का पान।",
+  "why": "reviewer (minor): Circular identification (pāṣāṇabheda is the same Sanskrit name); the modern Hindi/botanical name is missing."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "In the Kapha-type (one): drinking of ghee cooked with a decoction (kvātha) of pāṣāṇabhedaka (probably pāṣāṇabheda), aśmantaka and āmalaka (emblic myrobalan), with powder of pippalī (long pepper) and madhuka as the addition.",
+  "new": "In the Kapha-type (one): drinking of ghee cooked with a decoction (kvātha) of pāṣāṇabhedaka (probably pāṣāṇabheda, Bergenia ligulata), aśmantaka and āmalaka (emblic myrobalan), with powder of pippalī (long pepper) and madhuka as the addition.",
+  "why": "reviewer (minor): Circular identification (pāṣāṇabheda is the same Sanskrit name); the modern Hindi/botanical name is missing."
+ },
+ {
+  "n": "52",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "pāṣāṇabhedakāśmaṃtakāmalakakvāthasiddhaṃ",
+    "suggest": "pāṣāṇabhedakāśmantaka… (read as pāṣāṇabhedaka + aśmantaka)",
+    "why": "possible: 'kāśmantaka' is read as ka + aśmantaka; the alternative reading kāśmantaka as one word has no known sense"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): This is a sandhi note (bhedaka + aśmantaka), not a suspected typo; it is already in notes. A text_flag whose suggestion repeats the printed word inflates the flag count."
+ },
+ {
+  "n": "55",
+  "field": "english",
+  "old": "Āsthāpana (decoction enema) made strong (pragāḍha) with a decoction of rājavṛkṣa (Cassia fistula) and madanaphala.",
+  "new": "Āsthāpana (decoction enema) strong or thick (pragāḍha) with a decoction of rājavṛkṣa (Cassia fistula) and madanaphala.",
+  "why": "reviewer (minor): 'made' is a supplied participle; pragāḍha is an adjective ('thick, strong, dense'). Task note on pragāḍha: keep literal, mention both senses."
+ },
+ {
+  "n": "56",
+  "field": "word.gram",
+  "word": "vātaje",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "मधुक और पिप्पली के साथ पकाया हुआ तेल, अनुवासन और उत्तरबस्ति भी। वातज आर्तव के दोष में भी भार्गी और भद्रदारु के साथ पकाए हुए घी का पान।",
+  "new": "मधुक और पिप्पली के साथ पकाया हुआ तेल, अनुवासन और उत्तरबस्ति भी। वातज आर्तव के दोष में भी भार्गी यानी भारंगी और भद्रदारु यानी सम्भवतः देवदारु के साथ पकाए हुए घी का पान।",
+  "why": "reviewer (minor): Modern names missing in Hindi for two named drugs (bhārgī standard; bhadradāru probable, as in 46)."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "Oil cooked with madhuka and pippalī, as anuvāsana and as uttarabasti. In the Vāta-type fault of ārtava (menstrual blood) also: drinking of ghee cooked with bhārgī (Clerodendrum serratum) and bhadradāru.",
+  "new": "Oil cooked with madhuka and pippalī (long pepper), as anuvāsana and as uttarabasti. In the Vāta-type fault of ārtava (menstrual blood) also: drinking of ghee cooked with bhārgī (Clerodendrum serratum) and bhadradāru.",
+  "why": "reviewer (minor): Modern names missing in Hindi for two named drugs (bhārgī standard; bhadradāru probable, as in 46)."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "Oil cooked with madhuka and pippalī (long pepper), as anuvāsana and as uttarabasti. In the Vāta-type fault of ārtava (menstrual blood) also: drinking of ghee cooked with bhārgī (Clerodendrum serratum) and bhadradāru.",
+  "new": "Oil cooked with madhuka and pippalī (long pepper), as anuvāsana and as uttarabasti. In the Vāta-type fault of ārtava (menstrual blood) also: drinking of ghee cooked with bhārgī (Clerodendrum serratum) and bhadradāru (probably deodar).",
+  "why": "reviewer (minor): Modern names missing in Hindi for two named drugs (bhārgī standard; bhadradāru probable, as in 46)."
+ },
+ {
+  "n": "61",
+  "field": "word.gram",
+  "word": "pittaje",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "61",
+  "field": "word.gloss",
+  "word": "vāsa-śarkaram",
+  "old": "vāsa (Adhatoda vasica; standard); sugar (śarkarā)",
+  "new": "vāsa (probably vāsā, Adhatoda vasica; probable, short a as printed); sugar (śarkarā)",
+  "why": "reviewer (error): Printed is vāsa (short a), the plant is vāsā; the draft silently takes vāsa = vāsā (Adhatoda vasica) and tags it 'standard'. That is an unflagged shortening and an overconfident tag; also gram 'n./m.' is undecided and 'with' is a supplied preposition (accusative or bahuvrīhi)."
+ },
+ {
+  "n": "61",
+  "field": "word.gram",
+  "word": "vāsa-śarkaram",
+  "old": "n./m. acc. sg.",
+  "new": "compound, acc. sg.",
+  "why": "reviewer (error): Printed is vāsa (short a), the plant is vāsā; the draft silently takes vāsa = vāsā (Adhatoda vasica) and tags it 'standard'. That is an unflagged shortening and an overconfident tag; also gram 'n./m.' is undecided and 'with' is a supplied preposition (accusative or bahuvrīhi)."
+ },
+ {
+  "n": "61",
+  "field": "english",
+  "old": "In the Pitta-type (one) one should drink the decoction of the pair of kākolī and the root of vidārī, the decoction of utpala and padmaka, and the decoction of the flower of madhuka and the fruit of kāśmarya, with vāsa and sugar.",
+  "new": "In the Pitta-type (one) one should drink the decoction of the pair of kākolī and the root of vidārī, the decoction of utpala and padmaka, and the decoction of the flower of madhuka and the fruit of kāśmarya, with vāsa (probably Adhatoda vasica) and sugar.",
+  "why": "reviewer (error): Printed is vāsa (short a), the plant is vāsā; the draft silently takes vāsa = vāsā (Adhatoda vasica) and tags it 'standard'. That is an unflagged shortening and an overconfident tag; also gram 'n./m.' is undecided and 'with' is a supplied preposition (accusative or bahuvrīhi)."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "पित्तज में काकोली के जोड़े और विदारी की जड़ का क्वाथ, उत्पल और पद्मक का क्वाथ, मधुक के फूल और काश्मर्य के फल का क्वाथ, वासा और शर्करा सहित पीए।",
+  "new": "पित्तज में काकोली के जोड़े और विदारी की जड़ का क्वाथ, उत्पल और पद्मक का क्वाथ, मधुक के फूल और काश्मर्य के फल का क्वाथ, वास यानी सम्भवतः अडूसा और शर्करा सहित पीए।",
+  "why": "reviewer (error): Printed is vāsa (short a), the plant is vāsā; the draft silently takes vāsa = vāsā (Adhatoda vasica) and tags it 'standard'. That is an unflagged shortening and an overconfident tag; also gram 'n./m.' is undecided and 'with' is a supplied preposition (accusative or bahuvrīhi)."
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "Identifications: kākolī = identity disputed (a Himalayan tuber, with its pair kṣīrakākolī, is proposed), not enriched; utpala = blue lotus (probable); padmaka = Prunus cerasoides (probable); vāsa = Adhatoda vasica (standard). The decoction kvātha is repeated three times; whether 'with vāsa and sugar' applies to one or all three is not decided by the Sanskrit. 'madhuka-puṣpa': the flower suggests the madhuka tree (Madhuca), not licorice. Taken as 'flower of madhuka, fruit of kāśmarya'; the alternative 'madhuka; flower and fruit of kāśmarya' is possible.",
+  "new": "Identifications: kākolī = identity disputed (a Himalayan tuber, with its pair kṣīrakākolī, is proposed), not enriched; utpala = blue lotus (probable); padmaka = Prunus cerasoides (probable); vāsa = Adhatoda vasica (standard). The decoction kvātha is repeated three times; whether 'with vāsa and sugar' applies to one or all three is not decided by the Sanskrit. 'madhuka-puṣpa': the flower suggests the madhuka tree (Madhuca), not licorice. Taken as 'flower of madhuka, fruit of kāśmarya'; the alternative 'madhuka; flower and fruit of kāśmarya' is possible. 'vāsa' is printed with short a; read as vāsā (probable, not certain). 'with' before vāsa and sugar is a supplied preposition for an accusative compound; it could also be two more items drunk.",
+  "why": "reviewer (error): Printed is vāsa (short a), the plant is vāsā; the draft silently takes vāsa = vāsā (Adhatoda vasica) and tags it 'standard'. That is an unflagged shortening and an overconfident tag; also gram 'n./m.' is undecided and 'with' is a supplied preposition (accusative or bahuvrīhi)."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "ślaiṣmike",
+  "old": "m./n. loc. sg.",
+  "new": "loc. sg.",
+  "why": "reviewer (minor): Adjective standing for an unstated noun: GLOSSARY (p02 ch02 k4) says case and number only, never m./n."
+ },
+ {
+  "n": "68",
+  "field": "hindi",
+  "old": "कफज में कुटज यानी कुड़ा, कटुका यानी सम्भवतः कुटकी और अश्वगन्धा का क्वाथ पीए।",
+  "new": "श्लैष्मिक में कुटज यानी कुड़ा, कटुका यानी सम्भवतः कुटकी और अश्वगन्धा का क्वाथ पीए।",
+  "why": "reviewer (minor): See 52: follow the print (ślaiṣmika)."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "Identifications: kuṭaja (standard), kaṭukā (probable; the name is also used for other bitter plants), aśvagandhā (standard).",
+  "new": "Identifications: kuṭaja (standard), kaṭukā (probable; the name is also used for other bitter plants), aśvagandhā (standard). The avagraha printed after kaṭukā- is a print habit (kaṭukā + aśvagandhā), not an elision.",
+  "why": "reviewer (minor): The avagraha after -ā is a print habit (GLOSSARY p02 ch02 k4), not an elision; draft split is right but silent."
+ },
+ {
+  "n": "70",
+  "field": "word.gram",
+  "word": "eteṣām",
+  "old": "m./n. gen. pl.",
+  "new": "gen. pl.",
+  "why": "reviewer (minor): Pronoun for unstated nouns: no gender in gram."
+ },
+ {
+  "n": "73",
+  "field": "notes",
+  "old": "Damaged print: kept unsplit. 'kaṣāya' at the end is read as decoction. basta is he-goat (it can also mean bladder, but 'meṣa' beside it makes animals the sense). The urine is named without any condition.",
+  "new": "Damaged print: kept unsplit. 'kaṣāya' at the end is read as decoction. basta is he-goat (it can also mean bladder, but 'meṣa' beside it makes animals the sense). The urine is named without any condition. Possible reading (not adopted): rodhra (lodhra) + tinduka, a decoction of two drugs; nothing is built on it.",
+  "why": "reviewer (minor): Observation: the damaged word may be rodhra-tinduka (rodhra for lodhra, as the print confuses r/l and drops ṃ: rodhrā-tiduka for rodhra-tinduka). Only a possibility; the translation correctly builds nothing on it."
+ },
+ {
+  "n": "74",
+  "field": "english",
+  "old": "In kuṇapa-retas (probably semen of a corpse-like smell), one should make him drink ghee cooked with the flowers of dhātakī, khadira, arjuna and dāḍima (pomegranate), or, on a conjectural reading, with madana and the like.",
+  "new": "In kuṇapa-retas (probably semen of a corpse-like smell), one should make him drink ghee cooked with dhātakī flowers, khadira (Acacia catechu), arjuna (Terminalia arjuna) and dāḍima (pomegranate), or, on a conjectural reading, with madana and the like.",
+  "why": "reviewer (minor): Ambiguous: reads as flowers of all four; Sanskrit has puṣpa only after dhātakī. Also khadira and arjuna lack modern names in the translation (Hindi too)."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "कुणप-रेतस् यानी सम्भवतः शव जैसी गन्ध वाले शुक्र में धातकी के फूल, खदिर, अर्जुन और अनार के साथ पकाया हुआ, अथवा अनुमानित पाठ पर मदन आदि के साथ पकाया हुआ घी पिलाए।",
+  "new": "कुणप-रेतस् यानी सम्भवतः शव जैसी गन्ध वाले शुक्र में धातकी के फूल, खदिर यानी खैर, अर्जुन और दाडिम यानी अनार के साथ पकाया हुआ, अथवा अनुमानित पाठ पर मदन आदि के साथ पकाया हुआ घी पिलाए।",
+  "why": "reviewer (minor): Ambiguous: reads as flowers of all four; Sanskrit has puṣpa only after dhātakī. Also khadira and arjuna lack modern names in the translation (Hindi too)."
+ },
+ {
+  "n": "75",
+  "field": "english",
+  "old": "In granthi-retas (semen with knots or lumps): with pāṣāṇabhid, or with the ash of palāśa (Butea monosperma).",
+  "new": "In granthi-retas (semen with knots or lumps): with pāṣāṇabhid (probably Bergenia ligulata), or with the ash of palāśa (Butea monosperma).",
+  "why": "reviewer (minor): Drug named without modern name or hedge, unlike 52."
+ },
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "ग्रन्थि-रेतस् यानी गाँठ वाले शुक्र में पाषाणभिद् से, अथवा पलाश यानी ढाक की भस्म से।",
+  "new": "ग्रन्थि-रेतस् यानी गाँठ वाले शुक्र में पाषाणभिद् यानी सम्भवतः पखानभेद से, अथवा पलाश यानी ढाक की भस्म से।",
+  "why": "reviewer (minor): Drug named without modern name or hedge, unlike 52."
+ },
+ {
+  "n": "76",
+  "field": "word.gram",
+  "word": "parūṣaka-ādi",
+  "old": "bahuvrīhi, m. inst. du.",
+  "new": "bahuvrīhi, first of the two groups (ending on the second word)",
+  "why": "reviewer (minor): Gram says 'bahuvrīhi, m. inst. du.' but the note says the first ādi is in compound form and the dual ending stands once on the second member; the gram contradicts it."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "पूय-रेतस् यानी पीब वाले शुक्र में परूषक से आरम्भ होने वाले और न्यग्रोध से आरम्भ होने वाले दो समूहों से।",
+  "new": "पूय-रेतस् यानी पीब वाले शुक्र में परूषक यानी फालसा आदि और न्यग्रोध यानी बरगद आदि, इन दोनों से।",
+  "why": "reviewer (minor): 'समूह' is a noun not in the Sanskrit (ādi = 'etc.'); modern names missing for the two named drugs."
+ },
+ {
+  "n": "76",
+  "field": "english",
+  "old": "In pūya-retas (semen with pus): with the two (groups) beginning with parūṣaka and beginning with nyagrodha.",
+  "new": "In pūya-retas (semen with pus): with the two (groups) beginning with parūṣaka (phalsa, Grewia asiatica) and beginning with nyagrodha (banyan, Ficus benghalensis).",
+  "why": "reviewer (minor): 'समूह' is a noun not in the Sanskrit (ādi = 'etc.'); modern names missing for the two named drugs."
+ },
+ {
+  "n": "77",
+  "field": "english",
+  "old": "In mūtra-purīṣa-retas (semen with urine and feces), when it is greatly altered by Vāyu (wind): with hiṅgu, uśīra and citraka; or the (one) cooked with citraka, vitunnaka, priyaṅgu, hiṅgu, samaṅgā and mṛṇāla (lotus stalk), with the powder of elā and moca as the addition.",
+  "new": "In mūtra-purīṣa-retas (probably semen with urine and feces) greatly altered by Vāyu (wind): with hiṅgu, uśīra (probably vetiver, on a conjectural reading of the printed śīra) and citraka (leadwort); or the (one) cooked with citraka, vitunnaka, priyaṅgu, hiṅgu, samaṅgā and mṛṇāla (lotus stalk), with the powder of elā (probably small cardamom) and moca as the addition.",
+  "why": "reviewer (error): Supplied 'when it is' (not in the Sanskrit: ativikṛte agrees with retasi); 'uśīra' rests on an unmarked conjectural emendation (printed śīra) and so needs 'on a conjectural reading' in the translation (GLOSSARY ch06 k2); 'mūtra-purīṣa-retas' sense is probable but stated flatly; elā/citraka lack hedge or modern name; Hindi plural 'चित्रकों' is wrong (the plural belongs to the dvandva, three drugs; English is right)."
+ },
+ {
+  "n": "77",
+  "field": "hindi",
+  "old": "मूत्र-पुरीष-रेतस् यानी मूत्र और मल वाले शुक्र में, जब वह वायु से अत्यन्त विकृत हो, हींग, उशीर और चित्रकों से; अथवा चित्रक, वितुन्नक, प्रियंगु, हींग, समंगा और मृणाल के साथ पकाया हुआ, इलायची और मोच के चूर्ण के प्रतिवाप सहित।",
+  "new": "मूत्र-पुरीष-रेतस् यानी सम्भवतः मूत्र और मल वाले शुक्र में, जो वायु से अत्यन्त विकृत हुआ है, हींग, अनुमानित पाठ पर उशीर यानी सम्भवतः खस, और चित्रक यानी चीता से; अथवा चित्रक, वितुन्नक, प्रियंगु, हींग, समंगा और मृणाल के साथ पकाया हुआ, एला यानी सम्भवतः छोटी इलायची और मोच के चूर्ण के प्रतिवाप सहित।",
+  "why": "reviewer (error): Supplied 'when it is' (not in the Sanskrit: ativikṛte agrees with retasi); 'uśīra' rests on an unmarked conjectural emendation (printed śīra) and so needs 'on a conjectural reading' in the translation (GLOSSARY ch06 k2); 'mūtra-purīṣa-retas' sense is probable but stated flatly; elā/citraka lack hedge or modern name; Hindi plural 'चित्रकों' is wrong (the plural belongs to the dvandva, three drugs; English is right)."
+ },
+ {
+  "n": "77",
+  "field": "word.gloss",
+  "word": "atha",
+  "old": "now",
+  "new": "or else (athavā, with the next word)",
+  "why": "reviewer (minor): 'athavā' (or else) is one word; the draft splits it as 'now' + 'or', which is a mistranslation of the parts (tool cannot merge words; glosses patched)."
+ },
+ {
+  "n": "77",
+  "field": "word.gloss",
+  "word": "vā",
+  "old": "or",
+  "new": "(part of athavā) or else",
+  "why": "reviewer (minor): 'athavā' (or else) is one word; the draft splits it as 'now' + 'or', which is a mistranslation of the parts (tool cannot merge words; glosses patched)."
+ },
+ {
+  "n": "78",
+  "field": "english",
+  "old": "Likewise, in granthi-ārtava (menstrual blood with knots or lumps): a decoction of pāṭhā, trikaṇṭaka and vṛkṣaka.",
+  "new": "Likewise, in granthi-ārtava (menstrual blood with knots or lumps): a decoction of pāṭhā (probably Cissampelos pareira), trikaṇṭaka (probably Tribulus terrestris) and vṛkṣaka (probably kuṭaja, Holarrhena antidysenterica).",
+  "why": "reviewer (minor): Three named drugs with no modern name in the translation although glossed (pāṭhā, trikaṇṭaka, vṛkṣaka); hedge is needed."
+ },
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "उसी प्रकार ग्रन्थि वाले आर्तव में पाठा, त्रिकण्टक और वृक्षक का क्वाथ।",
+  "new": "उसी प्रकार ग्रन्थि वाले आर्तव में पाठा, त्रिकण्टक यानी सम्भवतः गोखरू और वृक्षक यानी सम्भवतः कुटज का क्वाथ।",
+  "why": "reviewer (minor): Three named drugs with no modern name in the translation although glossed (pāṭhā, trikaṇṭaka, vṛkṣaka); hedge is needed."
+ },
+ {
+  "n": "79",
+  "field": "english",
+  "old": "In kuṇapa-pūya-ārtava (menstrual blood with a corpse-like smell and pus, probably), one should drink a decoction of candana. And here the paste and the decoction of triphalā (the three myrobalans), the holding (dhāraṇa) and the rinsing (ācamana).",
+  "new": "In kuṇapa-pūya-ārtava (menstrual blood with a corpse-like smell and pus, probably), one should drink a decoction of candana. And here the paste and the decoction of triphalā (the three myrobalans), the holding (dhāraṇa) and the sipping or rinsing (ācamana).",
+  "why": "reviewer (error): Task note: dhāraṇācamane. ācamana primarily means 'sipping (water)' (also rinsing the mouth); 'rinsing' alone looks like importing prakṣālana (60, 67, 73). The natural pairing is paste for holding (dhāraṇa) and decoction for sipping, but the text does not say."
+ },
+ {
+  "n": "79",
+  "field": "word.gloss",
+  "word": "dhāraṇa-ācamane",
+  "old": "holding, retaining (dhāraṇa); rinsing (ācamana)",
+  "new": "holding, retaining (dhāraṇa); sipping, rinsing the mouth (ācamana)",
+  "why": "reviewer (error): Task note: dhāraṇācamane. ācamana primarily means 'sipping (water)' (also rinsing the mouth); 'rinsing' alone looks like importing prakṣālana (60, 67, 73). The natural pairing is paste for holding (dhāraṇa) and decoction for sipping, but the text does not say."
+ },
+ {
+  "n": "79",
+  "field": "notes",
+  "old": "'kuṇapa-pūya' is read as corpse-like and pus (the understanding of kuṇapa as smell is probable, see unit 74). The last clause is a nominal sentence of two duals: paste and decoction, holding and rinsing; the text does not say which goes with which (paste for holding and decoction for rinsing is the natural order), and no verb is supplied. triphalā = the three myrobalans: harītakī, bibhītaka, āmalaka (standard).",
+  "new": "'kuṇapa-pūya' is read as corpse-like and pus (the understanding of kuṇapa as smell is probable, see unit 74). The last clause is a nominal sentence of two duals: paste and decoction, holding and rinsing; the text does not say which goes with which (paste for holding and decoction for rinsing is the natural order), and no verb is supplied. triphalā = the three myrobalans: harītakī, bibhītaka, āmalaka (standard). ācamana is primarily 'sipping' (also rinsing the mouth), not the yoni wash (prakṣālana of 60, 67, 73); the pairing of the two duals (paste:holding, decoction:sipping) is natural but not stated, and is not claimed.",
+  "why": "reviewer (error): Task note: dhāraṇācamane. ācamana primarily means 'sipping (water)' (also rinsing the mouth); 'rinsing' alone looks like importing prakṣālana (60, 67, 73). The natural pairing is paste for holding (dhāraṇa) and decoction for sipping, but the text does not say."
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "शव और पीब वाले आर्तव में चन्दन का क्वाथ पीए। और यहाँ त्रिफला यानी हरड़, बहेड़ा और आँवला का कल्क और क्वाथ, धारण और आचमन।",
+  "new": "सम्भवतः शव जैसी गन्ध और पीब वाले आर्तव में चन्दन का क्वाथ पीए। और यहाँ त्रिफला यानी हरड़, बहेड़ा और आँवला का कल्क और क्वाथ, धारण और आचमन।",
+  "why": "reviewer (minor): English hedges 'corpse-like smell' with 'probably' but Hindi states a different, unhedged sense; align."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "और जिसके लिए जो उचित हो, योनि में कल्कों और पिचुओं से।",
+  "new": "और जिसके लिए जो उचित हो, योनि में कल्कों और पिचुओं यानी रूई के फाहों से।",
+  "why": "reviewer (minor): Bare पिचु not understandable; English glosses it."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "इस प्रकार जिन दोनों के शुक्र और आर्तव शुद्ध हों, वे पहले कहे गए विधि का पालन करें।",
+  "new": "इस प्रकार जिन दोनों के शुक्र और आर्तव शुद्ध हों, वे पहले कही गई विधि का पालन करें।",
+  "why": "reviewer (error): Gender error: Hindi विधि is feminine."
+ },
+ {
+  "n": "86",
+  "field": "notes",
+  "old": "'iti apare' marks the opinion of others. The unstated noun is shown as 'one' (it agrees with ṛtu, masculine). 'tadvat' is read as 'in the same way (a month)'. The printed unit begins 'tadvada…' with the sandhi tadvat + adṛṣṭa.",
+  "new": "'iti apare' marks the opinion of others. The unstated noun is shown as 'one' (it agrees with ṛtu, masculine). 'tadvat' is read as 'in the same way'; what it is likened to (the length of the ṛtu of 83-84 or the month of 85) is not stated. The printed unit begins 'tadvada…' with the sandhi tadvat + adṛṣṭa.",
+  "why": "reviewer (minor): The parenthetical '(a month)' is unsupported: tadvat only says 'likewise'; what it is likened to (the twelve nights, or the month of 85) is not stated. The remark 'The printed unit begins tadvada…' is also confusing."
+ }
+]

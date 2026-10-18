@@ -1,0 +1,569 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अब इसके बाद हम पुत्रकामीय शारीर की व्याख्या करेंगे।",
+  "new": "अब इसलिए हम पुत्रकामीय शारीर की व्याख्या करेंगे।",
+  "why": "reviewer (error): ataḥ means \"therefore\"; \"इसके बाद\" means \"after this\" and mistranslates it (English has \"therefore\")"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अब इक्कीस वर्ष का पुरुष ऐसी कन्या से विवाह करे जो असमान गोत्र की और असमान वंश की हो, जिसका जन्म ऐसे कुल में हुआ हो जिसमें रोग संचारी नहीं है, जो रूप, शील और लक्षणों से सम्पन्न हो, न्यून न हो, जिसके दाँत, होंठ, कान, नख, केश और स्तन नष्ट न हुए हों, जिसकी प्रकृति कोमल और रोगरहित हो, जो न कपिला हो न पिंगला, जिसके अंग न हीन हों न अधिक, जो लगभग बारह वर्ष की हो, जो देवता, सर्प, नदी, चल वस्तु, वृक्ष, पक्षी, नक्षत्र तथा अन्य न देखने योग्य और भयानक वस्तुओं के नाम धारण न करती हो, जो निर्दोष और निन्दा से रहित हो; निन्दारहित विधि से वह उसे ब्याहे।",
+  "new": "अब इक्कीस वर्ष का पुरुष असमान गोत्र की, असमान वंश की, ऐसे कुल में उत्पन्न जिसमें रोग संचारी नहीं है, रूप, शील और लक्षणों से सम्पन्न, न्यून न होने वाली, जिसके दाँत, होंठ, कान, नख, केश और स्तन नष्ट न हुए हों, जिसकी प्रकृति कोमल और रोगरहित हो, जो न कपिला हो न पिंगला, जिसके अंग न हीन हों न अधिक, जो लगभग बारह वर्ष की हो, जो देवता, सर्प, नदी, चल वस्तु, वृक्ष, पक्षी, नक्षत्र तथा अन्य न देखने योग्य और भयानक वस्तुओं के नाम धारण न करती हो, निर्दोष और निन्दा से रहित कन्या को निन्दारहित विधि से ब्याहे।",
+  "why": "reviewer (error): Hindi adds \"ऐसी\" (no \"such\" in the Sanskrit) and renders the verb twice (विवाह करे ... ब्याहे) with a split object; the Sanskrit has one object kanyām and one verb udvahet at the end"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "An embryo (garbha) placed by one of less than twenty-five years in one of less than sixteen years may reach destruction in the womb itself, or may be of short life-span, with little strength, health and means, or with defective sense organs; and in the ṛtu, in the first triad of nights, and likewise when it is vitiated, on a conjectural reading, injury of semen and menstrual blood (śukra and ārtava).",
+  "new": "An embryo (garbha) placed by one of less than twenty-five years in one of less than sixteen years may reach destruction in the womb itself (kukṣisthaḥ, on a conjectural reading of the printed kukṣisya), or may be of short life-span, with little strength, health and means, or with defective sense organs; and in the ṛtu, in the first triad of nights, and likewise when it is vitiated, on a conjectural reading, injury of semen and menstrual blood (śukra and ārtava).",
+  "why": "reviewer (error): Translation adopts the conjectural kukṣisthaḥ for the printed kukṣisya without marking it in the translation (glossary: conjecture adopted in a translation must be marked there)"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "पच्चीस वर्ष से कम आयु वाले पुरुष द्वारा सोलह वर्ष से कम आयु वाली में स्थापित गर्भ कोख में ही नाश को प्राप्त हो जाए, या अल्पायु तथा बल, आरोग्य और साधनों से हीन हो, या विकल इन्द्रियों वाला हो; और ऋतु में, पहली तीन रात्रियों में, तथा दूषित होने पर, अनुमानित पाठ पर, शुक्र और आर्तव का क्षय।",
+  "new": "पच्चीस वर्ष से कम आयु वाले पुरुष द्वारा सोलह वर्ष से कम आयु वाली में स्थापित गर्भ कोख में ही, अनुमानित पाठ पर, नाश को प्राप्त हो जाए, या अल्पायु तथा बल, आरोग्य और साधनों से हीन हो, या विकल इन्द्रियों वाला हो; और ऋतु में, पहली तीन रात्रियों में, तथा दूषित होने पर, अनुमानित पाठ पर, शुक्र और आर्तव का क्षय।",
+  "why": "reviewer (error): Translation adopts the conjectural kukṣisthaḥ for the printed kukṣisya without marking it in the translation (glossary: conjecture adopted in a translation must be marked there)"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वहाँ भोजन का, जो ठीक प्रकार परिणत होकर क्रम से मज्जा को प्राप्त हुआ है, सार शुक्र यानी वीर्य, पुरुष का प्रजनन द्रव, नाम पाता है।",
+  "new": "वहाँ भोजन का, जो ठीक प्रकार परिणत होकर क्रम से मज्जा को प्राप्त हुआ है, सार शुक्र यानी वीर्य नाम पाता है।",
+  "why": "reviewer (minor): Hindi adds \"पुरुष का प्रजनन द्रव\" (\"the male reproductive fluid\"), not in the Sanskrit; śukra is glossed adequately by \"शुक्र यानी वीर्य\""
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वह, दूध में घी और ईख के रस में गुड़ की तरह, शरीर में शुक्रधरा कला का आश्रय लेकर समस्त अंगों में व्याप्त होने से स्थित रहता है, और विशेषकर मज्जा, मुष्क यानी वृषण और स्तनों में; हर्ष से और संप्रहनन से प्रेरित होकर, हृदय के आवेश से, पिण्ड बनकर, अंग-अंग से निकलता है। वह सौम्य, स्निग्ध, भारी, श्वेत, मधु की गन्ध वाला, मधुर, पिच्छिल, बहुत, गाढ़ा, और घी, तेल या शहद में से किसी एक के रंग वाला शुक्र यानी वीर्य गर्भाधान के योग्य होता है।",
+  "new": "वह, दूध में घी और ईख के रस में गुड़ की तरह, शरीर में शुक्रधरा कला का आश्रय लेकर समस्त अंगों में व्याप्त होने से स्थित रहता है, और विशेषकर मज्जा, मुष्क यानी वृषण और स्तनों में; हर्ष से, संप्रहन यानी आपस में टकराने से, प्रेरित होकर, हृदय के आवेश से, पिण्ड बनकर, अंग-अंग से निकलता है। वह सौम्य, स्निग्ध, भारी, श्वेत, मधु की गन्ध वाला, मधुर, पिच्छिल, बहुत, गाढ़ा, और घी, तेल या शहद में से किसी एक के रंग वाला शुक्र यानी वीर्य गर्भाधान के योग्य होता है।",
+  "why": "reviewer (error): Hindi misspells saṃprahana (printed संप्रहनेन, stem संप्रहन) as संप्रहनन"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "That, like ghee in milk and jaggery in sugarcane juice, abides in the body, resting in the śukra-bearing kalā (a membranous layer), by pervading all the limbs, and especially in the marrow (majjā), the testicles (muṣka) and the breasts; stirred up by excitement and by saṃprahana (striking together), from the possession of the heart, having become a lump, it issues from limb to limb. That śukra (semen), gentle (saumya), unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, and of the colour of any one of ghee, oil or honey, becomes fit for conception (garbhādhāna).",
+  "new": "That, like ghee in milk and jaggery in sugarcane juice, abides in the body, resting in the śukra-bearing kalā (a membranous layer), by pervading all the limbs, and especially in the marrow (majjā), the testicles (muṣka) and the breasts; stirred up by excitement, by saṃprahana (striking together), from the possession of the heart, having become a lump, it issues from limb to limb. That śukra (semen), gentle (saumya), unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, and of the colour of any one of ghee, oil or honey, becomes fit for conception (garbhādhāna).",
+  "why": "reviewer (minor): An \"and\" is supplied between harṣodīritam and saṃprahanena; the Sanskrit lists the causes without a conjunction"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वह, दूध में घी और ईख के रस में गुड़ की तरह, शरीर में शुक्रधरा कला का आश्रय लेकर समस्त अंगों में व्याप्त होने से स्थित रहता है, और विशेषकर मज्जा, मुष्क यानी वृषण और स्तनों में; हर्ष से, संप्रहन यानी आपस में टकराने से, प्रेरित होकर, हृदय के आवेश से, पिण्ड बनकर, अंग-अंग से निकलता है। वह सौम्य, स्निग्ध, भारी, श्वेत, मधु की गन्ध वाला, मधुर, पिच्छिल, बहुत, गाढ़ा, और घी, तेल या शहद में से किसी एक के रंग वाला शुक्र यानी वीर्य गर्भाधान के योग्य होता है।",
+  "new": "वह, दूध में घी और ईख के रस में गुड़ की तरह, शरीर में शुक्रधरा कला यानी झिल्लीदार परत का आश्रय लेकर समस्त अंगों में व्याप्त होने से स्थित रहता है, और विशेषकर मज्जा, मुष्क यानी वृषण और स्तनों में; हर्ष से, संप्रहन यानी आपस में टकराने से, प्रेरित होकर, हृदय के आवेश से, पिण्ड बनकर, अंग-अंग से निकलता है। वह सौम्य, स्निग्ध, भारी, श्वेत, मधु की गन्ध वाला, मधुर, पिच्छिल, बहुत, गाढ़ा, और घी, तेल या शहद में से किसी एक के रंग वाला शुक्र यानी वीर्य गर्भाधान के योग्य होता है।",
+  "why": "reviewer (minor): Hindi has bare \"कला\" (reads as \"art\") while English glosses kalā as a membranous layer; doctrinal term needs the plain gloss in Hindi too"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Likewise, the blood itself of women, month by month, having reached the garbhakoṣṭha (womb), flowing for three days, they call ārtava (menstrual blood).",
+  "new": "Likewise, the blood itself of women, month by month, having reached the garbhakoṣṭha (probably the womb), flowing for three days, they call ārtava (menstrual blood).",
+  "why": "reviewer (minor): Draft tags womb as probable in notes but states it flatly in both translations (Hindi gives no gloss at all)"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "उसी प्रकार स्त्रियों का रक्त ही, हर मास गर्भकोष्ठ को प्राप्त होकर, तीन दिन बहता हुआ, आर्तव यानी रजोधर्म का रक्त कहा जाता है।",
+  "new": "उसी प्रकार स्त्रियों का रक्त ही, हर मास गर्भकोष्ठ यानी सम्भवतः गर्भाशय को प्राप्त होकर, तीन दिन बहता हुआ, आर्तव यानी रजोधर्म का रक्त कहा जाता है।",
+  "why": "reviewer (minor): Draft tags womb as probable in notes but states it flatly in both translations (Hindi gives no gloss at all)"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Through excessive continuation, whether out of season or in season, that very thing obtains the names asṛgdara (excessive menstrual bleeding), pradara (abnormal vaginal discharge or bleeding) and vyāpad (disorder), and the name raktayoni.",
+  "new": "Through excessive continuation, whether out of season or in season, that very thing obtains the names asṛgdara (probably excessive menstrual bleeding), pradara (probably abnormal vaginal discharge or bleeding) and vyāpad (disorder), and the name raktayoni.",
+  "why": "reviewer (error): Probable identifications stated without hedge in the translation; Hindi gives none"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "अतिप्रसंग से, ऋतु के अतिरिक्त समय में या ऋतु में, वही असृग्दर, प्रदर और व्यापद तथा रक्तयोनि नाम पाता है।",
+  "new": "अतिप्रसंग से, ऋतु के अतिरिक्त समय में या ऋतु में, वही असृग्दर यानी सम्भवतः अधिक रजःस्राव, प्रदर यानी सम्भवतः योनि से असामान्य स्राव और व्यापद यानी विकार तथा रक्तयोनि नाम पाता है।",
+  "why": "reviewer (error): Probable identifications stated without hedge in the translation; Hindi gives none"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "asṛgdaram",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Both nouns are masculine in the dictionaries (asṛgdara, pradara); gender uncertain at best, so drop the label"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "pradaram",
+  "old": "n. acc. sg.",
+  "new": "acc. sg.",
+  "why": "reviewer (minor): Both nouns are masculine in the dictionaries (asṛgdara, pradara); gender uncertain at best, so drop the label"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "In the management of that, one should look to the treatment of raktapitta (a bleeding disorder) and the remedy (pratiṣedha) for diseases of the private parts (guhya-roga).",
+  "new": "In the management of that, one should look to the treatment of raktapitta (probably a bleeding disorder) and the remedy (pratiṣedha) for diseases of the private parts (guhya-roga).",
+  "why": "reviewer (minor): Notes tag this probable; translation states it flatly"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "उसके साधन में रक्तपित्त की चिकित्सा और गुह्य रोगों के प्रतिषेध को भी देखे।",
+  "new": "उसके साधन में रक्तपित्त यानी सम्भवतः रक्तस्राव वाले विकार की चिकित्सा और गुह्य रोगों के प्रतिषेध को भी देखे।",
+  "why": "reviewer (minor): Notes tag this probable; translation states it flatly"
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "vāta-kapha-āvṛta-mārgāṇām",
+  "old": "bahuvrīhi, m. gen. pl.",
+  "new": "bahuvrīhi, gen. pl.",
+  "why": "reviewer (minor): Unstated nouns: the bahuvrīhi qualifies women (strīṇām, f.) and vātalāni has no noun; glossary: case and number only, no gender"
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "vātalāni",
+  "old": "n. acc. pl.",
+  "new": "acc. pl.",
+  "why": "reviewer (minor): Unstated nouns: the bahuvrīhi qualifies women (strīṇām, f.) and vātalāni has no noun; glossary: case and number only, no gender"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "जिनके मार्ग वात और कफ से ढके हों उनका, न बहता हुआ, पित्त बढ़ाने वाले उपचारों से वह बहता हुआ, शुक्र के साथ या शुक्र के बिना, जीवरहित, वात बढ़ाने वाले का सेवन करती हुई स्त्री का, गर्भ के लक्षण दिखाता हुआ, गुल्म वाला हो जाता है; वहाँ गुल्म की चिकित्सा को देखे।",
+  "new": "जिनके मार्ग वात और कफ से ढके हों उनका, न बहता हुआ, पित्त बढ़ाने वाले उपचारों से वह बहता हुआ, शुक्र के साथ या शुक्र के बिना, जीवरहित, वात बढ़ाने वालों का सेवन करती हुई स्त्री का, गर्भ के लक्षण दिखाता हुआ, गुल्म वाला हो जाता है; वहाँ गुल्म की चिकित्सा को देखे।",
+  "why": "reviewer (minor): Singular where Sanskrit vātalāni is plural"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or sometimes, in a pregnant (woman) indeed, vātodara (Vāta-belly: abdominal swelling from Vāta) occurs; that subsides with Vāta-pacifying (ones).",
+  "new": "Or sometimes, in a pregnant (woman) indeed, vātodara (Vāta-belly: probably abdominal swelling from Vāta) occurs; that subsides with Vāta-pacifying (ones).",
+  "why": "reviewer (error): Tagged probable in notes but stated flatly"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "कभी गर्भवती स्त्री में भी वातोदर यानी वात से पेट का फूलना हो जाता है; वह वात को शान्त करने वालों से शान्त हो जाता है।",
+  "new": "कभी गर्भवती स्त्री में भी वातोदर यानी सम्भवतः वात से पेट का फूलना हो जाता है; वह वात को शान्त करने वालों से शान्त हो जाता है।",
+  "why": "reviewer (error): Tagged probable in notes but stated flatly"
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "vāta-aupaśamanaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Unstated noun; no gender"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "That very ārtava (menstrual blood), sometimes held back by gentle diets and regimens of a bulk-promoting (bṛṃhaṇa) nature, increases the belly (udara), free of complications, as if occupied by an embryo.",
+  "new": "That very ārtava (menstrual blood), sometimes held back by gentle diets and regimens of a bulk-promoting (bṛṃhaṇa) nature, increases the belly (udara), free of complications indeed, as if occupied by an embryo.",
+  "why": "reviewer (minor): eva after anupadravam is dropped in English (Hindi has ही)"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "वही आर्तव कभी सौम्य, बृंहण स्वभाव वाले आहार और विहारों से रुका हुआ, उपद्रवरहित ही उदर को, मानो गर्भ से अधिष्ठित हो, बढ़ा देता है।",
+  "new": "वही आर्तव कभी सौम्य, बृंहण यानी पुष्टि करने वाले स्वभाव के आहार और विहारों से रुका हुआ, उपद्रवरहित ही उदर को, मानो गर्भ से अधिष्ठित हो, बढ़ा देता है।",
+  "why": "reviewer (minor): Doctrinal term bṛṃhaṇa has an English gloss but none in Hindi"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "viparītaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): Unstated noun; no gender"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "क्योंकि राक्षसों द्वारा ओज का अपहरण सम्भव है, परन्तु शरीर का नहीं, अनिष्ट होने से या असमर्थता से।",
+  "new": "क्योंकि राक्षसों द्वारा ओज यानी जीवन-सार का अपहरण सम्भव है, परन्तु शरीर का नहीं, अनिष्ट होने से या असमर्थता से।",
+  "why": "reviewer (minor): Doctrinal term ojas glossed in English, bare in Hindi"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "Elliptical: 'apaharaṇam' (taking away) is carried over to 'of the body'. Whose undesirability or incapacity is meant is not stated.",
+  "new": "Elliptical: 'apaharaṇam' (taking away) is carried over to 'of the body'. Whose undesirability or incapacity is meant is not stated. GROUPING: appears to continue the argument of unit 18 (yasmāt gives the reason).",
+  "why": "reviewer (minor): Continues unit 18 (yasmāt gives the reason for \"bhūtahṛtam\")"
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "pravṛtte",
+  "old": "when engaged",
+  "new": "of the activity",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "pravṛtte",
+  "old": "ppp. pra-√vṛt, n. loc. sg.",
+  "new": "f. gen. sg.",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "word.w",
+  "word": "pravṛtte",
+  "old": "pravṛtte",
+  "new": "pravṛtteḥ",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "icchā-śaktayoḥ",
+  "old": "dvandva, f. loc. du.",
+  "new": "dvandva, f. gen. du.",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "rupalabdhirna",
+    "suggest": "upalabdhir na",
+    "why": "possible: initial r looks extra; upalabdhi 'perception' fits the sense; rūpa-labdhi is not clear"
+   }
+  ],
+  "new": [
+   {
+    "src": "rupalabdhirna",
+    "suggest": "upalabdhir na",
+    "why": "print spacing: the initial r is the visarga of the preceding word (pravṛtter upalabdhir na)"
+   },
+   {
+    "src": "pravṛtte",
+    "suggest": "pravṛtteḥ",
+    "why": "possible: its visarga (r) stands at the start of the next printed token"
+   }
+  ],
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "For when desire and power are engaged, there is no perception, and the removal of anyone's body by humans is not seen.",
+  "new": "For there is no perception of the activity of desire and power, and the removal of anyone's body by humans is not seen.",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "क्योंकि इच्छा और शक्ति के प्रवृत्त होने पर उपलब्धि नहीं होती, और किसी के देह का मनुष्यों द्वारा अपहरण नहीं देखा जाता।",
+  "new": "क्योंकि इच्छा और शक्ति की प्रवृत्ति की उपलब्धि नहीं होती, और किसी के देह का मनुष्यों द्वारा अपहरण नहीं देखा जाता।",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "The grammar of 'icchāśaktayor hi pravṛtte' is uncertain (locative dual absolute). The reading is not firm.",
+  "new": "Reading adopted on a print-spacing correction: the printed 'pravṛtte rupalabdhirna' is pravṛtter upalabdhir na (the r is the visarga of pravṛtteḥ, displaced across the space, as in unit 5); the earlier locative-dual-absolute reading is dropped. 'icchā-śaktayoḥ' is then a genitive dual dependent on pravṛtteḥ. The argument (demons act by will and power unseen; no human removal of a body is seen) is not firm, hence low confidence. GROUPING: appears to continue unit 19 (hi).",
+  "why": "reviewer (error): The printed space is misplaced: the r that starts the next token is the visarga of the preceding word. Read pravṛtter upalabdhir na (same pattern as unit 5 aniṃdyā maniṃdyena). The printed Devanagari प्रवृत्ते रुपलब्धिर्न confirms the space. This gives a clean sentence \"for there is no perception of the activity of desire and power\", and removes the ill-fitting locative absolute with a dual"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "और यदि कुछ अत्यधिक शक्ति से युक्त लोग देखे हुए को भी लाँघकर गर्भ के शरीर के उत्क्षेप में प्रवृत्त होते हैं, तब कैसे भला अनुमानित पाठ पर उसकी माताओं की उपेक्षा करेंगे।",
+  "new": "और यदि कुछ अत्यधिक शक्ति से युक्त लोग देखे हुए को भी लाँघकर गर्भ के शरीर के उत्क्षेप में प्रवृत्त होते हैं, तब कैसे भला प्राप्तविशराः, जो अस्पष्ट शब्द है, अनुमानित पाठ पर, उसकी माताओं की उपेक्षा करेंगे।",
+  "why": "reviewer (error): Hindi drops the unclear word prāptaviśarāḥ altogether, while English keeps it with \"unclear\"; glossary: Hindi unclear mark must match English"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "और यदि कुछ अत्यधिक शक्ति से युक्त लोग देखे हुए को भी लाँघकर गर्भ के शरीर के उत्क्षेप में प्रवृत्त होते हैं, तब कैसे भला प्राप्तविशराः, जो अस्पष्ट शब्द है, अनुमानित पाठ पर, उसकी माताओं की उपेक्षा करेंगे।",
+  "new": "और यदि कुछ अत्यधिक शक्ति से युक्त लोग देखे हुए को भी लाँघकर गर्भ के शरीर को फेंकने में प्रवृत्त होते हैं, तब कैसे भला प्राप्तविशराः, जो अस्पष्ट शब्द है, अनुमानित पाठ पर, उसकी माताओं की उपेक्षा करेंगे।",
+  "why": "reviewer (minor): उत्क्षेप (throwing up) is a different word from ākṣepa; English says \"casting off\""
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "Damaged or unclear word 'prāptaviśarāḥ' kept unsplit; it is probably an adjective or subject of 'upekṣeran' (the beings said to take the embryo?), but this is a conjecture and the translation of that part is on a conjectural reading. 'ākṣepa' = casting off or removal. 'dṛṣṭam api samullaṅghya' = literally 'even having transgressed what is seen'. The doubled tt in 'pravarttante' is normalised.",
+  "new": "Damaged or unclear word 'prāptaviśarāḥ' kept unsplit; it is probably an adjective or subject of 'upekṣeran' (the beings said to take the embryo?), but this is a conjecture and the translation of that part is on a conjectural reading. 'ākṣepa' = casting off or removal. 'dṛṣṭam api samullaṅghya' = literally 'even having transgressed what is seen'. The doubled tt in 'pravarttante' is normalised. GROUPING: appears to continue the argument of units 19-20.",
+  "why": "reviewer (minor): Continues units 19-20 (the same argument about demons)"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Ārtava (menstrual blood), moreover, which resembles hare's blood and lac-juice and, when washed, loses its colour, they call pure.",
+  "new": "Ārtava (menstrual blood), moreover, which resembles hare's blood and lākṣā (lac) juice and, when washed, loses its colour, they call pure.",
+  "why": "reviewer (minor): Sanskrit term lākṣā not kept in the translation (policy: Sanskrit name beside the identification)"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "आर्तव को फिर, जो खरगोश के रक्त और लाख के रस के समान हो और धोने पर रंग छोड़ता जाए, शुद्ध कहते हैं।",
+  "new": "आर्तव को फिर, जो खरगोश के रक्त और लाक्षा यानी लाख के रस के समान हो और धोने पर रंग छोड़ता जाए, शुद्ध कहते हैं।",
+  "why": "reviewer (minor): Sanskrit term lākṣā not kept in the translation (policy: Sanskrit name beside the identification)"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "और जैसे बाल या जीर्ण वृक्ष का पुष्प-फल, या वैसे पुष्प-फल की गन्ध उपलब्ध नहीं होती, वैसे ही सोलह वर्ष से कम और सत्तर वर्ष से अधिक बीते हुए पुरुष के शुक्रसेक आदि नहीं।",
+  "new": "और जैसे बाल या जीर्ण वृक्ष का पुष्प-फल, या वैसे पुष्प-फल की गन्ध उपलब्ध नहीं होती, वैसे ही सोलह वर्ष से कम या सत्तर वर्ष से अधिक बीते हुए पुरुष के शुक्रसेक आदि नहीं।",
+  "why": "reviewer (minor): English says \"or\", Hindi \"और\" (and); no man is under sixteen and over seventy. Unit 24 English uses \"and\". Make all four \"or\""
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "And of a woman of less than twelve and past fifty years, the rajas (menses), breast milk (stanya) and the rest, thus.",
+  "new": "And of a woman of less than twelve or past fifty years, the rajas (menses), breast milk (stanya) and the rest.",
+  "why": "reviewer (minor): \"and\" should be \"or\" as in unit 23; closing iti belongs in notes, not the translation (glossary)"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "और बारह वर्ष से कम तथा पचास वर्ष से अधिक बीते हुए वर्षों वाली स्त्री के रजस्, स्तन्य आदि, ऐसा।",
+  "new": "और बारह वर्ष से कम या पचास वर्ष से अधिक बीते हुए वर्षों वाली स्त्री के रजस्, स्तन्य आदि।",
+  "why": "reviewer (minor): \"and\" should be \"or\" as in unit 23; closing iti belongs in notes, not the translation (glossary)"
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Elliptical: continues 23 ('na upalabhyate' carried). 'yoṣit' (nominative) beside 'varṣāyāḥ' (genitive) does not agree; the text may intend yoṣitaḥ; the printed forms are kept. The closing 'iti' marks the end of the statement. Identification: rajas = menstrual flow (standard in this sense); stanya = breast milk (standard).",
+  "new": "Elliptical: continues 23 ('na upalabhyate' carried). 'yoṣit' (nominative) beside 'varṣāyāḥ' (genitive) does not agree; the text may intend yoṣitaḥ; the printed forms are kept. The closing 'iti' marks the end of the statement. Identification: rajas = menstrual flow (standard in this sense); stanya = breast milk (standard). GROUPING: appears to complete the statement of unit 23.",
+  "why": "reviewer (minor): Completes the sentence of unit 23 (na upalabhyante carried; closing iti)"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Then, a couple whose semen (śukra) and ārtava are pure, free of disease, and mutually attached, having been oleated, and as prescribed having been cleansed, one should treat with āsthāpana (decoction enema) and anuvāsana (oil enema).",
+  "new": "Then, having oleated a couple whose semen (śukra) and ārtava are pure, who are free of disease and mutually attached, and having cleansed them as prescribed, one should treat them with āsthāpana (decoction enema) and anuvāsana (oil enema).",
+  "why": "reviewer (minor): The absolutives upasnehya and saṃśodhya are active (\"having oleated\", \"having cleansed\"), with mithunam as object; English makes them passive and leaves \"one\" as subject dangling"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "अब जिस जोड़े के शुक्र और आर्तव शुद्ध हों, जो निरोग हो और परस्पर अनुरक्त हो, उस जोड़े का स्नेहन करके, विधि के अनुसार शोधन करके, आस्थापन और अनुवासन से उपचार करे।",
+  "new": "अब जिस जोड़े के शुक्र और आर्तव शुद्ध हों, जो निरोग हो और परस्पर अनुरक्त हो, उस जोड़े का स्नेहन करके, विधि के अनुसार शोधन करके, आस्थापन यानी काढ़े की वस्ति और अनुवासन यानी तेल की वस्ति से उपचार करे।",
+  "why": "reviewer (minor): Hindi has no gloss for the two enema names (English has)"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "upasnehya",
+  "old": "abs. upa-√snih",
+  "new": "abs. (caus.) upa-√snih",
+  "why": "reviewer (minor): The absolutive of snih with upa is causative (snehayati, \"oleate\")"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "pittalaiḥ",
+  "old": "m. inst. pl.",
+  "new": "n. inst. pl.",
+  "why": "reviewer (minor): Agrees with māṃsaiḥ, and māṃsa is neuter (draft itself has n. for māṃsaiḥ)"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "Elliptical: 'upācaret' of 25 is carried. How the instruments are shared between man and woman is not marked by the case endings: tailena may go with nārīm only, and pittalaiḥ māṃsaiḥ may belong to either or both. The literal order is kept. 'pittalaiḥ' = Pitta-increasing (ones); the noun it agrees with is māṃsaiḥ.",
+  "new": "Elliptical: 'upācaret' of 25 is carried. How the instruments are shared between man and woman is not marked by the case endings: tailena may go with nārīm only, and pittalaiḥ māṃsaiḥ may belong to either or both. The literal order is kept. 'pittalaiḥ' = Pitta-increasing (ones); the noun it agrees with is māṃsaiḥ. GROUPING: appears to continue unit 25.",
+  "why": "reviewer (minor): Continues unit 25 (upācaret carried)"
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "āpyāyate",
+  "old": "3 sg. pres. pass. ā-√pyāy",
+  "new": "3 sg. pres. ā. ā-√pyāy",
+  "why": "reviewer (minor): ā-pyāyate is the ātmanepada present of √pyāy (intransitive, \"swells, grows\"); the passive would be āpyāyyate"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "The semens (retas) that are Vāta, Pitta, Śleṣma (Kapha), corpse-smelling, knot, pus, wasted, urine and faeces, however, are seedless (abīja).",
+  "new": "The semens (retas) that are Vāta, Pitta, Śleṣma (Kapha), corpse-smelling, knot, pus, wasted, urine-and-faeces, however, are seedless (abīja).",
+  "why": "reviewer (minor): The notes say mūtra-purīṣa is ONE member (eight kinds, matching units 29-37), but the English list reads as two items"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "वात, पित्त, श्लेष्मा, कुणपगन्धि, ग्रन्थि, पूय, क्षीण, मूत्र-पुरीष वाले रेत तो बीजहीन होते हैं।",
+  "new": "वात, पित्त, श्लेष्मा, कुणपगन्धि, ग्रन्थि, पूय, क्षीण, मूत्र-पुरीष वाले रेतस् यानी वीर्य तो बीजहीन होते हैं।",
+  "why": "reviewer (error): Bare रेत reads as \"sand\" in Hindi; retas is semen"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "tanu",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "rūkṣam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "phenilam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "aruṇam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "alpam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "sa-rujam",
+  "old": "bahuvrīhi, n. nom. sg.",
+  "new": "bahuvrīhi, nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "pītam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "apicchilam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "nīlam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "majja-upasaṃsṛṣṭam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "prabhūtam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "32",
+  "field": "word.gram",
+  "word": "kuṇapa-gandhi",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "32",
+  "field": "word.gram",
+  "word": "alpam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "granthi-bhūtam",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "pūti-pūya-nibham",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "vāta-pittābhyām",
+  "old": "m. inst. du.",
+  "new": "n. inst. du.",
+  "why": "reviewer (minor): A dvandva takes the gender of its last member; pitta is neuter (units 33/34 end in śleṣman, m., and are fine)"
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "mūtra-purīṣa-gandhi",
+  "old": "n. nom. sg.",
+  "new": "nom. sg.",
+  "why": "reviewer (minor): Noun (retas) is not stated in this unit; glossary: unstated-noun adjectives carry case and number only, never m./n."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "मूत्र और मल की गन्ध वाला, सन्निपात के कारण।",
+  "new": "मूत्र और मल की गन्ध वाला, सन्निपात यानी तीनों दोषों के एक साथ होने के कारण।",
+  "why": "reviewer (minor): Hindi सन्निपात alone commonly means a delirious fever; English glosses it as the three doṣas together"
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "tasya",
+  "old": "m. gen. sg.",
+  "new": "gen. sg.",
+  "why": "reviewer (minor): Refers to the neuter ārtava; form is gender-neutral"
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "teṣu",
+  "old": "m. loc. pl.",
+  "new": "loc. pl.",
+  "why": "reviewer (minor): Refers to the neuter retāṃsi/kinds"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "उनमें कुणप, ग्रन्थि, पूय और क्षीण रेत कठिनाई से साध्य हैं।",
+  "new": "उनमें कुणप, ग्रन्थि, पूय और क्षीण रेतस् यानी वीर्य कठिनाई से साध्य हैं।",
+  "why": "reviewer (error): Bare रेत reads as \"sand\""
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "उनमें पहले तीन शुक्र और आर्तव के दोषों को, प्रत्येक को अपने दोष के साधन से साधे।",
+  "new": "उनमें पहले तीन शुक्र और आर्तव के दोषों को, प्रत्येक को अपने दोष के साधन से उपचार करे।",
+  "why": "reviewer (minor): \"साधे\" (from साधना, to practise/master) is not natural for sādhayet; English \"should treat\""
+ }
+]

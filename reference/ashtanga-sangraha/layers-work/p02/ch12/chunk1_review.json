@@ -1,0 +1,1486 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अब इसके बाद; दूतादिविज्ञानीय",
+     "problem": "Hindi renders atha ataḥ as 'अब इसके बाद' (glossary: ataḥ = इसलिए, as in ch05-ch09, ch11) and, unlike the English, gives no gloss for the chapter name.",
+     "fix": "अब इसलिए हम शरीर सम्बन्धी दूतादिविज्ञानीय यानी दूत आदि के ज्ञान का व्याख्यान करेंगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "अब इसलिए हम शरीर सम्बन्धी दूतादिविज्ञानीय यानी दूत आदि के ज्ञान का व्याख्यान करेंगे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sūcayanti",
+     "problem": "'(caus. type)' in gram: 10th-class/curādi verbs are not marked caus. (glossary).",
+     "fix": "3 pl. pres. √sūc",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "sūcayanti",
+      "field": "gram",
+      "value": "3 pl. pres. √sūc"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tu / api",
+     "problem": "Observation only: 'tu' is not rendered in either language (English 'Of the messenger too, ...'); harmless but 'indeed/but' is dropped.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vilikhangṛhītvā, deśekāle, rudanniṣṭhuro'maṃgalābhidhāyī, pakkaṃ",
+     "problem": "Three tokens are split in `words` although the print has no space and no sandhi applies (vilikhan|gṛhītvā, deśe|kāle, rudan|niṣṭhuraḥ) and pakka is silently written pakva; the glossary requires a flag for each.",
+     "fix": "four text_flags added",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vyādhino",
+        "suggest": "vyādhitaḥ",
+        "why": "possible: vyādhin is not a regular nominative; vyādhitaḥ (diseased) is expected"
+       },
+       {
+        "src": "'nekojīrṇavivarṇamalinacchinnādraikavasanaḥ",
+        "suggest": "'nekajīrṇavivarṇamalinacchinnārdraikavasanaḥ",
+        "why": "possible: the o of 'neko' and the 'dra' for 'rdra' look like print slips; the compound should be aneka-...-ārdra-eka-vasanaḥ"
+       },
+       {
+        "src": "dūrādāhvayamānastṛṇaloṣṭupāṃgārabhasmatuṣasīsāsthikeśaśirolalāṭanāsikā''syadaṃtajihvāgrīvānakhā'nāmikā'ṃgulistanajaṭharanābhipṛṣṭhakaṭīmehanajaṃghākapālapalopalamuśalaśūrpopānanmārjanośastravastrāṃtadaśākārpāsabhagnacyutaspṛkkāṣṭhayaṣṭitulārajjupāśacarmaveṇuriktabhājanasnehabhājanadharaḥ",
+        "suggest": "loṣṭāṃgāra ... mārjanūṣaśastra ...",
+        "why": "possible: the printed 'loṣṭupāṃgāra' read loṣṭāṃgāra, and 'mārjanośastra' read mārjanoṣaśastra / mārjana-ūṣa-śastra; 'spṛk' itself is unexplained"
+       },
+       {
+        "src": "vilikhangṛhītvā",
+        "suggest": "vilikhan gṛhītvā",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "deśekāle",
+        "suggest": "deśe kāle",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "rudanniṣṭhuro'maṃgalābhidhāyī",
+        "suggest": "rudan niṣṭhuro 'maṃgalābhidhāyī",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "pakkaṃ",
+        "suggest": "pakvaṃ",
+        "why": "possible: pakka is a Prakrit-type spelling; written pakva in words (orthographic normalisation)"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'loṣṭopāṃgāra'",
+     "problem": "The note and the flag quote the print wrongly: the printed word is 'loṣṭupāṃgāra' (लोष्टुपांगार), not 'loṣṭopāṃgāra'. Reading it as loṣṭa + aṅgāra does not match the print letter for letter (the letters 'u' and 'pā' are dropped); loṣṭa + pāṃsu (dust) + aṅgāra would keep more of the print. Either way the reading is a guess, which is why it is marked conjectural.",
+     "fix": "correct the quotation in the note and in the flag; keep 'charcoal' marked conjectural",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "'loṣṭopāṃgāra' is read as loṣṭa + aṅgāra (charcoal)",
+      "new": "The printed 'loṣṭupāṃgāra' is read as loṣṭa + aṅgāra (charcoal), which does not match the print letter for letter (the letters 'u' and 'pā' are dropped; loṣṭa + pāṃsu 'dust' + aṅgāra is another possible guess)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "spṛk",
+     "problem": "The gloss carries a guess ('possibly touching'); rule: guesses for damaged words go only in flags and notes, the gloss says 'unclear'.",
+     "fix": "unclear (as printed)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "spṛk",
+      "field": "gloss",
+      "value": "unclear (as printed)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "conjectural marks",
+     "problem": "The conjectural mark is a separate closing sentence ('Some members of the long compound are read on a conjectural reading (charcoal, saline soil).') that is not in the Sanskrit; the siblings put the mark inline next to the substituted word. Hindi has the same closing sentence.",
+     "fix": "inline marks after 'charcoal' and 'saline soil' (English) and before कोयला / ऊष (Hindi); closing sentence removed",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "english",
+       "old": "clod, charcoal, ashes",
+       "new": "clod, charcoal (on a conjectural reading), ashes"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "english",
+       "old": "broom, saline soil, weapon",
+       "new": "broom, saline soil (on a conjectural reading), weapon"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "english",
+       "old": " Some members of the long compound are read on a conjectural reading (charcoal, saline soil).",
+       "new": ""
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": "ढेला, कोयला, राख",
+       "new": "ढेला, अनुमानित पाठ पर कोयला, राख"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": "झाड़ू, ऊष यानी खारी मिट्टी",
+       "new": "झाड़ू, अनुमानित पाठ पर ऊष यानी खारी मिट्टी"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": " इस सूची के कुछ सदस्य अनुमानित पाठ पर पढ़े गए हैं।",
+       "new": ""
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "riding a donkey, camel or buffalo",
+     "problem": "'or' is not in the Sanskrit (khara-uṣṭra-mahiṣa-vāhana is a dvandva: donkey, camel, buffalo as vehicle); Hindi 'गधा ऊँट या भैंसे' has the same 'or'. Also 'wearing a single garment of many kinds (aneka): old, ...' restructures the compound aneka-jīrṇa-vivarṇa-malina-chinna-ārdra-eka-vasana (the printed 'neko' is itself flagged); the colon and 'of many kinds' are interpretation.",
+     "fix": "owner to decide: literal list without 'or' / literal aneka",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "pala / palopala",
+     "problem": "Observation: 'palopala' may also hide palāla (straw) or pala + upala as read; 'pala' = flesh is a guess in the middle of a damaged list. Kept as read; no change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "such as; conjectural mark",
+     "problem": "'liquids such as ghee and water' adds 'such as' (ādi = 'and the like', glossary); the conjectural mark sits mid-sentence and in Hindi comes after the list (siblings put it at the head). The gloss of the compound repeats 'such as'. Also: the word-level reading 'samīpastham' (acc.) is taken as a nominative in the translation; the flag already notes this.",
+     "fix": "On a conjectural reading, at dawn, one standing near liquids (ghee, water and the like), very cold and stiff, is inauspicious in a Kapha disease, but auspicious in a Pitta disease.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "6",
+       "op": "set",
+       "field": "english",
+       "value": "On a conjectural reading, at dawn, one standing near liquids (ghee, water and the like), very cold and stiff, is inauspicious in a Kapha disease, but auspicious in a Pitta disease."
+      },
+      {
+       "n": "6",
+       "op": "set",
+       "field": "hindi",
+       "value": "अनुमानित पाठ पर, भोर के समय घी, जल आदि द्रवों के पास खड़ा हुआ, अत्यन्त ठंडा और अकड़ा हुआ, कफ के रोग में अशुभ है, परन्तु पित्त के रोग में शुभ है।"
+      },
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "ghṛta-udaka-ādi-drava-samīpastham",
+       "field": "gloss",
+       "value": "standing near liquids (ghee, water and the like) (drava read for printed dva)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वमन; अतिसार",
+     "problem": "Hindi renders chardi as 'वमन' (glossary: chardi and vamana kept distinct) and leaves atisāra bare while English glosses it 'diarrhoea'.",
+     "fix": "छर्दि यानी उलटी, मेह यानी प्रमेह नामक मूत्र के रोग, अतिसार यानी दस्त आदि में",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वमन, मेह यानी प्रमेह नामक मूत्र के रोग, अतिसार आदि में",
+      "new": "छर्दि यानी उलटी, मेह यानी प्रमेह नामक मूत्र के रोग, अतिसार यानी दस्त आदि में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vaidyaṃsuptaṃ, vikḻavaṃchiṃdaṃtaṃ, tathāmadhyānho...",
+     "problem": "Tokens split in `words` without a printed space and without sandhi (ṃ before a consonant stays) have no flag (glossary rule).",
+     "fix": "two text_flags added, one extended",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tathāmadhyānhobhayasaṃdhyārdrārātricaturthīṣaṣṭhīnavamīparvadineṣu",
+        "suggest": "tathāmadhyāhnobhayasaṃdhyārdharātricaturthīṣaṣṭhīnavamīparvadineṣu",
+        "why": "possible: 'madhyānha' for madhyāhna (inversion); 'ārdrārātri' for ardharātri (midnight), dha/dra confusion and extra ā; also 'tathā' is joined to madhyāhna with no space where no sandhi applies (written as separate words in words)"
+       },
+       {
+        "src": "vaidyaṃsuptaṃ",
+        "suggest": "vaidyaṃ suptaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       },
+       {
+        "src": "vikḻavaṃchiṃdaṃtaṃ",
+        "suggest": "vikḻavaṃ chiṃdaṃtaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "(the messenger) / दूत",
+     "problem": "The subject of aśubhaḥ is not stated; '(the messenger)' and Hindi 'दूत' supply it (the notes say none is supplied).",
+     "fix": "(one) is inauspicious / में अशुभ है",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "8",
+       "op": "replace",
+       "field": "english",
+       "old": "(the messenger) is inauspicious",
+       "new": "(one) is inauspicious"
+      },
+      {
+       "n": "8",
+       "op": "replace",
+       "field": "hindi",
+       "old": "नक्षत्रों में दूत अशुभ है",
+       "new": "नक्षत्रों में अशुभ है"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "(अनुमानित पाठ पर)",
+     "problem": "Hindi must not use brackets (brief); the mark goes inline.",
+     "fix": "आधी रात, अनुमानित पाठ पर, चतुर्थी",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधी रात (अनुमानित पाठ पर),",
+      "new": "आधी रात, अनुमानित पाठ पर,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tithis / añjali / vyādhitāśraya",
+     "problem": "Observation: caturthī/ṣaṣṭhī/navamī rendered 'lunar days' (standard: tithi); 'vyādhitāśraya' (abode of the patient vs the diseased part) stays open as the note says. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bhūmirabhyuddhṛtāsiddhamannaṃ, sahasraṃnarāṇāṃ, maṃgalānāṃśataṃ, darśanātsparśanātkīrtanācāśubhāni, sarasvatyapatyakṣamā",
+     "problem": "Five tokens are split in `words` where the print has no space and no sandhi applies (and apatya|kṣamā loses an anusvara) without a flag.",
+     "fix": "five text_flags added; `w` apatya -> apatyam",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "apatya",
+       "field": "w",
+       "value": "apatyam"
+      },
+      {
+       "n": "10",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśadarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+         "suggest": "dadhimadhughṛtalājapuṣpākṣatoduṃbarāśvatthamuktāmaṇikuśādarśakanyādhvajasyaṃdanarāṣṭropadākṣanṛpaśrītarubhadrapīṭhāni",
+         "why": "possible: 'ā' lost, giving ādarśa (mirror), an auspicious object; 'darśa' alone does not fit the list"
+        },
+        {
+         "src": "vaṃruṇamadhumadsiktagaṃḍagajastoyalaṃbo'budaḥ",
+         "suggest": "vāruṇamadhumadasiktagaṇḍagajastoyalambo'mbudaḥ",
+         "why": "possible: 'madsikta' for madasikta, 'budaḥ' for ambudaḥ; 'vaṃruṇa' is unexplained (vāruṇa?) and left unclear"
+        },
+        {
+         "src": "phalānyārdre",
+         "suggest": "phalānyārdram",
+         "why": "possible: ārdre (loc.) does not agree; ārdram with māṃsam (fresh meat) fits"
+        },
+        {
+         "src": "dharmārthakāmāmāśritaṃ",
+         "suggest": "dharmārthakāmāśritaṃ",
+         "why": "possible: stray 'mā' (kāmā-mā-śritam); dharma-artha-kāma-āśritam is expected"
+        },
+        {
+         "src": "ditiraditiruṃdhatī",
+         "suggest": "ditiraditirarundhatī",
+         "why": "possible: 'a' of arundhatī lost; read from the name"
+        },
+        {
+         "src": "bhūmirabhyuddhṛtāsiddhamannaṃ",
+         "suggest": "bhūmir abhyuddhṛtā siddham annaṃ",
+         "why": "certain: space missing where no sandhi applies; written as separate words in words"
+        },
+        {
+         "src": "sahasraṃnarāṇāṃ",
+         "suggest": "sahasraṃ narāṇāṃ",
+         "why": "certain: space missing where no sandhi applies; written as separate words in words"
+        },
+        {
+         "src": "maṃgalānāṃśataṃ",
+         "suggest": "maṃgalānāṃ śataṃ",
+         "why": "certain: space missing where no sandhi applies; written as separate words in words"
+        },
+        {
+         "src": "darśanātsparśanātkīrtanācāśubhāni",
+         "suggest": "darśanāt sparśanāt kīrtanāc cāśubhāni",
+         "why": "certain: space missing where no sandhi applies; written as separate words in words"
+        },
+        {
+         "src": "sarasvatyapatyakṣamā",
+         "suggest": "sarasvatī apatyaṃ kṣamā",
+         "why": "possible: apatya and kṣamā are joined with no space and no anusvara where no sandhi applies; read as two words (apatyam, kṣamā), w gives apatyam"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "tri-nayana, madhu-sūdana, skanda, padma-āsanāḥ",
+     "problem": "These four are given separate 'm. nom. sg.' labels, but 'toyotthitastrinayanamadhusūdanaskaṃdapadmāsanā' reads as toya-utthitaḥ + a dvandva tri-nayana-madhusūdana-skanda-padmāsanāḥ (ending -āḥ, plural; the first three are bare stems with no case ending, and w padma-āsanāḥ is plural against 'sg.').",
+     "fix": "gram 'dvandva member (stem)' for the three stems; 'dvandva, m. nom. pl.' for padma-āsanāḥ",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "tri-nayana",
+       "field": "gram",
+       "value": "dvandva member (stem)"
+      },
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "madhu-sūdana",
+       "field": "gram",
+       "value": "dvandva member (stem)"
+      },
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "skanda",
+       "field": "gram",
+       "value": "dvandva member (stem)"
+      },
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "padma-āsanāḥ",
+       "field": "gram",
+       "value": "dvandva, m. nom. pl. (last member)"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi glosses missing",
+     "problem": "English gives 'a dwarf (vāmana)', 'the three-eyed one', 'the lotus-seated one', 'modaka (a sweet)'; Hindi has the bare names (पद्मासन alone reads as the yoga posture); diśanti is plural but Hindi says 'देता है'; the three conjectural marks are in brackets.",
+     "fix": "glosses added, plural verb, brackets removed",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वामन,",
+       "new": "वामन यानी बौना,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "त्रिनयन,",
+       "new": "त्रिनयन यानी तीन नेत्रों वाले,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पद्मासन,",
+       "new": "पद्मासन यानी कमल पर बैठे हुए,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "और मोदक,",
+       "new": "और मोदक यानी एक मिठाई,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "उत्तम कार्यसिद्धि देता है",
+       "new": "उत्तम कार्यसिद्धि देते हैं"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "दर्पण (अनुमानित पाठ पर),",
+       "new": "दर्पण, अनुमानित पाठ पर,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "मेघ (अनुमानित पाठ पर),",
+       "new": "मेघ, अनुमानित पाठ पर,"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "hindi",
+       "old": "ताज़ा मांस (अनुमानित पाठ पर),",
+       "new": "ताज़ा मांस, अनुमानित पाठ पर,"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "honey(-like) rut-fluid; heavy with water",
+     "problem": "English 'honey(-like) rut-fluid' (madhu-mada) differs from Hindi 'मधु और मद' (honey and rut-fluid); '(-like)' is an interpretation. 'a hanging cloud heavy with water' (toya-lamba) adds 'heavy'; literally 'hanging with water'. Both are owner decisions on how literal to be.",
+     "fix": "owner to decide; e.g. 'drenched with madhu-mada' and 'a cloud hanging with water'",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "count of items",
+     "problem": "The 108 of the text (aṣṭottaraṃ śataṃ) is not reconciled with the list as printed (about 100 nominatives, depending on how the first compound and the dvandvas are counted); the note says so. Counts are kept as printed; not corrected.",
+     "fix": "owner/human: leave unreconciled or recount against another witness",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "siddhārthaka / udumbara / kīcaka tags",
+     "problem": "Observation: siddhārthaka = white mustard is usually 'standard' in Āyurveda but is tagged probable and left unhedged in the translation; kokilā in unit 12 likewise. Not changed.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Further.",
+     "problem": "Every sibling (ch07, ch08) renders apica 'And further.' / और भी; this one has 'Further.'; also the space-missing flag.",
+     "fix": "And further.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "english",
+      "value": "And further."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "(flag list)",
+     "problem": "flags added/changed/removed as described in the other issues of this unit",
+     "fix": "text_flags list replaced",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "apica",
+        "suggest": "api ca",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बाईं ओर हों तो शुभ हैं; छुछुन्दरी; सूकरी",
+     "problem": "'हों तो' makes the clause conditional ('if they are on the left'), which the Sanskrit does not say; chuchundarī and sūkarī are bare in Hindi while English glosses them (musk shrew, sow).",
+     "fix": "पुरुष नाम वाले पक्षी बाईं ओर शुभ हैं; ... छुछुन्दरी यानी छछूंदर, सूकरी यानी मादा सूअर",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "hindi",
+       "old": "बाईं ओर हों तो शुभ हैं",
+       "new": "बाईं ओर शुभ हैं"
+      },
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "hindi",
+       "old": "छुछुन्दरी, सूकरी,",
+       "new": "छुछुन्दरी यानी छछूंदर, सूकरी यानी मादा सूअर,"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "śikhi-bhallūka-śrīkaṇṭha-śva; gaja-ajaka",
+     "problem": "Both are bare dvandva stems (before 'iti' and 'payaḥ') but carry 'm. nom. sg.': no case ending is printed and the sense is plural.",
+     "fix": "gram 'dvandva (stem)'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "12",
+       "op": "word",
+       "match_w": "śikhi-bhallūka-śrīkaṇṭha-śva",
+       "field": "gram",
+       "value": "dvandva (stem, before iti)"
+      },
+      {
+       "n": "12",
+       "op": "word",
+       "match_w": "gaja-ajaka",
+       "field": "gram",
+       "value": "dvandva (stem)"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "śikhi...śveti na gajājaka payaśca",
+     "problem": "Needs a human decision (open): the English and Hindi fix a grouping by punctuation ('the peacock, bear, śrīkaṇṭha and dog, thus, not; the elephant, the goat and payas also'): na is read as closing the first list and ca ('also') as joining a second list that then escapes the 'not'. The Sanskrit order na gaja-ajaka payaḥ ca could equally read 'not the elephant, the goat and payas'. Hindi 'ऐसा, नहीं' for 'iti, na' is also unclear. No patch.",
+     "fix": "owner to decide the reading of na; keep the rest",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "dakṣiṇādvā magamanam",
+     "problem": "Read as dakṣiṇād vāma-gamanam (printed space inside vāma); `words` adopt the substitution and the translations carry 'on a conjectural reading', consistent with the glossary; flagged twice. Second option for the owner: the 'ma' may be a stray syllable. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "cāṣa / bhāsa hedges",
+     "problem": "English and Hindi leave cāṣa and bhāsa unhedged although the notes tag both 'probable' (unit 10 hedges cāṣa 'probably the Indian roller'); Hindi also lacks the hedge for bhāsa.",
+     "fix": "cāṣa (probably the Indian roller), bhāsa (probably the vulture); चाष यानी सम्भवतः नीलकण्ठ, भास यानी सम्भवतः गिद्ध",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "english",
+       "old": "cāṣa, bhāsa (vulture)",
+       "new": "cāṣa (probably the Indian roller), bhāsa (probably the vulture)"
+      },
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "hindi",
+       "old": "चाष, भास यानी गिद्ध",
+       "new": "चाष यानी सम्भवतः नीलकण्ठ, भास यानी सम्भवतः गिद्ध"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "godharājāhaka",
+     "problem": "The split godha + rāja + jāhaka does not match the print: 'rāja' + 'jāhaka' would be printed 'rājajāhaka', but the print has 'rājāhaka' (one jā). So the identification 'jāhaka (hedgehog or porcupine)' rests on letters that are not printed. Per the glossary an unrestorable stretch stays unsplit and 'unclear', the guess only in flag and note.",
+     "fix": "godha + rājāhaka (unclear, unsplit); translations 'rājāhaka (unclear)'; guess in notes only",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "śaśa-sarpa-ajā-avi-godha-rāja-jāhaka-sūkarāṇām",
+       "field": "gloss",
+       "value": "of hare, snake, goat, sheep, monitor lizard, rājāhaka (unclear), boar (conjectural)"
+      },
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "śaśa-sarpa-ajā-avi-godha-rāja-jāhaka-sūkarāṇām",
+       "field": "w",
+       "value": "śaśa-sarpa-ajā-avi-godha-rājāhaka-sūkarāṇām"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "english",
+       "old": "rāja (unclear), jāhaka (probably hedgehog or porcupine) and boar",
+       "new": "rājāhaka (unclear) and boar"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "hindi",
+       "old": "राज शब्द जो अस्पष्ट है, जाहक यानी सम्भवतः साही और सूअर (अनुमानित पाठ पर) का",
+       "new": "अस्पष्ट शब्द राजाहक और अनुमानित पाठ पर सूअर का"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "notes",
+       "old": "'godharājāhakamūkarāṇām' is read godha + rāja + jāhaka + sūkara: 'rāja' is left unclear (a word such as 'rājī' or 'ahi' may be intended), jāhaka is probably hedgehog or porcupine (probable), and the printed 'mūkara' is read as sūkara (boar) conjecturally.",
+       "new": "In 'godharājāhakamūkarāṇām' the stretch 'rājāhaka' is left unsplit and unclear: reading it as rāja + jāhaka does not match the printed letters (one 'jā' is printed, not two). Guesses only here: godhā + jāhaka (monitor lizard, hedgehog or porcupine) with a stray 'ra', or a word such as 'rājī' or 'ahi'. The printed 'mūkara' is read as sūkara (boar) conjecturally."
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "caviparītaṃmṛkṣavānarayoḥ",
+     "problem": "The flag's suggestion did not separate 'ca viparītaṃ' (space missing, no sandhi).",
+     "fix": "suggestion and why extended",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "śaśasarpājā'vigodharājāhakamūkarāṇāṃ",
+        "suggest": "śaśasarpājāvigodharājāhakasūkarāṇāṃ",
+        "why": "possible: 'mūkara' is not a word; sūkara (boar) is expected in this list; the stretch 'rājāhaka' is not restored (kept unclear, see notes)"
+       },
+       {
+        "src": "caviparītaṃmṛkṣavānarayoḥ",
+        "suggest": "ca viparītaṃ ṛkṣavānarayoḥ",
+        "why": "possible: stray 'm' before ṛkṣa (ṛkṣa-vānarayoḥ, of bear and monkey); also 'ca' is joined to viparītam with no space where no sandhi applies"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सरट यानी सम्भवतः गिरगिट",
+     "problem": "English says 'chameleon or garden lizard' (probable); Hindi has only गिरगिट.",
+     "fix": "सरट यानी सम्भवतः गिरगिट या बगीचे की छिपकली",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्भवतः गिरगिट,",
+      "new": "सम्भवतः गिरगिट या बगीचे की छिपकली,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "chedaśabdaiṣṭo, pravarttanaśabdaiti",
+     "problem": "Both flags say 'a + i is fused to ai', but the printed Devanagari has the vowels separate (छेदशब्दइष्टो, प्रवर्त्तनशब्दइति: no ै): regular hiatus after -aḥ (śabda iṣṭaḥ, śabda iti), the same case as ch11 k1 कूर्मइवोन्नतः. Not typos; the doubled tt is the book-wide normalisation, no flag.",
+     "fix": "both flags removed; note corrected",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "notes",
+       "old": "The printed 'chedaśabdaiṣṭo' and 'pravarttanaśabdaiti' fuse 'śabdaḥ iṣṭaḥ' and 'śabdaḥ iti'; the doubled -rtt- of pravarttana is normalised (recorded once book-wide).",
+       "new": "'chedaśabdaiṣṭo' (छेदशब्दइष्टो) and 'pravarttanaśabdaiti' (प्रवर्त्तनशब्दइति) are printed with separate vowels: regular hiatus after -aḥ (śabda iṣṭaḥ, śabda iti), not typos. The doubled -rtt- of pravarttana is normalised (recorded once book-wide)."
+      },
+      {
+       "n": "16",
+       "op": "set",
+       "field": "text_flags",
+       "value": []
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "udara hedge; Hindi glosses",
+     "problem": "udara is tagged 'probable' disease but unhedged in the translation (open item: disease vs 'belly' in a disease list; glossary has udara = belly outside disease lists); Hindi omits the English glosses for granthi, arbuda, gulma, atisāra, raktapitta, udāvarta.",
+     "fix": "hedge udara in both languages; Hindi glosses added (human decision remains on udara = disease vs belly)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "english",
+       "old": "udara (abdominal disease)",
+       "new": "udara (probably an abdominal disease)"
+      },
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "hindi",
+       "old": "ग्रन्थि और अर्बुद आदि में",
+       "new": "ग्रन्थि यानी गाँठ और अर्बुद यानी रसौली आदि में"
+      },
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "hindi",
+       "old": "गुल्म और उदर यानी पेट के रोग आदि में",
+       "new": "गुल्म यानी पेट की गाँठ और उदर यानी सम्भवतः पेट का रोग आदि में"
+      },
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अतिसार और रक्तपित्त आदि में",
+       "new": "अतिसार यानी दस्त और रक्तपित्त यानी रक्तस्राव का रोग आदि में"
+      },
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अश्मरी यानी पथरी और उदावर्त आदि में",
+       "new": "अश्मरी यानी पथरी और उदावर्त यानी वायु का ऊपर की ओर पलटना आदि में"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जोड़कर समझना चाहिए",
+     "problem": "'समझना' (to understand) is added; yojyāḥ = are to be applied/joined. Also the dropped avagraha in 'anyepi' had no flag.",
+     "fix": "इसी प्रकार दूसरी ध्वनियाँ भी जोड़ी जानी चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "hindi",
+      "value": "इसी प्रकार दूसरी ध्वनियाँ भी जोड़ी जानी चाहिए।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "(flag list)",
+     "problem": "flags added/changed/removed as described in the other issues of this unit",
+     "fix": "text_flags list replaced",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "evamanyepi",
+        "suggest": "evam anye 'pi",
+        "why": "possible: avagraha dropped after -e (anye 'pi); written as anye api in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "words such as",
+     "problem": "'such as' added (ādi = 'and the like', glossary); the anusvara after sthāvara was dropped in `words` without a flag; Hindi 'त्राता' (protector) does not match English 'trāta (protected)'.",
+     "fix": "the words sthira (firm) ... śiva (auspicious) and the like",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "set",
+       "field": "english",
+       "value": "And everywhere, the words sthira (firm), sthāvara (stationary), vardhamāna (increasing), trāta (protected), acala (immovable), dhruva (fixed), kṣema (safety), śiva (auspicious) and the like, and other sounds of musical instruments, are best."
+      },
+      {
+       "n": "18",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वर्धमान, त्राता, अचल",
+       "new": "वर्धमान, त्रात यानी रक्षित, अचल"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "(flag list)",
+     "problem": "flags added/changed/removed as described in the other issues of this unit",
+     "fix": "text_flags list replaced",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "anyā",
+        "suggest": "anye",
+        "why": "possible: feminine singular/plural form does not agree with masculine vāditrasvarāḥ"
+       },
+       {
+        "src": "sthirasthāvaraṃvardhamānatrātā'caladhruvakṣemaśivādayaḥ",
+        "suggest": "sthirasthāvaravardhamānatrātā'caladhruvakṣemaśivādayaḥ",
+        "why": "possible: stray anusvara after sthāvara inside the compound (or a lost space: sthāvaraṃ vardhamāna...); written without it in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Words such as ... prohibition",
+     "problem": "'such as' added; ādi-śabdāḥ = 'words ... and the like'. The gloss of the first compound repeats 'such as'. The śvapāka gloss says 'dog-eater' while the note says 'lit. dog-cooker'.",
+     "fix": "The words sneeze (kṣuta), ... prohibition and the like are forbidden; śvapāka (dog-cooker, outcaste)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "Words such as sneeze (kṣuta)",
+       "new": "The words sneeze (kṣuta)"
+      },
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "'hā hā' and prohibition are forbidden",
+       "new": "'hā hā', prohibition and the like are forbidden"
+      },
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "śvapāka (dog-eater, outcaste)",
+       "new": "śvapāka (dog-cooker, outcaste)"
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "kṣuta-hata-patita-ākrośa-prahāra-cheda-bheda-dāha-hāhā-pratiṣedha-ādi-śabdāḥ",
+       "field": "gloss",
+       "value": "sneeze (kṣuta), struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition, and the like (words)"
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "kaṇṭaka-ūrdhva-pāda-yāna-śayana-āsana-ādi-bhagna-upaskara-rikta-kumbha-madya-vasā-taila-garbhiṇī-śvapāka-vyasanī-mṛtānām",
+       "field": "gloss",
+       "value": "of a thorn, one with raised foot, vehicle, bed, seat and so on, broken, household articles, empty pot, madya (an intoxicating drink), fat (vasā), oil, a pregnant woman, a śvapāka (dog-cooker, outcaste), one in distress (vyasanin), the dead"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "vakrānuvakrāyahā, ketuśini: missing conjectural mark",
+     "problem": "`words` adopt grahāḥ for the printed 'yahā' (and ketu-śani for 'ketuśini'), a substituted word, but only the cāturgṛhāt clause carries 'on a conjectural reading' (glossary: the mark goes wherever a substituted word is adopted).",
+     "fix": "mark added at the planets clause in both languages",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "; the planets (graha) retrograde",
+       "new": "; on a conjectural reading, the planets (graha) retrograde"
+      },
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वक्र और अनुवक्र ग्रह",
+       "new": "अनुमानित पाठ पर, वक्र और अनुवक्र ग्रह"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "(अनुमानित पाठ पर)",
+     "problem": "Brackets in Hindi are not allowed; mark inline.",
+     "fix": "... निकलना, अनुमानित पाठ पर;",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निकलना (अनुमानित पाठ पर);",
+      "new": "निकलना, अनुमानित पाठ पर;"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "...upakaraṇeṣuvā",
+     "problem": "split in `words` (eṣu|vā) with no space and no sandhi, no flag. The flag for 'ketuśini' should also state that the compound ketu-śani-rāhubhiḥ is divided by a printed space (it is in the note).",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "cāturgṛhātpūrvīktamāṃgalyanirgamaḥ",
+        "suggest": "cāturagṛhātpūrvoktamāṃgalyanirgamaḥ",
+        "why": "possible: 'a' of ātura lost, and 'pūrvīkta' for pūrvokta"
+       },
+       {
+        "src": "lābhartuṣṭinutayaśca",
+        "suggest": "lābhatuṣṭinutayaśca",
+        "why": "possible: stray r (lābhaḥ tuṣṭi would give lābhastuṣṭi)"
+       },
+       {
+        "src": "vakrānuvakrāyahā",
+        "suggest": "vakrānuvakrā grahāḥ",
+        "why": "possible: 'yahā' for 'grahāḥ' (gra/ya confusion), since garhitasthānasthāḥ (nom. pl.) follows"
+       },
+       {
+        "src": "ketuśini",
+        "suggest": "ketuśani",
+        "why": "possible: śini for śani (Saturn)"
+       },
+       {
+        "src": "gṛhadāraśayanāsanavāhanamaṇiratnopakaraṇeṣuvā",
+        "suggest": "gṛhadāraśayanāsanavāhanamaṇiratnopakaraṇeṣu vā",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "na satkāro lābha...",
+     "problem": "Open (human): the scope of 'na' in 'na satkāro lābhartuṣṭinutayaśca' is not settled: 'no honour, and gain, satisfaction and praises' reads the later items as positive; the Sanskrit order allows 'na' to govern all three. Also lābhartuṣṭi has a letter-level deletion (stray r) with no mark (the OPEN letter-level criterion); 'śubhāśubhā āturasya' attachment unchanged (open).",
+     "fix": "owner to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चाहे ... हो",
+     "problem": "'चाहे ... हो' makes the clause concessive ('whether'); the Sanskrit is a plain participial phrase. 'prārthitaḥsaṃkalpito' (joined, no sandhi) had no flag.",
+     "fix": "स्वप्न स्वयं या दूसरे के द्वारा देखा गया शुभ और अशुभ का कारण है। ...",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वप्न चाहे स्वयं देखा गया हो या दूसरे के द्वारा, शुभ और अशुभ का कारण है।",
+      "new": "स्वप्न स्वयं या दूसरे के द्वारा देखा गया शुभ और अशुभ का कारण है।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "(flag list)",
+     "problem": "flags added/changed/removed as described in the other issues of this unit",
+     "fix": "text_flags list replaced",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "svayamamyena",
+        "suggest": "svayamanyena",
+        "why": "possible: m for n (the sense needs anyena, by another)"
+       },
+       {
+        "src": "prārthitaḥsaṃkalpito",
+        "suggest": "prārthitaḥ saṃkalpito",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ati-supta-dṛṣṭaḥ",
+     "problem": "The gloss 'seen when not deeply asleep' already contains the negation, which the separate word na then repeats.",
+     "fix": "seen when deeply asleep",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "ati-supta-dṛṣṭaḥ",
+      "field": "gloss",
+      "value": "seen when deeply asleep"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tathā ... list",
+     "problem": "Open (kept): the list after 'tathā' has no predicate and the translation neither supplies 'fruitless' nor says it is parallel; correct and unchanged. '(one) according to...' uses the (ones) convention.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mahatsadyaśca",
+     "problem": "split into mahat | sadyaḥ | ca with no space and no sandhi (t before s stays), no flag.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "mahatsadyaśca",
+        "suggest": "mahat sadyaś ca",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "capunaranupahataḥ",
+     "problem": "ca|punar joined with no sandhi; no flag.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vacobhirdānaśamanīyamādibhirvā",
+        "suggest": "vacobhirdānaśamanīyādibhirvā",
+        "why": "possible: stray m inside śamanīya-m-ādibhiḥ"
+       },
+       {
+        "src": "capunaranupahataḥ",
+        "suggest": "ca punar anupahataḥ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शमनीय कर्म",
+     "problem": "'कर्म' is added (dāna-śamanīya-ādibhiḥ = by giving, appeasing and the like); English has no such noun.",
+     "fix": "दान, शमनीय यानी शान्त करने वाले आदि से",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दान, शमनीय कर्म आदि से",
+      "new": "दान, शमनीय यानी शान्त करने वाले आदि से"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pratīpaiḥ",
+     "problem": "Adjective of the stated neuter vacobhiḥ labelled m.",
+     "fix": "n. inst. pl. (agrees with vacobhiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "pratīpaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl. (agrees with vacobhiḥ)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मारा जाता है",
+     "problem": "Hindi 'मारा जाता है' reads as 'is killed'; the note deliberately keeps hanyate literal ('struck down').",
+     "fix": "ज्वर यानी बुखार से आहत होता है",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह ज्वर यानी बुखार से मारा जाता है।",
+      "new": "वह ज्वर यानी बुखार से आहत होता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hasannāryā",
+     "problem": "The split hasan + nāryā has no space in print and no sandhi; the print is also exactly what hasan + āryā would give (n doubled). The draft's reading (nārī, by a woman) is the natural one; the alternative is recorded in the new flag. No change to the translation.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "hasannāryā",
+        "suggest": "hasan nāryā",
+        "why": "possible: space missing where no sandhi applies; but hasannāryā is also the regular sandhi form of hasan + āryā (ārya, 'noble'), which is not adopted because 'by a woman' fits better"
+       }
+      ]
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रक्तपित्त से",
+     "problem": "English glosses raktapitta (a bleeding disorder); Hindi leaves it bare.",
+     "fix": "रक्तपित्त यानी रक्तस्राव के रोग से",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह रक्तपित्त से।",
+      "new": "वह रक्तपित्त यानी रक्तस्राव के रोग से।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "toward",
+     "problem": "'toward' (and Hindi को is the plain accusative) supplies a relation to a verb that is missing in the print; the siblings (u34) keep the bare accusative.",
+     "fix": "He who the southern direction by any one of donkey, camel, buffalo and boar, he by yakṣman ...",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "He who toward the southern direction",
+      "new": "He who the southern direction"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "jāyatesa",
+     "problem": "jāyate|saḥ joined with no space and no sandhi; the note records it but no flag exists.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "jāyatesa",
+        "suggest": "jāyate sa",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yasyanagnasya...",
+     "problem": "yasya|nagnasya joined with no sandhi; the note mentions it, no flag.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "yasyanagnasyājyāvasiktasyāgnimanarciṣaṃ",
+        "suggest": "yasya nagnasyājyāvasiktasyāgnimanarciṣaṃ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "besmeared",
+     "problem": "avasikta = sprinkled/drenched; 'besmeared' (English) and 'सींचे हुए' (Hindi) differ.",
+     "fix": "sprinkled with ghee",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "replace",
+       "field": "english",
+       "old": "besmeared with ghee",
+       "new": "sprinkled with ghee"
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "ājya-avasiktasya",
+       "field": "gloss",
+       "value": "sprinkled with ghee"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "prameha ( ...including the diabetes-type; probable)",
+     "problem": "The translation parenthesis uses the banned 'including' and the bare tag '; probable'; Hindi has no identification at all.",
+     "fix": "prameha (a urinary disorder, probably of the diabetes type) / प्रमेह यानी मूत्र सम्भवतः मधुमेह जैसा रोग",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "english",
+       "old": "prameha (urinary disorders, including the diabetes-type; probable)",
+       "new": "prameha (a urinary disorder, probably of the diabetes type)"
+      },
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वह प्रमेह से।",
+       "new": "वह प्रमेह यानी मूत्र सम्बन्धी रोग से, जो सम्भवतः मधुमेह की श्रेणी का है।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "apasmāra (epilepsy; probable)",
+     "problem": "apasmāra = epilepsy is a standard identification; tag 'probable' while the translation is unhedged is inconsistent.",
+     "fix": "epilepsy; standard",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "32",
+       "op": "word",
+       "match_w": "apasmāreṇa",
+       "field": "gloss",
+       "value": "by apasmāra (epilepsy; standard)"
+      },
+      {
+       "n": "32",
+       "op": "replace",
+       "field": "notes",
+       "old": "apasmāra = epilepsy (probable)",
+       "new": "apasmāra = epilepsy (standard)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tasyanetravināśaḥ",
+     "problem": "tasya|netravināśaḥ joined with no space and no sandhi; the note mentions it, no flag.",
+     "fix": "flag added",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tasyanetravināśaḥ",
+        "suggest": "tasya netravināśaḥ",
+        "why": "certain: space missing where no sandhi applies; written as separate words in words"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Independent review of p02/ch12 chunk 1 (units 1-34). Counts: 4 errors, 68 minor (most minor items are machine patches: missing joined-token flags, 'such as' for ādi, Hindi glosses/brackets, grams). Errors: u16 both text_flags (chedaśabdaiṣṭo, pravarttanaśabdaiti) are regular hiatus (Devanagari has no ै), removed; u14 'rāja'+'jāhaka' does not match the printed 'rājāhaka' so the stretch is now unsplit/unclear and the hedgehog identification moved to notes; u19 the substituted grahāḥ/ketu-śani reading lacked the 'on a conjectural reading' mark; u12 the grouping of 'na' in 'śikhi...śveti na gajājaka payaśca' is fixed by punctuation in both languages and needs a human decision (no patch). No identification judged wrong; hedges added where tagged probable but unhedged (u13 cāṣa/bhāsa, u16 udara), apasmāra raised to standard (u32). Checker's 8 warnings are all regular sandhi (śubhāśubhaṃ, yo/yaḥ, śubhāśubhā), confirmed. Notes quoted the print wrongly in u4 ('loṣṭopāṃgāra'; print is loṣṭupāṃgāra) - corrected. Hindi brackets '(अनुमानित पाठ पर)' in u8,u10,u14,u19 replaced by inline commas. Human decisions: u4 long list (literal 'or', aneka, conjectures), u10 (item count vs 108, honey(-like), cloud 'heavy'), u12 na, u16 udara disease vs belly, u19 scope of na and śubhāśubhā attachment, u21 list after tathā (kept without predicate). Regrouping: no change needed in units; optional note that u21-u23 form one sentence (u22 and u23 are fragments continuing u21) and u24-u34 are one verbless series.",
+ "glossary_suggestions": [
+  "(from p02 ch12 k1 review) IAST ai/au hiatus again: chedaśabdaiṣṭo (छेदशब्दइष्टो) and pravarttanaśabdaiti (प्रवर्त्तनशब्दइति) print the vowels separately - regular hiatus after -aḥ, never a typo flag.",
+  "Hindi never uses brackets: the mark is inline ', अनुमानित पाठ पर,' next to the substituted word (not '(अनुमानित पाठ पर)'), and no closing meta-sentence about conjectural members.",
+  "Every substituted word adopted in `words` needs the mark in both translations (u19 grahāḥ, ketu-śani were missing); letter-level deletions (lābhartu-) remain the OPEN criterion.",
+  "A gloss never carries a guess for a damaged word (spṛk: 'unclear (as printed)', guess in flag/note only). A stretch whose split does not reproduce the printed letters (godharājāhaka as rāja+jāhaka) stays unsplit 'unclear'.",
+  "Tokens split in `words` with no printed space and no sandhi (including ṃ before a consonant and visarga before s) each need a flag; list for this chunk: vilikhan|gṛhītvā, deśe|kāle, rudan|niṣṭhuraḥ, vaidyaṃ|suptaṃ, viklavaṃ|chindantam, sahasraṃ|narāṇāṃ, maṅgalānāṃ|śataṃ, darśanāt|sparśanāt|kīrtanāt, bhūmir|abhyuddhṛtā|siddham, apatya|kṣamā, api|ca, mahat|sadyaḥ, ca|punar, jāyate|saḥ, yasya|nagnasya, tasya|netra-.",
+  "Bare dvandva stems (before iti, or inside a larger compound) carry gram 'dvandva (stem)', not 'm. nom. sg.'.",
+  "chardi = छर्दि यानी उलटी (not वमन); atisāra = अतिसार यानी दस्त; granthi = ग्रन्थि यानी गाँठ; arbuda = अर्बुद यानी रसौली; gulma = गुल्म यानी पेट की गाँठ; raktapitta = रक्तपित्त यानी रक्तस्राव का रोग; udāvarta = उदावर्त यानी वायु का ऊपर की ओर पलटना; chuchundarī = छछूंदर; vāmana = वामन यानी बौना; apasmāra = epilepsy (standard) / अपस्मार यानी मिर्गी.",
+  "hanyate = 'is struck down' / आहत होता है (not 'मारा जाता है'); apica = 'And further.' / और भी।; śvapāka = dog-cooker, outcaste.",
+  "OPEN ch12 k1: u12 scope of na (śikhi-bhallūka-śrīkaṇṭha-śva iti na gaja-ajaka payaḥ ca); u16 udara disease vs belly; u19 scope of na in 'na satkāro lābha-tuṣṭi-nutayaś ca'; u19 śubhāśubhā āturasya attachment; u4 loṣṭupāṃgāra / mārjanośastra guesses; u10 count vs 108 and 'honey(-like)'; u25 hasan nāryā vs hasan āryā."
+ ]
+}

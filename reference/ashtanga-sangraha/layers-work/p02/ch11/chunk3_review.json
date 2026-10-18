@@ -1,0 +1,626 @@
+{
+ "units": [
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "upatana (printed) vs upatapta (adopted)",
+     "problem": "Both translations adopt the conjecture upataptasya, but the words keep the printed upatanasya and glossed it 'unclear'; the brief and u101/u104/u116 put the corrected form in `words`.",
+     "fix": "w lepa-jvara-upataptasya, gloss 'afflicted (upatapta, conjectural; printed upatana)'.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "84",
+       "op": "word",
+       "match_w": "lepa-jvara-upatanasya",
+       "field": "gloss",
+       "value": "coating, smearing (lepa); fever (jvara); afflicted (upatapta, conjectural; printed upatana); lepa-jvara = a fever of the 'coating' kind, exact identity uncertain (disputed)"
+      },
+      {
+       "n": "84",
+       "op": "word",
+       "match_w": "lepa-jvara-upatanasya",
+       "field": "w",
+       "value": "lepa-jvara-upataptasya"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cirāt",
+     "problem": "cira is not masculine; used adverbially.",
+     "fix": "ind. (abl. of cira, adverbial)",
+     "severity": "minor",
+     "patch": {
+      "n": "86",
+      "op": "word",
+      "match_w": "cirāt",
+      "field": "gram",
+      "value": "ind. (abl. of cira, adverbial)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kāmalā akṣṇoḥ",
+     "problem": "Agreed with draft; printed avagraha after -ā is a print habit (glossary). No change.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "parivarjayet",
+     "problem": "vṛj with -ay- here is a 10th-class verb, not 'caus.' (glossary).",
+     "fix": "3 sg. opt. pari-√vṛj (10th class)",
+     "severity": "minor",
+     "patch": {
+      "n": "90",
+      "op": "word",
+      "match_w": "parivarjayet",
+      "field": "gram",
+      "value": "3 sg. opt. pari-√vṛj (10th class)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "Agreed low; no change. Possibility (observation only) that the unit belongs to a different list than 92-94, or is damaged; the draft's literal rendering is the safe choice.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śaivāla (water-moss)",
+     "problem": "Notes and gloss say the plant is disputed, but the translation states 'water-moss' unhedged (glossary: mark disputed ones in both languages).",
+     "fix": "śaivāla (water-moss; the exact plant is disputed)",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "replace",
+      "field": "english",
+      "old": "śaivāla (water-moss)",
+      "new": "śaivāla (water-moss; the exact plant is disputed)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शैवाल यानी काई जैसी जल की वनस्पति",
+     "problem": "Disputed identity is not hedged in Hindi.",
+     "fix": "शैवाल यानी काई जैसी जल की वनस्पति, जिसकी ठीक पहचान विवादित है,",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शैवाल यानी काई जैसी जल की वनस्पति,",
+      "new": "शैवाल यानी काई जैसी जल की वनस्पति, जिसकी ठीक पहचान विवादित है,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kukkuṭa-śikhā",
+     "problem": "Observation only: kukkuṭa-śikhā is rendered 'cock's comb'; it can also name the flower cockscomb (Celosia cristata). Literal rendering is right; nothing to change, owner may wish to note the alternative.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मर्म यानी जीवन के मर्मस्थान",
+     "problem": "Circular gloss; siblings (ch05-07) use 'जीवन-स्थल' / 'प्राण के विशेष स्थान'.",
+     "fix": "मर्म यानी जीवन-स्थल से उत्पन्न",
+     "severity": "minor",
+     "patch": {
+      "n": "96",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मर्म यानी जीवन के मर्मस्थान से उत्पन्न",
+      "new": "मर्म यानी जीवन-स्थल से उत्पन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and suddenly, is seen",
+     "problem": "Awkward: 'ca' after akasmāt leaves 'and suddenly' dangling. Literal meaning: (the wound) which, without powder, looks as if strewn with powder, and is suddenly seen. Hindi 'होकर भी' adds 'even though'. Owner may smooth.",
+     "fix": "Where one without powder is seen looking as if strewn with powder, and suddenly",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "varjayet",
+     "problem": "10th-class verb, not 'caus.' (glossary).",
+     "fix": "3 sg. opt. √vṛj (10th class)",
+     "severity": "minor",
+     "patch": {
+      "n": "98",
+      "op": "word",
+      "match_w": "varjayet",
+      "field": "gram",
+      "value": "3 sg. opt. √vṛj (10th class)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शक्ति, ध्वज",
+     "problem": "Hindi gives bare शक्ति (reads as 'power'); English says spear (śakti), banner (dhvaja). The Hindi must carry the gloss.",
+     "fix": "शक्ति यानी भाले, ध्वज यानी पताका आदि का रूप; उन सब व्रणों को त्याग देना चाहिए",
+     "severity": "error",
+     "patch": {
+      "n": "98",
+      "op": "set",
+      "field": "hindi",
+      "value": "शक्ति यानी भाले, ध्वज यानी पताका आदि का रूप; उन सब व्रणों को त्याग देना चाहिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो ... वहन करता हो और कृमियों वाला हो",
+     "problem": "Adds subjunctive 'हो' verbs the Sanskrit (participial adjectives, accusative) does not have (glossary: no added हो).",
+     "fix": "मल, मूत्र और वायु को वहन करने वाले तथा कृमियों वाले भगन्दर यानी गुदा के पास के नासूर को",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "set",
+      "field": "hindi",
+      "value": "मल, मूत्र और वायु को वहन करने वाले तथा कृमियों वाले भगन्दर यानी गुदा के पास के नासूर को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "u101 already ends in a complete clause (yo 'pāsyati ... āturo na sa jīvati), so 100-101 appears to be one sentence; 102-106 appears to be a second one (participles of 102-103 with the yaḥ clauses of 104-105 and the main clause of 106). The draft note says the relative clause runs 100-106 as one.",
+     "fix": "Replace the GROUPING sentence.",
+     "severity": "minor",
+     "patch": {
+      "n": "102",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: the relative clause continues from 100-101 and 103-106 to 'āturo na sa jīvati' (106); the sentence boundaries are not firm.",
+      "new": "GROUPING: unit 101 already ends in a complete clause ('āturo na sa jīvati'), so 100-101 appears to be one sentence; 102-106 appears to be a second one, in which the participles of 102-103 appear to go with the 'yaḥ' clauses of 104-105 and the main clause of 106. The boundaries are not firm."
+     }
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tāḍayan",
+     "problem": "tāḍ is 10th class, not a true causative (glossary).",
+     "fix": "pres. part. √tāḍ (10th class), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "103",
+      "op": "word",
+      "match_w": "tāḍayan",
+      "field": "gram",
+      "value": "pres. part. √tāḍ (10th class), m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गुनगुनाता / humming",
+     "problem": "kṣveḍ is 'hum, murmur, hiss, make an indistinct sound' (commentators: indistinct noise); Hindi गुनगुनाना means humming a tune and English 'humming' can suggest singing. Possibly 'murmuring' / बुदबुदाता. Human decision; draft already says sense not certain.",
+     "fix": "consider English 'murmuring (kṣveḍ)' and Hindi 'बुदबुदाता हुआ'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Matches the correction in u102.",
+     "fix": "appears to complete the sentence begun at 102/104",
+     "severity": "minor",
+     "patch": {
+      "n": "106",
+      "op": "replace",
+      "field": "notes",
+      "old": "GROUPING: completes the sentence begun at 100/104.",
+      "new": "GROUPING: appears to complete the sentence begun at 102 (or 104)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊर्ध्वश्वास",
+     "problem": "English has 'probably laboured breathing', Hindi has no modern equivalent or hedge.",
+     "fix": "जिसकी श्वास ऊपर की ओर हो यानी सम्भवतः कष्टपूर्ण श्वास हो,",
+     "severity": "minor",
+     "patch": {
+      "n": "107",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसकी श्वास ऊपर की ओर हो,",
+      "new": "जिसकी श्वास ऊपर की ओर हो यानी सम्भवतः कष्टपूर्ण श्वास हो,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "parivarjayet",
+     "problem": "10th-class verb, not 'caus.'",
+     "fix": "3 sg. opt. pari-√vṛj (10th class)",
+     "severity": "minor",
+     "patch": {
+      "n": "108",
+      "op": "word",
+      "match_w": "parivarjayet",
+      "field": "gram",
+      "value": "3 sg. opt. pari-√vṛj (10th class)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रकृति / विकार",
+     "problem": "English glosses vikāra as abnormalities and prakṛti as natural state; bare Hindi प्रकृति is ambiguous.",
+     "fix": "जिसके विकार यानी विकृतियाँ बढ़ती हैं और प्रकृति यानी स्वाभाविक अवस्था क्षीण होती है",
+     "severity": "minor",
+     "patch": {
+      "n": "109",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके विकार यानी विकृतियाँ बढ़ती हैं और प्रकृति यानी स्वाभाविक अवस्था क्षीण होती है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "accomplished",
+     "problem": "siddha: draft deliberately departs from glossary 'cooked'. The exception is right (u114 siddhyati = 'succeeds', and vijñāta/avacārita are about proving and use), but 'accomplished' is stilted and breaks the link to u114's 'succeed'. Use 'successful'. Also avacārita: glossary says 'apply' (ch04 k3).",
+     "fix": "Known, successful many times, and applied according to rule",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "113",
+       "op": "replace",
+       "field": "english",
+       "old": "accomplished many times",
+       "new": "successful many times"
+      },
+      {
+       "n": "113",
+       "op": "replace",
+       "field": "english",
+       "old": "administered according to rule",
+       "new": "applied according to rule"
+      },
+      {
+       "n": "113",
+       "op": "word",
+       "match_w": "siddham",
+       "field": "gloss",
+       "value": "successful, proved effective (not 'cooked')"
+      },
+      {
+       "n": "113",
+       "op": "word",
+       "match_w": "avacāritam",
+       "field": "gloss",
+       "value": "applied"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "बहुत बार सिद्ध हुआ",
+     "problem": "Bare सिद्ध hides the 'successful' sense; u114 Hindi uses सफल.",
+     "fix": "जाना हुआ, बहुत बार सफल और विधि के अनुसार प्रयुक्त",
+     "severity": "minor",
+     "patch": {
+      "n": "113",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहुत बार सिद्ध हुआ",
+      "new": "बहुत बार सफल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "औषध सफल नहीं होती",
+     "problem": "औषध is masculine in Hindi (औषधि is feminine); u111 uses 'औषध को'.",
+     "fix": "जिसके लिए औषध सफल नहीं होता",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "replace",
+      "field": "hindi",
+      "old": "औषध सफल नहीं होती",
+      "new": "औषध सफल नहीं होता"
+     }
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वर्ण आदि",
+     "problem": "Bare वर्ण in Hindi is ambiguous (caste/letter); English says 'colour'.",
+     "fix": "वर्ण यानी रंग आदि से",
+     "severity": "minor",
+     "patch": {
+      "n": "116",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर्ण आदि से",
+      "new": "वर्ण यानी रंग आदि से"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "varṇavādeḥ",
+     "problem": "Observation: low confidence is right; the conjecture is adopted and marked in both languages as required. A reading with a noun for the 'reversal' of u115 (e.g. varṇa-ādeḥ vikāra) cannot be tested here.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of whom (ones) break or fall",
+     "problem": "Unintelligible: 'yasya' is the relative genitive of the patient; the stated subject is in u119.",
+     "fix": "Of the patient in whose house (ones) break or fall",
+     "severity": "error",
+     "patch": {
+      "n": "118",
+      "op": "set",
+      "field": "english",
+      "value": "Of the patient in whose house (ones) break or fall"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जिसके, फूटते हैं",
+     "problem": "Stray comma and dangling 'जिसके'.",
+     "fix": "जिस रोगी के घर में फूटते हैं या गिरते हैं",
+     "severity": "error",
+     "patch": {
+      "n": "118",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिस रोगी के घर में फूटते हैं या गिरते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "120",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नाम का / hyphens",
+     "problem": "Siblings (ch09 u71, ch10 u69) write the chapter name unhyphenated with 'नामक'.",
+     "fix": "इस प्रकार विकृतव्याधिविज्ञानीय नामक ग्यारहवाँ अध्याय",
+     "severity": "minor",
+     "patch": {
+      "n": "122",
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार विकृतव्याधिविज्ञानीय नामक ग्यारहवाँ अध्याय"
+     }
+    },
+    {
+     "field": "english",
+     "where": "end",
+     "problem": "Add final full stop like ch10 u69.",
+     "fix": "Thus the eleventh chapter, named Vikṛtavyādhivijñānīya.",
+     "severity": "minor",
+     "patch": {
+      "n": "122",
+      "op": "set",
+      "field": "english",
+      "value": "Thus the eleventh chapter, named Vikṛtavyādhivijñānīya."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "40 units reviewed (u83-122). No wrong identifications found; standard ones (gosarga, kāmalā, bhagandara, candana, uśīra, kuṅkuma) and probable/disputed ones (masūrikā, kiṇa, āla, ūrdhvaśvāsa, śaivāla, lepa-jvara) are tagged. Fixes: Hindi hedge for disputed śaivāla (u93) and ūrdhvaśvāsa gloss (u107); Hindi gloss for śakti=spear (u98); unintelligible u118 translations; u84 word list now carries the adopted conjectural upataptasya; 10th-class verbs wrongly marked caus. (u90, 98, 103, 108); u113 siddha 'successful' and avacārita 'applied'; Hindi drug/gender/gloss tidy-ups (u96, 99, 109, 114, 116, 122). GROUPING: 100-101 is already a complete sentence (ends 'āturo na sa jīvati'), so 102-106 is a second sentence; draft claimed one clause 100-106. Untouched and acceptable: u88/u98 flags (visarga/anusvara slips, correct, not adopted), u104 hṛṣṭa and u101 vaktra conjectures (marked in both languages), u116 (low). Human decisions: u105 kṣveḍ 'humming' vs 'murmuring'; u91 (low, number/gender disagreement with 94); u93 kuṅkuma-āla vs kuṅkuma-ala and the cockscomb alternative; u116 emendation; u92 kuṇapa and dhvāṅkṣa as two smells.",
+ "glossary_suggestions": [
+  "kṣveḍ: decide 'humming' vs 'murmuring' (Hindi गुनगुनाना suggests singing).",
+  "siddha of medicines/signs in the riṣṭa chapters = 'successful' (सफल) where the next clause has siddhyati 'succeeds'; 'cooked' stays for preparations.",
+  "avacārita/avacārayet = 'applied/apply' (as ch04 k3).",
+  "Hindi śakti (weapon) = शक्ति यानी भाला; dhvaja = ध्वज यानी पताका.",
+  "Hindi ऊर्ध्वश्वास = ऊर्ध्वश्वास यानी सम्भवतः कष्टपूर्ण श्वास (probable).",
+  "Hindi disputed śaivāla: 'शैवाल यानी काई जैसी जल की वनस्पति, जिसकी ठीक पहचान विवादित है'.",
+  "Chapter colophon Hindi: 'इस प्रकार <name> नामक N अध्याय' with the name unhyphenated; English ends with a full stop.",
+  "Verbs in -ayati of the 10th class (varjayati, tāḍayati) are not 'caus.' (applies to ch11 u90, 98, 103, 108)."
+ ]
+}

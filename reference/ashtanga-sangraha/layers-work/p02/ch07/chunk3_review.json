@@ -1,0 +1,538 @@
+{
+ "units": [
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूसरे (itarāṇi)",
+     "problem": "Hindi uses दूसरे both for itarāṇi (other ones) and for anye (other people), which blurs the two; the same sentence has 'और दूसरे लोग'.",
+     "fix": "use अन्य for itarāṇi",
+     "severity": "minor",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अल्पों के क्रम से दूसरे; और दूसरे लोग",
+      "new": "अल्पों के क्रम से अन्य; और दूसरे लोग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "flag on ayaskaṃta",
+     "problem": "The flag's suggestion also normalises vanhi to vahni, but the 'why' mentions only the ayaskānta ā. Glossary: every emendation in `words` needs its own mention. vanhi is the older spelling of vahni (no flag per use needed once it is stated here).",
+     "fix": "extend the why",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "(the long ā is lost in print)",
+      "new": "(the long ā is lost in print); also 'vanhi' is the older spelling of vahni, normalised in `w`"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "candra/sūrya stones",
+     "problem": "Useful identification missing: in the tradition candrakānta is the moon-crystal said to exude water in moonlight and sūryakānta the sun-crystal said to give fire in sunlight; modern 'moonstone/sunstone' are different minerals, so the English/Hindi hedge must stay ('probably'; identity disputed). The three stones pair with water, fire and iron in order, but the unit does not say so.",
+     "fix": "append a note",
+     "severity": "minor",
+     "patch": {
+      "n": "76",
+      "op": "append_note",
+      "text": "REVIEW: traditionally candrakānta (moon-crystal) is said to exude water in moonlight and sūryakānta (sun-crystal) to yield fire in sunlight; modern moonstone/sunstone are different minerals, so the identification stays hedged (probable, identity disputed)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "flag 2 suggest",
+     "problem": "The `suggest` text 'tvatiraktasruti-to (tu atiraktasrutito)' is garbled; the intended correction is simply srutiṃto -> srutito.",
+     "fix": "suggest = 'tvatiraktasrutito'",
+     "severity": "minor",
+     "patch": {
+      "n": "78",
+      "op": "set",
+      "field": "text_flags.1.suggest",
+      "value": "tvatiraktasrutito"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अत्यन्त चोट खाए मर्मों में",
+     "problem": "atihatānāṃ ... marmaṇāṃ is genitive plural ('of the severely struck marmas'); Hindi 'में' (in) is wrong.",
+     "fix": "'मर्मों का अपने-अपने अनुसार कर्म'",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मर्मों में अपने-अपने अनुसार कर्म",
+      "new": "मर्मों का अपने-अपने अनुसार कर्म"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "या ईषत् अन्ते, यह अंश अस्पष्ट है",
+     "problem": "English gives 'slightly, at the end' beside the unclear mark but Hindi gives no gloss, so the two translations differ ('Hindi unclear mark must match English').",
+     "fix": "match Hindi to English",
+     "severity": "minor",
+     "patch": {
+      "n": "80",
+      "op": "replace",
+      "field": "hindi",
+      "old": "या ईषत् अन्ते, यह अंश अस्पष्ट है,",
+      "new": "या ईषत् अन्ते यानी थोड़ा, अन्त में; यह अंश अस्पष्ट है,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'pūrvaṃ pūrvaṃ ca'",
+     "problem": "The ca after pūrvaṃ pūrvaṃ is not translated in either language ('drop nothing'). Where it belongs is uncertain, so no patch.",
+     "fix": "owner to decide the placement of 'and'",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "īṣadaṃte",
+     "problem": "Not clearly damaged (editors did not flag it) and 'īṣat ante' is a possible plain parse ('slightly ... at the end'), yet the draft calls it unclear and still glosses it; a human should decide between (a) plain parse 'slightly, at the end' and (b) unsplit unclear per the glossary rule for unrestorable words.",
+     "fix": "human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'(it)'",
+     "problem": "Subject is uncertain (plural marmas vs singular bhidyate); the glossary says drop '(it)' where the referent is uncertain. Left as is for the owner.",
+     "fix": "consider dropping '(it)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvādaśa",
+     "problem": "Glossary (ch06 k1): numerals above four are 'nom. pl.', not 'num.'.",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "word",
+      "match_w": "dvādaśa",
+      "field": "gram",
+      "value": "nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ṣaṭ",
+     "problem": "Glossary: numerals above four are 'nom. pl.', not 'num.'.",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "word",
+      "match_w": "ṣaṭ",
+      "field": "gram",
+      "value": "nom. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दो अंगुल माप के",
+     "problem": "dvyaṅgulāni has no word for 'measure' (unlike unmitāni in 83); 'माप' is added.",
+     "fix": "'दो अंगुल के'",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दो अंगुल माप के",
+      "new": "दो अंगुल के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "catvāri",
+     "problem": "'num.' is not a case label; glossary pattern is 'nom. pl.' without gender for a count standing for an unstated noun.",
+     "fix": "nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "word",
+      "match_w": "catvāri",
+      "field": "gram",
+      "value": "nom. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीन अंगुल माप के",
+     "problem": "tryaṅgulāni has no word for 'measure'; 'माप' is added.",
+     "fix": "'तीन अंगुल के'",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन अंगुल माप के",
+      "new": "तीन अंगुल के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "guda",
+     "problem": "'guda (anus; standard)': guda in marma lists is the anus together with the rectum; consider 'anus and rectum'. Left to the owner.",
+     "fix": "optional",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस शरीर में भी",
+     "problem": "api belongs to the unclear word (English: 'Even in marmavyāme (unclear), in this body'); Hindi moves 'भी' to 'इस शरीर में', which changes the sense.",
+     "fix": "move भी to the unclear word, no brackets",
+     "severity": "minor",
+     "patch": {
+      "n": "93",
+      "op": "set",
+      "field": "hindi",
+      "value": "मर्मव्यामे भी, यह शब्द अस्पष्ट है, इस शरीर में आयु मर्मों की रक्षा करती है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'life guards the marmas'",
+     "problem": "The subject/object reading (āyuḥ subject, marmāṇi object) is stated flatly in both translations although the draft's own note says the reverse or a compound cannot be excluded and confidence is low; the doctrine elsewhere makes marmas the seat of life. Human decision whether to hedge ('on a literal reading').",
+     "fix": "owner to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'attend only to what pervades life'",
+     "problem": "The whole sense rests on āyurvyāpi being the object of seveta; the draft itself calls the unit obscure. Consider hedging both translations or marking 'āyurvyāpi' unclear; no firm reading is certain. Also check whether āyurvyāpyeva is corrupt (it could be a different word).",
+     "fix": "owner to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रोग भी वैसे ही",
+     "problem": "'भी' after रोग is added: api in the Sanskrit goes with yatnataḥ and Hindi already has 'प्रयत्न से भी'.",
+     "fix": "drop first भी",
+     "severity": "minor",
+     "patch": {
+      "n": "96",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोग भी वैसे ही",
+      "new": "रोग वैसे ही"
+     }
+    }
+   ]
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'burns and does not stay'",
+     "problem": "Only one ca stands in the line (hṛdayaṃ dahyate ca asya ...); the translations give two 'and's, the second added.",
+     "fix": "one 'and' only",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "replace",
+      "field": "english",
+      "old": "burns and does not stay",
+      "new": "burns; it does not stay"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दो 'और'",
+     "problem": "Same: the second और is added.",
+     "fix": "drop the second और",
+     "severity": "minor",
+     "patch": {
+      "n": "99",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलता है और एक स्थान",
+      "new": "जलता है, एक स्थान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'and one with much blood flowed out'",
+     "problem": "The subject is the same man as in 101 (naraḥ ... atinisrutaraktaḥ, a bahuvrīhi in apposition), not a new person; 'one with' reads as a different subject. Hindi adds a subjunctive 'हो' and also introduces a new subject (जिसका ... वह).",
+     "fix": "'and, with much blood flowed out, gives up life at once'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "102",
+       "op": "set",
+       "field": "english",
+       "value": "and, with much blood flowed out, he gives up life at once."
+      },
+      {
+       "n": "102",
+       "op": "set",
+       "field": "hindi",
+       "value": "और अत्यन्त बहे हुए रक्त वाला वह तुरन्त जीवन छोड़ देता है।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'and in no way does he not live'",
+     "problem": "The double negation exists only if 'ca na' are taken out of the damaged token puṇyavācchviyatāyuścana (the draft's own note says polarity is uncertain). The certain words 'kathaṃcin na jīvati' alone mean 'does not live in any way'; the opposite polarity is equally possible (cf. 103 where the pierced man lives). A reading built on the damaged token must carry 'on a conjectural reading' in both languages (glossary).",
+     "fix": "add the conjectural mark in English and Hindi",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "104",
+       "op": "replace",
+       "field": "english",
+       "old": "does he not live.",
+       "new": "does he not live, on a conjectural reading."
+      },
+      {
+       "n": "104",
+       "op": "replace",
+       "field": "hindi",
+       "old": "ऐसा नहीं है।",
+       "new": "ऐसा नहीं है, अनुमानित पाठ पर।"
+      }
+     ]
+    },
+    {
+     "field": "split",
+     "where": "ca / na",
+     "problem": "The words 'ca' and 'na' are carved out of the damaged token and glossed as certain; the glossary rule is to keep the whole printed token unsplit and unclear (the tool cannot merge words). Human decision: treat all of 'puṇyavācchviyatāyuścana' as unclear and translate only 'kathaṃcin na jīvati' ('does not live in any way')?",
+     "fix": "human decision",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "polarity",
+     "problem": "Record the plain-reading alternative so the owner sees both.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "104",
+      "op": "append_note",
+      "text": "REVIEW: without taking 'ca na' out of the damaged token, the certain words are 'kathaṃcin na jīvati' = 'does not live in any way'; the double negation of the translation is a conjecture and the opposite polarity is possible. Human decision."
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ucchāsāt",
+     "problem": "ucchāsa is not a word and ācarama-ucchvāsāt ('up to the last breath') is a standard idiom; 'possible' understates it and the glossary asks that a correction adopted in a translation be marked, so it should be recorded as near certain (as in u98, u102).",
+     "fix": "'near certain'",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "possible: 'ucchāsa' is not a known word",
+      "new": "near certain: 'ucchāsa' is not a known word"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "colophon grouping",
+     "problem": "Fine: colophon typed as verse. Suggest the owner re-type unit 107 as a colophon/prose line in the merge.",
+     "fix": "regroup/retype",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk is careful and mostly faithful: no invented identifications; counts (12,6,4,29,56=107) as printed; typo flags plausible (all 9 confirmed, metre checks out at 16 in 94-106). One error: u104 builds a double-negation reading on the damaged token without the 'on a conjectural reading' mark. Minor: Hindi additions/inversions (u80 में for genitive, u84/85 added माप, u93 भी moved, u96 and u99 added और/भी, u102 new subject), Hindi/English unclear mismatch u80, numeral gram labels, garbled flag suggest u78, flag why for u76/u105. Decisions for the owner: u80 īṣadaṃte (plain parse vs unclear), u93/u94 hedging of flat readings, u104 polarity and unsplitting, u81 '(it)', u86 guda gloss. No identification looks wrong; kalāya (probable, hedged), candra/sūrya stones (hedged, note added), dala = half (probable) and sirā = veins (probable) are acceptable. vanhi->vahni covered by extending the u76 flag; sadvaṃdhu->sadbandhu is the glossary v/b habit and needs no flag. u98 'near certain' flag and u102 are good. No regrouping needed (107 should be retyped as colophon).",
+ "glossary_suggestions": [
+  "p02 ch07 k3: numerals above four in measure lists (dvādaśa, ṣaṭ, catvāri) gram 'nom. pl.' (no 'num.'); no added 'माप' where the Sanskrit has dvyaṅgula/tryaṅgula.",
+  "ayaskānta = lodestone / चुम्बक पत्थर (standard); candra/sūrya stones = traditional moon-crystal and sun-crystal, 'probably moonstone and sunstone' hedged, identity disputed.",
+  "kalāya = probably pea / मटर (grass pea alternative); vrīhi = rice grain / धान; tila = sesame / तिल (standard).",
+  "vanhi -> vahni is an older spelling (normalise, mention in the same flag); sadvaṃdhu -> sadbandhu is the v/b print habit (no flag).",
+  "basti = bladder in ch07 u86; icchanti in u91 = 'accept' / मानते हैं; pratyākhyāya = 'having refused'.",
+  "Marma names (ūrvī, kūrcaśiras, viṭapa, kakṣādhara, kūrca, nīlā, manyā, mātṛkā, sīmanta, śṛṅgāṭaka, kṣipra, stanarohita, utkṣepa) keep the Sanskrit with literal glosses and no forced equivalent; counts 12+6+4+29+56=107 as printed.",
+  "When a reading depends on a damaged token (p02 ch07 u104), the conjectural mark goes in both translations and ca/na are not carved out as certain."
+ ]
+}

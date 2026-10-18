@@ -1,0 +1,838 @@
+{
+ "units": [
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "varjyānām",
+     "problem": "Gerundive standing for unstated nouns carries a gender (n.); glossary: case and number only.",
+     "fix": "gerundive √vṛj, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "varjyānām",
+      "field": "gram",
+      "value": "gerundive √vṛj, gen. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जातसार",
+     "problem": "Hindi leaves jātasāra as a bare Sanskrit word while English glosses it (\"acquired its essence\").",
+     "fix": "गर्भ के जातसार यानी सार प्राप्त कर चुकने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गर्भ के जातसार हो जाने पर",
+      "new": "गर्भ के जातसार यानी सार प्राप्त कर चुकने पर"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "puṣpam arhati",
+     "problem": "Observation (no patch): the construction puṣpam arhati is genuinely uncertain (arhati with puṣpa as subject \"is due\", or \"she is fit for puṣpa\"); the draft says so in notes, translation follows the first. Owner to confirm.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यहाँ रस का अर्थ है ...",
+     "problem": "Trailing explanatory sentence is added to the Hindi translation only (not in English, not in the Sanskrit); the gloss belongs in the यानी form inside the sentence or in notes.",
+     "fix": "Delete the sentence; write \"रस यानी पोषक द्रव\" in the clause.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "42",
+       "op": "replace",
+       "field": "hindi",
+       "old": " यहाँ रस का अर्थ है शरीर का पोषक द्रव।",
+       "new": ""
+      },
+      {
+       "n": "42",
+       "op": "replace",
+       "field": "hindi",
+       "old": "गर्भ की रस ले जाने वाली",
+       "new": "गर्भ की रस यानी पोषक द्रव ले जाने वाली"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नाड़ी के दोषों से ढक जाने पर",
+     "problem": "Wrong relation: Hindi reads \"the doṣas of the nāḍī\"; the Sanskrit is a locative absolute, the nāḍī covered BY the doṣas (doṣaiḥ ... praticchannāyām). Also the hedged identification of nāḍī that the English carries is missing in the Hindi.",
+     "fix": "तब दोषों से नाड़ी यानी सम्भवतः गर्भनाल के ढक जाने पर, जैसे नहर तिनकों और पत्तों आदि से ढक जाती है, रस के ठीक से न बहने के कारण गर्भ वृद्धि को न पाता हुआ बैठ जाता है या सूख जाता है।",
+     "severity": "error",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तब नाड़ी के दोषों से ढक जाने पर",
+      "new": "तब दोषों से नाड़ी यानी सम्भवतः गर्भनाल के ढक जाने पर"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "43 begins \"tataḥ\" and appears to continue the sequence of 41-42; no GROUPING remark was made.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "append_note",
+      "text": "GROUPING: appears to continue 42 (tataḥ, 'then')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "yadā ... clause",
+     "problem": "The yadā-clause of 45 has no main clause; it appears to be completed by 46 (tad upaśuṣkakaṃ nāgodaraṃ ca). The draft says only that 46 gives the names.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "append_note",
+      "text": "GROUPING: the 'yadā' clause appears to be completed in 46 ('tad upaśuṣkakaṃ nāgodaraṃ ca'); the sentence runs across the two units."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āpyāyamānau",
+     "problem": "ā-√pyāy in this form is ātmanepada; glossary (p02 ch01 k1): ātmanepada, not passive.",
+     "fix": "pres. part. mid. ā-√pyāy, m. nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "word",
+      "match_w": "āpyāyamānau",
+      "field": "gram",
+      "value": "pres. part. mid. ā-√pyāy, m. nom. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tamaiva",
+     "problem": "Misreading from the transliteration: the printed Devanagari is तमइव (tama iva = tamaḥ iva, regular visarga-dropping hiatus), not \"tamaiva\" with ai. The IAST \"ai\" collapses अ+इ. So the word is iva (\"as it were\"), not eva (\"indeed\"), exactly like the four other iva similes in this unit (kṣvelete iva, tudyete iva, pipīlikābhir iva, parikṛntann iva). The flag \"tama eva\" is therefore wrong and should be dropped; the draft also dropped \"eva\" from both translations.",
+     "fix": "w \"iva\", gloss \"as it were\"; remove the text_flag; translations \"as it were\".",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "48",
+       "op": "word",
+       "match_w": "eva",
+       "field": "gloss",
+       "value": "as it were"
+      },
+      {
+       "n": "48",
+       "op": "word",
+       "match_w": "eva",
+       "field": "w",
+       "value": "iva"
+      },
+      {
+       "n": "48",
+       "op": "set",
+       "field": "text_flags",
+       "value": []
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "one is made to enter darkness (tamas)",
+     "problem": "Add the simile iva (see above).",
+     "fix": "one is, as it were, made to enter darkness (tamas)",
+     "severity": "error",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "english",
+      "old": "one is made to enter darkness (tamas)",
+      "new": "one is, as it were, made to enter darkness (tamas)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्धकार में प्रवेश कराया जाता है",
+     "problem": "Add मानो for iva, like the neighbouring similes.",
+     "fix": "मानो अन्धकार में प्रवेश कराया जाता है",
+     "severity": "error",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्धकार में प्रवेश कराया जाता है",
+      "new": "मानो अन्धकार में प्रवेश कराया जाता है"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tamaiva",
+     "problem": "Record the correction of the reading.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "append_note",
+      "text": "Reading note: the printed Devanagari is तमइव (tama iva, regular sandhi with hiatus), so the word is iva 'as it were' (a simile like the others in the unit), not 'tamaiva'/'tamaḥ eva'; no text flag is needed. Whether 'tamaḥ praveśyate' means 'one is made to enter darkness' or 'darkness is brought on' is not settled by the wording."
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tāmra-haritam",
+     "problem": "Adjective standing for an unstated noun: glossary says case and number only, no gender.",
+     "fix": "karmadhāraya, nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "tāmra-haritam",
+      "field": "gram",
+      "value": "karmadhāraya, nom. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dhūmika / amlaka",
+     "problem": "Observation (no patch, from memory, unverified): the two words are probably Pitta symptoms of the dhūmaka type (a smoke-like feeling, perhaps in the throat) and sour belching/sourness; the printed dhūmika may be dhūmaka. Not applied; the draft leaves them unenriched, which is right for the translation.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "āmagarbha",
+     "problem": "Observation (no patch): \"garbha\" can also mean an egg or an inner part; āmagarbha (63 too) might be \"raw/unripe embryos or eggs\". Not enriched, as the draft does; owner to decide.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and of shaking (kṣobhaṇa), rubbing (mārjana) and yawning (jṛmbhaṇa)",
+     "problem": "English treats the instrumentals kṣobhaṇa-mārjana-jṛmbhaṇaiḥ with \"of\" (as if genitive) while the first group is \"by means of\". Both are instrumentals of the same construction.",
+     "fix": "and by shaking (kṣobhaṇa), rubbing (mārjana) and yawning (jṛmbhaṇa)",
+     "severity": "error",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "and of shaking (kṣobhaṇa), rubbing (mārjana) and yawning (jṛmbhaṇa)",
+      "new": "and by shaking (kṣobhaṇa), rubbing (mārjana) and yawning (jṛmbhaṇa)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जम्हाई कराने से",
+     "problem": "Hindi adds a causative (कराने) that jṛmbhaṇa does not carry; jṛmbhaṇa is the plain act (yawning).",
+     "fix": "और जृम्भण यानी जम्हाई से",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और जम्हाई कराने से",
+      "new": "और जृम्भण यानी जम्हाई से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vidārī-and-others group",
+     "problem": "Translation carries no identification of vidārī (Hindi does); policy wants it beside the Sanskrit term, hedged.",
+     "fix": "the vidārī-and-others group (vidārī-ādi-gaṇa; vidārī probably Indian kudzu, Pueraria tuberosa)",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "english",
+      "old": "the vidārī-and-others group (vidārī-ādi-gaṇa)",
+      "new": "the vidārī-and-others group (vidārī-ādi-gaṇa; vidārī probably Indian kudzu, Pueraria tuberosa)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vidārī",
+     "problem": "No identification beside vidārī in the English.",
+     "fix": "vidārī (probably Indian kudzu)",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "english",
+      "old": "and vidārī.",
+      "new": "and vidārī (probably Indian kudzu)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विदारी",
+     "problem": "Hindi gives no identification for विदारी here.",
+     "fix": "विदारी यानी सम्भवतः विदारीकन्द",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और विदारी के निर्यूह",
+      "new": "और विदारी यानी सम्भवतः विदारीकन्द के निर्यूह"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गृध्र",
+     "problem": "Hindi leaves गृध्र and जलचर without the ordinary Hindi name (policy: \"Sanskrit यानी Hindi\"); English gives \"vulture\".",
+     "fix": "गृध्र यानी गिद्ध ... जलचर यानी जल में चलने वालों के मांस",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गृध्र, एक अस्पष्ट शब्द, और जल में चलने वालों के मांस",
+      "new": "गृध्र यानी गिद्ध, एक अस्पष्ट शब्द, और जलचर यानी जल में चलने वालों के मांस"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āmrodaka",
+     "problem": "The guess \"perhaps āmra-udaka\" sits in the gloss; glossary (p02 ch03 k2): a guess for a damaged word stays out of gloss and translations, in a flag/note only.",
+     "fix": "unclear",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "word",
+      "match_w": "āmrodaka",
+      "field": "gloss",
+      "value": "unclear"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tvāmrodaka",
+     "problem": "The untranslated unclear word has no text_flag.",
+     "fix": "add a flag",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "samarātraṃ",
+        "suggest": "saptarātraṃ",
+        "why": "possible: 'samarātra' (equal night) gives no sense in a list of numbered nights; pta misread as ma is a recorded OCR confusion"
+       },
+       {
+        "src": "-rātraṃ",
+        "suggest": "[numeral]rātraṃ",
+        "why": "damaged: the leading numeral (and the preceding word) are lost; only the fragment '-rātram' is printed"
+       },
+       {
+        "src": "tvāmrodaka",
+        "suggest": "(unclear) tu + āmrodaka",
+        "why": "damaged or unknown: 'āmrodaka' is not a known word here (perhaps āmra-udaka, but the sense is not firm); left untranslated and unclear"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bilva leaves (patra)",
+     "problem": "Policy: modern name beside bilva in the translation (glossary: bilva = bael).",
+     "fix": "bilva (bael) leaves (patra)",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "english",
+      "old": "bilva leaves (patra)",
+      "new": "bilva (bael) leaves (patra)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "माष",
+     "problem": "Hindi gives no ordinary name for माष here (59 does).",
+     "fix": "माष यानी उड़द",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तिल, मूँग, माष, लवण",
+      "new": "तिल, मूँग, माष यानी उड़द, लवण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a bilva",
+     "problem": "No modern name beside bilva.",
+     "fix": "of the size of a bilva (bael)",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "english",
+      "old": "size of a bilva,",
+      "new": "size of a bilva (bael),"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बिल्व के आकार",
+     "problem": "Glossary: Hindi बिल्व यानी बेल.",
+     "fix": "बिल्व यानी बेल के आकार का",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बिल्व के आकार का",
+      "new": "बिल्व यानी बेल के आकार का"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "put in",
+     "problem": "\"in\" is supplied; nidadhyāt is \"put, place\" (Hindi has रखे).",
+     "fix": "should also put a pātra of badara (jujube) powder",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "english",
+      "old": "should also put in a pātra",
+      "new": "should also put a pātra"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिस स्त्री के",
+     "problem": "punar (\"however, again\") is dropped in the Hindi; English has \"however\".",
+     "fix": "किन्तु जिस स्त्री के स्रोतस ...",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस स्त्री के स्रोतस",
+      "new": "किन्तु जिस स्त्री के स्रोतस"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(śyena, probable) ... (tittirī, probable)",
+     "problem": "Hedge written as a bare tag \"probable\" inside the translation; elsewhere (59) the translation says \"probably\". Make consistent.",
+     "fix": "probably hawk (śyena), probably osprey (utkrośa) ... probably partridge (tittirī)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "71",
+       "op": "replace",
+       "field": "english",
+       "old": "hawk (śyena, probable), osprey (utkrośa, probable)",
+       "new": "probably hawk (śyena), probably osprey (utkrośa)"
+      },
+      {
+       "n": "71",
+       "op": "replace",
+       "field": "english",
+       "old": "partridge (tittirī, probable)",
+       "new": "probably partridge (tittirī)"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "माष के यूष",
+     "problem": "Hindi gives no ordinary name for माष.",
+     "fix": "माष यानी उड़द के यूष",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "replace",
+      "field": "hindi",
+      "old": "माष के यूष",
+      "new": "माष यानी उड़द के यूष"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तिल, माष, बिल्व और शलाटु",
+     "problem": "Hindi lacks ordinary names for माष and बिल्व (glossary: बिल्व यानी बेल).",
+     "fix": "तिल, माष यानी उड़द, बिल्व यानी बेल और शलाटु",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तिल, माष, बिल्व और शलाटु",
+      "new": "तिल, माष यानी उड़द, बिल्व यानी बेल और शलाटु"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bilva",
+     "problem": "No modern name beside bilva.",
+     "fix": "bilva (bael)",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "replace",
+      "field": "english",
+      "old": "black gram, bilva and",
+      "new": "black gram, bilva (bael) and"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bilva-śalāṭu",
+     "problem": "Observation (no patch): bilva-śalāṭu is a stock phrase in Sanskrit medical texts for the unripe bilva fruit (one item), which would make \"sesame, black gram and unripe bilva fruit\" and three items. The draft keeps four; owner to decide (draft noted the option).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "udāvarta-vibandhaḥ",
+     "problem": "A dvandva of two disorders would be dual (-au) or a neuter singular samāhāra; \"dvandva, m. nom. sg.\" is not possible. The masculine singular points to one compound (vibandha of the udāvarta kind, or udāvarta-vibandha as one name).",
+     "fix": "compound, m. nom. sg. (dvandva or tat-puruṣa; see notes)",
+     "severity": "error",
+     "patch": {
+      "n": "77",
+      "op": "word",
+      "match_w": "udāvarta-vibandhaḥ",
+      "field": "gram",
+      "value": "compound, m. nom. sg. (dvandva or tat-puruṣa; see notes)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "udāvarta (...) and vibandha (constipation)",
+     "problem": "Open for the owner: with the grammar above, \"constipation (vibandha) of the udāvarta kind\" may be the better rendering than two disorders. Not patched.",
+     "fix": "none",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "अन्न और पानों",
+     "problem": "पान alone also means betel leaf in Hindi; पेय is the clear word for drink.",
+     "fix": "चिकने अन्न और पेयों से",
+     "severity": "minor",
+     "patch": {
+      "n": "77",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चिकने अन्न और पानों से",
+      "new": "चिकने अन्न और पेयों से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "madhuka (licorice)",
+     "problem": "Unhedged here but \"probably licorice\" in 58 (and mahua is the other candidate).",
+     "fix": "madhuka (probably licorice)",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "english",
+      "old": "madhuka (licorice)",
+      "new": "madhuka (probably licorice)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मधुक यानी मुलेठी",
+     "problem": "Same: unhedged in Hindi, hedged in 58.",
+     "fix": "मधुक यानी सम्भवतः मुलेठी",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मधुक यानी मुलेठी और मृद्वीका यानी मुनक्का का",
+      "new": "मधुक यानी सम्भवतः मुलेठी और मृद्वीका यानी अंगूर का"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मृद्वीका यानी मुनक्का",
+     "problem": "English and 73 say grape (अंगूर); मुनक्का is the dried fruit, an extra identification the English does not carry.",
+     "fix": "मृद्वीका यानी अंगूर",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "kuśa, kāśa ... kāśmarya, parūṣaka",
+     "problem": "Standard identifications are in the gloss fields and the Hindi but not beside the Sanskrit terms in the English translation.",
+     "fix": "kuśa (kusha grass), kāśa (kans grass) ... kāśmarya (gmelina), parūṣaka (phalsa)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "79",
+       "op": "replace",
+       "field": "english",
+       "old": "śāli (rice), kuśa, kāśa, ikṣuvālikā",
+       "new": "śāli (rice), kuśa (kusha grass), kāśa (kans grass), ikṣuvālikā"
+      },
+      {
+       "n": "79",
+       "op": "replace",
+       "field": "english",
+       "old": "kāśmarya, parūṣaka, madhuka",
+       "new": "kāśmarya (gmelina), parūṣaka (phalsa), madhuka"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "कुश, काश",
+     "problem": "Add ordinary Hindi names (policy).",
+     "fix": "कुश यानी कुशा घास, काश यानी काँस",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शालि यानी धान, कुश, काश, इक्षुवालिका",
+      "new": "शालि यानी धान, कुश यानी कुशा घास, काश यानी काँस, इक्षुवालिका"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "parivyādha / bhūtikā",
+     "problem": "Observation (no patch): left unidentified; I cannot supply a reliable identification either. Also the grouping of mūlānām (roots) over only the first seven names remains the owner's choice.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Independent review of p02/ch04 chunk 2 (units 41-80). Draft is sound overall: hedging, damaged-print handling (44, 54, 64, 65) and typo flags are plausible. Main finding: u48 'tamaiva' is the IAST of Devanagari तमइव = tama iva (simile iva, not eva), so the flag was wrong and 'as it were' was missing in both translations. Other errors: u43 Hindi reversed relation (nāḍī covered BY doṣas), u54 English case slip (instrumentals rendered with 'of'), u77 gram 'dvandva, m. nom. sg.' impossible for two disorders. Many minor items: modern names beside bilva, māṣa, vidārī, kuśa/kāśa, kāśmarya, parūṣaka; hedge madhuka consistently; hedge style in u71; Hindi पान/पेय; unflagged unclear word in u65 and a guess sitting in a gloss. Units needing a human decision: 41 (puṣpam arhati), 44/54/64/65 (damaged), 52/63 (āmagarbha), 59 (which mass is cooked with which rasa), 71 (go, attachment of bhūrisarpiṣkeṇa/ghṛtāḍhyena), 72 (bilva-śalāṭu one or two items), 77 (udāvarta-vibandha), 79 (scope of mūlānām; parivyādha, bhūtikā). Suggested join: 45+46 are one sentence (note added), 41-43 one flow.",
+ "glossary_suggestions": [
+  "puṣpa = 'the flower' for menstrual-type bleeding (probable)",
+  "udūkhala is a variant of ulūkhala (mortar)",
+  "OCR confusions seen: ढ<->म (pramūḍha/pramuma), pta->ma (saptarātra/samarātra), dv->ddh (mārdvīka, vṛddhy-artham), st->sn (snāta), dh->d (saṃkṣudya), ṛ->i (vṛddhi/viddhi).",
+  "IAST 'ai' in the intake can be Devanagari अ+इ (tama iva), 'au' likewise: check the Devanagari before flagging a sandhi form (p02 ch04 u48). Sweep other chunks with a script comparing ai/au counts to ै/ौ counts.",
+  "bilva = 'bilva (bael)', māṣa = माष यानी उड़द, madhuka = 'probably licorice' (hedge in every unit), vidārī = probably Indian kudzu (Pueraria tuberosa); Hindi पान means betel leaf, use पेय for drinks.",
+  "A dvandva of two items cannot be 'm. nom. sg.' (dual -au or neuter samāhāra): check gram labels on dvandva compounds in nominative singular."
+ ]
+}

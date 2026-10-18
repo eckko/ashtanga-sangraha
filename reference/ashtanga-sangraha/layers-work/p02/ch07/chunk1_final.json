@@ -1,0 +1,3523 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "marmavibhāgaṃ",
+      "words": [
+       {
+        "w": "marma-vibhāgam",
+        "gloss": "marma (vital point of the body); division",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śārīraṃ",
+      "words": [
+       {
+        "w": "śārīram",
+        "gloss": "Śārīra (the section on the body)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम मर्मविभाग शारीर की व्याख्या करेंगे, अर्थात् मर्म यानी शरीर के प्राणस्थानों के विभाजन की।",
+  "english": "Now, therefore, we shall explain the Śārīra (the section on the body) called Marmavibhāga, the division of the marmas (vital points of the body).",
+  "text_flags": [],
+  "notes": "marma is a doctrinal term and is kept with a short gloss, not forced into a modern equivalent. 'śārīram' is taken as the name of the section (as at the opening of other chapters of this part); it could also be read as an adjective 'bodily' agreeing with vibhāgam.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.1"
+  ],
+  "lines_deva": [
+   "अथातो मर्मविभागं शारीरं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāto marmavibhāgaṃ śārīraṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samottaraṃ",
+      "words": [
+       {
+        "w": "sapta-uttaram",
+        "gloss": "seven; more, additional (on a conjectural reading; printed sama-uttara)",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "marmaśataṃ",
+      "words": [
+       {
+        "w": "marma-śatam",
+        "gloss": "marma (vital point); hundred",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक सौ सात मर्म, अनुमानित पाठ पर, यानी सौ और सात अधिक।",
+  "english": "A hundred and seven marmas (on a conjectural reading: a hundred with seven more).",
+  "text_flags": [
+   {
+    "src": "samottaraṃ",
+    "suggest": "saptottaraṃ",
+    "why": "possible: 'sama-uttara' gives no usable sense; pta -> ma is a seen OCR confusion in this book; with 'saptottara' (a hundred with seven more) the total fits unit 3 (44 + 26 + 37 = 107)"
+   }
+  ],
+  "notes": "The reading 'saptottaram' is conjectural and is marked so in the translations; the count 107 rests on it and on the sum of unit 3. Nominal statement with no verb; none is supplied. GROUPING: appears to open the enumeration continued in 3.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.2"
+  ],
+  "lines_deva": [
+   "समोत्तरं मर्मशतं"
+  ],
+  "lines_iast": [
+   "samottaraṃ marmaśataṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catuścatvāriṃśacchākhāsu",
+      "words": [
+       {
+        "w": "catuścatvāriṃśat",
+        "gloss": "forty-four",
+        "gram": "numeral, f. nom. sg."
+       },
+       {
+        "w": "śākhāsu",
+        "gloss": "in the limbs (śākhā, branch)",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍviṃśatiraṃtarādhau",
+      "words": [
+       {
+        "w": "ṣaḍviṃśatiḥ",
+        "gloss": "twenty-six",
+        "gram": "numeral, f. nom. sg."
+       },
+       {
+        "w": "antarādhau",
+        "gloss": "in the trunk (antarādhi; standard)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samaṃtriśadūrdhvaṃ",
+      "words": [
+       {
+        "w": "sapta-triṃśat",
+        "gloss": "seven; thirty (thirty-seven, on a conjectural reading)",
+        "gram": "numeral, f. nom. sg."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "above, in the upper part",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें शाखाओं यानी हाथ-पैरों में चवालीस, अन्तराधि यानी धड़ में छब्बीस, और ऊपर, अनुमानित पाठ पर, सैंतीस।",
+  "english": "Among these: forty-four in the limbs (śākhā), twenty-six in the trunk (antarādhi), and above, thirty-seven (on a conjectural reading).",
+  "text_flags": [
+   {
+    "src": "samaṃtriśadūrdhvaṃ",
+    "suggest": "saptatriṃśadūrdhvaṃ",
+    "why": "possible: 'samaṃtriśat' is not a numeral; pta -> ma is a seen OCR confusion, and the anusvara stands after ma instead of after tri (triṃśat); 44 + 26 + 37 = 107 matches the total of unit 2 (conjectured)"
+   }
+  ],
+  "notes": "The numbers 44 and 26 are printed and translated exactly. 'ūrdhvam' = above, i.e. the upper part of the body (the neck and head are the contents of the later units); this is not stated in the line. antarādhi = trunk is the standard sense. Nominal sentence, no verb supplied. GROUPING: appears to continue 2.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.3"
+  ],
+  "lines_deva": [
+   "तत्र चतुश्चत्वारिंशच्छाखासु षड्विंशतिरंतराधौ समंत्रिशदूर्ध्वं"
+  ],
+  "lines_iast": [
+   "tatra catuścatvāriṃśacchākhāsu ṣaḍviṃśatiraṃtarādhau samaṃtriśadūrdhvaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athaikaikasminsakthi",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ekaikasmin",
+        "gloss": "in each",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "sakthi",
+        "gloss": "in the lower limb (sakthi)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamāṃgulimabhito",
+      "words": [
+       {
+        "w": "madhyamā-aṅgulim",
+        "gloss": "middle; finger, toe",
+        "gram": "karmadhāraya, f. acc. sg."
+       },
+       {
+        "w": "abhitaḥ",
+        "gloss": "near, around",
+        "gram": "ind. (with acc.)"
+       }
+      ]
+     },
+     {
+      "src": "madhye",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādatalasya",
+      "words": [
+       {
+        "w": "pāda-talasya",
+        "gloss": "foot; sole",
+        "gram": "tat-puruṣa, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "talahṛdayaṃ",
+      "words": [
+       {
+        "w": "tala-hṛdayam",
+        "gloss": "tala-hṛdaya (marma name; sole, heart/centre)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "marma",
+      "words": [
+       {
+        "w": "marma",
+        "gloss": "marma (vital point)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viddhasya",
+      "words": [
+       {
+        "w": "viddhasya",
+        "gloss": "of one pierced",
+        "gram": "ppp. √vyadh, gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rujayā",
+      "words": [
+       {
+        "w": "rujayā",
+        "gloss": "by pain",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब प्रत्येक सक्थि यानी पूरे निचले अंग में, मध्यमा अंगुली के समीप, पैर के तलवे के बीच तलहृदय नामक मर्म; वहाँ बिंधे हुए की पीड़ा से मृत्यु।",
+  "english": "Now, in each sakthi (lower limb), near the middle toe, in the middle of the sole of the foot, the marma named talahṛdaya (sole-heart); for one pierced there, death through pain.",
+  "text_flags": [],
+  "notes": "'sakthi' (thigh) is printed as a locative in -i (allowed for neuters in -i). Since the marma lies in the sole, sakthi here evidently stands for the whole lower limb; the translation keeps 'thigh'. 'abhitaḥ' with the accusative is taken as 'near, around'. 'madhyamāṅguli' = middle toe here. 'ekaikasmin' (m./n.) agrees with sakthi. Death 'through pain' is the text's wording; nothing is added. First unit of the limb marmas. Reviewer: translations now render sakthi as 'lower limb' (the sole marma cannot lie in the thigh); the earlier remark that the translation keeps 'thigh' is superseded.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.4"
+  ],
+  "lines_deva": [
+   "अथैकैकस्मिन्सक्थि मध्यमांगुलिमभितो मध्ये पादतलस्य तलहृदयं नाम मर्म तत्र विद्धस्य रुजया मरणं"
+  ],
+  "lines_iast": [
+   "athaikaikasminsakthi madhyamāṃgulimabhito madhye pādatalasya talahṛdayaṃ nāma marma tatra viddhasya rujayā maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃguṣṭhāṃgulyormadhye",
+      "words": [
+       {
+        "w": "aṅguṣṭha-aṅgulyoḥ",
+        "gloss": "big toe (aṅguṣṭha); toe (aṅguli)",
+        "gram": "dvandva, f. gen. du."
+       },
+       {
+        "w": "madhye",
+        "gloss": "between, in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣipraṃtatrākṣepakeṇa",
+      "words": [
+       {
+        "w": "kṣipram",
+        "gloss": "kṣipra (marma name, literally 'quick')",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "ākṣepakeṇa",
+        "gloss": "by ākṣepaka (convulsion; probable)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अँगूठे और अंगुली के बीच क्षिप्र; वहाँ आक्षेपक यानी सम्भवतः ऐंठन के दौरे से मृत्यु।",
+  "english": "Between the big toe (aṅguṣṭha) and the toe (aṅguli), kṣipra; there, death by ākṣepaka (probably a convulsive spasm).",
+  "text_flags": [],
+  "notes": "The printed 'aṅguṣṭhāṅgulyoḥ' is taken as 'of the big toe and the (next) toe'; the word aṅguli is general (finger or toe), and 'the next toe' is understood, not stated. That kṣipra is a marma is understood from the series (the next unit says 'above kṣipra'). ākṣepaka = convulsive spasm: probable. The print joins kṣipraṃ + tatra + ākṣepakeṇa; split without a flag.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.5"
+  ],
+  "lines_deva": [
+   "अंगुष्ठांगुल्योर्मध्ये क्षिप्रंतत्राक्षेपकेण मरणं"
+  ],
+  "lines_iast": [
+   "aṃguṣṭhāṃgulyormadhye kṣipraṃtatrākṣepakeṇa maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣiprasyopari",
+      "words": [
+       {
+        "w": "kṣiprasya",
+        "gloss": "of kṣipra",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "upari",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvyaṃgulaubhayataḥ",
+      "words": [
+       {
+        "w": "dvi-aṅgulam",
+        "gloss": "two; aṅgula (finger-breadth)",
+        "gram": "dvigu, n. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kūrccaḥ",
+      "words": [
+       {
+        "w": "kūrcaḥ",
+        "gloss": "kūrca (marma name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pādaruyabhramaṇavepane",
+      "words": [
+       {
+        "w": "pāda-bhramaṇa-vepane",
+        "gloss": "foot; whirling; trembling (on a conjectural reading)",
+        "gram": "dvandva, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bhavataḥ",
+      "words": [
+       {
+        "w": "bhavataḥ",
+        "gloss": "occur",
+        "gram": "3 du. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षिप्र के ऊपर दो अंगुल यानी दो उँगली-चौड़ाई पर, दोनों ओर, कूर्च; वहाँ, अनुमानित पाठ पर, पाँव का भ्रमण यानी घूमना और काँपना होते हैं।",
+  "english": "Two aṅgulas (finger-breadths) above kṣipra, on both sides, kūrca; there, on a conjectural reading, whirling (bhramaṇa) and trembling (vepana) of the foot occur.",
+  "text_flags": [
+   {
+    "src": "dvyaṃgulaubhayataḥ",
+    "suggest": "dvyaṃgulamubhayataḥ",
+    "why": "possible: 'dvyaṅgulam ubhayataḥ' is the form of units 23-24; 'au' for 'amu' looks like a print slip"
+   },
+   {
+    "src": "pādaruyabhramaṇavepane",
+    "suggest": "pādabhramaṇavepane",
+    "why": "possible: 'ruya' is not a word; the dual verb bhavataḥ suits two items (bhramaṇa, vepana); 'ruya' may be a stray insertion, or a damaged rujā (pain), which would make three items"
+   }
+  ],
+  "notes": "Doubled -rcc- in 'kūrccaḥ' is normalised to kūrca (print habit, as in 7 and 36). The word 'pādaruyabhramaṇavepane' is damaged: the reading with 'ruya' dropped is a conjecture and is marked as such in both translations. Alternative if 'ruya' stands for rujā: pain, whirling and trembling of the foot. The plural form kūrcau (two kūrca) may be intended since 'ubhayataḥ' (both sides) is used; the singular is kept as printed.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.6"
+  ],
+  "lines_deva": [
+   "क्षिप्रस्योपरि द्व्यंगुलउभयतः कूर्च्चः तत्र पादरुयभ्रमणवेपने भवतः"
+  ],
+  "lines_iast": [
+   "kṣiprasyopari dvyaṃgulaubhayataḥ kūrccaḥ tatra pādaruyabhramaṇavepane bhavataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulphasaṃdheradhaḥ",
+      "words": [
+       {
+        "w": "gulpha-saṃdheḥ",
+        "gloss": "ankle (gulpha); joint",
+        "gram": "tat-puruṣa, m. gen. sg."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kūrccaśiraḥ",
+      "words": [
+       {
+        "w": "kūrca-śiraḥ",
+        "gloss": "kūrca (marma name); head",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rujāśokau",
+      "words": [
+       {
+        "w": "rujā-śophau",
+        "gloss": "pain; swelling (on a conjectural reading)",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "टखने के जोड़ के नीचे कूर्चशिर; वहाँ, अनुमानित पाठ पर, पीड़ा और सूजन।",
+  "english": "Below the ankle-joint (gulpha-saṃdhi), kūrcaśiras (head of the kūrca); there, on a conjectural reading, pain (rujā) and swelling (śopha).",
+  "text_flags": [
+   {
+    "src": "rujāśokau",
+    "suggest": "rujāśophau",
+    "why": "possible: 'śoka' (grief) does not suit a bodily sign in a marma list; 'śopha' (swelling) is the usual companion of pain (compare śopha in unit 11); ka/pha is a plausible misreading"
+   }
+  ],
+  "notes": "The correction śoka -> śopha is a conjecture, marked in both translations. gulpha = ankle (standard). Doubled -rcc- normalised (see 6). Nominal sentence.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.7"
+  ],
+  "lines_deva": [
+   "गुल्फसंधेरधः कूर्च्चशिरः तत्र रुजाशोकौ"
+  ],
+  "lines_iast": [
+   "gulphasaṃdheradhaḥ kūrccaśiraḥ tatra rujāśokau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pādajaṃghayoḥ",
+      "words": [
+       {
+        "w": "pāda-jaṅghayoḥ",
+        "gloss": "foot; shank (jaṅghā, lower leg)",
+        "gram": "dvandva, f. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhāne",
+      "words": [
+       {
+        "w": "saṃdhāne",
+        "gloss": "at the joining",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gulphaḥ",
+      "words": [
+       {
+        "w": "gulphaḥ",
+        "gloss": "gulpha (ankle; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ruk",
+      "words": [
+       {
+        "w": "ruk",
+        "gloss": "pain",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stabdhasakthitā",
+      "words": [
+       {
+        "w": "stabdha-sakthi-tā",
+        "gloss": "stiff; thigh (sakthi); -ness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaḍatā",
+      "words": [
+       {
+        "w": "jaḍatā",
+        "gloss": "numbness, torpor (jaḍatā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैर और जंघा यानी घुटने से नीचे की टाँग के जोड़ पर गुल्फ यानी टखना; वहाँ पीड़ा, सक्थि यानी जाँघ का अकड़ जाना, अथवा जड़ता यानी सुन्नपन।",
+  "english": "At the joining of the foot and the shank (jaṅghā), the gulpha (ankle); there, pain, stiffness of the sakthi (thigh), or numbness (jaḍatā).",
+  "text_flags": [],
+  "notes": "The three signs are read as alternatives ('or' at the end). jaḍatā = numbness or torpor; 'numbness' is the plainer sense for a limb. jaṅghā = shank (calf/lower leg), not the Hindi 'thigh' sense. 'sakthi' as in 4 may mean the whole leg; kept as 'thigh'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.8"
+  ],
+  "lines_deva": [
+   "पादजंघयोः संधाने गुल्फः तत्र रुक् स्तब्धसक्थिता जडता वा"
+  ],
+  "lines_iast": [
+   "pādajaṃghayoḥ saṃdhāne gulphaḥ tatra ruk stabdhasakthitā jaḍatā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṇiprabhṛti",
+      "words": [
+       {
+        "w": "pārṣṇi-prabhṛti",
+        "gloss": "heel (pārṣṇi, on a conjectural reading; printed pāṇi, hand); beginning from",
+        "gram": "bahuvrīhi, used as ind."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśabhiraṃgulairjaṃghāmadhye",
+      "words": [
+       {
+        "w": "dvādaśabhiḥ",
+        "gloss": "by twelve",
+        "gram": "inst. pl."
+       },
+       {
+        "w": "aṅgulaiḥ",
+        "gloss": "aṅgulas (finger-breadths)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "jaṅghā-madhye",
+        "gloss": "shank; in the middle",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iṃdrabastiḥ",
+      "words": [
+       {
+        "w": "indra-bastiḥ",
+        "gloss": "indrabasti (marma name; Indra, bladder/bag)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitakṣyānmaraṇaṃ",
+      "words": [
+       {
+        "w": "śoṇita-kṣayāt",
+        "gloss": "blood (śoṇita); loss",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एड़ी से, अनुमानित पाठ पर, बारह अंगुल पर, जंघा यानी घुटने से नीचे की टाँग के बीच इन्द्रबस्ति; वहाँ शोणित यानी रक्त के क्षय से मृत्यु।",
+  "english": "Starting from the heel (on a conjectural reading), at twelve aṅgulas, in the middle of the shank (jaṅghā), indrabasti; there, death from loss of blood (śoṇita).",
+  "text_flags": [
+   {
+    "src": "pāṇiprabhṛti",
+    "suggest": "pārṣṇiprabhṛti",
+    "why": "possible: 'pāṇi' (hand) cannot start a measurement along the leg; 'pārṣṇi' (heel) fits, and rṣṇ -> ṇ is a plausible slip"
+   },
+   {
+    "src": "śoṇitakṣyānmaraṇaṃ",
+    "suggest": "śoṇitakṣayānmaraṇaṃ",
+    "why": "near certain: 'kṣyāt' lacks the a of kṣayāt; the n before m is the regular sandhi of t"
+   }
+  ],
+  "notes": "The heel reading is a conjecture and is marked in the translations. In indrabasti 'basti' is part of a marma name (bladder/bag); it is not the urinary organ of unit 19. Printed 'pāṇi' could in principle be kept as 'the hand' but that fails the sense.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.9"
+  ],
+  "lines_deva": [
+   "पाणिप्रभृति द्वादशभिरंगुलैर्जंघामध्ये इंद्रबस्तिः तत्र शोणितक्ष्यान्मरणं"
+  ],
+  "lines_iast": [
+   "pāṇiprabhṛti dvādaśabhiraṃgulairjaṃghāmadhye iṃdrabastiḥ tatra śoṇitakṣyānmaraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jaṃghorvoḥ",
+      "words": [
+       {
+        "w": "jaṅghā-ūrvoḥ",
+        "gloss": "shank; thigh (ūru)",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhāne",
+      "words": [
+       {
+        "w": "saṃdhāne",
+        "gloss": "at the joining",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jānu",
+      "words": [
+       {
+        "w": "jānu",
+        "gloss": "jānu (knee; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khaṃjatā",
+      "words": [
+       {
+        "w": "khañjatā",
+        "gloss": "lameness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जंघा यानी घुटने से नीचे की टाँग और ऊरु यानी जाँघ के जोड़ पर जानु यानी घुटना; वहाँ लंगड़ापन।",
+  "english": "At the joining of the shank (jaṅghā) and the thigh (ūru), the jānu (knee); there, lameness (khañjatā).",
+  "text_flags": [],
+  "notes": "Nominal sentence; no verb supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.10"
+  ],
+  "lines_deva": [
+   "जंघोर्वोः संधाने जानु तत्र खंजता"
+  ],
+  "lines_iast": [
+   "jaṃghorvoḥ saṃdhāne jānu tatra khaṃjatā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jānunastryaṃgulādūrdhvamubhayataāṇiḥ",
+      "words": [
+       {
+        "w": "jānunaḥ",
+        "gloss": "from the knee",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "tri-aṅgulāt",
+        "gloss": "three; aṅgula (finger-breadth)",
+        "gram": "dvigu, n. abl. sg."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "above",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       },
+       {
+        "w": "āṇiḥ",
+        "gloss": "āṇi (marma name; literally a pin or linchpin)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śophābhivṛddhistabdhasakthitā",
+      "words": [
+       {
+        "w": "śopha-abhivṛddhiḥ",
+        "gloss": "swelling; increase",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "stabdha-sakthi-tā",
+        "gloss": "stiff; thigh (sakthi); -ness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जानु यानी घुटने से तीन अंगुल ऊपर, दोनों ओर, आणि; वहाँ सूजन की वृद्धि और सक्थि यानी जाँघ का अकड़ जाना।",
+  "english": "Three aṅgulas above the knee (jānu), on both sides, āṇi; there, increase of swelling (śopha) and stiffness of the sakthi (thigh).",
+  "text_flags": [],
+  "notes": "The print joins ubhayataḥ and āṇiḥ (ubhayata + āṇiḥ, regular sandhi aḥ + ā giving the hiatus ubhayata āṇiḥ); split without a flag. āṇi is read as the marma name.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.11"
+  ],
+  "lines_deva": [
+   "जानुनस्त्र्यंगुलादूर्ध्वमुभयतआणिः तत्र शोफाभिवृद्धिस्तब्धसक्थिता च"
+  ],
+  "lines_iast": [
+   "jānunastryaṃgulādūrdhvamubhayataāṇiḥ tatra śophābhivṛddhistabdhasakthitā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrumadhye",
+      "words": [
+       {
+        "w": "ūru-madhye",
+        "gloss": "thigh (ūru); in the middle",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "urvī",
+      "words": [
+       {
+        "w": "urvī",
+        "gloss": "urvī (marma name; the word means 'wide')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatraraktakṣayātsakthiśoṣaḥ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "rakta-kṣayāt",
+        "gloss": "blood (rakta); loss",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "sakthi-śoṣaḥ",
+        "gloss": "sakthi (thigh); wasting (śoṣa)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊरु यानी जाँघ के बीच उर्वी; वहाँ रक्त के क्षय से सक्थि यानी जाँघ का शोष यानी सूखकर क्षीण होना।",
+  "english": "In the middle of the thigh (ūru), urvī; there, from loss of blood (rakta), wasting (śoṣa) of the sakthi (thigh).",
+  "text_flags": [],
+  "notes": "The print joins 'tatra' and 'raktakṣayāt' without a space (no sandhi); split without a flag. Nominal sentence.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.12"
+  ],
+  "lines_deva": [
+   "ऊरुमध्ये उर्वी तत्ररक्तक्षयात्सक्थिशोषः"
+  ],
+  "lines_iast": [
+   "ūrumadhye urvī tatraraktakṣayātsakthiśoṣaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrvyāstūrdhvamadho",
+      "words": [
+       {
+        "w": "ūrvyāḥ",
+        "gloss": "of urvī",
+        "gram": "f. gen. sg. (or abl.)"
+       },
+       {
+        "w": "tu",
+        "gloss": "and, but",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "above",
+        "gram": "ind."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇasaṃdherūrumūle",
+      "words": [
+       {
+        "w": "vaṅkṣaṇa-saṃdheḥ",
+        "gloss": "groin (vaṅkṣaṇa); joint",
+        "gram": "tat-puruṣa, m. gen. sg. (or abl.)"
+       },
+       {
+        "w": "ūru-mūle",
+        "gloss": "thigh; root",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lohitākhyaṃ",
+      "words": [
+       {
+        "w": "lohita-ākhyam",
+        "gloss": "lohita (red); named",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raktakṣayātpakṣāghātaḥ",
+      "words": [
+       {
+        "w": "rakta-kṣayāt",
+        "gloss": "blood; loss",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "pakṣa-āghātaḥ",
+        "gloss": "pakṣāghāta (paralysis of one side, hemiplegia; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उर्वी के ऊपर तथा वंक्षण यानी जाँघ और पेड़ू के जोड़ के नीचे, ऊरु यानी जाँघ के मूल में, लोहित नामक; वहाँ रक्त के क्षय से पक्षाघात यानी एक ओर के अंगों का लकवा।",
+  "english": "And above urvī and below the groin-joint (vaṅkṣaṇa-saṃdhi), at the root of the thigh, the one named lohita ('red'); there, from loss of blood (rakta), pakṣāghāta (hemiplegia, paralysis of one side).",
+  "text_flags": [],
+  "notes": "'ūrvyāḥ tu' is read with 'ūrdhvam' (above urvī) and 'adhaḥ' with the groin-joint (below it). The noun 'marma' is understood with 'lohitākhyam' (neuter); lohita here is the marma name. pakṣāghāta = paralysis of one half of the body (hemiplegia): standard.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.13"
+  ],
+  "lines_deva": [
+   "ऊर्व्यास्तूर्ध्वमधो वंक्षणसंधेरूरुमूले लोहिताख्यं तत्र रक्तक्षयात्पक्षाघातः"
+  ],
+  "lines_iast": [
+   "ūrvyāstūrdhvamadho vaṃkṣaṇasaṃdherūrumūle lohitākhyaṃ tatra raktakṣayātpakṣāghātaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaṃkṣaṇavṛṣaṇamadhye",
+      "words": [
+       {
+        "w": "vaṅkṣaṇa-vṛṣaṇa-madhye",
+        "gloss": "groin; testes (vṛṣaṇa); between",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṭapaṃ",
+      "words": [
+       {
+        "w": "viṭapam",
+        "gloss": "viṭapa (marma name)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣāṃḍhyamalpaśukṛtā",
+      "words": [
+       {
+        "w": "ṣāṇḍhyam",
+        "gloss": "ṣāṇḍhya (impotence, the state of a ṣaṇḍha; probable)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "alpa-śukra-tā",
+        "gloss": "little; śukra (semen; standard); -ness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वंक्षण यानी जाँघ और पेड़ू के जोड़ तथा वृषण यानी अण्डकोष के बीच विटप; वहाँ षाण्ढ्य यानी सम्भवतः नपुंसकता अथवा शुक्र यानी वीर्य की अल्पता।",
+  "english": "Between the groin (vaṅkṣaṇa) and the testes (vṛṣaṇa), viṭapa; there, ṣāṇḍhya (impotence, probably) or scantiness of śukra (semen).",
+  "text_flags": [
+   {
+    "src": "ṣāṃḍhyamalpaśukṛtā",
+    "suggest": "ṣāṃḍhyamalpaśukratā",
+    "why": "near certain: 'śukṛtā' is not a word; alpa-śukra-tā (scantiness of semen) fits; ra -> ṛ is a print slip"
+   }
+  ],
+  "notes": "ṣāṇḍhya = state of a ṣaṇḍha (a man lacking virility): impotence is the probable modern sense. vṛṣaṇa = testes (it can also mean the scrotum).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.14"
+  ],
+  "lines_deva": [
+   "वंक्षणवृषणमध्ये विटपं तत्र षांढ्यमल्पशुकृता वा"
+  ],
+  "lines_iast": [
+   "vaṃkṣaṇavṛṣaṇamadhye viṭapaṃ tatra ṣāṃḍhyamalpaśukṛtā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sakthivadbāhvoḥ",
+      "words": [
+       {
+        "w": "sakthi-vat",
+        "gloss": "like the sakthi (lower limb)",
+        "gram": "ind."
+       },
+       {
+        "w": "bāhvoḥ",
+        "gloss": "in the two arms (bāhu)",
+        "gram": "m. loc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सक्थि यानी निचले अंग के समान, दोनों भुजाओं में।",
+  "english": "Like the sakthi (lower limb), in the two arms (bāhu).",
+  "text_flags": [],
+  "notes": "Elliptical: no verb and no marma named. The plain sense is that the arms have marmas corresponding to those of the sakthi, but the line does not say which; nothing is supplied. GROUPING: appears to be continued by 16 and 17, which give the differences for the arms.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.15"
+  ],
+  "lines_deva": [
+   "सक्थिवद्बाह्वोः"
+  ],
+  "lines_iast": [
+   "sakthivadbāhvoḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśeṣastu",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "difference, special point",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gulpho",
+      "words": [
+       {
+        "w": "gulphaḥ",
+        "gloss": "gulpha (ankle)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇibaṃdhastathā",
+      "words": [
+       {
+        "w": "maṇi-bandhaḥ",
+        "gloss": "maṇibandha (wrist; standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jānukūrparaṃtayorvyadhe",
+      "words": [
+       {
+        "w": "jānu",
+        "gloss": "jānu (knee)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "kūrparam",
+        "gloss": "kūrpara (elbow; standard)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tayoḥ",
+        "gloss": "of those two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "vyadhe",
+        "gloss": "in the piercing",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṇita",
+      "words": [
+       {
+        "w": "kuṇita",
+        "gloss": "kuṇita (bent, crooked)",
+        "gram": "ppp. √kuṇ, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु विशेष: गुल्फ—मणिबन्ध यानी कलाई, और वैसे ही जानु—कूर्पर यानी कोहनी; उन दोनों के बिंधने पर कुणित यानी मुड़ा हुआ या टेढ़ा होना।",
+  "english": "The special point, however: gulpha—maṇibandha (wrist), and likewise jānu—kūrpara (elbow); in the piercing of those two, kuṇita (bentness, crookedness).",
+  "text_flags": [
+   {
+    "src": "kuṇita",
+    "suggest": "kuṇitvaṃ",
+    "why": "possible: the line ends with a bare stem; unit 17 has 'kuṇitvaṃ' (crookedness) for the same effect"
+   }
+  ],
+  "notes": "Read as a correspondence: what is gulpha in the leg is maṇibandha in the arm, and jānu is kūrpara; the line itself only juxtaposes the names (no copula). 'jānukūrparaṃ' is split as jānu + kūrparam. 'kuṇita' is kept as printed (a participle 'bent'); whether kuṇitvam is meant does not change the sense. GROUPING: appears to continue 15.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.16"
+  ],
+  "lines_deva": [
+   "विशेषस्तु गुल्फो मणिबंधस्तथा जानुकूर्परंतयोर्व्यधे कुणित"
+  ],
+  "lines_iast": [
+   "viśeṣastu gulpho maṇibaṃdhastathā jānukūrparaṃtayorvyadhe kuṇita"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṭapavacca",
+      "words": [
+       {
+        "w": "viṭapa-vat",
+        "gloss": "like viṭapa",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kakṣākṣamadhye",
+      "words": [
+       {
+        "w": "kakṣā-akṣa-madhye",
+        "gloss": "armpit (kakṣā); akṣa (sense uncertain); in the middle",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kakṣādhāraḥ",
+      "words": [
+       {
+        "w": "kakṣā-dhāraḥ",
+        "gloss": "kakṣādhāra (marma name; armpit, support)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuṇitvaṃ",
+      "words": [
+       {
+        "w": "kuṇitvam",
+        "gloss": "crookedness (kuṇitva)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विटप के समान, कक्षा यानी काँख और अक्ष, जिसका अर्थ अनिश्चित है, के बीच कक्षाधार; वहाँ कुणित्व यानी टेढ़ापन।",
+  "english": "And like viṭapa: in the middle of the armpit (kakṣā) and the akṣa (sense uncertain), kakṣādhāra; there, kuṇitva (crookedness).",
+  "text_flags": [
+   {
+    "src": "kakṣākṣamadhye",
+    "suggest": "kakṣāvakṣasor madhye",
+    "why": "possible: 'akṣa' is not a known body part (akṣaka would be the collar-bone); 'between the armpit and the chest (vakṣas)' is a plausible reading, v lost; not adopted in the translation"
+   }
+  ],
+  "notes": "'like viṭapa' is read as the arm's counterpart of the groin marma in 14 (position between two parts, same kind of effect); not stated further. akṣa is left untranslated as uncertain. GROUPING: appears to continue 15-16 (arms).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.17"
+  ],
+  "lines_deva": [
+   "विटपवच्च कक्षाक्षमध्ये कक्षाधारः तत्र कुणित्वं"
+  ],
+  "lines_iast": [
+   "viṭapavacca kakṣākṣamadhye kakṣādhāraḥ tatra kuṇitvaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātavarconirasanasthūlāṃtrapratibaddho",
+      "words": [
+       {
+        "w": "vāta-varcaḥ-nirasana-sthūla-antra-pratibaddhaḥ",
+        "gloss": "wind (vāta); stool (varcas); expelling; thick; intestine; bound to",
+        "gram": "tat-puruṣa/bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gudaḥ",
+      "words": [
+       {
+        "w": "gudaḥ",
+        "gloss": "guda (anus; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु और मल को बाहर निकालने वाली स्थूलान्त्र यानी बड़ी आँत से बँधा हुआ गुद यानी गुदा; वहाँ तुरन्त मृत्यु।",
+  "english": "The guda (anus), bound to the large intestine (sthūlāntra), the expeller of wind (vāta) and stool (varcas); there, immediate death.",
+  "text_flags": [],
+  "notes": "In the compound it is not settled whether 'nirasana' (expelling) qualifies the guda or the sthūlāntra (large intestine); the translation keeps it with the intestine, as the compound order suggests. 'vāta' is read as wind (flatus). sthūlāntra = large intestine: standard. guda covers the anus and rectal end.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.18"
+  ],
+  "lines_deva": [
+   "वातवर्चोनिरसनस्थूलांत्रप्रतिबद्धो गुदः तत्र सद्यो मरणं"
+  ],
+  "lines_iast": [
+   "vātavarconirasanasthūlāṃtrapratibaddho gudaḥ tatra sadyo maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpamāṃsaśoṇito'bhyaṃtarataḥ",
+      "words": [
+       {
+        "w": "alpa-māṃsa-śoṇitaḥ",
+        "gloss": "little; flesh; blood",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "abhyantarataḥ",
+        "gloss": "inside, internally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṭacā",
+      "words": [
+       {
+        "w": "kṭacā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "dhanurvakra",
+      "words": [
+       {
+        "w": "dhanuḥ-vakraḥ",
+        "gloss": "bow; curved",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ekadvāro'dhomukho",
+      "words": [
+       {
+        "w": "eka-dvāraḥ",
+        "gloss": "one; opening, door",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "adhaḥ-mukhaḥ",
+        "gloss": "downward; face, mouth",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiḥ",
+      "words": [
+       {
+        "w": "bastiḥ",
+        "gloss": "basti (urinary bladder; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatrāpi",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇamaśmarīvraṇādṛte",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aśmarī-vraṇāt",
+        "gloss": "aśmarī (urinary stone; standard); wound",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "ṛte",
+        "gloss": "except, apart from",
+        "gram": "ind. (with abl.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बस्ति यानी मूत्राशय: अल्प मांस और रक्त वाली, भीतर क्टचा जो अस्पष्ट छपा शब्द है, इसलिए अनुमानित पाठ पर, धनुष के समान टेढ़ी, एक द्वार वाली, नीचे की ओर मुख वाली; वहाँ भी तुरन्त मृत्यु, अश्मरी यानी मूत्र की पथरी के व्रण यानी घाव को छोड़कर।",
+  "english": "The basti (urinary bladder): having little flesh and blood, internally kṭacā (an unclear printed word, so on a conjectural reading), bow-curved, with one opening, with its mouth turned downward; there too, immediate death, except from the wound of aśmarī (urinary stone).",
+  "text_flags": [
+   {
+    "src": "kṭacā",
+    "suggest": "kaṭyāḥ",
+    "why": "possible: 'kṭacā' is not a word (no vowel after k); 'abhyantarataḥ kaṭyāḥ' (inside the waist/hip) would suit the position of the bladder; 'tvacā' (with skin) is another candidate; not adopted"
+   }
+  ],
+  "notes": "The word kṭacā is damaged and kept unsplit; the sentence is therefore on a conjectural reading. The bladder is described by shape: little flesh and blood, bow-curved, one opening, mouth downward. 'aśmarī-vraṇa' = wound of/for urinary stone; the natural sense is the wound made to remove a stone, but the line does not say so. 'ṛte' takes the ablative. Here basti is the bladder. GROUPING: 20 appears to continue 19.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.07.19"
+  ],
+  "lines_deva": [
+   "अल्पमांसशोणितोऽभ्यंतरतः क्टचा धनुर्वक्र एकद्वारोऽधोमुखो बस्तिः तत्रापि सद्यो मरणमश्मरीव्रणादृते"
+  ],
+  "lines_iast": [
+   "alpamāṃsaśoṇito'bhyaṃtarataḥ kṭacā dhanurvakra ekadvāro'dhomukho bastiḥ tatrāpi sadyo maraṇamaśmarīvraṇādṛte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāpyubhayato",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viddhe",
+      "words": [
+       {
+        "w": "viddhe",
+        "gloss": "when pierced",
+        "gram": "ppp. √vyadh, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "ekato",
+      "words": [
+       {
+        "w": "ekataḥ",
+        "gloss": "on one side",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhinne",
+      "words": [
+       {
+        "w": "bhinne",
+        "gloss": "when split, cut through",
+        "gram": "ppp. √bhid, loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūtrasrāvī",
+      "words": [
+       {
+        "w": "mūtra-srāvī",
+        "gloss": "urine; flowing, discharging",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vraṇo",
+      "words": [
+       {
+        "w": "vraṇaḥ",
+        "gloss": "wound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, results",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that (wound)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatnenopakrāṃto",
+      "words": [
+       {
+        "w": "yatnena",
+        "gloss": "with effort",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upakrāntaḥ",
+        "gloss": "treated, attended to",
+        "gram": "ppp. upa-√kram, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rohati",
+      "words": [
+       {
+        "w": "rohati",
+        "gloss": "heals, grows over",
+        "gram": "3 sg. pres. √ruh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ भी दोनों ओर बिंधने पर जीवित नहीं रहता; एक ओर फट जाने पर मूत्र बहाने वाला घाव होता है; वह प्रयत्न से उपचारित किया गया भर जाता है।",
+  "english": "Even there, when pierced on both sides, one does not live; when split on one side, a wound discharging urine (mūtra) results; that, however, treated with effort, heals.",
+  "text_flags": [],
+  "notes": "The subject of 'jīvati' is unstated (the person); shown as 'one'. 'sa' is the wound. upakrānta = treated, taken in hand (treatment); rohati = grows over, heals. GROUPING: appears to continue 19 (the basti).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.20"
+  ],
+  "lines_deva": [
+   "तत्राप्युभयतो विद्धे न जीवति एकतो भिन्ने मूत्रस्रावी व्रणो भवति स तु यत्नेनोपक्रांतो रोहति"
+  ],
+  "lines_iast": [
+   "tatrāpyubhayato viddhe na jīvati ekato bhinne mūtrasrāvī vraṇo bhavati sa tu yatnenopakrāṃto rohati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakkāmāśayamadhye",
+      "words": [
+       {
+        "w": "pakva-āmāśaya-madhye",
+        "gloss": "pakva (digested; with āśaya understood: pakvāśaya, probably the lower gut); āmāśaya (stomach; standard); in the middle",
+        "gram": "dvandva + tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābhiḥ",
+      "words": [
+       {
+        "w": "nābhiḥ",
+        "gloss": "nābhi (navel; standard)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatrāpi",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्व यानी पचे हुए और आमाशय यानी कच्चे अन्न के आशय, सम्भवतः जठर, के बीच नाभि; वहाँ भी तुरन्त मृत्यु।",
+  "english": "In the middle of the pakva (digested) and the āmāśaya (probably the stomach), the nābhi (navel); there too, immediate death.",
+  "text_flags": [
+   {
+    "src": "pakkāmāśayamadhye",
+    "suggest": "pakvāmāśayamadhye",
+    "why": "possible: 'pakka' is the Prakrit form; the Sanskrit word is pakva; va/ka confusion in print"
+   }
+  ],
+  "notes": "'pakva-āmāśaya' is a dvandva in which 'pakva' stands for pakvāśaya (the receptacle of digested matter, probably the lower gut); this is the usual sense but the word āśaya is not printed after pakva. āmāśaya = the receptacle of undigested food, the stomach (standard). Nominal sentence.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.21"
+  ],
+  "lines_deva": [
+   "पक्कामाशयमध्ये नाभिः तत्रापि सद्यो मरणं"
+  ],
+  "lines_iast": [
+   "pakkāmāśayamadhye nābhiḥ tatrāpi sadyo maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "koṣṭhavakṣasoḥ",
+      "words": [
+       {
+        "w": "koṣṭha-vakṣasoḥ",
+        "gloss": "koṣṭha (belly, trunk cavity); chest (vakṣas)",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "stanayośca",
+      "words": [
+       {
+        "w": "stanayoḥ",
+        "gloss": "of the two breasts",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhyesatvarajastamodhiṣṭhānamāmāśayadvāraṃ",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "sattva-rajaḥ-tamaḥ-adhiṣṭhānam",
+        "gloss": "sattva, rajas, tamas (the three guṇas, qualities); seat",
+        "gram": "dvandva + tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "āmāśaya-dvāram",
+        "gloss": "āmāśaya (stomach); gate",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "hṛdaya (heart; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatrāpi",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कोष्ठ यानी पेट और वक्ष के तथा दोनों स्तनों के बीच सत्त्व, रज और तम नामक तीन गुणों का आधार, आमाशय यानी सम्भवतः जठर का द्वार, हृदय; वहाँ भी तुरन्त मृत्यु।",
+  "english": "In the middle of the koṣṭha (belly) and the chest (vakṣas), and of the two breasts, the hṛdaya (heart), the seat of sattva, rajas and tamas (the three guṇas, qualities), the gate of the āmāśaya (probably the stomach); there too, immediate death.",
+  "text_flags": [
+   {
+    "src": "madhyesatvarajastamodhiṣṭhānamāmāśayadvāraṃ",
+    "suggest": "madhye satvarajastamo'dhiṣṭhānamāmāśayadvāraṃ",
+    "why": "avagraha dropped after -o (tamo 'dhiṣṭhāna); also madhye is run on to the next word"
+   }
+  ],
+  "notes": "'satva' is a print spelling of sattva (normalised in `w`). The guṇas are doctrinal terms, kept with a short gloss. 'koṣṭha' is taken as the abdominal-trunk cavity; its relation to 'vakṣas' ('between belly and chest') is read as a dvandva in the genitive dual. Hindi 'आमाशय' is the Sanskrit word for the receptacle of undigested food, not the mango (आम).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.22"
+  ],
+  "lines_deva": [
+   "कोष्ठवक्षसोः स्तनयोश्च मध्येसत्वरजस्तमोधिष्ठानमामाशयद्वारं हृदयं तत्रापि सद्यो मरणं"
+  ],
+  "lines_iast": [
+   "koṣṭhavakṣasoḥ stanayośca madhyesatvarajastamodhiṣṭhānamāmāśayadvāraṃ hṛdayaṃ tatrāpi sadyo maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stanayoradhastāt",
+      "words": [
+       {
+        "w": "stanayoḥ",
+        "gloss": "of the two breasts",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "adhastāt",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvyaṃgulamubhayataḥ",
+      "words": [
+       {
+        "w": "dvi-aṅgulam",
+        "gloss": "two; aṅgula (finger-breadth)",
+        "gram": "dvigu, n. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stanamūle",
+      "words": [
+       {
+        "w": "stana-mūle",
+        "gloss": "breast; root (name of the two marmas)",
+        "gram": "tat-puruṣa, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "kaphapūrṇakoṣṭhasya",
+      "words": [
+       {
+        "w": "kapha-pūrṇa-koṣṭhasya",
+        "gloss": "Kapha; full; koṣṭha (belly, trunk cavity)",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों स्तनों के नीचे दो अंगुल, दोनों ओर, स्तनमूल; उन दोनों में कफ से भरे कोष्ठ वाले की मृत्यु।",
+  "english": "Two aṅgulas below the two breasts, on both sides, the two stanamūla (breast-roots); in those two, death of one whose koṣṭha (belly) is full of Kapha.",
+  "text_flags": [],
+  "notes": "'stanamūle' is a dual (the two marmas, one on each side). 'tayoḥ' is read as 'in those two (when pierced)'. The wording is 'of one whose koṣṭha is full of Kapha': death depends on that state; the text gives no more. No verb.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.23"
+  ],
+  "lines_deva": [
+   "स्तनयोरधस्तात् द्व्यंगुलमुभयतः स्तनमूले तयोः कफपूर्णकोष्ठस्य मरणं"
+  ],
+  "lines_iast": [
+   "stanayoradhastāt dvyaṃgulamubhayataḥ stanamūle tayoḥ kaphapūrṇakoṣṭhasya maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stanacūcukayorūrdhvaṃ",
+      "words": [
+       {
+        "w": "stana-cūcukayoḥ",
+        "gloss": "breast; nipple (cūcuka)",
+        "gram": "dvandva, n. gen. du."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvyaṃgulamubhayataḥ",
+      "words": [
+       {
+        "w": "dvi-aṅgulam",
+        "gloss": "two; aṅgula (finger-breadth)",
+        "gram": "dvigu, n. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stanarohite",
+      "words": [
+       {
+        "w": "stana-rohite",
+        "gloss": "breast; rohita (name of the two marmas)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitapūrṇakoṣṭhasya",
+      "words": [
+       {
+        "w": "śoṇita-pūrṇa-koṣṭhasya",
+        "gloss": "blood; full; koṣṭha",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों स्तनाग्रों के ऊपर दो अंगुल, दोनों ओर, स्तनरोहित; तुरन्त रक्त से भरे कोष्ठ वाले की मृत्यु।",
+  "english": "Two aṅgulas above the two nipples (cūcuka), on both sides, the two stanarohita; immediate death of one whose koṣṭha (belly) is full of blood.",
+  "text_flags": [
+   {
+    "src": "sadyo",
+    "suggest": "sadyaḥ",
+    "why": "possible: before ś the visarga is not changed to o; 'sadyaḥ' (or 'sadyaś') is expected"
+   }
+  ],
+  "notes": "Unlike 23 and 25 there is no 'tayoḥ' here; the effect is stated directly. 'stanacūcuka' is read as a dvandva (breast and nipple). The 'koṣṭha full of blood' wording parallels 23.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.24"
+  ],
+  "lines_deva": [
+   "स्तनचूचुकयोरूर्ध्वं द्व्यंगुलमुभयतः स्तनरोहिते सद्यो शोणितपूर्णकोष्ठस्य मरणं"
+  ],
+  "lines_iast": [
+   "stanacūcukayorūrdhvaṃ dvyaṃgulamubhayataḥ stanarohite sadyo śoṇitapūrṇakoṣṭhasya maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhayatroraso",
+      "words": [
+       {
+        "w": "ubhayatra",
+        "gloss": "on both sides",
+        "gram": "ind."
+       },
+       {
+        "w": "urasaḥ",
+        "gloss": "of the chest (uras; standard)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāḍyau",
+      "words": [
+       {
+        "w": "nāḍyau",
+        "gloss": "two nāḍī (channels, tubes)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vātavahe",
+      "words": [
+       {
+        "w": "vāta-vahe",
+        "gloss": "wind (vāta); carrying",
+        "gram": "tat-puruṣa, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "apastaṃbhau",
+      "words": [
+       {
+        "w": "apastambhau",
+        "gloss": "apastambha (marma name)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥśoṇitapūrṇakoṣṭhatayā",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "śoṇita-pūrṇa-koṣṭha-tayā",
+        "gloss": "blood; full; koṣṭha; -ness",
+        "gram": "bahuvrīhi + abstract, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāsaśvāsābhyāṃ",
+      "words": [
+       {
+        "w": "kāsa-śvāsābhyām",
+        "gloss": "kāsa (cough); śvāsa (breathlessness; probable)",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों ओर छाती की दो नाड़ियाँ जो वात यानी वायु को ले जाती हैं, अपस्तम्भ; उन दोनों में रक्त से भरे कोष्ठ होने के कारण और कास यानी खाँसी तथा श्वास यानी सम्भवतः साँस फूलने से मृत्यु।",
+  "english": "On both sides of the chest (uras), two nāḍī (channels) carrying vāta (wind), the two apastambha; in those two, death through the koṣṭha being full of blood, and through cough (kāsa) and śvāsa (probably breathlessness).",
+  "text_flags": [],
+  "notes": "'vātavahe' could also mean carrying Vāta (the doṣa); 'wind' (breath, air) is the plainer sense for chest channels and is kept, with the Sanskrit word beside it. nāḍī is kept as 'channel, tube' (doctrinal vessel word). śvāsa = laboured breathing (breathlessness): probable; it is also a disease name.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.25"
+  ],
+  "lines_deva": [
+   "उभयत्रोरसो नाड्यौ वातवहे अपस्तंभौ तयोःशोणितपूर्णकोष्ठतया कासश्वासाभ्यां च मरणं"
+  ],
+  "lines_iast": [
+   "ubhayatroraso nāḍyau vātavahe apastaṃbhau tayoḥśoṇitapūrṇakoṣṭhatayā kāsaśvāsābhyāṃ ca maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃsakūṭayoradhaḥ",
+      "words": [
+       {
+        "w": "aṃsa-kūṭayoḥ",
+        "gloss": "shoulder (aṃsa); top, peak (kūṭa)",
+        "gram": "tat-puruṣa, m. gen. du."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pārśvayorupari",
+      "words": [
+       {
+        "w": "pārśvayoḥ",
+        "gloss": "of the two sides (flanks)",
+        "gram": "n. gen. du."
+       },
+       {
+        "w": "upari",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāgayorapālāpau",
+      "words": [
+       {
+        "w": "bhāgayoḥ",
+        "gloss": "of the parts",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "apālāpau",
+        "gloss": "apālāpa (marma name)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "pūyatvamāpannena",
+      "words": [
+       {
+        "w": "pūya-tvam",
+        "gloss": "pus; state",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpannena",
+        "gloss": "reached, turned into",
+        "gram": "ppp. ā-√pad, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktena",
+      "words": [
+       {
+        "w": "raktena",
+        "gloss": "by blood",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों अंसकूट यानी कन्धे के शिखरों के नीचे, दोनों पार्श्वों के भागों के ऊपर, अपालाप; उन दोनों में पूय यानी मवाद की अवस्था को प्राप्त हुए रक्त से मृत्यु।",
+  "english": "Below the two aṃsakūṭa (shoulder-tops), above the parts of the two sides (pārśva), the two apālāpa; in those two, death by blood that has turned into pus (pūya).",
+  "text_flags": [],
+  "notes": "'pārśvayor upari bhāgayoḥ' is read as 'above the parts of the two sides'; the exact relation of 'bhāgayoḥ' to the flanks is not firm (it could be 'above, in the portions of the sides'). aṃsakūṭa = top of the shoulder (probable: the acromion region). No verb.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.26"
+  ],
+  "lines_deva": [
+   "अंसकूटयोरधः पार्श्वयोरुपरि भागयोरपालापौ तयोः पूयत्वमापन्नेन रक्तेन मरणं"
+  ],
+  "lines_iast": [
+   "aṃsakūṭayoradhaḥ pārśvayorupari bhāgayorapālāpau tayoḥ pūyatvamāpannena raktena maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛṣṭhavaṃśamubhayataḥ",
+      "words": [
+       {
+        "w": "pṛṣṭha-vaṃśam",
+        "gloss": "back; bamboo (the spine, pṛṣṭhavaṃśa; standard)",
+        "gram": "tat-puruṣa, m. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratiśroṇīkarṇāvasthinī",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards, facing",
+        "gram": "ind."
+       },
+       {
+        "w": "śroṇī-karṇau",
+        "gloss": "hip (śroṇī); ear (karṇa)",
+        "gram": "tat-puruṣa, m. acc. du."
+       },
+       {
+        "w": "asthinī",
+        "gloss": "two bones",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kaṭīkataruṇe",
+      "words": [
+       {
+        "w": "kaṭīka-taruṇe",
+        "gloss": "kaṭīkataruṇa (marma name, two)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitakṣayāt",
+      "words": [
+       {
+        "w": "śoṇita-kṣayāt",
+        "gloss": "blood; loss",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṃḍurvivarṇo",
+      "words": [
+       {
+        "w": "pāṇḍuḥ",
+        "gloss": "pale",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vivarṇaḥ",
+        "gloss": "discoloured",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīnarūpo",
+      "words": [
+       {
+        "w": "hīna-rūpaḥ",
+        "gloss": "diminished; form, appearance",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mriyate",
+      "words": [
+       {
+        "w": "mriyate",
+        "gloss": "dies",
+        "gram": "3 sg. pres. mid. √mṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रीढ़ यानी पृष्ठवंश के दोनों ओर श्रोणिकर्णों की ओर दो अस्थियाँ, कटीकतरुण; उन दोनों में रक्त के क्षय से पाण्डु यानी फीका सफेद, विवर्ण यानी बदरंग और क्षीण रूप वाला मरता है।",
+  "english": "On both sides of the spine (pṛṣṭhavaṃśa), towards the two śroṇīkarṇa (hip-'ears'), two bones, the kaṭīkataruṇa; in those two, from loss of blood (śoṇita), one dies pale (pāṇḍu), discoloured (vivarṇa) and of diminished appearance.",
+  "text_flags": [],
+  "notes": "'prati' + accusative is read as 'towards'. śroṇīkarṇa (hip-ear) names a part of the pelvic region (it occurs again in 29); its exact structure is not firm. kaṭīkataruṇa is kept as a marma name. The subject of 'mriyate' is unstated (the person). Hindi pāṇḍu: 'pale' (the glossary's open point on the Hindi word).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.27"
+  ],
+  "lines_deva": [
+   "पृष्ठवंशमुभयतः प्रतिश्रोणीकर्णावस्थिनी कटीकतरुणे तयोः शोणितक्षयात् पांडुर्विवर्णो हीनरूपो म्रियते"
+  ],
+  "lines_iast": [
+   "pṛṣṭhavaṃśamubhayataḥ pratiśroṇīkarṇāvasthinī kaṭīkataruṇe tayoḥ śoṇitakṣayāt pāṃḍurvivarṇo hīnarūpo mriyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārśvayorjaghanabahirbhāge",
+      "words": [
+       {
+        "w": "pārśvayoḥ",
+        "gloss": "on the two sides",
+        "gram": "n. loc. du."
+       },
+       {
+        "w": "jaghana-bahiḥ-bhāge",
+        "gloss": "hip, loins (jaghana; probable); outside; part",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhavaṃśamubhayataḥ",
+      "words": [
+       {
+        "w": "pṛṣṭha-vaṃśam",
+        "gloss": "spine",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kukuṃdarau",
+      "words": [
+       {
+        "w": "kukundarau",
+        "gloss": "kukundara (marma name, two)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "sparśajñānamadhaḥkāye",
+      "words": [
+       {
+        "w": "sparśa-ajñānam",
+        "gloss": "touch; non-perception (on a conjectural reading; printed sparśa-jñānam)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       },
+       {
+        "w": "adhaḥ-kāye",
+        "gloss": "downward, lower; body",
+        "gram": "karmadhāraya, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭānāśaśca",
+      "words": [
+       {
+        "w": "ceṣṭā-nāśaḥ",
+        "gloss": "movement; loss",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों पार्श्वों में जघन यानी सम्भवतः कूल्हे के क्षेत्र के बाहरी भाग में, रीढ़ के दोनों ओर, कुकुन्दर; उन दोनों में निचले शरीर में स्पर्श का अज्ञान यानी अनुभव न होना, अनुमानित पाठ पर, और चेष्टा का नाश यानी हिलने-डुलने की हानि।",
+  "english": "On the two sides, in the outer part of the jaghana (probably the hip region), on both sides of the spine, the two kukundara; in those two, absence of perception of touch (sparśa-ajñāna) in the lower body, on a conjectural reading, and loss of movement (ceṣṭā).",
+  "text_flags": [
+   {
+    "src": "sparśajñānamadhaḥkāye",
+    "suggest": "sparśājñānamadhaḥkāye",
+    "why": "possible: as printed, 'knowledge of touch' would be a good thing among a list of harms; the long ā of sparśājñāna (absence of knowing touch) is a likely slip"
+   }
+  ],
+  "notes": "The conjecture 'sparśājñāna' is marked in both translations. A second possibility is that a word for 'loss' (nāśa) has dropped after sparśajñāna, giving the same sense. jaghana = hips or loins region: probable. ceṣṭā = movement, bodily activity.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.28"
+  ],
+  "lines_deva": [
+   "पार्श्वयोर्जघनबहिर्भागे पृष्ठवंशमुभयतः कुकुंदरौ तयोः स्पर्शज्ञानमधःकाये चेष्टानाशश्च"
+  ],
+  "lines_iast": [
+   "pārśvayorjaghanabahirbhāge pṛṣṭhavaṃśamubhayataḥ kukuṃdarau tayoḥ sparśajñānamadhaḥkāye ceṣṭānāśaśca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śroṇīkarṇayoruparyāśayācchādanau",
+      "words": [
+       {
+        "w": "śroṇī-karṇayoḥ",
+        "gloss": "hip (śroṇī); ear (karṇa)",
+        "gram": "tat-puruṣa, m. gen. du."
+       },
+       {
+        "w": "upari",
+        "gloss": "above",
+        "gram": "ind."
+       },
+       {
+        "w": "āśaya-ācchādanau",
+        "gloss": "receptacle (āśaya); covering",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pārśvantarapratibaddhau",
+      "words": [
+       {
+        "w": "pārśva-antara-pratibaddhau",
+        "gloss": "side; interior, interval; bound to",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "nitaṃbau",
+      "words": [
+       {
+        "w": "nitambau",
+        "gloss": "nitamba (marma name, two; the word means hip or buttock)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoradha.kāye",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "adhaḥ-kāye",
+        "gloss": "downward, lower; body",
+        "gram": "karmadhāraya, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śopho",
+      "words": [
+       {
+        "w": "śophaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daurbalyaṃ",
+      "words": [
+       {
+        "w": "daurbalyam",
+        "gloss": "weakness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों श्रोणिकर्णों के ऊपर, आशय को ढकने वाले और पार्श्वों के भीतरी भाग से बँधे, नितम्ब; उन दोनों में निचले शरीर में सूजन, दुर्बलता और मृत्यु।",
+  "english": "Above the two śroṇīkarṇa (hip-'ears'), the two nitamba, covering the āśaya (receptacle) and bound to the interior of the sides (pārśva-antara); in those two, swelling (śopha) and weakness in the lower body, and death.",
+  "text_flags": [
+   {
+    "src": "pārśvantarapratibaddhau",
+    "suggest": "pārśvāntarapratibaddhau",
+    "why": "possible: pārśva + antara gives pārśvāntara with long ā; the long mark looks dropped (also in 30)"
+   },
+   {
+    "src": "tayoradha.kāye",
+    "suggest": "tayoradhaḥkāye",
+    "why": "near certain: the full stop stands for the visarga (adhaḥ-kāye)"
+   }
+  ],
+  "notes": "'āśaya' is left as 'receptacle' (an unspecified internal space); the line does not name the organ. 'pārśvāntara' is read as the interior (interval) of the sides; the sense of 'antara' here is not firm. 'ācchādana' = covering.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.29"
+  ],
+  "lines_deva": [
+   "श्रोणीकर्णयोरुपर्याशयाच्छादनौ पार्श्वन्तरप्रतिबद्धौ नितंबौ तयोरध.काये शोफो दौर्बल्यं मरणं च"
+  ],
+  "lines_iast": [
+   "śroṇīkarṇayoruparyāśayācchādanau pārśvantarapratibaddhau nitaṃbau tayoradha.kāye śopho daurbalyaṃ maraṇaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adhaḥpārśvantarapratibaddhau",
+      "words": [
+       {
+        "w": "adhaḥ-pārśva-antara-pratibaddhau",
+        "gloss": "below; side; interior; bound to",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jaghanapārśvamadhye",
+      "words": [
+       {
+        "w": "jaghana-pārśva-madhye",
+        "gloss": "hip (jaghana); side (pārśva); in the middle",
+        "gram": "dvandva + tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiryagūrdhvaṃ",
+      "words": [
+       {
+        "w": "tiryak-ūrdhvam",
+        "gloss": "slantwise, obliquely; upward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pārśvasaṃdhī",
+      "words": [
+       {
+        "w": "pārśva-saṃdhī",
+        "gloss": "side; joint (name of the two marmas)",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitapūrṇakoṣṭhatayā",
+      "words": [
+       {
+        "w": "śoṇita-pūrṇa-koṣṭha-tayā",
+        "gloss": "blood; full; koṣṭha; -ness",
+        "gram": "bahuvrīhi + abstract, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नीचे पार्श्वों के भीतरी भाग से बँधे, जघन यानी सम्भवतः कूल्हे का क्षेत्र और पार्श्व के बीच तिरछे और ऊपर की ओर, पार्श्वसन्धि; उन दोनों में रक्त से भरे कोष्ठ होने के कारण मृत्यु।",
+  "english": "Bound to the lower interior of the sides, in the middle between the jaghana (probably the hip region) and the side (pārśva), slanting and upward, the two pārśvasandhi (side-joints); in those two, death through the koṣṭha being full of blood.",
+  "text_flags": [
+   {
+    "src": "adhaḥpārśvantarapratibaddhau",
+    "suggest": "adhaḥpārśvāntarapratibaddhau",
+    "why": "possible: long ā of pārśvāntara dropped, as in 29"
+   }
+  ],
+  "notes": "'tiryagūrdhvam ca' is read as the direction of the marmas ('slanting and upward'), not as a separate marma. As in 29, 'pārśvāntara' = interior of the sides (sense of antara not firm).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.30"
+  ],
+  "lines_deva": [
+   "अधःपार्श्वन्तरप्रतिबद्धौ जघनपार्श्वमध्ये तिर्यगूर्ध्वं च पार्श्वसंधी तयोः शोणितपूर्णकोष्ठतया मरणं"
+  ],
+  "lines_iast": [
+   "adhaḥpārśvantarapratibaddhau jaghanapārśvamadhye tiryagūrdhvaṃ ca pārśvasaṃdhī tayoḥ śoṇitapūrṇakoṣṭhatayā maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stanamūlayorārjjavenobhayataḥ",
+      "words": [
+       {
+        "w": "stana-mūlayoḥ",
+        "gloss": "breast; root",
+        "gram": "tat-puruṣa, n. gen. du."
+       },
+       {
+        "w": "ārjavena",
+        "gloss": "by straightness, in a straight line",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhavaṃśaṃ",
+      "words": [
+       {
+        "w": "pṛṣṭha-vaṃśam",
+        "gloss": "spine",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛhatyau",
+      "words": [
+       {
+        "w": "bṛhatyau",
+        "gloss": "bṛhatī (marma name, two; the word means 'large')",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "śoṇitātipravṛttinimittairupadravairmaraṇaṃ",
+      "words": [
+       {
+        "w": "śoṇita-ati-pravṛtti-nimittaiḥ",
+        "gloss": "blood; excessive; flow; cause",
+        "gram": "bahuvrīhi, m. inst. pl."
+       },
+       {
+        "w": "upadravaiḥ",
+        "gloss": "by complications (upadrava)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों स्तनमूलों से सीधी रेखा में, रीढ़ के दोनों ओर, बृहती; उन दोनों में रक्त के अतिप्रवाह से उत्पन्न उपद्रवों यानी जटिलताओं से मृत्यु।",
+  "english": "In a straight line (ārjava) with the two stanamūla, on both sides of the spine, the two bṛhatī; in those two, death through complications (upadrava) whose cause is an excessive flow of blood.",
+  "text_flags": [],
+  "notes": "Printed 'ārjjava' (doubled jj) is normalised to ārjava (print habit). The literal wording is 'by straightness' from the two stanamūla; 'in a straight line with' is the plain sense. bṛhatī here is a marma name, not the plant. upadrava = complication, secondary affliction.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.31"
+  ],
+  "lines_deva": [
+   "स्तनमूलयोरार्ज्जवेनोभयतः पृष्ठवंशं बृहत्यौ तयोः शोणितातिप्रवृत्तिनिमित्तैरुपद्रवैर्मरणं"
+  ],
+  "lines_iast": [
+   "stanamūlayorārjjavenobhayataḥ pṛṣṭhavaṃśaṃ bṛhatyau tayoḥ śoṇitātipravṛttinimittairupadravairmaraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛṣṭhavaṃśamubhayato",
+      "words": [
+       {
+        "w": "pṛṣṭha-vaṃśam",
+        "gloss": "spine",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhumūlasaṃbaddhe",
+      "words": [
+       {
+        "w": "bāhu-mūla-saṃbaddhe",
+        "gloss": "arm; root; joined",
+        "gram": "tat-puruṣa, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "aṃsaphalake",
+      "words": [
+       {
+        "w": "aṃsa-phalake",
+        "gloss": "shoulder (aṃsa); plate (phalaka) (the two shoulder-blades, scapulae; probable)",
+        "gram": "tat-puruṣa, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayorbāhusvāpaśoṣau",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "bāhu-svāpa-śoṣau",
+        "gloss": "arm; numbness (svāpa); wasting (śoṣa)",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रीढ़ के दोनों ओर, बाहु के मूल से जुड़े, अंसफलक यानी कन्धे की दो फलकें, सम्भवतः स्कन्धास्थियाँ; उन दोनों में भुजा का स्वाप यानी सुन्न होना और शोष यानी सूखकर क्षीण होना।",
+  "english": "On both sides of the spine, the two aṃsaphalaka (shoulder-plates, probably the shoulder-blades), joined to the roots of the arms; in those two, numbness (svāpa) and wasting (śoṣa) of the arm.",
+  "text_flags": [],
+  "notes": "The line has 'bāhu' only once in the last compound ('arm-numbness and arm-wasting' or 'numbness and wasting of the arm'); the second is kept. aṃsaphalaka = shoulder-blade: probable. svāpa = numbness, loss of feeling (it can also mean sleep). No verb.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.32"
+  ],
+  "lines_deva": [
+   "पृष्ठवंशमुभयतो बाहुमूलसंबद्धे अंसफलके तयोर्बाहुस्वापशोषौ"
+  ],
+  "lines_iast": [
+   "pṛṣṭhavaṃśamubhayato bāhumūlasaṃbaddhe aṃsaphalake tayorbāhusvāpaśoṣau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grīvābāhuśiromadhye'sapīṭhaskaṃdhabaṃdhanāvaṃsau",
+      "words": [
+       {
+        "w": "grīvā-bāhu-śiraḥ-madhye",
+        "gloss": "neck; arm; head; in the middle",
+        "gram": "dvandva + tat-puruṣa, n. loc. sg."
+       },
+       {
+        "w": "aṃsa-pīṭha-skandha-bandhanau",
+        "gloss": "shoulder; seat; shoulder-top (skandha); binding",
+        "gram": "dvandva + tat-puruṣa, m. nom. du."
+       },
+       {
+        "w": "aṃsau",
+        "gloss": "two aṃsa (shoulders)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "stabdhabāhutā",
+      "words": [
+       {
+        "w": "stabdha-bāhu-tā",
+        "gloss": "stiff; arm; -ness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीवा, बाहु और शिर के बीच अंसपीठ और स्कन्ध को बाँधने वाले दो अंस यानी कन्धे; उन दोनों में भुजा की अकड़न।",
+  "english": "In the middle of the neck, arm and head, the two aṃsa (shoulders), binders of the aṃsapīṭha (shoulder-seat) and the skandha (shoulder-top); in those two, stiffness of the arms.",
+  "text_flags": [
+   {
+    "src": "grīvābāhuśiromadhye'sapīṭhaskaṃdhabaṃdhanāvaṃsau",
+    "suggest": "grīvābāhuśiromadhye'ṃsapīṭhaskaṃdhabaṃdhanāvaṃsau",
+    "why": "possible: 'asapīṭha' is not a word; the anusvara of aṃsapīṭha looks dropped"
+   }
+  ],
+  "notes": "skandha = shoulder, the top of the back or shoulder (sense of the pair aṃsapīṭha / skandha not firm). The compound after the avagraha is read as 'binding aṃsapīṭha and skandha'. stabdhabāhutā = the state of having stiff arms.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.33"
+  ],
+  "lines_deva": [
+   "ग्रीवाबाहुशिरोमध्येऽसपीठस्कंधबंधनावंसौ तयोः स्तब्धबाहुता"
+  ],
+  "lines_iast": [
+   "grīvābāhuśiromadhye'sapīṭhaskaṃdhabaṃdhanāvaṃsau tayoḥ stabdhabāhutā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṃṭhanāḍīmubhayataścatastro",
+      "words": [
+       {
+        "w": "kaṇṭha-nāḍīm",
+        "gloss": "throat; tube (kaṇṭhanāḍī, the windpipe; probable)",
+        "gram": "tat-puruṣa, f. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       },
+       {
+        "w": "catastraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhamanyaḥ",
+      "words": [
+       {
+        "w": "dhamanyaḥ",
+        "gloss": "dhamanī (vessels)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "nīle",
+      "words": [
+       {
+        "w": "nīle",
+        "gloss": "nīlā (name, two)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dve",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "manye",
+      "words": [
+       {
+        "w": "manye",
+        "gloss": "manyā (name, two)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tāsu",
+      "words": [
+       {
+        "w": "tāsu",
+        "gloss": "in those",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mūkatā",
+      "words": [
+       {
+        "w": "mūka-tā",
+        "gloss": "dumbness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svaravaikṛtyaṃ",
+      "words": [
+       {
+        "w": "svara-vaikṛtyam",
+        "gloss": "voice; alteration",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasāgrāhitā",
+      "words": [
+       {
+        "w": "rasa-agrāhi-tā",
+        "gloss": "taste (rasa); not grasping; -ness",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "occurs",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कण्ठनाड़ी यानी सम्भवतः श्वासनली के दोनों ओर चार धमनियाँ यानी वाहिकाएँ; उनमें दो नीला, दो मन्या; उनमें मूकता यानी गूँगापन, स्वर का विकार, अथवा रस का ग्रहण न कर पाना होता है।",
+  "english": "On both sides of the kaṇṭha-nāḍī (throat-tube, probably the windpipe), four dhamanī (vessels); of these, two nīlā, two manyā; in those, dumbness (mūkatā), alteration of the voice, or inability to perceive taste (rasa) occurs.",
+  "text_flags": [],
+  "notes": "dhamanī is a doctrinal word for a vessel and is kept with a plain gloss, not forced into 'artery'. nīlā and manyā are taken as names (nīla = blue; manyā = neck/nape); this is not firm: nīle could be an adjective 'blue' and manye a name. The three signs are alternatives ('or', singular verb). rasa here is taste.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.07.34"
+  ],
+  "lines_deva": [
+   "कंठनाडीमुभयतश्चतस्त्रो धमन्यः तासां द्वे नीले द्वे मन्ये तासु मूकता स्वरवैकृत्यं रसाग्राहिता वा भवति"
+  ],
+  "lines_iast": [
+   "kaṃṭhanāḍīmubhayataścatastro dhamanyaḥ tāsāṃ dve nīle dve manye tāsu mūkatā svaravaikṛtyaṃ rasāgrāhitā vā bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grīvāyāmubhayataścatastraḥ",
+      "words": [
+       {
+        "w": "grīvāyām",
+        "gloss": "in the neck",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       },
+       {
+        "w": "catastraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sirā",
+      "words": [
+       {
+        "w": "sirāḥ",
+        "gloss": "sirā (vessels)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mātṛkāstāsu",
+      "words": [
+       {
+        "w": "mātṛkāḥ",
+        "gloss": "mātṛkā (name; literally 'mothers')",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tāsu",
+        "gloss": "in those",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "immediately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇaṃ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीवा में दोनों ओर चार सिराएँ यानी वाहिकाएँ, मातृका; उनमें तुरन्त मृत्यु।",
+  "english": "In the neck, on both sides, four sirā (vessels), the mātṛkā; in those, immediate death.",
+  "text_flags": [],
+  "notes": "Printed 'sirā mātṛkāḥ' = sirāḥ mātṛkāḥ (regular loss of visarga before a voiced consonant). sirā is a doctrinal vessel word, kept with a plain gloss (it is usually rendered 'vein', not forced here). Nominal sentence.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.35"
+  ],
+  "lines_deva": [
+   "ग्रीवायामुभयतश्चतस्त्रः सिरा मातृकास्तासु सद्यो मरणं"
+  ],
+  "lines_iast": [
+   "grīvāyāmubhayataścatastraḥ sirā mātṛkāstāsu sadyo maraṇaṃ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śirogrīvayoḥ",
+      "words": [
+       {
+        "w": "śiraḥ-grīvayoḥ",
+        "gloss": "head; neck",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhāne",
+      "words": [
+       {
+        "w": "saṃdhāne",
+        "gloss": "at the junction",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛkāṭike",
+      "words": [
+       {
+        "w": "kṛkāṭike",
+        "gloss": "kṛkāṭikā (name, two; the nape joints, probable)",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tayoścalamūrddhatā",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "in those two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "cala-mūrdha-tā",
+        "gloss": "unsteady; head; -ness",
+        "gram": "bahuvrīhi + abstract, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिर और ग्रीवा के जोड़ पर कृकाटिका; उन दोनों में शिर की चंचलता यानी डगमगाना।",
+  "english": "At the junction of head and neck, the two kṛkāṭikā; in those two, an unsteady head (cala-mūrdha-tā).",
+  "text_flags": [],
+  "notes": "Printed 'mūrddha' (doubled dd) normalised to mūrdha. kṛkāṭikā = the nape joints (probable: the junction of the neck and skull). cala = moving, unsteady, shaky.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.07.36"
+  ],
+  "lines_deva": [
+   "शिरोग्रीवयोः संधाने कृकाटिके तयोश्चलमूर्द्धता"
+  ],
+  "lines_iast": [
+   "śirogrīvayoḥ saṃdhāne kṛkāṭike tayoścalamūrddhatā"
+  ],
+  "uncertain": []
+ }
+]

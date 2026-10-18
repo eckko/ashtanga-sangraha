@@ -1,0 +1,666 @@
+[
+ {
+  "n": "93",
+  "field": "notes",
+  "old": "Object of pāyayet is not stated. 'tālī' is unclear: possibly a truncated tālīsa (Abies webbiana, disputed) but the printed word is kept and not enriched. 'bilvabilvajayūṣa' could also be read as 'bilva' + 'bilvaja-yūṣa'; bilvaja is unclear; unit 95 treats 'bilvabilvajayūṣādi' as the head of a list of āplavana (dips). 'vyoṣa-tīkṣṇoṣṇena amlena' read as one sour (one) made sharp and hot with vyoṣa. madhuka = licorice is probable (Madhuca is another possibility). Sentence is elliptical and follows earlier units on childbirth.",
+  "new": "Object of pāyayet is not stated. 'tālī' is unclear: possibly a truncated tālīsa (Abies webbiana, disputed) but the printed word is kept and not enriched. 'bilvabilvajayūṣa' could also be read as 'bilva' + 'bilvaja-yūṣa'; bilvaja is unclear; unit 95 treats 'bilvabilvajayūṣādi' as the head of a list of āplavana (dips). 'vyoṣa-tīkṣṇoṣṇena amlena' read as one sour (one) made sharp and hot with vyoṣa. madhuka = licorice is probable (Madhuca is another possibility). Sentence is elliptical and follows earlier units on childbirth. REVIEW: alternative division of the printed 'kuṣṭhatālī sakalkaṃ' = kuṣṭha-tālīsa-kalkam (a paste of kuṣṭha and tālīsa, with the space misplaced); this would supply the missing object of pāyayet, as in units 94, 96, 98. Not adopted; owner to decide.",
+  "why": "reviewer (minor): The printed space may be misplaced: \"kuṣṭhatālī sakalkaṃ\" is probably kuṣṭha-tālīsa-kalkam (the -sa of tālīsa wrongly attached to kalkam), matching the pattern of units 94, 96, 98 where the paste (kalka) is the thing to be drunk. The draft reads sa-kalkam as \"with paste\" and leaves the object of pāyayet unstated."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "कुष्ठ यानी कूठ और अस्पष्ट शब्द ताली को कल्क के साथ पिलाना चाहिए: बिल्व यानी बेल, बिल्वज, यूष, मैरेय, आसव, सुरा और सुरामण्ड में से किसी एक के साथ; या व्योष से तीखे और गरम खट्टे के साथ; या कुलथी के रस के साथ; या मधुक यानी मुलेठी और पिप्पली यानी पीपर के संपाक के साथ।",
+  "new": "कुष्ठ यानी कूठ और अस्पष्ट शब्द ताली को कल्क के साथ पिलाना चाहिए: बिल्व यानी बेल, बिल्वज, यूष, मैरेय, आसव, सुरा और सुरामण्ड में से किसी एक के साथ; या व्योष से तीखे और गरम खट्टे के साथ; या कुलथी के रस के साथ; या मधुक यानी सम्भवतः मुलेठी और पिप्पली यानी पीपर के संपाक के साथ।",
+  "why": "reviewer (minor): English hedges madhuka (\"probably licorice\") but the Hindi states it flatly."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "कुष्ठ यानी कूठ और अस्पष्ट शब्द ताली को कल्क के साथ पिलाना चाहिए: बिल्व यानी बेल, बिल्वज, यूष, मैरेय, आसव, सुरा और सुरामण्ड में से किसी एक के साथ; या व्योष से तीखे और गरम खट्टे के साथ; या कुलथी के रस के साथ; या मधुक यानी सम्भवतः मुलेठी और पिप्पली यानी पीपर के संपाक के साथ।",
+  "new": "कुष्ठ यानी कूठ और अस्पष्ट शब्द ताली को कल्क के साथ पिलाना चाहिए: बिल्व यानी बेल, बिल्वज, यूष, मैरेय, आसव, सुरा और सुरामण्ड में से किसी एक के साथ; या व्योष यानी सोंठ, पीपर और काली मिर्च से तीखे और गरम खट्टे के साथ; या कुलथी के रस के साथ; या मधुक यानी सम्भवतः मुलेठी और पिप्पली यानी पीपर के संपाक के साथ।",
+  "why": "reviewer (minor): vyoṣa is glossed in English but not in Hindi."
+ },
+ {
+  "n": "93",
+  "field": "word.gram",
+  "word": "amlena",
+  "old": "m. inst. sg.",
+  "new": "inst. sg.",
+  "why": "reviewer (minor): Adjective for an unstated noun carries gender \"m.\" (rule: case and number only)."
+ },
+ {
+  "n": "93",
+  "field": "word.gram",
+  "word": "vyoṣa-tīkṣṇa-uṣṇena",
+  "old": "karmadhāraya, m. inst. sg.",
+  "new": "karmadhāraya, inst. sg.",
+  "why": "reviewer (minor): Same rule (unstated noun): no gender."
+ },
+ {
+  "n": "94",
+  "field": "hindi",
+  "old": "या पिप्पली यानी पीपर, एला, बेर के फल, विड, चव्य, चित्रक और उपकुञ्चिका यानी सम्भवतः कलौंजी जिसकी पहचान विवादित है, का कल्क।",
+  "new": "या पिप्पली यानी पीपर, एला यानी सम्भवतः इलायची, कोल यानी सम्भवतः बेर का फल, विड नामक द्रव्य, चव्य यानी सम्भवतः चव, चित्रक यानी चीता और उपकुञ्चिका यानी सम्भवतः कलौंजी जिसकी पहचान विवादित है, का कल्क।",
+  "why": "reviewer (minor): Hindi lacks the identifications and hedges that the English gives (elā probably cardamom, kola probably jujube, cavya probably Piper chaba), and bare \"विड\" gives no hint it is a drug name."
+ },
+ {
+  "n": "95",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg. (agrees with āplavanam)",
+  "why": "reviewer (minor): tat qualifies āplavanam (acc.); \"n. nom. sg.\" is wrong."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "या कुष्ठ और एला का कल्क सुरा के साथ।",
+  "new": "या कुष्ठ यानी कूठ और एला यानी सम्भवतः इलायची का कल्क सुरा के साथ।",
+  "why": "reviewer (minor): Hindi has no identification/hedge for kuṣṭha and elā although the English gives them."
+ },
+ {
+  "n": "97",
+  "field": "notes",
+  "old": "Split of 'arkālerka' is doubtful: arka + ale/ala + arka, or arka + alarka (alarka is a name for a kind of arka, usually called white calotrope; disputed). Kept unenriched and the middle word is marked unclear. kaṣāya here is the preparation, decoction. 'suronmiśram' = surā + unmiśram, with the final 'ā' shortened; the verb is carried from 93.",
+  "new": "Split of 'arkālerka' is doubtful: arka + ale/ala + arka, or arka + alarka (alarka is a name for a kind of arka, usually called white calotrope; disputed). Kept unenriched and the middle word is marked unclear. kaṣāya here is the preparation, decoction. 'suronmiśram' = surā + unmiśram, by regular ā + u > o sandhi, no shortening; the verb is carried from 93.",
+  "why": "reviewer (minor): Wrong explanation: surā + unmiśram gives suronmiśram by regular ā + u > o sandhi; nothing is shortened."
+ },
+ {
+  "n": "97",
+  "field": "english",
+  "old": "Or a decoction of arka, ala (unclear) and arka, mixed with surā.",
+  "new": "Or a decoction of arka (calotrope), ala (unclear) and arka, mixed with surā.",
+  "why": "reviewer (minor): arka is a standard identification (calotrope) written in gloss but not beside the word in the translations."
+ },
+ {
+  "n": "97",
+  "field": "hindi",
+  "old": "या अर्क, अस्पष्ट शब्द अला और अर्क का काढ़ा, सुरा में मिलाया हुआ।",
+  "new": "या अर्क यानी आक, अस्पष्ट शब्द अला और अर्क का काढ़ा, सुरा में मिलाया हुआ।",
+  "why": "reviewer (minor): No identification in Hindi."
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "या कुष्ठ और लाङ्गली की जड़ का कल्क, मद्य या मूत्र में से किसी एक के साथ।",
+  "new": "या कुष्ठ और लाङ्गली यानी सम्भवतः कलिहारी की जड़ का कल्क, मद्य या मूत्र में से किसी एक के साथ।",
+  "why": "reviewer (minor): English hedges lāṅgalī (probably gloriosa lily); Hindi has nothing."
+ },
+ {
+  "n": "100",
+  "field": "word.gram",
+  "word": "siddhasya",
+  "old": "ppp. √sidh, m. gen. sg.",
+  "new": "ppp. √sidh, n. gen. sg.",
+  "why": "reviewer (minor): siddhasya agrees with tailasya (n.), not m."
+ },
+ {
+  "n": "100",
+  "field": "word.gloss",
+  "word": "picum",
+  "old": "cotton wick (picu)",
+  "new": "cotton wad (picu)",
+  "why": "reviewer (minor): Gloss says \"cotton wick\" but translations and notes say wad/pledget (picu)."
+ },
+ {
+  "n": "100",
+  "field": "english",
+  "old": "A picu (cotton wad) of oil cooked with śatapuṣpā (probably dill), kuṣṭha, madana (probably emetic nut) and hiṅgu (asafoetida) should be made to be held.",
+  "new": "And a picu (cotton wad) of oil cooked with śatapuṣpā (probably dill), kuṣṭha, madana (probably emetic nut) and hiṅgu (asafoetida) should be made to be held.",
+  "why": "reviewer (minor): The \"ca\" (and) is dropped in both translations (note says \"not translated\"); nothing may be dropped. It joins this unit to the preceding options."
+ },
+ {
+  "n": "100",
+  "field": "hindi",
+  "old": "शतपुष्पा यानी सम्भवतः सौंफ या सोआ, कुष्ठ, मदन और हींग के साथ पकाए हुए तेल का पिचु यानी रुई का फाहा पकड़वाना चाहिए।",
+  "new": "और शतपुष्पा यानी सम्भवतः सौंफ या सोआ, कुष्ठ, मदन और हींग के साथ पकाए हुए तेल का पिचु यानी रुई का फाहा पकड़वाना चाहिए।",
+  "why": "reviewer (minor): The \"ca\" (and) is dropped in both translations (note says \"not translated\"); nothing may be dropped. It joins this unit to the preceding options."
+ },
+ {
+  "n": "100",
+  "field": "notes",
+  "old": "Printed 'siddhasyaca' is siddhasya + ca; the 'ca' here is not translated (no second item follows in this unit). 'picu' = a pledget or wad of cotton; 'soaked in' is not in the text, so the translation says 'a picu of oil cooked with ...'; in Hindi picu is glossed as cotton wad. Hindi names dill/fennel hedged because the identity is probable only. Place of use (probably the vagina) not stated. Dill identity for śatapuṣpā is probable (fennel also proposed).",
+  "new": "Printed 'siddhasyaca' is siddhasya + ca; the 'ca' is translated 'and' (it links this unit to the preceding options). 'picu' = a pledget or wad of cotton; 'soaked in' is not in the text, so the translation says 'a picu of oil cooked with ...'; in Hindi picu is glossed as cotton wad. Hindi names dill/fennel hedged because the identity is probable only. Place of use (probably the vagina) not stated. Dill identity for śatapuṣpā is probable (fennel also proposed).",
+  "why": "reviewer (minor): The \"ca\" (and) is dropped in both translations (note says \"not translated\"); nothing may be dropped. It joins this unit to the preceding options."
+ },
+ {
+  "n": "100",
+  "field": "hindi",
+  "old": "और शतपुष्पा यानी सम्भवतः सौंफ या सोआ, कुष्ठ, मदन और हींग के साथ पकाए हुए तेल का पिचु यानी रुई का फाहा पकड़वाना चाहिए।",
+  "new": "और शतपुष्पा यानी सम्भवतः सौंफ या सोआ, कुष्ठ, मदन यानी सम्भवतः मैनफल और हींग के साथ पकाए हुए तेल का पिचु यानी रुई का फाहा पकड़वाना चाहिए।",
+  "why": "reviewer (minor): English hedges madana (probably emetic nut); Hindi bare."
+ },
+ {
+  "n": "101",
+  "field": "hindi",
+  "old": "फिर इसे अनुवासन के समय अनुवासन देना चाहिए।",
+  "new": "फिर इसे अनुवासन यानी तेल की बस्ति के समय अनुवासन देना चाहिए।",
+  "why": "reviewer (minor): First use of anuvāsana in Hindi has no gloss (English has \"oil enema\")."
+ },
+ {
+  "n": "103",
+  "field": "word.gram",
+  "word": "upahitaiḥ",
+  "old": "ppp. upa-√dhā, n. inst. pl.",
+  "new": "ppp. upa-√dhā, inst. pl.",
+  "why": "reviewer (minor): Adjective for unstated noun carries gender \"n.\"."
+ },
+ {
+  "n": "103",
+  "field": "hindi",
+  "old": "फल, जीमूतक, इक्ष्वाकु, धामार्गव, कुटज, अस्पष्ट शब्द आकै, कृतवेधन यानी सम्भवतः तोरई और हस्तिपर्णी से युक्त किए हुए से आस्थापन देना चाहिए।",
+  "new": "फल, जीमूतक यानी सम्भवतः देवदाली, इक्ष्वाकु यानी सम्भवतः कड़वी लौकी, धामार्गव यानी पहचान विवादित द्रव्य, कुटज यानी कुड़ा, अस्पष्ट शब्द आकै, कृतवेधन यानी सम्भवतः तोरई और हस्तिपर्णी से युक्त किए हुए से आस्थापन देना चाहिए।",
+  "why": "reviewer (minor): Hindi gives none of the identifications/hedges the English has (jīmūtaka probably a Luffa gourd, ikṣvāku probably bitter bottle gourd, dhāmārgava identity disputed, hastiparṇī unidentified)."
+ },
+ {
+  "n": "103",
+  "field": "hindi",
+  "old": "फल, जीमूतक यानी सम्भवतः देवदाली, इक्ष्वाकु यानी सम्भवतः कड़वी लौकी, धामार्गव यानी पहचान विवादित द्रव्य, कुटज यानी कुड़ा, अस्पष्ट शब्द आकै, कृतवेधन यानी सम्भवतः तोरई और हस्तिपर्णी से युक्त किए हुए से आस्थापन देना चाहिए।",
+  "new": "फल, जीमूतक यानी सम्भवतः देवदाली, इक्ष्वाकु यानी सम्भवतः कड़वी लौकी, धामार्गव यानी पहचान विवादित द्रव्य, कुटज यानी कुड़ा, अस्पष्ट शब्द आकै, कृतवेधन यानी सम्भवतः तोरई और हस्तिपर्णी, जिसकी पहचान अज्ञात है, से युक्त किए हुए से आस्थापन देना चाहिए।",
+  "why": "reviewer (minor): Hindi gives none of the identifications/hedges the English has (jīmūtaka probably a Luffa gourd, ikṣvāku probably bitter bottle gourd, dhāmārgava identity disputed, hastiparṇī unidentified)."
+ },
+ {
+  "n": "104",
+  "field": "hindi",
+  "old": "सिद्धार्थक यानी सफेद सरसों, कुष्ठ, लाङ्गली और महावृक्ष के दूध से मिले हुए के साथ, या सुरामण्ड के साथ, शाल्मली के डण्ठल और अस्पष्ट शब्द स्त्रिञ्चानि को कूटकर पञ्चमूल के काढ़े में मसलना चाहिए।",
+  "new": "सिद्धार्थक यानी सफेद सरसों, कुष्ठ, लाङ्गली और महावृक्ष के दूध से मिले हुए के साथ, या सुरामण्ड के साथ, शाल्मली के डण्ठल या अस्पष्ट शब्द स्त्रिञ्चानि को कूटकर पञ्चमूल के काढ़े में मसलना चाहिए।",
+  "why": "reviewer (error): The Sanskrit has vā (\"or\") here and the English and the notes read \"or\"; the Hindi says \"और\" (and)."
+ },
+ {
+  "n": "104",
+  "field": "english",
+  "old": "With (one) mixed with siddhārthaka (probably white mustard), kuṣṭha, lāṅgalī and the milky sap of mahāvṛkṣa, or with surā-maṇḍa; the stalks of śālmalī (silk-cotton tree) or striñcāni (unclear) having been pounded, one should crush (them) in a decoction of the five roots (pañcamūla).",
+  "new": "With (one) mixed with siddhārthaka (probably white mustard), kuṣṭha, lāṅgalī and the milk (kṣīra) of mahāvṛkṣa (identity disputed), or with surā-maṇḍa; the stalks of śālmalī (silk-cotton tree) or striñcāni (unclear) having been pounded, one should crush (them) in a decoction of the five roots (pañcamūla).",
+  "why": "reviewer (minor): kṣīra is \"milk\"; \"milky sap\" is an interpretation, and the disputed identity is not marked in the translation (Hindi says दूध)."
+ },
+ {
+  "n": "104",
+  "field": "hindi",
+  "old": "सिद्धार्थक यानी सफेद सरसों, कुष्ठ, लाङ्गली और महावृक्ष के दूध से मिले हुए के साथ, या सुरामण्ड के साथ, शाल्मली के डण्ठल या अस्पष्ट शब्द स्त्रिञ्चानि को कूटकर पञ्चमूल के काढ़े में मसलना चाहिए।",
+  "new": "सिद्धार्थक यानी सफेद सरसों, कुष्ठ, लाङ्गली और महावृक्ष, जिसकी पहचान विवादित है, के दूध से मिले हुए के साथ, या सुरामण्ड के साथ, शाल्मली के डण्ठल या अस्पष्ट शब्द स्त्रिञ्चानि को कूटकर पञ्चमूल के काढ़े में मसलना चाहिए।",
+  "why": "reviewer (minor): kṣīra is \"milk\"; \"milky sap\" is an interpretation, and the disputed identity is not marked in the translation (Hindi says दूध)."
+ },
+ {
+  "n": "104",
+  "field": "word.gram",
+  "word": "miśreṇa",
+  "old": "ppp. √miś, m. inst. sg.",
+  "new": "ppp. √miś, inst. sg.",
+  "why": "reviewer (minor): Adjective for unstated noun carries gender \"m.\"."
+ },
+ {
+  "n": "105",
+  "field": "english",
+  "old": "And with that, strained, oily, joined with phala and the rest, and with pungent oil (kaṭutaila) cooked with the substances of the āsthāpana as stated, one should give an uttarabasti (urethral or uterine injection).",
+  "new": "And with that, strained, oily, joined with phala and the rest, with pungent oil (kaṭutaila; probably mustard oil) cooked with the substances of the āsthāpana as stated, one should give an uttarabasti (urethral or uterine injection).",
+  "why": "reviewer (minor): English inserts an \"and\" before \"pungent oil\" that is not in the Sanskrit and makes the oil look like a second item; the Hindi (correctly) lets all adjectives qualify the oil. Identification of kaṭutaila is hedged only in gloss/notes."
+ },
+ {
+  "n": "105",
+  "field": "hindi",
+  "old": "और उस छाने हुए, स्नेह वाले, फल आदि से युक्त, यथोक्त आस्थापन द्रव्यों से पकाए हुए कटु तेल से उत्तरबस्ति देनी चाहिए।",
+  "new": "और उस छाने हुए, स्नेह वाले, फल आदि से युक्त, यथोक्त आस्थापन द्रव्यों से पकाए हुए कटु तेल यानी सम्भवतः सरसों के तेल से उत्तरबस्ति यानी मूत्रमार्ग या गर्भाशय में दी जाने वाली बस्ति देनी चाहिए।",
+  "why": "reviewer (minor): Hindi gives no gloss for kaṭutaila or uttarabasti (English gives both)."
+ },
+ {
+  "n": "105",
+  "field": "word.gram",
+  "word": "tena",
+  "old": "m. inst. sg.",
+  "new": "inst. sg.",
+  "why": "reviewer (minor): Gender \"m.\" given although the notes say these adjectives may qualify kaṭutaila (n.) or an unstated noun; \"sneha-vatā\" is a possessive -vat form, not a bahuvrīhi."
+ },
+ {
+  "n": "105",
+  "field": "word.gram",
+  "word": "pūtena",
+  "old": "ppp. √pū, m. inst. sg.",
+  "new": "ppp. √pū, inst. sg.",
+  "why": "reviewer (minor): Gender \"m.\" given although the notes say these adjectives may qualify kaṭutaila (n.) or an unstated noun; \"sneha-vatā\" is a possessive -vat form, not a bahuvrīhi."
+ },
+ {
+  "n": "105",
+  "field": "word.gram",
+  "word": "phala-ādi-yuktena",
+  "old": "tat-puruṣa, m. inst. sg.",
+  "new": "tat-puruṣa, inst. sg.",
+  "why": "reviewer (minor): Gender \"m.\" given although the notes say these adjectives may qualify kaṭutaila (n.) or an unstated noun; \"sneha-vatā\" is a possessive -vat form, not a bahuvrīhi."
+ },
+ {
+  "n": "105",
+  "field": "word.gram",
+  "word": "sneha-vatā",
+  "old": "bahuvrīhi, m. inst. sg.",
+  "new": "possessive -vat, inst. sg.",
+  "why": "reviewer (minor): Gender \"m.\" given although the notes say these adjectives may qualify kaṭutaila (n.) or an unstated noun; \"sneha-vatā\" is a possessive -vat form, not a bahuvrīhi."
+ },
+ {
+  "n": "106",
+  "field": "hindi",
+  "old": "या शिग्रु यानी सहजन, सुमुख, मरिच, अजाजी यानी जीरा और चित्रक के कल्क, दूध और गोमूत्र से पकाए हुए कटु तेल से अनुवासन देना चाहिए।",
+  "new": "या शिग्रु यानी सहजन, सुमुख यानी सम्भवतः एक तुलसी, मरिच यानी काली मिर्च, अजाजी यानी सम्भवतः जीरा और चित्रक यानी चीता के कल्क, दूध और गोमूत्र से पकाए हुए कटु तेल से अनुवासन देना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks hedges/glosses given in English (sumukha probably a basil, ajājī probably cumin, kaṭutaila probably mustard oil)."
+ },
+ {
+  "n": "106",
+  "field": "hindi",
+  "old": "या शिग्रु यानी सहजन, सुमुख यानी सम्भवतः एक तुलसी, मरिच यानी काली मिर्च, अजाजी यानी सम्भवतः जीरा और चित्रक यानी चीता के कल्क, दूध और गोमूत्र से पकाए हुए कटु तेल से अनुवासन देना चाहिए।",
+  "new": "या शिग्रु यानी सहजन, सुमुख यानी सम्भवतः एक तुलसी, मरिच यानी काली मिर्च, अजाजी यानी सम्भवतः जीरा और चित्रक यानी चीता के कल्क, दूध और गोमूत्र से पकाए हुए कटु तेल यानी सम्भवतः सरसों के तेल से अनुवासन देना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks hedges/glosses given in English (sumukha probably a basil, ajājī probably cumin, kaṭutaila probably mustard oil)."
+ },
+ {
+  "n": "106",
+  "field": "english",
+  "old": "Or one should give an anuvāsana (oil enema) with pungent oil (kaṭutaila) cooked with the paste of śigru (drumstick), sumukha (probably a basil), marica (black pepper), ajājī (probably cumin) and citraka, with milk and with cow's urine.",
+  "new": "Or one should give an anuvāsana (oil enema) with pungent oil (kaṭutaila; probably mustard oil) cooked with the paste of śigru (drumstick), sumukha (probably a basil), marica (black pepper), ajājī (probably cumin) and citraka, with milk and with cow's urine.",
+  "why": "reviewer (minor): Hindi lacks hedges/glosses given in English (sumukha probably a basil, ajājī probably cumin, kaṭutaila probably mustard oil)."
+ },
+ {
+  "n": "107",
+  "field": "english",
+  "old": "Or, having filled the yoni (female genital passage) with picchā of umā (probably flax) and śālmalī together with ghee, one should shake (it).",
+  "new": "Or, having filled the yoni (female genital passage) with picchā of umā (probably flax) and śālmalī together with ghee, one should shake.",
+  "why": "reviewer (minor): Object of vidhunuyāt is not stated (notes say so) yet the English supplies \"(it)\"; referent is not certain (yoni or woman)."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "या घी सहित उमा और शाल्मली की पिच्छा से योनि को भरकर हिलाना चाहिए।",
+  "new": "या घी सहित उमा यानी सम्भवतः अलसी और शाल्मली की पिच्छा से योनि को भरकर हिलाना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks the hedge: English says umā probably flax."
+ },
+ {
+  "n": "108",
+  "field": "english",
+  "old": "Or with an oiled hand with the nails cut, one should remove (it) following the mālā (garland or row; sense unclear).",
+  "new": "Or with an oiled hand with the nails cut, one should remove, following the mālā (garland or row; sense unclear).",
+  "why": "reviewer (minor): Notes say no object is supplied but the English has \"(it)\"; referent uncertain."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "या स्नेहयुक्त, कटे नाखून वाले हाथ से माला के अनुसार हटाना चाहिए।",
+  "new": "या स्नेहयुक्त, कटे नाखून वाले हाथ से माला के अनुसार हटाना चाहिए। यहाँ माला का अर्थ अस्पष्ट है।",
+  "why": "reviewer (error): English marks the sense of mālā unclear; the Hindi does not (glossary: Hindi unclear mark must match the English)."
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "यदि प्रसव के बाद बस्ति और अस्पष्ट शब्द मुद्धोदर में मक्कल नाम की पीड़ा हो।",
+  "new": "यदि जन्म दे चुकी में बस्ति यानी मूत्राशय और अस्पष्ट शब्द मुद्धोदर में मक्कल नाम की पीड़ा हो।",
+  "why": "reviewer (minor): prajātāyām = \"in one who has given birth\"; \"after delivery\" is not what is said, and बस्ति has no gloss."
+ },
+ {
+  "n": "110",
+  "field": "english",
+  "old": "In that case one should drink the powder of yavakṣāra (kṣāra of barley) with ghee, or with pleasantly warm water.",
+  "new": "In that case one should drink the powder of yavakṣāra (kṣāra of barley; probably impure potassium carbonate) with ghee, or with pleasantly warm water.",
+  "why": "reviewer (minor): Owner policy wants the modern identification beside the term (probable)."
+ },
+ {
+  "n": "110",
+  "field": "hindi",
+  "old": "उसमें यवक्षार का चूर्ण घी के साथ, या सुखोष्ण जल के साथ पीना चाहिए।",
+  "new": "उसमें यवक्षार यानी सम्भवतः यव के पौधे की राख से बने अशुद्ध पोटैशियम कार्बोनेट का चूर्ण घी के साथ, या सुखोष्ण जल के साथ पीना चाहिए।",
+  "why": "reviewer (minor): Owner policy wants the modern identification beside the term (probable)."
+ },
+ {
+  "n": "111",
+  "field": "notes",
+  "old": "Split of 'melām' = m (from -am) + elām is a sandhi of -am + elām; read as 'pañcakolam elām'. The syntax is uncertain (elā may be an addition or a separate item). Verb carried from 110: pibet.",
+  "new": "Split of 'melām' = m (from -am) + elām is a sandhi of -am + elām; read as 'pañcakolam elām'. The syntax is uncertain (elā may be an addition or a separate item). Verb carried from 110: pibet. REVIEW: alternative reading of 'elāmatīvāpaṃ' = elā-pratīvāpam ('with elā as the added substance'), pra misprinted as ma, matching pratīvāpa in 112. Not adopted.",
+  "why": "reviewer (minor): Alternative worth recording: the printed \"elāmatīvāpaṃ\" may be elā-pratīvāpam (pra misread as ma; unit 112 uses pratīvāpa as the same technical term), i.e. \"with pañcakola, with elā as the added substance\". The draft instead splits elām + atīvāpam."
+ },
+ {
+  "n": "111",
+  "field": "english",
+  "old": "Or the group beginning with varaṇa, together with pañcakola, elā (probably cardamom) and atīvāpa (unclear).",
+  "new": "Or the group beginning with varaṇa, together with pañcakola (long pepper, its root, cavya, citraka and dry ginger), elā (probably cardamom) and atīvāpa (unclear).",
+  "why": "reviewer (minor): pañcakola unglossed in the translations (first use in the chunk)."
+ },
+ {
+  "n": "111",
+  "field": "hindi",
+  "old": "या वरणादि गण को पञ्चकोल, एला यानी सम्भवतः इलायची और अस्पष्ट शब्द अतीवाप के साथ।",
+  "new": "या वरणादि गण को पञ्चकोल यानी पीपर, पीपरामूल, चव्य, चित्रक और सोंठ, एला यानी सम्भवतः इलायची और अस्पष्ट शब्द अतीवाप के साथ।",
+  "why": "reviewer (minor): pañcakola unglossed in the translations (first use in the chunk)."
+ },
+ {
+  "n": "112",
+  "field": "notes",
+  "old": "The compound is open: it can be one item 'vīratarādi' taken with 'mūṣakādi as added substance', or both groups as added substances; the literal compound is kept. Members of both groups are not given here. Elliptical: the main substance and the verb are carried from 110-111.",
+  "new": "The compound is open: it can be one item 'vīratarādi' taken with 'mūṣakādi as added substance', or both groups as added substances; the literal compound is kept. Members of both groups are not given here. Elliptical: the main substance and the verb are carried from 110-111. REVIEW: 'mūṣaka' may be a misprint of muṣkaka (muṣkakādi is a known drug group named together with vīratarādi); not adopted.",
+  "why": "reviewer (minor): Gaṇa name: \"mūṣakādi\" is probably a misprint of muṣkakādi (a well-known drug group beside vīratarādi in the Vāgbhaṭa tradition). Plausible but unproved."
+ },
+ {
+  "n": "112",
+  "field": "hindi",
+  "old": "अथवा वीरतर आदि और मूषक आदि वाले गण, प्रतीवाप यानी मिलाई जाने वाली वस्तु के रूप में।",
+  "new": "अथवा जिसमें प्रतीवाप यानी मिलाई जाने वाली वस्तु के रूप में वीरतर आदि वाला गण और मूषक आदि वाला गण हों।",
+  "why": "reviewer (minor): Hindi construes the compound as a tat-puruṣa (\"the groups ... as pratīvāpa\") while the English reads a bahuvrīhi (\"(one) having as pratīvāpa the groups\"); they must agree. Hindi प्रतीवाप यानी मिलाई जाने वाली वस्तु is acceptable (no brackets or Latin)."
+ },
+ {
+  "n": "113",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "vāvatsakādiniryūheṇa",
+    "suggest": "vā vatsakādiniryūheṇa",
+    "why": "possible: vā printed joined without a space"
+   }
+  ],
+  "why": "reviewer (minor): \"vā\" printed joined to the next word (as flagged in units 98, 115); not flagged here."
+ },
+ {
+  "n": "115",
+  "field": "notes",
+  "old": "'kaṣāyenavā' is printed joined (kaṣāyena + vā). Elliptical: the main substance and verb come from 110. The two plants of the aṃśumatī pair are an interpretation, not stated in the text (disputed). bhadradāru = deodar is probable.",
+  "new": "'kaṣāyenavā' is printed joined (kaṣāyena + vā). Elliptical: the main substance and verb come from 110. The two plants of the aṃśumatī pair are an interpretation, not stated in the text (disputed). bhadradāru = deodar is probable. REVIEW: because 'vā' follows kaṣāyena (unlike the 'X vā' pattern of 94-116), the alternative 'paste of marica and bhadradāru with the decoction of the aṃśumatī pair as vehicle' is also possible; the printed order is kept in the translation.",
+  "why": "reviewer (minor): In this list \"X vā\" normally means \"or X\" (units 94, 96, 99, 111, 114, 116). Here vā follows the decoction, so the unit may instead mean \"or (the paste) of marica and bhadradāru with the decoction of the aṃśumatī pair\". The draft reading (two separate options, with a leading \"Or\" and a second \"or\") is one possibility only."
+ },
+ {
+  "n": "115",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "aṃśumatīdvayakaṣāyenavā",
+    "suggest": "aṃśumatīdvayakaṣāyena vā",
+    "why": "possible: vā printed joined without a space"
+   }
+  ],
+  "why": "reviewer (minor): Joined vā noted in notes but not flagged."
+ },
+ {
+  "n": "118",
+  "field": "notes",
+  "old": "GROUPING: protasis; the apodosis is in 119 ('tataḥ'). The grammar leaves open whether 'tasyāḥ' is the woman of 109-117.",
+  "new": "GROUPING: protasis; the apodosis is in 119 ('tataḥ'). The grammar leaves open whether 'tasyāḥ' is the woman of 109-117. REVIEW: modern equivalent (probable, not stated in the text): prolapse of the genital passage/uterus (yoni-bhraṃśa).",
+  "why": "reviewer (minor): Owner policy wants the modern equivalent beside the term when standard."
+ },
+ {
+  "n": "119",
+  "field": "notes",
+  "old": "'yasya kasyacit' is read as 'of anyone whatever' (an indefinite expression); the animal or person is not stated. 'yasya' and 'kasyacit' are not separate pronouns here. Hindi 'उसे' stands for the yoni, the object of niveśayet.",
+  "new": "'yasya kasyacit' is read as 'of anyone whatever' (an indefinite expression); the animal or person is not stated. 'yasya' and 'kasyacit' are listed as two pronoun words but form one indefinite expression. Hindi 'उसे' stands for the yoni, the object of niveśayet.",
+  "why": "reviewer (minor): Contradicts the word list, which gives yasya and kasyacit as two pronoun words."
+ },
+ {
+  "n": "120",
+  "field": "word.gram",
+  "word": "vipakvena",
+  "old": "ppp. vi-√pac, m. inst. sg.",
+  "new": "ppp. vi-√pac, n. inst. sg.",
+  "why": "reviewer (minor): vipakvena agrees with tailena (n.), not m."
+ },
+ {
+  "n": "120",
+  "field": "english",
+  "old": "And the placed (one) should be fomented many times with oil well cooked with a paste of aśoka, rohiṇī (identity disputed), barhiṣa (unidentified), uśīra, priyaṅgu (probably Callicarpa macrophylla) and devadāru, and filled.",
+  "new": "And the placed (one) should be fomented many times with oil well cooked with a paste of aśoka, rohiṇī (identity disputed), barhiṣa (unidentified), uśīra, priyaṅgu (probably Callicarpa macrophylla; identity disputed) and devadāru, and filled.",
+  "why": "reviewer (minor): Glossary: disputed identifications are marked \"(identity disputed)\" in the translation; Hindi gives no identifications/disputed marks at all for rohiṇī, barhiṣa, uśīra, priyaṅgu."
+ },
+ {
+  "n": "120",
+  "field": "hindi",
+  "old": "और स्थापित की गई को अशोक, रोहिणी, बर्हिष, उशीर, प्रियङ्गु और देवदारु के कल्क से भली प्रकार पकाए तेल से बार-बार स्वेदन करना चाहिए और भरना चाहिए।",
+  "new": "और स्थापित की गई को अशोक, रोहिणी, जिसकी पहचान विवादित है, बर्हिष, जिसकी पहचान अज्ञात है, उशीर यानी खस, प्रियङ्गु यानी सम्भवतः फूलप्रियंगु, जिसकी पहचान विवादित है, और देवदारु के कल्क से भली प्रकार पकाए तेल से बार-बार स्वेदन करना चाहिए और भरना चाहिए।",
+  "why": "reviewer (minor): Glossary: disputed identifications are marked \"(identity disputed)\" in the translation; Hindi gives no identifications/disputed marks at all for rohiṇī, barhiṣa, uśīra, priyaṅgu."
+ },
+ {
+  "n": "120",
+  "field": "notes",
+  "old": "'niviṣṭām' is feminine and agrees with yoni of 119. 'barhiṣa' follows the printed 'barhiṣośīra' (a + u = o); a different division is possible and the plant is not identified here. priyaṅgu is disputed in lists. The verb svedayet (should foment) with oil is as printed; no instrument is added. Object of pūrayet (fill) is not stated, and none is supplied.",
+  "new": "'niviṣṭām' is feminine and agrees with yoni of 119. 'barhiṣa' follows the printed 'barhiṣośīra' (a + u = o); a different division is possible and the plant is not identified here. priyaṅgu is disputed in lists. The verb svedayet (should foment) with oil is as printed; no instrument is added. Object of pūrayet (fill) is not stated, and none is supplied. REVIEW: 'tailena' may govern pūrayet (fill with the oil) rather than, or as well as, svedayet; the translation keeps the printed order.",
+  "why": "reviewer (minor): \"tailena\" is attached to svedayet (fomenting with oil) but it could equally be the filling material of pūrayet (\"fill with oil\"); both translations commit."
+ },
+ {
+  "n": "122",
+  "field": "english",
+  "old": "In the same way any other woman should bring forth (on a conjectural reading) the child just born, by the procedure for the care of a child.",
+  "new": "In the same way any one woman should bring forth (on a conjectural reading) the child just born, by the procedure for the care of a child.",
+  "why": "reviewer (error): anyatamā means \"any one (of several)\", not \"other\" (that is anyā/aparā)."
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "उसी प्रकार कोई दूसरी स्त्री, अभी जन्मे हुए बालक को, बालक के उपचार की विधि से, अनुमानित पाठ पर उत्पन्न करे।",
+  "new": "उसी प्रकार कोई एक स्त्री, अभी जन्मे हुए बालक को, बालक के उपचार की विधि से, अनुमानित पाठ पर उत्पन्न करे।",
+  "why": "reviewer (error): anyatamā means \"any one (of several)\", not \"other\" (that is anyā/aparā)."
+ },
+ {
+  "n": "122",
+  "field": "notes",
+  "old": "The verb is damaged. The reading 'utpādayet' is a guess; the translations say so. 'anyatamā' is read 'any other (woman)'; the sense (a second woman) is as printed. 'strījātamātram' read as strī + jātamātram; the alternative 'born of a woman only' is possible.",
+  "new": "The verb is damaged. The reading 'utpādayet' is a guess; the translations say so. 'anyatamā' is read 'any one (woman)' (anyatama = one of several, not 'other'). 'strījātamātram' read as strī + jātamātram; the alternative 'born of a woman only' is possible.",
+  "why": "reviewer (error): anyatamā means \"any one (of several)\", not \"other\" (that is anyā/aparā)."
+ },
+ {
+  "n": "122",
+  "field": "word.gloss",
+  "word": "anyatamā",
+  "old": "any other",
+  "new": "any one (of several)",
+  "why": "reviewer (error): anyatamā means \"any one (of several)\", not \"other\" (that is anyā/aparā)."
+ },
+ {
+  "n": "123",
+  "field": "word.gram",
+  "word": "upadekṣyate",
+  "old": "3 sg. fut. pass. upa-√diś",
+  "new": "3 sg. fut. mid. upa-√diś (active sense \"will teach\", or passive; tam acc. is irregular for a passive)",
+  "why": "reviewer (minor): \"fut. pass.\" conflicts with tam (accusative); either the verb is future middle with active sense (\"will teach that\") or tam should be tat. Translation \"that will be taught\" is fine."
+ },
+ {
+  "n": "124",
+  "field": "hindi",
+  "old": "फिर प्रसूता यानी सूतिका को बला के तेल से अभ्यंग करना चाहिए।",
+  "new": "फिर प्रसूता यानी सूतिका को बला यानी सम्भवतः बरियार के तेल से अभ्यंग करना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks the hedge given in English (balā probably country mallow)."
+ },
+ {
+  "n": "125",
+  "field": "english",
+  "old": "A dose (mātrā) of sneha (oil or fat), joined with pañcakola powder, or with the powder of yavānī (ajwain), upakuñcikā, cavya, citraka, vyoṣa and saindhava (rock salt), digesting within the day, should be given to the hungry (one) to drink, according to suitability (sātmya).",
+  "new": "And a dose (mātrā) of sneha (oil or fat), joined with pañcakola powder, or with the powder of yavānī (ajwain), upakuñcikā, cavya, citraka, vyoṣa and saindhava (rock salt), digesting within the day, should be given to the hungry (one) to drink, according to suitability (sātmya).",
+  "why": "reviewer (minor): The initial \"ca\" (and) is dropped in both translations although the notes say it joins to 124."
+ },
+ {
+  "n": "125",
+  "field": "hindi",
+  "old": "भूखी को पञ्चकोल के चूर्ण से, या यवानी यानी अजवायन, उपकुञ्चिका, चव्य, चित्रक, व्योष और सैन्धव यानी सेंधा नमक के चूर्ण से युक्त, दिन में पचने वाली स्नेह की मात्रा, सात्म्य के अनुसार, पिलानी चाहिए।",
+  "new": "और भूखी को पञ्चकोल के चूर्ण से, या यवानी यानी अजवायन, उपकुञ्चिका, चव्य, चित्रक, व्योष और सैन्धव यानी सेंधा नमक के चूर्ण से युक्त, दिन में पचने वाली स्नेह की मात्रा, सात्म्य के अनुसार, पिलानी चाहिए।",
+  "why": "reviewer (minor): The initial \"ca\" (and) is dropped in both translations although the notes say it joins to 124."
+ },
+ {
+  "n": "125",
+  "field": "english",
+  "old": "And a dose (mātrā) of sneha (oil or fat), joined with pañcakola powder, or with the powder of yavānī (ajwain), upakuñcikā, cavya, citraka, vyoṣa and saindhava (rock salt), digesting within the day, should be given to the hungry (one) to drink, according to suitability (sātmya).",
+  "new": "And a dose (mātrā) of sneha (oil or fat), joined with pañcakola powder, or with the powder of yavānī (ajwain), upakuñcikā (probably nigella; identity disputed), cavya, citraka, vyoṣa and saindhava (rock salt), digesting within the day, should be given to the hungry (one) to drink, according to suitability (sātmya).",
+  "why": "reviewer (minor): Identification given in 94 is not repeated or hedged here in either language."
+ },
+ {
+  "n": "125",
+  "field": "hindi",
+  "old": "और भूखी को पञ्चकोल के चूर्ण से, या यवानी यानी अजवायन, उपकुञ्चिका, चव्य, चित्रक, व्योष और सैन्धव यानी सेंधा नमक के चूर्ण से युक्त, दिन में पचने वाली स्नेह की मात्रा, सात्म्य के अनुसार, पिलानी चाहिए।",
+  "new": "और भूखी को पञ्चकोल के चूर्ण से, या यवानी यानी अजवायन, उपकुञ्चिका यानी सम्भवतः कलौंजी, जिसकी पहचान विवादित है, चव्य, चित्रक, व्योष और सैन्धव यानी सेंधा नमक के चूर्ण से युक्त, दिन में पचने वाली स्नेह की मात्रा, सात्म्य के अनुसार, पिलानी चाहिए।",
+  "why": "reviewer (minor): Identification given in 94 is not repeated or hedged here in either language."
+ },
+ {
+  "n": "125",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "capaṃcakolacūrṇena",
+    "suggest": "ca paṃcakolacūrṇena",
+    "why": "possible: ca printed joined without a space"
+   }
+  ],
+  "why": "reviewer (minor): \"ca\" printed joined to pañcakola (no sandhi) not flagged."
+ },
+ {
+  "n": "126",
+  "field": "hindi",
+  "old": "स्नेह के अयोग्य को वात हरने वाली औषधियों का क्वाथ, या ह्रस्व पञ्चमूल यानी छोटी पाँच जड़ों का क्वाथ; और जिसने पी लिया हो उसके पेट पर यमक से अभ्यंग करके कपड़े से लपेटना चाहिए।",
+  "new": "स्नेह के अयोग्य को वात हरने वाली औषधियों का क्वाथ, या ह्रस्व पञ्चमूल यानी छोटी पाँच जड़ों का क्वाथ; और जिसने पी लिया हो उसके पेट पर यमक यानी सम्भवतः तेल और घी के मिश्रण से अभ्यंग करके कपड़े से लपेटना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks the gloss/hedge on yamaka and the lesser pañcamūla (owner policy: identifications wanted)."
+ },
+ {
+  "n": "126",
+  "field": "hindi",
+  "old": "स्नेह के अयोग्य को वात हरने वाली औषधियों का क्वाथ, या ह्रस्व पञ्चमूल यानी छोटी पाँच जड़ों का क्वाथ; और जिसने पी लिया हो उसके पेट पर यमक यानी सम्भवतः तेल और घी के मिश्रण से अभ्यंग करके कपड़े से लपेटना चाहिए।",
+  "new": "स्नेह के अयोग्य को वात हरने वाली औषधियों का क्वाथ, या ह्रस्व पञ्चमूल यानी छोटी पाँच जड़ों, शालपर्णी, पृश्निपर्णी, बृहती, कण्टकारी और गोक्षुर, का क्वाथ; और जिसने पी लिया हो उसके पेट पर यमक यानी सम्भवतः तेल और घी के मिश्रण से अभ्यंग करके कपड़े से लपेटना चाहिए।",
+  "why": "reviewer (minor): Hindi lacks the gloss/hedge on yamaka and the lesser pañcamūla (owner policy: identifications wanted)."
+ },
+ {
+  "n": "126",
+  "field": "english",
+  "old": "For one unfit for sneha (oil or fat), a decoction of vāta-relieving medicines, or a decoction of the lesser pañcamūla; and for one who has drunk, having anointed with yamaka (probably a mixture of oil and ghee), one should wrap the belly with cloth.",
+  "new": "For one unfit for sneha (oil or fat), a decoction of vāta-relieving medicines, or a decoction of the lesser pañcamūla (the five small roots: śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī and gokṣura); and for one who has drunk, having anointed with yamaka (probably a mixture of oil and ghee), one should wrap the belly with cloth.",
+  "why": "reviewer (minor): Hindi lacks the gloss/hedge on yamaka and the lesser pañcamūla (owner policy: identifications wanted)."
+ },
+ {
+  "n": "128",
+  "field": "english",
+  "old": "But when the sneha has been digested, a yavāgū (thick gruel) cooked with the very same earlier medicines, or with a decoction of the group beginning with vidārī, or with milk, well boiled and liquid, should be given to drink in measure.",
+  "new": "But when the sneha has been digested, a yavāgū (gruel) cooked with the very same earlier medicines, or with a decoction of the group beginning with vidārī, or with milk, well boiled and liquid, should be given to drink in measure.",
+  "why": "reviewer (minor): \"thick gruel\" contradicts dravā (\"liquid\") in the same sentence."
+ },
+ {
+  "n": "128",
+  "field": "word.gloss",
+  "word": "yavāgūm",
+  "old": "yavāgū (a thick gruel)",
+  "new": "yavāgū (a gruel)",
+  "why": "reviewer (minor): \"thick gruel\" contradicts dravā (\"liquid\") in the same sentence."
+ },
+ {
+  "n": "130",
+  "field": "hindi",
+  "old": "इस प्रकार तीन रात, पाँच रात या सम अस्पष्ट शब्द रात निभाकर, फिर यव, कोल और कुलत्थ के यूष से और हल्के अन्न-पान से, और बारह रात के बाद जाङ्गल यानी सूखे प्रदेश के पशुओं के रस आदि से क्रम से पोषण करना चाहिए, अग्नि, बल आदि को देखकर।",
+  "new": "इस प्रकार तीन रात, पाँच रात या अस्पष्ट शब्द समरात्र निभाकर, फिर यव, कोल और कुलत्थ के यूष से और हल्के अन्न-पान से, और बारह रात के बाद जाङ्गल यानी सूखे प्रदेश के पशुओं के रस आदि से क्रम से पोषण करना चाहिए, अग्नि, बल आदि को देखकर।",
+  "why": "reviewer (error): The printed word samarātra was split into \"सम ... रात\" with the unclear mark in the middle (the build-step rewrite of \"समरात्र (शब्द अस्पष्ट)\"); it must be one unsplit unclear word, as in the English."
+ },
+ {
+  "n": "130",
+  "field": "english",
+  "old": "Having kept this up for three nights, five nights, or samarātra (unclear), one should then nourish (her) gradually with a soup (yūṣa) of barley, jujube (kola) and horse gram (kulattha), with light food and drink, and after twelve nights also with jāṅgala broths and the like, having regard to the digestive fire (agni), strength and so on.",
+  "new": "Having kept this up for three nights, five nights, or samarātra (unclear), one should then nourish (her) gradually with a soup (yūṣa) of barley, jujube (kola) and horse gram (kulattha), with light food and drink, and after twelve nights with jāṅgala broths and the like, having regard to the digestive fire (agni), strength and so on.",
+  "why": "reviewer (minor): \"also\" is not in the Sanskrit (ca = and)."
+ },
+ {
+  "n": "130",
+  "field": "hindi",
+  "old": "इस प्रकार तीन रात, पाँच रात या अस्पष्ट शब्द समरात्र निभाकर, फिर यव, कोल और कुलत्थ के यूष से और हल्के अन्न-पान से, और बारह रात के बाद जाङ्गल यानी सूखे प्रदेश के पशुओं के रस आदि से क्रम से पोषण करना चाहिए, अग्नि, बल आदि को देखकर।",
+  "new": "इस प्रकार तीन रात, पाँच रात या अस्पष्ट शब्द समरात्र निभाकर, फिर यव, कोल यानी बेर और कुलत्थ यानी कुलथी के यूष से और हल्के अन्न-पान से, और बारह रात के बाद जाङ्गल यानी सूखे प्रदेश के पशुओं के रस आदि से क्रम से पोषण करना चाहिए, अग्नि, बल आदि को देखकर।",
+  "why": "reviewer (minor): Hindi lacks glosses (English has jujube/horse gram)."
+ },
+ {
+  "n": "132",
+  "field": "english",
+  "old": "Likewise one should attend (to her) with (ones) cooked with life-promoting (jīvanīya), nourishing (bṛṃhaṇīya), sweet and vāta-relieving (drugs), through anointing (abhyaṅga), ucchādana (unclear), sprinkling (pariṣeka) and immersion (avagāha), and with agreeable foods and drinks.",
+  "new": "Likewise one should attend (to her) with (ones) cooked with life-promoting (jīvanīya), nourishing (bṛṃhaṇīya), sweet and vāta-relieving (ones), through anointing (abhyaṅga), ucchādana (unclear), sprinkling (pariṣeka) and immersion (avagāha), and with agreeable foods and drinks.",
+  "why": "reviewer (minor): \"(drugs)\" adds a noun; convention for unstated nouns is \"(ones)\" and, in Hindi, a plain adjective (औषधियों is also an added noun)."
+ },
+ {
+  "n": "132",
+  "field": "hindi",
+  "old": "इसी प्रकार जीवनीय, बृंहणीय, मधुर और वात हरने वाली औषधियों से सिद्ध किए हुओं से अभ्यंग, अस्पष्ट शब्द उच्छादन, परिषेक और अवगाहन से, और हृदय को प्रिय अन्न-पान से उपचार करना चाहिए।",
+  "new": "इसी प्रकार जीवनीय, बृंहणीय, मधुर और वात हरने वालों से सिद्ध किए हुओं से अभ्यंग, अस्पष्ट शब्द उच्छादन, परिषेक और अवगाहन से, और हृदय को प्रिय अन्न-पान से उपचार करना चाहिए।",
+  "why": "reviewer (minor): \"(drugs)\" adds a noun; convention for unstated nouns is \"(ones)\" and, in Hindi, a plain adjective (औषधियों is also an added noun)."
+ },
+ {
+  "n": "132",
+  "field": "word.gram",
+  "word": "jīvanīya-bṛṃhaṇīya-madhura-vāta-hara-siddhaiḥ",
+  "old": "dvandva, tat-puruṣa, m. inst. pl.",
+  "new": "dvandva, tat-puruṣa, inst. pl.",
+  "why": "reviewer (minor): Gender \"m.\" on an adjective for an unstated noun."
+ },
+ {
+  "n": "132",
+  "field": "word.gram",
+  "word": "hṛdyaiḥ",
+  "old": "m. inst. pl.",
+  "new": "n. inst. pl.",
+  "why": "reviewer (minor): hṛdyaiḥ agrees with annapānaiḥ (n.), not m."
+ },
+ {
+  "n": "133",
+  "field": "hindi",
+  "old": "क्योंकि इस प्रकार, अनुमानित पाठ पर, गर्भ की वृद्धि से क्षीण और शिथिल हुए सारे शरीर के धातुओं वाले, और अस्पष्ट शब्द प्रवाहुण, वेदना, क्लेद, रक्त के निकलने और विशेष से रिक्त शरीर से, वह फिर नई हो जाती है। इसी कारण सूतिका का रोग कष्टसाध्य या असाध्य होता है। इसलिए उसका यथोक्त विधि से प्रयत्न पूर्वक उपचार करना चाहिए।",
+  "new": "क्योंकि इस प्रकार, अनुमानित पाठ पर, गर्भ की वृद्धि से क्षीण और शिथिल हुए सारे शरीर के धातुओं वाले, और अस्पष्ट शब्द प्रवाहुण, वेदना, क्लेद और विशेष रूप से रक्त के निकलने से रिक्त शरीर से, वह फिर नई हो जाती है। इसी कारण सूतिका का रोग कष्टसाध्य या असाध्य होता है। इसलिए उसका यथोक्त विधि से प्रयत्न पूर्वक उपचार करना चाहिए।",
+  "why": "reviewer (error): Hindi lists \"विशेष\" as a separate thing the body is empty of, while the English (and the notes) take viśeṣa as \"in particular\" attached to the blood-outflow."
+ },
+ {
+  "n": "133",
+  "field": "english",
+  "old": "For thus, on a conjectural reading, from the body whose dhātus of the whole body have been wasted (kṣapita) and made slack (śithila) by the growth of the foetus, and which is emptied of pravāhuṇa (unclear), pain, moisture (kleda), the outflow of blood, in particular, she becomes new again. And for this very reason the disease of the sūtikā becomes hard to cure or incurable. Therefore she should be treated with effort by the procedure as stated.",
+  "new": "For thus, on a conjectural reading, from the body whose dhātus of the whole body have been wasted (kṣapita) and made slack (śithila) by the growth of the foetus, and which is emptied of pravāhuṇa (unclear), pain, moisture (kleda), the outflow of blood, in particular, (she) becomes new again. And for this very reason the disease of the sūtikā becomes hard to cure or incurable. Therefore she should be treated with effort by the procedure as stated.",
+  "why": "reviewer (minor): No subject is stated for punarnavībhavati; \"she\" is added unmarked."
+ },
+ {
+  "n": "133",
+  "field": "notes",
+  "old": "The long compound is hard and the division is conjectural; the translations say so. 'pravāhuṇa' is unclear (perhaps pravāhaṇa 'bearing down'; not adopted). The reading 'wasted and slack by the growth of the foetus' takes garbhavṛddhi as the cause; 'viśeṣa' is taken as 'in particular' attached to the blood-outflow. 'punarnavī' is a cvi formation (becomes new again). 'ataeva' = atas eva. The disease of the sūtikā is not named.",
+  "new": "The long compound is hard and the division is conjectural; the translations say so. 'pravāhuṇa' is unclear (perhaps pravāhaṇa 'bearing down'; not adopted). The reading 'wasted and slack by the growth of the foetus' takes garbhavṛddhi as the cause; 'viśeṣa' is taken as 'in particular' attached to the blood-outflow. 'punarnavī' is a cvi formation (becomes new again). 'ataeva' = atas eva. The disease of the sūtikā is not named. REVIEW: alternative sense of '-śūnya-śarīrāt': 'from the body depleted by (the effects of) bearing-down, pain, discharge and blood-flow'; the draft's 'emptied of' is only one reading.",
+  "why": "reviewer (minor): Alternative reading to record: śūnya may mean \"depleted by\" the preceding causes (pravāhaṇa, pain, discharge, blood-flow of labour), rather than \"emptied of\" them; \"emptied of pain\" reads oddly. Whole compound remains conjectural."
+ },
+ {
+  "n": "133",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "garbhavṛddhiṃkṣapitaśithilasarvaśarīradhātupravāhuṇavedanākledaraktanisrutaviśeṣaśūnyaśarīrācca",
+    "suggest": "garbhavṛddhikṣapitaśithilasarvaśarīradhātupravāhaṇavedanākledaraktanisrutaviśeṣaśūnyaśarīrāc ca",
+    "why": "possible: stray anusvāra in 'vṛddhiṃ'; 'pravāhuṇa' is unclear (perhaps 'pravāhaṇa', straining) and the compound is joined with 'ca' without a space"
+   }
+  ],
+  "new": [
+   {
+    "src": "garbhavṛddhiṃkṣapitaśithilasarvaśarīradhātupravāhuṇavedanākledaraktanisrutaviśeṣaśūnyaśarīrācca",
+    "suggest": "garbhavṛddhikṣapitaśithilasarvaśarīradhātupravāhaṇavedanākledaraktanisrutaviśeṣaśūnyaśarīrāc ca",
+    "why": "possible: stray anusvāra in 'vṛddhiṃ'; 'pravāhuṇa' is unclear (perhaps 'pravāhaṇa', straining) and the compound is joined with 'ca' without a space"
+   },
+   {
+    "src": "yathoktenavidhinā",
+    "suggest": "yathoktena vidhinā",
+    "why": "possible: two words printed joined without a space"
+   }
+  ],
+  "why": "reviewer (minor): Joined words (no sandhi) not flagged."
+ },
+ {
+  "n": "134",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vigaṃtasūtikābhidhānā",
+    "suggest": "vigatasūtikābhidhānā",
+    "why": "possible: anusvāra printed for the short 'a' of vigata (gone); sense and the usual form vigata fit"
+   }
+  ],
+  "new": [
+   {
+    "src": "vigaṃtasūtikābhidhānā",
+    "suggest": "vigatasūtikābhidhānā",
+    "why": "possible: anusvāra printed for the short 'a' of vigata (gone); sense and the usual form vigata fit"
+   },
+   {
+    "src": "krameṇavimuktaāhāravihārayaṃtraṇā",
+    "suggest": "krameṇa vimuktā āhāravihārayantraṇāt",
+    "why": "possible: words printed joined without a space and hiatus 'vimuktaāhāra' unusual; ablative -āt lost is only a guess"
+   }
+  ],
+  "why": "reviewer (minor): Joined words printed without sandhi; vimuktā (f.) + āhāra... is a possible alternative division. Not flagged."
+ },
+ {
+  "n": "135",
+  "field": "hindi",
+  "old": "आर्तव के फिर दिखने से, ऐसा कुछ लोगों का मत है।",
+  "new": "आर्तव यानी रज के फिर दिखने से, ऐसा कुछ लोगों का मत है।",
+  "why": "reviewer (minor): No gloss for ārtava in Hindi."
+ }
+]

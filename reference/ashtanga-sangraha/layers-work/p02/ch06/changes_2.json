@@ -1,0 +1,97 @@
+[
+ {
+  "n": "54",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tatastābhiryathāsvamaṃgavayavā",
+    "suggest": "tatas tābhir yathāsvam aṅgāvayavā",
+    "why": "possible: aṅga + avayava should contract to aṅgāvayava; the long ā-mātra is missing in the print (words keep the two members aṅga-avayavāḥ)"
+   }
+  ],
+  "why": "reviewer (minor): Printed 'aṃgavayavā' (Deva. ंगवयवा) has no long ā; aṅga + avayava must contract to aṅgāvayava. The split aṅga-avayavāḥ silently restores it (a missing mātra), so it needs a flag."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Then, by them, the limbs and their parts, each according to its own, are held and nourished.",
+  "new": "Then, by them, the limbs and parts, each according to its own, are held and nourished.",
+  "why": "reviewer (minor): 'their' is not in the Sanskrit (aṅgāvayavāḥ, 'limbs and parts'; the dvandva/tat-puruṣa choice is already in the note)."
+ },
+ {
+  "n": "56",
+  "field": "notes",
+  "old": "GROUPING: appears to begin a list that continues through 57-59 (the thirty are 10 + 8 + 8 + 4). There is no finite verb, only the participle; 'dve dve' is read as 'two each' over the five items. The printed 'vahantaḥ' is masculine plural and does not agree with the feminine 'dve dve' (expected vahantyaḥ); flagged as possible. 'vāta, pitta, kapha' are the doṣas; 'rasa' here is the nutrient fluid (dhātu), not taste.",
+  "new": "GROUPING: appears to begin a list that continues through 57-59 (the thirty are 10 + 8 + 8 + 4). There is no finite verb, only the participle; 'dve dve' is read as 'two each' over the five items. The printed 'vahantaḥ' is masculine plural and does not agree with the feminine 'dve dve' (expected vahantyaḥ); flagged as possible. 'vāta, pitta, kapha' are the doṣas; 'rasa' here is the nutrient fluid (dhātu), not taste. Alternative conjecture: vahataḥ (3 du., 'two and two carry'), one anusvāra off the print and parallel to the finite verbs of 59 and 62; vahantyaḥ remains possible.",
+  "why": "reviewer (minor): A second, smaller correction exists: vahataḥ (3 du. 'carry'), one printed anusvāra away, matching the finite dual verbs of 59 and 62 ('dve ... vahataḥ'); 'dve dve' would then be 'two and two carry'. The draft's vahantyaḥ is also construable; the choice is the owner's. Translation 'carrying' reads equally for both."
+ },
+ {
+  "n": "57",
+  "field": "word.gram",
+  "word": "aṣṭābhiḥ",
+  "old": "f. inst. pl.",
+  "new": "inst. pl.",
+  "why": "reviewer (minor): aṣṭābhiḥ is gender-neutral by form and stands for an unstated noun: no gender in gram (glossary)."
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "dvābhyām",
+  "old": "f. inst. du.",
+  "new": "inst. du.",
+  "why": "reviewer (minor): dvābhyām is gender-neutral by form and stands for an unstated noun: no gender in gram."
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "dvābhyām",
+  "old": "f. inst. du.",
+  "new": "inst. du.",
+  "why": "reviewer (minor): dvābhyām is gender-neutral by form and stands for an unstated noun: no gender in gram."
+ },
+ {
+  "n": "64",
+  "field": "english",
+  "old": "Two that expel stool (varcas, on a conjectural reading), bound to the large intestine (sthūlāntra); but the remaining eight, running crosswise, nourish the sweat (sveda).",
+  "new": "Two that expel stool (varcas, on a conjectural reading), bound to the large intestine (sthūlāntra); but the remaining eight, running crosswise, satiate the sweat (sveda).",
+  "why": "reviewer (error): abhitarpayanti is rendered 'nourish' in English but literally 'satiate' in Hindi (तृप्त करती हैं); the glossary fixes tarpaṇa = satiation, and the translation should be the literal rendering with the interpretation only in notes."
+ },
+ {
+  "n": "64",
+  "field": "word.gloss",
+  "word": "abhitarpayanti",
+  "old": "nourish (literally satiate)",
+  "new": "satiate",
+  "why": "reviewer (error): abhitarpayanti is rendered 'nourish' in English but literally 'satiate' in Hindi (तृप्त करती हैं); the glossary fixes tarpaṇa = satiation, and the translation should be the literal rendering with the interpretation only in notes."
+ },
+ {
+  "n": "67",
+  "field": "word.gram",
+  "word": "prāṇa-udaka-anna-dhātu-malānām",
+  "old": "dvandva, n. gen. pl.",
+  "new": "dvandva, gen. pl.",
+  "why": "reviewer (minor): The dvandva is labelled 'n.'; its last member mala is masculine (neuter only by agreement with āyatanāni), and the gender of a genitive plural dvandva should not be asserted."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "The 'prāṇa-carrying (ones)' are the prāṇavaha srotas of 67, left as an unstated noun. mahāsrotas is kept literally ('great channel'); its identification is disputed and is not given in the line.",
+  "new": "The 'prāṇa-carrying (ones)' are the prāṇavaha srotas of 67, left as an unstated noun. mahāsrotas is kept literally ('great channel'); its identification is disputed and is not given in the line. mahāsrotas (disputed): in Caraka-type usage the great channel is the alimentary tract (koṣṭha); some commentators take the large vessels at the heart; unresolved here, so the term is kept untranslated beyond 'great channel'.",
+  "why": "reviewer (minor): Policy wants candidate identifications beside disputed terms (as done for kloma in 72); the draft gives none for mahāsrotas."
+ },
+ {
+  "n": "75",
+  "field": "hindi",
+  "old": "अन्न को वहन करने वालों का मूल आमाशय यानी सम्भवतः पेट है, और बायाँ पार्श्व।",
+  "new": "अन्न को वहन करने वालों का मूल आमाशय यानी सम्भवतः जठर है, और बायाँ पार्श्व।",
+  "why": "reviewer (error): Glossary (p02 ch05 k5): Hindi āmāśaya = जठर, not bare पेट (पेट = udara)."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "अस्थि को वहन करने वालों के जघन यानी कूल्हा और मेद।",
+  "new": "अस्थि को वहन करने वालों के जघन यानी सम्भवतः कूल्हा या कमर का क्षेत्र और मेद।",
+  "why": "reviewer (minor): English hedges jaghana ('hips or loins region, probable') but the Hindi states 'कूल्हा' unhedged and narrower; Hindi must carry the same hedge."
+ }
+]

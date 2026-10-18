@@ -1,0 +1,105 @@
+[
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जो सूक्ष्म ज्योति वाला, अनेकाग्र यानी एक बिन्दु पर ध्यान न टिका पाने वाला, दुश्छाय यानी बुरी कान्ति वाला और सदा दुर्मना यानी खिन्न मन वाला है।",
+  "new": "जो सूक्ष्म ज्योति वाला, अनेकाग्र यानी जो एकाग्र (एक बिन्दु पर टिका हुआ) नहीं है, दुश्छाय यानी बुरी कान्ति वाला और सदा दुर्मना यानी खिन्न मन वाला है।",
+  "why": "reviewer (minor): Adds an inability ('unable to keep attention') that an-ekāgra ('not one-pointed') does not state."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Whose [nature] made up of guṇa (quality) and doṣa, of a healthy or of an ill person",
+  "new": "Whose (one) made up of guṇa (quality) and doṣa, of a healthy or of an ill person",
+  "why": "reviewer (minor): Supplied noun in brackets: the Sanskrit has only the feminine adjective mayī; 'prakṛtiḥ' is in the next unit. Policy: unstated nouns shown as '(one)', nothing supplied."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "guṇa-doṣa-mayī",
+  "old": "tat-puruṣa, f. nom. sg.",
+  "new": "dvandva + -maya (consisting of), f. nom. sg.",
+  "why": "reviewer (minor): 'tat-puruṣa' is the wrong label: guṇa-doṣa is a dvandva and -maya is a suffix (consisting of)."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "Emendation is conjectural. As printed, 'ṣaṇmāsānta sa jīvati' would read 'he lives to the end of six months' (another possible repair is 'ṣaṇmāsānte'); the two sense-options differ (he lives up to six months, or not even six). GROUPING: continues 43 (subject 'prakṛtiḥ' with 'yasya ... guṇadoṣamayī'); the sentence is 'whose prakṛti ... changes, he ...'.",
+  "new": "Emendation is conjectural. As printed, 'ṣaṇmāsānta sa jīvati' would read 'he lives to the end of six months' (another possible repair is 'ṣaṇmāsānte'); the two sense-options differ (he lives up to six months, or not even six). GROUPING: continues 43 (subject 'prakṛtiḥ' with 'yasya ... guṇadoṣamayī'); the sentence is 'whose prakṛti ... changes, he ...'. Reviewer: ta/na is a known OCR confusion in this print, so 'ṣaṇmāsānta sa' may be 'ṣaṇmāsānna sa' (one letter); this favours 'ṣaṇmāsān na' but is not proof. OPEN for owner: 'does not live six months' vs 'lives to the end of six months' (opposite senses).",
+  "why": "reviewer (minor): Support for the repair is understated: ta/na is a recorded OCR confusion in this print (glossary), so printed 'ṣaṇmāsānta sa' = 'ṣaṇmāsānna sa' is a single-letter slip, which favours 'ṣaṇmāsān na' over 'ṣaṇmāsānte'. Draft correctly stays low and conjectural; the owner should still decide (the alternative 'ṣaṇmāsānte' gives the opposite sense)."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "ये छह छह मास में मरने वाले से हट जाते हैं।",
+  "new": "ये छह, छह मास में मरने वाले से हट जाते हैं।",
+  "why": "reviewer (minor): 'छह छह' can be read as 'six each'; the first is the six items, the second the six months."
+ },
+ {
+  "n": "47",
+  "field": "text_flags.0.suggest",
+  "old": "mattavad gativākkampamohāḥ",
+  "new": "mattavad gativākkampamohā",
+  "why": "reviewer (minor): The suggested string adds a visarga ('mohāḥ'); final -ā before m- is regular sandhi (mohāḥ + māsāt), so only gāti→gati is being flagged."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "'māsān' is māsāt (ablative of time) before m. Whether 'mattavat' qualifies only gait and speech or all four items is not decided. Elliptical: no verb.",
+  "new": "'māsān' is māsāt (ablative of time) before m. Whether 'mattavat' qualifies only gait and speech or all four items is not decided. Elliptical: no verb. Reviewer: 'gātra' (limb/body) for printed 'gāti' is an equally short repair (gātra-vāk-kampa-mohāḥ); not decidable from the print.",
+  "why": "reviewer (minor): Another repair of equal metre is 'gātra' (limb): 'gātra-vāk-kampa-mohāḥ' (limbs, speech, trembling, bewilderment). Not decidable from the print; the draft's 'gati' is fine but 'gātra' should be on record."
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "ārpyate",
+  "old": "is filled, is supplied",
+  "new": "is filled (conjectural; printed ārpyate)",
+  "why": "reviewer (error): Inconsistent: the word is kept as printed 'ārpyate' (ā-√ṛ caus. pass., 'is placed / delivered') but glossed 'is filled, is supplied', which is the meaning of the CONJECTURED 'āpūryate'. DRAFT_BRIEF rule 6: the corrected form goes in `words`. The translation 'filled' rests on the conjecture only."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "ārpyate",
+  "old": "3 sg. pass. (caus.) ā-√ṛ",
+  "new": "3 sg. pass. ā-√pṝ",
+  "why": "reviewer (error): Inconsistent: the word is kept as printed 'ārpyate' (ā-√ṛ caus. pass., 'is placed / delivered') but glossed 'is filled, is supplied', which is the meaning of the CONJECTURED 'āpūryate'. DRAFT_BRIEF rule 6: the corrected form goes in `words`. The translation 'filled' rests on the conjecture only."
+ },
+ {
+  "n": "52",
+  "field": "word.w",
+  "word": "ārpyate",
+  "old": "ārpyate",
+  "new": "āpūryate",
+  "why": "reviewer (error): Inconsistent: the word is kept as printed 'ārpyate' (ā-√ṛ caus. pass., 'is placed / delivered') but glossed 'is filled, is supplied', which is the meaning of the CONJECTURED 'āpūryate'. DRAFT_BRIEF rule 6: the corrected form goes in `words`. The translation 'filled' rests on the conjecture only."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "'ārpyate' is kept as printed (a valid passive form); 'āpūryate' is the likely intended word and would give the same sense ('is filled'). 'svidyataḥ' is 3rd dual, agreeing with 'caraṇau'. 'vaktra' can be face or mouth.",
+  "new": "Printed 'ārpyate' (ā-√ṛ caus. pass.) would mean 'is placed / delivered', not 'is filled'; `words` therefore carry the conjectured 'āpūryate' ('is filled'), as in the text_flag. Both 'ārpyate' and 'āpūryate' sit oddly with the genitive 'aśrūṇām' (instrumental expected); the whole repair is conjectural. 'svidyataḥ' is 3rd dual, agreeing with 'caraṇau'. 'vaktra' can be face or mouth.",
+  "why": "reviewer (error): Inconsistent: the word is kept as printed 'ārpyate' (ā-√ṛ caus. pass., 'is placed / delivered') but glossed 'is filled, is supplied', which is the meaning of the CONJECTURED 'āpūryate'. DRAFT_BRIEF rule 6: the corrected form goes in `words`. The translation 'filled' rests on the conjecture only."
+ },
+ {
+  "n": "57",
+  "field": "word.w",
+  "word": "para-asuḥ",
+  "old": "para-asuḥ",
+  "new": "parā-asuḥ",
+  "why": "reviewer (minor): 'parāsu' is parā- (prefix 'away') + asu, not para ('other') + asu."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "'ariṣṭam' is read a-riṣṭa 'without riṣṭa', agreeing with 'maraṇam'; 'dṛṣṭariṣṭam' = dṛṣṭa-riṣṭa (not dṛṣṭa-ariṣṭa, which would show ā). Copula understood in the second clause.",
+  "new": "'ariṣṭam' is read a-riṣṭa 'without riṣṭa', agreeing with 'maraṇam'; 'dṛṣṭariṣṭam' = dṛṣṭa-riṣṭa (not dṛṣṭa-ariṣṭa, which would show ā). Copula understood in the second clause. Reviewer: ca may carry nāsti into the second clause: 'there is no death without riṣṭa, and no life (in one) in whom riṣṭa has been seen'. This fits u62 (death in riṣṭa is certain) and u60 better than the translation given; OPEN for owner.",
+  "why": "reviewer (error): HUMAN DECISION. The draft supplies a positive copula for the second clause ('there is life in which riṣṭa has been seen'). The more natural reading of 'ariṣṭaṃ nāsti maraṇaṃ dṛṣṭariṣṭaṃ ca jīvitaṃ' shares nāsti: 'there is no death without riṣṭa, and no life (where) riṣṭa is seen'. That also agrees with u62 ('death in riṣṭa is certain') and with u60 (apparent exceptions come from lack of skill). The draft's reading makes u59 contradict u62. Not patched in the translation; the alternative is added to notes."
+ },
+ {
+  "n": "66",
+  "field": "hindi",
+  "old": "उन दोषों के शान्त होने पर वह शान्त हो जाएगा; परन्तु स्थायी निश्चय ही मृत्यु के लिए है।",
+  "new": "उन दोषों के शान्त होने पर शान्त हो जाए; परन्तु स्थायी निश्चय ही मृत्यु के लिए है।",
+  "why": "reviewer (minor): Optative śāmyet rendered as a future with an added pronoun 'वह' (no subject is stated; glossary: Hindi takes no pronoun for an unstated subject)."
+ }
+]

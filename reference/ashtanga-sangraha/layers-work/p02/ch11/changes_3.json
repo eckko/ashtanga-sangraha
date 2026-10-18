@@ -1,0 +1,200 @@
+[
+ {
+  "n": "84",
+  "field": "word.gloss",
+  "word": "lepa-jvara-upatanasya",
+  "old": "coating, smearing (lepa); fever (jvara); upatana unclear (see text_flags); lepa-jvara = a fever of the 'coating' kind, exact identity uncertain (disputed)",
+  "new": "coating, smearing (lepa); fever (jvara); afflicted (upatapta, conjectural; printed upatana); lepa-jvara = a fever of the 'coating' kind, exact identity uncertain (disputed)",
+  "why": "reviewer (minor): Both translations adopt the conjecture upataptasya, but the words keep the printed upatanasya and glossed it 'unclear'; the brief and u101/u104/u116 put the corrected form in `words`."
+ },
+ {
+  "n": "84",
+  "field": "word.w",
+  "word": "lepa-jvara-upatanasya",
+  "old": "lepa-jvara-upatanasya",
+  "new": "lepa-jvara-upataptasya",
+  "why": "reviewer (minor): Both translations adopt the conjecture upataptasya, but the words keep the printed upatanasya and glossed it 'unclear'; the brief and u101/u104/u116 put the corrected form in `words`."
+ },
+ {
+  "n": "86",
+  "field": "word.gram",
+  "word": "cirāt",
+  "old": "m. abl. sg.",
+  "new": "ind. (abl. of cira, adverbial)",
+  "why": "reviewer (minor): cira is not masculine; used adverbially."
+ },
+ {
+  "n": "90",
+  "field": "word.gram",
+  "word": "parivarjayet",
+  "old": "3 sg. opt. pari-√vṛj caus.",
+  "new": "3 sg. opt. pari-√vṛj (10th class)",
+  "why": "reviewer (minor): vṛj with -ay- here is a 10th-class verb, not 'caus.' (glossary)."
+ },
+ {
+  "n": "93",
+  "field": "english",
+  "old": "Having the lustre of śaivāla (water-moss), a cock's comb, kuṅkuma (saffron), āla (probably orpiment) and ink",
+  "new": "Having the lustre of śaivāla (water-moss; the exact plant is disputed), a cock's comb, kuṅkuma (saffron), āla (probably orpiment) and ink",
+  "why": "reviewer (minor): Notes and gloss say the plant is disputed, but the translation states 'water-moss' unhedged (glossary: mark disputed ones in both languages)."
+ },
+ {
+  "n": "93",
+  "field": "hindi",
+  "old": "शैवाल यानी काई जैसी जल की वनस्पति, मुर्गे की कलगी, कुंकुम यानी केसर, आल यानी सम्भवतः हरताल और स्याही की आभा वाले",
+  "new": "शैवाल यानी काई जैसी जल की वनस्पति, जिसकी ठीक पहचान विवादित है, मुर्गे की कलगी, कुंकुम यानी केसर, आल यानी सम्भवतः हरताल और स्याही की आभा वाले",
+  "why": "reviewer (minor): Disputed identity is not hedged in Hindi."
+ },
+ {
+  "n": "96",
+  "field": "hindi",
+  "old": "कफ से उत्पन्न जो पीब के लिए न हो, और मर्म यानी जीवन के मर्मस्थान से उत्पन्न जो पीड़ा के लिए न हो",
+  "new": "कफ से उत्पन्न जो पीब के लिए न हो, और मर्म यानी जीवन-स्थल से उत्पन्न जो पीड़ा के लिए न हो",
+  "why": "reviewer (minor): Circular gloss; siblings (ch05-07) use 'जीवन-स्थल' / 'प्राण के विशेष स्थान'."
+ },
+ {
+  "n": "98",
+  "field": "word.gram",
+  "word": "varjayet",
+  "old": "3 sg. opt. √vṛj caus.",
+  "new": "3 sg. opt. √vṛj (10th class)",
+  "why": "reviewer (minor): 10th-class verb, not 'caus.' (glossary)."
+ },
+ {
+  "n": "98",
+  "field": "hindi",
+  "old": "शक्ति, ध्वज आदि का रूप; उन सब व्रणों को त्याग देना चाहिए",
+  "new": "शक्ति यानी भाले, ध्वज यानी पताका आदि का रूप; उन सब व्रणों को त्याग देना चाहिए",
+  "why": "reviewer (error): Hindi gives bare शक्ति (reads as 'power'); English says spear (śakti), banner (dhvaja). The Hindi must carry the gloss."
+ },
+ {
+  "n": "99",
+  "field": "hindi",
+  "old": "भगन्दर यानी गुदा के पास का नासूर, जो मल, मूत्र और वायु को वहन करता हो और कृमियों वाला हो",
+  "new": "मल, मूत्र और वायु को वहन करने वाले तथा कृमियों वाले भगन्दर यानी गुदा के पास के नासूर को",
+  "why": "reviewer (minor): Adds subjunctive 'हो' verbs the Sanskrit (participial adjectives, accusative) does not have (glossary: no added हो)."
+ },
+ {
+  "n": "102",
+  "field": "notes",
+  "old": "GROUPING: the relative clause continues from 100-101 and 103-106 to 'āturo na sa jīvati' (106); the sentence boundaries are not firm.",
+  "new": "GROUPING: unit 101 already ends in a complete clause ('āturo na sa jīvati'), so 100-101 appears to be one sentence; 102-106 appears to be a second one, in which the participles of 102-103 appear to go with the 'yaḥ' clauses of 104-105 and the main clause of 106. The boundaries are not firm.",
+  "why": "reviewer (minor): u101 already ends in a complete clause (yo 'pāsyati ... āturo na sa jīvati), so 100-101 appears to be one sentence; 102-106 appears to be a second one (participles of 102-103 with the yaḥ clauses of 104-105 and the main clause of 106). The draft note says the relative clause runs 100-106 as one."
+ },
+ {
+  "n": "103",
+  "field": "word.gram",
+  "word": "tāḍayan",
+  "old": "pres. part. caus. √tāḍ, m. nom. sg.",
+  "new": "pres. part. √tāḍ (10th class), m. nom. sg.",
+  "why": "reviewer (minor): tāḍ is 10th class, not a true causative (glossary)."
+ },
+ {
+  "n": "106",
+  "field": "notes",
+  "old": "GROUPING: completes the sentence begun at 100/104. 'chidra' = holes or openings; which openings (e.g. of the body) is not stated. 'vimṛś' can also mean 'considering'; 'touching' taken. A reader may recheck.",
+  "new": "GROUPING: appears to complete the sentence begun at 102 (or 104). 'chidra' = holes or openings; which openings (e.g. of the body) is not stated. 'vimṛś' can also mean 'considering'; 'touching' taken. A reader may recheck.",
+  "why": "reviewer (minor): Matches the correction in u102."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "जिसकी श्वास ऊपर की ओर हो, जिसकी ऊष्मा चली गई हो, जिसके वंक्षण यानी जाँघों के जोड़ पीड़ा से पीड़ित हों, उसे",
+  "new": "जिसकी श्वास ऊपर की ओर हो यानी सम्भवतः कष्टपूर्ण श्वास हो, जिसकी ऊष्मा चली गई हो, जिसके वंक्षण यानी जाँघों के जोड़ पीड़ा से पीड़ित हों, उसे",
+  "why": "reviewer (minor): English has 'probably laboured breathing', Hindi has no modern equivalent or hedge."
+ },
+ {
+  "n": "108",
+  "field": "word.gram",
+  "word": "parivarjayet",
+  "old": "3 sg. opt. pari-√vṛj caus.",
+  "new": "3 sg. opt. pari-√vṛj (10th class)",
+  "why": "reviewer (minor): 10th-class verb, not 'caus.'"
+ },
+ {
+  "n": "109",
+  "field": "hindi",
+  "old": "जिसके विकार बढ़ते हैं और प्रकृति क्षीण होती है",
+  "new": "जिसके विकार यानी विकृतियाँ बढ़ती हैं और प्रकृति यानी स्वाभाविक अवस्था क्षीण होती है",
+  "why": "reviewer (minor): English glosses vikāra as abnormalities and prakṛti as natural state; bare Hindi प्रकृति is ambiguous."
+ },
+ {
+  "n": "113",
+  "field": "english",
+  "old": "Known, accomplished many times, and administered according to rule",
+  "new": "Known, successful many times, and administered according to rule",
+  "why": "reviewer (minor): siddha: draft deliberately departs from glossary 'cooked'. The exception is right (u114 siddhyati = 'succeeds', and vijñāta/avacārita are about proving and use), but 'accomplished' is stilted and breaks the link to u114's 'succeed'. Use 'successful'. Also avacārita: glossary says 'apply' (ch04 k3)."
+ },
+ {
+  "n": "113",
+  "field": "english",
+  "old": "Known, successful many times, and administered according to rule",
+  "new": "Known, successful many times, and applied according to rule",
+  "why": "reviewer (minor): siddha: draft deliberately departs from glossary 'cooked'. The exception is right (u114 siddhyati = 'succeeds', and vijñāta/avacārita are about proving and use), but 'accomplished' is stilted and breaks the link to u114's 'succeed'. Use 'successful'. Also avacārita: glossary says 'apply' (ch04 k3)."
+ },
+ {
+  "n": "113",
+  "field": "word.gloss",
+  "word": "siddham",
+  "old": "accomplished",
+  "new": "successful, proved effective (not 'cooked')",
+  "why": "reviewer (minor): siddha: draft deliberately departs from glossary 'cooked'. The exception is right (u114 siddhyati = 'succeeds', and vijñāta/avacārita are about proving and use), but 'accomplished' is stilted and breaks the link to u114's 'succeed'. Use 'successful'. Also avacārita: glossary says 'apply' (ch04 k3)."
+ },
+ {
+  "n": "113",
+  "field": "word.gloss",
+  "word": "avacāritam",
+  "old": "administered",
+  "new": "applied",
+  "why": "reviewer (minor): siddha: draft deliberately departs from glossary 'cooked'. The exception is right (u114 siddhyati = 'succeeds', and vijñāta/avacārita are about proving and use), but 'accomplished' is stilted and breaks the link to u114's 'succeed'. Use 'successful'. Also avacārita: glossary says 'apply' (ch04 k3)."
+ },
+ {
+  "n": "113",
+  "field": "hindi",
+  "old": "जाना हुआ, बहुत बार सिद्ध हुआ और विधि के अनुसार प्रयुक्त",
+  "new": "जाना हुआ, बहुत बार सफल और विधि के अनुसार प्रयुक्त",
+  "why": "reviewer (minor): Bare सिद्ध hides the 'successful' sense; u114 Hindi uses सफल."
+ },
+ {
+  "n": "114",
+  "field": "hindi",
+  "old": "जिसके लिए औषध सफल नहीं होती, उसका चिकित्सित यानी उपचार नहीं है",
+  "new": "जिसके लिए औषध सफल नहीं होता, उसका चिकित्सित यानी उपचार नहीं है",
+  "why": "reviewer (minor): औषध is masculine in Hindi (औषधि is feminine); u111 uses 'औषध को'."
+ },
+ {
+  "n": "116",
+  "field": "hindi",
+  "old": "अनुमानित पाठ पर, अचानक वर्ण आदि से स्वस्थ होने पर भी वह जीवित नहीं रहता",
+  "new": "अनुमानित पाठ पर, अचानक वर्ण यानी रंग आदि से स्वस्थ होने पर भी वह जीवित नहीं रहता",
+  "why": "reviewer (minor): Bare वर्ण in Hindi is ambiguous (caste/letter); English says 'colour'."
+ },
+ {
+  "n": "118",
+  "field": "english",
+  "old": "In the house of the patient, of whom (ones) break or fall",
+  "new": "Of the patient in whose house (ones) break or fall",
+  "why": "reviewer (error): Unintelligible: 'yasya' is the relative genitive of the patient; the stated subject is in u119."
+ },
+ {
+  "n": "118",
+  "field": "hindi",
+  "old": "रोगी के घर में, जिसके, फूटते हैं या गिरते हैं",
+  "new": "जिस रोगी के घर में फूटते हैं या गिरते हैं",
+  "why": "reviewer (error): Stray comma and dangling 'जिसके'."
+ },
+ {
+  "n": "122",
+  "field": "hindi",
+  "old": "इस प्रकार विकृत-व्याधि-विज्ञानीय नाम का ग्यारहवाँ अध्याय",
+  "new": "इस प्रकार विकृतव्याधिविज्ञानीय नामक ग्यारहवाँ अध्याय",
+  "why": "reviewer (minor): Siblings (ch09 u71, ch10 u69) write the chapter name unhyphenated with 'नामक'."
+ },
+ {
+  "n": "122",
+  "field": "english",
+  "old": "Thus the eleventh chapter, named Vikṛtavyādhivijñānīya",
+  "new": "Thus the eleventh chapter, named Vikṛtavyādhivijñānīya.",
+  "why": "reviewer (minor): Add final full stop like ch10 u69."
+ }
+]

@@ -1,0 +1,765 @@
+{
+ "units": [
+  {
+   "n": "121",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "Word order \"Thus, her from whom ... one should sprinkle\" is hard to read; meaning unchanged.",
+     "fix": "Thus one should sprinkle with warm water her from whom the śalya (dart, foreign body) has been drawn out.",
+     "severity": "minor",
+     "patch": {
+      "n": "121",
+      "op": "set",
+      "field": "english",
+      "value": "Thus one should sprinkle with warm water her from whom the śalya (dart, foreign body) has been drawn out."
+     }
+    }
+   ]
+  },
+  {
+   "n": "122",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mṛduḥ",
+     "problem": "Labelled \"m. nom. sg.\" but it stands beside feminine yoniḥ; label as an adjective and let the note carry the gender point.",
+     "fix": "adj. nom. sg. (masculine form beside feminine yoniḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "123",
+      "op": "word",
+      "match_w": "mṛduḥ",
+      "field": "gram",
+      "value": "adj. nom. sg. (masculine form beside feminine yoniḥ)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tena",
+     "problem": "\"n. inst. sg.\" chooses a gender the line does not fix (the form is shared by m. and n.).",
+     "fix": "m./n. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "123",
+      "op": "word",
+      "match_w": "tena",
+      "field": "gram",
+      "value": "m./n. inst. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "\"list of drugs in the accusative\"",
+     "problem": "Note says the drugs are in the accusative, but gram labels dīpyaka/ativiṣā/rāsnā as nominative forms. The items are bare list forms; only pañcakolakān is a clear accusative plural.",
+     "fix": "this unit is only the list of drugs (bare list forms, ending in the accusative plural pañcakolakān).",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "replace",
+      "field": "notes",
+      "old": "this unit is only the list of drugs in the accusative.",
+      "new": "this unit is only the list of drugs (bare list forms, ending in the accusative plural pañcakolakān)."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "\"gu\" printed at the head of the second token",
+     "problem": "The note says \"gu\" sits at the head of the second token; the print is hiṃ | gvelā, so the second token begins with \"gv\" (hiṅgu + elā = hiṅgvelā).",
+     "fix": "the printed hiṃ is hiṅ- and the \"gv\" at the head of the second token completes hiṅgv- (hiṅgu + elā -> hiṅgvelā)",
+     "severity": "minor",
+     "patch": {
+      "n": "124",
+      "op": "replace",
+      "field": "notes",
+      "old": "the first token carries hiṅgu whole and the \"gu\" printed at the head of the second token is part of it",
+      "new": "the printed hiṃ is hiṅ- and the \"gv\" at the head of the second token completes hiṅgv- (hiṅgu + elā gives hiṅgvelā); the first token is given as hiṅgu whole"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pañcakolakas (the group of five)",
+     "problem": "Policy wants the modern identification beside a standard group name. Pañcakolaka is the well-known set pippalī, pippalīmūla, cavya, citraka, śuṇṭhī (standard in the Āyurvedic tradition); the draft keeps this only in notes and the Hindi gives only \"group of five\". Tagged \"usually\", with the line not naming them.",
+     "fix": "pañcakolakas (the group of five; usually pippalī, pippalīmūla, cavya, citraka and śuṇṭhī, though this line does not name them)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "124",
+       "op": "replace",
+       "field": "english",
+       "old": "the pañcakolakas (the group of five)",
+       "new": "the pañcakolakas (the group of five; usually pippalī, pippalīmūla, cavya, citraka and śuṇṭhī, though this line does not name them)"
+      },
+      {
+       "n": "124",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पंचकोलक यानी पाँच का समूह",
+       "new": "पंचकोलक यानी पाँच का समूह, जिसमें सामान्यतः पिप्पली, पिप्पलीमूल, चव्य, चित्रक और सोंठ गिने जाते हैं, पर यह पंक्ति उन्हें नाम से नहीं कहती"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "125",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "128",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saptāham",
+     "problem": "Gender \"n.\" given for a time compound in -aha (m. or n. by usage); the line does not fix it.",
+     "fix": "acc. sg. (duration)",
+     "severity": "minor",
+     "patch": {
+      "n": "128",
+      "op": "word",
+      "match_w": "saptāham",
+      "field": "gram",
+      "value": "acc. sg. (duration)"
+     }
+    },
+    {
+     "field": "english/hindi",
+     "where": "trirātram evam saptāham",
+     "problem": "HUMAN DECISION (draft already open): successive periods (\"three nights, then seven days\") versus alternatives (\"three nights or seven days\"); \"evam\" may also mean \"in this same way\" (i.e. the drug forms of 125 given for these periods). Not patchable; the draft wording is neutral.",
+     "fix": "keep as is, owner decides",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "129",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आसव",
+     "problem": "Hindi gives the gloss (fermented medicinal drink) only for ariṣṭa; āsava stands bare while the English glosses both.",
+     "fix": "और उसी प्रकार भली-भाँति बनाया हुआ आसव यानी खमीर उठाकर बनाया औषधीय पेय",
+     "severity": "minor",
+     "patch": {
+      "n": "129",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भली-भाँति बनाया हुआ आसव",
+      "new": "भली-भाँति बनाया हुआ आसव यानी खमीर उठाकर बनाया औषधीय पेय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "132",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prayo",
+     "problem": "ALTERNATIVE for the owner (not patched): prayo may be an OCR insertion of r for payo \"milk\": \"payo vātaharaiḥ siddhaṃ\" = milk cooked with Vāta-removing (drugs) is beneficial in the meal for ten days, parallel to \"raso daśāhaṃ ca\" in 133. Metre does not decide (pa-yo and pra-yo are both two syllables). The draft reading prāyaḥ \"mostly\" is also possible but leaves the thing cooked unstated. The deliberate checker warning for prayo -> prāyaḥ stands; add payo as a second candidate in the flag/note.",
+     "fix": "add \"or payo (milk)\" to the flag why",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "siddham, hitam",
+     "problem": "Adjectives for an unstated noun carry gender \"n.\" in gram; GLOSSARY: case and number only.",
+     "fix": "nom. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "132",
+       "op": "word",
+       "match_w": "siddham",
+       "field": "gram",
+       "value": "nom. sg."
+      },
+      {
+       "n": "132",
+       "op": "word",
+       "match_w": "hitam",
+       "field": "gram",
+       "value": "nom. sg."
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "daśa-aham",
+     "problem": "Gender \"n.\" not fixed by the line.",
+     "fix": "acc. sg. (duration)",
+     "severity": "minor",
+     "patch": {
+      "n": "132",
+      "op": "word",
+      "match_w": "daśa-aham",
+      "field": "gram",
+      "value": "acc. sg. (duration)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "133",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daśa-aham",
+     "problem": "Same as 132: avoid the gender label.",
+     "fix": "acc. sg. (duration)",
+     "severity": "minor",
+     "patch": {
+      "n": "133",
+      "op": "word",
+      "match_w": "daśa-aham",
+      "field": "gram",
+      "value": "acc. sg. (duration)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "134",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्नेहों",
+     "problem": "Bare स्नेह reads as affection (GLOSSARY); every earlier unit glosses it, this one does not.",
+     "fix": "बलातैल आदि स्नेहों यानी तेलों या वसाओं का सेवन करे",
+     "severity": "minor",
+     "patch": {
+      "n": "134",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बलातैल आदि स्नेहों का सेवन करे",
+      "new": "बलातैल आदि स्नेहों यानी तेलों या वसाओं का सेवन करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "135",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sukhāni",
+     "problem": "Adjective for an unstated noun: GLOSSARY says case and number, no gender.",
+     "fix": "nom./acc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "135",
+      "op": "word",
+      "match_w": "sukhāni",
+      "field": "gram",
+      "value": "nom./acc. pl."
+     }
+    },
+    {
+     "field": "english/hindi",
+     "where": "whole unit",
+     "problem": "HUMAN DECISION (draft already low): the unit is elliptical; no change proposed. If the verb is bhajet of 134 the Hindi \"वह ... सुखद\" is unfinished, which is acceptable under the no-supplied-words rule.",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "balā oil (balātaila)",
+     "problem": "Policy: the plant identification belongs beside the Sanskrit name in the translation too, not only in the gloss (137 does this). Hindi also has no identification of balā.",
+     "fix": "Now we shall teach the oil of balā (country mallow), balātaila.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "136",
+       "op": "set",
+       "field": "english",
+       "value": "Now we shall teach the oil of balā (country mallow), balātaila."
+      },
+      {
+       "n": "136",
+       "op": "set",
+       "field": "hindi",
+       "value": "अब हम बला यानी बरियार के तैल, बलातैल, का उपदेश करेंगे।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one part of the decoction of yava",
+     "problem": "\"bhāgo\" is a single \"part\"; \"one\" supplies a numeral (GLOSSARY: no supplied numerals; English \"a\"). Hindi एक is kept per the open glossary point.",
+     "fix": "a part of the decoction of yava (barley)",
+     "severity": "minor",
+     "patch": {
+      "n": "137",
+      "op": "replace",
+      "field": "english",
+      "old": "one part of the decoction of yava (barley)",
+      "new": "a part of the decoction of yava (barley)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तेल का एक भाग जिसकी मात्रा अस्पष्ट है",
+     "problem": "Self-contradictory and supplies a numeral for the unrestorable token (bhāgaś ... tailasya has no numeral that can be read).",
+     "fix": "तेल का भाग, जिसकी मात्रा अस्पष्ट है",
+     "severity": "error",
+     "patch": {
+      "n": "137",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेल का एक भाग जिसकी मात्रा अस्पष्ट है",
+      "new": "तेल का भाग, जिसकी मात्रा अस्पष्ट है"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kākolī, kṣīrakākolī, jīvaka, ṛṣabhaka",
+     "problem": "Disputed identifications (gloss, notes) are not marked in either translation, although the glossary requires \"(identity disputed)\" in both languages; same for medā, mahāmedā, tagara and the unidentified kṣīraśuklā. Hindi also lacks the hedged names the English gives for mudgaparṇī and māṣaparṇī, and a candidate for śatapuṣpā.",
+     "fix": "mark disputed/unidentified names in both languages (patches below)",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "english",
+       "old": "kākolī, kṣīrakākolī, jīvaka, ṛṣabhaka, mudgaparṇī",
+       "new": "kākolī, kṣīrakākolī, jīvaka, ṛṣabhaka (identities of these four disputed), mudgaparṇī"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "english",
+       "old": "medā, mahāmedā, kṣīraśuklā, madhuka",
+       "new": "medā (identity disputed), mahāmedā (identity disputed), kṣīraśuklā (unidentified), madhuka"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "english",
+       "old": "balā, tagara, kuṣṭha (costus)",
+       "new": "balā, tagara (identity disputed), kuṣṭha (costus)"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "hindi",
+       "old": "काकोली, क्षीरकाकोली, जीवक, ऋषभक, मुद्गपर्णी, माषपर्णी, मेदा और महामेदा नामक द्रव्य, क्षीरशुक्ला,",
+       "new": "काकोली, क्षीरकाकोली, जीवक, ऋषभक जिन चारों की पहचान विवादित है, मुद्गपर्णी यानी सम्भवतः जंगली मूँग, माषपर्णी यानी सम्भवतः जंगली उड़द, मेदा और महामेदा नामक द्रव्य जिनकी पहचान विवादित है, क्षीरशुक्ला जिसकी पहचान अज्ञात है,"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "hindi",
+       "old": "तगर, कुष्ठ यानी कूठ",
+       "new": "तगर जिसकी पहचान विवादित है, कुष्ठ यानी कूठ"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "hindi",
+       "old": "शतपुष्पा जिसकी पहचान विवादित है",
+       "new": "शतपुष्पा यानी सोआ या सौंफ जिसकी पहचान विवादित है"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "kālānusārya",
+     "problem": "OBSERVATION (no patch): \"unidentified\" may be too weak. In Āyurvedic usage kālānusāryā/kālānusārivā is a recognised drug name, given by commentators as a kind of tagara or \"black sārivā\" (and, in later usage, benzoin resin); all uncertain. Suggest \"disputed (tagara-type or black sārivā?)\" in the gloss and note, keep \"conjectural reading\" for the printed -sārthya. Owner decides; the glossary item for suradāru/asuradāru is separate.",
+     "fix": "gloss \"disputed\" with candidates",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "bhāgaścaiturdaśatailasya",
+     "problem": "Devanagari checked (भागश्चैतुर्दशतैलस्य): the stretch is as printed; the unsplit handling, \"unclear\" gloss and \"on a conjectural reading\" in both translations follow the glossary. Also ślakṣṇacūrṇāni with the long list: acceptable. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "daivāepaghāta",
+     "problem": "The Devanagari is दैवाेपघात: the o-matra is printed as ā-matra + e-matra (a typographic split of ो), so IAST daivāepaghāta is a mechanical rendering and the reading daivopaghāta is essentially what is printed, not a garbled guess. The real conjecture is mamo -> mano (ममो). The \"conjectural reading\" hedge in the translations can stay (mano), but the flag why should say this.",
+     "fix": "possible: mamo is probably mano (m/n confusion). daivāepaghāta is the Devanagari o-matra printed as ā + e (दैवाेपघात = daivopaghāta), a typographic split rather than damage; the conjecture lies in mamo -> mano.",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: mamo is probably mano (m/n confusion). daivāepaghāta is the Devanagari o-matra printed as ā + e (दैवाेपघात = daivopaghāta), a typographic split rather than damage; the conjecture lies in mamo -> mano."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rājamātrāṇām",
+     "problem": "OBSERVATION (no patch): \"rājamātra\" occurs in other Āyurvedic texts in the sense of a person of royal rank (king-like); the draft treats it as unclear, which is the safe course. Owner may prefer \"persons of royal rank (probably)\" in a hedged form. Hindi \"राजमात्रों जिस शब्द का अर्थ अस्पष्ट है\" is awkward but allowed.",
+     "fix": "keep or hedge as \"probably persons of royal rank\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "142",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "143",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "basti-dvāre",
+     "problem": "Gloss \"urinary bladder region; standard\" is firmer than the note, which admits the pelvic outlet or other senses.",
+     "fix": "basti (bladder region; sense here uncertain); door, opening",
+     "severity": "minor",
+     "patch": {
+      "n": "143",
+      "op": "word",
+      "match_w": "basti-dvāre",
+      "field": "gloss",
+      "value": "basti (bladder region; sense here uncertain); door, opening"
+     }
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "147",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english/hindi",
+     "where": "payasyā",
+     "problem": "GLOSSARY: payasyā carries a candidate name with \"disputed\" in both languages; 145 does, 147 does not. Same in 156 and 157.",
+     "fix": "add the candidate (Indian kudzu / विदारीकन्द)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "147",
+       "op": "replace",
+       "field": "english",
+       "old": "payasyā (identity disputed)",
+       "new": "payasyā (identity disputed; perhaps the Indian kudzu)"
+      },
+      {
+       "n": "147",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पयस्या जिसकी पहचान विवादित है,",
+       "new": "पयस्या जिसकी पहचान विवादित है, सम्भवतः विदारीकन्द,"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "उत्पल",
+     "problem": "English hedges utpala (\"probably blue water lily\"), Hindi gives none (GLOSSARY: Hindi must carry the English hedges).",
+     "fix": "उत्पल यानी सम्भवतः नीलकमल सहित सारिवा",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्पल सहित सारिवा",
+      "new": "उत्पल यानी सम्भवतः नीलकमल सहित सारिवा"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vṛkṣadanī",
+     "problem": "Print has vṛkṣadanī (short a); the usual name is vṛkṣādanī (vṛkṣa-adanī, \"tree-eater\"). Read as printed; no emendation. Note only.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "147",
+      "op": "append_note",
+      "text": "Printed vṛkṣadanī (short a): the usual spelling of the drug name is vṛkṣādanī (vṛkṣa-adanī); kept as printed, no emendation made."
+     }
+    }
+   ]
+  },
+  {
+   "n": "148",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "149",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बृहतीद्वय",
+     "problem": "English hedges (\"probably\") the identification of the two bṛhatīs, Hindi states it flat.",
+     "fix": "बृहतीद्वय यानी सम्भवतः बड़ी और छोटी कटेरी",
+     "severity": "minor",
+     "patch": {
+      "n": "149",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृहतीद्वय यानी बड़ी और छोटी कटेरी",
+      "new": "बृहतीद्वय यानी सम्भवतः बड़ी और छोटी कटेरी"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bark of the shoots (śuṅga) of milk-yielding trees",
+     "problem": "HUMAN DECISION (draft open): \"bark of the shoots\" is the less natural reading; shoots/buds do not have bark worth a drug. The plural ending -tvacaḥ and the drug-list context favour a dvandva \"shoots and bark of the milk-yielding (kṣīrin) trees\", the reading usually taken by commentators. Not patched; owner decides.",
+     "fix": "the shoots and the bark of milk-yielding trees",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "150",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "151",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कसेरू नामक कन्द",
+     "problem": "The identification only repeats the name (GLOSSARY: must not merely repeat the Sanskrit name); English gives \"sedge tuber\".",
+     "fix": "कसेरु यानी सम्भवतः मोथा-कुल का कसेरू नामक कन्द",
+     "severity": "minor",
+     "patch": {
+      "n": "151",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कसेरु यानी सम्भवतः कसेरू नामक कन्द",
+      "new": "कसेरु यानी सम्भवतः मोथा-कुल का कसेरू नामक कन्द"
+     }
+    }
+   ]
+  },
+  {
+   "n": "152",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "153",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "154",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bṛhatī",
+     "problem": "English leaves bṛhatī without its identification although Hindi and notes give it (and nidigdhikā is glossed in the same line).",
+     "fix": "bṛhatī (large nightshade)",
+     "severity": "minor",
+     "patch": {
+      "n": "154",
+      "op": "replace",
+      "field": "english",
+      "old": "bilva (bael), bṛhatī, paṭola",
+      "new": "bilva (bael), bṛhatī (large nightshade), paṭola"
+     }
+    }
+   ]
+  },
+  {
+   "n": "155",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english/hindi",
+     "where": "māse tathā aṣṭame",
+     "problem": "HUMAN DECISION (draft already low): there is a likelier parse than \"in the month, and likewise in the eighth\". Unit 153 limits the seven combinations (145-151) to the seven months, so 154-155 naturally start the eighth month: māse ... aṣṭame in agreement, \"in the eighth month\", with tathā \"likewise/also\": \"One should use milk boiled with roots, likewise, in the eighth month\" (156 then gives the ninth, 157-158 the tenth). The draft rendering invents an unspecified \"month\". Not patched because the print could also have lost an ordinal; owner decides.",
+     "fix": "One should use milk boiled with the roots in the eighth month, likewise.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "156",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english/hindi",
+     "where": "payasyā",
+     "problem": "Add the candidate as in 145 (see 147).",
+     "fix": "candidate added",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "156",
+       "op": "replace",
+       "field": "english",
+       "old": "payasyā (identity disputed)",
+       "new": "payasyā (identity disputed; perhaps the Indian kudzu)"
+      },
+      {
+       "n": "156",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पयस्या जिसकी पहचान विवादित है,",
+       "new": "पयस्या जिसकी पहचान विवादित है, सम्भवतः विदारीकन्द,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "157",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english/hindi",
+     "where": "payasyayā",
+     "problem": "Add the candidate as in 145 (see 147).",
+     "fix": "candidate added",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "157",
+       "op": "replace",
+       "field": "english",
+       "old": "payasyā (identity disputed)",
+       "new": "payasyā (identity disputed; perhaps the Indian kudzu)"
+      },
+      {
+       "n": "157",
+       "op": "replace",
+       "field": "hindi",
+       "old": "है, उससे",
+       "new": "है, सम्भवतः विदारीकन्द, उससे"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "158",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "159",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "garbha-vyāpad-nāma",
+     "problem": "nāma is an indeclinable (\"named\"), so \"n. nom. sg.\" is wrong for the whole word.",
+     "fix": "tat-puruṣa garbha-vyāpad + ind. nāma (named)",
+     "severity": "minor",
+     "patch": {
+      "n": "159",
+      "op": "word",
+      "match_w": "garbha-vyāpad-nāma",
+      "field": "gram",
+      "value": "tat-puruṣa garbha-vyāpad + ind. nāma (named)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 4 (units 121-159), drug recipes for the pregnant woman. All 13 draft text_flags judged plausible and correctly kept as printed with the corrected form only in words (rāsnā, hiṅgu, kvātha, tvagghiṅgu, aśvagandhā, kālānusārya, icchayā, bhavanti, nidigdhikā, aikyam, pathyā, ṣaṇmāsād antra). Main findings: u137 Hindi/English did not mark the disputed or unidentified drugs (kākolī group, medā, mahāmedā, tagara, kṣīraśuklā), Hindi lacked hedges for mudgaparṇī/māṣaparṇī, Hindi supplied 'एक' for the unreadable oil measure, English supplied 'one'; u138 daivāepaghāta is only a split o-matra in the Devanagari (the real conjecture is mamo->mano); u132 has a plausible alternative payo (milk) beside prāyaḥ; u155 likelier parses as 'in the eighth month'; u149 'bark of the shoots' doubtful (shoots and bark of the milk-yielding trees); kālānusārya may be 'disputed' rather than 'unidentified'. Identifications otherwise sound and properly hedged. Human decisions: 128, 132, 135, 137 (kālānusārya), 138 (rājamātra), 149, 155. No regrouping needed.",
+ "glossary_suggestions": [
+  "Devanagari ाे (ā-matra + e-matra) is the o-matra printed split; IAST renders it 'āe'. Treat 'āe' strings as ो (daivāepaghāta = daivopaghāta), not as damage; note once.",
+  "payasyā: always add the candidate in translations: English 'identity disputed; perhaps the Indian kudzu', Hindi 'सम्भवतः विदारीकन्द'.",
+  "Disputed or unidentified drug names in long recipe lists must be marked in both translations (kākolī, kṣīrakākolī, jīvaka, ṛṣabhaka, medā, mahāmedā, tagara, kṣīraśuklā).",
+  "Hindi mudgaparṇī = सम्भवतः जंगली मूँग; māṣaparṇī = सम्भवतः जंगली उड़द; śatapuṣpā = सोआ या सौंफ (विवादित); utpala = सम्भवतः नीलकमल; bṛhatī-dvaya = सम्भवतः बड़ी और छोटी कटेरी; kapittha = कैथ.",
+  "pañcakolaka = usually pippalī, pippalīmūla, cavya, citraka, śuṇṭhī (state once, hedge 'usually', the text does not name them).",
+  "kālānusārya: consider 'disputed' (tagara-type or black sārivā) instead of 'unidentified'.",
+  "Time compounds in -aha (trirātra, saptāha, daśāha): gram 'acc. sg. (duration)' without gender.",
+  "vṛkṣadanī printed for vṛkṣādanī: read as printed, note only.",
+  "Open: u132 prayo = prāyaḥ or payo (milk); u155 'māse tathā aṣṭame' = 'in the eighth month, likewise'; u149 kṣīri-śuṅga-tvacaḥ as dvandva (shoots and bark of milk trees); amaradāru/suradāru/devadāru all deodar synonyms, keep hedges consistent."
+ ]
+}

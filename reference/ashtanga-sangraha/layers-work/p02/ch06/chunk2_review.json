@@ -1,0 +1,408 @@
+{
+ "units": [
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "rohiṇyaḥ",
+     "severity": "minor",
+     "problem": "rohiṇī left as 'uncertain'. In the parallel Suśruta vessel passage the blood-carrying vessels are, to my recollection, called rohiṇī in the sense 'red', and the colours given there for the Vāta, Pitta and Kapha vessels (aruṇa; nīla/pīta; gaura) match 44-46 here. 'Red' is therefore a probable sense; wording left to the owner (the draft's hedge is safe).",
+     "fix": "Optionally: rohiṇī 'red (probable; literally rising, growing)' with the Hindi hedged सम्भवतः लाल."
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yathāsvamaṃgavayavā",
+     "severity": "minor",
+     "problem": "Printed 'aṃgavayavā' (Deva. ंगवयवा) has no long ā; aṅga + avayava must contract to aṅgāvayava. The split aṅga-avayavāḥ silently restores it (a missing mātra), so it needs a flag.",
+     "fix": "add text_flag",
+     "patch": {
+      "n": "54",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tatastābhiryathāsvamaṃgavayavā",
+        "suggest": "tatas tābhir yathāsvam aṅgāvayavā",
+        "why": "possible: aṅga + avayava should contract to aṅgāvayava; the long ā-mātra is missing in the print (words keep the two members aṅga-avayavāḥ)"
+       }
+      ]
+     }
+    },
+    {
+     "field": "english",
+     "where": "the limbs and their parts",
+     "severity": "minor",
+     "problem": "'their' is not in the Sanskrit (aṅgāvayavāḥ, 'limbs and parts'; the dvandva/tat-puruṣa choice is already in the note).",
+     "fix": "the limbs and parts",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "the limbs and their parts",
+      "new": "the limbs and parts"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vahaṃtaḥ",
+     "severity": "minor",
+     "problem": "A second, smaller correction exists: vahataḥ (3 du. 'carry'), one printed anusvāra away, matching the finite dual verbs of 59 and 62 ('dve ... vahataḥ'); 'dve dve' would then be 'two and two carry'. The draft's vahantyaḥ is also construable; the choice is the owner's. Translation 'carrying' reads equally for both.",
+     "fix": "note the alternative",
+     "patch": {
+      "n": "56",
+      "op": "append_note",
+      "text": "Alternative conjecture: vahataḥ (3 du., 'two and two carry'), one anusvāra off the print and parallel to the finite verbs of 59 and 62; vahantyaḥ remains possible."
+     }
+    },
+    {
+     "field": "english",
+     "where": "conjectural mark",
+     "severity": "minor",
+     "problem": "The adopted vahantyaḥ is a correction but neither translation carries 'on a conjectural reading' (glossary: a correction adopted in a translation needs the mark in both languages). Here only the gender of a participle changes, the sense is identical, so this is left to the owner; the same applies to 65 (bhavanti).",
+     "fix": "owner decision: mark or accept"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "aṣṭābhiḥ",
+     "severity": "minor",
+     "problem": "aṣṭābhiḥ is gender-neutral by form and stands for an unstated noun: no gender in gram (glossary).",
+     "fix": "inst. pl.",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "aṣṭābhiḥ",
+      "field": "gram",
+      "value": "inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvābhyām",
+     "severity": "minor",
+     "problem": "dvābhyām is gender-neutral by form and stands for an unstated noun: no gender in gram.",
+     "fix": "inst. du.",
+     "patch": {
+      "n": "58",
+      "op": "word",
+      "match_w": "dvābhyām",
+      "field": "gram",
+      "value": "inst. du.",
+      "occurrence": "all"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "nourish the sweat",
+     "severity": "error",
+     "problem": "abhitarpayanti is rendered 'nourish' in English but literally 'satiate' in Hindi (तृप्त करती हैं); the glossary fixes tarpaṇa = satiation, and the translation should be the literal rendering with the interpretation only in notes.",
+     "fix": "satiate the sweat (sveda)",
+     "patch": [
+      {
+       "n": "64",
+       "op": "replace",
+       "field": "english",
+       "old": "nourish the sweat",
+       "new": "satiate the sweat"
+      },
+      {
+       "n": "64",
+       "op": "word",
+       "match_w": "abhitarpayanti",
+       "field": "gloss",
+       "value": "satiate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "become",
+     "severity": "minor",
+     "problem": "Adopted bhavanti (printed bhavati) is not marked 'on a conjectural reading' in either translation; number-only change, owner decision (see 56).",
+     "fix": "owner decision: mark or accept"
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prāṇa-udaka-anna-dhātu-malānām",
+     "severity": "minor",
+     "problem": "The dvandva is labelled 'n.'; its last member mala is masculine (neuter only by agreement with āyatanāni), and the gender of a genitive plural dvandva should not be asserted.",
+     "fix": "dvandva, gen. pl.",
+     "patch": {
+      "n": "67",
+      "op": "word",
+      "match_w": "prāṇa-udaka-anna-dhātu-malānām",
+      "field": "gram",
+      "value": "dvandva, gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "mahāsrotas",
+     "severity": "minor",
+     "problem": "Policy wants candidate identifications beside disputed terms (as done for kloma in 72); the draft gives none for mahāsrotas.",
+     "fix": "candidates in a note",
+     "patch": {
+      "n": "68",
+      "op": "append_note",
+      "text": "mahāsrotas (disputed): in Caraka-type usage the great channel is the alimentary tract (koṣṭha); some commentators take the large vessels at the heart; unresolved here, so the term is kept untranslated beyond 'great channel'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आमाशय यानी सम्भवतः पेट",
+     "severity": "error",
+     "problem": "Glossary (p02 ch05 k5): Hindi āmāśaya = जठर, not bare पेट (पेट = udara).",
+     "fix": "आमाशय यानी सम्भवतः जठर",
+     "patch": {
+      "n": "75",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्भवतः पेट है",
+      "new": "सम्भवतः जठर है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जघन यानी कूल्हा",
+     "severity": "minor",
+     "problem": "English hedges jaghana ('hips or loins region, probable') but the Hindi states 'कूल्हा' unhedged and narrower; Hindi must carry the same hedge.",
+     "fix": "जघन यानी सम्भवतः कूल्हा या कमर का क्षेत्र",
+     "patch": {
+      "n": "81",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जघन यानी कूल्हा",
+      "new": "जघन यानी सम्भवतः कूल्हा या कमर का क्षेत्र"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "marrow (majjā)",
+     "severity": "minor",
+     "problem": "Glossary line 'majjā = kernel in all units' comes from drug chapters; here the dhātu sense 'marrow' is right. Owner should scope the glossary entry (anatomy = marrow).",
+     "fix": "no change to the unit"
+    }
+   ]
+  }
+ ],
+ "summary": "41 units checked word by word against the printed lines. Draft is sound: no invented content, counts as printed (24; 10+10+4; 13; 30 = 10+8+8+4; 9 + 3), all eight text_flags plausible and marked conjectural, low-confidence units (51, 52, 61) correctly unenriched, glossary mostly followed. 2 errors fixed by patch (u64 satiate, u75 जठर) plus 11 minor items: missing flag for the silent aṅgāvayava restoration (u54), gender labels on numerals, dvandva gender (u67), unhedged Hindi jaghana (u81). Observations without patch: alternative vahataḥ for u56 (patched as note), conjectural marks for number-only corrections (u56, u65), rohiṇī possibly 'red' (u48), majjā glossary scope. Identifications all acceptably hedged; none judged wrong. The u50 'की तरह', u69 vyāyā|mavega, u72 kloma, u76 Mātrāśitīya and verb-carry choices are acceptable as drafted.",
+ "glossary_suggestions": [
+  "majjā = 'kernel' in drug/plant units but 'marrow' in anatomical (dhātu) units such as p02 ch06 u82.",
+  "abhitarpayanti = 'satiate' (literal); tarpaṇa = satiation in both languages, 'nourish' only in notes.",
+  "Numerals (aṣṭābhiḥ, dvābhyām) standing for an unstated noun: case and number only in gram, no gender.",
+  "Hindi āmāśaya = जठर (p02 ch06 u75 followed).",
+  "mahāsrotas: candidates alimentary tract / large vessels, disputed; keep 'great channel'."
+ ]
+}
