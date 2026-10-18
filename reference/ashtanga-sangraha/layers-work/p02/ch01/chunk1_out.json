@@ -807,5 +807,878 @@
   "text_flags": [],
   "notes": "Identification: śukra = semen (standard). majjan = marrow (probable; here the body tissue majjā, not a seed kernel). 'tatra' is taken as 'there/in that case'.",
   "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatu",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrahava",
+      "words": [
+       {
+        "w": "kṣīre",
+        "gloss": "in milk",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarpirikṣurasahava",
+      "words": [
+       {
+        "w": "sarpiḥ",
+        "gloss": "ghee (clarified butter)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ikṣu-rase",
+        "gloss": "sugarcane; juice",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guḍaḥ",
+      "words": [
+       {
+        "w": "guḍaḥ",
+        "gloss": "jaggery",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukradharāṃ",
+      "words": [
+       {
+        "w": "śukra-dharām",
+        "gloss": "śukra (semen); bearing",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalāmāśritya",
+      "words": [
+       {
+        "w": "kalām",
+        "gloss": "kalā (a membranous layer of the body; doctrinal term)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āśritya",
+        "gloss": "having resorted to, resting in",
+        "gram": "abs. ā-√śri"
+       }
+      ]
+     },
+     {
+      "src": "sarbogavyāpitayā",
+      "words": [
+       {
+        "w": "sarva-aṅga-vyāpitayā",
+        "gloss": "all; limbs; by pervading",
+        "gram": "tat-puruṣa, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthitaṃ",
+      "words": [
+       {
+        "w": "sthitam",
+        "gloss": "abiding",
+        "gram": "ppp. √sthā, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣataśca",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "majjamuṣkastaneṣu",
+      "words": [
+       {
+        "w": "majja-muṣka-staneṣu",
+        "gloss": "marrow (majjā); testicle (muṣka; standard); breast",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "harṣodīritaṃ",
+      "words": [
+       {
+        "w": "harṣa-udīritam",
+        "gloss": "excitement; stirred up",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃprahanena",
+      "words": [
+       {
+        "w": "saṃprahanena",
+        "gloss": "by striking together (saṃprahana; probably sexual union)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayāveśātpiṃḍībhūtamaṃgādaṃgātpravartate",
+      "words": [
+       {
+        "w": "hṛdaya-āveśāt",
+        "gloss": "heart; from entering, from possession",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "piṇḍī-bhūtam",
+        "gloss": "lump; become",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅgāt",
+        "gloss": "from limb",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "aṅgāt",
+        "gloss": "from limb",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "pravartate",
+        "gloss": "issues, comes forth",
+        "gram": "3 sg. pres. ā. pra-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tatsaumyaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "saumyam",
+        "gloss": "gentle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhaṃ",
+      "words": [
+       {
+        "w": "snigdham",
+        "gloss": "unctuous",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru",
+      "words": [
+       {
+        "w": "guru",
+        "gloss": "heavy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuklaṃmadhugaṃdhi",
+      "words": [
+       {
+        "w": "śuklam",
+        "gloss": "white",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "madhu-gandhi",
+        "gloss": "honey; smelling of",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhuraṃ",
+      "words": [
+       {
+        "w": "madhuram",
+        "gloss": "sweet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "picchilaṃ",
+      "words": [
+       {
+        "w": "picchilam",
+        "gloss": "slimy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahu",
+      "words": [
+       {
+        "w": "bahu",
+        "gloss": "abundant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahalaṃ",
+      "words": [
+       {
+        "w": "bahalam",
+        "gloss": "thick, dense",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghṛtatailakṣaudrānyatamavarṇaṃ",
+      "words": [
+       {
+        "w": "ghṛta-taila-kṣaudra-anyatama-varṇam",
+        "gloss": "ghee; oil; honey (kṣaudra); any one of; colour",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukraṃgarbhādhānayogyaṃ",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "śukra (semen; standard)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "garbha-ādhāna-yogyam",
+        "gloss": "embryo (garbha); placing, conception; fit",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह, दूध में घी और ईख के रस में गुड़ की तरह, शरीर में शुक्रधरा कला का आश्रय लेकर समस्त अंगों में व्याप्त होने से स्थित रहता है, और विशेषकर मज्जा, मुष्क यानी वृषण और स्तनों में; हर्ष से और संप्रहनन से प्रेरित होकर, हृदय के आवेश से, पिण्ड बनकर, अंग-अंग से निकलता है। वह सौम्य, स्निग्ध, भारी, श्वेत, मधु की गन्ध वाला, मधुर, पिच्छिल, बहुत, गाढ़ा, और घी, तेल या शहद में से किसी एक के रंग वाला शुक्र यानी वीर्य गर्भाधान के योग्य होता है।",
+  "english": "That, like ghee in milk and jaggery in sugarcane juice, abides in the body, resting in the śukra-bearing kalā (a membranous layer), by pervading all the limbs, and especially in the marrow (majjā), the testicles (muṣka) and the breasts; stirred up by excitement and by saṃprahana (striking together), from the possession of the heart, having become a lump, it issues from limb to limb. That śukra (semen), gentle (saumya), unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, and of the colour of any one of ghee, oil or honey, becomes fit for conception (garbhādhāna).",
+  "text_flags": [
+   {
+    "src": "tatu",
+    "suggest": "tat tu",
+    "why": "possible: 'tat tu' (that, indeed) for the printed tatu"
+   },
+   {
+    "src": "kṣīrahava",
+    "suggest": "kṣīre iva",
+    "why": "possible: 'kṣīre iva' (like in milk); ha/i confusion"
+   },
+   {
+    "src": "sarpirikṣurasahava",
+    "suggest": "sarpiḥ ikṣurase iva",
+    "why": "possible: 'iva' printed as 'hava'; sarpiḥ + ikṣurase"
+   },
+   {
+    "src": "sarbogavyāpitayā",
+    "suggest": "sarvāṅgavyāpitayā",
+    "why": "possible: b for v, o for ā, ṃ lost"
+   }
+  ],
+  "notes": "No subject is named for the first sentence ('tat' neuter); it is read as the śukra of the next sentence. The similes 'kṣīre iva sarpiḥ, ikṣurase iva guḍaḥ' (ghee in milk, jaggery in sugarcane juice) rest on three corrections that are likely but not certain. kalā: a doctrinal term for a membranous layer or sheath; no modern equivalent forced. saṃprahana: literally a striking together; 'probably sexual union' is an interpretation, not certain. hṛdayāveśāt: 'from the possession (absorption) of the heart'; understood as emotional absorption, not certain. majjā here = marrow (body tissue). 'varṇa' is in the Sanskrit and is translated 'colour'. Identifications: śukra = semen (standard); muṣka = testicle (standard).",
+  "confidence": "low"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raktameva",
+      "words": [
+       {
+        "w": "raktam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "itself, only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "strīṇāṃ",
+      "words": [
+       {
+        "w": "strīṇām",
+        "gloss": "of women",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "māse",
+      "words": [
+       {
+        "w": "māse",
+        "gloss": "month",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "māse",
+      "words": [
+       {
+        "w": "māse",
+        "gloss": "month",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhakoṣṭhamanuprāpya",
+      "words": [
+       {
+        "w": "garbha-koṣṭham",
+        "gloss": "embryo; store-room, hollow (garbhakoṣṭha; womb; probable)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anuprāpya",
+        "gloss": "having reached",
+        "gram": "abs. anu-pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "tryahaṃ",
+      "words": [
+       {
+        "w": "try-aham",
+        "gloss": "three days",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravartamānamārtavamityāhuḥ",
+      "words": [
+       {
+        "w": "pravartamānam",
+        "gloss": "flowing",
+        "gram": "pres. part. ā. n. nom. sg."
+       },
+       {
+        "w": "ārtavam",
+        "gloss": "ārtavam (menstrual blood; standard)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी प्रकार स्त्रियों का रक्त ही, हर मास गर्भकोष्ठ को प्राप्त होकर, तीन दिन बहता हुआ, आर्तव यानी रजोधर्म का रक्त कहा जाता है।",
+  "english": "Likewise, the blood itself of women, month by month, having reached the garbhakoṣṭha (womb), flowing for three days, they call ārtava (menstrual blood).",
+  "text_flags": [],
+  "notes": "'garbhakoṣṭha' = literally 'store-room (hollow) of the embryo'; modern equivalent womb/uterus (probable). 'ārtavam iti āhuḥ': they call it ārtava. 'māse māse' = every month.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atiprasaṃgenānṛtāvṛtau",
+      "words": [
+       {
+        "w": "atiprasaṅgena",
+        "gloss": "by excessive continuation",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "anṛtau",
+        "gloss": "out of season",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ṛtau",
+        "gloss": "in season (ṛtu)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātadevā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "tad",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "itself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sṛgdaraṃ",
+      "words": [
+       {
+        "w": "asṛgdaram",
+        "gloss": "asṛgdara (excessive menstrual bleeding; probable)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradaraṃ",
+      "words": [
+       {
+        "w": "pradaram",
+        "gloss": "pradara (abnormal vaginal discharge or bleeding; probable)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāpadaṃ",
+      "words": [
+       {
+        "w": "vyāpadam",
+        "gloss": "disorder",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raktayonisaṃjñāṃ",
+      "words": [
+       {
+        "w": "rakta-yoni-saṃjñām",
+        "gloss": "blood; womb (yoni); name (raktayoni)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhate",
+      "words": [
+       {
+        "w": "labhate",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ā. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अतिप्रसंग से, ऋतु के अतिरिक्त समय में या ऋतु में, वही असृग्दर, प्रदर और व्यापद तथा रक्तयोनि नाम पाता है।",
+  "english": "Through excessive continuation, whether out of season or in season, that very thing obtains the names asṛgdara (excessive menstrual bleeding), pradara (abnormal vaginal discharge or bleeding) and vyāpad (disorder), and the name raktayoni.",
+  "text_flags": [
+   {
+    "src": "vātadevā",
+    "suggest": "vā tad eva",
+    "why": "possible: printed spacing shifted; the final ā is the first letter of asṛgdaram (tad eva + asṛgdaram)"
+   },
+   {
+    "src": "sṛgdaraṃ",
+    "suggest": "asṛgdaram",
+    "why": "initial a joins the previous printed token by sandhi (evāsṛg-)"
+   }
+  ],
+  "notes": "Reading: 'anṛtau ṛtau vā tad eva asṛgdaram pradaram vyāpadam ca raktayonisaṃjñām labhate'. The accusatives asṛgdaram, pradaram, vyāpadam and raktayoni-saṃjñām are taken as the names obtained; the exact relation is not certain. 'tad' refers back to ārtava of unit 11. Identification: asṛgdara, pradara = excessive menstrual or vaginal bleeding/discharge (probable; usage varies). raktayoni kept as a name (literally 'blood-womb').",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatsādhane",
+      "words": [
+       {
+        "w": "tat-sādhane",
+        "gloss": "its; in accomplishing (treatment)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktapittacikitsitaṃ",
+      "words": [
+       {
+        "w": "rakta-pitta-cikitsitam",
+        "gloss": "raktapitta (a bleeding disorder; probable); treatment",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guhyarogapratiṣedhaṃ",
+      "words": [
+       {
+        "w": "guhya-roga-pratiṣedham",
+        "gloss": "private parts (guhya); disease; prevention, remedy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cekṣeta",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "īkṣeta",
+        "gloss": "should look to, should consult",
+        "gram": "3 sg. opt. ā. √īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके साधन में रक्तपित्त की चिकित्सा और गुह्य रोगों के प्रतिषेध को भी देखे।",
+  "english": "In the management of that, one should look to the treatment of raktapitta (a bleeding disorder) and the remedy (pratiṣedha) for diseases of the private parts (guhya-roga).",
+  "text_flags": [],
+  "notes": "raktapitta kept in Sanskrit; modern equivalent a bleeding disorder (probable, not a single modern disease). guhya = private (genital) parts. 'īkṣeta' = should look to / consult.",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātakaphāvṛtamārgāṇāṃ",
+      "words": [
+       {
+        "w": "vāta-kapha-āvṛta-mārgāṇām",
+        "gloss": "Vāta; Kapha; covered; passages",
+        "gram": "bahuvrīhi, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvapravartamānaṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "apravartamānam",
+        "gloss": "not flowing",
+        "gram": "pres. part. ā. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittalairupacāraistatpravartamānaṃ",
+      "words": [
+       {
+        "w": "pittalaiḥ",
+        "gloss": "Pitta-increasing (ones)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upacāraiḥ",
+        "gloss": "by measures",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "pravartamānam",
+        "gloss": "flowing",
+        "gram": "pres. part. ā. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃśukramaśukaṃ",
+      "words": [
+       {
+        "w": "saṃśukram",
+        "gloss": "with śukra (semen)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aśukram",
+        "gloss": "without śukra",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvarahitaṃ",
+      "words": [
+       {
+        "w": "jīva-rahitam",
+        "gloss": "life; devoid of",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātalānyāsevamānāyā",
+      "words": [
+       {
+        "w": "vātalāni",
+        "gloss": "Vāta-increasing (ones)",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "āsevamānāyāḥ",
+        "gloss": "of one who resorts to",
+        "gram": "pres. part. ā. f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoṣito",
+      "words": [
+       {
+        "w": "yoṣitaḥ",
+        "gloss": "of a woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhaliṃgāni",
+      "words": [
+       {
+        "w": "garbha-liṅgāni",
+        "gloss": "embryo; signs",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "darśayadgulmī",
+      "words": [
+       {
+        "w": "darśayat",
+        "gloss": "showing",
+        "gram": "pres. part. caus. √dṛś, n. nom. sg."
+       },
+       {
+        "w": "gulmī",
+        "gloss": "one with gulma (abdominal lump)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that case",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gulmacikitsitamīkṣeta",
+      "words": [
+       {
+        "w": "gulma-cikitsitam",
+        "gloss": "gulma (abdominal lump); treatment",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "īkṣeta",
+        "gloss": "should look to",
+        "gram": "3 sg. opt. ā. √īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनके मार्ग वात और कफ से ढके हों उनका, न बहता हुआ, पित्त बढ़ाने वाले उपचारों से वह बहता हुआ, शुक्र के साथ या शुक्र के बिना, जीवरहित, वात बढ़ाने वाले का सेवन करती हुई स्त्री का, गर्भ के लक्षण दिखाता हुआ, गुल्म वाला हो जाता है; वहाँ गुल्म की चिकित्सा को देखे।",
+  "english": "Of those whose passages are covered by Vāta and Kapha, not flowing; when that flows through Pitta-increasing measures, with semen or without semen, devoid of life, of a woman who resorts to Vāta-increasing (ones), showing the signs of pregnancy, it becomes one with gulma (an abdominal lump); in that case one should look to the treatment of gulma.",
+  "text_flags": [
+   {
+    "src": "saṃśukramaśukaṃ",
+    "suggest": "aśukram",
+    "why": "possible: 'aśukam' is not a word; opposite of saṃśukram 'with śukra' is aśukram 'without śukra'"
+   }
+  ],
+  "notes": "The sentence is loose and its syntax is not certain. The words are translated in the printed order. It appears that the blood (ārtava) of unit 11 is the unstated subject, retained and later flowing, and that what results shows signs of pregnancy and is lifeless (jīva-rahita); the reading 'gulmī bhavati' = 'becomes gulmin' (a person or thing with gulma) is not decided. gulma kept in Sanskrit; commonly an abdominal lump or mass (standard rendering).",
+  "confidence": "low"
  }
 ]

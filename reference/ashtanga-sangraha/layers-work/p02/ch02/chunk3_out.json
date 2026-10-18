@@ -1,0 +1,906 @@
+[
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tanmaithune",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "maithune",
+        "gloss": "in sexual union",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātamevotsṛjati",
+      "words": [
+       {
+        "w": "vātam",
+        "gloss": "Vāta (wind-humour)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "utsṛjati",
+        "gloss": "releases, discharges",
+        "gram": "3 sg. pres. ud-√sṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह मैथुन में केवल वात को छोड़ता है।",
+  "english": "In sexual union it releases only Vāta (wind-humour).",
+  "text_flags": [],
+  "notes": "Subject 'tat' is carried from the preceding unit (not in this chunk); what 'it' refers to is not stated here. Vāta is kept as the humour (doṣa); the line does not say whether plain 'wind' is meant.",
+  "confidence": "medium"
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārtsnyenopahaṃti",
+      "words": [
+       {
+        "w": "kārtsnyena",
+        "gloss": "wholly, completely",
+        "gram": "ind."
+       },
+       {
+        "w": "upahanti",
+        "gloss": "damages, injures",
+        "gram": "3 sg. pres. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "anupaghnanneva",
+      "words": [
+       {
+        "w": "anupaghnan",
+        "gloss": "not damaging",
+        "gram": "pres. part. an-upa-√han"
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srotomukhaṃ",
+      "words": [
+       {
+        "w": "srotaḥ-mukham",
+        "gloss": "channel (srotas); mouth, opening",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pidhatte",
+      "words": [
+       {
+        "w": "pidhatte",
+        "gloss": "closes, covers",
+        "gram": "3 sg. pres. ātm. api-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब वह पूरी तरह हानि पहुँचाता है, या हानि न पहुँचाते हुए ही स्रोत के मुख को ढक देता है,",
+  "english": "When, however, it wholly damages, or, without damaging, simply closes the mouth of the channel (srotas),",
+  "text_flags": [],
+  "notes": "Subject not stated in the line (carried from earlier context, not in this chunk). GROUPING: 78 and 79 appear to form one 'yadā ... tadā' sentence. 'upahaṃti' is the printed spelling of upahanti. srotas (channel) is kept as a doctrinal term.",
+  "confidence": "medium"
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃskārabāhyaṃ",
+      "words": [
+       {
+        "w": "saṃskāra-bāhyam",
+        "gloss": "refining treatment (saṃskāra); outside",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that case",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃskāro",
+      "words": [
+       {
+        "w": "saṃskāraḥ",
+        "gloss": "refining treatment (saṃskāra)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vājīkarā",
+      "words": [
+       {
+        "w": "vājīkarāḥ",
+        "gloss": "aphrodisiac (vājīkara; standard)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bastayo'bhyavahāraścetoharṣa",
+      "words": [
+       {
+        "w": "bastayaḥ",
+        "gloss": "enemas (basti)",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "abhyavahāraḥ",
+        "gloss": "internal administration (abhyavahāra)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cetaḥ-harṣa",
+        "gloss": "mind; gladdening (first part of harṣaṇāni)",
+        "gram": "m. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ṇāni",
+      "words": [
+       {
+        "w": "ṇāni",
+        "gloss": "-ṇāni (rest of harṣaṇāni, 'gladdening')",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब वह संस्कार से बाहर हो जाता है। वहाँ संस्कार है: वाजीकर बस्तियाँ यानी वाजीकर एनिमा, अभ्यवहार और चित्त को हर्षित करने वाले भी।",
+  "english": "Then (he) becomes outside refining treatment (saṃskāra). There the treatment is aphrodisiac (vājīkara) enemas (basti), internal administration (abhyavahāra), and mind-gladdening (ones) too.",
+  "text_flags": [
+   {
+    "src": "harṣa ṇāni",
+    "suggest": "harṣaṇāni",
+    "why": "possible: a stray space splits 'harṣaṇāni' (n. nom. pl. 'gladdening'); sense and the following 'ca' fit one word"
+   }
+  ],
+  "notes": "The subject of 'bhavati' is not stated. 'saṃskārabāhya' is read 'outside (the scope of) refining treatment'; the sense 'treatment' for saṃskāra is taken from 'tatra saṃskāraḥ'. 'vājīkarā bastayaḥ' is regular sandhi (visarga dropped before b). The list is: aphrodisiac enemas, internal administration, and gladdening (ones). 'basti' = enema here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukre",
+      "words": [
+       {
+        "w": "śukre",
+        "gloss": "in semen (śukra; standard)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balamādadhānāni",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ādadhānāni",
+        "gloss": "bestowing, putting",
+        "gram": "pres. part. ātm. ā-√dhā, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "srotāṃsyasyāpyāyayaṃtīti",
+      "words": [
+       {
+        "w": "srotāṃsi",
+        "gloss": "channels (srotas)",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this, its",
+        "gram": "m./n. gen. sg."
+       },
+       {
+        "w": "āpyāyayanti",
+        "gloss": "nourish, fill",
+        "gram": "3 pl. pres. caus. ā-√pyāy"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे शुक्र यानी पुरुष के प्रजनन द्रव में बल देते हुए इसके स्रोतों को पुष्ट करते हैं।",
+  "english": "For these, bestowing strength on the semen (śukra), nourish its channels (srotas).",
+  "text_flags": [],
+  "notes": "'tāni' (these) refers to the things listed in 79. 'asya' (its/his) most naturally goes with śukra; it could also mean 'his'. Closing 'iti' is not translated. śukra = semen (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā'lpabījo'lpabalaḥ",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "alpa-bījaḥ",
+        "gloss": "little; seed, semen",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "alpa-balaḥ",
+        "gloss": "little; strength",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pumānudvegaḥ",
+      "words": [
+       {
+        "w": "pumān",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "udvegaḥ",
+        "gloss": "agitated, anxious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strīdveṣayukto'nyakāmo",
+      "words": [
+       {
+        "w": "strī-dveṣa-yuktaḥ",
+        "gloss": "woman; aversion; endowed with",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anya-kāmaḥ",
+        "gloss": "other; desiring",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāryā",
+      "words": [
+       {
+        "w": "nāryā",
+        "gloss": "with a woman",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavāyapratighātaṃ",
+      "words": [
+       {
+        "w": "vyavāya-pratighātam",
+        "gloss": "sexual intercourse; obstruction",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "makes, causes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "taddidhā",
+      "words": [
+       {
+        "w": "tad-vidhā",
+        "gloss": "of that kind",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nārī",
+      "words": [
+       {
+        "w": "nārī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṃsaḥ",
+      "words": [
+       {
+        "w": "puṃsaḥ",
+        "gloss": "of the man, towards the man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला या दूसरी की कामना करने वाला पुरुष स्त्री के साथ मैथुन में रुकावट करता है, या स्त्री पुरुष के प्रति वैसी ही हो,",
+  "english": "When a man of little seed and little strength, agitated, possessed of aversion to women, or desiring another, causes an obstruction of intercourse with the woman, or the woman is of that kind towards the man,",
+  "text_flags": [
+   {
+    "src": "taddidhā",
+    "suggest": "tadvidhā",
+    "why": "possible: 'taddidhā' is not a word; 'tadvidhā' (of that kind) fits the sense and matches 'tadvidhau' in 82"
+   }
+  ],
+  "notes": "GROUPING: 81 appears to continue in 82 ('tadā ...'), which gives the 'then' clause. 'nāryā' is instrumental, read 'with the woman'. 'udvegaḥ' is a noun used as an adjective ('agitated'). The last clause is elliptical: 'is' is supplied (copula understood); 'puṃsaḥ' is read 'towards the man'. bīja = seed (semen) here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadā''sekyaṃ",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "āsekyam",
+        "gloss": "āsekya (technical term, not defined in the line)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "strīpuṃsau",
+      "words": [
+       {
+        "w": "strī-puṃsau",
+        "gloss": "woman and man",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tadvidhau",
+      "words": [
+       {
+        "w": "tad-vidhau",
+        "gloss": "of that kind",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bhavataḥ",
+      "words": [
+       {
+        "w": "bhavataḥ",
+        "gloss": "become",
+        "gram": "3 du. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakradhvajo",
+      "words": [
+       {
+        "w": "vakra-dhvajaḥ",
+        "gloss": "bent; banner, i.e. penis (dhvaja; standard)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhvajastabhyate",
+      "words": [
+       {
+        "w": "dhvajaḥ",
+        "gloss": "banner, i.e. penis (standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "stabhyate",
+        "gloss": "is made stiff",
+        "gram": "3 sg. pres. pass. √stambh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब आसेक्य। स्त्री और पुरुष वैसे ही प्रकार के हो जाते हैं। तब वह वक्रध्वज यानी टेढ़े शिश्न वाला हो जाता है; उसका ध्वज यानी शिश्न कभी कड़ा नहीं होता।",
+  "english": "Then āsekya. The woman and the man become of that kind. Then he becomes vakradhvaja (one with a bent dhvaja, the penis); his dhvaja (penis) is simply not made stiff.",
+  "text_flags": [],
+  "notes": "GROUPING: 82 appears to continue 81. 'tadā''sekyaṃ' (double avagraha as printed) is read tadā + āsekyam; āsekya appears to be a technical name but the line does not define it, so it is left untranslated and the reading is not firm. 'dhvaja' (banner) is a euphemism for the penis (standard). 'vakradhvaja' is read as a bahuvrīhi naming a type. The 'then ... he' clauses have no stated subject.",
+  "confidence": "low"
+ },
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūtiyonyāḥ",
+      "words": [
+       {
+        "w": "pūti-yonyāḥ",
+        "gloss": "putrid, foul; vagina (yoni; standard)",
+        "gram": "bahuvrīhi, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "striyā",
+      "words": [
+       {
+        "w": "striyā",
+        "gloss": "woman",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbho",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo, fetus",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "arises, is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब दुर्गन्धयुक्त योनि वाली स्त्री का गर्भ होता है,",
+  "english": "When an embryo (garbha) arises of a woman with a putrid vagina (yoni),",
+  "text_flags": [
+   {
+    "src": "striyā",
+    "suggest": "striyāḥ",
+    "why": "possible: the genitive is expected beside 'pūtiyonyāḥ' (of the woman); the printed instrumental could be read 'through the woman'"
+   }
+  ],
+  "notes": "'pūti' means putrid or foul-smelling; the line does not say which. The printed 'striyā' is instrumental, kept in `gram`; the translation follows the genitive reading. GROUPING: 83 and 84 appear to belong together (84 supplies the result), the subject of 84 is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tacchukrāsvādātdhvajocchrāyaṃ",
+      "words": [
+       {
+        "w": "tat-śukra-āsvādāt",
+        "gloss": "that; semen (śukra; standard); tasting",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "dhvaja-ucchrāyam",
+        "gloss": "banner, i.e. penis (standard); raising, erection",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhate",
+      "words": [
+       {
+        "w": "labhate",
+        "gloss": "obtains, gets",
+        "gram": "3 sg. pres. ātm. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस शुक्र के आस्वाद से ध्वज यानी शिश्न का उठना पाता है।",
+  "english": "From tasting that semen (śukra) he gets the raising of the dhvaja (penis).",
+  "text_flags": [],
+  "notes": "Unsandhied print 'āsvādāt dhvaja' (final t not changed to d); recorded as a print habit, not flagged. Subject 'he' is not stated. 'ucchrāya' = raising, erection (probable).",
+  "confidence": "medium"
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pumurubhāvapi",
+      "words": [
+       {
+        "w": "pumurubhāvapi",
+        "gloss": "unclear (printed form kept)",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "tatsaugaṃdhikāraṇyaṃ",
+      "words": [
+       {
+        "w": "tatsaugaṃdhikāraṇyaṃ",
+        "gloss": "unclear (printed form kept)",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "yonidhvajagaṃdhena",
+      "words": [
+       {
+        "w": "yoni-dhvaja-gandhena",
+        "gloss": "vagina (yoni); banner, i.e. penis (dhvaja); smell",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "balaṃ",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhate",
+      "words": [
+       {
+        "w": "labhate",
+        "gloss": "obtains, gets",
+        "gram": "3 sg. pres. ātm. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब पुमुरुभावपि तत्सौगंधिकारण्यं — ये छपे रूप अस्पष्ट हैं और अनुमानित पाठ पर ही कुछ कहा जा सकता है — तब योनि और ध्वज की गन्ध से बल पाता है।",
+  "english": "When 'pumurubhāvapi tatsaugaṃdhikāraṇyaṃ' (printed forms unclear; on a conjectural reading only), he obtains strength from the smell of the yoni and the dhvaja.",
+  "text_flags": [
+   {
+    "src": "pumurubhāvapi",
+    "suggest": "pumān ubhāv api",
+    "why": "possible and not firm: 'pumuru-' is not a word; 'pumān ubhau api' is only a guess"
+   },
+   {
+    "src": "tatsaugaṃdhikāraṇyaṃ",
+    "suggest": "tat saugandhikam āraṇyam",
+    "why": "possible and not firm: saugandhika (fragrant) and āraṇya (of the forest) are real words but their relation here is unknown"
+   }
+  ],
+  "notes": "The second and third words of the line are doubtful in print; no firm reading is built on them. The subject of 'labhate' is not stated. 'yonidhvajagandhena' is read as smell of the yoni and the dhvaja (dvandva); 'smell of the dhvaja of the yoni' is also possible. 'dhvaja' = penis (standard euphemism). 'balam' is strength; the line does not say erection.",
+  "confidence": "low"
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvīrṣyābhibhūtau",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, however",
+        "gram": "ind."
+       },
+       {
+        "w": "īrṣyā-abhibhūtau",
+        "gloss": "jealousy; overcome",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "maṃdaharṣausaṃsṛjyete",
+      "words": [
+       {
+        "w": "manda-harṣau",
+        "gloss": "little; joy, delight",
+        "gram": "bahuvrīhi, m. nom. du."
+       },
+       {
+        "w": "saṃsṛjyete",
+        "gloss": "are joined, are united",
+        "gram": "3 du. pres. pass. saṃ-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "taderṣyāluriti",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "īrṣyāluḥ",
+        "gloss": "jealous (īrṣyālu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃjñāṃ",
+      "words": [
+       {
+        "w": "saṃjñām",
+        "gloss": "name, designation",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब ईर्ष्या से अभिभूत, मन्द हर्ष वाले दोनों संयुक्त होते हैं, तब ईर्ष्यालु यह संज्ञा",
+  "english": "When the two, overcome by jealousy and of little delight, are joined, then the name 'īrṣyālu' (jealous one)",
+  "text_flags": [],
+  "notes": "Elliptical: no verb after 'saṃjñām' (e.g. 'obtains the name' is not in the text, none is supplied). GROUPING: 86 appears to continue in 87. Token 'tvīrṣyābhibhūtau' = tu + īrṣyā-abhibhūtau; 'maṃdaharṣausaṃsṛjyete' is printed as one token (manda-harṣau + saṃsṛjyete).",
+  "confidence": "medium"
+ }
+]

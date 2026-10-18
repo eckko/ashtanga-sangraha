@@ -453,7 +453,7 @@
     ]
    }
   ],
-  "hindi": "अनुमानित पाठ पर, जैसा कहा गया उन दोष करने वालों को वह पाँचवें मास तक त्याग दे।",
+  "hindi": "अनुमानित पाठ पर, कहे अनुसार दोष करने वालों को पाँचवें मास तक त्याग दे।",
   "english": "On a conjectural reading, she should avoid, up to the fifth month, the doṣa-causing (ones) as stated.",
   "text_flags": [
    {
@@ -722,6 +722,917 @@
   "english": "And in the seventh (month).",
   "text_flags": [],
   "notes": "Incomplete as printed: no substance or verb is given for the seventh month. GROUPING: this unit appears to continue into the next unit or to have lost its content; nothing is supplied here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmiṃśca",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "m./n. loc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhasyakeśotpattyā",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the embryo",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "keśa-utpattyā",
+        "gloss": "hair; arising",
+        "gram": "f. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "māturvidāho",
+      "words": [
+       {
+        "w": "mātuḥ",
+        "gloss": "of the mother",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "vidāhaḥ",
+        "gloss": "burning (vidāha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatīti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "occurs",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "striyo",
+      "words": [
+       {
+        "w": "striyaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhāṣaṃte",
+      "words": [
+       {
+        "w": "bhāṣante",
+        "gloss": "say",
+        "gram": "3 pl. pres. √bhāṣ"
+       }
+      ]
+     },
+     {
+      "src": "neti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānātreyaḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "venerable",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (name of a teacher)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उस में गर्भ के केशों की उत्पत्ति से माता को विदाह यानी जलन होती है, ऐसा स्त्रियाँ कहती हैं; ऐसा नहीं, भगवान् आत्रेय।",
+  "english": "And in that (month), 'burning (vidāha) of the mother occurs through the arising of the embryo's hair,' so women say; 'not so,' (says) the venerable Ātreya.",
+  "text_flags": [],
+  "notes": "'tasmin' is taken as 'in that (month)', the seventh of unit 12. The verb of speaking for Ātreya is not stated (carried from 'bhāṣante'); 'says' is supplied in English in brackets only for readability. vidāha = burning (probably a burning sensation, heartburn-like); the text gives no further definition.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "garbhotpīḍanāttu",
+      "words": [
+       {
+        "w": "garbha-utpīḍanāt",
+        "gloss": "embryo; pressing, pressure",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣā",
+      "words": [
+       {
+        "w": "doṣāḥ",
+        "gloss": "doṣas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayaṃ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart (hṛdaya; standard)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpya",
+      "words": [
+       {
+        "w": "prāpya",
+        "gloss": "having reached",
+        "gram": "abs. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "vidahaṃti",
+      "words": [
+       {
+        "w": "vidahanti",
+        "gloss": "burn",
+        "gram": "3 pl. pres. vi-√dah"
+       }
+      ]
+     },
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṃḍūrjāyate",
+      "words": [
+       {
+        "w": "kaṇḍūḥ",
+        "gloss": "itching",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     },
+     {
+      "src": "kaṃḍūkikisaṃ",
+      "words": [
+       {
+        "w": "kaṇḍū-kikisam",
+        "gloss": "itching; kikisa (probably stretch marks of pregnancy; probable)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भ के दबाव से तो दोष हृदय तक पहुँचकर जलाते हैं; तब खुजली उत्पन्न होती है, खुजली वाला किकिस, सम्भवतः गर्भावस्था की धारियाँ।",
+  "english": "But from the pressure of the embryo, the doṣas, having reached the heart (hṛdaya), burn; then itching arises, (and) kaṇḍūkikisa (itching with kikisa, probably the stretch marks of pregnancy).",
+  "text_flags": [],
+  "notes": "Last token 'kaṇḍūkikisaṃ': probably kaṇḍū + kikisa (kikkisa), a skin condition of pregnancy, identified as stretch marks (striae) - probable only. The repetition of kaṇḍū after 'kaṇḍūr jāyate' is odd; the reading as a compound 'itching-kikisa' with jāyate carried is tentative. The line seems to end without a verb. 'doṣāḥ' = the doṣas (doctrinal term, kept).",
+  "confidence": "low"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in that case",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "koloḍakena",
+      "words": [
+       {
+        "w": "kola-udakena",
+        "gloss": "jujube (kola; Ziziphus jujuba, probable); water",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "navanītasya",
+      "words": [
+       {
+        "w": "navanītasya",
+        "gloss": "of fresh butter (navanīta)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhurauṣadhasiddhasya",
+      "words": [
+       {
+        "w": "madhura-auṣadha-siddhasya",
+        "gloss": "sweet; medicines; cooked",
+        "gram": "n. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pāṇitalamātramasyai",
+      "words": [
+       {
+        "w": "pāṇi-tala-mātram",
+        "gloss": "hand; palm; measure",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "asyai",
+        "gloss": "to her",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ कोल यानी सम्भवतः बेर के जल के साथ, मधुर औषधों से पकाए हुए नवनीत का हथेली भर इस स्त्री को दे।",
+  "english": "In that case, with water of kola (probably jujube), one should give her a palm's measure of fresh butter (navanīta) cooked with sweet medicines.",
+  "text_flags": [
+   {
+    "src": "koloḍakena",
+    "suggest": "kolodakena",
+    "why": "possible: ḍ for d is a common print confusion; 'kola-udaka' (jujube water) gives sense and the metre of a prose line is no evidence."
+   }
+  ],
+  "notes": "kola = jujube (Ziziphus jujuba), probable; kola can also mean other things (disputed), so the identity is hedged. 'koloḍaka' read as kola-udaka 'kola water' on the corrected reading; if 'koloḍaka' were a word, it is unknown. 'asyai' = to her, the pregnant woman.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caṃdanamṛṇālakalkaiśca",
+      "words": [
+       {
+        "w": "candana-mṛṇāla-kalkaiḥ",
+        "gloss": "sandalwood (candana; Santalum album, standard); lotus stalk (mṛṇāla; standard); pastes",
+        "gram": "m. inst. pl., dvandva then tat-puruṣa"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stanodaraṃ",
+      "words": [
+       {
+        "w": "stana-udaram",
+        "gloss": "breast; belly",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "mṛdgīyāt",
+      "words": [
+       {
+        "w": "mṛdnīyāt",
+        "gloss": "should rub",
+        "gram": "3 sg. opt. √mṛd"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और चन्दन यानी श्वेत चन्दन तथा मृणाल यानी कमलनाल के कल्कों से स्तन और पेट को मसले।",
+  "english": "And with pastes (kalka) of candana (sandalwood) and mṛṇāla (lotus stalk), she should rub the breast and belly.",
+  "text_flags": [
+   {
+    "src": "mṛdgīyāt",
+    "suggest": "mṛdnīyāt",
+    "why": "possible: 'mṛdgīyāt' is not a form; the optative of √mṛd (kryādi) is mṛdnīyāt, and g for n is a likely print confusion."
+   }
+  ],
+  "notes": "Subject: it is not stated who rubs; the pregnant woman is understood. 'stanodaram' is a singular dvandva, 'breast(s) and belly'. Identification: candana = Santalum album (standard); mṛṇāla = lotus stalk (Nelumbo nucifera, standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śirīṣaghātukīsarṣapamadhukacūrṇairvā",
+      "words": [
+       {
+        "w": "śirīṣa-dhātakī-sarṣapa-madhuka-cūrṇaiḥ",
+        "gloss": "śirīṣa (Albizia lebbeck; standard); dhātakī (Woodfordia fruticosa; conjectural reading); mustard (sarṣapa); madhuka (probably licorice); powders",
+        "gram": "m. inst. pl., dvandva then tat-puruṣa"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा शिरीष यानी सिरिस, अनुमानित पाठ पर धातकी यानी धाय के फूल, सरसों और मधुक यानी सम्भवतः मुलेठी के चूर्णों से।",
+  "english": "Or with powders (cūrṇa) of śirīṣa (Albizia lebbeck), dhātakī (Woodfordia fruticosa, on a conjectural reading), mustard (sarṣapa) and madhuka (probably licorice).",
+  "text_flags": [
+   {
+    "src": "śirīṣaghātukīsarṣapamadhukacūrṇairvā",
+    "suggest": "śirīṣadhātakīsarṣapamadhukacūrṇair vā",
+    "why": "possible: 'ghātukī' is not a known drug name; dhātakī (Woodfordia fruticosa) is a common ingredient and gh/dh confusion is likely."
+   }
+  ],
+  "notes": "Elliptical: the verb 'should rub' is carried from the previous unit. madhuka = licorice (Glycyrrhiza glabra), probable; mahua (Madhuca longifolia) is the other possibility. sarṣapa = mustard (Brassica species), standard. Hindi 'धातकी यानी धाय के फूल' rests on the conjecture.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṭajārjakabījamustāharidrākalkairvā",
+      "words": [
+       {
+        "w": "kuṭaja-arjaka-bīja-mustā-haridrā-kalkaiḥ",
+        "gloss": "kuṭaja (Holarrhena antidysenterica; standard); arjaka (a basil, probable); seed; mustā (Cyperus rotundus; standard); haridrā (turmeric, Curcuma longa; standard); pastes",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nimbakoḻasurasamaṃjiṣṭhākalkairvā",
+      "words": [
+       {
+        "w": "nimba-kola-surasa-mañjiṣṭhā-kalkaiḥ",
+        "gloss": "nimba (Azadirachta indica; standard); kola (jujube, probable); surasā (holy basil, probable); mañjiṣṭhā (Rubia cordifolia; standard); pastes",
+        "gram": "m. inst. pl., dvandva"
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा कुटज यानी कुड़ा और अर्जक यानी सम्भवतः एक तुलसी के बीज, मुस्ता यानी नागरमोथा और हरिद्रा यानी हल्दी के कल्कों से; अथवा निम्ब यानी नीम, कोल यानी सम्भवतः बेर, सुरसा यानी सम्भवतः तुलसी और मञ्जिष्ठा यानी मजीठ के कल्कों से।",
+  "english": "Or with pastes (kalka) of the seeds of kuṭaja (Holarrhena antidysenterica) and arjaka (probably a basil), mustā (nut grass, Cyperus rotundus) and haridrā (turmeric); or with pastes of nimba (neem), kola (probably jujube), surasā (probably holy basil) and mañjiṣṭhā (Indian madder).",
+  "text_flags": [],
+  "notes": "Elliptical: verb carried from unit 16. 'ḻ' in 'koḻa' is normalised to l (print habit, glossary). Whether 'bīja' governs both kuṭaja and arjaka is taken as yes (plural 'seeds of kuṭaja and arjaka'). 'surasa' read as surasā (holy basil); alternative readings (sura + sa..) not adopted. kola identity probable (jujube). arjaka = a white basil, probable. Hindi for kuṭaja is left as कुटज.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaśahariṇapunarnavāmālatīmadhukasiddhaināṃbhasā",
+      "words": [
+       {
+        "w": "śaśa-hariṇa-punarnavā-mālatī-madhuka-siddhena",
+        "gloss": "hare (śaśa); deer (hariṇa); punarnavā (Boerhavia diffusa; standard); mālatī (a jasmine, probably Jasminum grandiflorum; disputed); madhuka (probably licorice); cooked",
+        "gram": "dvandva then tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "ambhasā",
+        "gloss": "with water",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣatarudhirayuktayā",
+      "words": [
+       {
+        "w": "pṛṣata-rudhira-yuktayā",
+        "gloss": "spotted deer (pṛṣata); blood; mixed with",
+        "gram": "f. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "triphalayā",
+      "words": [
+       {
+        "w": "triphalayā",
+        "gloss": "with triphalā (the three fruits)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "karavīrapatrakalkasiddhena",
+      "words": [
+       {
+        "w": "karavīra-patra-kalka-siddhena",
+        "gloss": "karavīra (Nerium oleander; standard); leaf; paste; cooked",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tailenābhyaṃgaḥ",
+      "words": [
+       {
+        "w": "tailena",
+        "gloss": "with oil (taila)",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "abhyaṅgaḥ",
+        "gloss": "oil massage",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शश यानी खरगोश, हरिण यानी हिरन, पुनर्नवा यानी गदहपूर्णा, मालती और मधुक यानी सम्भवतः मुलेठी के साथ पकाए हुए जल से, पृषत यानी चित्तीदार हिरन के रुधिर से युक्त त्रिफला से, और करवीर के पत्तों के कल्क से पकाए हुए तेल से अभ्यंग।",
+  "english": "Oil massage (abhyaṅga) with water cooked with hare (śaśa), deer (hariṇa), punarnavā (Boerhavia diffusa), mālatī (a jasmine, identity disputed) and madhuka (probably licorice); with triphalā (the three fruits) mixed with the blood of the spotted deer (pṛṣata); and with oil cooked with a paste of karavīra leaves (oleander).",
+  "text_flags": [
+   {
+    "src": "śaśahariṇapunarnavāmālatīmadhukasiddhaināṃbhasā",
+    "suggest": "śaśahariṇapunarnavāmālatīmadhukasiddhenāṃbhasā",
+    "why": "possible: 'siddhaināṃbhasā' is not a regular sandhi of siddhena + ambhasā (which gives siddhenāmbhasā); ai for e is a likely print error."
+   }
+  ],
+  "notes": "The parts of hare and deer used are not stated (flesh is likely but not said). The text lists the water and the mixed triphalā and the oil as three instruments of one abhyaṅga; how they combine is not stated. pṛṣata = spotted deer. karavīra = Nerium oleander (standard); taila = oil (kind not stated). triphalā = harītakī, bibhītaka, āmalakī (standard). mālatī disputed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pariṣekaḥ",
+      "words": [
+       {
+        "w": "pariṣekaḥ",
+        "gloss": "pouring, affusion",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punarmālatīmadhukasiddhenāṃbhasā",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "mālatī-madhuka-siddhena",
+        "gloss": "mālatī; madhuka; cooked",
+        "gram": "m. inst. sg., dvandva then tat-puruṣa"
+       },
+       {
+        "w": "ambhasā",
+        "gloss": "with water",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर मालती और मधुक के साथ पकाए हुए जल से पारिषेक यानी सींचना।",
+  "english": "Pouring (pariṣeka) again with water cooked with mālatī and madhuka.",
+  "text_flags": [],
+  "notes": "Elliptical (no verb). 'punar' is taken as 'again'; it could also mean 'and further'. For mālatī and madhuka see unit 19.",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṃḍūyanaṃ",
+      "words": [
+       {
+        "w": "kaṇḍūyanam",
+        "gloss": "scratching",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. caus. √vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खुजलाना त्याग दे।",
+  "english": "She should avoid scratching.",
+  "text_flags": [],
+  "notes": "Subject understood (the pregnant woman).",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvagbhede",
+      "words": [
+       {
+        "w": "tvak-bhede",
+        "gloss": "skin; splitting",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vairūpyaparihārārthaṃsnānodvartanaṃ",
+      "words": [
+       {
+        "w": "vairūpya-parihāra-artham",
+        "gloss": "disfigurement; avoidance; for the purpose of",
+        "gram": "tat-puruṣa, ind."
+       },
+       {
+        "w": "snāna-udvartanam",
+        "gloss": "bathing; rubbing with powders (udvartana)",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "caṃdanaṃ",
+      "words": [
+       {
+        "w": "candanam",
+        "gloss": "sandalwood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caśīlayet",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "śīlayet",
+        "gloss": "should practise, use",
+        "gram": "3 sg. opt. √śīl"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्वचा के फटने पर कुरूपता को दूर करने के लिए स्नान, उद्वर्तन और चन्दन का सेवन करे।",
+  "english": "When the skin splits, for the purpose of avoiding disfigurement, she should make use of bathing, rubbing with powders (udvartana) and sandalwood (candana).",
+  "text_flags": [],
+  "notes": "The text has 'arthaṃsnāna' printed without a space; it is two words, not an error that changes the sense. 'tvagbheda' = splitting of the skin (probably the stretch marks of the previous units; the text does not say). 'ca' and 'śīlayet' are printed together as 'caśīlayet'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhuraṃ",
+      "words": [
+       {
+        "w": "madhuram",
+        "gloss": "sweet",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāhāramalpamalpasnehalavaṇamalpodakānupānaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāram",
+        "gloss": "food",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "alpam",
+        "gloss": "little",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "alpa-sneha-lavaṇam",
+        "gloss": "little; oil or fat; salt",
+        "gram": "m. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "alpa-udaka-anupānam",
+        "gloss": "little; water; after-drink",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhuṃjīta",
+      "words": [
+       {
+        "w": "bhuñjīta",
+        "gloss": "she should eat",
+        "gram": "3 sg. opt. √bhuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और मीठा आहार, थोड़ा, थोड़े स्नेह यानी तेल या वसा और नमक वाला, थोड़े जल के अनुपान सहित खाए।",
+  "english": "And she should eat sweet food, little in quantity, with little oil or fat (sneha) and salt, with little water as after-drink (anupāna).",
+  "text_flags": [],
+  "notes": "'madhuram āhāram': sweet food (taste madhura). 'alpa' is taken as quantity, 'little'. Subject understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭame",
+      "words": [
+       {
+        "w": "aṣṭame",
+        "gloss": "in the eighth",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣīrayavāgūṃ",
+      "words": [
+       {
+        "w": "kṣīra-yavāgūm",
+        "gloss": "milk; gruel (yavāgū)",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sarpiṣmatīṃ",
+      "words": [
+       {
+        "w": "sarpiṣmatīm",
+        "gloss": "containing ghee",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibet",
+      "words": [
+       {
+        "w": "pibet",
+        "gloss": "should drink",
+        "gram": "3 sg. opt. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठवें में घी वाली दूध की यवागू पिए।",
+  "english": "In the eighth (month) she should drink milk gruel (yavāgū) containing ghee.",
+  "text_flags": [],
+  "notes": "'aṣṭame' is taken as 'in the eighth (month)'. kṣīrayavāgū is a gruel made with milk (the compound could also be 'gruel and milk', not adopted).",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "neti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṃḍhakātho",
+      "words": [
+       {
+        "w": "ṣaṃḍhakātho",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "garbhasyapaiṃgalyābādhabhayāt",
+      "words": [
+       {
+        "w": "garbhasya",
+        "gloss": "of the embryo",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "paiṅgalya-ābādha-bhayāt",
+        "gloss": "tawny colour; affliction; from fear",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा नहीं, षण्ढकाथो अस्पष्ट, अनुमानित पाठ पर, गर्भ को पिंगलता की बाधा के भय से।",
+  "english": "'Not so,' on a conjectural reading, says ṣaṇḍhakātho (unclear), from fear of the affliction of tawny colour to the embryo.",
+  "text_flags": [
+   {
+    "src": "ṣaṃḍhakātho",
+    "suggest": "ṣaṇḍha(ḥ) kāthaḥ ?",
+    "why": "possible: the printed word does not parse; it may hide a speaker's name (compare 'bhagavān ātreyaḥ' in unit 13) or a form of 'kath'; no firm reading."
+   }
+  ],
+  "notes": "Damaged or unparsable print: 'ṣaṃḍhakātho' is kept unsplit; the speaker is probably an objecting teacher but this is conjectural. paiṅgalya = tawny, yellowish-brown colour (of what is not stated; the embryo's coloration is the likely sense). The objection is to the gruel of the previous unit. GROUPING: this unit appears to continue the discussion of unit 24 and to continue in unit 26.",
+  "confidence": "low"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asti",
+      "words": [
+       {
+        "w": "asti",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "paiṃgalyābādhastathāpyevaṃ",
+      "words": [
+       {
+        "w": "paiṅgalya-ābādhaḥ",
+        "gloss": "tawny colour; affliction",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "tathā api",
+        "gloss": "even so",
+        "gram": "ind."
+       },
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurvīta",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "one should act",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिंगलता की बाधा है, फिर भी ऐसा ही करे।",
+  "english": "There is the affliction of tawny colour; even so, one should act thus.",
+  "text_flags": [],
+  "notes": "'evam' points to the regimen of unit 24 (gruel with ghee), per context; this is not stated.",
   "confidence": "medium"
  }
 ]
