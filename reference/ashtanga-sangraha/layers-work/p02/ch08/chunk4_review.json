@@ -1,0 +1,514 @@
+{
+ "units": [
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बत्तीस अंगुल घेरे",
+     "problem": "Hindi supplies the unit अंगुल after 32; the Sanskrit states aṅgula only with ṣaḍ (dvātriṃśat-pariṇāha has no unit); the English correctly has none.",
+     "fix": "छह अंगुल ऊँचा और बत्तीस घेरे वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "112",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बत्तीस अंगुल घेरे",
+      "new": "बत्तीस घेरे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tadāyāmavistārasamaṃ",
+     "problem": "Parse: tad + āyāma-vistāra-samam (tat \"that\" as a separate pronoun, t+ā giving tadā) is more natural than tad as first member of a bahuvrīhi; sense \"that, equal in length and breadth, is called sama\". Draft reading kept in translation; alternative not noted. tadā \"then\" is also possible.",
+     "fix": "Add note",
+     "severity": "minor",
+     "patch": {
+      "n": "114",
+      "op": "append_note",
+      "text": "Reviewer: alternative parse tad (separate pronoun, nom. n. sg.) + āyāma-vistāra-samam, i.e. 'that, equal in length and breadth, is called sama'; tadā ('then') is also possible. Open for the owner."
+     }
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "black hair, eyebrows, eyelashes and pupil",
+     "problem": "netra (eye) is in the Sanskrit (kṛṣṇa-keśa-bhrū-netra-pakṣma-tārakam) and in the Hindi but dropped from the English.",
+     "fix": "black hair, eyebrows, eyes, eyelashes and pupil",
+     "severity": "error",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "english",
+      "old": "black hair, eyebrows, eyelashes and pupil",
+      "new": "black hair, eyebrows, eyes, eyelashes and pupil"
+     }
+    },
+    {
+     "field": "english",
+     "where": "hidden collarbone region (jatru)",
+     "problem": "jatru is glossed probable but the translation is unhedged in both languages (glossary: jatru hedged in both).",
+     "fix": "hidden jatru (probably the collarbone region)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "118",
+       "op": "replace",
+       "field": "english",
+       "old": "hidden collarbone region (jatru)",
+       "new": "hidden jatru (probably the collarbone region)"
+      },
+      {
+       "n": "118",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जत्रु यानी हँसली के स्थान",
+       "new": "जत्रु यानी सम्भवतः हँसली का स्थान"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "और पार्श्व वाला",
+     "problem": "Glossary: Hindi pārśva = पसलियों वाला भाग.",
+     "fix": "और पार्श्व यानी पसलियों वाले भाग वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और पार्श्व वाला",
+      "new": "और पार्श्व यानी पसलियों वाले भाग वाला"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ऊँचे चित्त, कन्धे",
+     "problem": "English says \"raised mind (citta, as printed)\" and notes citta is probably a misprint; the Hindi has no matching hedge (and no brackets allowed).",
+     "fix": "ऊँचे, छपे अनुसार चित्त, कन्धे",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऊँचे चित्त, कन्धे",
+      "new": "ऊँचे, छपे अनुसार चित्त, कन्धे"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पलकों और तारा वाला",
+     "problem": "Bare तारा is ambiguous (star); tāraka here is the pupil (English \"pupil\").",
+     "fix": "पलकों और तारक यानी पुतली वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पलकों और तारा वाला",
+      "new": "पलकों और तारक यानी पुतली वाला"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tvakacakarajana",
+     "problem": "Unsplit and \"unclear\" is the right handling. For the owner only (guess stays out of gloss and translations): in this snigdha series the printed string looks like snigdha-tvak-kaca-karaja-nayana-daśana-svanam, \"smooth skin, hair, nails (karaja), eyes, teeth, voice\", with one stray \"na\".",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "118",
+      "op": "append_note",
+      "text": "Reviewer conjecture, not applied: 'tvakacakarajana' + 'nayana' may be tvak-kaca-karaja-(na)-nayana, i.e. skin, hair, nails (karaja), eyes, within the snigdha series; one stray 'na'. For śuklaśukaṃmaṃḍaladaśanacarita a śukla-śaṅkha-… reading is conceivable; no sure reading."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sakthi (thigh)",
+     "problem": "ūru is already \"thigh\" in the same unit and sakthi is also \"thigh (sakthi)\" / सक्थि यानी जाँघ; the same word twice. Glossary uses \"lower limb\" for sakthi in marma/limb lists. Also whether aṅguli-parva is \"finger-joints\" (translation) or two items (fingers; joints, as in `words`) is not settled.",
+     "fix": "Owner to decide: sakthi \"lower limb\" vs thigh; aṅguli, parva separate or joined.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anupūrva-vṛttau",
+     "problem": "vṛttau is a masculine dual (neuter dual would be vṛtte); \"n./m.\" is wrong.",
+     "fix": "karmadhāraya; m. nom. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "120",
+      "op": "word",
+      "match_w": "anupūrva-vṛttau",
+      "field": "gram",
+      "value": "karmadhāraya; m. nom. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "stanaubhruvau",
+     "problem": "Printed as one word, but au + bh has no sandhi: stanau bhruvau are two words (Devanagari स्तनौभ्रुवौ confirms real au). This spacing error is not flagged and `w` \"stanau-bhruvau\" uses the compound hyphen for two separate inflected words.",
+     "fix": "Add flag; w = \"stanau bhruvau\"",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "122",
+       "op": "word",
+       "match_w": "stanau-bhruvau",
+       "field": "w",
+       "value": "stanau bhruvau"
+      },
+      {
+       "n": "122",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "prakṛṣṭaṃtarau",
+         "suggest": "prakṛṣṭāntarau",
+         "why": "possible: the ā-sign is missing before the anusvāra (prakṛṣṭā+ntarau); 'prakṛṣṭa-antara' = having a wide interval fits stanau-bhruvau"
+        },
+        {
+         "src": "stanaubhruvau",
+         "suggest": "stanau bhruvau",
+         "why": "possible: spacing error; au + bh has no sandhi, so two words (stanau, bhruvau), not a compound"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "a wide interval between the two breasts and the two eyebrows",
+     "problem": "Ambiguous: reads as an interval between the breasts and the eyebrows. The Sanskrit has the dual adjective prakṛṣṭāntarau agreeing with stanau and bhruvau (\"having a wide interval\"), not a stated \"between\".",
+     "fix": "On a conjectural reading, the two breasts and the two eyebrows having a wide interval.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "122",
+       "op": "set",
+       "field": "english",
+       "value": "On a conjectural reading, the two breasts and the two eyebrows having a wide interval."
+      },
+      {
+       "n": "122",
+       "op": "set",
+       "field": "hindi",
+       "value": "अनुमानित पाठ पर, बड़े अन्तर वाले दोनों स्तन और दोनों भौंहें।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kūrmānnatayo",
+     "problem": "Conjecture is plausible and -ayaḥ + n- = -ayo n- is regular. \"tortoise-like\"/कछुए जैसी adds a simile the tatpuruṣa kūrma-unnati does not state; number disagreement (nakhāḥ pl., pādau du., f. pl. adjective) shows the reading is weak. Alternative kūrmonnatau not recorded. Left as is (low confidence).",
+     "fix": "Owner: keep low confidence; consider \"tortoise-elevation\".",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "124",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "125",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "126",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "127",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "neither very stout nor lean",
+     "problem": "ati scopes over the dvandva sthūla-kṛśa (na-ati-sthūla-kṛśau): \"not very stout or lean\"; the draft drops \"very\" from kṛśa.",
+     "fix": "not very stout or lean",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "127",
+       "op": "replace",
+       "field": "english",
+       "old": "neither very stout nor lean",
+       "new": "not very stout or lean"
+      },
+      {
+       "n": "127",
+       "op": "replace",
+       "field": "hindi",
+       "old": "न बहुत मोटे और न दुबले",
+       "new": "बहुत मोटे या दुबले नहीं"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "128",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "129",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "130",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "131",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "īṣatpralaṃ / binyau",
+     "problem": "Word split across two printed tokens as \"pralam-\" and \"-binyau\" (not real words). The tool cannot merge words, so left; the whole word pralambinyau is explained in the flag and notes.",
+     "fix": "No change (owner: acceptable?)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "132",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "133",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "134",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "135",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "136",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "drying in due order as (it) spreads downward",
+     "problem": "Adds \"as\" and \"(it)\": the Sanskrit is a single instrumental compound adhaḥ-prasṛta-ānupūrvyā, \"by the order of the downward spread\" (the Hindi is already literal).",
+     "fix": "drying in the order of the downward spread",
+     "severity": "minor",
+     "patch": {
+      "n": "136",
+      "op": "replace",
+      "field": "english",
+      "old": "drying in due order as (it) spreads downward",
+      "new": "drying in the order of the downward spread"
+     }
+    }
+   ]
+  },
+  {
+   "n": "137",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(the following)",
+     "problem": "Brackets supply words the Sanskrit does not have (policy: nothing added). The formula needs no filler; a colon marks the lead-in.",
+     "fix": "And on this matter there is:",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "english",
+       "old": "there is (the following).",
+       "new": "there is:"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "hindi",
+       "old": "और इस विषय में है।",
+       "new": "और इस विषय में है:"
+      },
+      {
+       "n": "137",
+       "op": "replace",
+       "field": "notes",
+       "old": "so '(the following)' is supplied in parentheses in the English.",
+       "new": "so nothing is supplied and the English ends with a colon."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "138",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "A field (kṣetra) better and better",
+     "problem": "English makes uttarottara-su-kṣetram a noun (\"A field\"), but gram says bahuvrīhi and the Hindi says क्षेत्र वाला; neighbouring members are adjectives. Make English match.",
+     "fix": "(One) with a field (kṣetra) better and better, free from disease from the garbha (embryo; or womb) onward.",
+     "severity": "minor",
+     "patch": {
+      "n": "138",
+      "op": "replace",
+      "field": "english",
+      "old": "A field (kṣetra) better and better",
+      "new": "(One) with a field (kṣetra) better and better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "139",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "140",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "141",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "142",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "143",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sattvāṃs",
+     "problem": "Possible alternative for the unresolved \"sattvān tapyamānaḥ\": sattvavān (-vān + t = -vāṃs t) with \"va\" lost in print, \"endowed with sattva\". Not applied; unit stays low confidence and needs the owner.",
+     "fix": "Owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "144",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dayāstya",
+     "problem": "Besides dayā-satya, dayā-asteya (non-stealing) is as close to the print (one letter lost either way). Satya is the more common list member, so the flag is acceptable but the alternative is worth a note.",
+     "fix": "Note alternative dayāsteya",
+     "severity": "minor",
+     "patch": {
+      "n": "144",
+      "op": "append_note",
+      "text": "Reviewer: dayā-asteya (non-stealing) is an alternative to the conjectured dayā-satya for printed 'dayāstya'; not applied."
+     }
+    }
+   ]
+  },
+  {
+   "n": "145",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "guṇaḥ",
+     "problem": "Singular guṇaḥ kept as printed. A plural guṇāḥ (puṇyāyurvṛddhihetuguṇāḥ) would fit the lists of u144-145; owner decision, no change.",
+     "fix": "Owner decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "146",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "2 errors, 19 minor issues. Errors: u118 English drops netra (eyes); u122 stanaubhruvau printed spacing error unflagged and hyphenated as a compound. Main minors: Hindi pārśva/jatru/tāraka/citta hedges and glossary compliance (u118), '(the following)' filler in u137, English/Hindi mismatch for uttarottarasukṣetram (u138), 'very' dropped from kṛśa (u127), ambiguous 'interval' (u122), Hindi supplied unit (u112), vṛttau gender (u120). Damaged units (u118, u119, u132, u135) are handled as the glossary says (unsplit, unclear, low confidence). No plant/drug identifications; body-part identifications (hanu, tālu, meḍhra, nābhi, hṛdaya, śaṅkha, śirā standard; jatru, stanāgra, manyā, guhya probable) are acceptable, jatru now hedged in the translation. Human decisions: u118 sakthi vs ūru and tvakacakarajana candidate; u123 reading; u143 (sattvān vs sattvavān); u144 satya/asteya; u145 guṇaḥ/guṇāḥ; u131 split across tokens. No regrouping needed; u117 may list undesirable extremes (it follows aniṣṭa in u115) but the draft's hedged note is adequate.",
+ "glossary_suggestions": [
+  "Hindi tāraka (eye) = तारक यानी पुतली (bare तारा is ambiguous).",
+  "A printed space missing where no sandhi applies (stanaubhruvau) is a spacing error: flag it and write two separate words in `w`.",
+  "Lead-in formula 'bhavati cātra': English 'And on this matter there is:' (colon, no bracketed filler).",
+  "na-ati-sthūla-kṛśa: 'not very stout or lean' (ati scopes over both).",
+  "sakthi beside ūru in the same list: decide 'lower limb' vs 'thigh' (p02 ch08 u118)."
+ ]
+}
