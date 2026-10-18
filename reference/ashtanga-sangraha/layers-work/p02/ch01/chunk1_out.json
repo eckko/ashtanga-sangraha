@@ -1,0 +1,811 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śrīgaṇeśāya",
+      "words": [
+       {
+        "w": "śrī-gaṇeśāya",
+        "gloss": "to the auspicious Gaṇeśa (name of a deity)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "namaḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्री गणेश को नमस्कार।",
+  "english": "Homage to the auspicious Gaṇeśa.",
+  "text_flags": [],
+  "notes": "Invocation. 'Gaṇeśa' is a divine name; nothing further is added.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhanvantaraye",
+      "words": [
+       {
+        "w": "dhanvantaraye",
+        "gloss": "to Dhanvantari (name)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "namaḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन्वन्तरि को नमस्कार।",
+  "english": "Homage to Dhanvantari.",
+  "text_flags": [],
+  "notes": "Invocation; Dhanvantari kept as a name. The printed dative dhanvantaraye is a correct i-stem form.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "putrakāmiyaṃ",
+      "words": [
+       {
+        "w": "putrakāmīyam",
+        "gloss": "putrakāmīya, relating to one who desires a son",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śārīraṃvyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "śārīram",
+        "gloss": "śārīra, relating to the body",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसके बाद हम पुत्रकामीय शारीर की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the putrakāmīya (relating to one who desires a son) Śārīra (relating to the body).",
+  "text_flags": [
+   {
+    "src": "putrakāmiyaṃ",
+    "suggest": "putrakāmīyam",
+    "why": "possible: short i printed for long ī (putra-kāma + -īya)"
+   }
+  ],
+  "notes": "Both putrakāmīya and śārīra are accusative; the usual reading is that this is the chapter 'Putrakāmīya' of the Śārīra section, but the line does not say 'chapter'. The tokens śārīraṃvyākhyāsyāmaḥ is one printed word for śārīram vyākhyāsyāmaḥ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smāhurātreyādayo",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "(past-time particle)",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "said",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "ātreya-ādayaḥ",
+        "gloss": "Ātreya (name); and others",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "maharṣayaḥ",
+      "words": [
+       {
+        "w": "mahā-ṛṣayaḥ",
+        "gloss": "great; sages",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसा आत्रेय आदि महर्षियों ने कहा।",
+  "english": "Thus, indeed, Ātreya and the other great sages said.",
+  "text_flags": [],
+  "notes": "'ha sma' with a perfect is a past-time idiom; 'āhuḥ' is the perfect 3 pl. of √ah, 'they said'. 'Ātreya ādayaḥ' = Ātreya and others.",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khalupumānekaviṃśativarṣaḥ",
+      "words": [
+       {
+        "w": "khalu",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "pumān",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eka-viṃśati-varṣaḥ",
+        "gloss": "one; twenty; year (twenty-one years old)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kanyāmatulyagotrāmatulyābhijanāmasaṃcārirogakulaprasūtāṃ",
+      "words": [
+       {
+        "w": "kanyām",
+        "gloss": "girl",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "atulya-gotrām",
+        "gloss": "unlike; gotra (clan)",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "atulya-abhijanām",
+        "gloss": "unlike; ancestry",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "asaṃcāri-roga-kula-prasūtām",
+        "gloss": "non-transmitting; disease; family; born",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpaśīlalakṣaṇasaṃpannāmanūnāmavinaṣṭadaṃtauṣṭhakarṇanakhakeśastanīṃmṛdumarogāprakṛtimakapilāmapiṃgalāmahīnādhikāṃgīṃ",
+      "words": [
+       {
+        "w": "rūpa-śīla-lakṣaṇa-saṃpannām",
+        "gloss": "beauty; conduct; marks; endowed",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anūnām",
+        "gloss": "not deficient",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "avinaṣṭa-danta-oṣṭha-karṇa-nakha-keśa-stanīm",
+        "gloss": "undamaged; teeth; lips; ears; nails; hair; breasts",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "mṛdu-aroga-prakṛtim",
+        "gloss": "gentle; free of disease; constitution (prakṛti)",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "akapilām",
+        "gloss": "not tawny",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "apiṅgalām",
+        "gloss": "not reddish-brown",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ahīna-adhika-aṅgīm",
+        "gloss": "not deficient; excess; limbs",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśavarṣadeśīyāmamarabhujagasariccalavṛkṣapakṣinakṣatrānyaprekṣyabhīṣaṇakanāmānyanudvahaṃtīmanaghāmaniṃdyā",
+      "words": [
+       {
+        "w": "dvādaśa-varṣa-deśīyām",
+        "gloss": "twelve; year; approximately",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "amara-bhujaga-sarit-cala-vṛkṣa-pakṣi-nakṣatra-anya-aprekṣya-bhīṣaṇaka-nāmāni",
+        "gloss": "immortals; serpents; rivers; moving things; trees; birds; stars; other; not to be looked at; frightening; names",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "anudvahantīm",
+        "gloss": "not bearing",
+        "gram": "pres. part. f. acc. sg. an-ud-√vah"
+       },
+       {
+        "w": "anaghām",
+        "gloss": "faultless",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anindyām",
+        "gloss": "blameless",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "maniṃdyena",
+      "words": [
+       {
+        "w": "anindyena",
+        "gloss": "blameless",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhinādudvahet",
+      "words": [
+       {
+        "w": "vidhinā",
+        "gloss": "by rule",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "udvahet",
+        "gloss": "should marry",
+        "gram": "3 sg. opt. ud-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इक्कीस वर्ष का पुरुष ऐसी कन्या से विवाह करे जो असमान गोत्र की और असमान वंश की हो, जिसका जन्म ऐसे कुल में हुआ हो जिसमें रोग संचारी नहीं है, जो रूप, शील और लक्षणों से सम्पन्न हो, न्यून न हो, जिसके दाँत, होंठ, कान, नख, केश और स्तन नष्ट न हुए हों, जिसकी प्रकृति कोमल और रोगरहित हो, जो न कपिला हो न पिंगला, जिसके अंग न हीन हों न अधिक, जो लगभग बारह वर्ष की हो, जो देवता, सर्प, नदी, चल वस्तु, वृक्ष, पक्षी, नक्षत्र तथा अन्य न देखने योग्य और भयानक वस्तुओं के नाम धारण न करती हो, जो निर्दोष और निन्दा से रहित हो; निन्दारहित विधि से वह उसे ब्याहे।",
+  "english": "Now, a man of twenty-one years should marry, by a blameless rule, a girl of unlike gotra and of unlike ancestry, born in a family in which disease is non-transmitting; endowed with beauty, conduct and marks; not deficient; whose teeth, lips, ears, nails, hair and breasts are undamaged; whose constitution (prakṛti) is gentle and free of disease; not tawny and not reddish-brown; with limbs neither deficient nor in excess; of about twelve years; not bearing names of immortals, serpents, rivers, moving things, trees, birds, stars, or of other things not to be looked at and frightening; faultless and blameless.",
+  "text_flags": [
+   {
+    "src": "aniṃdyā",
+    "suggest": "aniṃdyām",
+    "why": "print spacing: the final m of aniṃdyām stands at the start of the next printed token"
+   },
+   {
+    "src": "maniṃdyena",
+    "suggest": "aniṃdyena",
+    "why": "stray m belongs to the preceding word aniṃdyām"
+   },
+   {
+    "src": "vidhinādudvahet",
+    "suggest": "vidhinā udvahet",
+    "why": "possible: extra 'du' (or vidhinodvahet); sense 'by rule, should marry'"
+   },
+   {
+    "src": "mṛdumarogāprakṛtimakapilāmapiṃgalām",
+    "suggest": "mṛdvarogaprakṛtim akapilām apiṅgalām",
+    "why": "possible: masculine mṛdum beside feminine accusatives; ā in arogā- also doubtful"
+   }
+  ],
+  "notes": "Long single prose sentence; subject pumān, verb udvahet at the end. Parse points: (1) atulya = 'unlike' (the text does not say 'not of his own'); the sense is probably 'not of his own gotra and ancestry'. (2) asaṃcāri-roga-kula: literally 'disease non-transmitting, family'; the sense is probably a family without hereditary disease, not certain. (3) mṛdu-aroga-prakṛti: reading uncertain, see text_flags. (4) ahīna-adhika-aṅgī: literally 'not deficient, in excess, limbed'; the plainer sense is 'neither deficient nor excessive in limbs'. (5) deśīya = approximately. (6) the name-list: 'nakṣatrānyaprekṣyabhīṣaṇakanāmāni' could also be read nakṣatra-nāmāni, anya-aprekṣya-bhīṣaṇaka-nāmāni; the rendering 'of other things not to be looked at and frightening' is one reading. cala is rendered 'moving things'; its exact referent is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in her",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍaśavarṣīyāṃ",
+      "words": [
+       {
+        "w": "ṣoḍaśa-varṣīyām",
+        "gloss": "sixteen; years (of sixteen years)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṃcaviṃśativarṣaḥ",
+      "words": [
+       {
+        "w": "pañcaviṃśati-varṣaḥ",
+        "gloss": "twenty-five; years (twenty-five years old)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaḥ",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "putrārthaṃ",
+      "words": [
+       {
+        "w": "putra-artham",
+        "gloss": "son; for the sake of",
+        "gram": "ind. (acc. sg. used as adverb)"
+       }
+      ]
+     },
+     {
+      "src": "prayateta",
+      "words": [
+       {
+        "w": "prayateta",
+        "gloss": "should strive",
+        "gram": "3 sg. opt. ā. pra-√yat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें, जो सोलह वर्ष की है, पच्चीस वर्ष का पुरुष पुत्र के लिए प्रयत्न करे।",
+  "english": "In her, of sixteen years, a man of twenty-five years should strive for the sake of a son.",
+  "text_flags": [],
+  "notes": "Ages are translated as printed (unit 5 says the girl is of about twelve years; this unit says sixteen). The two statements are not reconciled here. 'tasyām' refers back to the kanyā of unit 5.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tau",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "prāptavīryau",
+      "words": [
+       {
+        "w": "prāpta-vīryau",
+        "gloss": "attained; potency (vīrya)",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vīryānvitamapatyaṃ",
+      "words": [
+       {
+        "w": "vīrya-anvitam",
+        "gloss": "potency; endowed with",
+        "gram": "tat-puruṣa, n. acc. sg."
+       },
+       {
+        "w": "apatyam",
+        "gloss": "offspring",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayataḥ",
+      "words": [
+       {
+        "w": "janayataḥ",
+        "gloss": "beget",
+        "gram": "3 du. pres. √jan (caus.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि तब वे दोनों वीर्य यानी शक्ति को प्राप्त होकर शक्ति से युक्त सन्तान को उत्पन्न करते हैं।",
+  "english": "For then those two, having attained potency (vīrya), beget offspring endowed with potency.",
+  "text_flags": [],
+  "notes": "'vīrya' is rendered 'potency' (vigor), not semen; the text does not say 'semen' here. The printed token vīryānvitamapatyaṃ is vīrya-anvitam apatyam; split into two words below.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūnapaṃcaviṃśativarṣeṇonaṣoḍaśavarṣīyāmāhito",
+      "words": [
+       {
+        "w": "ūna-pañcaviṃśati-varṣeṇa",
+        "gloss": "less than; twenty-five; years",
+        "gram": "bahuvrīhi, m. inst. sg."
+       },
+       {
+        "w": "ūna-ṣoḍaśa-varṣīyām",
+        "gloss": "less than; sixteen; years",
+        "gram": "bahuvrīhi, f. acc. sg."
+       },
+       {
+        "w": "āhitaḥ",
+        "gloss": "placed",
+        "gram": "ppp. ā-√dhā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhaḥkukṣisya",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo (garbha; standard)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "kukṣi-sthaḥ",
+        "gloss": "womb; staying",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vināśamāpnuyādalpāyurbalārogyavibhavo",
+      "words": [
+       {
+        "w": "vināśam",
+        "gloss": "destruction",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āpnuyāt",
+        "gloss": "may reach",
+        "gram": "3 sg. opt. ā-√āp"
+       },
+       {
+        "w": "alpa-āyuḥ-bala-ārogya-vibhavaḥ",
+        "gloss": "small; life-span; strength; health; means",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syādvikleṃdriyo",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "may be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "vikala-indriyaḥ",
+        "gloss": "defective; sense organs",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṛtāvādye",
+      "words": [
+       {
+        "w": "ṛtau",
+        "gloss": "in the ṛtu (fertile season)",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ādye",
+        "gloss": "first",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rātritraye",
+      "words": [
+       {
+        "w": "rātri-traye",
+        "gloss": "night; triad",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duṣṭe",
+      "words": [
+       {
+        "w": "duṣṭe",
+        "gloss": "vitiated",
+        "gram": "ppp. √duṣ, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukrārtavahati",
+      "words": [
+       {
+        "w": "śukrārtavahati",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पच्चीस वर्ष से कम आयु वाले पुरुष द्वारा सोलह वर्ष से कम आयु वाली में स्थापित गर्भ कोख में ही नाश को प्राप्त हो जाए, या अल्पायु तथा बल, आरोग्य और साधनों से हीन हो, या विकल इन्द्रियों वाला हो; और ऋतु में, पहली तीन रात्रियों में, तथा दूषित होने पर, अनुमानित पाठ पर, शुक्र और आर्तव का क्षय।",
+  "english": "An embryo (garbha) placed by one of less than twenty-five years in one of less than sixteen years may reach destruction in the womb itself, or may be of short life-span, with little strength, health and means, or with defective sense organs; and in the ṛtu, in the first triad of nights, and likewise when it is vitiated, on a conjectural reading, injury of semen and menstrual blood (śukra and ārtava).",
+  "text_flags": [
+   {
+    "src": "garbhaḥkukṣisya",
+    "suggest": "garbhaḥ kukṣisthaḥ",
+    "why": "possible: 'kukṣisya' is not a word; 'kukṣisthaḥ' (staying in the womb) fits sense and the following eva; th/y confusion"
+   },
+   {
+    "src": "vikleṃdriyo",
+    "suggest": "vikalendriyo",
+    "why": "possible: ṃ for a; vikala-indriya 'with defective senses'"
+   },
+   {
+    "src": "śukrārtavahati",
+    "suggest": "śukrārtave hi / śukrārtavahatiḥ",
+    "why": "possible: final word is unclear; no sure restoration (śukra-ārtava with hati 'injury' is only a guess)"
+   }
+  ],
+  "notes": "Heavy sentence; the last token śukrārtavahati is unrestorable with confidence: kept unsplit and marked unclear; the translation of the end is on a conjectural reading ('injury of semen and menstrual blood'). 'ṛtau ādye ca rātritraye' is rendered literally ('in the ṛtu, and in the first triad of nights'); the intended sense (first three nights of the menstrual period) is not stated by the words. ṛtu = the woman's fertile or menstrual season (probable). The subject of 'syāt' is the embryo/child. garbha is rendered 'embryo'; 'fetus' is also possible.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrāhārasyasamyakpariṇatasya",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "āhārasya",
+        "gloss": "of food",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "samyak-pariṇatasya",
+        "gloss": "well; transformed (digested)",
+        "gram": "ppp. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramānmajjānamanuprāptasya",
+      "words": [
+       {
+        "w": "kramāt",
+        "gloss": "in order, in sequence",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "majjānam",
+        "gloss": "marrow (majjan)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anuprāptasya",
+        "gloss": "reached",
+        "gram": "ppp. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāraḥ",
+      "words": [
+       {
+        "w": "sāraḥ",
+        "gloss": "essence",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukrasaṃjñāṃ",
+      "words": [
+       {
+        "w": "śukra-saṃjñām",
+        "gloss": "śukra (semen); name",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhate",
+      "words": [
+       {
+        "w": "labhate",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ā. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ भोजन का, जो ठीक प्रकार परिणत होकर क्रम से मज्जा को प्राप्त हुआ है, सार शुक्र यानी वीर्य, पुरुष का प्रजनन द्रव, नाम पाता है।",
+  "english": "There, the essence (sāra) of food that has been well transformed and has in order reached the marrow (majjan) obtains the name śukra (semen).",
+  "text_flags": [],
+  "notes": "Identification: śukra = semen (standard). majjan = marrow (probable; here the body tissue majjā, not a seed kernel). 'tatra' is taken as 'there/in that case'.",
+  "confidence": "high"
+ }
+]
