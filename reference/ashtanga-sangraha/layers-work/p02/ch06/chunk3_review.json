@@ -1,0 +1,1062 @@
+{
+ "units": [
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुक्र",
+     "problem": "Hindi leaves śukra bare while English glosses it; dual stanau/muṣkau lost.",
+     "fix": "शुक्र यानी वीर्य ...; दोनों स्तन, दोनों मुष्क",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "शुक्र यानी वीर्य को वहन करने वालों के दोनों स्तन, दोनों मुष्क यानी अण्डकोश और मज्जा।",
+      "n": "83"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śukra-vāhinām",
+     "problem": "Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender.",
+     "fix": "tat-puruṣa, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śukra-vāhinām",
+      "field": "gram",
+      "value": "tat-puruṣa, gen. pl.",
+      "n": "83"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mūtra-vāhinām",
+     "problem": "Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender.",
+     "fix": "tat-puruṣa, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūtra-vāhinām",
+      "field": "gram",
+      "value": "tat-puruṣa, gen. pl.",
+      "n": "84"
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śakṛd-vāhinām",
+     "problem": "Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender.",
+     "fix": "tat-puruṣa, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śakṛd-vāhinām",
+      "field": "gram",
+      "value": "tat-puruṣa, gen. pl.",
+      "n": "85"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पक्वाशय",
+     "problem": "English glosses and hedges pakvāśaya (probably the large-bowel region); Hindi gives bare पक्वाशय (Hindi must carry the identification and hedge).",
+     "fix": "पक्वाशय यानी पचे हुए का स्थान, सम्भवतः बड़ी आँत का क्षेत्र",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मल को वहन करने वालों का पक्वाशय यानी पचे हुए का स्थान, सम्भवतः बड़ी आँत का क्षेत्र और स्थूलान्त्र यानी सम्भवतः बड़ी आँत।",
+      "n": "85"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sveda-vāhinām",
+     "problem": "Adjective standing for the unstated noun (srotasām) carries 'n.' in gram; glossary: case and number only, never gender.",
+     "fix": "tat-puruṣa, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sveda-vāhinām",
+      "field": "gram",
+      "value": "tat-puruṣa, gen. pl.",
+      "n": "86"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मेद यानी वसा",
+     "problem": "Hindi equates medas with वसा, but u123 (and the text) keep medas and vasā as two different items; the Hindi reader would conflate them.",
+     "fix": "मेद यानी चर्बी",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "स्वेद यानी पसीने को वहन करने वालों का मेद यानी चर्बी और रोमकूप यानी रोम के छिद्र।",
+      "n": "86"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इनकी विविध दूषण",
+     "problem": "Ungrammatical, hard-to-read Hindi ('इनकी विविध दूषण'); yathāsvam rendered यथायोग्य where the chunk elsewhere uses 'अपने-अपने अनुसार'; vihāra unglossed.",
+     "fix": "Reworded Hindi.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इनके अनेक तरह के दूषण, अहितकर आहार और विहार यानी आचरण, उपद्रव और साधन को दोष आदि से जानना चाहिए; अपने-अपने अनुसार वृद्धि और क्षय के लक्षण से पहचानना चाहिए।",
+      "n": "87"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "lakṣayet",
+     "problem": "lakṣayati (√lakṣ) is 10th class, not a causative (glossary: curādi verbs are not 'caus.').",
+     "fix": "3 sg. opt. √lakṣ (10th cl.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "lakṣayet",
+      "field": "gram",
+      "value": "3 sg. opt. √lakṣ (10th cl.)",
+      "n": "87"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ahita-āhāra-vihāram",
+     "problem": "A singular accusative dvandva of two masculines is a collective (samāhāra) dvandva and neuter, not 'm.'; the neuter 'vividham' might then agree with it.",
+     "fix": "dvandva (collective), n. acc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "ahita-āhāra-vihāram",
+       "field": "gram",
+       "value": "dvandva (collective), n. acc. sg.",
+       "n": "87"
+      },
+      {
+       "op": "append_note",
+       "text": "Alternative: 'vividham' (n. acc. sg.) may agree with 'ahitāhāravihāram' ('various unwholesome food and conduct') instead of qualifying 'dūṣaṇam'.",
+       "n": "87"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "vṛddhi-kṣaya-lakṣaṇena",
+     "problem": "Label 'dvandva/tat-puruṣa' is undecided.",
+     "fix": "tat-puruṣa (with dvandva vṛddhi-kṣaya), n. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vṛddhi-kṣaya-lakṣaṇena",
+      "field": "gram",
+      "value": "tat-puruṣa (with dvandva vṛddhi-kṣaya), n. inst. sg.",
+      "n": "87"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vijñānīyāt",
+     "problem": "The regular optative of vi-√jñā is vijānīyāt; 'vijñānīyāt' (printed in the Devanagari too) is not a regular opt., so '3 sg. opt.' is not secure (could be a gerundive-type form, or a Sanskrit-grammar slip). Owner to decide (draft listed it as open).",
+     "fix": "Left as drafted; human decision.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और मृत्यु होती है।",
+     "problem": "Hindi adds the verb 'होती है'; the Sanskrit (and the English) has no verb in the list.",
+     "fix": "और मृत्यु।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और मृत्यु होती है।",
+      "new": "और मृत्यु।",
+      "n": "88"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "jvarānirudhiraśruti",
+     "problem": "Observation: with ta/na confusion (glossary OCR list), 'anirudhira' may be 'atirudhira' ('jvara, excessive flow of blood'), which would explain the stray 'ani' with no unsplit leftover. Also the gloss of the unsplit entry carries the guess ('probably rudhira-śruti') although glossary (p02 ch03 k2) says a guess for a damaged word stays out of gloss. Translation is hedged 'on a conjectural reading' in both languages as the owner brief asked; owner to choose between the two glossary rules.",
+     "fix": "None",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "89",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "srotas-viddham",
+     "problem": "Adjective standing for an unstated person: gloss/gram should carry case and number only.",
+     "fix": "tat-puruṣa, acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "srotas-viddham",
+      "field": "gram",
+      "value": "tat-puruṣa, acc. sg.",
+      "n": "89"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "srotau",
+     "problem": "Observation: 'srotauviddham' could also be an OCR slip for 'srotasi viddham' (pierced in the srotas), which is what the translation already says; the draft's srotoviddha (srotas-viddha) is equally possible.",
+     "fix": "None",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative emendation: 'srotasi viddham' (pierced in the srotas); sense the same.",
+      "n": "89"
+     }
+    }
+   ]
+  },
+  {
+   "n": "90",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "uddhṛta-śalyam",
+     "problem": "Adjective for an unstated person: no gender in gram.",
+     "fix": "bahuvrīhi, acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "uddhṛta-śalyam",
+      "field": "gram",
+      "value": "bahuvrīhi, acc. sg.",
+      "n": "90"
+     }
+    }
+   ]
+  },
+  {
+   "n": "91",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sirā",
+     "problem": "Printed 'sirā dhamanyaḥ': -āḥ before dh loses its visarga by regular sandhi (glossary), so this is sirāḥ nom. pl., as the draft itself reads it in u95. 'f. nom. sg.' and the note 'sirā is singular' are wrong.",
+     "fix": "w sirāḥ, f. nom. pl.",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sirā",
+       "field": "gram",
+       "value": "f. nom. pl.",
+       "n": "91"
+      },
+      {
+       "op": "word",
+       "match_w": "sirā",
+       "field": "w",
+       "value": "sirāḥ",
+       "n": "91"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "Number: sirā is singular and dhamanyaḥ plural as printed.",
+       "new": "Printed 'sirā' is sirāḥ (visarga lost before dh, regular sandhi), plural like dhamanyaḥ.",
+       "n": "91"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "धमनियाँ यानी सम्भवतः नाड़ियाँ",
+     "problem": "Hindi renders dhamanī as 'नाड़ियाँ', which is a different item (nāḍī, listed separately in u95) and contradicts the English (probably arteries); the gloss of sirā repeats the name (शिरा).",
+     "fix": "Reworded Hindi with a real gloss.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उनमें सिराएँ यानी सम्भवतः शिराएँ यानी नसें और धमनियाँ यानी स्पन्दन करने वाली वाहिकाएँ, सम्भवतः आधुनिक अर्थ की धमनियाँ, स्रोतसों के ही विशेष रूप हैं।",
+      "n": "91"
+     }
+    }
+   ]
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "hold that they are different",
+     "problem": "English supplies 'that they are different' ('they', 'are'); the Sanskrit says only anyatvam icchanti.",
+     "fix": "But others maintain a difference (anyatva).",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "But others maintain a difference (anyatva).",
+       "n": "92"
+      },
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "परन्तु दूसरे अन्यता यानी भिन्नता मानते हैं।",
+       "n": "92"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(spacing slip; regular sandhi)",
+     "problem": "The note calls the join regular sandhi; a+iva would give 'eva'. The Devanagari actually shows अविभाग इव (two vowels unjoined, IAST 'ai' is only the transliteration), so the draft's reading is right but the justification is wrong.",
+     "fix": "Corrected note.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(spacing slip; regular sandhi)",
+      "new": "(spacing slip; the Devanagari prints अविभाग इव with the vowels unjoined, the IAST 'ai' is a transliteration artefact)",
+      "n": "93"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vibhakta-karmaṇām",
+     "problem": "Bahuvrīhi qualifying the three previously named items of mixed gender; 'n.' is not secure.",
+     "fix": "bahuvrīhi, gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vibhakta-karmaṇām",
+      "field": "gram",
+      "value": "bahuvrīhi, gen. pl.",
+      "n": "93"
+     }
+    }
+   ]
+  },
+  {
+   "n": "94",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "95",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रस को वहन करने वाली",
+     "problem": "Singular feminine adjective dangling in a plural list; number and the noun's absence not shown.",
+     "fix": "रसवाहिनियाँ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रस को वहन करने वाली,",
+      "new": "रसवाहिनियाँ,",
+      "n": "95"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आशय, क्षय और निकेत",
+     "problem": "Glossary: always gloss Hindi आशय; क्षय here means 'abode' and could be read as the disease/decrease sense; English glosses all three.",
+     "fix": "आशय यानी आधार, क्षय यानी निवास, निकेत यानी आवास",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्थान, आशय, क्षय और निकेत",
+      "new": "स्थान, आशय यानी आधार, क्षय यानी निवास और निकेत यानी आवास",
+      "n": "95"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "saṃvṛtāsaṃvṛtāni",
+     "problem": "Note says 'closed and open' qualifies the list, but the English (and Hindi) attach it to 'openings of the body'; it could also be a separate name.",
+     "fix": "Notes aligned with the translation.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "is read as qualifying the list.",
+      "new": "is read with 'śarīracchidrāṇi' (openings of the body); it could also be a separate name in the list.",
+      "n": "95"
+     }
+    }
+   ]
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prakupitāḥsthānasthānamārgasthāṃśca",
+     "problem": "Observation for the owner: the printed string reproduces exactly as sthānasthān + amārgasthān (no emendation needed, 'in their place and out of their path'), whereas the kept reading sthāna-sthān + mārga-sthān needs the flagged 'repeated sthāna' slip. Sense favours neither strongly; the zero-emendation reading deserves weight.",
+     "fix": "Left as drafted (flag kept).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Of all these indeed, the vitiators",
+     "problem": "Detached 'Of all these' reads as if teṣām sarveṣām qualified something else; natural order: the vitiators of all these.",
+     "fix": "The vitiators of all these indeed are the vitiated doṣas.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "english",
+       "value": "The vitiators of all these indeed are the vitiated doṣas.",
+       "n": "100"
+      },
+      {
+       "op": "append_note",
+       "text": "Alternative for the printed Devanagari 'सर्वेषामैव' (real ऐ): sarveṣāṃ caiva (ca lost); 'eva' kept as the simpler guess.",
+       "n": "100"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "101",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अग्नि के दोष",
+     "problem": "English glosses agni as digestive fire; Hindi bare.",
+     "fix": "अग्नि यानी पाचन की अग्नि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि के दोष",
+      "new": "अग्नि यानी पाचन की अग्नि के दोष",
+      "n": "101"
+     }
+    }
+   ]
+  },
+  {
+   "n": "102",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आयु, आरोग्य, बल, उपचय, वर्ण और ओजस्",
+     "problem": "Technical words unglossed in Hindi (and ojas in English).",
+     "fix": "Glossed Hindi and English.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "इसलिए निमित्त: आयु, आरोग्य, बल, उपचय यानी वृद्धि, वर्ण यानी रंगत और ओजस् यानी जीवन-सार।",
+       "n": "102"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "and ojas.",
+       "new": "and ojas (vital essence).",
+       "n": "102"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "tasmānnimittāni",
+     "problem": "Observation: 'tasmān nimittāni' may be a corruption of 'tan-nimittāni' ('caused by that', i.e. by agni), which fits the six items (all results of agni) and the next unit 'tat-pratibaddhāni'. Also tasmāt could be ablative 'from that (agni), as cause'. Low confidence is right; no firm reading.",
+     "fix": "None",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "103",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the rañjaka and the rest",
+     "problem": "Doctrinal term left bare in the translation; caller policy: short gloss.",
+     "fix": "the rañjaka (a kind of Pitta) and the rest",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the rañjaka and the rest",
+      "new": "the rañjaka (a kind of Pitta) and the rest",
+      "n": "103"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रञ्जक आदि, भूताग्नियाँ और धात्वग्नियाँ",
+     "problem": "Technical terms unglossed in Hindi.",
+     "fix": "Glossed.",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "रञ्जक आदि",
+       "new": "रञ्जक यानी पित्त का एक भेद आदि",
+       "n": "103"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "भूताग्नियाँ और धात्वग्नियाँ",
+       "new": "भूताग्नियाँ यानी भूतों की अग्नियाँ और धात्वग्नियाँ यानी धातुओं की अग्नियाँ",
+       "n": "103"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "104",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by that very agni",
+     "problem": "'agni' is supplied for tena (pronoun); draft convention marks supplied words in parentheses.",
+     "fix": "by that very (agni)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by that very agni",
+      "new": "by that very (agni)",
+      "n": "104"
+     }
+    }
+   ]
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाचक",
+     "problem": "Hindi leaves pācaka unglossed (English: the digesting one).",
+     "fix": "पाचक यानी पचाने वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसका नाम पाचक है",
+      "new": "जिसका नाम पाचक यानी पचाने वाला है",
+      "n": "105"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मल",
+     "problem": "Bare मल reads as stool in Hindi; English glosses it as waste.",
+     "fix": "मल यानी अपशिष्ट",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोष, धातु और मल के संयोग",
+      "new": "दोष, धातु और मल यानी अपशिष्ट के संयोग",
+      "n": "107"
+     }
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कोष्ठ / आमाशय",
+     "problem": "Hindi omits the glosses and the hedge the English carries (koṣṭha storehouse/belly; āmāśaya probably the stomach; Hindi आमाशय = जठर per glossary).",
+     "fix": "Glossed and hedged.",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कोष्ठ में खींचा है",
+       "new": "कोष्ठ यानी भण्डार या पेट में खींचा है",
+       "n": "108"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "आमाशय में स्थित को",
+       "new": "आमाशय यानी कच्चे अन्न का स्थान, सम्भवतः जठर में स्थित को",
+       "n": "108"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सब रसों",
+     "problem": "Bare रस = juice/essence in Hindi; here the six tastes.",
+     "fix": "सब रसों यानी स्वादों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब रसों वाला",
+      "new": "सब रसों यानी स्वादों वाला",
+      "n": "109"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ādau",
+     "problem": "ādi is masculine; 'n. loc. sg.' is wrong.",
+     "fix": "loc. sg. of ādi, as ind.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ādau",
+      "field": "gram",
+      "value": "loc. sg. of ādi, as ind.",
+      "n": "109"
+     }
+    }
+   ]
+  },
+  {
+   "n": "110",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "passing down",
+     "problem": "'down' is not in cyavamāna (falling/slipping away from); the direction is inferred.",
+     "fix": "falling away from the āmāśaya",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "passing down from the āmāśaya",
+       "new": "falling away from the āmāśaya",
+       "n": "110"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "आमाशय से नीचे जाता हुआ",
+       "new": "आमाशय से खिसकता हुआ",
+       "n": "110"
+      },
+      {
+       "op": "word",
+       "match_w": "cyavamānam",
+       "field": "gloss",
+       "value": "falling, slipping away",
+       "n": "110"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वायु",
+     "problem": "Glossary: Hindi uses वात for the doṣa and वायु only for plain wind. Here anila stands in the Kapha-Pitta-anila series (Vāta), and Hindi also drops the pakvāśaya gloss/hedge the English carries.",
+     "fix": "अनिल यानी वात; पक्वाशय glossed",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "और पक्वाशय यानी सम्भवतः बड़ी आँत के क्षेत्र में पहुँचकर तीखा हो गया, अनिल यानी वात को।",
+       "n": "111"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "(it stirs up) wind (anila)",
+       "new": "(it stirs up) the wind (anila, that is Vāta)",
+       "n": "111"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vyastāni",
+     "problem": "Observation: 'vyastāni' is neuter plural, so the subject behind the damaged words is probably neuter (e.g. mahābhūtāni, 'pañcātmakāni mahābhūtāni'), not the masculine 'mahābhūtāgnayaḥ' of the flag; the flag stays a guess only.",
+     "fix": "Note added.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The neuter plural 'vyastāni' suggests a neuter subject (such as mahābhūtāni) rather than the masculine 'mahābhūtāgnayaḥ'; the restoration is a guess only.",
+      "n": "112"
+     }
+    }
+   ]
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शरीर में स्थित, अपने अविकृत",
+     "problem": "'ca' (dehāśritāṃś ca) dropped in Hindi.",
+     "fix": "शरीर में स्थित और अपने अविकृत",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शरीर में स्थित, अपने अविकृत",
+      "new": "शरीर में स्थित और अपने अविकृत",
+      "n": "113"
+     }
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "औषध-द्रव्यों",
+     "problem": "Adds 'द्रव्य'; auṣadha = medicine (औषध).",
+     "fix": "अनेक औषधों को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनेक औषध-द्रव्यों को",
+      "new": "अनेक औषधों को",
+      "n": "114"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vividhauṣadhagarbhād iva snehāt",
+     "problem": "Observation: the likely point of the simile is oil boiled with many herbs, from which clear oil and dregs (kiṭṭa) come apart; the draft keeps it literal, which is right.",
+     "fix": "None",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tābhyām",
+     "problem": "Refers to sāra and mala (both masculine); 'f.' is wrong.",
+     "fix": "m. inst. du.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "tābhyām",
+      "field": "gram",
+      "value": "m. inst. du.",
+      "n": "115"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भरते हैं",
+     "problem": "āpūryante is passive; Hindi 'भरते हैं' reads as if the srotas fill something.",
+     "fix": "भरे जाते हैं",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अटूट प्रवाह में भरते हैं।",
+      "new": "अटूट प्रवाह में भरे जाते हैं।",
+      "n": "115"
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āpyāyamānānām",
+     "problem": "āpyāyate is ātmanepada, not passive (glossary).",
+     "fix": "pres. mid. part. ā-√pyāy, n. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āpyāyamānānām",
+      "field": "gram",
+      "value": "pres. mid. part. ā-√pyāy, n. gen. pl.",
+      "n": "117"
+     }
+    }
+   ]
+  },
+  {
+   "n": "118",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रसाद और मल / मान",
+     "problem": "Hindi technical terms bare (प्रसाद, मल, मान).",
+     "fix": "Glossed Hindi.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और तब धातु नामक प्रसाद यानी निर्मल सार और मल यानी अपशिष्ट अपने-अपने मान यानी माप का ही अनुसरण करते हैं, आयु और शरीर के अनुसार।",
+      "n": "118"
+     }
+    }
+   ]
+  },
+  {
+   "n": "119",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "named by the dhātus beginning with 'prāmrakta' (unclear)",
+     "problem": "'beginning with' and 'the dhātus' are not in the damaged word: prāmraktādi is printed as one unclear word before dhātu-saṃjñakaḥ ('having the dhātu name'). The draft's Hindi ('अस्पष्ट आरम्भ वाले') says something different again, so the unclear mark does not match across languages; samastu's 'reading uncertain' is also missing in Hindi; vyāna unglossed.",
+     "fix": "Aligned English; Hindi rewritten.",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "named by the dhātus beginning with 'prāmrakta' (unclear)",
+       "new": "bearing the dhātu name 'prāmraktādi' (unclear)",
+       "n": "119"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "scattered by vyāna,",
+       "new": "scattered by vyāna (a wind),",
+       "n": "119"
+      },
+      {
+       "op": "set",
+       "field": "hindi",
+       "value": "वहाँ आहार-रस, व्यान यानी शरीर में फैलने वाली वायु से बिखेरा हुआ, अपने-अपने अनुसार सम होकर — पाठ अनिश्चित —, धातुओं की अग्नियों में क्रम से पकता हुआ, अपने स्वरूप के छूटने के तुरन्त बाद, प्राम्रक्तादि — यह शब्द अस्पष्ट है — धातु नाम वाला, यथासमय अटूट बल-परिमाण वाला होकर, शरीर को पुष्ट करके, धातुओं और धातुओं के मलों को पोषित करता है।",
+       "n": "119"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "120",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "किट्ट",
+     "problem": "Hindi leaves kiṭṭa unglossed (u114 too).",
+     "fix": "अन्न का किट्ट यानी अपशिष्ट",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्न का किट्ट:",
+      "new": "अन्न का किट्ट यानी अपशिष्ट:",
+      "n": "120"
+     }
+    }
+   ]
+  },
+  {
+   "n": "121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "122",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कण्डराएँ",
+     "problem": "English hedges kaṇḍarā (probably large tendons); Hindi carries no identification or hedge.",
+     "fix": "कण्डराएँ यानी सम्भवतः बड़े टेंडन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कण्डराएँ और सिराएँ भी",
+      "new": "कण्डराएँ यानी सम्भवतः बड़े टेंडन और सिराएँ भी",
+      "n": "122"
+     }
+    }
+   ]
+  },
+  {
+   "n": "123",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the skin layers",
+     "problem": "'layers' is supplied; tvacaḥ is plural 'skins'.",
+     "fix": "the skins (tvacaḥ, plural)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "the skin layers and vasā",
+       "new": "the skins (tvacaḥ, plural) and vasā",
+       "n": "123"
+      },
+      {
+       "op": "word",
+       "match_w": "tvacaḥ",
+       "field": "gloss",
+       "value": "skins (plural)",
+       "n": "123"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "मांस का सार मेद, त्वचाएँ और वसा है",
+       "new": "मांस का सार मेद यानी चर्बी, त्वचाएँ और वसा यानी मांस की चर्बी है",
+       "n": "123"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "kiṭṭaṃ ... malāḥ",
+     "problem": "Observation: singular kiṭṭam with plural malāḥ; translation (the refuse is the wastes of ...) is acceptable; no regrouping suggested.",
+     "fix": "None",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "41 units reviewed. Issues: 10 error, 43 minor over 34 units. Main problems: u91 sirā number and Hindi dhamanī as नाड़ी, u115 tābhyām gender and active Hindi for passive, u119 unclear mark mismatched between English and Hindi and 'beginning with' invented, u111 anila/वायु vs वात, u85/u108/u111 Hindi lacks hedges the English carries, u87/u95 Hindi grammar, many unglossed Hindi doctrinal terms. All identifications (sirā, dhamanī, pakvāśaya, sthūlāntra, āmāśaya, lasīkā, kaṇḍarā) look right and properly hedged; no plants. Grouping notes are sensible (90 continues 89; 94 introduces 95; 96-97; 106-107; 98-99; 110-111). Devanagari shows u93 and u112 vowel junctions are hiatus, so the draft's iva and viklinne āhāre are fine. Open items for the owner: u87 vijñānīyāt form, u97 zero-emendation reading, u102 tan-nimitta, u88 atirudhira, u112 neuter subject.",
+ "glossary_suggestions": [
+  "anila in a Kapha-Pitta-anila series = Vāta (English 'the wind (anila, that is Vāta)', Hindi 'अनिल यानी वात'); named vāyus (prāṇa, samāna, vyāna) stay 'wind'/'वायु' with 'a wind' gloss.",
+  "Hindi medas = मेद यानी चर्बी, vasā = वसा यानी मांस की चर्बी (kept apart); kiṭṭa = किट्ट यानी अपशिष्ट; prasāda = प्रसाद यानी निर्मल सार; ojas = ओजस् यानी जीवन-सार; mala = मल यानी अपशिष्ट.",
+  "tvacaḥ (plural) = 'skins', not 'skin layers'.",
+  "A singular accusative/nominative dvandva of two items is a collective (samāhāra) dvandva, neuter.",
+  "Adjectives like -vāhinām standing for an unstated srotasām: gram has case and number only.",
+  "IAST 'ai' can be a hiatus of two Devanagari vowels (अविभाग इव, विक्लिन्नआहारे): check the Devanagari before arguing about sandhi (confirmed again in ch06 k3 u93).",
+  "Conflict between two glossary rules about damaged words: older rule puts 'on a conjectural reading' in translations; p02 ch03 k2 rule keeps the guess out of gloss and translations ('unclear'). Needs one rule (u88, u112, u119).",
+  "sirā before a voiced consonant: 'sirā dhamanyaḥ' = sirāḥ (regular sandhi).",
+  "Hindi dhamanī = धमनी (never नाड़ी, which is nāḍī); sirā = सिरा यानी शिरा/नस; kaṇḍarā = सम्भवतः बड़े टेंडन; pakvāśaya Hindi = पक्वाशय यानी पचे हुए का स्थान, सम्भवतः बड़ी आँत का क्षेत्र."
+ ]
+}

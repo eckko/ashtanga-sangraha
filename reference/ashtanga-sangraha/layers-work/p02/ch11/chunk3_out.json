@@ -1,0 +1,2593 @@
+[
+ {
+  "n": "83",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gosarge",
+      "words": [
+       {
+        "w": "go-sarge",
+        "gloss": "cow; release; daybreak (gosarga, lit. 'release of the cows'; standard)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadanādyasya",
+      "words": [
+       {
+        "w": "vadanāt",
+        "gloss": "from the face",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedaḥpracyavate",
+      "words": [
+       {
+        "w": "svedaḥ",
+        "gloss": "sweat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "pracyavate",
+        "gloss": "drips, flows forth",
+        "gram": "3 sg. pres. ātm. pra-√cyu"
+       }
+      ]
+     },
+     {
+      "src": "bhṛśaṃ",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "profusely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके मुख से गोसर्ग यानी प्रभात के समय पसीना बहुत अधिक टपकता है",
+  "english": "He from whose face, at daybreak (gosarga), sweat drips profusely",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence appears to continue in unit 84 ('tasya jīvitam' there). gosarga is literally 'release of the cows', the early-morning time; 'daybreak' is the standard sense. vadana = mouth or face; 'face' taken.",
+  "confidence": "high"
+ },
+ {
+  "n": "84",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lepajvaropatanasya",
+      "words": [
+       {
+        "w": "lepa-jvara-upatanasya",
+        "gloss": "coating, smearing (lepa); fever (jvara); upatana unclear (see text_flags); lepa-jvara = a fever of the 'coating' kind, exact identity uncertain (disputed)",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "durlabhaṃ",
+      "words": [
+       {
+        "w": "durlabham",
+        "gloss": "hard to obtain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, लेपज्वर यानी लेप वाले ज्वर से पीड़ित का, जिस ज्वर की ठीक पहचान अनिश्चित है, उसका जीवन दुर्लभ है",
+  "english": "On a conjectural reading, of one afflicted with lepa-jvara (a fever of the 'coating' kind, whose exact identity is uncertain), his life is hard to obtain",
+  "text_flags": [
+   {
+    "src": "lepajvaropatanasya",
+    "suggest": "lepajvaropataptasya",
+    "why": "possible: 'upatana' is not a known word; 'upatapta' (afflicted, heated) fits the sense and the ta/na and pta/ma OCR confusions seen in this print"
+   }
+  ],
+  "notes": "GROUPING: appears to continue unit 83 (daybreak sweat). The reading 'upataptasya' (afflicted) is conjectural and is adopted in both translations on that mark. 'lepa-jvara' perhaps corresponds to a fever with a coated, plastered feeling (Caraka's lepaka fever), but this is disputed and uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "85",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prabālagulikābhāsā",
+      "words": [
+       {
+        "w": "pravāla-gulikā-ābhāsāḥ",
+        "gloss": "coral (pravāla); pellet, small ball (gulikā); appearing like (ābhāsa)",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gātre",
+      "words": [
+       {
+        "w": "gātre",
+        "gloss": "on the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "masūrikāḥ",
+      "words": [
+       {
+        "w": "masūrikāḥ",
+        "gloss": "masūrikā: lentil-like eruptions (masūra = lentil); commonly taken as pox, smallpox-type (probable)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके शरीर पर प्रवाल यानी मूँगे की गोलियों के समान दिखने वाली मसूरिकाएँ यानी मसूर के दाने जैसी फुंसियाँ, जो सम्भवतः चेचक जैसा रोग है",
+  "english": "He on whose body there are masūrikā (lentil-like eruptions, probably a pox-type disease) that look like pellets of coral",
+  "text_flags": [],
+  "notes": "Spelling: printed 'prabāla' for 'pravāla' (v/b interchange in this print). Identification of masūrikā as smallpox or a pox-type eruption: probable (the name means 'lentil-like'). No verb in the unit; the sentence continues in 86.",
+  "confidence": "high"
+ },
+ {
+  "n": "86",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "utpadyāśu",
+      "words": [
+       {
+        "w": "utpadya",
+        "gloss": "having arisen",
+        "gram": "abs. ut-√pad"
+       },
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinaśyaṃtina",
+      "words": [
+       {
+        "w": "vinaśyanti",
+        "gloss": "they perish, vanish",
+        "gram": "3 pl. pres. vi-√naś"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cirātsa",
+      "words": [
+       {
+        "w": "cirāt",
+        "gloss": "after a long time",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vinaśyati",
+      "words": [
+       {
+        "w": "vinaśyati",
+        "gloss": "perishes",
+        "gram": "3 sg. pres. vi-√naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्पन्न होकर शीघ्र नष्ट हो जाते हैं, वह देर से नहीं, थोड़े ही समय में नष्ट हो जाता है",
+  "english": "Having arisen, (they) quickly vanish; before long (lit. not after a long time) he perishes",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 85. The plural subject of 'vinaśyanti' is not stated (probably the eruptions of 85); not supplied in the translation. 'na cirāt' = 'not after a long time', i.e. soon.",
+  "confidence": "high"
+ },
+ {
+  "n": "87",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "masūravidaḻaprakhyāstathā",
+      "words": [
+       {
+        "w": "masūra-vidala-prakhyāḥ",
+        "gloss": "lentil; split; resembling (prakhya)",
+        "gram": "bahuvrīhi, nom. pl."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidrumasannibhāḥ",
+      "words": [
+       {
+        "w": "vidruma-sannibhāḥ",
+        "gloss": "coral (vidruma); resembling",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मसूर की फाड़ी के समान दिखने वाले तथा मूँगे के समान दिखने वाले",
+  "english": "Resembling a split lentil, and likewise resembling coral",
+  "text_flags": [],
+  "notes": "Printed ḻ for l in 'vidaḻa' is the print habit (normalised to l). The nouns described are not in this unit; unit 88 gives 'visphoṭāḥ' (blisters), nominative plural, which the adjectives appear to qualify. Not supplied.",
+  "confidence": "high"
+ },
+ {
+  "n": "88",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃtarvaktrā",
+      "words": [
+       {
+        "w": "antar-vaktrāḥ",
+        "gloss": "inside; mouth; having the mouth turned inward",
+        "gram": "bahuvrīhi, nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kiṇābhāśca",
+      "words": [
+       {
+        "w": "kiṇa-ābhāḥ",
+        "gloss": "kiṇa (scar, callus, hard mark; probable); appearing like",
+        "gram": "bahuvrīhi, nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "visphoṭā",
+      "words": [
+       {
+        "w": "visphoṭāḥ",
+        "gloss": "blisters, eruptions (visphoṭa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dehanāśanāḥ",
+      "words": [
+       {
+        "w": "deha-nāśanāḥ",
+        "gloss": "body; destroying",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भीतर की ओर मुख वाले और किण के समान दिखने वाले, किण यानी सम्भवतः घट्टा या चोट का निशान, देह का नाश करने वाले विस्फोट यानी फफोले",
+  "english": "Blisters (visphoṭa) with the mouth turned inward, looking like kiṇa (probably a scar or callus), destroying the body",
+  "text_flags": [
+   {
+    "src": "aṃtarvaktrā",
+    "suggest": "aṃtarvaktrāḥ",
+    "why": "possible: visarga missing before the following k; the plural 'visphoṭāḥ' needs a plural adjective (a minor print slip; the sense is unchanged)"
+   }
+  ],
+  "notes": "'kiṇa' is uncertain: scar, callus or weal; hedged. Printed 'visphoṭā' (visarga dropped before d) is regular sandhi. 'antarvaktra' = 'inward-mouthed' (the opening turned inward).",
+  "confidence": "medium"
+ },
+ {
+  "n": "89",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāmalā'kṣṇormukhaṃpūrṇaṃ",
+      "words": [
+       {
+        "w": "kāmalā",
+        "gloss": "kāmalā (jaundice; standard)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "akṣṇoḥ",
+        "gloss": "of/in the two eyes",
+        "gram": "n. gen./loc. du."
+       },
+       {
+        "w": "mukham",
+        "gloss": "face",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "pūrṇam",
+        "gloss": "full",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃkhayormuktamāṃsatā",
+      "words": [
+       {
+        "w": "śaṅkhayoḥ",
+        "gloss": "in the two temples (śaṅkha)",
+        "gram": "m. loc. du."
+       },
+       {
+        "w": "mukta-māṃsatā",
+        "gloss": "state of having shed flesh (loss of flesh)",
+        "gram": "bahuvrīhi + tā, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों आँखों में कामला यानी पीलिया, मुख भरा हुआ, और दोनों शंख यानी कनपटियों में माँस छूट जाने की अवस्था",
+  "english": "Jaundice (kāmalā) in the two eyes, the face full, and in the two temples (śaṅkha) a state of shed flesh (loss of flesh)",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue in 90 ('yasya taṃ parivarjayet'). The avagraha printed after -ā is a print habit (kāmalā + akṣṇoḥ). 'kāmalā akṣṇoḥ' could also be read as one compound; sense same. 'mukham pūrṇam' = face 'full' as printed (nothing added). śaṅkha = temple (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "90",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃtrāsaścoṣṇatāṃge",
+      "words": [
+       {
+        "w": "santrāsaḥ",
+        "gloss": "terror, fright",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣṇatā",
+        "gloss": "heat",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aṅge",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parivarjayet",
+      "words": [
+       {
+        "w": "parivarjayet",
+        "gloss": "one should avoid",
+        "gram": "3 sg. opt. pari-√vṛj caus."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसमें भय हो और शरीर में उष्णता हो, उसे त्याग देना चाहिए",
+  "english": "He in whom there is fright (saṃtrāsa) and heat in the body, him one should avoid",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 89. The agent of 'parivarjayet' is not stated ('one'). 'aṅga' = body/limb; 'body' taken.",
+  "confidence": "high"
+ },
+ {
+  "n": "91",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "akasmādanudhāvacca",
+      "words": [
+       {
+        "w": "akasmāt",
+        "gloss": "suddenly, without cause",
+        "gram": "ind."
+       },
+       {
+        "w": "anudhāvat",
+        "gloss": "running after, running along",
+        "gram": "pres. part. anu-√dhāv, n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vighṛṣṭaṃ",
+      "words": [
+       {
+        "w": "vighṛṣṭam",
+        "gloss": "rubbed, chafed",
+        "gram": "ppp. vi-√ghṛṣ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaksamāśrayaṃ",
+      "words": [
+       {
+        "w": "tvak-samāśrayam",
+        "gloss": "skin; resting in",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अचानक, पीछे दौड़ता हुआ, रगड़ा हुआ और त्वचा में आश्रित",
+  "english": "Suddenly, running after (or along), and rubbed, resting in the skin",
+  "text_flags": [],
+  "notes": "Doubtful sense: 'anudhāvat' (running after) and 'vighṛṣṭa' (rubbed) are given literally without enrichment. The neuter singular forms do not agree with the plural 'vraṇāḥ' of unit 94, which the list in 91-94 appears to describe; the unit may be damaged or may qualify a different noun. Not resolved.",
+  "confidence": "low"
+ },
+ {
+  "n": "92",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caṃdanośīramadirākuṇapadhvāṃkṣagaṃdhayaḥ",
+      "words": [
+       {
+        "w": "candana-uśīra-madirā-kuṇapa-dhvāṅkṣa-gandhayaḥ",
+        "gloss": "candana (sandalwood, Santalum album; standard); uśīra (root of vetiver, Chrysopogon zizanioides; standard); madirā (an intoxicating drink); kuṇapa (corpse); dhvāṅkṣa (crow); smelling of",
+        "gram": "bahuvrīhi (members dvandva), nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चन्दन, उशीर यानी खस, मदिरा यानी नशीला पेय, कुणप यानी शव और ध्वाङ्क्ष यानी कौए की गन्ध वाले",
+  "english": "Having the smell of sandalwood (candana), uśīra (vetiver root), madirā (an intoxicating drink), a corpse (kuṇapa) and a crow (dhvāṅkṣa)",
+  "text_flags": [],
+  "notes": "The noun described is not in this unit (the list 92-94 appears to describe the wounds, vraṇāḥ, of 94). 'kuṇapa-dhvāṅkṣa' taken as two separate smells (corpse, crow), not 'crow-corpse'. Identifications: candana = sandalwood, uśīra = vetiver root, both standard.",
+  "confidence": "medium"
+ },
+ {
+  "n": "93",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaivālakukkuṭaśikhākuṃkumālamaṣīprabhāḥ",
+      "words": [
+       {
+        "w": "śaivāla-kukkuṭa-śikhā-kuṅkuma-āla-maṣī-prabhāḥ",
+        "gloss": "śaivāla (water-moss, an aquatic weed; precise plant disputed); kukkuṭa-śikhā (cock's comb); kuṅkuma (saffron, Crocus sativus; standard); āla (probably orpiment, yellow arsenic sulphide); maṣī (ink, soot); lustre (prabhā)",
+        "gram": "bahuvrīhi (members dvandva), nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शैवाल यानी काई जैसी जल की वनस्पति, मुर्गे की कलगी, कुंकुम यानी केसर, आल यानी सम्भवतः हरताल और स्याही की आभा वाले",
+  "english": "Having the lustre of śaivāla (water-moss), a cock's comb, kuṅkuma (saffron), āla (probably orpiment) and ink",
+  "text_flags": [],
+  "notes": "'kuṅkumāla' is read kuṅkuma + āla (orpiment, a yellow mineral; probable); kuṅkuma + ala is equally possible by sandhi. The 'lustre' is shared by the whole list; the noun described is not in the unit. śaivāla identity disputed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "94",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃtardāhānirūṣmāṇaḥ",
+      "words": [
+       {
+        "w": "antar-dāhāḥ",
+        "gloss": "inner; burning",
+        "gram": "bahuvrīhi, m. nom. pl."
+       },
+       {
+        "w": "nir-ūṣmāṇaḥ",
+        "gloss": "without heat",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāṇanāśakarā",
+      "words": [
+       {
+        "w": "prāṇa-nāśa-karāḥ",
+        "gloss": "life; destruction; causing",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vraṇāḥ",
+      "words": [
+       {
+        "w": "vraṇāḥ",
+        "gloss": "wounds, ulcers (vraṇa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भीतर दाह वाले, ऊष्मा से रहित, प्राणों का नाश करने वाले व्रण यानी घाव",
+  "english": "Wounds (vraṇa) with inner burning, without heat, causing the destruction of life",
+  "text_flags": [],
+  "notes": "GROUPING: appears to end the list begun in 91-93. The adjectives 'antardāha' and 'nirūṣman' are given as printed: inner burning with no heat (nothing added about the outer part).",
+  "confidence": "high"
+ },
+ {
+  "n": "95",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who, which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātajo",
+      "words": [
+       {
+        "w": "vāta-jaḥ",
+        "gloss": "Vāta-born",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śūlāya",
+      "words": [
+       {
+        "w": "śūlāya",
+        "gloss": "for pain",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "syānnadāhāya",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "dāhāya",
+        "gloss": "for burning",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittajaḥ",
+      "words": [
+       {
+        "w": "pitta-jaḥ",
+        "gloss": "Pitta-born",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो वात से उत्पन्न हो और पीड़ा के लिए न हो, और पित्त से उत्पन्न जो दाह के लिए न हो",
+  "english": "The Vāta-born (one) which would not be for pain, and the Pitta-born (one) which would not be for burning",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 96. The noun (probably vraṇa, see 94 and 98) is not stated; 'na' is carried to the second clause. Dative of purpose rendered 'for pain', 'for burning'. Vāta and Pitta are the doṣas; kept as names.",
+  "confidence": "medium"
+ },
+ {
+  "n": "96",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaphajo",
+      "words": [
+       {
+        "w": "kapha-jaḥ",
+        "gloss": "Kapha-born",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūyāya",
+      "words": [
+       {
+        "w": "pūyāya",
+        "gloss": "for pus",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "marmajaśca",
+      "words": [
+       {
+        "w": "marma-jaḥ",
+        "gloss": "marma-born (marma: a vital spot, doctrinal term)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ruje",
+      "words": [
+       {
+        "w": "ruje",
+        "gloss": "for pain",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ से उत्पन्न जो पीब के लिए न हो, और मर्म यानी जीवन के मर्मस्थान से उत्पन्न जो पीड़ा के लिए न हो",
+  "english": "The Kapha-born (one) which would not be for pus, and the marma-born (one; marma = vital spot) which would not be for pain",
+  "text_flags": [],
+  "notes": "GROUPING: continues 95; the finite verb and noun are carried from 95 and not supplied. 'marma-ja' = born at/of a marma (vital spot); no modern equivalent forced.",
+  "confidence": "medium"
+ },
+ {
+  "n": "97",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "acūrṇaścūrṇakīrṇābho",
+      "words": [
+       {
+        "w": "acūrṇaḥ",
+        "gloss": "without powder",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cūrṇa-kīrṇa-ābhaḥ",
+        "gloss": "powder; strewn; appearing like",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatrākasmācca",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "akasmāt",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pres. pass. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ बिना चूर्ण का, चूर्ण बिखरा हुआ-सा दिखने वाला, और अचानक दिखाई देता है",
+  "english": "Where one without powder, looking as if strewn with powder, and suddenly, is seen",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue in 98 (form of śakti, dhvaja, etc.). The noun described (probably a wound) is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "98",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rūpaṃ",
+      "words": [
+       {
+        "w": "rūpam",
+        "gloss": "form, appearance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaktidhvajādīnāṃ",
+      "words": [
+       {
+        "w": "śakti-dhvaja-ādīnām",
+        "gloss": "spear (śakti); banner (dhvaja); and so on",
+        "gram": "dvandva + ādi, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarvāstān",
+      "words": [
+       {
+        "w": "sarvān",
+        "gloss": "all",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "varjayedvraṇān",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "one should avoid",
+        "gram": "3 sg. opt. √vṛj caus."
+       },
+       {
+        "w": "vraṇān",
+        "gloss": "wounds",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शक्ति, ध्वज आदि का रूप; उन सब व्रणों को त्याग देना चाहिए",
+  "english": "The form of a spear (śakti), a banner (dhvaja) and so on; one should avoid all those wounds",
+  "text_flags": [
+   {
+    "src": "sarvāstān",
+    "suggest": "sarvāṃstān",
+    "why": "possible: anusvāra lost; sarvān + tān gives sarvāṃstān by regular sandhi"
+   }
+  ],
+  "notes": "'śakti' taken as the weapon (spear); it could also mean 'power'. The verb of 'rūpam' is carried from 'dṛśyate' (97) and not supplied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "99",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṇmūtramārutavahaṃ",
+      "words": [
+       {
+        "w": "viṭ-mūtra-māruta-vaham",
+        "gloss": "faeces; urine; wind; carrying, discharging",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛmiṇaṃ",
+      "words": [
+       {
+        "w": "kṛmiṇam",
+        "gloss": "having worms (kṛmin)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhagaṃdaraṃ",
+      "words": [
+       {
+        "w": "bhagandaram",
+        "gloss": "bhagandara (fistula in ano; standard)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भगन्दर यानी गुदा के पास का नासूर, जो मल, मूत्र और वायु को वहन करता हो और कृमियों वाला हो",
+  "english": "Bhagandara (fistula in ano) that carries faeces, urine and wind, and has worms",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue 98; 'bhagandaram' is the object of 'varjayet' there. 'vaha' = carrying/conveying; read as the fistula passing faeces, urine and wind through it.",
+  "confidence": "medium"
+ },
+ {
+  "n": "100",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ghaṭṭayanjānunā",
+      "words": [
+       {
+        "w": "ghaṭṭayan",
+        "gloss": "striking, rubbing",
+        "gram": "pres. part. √ghaṭṭ, m. nom. sg."
+       },
+       {
+        "w": "jānunā",
+        "gloss": "with the knee",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jānu",
+      "words": [
+       {
+        "w": "jānu",
+        "gloss": "knee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādāvudyamya",
+      "words": [
+       {
+        "w": "pādau",
+        "gloss": "the two feet",
+        "gram": "m. acc. du."
+       },
+       {
+        "w": "udyamya",
+        "gloss": "having raised",
+        "gram": "abs. ud-√yam"
+       }
+      ]
+     },
+     {
+      "src": "pātayan",
+      "words": [
+       {
+        "w": "pātayan",
+        "gloss": "dropping, causing to fall",
+        "gram": "pres. part. caus. √pat, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घुटने से घुटने को टकराता हुआ, दोनों पैरों को उठाकर गिराता हुआ",
+  "english": "Striking knee with knee, and, having raised the two feet, dropping (them)",
+  "text_flags": [],
+  "notes": "GROUPING: the relative clause continues in 101 ('yaḥ apāsyati ...').",
+  "confidence": "medium"
+ },
+ {
+  "n": "101",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo'pāsyati",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "apāsyati",
+        "gloss": "casts aside, turns away",
+        "gram": "3 sg. pres. apa-√as"
+       }
+      ]
+     },
+     {
+      "src": "muhurvakramāturo",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "repeatedly",
+        "gram": "ind."
+       },
+       {
+        "w": "vaktram",
+        "gloss": "face (conjectural; printed 'vakram')",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āturaḥ",
+        "gloss": "patient, sick person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sajīvati",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, जो बार-बार मुख को हटाता है, वह रोगी जीवित नहीं रहता",
+  "english": "On a conjectural reading (vaktram), the patient who repeatedly turns his face aside does not live",
+  "text_flags": [
+   {
+    "src": "muhurvakramāturo",
+    "suggest": "muhurvaktramāturo",
+    "why": "possible: 'vakra' (crooked) gives no sense with apāsyati; 'vaktra' (face) fits, with a dropped t (kt/k confusion)"
+   }
+  ],
+  "notes": "'apāsyati' = apa + asyati ('throws aside'); 'turns aside' is the natural sense with 'face'. The reading 'vaktram' is conjectural.",
+  "confidence": "medium"
+ },
+ {
+  "n": "102",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daṃtaiśchindannakhāgrāṇi",
+      "words": [
+       {
+        "w": "dantaiḥ",
+        "gloss": "with the teeth",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "chindan",
+        "gloss": "cutting",
+        "gram": "pres. part. √chid, m. nom. sg."
+       },
+       {
+        "w": "nakha-agrāṇi",
+        "gloss": "nail; tips",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "taiśca",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "with those",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśāṃstṛṇāni",
+      "words": [
+       {
+        "w": "keśān",
+        "gloss": "hairs",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tṛṇāni",
+        "gloss": "blades of grass, straw",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दाँतों से नखों के अग्र भागों को काटता हुआ, और उन्हीं से केशों या तिनकों को",
+  "english": "Cutting the tips of the nails with the teeth, and with those (teeth) hairs or blades of grass",
+  "text_flags": [],
+  "notes": "GROUPING: the relative clause continues from 100-101 and 103-106 to 'āturo na sa jīvati' (106); the sentence boundaries are not firm.",
+  "confidence": "high"
+ },
+ {
+  "n": "103",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūmiṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "the ground",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāṣṭhena",
+      "words": [
+       {
+        "w": "kāṣṭhena",
+        "gloss": "with a piece of wood",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vilikhan",
+      "words": [
+       {
+        "w": "vilikhan",
+        "gloss": "scratching, drawing lines on",
+        "gram": "pres. part. vi-√likh, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "loṣṭaṃ",
+      "words": [
+       {
+        "w": "loṣṭam",
+        "gloss": "a clod",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "loṣṭena",
+      "words": [
+       {
+        "w": "loṣṭena",
+        "gloss": "with a clod",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāḍayan",
+      "words": [
+       {
+        "w": "tāḍayan",
+        "gloss": "striking",
+        "gram": "pres. part. caus. √tāḍ, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भूमि को काष्ठ से कुरेदता हुआ, ढेले को ढेले से मारता हुआ",
+  "english": "Scratching the ground with a piece of wood, striking a clod with a clod",
+  "text_flags": [],
+  "notes": "Continues the same series of actions (100-106).",
+  "confidence": "high"
+ },
+ {
+  "n": "104",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛṣṭalomā",
+      "words": [
+       {
+        "w": "hṛṣṭa-lomā",
+        "gloss": "bristling; hair (conjectural; printed 'dṛṣṭa')",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāṃdramūtraḥ",
+      "words": [
+       {
+        "w": "sāndra-mūtraḥ",
+        "gloss": "thick; urine",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkakāsī",
+      "words": [
+       {
+        "w": "śuṣka-kāsī",
+        "gloss": "dry; having cough (kāsin)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvarī",
+      "words": [
+       {
+        "w": "jvarī",
+        "gloss": "having fever",
+        "gram": "jvarin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, जिसके रोम खड़े हों, जिसका मूत्र गाढ़ा हो, जिसे सूखी खाँसी हो और ज्वर हो",
+  "english": "On a conjectural reading (hṛṣṭaloma), he who has bristling hair, thick urine, dry cough and fever",
+  "text_flags": [
+   {
+    "src": "dṛṣṭalomā",
+    "suggest": "hṛṣṭalomā",
+    "why": "possible: 'dṛṣṭaloman' (hair seen) gives no sense; 'hṛṣṭaloman' (bristling hair) is the standard term and dṛ/hṛ is a likely OCR confusion"
+   }
+  ],
+  "notes": "GROUPING: the relative clause continues in 105-106. The reading 'hṛṣṭa' is conjectural and marked in the translations.",
+  "confidence": "medium"
+ },
+ {
+  "n": "105",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "muhurhasanmuhuḥ",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "repeatedly",
+        "gram": "ind."
+       },
+       {
+        "w": "hasan",
+        "gloss": "laughing",
+        "gram": "pres. part. √has, m. nom. sg."
+       },
+       {
+        "w": "muhuḥ",
+        "gloss": "repeatedly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣveḍan",
+      "words": [
+       {
+        "w": "kṣveḍan",
+        "gloss": "humming, making a murmuring sound",
+        "gram": "pres. part. √kṣveḍ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śayyāṃ",
+      "words": [
+       {
+        "w": "śayyām",
+        "gloss": "the bed",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādena",
+      "words": [
+       {
+        "w": "pādena",
+        "gloss": "with the foot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "haṃti",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "strikes",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो बार-बार हँसता हुआ, बार-बार गुनगुनाता हुआ, पैर से शय्या पर आघात करता है",
+  "english": "He who, repeatedly laughing, repeatedly humming (kṣveḍ), strikes the bed with his foot",
+  "text_flags": [],
+  "notes": "'kṣveḍ' is a rare verb (to hum, murmur, or roar); 'humming' taken, sense not certain. GROUPING: the relative clause continues in 106.",
+  "confidence": "medium"
+ },
+ {
+  "n": "106",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "muhuśchidrāṇi",
+      "words": [
+       {
+        "w": "muhuḥ",
+        "gloss": "repeatedly",
+        "gram": "ind."
+       },
+       {
+        "w": "chidrāṇi",
+        "gloss": "holes, openings (chidra)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vimṛśannāturo",
+      "words": [
+       {
+        "w": "vimṛśan",
+        "gloss": "touching, feeling",
+        "gram": "pres. part. vi-√mṛś, m. nom. sg."
+       },
+       {
+        "w": "āturaḥ",
+        "gloss": "patient, sick person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बार-बार छिद्रों को छूता हुआ वह रोगी जीवित नहीं रहता",
+  "english": "The patient who repeatedly touches the holes (chidra) does not live",
+  "text_flags": [],
+  "notes": "GROUPING: completes the sentence begun at 100/104. 'chidra' = holes or openings; which openings (e.g. of the body) is not stated. 'vimṛś' can also mean 'considering'; 'touching' taken. A reader may recheck.",
+  "confidence": "medium"
+ },
+ {
+  "n": "107",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaśvāsaṃ",
+      "words": [
+       {
+        "w": "ūrdhva-śvāsam",
+        "gloss": "upward; breath (breath drawn upward, laboured breathing; probable)",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatoṣmāṇaṃ",
+      "words": [
+       {
+        "w": "gata-ūṣmāṇam",
+        "gloss": "gone; heat",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūlopahatavaṃkṣaṇaṃ",
+      "words": [
+       {
+        "w": "śūla-upahata-vaṅkṣaṇam",
+        "gloss": "pain; afflicted; groin (vaṅkṣaṇa)",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी श्वास ऊपर की ओर हो, जिसकी ऊष्मा चली गई हो, जिसके वंक्षण यानी जाँघों के जोड़ पीड़ा से पीड़ित हों, उसे",
+  "english": "Him whose breath is upward (probably laboured breathing), whose heat has gone, whose groins (vaṅkṣaṇa) are afflicted by pain",
+  "text_flags": [],
+  "notes": "GROUPING: object of 'parivarjayet' in 108. 'ūrdhvaśvāsa' taken literally with the modern equivalent hedged. 'gata-ūṣman' = heat gone.",
+  "confidence": "high"
+ },
+ {
+  "n": "108",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śarma",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "ease, comfort",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānadhigacchaṃtaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "an-adhigacchantam",
+        "gloss": "not obtaining",
+        "gram": "pres. part. adhi-√gam, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "buddhimānparivarjayet",
+      "words": [
+       {
+        "w": "buddhimān",
+        "gloss": "the wise one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "parivarjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. pari-√vṛj caus."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और सुख न पाने वाले को बुद्धिमान त्याग दे",
+  "english": "And him who does not obtain ease, the wise one should avoid",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete 107.",
+  "confidence": "high"
+ },
+ {
+  "n": "109",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikārā",
+      "words": [
+       {
+        "w": "vikārāḥ",
+        "gloss": "abnormalities, disorders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varddhaṃte",
+      "words": [
+       {
+        "w": "vardhante",
+        "gloss": "increase",
+        "gram": "3 pl. pres. ātm. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtiḥ",
+      "words": [
+       {
+        "w": "prakṛtiḥ",
+        "gloss": "natural state",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parihīyate",
+      "words": [
+       {
+        "w": "parihīyate",
+        "gloss": "diminishes, is lost",
+        "gram": "3 sg. pres. pass. pari-√hā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके विकार बढ़ते हैं और प्रकृति क्षीण होती है",
+  "english": "He in whom the abnormalities (vikāra) increase and the natural state (prakṛti) diminishes",
+  "text_flags": [],
+  "notes": "Doubled dd in 'varddhaṃte' is an orthographic habit (normalised to vardhante). GROUPING: continues in 110.",
+  "confidence": "high"
+ },
+ {
+  "n": "110",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyurharatijīvitaṃ",
+      "words": [
+       {
+        "w": "mṛtyuḥ",
+        "gloss": "Death",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "harati",
+        "gloss": "takes away",
+        "gram": "3 sg. pres. √hṛ"
+       },
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अचानक, अचानक उसके जीवन को मृत्यु हर लेती है",
+  "english": "Suddenly, suddenly, Death takes away his life",
+  "text_flags": [],
+  "notes": "'sahasā' is printed twice (emphatic repetition); kept as printed.",
+  "confidence": "high"
+ },
+ {
+  "n": "111",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yamuddiśyāturaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uddiśya",
+        "gloss": "having in view",
+        "gram": "abs. ud-√diś"
+       },
+       {
+        "w": "āturam",
+        "gloss": "patient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaidyaḥ",
+      "words": [
+       {
+        "w": "vaidyaḥ",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃpādayitumauṣadhaṃ",
+      "words": [
+       {
+        "w": "sampādayitum",
+        "gloss": "to prepare, accomplish",
+        "gram": "inf. sam-√pad caus."
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस रोगी को लक्ष्य करके वैद्य औषध को तैयार करने के लिए",
+  "english": "Having in view whom as patient, a physician, to prepare medicine (auṣadha)",
+  "text_flags": [],
+  "notes": "GROUPING: the sentence continues in 112 ('yatamānaḥ na śaknoti'); the physician is the subject there.",
+  "confidence": "medium"
+ },
+ {
+  "n": "112",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatamāno",
+      "words": [
+       {
+        "w": "yatamānaḥ",
+        "gloss": "striving",
+        "gram": "pres. part. ātm. √yat, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaknoti",
+      "words": [
+       {
+        "w": "śaknoti",
+        "gloss": "is able",
+        "gram": "3 sg. pres. √śak"
+       }
+      ]
+     },
+     {
+      "src": "durlabhaṃ",
+      "words": [
+       {
+        "w": "durlabham",
+        "gloss": "hard to obtain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यत्न करता हुआ समर्थ नहीं होता; उसका जीवन दुर्लभ है",
+  "english": "Striving, he is not able; his life is hard to obtain",
+  "text_flags": [],
+  "notes": "GROUPING: completes the sentence of 111.",
+  "confidence": "high"
+ },
+ {
+  "n": "113",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vijñātaṃ",
+      "words": [
+       {
+        "w": "vijñātam",
+        "gloss": "known",
+        "gram": "ppp. vi-√jñā, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahuśaḥ",
+      "words": [
+       {
+        "w": "bahuśaḥ",
+        "gloss": "many times",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhaṃ",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "accomplished",
+        "gram": "ppp. √sidh, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhivaccāvacāritaṃ",
+      "words": [
+       {
+        "w": "vidhivat",
+        "gloss": "according to rule",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avacāritam",
+        "gloss": "administered",
+        "gram": "ppp. ava-√car caus., n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जाना हुआ, बहुत बार सिद्ध हुआ और विधि के अनुसार प्रयुक्त",
+  "english": "Known, accomplished many times, and administered according to rule",
+  "text_flags": [],
+  "notes": "GROUPING: the noun (the medicine, auṣadham of 114) is not stated here. 'siddha' = accomplished (not the 'cooked' sense); 'avacārita' = administered (wording open).",
+  "confidence": "medium"
+ },
+ {
+  "n": "114",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhyatyauṣadhaṃ",
+      "words": [
+       {
+        "w": "siddhyati",
+        "gloss": "succeeds",
+        "gram": "3 sg. pres. √sidh"
+       },
+       {
+        "w": "auṣadham",
+        "gloss": "medicine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāsti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asti",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cikitsitaṃ",
+      "words": [
+       {
+        "w": "cikitsitam",
+        "gloss": "treatment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके लिए औषध सफल नहीं होती, उसका चिकित्सित यानी उपचार नहीं है",
+  "english": "For whom medicine does not succeed, for him there is no treatment (cikitsita)",
+  "text_flags": [],
+  "notes": "GROUPING: 113 appears to describe the medicine ('known, accomplished many times, administered by rule') of which this unit speaks. Hindi औषध is feminine here only by usage; the Sanskrit is neuter.",
+  "confidence": "high"
+ },
+ {
+  "n": "115",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavedyasyauṣadhe'nne",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "there would be",
+        "gram": "3 sg. opt. √bhū"
+       },
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "auṣadhe",
+        "gloss": "in medicine",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "anne",
+        "gloss": "in food",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kalpyamāne",
+      "words": [
+       {
+        "w": "kalpyamāne",
+        "gloss": "being prepared",
+        "gram": "pres. part. pass. √kḷp, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparyayaḥ",
+      "words": [
+       {
+        "w": "viparyayaḥ",
+        "gloss": "reversal, contrary result",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके औषध या अन्न की तैयारी किए जाने पर विपर्यय यानी उलटा परिणाम हो",
+  "english": "He for whom, when medicine or food is being prepared, there would be a reversal (viparyaya)",
+  "text_flags": [],
+  "notes": "'viparyaya' = reversal or contrary result; it may be the reversal of the preparation or of its effect. 'kalpyamāne' taken with both nouns as a locative absolute. GROUPING: continues in 116.",
+  "confidence": "medium"
+ },
+ {
+  "n": "116",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "akasmādvarṇavādeḥsvastho'pi",
+      "words": [
+       {
+        "w": "akasmāt",
+        "gloss": "suddenly, without cause",
+        "gram": "ind."
+       },
+       {
+        "w": "varṇa-ādeḥ",
+        "gloss": "colour; and so on (conjectural; printed 'varṇavādeḥ')",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "svasthaḥ",
+        "gloss": "healthy",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, अचानक वर्ण आदि से स्वस्थ होने पर भी वह जीवित नहीं रहता",
+  "english": "On a conjectural reading (varṇādeḥ): suddenly, from colour and the like, even one who is healthy does not live",
+  "text_flags": [
+   {
+    "src": "akasmādvarṇavādeḥsvastho'pi",
+    "suggest": "akasmādvarṇādeḥ svastho'pi",
+    "why": "possible: 'varṇavādeḥ' cannot be construed ('vāda' speech, no -eḥ ending); 'varṇādeḥ' (colour and so on) fits and the extra 'va' may be an OCR repeat; also the words are printed without a space before 'svastho'"
+   }
+  ],
+  "notes": "GROUPING: appears to continue 115 (a reversal in colour etc. as a sign). The sense is not firm: 'from colour and the like' is left as printed (nothing supplied). The reading is conjectural; a different emendation is possible.",
+  "confidence": "low"
+ },
+ {
+  "n": "117",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nivāte",
+      "words": [
+       {
+        "w": "nivāte",
+        "gloss": "in a windless place",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "seṃdhanaṃ",
+      "words": [
+       {
+        "w": "sa-indhanam",
+        "gloss": "with fuel",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyotiścāpyupaśāmyati",
+      "words": [
+       {
+        "w": "jyotiḥ",
+        "gloss": "light, flame (jyotis)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "upaśāmyati",
+        "gloss": "goes out, subsides",
+        "gram": "3 sg. pres. upa-√śam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायुरहित स्थान में, ईंधन सहित भी जिसकी ज्योति बुझ जाती है",
+  "english": "He whose light (jyotis), even with fuel, goes out in a windless place",
+  "text_flags": [],
+  "notes": "'jyotis' = light or flame (a lamp or fire, not specified). 'ca api' is taken as 'even'. GROUPING: a separate sign from 116.",
+  "confidence": "medium"
+ },
+ {
+  "n": "118",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āturasya",
+      "words": [
+       {
+        "w": "āturasya",
+        "gloss": "of the patient",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhe",
+      "words": [
+       {
+        "w": "gṛhe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhidyaṃte",
+      "words": [
+       {
+        "w": "bhidyante",
+        "gloss": "break",
+        "gram": "3 pl. pres. pass. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pataṃti",
+      "words": [
+       {
+        "w": "patanti",
+        "gloss": "fall",
+        "gram": "3 pl. pres. √pat"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोगी के घर में, जिसके, फूटते हैं या गिरते हैं",
+  "english": "In the house of the patient, of whom (ones) break or fall",
+  "text_flags": [],
+  "notes": "GROUPING: the subject 'amatrāṇi' (vessels) is in 119 and the sentence is completed there. 'yasya' agrees with 'āturasya' (of the patient). The translation keeps the stated words only.",
+  "confidence": "medium"
+ },
+ {
+  "n": "119",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atimātramamatrāṇi",
+      "words": [
+       {
+        "w": "atimātram",
+        "gloss": "excessively",
+        "gram": "ind."
+       },
+       {
+        "w": "amatrāṇi",
+        "gloss": "vessels (amatra)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "durlabhaṃ",
+      "words": [
+       {
+        "w": "durlabham",
+        "gloss": "hard to obtain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अत्यधिक अमत्र यानी पात्र; उसका जीवन दुर्लभ है",
+  "english": "Excessively, the vessels (amatra); his life is hard to obtain",
+  "text_flags": [],
+  "notes": "GROUPING: the verbs 'bhidyante vā patanti' of 118 are carried here. 'amatra' = a large vessel or pot (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "120",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naraṃ",
+      "words": [
+       {
+        "w": "naram",
+        "gloss": "man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rogo",
+      "words": [
+       {
+        "w": "rogaḥ",
+        "gloss": "disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbalaṃ",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "weak",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parimuṃcati",
+      "words": [
+       {
+        "w": "parimuñcati",
+        "gloss": "leaves, releases",
+        "gram": "3 sg. pres. pari-√muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस दुर्बल मनुष्य को रोग अचानक छोड़ देता है",
+  "english": "The weak man whom a disease suddenly leaves",
+  "text_flags": [],
+  "notes": "GROUPING: continues in 121. 'parimuñcati' = leaves, lets go; nothing added about recovery.",
+  "confidence": "high"
+ },
+ {
+  "n": "121",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃśayaṃ",
+      "words": [
+       {
+        "w": "saṃśayam",
+        "gloss": "doubt, uncertainty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāptamātreyo",
+      "words": [
+       {
+        "w": "prāptam",
+        "gloss": "reached",
+        "gram": "ppp. pra-√āp, n. acc. sg."
+       },
+       {
+        "w": "ātreyaḥ",
+        "gloss": "Ātreya (a name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "manyate",
+      "words": [
+       {
+        "w": "manyate",
+        "gloss": "considers",
+        "gram": "3 sg. pres. ātm. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आत्रेय उसके जीवन को संशय को प्राप्त हुआ मानते हैं",
+  "english": "Ātreya considers his life to have reached a state of doubt",
+  "text_flags": [],
+  "notes": "GROUPING: completes the sentence of 120. 'Ātreya' left as a name, no role added.",
+  "confidence": "high"
+ },
+ {
+  "n": "122",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtavyādhivijñānīyo",
+      "words": [
+       {
+        "w": "vikṛta-vyādhi-vijñānīyaḥ",
+        "gloss": "abnormal, altered (vikṛta); disease (vyādhi); to be understood (vijñānīya); name of the chapter",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmaikādaśo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       },
+       {
+        "w": "ekādaśaḥ",
+        "gloss": "eleventh",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार विकृत-व्याधि-विज्ञानीय नाम का ग्यारहवाँ अध्याय",
+  "english": "Thus the eleventh chapter, named Vikṛtavyādhivijñānīya",
+  "text_flags": [],
+  "notes": "Colophon. The chapter name is kept in Sanskrit; its parts mean roughly 'to be understood about abnormal (altered) diseases'. Hindi gives the name with hyphens as a name.",
+  "confidence": "high"
+ }
+]

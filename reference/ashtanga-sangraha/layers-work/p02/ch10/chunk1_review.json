@@ -1,0 +1,539 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ākāśam (first)",
+     "problem": "ākāśa is neuter; 'm./n.' is a hedge that is not needed (second occurrence already n.).",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "ākāśam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "hiatus ivaākāśam",
+     "problem": "Hiatus flagged here, but the same print habit (uttānaeva u30, tadvadvaṃdha etc.) is not flagged elsewhere; consistency: either flag all or none (glossary: print habits recorded once). Not patched.",
+     "fix": "Owner/merge step to decide.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The formless as if formed, and the formed",
+     "problem": "Order of 'X iva Y' is ambiguous. In u2 the draft reads 'ghanībhūtam iva ākāśam' as 'the sky as if solid' (appearance first, thing seen second); by the same pattern 'amūrtam iva mūrtam' would be 'the formed as if formless'. The u3 English reverses the pattern used in u2. Human decision; no patch.",
+     "fix": "Decide one reading for u2-u3 (appearance-first: 'the formed as if formless').",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तेजस्वी मानो तेजहीन ... श्वेत मानो काला ... असत् मानो सत्",
+     "problem": "Hindi adds 'मानो' (iva) three times as plain text; the Sanskrit has no iva here (the English marks '(as)' as supplied, Hindi cannot use brackets). Make Hindi a bare list as the Sanskrit is.",
+     "fix": "तेजस्वी, तेजहीन, और उसी प्रकार; श्वेत, काला, और असत्, सत्",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "तेजस्वी, तेजहीन, और उसी प्रकार; श्वेत, काला, और असत्, सत्"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जाग्रत अवस्था में",
+     "problem": "'अवस्था' (state) is not in the Sanskrit (jāgrat = while awake).",
+     "fix": "जागते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाग्रत अवस्था में",
+      "new": "जागते हुए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vyākṛti",
+     "problem": "Printed form has no final -m; gram says 'acc.' but the form is nom. (or acc. with dropped anusvāra; the print drops/places anusvāra irregularly). Record in the flag.",
+     "fix": "gram 'f. nom. sg. (as printed)'",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "vyākṛti",
+      "field": "gram",
+      "value": "f. nom. sg. (as printed; acc. vyākṛtim expected)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vyākṛti",
+     "problem": "Add the missing-anusvāra possibility to the existing flag.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "so no change is made",
+      "new": "so no change is made; also the printed form lacks the final -m of an accusative (vyākṛtim expected), so a dropped anusvāra is possible"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "double yaḥ",
+     "problem": "Relative yaḥ appears in u2 ('ākāśam iva yo ghanam') and again in u7 ('yaḥ paśyati sa naśyati'). The draft reads u2's yaḥ as subject of a verb carried from u7; the double relative is unusual. Observation only.",
+     "fix": "Mention in a note if the owner wants.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ध्रुव यानी सम्भवतः ध्रुव तारे को",
+     "problem": "Gloss merely repeats the Sanskrit name (glossary: an identification must not repeat the Sanskrit name).",
+     "fix": "ध्रुव यानी सम्भवतः उत्तर दिशा में स्थिर दिखने वाले ध्रुवतारे को",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ध्रुव यानी सम्भवतः ध्रुव तारे को",
+      "new": "ध्रुव यानी सम्भवतः उत्तर दिशा में स्थिर दिखने वाले ध्रुवतारे को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vīṇa -> vīṇā",
+     "problem": "The metre argument is wrong: vīṇa and vīṇā both have two syllables (vī-ṇa / vī-ṇā), so the half-line is 16 syllables either way; the draft claims 15 vs 16. The flag itself (long ā-stem as compound member of a fem. noun) is still right, on grammar not on syllable count.",
+     "fix": "Replace the 'why'.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "probable: as a member of the compound the feminine stem is vīṇā (megha-toya-ogha-nirghoṣa-vīṇā-paṇava-veṇu-jān); the printed short 'vīṇa' is not a stem form. Syllable count is 16 either way (vī-ṇa / vī-ṇā), so metre does not decide; also printed with a space before 'paṇava'"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(जो शब्द) ... उत्पन्न होते हैं,",
+     "problem": "Hindi has a bracketed supplied noun and an added finite verb 'होते हैं' (glossary: no brackets in Hindi, no added nouns or verbs; unstated nouns are plain adjectives). paṇava is not glossed in Hindi.",
+     "fix": "बादल और जल-प्रवाह की गर्जना से तथा वीणा, पणव यानी सम्भवतः छोटे ढोल और बाँसुरी से उत्पन्न",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "बादल और जल-प्रवाह की गर्जना से तथा वीणा, पणव यानी सम्भवतः छोटे ढोल और बाँसुरी से उत्पन्न"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the paṇava (a small drum)",
+     "problem": "Identification noted 'probable' in notes but written unhedged in the translation.",
+     "fix": "the paṇava (probably a small drum)",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "the paṇava (a small drum)",
+      "new": "the paṇava (probably a small drum)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "asaṃto -> asato",
+     "problem": "Correct and well argued (asanto agrees with nothing; asataḥ + na = asato na). No change. Note that 'na sato 'pi vā' is literally 'or not even existing ones'; the verb 'hears' is carried, so the English could be misread as 'hears not-even-existing ones'. Left as is.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "u15",
+     "problem": "Conflict check: damaged-word rule. This unit follows the later rule (guess only in text_flag/note, 'unclear' in gloss, 'on a conjectural reading' in translation) and is consistent with the older rule too, since no guess is put in the translation. No conflict in this unit.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(अनुमानित पाठ पर)",
+     "problem": "Brackets in Hindi (glossary: no brackets in Hindi even for 'conjectural reading'; hedge inline).",
+     "fix": "जिसके अंग मानो धूल से ढके हुए हों, यह अनुमानित पाठ पर है, अथवा जो अंग में चोट को नहीं जानता —",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके अंग मानो धूल से ढके हुए हों, यह अनुमानित पाठ पर है, अथवा जो अंग में चोट को नहीं जानता —"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vā + vidhi vs vā + avidhi",
+     "problem": "Supporting evidence the draft missed: elsewhere this print writes an avagraha for vā + a- (vā'mūrta u3, vā'lpāśī u24, vā'pi); here there is none, which favours vā + vidhipūrvakam. Also the sense (knowing the supersensory without proper practice) needs the positive reading.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Reviewer: this print writes an avagraha for vā + a- elsewhere (vā'mūrta u3, vā'lpāśī u24), and none here, which supports vā + vidhipūrvakam."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आकर बैठ जाते हैं",
+     "problem": "'आकर' (having come) is not in the Sanskrit (līyante = settle, cling).",
+     "fix": "बैठ जाते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आकर बैठ जाते हैं",
+      "new": "बैठ जाते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "who, though eating much wholesome (hita) food",
+     "problem": "'though' (and Hindi 'भी') is a supplied concessive; the Sanskrit has only the participle aśnan. The notes admit it. Nothing may be added.",
+     "fix": "who, eating much wholesome (hita) food, continually declines in strength",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "english",
+      "value": "who, eating much wholesome (hita) food, continually declines in strength —"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खाता हुआ भी",
+     "problem": "Same added concessive 'भी'.",
+     "fix": "जो हितकर बहुत अन्न खाता हुआ बल से लगातार क्षीण होता जाता है —",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "खाता हुआ भी",
+      "new": "खाता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ucchvasya",
+     "problem": "ud-√śvas can mean 'breathe in' or 'heave a breath, breathe up'; the draft fixes 'inhaling' and Hindi 'भीतर लेकर / बाहर छोड़कर' states direction as certain. The contrast with niśvasya supports it, but note it as a sense decision.",
+     "fix": "note only",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "झटके खाता हुआ अत्यन्त फड़कता है",
+     "problem": "Fine; no issue. (vyāviddham as adverb remains open.)",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "acayitvā",
+     "problem": "Guess for the owner (kept out of gloss and translation per glossary): 'acayitvā' may be 'añcayitvā' (having drawn up, from √añc; ñ lost in the scan); 'prapāṇikau' not restorable. Also the flag suggests 'kṛcchrādyo' while `words` use 'kṛcchrāt' + 'yaḥ' (dictionary form), which is consistent (kṛcchrād yaḥ is the sandhi).",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "append_note",
+      "text": "Reviewer conjecture (not adopted): 'acayitvā' may be 'añcayitvā' (having drawn up/bent, √añc); 'prapāṇikau' stays unrestorable. Low confidence kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "would become bewildered (faint)",
+     "problem": "saṃmuhyet is 'bewildered/faint'; Hindi says 'मूर्च्छित' (certain) while u32 saṃmuhyan is 'मोहग्रस्त'. Make the unit hedged and consistent.",
+     "fix": "would become bewildered (probably faint)",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "would become bewildered (faint)",
+      "new": "would become bewildered (probably faint)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूर्च्छित हो जाता है, चाहे बलवान हो या दुर्बल भी",
+     "problem": "Hindi decides 'faint' as certain and inconsistent with u32 मोहग्रस्त.",
+     "fix": "जो उठाए जाने पर मोहग्रस्त यानी सम्भवतः मूर्च्छित हो जाता है, बलवान अथवा दुर्बल भी —",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो उठाए जाने पर मोहग्रस्त यानी सम्भवतः मूर्च्छित हो जाता है, बलवान अथवा दुर्बल भी —"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "uttānaeva",
+     "problem": "Hiatus left unflagged here although u2's hiatus is flagged: inconsistent (see u2). Check the Devanagari: उत्तानएव is a print habit.",
+     "fix": "consistency only",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tries to grasp what is non-existent",
+     "problem": "'eva' (only/just) is dropped in English though Hindi has 'ही'.",
+     "fix": "tries to grasp only what is non-existent",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "tries to grasp what is non-existent",
+      "new": "tries to grasp only what is non-existent"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुमानित पाठ पर —",
+     "problem": "Conjectural mark is tacked on after the clause and reads as if the verb 'उत्पन्न करता है' were conjectural only; make it a clear inline hedge (no brackets, ok as is) - minor wording.",
+     "fix": "जो ऊपरी ओठ के चारों ओर चाटता है (यह अनुमानित पाठ पर है) -> without brackets: 'जो ऊपरी ओठ के चारों ओर चाटता है, यह अनुमानित पाठ पर है, और डकारें उत्पन्न करता है —'",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो ऊपरी ओठ के चारों ओर चाटता है, यह अनुमानित पाठ पर है, और डकारें उत्पन्न करता है —"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अरुण वर्ण की भी",
+     "problem": "'वर्ण' is on the glossary's list of forbidden additions; aruṇā is itself the colour adjective.",
+     "fix": "जिस पर छाया, काली, पीली अथवा लालिमा लिए भी, झपटती है —",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिस पर छाया, काली, पीली अथवा लालिमा लिए भी, झपटती है —"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "grouping",
+     "problem": "Confirmed: ye ... dviṣaḥ continues into chunk 2 u36 (vaśagāḥ sarvaevaite vijñeyāḥ samavartinaḥ). Wording 'appears to continue' fine.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "35 units reviewed. Overall sound and conservative; low-confidence units u15 and u27 are handled as the glossary says (unsplit/unclear, 'on a conjectural reading', guess only in flag/note). Errors (4): u10 Hindi brackets plus added noun/verb; u16 Hindi brackets; u34 added 'वर्ण'; u10 flag evidence wrong (vīṇa and vīṇā are both two syllables, 16-syllable argument invalid, flag itself still right on grammar). Minor: added concessives in u22, unhedged paṇava, Hindi 'अवस्था'/'आकर' additions, u29 inconsistent with u32, u2 gram, hiatus flagged in u2 only, u3 order of 'X iva Y' vs u2 (needs human decision). No identification judged wrong: Arundhatī=Alcor (probable), Seven Sages=Great Bear (probable), dhruva=pole star (probable), Milky Way (standard), lip, belch fine. Damaged-word rule conflict does not arise in this chunk (u15/u27 satisfy both rules). Groupings agreed: u2-u7, u8-9, u10-11, u17-18, u19-20; u35 continues to chunk 2 u36. Hindi 'अब इसके बाद' for athāto at u1 matches sibling chapters though the glossary elsewhere prefers 'इसलिए' (book-wide open). Needs human: u3 (and u2) appearance-iva order; u7 vyākṛti/vikṛti(m); u17 vā+vidhi vs vā+avidhi; u24 ceṣṭate; u25 ud-√śvas direction; u29 saṃmuhyet.",
+ "glossary_suggestions": [
+  "saṃmuhyet / saṃmuhyan: one Hindi rendering (मोहग्रस्त यानी सम्भवतः मूर्च्छित) across p02 ch10.",
+  "paṇava = probably a small drum (पणव यानी सम्भवतः छोटा ढोल); Arundhatī = probably Alcor; dhruva = probably pole star; ākāśagaṅgā = Milky Way (standard); daśana-cchada = lip (standard).",
+  "Metre note: vīṇa/vīṇā differ in quantity not syllable count, so syllable counts cannot support ā/a typo flags.",
+  "Prognostic units (ariṣṭa): translate literally, no added concessives (though), no 'वर्ण'."
+ ]
+}
