@@ -1,0 +1,2995 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athātaḥ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhedīyaṃ",
+      "words": [
+       {
+        "w": "prakṛti-bhedīyam",
+        "gloss": "constitution (prakṛti); relating to the kinds, divisions (bhedīya)",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śārīraṃ",
+      "words": [
+       {
+        "w": "śārīram",
+        "gloss": "relating to the body (śārīra)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall explain",
+        "gram": "1 pl. fut. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम प्रकृति के भेदों से सम्बन्धित, शरीर सम्बन्धी का व्याख्यान करेंगे।",
+  "english": "Now, therefore, we shall explain the Śārīra (that which relates to the body) concerning the kinds of constitution (prakṛti).",
+  "text_flags": [],
+  "notes": "Chapter-opening formula (atha ataḥ ... vyākhyāsyāmaḥ). Both accusatives are adjectival; the unstated noun (chapter, section) is not supplied, as in p02 ch04 u1. prakṛti here = the natural bodily constitution (the seven types of the next unit), standard; elsewhere in Part 2 it can mean the natural state.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "numeral, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtayo",
+      "words": [
+       {
+        "w": "prakṛtayaḥ",
+        "gloss": "constitutions (prakṛti)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣaiḥ",
+      "words": [
+       {
+        "w": "doṣaiḥ",
+        "gloss": "by the doṣas",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛthak",
+      "words": [
+       {
+        "w": "pṛthak",
+        "gloss": "singly, separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsargeṇa",
+      "words": [
+       {
+        "w": "saṃsargeṇa",
+        "gloss": "by combination",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāmyena",
+      "words": [
+       {
+        "w": "sāmyena",
+        "gloss": "by equality, balance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavaṃti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "arise, there are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकृतियाँ सात हैं: दोषों से अलग-अलग, मेल से और समता से।",
+  "english": "There are seven constitutions (prakṛti): from the doṣas singly, from combination, and from equality.",
+  "text_flags": [],
+  "notes": "The seven are, by the later units: Vāta, Pitta, Kapha singly (3), three of two combined, and the equal (sama) one. Printed bhavaṃti = bhavanti (anusvāra for n, orthography). 'sāmyena' = by equality (of the three doṣas), as unit 34 shows.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukrārtavagarbhāśayakāleṣu",
+      "words": [
+       {
+        "w": "śukra-ārtava-garbhāśaya-kāleṣu",
+        "gloss": "semen (śukra); menstrual fluid (ārtava); womb (garbhāśaya); time",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mātuścāhāravihārayoreko'neko",
+      "words": [
+       {
+        "w": "mātuḥ",
+        "gloss": "of the mother",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāra-vihārayoḥ",
+        "gloss": "food; conduct, regimen",
+        "gram": "dvandva, m. loc. du."
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anekaḥ",
+        "gloss": "more than one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣo",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "doṣa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatyādhikyenatenāmaraṇāhviṣavalyāmivotpadyamānasya",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "ādhikyena",
+        "gloss": "by predominance, excess",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ā-maraṇāt",
+        "gloss": "until death",
+        "gram": "ind., abl. sg."
+       },
+       {
+        "w": "viṣa-valyām",
+        "gloss": "poison; creeper",
+        "gram": "tat-puruṣa, f. loc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as, like",
+        "gram": "ind."
+       },
+       {
+        "w": "utpadyamānasya",
+        "gloss": "of one being born",
+        "gram": "pres. part. ud-√pad, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛmerviṣeṇa",
+      "words": [
+       {
+        "w": "kṛmeḥ",
+        "gloss": "of a worm",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "viṣeṇa",
+        "gloss": "by the poison",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saviṣakṛmeriva",
+      "words": [
+       {
+        "w": "sa-viṣa-kṛmeḥ",
+        "gloss": "with; poison; worm",
+        "gram": "bahuvrīhi, m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛścikāderāśīviṣasyeva",
+      "words": [
+       {
+        "w": "vṛścika-ādeḥ",
+        "gloss": "scorpion; and so on",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āśīviṣasya",
+        "gloss": "of a snake (āśīviṣa, lit. one with poison in its fangs)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaviṣeṇa",
+      "words": [
+       {
+        "w": "sva-viṣeṇa",
+        "gloss": "own; poison",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtirjāyate",
+      "words": [
+       {
+        "w": "prakṛtiḥ",
+        "gloss": "constitution (prakṛti)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "jāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ शुक्र, आर्तव, गर्भाशय और काल में तथा माता के आहार और विहार में, जो एक या अनेक दोष अधिकता से हो, उससे मृत्यु तक प्रकृति उत्पन्न होती है, जैसे विष की बेल में उत्पन्न होने वाले कृमि के लिए विष से, विषैले कृमि या बिच्छू आदि के लिए, अथवा सर्प के लिए अपने विष से।",
+  "english": "There, whichever doṣa, one or more, becomes predominant in the semen (śukra), the menstrual fluid (ārtava), the womb (garbhāśaya) and the time, and in the mother's food and conduct, by that the constitution (prakṛti) arises, lasting until death, as for a worm being born in a poison-creeper, by the poison; like a poisonous worm, a scorpion and so on, or like a snake, by its own poison.",
+  "text_flags": [
+   {
+    "src": "tenāmaraṇāhviṣavalyāmiva",
+    "suggest": "tenāmaraṇād viṣavalyām iva",
+    "why": "possible: 'āhvi' is not a word; visarga/ha for ta or da before v (OCR confusion), and the m-ra-ṇā reading is the plainest"
+   }
+  ],
+  "notes": "Hard, partly garbled sentence; the sense is that each creature's own poison does not harm it, as the constitution does not harm the person. Printed 'tenāmaraṇāhviṣavalyāmiva' is read tena ā-maraṇāt viṣa-valyām iva; 'āhvi' looks like a damaged 'āt vi' (flagged, possible). 'vṛścikāder' (scorpion and so on) and 'saviṣa-kṛmer' are taken as comparisons; the exact attachment of the genitives is uncertain. Whether 'ā-maraṇāt' goes with 'tena' as 'lifelong' is a reading, not firm. śukra = semen, ārtava = menstrual fluid, garbhāśaya = womb (all standard). Printed 'ekoneko' avagraha: eko 'nekaḥ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāntanmayatayā",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       },
+       {
+        "w": "tat-mayatayā",
+        "gloss": "that; being made of, consisting of",
+        "gram": "tat-puruṣa, f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukrārtavayordehasya",
+      "words": [
+       {
+        "w": "śukra-ārtavayoḥ",
+        "gloss": "semen (śukra); menstrual fluid (ārtava)",
+        "gram": "dvandva, n. gen. du."
+       },
+       {
+        "w": "dehasya",
+        "gloss": "of the body",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāvitatvātprākṛtatvācca",
+      "words": [
+       {
+        "w": "bhāvita-tvāt",
+        "gloss": "soaked, steeped; state of being",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "prākṛta-tvāt",
+        "gloss": "natural; state of being",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāvatā",
+      "words": [
+       {
+        "w": "tāvatā",
+        "gloss": "to that extent",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "by the doṣa",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihanyate",
+      "words": [
+       {
+        "w": "vihanyate",
+        "gloss": "is struck, harmed",
+        "gram": "3 sg. pass. vi-√han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए उसी से बने होने के कारण, शरीर के शुक्र और आर्तव से भावित यानी भीगे हुए होने के कारण और प्राकृत होने के कारण वह उस दोष से उतने में नष्ट नहीं होता।",
+  "english": "Therefore, because of being made of that, because the body is soaked (bhāvita) by the semen (śukra) and the menstrual fluid (ārtava), and because of being natural (prākṛta), it is not harmed to that extent by that doṣa.",
+  "text_flags": [],
+  "notes": "The genitive in 'śukrārtavayor dehasya bhāvitatvāt' is taken as 'the body's being soaked by the two'; the alternative 'the body of semen and ārtava being soaked' gives the same sense. 'it' (the person or body) is not stated; the subject of vihanyate is understood. tanmayatā = the state of being made of that (the doṣa of unit 3).",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadguṇaireva",
+      "words": [
+       {
+        "w": "tat-guṇaiḥ",
+        "gloss": "that; qualities",
+        "gram": "tat-puruṣa, m. inst. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cāsya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this one, his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīramupaskriyate",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upaskriyate",
+        "gloss": "is furnished, is formed",
+        "gram": "3 sg. pass. upa-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसका शरीर उसी के गुणों से ही गढ़ा जाता है।",
+  "english": "And his body is furnished (upaskriyate) by the qualities of that (doṣa) alone.",
+  "text_flags": [],
+  "notes": "'tad' refers to the doṣa of unit 3. upaskriyate = equipped, formed, built up.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataśca",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "therefore, from that",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadguṇapratipakṣaiḥ",
+      "words": [
+       {
+        "w": "tat-guṇa-pratipakṣaiḥ",
+        "gloss": "that; quality; opposite",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly, by force",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bādhyate",
+      "words": [
+       {
+        "w": "bādhyate",
+        "gloss": "is troubled, afflicted",
+        "gram": "3 sg. pass. √bādh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसलिए वह उसके गुणों के विरोधियों से अचानक पीड़ित नहीं होता।",
+  "english": "And therefore he is not suddenly afflicted by the opposites of its qualities.",
+  "text_flags": [],
+  "notes": "The subject 'he' (the person, or the body) is understood. 'tad-guṇa' refers to the qualities of the doṣa that forms the constitution.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in that",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvavasthāyāṃ",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "avasthāyām",
+        "gloss": "in the state, condition",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtimati",
+      "words": [
+       {
+        "w": "vikṛti-mati",
+        "gloss": "abnormality (vikṛti); having",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣeulbaṇe",
+      "words": [
+       {
+        "w": "doṣe",
+        "gloss": "doṣa",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ulbaṇe",
+        "gloss": "excessive, prominent",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naiva",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "at all, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhaḥ",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo (garbha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃbhavati",
+      "words": [
+       {
+        "w": "saṃbhavati",
+        "gloss": "comes into being",
+        "gram": "3 sg. pres. sam-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु उस अवस्था में, जब दोष विकृति वाला और उल्बण यानी बढ़ा हुआ हो, गर्भ बनता ही नहीं।",
+  "english": "But in that state, when the doṣa is abnormal (vikṛtimat) and excessive (ulbaṇa), the embryo (garbha) does not come into being at all.",
+  "text_flags": [],
+  "notes": "Locative absolute. Printed 'doṣeulbaṇe' joins doṣe + ulbaṇe without sandhi (print habit, no flag). vikṛti = abnormality (glossary).",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃbhavaeva",
+      "words": [
+       {
+        "w": "saṃbhave",
+        "gloss": "at conception",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "even, itself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vipadyate",
+      "words": [
+       {
+        "w": "vipadyate",
+        "gloss": "perishes, comes to grief",
+        "gram": "3 sg. pres. vi-√pad"
+       }
+      ]
+     },
+     {
+      "src": "vikṛtovā",
+      "words": [
+       {
+        "w": "vikṛtaḥ",
+        "gloss": "deformed, abnormal",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भ बनते ही नष्ट हो जाता है, अथवा विकृत हो जाता है।",
+  "english": "Even at conception it perishes (vipadyate), or it becomes abnormal (vikṛta).",
+  "text_flags": [],
+  "notes": "Printed 'saṃbhavaeva' is read saṃbhave eva (e before a vowel written as a, hiatus kept); it could also be read saṃbhava eva, 'conception itself', with the same sense. The subject 'it' (the embryo) is carried from unit 7. vikṛta may also mean deformed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so, thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kecidāhuḥ",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसी प्रकार कुछ लोग कहते हैं।",
+  "english": "And so some say.",
+  "text_flags": [],
+  "notes": "Introduces a view; the statement continues in the next units. 'kecit' is a masculine plural pronoun here ('some').",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvividhā",
+      "words": [
+       {
+        "w": "dvi-vidhāḥ",
+        "gloss": "two; kind",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vātādayaḥ",
+      "words": [
+       {
+        "w": "vāta-ādayaḥ",
+        "gloss": "Vāta; and so on",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prākṛtā",
+      "words": [
+       {
+        "w": "prākṛtāḥ",
+        "gloss": "natural",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vaikṛtāśca",
+      "words": [
+       {
+        "w": "vaikṛtāḥ",
+        "gloss": "abnormal",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात आदि दो प्रकार के हैं: प्राकृत और वैकृत।",
+  "english": "Vāta and the others are of two kinds: natural (prākṛta) and abnormal (vaikṛta).",
+  "text_flags": [],
+  "notes": "'Vāta and the others' = Vāta, Pitta, Kapha. Final visarga lost before v- is regular sandhi (prākṛtā vaikṛtāḥ), no flag. Copula understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prākṛtāḥ",
+      "words": [
+       {
+        "w": "prākṛtāḥ",
+        "gloss": "natural",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saptavidhāyāḥ",
+      "words": [
+       {
+        "w": "sapta-vidhāyāḥ",
+        "gloss": "seven; kind",
+        "gram": "bahuvrīhi, f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛterhetubhūtāḥ",
+      "words": [
+       {
+        "w": "prakṛteḥ",
+        "gloss": "of the constitution (prakṛti)",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "hetu-bhūtāḥ",
+        "gloss": "cause; being",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarīraikajanmānaḥ",
+      "words": [
+       {
+        "w": "śarīra-eka-janmānaḥ",
+        "gloss": "body; one, same; birth",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें प्राकृत सात प्रकार की प्रकृति के कारण हैं और शरीर के साथ ही एक साथ जन्मे हैं।",
+  "english": "Among these, the natural (prākṛta) ones are the causes of the sevenfold constitution (prakṛti), having one birth with the body.",
+  "text_flags": [],
+  "notes": "'The natural ones' are the natural Vāta, Pitta and Kapha of unit 10. 'Having one birth with the body' = born together with the body. Copula understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarīradhāraṇāddhātusaṃjñāḥ",
+      "words": [
+       {
+        "w": "śarīra-dhāraṇāt",
+        "gloss": "body; supporting",
+        "gram": "tat-puruṣa, n. abl. sg."
+       },
+       {
+        "w": "dhātu-saṃjñāḥ",
+        "gloss": "dhātu; called, named",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣārvyānāṃ",
+      "words": [
+       {
+        "w": "doṣārvyānāṃ",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "vikṛtānāṃ",
+      "words": [
+       {
+        "w": "vikṛtānām",
+        "gloss": "of the abnormal ones",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bījabhūtānāṃ",
+      "words": [
+       {
+        "w": "bīja-bhūtānām",
+        "gloss": "seed; being",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "mumūrṣoḥ",
+      "words": [
+       {
+        "w": "mumūrṣoḥ",
+        "gloss": "of one about to die",
+        "gram": "desid. √mṛ, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svarūpāccalaṃti",
+      "words": [
+       {
+        "w": "sva-rūpāt",
+        "gloss": "own; form, nature",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "calanti",
+        "gloss": "they move, deviate",
+        "gram": "3 pl. pres. √cal"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे शरीर को धारण करने के कारण धातु नाम वाले हैं; अस्पष्ट पद दोषार्व्यानां वाले विकृतों के, बीज बने हुओं के, मरने की इच्छा वाले यानी मरणासन्न के, वे अपने स्वरूप से हट जाते हैं।",
+  "english": "They have the name dhātu from supporting the body; of the unclear (doṣārvyānām) abnormal (vikṛta) ones, being the seed (bīja), in one about to die they move away from their own nature (svarūpa).",
+  "text_flags": [
+   {
+    "src": "doṣārvyānāṃ",
+    "suggest": "doṣāṇām",
+    "why": "possible: 'rvya' does not form a word; the context (vikṛtānām bījabhūtānām) suggests a word about doṣas, but the reading is not sure"
+   }
+  ],
+  "notes": "Damaged: 'doṣārvyānāṃ' does not parse and is left unsplit and unclear. The syntax of the genitives (vikṛtānām bījabhūtānām, mumūrṣoḥ) is uncertain, so the second half is a literal, loose rendering and should not be relied on. 'dhātu' here is explained by the text itself as from 'supporting the body' (dhāraṇa); dhātu is kept as a doctrinal term. 'mumūrṣu' = one wishing to die, i.e. dying.",
+  "confidence": "low"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarveṣvapi",
+      "words": [
+       {
+        "w": "sarveṣu",
+        "gloss": "in all",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even, also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dehe",
+      "words": [
+       {
+        "w": "dehe",
+        "gloss": "in the body",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sannihiteṣu",
+      "words": [
+       {
+        "w": "sannihiteṣu",
+        "gloss": "present, in close contact",
+        "gram": "ppp. sam-ni-√dhā, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtāvulbaṇena",
+      "words": [
+       {
+        "w": "prakṛtau",
+        "gloss": "in the constitution (prakṛti)",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "ulbaṇena",
+        "gloss": "by the prominent one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyapadeśaḥ",
+      "words": [
+       {
+        "w": "vyapadeśaḥ",
+        "gloss": "designation, naming",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरीर में सबके उपस्थित होने पर भी प्रकृति में उल्बण यानी बढ़े हुए के द्वारा नामकरण होता है।",
+  "english": "Even when all are present in the body, in the matter of constitution (prakṛti) the designation is by the prominent (ulbaṇa) one.",
+  "text_flags": [],
+  "notes": "'All' = the three doṣas. Locative absolute (sarveṣu sannihiteṣu). 'ulbaṇena' stands for an unstated noun, shown as 'one'. Copula understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaikṛtāstu",
+      "words": [
+       {
+        "w": "vaikṛtāḥ",
+        "gloss": "abnormal",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbhādabhiniḥsṛtasyāhārairasātsaṃbhavaṃtaḥ",
+      "words": [
+       {
+        "w": "garbhāt",
+        "gloss": "from the womb",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "abhiniḥsṛtasya",
+        "gloss": "of one who has come out",
+        "gram": "ppp. abhi-nis-√sṛ, m. gen. sg."
+       },
+       {
+        "w": "āhāraiḥ",
+        "gloss": "by foods",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "asāt",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "saṃbhavantaḥ",
+        "gloss": "arising",
+        "gram": "pres. part. sam-√bhū, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prākṛteṣveva",
+      "words": [
+       {
+        "w": "prākṛteṣu",
+        "gloss": "on the natural ones",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rohaṃti",
+      "words": [
+       {
+        "w": "rohanti",
+        "gloss": "grow, take root",
+        "gram": "3 pl. pres. √ruh"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kālādivaśena",
+      "words": [
+       {
+        "w": "kāla-ādi-vaśena",
+        "gloss": "time; and so on; power, force",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svapnamāṇavṛddhikṣayayogāddehamanugṛhṇaṃti",
+      "words": [
+       {
+        "w": "svapnamāṇavṛddhikṣayayogāt",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "deham",
+        "gloss": "body",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anugṛhṇanti",
+        "gloss": "they favour, support",
+        "gram": "3 pl. pres. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "dūṣayaṃti",
+      "words": [
+       {
+        "w": "dūṣayanti",
+        "gloss": "they vitiate, spoil",
+        "gram": "3 pl. pres. caus. √duṣ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadvadojo'pi",
+      "words": [
+       {
+        "w": "tadvat",
+        "gloss": "likewise",
+        "gram": "ind."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "ojas",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "supreme, chief",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdayasthamaṣṭabiṃdupramāṇamādhāraḥ",
+      "words": [
+       {
+        "w": "hṛdaya-stham",
+        "gloss": "heart; situated",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṣṭa-bindu-pramāṇam",
+        "gloss": "eight; drop; measure",
+        "gram": "bahuvrīhi, n. nom. sg."
+       },
+       {
+        "w": "ādhāraḥ",
+        "gloss": "support",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prākṛtikalya",
+      "words": [
+       {
+        "w": "prākṛtikalya",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "rasātmakasyaujasaḥ",
+      "words": [
+       {
+        "w": "rasa-ātmakasya",
+        "gloss": "rasa; having the nature of",
+        "gram": "bahuvrīhi, n. gen. sg."
+       },
+       {
+        "w": "ojasaḥ",
+        "gloss": "of ojas",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣayavṛddhibhājaḥ",
+      "words": [
+       {
+        "w": "kṣaya-vṛddhi-bhājaḥ",
+        "gloss": "decrease; increase; sharing in",
+        "gram": "tat-puruṣa, n. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु वैकृत, गर्भ से बाहर आए हुए के अस्पष्ट पद असात् वाले आहारों से उत्पन्न होते हुए, प्राकृतों पर ही जमते हैं; वे काल आदि के प्रभाव से अस्पष्ट पद स्वप्नमाणवृद्धिक्षययोगात् के कारण शरीर को अनुगृहीत करते हैं और दूषित भी करते हैं। उसी प्रकार ओज भी परम, हृदय में स्थित, आठ बूँद के माप का आधार है; अस्पष्ट पद प्राकृतिकल्य; रस स्वरूप वाले, क्षय और वृद्धि में भागी ओज का।",
+  "english": "But the abnormal (vaikṛta) ones, arising in one who has come out of the womb from foods of unclear kind (asāt), grow only upon the natural (prākṛta) ones; by the force of time and so on, through [unclear: svapnamāṇavṛddhikṣayayogāt], they favour the body and also vitiate it. Likewise ojas too, supreme, situated in the heart, of the measure of eight drops, is the support; [unclear: prākṛtikalya]; of ojas, whose nature is rasa, sharing in decrease and increase.",
+  "text_flags": [
+   {
+    "src": "garbhādabhiniḥsṛtasyāhārairasātsaṃbhavaṃtaḥ",
+    "suggest": "asātmyāt",
+    "why": "possible: 'asāt' is not a word here; asātmya (unsuitable) fits the sense of vaikṛta doṣas arising from foods"
+   },
+   {
+    "src": "svapnamāṇavṛddhikṣayayogāddehamanugṛhṇaṃti",
+    "suggest": "svamānavṛddhikṣayayogād",
+    "why": "possible: 'svapnamāṇa' does not make sense beside vṛddhi-kṣaya; svamāna or svapramāṇa fits better"
+   },
+   {
+    "src": "prākṛtikalya",
+    "suggest": "prākṛtikalpa",
+    "why": "possible: the word does not parse as printed; the correction is a guess"
+   }
+  ],
+  "notes": "Heavily damaged and run-together. Left unsplit and unclear: 'asāt' (maybe asātmyāt, 'unsuitable'), 'svapnamāṇavṛddhikṣayayogāt' (perhaps a lost svamāna/svapramāṇa: 'by connection with decrease and increase of its own measure', not adopted) and 'prākṛtikalya'. The last four clauses on ojas are a loose literal rendering: 'ādhāraḥ' (support) has no stated object, and the two genitives rasātmakasya ojasaḥ with kṣayavṛddhibhājaḥ are taken as one phrase 'of ojas, which is of the nature of rasa and shares in decrease and increase'. 'ojas' is kept as a doctrinal term (the vital essence residing in the heart; the text gives only its position and measure: eight drops). 'aṣṭabindu' = eight drops.",
+  "confidence": "low"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now, then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svadoṣaguṇānurodhādvātaprakṛtistanūrūkṣastanvalpāṃgadaṃtanakharomanetrasvaraḥ",
+      "words": [
+       {
+        "w": "sva-doṣa-guṇa-anurodhāt",
+        "gloss": "own; doṣa; quality; following, conforming to",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "vāta-prakṛtiḥ",
+        "gloss": "Vāta; constitution (prakṛti): one of Vāta constitution",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "tanuḥ",
+        "gloss": "thin",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "rūkṣaḥ",
+        "gloss": "dry, rough",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tanu-alpa-aṅga-danta-nakha-roma-netra-svaraḥ",
+        "gloss": "thin; scanty; limbs; teeth; nails; hair; eyes; voice",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītadvidudvaddhapiṃḍikaḥ",
+      "words": [
+       {
+        "w": "śīta-dviṭ",
+        "gloss": "cold; hating",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "udbaddha-piṇḍikaḥ",
+        "gloss": "tightly bound, tight; calf",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saśabdasaṃdhigāmī",
+      "words": [
+       {
+        "w": "sa-śabda-sandhi-gāmī",
+        "gloss": "with; sound; joint; moving, going",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīghrāraṃbhakṣobhagrahaṇavismaraṇaścaladhṛtimatigatidṛṣṭisvabhāvasauhārdaḥ",
+      "words": [
+       {
+        "w": "śīghra-ārambha-kṣobha-grahaṇa-vismaraṇaḥ",
+        "gloss": "quick; undertaking, starting; agitation; grasping; forgetting",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "cala-dhṛti-mati-gati-dṛṣṭi-svabhāva-sauhārdaḥ",
+        "gloss": "unsteady; steadiness, fortitude; mind; gait; gaze; disposition; friendship",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "steno'nāryo",
+      "words": [
+       {
+        "w": "stenaḥ",
+        "gloss": "thief",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anāryaḥ",
+        "gloss": "ignoble",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matsaryajiteṃdriyaḥ",
+      "words": [
+       {
+        "w": "matsarī",
+        "gloss": "envious",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "a-jita-indriyaḥ",
+        "gloss": "not; conquered; senses",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "priyagāṃdharvetihāsahāsavilāsakalahamṛgayodyānayātraḥ",
+      "words": [
+       {
+        "w": "priya-gāndharva-itihāsa-hāsa-vilāsa-kalaha-mṛgayā-udyāna-yātraḥ",
+        "gloss": "fond of; music (gāndharva); legends, tales (itihāsa); laughter; play; quarrel; hunting; gardens; journeys",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhoṣṇamadhurāmsalavaṇānnapānakāṃkṣopaśayaśca",
+      "words": [
+       {
+        "w": "snigdha-uṣṇa-madhura-amla-lavaṇa-anna-pāna-kāṅkṣā-upaśayaḥ",
+        "gloss": "unctuous; hot; sweet; sour; salty; food; drink; desire; suitability",
+        "gram": "dvandva/bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब अपने दोष के गुणों के अनुसार वात प्रकृति वाला दुबला और रूखा होता है; उसके अंग, दाँत, नाखून, रोम, नेत्र और स्वर पतले और कम होते हैं; वह शीत से द्वेष करने वाला है, पिंडलियाँ कसी हुई हैं; सशब्द जोड़ों से चलता है; आरम्भ, क्षोभ, ग्रहण और भूलने में शीघ्र है; धैर्य, बुद्धि, चाल, दृष्टि, स्वभाव और मित्रता में चंचल है; चोर है, अनार्य है; ईर्ष्यालु है, इन्द्रियों को न जीतने वाला है; गान्धर्व यानी संगीत, इतिहास, हास, विलास, कलह, शिकार, उद्यान और यात्रा का प्रिय है; और चिकने, गरम, मीठे, खट्टे, नमकीन अन्न और पान की इच्छा तथा अनुकूलता वाला होता है।",
+  "english": "Now, in accordance with the qualities of his own doṣa, one of Vāta constitution (vātaprakṛti) is thin and dry, with thin and scanty limbs, teeth, nails, hair, eyes and voice; a hater of cold, with tightly bound (udbaddha) calves; going with noisy joints; quick to begin, to be agitated, to grasp and to forget; unsteady in fortitude, mind, gait, gaze, disposition and friendship; a thief, ignoble; envious, with his senses unconquered; fond of music (gāndharva), legends (itihāsa), laughter, play, quarrel, hunting, gardens and journeys; and with a desire for, and suitability to, unctuous, hot, sweet, sour and salty food and drink.",
+  "text_flags": [
+   {
+    "src": "snigdhoṣṇamadhurāmsalavaṇānnapānakāṃkṣopaśayaśca",
+    "suggest": "snigdhoṣṇamadhurāmlalavaṇānnapānakāṅkṣopaśayaśca",
+    "why": "likely: 'madhurāmsa' is not a taste; ms for ml (OCR), and madhura-amla-lavaṇa is the usual sequence"
+   }
+  ],
+  "notes": "Long list of marks; the verb 'bhavati' ends it. Printed 'śītadvidudvaddha' is read śīta-dviṭ + udbaddha (d before a vowel by sandhi; v for b is the print's v/b interchange, recorded once): 'hater of cold' is a reading, not firm. 'tanū-rūkṣaḥ' is regular sandhi of tanuḥ rūkṣaḥ. 'tanu-alpa' is taken to qualify all six items (limbs, teeth, nails, hair, eyes, voice). 'matsaryajitendriyaḥ' = matsarī + ajita-indriyaḥ by sandhi (envious, senses not conquered); the alternative 'jita' (conquered) does not fit the list of faults. 'gāndharva' = music, song (probable); 'itihāsa' = legend, tales. 'dhṛti' here = fortitude, steadiness. 'upaśaya' = what suits; 'kāṅkṣā-upaśaya' read as desire and suitability. 'stena' = thief, a noun in the list (so 'a thief'), not 'inclined to steal'. Printed 'madhurāmsa' is a slip for madhura-amla (flagged).",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also, further",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "And further.",
+  "text_flags": [],
+  "notes": "Introduces the verse lines of the next units. api ca is a stock link.",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpavittabalajīvitanidraḥ",
+      "words": [
+       {
+        "w": "alpa-vitta-bala-jīvita-nidraḥ",
+        "gloss": "little; wealth; strength; life, lifespan; sleep",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣāmavāgdhamanisaṃtatagātraḥ",
+      "words": [
+       {
+        "w": "kṣāma-vāc-dhamani-santata-gātraḥ",
+        "gloss": "weak (kṣāma); speech; vessel (dhamanī, probably visible veins); spread over; body, limbs",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "थोड़े धन, बल, जीवन और नींद वाला; कृश वाणी वाला, धमनियों से फैले हुए गात्र वाला।",
+  "english": "With little wealth, strength, life and sleep; with weak (kṣāma) speech and a body spread over with vessels (dhamanī).",
+  "text_flags": [],
+  "notes": "Continues the Vāta description (the verb 'bhavati' of unit 15 is not repeated). kṣāma is taken with vāc (weak or hoarse speech) in the glossary sense 'kṛśa'; it might instead qualify the whole man ('emaciated; speech ...'), so the split of the compound is not firm. dhamanī (vessel; here probably the visible veins) is probable, not stated. The short -i of 'dhamani-' in the compound is metrical or print.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbhago'tibahubhuk",
+      "words": [
+       {
+        "w": "durbhagaḥ",
+        "gloss": "unfortunate",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-bahu-bhuj",
+        "gloss": "very much; eating",
+        "gram": "upapada, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahubhāṣī",
+      "words": [
+       {
+        "w": "bahu-bhāṣī",
+        "gloss": "talkative",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāstikaḥ",
+      "words": [
+       {
+        "w": "nāstikaḥ",
+        "gloss": "unbeliever, one who denies",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sphuṭitakeśakarāṃghriḥ",
+      "words": [
+       {
+        "w": "sphuṭita-keśa-kara-aṅghriḥ",
+        "gloss": "split, cracked; hair; hands; feet",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्भाग्य वाला, बहुत खाने वाला, बहुत बोलने वाला, नास्तिक, फटे हुए केश, हाथ और पैर वाला।",
+  "english": "Unfortunate, eating very much, talkative, an unbeliever (nāstika), with split hair, hands and feet.",
+  "text_flags": [],
+  "notes": "'durbhaga' = unlucky or unfortunate (the sense of disagreeable to others is also possible). 'sphuṭita' = split, cracked; whether it applies equally to hair is not stated (taken as one compound, as printed). 'nāstika' = one who denies (the next world, or the Veda).",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kiṃcidunmiṣitadṛṅmukhasusrastastanyate",
+      "words": [
+       {
+        "w": "kiñcit-unmiṣita-dṛk-mukha-su-srastaḥ",
+        "gloss": "slightly; opened; eye; mouth; very; slack, loosened",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "stanyate",
+        "gloss": "moans, resounds",
+        "gram": "3 sg. pres. √stan"
+       }
+      ]
+     },
+     {
+      "src": "kthati",
+      "words": [
+       {
+        "w": "kthati",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "khādati",
+      "words": [
+       {
+        "w": "khādati",
+        "gloss": "chews, grinds",
+        "gram": "3 sg. pres. √khād"
+       }
+      ]
+     },
+     {
+      "src": "daṃtān",
+      "words": [
+       {
+        "w": "dantān",
+        "gloss": "teeth",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "थोड़ी खुली दृष्टि और बहुत ढीले मुख वाला; वह कराहता है, अस्पष्ट क्रिया कथति करता है, दाँतों को चबाता है।",
+  "english": "With eyes slightly open and the mouth very slack (susrasta); he moans (stanyate), [unclear: kthati], and grinds his teeth.",
+  "text_flags": [
+   {
+    "src": "kthati",
+    "suggest": "kūthati",
+    "why": "possible: 'kthati' does not parse; a verb of noise such as kūthati (groans) fits beside stanyate and khādati dantān, but this is a guess"
+   }
+  ],
+  "notes": "Hard and partly damaged; confidence low. The compound is split as kiñcit-unmiṣita-dṛk-mukha-su-srastaḥ, 'eye slightly opened, mouth very slack'; the join of mukha with what precedes or follows is not sure. 'kthati' is not a known word and is left unclear (kūthati, 'groans', is a guess, flagged only). 'susrastastanyate' is read susrastaḥ stanyate (visarga before st); 'stanyate' for a middle form of √stan is irregular, so the form is not sure. No word for sleep or dream is in this unit (context of units 20 and 26 suggests it), so none is supplied.",
+  "confidence": "low"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuṣkarūkṣaviṣamāsu",
+      "words": [
+       {
+        "w": "śuṣka-rūkṣa-viṣamāsu",
+        "gloss": "dry; rough; uneven",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saritsu",
+      "words": [
+       {
+        "w": "saritsu",
+        "gloss": "in rivers",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyomni",
+      "words": [
+       {
+        "w": "vyomni",
+        "gloss": "in the sky",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śailaśikhareṣu",
+      "words": [
+       {
+        "w": "śaila-śikhareṣu",
+        "gloss": "mountain; peaks",
+        "gram": "tat-puruṣa, n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह सूखी, रूखी और ऊबड़-खाबड़ नदियों में, आकाश में और पर्वत की चोटियों पर जाता है।",
+  "english": "He goes in dry, rough and uneven rivers, in the sky and on mountain peaks.",
+  "text_flags": [],
+  "notes": "The subject 'he' (the Vāta person) is understood. No word for dream is in the unit, so none is supplied (cf. unit 26 'suptaḥ' and unit 32 'svapne').",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pittaprakṛtiruṣṇagauragātrastāmranakhanayanajihvauṣṭhapāṇipādatalaḥ",
+      "words": [
+       {
+        "w": "pitta-prakṛtiḥ",
+        "gloss": "Pitta; constitution (prakṛti): one of Pitta constitution",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "uṣṇa-gaura-gātraḥ",
+        "gloss": "hot, warm; fair; body",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "tāmra-nakha-nayana-jihvā-oṣṭha-pāṇi-pāda-talaḥ",
+        "gloss": "copper-coloured; nails; eyes; tongue; lips; hands; feet; palms, soles",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śithilasaṃdhibaṃdhamāṃsaḥ",
+      "words": [
+       {
+        "w": "śithila-sandhi-bandha-māṃsaḥ",
+        "gloss": "loose; joint; ligament, binding; flesh",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karabhakapilaviralamṛdukeśaromā",
+      "words": [
+       {
+        "w": "karabha-kapila-virala-mṛdu-keśa-romā",
+        "gloss": "karabha (camel or young elephant); tawny; sparse; soft; head hair; body hair",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyabalāyuralpaśukravyavāyāpatyaḥ",
+      "words": [
+       {
+        "w": "madhya-bala-āyuḥ",
+        "gloss": "middling; strength; life",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "alpa-śukra-vyavāya-apatyaḥ",
+        "gloss": "little; semen (śukra); sexual intercourse (vyavāya); offspring",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūro'bhimānī",
+      "words": [
+       {
+        "w": "śūraḥ",
+        "gloss": "brave",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhimānī",
+        "gloss": "proud",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīghravalīkhalitapalitapiṭkuvyaṃgasṛtpipāso",
+      "words": [
+       {
+        "w": "śīghra-valī-khalita-palita-piṭka-vyaṅga-kṣut-pipāsaḥ",
+        "gloss": "quick, early; wrinkles; baldness; grey hair; pimples, eruptions; blemishes, dark spots; hunger; thirst",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "medhāvī",
+      "words": [
+       {
+        "w": "medhāvī",
+        "gloss": "intelligent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbhagaḥ",
+      "words": [
+       {
+        "w": "durbhagaḥ",
+        "gloss": "unfortunate",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svādutittakaṣāyaśītābhilāṣopaśayaśca",
+      "words": [
+       {
+        "w": "svādu-tikta-kaṣāya-śīta-abhilāṣa-upaśayaḥ",
+        "gloss": "sweet; bitter; astringent; cold; desire; suitability",
+        "gram": "dvandva/bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पित्त प्रकृति वाला गरम और गोरे शरीर वाला होता है; उसके नाखून, नेत्र, जीभ, होंठ, हथेलियाँ और तलवे ताँबे के रंग के होते हैं; जोड़ों के बन्धन और मांस ढीले होते हैं; केश और रोम करभ के समान कपिल यानी भूरे, विरल और मुलायम होते हैं; बल और आयु मध्यम होती है, शुक्र, मैथुन और सन्तान थोड़ी होती है; शूर है, अभिमानी है; झुर्रियाँ, गंजापन, बाल पकना, फुंसियाँ और झाइयाँ जल्दी होती हैं, अनुमानित पाठ पर उसे भूख और प्यास लगती है; मेधावी है, दुर्भाग्य वाला है; और मीठे, कड़वे, कसैले और ठंडे की इच्छा तथा अनुकूलता वाला होता है।",
+  "english": "One of Pitta constitution (pittaprakṛti) is warm and fair-bodied, with copper-coloured nails, eyes, tongue, lips, palms and soles; with loose joint-ligaments and flesh; with hair of the head and body like a karabha (camel or young elephant), tawny, sparse and soft; of middling strength and life, with little semen, sexual intercourse and offspring; brave, proud; with early wrinkles (valī), baldness (khalita), grey hair (palita), pimples (piṭka) and blemishes (vyaṅga) and, on a conjectural reading, hunger and thirst; intelligent, unfortunate; and with desire for, and suitability to, sweet, bitter and astringent (kaṣāya) and cold things.",
+  "text_flags": [
+   {
+    "src": "śīghravalīkhalitapalitapiṭkuvyaṃgasṛtpipāso",
+    "suggest": "śīghravalīkhalitapalitapiṭkavyaṅgakṣutpipāso",
+    "why": "possible: 'sṛt' is not a word beside pipāsa; kṣut (hunger) fits, as in unit 27 (kṣutpipāsā); also 'piṭku' for piṭka/piṭaka (short u for a, OCR)"
+   }
+  ],
+  "notes": "Printed 'sṛtpipāso' is read kṣut-pipāsaḥ (hunger and thirst, as in unit 27 kṣutpipāsā): the translation adopts this and is marked conjectural; flagged. 'karabha-kapila' is read as 'tawny like a karabha'; karabha = camel (or young elephant), so the comparison is not firm. 'śīghra' is taken to qualify the whole list of skin and hair changes ('early'). 'alpa-śukra-vyavāya-apatya' = little semen, intercourse and offspring. The taste list is a dvandva; kaṣāya here is the taste (astringent). 'upaśaya' = what suits. Copula 'bhavati' ends the unit. śukra = semen (standard).",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also, further",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "And further.",
+  "text_flags": [],
+  "notes": "Introduces the verse lines of the next units (stock link).",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dayitamālyavilepanamaṃḍanaḥ",
+      "words": [
+       {
+        "w": "dayita-mālya-vilepana-maṇḍanaḥ",
+        "gloss": "dear, beloved; garland; unguent; adornment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sucaritaḥ",
+      "words": [
+       {
+        "w": "su-caritaḥ",
+        "gloss": "well; conduct, behaved",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śucirāśritavatsalaḥ",
+      "words": [
+       {
+        "w": "śuciḥ",
+        "gloss": "pure, clean",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āśrita-vatsalaḥ",
+        "gloss": "dependent; affectionate",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "माला, लेप और सजावट जिसे प्रिय हैं; सदाचारी, शुद्ध, आश्रितों पर स्नेह करने वाला।",
+  "english": "One to whom garlands, unguents and adornment are dear; well-behaved, pure, affectionate to his dependents.",
+  "text_flags": [],
+  "notes": "Continues the Pitta description (verb of unit 21 not repeated). 'dayita' may be taken with all three nouns (as printed, one compound). śuci = pure or clean (both senses possible).",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vibhavasāhasabuddhivalānvito",
+      "words": [
+       {
+        "w": "vibhava-sāhasa-buddhi-bala-anvitaḥ",
+        "gloss": "wealth, power; daring; intellect; strength; endowed with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes, is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "bhīṣu",
+      "words": [
+       {
+        "w": "bhīṣu",
+        "gloss": "in fears",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gatirdiṃpatāmapi",
+      "words": [
+       {
+        "w": "gatiḥ",
+        "gloss": "refuge, resort",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "dik-patām",
+        "gloss": "direction, quarter; lord",
+        "gram": "tat-puruṣa, m. gen. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैभव, साहस, बुद्धि और बल से युक्त होता है; भय में दिशाओं के स्वामियों का भी सहारा होता है।",
+  "english": "He is endowed with wealth (vibhava), daring, intellect and strength; in fears he is a refuge even for the lords of the quarters (dikpati).",
+  "text_flags": [],
+  "notes": "Printed 'valānvito' has v for b (print habit, normalised once to bala); 'diṃpatām' = dik-patām (ṃ for ṅ, orthography). 'bhīṣu' is the locative plural of bhī (fear); 'gatiḥ' = refuge or resort; 'for the lords of the quarters' (genitive) could also be 'of' them in the sense of belonging, so the exact relation is not firm. vibhava = wealth or power.",
+  "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gharmadveṣī",
+      "words": [
+       {
+        "w": "gharma-dveṣī",
+        "gloss": "heat; hating",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedanaḥ",
+      "words": [
+       {
+        "w": "svedanaḥ",
+        "gloss": "sweating",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūniṃgaṃdhirbhūryuccārakrodhapānāśanerṣyaḥ",
+      "words": [
+       {
+        "w": "pūti-gandhiḥ",
+        "gloss": "foul; smelling",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "bhūri-uccāra-krodha-pāna-aśana-īrṣyaḥ",
+        "gloss": "much; stool; anger; drinking; eating; jealousy",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गरमी से द्वेष करने वाला, पसीने वाला, दुर्गन्ध वाला, जिसे मल, क्रोध, पान, भोजन और ईर्ष्या बहुत होते हैं।",
+  "english": "A hater of heat, sweating, foul-smelling, with much stool, anger, drinking, eating and jealousy.",
+  "text_flags": [
+   {
+    "src": "pūniṃgaṃdhirbhūryuccārakrodhapānāśanerṣyaḥ",
+    "suggest": "pūtigandhir bhūry uccārakrodhapānāśanerṣyaḥ",
+    "why": "possible: 'pūniṃ' is not a word before gandhi; pūti (foul) fits the list of faults, a guess from sense"
+   }
+  ],
+  "notes": "Printed 'pūniṃgaṃdhir' is read pūti-gandhiḥ (flagged, possible). 'bhūri' is taken to qualify the whole list as printed. 'svedana' = sweating (the plain sense; 'causing sweat' is possible). 'uccāra' = stool, excretion. Verb of unit 21 not repeated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suptaḥpaśyetkarṇikārān",
+      "words": [
+       {
+        "w": "suptaḥ",
+        "gloss": "asleep",
+        "gram": "ppp. √svap, m. nom. sg."
+       },
+       {
+        "w": "paśyet",
+        "gloss": "would see",
+        "gram": "3 sg. opt. √dṛś"
+       },
+       {
+        "w": "karṇikārān",
+        "gloss": "karṇikāra trees (Pterospermum acerifolium; probable)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "palāśān",
+      "words": [
+       {
+        "w": "palāśān",
+        "gloss": "palāśa trees (Butea monosperma; standard)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "digdāholkāvidyudarkānalāṃśca",
+      "words": [
+       {
+        "w": "dik-dāha-ulkā-vidyut-arka-analān",
+        "gloss": "quarters; burning; meteor; lightning; sun; fire",
+        "gram": "dvandva, m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सोया हुआ वह कर्णिकार यानी सम्भवतः कनकचम्पा के वृक्ष, पलाश यानी ढाक के वृक्ष, दिशाओं का जलना, उल्का, बिजली, सूर्य और अग्नि देखे।",
+  "english": "Asleep, he would see karṇikāra trees (probably the kanak-champa tree), palāśa trees (the dhak or flame-of-the-forest), the burning of the quarters (digdāha), meteors, lightning, the sun and fires.",
+  "text_flags": [],
+  "notes": "Identifications: karṇikāra = Pterospermum acerifolium (probable; Cassia fistula is another proposal), palāśa = Butea monosperma (standard). 'digdāha' = burning of the quarters (a glow or fire seen in the horizon). 'arka' is taken as the sun (it can also be Calotropis); 'suptaḥ' with the opt. 'paśyet' is read as seeing in sleep, i.e. dreaming. The first token is run together: suptaḥ paśyet karṇikārān.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaphaprakṛtistu",
+      "words": [
+       {
+        "w": "kapha-prakṛtiḥ",
+        "gloss": "Kapha; constitution (prakṛti): one of Kapha constitution",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūrvedīvaraśarakāṃḍānyatamavarṇaḥ",
+      "words": [
+       {
+        "w": "dūrvā-indīvara-śara-kāṇḍa-anyatama-varṇaḥ",
+        "gloss": "dūrvā (Cynodon dactylon grass; standard); indīvara (blue lotus, Nymphaea; probable); śara reed (Saccharum, probable); stalk; any one of; colour",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samamuvibhaktasnigdhasthirasukumāraślakṣṇaḥsasaṃdhibaṃdhaḥ",
+      "words": [
+       {
+        "w": "sama-su-vibhakta-snigdha-sthira-sukumāra-ślakṣṇaḥ",
+        "gloss": "even; well; divided, proportioned; unctuous; firm; delicate; smooth",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "su-sandhi-bandhaḥ",
+        "gloss": "well; joint; ligament",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripūrṇacārugātro",
+      "words": [
+       {
+        "w": "paripūrṇa-cāru-gātraḥ",
+        "gloss": "full, well developed; handsome; limbs, body",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahālalāṭorubāhurvyaktasitāsitaprasannāyatanaviśālapakṣmalākṣaḥ",
+      "words": [
+       {
+        "w": "mahā-lalāṭa-uru-bāhuḥ",
+        "gloss": "large; forehead; thigh (or: broad); arm",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "vyakta-sita-asita-prasanna-āyata-viśāla-pakṣma-la-akṣaḥ",
+        "gloss": "distinct; white; dark; clear; long; wide; lashes, having; eyes",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siṃhamṛdaṃgaghanaghoṣaḥ",
+      "words": [
+       {
+        "w": "siṃha-mṛdaṅga-ghana-ghoṣaḥ",
+        "gloss": "lion; mṛdaṅga (a drum); cloud; sound",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣutpipāsoṣṇasahiṣṇurbanhojobalaśukravyavāyāpatyasthiraśoṣamālyānulepano",
+      "words": [
+       {
+        "w": "kṣut-pipāsā-uṣṇa-sahiṣṇuḥ",
+        "gloss": "hunger; thirst; heat; enduring",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "bahu-ojaḥ-bala-śukra-vyavāya-apatya",
+        "gloss": "much; ojas; strength; semen; intercourse; offspring",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "sthira-śoṣa",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "mālya-anulepanaḥ",
+        "gloss": "garland; unguent",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhapracchannavairaḥ",
+      "words": [
+       {
+        "w": "dṛḍha-pracchanna-vairaḥ",
+        "gloss": "firm; hidden; enmity",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "peśalaḥ",
+      "words": [
+       {
+        "w": "peśalaḥ",
+        "gloss": "gentle, charming",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satyavādī",
+      "words": [
+       {
+        "w": "satya-vādī",
+        "gloss": "truth; speaking",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smṛtimāndhṛtimānalolupo",
+      "words": [
+       {
+        "w": "smṛtimān",
+        "gloss": "possessing memory",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dhṛtimān",
+        "gloss": "steady, firm",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "alolupaḥ",
+        "gloss": "not greedy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bālyepyarodanaḥ",
+      "words": [
+       {
+        "w": "bālye",
+        "gloss": "in childhood",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "arodanaḥ",
+        "gloss": "not crying",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṭutittakaṣāyoṣṇarūkṣecchopaśayaśca",
+      "words": [
+       {
+        "w": "kaṭu-tikta-kaṣāya-uṣṇa-rūkṣa-icchā-upaśayaḥ",
+        "gloss": "pungent; bitter; astringent; hot; dry; desire; suitability",
+        "gram": "dvandva/bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कफ प्रकृति वाला दूर्वा यानी दूब, इन्दीवर यानी सम्भवतः नीले कमल, या शर यानी सम्भवतः सरकंडे के डंठल में से किसी एक के रंग का होता है; वह सम, सुविभक्त, स्निग्ध, स्थिर, सुकुमार और मसृण अंगों वाला है, उसके जोड़ों के बन्धन अच्छे हैं; वह भरे हुए सुन्दर शरीर वाला है; उसका ललाट, जाँघें और भुजाएँ बड़ी हैं; आँखों में सफेद और काला साफ दिखता है, वे स्वच्छ, लम्बी, चौड़ी और पलकों वाली हैं; उसका स्वर सिंह, मृदंग और बादल की गड़गड़ाहट जैसा गहरा है; वह भूख, प्यास और गरमी सह लेता है; उसका ओज, बल, शुक्र, मैथुन और सन्तान बहुत है, अनुमानित पाठ पर; उसके अस्पष्ट पद स्थिरशोष, माला और लेप हैं; उसकी शत्रुता दृढ़ और छिपी हुई है; वह सुकोमल स्वभाव का, सत्यवादी, स्मृति वाला, धैर्य वाला, लोभ रहित है; बचपन में भी रोता नहीं; और कटु यानी तीखे, कड़वे, कसैले, गरम और रूखे की इच्छा तथा अनुकूलता वाला होता है।",
+  "english": "But one of Kapha constitution (kaphaprakṛti) has the colour of any one of dūrvā grass (Bermuda grass), indīvara (probably the blue lotus) or the stalk of the śara reed (probably a reed grass); even, well-proportioned, unctuous, firm, delicate, smooth, with well-fitted joint-ligaments; with a full, handsome body; with a large forehead, thighs and arms; with eyes in which the white and the dark are distinct, clear, long, wide and lashed; with a sound like a lion, a mṛdaṅga drum and a cloud; enduring hunger, thirst and heat; with much ojas, strength, semen, sexual intercourse and offspring, on a conjectural reading, [unclear: sthiraśoṣa], garlands and unguents; with firm, hidden enmity; gentle, truthful; possessing memory and steadiness, not greedy, not crying even in childhood; and with desire for, and suitability to, pungent (kaṭu), bitter, astringent (kaṣāya), hot and dry things.",
+  "text_flags": [
+   {
+    "src": "samamuvibhaktasnigdhasthirasukumāraślakṣṇaḥsasaṃdhibaṃdhaḥ",
+    "suggest": "samasuvibhaktasnigdhasthirasukumāraślakṣṇaḥ susandhibandhaḥ",
+    "why": "possible: 'mu' for su and 'sasa' for susa (OCR); sama and su-sandhi-bandha are the sense"
+   },
+   {
+    "src": "kṣutpipāsoṣṇasahiṣṇurbanhojobalaśukravyavāyāpatyasthiraśoṣamālyānulepano",
+    "suggest": "kṣutpipāsoṣṇasahiṣṇur bahvojobalaśukravyavāyāpatyasthiraśokamālyānulepano",
+    "why": "possible: 'banhojo' for bahvojo (h/n confusion); 'sthiraśoṣa' unclear (śobhā or śoka are guesses)"
+   }
+  ],
+  "notes": "Several prints need care. 'samamuvibhakta' is read sama-su-vibhakta and 'sasaṃdhibaṃdhaḥ' as su-sandhi-bandhaḥ (flagged, possible). 'banhojo' is read bahu-ojaḥ (a conjectural reading, flagged: it matches Pitta's alpa-śukra-vyavāya-apatya in unit 21); the translation marks it. 'sthiraśoṣa' is damaged or unknown (śoṣa = drying up does not suit) and is left unsplit and unclear. 'mahā' is taken with the whole trio (forehead, thighs, arms); 'uru' could instead mean broad (broad arms). 'ghana' = cloud (or deep, dense). 'peśala' = gentle, charming (skilful is possible). Identifications: dūrvā = Cynodon dactylon (standard); indīvara = a blue water-lily or lotus, Nymphaea (probable); śara = a reed of the Saccharum group (probable). kaṭu = pungent; kaṣāya here = the taste, astringent. Printed 'bālyepyarodanaḥ' = bālye api arodanaḥ.",
+  "confidence": "low"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apica",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also, further",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भी।",
+  "english": "And further.",
+  "text_flags": [],
+  "notes": "Introduces the verse lines of the next units (stock link).",
+  "confidence": "high"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpavyāhārakrodhamedhāśanehaḥ",
+      "words": [
+       {
+        "w": "alpa-vyāhāra-krodha-medhā-aśana-īhaḥ",
+        "gloss": "little; speech; anger; intellect; eating; effort, desire",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prājyāyurvitto",
+      "words": [
+       {
+        "w": "prājya-āyuḥ-vittaḥ",
+        "gloss": "abundant; life; wealth",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrghadarśī",
+      "words": [
+       {
+        "w": "dīrgha-darśī",
+        "gloss": "far; seeing",
+        "gram": "upapada, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadānyaḥ",
+      "words": [
+       {
+        "w": "vadānyaḥ",
+        "gloss": "generous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "थोड़ी वाणी, क्रोध, मेधा, भोजन और चेष्टा वाला; बहुत आयु और धन वाला; दूरदर्शी, उदार।",
+  "english": "With little speech, anger, intellect (medhā), eating and effort; with abundant life and wealth; far-seeing, generous.",
+  "text_flags": [],
+  "notes": "Continues the Kapha description (verb of unit 27 not repeated). The compound alpa-vyāhāra-krodha-medhā-aśana-īha is read as printed, with 'alpa' qualifying all five; 'medhā' (intellect) is odd in a list of Kapha's small things (meha is conceivable) and 'īha' may be effort or desire, so this compound is not firm. 'dīrgha-darśī' = far-sighted.",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śrāddho",
+      "words": [
+       {
+        "w": "śrāddhaḥ",
+        "gloss": "faithful, trusting",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaṃbhīraḥ",
+      "words": [
+       {
+        "w": "gambhīraḥ",
+        "gloss": "deep, reserved",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthūlalakṣaḥ",
+      "words": [
+       {
+        "w": "sthūla-lakṣaḥ",
+        "gloss": "large, coarse; aim; (lit. large-aimed)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣamāvānāryo",
+      "words": [
+       {
+        "w": "kṣamāvān",
+        "gloss": "forbearing",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āryaḥ",
+        "gloss": "noble",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidrālurdīrghasūtrī",
+      "words": [
+       {
+        "w": "nidrāluḥ",
+        "gloss": "prone to sleep",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dīrgha-sūtrī",
+        "gloss": "long; thread: slow, dilatory",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtajñaḥ",
+      "words": [
+       {
+        "w": "kṛta-jñaḥ",
+        "gloss": "done; knowing: grateful",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्रद्धालु, गम्भीर, स्थूललक्ष, क्षमावान, श्रेष्ठ, नींद वाला, दीर्घसूत्री यानी देर लगाने वाला, कृतज्ञ।",
+  "english": "Faithful (śrāddha), deep, of large aim (sthūlalakṣa), forbearing, noble, prone to sleep, slow-acting (dīrghasūtrī), grateful.",
+  "text_flags": [],
+  "notes": "'śrāddha' = faithful, trusting (it can also relate to the ancestral rite, not here). 'sthūlalakṣa' is taken literally as 'of large aim'; some commentators take it as 'noticing big things / liberal', so the sense is not firm. 'dīrghasūtrī' = lit. 'long-threaded', idiomatically slow to act. Verb of unit 27 not repeated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛjurvipaścitsubhagaḥ",
+      "words": [
+       {
+        "w": "ṛjuḥ",
+        "gloss": "upright, straightforward",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vipaścit",
+        "gloss": "learned, wise",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "su-bhagaḥ",
+        "gloss": "fortunate",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "salajjo",
+      "words": [
+       {
+        "w": "sa-lajjaḥ",
+        "gloss": "modest",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhakto",
+      "words": [
+       {
+        "w": "bhaktaḥ",
+        "gloss": "devoted",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gurūṇāṃ",
+      "words": [
+       {
+        "w": "gurūṇām",
+        "gloss": "to elders, teachers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhasauhṛdaśca",
+      "words": [
+       {
+        "w": "dṛḍha-sauhṛdaḥ",
+        "gloss": "firm; friendship",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सीधा, विद्वान, सौभाग्यशाली, लज्जावान, गुरुओं का भक्त, दृढ़ मित्रता वाला।",
+  "english": "Upright, learned, fortunate, modest, devoted to his elders (guru), of firm friendship.",
+  "text_flags": [],
+  "notes": "Continues the Kapha description. guru here = elder or teacher (a plural of respect).",
+  "confidence": "high"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svapne",
+      "words": [
+       {
+        "w": "svapne",
+        "gloss": "in a dream",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sapadmānsavihaṃgamālāṃstoyāśayān",
+      "words": [
+       {
+        "w": "sa-padmān",
+        "gloss": "with; lotuses (padma, Nelumbo nucifera)",
+        "gram": "bahuvrīhi, m. acc. pl."
+       },
+       {
+        "w": "sa-vihaṅga-mālān",
+        "gloss": "with; birds; rows",
+        "gram": "bahuvrīhi, m. acc. pl."
+       },
+       {
+        "w": "toya-āśayān",
+        "gloss": "water; receptacle: ponds, lakes",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "paśyati",
+      "words": [
+       {
+        "w": "paśyati",
+        "gloss": "sees",
+        "gram": "3 sg. pres. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "toyadāṃśca",
+      "words": [
+       {
+        "w": "toya-dān",
+        "gloss": "water; giving: clouds",
+        "gram": "tat-puruṣa, m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वप्न में वह कमलों वाले और पक्षियों की पंक्तियों वाले जलाशयों को और बादलों को देखता है।",
+  "english": "In a dream he sees water-reservoirs (toyāśaya) with lotuses (padma) and with rows of birds, and clouds (toyada, giver of water).",
+  "text_flags": [],
+  "notes": "Identification: padma = lotus (Nelumbo nucifera; standard). toyāśaya = pond, lake or any water-receptacle; 'sa-padma' and 'sa-vihaṅgamāla' are taken with it. toyada = cloud (lit. water-giving).",
+  "confidence": "high"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ubhayalakṣaṇasaṃkare",
+      "words": [
+       {
+        "w": "ubhaya-lakṣaṇa-saṅkare",
+        "gloss": "both; mark; mixture",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsargakṛtiḥ",
+      "words": [
+       {
+        "w": "saṃsarga-kṛtiḥ",
+        "gloss": "combination; making, result",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु दोनों के लक्षणों के मिलने पर संसर्ग से बनी प्रकृति होती है।",
+  "english": "But when the marks of both are mixed, [it is] the one made by combination (saṃsarga).",
+  "text_flags": [],
+  "notes": "Copula understood. 'saṃsarga-kṛti' is taken as 'made by combination', i.e. the combined (dual) constitution of unit 2; the noun it describes (prakṛti) is not stated, so the bracketed 'it' is only the understood subject. 'Both' = two of the three doṣas.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvaguṇasamuditaḥ",
+      "words": [
+       {
+        "w": "sarva-guṇa-samuditaḥ",
+        "gloss": "all; qualities; endowed with, combined",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samadoṣaprakṛtiḥ",
+      "words": [
+       {
+        "w": "sama-doṣa-prakṛtiḥ",
+        "gloss": "equal; doṣa; constitution (prakṛti)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब गुणों से युक्त व्यक्ति समदोष प्रकृति वाला होता है।",
+  "english": "One endowed with all the qualities is of the equal-doṣa constitution (samadoṣaprakṛti).",
+  "text_flags": [],
+  "notes": "Copula understood. 'All the qualities' is read as the marks of all three doṣas together (not necessarily 'all good qualities'); samadoṣa = the three doṣas in balance (the seventh constitution of unit 2).",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrādyāstrayo",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       },
+       {
+        "w": "ādyāḥ",
+        "gloss": "the first",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "numeral, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nityāturāḥ",
+      "words": [
+       {
+        "w": "nitya-āturāḥ",
+        "gloss": "always; ailing, ill",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣānupraśayitaprakṛtitvāt",
+      "words": [
+       {
+        "w": "doṣānupraśayitaprakṛtitvāt",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें पहली तीन सदा रोगी रहने वाली हैं, अस्पष्ट पद दोषानुप्रशयितप्रकृतित्वात् के कारण।",
+  "english": "Among these, the first three are always ailing (nitya-ātura), because of [unclear: doṣānupraśayitaprakṛtitvāt].",
+  "text_flags": [
+   {
+    "src": "doṣānupraśayitaprakṛtitvāt",
+    "suggest": "doṣānuśayitaprakṛtitvāt",
+    "why": "possible: 'anupraśayita' is not a known form; anuśayita (clinging, attached) fits, but this is a guess"
+   }
+  ],
+  "notes": "The last word is damaged or unknown ('anupraśayita' is not a recognised form) and is left unsplit and unclear. A plausible sense is 'because their constitution is attached to (lies along) the doṣa' (doṣa-anuśayita-prakṛti-tva), but this is a guess and is not used in the translation. 'The first three' = the three single-doṣa constitutions; the noun 'constitutions' is not stated, and the gram is given for the adjective only.",
+  "confidence": "low"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśeṣataśca",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvaṃdvaprakṛtayaḥ",
+      "words": [
+       {
+        "w": "dvandva-prakṛtayaḥ",
+        "gloss": "dual, pair; constitution",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और विशेष रूप से द्वन्द्व प्रकृति वाले।",
+  "english": "And especially those of dual constitution (dvandvaprakṛti).",
+  "text_flags": [],
+  "notes": "Elliptical: the predicate 'always ailing' is carried from unit 35 and is not supplied. 'Those' shows the unstated noun. 'dvandva' = the pair of doṣas combined.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "in these",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇamiśravikārakāriṣu",
+      "words": [
+       {
+        "w": "guṇa-miśra-vikāra-kāriṣu",
+        "gloss": "quality; mixed; disorder; producing",
+        "gram": "tat-puruṣa, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣutpipāsādiṣvavārogyavyapadeśaḥ",
+      "words": [
+       {
+        "w": "kṣut-pipāsā-ādiṣu",
+        "gloss": "hunger; thirst; and so on",
+        "gram": "dvandva, f. loc. pl."
+       },
+       {
+        "w": "an-ārogya-vyapadeśaḥ",
+        "gloss": "not; health; designation",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि उनमें, जो गुणों के मिश्रण से विकार करने वाले हैं, भूख, प्यास आदि में, अनुमानित पाठ पर अनारोग्य का नामकरण होता है।",
+  "english": "For in these, which produce disorders of mixed qualities, in hunger, thirst and so on, there is, on a conjectural reading, the designation of ill-health (anārogya).",
+  "text_flags": [
+   {
+    "src": "kṣutpipāsādiṣvavārogyavyapadeśaḥ",
+    "suggest": "kṣutpipāsādiṣv anārogyavyapadeśaḥ",
+    "why": "possible: 'avārogya' is not a known word; an-ārogya (ill-health) fits the sense; the correction is a guess from sense"
+   }
+  ],
+  "notes": "Printed 'avārogya' is read an-ārogya (n/v confusion in this print); the translation adopts this and is marked conjectural. The two locatives 'teṣu ... kāriṣu' and 'kṣutpipāsādiṣu' are taken together; the exact grammar (whether hunger and thirst are what produces the disorders) is not sure. Copula understood. 'vikāra' = disorder.",
+  "confidence": "low"
+ }
+]

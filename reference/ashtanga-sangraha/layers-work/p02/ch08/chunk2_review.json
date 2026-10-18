@@ -1,0 +1,607 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सात्म्य से",
+     "problem": "Hindi leaves sātmya unglossed while English gives 'suited by habit'.",
+     "fix": "सात्म्य यानी अनुकूल से",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सात्म्य से",
+      "new": "सात्म्य यानी अनुकूल से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sattva-ādibhiḥ",
+     "problem": "In a list of guṇas (sattva, rajas, tamas) 'sattva (mind)' blurs the guṇa with the mind; the translation says only 'qualities beginning with sattva', which is right. Human decision whether the gloss should read 'sattva (the guṇa; also mind)'.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by what has arisen from them, as stated, by cleanliness",
+     "problem": "'tad-abhinivṛttaiḥ' and 'yathoktaiḥ' are adjectives agreeing with śaucādibhiḥ; the English invents a separate noun ('what has arisen') and so says 'by ... by'.",
+     "fix": "One should know them by cleanliness (śauca) and the like, as stated, arisen only from them.",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "set",
+      "field": "english",
+      "value": "One should know them by cleanliness (śauca) and the like, as stated, arisen only from them."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "noun unstated",
+     "problem": "Note repeats the wrong analysis (a noun supplied for the adjectives).",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "notes",
+      "old": "read as 'the (features) produced from them' (noun unstated, so none is added)",
+      "new": "an adjective agreeing with śaucādibhiḥ ('cleanliness etc. produced from them')"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tad-abhinivṛttaiḥ / yathā-uktaiḥ / śauca-ādibhiḥ",
+     "problem": "Gender 'n.' asserted without need (ādi-compounds and the agreeing adjectives are not shown neuter by the form).",
+     "fix": "inst. pl.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "tad-abhinivṛttaiḥ",
+       "field": "gram",
+       "value": "tat-puruṣa, inst. pl."
+      },
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "yathā-uktaiḥ",
+       "field": "gram",
+       "value": "inst. pl."
+      },
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "śauca-ādibhiḥ",
+       "field": "gram",
+       "value": "bahuvrīhi, inst. pl."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रत्येक आत्मा",
+     "problem": "Hindi आत्मा reads as 'soul'; English says 'each individual'.",
+     "fix": "प्रत्येक व्यक्ति",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रत्येक आत्मा",
+      "new": "प्रत्येक व्यक्ति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhedāgram",
+     "problem": "Open: 'total extent of the varieties' is the least sure reading (bheda-agra); needs a human decision (alternative: bhedāḥ, 'the varieties', with agram as 'foremost/first').",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सत्त्व आदि",
+     "problem": "English glosses sattva as mind; Hindi must carry the same gloss.",
+     "fix": "शरीर भी सत्त्व यानी मन आदि का अनुसरण",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शरीर भी सत्त्व आदि का अनुसरण",
+      "new": "शरीर भी सत्त्व यानी मन आदि का अनुसरण"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anuvidhīyate",
+     "problem": "Passive form with accusative object is odd; consider that the intended text may be an active (anuvidhatte) or a different construction. Draft already notes it; left for the owner.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of the person, of humans, animals ...",
+     "problem": "Awkward chain of genitives; 'puruṣasya' and the list are not clearly related. Human decision, sense not firm.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(is)",
+     "problem": "Copula in parentheses here, bare 'is/are' in neighbouring units (42, 48, 60).",
+     "fix": "Of these, up to the sixteenth year is the young (age).",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "english",
+      "old": "(is) the young",
+      "new": "is the young"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "copula policy",
+     "problem": "Copula is supplied in 42, 46-49, 52, 60, 65-70 but not in the feature-list units 50, 53, 56, 58, 72 ('verbless; no verb added'). The split is defensible (equational statements vs. 'in it: X, Y' lists) but the owner should confirm one rule.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bālasya",
+     "problem": "bālasya is identical for masculine and neuter: 'of the child' is as natural as 'of the young age'. sneha 'unctuousness' vs 'affection' stays a human decision (in a list of positive temperament traits 'affection' is plausible).",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "append_note",
+      "text": "bālasya is identical for masculine and neuter, so 'of the child' is an equally possible reading."
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "madhyamapi",
+     "problem": "Spurious flag. Devanagari मध्यमपि is the regular writing of madhyam + api (final m before a vowel), exactly what 'words' give; no typo. The flag also suggests 'madhyamam' which contradicts the words.",
+     "fix": "remove the flag",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "52",
+       "op": "set",
+       "field": "text_flags",
+       "value": []
+      },
+      {
+       "n": "52",
+       "op": "replace",
+       "field": "notes",
+       "old": "or a dropped 'ma' of 'madhyamam api'; the sense is the same",
+       "new": "(regular writing of final m before a vowel), so there is no typo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अग्नि की प्रदीप्त अवस्था",
+     "problem": "English says digestive fire; Hindi bare अग्नि.",
+     "fix": "अग्नि यानी पाचन-अग्नि की प्रदीप्त अवस्था",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि की प्रदीप्त अवस्था",
+      "new": "अग्नि यानी पाचन-अग्नि की प्रदीप्त अवस्था"
+     }
+    },
+    {
+     "field": "english",
+     "where": "prajñādhikyaparipākau",
+     "problem": "Dual may equally mean 'abundance and ripening of understanding' (both governed by prajñā); the English leaves paripāka free-standing. Human decision; paripāka 'ripening' vs 'digestion' also open.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "baldness (khalita)",
+     "problem": "Draft tags khalita 'probable' but the translation states it unhedged (policy: hedge probable identifications in both languages). Hindi also gives खलति, not the printed khalita.",
+     "fix": "probably baldness (khalita)",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "55",
+       "op": "replace",
+       "field": "english",
+       "old": "baldness (khalita)",
+       "new": "probably baldness (khalita)"
+      },
+      {
+       "n": "55",
+       "op": "replace",
+       "field": "hindi",
+       "old": "खलति यानी गंजापन",
+       "new": "खलित यानी सम्भवतः गंजापन"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "अग्नि की मन्दता",
+     "problem": "Hindi bare अग्नि; English 'digestive fire'.",
+     "fix": "अग्नि यानी पाचन-अग्नि की मन्दता",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि की मन्दता",
+      "new": "अग्नि यानी पाचन-अग्नि की मन्दता"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "cough, breathlessness (śvāsa), the bringing up of phlegm",
+     "problem": "The printed compound ends in one neuter singular 'udīraṇam' (a dvandva plus udīraṇa); the English splits it and the note says 'the translation keeps the list', which it does not. Grammatically 'the bringing up of cough, breathlessness, phlegm and nasal mucus' is the literal reading; both are possible. Gram label 'dvandva' for the whole compound is also loose (dvandva + tat-puruṣa). Human decision; split of ślatha-asāra-...-tā also open.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bālyevṛddhiḥ",
+     "problem": "Strong case for 'bālyaṃ vṛddhiḥ': ten items (bālya, vṛddhi, prabhā, medhā, tvak, śukra, akṣi, śruti, manas, sarvendriya) for ten decades, one lost per decade. Printed reading kept in the translation as drafted, but 'bālye' as printed gives an incoherent pair (58+59). Owner to decide whether to adopt the conjecture with the hedge.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "karmaviśeṣādanādhikavarṣaśata...",
+     "problem": "Silent emendation: the print has 'anādhika' (long ā; Devanagari अनाधिक), but 'words' give 'an-adhika' with no flag.",
+     "fix": "add a flag",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "61",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "prakṛtiviśaiśairāyuṣaḥ",
+         "suggest": "prakṛtiviśeṣair āyuṣaḥ",
+         "why": "possible: 'viśaiśaiḥ' is not a word; 'viśeṣaiḥ' (particular marks, distinctions) gives the sense; ṣ/ś and e/ai confusion"
+        },
+        {
+         "src": "karmaviśeṣādanādhikavarṣaśatajīvino",
+         "suggest": "karmaviśeṣād anadhikavarṣaśatajīvino",
+         "why": "possible: the print has 'anādhika' with a long ā, which is no word in this sense; read as 'anadhika' (not exceeding) in words, so this is an emendation (the opposite sense 'adhika', more than a hundred, cannot be excluded)"
+        }
+       ]
+      },
+      {
+       "n": "61",
+       "op": "append_note",
+       "text": "The form 'anadhika' in words is an emendation of the printed 'anādhika' (see text_flags); the sense 'no more than a hundred years' depends on it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "the following verse (63-64) is the statement",
+     "problem": "States the pairing as fact (glossary: do not).",
+     "fix": "the statement appears to be in the following units (63-64)",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "notes",
+      "old": "the following verse (63-64) is the statement",
+      "new": "the statement appears to be in the following units (63-64)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "āyuṣo",
+     "problem": "Alternative not considered: 'āyuṣo 'puṇyabāhulyād' with a dropped avagraha (apuṇya, 'because of abundance of demerit'), which gives 15 syllables and fits the theme of decay in 63 better than 'merit'. Human decision; the printed word stays as is.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सहज बल",
+     "problem": "Hindi adds the noun बल that the Sanskrit does not state (glossary: unstated nouns are a plain adjective in Hindi); sattva also lacks the gloss given in English.",
+     "fix": "इनमें सहज देह और सत्त्व यानी मन का प्राकृत है।",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "set",
+      "field": "hindi",
+      "value": "इनमें सहज देह और सत्त्व यानी मन का प्राकृत है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ūrjaskaraṃ yogajaṃ",
+     "problem": "Open: the printed ṃ may be a joining slip, giving 'ūrjaskara-yoga-ja' (born of the application of vigour-giving things), which would make two kinds instead of three. Human decision; the draft reading is a legitimate one.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seed (bīja) and field (kṣetra)",
+     "problem": "bīja/kṣetra identifications (probably semen/seed and womb) appear only in notes; policy wants them beside the term and hedged.",
+     "fix": "seed (bīja, probably semen) and field (kṣetra, probably the womb)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "72",
+       "op": "replace",
+       "field": "english",
+       "old": "seed (bīja) and field (kṣetra)",
+       "new": "seed (bīja, probably semen) and field (kṣetra, probably the womb)"
+      },
+      {
+       "n": "72",
+       "op": "replace",
+       "field": "hindi",
+       "old": "बीज, क्षेत्र के गुणों",
+       "new": "बीज यानी सम्भवतः वीर्य, क्षेत्र यानी सम्भवतः गर्भाशय के गुणों"
+      },
+      {
+       "n": "72",
+       "op": "replace",
+       "field": "hindi",
+       "old": "आहार और सत्त्व की",
+       "new": "आहार और सत्त्व यानी मन की"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "with their qualities",
+     "problem": "'their' is not in the Sanskrit; scope of guṇa in bīja-kṣetra-guṇa-... is open (draft already notes). Human decision.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सत्त्व स्वरूप वाले",
+     "problem": "English glosses sattva as mind; Hindi bare.",
+     "fix": "सत्त्व यानी मन स्वरूप वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सत्त्व स्वरूप वाले",
+      "new": "सत्त्व यानी मन स्वरूप वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सार यानी सर्वोत्तम तत्त्व",
+     "problem": "'तत्त्व' is loose; sāra is the best/purest state of the tissue. Wording left to the owner.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "37 units reviewed. Most renderings are faithful and cautious. Errors: u41 English supplies a noun ('what has arisen'); u52 spurious text_flag (मध्यमपि is regular madhyam+api); u55 'probable' khalita unhedged in translations; u61 silent emendation anādhika>anadhika unflagged. Minor: Hindi missing the sattva=mind, agni=digestive fire, bīja/kṣetra glosses the English carries; a few notes/format items. No wrong plant/drug identifications (none present). Human decisions: u43 bhedāgram, u45 anūka/syntax, u51 sneha, u53 paripāka scope, u56 udīraṇa compound and ślatha split, u58-59 bālyam, u64 apuṇya, u69 ūrjaskara-yoga, u72 guṇa scope, copula policy for list units (50, 53, 56, 58, 72). No regrouping beyond the draft's own 58-59 and 63-64 notes.",
+ "glossary_suggestions": [
+  "sama>sapta (OCR pta/ma) in ch08 u40/u42 only with the conjectural hedge",
+  "Hindi sattva = सत्त्व यानी मन wherever English says 'sattva (mind)'; in a guṇa list (sattva, rajas, tamas) do not gloss as mind",
+  "Hindi agni = अग्नि यानी पाचन-अग्नि where English says digestive fire",
+  "bīja/kṣetra = probably semen/womb, hedged in both languages beside the term",
+  "khalita = probably baldness, hedged in both languages",
+  "Final -m + vowel written joined (madhyamapi = madhyam api) is regular, never a typo flag",
+  "Hindi pratyātma = प्रत्येक व्यक्ति (not आत्मा)",
+  "āveśa 'entry, absorption'; jīrṇa in u55 'old, decayed' (house)",
+  "Hindi सार यानी सर्वोत्तम (शुद्धतम) अवस्था preferred to 'तत्त्व' (owner to decide)"
+ ]
+}
