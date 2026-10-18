@@ -3257,5 +3257,667 @@
   ],
   "notes": "Unclear word 'dahadviṣa' kept unsplit and untranslated; a conjectural reading would be 'burning (like) poison'. The stray 'a' after apicchilam is read as a printing slip, so that nīlam vā = 'or blue'; the other reading (apicchilam anīlam vā) is possible. The doubled tt in 'pravarttate' is normalised.",
   "confidence": "low"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "majjopasaṃsṛṣṭaṃprabhūtaṃ",
+      "words": [
+       {
+        "w": "majja-upasaṃsṛṣṭam",
+        "gloss": "marrow (majjā); mixed with",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "prabhūtam",
+        "gloss": "abundant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibaddhaṃ",
+      "words": [
+       {
+        "w": "vibaddham",
+        "gloss": "bound",
+        "gram": "ppp. vi-√bandh, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāṃbhasi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ambhasi",
+        "gloss": "in water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiṃcinmajjati",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "somewhat",
+        "gram": "ind."
+       },
+       {
+        "w": "majjati",
+        "gloss": "sinks",
+        "gram": "3 sg. pres. √majj"
+       }
+      ]
+     },
+     {
+      "src": "śleṣmaṇā",
+      "words": [
+       {
+        "w": "śleṣmaṇā",
+        "gloss": "by Śleṣma (Kapha)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मज्जा से मिला हुआ, बहुत, बँधा हुआ, और पानी में कुछ डूबता है, श्लेष्मा के कारण।",
+  "english": "Mixed with marrow (majjā), abundant, bound, and it sinks somewhat in water, by Śleṣma (Kapha).",
+  "text_flags": [],
+  "notes": "Elliptical: the semen and its issuing are understood from 29-30. majja here = marrow, the body tissue; 'mixed with marrow' is the literal rendering and its sense is not explained by the text. 'ambhasi' = in water.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṇapagaṃdhyamalpaṃ",
+      "words": [
+       {
+        "w": "kuṇapa-gandhi",
+        "gloss": "corpse; smelling",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "alpam",
+        "gloss": "scanty",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raktena",
+      "words": [
+       {
+        "w": "raktena",
+        "gloss": "by blood",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शव की गन्ध वाला, थोड़ा, रक्त के कारण।",
+  "english": "Corpse-smelling, scanty, by blood.",
+  "text_flags": [],
+  "notes": "Elliptical: verb and subject carried from 29-31. 'rakta' = blood, here the agent as Vāta, Pitta and Śleṣma were in 29-31; it is not called a doṣa in the line.",
+  "confidence": "high"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "graṃthibhūtaṃ",
+      "words": [
+       {
+        "w": "granthi-bhūtam",
+        "gloss": "knot; become",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātaśleṣmabhyāṃ",
+      "words": [
+       {
+        "w": "vāta-śleṣmabhyām",
+        "gloss": "by Vāta and Śleṣma (Kapha)",
+        "gram": "m. inst. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रन्थि बना हुआ, वात और श्लेष्मा के कारण।",
+  "english": "Become a knot (granthi), by Vāta and Śleṣma (Kapha).",
+  "text_flags": [],
+  "notes": "Elliptical: continues the list of 28-32. GROUPING: the units 32-37 are short phrases that appear to continue one sentence from unit 29.",
+  "confidence": "high"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūtipūyanibhaṃ",
+      "words": [
+       {
+        "w": "pūti-pūya-nibham",
+        "gloss": "foul; pus; resembling",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittaśleṣmabhyāṃ",
+      "words": [
+       {
+        "w": "pitta-śleṣmabhyām",
+        "gloss": "by Pitta and Śleṣma (Kapha)",
+        "gram": "m. inst. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सड़े हुए पूय के समान, पित्त और श्लेष्मा के कारण।",
+  "english": "Resembling foul pus, by Pitta and Śleṣma (Kapha).",
+  "text_flags": [],
+  "notes": "'pūti' = foul, putrid; 'nibha' = resembling. Elliptical, as in 33.",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīṇaṃ",
+      "words": [
+       {
+        "w": "kṣīṇam",
+        "gloss": "wasted, depleted",
+        "gram": "ppp. √kṣi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vātapittābhyāṃ",
+      "words": [
+       {
+        "w": "vāta-pittābhyām",
+        "gloss": "by Vāta and Pitta",
+        "gram": "m. inst. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षीण, वात और पित्त के कारण।",
+  "english": "Wasted (kṣīṇa), by Vāta and Pitta.",
+  "text_flags": [],
+  "notes": "Elliptical, as in 33. 'kṣīṇa' = wasted, depleted, diminished.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taduktaṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uktam",
+        "gloss": "stated",
+        "gram": "ppp. √vac, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasādhanaṃ",
+      "words": [
+       {
+        "w": "sa-sādhanam",
+        "gloss": "with treatment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāk",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "before, earlier",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह साधन सहित पहले कहा जा चुका है।",
+  "english": "That has been stated before, with its treatment.",
+  "text_flags": [],
+  "notes": "'tat' is unspecified; it probably refers to the treatment of the conditions just listed, stated earlier in the work (not certain which place). 'sādhana' here = treatment (remedy).",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtrapurīṣagaṃdhi",
+      "words": [
+       {
+        "w": "mūtra-purīṣa-gandhi",
+        "gloss": "urine; faeces; smelling",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sannipātena",
+      "words": [
+       {
+        "w": "sannipātena",
+        "gloss": "by sannipāta (the three doṣas together; doctrinal term)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूत्र और मल की गन्ध वाला, सन्निपात के कारण।",
+  "english": "Smelling of urine and faeces, by sannipāta (the three doṣas together).",
+  "text_flags": [],
+  "notes": "Elliptical, as in 33. sannipāta: a doctrinal term for the combination of all three doṣas; no modern equivalent forced. 'purīṣa' = faeces (stool).",
+  "confidence": "high"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ārtavamapi",
+      "words": [
+       {
+        "w": "ārtavam",
+        "gloss": "ārtava (menstrual blood; standard)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukradoṣairupasaṃsṛṣṭamabījameva",
+      "words": [
+       {
+        "w": "śukra-doṣaiḥ",
+        "gloss": "śukra (semen); faults",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "upasaṃsṛṣṭam",
+        "gloss": "mixed with, joined",
+        "gram": "ppp. upa-sam-√sṛj, n. nom. sg."
+       },
+       {
+        "w": "abījam",
+        "gloss": "seedless",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only, itself",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आर्तव भी, शुक्र के दोषों से मिला हुआ, बीजहीन ही होता है।",
+  "english": "The ārtava (menstrual blood) also, when joined with the faults (doṣa) of śukra (semen), is itself seedless.",
+  "text_flags": [],
+  "notes": "'doṣa' here = fault (flaw) of śukra, as in the eight kinds listed in 28, not the humour. 'eva' = indeed, only. No verb is stated; the copula is understood.",
+  "confidence": "high"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "liṃgaṃ",
+      "words": [
+       {
+        "w": "liṅgam",
+        "gloss": "sign",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "name",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvavat",
+      "words": [
+       {
+        "w": "pūrva-vat",
+        "gloss": "as before",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका लक्षण और नाम पहले के समान।",
+  "english": "Its sign and name as before.",
+  "text_flags": [],
+  "notes": "Elliptical: no verb stated. 'tasya' refers to the ārtava of 38. 'pūrvavat' = as before, i.e. as for śukra in 29-37 (not certain how far).",
+  "confidence": "high"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "among these",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṇapagraṃthipūyakṣīṇaretāṃsi",
+      "words": [
+       {
+        "w": "kuṇapa-granthi-pūya-kṣīṇa-retāṃsi",
+        "gloss": "corpse-smelling; knot; pus; wasted; semens (retas)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchrasādhanāni",
+      "words": [
+       {
+        "w": "kṛcchra-sādhanāni",
+        "gloss": "with difficulty; curable (treatable)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें कुणप, ग्रन्थि, पूय और क्षीण रेत कठिनाई से साध्य हैं।",
+  "english": "Among these, the corpse-smelling, knot, pus and wasted semens (retas) are curable with difficulty.",
+  "text_flags": [],
+  "notes": "'kṛcchra-sādhana' = treatable only with difficulty. No verb stated; the copula is understood. 'kuṇapa' here stands for kuṇapa-gandhi of 28.",
+  "confidence": "high"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtrapurīṣaśukrārtavaṃ",
+      "words": [
+       {
+        "w": "mūtra-purīṣa-śukra-ārtavam",
+        "gloss": "urine; faeces; śukra (semen); ārtava",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvasādhyaṃ",
+      "words": [
+       {
+        "w": "asādhyam",
+        "gloss": "incurable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṇapagraṃthipūyārtavaṃ",
+      "words": [
+       {
+        "w": "kuṇapa-granthi-pūya-ārtavam",
+        "gloss": "corpse; knot; pus; ārtava",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु मूत्र-पुरीष वाला शुक्र और आर्तव असाध्य है, अथवा कुणप, ग्रन्थि या पूय आर्तव।",
+  "english": "But the urine-and-faeces śukra and ārtava is incurable, or the kuṇapa, granthi or pūya ārtava.",
+  "text_flags": [],
+  "notes": "Compound structure is not marked: 'mūtra-purīṣa-śukra-ārtavam' is read as the urine-faeces kind of semen and of ārtava; 'kuṇapa-granthi-pūya-ārtavam' as the kuṇapa, granthi or pūya kind of ārtava. 'asādhya' = not to be accomplished, incurable.",
+  "confidence": "medium"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrādyāṃstrīn",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śukrārtavadoṣān",
+      "words": [
+       {
+        "w": "ādyān",
+        "gloss": "first",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathāsvaṃ",
+      "words": [
+       {
+        "w": "śukra-ārtava-doṣān",
+        "gloss": "śukra (semen); ārtava; faults",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣasādhanena",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "each according to its own",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhayet",
+      "words": [
+       {
+        "w": "doṣa-sādhanena",
+        "gloss": "doṣa; treatment",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "sādhayet",
+        "gloss": "should treat, should cure",
+        "gram": "3 sg. opt. caus. √sidh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें पहले तीन शुक्र और आर्तव के दोषों को, प्रत्येक को अपने दोष के साधन से साधे।",
+  "english": "Among these, the first three faults of śukra (semen) and ārtava one should treat, each according to its own, with the treatment of the doṣa.",
+  "text_flags": [],
+  "notes": "'ādyān trīn' = the first three (kinds) of the list in 28: presumably Vāta, Pitta and Śleṣma. 'śukrārtavadoṣān' = faults of śukra and ārtava (fault, not humour); 'doṣasādhanena' is read as the treatment of the (corresponding) doṣa, humour, which makes the logic of 'each according to its own'; the two senses of doṣa are not separated by the text. Subject of 'sādhayet' unstated ('one').",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guhyapratiṣedhena",
+      "words": [
+       {
+        "w": "guhya-pratiṣedhena",
+        "gloss": "private parts; remedy",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cobhayānapi",
+      "words": [
+       {
+        "w": "ubhayān",
+        "gloss": "both",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और गुह्य के प्रतिषेध से, दोनों को भी।",
+  "english": "And with the remedy for the private parts (guhya-pratiṣedha), also both.",
+  "text_flags": [],
+  "notes": "GROUPING: this appears to continue unit 42 (the verb 'sādhayet' is carried over). 'ubhayān' (masculine plural 'both') is not explained by the line; it presumably refers to the two kinds of faults, those of śukra and of ārtava, but this is not stated. 'guhya' = the private (genital) parts.",
+  "confidence": "medium"
  }
 ]
