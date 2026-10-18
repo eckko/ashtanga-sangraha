@@ -1,0 +1,2439 @@
+[
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūnākṣaṃ",
+      "words": [
+       {
+        "w": "śūna-akṣam",
+        "gloss": "swollen; eye",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṭilopasthamupaklinnatanutvacaṃ",
+      "words": [
+       {
+        "w": "kuṭila-upastham",
+        "gloss": "crooked, twisted; upastha (the genitals, private parts; standard)",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "upaklinna-tanu-tvacam",
+        "gloss": "moist, damp; thin; skin",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूजी आँखों वाले, टेढ़े उपस्थ यानी जननांग वाले और गीली पतली त्वचा वाले को।",
+  "english": "(One) with swollen eyes, crooked genitals (upastha) and moist, thin skin.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue the description of the weak patient in unit 41 ('jaṭharaṃ haṃti durbalaṃ'); this unit has no verb and none is supplied. upastha = the private parts, genitals (standard). 'upaklinna-tanu-tvacam' is read as 'moist and thin skin'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "virecanahatānāmānahyaṃtaṃ",
+      "words": [
+       {
+        "w": "virecana-hatam",
+        "gloss": "purgation (virecana); struck, harmed (on a conjectural reading; printed hatānām)",
+        "gram": "tat-puruṣa, acc. sg."
+       },
+       {
+        "w": "ānahyantam",
+        "gloss": "being distended, bloated (ānāha: distension with obstruction)",
+        "gram": "pres. part. ā-√nah, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punaḥ",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: विरेचन से आहत, बार-बार आनाह यानी पेट फूलने से ग्रस्त होते हुए को।",
+  "english": "On a conjectural reading: (one) harmed by purgation (virecana) and distended (bloated, ānāha) again and again.",
+  "text_flags": [
+   {
+    "src": "virecanahatānāmānahyaṃtaṃ",
+    "suggest": "virecanahataṃ cānahyantaṃ (or virecanahatam ānahyantaṃ)",
+    "why": "possible: 'hatānām' (genitive plural) cannot agree with the accusative singular 'ānahyantaṃ'; the sense (one harmed by purgation, bloated again and again) fits an accusative '-hataṃ'; whether a ca stood between is not known; also 'ānahyantaṃ' is an unusual parasmaipada participle (ānahyamānam expected)"
+   }
+  ],
+  "notes": "GROUPING: appears to continue 42. The first part of the printed token is doubtful; 'virecana-hatam' is an adopted conjecture, not a sure reading. 'ānāha' = bloating with retention of stool and wind. No verb in the unit.",
+  "confidence": "low"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṃḍurogaḥ",
+      "words": [
+       {
+        "w": "pāṇḍu-rogaḥ",
+        "gloss": "pale (pāṇḍu); disease; pāṇḍuroga = pāṇḍu disease, anaemia with pallor (standard)",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvayathumān",
+      "words": [
+       {
+        "w": "śvayathu-mān",
+        "gloss": "swelling (śvayathu: oedema; standard); having",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pītākṣinakhadarśanaṃ",
+      "words": [
+       {
+        "w": "pīta-akṣi-nakha-darśanam",
+        "gloss": "yellow; eye; nail; appearance, sight",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूजन वाला पाण्डु रोग यानी रक्ताल्पता; पीली आँखों और नाखूनों के दिखने वाले को।",
+  "english": "Pāṇḍu disease (pāṇḍuroga: anaemia with pallor) with swelling (śvayathu); (one) in whom yellow eyes and nails are seen.",
+  "text_flags": [],
+  "notes": "GROUPING: units 44-47 appear to form one run of description, with the verb 'hanti' only in 47; no verb is supplied here. 'darśanam' is read as 'appearance, being seen'; 'pīta' is taken with both eyes and nails.",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃdrādāhāruciccharddimūrcchā'dhmānātisāravān",
+      "words": [
+       {
+        "w": "tandrā-dāha-aruci-chardi-mūrchā-ādhmāna-atisāra-vān",
+        "gloss": "drowsiness (tandrā); burning (dāha); distaste for food (aruci); vomiting (chardi); fainting (mūrchā); flatulent distension (ādhmāna); diarrhoea (atisāra); having",
+        "gram": "dvandva + mat-suffix, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तन्द्रा यानी ऊँघ, दाह यानी जलन, अरुचि यानी भोजन में अरुचि, छर्दि यानी वमन, मूर्छा, आध्मान यानी पेट फूलना और अतिसार यानी दस्त वाला।",
+  "english": "Having drowsiness (tandrā), burning (dāha), distaste for food (aruci), vomiting (chardi), fainting (mūrchā), flatulent distension (ādhmāna) and diarrhoea (atisāra).",
+  "text_flags": [],
+  "notes": "Continues the description of 44 (nominative). The avagraha printed after -ā (mūrcchā'dhmāna) is a print habit, not an elision. Orthography normalised in `w`: doubled consonants (ccharddi, mūrcchā) written chardi, mūrchā.",
+  "confidence": "high"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anekopadravayutaḥ",
+      "words": [
+       {
+        "w": "aneka-upadrava-yutaḥ",
+        "gloss": "many; upadrava (complication, secondary affliction; standard); joined with",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādābhyāṃ",
+      "words": [
+       {
+        "w": "pādābhyām",
+        "gloss": "from the two feet",
+        "gram": "m. abl. du."
+       }
+      ]
+     },
+     {
+      "src": "prasṛtaṃ",
+      "words": [
+       {
+        "w": "prasṛtam",
+        "gloss": "spread, extended",
+        "gram": "ppp. pra-√sṛ, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naraṃ",
+      "words": [
+       {
+        "w": "naram",
+        "gloss": "man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनेक उपद्रवों से युक्त; दोनों पैरों से फैले हुए पुरुष को।",
+  "english": "Joined with many complications (upadrava); a man spread out from the two feet.",
+  "text_flags": [],
+  "notes": "'prasṛtam' agrees with 'naram', but what has spread is not stated; 'śophaḥ' (swelling) in the next unit is the likely subject, but this is an inference. The dual 'pādābhyām' is ablative ('from') or instrumental ('by'); 'from' is taken. GROUPING: appears to continue 44-45 and lead to 47.",
+  "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nārīṃ",
+      "words": [
+       {
+        "w": "nārīm",
+        "gloss": "woman",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śopho",
+      "words": [
+       {
+        "w": "śophaḥ",
+        "gloss": "swelling (śopha: oedema; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhāddhaṃti",
+      "words": [
+       {
+        "w": "mukhāt",
+        "gloss": "from the face",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "hanti",
+        "gloss": "kills",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "kukṣiguhyādubhāvapi",
+      "words": [
+       {
+        "w": "kukṣi-guhyāt",
+        "gloss": "from the belly (kukṣi) and the private parts (guhya)",
+        "gram": "dvandva, abl. sg."
+       },
+       {
+        "w": "ubhau",
+        "gloss": "both",
+        "gram": "m. acc. du."
+       },
+       {
+        "w": "api",
+        "gloss": "also, as well",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूजन स्त्री को मुख से मारती है; कुक्षि यानी पेट और गुह्य यानी गुप्त अंग से दोनों को भी मारती है।",
+  "english": "Swelling (śopha) kills a woman from the face; from the belly and the private parts (guhya) it kills both as well.",
+  "text_flags": [],
+  "notes": "'hanti' is repeated in the English and Hindi for the second half; it is stated once in the Sanskrit. 'ubhau' (both) most likely means man and woman (cf. 'naram' in 46); this is an inference. 'mukhāt' is read literally 'from the face' (not 'through the mouth'). The printed 'mukhāddhaṃti' is correct sandhi (mukhād hanti).",
+  "confidence": "medium"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rājīcitaḥ",
+      "words": [
+       {
+        "w": "rājī-citaḥ",
+        "gloss": "line, streak, row (rājī); covered, studded",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sravaṃcharddijvaraśvāsātisāriṇaṃ",
+      "words": [
+       {
+        "w": "sravan",
+        "gloss": "oozing, discharging",
+        "gram": "pres. part. √sru, m. nom. sg."
+       },
+       {
+        "w": "chardi-jvara-śvāsa-atisāriṇam",
+        "gloss": "vomiting (chardi); fever (jvara); breathlessness (śvāsa); having diarrhoea (atisārin)",
+        "gram": "dvandva + in-suffix, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रेखाओं से ढका हुआ, रिसता हुआ; वमन, ज्वर, श्वास यानी साँस फूलना और अतिसार यानी दस्त वाले को।",
+  "english": "Covered with streaks (rājī), oozing; (one) with vomiting (chardi), fever (jvara), breathlessness (śvāsa) and diarrhoea (atisāra).",
+  "text_flags": [],
+  "notes": "The two nominative adjectives probably belong to the swelling (śopha) of 47, the accusative compound to the patient; this is an inference. 'rājī-cita' = covered with lines or streaks (of what is not stated). No verb.",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jvarātisārau",
+      "words": [
+       {
+        "w": "jvara-atisārau",
+        "gloss": "fever; diarrhoea",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "śophāṃte",
+      "words": [
+       {
+        "w": "śopha-ante",
+        "gloss": "swelling; end",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvayathurvā",
+      "words": [
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of those two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "kṣaye",
+      "words": [
+       {
+        "w": "kṣaye",
+        "gloss": "in the waning, decline",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूजन के अन्त में ज्वर और अतिसार, या उन दोनों के क्षीण होने पर सूजन।",
+  "english": "Fever and diarrhoea at the end of the swelling, or swelling when those two decline.",
+  "text_flags": [],
+  "notes": "GROUPING: the verb ('jāyante', arise) is in 50; the two units appear to form one statement. 'tayoḥ' = of fever and diarrhoea.",
+  "confidence": "high"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalasya",
+      "words": [
+       {
+        "w": "durbalasya",
+        "gloss": "of the weak one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣeṇa",
+      "words": [
+       {
+        "w": "viśeṣeṇa",
+        "gloss": "especially",
+        "gram": "m. inst. sg. used as adv."
+       }
+      ]
+     },
+     {
+      "src": "jāyaṃteṃ'tāya",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "they arise",
+        "gram": "3 pl. pres. ātm. √jan"
+       },
+       {
+        "w": "antāya",
+        "gloss": "for the end",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehinaḥ",
+      "words": [
+       {
+        "w": "dehinaḥ",
+        "gloss": "of the embodied one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विशेष रूप से दुर्बल देहधारी के अन्त के लिए उत्पन्न होते हैं।",
+  "english": "(They) arise, especially, for the end of a weak embodied one (dehin).",
+  "text_flags": [
+   {
+    "src": "jāyaṃteṃ'tāya",
+    "suggest": "jāyaṃte'ntāya",
+    "why": "possible: stray anusvāra after 'te'; regular sandhi jāyante 'ntāya"
+   }
+  ],
+  "notes": "The subjects are the items of 49. 'antāya' = for the end (of life, by context). 'dehin' = embodied being, i.e. a living person. Word order: 'durbalasya' and 'dehinaḥ' are both genitive and are taken together as 'of a weak embodied one'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śvayathuryasya",
+      "words": [
+       {
+        "w": "śvayathuḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādasthaḥ",
+      "words": [
+       {
+        "w": "pāda-sthaḥ",
+        "gloss": "foot; situated, standing",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paritraste",
+      "words": [
+       {
+        "w": "parisraste",
+        "gloss": "slack, drooping (on a conjectural reading; printed paritraste)",
+        "gram": "ppp. pari-√sraṃs, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piṃḍike",
+      "words": [
+       {
+        "w": "piṇḍike",
+        "gloss": "the two calves (piṇḍikā: calf of the leg)",
+        "gram": "f. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी सूजन पैर में स्थित है और जिसकी दोनों पिंडलियाँ अनुमानित पाठ पर ढीली हैं,",
+  "english": "He whose swelling is situated in the foot, and whose two calves are slack (on a conjectural reading),",
+  "text_flags": [
+   {
+    "src": "paritraste",
+    "suggest": "parisraste",
+    "why": "possible: 'paritrasta' (frightened) does not suit calves; 'parisrasta' (slack, drooping) fits the sense (compare 'śaithilyaṃ piṇḍike' in 72); tra/sra is a common scan confusion"
+   }
+  ],
+  "notes": "Continues in 52 (two more signs, then 'taṃ bhiṣak parivarjayet').",
+  "confidence": "medium"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sīdataḥ",
+      "words": [
+       {
+        "w": "sīdataḥ",
+        "gloss": "the two sink, give way",
+        "gram": "3 du. pres. √sad"
+       }
+      ]
+     },
+     {
+      "src": "sakthinī",
+      "words": [
+       {
+        "w": "sakthinī",
+        "gloss": "the two thighs",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "caiva",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhiṣak",
+      "words": [
+       {
+        "w": "bhiṣak",
+        "gloss": "physician",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parivarjayet",
+      "words": [
+       {
+        "w": "parivarjayet",
+        "gloss": "should avoid, should leave",
+        "gram": "3 sg. opt. √vṛj (10th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिसकी दोनों जाँघें धँसती हैं, उसे वैद्य छोड़ दे।",
+  "english": "and whose two thighs indeed sink (give way) — that one the physician should avoid.",
+  "text_flags": [],
+  "notes": "'sīdataḥ' is taken as 3rd dual (the two thighs sink); the alternative, a genitive singular participle 'of one sinking', is possible. GROUPING: completes the relative clause begun in 51 ('yasya ...'); it appears to complete it.",
+  "confidence": "medium"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ānanaṃ",
+      "words": [
+       {
+        "w": "ānanam",
+        "gloss": "face, mouth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hastapādau",
+      "words": [
+       {
+        "w": "hasta-pādau",
+        "gloss": "hand; foot",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣāyasya",
+      "words": [
+       {
+        "w": "viśeṣāt",
+        "gloss": "especially, in particular",
+        "gram": "m. abl. sg. used as adv."
+       },
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣyataḥ",
+      "words": [
+       {
+        "w": "śuṣyataḥ",
+        "gloss": "of (him) wasting, drying up",
+        "gram": "pres. part. √śuṣ, m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूखते हुए जिसके मुख और हाथ-पैर विशेष रूप से",
+  "english": "Of whom, while wasting away (drying up), the face and the hands and feet especially,",
+  "text_flags": [
+   {
+    "src": "viśeṣāyasya",
+    "suggest": "viśeṣād yasya",
+    "why": "possible: dropped d (viśeṣād yasya)"
+   }
+  ],
+  "notes": "The sentence has no verb here; the verb 'śūyante' (swell) is in 54, and 'vā' there joins 'especially' (viśeṣāt) with 'apart from the body' (vinā dehāt). This construction is an inference. 'śuṣyataḥ' is taken as genitive singular of the participle; the alternative is a 3rd dual verb ('the two dry up'). The sense is therefore not firm.",
+  "confidence": "low"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūṃyaṃte",
+      "words": [
+       {
+        "w": "śūyante",
+        "gloss": "they swell",
+        "gram": "3 pl. pres. pass. √śvi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinā",
+      "words": [
+       {
+        "w": "vinā",
+        "gloss": "without, apart from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dehātsa",
+      "words": [
+       {
+        "w": "dehāt",
+        "gloss": "from the body",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsādyātipaṃcatāṃ",
+      "words": [
+       {
+        "w": "māsāt",
+        "gloss": "within a month",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "yāti",
+        "gloss": "goes, reaches",
+        "gram": "3 sg. pres. √yā"
+       },
+       {
+        "w": "pañcatām",
+        "gloss": "the state of five, death",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूजते हैं, या देह को छोड़कर सूजते हैं; वह मास में पञ्चता यानी मृत्यु को प्राप्त होता है।",
+  "english": "swell, or (swell) apart from the body: he reaches pañcatā (death, literally the state of five) within a month.",
+  "text_flags": [
+   {
+    "src": "śūṃyaṃte",
+    "suggest": "śūyante",
+    "why": "possible: stray anusvāra"
+   }
+  ],
+  "notes": "Completes 53 (appears to). 'pañcatā' is the usual idiom for death (return to the five elements). 'māsāt' is an ablative of time: 'within a month' is taken; 'after a month' is possible.",
+  "confidence": "medium"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "udarī",
+      "words": [
+       {
+        "w": "udarī",
+        "gloss": "having udara (belly disease, probably ascites-type swelling of the belly; probable)",
+        "gram": "udarin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaśca",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śophī",
+      "words": [
+       {
+        "w": "śophī",
+        "gloss": "having swelling",
+        "gram": "śophin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaṃ",
+      "words": [
+       {
+        "w": "svam",
+        "gloss": "own",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paśyati",
+      "words": [
+       {
+        "w": "paśyati",
+        "gloss": "sees",
+        "gram": "3 sg. pres. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "mehanaṃ",
+      "words": [
+       {
+        "w": "mehanam",
+        "gloss": "penis (mehana; standard)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो उदरी यानी उदर नामक पेट के रोग वाला है, सम्भवतः जलोदर, या सूजन वाला है, वह अपने मेहन यानी लिङ्ग को नहीं देखता।",
+  "english": "Whoever has udara (belly disease, probably ascites-type; probable), or swelling (śopha), does not see his own penis (mehana).",
+  "text_flags": [],
+  "notes": "The identification of udara with an ascites-type disease is probable, not certain. The text gives no reason why the penis is not seen and none is supplied. No outcome (death) is stated in this unit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jaṭharonnātatparidhānaṃ",
+      "words": [
+       {
+        "w": "jaṭhara-unnatāt",
+        "gloss": "belly; raised, swollen (on a conjectural reading; printed unnātat)",
+        "gram": "tat-puruṣa, abl. sg."
+       },
+       {
+        "w": "paridhānam",
+        "gloss": "garment, lower cloth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhati",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stays, remains",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या जिसका वस्त्र पेट के उभरे होने के कारण अनुमानित पाठ पर नहीं टिकता।",
+  "english": "Or he whose garment (paridhāna) does not stay in place because of the raised belly (jaṭhara), on a conjectural reading.",
+  "text_flags": [
+   {
+    "src": "jaṭharonnātatparidhānaṃ",
+    "suggest": "jaṭharonnatāt paridhānaṃ",
+    "why": "possible: 'nnātat' is not a word; 'unnatāt' (from the raising, swelling) fits the sense and the following 'paridhānaṃ'"
+   }
+  ],
+  "notes": "paridhāna = garment worn round the body (lower cloth). The units 55-56 appear to add further signs; no outcome is stated in them.",
+  "confidence": "medium"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vīsarpaḥ",
+      "words": [
+       {
+        "w": "visarpaḥ",
+        "gloss": "visarpa (spreading skin inflammation, erysipelas-type; probable)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāsavaivarṇyajvaramūrcchāṃgabhaṃgavān",
+      "words": [
+       {
+        "w": "kāsa-vaivarṇya-jvara-mūrchā-aṅga-bhaṅga-vān",
+        "gloss": "cough (kāsa); discolouration (vaivarṇya); fever (jvara); fainting (mūrchā); breaking pain in the limbs (aṅgabhaṅga); having",
+        "gram": "dvandva + mat-suffix, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विसर्प यानी सम्भवतः फैलने वाली त्वचा की सूजन, खाँसी, विवर्णता यानी रंग बिगड़ना, ज्वर, मूर्छा और अङ्गभङ्ग यानी अंगों के टूटने की पीड़ा से युक्त।",
+  "english": "Visarpa (spreading skin inflammation, erysipelas-type; probable), having cough (kāsa), discolouration (vaivarṇya), fever (jvara), fainting (mūrchā) and breaking pain in the limbs (aṅgabhaṅga).",
+  "text_flags": [],
+  "notes": "Printed 'vīsarpaḥ' (long ī) is the word visarpa, normalised in `w`. The verb ('hanti') appears in 60 if this belongs to the same run (not fixed). Orthography normalised in `w`: doubled consonants (ccharddi, mūrcchā) written chardi, mūrchā.",
+  "confidence": "high"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhramāsyaśophahṛllāsadehasādātisāravān",
+      "words": [
+       {
+        "w": "bhrama-āsya-śopha-hṛllāsa-deha-sāda-atisāra-vān",
+        "gloss": "giddiness (bhrama); mouth (āsya); swelling (śopha); nausea (hṛllāsa); body (deha); exhaustion, sinking (sāda); diarrhoea (atisāra); having",
+        "gram": "dvandva + mat-suffix, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भ्रम यानी चक्कर, मुख की सूजन, हृल्लास यानी मितली, देह की थकावट और अतिसार यानी दस्त वाला।",
+  "english": "Having giddiness (bhrama), swelling of the mouth (āsya), nausea (hṛllāsa), bodily exhaustion (sāda) and diarrhoea (atisāra).",
+  "text_flags": [],
+  "notes": "Continues 57. 'āsya-śopha' is read as 'swelling of the mouth' (āsya may also mean face); 'deha-sāda' as 'exhaustion of the body'.",
+  "confidence": "high"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhaṃ",
+      "words": [
+       {
+        "w": "kuṣṭham",
+        "gloss": "kuṣṭha (leprosy; the term covers a group of skin diseases; standard)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśīryamāṇāṃgaṃraktanetraṃ",
+      "words": [
+       {
+        "w": "viśīryamāṇa-aṅgam",
+        "gloss": "crumbling, falling apart; limb",
+        "gram": "bahuvrīhi, acc. sg."
+       },
+       {
+        "w": "rakta-netram",
+        "gloss": "red; eye",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hatasvaraṃ",
+      "words": [
+       {
+        "w": "hata-svaram",
+        "gloss": "destroyed, lost; voice",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुष्ठ यानी कोढ़; बिखरते हुए अंगों वाले, लाल आँखों वाले और नष्ट स्वर वाले को।",
+  "english": "Kuṣṭha (leprosy; the term covers a group of skin diseases); (one) whose limbs are falling apart, with red eyes and a lost voice.",
+  "text_flags": [],
+  "notes": "The verb 'hanti' is in 60; the two units appear to be one statement. 'viśīryamāṇa' = being shattered, crumbling.",
+  "confidence": "high"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maṃdāgniṃ",
+      "words": [
+       {
+        "w": "manda-agnim",
+        "gloss": "weak, dull; fire (agni: digestive fire)",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṃtubhirjuṣṭaṃ",
+      "words": [
+       {
+        "w": "jantubhiḥ",
+        "gloss": "by creatures (jantu: worms, vermin)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "juṣṭam",
+        "gloss": "visited, infested",
+        "gram": "ppp. √juṣ, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "haṃti",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "kills",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇātisāriṇaṃ",
+      "words": [
+       {
+        "w": "tṛṣṇā-atisāriṇam",
+        "gloss": "thirst; having diarrhoea",
+        "gram": "dvandva + in-suffix, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुष्ठ मारता है मन्द अग्नि यानी मन्द पाचन वाले, जन्तुओं यानी कीड़ों से घिरे हुए, तृष्णा और अतिसार वाले को।",
+  "english": "(Kuṣṭha) kills one with weak digestive fire (agni), infested by creatures (jantu: worms or vermin), with thirst and diarrhoea.",
+  "text_flags": [],
+  "notes": "The subject 'kuṣṭha' is taken from 59. 'jantu' = living creature; 'worms or vermin' is the usual sense, the text does not specify.",
+  "confidence": "medium"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyuḥ",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suptatvacaṃ",
+      "words": [
+       {
+        "w": "supta-tvacam",
+        "gloss": "numb, insensible; skin",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhugnaṃ",
+      "words": [
+       {
+        "w": "bhugnam",
+        "gloss": "bent, bowed",
+        "gram": "ppp. √bhuj, acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃpaśopharujāturaṃ",
+      "words": [
+       {
+        "w": "kampa-śopha-rujā-āturam",
+        "gloss": "tremor (kampa); swelling (śopha); pain (rujā); afflicted",
+        "gram": "dvandva + tat-puruṣa, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु; सुन्न त्वचा वाले, झुके हुए, कम्प, सूजन और पीड़ा से पीड़ित को।",
+  "english": "Wind (vāyu); (one) with numb skin, bent, afflicted with tremor, swelling and pain.",
+  "text_flags": [],
+  "notes": "vāyu is the Vāta of the body here. The verb is not in this unit; 'ghnanti' of 65 may govern 61-64 (not fixed). GROUPING: 61-65 appear to run together.",
+  "confidence": "medium"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātasraṃ",
+      "words": [
+       {
+        "w": "vāta-asram",
+        "gloss": "wind (vāta); blood (asra); vātāsra = vātarakta, gout-type disease (probable; on a conjectural reading)",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mohasūrcchāyamadāsvamajvarānvitaṃ",
+      "words": [
+       {
+        "w": "moha",
+        "gloss": "delusion, bewilderment",
+        "gram": "m."
+       },
+       {
+        "w": "sūrcchāyamadāsvama",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "jvara-anvitam",
+        "gloss": "fever; accompanied by",
+        "gram": "tat-puruṣa, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर वातास्र यानी सम्भवतः वातरक्त; मोह, एक अस्पष्ट छपा अंश और ज्वर से युक्त।",
+  "english": "On a conjectural reading, vātāsra (probably vātarakta, a gout-type disease); accompanied by delusion (moha), an unclear stretch of print (sūrcchāyamadāsvama) and fever (jvara).",
+  "text_flags": [
+   {
+    "src": "vātasraṃ",
+    "suggest": "vātāsraṃ",
+    "why": "possible: the long ā of vāta-asra is missing in the print"
+   },
+   {
+    "src": "mohasūrcchāyamadāsvamajvarānvitaṃ",
+    "suggest": "moha-mūrcchā-āyāma-mada-asvapna-jvara-anvitaṃ",
+    "why": "possible: the middle stretch is garbled; a likely original is mūrchā (fainting), āyāma (arching, stretching), mada (intoxication, delirium), asvapna (sleeplessness); a guess only, not adopted in the translations"
+   }
+  ],
+  "notes": "The middle of the token is unreadable and is left as 'unclear'; the guess in the flag is not used in the translations. 'vātāsra' as a name for vātarakta is probable. The sentence appears to continue in 63-65.",
+  "confidence": "low"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śiropahāruciśvārasasaṃkocasphoṭakothavat",
+      "words": [
+       {
+        "w": "śiropahāruciśvārasa",
+        "gloss": "unclear",
+        "gram": "unclear"
+       },
+       {
+        "w": "saṃkoca-sphoṭa-kotha-vat",
+        "gloss": "contraction, shrinking (saṃkoca); blister (sphoṭa); putrefaction, decay (kotha); having",
+        "gram": "dvandva + vat-suffix, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर: एक अस्पष्ट छपा अंश, संकोच यानी सिकुड़न, स्फोट यानी फफोले और कोथ यानी सड़न से युक्त।",
+  "english": "On a conjectural reading: having an unclear stretch of print (śiropahāruciśvārasa), contraction (saṃkoca), blisters (sphoṭa) and putrefaction (kotha).",
+  "text_flags": [
+   {
+    "src": "śiropahāruciśvārasasaṃkocasphoṭakothavat",
+    "suggest": "śiro-rujā-aruci-śvāsa-saṃkoca-sphoṭa-kotha-vat",
+    "why": "possible: the first part is garbled; a likely original is head-pain, distaste for food, breathlessness (compare the list in 64); a guess only, not adopted in the translations"
+   }
+  ],
+  "notes": "The first part of the token is left unsplit as 'unclear'; the rest is a clear list. The subject is probably the vātāsra of 62 (inference).",
+  "confidence": "low"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śirorogāruciśvāsamehavidbhedtṛḍbhramaiḥ",
+      "words": [
+       {
+        "w": "śiro-roga-aruci-śvāsa-meha-vid-bheda-tṛṭ-bhramaiḥ",
+        "gloss": "head (śiras)-disease (roga); distaste for food (aruci); breathlessness (śvāsa); meha (urinary disorder, prameha group; probable); stool (vid), loosening (bheda); thirst (tṛṭ); giddiness (bhrama)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिर के रोग, अरुचि यानी भोजन में अरुचि, श्वास यानी साँस फूलना, मेह यानी सम्भवतः प्रमेह, विड्भेद यानी पतला दस्त, तृषा और भ्रम यानी चक्कर से।",
+  "english": "By head disease (śiro-roga), distaste for food (aruci), breathlessness (śvāsa), meha (urinary disorder, probably of the prameha group), loose stool (vidbheda), thirst and giddiness (bhrama).",
+  "text_flags": [
+   {
+    "src": "śirorogāruciśvāsamehavidbhedtṛḍbhramaiḥ",
+    "suggest": "śirorogāruciśvāsamehavidbhedatṛḍbhramaiḥ",
+    "why": "possible: 'vidbhed' lacks the final a of bheda (vid-bheda-tṛṭ); the voiced ḍ before bhramaiḥ is regular sandhi"
+   }
+  ],
+  "notes": "Instrumental list; 'vidbheda' = breaking (loosening) of the stool, i.e. loose stool. The verb is 'ghnanti' in 65 (appears to).",
+  "confidence": "medium"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ghnaṃti",
+      "words": [
+       {
+        "w": "ghnanti",
+        "gloss": "they kill",
+        "gram": "3 pl. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "sarvāmayāḥ",
+      "words": [
+       {
+        "w": "sarva-āmayāḥ",
+        "gloss": "all; diseases (āmaya)",
+        "gram": "karmadhāraya, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇasvaradhātubalānalaṃ",
+      "words": [
+       {
+        "w": "kṣīṇa-svara-dhātu-bala-analam",
+        "gloss": "wasted; voice; dhātu (body-tissue); strength; fire (anala: probably the digestive fire)",
+        "gram": "bahuvrīhi, acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सभी रोग मारते हैं उसे जिसके स्वर, धातु, बल और अनल यानी सम्भवतः पाचन अग्नि क्षीण हो गए हैं।",
+  "english": "All diseases kill (one) whose voice, dhātus (body-tissues), strength and fire (anala, probably the digestive fire) are wasted.",
+  "text_flags": [],
+  "notes": "'anala' beside 'bala' is probably the digestive fire (agni). GROUPING: the verb here appears to govern the descriptions in 61-64 as well.",
+  "confidence": "high"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātavyādhirapasmārī",
+      "words": [
+       {
+        "w": "vāta-vyādhiḥ",
+        "gloss": "disorder caused by Vāta (vātavyādhi; standard)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "apasmārī",
+        "gloss": "having apasmāra (epilepsy; standard)",
+        "gram": "apasmārin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhī",
+      "words": [
+       {
+        "w": "kuṣṭhī",
+        "gloss": "having kuṣṭha (leprosy; skin disease group; standard)",
+        "gram": "kuṣṭhin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rattyudarī",
+      "words": [
+       {
+        "w": "raktī",
+        "gloss": "having rakta (blood); sense uncertain (on a conjectural reading; printed ratti)",
+        "gram": "raktin, m. nom. sg."
+       },
+       {
+        "w": "udarī",
+        "gloss": "having udara (belly disease, probably ascites-type; probable)",
+        "gram": "udarin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣayī",
+      "words": [
+       {
+        "w": "kṣayī",
+        "gloss": "having kṣaya (wasting disease, consumption; probably tuberculosis; probable)",
+        "gram": "kṣayin, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वात व्याधि वाला, अपस्मारी यानी मिर्गी वाला, कुष्ठी यानी कोढ़ वाला, रक्ती यानी रक्त वाला जिसका अर्थ अनिश्चित है अनुमानित पाठ पर, उदरी यानी सम्भवतः जलोदर वाला, क्षयी यानी सम्भवतः क्षय रोग वाला।",
+  "english": "One with a Vāta disorder (vātavyādhi), one with apasmāra (epilepsy), one with kuṣṭha (leprosy), one with rakta (blood; sense uncertain, on a conjectural reading), one with udara (belly disease, probably ascites-type), one with kṣaya (wasting disease, probably tuberculosis).",
+  "text_flags": [
+   {
+    "src": "rattyudarī",
+    "suggest": "raktyudarī (raktī udarī)",
+    "why": "possible: 'ratt-' for 'rakt-' (k/t confusion); the line is a list of words in -in; the meaning of 'raktī' is uncertain"
+   }
+  ],
+  "notes": "List of patients continued in 67, with the instruction 'varjayet'. 'raktī' might refer to a blood disorder (e.g. raktapitta) but this is not established and is not adopted.",
+  "confidence": "medium"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gulmī",
+      "words": [
+       {
+        "w": "gulmī",
+        "gloss": "having gulma (abdominal lump or mass; standard)",
+        "gram": "gulmin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mehī",
+      "words": [
+       {
+        "w": "mehī",
+        "gloss": "having meha (urinary disorder of the prameha group, including diabetes-type; probable)",
+        "gram": "mehin, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇānvikāre'lpe'pi",
+      "words": [
+       {
+        "w": "kṣīṇān",
+        "gloss": "wasted, emaciated",
+        "gram": "ppp. √kṣi, m. acc. pl."
+       },
+       {
+        "w": "vikāre",
+        "gloss": "in a disorder",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "alpe",
+        "gloss": "slight",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varjayet",
+      "words": [
+       {
+        "w": "varjayet",
+        "gloss": "one should avoid",
+        "gram": "3 sg. opt. √vṛj (10th class)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुल्मी यानी पेट की गाँठ वाला और मेही यानी सम्भवतः प्रमेह वाला; उन क्षीण हुओं को थोड़े से विकार में भी छोड़ देना चाहिए।",
+  "english": "One with gulma (abdominal lump), and one with meha (urinary disorder, probably of the prameha group) — those, when wasted, one should avoid even in a slight disorder.",
+  "text_flags": [],
+  "notes": "'tān' refers back to the patients listed in 66-67. The agent of 'varjayet' is not stated (66's neighbours show a physician in 52).",
+  "confidence": "high"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balamāṃsakṣayastīvro",
+      "words": [
+       {
+        "w": "bala-māṃsa-kṣayaḥ",
+        "gloss": "strength; flesh; wasting, loss",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "tīvraḥ",
+        "gloss": "severe",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rogavṛddhirarocakaḥ",
+      "words": [
+       {
+        "w": "roga-vṛddhiḥ",
+        "gloss": "disease; increase",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "arocakaḥ",
+        "gloss": "loss of appetite, aversion to food (arocaka; standard)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बल और मांस का तीव्र क्षय, रोग की वृद्धि और अरोचक यानी भोजन में अरुचि।",
+  "english": "Severe loss of strength and flesh, increase of disease, and loss of appetite (arocaka).",
+  "text_flags": [],
+  "notes": "GROUPING: appears to form one statement with 69 ('yasya āturasya lakṣyante ...').",
+  "confidence": "high"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāturasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āturasya",
+        "gloss": "of the patient",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣyaṃte",
+      "words": [
+       {
+        "w": "lakṣyante",
+        "gloss": "are observed",
+        "gram": "3 pl. pres. pass. √lakṣ"
+       }
+      ]
+     },
+     {
+      "src": "trīn",
+      "words": [
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pakṣāñsa",
+      "words": [
+       {
+        "w": "pakṣān",
+        "gloss": "fortnights",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस रोगी में दिखाई देते हैं, वह तीन पक्ष यानी तीन पखवाड़े जीवित रहता है।",
+  "english": "The patient in whom (these) are observed lives for three fortnights.",
+  "text_flags": [],
+  "notes": "The subjects of 'lakṣyante' are the signs of 68. The printed 'pakṣāñsa' has ñ for the regular pakṣāṃs sa (sandhi n + s); not treated as an error.",
+  "confidence": "high"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātāṣṭhīlā'tisaṃvṛddhā",
+      "words": [
+       {
+        "w": "vāta-aṣṭhīlā",
+        "gloss": "Vāta; aṣṭhīlā (a hard, round, stony lump, literally 'round stone'; standard term, no modern equivalent given)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "ati-saṃvṛddhā",
+        "gloss": "greatly grown, enlarged",
+        "gram": "ppp. saṃ-√vṛdh, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhaṃtī",
+      "words": [
+       {
+        "w": "tiṣṭhantī",
+        "gloss": "remaining, standing",
+        "gram": "pres. part. √sthā, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāruṇā",
+      "words": [
+       {
+        "w": "dāruṇā",
+        "gloss": "terrible, severe",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वाताष्ठीला यानी वात से बनी कठोर गोल गाँठ, बहुत बढ़ी हुई, हृदय में भयंकर रूप से टिकी हुई",
+  "english": "A vātāṣṭhīlā (a hard, round, stony lump due to Vāta), greatly enlarged, remaining dreadful in the heart (hṛd),",
+  "text_flags": [],
+  "notes": "The avagraha printed after -ā (vātāṣṭhīlā'tisaṃvṛddhā) is a print habit. 'aṣṭhīlā' is a traditional term; no modern equivalent is asserted. The sentence continues in 71.",
+  "confidence": "medium"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛṣṇayā'nuparītasya",
+      "words": [
+       {
+        "w": "tṛṣṇayā",
+        "gloss": "by thirst",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "anuparītasya",
+        "gloss": "of one beset, overcome",
+        "gram": "ppp. anu-pari-√i, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṇāti",
+      "words": [
+       {
+        "w": "muṣṇāti",
+        "gloss": "steals, takes away",
+        "gram": "3 sg. pres. √muṣ"
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तृष्णा से घिरे हुए का जीवन तुरन्त हर लेती है।",
+  "english": "Of one beset by thirst, (it) at once steals life.",
+  "text_flags": [],
+  "notes": "The subject is the feminine vātāṣṭhīlā of 70. The avagraha after -ā in 'tṛṣṇayā'nu' is a print habit.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaithilyaṃ",
+      "words": [
+       {
+        "w": "śaithilyam",
+        "gloss": "slackness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṃḍike",
+      "words": [
+       {
+        "w": "piṇḍike",
+        "gloss": "the two calves (piṇḍikā: calf of the leg)",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vāyurnītvā",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nītvā",
+        "gloss": "having brought, led",
+        "gram": "abs. √nī"
+       }
+      ]
+     },
+     {
+      "src": "nāsāṃ",
+      "words": [
+       {
+        "w": "nāsām",
+        "gloss": "nose",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jihratāṃ",
+      "words": [
+       {
+        "w": "jihmatām",
+        "gloss": "crookedness (on a conjectural reading; printed jihratāṃ)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वायु, दोनों पिंडलियों को शिथिलता में और नाक को अनुमानित पाठ पर टेढ़ेपन में ले जाकर,",
+  "english": "Wind (vāyu), having brought the two calves to slackness and the nose to crookedness (on a conjectural reading),",
+  "text_flags": [
+   {
+    "src": "jihratāṃ",
+    "suggest": "jihmatāṃ",
+    "why": "possible: 'jihrata' is not a word; jihmatā (crookedness, deviation) fits the sense (m/r confusion)"
+   }
+  ],
+  "notes": "Continues in 73. Both 'piṇḍike' and 'nāsām' are objects of 'nītvā' (brought to, with the second accusative as the state).",
+  "confidence": "medium"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīṇasyāyamya",
+      "words": [
+       {
+        "w": "kṣīṇasya",
+        "gloss": "of the wasted one",
+        "gram": "ppp. √kṣi, m. gen. sg."
+       },
+       {
+        "w": "āyamya",
+        "gloss": "having drawn tight, stretched",
+        "gram": "abs. ā-√yam"
+       }
+      ]
+     },
+     {
+      "src": "manye",
+      "words": [
+       {
+        "w": "manye",
+        "gloss": "the two manyā (side of the neck, nape; probable)",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sadyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṇāti",
+      "words": [
+       {
+        "w": "muṣṇāti",
+        "gloss": "steals, takes away",
+        "gram": "3 sg. pres. √muṣ"
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या क्षीण हुए के मन्या यानी सम्भवतः गर्दन के पार्श्व को खींचकर वायु तुरन्त जीवन हर लेता है।",
+  "english": "Or, of a wasted one, having drawn tight the two manyā (side of the neck; probable), (the wind) at once steals life.",
+  "text_flags": [],
+  "notes": "'vā' is taken as joining the action of 72 with this one (the wind leads the calves and nose to slackness, or draws the manyā tight). The subject vāyu is taken from 72.",
+  "confidence": "medium"
+ },
+ {
+  "n": "74",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nābhīgudāṃtaraṃ",
+      "words": [
+       {
+        "w": "nābhi-guda-antaram",
+        "gloss": "navel; anus; interval, space between",
+        "gram": "dvandva + tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatvā",
+      "words": [
+       {
+        "w": "gatvā",
+        "gloss": "having gone",
+        "gram": "abs. √gam"
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇau",
+      "words": [
+       {
+        "w": "vaṅkṣaṇau",
+        "gloss": "the two groins",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samāśrayan",
+      "words": [
+       {
+        "w": "samāśrayan",
+        "gloss": "resorting to, settling in",
+        "gram": "pres. part. sam-ā-√śri, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नाभि और गुदा के बीच के स्थान में जाकर, या दोनों वंक्षण यानी जाँघ और पेट के जोड़ के भागों में आश्रय लेता हुआ,",
+  "english": "Having gone to the space between the navel and the anus, or taking refuge in the two groins,",
+  "text_flags": [],
+  "notes": "GROUPING: 74-80 appear to form one run, with the verb 'muṣṇāti' in 80 and vāyu/māruta as subject.",
+  "confidence": "high"
+ },
+ {
+  "n": "75",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gṛhītvā",
+      "words": [
+       {
+        "w": "gṛhītvā",
+        "gloss": "having seized",
+        "gram": "abs. √grah"
+       }
+      ]
+     },
+     {
+      "src": "pāyuhṛdaye",
+      "words": [
+       {
+        "w": "pāyu-hṛdaye",
+        "gloss": "anus (pāyu); heart (hṛdaya)",
+        "gram": "dvandva, n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇadehasya",
+      "words": [
+       {
+        "w": "kṣīṇa-dehasya",
+        "gloss": "wasted; body",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balī",
+      "words": [
+       {
+        "w": "balī",
+        "gloss": "strong, powerful",
+        "gram": "balin, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुदा और हृदय को पकड़कर, या क्षीण देह वाले के, बलवान",
+  "english": "Having seized the anus (pāyu) and the heart (hṛdaya), or (in the case) of one whose body is wasted, the strong one,",
+  "text_flags": [],
+  "notes": "Unclear how 'kṣīṇadehasya vā' attaches: it may qualify the anus and heart ('of one whose body is wasted') or open an alternative. 'balī' is taken as the strong wind (subject), an inference.",
+  "confidence": "medium"
+ },
+ {
+  "n": "76",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "malānbastiśironābhi",
+      "words": [
+       {
+        "w": "malān",
+        "gloss": "waste products (mala)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "basti-śiras-nābhi",
+        "gloss": "bladder (basti); head, top (śiras); navel (nābhi); basti-śiras = head of the bladder (probable)",
+        "gram": "dvandva, n. (case uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vibaddhya",
+      "words": [
+       {
+        "w": "vibadhya",
+        "gloss": "having bound, obstructed (printed vibaddhya)",
+        "gram": "abs. vi-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "janayan",
+      "words": [
+       {
+        "w": "janayan",
+        "gloss": "producing",
+        "gram": "pres. part. caus. √jan, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rujaṃ",
+      "words": [
+       {
+        "w": "rujam",
+        "gloss": "pain",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मलों को बस्ति यानी सम्भवतः मूत्राशय के शिर यानी ऊपरी भाग और नाभि पर रोककर, पीड़ा उत्पन्न करता हुआ,",
+  "english": "Having obstructed the waste products (mala) at the head of the bladder (basti, probable) and the navel, producing pain,",
+  "text_flags": [],
+  "notes": "'bastiśironābhi' could also be read as three items (bladder, head, navel); 'bladder-head and navel' is taken. Orthography: printed vibaddhya (doubled) written vibadhya. Case of the compound is not shown in the print.",
+  "confidence": "medium"
+ },
+ {
+  "n": "77",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kurvan",
+      "words": [
+       {
+        "w": "kurvan",
+        "gloss": "doing, causing",
+        "gram": "pres. part. √kṛ, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaṃkṣaṇayoḥ",
+      "words": [
+       {
+        "w": "vaṅkṣaṇayoḥ",
+        "gloss": "in the two groins",
+        "gram": "m. loc. du."
+       }
+      ]
+     },
+     {
+      "src": "śūlaṃ",
+      "words": [
+       {
+        "w": "śūlam",
+        "gloss": "pain",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇāṃbhinnapurīṣatāṃ",
+      "words": [
+       {
+        "w": "tṛṣṇām",
+        "gloss": "thirst",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "bhinna-purīṣa-tām",
+        "gloss": "broken, loose; stool; state of",
+        "gram": "bahuvrīhi + abstract, f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों वंक्षण में शूल यानी पीड़ा, तृष्णा और भिन्नपुरीषता यानी टूटे हुए यानी पतले मल की अवस्था उत्पन्न करता हुआ,",
+  "english": "causing pain in the two groins, thirst, and the state of having broken (loose) stool (bhinnapurīṣatā),",
+  "text_flags": [],
+  "notes": "Continues 74-76.",
+  "confidence": "high"
+ },
+ {
+  "n": "78",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śvāsaṃ",
+      "words": [
+       {
+        "w": "śvāsam",
+        "gloss": "breathlessness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "janayan",
+      "words": [
+       {
+        "w": "janayan",
+        "gloss": "producing",
+        "gram": "pres. part. caus. √jan, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyurgṛhītvā",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind (vāyu)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "gṛhītvā",
+        "gloss": "having seized",
+        "gram": "abs. √grah"
+       }
+      ]
+     },
+     {
+      "src": "gudavaṃkṣaṇau",
+      "words": [
+       {
+        "w": "guda-vaṅkṣaṇau",
+        "gloss": "anus; groins",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या श्वास यानी साँस की कठिनाई उत्पन्न करता हुआ वायु, गुदा और वंक्षण को पकड़कर,",
+  "english": "or producing breathlessness (śvāsa), the wind (vāyu), having seized the anus and the groins,",
+  "text_flags": [],
+  "notes": "The dual ending of 'guda-vaṅkṣaṇau' is printed as is (anus and the two groins). Continues the run 74-80.",
+  "confidence": "high"
+ },
+ {
+  "n": "79",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vitatyaparśuka",
+      "words": [
+       {
+        "w": "vitatya",
+        "gloss": "having spread out, extended",
+        "gram": "abs. vi-√tan"
+       },
+       {
+        "w": "parśukā",
+        "gloss": "rib (parśukā); first member of parśukā-agrāṇi (the print has a space)",
+        "gram": "f., compound member"
+       }
+      ]
+     },
+     {
+      "src": "agrāṇi",
+      "words": [
+       {
+        "w": "agrāṇi",
+        "gloss": "tips, ends (agra)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gṛhītvoraśca",
+      "words": [
+       {
+        "w": "gṛhītvā",
+        "gloss": "having seized",
+        "gram": "abs. √grah"
+       },
+       {
+        "w": "uraḥ",
+        "gloss": "chest",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mārutaḥ",
+      "words": [
+       {
+        "w": "mārutaḥ",
+        "gloss": "wind (māruta)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फैलकर, पसलियों के अग्र भागों और वक्ष को पकड़कर, मारुत यानी वायु,",
+  "english": "having spread out, having seized the tips of the ribs (parśukā) and the chest, the wind (māruta),",
+  "text_flags": [
+   {
+    "src": "parśuka",
+    "suggest": "parśukāgrāṇi",
+    "why": "possible: space printed inside the compound parśukā-agrāṇi (parśuka + agrāṇi)"
+   }
+  ],
+  "notes": "The words 'parśuka agrāṇi' are one compound split by a printed space; the stem is parśukā (rib) or parśuka. Continues the run to 80.",
+  "confidence": "medium"
+ },
+ {
+  "n": "80",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stimitasyānnatākṣasyasadyo",
+      "words": [
+       {
+        "w": "stimitasya",
+        "gloss": "of the still, motionless one (stimita; alternatively moist)",
+        "gram": "ppp. √stim, m. gen. sg."
+       },
+       {
+        "w": "unnata-akṣasya",
+        "gloss": "raised, upturned; eye",
+        "gram": "bahuvrīhi, m. gen. sg."
+       },
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṇāti",
+      "words": [
+       {
+        "w": "muṣṇāti",
+        "gloss": "steals, takes away",
+        "gram": "3 sg. pres. √muṣ"
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्तिमित यानी निश्चल, ऊपर उठी आँखों वाले का जीवन अनुमानित पाठ पर तुरन्त हर लेता है।",
+  "english": "Of one who is still (stimita), with raised eyes (on a conjectural reading), (the wind) at once steals life.",
+  "text_flags": [
+   {
+    "src": "stimitasyānnatākṣasyasadyo",
+    "suggest": "stimitasyonnatākṣasya sadyo",
+    "why": "possible: 'ānnata' for 'unnata' (o/ā confusion) and a missing space before 'sadyo'"
+   }
+  ],
+  "notes": "'stimita' is taken as 'still, motionless'; 'moist' is the alternative. Main verb of the run 74-80; subject mārutaḥ (79).",
+  "confidence": "medium"
+ },
+ {
+  "n": "81",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jvarasaṃtāpastṛṣṇāmūrcchābalakṣayaḥ",
+      "words": [
+       {
+        "w": "jvara-saṃtāpaḥ",
+        "gloss": "fever; burning heat",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "tṛṣṇā-mūrchā-bala-kṣayaḥ",
+        "gloss": "thirst; fainting; strength; loss",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अचानक ज्वर का सन्ताप, तृष्णा, मूर्छा और बल का क्षय,",
+  "english": "Suddenly burning heat of fever (jvara), thirst, fainting and loss of strength,",
+  "text_flags": [],
+  "notes": "Verb in 82 ('upajāyate'); GROUPING: 81-82 appear to form one statement. Orthography normalised in `w`: doubled consonants (ccharddi, mūrcchā) written chardi, mūrchā.",
+  "confidence": "high"
+ },
+ {
+  "n": "82",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśleṣaṇaṃ",
+      "words": [
+       {
+        "w": "viśleṣaṇam",
+        "gloss": "loosening, separation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃdhīnāṃ",
+      "words": [
+       {
+        "w": "sandhīnām",
+        "gloss": "of the joints",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "mumūrṣorupajāyate",
+      "words": [
+       {
+        "w": "mumūrṣoḥ",
+        "gloss": "of one about to die (desiderative of √mṛ)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāyate",
+        "gloss": "arises",
+        "gram": "3 sg. pres. upa-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और सन्धियों का ढीला होना मुमूर्षु यानी मरणासन्न व्यक्ति में उत्पन्न होता है।",
+  "english": "and loosening of the joints arises in one about to die.",
+  "text_flags": [],
+  "notes": "'mumūrṣu' literally 'wishing to die', i.e. about to die. The verb is singular after plural subjects (agreement with the nearest).",
+  "confidence": "high"
+ }
+]
