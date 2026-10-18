@@ -1,0 +1,522 @@
+{
+ "units": [
+  {
+   "n": "173",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "174",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "175",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "176",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "177",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "178",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "179",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "uttara-adhareṣu",
+     "problem": "gram says m. but the adjectives agree with the neuter daṃtamāṃseṣu (own notes say so)",
+     "fix": "dvandva, loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "179",
+      "op": "word",
+      "match_w": "uttara-adhareṣu",
+      "field": "gram",
+      "value": "dvandva, loc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "180",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "181",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अंगों ... लता की शाखाओं",
+     "problem": "Hindi brings in a creeper (लता) that the note says is not added; शाखा rendered अंगों here but शाखाओं यानी हाथ-पैरों at u189; clumsy syntax",
+     "fix": "उनमें शाखाओं यानी हाथ-पैरों और सन्धियों में जो हैं, वे प्रतानवत् यानी फैली हुई शाखाओं वाले हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "181",
+      "op": "set",
+      "field": "hindi",
+      "value": "उनमें शाखाओं यानी हाथ-पैरों और सन्धियों में जो हैं, वे प्रतानवत् यानी फैली हुई शाखाओं वाले हैं।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "tendrilled",
+     "problem": "OPEN: 'tendrilled' itself carries a creeper image (pratāna = tendril/extension); literal enough, owner may prefer 'branching (pratānavat)'. Not patched.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "182",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "183",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "basti-āma-pakva-āśaya-antreṣu",
+     "problem": "splitting āma and pakva as separate dvandva members gives 'raw, cooked, seat' nonsense; the compound is basti + āmāśaya + pakvāśaya (āmapakvāśaya, shared second member) + antra",
+     "fix": "basti-āmāśaya-pakvāśaya-antreṣu",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "word",
+      "match_w": "basti-āma-pakva-āśaya-antreṣu",
+      "field": "w",
+      "value": "basti-āmāśaya-pakvāśaya-antreṣu"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पेट और बड़ी आँत",
+     "problem": "Hindi पेट is also udara 'belly' (u204 उदर यानी पेट); ambiguous for āmāśaya",
+     "fix": "जो सम्भवतः जठर और बड़ी आँत हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "183",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो सम्भवतः पेट और बड़ी आँत हैं",
+      "new": "जो सम्भवतः जठर और बड़ी आँत हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "184",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "185",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "acts properly, like a boat",
+     "problem": "OBSERVATION: 'iva' belongs to nauḥ ('the body, like a boat, ...'); draft order is acceptable. No change.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "186",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "even more than",
+     "problem": "OPEN, human decision: ablative + api with rakṣet read as comparison ('more than the bones ...'); 'more' is not in the Sanskrit and the alternative 'protect them even from bones, vessels etc.' is odd. Draft is a defensible reading; consider hedging in the note as 'probably'.",
+     "fix": "",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "सिरा आदि",
+     "problem": "bare सिरा in Hindi also means 'end/tip'; modern equivalent wanted beside the term (hedged as in the word gloss)",
+     "fix": "हड्डी, सिरा यानी सम्भवतः वाहिनी (नस) आदि से भी अधिक",
+     "severity": "minor",
+     "patch": {
+      "n": "186",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हड्डी, सिरा आदि से भी अधिक",
+      "new": "हड्डी, सिरा यानी सम्भवतः वाहिनी (नस) आदि से भी अधिक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "187",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "188",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "189",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "190",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "counts",
+     "problem": "OBSERVATION (reviewer sums, counts kept as printed, no correction): trunk items u199-u210 add to 57 against the stated sixty, and the 'above' items u211-u215 add to 33 against forty; limbs: leg items u192-u198 add to 90 plus the numeral missing at u195 (ten would give 100, i.e. 400 for four limbs). Suggests dropped lines or misread numerals; owner to check against the scan.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "191",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "192",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "193",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "194",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "195",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "no numeral",
+     "problem": "Consistent with the sums: if each limb has 100 (400 at u189), the leg needs ten at kūrma (15+10+10+10+20+5+20=90). Not supplied in the text; for the owner only.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "196",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पिंडली",
+     "problem": "पिंडली = calf only; jaṅghā is the whole leg below the knee; English 'calf' likewise too narrow",
+     "fix": "जंघा यानी घुटने के नीचे की टाँग में बीस।",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "196",
+       "op": "set",
+       "field": "hindi",
+       "value": "जंघा यानी घुटने के नीचे की टाँग में बीस।"
+      },
+      {
+       "n": "196",
+       "op": "replace",
+       "field": "english",
+       "old": "(lower leg, calf)",
+       "new": "(lower leg)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "197",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "198",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Devanagari",
+     "problem": "OBSERVATION: printed Devanagari विंशतिरू्रौ is garbled; the IAST reading is accepted. Fine, but confidence could be 'medium' since the reading rests on the transliteration alone.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "199",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "meṇḍra",
+     "problem": "Unflagged silent emendation, and note says 'kept as printed (also u168)': printed is meṃdra, not meṇḍra; u168 (chunk4) reads meḍhra with a text_flag. Same word, same fix needed; 'meṇḍra standard variant of meḍhra' is not established.",
+     "fix": "w meḍhra-sevanyoḥ, add text_flag, fix Hindi/English/note",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "199",
+       "op": "word",
+       "match_w": "meṇḍra-sevanyoḥ",
+       "field": "gloss",
+       "value": "penis (meḍhra, standard); sevanī (seam, raphe; probable)"
+      },
+      {
+       "n": "199",
+       "op": "word",
+       "match_w": "meṇḍra-sevanyoḥ",
+       "field": "w",
+       "value": "meḍhra-sevanyoḥ"
+      },
+      {
+       "n": "199",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "meṃdrasevanyoḥ",
+         "suggest": "meḍhrasevanyoḥ",
+         "why": "possible: 'meṃdra' is not a word; meḍhra (penis) fits the list and ḍha misread as ṃda is plausible (same reading as u168)"
+        }
+       ]
+      },
+      {
+       "n": "199",
+       "op": "replace",
+       "field": "hindi",
+       "old": "मेण्ड्र",
+       "new": "मेढ्र"
+      },
+      {
+       "n": "199",
+       "op": "replace",
+       "field": "english",
+       "old": "meṇḍra",
+       "new": "meḍhra"
+      },
+      {
+       "n": "199",
+       "op": "replace",
+       "field": "notes",
+       "old": "meṇḍra is kept as printed (also u168); it is a variant of meḍhra.",
+       "new": "Printed meṃdra is read meḍhra, as in u168 (flagged there and here)."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "सीवन अर्थात् मध्य रेखा",
+     "problem": "vague; 'सीवन यानी मूलाधार की मध्य रेखा' would be clearer, tagged probable. Not patched.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "200",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "201",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "202",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "203",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "204",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "205",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "206",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āmāśaye / English / Hindi",
+     "problem": "āmāśaya tagged 'standard' stomach here but hedged 'probably the stomach' in u183; Hindi पेट clashes with udara=पेट (u204)",
+     "fix": "hedge as in u183; Hindi जठर",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "206",
+       "op": "word",
+       "match_w": "āmāśaye",
+       "field": "gloss",
+       "value": "in the stomach (āmāśaya, probable)"
+      },
+      {
+       "n": "206",
+       "op": "replace",
+       "field": "english",
+       "old": "(āmāśaya)",
+       "new": "(āmāśaya, probably the stomach)"
+      },
+      {
+       "n": "206",
+       "op": "set",
+       "field": "hindi",
+       "value": "हृदय और आमाशय यानी सम्भवतः जठर में दो।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "207",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "says the print has 'dental nd'; the print has anusvara + d (ṃd)",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "207",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "the print has dental nd",
+      "new": "the print has anusvara plus d (ṃd)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "plīhan",
+     "problem": "compound member is plīha",
+     "fix": "(plīha)",
+     "severity": "minor",
+     "patch": {
+      "n": "207",
+      "op": "replace",
+      "field": "english",
+      "old": "(plīhan)",
+      "new": "(plīha)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "208",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "only a suspected typo: rule 6 requires 'possible' in why",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "208",
+      "op": "replace",
+      "field": "text_flags.0.why",
+      "old": "missing doubled n:",
+      "new": "possible: missing doubled n:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "209",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "210",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "211",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "asākṣaka",
+     "problem": "OBSERVATION: conjecture aṃsākṣaka plausible and hedged in both languages; medium confidence appropriate. No change.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "212",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "213",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "214",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "215",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काकल जिसकी पहचान विवादित है यानी",
+     "problem": "clumsy but accurate; fine. kākala hedge present in both languages.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "43 units checked word by word. 1 error (u199 meṇḍra: unflagged emendation of printed meṃdra, misreported as 'kept as printed'; u168 reads meḍhra), rest minor: u179 gram, u181 Hindi (creeper added, śākhā inconsistent), u183 split and Hindi पेट, u186 Hindi sirā, u196 jaṅghā/calf, u206 āmāśaya hedge, u207 flag wording and plīha, u208 'possible'. Counts untouched; arithmetic does not close (trunk 57/60, upper 33/40, leg needs numeral at u195): owner to check scan. Identifications broadly acceptable and hedged. Open for owner: u186 'even more than'.",
+ "glossary_suggestions": [
+  "meḍhra (printed meṃdra) is the one spelling book-wide; flag at each unit.",
+  "āmāśaya: 'probably the stomach' / Hindi जठर (not bare पेट, which is udara).",
+  "sirā in Hindi: सिरा यानी सम्भवतः वाहिनी (नस) at first use.",
+  "jaṅghā = lower leg (Hindi घुटने के नीचे की टाँग), not calf; sakthi = lower limb when toes are counted under it (u192), thigh elsewhere."
+ ]
+}
