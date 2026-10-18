@@ -156,5 +156,5 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (plain)
 | 06 | 50 | 436 | S1 + S2 | -- | -- | see README |  |
 
 ## Next
-- Verify stage: checks done and logged (VERIFY.md, checks/); Part 5 (Kalpasthāna, chapters 1-8, 1005 lines) now has `-hindi.md` and `-english.md` written from the drafted and independently AI-reviewed chunks (layers-work/p05/); these are AI drafts that no person has read. Remaining observations are in layers-work/OPEN_ITEMS.md. The owner's `-sandhi.md` files were not changed. Parts 1-4 and 6 have no Hindi or English layers yet.
+- Verify stage: checks done and logged (VERIFY.md, checks/); Part 5 (Kalpasthāna, chapters 1-8, 1005 lines) now has `-hindi.md` and `-english.md` written from the drafted and independently AI-reviewed chunks (layers-work/p05/); these are AI drafts that no person has read. Remaining observations are in layers-work/OPEN_ITEMS.md. The owner's `-sandhi.md` files were not changed. The Part 5 EPUB feed is in feed/. Parts 1-4 and 6 have no Hindi or English layers yet.
 - Translations: none added here (see sources.md for what exists in the repo and why it was left out).
