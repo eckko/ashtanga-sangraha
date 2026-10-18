@@ -1,0 +1,1027 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "annapāna",
+     "problem": "Hindi पान means betel leaf (glossary: use पेय for drinks).",
+     "fix": "बहुत से मनोहर अन्न और पेयों से भी",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहुत से मनोहर अन्न और पानों से भी",
+      "new": "बहुत से मनोहर अन्न और पेयों से भी"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "yasya kṣīṇasya ... (twice)",
+     "problem": "Hindi \"क्षीण होने पर\" adds a conditional/temporal \"होने पर\" that the genitive kṣīṇasya does not say (glossary ch08 k1: no added \"होने पर\").",
+     "fix": "जिस क्षीण की भूख या प्यास ... / जिस क्षीण की प्यास की वृद्धि",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जिसके क्षीण होने पर भूख या प्यास",
+       "new": "जिस क्षीण की भूख या प्यास"
+      },
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जिसके क्षीण होने पर प्यास की वृद्धि",
+       "new": "जिस क्षीण की प्यास की वृद्धि"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "grīvāvamarda",
+     "problem": "grīvā is the neck (गर्दन); गला/कण्ठ is kaṇṭha, which occurs in the same sentence.",
+     "fix": "जिसकी गर्दन का प्रबल अवमर्द",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके गले का तीव्र अवमर्द",
+      "new": "जिसकी गर्दन का प्रबल अवमर्द"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "saphenam asṛk prasicyate",
+     "problem": "Hindi \"जिससे ... बहाया जाता है\" is ablative/agentive; the Sanskrit has genitive yasya and the passive \"is discharged\".",
+     "fix": "जिसका झाग सहित रक्त बहता है",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिससे झाग सहित रक्त बहाया जाता है",
+      "new": "जिसका झाग सहित रक्त बहता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "kukṣiśūlaṃ ca uraso vā",
+     "problem": "Hindi adds \"भी\" (not in the Sanskrit) and both languages leave a dangling \"or;\": the vā closes this alternative and introduces the next yasya clause.",
+     "fix": "\"... छाती की; या जिसका श्लेष्मा ...\" / \"... of the chest; or he whose phlegm\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "hindi",
+       "old": "छाती की भी, या; जिसका",
+       "new": "छाती की; या जिसका"
+      },
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "english",
+       "old": "of the chest, or; he whose",
+       "new": "of the chest; or he whose"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "cauraso",
+     "problem": "Devanagari is चउरसो: the hiatus ca uraso is printed as two vowels (the recurring ai/au finding), so this is the print's spelling, not a typo conjecture. The notes already record it; the flag should go.",
+     "fix": "remove the cauraso flag",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "savairyathāsvaṃ",
+        "suggest": "sarvair yathāsvam",
+        "why": "possible: 'savair' is not a word; the r of 'sarvaiḥ' has dropped"
+       },
+       {
+        "src": "kṣaṇisya",
+        "suggest": "kṣīṇasya",
+        "why": "possible: 'kṣaṇisya' is not a word; 'kṣīṇasya' (of the wasted one) matches the same phrase earlier in the unit"
+       },
+       {
+        "src": "satṛṣṇo",
+        "suggest": "satṛṣṇaḥ",
+        "why": "possible: printed 'satṛṣṇo sa' has o before s, which is not regular sandhi; satṛṣṇaḥ saḥ (thirsty, he) is meant"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ghurghuraka",
+     "problem": "Modern name wanted beside the term (probable).",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "Reviewer: ghurghuraka (a gurgling or rattling sound in the throat) is probably what is now called the death rattle (probable). The hiatus 'ca uraso' (Devanagari चउरसो) is the print's own spelling, not a typo."
+     }
+    },
+    {
+     "field": "english|hindi",
+     "where": "savair / kṣaṇisya (and the other silent restorations of the chunk)",
+     "problem": "NEEDS A HUMAN DECISION. Emendations carried in `words` only: u2 savair→sarvair (\"all\"), kṣaṇisya→kṣīṇasya (\"wasted\"), satṛṣṇo sa; u9 idra→indra; u20 arśāsi→arśāṃsi; u27 masikā→maṣikā (covered: u27 already carries the mark); u24 raṃbu (covered: u24 carries the mark); u32 tuddvāha→tuddāha; u34 pramehiṇa→pramehiṇam. Glossary rule: a correction adopted in a translation needs the mark in both languages. Suggested criterion: mark when a consonant or vowel letter is inserted, deleted or replaced so that a different word is read (savair→sarvair, kṣaṇisya→kṣīṇasya, tuddvāha→tuddāha: u2 would then carry \"on a conjectural reading\" at the end of the sentence, u32 too); do not mark pure anusvāra or diacritic restorations (idra, arśāsi, pramehiṇa, masikā), which are the print's regular habit. Not patched because it is a book-wide policy call.",
+     "fix": "Owner to choose; if the criterion above is accepted append \"; on a conjectural reading\" / \"; अनुमानित पाठ पर\" to u2 and u32 (both languages).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhavati cātra",
+     "problem": "Glossary fixes \"bhavati cātra\" = \"And on this matter there is:\" (colon).",
+     "fix": "And on this matter there is:",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "english",
+      "value": "And on this matter there is:"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "bhavati cātra",
+     "problem": "Same formula: colon, not a full stop.",
+     "fix": "और इस विषय में है:",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "और इस विषय में है:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kṣīṇam; śūnam; hata-analam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "5",
+       "op": "word",
+       "match_w": "kṣīṇam",
+       "field": "gram",
+       "value": "ppp. √kṣi, acc. sg."
+      },
+      {
+       "n": "5",
+       "op": "word",
+       "match_w": "śūnam",
+       "field": "gram",
+       "value": "ppp. √śvi, acc. sg."
+      },
+      {
+       "n": "5",
+       "op": "word",
+       "match_w": "hata-analam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "akṣāmam; sakta-vacanam; rakta-akṣam; śūlinam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "akṣāmam",
+       "field": "gram",
+       "value": "acc. sg."
+      },
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "sakta-vacanam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "rakta-akṣam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "śūlinam",
+       "field": "gram",
+       "value": "acc. sg. (stem śūlin)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "idra→indra",
+     "problem": "Silent in the translation (carried in `words` and flagged only). Decision pointer: see unit 2 (anusvāra restorations suggested NOT to be marked).",
+     "fix": "see unit 2",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pāṇḍu-jvara-chardi-kāsa-śopha-atisāriṇam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "13",
+       "op": "word",
+       "match_w": "pāṇḍu-jvara-chardi-kāsa-śopha-atisāriṇam",
+       "field": "gram",
+       "value": "dvandva, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jvara-chardi-tṛṣṇā-atīsāra-śophinam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "jvara-chardi-tṛṣṇā-atīsāra-śophinam",
+       "field": "gram",
+       "value": "dvandva, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pārśva-ruj-ānāha-rakta-chardi-asaṃtāpinam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "pārśva-ruj-ānāha-rakta-chardi-asaṃtāpinam",
+       "field": "gram",
+       "value": "dvandva, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sacandrikā",
+     "problem": "Observation only: candrikā may also name moon-like or peacock-eye marks (possible, unverified); nothing adopted, the draft is right to leave it uninterpreted.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "Reviewer: candrikā might name moon-like (peacock-eye) marks in the discharge; possible, unverified, not adopted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sāsra",
+     "problem": "\"असरा\" is not a Hindi word; the Sanskrit is asra (अस्र), blood or tears.",
+     "fix": "अस्र यानी रक्त या आँसू से युक्त",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "असरा सहित अर्थात् रक्त या आँसू सहित",
+      "new": "अस्र यानी रक्त या आँसू से युक्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anya-roga-kṣapitam; bahir-jihvam; vicetanam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "anya-roga-kṣapitam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      },
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "bahir-jihvam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "vicetanam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "madātyayo'ti",
+     "problem": "Note says the avagraha is dropped, but Devanagari मदात्ययोऽति prints it; it is simply regular sandhi.",
+     "fix": "corrected note",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "notes",
+      "old": "The print has a dropped avagraha after -o (madātyayo 'ti-) which is regular sandhi here (madātyayaḥ ati).",
+      "new": "The avagraha is printed (madātyayo 'ti-); regular sandhi for madātyayaḥ ati."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ati-śīta-ārtam; kṣīṇam; taila-prabha-ānanam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "ati-śīta-ārtam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "kṣīṇam",
+       "field": "gram",
+       "value": "ppp. √kṣi, acc. sg."
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "taila-prabha-ānanam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "muṣka",
+     "problem": "अण्डकोष is the scrotum; decision: muṣka = testicle, and u31 Hindi uses वृषण.",
+     "fix": "मुष्क यानी वृषण",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुष्क यानी अण्डकोष",
+      "new": "मुष्क यानी वृषण"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "arśāsi→arśāṃsi",
+     "problem": "Silent in the translation (carried in `words` and flagged only). Decision pointer: see unit 2 (anusvāra restorations suggested NOT to be marked).",
+     "fix": "see unit 2",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "pāṇi-pad-nābhi-guda-muṣka-āsya-śophinam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "pāṇi-pad-nābhi-guda-muṣka-āsya-śophinam",
+       "field": "gram",
+       "value": "dvandva, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "rujā",
+     "problem": "The printed ā of rujācharddi is dropped from `words` (ruj-chardi would not give rujāchardi). rujā (f., pain) is a valid word.",
+     "fix": "w: hṛd-pārśva-aṅga-rujā-chardi-pāyu-pāka-jvara-āturam",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "hṛd-pārśva-aṅga-ruj-chardi-pāyu-pāka-jvara-āturam",
+       "field": "gloss",
+       "value": "heart (hṛd); side (pārśva); limb, body part (aṅga); pain (rujā); vomiting (chardi); anus (pāyu); inflammation, literally ripening (pāka); fever (jvara); afflicted (ātura)"
+      },
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "hṛd-pārśva-aṅga-ruj-chardi-pāyu-pāka-jvara-āturam",
+       "field": "w",
+       "value": "hṛd-pārśva-aṅga-rujā-chardi-pāyu-pāka-jvara-āturam"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "pārśvaṃga",
+     "problem": "Silent restoration: pārśva + aṅga gives pārśvāṅga, but the print has short a and anusvāra (pārśvaṃga). The ṅ→ṃ is the print's habit; the lost ā-length is not regular, so the restoration needs a flag (sense unchanged, no translation mark needed).",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "hṛtpārśvaṃgarujācharddipāyupākajvarāturaṃ",
+        "suggest": "hṛtpārśvāṅgarujācharddipāyupākajvarāturaṃ",
+        "why": "possible: pārśva + aṅga should give pārśvāṅga (long ā); the print has short a ('pārśvaṃga'); ṅ printed as ṃ is the print's habit. Read as pārśva-aṅga in `words`; the sense is unchanged."
+       }
+      ]
+     }
+    },
+    {
+     "field": "gram",
+     "where": "hṛd-pārśva-aṅga-ruj-chardi-pāyu-pāka-jvara-āturam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "hṛd-pārśva-aṅga-rujā-chardi-pāyu-pāka-jvara-āturam",
+       "field": "gram",
+       "value": "dvandva + tat-puruṣa, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "instrumentals",
+     "problem": "NEEDS A HUMAN DECISION. The notes say the u22 instrumentals are completed by tulyaḥ of u23 (\"similar to\"), yet u22 and u24 are translated \"with\" and only u23 \"similar to\". If tulyaḥ governs all three lists, u22 and u24 should read \"like\"/\"similar to\" too; if not, the notes overstate. Not patched.",
+     "fix": "Either keep \"with\" and soften the note (\"may be completed by tulyaḥ\"), or translate all three as \"similar to\".",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "tulyaḥ",
+     "problem": "Note should not state the construction as fact while the translation does otherwise.",
+     "fix": "softened note",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": "The instrumental plurals are completed by 'tulyaḥ' in unit 23 (similar to); the construction is left as printed.",
+      "new": "The instrumental plurals may be completed by 'tulyaḥ' in unit 23 (similar to), in which case 'with' here would read 'like'; the construction is left as printed (open)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "vasā",
+     "problem": "Glossary: Hindi वसा is glossed \"वसा यानी मांस की चर्बी\".",
+     "fix": "मज्जा, वसा यानी मांस की चर्बी और आसव",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मज्जा, वसा और आसव",
+      "new": "मज्जा, वसा यानी मांस की चर्बी और आसव"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ati",
+     "problem": "Bare \"अति,\" as a separate list item is unintelligible; English has \"Very (ati) red\".",
+     "fix": "अति लाल, काला, ...",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अति, लाल,",
+      "new": "अति लाल,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ghana-vedanaḥ",
+     "problem": "Observation (no patch): the final compound ghana-vedanaḥ is masculine nominative, so it may be read \"having dense (intense) pain\" rather than a list of seven items; the draft already notes this. Medium confidence is right.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śīrṇa-pāyu-valim; mukta-nālam; parva-asthi-śūlinam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "śīrṇa-pāyu-valim",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "mukta-nālam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "parva-asthi-śūlinam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "srasta-pāyu",
+     "problem": "srasta = slipped; \"prolapsed anus\" is an interpretation stated without a hedge in the translation, but a probable identification must be hedged in both languages.",
+     "fix": "The one with a slipped anus (srasta-pāyu, probably prolapse of the anus or rectum), wasted in strength; ...",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "replace",
+       "field": "english",
+       "old": "The one with a prolapsed anus (srasta-pāyu)",
+       "new": "The one with a slipped anus (srasta-pāyu, probably prolapse of the anus or rectum)"
+      },
+      {
+       "n": "29",
+       "op": "replace",
+       "field": "hindi",
+       "old": "यानी निकल आने वाले",
+       "new": "यानी सम्भवतः निकल आने वाले"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "srasta-pāyum; bala-kṣīṇam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "srasta-pāyum",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "bala-kṣīṇam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śūna-vṛṣaṇam; baddha-mūtram; rujā-arditam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "śūna-vṛṣaṇam",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "baddha-mūtram",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "rujā-arditam",
+       "field": "gram",
+       "value": "tat-puruṣa, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tud",
+     "problem": "NEEDS A HUMAN DECISION. \"tud\" is not an attested noun for pricking pain (that would be toda/tuda), yet the translation states \"pricking pain (tud)\" as certain. A more plausible reading of tuddvāha is tṛḍ-dāha (thirst, burning), which also pairs with dāha-tṛṣṇā in u35 and other lists; ṛ→u and ḍ→d are common confusions in this print. Not adopted without a human check against the scan; the ambiguity is recorded in the notes. If either is adopted, the translations need the conjectural mark.",
+     "fix": "Owner to check the scan; alternative tṛḍ-dāha.",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "append_note",
+      "text": "Reviewer: 'tud' alone is not an attested noun for pricking pain (toda/tuda would be). Alternative to the flagged tud-dāha: tṛḍ-dāha (thirst, burning), possible, not adopted; if either is adopted the translations need the conjectural mark."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tuddvāha→tuddāha",
+     "problem": "Letter-level restoration carried in `words`; see unit 2 and the tud/tṛḍ item above.",
+     "fix": "see unit 2",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "tud-dāha-piṭakā-māṃsa-kotha-atisāriṇam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "32",
+       "op": "word",
+       "match_w": "tud-dāha-piṭakā-māṃsa-kotha-atisāriṇam",
+       "field": "gram",
+       "value": "dvandva, acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pramehiṇa→pramehiṇam",
+     "problem": "Silent in the translation (carried in `words` and flagged only). Decision pointer: see unit 2 (anusvāra restorations suggested NOT to be marked).",
+     "fix": "see unit 2",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "manda-utsāham; pramehiṇam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "manda-utsāham",
+       "field": "gram",
+       "value": "bahuvrīhi, acc. sg."
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "pramehiṇam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kūrmaivonnataḥ",
+     "problem": "Devanagari is कूर्मइवोन्नतः: the hiatus kūrma iva is printed as two vowels (the recurring ai/au finding). kūrma iva unnataḥ is regular sandhi (kūrmaḥ + iva), so there is no emendation and no conjecture.",
+     "fix": "remove the flag",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "english",
+     "where": "kūrma iva",
+     "problem": "Because nothing is conjectured, \"on a conjectural reading\" must go (both languages).",
+     "fix": "... raised like a tortoise.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "raised like a tortoise; on a conjectural reading.",
+       "new": "raised like a tortoise."
+      },
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "hindi",
+       "old": "कछुए के समान ऊँचा उठा हुआ; अनुमानित पाठ पर।",
+       "new": "कछुए के समान ऊँचा उठा हुआ।"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "kūrma iva",
+     "problem": "Record the hiatus.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "append_note",
+      "text": "The Devanagari prints कूर्मइवोन्नतः, i.e. kūrma iva unnataḥ with a hiatus (kūrmaḥ + iva, regular); the IAST kūrmaiva is an intake artefact, not a typo."
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "jaṭhara",
+     "problem": "Hindi lacks the modern name that the English carries (\"an ascites-type\").",
+     "fix": "जठर यानी पेट, यहाँ सम्भवतः पेट का रोग, जलोदर प्रकार का",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यहाँ सम्भवतः पेट का रोग,",
+      "new": "यहाँ सम्भवतः पेट का रोग, जलोदर प्रकार का,"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "durbalam",
+     "problem": "Accusative adjectives standing for an unstated noun (the person killed): the -am ending is m. or n., and the glossary rule is case and number only, no gender.",
+     "fix": "gram \"acc. sg.\"",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "durbalam",
+       "field": "gram",
+       "value": "acc. sg."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 41 units of Śārīrasthāna ch11 (Vikṛtavijñānīya, fatal-sign list) against the printed Sanskrit and Devanagari. The draft is careful: damaged units (11, 13, 17, 26, 27, 28, 29, 30) are handled per glossary (unsplit, unclear, conjectural mark, low confidence), identifications are tagged and hedged, nothing is added to the prognostic statements. Real errors: u37 (and u2 cauraso flag) treats a Devanagari hiatus (कूर्मइव, चउरसो) as a typo, so u37 wrongly carries the conjectural mark; u21 drops the printed ā of rujā from `words` and silently restores pārśvāṅga; u17 Hindi 'असरा'. Minor: Hindi पान for drinks, 'क्षीण होने पर', वसा gloss, muṣka as अण्डकोष, 'अति,' as a list item, u3 formula wording, u29 hedge, u41 Hindi lacks the modern name, gram of unstated-noun accusatives. Human decisions: conjectural-mark criterion for the silent restorations (u2, u9, u20, u32, u34), tulyaḥ scope over u22-24, tud versus tṛḍ in u32. No identification judged wrong. No regrouping needed (grouping notes are sensible; u3 introduces u4, whose nihanti governs the accusatives, u41 states hanti).",
+ "glossary_suggestions": [
+  "p02 ch11: 'bhavati cātra' = 'And on this matter there is:' (already fixed; applied in u3).",
+  "IAST 'ai'/'au' hiatus confirmed again in p02 ch11 (u2 चउरसो = ca uraso, u37 कूर्मइव = kūrma iva); never a typo flag or conjectural mark.",
+  "Conjectural-mark criterion proposed: mark letter-level restorations that change the word read (savair→sarvair, kṣaṇisya→kṣīṇasya, tuddvāha→tuddāha); do not mark pure anusvāra/diacritic restorations (idra→indra, arśāsi→arśāṃsi, pramehiṇa→pramehiṇam, masikā→maṣikā). Owner to decide.",
+  "Hindi muṣka/vṛṣaṇa = वृषण (अण्डकोष is the scrotum); Hindi vasā = वसा यानी मांस की चर्बी; Hindi drinks = पेय (not पान); Hindi grīvā = गर्दन; asra = अस्र यानी रक्त या आँसू.",
+  "Adjectives standing for an unstated person/thing in -am (acc. sg.) carry no gender in gram (sweep applied to p02 ch11 u5-u41).",
+  "srasta-pāyu = slipped anus, probably prolapse of the anus or rectum (hedged in both languages); ghurghuraka = probably the death rattle; jaṭhara in the fatal list = probably an ascites-type belly disease (jalodara), Hindi जलोदर प्रकार का.",
+  "OPEN p02 ch11: u22-u24 scope of tulyaḥ ('with' vs 'similar to'); u32 tud-dāha vs tṛḍ-dāha; u25 ghana-vedanaḥ parse; u6 akṣāma kept as printed."
+ ]
+}

@@ -88,3 +88,9 @@ The owner wants comprehension and accuracy first. For this book the medical-term
 - vātāsra = probably vātarakta (gout-type) / गठिया की श्रेणी का रोग; visarpa = erysipelas-type spreading inflammation (probable); raktī unidentified.
 - udarī = one with udara (belly disease, probably ascites-type): same wording in ch11 u55 and u66.
 - OPEN ch11 k2: u43 damaged construction; u53/54 śuṣyataḥ/śūyante possibly swapped; u55/56 yaḥ/yasya clauses lack correlative; u60 subject of hanti; u61 vāyu = wind or Vāta; u62 vātāsram conjecture marked but similar ones in 53, 64 not; u75 kṣīṇadehasya vā attachment; u76 locative "at/पर" supplied; u78 guda-vaṅkṣaṇau dual; u80 stimita still/moist.
+
+(from p02 ch11 k1 review)
+- IAST ai/au hiatus again: कूर्मइवोन्नतः = kūrma iva (u37), चउरसो = ca uraso (u2) are regular printed hiatus, not typos; flags removed.
+- ghurghuraka = death rattle (probable). mushka = testicle / वृषण (not अण्डकोष). srasta-pāyu = prolapse of the anus, hedged "probably" both languages. grīvā = गर्दन.
+- Accusative adjectives for an unstated person carry no gender in gram.
+- OPEN ch11 k1: conjectural-mark criterion for silent letter-level restorations (u2 savair→sarvair, u32 kṣaṇisya→kṣīṇasya; anusvāra/diacritic restorations idra, arśāsi, pramehiṇa, masikā unmarked) — owner to decide; u22-24 whether tulyaḥ governs all three lists; u32 "tud" vs tṛḍ-dāha (check scan); u25 ghana-vedanaḥ "with intense pain" vs list item.
