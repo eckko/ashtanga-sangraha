@@ -130,7 +130,7 @@ AUTHORED["16"] = {
                "The unit does not call these four upward-going or say what is done with them (unit 8's note infers: "
                "guarded). Appears to continue unit 15."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई १५ (पेट में चौबीस) को आगे बढ़ाती दिखती है: उनमें से मेढ्र यानी शिश्न के ऊपर, रोमराजी के दोनों ओर, दो-दो सिराएँ; वे भी चार हैं। "
-                   "रोमराजी पेट पर रोमों की खड़ी रेखा है; छपाई में इसका ‘रो’ का र गिर गया है, पर पाठ लगभग निश्चित है। "
+                   "रोमराजी = रोमों की रेखा (डेटा); छपाई में इसका ‘रो’ का र गिर गया है, पर पाठ लगभग निश्चित है। "
                    "‘मेढ्रस्योपरि’ = मेढ्रस्य (मेढ्र के) + उपरि (ऊपर); छपा ‘मेंढ्र’ मेढ्र की ही वर्तनी है। "
                    "‘ता अपि’ = ताः + अपि: आ के बाद का विसर्ग स्वर से पहले गिरता है, फिर कोई सन्धि नहीं होती। "
                    "इकाई १४ की तरह यहाँ ‘ऊपर जाने वाली’ नहीं कहा गया।"),
@@ -184,8 +184,8 @@ AUTHORED["16"] = {
 AUTHORED["17"] = {
     "title": "चत्वारिंशद्वक्षसि",
     "question": "By unit 17, how many sirās are in the chest (vakṣas)?",
-    "rule": ("Forty (चत्वारिंशत्) are in the chest (वक्षसि), the largest count of the trunk; with 32 + 16 + 24 + 24 of "
-             "units 11-15 it makes the 136 of the trunk (unit 7)."),
+    "rule": ("Forty (चत्वारिंशत्) are in the chest (वक्षसि), the largest count of the trunk. Our own check, not stated in "
+             "the text: with 32 + 16 + 24 + 24 of units 11-15 it makes the 136 of the antarādhi (trunk, probable; unit 7)."),
     "limits": ("Prose, two words; copula understood, counted noun not printed. The sum 32 + 16 + 24 + 24 + 40 = 136 is a "
                "check from the printed numbers, not a statement of this unit. Which of the forty are named follows in "
                "units 18-21."),
@@ -231,7 +231,7 @@ AUTHORED["17"] = {
             ("मरुद्वहति", "त् before a voiced consonant becomes द्, as चत्वारिंशत् + वक्षसि."),
             [("मरुत्वहति", "त् stays त् only before an unvoiced sound; व is voiced."),
              ("मरुन्वहति", "त् becomes न् only before a nasal such as न or म."),
-             ("मरुच्वहति", "त् becomes च् only before च or छ.")],
+             ("मरुच्वहति", "त् becomes च् before a palatal such as च, छ or श (त् + श → च्छ), not before व.")],
             "मरुत् + वहति = मरुद्वहति, like चत्वारिंशत् + वक्षसि = चत्वारिंशद्वक्षसि.",
             "त् + voiced consonant → द्.",
             teaches="A final त् becomes द् before a voiced consonant: चत्वारिंशत् + वक्षसि → चत्वारिंशद्वक्षसि."),
@@ -256,7 +256,7 @@ AUTHORED["18"] = {
         mcq("pretest", 0, "By unit 18, how many of the chest's sirās are in the heart?",
             ("2", "तासां द्वे हृदये: of them, two in the heart."),
             [("4", "Four is not the heart's number; द्वे is two."),
-             ("14", "Fourteen is the total of units 18-21 (unit 21)."),
+             ("14", "Fourteen is the total of units 18-20, given in unit 21."),
              ("40", "Forty is the whole chest (unit 17).")],
             "Of them, two in the heart.",
             "तासां द्वे हृदये."),
@@ -264,14 +264,14 @@ AUTHORED["18"] = {
               [["तासाम्", "of them"], ["द्वे", "two"], ["हृदये", "in the heart"]],
               "Of them, two in the heart.",
               "तासाम्, द्वे, हृदये."),
-        mcq("extend", 2, "In unit 18, what does तासाम् (of them) appear to point back to?",
-            ("The forty of the chest", "Grouping note: unit 18 appears to continue unit 17, the chest."),
-            [("The belly's twenty-four", "The belly is unit 15; unit 17 (the chest) stands between."),
-             ("The trunk's whole 136", "The 136 is the trunk (unit 7); the nearest count is the chest's."),
-             ("The back's twenty-four", "The back is unit 13; the nearest count is the chest's.")],
-            "तासाम् = of those (forty of the chest).",
-            "तासां (of them) takes up the count just before it.",
-            teaches="तासाम् (f. gen. pl.) takes up the feminine sirās just counted: here the forty of the chest."),
+        mcq("extend", 2, "In unit 18, what does the case of हृदये (locative) tell?",
+            ("Where the two lie: in the heart", "-ए of an अ-stem is the locative singular: in the heart."),
+            [("Whose the two are: of the heart", "The genitive would be हृदयस्य."),
+             ("Where they come from: from the heart", "The ablative would be हृदयात्."),
+             ("What they serve: for the heart", "The dative would be हृदयाय.")],
+            "हृदये = in the heart: the place of the two.",
+            "Locative -ए: the place where.",
+            teaches="The locative names the place: हृदये = in the heart, as उदरे, वक्षसि."),
         mcq("discriminate", 3, "By units 17-18, which statement is right?",
             ("Two of the forty lie in the heart", "तासाम्: of them; the two are part of the forty."),
             [("The heart has forty of its own as well", "Forty is the chest's count; the heart has two of them."),
@@ -403,7 +403,7 @@ AUTHORED["20"] = {
         multi("apply", 4, "Which statements fit unit 20 and its data?",
               [("The avagraha after एकैका is a print habit (आ + अ → आ)", "Right: data note; the ऽ marks no lost sound here."),
                ("इति here means 'one each'", "'One each' is एकैका; इति means thus."),
-               ("The avagraha marks a lost अ after ए or ओ", "The vowel before the ऽ is आ, not ए or ओ."),
+               ("Here the avagraha follows ए or ओ", "The vowel before the ऽ is आ, not ए or ओ."),
                ("अपस्तम्भ is kept as the name of a place", "Right: a marma name in this tradition (probable).")],
               [0, 3],
               "Print-habit ऽ after आ; अपस्तम्भ kept as a name; इति = thus.",
@@ -481,11 +481,12 @@ AUTHORED["21"] = {
 AUTHORED["22"] = {
     "title": "चतुर्विंशतिर्ग्रीवायां",
     "question": "By unit 22, how many sirās are in the neck (grīvā)?",
-    "rule": ("Twenty-four (चतुर्विंशतिः) are in the neck (ग्रीवायाम्): the first place of the upper part after the trunk."),
+    "rule": ("Twenty-four (चतुर्विंशतिः) are in the neck (ग्रीवायाम्). The data's arithmetic check (unit 32 note) counts "
+             "the neck in the 164 of the upper part (unit 9); the text does not say so here."),
     "limits": ("Prose, two words; copula understood, counted noun not printed. Which of the 24 are named follows in "
                "units 23-24."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: ग्रीवा यानी गर्दन में चौबीस। "
-                   "यहाँ से शरीर के ऊपरी भाग की सिराएँ आरम्भ होती हैं। "
+                   "डेटा के जोड़ (इकाई ३२ की टिप्पणी) के अनुसार गर्दन ऊपरी भाग के १६४ (इकाई ९) में गिनी जाती है; पंक्ति यह नहीं कहती। "
                    "‘ग्रीवायाम्’ आ-कारान्त स्त्रीलिंग शब्द ग्रीवा का सप्तमी एकवचन है: गर्दन में। "
                    "सन्धि: चतुर्विंशतिः + ग्रीवायाम् में इ के बाद का विसर्ग घोष व्यंजन ग से पहले र् बना। "
                    "आगे की इकाइयाँ (२३-२४) इन चौबीस में से नामित सिराएँ बताती हैं।"),
@@ -647,7 +648,7 @@ AUTHORED["24"] = {
             "Optative 3 sg.: स्पृशेत्."),
         mcq("transfer", 5, "By the rule of विधुरयोरिति, how is हस्तयोः + इति joined in a new example?",
             ("हस्तयोरिति", "After ओ, a visarga before a vowel becomes र्, as विधुरयोः + इति."),
-            [("हस्तयो इति", "The visarga drops like this after आ, not after ओ."),
+            [("हस्तयो इति", "Before a vowel the visarga drops after आ (and after अ before a vowel other than अ); after ओ it becomes र्."),
              ("हस्तयोसिति", "Visarga → स् happens before त or थ, not before a vowel."),
              ("हस्तयविति", "ओ → अव् happens with no visarga; here the visarga gives र्.")],
             "हस्तयोः + इति = हस्तयोरिति, like विधुरयोः + इति = विधुरयोरिति.",
@@ -724,7 +725,7 @@ AUTHORED["26"] = {
                    "छपा ‘जिव्हा’ जिह्वा के अक्षरों का उलट-फेर है (ह्व की जगह व्ह); डेटा इसे जिह्वा पढ़ता है। "
                    "‘जिह्वायाम्’ आ-कारान्त स्त्रीलिंग शब्द का सप्तमी एकवचन है, ग्रीवायाम् की तरह। "
                    "हनु (इकाई २५) और जिह्वा, दोनों में सोलह-सोलह हैं। "
-                   "आगे इकाई २७ इनमें से कुछ के काम बताती है।"),
+                   "आगे इकाई २७, जो डेटा के अनुसार इसी की निरन्तरता प्रतीत होती है, कुछ सिराओं के काम बताती है।"),
     "hook": "जीभ में भी सोलह, जबड़ों जितनी।",
     "core": False,
     "questions": [
@@ -786,7 +787,7 @@ NOTES_HI = {
     "16": ("गद्य; विश्वास उच्च। पाठ-चिह्न (लगभग निश्चित): छपा ‘मेंढ्रस्योपरिोमराजीम्’ में रोमराजी का र गिरा है (केवल मात्रा छपी); "
            "रोमराजी = पेट पर रोमों की रेखा; इस पर कोई प्रश्न नहीं। छपा मेंढ्र = मेढ्र (शिश्न, मानक)। सन्धि जाँची: मेढ्रस्य + उपरि → "
            "मेढ्रस्योपरि (अ + उ → ओ); ताः + अपि → ता अपि (आ के बाद विसर्ग स्वर से पहले गिरता है; डेटा: नियमित)। डेटा के अनुसार "
-           "इकाई १५ की निरन्तरता।"),
+           "इकाई १५ की निरन्तरता प्रतीत होती है।"),
     "17": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया समझी जाती है। सन्धि जाँची: चत्वारिंशत् + वक्षसि → चत्वारिंशद्वक्षसि "
            "(त् + घोष व्यंजन → द्)। धड़ का जोड़ ३२ + १६ + २४ + २४ + ४० = १३६ (इकाई ७) छपी संख्याओं से हमारी जाँच है।"),
     "18": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया समझी जाती है। हृदय (मानक)। डेटा: इकाई १७ (छाती) की निरन्तरता "
@@ -796,21 +797,21 @@ NOTES_HI = {
            "है जब हर नाम में दोनों ओर दो-दो मानें; यह अनुमान है, इस पर कोई प्रश्न नहीं। द्वन्द्व, सप्तमी बहुवचन।"),
     "20": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘आलाप’ (बातचीत) शरीर का स्थान नहीं; ‘अपलाप’ (प गिरा) अनुमानित पाठ "
            "है; दूसरे नाम पर कोई प्रश्न नहीं। अपस्तम्भ मर्म-नाम (सम्भावित)। ‘एकैकाऽप’ का अवग्रह छपाई की आदत (आ + अ → आ)। सन्धि "
-           "जाँची: एक + एका → एकैका (अ + ए → ऐ); -एषु + इति → -एष्विति (उ + भिन्न स्वर → व्)। इकाई १९ की निरन्तरता।"),
+           "जाँची: एक + एका → एकैका (अ + ए → ऐ); -एषु + इति → -एष्विति (उ + भिन्न स्वर → व्)। इकाई १९ की निरन्तरता प्रतीत होती है (डेटा)।"),
     "21": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘ताः’ = इकाई १८-२० में गिनी सिराएँ (डेटा: प्रतीत होता है)। चौदह, छाती के "
            "चालीस (इकाई १७) का भाग है। २ + ४ + ४ + ४ का बँटवारा अनुमान है, छपाई केवल कुल देती है। सन्धि जाँची: ताः + चतुर्दश → "
            "ताश्चतुर्दश (च से पहले विसर्ग → श्)।"),
     "22": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया समझी जाती है। सन्धि जाँची: चतुर्विंशतिः + ग्रीवायाम् → "
            "चतुर्विंशतिर्ग्रीवायाम् (इ के बाद विसर्ग + घोष व्यंजन → र्)। पंक्ति के अन्त का ‘ग्रीवायां’ म् का अनुस्वार-लेखन है।"),
     "23": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। मर्म = जीवन-स्थल, शास्त्रीय शब्द, वैसा ही रखा गया। मर्मसंज्ञाः बहुव्रीहि, "
-           "स्त्रीलिंग प्रथमा बहुवचन। सन्धि जाँची: चतस्रः + अष्टौ → चतस्रोऽष्टौ (अः + अ → ओ, अ का लोप ऽ से)। इकाई २२ की निरन्तरता।"),
+           "स्त्रीलिंग प्रथमा बहुवचन। सन्धि जाँची: चतस्रः + अष्टौ → चतस्रोऽष्टौ (अः + अ → ओ, अ का लोप ऽ से)। इकाई २२ की निरन्तरता प्रतीत होती है (डेटा)।"),
     "24": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। कृकाटिका (सिर-गर्दन का पिछला जोड़) और विधुर (कान के पीछे): मर्म-नाम, स्थान "
            "सम्भावित। छपा ‘द्वेविधुरयोरिति’ = द्वे विधुरयोः इति। सोलह = इकाई २३ के ४ + ८ और यहाँ के २ + २ (डेटा)। स्पृशेत् = विधिलिङ् "
            "३ एकवचन। सन्धि जाँची: कृकाटिकयोः + द्वे → कृकाटिकयोर्द्वे, विधुरयोः + इति → विधुरयोरिति (ओ के बाद विसर्ग → र्)।"),
     "25": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया समझी जाती है। कौन-सा सन्धि (जोड़), यह नहीं कहा गया; जबड़े का जोड़ "
            "स्वाभाविक पर अकथित अर्थ है। हनु (मानक)। छपा ‘तासांसंधि’ = तासाम् + सन्धि (म् → ं, व्यंजन से पहले), शब्द जुड़े छपे।"),
     "26": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपा ‘जिव्हा’ जिह्वा के अक्षरों का उलट-फेर है (एक बार दर्ज, शब्द-सूची में "
-           "सामान्य किया गया)। क्रिया समझी जाती है। इकाई २७ इसकी निरन्तरता है।"),
+           "सामान्य किया गया)। क्रिया समझी जाती है। इकाई २७ इसकी निरन्तरता प्रतीत होती है (डेटा)।"),
 }
 
 
@@ -835,7 +836,7 @@ AIDS = {
     },
     "17": {
         "diagram": {"groups": [
-            {"label": "धड़ की सिराएँ, इकाई ११-१७ (स्थान: संख्या)",
+            {"label": "धड़ (अन्तराधि, सम्भावित) की सिराएँ, इकाई ११-१७ (स्थान: संख्या)",
              "items": ["श्रोणि (११): ३२", "पार्श्व (१२): १६", "पृष्ठ (१३): २४", "उदर (१५): २४", "वक्ष (१७): ४०",
                        "जोड़ (हमारी जाँच): १३६ = इकाई ७"]}]},
         "chunks": "चत्वारिंशत् | वक्षसि",
@@ -918,7 +919,7 @@ IMAGE_SPECS = {
         "alt": ("Table of the trunk's sirās by the printed numbers of units 11-17: hip region 32, sides 16, back 24, "
                 "belly 24, chest 40; their sum 136 matches the trunk total of unit 7 (a check, not a statement of the text)."),
         "type": "table",
-        "title": "इकाई ११-१७: धड़ की सिराएँ",
+        "title": "इकाई ११-१७: धड़ (अन्तराधि, सम्भावित)",
         "heads": ["स्थान (इकाई)", "संख्या"],
         "rows": [["श्रोणि (११)", "३२"], ["पार्श्व (१२)", "१६"], ["पृष्ठ (१३)", "२४"], ["उदर (१५)", "२४"],
                  ["वक्ष (१७)", "४०"], ["जोड़, हमारी जाँच (इकाई ७)", "१३६"]],
