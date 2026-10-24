@@ -162,13 +162,14 @@ AUTHORED["155"] = {
              ("क is a vowel", "क is a consonant; before a vowel त् would become द्.")],
             "चत्वारिंशत् + कट्याम्: before unvoiced क the त् stays.",
             "त् + unvoiced consonant → त् stays."),
-        mcq("apply", 4, "कट्याम् comes from कटि (hip). What does the form mean in unit 155?",
-            ("In the hip", "The data: कट्याम् is the locative singular, 'in the hip'."),
-            [("From the hip", "'From the hip' is not -याम्; the ablative ends in -याः or -एः."),
-             ("By the hip", "'By the hip' would be कट्या, not कट्याम्."),
-             ("The two hips", "The dual would be कटी, not कट्याम्.")],
-            "कट्याम् = in the hip.",
-            "Feminine इ-stem + -याम् = locative singular."),
+        multi("apply", 4, "Which statements fit unit 155?",
+              [("It gives forty for the back", "The back gets eighty (unit 157); unit 155 names the hip."),
+               ("Its कट्याम् means 'from the hip'", "कट्याम् is the locative singular, 'in the hip'."),
+               ("It gives forty for the hip", "Right: चत्वारिंशत्कट्यां."),
+               ("Its त् stays before क", "Right: क is unvoiced, so चत्वारिंशत् keeps its त्.")],
+              [2, 3],
+              "Forty in the hip; त् stays before the unvoiced क.",
+              "चत्वारिंशत्कट्यां = चत्वारिंशत् कट्याम्."),
         mcq("transfer", 5, "By the rule of चत्वारिंशत् + कट्याम्, how are तत् + कालम् (that time) joined?",
             ("तत्कालम्", "त् stays before the unvoiced क, as in चत्वारिंशत्कट्यां."),
             [("तद्कालम्", "द् comes before a vowel or a voiced consonant; क is unvoiced."),
@@ -348,7 +349,7 @@ AUTHORED["158"] = {
               [0, 3],
               "Sixty in the two flanks; no counted noun.",
               "षष्टिः पार्श्वयोः."),
-        mcq("transfer", 5, "By the pattern of पार्श्वयोः (in the two flanks), how is 'in the two hands' said from हस्त?",
+        mcq("transfer", 5, "By the pattern of पार्श्वयोः (in the two flanks), how is in the two hands said from हस्त?",
             ("हस्तयोः", "अ-stem + -योः = dual, as पार्श्व → पार्श्वयोः."),
             [("हस्तेषु", "हस्तेषु is the locative plural, 'in the hands' (many)."),
              ("हस्ते", "हस्ते is the locative singular, 'in the hand'."),
@@ -421,9 +422,8 @@ AUTHORED["160"] = {
     "question": "By unit 160, what count is given for the two collarbones (akṣaka), and where does the trunk sum stand?",
     "rule": ("Four (चत्वारि) in the two collarbones (अक्षकयोः): इ + अ → य. The data adds the trunk lines 155-160: "
              "40 + 20 + 80 + 60 + 18 + 4 = 222, short of the 230 of card 146."),
-    "limits": ("Prose, one printed word; no verb and no counted noun are printed. The data says only that more trunk sites "
-               "may follow; which line makes up 230 is not said: no question on it. Unit 164 gives three for the jatru, "
-               "also glossed collar-bone; the text does not explain the two words."),
+    "limits": ("Prose; no verb or counted noun printed. The data says only that more trunk sites may follow; which line "
+               "makes up 230 is not asked. Unit 164's jatru is also glossed collar-bone; the text does not explain the two."),
     "explain_hi": ("यह एक छपे शब्द की गद्य-पंक्ति है: चार, दोनों अक्षकों यानी हँसली की हड्डियों में। "
                    "‘चत्वार्यक्षकयोः’ = चत्वारि + अक्षकयोः; इ + अ → य। "
                    "डेटा धड़ की छपी संख्याएँ जोड़ता है: ४० + २० + ८० + ६० + १८ + ४ = २२२, जबकि इकाई १४६ में धड़ के लिए २३० कहा गया है। "
@@ -458,7 +458,7 @@ AUTHORED["160"] = {
             "इ + अ → य."),
         mcq("apply", 4, "The data adds the trunk counts of units 155-160. What does it get, against card 146's 230?",
             ("222, eight short of 230", "40 + 20 + 80 + 60 + 18 + 4 = 222."),
-            [("230, just the stated sum", "The six counts add to 222, not 230."),
+            [("230, the stated sum", "The six counts add to 222, not 230."),
              ("240, ten more than 230", "The six counts add to 222, not 240."),
              ("200, thirty short of 230", "The six counts add to 222, not 200.")],
             "222: the printed trunk lines so far fall eight short of 230.",
@@ -756,7 +756,7 @@ AUTHORED["165"] = {
               ["द्वे द्वे मन्या... तालुषु", "त्रिंशद्ग्रीवायां", "त्रीणि जत्रुणि", "चत्वारिहन्वोः"],
               "Two each in five places; thirty in the neck; three in the jatru; four in the two jaws.",
               "द्वे द्वे → त्रिंशत् → त्रीणि → चत्वारि.", role="apply"),
-        mcq("transfer", 5, "By the rule of हनु + ओः, how are धेनु + ओः (dual ending on 'cow') joined?",
+        mcq("transfer", 5, "By the rule of हनु + ओः, how are धेनु (cow) + ओः (dual ending) joined?",
             ("धेन्वोः", "उ before a different vowel becomes व्, as हनु + ओः → हन्वोः."),
             [("धेनुवोः", "The उ does not stay beside an added व्; the उ itself becomes व्."),
              ("धेनौः", "उ + ओ does not give औ; the उ becomes व्."),
