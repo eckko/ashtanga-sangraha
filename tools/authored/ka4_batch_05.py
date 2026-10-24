@@ -544,7 +544,7 @@ IMAGE_SPECS = {
         "file": "ka4-kshina-56.svg",
         "alt": ("Flowchart for unit 56: after 'not', seven kinds of body in the text's order: wasted, injured, weak, fainted, thin, dried-up, purified"),
         "type": "mermaid",
-        "code": ('flowchart LR\n'
+        "code": ('flowchart TD\n'
                  '  N["न: इन शरीर वालों का नहीं"] --> A["क्षीण"]\n'
                  '  A --> B["क्षत"]\n'
                  '  B --> C["दुर्बल"]\n'
