@@ -16,7 +16,7 @@ AUTHORED["67"] = {
              "flowers, khadira, arjuna and dāḍima; a second, damaged alternative follows."),
     "limits": ("Low confidence. The damaged अमनादिभिः (perhaps मदनादिभिः) is only conjectural; no question rests on it. "
                "खदिार्जुन is read as खदिर + अर्जुन. Kuṇapa as a smell is probable. No dose or duration is given."),
-    "explain_hi": ("यह गद्य-पंक्ति शुक्र के दोषों की चिकित्सा की श्रृंखला में कुणप-रेतस् से आरम्भ करती है; कुणप यानी शव, और सामान्य समझ "
+    "explain_hi": ("यह गद्य-पंक्ति कुणप-रेतस् की चिकित्सा देती है; कुणप यानी शव, और सामान्य समझ "
                    "है शव जैसी गन्ध वाला शुक्र (सम्भावित अर्थ)। उसमें घी पिलाना है जो धातकी के फूल, खदिर (खैर), अर्जुन और दाडिम "
                    "(अनार) के साथ पकाया गया हो। ‘पाययेत्’ प्रेरणार्थक रूप है: (उसे) पिलाए। "
                    "दूसरा विकल्प ‘अमनादिभिः’ क्षतिग्रस्त है; ‘मदनादिभिः’ केवल अनुमान है, इसलिए उस पर कोई प्रश्न नहीं।"),
@@ -30,16 +30,16 @@ AUTHORED["67"] = {
              ("Honey (मधु)", "Honey is not named in this unit.")],
             "The unit ends: सर्पिः पाययेत्, one should make him drink ghee cooked with the named drugs.",
             "सर्पिः = ghee; पाययेत् = should make (him) drink."),
-        order(1, "Put the drugs of unit 67's first list in their printed order.",
-              ["धातकीपुष्प", "खदिर", "अर्जुन", "दाडिम"],
-              "The compound runs: dhātakī flowers, khadira, arjuna, dāḍima (the r of khadira is lost in print).",
-              "धातकीपुष्प → खदिर → अर्जुन → दाडिम."),
+        order(1, "Put these words of unit 67 in their printed order.",
+              ["कुणपरेतसि", "धातकीपुष्प…दाडिमैः", "सिद्धम्", "सर्पिः", "पाययेत्"],
+              "Fault, then the drugs, cooked, then the ghee and the verb (the damaged word left out).",
+              "कुणपरेतसि → धातकीपुष्प…दाडिमैः → सिद्धम् → सर्पिः → पाययेत्."),
         T(match(2, "Match each word of unit 67 to its meaning on the card.",
-                [["दाडिम", "pomegranate (Punica granatum)"], ["खदिर", "Acacia catechu"],
+                [["दाडिम", "pomegranate (Punica granatum)"], ["सिद्ध", "cooked"],
                  ["अर्जुन", "Terminalia arjuna"], ["सर्पिः", "ghee"]],
-                "The three plant names carry standard identifications in the data; सर्पिः is ghee.",
-                "दाडिम, खदिर, अर्जुन: standard identifications; सर्पिः = ghee.", role="extend"),
-          "The ghee is cooked (सिद्धम्) with the plants of the list: dāḍima is pomegranate, khadira Acacia catechu, arjuna Terminalia arjuna."),
+                "दाडिम and अर्जुन carry standard identifications in the data; the ghee (सर्पिः) is cooked (सिद्ध) with them.",
+                "दाडिम, अर्जुन: standard identifications; सिद्ध = cooked; सर्पिः = ghee.", role="extend"),
+          "The ghee is cooked (सिद्धम्) with the plants of the list: dāḍima is pomegranate, arjuna Terminalia arjuna."),
         mcq("discriminate", 3, "By the probable sense on the card, what is kuṇapa-retas?",
             ("Corpse-smelling semen", "कुणप = corpse; the usual understanding is a corpse-like smell (probable)."),
             [("Semen with knots or lumps", "That is granthi-retas, in unit 68."),
@@ -78,7 +78,7 @@ AUTHORED["68"] = {
                    "(सम्भवतः पखानभेद) या पलाश (ढाक) की भस्म बताई गई है। "
                    "पूय-रेतस् यानी पीब वाले शुक्र में दो गण: परूषक (फालसा) आदि और न्यग्रोध (बरगद) आदि; ‘आदिभ्याम्’ का द्विवचन "
                    "इन्हीं दो गणों को बताता है। गणों के सदस्य यहाँ नहीं दिए गए, और प्रयोग का रूप भी नहीं।"),
-    "hook": "गाँठ वाला शुक्र: पखानभेद या ढाक-भस्म; पीब वाला: फालसा-गण और बरगद-गण।",
+    "hook": "गाँठ वाला शुक्र: पाषाणभिद् (सम्भवतः पखानभेद) या ढाक-भस्म; पीब वाला: फालसा-गण और बरगद-गण।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 68, what is named for granthi-retas?",
@@ -173,7 +173,7 @@ AUTHORED["69"] = {
         T(mcq("transfer", 5, "By the join in चित्रकैरथवा, how is फलैः + अथवा written?",
               ("फलैरथवा", "Visarga after ऐ becomes र् before a vowel, as in चित्रकैः + अथवा."),
               [("फलैथवा", "The अ of अथवा cannot vanish here."),
-               ("फलैश्थवा", "श् replaces visarga only before च or छ."),
+               ("फलैश्थवा", "Visarga becomes श् only before a palatal consonant (च, छ, श), never before a vowel."),
                ("फलै अथवा", "Visarga after ऐ does not drop before a vowel; it becomes र्.")],
               "चित्रकैः + अथवा → चित्रकैरथवा; so फलैः + अथवा → फलैरथवा.",
               "ऐः + vowel → ऐर् + vowel."),
@@ -193,7 +193,7 @@ AUTHORED["70"] = {
                    "त्रिकण्टक (सम्भवतः गोखरू) और वृक्षक (सम्भवतः कुटज) का क्वाथ बताया गया है। "
                    "‘ग्रन्थ्यार्तवे’ में ग्रन्थि + आर्तवे की सन्धि है: इ + आ → या। "
                    "क्रिया यहाँ नहीं है; अंगों (जड़, छाल आदि) का भी उल्लेख नहीं।"),
-    "hook": "गाँठ वाला आर्तव: पाठा, गोखरू, कुटज का काढ़ा।",
+    "hook": "गाँठ वाला आर्तव: पाठा, त्रिकण्टक, वृक्षक (सम्भवतः गोखरू, कुटज) का काढ़ा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 70, in what form are pāṭhā, trikaṇṭaka and vṛkṣaka given?",
@@ -632,7 +632,7 @@ AUTHORED["78"] = {
     "title": "क्षामप्रसन्नवदनाम्",
     "question": "By what signs does verse 78 say one should know a woman to be in her ṛtu?",
     "rule": ("One should know a woman to be in her ṛtu (ṛtumatī) who has a lean, clear face, throbbing hips and breasts, "
-             "drooping eyes and belly, and desire for a man."),
+             "drooping eyes (reading probable) and belly, and desire for a man."),
     "limits": ("The printed अक्षु is read as अक्षि (eye), a possible correction; the printed पुंस्कामा is read as accusative "
                "पुंस्कामाम्. No question rests on the eye. The verse gives signs only, no cause or time."),
     "explain_hi": ("यह अनुष्टुभ् श्लोक ऋतुमती स्त्री के लक्षण देता है; सारे विशेषण द्वितीया स्त्रीलिंग में ‘स्त्रियम्’ के साथ हैं, क्रिया ‘विद्यात्’ "
@@ -645,7 +645,7 @@ AUTHORED["78"] = {
             ("As one in her ṛtu (ऋतुमती)", "विद्याद् ऋतुमतीं स्त्रियम्: know her as a woman in her ṛtu."),
             [("As one already pregnant", "Pregnancy is not named in the verse."),
              ("As one with an ārtava fault", "No fault is named; these are signs of the ṛtu."),
-             ("As one past her ṛtu", "The past ṛtu is the theme of verse 79.")],
+             ("As one past her ṛtu", "The signs mark a woman in her ṛtu (ऋतुमती), not one past it.")],
             "The signs mark a ṛtumatī, a woman in her season.",
             "ऋतुमती = a woman in her ṛtu."),
         order(1, "Put these phrases of verse 78 in their printed order.",
@@ -688,13 +688,13 @@ AUTHORED["78"] = {
 AUTHORED["79"] = {
     "title": "पद्मं संकोचमायाति",
     "question": "What simile does verse 79 use for the yoni, and what does the yoni then not do?",
-    "rule": ("As a lotus contracts when the day has passed, so when the ṛtu has passed that yoni does not receive semen inside."),
+    "rule": ("As a lotus contracts when the day has passed, so (when the ṛtu has passed, reading probable) that yoni does not receive semen inside."),
     "limits": ("The printed कृतावतीते is read as ऋतावतीते (ऋतौ अतीते, when the ṛtu has passed) by changing one letter; no question "
                "rests on that word. The exact organ meant by yoni is not specified by the word."),
     "explain_hi": ("यह अनुष्टुभ् श्लोक ‘यथा … तथा’ की उपमा है। जैसे दिन बीत जाने पर कमल सिकुड़ जाता है, वैसे ही (ऋतु बीत जाने पर) वह योनि "
                    "शुक्र को भीतर ग्रहण नहीं करती। ‘ऋतु बीतने पर’ वाला शब्द छपाई में ‘कृतावतीते’ है; एक अक्षर बदलकर ‘ऋतावतीते’ "
                    "पढ़ा गया, यह अनुमान है। उपमा के पक्के अंश: कमल ↔ योनि, सिकुड़ना ↔ शुक्र ग्रहण न करना।"),
-    "hook": "साँझ को कमल बंद; ऋतु बीते तो योनि भी बंद।",
+    "hook": "साँझ को कमल बंद; (ऋतु बीते, पाठ सम्भावित) तो योनि भी बंद।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By verse 79, what happens to the lotus when the day has passed?",
@@ -723,7 +723,7 @@ AUTHORED["79"] = {
         mcq("apply", 4, "In the simile of verse 79, what stands for the lotus?",
             ("The yoni (योनिः सा)", "यथा पद्मम् … तथा योनिः: the yoni matches the lotus."),
             [("The semen", "The semen is what is not received."),
-             ("The day", "The day matches the ṛtu, the time that passes."),
+             ("The day", "The day is the time that passes in the lotus half; it is not the lotus."),
              ("The face of the woman in her ṛtu", "No face is named in this verse.")],
             "Lotus ↔ yoni; contracting ↔ not receiving semen inside.",
             "यथा X … तथा Y: X is the likeness of Y."),
@@ -743,7 +743,7 @@ AUTHORED["80"] = {
     "title": "मासेनोपचितं रक्तम्",
     "question": "What does verse 80 say of the blood that comes in the ṛtu?",
     "rule": ("Blood accumulated over a month, in the ṛtu again, by the two dhamanīs, slightly dark and ill-smelling: Vāyu "
-             "(probably) sends it out from the mouth of the yoni."),
+             "sends it out from the mouth of the yoni (verb reading probable: सृजेत्)."),
     "limits": ("The printed verb सृदेत् is not a form; सृजेत् (would send out) is a possible correction, so no question rests on "
                "the verb. Dhamanī is a vessel or channel (probable); the two are not named."),
     "explain_hi": ("यह अनुष्टुभ् श्लोक एक ही वाक्य है। एक मास में संचित रक्त, ऋतु में फिर, दो धमनियों द्वारा, थोड़ा काला और दुर्गन्ध वाला: "
@@ -764,7 +764,7 @@ AUTHORED["80"] = {
               "Line 1: the blood, the two vessels, in the ṛtu again; line 2: its colour and smell, Vāyu, from the yoni's mouth.",
               "रक्तम् → धमनीभ्याम् → ऋतौ पुनः → ईषत्कृष्णम् → वायुः → योनिमुखात्."),
         T(match(2, "Match each word of verse 80 to its meaning on the card.",
-                [["धमनी", "vessel, channel"], ["ईषत्", "slightly"], ["विगन्ध", "ill-smelling"],
+                [["धमनी", "vessel, channel (probable)"], ["ईषत्", "slightly"], ["विगन्ध", "ill-smelling"],
                  ["योनिमुख", "mouth of the yoni"], ["उपचित", "accumulated"]],
                 "Five words describe the blood and its way out.",
                 "धमनी, ईषत्, विगन्ध, योनिमुख, उपचित.", role="extend"),
@@ -841,7 +841,7 @@ NOTES_HI = {
 AIDS = {
     "67": {
         "frame": "दोष (सप्तमी): कुणपरेतसि → द्रव्य (तृतीया): धातकीपुष्प, खदिर, अर्जुन, दाडिम → सिद्धं सर्पिः → पाययेत्।",
-        "chunks": "कुणपरेतसि | धातकीपुष्पखदि(र)ार्जुनदाडिमैः | सिद्धम् | अमनादिभिर्वा (क्षतिग्रस्त) | सर्पिः पाययेत्।",
+        "chunks": "कुणपरेतसि | धातकीपुष्पखदिार्जुनदाडिमैः (पढ़ें: खदिर-अर्जुन) | सिद्धम् | अमनादिभिर्वा (क्षतिग्रस्त) | सर्पिः पाययेत्।",
         "sandhi": "अ + अ → आ: खदिर + अर्जुन → खदिरार्जुन · इः + व → इर्व: अमनादिभिः + वा → अमनादिभिर्वा।",
     },
     "68": {
@@ -857,7 +857,7 @@ AIDS = {
             {"label": "पहला योग", "items": ["हिङ्गु", "उशीर (अनुमान)", "चित्रक"]},
             {"label": "अथवा: सिद्ध योग", "items": ["चित्रक", "वितुन्नक", "प्रियङ्गु", "हिङ्गु", "समङ्गा", "मृणाल"]},
             {"label": "प्रतीवाप", "items": ["एला-चूर्ण", "मोच-चूर्ण"]}]},
-        "sandhi": "ऐः + अ → ऐर: चित्रकैः + अथवा → चित्रकैरथवा · म् + ए: सिद्धम् + एला → सिद्धमेला · आ + अ → आऽ: वायुना + अति → वायुनाऽति।",
+        "sandhi": "ऐः + अ → ऐर: चित्रकैः + अथवा → चित्रकैरथवा · म् + ए: सिद्धम् + एला → सिद्धमेला · आ + अ → आ (छपाई ऽ लगाती है): वायुना + अति → वायुनाऽति।",
         "anchors": "चित्रक और हिङ्गु दोनों सूचियों में: ‘दो पुराने मित्र, दोनों जगह’ (मेरी याद-पद्धति)।",
     },
     "70": {
@@ -874,10 +874,13 @@ AIDS = {
         "frame": "दो द्विवचन साथ-साथ: कल्क-क्वाथ, धारण-आचमन; कौन किसके साथ, पाठ नहीं कहता।",
     },
     "72": {
-        "chain": {"steps": ["शुक्र-आर्तव के सब दोष", "स्त्री और पुरुष दोनों", "स्नेह आदि कर्म", "विशेषतः उत्तरबस्ति",
-                            "बार-बार उपचार"]},
+        "diagram": {"groups": [
+            {"label": "कब", "items": ["शुक्र-आर्तव के सब दोषों में"]},
+            {"label": "किसका", "items": ["स्त्री और पुरुष दोनों"]},
+            {"label": "किससे", "items": ["स्नेह आदि कर्म", "विशेषतः उत्तरबस्ति"]},
+            {"label": "कितनी बार", "items": ["बार-बार"]}]},
         "sandhi": "अ + उ → ओ: विशेषेण + उत्तर → विशेषेणोत्तर · इः + व → इर्व: कर्मभिः + विशेषेण → कर्मभिर्विशेषेण · पुनर् + उ → पुनरु।",
-        "anchors": "‘स्त्रीपुंसौ’: दोष एक का, उपचार दोनों का।",
+        "anchors": "‘स्त्रीपुंसौ’: शुक्र या आर्तव, कोई भी दोष हो, उपचार दोनों का।",
     },
     "73": {
         "frame": "क्रिया ‘उपाचरेत्’ इकाई ७२ से · कहाँ: योनौ · कैसे: यथास्वम् · किससे: कल्कैः, पिचुभिः।",
@@ -887,7 +890,7 @@ AIDS = {
     "74": {
         "frame": "पंक्ति १: शुद्ध हुए दोनों → पूर्वोक्त विधि का पालन · पंक्ति २: ऋतु = दृष्टार्तव, बारह रात।",
         "sandhi": "अ + उ → ओ: पूर्व + उक्तम् → पूर्वोक्तम् · अः + घोष → ओ: दृष्टार्तवः + द्वादश → दृष्टार्तवो द्वादश · उः + त → उस्त: ऋतुः + तु → ऋतुस्तु।",
-        "anchors": "बारह = द्वादश; दोनों ‘द’ से: ‘द्वादश, दृष्ट’।",
+        "anchors": "बारह = द्वादश; दोनों ‘द’ से: ‘द्वादश, दृष्ट’ (मेरी याद-पद्धति)।",
     },
     "75": {
         "sandhi": "इ + अ → य: इति + अन्ये → इत्यन्ये · म् + इ: षोडशरात्रम् + इति → षोडशरात्रमिति।",
@@ -902,7 +905,7 @@ AIDS = {
         "chunks": "शुद्ध-योनि-गर्भाशय-आर्तवायाः | मासम् अपि | तु | केचित्।",
     },
     "77": {
-        "seesaw": "इकाई ७४: दृष्टार्तव (आर्तव दिखे) ↔ इकाई ७७: अदृष्टार्तव (आर्तव न दिखे)।",
+        "contrast": "इकाई ७४: दृष्टार्तव (आर्तव दिखे) ↔ इकाई ७७: अदृष्टार्तव (आर्तव न दिखे)।",
         "sandhi": "त् + अ → द: तद्वत् + अदृष्ट → तद्वददृष्ट · अः + अ → ओऽ: अदृष्टार्तवः + अपि → अदृष्टार्तवोऽपि · इ + अ → य: अपि + अस्ति → अप्यस्ति।",
         "chunks": "तद्वत् | अदृष्टार्तवः | अपि अस्ति | इति अपरे।",
     },
@@ -952,20 +955,22 @@ IMAGE_SPECS = {
                  "  A -->|\"अथवा\"| C[\"चित्रक, वितुन्नक,<br/>प्रियङ्गु, हिङ्गु,<br/>समङ्गा, मृणाल से सिद्ध\"]\n"
                  "  C --> D[\"प्रतीवाप:<br/>एला-मोच चूर्ण\"]\n"),
     },
-    ("72", "chain"): {
+    ("72", "diagram"): {
         "file": "sh1-stripumsau-72.svg",
-        "alt": ("Chain of unit 72: in all faults of semen and artava, treat both woman and man, with the actions beginning "
-                "with sneha, especially uttarabasti, again and again."),
-        "type": "chain",
+        "alt": ("Table of unit 72: when, in all faults of semen and artava; whom, both woman and man; with what, the actions "
+                "beginning with sneha, especially uttarabasti; how often, again and again."),
+        "type": "table",
         "title": "सब दोषों में (इकाई ७२)",
-        "steps": ["शुक्र-आर्तव के सब दोष", "स्त्री और पुरुष दोनों", "स्नेह आदि कर्म", "विशेषतः उत्तरबस्ति", "बार-बार उपचार"],
+        "heads": ["प्रश्न", "उत्तर"],
+        "rows": [["कब", "शुक्र-आर्तव के सब दोषों में"], ["किसका", "स्त्री और पुरुष दोनों"],
+                 ["किससे", "स्नेह आदि कर्म; विशेषतः उत्तरबस्ति"], ["कितनी बार", "बार-बार"]],
     },
     ("76", "contrast"): {
         "file": "sh1-ritu-kala-76.svg",
         "alt": ("Table of the views on the length of the ritu in units 74 to 76: the text, twelve nights; others, sixteen "
                 "nights; some, even a month for a woman whose yoni, womb and artava are pure."),
         "type": "table",
-        "title": "ऋतु कितने दिन? (इकाई ७४-७६)",
+        "title": "ऋतु कितनी रातें? (इकाई ७४-७६)",
         "heads": ["किसका मत", "अवधि"],
         "rows": [["पाठ (इकाई ७४)", "१२ रात"],
                  ["अन्ये (इकाई ७५)", "१६ रात"],
