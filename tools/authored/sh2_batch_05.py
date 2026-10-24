@@ -547,7 +547,7 @@ AUTHORED["60"] = {
               "Then → in sequence → to the navel.",
               "ततः → क्रमात् → नाभिम्."),
         fill(2, "Unit 60 reads ततः क्रमात् ____ (to the navel). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("नाभिम्"),
+             accepts("नाभिम्", None, "nabhim"),
              "नाभिम् is the accusative of नाभि (navel): to the navel.",
              "नाभिम् (acc. of नाभि) = to the navel.",
              "नाभिम् = to the navel."),

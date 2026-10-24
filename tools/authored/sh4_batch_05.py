@@ -274,7 +274,7 @@ AUTHORED["59"] = {
               "With that, milk as the after-drink, one should take.",
               "तेन, क्षीर, अनुपान, उपयुञ्जीत."),
         fill(2, "A liquid taken after a dose is called ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("अनुपान", None, "अनुपानम्"),
+             accepts("अनुपान", None, "अनुपानम्", "anupana", "anupanam"),
              "अनुपान = after-drink; in unit 59 it is milk: क्षीरानुपानम्.",
              "अनुपान = a liquid taken after the dose: क्षीरानुपान = with milk as the after-drink.",
              "क्षीर + अनुपान = क्षीरानुपान."),

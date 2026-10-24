@@ -277,7 +277,7 @@ AUTHORED["5"] = {
               "Five words make the whole line.",
               "न, च, अभ्यङ्ग, उद्वर्तन, सेवेत."),
         T(fill(2, "In unit 5, oil massage is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-               accepts("अभ्यङ्ग"),
+               accepts("अभ्यङ्ग", None, "abhyanga"),
                "अभ्यङ्ग = oil massage; printed अभ्यंग.",
                "अभ्यङ्ग = oil massage.",
                "अभ्यङ्ग = oil massage."),

@@ -397,7 +397,7 @@ AUTHORED["87"] = {
             "अथ (then) + अष्टम्याम् (on the eighth).",
             "अ + अ → आ."),
         fill(4, "One desiring a son is called ____ in unit 87 (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("पुत्रकामः", None, "पुत्रकाम"),
+             accepts("पुत्रकामः", None, "पुत्रकाम", "putrakamah", "putrakama"),
              "पुत्रकामः संविशेत्: one desiring a son should lie together.",
              "पुत्र (son) + काम (desire): one whose desire is a son.",
              "पुत्रकाम = one desiring a son.", role="apply"),

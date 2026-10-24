@@ -154,7 +154,7 @@ AUTHORED["136"] = {
               "Country, family, by conformity, and, difference of colour.",
               "देश → कुल → अनुवृत्तितः → च → वर्णभेदः."),
         T(fill(2, "In unit 136, the word for colour (of the skin) is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-               accepts("वर्ण"),
+               accepts("वर्ण", None, "varna"),
                "वर्णभेदः = वर्ण (colour) + भेद (difference).",
                "वर्ण here = colour of the skin.",
                "वर्ण = colour."),

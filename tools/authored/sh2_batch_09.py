@@ -559,7 +559,7 @@ AUTHORED["110"] = {
               "Alone, तथा adds a point; with यथा it answers 'as'; तद्यथा opens a list.",
               "तथा = likewise; यथा … तथा = as … so; तद्यथा = namely."),
         fill(2, "The one word of unit 110, meaning likewise, is ____. Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("तथा"),
+             accepts("तथा", None, "tatha"),
              "तथा = likewise, also.",
              "तथा means in that way: likewise, also.",
              "तथा = likewise."),

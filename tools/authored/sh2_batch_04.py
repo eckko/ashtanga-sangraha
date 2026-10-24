@@ -154,7 +154,7 @@ AUTHORED["41"] = {
               "Four members make the whole line.",
               "सप्तमे, सर्व, अङ्ग, संपूर्णता."),
         T(fill(2, "In unit 41, the word for limb is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-               accepts("अङ्ग"),
+               accepts("अङ्ग", None, "anga"),
                "सर्वाङ्ग = सर्व (all) + अङ्ग (limb); printed सर्वांग.",
                "अङ्ग = limb.",
                "अङ्ग = limb."),
