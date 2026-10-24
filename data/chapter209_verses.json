@@ -1,0 +1,6408 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāto",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtāṃgavijñānīyamadhyāyaṃ",
+      "words": [
+       {
+        "w": "vikṛta-aṅga-vijñānīyam",
+        "gloss": "concerning knowledge of abnormal limbs/body parts",
+        "gram": "tat-puruṣa, adj. m. acc. sg."
+       },
+       {
+        "w": "adhyāyam",
+        "gloss": "chapter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyāsyāmaḥ",
+      "words": [
+       {
+        "w": "vyākhyāsyāmaḥ",
+        "gloss": "we shall expound",
+        "gram": "1 pl. fut. vi+ā+√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब इसलिए हम विकृत अंगों के ज्ञान वाले अध्याय की व्याख्या करेंगे।",
+  "english": "Now, therefore, we shall expound the chapter on the knowledge of abnormal body parts (vikṛtāṅgavijñānīya).",
+  "text_flags": [],
+  "notes": "Standard chapter-opening formula. The chapter title is read as vikṛta-aṅga-vijñānīya, 'concerning the knowledge of abnormal limbs/parts of the body'; the adjective qualifies adhyāyam.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.1"
+  ],
+  "lines_deva": [
+   "अथातो विकृतांगविज्ञानीयमध्यायं व्याख्यास्यामः"
+  ],
+  "lines_iast": [
+   "athāto vikṛtāṃgavijñānīyamadhyāyaṃ vyākhyāsyāmaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 1"
+  ]
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svasthanāmāturāṇāṃ",
+      "words": [
+       {
+        "w": "svasthānām",
+        "gloss": "of the healthy",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "āturāṇām",
+        "gloss": "of the afflicted",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣāṇāṃ",
+      "words": [
+       {
+        "w": "puruṣāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dehāṃtarābhilāṣiṇāmauṣadhaviṣayamatītāḥsakalaśarīravyāpino",
+      "words": [
+       {
+        "w": "deha-antara-abhilāṣiṇām",
+        "gloss": "of those desiring another body",
+        "gram": "bahuvrīhi, m. gen. pl."
+       },
+       {
+        "w": "auṣadha-viṣayam",
+        "gloss": "range of medicine",
+        "gram": "tat-puruṣa, m. acc. sg."
+       },
+       {
+        "w": "atītāḥ",
+        "gloss": "gone beyond",
+        "gram": "ppp. √i + ati, m. nom. pl."
+       },
+       {
+        "w": "sakala-śarīra-vyāpinaḥ",
+        "gloss": "pervading the whole body",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "doṣā",
+      "words": [
+       {
+        "w": "doṣāḥ",
+        "gloss": "doṣas (humours)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ghanāghanā",
+      "words": [
+       {
+        "w": "ghanāghanāḥ",
+        "gloss": "clouds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṣamāyuṣaḥ",
+      "words": [
+       {
+        "w": "varṣam",
+        "gloss": "rain",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āyuṣaḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣayaṃ",
+      "words": [
+       {
+        "w": "kṣayam",
+        "gloss": "decay, destruction",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūcayaṃto'kasmātsvabhāvaviparyyāsaṃ",
+      "words": [
+       {
+        "w": "sūcayantaḥ",
+        "gloss": "indicating",
+        "gram": "pres. part. √sūc, m. nom. pl."
+       },
+       {
+        "w": "akasmāt",
+        "gloss": "suddenly, without cause",
+        "gram": "ind."
+       },
+       {
+        "w": "svabhāva-viparyāsam",
+        "gloss": "reversal of natural state",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janayaṃti",
+      "words": [
+       {
+        "w": "janayanti",
+        "gloss": "produce",
+        "gram": "3 pl. pres. caus. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वस्थ या रोगी पुरुषों में, जो दूसरे शरीर की इच्छा करने वाले हैं, औषध की पहुँच से परे गए, पूरे शरीर में फैलने वाले दोष, बादल जैसे वर्षा को सूचित करते हैं वैसे ही आयु के क्षय को सूचित करते हुए, अचानक स्वभाव का विपर्यास उत्पन्न करते हैं।",
+  "english": "The doṣas (humours) that have gone beyond the range of medicine and pervade the whole body, in men, whether healthy or afflicted, who desire another body, indicating the decay of life as clouds (indicate) rain, suddenly produce a reversal of natural state.",
+  "text_flags": [
+   {
+    "src": "svasthanāmāturāṇāṃ",
+    "suggest": "svasthānām āturāṇām",
+    "why": "possible: 'svasthanām' lacks the long ā of the genitive plural svasthānām; the split svastha-nām is also conceivable but gives no sense"
+   }
+  ],
+  "notes": "Elliptical comparison: 'ghanāghanā iva varṣam' takes its participle sūcayantaḥ from the next phrase (clouds indicating rain). ghanāghana is read as 'cloud'; other senses (dense, elephant) are not suitable here. The genitive plurals (of the healthy or afflicted men) are rendered 'in men'. dehāntarābhilāṣiṇām is literally 'desiring another body'; the text does not say 'dying'. Normalisation: viparyyāsa (doubled y) read viparyāsa.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.2"
+  ],
+  "lines_deva": [
+   "स्वस्थनामातुराणां वा पुरुषाणां देहांतराभिलाषिणामौषधविषयमतीताःसकलशरीरव्यापिनो दोषा घनाघना इव वर्षमायुषः क्षयं सूचयंतोऽकस्मात्स्वभावविपर्य्यासं जनयंति"
+  ],
+  "lines_iast": [
+   "svasthanāmāturāṇāṃ vā puruṣāṇāṃ dehāṃtarābhilāṣiṇāmauṣadhaviṣayamatītāḥsakalaśarīravyāpino doṣā ghanāghanā iva varṣamāyuṣaḥ kṣayaṃ sūcayaṃto'kasmātsvabhāvaviparyyāsaṃ janayaṃti"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 2"
+  ]
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatsamāsato",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "samāsataḥ",
+        "gloss": "in brief",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "riṣṭamityāhuḥ",
+      "words": [
+       {
+        "w": "riṣṭam",
+        "gloss": "riṣṭa (ill-omen, sign of approaching death)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. perf. √ah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे संक्षेप में रिष्ट यानी अनिष्ट सूचक लक्षण कहते हैं।",
+  "english": "In brief, they call that riṣṭa (an ill-omen, a sign of approaching death).",
+  "text_flags": [],
+  "notes": "riṣṭa is a doctrinal term (a sign foretelling death); the gloss is a plain explanation, not a modern equivalent.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.3"
+  ],
+  "lines_deva": [
+   "तत्समासतो रिष्टमित्याहुः"
+  ],
+  "lines_iast": [
+   "tatsamāsato riṣṭamityāhuḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 3"
+  ]
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gauro'gauraḥ",
+      "words": [
+       {
+        "w": "gauraḥ",
+        "gloss": "fair",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agauraḥ",
+        "gloss": "not fair",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyāmo",
+      "words": [
+       {
+        "w": "śyāmaḥ",
+        "gloss": "dusky",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'śyāmaḥ",
+      "words": [
+       {
+        "w": "aśyāmaḥ",
+        "gloss": "not dusky",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇo",
+      "words": [
+       {
+        "w": "kṛṣṇaḥ",
+        "gloss": "black",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'kṛṣṇaiti",
+      "words": [
+       {
+        "w": "akṛṣṇaḥ",
+        "gloss": "not black",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dehaprakṛtivarṇāḥ",
+      "words": [
+       {
+        "w": "deha-prakṛti-varṇāḥ",
+        "gloss": "colours of the body's natural state",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें गौर या अगौर, श्याम या अश्याम, कृष्ण या अकृष्ण, ये देह की प्रकृति के वर्ण हैं।",
+  "english": "Among these: fair or not fair, dusky or not dusky, black or not black: these are the colours of the body's natural state.",
+  "text_flags": [],
+  "notes": "The meaning of the a- forms is literal 'not fair' etc.; a sense 'slightly' (not very fair) is possible but not stated. 'or' is supplied to show the pairs; the text has none. prakṛti here is rendered 'natural state'. Reviewer: the printed Devanagari has a separate vowel इ (अकृष्ण इति written without a space), so there is no sandhi error and no typo; only the space is missing.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.4"
+  ],
+  "lines_deva": [
+   "तत्र गौरोऽगौरः श्यामो ऽश्यामः कृष्णो ऽकृष्णइति देहप्रकृतिवर्णाः"
+  ],
+  "lines_iast": [
+   "tatra gauro'gauraḥ śyāmo 'śyāmaḥ kṛṣṇo 'kṛṣṇaiti dehaprakṛtivarṇāḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 4"
+  ]
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tadbhedāśca",
+      "words": [
+       {
+        "w": "tad-bhedāḥ",
+        "gloss": "its varieties",
+        "gram": "tat-puruṣa, m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "padmagaurādayaḥ",
+      "words": [
+       {
+        "w": "padma-gaura-ādayaḥ",
+        "gloss": "lotus-fair and the like (padma = lotus, Nelumbo nucifera; standard)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उनके भेद पद्मगौर यानी कमल के समान गौर आदि हैं।",
+  "english": "And its varieties are lotus-fair (padmagaura) and the like.",
+  "text_flags": [],
+  "notes": "Verb understood (copula); none supplied beyond 'are'. padmagaura is read as 'fair like a lotus'; padma = lotus, Nelumbo nucifera (standard).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.5"
+  ],
+  "lines_deva": [
+   "तद्भेदाश्च पद्मगौरादयः"
+  ],
+  "lines_iast": [
+   "tadbhedāśca padmagaurādayaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 5"
+  ]
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nīlaśyāmattāmrahāridraśuklādayastu",
+      "words": [
+       {
+        "w": "nīla-śyāma-tāmra-hāridra-śukla-ādayaḥ",
+        "gloss": "blue, dusky, copper-coloured, turmeric-yellow (haridrā, Curcuma longa; standard), white and the like",
+        "gram": "dvandva + ādi, m. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtayaḥtatra",
+      "words": [
+       {
+        "w": "vikṛtayaḥ",
+        "gloss": "abnormalities",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtivikṛtivarṇau",
+      "words": [
+       {
+        "w": "prakṛti-vikṛti-varṇau",
+        "gloss": "the natural-state colour and the abnormal colour",
+        "gram": "dvandva-based, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "yugapadgaṃdhegaikadeśe",
+      "words": [
+       {
+        "w": "yugapadgaṃdhegaikadeśe",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maraṇāya",
+      "words": [
+       {
+        "w": "maraṇāya",
+        "gloss": "for death",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नील, श्याम, ताम्र, हारिद्र यानी हल्दी के रंग के, शुक्ल आदि तो विकृतियाँ हैं। उनमें प्रकृति का वर्ण और विकृति का वर्ण, छपाई बिगड़ी होने से अस्पष्ट शब्द के साथ या, मृत्यु के लिए होते हैं।",
+  "english": "But blue, dusky, copper-coloured, turmeric-yellow, white and the like are abnormalities. Among these, the natural-state colour and the abnormal colour, unclear (damaged print: yugapadgaṃdhegaikadeśe, followed by vā 'or'), are for death.",
+  "text_flags": [
+   {
+    "src": "yugapadgaṃdhegaikadeśe",
+    "suggest": "yugapad gātraikadeśe",
+    "why": "possible: 'gaṃdhega' is meaningless here; 'gātra-ekadeśe' (in one part of the body) fits the sense and the printed letters loosely (gā-tra / gaṃdhe-ga)"
+   },
+   {
+    "src": "nīlaśyāmattāmra",
+    "suggest": "nīlaśyāmatāmra",
+    "why": "possible: extra t in 'śyāmat-tāmra'; read śyāma-tāmra"
+   }
+  ],
+  "notes": "The word 'yugapadgaṃdhegaikadeśe' is damaged and kept unsplit; the conjecture 'yugapad gātra-ekadeśe' (at once, or in one part of the body) stays in the flag and this note only; the translations say 'unclear' (glossary rule). 'vikṛtayaḥtatra' has a missing space (vikṛtayaḥ tatra). The verb is understood ('are'). maraṇāya is dative, 'for death', i.e. leading to death.",
+  "confidence": "low",
+  "type": "prose",
+  "line_ids": [
+   "02.09.6"
+  ],
+  "lines_deva": [
+   "नीलश्यामत्ताम्रहारिद्रशुक्लादयस्तु विकृतयःतत्र प्रकृतिविकृतिवर्णौ युगपद्गंधेगैकदेशे वा मरणाय"
+  ],
+  "lines_iast": [
+   "nīlaśyāmattāmrahāridraśuklādayastu vikṛtayaḥtatra prakṛtivikṛtivarṇau yugapadgaṃdhegaikadeśe vā maraṇāya"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 6"
+  ]
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etenamlānyuracayaśokaharṣaraukṣyasnehādayastathā",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "mlāni-upacaya-śoka-harṣa-raukṣya-sneha-ādayaḥ",
+        "gloss": "fading, growth, grief, joy, dryness, unctuousness and the like",
+        "gram": "dvandva + ādi, nom. pl."
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhedīyoktānāṃ",
+      "words": [
+       {
+        "w": "prakṛti-bhedīya-uktānām",
+        "gloss": "of those stated in the (passage) on varieties of prakṛti",
+        "gram": "tat-puruṣa, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahadupacayasūkṣmadīrghāṇāṃ",
+      "words": [
+       {
+        "w": "mahat-upacaya-sūkṣma-dīrghāṇām",
+        "gloss": "large, plump, fine, long (ones)",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "of all",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣādibhāgena",
+      "words": [
+       {
+        "w": "doṣa-ādi-bhāgena",
+        "gloss": "by the division of doṣas etc.",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratiniyatānāṃbhāvānāmanimittato'nyathātvamuktaṃ",
+      "words": [
+       {
+        "w": "pratiniyatānām",
+        "gloss": "determined",
+        "gram": "ppp. prati+ni+√yam, gen. pl."
+       },
+       {
+        "w": "bhāvānām",
+        "gloss": "of states",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "animittataḥ",
+        "gloss": "without cause",
+        "gram": "ind."
+       },
+       {
+        "w": "anyathātvam",
+        "gloss": "being otherwise",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "uktam",
+        "gloss": "stated",
+        "gram": "ppp. √vac, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे मुरझाना, अनुमानित पाठ पर वृद्धि, शोक, हर्ष, रूखापन, स्निग्धता आदि, तथा प्रकृतिभेदीय में कहे गए बड़े, उपचित, सूक्ष्म, दीर्घ, और दोष आदि के भाग से नियत सभी भावों का बिना कारण अन्यथा होना कहा गया है।",
+  "english": "By this, the being otherwise without cause of fading, growth (on a conjectural reading), grief, joy, dryness, unctuousness and the like, and likewise of all the states stated in the (passage) on varieties of prakṛti (large, plump, fine, long) and determined by the division of doṣas etc., is stated.",
+  "text_flags": [
+   {
+    "src": "etenamlānyuracayaśoka",
+    "suggest": "etena mlāny upacayaśoka",
+    "why": "possible: 'uracaya' is not a word; 'upacaya' (growth), the same word as in mahadupacaya later in the line, fits the sense (r misread for p); also the missing space after etena"
+   }
+  ],
+  "notes": "The construction is loose; the genitives 'prakṛtibhedīyoktānām ... sarveṣām ... bhāvānām' are taken as the things whose being otherwise is stated, and the list in the nominative is taken with the same. mlāni = fading, withering; upacaya = growth, plumpness (alternatives possible). 'prakṛtibhedīya' is read as the section on the varieties of prakṛti; its identity is not stated in the line. 'pratiniyatānāṃbhāvānām' has a missing space.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.7"
+  ],
+  "lines_deva": [
+   "एतेनम्लान्युरचयशोकहर्षरौक्ष्यस्नेहादयस्तथा प्रकृतिभेदीयोक्तानां महदुपचयसूक्ष्मदीर्घाणां सर्वेषां च दोषादिभागेन प्रतिनियतानांभावानामनिमित्ततोऽन्यथात्वमुक्तं भवति"
+  ],
+  "lines_iast": [
+   "etenamlānyuracayaśokaharṣaraukṣyasnehādayastathā prakṛtibhedīyoktānāṃ mahadupacayasūkṣmadīrghāṇāṃ sarveṣāṃ ca doṣādibhāgena pratiniyatānāṃbhāvānāmanimittato'nyathātvamuktaṃ bhavati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 7"
+  ]
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chāyāstu",
+      "words": [
+       {
+        "w": "chāyāḥ",
+        "gloss": "chāyās (shades, lustres)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṃca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शरीर में छायाएँ पाँच हैं।",
+  "english": "As for the chāyās (shades or lustres), there are five in the body.",
+  "text_flags": [],
+  "notes": "chāyā is a technical term: shade, lustre or reflection of the body; the next units describe the five by element, so it is kept as chāyā with the general gloss 'shade, lustre'.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.8"
+  ],
+  "lines_deva": [
+   "छायास्तु शरीरे पंच"
+  ],
+  "lines_iast": [
+   "chāyāstu śarīre paṃca"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 8"
+  ]
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khādamlakhaṅgākāśanīlanirmalā",
+      "words": [
+       {
+        "w": "khādamlakhaṅgākāśanīlanirmalā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "sasnehā",
+      "words": [
+       {
+        "w": "sa-snehā",
+        "gloss": "unctuous",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saprabheva",
+      "words": [
+       {
+        "w": "sa-prabhā",
+        "gloss": "with lustre",
+        "gram": "bahuvrīhi, f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vātātpāṃśubhasmarūkṣā",
+      "words": [
+       {
+        "w": "vātāt",
+        "gloss": "from wind (vāta)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "pāṃśu-bhasma-rūkṣā",
+        "gloss": "dry as dust and ash",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rajo'ruṇā",
+      "words": [
+       {
+        "w": "rajaḥ-aruṇā",
+        "gloss": "dust-reddish",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyāvā",
+      "words": [
+       {
+        "w": "śyāvā",
+        "gloss": "dark brown",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣprabhā",
+      "words": [
+       {
+        "w": "niḥ-prabhā",
+        "gloss": "lacking lustre",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svedamalagaṃdhiḥ",
+      "words": [
+       {
+        "w": "sveda-mala-gandhiḥ",
+        "gloss": "smelling of sweat-waste (sveda-mala)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें छपाई बिगड़ने से अस्पष्ट शब्द; स्निग्ध, मानो प्रभा सहित। वात यानी वायु से आने वाली छाया धूल और राख के समान रूखी, धूल से लाल, श्याव, प्रभाहीन और स्वेदमल की गन्ध वाली होती है।",
+  "english": "Among these, unclear (damaged print: khādamlakhaṅgākāśanīlanirmalā); unctuous, as if with lustre (prabhā). From wind (vāta): dry as dust and ash, dust-reddish, dark brown, lacking lustre, smelling of sweat-waste (sveda-mala).",
+  "text_flags": [
+   {
+    "src": "khādamlakhaṅgākāśanīlanirmalā",
+    "suggest": "khād amala-khaḍgākāśa-nīla-nirmalā",
+    "why": "possible: 'khādamla' is not intelligible; the pattern of units 10 to 13 (vātāt, tejasaḥ, aṃbhasaḥ, bhuvaḥ) calls for an ablative of the element (khāt, from ether) and amala 'stainless' fits; 'khaṅga' probably for 'khaḍga' (sword), ḍ/ṅ confusion"
+   }
+  ],
+  "notes": "[02.09.9] The long compound is damaged and kept unsplit; the translations say 'unclear' and the guess stays in the flag only (glossary rule). The element is ether (ākāśa), by the pattern of the next four units. 'saprabheva' = saprabhā iva. [02.09.10] The noun chāyā is understood from unit 8 (the five shades); no noun is stated here, the adjectives are feminine singular. 'pāṃśubhasmarūkṣā' is read 'dry as dust and ash'; 'rajo'ruṇā' 'reddish with dust' (rajas read as dust; no other sense is stated). The final 'gandhiḥ' is the regular feminine of the i-stem adjective -gandhi. mala here is the waste (sveda-mala, sweat-waste), not an added disease.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.9",
+   "02.09.10"
+  ],
+  "lines_deva": [
+   "तत्र खादम्लखङ्गाकाशनीलनिर्मला सस्नेहा सप्रभेव",
+   "वातात्पांशुभस्मरूक्षा रजोऽरुणा श्यावा निष्प्रभा स्वेदमलगंधिः"
+  ],
+  "lines_iast": [
+   "tatra khādamlakhaṅgākāśanīlanirmalā sasnehā saprabheva",
+   "vātātpāṃśubhasmarūkṣā rajo'ruṇā śyāvā niṣprabhā svedamalagaṃdhiḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 9",
+   "chunk 1 unit 10"
+  ]
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tejasohutahutāśavidyutasatapanīyaraktā",
+      "words": [
+       {
+        "w": "tejasaḥ",
+        "gloss": "from tejas (fire)",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "hutahutāśavidyutasatapanīyaraktā",
+        "gloss": "unclear",
+        "gram": "unclear"
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭimukhā",
+      "words": [
+       {
+        "w": "dṛṣṭi-mukhā",
+        "gloss": "with eye and face",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेजस् यानी अग्नि से आने वाली छाया, छपाई बिगड़ने से अस्पष्ट शब्द जो रक्त यानी लाल पर समाप्त होता है, दृष्टि और मुख वाली होती है।",
+  "english": "From tejas (fire): unclear (damaged print: hutahutāśavidyutasatapanīyaraktā, ending in raktā 'red'); dṛṣṭimukhā (with eye and face).",
+  "text_flags": [
+   {
+    "src": "hutahutāśavidyutasatapanīyaraktā",
+    "suggest": "huta-hutāśa-vidyut-tapanīya-raktā",
+    "why": "possible: the letters 'asa' after vidyut are unaccounted for; the compound is read as 'red like sacrificed-to fire, lightning and gold (tapanīya)'"
+   }
+  ],
+  "notes": "The compound is damaged and kept unsplit; the translations say 'unclear' and the guess stays in the flag and this note (huta-hutāśa = fire fed with oblation, tapanīya = gold). 'dṛṣṭimukhā' is rendered literally 'with eye and face'; the text does not say that the colour shows in the eyes and face, though this is probable. Normalisation: tejas read as the element fire.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.11"
+  ],
+  "lines_deva": [
+   "तेजसोहुतहुताशविद्युतसतपनीयरक्ता दृष्टिमुखा"
+  ],
+  "lines_iast": [
+   "tejasohutahutāśavidyutasatapanīyaraktā dṛṣṭimukhā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 11"
+  ]
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṃbhaso",
+      "words": [
+       {
+        "w": "ambhasaḥ",
+        "gloss": "from water (ambhas)",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaidūryeṃdrīlavimalā",
+      "words": [
+       {
+        "w": "vaidūrya-indra-nīla-vimalā",
+        "gloss": "clear as vaidūrya (beryl or cat's-eye; identity disputed) and indranīla (sapphire; probable)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghanā",
+      "words": [
+       {
+        "w": "ghanā",
+        "gloss": "dense",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "susnigdhā",
+      "words": [
+       {
+        "w": "su-snigdhā",
+        "gloss": "very unctuous",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhuvo",
+      "words": [
+       {
+        "w": "bhuvaḥ",
+        "gloss": "from earth (bhū)",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "rucirābhā",
+      "words": [
+       {
+        "w": "rucira-ābhā",
+        "gloss": "of pleasing lustre",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghanā",
+      "words": [
+       {
+        "w": "ghanā",
+        "gloss": "dense",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthirā",
+      "words": [
+       {
+        "w": "sthirā",
+        "gloss": "steady",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snigdhāśuddhā",
+      "words": [
+       {
+        "w": "snigdhā",
+        "gloss": "unctuous",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "śuddhā",
+        "gloss": "pure",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyāmā",
+      "words": [
+       {
+        "w": "śyāmā",
+        "gloss": "dusky",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvetā",
+      "words": [
+       {
+        "w": "śvetā",
+        "gloss": "white",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जल से आने वाली छाया वैदूर्य यानी लहसुनिया या बेरिल, पर पहचान विवादित है, और अनुमानित पाठ पर इन्द्रनील यानी सम्भवतः नीलम के समान निर्मल, घनी और अत्यन्त स्निग्ध होती है। पृथ्वी से आने वाली छाया सुन्दर कान्ति वाली, घनी, स्थिर, स्निग्ध, अनुमानित पाठ पर शुद्ध, श्याम और श्वेत होती है।",
+  "english": "From water (ambhas): clear as vaidūrya (beryl or cat's-eye; identity disputed) and, on a conjectural reading, indranīla (probably sapphire); dense, very unctuous. From earth: of pleasing lustre, dense, steady, unctuous, on a conjectural reading pure, dusky and white.",
+  "text_flags": [
+   {
+    "src": "vaidūryeṃdrīlavimalā",
+    "suggest": "vaidūryendranīlavimalā",
+    "why": "possible: 'indrīla' is not a word; 'indranīla' (sapphire) fits the pattern of gem comparisons and the letters"
+   },
+   {
+    "src": "snigdhāśuddhā",
+    "suggest": "snigdhā śuddhā",
+    "why": "possible: as printed the regular sandhi reading is snigdhā + aśuddhā 'unctuous, impure', which sits oddly in a list of good qualities; 'snigdhā śuddhā' (missing space) is assumed"
+   }
+  ],
+  "notes": "[02.09.12] Noun chāyā understood from unit 8. vaidūrya: disputed (cat's-eye chrysoberyl or beryl); indranīla: probably sapphire (a blue gem). [02.09.13] Noun chāyā understood from unit 8. Alternative: aśuddhā 'impure' as the print stands.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.12",
+   "02.09.13"
+  ],
+  "lines_deva": [
+   "अंभसो वैदूर्येंद्रीलविमला घना सुस्निग्धा",
+   "भुवो रुचिराभा घना स्थिरा स्निग्धाशुद्धा श्यामा श्वेता च"
+  ],
+  "lines_iast": [
+   "aṃbhaso vaidūryeṃdrīlavimalā ghanā susnigdhā",
+   "bhuvo rucirābhā ghanā sthirā snigdhāśuddhā śyāmā śvetā ca"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 12",
+   "chunk 1 unit 13"
+  ]
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāsāṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāyavyā",
+      "words": [
+       {
+        "w": "vāyavyā",
+        "gloss": "the one of vāyu (wind)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vināśāya",
+      "words": [
+       {
+        "w": "vināśāya",
+        "gloss": "for destruction",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kleśāya",
+      "words": [
+       {
+        "w": "kleśāya",
+        "gloss": "for affliction",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "cātimahate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-mahate",
+        "gloss": "for very great (affliction)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣāstu",
+      "words": [
+       {
+        "w": "śeṣāḥ",
+        "gloss": "the remaining (ones)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sukhodayāḥ",
+      "words": [
+       {
+        "w": "sukha-udayāḥ",
+        "gloss": "bringing a rise of happiness",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "prabhā",
+      "words": [
+       {
+        "w": "prabhāḥ",
+        "gloss": "prabhās (radiances)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "raktā",
+      "words": [
+       {
+        "w": "raktāḥ",
+        "gloss": "red",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pītā",
+      "words": [
+       {
+        "w": "pītāḥ",
+        "gloss": "yellow",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṃḍurā",
+      "words": [
+       {
+        "w": "pāṇḍurāḥ",
+        "gloss": "pale",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sitā",
+      "words": [
+       {
+        "w": "sitāḥ",
+        "gloss": "white",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'sitā",
+      "words": [
+       {
+        "w": "asitāḥ",
+        "gloss": "black",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śyāvā",
+      "words": [
+       {
+        "w": "śyāvāḥ",
+        "gloss": "dark brown",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "haritā",
+      "words": [
+       {
+        "w": "haritāḥ",
+        "gloss": "green",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें वायु वाली छाया विनाश के लिए और अत्यन्त बड़े क्लेश के लिए होती है; शेष तो सुख के उदय वाली हैं। प्रभाएँ सात हैं: रक्त यानी लाल, पीली, पाण्डुर यानी फीकी, सित यानी सफेद, असित यानी काली, श्याव यानी गहरी भूरी और हरी।",
+  "english": "Of these, the one of vāyu (wind) is for destruction and for very great affliction; the remaining ones, however, are those with a rise of happiness (sukhodaya). There are seven prabhās (radiances): red, yellow, pale, white, black, dark brown and green.",
+  "text_flags": [
+   {
+    "src": "haritā ca",
+    "suggest": "haritāś ca",
+    "why": "possible: visarga before c should become ś (haritāś ca); printed without it (the same dropped visarga before voiceless consonants occurs in raktā pītā, pītā pāṇḍurā, pāṇḍurā sitā; restored in the words as a print habit)"
+   }
+  ],
+  "notes": "[02.09.14] 'atimahate' is taken with kleśāya (for very great affliction); the noun is not repeated in the text. sukhodaya is literally 'rise of happiness'. [02.09.15] Final -āḥ before a voiced consonant is regular sandhi in raktā, pītā etc. asita is rendered 'black' (literally 'not white'); harita 'green' (it can also mean yellowish-green). The 'sitā 'sitā' pair is sitāḥ asitāḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.14",
+   "02.09.15"
+  ],
+  "lines_deva": [
+   "तासां वायव्या विनाशाय क्लेशाय चातिमहते शेषास्तु सुखोदयाः",
+   "सप्त प्रभा रक्ता पीता पांडुरा सिता ऽसिता श्यावा हरिता च"
+  ],
+  "lines_iast": [
+   "tāsāṃ vāyavyā vināśāya kleśāya cātimahate śeṣāstu sukhodayāḥ",
+   "sapta prabhā raktā pītā pāṃḍurā sitā 'sitā śyāvā haritā ca"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 14",
+   "chunk 1 unit 15"
+  ]
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāḥ",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "snigdhā",
+      "words": [
+       {
+        "w": "snigdhāḥ",
+        "gloss": "unctuous",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikāśinyo'malāḥ",
+      "words": [
+       {
+        "w": "vikāśinyaḥ",
+        "gloss": "spreading, radiant",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "amalāḥ",
+        "gloss": "stainless",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śubhāḥ",
+      "words": [
+       {
+        "w": "śubhāḥ",
+        "gloss": "auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viparītāstvaśubhāḥ",
+      "words": [
+       {
+        "w": "viparītāḥ",
+        "gloss": "the opposite (ones)",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       },
+       {
+        "w": "aśubhāḥ",
+        "gloss": "inauspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे स्निग्ध, विकसित होने वाली और निर्मल प्रभाएँ शुभ हैं; विपरीत तो अशुभ हैं।",
+  "english": "Those (that are) unctuous, spreading and stainless are auspicious; the opposite (ones) are inauspicious.",
+  "text_flags": [],
+  "notes": "'tāḥ' refers to the prabhās of unit 15. vikāśin is rendered 'spreading, radiant' (blooming, expanding).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.16"
+  ],
+  "lines_deva": [
+   "ताः स्निग्धा विकाशिन्योऽमलाः शुभाः विपरीतास्त्वशुभाः"
+  ],
+  "lines_iast": [
+   "tāḥ snigdhā vikāśinyo'malāḥ śubhāḥ viparītāstvaśubhāḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 16"
+  ]
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayorviśeṣaḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of the two",
+        "gram": "gen. du."
+       },
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "distinction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों का भेद।",
+  "english": "The distinction between the two.",
+  "text_flags": [],
+  "notes": "Elliptical; the two are not named in the unit. By position they are chāyā and prabhā (units 18 and 19), but this is not stated. No verb supplied.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.17"
+  ],
+  "lines_deva": [
+   "तयोर्विशेषः"
+  ],
+  "lines_iast": [
+   "tayorviśeṣaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 17"
+  ]
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chāyā",
+      "words": [
+       {
+        "w": "chāyā",
+        "gloss": "chāyā (shade, lustre)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇamākrāmatyāsannā",
+      "words": [
+       {
+        "w": "varṇam",
+        "gloss": "colour",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ākrāmati",
+        "gloss": "overspreads",
+        "gram": "3 sg. pres. ā+√kram"
+       },
+       {
+        "w": "āsannā",
+        "gloss": "near",
+        "gram": "ppp. ā+√sad, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "calacyate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "lakṣyate",
+        "gloss": "is perceived",
+        "gram": "3 sg. pres. pass. √lakṣ"
+       }
+      ]
+     },
+     {
+      "src": "paṃcabhūtātmikā",
+      "words": [
+       {
+        "w": "pañca-bhūta-ātmikā",
+        "gloss": "consisting of the five elements (bhūta)",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prabhā",
+      "words": [
+       {
+        "w": "prabhā",
+        "gloss": "prabhā (radiance)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṇaṃ",
+      "words": [
+       {
+        "w": "varṇam",
+        "gloss": "colour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakāśayati",
+      "words": [
+       {
+        "w": "prakāśayati",
+        "gloss": "illuminates",
+        "gram": "3 sg. pres. caus. pra+√kāś"
+       }
+      ]
+     },
+     {
+      "src": "viprakṛṣṭālakṣyatetejaḥprabhaiva",
+      "words": [
+       {
+        "w": "viprakṛṣṭā",
+        "gloss": "distant",
+        "gram": "ppp. vi+pra+√kṛṣ, f. nom. sg."
+       },
+       {
+        "w": "lakṣyate",
+        "gloss": "is perceived",
+        "gram": "3 sg. pres. pass. √lakṣ"
+       },
+       {
+        "w": "tejaḥ-prabhā",
+        "gloss": "radiance of tejas (fire)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छाया वर्ण पर छा जाती है, अनुमानित पाठ पर समीप दिखाई देती है, और पाँच भूतों से बनी है। प्रभा तो वर्ण को प्रकाशित करती है, दूर से दिखाई देती है, और तेजस् की प्रभा ही है।",
+  "english": "The chāyā overspreads the colour; on a conjectural reading it is perceived as near; and it consists of the five elements (bhūta). The prabhā, however, illuminates the colour; it is perceived from afar; and it is just the radiance of tejas (fire).",
+  "text_flags": [
+   {
+    "src": "calacyate",
+    "suggest": "ca lakṣyate",
+    "why": "possible: 'calacyate' is not a word; the contrast with unit 19 (prabhā ... viprakṛṣṭā lakṣyate) suggests 'ca lakṣyate' (kṣ read as c)"
+   }
+  ],
+  "notes": "[02.09.18] Damaged word: 'calacyate' read as 'ca lakṣyate' on the model of unit 19; the translation marks this. ākrāmati: 'overspreads, covers'. [02.09.19] 'tejaḥprabhaiva' could also be read tejaḥ, prabhā eva ('tejas, itself prabhā'); the compound reading is used. Missing spaces in the long token.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.18",
+   "02.09.19"
+  ],
+  "lines_deva": [
+   "छाया वर्णमाक्रामत्यासन्ना चलच्यते पंचभूतात्मिका च",
+   "प्रभा तु वर्णं प्रकाशयति विप्रकृष्टालक्ष्यतेतेजःप्रभैव च"
+  ],
+  "lines_iast": [
+   "chāyā varṇamākrāmatyāsannā calacyate paṃcabhūtātmikā ca",
+   "prabhā tu varṇaṃ prakāśayati viprakṛṣṭālakṣyatetejaḥprabhaiva ca"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 18",
+   "chunk 1 unit 19"
+  ]
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭau",
+      "words": [
+       {
+        "w": "dṛṣṭau",
+        "gloss": "in the eye (sight)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praticchāyamayī",
+      "words": [
+       {
+        "w": "praticchāya-mayī",
+        "gloss": "made of a reflection",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumārikā",
+      "words": [
+       {
+        "w": "kumārikā",
+        "gloss": "kumārikā (little girl: probably the figure seen in the pupil)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pres. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "saparāsuḥ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "parāsuḥ",
+        "gloss": "one whose life-breath has gone",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी दृष्टि में प्रतिबिम्ब से बनी कुमारिका यानी सम्भवतः पुतली में दिखने वाली छोटी कन्या नहीं दिखाई देती, वह परासु यानी जिसके प्राण चले गए हैं।",
+  "english": "He in whose eye the little girl (kumārikā, probably the small figure seen in the pupil) made of reflection is not seen is parāsu (one whose life-breath has gone).",
+  "text_flags": [],
+  "notes": "kumārikā literally 'little girl'; probable sense: the small reflected figure in the pupil (probable). dṛṣṭi is taken as 'eye' (sight). 'parāsu' literally 'whose breaths (asu) have gone away'; the verb 'is' is understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.20"
+  ],
+  "lines_deva": [
+   "यस्य दृष्टौ प्रतिच्छायमयी कुमारिका न दृश्यते सपरासुः"
+  ],
+  "lines_iast": [
+   "yasya dṛṣṭau praticchāyamayī kumārikā na dṛśyate saparāsuḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 20"
+  ]
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyātapadarśādiṣvakasmātpraticchāyā",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ātapa-ādarśa-ādiṣu",
+        "gloss": "in sunlight, mirror and the like",
+        "gram": "dvandva + ādi, m. loc. pl."
+       },
+       {
+        "w": "akasmāt",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "praticchāyā",
+        "gloss": "reflection (image)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chinnā",
+      "words": [
+       {
+        "w": "chinnā",
+        "gloss": "cut",
+        "gram": "ppp. √chid, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhinnā",
+      "words": [
+       {
+        "w": "bhinnā",
+        "gloss": "split",
+        "gram": "ppp. √bhid, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīnā'dhikā''kulā",
+      "words": [
+       {
+        "w": "hīnā",
+        "gloss": "deficient",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "adhikā",
+        "gloss": "in excess",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ākulā",
+        "gloss": "confused",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naṣṭā",
+      "words": [
+       {
+        "w": "naṣṭā",
+        "gloss": "lost",
+        "gram": "ppp. √naś, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jihyā'vākśirā",
+      "words": [
+       {
+        "w": "jihmā",
+        "gloss": "crooked",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "avāk-śirā",
+        "gloss": "with head downward",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśirā",
+      "words": [
+       {
+        "w": "viśirā",
+        "gloss": "headless",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dviśirā",
+      "words": [
+       {
+        "w": "dvi-śirā",
+        "gloss": "two-headed",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vistṛtā'nyathā",
+      "words": [
+       {
+        "w": "vistṛtā",
+        "gloss": "spread out",
+        "gram": "ppp. vi+√stṛ, f. nom. sg."
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtā",
+      "words": [
+       {
+        "w": "vikṛtā",
+        "gloss": "distorted",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pres. pass. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी, अनुमानित पाठ पर धूप और दर्पण आदि में, अचानक प्रतिच्छाया कटी हुई, फटी हुई, हीन, अधिक, व्याकुल, नष्ट, अनुमानित पाठ पर टेढ़ी, नीचे सिर वाली, सिरहीन, दो सिर वाली, फैली हुई, अन्य प्रकार की या विकृत दिखाई देती है।",
+  "english": "He whose reflection (praticchāyā), in sunlight, on a conjectural reading mirror, and the like, is suddenly seen cut, split, deficient, in excess, confused, lost, on a conjectural reading crooked, with head downward, headless, two-headed, spread out, otherwise, or distorted.",
+  "text_flags": [
+   {
+    "src": "yasyātapadarśādiṣu",
+    "suggest": "yasyātapādarśādiṣu",
+    "why": "possible: ātapa + ādarśa (mirror) gives ātapādarśa; the printed form lacks one ā; 'darśa' alone does not suit the list"
+   },
+   {
+    "src": "jihyā'vākśirā",
+    "suggest": "jihmā 'vākśirā",
+    "why": "possible: 'jihyā' is not a word; jihmā (crooked) with h/m and y/m confusion, and a close pattern in unit 28"
+   }
+  ],
+  "notes": "No predicate follows in this unit (the clause continues in the same series of conditions); the main clause is not given here. Two conjectural readings (ādarśa, jihmā) are marked in the translations. The word 'adhikā' next to 'hīnā' read as deficient / in excess. Reviewer: the printed reading ātapa-darśa-ādiṣu (on seeing sunlight etc.) is also possible; ātapādarśa (sunlight, mirror) is preferred for sense.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.21"
+  ],
+  "lines_deva": [
+   "यस्यातपदर्शादिष्वकस्मात्प्रतिच्छाया छिन्ना भिन्ना हीनाऽधिकाऽऽकुला नष्टा जिह्याऽवाक्शिरा विशिरा द्विशिरा विस्तृताऽन्यथा वा विकृता वा दृश्यते"
+  ],
+  "lines_iast": [
+   "yasyātapadarśādiṣvakasmātpraticchāyā chinnā bhinnā hīnā'dhikā''kulā naṣṭā jihyā'vākśirā viśirā dviśirā vistṛtā'nyathā vā vikṛtā vā dṛśyate"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 21"
+  ]
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lalāṭaṃ",
+      "words": [
+       {
+        "w": "lalāṭam",
+        "gloss": "forehead",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svidyati",
+      "words": [
+       {
+        "w": "svidyati",
+        "gloss": "sweats",
+        "gram": "3 sg. pres. √svid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका ललाट पसीजता नहीं।",
+  "english": "He whose forehead does not sweat.",
+  "text_flags": [],
+  "notes": "Relative clause only; the main clause is not in this unit.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.22"
+  ],
+  "lines_deva": [
+   "यस्य ललाटं न स्विद्यति"
+  ],
+  "lines_iast": [
+   "yasya lalāṭaṃ na svidyati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 22"
+  ]
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyakeśalomānyanabhyaktānyabhyaktavaddṛśyaṃte",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "keśa-lomāni",
+        "gloss": "head-hair and body-hair",
+        "gram": "dvandva, n. nom. pl."
+       },
+       {
+        "w": "anabhyaktāni",
+        "gloss": "unanointed",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "abhyakta-vat",
+        "gloss": "like anointed (ones)",
+        "gram": "ind."
+       },
+       {
+        "w": "dṛśyante",
+        "gloss": "are seen",
+        "gram": "3 pl. pres. pass. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके केश और रोम तेल न लगे हुए होकर भी तेल लगे हुए के समान दिखाई देते हैं।",
+  "english": "He whose head-hair and body-hair, unanointed, are seen as if anointed.",
+  "text_flags": [],
+  "notes": "One token with a missing space after yasya. abhyakta = anointed with oil or ointment.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.23"
+  ],
+  "lines_deva": [
+   "यस्यकेशलोमान्यनभ्यक्तान्यभ्यक्तवद्दृश्यंते"
+  ],
+  "lines_iast": [
+   "yasyakeśalomānyanabhyaktānyabhyaktavaddṛśyaṃte"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 23"
+  ]
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nayane",
+      "words": [
+       {
+        "w": "nayane",
+        "gloss": "the two eyes",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "cātipraviṣṭe",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-praviṣṭe",
+        "gloss": "sunk in too deep",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "nirgatevistṛte",
+      "words": [
+       {
+        "w": "nirgate",
+        "gloss": "protruding",
+        "gram": "n. nom. du."
+       },
+       {
+        "w": "vistṛte",
+        "gloss": "widened",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃkṣipte",
+      "words": [
+       {
+        "w": "saṃkṣipte",
+        "gloss": "contracted",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃkṣiptabhruṇī",
+      "words": [
+       {
+        "w": "saṃkṣipta-bhruṇī",
+        "gloss": "with contracted brows",
+        "gram": "bahuvrīhi, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vinatabhruṇī",
+      "words": [
+       {
+        "w": "vinata-bhruṇī",
+        "gloss": "with bent-down brows",
+        "gram": "bahuvrīhi, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jihve",
+      "words": [
+       {
+        "w": "jihme",
+        "gloss": "crooked",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "viṣame",
+      "words": [
+       {
+        "w": "viṣame",
+        "gloss": "uneven",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "viśrāṃtadarśanehīnadarśane",
+      "words": [
+       {
+        "w": "viśrānta-darśane",
+        "gloss": "with ceased sight",
+        "gram": "bahuvrīhi, n. nom. du."
+       },
+       {
+        "w": "hīna-darśane",
+        "gloss": "with deficient sight",
+        "gram": "bahuvrīhi, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "nakulābhe",
+      "words": [
+       {
+        "w": "nakula-ābhe",
+        "gloss": "resembling a mongoose (nakula; standard)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kapotābhe",
+      "words": [
+       {
+        "w": "kapota-ābhe",
+        "gloss": "resembling a pigeon (kapota)",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "alātavarṇe",
+      "words": [
+       {
+        "w": "alāta-varṇe",
+        "gloss": "of the colour of a firebrand",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "nīlādivikṛtavarṇe",
+      "words": [
+       {
+        "w": "nīla-ādi-vikṛta-varṇe",
+        "gloss": "of abnormal colour, blue and the like",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "aticale",
+      "words": [
+       {
+        "w": "ati-cale",
+        "gloss": "very unsteady",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "stabdhasraste",
+      "words": [
+       {
+        "w": "stabdha-sraste",
+        "gloss": "stiff and drooping",
+        "gram": "dvandva, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "prasrute",
+      "words": [
+       {
+        "w": "prasrute",
+        "gloss": "discharging",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "atyunmiṣite",
+      "words": [
+       {
+        "w": "ati-unmiṣite",
+        "gloss": "excessively open",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "atinimiṣite",
+      "words": [
+       {
+        "w": "ati-nimiṣite",
+        "gloss": "excessively shut",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "luptapakṣmaṇīvā",
+      "words": [
+       {
+        "w": "lupta-pakṣmaṇī",
+        "gloss": "with lost eyelashes",
+        "gram": "bahuvrīhi, n. nom. du."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दोनों आँखें बहुत भीतर धँसी हुई, बाहर निकली हुई, फैली हुई, सिकुड़ी हुई; सिकुड़ी भौंहों वाली, झुकी भौंहों वाली; अनुमानित पाठ पर टेढ़ी, ऊँची-नीची; रुकी हुई दृष्टि वाली, क्षीण दृष्टि वाली; नकुल यानी नेवले के समान, कपोत यानी कबूतर के समान, जलती लकड़ी के रंग की, नील आदि विकृत रंग की; बहुत चंचल, कड़ी और ढीली, बहती हुई, बहुत खुली, बहुत मिची हुई, या झड़ी पलकों वाली।",
+  "english": "And the two eyes: sunk in too deep, protruding, widened, contracted; with contracted brows, with bent-down brows; on a conjectural reading crooked, uneven; with ceased sight, with deficient sight; resembling a mongoose (nakula), resembling a pigeon (kapota), of the colour of a firebrand, of abnormal colour, blue and the like; very unsteady, stiff and drooping, discharging, excessively open, excessively shut, or with lost eyelashes.",
+  "text_flags": [
+   {
+    "src": "jihve",
+    "suggest": "jihme",
+    "why": "possible: 'jihve' would be dual 'two tongues'; the list is of eye qualities and the neuter dual 'jihme' (crooked) fits (compare unit 21, 28)"
+   }
+  ],
+  "notes": "GROUPING: the unit has no 'yasya' and no main verb; it appears to continue the series of conditions of units 22 and 23 and to be completed in unit 25. All adjectives agree with nayane (two eyes). 'viśrānta' is kept as printed (ceased, rested); 'vibhrānta' (confused) is an alternative. nakula = mongoose (standard); the colour comparison is meant, not stated as such. 'stabdhasraste' is read as dvandva 'stiff and drooping'. Conjectural reading: jihme. Reviewer: bhruṇī (saṃkṣipta-bhruṇī, vinata-bhruṇī) is the regular neuter dual of bhru, so no emendation.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.24"
+  ],
+  "lines_deva": [
+   "नयने चातिप्रविष्टे निर्गतेविस्तृते संक्षिप्ते संक्षिप्तभ्रुणी विनतभ्रुणी जिह्वे विषमे विश्रांतदर्शनेहीनदर्शने नकुलाभे कपोताभे अलातवर्णे नीलादिविकृतवर्णे अतिचले स्तब्धस्रस्ते प्रस्रुते अत्युन्मिषिते अतिनिमिषिते लुप्तपक्ष्मणीवा"
+  ],
+  "lines_iast": [
+   "nayane cātipraviṣṭe nirgatevistṛte saṃkṣipte saṃkṣiptabhruṇī vinatabhruṇī jihve viṣame viśrāṃtadarśanehīnadarśane nakulābhe kapotābhe alātavarṇe nīlādivikṛtavarṇe aticale stabdhasraste prasrute atyunmiṣite atinimiṣite luptapakṣmaṇīvā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 24"
+  ]
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāsikā",
+      "words": [
+       {
+        "w": "nāsikā",
+        "gloss": "nose",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'tivivṛtā'tisaṃvṛtā",
+      "words": [
+       {
+        "w": "ati-vivṛtā",
+        "gloss": "too wide open",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ati-saṃvṛtā",
+        "gloss": "too closed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṭilā",
+      "words": [
+       {
+        "w": "kuṭilā",
+        "gloss": "crooked",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sphuṭitā",
+      "words": [
+       {
+        "w": "sphuṭitā",
+        "gloss": "cracked",
+        "gram": "ppp. √sphuṭ, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṭikācitā",
+      "words": [
+       {
+        "w": "piṭikā-citā",
+        "gloss": "covered with piṭikās (small boils or pustules)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkā",
+      "words": [
+       {
+        "w": "śuṣkā",
+        "gloss": "dry",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatāyuḥ",
+      "words": [
+       {
+        "w": "gata-āyuḥ",
+        "gloss": "one whose life(span) has gone",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या नाक बहुत खुली, बहुत बन्द, टेढ़ी, फटी हुई, पिटिका यानी छोटी फुंसियों से ढकी या सूखी, वह गतायु यानी जिसकी आयु जा चुकी है।",
+  "english": "Or the nose too wide open, too closed, crooked, cracked, covered with piṭikās (small boils or pustules) or dry: he is gatāyu (one whose life-span has gone).",
+  "text_flags": [],
+  "notes": "GROUPING: appears to complete the series of conditions begun in units 22 to 24 (the main clause 'sa gatāyuḥ' occurs only here). The leading avagraha on 'tivivṛtā is a print habit for vā + ati. piṭikā: small boil, pustule. Reviewer: unit 21 also belongs to this series of conditions (it has no consequent either).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.25"
+  ],
+  "lines_deva": [
+   "नासिका वा ऽतिविवृताऽतिसंवृता कुटिला स्फुटिता पिटिकाचिता शुष्का वा स गतायुः"
+  ],
+  "lines_iast": [
+   "nāsikā vā 'tivivṛtā'tisaṃvṛtā kuṭilā sphuṭitā piṭikācitā śuṣkā vā sa gatāyuḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 25"
+  ]
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyādho'dharoṣṭho",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "adhaḥ",
+        "gloss": "downward",
+        "gram": "ind."
+       },
+       {
+        "w": "adhara-oṣṭhaḥ",
+        "gloss": "lower lip",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātyuttaroṣṭhaścordhvamukhau",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       },
+       {
+        "w": "uttara-oṣṭhaḥ",
+        "gloss": "upper lip",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhva-mukhau",
+        "gloss": "facing upward",
+        "gram": "bahuvrīhi, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pakvajaṃbū",
+      "words": [
+       {
+        "w": "pakva-jambū",
+        "gloss": "ripe jambū fruit (Syzygium cumini, Indian blackberry; standard)",
+        "gram": "karmadhāraya, f."
+       }
+      ]
+     },
+     {
+      "src": "nīlau",
+      "words": [
+       {
+        "w": "nīlau",
+        "gloss": "blue",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका निचला होंठ नीचे जाता है और ऊपरी होंठ, या दोनों ऊपर की ओर मुख वाले, या पके जामुन यानी जम्बू फल के समान नीले।",
+  "english": "He whose lower lip goes downward, and upper lip, or the two (lips) facing upward, or blue like the ripe jambū fruit (Syzygium cumini, Indian blackberry).",
+  "text_flags": [],
+  "notes": "The construction is uncertain: 'yāti' may govern both lips (lower down, upper up) and 'ūrdhvamukhau' / 'nīlau' are dual adjectives of an unstated 'two lips'. The translation keeps the uncertainty and supplies no extra verb. jambū (jāmun) = Syzygium cumini (standard).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.26"
+  ],
+  "lines_deva": [
+   "यस्याधोऽधरोष्ठो यात्युत्तरोष्ठश्चोर्ध्वमुखौ वा पक्वजंबू नीलौ"
+  ],
+  "lines_iast": [
+   "yasyādho'dharoṣṭho yātyuttaroṣṭhaścordhvamukhau vā pakvajaṃbū nīlau"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 26"
+  ]
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daṃtā",
+      "words": [
+       {
+        "w": "dantāḥ",
+        "gloss": "teeth",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā'tirūkṣāstāmrāḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "ati-rūkṣāḥ",
+        "gloss": "very dry",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tāmrāḥ",
+        "gloss": "copper-coloured",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śyāmāḥ",
+      "words": [
+       {
+        "w": "śyāmāḥ",
+        "gloss": "dusky",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṃkilāḥpuṣpitāḥ",
+      "words": [
+       {
+        "w": "paṅkilāḥ",
+        "gloss": "muddy",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "puṣpitāḥ",
+        "gloss": "flowered",
+        "gram": "ppp. √puṣp, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saśarkarā",
+      "words": [
+       {
+        "w": "sa-śarkarāḥ",
+        "gloss": "with grit (śarkarā)",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pataṃti",
+      "words": [
+       {
+        "w": "patanti",
+        "gloss": "fall",
+        "gram": "3 pl. pres. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या दाँत बहुत रूखे, ताम्र, श्याम, कीचड़ वाले, पुष्पित, कंकड़ी के कणों वाले हैं, या अचानक गिर जाते हैं।",
+  "english": "Or the teeth very dry, copper-coloured, dusky, muddy, flowered, with grit (śarkarā), or they suddenly fall out.",
+  "text_flags": [],
+  "notes": "puṣpita (literally 'flowered') is kept literal; the sense (a flower-like efflorescence) is not stated. śarkarā literally 'gravel, grit, sugar'; tartar is a possible sense (not stated). The first half has no verb ('are' understood); 'patanti' belongs to the last alternative.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.27"
+  ],
+  "lines_deva": [
+   "दंता वाऽतिरूक्षास्ताम्राः श्यामाः पंकिलाःपुष्पिताः सशर्करा वा सहसा वा पतंति"
+  ],
+  "lines_iast": [
+   "daṃtā vā'tirūkṣāstāmrāḥ śyāmāḥ paṃkilāḥpuṣpitāḥ saśarkarā vā sahasā vā pataṃti"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 27"
+  ]
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jihvā",
+      "words": [
+       {
+        "w": "jihvā",
+        "gloss": "tongue",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jihmā",
+      "words": [
+       {
+        "w": "jihmā",
+        "gloss": "crooked",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stabdhāsuptā'valiptā",
+      "words": [
+       {
+        "w": "stabdhā",
+        "gloss": "stiff",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "suptā",
+        "gloss": "numb",
+        "gram": "ppp. √svap, f. nom. sg."
+       },
+       {
+        "w": "avaliptā",
+        "gloss": "coated",
+        "gram": "ppp. ava+√lip, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gurvī",
+      "words": [
+       {
+        "w": "gurvī",
+        "gloss": "heavy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyāvā",
+      "words": [
+       {
+        "w": "śyāvā",
+        "gloss": "dark brown",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūnā",
+      "words": [
+       {
+        "w": "śūnā",
+        "gloss": "swollen",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣkā",
+      "words": [
+       {
+        "w": "śuṣkā",
+        "gloss": "dry",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "visarpiṇī",
+      "words": [
+       {
+        "w": "visarpiṇī",
+        "gloss": "spreading",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭakācitevavā",
+      "words": [
+       {
+        "w": "kaṇṭaka-ācitā",
+        "gloss": "covered with thorns",
+        "gram": "tat-puruṣa, f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या जीभ टेढ़ी, कड़ी, सुन्न, लिपी हुई, भारी, श्याव, सूजी हुई, सूखी, फैलने वाली, या मानो काँटों से ढकी हुई है।",
+  "english": "Or the tongue crooked, stiff, numb, coated, heavy, dark brown, swollen, dry, spreading, or as if covered with thorns.",
+  "text_flags": [
+   {
+    "src": "stabdhāsuptā'valiptā",
+    "suggest": "stabdhā suptā 'valiptā",
+    "why": "possible: as printed stabdhā + asuptā would mean 'not numb'; the list of defects needs 'suptā' (missing space)"
+   }
+  ],
+  "notes": "'visarpiṇī' is rendered 'spreading' only (it is not read as the disease visarpa). The 'iva vā' ending: kaṇṭaka-ācitā iva vā.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.28"
+  ],
+  "lines_deva": [
+   "जिह्वा वा जिह्मा स्तब्धासुप्ताऽवलिप्ता गुर्वी श्यावा शूना शुष्का विसर्पिणी कंटकाचितेववा"
+  ],
+  "lines_iast": [
+   "jihvā vā jihmā stabdhāsuptā'valiptā gurvī śyāvā śūnā śuṣkā visarpiṇī kaṃṭakācitevavā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 28"
+  ]
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaṃḍelalāṭahanubaṃdhanāni",
+      "words": [
+       {
+        "w": "gaṇḍa-lalāṭa-hanu-bandhanāni",
+        "gloss": "the attachments of cheek, forehead and jaw",
+        "gram": "dvandva-tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthānāccutānīva",
+      "words": [
+       {
+        "w": "sthānāt",
+        "gloss": "from the place",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "cyutāni",
+        "gloss": "fallen",
+        "gram": "ppp. √cyu, n. nom. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srastāni",
+      "words": [
+       {
+        "w": "srastāni",
+        "gloss": "slack",
+        "gram": "ppp. √sraṃs, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasyana",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhante",
+      "words": [
+       {
+        "w": "dhatte",
+        "gloss": "holds, bears",
+        "gram": "3 sg. pres. ātm. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śirodharāṃ",
+      "words": [
+       {
+        "w": "śirodharā",
+        "gloss": "neck",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭhaṃ",
+      "words": [
+       {
+        "w": "pṛṣṭham",
+        "gloss": "back",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svabhāraṃ",
+      "words": [
+       {
+        "w": "sva-bhāram",
+        "gloss": "its own weight",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके गाल, ललाट और हनु यानी जबड़े के बन्धन मानो स्थान से च्युत और ढीले हैं, अनुमानित पाठ पर जिसका सिर, गर्दन या पीठ अपना भार नहीं सहता।",
+  "english": "He whose attachments of cheek, forehead and jaw are slack as if fallen from their place; on a conjectural reading, whose head, neck or back does not bear its own weight.",
+  "text_flags": [
+   {
+    "src": "dhante",
+    "suggest": "dhatte",
+    "why": "possible: 'dhante' is not a regular form; sense requires a verb 'holds, bears' (n/tt confusion)"
+   },
+   {
+    "src": "śirodharāṃ",
+    "suggest": "śirodharā",
+    "why": "possible: the neck as a subject (nominative) beside śiraḥ and pṛṣṭham; the final ṃ may be a print slip or may mark an accusative object"
+   },
+   {
+    "src": "gaṃḍelalāṭahanubaṃdhanāni",
+    "suggest": "gaṇḍa-lalāṭa-hanu-bandhanāni (alt. gaṇḍe lalāṭe hanu-bandhanāni)",
+    "why": "possible: printed gaṃḍe- has -e where the compound needs -a; read gaṇḍa- in the words; locative gaṇḍe is the alternative"
+   }
+  ],
+  "notes": "The second half is uncertain. 'yasyana' = yasya na (space missing). The reading adopted (head, neck or back does not bear its own weight, svabhāram being the object) is a conjecture; the case endings in śirodharāṃ and svabhāraṃ may point to a different construction (he does not hold up ...). Unit 30 appears to continue the sentence.",
+  "confidence": "low",
+  "type": "prose",
+  "line_ids": [
+   "02.09.29"
+  ],
+  "lines_deva": [
+   "यस्य गंडेललाटहनुबंधनानि स्थानाच्चुतानीव स्रस्तानि यस्यन धन्ते शिरः शिरोधरां पृष्ठं वा स्वभारं"
+  ],
+  "lines_iast": [
+   "yasya gaṃḍelalāṭahanubaṃdhanāni sthānāccutānīva srastāni yasyana dhante śiraḥ śirodharāṃ pṛṣṭhaṃ vā svabhāraṃ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 29"
+  ]
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hanū",
+      "words": [
+       {
+        "w": "hanū",
+        "gloss": "the two jaws",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piṃḍamāsyasthaṃ",
+      "words": [
+       {
+        "w": "piṇḍam",
+        "gloss": "lump, morsel",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsya-stham",
+        "gloss": "staying in the mouth",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या दोनों हनु यानी जबड़े, मुख में स्थित पिण्ड।",
+  "english": "Or the two jaws, a lump staying in the mouth.",
+  "text_flags": [],
+  "notes": "GROUPING: appears to continue unit 29 (a verb such as 'do not hold' may be carried over, so 'the jaws ... the lump in the mouth'); no verb is supplied in the translation. Elliptical.",
+  "confidence": "low",
+  "type": "prose",
+  "line_ids": [
+   "02.09.30"
+  ],
+  "lines_deva": [
+   "हनू वा पिंडमास्यस्थं"
+  ],
+  "lines_iast": [
+   "hanū vā piṃḍamāsyasthaṃ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 30"
+  ]
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyotsiktaṃ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "utsiktam",
+        "gloss": "swollen",
+        "gram": "ppp. ut+√sic, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "meḍhramatyiniḥsṛtau",
+      "words": [
+       {
+        "w": "meḍhram",
+        "gloss": "penis (meḍhra; standard)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-niḥsṛtau",
+        "gloss": "gone out too far",
+        "gram": "ppp. niḥ+√sṛ, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣaṇāvato",
+      "words": [
+       {
+        "w": "vṛṣaṇau",
+        "gloss": "the two testicles (vṛṣaṇa; standard)",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "ataḥ",
+        "gloss": "than this",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparyayo",
+      "words": [
+       {
+        "w": "viparyayaḥ",
+        "gloss": "reverse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका मेढ्र यानी पुरुष-लिंग सूजा हुआ है, या दोनों वृषण यानी अण्डकोष बहुत बाहर निकले हैं, या इससे उलटा है।",
+  "english": "He whose penis (meḍhra) is swollen, or whose two testicles (vṛṣaṇa) have gone out too far, or the reverse of this.",
+  "text_flags": [
+   {
+    "src": "meḍhramatyiniḥsṛtau",
+    "suggest": "meḍhram atiniḥsṛtau",
+    "why": "possible: the printed 'atyi' has an extra y before iniḥ; 'ati-niḥsṛtau' (very much gone out) is intended"
+   }
+  ],
+  "notes": "'niḥsṛta' (gone out) is kept literal: the text does not say whether the testicles are retracted or drawn down. utsikta: swollen, raised. 'ataḥ ... viparyayaḥ' = 'the reverse of this'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.31"
+  ],
+  "lines_deva": [
+   "यस्योत्सिक्तं मेढ्रमत्यिनिःसृतौ वा वृषणावतो विपर्ययो वा"
+  ],
+  "lines_iast": [
+   "yasyotsiktaṃ meḍhramatyiniḥsṛtau vā vṛṣaṇāvato viparyayo vā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 31"
+  ]
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūtramatyugraṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-ugram",
+        "gloss": "very fierce, strong",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका मूत्र बहुत उग्र है।",
+  "english": "He whose urine is very fierce (strong).",
+  "text_flags": [],
+  "notes": "Relative clause only; 'ugra' (fierce) is kept general and could refer to smell or sharpness, which the text does not say.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.32"
+  ],
+  "lines_deva": [
+   "यस्य मूत्रमत्युग्रं"
+  ],
+  "lines_iast": [
+   "yasya mūtramatyugraṃ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 32"
+  ]
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣadoṣādvinā",
+      "words": [
+       {
+        "w": "viṣa-doṣāt",
+        "gloss": "from the fault of poison",
+        "gram": "tat-puruṣa, m. abl. sg."
+       },
+       {
+        "w": "vinā",
+        "gloss": "without",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khebhyaḥ",
+      "words": [
+       {
+        "w": "khebhyaḥ",
+        "gloss": "from the orifices (kha)",
+        "gram": "n. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "saromakūpebhyo",
+      "words": [
+       {
+        "w": "sa-roma-kūpebhyaḥ",
+        "gloss": "together with the hair-pores",
+        "gram": "bahuvrīhi, m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "raktaṃ",
+      "words": [
+       {
+        "w": "raktam",
+        "gloss": "blood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabartate",
+      "words": [
+       {
+        "w": "pravartate",
+        "gloss": "flows out",
+        "gram": "3 sg. pres. pra+√vṛt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasyānimittamaṃgānyatilaghūnyatigurūṇi",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "animittam",
+        "gloss": "without cause",
+        "gram": "ind."
+       },
+       {
+        "w": "aṅgāni",
+        "gloss": "limbs",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ati-laghūni",
+        "gloss": "too light",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ati-gurūṇi",
+        "gloss": "too heavy",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syuḥ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "would be",
+        "gram": "3 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mumūrṣuḥ",
+      "words": [
+       {
+        "w": "mumūrṣuḥ",
+        "gloss": "one who wishes to die, about to die",
+        "gram": "desid. √mṛ, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके विष के दोष के बिना छिद्रों से रोमकूपों सहित रक्त बहता है। जिसके अंग बिना कारण बहुत हल्के या बहुत भारी हों, वह मुमूर्षु यानी मरने की इच्छा वाला, मरने को उद्यत है।",
+  "english": "He from whose orifices (kha), together with the hair-pores, blood flows out without the fault of poison. He whose limbs would be, without cause, too light or too heavy: he is mumūrṣu (one about to die; literally 'wishing to die').",
+  "text_flags": [],
+  "notes": "[02.09.33] 'prabartate' is pravartate (v/b spelling, recorded normalisation). 'viṣadoṣāt vinā' is rendered literally; the text does not name the orifices. [02.09.34] mumūrṣu is a desiderative adjective, literally 'wishing to die'; 'about to die' is the usual sense.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.33",
+   "02.09.34"
+  ],
+  "lines_deva": [
+   "यस्य विषदोषाद्विना खेभ्यः सरोमकूपेभ्यो रक्तं प्रबर्तते",
+   "यस्यानिमित्तमंगान्यतिलघून्यतिगुरूणि वा स्युः स मुमूर्षुः"
+  ],
+  "lines_iast": [
+   "yasya viṣadoṣādvinā khebhyaḥ saromakūpebhyo raktaṃ prabartate",
+   "yasyānimittamaṃgānyatilaghūnyatigurūṇi vā syuḥ sa mumūrṣuḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 33",
+   "chunk 1 unit 34"
+  ]
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyaiko'neko",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "single",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anekaḥ",
+        "gloss": "manifold",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaro",
+      "words": [
+       {
+        "w": "svaraḥ",
+        "gloss": "voice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gadgadānyaktakṣāmadīno",
+      "words": [
+       {
+        "w": "gadgada-avyakta-kṣāma-dīnaḥ",
+        "gloss": "stammering, indistinct, thin, piteous",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasopalabhyate",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       },
+       {
+        "w": "upalabhyate",
+        "gloss": "is perceived",
+        "gram": "3 sg. pres. pass. upa+√labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका स्वर एक या अनेक, या हकलाता हुआ, अनुमानित पाठ पर अव्यक्त, कृश या दीन अचानक सुनाई देता है।",
+  "english": "He whose voice, single or manifold, or stammering, indistinct (on a conjectural reading), thin or piteous, is suddenly perceived.",
+  "text_flags": [
+   {
+    "src": "gadgadānyaktakṣāmadīno",
+    "suggest": "gadgadāvyaktakṣāmadīno",
+    "why": "possible: 'anyakta' is not a word; avyakta (indistinct) fits the list of voice defects (v read as n)"
+   }
+  ],
+  "notes": "'ekaḥ anekaḥ' is kept literal (single or manifold). The corrected avyakta is adopted in the translations with the conjectural mark (glossary rule).",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.35"
+  ],
+  "lines_deva": [
+   "यस्यैकोऽनेको वा स्वरो गद्गदान्यक्तक्षामदीनो वा सहसोपलभ्यते"
+  ],
+  "lines_iast": [
+   "yasyaiko'neko vā svaro gadgadānyaktakṣāmadīno vā sahasopalabhyate"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 35"
+  ]
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivakṣurmuhyati",
+      "words": [
+       {
+        "w": "vivakṣuḥ",
+        "gloss": "wishing to speak",
+        "gram": "desid. adj. vi+√vac, m. nom. sg."
+       },
+       {
+        "w": "muhyati",
+        "gloss": "becomes bewildered",
+        "gram": "3 sg. pres. √muh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या जो बोलना चाहता हुआ भ्रमित हो जाता है।",
+  "english": "Or he who, wishing to speak, becomes bewildered.",
+  "text_flags": [],
+  "notes": "Relative clause; the main clause is not in this unit. muhyati: becomes bewildered, confused (it can also be 'faints'; the literal sense is kept).",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.36"
+  ],
+  "lines_deva": [
+   "यो वा विवक्षुर्मुह्यति"
+  ],
+  "lines_iast": [
+   "yo vā vivakṣurmuhyati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 1 unit 36"
+  ]
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadato",
+      "words": [
+       {
+        "w": "vadataḥ",
+        "gloss": "while speaking",
+        "gram": "pres. part. √vad, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛśamūrdhvamuro",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "greatly",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "ind."
+       },
+       {
+        "w": "uraḥ",
+        "gloss": "chest",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rujati",
+      "words": [
+       {
+        "w": "rujati",
+        "gloss": "aches",
+        "gram": "3 sg. pres. √ruj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasyocchvāso'tidīrgho'tihrasvaḥ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ucchvāsaḥ",
+        "gloss": "exhalation, breath",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-dīrghaḥ",
+        "gloss": "too long",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-hrasvaḥ",
+        "gloss": "too short",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūtigaṃdhiḥ",
+      "words": [
+       {
+        "w": "pūti-gandhiḥ",
+        "gloss": "foul-smelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sugaṃdhirvā",
+      "words": [
+       {
+        "w": "su-gandhiḥ",
+        "gloss": "sweet-smelling",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी बोलते समय छाती ऊपर की ओर बहुत दुखती है जिसका उच्छ्वास यानी बाहर निकलती साँस बहुत लम्बी, बहुत छोटी, दुर्गन्ध वाली अथवा सुगन्ध वाली",
+  "english": "He whose chest, while he speaks, aches greatly upward He whose exhalation (ucchvāsa) is too long, too short, foul-smelling or sweet-smelling",
+  "text_flags": [],
+  "notes": "[02.09.37] Part of a list of signs that is gathered up in unit 43 ('all of those are ripened by time'). 'vadataḥ' is a genitive participle, 'of one speaking'. 'ūrdhvam' is taken as an adverb, 'upward'. [02.09.38] Part of the list gathered up in unit 43. Printed 'gaṃdhi' is normalised to gandhi (orthographic, recorded once). The line has no verb; the sentence runs on.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.37",
+   "02.09.38"
+  ],
+  "lines_deva": [
+   "यस्य वदतो भृशमूर्ध्वमुरो रुजति",
+   "यस्योच्छ्वासोऽतिदीर्घोऽतिह्रस्वः पूतिगंधिः सुगंधिर्वा"
+  ],
+  "lines_iast": [
+   "yasya vadato bhṛśamūrdhvamuro rujati",
+   "yasyocchvāso'tidīrgho'tihrasvaḥ pūtigaṃdhiḥ sugaṃdhirvā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 37",
+   "chunk 2 unit 38"
+  ]
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāṃgulaya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aṅgulayaḥ",
+        "gloss": "fingers",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āyamyamānā",
+      "words": [
+       {
+        "w": "āyamyamānāḥ",
+        "gloss": "being stretched, pulled",
+        "gram": "pass. pres. part. ā-√yam, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sphuṭeyuḥ",
+      "words": [
+       {
+        "w": "sphuṭeyuḥ",
+        "gloss": "would crack",
+        "gram": "3 pl. opt. √sphuṭ"
+       }
+      ]
+     },
+     {
+      "src": "yasyānyo'nyo'pi",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "other",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "other",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣutagatamūtraṇādiṣu",
+      "words": [
+       {
+        "w": "kṣuta-gata-mūtraṇa-ādiṣu",
+        "gloss": "in sneezing, going, urinating and the like",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svabhāvātītaḥ",
+      "words": [
+       {
+        "w": "svabhāva-atītaḥ",
+        "gloss": "beyond its natural state",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śabdaḥ",
+      "words": [
+       {
+        "w": "śabdaḥ",
+        "gloss": "sound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी उँगलियाँ खींचे जाने पर न चटकें, और जिसका, संदिग्ध पाठ के अनुसार, 'अलग-अलग' भी शब्द छींकने, गमन, मूत्रत्याग आदि में अपनी स्वाभाविक अवस्था से परे",
+  "english": "He whose fingers, when stretched, would not crack, and whose sound, even 'other and other' (reading doubtful), in sneezing, going, urinating and the like, is beyond its natural state",
+  "text_flags": [
+   {
+    "src": "yasyānyo'nyo'pi",
+    "suggest": "yasya anyo'nyo 'pi (reading uncertain)",
+    "why": "possible: 'anyo'nyo'pi' (anyaḥ anyaḥ api) gives a poor sense; the intended word may be different (e.g. anyonyam api); no firm correction can be made, so the printed reading is kept in words"
+   }
+  ],
+  "notes": "Two clauses (yasya twice). 'āyamyamānā' = nom. pl. f. before voiced 'n' (āḥ drops visarga: regular). 'anyo'nyo'pi' is read literally as anyaḥ anyaḥ api; doubtful, so the translation marks it. 'gata' in kṣuta-gata-mūtraṇa is taken as 'going'; another sense (e.g. passing wind) cannot be excluded. The sentence continues; see unit 43. The Hindi 'हो' / 'चटकें' reflect the optative sphuṭeyuḥ in the first clause only.",
+  "confidence": "low",
+  "type": "prose",
+  "line_ids": [
+   "02.09.39"
+  ],
+  "lines_deva": [
+   "यस्यांगुलय आयम्यमाना न स्फुटेयुः यस्यान्योऽन्योऽपि क्षुतगतमूत्रणादिषु स्वभावातीतः शब्दः"
+  ],
+  "lines_iast": [
+   "yasyāṃgulaya āyamyamānā na sphuṭeyuḥ yasyānyo'nyo'pi kṣutagatamūtraṇādiṣu svabhāvātītaḥ śabdaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 39"
+  ]
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyeṣṭo'niṣṭo",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iṣṭaḥ",
+        "gloss": "pleasant",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aniṣṭaḥ",
+        "gloss": "unpleasant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mālyaphalacaṃdanakuṇapādigaṃdho",
+      "words": [
+       {
+        "w": "mālya-phala-candana-kuṇapa-ādi-gandhaḥ",
+        "gloss": "smell of garlands, fruits, sandalwood (standard), corpses and the like",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehamukhamalavraṇavastrādiṣu",
+      "words": [
+       {
+        "w": "deha-mukha-mala-vraṇa-vastra-ādiṣu",
+        "gloss": "in body, mouth, waste (mala), wound, clothes and the like",
+        "gram": "loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके शरीर, मुख, मल यानी अपशिष्ट, व्रण यानी घाव, वस्त्र आदि में माला, फल, चन्दन, शव आदि की प्रिय अथवा अप्रिय गन्ध",
+  "english": "He in whose body, mouth, waste (mala), wound, clothes and the like there is a smell, pleasant or unpleasant, of garlands, fruits, sandalwood, corpses and the like",
+  "text_flags": [],
+  "notes": "Part of the list gathered up in unit 43. kuṇapa = corpse (also 'carrion'). mala here is read as bodily waste (doctrinal term kept); another division of deha-mukha-mala cannot be excluded. candana = sandalwood, Santalum album (standard). The line has no verb.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.40"
+  ],
+  "lines_deva": [
+   "यस्येष्टोऽनिष्टो वा माल्यफलचंदनकुणपादिगंधो देहमुखमलव्रणवस्त्रादिषु"
+  ],
+  "lines_iast": [
+   "yasyeṣṭo'niṣṭo vā mālyaphalacaṃdanakuṇapādigaṃdho dehamukhamalavraṇavastrādiṣu"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 40"
+  ]
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīraṃ",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "body",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vairūpyātsaurasyādvā'tyarthaṃ",
+      "words": [
+       {
+        "w": "vairūpyāt",
+        "gloss": "from deformity",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "saurasyāt",
+        "gloss": "from good flavour",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "atyartham",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yūkā",
+      "words": [
+       {
+        "w": "yūkāḥ",
+        "gloss": "lice",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "makṣikādayastyajaṃte",
+      "words": [
+       {
+        "w": "makṣikā-ādayaḥ",
+        "gloss": "flies and the like",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tyajante",
+        "gloss": "abandon",
+        "gram": "3 pl. pres. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "bhajaṃti",
+      "words": [
+       {
+        "w": "bhajanti",
+        "gloss": "resort to, cling to",
+        "gram": "3 pl. pres. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके शरीर को विरूपता अथवा सुरसता के कारण जूँ, मक्खी आदि बहुत छोड़ देती हैं या उसका आश्रय लेती हैं",
+  "english": "He whose body, because of deformity (vairūpya) or good flavour (saurasya), lice, flies and the like greatly abandon or resort to",
+  "text_flags": [],
+  "notes": "'atyartham' is taken with the verbs ('greatly'); it could instead qualify vairūpya/saurasya ('excessive'). The text does not say which cause goes with abandoning and which with resorting. 'yūkā' for yūkāḥ is regular sandhi; the avagraha printed in 'vā'tyartham' is a print habit (ā + a). Sentence continues; see unit 43.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.41"
+  ],
+  "lines_deva": [
+   "यस्य शरीरं वैरूप्यात्सौरस्याद्वाऽत्यर्थं यूका मक्षिकादयस्त्यजंते भजंति वा"
+  ],
+  "lines_iast": [
+   "yasya śarīraṃ vairūpyātsaurasyādvā'tyarthaṃ yūkā makṣikādayastyajaṃte bhajaṃti vā"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 41"
+  ]
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "satatoṣmasvaṃgāvayaveṣu",
+      "words": [
+       {
+        "w": "satata-uṣmasu",
+        "gloss": "constantly warm",
+        "gram": "loc. pl."
+       },
+       {
+        "w": "aṅga-avayaveṣu",
+        "gloss": "in limbs and parts",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaityaṃ",
+      "words": [
+       {
+        "w": "śaityam",
+        "gloss": "coldness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīteṣu",
+      "words": [
+       {
+        "w": "śīteṣu",
+        "gloss": "in cold (ones)",
+        "gram": "loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kumudotpalānukāryātiśaityamatisvedo'tistaṃbho",
+      "words": [
+       {
+        "w": "kumuda-utpala-anukāri-ati-śaityam",
+        "gloss": "excessive coldness resembling kumuda (probably white water lily, Nymphaea, probable) and utpala (probably blue water lily, Nymphaea nouchali, probable)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ati-svedaḥ",
+        "gloss": "excessive sweat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-stambhaḥ",
+        "gloss": "excessive stiffness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigatamāṃsaśoṇiteṣviva",
+      "words": [
+       {
+        "w": "vigata-māṃsa-śoṇiteṣu",
+        "gloss": "in (parts) whose flesh and blood have gone",
+        "gram": "bahuvrīhi, loc. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "straṃsaḥ",
+      "words": [
+       {
+        "w": "sraṃsaḥ",
+        "gloss": "slackness, drooping",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके सदा गर्म रहने वाले अंगों और अवयवों में ठण्डक, अथवा ठण्डे अंगों में कुमुद यानी सम्भवतः श्वेत कुमुदिनी और उत्पल यानी सम्भवतः नीलकमल जैसी अत्यन्त शीतलता, अत्यधिक पसीना, अत्यधिक अकड़न, और जैसे मांस और रक्त चले गए हों ऐसे अंगों में ढीलापन",
+  "english": "He in whom there is coldness in the limbs and parts that are constantly warm, or, in those that are (already) cold, excessive coldness resembling kumuda (probably white water lily) and utpala (probably blue water lily), excessive sweating, excessive stiffness, and slackness as if in (parts) whose flesh and blood have gone",
+  "text_flags": [
+   {
+    "src": "straṃsaḥ",
+    "suggest": "sraṃsaḥ",
+    "why": "possible: 'straṃsa' is not a standard word; sraṃsa (slipping, slackness) fits the sense and the other signs"
+   }
+  ],
+  "notes": "Part of the list gathered up in unit 43. Identifications: kumuda = white water lily / night lotus, Nymphaea (probable); utpala = blue water lily, Nymphaea nouchali (probable); only a comparison of coldness is meant. 'sraṃsa' is kept broad (slackness, loosening). 'satatoṣmasu' read as satata-uṣman, locative plural. 'śīteṣu' taken as 'in cold (ones)' with aṅgāvayaveṣu understood. The line has no verb.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.42"
+  ],
+  "lines_deva": [
+   "यस्य सततोष्मस्वंगावयवेषु शैत्यं शीतेषु वा कुमुदोत्पलानुकार्यातिशैत्यमतिस्वेदोऽतिस्तंभो विगतमांसशोणितेष्विव च स्त्रंसः"
+  ],
+  "lines_iast": [
+   "yasya satatoṣmasvaṃgāvayaveṣu śaityaṃ śīteṣu vā kumudotpalānukāryātiśaityamatisvedo'tistaṃbho vigatamāṃsaśoṇiteṣviva ca straṃsaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 42"
+  ]
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yogo'tiyogo",
+      "words": [
+       {
+        "w": "yogaḥ",
+        "gloss": "conjunction, union",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ati-yogaḥ",
+        "gloss": "excessive conjunction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yugapanmahābhūtānāṃ",
+      "words": [
+       {
+        "w": "yugapat",
+        "gloss": "at one time, together",
+        "gram": "ind."
+       },
+       {
+        "w": "mahā-bhūtānām",
+        "gloss": "of the great elements (mahābhūta)",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pass. pres. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kālapakvā",
+      "words": [
+       {
+        "w": "kāla-pakvāḥ",
+        "gloss": "ripened by time",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिसके शरीर में महाभूतों का योग या अतियोग एक साथ दिखाई देता है, वे सभी कालपक्व यानी काल से पके हुए हैं",
+  "english": "And he in whose body a conjunction (yoga) or excessive conjunction (atiyoga) of the great elements (mahābhūta) is seen at one time: all those are ripened by time (kālapakva)",
+  "text_flags": [],
+  "notes": "Closing 'iti' marks the end of the preceding list of signs (units 37-43); not translated. 'yoga' is kept as literal 'conjunction'; the text does not say here what is joined, and the sense (union with, or an abnormal combination of, the elements) is not decided. 'te' (all those) refers back to the persons described in the list. 'kāla-pakva' kept literal.",
+  "confidence": "medium",
+  "type": "prose",
+  "line_ids": [
+   "02.09.43"
+  ],
+  "lines_deva": [
+   "यस्य च योगोऽतियोगो वा शरीरे युगपन्महाभूतानां दृश्यते सर्वे ते कालपक्वा इति"
+  ],
+  "lines_iast": [
+   "yasya ca yogo'tiyogo vā śarīre yugapanmahābhūtānāṃ dṛśyate sarve te kālapakvā iti"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 43"
+  ]
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is, there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "cātra",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here, on this point",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इस विषय में है",
+  "english": "And on this point there is",
+  "text_flags": [],
+  "notes": "Introductory formula ('bhavati cātra') that opens the verse(s) which follow; the thing that 'is' is not named in the line, so nothing is supplied.",
+  "confidence": "high",
+  "type": "prose",
+  "line_ids": [
+   "02.09.44"
+  ],
+  "lines_deva": [
+   "भवति चात्र"
+  ],
+  "lines_iast": [
+   "bhavati cātra"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 44"
+  ]
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāpūrvāḥ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "apūrvāḥ",
+        "gloss": "unprecedented, not seen before",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sirālekhā",
+      "words": [
+       {
+        "w": "sirā-lekhāḥ",
+        "gloss": "lines of veins (sirā, vein)",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bāleṃdusadṛśyo'pi",
+      "words": [
+       {
+        "w": "bāla-indu-sadṛśyaḥ",
+        "gloss": "like the young moon",
+        "gram": "tat-puruṣa, f. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "lalāṭe",
+      "words": [
+       {
+        "w": "lalāṭe",
+        "gloss": "on the forehead",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bastiśīrṣe",
+      "words": [
+       {
+        "w": "basti-śīrṣe",
+        "gloss": "at the head of the bladder (basti, bladder)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāṣaṇmāsānna",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "ṣaṇ-māsān",
+        "gloss": "six months",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी सिराओं यानी नसों की रेखाएँ पहले कभी न देखी हुई, अथवा बालचन्द्र के समान भी ललाट पर अथवा बस्ति यानी मूत्राशय के शीर्ष पर, वह छह मास नहीं जीता",
+  "english": "He whose vein-lines (sirā, vein) are unprecedented, or even like the young moon On the forehead, or at the head of the bladder (basti), he does not live six months",
+  "text_flags": [],
+  "notes": "[02.09.45] The sentence appears to be completed by the next unit (the places and the six months). 'sirā' = vein, vessel (probable; a general term for blood vessels). 'bāla-indu' = young (crescent) moon. The line has no verb. 'sirālekhā' = sirālekhāḥ (regular sandhi before voiced b). [02.09.46] Appears to complete the sentence begun in unit 45 ('whose vein-lines ...'). 'bastiśīrṣa' is kept literal ('head of the bladder'); which part is meant (upper part of the bladder, or the lower abdomen above it) is not fixed by the text. 'ṣaṇmāsān' accusative of duration, 'for six months'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.45",
+   "02.09.46"
+  ],
+  "lines_deva": [
+   "यस्यापूर्वाः सिरालेखा बालेंदुसदृश्योऽपि वा",
+   "ललाटे बस्तिशीर्षे वाषण्मासान्न स जीवति"
+  ],
+  "lines_iast": [
+   "yasyāpūrvāḥ sirālekhā bāleṃdusadṛśyo'pi vā",
+   "lalāṭe bastiśīrṣe vāṣaṇmāsānna sa jīvati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 45",
+   "chunk 2 unit 46"
+  ]
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "padminīpatravattoyaṃ",
+      "words": [
+       {
+        "w": "padminī-patra-vat",
+        "gloss": "like a lotus leaf (padminī, lotus plant, Nelumbo nucifera, standard)",
+        "gram": "tat-puruṣa, ind."
+       },
+       {
+        "w": "toyam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīre",
+      "words": [
+       {
+        "w": "śarīre",
+        "gloss": "in the body",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dehinaḥ",
+      "words": [
+       {
+        "w": "dehinaḥ",
+        "gloss": "of an embodied being",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "plavate",
+      "words": [
+       {
+        "w": "plavate",
+        "gloss": "floats",
+        "gram": "3 sg. pres. √plu"
+       }
+      ]
+     },
+     {
+      "src": "plavamānasya",
+      "words": [
+       {
+        "w": "plavamānasya",
+        "gloss": "of one floating",
+        "gram": "pres. part. √plu, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇmāsāstasya",
+      "words": [
+       {
+        "w": "ṣaṇ-māsāḥ",
+        "gloss": "six months",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस देहधारी के शरीर में जल कमलिनी के पत्ते के समान तैरता है; तैरने वाले का, उसका जीवन छह मास है",
+  "english": "Water, as with a lotus (padminī) leaf, in the body of whichever embodied being It floats; of one that floats, his life is six months",
+  "text_flags": [],
+  "notes": "[02.09.47] The verb appears to be in the next unit ('plavate'). Whether 'vat' compares the water's behaviour on a lotus leaf is understood but not stated, so the translation stays close to the words. [02.09.48] Appears to continue unit 47 ('water ... in the body of whichever embodied being'). 'plavamānasya' (of one floating) is difficult: it may refer to the water or to the person; the translation keeps it literal. Copula understood ('is').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.47",
+   "02.09.48"
+  ],
+  "lines_deva": [
+   "पद्मिनीपत्रवत्तोयं शरीरे यस्य देहिनः",
+   "प्लवते प्लवमानस्य षण्मासास्तस्य जीवितं"
+  ],
+  "lines_iast": [
+   "padminīpatravattoyaṃ śarīre yasya dehinaḥ",
+   "plavate plavamānasya ṣaṇmāsāstasya jīvitaṃ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 47",
+   "chunk 2 unit 48"
+  ]
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "haritābhāḥ",
+      "words": [
+       {
+        "w": "harita-ābhāḥ",
+        "gloss": "of greenish appearance",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sirā",
+      "words": [
+       {
+        "w": "sirāḥ",
+        "gloss": "veins (sirā)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasyaromakūpāśca",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "roma-kūpāḥ",
+        "gloss": "hair pores",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃvṛtāḥ",
+      "words": [
+       {
+        "w": "saṃvṛtāḥ",
+        "gloss": "closed, covered",
+        "gram": "ppp. sam-√vṛ, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "so'mlābhilāṣī",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "amla-abhilāṣī",
+        "gloss": "craving the sour",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣaḥ",
+      "words": [
+       {
+        "w": "puruṣaḥ",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pittānmaraṇamaśnute",
+      "words": [
+       {
+        "w": "pittāt",
+        "gloss": "from Pitta",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "aśnute",
+        "gloss": "attains",
+        "gram": "3 sg. pres. √aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी सिराएँ यानी नसें हरी-सी आभा वाली और रोमकूप बन्द वह खट्टे की इच्छा करने वाला पुरुष पित्त से मृत्यु को प्राप्त होता है",
+  "english": "He whose veins (sirā) are of greenish appearance and whose hair pores are closed That man, craving the sour (amla), attains death from Pitta",
+  "text_flags": [
+   {
+    "src": "yasyaromakūpāśca",
+    "suggest": "yasya roma-kūpāś ca",
+    "why": "possible: three words printed joined without spaces (yasya, romakūpāḥ, ca); no letter changed"
+   }
+  ],
+  "notes": "[02.09.49] The printed 'yasyaromakūpāśca' is yasya roma-kūpāḥ ca with the space missing (a spacing matter, not a letter error). 'saṃvṛta' can mean closed or covered; 'closed' is chosen. Appears to be completed by the next unit. 'harita' = green or yellowish-green. [02.09.50] Appears to complete the sentence of unit 49. 'amla' is the sour taste. 'pittāt' is ablative, 'from/because of Pitta'. pitta is neuter.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.49",
+   "02.09.50"
+  ],
+  "lines_deva": [
+   "हरिताभाः सिरा यस्यरोमकूपाश्च संवृताः",
+   "सोऽम्लाभिलाषी पुरुषः पित्तान्मरणमश्नुते"
+  ],
+  "lines_iast": [
+   "haritābhāḥ sirā yasyaromakūpāśca saṃvṛtāḥ",
+   "so'mlābhilāṣī puruṣaḥ pittānmaraṇamaśnute"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 49",
+   "chunk 2 unit 50"
+  ]
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gomayacūrṇābhaṃ",
+      "words": [
+       {
+        "w": "gomaya-cūrṇa-ābham",
+        "gloss": "resembling powder of cow dung",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇa",
+      "words": [
+       {
+        "w": "cūrṇam",
+        "gloss": "powder",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūrdhni",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhe'pi",
+      "words": [
+       {
+        "w": "mukhe",
+        "gloss": "on the face",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sasnehaṃ",
+      "words": [
+       {
+        "w": "sa-sneham",
+        "gloss": "with oiliness",
+        "gram": "ind. (adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "mūrdhni",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūmo",
+      "words": [
+       {
+        "w": "dhūmaḥ",
+        "gloss": "smoke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāmāsāṃtaṃ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "māsa-antam",
+        "gloss": "up to the end of a month",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīvitaṃ",
+      "words": [
+       {
+        "w": "jīvitam",
+        "gloss": "life",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके सिर पर अथवा मुख पर भी गोबर के चूर्ण के समान चूर्ण अथवा सिर पर चिकनाई वाला धुआँ; उसका जीवन मास के अन्त तक है",
+  "english": "He on whose head, or even on the face, there is powder resembling powder of cow dung Or smoke with oiliness on the head; his life is up to the end of a month",
+  "text_flags": [
+   {
+    "src": "cūrṇa",
+    "suggest": "cūrṇam",
+    "why": "possible: neuter nominative needs the anusvāra; the final -m seems dropped in print"
+   }
+  ],
+  "notes": "[02.09.51] The line has no verb; the sentence appears to run into unit 52 ('or oily smoke on the head ...'). 'mūrdhni' is the locative of mūrdhan. [02.09.52] 'vā' is read with the preceding unit's alternatives ('powder on the head ... or oily smoke on the head'); the last clause gives the life span for the signs. 'sasnehaṃ' is neuter while dhūma is masculine, so it is taken as an adverb, 'with oiliness'. 'vāmāsāṃtaṃ' = vā + māsa-antam is a reading; another division is possible. Copula understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.51",
+   "02.09.52"
+  ],
+  "lines_deva": [
+   "यस्य गोमयचूर्णाभं चूर्ण मूर्ध्नि मुखेऽपि वा",
+   "सस्नेहं मूर्ध्नि धूमो वामासांतं तस्य जीवितं"
+  ],
+  "lines_iast": [
+   "yasya gomayacūrṇābhaṃ cūrṇa mūrdhni mukhe'pi vā",
+   "sasnehaṃ mūrdhni dhūmo vāmāsāṃtaṃ tasya jīvitaṃ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 51",
+   "chunk 2 unit 52"
+  ]
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūrdhni",
+      "words": [
+       {
+        "w": "mūrdhni",
+        "gloss": "on the head",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhruvorvā",
+      "words": [
+       {
+        "w": "bhruvoḥ",
+        "gloss": "on the two eyebrows",
+        "gram": "f. loc. du."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kurvaṃti",
+      "words": [
+       {
+        "w": "kurvanti",
+        "gloss": "make",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sīmaṃtāvartakā",
+      "words": [
+       {
+        "w": "sīmanta-āvartakāḥ",
+        "gloss": "partings and whorls (sīmantāvartaka)",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "navāḥ",
+      "words": [
+       {
+        "w": "navāḥ",
+        "gloss": "new",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛtyuṃ",
+      "words": [
+       {
+        "w": "mṛtyum",
+        "gloss": "death",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svasthasya",
+      "words": [
+       {
+        "w": "svasthasya",
+        "gloss": "of a healthy person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍarātrāntrirātrādāturasya",
+      "words": [
+       {
+        "w": "ṣaṭ-rātrāt",
+        "gloss": "from six nights, after six nights",
+        "gram": "dvigu, abl. sg."
+       },
+       {
+        "w": "tri-rātrāt",
+        "gloss": "from three nights, after three nights",
+        "gram": "dvigu, abl. sg."
+       },
+       {
+        "w": "āturasya",
+        "gloss": "of a sick person",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सिर पर अथवा दोनों भौंहों पर नए सीमन्तावर्तक यानी माँग और भँवर करते हैं स्वस्थ के लिए छह रात के बाद, किन्तु रोगी के लिए तीन रात के बाद मृत्यु",
+  "english": "On the head or on the two eyebrows, new partings and whorls (sīmantāvartaka) make Death, for a healthy person after six nights, but for a sick person after three nights",
+  "text_flags": [
+   {
+    "src": "ṣaḍarātrāntrirātrādāturasya",
+    "suggest": "ṣaḍrātrāt trirātrād āturasya",
+    "why": "possible: printed 'ṣaḍarātrān' has an extra 'a' and 'n' for 't' (ta/na confusion is seen in this print); ablatives of ṣaḍrātra and trirātra fit the sense"
+   }
+  ],
+  "notes": "[02.09.53] GROUPING: the object of 'kurvanti' is 'mṛtyum' in unit 54, so this unit appears to continue there. 'sīmantāvartaka' is read as a dvandva 'partings and whorls' (hair-parting-like and whorl-like marks); it could also be one term for whorl-like partings, so the sense is not firm. [02.09.54] GROUPING: 'mṛtyum' is the object of 'kurvanti' in unit 53, so this unit appears to complete that sentence. The ablatives are rendered 'after' (literally 'from'); the text does not say 'within'. Which of the six or three nights counts is not stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.53",
+   "02.09.54"
+  ],
+  "lines_deva": [
+   "मूर्ध्नि भ्रुवोर्वा कुर्वंति सीमंतावर्तका नवाः",
+   "मृत्युं स्वस्थस्य षडरात्रान्त्रिरात्रादातुरस्य तु"
+  ],
+  "lines_iast": [
+   "mūrdhni bhruvorvā kurvaṃti sīmaṃtāvartakā navāḥ",
+   "mṛtyuṃ svasthasya ṣaḍarātrāntrirātrādāturasya tu"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 53",
+   "chunk 2 unit 54"
+  ]
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "snātānuliptasya",
+      "words": [
+       {
+        "w": "snāta-anuliptasya",
+        "gloss": "of one bathed and anointed",
+        "gram": "ppp., m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuṣyatyuro",
+      "words": [
+       {
+        "w": "śuṣyati",
+        "gloss": "dries up",
+        "gram": "3 sg. pres. √śuṣ"
+       },
+       {
+        "w": "uraḥ",
+        "gloss": "chest",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛśaṃ",
+      "words": [
+       {
+        "w": "bhṛśam",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ārdveṣu",
+      "words": [
+       {
+        "w": "ārdreṣu",
+        "gloss": "in wet (ones)",
+        "gram": "loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarvagātreṣu",
+      "words": [
+       {
+        "w": "sarva-gātreṣu",
+        "gloss": "in all limbs",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "so'rddhamāsaṃ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ardha-māsam",
+        "gloss": "half a month",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvati",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी, स्नान किए और लेप लगाए हुए की, छाती पहले, बहुत सूख जाती है अनुमानित पाठ पर, सब अंगों के गीले रहते वह आधा मास नहीं जीता",
+  "english": "He whose chest, when he is bathed and anointed, dries up first and greatly On a conjectural reading: while all the limbs are wet, he does not live half a month",
+  "text_flags": [
+   {
+    "src": "ārdveṣu",
+    "suggest": "ārdreṣu",
+    "why": "possible: 'ārdva' is not a word; ārdra (wet) fits the sense (limbs still wet while the chest is dry, unit 55); dr/dv confusion is common in this print"
+   }
+  ],
+  "notes": "[02.09.55] The sentence appears to continue in unit 56 ('while all the limbs are wet ...'). 'pūrvam' = first, before the rest; 'ahead' is also possible. 'snātānuliptasya' is a genitive in the sense 'of one who has bathed and been anointed'. [02.09.56] Appears to complete unit 55. 'so'rddhamāsaṃ': 'rddh' is the print's spelling of 'rdh' (orthographic normalisation, recorded once book-wide). The locatives are read as 'with all the limbs wet'; 'ārdreṣu' stands for an unstated noun with sarvagātreṣu.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.55",
+   "02.09.56"
+  ],
+  "lines_deva": [
+   "यस्य स्नातानुलिप्तस्य पूर्वं शुष्यत्युरो भृशं",
+   "आर्द्वेषु सर्वगात्रेषु सोऽर्द्धमासं न जीवति"
+  ],
+  "lines_iast": [
+   "yasya snātānuliptasya pūrvaṃ śuṣyatyuro bhṛśaṃ",
+   "ārdveṣu sarvagātreṣu so'rddhamāsaṃ na jīvati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 55",
+   "chunk 2 unit 56"
+  ]
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "urasyūṣmā",
+      "words": [
+       {
+        "w": "urasi",
+        "gloss": "in the chest",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "ūṣmā",
+        "gloss": "heat",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavedyasya",
+      "words": [
+       {
+        "w": "bhavet",
+        "gloss": "may be",
+        "gram": "3 sg. opt. √bhū"
+       },
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṭhare",
+      "words": [
+       {
+        "w": "jaṭhare",
+        "gloss": "in the belly (jaṭhara)",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atiśītatā",
+      "words": [
+       {
+        "w": "ati-śītatā",
+        "gloss": "excessive coldness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhinnaṃ",
+      "words": [
+       {
+        "w": "bhinnam",
+        "gloss": "broken, loose",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purīṣaṃ",
+      "words": [
+       {
+        "w": "purīṣam",
+        "gloss": "stool",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛṣṇāca",
+      "words": [
+       {
+        "w": "tṛṣṇā",
+        "gloss": "thirst",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pretastathaiva",
+      "words": [
+       {
+        "w": "pretaḥ",
+        "gloss": "a departed one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saḥ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी छाती में गर्मी और जठर यानी पेट में अत्यन्त ठण्डक हो भिन्न यानी टूटा हुआ, सम्भवतः ढीला, मल और प्यास; जैसे प्रेत, वैसे ही वह",
+  "english": "He in whose chest there may be heat, and in the belly (jaṭhara) excessive coldness Broken stool (bhinna; probably loose) and thirst; as a departed one (preta), just so is he",
+  "text_flags": [
+   {
+    "src": "tṛṣṇāca",
+    "suggest": "tṛṣṇā ca",
+    "why": "possible: 'ca' printed joined to tṛṣṇā without a space; no letter changed"
+   }
+  ],
+  "notes": "[02.09.57] Part of a sentence that appears to run into unit 58 ('loose stool and thirst; just as a preta, so is he'). The verb 'bhavet' is stated once; 'in the belly ... excessive coldness' shares it. [02.09.58] Appears to continue unit 57. 'tṛṣṇāca' is tṛṣṇā ca with the space missing. 'bhinna purīṣa' is kept literal ('broken' stool); the modern sense (loose or watery stool) is probable but not stated. 'preta' = a departed one, a dead person. Copula understood.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.57",
+   "02.09.58"
+  ],
+  "lines_deva": [
+   "उरस्यूष्मा भवेद्यस्य जठरे अतिशीतता",
+   "भिन्नं पुरीषं तृष्णाच यथा प्रेतस्तथैव सः"
+  ],
+  "lines_iast": [
+   "urasyūṣmā bhavedyasya jaṭhare atiśītatā",
+   "bhinnaṃ purīṣaṃ tṛṣṇāca yathā pretastathaiva saḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 57",
+   "chunk 2 unit 58"
+  ]
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūtraṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purīṣaṃ",
+      "words": [
+       {
+        "w": "purīṣam",
+        "gloss": "stool",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣṭhyūtaṃ",
+      "words": [
+       {
+        "w": "niṣṭhyūtam",
+        "gloss": "spittle, sputum",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śukraṃ",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "semen (śukra)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpsu",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in water",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nimajjati",
+      "words": [
+       {
+        "w": "nimajjati",
+        "gloss": "sinks",
+        "gram": "3 sg. pres. √majj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "niṣṭhyūtaṃ",
+      "words": [
+       {
+        "w": "niṣṭhyūtam",
+        "gloss": "spittle, sputum",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahuvarṇaṃ",
+      "words": [
+       {
+        "w": "bahu-varṇam",
+        "gloss": "of many colours",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsānsa",
+      "words": [
+       {
+        "w": "māsān",
+        "gloss": "months",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naśyati",
+      "words": [
+       {
+        "w": "naśyati",
+        "gloss": "perishes",
+        "gram": "3 sg. pres. √naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मूत्र, मल, निष्ठ्यूत यानी थूक और शुक्र यानी वीर्य पानी में डूबते हैं या जिसका निष्ठ्यूत यानी थूक अनेक रंगों का हो, वह मासों में नष्ट हो जाता है",
+  "english": "Urine, stool, spittle (niṣṭhyūta) and semen (śukra) sink in water Or he whose spittle (niṣṭhyūta) is of many colours perishes in months",
+  "text_flags": [
+   {
+    "src": "māsānsa",
+    "suggest": "māsāt saḥ",
+    "why": "possible: 'māsān' (accusative plural) gives 'months' with no number; 'māsāt' (after a month) also fits the metre (16 syllables); the printed reading is kept in words"
+   }
+  ],
+  "notes": "[02.09.59] Four neuter subjects with one singular verb (taken together). 'apsu' = locative plural of ap (water), regular. The line does not say whose; the sense is of the person described in the surrounding units. niṣṭhyūta = spat-out matter, sputum. [02.09.60] The first 'vā' (or) links this to the signs of unit 59. 'māsān' is accusative plural, 'for/through months', with no number stated; the Hindi 'मासों में' is the plain rendering.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.59",
+   "02.09.60"
+  ],
+  "lines_deva": [
+   "मूत्रं पुरीषं निष्ठ्यूतं शुक्रं चाप्सु निमज्जति",
+   "निष्ठ्यूतं बहुवर्णं वा यस्य मासान्स नश्यति"
+  ],
+  "lines_iast": [
+   "mūtraṃ purīṣaṃ niṣṭhyūtaṃ śukraṃ cāpsu nimajjati",
+   "niṣṭhyūtaṃ bahuvarṇaṃ vā yasya māsānsa naśyati"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 59",
+   "chunk 2 unit 60"
+  ]
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svarasya",
+      "words": [
+       {
+        "w": "svarasya",
+        "gloss": "of the voice",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbalībhāvaṃ",
+      "words": [
+       {
+        "w": "durbalī-bhāvam",
+        "gloss": "state of becoming weak, weakening",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hāniṃ",
+      "words": [
+       {
+        "w": "hānim",
+        "gloss": "loss",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "balavarṇayoḥ",
+      "words": [
+       {
+        "w": "bala-varṇayoḥ",
+        "gloss": "of strength and colour",
+        "gram": "dvandva, m. gen. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rogavṛddhimayuktyā",
+      "words": [
+       {
+        "w": "roga-vṛddhim",
+        "gloss": "increase of disease",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ayuktyā",
+        "gloss": "without reason, unreasonably",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "maraṇamādiśet",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ādiśet",
+        "gloss": "should declare, foretell",
+        "gram": "3 sg. opt. ā-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वर की दुर्बलता को और बल तथा वर्ण यानी रंग की हानि को बिना युक्ति के रोग की वृद्धि को भी देखकर मृत्यु बता दे",
+  "english": "The weakening of the voice and the loss of strength and colour (varṇa) And having seen the increase of disease without reason (ayuktyā), one should foretell death",
+  "text_flags": [],
+  "notes": "[02.09.61] The object of 'dṛṣṭvā' in unit 62; the two units appear to form one sentence. 'varṇa' is colour or complexion; 'colour' is the plain rendering. [02.09.62] Appears to complete unit 61 (the signs seen are the weakening of the voice, the loss of strength and colour, and the increase of disease). 'ayuktyā' is literally 'without (proper) reason, unreasonably'; the sense might also be 'by improper means'. The agent of 'ādiśet' is not stated, so 'one'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "02.09.61",
+   "02.09.62"
+  ],
+  "lines_deva": [
+   "स्वरस्य दुर्बलीभावं हानिं च बलवर्णयोः",
+   "रोगवृद्धिमयुक्त्या च दृष्ट्वा मरणमादिशेत्"
+  ],
+  "lines_iast": [
+   "svarasya durbalībhāvaṃ hāniṃ ca balavarṇayoḥ",
+   "rogavṛddhimayuktyā ca dṛṣṭvā maraṇamādiśet"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 61",
+   "chunk 2 unit 62"
+  ]
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apasvaraṃ",
+      "words": [
+       {
+        "w": "apasvaram",
+        "gloss": "of faulty voice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāṣamāṇaṃ",
+      "words": [
+       {
+        "w": "bhāṣamāṇam",
+        "gloss": "speaking",
+        "gram": "pres. part. √bhāṣ, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāptaṃ",
+      "words": [
+       {
+        "w": "prāptam",
+        "gloss": "arrived, reached",
+        "gram": "ppp. pra-√āp, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maraṇamātmanaḥ",
+      "words": [
+       {
+        "w": "maraṇam",
+        "gloss": "death",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ātmanaḥ",
+        "gloss": "of oneself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śrotāraṃ",
+      "words": [
+       {
+        "w": "śrotāram",
+        "gloss": "hearer, listener",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāsyaśabdasya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this, of his",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "śabdasya",
+        "gloss": "of the sound",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūrataḥ",
+      "words": [
+       {
+        "w": "dūrataḥ",
+        "gloss": "from afar",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parivarjayet",
+      "words": [
+       {
+        "w": "parivarjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. pari-√vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिगड़े स्वर में बोलते हुए को, अपनी मृत्यु प्राप्त हुई और इसके शब्द के श्रोता को दूर से त्याग दे",
+  "english": "One speaking in a faulty voice (apasvara), his own death having arrived And one should avoid from afar the hearer of his sound",
+  "text_flags": [],
+  "notes": "[02.09.63] GROUPING: units 63 and 64 appear to form one sentence ('parivarjayet', unit 64, probably governs the accusatives here); this is not stated as fact. The grammar of 'prāptaṃ maraṇam ātmanaḥ' is not firm: 'prāptam' may qualify the person (accusative) or agree with 'maraṇam' ('his own death having been reached'). The translation keeps the second reading. [02.09.64] GROUPING: units 63-64 appear to be one sentence. 'cāsyaśabdasya' is read ca + asya + śabdasya ('of this/his sound'); another division, ca + āsya-śabdasya ('of the sound of the mouth'), gives the same letters and cannot be excluded. Who is meant by 'the hearer' is not clear from the line; the translation stays literal. The agent of 'parivarjayet' is not stated ('one').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.63",
+   "02.09.64"
+  ],
+  "lines_deva": [
+   "अपस्वरं भाषमाणं प्राप्तं मरणमात्मनः",
+   "श्रोतारं चास्यशब्दस्य दूरतः परिवर्जयेत्"
+  ],
+  "lines_iast": [
+   "apasvaraṃ bhāṣamāṇaṃ prāptaṃ maraṇamātmanaḥ",
+   "śrotāraṃ cāsyaśabdasya dūrataḥ parivarjayet"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 63",
+   "chunk 2 unit 64"
+  ]
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhvaśvāsaṃ",
+      "words": [
+       {
+        "w": "ūrdhva-śvāsam",
+        "gloss": "one with upward breath",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatoṣmāṇaṃ",
+      "words": [
+       {
+        "w": "gata-uṣmāṇam",
+        "gloss": "one whose warmth has gone",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūlopahatavaṃkṣaṇaṃ",
+      "words": [
+       {
+        "w": "śūla-upahata-vaṅkṣaṇam",
+        "gloss": "one whose groins are afflicted by pain",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śarma",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "comfort, ease",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānadhigacchaṃtaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "an-adhigacchantam",
+        "gloss": "not finding",
+        "gram": "pres. part. a-adhi-√gam, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "buddhimān",
+      "words": [
+       {
+        "w": "buddhimān",
+        "gloss": "intelligent one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parivarjayet",
+      "words": [
+       {
+        "w": "parivarjayet",
+        "gloss": "should avoid",
+        "gram": "3 sg. opt. pari-√vṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी साँस ऊपर की ओर चढ़ती है, जिसकी गर्मी चली गई है और जिसके वंक्षण यानी जाँघ के जोड़ पीड़ा से पीड़ित हैं और सुख न पाने वाले को बुद्धिमान् त्याग दे",
+  "english": "One with upward breath (ūrdhvaśvāsa), whose warmth has gone, whose groins are afflicted by pain And one finding no comfort (śarma): the intelligent one should avoid",
+  "text_flags": [],
+  "notes": "[02.09.65] Accusatives; the verb 'parivarjayet' is in unit 66, which these appear to continue into. 'ūrdhvaśvāsa' is literally 'upward breath' (a laboured, upward-rising breath; the modern term is not fixed here). 'vaṅkṣaṇa' = groin (standard). 'śūla' = pain. [02.09.66] Appears to complete unit 65 (the persons described there and here are the objects of 'parivarjayet'). The Sanskrit does not say who the intelligent one is, so none is named.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.65",
+   "02.09.66"
+  ],
+  "lines_deva": [
+   "ऊर्ध्वश्वासं गतोष्माणं शूलोपहतवंक्षणं",
+   "शर्म चानधिगच्छंतं बुद्धिमान् परिवर्जयेत्"
+  ],
+  "lines_iast": [
+   "ūrdhvaśvāsaṃ gatoṣmāṇaṃ śūlopahatavaṃkṣaṇaṃ",
+   "śarma cānadhigacchaṃtaṃ buddhimān parivarjayet"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 65",
+   "chunk 2 unit 66"
+  ]
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaśītapiṭakaḥ",
+      "words": [
+       {
+        "w": "jāta-śīta-piṭakaḥ",
+        "gloss": "one in whom cold pustules have arisen",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śītāṃgo",
+      "words": [
+       {
+        "w": "śīta-aṅgaḥ",
+        "gloss": "cold-limbed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidhyate",
+      "words": [
+       {
+        "w": "vidahyate",
+        "gloss": "burns (conjectural)",
+        "gram": "3 sg. pass. vi-√dah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "uṣṇadveṣī",
+      "words": [
+       {
+        "w": "uṣṇa-dveṣī",
+        "gloss": "hating heat",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śītārtaḥ",
+      "words": [
+       {
+        "w": "śīta-ārtaḥ",
+        "gloss": "afflicted by cold",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pretādhipagocaraḥ",
+      "words": [
+       {
+        "w": "preta-adhipa-gocaraḥ",
+        "gloss": "within the range of the lord of the departed (probably Yama)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुमानित पाठ पर, जिसके शीत पिटक यानी ठण्डी फुंसियाँ उत्पन्न हुई हैं, अथवा जिसके अंग ठण्डे हैं, वह जलता है गर्मी से द्वेष करने वाला और ठण्ड से पीड़ित, वह प्रेतों के अधिपति, सम्भवतः यम, की पहुँच में है",
+  "english": "On a conjectural reading: he in whom cold pustules (piṭaka) have arisen, or who is cold-limbed, and who burns Hating heat and afflicted by cold, he is within the reach of the lord of the departed (probably Yama)",
+  "text_flags": [
+   {
+    "src": "vidhyate",
+    "suggest": "vidahyate",
+    "why": "possible: the printed Devanagari 'विद्ह्यते' is not a valid word; 'vidahyate' (burns, is inflamed) is a close reading and suits 'cold limbs' (inner burning with cold limbs); 'vidhyate' (is pierced) is the other possibility"
+   }
+  ],
+  "notes": "[02.09.67] The verb is damaged in print: the IAST 'vidhyate' (is pierced) is a valid form but the printed Devanagari is 'विद्ह्यते'; the translation adopts 'vidahyate' only on a conjectural reading, so confidence is low. 'piṭaka' = pustule, boil. 'śīta-piṭaka' read as 'cold pustules' (the text gives no further detail). The sentence appears to run on into unit 68. [02.09.68] Appears to complete unit 67. 'pretādhipa' = lord of the departed; Yama is the usual identification (probable). 'gocara' = range, domain. Copula understood ('he is').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "02.09.67",
+   "02.09.68"
+  ],
+  "lines_deva": [
+   "यो जातशीतपिटकः शीतांगो वा विद्ह्यते",
+   "उष्णद्वेषी च शीतार्तः स प्रेताधिपगोचरः"
+  ],
+  "lines_iast": [
+   "yo jātaśītapiṭakaḥ śītāṃgo vā vidhyate",
+   "uṣṇadveṣī ca śītārtaḥ sa pretādhipagocaraḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 67",
+   "chunk 2 unit 68"
+  ]
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasya",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "of whom",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rajjuriva",
+      "words": [
+       {
+        "w": "rajjuḥ",
+        "gloss": "rope",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chāyā",
+      "words": [
+       {
+        "w": "chāyā",
+        "gloss": "shadow",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaṃṭhe",
+      "words": [
+       {
+        "w": "kaṇṭhe",
+        "gloss": "on the neck",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saktopalakṣyate",
+      "words": [
+       {
+        "w": "saktā",
+        "gloss": "attached",
+        "gram": "ppp. √sañj, f. nom. sg."
+       },
+       {
+        "w": "upalakṣyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pass. pres. upa-√lakṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "avaśyaṃ",
+      "words": [
+       {
+        "w": "avaśyam",
+        "gloss": "surely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣyatejaṃtuḥ",
+      "words": [
+       {
+        "w": "kṛṣyate",
+        "gloss": "is dragged",
+        "gram": "3 sg. pass. pres. √kṛṣ"
+       },
+       {
+        "w": "jantuḥ",
+        "gloss": "living being",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "so'cirādyamakiṃkaraiḥ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "acirāt",
+        "gloss": "soon",
+        "gram": "ind."
+       },
+       {
+        "w": "yama-kiṅkaraiḥ",
+        "gloss": "by Yama's servants",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके कण्ठ पर रस्सी जैसी छाया लगी हुई दिखाई देती है वह प्राणी निश्चय ही शीघ्र यम के सेवकों द्वारा खींच लिया जाता है",
+  "english": "He on whose neck a shadow like a rope is seen attached That living being is surely dragged away soon by the servants of Yama",
+  "text_flags": [],
+  "notes": "[02.09.69] The sentence appears to be completed in unit 70 (he is dragged by Yama's servants). 'chāyā' = shadow (also 'lustre'); 'shadow' is the plain rendering. [02.09.70] Appears to complete unit 69. 'kṛṣyate' is a passive, 'is dragged' (pulled).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.69",
+   "02.09.70"
+  ],
+  "lines_deva": [
+   "यस्य रज्जुरिव छाया कंठे सक्तोपलक्ष्यते",
+   "अवश्यं कृष्यतेजंतुः सोऽचिराद्यमकिंकरैः"
+  ],
+  "lines_iast": [
+   "yasya rajjuriva chāyā kaṃṭhe saktopalakṣyate",
+   "avaśyaṃ kṛṣyatejaṃtuḥ so'cirādyamakiṃkaraiḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 69",
+   "chunk 2 unit 70"
+  ]
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "||",
+      "words": [
+       {
+        "w": "||",
+        "gloss": "double danda",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikṛtāṃgavijñānīyo",
+      "words": [
+       {
+        "w": "vikṛta-aṅga-vijñānīyaḥ",
+        "gloss": "concerned with knowing abnormal limbs (name of the chapter)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāmanavamo'dhyāyaḥ",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "named",
+        "gram": "ind."
+       },
+       {
+        "w": "navamaḥ",
+        "gloss": "ninth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhyāyaḥ",
+        "gloss": "chapter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार विकृताङ्गविज्ञानीय नामक नवम अध्याय",
+  "english": "Thus the ninth chapter, named Vikṛtāṅgavijñānīya",
+  "text_flags": [],
+  "notes": "Colophon. 'vikṛtāṅgavijñānīya' is kept as the chapter's name; it is formed from vikṛta (abnormal), aṅga (limb or part) and vijñānīya (concerning knowledge). The leading '||' is kept as a token.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "02.09.71"
+  ],
+  "lines_deva": [
+   "॥ इति विकृतांगविज्ञानीयो नामनवमोऽध्यायः"
+  ],
+  "lines_iast": [
+   "|| iti vikṛtāṃgavijñānīyo nāmanavamo'dhyāyaḥ"
+  ],
+  "uncertain": [],
+  "layer_units": [
+   "chunk 2 unit 71"
+  ]
+ }
+]

@@ -1,23 +1,216 @@
 {
-  "bank_id": "ashtanga-sangraha-sutrasthana",
-  "title": "अष्टाङ्गसंग्रह — सूत्रस्थान",
-  "genre": "संस्कृत श्लोक",
-  "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha, Sūtrasthāna chapters 1 to 5, studied verse by verse: Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per verse.",
-  "scroll_buttons": true,
-  "labels": {"unit": "अध्याय", "units": "अध्याय", "topic": "विषय", "whole": "पूरा अध्याय"},
-  "data_pattern": "data/chapter{N}_verses.json",
-  "authored_dir": "tools/authored",
-  "ref_template": "अष्टाङ्गसंग्रह · सूत्रस्थान · अध्याय {chapter} · {kind} {unit}।",
-  "source_disclaimer": "पाठ: १८८८ का मराठी-मुद्रित संस्करण, खराब स्कैन से डिजिटाइज़ किया गया; कुछ पाठ अस्पष्ट या दूषित है। हिन्दी और English: AI-रचित, AI-समीक्षित; विद्वान् से जाँच शेष।",
-  "kind_labels": {"verse": "श्लोक-युग्म", "prose": "गद्य / सूची"},
-  "verse_block_labels": {"verse": "श्लोक", "prose": "मूल पाठ"},
-  "aid_labels": {"pegs": "चित्र-शब्द (मेरा बनाया चित्र)", "puns": "सुनने की सहायता (मेरी बनाई)"},
-  "metre": "anustubh",
-  "chapters": [
-    {"number": 1, "title": "आयुष्कामीय", "prefix": "as1", "unit": "अध्याय १", "summary": "Chapter 1, Āyuṣkāmīya: the invocation, the sages' request, the line of teaching from Brahmā, the aim of long life, and the plan of the whole work.", "sections": "tools/authored/sections.py:CH1"},
-    {"number": 2, "title": "शिष्योपनयनीय", "prefix": "as2", "unit": "अध्याय २", "summary": "Chapter 2, Śiṣyopanayanīya: the qualities of teacher and pupil, how the physician learns, and the four parts of treatment.", "sections": "tools/authored/sections.py:CH2"},
-    {"number": 3, "title": "दिनचर्या", "prefix": "as3", "unit": "अध्याय ३", "summary": "Chapter 3, Dinacaryā: the daily routine and conduct from waking onward.", "sections": "tools/authored/sections.py:CH3"},
-    {"number": 4, "title": "ऋतुचर्या", "prefix": "as4", "unit": "अध्याय ४", "summary": "Chapter 4, Ṛtucaryā: seasonal regimen, diet and conduct.", "sections": "tools/authored/sections.py:CH4"},
-    {"number": 5, "title": "रोगानुत्पादनीय", "prefix": "as5", "unit": "अध्याय ५", "summary": "Chapter 5, Rogānutpādanīya: not letting disease arise, and the urges that should not be held back.", "sections": "tools/authored/sections.py:CH5"}
-  ]
+ "bank_id": "ashtanga-sangraha-sutrasthana",
+ "title": "अष्टाङ्गसंग्रह",
+ "genre": "संस्कृत श्लोक",
+ "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha studied verse by verse: Sūtrasthāna chapters 1 to 5 and Śārīrasthāna chapters 1 to 12, with Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per unit.",
+ "scroll_buttons": true,
+ "labels": {
+  "unit": "अध्याय",
+  "units": "अध्याय",
+  "topic": "विषय",
+  "whole": "पूरा अध्याय"
+ },
+ "data_pattern": "data/chapter{N}_verses.json",
+ "authored_dir": "tools/authored",
+ "ref_template": "अष्टाङ्गसंग्रह · सूत्रस्थान · अध्याय {chapter} · {kind} {unit}।",
+ "source_disclaimer": "पाठ: १८८८ का मराठी-मुद्रित संस्करण, खराब स्कैन से डिजिटाइज़ किया गया; कुछ पाठ अस्पष्ट या दूषित है। हिन्दी और English: AI-रचित, AI-समीक्षित; विद्वान् से जाँच शेष।",
+ "kind_labels": {
+  "verse": "श्लोक-युग्म",
+  "prose": "गद्य / सूची"
+ },
+ "verse_block_labels": {
+  "verse": "श्लोक",
+  "prose": "मूल पाठ"
+ },
+ "aid_labels": {
+  "pegs": "चित्र-शब्द (मेरा बनाया चित्र)",
+  "puns": "सुनने की सहायता (मेरी बनाई)"
+ },
+ "metre": "anustubh",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "आयुष्कामीय",
+   "prefix": "as1",
+   "unit": "अध्याय १",
+   "summary": "Chapter 1, Āyuṣkāmīya: the invocation, the sages' request, the line of teaching from Brahmā, the aim of long life, and the plan of the whole work.",
+   "sections": "tools/authored/sections.py:CH1"
+  },
+  {
+   "number": 2,
+   "title": "शिष्योपनयनीय",
+   "prefix": "as2",
+   "unit": "अध्याय २",
+   "summary": "Chapter 2, Śiṣyopanayanīya: the qualities of teacher and pupil, how the physician learns, and the four parts of treatment.",
+   "sections": "tools/authored/sections.py:CH2"
+  },
+  {
+   "number": 3,
+   "title": "दिनचर्या",
+   "prefix": "as3",
+   "unit": "अध्याय ३",
+   "summary": "Chapter 3, Dinacaryā: the daily routine and conduct from waking onward.",
+   "sections": "tools/authored/sections.py:CH3"
+  },
+  {
+   "number": 4,
+   "title": "ऋतुचर्या",
+   "prefix": "as4",
+   "unit": "अध्याय ४",
+   "summary": "Chapter 4, Ṛtucaryā: seasonal regimen, diet and conduct.",
+   "sections": "tools/authored/sections.py:CH4"
+  },
+  {
+   "number": 5,
+   "title": "रोगानुत्पादनीय",
+   "prefix": "as5",
+   "unit": "अध्याय ५",
+   "summary": "Chapter 5, Rogānutpādanīya: not letting disease arise, and the urges that should not be held back.",
+   "sections": "tools/authored/sections.py:CH5"
+  },
+  {
+   "number": 201,
+   "title": "पुत्रकामीय",
+   "prefix": "sh1",
+   "unit": "शारीर अध्याय १",
+   "summary": "Chapter 1, Putrakāmīya: the right ages for marriage and conception, the nature of śukra and ārtava and their eight defects with treatment, false pregnancy, the fertile period and menstrual regimen, choice of nights for a son or daughter, the putrīya rite with its mantras and postures, puṃsavana and prajāsthāpana measures, and what decides the child's colour and mind.",
+   "authored": [
+    "sh1_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH1",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय १ · {kind} {unit}।"
+  },
+  {
+   "number": 202,
+   "title": "गर्भावक्रान्ति",
+   "prefix": "sh2",
+   "unit": "शारीर अध्याय २",
+   "summary": "Chapter 2, Garbhāvakrānti: how the embryo is formed and its sex determined, signs of conception, month-by-month development with consciousness and the longings (daurhṛda), the eighth-month instability of ojas, the foetus's position, nourishment and birth, the kinds of impotence and congenital defects, things harmful to the foetus, and the gentle treatment of the pregnant woman.",
+   "authored": [
+    "sh2_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH2",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय २ · {kind} {unit}।"
+  },
+  {
+   "number": 203,
+   "title": "गर्भोपचरणीय",
+   "prefix": "sh3",
+   "unit": "शारीर अध्याय ३",
+   "summary": "Chapter 3, Garbhopacaraṇīya: the month-by-month diet and care of the pregnant woman, the delivery chamber and signs of approaching labour, managing delivery with timely bearing down and protective mantras, remedies for retained foetus and placenta, makkala pain and prolapsed yoni, and the regimen of the newly delivered mother (sūtikā).",
+   "authored": [
+    "sh3_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH3",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ३ · {kind} {unit}।"
+  },
+  {
+   "number": 204,
+   "title": "गर्भव्यापद्",
+   "prefix": "sh4",
+   "unit": "शारीर अध्याय ४",
+   "summary": "Chapter 4, Garbhavyāpad: mishaps of pregnancy, namely bleeding and its treatment, early miscarriage of the unripe embryo, the stunted fetus (upaviṣṭaka, upaśuṣkaka, nāgodara, līna) and its treatment by doṣa, the dead and malpresented fetus (mūḍhagarbha) and its surgical extraction, after-care of the mother, Balā oil, and month-wise remedies for threatened miscarriage.",
+   "authored": [
+    "sh4_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH4",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ४ · {kind} {unit}।"
+  },
+  {
+   "number": 205,
+   "title": "अङ्गविभाग",
+   "prefix": "sh5",
+   "unit": "शारीर अध्याय ५",
+   "summary": "Chapter 5, Aṅgavibhāga: the body's parts and their origin from the five great elements and from mother, father, self, compatibility and rasa, the mental qualities, and an enumeration of skins, kalās, sense organs, receptacles, trunk organs, the eye, bones, joints, ligaments, muscles, vessel openings and the measures of bodily fluids.",
+   "authored": [
+    "sh5_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH5",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ५ · {kind} {unit}।"
+  },
+  {
+   "number": 206,
+   "title": "सिराविभाग",
+   "prefix": "sh6",
+   "unit": "शारीर अध्याय ६",
+   "summary": "Chapter 6, Sirāvibhāga: the numbers and sites of the sirās and those not to be pierced, the doṣa-carrying vessels, the twenty-four dhamanīs, the srotas and their roots and vitiation, the digestive fire, the digestion of food and the nourishment of the dhātus with their essences and wastes, and the four kinds of agni.",
+   "authored": [
+    "sh6_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH6",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ६ · {kind} {unit}।"
+  },
+  {
+   "number": 207,
+   "title": "मर्मविभाग",
+   "prefix": "sh7",
+   "unit": "शारीर अध्याय ७",
+   "summary": "Chapter 7, Marmavibhāga: the 107 marmas (vital points), their location in the limbs, trunk, neck and head with the effect of injury at each, their fivefold division by tissue (flesh, vessel, sinew, bone, joint) and by outcome (immediately fatal, fatal after an interval, fatal on dart removal, disabling, painful), their sizes, and the signs of marma injury and the duty to treat to the last.",
+   "authored": [
+    "sh7_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH7",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ७ · {kind} {unit}।"
+  },
+  {
+   "number": 208,
+   "title": "प्रकृतिभेदीय",
+   "prefix": "sh8",
+   "unit": "शारीर अध्याय ८",
+   "summary": "Chapter 8, Prakṛtibhedīya: the seven constitutions arising from the doṣas at conception and the marks of Vāta, Pitta, Kapha, mixed and balanced types, their treatment, the three stages of age and the span of life, threefold strength and the eight sāras, the body's measures in one's own finger-breadths, and the marks of a desirable, long-lived body.",
+   "authored": [
+    "sh8_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH8",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ८ · {kind} {unit}।"
+  },
+  {
+   "number": 209,
+   "title": "विकृताङ्गविज्ञानीय",
+   "prefix": "sh9",
+   "unit": "शारीर अध्याय ९",
+   "summary": "Chapter 9, Vikṛtāṅgavijñānīya: riṣṭa, the sudden reversal of the body's natural state that foretells death, shown in abnormal colour, chāyā and prabhā, reflection, eyes, nose, lips, teeth, tongue, voice, breath, smell and touch, with verses giving the time left to live and the patients a physician should avoid.",
+   "authored": [
+    "sh9_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH9",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ९ · {kind} {unit}।"
+  },
+  {
+   "number": 210,
+   "title": "विकृतेहाविज्ञानीय",
+   "prefix": "sh10",
+   "unit": "शारीर अध्याय १०",
+   "summary": "Chapter 10, Vikṛtehāvijñānīya: signs of approaching death (riṣṭa) seen in perverted perception, bodily behaviour, breathing, temperament and mind, with time-limits of survival and the teaching that riṣṭa is certain and must always be studied.",
+   "authored": [
+    "sh10_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH10",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय १० · {kind} {unit}।"
+  },
+  {
+   "number": 211,
+   "title": "विकृतव्याधिविज्ञानीय",
+   "prefix": "sh11",
+   "unit": "शारीर अध्याय ११",
+   "summary": "Chapter 11, Vikṛtavyādhivijñānīya: the fatal or incurable signs of individual diseases (fever, cough, raktapitta, consumption, piles, diarrhoea, prameha, gulma, udara, swelling, kuṣṭha, Vāta disorders, eruptions, wounds), the patient's ominous gestures, and the failure of well-tried medicine as a sign of death.",
+   "authored": [
+    "sh11_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH11",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय ११ · {kind} {unit}।"
+  },
+  {
+   "number": 212,
+   "title": "दूतादिविज्ञानीय",
+   "prefix": "sh12",
+   "unit": "शारीर अध्याय १२",
+   "summary": "Chapter 12, Dūtādivijñānīya: prognosis from the messenger who summons the physician, omens met on the way (objects, animals, birds, words), the kinds of dreams and the diseases foretold by inauspicious dreams, auspicious dreams and remedies, and the signs of recovery, closing the Śārīrasthāna.",
+   "authored": [
+    "sh12_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_sarira.py:SH12",
+   "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय १२ · {kind} {unit}।"
+  }
+ ]
 }
