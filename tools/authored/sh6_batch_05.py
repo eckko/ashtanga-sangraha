@@ -21,7 +21,7 @@ AUTHORED["52"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 52, where are the downward-going ones situated?",
-            ("In the pakvāśaya (seat of digested)", "पक्वाशयस्थाः: situated in the pakvāśaya."),
+            ("In the pakvāśaya (ripened-food seat)", "पक्वाशयस्थाः: situated in the pakvāśaya."),
             [("In the hṛdaya (the heart of the body)", "The heart is reached by the upward-going ones (card 48), not these."),
              ("In the śiras (the head of the body)", "No head is named in unit 52; the place is the pakvāśaya."),
              ("In the grīvā (the neck of the body)", "No neck is named in unit 52; the place is the pakvāśaya.")],
@@ -164,7 +164,7 @@ AUTHORED["54"] = {
         multi("apply", 4, "Which statements fit unit 54?",
               [("One pair carries water", "Right: द्वे तोयम्."),
                ("The line states what is released", "The object of मुञ्चतः is not stated."),
-               ("One pair carries tears", "Tears are not named in unit 54."),
+               ("Eight carry the water", "Water is carried by two (द्वे तोयम्), not eight."),
                ("Each named task has two", "Right: every item has द्वे (two).")],
               [0, 3],
               "Pairs for food, water, urine, śukra, and a releasing pair; what is released is unstated.",
@@ -198,7 +198,7 @@ AUTHORED["55"] = {
     "questions": [
         mcq("pretest", 0, "By unit 55, what is named for women?",
             ("Ārtava (menstrual blood)", "नारीणामार्तवम्: of women, ārtava."),
-            [("Stanya (milk of the breast)", "Stanya is not named in unit 55."),
+            [("Śukra (semen of a man)", "Śukra is named for a man (नरस्य, card 51), not for women; unit 55 names ārtava."),
              ("Sveda (sweat of the body)", "Sveda is not named in unit 55."),
              ("Mūtra (the urine)", "Mūtra is not named in unit 55.")],
             "Those very two: of women, ārtava.",
@@ -257,7 +257,7 @@ AUTHORED["56"] = {
             ("They satiate sweat (sveda)", "शेषास्त्वष्टौ ... स्वेदमभितर्पयन्ति."),
             [("They carry the tears (aśru)", "Tears are not named in unit 56."),
              ("They carry the urine (mūtra)", "Urine is not named in unit 56."),
-             ("They grasp the sound (śabda)", "Sound is not named in unit 56.")],
+             ("They carry the food (anna)", "Food is carried by two (unit 54), not by the remaining eight.")],
             "The remaining eight, running crosswise, satiate the sweat.",
             "शेषास्त्वष्टौ तिरश्चीनाः स्वेदमभितर्पयन्ति."),
         order(1, "Put the printed words of unit 56 in the line's order.",
@@ -738,13 +738,13 @@ AUTHORED["64"] = {
               "Of the water-carrying ones, the root is the palate ...",
               "उदक, वाहिन्, तालु, मूल.", role="extend",
               teaches="उदकवाहिनाम् = उदक (water) + वाहिन् (carrying), genitive plural: of the water-carrying ones."),
-        mcq("discriminate", 3, "What does the data say about क्लोम (kloma) in unit 64?",
-            ("Its identity is disputed; it stays 'kloma'", "Pancreas, right lung and trachea have been proposed: disputed."),
-            [("The line identifies it as the lung", "The line does not identify kloma."),
-             ("The data takes it to be the pancreas", "The pancreas is only one proposal; it is disputed."),
-             ("It is a second name for the palate", "Palate (तालु) and kloma are named as two roots.")],
-            "Kloma is kept untranslated; its identity is disputed.",
-            "क्लोम: identity disputed."),
+        mcq("discriminate", 3, "In unit 64, which word means 'palate'?",
+            ("तालु", "तालु = palate."),
+            [("मूलं", "मूल = root, origin."),
+             ("उदक", "उदक = water."),
+             ("वाहिनां", "वाहिन् = carrying; वाहिनाम् = of the carrying ones.")],
+            "तालु is the palate; मूलम् is the root.",
+            "तालु = palate."),
         multi("apply", 4, "Which statements fit unit 64?",
               [("The word 'srotas' is printed", "It is not printed; the 'ones' are understood."),
                ("The palate is named as a root", "Right: तालु मूलम्."),
@@ -781,7 +781,7 @@ NOTES_HI = {
     "55": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। क्रिया (वहन करती हैं) इकाई ५४ से समझी जाती है। ‘ते’ सम्भवतः इकाई ५४ के शुक्र "
            "वाले जोड़े की ओर (इकाई ५१ से मेल), पर पंक्ति यह नहीं कहती; इस पर कोई प्रश्न नहीं। आर्तव = रजोरक्त (मानक)। सन्धि जाँची: "
            "ते (स्त्रीलिंग द्विवचन) + एव: द्विवचन का -ए प्रगृह्य है, सन्धि नहीं; नारीणाम् + आर्तवम् → नारीणामार्तवम्।"),
-    "56": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘वज्र्रोनिरसन्यौ’ अर्थ नहीं देता (वज्र = वज्र, बेमेल); ‘वर्चोनिरसन्यौ’ "
+    "56": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘वज्र्रोनिरसन्यौ’ अर्थ नहीं देता (वज्र = वज्र यानी बिजली/इन्द्र का अस्त्र, यहाँ अर्थ नहीं बनता); ‘वर्चोनिरसन्यौ’ "
            "(मल निकालने वाली) अनुमानित पाठ है, र्च/ज्र की भूल सम्भव; इस पर कोई प्रश्न नहीं। ‘शेष आठ’ किसी ऐसी गिनती को पूरा करती "
            "दिखती हैं जो इस पंक्ति में नहीं। ‘अभितर्पयन्ति’ = तृप्त करती हैं (अंग्रेज़ी भाव: पोषण)। सन्धि जाँची: शेषाः + तु → शेषास्तु "
            "(त से पहले विसर्ग → स्); तु + अष्टौ → त्वष्टौ (उ + भिन्न स्वर → व्); स्वेदम् + अभि... → स्वेदमभि...; स्थूल + अन्त्र → "
@@ -987,7 +987,7 @@ IMAGE_SPECS = {
                 "3 agitated, 4 scanty, 5 frequent, 6 with sound and pain."),
         "type": "table",
         "title": "इकाई ६२: ततः उच्छ्वसन (साँस)",
-        "heads": ["छपा शब्द", "अर्थ"],
+        "heads": ["शब्द", "अर्थ"],
         "rows": [["१ अतिसृष्ट", "अधिक छूटती"], ["२ प्रतिबद्ध", "रुकी हुई"], ["३ कुपित", "क्षुब्ध"],
                  ["४ अल्पाल्प", "थोड़ी-थोड़ी"], ["५ अभीक्ष्ण", "बार-बार"], ["६ सशब्दशूल", "शब्द और पीड़ा सहित"]],
     },
