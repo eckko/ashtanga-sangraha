@@ -439,7 +439,7 @@ AUTHORED["8"] = {
         fill(2, "The word for 'both' in unit 8 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("उभय"),
              "उभयबहुलः = abundant in both.",
-             "उभय = both.",
+             "उभय (both) + बहुल (abundant) form the bahuvrīhi उभयबहुल, 'abundant in both'; अः + अ → ओऽ gives उभयबहुलोऽग्निः.",
              "उभयबहुलोऽग्निः = fire is abundant in both."),
         mcq("discriminate", 3, "Which split of बहुलोऽग्निः in unit 8 is right?",
             ("बहुलः + अग्निः", "अः + अ → ओ, and the अ of अग्निः is dropped (ऽ)."),

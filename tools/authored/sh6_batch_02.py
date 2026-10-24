@@ -6,8 +6,8 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 14
 AUTHORED["14"] = {
     "title": "तासां पृष्ठवंशमुभयतो",
-    "question": "By unit 14, where do four of the back's twenty-four sirās lie, and which way do they go?",
-    "rule": ("Of them (तासाम्, the 24 sirās of the back, unit 13), on both sides (उभयतः) of the spine (पृष्ठवंश), "
+    "question": "By unit 14, where do four of the back's twenty-four (sirās, understood) lie, and which way do they go?",
+    "rule": ("Of them (तासाम्, the back's 24, sirās understood, unit 13), on both sides (उभयतः) of the spine (पृष्ठवंश), "
              "two and two go upward (ऊर्ध्वगामिन्यौ); those (ताः) are four (चतस्रः)."),
     "limits": ("Prose; the copula of the last clause is understood. The unit does not say what is to be done with these "
                "four; the data's note on unit 8 counts them among the trunk sirās to be guarded, as an inference only. "
@@ -20,7 +20,7 @@ AUTHORED["14"] = {
     "hook": "रीढ़ के दोनों ओर दो-दो, ऊपर जाती हुई: चार।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 14, where do the two and two upward-going sirās lie?",
+        mcq("pretest", 0, "By unit 14, where do the two and two upward-going ones (sirās, understood) lie?",
             ("On both sides of the spine", "पृष्ठवंशमुभयतः: on both sides of the pṛṣṭhavaṃśa (spine)."),
             [("In the two groins and the hips", "The groins belong to unit 12, not to the back's list."),
              ("Above the meḍhra, in the belly", "Above the meḍhra is the belly's list (unit 16)."),
@@ -67,7 +67,7 @@ AUTHORED["14"] = {
 # ---------------------------------------------------------------- unit 15
 AUTHORED["15"] = {
     "title": "चतुर्विंशतिरुदरे",
-    "question": "By unit 15, how many sirās are in the belly (udara)?",
+    "question": "By unit 15, how many (sirās, understood) are in the belly (udara)?",
     "rule": ("Twenty-four (चतुर्विंशतिः) are in the belly (उदरे); the same number as the back of unit 13."),
     "limits": ("Prose, two words; the copula is understood and the counted noun (the sirās of this chapter) is not printed. "
                "Which places in the belly hold them is not said here."),
@@ -79,7 +79,7 @@ AUTHORED["15"] = {
     "hook": "पेट में भी चौबीस, पीठ जितनी।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 15, how many sirās are in the belly (udara)?",
+        mcq("pretest", 0, "By unit 15, how many (sirās, understood) are in the belly (udara)?",
             ("24", "चतुर्विंशतिरुदरे: twenty-four in the belly."),
             [("40", "Forty is the chest's number (unit 17)."),
              ("32", "Thirty-two is the hip region's number (unit 11)."),
@@ -123,7 +123,7 @@ AUTHORED["15"] = {
 # ---------------------------------------------------------------- unit 16
 AUTHORED["16"] = {
     "title": "तासां मेंढ्रस्योपरि · ताअपि चतस्रः",
-    "question": "By unit 16, where do four of the belly's twenty-four sirās lie?",
+    "question": "By unit 16, where do four of the belly's twenty-four (sirās, understood) lie?",
     "rule": ("Of them (the belly's 24, unit 15), above the meḍhra (penis, standard), on both sides of the romarājī "
              "(line of body hair; restored, near certain), two and two; those also (ता अपि) are four."),
     "limits": ("Prose. Printed ‘उपरिोमराजीम्’ lost the र of रोमराजी; restored, near certain, but no question rests on it. "
@@ -183,7 +183,7 @@ AUTHORED["16"] = {
 # ---------------------------------------------------------------- unit 17
 AUTHORED["17"] = {
     "title": "चत्वारिंशद्वक्षसि",
-    "question": "By unit 17, how many sirās are in the chest (vakṣas)?",
+    "question": "By unit 17, how many (sirās, understood) are in the chest (vakṣas)?",
     "rule": ("Forty (चत्वारिंशत्) are in the chest (वक्षसि), the largest count of the trunk. Our own check, not stated in "
              "the text: with 32 + 16 + 24 + 24 of units 11-15 it makes the 136 of the antarādhi (trunk, probable; unit 7)."),
     "limits": ("Prose, two words; copula understood, counted noun not printed. The sum 32 + 16 + 24 + 24 + 40 = 136 is a "
@@ -197,7 +197,7 @@ AUTHORED["17"] = {
     "hook": "छाती में चालीस: धड़ की सबसे बड़ी गिनती।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 17, how many sirās are in the chest (vakṣas)?",
+        mcq("pretest", 0, "By unit 17, how many (sirās, understood) are in the chest (vakṣas)?",
             ("40", "चत्वारिंशद्वक्षसि: forty in the chest."),
             [("24", "Twenty-four is the number of the back and of the belly."),
              ("32", "Thirty-two is the hip region's number (unit 11)."),
@@ -241,7 +241,7 @@ AUTHORED["17"] = {
 # ---------------------------------------------------------------- unit 18
 AUTHORED["18"] = {
     "title": "तासां द्वे हृदये",
-    "question": "By unit 18, how many of the chest's sirās are in the heart (hṛdaya)?",
+    "question": "By unit 18, how many of the chest's (sirās, understood) are in the heart (hṛdaya)?",
     "rule": ("Of them (तासाम्, the chest's forty, unit 17), two (द्वे) are in the heart (हृदये)."),
     "limits": ("Prose; copula understood. The unit names only the place and the number; it says nothing of what the two "
                "do or how they are to be treated. It appears to continue unit 17 (grouping note)."),
@@ -253,7 +253,7 @@ AUTHORED["18"] = {
     "hook": "छाती के चालीस में से दो, हृदय में।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 18, how many of the chest's sirās are in the heart?",
+        mcq("pretest", 0, "By unit 18, how many of the chest's (sirās, understood) are in the heart?",
             ("2", "तासां द्वे हृदये: of them, two in the heart."),
             [("4", "Four is not the heart's number; द्वे is two."),
              ("14", "Fourteen is the total of units 18-20, given in unit 21."),
@@ -360,7 +360,7 @@ AUTHORED["19"] = {
 # ---------------------------------------------------------------- unit 20
 AUTHORED["20"] = {
     "title": "एकैकाऽपस्तंभालापेष्विति",
-    "question": "By unit 20, how many sirās lie in each of the last named places of the chest?",
+    "question": "By unit 20, how many (sirās, understood) lie in each of the last named places of the chest?",
     "rule": ("One each (एकैका) in the apastambhas and in a second named place, and इति (thus) closes the chest's list. "
              "The second name is printed ‘आलाप’; ‘अपलाप’ is only a conjectural reading."),
     "limits": ("Prose; copula understood; confidence medium. Printed ‘आलाप’ (talk) does not suit a body place; अपलाप is a "
@@ -422,8 +422,8 @@ AUTHORED["20"] = {
 # ---------------------------------------------------------------- unit 21
 AUTHORED["21"] = {
     "title": "ताश्चतुर्दश",
-    "question": "By unit 21, how many are the chest sirās just listed?",
-    "rule": ("Those (ताः, the sirās named in units 18-20, as the data reads it) are fourteen (चतुर्दश): a part of the "
+    "question": "By unit 21, how many are the chest's ones (sirās, understood) just listed?",
+    "rule": ("Those (ताः, the ones named in units 18-20, sirās understood, as the data reads it) are fourteen (चतुर्दश): a part of the "
              "chest's forty (unit 17)."),
     "limits": ("Prose, two words; copula understood. The print gives only the total; the split 2 + 4 + 4 + 4 is the "
                "data's inference: no question rests on it. Whether a rule of guarding goes with the fourteen is not said "
@@ -480,7 +480,7 @@ AUTHORED["21"] = {
 # ---------------------------------------------------------------- unit 22
 AUTHORED["22"] = {
     "title": "चतुर्विंशतिर्ग्रीवायां",
-    "question": "By unit 22, how many sirās are in the neck (grīvā)?",
+    "question": "By unit 22, how many (sirās, understood) are in the neck (grīvā)?",
     "rule": ("Twenty-four (चतुर्विंशतिः) are in the neck (ग्रीवायाम्). The data's arithmetic check (unit 32 note) counts "
              "the neck in the 164 of the upper part (unit 9); the text does not say so here."),
     "limits": ("Prose, two words; copula understood, counted noun not printed. Which of the 24 are named follows in "
@@ -493,7 +493,7 @@ AUTHORED["22"] = {
     "hook": "गर्दन में चौबीस, पेट-पीठ जितनी।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 22, how many sirās are in the neck (grīvā)?",
+        mcq("pretest", 0, "By unit 22, how many (sirās, understood) are in the neck (grīvā)?",
             ("24", "चतुर्विंशतिर्ग्रीवायाम्: twenty-four in the neck."),
             [("16", "Sixteen is the number of the jaws and of the tongue (units 25-26)."),
              ("56", "Fifty-six is the eyes' number (unit 30)."),
@@ -542,7 +542,7 @@ AUTHORED["22"] = {
 # ---------------------------------------------------------------- unit 23
 AUTHORED["23"] = {
     "title": "तासां चतस्रोऽष्टौ च मर्मसंज्ञाः",
-    "question": "By unit 23, how many of the neck's sirās are named marma?",
+    "question": "By unit 23, how many of the neck's (sirās, understood) are named marma?",
     "rule": ("Of them (the neck's 24, unit 22), four (चतस्रः) and eight (अष्टौ) are named marma (मर्मसंज्ञाः, "
              "'having the name marma'; marma = vital spot, a doctrinal term)."),
     "limits": ("Prose; copula understood. The unit does not say where the four and the eight lie, nor why they are given "
@@ -556,7 +556,7 @@ AUTHORED["23"] = {
     "hook": "गर्दन के चौबीस में चार और आठ: मर्म नाम वाली।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 23, what are four and eight of the neck's sirās called?",
+        mcq("pretest", 0, "By unit 23, what are four and eight of the neck's (sirās, understood) called?",
             ("Marma-named (vital spots)", "मर्मसंज्ञाः: having the name marma."),
             [("Upward-going (ūrdhvagāminī)", "Upward-going is said of the back's four (unit 14)."),
              ("Taste-perceiving (rasavedinī)", "Taste-perceiving is said of two of the tongue's (unit 27)."),
@@ -660,7 +660,7 @@ AUTHORED["24"] = {
 # ---------------------------------------------------------------- unit 25
 AUTHORED["25"] = {
     "title": "हन्वोः षोडश",
-    "question": "By unit 25, how many sirās are in the jaws (hanu), and what is said of two of them?",
+    "question": "By unit 25, how many (sirās, understood) are in the jaws (hanu), and what is said of two of them?",
     "rule": ("In the two jaws (हन्वोः), sixteen; of them (तासाम्), two (द्वे) are connected with the joint "
              "(सन्धिसम्बन्धिन्यौ)."),
     "limits": ("Prose; copula understood. Which joint is not stated (the jaw joint is the natural but unstated reading). "
@@ -672,7 +672,7 @@ AUTHORED["25"] = {
     "hook": "जबड़ों में सोलह; दो जोड़ से जुड़ी।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 25, how many sirās are in the two jaws (hanu)?",
+        mcq("pretest", 0, "By unit 25, how many (sirās, understood) are in the two jaws (hanu)?",
             ("16", "हन्वोः षोडश: sixteen in the two jaws."),
             [("24", "Twenty-four is the neck's number (unit 22)."),
              ("12", "Twelve is the head's number (unit 35)."),
@@ -697,7 +697,7 @@ AUTHORED["25"] = {
             "तासाम् + सन्धि... → तासां सन्धि...: म् → ं before a consonant.",
             "Final म् before a consonant → ं."),
         mcq("apply", 4, "Why is सन्धिसम्बन्धिन्यौ in the feminine dual?",
-            ("It agrees with द्वे, two sirās", "Data: f. nom. du., going with द्वे (two) sirās, a feminine noun."),
+            ("It agrees with द्वे, the two", "Data: f. nom. du., going with द्वे, the two (sirās, understood), a feminine noun."),
             [("It agrees with हन्वोः, two jaws", "हन्वोः is locative; सम्बन्धिन्यौ is nominative, so it goes with द्वे."),
              ("Joints always come in pairs", "Grammar, not anatomy, sets the ending: it agrees with द्वे."),
              ("It is not dual but plural", "-इन्यौ is a dual ending (data: f. nom. du.).")],
@@ -717,7 +717,7 @@ AUTHORED["25"] = {
 # ---------------------------------------------------------------- unit 26
 AUTHORED["26"] = {
     "title": "षोडश जिव्हायां",
-    "question": "By unit 26, how many sirās are in the tongue (jihvā)?",
+    "question": "By unit 26, how many (sirās, understood) are in the tongue (jihvā)?",
     "rule": ("Sixteen (षोडश) are in the tongue (जिह्वायाम्); the print has जिव्हा, a letter reversal of जिह्वा."),
     "limits": ("Prose, two words; copula understood. Which of the sixteen are named follows in unit 27, outside this "
                "unit."),
@@ -729,7 +729,7 @@ AUTHORED["26"] = {
     "hook": "जीभ में भी सोलह, जबड़ों जितनी।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 26, how many sirās are in the tongue (jihvā)?",
+        mcq("pretest", 0, "By unit 26, how many (sirās, understood) are in the tongue (jihvā)?",
             ("16", "षोडश जिह्वायाम्: sixteen in the tongue."),
             [("24", "Twenty-four is the neck's number (unit 22)."),
              ("40", "Forty is the chest's number (unit 17)."),
