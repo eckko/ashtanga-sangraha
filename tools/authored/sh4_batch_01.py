@@ -994,7 +994,8 @@ IMAGE_SPECS = {
         "file": "sh4-leha-dvaya-12.svg",
         "alt": ("Two columns of unit 12. First lickable, with honey and sugar: filaments of padma (lotus, standard), utpala "
                 "(probable) and kumuda (probable). Second, a powder with honey only: dhātakī (standard), gairika red ochre "
-                "(standard), sarjarasa sal resin (probable), rasāñjana (probable)."),
+                "(standard), sarjarasa sal resin (probable), rasāñjana (probable). Filaments of all three and dhātakī "
+                "in the powder are marked as the data's readings."),
         "type": "split",
         "title": "इकाई १२: दो लेह",
         "cols": [["शहद + शर्करा के साथ", ["पद्म (कमल, मानक)", "उत्पल (सम्भावित)", "कुमुद (सम्भावित)",

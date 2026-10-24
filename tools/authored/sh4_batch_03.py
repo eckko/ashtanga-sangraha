@@ -11,7 +11,7 @@ AUTHORED["28"] = {
              "does not stay, because its sāra (essence, firmness) has not yet developed (असंजातसारत्वात्)."),
     "limits": ("प्रायः = generally, not always. The exact doctrinal sense of sāra is not given. 'Months of pregnancy' is "
                "understood from garbha, not printed. No treatment is stated in this unit, and nothing is said here about "
-               "bleeding after three months. Prose; the data reads unit 29 as continuing this sentence."),
+               "bleeding after three months. Prose; the data says unit 29 appears to continue this sentence."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है कि जिस स्त्री के तीन मास पूरे नहीं हुए, उसमें पुष्प यानी रक्तस्राव दिखे तो गर्भ प्रायः नहीं टिकता। "
                    "कारण भी दिया गया है: उसमें सार (दृढ़ता, ठोसपन) अभी उत्पन्न नहीं हुआ होता (असंजातसारत्वात्)। "
                    "‘प्रायः’ का अर्थ है अधिकतर, हमेशा नहीं। "
@@ -77,7 +77,7 @@ AUTHORED["29"] = {
                    "एक पाठ के अनुसार आम के लिए जो उपचार ठीक है, वह गर्भ के लिए उपयुक्त उपचार से टकराता है; दूसरे के अनुसार ‘विरुद्धोपक्रम’ = उलटा उपचार। "
                    "‘ऊर्ध्वमपि’ (बाद में भी) का अर्थ ‘तीन मास के बाद भी’ होना केवल अनुमान है। "
                    "पक्की बात इतनी है कि ‘-त्वात्’ कारण बताता है: ऐसा होने के कारण।"),
-    "hook": "आम हो तो बाद में भी कठिनाई: उपचार आपस में टकराते हैं (एक पाठ)।",
+    "hook": "आमान्वये, बाद में भी, विरुद्ध उपक्रम के कारण: अर्थ अस्पष्ट (एक पाठ: उपचार टकराते हैं)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 29, what does the ending -त्वात् of विरुद्धोपक्रमत्वात् express?",
@@ -162,14 +162,14 @@ AUTHORED["30"] = {
             "-ईत here is the optative middle ending: one should apply.",
             "प्रयुञ्जीत = 3 sg. optative middle: should apply."),
         mcq("apply", 4, "Someone renders unit 30 as: In that case one should apply dry and cool foods. What is wrong?",
-            ("No noun is printed: only (ones)", "The data: the nouns are unstated, so it writes (ones)."),
+            ("No noun is printed in the line", "The data: the nouns are unstated, so it writes (ones)."),
             [("रूक्ष means oily, not dry", "रूक्ष means dry; oily would be स्निग्ध."),
              ("शीत means hot, not cool", "शीत means cool; hot would be उष्ण."),
              ("तत्र means never, not in that case", "तत्र is glossed in that case; it is no negative.")],
             "Foods is added; the line names no noun.",
             "रूक्षशीतानि: the noun is not stated."),
         mcq("transfer", 5, "By the pattern of रूक्षशीतानि, what does a new example लघुशीतानि mean?",
-            ("Light and cool (ones)", "A dvandva of two qualities, like रूक्ष + शीत: light and cool."),
+            ("Light and cool ones", "A dvandva of two qualities, like रूक्ष + शीत: light and cool."),
             [("Light because they are cool", "A dvandva joins with and; it gives no reason."),
              ("The lightness of cool ones", "-आनि is a neuter plural of adjectives, not an abstract noun."),
              ("Cool, but not at all light", "Nothing is negated; both qualities hold.")],
@@ -237,19 +237,19 @@ AUTHORED["31"] = {
 # ---------------------------------------------------------------- unit 32
 AUTHORED["32"] = {
     "title": "प्रागुपवासं तथा ... स्निग्धशीतानि पूर्ववत्",
-    "question": "By unit 32, what is the order of measures, and what is given once āma has been overcome?",
-    "rule": ("First fasting (प्राक् उपवासम्); then the drink of one decoction of a drug list; food: thin gruel (peyā) of "
+    "question": "By unit 32, what is given first, what else is given, and what once āma has been overcome?",
+    "rule": ("First fasting (प्राक् उपवासम्); likewise (तथा) the drink of one decoction (printed काथ, read क्वाथ) of a drug list; and as food: thin gruel (peyā) of "
              "grass-grains, śāli and ṣaṣṭika, with soups of mudga and the like; but when āma is overcome, unctuous and cool "
              "(ones) as before."),
     "limits": ("Medium confidence. घन (mustā) and कट्वंग are conjectural readings, and काथ is read as क्वाथ (decoction): no "
                "question rests on them. The e in षष्टिकेपेयाम् is a possible print slip. tṛṇadhānya grains are not listed. "
                "No amount is given; as before is not spelt out here."),
-    "explain_hi": ("यह लम्बी गद्य-पंक्ति एक क्रम देती है: पहले उपवास; फिर दुरालभा, अमृता, उशीर, पर्पटक आदि द्रव्यों के एक काढ़े का पान; "
-                   "फिर भोजन के रूप में तृणधान्य, शालि और साठी चावल की पेया (पतली लपसी), मूँग आदि के यूष के साथ। "
+    "explain_hi": ("यह लम्बी गद्य-पंक्ति कहती है: पहले उपवास; तथा (साथ ही) दुरालभा, अमृता, उशीर, पर्पटक आदि द्रव्यों के एक काढ़े का पान; "
+                   "और भोजन के रूप में तृणधान्य, शालि और साठी चावल की पेया (पतली लपसी), मूँग आदि के यूष के साथ। "
                    "जब आम जीत लिया जाए (जिते त्वामे), तब पहले की तरह स्निग्ध और शीतल (द्रव्य)। "
                    "पहचानें डेटा के लेबल के साथ: अमृता (गिलोय), उशीर (खस), अतिविषा (अतीस), धान्यक (धनिया) मानक; पर्पटक सम्भावित; दुरालभा विवादित। "
                    "‘घन’ और ‘कट्वंग’ अनुमानित पाठ हैं, और छपा ‘काथ’ ‘क्वाथ’ (काढ़ा) पढ़ा गया है; इन पर कोई प्रश्न नहीं।"),
-    "hook": "पहले उपवास, फिर काढ़ा, फिर पेया-यूष; आम जीते तो स्निग्ध-शीत।",
+    "hook": "पहले उपवास; साथ में काढ़ा और पेया-यूष; आम जीते तो स्निग्ध-शीत।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 32, what is done first?",
@@ -282,7 +282,7 @@ AUTHORED["32"] = {
         mcq("apply", 4, "By unit 32, when are unctuous and cool (ones) given, as before?",
             ("When āma is overcome", "जिते तु आमे: but when āma has been overcome."),
             [("Before the fast begins", "The fast comes first; unctuous and cool come last."),
-             ("With the first decoction", "The decoction is a separate, earlier measure."),
+             ("With the first decoction", "The decoction is a separate measure; unctuous and cool come once āma is overcome."),
              ("Only on the first day", "No day is named; the condition is that āma is overcome.")],
             "Unctuous and cool (ones) follow once āma has been overcome.",
             "जिते त्वामे स्निग्धशीतानि पूर्ववत्."),
@@ -342,7 +342,7 @@ AUTHORED["33"] = {
               "Two purposes: cleansing the garbha-koṣṭha and forgetting the pain.",
               "...विशुद्ध्यर्थम् अर्तिविस्मरणार्थं च."),
         mcq("apply", 4, "By the data of unit 33, what is the garbha-koṣṭha?",
-            ("Probably the womb (storehouse)", "garbha-koṣṭha = the storehouse of the embryo, probably the womb."),
+            ("Probably the womb", "garbha-koṣṭha = the storehouse of the embryo, probably the womb."),
             [("Probably the mother's chest", "The data reads the embryo's storehouse, probably the womb."),
              ("Probably the mother's bladder", "The bladder is not how the data reads garbha-koṣṭha."),
              ("Probably the drinker's mouth", "The mouth is not the storehouse of the embryo.")],
@@ -374,7 +374,7 @@ AUTHORED["34"] = {
                    "अवधि: जितने मास, उतने दिन। "
                    "मास गर्भ के हैं, यह समझा जाता है, छपा नहीं। "
                    "उद्दालक की पहचान विवादित है (सम्भवतः कोदो की कोई किस्म)।"),
-    "hook": "मद्य नहीं पीती: तिल वाली, बिना घी-नमक की यवागू, जितने मास उतने दिन।",
+    "hook": "मद्य नहीं पीती: तिल वाली, बिना स्नेह-नमक की यवागू, जितने मास उतने दिन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 34, with what is a non-drinker of madya treated?",
@@ -397,7 +397,7 @@ AUTHORED["34"] = {
               "अमद्यपा, पाचनीय, वर्ज, सतिल, यवागू.", role="extend",
               teaches="-वर्ज at the end of a compound = without: स्नेहलोणवर्ज = without sneha and salt."),
         mcq("discriminate", 3, "By unit 34, what is kept out of the gruels?",
-            ("Sneha (fat) and salt", "स्नेहलोणवर्जाभिः: without sneha and salt."),
+            ("Sneha and salt", "स्नेहलोणवर्जाभिः: without sneha and salt."),
             [("Sesame and uddālaka", "Sesame is added (सतिलाभिः); uddālaka is the grain of the gruel."),
              ("Digestive substances", "They are added: पाचनीयद्रव्योपहिताभिः."),
              ("All grains and sesame", "The gruel is of uddālaka and the like, with sesame.")],
@@ -546,7 +546,7 @@ AUTHORED["37"] = {
     "limits": ("The six qualities may qualify only the foods (the data's reading) or all three means: no question on that. "
                "No drug or recipe is named. The verb is carried from before; the closing इति is not translated."),
     "explain_hi": ("इसके बाद (ततः परम्) तीन साधनों से उपचार: स्नेह-पान, बस्ति (एनिमा) और आहार। "
-                   "इनके गुण छह शब्दों में: दीपनीय (अग्नि जगाने वाले), पाचनीय (पाचक), जीवनीय (जीवन बढ़ाने वाले), बृंहणीय (पुष्टिकर), मधुर और वातहर। "
+                   "गुण छह शब्दों में: दीपनीय (अग्नि जगाने वाले), पाचनीय (पाचक), जीवनीय (जीवन बढ़ाने वाले), बृंहणीय (पुष्टिकर), मधुर और वातहर। "
                    "डेटा ये गुण पास वाले शब्द ‘आहारैः’ से जोड़ता है, पर ये तीनों से भी जुड़ सकते हैं; इस पर प्रश्न नहीं। "
                    "कोई द्रव्य या विधि नहीं बताई गई; क्रिया पीछे से आती है।"),
     "hook": "फिर स्नेह, बस्ति, आहार: दीपन-पाचन-जीवन-बृंहण, मधुर, वातहर।",
@@ -605,11 +605,11 @@ AUTHORED["38"] = {
                "probably menstrual-type bleeding. The things to be avoided are not listed here. The sentence runs on "
                "(यस्याः here, तस्याः in unit 39)."),
     "explain_hi": ("यह गद्य-पंक्ति नए विषय (उपविष्टक आदि) की भूमिका है। "
-                   "गर्भ जातसार हो चुका हो, यानी उसमें सार (दृढ़ता) बन गया हो, तब भी त्याज्य बातों का त्याग न करने से (वर्ज्यानामवर्जनात्) "
+                   "गर्भ जातसार हो चुका हो, यानी उसमें सार (दृढ़ता) बन गया हो, और त्याज्य बातों का त्याग न करने से (वर्ज्यानामवर्जनात्) "
                    "पुष्प यानी सम्भवतः रज जैसा स्राव दिख सकता है, या योनि से कोई और स्राव हो सकता है। "
                    "‘पुष्पमर्हति’ का अर्थ पक्का नहीं (पुष्प उचित हो, या जो पुष्प के योग्य हो); इस पर प्रश्न नहीं। "
                    "वाक्य आगे चलता है: यहाँ ‘यस्याः’, अगली इकाई में ‘तस्याः’।"),
-    "hook": "सार बन चुका, फिर भी परहेज़ तोड़ा: पुष्प या दूसरा योनि-स्राव।",
+    "hook": "सार बन चुका, परहेज़ न किया: पुष्प या दूसरा योनि-स्राव।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 38, through what may the bleeding appear?",
@@ -801,7 +801,7 @@ NOTES_HI = {
            "सन्धि जाँची: मद्यानाम् + अन्यतमम् → मद्यानामन्यतमम्; पाययेत् + गर्भ → पाययेद्गर्भ (त् + घोष → द्); "
            "विशुद्धि + अर्थम् → विशुद्ध्यर्थम् (इ + अ → य); ...अर्थम् + अर्ति → ...अर्थमर्ति।"),
     "34": ("विश्वास मध्यम; कोई पाठ-चिह्न नहीं। छपा ‘मासा स्तावंत्यहानीति’ = मासास्तावन्त्यहानीति (विसर्ग का स् अगले शब्द से छपा)। "
-           "मास गर्भ के, यह समझा जाता है, छपा नहीं; अनुवाद शब्दशः। उद्दालक विवादित (सम्भवतः कोदो की किस्म; कुछ ग्रन्थों में यह कॉर्डिया, लसोड़ा, का नाम भी)। "
+           "मास गर्भ के, यह समझा जाता है, छपा नहीं; अनुवाद शब्दशः। उद्दालक विवादित (सम्भवतः कोदो की किस्म; कुछ ग्रन्थों में यह कॉर्डिया का नाम भी)। "
            "‘लोण’ = लवण। अन्तिम ‘इति’ का अनुवाद नहीं किया गया। सन्धि जाँची: द्रव्य + उपहिताभिः → द्रव्योपहिताभिः (अ + उ → ओ); "
            "सतिलाभिः + उद्दालक → सतिलाभिरुद्दालक (इः + घोष → इर्); यवागूभिः + उपाचरेत् → यवागूभिरुपाचरेत्; उपाचरेत् + यावन्तः → "
            "उपाचरेद्यावन्तः; यावन्तः + मासाः → यावन्तो मासाः (अः + घोष → ओ); मासाः + तावन्ति → मासास्तावन्ति (विसर्ग + त → स्); "
@@ -811,7 +811,7 @@ NOTES_HI = {
            "प्रीणनैर्बल; बल + अनुरक्षिभिः → बलानुरक्षिभिः (अ + अ → आ); अनुरक्षिभिः + अस्नेहैः → अनुरक्षिभिरस्नेहैः; अस्नेहैः + आहारैः → "
            "अस्नेहैराहारैः; आहारैः + आ → आहारैरा (इ/ऐ आदि के बाद विसर्ग, घोष या स्वर से पहले → र्)।"),
     "36": ("दो छपी पंक्तियाँ (०२.०४.३८, ०२.०४.३९) एक इकाई में। विश्वास उच्च। पाठ-चिह्न: ‘तस्मात्तीक्ष्णैरनवशेषयञ्चुपाचरेत्’ → "
-           "सम्भवतः ‘...अनवशेषयञ् चोपाचरेत्’ (च + उपाचरेत् → चोपाचरेत्; छपे में चु)। ‘अनुषज्येत’ = बार-बार लगा रहे (डेटा का पाठ); "
+           "डेटा का सुझाव ‘...अनवशेषयञ् चोपाचरेत्’ (च + उपाचरेत् → चोपाचरेत्; छपे में चु); पर न् + च का शुद्ध मेल ‘अनवशेषयंश्च’ होता, इसलिए पाठ अनिश्चित है (‘अनवशेषयन्नुपाचरेत्’ भी सम्भव)। ‘अनुषज्येत’ = बार-बार लगा रहे (डेटा का पाठ); "
            "तीक्ष्ण उपाय नामित नहीं। सन्धि जाँची: शूलम् + अनुषज्येत → शूलमनुषज्येत; तस्मात् + तीक्ष्णैः → तस्मात्तीक्ष्णैः (अघोष त से पहले त् बना); "
            "तीक्ष्णैः + अनवशेषयन् → तीक्ष्णैरनवशेषयन्; अन् + अवशेषयन् → अनवशेषयन्।"),
     "37": ("विश्वास उच्च; कोई पाठ-चिह्न नहीं। छह गुण-शब्द पुंलिंग बहुवचन: केवल आहारों के (डेटा का पाठ) या तीनों के; तय नहीं। "
@@ -859,7 +859,7 @@ AIDS = {
         "frame": "तत् (वह) + यथा (इस प्रकार): परिचय-वाक्य; क्रिया नहीं।",
     },
     "32": {
-        "chain": {"steps": ["१ पहले उपवास", "२ द्रव्यों के काथ का पान", "३ भोजन: तृणधान्य, शालि, षष्टिक की पेया",
+        "chain": {"steps": ["१ पहले उपवास", "२ तथा: द्रव्यों के काथ का पान", "३ और भोजन: तृणधान्य, शालि, षष्टिक की पेया",
                             "४ साथ में मूँग आदि के यूष", "५ आम जीतने पर: स्निग्ध-शीत, पहले की तरह"]},
         "diagram": {"groups": [
             {"label": "काथ के द्रव्य (क्रम से)", "items": ["दुरालभा: जवासा/धमासा (विवादित)", "अमृता: गिलोय (मानक)",
@@ -951,8 +951,8 @@ IMAGE_SPECS = {
                 "grass-grains, śāli and ṣaṣṭika; 4 with soups of mudga and the like; 5 when āma is overcome, unctuous and "
                 "cool, as before."),
         "type": "chain",
-        "title": "इकाई ३२: उपचार का क्रम",
-        "steps": ["१ पहले उपवास", "२ द्रव्यों के काथ का पान", "३ भोजन: तृणधान्य, शालि, षष्टिक की पेया",
+        "title": "इकाई ३२: पंक्ति में उपाय (पंक्ति का क्रम)",
+        "steps": ["१ पहले उपवास", "२ तथा: द्रव्यों के काथ का पान", "३ और भोजन: तृणधान्य, शालि, षष्टिक की पेया",
                   "४ साथ में मूँग आदि के यूष", "५ आम जीतने पर: स्निग्ध-शीत, पहले की तरह"],
     },
     ("32", "diagram"): {
