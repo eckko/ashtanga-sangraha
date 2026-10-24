@@ -1,7 +1,7 @@
 from helpers import mcq, match, order, fill, multi, accepts
 
 # Kalpasthana chapter 5 (Siddhabastikalpa), units 12-29.
-# 12-18: the mustadi yapana (one long sentence, lines 05.05.22-35);
+# 12-18: line 05.05.22 ends the sentence of 05.05.20-21; the mustadi yapana runs 05.05.23-35;
 # 19-29: milk enemas and the aphrodisiac (vrsya) enemas.
 
 AUTHORED = {}
@@ -60,9 +60,9 @@ AUTHORED["12"] = {
             [("The enema being given",
               "Elsewhere basti is the enema, but here it names the place of the āṭopa."),
              ("The enema bag (device)",
-              "The bag sense belongs to other chapters; here it is a body region."),
-             ("The yāpana enema of 05.05.35",
-              "The yāpana is the subject of the sentence, not the place of the āṭopa.")],
+              "The card reads basti here as a body region, not a device."),
+             ("The enema that is esteemed",
+              "That enema (of verse 11) is the subject of पूजितः; बस्ति in the compound is the place of the āṭopa.")],
             "बस्ति-आटोप = rumbling distension of the bladder region; the enema is the subject (पूजितः).",
             "बस्त्याटोप = basti (bladder region) + āṭopa (rumbling distension)."),
         mcq("transfer", 5,
@@ -219,7 +219,7 @@ AUTHORED["15"] = {
     "question": "What is added to the cooked milk in line 1 of verse 15, and which ground drugs follow?",
     "rule": ("The preparation takes jāṅgala-rasa (juice of dry-land animals), one and a quarter "
              "(the unit not stated), with ghee, honey and rock salt; then ground drugs: licorice, "
-             "probably dill (miśi), śyāmā, kaliṅga, an unclear kara, and añjana."),
+             "miśi (dill; disputed), śyāmā, kaliṅga, an unclear kara, and añjana."),
     "limits": ("Low confidence. What sapāda counts is not stated. jāṅgala is 'of dry-land "
                "animals'; the line does not say meat. kara in line 2 is unclear (karañja is only "
                "a guess); śyāmā and kaliṅga are disputed. No question rests on line 2's list."),
@@ -296,7 +296,7 @@ AUTHORED["16"] = {
             ("Flesh, digestive fire, strength, semen", "मांस-अग्नि-बल-शुक्र-विवर्धनः."),
             [("Fat, blood, marrow and the semen too", "Fat, blood and marrow are not in this compound."),
              ("Strength, voice, sleep and the skin", "Voice, sleep and skin are not named."),
-             ("Flesh, fat, bone and also marrow", "Only flesh of these is named.")],
+             ("Flesh, fat, bone and also marrow", "Only flesh of these is increased; fat (medas) is in line 2 among the disorders.")],
             "The compound ending in -विवर्धनः lists four: flesh, agni, strength, semen.",
             "मांस · अग्नि · बल · शुक्र + विवर्धनः = increasing."),
         match(1, "Match each word of line 1 of verse 16 to its meaning.",
@@ -827,7 +827,7 @@ AUTHORED["24"] = {
             "उ + अ → व."),
         mcq("apply", 4, "Where else does verse 24 say this formula (kalpa) holds?",
             ("In the egg fluids of other creatures", "मत्स्याद्यण्डरसेषु अपि = also in egg fluids of fish and the like."),
-            [("In the meat juices of dry-land beasts", "Jāṅgala juice is in verse 15, not here."),
+            [("In the juice of dry-land animals", "Jāṅgala juice is in verse 15, not here."),
              ("In the milk of goats, sheep and cows", "Goat's milk is in verse 23; no extension to milks is made."),
              ("In decoctions of cow's urine and roots", "No cow's urine is named in verse 24.")],
             "Line 2 extends the formula to egg fluids (peacock, gonarda, fish and the like).",
@@ -1030,13 +1030,13 @@ AUTHORED["27"] = {
 AUTHORED["28"] = {
     "title": "अतो दशदशाहेन",
     "question": "What does verse 28 promise to the man who takes these enemas at ten-day intervals?",
-    "rule": ("He who thereafter uses the enemas at ten-ten days, nourished like a stallion, goes "
-             "to a hundred women; one word (सदृषो) is unclear."),
+    "rule": ("He who thereafter uses the enemas at ten-ten days goes to a hundred women; on a "
+             "conjectural reading of a line with one unclear word (सदृषो), nourished like a stallion."),
     "limits": ("Low confidence. सदृषो is not a word and is left unread: no question uses it. "
                "Whether 'ten-ten days' means a ten-day course or a course every ten days is not "
                "decided by the Sanskrit. गच्छति is literally 'goes to'."),
     "explain_hi": ("इसके बाद (अतः) जो दस-दस दिन (दशदशाह) के क्रम से इन बस्तियों का सेवन करता है (निषेवते), उसका फल दूसरी पंक्ति में है। "
-                   "वह वाजी यानी घोड़े की तरह पुष्ट होकर सौ स्त्रियों के पास जाता है। "
+                   "डेटा के अनुवाद में, अनुमानित पाठ पर: वह वाजी यानी घोड़े की तरह पुष्ट होकर सौ स्त्रियों के पास जाता है। "
                    "बीच का छपा ‘सदृषो’ कोई शब्द नहीं है, इसलिए नहीं पढ़ा गया। "
                    "‘दस-दस दिन’ का अर्थ दस दिन का क्रम है या हर दसवें दिन, यह संस्कृत से तय नहीं होता।"),
     "hook": "दस-दस दिन बस्ति: घोड़े-सा पुष्ट, सौ स्त्रियाँ।",
@@ -1163,7 +1163,7 @@ NOTES_HI = {
            "संधि जाँची: जलाढके = जल + आढके; पचेत्तच्च = पचेत् + तत् + च (त् + च → च्च); पादशेषं, क्षीरशेषं में अन्त का ं = म्।"),
     "15": ("विश्वास: निम्न। ‘सपाद’ = सवा; किस मान का, नहीं कहा। ‘जाङ्गल’ = सूखे प्रदेश के प्राणियों का; पंक्ति ‘मांस’ नहीं कहती। "
            "text_flags (05.05.29): ‘कर’ किसी द्रव्य का नाम नहीं; ‘करञ्ज’ केवल अनुमान है। खुला अवलोकन: छपी पंक्ति ठीक १६ अक्षर की है, ‘करञ्ज’ से १७ हो जाते, जो इसके विरुद्ध है; इसलिए पंक्ति २ की सूची पर प्रश्न नहीं बना। "
-           "पहचान: यष्टी = मुलेठी (मानक), मिशि = सोया (विवादित), श्यामा विवादित, कलिङ्ग = इन्द्रयव/कुटज-बीज (सम्भावित)। "
+           "पहचान: यष्टी = मुलेठी (मानक), मिशि = सोया (विवादित), श्यामा विवादित, कलिङ्ग = इन्द्रयव/कुटज-बीज (डेटा में ‘सम्भावित’ और ‘विवादित’ दोनों; यहाँ विवादित माना)। "
            "संधि जाँची: ससर्पिर्मधु = स + सर्पिः + मधु (इः → इर्); पिष्टैर्यष्टी = पिष्टैः + यष्टी (ऐः → ऐर्)।"),
     "16": ("विश्वास: मध्यम। छपा ‘विवर्द्धनः’ = विवर्धनः (दोहरा द्ध सामान्यीकृत)। कोई क्रिया नहीं; ‘है’ जोड़ा गया। "
            "text_flags: छपा ‘नेह’ सम्भवतः ‘मेह’ (म/न की भूल); अनुवादों में ‘मेह’ लिया गया है, इसलिए इस पर प्रश्न नहीं बना। "
@@ -1251,7 +1251,7 @@ AIDS = {
     "17": {
         "frame": "पंक्ति १ के रोग: विषमज्वर, विसर्प (अनुमानित), एक अस्पष्ट शब्द, आध्मान, प्रवाहिका · पंक्ति २ की पीड़ा (रुजः): वंक्षण, ऊरु, कटी, कुक्षि, मन्या (अनुमानित), श्रोत्र, शिर।",
         "sandhi": "अ + ऊ → ओ: वङ्क्षण + ऊरु → वङ्क्षणोरु; अः → ओ: शिरः + रुजः → शिरोरुजः।",
-        "pegs": "मेरा बनाया चित्र (श्लोक का दावा नहीं): पीड़ा नीचे से ऊपर चढ़ती सोचें: जाँघ-जोड़, जाँघ, कमर, बगल, गर्दन, कान, सिर।",
+        "pegs": "मेरा बनाया चित्र (श्लोक का दावा नहीं): जाँघ-जोड़ से जाँघ पर उतरें, फिर कमर, बगल, गर्दन, कान होते हुए सिर तक चढ़ें।",
         "anchors": "विषम = अनियमित · आध्मान = अफारा · प्रवाहिका = मरोड़ वाले दस्त · वङ्क्षण = जाँघ का जोड़ · कुक्षि = पेट का बगल · रुज् = पीड़ा।",
     },
     "18": {
@@ -1317,7 +1317,7 @@ AIDS = {
         "anchors": "आढ्य = भरपूर · अल्प = थोड़ा · पर = उत्तम · भोज्य = भोजन · आत्मगुप्ता = केवाँच।",
     },
     "28": {
-        "chain": {"steps": ["दस-दस दिन के क्रम से", "बस्तियों का सेवन करे", "घोड़े की तरह पुष्ट",
+        "chain": {"steps": ["दस-दस दिन के क्रम से", "बस्तियों का सेवन करे", "(अनुमानित पाठ पर) घोड़े की तरह पुष्ट",
                             "सौ स्त्रियों के पास जाता है"]},
         "chunks": "अतो दशदशाहेन | यस्तु बस्तीन्निषेवते ‖ वाजीव पुष्टः सदृषो (अस्पष्ट) | गच्छति प्रमदाशतं।",
         "sandhi": "ई + इ → ई: वाजी + इव → वाजीव; ः → स् त से पहले: यः + तु → यस्तु।",
