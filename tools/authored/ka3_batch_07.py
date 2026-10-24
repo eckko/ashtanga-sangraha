@@ -8,9 +8,8 @@ AUTHORED["77"] = {
     "question": "How, according to unit 77, should the remaining complications of emesis and purgation be treated?",
     "rule": ("In the remaining complications (upadrava) of emesis and purgation, he should counter them according to the "
              "disease (yathāmayam), having regard to the doṣas, and should look to the basti-vyāpat-siddhi."),
-    "limits": ("Medium confidence. The printed चा is read as च + the अ of असम्यक् ('improperly administered'); 'properly' "
-               "would need a misprint, so no question rests on that prefix. The 'remaining' complications are not listed. "
-               "basti-vyāpat-siddhi presumably names the chapter on the cure of basti complications; the unit does not say so."),
+    "limits": ("Medium confidence. The printed चा is read as च + the अ of असम्यक् ('improperly'); no question rests on that prefix. "
+               "The remaining complications are not listed. basti-vyāpat-siddhi presumably names the chapter on basti complications."),
     "explain_hi": ("यह इकाई उन उपद्रवों के लिए एक सामान्य नियम देती है जिनका अलग से वर्णन नहीं हुआ: अनुचित रूप से दिए गए वमन और "
                    "विरेचन के शेष उपद्रव। उनमें यथामयम्, यानी रोग के अनुसार, और दोषों का विचार करके (दोषान् अपेक्ष्य) प्रतिकार किया जाए। "
                    "साथ ही बस्तिव्यापत्सिद्धि को भी देखा जाए; शाब्दिक अर्थ ‘बस्ति के उपद्रवों की चिकित्सा’, सम्भवतः उस नाम का अध्याय। "
@@ -308,9 +307,9 @@ AUTHORED["81"] = {
             "ऐः + vowel → ऐर्: …वीर्यैरभावितम्."),
         mcq("apply", 4,
             "A medicine was given in the right dose and at the right time, but not soaked with drugs of equal potency. By verse 81, what follows?",
-            ("It surely goes wrong",
+            ("It goes wrong (fails)",
              "Not soaked (अभावितम्) is one of the six faults: व्यापद्येतौषधं ध्रुवम्."),
-            [("It works just as usual", "Verse 81 says any of the six faults makes it fail."),
+            [("It works as usual", "Verse 81 says any of the six faults makes it fail."),
              ("It turns into a poison", "Poison is not named in verse 81."),
              ("It must be given twice", "No second dose is named in verse 81.")],
             "Any one of the six faults is enough: the medicine would surely go wrong.",
@@ -441,7 +440,7 @@ AUTHORED["83"] = {
             "यस्य (in whom, gen.) + ऊर्ध्वम् (upward): अ + ऊ → ओ.",
             "अ + ऊ → ओ."),
         mcq("apply", 4,
-            "By verse 83, what is the patient's state just before he is made to drink?",
+            "By verse 83, in what state is the patient before he is made to drink?",
             ("Vomited, cleansed, fasted",
              "वमितं … शुद्धं लंघितं पाययेत्: made to vomit, cleansed and made to fast, then made to drink."),
             [("Oiled, sweated and fed", "No oiling, sweating or feeding is named in verse 83."),
