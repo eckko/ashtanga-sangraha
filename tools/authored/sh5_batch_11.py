@@ -7,13 +7,13 @@ AUTHORED = {}
 AUTHORED["128"] = {
     "title": "अष्टावुरसि",
     "question": "By unit 128, what count of joints is given for the chest, and how does it close the trunk total?",
-    "rule": ("Eight (अष्टौ) in the chest (उरसि). With 3 (unit 125), 24 (unit 126) and the flanks 'likewise' (unit 127, "
+    "rule": ("Eight (अष्टौ) in the chest (उरसि). With 3 (unit 125, hip kapālas on a conjectural reading), 24 (unit 126) and the flanks 'likewise' (unit 127, "
              "presumably 24) it makes 59, the trunk total of unit 121."),
     "limits": ("Prose, one printed word; no verb and no counted noun are printed (bone-joints, from the count of unit 119). "
                "The flanks' 24 is presumed from तद्वत् (unit 127), not printed."),
     "explain_hi": ("यह एक छपे शब्द की गद्य-पंक्ति है: अष्टौ (आठ) + उरसि (छाती में)। "
                    "यहाँ गिनती अस्थि-सन्धियों की चल रही है (इकाई ११९ से), पर ‘सन्धि’ शब्द इस पंक्ति में छपा नहीं। "
-                   "धड़ की गिनती इसी से पूरी होती है: कटिकपाल में ३ (इकाई १२५), रीढ़ में २४ (इकाई १२६), "
+                   "धड़ की गिनती इसी से पूरी होती है: कटिकपाल (अनुमानित पाठ; छपा कति) में ३ (इकाई १२५), रीढ़ में २४ (इकाई १२६), "
                    "पार्श्वों में ‘तद्वत्’ यानी सम्भवतः २४ (इकाई १२७) और छाती में ८। "
                    "इनका जोड़ ५९ है, जो इकाई १२१ के धड़ वाले योग से मिलता है। "
                    "स्वर उ से पहले अष्टौ का औ आव् बना है।"),
@@ -24,13 +24,12 @@ AUTHORED["128"] = {
             ("The chest (उरस्)", "अष्टावुरसि = अष्टौ उरसि: eight in the chest."),
             [("The spine (पृष्ठवंश)", "The spine has twenty-four (unit 126), not eight."),
              ("The flanks (पार्श्व)", "The flanks have 'likewise' (unit 127), presumably twenty-four."),
-             ("The hips (कटिकपाल)", "The hip kapālas have three (unit 125), not eight.")],
+             ("The hips (कटिकपाल, conjectural)", "Unit 125 gives three for the hip kapālas (conjectural reading), not eight.")],
             "Eight in the chest.",
             "अष्टौ = eight; उरसि = in the chest."),
-        order(1, "Arrange the trunk joint counts in the text's order, ending with unit 128.",
-              ["३ कटिकपालों में (इकाई १२५)", "२४ रीढ़ में (इकाई १२६)", "तद्वत् पार्श्वों में (इकाई १२७)",
-               "८ छाती में (इकाई १२८)"],
-              "Hips 3, spine 24, flanks likewise, chest 8: unit 128 closes the trunk count.",
+        order(1, "Arrange the trunk joint counts of units 125-128 in the text's order.",
+              ["३ कटिकपालों में (अनुमानित पाठ)", "२४ रीढ़ में", "तद्वत् पार्श्वों में", "८ छाती में"],
+              "Hips 3 (conjectural reading), spine 24, flanks likewise, chest 8: unit 128 closes the trunk count.",
               "१२५ → १२६ → १२७ → १२८."),
         match(2, "Match each form of unit 128 to its meaning.",
               [["अष्टौ", "eight"], ["उरस्", "chest"], ["उरसि", "in the chest"]],
@@ -50,7 +49,7 @@ AUTHORED["128"] = {
              ("80, the upper total of unit 122", "80 is printed for above; the trunk sum is 59."),
              ("57, two short of unit 121", "3 + 24 + 24 + 8 is 59, not 57.")],
             "3 + 24 + 24 + 8 = 59, matching the trunk total (unit 121).",
-            "Hips 3 + spine 24 + flanks 24 + chest 8 = 59."),
+            "Hips 3 (conjectural reading) + spine 24 + flanks 24 + chest 8 = 59."),
         mcq("transfer", 5, "By the rule of अष्टावुरसि, how are उभौ + अपि (both, too) joined?",
             ("उभावपि", "औ before a vowel becomes आव्, as अष्टौ + उरसि → अष्टावुरसि."),
             [("उभोऽपि", "ओऽ comes from ओ (or अः) before अ, not from औ."),
@@ -111,7 +110,7 @@ AUTHORED["129"] = {
             ("नासायाम्", "आ-stem feminine + -याम् = 'in', as ग्रीवा → ग्रीवायाम्."),
             [("नासायाः", "नासायाः is the genitive or ablative: of or from the nose."),
              ("नासाम्", "नासाम् is the accusative singular, not 'in'."),
-             ("नासे", "नासे is the nominative or accusative dual, not 'in'.")],
+             ("नासे", "नासे is the vocative singular or the nominative/accusative dual, not 'in'.")],
             "नासा → नासायाम् (in the nose), like ग्रीवा → ग्रीवायाम्.",
             "आ-stem feminine: locative singular -आयाम्.",
             teaches="Feminine आ-stems take -आयाम् for 'in': ग्रीवा → ग्रीवायाम्."),
@@ -124,8 +123,9 @@ AUTHORED["130"] = {
     "question": "By unit 130, how many joints are in the kaṇṭhanāḍī, and what is it probably?",
     "rule": ("Three (त्रयः) in the kaṇṭhanāḍī, the throat-channel: probably the windpipe (probable; the gullet is the "
              "alternative). The visarga of त्रयः stays before the unvoiced क."),
-    "limits": ("Prose, confidence medium. The identification windpipe is only probable (data), so no question asks which "
-               "tube it is. No verb or counted noun is printed (bone-joints, from unit 119)."),
+    "limits": ("Prose, confidence medium. The identification windpipe is only probable (data; the gullet is the "
+               "alternative): questions give it only with that label, never as certain. No verb or counted noun is "
+               "printed (bone-joints, from unit 119)."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: तीन, कण्ठनाड़ी में। "
                    "कण्ठनाड़ी का शब्दार्थ है गले की नली; डेटा के अनुसार यह सम्भवतः श्वासनली है, दूसरा सम्भव अर्थ अन्ननली। "
                    "‘कण्ठनाड्याम्’ नाडी का सप्तमी एकवचन है: ई + आ → या। "
@@ -193,12 +193,12 @@ AUTHORED["131"] = {
                    "स्थान हैं: हृदय, यकृत (जिगर), क्लोम (पहचान विवादित; फेफड़ा, अग्न्याशय आदि सुझाए गए) और नाड़ियाँ। "
                    "अन्तिम समास को चार सदस्यों का द्वन्द्व पढ़ा गया; दूसरा पाठ है ‘हृदय, यकृत और क्लोम की नाड़ियों में’। "
                    "छपा ‘निबद्धा’ बहुवचन संख्या से मेल नहीं खाता; सम्भवतः विसर्ग छूटा है (निबद्धाः)। "
-                   "‘अष्टादश’ = अष्ट (आठ) + दश (दस) = अठारह।"),
+                   "‘अष्टादश’ = अष्टन् (आठ; दश से पहले अष्टा-) + दश (दस) = अठारह।"),
     "hook": "कण्ठनाड़ी से बँधी अठारह: हृदय, यकृत, क्लोम, नाड़ियाँ।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 131, how many joints are bound to the kaṇṭhanāḍī?",
-            ("Eighteen", "अष्टादश कण्ठनाडीनिबद्धाः: eighteen bound to the kaṇṭhanāḍī."),
+            ("Eighteen", "अष्टादश कंठनाडीनिबद्धा (as printed): eighteen bound to the kaṇṭhanāḍī."),
             [("Twelve", "अष्टादश is eighteen, not twelve."),
              ("Sixteen", "अष्टादश is eighteen, not sixteen."),
              ("Twenty-eight", "अष्टादश is eighteen, not twenty-eight.")],
@@ -214,12 +214,12 @@ AUTHORED["131"] = {
               "अष्टादश, निबद्ध, हृदय, यकृत्.", role="extend",
               teaches="निबद्ध = bound, fastened: these eighteen are bound to the kaṇṭhanāḍī."),
         mcq("discriminate", 3, "How is the number अष्टादश built?",
-            ("Eight plus ten: eighteen", "अष्ट (eight) + दश (ten) = अष्टादश, eighteen."),
+            ("Eight plus ten: eighteen", "अष्टन् (eight, अष्टा- before दश) + दश (ten) = अष्टादश, eighteen."),
             [("Eight times ten: eighty", "Eighty is अशीति (unit 122), not अष्टादश."),
              ("Ten less eight: two", "Nothing is taken away; दश is added to अष्ट."),
              ("Eight hundreds: 800", "Hundreds would use शत; अष्टादश has दश, ten.")],
-            "अष्टादश = 8 + 10 = 18.",
-            "अष्ट + दश = अष्टादश (18)."),
+            "अष्टा- (eight) + दश (ten) = 18.",
+            "अष्टन् → अष्टा- + दश = अष्टादश (18)."),
         multi("apply", 4, "Which places does unit 131 name for its eighteen?",
               [("The heart (हृदय)", "Right: हृदय is named."),
                ("The tooth-roots (दन्तमूल)", "The tooth-roots come in unit 132."),
@@ -252,7 +252,7 @@ AUTHORED["132"] = {
                    "‘दन्तमूलेषु’ = दन्त (दाँत) + मूल (जड़), सप्तमी बहुवचन: जड़ों में। "
                    "‘द्वात्रिंशत्’ का त् घोष द से पहले द् बना है, इसलिए छपा रूप द्वात्रिंशद्दंत है। "
                    "गिनी गई वस्तु (अस्थि-सन्धियाँ) और क्रिया छपी नहीं।"),
-    "hook": "बत्तीस दाँत-जड़ें, बत्तीस सन्धियाँ।",
+    "hook": "दाँतों की जड़ों में बत्तीस।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 132, how many joints are in the tooth-roots?",
@@ -374,7 +374,7 @@ AUTHORED["134"] = {
         mcq("pretest", 0, "By unit 134, how many joints are in the head kapālas?",
             ("Five", "पञ्च शिरःकपालेषु: five in the kapālas of the head."),
             [("Two", "Two is above the eyebrows; the head kapālas have five."),
-             ("Three", "Three is the hip kapālas (unit 125), not the head."),
+             ("Three", "Three is unit 125's kapāla count (hip, on a conjectural reading), not the head."),
              ("Eight", "Eight is the neck (unit 129), not the head kapālas.")],
             "Five in the head kapālas.",
             "पञ्च शिरःकपालेषु."),
@@ -578,10 +578,10 @@ AUTHORED["137"] = {
             "प्रतराः = what; ग्रीवापृष्ठवंशयोः = where.",
             "Locative = place; nominative = the thing named."),
         mcq("transfer", 5, "By the pattern of -वंशयोः, which form of हस्त (hand) means in the two hands, a new example?",
-            ("हस्तयोः", "अ-stem + -योः = locative dual, as पृष्ठवंशयोः."),
+            ("हस्तयोः", "अ-stem + -योः = locative (also genitive) dual, as पृष्ठवंशयोः."),
             [("हस्ताभ्याम्", "-आभ्याम् is instrumental, dative or ablative dual, not 'in'."),
              ("हस्तेषु", "हस्तेषु is the locative plural, 'in the hands' (more than two)."),
-             ("हस्ते", "हस्ते is the locative singular, 'in the hand'.")],
+             ("हस्ते", "हस्ते is the locative singular (or nom./acc. dual), not 'in the two hands'.")],
             "हस्तयोः = in the two hands.",
             "अ-stem: locative dual -योः.",
             teaches="अ-stems take -योः in the locative dual: पृष्ठवंश → पृष्ठवंशयोः."),
@@ -747,7 +747,7 @@ AUTHORED["140"] = {
              ("The liver (यकृत्)", "यकृत् is a maṇḍala site in unit 140.")],
             "Throat, eyes, heart, liver, kloma, channels; not the ear.",
             "कण्ठ, नेत्र, हृदय, यकृत्, क्लोम, नाडी → मण्डल."),
-        multi("apply", 4, "A joint at which of these places is maṇḍala by unit 140?",
+        multi("apply", 4, "Which of these places does unit 140 name in its maṇḍala list?",
               [("The wrist (मणिबन्ध)", "The wrist is kora (unit 135)."),
                ("The throat (कण्ठ)", "Right: कण्ठ is first in the list."),
                ("The spine (पृष्ठवंश)", "The spine is pratara (unit 137)."),
@@ -771,7 +771,7 @@ AUTHORED["140"] = {
 # ===================================================================== NOTES_HI
 NOTES_HI = {
     "128": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपा एक शब्द ‘अष्टावुरसि’ = अष्टौ उरसि। गिनी गई वस्तु (अस्थि-सन्धियाँ, इकाई ११९ से) "
-            "और क्रिया छपी नहीं। डेटा की धड़-जाँच: ३ (इकाई १२५) + २४ (इकाई १२६) + तद्वत् (इकाई १२७, सम्भवतः २४) + ८ = ५९, इकाई १२१ से मेल। "
+            "और क्रिया छपी नहीं। डेटा की धड़-जाँच: ३ (इकाई १२५, कटिकपाल अनुमानित पाठ) + २४ (इकाई १२६) + तद्वत् (इकाई १२७, सम्भवतः २४) + ८ = ५९, इकाई १२१ से मेल। "
             "सन्धि जाँची: अष्टौ + उरसि → अष्टावुरसि (औ + स्वर → आव्)।"),
     "129": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं; डेटा में कोई टिप्पणी नहीं। छपा ‘ग्रीवायां’ = ग्रीवायाम् (अन्त का म् अनुस्वार से लिखा)। "
             "गिनी गई वस्तु और क्रिया छपी नहीं। इकाई १३४ की डेटा-जाँच ऊपर वाले भाग की गिनती यहीं से (गर्दन ८) आरम्भ करती है।"),
@@ -797,7 +797,7 @@ NOTES_HI = {
             "भग = स्त्री-जननांग (मानक)। सामुद्ग ← समुद्ग (डिब्बी, ढक्कन वाला पात्र)। संज्ञा-शब्द अनकहा।"),
     "137": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। प्रतर एक सन्धि-प्रकार का नाम है; डेटा ने शब्दार्थ नहीं दिया। छपाई में "
             "‘ग्रीवापृष्ठवंशयोःप्रतराः’ जुड़ा है; अघोष प से पहले विसर्ग बना रहा। ग्रीवापृष्ठवंशयोः = दो सदस्यों का द्वन्द्व, सप्तमी द्विवचन।"),
-    "138": ("गद्य; विश्वास निम्न। दो पाठ-चिह्न (सम्भावित): छपा ‘कति’ (कितने) अर्थ नहीं देता, अनुमानित ‘कटि’ (कमर; इकाई १२५ में भी यही छपा); "
+    "138": ("गद्य; विश्वास निम्न। दो पाठ-चिह्न (सम्भावित): छपा ‘कति’ (कितने) अर्थ नहीं देता, अनुमानित ‘कटि’ (कमर; इकाई १२५ में भी ‘कति’ ही छपा); "
             "छपा ‘तून’ ज्ञात शब्द नहीं, ज्ञात नाम ‘तुन्नसेवनी’। दोनों अनुमानों पर कोई प्रश्न नहीं। सेवनी = सीवन, सिलाई। संज्ञा-शब्द अनकहा। "
             "सन्धि: शिरस् + क... → शिरःक... (अघोष क से पहले स् → विसर्ग)।"),
     "139": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। हनू = द्वितीया द्विवचन, ‘उभयतः’ (दोनों ओर) के कारण; नियमित रचना, कोई सुधार नहीं। "
@@ -811,7 +811,7 @@ NOTES_HI = {
 # ===================================================================== AIDS
 AIDS = {
     "128": {
-        "chain": {"steps": ["कटिकपालों में ३ (इकाई १२५)", "रीढ़ में २४ (इकाई १२६)", "पार्श्वों में तद्वत्, सम्भवतः २४ (इकाई १२७)",
+        "chain": {"steps": ["कटिकपालों में ३ (इकाई १२५, अनुमानित पाठ; छपा कति)", "रीढ़ में २४ (इकाई १२६)", "पार्श्वों में तद्वत्, सम्भवतः २४ (इकाई १२७)",
                             "छाती में ८ (इकाई १२८)", "योग ५९ = इकाई १२१ का धड़-योग"]},
         "chunks": "अष्टाव् | उरसि",
         "sandhi": "औ + स्वर → आव्: अष्टौ + उरसि → अष्टावुरसि।",
@@ -855,9 +855,9 @@ AIDS = {
     },
     "135": {
         "diagram": {"groups": [
-            {"label": "कोर (कली) नामक", "items": ["अङ्गुलि (अनुमानित पाठ)", "गुल्फ (टखना)", "जानु (घुटना)",
+            {"label": "कोर (कली) नामक", "items": ["मेंगुलि (छपा; अनुमानित पाठ अङ्गुलि)", "गुल्फ (टखना)", "जानु (घुटना)",
                                                  "मणिबन्ध (कलाई)", "कूर्पर (कुहनी)"]},
-            {"label": "उलूखल (ओखली) नामक", "items": ["कक्षा (काँख)", "वंक्षण", "दन्तमूल (दाँत की जड़)"]}]},
+            {"label": "उलूखल (ओखली) नामक", "items": ["कक्षा (काँख)", "वंक्षण (जाँघ का जोड़)", "दन्तमूल (दाँत की जड़)"]}]},
         "contrast": "कोर = कली (हाथ-पैर के जोड़) बनाम उलूखल = ओखली (काँख, वंक्षण, दाँत-जड़): दोनों इसी इकाई में।",
         "chunks": "मेंगुलिगुल्फजानुमणिबंधकूर्परेषु | कोरसंज्ञाः | कक्षावंक्षणदंतमूलेषूलूखलसंज्ञाः",
         "sandhi": "उ + उ → ऊ: मूलेषु + उलूखल → मूलेषूलूखल।",
@@ -898,11 +898,11 @@ AIDS = {
 IMAGE_SPECS = {
     ("128", "chain"): {
         "file": "sh5-dhad-sandhi-128.svg",
-        "alt": ("Chain of the trunk joint count ending in unit 128: hip kapālas 3 (unit 125); spine 24 (unit 126); flanks "
+        "alt": ("Chain of the trunk joint count ending in unit 128: hip kapālas (conjectural reading) 3 (unit 125); spine 24 (unit 126); flanks "
                 "likewise, presumably 24 (unit 127); chest 8 (unit 128); total 59, the trunk total of unit 121."),
         "type": "chain",
         "title": "इकाई १२८: धड़ की सन्धियाँ",
-        "steps": ["कटिकपाल ३ (इकाई १२५)", "रीढ़ २४ (इकाई १२६)", "पार्श्व तद्वत्, सम्भवतः २४", "छाती ८ (इकाई १२८)",
+        "steps": ["कटिकपाल (अनुमानित) ३ (इकाई १२५)", "रीढ़ २४ (इकाई १२६)", "पार्श्व तद्वत्, सम्भवतः २४", "छाती ८ (इकाई १२८)",
                   "योग ५९ (इकाई १२१)"],
     },
     ("131", "diagram"): {
@@ -938,23 +938,23 @@ IMAGE_SPECS = {
     },
     ("135", "diagram"): {
         "file": "sh5-kora-ulukhala-135.svg",
-        "alt": ("Two columns of unit 135: kora (bud) joints in fingers or toes (conjectural reading), ankle, knee, wrist, "
+        "alt": ("Two columns of unit 135: kora (bud) joints in the printed meṃguli (conjectured as fingers or toes, aṅguli), ankle, knee, wrist, "
                 "elbow; ulūkhala (mortar) joints in armpit, groin, tooth-roots."),
         "type": "split",
         "title": "इकाई १३५: कोर और उलूखल",
-        "cols": [["कोर (कली)", ["अङ्गुलि (अनुमानित)", "गुल्फ (टखना)", "जानु (घुटना)", "मणिबन्ध (कलाई)", "कूर्पर (कुहनी)"]],
-                 ["उलूखल (ओखली)", ["कक्षा (काँख)", "वंक्षण", "दन्तमूल (दाँत-जड़)"]]],
+        "cols": [["कोर (कली)", ["मेंगुलि (छपा; अनुमानित अङ्गुलि)", "गुल्फ (टखना)", "जानु (घुटना)", "मणिबन्ध (कलाई)", "कूर्पर (कुहनी)"]],
+                 ["उलूखल (ओखली)", ["कक्षा (काँख)", "वंक्षण (जाँघ का जोड़)", "दन्तमूल (दाँत-जड़)"]]],
     },
     ("136", "diagram"): {
         "file": "sh5-samudga-136.svg",
         "alt": ("Flowchart of unit 136: sāmudga (casket) joints, numbered in line order: 1 aṃsapīṭha (probably the "
-                "shoulder-blade region), 2 anus, 3 bhaga, 4 hips (conjectural reading)."),
+                "shoulder-blade region), 2 anus, 3 bhaga, 4 printed titamba (conjectured as nitamba, hips)."),
         "type": "mermaid",
         "code": ("flowchart LR\n"
                  "  A[\"सामुद्ग (डिब्बी) नामक\"] --> B[\"१ अंसपीठ (सम्भावित)\"]\n"
                  "  A --> C[\"२ गुद\"]\n"
                  "  A --> D[\"३ भग\"]\n"
-                 "  A --> E[\"४ नितम्ब (अनुमानित)\"]\n"),
+                 "  A --> E[\"४ तितंब (छपा; अनुमानित नितम्ब)\"]\n"),
     },
     ("140", "diagram"): {
         "file": "sh5-mandala-140.svg",
