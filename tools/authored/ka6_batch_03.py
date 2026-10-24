@@ -4,21 +4,21 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 25
 AUTHORED["25"] = {
-    "title": "कुर्वन्तो वेगसंरोधम्",
+    "title": "वेगसंरोधं पीडितो वा",
     "question": "Which faulty bastis does verse 25 name at the start of the statement on the basti thrown upward?",
-    "rule": ("A basti given while the urge is held back, or pressed by excess quantity, or lacking "
-             "unctuousness, salt and heat, small and with little drug: these open the statement "
-             "(05.06.48-51) whose verb, comes out, is in 05.06.51."),
+    "rule": ("Verse 25 names the faults: holding back of the urge (vegasaṃrodha), excess quantity (atimātrā), "
+             "a basti lacking unctuousness, salt and heat (reading not firm), small, with little drug. "
+             "The verb, comes out, is in 05.06.51."),
     "limits": ("No verb here; the result follows in 05.06.50-51. Which urge, and who is pressed, are not stated. "
                "Flagged print: कुँर्वंतो (kurvan or kurvantaḥ, open) and अग्निग्ध (read asnigdha, not unctuous); "
                "how far a- reaches is not firm. No question rests on these."),
     "explain_hi": ("यह श्लोक एक लम्बे कथन (05.06.48-51) का आरम्भ है: वह बस्ति जो ऊपर फेंकी जाकर मुख-नासिका से निकलती है। "
                    "पहली पंक्ति में दो कारण हैं: वेग का संरोध यानी स्वाभाविक वेग को रोकना, और अतिमात्रा यानी "
-                   "अधिक मात्रा से पीड़ित (दबाई गई) बस्ति। "
+                   "अधिक मात्रा से पीड़ित (डेटा का पाठ: अधिक मात्रा से दबाई गई बस्ति; रोगी का पीड़ित होना भी सम्भव)। "
                    "दूसरी पंक्ति में बस्ति के दोष हैं: अनुमानित पाठ पर स्नेह, लवण और उष्णता से रहित, अल्प यानी "
                    "थोड़ी, और अल्पभेषज यानी कम औषध वाली। "
                    "कौन-सा वेग रुका, यह नहीं कहा; क्रिया ‘निरेति’ 05.06.51 में आती है।"),
-    "hook": "वेग रोका, मात्रा अधिक, या बस्ति रूखी-फीकी-ठंडी और थोड़ी: वह ऊपर उठेगी।",
+    "hook": "वेग का संरोध, अधिक मात्रा, या थोड़ी और कम औषध वाली बस्ति: वह ऊपर उठेगी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which basti does line 2 of verse 25 name among the faulty ones?",
@@ -29,7 +29,7 @@ AUTHORED["25"] = {
              ("A basti given after a heavy meal",
               "No meal is named in verse 25."),
              ("A basti too hot and too sharp",
-              "Verse 25 names a basti lacking heat; too hot and sharp is the atiyoga basti of 05.06.69.")],
+              "Verse 25 names no sharp basti; too hot and sharp is the atiyoga basti of 05.06.69.")],
             "Line 2 ends with बस्तिः अल्पः अल्पभेषजः: small, with little drug.",
             "अल्प = small, little; भेषज = drug."),
         match(1, "Match each word of verse 25 to its meaning.",
@@ -57,10 +57,10 @@ AUTHORED["25"] = {
         multi("apply", 4,
               "A physician reviews a basti that rose up. Which faults are named in verse 25?",
               [("The urge was held back", "Right: वेगसंरोधं."),
-               ("It was pressed by excess quantity", "Right: पीडितो वा ऽतिमात्रया."),
+               ("An excess quantity (अतिमात्रा) is named", "Right: पीडितो वा ऽतिमात्रया names excess quantity."),
                ("It was small and had little drug", "Right: बस्तिरल्पो ऽल्पभेषजः."),
                ("It was given on an empty stomach", "No empty stomach is named in verse 25."),
-               ("It was too cold", "Cold is not named in verse 25; the cold basti is 05.06.35.")],
+               ("It was given at night", "No time of day is named in verse 25.")],
               [0, 1, 2],
               "Verse 25 names the held urge, the excess quantity and the small basti with little drug.",
               "वेगसंरोध · अतिमात्रा · अल्प, अल्पभेषज."),
@@ -243,7 +243,7 @@ AUTHORED["28"] = {
                    "रोगी को अधोमुख यानी मुँह नीचे करके उसकी पीठ, पार्श्व यानी बगलें और उदर गरम हाथों से मसले। "
                    "फिर बालों से खींचकर उसे हिलाए। "
                    "और व्याल यानी साँप या हिंसक पशु, तथा दाढ़ वाले पशुओं से उसे डराए; डराने की सूची 05.06.56 में चलती है।"),
-    "hook": "मुँह नीचे, गरम हाथों से मालिश, बाल पकड़ कर झटका, फिर साँप-शेर का डर।",
+    "hook": "मुँह नीचे, गरम हाथों से मालिश, बाल पकड़ कर झटका, फिर साँप और दाढ़ वाले पशुओं का डर।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "With what are the back, sides and belly kneaded, by verse 28?",
@@ -602,7 +602,7 @@ AUTHORED["32"] = {
             [("From the place of the throat",
               "'From' would need an ablative, not -स्थिते."),
              ("The throat that stands (subject)",
-              "The subject form would be कण्ठस्थितः."),
+              "स्थित means 'situated', not 'stands', and -स्थिते is a locative, not a subject form (that would be कण्ठस्थितः, 'situated in the throat')."),
              ("Having placed the throat",
               "स्थित is a past participle 'situated', not 'having placed'.")],
             "X-स्थिते (locative) = 'when (it) is situated in X'.",
@@ -649,7 +649,7 @@ AUTHORED["33"] = {
               "Line 1: the three drugs, to be given, prepared in urine; line 2: a basti, cooked in cow's urine, with amṛtā and bamboo shoots.",
               "यवकोलकुलत्थैश्च · विधेयो · मूत्रसाधितैः ‖ बस्तिर् · गौमूत्रसिद्धैर्वा · सामृतावंशपल्लवैः.",
               role="extend",
-              teaches="Verse 33 gives two bastis joined by वा: grains prepared in urine, or shoots cooked in cow's urine."),
+              teaches="Verse 33 gives two bastis joined by वा: yava, kola and kulattha prepared in urine, or shoots cooked in cow's urine."),
         mcq("discriminate", 3, "Which drug does verse 33 join with amṛtā (sa-amṛtā)?",
             ("Shoots of vaṃśa (probably bamboo)",
              "सामृतावंशपल्लवैः: shoots of vaṃśa with amṛtā."),
@@ -700,7 +700,7 @@ AUTHORED["34"] = {
                    "अनुमानित पाठ पर देवाह्व यानी सम्भवतः देवदारु, और रोहिष यानी सम्भवतः रूसा घास। "
                    "छपा शब्द ‘देवान्व’ कोई शब्द नहीं, इसलिए देवाह्व केवल अनुमान है। "
                    "सब शब्द एक समास में तृतीया बहुवचन ‘-ऐः’ (से) में हैं।"),
-    "hook": "करंज की छाल-पत्ते, शठी, देवदारु (अनुमान), रूसा घास: गोमूत्र वाली बस्ति में।",
+    "hook": "पूतिकरंज की छाल-पत्ते, शठी, देवदारु (अनुमानित पाठ), रूसा घास: गोमूत्र वाली बस्ति में।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Unit 34 continues a list from 05.06.65. What is it a list of?",
@@ -825,7 +825,7 @@ AUTHORED["35"] = {
              ("A basti without ghee",
               "-वत् means having; 'without' would be a- or nir-."),
              ("A basti cooked like ghee",
-              "Here -वान् is possession, not the -वत् 'like' of विरिक्तवत्.")],
+              "-वान् means 'having'; nothing in घृतवान् says 'like' or 'cooked'.")],
             "X-वान् = having X.",
             "कल्कवान् = having a paste; घृतवान् = having ghee.",
             teaches="कल्कवान् is the possessive -वत् (nom. -वान्): 'having a paste'."),
@@ -875,12 +875,12 @@ AUTHORED["36"] = {
             ("One too hot, sharp, sour and thick",
              "बस्तिरत्युष्णतीक्ष्णाम्लघनः."),
             [("One cold, small and with little drug",
-              "Cold and small bastis are faults of 05.06.35 and 05.06.49."),
-             ("One thin and mild, for a cruel koṣṭha",
-              "Thin and mild is the basti of 05.06.36, not this line."),
+              "Cold and small bastis are faults of 05.06.36 and 05.06.49."),
+             ("One thin and mild, for a harsh koṣṭha",
+              "Thin and mild is the basti of 05.06.35, not this line."),
              ("One cooked with the bilva five roots",
               "That is the chest basti of 05.06.67, a remedy.")],
-            "अति- governs the qualities: too hot, (too) sharp, sour, thick.",
+            "बस्तिरत्युष्णतीक्ष्णाम्लघनः: a basti too hot, sharp, sour, thick.",
             "अत्युष्ण · तीक्ष्ण · अम्ल · घन."),
         mcq("apply", 4, "A patient's trouble is situated in the head. Which pair of measures does verse 36 give, besides covering the head?",
             ("Nasal medication and smoke",
@@ -982,7 +982,7 @@ AIDS = {
         "anchors": "वेग = स्वाभाविक वेग · संरोध = रोकना · अतिमात्रा = अधिक मात्रा · अल्प = थोड़ा · भेषज = औषध।",
     },
     "26": {
-        "chain": {"steps": ["मृदु बस्ति", "वायु ने ऊपर फेंकी", "मुख-नासिका से निकली", "मूर्च्छा, हृल्लास, तृष्णा, दाह आदि"]},
+        "chain": {"steps": ["दोषयुक्त (श्लोक २५) या मृदु बस्ति", "वायु ने ऊपर फेंकी", "मुख-नासिका से निकली", "मूर्च्छा, हृल्लास, तृष्णा, दाह आदि"]},
         "chunks": "मृदुर्वा मारुतेनोर्ध्वं | विक्षिप्तो मुखनासिकात् ‖ निरेति मूर्च्छाहृल्लास | तृडदाहादीन्प्रवर्त्तयन्",
         "sandhi": "अ + ऊ → ओ: मारुतेन + ऊर्ध्वम् → मारुतेनोर्ध्वम्; -उः → -उर् घोष से पहले: मृदुः + वा → मृदुर्वा।",
         "anchors": "मारुत = वायु · ऊर्ध्वम् = ऊपर · निरेति = निकलती है · मूर्च्छा = बेहोशी · हृल्लास = मिचली · दाह = जलन।",
@@ -1035,7 +1035,7 @@ AIDS = {
     "34": {
         "chunks": "पूतीकरंज | त्वक्पत्र | शठी | देवान्व (अनुमानित: देवाह्व) | रोहिषैः",
         "anchors": "त्वक् = छाल · पत्र = पत्ता · शठी = विवादित पहचान · देवाह्व = सम्भवतः देवदारु (अनुमानित पाठ) · रोहिष = सम्भवतः रूसा घास।",
-        "pegs": "मेरा बनाया चित्र: गोमूत्र की हाँडी में एक-एक कर डाले जाते हैं: करंज की छाल, उसके पत्ते, शठी, देवदारु की लकड़ी, रूसा घास।",
+        "pegs": "मेरा बनाया चित्र: गोमूत्र की हाँडी में एक-एक कर डाले जाते हैं: पूतिकरंज की छाल, उसके पत्ते, शठी, देवाह्व (अनुमानित, सम्भवतः देवदारु), रूसा घास।",
     },
     "35": {
         "diagram": {"groups": [{"label": "सहित", "items": ["तैल", "गुड", "सिन्धूत्थ (सेंधा)"]},
@@ -1058,9 +1058,9 @@ AIDS = {
 IMAGE_SPECS = {
     ("26", "chain"): {
         "file": "ka6-urdhva-basti-26.svg",
-        "alt": "Flowchart of verse 26: a mild basti, thrown upward by the wind, comes out from the mouth and nose, producing fainting, nausea, thirst and burning",
+        "alt": "Flowchart of verse 26: a faulty or mild basti, thrown upward by the wind, comes out from the mouth and nose, producing fainting, nausea, thirst and burning",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["मृदु बस्ति"] --> B["वायु ने ऊपर फेंकी"]\n  B --> C["मुख-नासिका से निकली"]\n'
+        "code": ('flowchart TD\n  A["दोषयुक्त या मृदु बस्ति"] --> B["वायु ने ऊपर फेंकी"]\n  B --> C["मुख-नासिका से निकली"]\n'
                  '  C --> D["मूर्च्छा"]\n  C --> E["हृल्लास"]\n  C --> F["तृष्णा"]\n  C --> G["दाह"]\n'),
     },
     ("27", "chain"): {
@@ -1081,14 +1081,14 @@ IMAGE_SPECS = {
         "file": "ka6-apana-30.svg",
         "alt": "Flowchart of verse 30: obstruction of prana and udana; apana, whose course is more established, quickly draws the basti away",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["प्राण रुका"] --> C["अपान वायु<br/>मार्ग सुप्रसिद्धतर"]\n  B["उदान रुका"] --> C\n'
-                 '  C --> D["अपान बस्ति को<br/>शीघ्र खींचे"]\n'),
+        "code": ('flowchart TD\n  A["प्राण रुका"] --> C["अपान, मार्ग सुप्रसिद्धतर"]\n  B["उदान रुका"] --> C\n'
+                 '  C --> D["अपान शीघ्र बस्ति खींचे"]\n'),
     },
     ("31", "chain"): {
         "file": "ka6-kushtha-kalka-31.svg",
         "alt": "Flowchart of verse 31: a paste of costus and areca nut with sour; by heat, sharpness and flowing nature it brings the basti into the natural direction",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कुष्ठ-क्रमुक कल्क<br/>अम्ल सहित"] --> B["उष्णता"]\n  A --> C["तीक्ष्णता"]\n'
+        "code": ('flowchart TD\n  A["अम्लयुक्त कुष्ठ-क्रमुक कल्क"] --> B["उष्णता"]\n  A --> C["तीक्ष्णता"]\n'
                  '  A --> D["सरत्व"]\n  B --> E["बस्ति अनुलोम"]\n  C --> E\n  D --> E\n'),
     },
     ("33", "contrast"): {
