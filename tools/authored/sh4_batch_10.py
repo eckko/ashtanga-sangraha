@@ -253,7 +253,7 @@ AUTHORED["127"] = {
     "limits": ("Bastidvāra is not explained (bladder-region opening or pelvic outlet): no question on it. Vipanna is "
                "ruined or dead; death is suggested, not stated. Kukṣi is the belly, not specifically the womb. The object "
                "of 'split open' is not stated."),
-    "explain_hi": ("यह श्लोक मृत-सी माता से शिशु निकालने की बात कहता है। "
+    "explain_hi": ("यह श्लोक विपन्न (नष्ट या मृत) स्त्री से शिशु निकालने की बात कहता है। "
                    "यदि बस्तिद्वार पर विपन्न हुई स्त्री की कुक्षि यानी पेट फड़के (प्रस्पन्दते), जन्म के समय, तो तब शीघ्र "
                    "चीरकर (पाटयित्वा) शिशु को निकाले (उद्धरेत्)। "
                    "‘विपन्न’ = नष्ट या मृत; प्रसंग मृत्यु की ओर संकेत करता है, पर श्लोक यह स्पष्ट नहीं कहता। "
@@ -337,9 +337,9 @@ AUTHORED["128"] = {
               "मधुकं → शाकबीजं → सुरदारु → अश्मंतकः → कृष्णतिलाः → शतावरी."),
         match(2, "Match each drug of verse 128 to the card's identification.",
               [["मधुक", "licorice (probable)"], ["सुरदारु", "deodar (probable)"], ["कृष्णतिल", "black sesame (standard)"],
-               ["शतावरी", "wild asparagus"], ["ताम्रवल्ली", "copper creeper (unidentified)"]],
-              "The labels are the data's: probable, standard or unidentified.",
-              "मधुक, सुरदारु, कृष्णतिल, शतावरी, ताम्रवल्ली.", role="extend",
+               ["शतावरी", "wild asparagus"]],
+              "The labels are the data's: probable or standard.",
+              "मधुक, सुरदारु, कृष्णतिल, शतावरी.", role="extend",
               teaches="Suradāru and devadāru are two names of deodar (probable)."),
         mcq("discriminate", 3, "Which split of कृष्णतिलास्ताम्रवल्ली is right?",
             ("कृष्णतिलाः + ताम्रवल्ली", "A visarga before त becomes स्: कृष्णतिलास्ताम्रवल्ली."),
@@ -399,10 +399,9 @@ AUTHORED["129"] = {
               "वृक्षदनी → पयस्या → सोत्पलसारिबा → अनंता → पद्मा → मधुयष्टिका."),
         match(2, "Match each drug of verse 129 to the card's identification.",
               [["मधुयष्टिका", "licorice (standard)"], ["उत्पल", "blue water lily (probable)"],
-               ["वृक्षदनी", "mistletoe vandā (probable)"], ["सारिवा", "Indian sarsaparilla"],
-               ["अनन्ता", "identity disputed"]],
-              "The labels are the data's: standard, probable or disputed.",
-              "मधुयष्टिका, उत्पल, वृक्षदनी, सारिवा, अनन्ता.", role="extend",
+               ["वृक्षदनी", "mistletoe vandā (probable)"], ["सारिवा", "Indian sarsaparilla"]],
+              "The labels are the data's: standard or probable.",
+              "मधुयष्टिका, उत्पल, वृक्षदनी, सारिवा.", role="extend",
               teaches="स- before a noun means 'with': सोत्पल = स + उत्पल, with utpala."),
         mcq("discriminate", 3, "Which split of सोत्पल is right?",
             ("स + उत्पल", "अ + उ → ओ: स + उत्पल → सोत्पल."),
@@ -445,7 +444,7 @@ AUTHORED["130"] = {
                    "छठा: पृश्निपर्णी (पिठवन), बला (बरियार), शिग्रु (सहजन), श्वदंष्ट्रा (सम्भवतः गोखरू) और मधुपर्णिका "
                    "(पहचान विवादित, सम्भवतः गिलोय)। "
                    "‘क्षीरिशुंगत्वचः’ को तीन अलग द्रव्य भी पढ़ा जा सकता है; क्षीरी वृक्षों के नाम यहाँ नहीं हैं।"),
-    "hook": "पाँचवें में घी, छठे में सहजन-गोखरू।",
+    "hook": "पाँचवें में घी, छठे में सहजन और श्वदंष्ट्रा (सम्भवतः गोखरू)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By verse 130, which fat is named in the fifth combination?",
@@ -511,7 +510,7 @@ AUTHORED["131"] = {
         mcq("pretest", 0, "By verse 131, with what are all these combinations taken?",
             ("With milk", "सर्वैतान् पयसा योगान्: all these combinations with milk."),
             [("With honey", "Honey is not named in verse 131."),
-             ("With water", "Water is not named; पयसा means with milk."),
+             ("With meat soup", "Meat soup is not named in verse 131."),
              ("With sour gruel", "Gruel is not named in verse 131.")],
             "All the combinations are taken with milk (पयसा).",
             "पयसा = with milk."),
@@ -555,8 +554,8 @@ AUTHORED["132"] = {
     "title": "क्रमात्सप्तसु मासेषु गर्भे स्रवति योजयेत्",
     "question": "By verse 132, when are the seven combinations applied, and which plants does its second line name?",
     "rule": ("In sequence (क्रमात्), in the seven months, when the fetus is flowing (गर्भे स्रवति, probably miscarriage), one "
-             "should apply (योजयेत्) (them): seven combinations for seven months. Line 2 names six plants whose roots come "
-             "in unit 133."),
+             "should apply (योजयेत्) (them): seven combinations for seven months. Line 2 names six plants; it appears to run "
+             "on into unit 133 (their roots)."),
     "limits": ("Line 2 runs on into unit 133 (with the roots of these); its printed final -न् is read as a misprint "
                "(possible): no question on its case. 'Flowing' is probably miscarriage (garbhasrāva). No dose is given."),
     "explain_hi": ("यह श्लोक पिछले सात योगों की क्रिया देता है। "
@@ -615,13 +614,13 @@ AUTHORED["132"] = {
 AUTHORED["133"] = {
     "title": "मूलैः शृतं प्रयुंजीत क्षीरं",
     "question": "By verse 133, what milk is used, and with which drugs in the ninth month?",
-    "rule": ("One should use milk boiled with the roots (मूलैः शृतं क्षीरम्) of the plants just named, in the month, and "
+    "rule": ("One should use milk boiled with the roots (मूलैः शृतं क्षीरम्), it appears of the plants just named, in the month, and "
              "likewise in the eighth; in the ninth, with sārivā, anantā (disputed), payasyā (disputed) and madhuyaṣṭī (licorice)."),
     "limits": ("Low confidence. मासे has no ordinal (a lost number, or 'for a month'): no question on which month. "
-               "Line 2 has no verb or noun: 'should apply' comes in unit 134, the milk is understood. The roots are those "
-               "of unit 132's plants. No dose."),
+               "Line 2 has no verb or noun: 'should apply' comes in unit 134, the milk is understood. The roots appear to "
+               "be those of unit 132's plants. No dose."),
     "explain_hi": ("यह श्लोक दूध के आगे के प्रयोग देता है। "
-                   "(पिछली इकाई की वनस्पतियों की) जड़ों से उबाला दूध (मूलैः शृतं क्षीरम्) ‘मासे’ में प्रयोग करे, और उसी प्रकार "
+                   "(सम्भवतः पिछली इकाई की वनस्पतियों की) जड़ों से उबाला दूध (मूलैः शृतं क्षीरम्) ‘मासे’ में प्रयोग करे, और उसी प्रकार "
                    "आठवें में। "
                    "‘मासे’ के साथ क्रम-संख्या नहीं है: कोई संख्या छूट गई हो या ‘एक महीने तक’ अर्थ हो; यह तय नहीं। "
                    "नवें में: सारिवा, अनन्ता (विवादित), पयस्या (विवादित) और मधुयष्टि (मुलेठी) के साथ; यहाँ क्रिया नहीं, वह "
@@ -828,7 +827,7 @@ NOTES_HI = {
             "(गर्भस्राव, सम्भावित)। ‘उन्हें’ (योग) छपा नहीं। सात योग, सात महीने। सन्धि जाँची: पटोल + इक्षु → पटोलेक्षु (अ + इ → ए); "
             "क्रमात् + सप्तसु → क्रमात्सप्तसु।"),
     "133": ("श्लोक, दो छपी पंक्तियाँ (02.04.155, 02.04.156); विश्वास निम्न; कोई पाठ-चिह्न नहीं। ‘मासे’ के साथ क्रम-संख्या नहीं: कोई संख्या "
-            "छूटी हो या ‘एक महीने तक’ अर्थ; अनिश्चित, इस पर प्रश्न नहीं (छन्द में १६ अक्षर पूरे हैं)। जड़ें इकाई १३२ की वनस्पतियों की। दूसरी "
+            "छूटी हो या ‘एक महीने तक’ अर्थ; अनिश्चित, इस पर प्रश्न नहीं (छन्द में १६ अक्षर पूरे हैं)। जड़ें सम्भवतः इकाई १३२ की वनस्पतियों की। दूसरी "
             "पंक्ति में क्रिया और ‘दूध’ नहीं; क्रिया इकाई १३४ में। ‘तथाऽष्टमे’ और ‘सारिवाऽनंता’ में आ के बाद ऽ छपाई की आदत। सन्धि जाँची: "
             "तथा + अष्टमे → तथाष्टमे (आ + अ → आ); सारिवा + अनन्ता → सारिवानन्ता; छपा ‘क्षीरंमासे’ = क्षीरं मासे।"),
     "134": ("श्लोक, दो छपी पंक्तियाँ (02.04.157, 02.04.158); विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘योजयेत्’ इकाई १३३ के नवें महीने के लिए भी। "
@@ -852,7 +851,7 @@ AIDS = {
                   "अ + अ → आ: आक्षेपक + अर्दित → आक्षेपकार्दित।",
     },
     "124": {
-        "frame": "कैसे: प्रतिदिन प्रयोग (अहरहः उपयुज्यमानेन) → कब तक: छह महीने (षण्मासात्) → फल: अन्त्रवृद्धि (सम्भवतः हर्निया; "
+        "frame": "कैसे: प्रतिदिन प्रयोग (अहरहः उपयुज्यमानेन) → कब: छह महीने बाद (षण्मासात्) → फल: अन्त्रवृद्धि (सम्भवतः हर्निया; "
                  "सम्भावित पाठ) शान्त होती है (प्रशमम् एति)।",
         "chunks": "अहरहश्चोपयुज्यमानेन | षण्मासा | दंत्रवृद्धिः | प्रशममेति",
         "sandhi": "विसर्ग + च → श्च: अहरहः + च → अहरहश्च · अ + उ → ओ: च + उपयुज्यमानेन → चोपयुज्यमानेन · "
@@ -887,7 +886,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "तीसरा योग (पंक्ति १)", "items": ["वृक्षदनी (बांदा, सम्भावित)", "पयस्या (विवादित)",
                                                      "लता (अस्पष्ट)", "उत्पल-सहित सारिवा"]},
-            {"label": "चौथा योग (पंक्ति २)", "items": ["अनन्ता (विवादित)", "सारिवा", "रास्ना (अनुमानित पाठ)",
+            {"label": "चौथा योग (पंक्ति २)", "items": ["अनन्ता (विवादित)", "सारिवा", "रास्ना (अनुमानित पाठ; पहचान विवादित)",
                                                     "पद्मा (अस्पष्ट)", "मधुयष्टिका (मुलेठी, मानक)"]}]},
         "chunks": "वृक्षदनी | पयस्या च | लता | सोत्पलसारिबा / अनंता | सारिवा | रास्त्रा | पद्मा च | मधुयष्टिका",
         "sandhi": "अ + उ → ओ: स + उत्पल → सोत्पल।",
