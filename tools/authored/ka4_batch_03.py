@@ -322,8 +322,8 @@ AUTHORED["30"] = {
     "question": "What does verse 30 name after the binding drugs, and what is called scraping (lekhana)?",
     "rule": ("In sequence, with decoctions and pastes of binding priyaṅgu, ambaṣṭhā and the rest; the additive (pratīvāpa) of uṣaka "
              "and the rest; and the scraping (lekhana) triphalā juice."),
-    "limits": ("No noun such as basti is in the unit; a continuation of the kinds begun in line 05.04.47 is likely but not stated. "
-               "काथ is read as क्वाथ (flagged). Uṣaka is probably a saline earth; ambaṣṭhā is disputed. Whether ग्राहि is an adjective (binding) or names a group is not settled."),
+    "limits": ("No noun such as basti is in the unit; continuing the kinds of line 05.04.47 is likely, not stated. "
+               "काथ is read as क्वाथ (flagged). Uṣaka: probably saline earth; ambaṣṭhā disputed. Whether ग्राहि is an adjective (binding) or names a group is not settled."),
     "explain_hi": ("इस श्लोक में न क्रिया है न ‘बस्ति’ शब्द; सम्भवतः यह पंक्ति ०५.०४.४७ से शुरू हुए प्रकारों का वर्णन आगे बढ़ाता है, पर पाठ यह नहीं कहता। "
                    "पहली पंक्ति: क्रम से, ग्राही यानी बाँधने वाले प्रियङ्गु, अम्बष्ठा आदि के क्वाथों (छपा ‘काथ’) और कल्कों से। "
                    "दूसरी पंक्ति: उषक यानी प्रायः खारी मिट्टी आदि का प्रतीवाप यानी ऊपर से डाला जाने वाला द्रव्य, और लेखन यानी खुरचने वाला त्रिफला का रस। "
@@ -756,8 +756,8 @@ AUTHORED["36"] = {
 AUTHORED["37"] = {
     "title": "सिद्धाः क्षीरेऽतियोगे स्युः",
     "question": "In atiyoga, what should be cooked in milk and what is it joined with, according to verse 37?",
-    "rule": ("In atiyoga (excess), the drugs of line 05.04.70 should be cooked in milk, joined with honey, añjana and ghee. "
-             "Then: and with the four beginning with nyagrodha; by that very method, another (what is not stated; the sentence runs on into line 05.04.73)."),
+    "rule": ("In atiyoga (excess), line 05.04.70's drugs should be cooked in milk, joined with honey, añjana and ghee. "
+             "Then: and with the four beginning with nyagrodha; by that very method, another (unstated; the sentence runs into line 05.04.73)."),
     "limits": ("Excess of what is not stated, nor which añjana. The four of the nyagrodha group are not named in the unit; "
                "चतुर्भिइच is read as चतुर्भिश्च (flagged). अपरः, another, does not say another what."),
     "explain_hi": ("पिछली पंक्ति के द्रव्य (अश्वावरोहक आदि) यहाँ कर्ता हैं: अतियोग यानी अधिकता होने पर वे दूध में सिद्ध किए जाने चाहिए "
