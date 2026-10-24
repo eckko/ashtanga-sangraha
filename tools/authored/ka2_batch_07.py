@@ -55,7 +55,7 @@ AUTHORED["80"] = {
               "Roots of dantī and dravantī, cooked in dhātrī juice, employed in oil or in ghee.",
               "दन्ती-द्रवन्ती-मूल · धात्रीरस · तैल / घृत."),
         mcq("transfer", 5,
-            "Like दन्तीद्रवन्त्योः (of dantī and dravantī, gen. du. of -ई stems), which form means 'of the two rivers' from नदी?",
+            "Like दन्तीद्रवन्त्योः (of dantī and dravantī, gen. du. of -ई stems), which form of नदी means of the two rivers?",
             ("नद्योः", "-ई stem genitive dual: नदी → नद्योः, like दन्तीद्रवन्त्योः."),
             [("नदीनाम्", "नदीनाम् is the genitive plural: 'of the rivers'."),
              ("नद्याः", "नद्याः is genitive/ablative singular: 'of a river'."),
@@ -133,9 +133,9 @@ AUTHORED["82"] = {
     "question": "What powder does verse 82 describe, how is it steeped, and where is it beneficial with something sour?",
     "rule": ("A powder of 'those two', equal to viḍa salt, steeped in its own juice alone, is beneficial, joined with "
              "something sour, in obstruction (vibandha) and in gulma risen from Vāta."),
-    "limits": ("Low confidence. The referent of tayoḥ ('of those two') is not clear (perhaps pathyā and akṣa of line "
-               "05.02.150). viḍasamam may also mean 'an equal quantity of viḍa'. The printed viśi is doubtful (text flag; "
-               "reviewer note open): 'in the stool' is only a guess, and no question is built on it. viḍa = viḍa-lavaṇa (probable)."),
+    "limits": ("Low confidence. 'Those two' (tayoḥ) is unclear, perhaps pathyā and akṣa of line 05.02.150. viḍasamam "
+               "may mean 'an equal quantity of viḍa'. The printed viśi is doubtful (text flag, open note): no question on it. "
+               "viḍa = viḍa-lavaṇa (probable)."),
     "explain_hi": ("उन दोनों का (शायद पंक्ति ०५.०२.१५० के पथ्या और अक्ष का) चूर्ण, विड यानी विडलवण के बराबर, उसी के रस से ही भावित किया जाता है, यानी उसी में भिगोया जाता है। "
                    "दूसरी पंक्ति कहती है कि खट्टे से युक्त यह विबन्ध यानी मलावरोध में और वात से उत्पन्न गुल्म यानी पेट की गाँठ में हितकर है। "
                    "बीच का छपा शब्द ‘विशि’ अस्पष्ट है; ‘मल में’ केवल अनुमान है। "
@@ -303,7 +303,7 @@ AUTHORED["84"] = {
               "With śuṇṭhī, agnika and pṛthvīka, powdered, steeped in urine, drunk with ghee.",
               "शुण्ठी · अग्निक · पृथ्वीक → चूर्णित → मूत्रभावित → आज्येन."),
         mcq("transfer", 5,
-            "Like पिबेत् (one should drink, optative of √पा), which form means 'one should read' from √पठ्?",
+            "Like पिबेत् (one should drink, optative of √पा), which optative of √पठ् (read) means one should read?",
             ("पठेत्", "The optative in -एत् says 'one should': पिबेत्, पठेत्."),
             [("पठति", "पठति is the present: 'reads'."),
              ("पठितम्", "पठितम् is the past participle: 'read'."),
@@ -352,8 +352,8 @@ AUTHORED["85"] = {
               teaches="पार्श्वार्ति = पार्श्व (side) + आर्ति (pain): अ + आ → आ inside the compound."),
         mcq("discriminate", 3, "In verse 85, what does अजीर्ण mean?",
             ("Indigestion (food not digested)", "अ + जीर्ण: jīrṇa here is 'digested', so ajīrṇa = undigested, indigestion."),
-            [("Old age (not young)", "jīrṇa can mean 'old', but beside दुर्भुक्त it is 'digested'; a- negates it."),
-             ("Freshly cooked food", "Nothing about fresh food is said; ajīrṇa is a disorder in the list."),
+            [("Old age (worn out by the years)", "jīrṇa can mean 'old', but beside दुर्भुक्त it is 'digested'; a- negates it."),
+             ("Freshly cooked and still warm food", "Nothing about fresh food is said; ajīrṇa is a disorder in the list."),
              ("Stale ghee kept a year", "Old ghee is not named; ajīrṇa stands among disorders.")],
             "जीर्ण = digested (or old); अजीर्ण = undigested, indigestion (in this list).",
             "अ- + जीर्ण → अजीर्ण = indigestion."),
@@ -367,7 +367,7 @@ AUTHORED["85"] = {
               "Always, in all ailments, for child and old; ill-eating, indigestion, side pain, gulma, spleen, belly.",
               "बाल · वृद्ध · दुर्भुक्त · अजीर्ण · पार्श्वार्ति · गुल्म · प्लीहा · उदर."),
         mcq("transfer", 5,
-            "Like सर्वदा (always: सर्व + -दा, 'at every time'), which word means 'at that time, then'?",
+            "Like सर्वदा (सर्व + the time suffix -दा), which word built on तत् means then, at that time?",
             ("तदा", "-दा makes a word of time: सर्व → सर्वदा, तत् → तदा."),
             [("तत्र", "-त्र makes a word of place: तत्र = there."),
              ("तथा", "-था makes a word of manner: तथा = so, thus."),
@@ -428,7 +428,7 @@ AUTHORED["86"] = {
             "शस्यते = is commended; स्यात् = should be.",
             "गण्डमाला · पाण्डुरोग → शस्यते."),
         mcq("transfer", 5,
-            "Like शस्यते (is commended, passive of √शंस्), which form means 'is said' from √वच्?",
+            "Like शस्यते (is commended, passive of √शंस्), which passive of √वच् (speak) means is said?",
             ("उच्यते", "The passive takes -यते: √वच् → उच्यते 'is said', like शस्यते."),
             [("वदति", "वदति is active present: 'speaks'."),
              ("उक्तम्", "उक्तम् is the past participle: 'said'."),
@@ -491,7 +491,7 @@ AUTHORED["87"] = {
             "चित्रक = चीता (leadwort); पिप्पली = पीपर; त्रिवृत् = निशोथ.",
             "दन्ती · चित्रक (चीता) · पिप्पली (पीपर) · त्रिवृत् (निशोथ)."),
         mcq("transfer", 5,
-            "Like दशमे दशमेऽहनि (on every tenth day), which phrase means 'on every fifth day'?",
+            "Like दशमे दशमेऽहनि (on every tenth day), which phrase means on every fifth day?",
             ("पञ्चमे पञ्चमेऽहनि", "The ordinal repeated in the locative says 'on every fifth day'."),
             [("पञ्चमेऽहनि केवलम्", "Unrepeated, पञ्चमेऽहनि is 'on the fifth day' only, once."),
              ("पञ्चभिरहोभिः सह", "पञ्चभिः अहोभिः = with five days, a span, not a repeat."),
@@ -538,8 +538,8 @@ AUTHORED["88"] = {
               teaches="Two plural predicates (निष्परिहाराः, सर्वव्याधिनिबर्हणाः) describe एते, the modakas."),
         mcq("discriminate", 3, "In verse 88, what does निष्परिहाराः say about the modakas?",
             ("Nothing need be avoided with them", "निः + परिहार = without avoidance: no restrictions."),
-            [("They must never be taken at all", "परिहार is avoidance by the patient; the modakas are to be eaten."),
-             ("They need a very strict diet", "That is the opposite: निष्- removes the avoidances."),
+            [("They must never be taken by anyone at all", "परिहार is avoidance by the patient; the modakas are to be eaten."),
+             ("They need a very strict diet alongside them", "That is the opposite: निष्- removes the avoidances."),
              ("They suit only a single disorder", "The same line calls them destroyers of all ailments.")],
             "निष्परिहार = without avoidance (restrictions); सर्वव्याधि = all ailments.",
             "निष्- = without · परिहार = avoidance."),
@@ -552,7 +552,7 @@ AUTHORED["88"] = {
         mcq("transfer", 5,
             "Like उष्णाम्भः + अनुपिबन् → उष्णाम्भोऽनुपिबन्, which is the joined form of रामः + अत्र (invented)?",
             ("रामोऽत्र", "-अः + अ → -ओऽ: रामः + अत्र → रामोऽत्र."),
-            [("रामात्र", "आ would come from अ + अ only after the visarga is gone; -अः + अ gives -ओऽ."),
+            [("रामात्र", "The visarga before अ does not just vanish here; -अः + अ gives -ओऽ."),
              ("रामेऽत्र", "-एऽ comes from -ए + अ, not from -अः + अ."),
              ("रामरत्र", "र् replaces visarga after other vowels, not after अ before अ.")],
             "उष्णाम्भोऽनुपिबन्, रामोऽत्र: -अः + अ → -ओऽ (the ऽ marks the lost अ).",
