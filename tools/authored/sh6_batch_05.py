@@ -972,7 +972,7 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 61: six causes numbered in printed order, wasting, dryness, thirst, hunger, exertion, "
                 "holding back of urges, and the like, lead to the vitiation of the prāṇa-carrying srotas."),
         "type": "mermaid",
-        "code": ('flowchart TD\n'
+        "code": ('flowchart LR\n'
                  '  C1["१ क्षय (क्षीणता)"] --> D["प्राणवह स्रोतस दूषित"]\n'
                  '  C2["२ रौक्ष्य (रूखापन)"] --> D\n'
                  '  C3["३ पिपासा (प्यास)"] --> D\n'
