@@ -272,7 +272,7 @@ AUTHORED["56"] = {
         mcq("pretest", 0,
             "By verse 56, what should one drink then (तदा)?",
             ("The paste (kalka) of rodhra", "रोध्रकल्कं पिबेत्तदा = then one should drink the paste of rodhra."),
-            [("The decoction of tilvaka", "The tilvaka decoction is named in line 05.02.102, not here."),
+            [("The decoction of tilvaka bark", "The tilvaka decoction is named in line 05.02.102, not here."),
              ("The powder of daśamūla", "daśamūla was a decoction for soaking, in line 05.02.95."),
              ("The ghee of the ten roots", "No ghee is named in this verse.")],
             "कल्क = paste; रोध्र = lodhra.",
@@ -644,7 +644,7 @@ AUTHORED["62"] = {
     "questions": [
         mcq("pretest", 0,
             "By verse 62, with what is the plant split open?",
-            ("With a blade (शस्त्रेण)", "पाटयित्वा शस्त्रेण = having split it open with a blade."),
+            ("With a blade", "पाटयित्वा शस्त्रेण = having split it open with a blade."),
             [("With the bare hands", "No hands are named; the verse says शस्त्र."),
              ("With a sharp stone", "No stone is named; the verse says शस्त्र."),
              ("With fire or embers", "Embers come in line 05.02.113, for drying.")],
@@ -705,7 +705,7 @@ AUTHORED["63"] = {
     "questions": [
         mcq("pretest", 0,
             "By verse 63, where is the mixture dried?",
-            ("On embers (अङ्गारेषु)", "ततोऽङ्गारेषु शोषयेत् = then one should dry it on embers."),
+            ("On embers", "ततोऽङ्गारेषु शोषयेत् = then one should dry it on embers."),
             [("In the sun", "Drying in the sun was line 05.02.79, not this verse."),
              ("In the shade", "No shade is named in this verse."),
              ("In sand", "Sand was for the fruit in line 05.02.78.")],

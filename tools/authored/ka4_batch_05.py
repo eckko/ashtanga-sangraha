@@ -545,7 +545,7 @@ IMAGE_SPECS = {
         "alt": ("Mindmap for unit 56: under 'not', seven kinds of body: wasted, injured, weak, fainted, thin, dried-up, purified"),
         "type": "mermaid",
         "code": ('mindmap\n'
-                 '  न (नहीं)\n'
+                 '  न यानी नहीं\n'
                  '    क्षीण\n'
                  '    क्षत\n'
                  '    दुर्बल\n'

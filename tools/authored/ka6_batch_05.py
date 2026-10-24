@@ -1407,7 +1407,7 @@ IMAGE_SPECS = {
         "alt": "Flowchart of verse 48: a very sharp basti, one with vata, or one not properly pressed strikes the heart; the remedy begins with kasha, kusha and utkata (unclear)",
         "type": "mermaid",
         "code": ('flowchart TD\n  A["बहुत तीक्ष्ण"] --> D["हृदय पर आघात"]\n  B["वात सहित"] --> D\n'
-                 '  C["ठीक से न दबाई"] --> D\n  D --> E["उपाय: काश, कुश"]\n  E --> F["उत्कट: अस्पष्ट"]\n'),
+                 '  C["ठीक से न दबाई"] --> D\n  D --> E["उपाय: काश, कुश,<br/>उत्कट (अस्पष्ट)"]\n'),
     },
     ("49", "diagram"): {
         "file": "ka6-badari-basti-49.svg",
