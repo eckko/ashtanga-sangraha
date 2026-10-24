@@ -189,9 +189,8 @@ AUTHORED["41"] = {
     "question": "By unit 41, which qualities arise in the young age, and from what?",
     "rule": ("Because of that (तेन), in the young age there are sneha (unctuousness, or affection), softness (मार्दव), delicacy "
              "(सौकुमार्य), little anger (अल्पक्रोधत्व) and good fortune (सौभाग्य)."),
-    "limits": ("Prose. स्नेह can mean bodily unctuousness (the data's reading, as the effect of the Kapha of unit 40) or "
-               "affection, so no question rests on its sense. सौभाग्य = good fortune (also charm, being loved). बालस्य may "
-               "be 'of the young age' or 'of the child'; no question rests on that."),
+    "limits": ("Prose. स्नेह may be bodily unctuousness (the data's reading, from the Kapha of unit 40) or affection; "
+               "no question rests on its sense. बालस्य may be 'of the young age' or 'of the child'; no question rests on that."),
     "explain_hi": ("‘तेन’ यानी उससे; डेटा इसे इकाई ४० की कफ-अधिकता का फल पढ़ता है। "
                    "बाल वय में पाँच बातें होती हैं: स्नेह, मार्दव (कोमलता), सौकुमार्य (सुकुमारता), अल्प क्रोध और सौभाग्य। "
                    "‘स्नेह’ के दो अर्थ हो सकते हैं: शरीर का चिकनापन या प्रेम; डेटा पहला लेता है। "
@@ -602,10 +601,9 @@ AUTHORED["48"] = {
     "rule": ("A verse (anuṣṭubh) of two printed lines. It lists growth, lustre (प्रभा), intelligence (मेधा), skin, śukra "
              "(semen), eye and hearing, and says that in the decades (दशकेषु), in order (क्रमात्), the mind and all the "
              "sense-organs go (यान्ति)."),
-    "limits": ("Low confidence. The sense of the pair is not firm. The print बाल्ये (in childhood) is kept; बाल्यं (giving "
-               "ten items for ten decades) is a possible reading, not adopted. Whether यान्ति means 'decline' or 'arrive' "
-               "is open, and 'years' is not in the Sanskrit. No question rests on these points; only the printed words, "
-               "their order and their sandhi are asked."),
+    "limits": ("Low confidence; the sense of the pair is not firm. Print बाल्ये is kept (बाल्यं, giving ten items, is not "
+               "adopted). Whether यान्ति means 'decline' or 'arrive' is open; 'years' is not in the Sanskrit. Questions ask "
+               "only the printed words, their order and sandhi."),
     "explain_hi": ("इकाई ४७ के ‘दूसरे’ आचार्यों का यह श्लोक प्रतीत होता है; दो छपी पंक्तियाँ एक श्लोक के दो अर्ध हैं। "
                    "इसमें वृद्धि, प्रभा (कान्ति), मेधा (बुद्धि), त्वचा, शुक्र (वीर्य), आँख और श्रवण-इन्द्रिय गिनाए गए हैं, और कहा गया है कि दशकों में क्रम से मन और सभी इन्द्रियाँ ‘जाती हैं’ (यान्ति)। "
                    "‘यान्ति’ का अर्थ ‘चली जाती हैं’ है या ‘आती हैं’, पाठ तय नहीं करता; ‘वर्ष’ शब्द भी नहीं है। "
@@ -719,9 +717,9 @@ AUTHORED["50"] = {
     "question": "By unit 50, what should one do with the age (vayas) after ascertaining the measure of life?",
     "rule": ("In this time there are men whose span (because of a particular karma) is tied to a hundred years; having "
              "ascertained (उपलभ्य) the measure of their life, one should divide (विभजेत्) the age into three (त्रिधा)."),
-    "limits": ("Two printed words are emended: अनाधिक (read अनधिक, 'no more than' a hundred; 'more than' cannot be "
-               "excluded) and विशैशैः (read विशेषैः). How long these men live, and the means of ascertaining (by marks of "
-               "prakṛti), rest on these conjectures: no question on them. कर्मविशेषात् may go with सन्ति or with the compound."),
+    "limits": ("Two printed words are emended: अनाधिक (read अनधिक, 'no more than' a hundred; 'more than' is not "
+               "excluded) and विशैशैः (read विशेषैः). The men's span and the means of ascertaining rest on these: no "
+               "question on them."),
     "explain_hi": ("इस काल में ऐसे मनुष्य हैं जिनकी आयु विशेष कर्म के कारण सौ वर्ष से जुड़ी है; डेटा ‘सौ से अधिक न जीने वाले’ पढ़ता है, पर यह छपे ‘अनाधिक’ के संशोधन ‘अनधिक’ पर टिका है, और उलटा अर्थ ‘अधिक’ भी बाहर नहीं किया जा सकता। "
                    "उनकी आयु का प्रमाण जानकर (उपलभ्य) वय को तीन भागों में बाँटना चाहिए (त्रिधा विभजेत्)। "
                    "किससे जानें, यह ‘प्रकृतिविशैशैः’ पर टिका है, जो कोई शब्द नहीं; ‘प्रकृतिविशेषैः’ अनुमानित पाठ है। "

@@ -194,8 +194,8 @@ AUTHORED["29"] = {
     "rule": ("For (हि) in these, which produce disorders of mixed qualities (गुणमिश्रविकारकारिषु), in hunger, thirst and "
              "so on (क्षुत्पिपासादिषु), there is, on a conjectural reading, the designation of ill-health."),
     "limits": ("Low confidence. The printed अवारोग्य is no known word; अनारोग्य (ill-health) is a conjecture: no question "
-               "on it. How the two locatives join (whether hunger and thirst produce the disorders) is not sure: no "
-               "question on that. The join ष्व holds on either reading, since both begin with अ. Copula understood."),
+               "on it. How the two locatives join is not sure: no question on that. The join ष्व holds on either "
+               "reading."),
     "explain_hi": ("क्योंकि (हि) उनमें, जो गुणों के मिश्रण से विकार करने वाले हैं, भूख-प्यास आदि में, अनारोग्य का नाम दिया जाता है। "
                    "छपा ‘अवारोग्य’ कोई ज्ञात शब्द नहीं; ‘अनारोग्य’ (अस्वास्थ्य) अनुमानित पाठ है, इसलिए उस पर प्रश्न नहीं। "
                    "दोनों सप्तमी पद (तेषु ... कारिषु और क्षुत्पिपासादिषु) कैसे जुड़ते हैं, यह भी निश्चित नहीं। "
@@ -312,9 +312,9 @@ AUTHORED["31"] = {
     "rule": ("Sure words: with all tastes (सर्वरसेन), with what is suited (सात्म्येन), others (अन्यान्), prescribed by "
              "season (यथर्तुविहितेन); like the doṣas (दोषवत्), by the qualities beginning with sattva (गुणैः सत्त्वादिभिः), "
              "constitutions arise."),
-    "limits": ("Low confidence. सेमं → समम् (the balanced one) and सम → सप्त (seven) are conjectures: no question on 'the "
-               "balanced one' or on 'seven'. Line 1 prints no verb (upācaret carried from unit 30). What is applied is not "
-               "named, and no six-taste regimen is stated. Syntax uncertain: questions ask only words and joins."),
+    "limits": ("Low confidence. सेमं → समम् (the balanced one) and सम → सप्त (seven) are conjectures: no question on "
+               "either. Line 1's verb is carried from unit 30. Nothing applied is named; no six-taste regimen is stated. "
+               "Syntax uncertain: questions ask only words and joins."),
     "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है और दोनों में अनुमानित पाठ हैं। "
                    "पहली पंक्ति: अनुमानित पाठ पर, सम (प्रकृति) को सब रसों से और सात्म्य से, और दूसरों को ऋतु के अनुसार विहित से; क्रिया इकाई ३० से आती है। "
                    "छपा ‘सेमं’ कोई शब्द नहीं, ‘समम्’ अनुमान है; दूसरी पंक्ति का ‘सम’ डेटा ‘सप्त’ (सात) पढ़ता है, यह भी अनुमान है। "
@@ -610,9 +610,9 @@ AUTHORED["36"] = {
     "rule": ("The entry into that (तदावेशः) is produced (जन्यते) by the latent impression (वासना) of practice in the "
              "immediately preceding birth; therefore one should examine (अन्वीक्षेत) the anūka of the person, with "
              "humans, animals, departed spirits and hell-beings named."),
-    "limits": ("Low confidence; the sense of the whole unit is not firm. अनूक is uncertain (lineage? inherited trait?) and "
-               "tad-āveśa ('entry into that state') is a reading: no question on either. How the genitive list joins "
-               "पुरुषस्य is loose. 'वास नया' is a spacing error for वासनया. The split तस्मात् + एव is the data's reading."),
+    "limits": ("Low confidence; the unit's sense is not firm. अनूक (lineage? inherited trait?) and tad-āveśa ('entry "
+               "into that state') are uncertain: no question on either. The genitive list joins पुरुषस्य loosely. "
+               "वास नया is a spacing error for वासनया."),
     "explain_hi": ("उसमें प्रवेश (तदावेशः) तुरन्त पिछले जन्म के अभ्यास की वासना (संस्कार) से उत्पन्न होता है (जन्यते)। "
                    "इसीलिए मनुष्य, तिर्यक् (पशु-पक्षी), प्रेत और नारकी जीवों के, और उनके उन-उन भेदों के, पुरुष के ‘अनूक’ को यथोचित रूप से देखना चाहिए (अन्वीक्षेत)। "
                    "‘अनूक’ का अर्थ अस्पष्ट है (वंश? पैतृक लक्षण?), और ‘तदावेश’ भी केवल एक व्याख्या है; पूरी इकाई का भाव पक्का नहीं, इसलिए प्रश्न केवल पक्के शब्दों पर हैं। "
