@@ -9,7 +9,7 @@ AUTHORED["37"] = {
     "rule": ("Given when the doṣa is little, when the koṣṭha (belly) is soft, or applied again and again, the basti "
              "reaches over-application (atiyoga) and would cause belly-pain (kukṣiśūla)."),
     "limits": ("The subject is the basti of 05.06.69 (too hot, sharp, sour, thick, or given to one over-sweated); "
-               "this verse completes that statement. Kukṣiśūla = colicky pain of the belly or flank (standard modern "
+               "this verse appears to complete that statement. Kukṣiśūla = colicky pain of the belly or flank (standard modern "
                "equivalent). No treatment is given here; it follows in 05.06.72."),
     "explain_hi": ("यह श्लोक 05.06.69 से चले कथन को पूरा करता है; कर्ता वही बस्ति है जो अति-उष्ण, तीक्ष्ण, अम्ल, घन हो, या अति-स्वेदित रोगी को दी गई हो। "
                    "तीन स्थितियाँ बताई हैं: दोष थोड़ा हो, कोष्ठ यानी पेट मृदु हो, या बस्ति बार-बार दी जाए। "
@@ -89,7 +89,7 @@ AUTHORED["38"] = {
                    "दूसरी पंक्ति से चिकित्सा की औषध-सूची शुरू होती है: पृश्निपर्णी यानी पिठवन, स्थिरा यानी सम्भवतः शालपर्णी (सरिवन), "
                    "पद्म यानी सम्भवतः कमल, काश्मर्य यानी गम्भारी, मधूक यानी महुआ और उत्पल यानी सम्भवतः नीलकमल। "
                    "इन्हें 05.06.74 में पीसा जाता है और 05.06.76 में बस्ति दी जाती है।"),
-    "hook": "बस्ति का अतियोग = विरेचन का अतियोग; इलाज भी वही। सूची: पिठवन, सरिवन, कमल, गम्भारी, महुआ, नीलकमल।",
+    "hook": "बस्ति का अतियोग = विरेचन का अतियोग; इलाज भी वही। सूची: पिठवन, सरिवन (सम्भवतः), कमल (सम्भवतः), गम्भारी, महुआ, नीलकमल (सम्भवतः)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "To what is this over-application said to be similar in features and treatment, by verse 38?",
@@ -155,7 +155,7 @@ AUTHORED["38"] = {
 AUTHORED["39"] = {
     "title": "पिष्ट्वा द्राक्षां मधूकं च",
     "question": "What is ground for the over-application remedy, and in which liquids?",
-    "rule": ("Having ground drākṣā (grape or raisin) and madhūka (mahua), in milk and in rice-washing water; "
+    "rule": ("Having ground drākṣā (grape or raisin) and madhūka (mahua), in milk, in rice-washing water; "
              "line 2 adds the clear part (prasāda) of drākṣā, of pakvaloṣṭa, or of madhuka."),
     "limits": ("Low confidence. Pakvaloṣṭa ('baked or ripe clod') is unclear and its sense is an open point; "
                "madhuka (probably liquorice) may be the madhūka of line 1: open. Whether milk and rice-washing are "
@@ -164,7 +164,7 @@ AUTHORED["39"] = {
                    "पीसने के द्रव हैं: दूध और तण्डुल-धावन यानी चावल का धोवन। "
                    "दूसरी पंक्ति और द्रव जोड़ती है: द्राक्षा का, पक्वलोष्ट का, या मधुक का प्रसाद यानी निथरा हुआ स्वच्छ भाग। "
                    "पक्वलोष्ट का अर्थ अनिश्चित है, और मधुक मुलेठी है या वही महुआ, यह खुला प्रश्न है। मुख्य क्रिया 05.06.76 में है।"),
-    "hook": "अंगूर और महुआ पीसो: दूध में, चावल के धोवन में, या किसी निथरे स्वच्छ पानी में।",
+    "hook": "अंगूर और महुआ पीसो: दूध में, चावल के धोवन में, या द्राक्षा आदि के निथरे स्वच्छ भाग में।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which liquids does line 1 of verse 39 name for the grinding?",
@@ -274,7 +274,7 @@ AUTHORED["40"] = {
              ("युञ्ज्यात् + आहे",
               "त् + आ would print युञ्ज्यादाहे with one द."),
              ("युञ्ज्याः + दाहे",
-              "युञ्ज्याः would be 2nd person, and ः before द gives र्द.")],
+              "युञ्ज्याः would be 2nd person, and -आः before द drops its visarga (युञ्ज्या दाहे), with no doubled द.")],
             "युञ्ज्यात् (should apply) + दाहे (in burning).",
             "त् + द → द्द."),
         multi("apply", 4, "Line 2 of verse 40 begins describing a faulty basti. Which faults does it name?",
@@ -282,7 +282,7 @@ AUTHORED["40"] = {
                ("Heavy", "Right: गुरु."),
                ("Sharp", "Right: तीक्ष्ण."),
                ("Of excess quantity", "Right: अतिमात्रकः."),
-               ("Too cold", "A cold basti is 05.06.35, not this line."),
+               ("Too cold", "Cold is not named in this line."),
                ("Too small", "A small basti is 05.06.49, not this line.")],
               [0, 1, 2, 3],
               "Line 2: without sneha and sveda; heavy, sharp, of excess quantity.",
@@ -312,7 +312,7 @@ AUTHORED["41"] = {
     "limits": ("Low confidence. The print splits दुः शयिताय with a space (flag); no question rests on that token. "
                "The sense of अविप्रवृत्त is uncertain (open point). The person is not named. The statement began in "
                "05.06.77 and its verb karoti is in 05.06.80."),
-    "explain_hi": ("05.06.77 से चला कथन आगे बढ़ता है: वह बस्ति जो दुःस्थित यानी बुरी मुद्रा में बैठे या रखे गए रोगी को, "
+    "explain_hi": ("05.06.77 से चला कथन आगे बढ़ता है: वह बस्ति जो दुःस्थित यानी बुरी मुद्रा में रखे गए रोगी को, "
                    "अथवा बुरी तरह लेटे हुए को दी गई हो। "
                    "ऐसी बस्ति ठीक से आगे न चलकर (अविप्रवृत्त, अर्थ अनिश्चित) मरुत् यानी वायु को कुपित करती है। "
                    "वह विमार्गग यानी गलत मार्ग पर गई हुई कही गई है। उसका परिणाम अगले श्लोक में है।"),
@@ -352,7 +352,7 @@ AUTHORED["41"] = {
               "सा is feminine and keeps its ā; the print has स, the masculine before a consonant.")],
             "कोपयेत् (would provoke) + सः (that one), सः → स before व.",
             "सः + consonant → स."),
-        mcq("apply", 4, "A basti is given to a patient sitting in a bad posture. Which word of verse 41 describes him?",
+        mcq("apply", 4, "A basti is given to a patient placed in a bad posture. Which word of verse 41 describes him?",
             ("दुःस्थिताय",
              "दुः-स्थिताय: for one badly placed (dative)."),
             [("विमार्गगः",
@@ -458,16 +458,18 @@ AUTHORED["43"] = {
     "title": "बिल्व … द्वयैः सकुलत्थैः",
     "question": "With which drugs is the whey boiled for the enema of 05.06.84?",
     "rule": ("With bilva (bael), kola, yava, eraṇḍa (castor), varṣābhū (punarnavā) and the pair of bṛhatī, with "
-             "kulattha (horse gram): whey (mastu) boiled, joined with phala (fruit) and sauvīraka (sour fermented gruel)."),
+             "kulattha (horse gram): whey (mastu) boiled; and with (ones) joined (anvita) with phala (fruit) and "
+             "sauvīraka (sour fermented gruel)."),
     "limits": ("The first compound is misprinted: kola and bṛhatī are conjectural readings (flag); no question rests "
                "on them or on the 'pair'. Phala is not specified. No verb here: āsthāpayet is in 05.06.84, and how "
                "the instrumentals attach is loose."),
     "explain_hi": ("05.06.81 का रोगी (तेल-नमक से लेपित, स्वेदित) अब बस्ति पाएगा; यह श्लोक उसका द्रव बताता है। "
                    "बिल्व यानी बेल, कोल (अनुमानित पाठ पर सम्भवतः बेर), यव, एरण्ड यानी अरंडी, वर्षाभू यानी पुनर्नवा (गदहपूर्णा) "
                    "और बृहती-द्वय (अनुमानित पाठ पर), कुलत्थ यानी कुलथी के साथ मस्तु यानी दही का पानी उबाला जाता है। "
-                   "वह फल और सौवीरक यानी खट्टी कांजी से युक्त होता है; कौन-सा फल, नहीं कहा। "
+                   "‘फलसौवीरकान्वितैः’ (फल और सौवीरक यानी खट्टी कांजी से युक्त) तृतीया बहुवचन है, इसलिए यह मस्तु का नहीं, साथ के द्रव्यों का विशेषण लगता है; "
+                   "अन्वय ढीला है, और कौन-सा फल, नहीं कहा। "
                    "बस्ति देने की क्रिया 05.06.84 में है।"),
-    "hook": "बेल, अरंडी, पुनर्नवा, कुलथी: इनके साथ मस्तु उबालो, कांजी मिलाओ।",
+    "hook": "बेल, अरंडी, पुनर्नवा, कुलथी: इनके साथ मस्तु उबालो; फल और कांजी भी साथ।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What is boiled (शृतम्) in line 2 of verse 43?",
@@ -482,7 +484,7 @@ AUTHORED["43"] = {
             "शृतम् agrees with मस्तु (n.).",
             "मस्तु = whey; शृत = boiled."),
         match(1, "Match each drug of verse 43 to its identification on the card.",
-              [["बिल्व", "bael (Aegle marmelos)"], ["एरण्ड", "castor"], ["वर्षाभू", "punarnavā"],
+              [["बिल्व", "bael"], ["एरण्ड", "castor"], ["वर्षाभू", "punarnavā"],
                ["कुलत्थ", "horse gram"], ["सौवीरक", "sour fermented gruel"]],
               "All five are standard identifications in the unit data (bilva as bael, per the glossary).",
               "बिल्व = बेल; एरण्ड = अरंडी; वर्षाभू = पुनर्नवा; कुलत्थ = कुलथी; सौवीरक = खट्टी कांजी."),
@@ -503,9 +505,9 @@ AUTHORED["43"] = {
               "That is taṇḍula-dhāvana, 05.06.74.")],
             "फल-सौवीरक-अन्वित: joined with fruit and sauvīraka.",
             "सौवीरक = sour fermented gruel."),
-        mcq("apply", 4, "A physician has boiled the whey of verse 43. With what is it joined, by line 2?",
+        mcq("apply", 4, "In line 2 of verse 43, which two things does फलसौवीरकान्वितैः (joined with …) name?",
             ("Phala and sauvīraka",
-             "फलसौवीरकान्वितैः: joined with fruit and sauvīraka."),
+             "फल-सौवीरक-अन्वितैः: joined with fruit and sauvīraka; what is so joined is loose (instrumental plural)."),
             [("Pippalī and salt",
               "Pippalī and salt are 05.06.90."),
              ("Honey and ghee",
@@ -541,7 +543,7 @@ AUTHORED["44"] = {
                "not say meat soup. The plural 'rock salts' is as printed."),
     "explain_hi": ("05.06.81-83 में तैयार किए रोगी को अब बस्ति दी जाती है। पहली पंक्ति: सिन्धूत्थ यानी सेंधा नमक के साथ आस्थापन यानी "
                    "काढ़े की बस्ति दे, उस रोगी को जिसने जाङ्गल यानी सूखे प्रदेश के रसों के साथ भोजन किया हो। "
-                   "दूसरी पंक्ति: वात को जीतने वाले (द्रव्यों) के साथ पकाए तेल से अनुवासन यानी तेल की बस्ति दे। "
+                   "दूसरी पंक्ति (अनुमानित पाठ पर): सम्भवतः वात को जीतने वाले (द्रव्यों) के साथ पकाए तेल से अनुवासन यानी तेल की बस्ति दे। "
                    "छपा ‘धन्य’ अस्पष्ट है और ‘विपक्क’ सम्भवतः ‘विपक्व’ की छपाई-भूल; इन पर कुछ नहीं बनाया।"),
     "hook": "पहले नमक वाला आस्थापन, जाङ्गल रस खाकर; फिर वात-नाशक तेल का अनुवासन।",
     "core": False,
@@ -613,10 +615,10 @@ AUTHORED["45"] = {
     "rule": ("In one with a soft koṣṭha (belly) and in the weak, a basti that is very sharp and over-expelling "
              "would cause hiccup (hidhmā). There, whatever destroys hiccup and is nourishing (bṛṃhaṇa) is beneficial."),
     "limits": ("The persons are not named; the two locatives may be one person or two. No drug is listed here: the "
-               "remedy follows in 05.06.88-89. Hidhmā = hiccup (standard)."),
-    "explain_hi": ("कोमल कोष्ठ वाले और दुर्बल रोगी में बहुत तीक्ष्ण, अधिक मल बाहर निकालने वाली बस्ति हिध्मा यानी हिचकी कर देती है। "
+               "remedy appears to follow in 05.06.88-89. Hidhmā = hiccup (standard)."),
+    "explain_hi": ("कोमल कोष्ठ वाले और दुर्बल रोगी में बहुत तीक्ष्ण, अत्यधिक बाहर निकालने वाली बस्ति हिध्मा यानी हिचकी कर देती है। "
                    "ऐसी अवस्था में जो हिचकी को नष्ट करे और बृंहण यानी शरीर को पुष्ट करने वाला हो, वही हितकारी है। "
-                   "कौन-सी औषध, यह अगले श्लोक (05.06.88-89) में है। "
+                   "कौन-सी औषध, यह सम्भवतः अगले श्लोक (05.06.88-89) में है। "
                    "दोनों सप्तमी (मृदुकोष्ठे, अबले) एक ही रोगी के लिए हैं या दो के लिए, पाठ नहीं कहता।"),
     "hook": "कमज़ोर, कोमल पेट, तीखी बस्ति: हिचकी। इलाज: हिचकी मिटाओ, पुष्टि दो।",
     "core": True,
@@ -690,7 +692,7 @@ AUTHORED["46"] = {
     "limits": ("The ending of the first compound is misprinted (rasaiṃ saiṃdhavaiḥ for rasaiḥ saindhavaiḥ) and pakvā "
                "is probably paktvā (flags); no question rests on those members. Balā is probably Sida cordifolia; "
                "sthirā's identity is disputed. Which 'others' (ādi) are meant is not said."),
-    "explain_hi": ("यह 05.06.87 के ‘हिचकी मिटाने वाले, बृंहण’ उपचार का रूप देता है। "
+    "explain_hi": ("यह 05.06.87 के ‘हिचकी मिटाने वाले, बृंहण’ उपचार का रूप देता प्रतीत होता है (पाठ यह जोड़ स्पष्ट नहीं कहता)। "
                    "बला यानी सम्भवतः बरियार, स्थिरा (पहचान विवादित; प्रायः सरिवन) आदि, काश्मर्य यानी गम्भारी और त्रिफला यानी "
                    "हरड़, बहेड़ा, आँवला के रसों के साथ, और सेंधा नमक के साथ तेल पकाया जाता है। "
                    "उसमें प्रसन्ना यानी सुरा का निथरा ऊपरी भाग, आरनाल यानी खट्टी कांजी और अन्य खट्टे द्रव भी मिलते हैं। "
@@ -761,7 +763,7 @@ AUTHORED["46"] = {
 # ---------------------------------------------------------------- unit 47
 AUTHORED["47"] = {
     "title": "उष्णाम्बुनाक्तं पिप्पल्या",
-    "question": "What else does verse 47 give against Vāta after the hiccup remedy?",
+    "question": "What is given with hot water, pippalī and salt, and which further measures and food does verse 47 add?",
     "rule": ("He should give (it) mixed with hot water and pippalī (long pepper), joined with salt; and smoke, "
              "linctus (leha), juice (rasa), milk and fomentation (sveda), and food that drives away Vāta."),
     "limits": ("The object of dadyāt is not stated (probably the oil or enema of 05.06.89; not applied). Line 2 has "
@@ -770,7 +772,7 @@ AUTHORED["47"] = {
                    "सम्भवतः 05.06.89 का तेल। "
                    "दूसरी पंक्ति और उपाय जोड़ती है: धूम यानी धुआँ, लेह यानी चाटने की औषध, रस, दूध और स्वेद यानी सेंक। "
                    "साथ में ऐसा अन्न भी जो वात को दूर करे। धूम और रस किस प्रकार के, नहीं कहा।"),
-    "hook": "गर्म पानी, पीपर, नमक; फिर धुआँ, चटनी-लेह, रस, दूध, सेंक, और वात-नाशक भोजन।",
+    "hook": "गर्म पानी, पीपर, नमक; फिर धुआँ, लेह (चाटने की औषध), रस, दूध, सेंक, और वात-नाशक भोजन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "With what is the thing given mixed, by line 1 of verse 47?",
@@ -806,7 +808,7 @@ AUTHORED["47"] = {
               "त् + अ would print दद्यादलवण…, with द.")],
             "दद्यात् (should give) + लवण-संयुतम् (joined with salt).",
             "त् + ल → ल्ल."),
-        multi("apply", 4, "A patient of verse 47 needs more against Vāta. Which measures does line 2 list?",
+        multi("apply", 4, "A physician reads line 2 of verse 47. Which measures does it list?",
               [("Smoke (dhūma)", "Right: धूम."),
                ("Linctus (leha)", "Right: लेह."),
                ("Milk", "Right: क्षीर."),
@@ -897,7 +899,7 @@ AIDS = {
         "frame": "पंक्ति १: बस्ति का अतियोग = विरेचन का अतियोग (आकृति और साधन में) · पंक्ति २: उपचार की औषध-सूची, 05.06.74 तक चलती है।",
         "chunks": "विरेचनातियोगेन | सतुल्याकृतिसाधनः ‖ पृश्निपर्णी (फ़्लैग) स्थिरां पद्मं | काश्मर्यं मधूकोत्पले",
         "anchors": "पृश्निपर्णी = पिठवन · स्थिरा = सम्भवतः सरिवन · पद्म = सम्भवतः कमल · काश्मर्य = गम्भारी · मधूक = महुआ · उत्पल = सम्भवतः नीलकमल।",
-        "pegs": "मेरा बनाया चित्र: एक तालाब के किनारे गम्भारी और महुआ के पेड़; पानी में कमल और नीलकमल; किनारे की घास में पिठवन और सरिवन।",
+        "pegs": "मेरा बनाया चित्र: एक तालाब के किनारे गम्भारी और महुआ के पेड़; पानी में कमल और नीलकमल; किनारे की घास में पिठवन और सरिवन (सरिवन, कमल, नीलकमल केवल सम्भावित पहचान)।",
     },
     "39": {
         "diagram": {"groups": [{"label": "पीसना (पिष्ट्वा)", "items": ["द्राक्षा", "मधूक"]},
@@ -916,7 +918,7 @@ AIDS = {
         "chain": {"steps": ["बुरी मुद्रा / बुरी तरह लेटे को दी बस्ति", "ठीक से आगे न चली", "वायु कुपित", "विमार्गग (फल 05.06.80 में)"]},
         "chunks": "दुःस्थिताय प्रणिहितो | बस्तिर्दुः (फ़्लैग) शयिताय वा ‖ अविप्रवृत्तो मरुतं | कोपयेत्स विमार्गगः",
         "sandhi": "सः → स व्यंजन से पहले: कोपयेत् + सः + विमार्गगः → कोपयेत्स विमार्गगः।",
-        "anchors": "दुः- = बुरा · स्थित = रखा/बैठा · प्रणिहित = डाली गई · मरुत् = वायु · विमार्ग = गलत मार्ग।",
+        "anchors": "दुः- = बुरा · स्थित = रखा (मुद्रा) · प्रणिहित = डाली गई · मरुत् = वायु · विमार्ग = गलत मार्ग।",
     },
     "42": {
         "diagram": {"groups": [{"label": "फल (पंक्ति १)", "items": ["अङ्गरुजा", "जृम्भा", "स्तम्भ", "पर्वभेद"]},
@@ -926,7 +928,7 @@ AIDS = {
         "sandhi": "इ → य् भिन्न स्वर से पहले: करोति + अङ्गरुजाम् → करोत्यङ्गरुजाम्।",
     },
     "43": {
-        "chunks": "बिल्व-कोळ्(फ़्लैग)-यव-ऐरंड-वर्षाभू-द्वहती(फ़्लैग)-द्वयैः ‖ सकुलत्थैः शृतं मस्तु | फलसौवीरकान्वितैः",
+        "chunks": "बिल्वकोळ्यवैरंडवर्षाभूद्वहतीद्वयैः (फ़्लैग: कोळ्य, द्वहती) ‖ सकुलत्थैः शृतं मस्तु | फलसौवीरकान्वितैः",
         "anchors": "बिल्व = बेल · एरण्ड = अरंडी · वर्षाभू = पुनर्नवा · कुलत्थ = कुलथी · मस्तु = दही का पानी · सौवीरक = खट्टी कांजी।",
         "pegs": "मेरा बनाया चित्र: चूल्हे पर मस्तु की हाँडी; उसमें बेल का टुकड़ा, अरंडी की जड़, पुनर्नवा, मुट्ठी भर कुलथी; ऊपर से कांजी।",
     },
@@ -1004,7 +1006,7 @@ IMAGE_SPECS = {
         "file": "ka6-hidhma-45.svg",
         "alt": "Flowchart of verse 45: soft belly and weak patient, a very sharp over-expelling basti, hiccup; beneficial is what destroys hiccup and nourishes",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["मृदु कोष्ठ"] --> C["अति-तीक्ष्ण बस्ति"]\n  B["अबल रोगी"] --> C\n'
+        "code": ('flowchart TD\n  A["मृदु कोष्ठ"] --> C["अतितीक्ष्ण, अतिनिर्हर बस्ति"]\n  B["अबल रोगी"] --> C\n'
                  '  C --> D["हिध्मा"]\n  D --> E["हितकर: हिध्माघ्न"]\n  D --> F["हितकर: बृंहण"]\n'),
     },
     ("46", "diagram"): {
@@ -1018,7 +1020,7 @@ IMAGE_SPECS = {
         "file": "ka6-vatanut-47.svg",
         "alt": "Two columns of verse 47: line 1, given with hot water, pippali and salt; line 2, smoke, linctus, juice, milk, fomentation and Vata-dispelling food",
         "type": "split",
-        "title": "श्लोक ४७: वात के विरुद्ध",
+        "title": "श्लोक ४७: और उपाय",
         "cols": [["पंक्ति १", ["गर्म जल", "पिप्पली", "नमक सहित"]],
                  ["पंक्ति २", ["धूम", "लेह", "रस", "दूध", "स्वेद", "वातनाशक अन्न"]]],
     },
