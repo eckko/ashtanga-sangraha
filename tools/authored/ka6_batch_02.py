@@ -9,10 +9,10 @@ AUTHORED["15"] = {
     "rule": ("The basti, covered by doṣa and with its path blocked, may obstruct the wind (samīraṇa). "
              "That wind, gone the wrong way (vimārga), would cause distension (ādhmāna) and "
              "oppression of the vital parts (marma)."),
-    "limits": ("The sentence begins at 05.06.27 (the weak basti given in one full of doṣa); the list of "
-               "effects goes on in 05.06.30-31. Two printed slips (a stray n, a stray anusvara) are read "
-               "as doṣa-āvṛta and ruddha-mārga. 'sa vimārgaḥ' could also be read 'sa-vimārga'; no question rests on it."),
-    "explain_hi": ("यह वाक्य 05.06.27 से चलता है: कम शक्ति वाली बस्ति, जो दोष से भरे रोगी में दी गई है। "
+    "limits": ("Begins at 05.06.27 (a basti of little potency given in one rich in doṣa, a dry one, or one with a harsh abode); "
+               "effects continue in 05.06.30-31. Printed slips are read as doṣa-āvṛta and ruddha-mārga. "
+               "'sa vimārgaḥ' or 'sa-vimārga': no question rests on it."),
+    "explain_hi": ("यह वाक्य 05.06.27 से चलता है: कम वीर्य वाली बस्ति, जो दोष से भरे, रूक्ष, या क्रूर आशय वाले रोगी में दी गई है। "
                    "यह बस्ति दोष से ढक जाती है, उसका मार्ग रुक जाता है, और वह वायु (समीरण) को रोक देती है। "
                    "रुका हुआ वायु विमार्ग में, यानी उल्टे रास्ते पर, चला जाता है। "
                    "तब वह आध्मान यानी पेट फूलना और मर्म यानी शरीर के प्राण-स्थानों में पीड़ा करता है। "
@@ -23,7 +23,7 @@ AUTHORED["15"] = {
         mcq("pretest", 0, "What does the wind gone the wrong way cause, according to verse 15?",
             ("Distension and pain of the vital parts",
              "कुर्यादाध्मानं मर्मपीडनम्: it would cause ādhmāna (distension) and marma-pīḍana."),
-            [("Head-pain and stiffness of the neck",
+            [("Head-pain together with stiffness of the neck",
               "Those come from the wind gone upward (05.06.37-38), not from this verse."),
              ("Fever with loss of appetite",
               "Neither fever nor appetite is named in verse 15."),
@@ -58,7 +58,7 @@ AUTHORED["15"] = {
             "A basti given to a patient full of doṣa gets covered by doṣa and blocked. What does verse 15 say happens to the wind?",
             ("It is held back and goes the wrong way",
              "रुन्ध्यात् समीरणम् ... स विमार्गः अनिलः: obstructed, it goes the wrong way."),
-            [("It is expelled downward with the stool",
+            [("It is pushed out downward along with the stool",
               "Verse 15 says the wind is obstructed, not expelled."),
              ("It kindles the digestive fire again",
               "The digestive fire is not named in verse 15."),
@@ -208,12 +208,12 @@ AUTHORED["17"] = {
             "सु (well) + अभ्यक्त (anointed): उ → व् before अ.",
             "उ + unlike vowel → व्: सु + अभ्यक्त = स्वभ्यक्त."),
         mcq("apply", 4, "A physician prepares the nirūha of verse 17. Which set matches the verse?",
-            ("Bilva group with pīlu, mustard, urine",
+            ("Bilva group with pīlu, sarṣapa, urine",
              "विल्वादिः ... पीलुसर्षपमूत्रवान्: beginning with bilva, having pīlu, sarṣapa and urine."),
             [("Bilva group with milk, honey and sesame",
               "Milk, honey and sesame are not named; urine is."),
              ("Pīlu and mustard in oil, no urine",
-              "Urine (मूत्र) is named, and oil is not part of this nirūha."),
+              "Urine (मूत्र) is named in the verse; this option leaves it out."),
              ("Urine alone without any drug",
               "The verse names the bilva group, pīlu and sarṣapa with the urine.")],
             "The nirūha: the bilva group + pīlu + sarṣapa + urine.",
@@ -272,17 +272,14 @@ AUTHORED["18"] = {
              "बस्तिस्तनुर्मृदुः = बस्तिः तनुः मृदुः: the basti, thin and mild.",
              "The basti of line 2 has two qualities: तनु (thin) and मृदु (mild).",
              "मृदु = mild, soft."),
-        mcq("discriminate", 3, "How does verse 18 describe the basti of line 2?",
-            ("Thin and mild",
-             "बस्तिस्तनुर्मृदुः: तनुः (thin), मृदुः (mild)."),
-            [("Cold and small",
-              "शीतः and अल्पः come in the next line, 05.06.36."),
-             ("Thick and strong",
-              "The verse says the opposite: thin and mild."),
-             ("Hot and sharp",
-              "Neither heat nor sharpness is named in verse 18.")],
-            "Line 2: in one with much doṣa and a harsh koṣṭha, a basti thin and mild.",
-            "तनु = thin; मृदु = mild."),
+        mcq("discriminate", 3, "Which word of verse 18 describes the anuvāsana of line 1, not the basti of line 2?",
+            ("साधितम्",
+             "साधितं चानुवासनम्: the anuvāsana is साधित, prepared (neuter, like अनुवासनम्)."),
+            [("तनुः", "तनुः (thin) describes the basti of line 2."),
+             ("मृदुः", "मृदुः (mild) describes the basti of line 2."),
+             ("बस्तिः", "बस्तिः is the noun of line 2 itself, not a word about the anuvāsana.")],
+            "Line 1: साधितम् अनुवासनम् (prepared oil enema); line 2: बस्तिः तनुः मृदुः (thin, mild basti).",
+            "साधित → अनुवासन; तनु, मृदु → बस्ति."),
         mcq("apply", 4, "Which split of बस्तिस्तनुर्मृदुः is right?",
             ("बस्तिः + तनुः + मृदुः",
              "ः before त becomes स्; ः after उ before म becomes र्: बस्तिस् तनुर् मृदुः."),
@@ -299,7 +296,7 @@ AUTHORED["18"] = {
             ("साधितः निरूहः",
              "The participle takes the noun's gender, number and case: masculine nominative singular -अः."),
             [("साधितम् निरूहः",
-              "-अम् is the neuter form that fits अनुवासनम्, not the masculine निरूहः."),
+              "साधितम् does not agree with निरूहः: it is neuter nom./acc. or masculine accusative, while निरूहः is masculine nominative."),
              ("साधिता निरूहः",
               "-आ is feminine; निरूह is masculine."),
              ("साधितौ निरूहः",
@@ -363,8 +360,8 @@ AUTHORED["19"] = {
              "ऊर्ध्वं ... शिरोरुजम्; in verse 15 it went the wrong way (vimārga) and caused distension."),
             [("Here it goes downward and causes straining",
               "Verse 19 says ऊर्ध्वम्, upward, and names head-pain."),
-             ("Here it goes the wrong way into the belly",
-              "That is the course of verse 15; verse 19 says upward."),
+             ("Here it goes the wrong way (vimārga)",
+              "That is the word of verse 15; verse 19 says ऊर्ध्वम्, upward."),
              ("Here it stays in the groins and causes pain",
               "Groin pain belongs to the misdirected wind of 05.06.30.")],
             "Verse 15: vimārga → ādhmāna; verse 19: ūrdhva → śiroruj.",
@@ -463,7 +460,7 @@ AUTHORED["21"] = {
                "is not stated. No drug or amount is named."),
     "explain_hi": ("यह श्लोक 05.06.39 के वाक्य को पूरा करता है; ‘तम्’ यानी उस रोगी को शीघ्र (आशु) इन उपायों से युक्त करे: "
                    "तीक्ष्ण धूम यानी तेज़ धुआँ, प्रधमन यानी नाक में चूर्ण फूँकना, नस्य यानी नाक की औषध, "
-                   "आस्य-विरेचन यानी मुख से निकालने वाले उपाय, विरेक यानी विरेचन, और बस्तियाँ। "
+                   "आस्य-विरेचन यानी मुख का विरेचन (शब्दशः; क्या निकाला जाए, नहीं कहा), विरेक यानी विरेचन, और बस्तियाँ। "
                    "ये आनुलोमिक हों, यानी स्वाभाविक दिशा (नीचे की ओर) के अनुसार; यह विशेषण किन पर लगता है, तय नहीं। "
                    "कोई द्रव्य या मात्रा इस श्लोक में नहीं दी गई।"),
     "hook": "धुआँ, फूँक, नस्य, मुख-शोधन, विरेचन, बस्ति: जल्दी, और दिशा के अनुसार।",
@@ -543,7 +540,7 @@ AUTHORED["22"] = {
         mcq("pretest", 0, "What does verse 22 say a mild basti with little drug produces when the doṣa is great?",
             ("Pravāhikā, dysentery with straining",
              "जनयेच्च प्रवाहिकाम्: and it would produce pravāhikā."),
-            [("Head-pain, the upward wind",
+            [("Head-pain from the wind that goes upward",
               "Head-pain comes from the cold, small basti of 05.06.36-37."),
              ("Deafness and disturbed vision",
               "These are effects of the upward wind (05.06.38)."),
@@ -606,7 +603,7 @@ AUTHORED["23"] = {
     "question": "Which signs follow the mild basti in great doṣa, according to verse 23?",
     "rule": ("Signs (verb janayet carried from 05.06.43): swelling (śopha) in the basti (bladder, lower belly) and "
              "the apāna (anus), and sinking (sadana) in the thighs and shanks. The being whose wind is obstructed "
-             "strains repeatedly."),
+             "strains (repeatedly, on a conjectural reading)."),
     "limits": ("Here basti is the organ, not the enema. 'apāna' is taken as the anal region; the downward wind "
                "is also possible. 'Repeatedly' rests on a conjectural reading (abhīkṣṇam for the printed bhīkṣṇam). "
                "śopha = swelling, oedema; sadana = weakness (standard)."),
@@ -615,7 +612,7 @@ AUTHORED["23"] = {
                    "और ऊरु यानी जाँघों तथा जङ्घा यानी घुटने से टखने तक की टाँग में सदन यानी थकावट। "
                    "जिसका वायु रुका है वह जन्तु यानी प्राणी जोर लगाता है (प्रवाहते); अनुमानित पाठ पर ‘बार-बार’। "
                    "‘प्रवाहते’ से ही ‘प्रवाहिका’ नाम बना है।"),
-    "hook": "नीचे सूजन, टाँगें ढीली, वायु रुका, बार-बार जोर।",
+    "hook": "नीचे सूजन, टाँगें ढीली, वायु रुका, जोर लगाना (अनुमानित पाठ पर बार-बार)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Where does verse 23 place the sinking (सदन)?",
@@ -644,7 +641,7 @@ AUTHORED["23"] = {
             ("Locative singular, 'in the basti'",
              "बस्तौ is the locative singular of बस्ति, like अपाने beside it."),
             [("Nominative dual, 'two bastis'",
-              "-औ is not always dual; for an -इ stem it is also the locative singular."),
+              "The nominative dual of बस्ति is बस्ती; -औ on an -इ stem is the locative singular."),
              ("Accusative singular, 'the basti'",
               "The accusative singular would be बस्तिम्."),
              ("Genitive singular, 'of the basti'",
@@ -654,7 +651,7 @@ AUTHORED["23"] = {
         mcq("apply", 4, "What does बस्ति mean in verse 23?",
             ("The organ: bladder, lower belly",
              "Swelling in the basti here is in the organ, the bladder or lower belly."),
-            [("The enema that was given",
+            [("The enema that had been given earlier",
               "The enema is the cause (05.06.42); the swelling is in the organ."),
              ("The bag used for the enema",
               "No device is meant; swelling is a sign in the body."),
@@ -668,8 +665,8 @@ AUTHORED["23"] = {
              "A bahuvrīhi: the being whose urine (मूत्र) is obstructed (रुद्ध)."),
             [("Urine that holds back a being",
               "जन्तुः is the being described; मूत्र is not the subject."),
-             ("A being who holds back the urine",
-              "The compound states a condition; nobody holds anything back."),
+             ("A being who passes much urine",
+              "रुद्ध means obstructed, held back; nothing says much urine is passed."),
              ("The held-back urine of beings",
               "जन्तुः is singular and is the noun described.")],
             "Participle + noun as a bahuvrīhi = 'one whose noun is so'.",
@@ -684,7 +681,7 @@ AUTHORED["24"] = {
     "question": "Which treatments does verse 24 prescribe after the mild basti that caused straining?",
     "rule": ("One should prescribe sweatings (sveda), anointings (abhyaṅga) and nirūhas, cleansing (śodhanīya) "
              "and ānulomika (following the natural direction); and, having subjected (him) to laṅghana "
-             "(lightening, fasting), a regimen like that of one purged."),
+             "(lightening, fasting), (on a conjectural reading) a regimen like that of one purged."),
     "limits": ("Whether 'cleansing and ānulomika' qualify all three or only the nirūhas is not decided. The second "
                "half rests on a conjecture (vṛttiṃ tasya for the printed vṛttitasya) and its Hindi wording is an open "
                "point for the owner; no question is built on it."),
@@ -699,7 +696,7 @@ AUTHORED["24"] = {
         mcq("pretest", 0, "Which three treatments does line 1 of verse 24 name?",
             ("Sweating, anointing and nirūhas",
              "स्वेद-अभ्यङ्गान् निरूहान् च: sweatings, anointings and nirūhas."),
-            [("Smokes, nasya and purgation",
+            [("Sharp smokes, nasya and purgation",
               "These are the means of 05.06.40-41, for the upward wind."),
              ("Varti, urine and mustard",
               "These belong to 05.06.32-33, for the misdirected wind."),
@@ -861,7 +858,7 @@ AIDS = {
         "anchors": "शोफ = सूजन · सदन = थकावट · ऊरु = जाँघ · जङ्घा = घुटने से टखने तक · प्रवाहते = जोर लगाता है।",
     },
     "24": {
-        "chain": {"steps": ["स्वेद", "अभ्यङ्ग", "शोधनीय, आनुलोमिक निरूह", "लङ्घन कराकर (आगे अनुमानित पाठ)"]},
+        "diagram": {"groups": [{"label": "पंक्ति १: विदध्यात्", "items": ["स्वेद", "अभ्यङ्ग", "निरूह (शोधनीय, आनुलोमिक)"]}, {"label": "पंक्ति २", "items": ["लङ्घयित्वा", "वृत्ति विरिक्तवत् (अनुमानित)"]}]},
         "chunks": "स्वेदाभ्यंगान्निरूहांश्च | शोधनीयानुलोमिकान् ‖ विदध्याल्लंघयित्वा च | वृत्तितस्य (अनुमानित: वृत्तिं तस्य) विरिक्तवत्",
         "sandhi": "न् + च → ंश्च: निरूहान् + च → निरूहांश्च; त् + ल → ल्ल: विदध्यात् + लङ्घयित्वा → विदध्याल्लङ्घयित्वा।",
         "anchors": "स्वेद = सेंक · अभ्यङ्ग = तेल-मालिश · शोधनीय = शोधक · लङ्घन = उपवास, हल्का करना · विदध्यात् = विधान करे।",
@@ -888,7 +885,7 @@ IMAGE_SPECS = {
         "file": "ka6-urdhva-vayu-19.svg",
         "alt": "Flowchart of verse 19: a cold, small basti covered by the doshas obstructs the wind; the wind moves upward and causes head-pain",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["शीत, अल्प बस्ति"] --> B["दोषों से ढकी"]\n  B --> C["वायु रुका"]\n'
+        "code": ('flowchart TD\n  A["शीत, अल्प, दोषावृत बस्ति"] --> C["वायु रुका"]\n'
                  '  C --> D["वायु ऊपर चले"]\n  D --> E["सिर-दर्द"]\n'),
     },
     ("21", "diagram"): {
@@ -902,7 +899,7 @@ IMAGE_SPECS = {
         "file": "ka6-pravahika-22.svg",
         "alt": "Flowchart of verse 22: in great dosha a mild basti with little drug stirs up the dosha, removes a little and produces pravahika",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["महादोष"] --> C["दोष उभरा"]\n  B["मृदु, अल्प-भेषज बस्ति"] --> C\n'
+        "code": ('flowchart TD\n  A["महादोष में"] --> B["मृदु, अल्प-भेषज बस्ति"]\n  B --> C["दोष उभरा"]\n'
                  '  C --> D["थोड़ा दोष निकला"]\n  C --> E["प्रवाहिका"]\n'),
     },
     ("23", "diagram"): {
