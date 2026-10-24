@@ -109,7 +109,7 @@ AUTHORED["205"] = {
              ("परिवृद्धिम् + भवति", "म् before भ would be written ं (परिवृद्धिं भवति), not र्.")],
             "परिवृद्धिः (increase) + भवति (takes place): इः before भ → इर्.",
             "Visarga after a vowel other than अ/आ → र् before a voiced sound."),
-        mcq("transfer", 5, "By the pattern of यौवने (in youth, from यौवन), how is 'in old age' said from वार्धक्य?",
+        mcq("transfer", 5, "By the pattern of यौवने (in youth, from यौवन), how is in old age said from वार्धक्य?",
             ("वार्धक्ये", "An अ-stem takes -ए for 'in': यौवन → यौवने, वार्धक्य → वार्धक्ये."),
             [("वार्धक्यम्", "वार्धक्यम् is the nominative/accusative, not 'in old age'."),
              ("वार्धक्येन", "वार्धक्येन is the instrumental, 'by old age'."),
@@ -167,7 +167,7 @@ AUTHORED["206"] = {
               [1, 3],
               "A number and a place are printed; the counted noun and the verb are not.",
               "दश योनौ: number + place."),
-        mcq("transfer", 5, "By the pattern of योनौ (in the yoni, from योनि), how is 'on the ground' said from भूमि?",
+        mcq("transfer", 5, "By the pattern of योनौ (in the yoni, from योनि), how is on the ground said from भूमि?",
             ("भूमौ", "An इ-stem takes -औ in the locative singular: योनि → योनौ, भूमि → भूमौ."),
             [("भूमिम्", "भूमिम् is the accusative, 'the ground' as object."),
              ("भूमेः", "भूमेः is the genitive or ablative, 'of / from the ground'."),
@@ -184,9 +184,9 @@ AUTHORED["207"] = {
     "question": "By unit 207, how are two groups of 'those' described?",
     "rule": ("Of those (तासाम्): two resting inside (अभ्यन्तराश्रिते द्वे); resting at the mouth (मुखाश्रिते), round "
              "(वृत्ते), two (द्वे)."),
-    "limits": ("Low confidence. As printed the counts are 2 + 2 here and 3 in unit 208, seven against the ten of unit 206; "
-               "unit 209 may carry one more, or a द्वे may have dropped from the scan: no question on the counts or a total. "
-               "Whose they are and the counted noun are not printed. Questions ask only about the printed words and joins."),
+    "limits": ("Low confidence. As printed: 2 + 2 here, 3 in unit 208, seven against the ten of unit 206; unit 209 may "
+               "add one, or a द्वे may be lost: no question on counts or totals. Whose they are and the counted noun "
+               "are not printed."),
     "explain_hi": ("यह गद्य-पंक्ति कम विश्वास वाली है। "
                    "छपा पाठ: ‘उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो’। "
                    "‘तासाम्’ (उनमें) सम्भवतः इकाई २०६ के योनि वाले दस की ओर है, पर यह कहा नहीं गया। "
@@ -268,7 +268,7 @@ AUTHORED["208"] = {
               "तिस्रो गर्भमार्गाश्रयाः: three resting on the path of the fetus.",
               "तिस्रः, गर्भ, मार्ग, आश्रय."),
         fill(2, "In unit 208 the word for 'path' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("मार्ग", "mārga"),
+             accepts("मार्ग", "mārga", "marga"),
              "मार्ग = path; गर्भमार्ग = the path of the fetus (probably the birth passage).",
              "मार्ग = path, way; गर्भमार्ग = the path of the fetus, probably the birth passage (probable).",
              "गर्भ + मार्ग + आश्रय."),
@@ -396,7 +396,7 @@ AUTHORED["210"] = {
             ("In the third whorl, between pitta and pakvāśaya", "तृतीये आवर्ते पित्तपक्वाशयान्तरे."),
             [("In the first whorl, between pitta and pakvāśaya", "The line says the third (तृतीये) whorl."),
              ("In the second whorl, between pitta and pakvāśaya", "The line says the third (तृतीये) whorl."),
-             ("Outside the whorls, just below the pakvāśaya", "The line places it in the third whorl, in the interval.")],
+             ("Outside the whorls, below the pakvāśaya, apart", "The line places it in the third whorl, in the interval.")],
             "In its third whorl, between pitta and the pakvāśaya, is the garbhaśayyā.",
             "तृतीये आवर्ते + पित्त-पक्वाशय-अन्तरे."),
         mcq("apply", 4, "The data reads printed तृतीय आवर्त्ते as तृतीये आवर्ते. Which rule gives the printed form?",
@@ -662,9 +662,9 @@ AUTHORED["215"] = {
     "question": "By unit 215, which hairs are said to be 'that many', and what is said of their nourishment?",
     "rule": ("And that many (तावन्ति) are the head-hairs (केश), beard-hairs (श्मश्रु) and body-hairs (लोमन्). For their "
              "openings are bound to them; therefore they are nourished (आप्यायन्ते) by those."),
-    "limits": ("Low confidence. 'That many' probably means as many as the openings of unit 213 (not stated). Who 'those' "
-               "(तासाम्, ताभिः, probably the sirā and dhamanī) and 'bound to that' refer to is unclear: no question asks "
-               "what they refer to. The card follows the data's reading: the hairs are nourished by the vessels."),
+    "limits": ("Low confidence. 'That many' is probably as many as the openings of unit 213 (not stated). What 'those' "
+               "(तासाम्, ताभिः; probably the vessels) and 'bound to that' refer to is unclear: no question asks it. "
+               "Read: hairs nourished by the vessels."),
     "explain_hi": ("यह कम विश्वास वाली गद्य-पंक्ति है। "
                    "पहला वाक्य: उतने ही केश (सिर के बाल), श्मश्रु (दाढ़ी-मूँछ के बाल) और लोम (शरीर के रोम) हैं; ‘उतने’ सम्भवतः इकाई २१३ के मुखों जितने, पर यह कहा नहीं गया। "
                    "दूसरा: ‘उनके मुख उनसे बँधे हैं, इसलिए वे उनसे पोषण पाते हैं’। "
