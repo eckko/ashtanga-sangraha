@@ -23,7 +23,7 @@ AUTHORED["1"] = {
             "What topic does unit 1 say will be explained?",
             ("The mishaps of emesis and purgation, and their remedy",
              "वमन-विरेचन-व्यापत्-सिद्धि: the accomplishment in the mishaps of vamana and virecana."),
-            [("The best emetic drugs and how to collect them",
+            [("The best emetic drugs and how one should collect them",
               "The title compound speaks of mishaps (व्यापत्), not of choosing drugs."),
              ("The doses of oil to give before any emesis",
               "No dose or oil is named in this unit."),
@@ -165,7 +165,7 @@ AUTHORED["3"] = {
              "मल-उत्क्लेशः: stirring up of the waste matter."),
             [("It is fully expelled", "Nothing is said to be expelled; the desired result is not attained."),
              ("It is digested like food", "The unit says stirred up, not digested."),
-             ("It hardens and stays fixed", "The word is उत्क्लेश, stirring up, not hardening.")],
+             ("It hardens and stays fixed inside", "The word is उत्क्लेश, stirring up, not hardening.")],
             "The two results: non-attainment of the desired, and stirring up of mala.",
             "मल + उत्क्लेश = the waste matter is stirred up."),
         match(1, "Match each word of unit 3 to its meaning.",
@@ -227,7 +227,7 @@ AUTHORED["4"] = {
             "What does verse 4 say must be done before making him vomit again?",
             ("Make him unctuous again, quickly",
              "पुनराशु स्नेहयित्वा: having quickly made him unctuous again."),
-            [("Make him fast for a whole day", "No fasting is named in the verse."),
+            [("Make him fast for a whole day first", "No fasting is named in the verse."),
              ("Give him a purgative first", "No purgative is named; the verse speaks of oiling, then emesis."),
              ("Sweat him in a heated room", "Sweating is not named in the verse.")],
             "The order is: oil him again quickly, then make him vomit.",
@@ -291,7 +291,7 @@ AUTHORED["5"] = {
              "व्यापत्करणानि ... परिहरेत्: one should avoid the causes of mishap."),
             [("All food for three days", "Food is not named in the verse."),
              ("Any second emetic at all", "Verse 4 repeats the emesis; verse 5 does not forbid it."),
-             ("The oiling before emesis", "Verse 4 prescribes the oiling; verse 5 does not reject it.")],
+             ("The oiling that comes before the emesis", "Verse 4 prescribes the oiling; verse 5 does not reject it.")],
             "The object of परिहरेत् is व्यापत्करणानि, the causes of mishap.",
             "परिहरेत् व्यापत्करणानि = should avoid the causes of mishap."),
         match(1, "Match each word of verse 5 to its meaning.",
@@ -317,7 +317,7 @@ AUTHORED["5"] = {
             "A physician repeats the emesis as verse 4 says. What does verse 5 add to that step?",
             ("Avoid the causes of mishap, keeping the earlier atikrama in mind",
              "This is exactly what verse 5 says."),
-            [("Halve the dose of the second emetic", "No dose change is stated in the verse."),
+            [("Halve the dose of the second emetic and give it at night", "No dose change is stated in the verse."),
              ("Wait one month before trying again", "No waiting time is stated."),
              ("Give a purgative instead of an emetic", "The verse names no purgative.")],
             "Verse 5 adds a caution to the repeat of verse 4: avoid the causes of mishap.",
@@ -512,7 +512,7 @@ AUTHORED["8"] = {
             "In unit 8, what role does वर्जम् (excepting) give to the words joined before it?",
             ("They are exceptions to the ban on a third medicine",
              "X-वर्जम् = excepting X: what stands before it is left out of the ban."),
-            [("They are the causes of its rising upward", "वर्जम् marks exceptions, not causes."),
+            [("They are the causes that make it rise upward again", "वर्जम् marks exceptions, not causes."),
              ("They are the signs that it rises upward", "वर्जम् does not mark signs."),
              ("They must be given before any oiling", "Oiling is not named in this unit.")],
             "Whatever the damaged compound names, वर्जम् makes it an exception.",
@@ -553,7 +553,7 @@ AUTHORED["9"] = {
              "भक्तवत् उपैति पाकम्: it undergoes digestion like food."),
             [("It goes upward", "Going upward is the mishap of unit 6."),
              ("It goes downward", "Going downward is the mishap of unit 2."),
-             ("It turns into a poison", "Poison is not named in the unit.")],
+             ("It turns into a poison inside", "Poison is not named in the unit.")],
             "This mishap is neither upward nor downward: the medicine is digested like food.",
             "भक्तवत् पाकम् = digestion like food."),
         match(1, "Match each word of unit 9 to its meaning.",
@@ -617,7 +617,7 @@ AUTHORED["10"] = {
             "What do the aroused doṣas produce, according to verse 10, if not expelled in time?",
             ("A disturbance (विभ्रम)",
              "विभ्रमं कुर्वन्ति: they produce a disturbance."),
-            [("A clean, light bowel", "Nothing good is said to follow; they produce vibhrama."),
+            [("A clean, light and empty bowel", "Nothing good is said to follow; they produce vibhrama."),
              ("Strong hunger", "Hunger is not named in the verse."),
              ("Deep, sound sleep", "Sleep is not named in the verse.")],
             "Aroused doṣas left inside past their time → vibhrama.",
@@ -823,7 +823,7 @@ IMAGE_SPECS = {
         "alt": "Mind map: the emetic goes downward; five conditions of the patient (very hungry, soft bowel, little phlegm, hard to make vomit (doubtful reading), weak), three of the medicine (deficient dose, very sharp, very cold), and drunk in indigestion",
         "type": "mermaid",
         "code": ('mindmap\n  वमन नीचे जाता है\n    पीने वाला\n      अत्यन्त भूखा\n      मृदु कोष्ठ\n'
-                 '      थोड़ा श्लेष्मा\n      कठिन वमन वाला ?\n      दुर्बल\n    औषध\n      मात्रा में कम\n'
+                 '      थोड़ा श्लेष्मा\n      कठिन वमन, पाठ संदिग्ध\n      दुर्बल\n    औषध\n      मात्रा में कम\n'
                  '      अति तीक्ष्ण\n      अति शीत\n    अजीर्ण में पिया\n'),
     },
     ("4", "chain"): {
@@ -838,7 +838,7 @@ IMAGE_SPECS = {
         "alt": "Mind map: the purgative goes upward; two patients (with indigestion, with phlegm), medicine very hot, sharp, salty, great dose (doubtful reading), and another medicine too",
         "type": "mermaid",
         "code": ('mindmap\n  विरेचन ऊपर जाता है\n    रोगी\n      अजीर्ण वाला\n      श्लेष्मा वाला\n'
-                 '    औषध\n      अति उष्ण\n      तीक्ष्ण\n      लवण\n      बड़ी मात्रा ?\n'
+                 '    औषध\n      अति उष्ण\n      तीक्ष्ण\n      लवण\n      बड़ी मात्रा, पाठ संदिग्ध\n'
                  '    अन्य औषध भी\n'),
     },
     ("9", "diagram"): {
