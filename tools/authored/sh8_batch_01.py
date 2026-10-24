@@ -302,8 +302,8 @@ AUTHORED["6"] = {
     "question": "By unit 6, what happens if the doṣa is abnormal and excessive in that state?",
     "rule": ("But in that state, when the doṣa is abnormal (विकृतिमत्) and excessive (उल्बण), the embryo (गर्भ) does not "
              "come into being at all (नैव संभवति)."),
-    "limits": ("Prose. 'That state' points back to the time of conception (units 3 to 5). The print joins दोषे उल्बणे as "
-               "दोषेउल्बणे without sandhi (a print habit). The line names no particular doṣa."),
+    "limits": ("Prose. 'That state' is not named; by context it probably points back to the formation described in units 3 to 5. "
+               "The print joins दोषे उल्बणे as दोषेउल्बणे without sandhi (a print habit). The line names no particular doṣa."),
     "explain_hi": ("किन्तु उस अवस्था में, जब दोष विकृत और उल्बण यानी बढ़ा हुआ हो, गर्भ बनता ही नहीं। "
                    "‘विकृतिमति दोषे उल्बणे’ सति-सप्तमी है: ‘दोष के विकृत और बढ़े होने पर’। "
                    "यह इकाई ३-५ के विपरीत है: वहाँ स्वाभाविक रूप से अधिक दोष प्रकृति बनाता है, यहाँ विकृत और अति बढ़ा दोष गर्भ ही नहीं बनने देता। "
@@ -346,7 +346,7 @@ AUTHORED["6"] = {
         mcq("transfer", 5, "By the join in त्ववस्थायां (तु + अवस्थायाम्), how are मधु + अत्र joined in a new example?",
             ("मध्वत्र", "उ before a different vowel becomes व्: मधु + अत्र → मध्वत्र."),
             [("मधोत्र", "उ + अ gives व्, not ओ."),
-             ("मधवत्र", "अव comes from ओ + अ, not from उ + अ."),
+             ("मधवत्र", "अव् would need ओ, not उ; उ before a different vowel becomes व्."),
              ("मधूत्र", "ऊ comes from उ + उ, not from उ + अ.")],
             "मधु + अत्र = मध्वत्र, like तु + अवस्थायाम् = त्ववस्थायाम्.",
             "उ + unlike vowel → व्.",
@@ -372,7 +372,7 @@ AUTHORED["7"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 7, what can become of the embryo?",
-            ("It perishes at conception, or is abnormal", "संभव एव वा विपद्यते विकृतो वा भवति."),
+            ("It perishes at conception, or is abnormal", "संभवएव वा विपद्यते विकृतोवा भवति."),
             [("It grows normally, or is born early", "Unit 7 names perishing or becoming abnormal."),
              ("It becomes twins, or is born late", "Unit 7 names perishing or becoming abnormal."),
              ("It takes the mother's constitution", "Unit 7 names perishing or becoming abnormal.")],
@@ -397,11 +397,11 @@ AUTHORED["7"] = {
             "अः + voiced consonant → ओ."),
         multi("apply", 4, "Which statements fit unit 7?",
               [("The line says the mother dies", "Unit 7 speaks only of the embryo."),
-               ("The subject, the embryo, comes from unit 6", "Right: the data carries 'it' over from unit 6."),
+               ("Even at conception it may perish", "Right: संभवएव वा विपद्यते."),
                ("The line names which doṣa causes the defect", "No doṣa is named in unit 7."),
                ("Two outcomes are joined by वा ... वा", "Right: विपद्यते वा ... विकृतो वा भवति.")],
               [1, 3],
-              "The embryo (from unit 6) perishes or becomes abnormal; वा ... वा joins them.",
+              "It may perish even at conception, or become abnormal; वा ... वा joins the two.",
               "वा ... वा = or ... or."),
         mcq("transfer", 5, "By the वा ... वा of unit 7, what does जलं वा क्षीरं वा पिबेत् mean in a new example?",
             ("He should drink water or milk", "X वा Y वा = either X or Y."),
@@ -410,7 +410,7 @@ AUTHORED["7"] = {
              ("He drank water and then milk", "पिबेत् is optative (should drink), and वा is or.")],
             "जलं वा क्षीरं वा पिबेत् = he should drink either water or milk.",
             "वा ... वा = either ... or.",
-            teaches="वा placed after each of two items means either ... or: संभव एव वा विपद्यते, विकृतो वा भवति."),
+            teaches="वा placed after each of two items means either ... or: संभवएव वा विपद्यते, विकृतो वा भवति."),
     ],
 }
 
@@ -422,12 +422,12 @@ AUTHORED["8"] = {
              "the units that follow."),
     "limits": ("Prose, one short line. Who 'some' are is not said. The view itself is in the following units; questions stay "
                "on the words of this line."),
-    "explain_hi": ("‘और इसी प्रकार कुछ लोग कहते हैं’: यह पंक्ति कुछ आचार्यों का मत आरम्भ करती है। "
+    "explain_hi": ("‘और इसी प्रकार कुछ लोग कहते हैं’: यह पंक्ति कुछ लोगों का मत आरम्भ करती है। "
                    "वे कौन हैं, यह नहीं बताया गया। "
                    "मत आगे की इकाइयों में चलता है। "
                    "‘केचित्’ पुल्लिंग बहुवचन सर्वनाम है: कुछ लोग। "
                    "‘केचिदाहुः’ में केचित् + आहुः: स्वर से पहले त् द् बनता है।"),
-    "hook": "तथा च केचिदाहुः: अब कुछ आचार्यों का मत।",
+    "hook": "तथा च केचिदाहुः: अब कुछ लोगों का मत।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does unit 8 do?",
@@ -590,13 +590,13 @@ AUTHORED["10"] = {
 # ---------------------------------------------------------------- unit 11
 AUTHORED["11"] = {
     "title": "ते शरीरधारणाद्धातुसंज्ञाः",
-    "question": "By unit 11, why are the natural doṣas called dhātu, and which part of the line is unclear?",
-    "rule": ("They (the natural doṣas) are named dhātu (धातुसंज्ञाः) from supporting the body (शरीरधारणात्). The rest of "
-             "the line is damaged and its sense is uncertain."),
+    "question": "By unit 11, why are they (by context, the natural doṣas) called dhātu, and which part of the line is unclear?",
+    "rule": ("They (by context, the natural doṣas of unit 10) are named dhātu (धातुसंज्ञाः) from supporting the body "
+             "(शरीरधारणात्). The rest of the line is damaged and its sense is uncertain."),
     "limits": ("Low confidence. The printed दोषार्व्यानां does not parse and is left unclear; the syntax of the genitives "
                "(विकृतानां बीजभूतानां मुमूर्षोः) is uncertain, so the second half is a loose rendering. Questions rest only "
                "on the first half and on plain joins."),
-    "explain_hi": ("वे यानी प्राकृत दोष शरीर को धारण करने के कारण धातु कहलाते हैं; ‘धातु’ का यह कारण पाठ स्वयं देता है। "
+    "explain_hi": ("वे (प्रसंग से इकाई १० के प्राकृत दोष) शरीर को धारण करने के कारण धातु कहलाते हैं; ‘धातु’ का यह कारण पाठ स्वयं देता है। "
                    "पंक्ति का दूसरा भाग बिगड़ा है: ‘दोषार्व्यानां’ कोई शब्द नहीं बनाता, और विकृतानां, बीजभूतानां, मुमूर्षोः के षष्ठी पद किससे जुड़ें, यह अनिश्चित है। "
                    "डेटा का अनुवाद वहाँ ढीला है और उस पर भरोसा नहीं करना चाहिए; इसलिए उस भाग पर कोई प्रश्न नहीं। "
                    "‘शरीरधारणाद्धातु’ में शरीरधारणात् + धातु: घोष व्यंजन ध से पहले त् द् बनता है। "
@@ -604,17 +604,17 @@ AUTHORED["11"] = {
     "hook": "शरीर को धारण करें, इसलिए धातु।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 11, why are the natural doṣas named dhātu?",
+        mcq("pretest", 0, "By unit 11, why are they (by context, the natural doṣas) named dhātu?",
             ("From supporting the body", "शरीरधारणात्: from supporting (धारण) the body."),
             [("From flowing through the channels", "Unit 11 gives supporting the body as the reason."),
              ("From being made of digested food", "Unit 11 gives supporting the body as the reason."),
              ("From burning like a fire inside", "Unit 11 gives supporting the body as the reason.")],
             "शरीरधारणाद्धातुसंज्ञाः: named dhātu from supporting the body.",
             "धारण → धातु."),
-        order(1, "Put the printed parts of unit 11 in the line's order.",
-              ["ते", "शरीरधारणाद्धातुसंज्ञाः", "दोषार्व्यानां", "विकृतानां बीजभूतानां", "मुमूर्षोः", "स्वरूपाच्चलंति"],
-              "They; named dhātu from supporting the body; (unclear word); of the abnormal ones, being the seed; of one about to die; move from their own nature.",
-              "ते → शरीरधारणाद्धातुसंज्ञाः → (unclear second half)."),
+        order(1, "Put the parts of the sure first half of unit 11 in the printed order.",
+              ["ते", "शरीरधारणात्", "धातु", "संज्ञाः"],
+              "They; from supporting the body; dhātu; named.",
+              "ते → शरीरधारणात् → धातु → संज्ञाः."),
         match(2, "Match each word of the sure first half of unit 11 to its meaning.",
               [["ते", "they"], ["शरीर", "body"], ["धारण", "supporting"], ["संज्ञा", "name"]],
               "ते शरीरधारणाद्धातुसंज्ञाः: they are named dhātu from supporting the body.",
@@ -627,14 +627,14 @@ AUTHORED["11"] = {
              ("शरीरधारणम् + धातु", "म् before ध would be written ं: शरीरधारणं धातु.")],
             "शरीरधारणात् (from supporting the body) + धातु.",
             "त् + voiced consonant → द्."),
-        multi("apply", 4, "Which statements fit unit 11?",
-              [("The line says they are named dhātu from supporting the body", "Right: शरीरधारणाद्धातुसंज्ञाः."),
-               ("The second half is a clear, firm statement", "Its genitives are uncertain and one word is unclear."),
-               ("The line gives modern names for the dhātus", "No modern name is given."),
-               ("The printed दोषार्व्यानां does not parse", "Right: it is left unsplit and unclear.")],
-              [0, 3],
-              "Sure: named dhātu from supporting the body. Unclear: दोषार्व्यानां and the second half.",
-              "Ask only the sure part of a damaged line."),
+        multi("apply", 4, "Which statements fit the first half of unit 11?",
+              [("They are named dhātu from supporting the body", "Right: शरीरधारणाद्धातुसंज्ञाः."),
+               ("They are named dhātu from flowing in the body", "Unit 11 gives supporting (धारण), not flowing."),
+               ("धारण here means supporting", "Right: शरीरधारणात् = from supporting the body."),
+               ("धातुसंज्ञाः is a singular form", "It is masculine nominative plural, agreeing with ते.")],
+              [0, 2],
+              "Named dhātu from supporting (धारण) the body.",
+              "धारण → धातु."),
         mcq("transfer", 5, "By the join in शरीरधारणाद्धातु, how are तत् + धनम् (that wealth) joined in a new example?",
             ("तद्धनम्", "त् before the voiced ध becomes द्: तत् + धनम् → तद्धनम्."),
             [("तत्धनम्", "त् does not stay voiceless before the voiced ध."),
@@ -695,7 +695,7 @@ AUTHORED["12"] = {
             "उल्बण → व्यपदेश."),
         mcq("transfer", 5, "By the join in प्रकृतावुल्बणेन (प्रकृतौ + उल्बणेन), how are गुरौ + अत्र joined in a new example?",
             ("गुरावत्र", "औ before a vowel becomes आव्: गुरौ + अत्र → गुरावत्र."),
-            [("गुरवत्र", "अव् comes from ओ before a vowel, not from औ."),
+            [("गुरवत्र", "अव् would need ओ, not औ; औ before a vowel becomes आव्."),
              ("गुरोत्र", "No vowel join gives ओ from औ + अ."),
              ("गुरौत्र", "औ does not absorb a following अ; it becomes आव्.")],
             "गुरौ + अत्र = गुरावत्र, like प्रकृतौ + उल्बणेन = प्रकृतावुल्बणेन.",
@@ -757,7 +757,7 @@ NOTES_HI = {
 AIDS = {
     "1": {
         "chunks": "अथातः | प्रकृतिभेदीयं | शारीरं | व्याख्यास्यामः",
-        "frame": "कब: अथ (अब) → क्यों: अतः (इसलिए) → किस विषय पर: प्रकृतिभेदीयं शारीरं → कौन: व्याख्यास्यामः (हम व्याख्या करेंगे)।",
+        "frame": "कब: अथ (अब) → क्यों: अतः (इसलिए) → किस विषय पर: प्रकृतिभेदीयं शारीरं → क्या करेंगे: व्याख्यास्यामः (हम व्याख्या करेंगे)।",
         "sandhi": "अ + अ → आ: अथ + अतः → अथातः · अघोष प से पहले विसर्ग बना रहता है: अथातः प्रकृति।",
     },
     "2": {
@@ -818,7 +818,7 @@ AIDS = {
     },
     "11": {
         "chunks": "ते | शरीरधारणाद्धातुसंज्ञाः | दोषार्व्यानां | विकृतानां बीजभूतानां | मुमूर्षोः | स्वरूपाच्चलंति",
-        "frame": "कौन: ते (प्राकृत दोष) → क्यों: शरीरधारणात् (शरीर को धारण करने से) → नाम: धातु। आगे का भाग अस्पष्ट।",
+        "frame": "कौन: ते (प्रसंग से प्राकृत दोष) → क्यों: शरीरधारणात् (शरीर को धारण करने से) → नाम: धातु। आगे का भाग अस्पष्ट।",
         "sandhi": "घोष व्यंजन से पहले त् → द्: शरीरधारणात् + धातु → शरीरधारणाद्धातु · च से पहले त् → च्: स्वरूपात् + चलन्ति → स्वरूपाच्चलन्ति।",
         "puns": "धारण करे सो धातु: ‘धा’ दोनों में। (केवल सुनने की सहायता, मेरा बनाया)",
     },
