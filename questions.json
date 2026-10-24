@@ -69599,7 +69599,7 @@
       "key": "english",
       "label": "English",
       "study": true,
-      "text": "(A woman) with a lean, clear face, and with throbbing hips and breasts, One should know that woman to be in her ritu (season), a ritumati who has drooping eyes and belly and desire for a man."
+      "text": "(A woman) with a lean, clear face, and with throbbing hips and breasts, one should know that woman to be in her ritu (season), a ritumati who has drooping eyes and belly and desire for a man."
      },
      {
       "key": "explain",
@@ -78219,7 +78219,7 @@
       "key": "english",
       "label": "English",
       "study": true,
-      "text": "Ghee, milk and the like, mattyasu (unclear word), in cheerful (ones), in (ones) whose nature is Kapha The artava (menstrual blood, the female element) stays long; in the opposite (ones), otherwise than this."
+      "text": "Ghee, milk and the like, mattyasu (unclear word), in cheerful (ones), in (ones) whose nature is Kapha the artava (menstrual blood, the female element) stays long; in the opposite (ones), otherwise than this."
      },
      {
       "key": "explain",
@@ -142338,7 +142338,8 @@
    "q": "The word for similar in समानगुणतया is ____ (type it in Devanagari or in English letters, e.g. dharma).",
    "accept": [
     "समान",
-    "samāna"
+    "samāna",
+    "samana"
    ],
    "explain": "समान = similar; गुण = quality; -ता = the state of.",
    "teaches": "समान means similar; समानगुणता is the state of having similar qualities.",
@@ -160913,22 +160914,22 @@
    "role": "apply",
    "rung": 4,
    "kind": "mcq",
-   "q": "What does unit 143 say about the debt?",
+   "q": "A translation of line 1 of unit 143 reads: 'Those born thus are beautiful, of great sattva, short-lived.' Which word is wrong?",
    "options": [
-    "That it is owed to the ancestors",
-    "That it is money owed to a teacher",
-    "That it passes to the daughters",
-    "Only that good sons release from it"
+    "born",
+    "beautiful",
+    "of great sattva",
+    "short-lived"
    ],
    "answer": 3,
    "optionExplain": [
-    "The unit does not name the kind of debt.",
-    "The unit names no teacher or money.",
-    "Daughters are not mentioned.",
-    "Right: The note: the kind of debt is not stated."
+    "जाताः = born (ones): right.",
+    "रूपवन्तः = having beauty: right.",
+    "महासत्त्वाः = of great sattva (mind): right.",
+    "Right: चिरायुषः means long-lived, not short-lived."
    ],
-   "explain": "The verse names debt but not its kind.",
-   "rule": "ऋण: kind not stated.",
+   "explain": "Line 1 calls those born thus long-lived (चिरायुषः).",
+   "rule": "चिर + आयुस् = long-lived.",
    "unit": "शारीर अध्याय १",
    "unitTitle": "पुत्रकामीय",
    "section": "संतान का वर्ण, सत्त्व और उपसंहार",
