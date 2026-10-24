@@ -74,7 +74,7 @@ AUTHORED["16"] = {
     "limits": ("Low confidence. पक्लोष्ट and सरसान्यसरेण are unclear printed forms (पक्व-लोष्ट is only a guess): no "
                "question rests on them. सिता may be sugar or 'white': no question on its sense. The verb, carried from "
                "unit 14, is not supplied; how these are used is not stated."),
-    "explain_hi": ("यह गद्य-पंक्ति इकाई १५ की सूची को आगे बढ़ाती है और ‘वा’ (अथवा) से विकल्प जोड़ती है: नीलोत्पल (नीला कमल), "
+    "explain_hi": ("यह गद्य-पंक्ति इकाई १५ की सूची को आगे बढ़ाती प्रतीत होती है और ‘वा’ (अथवा) से विकल्प जोड़ती है: नीलोत्पल (नीला कमल), "
                    "सिता (मिश्री), चन्दन आदि; अथवा तण्डुलाम्बु यानी चावल का पानी। "
                    "दो छपे रूप, ‘पक्लोष्ट’ और ‘सरसान्यसरेण’, अस्पष्ट हैं; इनका अर्थ नहीं बनता, इसलिए इन पर कुछ नहीं बनाया गया। "
                    "‘सिता’ मिश्री मानी गई है, पर उसका अर्थ ‘श्वेत’ भी हो सकता है। "
@@ -157,9 +157,9 @@ AUTHORED["17"] = {
               "प्रियंगु → असितोत्पल → शालूक → उडुंबर → आजेन पयसा."),
         match(2, "Match each word of unit 17 to the data's meaning.",
               [["प्रियङ्गु", "probably Callicarpa macrophylla"], ["शालूक", "probably a water-lily rhizome"],
-               ["उडुम्बर", "cluster fig (standard)"], ["शलाडु", "unripe fruit"], ["आज", "of the goat"]],
+               ["उदुम्बर", "cluster fig (standard)"], ["शलाडु", "unripe fruit"], ["आज", "of the goat"]],
               "Priyaṅgu and śālūka are probable; udumbara is standard; आजेन पयसा = with goat's milk.",
-              "प्रियङ्गु, शालूक, उडुम्बर, शलाडु, आज.", role="extend",
+              "प्रियङ्गु, शालूक, उदुम्बर, शलाडु, आज.", role="extend",
               teaches="आज = 'of the goat' (from अज, goat): आजेन पयसा = with goat's milk."),
         mcq("discriminate", 3, "Which split of प्रियंग्वसित is right?",
             ("प्रियङ्गु + असित", "उ before a different vowel becomes व्: प्रियङ्गु + असित → प्रियङ्ग्वसित."),
@@ -175,7 +175,7 @@ AUTHORED["17"] = {
                ("Udumbara is the cluster fig", "Right: Ficus racemosa, labelled standard.")],
               [0, 3],
               "Goat's milk is the vehicle; udumbara is standard; gandha and the groupings stay open.",
-              "उडुम्बर (standard) ... वाऽऽजेन पयसा."),
+              "उदुम्बर (standard) ... वाऽऽजेन पयसा."),
         mcq("transfer", 5, "By the rule of प्रियंग्वसित, how is मधु + अरिः (the enemy of Madhu) joined?",
             ("मध्वरिः", "उ + अ → व, as प्रियङ्गु + असित."),
             [("मधुरिः", "The अ is not dropped after उ."),
@@ -562,10 +562,10 @@ AUTHORED["24"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 24, which drug of the list has a standard identification?",
-            ("Śatāvarī (Asparagus racemosus)", "The data labels śatāvarī standard."),
-            [("Tāmravallī (a copper-hued creeper)", "The data: tāmravallī is unidentified."),
-             ("Aśmantaka (Bauhinia racemosa)", "The data: usually Bauhinia racemosa, but disputed."),
-             ("Payasyā (kṣīravidārī)", "The data labels payasyā disputed.")],
+            ("Śatāvarī", "The data labels śatāvarī standard."),
+            [("Tāmravallī", "The data: tāmravallī is unidentified."),
+             ("Aśmantaka", "The data: usually Bauhinia racemosa, but disputed."),
+             ("Payasyā", "The data labels payasyā disputed.")],
             "Only śatāvarī is a standard identification in unit 24.",
             "शतावरी (standard)."),
         order(1, "Put the words of unit 24 in the line's order.",
@@ -611,7 +611,7 @@ AUTHORED["25"] = {
              "as in unit 23, is understood."),
     "limits": ("Elliptical: the milk and the verb are understood, not printed. The members of the group are not named "
                "here. Vidārī's identification is only probable."),
-    "explain_hi": ("तीन शब्दों की यह पंक्ति एक और विकल्प देती है: अथवा विदारी आदि गण से। "
+    "explain_hi": ("यह छोटी पंक्ति एक और विकल्प देती है: अथवा विदारी आदि गण से। "
                    "‘विदार्यादिगण’ यानी वह औषधि-समूह जो विदारी से आरम्भ होता है; उसके सदस्य यहाँ नहीं गिनाए गए। "
                    "इकाई २३ की तरह, इस गण के साथ पकाया दूध समझा जाता है, पर छपा नहीं। "
                    "विदारी सम्भवतः विदारीकन्द (Pueraria tuberosa) है। "
@@ -952,7 +952,7 @@ IMAGE_SPECS = {
                 "unclear syllable, puṇḍarīka (probable, conjectural reading), ananta (disputed), utpala, tuber and seed; "
                 "decoction (possible correction), sweet with sugar and honey."),
         "type": "table",
-        "title": "इकाई १८: क्वाथ के द्रव्य",
+        "title": "इकाई १८: द्रव्य, शर्करा-मधु से मीठे",
         "heads": ["द्रव्य (क्रम से)", "पहचान"],
         "rows": [["कसेरुक", "कसेरू (सम्भावित)"], ["मृणाल", "कमलनाल"], ["शृंगाटक", "सिंघाड़ा (मानक)"],
                  ["काश्मर्य", "गम्भारी (मानक)"], ["परूषक", "फालसा (मानक)"], ["द्राक्षा", "अंगूर या मुनक्का (मानक)"],
