@@ -306,7 +306,7 @@ AUTHORED["81"] = {
             "The अ after र् is the negative अ-: अ-भावितम्, not soaked.",
             "ऐः + vowel → ऐर्: …वीर्यैरभावितम्."),
         mcq("apply", 4,
-            "A medicine was given in the right dose and at the right time, but not soaked with drugs of equal potency. By verse 81, what follows?",
+            "A medicine is given in the right dose and time but not soaked with drugs of equal potency. By verse 81, what follows?",
             ("It goes wrong (fails)",
              "Not soaked (अभावितम्) is one of the six faults: व्यापद्येतौषधं ध्रुवम्."),
             [("It works as usual", "Verse 81 says any of the six faults makes it fail."),
