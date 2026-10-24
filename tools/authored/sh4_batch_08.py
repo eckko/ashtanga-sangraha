@@ -19,12 +19,12 @@ AUTHORED["95"] = {
                    "दूसरी पंक्ति कहती है: वास्तव में (तत्त्वतः) शस्त्रकर्म यानी शस्त्र से किया जाने वाला कर्म सबसे कठिन (कष्टतम) है। "
                    "यहाँ शल्य गर्भ है, यह डेटा संदर्भ (इकाई ८९ का गर्भशल्य) से पढ़ता है; इस पंक्ति में नहीं कहा। "
                    "‘कष्टतम’ का अर्थ ‘सबसे पीड़ादायक’ भी हो सकता है; ‘-तम’ अतिशय (सबसे अधिक) बताता है।"),
-    "hook": "अनुभवी हाथ चाहिए, क्योंकि शस्त्रकर्म सबसे कठिन है।",
+    "hook": "एक मत: अनुभवी शल्यहर्ता निकाले; तत्त्वतः: शस्त्रकर्म सबसे कठिन।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 95, what is in truth the most difficult?",
             ("Śastrakarma, work with the knife", "तत्त्वतः कष्टतममस्ति शस्त्रकर्म: in truth śastrakarma is the most difficult."),
-            [("Anointing the hand with ghee oil", "Anointing comes in unit 100 and is never called the most difficult."),
+            [("Anointing the hand with ghee", "Anointing comes in unit 100 and is never called the most difficult."),
              ("Comforting the frightened woman", "Comforting the woman comes in unit 106; it is not called most difficult."),
              ("Laying the woman on a soft bed", "No bed is named in unit 95; the most difficult thing is śastrakarma.")],
             "In truth, work with the cutting instrument (śastrakarma) is the most difficult.",
@@ -82,7 +82,7 @@ AUTHORED["96"] = {
                    "छपा ‘अवधार्यम्’ (निश्चित किया जाए) सम्भवतः ‘अवचार्यम्’ (प्रयोग किया जाए) की छपाई-भूल है; इस पर प्रश्न नहीं। "
                    "फिर आठ क्रियाएँ एक हाथ से (एकेन पाणिना) करनी हैं: ऊपर खींचना, नीचे खींचना, घुमाना, काटकर निकालना, काटना, "
                    "चीरना, दबाना और सीधा करना।"),
-    "hook": "नाज़ुक अंगों के बीच, बिना चोट, एक हाथ से आठ क्रियाएँ।",
+    "hook": "अंगों के बीच, बिना चोट, एक हाथ से आठ क्रियाएँ।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 96, with what are the listed operations to be done?",
@@ -252,7 +252,7 @@ AUTHORED["99"] = {
     "rule": ("Likewise (तथा) also (अपि) of udara (उदर, a belly disease, probably ascites-type: probable), aśmarī (अश्मरी, "
              "urinary stone: standard) and so on (प्रभृति). No verb is printed."),
     "limits": ("What is said of them (that surgery is needed, or that death follows inaction) is not stated and not supplied: no "
-               "question rests on it. Printed प्रभृतीनापि has lost the म् of प्रभृतीनाम् (a flagged, probable reading). The data "
+               "question rests on it. Printed प्रभृतीनापि has lost the म् of प्रभृतीनाम् (a flagged, possible reading). The data "
                "says this line appears to continue unit 98. A prose line."),
     "explain_hi": ("यह अधूरी गद्य-पंक्ति है: वैसे ही (तथा) उदर, अश्मरी आदि (प्रभृति) का भी (अपि)। "
                    "उदर यहाँ रोग है: पेट का रोग, सम्भवतः जलोदर जैसा (सम्भावित); अश्मरी = पथरी, मूत्र की (मानक)। "
@@ -316,7 +316,7 @@ AUTHORED["100"] = {
     "limits": ("Low confidence. धन्वनागमृत्तिका is unclear and kept unsplit: no question on it. Śālmalī = silk-cotton tree, Bombax "
                "ceiba (standard); picchā = its gum (probable); cumbhala = a pad (probable). The genitives ('for her who...') "
                "stand loosely. A prose line."),
-    "explain_hi": ("यह गद्य-पंक्ति मूढगर्भ निकालने की विधि शुरू करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति गर्भ निकालने की विधि देती है। "
                    "स्त्री उत्तान यानी चित लेटी हो, उसकी जाँघें मुड़ी हों (व्याभुग्नसक्थी), और कटि-प्रदेश वस्त्र के चुम्भल "
                    "(सम्भवतः गद्दी) से उठाया गया हो। "
                    "फिर धन्वनागमृत्तिका (अर्थ अस्पष्ट), शाल्मली-पिच्छा (सेमल, Bombax ceiba, मानक; पिच्छा = उसका गोंद, सम्भावित) "
@@ -363,7 +363,7 @@ AUTHORED["100"] = {
             ("बालाया वचनम्", "आः before a voiced sound loses its visarga, as उत्तानायाः + व्याभुग्न..."),
             [("बालायो वचनम्", "ओ comes only from अः before a voiced sound, not from आः."),
              ("बालायार्वचनम्", "र् comes from a visarga after a vowel other than अ or आ."),
-             ("बालायाश्वचनम्", "The visarga becomes श् only before च, छ or श.")],
+             ("बालायाश्वचनम्", "Before the voiced व the visarga after आ is dropped; श् comes before च or छ (optionally before श), not before व.")],
             "बालायाः + वचनम् = बालाया वचनम् (the girl's word), like उत्तानायाः + व्याभुग्न... = उत्तानाया व्याभुग्न...",
             "आः + voiced sound → आ (visarga dropped).",
             teaches="A visarga after आ is dropped before a voiced sound: उत्तानायाः + व्याभुग्न... → उत्तानाया व्याभुग्न..."),
@@ -377,13 +377,13 @@ AUTHORED["101"] = {
     "rule": ("There (तत्र): of one who has come by the two thighs (सक्थिभ्याम् आगतस्य), because of ānulomya (आनुलोम्यात्, "
              "following the natural direction), only cut (छिन्नम् एव): the sense of the end is uncertain."),
     "limits": ("Low confidence; elliptical. What is cut is not given, and छिन्नमेव may mean only cutting or be corrupt: no "
-               "question on its sense (one only splits the printed sandhi). The case of सक्थिभ्याम् is not asked. Prose."),
+               "question on its sense (nor on the division of आनुलोम्याच्छिन्नमेव: the data notes an alternative such as अच्छिन्नम्). The case of सक्थिभ्याम् is not asked. Prose."),
     "explain_hi": ("यह अधूरी गद्य-पंक्ति है और इसका अर्थ अनिश्चित है। "
                    "वहाँ (तत्र): जो दोनों जाँघों से आया हो (सक्थिभ्याम् आगतस्य), उसका, आनुलोम्य यानी स्वाभाविक दिशा में होने के "
                    "कारण (आनुलोम्यात्), केवल कटा हुआ (छिन्नम् एव)। "
                    "क्या काटा जाए, इसकी संज्ञा या क्रिया नहीं दी गई; ‘छिन्नमेव’ का अर्थ ‘केवल काटना ही’ हो सकता है, या पाठ बिगड़ा "
                    "हो। "
-                   "पक्की बातें: तत्र, दोनों जाँघों से आना, और पंचमी ‘आनुलोम्यात्’ = के कारण।"),
+                   "पक्की बातें: तत्र और दोनों जाँघों से आना; ‘आनुलोम्यात्’ (के कारण) डेटा का पठन है, विभाजन अनिश्चित।"),
     "hook": "जाँघों से आया, दिशा अनुकूल: आगे का अर्थ धुँधला।",
     "core": False,
     "questions": [
@@ -395,39 +395,38 @@ AUTHORED["101"] = {
             "This one has come by the two thighs.",
             "सक्थिभ्याम् आगतस्य."),
         order(1, "Put the words of unit 101 in the line's order.",
-              ["तत्र", "सक्थिभ्याम्", "आगतस्य", "आनुलोम्यात्", "छिन्नमेव"],
-              "There, by the two thighs, of one come, because of following the natural direction, only cut.",
-              "तत्र → सक्थिभ्याम् → आगतस्य → आनुलोम्यात् → छिन्नमेव."),
+              ["तत्र", "सक्थिभ्याम्", "आगतस्य", "आनुलोम्याच्छिन्नमेव"],
+              "There, by the two thighs, of one come, ... (the end is uncertain).",
+              "तत्र → सक्थिभ्याम् → आगतस्य → आनुलोम्याच्छिन्नमेव."),
         match(2, "Match each word of unit 101 to its meaning.",
-              [["तत्र", "there, in that case"], ["सक्थि", "thigh"], ["आगत", "come, arrived"],
-               ["आनुलोम्य", "following the natural direction"]],
-              "There: of one come by the two thighs, because of following the natural direction.",
-              "तत्र, सक्थि, आगत, आनुलोम्य.", role="extend",
-              teaches="आनुलोम्यात् is an ablative of cause: 'because of' following the natural direction."),
-        mcq("discriminate", 3, "Which split of आनुलोम्याच्छिन्नम् is right?",
-            ("आनुलोम्यात् + छिन्नम्", "A final त् before छ becomes च्: आनुलोम्यात् + छिन्नम् → आनुलोम्याच्छिन्नम्."),
-            [("आनुलोम्यात् + चिन्नम्", "त् + च would give आनुलोम्याच्चिन्नम्, with च्च, not च्छ."),
-             ("आनुलोम्याम् + छिन्नम्", "म् before छ would give आनुलोम्यां छिन्नम्, with ं."),
-             ("आनुलोम्या + च्छिन्नम्", "च्छिन्नम् is not a word; the printed word is छिन्नम्.")],
-            "आनुलोम्यात् (because of the natural direction) + छिन्नम्: त् + छ → च्छ.",
-            "त् + छ → च्छ."),
+              [["तत्र", "there, in that case"], ["सक्थि", "thigh"], ["आगत", "come, arrived"]],
+              "There: of one come by the two thighs.",
+              "तत्र, सक्थि, आगत.", role="extend",
+              teaches="आगत is the past participle of आ-√गम्: come, arrived."),
+        mcq("discriminate", 3, "Which split of सक्थिभ्यामागतस्य is right?",
+            ("सक्थिभ्याम् + आगतस्य", "A final म् before a vowel joins it: सक्थिभ्याम् + आगतस्य → सक्थिभ्यामागतस्य."),
+            [("सक्थिभ्या + मागतस्य", "मागतस्य is not a word; the word is आगतस्य, come."),
+             ("सक्थिभ्याम् + अगतस्य", "म् + अ would give सक्थिभ्यामगतस्य, with a short अ."),
+             ("सक्थिभ्यां + गतस्य", "Before ग the print would show सक्थिभ्यां गतस्य, with no आ.")],
+            "सक्थिभ्याम् + आगतस्य (of the one come): म् joins the following vowel.",
+            "म् + vowel → म् joins the vowel."),
         multi("apply", 4, "Which statements about unit 101 are right by the card?",
               [("It says the fetus must be cut in two", "No noun or verb for what is cut is given; nothing is supplied."),
                ("The sense of the line's end is uncertain", "Right: the data calls the sense uncertain."),
                ("No verb is printed", "Right: the unit is elliptical."),
                ("The line names the mother", "No mother is named in unit 101."),
-               ("आनुलोम्यात् gives a reason, 'because of'", "Right: an ablative, 'because of' the natural direction.")],
+               ("It names the two thighs", "Right: सक्थिभ्याम्, the two thighs.")],
               [1, 2, 4],
-              "The line has no verb, its end is uncertain, and आनुलोम्यात् gives a reason.",
+              "The line has no verb, its end is uncertain, and it names the two thighs.",
               "तत्र सक्थिभ्यामागतस्य आनुलोम्यात् ... (अर्थ अनिश्चित)."),
-        mcq("transfer", 5, "By the rule of आनुलोम्यात् + छिन्नम्, how is तत् + छत्रम् (that umbrella) joined?",
-            ("तच्छत्रम्", "A final त् before छ becomes च्, as आनुलोम्यात् + छिन्नम्."),
-            [("तत्छत्रम्", "Before छ the त् does not stay; it becomes च्."),
-             ("तद्छत्रम्", "द् comes before a voiced sound; छ is unvoiced, and त् becomes च्."),
-             ("तञ्छत्रम्", "A nasal ञ् is not made before छ; त् becomes च्.")],
-            "तत् + छत्रम् = तच्छत्रम्, like आनुलोम्यात् + छिन्नम् = आनुलोम्याच्छिन्नम्.",
-            "त् + छ → च्छ.",
-            teaches="A word-final त् becomes च् before छ: आनुलोम्यात् + छिन्नम् → आनुलोम्याच्छिन्नम्."),
+        mcq("transfer", 5, "By the rule of सक्थिभ्याम् + आगतस्य, how is फलम् + आनय (bring the fruit) joined?",
+            ("फलमानय", "A final म् before a vowel joins it, as सक्थिभ्याम् + आगतस्य → सक्थिभ्यामागतस्य."),
+            [("फलं आनय", "ं is written for म् only before a consonant; before आ the म् joins the vowel."),
+             ("फलानय", "The म् is not lost; it joins the vowel."),
+             ("फलमनय", "The long आ of आनय stays long.")],
+            "फलम् + आनय = फलमानय, like सक्थिभ्याम् + आगतस्य = सक्थिभ्यामागतस्य.",
+            "म् + vowel → joins the vowel.",
+            teaches="A word-final म् before a vowel joins it: सक्थिभ्याम् + आगतस्य → सक्थिभ्यामागतस्य."),
     ],
 }
 
@@ -438,12 +437,12 @@ AUTHORED["102"] = {
     "rule": ("One thigh presented: stretch out the other thigh. At the buttock region: press it down, lift upward, stretch the "
              "thighs. Transverse: turn round, or lift the hind half. Head turned aside: press the shoulder, lift, bring the head "
              "to the birth passage. Both arms: press the shoulders up, bring the head's base. Then draw out (निर्हरेत्)."),
-    "limits": ("Low confidence; one long sentence with one verb and no object. Three forms are flagged print slips (सक्थ्यनी, "
+    "limits": ("Low confidence; one long sentence with one verb and no object. Three forms are flagged as possible print slips (सक्थ्यनी, "
                "प्रसार्ये, परादर्द्धम्, read सक्थिनी, प्रसार्य, अपरार्धम्): no question on them or on the 'hind half' step. "
-               "Apatyapatha as the birth passage is probable; modern names (breech, transverse lie) are probable, not stated."),
+               "Birth passage and modern names (breech, transverse lie) are probable only."),
     "explain_hi": ("यह लम्बी गद्य-पंक्ति पाँच दशाएँ और उनका उपाय गिनाती है; अन्त में एक क्रिया ‘निर्हरेत्’ (निकाले) सबको बन्द करती है। "
                    "(१) एक जाँघ आगे आई हो तो दूसरी जाँघ फैलाकर; (२) स्फिग्देश यानी नितम्ब-प्रदेश से आया हो तो उसे दबाकर, ऊपर "
-                   "उठाकर, जाँघें फैलाकर; (३) तिरछा आया हो तो घुमाकर, या पिछला आधा उठाकर अगले आधे को सीधा जन्म-मार्ग में लाकर; "
+                   "उठाकर, जाँघें फैलाकर; (३) तिरछा आया हो तो घुमाकर, या पिछला आधा उठाकर अगले आधे को सीधा सन्तान के मार्ग (सम्भवतः जन्म-मार्ग) में लाकर; "
                    "(४) सिर बगल में मुड़ा हो तो कन्धा दबाकर, ऊपर उठाकर, सिर को सन्तान के मार्ग में लाकर; (५) दोनों भुजाएँ आगे "
                    "आई हों तो दोनों कन्धे ऊपर दबाकर, सिर की जड़ लाकर। "
                    "तीन छपे रूप (सक्थ्यनी, प्रसार्ये, परादर्द्धम्) छपाई-भूल माने गए हैं। "
@@ -472,12 +471,12 @@ AUTHORED["102"] = {
               "Each case opens with 'for one who...' and has its own handling; then one draws out.",
               "प्रसार्य; प्रनिपीड्य उत्क्षिप्य; परिवर्त्य; प्रतिपीड्य आनीय; उत्पीड्य आनीय → निर्हरेत्.", role="extend",
               teaches="Each case opens with a genitive, 'for one who...'; the single verb निर्हरेत् (should draw out) closes them all."),
-        mcq("discriminate", 3, "By unit 102, what is done first for the one that has come transversely?",
+        mcq("discriminate", 3, "By unit 102, which handling is named first for the one that has come transversely?",
             ("It is turned round", "तिर्यगागतस्य परिवर्त्य: for one come transversely, having turned (it) round."),
             [("The other thigh is stretched", "That is the handling for one thigh presented."),
              ("Both shoulders are pressed up", "That is the handling for both arms presented."),
              ("The shoulder is pressed down", "Pressing the shoulder is for the head turned aside.")],
-            "For the transverse one: turning round (or another way, on a flagged reading).",
+            "Turning round is named first; the other way (or ...) rests on a flagged reading.",
             "तिर्यगागतस्य परिवर्त्य."),
         mcq("apply", 4, "A fetus has come at the buttock region (स्फिग्देश). By unit 102, what is done to that region?",
             ("It is pressed down and lifted upward", "स्फिग्देशं प्रनिपीड्य ऊर्ध्वम् उत्क्षिप्य."),
@@ -538,18 +537,18 @@ AUTHORED["103"] = {
             "शिरोभिः (with heads) + योनिम्: इः before the voiced य → इर्.",
             "इः + voiced sound → इर्."),
         multi("apply", 4, "Which statements about unit 103 are right by the card?",
-              [("It is a 'who' (यः) clause, not a full sentence", "Right: the data finds its main clause in unit 105."),
+              [("It comes with hands, feet and head", "Right: पाणिपादशिरोभिः."),
                ("It comes with one foot to the anus", "That is said in unit 104, not here."),
                ("The line says it must be cut at once", "No cutting is named in unit 103."),
-               ("Printed अभ्युग्न is not a known word", "Right: the data flags it and reads अभुग्न.")],
+               ("Its verb is प्रतिपद्यते, comes to", "Right: योनिं प्रतिपद्यते.")],
               [0, 3],
-              "A relative clause; अभ्युग्न is a flagged form.",
-              "यः ... प्रतिपद्यते; अभ्युग्न → अभुग्न (सम्भावित)."),
+              "It comes to the yoni with hands, feet and head; the verb is प्रतिपद्यते.",
+              "पाणिपादशिरोभिः योनिं प्रतिपद्यते."),
         mcq("transfer", 5, "By the rule of यः + तु → यस्तु, how is रामः + तत्र (Rāma there) joined?",
             ("रामस्तत्र", "A visarga before त becomes स्, as यः + तु → यस्तु."),
             [("रामो तत्र", "अः becomes ओ only before a voiced sound; त is unvoiced."),
              ("रामर्तत्र", "र् comes from a visarga after a vowel other than अ or आ."),
-             ("रामश्तत्र", "The visarga becomes श् only before च, छ or श.")],
+             ("रामश्तत्र", "Before त the visarga becomes स्; श् comes before च or छ (optionally before श).")],
             "रामः + तत्र = रामस्तत्र, like यः + तु = यस्तु.",
             "Visarga + त/थ → स्.",
             teaches="A visarga before त or थ becomes स्: यः + तु → यस्तु."),
@@ -850,7 +849,7 @@ AUTHORED["108"] = {
             ("मुनेराश्रमः", "A visarga after ए before a voiced sound (here a vowel) becomes र्, as दृतेः + इव."),
             [("मुने आश्रमः", "Only अः and आः lose the visarga before a vowel; after ए it becomes र्."),
              ("मुनेऽश्रमः", "ऽ marks a lost अ after ए or ओ; here आ follows, after a visarga."),
-             ("मुनेस्आश्रमः", "The visarga becomes स् only before त or थ.")],
+             ("मुनेस्आश्रमः", "Before a vowel, ः after ए becomes र्; स् comes before त or थ (optionally before स).")],
             "मुनेः + आश्रमः = मुनेराश्रमः, like दृतेः + इव = दृतेरिव.",
             "एः + voiced sound → एर्.",
             teaches="A visarga after a vowel other than अ/आ becomes र् before a voiced sound: दृतेः + इव → दृतेरिव."),
@@ -994,7 +993,7 @@ AIDS = {
     "101": {
         "chunks": "तत्र | सक्थिभ्यामागतस्य | आनुलोम्यात् | छिन्नमेव (?)",
         "sandhi": "अ + आ → आ: आगतस्य + आनुलोम्यात् → आगतस्यानुलोम्यात् · त् + छ → च्छ: आनुलोम्यात् + छिन्नम् → "
-                  "आनुलोम्याच्छिन्नम्।",
+                  "आनुलोम्याच्छिन्नम् (डेटा का पठन; ‘अच्छिन्नम्’ जैसा विकल्प भी सम्भव)।",
         "frame": "कहाँ: तत्र → किसका: सक्थिभ्याम् आगतस्य (दोनों जाँघों से आया) → क्यों: आनुलोम्यात् (स्वाभाविक दिशा के कारण) → "
                  "छिन्नम् एव: अर्थ अनिश्चित, संज्ञा-क्रिया नहीं।",
     },
@@ -1038,7 +1037,7 @@ AIDS = {
                             "सिर की खोपड़ी के टुकड़े निकालकर",
                             "शंकु से पकड़कर: ठोड़ी, तालु (सुधारा पाठ), छाती या काँख", "हटा ले (अपहरेत्)"]},
         "chunks": "अथस्त्रियमाश्वास्य | मंडलाग्रेणांगुलिशस्त्रेण वा विदार्य | शिरःकपालान्याहृत्य | शंकुना गृहीत्वा | "
-                  "चुबुके तालुक्युरसि (= तालुन्युरसि?) कक्षायां वा | ऽपहरेत्",
+                  "चुबुके तालुक्युरसि (= तालुन्युरसि?) | कक्षायां वाऽपहरेत्",
         "sandhi": "अ + अ → आ: मण्डल + अग्र → मण्डलाग्र · इ + आ → या: कपालानि + आहृत्य → कपालान्याहृत्य · आ + अ → आ: "
                   "वा + अपहरेत् → वापहरेत् (छपा ‘वाऽपहरेत्’)।",
     },
@@ -1089,7 +1088,7 @@ IMAGE_SPECS = {
         "alt": ("Chain of unit 100: the woman lies face up; thighs bent; hip region raised by a cloth cumbhala (probably a "
                 "pad); hand and yoni anointed with dhanvanāgamṛttikā (unclear), śālmalī-picchā and ghee; extract the fetus."),
         "type": "chain",
-        "title": "इकाई १००: मूढगर्भ निकालने से पहले",
+        "title": "इकाई १००: लिटाना, चुपड़ना, निकालना",
         "steps": ["स्त्री उत्तान (चित) लेटी", "जाँघें मुड़ी हुईं", "कटि वस्त्र-चुम्भल से उठी (सम्भवतः गद्दी)",
                   "हाथ और योनि चुपड़ें: धन्वनागमृत्तिका (अस्पष्ट), शाल्मली-पिच्छा, घी", "गर्भ को निकाले"],
     },
