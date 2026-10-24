@@ -161,9 +161,9 @@ AUTHORED["79"] = {
             "परिकर्तिका ↔ कण्ठक्षणन."),
         match(1, "Match each word of unit 79 to its meaning.",
               [["परिकर्तिका", "cutting pain"], ["कण्ठक्षणन", "injury of the throat"], ["परिस्रव", "discharge"],
-               ["प्रसेक", "flow"], ["प्रवाहण", "straining"]],
-              "The three purgation troubles and two of their emesis counterparts, as the card glosses them.",
-              "परिकर्तिका = cutting pain; कण्ठक्षणन = throat injury; परिस्रव = discharge; प्रसेक = flow; प्रवाहण = straining."),
+               ["शुष्क", "dry"], ["प्रवाहण", "straining"]],
+              "The three purgation troubles, the throat injury of emesis, and शुष्क, the word that makes the belching dry.",
+              "परिकर्तिका = cutting pain; कण्ठक्षणन = throat injury; परिस्रव = discharge; शुष्क = dry; प्रवाहण = straining."),
         order(2, "Put these parts of unit 79 in the order of the text.",
               ["या तु विरेचने परिकर्त्तिका", "तद्वमने कंठक्षणनं", "यः परिस्रवः", "स कफप्रसेको", "यत्प्रवाहणं"],
               "Cutting pain, then throat injury; discharge, then flow of Kapha; then straining (paired with dry belching).",
@@ -224,7 +224,7 @@ AUTHORED["80"] = {
               [["भवन्ति", "there are"], ["च", "and"], ["अत्र", "here, on this point"]],
               "The verb, the joining word and the word for 'on this point'.",
               "भवन्ति = there are; च = and; अत्र = here, on this point."),
-        order(2, "Put the three words of भवंति चात्र in the order of the text.",
+        order(2, "Put the three words of unit 80 in the order of the text.",
               ["भवंति", "च", "अत्र"],
               "The verb first, then च and अत्र, joined as चात्र.",
               "भवंति · च · अत्र.",
@@ -368,7 +368,7 @@ AUTHORED["82"] = {
             ("भूयः + तम्",
              "A visarga before त becomes स्: भूयः + तम् → भूयस्तम्."),
             [("भूय + स्तम्", "स्तम् is no word here; the स् is the changed visarga."),
-             ("भूयः + स्तम्", "That would print भूयस्स्तम्, with a double स्."),
+             ("भूयः + स्तम्", "स्तम् is no word; the स् of भूयस्तं is the changed visarga."),
              ("भूयो + तम्", "An ओ cannot become स्.")],
             "भूयः (again) + तम् (him, that): ः → स् before त.",
             "ः + त → स्त."),
@@ -604,11 +604,11 @@ AUTHORED["86"] = {
                    "डेटा का पाठ: जो भली-भाँति विरेचित है और डकार ले रहा है, उसकी औषध को क्षिप्रम्, यानी शीघ्र, उल्लिखेत्, यानी खुरचकर "
                    "ऊपर निकाले; विधि नहीं बताई। दूसरी पंक्ति: (औषध) न पची हो और प्रवृत्त न हो, तो वैद्य बहुत ठण्डे द्रव्यों से स्तम्भित करे, "
                    "यानी रोके। किसे रोका जाए, यह स्पष्ट नहीं।"),
-    "hook": "डकार के साथ अटकी दवा: जल्दी निकालो; न चली: बहुत ठंडे से थामो।",
+    "hook": "ठीक विरेचन, साथ में डकार: दवा जल्दी निकालो; न पची, न चली: बहुत ठंडे से थामो।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "In verse 86, how soon should the medicine be scraped up (उल्लिखेत्)?",
+            "In verse 86, how soon should he scrape up (उल्लिखेत्)?",
             ("Quickly (क्षिप्रम्)",
              "क्षिप्रमुल्लिखेत्: he should quickly scrape (it) up."),
             [("Slowly (शनैः)", "शनैः is not in verse 86; the word is क्षिप्रम्."),
@@ -626,7 +626,7 @@ AUTHORED["86"] = {
               "Line 1: the compound, then 'quickly scrape up'; line 2: the condition, 'with very cold (ones)', the verb and the physician.",
               "…भेषजं · क्षिप्रमुल्लिखेत् · अजीर्णमप्रवृत्तौ तु · सुशीतैः · स्तंभयेद्भिषक्.",
               role="extend",
-              teaches="Each line of verse 86 ends in its own optative: उल्लिखेत् in line 1, स्तम्भयेत् in line 2."),
+              teaches="Each line of verse 86 has its own optative: उल्लिखेत् ends line 1; स्तम्भयेत् stands just before भिषक् at the end of line 2."),
         mcq("discriminate", 3,
             "Which split of the printed स्तंभयेद्भिषक् is right?",
             ("स्तंभयेत् + भिषक्",
@@ -740,7 +740,7 @@ AUTHORED["88"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "In verse 88, by which doṣa is the medicine (held) in the second line?",
+            "In verse 88, by what is the medicine (held) in the second line?",
             ("Vāyu (वायुना)",
              "वायुना भेषजे: when the medicine (is held) by Vāyu, wind."),
             [("Kapha (श्लेष्मणा)", "Kapha is the obstructer of 05.03.96, not of this line."),
@@ -758,7 +758,7 @@ AUTHORED["88"] = {
               "Staying · gone upward · or even · by Vāyu · in the medicine · should drink.",
               "तिष्ठति · ऊर्ध्वगते · अपि वा · वायुना · भेषजे · पिबेत्.",
               role="extend",
-              teaches="Line 1 of verse 88 gives the states of the unstated subject; line 2 turns to the case of Vāyu and ends in पिबेत्."),
+              teaches="Line 1 of verse 88 names जीर्णे, तिष्ठति and ऊर्ध्वगते (syntax uncertain); line 2 turns, with तु, to the case of Vāyu and ends in पिबेत्."),
         mcq("discriminate", 3,
             "Which split of the printed तिष्ठत्यूर्ध्वगते is right?",
             ("तिष्ठति + ऊर्ध्वगते",
@@ -845,7 +845,7 @@ NOTES_HI = {
 
 AIDS = {
     "77": {
-        "chain": {"steps": ["शेष उपद्रव (वमन-विरेचन के)", "रोग के अनुसार", "दोषों का विचार करके", "प्रतिकार",
+        "chain": {"steps": ["शेष उपद्रव (वमन-विरेचन के)", "प्रतिकार: रोग के अनुसार और दोषों का विचार करके (दोनों साथ)",
                             "बस्तिव्यापत्सिद्धि भी देखे"]},
         "sandhi": "अ + ई → ए: च + ईक्षेत → चेक्षेत; त् → द् घोष से पहले: प्रतिकुर्यात् + वस्ति → प्रतिकुर्याद्वस्ति।",
         "anchors": "शेष = बचा हुआ · उपद्रव = उलझन, उपद्रव · यथामयम् = रोग के अनुसार · अपेक्ष्य = ध्यान में रखकर · ईक्षेत = देखे।",
@@ -921,9 +921,8 @@ IMAGE_SPECS = {
         "file": "ka3-shesha-upadrava-77.svg",
         "alt": "Flowchart of unit 77: the remaining complications of emesis and purgation are countered according to the disease, having regard to the doshas, and the basti-vyapat-siddhi is also consulted",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["वमन-विरेचन के<br/>शेष उपद्रव"] --> B["रोग के अनुसार"]\n'
-                 '  B --> C["दोषों का विचार"]\n  C --> D["प्रतिकार"]\n'
-                 '  A --> E["बस्तिव्यापत्सिद्धि<br/>भी देखे"]\n'),
+        "code": ('flowchart TD\n  A["वमन-विरेचन के<br/>शेष उपद्रव"] --> D["प्रतिकार"]\n  B["रोग के अनुसार"] --> D\n'
+                 '  C["दोषों का विचार"] --> D\n  A --> E["बस्तिव्यापत्सिद्धि<br/>भी देखे"]\n'),
     },
     ("79", "contrast"): {
         "file": "ka3-vamana-virecana-pairs-79.svg",
