@@ -26,8 +26,8 @@ AUTHORED["76"] = {
     "questions": [
         mcq("pretest", 0, "By unit 76, what is closed in the second case?",
             ("The mouth of the channel (srotas)", "स्रोतोमुखं पिधत्ते: it closes the mouth of the channel."),
-            [("The mouth of the uterus", "The uterus is not named in this line."),
-             ("The eyes of the embryo", "No eyes are named in this line."),
+            [("The mouth of the uterus (garbhāśaya)", "The uterus is not named in this line."),
+             ("The eyes of the embryo in the womb", "No eyes are named in this line."),
              ("The way of the breath", "Breath is not named in this line.")],
             "The second case: without damaging, it simply closes the mouth of the channel (स्रोतोमुख).",
             "स्रोतः + मुखम् = the mouth of the channel; पिधत्ते = closes."),
@@ -84,7 +84,7 @@ AUTHORED["77"] = {
     "questions": [
         mcq("pretest", 0, "By unit 77, what does (it) then become?",
             ("Outside refining treatment", "संस्कारबाह्यं भवति: it becomes outside saṃskāra."),
-            [("Cured by fasting alone", "Fasting is not named in this line."),
+            [("Cured by fasting alone, in a few days", "Fasting is not named in this line."),
              ("Firm and full of strength", "The line says nothing of firmness here."),
              ("A disease of the eyes", "No eye disease is named in this line.")],
             "तदा संस्कारबाह्यं भवति: then (it) becomes outside (the scope of) refining treatment.",
@@ -141,9 +141,9 @@ AUTHORED["78"] = {
     "questions": [
         mcq("pretest", 0, "By unit 78, into what do 'these' put strength?",
             ("Into the semen (शुक्र)", "शुक्रे बलमादधानानि: putting strength into the semen."),
-            [("Into the blood", "Blood is not named in this line."),
-             ("Into the bones", "Bones are not named in this line."),
-             ("Into the digestion", "Digestion is not named in this line.")],
+            [("Into the blood (śoṇita)", "Blood is not named in this line."),
+             ("Into the bones (asthi)", "Bones are not named in this line."),
+             ("Into the digestive fire (agni)", "Digestion is not named in this line.")],
             "शुक्रे (locative: in the semen) बलम् (strength) आदधानानि (putting).",
             "शुक्रे = in the semen; बलम् आदधानानि = putting strength."),
         order(1, "Put these pieces of unit 78 in their printed order.",
@@ -198,7 +198,7 @@ AUTHORED["79"] = {
     "questions": [
         mcq("pretest", 0, "By unit 79, what does such a man cause with the woman?",
             ("An obstruction of intercourse", "व्यवायप्रतिघातं करोति: he causes an obstruction of intercourse."),
-            [("A quarrel over property", "Property is not named in this line."),
+            [("A quarrel over the household property", "Property is not named in this line."),
              ("An early conception", "The line speaks of obstruction, not conception."),
              ("A fever in the woman", "No fever is named in this line.")],
             "नार्या व्यवायप्रतिघातं करोति: he causes an obstruction (प्रतिघात) of intercourse (व्यवाय) with the woman.",
@@ -256,7 +256,7 @@ AUTHORED["80"] = {
     "questions": [
         mcq("pretest", 0, "By unit 80, what is said of his dhvaja (penis)?",
             ("It is not made stiff at all", "नैव ध्वजस्तभ्यते: his dhvaja is not made stiff at all."),
-            [("It is made stiff by eating", "Eating is not named in this line."),
+            [("It is made stiff by eating rich food", "Eating is not named in this line."),
              ("It is stiff only at night", "No time is named in this line."),
              ("It is cut off in the embryo", "No cutting is named in this line.")],
             "तस्य नैव ध्वजः स्तभ्यते: his dhvaja is not made stiff at all.",
@@ -282,7 +282,7 @@ AUTHORED["80"] = {
             ("One whose dhvaja is bent", "A bahuvrīhi names the owner: 'he whose dhvaja is bent'."),
             [("A bent banner on a pole", "Here ध्वज is the euphemism for the penis, and the word names a person."),
              ("A woman of that kind", "The line says 'he becomes' vakradhvaja."),
-             ("A cure for a bent dhvaja", "No cure is named in this line.")],
+             ("A cure for a bent dhvaja given to the man", "No cure is named in this line.")],
             "वक्र (bent) + ध्वज (penis), read as a bahuvrīhi naming a type of man.",
             "Bahuvrīhi = 'one who has X': वक्रध्वज = one with a bent dhvaja."),
         T(mcq("transfer", 5, "By the rule of नैव, how is तत्र + एव written when joined?",
@@ -312,8 +312,8 @@ AUTHORED["81"] = {
     "questions": [
         mcq("pretest", 0, "By unit 81, what is said of the woman's yoni?",
             ("It is putrid, foul (पूति)", "पूतियोन्याः: of one whose yoni is putrid."),
-            [("It is dry and closed", "Dryness is not named in this line."),
-             ("It bleeds each month", "Bleeding is not named in this line."),
+            [("It is dry and closed at the mouth", "Dryness is not named in this line."),
+             ("It bleeds heavily each month", "Bleeding is not named in this line."),
              ("It is wide and open", "Width is not named in this line.")],
             "पूति = putrid or foul-smelling; the line does not say which.",
             "पूतियोनि = she whose yoni is putrid."),
@@ -446,7 +446,7 @@ AUTHORED["83"] = {
             "Doubtful: words 2 and 3; sure: यदा … योनिध्वजगन्धेन बलं लभते."),
         mcq("apply", 4, "In योनिध्वजगन्धेन, what does the ending -एन show?",
             ("Instrumental: by, from (the smell)", "-एन is the instrumental singular of an अ-stem."),
-            [("Locative: in (the smell)", "The locative singular would be गन्धे."),
+            [("Locative: in, within (the smell)", "The locative singular would be गन्धे."),
              ("Genitive: of (the smell)", "The genitive singular would be गन्धस्य."),
              ("Dative: for (the smell)", "The dative singular would be गन्धाय.")],
             "गन्धेन = by/from the smell: the smell is the means of the strength.",
@@ -538,9 +538,9 @@ AUTHORED["85"] = {
     "questions": [
         mcq("pretest", 0, "By unit 85, what is destroyed in the male embryo?",
             ("The testes (वृषण)", "वृषणनाशः: destruction of the testes."),
-            [("The heart", "The heart is not named in this line."),
+            [("The heart (hṛdaya)", "The heart is not named in this line."),
              ("The eyes", "The eyes are not named in this line."),
-             ("The navel cord", "The navel cord is not named in this line.")],
+             ("The navel cord (nābhi-nāḍī)", "The navel cord is not named in this line.")],
             "वृषण = testis (standard); नाश = destruction.",
             "वृषणनाश = destruction of the testes."),
         order(1, "Put these pieces of unit 85 in their printed order.",
@@ -593,9 +593,9 @@ AUTHORED["86"] = {
     "questions": [
         mcq("pretest", 0, "By unit 86, how many ṣaṇḍha-yonis are there?",
             ("Eight (अष्टौ)", "अष्टौ षण्ढयोनयः: eight kinds of ṣaṇḍha."),
-            [("Five", "The line says अष्टौ, eight."),
+            [("Five (पञ्च)", "The line says अष्टौ, eight."),
              ("Six", "The line says अष्टौ, eight."),
-             ("Ten", "The line says अष्टौ, eight.")],
+             ("Ten (दश)", "The line says अष्टौ, eight.")],
             "एताः … अष्टौ षण्ढयोनयः: these eight kinds of ṣaṇḍha.",
             "अष्टौ = eight."),
         order(1, "Put the words of unit 86 in their printed order.",
@@ -610,14 +610,14 @@ AUTHORED["86"] = {
           "षण्ढयोनि = a kind (origin) of ṣaṇḍha, the impotent."),
         mcq("discriminate", 3, "अष्टौ ends in -औ; what is it on the card?",
             ("The numeral 'eight', nominative", "The gram label is num. nom. pl.: 'eight', not a dual."),
-            [("A dual noun meaning 'the two'", "-औ is not always dual; अष्टौ is the numeral eight."),
+            [("A dual noun meaning 'the two of them', a pair", "-औ is not always dual; अष्टौ is the numeral eight."),
              ("A verb meaning 'they said'", "The verb-like word here is कथिताः, a participle."),
              ("A locative 'in eight places'", "The gram label is nominative, not locative.")],
             "अष्टौ is the nominative of the numeral 'eight'; its -औ is no dual ending.",
             "-औ is not always dual: अष्टौ = eight."),
         mcq("apply", 4, "By unit 86, what cause does the ablative कर्मवैचित्र्यात् give?",
             ("The variety of action (कर्म)", "वैचित्र्यात्: from the variety of action."),
-            [("The anger of the gods", "Gods are not named in this line."),
+            [("The anger of the gods or of the ancestors", "Gods are not named in this line."),
              ("The fault of wind and fire", "That is the cause in unit 85."),
              ("The mother's diet", "Diet is not named in this line.")],
             "कर्म (action) + वैचित्र्यात् (from variety): the ablative gives the cause.",
@@ -650,9 +650,9 @@ AUTHORED["87"] = {
     "questions": [
         mcq("pretest", 0, "By unit 87, what enters the part whose seed has the provoked doṣa?",
             ("A deformity (विकृति)", "तं तमवयवं विकृतिराविशति: deformity enters that very part."),
-            [("Strength (बल)", "Strength belongs to unit 78; here it is विकृति."),
+            [("Strength (बल) of the semen", "Strength belongs to unit 78; here it is विकृति."),
              ("Life (जीव)", "Life is not named in this line."),
-             ("A fever (ज्वर)", "Fever is not named in this line.")],
+             ("A fever (ज्वर) in the mother", "Fever is not named in this line.")],
             "विकृति (deformity) आविशति (enters) तं तम् अवयवम् (that very part).",
             "विकृति = deformity; आविशति = enters."),
         order(1, "Put these clauses of unit 87 in their printed order.",
@@ -668,7 +668,7 @@ AUTHORED["87"] = {
           "मातृज = born of the mother: the parts of the embryo that come from her."),
         mcq("discriminate", 3, "What does the repetition यस्य यस्य … तं तम् show?",
             ("Each such part: whichever part, that very part", "The doubled relative and pronoun are distributive."),
-            [("Exactly two parts are harmed", "The doubling does not count two; it means each one."),
+            [("Exactly two parts of the embryo are always harmed", "The doubling does not count two; it means each one."),
              ("Only the head is harmed", "No part is named in this line."),
              ("A printing slip to be removed", "The data reads it as a regular distributive construction.")],
             "यस्य यस्य … तं तम्: whichever part has the provoked doṣa, into that very part deformity enters.",
@@ -733,7 +733,7 @@ AUTHORED["88"] = {
             "इ + a different vowel → य् + that vowel."),
         mcq("apply", 4, "What does the card say about वंध्यां in unit 88?",
             ("Feminine 'barren one'; 'woman' is not printed", "The note: the feminine is as printed; the noun 'woman' is not in the text."),
-            [("Masculine 'barren man'", "The form वन्ध्याम् is feminine accusative."),
+            [("Masculine 'barren man', the father of the child", "The form वन्ध्याम् is feminine accusative."),
              ("A plural 'barren ones'", "The gram label is singular: f. acc. sg."),
              ("A verb 'makes barren'", "The verb is जनयति; वन्ध्याम् is its object.")],
             "वन्ध्याम्: f. acc. sg., the object of जनयति; the card supplies no noun 'woman'.",
@@ -909,18 +909,13 @@ IMAGE_SPECS = {
     },
     ("79", "diagram"): {
         "file": "sh2-alpabija-79.svg",
-        "alt": ("Flowchart of unit 79: the man's five qualities in printed order (little seed, little strength, agitated, "
-                "aversion to women, desiring another) lead to obstruction of intercourse with the woman; or the woman is "
-                "of that kind towards the man."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"१ अल्पबीज\"] --> F\n"
-                 "  B[\"२ अल्पबल\"] --> F\n"
-                 "  C[\"३ उद्विग्न\"] --> F\n"
-                 "  D[\"४ स्त्री-द्वेषी\"] --> F\n"
-                 "  E[\"५ अन्य-कामी\"] --> F\n"
-                 "  F[\"स्त्री से मैथुन में रुकावट\"]\n"
-                 "  G[\"या स्त्री वैसी, पुरुष के प्रति\"]\n"),
+        "alt": ("Split of unit 79: the man's five qualities in printed order (little seed, little strength, agitated, "
+                "aversion to women, desiring another); what happens: obstruction of intercourse with the woman, or the "
+                "woman is of that kind towards the man."),
+        "type": "split",
+        "title": "इकाई ७९: जब …",
+        "cols": [["पुरुष (छपे क्रम में)", ["१ अल्पबीज", "२ अल्पबल", "३ उद्विग्न", "४ स्त्री-द्वेषी", "५ अन्य-कामी"]],
+                 ["क्या होता", ["स्त्री से मैथुन में रुकावट", "या स्त्री वैसी, पुरुष के प्रति"]]],
     },
     ("84", "chain"): {
         "file": "sh2-irshyalu-84.svg",

@@ -422,9 +422,8 @@ AUTHORED["46"] = {
     "question": "By the sure words of unit 46, what does the one on the point of coming out experience, and from what is it separated?",
     "rule": ("For thus (तथा हि), in this one on the point of coming out (निष्क्रमणोन्मुख), experiencing turning round "
              "(परिवर्तन) and the like, this is the separation (वियोग) from ojas (ओजसा)."),
-    "limits": ("Low confidence: a hard line, read only in outline. The syntax is loose (genitive अस्य ... उन्मुखस्य with "
-               "nominative अनुभवन्); the printed एषौजसा is taken as एषः + ओजसा. No question rests on these points or on who "
-               "this one is; questions use the sure words and the joins हि + अस्य, निष्क्रमण + उन्मुख."),
+    "limits": ("Low confidence; read only in outline. Loose syntax (genitive अस्य ... उन्मुखस्य, nominative अनुभवन्); "
+               "printed एषौजसा taken as एषः + ओजसा. No question rests on these points or on who this one is."),
     "explain_hi": ("यह कठिन पंक्ति है और इसका अर्थ केवल मोटे तौर पर पक्का है: क्योंकि इस निकलने को उन्मुख (के), जो पलटना आदि "
                    "अनुभव करता है, यह ओज से वियोग है। "
                    "वाक्य-रचना ढीली है: ‘अस्य ... उन्मुखस्य’ षष्ठी है पर ‘अनुभवन्’ प्रथमा; अनुवाद छपे रूपों के अनुसार है। "
@@ -656,9 +655,8 @@ AUTHORED["50"] = {
     "question": "By the sure words of unit 50, what is spoken of, and which reading is doubtful?",
     "rule": ("There (तत्र), death (मरणम्) of the embryo (गर्भस्य). The reason, printed नैर्ऋतभागतवात्, is read "
              "conjecturally as नैर्ऋतभागत्वात्: because of being the Nairṛta share."),
-    "limits": ("Low confidence. नैर्ऋतभागतवात् is not a regular form; the reading -भागत्वात् is a conjecture. Nairṛta = "
-               "belonging to Nirṛti, deity of ruin and death (probable; it can also mean the south-west quarter). What the "
-               "share is is not stated. No question rests on these points. A nominal line; it gives the view introduced in unit 49."),
+    "limits": ("Low confidence. -भागत्वात् for printed -भागतवात् is a conjecture. Nairṛta = belonging to Nirṛti, deity of "
+               "ruin and death (probable; also the south-west quarter). What the share is is not stated. No question rests on these."),
     "explain_hi": ("इस पंक्ति का अर्थ पक्का नहीं है। निश्चित भाग इतना है: ‘वहाँ गर्भ की मृत्यु’ (तत्र गर्भस्य मरणम्)। "
                    "कारण छपा है ‘नैर्ऋतभागतवात्’, जो नियमित रूप नहीं; अनुमानित पाठ ‘नैर्ऋतभागत्वात्’ है, यानी नैर्ऋत भाग होने के कारण। "
                    "नैर्ऋत = निर्ऋति (विनाश और मृत्यु की देवी) से सम्बन्धित, यह पहचान सम्भावित है; इसका अर्थ दक्षिण-पश्चिम दिशा भी हो सकता है। "
@@ -864,8 +862,8 @@ IMAGE_SPECS = {
         "code": ("flowchart TD\n"
                  "  A[\"तस्मात् तदा गर्भिणी\"] --> B[\"मुहुः मुदिता (कभी प्रसन्न)\"]\n"
                  "  A --> C[\"मुहुः म्लाना (कभी मुरझाई)\"]\n"
-                 "  D[\"तथा गर्भः (वैसे ही गर्भ)\"] -.-> B\n"
-                 "  D -.-> C\n"),
+                 "  B -.-> D[\"तथा गर्भः (गर्भ भी वैसे ही)\"]\n"
+                 "  C -.-> D\n"),
     },
     ("47", "diagram"): {
         "file": "sh2-ucchvasana-47.svg",
