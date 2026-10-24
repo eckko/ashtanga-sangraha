@@ -6,7 +6,7 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 78
 AUTHORED["78"] = {
     "title": "स्फिजौ वोपसंगृह्य सुपीडितं पीडयेत्",
-    "question": "By unit 78, what is the further option when the placenta does not come out?",
+    "question": "By unit 78, what further option is given?",
     "rule": ("Or (वा), having gripped the two buttocks (स्फिजौ, dual), one should press them thoroughly: सुपीडितं "
              "पीडयेत्, a cognate expression, press so that it is well pressed. वा + उपसंगृह्य → वोपसंगृह्य (आ + उ → ओ)."),
     "limits": ("Prose, high confidence. The condition 'if the placenta (अपरा) does not fall' of unit 76 appears to carry on "
@@ -198,7 +198,7 @@ AUTHORED["81"] = {
     "hook": "शालि-मूल का घी → अभ्यंग → नीम-केंचुली आदि का धूपन।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 81, the ghee used for anointing is cooked with what?",
+        mcq("pretest", 0, "By unit 81, the ghee (सर्पिस्) is cooked with what?",
             ("The root of śāli, a rice variety", "शालिमूलसिद्धेन सर्पिषा: ghee cooked with the śāli root."),
             [("Bhūrja bark and guggulu resin together", "Bhūrja and guggulu are fumigants in unit 80."),
              ("A paste of jaggery and dry ginger", "That paste is unit 83."),
@@ -368,7 +368,7 @@ AUTHORED["84"] = {
                    "‘तत्’ की संज्ञा छपी नहीं; सबसे सम्भवतः यह इकाई 83 का गुड़-सोंठ का कल्क है। "
                    "कर्ता भी नहीं कहा गया (सम्भवतः स्त्री)। "
                    "‘एव’ ज़ोर देता है: वही। ‘तदेव’ में तत् + एव है (स्वर से पहले त् → द्)।"),
-    "hook": "उसी को खाए: लेप भी, भोजन भी।",
+    "hook": "या वही (सम्भवतः 83 का कल्क) खाए।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 84, what should be done with that very one?",
@@ -483,7 +483,7 @@ AUTHORED["86"] = {
                "may be divided another way (kuṣṭha-tālīsa-kalkam, not adopted). The object of पाययेत् is not plainly "
                "stated. No question rests on these. Madhuka is probably licorice (probable)."),
     "explain_hi": ("यह कठिन पंक्ति है: कुष्ठ यानी कूठ और अस्पष्ट शब्द ताली, कल्क के साथ, पिलाना चाहिए (पाययेत्, णिजन्त)। "
-                   "चार विकल्प ‘वा’ से जुड़े हैं: (1) बिल्व, बिल्वज, यूष, मैरेय, आसव, सुरा और मण्ड में से कोई एक; "
+                   "डेटा के पाठ में चार विकल्प हैं (व्योष वाला अंश एक खट्टे द्रव के रूप में पढ़ा गया): (1) बिल्व, बिल्वज, यूष, मैरेय, आसव, सुरा और मण्ड में से कोई एक; "
                    "(2) व्योष (सोंठ, पीपर, काली मिर्च) से तीखा और गरम खट्टा; (3) कुलथी का रस; (4) मधुक (सम्भवतः मुलेठी) "
                    "और पिप्पली का संपाक। "
                    "‘ताली’ और ‘बिल्वज’ अस्पष्ट हैं, और आरम्भ का शब्द-विभाग दूसरी तरह (कुष्ठ-तालीस-कल्कम्) भी हो सकता है; इन पर प्रश्न नहीं।"),
@@ -497,18 +497,18 @@ AUTHORED["86"] = {
              ("Something should be burnt as fumes", "Fumigation is units 80 and 81.")],
             "The verb is पाययेत्: give to drink.",
             "...पाययेत्."),
-        order(1, "Put the four vehicles of unit 86 in the line's order.",
+        order(1, "Put these parts of unit 86 in the line's order.",
               ["बिल्व ... सुरामन्दान्यतमेन", "व्योषतीक्ष्णोष्णेन वाऽम्लेन", "कुलत्थरसेन", "मधुकपिप्पलीसंपाकेन वा"],
               "Any one of bilva ... maṇḍa; or a sour one hot with vyoṣa; horse-gram juice; or madhuka-pippalī cooked together.",
               "अन्यतमेन → अम्लेन → कुलत्थरसेन → मधुकपिप्पलीसंपाकेन."),
         match(2, "Match each word of unit 86 to its meaning.",
-              [["व्योष", "the three pungents"], ["कुलत्थ", "horse gram"], ["पिप्पली", "long pepper"],
+              [["व्योष", "the three pungents (standard)"], ["कुलत्थ", "horse gram (standard)"], ["पिप्पली", "long pepper (standard)"],
                ["अम्ल", "sour"], ["अन्यतम", "any one (of several)"]],
               "Sure words of the four vehicles.",
               "व्योष, कुलत्थ, पिप्पली, अम्ल, अन्यतम.", role="extend",
               teaches="व्योष names a group of three pungents: dry ginger, long pepper and black pepper (standard)."),
-        mcq("discriminate", 3, "What does पाययेत् (causative of √पा, to drink) mean?",
-            ("Should make someone drink, give to drink", "The causative: cause to drink."),
+        mcq("discriminate", 3, "What does पाययेत् mean?",
+            ("Should give to drink", "The causative of √पा (drink): cause to drink."),
             [("Should drink it oneself", "Drinking oneself would be पिबेत्, not the causative."),
              ("Has already been drunk", "पाययेत् is an optative, not a past form."),
              ("Will drink it later on", "पाययेत् is not a future form.")],
@@ -546,7 +546,7 @@ AUTHORED["87"] = {
                    "(सम्भवतः चव), चित्रक (चीता, मानक) और उपकुञ्चिका (सम्भवतः कलौंजी; पहचान विवादित) का कल्क। "
                    "क्रिया ‘पिलाए’ इकाई 86 से चलती है। "
                    "‘पिप्पल्येला’ में पिप्पली + एला (ई + ए → ये), और ‘चित्रकोपकुञ्चिका’ में चित्रक + उपकुञ्चिका (अ + उ → ओ)।"),
-    "hook": "सात द्रव्यों का कल्क: पि-ए-को-वि-च-चि-उ।",
+    "hook": "सात द्रव्यों का कल्क: पि-ए-को-वि-च-चि-उ (मेरी याद-पद्धति)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 87, what is made of the listed drugs?",
@@ -740,13 +740,13 @@ AUTHORED["90"] = {
              "आ + उ → ओ: सुरा + उन्मिश्रम् = सुरोन्मिश्रम् (printed सुरोन्मिश्रं).",
              "A final आ before उ joins as ओ: सुरा + उन्मिश्रम् → सुरोन्मिश्रम्.",
              "आ + उ → ओ."),
-        mcq("discriminate", 3, "Which split of सुरोन्मिश्रम् is right?",
-            ("सुरा + उन्मिश्रम्", "आ + उ → ओ: सुरा (grain liquor) + उन्मिश्रम् (mixed)."),
-            [("सुरो + न्मिश्रम्", "न्मिश्रम् is not a word; the word is उन्मिश्रम्."),
-             ("सुराः + उन्मिश्रम्", "आः drops its visarga before a vowel and does not join: सुरा उन्मिश्रम्."),
-             ("सुरौ + उन्मिश्रम्", "औ before उ would give आवु: सुरावुन्मिश्रम्.")],
-            "सुरा + उन्मिश्रम् = सुरोन्मिश्रम्.",
-            "आ + उ → ओ."),
+        mcq("discriminate", 3, "In unit 90, what does उन्मिश्रम् say about the decoction?",
+            ("It is mixed (with surā)", "The data: surā-unmiśram, mixed with surā."),
+            [("It is boiled down further", "उन्मिश्र means mixed, not boiled down."),
+             ("It is strained through cloth", "उन्मिश्र means mixed, not strained."),
+             ("It is kept cold overnight", "उन्मिश्र means mixed; nothing about cold.")],
+            "उन्मिश्रम् = mixed: the decoction is mixed with surā.",
+            "उन्मिश्र = mixed."),
         mcq("apply", 4, "In unit 90, what kind of preparation is कषाय?",
             ("A decoction", "The note: kaṣāya here is the preparation, decoction."),
             [("A paste", "A paste is कल्क, as in units 87 and 89."),
@@ -817,7 +817,7 @@ AIDS = {
     "78": {
         "chunks": "स्फिजौ | वोपसंगृह्य | सुपीडितं पीडयेत्",
         "sandhi": "आ + उ → ओ: वा + उपसंगृह्य → वोपसंगृह्य।",
-        "frame": "शर्त (इकाई 76 से, दोहराई नहीं): अपरा न गिरे → विकल्प (वा): स्फिजौ (दोनों नितम्ब) पकड़कर → सुपीडितं पीडयेत् (खूब दबाए)।",
+        "frame": "शर्त (इकाई 76 से चलती लगती है, दोहराई नहीं): अपरा न गिरे → विकल्प (वा): स्फिजौ (दोनों नितम्ब) पकड़कर → सुपीडितं पीडयेत् (खूब दबाए)।",
     },
     "79": {
         "chunks": "वेण्याऽङ्गुल्या वा | केशवेष्टितया | चकण्ठतालु | परामृशेत्",
@@ -863,7 +863,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पिलाने के साथ (क्रम से)", "items": ["1 बिल्व आदि में से कोई एक", "2 व्योष से तीखा-गरम अम्ल",
                                                      "3 कुलत्थ (कुलथी) का रस", "4 मधुक-पिप्पली का संपाक"]}]},
-        "sandhi": "अ + उ → ओ: तीक्ष्ण + उष्णेन → तीक्ष्णोष्णेन · अ + अ → आ: मण्ड + अन्यतमेन → मण्डान्यतमेन।",
+        "sandhi": "अ + उ → ओ: तीक्ष्ण + उष्णेन → तीक्ष्णोष्णेन · अ + अ → आ: (सुरा)मन्द (छपा; सम्भवतः मण्ड) + अन्यतमेन → मन्दान्यतमेन।",
     },
     "87": {
         "chunks": "पिप्पल्येला | कोलविडचव्य | चित्रकोपकुञ्चिका | कल्कं वा",
@@ -888,7 +888,7 @@ AIDS = {
     "90": {
         "chunks": "अर्कालेर्ककषायं (?) | वा | सुरोन्मिश्रं",
         "sandhi": "आ + उ → ओ: सुरा + उन्मिश्रम् → सुरोन्मिश्रम्।",
-        "contrast": "कषाय = काढ़ा (इकाई 90) ↔ कल्क = पिसा लेप (इकाई 87, 89): दोनों शब्द याद रखें। (द्रव्य-नाम संदिग्ध)",
+        "frame": "द्रव्य (संदिग्ध, अर्कालेर्क…) का कषाय (काढ़ा) → किसमें: सुरा + उन्मिश्रम् (सुरा में मिला) → क्रिया इकाई 86 से: पाययेत्।",
     },
 }
 
