@@ -221,12 +221,12 @@ AUTHORED["44"] = {
             "सः (that) + अधिपतिः (adhipati) + नाम (called).",
             "अः + अ → ओऽ; इः + voiced sound → इर्."),
         mcq("apply", 4, "In उपरिष्टाच्छिरा (unit 44), what does the च्छ come from?",
-            ("त् + श (उपरिष्टात् + शिरा)", "त् + श may be written च्छ, as printed here."),
+            ("त् + श (उपरिष्टात् + शिरा)", "त् + श → च्श, or optionally च्छ before a vowel or semivowel (here इ), as printed."),
             [("त् + स (उपरिष्टात् + सिरा)", "त् + स gives त्स, not च्छ."),
              ("च् + श (उपरिष्टाच् + शिरा)", "उपरिष्टाच् is not a word; the word is उपरिष्टात्."),
              ("त् + छ (उपरिष्टात् + छिरा)", "छिरा is not a word; the vessel is शिरा/सिरा.")],
-            "उपरिष्टात् (above) + शिरा (vessel): त् + श → च्छ.",
-            "त् + श → च्छ (one allowed form; also च्श)."),
+            "उपरिष्टात् (above) + शिरा (vessel): त् + श → च्श, or optionally च्छ when a vowel or semivowel follows the श (here इ).",
+            "त् + श → च्श; optionally च्छ when a vowel or semivowel follows the श."),
         mcq("transfer", 5, "By the rule of सोऽधिपतिः, how is सः + अपि (he too) joined in a new example?",
             ("सोऽपि", "सः before अ → सो, and the अ is dropped (ऽ), as in सोऽधिपतिः."),
             [("स अपि", "स with a gap comes before vowels other than अ, not before अ."),
@@ -266,11 +266,11 @@ AUTHORED["45"] = {
               "The general sign; further, of the marmas; when pressed; arising of pain and irregular; throbbing.",
               "सामान्यलक्षणं → पुनर्मर्मणां → पीडिते → रुजोत्पत्तिर्विषमं च → स्पंदनं."),
         match(2, "Match each word part of unit 45 to its meaning.",
-              [["सामान्य", "general"], ["लक्षण", "sign"], ["रुज्", "pain"], ["उत्पत्ति", "arising"],
+              [["सामान्य", "general"], ["लक्षण", "sign"], ["रुजा", "pain"], ["उत्पत्ति", "arising"],
                ["विषम", "irregular"], ["स्पन्दन", "throbbing"]],
-              "सामान्य-लक्षण = general sign; रुज्-उत्पत्ति = arising of pain; विषमं स्पन्दनम् = irregular throbbing.",
-              "सामान्य, लक्षण, रुज्, उत्पत्ति, विषम, स्पन्दन.", role="extend",
-              teaches="रुजोत्पत्ति is a tat-puruṣa: रुज् (pain) + उत्पत्ति (arising) = the arising of pain."),
+              "सामान्य-लक्षण = general sign; रुजा-उत्पत्ति = arising of pain; विषमं स्पन्दनम् = irregular throbbing.",
+              "सामान्य, लक्षण, रुजा, उत्पत्ति, विषम, स्पन्दन.", role="extend",
+              teaches="रुजोत्पत्ति is a tat-puruṣa: रुजा (pain) + उत्पत्ति (arising), आ + उ → ओ = the arising of pain."),
         mcq("discriminate", 3, "Why is उत्पत्तिः printed -त्तिर् before विषमं in unit 45?",
             ("After इ, a visarga before a voiced sound becomes र्", "व is voiced: रुजोत्पत्तिः + विषमम् → रुजोत्पत्तिर्विषमम्."),
             [("After इ, a visarga before any consonant becomes र्", "Not before any consonant: before त it becomes स्, before च श्."),
@@ -300,56 +300,53 @@ AUTHORED["45"] = {
 AUTHORED["46"] = {
     "title": "सामान्येनैव च",
     "question": "What does the short unit 46 say, and how is सामान्येनैव joined?",
-    "rule": ("सामान्येन एव च: 'and by the general (one) alone'. अ + ए → ऐ: सामान्येन + एव → सामान्येनैव."),
+    "rule": "सामान्येनैव च: data reading 'and by the general (one) alone' (सामान्येन + एव); elliptical.",
     "limits": ("Prose and elliptical: the noun (probably 'sign') is not printed and not supplied; सामान्येन may also mean "
                "'in general'. GROUPING (data): it appears to continue unit 45 and to introduce the list of unit 47; no "
-               "question rests on that link."),
+               "question rests on that link. The split सामान्येन + एव is the data's reading, not certain; no question rests on it."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: ‘और सामान्य से ही’। "
                    "जिस संज्ञा से ‘सामान्येन’ जुड़ता है (सम्भवतः ‘लक्षण’), वह छपी नहीं, और डेटा उसे जोड़ता नहीं। "
                    "‘सामान्येन’ का अर्थ ‘सामान्य रूप से’ भी हो सकता है। "
                    "डेटा के अनुसार यह इकाई ४५ को आगे बढ़ाती और इकाई ४७ की सूची का परिचय देती दिखती है। "
-                   "सन्धि: सामान्येन + एव → सामान्येनैव (अ + ए → ऐ)।"),
-    "hook": "‘सामान्य से ही’: अ और ए मिलकर ऐ।",
+                   "डेटा का विभाजन सामान्येन + एव (अ + ए → ऐ) है; यह निश्चित नहीं, इस पर कोई प्रश्न नहीं।"),
+    "hook": "‘सामान्येनैव च’: क्रिया छपी नहीं।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 46, what does एव add in सामान्येनैव च?",
-            ("only, indeed", "एव = only, indeed: 'by the general (one) alone'."),
-            [("not, never", "That would be न; एव does not negate."),
-             ("also, too", "That would be अपि, not एव."),
-             ("or, otherwise", "That would be वा, not एव.")],
-            "एव stresses: by the general (one) alone.",
-            "एव = only, indeed."),
-        match(1, "Match each part of unit 46 to its meaning.",
-              [["सामान्य", "general"], ["-एन", "by (instrumental ending)"], ["एव", "only, indeed"], ["च", "and"]],
-              "सामान्य-एन = by the general (one); एव = alone; च = and.",
-              "सामान्य, -एन, एव, च."),
-        fill(2, "Unit 46: सामान्येनैव = सामान्येन + ____ (only, indeed). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("एव"),
-             "सामान्येन + एव → सामान्येनैव (अ + ए → ऐ).",
-             "अ + ए → ऐ: the final अ of सामान्येन and the ए of एव merge into ऐ.",
-             "सामान्येन + एव = सामान्येनैव."),
-        mcq("discriminate", 3, "Which split of सामान्येनैव in unit 46 is right?",
-            ("सामान्येन + एव", "अ + ए → ऐ: सामान्येन + एव → सामान्येनैव."),
-            [("सामान्येन + इव", "अ + इ gives ए (सामान्येनेव), not ऐ."),
-             ("सामान्येन + ऐव", "ऐव is not a word; the particle is एव."),
-             ("सामान्येनै + एव", "सामान्येनै is not a form of सामान्य.")],
-            "सामान्येन (by the general) + एव (only).",
-            "अ + ए → ऐ."),
-        mcq("apply", 4, "Which English rendering fits unit 46 as the data gives it?",
-            ("And by the general (one) alone.", "सामान्येन एव च: by the general, alone, and."),
-            [("And by the special (one) alone.", "Special would be विशेष; the line prints सामान्य."),
-             ("But not by the general (one).", "No negation (न) is printed; एव stresses."),
-             ("And by the general (one) also.", "'Also' would be अपि; the line has एव (alone).")],
-            "And by the general (one) alone.",
-            "सामान्येनैव च."),
-        mcq("transfer", 5, "By the rule of सामान्येनैव, how is तेन + एव (by that alone) joined in a new example?",
-            ("तेनैव", "अ + ए → ऐ, as सामान्येन + एव → सामान्येनैव."),
-            [("तेनेव", "ए comes from अ + इ, not from अ + ए."),
-             ("तेन्येव", "य् comes from इ before a vowel, not from अ."),
-             ("तेनौव", "औ comes from अ + ओ, not from अ + ए.")],
-            "तेन + एव = तेनैव, like सामान्येन + एव.",
-            "अ + ए → ऐ.",
-            teaches="अ (or आ) + ए (or ऐ) → ऐ: सामान्येन + एव → सामान्येनैव."),
+        mcq("pretest", 0, "By unit 46, what does the separate word च mean?",
+            ("and", "च = and."),
+            [("or", "That would be वा."), ("but", "That would be तु."), ("not", "That would be न.")],
+            "च = and.", "च = and."),
+        match(1, "Match each particle to its meaning (च is the one printed in unit 46).",
+              [["च", "and"], ["वा", "or"], ["तु", "but, however"], ["अपि", "also, too"]],
+              "च = and; वा = or; तु = but; अपि = also.", "च, वा, तु, अपि."),
+        mcq("extend", 2, "By the data, which is true of unit 46?",
+            ("No verb is printed or supplied", "Data: elliptical, not enriched."),
+            [("It is an anuṣṭubh verse line", "type: prose."),
+             ("It names five kinds of marma", "No kind of marma is printed in unit 46."),
+             ("Its verb भवति ends the line", "No verb is printed in unit 46.")],
+            "Unit 46 is elliptical prose: no verb is printed and none is supplied.",
+            "Elliptical line: nothing supplied.",
+            teaches="An elliptical line: the data supplies no missing verb or noun."),
+        mcq("discriminate", 3, "Why does च stand last in unit 46?",
+            ("च follows the word it adds", "च is enclitic: it never opens a clause."),
+            [("च always ends a chapter", "च is a particle; it does not mark chapter ends."),
+             ("च is a verb, set last", "च is an indeclinable particle, not a verb."),
+             ("च fills a gap in the print", "च is printed plainly; nothing is restored.")],
+            "च comes after the word it adds.", "च is enclitic."),
+        mcq("apply", 4, "Which particle is printed as a separate word in unit 46?",
+            ("च (and)", "सामान्येनैव च: च stands apart."),
+            [("अपि (also)", "अपि is not printed in unit 46."),
+             ("वा (or)", "वा is not printed in unit 46."),
+             ("तु (but)", "तु is not printed in unit 46.")],
+            "च is the separate particle.", "सामान्येनैव च."),
+        mcq("transfer", 5, "By the use of च in unit 46, what does रामो लक्ष्मणश्च mean in a new example?",
+            ("Rāma and Lakṣmaṇa", "च after the last word = and."),
+            [("Rāma or Lakṣmaṇa", "'Or' would be वा."),
+             ("Rāma, not Lakṣmaṇa", "No न is printed."),
+             ("Rāma, but Lakṣmaṇa", "'But' would be तु.")],
+            "रामो लक्ष्मणश्च = Rāma and Lakṣmaṇa (रामः + ल → रामो; लक्ष्मणः + च → लक्ष्मणश्च).",
+            "X Y च = X and Y.",
+            teaches="च follows the last word it joins: रामो लक्ष्मणश्च."),
     ],
 }
 
@@ -517,7 +514,7 @@ AUTHORED["49"] = {
                ("Skin (tvak)", "Skin is not printed in unit 49."),
                ("Sinew (snāva)", "Right: स्नाव (= स्नायु).")],
               [0, 2, 4],
-              "Flesh, vessel, sinew, bone and joint are named; fat and skin are not.",
+              "Flesh, vessel, sinew and bone are named (with sandhi, read by the data as a fifth member); fat and skin are not.",
               "मांस-सिरा-स्नाव-अस्थि-सन्धि-सन्निपातः."),
         mcq("transfer", 5, "By the pattern of मरणकारित्वात् (because of causing death), what does रोगित्वात् mean in a new example?",
             ("because of being ill", "-त्वात् = ablative of -त्व: 'because of being ...'."),
@@ -538,12 +535,12 @@ AUTHORED["50"] = {
              "(विशेषतः) affliction of the life-breath (प्राणाबाधः)."),
     "limits": ("Prose, verbless. तस्मिन् ('in that') apparently points back to unit 49, but its noun is not printed; the card does "
                "not decide which. प्राण is kept as 'life-breath'. तेन is glossed 'therefore, by that'."),
-    "explain_hi": ("यह पंक्ति इकाई ४९ की परिभाषा से निष्कर्ष निकालती है: इसलिए उसके पीड़ित होने पर विशेष रूप से प्राण को बाधा होती है। "
+    "explain_hi": ("यह पंक्ति सम्भवतः इकाई ४९ की परिभाषा से निष्कर्ष निकालती है: इसलिए उसके पीड़ित होने पर विशेष रूप से प्राण को बाधा होती है। "
                    "‘तस्मिन् पीड्यमाने’ सप्तमी में है: ‘उसके पीड़ित किए जाते समय’। "
                    "‘पीड्यमान’ वर्तमान कर्मवाच्य कृदन्त है (दबाया जा रहा)। "
                    "‘तस्मिन्’ किस संज्ञा को बताता है, वह छपी नहीं। "
                    "सन्धि: प्राण + आबाधः → प्राणाबाधः (अ + आ → आ)।"),
-    "hook": "मर्म दबता हो तो विशेषकर प्राण पर बाधा।",
+    "hook": "‘वह’ दबता हो तो विशेषकर प्राण पर बाधा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 50, what is especially afflicted when 'that' is being pressed?",
@@ -598,7 +595,7 @@ AUTHORED["51"] = {
                    "‘बाहुल्येन’ तृतीया एकवचन है: ‘बाहुल्य से’। "
                    "डेटा की व्याख्या है कि ‘मर्म’ नाम जो प्रधान हो उसके अनुसार दिया जाता है, पर यह अनुवाद में नहीं है। "
                    "कोई क्रिया छपी नहीं।"),
-    "hook": "नाम बाहुल्य से: जो अधिक, उसी से।",
+    "hook": "बाहुल्येन तु निर्देशः: निर्देश बाहुल्य से।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 51, the designation (nirdeśa) is made by what?",
@@ -627,7 +624,7 @@ AUTHORED["51"] = {
             "अ-stem instrumental singular: -एन."),
         mcq("apply", 4, "Which English rendering of unit 51 keeps to the data?",
             ("But the designation: by preponderance.", "बाहुल्येन तु निर्देशः, word for word."),
-            [("But the designation: by exact rule.", "'Exact rule' is the opposite of बाहुल्य (preponderance)."),
+            [("But the designation: by exact rule.", "बाहुल्येन means 'by preponderance', not 'by exact rule'."),
              ("But the designation: by the teacher alone.", "No teacher is printed in unit 51."),
              ("But no designation is given here at all.", "No negation is printed in unit 51.")],
             "But the designation: by preponderance.",
@@ -693,7 +690,7 @@ AUTHORED["52"] = {
         mcq("transfer", 5, "By the pattern of पञ्च → पञ्चधा (in five ways), what does त्रिधा mean in a new example?",
             ("in three ways", "-धा after a number = in so many ways: त्रि → त्रिधा."),
             [("the third one", "'Third' would be तृतीय, not त्रिधा."),
-             ("three each", "'Three each' would be a repeated त्रि, not -धा."),
+             ("three each", "'Three each' would be त्रिशः, not -धा."),
              ("by three men", "'By three' would be an instrumental (त्रिभिः).")],
             "त्रिधा = in three ways, like पञ्चधा = in five ways.",
             "Number + -धा = in so many ways.",
@@ -732,12 +729,12 @@ AUTHORED["53"] = {
              "यथा = as, as follows; त् becomes द् before the voiced य.",
              "तत् + यथा = तद्यथा."),
         mcq("discriminate", 3, "Why is तत् printed तद् in तद्यथा (unit 53)?",
-            ("त् becomes द् before a voiced sound", "य is voiced: तत् + यथा → तद्यथा."),
+            ("Before voiced य, त् becomes द्", "य is voiced: तत् + यथा → तद्यथा."),
             [("त् becomes द् before every sound", "Not before every sound: before क or प it stays त्."),
              ("य is unvoiced, so the त् softens", "य is voiced, not unvoiced."),
              ("य is a nasal, so the त् has to change", "य is not a nasal; it is a voiced semivowel.")],
             "तत् + यथा: त् before the voiced य → द्.",
-            "Final त् + voiced sound → द्."),
+            "त् + य (or a vowel, ग, द, ब, व) → द्य ...: तत् + यथा → तद्यथा."),
         mcq("apply", 4, "Which split of तद्यथा (unit 53) is right?",
             ("तत् + यथा", "त् → द् before the voiced य."),
             [("तत् + अथ", "तत् + अथ would give तदथ, with no य."),
@@ -746,13 +743,13 @@ AUTHORED["53"] = {
             "तत् (that) + यथा (as follows).",
             "तद्यथा = तत् + यथा."),
         mcq("transfer", 5, "By the rule of तद्यथा, how is जगत् + ईशः (lord of the world) joined in a new example?",
-            ("जगदीशः", "त् → द् before a voiced sound (here the vowel ई), as तत् + यथा → तद्यथा."),
+            ("जगदीशः", "त् → द् before a vowel (here ई), as before य in तत् + यथा → तद्यथा."),
             [("जगतीशः", "त् does not stay voiceless before a vowel."),
-             ("जगन्नीशः", "न् comes from त् before a nasal, not before ई."),
+             ("जगन्नीशः", "न् comes (optionally) from त् before a nasal, not before ई."),
              ("जगच्छीशः", "च्छ comes from त् + श, not from त् + ई.")],
             "जगत् + ईशः = जगदीशः, like तत् + यथा = तद्यथा.",
-            "Final त् + voiced sound → द्.",
-            teaches="A final त् becomes द् before a voiced sound (vowel or voiced consonant): तत् + यथा → तद्यथा."),
+            "Final त् + vowel → द्.",
+            teaches="A final त् becomes द् before a vowel and before voiced consonants such as य, ग, द, ब, व (not before ज, ल or a nasal): तत् + यथा → तद्यथा."),
     ],
 }
 
@@ -801,11 +798,11 @@ AUTHORED["54"] = {
         multi("apply", 4, "Which are named in unit 54 among the eleven flesh-marmas?",
               [("Nābhi", "Nābhi is a vessel-marma (unit 55)."),
                ("Talahṛdaya", "Right: तलहृदय."),
-               ("Hṛdaya", "Hṛdaya is a vessel-marma (unit 55)."),
+               ("Mātṛkā", "Mātṛkā is a vessel-marma (unit 55)."),
                ("Guda", "Right: गुद."),
                ("Stanarohita", "Right: स्तनरोहित.")],
               [1, 3, 4],
-              "Talahṛdaya, indrabasti, guda and stanarohita are flesh-marmas; nābhi and hṛdaya are vessel-marmas.",
+              "Talahṛdaya, indrabasti, guda and stanarohita are flesh-marmas; nābhi and mātṛkā are vessel-marmas.",
               "तलहृदय-इन्द्रबस्ति-गुद-स्तनरोहितानि एकादश मांसमर्माणि."),
         mcq("transfer", 5, "By the rule of स्तनरोहितान्येकादश, how is वारि + एव (water alone) joined in a new example?",
             ("वार्येव", "इ before a different vowel becomes य्, as स्तनरोहितानि + एकादश → स्तनरोहितान्येकादश."),
@@ -833,14 +830,14 @@ NOTES_HI = {
            "(अ + अ → आ); सद्यः + मरणम् → सद्यो मरणम् (अः + घोष व्यंजन → ओ)। ‘सन्निपातः तासां’ छपाई में विसर्ग सहित छपा है।"),
     "44": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। छपाई ‘मस्तकाभ्यंतरंउपरिष्टात्’ में दोनों शब्द बिना अन्तर के (अन्तर की भूल)। ‘शिरा’ = "
            "सिरा (वर्तनी-भेद)। रोमावर्त = बालों का भँवर, स्थान का वर्णन। अन्तिम ‘इति’ अंश की समाप्ति, अनूदित नहीं। सन्धि जाँची: "
-           "उपरिष्टात् + शिरा → उपरिष्टाच्छिरा (त् + श → च्छ, एक मान्य रूप); सन्निपातः + रोमावर्तः → सन्निपातो रोमावर्तः (अः + घोष → ओ); "
+           "उपरिष्टात् + शिरा → उपरिष्टाच्छिरा (त् + श → च्श; स्वर या अन्तःस्थ से पहले विकल्प से च्छ, यहाँ श के बाद इ); सन्निपातः + रोमावर्तः → सन्निपातो रोमावर्तः (अः + घोष व्यंजन → ओ); "
            "सः + अधिपतिः → सोऽधिपतिः (अः + अ → ओऽ); अधिपतिः + नाम → अधिपतिर्नाम; तत्र + अपि → तत्रापि; भवति + इति → भवतीति (इ + इ → ई)।"),
     "45": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘पीडिते’ (सप्तमी, भूत कृदन्त) निर्वैयक्तिक: पीड़ित मर्म समझा जाता है। ‘पुनर्’ = आगे, "
-           "नया विषय। क्रियाहीन वाक्य। सन्धि जाँची: रुज् + उत्पत्तिः → रुजोत्पत्तिः; रुजोत्पत्तिः + विषमम् → रुजोत्पत्तिर्विषमम् (इ के बाद विसर्ग + "
+           "नया विषय। क्रियाहीन वाक्य। सन्धि जाँची: रुजा + उत्पत्तिः → रुजोत्पत्तिः (आ + उ → ओ; डेटा का विभाजन ‘ruj-’ इस छपे ओ से मेल नहीं खाता); रुजोत्पत्तिः + विषमम् → रुजोत्पत्तिर्विषमम् (इ के बाद विसर्ग + "
            "घोष → र्); पुनर् + मर्मणाम् → पुनर्मर्मणाम्। छपे ‘स्पंदनं’ और ‘मर्मणां’ में ं।"),
     "46": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। अधूरा: संज्ञा (सम्भवतः ‘लक्षण’) छपी नहीं, जोड़ी नहीं गई; ‘सामान्येन’ = ‘सामान्य रूप "
-           "से’ भी हो सकता है। समूह-टिप्पणी (डेटा): इकाई ४५ को आगे बढ़ाती और इकाई ४७ की सूची का परिचय देती दिखती है। सन्धि जाँची: "
-           "सामान्येन + एव → सामान्येनैव (अ + ए → ऐ)।"),
+           "से’ भी हो सकता है। समूह-टिप्पणी (डेटा): इकाई ४५ को आगे बढ़ाती और इकाई ४७ की सूची का परिचय देती दिखती है। डेटा का विभाजन: "
+           "सामान्येन + एव → सामान्येनैव (अ + ए → ऐ); निश्चित नहीं, इस पर कोई प्रश्न नहीं।"),
     "47": ("श्लोक (अनुष्टुभ्), दो पंक्तियाँ; विश्वास निम्न। पाठ-चिह्न (सम्भावित): पहला शब्द ‘देहप्रमुसि’ ज्ञात शब्द नहीं, क्षतिग्रस्त; "
            "‘देहप्रसुप्ति’ जैसा कोई शरीर-लक्षण हो सकता है, पर कोई पुनर्स्थापन स्वीकार नहीं; अविभक्त, अस्पष्ट और अनूदित; इस पर कोई प्रश्न नहीं। "
            "‘वमिः’ मान्य रूप। श्वास = साँस का कष्ट (आधुनिक अर्थ dyspnoea सम्भावित)। सन्धि जाँची: स्वेदः + मूर्च्छा → स्वेदो मूर्च्छा "
@@ -859,9 +856,9 @@ NOTES_HI = {
     "52": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘तस्मान्मां साद्याश्रयतो’ में ‘मां सादि’ के बीच अनावश्यक अन्तर दिखता है; अनुमानित "
            "पाठ ‘मांसाद्याश्रयतः’ (मांस आदि के आश्रय से), जिसे आगे की इकाइयाँ ५४-५८ (मांस, सिरा, स्नायु, अस्थि, सन्धि मर्म) समर्थन देती हैं; "
            "इस पर कोई प्रश्न नहीं। भिद्यन्ते = वर्तमान कर्मवाच्य, प्रथम पुरुष बहुवचन। सन्धि जाँची: तस्मात् + मां(स) → तस्मान्मां (त् अनुनासिक "
-           "से पहले न्, वैकल्पिक); आश्रयतः + मर्माणि → आश्रयतो मर्माणि (अः + घोष → ओ)।"),
+           "से पहले न्, वैकल्पिक); आश्रयतः + मर्माणि → आश्रयतो मर्माणि (अः + घोष व्यंजन → ओ)।"),
     "53": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। परिचय-सूत्र; डेटा के अनुसार सूची इकाई ५४ से। सन्धि जाँची: तत् + यथा → तद्यथा "
-           "(त् घोष ध्वनि से पहले द्)।"),
+           "(त् घोष य से पहले द्)।"),
     "54": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। क्रियाहीन सूची; इकाई ५२ में घोषित पाँच भेदों में पहला (मांस-मर्म)। ‘स्तनरोहित’ एक नाम माना "
            "गया (विभाजन सम्भावित)। पहचान: गुद = मलद्वार (मानक); तलहृदय, इन्द्रबस्ति के क्षेत्र सम्भावित (टीका-परम्परा से, इस पंक्ति से नहीं)। "
            "डेटा का गणना-निरीक्षण: तलहृदय ४ + इन्द्रबस्ति ४ (इकाई ४, ९) + गुद १ (इकाई १८) + स्तनरोहित २ (इकाई २४) = ११; छपा नहीं। "
@@ -896,20 +893,20 @@ AIDS = {
         "chain": {"steps": ["मस्तक के भीतर, ऊपर", "सिरा और सन्धि का सन्निपात", "रोमावर्त: बालों का भँवर",
                             "नाम: अधिपति", "वहाँ भी तत्काल मरण"]},
         "chunks": "मस्तकाभ्यंतरंउपरिष्टाच्छिरासंधिसन्निपातो | रोमावर्तः | सोऽधिपतिर्नाम | तत्रापि सद्यो मरणं भवतीति",
-        "sandhi": ("अः + अ → ओऽ: सः + अधिपतिः → सोऽधिपतिः · त् + श → च्छ (एक मान्य रूप): उपरिष्टात् + शिरा → उपरिष्टाच्छिरा · "
+        "sandhi": ("अः + अ → ओऽ: सः + अधिपतिः → सोऽधिपतिः · त् + श → च्श, और स्वर या अन्तःस्थ से पहले विकल्प से च्छ (यहाँ श के बाद इ): उपरिष्टात् + शिरा → उपरिष्टाच्छिरा · "
                    "अ + अ → आ: तत्र + अपि → तत्रापि।"),
     },
     "45": {
         "diagram": {"groups": [
             {"label": "मर्मों का सामान्य लक्षण: पीडिते (दबने या चोट पर)", "items": ["रुजोत्पत्ति: पीड़ा उठना",
-                                                                          "विषम स्पन्दन: अनियमित धड़कन"]}]},
+                                                                          "विषम स्पन्दन: अनियमित स्पन्दन (क्या, यह छपा नहीं)"]}]},
         "chunks": "सामान्यलक्षणं | पुनर्मर्मणां | पीडिते | रुजोत्पत्तिर्विषमं च | स्पंदनं",
         "sandhi": "इ के बाद विसर्ग + घोष व्यंजन → र्: रुजोत्पत्तिः + विषमम् → रुजोत्पत्तिर्विषमम्।",
     },
     "46": {
         "chunks": "सामान्येनैव | च",
-        "sandhi": "अ + ए → ऐ: सामान्येन + एव → सामान्येनैव।",
-        "frame": "किससे: सामान्येन (सामान्य से) → बल: एव (ही) → जोड़: च (और); संज्ञा छपी नहीं।",
+        "sandhi": "डेटा का विभाजन (निश्चित नहीं): सामान्येन + एव → सामान्येनैव (अ + ए → ऐ)।",
+        "frame": "किससे: सामान्येन (सामान्य से) → बल: एव (ही) → जोड़: च (और); संज्ञा छपी नहीं। (विभाजन डेटा का पाठ)",
     },
     "47": {
         "diagram": {"groups": [
@@ -954,7 +951,7 @@ AIDS = {
     },
     "53": {
         "chunks": "तद्यथा",
-        "sandhi": "त् घोष ध्वनि से पहले द्: तत् + यथा → तद्यथा; जगत् + ईशः → जगदीशः।",
+        "sandhi": "त् स्वर और य, ग, द, ब, व जैसे घोष व्यंजनों से पहले द् (ज, ल, अनुनासिक से पहले नहीं): तत् + यथा → तद्यथा; जगत् + ईशः → जगदीशः।",
         "frame": "तत् (वह) + यथा (इस प्रकार) = वह इस प्रकार है: सूची का परिचय।",
     },
     "54": {
@@ -1030,8 +1027,8 @@ IMAGE_SPECS = {
     },
     ("49", "diagram"): {
         "file": "sh7-marma-sannipata-49.svg",
-        "alt": ("Table of unit 49: a marma is so called because it causes death; it is the meeting of five members, "
-                "numbered in printed order: flesh, vessel, sinew (snāva = snāyu), bone, joint (the fifth as the data reads it)."),
+        "alt": ("Table of unit 49: a marma is so called because it causes death; it is the meeting of the members, "
+                "numbered in printed order (five as the data reads it): flesh, vessel, sinew (snāva = snāyu), bone, joint (the fifth as the data reads it)."),
         "type": "table",
         "title": "इकाई ४९: मर्म = सन्निपात",
         "heads": ["छपा शब्द", "अर्थ"],

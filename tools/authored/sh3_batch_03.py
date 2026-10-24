@@ -354,7 +354,7 @@ AUTHORED["32"] = {
         mcq("transfer", 5, "By the rule of प्रथममासादारभ्य, how is ग्रामात् + आगच्छति (comes from the village) joined?",
             ("ग्रामादागच्छति", "त् → द् before a vowel, as प्रथममासात् + आरभ्य."),
             [("ग्रामातागच्छति", "Before a vowel the त् does not stay त्."),
-             ("ग्रामानागच्छति", "त् → न् only before a nasal."),
+             ("ग्रामानागच्छति", "त् → न् (optional) only before a nasal."),
              ("ग्रामागच्छति", "The त् is not dropped.")],
             "ग्रामात् + आगच्छति = ग्रामादागच्छति, like प्रथममासात् + आरभ्य = प्रथममासादारभ्य.",
             "Final त् → द् before a vowel.",

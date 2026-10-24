@@ -166,7 +166,7 @@ AUTHORED["54"] = {
         mcq("transfer", 5, "By the rule of हिंस्यादिति, how is भवेत् + इति (thus it might be) joined?",
             ("भवेदिति", "A final त् becomes द् before a vowel, as हिंस्यात् + इति → हिंस्यादिति."),
             [("भवेतिति", "त् does not stay unvoiced before a vowel in sandhi."),
-             ("भवेन्निति", "त् becomes न् only before a nasal, not before इ."),
+             ("भवेन्निति", "त् may become न् (optionally) only before a nasal, not before इ."),
              ("भवेच्चिति", "त् becomes च् only before च or छ.")],
             "भवेत् + इति = भवेदिति, like हिंस्यात् + इति = हिंस्यादिति.",
             "Final त् + vowel → द् + vowel.",
