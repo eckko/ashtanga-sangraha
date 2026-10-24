@@ -9,9 +9,9 @@ AUTHORED["52"] = {
     "question": "By unit 52, what is the fifth kalā, and what does it do with the mala?",
     "rule": ("Fifth kalā: Purīṣadharā ('faeces-bearing'). It separates (विभजति) the mala (waste, faeces) that lies in the "
              "unduka (probably the caecum), within the koṣṭha (storehouse), on one possible reading."),
-    "limits": ("Prose. Printed मा is read सा (she) on a possible correction. 'Resting on the intestine and the āma and "
-               "pakva seats' and 'within the koṣṭha, in the unduka' are uncertain readings of their sense (the plain join कोष्ठ + अन्तर् is sure); unduka = caecum is probable: "
-               "no question on these."),
+    "limits": ("Prose. Printed मा is read सा on a possible correction. 'Resting on the intestine and the āma and pakva "
+               "seats' and 'within the koṣṭha, in the unduka' are uncertain in sense (the join कोष्ठ + अन्तर् is sure); "
+               "unduka = caecum is probable. No question on these."),
     "explain_hi": ("सात कलाओं में पाँचवीं कला पुरीषधरा, यानी पुरीष (मल) धारण करने वाली, है। "
                    "यह कोष्ठ के भीतर उण्डुक (सम्भवतः अन्धान्त्र) में स्थित मल को अलग करती है (विभजति)। "
                    "‘अन्त्रामपक्वाशयाश्रिता’ को ‘अन्त्र और आम-पक्व आशयों पर टिकी’ पढ़ा गया है, पर यह पाठ पक्का नहीं। "
@@ -80,7 +80,7 @@ AUTHORED["53"] = {
     "questions": [
         mcq("pretest", 0, "By unit 53, where does Pittadharā lie?",
             ("Between the pakva and āma seats", "पक्वामाशयमध्यस्था: in the middle of the pakva and āma seats."),
-            [("Below the opening of the bladder", "That is the place of Śukradharā (unit 55)."),
+            [("Below the opening of the basti", "That is the place of Śukradharā (unit 55)."),
              ("Inside the flesh, with the blood", "That is Raktadharā, the second kalā (unit 49)."),
              ("In the head, under the skull", "Fat in the head, under the skull, is described with Medodharā (unit 50).")],
             "Pittadharā lies between the seats of the digested and the raw.",
@@ -142,7 +142,7 @@ AUTHORED["54"] = {
     "questions": [
         mcq("pretest", 0, "By unit 54, why does the organ get the name grahaṇī?",
             ("From its taking up of the food", "अन्नस्य ग्रहणात्: from its taking up of food."),
-            [("From its place below the bladder", "The place below the bladder is Śukradharā's (unit 55)."),
+            [("From its place below the basti", "The place below the basti is Śukradharā's (unit 55)."),
              ("From its holding of the semen", "Holding śukra is Śukradharā's work (unit 55)."),
              ("From its being made of fat", "Fat belongs to Medodharā (unit 50).")],
             "It takes up (ग्रहण) food, so it is named grahaṇī.",
@@ -208,13 +208,13 @@ AUTHORED["55"] = {
         order(1, "Put these phrases of unit 55 in the line's order.",
               ["सप्तमी शुक्रधरा नाम", "द्व्यंगुले दक्षिणे पार्श्वे", "बस्तिद्वारस्य चाधो", "मूत्रमार्गमाश्रिता",
                "सकलशरीरव्यापिनी", "शुक्रं प्रवर्त्तयति"],
-              "The seventh, Śukradharā; at two aṅgulas on the right side; and below the bladder's opening; resting on the "
+              "The seventh, Śukradharā; at two aṅgulas on the right side; and below the basti's opening (bladder, probable); resting on the "
               "urinary passage; pervading the whole body; it sets śukra in motion.",
               "नाम → द्व्यंगुले... → बस्तिद्वारस्य चाधो → मूत्रमार्गमाश्रिता → सकलशरीरव्यापिनी → शुक्रं प्रवर्त्तयति."),
         match(2, "Match each word of unit 55 to its meaning.",
               [["दक्षिण", "right"], ["पार्श्व", "flank, side"], ["बस्तिद्वार", "opening of the basti (bladder, probable)"],
                ["मूत्रमार्ग", "urinary passage"], ["व्यापिनी", "pervading"]],
-              "On the right side, below the bladder's opening, on the urinary passage, pervading the body.",
+              "On the right side, below the basti's opening (bladder, probable), on the urinary passage, pervading the body.",
               "दक्षिण, पार्श्व, बस्तिद्वार, मूत्रमार्ग, व्यापिनी.", role="extend",
               teaches="बस्ति here = the bladder (urinary bladder, probable); बस्तिद्वार = its opening."),
         mcq("discriminate", 3, "Which split of चाधो (before मूत्रमार्ग) in unit 55 is right?",
@@ -231,7 +231,7 @@ AUTHORED["55"] = {
                ("Resting on the urinary passage", "Right: मूत्रमार्गमाश्रिता."),
                ("Between the āma and pakva seats", "That is the place of Pittadharā (unit 53).")],
               [0, 1, 3],
-              "Right side, below the bladder's opening, resting on the urinary passage.",
+              "Right side, below the basti's opening (bladder, probable), resting on the urinary passage.",
               "दक्षिणे पार्श्वे बस्तिद्वारस्य चाधो मूत्रमार्गमाश्रिता."),
         fill(5, "By the rule of द्वि + अङ्गुले → द्व्यङ्गुले, join प्रति + अक्षम्. Type it in Devanagari or in English letters "
                 "(e.g. dharma): ____",
