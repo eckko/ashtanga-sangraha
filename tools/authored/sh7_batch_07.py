@@ -964,7 +964,7 @@ IMAGE_SPECS = {
         "file": "sh7-acarama-chikitsa-93.svg",
         "alt": ("Chain of line 1 of unit 93: therefore; up to the last (breath); with effort; one should indeed treat."),
         "type": "chain",
-        "title": "इकाई ९३: अन्तिम श्वास तक चिकित्सा",
+        "title": "इकाई ९३: अन्तिम (श्वास) तक चिकित्सा",
         "steps": ["तस्मात्: इसलिए", "आचरम: अन्तिम (श्वास) तक", "यत्नतः: प्रयत्न से", "चिकित्सेत् एव: चिकित्सा करनी ही चाहिए"],
     },
 }
