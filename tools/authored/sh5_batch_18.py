@@ -6,19 +6,19 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 217
 AUTHORED["217"] = {
     "title": "तथाऽभ्यंगलेपादिवीर्य्यं त्वचि",
-    "question": "By unit 217, what do 'they' carry from the skin, and what do they take up?",
+    "question": "By unit 217, what do 'they' carry, and what do they take up?",
     "rule": ("Likewise (तथा) they carry (नयन्ति) the potency (वीर्य) of oil massage (अभ्यङ्ग), paste (लेप) and the like, "
              "fully matured (विपक्वम्) in the skin (त्वचि); and they take up (गृह्णन्ति) touch (स्पर्श)."),
-    "limits": ("A prose line, low confidence. The subject 'they' is not named (probably the same vessels as unit 216), and "
-               "where the potency is carried is not stated: no question on either. The printed तं (read तत्, 'that') "
-               "and गृण्हंति (a spelling of गृह्णन्ति) are flagged: no question rests on them."),
+    "limits": ("Low confidence. 'They' is unnamed (probably the vessels of unit 216) and the destination is not stated: "
+               "no question on either. The printed तं (read तत्) and the spelling गृण्हंति (for गृह्णन्ति) are flagged: "
+               "questions use only the sure sense (they carry, they take up), never these forms."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई २१६ के बाद आती है और ‘तथा’ (इसी प्रकार) से दूसरा काम जोड़ती है। "
                    "वे अभ्यंग (तेल-मालिश) और लेप आदि के वीर्य यानी शक्ति को, जो त्वचा में पूरी तरह पक चुकी है, ले जाती हैं। "
                    "और वे स्पर्श को ग्रहण करती हैं। "
-                   "‘वे’ कौन हैं, इस इकाई में नाम नहीं; डेटा के अनुसार सम्भवतः इकाई २१६ वाली ही (स्त्रीलिङ्ग) सिराएँ। "
+                   "‘वे’ कौन हैं, इस इकाई में नाम नहीं; डेटा के अनुसार सम्भवतः इकाई २१६ वाली ही (स्त्रीलिङ्ग) नाड़ियाँ, यानी सिरा-धमनी। "
                    "वीर्य कहाँ ले जाया जाता है, यह भी नहीं बताया। "
                    "विश्वास निम्न है, इसलिए प्रश्न केवल पक्के अंशों पर हैं।"),
-    "hook": "त्वचा पर लगाया लेप: उसका पका वीर्य भीतर पहुँचाना, और स्पर्श पकड़ना।",
+    "hook": "त्वचा में पका अभ्यंग-लेप आदि का वीर्य: वे ले जाती हैं; और स्पर्श ग्रहण करती हैं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 217, whose potency (वीर्य) is carried after it has matured in the skin?",
@@ -48,7 +48,7 @@ AUTHORED["217"] = {
         multi("apply", 4, "Which two actions does unit 217 give to its unnamed subject ('they')?",
               [("They cook the food (पचन्ति)", "Cooking food is not said in unit 217."),
                ("They carry the potency (नयन्ति)", "Right: वीर्यं … नयन्ति, they carry the potency."),
-               ("They cover the joints (प्रच्छादयन्ति)", "Covering the joints is said of the peśīs in unit 212."),
+               ("They cover the joints (प्रच्छादयन्ति)", "Covering the joints is said in unit 212 (probably of the peśīs), not in unit 217."),
                ("They take up touch (गृह्णन्ति)", "Right: स्पर्शं च गृह्णन्ति, and they take up touch.")],
               [1, 3],
               "They carry the matured potency, and they take up touch.",
@@ -191,7 +191,7 @@ AUTHORED["220"] = {
     "explain_hi": ("यह गद्य-पंक्ति एक गिनती को समाप्त करती है: ‘इत्येवम्’ यानी इस प्रकार। "
                    "शरीर में जो मूर्तिमान भाव हैं, यानी जिनका ठोस रूप है, वे गिनाए जा चुके (परिसंख्याताः)। "
                    "छपे ‘मूर्त्ति मंतःस्थिरा’ को डेटा ‘मूर्तिमन्तः स्थिराः’ (स्थिर) पढ़ता है; ‘मूर्तिमन्तोऽस्थिराः’ (अस्थिर) भी सम्भव है, इसलिए यह बात खुली है। "
-                   "डेटा के अनुसार इनके सामने अगली इकाई (२२१) के द्रव भाव रखे गए हैं। "
+                   "डेटा के अनुसार इनके सामने अगली इकाई (२२१) के द्रव रखे गए हैं। "
                    "‘-मत्’ प्रत्यय का अर्थ है ‘वाला’: मूर्तिमत् = रूप वाला।"),
     "hook": "मूर्तिमान भाव गिन लिए; अब द्रवों की बारी।",
     "core": True,
@@ -241,7 +241,7 @@ AUTHORED["220"] = {
 # ---------------------------------------------------------------- unit 221
 AUTHORED["221"] = {
     "title": "द्रवास्तु",
-    "question": "By unit 221, which group of bhāvas is taken up next, and what is named with it?",
+    "question": "By unit 221, which group is taken up next, and what is named with it?",
     "rule": ("As for the liquids (द्रवाः तु): the line speaks of what, falling away through excess (अतियोगेन च्यवमानम्), "
              "binds on to (अनुबध्नाति) the dung (पुरीष), and likewise the urine, the blood and the other dhātus in the body."),
     "limits": ("A prose line, low confidence; it runs on into unit 222. The syntax is unclear: no antecedent for यत् तत्, "
@@ -301,8 +301,9 @@ AUTHORED["221"] = {
 AUTHORED["222"] = {
     "title": "तदुदकं: उदक के रूप और द्रवों की अंजलि",
     "question": "By unit 222, what three forms make up udaka (water), and which fluids are then measured by the añjali?",
-    "rule": ("Udaka is what fills the whole body, held by the outer skin; what is called lasīkā in a wound; and sweat from "
-             "the hair-pores. Udaka, rasa, blood, dung, śleṣman, pitta, urine, vasā, medas and marrow each have an añjali measure."),
+    "rule": ("Udaka is what has gone through the whole body, held by the outer skin; what, within the skin, gone to a wound, "
+             "is called lasīkā; and what flows from the hair-pores as sweat. Udaka, rasa, blood, dung, śleṣman, pitta, urine, "
+             "vasā, medas and marrow each have their own añjali measure."),
     "limits": ("A long prose line, low confidence; the clauses are loosely joined. No number is printed for any fluid: the "
                "rising series 'beginning with one' is only a probable reading, so no question asks a fluid's number. "
                "Lasīkā (lymph), vasā, medas and marrow keep the data's 'probable' label."),
@@ -312,7 +313,7 @@ AUTHORED["222"] = {
                    "फिर क्रम से: उदक, रस (आहार का सार), रक्त, शकृत् (मल), श्लेष्मन्, पित्त (यहाँ शरीर का द्रव), मूत्र, वसा, मेदस् और मज्जा, हर एक की अपनी-अपनी अंजलि (अंजुलि भर) का माप। "
                    "पंक्ति ‘पूर्व के अनुसार एक से आरम्भ होकर संख्या की वृद्धि’ कहती है, पर किसी की संख्या छपी नहीं; हर स्तर पर एक-एक बढ़ना केवल सम्भावित अर्थ है। "
                    "इसलिए किसी द्रव की संख्या पर प्रश्न नहीं।"),
-    "hook": "त्वचा में, घाव में, पसीने में: तीनों उदक; फिर दस द्रव अंजलि से नपे।",
+    "hook": "शरीर भर में (त्वचा थामे), घाव में, पसीने में: तीनों उदक; फिर दस द्रव अपनी-अपनी अंजलि से नपे।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 222, what is the fluid called that, bound with heat, flows out of the hair-pores?",
@@ -334,7 +335,7 @@ AUTHORED["222"] = {
               teaches="-आख्य at the end of a compound means 'named': रसाख्य = named rasa; -वाच्य = to be called: स्वेदवाच्य."),
         mcq("discriminate", 3, "Unit 222 speaks of 'an increase of number beginning with one'. Which fluid's own number does it print?",
             ("None: no fluid's number is printed", "The data: the measure of each substance is not stated numerically."),
-            [("Water's, printed as ten añjali", "No such number is printed; the series is only described."),
+            [("Sweat's, printed as three añjali", "Sweat is a form of udaka; no number is printed for it or any fluid."),
              ("Every fluid's, as one añjali", "The line speaks of an increase, so they are not all alike."),
              ("Rasa's, printed as half an añjali", "Half an añjali is said of śukra in unit 223, not here.")],
             "Only 'each by its own añjali measure ... an increase of number beginning with one' is printed.",
@@ -345,7 +346,7 @@ AUTHORED["222"] = {
                ("What is called marrow", "Marrow (majjan) is the last fluid measured, not a form of udaka."),
                ("What is called lasīkā", "Right: the fluid in a wound called lasīkā is udaka.")],
               [1, 3],
-              "The three 'yat' clauses (in the body under the skin, lasīkā, sweat) together are udaka.",
+              "The three 'yat' clauses (through the whole body, held by the outer skin; lasīkā; sweat) together are udaka.",
               "यच्च … यच्च … यच्च … तदुदकम्."),
         mcq("transfer", 5, "By the pattern of व्रणगतम् (gone to a wound), what does a new example हृदयगतम् mean?",
             ("Situated in the heart", "-गत = gone to, situated in, as व्रणगत = gone to a wound."),
@@ -363,31 +364,32 @@ AUTHORED["223"] = {
     "title": "अर्द्धंजलिःशुक्रस्य",
     "question": "By unit 223, what is the measure of śukra (semen)?",
     "rule": "Half a cupped handful (अर्ध-अञ्जलिः) of śukra (शुक्रस्य, semen, standard): a measure in the series of unit 222.",
-    "limits": ("A short prose line with no verb. The printed अर्द्धंजलिः is read अर्धाञ्जलिः (lost आ and space are print slips, "
-               "flagged): no question on that printed form. The line does not say for whom the measure holds."),
+    "limits": ("A short prose line with no verb. The printed अर्द्धंजलिः is read अर्ध-अञ्जलिः (lost आ and space taken as print "
+               "slips; text_flag: possible): no question on that printed form or its join. The line does not say for whom the "
+               "measure holds."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति इकाई २२२ के अंजलि-माप की श्रृंखला को आगे बढ़ाती है। "
                    "शुक्र यानी वीर्य की आधी अंजलि (अंजुलि भर का आधा)। "
                    "पंक्ति में क्रिया नहीं; ‘है’ समझा जाता है। "
                    "‘शुक्रस्य’ षष्ठी है: किसका माप, शुक्र का। "
-                   "छपा ‘अर्द्धंजलिः’ डेटा में ‘अर्ध + अञ्जलिः’ पढ़ा गया है; आ का छूटना और शब्दों के बीच जगह न होना छपाई की चूक है।"),
+                   "छपा ‘अर्द्धंजलिः’ डेटा में ‘अर्ध + अञ्जलिः’ पढ़ा गया है; आ का छूटना और जगह न होना सम्भवतः छपाई की चूक है (पाठ-चिह्न: सम्भावित)।"),
     "hook": "शुक्र: आधी अंजलि।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 223, how much śukra (semen) is there?",
-            ("Half a cupped handful", "अर्धाञ्जलिः शुक्रस्य: half an añjali of śukra."),
+            ("Half a cupped handful", "अर्द्धंजलिः शुक्रस्य (read अर्ध-अञ्जलिः): half an añjali of śukra."),
             [("Four cupped handfuls", "Four añjali is said of rajas in women, in unit 225."),
              ("Two cupped handfuls", "Two is said of breast milk, in unit 226."),
              ("Eight cupped handfuls", "No such measure is given for śukra.")],
             "Half a cupped handful (añjali) of śukra.",
-            "अर्धाञ्जलिः शुक्रस्य."),
+            "अर्ध-अञ्जलिः शुक्रस्य."),
         match(1, "Match each word of unit 223 to its meaning.",
               [["अर्ध", "half"], ["अञ्जलि", "cupped handful"], ["शुक्र", "semen"]],
               "Half a cupped handful of śukra (semen).",
               "अर्ध, अञ्जलि, शुक्र."),
-        fill(2, "In अर्धाञ्जलिः (half a cupped handful), the first part means 'half'. Type it: ____ (Devanagari or English letters, e.g. veda).",
+        fill(2, "Unit 223 measures śukra by half a cupped handful. Type its Sanskrit word for 'half': ____ (Devanagari or English letters, e.g. veda).",
              accepts("अर्ध", "ardha", "अर्द्ध", "arddha"),
-             "अर्ध (half) + अञ्जलिः (cupped handful) → अर्धाञ्जलिः; the print doubles the द (अर्द्ध).",
-             "अर्ध = half; अ + अ → आ joins it to अञ्जलि.",
+             "अर्ध (half) + अञ्जलिः (cupped handful); the print doubles the द (अर्द्ध).",
+             "अर्ध = half; अर्ध-अञ्जलि = half a cupped handful.",
              "अर्ध = half."),
         mcq("discriminate", 3, "Unit 223 has no verb. Which rendering of it is right?",
             ("Half a cupped handful of śukra", "A measure in the series: 'is' is understood."),
@@ -395,7 +397,7 @@ AUTHORED["223"] = {
              ("A handful of śukra is halved", "Nothing is said to be halved; अर्ध is part of the measure."),
              ("Śukra is half of the body", "The body is not mentioned; the line gives a handful measure.")],
             "अर्ध-अञ्जलिः (half a cupped handful) + शुक्रस्य (of śukra).",
-            "अर्धाञ्जलिः शुक्रस्य = half an añjali of śukra."),
+            "अर्ध-अञ्जलिः शुक्रस्य = half an añjali of śukra."),
         mcq("apply", 4, "Unit 223 continues the series of unit 222. In what unit of measure is śukra given?",
             ("In añjali, cupped handfuls", "अञ्जलि, the measure of each fluid in unit 222."),
             [("In aṅguli, finger-breadths", "Finger-breadths are not the measure used for these fluids."),
@@ -403,14 +405,14 @@ AUTHORED["223"] = {
              ("In pala, units of weight", "No weight is given; the measure is the añjali.")],
             "Each fluid is measured by its own añjali; śukra by half an añjali.",
             "अञ्जलि = the measure of the fluids."),
-        mcq("transfer", 5, "By the pattern of अर्धाञ्जलिः शुक्रस्य, what does a new example अर्धाञ्जलिस्तैलस्य mean?",
+        mcq("transfer", 5, "By the pattern of अर्ध-अञ्जलिः शुक्रस्य, what does a new example अर्धाञ्जलिस्तैलस्य mean?",
             ("Half a cupped handful of oil", "The genitive names what is measured, as शुक्रस्य."),
             [("Oil filling half the body", "The body is not named; अर्धाञ्जलि is a handful measure."),
              ("Two cupped handfuls of oil", "अर्ध means half, not two."),
              ("Half the oil kept in a hand", "The half goes with the handful (अर्ध-अञ्जलि), not with the oil.")],
             "अर्धाञ्जलिः + तैलस्य → अर्धाञ्जलिस्तैलस्य (visarga + त → स्): half a cupped handful of oil.",
             "Measure (nom.) + substance (gen.) = so much of it.",
-            teaches="A measure word with a genitive gives 'so much of X': अर्धाञ्जलिः शुक्रस्य = half an añjali of śukra."),
+            teaches="A measure word with a genitive gives 'so much of X': अर्ध-अञ्जलिः शुक्रस्य = half an añjali of śukra."),
     ],
 }
 
@@ -496,7 +498,7 @@ AUTHORED["225"] = {
                ["चतस्रः", "four (feminine)"]],
               "In women, four cupped handfuls of rajas.",
               "स्त्री, रजस्, अञ्जलि, चतस्रः."),
-        fill(2, "Complete unit 225: रजसोऽञ्जल्यः ____ (four, feminine). Type it in Devanagari or English letters (e.g. tri).",
+        fill(2, "Complete unit 225: रजसोऽजल्यः (read …ञ्जल्यः) ____ (four, feminine). Type it in Devanagari or English letters (e.g. tri).",
              accepts("चतस्रः", "catasraḥ", "chatasrah", "chatasra"),
              "अञ्जल्यः चतस्रः: four cupped handfuls; चतस्रः is the feminine of 'four'.",
              "चतस्रः = four, feminine nominative plural, agreeing with अञ्जल्यः.",
@@ -708,7 +710,7 @@ AUTHORED["228"] = {
 NOTES_HI = {
     "217": ("गद्य-पंक्ति; विश्वास निम्न। पाठ-चिह्न: (१) छपा ‘गृण्हंति’ = गृह्णन्ति का अमानक वर्तनी-रूप (सम्भावित); (२) छपा "
             "‘विपक्वंतंनयंति’ = विपक्वम् तत् नयन्ति, ‘तं’ को ‘तत्’ पढ़ा (तत् + न → तन् न, छपा तं; सम्भावित; पुंलिङ्ग ‘तम्’ हो तो कर्म "
-            "बदलेगा)। इन दोनों पर प्रश्न नहीं। कर्ता इस इकाई में नहीं; डेटा के अनुसार सम्भवतः इकाई २१६ वाली स्त्रीलिङ्ग सिराएँ। "
+            "बदलेगा)। इन दोनों पर प्रश्न नहीं। कर्ता इस इकाई में नहीं; डेटा के अनुसार सम्भवतः इकाई २१६ वाली स्त्रीलिङ्ग नाड़ियाँ (सिरा-धमनी)। "
             "‘नयन्ति’ का गन्तव्य नहीं बताया, कुछ जोड़ा नहीं गया। अभ्यंग = तेल-मालिश, लेप = लेप लगाना (मानक)। ‘वीर्य्यं’ में य का "
             "द्वित्व छपाई की आदत। ‘तथाऽभ्यंग’ का अवग्रह छपाई की आदत (तथा अभ्यङ्ग), लोप नहीं। सन्धि जाँची: लेप + आदि → लेपादि "
             "(अ + आ → आ); स्पर्शम् + च → स्पर्शं च (वाक्य के भीतर म् + व्यंजन → ं)।"),
@@ -771,7 +773,7 @@ NOTES_HI = {
 AIDS = {
     "217": {
         "diagram": {"groups": [
-            {"label": "वे ले जाती हैं (नयन्ति)", "items": ["अभ्यंग (तेल-मालिश) का वीर्य", "लेप का वीर्य", "आदि का वीर्य",
+            {"label": "वे ले जाती हैं (नयन्ति)", "items": ["अभ्यंग (तेल-मालिश) का वीर्य", "लेप का वीर्य", "आदि (ऐसी ही चीज़ों) का वीर्य",
                                                    "जो त्वचा में पूरा पक चुका"]},
             {"label": "वे ग्रहण करती हैं (गृह्णन्ति)", "items": ["स्पर्श"]}]},
         "chunks": "तथाऽभ्यंगलेपादिवीर्य्यं | त्वचि | विपक्वंतंनयंति | स्पर्शं च | गृण्हंति",
@@ -795,7 +797,7 @@ AIDS = {
         "frame": "क्या हुआ: परिसंख्याताः (गिना दिए) → कहाँ: शरीरे → कौन: मूर्तिमन्तः भावाः (रूप वाले भाव; ‘स्थिर’ पाठ अनिश्चित)।",
     },
     "221": {
-        "chain": {"steps": ["द्रव (तु)", "अतियोग से च्युत होता हुआ (अन्वय अस्पष्ट)", "पुरीष (मल) को बाँधता है", "वैसे ही मूत्र",
+        "chain": {"steps": ["द्रव (तु)", "अतियोग से च्युत होता हुआ (द्रव या मल? अन्वय अस्पष्ट)", "पुरीष (मल) को बाँधता है", "वैसे ही मूत्र",
                             "रुधिर", "और शरीर के अन्य धातु"]},
         "chunks": "द्रवास्तु | यत्तदतियोगेन | च्यवमानं | पुरीषमनुबध्नाति | तथामूत्रंरुधिरमन्यांच | शरीरे धातून्",
         "sandhi": "विसर्ग + त → स्: द्रवाः + तु → द्रवास्तु · त् + स्वर → द्: तत् + अतियोगेन → तदतियोगेन।",
@@ -815,8 +817,8 @@ AIDS = {
                    "अः + घोष व्यंजन → ओ: मेदसः + मज्ज्ञः → मेदसो मज्ज्ञः।"),
     },
     "223": {
-        "chunks": "अर्द्धंजलिःशुक्रस्य (पढ़त: अर्धाञ्जलिः शुक्रस्य)",
-        "sandhi": "अ + अ → आ: अर्ध + अञ्जलिः → अर्धाञ्जलिः (छपाई में आ छूटा)।",
+        "chunks": "अर्द्धंजलिःशुक्रस्य",
+        "sandhi": "सम्भावित पढ़त (पाठ-चिह्न): अर्ध + अञ्जलिः → अर्धाञ्जलिः (अ + अ → आ); छपा रूप अर्द्धंजलिः है, इस जोड़ पर प्रश्न नहीं।",
         "frame": "कितना: अर्ध-अञ्जलिः (आधी अंजलि) → किसका: शुक्रस्य (शुक्र का)।",
     },
     "224": {
@@ -854,7 +856,7 @@ IMAGE_SPECS = {
         "alt": ("Table of unit 217, two actions of an unnamed subject: they carry the potency of oil massage, paste and the "
                 "like, fully matured in the skin; and they take up touch."),
         "type": "table",
-        "title": "इकाई २१७: त्वचा से दो काम",
+        "title": "इकाई २१७: दो काम (कर्ता अनाम)",
         "heads": ["काम", "किसका / क्या"],
         "rows": [["ले जाती हैं (नयन्ति)", "अभ्यंग, लेप आदि का वीर्य"], ["वह वीर्य", "त्वचा में पूरा पका"],
                  ["ग्रहण करती हैं", "स्पर्श"], ["कर्ता", "इकाई में नाम नहीं"]],
@@ -873,7 +875,7 @@ IMAGE_SPECS = {
                 "dung; likewise the urine; the blood; and the other dhātus in the body."),
         "type": "chain",
         "title": "इकाई २२१: द्रव (अन्वय अस्पष्ट)",
-        "steps": ["द्रव", "अतियोग से च्युत होता", "पुरीष (मल) को बाँधता", "वैसे ही मूत्र", "रुधिर", "शरीर के अन्य धातु"],
+        "steps": ["द्रव", "अतियोग से च्युत होता (द्रव या मल? अस्पष्ट)", "पुरीष (मल) को बाँधता", "वैसे ही मूत्र", "रुधिर", "शरीर के अन्य धातु"],
     },
     ("222", "diagram"): {
         "file": "sh5-udaka-rupa-222.svg",
@@ -892,8 +894,8 @@ IMAGE_SPECS = {
                 "3 blood, 4 dung, 5 śleṣman, 6 pitta, 7 urine, 8 vasā, 9 medas, 10 marrow; no numbers of añjali are "
                 "printed."),
         "type": "table",
-        "title": "इकाई २२२: अंजलि से नपे द्रव (क्रम)",
-        "heads": ["क्रम", "द्रव (संख्या छपी नहीं)"],
+        "title": "इकाई २२२: द्रवों का क्रम (संख्या छपी नहीं)",
+        "heads": ["पंक्ति में स्थान", "द्रव (अंजलि-संख्या नहीं)"],
         "rows": [["१", "उदक (जल)"], ["२", "रस (आहार का सार)"], ["३", "रक्त"], ["४", "शकृत् (मल)"], ["५", "श्लेष्मन्"],
                  ["६", "पित्त (यहाँ शरीर का द्रव)"], ["७", "मूत्र"], ["८", "वसा (सम्भवतः पेशी की चर्बी)"],
                  ["९", "मेदस् (सम्भवतः मेद धातु)"], ["१०", "मज्जन् (सम्भवतः मज्जा धातु)"]],
