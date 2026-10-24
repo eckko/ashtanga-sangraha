@@ -71,9 +71,9 @@ AUTHORED["102"] = {
     "question": "What does unit 102 call congenital blindness, and what eyes go with each of its four companions?",
     "rule": ("Tejas (light, fire) that has not reached the share of sight (dṛṣṭibhāga) is congenital blindness. "
              "Followed by Vāta: deformed, dry, reddish eyes; by Pitta: tawny; by Kapha: white; by rakta: red."),
-    "limits": ("The line does not say 'in the eye', and tejas is not given an elemental sense here. rakta may be blood "
-               "or redness. The joined print श्लेष्माऽनुगतंशुक्लाक्षं (a missing space) is a print matter, so no sandhi "
-               "question rests on it. No cause beyond this and no treatment is given."),
+    "limits": ("The line does not say 'in the eye'; tejas gets no elemental sense here. rakta may be blood or redness. "
+               "The joined print श्लेष्माऽनुगतंशुक्लाक्षं (possibly a missing space) carries no sandhi question. "
+               "No further cause or treatment is given."),
     "explain_hi": ("यह गद्य-पंक्ति जन्मजात अन्धेपन (जात्यन्धत्व) की परिभाषा देती है: तेज (प्रकाश, अग्नि) जो दृष्टि के भाग (दृष्टिभाग) तक नहीं पहुँचा। "
                    "फिर वही अन्धापन चार साथियों के साथ बताया गया है: वात से अनुगत हो तो आँख विकृत, रूखी और अरुण; "
                    "पित्त से अनुगत हो तो पिंगल; कफ (श्लेष्मा) से अनुगत हो तो सफ़ेद; रक्त से अनुगत हो तो लाल। "
@@ -201,7 +201,7 @@ AUTHORED["104"] = {
     "questions": [
         mcq("pretest", 0, "By unit 104, from what should she be protected?",
             ("From things that injure the embryo", "गर्भोपघातकरेभ्यः: from those causing injury to the embryo."),
-            [("From pleasant and beneficial things", "Those are the means: प्रियहिताभ्याम्, by them."),
+            [("From her own family and friends", "No family or friends are named in this line."),
              ("From the cold and the strong wind", "Cold and wind are not named in this line."),
              ("From all kinds of food and drink", "No food or drink is named in this line.")],
             "She is guarded from what injures the embryo, by what is pleasant and beneficial.",
@@ -234,7 +234,7 @@ AUTHORED["104"] = {
               ("तस्माद्भवति", "त् before the voiced भ becomes द्."),
               [("तस्मात्भवति", "Before a voiced sound the त् cannot stay."),
                ("तस्मान्भवति", "भ is not a nasal, so त् does not become न्."),
-               ("तस्माच्भवति", "त् becomes च् only before च or छ.")],
+               ("तस्माच्भवति", "त् becomes च् before a palatal such as च, not before भ.")],
               "तस्मात् + विशेषतः → तस्माद्विशेषतः; so तस्मात् + भवति → तस्माद्भवति.",
               "त् + voiced consonant → द्."),
           "A final त् becomes द् before a voiced sound: तस्माद्विशेषतः, तस्माद्भवति."),
@@ -277,8 +277,8 @@ AUTHORED["105"] = {
         mcq("discriminate", 3, "Why is स्त्रियाः printed as स्त्रिया before बलक्षयः?",
             ("आः drops its visarga before a voiced sound", "ब is voiced: स्त्रियाः + बल… → स्त्रिया बल…."),
             [("आः becomes ओ before a voiced sound", "ओ comes from अः, not from आः."),
-             ("Visarga becomes स् before ब", "स् comes before त or थ, not before ब."),
-             ("A letter is lost in the print", "The note calls it regular sandhi.")],
+             ("The visarga becomes स् before the ब", "स् comes before त or थ, not before ब."),
+             ("A letter has been lost from the print here", "The note calls it regular sandhi.")],
             "स्त्रियाः (of the woman) before voiced ब loses its visarga.",
             "आः + voiced consonant → आ."),
         multi("apply", 4, "Which two does unit 105 state plainly, by the card?",
@@ -306,7 +306,8 @@ AUTHORED["106"] = {
     "question": "What does unit 106 announce?",
     "rule": ("In this matter, these are the (things) that cause injury to the embryo (garbhopaghātakara). "
              "The predicate 'are' is understood."),
-    "limits": "The unit only announces; it names none of the harmful things itself. No verb is printed.",
+    "limits": ("The unit only announces; it names none of the harmful things itself: per the data, तद्यथा (unit 107) and the list "
+               "of unit 108 follow as one statement. No verb is printed."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति घोषणा करती है: इस विषय में ये गर्भ को हानि पहुँचाने वाले (गर्भोपघातकर) हैं। "
                    "‘हैं’ क्रिया पाठ में नहीं, समझी गई है। "
                    "‘गर्भोपघातकराः’ = गर्भ + उपघात (चोट, हानि) + कर (करने वाला), पुंल्लिंग बहुवचन। "
@@ -403,7 +404,7 @@ AUTHORED["107"] = {
         T(mcq("transfer", 5, "By the rule of तद्यथा, how is तत् + गृहम् written when joined?",
               ("तद्गृहम्", "त् before the voiced ग becomes द्."),
               [("तत्गृहम्", "Before a voiced sound the त् cannot stay."),
-               ("तच्गृहम्", "त् becomes च् only before च or छ."),
+               ("तच्गृहम्", "त् becomes च् before a palatal such as च, not before ग."),
                ("तन्गृहम्", "ग is not a nasal, so त् does not become न्.")],
               "तत् + यथा → तद्यथा; so तत् + गृहम् → तद्गृहम्.",
               "त् + voiced consonant → द्."),
@@ -418,9 +419,9 @@ AUTHORED["108"] = {
     "rule": ("A long list, closed by आदयः (and so on): among them intercourse (vyavāya), exertion, emaciating (things), "
              "blows, day sleep, holding back urges, undigested (ajīrṇa), sun-heat, fire, grief, fear, fasting, falls, "
              "disagreeable sights and sounds."),
-    "limits": ("रात्रि (in रात्रिजागरण) is read across a stray space; the doubled यान is not repeated; क्रोध corrects the "
-               "printed क्रोघ; उत्कटक as squatting is probable. No question rests on these. vyavāya = sexual intercourse "
-               "(standard). आदयः leaves the list open."),
+    "limits": ("रात्रि is read across a stray space; the doubled यान is dropped; क्रोध corrects printed क्रोघ; उत्कटक "
+               "(squatting) is probable: no question rests on these. vyavāya = intercourse (standard). आदयः leaves the "
+               "list open. Per the data it appears to complete units 106-107 (things that injure the embryo)."),
     "explain_hi": ("यह इकाई एक लम्बी सूची है, एक बड़े द्वन्द्व समास के रूप में, जो ‘आदयः’ (आदि) से खुली छोड़ी गई है। "
                    "छपे क्रम में: व्यवाय (मैथुन), व्यायाम, कर्शन (दुबला करने वाला), अभिघात (चोट), अत्यधिक झटके देने वाली सवारी, "
                    "रात में जागना, दिन में सोना, वेगों को रोकना, अजीर्ण, धूप, आग, क्रोध, शोक, भय, घबराहट, उपवास, "
@@ -462,12 +463,12 @@ AUTHORED["108"] = {
               [2, 3],
               "Day sleep and holding back urges both stand in the list.",
               "दिवास्वप्न, वेगविधारण."),
-        T(mcq("transfer", 5, "By the rule of आतपाग्नि (आतप + अग्नि), how is देव + आलयः joined?",
-              ("देवालयः", "अ + आ → आ, as in आतप + अग्नि → आतपाग्नि (अ + अ → आ)."),
+        T(mcq("transfer", 5, "By the rule of कठिनासन (कठिन + आसन), how is देव + आलयः joined?",
+              ("देवालयः", "अ + आ → आ, as in कठिन + आसन → कठिनासन."),
               [("देवलयः", "The long आ cannot be lost."),
                ("देवेलयः", "ए comes from अ + इ, not from अ + आ."),
                ("देवोलयः", "ओ comes from अ + उ, not from अ + आ.")],
-              "Two अ-type vowels merge into one long आ: आतपाग्नि, देवालयः.",
+              "अ + आ → आ: कठिनासन, देवालयः.",
               "अ/आ + अ/आ → आ."),
           "A final अ and an initial अ or आ merge into one long आ."),
     ],
@@ -740,9 +741,9 @@ AUTHORED["113"] = {
               teaches="The chain runs: resting on the navel, wound around the neck, a mishap."),
         mcq("discriminate", 3, "Why does अनुवेष्ट्य end in -य and not in -त्वा?",
             ("With a prefix the absolutive takes -य", "अनु- is a prefix, so the ending is -य: having wound around."),
-            [("-य marks an optative verb", "The optative ends in -एत्, as in रक्षेत्."),
-             ("-य marks a feminine noun", "The card gives an absolutive, not a noun."),
-             ("-य marks a future tense", "The card gives an absolutive: having wound.")],
+            [("-य marks an optative verb of wishing", "The optative ends in -एत्, as in रक्षेत्."),
+             ("-य marks a feminine noun ending", "The card gives an absolutive, not a noun."),
+             ("-य marks a verb in the future tense", "The card gives an absolutive: having wound.")],
             "A verb with a prefix makes its absolutive in -य, not -त्वा.",
             "Prefix + root → absolutive in -य."),
         multi("apply", 4, "Which two does unit 113 state plainly, by the card?",
@@ -850,7 +851,7 @@ AIDS = {
     "106": {
         "frame": "तत्र (इस विषय में) → इमे (ये) → गर्भोपघातकराः (गर्भ को हानि पहुँचाने वाले) · क्रिया ‘हैं’ समझी गई।",
         "sandhi": "अ + इ → ए: तत्र + इमे → तत्रेमे · अ + उ → ओ: गर्भ + उपघात → गर्भोपघात।",
-        "chunks": "तत्रेमे | गर्भ | उपघात | कराः",
+        "chunks": "तत्रेमे | गर्भोपघातकराः",
     },
     "107": {
         "frame": "तत् (वह) + यथा (जैसे) → तद्यथा: ‘जैसे कि’, सूची खोलने वाला सूत्र।",
@@ -896,9 +897,9 @@ AIDS = {
         "chunks": "यच्चान्यदपि | वृद्धस्त्रियो | ब्रूयुः",
     },
     "113": {
-        "chain": {"steps": ["प्रतान-उत्तान सोने वाली स्त्री", "गर्भ की नाभि पर टिकी नाड़ी", "कण्ठ को लपेटकर",
+        "chain": {"steps": ["प्रतान-उत्तान सोने वाली स्त्री", "गर्भ की, नाभि पर टिकी नाड़ी", "कण्ठ को लपेटकर",
                             "व्यापत्ति (विपत्ति) करती"]},
-        "sandhi": ("अ + उ → ओ: प्रतान + उत्तान → प्रतानोत्तान · ः + घोष (उ के बाद) → र्: पुनः + गर्भस्य → पुनर्गर्भस्य · "
+        "sandhi": ("अ + उ → ओ: प्रतान + उत्तान → प्रतानोत्तान · र् से बना विसर्ग + घोष → र्: पुनः (मूल पुनर्) + गर्भस्य → पुनर्गर्भस्य · "
                    "इ + आ → या: नाभि + आश्रया → नाभ्याश्रया।"),
         "frame": "शायिन्याः (सोने वाली के प्रसंग में) → गर्भस्य नाडी (गर्भनाल: सम्भावित) → कण्ठम् अनुवेष्ट्य → व्यापत्तिं करोति।",
     },
