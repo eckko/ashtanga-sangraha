@@ -9,9 +9,9 @@ AUTHORED["65"] = {
     "question": "By unit 65, by what are the water-carrying srotas vitiated, and which signs follow?",
     "rule": ("They (तानि, the water-carrying srotas of card 64) become vitiated (दुष्यन्ति) by āma, fear, excessive "
              "drinking, heat, dry food and the like; then (ततः) excessive thirst, dry mouth, ringing in the ears, seeing darkness."),
-    "limits": ("Prose; the list of signs has no verb. The sense of āma here is uncertain. The printed तृष्णिग्रह is read "
-               "as 'holding back of thirst' only by conjecture: no question on āma or on that word. What is drunk to "
-               "excess is not stated. Kṣveḍana as a tinnitus-type ringing is probable."),
+    "limits": ("Prose; the signs have no verb. Āma's sense here is uncertain; the printed तृष्णिग्रह is read 'holding "
+               "back of thirst' only by conjecture: no question on either. The drink is not named. Kṣveḍana as "
+               "tinnitus-type ringing is probable."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई ६४ के उदकवह (जल वहन करने वाले) स्रोतस की दुष्टि बताती है: ‘तानि’ यानी वे स्रोतस। "
                    "कारण: आम (यहाँ अर्थ अनिश्चित), भय, अतिपान (अधिक पीना; क्या, यह छपा नहीं), उष्ण, सूखा अन्न, और छपा ‘तृष्णिग्रह’, जिसे अनुमान से ‘तृष्णा-निग्रह’ यानी प्यास रोकना पढ़ा गया है; ‘आदि’ से सूची खुली है। "
                    "तब (ततः) लक्षण: अत्यधिक प्यास, मुख का सूखना, कानों में भनभनाहट (कर्णक्ष्वेडन, सम्भवतः टिनिटस जैसा) और अँधेरा दिखना। "
@@ -446,7 +446,7 @@ AUTHORED["72"] = {
             "मेदः (fat) + च (and): visarga → श् before च.",
             "Visarga before च → श्."),
         multi("apply", 4, "Which statements fit unit 72?",
-              [("Jaghana is surely the hip bone", "Probable only; which part is not stated."),
+              [("Jaghana is named as the hip bone", "Jaghana is a region, probably hips or loins; which part is not stated."),
                ("मूलम् is printed in this unit", "It is carried over from card 68."),
                ("Fat is named here", "Right: मेदः."),
                ("The unit is about bone-carrying ones", "Right: अस्थिवाहिनाम्.")],
@@ -487,10 +487,10 @@ AUTHORED["73"] = {
              ("The liver and the spleen", "Those belong to the blood-carrying ones (unit 69).")],
             "Of the marrow-carrying ones: the joints and the bones.",
             "मज्जवाहिनां पर्वाण्यस्थीनि च."),
-        order(1, "Put the carried substances of units 68 to 73 in the text's order.",
-              ["रस", "रक्त", "मांस", "मेदस्", "अस्थि", "मज्जा"],
-              "Rasa (68), blood (69), flesh (70), fat (71), bone (72), marrow (73).",
-              "रस → रक्त → मांस → मेदस् → अस्थि → मज्जा."),
+        order(1, "Put the words of unit 73 in the line's order.",
+              ["मज्जवाहिनां", "पर्वाणि", "अस्थीनि", "च"],
+              "Of the marrow-carrying, the joints, the bones, and.",
+              "मज्जवाहिनां → पर्वाणि → अस्थीनि → च."),
         match(2, "Match each word of unit 73 to its meaning.",
               [["मज्जा", "marrow"], ["पर्वन्", "joint"], ["अस्थि", "bone"], ["वाहिन्", "carrying"]],
               "Of the marrow-carrying ones: the joints and the bones.",
@@ -721,10 +721,10 @@ AUTHORED["77"] = {
              ("The joints and the bones", "Those belong to the marrow-carrying ones (unit 73).")],
             "Of the sweat-carrying ones: fat and the hair-pores.",
             "स्वेदवाहिनां मेदो रोमकूपाश्च."),
-        order(1, "Put the carried substances of units 75 to 77 in the text's order.",
-              ["मूत्र", "शकृत्", "स्वेद"],
-              "Urine (75), stool (76), sweat (77).",
-              "मूत्र → शकृत् → स्वेद."),
+        order(1, "Put the words of unit 77 in the line's order.",
+              ["स्वेदवाहिनाम्", "मेदः", "रोमकूपाः", "च"],
+              "Of the sweat-carrying, fat, the hair-pores, and.",
+              "स्वेदवाहिनाम् → मेदः → रोमकूपाः → च."),
         match(2, "Match each word part of unit 77 to its meaning.",
               [["स्वेद", "sweat"], ["मेदस्", "fat"], ["रोम", "body hair"], ["कूप", "pit, pore"]],
               "Of the sweat-carrying ones: fat and the hair-pores (रोम-कूप).",

@@ -72,10 +72,9 @@ AUTHORED["92"] = {
     "question": "Which six things does unit 92 list after 'therefore, the causes'?",
     "rule": ("Therefore (तस्मात्), the causes (निमित्तानि): lifespan, health, strength, growth, complexion and ojas, "
              "written as one dvandva compound in the neuter nominative plural."),
-    "limits": ("Prose, low confidence: an incomplete statement. There is no verb and no genitive, so it is not said "
-               "what the causes are causes of; the data thinks it probably means 'agni is the cause of lifespan ... "
-               "and ojas', but supplies nothing. No question rests on that relation. ojas is a doctrinal term (vital "
-               "essence, vigour), kept."),
+    "limits": ("Prose, low confidence, incomplete: no verb or genitive, so it is not said what the causes are of "
+               "(probably 'agni is the cause of ...', not supplied). No question on that relation. ojas = vital "
+               "essence, vigour (term kept)."),
     "explain_hi": ("यह गद्य-पंक्ति अधूरा कथन है: ‘इसलिए निमित्त:’ और फिर छह शब्दों का एक द्वन्द्व समास। "
                    "छह शब्द क्रम से: आयु (जीवन-काल), आरोग्य (स्वास्थ्य), बल, उपचय (वृद्धि), वर्ण (रंगत) और ओजस् (जीवन-सार)। "
                    "क्रिया या षष्ठी छपी नहीं, इसलिए सम्बन्ध साफ़ नहीं; डेटा के अनुसार सम्भवतः अर्थ है कि अग्नि इनका कारण है, पर यह जोड़ा नहीं गया। "
@@ -133,9 +132,9 @@ AUTHORED["93"] = {
     "question": "By unit 93, what depends on agni, and what does food become digested or undigested?",
     "rule": ("Dependent on that (agni) alone are rañjaka and the rest, the bhūtāgnis and the dhātvagnis. Food too, "
              "digested (पक्व) by that very agni, attains the state of nectar (अमृतता); undigested (अपक्व), of poison (विषता)."),
-    "limits": ("Two printed lines, prose. 'That' (तत्, तेन) is agni by the data's understanding; it is not printed. "
-               "'And the rest' after rañjaka are not listed. Rañjaka as the colouring kind of Pitta is standard in later "
-               "Āyurveda. Printed पक्क = पक्व. Nectar and poison are named as states; no effects are described."),
+    "limits": ("Two printed lines, prose. 'That' (तत्, तेन) = agni, understood, not printed. 'The rest' after "
+               "rañjaka are not listed; rañjaka = colouring Pitta (standard, later Āyurveda). पक्क = पक्व. "
+               "Nectar and poison are states only; no effects are described."),
     "explain_hi": ("पहली पंक्ति: रञ्जक आदि (रंग देने वाला पित्त का एक भेद, और अन्य जो यहाँ गिनाए नहीं), भूताग्नियाँ यानी भूतों की अग्नियाँ, "
                    "और धात्वग्नियाँ यानी धातुओं की अग्नियाँ, सब उसी पर आश्रित हैं; ‘उसी’ से अग्नि समझी जाती है। "
                    "दूसरी पंक्ति: वैसे ही अन्न भी, उसी अग्नि से पचा हुआ, अमृत-भाव को पाता है, और बिना पचा विष-भाव को। "
@@ -577,7 +576,7 @@ AUTHORED["100"] = {
             "Having reached the pakvāśaya, the food turns pungent.",
             "प्राप्य च पक्वाशयम्."),
         mcq("apply", 4, "Why does प्राप्य in unit 100 end in -य and not -त्वा?",
-            ("A prefix (प्र) stands before the root", "With a prefix the absolutive takes -य: प्र + √आप् → प्राप्य."),
+            ("The prefix प्र stands before the root", "With a prefix the absolutive takes -य: प्र + √आप् → प्राप्य."),
             [("The root आप् always takes -य", "Without a prefix आप् takes -त्वा: आप्त्वा."),
              ("-य marks the passive voice here", "-य here is the absolutive ending, not a passive marker."),
              ("The sentence has a plural subject", "The subject (the food) is singular; number does not decide -य.")],
@@ -618,11 +617,11 @@ AUTHORED["101"] = {
              ("Only inside the stomach", "No place is meant by यथास्वम्.")],
             "यथास्वम् = each according to its own.",
             "यथा + स्वम्: according to (its) own."),
-        order(1, "Put the clearly printed parts of unit 101 in the printed order (the unclear words are left out).",
+        order(1, "Put the readable parts of unit 101 in the printed order (the unclear words are left out).",
               ["ततश्चैवं", "विक्लिन्नआहारे", "वायुना", "व्यस्तान्यथास्वं", "पंचैवभूतगुणानाहारस्थान्", "पचंति"],
               "Then thus, the food moistened, ... by wind, scattered, each according to its own, only the five element-qualities lying in the food, cook.",
               "ततश्चैवं → विक्लिन्नआहारे → वायुना → व्यस्तान्यथास्वं → पंचैवभूतगुणानाहारस्थान् → पचंति."),
-        match(2, "Match each clearly printed word of unit 101 to its meaning.",
+        match(2, "Match each readable word of unit 101 to its meaning.",
               [["वायुना", "by wind"], ["यथास्वम्", "each according to its own"], ["भूतगुण", "element-quality"],
                ["आहारस्थ", "lying in the food"], ["पचन्ति", "(they) cook"]],
               "By wind ... each according to its own ... the element-qualities lying in the food ... cook.",
@@ -636,14 +635,14 @@ AUTHORED["101"] = {
             "ततः (then) + च (and) + एवम् (thus) → ततश्चैवम्.",
             "Visarga + च → श्च; अ + ए → ऐ."),
         multi("apply", 4, "Which statements about unit 101 does the data support?",
-              [("The unit surely names the bhūtāgnis as the cooks", "Not sure: that rests on a guessed restoration, not adopted."),
+              [("The unit certainly names the bhūtāgnis as cooks", "Not sure: that rests on a guessed restoration, not adopted."),
                ("विक्लिन्नआहारे is printed with its vowels joined", "The print leaves the vowels unjoined (ए + आ)."),
                ("पंचातमक महाभूतन मयो is unclear in print", "Right: damaged print, kept unsplit as unclear."),
                ("पचन्ति is a plural verb: they cook", "Right: पचन्ति, third person plural.")],
               [2, 3],
               "The middle words are unclear; पचन्ति is plural; who cooks is not certain.",
               "पंचातमक महाभूतन मयो: unclear; पचंति: they cook."),
-        mcq("transfer", 5, "By the rule of पंचैव (पञ्च + एव), how is अत्र + एव (just here) joined in a new example?",
+        mcq("transfer", 5, "By the rule of पंचैव (पञ्च + एव), how is अत्र + एव (here indeed) joined in a new example?",
             ("अत्रैव", "अ + ए → ऐ, as पञ्च + एव → पञ्चैव."),
             [("अत्रेव", "ए comes from अ + इ, not from अ + ए."),
              ("अत्रौव", "औ comes from अ + ओ or औ, not from अ + ए."),
@@ -698,7 +697,7 @@ AUTHORED["102"] = {
         multi("apply", 4, "Which statements about unit 102 fit the data?",
               [("ते is taken as the element-qualities of card 101", "Right: the data's note reads te so."),
                ("आप्याययन्ति means they nourish", "Right: causative of आ-√प्याय्, make grow."),
-               ("स्वाविकारभूतान् surely means 'their own modifications'", "Not sure: the data reads 'unaltered' and calls the other reading possible."),
+               ("स्वाविकारभूतान् can only mean 'own modifications'", "Not sure: the data reads 'unaltered' and calls the other reading possible."),
                ("The nourished qualities lie in the food", "They rest in the body (देहाश्रितान्).")],
               [0, 1],
               "ते = the element-qualities; they nourish those resting in the body; स्वाविकारभूतान् stays two-way.",
@@ -907,7 +906,7 @@ AIDS = {
         "frame": "कहाँ पहुँचकर: पक्वाशय (सम्भावित: बड़ी आँत का क्षेत्र) → अन्न कैसा: कटु → किसे (उदीरयति, इकाई ९८ से): अनिल, वात।",
     },
     "101": {
-        "chunks": "ततश्चैवं | विक्लिन्नआहारे | पंच (पंचातमक महाभूतन मयो: अस्पष्ट) | वायुना | व्यस्तान्यथास्वं | पंचैवभूतगुणानाहारस्थान् | पचंति",
+        "chunks": "ततश्चैवं | विक्लिन्नआहारे | पंच | पंचातमक महाभूतन मयो | वायुना | व्यस्तान्यथास्वं | पंचैवभूतगुणानाहारस्थान् | पचंति",
         "sandhi": "च से पहले विसर्ग → श्: ततः + च → ततश्च · अ + ए → ऐ: च + एवम् → चैवम्, पञ्च + एव → पञ्चैव।",
         "frame": "कब: आहार भीगने पर → कौन: अस्पष्ट (क्षतिग्रस्त छपाई) → कैसे: वायु से, अपने-अपने अनुसार → किसे पकाते हैं: आहार में स्थित पाँच भूत-गुण।",
     },

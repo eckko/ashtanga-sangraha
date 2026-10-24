@@ -10,9 +10,8 @@ AUTHORED["78"] = {
     "rule": ("Of these (तेषाम्), one should know (विज्ञानीयात्) the vitiation (दूषणम्), the unwholesome food and conduct "
              "(अहिताहारविहारम्), the complications (उपद्रवान्) and the treatment (साधनम्); each (यथास्वम्) is discerned by "
              "the signs of increase and decrease (वृद्धिक्षयलक्षणेन)."),
-    "limits": ("Prose; the syntax is loose (data note). How दोषादि ('doṣa and the rest') fits is open: 'through the doṣa and "
-               "the rest' or 'the doṣa and the rest' as further objects: no question on it. विविधम् may go with the "
-               "vitiation or with the food and conduct. तेषाम् (of these) is not named in the line."),
+    "limits": ("Prose; loose syntax. How दोषादि (doṣa and the rest) fits is open (means or further object): no question "
+               "on it. विविधम् may qualify the vitiation or the food and conduct. तेषाम् is not named."),
     "explain_hi": ("यह गद्य-पंक्ति बताती है कि इनके (तेषाम्) बारे में चार बातें जाननी चाहिए: दूषण (बिगाड़), अहितकर आहार और विहार यानी "
                    "आचरण, उपद्रव और साधन यानी चिकित्सा। "
                    "हर एक को अपने-अपने अनुसार (यथास्वम्) वृद्धि और क्षय के लक्षणों से पहचानना चाहिए (लक्षयेत्)। "
@@ -47,9 +46,9 @@ AUTHORED["78"] = {
             "विज्ञानीयात् (one should know) + यथास्वम् (each by its own): त् + य → द्य.",
             "A final त् becomes द् before a voiced sound."),
         multi("apply", 4, "Which does unit 78 name among the things to be known or discerned?",
-              [("The number of the channels", "No number is given in unit 78."),
+              [("The number (saṅkhyā) of the channels", "No number is given in unit 78."),
                ("The complications (upadrava)", "Right: उपद्रवान्."),
-               ("The age of the patient", "Age is not named in unit 78."),
+               ("The age (vayas) of the patient", "Age is not named in unit 78."),
                ("The treatment (sādhana)", "Right: साधनं च.")],
               [1, 3],
               "Vitiation, unwholesome food and conduct, complications and treatment; each by increase and decrease.",
@@ -134,10 +133,9 @@ AUTHORED["80"] = {
     "rule": ("Therefore (तस्मात्), having refused (प्रत्याख्याय, declined the case as hopeless) one pierced in a srotas, one "
              "should treat (उपाचरेत्) him; and one whose dart is extracted (उद्धृतशल्यम्), by the procedure for a fresh "
              "wound (सद्योव्रणविधानेन)."),
-    "limits": ("Prose, two printed lines. The printed स्रोतौविद्धं is read as srotoviddham ('au' a print slip; 'srotasi "
-               "viddham' is another emendation, same sense): no question on that form. Line 2 has no verb; 'one should "
-               "treat' is carried from line 1. The unit does not describe the fresh-wound procedure or say why one treats "
-               "after refusing."),
+    "limits": ("Prose, two lines. Printed स्रोतौविद्धं is read srotoviddham ('au' a print slip): no question on that form. "
+               "Line 2 takes its verb from line 1. The fresh-wound procedure and the reason for treating after refusing "
+               "are not given."),
     "explain_hi": ("‘तस्मात्’ (इसलिए) पिछली बात से निष्कर्ष निकालता है। "
                    "स्रोतस् में विद्ध (बिंधे हुए) रोगी को ‘प्रत्याख्याय’ यानी अस्वीकार करके (रोग को असाध्य कहकर) उपचार करना चाहिए "
                    "(उपाचरेत्); पंक्ति इसका कारण नहीं बताती। "
@@ -292,13 +290,10 @@ AUTHORED["82"] = {
              ("तुम् + अन्यत्वम्", "म् before a vowel would give तुमन्यत्वम्.")],
             "तु (but) + अन्यत्वम् (difference): उ + अ → व.",
             "उ + a different vowel → व् + that vowel."),
-        mcq("apply", 4, "In unit 82, what is understood but not printed?",
-            ("What is held to differ", "The data understands sirā, dhamanī and srotas."),
-            [("The verb 'they hold'", "इच्छन्ति is printed."),
-             ("The subject 'others'", "अन्ये is printed."),
-             ("The particle 'but'", "तु is printed.")],
-            "Only what differs from what is left unsaid; the data supplies sirā, dhamanī and srotas.",
-            "अन्ये तु अन्यत्वम् इच्छन्ति: (they are) other."),
+        order(4, "Put the words of unit 82 in the printed order.",
+              ["अन्ये", "तु", "अन्यत्वम्", "इच्छंति"],
+              "Others, but, a difference, maintain: अन्येत्वन्यत्वमिच्छंति.",
+              "अन्ये → तु → अन्यत्वम् → इच्छंति.", role="apply"),
         mcq("transfer", 5, "By the rule of तु + अन्यत्वम् → त्वन्यत्वम्, how is मधु + अत्र joined in a new example?",
             ("मध्वत्र", "उ before a different vowel becomes व्, as तु + अन्यत्वम् → त्वन्यत्वम्."),
             [("मधोत्र", "ओ comes from अ + उ, with अ first; here उ comes first."),
@@ -641,7 +636,7 @@ AUTHORED["88"] = {
               [["ते", "they"], ["अपि", "also, too"], ["तान्", "those (m. acc. pl.)"], ["स्रोतांसि", "the srotas, channels"]],
               "They too (agitate) those and the srotas.",
               "ते, अपि, तान्, स्रोतांसि."),
-        fill(2, "In unit 88 'too, also' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "In unit 88 the word for too or also is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("अपि"),
              "अपि = also, too; printed तेऽपि with its अ elided after ए.",
              "अपि = also; after ए its अ is elided (ऽ).",
@@ -919,7 +914,7 @@ AIDS = {
                    "स्थानान्याशयाः क्षया निकेताश्चेति | शरीरे धात्ववकाशानां लक्ष्यालक्ष्याणां नामानीति"),
         "sandhi": ("अः + घोष व्यंजन → ओ: धमन्यः + रस... → धमन्यो रस... · अः + अ → ओऽ: पन्थानः + अयनानि → पन्थानोऽयनानि · इ + आ → या: "
                    "स्थानानि + आशयाः → स्थानान्याशयाः · उ + अ → व: धातु + अवकाश → धात्ववकाश।"),
-        "frame": "क्या: चौदह के आस-पास शब्द (गिनती खुली) → किसके नाम: शरीरे धातु-अवकाशों के → कैसे अवकाश: लक्ष्य और अलक्ष्य।",
+        "frame": "क्या: अनेक नाम (गिनती खुली) → किसके नाम: शरीरे धातु-अवकाशों के → कैसे अवकाश: लक्ष्य और अलक्ष्य।",
     },
     "86": {
         "chunks": "तेचावकाशाः",
@@ -1008,6 +1003,4 @@ IMAGE_SPECS = {
         "steps": ["८६: ते च अवकाशाः", "८७: प्रकुपित होकर धातुओं को प्रकुपित करते हैं",
                   "८८: वे भी उन्हें और स्रोतसों को", "८९: स्रोतस् और धातु, धातुओं को"],
     },
-    ("90", "frame"): None,
 }
-del IMAGE_SPECS[("90", "frame")]

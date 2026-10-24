@@ -186,9 +186,9 @@ AUTHORED["131"] = {
     "question": "By unit 131, how many are bound to the kaṇṭhanāḍī, and in which places?",
     "rule": ("Eighteen (अष्टादश), bound to the kaṇṭhanāḍī, in the heart (हृदय), liver (यकृत्), kloma (identity "
              "disputed) and channels (नाडी)."),
-    "limits": ("Prose, confidence medium. Printed निबद्धा does not agree with the plural (text flag: possibly निबद्धाः): no "
-               "question on that form. The last compound may also read 'in the channels of heart, liver and kloma': no "
-               "question on the parse. kloma's identity is disputed: no question on it. No counted noun is printed (probably the bone-joints, from unit 119)."),
+    "limits": ("Prose, confidence medium. Printed निबद्धा does not agree with the plural (text flag: possibly निबद्धाः). "
+               "The last compound may also read 'in the channels of heart, liver and kloma'. kloma's identity is disputed. "
+               "No question rests on these. The counted noun is unprinted (probably the bone-joints, from unit 119)."),
     "explain_hi": ("यह गद्य-पंक्ति अठारह (गिनी गई वस्तु छपी नहीं; सम्भवतः अस्थि-सन्धियाँ, इकाई ११९ से) बताती है, जो कण्ठनाड़ी से बँधी हैं (निबद्ध)। "
                    "स्थान हैं: हृदय, यकृत (जिगर), क्लोम (पहचान विवादित; फेफड़ा, अग्न्याशय आदि सुझाए गए) और नाड़ियाँ। "
                    "अन्तिम समास को चार सदस्यों का द्वन्द्व पढ़ा गया; दूसरा पाठ है ‘हृदय, यकृत और क्लोम की नाड़ियों में’। "
