@@ -91,11 +91,11 @@ AUTHORED["75"] = {
                "question uses apāna. In the data's English samāna obtains the potency; the Hindi has the potency "
                "reaching samāna. Either way the potency ends with samāna; the verse states no route beyond that."),
     "explain_hi": ("पिछले श्लोक में बस्ति के वीर्य की बात थी; अब बताया जाता है कि वह आगे कैसे पहुँचता है। "
-                   "वहाँ (पक्वाशय में) जो औषध का वीर्य यानी शक्ति है, वह वायु के द्वारा बहुत शीघ्र और पूरी तरह समान वायु तक पहुँचता है। "
+                   "वहाँ (पक्वाशय में) जो औषध का वीर्य यानी शक्ति है, उसे वायु के द्वारा बहुत शीघ्र और पूरी तरह समान वायु प्राप्त कर लेता है (‘समानः’ कर्ता है)। "
                    "छपा ‘तद्पानेन’ अनुमानित पाठ पर ‘तत् अपानेन’ (अपान वायु द्वारा) पढ़ा गया है। "
                    "यहाँ ‘वीर्य’ का अर्थ शक्ति है, शुक्र नहीं। "
                    "समान पाँच वायुओं में से एक है; अगले श्लोक में बाकी वायु क्रम से आते हैं।"),
-    "hook": "औषध की शक्ति: वायु के सहारे जल्दी ही समान तक।",
+    "hook": "औषध की शक्ति: वायु के सहारे जल्दी ही समान उसे पा ले।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -216,7 +216,7 @@ AUTHORED["76"] = {
 AUTHORED["77"] = {
     "title": "पित्तश्लेष्माणौ यथास्थानं",
     "question": "What do the winds do with Pitta and phlegm in verse 77?",
-    "rule": ("Having overpowered Pitta and phlegm (śleṣman) and placed each in its own place, the winds "
+    "rule": ("Having overpowered (on the suggested reading प्रसह्य) Pitta and phlegm (śleṣman) and placed each in its own place, the winds "
              "nourish all around, in the body, their own respective qualities of the bhūtas."),
     "limits": ("Printed प्रैसह्य is read as प्रसह्य (text_flags): no question on it. 'Nourish' or 'satiate' for "
                "संतर्पयन्ति is open (05.05.149): no question on it. भूत: 'elements' is probable, not stated. "
@@ -234,7 +234,7 @@ AUTHORED["77"] = {
             ("Place each in its own place", "यथास्थानं निवेश्य: having placed (them) each in its place."),
             [("Drive both out through the mouth", "Nothing is driven out in verse 77."),
              ("Mix the two into a single doṣa", "No mixing is stated; each goes to its own place."),
-             ("Increase both of them greatly", "They are overpowered and settled, not increased.")],
+             ("Increase both of them greatly", "They are settled each in its own place (यथास्थानं निवेश्य), not increased.")],
             "पित्तश्लेष्माणौ यथास्थानं निवेश्य: Pitta and phlegm, each set in its own place.",
             "Verse 77: Pitta and phlegm are placed back, each in its own place."),
         match(1, "Match each word of verse 77 to its meaning.",
@@ -354,7 +354,7 @@ AUTHORED["78"] = {
 AUTHORED["79"] = {
     "title": "वपुर्बस्तिः सुयोजितः",
     "question": "What does the well-applied basti destroy, according to verse 79?",
-    "rule": ("Thus, (through the channels) and by the sirās (vessels), the well-applied basti, pervading the body, "
+    "rule": ("Thus, or by those (unclear) and by the sirās (vessels), the well-applied basti, pervading the body, "
              "forcibly destroys even the very difficult yakṣmans (wasting diseases)."),
     "limits": ("Low confidence. वा तैः ('or by those') may be a mis-division of वातैः ('by the winds'), an open point "
                "(05.05.152): no question on it. Yakṣman = wasting disease, consumption; tuberculosis-type is "
@@ -483,13 +483,13 @@ AUTHORED["80"] = {
 AUTHORED["81"] = {
     "title": "शोधयित्वा च कुर्यात्",
     "question": "What does the basti do after cleansing, according to unit 81?",
-    "rule": ("Having cleansed (within the channels), it would make brightness (dīpti) of semen (śukra), body and "
+    "rule": ("Having cleansed (within the channel, srotas), it would make brightness (dīpti) of semen (śukra), body and "
              "digestive fire (agni); the doṣas and tejas stand in the same sentence. The closing iti ends the teaching."),
     "limits": ("Low confidence. Whether दोषान् is the object of शोधयित्वा (cleansed the doṣas) and whether तेजः is a "
                "member of the brightness compound is an open point (05.05.155): no question on it. The print has "
                "स्त्रोतसि and दीप्तिमिमिति (text_flags): no question on स्रोतस् or on the -मिमिति ending."),
     "explain_hi": ("यह इकाई बस्ति के फल की बात पूरी करती है और अन्तिम ‘इति’ से गुरु का उत्तर समाप्त होता है। "
-                   "बस्ति (स्रोतों के भीतर) शुद्ध करके शुक्र, देह और अग्नि यानी जठराग्नि की दीप्ति करती है। "
+                   "बस्ति (स्रोत के भीतर) शुद्ध करके शुक्र, देह और अग्नि यानी जठराग्नि की दीप्ति करती है। "
                    "वाक्य का ढाँचा विवादित है: डेटा में ‘दोषों, तेज और शुक्र-देह-अग्नि की दीप्ति करे’, समीक्षक के अनुसार ‘दोषों को शुद्ध करके तेज, शुक्र, देह और अग्नि की दीप्ति करे’। "
                    "‘शोधयित्वा’ णिजन्त से बना -त्वा वाला रूप है: शुद्ध करके। "
                    "‘कुर्यात्’ विधिलिङ् है: करे, कर सकती है।"),
@@ -552,7 +552,7 @@ AUTHORED["82"] = {
     "limits": ("A colophon, not a verse: it names the chapter and teaches nothing new. 'Siddha' in the title is kept "
                "as printed; the data glosses it 'accomplished' (the glossary's usual sense of siddha is 'cooked')."),
     "explain_hi": ("यह पञ्चम अध्याय का समापन-वाक्य है: इस प्रकार सिद्धबस्तिकल्प नामक पाँचवाँ अध्याय। "
-                   "‘सिद्धबस्तिकल्प’ = सिद्ध बस्तियों के कल्प यानी उनकी बनाने की विधियाँ। "
+                   "‘सिद्धबस्तिकल्प’ = सिद्ध बस्तियों के कल्प यानी उन्हें बनाने की विधियाँ। "
                    "इस अध्याय में एरण्डमूल, मुस्तादि यापन, क्षीर-बस्ति और अनुवासन तैल जैसी बस्तियाँ आईं, और अन्त में बताया गया कि बस्ति दोषों को कैसे हरती है। "
                    "‘पञ्चमोऽध्यायः’ = पञ्चमः + अध्यायः।"),
     "hook": "पाँचवाँ अध्याय: सिद्धबस्तिकल्प, सिद्ध बस्तियों की विधियाँ।",
@@ -656,7 +656,7 @@ AIDS = {
     },
     "75": {
         "chain": {"steps": ["वहाँ औषध का वीर्य", "वायु के द्वारा (छपा ‘तद्पानेन’: अपान, अनुमानित)", "शीघ्र ही, पूरी तरह",
-                            "समान वायु तक"]},
+                            "समान वायु उसे पाए"]},
         "sandhi": "त् → द् स्वर से पहले: अचिरात् + एव → अचिरादेव; अ + औ → औ: तत्र + औषध → तत्रौषध।",
         "anchors": "औषध = दवा · वीर्य = शक्ति (शुक्र नहीं) · अचिरात् = शीघ्र · प्रतिपद्यते = प्राप्त करता है · समान = समान नामक वायु।",
     },
@@ -713,20 +713,19 @@ IMAGE_SPECS = {
     ("75", "chain"): {
         "file": "ka5-samana-prapti-75.svg",
         "alt": ("Chain of verse 75: the drug's potency there; by a wind (apana on a suggested reading); very soon "
-                "and fully; reaches the samana wind"),
+                "and fully; the samana wind obtains it"),
         "type": "chain",
         "title": "श्लोक ७५: औषध-वीर्य कहाँ",
-        "steps": ["वहाँ औषध का वीर्य", "वायु द्वारा (अपान, अनुमानित)", "शीघ्र ही, पूरी तरह", "समान वायु तक"],
+        "steps": ["वहाँ औषध का वीर्य", "वायु द्वारा (अपान, अनुमानित)", "शीघ्र ही, पूरी तरह", "समान वायु उसे पाए"],
     },
     ("78", "diagram"): {
         "file": "ka5-vayu-disha-78.svg",
         "alt": ("Table of verse 78: three winds and the direction each draws: vyana crosswise, apana downward, "
                 "prana upward, as water through carrying channels"),
         "type": "table",
-        "title": "श्लोक ७८: वायु और दिशा",
+        "title": "श्लोक ७८: वायु और दिशा (नालियों में जल जैसे)",
         "heads": ["वायु", "किस ओर खींचे"],
-        "rows": [["व्यान", "तिरछा"], ["अपान", "नीचे"], ["प्राण", "ऊपर"],
-                 ["उपमा", "नालियों में जल"]],
+        "rows": [["व्यान", "तिरछा"], ["अपान", "नीचे"], ["प्राण", "ऊपर"]],
     },
     ("79", "chain"): {
         "file": "ka5-yakshma-nasha-79.svg",
