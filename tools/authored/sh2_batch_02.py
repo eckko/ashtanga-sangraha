@@ -13,13 +13,13 @@ AUTHORED["14"] = {
     "title": "स्थिते तु रक्ते रोमराजी",
     "question": "What does unit 14 say appears when the blood has settled, and where does the blood go?",
     "rule": ("When the blood has settled, a line of hair (romarājī) appears; and the blood (asṛk) goes upward "
-             "to the remainder of the jarāyu (probably the foetal membrane)."),
-    "limits": ("The second clause can also be read 'the remainder of the jarāyu goes up as blood'; the card takes asṛk as subject, "
-               "and no question rests on the choice. On whose body the line of hair appears is not stated. "
-               "jarāyu as foetal membrane is a probable identification."),
+             "to the remainder of the jarāyu (probably the foetal membrane or afterbirth; unit 13)."),
+    "limits": ("The second clause may also mean 'the jarāyu's remainder goes up as blood'; the card takes asṛk as subject; "
+               "no question rests on it. On whose body the line of hair appears is not stated. "
+               "jarāyu as foetal membrane or afterbirth is a probable identification (unit 13)."),
     "explain_hi": ("यह गद्य-पंक्ति गर्भ ठहरने के बाद रक्त की बात आगे बढ़ाती है। रक्त के स्थिर हो जाने पर रोमराजी, यानी रोमों की पंक्ति, प्रकट होती है; "
                    "यह किसके शरीर पर, पंक्ति नहीं बताती। फिर ‘असृक्’ (रक्त का ही दूसरा नाम) ऊपर जरायु के शेष को प्राप्त होता है। "
-                   "जरायु सम्भवतः गर्भ की झिल्ली है (इकाई १३)। दूसरा खण्ड दो तरह पढ़ा जा सकता है; कार्ड असृक् को कर्ता मानता है।"),
+                   "जरायु सम्भवतः गर्भ की झिल्ली या अपरा है (इकाई १३)। दूसरा खण्ड दो तरह पढ़ा जा सकता है; कार्ड असृक् को कर्ता मानता है।"),
     "hook": "रक्त ठहरा: रोमराजी उभरी, असृक् ऊपर चला।",
     "core": False,
     "questions": [
@@ -69,11 +69,11 @@ AUTHORED["14"] = {
 AUTHORED["15"] = {
     "title": "तस्मात्पीनकपोलपयोधरता",
     "question": "Which changes does unit 15 name as following from that?",
-    "rule": "From that come plumpness of the cheeks and breasts, and blackness of the lips and nipples.",
+    "rule": "From that: plumpness of the cheeks and breasts, and blackness of the lips and nipples.",
     "limits": ("Elliptical: no verb is printed or supplied. Whose cheeks and breasts is not stated; the sense is taken as "
                "the bodily changes of pregnancy. What तस्मात् (from that) points back to is not named in the line."),
-    "explain_hi": ("यह छोटी गद्य-पंक्ति बिना क्रिया के दो बदलाव गिनाती है। ‘तस्मात्’, यानी उससे: गाल (कपोल) और स्तन (पयोधर) मोटे (पीन) होते हैं, "
-                   "और ओंठ (ओष्ठ) और चूचुक काले (कृष्ण) होते हैं। ‘पयोधर’ का शब्दार्थ है दूध धारण करने वाला, यानी स्तन। "
+    "explain_hi": ("यह छोटी गद्य-पंक्ति बिना क्रिया के दो बदलाव गिनाती है। ‘तस्मात्’, यानी उससे: गाल (कपोल) और स्तन (पयोधर) का मोटापन (पीनता), "
+                   "और ओंठ (ओष्ठ) और चूचुक का कालापन (कृष्णत्व)। ‘पयोधर’ का शब्दार्थ है दूध धारण करने वाला, यानी स्तन। "
                    "‘-ता’ और ‘-त्व’ भाव बताते हैं: पीनता = मोटापन, कृष्णत्व = कालापन। "
                    "किसके अंग, यह नहीं कहा; अर्थ गर्भ के समय के बदलाव का है।"),
     "hook": "गाल-स्तन पीन, ओंठ-चूचुक कृष्ण।",
@@ -167,13 +167,13 @@ AUTHORED["16"] = {
             "The milk-state is reached in her who has given birth (प्रसूता).",
             "प्रसूता = she who has given birth."),
         T(mcq("transfer", 5, "Like प्रसूतायाः (of her who has given birth), what does बालायाः mean?",
-              ("Of the girl", "-आयाः of an आ-stem feminine is the genitive singular here."),
+              ("Of the girl", "-आयाः is the genitive (and also ablative) singular of an आ-stem feminine; 'of' is the genitive sense, as in प्रसूतायाः."),
               [("The girls (as subject)", "That would be बालाः."),
                ("By the girl", "That would be बालया."),
                ("In the girl", "That would be बालायाम्.")],
               "प्रसूता → प्रसूतायाः (of her); बाला → बालायाः (of the girl).",
-              "आ-stem feminine: -आयाः = of (genitive singular)."),
-          "Feminine आ-stems take -आयाः in the genitive singular: प्रसूता → प्रसूतायाः."),
+              "आ-stem feminine: -आयाः = of (genitive sg.; the ablative sg. has the same form)."),
+          "Feminine आ-stems take -आयाः in the genitive (and ablative) singular: प्रसूता → प्रसूतायाः."),
     ],
 }
 
@@ -181,7 +181,7 @@ AUTHORED["16"] = {
 AUTHORED["17"] = {
     "title": "तत्र प्रथमे मासे",
     "question": "What does unit 17 say arises in the first month?",
-    "rule": "Of these (months), in the first month a kalala arises: the first embryonic mass, probably the early embryo.",
+    "rule": "Of these (tatra), in the first month a kalala arises: the first embryonic mass, probably the early embryo.",
     "limits": ("kalala as zygote or early embryo is a probable equivalent, not exact. The unit names only the first month; "
                "the second and third follow in units 18 and 19."),
     "explain_hi": ("यहाँ से गर्भ का मास-क्रम आरम्भ होता है। ‘तत्र’, यानी उनमें: पहले मास में कलल उत्पन्न होता है। "
@@ -292,7 +292,7 @@ AUTHORED["18"] = {
 
 # ---------------------------------------------------------------- unit 19
 AUTHORED["19"] = {
-    "title": "तृतीये पञ्चधा प्ररोहति",
+    "title": "तृतीये पंचधा प्ररोहति",
     "question": "What does unit 19 say happens in the third month?",
     "rule": "In the third month it (the embryo, understood) sprouts in five ways.",
     "limits": ("The subject 'it' is not printed; the card takes it as the embryo. The five are not named here; "
@@ -315,17 +315,17 @@ AUTHORED["19"] = {
               "The month, the manner, the verb.",
               "तृतीये → पंचधा → प्ररोहति."),
         fill(2, "In unit 19, it sprouts ____ (in five ways). Type it in Devanagari or in English letters (e.g. pancadha).",
-             accepts("पञ्चधा"),
+             accepts("पञ्चधा", None, "panchadha"),
              "पञ्चधा (printed पंचधा) = in five ways.",
              "पञ्च (five) + -धा (in … ways) = in five ways.",
              "-धा after a number = in so many ways."),
-        mcq("discriminate", 3, "What does पञ्चधा mean in unit 19?",
-            ("In five ways", "-धा after a number means 'in so many ways'."),
-            [("Five times over", "Five times would be पञ्चकृत्वः."),
-             ("The fifth one", "The fifth would be पञ्चम."),
-             ("Within five days", "No days are named here.")],
-            "पञ्चधा = in five ways (five sprouts).",
-            "number + -धा = in that many ways."),
+        mcq("discriminate", 3, "What does प्ररोहति mean in unit 19?",
+            ("Sprouts, grows out", "प्र + √रुह्: it sprouts, grows out."),
+            [("Arises, is born", "That is जायते (unit 17)."),
+             ("Becomes distinct", "That is स्पष्टीभवन्ति (unit 22)."),
+             ("Is nourished", "That is आप्यायते (unit 16).")],
+            "प्ररोहति = it sprouts, like a plant putting out shoots.",
+            "प्ररोहति = sprouts."),
         mcq("apply", 4, "Unit 19 prints no subject for प्ररोहति. Whom does the card take it to be?",
             ("The embryo, understood", "The note: subject 'it' (the embryo) is understood."),
             [("The mother's blood", "The card does not take the blood as subject here."),
@@ -393,7 +393,7 @@ AUTHORED["20"] = {
                ("तत्वनम्", "Before the voiced व the त् must become द्.")],
               "तत् + यथा → तद्यथा; so तत् + वनम् → तद्वनम्.",
               "त् + voiced consonant → द्."),
-          "A final त् becomes द् before a voiced sound (vowel or voiced consonant)."),
+          "A final त् becomes द् before a vowel or a soft consonant such as य, व, ग, द, ब (before ल it becomes ल्; before a nasal it may become न्)."),
     ],
 }
 
@@ -416,7 +416,7 @@ AUTHORED["21"] = {
              ("Two thighs, two arms and the belly", "The fifth is the head (शिरः), not the belly.")],
             "Two thighs (legs), two arms and the head make the five.",
             "सक्थिनी (2) + बाहू (2) + शिरः (1)."),
-        order(1, "Put the five sprouts of unit 21 in their printed order.",
+        order(1, "Put the three words of unit 21 in their printed order.",
               ["सक्थिनी", "बाहू", "शिरश्च"],
               "Thighs first, then arms, then the head.",
               "सक्थिनी → बाहू → शिरः."),
@@ -501,7 +501,7 @@ AUTHORED["22"] = {
               ("All went, except Rāma", "अन्यत्र with the ablative रामात् = except Rāma."),
               [("All went with Rāma", "With would need सह and an instrumental."),
                ("All went to Rāma", "To would need an accusative (रामम्)."),
-               ("All went elsewhere than Rāma's", "अन्यत्र with an ablative here means except.")],
+               ("All went because of Rāma", "Cause is not the sense of अन्यत्र; with an ablative it means except.")],
               "अन्यत्र + ablative = except: अन्यत्र दन्तादिभ्यः, अन्यत्र रामात्.",
               "अन्यत्र + ablative = except X."),
           "अन्यत्र with an ablative noun means 'except that'."),
@@ -529,11 +529,11 @@ AUTHORED["23"] = {
             "This is the prakṛti, the natural, normal state.",
             "एषा = प्रकृतिः."),
         multi("warmup", 1, "Which are true of unit 23?",
-              [("एषा is feminine, agreeing with प्रकृतिः", "Right: both are f. nom. sg."),
-               ("No verb is printed; 'is' is understood", "Right: the copula is understood."),
-               ("प्रकृतिः is in the accusative", "It is nominative singular."),
-               ("It lists five items", "It has only two words and no list.")],
-              [0, 1],
+              [("प्रकृतिः is in the accusative", "It is nominative singular."),
+               ("एषा is feminine, agreeing with प्रकृतिः", "Right: both are f. nom. sg."),
+               ("It lists five items", "It has only two words and no list."),
+               ("No verb is printed; 'is' is understood", "Right: the copula is understood.")],
+              [1, 3],
               "Two words, both feminine nominative, with 'is' understood.",
               "एषा (f. nom.) + प्रकृतिः (f. nom.) + 'is'."),
         fill(2, "Unit 23: एषा ____ (this is the normal state). Type it in Devanagari or in English letters (e.g. prakriti).",
@@ -621,7 +621,7 @@ AUTHORED["24"] = {
 
 # ---------------------------------------------------------------- unit 25
 AUTHORED["25"] = {
-    "title": "यथास्वं च गर्भस्य",
+    "title": "यथास्वंच गर्भस्य",
     "question": "What does unit 25 say becomes established in the embryo's mind and body?",
     "rule": ("Each according to its own, the states (bhāva) of the embryo that conform to the sign (liṅga) of one of male, "
              "female or neuter become established in the mind and in the body."),
@@ -651,7 +651,7 @@ AUTHORED["25"] = {
                 "यथास्वम्, अनुरूप, भाव, मनसि, संतिष्ठन्ते.", role="extend"),
           "भाव here is a state or disposition; the unit does not say which ones."),
         mcq("discriminate", 3, "By unit 25, to what do the embryo's states conform?",
-            ("The sign of one of male, female or neuter", "…लिङ्गानुरूपाः: conforming to the sign (liṅga) of one of them."),
+            ("The sign (liṅga) of male, female or neuter", "…लिङ्गानुरूपाः: conforming to the sign (liṅga)."),
             [("The season in which it was conceived", "No season is named in this unit."),
              ("The food the mother eats", "Food is not named in this unit."),
              ("The month of its growth", "No month is named in this unit.")],
@@ -668,7 +668,7 @@ AUTHORED["25"] = {
               ("बाला इह", "आः + vowel → आ, and the two words stay apart."),
               [("बालेह", "The visarga drops first; आ and इ are then not merged."),
                ("बालारिह", "Visarga → र् only after a vowel other than अ/आ."),
-               ("बालोऽिह", "ओऽ arises only from अः + अ.")],
+               ("बालो इह", "ओ comes from अः, not from आः.")],
               "अनुरूपाः + एव → अनुरूपा एव; so बालाः + इह → बाला इह.",
               "आः + vowel → आ + vowel (no further joining)."),
           "After आ, a visarga drops before a vowel and the vowels are not joined."),
@@ -712,7 +712,7 @@ NOTES_HI = {
 # ===================================================================== AIDS
 AIDS = {
     "14": {
-        "chain": {"steps": ["रक्त स्थिर हुआ", "रोमराजी प्रकट होती है", "असृक् ऊपर जाता है", "जरायु-शेष को प्राप्त"]},
+        "chain": {"steps": ["रक्त स्थिर हुआ", "रोमराजी प्रकट होती है", "असृक् ऊपर जाता है", "जरायु-शेष को प्राप्त (एक पाठ)"]},
         "sandhi": ("अ + ऊ → ओ: च + ऊर्ध्वम् → चोर्ध्वम् · म् + स्वर: ऊर्ध्वम् + असृक् → ऊर्ध्वमसृक् · "
                    "उस् + भ → उर्भ: प्रादुस् + भवति → प्रादुर्भवति।"),
         "anchors": "रक्त = असृक्: एक ही पंक्ति में दोनों नाम (रक्ते … असृक्)।",
@@ -730,7 +730,7 @@ AIDS = {
         "frame": "कर्ता छपा नहीं; बीच का शब्द बिगड़ा (कफ से रंजित?, अनुमान)। पक्का: स्तन → दूध → आहार-रस से पोषण।",
     },
     "17": {
-        "frame": "तत्र (उनमें, मासों में) → प्रथमे मासे (पहले मास में) → कललम् जायते (कलल बनता है)।",
+        "frame": "तत्र (उनमें) → प्रथमे मासे (पहले मास में) → कललम् जायते (कलल बनता है)।",
         "anchors": "मास-क्रम आरम्भ: १ कलल · २ घन/पेशी/अर्बुद · ३ पाँच अंकुर (इकाई १७-१९)।",
         "sandhi": "म् + ज → ं: कललम् + जायते → कललं जायते (छपाई में जुड़ा)।",
     },
@@ -768,7 +768,7 @@ AIDS = {
         "anchors": "प्रकृति (इकाई २३) ↔ विकृति (इकाई २४): ‘प्र’ = पहले वाला सामान्य, ‘वि’ = विपरीत (मेरी याद-पद्धति)।",
     },
     "24": {
-        "contrast": "प्रकृति (इकाई २३): सामान्य, स्वाभाविक क्रम ↔ विकृति (इकाई २४): इससे अन्यथा, असामान्य अवस्था।",
+        "anchors": "प्रकृति (इकाई २३): सामान्य, स्वाभाविक क्रम ↔ विकृति (इकाई २४): इससे अन्यथा, असामान्य अवस्था।",
         "sandhi": "इः + अ → इर्: विकृतिः + अतः → विकृतिरतः · अः + अ → ओऽ: अतः + अन्यथा → अतोऽन्यथा।",
     },
     "25": {
@@ -787,21 +787,14 @@ IMAGE_SPECS = {
                 "it reaches the remainder of the jarayu (one reading of an ambiguous clause)."),
         "type": "chain",
         "title": "इकाई १४: रक्त स्थिर होने पर",
-        "steps": ["रक्त स्थिर हुआ", "रोमराजी प्रकट होती है", "असृक् ऊपर जाता है", "जरायु-शेष को प्राप्त"],
+        "steps": ["रक्त स्थिर हुआ", "रोमराजी प्रकट होती है", "असृक् ऊपर जाता है", "जरायु-शेष को प्राप्त (एक पाठ)"],
     },
     ("15", "diagram"): {
         "file": "sh2-pina-krishna-15.svg",
-        "alt": ("Mind map of unit 15: from that, plumpness of two parts (cheeks, breasts) and blackness of two parts "
+        "alt": ("Chart of unit 15, parts numbered in printed order: from that, plumpness of two parts (cheeks, breasts) and blackness of two parts "
                 "(lips, nipples)."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  तस्मात्: उससे\n"
-                 "    पीनता: मोटापन\n"
-                 "      कपोल: गाल\n"
-                 "      पयोधर: स्तन\n"
-                 "    कृष्णत्व: कालापन\n"
-                 "      ओष्ठ: ओंठ\n"
-                 "      चूचुक\n"),
+        "code": 'flowchart LR\n  T["तस्मात्: उससे"] --> P["पीनता: मोटापन"]\n  P --> A["१ कपोल: गाल"]\n  P --> B["२ पयोधर: स्तन"]\n  T --> K["कृष्णत्व: कालापन"]\n  K --> C["३ ओष्ठ: ओंठ"]\n  K --> D["४ चूचुक"]\n',
     },
     ("18", "diagram"): {
         "file": "sh2-ghana-peshi-arbuda-18.svg",
@@ -814,25 +807,18 @@ IMAGE_SPECS = {
     },
     ("21", "diagram"): {
         "file": "sh2-pancha-praroha-21.svg",
-        "alt": "Mind map of unit 21: the five sprouts of the third month: two thighs (legs), two arms and the head.",
+        "alt": "Chart of unit 21, in printed order: the five sprouts of the third month: two thighs (legs), two arms and the head.",
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  पाँच अंकुर\n"
-                 "    सक्थिनी = दो जाँघें\n"
-                 "    बाहू = दो बाहें\n"
-                 "    शिरः = सिर\n"),
+        "code": 'flowchart TD\n  R["पाँच अंकुर"] --> A["१ सक्थिनी = दो जाँघें"]\n  R --> B["२ बाहू = दो बाहें"]\n  R --> C["३ शिरः = सिर"]\n',
     },
     ("22", "chain"): {
         "file": "sh2-yugapat-krama-22.svg",
         "alt": ("Flowchart of unit 22: at the time of the sprouting of the thighs and the rest, all limbs, parts and sense "
                 "organs arise together, except teeth and the rest born after birth; but in order they become distinct."),
         "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"सक्थि आदि का<br/>अंकुरण-काल\"] --> B[\"सब अंग, अवयव,<br/>इन्द्रियाँ: एक साथ\"]\n"
-                 "  B -.- X[\"अपवाद: दाँत आदि<br/>जन्म के बाद\"]\n"
-                 "  B --> C[\"पर क्रम से<br/>स्पष्ट होते\"]\n"),
+        "code": 'flowchart TD\n  A["सक्थि आदि का अंकुरण-काल"] --> B["सब अंग, अवयव, इन्द्रियाँ: एक साथ"]\n  B -.- X["अपवाद: दाँत आदि, जन्म के बाद"]\n  B --> C["पर क्रम से स्पष्ट होते"]\n',
     },
-    ("24", "contrast"): {
+    ("24", "anchors"): {
         "file": "sh2-prakriti-vikriti-24.svg",
         "alt": "Split of units 23 and 24: prakrti, the natural normal course, against vikrti, otherwise than this, the abnormal state.",
         "type": "split",
@@ -845,9 +831,6 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 25: the sign of one of male, female or neuter; the embryo's states conform to it, each "
                 "according to its own; they become established in the mind and in the body."),
         "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"लिंग: पुरुष, स्त्री या<br/>नपुंसक में से एक\"] --> B[\"उसके अनुरूप ही<br/>गर्भ के भाव\"]\n"
-                 "  B --> C[\"मन में\"]\n"
-                 "  B --> D[\"शरीर में\"]\n"),
+        "code": 'flowchart TD\n  A["लिंग: पुरुष, स्त्री या नपुंसक में से एक"] --> B["उसके अनुरूप ही गर्भ के भाव (यथास्वम्)"]\n  B --> C["मन में"]\n  B --> D["शरीर में"]\n',
     },
 }
