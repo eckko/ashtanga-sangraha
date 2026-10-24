@@ -4,7 +4,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 26
 AUTHORED["26"] = {
-    "title": "प्रणेता के दोष: अतिहत से अतिवेग तक",
+    "title": "अतिहत से अतिवेग तक: दोषों की सूची",
     "question": "Which faults of the one who administers the enema does this verse list?",
     "rule": ("A list of faults in giving the enema: (damaged first word), struck too much, lifted up, slanting, "
              "hurried, shaken; too slow, outer, too forceful. Line 2 calls them faults, on a conjectural reading "
@@ -183,7 +183,7 @@ AUTHORED["28"] = {
 # ---------------------------------------------------------------- unit 29
 AUTHORED["29"] = {
     "title": "कटीगुदजङ्घोरुबस्तिस्तम्भातिभेदनम्",
-    "question": "What follows a nozzle introduced quickly or drawn out, and how is it treated?",
+    "question": "What follows when it is introduced quickly or drawn out, and how is it treated?",
     "rule": ("There would be stiffness and severe splitting pain of the waist, anus, calves, thighs and bladder. "
              "There: Vāta-destroying food, sweating and oil massages, together with enemas."),
     "limits": ("'Ati' may go with stiffness as well as with splitting pain. In line 1 basti is the bladder (a body "
@@ -219,11 +219,11 @@ AUTHORED["29"] = {
              ("Enema in line 1, bladder in line 2", "The other way round: site first, remedy second.")],
             "Read बस्ति by its company: among body parts the bladder, among remedies the enema.",
             "बस्ति = bladder (site) or enema (treatment), by context."),
-        mcq("apply", 4, "The waist and thighs stiffen after a nozzle was drawn out roughly. Which remedies does line 2 give?",
+        mcq("apply", 4, "The waist and thighs stiffen after it was introduced quickly or drawn out. Which remedies does line 2 give?",
             ("Vāta-destroying food, sweating, massage, enemas", "भोजनं वातघ्नं स्वेदाभ्यङ्गाः सबस्तयः."),
             [("Cool astringent and sweet affusions here", "Cool affusions are verse 33."),
              ("Ghee, milk and a picchā enema", "The picchā enema is verse 34."),
-             ("Purgation and throat-pressing", "These are verse 36.")],
+             ("Purgation and the galapīḍā procedure", "These are verse 36.")],
             "Stiffness and splitting pain → Vāta-destroying food, sweating, oil massage, with enemas.",
             "स्तम्भ-भेदन → वातघ्न भोजन, स्वेद, अभ्यङ्ग, बस्ति."),
         mcq("transfer", 5, "Like जङ्घा + ऊरु → जङ्घोरु (आ + ऊ → ओ), how do महा + उदर join?",
@@ -245,7 +245,7 @@ AUTHORED["30"] = {
              "straight and cleansed it, one should lead it in again."),
     "limits": ("The subject of 'does not go' is not stated (probably the nozzle or the matter given). The grammar of "
                "'netre' beside 'tat ṛju' is loose and unresolved. The fold (valī) is not further specified."),
-    "explain_hi": ("जब द्वार, यानी गुदा का मुख, तिरछी वलि यानी सिलवट से ढका हो, या बँधा हुआ हो, तब वह भीतर नहीं जाता। तब उसे "
+    "explain_hi": ("जब द्वार यानी मुख तिरछी वलि यानी सिलवट से ढका हो, या बँधा हुआ हो, तब वह नहीं जाता। तब उसे "
                    "सीधा करके बाहर निकालो, शुद्ध करो, और फिर से भीतर ले जाओ। क्या नहीं जाता, यह नहीं कहा; सम्भवतः नेत्र यानी "
                    "नली या दी जाने वाली वस्तु। ‘नेत्रे’ और ‘तत्’ का व्याकरण ढीला है, उस पर प्रश्न नहीं। यह इकाई २६ के ‘तिर्यक्’ "
                    "दोष से मेल खाती है, पर श्लोक यह जोड़ नहीं बताता।"),
@@ -276,7 +276,7 @@ AUTHORED["30"] = {
              ("पुन + अर्नयेत्", "अर्नयेत् is not a word.")],
             "पुनः (again) + नयेत् (should lead).",
             "पुनः → पुनर् before a voiced sound."),
-        mcq("apply", 4, "The nozzle will not go in because a fold covers the opening. What does line 2 say to do?",
+        mcq("apply", 4, "It will not go, because a slanting fold covers the opening. What does line 2 say to do?",
             ("Draw out, cleanse, insert again", "तदृजु निष्कास्य संशोध्य च पुनर्नयेत्."),
             [("Push harder until it slides past", "The verse never says to push harder."),
              ("Leave it in, give a purgation", "No purgation is named here."),
@@ -303,7 +303,7 @@ AUTHORED["31"] = {
     "limits": ("The print has an extra ṃ in pīḍyamāne'ntarā, and valī (fold) at the end is probably balī (the strong "
                "one), both flagged. The subject of the pressing is not named; that the producer is the wind is "
                "probable, not stated."),
-    "explain_hi": ("बस्ति दबाते समय बीच में छोड़ देने पर, गुदा में अनिल यानी वायु रुककर, टकराकर लौटती है। तब वह, यानी बलवान "
+    "explain_hi": ("दबाते समय बीच में छोड़ देने पर (किसे दबाया, यह नहीं कहा), गुदा में अनिल यानी वायु रुककर, टकराकर लौटती है। तब वह, यानी बलवान "
                    "(अनुमानित पाठ), छाती और सिर में पीड़ा और जाँघों में साद यानी शिथिलता उत्पन्न कर सकता है। छपा ‘वली’ यहाँ अर्थ "
                    "नहीं देता; ‘बली’ पढ़ा गया, क्योंकि इस छापे में व और ब बदलते हैं। उपाय अगले श्लोक में है।"),
     "hook": "बीच में छोड़ा दबाव: वायु लौटे, छाती-सिर में दर्द, जाँघें ढीली।",
@@ -321,9 +321,9 @@ AUTHORED["31"] = {
               "Released, in the anus, struck back, the wind; then chest-and-head pain, sinking, of the thighs.",
               "मुक्ते · गुदे · प्रतिहतः · अनिलः · उरःशिरोरुजम् · सादम् · ऊर्वोः."),
         match(2, "Match each word of line 2 to its meaning.",
-              [["उरः", "chest"], ["शिरः", "head"], ["रुजा", "pain"], ["साद", "sinking, exhaustion"]],
+              [["उरः", "chest"], ["शिरः", "head"], ["रुज्", "pain"], ["साद", "sinking, exhaustion"]],
               "Line 2 names the effects: pain of chest and head, sinking of the thighs.",
-              "उरः = chest; शिरः = head; रुजा = pain; साद = sinking.",
+              "उरः = chest; शिरः = head; रुज् (रुजम्) = pain; साद = sinking.",
               role="extend",
               teaches="Let go in between, the struck-back wind would produce pain of the chest and head and sinking of the thighs."),
         mcq("discriminate", 3, "What form is ऊर्वोः here?",
@@ -344,7 +344,7 @@ AUTHORED["31"] = {
             ("वातोऽपि", "-अः + अ → -ओ, and the अ is dropped (ऽ)."),
             [("वाताऽपि", "-अः does not become आ before अ."),
              ("वातरपि", "र् appears only after vowels other than अ / आ."),
-             ("वातसपि", "स् is kept only before त् / थ्.")],
+             ("वातसपि", "Visarga becomes स् before त् / थ्, not before a vowel.")],
             "-अः + अ- → -ओऽ.",
             "-अः + अ → ओऽ.",
             teaches="A final -अः before अ- becomes -ओ and the अ- is dropped, marked by ऽ: प्रतिहतोऽनिलः, वातोऽपि."),
@@ -360,7 +360,7 @@ AUTHORED["32"] = {
     "limits": ("Bilva is wood-apple (Aegle marmelos, standard); śyāmā is disputed (often read as trivṛt) and left "
                "unidentified. Whether bilvādi and śyāmādi are named groups, what fruit, and which urine are not "
                "stated. Kampana may also join abhihate ('struck by trembling'); trembling as a sign is not certain."),
-    "explain_hi": ("पहली पंक्ति इकाई ३१ की लौटी वायु का उपाय देती है: ऐसी बस्ति जिसमें बिल्व यानी बेल आदि, फल, श्यामा आदि और "
+    "explain_hi": ("पहली पंक्ति इकाई ३१ की लौटी वायु का उपाय देती है: ऐसी बस्ति जिसमें बिल्व यानी बेल (मानक पहचान) आदि, फल, श्यामा आदि और "
                    "मूत्र हों। ‘-वान्’ का अर्थ है ‘वाला’। दूसरी पंक्ति नई दशा बताती है: गुदा आहत होने पर दाह, दवथु यानी तपन, शोफ "
                    "यानी सूजन, और कम्पन। श्यामा की पहचान विवादित है; कौन सा फल और कौन सा मूत्र, यह नहीं कहा। ‘कम्पनाभिहते’ को "
                    "दो तरह पढ़ सकते हैं, इसलिए कम्पन पर प्रश्न नहीं।"),
@@ -448,13 +448,13 @@ AUTHORED["33"] = {
              ("सेकम् + तत्र", "म् before त् would give सेकं तत्र.")],
             "सेकाः (affusions) + तत्र (there).",
             "विसर्ग + त् → स्त्."),
-        mcq("apply", 4, "In verse 32 the anus was injured, with burning and swelling. What does line 1 here add?",
-            ("Cool astringent and sweet affusions", "कषायमधुराः शीताः सेकास्तत्र सबस्तयः."),
-            [("Warm oil massage of the anus and sweating", "Oil massage and sweating are verses 28-29."),
-             ("A purgation and then a sharp nirūha enema", "No purgation is named here."),
-             ("Ghee, milk and a picchā enema", "Those are verse 34.")],
-            "Injured anus → cool astringent-sweet affusions, with enemas.",
-            "दाह-शोफ → शीत सेक + बस्ति."),
+        mcq("apply", 4, "A nozzle was introduced beyond measure. What does line 2 say is wounded?",
+            ("The fold (बलि)", "क्षणनाद्बलेः = from the wounding of the fold."),
+            [("The bladder (बस्ति)", "The bladder is named in verse 29, not here."),
+             ("The throat (गल)", "The throat is verse 36."),
+             ("The thigh (ऊरु)", "Thighs are verses 29 and 31.")],
+            "अतिमात्रप्रणीतेन नेत्रेण क्षणनाद्बलेः: by a nozzle introduced beyond measure, from the wounding of the fold.",
+            "बलि = fold; क्षणन = wounding."),
         mcq("transfer", 5, "Like अतिमात्रप्रणीतेन नेत्रेण (by a nozzle introduced too far), which means by a hurried hand (हस्त, m.)?",
             ("द्रुतेन हस्तेन", "The adjective takes the noun's case: both instrumental singular."),
             [("द्रुतः हस्तेन", "द्रुतः is nominative; it does not agree with हस्तेन."),
@@ -530,15 +530,15 @@ AUTHORED["34"] = {
 AUTHORED["35"] = {
     "title": "न भावयति मन्दस्तु",
     "question": "What goes wrong with the slow and the outer administration, and what is to be done?",
-    "rule": ("The slow one does not take effect (bhāvayati), and the outer one returns quickly. There the sneha "
+    "rule": ("The slow one does not impregnate or soak in (bhāvayati; rendering open), and the outer one returns quickly. There the sneha "
              "should be administered again, properly, by one who wishes for success."),
     "limits": ("No noun is stated for 'slow' and 'outer'; they presumably go back to the faults of verse 26. "
                "Bhāvayati has no object, and its rendering ('impregnate' or 'soak') is an open owner decision. "
                "The kind of sneha is not stated."),
-    "explain_hi": ("इकाई २६ में अतिमन्दक और बाह्य दोष गिने गए थे। यहाँ: मन्द यानी बहुत धीरे दिया गया भावित नहीं करता, यानी असर "
-                   "नहीं पहुँचाता, और बाहरी शीघ्र लौट आता है। तब सफलता चाहने वाले को स्नेह यानी तैल या घी जैसा चिकना द्रव्य फिर से "
+    "explain_hi": ("‘मन्द’ और ‘बाह्य’ सम्भवतः इकाई २६ के अतिमन्दक और बाह्य दोषों की ओर संकेत करते हैं। यहाँ: मन्द भावित नहीं करता "
+                   "(भिगोता या व्याप्त नहीं करता; अर्थ पर निर्णय खुला), और बाहरी शीघ्र लौट आता है। तब सफलता चाहने वाले को स्नेह यानी तैल या घी जैसा चिकना द्रव्य फिर से "
                    "ठीक तरह देना चाहिए। ‘मन्द’ और ‘बाह्य’ के साथ संज्ञा नहीं दी गई।"),
-    "hook": "धीरे दिया तो असर नहीं, बाहर का तो लौटे: फिर से ठीक से दो।",
+    "hook": "धीरे दिया तो भावित नहीं, बाहर का तो लौटे: फिर से ठीक से दो।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does the outer (बाह्य) one do, in line 1?",
@@ -557,7 +557,7 @@ AUTHORED["35"] = {
               "Line 1 says what goes wrong with the slow and the outer administration.",
               "मन्द = slow; बाह्य = outer; आशु = quickly; निवर्तते = returns.",
               role="extend",
-              teaches="The slow one does not take effect, the outer one returns quickly: then the sneha is given again properly."),
+              teaches="The slow one does not soak in (rendering open), the outer one returns quickly: then the sneha is given again properly."),
         mcq("discriminate", 3, "Which split is right for बाह्यश्चाशु?",
             ("बाह्यः + च + आशु", "-अः + च → -अश्च; च + आ → चा."),
             [("बाह्यम् + च + आशु", "म् before च would give बाह्यं च."),
@@ -589,10 +589,10 @@ AUTHORED["36"] = {
     "question": "What happens when it is pressed too much, and which measures are named?",
     "rule": ("Pressed too much, it stays in the belly (koṣṭha) or comes to the throat. There: an enema, purgation, "
              "and the procedure beginning with galapīḍā."),
-    "limits": ("The subject is not stated (probably the sneha given). Galapīḍā is taken as pressing of the throat; "
+    "limits": ("The subject is not stated. Galapīḍā is taken as pressing of the throat; "
                "throat-pain is also possible (open). The procedures included in 'and so on' are not named. No verb "
                "in line 2."),
-    "explain_hi": ("बहुत ज़ोर से दबाकर दी गई चीज़, सम्भवतः स्नेह, या तो कोष्ठ यानी पेट में ठहर जाती है या गले तक आ जाती है। उपाय: "
+    "explain_hi": ("बहुत ज़ोर से दबाकर दी गई चीज़ (कर्ता नहीं कहा) या तो कोष्ठ यानी पेट में ठहर जाती है या गले तक आ जाती है। उपाय: "
                    "बस्ति, विरेक यानी दस्त लाना, और गलपीडा से आरम्भ होने वाला कर्म। ‘गलपीडा’ का अर्थ गला दबाना माना गया, पर गले "
                    "की पीड़ा भी हो सकता है; इस पर प्रश्न नहीं। यह इकाई २६ के ‘अतिवेग’ दोष से मेल खाती है, पर श्लोक यह नहीं कहता।"),
     "hook": "बहुत दबाया: पेट में अटके या गले चढ़े; बस्ति, विरेक, गलपीडा आदि।",
@@ -644,12 +644,12 @@ AUTHORED["36"] = {
 AUTHORED["37"] = {
     "title": "यथाण्डं तरुणं पूर्णं तैलपात्रं यथा",
     "question": "How is the patient just purified by emesis and the rest to be regarded?",
-    "rule": ("The one purified by emesis and the rest, with body, strength and fire wasted: as a tender egg, as a "
+    "rule": ("The one purified by emesis and the rest, with emaciated body, strength and fire: as a tender egg, as a "
              "vessel full of oil, so (verse 38: the physician should protect him)."),
     "limits": ("No noun is stated for the patient. Kṣāma may qualify only the body or all three. Anala is 'fire'; "
                "the digestive fire is probable, not stated. The sentence runs on into verse 38, where the physician "
                "is the subject."),
-    "explain_hi": ("वमन आदि से शुद्ध किया हुआ रोगी, जिसकी देह, बल और अनल यानी अग्नि क्षाम यानी कृश हो गई हैं, ऐसे है जैसे कोमल "
+    "explain_hi": ("वमन आदि से शुद्ध किया हुआ रोगी, जो क्षाम यानी कृश देह, बल और अनल यानी अग्नि वाला है (क्षाम केवल देह से या तीनों से जुड़ सकता है), ऐसे है जैसे कोमल "
                    "अंडा, या तेल से लबालब भरा पात्र। दोनों उपमाएँ बताती हैं कि उसे बहुत सँभालकर रखना है; यह आदेश इकाई ३८ में आता "
                    "है: वैद्य यत्न से उसकी रक्षा करे। ‘अनल’ सम्भवतः पाचक अग्नि है, पंक्ति केवल ‘अग्नि’ कहती है।"),
     "hook": "शोधन के बाद रोगी: कच्चा अंडा, तेल से भरा पात्र, सँभालकर।",
@@ -664,14 +664,14 @@ AUTHORED["37"] = {
             "वमन = emesis; -आद्य = and the rest."),
         order(1, "Put these phrases in the order of the verse.",
               ["वमनाद्यैः", "विशुद्धम्", "क्षामदेहबलानलम्", "यथाण्डं तरुणम्", "पूर्णं तैलपात्रं यथा"],
-              "Purified by emesis and the rest, wasted in body, strength and fire; as a tender egg, as a full oil vessel.",
+              "Purified by emesis and the rest, with emaciated body, strength and fire; as a tender egg, as a full oil vessel.",
               "वमनाद्यैः · विशुद्धम् · क्षामदेहबलानलम् · यथाण्डं तरुणम् · पूर्णं तैलपात्रं यथा."),
         match(2, "Match each word to its meaning.",
               [["क्षाम", "emaciated, wasted"], ["अनल", "fire"], ["तरुण", "tender, young"], ["तैलपात्र", "vessel of oil"]],
               "Line 1 describes the patient; line 2 gives the two comparisons.",
               "क्षाम = wasted; अनल = fire; तरुण = tender; तैलपात्र = oil vessel.",
               role="extend",
-              teaches="After purification the patient, wasted in body, strength and fire, is like a tender egg or a full oil vessel."),
+              teaches="After purification the patient, with emaciated body, strength and fire, is like a tender egg or a full oil vessel."),
         mcq("discriminate", 3, "Which split is right for वमनाद्यैर्विशुद्धम्?",
             ("वमनाद्यैः + विशुद्धम्", "-ऐः before a voiced sound (व) → -ऐर्."),
             [("वमनाद्यैर् + इशुद्धम्", "इशुद्धम् is not a word."),
@@ -681,7 +681,7 @@ AUTHORED["37"] = {
             "-ऐः + voiced consonant → -ऐर्."),
         mcq("apply", 4, "A patient has had emesis and is now weak. How should he be regarded, by line 2?",
             ("Like a tender egg or a full oil vessel", "यथाण्डं तरुणं पूर्णं तैलपात्रं यथा."),
-            [("Like a strong young ox, ready for hard work", "The verse says his strength is wasted."),
+            [("Like a strong young ox, ready for hard work", "No such comparison is in the verse; it compares him to an egg and an oil vessel."),
              ("Like dry wood, ready to be burned", "No such comparison is in the verse."),
              ("Like a ripe fruit, ready to fall", "No such comparison is in the verse.")],
             "Both images ask for great care: fragile egg, brim-full vessel.",
@@ -735,7 +735,7 @@ AUTHORED["38"] = {
              ("They are mixed with the sweet ones", "ततः gives a sequence, not a mixture.")],
             "दद्यान्मधुरहृद्यानि ततोऽम्ललवणौ रसौ: sweet first, then sour and salty.",
             "ततः = then."),
-        mcq("apply", 4, "A physician gives sour and salty food at once after purification. What does this verse say?",
+        mcq("apply", 4, "A physician gives sour and salty things at once after purification. What does this verse say?",
             ("Sweet, agreeable ones should come first", "Sweet and agreeable first; sour and salty then (ततः)."),
             [("That is exactly the verse's order", "The verse puts sweet first."),
              ("The order of tastes does not matter", "The verse gives an order with ततः."),
@@ -756,7 +756,7 @@ AUTHORED["38"] = {
 # ---------------------------------------------------------------- unit 39
 AUTHORED["39"] = {
     "title": "स्वादुतिक्तौ तथा भूयः",
-    "question": "Which tastes come next in the graded feeding, and what is alternated?",
+    "question": "Which tastes come next in the graded feeding, and what does line 2 begin to name?",
     "rule": ("Likewise again, sweet and bitter; then astringent and pungent. Line 2 begins: of the mutually opposed "
              "tastes, and of the unctuous and the dry (the sentence ends in verse 40)."),
     "limits": ("'Give' and 'the two tastes' are carried from verse 38. 'Snigdharūkṣayoḥ' may be genitive or locative "
@@ -880,7 +880,7 @@ NOTES_HI = {
     "36": "विश्वास: मध्यम। कोई पाठ-दोष नहीं। कर्ता नहीं दिया। ‘कोष्ठ’ = भंडार, पेट। खुला बिन्दु (०५.०७.७१): ‘गलपीडा’ = गला दबाना (लिया, ०५.०७.३२ के कण्ठग्रह के अनुरूप) या गले की पीड़ा; स्वामी तय करें; इसके अर्थ पर प्रश्न नहीं। दूसरी पंक्ति में क्रिया नहीं। संधि जाँची: तिष्ठत्यायाति = तिष्ठति + आयाति (इ + आ → या); बस्तिर्विरेकश्च = बस्तिः + विरेकः + च।",
     "37": "विश्वास: मध्यम। कोई पाठ-दोष नहीं। रोगी की संज्ञा नहीं दी। ‘क्षाम’ (कृश) केवल देह के साथ या तीनों के साथ, खुला छोड़ा। ‘अनल’ = अग्नि; समीक्षक: बल के पास होने से सम्भवतः पाचक अग्नि, पर संस्कृत केवल ‘अग्नि’ कहती है। वाक्य ०५.०७.७४ तक चलता है जहाँ वैद्य कर्ता है; इस पंक्ति में क्रिया नहीं। संधि जाँची: वमनाद्यैर्विशुद्धं = वमनाद्यैः + विशुद्धम्; यथाऽण्डं = यथा + अण्डम् (छापे में अवग्रह)।",
     "38": "विश्वास: मध्यम। पाठ-दोष (०५.०७.७४): छपा ‘प्रयंततो’ में त्न के स्थान पर अनुस्वार; पाठ ‘प्रयत्नतः’; इस पर प्रश्न नहीं। रोगी कर्म के रूप में नहीं कहा (‘उसे’ अर्थ के लिए जोड़ा)। ‘अपचार’ = नियम-भंग, पथ्य में चूक। ‘मधुरहृद्यानि’ (नपुंसक बहुवचन) की संज्ञा नहीं दी। ०५.०७.७५-७९ एक अंश प्रतीत होता है जो ‘प्रकृतिं गतः’ पर पूरा होता है। संधि जाँची: रक्षेत्सर्वस्माद् = रक्षेत् + सर्वस्मात्; दद्यान्मधुर = दद्यात् + मधुर (त् → न् न/म से पहले); ततोऽम्ल = ततः + अम्ल (अः + अ → ओऽ)।",
-    "39": "विश्वास: मध्यम। कोई पाठ-दोष नहीं। अण्डाकार वाक्य: ‘दद्यात्’ और ‘रसौ’ ०५.०७.७५ से चलते हैं। यहाँ कषाय रस (कसैला) है, क्योंकि रसों की सूची में है, काढ़ा नहीं। दूसरी पंक्ति (०५.०७.७७) षष्ठियों की शृंखला है जो ०५.०७.७८ के ‘उपयोगेन’ पर निर्भर प्रतीत होती है। ‘स्निग्धरूक्षयोः’ द्विवचन, षष्ठी या सप्तमी; संज्ञा नहीं दी। संधि जाँची: स्वादुतिक्तौ तथा: कोई संधि नहीं; कषायकटुकौ ततः।",
+    "39": "विश्वास: मध्यम। कोई पाठ-दोष नहीं। लुप्त-पद (अधूरा) वाक्य: ‘दद्यात्’ और ‘रसौ’ ०५.०७.७५ से चलते हैं। यहाँ कषाय रस (कसैला) है, क्योंकि रसों की सूची में है, काढ़ा नहीं। दूसरी पंक्ति (०५.०७.७७) षष्ठियों की शृंखला है जो ०५.०७.७८ के ‘उपयोगेन’ पर निर्भर प्रतीत होती है। ‘स्निग्धरूक्षयोः’ द्विवचन, षष्ठी या सप्तमी; संज्ञा नहीं दी। संधि जाँची: स्वादुतिक्तौ तथा: कोई संधि नहीं; कषायकटुकौ ततः।",
     "40": "विश्वास: मध्यम। कोई पाठ-दोष नहीं। पहली पंक्ति ०५.०७.७७ की षष्ठियों को पूरा करती प्रतीत होती है: ‘विरोधी रसों और स्निग्ध-रूक्ष के व्यत्यास से प्रयोग द्वारा’। ‘व्यत्यास’ = अदल-बदल (या क्रम उलटना)। ‘प्रकृति’ = व्यक्ति की स्वाभाविक अवस्था पढ़ा; पंक्ति परिभाषा नहीं देती। ‘तम्’ = उपचारित व्यक्ति (नाम नहीं)। ‘सर्वसह’ क्या सहता है, नहीं कहा। संधि जाँची: व्यत्यासादुपयोगेन = व्यत्यासात् + उपयोगेन (त् → द्); क्रमात्तं = क्रमात् + तम्; स्थिरबलो विज्ञेयः = स्थिरबलः + विज्ञेयः।",
 }
 
@@ -888,7 +888,7 @@ AIDS = {
     "26": {
         "diagram": {"groups": [{"label": "पंक्ति १ (पहला शब्द अस्पष्ट)", "items": ["अतिहत यानी बहुत आघात से", "उत्क्षिप्त यानी ऊपर उठाकर", "तिर्यक् यानी तिरछा", "द्रुत यानी जल्दी में", "कम्पित यानी हिलाकर"]},
                                {"label": "पंक्ति २", "items": ["अतिमन्दक यानी बहुत धीरे", "बाह्य यानी बाहरी", "अतिवेग यानी बहुत ज़ोर से"]}]},
-        "chunks": "संवाता (अस्पष्ट) | तिहतोत्क्षिप्त- | तिर्यग्द्रुतकंपिताः ‖ अतिमंदक- | बाह्यातिवेगदोषाः | प्रणेहंतृां (अनुमानित: प्रणेतॄणाम्)।",
+        "chunks": "संवातातिहत- (पहला सदस्य ‘संवात’ अस्पष्ट) | उत्क्षिप्ततिर्यग्द्रुतकंपिताः ‖ अतिमंदकबाह्यातिवेग- | दोषाः प्रणेहंतृां (अनुमानित: प्रणेतॄणाम्)।",
         "sandhi": "क् → ग् घोष से पहले: तिर्यक् + द्रुत → तिर्यग्द्रुत; अ + उ → ओ: हत + उत्क्षिप्त → हतोत्क्षिप्त; अ + अ → आ: बाह्य + अतिवेग → बाह्यातिवेग।",
         "seesaw": "अतिमन्दक (बहुत धीरे) ↔ अतिवेग (बहुत ज़ोर से): दोनों सिरे दोष हैं।",
     },
@@ -955,10 +955,10 @@ AIDS = {
         "anchors": "अति = बहुत · प्रपीडित = दबाया · कोष्ठ = पेट · गल = गला · विरेक = दस्त लाना · कर्म = प्रक्रिया।",
     },
     "37": {
-        "diagram": {"groups": [{"label": "रोगी (पंक्ति १)", "items": ["वमन आदि से शुद्ध", "देह क्षाम यानी कृश", "बल क्षाम", "अनल यानी अग्नि क्षाम"]},
+        "diagram": {"groups": [{"label": "रोगी (पंक्ति १)", "items": ["वमन आदि से शुद्ध", "क्षाम यानी कृश देह, बल, अनल"]},
                                {"label": "उपमा (पंक्ति २)", "items": ["कोमल अंडा", "तेल से भरा पात्र"]}]},
         "chunks": "वमनाद्यैर्विशुद्धं च | क्षामदेहबलानलं ‖ यथाऽण्डं तरुणं पूर्णं | तैलपात्रं यथा तथा।",
-        "sandhi": "ऐः + घोष → ऐर्: वमनाद्यैः + विशुद्धम् → वमनाद्यैर्विशुद्धम्; अ + आ → आ: वमन + आद्यैः → वमनाद्यैः; आ + अ → आऽ: यथा + अण्डम् → यथाऽण्डम्।",
+        "sandhi": "ऐः + घोष → ऐर्: वमनाद्यैः + विशुद्धम् → वमनाद्यैर्विशुद्धम्; अ + आ → आ: वमन + आद्यैः → वमनाद्यैः; आ + अ → आ: यथा + अण्डम् → यथाण्डम् (छापे में अवग्रह: यथाऽंडं)।",
         "story": "मेरा बनाया चित्र: वैद्य के हाथ में एक कच्चा अंडा और लबालब तेल का कटोरा; ज़रा झटका लगे तो अंडा फूटे, तेल छलके। शोधन के बाद रोगी ऐसा ही नाज़ुक है।",
     },
     "38": {
@@ -986,7 +986,7 @@ IMAGE_SPECS = {
         "file": "ka7-pranetri-dosha-26.svg",
         "alt": "Mind map of the eight clear faults of giving the enema in verse 26: struck too much, lifted up, slanting, hurried, shaken, too slow, outer, too forceful",
         "type": "mermaid",
-        "code": ('mindmap\n  देने वाले के दोष\n    बहुत आघात\n    ऊपर उठाना\n    तिरछा\n    जल्दी में\n'
+        "code": ('mindmap\n  दोष (पंक्ति १-२)\n    बहुत आघात\n    ऊपर उठाना\n    तिरछा\n    जल्दी में\n'
                  '    हिलाना\n    बहुत धीरे\n    बाहरी\n    बहुत ज़ोर\n'),
     },
     ("29", "diagram"): {
@@ -999,10 +999,10 @@ IMAGE_SPECS = {
     },
     ("30", "chain"): {
         "file": "ka7-vali-netra-30.svg",
-        "alt": "Chain of four steps in verse 30: opening covered by a slanting fold so the nozzle does not go; draw it out straight; cleanse it; lead it in again",
+        "alt": "Chain of four steps in verse 30: opening covered by a slanting fold or blocked, so it does not go; draw it out straight; cleanse it; lead it in again",
         "type": "chain",
-        "title": "श्लोक ३०: सिलवट में अटकी नली",
-        "steps": ["द्वार सिलवट से ढका: नहीं जाती", "सीधी करके बाहर निकालो", "शुद्ध करो", "फिर भीतर ले जाओ"],
+        "title": "श्लोक ३०: द्वार ढका या बँधा",
+        "steps": ["तिरछी सिलवट से ढका या बँधा: नहीं जाता", "सीधा करके बाहर निकालो", "शुद्ध करो", "फिर भीतर ले जाओ"],
     },
     ("31", "chain"): {
         "file": "ka7-pratihata-anila-31.svg",
@@ -1028,10 +1028,10 @@ IMAGE_SPECS = {
     },
     ("37", "diagram"): {
         "file": "ka7-anda-patra-37.svg",
-        "alt": "Two columns for verse 37: the patient purified by emesis, wasted in body, strength and fire; compared with a tender egg and a vessel full of oil",
+        "alt": "Two columns for verse 37: the patient purified by emesis, with emaciated body, strength and fire; compared with a tender egg and a vessel full of oil",
         "type": "split",
         "title": "श्लोक ३७: शोधन के बाद रोगी",
-        "cols": [["रोगी", ["वमन आदि से शुद्ध", "देह कृश", "बल कृश", "अग्नि कृश"]],
+        "cols": [["रोगी", ["वमन आदि से शुद्ध", "कृश देह, बल, अग्नि"]],
                  ["उपमा", ["कोमल अंडा", "तेल से भरा पात्र"]]],
     },
     ("39", "chain"): {
