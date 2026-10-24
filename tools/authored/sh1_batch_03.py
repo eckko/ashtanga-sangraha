@@ -132,11 +132,11 @@ AUTHORED["30"] = {
     "question": "What does the sure part of unit 30 say of the semen by Pitta, and of the semen by Śleṣma (Kapha)?",
     "rule": ("By Pitta it issues slightly yellow and non-slimy (the rest of that line is unclear). By Śleṣma (Kapha) it is "
              "mixed with marrow, abundant, bound, and sinks somewhat in water."),
-    "limits": ("Low confidence. दहद्विष is unclear and untranslated; whether नीलं वा means 'or blue' or (read अनीलं वा) "
-               "'or not blue' is undecided: no question rests on these. 'Mixed with marrow' is literal; the text does not "
-               "explain it. The unit joins two printed lines."),
+    "limits": ("Low confidence; joins two lines. दहद्विष is unclear; नीलं वा is read 'or blue' (stray अ as a slip), अनीलं वा "
+               "('or not blue') possible but unsuited. No question rests on the first line. 'Mixed with marrow' is literal "
+               "and unexplained."),
     "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है। पहली में पित्त से निकलने वाला वीर्य: थोड़ा पीला और पिच्छिलता (चिकनाहट) रहित; "
-                   "आगे ‘नीलं वा’ (या नीला; दूसरी पढ़ाई में ‘अनीलं वा’) और अस्पष्ट शब्द ‘दहद्विष’ है, ये पक्के नहीं। "
+                   "आगे ‘नीलं वा’ (या नीला; ‘अनीलं वा’ भी सम्भव, पर ठीक नहीं बैठता) और अस्पष्ट शब्द ‘दहद्विष’ है; यह पंक्ति कम विश्वसनीय है। "
                    "दूसरी पंक्ति स्पष्ट है: श्लेष्मा (कफ) से वह मज्जा से मिला हुआ, बहुत, बँधा हुआ होता है और पानी में कुछ डूबता है। "
                    "‘मज्जा से मिला’ शाब्दिक अर्थ है; पाठ इसका आशय नहीं समझाता।"),
     "hook": "पित्त: थोड़ा पीला; कफ: बहुत, बँधा, पानी में डूबे।",
@@ -154,10 +154,10 @@ AUTHORED["30"] = {
               "Mixed with marrow, abundant, bound, and in water sinks somewhat: by Śleṣma.",
               "मज्जोपसंसृष्टम् → प्रभूतम् → विबद्धम् → अम्भसि → किंचिन्मज्जति → श्लेष्मणा."),
         T(match(2, "Match each word of unit 30 to its meaning on the card.",
-                [["पीत", "yellow"], ["प्रभूत", "abundant"], ["विबद्ध", "bound"], ["अम्भसि", "in water"],
+                [["उपसंसृष्ट", "mixed with"], ["प्रभूत", "abundant"], ["विबद्ध", "bound"], ["अम्भसि", "in water"],
                  ["मज्जति", "sinks"]],
-                "One word from the sure part of the Pitta line, four from the Śleṣma line.",
-                "पीत, प्रभूत, विबद्ध, अम्भसि, मज्जति.", role="extend"),
+                "Five words of the Śleṣma line, the secure part of the unit.",
+                "उपसंसृष्ट, प्रभूत, विबद्ध, अम्भसि, मज्जति.", role="extend"),
           "मज्जति (sinks) is a verb; मज्ज- in मज्जोपसंसृष्ट is marrow: two different words."),
         mcq("discriminate", 3, "Which split of किंचिन्मज्जति is right?",
             ("किंचित् + मज्जति", "त् before the nasal म becomes न्."),
@@ -166,13 +166,13 @@ AUTHORED["30"] = {
              ("किंचिम् + मज्जति", "म् + म would give म्म, not न्म.")],
             "किंचित् (somewhat) + मज्जति (sinks).",
             "त् + nasal → न् + nasal."),
-        mcq("apply", 4, "Which sign does the sure part of unit 30's first line give for the semen by Pitta?",
-            ("Slightly yellow", "किंचित्पीतम्: slightly yellow, by Pitta."),
-            [("Mixed with marrow", "That is by Śleṣma, in the second line."),
-             ("Thin and frothy", "Those are Vāta signs in unit 29."),
-             ("Sinks in water", "That is by Śleṣma, in the second line.")],
-            "By Pitta it is slightly yellow and non-slimy; the rest of the line is unclear.",
-            "किंचित् पीतम् = slightly yellow (Pitta)."),
+        mcq("apply", 4, "A semen is abundant, bound and sinks somewhat in water. By unit 30, by what does it come about?",
+            ("By Śleṣma (Kapha)", "प्रभूतं विबद्धं … किंचिन्मज्जति श्लेष्मणा: by Śleṣma."),
+            [("By Vāta", "Vāta gives the thin, scanty, frothy kind in unit 29."),
+             ("By blood", "Blood gives the corpse-smelling kind in unit 31."),
+             ("By Vāta and Pitta", "That pair gives the wasted kind in unit 34.")],
+            "Abundant, bound and sinking somewhat in water are the Śleṣma signs of the second line.",
+            "प्रभूत, विबद्ध, अम्भसि मज्जति → श्लेष्मणा."),
         T(mcq("transfer", 5, "By the rule of मज्जोपसंसृष्टम्, how is जल + उपसंसृष्टम् written when joined?",
               ("जलोपसंसृष्टम्", "अ + उ → ओ, as in मज्ज + उपसंसृष्टम्."),
               [("जलौपसंसृष्टम्", "अ + उ gives ओ, not औ."),
@@ -224,9 +224,9 @@ AUTHORED["31"] = {
             "रक्तेन = by blood (agent)."),
         mcq("apply", 4, "Which member of unit 28's list carries the same word as unit 31?",
             ("कुणपगन्धि (corpse-smelling)", "Unit 31 opens with कुणपगन्धि, the word of unit 28's list."),
-            [("ग्रन्थि (knot)", "The knot kind comes in unit 32."),
-             ("पूय (pus)", "The pus-like kind comes in unit 33."),
-             ("क्षीण (wasted)", "The wasted kind comes in unit 34.")],
+            [("ग्रन्थि (knot)", "ग्रन्थि is not in unit 31's line; the knot kind comes in unit 32."),
+             ("पूय (pus)", "पूय is not in unit 31's line; the pus-like kind comes in unit 33."),
+             ("क्षीण (wasted)", "क्षीण is not in unit 31's line; the wasted kind comes in unit 34.")],
             "The same word कुणपगन्धि stands in unit 28's list and in unit 31.",
             "कुणपगन्धि = corpse-smelling."),
         T(mcq("transfer", 5, "Built like रक्तेन, what does जलेन mean?",
@@ -457,8 +457,8 @@ AUTHORED["35"] = {
         mcq("apply", 4, "What does unit 35 leave unstated?",
             ("What 'that' refers to", "तत् is not named; its reference is only probable."),
             [("That it was stated", "उक्तम् says it was stated."),
-             ("When it was stated", "प्राक् says before, earlier."),
-             ("If treatment came too", "ससाधनम् says it came with treatment.")],
+             ("Whether earlier or later", "प्राक् says before, earlier."),
+             ("Whether treatment came too", "ससाधनम् says it came with treatment.")],
             "The line says that something was stated earlier with treatment, but not what.",
             "तत् = that (unnamed)."),
         T(mcq("transfer", 5, "By the rule of तदुक्तम्, how is तत् + अपि written when joined?",
@@ -649,8 +649,9 @@ AUTHORED["39"] = {
     "question": "By unit 39, which faulty kinds are curable with difficulty, and which are incurable?",
     "rule": ("Among these, the corpse-smelling, knot, pus and wasted semens are curable with difficulty; but the "
              "urine-and-faeces kind of śukra and ārtava is incurable, or the kuṇapa, granthi or pūya kind of ārtava."),
-    "limits": ("Joins two printed lines. The second line's compounds are unmarked; the reading of the ārtava kinds and the "
-               "force of वा (or) are not certain, so no question rests on them. कुणप stands for कुणपगन्धि."),
+    "limits": ("Joins two printed lines. The second line's compounds are unmarked; the card follows the data in reading "
+               "मूत्रपुरीषशुक्रार्तवं as the urine-and-faeces kind of śukra and ārtava. The kuṇapa/granthi/pūya ārtava kinds "
+               "and the force of वा (or) are not certain, so no question rests on them. कुणप = कुणपगन्धि."),
     "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है और साध्यता बताती है। पहली: उनमें कुणप (शव-गन्धी), ग्रन्थि, पूय और क्षीण "
                    "रेतस् कठिनाई से साध्य (कृच्छ्रसाधन) हैं। दूसरी: पर मूत्र-पुरीष वाला शुक्र और आर्तव असाध्य है, अथवा कुणप, "
                    "ग्रन्थि या पूय वाला आर्तव। दूसरी पंक्ति के समासों का बँटवारा छपाई में चिह्नित नहीं; यह पढ़ाई सम्भावित है, "
@@ -889,35 +890,35 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "diagram"): {
         "file": "sh1-abija-retas-28.svg",
-        "alt": ("Mindmap of unit 28: the seedless semens, eight members (printed order): Vata, Pitta, Shleshma, "
+        "alt": ("Mindmap of unit 28: the seedless semens, eight members numbered in printed order: Vata, Pitta, Shleshma, "
                 "corpse-smelling, knot, pus, wasted, urine-and-faeces."),
         "type": "mermaid",
         "code": ("mindmap\n"
                  "  अबीज रेतस्\n"
-                 "    वात\n"
-                 "    पित्त\n"
-                 "    श्लेष्मा\n"
-                 "    कुणपगन्धि\n"
-                 "    ग्रन्थि\n"
-                 "    पूय\n"
-                 "    क्षीण\n"
-                 "    मूत्र-पुरीष\n"),
+                 "    १ वात\n"
+                 "    २ पित्त\n"
+                 "    ३ श्लेष्म\n"
+                 "    ४ कुणपगन्धि\n"
+                 "    ५ ग्रन्थि\n"
+                 "    ६ पूय\n"
+                 "    ७ क्षीण\n"
+                 "    ८ मूत्र-पुरीष\n"),
     },
     ("29", "diagram"): {
         "file": "sh1-vata-retas-29.svg",
-        "alt": ("Mindmap of unit 29: the semen discharged by Vata, eight signs: thin, rough, frothy, reddish, scanty, "
+        "alt": ("Mindmap of unit 29: the semen discharged by Vata, eight signs numbered in printed order: thin, rough, frothy, reddish, scanty, "
                 "interrupted, with pain, after a long time."),
         "type": "mermaid",
         "code": ("mindmap\n"
                  "  वात से निकलता\n"
-                 "    पतला\n"
-                 "    रूखा\n"
-                 "    झागदार\n"
-                 "    लालिमा लिए\n"
-                 "    थोड़ा\n"
-                 "    टूटा-टूटा\n"
-                 "    पीड़ा सहित\n"
-                 "    देर से\n"),
+                 "    १ पतला\n"
+                 "    २ रूखा\n"
+                 "    ३ झागदार\n"
+                 "    ४ लालिमा लिए\n"
+                 "    ५ थोड़ा\n"
+                 "    ६ टूटा-टूटा\n"
+                 "    ७ पीड़ा सहित\n"
+                 "    ८ देर से\n"),
     },
     ("30", "contrast"): {
         "file": "sh1-pitta-kapha-retas-30.svg",
@@ -960,8 +961,8 @@ IMAGE_SPECS = {
                 "treatment of the dosha; one should treat."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"पहले तीन<br/>शुक्र-आर्तव दोष\"] --> B[\"यथास्वम्:<br/>प्रत्येक अपने अनुसार\"]\n"
-                 "  B --> C[\"दोष के<br/>साधन से\"]\n"
-                 "  C --> D[\"साधयेत्:<br/>उपचार करे\"]\n"),
+                 "  A[\"पहले तीन शुक्र-आर्तव दोष\"] --> B[\"यथास्वम्: प्रत्येक अपने अनुसार\"]\n"
+                 "  B --> C[\"दोष के साधन से\"]\n"
+                 "  C --> D[\"साधयेत्: उपचार करे\"]\n"),
     },
 }
