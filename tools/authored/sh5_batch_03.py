@@ -399,7 +399,7 @@ AUTHORED["32"] = {
             ("तस्माद्गच्छति", "त् before the voiced ग becomes द्, as प्रसादात् + रक्तस्य → प्रसादाद्रक्तस्य."),
             [("तस्मात्गच्छति", "Before a voiced sound त् does not stay त्."),
              ("तस्मार्गच्छति", "त् does not become र्."),
-             ("तस्मान्गच्छति", "त् becomes न् only before a nasal; ग is not a nasal.")],
+             ("तस्मान्गच्छति", "त् may become न् (optionally) only before a nasal; ग is not a nasal.")],
             "तस्मात् + गच्छति = तस्माद्गच्छति, like प्रसादात् + रक्तस्य = प्रसादाद्रक्तस्य.",
             "Final त् + voiced consonant → द्.",
             teaches="A final त् becomes द् before a voiced consonant such as र or ग: प्रसादात् + रक्तस्य → प्रसादाद्रक्तस्य."),

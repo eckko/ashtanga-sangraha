@@ -141,7 +141,7 @@ AUTHORED["16"] = {
             ("The maṇibandha (wrist)", "गुल्फो मणिबन्धः: the ankle's counterpart is the wrist (data's reading)."),
             [("The kūrpara (elbow)", "The elbow is set beside the jānu (knee), not the gulpha."),
              ("The aṃsa (shoulder)", "The shoulder is not named in unit 16."),
-             ("The kakṣādhāra (armpit)", "Kakṣādhāra comes in unit 17, named like viṭapa, not like the gulpha.")],
+             ("The kakṣādhāra (armpit)", "Kakṣādhāra comes in unit 17, said to be like viṭapa, not like the gulpha.")],
             "gulpha → maṇibandha; jānu → kūrpara (the data's reading of the juxtaposed names).",
             "गुल्फो मणिबन्धस्तथा जानु कूर्परम्."),
         order(1, "Put the printed parts of unit 16 in the line's order.",
@@ -220,7 +220,7 @@ AUTHORED["17"] = {
             "त् + च → च्च."),
         multi("apply", 4, "Which statements fit unit 17?",
               [("Death at once follows there", "No death is named; the result is crookedness."),
-               ("Kakṣādhāra is named 'like viṭapa'", "Right: विटपवच्च ... कक्षाधारः."),
+               ("Kakṣādhāra is said to be 'like viṭapa'", "Right: विटपवच्च ... कक्षाधारः."),
                ("Loss of blood is named there", "No loss of blood is named in unit 17."),
                ("Crookedness (kuṇitva) is named there", "Right: तत्र कुणित्वम्.")],
               [1, 3],
@@ -420,19 +420,19 @@ AUTHORED["21"] = {
     "question": "By unit 21, where is the nābhi (navel) placed, and what follows its injury?",
     "rule": ("In the middle of the pakva (digested, standing for pakvāśaya, probably the lower gut) and the āmāśaya "
              "(probably the stomach) is the nābhi (navel); there too (तत्रापि), immediate death."),
-    "limits": ("Prose, no verb. The printed पक्का- is a Prakrit-like form (पक्व possible). That पक्व stands for "
+    "limits": ("Prose, no verb. The printed पक्क- is a Prakrit-like form (पक्व possible). That पक्व stands for "
                "pakvāśaya is the usual sense, but आशय is not printed, so no question rests on it. āmāśaya is "
                "'standard' in the data's word list but 'probably the stomach' in its translation."),
     "explain_hi": ("यह पंक्ति नाभि का स्थान बताती है: पक्व और आमाशय के बीच। "
                    "पक्व से यहाँ पक्वाशय (पचे हुए अन्न का आशय, सम्भवतः नीचे की आँत) समझा जाता है, पर ‘आशय’ शब्द पक्व के बाद छपा नहीं। "
                    "आमाशय कच्चे अन्न का आशय है, सम्भवतः जठर। "
-                   "छपा ‘पक्का’ प्राकृत जैसा रूप है; संस्कृत ‘पक्व’ सम्भावित सुधार है। "
+                   "छपा ‘पक्क’ प्राकृत जैसा रूप है; संस्कृत ‘पक्व’ सम्भावित सुधार है। "
                    "वहाँ भी तुरन्त मृत्यु; ‘तत्रापि’ = तत्र + अपि।"),
-    "hook": "पक्व और आम के बीच नाभि: वहाँ भी तुरन्त मृत्यु।",
+    "hook": "पक्व(आशय) और आमाशय के बीच नाभि: वहाँ भी तुरन्त मृत्यु।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 21, which marma lies between the pakva and the āmāśaya?",
-            ("The nābhi (navel)", "पक्वामाशयमध्ये नाभिः: the navel lies between them."),
+            ("The nābhi (navel)", "पक्कामाशयमध्ये नाभिः (printed): the navel lies between them."),
             [("The basti (bladder)", "The basti is described in unit 19, not placed here."),
              ("The guda (anus)", "The guda is bound to the large intestine (unit 18)."),
              ("The aṃsa (shoulder)", "The aṃsa lie between neck, arm and head (unit 33).")],
@@ -459,7 +459,7 @@ AUTHORED["21"] = {
             ("Immediate death there too", "तत्रापि सद्यो मरणम्: there too, death at once."),
             [("Paleness and loss of colour", "Paleness and discolour come with the kaṭīkataruṇa (unit 27)."),
              ("Bentness of the elbow joint", "Bentness belongs to the arm marmas (unit 16)."),
-             ("Lameness and a stiff thigh", "Lameness belongs to the jānu (unit 10).")],
+             ("Lameness and a stiff thigh", "Lameness is named for the jānu (unit 10) and stiffness of the thigh for the gulpha and āṇi (units 8, 11), not the nābhi.")],
             "At the nābhi: immediate death, as at the guda and the basti.",
             "तत्रापि सद्यो मरणम्."),
         mcq("transfer", 5, "By the rule of तत्रापि, how is अत्र + अस्ति (it is here) joined in a new example?",
@@ -570,7 +570,7 @@ AUTHORED["23"] = {
             ("द्वि + अङ्गुलम् + उभयतः", "इ + अ → य: द्व्यङ्गुल-; म् + उ → मु: -लमुभयतः."),
             [("द्व + यङ्गुलम् + उभयतः", "Neither द्व nor यङ्गुलम् is a word; the य् comes from द्वि."),
              ("द्वि + अङ्गुलः + उभयतः", "अः before उ would drop to अ (अङ्गुल उभयतः), with no म्."),
-             ("द्वे + अङ्गुलम् + उभयतः", "ए + अ would give एऽ (द्वेऽङ्गुलम्), not य.")],
+             ("द्वे + अङ्गुलम् + उभयतः", "द्वे is a dual in -ए and takes no sandhi (द्वे अङ्गुले); it cannot give द्व्य-.")],
             "द्वि (two) + अङ्गुलम् (finger-breadth) + उभयतः (on both sides).",
             "इ + अ → य; म् + vowel → joined."),
         mcq("apply", 4, "By unit 23, whose death is stated for the stanamūla?",
@@ -596,7 +596,7 @@ AUTHORED["24"] = {
     "title": "स्तनचूचुकयोरूर्ध्वं स्तनरोहिते",
     "question": "By unit 24, where are the two stanarohita, and whose death is stated there?",
     "rule": ("Two aṅgulas above the stanacūcuka (breast and nipple, read as a dvandva), on both sides, are the two "
-             "stanarohita; death of one whose koṣṭha is full of blood (शोणितपूर्णकोष्ठस्य)."),
+             "stanarohita; immediate death of one whose koṣṭha is full of blood (शोणितपूर्णकोष्ठस्य)."),
     "limits": ("Prose, no verb. The printed सद्यो before श is irregular (सद्यः or सद्यश् expected; possible flag); no "
                "question rests on it. No तयोः here. The notes read स्तनचूचुक as a dvandva, the translation says 'the "
                "two nipples'; no question rests on the parse."),
@@ -629,7 +629,7 @@ AUTHORED["24"] = {
             [("स्तनचूचुकयो + रूर्ध्वम्", "रूर्ध्वम् is not a word; the र् comes from the visarga."),
              ("स्तनचूचुकयः + ऊर्ध्वम्", "अः before ऊ would drop to अ, with no र्."),
              ("स्तनचूचुकाः + ऊर्ध्वम्", "आः before a vowel drops its visarga, with no र्.")],
-            "स्तनचूचुकयोः (of breast and nipple) + ऊर्ध्वम् (above).",
+            "स्तनचूचुकयोः (of the stanacūcuka) + ऊर्ध्वम् (above).",
             "ओः + vowel → ओर्."),
         multi("apply", 4, "Which statements fit unit 24?",
               [("The stanarohita lie on both sides", "Right: उभयतः स्तनरोहिते."),
@@ -658,7 +658,7 @@ AUTHORED["25"] = {
              "two, death through the koṣṭha being full of blood, and through cough (कास) and śvāsa (probably breathlessness)."),
     "limits": ("Prose. वातवहे may also mean 'carrying Vāta' (the doṣa); the data keeps 'wind' and no question asks which. "
                "nāḍī is kept as 'channel, tube'; śvāsa = breathlessness is probable (also a disease name)."),
-    "explain_hi": ("यह पंक्ति पार्श्व, पीठ और कंधे के मर्मों का खण्ड आरम्भ करती है: छाती के दोनों ओर दो नाड़ियाँ जो वात को ले जाती हैं, उनका नाम अपस्तम्भ। "
+    "explain_hi": ("यह पंक्ति दो अपस्तम्भ मर्म बताती है: छाती के दोनों ओर दो नाड़ियाँ जो वात को ले जाती हैं, उनका नाम अपस्तम्भ। "
                    "‘वातवहे’ का अर्थ ‘वायु ले जाने वाली’ रखा गया है; ‘वात दोष ले जाने वाली’ भी सम्भव है। "
                    "उन दोनों में आघात से कोष्ठ रक्त से भर जाने के कारण, और कास (खाँसी) तथा श्वास (सम्भवतः साँस फूलना) से मृत्यु। "
                    "‘वातवहे अपस्तंभौ’ में ए पर समाप्त द्विवचन के बाद सन्धि नहीं होती, इसलिए पद अलग हैं। "
@@ -692,7 +692,7 @@ AUTHORED["25"] = {
             "Dual -ई/-ऊ/-ए + vowel → no sandhi."),
         multi("apply", 4, "Which statements fit unit 25?",
               [("The two lie on both sides of the chest", "Right: उभयत्रोरसः."),
-               ("Death comes through loss of blood", "Loss of blood is not stated; the koṣṭha is full of blood."),
+               ("Death comes through blood turned to pus", "Blood turned to pus is the cause at the apālāpa (unit 26), not here."),
                ("Death comes with cough and śvāsa", "Right: कासश्वासाभ्यां च मरणम्."),
                ("The two lie two aṅgulas below the breasts", "That is the place of the stanamūla (unit 23).")],
               [0, 2],
@@ -730,7 +730,7 @@ AUTHORED["26"] = {
             ("By blood turned into pus", "पूयत्वमापन्नेन रक्तेन मरणम्: by blood that has become pus."),
             [("By a mere loss of blood", "Loss of blood is the cause at the kaṭīkataruṇa (unit 27)."),
              ("By a koṣṭha full of Kapha", "That is stated for the stanamūla (unit 23)."),
-             ("By pain and convulsions", "Neither pain nor convulsion is named in unit 26.")],
+             ("By numbness of the arm", "Numbness and wasting of the arm are named for the aṃsaphalaka (unit 32), not here.")],
             "At the apālāpa: death by blood turned into pus.",
             "तयोः पूयत्वमापन्नेन रक्तेन मरणम्."),
         order(1, "Put the printed parts of unit 26 in the line's order.",
@@ -788,7 +788,7 @@ AUTHORED["27"] = {
             ("From loss of blood", "शोणितक्षयात्: from loss of blood (śoṇita)."),
             [("From blood turned to pus", "Blood turned to pus is the cause at the apālāpa (unit 26)."),
              ("From a koṣṭha full of Kapha", "That is stated for the stanamūla (unit 23)."),
-             ("From cough and breathlessness", "Cough and śvāsa are named for the apastambha (unit 25).")],
+             ("From cough and śvāsa", "Cough and śvāsa are named for the apastambha (unit 25).")],
             "At the kaṭīkataruṇa: from loss of blood one dies pale and discoloured.",
             "तयोः शोणितक्षयात् ... म्रियते."),
         order(1, "Put the printed parts of unit 27 in the line's order.",
@@ -860,7 +860,7 @@ NOTES_HI = {
            "तत्राप्युभयतः (अ + अ → आ; इ + उ → यु); उभयतः + विद्धे → उभयतो विद्धे; एकतः + भिन्ने → एकतो भिन्ने; व्रणः + भवति → "
            "व्रणो भवति (अः + घोष व्यंजन → ओ); सः + तु → स तु (सः का विसर्ग व्यंजन से पहले लुप्त); यत्नेन + उपक्रान्तः → यत्नेनोपक्रान्तः "
            "(अ + उ → ओ); उपक्रान्तः + रोहति → उपक्रान्तो रोहति। छपाई में ‘जीवति एकतो’ अलग (सन्धि करने पर जीवत्येकतो)।"),
-    "21": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘पक्का-’ प्राकृत जैसा रूप; संस्कृत ‘पक्व’; व/क की भ्रान्ति। ‘पक्व’ से "
+    "21": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘पक्क-’ प्राकृत जैसा रूप; संस्कृत ‘पक्व’; व/क की भ्रान्ति। ‘पक्व’ से "
            "पक्वाशय (सम्भवतः नीचे की आँत) समझा जाता है, पर ‘आशय’ पक्व के बाद छपा नहीं; इस पर कोई प्रश्न नहीं। आमाशय: डेटा की "
            "शब्द-सूची में ‘मानक’ (जठर), अनुवाद में ‘सम्भवतः जठर’; कार्ड ‘सम्भवतः’ रखता है। नाभि = नाभि (मानक)। सन्धि जाँची: पक्व + "
            "आमाशय → पक्वामाशय (अ + आ → आ); तत्र + अपि → तत्रापि (अ + अ → आ); सद्यः + मरणम् → सद्यो मरणं; छपाई में ‘नाभिः तत्रापि’ "
@@ -917,7 +917,7 @@ AIDS = {
         "chunks": "विशेषस्तु | गुल्फो | मणिबंधस्तथा | जानुकूर्परं | तयोर्व्यधे | कुणित",
         "sandhi": ("त से पहले विसर्ग → स्: विशेषः + तु → विशेषस्तु, मणिबन्धः + तथा → मणिबन्धस्तथा · अः + घोष व्यंजन → ओ: "
                    "गुल्फः + मणि → गुल्फो मणि · ओ के बाद विसर्ग + घोष → र्: तयोः + व्यधे → तयोर्व्यधे।"),
-        "anchors": "टखना ↔ कलाई, घुटना ↔ कोहनी: शरीर के दोनों ओर के जोड़ों की जोड़ी। (मेरी याद-पद्धति, डेटा के मेल-पाठ पर)",
+        "anchors": "टखना ↔ कलाई, घुटना ↔ कोहनी: पैर और भुजा के जोड़ों की जोड़ी। (मेरी याद-पद्धति, डेटा के मेल-पाठ पर)",
     },
     "17": {
         "chunks": "विटपवच्च | कक्षाक्षमध्ये | कक्षाधारः | तत्र | कुणित्वं",
@@ -1012,12 +1012,11 @@ IMAGE_SPECS = {
     ("16", "diagram"): {
         "file": "sh7-gulpha-manibandha-16.svg",
         "alt": ("Table of unit 16 as the data reads it: gulpha (ankle) in the leg, maṇibandha (wrist) in the arm; jānu "
-                "(knee) in the leg, kūrpara (elbow) in the arm; piercing of those two gives kuṇita, crookedness."),
+                "(knee) in the leg, kūrpara (elbow) in the arm; in the piercing of those two, kuṇita, crookedness."),
         "type": "table",
-        "title": "इकाई १६: विशेष (डेटा का मेल-पाठ)",
+        "title": "इकाई १६: विशेष (डेटा का मेल-पाठ); उन दोनों के व्यध पर कुणित",
         "heads": ["सक्थि (पैर) में", "बाहु (भुजा) में"],
-        "rows": [["गुल्फ (टखना)", "मणिबन्ध (कलाई)"], ["जानु (घुटना)", "कूर्पर (कोहनी)"],
-                 ["उन दोनों का व्यध", "कुणित: टेढ़ापन"]],
+        "rows": [["गुल्फ (टखना)", "मणिबन्ध (कलाई)"], ["जानु (घुटना)", "कूर्पर (कोहनी)"]],
     },
     ("19", "diagram"): {
         "file": "sh7-basti-19.svg",
@@ -1068,7 +1067,7 @@ IMAGE_SPECS = {
                 "from loss of blood one becomes pale, discoloured and diminished, and dies."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"पृष्ठवंश के दोनों ओर\"] --> B[\"श्रोणीकर्णों की ओर दो अस्थि\"]\n"
+                 "  A[\"पृष्ठवंश के दोनों ओर\"] --> B[\"श्रोणीकर्णों की ओर दो अस्थियाँ\"]\n"
                  "  B --> C[\"कटीकतरुण\"]\n"
                  "  C --> D[\"शोणितक्षय से\"]\n"
                  "  D --> E[\"पाण्डु, विवर्ण, हीनरूप\"]\n"

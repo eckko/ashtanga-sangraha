@@ -289,7 +289,7 @@ AUTHORED["132"] = {
         mcq("transfer", 5, "By the rule of द्वात्रिंशद्दन्त, how are त्रिंशत् + दिनानि (thirty days) joined?",
             ("त्रिंशद्दिनानि", "त् before the voiced द becomes द्, as द्वात्रिंशत् + दन्त-."),
             [("त्रिंशत्दिनानि", "Before a voiced consonant त् does not stay unvoiced."),
-             ("त्रिंशन्दिनानि", "त् becomes न् only before a nasal; द is not a nasal."),
+             ("त्रिंशन्दिनानि", "त् may become न् (optionally) only before a nasal; द is not a nasal."),
              ("त्रिंशच्दिनानि", "त् becomes च् before च, छ or श, not before द.")],
             "त्रिंशत् + दिनानि = त्रिंशद्दिनानि.",
             "त् + voiced consonant → द्.",

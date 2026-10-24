@@ -720,7 +720,7 @@ AUTHORED["134"] = {
         mcq("transfer", 5, "By the rule of योजयेत् + दशमे, how is भवेत् + धनम् (there should be wealth) joined?",
             ("भवेद्धनम्", "A final त् becomes द् before a voiced sound, as योजयेत् + दशमे."),
             [("भवेत्धनम्", "Before a voiced sound the final त् does not stay unvoiced."),
-             ("भवेन्धनम्", "त् becomes न् only before a nasal; ध is not a nasal."),
+             ("भवेन्धनम्", "त् may become न् (optionally) only before a nasal; ध is not a nasal."),
              ("भवेच्धनम्", "त् becomes च् before च, छ or श, not before ध.")],
             "भवेत् + धनम् = भवेद्धनम्, like योजयेत् + दशमे = योजयेद्दशमे.",
             "त् + voiced sound → द्.",

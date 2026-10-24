@@ -412,7 +412,7 @@ AUTHORED["97"] = {
             ("जगदीशः", "A final त् before a vowel becomes द्, as विधिवत् + अभ्यवहृतम् → विधिवदभ्यवहृतम्."),
             [("जगतीशः", "The त् does not stay voiceless before a vowel; it becomes द्."),
              ("जगन्नीशः", "न् comes from त् before a nasal, not before a vowel."),
-             ("जगच्छीशः", "च्छ comes from त् + श, not from त् + ई.")],
+             ("जगच्छीशः", "च्छ comes (optionally) from त् + श, not from त् + ई.")],
             "जगत् + ईशः = जगदीशः, like विधिवत् + अभ्यवहृतम् = विधिवदभ्यवहृतम्.",
             "Final त् + vowel → द्.",
             teaches="A final त् before a vowel becomes द्: विधिवत् + अभ्यवहृतम् → विधिवदभ्यवहृतम्."),

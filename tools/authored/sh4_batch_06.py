@@ -476,7 +476,7 @@ AUTHORED["76"] = {
             ("उल्लासः", "त् before ल becomes ल्, as ईषत् + लवण → ईषल्लवण."),
             [("उद्लासः", "द् does not stay before ल; it becomes ल्."),
              ("उत्लासः", "त् does not stay before ल; it becomes ल्."),
-             ("उच्छासः", "च्छ comes from त् + श, not from त् + ल.")],
+             ("उच्छासः", "च्छ comes (optionally) from त् + श, not from त् + ल.")],
             "उत् + लासः = उल्लासः, like ईषत् + लवण = ईषल्लवण.",
             "त् + ल → ल्ल.",
             teaches="A final त् before ल becomes ल्: ईषत् + लवण → ईषल्लवण."),

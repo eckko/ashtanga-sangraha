@@ -15,14 +15,14 @@ AUTHORED["28"] = {
                "rests on this word. Jaghana = hip region is probable only."),
     "explain_hi": ("यह गद्य-पंक्ति दो कुकुन्दर मर्मों का स्थान और उनके आघात का फल बताती है। "
                    "स्थान: दोनों पार्श्वों में, जघन यानी सम्भवतः कूल्हे के क्षेत्र के बाहरी भाग में, रीढ़ के दोनों ओर। "
-                   "फल: निचले शरीर में चेष्टा यानी हिलने-डुलने का नाश। "
+                   "फल (पक्का भाग): चेष्टा यानी हिलने-डुलने का नाश। "
                    "छपा ‘स्पर्शज्ञानम्’ (स्पर्श का ज्ञान) हानियों की सूची में ठीक नहीं बैठता; अनुमानित पाठ ‘स्पर्शाज्ञानम्’ (स्पर्श का अनुभव न होना) है, इसलिए इस शब्द पर कोई प्रश्न नहीं। "
                    "आघात शब्द छपा नहीं, समझा जाता है।"),
-    "hook": "रीढ़ के दोनों ओर कुकुन्दर: चोट लगे तो निचला शरीर हिल न सके।",
+    "hook": "रीढ़ के दोनों ओर कुकुन्दर: चोट लगे तो चेष्टा का नाश।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 28, what sure loss follows injury (understood) to the two kukundaras?",
-            ("Loss of movement", "चेष्टानाशश्च: and loss of movement, in the lower body."),
+            ("Loss of movement", "चेष्टानाशश्च: and loss of movement."),
             [("Loss of hearing", "Deafness belongs to the vidhuras (card 36), not to the kukundaras."),
              ("Loss of smell", "Loss of smell belongs to the phaṇas (card 37), not to the kukundaras."),
              ("Stiffness of the arms", "Stiff arms belong to the aṃsas (card 33), not to the kukundaras.")],
@@ -51,7 +51,7 @@ AUTHORED["28"] = {
                ("Injury brings stiffness of the arms", "Stiff arms are the result for the aṃsas (card 33)."),
                ("Injury (understood) brings loss of movement", "Right: चेष्टानाशश्च.")],
               [1, 3],
-              "Both sides of the spine; loss of movement in the lower body.",
+              "Both sides of the spine; loss of movement.",
               "पृष्ठवंशमुभयतः कुकुंदरौ तयोः ... चेष्टानाशश्च."),
         mcq("transfer", 5, "By the rule of बहिर्भागे (बहिः + भागे), how is अग्निः + ज्वलति (fire burns) joined in a new example?",
             ("अग्निर्ज्वलति", "After इ a visarga before the voiced ज → र्, as बहिः + भागे → बहिर्भागे."),
@@ -78,14 +78,14 @@ AUTHORED["29"] = {
                    "फल: निचले शरीर में शोफ यानी सूजन, दुर्बलता, और मृत्यु। "
                    "‘पार्श्वन्तर’ में दीर्घ आ छूटा लगता है (पार्श्वान्तर), और ‘अध.’ में बिन्दु विसर्ग के स्थान पर है; इन पर कोई प्रश्न नहीं। "
                    "‘शोफो दौर्बल्यं’ में अः घोष व्यंजन द से पहले ओ बना है।"),
-    "hook": "नितम्ब पर चोट: सूजन, कमज़ोरी, फिर मृत्यु।",
+    "hook": "नितम्ब पर चोट: सूजन, कमज़ोरी और मृत्यु।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 29, which results follow injury (understood) to the two nitambas?",
             ("Swelling, weakness and death", "शोफो दौर्बल्यं मरणं च: swelling, weakness and death."),
             [("Lameness, pain and numbness", "None of these three is printed in unit 29."),
              ("Deafness, blindness and dumbness", "These belong to head and neck marmas (cards 34-39)."),
-             ("Cough, breathlessness, death", "Cough and breathlessness go with the apastambhas (card 25).")],
+             ("Cough, śvāsa and death", "Cough (kāsa) and śvāsa (probably breathlessness) go with the apastambhas (card 25).")],
             "Three results: swelling (शोफ), weakness (दौर्बल्य) and death (मरण).",
             "शोफो दौर्बल्यं मरणं च."),
         order(1, "Put these printed parts of unit 29 in the line's order.",
@@ -145,7 +145,7 @@ AUTHORED["30"] = {
             ("Koṣṭha filling with blood", "शोणितपूर्णकोष्ठतया: by the koṣṭha being full of blood."),
             [("Kapha filling the koṣṭha", "A koṣṭha full of Kapha is said of the stanamūlas (card 23)."),
              ("Blood turning into pus", "Blood turned to pus is said of the apālāpas (card 26)."),
-             ("Through a convulsive spasm", "Ākṣepaka (probably a spasm) is said of kṣipra (card 5).")],
+             ("Through ākṣepaka (spasm?)", "Ākṣepaka (probably a convulsive spasm) is said of kṣipra (card 5).")],
             "Death comes through the koṣṭha being full of blood.",
             "तयोः शोणितपूर्णकोष्ठतया मरणं."),
         order(1, "Put these printed parts of unit 30 in the line's order.",
@@ -304,10 +304,11 @@ AUTHORED["32"] = {
 AUTHORED["33"] = {
     "title": "तयोः स्तब्धबाहुता",
     "question": "By unit 33, where are the two aṃsa marmas, and what follows injury to them?",
-    "rule": ("In the middle of neck, arm and head (ग्रीवाबाहुशिरोमध्ये), binding the aṃsapīṭha and the skandha: the two aṃsas "
+    "rule": ("In the middle of neck, arm and head (ग्रीवाबाहुशिरोमध्ये), binding the aṃsapīṭha (printed असपीठ; reading possible) and the skandha: the two aṃsas "
              "(shoulders). In those two: stiffness of the arms (स्तब्धबाहुता)."),
     "limits": ("Prose; injury understood. The printed असपीठ is not a word; aṃsapīṭha (anusvara dropped) is a possible reading, "
-               "and the sense of the pair aṃsapīṭha / skandha is not firm, so no question rests on that compound."),
+               "and the sense of the pair aṃsapīṭha / skandha is not firm, so no question rests on असपीठ or on that pair; only the "
+               "sure join बन्धनौ + अंसौ is asked."),
     "explain_hi": ("यह गद्य-पंक्ति दो अंस यानी कन्धे के मर्मों का स्थान और फल बताती है। "
                    "स्थान: ग्रीवा, बाहु और शिर के बीच; ये अंसपीठ और स्कन्ध को बाँधते हैं। "
                    "छपा ‘असपीठ’ कोई शब्द नहीं; ‘अंसपीठ’ (अनुस्वार छूटा) सम्भावित पाठ है, और अंसपीठ/स्कन्ध का अर्थ-भेद पक्का नहीं; इस पर कोई प्रश्न नहीं। "
@@ -334,25 +335,25 @@ AUTHORED["33"] = {
               teaches="स्तब्धबाहुता = स्तब्ध (stiff) + बाहु (arm) + -ता (-ness): the state of having stiff arms."),
         mcq("discriminate", 3, "Which split of बंधनावंसौ in unit 33 is right?",
             ("बन्धनौ + अंसौ", "औ before a vowel → आव्: बन्धनौ + अंसौ → बन्धनावंसौ."),
-            [("बन्धने + अंसौ", "A dual in -ए stays unjoined: it would be बन्धने अंसौ."),
+            [("बन्धने + अंसौ", "ए before अ gives -नेऽंसौ (or, for a dual -ए, stays apart); never -नावंसौ."),
              ("बन्धनाः + अंसौ", "आः before a vowel drops the visarga: बन्धना अंसौ."),
              ("बन्धना + वंसौ", "वंसौ is not a word; the व् comes from the औ of बन्धनौ.")],
             "बन्धनौ (the two binding) + अंसौ (the two aṃsas).",
             "औ + vowel → आव् + vowel."),
         multi("apply", 4, "Which statements fit unit 33?",
               [("Injury (understood) brings deafness", "Deafness is said of the vidhuras (card 36)."),
-               ("The aṃsas lie amid neck, arm and head", "Right: ग्रीवाबाहुशिरोमध्ये ... अंसौ."),
                ("The line says injury kills at once", "No death is printed for the aṃsas in unit 33."),
+               ("The aṃsas lie amid neck, arm and head", "Right: ग्रीवाबाहुशिरोमध्ये ... अंसौ."),
                ("Injury (understood) brings stiff arms", "Right: तयोः स्तब्धबाहुता.")],
-              [1, 3],
+              [2, 3],
               "Place: amid neck, arm and head; result: stiffness of the arms.",
               "ग्रीवाबाहुशिरोमध्ये ... अंसौ तयोः स्तब्धबाहुता."),
-        mcq("transfer", 5, "By the rule of बंधनावंसौ, how is तौ + इति (those two, thus) joined in a new example?",
-            ("ताविति", "औ before a vowel becomes आव्, as बन्धनौ + अंसौ → बन्धनावंसौ."),
-            [("तविति", "आव् keeps the long आ: ता-."),
-             ("तायिति", "आय् comes from ऐ, not from औ."),
-             ("तोइति", "No rule turns औ into ओ before इ.")],
-            "तौ + इति = ताविति, like बन्धनौ + अंसौ = बन्धनावंसौ.",
+        mcq("transfer", 5, "By the rule of बंधनावंसौ, how is बालौ + अत्र (the two boys, here) joined in a new example?",
+            ("बालावत्र", "औ before a vowel becomes आव्, as बन्धनौ + अंसौ → बन्धनावंसौ."),
+            [("बालवत्र", "आव् keeps the long आ: -ला-."),
+             ("बालायत्र", "आय् comes from ऐ, not from औ."),
+             ("बालोऽत्र", "ओऽ comes from अः + अ, not from औ + अ.")],
+            "बालौ + अत्र = बालावत्र, like बन्धनौ + अंसौ = बन्धनावंसौ.",
             "औ + vowel → आव्.",
             teaches="A final औ becomes आव् before a vowel: बन्धनौ + अंसौ → बन्धनावंसौ."),
     ],
@@ -362,7 +363,7 @@ AUTHORED["33"] = {
 AUTHORED["34"] = {
     "title": "कंठनाडीमुभयतश्चतस्त्रो धमन्यः",
     "question": "By unit 34, which four vessels lie beside the throat-tube, and what may injury to them cause?",
-    "rule": ("On both sides of the kaṇṭha-nāḍī (probably the windpipe): four dhamanīs (vessels); of these two nīlā, two manyā. "
+    "rule": ("On both sides of the kaṇṭha-nāḍī (probably the windpipe): four dhamanīs (vessels); of these two nīlā, two manyā (taken as names; not firm). "
              "In those: dumbness, alteration of voice, or not perceiving taste (वा: alternatives) occurs."),
     "limits": ("Prose; injury understood. Dhamanī is kept as 'vessel', not 'artery'. That nīlā and manyā are names is not firm "
                "(नीले could be 'blue'), so no question asks about them. The three results are alternatives, not all at once."),
@@ -395,7 +396,7 @@ AUTHORED["34"] = {
             ("As alternatives: any one may occur", "वा (or) with the singular भवति: one or another occurs."),
             [("As three stages, one after another", "No sequence is printed; वा marks alternatives."),
              ("As three that must all occur together", "वा means 'or', not 'and'."),
-             ("As results of the two nīlās alone", "तासु (in those) refers to all four vessels.")],
+             ("As results of the throat-tube itself", "तासु (in those) refers to the four vessels, not to the kaṇṭhanāḍī.")],
             "The three are alternatives: dumbness, or altered voice, or not perceiving taste.",
             "मूकता स्वरवैकृत्यं रसाग्राहिता वा भवति."),
         mcq("apply", 4, "In कंठनाडीमुभयतश्चतस्त्रो of unit 34, why does उभयतः show श्?",
@@ -419,21 +420,23 @@ AUTHORED["34"] = {
 # ---------------------------------------------------------------- unit 35
 AUTHORED["35"] = {
     "title": "सिरा मातृकास्तासु सद्यो मरणं",
-    "question": "By unit 35, what are the four vessels of the neck called, and what follows injury to them?",
-    "rule": ("In the neck, on both sides: four sirās (vessels), the mātṛkās. In those: immediate death (सद्यो मरणम्)."),
+    "question": "By unit 35, what are the neck vessels printed 'on both sides, four' called, and what follows injury to them?",
+    "rule": ("In the neck, on both sides, four (as printed; no total is given) sirās (vessels), the mātṛkās. In those: immediate death (सद्यो मरणम्)."),
     "limits": ("Prose, nominal sentence; injury understood. Sirā is kept as 'vessel' (often rendered 'vein', not forced here). "
-               "The line does not say how the four are placed beyond 'on both sides'."),
+               "The line says 'on both sides, four'; whether that is four in all or four on each side it does not say (the data's "
+               "count check at unit 59 counts eight mātṛkās), so the card gives no total."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति कहती है: ग्रीवा में दोनों ओर चार सिराएँ हैं, जिनका नाम मातृका है; उनमें आघात से तुरन्त मृत्यु। "
+                   "चार कुल हैं या हर ओर चार, पंक्ति नहीं कहती (डेटा की गिनती इकाई ५९ में आठ मातृकाएँ मानती है); इसलिए कुल संख्या नहीं दी गई। "
                    "सिरा को यहाँ ‘वाहिका’ ही कहा गया है, किसी आधुनिक नाम से नहीं जोड़ा गया। "
                    "‘सिरा मातृकाः’ में आ के बाद का विसर्ग घोष व्यंजन म से पहले लुप्त हुआ है। "
                    "‘मातृकास्तासु’ में विसर्ग त से पहले स् बना, और ‘सद्यो मरणं’ में अः घोष व्यंजन म से पहले ओ बना। "
                    "एक ही पंक्ति में विसर्ग के तीन रूप दिखते हैं।"),
-    "hook": "गर्दन की चार मातृका सिराएँ: चोट लगे तो तुरन्त मृत्यु।",
+    "hook": "गर्दन के दोनों ओर मातृका सिराएँ: चोट लगे तो तुरन्त मृत्यु।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 35, what follows injury (understood) to the four mātṛkās of the neck?",
+        mcq("pretest", 0, "By unit 35, what follows injury (understood) to the mātṛkā vessels of the neck?",
             ("Immediate death", "तासु सद्यो मरणं: in those, immediate death."),
-            [("Death in a fortnight", "Unit 35 has सद्यः, immediately, not a fortnight."),
+            [("Loss of smell", "Loss of smell is said of the phaṇas (card 37)."),
              ("Dumbness or a changed voice", "These are said of the four dhamanīs (card 34)."),
              ("Deafness in both ears", "Deafness is said of the vidhuras (card 36).")],
             "In those: immediate death.",
@@ -445,8 +448,8 @@ AUTHORED["35"] = {
               "ग्रीवा, उभयतः, सिरा, सद्यः, मरण."),
         fill(2, "Unit 35: ग्रीवायामुभयतश्चतस्त्रः सिरा ____ (their name). Type it in Devanagari or in English letters (e.g. dharma).",
              accepts("मातृकाः", None, "matrika", "matrikah", "maatrikaa"),
-             "मातृकाः, the name of the four sirās of the neck: सिरा मातृकास्तासु.",
-             "मातृका (f., plural here) is the name of the four neck vessels; the word literally means 'mothers'.",
+             "मातृकाः, the name of these neck sirās: सिरा मातृकास्तासु.",
+             "मातृका (f., plural here) is the name of these neck vessels; the word literally means 'mothers'.",
              "सिराः मातृकाः."),
         mcq("discriminate", 3, "Why is सिराः printed सिरा before मातृकाः in unit 35?",
             ("After आ, visarga drops before a voiced sound", "म is voiced: सिराः + मातृकाः → सिरा मातृकाः."),
@@ -535,8 +538,8 @@ AUTHORED["36"] = {
 AUTHORED["37"] = {
     "title": "तयोर्गंधाज्ञानं",
     "question": "By card 37, which marmas lie beside the nose-passage, and what follows injury to them?",
-    "rule": ("On both sides of the nose-passage (घ्राणमार्गम् उभयतः), on the inside, joined with the ear-passage: the two phaṇas. "
-             "Of those two: non-perception of smell (गन्धाज्ञानम्)."),
+    "rule": ("On both sides of the nose-passage (घ्राणमार्गम् उभयतः), on the inside: the two phaṇas; 'bound to the ear-passage' (श्रोत्रमार्गप्रतिबद्धम्) "
+             "stands between, and what it describes is not settled. Of those two: non-perception of smell (गन्धाज्ञानम्)."),
     "limits": ("Prose, elliptical; no verb, injury understood. Printed singular प्रतिबद्धम् does not agree with dual फणौ; what is "
                "joined to the ear-passage is not settled, and whether उभयतः goes with the passage or the phaṇas is open. No "
                "question rests on these points."),
@@ -580,14 +583,14 @@ AUTHORED["37"] = {
               [0, 2],
               "Two phaṇas; non-perception of smell; no verb printed.",
               "फणौ तयोर्गंधाज्ञानं."),
-        mcq("transfer", 5, "By the rule of गन्धाज्ञानम्, how is देव + आलयः (temple) joined in a new example?",
-            ("देवालयः", "अ + आ → आ, the same long vowel as गन्ध + अज्ञानम् → गन्धाज्ञानम्."),
-            [("देवलयः", "The long आ of आलयः cannot shorten."),
-             ("देवेलयः", "ए comes from अ + इ, not from अ + आ."),
-             ("देवोलयः", "ओ comes from अ + उ, not from अ + आ.")],
-            "देव + आलयः = देवालयः.",
-            "अ + अ/आ → आ.",
-            teaches="अ merges with a following अ or आ into आ: गन्ध + अज्ञानम् → गन्धाज्ञानम्."),
+        mcq("transfer", 5, "By the rule of गन्धाज्ञानम् (अ + अ), how is हिम + अचलः (snow-mountain) joined in a new example?",
+            ("हिमाचलः", "अ + अ → आ, as गन्ध + अज्ञानम् → गन्धाज्ञानम्."),
+            [("हिमचलः", "The two अs merge into a long आ; neither simply drops."),
+             ("हिमेचलः", "ए comes from अ + इ, not from अ + अ."),
+             ("हिमोचलः", "ओ comes from अ + उ, not from अ + अ.")],
+            "हिम + अचलः = हिमाचलः, like गन्ध + अज्ञानम् = गन्धाज्ञानम्.",
+            "अ + अ → आ.",
+            teaches="Two short अs merge into आ: गन्ध + अज्ञानम् → गन्धाज्ञानम्."),
     ],
 }
 
@@ -670,7 +673,7 @@ AUTHORED["39"] = {
             ("Death at once", "तयोः सद्यो मरणं: of those two, death at once."),
             [("Blindness or damaged sight", "That is the result of the āvartas, the second pair of card 39."),
              ("Deafness of both ears", "Deafness is said of the vidhuras (card 36)."),
-             ("Death within a fortnight", "Card 39 has सद्यः, at once, for the śaṅkhas.")],
+             ("Stiffness of the arms", "Stiff arms are said of the aṃsas (card 33).")],
             "The śaṅkhas: death at once.",
             "ललाटे शंखौ तयोः सद्यो मरणं."),
         order(1, "Put these printed parts of card 39 in the order of its two lines.",
@@ -718,11 +721,11 @@ AUTHORED["40"] = {
     "limits": ("Prose; injury understood, and the subject 'one' is unstated. The printed join केशांतउत्क्षेपौ is irregular "
                "(the data reads केशान्तौ + उत्क्षेपौ); no question rests on its form. The line gives no reason here."),
     "explain_hi": ("यह गद्य-पंक्ति (छपी पंक्ति ४२) दो उत्क्षेप मर्मों के बारे में है: ये दोनों शङ्खों के ऊपर, केशों के छोर पर हैं। "
-                   "उनमें शल्य (कोई भी चुभने वाली वस्तु) भीतर रहे, या पाक (पकने) से अपने-आप गिर जाए, तो व्यक्ति जी सकता है; जिसका शल्य निकाल दिया गया, वह नहीं जीता। "
+                   "उनमें शल्य (कोई भी चुभने वाली वस्तु) भीतर रहे, या पाक (पकने) से अपने-आप गिर जाए, तो व्यक्ति जी सकता है; जिसका शल्य निकाल दिया गया, वह नहीं (जी सकता)। "
                    "कारण यह पंक्ति नहीं बताती। "
                    "छपा ‘केशांतउत्क्षेपौ’ असामान्य जोड़ है (डेटा: केशान्तौ + उत्क्षेपौ), इस पर कोई प्रश्न नहीं। "
-                   "‘जीवेन्नोद्धृत’ = जीवेत् + न + उद्धृत: त् न से पहले न् बना, और अ + उ → ओ।"),
-    "hook": "उत्क्षेप में शल्य: रहे तो जीवन, खींचो तो मरण।",
+                   "‘जीवेन्नोद्धृत’ = जीवेत् + न + उद्धृत: छपाई में त् न से पहले न् बना (वैकल्पिक; द् भी सही), और अ + उ → ओ।"),
+    "hook": "उत्क्षेप में शल्य: भीतर रहे या पाक से गिरे तो जी सकता है; निकाला गया तो नहीं।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 40, where are the two utkṣepas?",
@@ -743,12 +746,12 @@ AUTHORED["40"] = {
               "शल्य, पाक, पतित, उद्धृत, जीवेत्.", role="extend",
               teaches="स-शल्य, पतित-शल्य, उद्धृत-शल्य are bahuvrīhis: 'one whose dart is (with him / fallen / pulled out)'."),
         mcq("discriminate", 3, "Which split of जीवेन्नोद्धृतशल्यः in card 40 is right?",
-            ("जीवेत् + न + उद्धृतशल्यः", "त् before न is written न् (-न्न-); अ + उ → ओ (नोद्धृत)."),
+            ("जीवेत् + न + उद्धृतशल्यः", "The print writes त् as न् before न (optional; द् is also correct); अ + उ → ओ (नोद्धृत)."),
             [("जीवेत् + नः + उद्धृतशल्यः", "अः before उ would give न उद्धृत, with no ओ."),
              ("जीवेत् + ने + उद्धृतशल्यः", "ए before उ would not give नो-."),
              ("जीवे + नोद्धृतशल्यः", "नोद्धृतशल्यः is not a word; the न्न comes from जीवेत् + न.")],
             "जीवेत् (may live) + न (not) + उद्धृतशल्यः (one whose dart is pulled out).",
-            "त् + न → न्न (as printed); अ + उ → ओ."),
+            "त् + न → न्न as printed (optional, द्न also correct); अ + उ → ओ."),
         multi("apply", 4, "By card 40, who may live after injury at the utkṣepas?",
               [("One whose dart has been pulled out", "Not he: न उद्धृतशल्यः."),
                ("One with the dart still in", "Right: सशल्यः ... जीवेत्."),
@@ -802,7 +805,7 @@ NOTES_HI = {
            "श्वासनली (सम्भावित)। छपा ‘चतस्त्रो’ (अतिरिक्त त्), शब्द-सूची में चतस्रः। ‘धमन्यः तासां’ में छपाई ने त से पहले विसर्ग को स् "
            "नहीं किया (विराम)। सन्धि जाँची: कण्ठनाडीम् + उभयतः → कण्ठनाडीमुभयतः; उभयतः + चतस्रः → उभयतश्चतस्रः (च से पहले "
            "विसर्ग → श्); चतस्रः + धमन्यः → चतस्रो धमन्यः (अः + घोष व्यंजन → ओ); रस + अग्राहिता → रसाग्राहिता।"),
-    "35": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं; नामवाक्य। सिरा = वाहिका (प्रायः ‘शिरा/vein’, यहाँ ठहराया नहीं गया)। छपा ‘चतस्त्रः’ "
+    "35": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं; नामवाक्य। ‘दोनों ओर चार’: कुल चार या हर ओर चार, पंक्ति नहीं कहती; डेटा की गिनती (इकाई ५९ की टिप्पणी) आठ मातृकाएँ मानती है; कार्ड कुल संख्या नहीं देता। सिरा = वाहिका (प्रायः ‘शिरा/vein’, यहाँ ठहराया नहीं गया)। छपा ‘चतस्त्रः’ "
            "(अतिरिक्त त्), शब्द चतस्रः। सन्धि जाँची: ग्रीवायाम् + उभयतः → ग्रीवायामुभयतः; सिराः + मातृकाः → सिरा मातृकाः (आ के बाद "
            "विसर्ग घोष से पहले लुप्त, नियमित); मातृकाः + तासु → मातृकास्तासु (त से पहले विसर्ग → स्); सद्यः + मरणम् → सद्यो मरणम् "
            "(अः + घोष व्यंजन → ओ)।"),
@@ -828,7 +831,7 @@ NOTES_HI = {
            "उत्क्षेपौ पढ़ता है, जिसकी नियमित सन्धि ‘केशान्तावुत्क्षेपौ’ (या ‘केशान्ता उत्क्षेपौ’) होती; इसके रूप पर कोई प्रश्न नहीं। शल्य = "
            "कोई भी चुभने वाली वस्तु; पाक = पकना। अज्ञात कर्ता ‘कोई व्यक्ति’ समझा गया। जीवेत् = विधिलिङ् प्रथम पुरुष एकवचन। सन्धि "
            "जाँची: शङ्खयोः + उपरि → शङ्खयोरुपरि; पाकात् + पतित → पाकात्पतित (अघोष प से पहले त् वैसा ही); पतितशल्यः + वा → "
-           "पतितशल्यो वा; जीवेत् + न → जीवेन्न (न से पहले त् → न्, छपे अनुसार); न + उद्धृत → नोद्धृत (अ + उ → ओ)।"),
+           "पतितशल्यो वा; जीवेत् + न → जीवेन्न (न से पहले त् → न्, छपे अनुसार; यह वैकल्पिक है, द् भी सही); न + उद्धृत → नोद्धृत (अ + उ → ओ)।"),
 }
 
 
@@ -841,8 +844,7 @@ AIDS = {
                    "च से पहले विसर्ग → श्: चेष्टानाशः + च → चेष्टानाशश्च।"),
     },
     "29": {
-        "chain": {"steps": ["श्रोणीकर्णों के ऊपर", "आशय को ढकने वाले", "नितम्ब (दो)", "शोफ: सूजन", "दौर्बल्य: कमज़ोरी",
-                            "मरण: मृत्यु"]},
+        "chain": {"steps": ["श्रोणीकर्णों के ऊपर", "आशय को ढकने वाले", "नितम्ब (दो)", "फल: शोफ, दौर्बल्य और मरण"]},
         "chunks": "श्रोणीकर्णयोरुपर्याशयाच्छादनौ | पार्श्वन्तरप्रतिबद्धौ | नितंबौ | तयोरध.काये | शोफो दौर्बल्यं मरणं च",
         "sandhi": ("इ + आ → या: उपरि + आशय → उपर्याशय · अ + आ → आ: आशय + आच्छादनौ → आशयाच्छादनौ · "
                    "अः + घोष व्यंजन → ओ: शोफः + दौर्बल्यम् → शोफो दौर्बल्यम्।"),
@@ -913,7 +915,7 @@ AIDS = {
     "40": {
         "seesaw": "सशल्य (शल्य भीतर ही) ⇄ उद्धृतशल्य (शल्य निकाला गया): दोनों इसी पंक्ति में; पहला जी सकता है, दूसरा नहीं।",
         "chunks": "शंखयोरुपरि | केशांतउत्क्षेपौ | तयोः | सशल्यः | पाकात्पतितशल्यो वा | जीवेन्नोद्धृतशल्यः",
-        "sandhi": ("न से पहले त् → न् (छपे अनुसार): जीवेत् + न → जीवेन्न · अ + उ → ओ: न + उद्धृत → नोद्धृत · "
+        "sandhi": ("न से पहले त् → न् (छपे अनुसार; वैकल्पिक, द् भी सही): जीवेत् + न → जीवेन्न · अ + उ → ओ: न + उद्धृत → नोद्धृत · "
                    "अः + घोष व्यंजन → ओ: पतितशल्यः + वा → पतितशल्यो वा।"),
         "pegs": "मेरा बनाया चित्र: काँटा चुभा है और उसी ने छेद को बन्द कर रखा है; खींचो तो छेद खुल जाए। (केवल याद की सहायता, पंक्ति का दावा नहीं)",
     },
@@ -924,11 +926,11 @@ AIDS = {
 IMAGE_SPECS = {
     ("29", "chain"): {
         "file": "sh7-nitamba-29.svg",
-        "alt": ("Chain of unit 29 in line order: above the two śroṇīkarṇas, covering the āśaya, the two nitambas; then "
-                "swelling, weakness and death."),
+        "alt": ("Chain of unit 29 in line order: above the two śroṇīkarṇas, covering the āśaya, the two nitambas; results "
+                "(listed together): swelling, weakness and death."),
         "type": "chain",
         "title": "इकाई २९: नितम्ब",
-        "steps": ["श्रोणीकर्णों के ऊपर", "आशय को ढकने वाले", "नितम्ब (दो)", "शोफ: सूजन", "दौर्बल्य: कमज़ोरी", "मरण: मृत्यु"],
+        "steps": ["श्रोणीकर्णों के ऊपर", "आशय को ढकने वाले", "नितम्ब (दो)", "फल: शोफ, दौर्बल्य और मरण"],
     },
     ("31", "chain"): {
         "file": "sh7-brihati-31.svg",
