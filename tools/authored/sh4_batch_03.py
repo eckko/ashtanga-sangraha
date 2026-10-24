@@ -44,7 +44,7 @@ AUTHORED["28"] = {
              ("अः becomes ओ before any consonant", "Not before an unvoiced one: गर्भः प्रायः keeps the visarga before प."),
              ("प्रायो is a vocative form here", "प्रायः is the indeclinable 'generally'; nobody is addressed.")],
             "प्रायः + न = प्रायो न, because न is a voiced sound.",
-            "अः + voiced sound → ओ."),
+            "अः + voiced consonant → ओ (and अः + अ → ओऽ)."),
         mcq("apply", 4, "A woman in her fifth month shows bleeding. Does unit 28's statement cover her case?",
             ("No: it covers only the first three", "अपूर्णत्रिमासायाः: the unit speaks of her whose three months are not complete."),
             [("Yes: it covers every month alike", "The unit is limited to her whose three months are not complete."),

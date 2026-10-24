@@ -85,7 +85,7 @@ AUTHORED["2"] = {
              ("Skin, blood, flesh, fat, bone, marrow", "These are not the six aṅgas of unit 2.")],
             "Six parts: head, trunk, two arms, two lower limbs.",
             "षडङ्गम्: शिरः, अन्तराधिः, द्वौ बाहू, सक्थिनी."),
-        order(1, "Put the six parts of unit 2 in the line's order.",
+        order(1, "Put the four names of the six parts of unit 2 in the line's order.",
               ["शिरः", "अन्तराधिः", "बाहू", "सक्थिनी"],
               "Head, trunk, the two arms, the two lower limbs.",
               "शिरः → अन्तराधिः → बाहू → सक्थिनी."),
@@ -181,7 +181,7 @@ AUTHORED["3"] = {
 # ---------------------------------------------------------------- unit 4
 AUTHORED["4"] = {
     "title": "महाभूतेभ्यश्चेतनाधिष्ठितेभ्योऽभिनिर्वृत्तिः",
-    "question": "By unit 4, from what does the body's origination (abhinirvṛtti) come?",
+    "question": "By unit 4, from what does origination (abhinirvṛtti) come?",
     "rule": ("Origination (अभिनिर्वृत्ति) is from the great elements (महाभूत), which consist of the great guṇas "
              "(महागुणमय) and are presided over by consciousness (चेतनाधिष्ठित)."),
     "limits": ("Low confidence. The printed आरुनेभ्यो is damaged; 'constituted of space, wind, fire, water, earth' rests on "
@@ -247,12 +247,12 @@ AUTHORED["5"] = {
              "unctuousness, lustre, voice and so on, in very many kinds."),
     "limits": ("One long prose sentence. भूत is read 'elements' (after unit 4); 'beings' is also possible. The line does "
                "not say which action gives which feature, nor name the actions."),
-    "explain_hi": ("यह लम्बी गद्य-पंक्ति बताती है कि लोगों में आकृति, प्रमाण, स्नेह (चिकनाई), दीप्ति, स्वर आदि की समानता या असमानता क्यों होती है। "
+    "explain_hi": ("यह लम्बी गद्य-पंक्ति बताती है कि आकृति, प्रमाण, स्नेह (चिकनाई), दीप्ति, स्वर आदि की समानता या असमानता क्यों होती है। "
                    "कारण है भूतों की ही विशेष संरचना (सन्निवेशविशेष), जो अनेक रूपों वाली है और दृष्ट-अदृष्ट विविध कर्मों के बल से बनती है। "
                    "यह समानता-असमानता सूक्ष्म और स्थूल के तारतम्य से भिन्न होकर अत्यन्त अनेक प्रकार की होती है। "
                    "‘भूत’ को यहाँ ‘तत्त्व’ पढ़ा गया है; ‘प्राणी’ अर्थ भी सम्भव है। "
                    "कौन-सा कर्म कौन-सा गुण देता है, यह पंक्ति नहीं कहती।"),
-    "hook": "भूतों की बनावट और कर्म का बल: इसलिए हर शरीर अलग।",
+    "hook": "भूतों की बनावट और कर्म का बल: इसी से आकृति, स्वर आदि में समानता या असमानता।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 5, what comes about from the special arrangement of the elements?",
@@ -514,9 +514,9 @@ AUTHORED["9"] = {
             ("वृक्षबहुलं वनम्", "Neuter, to agree with वनम्, as बहुलम् with अम्बु."),
             [("वृक्षबहुला वनम्", "बहुला is feminine; वनम् is neuter."),
              ("वृक्षबहुलो वनम्", "बहुलो (बहुलः) is masculine; वनम् is neuter."),
-             ("वृक्षबहुलाः वनम्", "बहुलाः is plural; वनम् is singular.")],
+             ("वृक्षबहुलेन वनम्", "बहुलेन is instrumental; वनम् is nominative.")],
             "वृक्षबहुलं वनम् = a forest abundant in trees: neuter singular, like सत्त्वतमोबहुलम् अम्बु.",
-            "The bahuvrīhi agrees with its noun in gender and number.",
+            "The bahuvrīhi agrees with its noun in gender, number and case.",
             teaches="A bahuvrīhi in -बहुल takes the gender and number of its noun: सत्त्वतमोबहुलम् (n.) अम्बु (n.)."),
     ],
 }
@@ -568,9 +568,9 @@ AUTHORED["10"] = {
             ("जलबहुला नदी", "Feminine, to agree with नदी, as बहुला with भूः."),
             [("जलबहुलं नदी", "बहुलम् is neuter; नदी is feminine."),
              ("जलबहुलो नदी", "बहुलो (बहुलः) is masculine; नदी is feminine."),
-             ("जलबहुलाः नदी", "बहुलाः is plural; नदी is singular.")],
+             ("जलबहुलेन नदी", "बहुलेन is instrumental (m./n.); नदी is feminine nominative.")],
             "जलबहुला नदी = a river abundant in water: feminine singular, like तमोबहुला भूः.",
-            "The bahuvrīhi agrees with its noun in gender and number.",
+            "The bahuvrīhi agrees with its noun in gender, number and case.",
             teaches="A bahuvrīhi in -बहुल takes the feminine -बहुला with a feminine noun: तमोबहुला भूः."),
     ],
 }
@@ -734,7 +734,7 @@ AUTHORED["13"] = {
         mcq("apply", 4, "A student adds touch to the things born of space. By unit 13, is that right?",
             ("No: touch is not in the list", "Unit 13 names ear, sound, channels, separateness only."),
             [("Yes: touch is the first item", "The first item is the ear (श्रोत्र)."),
-             ("Yes: touch goes with sound", "Sound is named; touch is not."),
+             ("No: touch replaces sound there", "Sound is named in unit 13; touch is not named at all."),
              ("Yes: it is the last item", "The last item is separateness (विविक्तता).")],
             "Touch is not born of space in unit 13; the list is ear, sound, channels, separateness.",
             "आकाशजानि श्रोत्रं शब्दः स्रोतांसि विविक्तता च."),
@@ -797,20 +797,20 @@ AIDS = {
     "1": {
         "chunks": "अथातो | ऽंगविभागं | शारीरं | व्याख्यास्यामः",
         "sandhi": "अ + अ → आ: अथ + अतः → अथातः · अः + अ → ओ, अ का लोप (ऽ): अतः + अङ्ग → अतोऽङ्ग।",
-        "frame": "कब: अथ अतः (अब, इसलिए) → किसका: अङ्गविभागम् शारीरम् (शरीर के अंगों का विभाग) → क्रिया: व्याख्यास्यामः (हम व्याख्या करेंगे)।",
+        "frame": "आरम्भ: अथ अतः (अब, इसलिए) → किसकी व्याख्या: अङ्गविभागम् शारीरम् (शरीर के अंगों का विभाग) → क्रिया: व्याख्यास्यामः (हम व्याख्या करेंगे)।",
     },
     "2": {
         "diagram": {"groups": [
             {"label": "छह अंग (क्रम से)", "items": ["१ शिर (सिर)", "२ अन्तराधि (धड़)", "३-४ दो बाहु (भुजाएँ)",
                                                   "५-६ दो सक्थि (टाँगें)"]}]},
-        "chunks": "सकलमपि शरीरम् इति उच्यते | तच्च पुनः षडंगं | शिरोऽन्तराधि | द्वौ बाहू सक्थिनी च",
+        "chunks": "सकलमपि | शरीरमिमित्युच्यते (पढ़ा: शरीरम् इति उच्यते) | तच्च पुनः षडंगं | शिरोऽन्तराधिद्वौ (पढ़ा: अन्तराधिर् द्वौ) | बाहू सक्थिनीच",
         "sandhi": "त् + च → च्च: तत् + च → तच्च · स्वर से पहले ट् → ड्: षट् + अङ्गम् → षडङ्गम्।",
         "pegs": "हाथ पर गिनो: एक सिर, एक धड़, दो हाथ, दो पैर = छह। (मेरी याद-पद्धति)",
     },
     "3": {
         "chunks": "नेत्रनाभिघ्राणिपादादीनि | त्वस्य | प्रत्यंगानि",
         "sandhi": "उ + अ → व: तु + अस्य → त्वस्य।",
-        "contrast": "इकाई २: छह अंग (शिर, धड़, भुजाएँ, टाँगें) ↔ इकाई ३: प्रत्यंग, छोटे अंग (नेत्र, नाभि, नाक, पैर आदि)।",
+        "frame": "क्या: प्रत्यङ्गानि (छोटे अंग) → किसके: अस्य (इस शरीर के) → कौन: नेत्र, नाभि, घ्राण (नाक; अनुमानित पाठ), पाद आदि।",
     },
     "4": {
         "chain": {"steps": ["महाभूत: महागुणमय", "चेतना से अधिष्ठित", "उनसे अभिनिर्वृत्ति (उत्पत्ति)"]},
@@ -857,7 +857,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "अवस्थान", "items": ["श्रोत्र आदि इन्द्रियों में"]},
             {"label": "अन्वय: एक-एक बढ़े हुए विषय (क्रम से)", "items": ["१ शब्द", "२ स्पर्श", "३ रूप", "४ रस", "५ गन्ध"]}]},
-        "chunks": "विशेषतश्च | श्रोत्रादिष्विंद्रियेषु अवस्थानं | शब्दस्पर्शरूपरसगंधैः | एकैकप्रवृद्धैः अन्वयः",
+        "chunks": "विशेषतश्च | श्रोत्रादिष्विंद्रियेष्ववस्थानं | शब्दस्पर्शरूपरसगंधैरैकैक (पढ़ा: गन्धैः एकैक) | प्रवृद्धैरन्वयः",
         "sandhi": "उ + इ → वि: श्रोत्रादिषु + इन्द्रियेषु → श्रोत्रादिष्विन्द्रियेषु · उ + अ → व: इन्द्रियेषु + अवस्थानम् → इन्द्रियेष्ववस्थानम्।",
     },
     "13": {
