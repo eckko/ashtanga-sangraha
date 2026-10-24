@@ -17,7 +17,7 @@ AUTHORED["39"] = {
                    "दूसरी पंक्ति: इस प्रकार स्थित रहते हुए दोष शरीर पर अनुग्रह करते हैं, यानी उसे सहारा देते हैं। "
                    "‘एवम्’ (इस प्रकार) किस अवस्था की ओर संकेत करता है, वह इस इकाई में वर्णित नहीं है। "
                    "‘रक्तेष्वपि’ में रक्तेषु + अपि, उ के बाद भिन्न स्वर आने से व् बना।"),
-    "hook": "यही बँटवारा पित्त, कफ, शुद्ध रक्त में भी; ठीक टिके दोष शरीर को सहारा देते हैं।",
+    "hook": "यही बँटवारा पित्त, कफ, शुद्ध रक्त में भी; इस प्रकार टिके दोष शरीर को सहारा देते हैं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 39, in what else is 'this division' (vibhāga) also found?",
@@ -71,7 +71,7 @@ AUTHORED["40"] = {
     "limits": ("Prose, three words; elliptical. The subject (the doṣas of unit 39) is carried over and not printed; no "
                "object is stated. The unit does not say what the reversal consists of."),
     "explain_hi": ("यह तीन शब्दों की गद्य-पंक्ति है: किन्तु व्यत्यय से (उलटे होने पर) पीड़ा देते हैं। "
-                   "कर्ता छपा नहीं; डेटा के अनुसार वे इकाई ३९ के दोष हैं, जो ठीक स्थित रहकर शरीर को सहारा देते हैं। "
+                   "कर्ता छपा नहीं; डेटा के अनुसार वे इकाई ३९ के दोष हैं, जो इस प्रकार स्थित रहकर शरीर को सहारा देते हैं। "
                    "‘व्यत्यय’ का अर्थ है उलट, विपरीत; यानी इकाई ३९ वाली अवस्था का उलटा। "
                    "किसे पीड़ा देते हैं, यह भी नहीं कहा गया। "
                    "‘तु’ (किन्तु) इस पंक्ति को पिछली बात के विरोध में रखता है।"),
@@ -93,7 +93,7 @@ AUTHORED["40"] = {
             ("The doṣas of unit 39", "Data note: the subject, the doṣas of unit 39, is carried over."),
             [("The dhamanīs of unit 44", "The dhamanīs come later; the subject is carried over from unit 39."),
              ("The prāṇas of unit 47", "The prāṇas come later; the subject is carried over from unit 39."),
-             ("The sirās of unit 37", "Unit 37 speaks of sirās not to be cut; the subject here is carried over from unit 39.")],
+             ("The knife-forbidden ones of unit 37", "Unit 37 speaks of ones not to be dealt with by the knife; the subject here is carried over from unit 39.")],
             "They = the doṣas of unit 39, carried over.",
             "Subject carried over: the doṣas (unit 39).",
             teaches="An elliptical line can take its subject from the line before: here the doṣas of unit 39."),
@@ -248,7 +248,7 @@ AUTHORED["43"] = {
                "saṃsarga and sannipāta. The sense of rohiṇī here is uncertain: no question on it."),
     "explain_hi": ("पहली छपी पंक्ति: लक्षणों के मिश्रण में संसर्ग और सन्निपात का रक्त। "
                    "संसर्ग सामान्यतः दो दोषों का और सन्निपात तीनों का मेल माना जाता है, पर यह पंक्ति दोषों की गिनती नहीं करती। "
-                   "दूसरी पंक्ति: समान, गूढ़ यानी गहरी, स्निग्ध और रोहिणी: शुद्ध रक्त; ‘रोहिणी’ का यहाँ अर्थ अनिश्चित है। "
+                   "दूसरी पंक्ति: समान, गूढ़ यानी छिपी हुई, स्निग्ध और रोहिणी: शुद्ध रक्त; ‘रोहिणी’ का यहाँ अर्थ अनिश्चित है। "
                    "अन्त का ‘इति’ इकाई ४१-४३ की पाँच प्रकार की सूची पूरी करता है: वात, पित्त, कफ, संसर्ग-सन्निपात और शुद्ध रक्त। "
                    "छपे ‘समागूढाः’ में समाः + गूढाः हैं; घोष व्यंजन से पहले आः का विसर्ग लुप्त हुआ।"),
     "hook": "लक्षण मिले तो संसर्ग-सन्निपात; समान, गूढ़, चिकनी तो शुद्ध रक्त।",
@@ -267,7 +267,7 @@ AUTHORED["43"] = {
               "वात → पित्त → कफ → संसर्ग-सन्निपात → शुद्ध."),
         match(2, "Match each word of unit 43 to its meaning.",
               [["लक्षण", "sign, mark"], ["सङ्कर", "mixture"], ["संसर्ग", "combination"],
-               ["सन्निपात", "union (of doṣas)"], ["शुद्ध", "pure"], ["गूढ", "hidden, deep-lying"]],
+               ["सन्निपात", "union"], ["शुद्ध", "pure"], ["गूढ", "hidden"]],
               "In a mixture of signs: saṃsarga and sannipāta blood; even, hidden ... ones: pure blood.",
               "लक्षण, सङ्कर, संसर्ग, सन्निपात, शुद्ध, गूढ.", role="extend",
               teaches="लक्षणसङ्करे is a locative of circumstance: 'when the signs are mixed'."),
@@ -306,7 +306,7 @@ AUTHORED["44"] = {
     "limits": ("Prose, two words; the copula is understood. 'Blood vessel' for dhamanī is probable; whether arteries in "
                "particular are meant is disputed: no question on it. The count is as printed."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति धमनियों का प्रकरण शुरू करती है: धमनियाँ तो चौबीस हैं। "
-                   "‘तु’ (तो) इसे पहले की सिराओं से अलग करता है। "
+                   "‘तु’ (तो) इसे पहले की बात से अलग करता है। "
                    "धमनी का अर्थ नली या वाहिका है; रक्तवाहिका सम्भावित पहचान है, और क्या विशेष रूप से धमनी (आर्टरी) अभिप्रेत है, यह विवादित है। "
                    "‘चतुर्विंशति’ = चतुर् (चार) + विंशति (बीस)। "
                    "सन्धि: धमन्यः + तु → धमन्यस्तु, त से पहले विसर्ग स् बना।"),
@@ -394,7 +394,7 @@ AUTHORED["45"] = {
              ("कायम् + अयम्", "म् before a vowel would give कायमयम्.")],
             "कायः (body) + अयम् (this): अः + अ → ओऽ.",
             "अः + अ → ओऽ."),
-        mcq("apply", 4, "In the simile of unit 45, what stands for the body as the canals stand for the field?",
+        mcq("apply", 4, "In the simile of unit 45, what is to the body as the canals are to the field?",
             ("The dhamanīs (ताभिः, by them)", "ताभिः = by them, the dhamanīs of unit 44: they moisten the body."),
             [("The garden (आरामः) itself", "The garden is another thing moistened, like the body."),
              ("The field (केदारः) itself", "The field is moistened by the canals; it is not the means."),
@@ -416,16 +416,17 @@ AUTHORED["45"] = {
 AUTHORED["46"] = {
     "title": "ताभिश्च नाभिश्चक्रनाभि...",
     "question": "By unit 46, what is surrounded by the dhamanīs?",
-    "rule": ("And by them (ताभिश्च, the dhamanīs) the navel (नाभिः) is surrounded (आवृता), like the hub of a wheel "
-             "(चक्रनाभिः); the words 'by its spokes' rest on a conjectural reading."),
+    "rule": ("And by them (ताभिश्च, the dhamanīs) the navel (नाभिः) is surrounded (आवृता); the simile 'like the hub "
+             "of a wheel (चक्रनाभिः) by its spokes' rests on a conjectural reading."),
     "limits": ("Low confidence. The printed 'āraikariva' is not a word; 'like by spokes' (अरैरिव) is a conjectural "
                "restoration: no question on it. The copula is understood. The line does not count the dhamanīs."),
-    "explain_hi": ("इस गद्य-पंक्ति का निश्चित भाग है: और उनसे (धमनियों से) नाभि घिरी हुई है, चक्र की नाभि (पहिये की धुरी) की तरह। "
+    "explain_hi": ("इस गद्य-पंक्ति का निश्चित भाग है: और उनसे (धमनियों से) नाभि घिरी हुई है। "
+                   "अनुमानित पाठ पर इसके साथ उपमा है: जैसे चक्र की नाभि (पहिये की धुरी) अरों से घिरी हो। "
                    "छपा ‘आरैकरिव’ कोई शब्द नहीं बनता; ‘अरैरिव’ (अरों से जैसे) अनुमानित पाठ है, जो पहिये की उपमा से मेल खाता है। "
                    "इसलिए इस इकाई का विश्वास कम है और उस भाग पर कोई प्रश्न नहीं। "
                    "‘आवृता’ स्त्रीलिंग है और स्त्रीलिंग ‘नाभिः’ से मेल खाता है। "
                    "सन्धि: ताभिः + च → ताभिश्च (च से पहले विसर्ग → श्)।"),
-    "hook": "पहिये की धुरी की तरह नाभि धमनियों से घिरी।",
+    "hook": "नाभि धमनियों से घिरी (पहिये की धुरी जैसी: अनुमानित पाठ)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 46, what is surrounded by them (the dhamanīs)?",
@@ -438,7 +439,7 @@ AUTHORED["46"] = {
         match(1, "Match each sure word of unit 46 to its meaning.",
               [["ताभिः", "by them"], ["च", "and"], ["नाभिः", "navel"], ["चक्रनाभिः", "hub of a wheel"],
                ["आवृता", "surrounded"]],
-              "And by them the navel is surrounded, like the hub of a wheel.",
+              "And by them the navel is surrounded; cakranābhi = hub of a wheel (the simile rests on a conjectural reading).",
               "ताभिः, च, नाभिः, चक्रनाभिः, आवृता."),
         fill(2, "By unit 46 the ____ (navel) is surrounded by the dhamanīs (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("नाभिः", None, "नाभि", "nabhi"),
@@ -458,7 +459,7 @@ AUTHORED["46"] = {
                ("चक्रनाभि is the hub of a wheel", "Right: cakranābhi is taken as the hub of a wheel."),
                ("The line counts the dhamanīs", "No number is printed in unit 46.")],
               [0, 2],
-              "By them the navel is surrounded (आवृता, f.), like the hub of a wheel.",
+              "By them the navel is surrounded (आवृता, f.); cakranābhi = hub of a wheel (the simile is a conjectural reading).",
               "ताभिश्च नाभिश्चक्रनाभि... आवृता."),
         mcq("transfer", 5, "By the rule of ताभिः + च → ताभिश्च, how is रामः + च (and Rāma) joined in a new example?",
             ("रामश्च", "A visarga before च becomes श्, as ताभिः + च → ताभिश्च."),
@@ -565,7 +566,7 @@ AUTHORED["48"] = {
               "By them the limbs and parts, each according to its own, are held and nourished.",
               "धार्यन्ते, आप्याय्यन्ते, अङ्ग, अवयव, यथास्वम्.", role="extend",
               teaches="धार्यन्ते and आप्याय्यन्ते are passive: the limbs are held and nourished; ताभिः (by them) is the agent."),
-        mcq("discriminate", 3, "Which verb of unit 48 is NOT passive, by its grammar in the data?",
+        mcq("discriminate", 3, "Which verb of unit 48 is NOT passive?",
             ("जायन्ते (come to be)", "जायन्ते is a middle form of √जन्: an -यन्ते form that is not passive."),
             [("धार्यन्ते (are held)", "धार्यन्ते is passive (3 pl. pres. pass. √धृ)."),
              ("आप्याय्यन्ते (are nourished)", "आप्याय्यन्ते is passive (causative passive of आ-√प्याय्).")],
@@ -598,9 +599,9 @@ AUTHORED["49"] = {
     "limits": ("Prose; no finite verb, only a participle. The printed वहंतः is masculine against the feminine द्वे द्वे "
                "(flagged; वहन्त्यः or वहतः are possible): no question on that form. 'Two each' over the five items is "
                "the data's reading. The list continues in units 50-51 (grouping note)."),
-    "explain_hi": ("यह गद्य-पंक्ति इकाई ४८ के तीस (ऊपर जाने वाली धमनियाँ, प्रत्येक तीन प्रकार की) को बाँटना शुरू करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति ‘तीस’ गिनकर उनका बँटवारा शुरू करती है; इकाई ४८ में ऊपर जाने वाली धमनियाँ हृदय तक पहुँचकर प्रत्येक तीन प्रकार की होती हैं। "
                    "तीस में से दो-दो वात, पित्त, कफ, रक्त और रस का वहन करती हैं; डेटा ‘द्वे द्वे’ को पाँचों में दो-दो पढ़ता है, यानी दस। "
-                   "यहाँ ‘रस’ पोषक द्रव, पहला धातु है (मानक), स्वाद नहीं। "
+                   "यहाँ ‘रस’ पोषक द्रव (धातु) है, स्वाद नहीं। "
                    "छपा ‘वहंतः’ पुंलिंग है, जबकि ‘द्वे द्वे’ स्त्रीलिंग; इसलिए ‘वहन्त्यः’ या ‘वहतः’ सम्भावित सुधार बताए गए हैं। "
                    "सन्धि: त्रिंशतः + मध्ये → त्रिंशतो मध्ये (अः + घोष व्यंजन → ओ)।"),
     "hook": "तीस में से दो-दो: वात, पित्त, कफ, रक्त, रस।",
@@ -624,11 +625,11 @@ AUTHORED["49"] = {
               "त्रिंशतः, मध्ये, द्वे द्वे, रक्त, रस.", role="extend",
               teaches="त्रिंशतः मध्ये: a genitive with मध्ये = among (the thirty)."),
         mcq("discriminate", 3, "In unit 49, what does रस mean?",
-            ("The nutrient fluid, first dhātu", "Data: rasa here is the nutrient fluid (dhātu), not taste."),
+            ("The nutrient fluid, a dhātu", "Data: rasa here is the nutrient fluid (dhātu), not taste."),
             [("Taste, one of the sense-objects", "Rasa as taste is unit 50; here it is the nutrient fluid."),
              ("A juice pressed out of a plant", "No plant is meant; rasa here is the nutrient fluid."),
              ("The sweat that comes on the skin", "Sweat is not meant; rasa here is the nutrient fluid.")],
-            "रस in unit 49 = the nutrient fluid (first dhātu, standard).",
+            "रस in unit 49 = the nutrient fluid (dhātu), not taste.",
             "रस with वात, पित्त, कफ, रक्त = the nutrient fluid."),
         mcq("apply", 4, "On the data's reading of द्वे द्वे, how many of the thirty go to these five things?",
             ("Ten", "Two for each of five items: 2 × 5 = 10 (data note: 10 + 8 + 8 + 4 = 30)."),
@@ -653,8 +654,8 @@ AUTHORED["50"] = {
     "title": "अष्टाभिः शब्दरूपरसगंधा गृह्यंते",
     "question": "By unit 50, what is grasped by eight?",
     "rule": ("By eight (अष्टाभिः) sound, form, taste and smell (शब्दरूपरसगन्धाः) are grasped, perceived (गृह्यन्ते)."),
-    "limits": ("Prose. Only four sense-objects are listed; touch is not named in this line. The unit does not say which "
-               "two serve which object. The line continues the count of unit 49 (grouping note)."),
+    "limits": ("Prose. Only four sense-objects are listed; touch is not named in this line. The unit does not say how "
+               "the eight are shared among the objects. The line continues the count of unit 49 (grouping note)."),
     "explain_hi": ("यह गद्य-पंक्ति तीस की गिनती आगे बढ़ाती है: आठ से शब्द, रूप, रस यानी स्वाद और गन्ध ग्रहण किए जाते हैं। "
                    "यहाँ ‘रस’ स्वाद है, इकाई ४९ वाला पोषक द्रव नहीं। "
                    "केवल चार विषय गिनाए गए हैं; स्पर्श इस पंक्ति में नहीं है। "
@@ -732,7 +733,7 @@ AUTHORED["51"] = {
               "Speaks, makes a sound, sleeps, wakes.",
               "भाषते → घोषं करोति → स्वपिति → प्रतिबुध्यते."),
         match(2, "Match each word of unit 51 to its meaning.",
-              [["भाषते", "speaks"], ["घोषम्", "sound, utterance"], ["स्वपिति", "sleeps"], ["प्रतिबुध्यते", "wakes"],
+              [["भाषते", "speaks"], ["घोषम्", "sound, cry"], ["स्वपिति", "sleeps"], ["प्रतिबुध्यते", "wakes"],
                ["अश्रु", "tears"], ["स्तन्य", "breast-milk"]],
               "Speaks, makes a sound, sleeps, wakes; tears; breast-milk.",
               "भाषते, घोषम्, स्वपिति, प्रतिबुध्यते, अश्रु, स्तन्य.", role="extend",
@@ -758,7 +759,7 @@ AUTHORED["51"] = {
              ("वदथः", "वदथः is 2nd person dual: you two speak.")],
             "वदतः = the two speak, like वहतः = the two carry.",
             "3rd person dual present: -अतः.",
-            teaches="वहतः is 3rd person dual present: two (vessels) carry; so वद् → वदतः."),
+            teaches="वहतः is 3rd person dual present: the two carry; so वद् → वदतः."),
     ],
 }
 
@@ -805,8 +806,8 @@ NOTES_HI = {
            "बाद विसर्ग + घोष → र्); अवयवाः + धार्यन्ते → अवयवा धार्यन्ते, ऊर्ध्वगाः + हृदयम् → ऊर्ध्वगा हृदयम् (आः का विसर्ग लुप्त)। "
            "तीन प्रकार इस इकाई में गिनाए नहीं गए।"),
     "49": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भावित): छपा ‘वहंतः’ पुंलिंग है, स्त्रीलिंग ‘द्वे द्वे’ से मेल नहीं; ‘वहन्त्यः’ सुझाया गया, "
-           "और ‘वहतः’ (द्विवचन क्रिया) भी सम्भव; इस पर कोई प्रश्न नहीं। ‘द्वे द्वे’ को पाँचों में दो-दो पढ़ा गया (१०)। रस = पोषक द्रव, "
-           "पहला धातु (मानक), स्वाद नहीं। सन्धि जाँची: ततः + त्रिंशतः → ततस्त्रिंशतः; त्रिंशतः + मध्ये → त्रिंशतो मध्ये (अः + घोष व्यंजन "
+           "और ‘वहतः’ (द्विवचन क्रिया) भी सम्भव; इस पर कोई प्रश्न नहीं। ‘द्वे द्वे’ को पाँचों में दो-दो पढ़ा गया (१०)। रस = पोषक द्रव "
+           "(धातु), स्वाद नहीं। सन्धि जाँची: ततः + त्रिंशतः → ततस्त्रिंशतः; त्रिंशतः + मध्ये → त्रिंशतो मध्ये (अः + घोष व्यंजन "
            "→ ओ)। सूची इकाई ५०-५१ में चलती है।"),
     "50": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। केवल चार विषय; स्पर्श नहीं गिनाया गया। रूप = दिखने वाला रूप; रस = स्वाद। "
            "गृह्यन्ते कर्मवाच्य। सन्धि जाँची: गन्धाः + गृह्यन्ते → गन्धा गृह्यन्ते (घोष से पहले आः का विसर्ग लुप्त)। इकाई ४९ की गिनती आगे।"),
@@ -827,7 +828,7 @@ AIDS = {
     "40": {
         "frame": "कब: व्यत्ययेन (उलटे होने पर) → तु (किन्तु) → क्या करते हैं: पीडयन्ति (पीड़ा देते हैं); कर्ता इकाई ३९ के दोष, छपे नहीं।",
         "chunks": "व्यत्ययेन | तु | पीडयंति",
-        "anchors": "व्यत्यय ~ ‘उलट-पलट’: जो दोष ठीक टिककर सहारा देते हैं, वही उलटे होकर पीड़ा देते हैं। (मेरी याद-पद्धति)",
+        "anchors": "व्यत्यय ~ ‘उलट-पलट’: जो दोष इस प्रकार टिककर सहारा देते हैं, वही उलटे होकर पीड़ा देते हैं। (मेरी याद-पद्धति)",
     },
     "41": {
         "chunks": "तत्र | श्यावारुणाः | प्रस्पंदिन्यः | सूक्ष्माः | क्षणपूर्णरिक्ता | वातरक्तं वहंति",
@@ -857,26 +858,26 @@ AIDS = {
     "44": {
         "chunks": "धमन्यस्तु | चतुर्विंशतिः",
         "sandhi": "त से पहले विसर्ग → स्: धमन्यः + तु → धमन्यस्तु।",
-        "frame": "कौन: धमन्यः (धमनियाँ, सम्भवतः रक्तवाहिकाएँ) → तु (तो, सिराओं से अलग) → कितनी: चतुर्-विंशति (४ + २० = २४)।",
+        "frame": "कौन: धमन्यः (धमनियाँ, सम्भवतः रक्तवाहिकाएँ) → तु (तो) → कितनी: चतुर्-विंशति (४ + २० = २४)।",
     },
     "45": {
         "diagram": {"groups": [
             {"label": "उपमा: किससे → क्या आर्द्र होता है", "items": ["ताभिः (धमनियों से) → कायोऽयम् (यह शरीर)",
                                                               "जलहारिणीभिः (जल ले जाने वालियों से) → आराम (उद्यान)",
                                                               "कुल्याभिः (नहरों से) → केदार (खेत)"]}]},
-        "chunks": "ताभिः | कायोऽयम् | आराम इव जलहारिणीभिः | केदार इव कुल्याभिः | उपस्निह्यति",
+        "chunks": "ताभिःकायोऽयमाराम इव | जलहारिणीभिः | केदार इव | कुल्याभिरुपस्निह्यति",
         "sandhi": "अः + अ → ओऽ: कायः + अयम् → कायोऽयम् · अः + अ से भिन्न स्वर → अ (अन्तर): आरामः + इव → आराम इव · इ के बाद विसर्ग + स्वर → र्: कुल्याभिः + उप... → कुल्याभिरुप...।",
     },
     "46": {
         "chunks": "ताभिश्च | नाभिश्चक्रनाभिरारैकरिवावृता",
         "sandhi": "च से पहले विसर्ग → श्: ताभिः + च → ताभिश्च, नाभिः + चक्र... → नाभिश्चक्र...।",
-        "pegs": "मेरा बनाया चित्र: पहिये की धुरी, चारों ओर से घिरी; वैसे ही नाभि धमनियों से घिरी। ‘अरों से’ अनुमानित पाठ है। (केवल याद की सहायता)",
+        "pegs": "मेरा बनाया चित्र: पहिये की धुरी, चारों ओर से घिरी; वैसे ही नाभि धमनियों से घिरी। पूरी उपमा अनुमानित पाठ पर है। (केवल याद की सहायता)",
     },
     "47": {
         "diagram": {"groups": [
             {"label": "धमनियों की दिशाएँ (इकाई ४७)", "items": ["ऊर्ध्व, ऊपर: दस (अनुमानित पाठ)", "अधः, नीचे: दस",
                                                        "तिर्यक्, तिरछी: चार", "कुल (इकाई ४४): चौबीस"]}]},
-        "chunks": "तस्मान्नाभ्यां | विशेषेणप्राणा | व्यवस्थिताः || तासां खलु धमनीनां | द्धशौर्ध्वं प्रमृता | दशाधः | चतस्रस्तिर्यक्",
+        "chunks": "तस्मान्नाभ्यां | विशेषेणप्राणा | व्यवस्थिताः || तासां खलु धमनीनां | द्धशौर्ध्वं प्रमृता | दशाधश्चतस्रस्तिर्यक्",
         "sandhi": "नासिक्य से पहले त् → न्: तस्मात् + नाभ्याम् → तस्मान्नाभ्याम् · अ + अ → आ: दश + अधः → दशाधः · च से पहले विसर्ग → श्: अधः + चतस्रः → अधश्चतस्रः · त से पहले विसर्ग → स्: चतस्रः + तिर्यक् → चतस्रस्तिर्यक्।",
     },
     "48": {
@@ -943,9 +944,9 @@ IMAGE_SPECS = {
                 "canals a field."),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["धमनियाँ, ताभिः"] -->|"आर्द्र करती हैं"| B["यह शरीर, कायः"]\n'
-                 '  C["जल ले जाने वालियाँ"] -->|"जैसे आर्द्र करें"| D["उद्यान, आरामः"]\n'
-                 '  E["नहरें, कुल्याः"] -->|"जैसे आर्द्र करें"| F["खेत, केदारः"]\n'),
+                 '  A["धमनियाँ, ताभिः"] --> B["यह शरीर, कायः (आर्द्र होता है)"]\n'
+                 '  C["जल ले जाने वालियाँ"] --> D["उद्यान, आरामः (जैसे)"]\n'
+                 '  E["नहरें, कुल्याः"] --> F["खेत, केदारः (जैसे)"]\n'),
     },
     ("47", "diagram"): {
         "file": "sh6-dhamani-disha-47.svg",
@@ -977,7 +978,7 @@ IMAGE_SPECS = {
     },
     ("51", "diagram"): {
         "file": "sh6-trimshat-51.svg",
-        "alt": ("Table of the thirty upward dhamanīs on the data's reading, units 49-51: 10 for Vāta, Pitta, Kapha, blood, "
+        "alt": ("Table of the thirty on the data's reading, units 49-51: 10 for Vāta, Pitta, Kapha, blood, "
                 "rasa; 8 for sound, form, taste, smell; 8 for speaking, sound, sleep, waking; 4 for tears and the breasts; "
                 "total 30."),
         "type": "table",
