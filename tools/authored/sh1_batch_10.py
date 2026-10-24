@@ -10,7 +10,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 120
 AUTHORED["120"] = {
-    "title": "लक्ष्मणावटशुङ्ग... क्षीरेऽभिषुत्य",
+    "title": "लक्ष्मणावटशुंग... क्षीरेऽभिषुत्य",
     "question": "In unit 120, how are the drops made, how many are instilled, and which nostril goes with the wish for a daughter?",
     "rule": ("Any one of lakṣmaṇā, banyan shoots (वटशुङ्ग), sahadevā or viśvedevā is pounded in milk; she herself instils "
              "three or four drops in a nostril. The left (वामे) goes with one desiring a daughter (दुहितृकामा)."),
@@ -101,7 +101,7 @@ AUTHORED["121"] = {
             ("च + एतान्", "अ + ए → ऐ: च + एतान् = चैतान्."),
             [("च + इतान्", "अ + इ would give ए (चेतान्), not ऐ."),
              ("चै + तान्", "चै is not a word of the card."),
-             ("चेत् + आन्", "आन् is not a word, and this would give चेतान्.")],
+             ("चेत् + आन्", "आन् is not a word, and त् before a vowel would become द् (चेदान्).")],
             "च (and) + एतान् (these): अ + ए joins as ऐ.",
             "अ + ए → ऐ."),
         mcq("apply", 4, "एतान् is masculine accusative plural. What does it most likely refer to, by the card?",
@@ -124,7 +124,7 @@ AUTHORED["121"] = {
 
 # ---------------------------------------------------------------- unit 122
 AUTHORED["122"] = {
-    "title": "पुष्योद्धृतायाः श्वेतबृहत्याः",
+    "title": "तथा पुष्योद्धृतायाः श्वेतबृहत्या",
     "question": "In unit 122, which plant and which part are used, when is it uprooted, and how is it given?",
     "rule": ("Likewise: from the root-paste of white bṛhatī, uprooted under Puṣya, one should instil the juice into the nose "
              "(नावयेत्)."),
@@ -182,7 +182,7 @@ AUTHORED["122"] = {
 
 # ---------------------------------------------------------------- unit 123
 AUTHORED["123"] = {
-    "title": "तद्वच्चोत्पलपत्रं कुमुदपत्रम्",
+    "title": "तद्वचोत्पलपत्रं कुमुदपत्रं",
     "question": "Which plant parts does unit 123 name for nasal use, and what does it leave unsaid?",
     "rule": ("Likewise: a leaf (or petal) of utpala, a leaf of kumuda, the root of lakṣmaṇā and banyan shoots; and one should "
              "instil into the nose (नावयेत्)."),
@@ -231,20 +231,20 @@ AUTHORED["123"] = {
               [0, 1, 2],
               "utpala leaf, kumuda leaf, lakṣmaṇā root and banyan shoots are named.",
               "उत्पलपत्र, कुमुदपत्र, लक्ष्मणामूल, वटशुङ्ग."),
-        mcq("transfer", 5, "The card says तद्वत् + च should join as तद्वच्च. By that rule, how is तत् + च written?",
-            ("तच्च", "त् before च becomes च्: तत् + च = तच्च."),
-            [("तद्च", "त् turns to द् before voiced sounds; च is not voiced."),
-             ("तन्च", "No nasal comes in before च."),
-             ("तत्च", "त् does not stay unchanged before च.")],
-            "तत् + च = तच्च, as तद्वत् + च = तद्वच्च.",
+        mcq("transfer", 5, "A final त् before च becomes च्. How is यत् + च written?",
+            ("यच्च", "त् before च becomes च्: यत् + च = यच्च."),
+            [("यद्च", "त् turns to द् before voiced sounds; च is not voiced."),
+             ("यन्च", "No nasal comes in before च."),
+             ("यत्च", "त् does not stay unchanged before च.")],
+            "यत् + च = यच्च; त् + च → च्च.",
             "त् + च → च्च.",
-            teaches="A final त् before च becomes च्: तद्वत् + च → तद्वच्च, तत् + च → तच्च."),
+            teaches="A final त् before च becomes च्: यत् + च → यच्च, तत् + च → तच्च."),
     ],
 }
 
 # ---------------------------------------------------------------- unit 124
 AUTHORED["124"] = {
-    "title": "शुक्लमाल्याम्बरधरा च नारी",
+    "title": "शुक्लमाल्यांबरधरा च नारी",
     "question": "In unit 124, what does the woman wear, what does she drink, with what, in what measure, and why?",
     "rule": ("A woman in white garlands and garments should drink with milk a root-paste of lakṣmaṇā uprooted under Puṣya, "
              "of the measure of an udumbara, for the birth (उत्पादाय) and the stability (स्थितये) of a son."),
@@ -303,7 +303,7 @@ AUTHORED["124"] = {
 
 # ---------------------------------------------------------------- unit 125
 AUTHORED["125"] = {
-    "title": "तद्वदपामार्गं जीवकऋषभकौ",
+    "title": "अपामार्गं जीवकऋषभकौ शंखपुष्पीं",
     "question": "Which drugs does the list of unit 125 name, and how sure is each identification?",
     "rule": ("Likewise: a list of drugs with apāmārga (Achyranthes aspera, standard), jīvaka and ṛṣabhaka (disputed), "
              "śaṅkhapuṣpī (disputed), a middle stalk, sahacara (probable), and others; or eight banyan shoots."),
@@ -370,7 +370,7 @@ AUTHORED["126"] = {
     "limits": ("Elliptical: what is ground is not named (the drugs of unit 125 are understood), and the text does not say who "
                "smells the vapour, the woman or the person instilling. स्थिताम् (feminine) points to the woman. 'As before' "
                "refers to the nasal use of unit 120 onward."),
-    "explain_hi": ("इकाई 125 के द्रव्य पीसे जाते और पकाए जाते हैं (पिष्टस्य, पच्यमानस्य)। "
+    "explain_hi": ("जो पीसा और पकाया जा रहा है (पिष्टस्य, पच्यमानस्य), उसका नाम नहीं कहा गया; इकाई 125 के द्रव्य समझे जाते हैं। "
                    "उनकी भाप (ऊष्माणम्) सूँघकर (आघ्राय), उनका रस (तद्रसम्) देहली पर खड़ी स्त्री को पहले की तरह (पूर्ववत्) नाक में डाला जाता है। "
                    "भाप कौन सूँघता है, पाठ नहीं कहता। ‘स्थिताम्’ स्त्रीलिंग द्वितीया है, इसलिए खड़ी वाली स्त्री है। "
                    "‘पच्यमान’ कर्मवाच्य वर्तमान कृदन्त है: ‘पकाया जा रहा’।"),
@@ -477,7 +477,7 @@ AUTHORED["127"] = {
 
 # ---------------------------------------------------------------- unit 128
 AUTHORED["128"] = {
-    "title": "ततः प्रजास्थापनाख्या महौषधीः",
+    "title": "ततः प्रजास्थापनारख्या महौषधीः",
     "question": "In unit 128, which group of herbs is named, and how should she bear them?",
     "rule": ("Then she should bear (धारयेत) the great herbs called prajāsthāpana (offspring-establishing) with the head and "
              "with the right hand."),
@@ -593,7 +593,7 @@ AUTHORED["129"] = {
 
 # ---------------------------------------------------------------- unit 130
 AUTHORED["130"] = {
-    "title": "तथा सर्वासां जीवनीयानामोषधीनाम्",
+    "title": "तथा सर्वासां जीवनीयानामोषधीनां",
     "question": "What does unit 130 add about the jīvanīya (life-promoting) herbs?",
     "rule": ("Likewise: the constant use (सदा उपयोगः) of all the jīvanīya (life-promoting) herbs by those various methods "
              "(तैस्तैर्विधिभिः)."),
@@ -623,13 +623,13 @@ AUTHORED["130"] = {
               "The unit is a noun phrase; no verb is stated.",
               "सर्व, जीवनीय, सदा, उपयोग, विधि.", role="extend",
               teaches="A repeated pronoun means 'various': तैस्तैः विधिभिः = by those various methods."),
-        mcq("discriminate", 3, "How does the sentence of unit 130 end, by the card?",
-            ("It appears to run on into unit 131", "The line break falls inside विधिभि(र्इ)ति."),
-            [("With a verb in this unit", "No verb is stated in unit 130."),
-             ("With the full list of jīvanīya herbs", "The members are not listed here."),
-             ("With a closing verse", "The unit is prose.")],
-            "No verb, and the closing (इ)ति comes in unit 131.",
-            "GROUPING: unit 130 continues into unit 131."),
+        mcq("discriminate", 3, "Which of these does unit 130 lack, by the card?",
+            ("A verb", "No verb is stated in unit 130."),
+            [("A noun for 'use'", "उपयोगः (use) is present."),
+             ("The name of the herb group", "जीवनीय is named."),
+             ("A word for 'always'", "सदा is present.")],
+            "The unit is a noun phrase: use, of all jīvanīya herbs, by those methods; no verb.",
+            "Unit 130: no verb is stated."),
         mcq("apply", 4, "Which split of सदोपयोगः is right?",
             ("सदा + उपयोगः", "आ + उ → ओ: सदा + उपयोगः = सदोपयोगः."),
             [("सदा + ओपयोगः", "ओपयोगः is not a word; the noun is उपयोगः."),
@@ -650,7 +650,7 @@ AUTHORED["130"] = {
 
 # ---------------------------------------------------------------- unit 131
 AUTHORED["131"] = {
-    "title": "(इ)ति गर्भस्थापनानि",
+    "title": "तिगर्भस्थापनानि",
     "question": "What does the short unit 131 call the preceding means?",
     "rule": ("गर्भस्थापनानि = foetus-establishing (ones), neuter nominative plural; the unit appears to close the sentence of unit 130."),
     "limits": ("The opening ति is read as इति with its इ lost (a possible reading, not certain). No noun is stated for "
@@ -689,13 +689,13 @@ AUTHORED["131"] = {
               [0, 1],
               "A short closing phrase: no verb and no stated noun.",
               "Unit 131 = closing phrase."),
-        mcq("apply", 4, "Which unit's sentence does unit 131 appear to complete, by the card?",
-            ("Unit 130", "GROUPING: the sentence of unit 130 appears to run on into 131."),
-            [("Unit 132", "Unit 132 comes after and begins a new topic."),
-             ("Unit 128", "Unit 128 is a complete sentence with its verb."),
-             ("Unit 120", "Unit 120 is far earlier and complete.")],
-            "Unit 130 has no verb and breaks off; unit 131 closes it.",
-            "130 + 131 = one sentence."),
+        mcq("apply", 4, "In गर्भस्थापनानि, what is said to be established?",
+            ("The foetus (गर्भ)", "गर्भ = foetus; स्थापन = establishing."),
+            [("The offspring's herbs", "No herbs are named in this unit."),
+             ("The husband's strength", "No husband is named in this unit."),
+             ("The mother's milk", "No milk is named in this unit.")],
+            "गर्भ + स्थापन: establishing the foetus.",
+            "गर्भस्थापन = foetus-establishing."),
         mcq("transfer", 5, "Like गर्भस्थापनानि, what is the nominative plural of the neuter a-stem मूल (root)?",
             ("मूलानि", "Neuter a-stem: -आनि."),
             [("मूलाः", "That is the masculine plural ending."),
@@ -709,7 +709,7 @@ AUTHORED["131"] = {
 
 # ---------------------------------------------------------------- unit 132
 AUTHORED["132"] = {
-    "title": "सौम्याकृतिवचनोपचारचेष्टाः",
+    "title": "सौम्याकृतिवचनोपचारचेष्टाश्च",
     "question": "What kind of attendants does unit 132 describe, and who else is named?",
     "rule": ("Attendants gentle in form, speech, service and conduct, following what is dear and beneficial (प्रियहितानुवर्तिनः); "
              "and likewise the husband (तथा भर्ता)."),
@@ -935,14 +935,13 @@ AIDS = {
         "chunks": "एताभिश्च सिद्धं पयो घृतं वा पिबेत् ‖ एताभिरेव पुष्ये पुष्ये स्नायात् | सदा चेत्थमालभेत",
     },
     "130": {
-        "chunks": "तथा | सर्वासां जीवनीयानाम् ओषधीनाम् | सदोपयोगः | तैस्तैर्विधिभि(र्इति) → इकाई 131",
+        "chunks": "तथा | सर्वासां जीवनीयानाम् ओषधीनाम् | सदोपयोगः | तैस्तैर्विधिभि(ः) → इकाई 131",
         "sandhi": "आ + उ → ओ: सदा + उपयोगः → सदोपयोगः · विसर्ग → स् त से पहले: तैः + तैः → तैस्तैः · विसर्ग → र् घोष से पहले: तैः + विधिभिः → तैर्विधिभिः।",
-        "frame": "कौन-सी: सभी जीवनीय औषधियाँ → क्या: सदा उपयोग → कैसे: उन-उन विधियों से → (वाक्य इकाई 131 में पूरा)।",
+        "frame": "कौन-सी: सभी जीवनीय औषधियाँ → क्या: सदा उपयोग → कैसे: उन-उन विधियों से → (वाक्य सम्भवतः इकाई 131 में चलता है)।",
     },
     "131": {
         "chunks": "(इ)ति | गर्भस्थापनानि",
         "frame": "गर्भ (गर्भ) + स्थापन (स्थिर करने वाला) + -आनि (नपुं. बहु.) = गर्भ को स्थिर करने वाले।",
-        "contrast": "इकाई 128: प्रजा-स्थापन (सन्तान को स्थिर करने वाली) ↔ इकाई 131: गर्भ-स्थापन (गर्भ को स्थिर करने वाले)।",
     },
     "132": {
         "diagram": {"groups": [
@@ -995,9 +994,9 @@ IMAGE_SPECS = {
     },
     ("125", "diagram"): {
         "file": "sh1-dravya-suchi-125.svg",
-        "alt": ("Table of unit 125 in list order with the card's labels: vauradanda unclear; apamarga, Achyranthes aspera, standard; "
-                "jivaka and rishabhaka, disputed; shankhapushpi, disputed; middle stalk; sahacara, probable Barleria prionitis; "
-                "namrajiva unclear; agnijihva, probable Gloriosa superba, corrected reading; or eight banyan shoots."),
+        "alt": ("Table of unit 125 in list order with the card's labels: vauradanda unclear; apamarga, chichra (standard); "
+                "jivaka and rishabhaka, disputed; shankhapushpi, shankhahuli? (disputed); middle stalk; sahacara, katsaraiya (probable); "
+                "namrajiva unclear; agnijihva, kalihari (probable); or eight banyan shoots."),
         "type": "table",
         "title": "इकाई १२५: सूची क्रम से",
         "heads": ["नाम", "पहचान"],
