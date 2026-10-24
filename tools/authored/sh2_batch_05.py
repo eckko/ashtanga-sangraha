@@ -66,11 +66,11 @@ AUTHORED["52"] = {
     "title": "मांसौदनबलिं चात्र निर्वपेत्",
     "question": "What offering does unit 52 say should be made here?",
     "rule": "And here one should offer a bali (offering) of meat (māṃsa) and boiled rice (odana).",
-    "limits": ("The one who offers is not printed ('one'). अत्र is read as 'here, in this case', as in unit 51; "
-               "the unit names no deity, place or time for the bali."),
+    "limits": ("The one who offers is not printed ('one'). अत्र is read as 'here, in this case', i.e. the situation of "
+               "unit 51 (preventing delivery); the unit names no deity, place or time for the bali."),
     "explain_hi": ("यह छोटी पंक्ति भी एक निर्देश है: ‘निर्वपेत्’ विधिलिङ् है, यानी अर्पित करे। "
                    "बलि यानी भेंट; यह मांस और ओदन (पके चावल) की हो। "
-                   "‘अत्र’ यानी यहाँ, इसी स्थिति में, जैसे इकाई ५१ में। "
+                   "‘अत्र’ यानी यहाँ, इसी स्थिति में (इकाई ५१ की स्थिति, प्रसव रोकना)। "
                    "कौन अर्पित करे, यह छपा नहीं है; अनुवाद ‘one’ लेता है।"),
     "hook": "मांस और ओदन की बलि: यहाँ अर्पित करे।",
     "core": False,
@@ -220,7 +220,7 @@ AUTHORED["54"] = {
               [0, 2],
               "The line says only that (he) becomes disordered after this; subject and kind of disorder are not stated.",
               "Read only what is printed: अतःपरं विकारी भवति."),
-        mcq("transfer", 5, "विकारी is m. nom. sg. of a stem in -इन्; ब्रह्मचारिणी (unit 51) is a feminine of that type. What is the m. nom. sg. of ब्रह्मचारिन्?",
+        mcq("transfer", 5, "विकारी is the m. nom. sg. of विकारिन्. By the same pattern, what is the m. nom. sg. of ब्रह्मचारिन्?",
             ("ब्रह्मचारी", "-इन् stem, m. nom. sg. → -ई, as विकारिन् → विकारी."),
             [("ब्रह्मचारिः", "-इन् stems take no visarga in the m. nom. sg."),
              ("ब्रह्मचारिन्", "That is the bare stem, not the nominative."),
@@ -297,7 +297,7 @@ AUTHORED["56"] = {
     "rule": "Staying there, the embryo sleeps when the mother is sleeping and wakes when she is awake.",
     "limits": ("The printed स्वापिति is read as स्वपिति (sleeps); the correction is only possible, so no question asks about "
                "that form. मातरि is understood again with प्रबुद्धायाम्."),
-    "explain_hi": ("वहाँ (गर्भकोष्ठ में) स्थित गर्भ माता के सोने पर सोता है और माता के जागने पर जाग जाता है। "
+    "explain_hi": ("वहाँ (सम्भवतः गर्भकोष्ठ में) स्थित गर्भ माता के सोने पर सोता है और माता के जागने पर जाग जाता है। "
                    "‘मातरि स्वपन्त्याम्’ और ‘प्रबुद्धायाम्’ सति सप्तमी हैं: जब माता सो रही हो, जब वह जागी हो। "
                    "दूसरे खण्ड में ‘मातरि’ फिर समझा जाता है; ‘प्रबुद्धायाम्’ स्त्रीलिंग है, इसलिए जागी हुई माता है। "
                    "छपा ‘स्वापिति’ सम्भवतः ‘स्वपिति’ है।"),
@@ -323,9 +323,9 @@ AUTHORED["56"] = {
               teaches="मातरि स्वपन्त्याम् is a locative absolute: 'when the mother is sleeping'."),
         mcq("discriminate", 3, "What is मातरि स्वपन्त्याम् in unit 56?",
             ("A locative absolute: when the mother is sleeping", "Both words are f. loc. sg.: a time-clause."),
-            [("A main clause: the mother sleeps", "There is no finite verb in these two words."),
-             ("An instrumental: by the sleeping mother", "The instrumental would be मात्रा स्वपन्त्या."),
-             ("A genitive: of the sleeping mother", "The genitive would be मातुः स्वपन्त्याः.")],
+            [("A main clause: the mother is sleeping now", "There is no finite verb in these two words."),
+             ("An instrumental: by the mother who is sleeping", "The instrumental would be मात्रा स्वपन्त्या."),
+             ("A genitive: of the mother who is sleeping", "The genitive would be मातुः स्वपन्त्याः.")],
             "Noun and participle together in the locative mark the time: when the mother is sleeping.",
             "Locative absolute = noun + participle in the locative: 'when …'."),
         mcq("apply", 4, "In प्रबुद्धायां प्रबुध्यते, who is awake (प्रबुद्धा), by the feminine ending?",
@@ -408,18 +408,18 @@ AUTHORED["57"] = {
 AUTHORED["58"] = {
     "title": "निषेकात्प्रभृति गर्भाशयोपस्नेहोपस्वेदौ वर्तनं",
     "question": "By unit 58, what sustains the embryo from impregnation onward, and what is fastened at its navel?",
-    "rule": ("From niṣeka (impregnation) onward, the moistening (upasneha) and warming (upasveda) of the womb are the means "
+    "rule": ("From niṣeka (impregnation) onward, the moistening (upasneha) and sweating or warming (upasveda) of the womb are the means "
              "of sustenance; a nāḍī (probably the umbilical cord) is fastened at the navel; then aparā and the mother's heart."),
     "limits": ("Two readings are conjectural: the limb compound (stray म and ऽ) and नाड्यांपरा read as नाड्याम् अपरा. "
                "प्रतिबद्धा is understood with the later links. A third-item reading of गर्भाशय is less likely. "
                "No question rests on the aparā link or on the limb compound."),
-    "explain_hi": ("निषेक (गर्भाधान, मानक अर्थ) से लेकर गर्भाशय का उपस्नेह (भीगना) और उपस्वेद (पसीना या उष्णता) ही गर्भ का वर्तन, "
+    "explain_hi": ("निषेक (गर्भाधान, मानक अर्थ) से लेकर गर्भाशय का उपस्नेह (भीगना) और उपस्वेद (पसीना या उष्णता) गर्भ का वर्तन, "
                    "यानी पोषण का साधन है। "
                    "उसके बाद, जब अंग-प्रत्यंग प्रकट होने लगते हैं (पाठ अनुमानित), उसकी नाभि में नाड़ी बँधी होती है; "
                    "नाड़ी सम्भवतः गर्भनाल है (सम्भावित पहचान)। "
                    "नाड़ी में अपरा यानी जेर (मानक अर्थ; पर यहाँ पाठ अनुमानित), और उसमें माता का हृदय। "
                    "‘प्रतिबद्धा’ (बँधी) एक बार छपा है और अगले जुड़ावों में समझा जाता है।"),
-    "hook": "पहले भीगना-सिंकना ही पोषण; फिर नाभि से नाड़ी, नाड़ी से अपरा, अपरा से माँ का हृदय।",
+    "hook": "पहले भीगना-सिंकना पोषण; फिर नाभि से नाड़ी, नाड़ी से अपरा, अपरा से माँ का हृदय।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 58, from when onward are the womb's upasneha and upasveda the means of sustenance?",
@@ -443,7 +443,7 @@ AUTHORED["58"] = {
         mcq("discriminate", 3, "By unit 58, what is fastened (प्रतिबद्धा) at the navel?",
             ("The nāḍī (probably the umbilical cord)", "नाभ्यां प्रतिबद्धा नाडी: a duct is fastened at the navel."),
             [("The womb's moistening", "Moistening is the early sustenance, not a thing fastened."),
-             ("The embryo's limbs", "The limbs are becoming manifest; they are not fastened."),
+             ("The hair-pores of the body", "Hair-pores are not named in this unit."),
              ("The rasa of food", "The rasa of food is not named in this unit.")],
             "नाभ्याम् (at the navel) प्रतिबद्धा (fastened) नाडी (duct; probably the umbilical cord).",
             "नाभ्यां प्रतिबद्धा नाडी."),
@@ -505,9 +505,9 @@ AUTHORED["59"] = {
             "अः + अ → ओऽ."),
         mcq("apply", 4, "By unit 59, through what does the rasa of food move?",
             ("Through the dhamanīs (probably blood vessels)", "धमनीभिः: through the vessels, instrumental plural."),
-            [("Through the hair-pores of the body", "Hair-pores are named in unit 62, not here."),
-             ("Through the mouth of the embryo", "No mouth is named in this unit."),
-             ("Through the large intestine", "The pakvāśaya comes in unit 61, not here.")],
+            [("Through the hair-pores of the mother's skin", "Hair-pores are named in unit 62, not here."),
+             ("Through the mouth and throat of the embryo", "No mouth or throat is named in this unit."),
+             ("Through the large intestine (pakvāśaya)", "The pakvāśaya comes in unit 61, not here.")],
             "धमनीभिः स्पन्दमानः: pulsating through the dhamanīs.",
             "धमनी = vessel (probably blood vessel)."),
         mcq("transfer", 5, "By the join in स्पन्दमानोऽपराम्, how is बालः + अपि written?",
@@ -553,7 +553,7 @@ AUTHORED["60"] = {
              "नाभिम् = to the navel."),
         mcq("discriminate", 3, "Which split of क्रमान्नाभिम् is right?",
             ("क्रमात् + नाभिम्", "त् before the nasal न becomes न्: क्रमात् + नाभिम् → क्रमान्नाभिम्."),
-            [("क्रमम् + नाभिम्", "म् before न would not give न्न."),
+            [("क्रमम् + नाभिम्", "That would give क्रमं नाभिम् or क्रमन्नाभिम्, with a short अ; the print has क्रमा-."),
              ("क्रमा + न्नाभिम्", "न्नाभिम् is not a word of the card."),
              ("क्रमात् + अन्नाभिम्", "अन्नाभिम् is not a word of the card.")],
             "क्रमात् (in sequence) + नाभिम् (to the navel).",
@@ -618,7 +618,7 @@ AUTHORED["61"] = {
         mcq("apply", 4, "In unit 61, what does सः (it) stand for, given its masculine form?",
             ("The rasa of food of unit 59", "The data reads सः as that rasa (masculine रसः)."),
             [("The mother's heart (हृदय)", "हृदय is neuter; सः is masculine."),
-             ("The navel (नाभि)", "नाभि is feminine; सः is masculine."),
+             ("The duct (नाडी)", "नाडी is feminine; सः is masculine."),
              ("The aparā (अपरा)", "अपरा is feminine; सः is masculine.")],
             "सः (m.) = the āhāra-rasa that reached the aparā in unit 59.",
             "A pronoun agrees in gender with what it stands for."),
@@ -639,8 +639,9 @@ AUTHORED["62"] = {
     "question": "Through what does unit 62 say there is moistening (upasneha)?",
     "rule": "Likewise, through the hair-pores there is moistening (upasneha), and the rasa itself having become payas.",
     "limits": ("Low confidence. पयस् can mean milk or water and the line does not say which; the second half is not a full "
-               "sentence and its sense is not firm. No question rests on पयस् or on the second half."),
-    "explain_hi": ("इस पंक्ति का विश्वास कम है। पहला खण्ड पक्का है: वैसे ही रोमकूपों से उपस्नेह (भीगना) होता है। "
+               "sentence and its sense is not firm. Questions on the second half ask only its printed words and their order, "
+               "never its sense or पयस्."),
+    "explain_hi": ("इस पंक्ति का विश्वास कम है। पहला खण्ड अपेक्षाकृत स्पष्ट है: वैसे ही रोमकूपों से उपस्नेह (भीगना) होता है। "
                    "दूसरा खण्ड अधूरा है: ‘रस ही पयस् बना हुआ’; पयस् का अर्थ दूध या जल, पंक्ति नहीं बताती। "
                    "‘रोमकूपैः’ तृतीया बहुवचन है: रोमकूपों के द्वारा। "
                    "‘होता है’ समझा गया है, छपा नहीं।"),
@@ -672,9 +673,9 @@ AUTHORED["62"] = {
             "ऐः + vowel → ऐर् + vowel."),
         mcq("apply", 4, "What form is रोमकूपैः in unit 62?",
             ("Instrumental plural: through the hair-pores", "-ऐः is the instrumental plural of an अ-stem."),
-            [("Locative plural: in the hair-pores", "The locative plural would be रोमकूपेषु."),
-             ("Genitive plural: of the hair-pores", "The genitive plural would be रोमकूपाणाम्."),
-             ("Nominative singular: a hair-pore", "The nominative singular would be रोमकूपः.")],
+            [("Locative plural: in and inside the hair-pores", "The locative plural would be रोमकूपेषु."),
+             ("Genitive plural: belonging to the hair-pores", "The genitive plural would be रोमकूपाणाम्."),
+             ("Nominative singular: one single hair-pore", "The nominative singular would be रोमकूपः.")],
             "रोमकूपैः = by / through the hair-pores (inst. pl.).",
             "अ-stem inst. pl. → -ऐः."),
         mcq("transfer", 5, "By the join in रोमकूपैरुपस्नेहो, how is अश्वैः + आगतम् written?",
@@ -698,7 +699,7 @@ AUTHORED["63"] = {
                "The text speaks only of gross waste; it does not say whether fine waste arises."),
     "explain_hi": ("जन्म न लिए हुए गर्भ में स्थूल मल उत्पन्न नहीं होता। "
                    "इसके दो कारण दिए हैं: अन्न और पान का सीधा (साक्षात्) प्रवेश नहीं होता, और रस अमल यानी मल-रहित होता है। "
-                   "‘अनुप्रवेशात्’ और ‘अमलत्वात्’ पंचमी हैं: कारण बताते हैं। "
+                   "‘अननुप्रवेशात्’ और ‘अमलत्वात्’ पंचमी हैं: कारण बताते हैं। "
                    "पाठ केवल स्थूल मल की बात करता है; सूक्ष्म मल के बारे में कुछ नहीं कहता।"),
     "hook": "न सीधा अन्न-पान, न मलिन रस: इसलिए गर्भ में स्थूल मल नहीं।",
     "core": True,
@@ -718,7 +719,7 @@ AUTHORED["63"] = {
         match(2, "Match each word of unit 63 to its meaning on the card.",
               [["अजात", "unborn"], ["साक्षात्", "directly"], ["अननुप्रवेश", "non-entry"], ["अमलत्व", "being free of waste"],
                ["असम्भव", "non-arising"]],
-              "Three of the words are negatives with अ-/अन्-: unborn, non-entry, non-arising (and अमल).",
+              "Four of the words carry the negative अ-/अन्-: अजात (unborn), अननुप्रवेश (non-entry), अमलत्व (being free of waste), असम्भव (non-arising).",
               "अजात, साक्षात्, अननुप्रवेश, अमलत्व, असम्भव.", role="extend",
               teaches="अ- or अन्- before a word negates it: अजात = unborn, अननुप्रवेश = non-entry."),
         multi("discriminate", 3, "Which two reasons does unit 63 give?",
@@ -752,8 +753,8 @@ AUTHORED["63"] = {
 NOTES_HI = {
     "51": ("विश्वास ऊँचा। ‘शुचिर्ब्रह्मचारिणी’ = शुचिः + ब्रह्मचारिणी: दो अलग विशेषण, समास नहीं (विसर्ग इ के बाद घोष ब से पहले र्)। "
            "सन्धियाँ: प्रतिषेध + अर्थम् → प्रतिषेधार्थम् (छपा ‘ार्थं’, अनुस्वार); दैवत + आराधन → दैवताराधन (अ + आ → आ); "
-           "तस्मात् + प्रसव → तस्मात्प्रसव (त् अघोष प से पहले अपरिवर्तित)। ब्रह्मचारिणी = ब्रह्मचर्य पालने वाली, यहाँ ‘पवित्र आचरण वाली’।"),
-    "52": ("विश्वास ऊँचा। ‘निर्वपेत्’ का कर्ता नहीं छपा। ‘अत्र’ = इस स्थिति में, जैसे इकाई ५१ में। ओदन = पका चावल (मानक)। "
+           "तस्मात् + प्रसव → तस्मात्प्रसव (त् अघोष प से पहले अपरिवर्तित)। ब्रह्मचारिणी = ब्रह्मचर्य पालने वाली, यहाँ ‘संयमी, ब्रह्मचर्य का पालन करने वाली’ (chaste), जैसा डेटा लेता है।"),
+    "52": ("विश्वास ऊँचा। ‘निर्वपेत्’ का कर्ता नहीं छपा। ‘अत्र’ = इस स्थिति में (इकाई ५१ की स्थिति)। ओदन = पका चावल (मानक)। "
            "सन्धियाँ: मांस + ओदन → मांसौदन (अ + ओ → औ); बलिम् + च → बलिं च; च + अत्र → चात्र (अ + अ → आ)।"),
     "53": ("विश्वास कम: अनुवाद शाब्दिक, अर्थ पक्का नहीं। ‘तस्मिन्’ किसकी ओर है, स्पष्ट नहीं। ‘आसंवत्सरात्’ = आ + पंचमी, वर्ष तक। "
            "सन्धियाँ: तस्मिन् + एक → तस्मिन्नेक (ह्रस्व स्वर के बाद न् स्वर से पहले द्वित्व); दिवस + अतिक्रान्ते → दिवसातिक्रान्ते; "
@@ -832,7 +833,7 @@ AIDS = {
         "sandhi": "विसर्ग + च → श्च: वृत्तेः + च → वृत्तेश्च।",
     },
     "58": {
-        "chain": {"steps": ["निषेक से: गर्भाशय का उपस्नेह-उपस्वेद ही वर्तन", "नाभि में बँधी नाडी (सम्भवतः गर्भनाल)",
+        "chain": {"steps": ["निषेक से: गर्भाशय का उपस्नेह-उपस्वेद वर्तन", "नाभि में बँधी नाडी (सम्भवतः गर्भनाल)",
                             "नाडी में अपरा (पाठ अनुमानित)", "उसमें माता का हृदय (बँधा, समझा गया)"]},
         "sandhi": "अ + उ → ओ: आशय + उपस्नेह → आशयोपस्नेह; उपस्नेह + उपस्वेदौ → उपस्नेहोपस्वेदौ · अ + आ → आ: गर्भ + आशय → गर्भाशय · अः + व → ओ व: ततः + व्यक्ती → ततो व्यक्ती।",
         "chunks": "निषेकात्प्रभृति | गर्भाशयोपस्नेहोपस्वेदौ वर्तनं | ततो व्यक्तीभवदङ्गप्रत्यङ्गस्यास्य (अनुमानित) | नाभ्यां प्रतिबद्धा नाडी | नाड्यामपरा (अनुमानित) | तस्यां मातृहृदयम्।",
@@ -843,7 +844,7 @@ AIDS = {
         "anchors": "हृदय → धमनी → अपरा: ‘ह-ध-अ’ (मेरी याद-पद्धति)।",
     },
     "60": {
-        "chain": {"steps": ["इकाई ५९: माता के हृदय से धमनियों द्वारा अपरा तक", "इकाई ६०: फिर क्रम से नाभि की ओर (क्रिया नहीं छपी)",
+        "chain": {"steps": ["इकाई ५९: माता के हृदय से धमनियों द्वारा अपरा तक", "इकाई ६०: फिर क्रम से नाभि की ओर (क्रिया नहीं छपी, जुड़ाव सम्भावित)",
                             "इकाई ६१: गर्भ के पक्वाशय में पकता"]},
         "sandhi": "त् + न → न्न: क्रमात् + नाभिम् → क्रमान्नाभिम् · विसर्ग क से पहले बना रहता: ततः + क्रमात् → ततः क्रमात्।",
         "frame": "ततः (फिर) → क्रमात् (क्रम से) → नाभिम् (नाभि को): केवल तीन शब्द, क्रिया नहीं।",
@@ -854,7 +855,7 @@ AIDS = {
         "letters": "मेरी याद-पद्धति: प-का-प्र-धा (पक्वाशय, कायाग्नि, प्रसाद, धातु), छपे क्रम में।",
     },
     "62": {
-        "frame": "पक्का: तथा रोमकूपैः उपस्नेहः (रोमकूपों से भीगना) · अनिश्चित: रस एव च पयोभूतः (पयस् = दूध या जल?)।",
+        "frame": "अपेक्षाकृत स्पष्ट: तथा रोमकूपैः उपस्नेहः (रोमकूपों से भीगना) · अनिश्चित: रस एव च पयोभूतः (पयस् = दूध या जल?)।",
         "sandhi": "ऐः + उ → ऐरु: रोमकूपैः + उपस्नेहः → रोमकूपैरुपस्नेहः · अः + र → ओ र: उपस्नेहः + रसः → उपस्नेहो रसः · अः + भ → ओ भ: पयः + भूतः → पयोभूतः।",
     },
     "63": {
@@ -878,7 +879,8 @@ IMAGE_SPECS = {
         "title": "गर्भकोष्ठ में गर्भ (इकाई ५५)",
         "heads": ["क्या", "कैसे / कौन"],
         "rows": [["मुख", "माता की पीठ की ओर"], ["हाथ", "ललाट पर अञ्जलि"], ["अंग", "सिकुड़े हुए"],
-                 ["दाहिना पार्श्व", "पुमान्"], ["बायाँ (समझा गया)", "स्त्री"], ["मध्य (समझा गया)", "नपुंसक"]],
+                 ["स्थान", "गर्भकोष्ठ (सम्भवतः गर्भाशय-गुहा)"], ["दाहिना पार्श्व", "पुमान्"],
+                 ["बायाँ (क्रिया समझी गई)", "स्त्री"], ["मध्य (क्रिया समझी गई)", "नपुंसक"]],
     },
     ("56", "seesaw"): {
         "file": "sh2-svapna-bodha-56.svg",
@@ -894,7 +896,7 @@ IMAGE_SPECS = {
                 "the mother's heart (fastened, understood)."),
         "type": "chain",
         "title": "इकाई ५८: पोषण और जुड़ाव",
-        "steps": ["निषेक से: गर्भाशय का उपस्नेह-उपस्वेद ही वर्तन", "नाभि में बँधी नाडी (सम्भवतः गर्भनाल)",
+        "steps": ["निषेक से: गर्भाशय का उपस्नेह-उपस्वेद वर्तन", "नाभि में बँधी नाडी (सम्भवतः गर्भनाल)",
                   "नाडी में अपरा (पाठ अनुमानित)", "उसमें माता का हृदय (बँधा, समझा गया)"],
     },
     ("59", "chain"): {
@@ -909,11 +911,11 @@ IMAGE_SPECS = {
     },
     ("60", "chain"): {
         "file": "sh2-rasa-marga-60.svg",
-        "alt": ("Chain across units 59 to 61: unit 59, from the mother's heart through the vessels to the apara; unit 60, then "
+        "alt": ("Chain across units 59 to 61 (the link is probable, as the data notes): unit 59, from the mother's heart through the vessels to the apara; unit 60, then "
                 "in sequence towards the navel (no verb printed); unit 61, cooked in the embryo's pakvashaya."),
         "type": "chain",
-        "title": "रस का मार्ग (इकाई ५९-६१)",
-        "steps": ["इकाई ५९: माता के हृदय से धमनियों द्वारा अपरा तक", "इकाई ६०: फिर क्रम से नाभि की ओर (क्रिया नहीं छपी)",
+        "title": "रस का मार्ग (इकाई ५९-६१, जुड़ाव सम्भावित)",
+        "steps": ["इकाई ५९: माता के हृदय से धमनियों द्वारा अपरा तक", "इकाई ६०: फिर क्रम से नाभि की ओर (क्रिया नहीं छपी, जुड़ाव सम्भावित)",
                   "इकाई ६१: गर्भ के पक्वाशय में पकता"],
     },
     ("61", "chain"): {
