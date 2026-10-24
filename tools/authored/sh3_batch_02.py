@@ -43,7 +43,7 @@ AUTHORED["14"] = {
               "उत्पीडन, दोषाः, हृदयम्, विदहन्ति, कण्डूः.", role="extend",
               teaches="ततः = then: it links the burning to the itching that follows."),
         mcq("discriminate", 3, "Why does प्राप्य (having reached) end in -य and not in -त्वा?",
-            ("Its verb has a prefix (प्र-), and with a prefix the absolutive takes -य",
+            ("Its verb has a prefix (प्र-)",
              "The data: absolutive of प्र + √आप्; a prefixed verb takes -य."),
             [("The ending -य marks a plural subject, the doṣas", "-य does not mark number; the absolutive has no person or number."),
              ("The ending -य makes it a command: let them reach", "A command would be an imperative; प्राप्य is an absolutive."),
@@ -87,7 +87,7 @@ AUTHORED["15"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 15, what should be given to her?",
-            ("Fresh butter cooked with sweet medicines", "नवनीतस्य मधुरौषधसिद्धस्य."),
+            ("Butter cooked with sweet medicines", "नवनीतस्य मधुरौषधसिद्धस्य."),
             [("Milk gruel containing ghee", "That is the eighth-month drink of card 23."),
              ("A paste of sandalwood and lotus stalk", "That paste is for rubbing, in card 16."),
              ("Water cooked with mālatī and madhuka", "That water is for pouring, in card 19.")],
@@ -147,7 +147,7 @@ AUTHORED["16"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 16, which parts of the body are named for the pastes?",
-            ("The breast and belly (स्तनोदरम्)", "स्तनोदरम् = breast and belly, a singular dvandva."),
+            ("The breast and belly", "स्तनोदरम् = breast and belly, a singular dvandva."),
             [("The head and feet", "No head or feet are named."),
              ("The back and the loins", "No back or loins are named."),
              ("The palms of the hands", "The palm is a measure in card 15, not here.")],
@@ -165,9 +165,9 @@ AUTHORED["16"] = {
               "चन्दन, मृणाल, शिरीष, सर्षप: standard; मधुक: probable.", role="extend",
               teaches="An identification keeps its label: मधुक is only probably licorice."),
         mcq("discriminate", 3, "By unit 16, in what form is each group used?",
-            ("First group as pastes (कल्क), second as powders (चूर्ण)", "कल्कैः for candana and mṛṇāla; चूर्णैः for the second group."),
-            [("Both groups as pastes (कल्क)", "The second group ends in चूर्णैः, powders."),
-             ("First group as powders, second as pastes", "It is the other way round."),
+            ("Pastes first, then powders", "कल्कैः for candana and mṛṇāla; चूर्णैः for the second group."),
+            [("Both groups as pastes", "The second group ends in चूर्णैः, powders."),
+             ("Powders first, then pastes", "It is the other way round."),
              ("Both groups cooked in oil (तैल)", "No oil is named in unit 16.")],
             "कल्क = paste; चूर्ण = powder.",
             "चन्दनमृणालकल्कैः ... चूर्णैर्वा."),
@@ -232,7 +232,7 @@ AUTHORED["17"] = {
             "वा ... वा = or ... or.",
             "वा = or."),
         mcq("apply", 4, "By unit 17, which set contains haridrā (turmeric)?",
-            ("The set with kuṭaja, arjaka seeds and mustā", "कुटजार्जकबीजमुस्ताहरिद्राकल्कैः."),
+            ("The set with kuṭaja and mustā", "कुटजार्जकबीजमुस्ताहरिद्राकल्कैः."),
             [("The set with nimba and mañjiṣṭhā", "That set has nimba, kola, surasā, mañjiṣṭhā."),
              ("The set with sandalwood and lotus stalk", "That is card 16."),
              ("A set of its own", "हरिद्रा is inside the first compound.")],
@@ -406,7 +406,7 @@ AUTHORED["20"] = {
             "-एत् = optative: should.",
             "वर्जयेत् = should avoid."),
         mcq("apply", 4, "By unit 20, who is to avoid scratching?",
-            ("The pregnant woman, understood; no subject is printed", "The data: subject understood, the pregnant woman."),
+            ("The pregnant woman (understood)", "The data: subject understood, the pregnant woman."),
             [("The physician, named in the line", "No one is named in the line."),
              ("The embryo", "The embryo cannot scratch; the data names the woman."),
              ("The women who speak in card 13", "Those women report a view; they are not the subject here.")],
@@ -557,7 +557,7 @@ AUTHORED["23"] = {
                    "छपा ‘षंढकाथो’ अस्पष्ट है: सम्भवतः किसी आपत्ति करने वाले आचार्य का नाम, पर यह अनुमान है; इस पर प्रश्न नहीं। "
                    "पिंगलता किसकी, यह नहीं कहा। "
                    "यह चर्चा अगली इकाई (कार्ड 24) में चलती है।"),
-    "hook": "आठवें में घी-दूध की यवागू; आपत्ति: गर्भ पीला-भूरा न हो जाए।",
+    "hook": "आठवें में घी-दूध की यवागू; आपत्ति: गर्भ को पिंगलता की बाधा का भय।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 23, what should she drink in the eighth (month)?",
@@ -578,7 +578,7 @@ AUTHORED["23"] = {
               "क्षीर, यवागू, सर्पिष्मती, पैङ्गल्य, आबाध, भय.", role="extend",
               teaches="-भयात् = from fear of: the ablative gives the reason of the objection."),
         mcq("discriminate", 3, "By unit 23, what reason does the objection give?",
-            ("Fear of a tawny-colour affliction to the embryo", "गर्भस्य पैङ्गल्याबाधभयात्."),
+            ("Fear of a tawny-colour affliction", "गर्भस्य पैङ्गल्याबाधभयात्."),
             [("The gruel is too heavy for the mother", "No heaviness is named."),
              ("Ghee causes itching of the skin", "Itching is card 14; no such link is said."),
              ("The eighth month is too early for gruel", "No timing objection is made.")],
@@ -723,8 +723,8 @@ AUTHORED["25"] = {
 AUTHORED["26"] = {
     "title": "बदरोदकेन ... युक्तेनास्थापयेत्",
     "question": "By unit 26, which enema is given, and with what?",
-    "rule": ("One should give an āsthāpana (decoction enema) with jujube water (बदरोदक) joined with palala, milk, curd, "
-             "whey (मस्तु), oil, salt, fruit, ghee and honey."),
+    "rule": ("One should give an āsthāpana (decoction enema) with jujube water (बदरोदक) joined with palala (disputed), milk, curd, "
+             "whey (मस्तु), oil, salt, fruit, ghee (printed गृत, read घृत) and honey."),
     "limits": ("palala is disputed (possibly sesame paste; flesh is another meaning): no question on it. Ghee rests on "
                "reading printed गृत as घृत: no question on it. The fruit is not named. Amounts and the month are not given; "
                "the pregnant woman is understood."),
@@ -828,7 +828,7 @@ NOTES_HI = {
            "ज्ञातीनामग्रगण्यम्; जनयति + इति → जनयतीति (इ + इ → ई); छपा ‘भगवान्आत्रेयः’ = भगवान् आत्रेयः।"),
     "26": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: ‘गृत’ कोई शब्द नहीं; ‘घृत’ (घी) सम्भावित सुधार — इस पर प्रश्न नहीं। पलल विवादित: "
            "सम्भवतः तिल-कल्क, ‘मांस’ भी अर्थ। फल अनिर्दिष्ट; मस्तु = दही का पानी। बदर = Ziziphus jujuba (मानक)। "
-           "सन्धि जाँची: बदर + उदकेन → बदरोदकेन (अ + उ → ओ); पयस् + दधि → पयोदधि (अस् → ओ घोष से पहले); "
+           "सन्धि जाँची: बदर + उदकेन → बदरोदकेन (अ + उ → ओ); पयस् + दधि → पयोदधि (अस् → ओ घोष व्यञ्जन से पहले); "
            "युक्तेन + आस्थापयेत् → युक्तेनास्थापयेत् (अ + आ → आ)।"),
 }
 
@@ -840,7 +840,7 @@ AIDS = {
         "sandhi": "अ + उ → ओ: गर्भ + उत्पीडनात् → गर्भोत्पीडनात् · आः → आ घोष से पहले: दोषाः + हृदयम् → दोषा हृदयम् · ऊ के बाद विसर्ग → र्: कण्डूः + जायते → कण्डूर्जायते।",
     },
     "15": {
-        "frame": "कब (तत्र) → किसका (नवनीतस्य) → कैसा (मधुरौषधसिद्धस्य) → कितना (पाणितलमात्रम्) → किसे (अस्यै) → क्रिया (दद्यात्)।",
+        "frame": "प्रसंग (तत्र, उस अवस्था में) → किसका (नवनीतस्य) → कैसा (मधुरौषधसिद्धस्य) → कितना (पाणितलमात्रम्) → किसे (अस्यै) → क्रिया (दद्यात्)।",
         "chunks": "तत्र | कोलोडकेन (?) | नवनीतस्य | मधुरौषधसिद्धस्य | पाणितलमात्रमस्यै | दद्यात्",
         "sandhi": "अ + औ → औ: मधुर + औषध → मधुरौषध · म् + स्वर: पाणितलमात्रम् + अस्यै → पाणितलमात्रमस्यै।",
     },
@@ -854,7 +854,7 @@ AIDS = {
     },
     "17": {
         "diagram": {"groups": [
-            {"label": "पहला विकल्प: कल्क", "items": ["कुटज (कुड़ा) के बीज", "अर्जक के बीज (सम्भवतः तुलसी)", "मुस्ता (नागरमोथा)",
+            {"label": "पहला विकल्प: कल्क", "items": ["कुटज (कुड़ा) के बीज", "अर्जक के बीज (सम्भवतः एक तुलसी)", "मुस्ता (नागरमोथा)",
                                                  "हरिद्रा (हल्दी)"]},
             {"label": "या दूसरा विकल्प: कल्क", "items": ["निम्ब (नीम)", "कोल (सम्भवतः बेर)", "सुरसा (सम्भवतः तुलसी)",
                                                     "मञ्जिष्ठा (मजीठ)"]}]},
@@ -915,7 +915,7 @@ AIDS = {
             {"label": "युक्त (क्रम से)", "items": ["पलल (विवादित)", "पयः (दूध)", "दधि (दही)", "मस्तु (दही का पानी)", "तैल",
                                                 "लवण", "फल", "घृत (सुधार-पाठ)", "मधु"]}]},
         "chunks": "बदरोदकेन | पललपयोदधिमस्तुतैललवणफलगृतमधुयुक्तेन | आस्थापयेत्",
-        "sandhi": "अ + उ → ओ: बदर + उदकेन → बदरोदकेन · अस् → ओ घोष से पहले: पयस् + दधि → पयोदधि · अ + आ → आ: युक्तेन + आस्थापयेत् → युक्तेनास्थापयेत्।",
+        "sandhi": "अ + उ → ओ: बदर + उदकेन → बदरोदकेन · अस् → ओ घोष व्यञ्जन से पहले: पयस् + दधि → पयोदधि · अ + आ → आ: युक्तेन + आस्थापयेत् → युक्तेनास्थापयेत्।",
     },
 }
 
@@ -955,7 +955,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "अभ्यंग के तीन साधन (इकाई १८)",
         "heads": ["साधन", "किसके साथ"],
-        "rows": [["१ जल", "शश, हरिण, पुनर्नवा, मालती (विवादित), मधुक से पका"],
+        "rows": [["१ जल", "शश, हरिण, पुनर्नवा, मालती (विवादित), मधुक (सम्भवतः मुलेठी) से पका"],
                  ["२ त्रिफला", "पृषत (चित्तीदार हिरन) के रुधिर से युक्त"],
                  ["३ तेल", "करवीर-पत्र के कल्क से पका"]],
     },
