@@ -490,7 +490,7 @@ AUTHORED["45"] = {
              ("Honey (kṣaudra)", "Honey is not named in verse 45.")],
             "प्रसृतः पृथगाज्याच्च: a prasṛta separately, and (one) from ghee.",
             "आज्य = ghee."),
-        mcq("transfer", 5, "Like सर्षपकल्कवान् (having mustard paste), which invented word says a basti has a paste of pippalī?",
+        mcq("transfer", 5, "Like सर्षपकल्कवान् (having mustard paste), which invented word says a basti has a paste of पिप्पली?",
             ("पिप्पलीकल्कवान्",
              "-वान् (masc. nom. sg.) = having; basti is masculine."),
             [("पिप्पलीकल्कवती", "Feminine; in this verse basti is masculine (सर्षपकल्कवान्, सपञ्चतिक्तः)."),

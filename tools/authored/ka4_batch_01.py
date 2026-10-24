@@ -271,7 +271,7 @@ AUTHORED["5"] = {
     "hook": "दशमूल + बकरे का रस, खट्टा, तीन स्नेह: वात-रोगों का श्रेष्ठ निरूह।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "What does verse 5 say this nirūha removes?",
+        mcq("pretest", 0, "What does verse 5 say this निरूह removes?",
             ("All diseases of Vāta (anila)",
              "सर्वानिलव्याधिहरः: remover of all anila (wind, Vāta) diseases."),
             [("All diseases of Kapha", "Kapha is not named in this verse."),
@@ -454,7 +454,7 @@ AUTHORED["8"] = {
                    "पल भर का अंश; फिर लघुपंचमूल। दूसरी पंक्ति एक लम्बी सूची है: रास्ना, बला यानी बरियार, छिन्नरुहा यानी गिलोय, "
                    "अश्वगन्धा यानी असगंध, पुनर्नवा यानी गदहपूर्णा, आरग्वध यानी अमलतास और देवदारु यानी देवदार। "
                    "इस श्लोक में क्रिया नहीं है; पकाने की बात श्लोक ९ में है।"),
-    "hook": "अरंडी-जड़ तीन पल, ढाक पल भर, लघुपंचमूल, फिर रास्ना से देवदारु तक सात।",
+    "hook": "अरंडी-जड़ तीन पल, सम्भवतः ढाक पल-अंश, लघुपंचमूल, फिर रास्ना से देवदारु तक सात।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "How much eraṇḍa root does verse 8 give?",

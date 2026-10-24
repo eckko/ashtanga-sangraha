@@ -980,7 +980,7 @@ IMAGE_SPECS = {
         "alt": "Chain of verse 38: decoction of shyama and trivrt, ghee or milk cooked with it, then a new recipe: eight handfuls with nails, boiled in one drona of water",
         "type": "chain",
         "title": "श्लोक ३८: घी या दूध, फिर नई विधि",
-        "steps": ["श्यामा-त्रिवृत् का काढ़ा", "उससे सिद्ध घी या दूध", "आठ नखसहित मुट्ठियाँ", "एक द्रोण जल में पकाना"],
+        "steps": ["श्यामा-त्रिवृत् का काढ़ा", "उससे सिद्ध घी या दूध", "नई विधि: आठ नखसहित मुट्ठियाँ", "एक द्रोण जल में पकाना"],
     },
     ("39", "chain"): {
         "file": "ka2-ghata-39.svg",

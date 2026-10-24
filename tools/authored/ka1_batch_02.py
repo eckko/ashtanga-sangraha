@@ -573,7 +573,7 @@ AUTHORED["21"] = {
              ("They are to be added as powder", "The powder added is of the fruit kernel.")],
             "आरग्वधादि … घोण्टाभूनिम्बबाणवर्ज्यानाम् = of the āragvadha group, excluding these three.",
             "X-वर्ज्य = excluding X."),
-        mcq("apply", 4, "A helper cooks the lick in an āragvadha decoction but adds nothing else. What does unit 21 still require?",
+        mcq("apply", 4, "A helper cooks the lick in an आरग्वध decoction but adds nothing else. What does unit 21 still require?",
             ("Mixing in the fruit-kernel powder", "फलमज्जाचूर्णमिश्रेण = mixed with the powder of the fruit kernel."),
             [("Steeping it in its own decoction", "Steeping in its own decoction is the step of line 05.01.15."),
              ("Cooling it in a dust-free pot", "The dust-free pot is for storage in line 05.01.11."),

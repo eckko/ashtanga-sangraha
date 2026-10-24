@@ -812,7 +812,7 @@ AUTHORED["37"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "What does the trivṛt ghee of verse 37 take away?",
+            "What does the त्रिवृत् ghee of verse 37 take away?",
             ("Gulma, the abdominal lump",
              "गुल्महरं घृतं = ghee that takes away gulma."),
             [("Fever together with thirst", "Neither is named in this verse."),

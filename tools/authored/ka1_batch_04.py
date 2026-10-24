@@ -19,10 +19,10 @@ AUTHORED["40"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "Which drug does unit 40 say is especially to be applied in cough, fever and vomiting?",
-            ("Ikṣvāku, the bitter bottle gourd", "ईक्ष्वाकुस्तु विशेषेण … योज्यः: ikṣvāku is especially to be applied."),
+            ("Ikṣvāku, probably the bitter bottle gourd", "ईक्ष्वाकुस्तु विशेषेण … योज्यः: ikṣvāku is especially to be applied."),
             [("Madana, the emetic nut fruit", "Madana is the drug of the earlier sections, not of this unit."),
-             ("Kuṭaja, the bark of the vatsaka tree", "Kuṭaja is not named in this unit."),
-             ("Jīmūtaka, the bitter luffa", "Jīmūtaka is the drug of the section before; this unit turns to ikṣvāku.")],
+             ("Kuṭaja (vatsaka)", "Kuṭaja is not named in this unit."),
+             ("Jīmūtaka, probably the bitter luffa", "Jīmūtaka is the drug of the section before; this unit turns to ikṣvāku.")],
             "Unit 40 opens the ikṣvāku section: ikṣvāku is especially to be applied in these ailments.",
             "इक्ष्वाकु = bitter bottle gourd (probable); विशेषेण = especially; योज्यः = to be applied."),
         order(1, "Put the ailments of unit 40 in the order of the text.",
@@ -724,7 +724,7 @@ AUTHORED["52"] = {
               "त्रिकटुक = three pungents (standard); वत्सक = kuṭaja; कृतवेधन = ridged gourd; पिष्ट्वा = having ground.",
               role="extend",
               teaches="त्रिकटुक = dry ginger + long pepper + black pepper (standard); वत्सक = kuṭaja (probable); कृतवेधन = ridged gourd (probable)."),
-        mcq("discriminate", 3, "How much of the ground tumbī seeds does unit 52 take?",
+        mcq("discriminate", 3, "How much of the ground तुम्बी seeds does unit 52 take?",
             ("Equal to the ghee", "घृतसमानि = equal to the ghee."),
             [("Equal to the decoction", "Equal to the decoction is the trikaṭuka, not the seeds."),
              ("Double the ghee", "No doubling is named in this unit."),
@@ -942,7 +942,7 @@ AIDS = {
     "43": {
         "chain": {"steps": ["पुराना फल लो", "उसके बीज निकालो", "उसमें दूध डालो", "उसी में दही जमे"]},
         "anchors": "जीर्ण = पुराना · समुद्धृत = निकाला हुआ · प्रक्षिपेत् = डाले · जात = बना हुआ · दधि = दही।",
-        "pegs": "मेरा बनाया चित्र: खोखली लौकी एक छोटी मटकी है, जिसमें डाला दूध दही बन जाता है।",
+        "pegs": "मेरा बनाया चित्र: खोखला फल (सम्भवतः कड़वी लौकी) एक छोटी मटकी है, जिसमें डाला दूध दही बन जाता है।",
     },
     "44": {
         "diagram": {"groups": [{"label": "बकरी के दूध में भीगे बीज (पाठ-क्रम)",

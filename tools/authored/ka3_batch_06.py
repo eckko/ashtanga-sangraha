@@ -207,10 +207,10 @@ AUTHORED["67"] = {
     "rule": "And he should carry out the procedure (kriyā) for raktātisāra (bloody diarrhoea).",
     "limits": ("The procedure itself is not described here. atisāra = diarrhoea (standard), literally 'excessive going or "
                "flowing'; raktātisāra = diarrhoea with blood."),
-    "explain_hi": ("विरेचन के अतियोग के उपचार में एक और सूत्र: रक्तातिसार यानी खूनी दस्त की क्रिया की जाए। अतिसार का शाब्दिक अर्थ "
+    "explain_hi": ("प्रसंग से (सम्भवतः विरेचन के अतियोग के उपचार में) एक और सूत्र: रक्तातिसार यानी खूनी दस्त की क्रिया की जाए। अतिसार का शाब्दिक अर्थ "
                    "‘अधिक बहना’ है; आधुनिक नाम दस्त (मानक)। यह एक संकेत है: पूरी विधि यहाँ नहीं, दूसरी जगह कही गई है। "
                    "‘च’ इसे पिछले उपायों से जोड़ता है।"),
-    "hook": "जुलाब अधिक हुआ? खूनी दस्त का इलाज लगाओ।",
+    "hook": "खूनी दस्त की क्रिया भी करो (प्रसंग: सम्भवतः अतियोग)।",
     "core": False,
     "questions": [
         mcq("pretest", 0,

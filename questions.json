@@ -65113,7 +65113,7 @@
        {
         "aid": "pegs",
         "label": "चित्र-शब्द (मेरा बनाया चित्र)",
-        "text": "मेरा बनाया चित्र: खोखली लौकी एक छोटी मटकी है, जिसमें डाला दूध दही बन जाता है।"
+        "text": "मेरा बनाया चित्र: खोखला फल (सम्भवतः कड़वी लौकी) एक छोटी मटकी है, जिसमें डाला दूध दही बन जाता है।"
        },
        {
         "aid": "anchors",
@@ -92154,7 +92154,7 @@
       "key": "explain",
       "label": "व्याख्या",
       "study": true,
-      "text": "विरेचन के अतियोग के उपचार में एक और सूत्र: रक्तातिसार यानी खूनी दस्त की क्रिया की जाए। अतिसार का शाब्दिक अर्थ ‘अधिक बहना’ है; आधुनिक नाम दस्त (मानक)। यह एक संकेत है: पूरी विधि यहाँ नहीं, दूसरी जगह कही गई है। ‘च’ इसे पिछले उपायों से जोड़ता है।"
+      "text": "प्रसंग से (सम्भवतः विरेचन के अतियोग के उपचार में) एक और सूत्र: रक्तातिसार यानी खूनी दस्त की क्रिया की जाए। अतिसार का शाब्दिक अर्थ ‘अधिक बहना’ है; आधुनिक नाम दस्त (मानक)। यह एक संकेत है: पूरी विधि यहाँ नहीं, दूसरी जगह कही गई है। ‘च’ इसे पिछले उपायों से जोड़ता है।"
      },
      {
       "key": "aids",
@@ -211919,7 +211919,7 @@
    "role": "apply",
    "rung": 4,
    "kind": "mcq",
-   "q": "A helper cooks the lick in an āragvadha decoction but adds nothing else. What does unit 21 still require?",
+   "q": "A helper cooks the lick in an आरग्वध decoction but adds nothing else. What does unit 21 still require?",
    "options": [
     "Steeping it in its own decoction",
     "Cooling it in a dust-free pot",
@@ -214792,9 +214792,9 @@
    "q": "Which drug does unit 40 say is especially to be applied in cough, fever and vomiting?",
    "options": [
     "Madana, the emetic nut fruit",
-    "Ikṣvāku, the bitter bottle gourd",
-    "Kuṭaja, the bark of the vatsaka tree",
-    "Jīmūtaka, the bitter luffa"
+    "Ikṣvāku, probably the bitter bottle gourd",
+    "Kuṭaja (vatsaka)",
+    "Jīmūtaka, probably the bitter luffa"
    ],
    "answer": 1,
    "optionExplain": [
@@ -216749,7 +216749,7 @@
    "role": "discriminate",
    "rung": 3,
    "kind": "mcq",
-   "q": "How much of the ground tumbī seeds does unit 52 take?",
+   "q": "How much of the ground तुम्बी seeds does unit 52 take?",
    "options": [
     "Equal to the decoction",
     "Double the ghee",
@@ -224636,7 +224636,7 @@
    "role": "pretest",
    "rung": 0,
    "kind": "mcq",
-   "q": "What does the trivṛt ghee of verse 37 take away?",
+   "q": "What does the त्रिवृत् ghee of verse 37 take away?",
    "options": [
     "Fever together with thirst",
     "Gulma, the abdominal lump",
@@ -239869,7 +239869,7 @@
     "Food and water are not named in unit 32."
    ],
    "explain": "पित्त-कफ-संसृष्टम् = mixed with Pitta and Kapha.",
-   "rule": "Parisrava: outflow mixed with Pitta and Kapha.",
+   "rule": "परिस्रवति: it flows out mixed with Pitta and Kapha.",
    "unit": "कल्प अध्याय ३",
    "unitTitle": "वमनविरेचनव्यापत्सिद्धि",
    "section": "परिस्राव और उसकी चिकित्सा",
@@ -250644,7 +250644,7 @@
    "role": "pretest",
    "rung": 0,
    "kind": "mcq",
-   "q": "What does verse 5 say this nirūha removes?",
+   "q": "What does verse 5 say this निरूह removes?",
    "options": [
     "All diseases of Kapha",
     "All diseases of Vāta (anila)",
@@ -255405,9 +255405,9 @@
     "शाल्मलकस्य च",
     "क्षीरसाधितैः"
    ],
-   "explain": "Beneficial, in straining, (stalks) of śālmalaka, then (drugs) prepared with milk at the end of line 2.",
+   "explain": "Beneficial, in straining, likewise of śālmalaka, then (drugs) prepared with milk at the end of line 2.",
    "rule": "हितः · प्रवाहणे · शाल्मलकस्य च · क्षीरसाधितैः.",
-   "teaches": "Verse 34 opens with the benefit (हितः प्रवाहणे), repeats the stalk remedy with śālmalaka, and closes with drugs prepared with milk.",
+   "teaches": "Verse 34 opens with the benefit (हितः प्रवाहणे), adds śālmalaka (likewise), and closes with drugs prepared with milk.",
    "unit": "कल्प अध्याय ४",
    "unitTitle": "बस्तिकल्प",
    "section": "पिच्छा बस्ति और व्यापद् में बस्ति",
@@ -257252,7 +257252,7 @@
    "role": "transfer",
    "rung": 5,
    "kind": "mcq",
-   "q": "Like सर्षपकल्कवान् (having mustard paste), which invented word says a basti has a paste of pippalī?",
+   "q": "Like सर्षपकल्कवान् (having mustard paste), which invented word says a basti has a paste of पिप्पली?",
    "options": [
     "पिप्पलीकल्कवान्",
     "पिप्पलीकल्कवती",

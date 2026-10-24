@@ -655,7 +655,7 @@ AUTHORED["32"] = {
              ("Vāta alone", "Vāta is not named; the outflow is with Pitta and Kapha."),
              ("Undigested food and water", "Food and water are not named in unit 32.")],
             "पित्त-कफ-संसृष्टम् = mixed with Pitta and Kapha.",
-            "Parisrava: outflow mixed with Pitta and Kapha."),
+            "परिस्रवति: it flows out mixed with Pitta and Kapha."),
         mcq("transfer", 5,
             "क्रूरकोष्ठस्य means of one with a hard bowel. Which invented form, built the same way, means of one with a soft bowel?",
             ("मृदुकोष्ठस्य",
