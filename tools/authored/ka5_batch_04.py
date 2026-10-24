@@ -17,10 +17,9 @@ AUTHORED["47"] = {
     "rule": ("Verse 47 opens a drug list in the accusative: daśamūla (the ten roots), varā, rāsnā, "
              "aśvagandhā and punarnavā; then guḍūcī, eraṇḍa, bhūtīka, bhārgī, vṛṣaka and śirīṣa. "
              "Its verb comes later (verse 49)."),
-    "limits": ("Low confidence. Line 2 is one damaged compound: the eraṇḍa member (printed -yaiṃraṃḍa-) "
-               "and śirīṣa (printed śeriṣa) rest on suggested readings, so no question uses them. "
-               "bhūtīka is unidentified; rāsnā is disputed. The ten roots of daśamūla are not named in "
-               "the verse (an open point), and no verb stands in this unit."),
+    "limits": ("Low confidence. In the damaged compound of line 2, eraṇḍa and śirīṣa rest on suggested "
+               "readings: no question uses them. bhūtīka is unidentified, rāsnā disputed. The ten roots "
+               "of daśamūla are not named (open point). No verb here."),
     "explain_hi": ("यहाँ से वात-पित्तहर अनुवासन तेलों का नया प्रकरण शुरू होता है, और यह श्लोक पहले तेल के द्रव्य गिनाता है। "
                    "पहली पंक्ति: दशमूल यानी दस जड़ों का समूह, वरा यानी सम्भवतः त्रिफला, रास्ना (पहचान विवादित), अश्वगन्धा यानी असगन्ध और पुनर्नवा। "
                    "दूसरी पंक्ति एक लम्बा समास है: गुडूची यानी गिलोय, एरण्ड यानी अरंडी, भूतीक, भार्गी यानी भारंगी, वृषक यानी सम्भवतः अडूसा और शिरीष। "
@@ -99,7 +98,7 @@ AUTHORED["48"] = {
             ("With the prasṛta", "प्रसृतोन्मितान् = measured by prasṛta, the cupped-palm measure."),
             [("With the pala", "Pala goes with the three drugs of line 1 (palāṃśika)."),
              ("With the droṇa", "Droṇa is the remainder of the boiling in verse 49."),
-             ("With the āḍhaka", "Āḍhaka measures the oil in verse 49.")],
+             ("With the āḍhaka (a volume)", "Āḍhaka measures the oil in verse 49.")],
             "The measure word is joined to the grains in one compound: prasṛta-unmita.",
             "प्रसृत-उन्मित = प्रसृत से मापा हुआ."),
         match(1, "Match each grain of verse 48 to its meaning on the card.",
@@ -123,7 +122,7 @@ AUTHORED["48"] = {
             ("No; each is not in the Sanskrit", "The card: the noun is not stated and 'each' is not in the text."),
             [("Yes; palāṃśika means each", "Palāṃśika means having a pala as share, nothing about each."),
              ("Yes; prasṛta means each one", "Prasṛta is a measure, the cupped palm."),
-             ("No; the verse has no measures", "It has two: pala and prasṛta.")],
+             ("No; the verse gives no measures at all", "It gives two: pala and prasṛta.")],
             "Do not supply 'each': the verse gives the measure, not its distribution.",
             "‘प्रत्येक’ पाठ में नहीं."),
         mcq("transfer", 5,
@@ -244,14 +243,14 @@ AUTHORED["50"] = {
             "आनूप comes from अनूप, marshy (watery) country.",
             "आनूप = दलदली भूमि का."),
         mcq("apply", 4, "To what does तद्वत् (similarly) in verse 50 point, by the card?",
-            ("The preparation just described", "The card: tadvat refers to the preparation of the previous units."),
+            ("The preparation described before", "The card: tadvat refers to the preparation of the previous units."),
             [("The Pitta ghee of verse 55", "A later verse cannot be meant by 'similarly' here."),
              ("A preparation without drugs", "The line itself names the jīvanīya drugs."),
              ("The way the enema is given", "Giving the enema is not described in these verses.")],
             "Like the oil of verses 47-49, the vasā is cooked with the jīvanīya drugs.",
             "तद्वत् = उसी प्रकार (पिछली विधि से)."),
         mcq("transfer", 5,
-            "Like सर्ववातविकारनुत् (stem -नुद्), how does an invented 'dispelling Kapha disorders' end in the nominative?",
+            "Like सर्ववातविकारनुत् (stem -नुद्), how does an invented compound for dispelling Kapha disorders end in the nominative?",
             ("कफविकारनुत्", "A final द् becomes त् at the end of a word: -नुद् → -नुत्."),
             [("कफविकारनुद्", "A final voiced द् is not kept at the end of a word."),
              ("कफविकारनुदः", "-नुदः is another case or the plural, not this nominative singular."),
@@ -344,7 +343,7 @@ AUTHORED["52"] = {
         mcq("pretest", 0,
             "What is मदन in verse 52, by the card?",
             ("Emetic nut (Randia dumetorum)", "मदन = madana, the emetic nut (standard)."),
-            [("Liquorice root (madhuka)", "Liquorice is the probable madhuka, a separate item."),
+            [("Liquorice root, the probable madhuka", "Liquorice is the probable madhuka, a separate item."),
              ("Long pepper (kṛṣṇā here)", "Long pepper is the probable kṛṣṇā of line 2."),
              ("Asparagus root (śatāvarī)", "Śatāvarī closes line 2; it is not madana.")],
             "Each drug has its own identification; madana is the emetic nut.",
@@ -370,7 +369,7 @@ AUTHORED["52"] = {
         mcq("apply", 4, "Why does शताह्वर्षभकौ end in -औ?",
             ("It is a dual: two drugs joined", "The card: a dual dvandva, śatāhvā and ṛṣabhaka."),
             [("It is a locative: in śatāhvā", "The gram label is nom./acc. dual, not locative."),
-             ("It is one drug named twice", "A dvandva joins two different drugs."),
+             ("It is one single drug named twice over", "A dvandva joins two different drugs."),
              ("It is a verb: they cook", "No verb stands in verse 52.")],
             "-औ here marks the dual of a dvandva of two items (check the gram label: -au is not always dual).",
             "द्वन्द्व, द्विवचन: शताह्वा और ऋषभक."),
@@ -808,7 +807,7 @@ AUTHORED["59"] = {
         mcq("apply", 4, "Which split of हन्यात्तदनुवासनं is right?",
             ("हन्यात् + तत् + अनुवासनम्", "त् + त → त्त; तत् + अ → तद (voiced before a vowel)."),
             [("हन्या + तत् + अनुवासनम्", "That would give हन्यातद-, with a single त."),
-             ("हन्यात् + तत + अनुवासनम्", "तत + अ would give ता: -तताnu- is not printed."),
+             ("हन्यात् + तत + अनुवासनम्", "तत + अ would give ता: हन्यात्तता- is not printed."),
              ("हन्यात् + तद् + नुवासनम्", "तद् + न gives तन्न, and नुवासन is no word.")],
             "हन्यात् keeps its त् before त; तत् becomes तद् before the vowel अ.",
             "हन्यात् + तत् + अनुवासनम् = हन्यात्तदनुवासनम्."),
@@ -1038,11 +1037,10 @@ AIDS = {
         "anchors": "स्वगुप्ता = कौंच · कर्कटाख्या = कर्कट नामक · शठी = सम्भवतः कपूरकचरी · वचा = बच · पिष्ट्वा = पीसकर · क्षीर = दूध।",
     },
     "54": {
-        "diagram": {"groups": [{"label": "गुण", "items": ["बृंहण"]},
+        "diagram": {"groups": [{"label": "गुण और नाम", "items": ["बृंहण", "पुत्रीय अनुवासन"]},
                                {"label": "नाश करे", "items": ["वात", "पित्त"]},
                                {"label": "बढ़ाए", "items": ["बल", "शुक्र", "अग्नि"]},
-                               {"label": "रोग हरे", "items": ["रज", "शुक्र"]},
-                               {"label": "नाम", "items": ["पुत्रीय अनुवासन"]}]},
+                               {"label": "रोग हरे", "items": ["रज", "शुक्र"]}]},
         "contrast": "-घ्न ↔ -वर्धन: वातपित्तघ्न = वात-पित्त का नाश; बलशुक्राग्निवर्धन = बल, शुक्र, अग्नि की वृद्धि।",
         "anchors": "बृंहण = पोषण · घ्न = नाशक · वर्धन = बढ़ाने वाला · रजस् = आर्तव · आमय = रोग · पुत्रीय = पुत्र से सम्बन्धित।",
     },
@@ -1090,11 +1088,14 @@ AIDS = {
 IMAGE_SPECS = {
     ("47", "diagram"): {
         "file": "ka5-dashamula-taila-47.svg",
-        "alt": ("Mind map of verse 47: line 1 has five drugs (dashamula, vara, rasna, ashvagandha, punarnava); "
+        "alt": ("Table of verse 47: line 1 has five drugs (dashamula, vara, rasna, ashvagandha, punarnava); "
                 "line 2, a damaged compound, has six (guduci, eranda conjectural, bhutika, bhargi, vrishaka, shirisha conjectural)"),
-        "type": "mermaid",
-        "code": ('mindmap\n  अनुवासन तैल के द्रव्य\n    पंक्ति एक\n      दशमूल\n      वरा\n      रास्ना\n      अश्वगन्धा\n      पुनर्नवा\n'
-                 '    पंक्ति दो\n      गुडूची\n      एरण्ड, अनुमानित\n      भूतीक\n      भार्गी\n      वृषक\n      शिरीष, अनुमानित\n'),
+        "type": "table",
+        "title": "श्लोक ४७: अनुवासन तैल के द्रव्य",
+        "heads": ["पंक्ति", "द्रव्य"],
+        "rows": [["पंक्ति १", "दशमूल, वरा, रास्ना"], ["पंक्ति १", "अश्वगन्धा, पुनर्नवा"],
+                 ["पंक्ति २", "गुडूची, एरण्ड (अनुमानित)"], ["पंक्ति २", "भूतीक, भार्गी, वृषक"],
+                 ["पंक्ति २", "शिरीष (अनुमानित)"]],
     },
     ("49", "chain"): {
         "file": "ka5-vaha-drona-49.svg",
