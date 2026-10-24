@@ -280,12 +280,12 @@ AUTHORED["127"] = {
               "कुक्षि, प्रस्पन्दते, यदि, शीघ्रम्, पाटयित्वा, उद्धरेत्.", role="extend",
               teaches="यदि … ततः = if … then: the condition comes first, the action after ततः."),
         mcq("discriminate", 3, "Which split of उद्धरेच्छिशुम् is right?",
-            ("उद्धरेत् + शिशुम्", "त् before श becomes च्, and the श usually becomes छ: उद्धरेच्छिशुम्."),
+            ("उद्धरेत् + शिशुम्", "त् before श becomes च्, and the श may become छ before a vowel (optional; च्श also correct): उद्धरेच्छिशुम्."),
             [("उद्धरेः + शिशुम्", "A visarga before श stays or becomes श्; it never gives च्छ."),
              ("उद्धरेम् + शिशुम्", "A final म् before a consonant becomes ं: उद्धरें शिशुम्."),
              ("उद्धरेच् + छिशुम्", "छिशुम् is not a word; the word is शिशुम्, the child.")],
             "उद्धरेत् (should take out) + शिशुम् (the child).",
-            "त् + श → च्छ (usual written form)."),
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
         multi("apply", 4, "Which statements about verse 127 are right by the card?",
               [("The verse says plainly that she has died", "Vipanna means ruined or dead; the verse does not say death plainly."),
                ("The verse explains what bastidvāra is", "It is not explained; it is read literally."),
@@ -759,12 +759,12 @@ AUTHORED["135"] = {
               "इति, गर्भ, व्यापद्, नाम, चतुर्थ.", role="extend",
               teaches="गर्भव्यापद् = गर्भ + व्यापद्: a mishap of the fetus, the theme of the whole chapter."),
         mcq("discriminate", 3, "Which split of गर्भव्यापन्नाम is right?",
-            ("गर्भव्यापत् + नाम", "A final त् before a nasal may become न्: गर्भव्यापन्नाम."),
+            ("गर्भव्यापत् + नाम", "A final त् before a nasal may become न् (optional; द् is also correct): गर्भव्यापन्नाम."),
             [("गर्भव्यापः + नाम", "अः before a voiced sound gives ओ: गर्भव्यापो नाम."),
              ("गर्भव्यापा + नाम", "आ before न stays: गर्भव्यापानाम, with one न."),
              ("गर्भव्यापम् + नाम", "A final म् before a consonant becomes ं: गर्भव्यापं नाम.")],
-            "गर्भव्यापत् (mishap of the fetus) + नाम (named): त् + न → न्न.",
-            "त् + nasal → न् (may)."),
+            "गर्भव्यापत् (mishap of the fetus) + नाम (named): त् + न → न्न (optional; द् is also correct).",
+            "त् + nasal → न् (optional; द् is also correct)."),
         fill(4, "In unit 135 the word for fourth is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("चतुर्थः", None, "चतुर्थ"),
              "चतुर्थः = fourth; before अध्यायः it is printed चतुर्थोऽध्यायः.",
@@ -805,7 +805,7 @@ NOTES_HI = {
             "‘विपन्न’ = नष्ट या मृत; प्रसंग मृत्यु सुझाता है, पंक्ति स्पष्ट नहीं कहती। ‘बस्तिद्वार’ नहीं समझाया गया (बस्ति-क्षेत्र का द्वार या "
             "श्रोणि-मार्ग सम्भव); शाब्दिक रखा, इस पर प्रश्न नहीं। कुक्षि = पेट, विशेषतः गर्भाशय नहीं। ‘पाटयित्वा’ का कर्म (पेट) छपा नहीं। "
             "‘जन्मकाले’ = ‘जन्म के उचित समय पर’ भी। सन्धि जाँची: पाटयित्वा + उद्धरेत् → पाटयित्वोद्धरेत् (आ + उ → ओ); उद्धरेत् + शिशुम् → "
-            "उद्धरेच्छिशुम् (त् + श → च्छ, सामान्य लिखित रूप); छपा ‘शिशुं’ = शिशुम्।"),
+            "उद्धरेच्छिशुम् (त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ)); छपा ‘शिशुं’ = शिशुम्।"),
     "128": ("श्लोक, दो छपी पंक्तियाँ (02.04.145, 02.04.146); विश्वास मध्यम; कोई पाठ-चिह्न नहीं। सात योगों की शृंखला (इकाई १२८-१३१) "
             "यहीं से; हर आधा श्लोक एक योग; दूध इकाई १३१ में, क्रिया ‘योजयेत्’ और सात महीने इकाई १३२ में। पहचान: मधुक = मुलेठी (सम्भावित; "
             "महुआ दूसरा विकल्प); शाक = सागौन (सम्भावित; ‘सब्ज़ी’ भी अर्थ); पयस्या विवादित; सुरदारु = देवदार (सम्भावित); अश्मन्तक विवादित; "
@@ -871,7 +871,7 @@ AIDS = {
         "chain": {"steps": ["बस्तिद्वार पर विपन्न स्त्री", "यदि उसकी कुक्षि फड़के", "जन्म के समय", "तब शीघ्र",
                             "चीरकर (पाटयित्वा)", "शिशु को निकाले (उद्धरेत्)"]},
         "chunks": "बस्तिद्वारे | विपन्नायाः | कुक्षिः प्रस्पंदते यदि / जन्मकाले | ततः शीघ्रं | पाटयित्वोद्धरेच्छिशुं",
-        "sandhi": "आ + उ → ओ: पाटयित्वा + उद्धरेत् → पाटयित्वोद्धरेत् · त् + श → च्छ: उद्धरेत् + शिशुम् → उद्धरेच्छिशुम्।",
+        "sandhi": "आ + उ → ओ: पाटयित्वा + उद्धरेत् → पाटयित्वोद्धरेत् · त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ): उद्धरेत् + शिशुम् → उद्धरेच्छिशुम्।",
     },
     "128": {
         "diagram": {"groups": [

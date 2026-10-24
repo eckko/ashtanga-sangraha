@@ -175,7 +175,7 @@ AUTHORED["43"] = {
             ("तदन्नम्", "A final त् before a vowel becomes द्, as तत् + उपशुष्ककम्."),
             [("ततन्नम्", "Before a vowel the final त् does not stay unvoiced; it becomes द्."),
              ("तन्नन्नम्", "त् may become न् before a nasal such as न or म, not before a vowel."),
-             ("तच्छन्नम्", "त् + श gives च्छ; here no श follows.")],
+             ("तच्छन्नम्", "त् + श gives च्श or च्छ; here no श follows.")],
             "तत् + अन्नम् = तदन्नम्, like तत् + उपशुष्ककम् = तदुपशुष्ककम्.",
             "त् + vowel → द्.",
             teaches="A word-final त् becomes द् before a vowel: तत् + उपशुष्ककम् → तदुपशुष्ककम्."),

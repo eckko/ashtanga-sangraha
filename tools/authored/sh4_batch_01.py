@@ -263,7 +263,7 @@ AUTHORED["5"] = {
         fill(2, "तत् and यथा are joined as ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("तद्यथा", None, "tadyatha"),
              "तत् + यथा = तद्यथा: त् becomes द् before the voiced य.",
-             "A final त् becomes द् before a vowel or a voiced consonant such as य (not before nasals, ल, ज, ड): तत् + यथा → तद्यथा.",
+             "A final त् becomes द् before a vowel or a voiced consonant such as य (before a nasal it may also become न्, optional; before ल, ज, ड it assimilates): तत् + यथा → तद्यथा.",
              "तत् + यथा → तद्यथा."),
         mcq("discriminate", 3, "Why is तत् written तद् in तद्यथा?",
             ("त् becomes द् before the voiced य", "य is a voiced sound; त् takes the voiced द्."),
@@ -271,7 +271,7 @@ AUTHORED["5"] = {
              ("य makes the sound before it unvoiced", "The change goes the other way: त् becomes voiced द्."),
              ("द् marks the instrumental case here", "Case is not marked by द्; it is sandhi.")],
             "Before the voiced य, the unvoiced त् becomes voiced द्.",
-            "त् + vowel or voiced ग, ब, य ... → द् (not before nasals, ल, ज, ड)."),
+            "त् + vowel or voiced ग, ब, य ... → द् (before a nasal optionally न्; before ल, ज, ड it assimilates)."),
         mcq("apply", 4, "In unit 5, what kind of line is तद्यथा?",
             ("A prose line leading into a list", "The data types it prose; it introduces the measures."),
             [("A full verse (śloka) of four quarters", "It is one word of prose, not a verse."),
@@ -285,8 +285,8 @@ AUTHORED["5"] = {
              ("सग्गुणः", "त् becomes द् here; it does not copy the ग."),
              ("सन्गुणः", "न् is not taken before ग here; the result is द्.")],
             "सत् + गुणः = सद्गुणः, like तत् + यथा = तद्यथा.",
-            "त् + voiced consonant (not a nasal, ल, ज or ड) → द्.",
-            teaches="A final त् becomes द् before a vowel or a voiced consonant such as ग, ब, य (before nasals, ल, ज, ड it assimilates instead): तत् + यथा → तद्यथा."),
+            "त् + voiced consonant → द् (before a nasal optionally न्; before ल, ज, ड it assimilates).",
+            teaches="A final त् becomes द् before a vowel or a voiced consonant such as ग, ब, य (before a nasal it may instead become न्, optional; before ल, ज, ड it assimilates): तत् + यथा → तद्यथा."),
     ],
 }
 
@@ -497,12 +497,12 @@ AUTHORED["9"] = {
               "तैल, योनौ, निधापयेत्, क्षीरसर्पिस्, सिद्ध.", role="extend",
               teaches="योनौ is locative singular: in the yoni; सिद्ध = cooked, prepared."),
         mcq("discriminate", 3, "Which split of तच्छृङ्ग is right?",
-            ("तत् + शृङ्ग", "त् + श → च्छ: तत् + शृङ्ग → तच्छृङ्ग."),
+            ("तत् + शृङ्ग", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ): तत् + शृङ्ग → तच्छृङ्ग."),
             [("तच् + छृङ्ग", "छृङ्ग is not a word; the word is शृङ्ग."),
              ("तद् + शृङ्ग", "There is no द् here; the word is तत्, and श is unvoiced."),
              ("तः + छृङ्ग", "तः is not a word, and छृङ्ग is not one either.")],
-            "तत् (that, its) + शृङ्ग: त् + श → च्छ.",
-            "त् + श → च्छ."),
+            "तत् (that, its) + शृङ्ग: त् + श → च्श or च्छ; the print has च्छ.",
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
         multi("apply", 4, "Which statements fit unit 9?",
               [("The oils are placed in the yoni", "Right: तैलानि योनौ निधापयेत्."),
                ("The line itself names the tree of the śṛṅga", "Only तत् (its) is printed; what it points to is not sure."),
@@ -512,13 +512,13 @@ AUTHORED["9"] = {
               "Oils in the yoni are clear; the compound and the śṛṅga are uncertain.",
               "तैलानि योनौ निधापयेत्."),
         mcq("transfer", 5, "By the rule of तच्छृङ्ग, how is तत् + शरीरम् (that body) written when joined?",
-            ("तच्छरीरम्", "त् + श → च्छ, as तत् + शृङ्ग → तच्छृङ्ग."),
+            ("तच्छरीरम्", "त् + श → च्श, optionally च्छ before a vowel or semivowel (च्श also correct), as तत् + शृङ्ग → तच्छृङ्ग."),
             [("तद्शरीरम्", "त् does not become द् before the unvoiced श."),
              ("तश्शरीरम्", "त् does not become श् here."),
              ("तज्शरीरम्", "ज् is voiced; it does not stand before the unvoiced श.")],
             "तत् + शरीरम् = तच्छरीरम्, like तत् + शृङ्ग = तच्छृङ्ग.",
-            "त् + श → च्छ.",
-            teaches="A final त् with a following श gives च्छ: तत् + शृङ्ग → तच्छृङ्ग."),
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel.",
+            teaches="A final त् with a following श gives च्श, or optionally च्छ before a vowel or semivowel: तत् + शृङ्ग → तच्छृङ्ग."),
     ],
 }
 
@@ -837,7 +837,7 @@ NOTES_HI = {
           "न्यग्रोधादि (अ + आ → आ)। कर्म (किसे सींचें) नहीं कहा गया।"),
     "9": ("गद्य; विश्वास निम्न। पाठ-चिह्न: ‘परिपीततत्वरसानि’ क्षतिग्रस्त; ‘तत्त्व’ शब्द यहाँ नहीं बैठता; ‘परिपीत-तत्-त्वग्-रसानि’ "
           "(उनकी छाल के रस सोखे) केवल अनुमान, अपनाया नहीं गया। ‘तैलानि’ और ‘योनौ’ छपाई में जुड़े हैं। शृङ्ग = कोंपल सम्भावित (विवादित); "
-          "‘तत्’ इकाई ८ के न्यग्रोध-समूह की ओर, यह भी अनुमान। सन्धि जाँची: तत् + शृङ्ग → तच्छृङ्ग (त् + श → च्छ); पिचुम् → पिचुं "
+          "‘तत्’ इकाई ८ के न्यग्रोध-समूह की ओर, यह भी अनुमान। सन्धि जाँची: तत् + शृङ्ग → तच्छृङ्ग (त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ)); पिचुम् → पिचुं "
           "(पंक्ति-अन्त में छपा ं)। दूसरी पंक्ति की क्रिया इकाई ७ से समझी जाती है।"),
     "10": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘ततः एव’ इकाई ९ के दूध-घी की ओर (डेटा का पाठ)। डेटा के अनुसार अक्ष = पिचु = "
            "कर्ष, मानक गणना में लगभग १० ग्राम। सन्धि जाँची: ततः + एव → तत एव (अः + अ-भिन्न स्वर → अ, विसर्ग लोप); एव + अक्ष → "
@@ -908,7 +908,7 @@ AIDS = {
     },
     "9": {
         "chunks": "परिपीततत्वरसानि (?) च | तैलानियोनौ निधापयेत् | तच्छृङ्गसिद्धस्य वा | क्षीरसर्पिषः पिचुं",
-        "sandhi": "त् + श → च्छ: तत् + शृङ्ग → तच्छृङ्ग।",
+        "sandhi": "त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ): तत् + शृङ्ग → तच्छृङ्ग।",
         "frame": "पहला: तैलानि (कर्म) → योनौ (कहाँ) → निधापयेत् (रखवाए) · या दूसरा: शृङ्ग-सिद्ध क्षीरसर्पि का पिचु (क्रिया इकाई ७ से)।",
     },
     "10": {

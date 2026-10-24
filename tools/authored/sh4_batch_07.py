@@ -41,12 +41,12 @@ AUTHORED["82"] = {
               "शूल, स्पन्दते, अरति, अहर्निशम्, कृच्छ्रात्.", role="extend",
               teaches="मृतगर्भा is a bahuvrīhi: she whose garbha (fetus) is मृत (dead)."),
         mcq("discriminate", 3, "Which split of कृच्छ्राच्छ्वसिति is right?",
-            ("कृच्छ्रात् + श्वसिति", "त् before श becomes च्, and the श here becomes छ: त् + श → च्छ."),
+            ("कृच्छ्रात् + श्वसिति", "त् before श becomes च्, and the श here may become छ: त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
             [("कृच्छ्रा + च्छ्वसिति", "च्छ्वसिति is not a word; the verb is श्वसिति (breathes)."),
              ("कृच्छ्राः + श्वसिति", "A visarga before श stays or becomes श्; it never gives च्छ."),
              ("कृच्छ्रम् + श्वसिति", "म् before श gives anusvāra (कृच्छ्रं श्वसिति), not च्छ.")],
-            "कृच्छ्रात् (with difficulty) + श्वसिति (breathes): त् + श → च्छ.",
-            "त् + श → च्छ (त् becomes च्, and the श usually becomes छ)."),
+            "कृच्छ्रात् (with difficulty) + श्वसिति (breathes): त् + श → च्श or च्छ; the print has च्छ.",
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
         multi("apply", 4, "Which of these are signs named in unit 82?",
               [("She feels no pain at all", "The unit says the opposite: शूलमधिकमुपजायते, pain arises in excess."),
                ("The fetus does not move", "Right: न च स्पन्दते गर्भः."),
@@ -57,13 +57,13 @@ AUTHORED["82"] = {
               "A still fetus, weeping day and night and hard breathing are named; painlessness and a heavy flow are not.",
               "न स्पन्दते गर्भः, रोदित्यहर्निशम्, कृच्छ्राच्छ्वसिति."),
         mcq("transfer", 5, "By the rule of कृच्छ्रात् + श्वसिति, how is तत् + श्रुत्वा (having heard that) usually joined?",
-            ("तच्छ्रुत्वा", "त् + श → च्छ, as कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति."),
+            ("तच्छ्रुत्वा", "त् + श → च्श, optionally च्छ before a vowel or semivowel (च्श also correct), as कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति."),
             [("तद्श्रुत्वा", "त् becomes द् before a voiced sound; श is unvoiced."),
              ("तत्श्रुत्वा", "Before श the त् does not stay; it becomes च्."),
-             ("तश्श्रुत्वा", "त् does not become श्; it becomes च्, and the श then usually छ.")],
+             ("तश्श्रुत्वा", "त् does not become श्; it becomes च्, and the श then optionally छ.")],
             "तत् + श्रुत्वा = तच्छ्रुत्वा, like कृच्छ्रात् + श्वसिति = कृच्छ्राच्छ्वसिति.",
-            "त् + श → च्छ.",
-            teaches="A final त् before श becomes च्, and the श usually becomes छ: कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति."),
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel.",
+            teaches="A final त् before श becomes च्, and the श may become छ before a vowel or semivowel (optional): कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति."),
     ],
 }
 
@@ -791,7 +791,7 @@ NOTES_HI = {
            "गर्भ में भ्रूण की मृत्यु। सन्धि जाँची: गर्भः + अन्यानि → गर्भोऽन्यानि (अः + अ → ओऽ); योनिः + अक्षिणी → "
            "योनिरक्षिणी (इः + स्वर → इर्); च + अस्याः → चास्याः (अ + अ → आ); व्यथते + अन्यथा → व्यथतेऽन्यथा (ए + अ → एऽ); "
            "रोदिति + अहर्निशम् → रोदित्यहर्निशम् (इ + अ → य); प्रति + उच्छ्वासात् → प्रत्युच्छ्वासात् (इ + उ → यु); "
-           "कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति (त् + श → च्छ); क्षयति + इति → क्षयतीति (इ + इ → ई); इति + एवम् → "
+           "कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति (त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ)); क्षयति + इति → क्षयतीति (इ + इ → ई); इति + एवम् → "
            "इत्येवम् (इ + ए → ये)।"),
     "83": ("गद्य-पंक्ति; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। छपा ‘गर्भंकदाचिदसम्यगपत्यपथमनेकधा’ = गर्भम् कदाचित् असम्यक् "
            "अपत्य-पथम् अनेकधा; ‘पीडितंमोहितं’ में दो शब्द जुड़े छपे (अन्तर की भूल)। ‘अपत्यपथ’ = सन्तान का मार्ग, सम्भवतः "
@@ -869,7 +869,7 @@ AIDS = {
         "chunks": "शूलमधिकमुपजायते | न च स्पंदते गर्भो | ऽन्यानि प्रादुर्भवंति | न स्रवति योनिः | अक्षिणी चास्याः संस्येते (?) | "
                   "तथा भृशमरतिपरीता व्यथते | ऽन्यथा चेष्टते | ताम्यति श्राम्यति | रोदित्यहर्निशं | न स्वप्निति | "
                   "प्रत्युच्छ्वासात्कृच्छ्राच्छ्वसिति | अतिकष्टं प्राणिति | क्षयतीति | एवंविधां स्त्रियं मृतगर्भां विद्यान्",
-        "sandhi": "त् + श → च्छ: कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति · अः + अ → ओऽ: गर्भः + अन्यानि → गर्भोऽन्यानि · "
+        "sandhi": "त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ): कृच्छ्रात् + श्वसिति → कृच्छ्राच्छ्वसिति · अः + अ → ओऽ: गर्भः + अन्यानि → गर्भोऽन्यानि · "
                   "इ + अ → य: रोदिति + अहर्निशम् → रोदित्यहर्निशम्।",
     },
     "83": {
