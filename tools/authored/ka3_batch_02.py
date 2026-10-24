@@ -11,7 +11,7 @@ AUTHORED["12"] = {
     "limits": ("Low confidence. अल्पप्रत्यय and अयोगि are doubtful in sense (kept literal). Printed -स्विन्नेम is a typo "
                "for -स्विन्नेन. Open point (05.03.12): 'not oiled and sweated' may mean 'not oiled and not sweated'. "
                "No question rests on these. The subject of भवति is not stated."),
-    "explain_hi": ("यह नया व्यापद् है: औषध काम नहीं करता और दोष स्तब्ध (जकड़े हुए) तथा विग्रथित (गाँठ पड़े हुए) हो जाते हैं। "
+    "explain_hi": ("यह नया व्यापद् है: औषध ‘अयोगि’ (शाब्दिक: ठीक से न जुड़ा) हो जाता है और दोष स्तब्ध (जकड़े हुए) तथा विग्रथित (गाँठ पड़े हुए) हो जाते हैं। "
                    "कारण ‘वा’ (या) से जुड़े विकल्प हैं: अल्प प्रत्यय वाला काढ़ा, या रूक्ष औषध; उसे ऐसे व्यक्ति ने पिया जिसका "
                    "स्नेहन और स्वेदन नहीं हुआ, या उसके साथ शीत उपचार हुआ। ‘अल्पप्रत्यय’ और ‘अयोगि’ के ठीक अर्थ संदिग्ध हैं, "
                    "इसलिए यहाँ उनका शाब्दिक अर्थ रखा गया है। ‘भवति’ का कर्ता पाठ में नहीं कहा गया।"),
@@ -19,7 +19,7 @@ AUTHORED["12"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "In unit 12, what happens to the doṣas when the medicine fails this way?",
+            "In unit 12, what happens to the doṣas of the medicine drunk in these conditions?",
             ("They become stiffened and clumped",
              "स्तब्धदोषं विग्रथितम्: with the doṣas stiffened, knotted, clumped."),
             [("They are expelled upward at once", "Nothing is said to go upward or out in unit 12."),
@@ -48,8 +48,8 @@ AUTHORED["12"] = {
             "अ + उ → ओ across a compound join."),
         mcq("apply", 4,
             "A dry medicine is drunk together with cold treatment. Which outcome does unit 12 lead you to expect?",
-            ("The doṣas stiffen and clump, and it fails",
-             "रूक्ष भेषज and शीतोपचार are both in the list; the result is stabdha-doṣa, vigrathita, ayogi."),
+            ("The doṣas stiffen and clump",
+             "रूक्ष भेषज and शीतोपचार are both in the list; the result is stabdha-doṣa, vigrathita."),
             [("The medicine goes upward out of the mouth", "Going upward was the purgative case of unit 6 (05.03.6)."),
              ("The medicine works faster and more strongly", "Unit 12 names failure, not a stronger action."),
              ("The patient gets a burning pain in the anus", "No burning or anal pain is named in unit 12.")],
@@ -143,7 +143,7 @@ AUTHORED["14"] = {
     "limits": ("उभयोः संशोधनयोः may be 'of both' or 'in both'; लवणतैल may be 'salt and oil' or 'salted oil'; the "
                "space in 'लवणतैल अभ्यक्तं' is a print error. prastara is a standard kind of sweating; piṇḍa as bolus "
                "fomentation is probable. No details of either are given."),
-    "explain_hi": ("दोनों संशोधनों (वमन और विरेचन) में स्वेदन की विधि दी गई है। पहले रोगी का लवण और तैल से अभ्यंग किया जाए "
+    "explain_hi": ("दोनों संशोधनों में (सम्भवतः 05.03.13 के वमन और विरेचन; पाठ नाम नहीं देता) स्वेदन की विधि दी गई है। पहले रोगी का लवण और तैल से अभ्यंग किया जाए "
                    "(या लवण-मिश्रित तैल से; दोनों पाठ सम्भव)। फिर उसे दो प्रकार से स्वेदित कराए: पिण्ड स्वेद (सम्भवतः गरम पिण्ड से सेंक) "
                    "और प्रस्तर स्वेद (गरम बिछावन पर सेंक, यह मानक नाम है)। ‘पिण्डप्रस्तराभ्याम्’ द्वन्द्व समास का तृतीया द्विवचन है: "
                    "इन दोनों के द्वारा।"),
@@ -184,19 +184,19 @@ AUTHORED["14"] = {
              "A visarga before च becomes श्: उभयोः + च = उभयोश्च."),
             [("उभयो + श्च", "श्च is not a word; श् is the visarga of उभयोः before च."),
              ("उभय + ओश्च", "ओश्च is not a word; the word is उभयोः, of/in both."),
-             ("उभयोस् + च", "Before च the visarga becomes the palatal श्, not स्.")],
+             ("उभयो + च", "उभयो is not a form; the word is उभयोः, whose visarga becomes श् before च.")],
             "उभयोः (of/in both) + च (and).",
             "ः + च → श्च."),
         mcq("transfer", 5,
-            "पिण्ड + प्रस्तर gives पिण्डप्रस्तराभ्याम्. Which invented form means by hands and feet (हस्त + पाद)?",
-            ("हस्तपादाभ्याम्",
-             "A dvandva of two takes the dual: हस्त-पाद + -आभ्याम् = by hands and feet, like पिण्डप्रस्तराभ्याम्."),
-            [("हस्तपादेन", "This is an instrumental singular; two members joined as a pair take the dual."),
-             ("हस्तपादयोः", "This is the genitive/locative dual: of or in hands and feet."),
-             ("हस्तपादानि", "This is a nominative/accusative plural, not 'by'.")],
+            "पिण्ड + प्रस्तर gives पिण्डप्रस्तराभ्याम्. Which invented form means by the sun and the moon (सूर्य + चन्द्र)?",
+            ("सूर्यचन्द्राभ्याम्",
+             "A dvandva of two takes the dual: सूर्य-चन्द्र + -आभ्याम् = by the sun and the moon, like पिण्डप्रस्तराभ्याम्."),
+            [("सूर्यचन्द्रेण", "This is an instrumental singular; two members joined as a pair take the dual."),
+             ("सूर्यचन्द्रयोः", "This is the genitive/locative dual: of or in the sun and the moon."),
+             ("सूर्यचन्द्राः", "This is a nominative plural, not 'by'.")],
             "Same build as पिण्ड-प्रस्तर-आभ्याम्: two members, instrumental dual.",
             "Dvandva of two + -आभ्याम् = by the two.",
-            teaches="A dvandva of two members takes the dual; by them = -आभ्याम् (पिण्डप्रस्तराभ्याम्, हस्तपादाभ्याम्)."),
+            teaches="A dvandva of two members takes the dual; by them = -आभ्याम् (पिण्डप्रस्तराभ्याम्, सूर्यचन्द्राभ्याम्)."),
     ],
 }
 
@@ -277,7 +277,7 @@ AUTHORED["16"] = {
     "limits": ("ayogin is rendered literally 'not duly joined'. The noun with 'sharp (ones)' is not stated. Open reviewer "
                "points (05.03.16): the gender of तीक्ष्णैः and the Hindi 'द्रव्यों' (an added noun); no question rests on them. "
                "pippalī = long pepper (standard); dāru probably devadāru (probable); phala disputed (madanaphala is one suggestion)."),
-    "explain_hi": ("05.03.15 के रोगी का उपाय यहाँ एक क्रम में दिया गया है। उस अयोगि को भी पहले मूत्र सहित तीक्ष्णों से आस्थापन (निरूह बस्ति) दे, "
+    "explain_hi": ("उस अयोगि रोगी का उपाय (सम्भवतः 05.03.12-15 के प्रसंग का; पाठ स्पष्ट नहीं कहता) यहाँ एक क्रम में दिया गया है। उस अयोगि को भी पहले मूत्र सहित तीक्ष्णों से आस्थापन (निरूह बस्ति) दे, "
                    "फिर जाङ्गल रस (सूखे देश के पशु-पक्षियों का मांसरस) से भोजन कराए, फिर फल, दारु और पिप्पली यानी पीपर से सिद्ध तैल से अनुवासन "
                    "(तैल-बस्ति) दे, फिर वातहर स्नेहों से फिर स्निग्ध करे, और अन्त में पुनः तीक्ष्णों से विरेचन कराए। "
                    "चार पूर्वकालिक रूप (आस्थाप्य, भोजयित्वा, अनुवास्य, उपस्नेह्य) पहले के चरण हैं; मुख्य क्रिया ‘विरेचयेत्’ अन्तिम है। "
@@ -347,7 +347,7 @@ AUTHORED["17"] = {
                "no question rests on these tokens. गुरु कोष्ठस्य is read as 'heavy-bowelled'. The unit names no remedy; "
                "05.03.18 follows with a short instruction."),
     "explain_hi": ("यह दोषों के उत्क्लेश का व्यापद् है। किसमें: कफ की अधिकता वाले, अत्यन्त स्निग्ध, भारी कोष्ठ वाले, या मन्द अग्नि वाले में। "
-                   "उसे मृदु रूप से दी गई औषध दोषों को बहुत (भृशम्) उभारती (उत्क्लिश्य) है, पर बाहर नहीं निकालती; "
+                   "उसे मृदु रूप से दी गई औषध दोषों को बहुत (भृशम्) उभारकर (उत्क्लिश्य) "
                    "तब जड़ता, तन्द्रा, दुर्बलता और अंगों की शिथिलता (अङ्गसाद) उत्पन्न होती है। "
                    "छपे ‘गुर’ और ‘मृदुप्रणीत मौषधं’ में छपाई की भूल मानी गई है।"),
     "hook": "भारी, कफ-भरे, मन्दाग्नि को हल्की दवा: दोष उभरे, आए जड़ता-तन्द्रा-कमज़ोरी-अंगसाद।",
@@ -431,12 +431,12 @@ AUTHORED["18"] = {
               [["तत्", "that"], ["शीघ्रम्", "quickly"], ["उल्लिखेत्", "should scrape up"]],
               "The whole unit is these three words.",
               "तत् = that; शीघ्रम् = quickly; उल्लिखेत् = should scrape up."),
-        fill(2,
-             "In unit 18 the word for quickly is ____. Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("शीघ्रम्", "शीघ्र"),
-             "शीघ्रम् = quickly; it is joined to तत् in print as तच्छीघ्रम्.",
-             "The adverb of unit 18 is शीघ्रम्, quickly.",
-             "शीघ्रम् = quickly."),
+        order(2, "Put the three words of unit 18 in the order of the text.",
+              ["तत्", "शीघ्रम्", "उल्लिखेत्"],
+              "That, quickly, should scrape up.",
+              "तत् · शीघ्रम् · उल्लिखेत्.",
+              role="extend",
+              teaches="Unit 18 is three words: तत् (that), शीघ्रम् (quickly), उल्लिखेत् (should scrape up)."),
         mcq("discriminate", 3, "Which is the right split of तच्छीघ्रम्?",
             ("तत् + शीघ्रम्",
              "त् + श् → च्छ: तत् + शीघ्रम् = तच्छीघ्रम्."),
@@ -474,7 +474,7 @@ AUTHORED["19"] = {
              "sharp and hot (ones)."),
     "limits": ("The noun with 'sharp and hot (ones)' is not stated; the Hindi 'द्रव्यों' adds one (see the open point on "
                "05.03.16). The unit follows 05.03.17-18 but does not name the patient. laṅghita is kept literal ('made to fast')."),
-    "explain_hi": ("उत्क्लेश के बाद शोधन फिर से कराने की तैयारी: पहले लङ्घन (उपवास), जिससे अग्नि प्रदीप्त (संधुक्षित) हो; "
+    "explain_hi": ("शोधन फिर से कराने की तैयारी (रोगी का नाम पाठ में नहीं): जिसे लङ्घन (उपवास) कराया गया हो, जिसकी अग्नि प्रदीप्त (संधुक्षित) हो, "
                    "फिर दोबारा (पुनः) स्नेहन; तब तीक्ष्ण और उष्ण (गुण वालों) से शोधन कराए। "
                    "संज्ञा पाठ में नहीं है, केवल दो गुण कहे गए हैं। "
                    "यह 05.03.20 के उलटे गुणों (शीत, रूक्ष) से तुलना करने योग्य है।"),
@@ -579,7 +579,7 @@ AUTHORED["20"] = {
         fill(4,
              "Unit 20: शीतं रूक्षं वा दत्तमौषधं भृशम् ____ करोति (produces great bloating). "
              "Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("आध्मानम्", "आध्मानं", "आध्मान"),
+             accepts("आध्मानम्", None, "आध्मानं", "आध्मान"),
              "आध्मानम् = bloating (ādhmāna), the object of करोति.",
              "The effect of unit 20 is आध्मान, bloating.",
              "आध्मानम् = bloating.",
@@ -606,7 +606,7 @@ AUTHORED["21"] = {
     "limits": ("The subject of दहति (burns) is not stated. śvāsa = labored breathing (probable here). basti is a body part "
                "here, the bladder; the print has पायुवस्ति (v for b, a spelling variant). The unit follows 05.03.20; the "
                "treatment comes in 05.03.22."),
-    "explain_hi": ("05.03.20 के आध्मान के लक्षण: मल के रुकने (मलसङ्ग) से (वायु) बँधकर पेट को जलाता है (कर्ता पाठ में अनुक्त)। "
+    "explain_hi": ("05.03.20 के आध्मान के लक्षण: मल के रुकने (मलसङ्ग) से बँधकर (कुछ) पेट को जलाता है (कर्ता पाठ में अनुक्त)। "
                    "फिर ये होते हैं: भीतर शूल (उदर-शूल), चमड़े की थैली (दृति) की तरह दोनों पार्श्वों में भरापन, सिर और पीठ में पीड़ा, "
                    "श्वास यानी सम्भवतः साँस फूलना, और गुदा तथा मूत्राशय (बस्ति) में चुभन। "
                    "‘दृतिवत्’ उपमा है: हवा भरी मशक की तरह फूले पार्श्व।"),
@@ -632,7 +632,7 @@ AUTHORED["21"] = {
               "Burns the belly, inner pain, fullness of flanks, head and back pain, śvāsa, pricking in anus and bladder.",
               "दहत्युदरम् · अंतःशूलं · पार्श्वयोरापूर्णता · शिरःपृष्ठरुजा · श्वासः · पायुवस्तिनिस्तोदश्च.",
               role="extend",
-              teaches="Unit 21 moves from the belly outward: belly, flanks, head and back, breath, anus and bladder."),
+              teaches="Unit 21 lists the signs in this order: belly burning, inner pain, full flanks, head and back pain, śvāsa, pricking in anus and bladder."),
         multi("discriminate", 3,
               "Which of these does unit 21 name?",
               [("Burning of the belly", "Right: दहति उदरम्, it burns the belly."),
@@ -667,7 +667,7 @@ AUTHORED["21"] = {
 
 # ---------------------------------------------------------------- unit 22
 AUTHORED["22"] = {
-    "title": "अभ्यङ्गस्वेदवर्तिक्रियाभिरुपचरेत्",
+    "title": "उदावर्तानाहहर क्रियाएँ",
     "question": "With which procedures does unit 22 say the bloated patient should be treated?",
     "rule": ("One should treat him with the procedures that take away udāvarta and ānāha: anointing (abhyaṅga), sweating, "
              "wick (varti), kindling (dīpana), powder (cūrṇa) and basti (medicated enema)."),
@@ -701,7 +701,7 @@ AUTHORED["22"] = {
               "Four of the six members of the compound.",
               "अभ्यङ्ग = anointing; वर्ति = wick; चूर्ण = powder; बस्ति = medicated enema.",
               role="extend",
-              teaches="The six procedures act from outside (anointing, sweating), through the anus (wick, enema) and by mouth (kindling, powder)."),
+              teaches="The compound lists six procedures (abhyaṅga, sveda, varti, dīpana, cūrṇa, basti), all qualified as taking away udāvarta and ānāha."),
         multi("discriminate", 3,
               "Which of these are in the list of unit 22?",
               [("Sweating (स्वेद)", "Right: स्वेद is the second procedure."),
@@ -714,7 +714,7 @@ AUTHORED["22"] = {
               "Unit 22 list: अभ्यङ्ग · स्वेद · वर्ति · दीपन · चूर्ण · बस्ति."),
         mcq("apply", 4,
             "A patient bloated after a cold, dry medicine. Following unit 22, which treatment fits?",
-            ("Anointing, sweating, wicks, powders and enemas",
+            ("Oiling, sweating, wicks and enemas",
              "उपचरेत् with abhyaṅga, sveda, varti, dīpana, cūrṇa and basti."),
             [("A further cold and dry medicine", "Cold and dry medicine caused the bloating (05.03.20)."),
              ("Complete rest with no treatment", "Unit 22 prescribes six active procedures."),
@@ -798,7 +798,7 @@ AIDS = {
     },
     "19": {
         "chain": {"steps": ["लङ्घन (उपवास)", "अग्नि प्रदीप्त", "फिर स्नेहन", "तीक्ष्ण-उष्ण से शोधन"]},
-        "seesaw": "05.03.19 में तीक्ष्ण और उष्ण से शोधन ↔ 05.03.20 में शीत और रूक्ष औषध से आध्मान: उलटे गुण, उलटा फल।",
+        "contrast": "05.03.19 में तीक्ष्ण और उष्ण से शोधन ↔ 05.03.20 में शीत और रूक्ष औषध से आध्मान: उलटे गुण, उलटा फल।",
         "sandhi": "अ + अ → आ: संधुक्षित + अग्निम् → संधुक्षिताग्निम्; अ + उ → ओ: तीक्ष्ण + उष्णैः → तीक्ष्णोष्णैः।",
         "anchors": "लङ्घित = उपवास कराया · संधुक्षित = सुलगाया हुआ · विशोधयेत् = शुद्ध करे।",
     },
@@ -813,14 +813,14 @@ AIDS = {
     "21": {
         "diagram": {"groups": [{"label": "कारण", "items": ["मलसङ्ग"]},
                                {"label": "लक्षण", "items": ["उदर-दाह", "अन्तःशूल", "दृतिवत् पार्श्व-आपूर्णता", "शिरःपृष्ठरुजा", "श्वास", "पायु-बस्ति-निस्तोद"]}]},
-        "pegs": "मेरा बनाया चित्र: ऊपर से नीचे शरीर पर उँगली चलाइए: पेट (जलन, शूल), बगलें (मशक-सी भरी), सिर और पीठ (दर्द), छाती (श्वास), गुदा और बस्ति (चुभन)।",
+        "pegs": "मेरा बनाया चित्र: पाठ के क्रम में शरीर पर उँगली रखिए: पेट (जलन, शूल), बगलें (मशक-सी भरी), सिर और पीठ (दर्द), छाती (श्वास), गुदा और बस्ति (चुभन)।",
         "sandhi": "इ + उ → यु: दहति + उदरम् → दहत्युदरम्; ः → र् स्वर से पहले: पार्श्वयोः + आपूर्णता → पार्श्वयोरापूर्णता।",
         "anchors": "दृति = चमड़े की थैली, मशक · पार्श्व = बगल · रुजा = पीड़ा · निस्तोद = चुभन।",
     },
     "22": {
         "diagram": {"groups": [{"label": "क्रियाएँ (पाठ के क्रम में)", "items": ["अभ्यङ्ग", "स्वेद", "वर्ति", "दीपन", "चूर्ण", "बस्ति"]},
                                {"label": "किन्हें हरती हैं", "items": ["उदावर्त", "आनाह"]}]},
-        "pegs": "मेरा बनाया चित्र: बाहर से भीतर: पहले त्वचा (अभ्यंग, स्वेद), फिर गुदा से (वर्ति), फिर मुख से (दीपन, चूर्ण), अन्त में बस्ति; यह क्रम केवल याद रखने के लिए है, पाठ इसे कारण नहीं बताता।",
+        "pegs": "मेरा बनाया चित्र: छह क्रियाएँ दो-दो की तीन जोड़ियाँ: (अभ्यंग, स्वेद) · (वर्ति, दीपन) · (चूर्ण, बस्ति); यह जोड़ी केवल याद रखने के लिए है, पाठ इसे नहीं कहता।",
         "sandhi": "ः → र् स्वर से पहले: क्रियाभिः + उपचरेत् → क्रियाभिरुपचरेत्; म् + उ: तम् + उदावर्त्त → तमुदावर्त्त।",
         "anchors": "अभ्यङ्ग = तेल मालिश · वर्ति = औषधि की बत्ती · दीपन = अग्नि जगाने वाला · बस्ति = एनीमा।",
     },
@@ -838,7 +838,7 @@ IMAGE_SPECS = {
     },
     ("15", "diagram"): {
         "file": "ka3-lower-heaviness-15.svg",
-        "alt": "Flowchart: three cases (purgative drunk without prior emesis by one oiled and sweated; one with ama; one mildly purged) lead to three signs in the lower part: heavy stiff belly, colic, obstruction of wind and stool",
+        "alt": "Flowchart: three cases (purgative drunk without prior emesis; one with ama; one mildly purged) lead to three signs in the lower part: heavy stiff belly, colic, obstruction of wind and stool",
         "type": "mermaid",
         "code": ('flowchart TD\n  A["वमन बिना विरेचन पिया"] --> D["नीचे के भाग में"]\n'
                  '  B["आम सहित"] --> D\n  C["मृदु रूप से विरिक्त"] --> D\n'
