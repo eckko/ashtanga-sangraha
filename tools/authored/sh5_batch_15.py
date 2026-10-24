@@ -69,7 +69,7 @@ AUTHORED["180"] = {
     "rule": ("'Those are fifteen' (ताः पञ्चदश). ताः is feminine plural, like the feminine peśī counted before; "
              "पञ्चदश = पञ्च (five) + दश (ten)."),
     "limits": ("Prose, two words; the copula is understood. The Sanskrit does not give the arithmetic or say exactly "
-               "which items make the fifteen: no question on how the fifteen is reached."),
+               "which items make the fifteen: questions ask only that this is left unstated, never how it is reached."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: ‘ताः पंचदश’, वे पन्द्रह हैं। "
                    "‘ताः’ स्त्रीलिंग बहुवचन है, जो स्त्रीलिंग पेशियों से मेल खाता है। "
                    "‘पञ्चदश’ = पञ्च (पाँच) + दश (दस), यानी पन्द्रह। "
@@ -352,12 +352,12 @@ AUTHORED["184"] = {
 AUTHORED["185"] = {
     "title": "एकैका मेंद्रसेवन्योः",
     "question": "By unit 185, how many are given in each of the two named sites?",
-    "rule": ("One each (एकैका, feminine like peśī) in the two sites named by one dual compound: the meḍhra (penis) and the "
+    "rule": ("One each (एकैका, feminine like peśī) in the two sites named by one dual compound: the meḍhra (penis; printed मेंद्र, a possible reading) and the "
              "sevanī (probably the seam, the raphe). The dual -योः shows two sites."),
     "limits": ("Prose; no noun or verb (peśī carried from unit 175). Printed मेंद्र is read मेढ्र (a possible reading, as in "
-               "unit 168); sevanī = raphe is probable only. No question on either reading; questions use एकैका and the dual."),
+               "unit 156); sevanī = raphe is probable only. No question on either reading; questions use एकैका and the dual."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: मेढ्र (लिंग) और सेवनी (सम्भवतः सीवन, यानी मध्य रेखा) में एक-एक पेशी। "
-                   "छपा ‘मेंद्र’ कोई शब्द नहीं; डेटा इसे ‘मेढ्र’ पढ़ता है (ढ्र का ‘ंद्र’ पढ़ा जाना सम्भव), जैसा इकाई १६८ में। "
+                   "छपा ‘मेंद्र’ कोई शब्द नहीं; डेटा इसे ‘मेढ्र’ पढ़ता है (ढ्र का ‘ंद्र’ पढ़ा जाना सम्भव), जैसा इकाई १५६ में। "
                    "‘एकैका’ = एक + एक → एकैक (अ + ए → ऐ), स्त्रीलिंग रूप, क्योंकि गिनी गई पेशी स्त्रीलिंग है। "
                    "समास के अन्त में द्विवचन ‘-योः’ है, क्योंकि दो स्थान गिनाए गए हैं। "
                    "वर्णन चिकित्सा-ग्रन्थ की शरीर-रचना है, सीधे शब्दों में।"),
@@ -373,9 +373,9 @@ AUTHORED["185"] = {
             "एकैका = one each."),
         match(1, "Match each sure part of unit 185 to its meaning.",
               [["एक", "one"], ["एकैका", "one each"], ["-योः", "in the two (locative dual)"],
-               ["सेवनी", "seam (probably the raphe)"]],
+               ["-आ (in एकैका)", "feminine ending"]],
               "One each in the two sites; -योः marks the two.",
-              "एक, एकैका, -योः, सेवनी."),
+              "एक, एकैका, -योः, -आ."),
         fill(2, "In unit 185 'one each' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("एकैका", "ekaikā", "ekaika"),
              "एकैका = one each: एक + एक → एकैक, feminine एकैका.",
@@ -451,7 +451,7 @@ AUTHORED["186"] = {
         multi("apply", 4, "Which statements fit unit 186?",
               [("Its verb 'are' is printed", "No verb is printed; it is understood."),
                ("द्वे is the feminine/neuter 'two'", "Right: the masculine would be द्वौ."),
-               ("It says one peśī in each testicle", "The line does not say how the two are shared."),
+               ("It prints the noun peśī", "No noun is printed; peśī is carried from unit 175."),
                ("वृषणयोः is a locative dual", "Right: the data labels it m. loc. du.")],
               [1, 3],
               "Feminine/neuter द्वे and the locative dual वृषणयोः; no verb printed.",
@@ -476,7 +476,7 @@ AUTHORED["187"] = {
                "no question on how the ten are shared."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: दोनों स्फिज् यानी नितम्बों में दस। "
                    "‘स्फिजोः’ व्यंजनान्त स्त्रीलिंग ‘स्फिज्’ का सप्तमी द्विवचन है: दोनों नितम्बों में। "
-                   "व्यंजनान्त शब्द में द्विवचन का अन्त ‘-ओः’ होता है (अकारान्त में ‘-योः’)। "
+                   "व्यंजनान्त शब्द में सप्तमी (और षष्ठी) द्विवचन का अन्त ‘-ओः’ होता है (अकारान्त में ‘-अयोः’)। "
                    "दस हर ओर हैं या कुल, यह पंक्ति नहीं बताती। "
                    "गिनी गई वस्तु और क्रिया छपी नहीं।"),
     "hook": "दोनों नितम्बों में दस: दश स्फिजोः।",
@@ -587,7 +587,7 @@ AUTHORED["189"] = {
     "rule": ("Two (द्वे) in the head of the bladder (बस्तिशिरसि: बस्ति + शिरस्, 'the head of the bladder', locative "
              "singular)."),
     "limits": ("Prose, two words; no noun or verb (peśī carried from unit 175). Bastiśiras is kept literal; which exact "
-               "part of the bladder it is, is not stated: no question on that."),
+               "part of the bladder it is, is not stated: questions ask only that this is left open, never which part it is."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: बस्ति के शिर में, यानी मूत्राशय के सिर में, दो। "
                    "‘बस्तिशिरसि’ तत्पुरुष समास है: बस्ति (मूत्राशय) का शिर (सिर); अन्त में शिरस् का सप्तमी एकवचन ‘-शिरसि’। "
                    "‘बस्ति का सिर’ ठीक-ठीक कौन-सा भाग है, यह पंक्ति नहीं बताती; डेटा इसे शब्दशः रखता है। "
@@ -717,7 +717,7 @@ NOTES_HI = {
             "नपुंसक उकारान्त का सप्तमी एकवचन। छपा ‘पंच’ = पञ्च। दो शब्द अलग, कोई सन्धि नहीं।"),
     "184": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपी देवनागरी ‘विंशतिरू्रौ’ बिगड़ी है; लिप्यन्तरण ‘विंशतिरूरौ’ बिना कठिनाई = विंशतिः + ऊरौ। "
             "ऊरु = जाँघ (मानक)। गिनी गई वस्तु पेशी (इकाई १७५ से)। सन्धि जाँची: विंशतिः + ऊरौ → विंशतिरूरौ (इ के बाद विसर्ग, स्वर से पहले → र्)।"),
-    "185": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: छपा ‘मेंद्र’ कोई शब्द नहीं; सम्भावित पाठ ‘मेढ्र’ (लिंग), ढ का ‘ंद’ पढ़ा जाना सम्भव, इकाई १६८ जैसा। "
+    "185": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: छपा ‘मेंद्र’ कोई शब्द नहीं; सम्भावित पाठ ‘मेढ्र’ (लिंग), ढ का ‘ंद’ पढ़ा जाना सम्भव, इकाई १५६ जैसा। "
             "सेवनी = सीवन (राफे), सम्भावित। इन पाठों पर कोई प्रश्न नहीं। द्विवचन क्योंकि दो स्थान। सन्धि जाँची: एक + एक → एकैक "
             "(अ + ए → ऐ), स्त्रीलिंग एकैका।"),
     "186": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। गिनी गई वस्तु पेशी (इकाई १७५ से), क्रिया समझी जाती है। वृषण = अण्ड-ग्रन्थि (मानक); "
@@ -753,7 +753,7 @@ AIDS = {
             {"label": "दूसरी पंक्ति: तथा, पैर के ऊपर", "items": ["कूर्म (सम्भवतः पैर का ऊपरी भाग): संख्या छपी नहीं"]}]},
         "chunks": "दश दश | प्रपदे | पादतले | गुल्फे च | तथा पादस्योपरि | कूर्म्मे सन्निविष्टाः",
         "sandhi": "अ + उ → ओ: पादस्य + उपरि → पादस्योपरि।",
-        "pegs": "आगे से पीछे, नीचे से ऊपर: पंजे का अगला भाग → तलवा → टखना → पैर की पीठ (कूर्म, कछुए की पीठ जैसी)। (मेरी याद-पद्धति)",
+        "pegs": "आगे से पीछे, नीचे से ऊपर: पंजे का अगला भाग → तलवा → टखना → पैर की पीठ (कूर्म, सम्भवतः कछुए की पीठ जैसा भाग)। (मेरी याद-पद्धति)",
     },
     "182": {
         "chunks": "विंशतिर्जंघायां",
