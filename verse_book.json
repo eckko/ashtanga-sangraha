@@ -73,7 +73,7 @@
    "title": "पुत्रकामीय",
    "prefix": "sh1",
    "unit": "शारीर अध्याय १",
-   "summary": "Chapter 1, Putrakāmīya: the right ages for marriage and conception, the nature of śukra and ārtava and their eight defects with treatment, false pregnancy, the fertile period and menstrual regimen, choice of nights for a son or daughter, the putrīya rite with its mantras and postures, puṃsavana and prajāsthāpana measures, and what decides the child's colour and mind.",
+   "summary": "Chapter 1, Putrakāmīya: ages for marriage and conception, śukra and ārtava with their defects and treatment, the fertile period, rites for a son, and what shapes the child.",
    "authored": [
     "sh1_batch_*.py"
    ],
@@ -85,7 +85,7 @@
    "title": "गर्भावक्रान्ति",
    "prefix": "sh2",
    "unit": "शारीर अध्याय २",
-   "summary": "Chapter 2, Garbhāvakrānti: how the embryo is formed and its sex determined, signs of conception, month-by-month development with consciousness and the longings (daurhṛda), the eighth-month instability of ojas, the foetus's position, nourishment and birth, the kinds of impotence and congenital defects, things harmful to the foetus, and the gentle treatment of the pregnant woman.",
+   "summary": "Chapter 2, Garbhāvakrānti: formation and sex of the embryo, signs of conception, month-by-month growth and longings, birth, congenital defects, and care of the pregnant woman.",
    "authored": [
     "sh2_batch_*.py"
    ],
@@ -97,7 +97,7 @@
    "title": "गर्भोपचरणीय",
    "prefix": "sh3",
    "unit": "शारीर अध्याय ३",
-   "summary": "Chapter 3, Garbhopacaraṇīya: the month-by-month diet and care of the pregnant woman, the delivery chamber and signs of approaching labour, managing delivery with timely bearing down and protective mantras, remedies for retained foetus and placenta, makkala pain and prolapsed yoni, and the regimen of the newly delivered mother (sūtikā).",
+   "summary": "Chapter 3, Garbhopacaraṇīya: monthly diet and care in pregnancy, the delivery room and labour, retained foetus and placenta, and the regimen after delivery.",
    "authored": [
     "sh3_batch_*.py"
    ],
@@ -109,7 +109,7 @@
    "title": "गर्भव्यापद्",
    "prefix": "sh4",
    "unit": "शारीर अध्याय ४",
-   "summary": "Chapter 4, Garbhavyāpad: mishaps of pregnancy, namely bleeding and its treatment, early miscarriage of the unripe embryo, the stunted fetus (upaviṣṭaka, upaśuṣkaka, nāgodara, līna) and its treatment by doṣa, the dead and malpresented fetus (mūḍhagarbha) and its surgical extraction, after-care of the mother, Balā oil, and month-wise remedies for threatened miscarriage.",
+   "summary": "Chapter 4, Garbhavyāpad: mishaps of pregnancy: bleeding, miscarriage, the stunted foetus, the dead or malpresented foetus and its extraction, after-care, and monthly remedies.",
    "authored": [
     "sh4_batch_*.py"
    ],
@@ -121,7 +121,7 @@
    "title": "अङ्गविभाग",
    "prefix": "sh5",
    "unit": "शारीर अध्याय ५",
-   "summary": "Chapter 5, Aṅgavibhāga: the body's parts and their origin from the five great elements and from mother, father, self, compatibility and rasa, the mental qualities, and an enumeration of skins, kalās, sense organs, receptacles, trunk organs, the eye, bones, joints, ligaments, muscles, vessel openings and the measures of bodily fluids.",
+   "summary": "Chapter 5, Aṅgavibhāga: the body's parts and their origin from the elements and parents, mental qualities, and counts of skins, organs, bones, joints, muscles and fluids.",
    "authored": [
     "sh5_batch_*.py"
    ],
@@ -133,7 +133,7 @@
    "title": "सिराविभाग",
    "prefix": "sh6",
    "unit": "शारीर अध्याय ६",
-   "summary": "Chapter 6, Sirāvibhāga: the numbers and sites of the sirās and those not to be pierced, the doṣa-carrying vessels, the twenty-four dhamanīs, the srotas and their roots and vitiation, the digestive fire, the digestion of food and the nourishment of the dhātus with their essences and wastes, and the four kinds of agni.",
+   "summary": "Chapter 6, Sirāvibhāga: the vessels and those not to be pierced, the dhamanīs, the channels (srotas), the digestive fire, and how food nourishes the dhātus.",
    "authored": [
     "sh6_batch_*.py"
    ],
@@ -145,7 +145,7 @@
    "title": "मर्मविभाग",
    "prefix": "sh7",
    "unit": "शारीर अध्याय ७",
-   "summary": "Chapter 7, Marmavibhāga: the 107 marmas (vital points), their location in the limbs, trunk, neck and head with the effect of injury at each, their fivefold division by tissue (flesh, vessel, sinew, bone, joint) and by outcome (immediately fatal, fatal after an interval, fatal on dart removal, disabling, painful), their sizes, and the signs of marma injury and the duty to treat to the last.",
+   "summary": "Chapter 7, Marmavibhāga: the 107 vital points, their sites and the effect of injury, their division by tissue and outcome, their sizes, and marma injury.",
    "authored": [
     "sh7_batch_*.py"
    ],
@@ -157,7 +157,7 @@
    "title": "प्रकृतिभेदीय",
    "prefix": "sh8",
    "unit": "शारीर अध्याय ८",
-   "summary": "Chapter 8, Prakṛtibhedīya: the seven constitutions arising from the doṣas at conception and the marks of Vāta, Pitta, Kapha, mixed and balanced types, their treatment, the three stages of age and the span of life, threefold strength and the eight sāras, the body's measures in one's own finger-breadths, and the marks of a desirable, long-lived body.",
+   "summary": "Chapter 8, Prakṛtibhedīya: the seven constitutions and their marks, stages of age, strength and the eight sāras, body measures, and the marks of a long-lived body.",
    "authored": [
     "sh8_batch_*.py"
    ],
@@ -169,7 +169,7 @@
    "title": "विकृताङ्गविज्ञानीय",
    "prefix": "sh9",
    "unit": "शारीर अध्याय ९",
-   "summary": "Chapter 9, Vikṛtāṅgavijñānīya: riṣṭa, the sudden reversal of the body's natural state that foretells death, shown in abnormal colour, chāyā and prabhā, reflection, eyes, nose, lips, teeth, tongue, voice, breath, smell and touch, with verses giving the time left to live and the patients a physician should avoid.",
+   "summary": "Chapter 9, Vikṛtāṅgavijñānīya: riṣṭa, the sudden change of the body's natural state that foretells death, in colour, shadow, senses, voice and touch.",
    "authored": [
     "sh9_batch_*.py"
    ],
@@ -181,7 +181,7 @@
    "title": "विकृतेहाविज्ञानीय",
    "prefix": "sh10",
    "unit": "शारीर अध्याय १०",
-   "summary": "Chapter 10, Vikṛtehāvijñānīya: signs of approaching death (riṣṭa) seen in perverted perception, bodily behaviour, breathing, temperament and mind, with time-limits of survival and the teaching that riṣṭa is certain and must always be studied.",
+   "summary": "Chapter 10, Vikṛtehāvijñānīya: signs of approaching death in perverted perception, behaviour, breathing and mind, with time-limits of survival.",
    "authored": [
     "sh10_batch_*.py"
    ],
@@ -193,7 +193,7 @@
    "title": "विकृतव्याधिविज्ञानीय",
    "prefix": "sh11",
    "unit": "शारीर अध्याय ११",
-   "summary": "Chapter 11, Vikṛtavyādhivijñānīya: the fatal or incurable signs of individual diseases (fever, cough, raktapitta, consumption, piles, diarrhoea, prameha, gulma, udara, swelling, kuṣṭha, Vāta disorders, eruptions, wounds), the patient's ominous gestures, and the failure of well-tried medicine as a sign of death.",
+   "summary": "Chapter 11, Vikṛtavyādhivijñānīya: the fatal signs of individual diseases, the patient's ominous gestures, and the failure of well-tried medicine.",
    "authored": [
     "sh11_batch_*.py"
    ],
@@ -205,7 +205,7 @@
    "title": "दूतादिविज्ञानीय",
    "prefix": "sh12",
    "unit": "शारीर अध्याय १२",
-   "summary": "Chapter 12, Dūtādivijñānīya: prognosis from the messenger who summons the physician, omens met on the way (objects, animals, birds, words), the kinds of dreams and the diseases foretold by inauspicious dreams, auspicious dreams and remedies, and the signs of recovery, closing the Śārīrasthāna.",
+   "summary": "Chapter 12, Dūtādivijñānīya: prognosis from the messenger, omens on the way, dreams that foretell disease or recovery, and the close of the Śārīrasthāna.",
    "authored": [
     "sh12_batch_*.py"
    ],
