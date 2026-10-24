@@ -30,7 +30,7 @@ AUTHORED["191"] = {
                ["नाभ्यामेका", "one in the navel"]],
               "नाभ्याम् + एका = नाभ्यामेका: one in the navel.",
               "नाभि, नाभ्याम्, एका, नाभ्यामेका."),
-        fill(2, "In unit 191 'in the navel' is printed as ____ (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "In unit 191 the word for 'in the navel' (printed joined in नाभ्यामेका) is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("नाभ्याम्", "nābhyām", "nabhyam"),
              "नाभ्याम् = in the navel, the locative singular of the feminine नाभि.",
              "नाभ्याम् is the locative singular of नाभि: a feminine इ-stem can take -याम् for 'in'.",
@@ -127,14 +127,14 @@ AUTHORED["193"] = {
     "rule": ("Six (षट्) in the liver (यकृत्, standard), the spleen (प्लीहा, standard) and the uṇḍuka (probably the caecum): "
              "one dvandva compound in the locative plural (-एषु); प्लीह + उण्डुक → प्लीहोण्डुक (अ + उ → ओ)."),
     "limits": ("Prose; no verb or counted noun (peśī carried from unit 175). The print has ंद where the standard word has ण्ड "
-               "(उण्डुक): no question on that spelling. Uṇḍuka = caecum is probable only. How the six are shared among the "
-               "three places is not stated."),
+               "(उण्डुक): no question on that spelling. Uṇḍuka = caecum is probable only. Whether the six are in all or in "
+               "each place is not stated."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: छह, यकृत् (जिगर), प्लीहा (तिल्ली) और उण्डुक (सम्भवतः अन्धान्त्र) में। "
                    "तीनों स्थान एक द्वन्द्व समास में हैं, जिसका अन्त सप्तमी बहुवचन ‘-एषु’ (में) है। "
                    "प्लीह + उण्डुक में अ + उ → ओ हुआ है: प्लीहोण्डुक। "
                    "छपाई में ‘ण्ड’ की जगह ‘ंद’ है; मानक शब्द उण्डुक है। "
-                   "छह पेशियाँ तीनों में कैसे बँटी हैं, यह पंक्ति नहीं बताती।"),
-    "hook": "जिगर, तिल्ली, उण्डुक: मिलाकर छह।",
+                   "छह पेशियाँ तीनों में मिलाकर हैं या हर एक में, यह पंक्ति नहीं बताती।"),
+    "hook": "जिगर, तिल्ली, उण्डुक: छह।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 193, what number is given for the liver, spleen and uṇḍuka?",
@@ -164,7 +164,7 @@ AUTHORED["193"] = {
             ("It joins three places in one dvandva", "A dvandva of three or more members takes the plural."),
             [("It is a genitive ending, 'of the liver'", "-एषु is the locative plural; it means 'in'."),
              ("It joins two places, so it is dual", "Three places are named, and -एषु is plural, not dual."),
-             ("It agrees with the number षट् as an adjective", "The data reads -एषु as the locative of the dvandva itself.")],
+             ("It agrees with the number षट् as an adjective", "-एषु is a locative ending; षट् is not in the locative, so -एषु does not agree with it.")],
             "Liver, spleen and uṇḍuka: three members, so the locative plural -एषु.",
             "Dvandva of three or more → plural ending."),
         mcq("transfer", 5, "By the join in प्लीह + उण्डुक, how is सूर्य + उदयः (sunrise) written in a new example?",
@@ -280,7 +280,7 @@ AUTHORED["195"] = {
             ("Nominative plural, describing the ten", "The data: adj. nom. pl.; it goes with the ten counted."),
             [("Locative plural, 'in the long ones'", "A locative plural would end in -एषु or -आसु, not -आः."),
              ("Nominative dual, describing two of them", "A dual would end in -औ or -ए, not -आः."),
-             ("Genitive singular, 'of the long one'", "दीर्घाः is not a genitive here; the data reads nom. pl.")],
+             ("Genitive singular, 'of the long one'", "The genitive singular would be दीर्घस्य (or feminine दीर्घायाः), not दीर्घाः.")],
             "दीर्घाः = long (nominative plural), describing the ten.",
             "Adjective agrees with the counted items: nominative plural."),
         mcq("transfer", 5, "By दीर्घाः पार्श्वयोः (visarga kept before प), how are रामः + पठति joined in a new example?",
@@ -364,7 +364,7 @@ AUTHORED["197"] = {
                    "‘तिस्रः’ स्त्रीलिंग ‘तीन’ है; अ से पहले अः का ओ होता है और वह अ लुप्त होकर ऽ (अवग्रह) से दिखाया जाता है: तिस्रोऽ। "
                    "स्थान-शब्द छपाई में ‘असाक्षक’ है, जिसका कोई अर्थ नहीं बनता; अनुमानित पाठ ‘अंसाक्षक’ है, यानी कन्धे और अक्षक (सम्भवतः हँसली)। "
                    "‘उपरितः’ का अर्थ है ‘ऊपर’। "
-                   "यह इकाई कन्धे से सिर तक की पेशियों की गिनती आरम्भ करती है।"),
+                   "अनुमानित पाठ पर, यह इकाई कन्धे से सिर तक की पेशियों की गिनती आरम्भ करती है।"),
     "hook": "तीन, ऊपर: तिस्रः उपरितः (स्थान अनुमानित)।",
     "core": False,
     "questions": [
@@ -404,7 +404,7 @@ AUTHORED["197"] = {
             "त्रि: m. त्रयः, n. त्रीणि, f. तिस्रः."),
         mcq("transfer", 5, "By the rule of तिस्रोऽ, how are रामः + अपि joined in a new example?",
             ("रामोऽपि", "अः + अ → ओऽ, as तिस्रः + अ... → तिस्रोऽ..."),
-            [("रामापि", "Only आः drops its visarga; अः before अ becomes ओ with ऽ."),
+            [("रामापि", "आः before a vowel drops the visarga (रामा अपि); अः before अ becomes ओ and the अ is marked ऽ."),
              ("रामरपि", "र् comes from the visarga of other vowels, not from अः."),
              ("राम अपि", "अः becomes अ only before vowels other than अ; before अ it is ओऽ.")],
             "रामः + अपि = रामोऽपि, like तिस्रः + अ... = तिस्रोऽ...",
@@ -503,10 +503,10 @@ AUTHORED["199"] = {
             "अ-stem + -योः = locative dual here.",
             teaches="-योः on an अ-stem is the locative dual: गण्डयोः = in the two cheeks."),
         mcq("discriminate", 3, "In the printed गंड of unit 199, which nasal does the anusvāra stand for?",
-            ("ण्, the nasal of the ड class", "Before ड the class nasal is ण्: गंड = गण्ड."),
-            [("न्, the nasal of the द class", "न् goes before त थ द ध; before ड it is ण्."),
-             ("म्, the nasal of the ब class", "म् goes before प फ ब भ; before ड it is ण्."),
-             ("ङ्, the nasal of the ग class", "ङ् goes before क ख ग घ; before ड it is ण्.")],
+            ("ण्, the nasal of the ट class (ट ठ ड ढ)", "Before ड the class nasal is ण्: गंड = गण्ड."),
+            [("न्, the nasal of the त class (त थ द ध)", "न् goes before त थ द ध; before ड it is ण्."),
+             ("म्, the nasal of the प class (प फ ब भ)", "म् goes before प फ ब भ; before ड it is ण्."),
+             ("ङ्, the nasal of the क class (क ख ग घ)", "ङ् goes before क ख ग घ; before ड it is ण्.")],
             "गंड = गण्ड: the anusvāra before ड is read as ण्.",
             "Anusvāra before a stop = that class's nasal."),
         multi("apply", 4, "Which statements fit unit 199?",
@@ -682,7 +682,7 @@ AUTHORED["202"] = {
         mcq("discriminate", 3, "Why does तालुललाटयोः in unit 202 end in the dual -योः?",
             ("It joins two places, palate and forehead", "A dvandva of two members takes the dual."),
             [("It joins three places, so it is dual", "A dvandva of three takes the plural; this one has two members."),
-             ("-योः agrees with the number द्वे only", "The data reads -योः as the locative dual of the dvandva."),
+             ("-योः agrees with the number द्वे only", "द्वे is nominative; -योः is locative (or genitive), so it does not agree with द्वे: it is the dual of the two-member dvandva."),
              ("-योः is a plural ending in this line", "-योः is a dual ending (locative or genitive), not plural.")],
             "Palate + forehead: two members, so the locative dual -योः.",
             "Dvandva of two → dual ending."),
@@ -717,7 +717,7 @@ AUTHORED["203"] = {
                    "यह इकाई २०२ की पंक्ति को आगे बढ़ाती है; संख्या और गिनी गई वस्तु वहीं से चली आती है, यहाँ कुछ जोड़ा नहीं गया। "
                    "‘नासौष्ठ’ में नासा + ओष्ठ, आ + ओ → औ हुआ है। "
                    "तीन स्थानों का द्वन्द्व होने से अन्त सप्तमी बहुवचन ‘-एषु’ है। "
-                   "यहीं कन्धे से सिर तक की पेशियों की गिनती पूरी होती है।"),
+                   "यहीं इकाई १९७ से चली गिनती पूरी होती है।"),
     "hook": "नाक, ओठ, कान: नासौष्ठकर्णेषु।",
     "core": False,
     "questions": [
@@ -730,7 +730,7 @@ AUTHORED["203"] = {
             "नासा, ओष्ठ, कर्ण."),
         order(1, "Put the parts of unit 203 in the line's order.",
               ["नासा", "ओष्ठ", "कर्णेषु", "च"],
-              "In the nose, lips and ears, and.",
+              "नासा-ओष्ठ-कर्णेषु च: in the nose, the lips and the ears; च (and) closes the line.",
               "नासा → ओष्ठ → कर्णेषु → च."),
         match(2, "Match each word of unit 203 to its meaning.",
               [["नासा", "nose"], ["ओष्ठ", "lip"], ["कर्ण", "ear"], ["च", "and"]],
@@ -814,7 +814,7 @@ AIDS = {
     },
     "193": {
         "diagram": {"groups": [
-            {"label": "षट् (छह), तीन स्थानों में मिलाकर", "items": ["यकृत् (जिगर, मानक)", "प्लीहा (तिल्ली, मानक)",
+            {"label": "षट् (छह): तीन स्थानों में (कुल या हर एक में, अनकहा)", "items": ["यकृत् (जिगर, मानक)", "प्लीहा (तिल्ली, मानक)",
                                                           "उण्डुक (सम्भवतः अन्धान्त्र)"]}]},
         "chunks": "षट् | यकृत्प्लीहोंदुकेषु",
         "sandhi": "अ + उ → ओ: प्लीह + उण्डुक → प्लीहोण्डुक।",
@@ -893,8 +893,8 @@ IMAGE_SPECS = {
     },
     ("193", "diagram"): {
         "file": "sh5-yakrt-pliha-193.svg",
-        "alt": ("Table of unit 193: six (ṣaṭ) together in three places, in line order: liver (yakṛt, standard), spleen "
-                "(plīhā, standard), uṇḍuka (probably the caecum)."),
+        "alt": ("Table of unit 193: six (ṣaṭ) in three places, in line order: liver (yakṛt, standard), spleen "
+                "(plīhā, standard), uṇḍuka (probably the caecum); in all or in each place is not stated."),
         "type": "table",
         "title": "इकाई १९३: षट् (छह), तीन स्थानों में",
         "heads": ["स्थान (क्रम से)", "पहचान"],
@@ -929,11 +929,11 @@ IMAGE_SPECS = {
     },
     ("203", "chain"): {
         "file": "sh5-peshi-ansa-nasa-203.svg",
-        "alt": ("Chain of the muscle counts of units 197 to 203 in order: above the shoulders and akṣaka (conjectural reading) "
+        "alt": ("Chain of the counts of units 197 to 203 in order (counted noun peśī carried; probable only from unit 202): above the shoulders and akṣaka (conjectural reading) "
                 "three; neck ten; two cheeks eight; two jaws eight; throat, kākala, tongue, head one each; palate and forehead "
                 "two, two; nose, lips, ears (number carried from unit 202)."),
         "type": "chain",
-        "title": "पेशियाँ: कन्धे से सिर तक",
+        "title": "गिनती: इकाई १९७ से २०३ तक",
         "steps": ["१९७ अंस-अक्षक के ऊपर (अनुमानित पाठ): तीन", "१९८ ग्रीवा: दस", "१९९ दोनों गाल: आठ",
                   "२०० दोनों हनु: आठ", "२०१ गल, काकल, जिह्वा, सिर: एक-एक", "२०२ तालु, ललाट: दो-दो",
                   "२०३ नासा, ओष्ठ, कर्ण (संख्या २०२ से)"],
