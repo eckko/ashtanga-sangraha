@@ -70,12 +70,12 @@ AUTHORED["42"] = {
     "question": "By unit 42, what bleeding and what movement of the fetus mark the second picture?",
     "rule": ("When there is ārtava (menstrual blood) every month (प्रतिमासम्) or flow every day (प्रत्यहम्), not very scanty "
              "(नात्यल्पम्), and the fetus, wasting (परिहीयमाण), moves a little (किंचित् स्पन्दते) after a long time (चिरात्)."),
-    "limits": ("The sentence runs on into unit 43, where the names come; this unit names no condition. The first clause has "
+    "limits": ("The sentence appears to run on into unit 43, where the names come; this unit names no condition. The first clause has "
                "no verb. Printed गर्भाः (plural) is read as singular गर्भः; no question rests on the number. A prose line."),
     "explain_hi": ("यह गद्य-पंक्ति एक दूसरी अवस्था बताती है। "
                    "जब हर मास (प्रतिमासम्) आर्तव यानी रज, या हर दिन (प्रत्यहम्) परिस्रवण होता है, और वह बहुत थोड़ा नहीं होता "
                    "(नात्यल्पम्), और गर्भ घटता हुआ (परिहीयमाणः) देर से (चिरात्) थोड़ा-सा (किंचित्) हिलता है (स्पन्दते)। "
-                   "वाक्य अगली इकाई (४३) में पूरा होता है, जहाँ नाम दिए गए हैं; यहाँ किसी दशा का नाम नहीं है। "
+                   "वाक्य सम्भवतः अगली इकाई (४३) में पूरा होता है, जहाँ नाम दिए गए हैं; यहाँ किसी दशा का नाम नहीं है। "
                    "पहले खण्ड में क्रिया नहीं है।"),
     "hook": "हर मास रज, स्राव कम नहीं; गर्भ घटे, देर से थोड़ा हिले।",
     "core": False,
@@ -108,7 +108,7 @@ AUTHORED["42"] = {
             ("Not very scanty (नात्यल्पम्)", "न + अति + अल्पम्: not very scanty."),
             [("Very scanty, a few drops", "The unit says the opposite: नात्यल्पम्, not very scanty."),
              ("None at all, it has stopped", "There is ārtava every month or flow every day."),
-             ("Heavy, mixed with clots", "Clots and heaviness are not named in unit 42.")],
+             ("Heavy, mixed with many clots", "Clots and heaviness are not named in unit 42.")],
             "The flow is not very scanty.",
             "नात्यल्पम् = न अति अल्पम्."),
         mcq("transfer", 5, "By the rule of नात्यल्पम् (न + अति), how is न + अस्ति (is not) joined?",
@@ -127,11 +127,11 @@ AUTHORED["43"] = {
     "title": "कुक्षिश्च वृद्धोऽपि ... तदुपशुष्ककं नागोदरं च",
     "question": "By unit 43, what happens to the belly, and what names are given?",
     "rule": ("And the belly (कुक्षि), though grown (वृद्धोऽपि), diminishes: that is upaśuṣkaka (उपशुष्कक, literally "
-             "'dried up') and nāgodara (नागोदर). This completes the sentence begun in unit 42."),
+             "'dried up') and nāgodara (नागोदर). It appears to complete the sentence begun in unit 42."),
     "limits": ("'Diminishes' rests on a near-certain correction (printed चरिहीयते read परिहीयते). Whether upaśuṣkaka and "
                "nāgodara are one condition or two is not settled, and nāga may be serpent or elephant: no question rests on "
                "either. The copula is understood. A prose line."),
-    "explain_hi": ("यह गद्य-पंक्ति इकाई ४२ का वाक्य पूरा करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति सम्भवतः इकाई ४२ का वाक्य पूरा करती है। "
                    "कुक्षि यानी पेट बढ़ा हुआ होकर भी (वृद्धोऽपि) घटता है; उसे उपशुष्कक (शब्दार्थ: सूखा हुआ) और नागोदर कहा गया है। "
                    "छपा ‘चरिहीयते’ लगभग निश्चित रूप से ‘परिहीयते’ (घटता है) पढ़ा गया है। "
                    "उपशुष्कक और नागोदर एक ही दशा के दो नाम हैं या दो दशाएँ, शब्दों से तय नहीं; ‘नाग’ साँप भी हो सकता है और हाथी भी। "
@@ -202,7 +202,7 @@ AUTHORED["44"] = {
             ("She gives birth (प्रसूयते)", "वर्षगणैरपि प्रमदा प्रसूयत एव: she gives birth indeed."),
             [("She loses the pregnancy", "The unit says the opposite: she gives birth indeed (एव)."),
              ("She bleeds every month", "Monthly ārtava is unit 42; unit 44 speaks of birth."),
-             ("She can never conceive", "The unit says she does give birth, even after years.")],
+             ("She can never conceive again", "The unit says she does give birth, even after years.")],
             "Even after groups of years, she gives birth.",
             "प्रमदा प्रसूयत एव."),
         order(1, "Put these phrases of unit 44 in the line's order.",
@@ -226,7 +226,7 @@ AUTHORED["44"] = {
         mcq("apply", 4, "A woman in this state has not delivered for years. What does unit 44 say?",
             ("Once they are well nourished, she gives birth", "यदा पुष्टौ स्यातां तदा ... प्रसूयत एव."),
             [("She must deliver within twelve years", "No number of years is stated; the text says groups of years."),
-             ("Only the father's food can nourish them", "They are nourished by the tejas of the mother's food."),
+             ("Only the father's food can nourish the two of them", "They are nourished by the tejas of the mother's food."),
              ("They grow strong on rich, abundant food", "The tejas is slight (अल्पेन), not abundant.")],
             "When they become well nourished, she gives birth, even after groups of years.",
             "यदा ... तदा ... प्रसूयत एव."),
@@ -429,10 +429,10 @@ AUTHORED["48"] = {
     "title": "तयोर्जीवनीयबृंहणीयमधुरौषधसिद्धानां सर्पिषामुपयोगः",
     "question": "By unit 48, what is used for those two conditions?",
     "rule": ("For those two (तयोः): the use (उपयोग) of ghees (सर्पिस्, plural) cooked (सिद्ध) with life-promoting "
-             "(जीवनीय), nourishing (बृंहणीय) and sweet (मधुर) medicines (औषध). This begins the treatment."),
+             "(जीवनीय), nourishing (बृंहणीय) and sweet (मधुर) medicines (औषध). This appears to begin the treatment."),
     "limits": ("No verb is printed ('is to be made' is understood). तयोः is read as upaviṣṭaka and upaśuṣkaka. The "
                "members of the jīvanīya and bṛṃhaṇīya classes are not listed here, and no dose is given. A prose line."),
-    "explain_hi": ("यह गद्य-पंक्ति उपविष्टक और उपशुष्कक की चिकित्सा आरम्भ करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति सम्भवतः उपविष्टक और उपशुष्कक की चिकित्सा आरम्भ करती है। "
                    "उन दोनों के लिए (तयोः) ऐसे घृतों (सर्पिषाम्, बहुवचन) का उपयोग कहा गया है जो जीवनीय यानी जीवन देने वाले, "
                    "बृंहणीय यानी पुष्ट करने वाले और मधुर औषधों से पकाए गए (सिद्ध) हों। "
                    "जीवनीय और बृंहणीय औषधों के वर्ग हैं; उनके सदस्य यहाँ नहीं गिनाए गए, और मात्रा भी नहीं दी गई। "
@@ -701,7 +701,7 @@ AUTHORED["52"] = {
             "इ + a different vowel → य् + that vowel."),
         mcq("apply", 4, "By unit 52, what kind of rice is she fed?",
             ("Soft boiled śāli rice", "मृदु शाल्योदनं भोजयेत्."),
-            [("Hard, parched barley", "Barley is not named in unit 52; the rice is soft (मृदु)."),
+            [("Hard, parched barley grains", "Barley is not named in unit 52; the rice is soft (मृदु)."),
              ("Rice gruel made sour", "No gruel and no sour taste are named in unit 52."),
              ("Raw, unboiled grains", "ओदन is boiled rice, and it is soft.")],
             "Soft śāli rice, boiled (ओदन).",
@@ -722,10 +722,10 @@ AUTHORED["53"] = {
     "title": "ततो विदार्यादिगणसाधितेन सर्पिषाऽनुवासयेत्",
     "question": "By unit 53, what enema is given next, and with what?",
     "rule": ("Then (ततः) one should give an anuvāsana (अनुवासन, unctuous enema) with ghee (सर्पिस्) prepared (साधित) with "
-             "the vidārī-and-others group (विदार्यादिगण; vidārī probably Pueraria tuberosa). It continues unit 52."),
+             "the vidārī-and-others group (विदार्यादिगण; vidārī probably Pueraria tuberosa). It appears to continue unit 52."),
     "limits": ("Vidārī = Pueraria tuberosa is probable only. The members of the vidārī group are not listed here, and no "
-               "amount is given. A prose line, continuing the Vāta treatment of unit 52."),
-    "explain_hi": ("यह गद्य-पंक्ति इकाई ५२ के वात-उपचार को आगे बढ़ाती है। "
+               "amount is given. A prose line, appearing to continue the Vāta treatment of unit 52."),
+    "explain_hi": ("यह गद्य-पंक्ति सम्भवतः इकाई ५२ के वात-उपचार को आगे बढ़ाती है। "
                    "फिर (ततः) विदारी आदि के गण से तैयार (साधित) घी (सर्पिस्) से अनुवासन दे (अनुवासयेत्), यानी घी या तेल की "
                    "चिकनाई वाली बस्ति। "
                    "विदारी की पहचान सम्भवतः विदारीकन्द (Pueraria tuberosa) है; यह सम्भावित है, निश्चित नहीं। "
@@ -781,10 +781,10 @@ AUTHORED["54"] = {
     "title": "निवातं च सेवेत",
     "question": "By unit 54, what should be resorted to in the Vāta treatment?",
     "rule": ("And one should resort to (सेवेत) a wind-sheltered place or state (निवात). सेवेत is the optative middle of "
-             "√सेव्: one should resort to. It continues units 52-53."),
+             "√सेव्: one should resort to. It appears to continue units 52-53."),
     "limits": ("Three words. Who resorts (the woman is the natural reading) and for how long are not stated. निवात is "
                "kept as the data glosses it, a wind-sheltered state or place; not enriched. A prose line."),
-    "explain_hi": ("तीन शब्दों की यह गद्य-पंक्ति इकाई ५२-५३ के वात-उपचार में जोड़ती है: और निवात यानी वायु से बचे स्थान या अवस्था "
+    "explain_hi": ("तीन शब्दों की यह गद्य-पंक्ति इकाई ५२-५३ के वात-उपचार में सम्भवतः जोड़ती है: और निवात यानी वायु से बचे स्थान या अवस्था "
                    "का सेवन करे (सेवेत)। "
                    "‘सेवेत’ आत्मनेपद विधिलिङ् है: सेवन करना चाहिए। "
                    "कौन और कितने समय तक, यह नहीं कहा। "
@@ -817,7 +817,7 @@ AUTHORED["54"] = {
             "सेवते (present) → सेवेत (optative)."),
         mcq("apply", 4, "Why is निवातम् printed निवातं before च in unit 54?",
             ("म् before a consonant is written ं", "A final म् before a consonant becomes anusvāra (or the nasal of that consonant)."),
-            [("The ं marks a dual ending here", "निवातम् is accusative singular in the data, not dual."),
+            [("The ं marks a dual ending of the word", "निवातम् is accusative singular in the data, not dual."),
              ("म् is always ं in every place", "Before a vowel म् stays: निवातम् + एव → निवातमेव."),
              ("The ं is a later printer's error", "It is regular sandhi, not an error.")],
             "निवातम् + च → निवातं च: म् before a consonant → ं.",
