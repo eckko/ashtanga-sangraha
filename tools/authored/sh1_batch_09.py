@@ -169,7 +169,7 @@ AUTHORED["109"] = {
             ("They describe the woman, the object of सेवेत", "The card gives both as f. acc. sg., the object."),
             [("They describe the man, the subject of सेवेत", "A subject would be nominative, not accusative."),
              ("They name the place where union happens", "A place would be in the locative."),
-             ("They give the reason why it is forbidden", "A reason would be in the ablative or come in another unit.")],
+             ("They give the reason why it is forbidden", "They name positions; the reasons come in units 110 to 112.")],
             "The woman is the object of सेवेत, so her descriptions are feminine accusatives.",
             "Object of the verb → accusative: न्युब्जाम्, पार्श्वगताम्."),
         mcq("transfer", 5, "Built like न्युब्जाम्, which form says a woman lying on her back as the object of सेवेत?",
@@ -793,7 +793,7 @@ AIDS = {
         "frame": "न + कर्म (स्त्रीलिंग द्वितीया: न्युब्जाम्, पार्श्वगताम्) + विधिलिङ् ‘सेवेत’ = ऐसी का सेवन न करे।",
     },
     "110": {
-        "chain": {"steps": ["न्युब्जायाम् (औंधी में)", "वातः बलवान् (वात बलवान)", "सः (वह वात)", "योनिं पीडयति (योनि को पीड़ा)"]},
+        "chain": {"steps": ["न्युब्जायाम् (औंधी में)", "वातः बलवान् (वात बलवान)", "स योनिं पीडयति (वह योनि को पीड़ा देता)"]},
         "sandhi": "अः → ओ (घोष व्यंजन से पहले): वातः + बलवान् → वातो बलवान् · ‘सः’ का विसर्ग व्यंजन से पहले लुप्त: सः + योनिम् → स योनिम्।",
         "contrast": "इकाई 109: न्युब्जाम् (द्वितीया, कर्म) ↔ इकाई 110: न्युब्जायाम् (सप्तमी, ‘उसमें’)।",
     },
@@ -863,7 +863,7 @@ IMAGE_SPECS = {
         "alt": ("Chain of unit 110: in a woman lying face down, Vata becomes strong, and it presses the yoni."),
         "type": "chain",
         "title": "औंधी स्थिति (इकाई ११०)",
-        "steps": ["औंधी लेटी में", "वात बलवान", "वह वात", "योनि को पीड़ा"],
+        "steps": ["औंधी लेटी में", "वात बलवान", "वह योनि को पीड़ा देता"],
     },
     ("111", "chain"): {
         "file": "sh1-dakshina-kapha-111.svg",

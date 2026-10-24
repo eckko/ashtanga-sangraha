@@ -14,9 +14,8 @@ AUTHORED["67"] = {
     "question": "What does unit 67 have one drink in kuṇapa-retas, and cooked with what?",
     "rule": ("In kuṇapa-retas (probably semen with a corpse-like smell) one should make him drink ghee cooked with dhātakī "
              "flowers, khadira, arjuna and dāḍima; a second, damaged alternative follows."),
-    "limits": ("Low confidence. The printed अमनादिभिः is damaged; मदनादिभिः (with madana and the like) is only a conjecture, so "
-               "no question rests on it. The printed खदिार्जुन is read as खदिर + अर्जुन. Kuṇapa as a smell is the probable sense. "
-               "No dose, part used (beyond the flowers) or duration is given."),
+    "limits": ("Low confidence. The damaged अमनादिभिः (perhaps मदनादिभिः) is only conjectural; no question rests on it. "
+               "खदिार्जुन is read as खदिर + अर्जुन. Kuṇapa as a smell is probable. No dose or duration is given."),
     "explain_hi": ("यह गद्य-पंक्ति शुक्र के दोषों की चिकित्सा की श्रृंखला में कुणप-रेतस् से आरम्भ करती है; कुणप यानी शव, और सामान्य समझ "
                    "है शव जैसी गन्ध वाला शुक्र (सम्भावित अर्थ)। उसमें घी पिलाना है जो धातकी के फूल, खदिर (खैर), अर्जुन और दाडिम "
                    "(अनार) के साथ पकाया गया हो। ‘पाययेत्’ प्रेरणार्थक रूप है: (उसे) पिलाए। "
@@ -188,8 +187,8 @@ AUTHORED["70"] = {
     "question": "What decoction does unit 70 give for granthi-ārtava?",
     "rule": "Likewise, in granthi-ārtava (menstrual blood with knots or lumps): a decoction of pāṭhā, trikaṇṭaka and vṛkṣaka.",
     "limits": ("Elliptical: the verb is not stated here (पिबेत् stands in the next unit) and none is supplied. All three "
-               "identifications are probable only; the part used of each is not stated. Though typed 'verse' in the data, the line "
-               "is not a metrical pāda: treat it as a prose line."),
+               "identifications are probable only; the part used of each is not stated. The line is not metrical."
+               ""),
     "explain_hi": ("‘तथा’ (उसी प्रकार) से पाठ शुक्र-दोषों से आर्तव-दोषों पर आता है। ग्रन्थि-आर्तव यानी गाँठ वाले आर्तव में पाठा, "
                    "त्रिकण्टक (सम्भवतः गोखरू) और वृक्षक (सम्भवतः कुटज) का क्वाथ बताया गया है। "
                    "‘ग्रन्थ्यार्तवे’ में ग्रन्थि + आर्तवे की सन्धि है: इ + आ → या। "
@@ -245,9 +244,9 @@ AUTHORED["71"] = {
     "question": "What does unit 71 give to drink in kuṇapa-pūya-ārtava, and what else is named here?",
     "rule": ("In kuṇapa-pūya-ārtava one should drink a decoction of candana; and here also the paste and decoction of "
              "triphalā, holding (dhāraṇa) and sipping or rinsing (ācamana)."),
-    "limits": ("The last clause is two duals side by side with no verb; which of paste and decoction goes with holding or "
-               "sipping is not stated, so the card does not pair them. Kuṇapa as smell is probable. Candana's kind is not "
-               "stated. ācamana is primarily sipping (also rinsing the mouth), not a wash of the yoni."),
+    "limits": ("The last clause is two verbless duals; which of paste and decoction goes with holding or sipping is not "
+               "stated, so the card does not pair them. Kuṇapa as smell is probable; candana's kind is not stated. "
+               "Ācamana is sipping (or rinsing the mouth), not a yoni wash."),
     "explain_hi": ("कुणप-पूय-आर्तव यानी (सम्भवतः) शव जैसी गन्ध और पीब वाले आर्तव में चन्दन का क्वाथ पीना है। "
                    "फिर ‘चात्र’ (और यहाँ): त्रिफला (हरड़, बहेड़ा, आँवला) का कल्क और क्वाथ, तथा धारण और आचमन। "
                    "ये दो द्विवचन बिना क्रिया के साथ-साथ रखे हैं; कौन किसके साथ जाए, पाठ नहीं बताता, इसलिए यहाँ जोड़ी नहीं बनाई गई। "
@@ -273,7 +272,7 @@ AUTHORED["71"] = {
                 "कुणपपूयार्तवे → चन्दनक्वाथम् → पिबेत् → त्रिफलाकल्कक्वाथौ → धारणाचमने.", role="extend"),
           "The unit has one full sentence (with पिबेत्) and then a verbless clause of two duals."),
         mcq("discriminate", 3, "Does unit 71 say which of paste and decoction goes with holding, and which with sipping?",
-            ("No; the two pairs simply stand side by side", "Two duals with no verb; the pairing is not stated."),
+            ("No; the two pairs stand side by side", "Two duals with no verb; the pairing is not stated."),
             [("Yes; the paste is for sipping", "No pairing is stated in the text."),
              ("Yes; the decoction is for holding", "No pairing is stated in the text."),
              ("Yes; both go only with holding", "आचमन is named too, and no pairing is given.")],
@@ -306,7 +305,7 @@ AUTHORED["72"] = {
     "limits": ("The actions that follow sneha are not listed here. The number of uttarabastis and their contents are not stated. "
                "The printed सर्वेषुच is सर्वेषु च."),
     "explain_hi": ("यह पंक्ति शुक्र और आर्तव के सभी दोषों के लिए एक सामान्य नियम देती है। ‘स्त्रीपुंसौ’ द्विवचन है: स्त्री और पुरुष, दोनों "
-                   "का उपचार करना है। उपचार स्नेह (तेल-घी आदि) से आरम्भ होने वाले कर्मों से, और विशेष रूप से उत्तरबस्ति से। "
+                   "का उपचार करना है। उपचार स्नेह (तेल या वसा) से आरम्भ होने वाले कर्मों से, और विशेष रूप से उत्तरबस्ति से। "
                    "‘पुनः पुनः’ यानी बार-बार; पहला ‘पुनः’ छपाई में ‘उत्तरबस्तिभिः’ से जुड़ा है। "
                    "स्नेह के बाद कौन-से कर्म, यह सूची यहाँ नहीं दी गई।"),
     "hook": "दोष किसी का भी: दोनों का उपचार, स्नेह से शुरू, उत्तरबस्ति ख़ास, बार-बार।",
@@ -440,7 +439,7 @@ AUTHORED["74"] = {
                  ["दृष्टार्तव", "with ārtava seen"], ["द्वादशरात्र", "twelve nights"]],
                 "Three words belong to line 1, two to line 2.",
                 "विशुद्ध, पूर्वोक्त, आसेवेताम्, दृष्टार्तव, द्वादशरात्र.", role="extend"),
-          "आसेवेताम् is a dual optative: the two (man and woman) should follow."),
+          "आसेवेताम् is a dual verb: the two (man and woman) should follow (practise) the procedure."),
         mcq("discriminate", 3, "Which split of पूर्वोक्तम् is right?",
             ("पूर्व + उक्तम्", "अ + उ → ओ: पूर्व + उक्तम् → पूर्वोक्तम्."),
             [("पूर्वो + क्तम्", "क्तम् is no word; the second word is उक्तम्."),
@@ -455,14 +454,14 @@ AUTHORED["74"] = {
              ("Semen and ārtava themselves", "The compound is a bahuvrīhi: persons having them, not the fluids.")],
             "विशुद्धशुक्रार्तवौ = the two whose semen and ārtava are purified: the man and the woman.",
             "Bahuvrīhi in the dual = the two persons who have X."),
-        T(mcq("transfer", 5, "An invented line reads बालौ ग्रामं गच्छेताम्. What does it say?",
-              ("The two boys should go to the village", "-एताम् = 3rd person dual optative, like आसेवेताम्."),
-              [("The two boys are going to the village", "That would be the present, गच्छतः."),
-               ("One boy should go to the village", "बालौ and -एताम् are dual: two boys."),
-               ("The boys went to the village", "-एताम् is optative, not past.")],
-              "As आसेवेताम् = the two should follow, गच्छेताम् = the two should go.",
-              "-एताम् (ātmanepada) / -एताम् (parasmaipada) = they two should."),
-          "The ending -एताम् marks the dual optative: the two should (do)."),
+        T(mcq("transfer", 5, "By the join in ऋतुस्तु, how is गुरुः + तु written?",
+              ("गुरुस्तु", "Visarga becomes स् before त, as in ऋतुः + तु → ऋतुस्तु."),
+              [("गुरुर्तु", "र् replaces visarga before voiced sounds; त is unvoiced."),
+               ("गुरोतु", "No ओ arises here; the visarga turns into स्."),
+               ("गुरुश्तु", "श् replaces visarga before च or छ, not before त.")],
+              "ऋतुः + तु → ऋतुस्तु; so गुरुः + तु → गुरुस्तु.",
+              "Visarga + त/थ → स्."),
+          "A visarga before त or थ becomes स्."),
     ],
 }
 
@@ -612,7 +611,7 @@ AUTHORED["77"] = {
             "त् + vowel → द् + vowel."),
         mcq("apply", 4, "What does the अ- of अदृष्टार्तव add, against दृष्टार्तव of unit 74?",
             ("Negation: ārtava not seen", "अ- before a word denies it: अ-दृष्ट = not seen."),
-            [("Stress: ārtava clearly seen", "अ- does not strengthen; it negates."),
+            [("Stress: ārtava plainly seen", "अ- does not strengthen; it negates."),
              ("Time: ārtava seen earlier", "अ- adds no time."),
              ("Number: many ārtavas", "अ- adds no plural.")],
             "Unit 74's ṛtu is दृष्टार्तव (ārtava seen); unit 77's others add अदृष्टार्तव (not seen).",
@@ -800,17 +799,17 @@ AUTHORED["80"] = {
 NOTES_HI = {
     "67": ("विश्वास कम। छपा ‘खदिार्जुन’ सन्धि नहीं; खदिर + अर्जुन → खदिरार्जुन (अ + अ → आ) पढ़ा गया, छपाई में ‘र’ छूटा लगता है। "
            "छपा ‘सिद्धममनादिभिर्वा’ क्षतिग्रस्त: ‘अमनादिभिः’ सम्भवतः ‘मदनादिभिः’ (द और म का स्थान बदला), केवल अनुमान। "
-           "कुणप का अर्थ शव-गन्ध सम्भावित। पहचान: खदिर, अर्जुन, दाडिम मानक; धातकी Woodfordia fruticosa। "
+           "कुणप का अर्थ शव-गन्ध सम्भावित। पहचान: खदिर, अर्जुन, दाडिम मानक। "
            "सन्धि: अमनादिभिः + वा → अमनादिभिर्वा।"),
-    "68": ("दो छपी पंक्तियाँ, दोनों में क्रिया नहीं। छपा ‘ग्रंधि’ (ध) ग्रन्थि पढ़ा गया। पाषाणभिद् = पाषाणभेद (Bergenia ligulata, सम्भावित)। "
+    "68": ("दो छपी पंक्तियाँ, दोनों में क्रिया नहीं। छपा ‘ग्रंधि’ (ध) ग्रन्थि पढ़ा गया। पाषाणभिद् = पाषाणभेद (पखानभेद, सम्भावित)। "
            "‘आदिभ्याम्’ का द्विवचन दो गणों (परूषकादि, न्यग्रोधादि) का; पहला ‘आदि’ समास-रूप में है। "
-           "डेटा में इकाई ‘verse’ लिखी है, पर पंक्तियाँ छन्द-बद्ध नहीं। सन्धि: परूषक + आदि → परूषकादि।"),
+           "दोनों पंक्तियाँ छन्द-बद्ध नहीं, गद्य जैसी हैं। सन्धि: परूषक + आदि → परूषकादि।"),
     "69": ("विश्वास कम। छपा ‘हिंगुशीर’: हिङ्गु + उशीर → हिङ्गूशीर (दीर्घ ऊ) होना चाहिए; ‘शीर’ अकेला निरर्थक, इसलिए उशीर अनुमान है। "
            "‘मोचचूर्ण’ को मोच + चूर्ण पढ़ा (मोचा-चूर्ण भी सम्भव)। वितुन्नक, समङ्गा, मोच की पहचान विवादित। "
            "सन्धियाँ: वायुना + अतिविकृते → वायुनाऽतिविकृते (आ + अ → आ, छपाई ऽ लगाती है); चित्रकैः + अथवा → चित्रकैरथवा; "
            "सिद्धम् + एला → सिद्धमेला।"),
     "70": ("क्रिया यहाँ नहीं; ‘पिबेत्’ अगली इकाई (७१) में है। पहचान तीनों सम्भावित: पाठा, त्रिकण्टक (गोखरू, श्वदंष्ट्रा जैसा), "
-           "वृक्षक (कुटज)। डेटा में ‘verse’ लिखा है, पर पंक्ति छन्द-बद्ध नहीं। सन्धि: ग्रन्थि + आर्तवे → ग्रन्थ्यार्तवे (इ + आ → या)।"),
+           "वृक्षक (कुटज)। पंक्ति छन्द-बद्ध नहीं, गद्य जैसी है। सन्धि: ग्रन्थि + आर्तवे → ग्रन्थ्यार्तवे (इ + आ → या)।"),
     "71": ("अन्तिम खण्ड दो द्विवचनों का बिना क्रिया का वाक्य: कल्क-क्वाथ और धारण-आचमन; जोड़ी पाठ में नहीं कही गई। "
            "आचमन = घूँट लेना / मुँह धोना, प्रक्षालन नहीं। त्रिफला = हरीतकी, बिभीतक, आमलक (मानक)। "
            "सन्धियाँ: कुणप + पूय + आर्तवे → कुणपपूयार्तवे; च + अत्र → चात्र; धारण + आचमने → धारणाचमने।"),

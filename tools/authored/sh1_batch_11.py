@@ -436,7 +436,7 @@ AUTHORED["141"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In line 1 of unit 141, what takes colour from the mere falling?",
-            ("A clean cloth (वासः अमलम्)", "वासो यथाऽमलम्: as a clean cloth."),
+            ("A clean cloth", "वासो यथाऽमलम्: as a clean cloth (वासः अमलम्)."),
             [("A clear crystal", "No crystal is named."),
              ("Still water in a pot", "No water is named."),
              ("Fresh milk", "No milk is named in unit 141.")],
@@ -497,7 +497,7 @@ AUTHORED["142"] = {
             ("Before the manifestation (व्यक्ति)", "पूर्वं व्यक्तेः प्रयोजयेत्."),
             [("Right after the birth", "Birth is not named in unit 142."),
              ("At the time of delivery", "Delivery is not named in unit 142."),
-             ("Only after the eighth month", "No month is named in unit 142.")],
+             ("Only after the eighth month of pregnancy", "No month is named in unit 142.")],
             "The rite is to be applied before manifestation.",
             "पूर्वं व्यक्तेः = before manifestation."),
         order(1, "Put these parts of unit 142 in the verse's order.",
@@ -554,9 +554,9 @@ AUTHORED["143"] = {
     "questions": [
         mcq("pretest", 0, "By unit 143, from what would good sons release?",
             ("From debt (ऋण)", "ऋणात् मोचयितारः: releasers from debt."),
-            [("From disease", "Disease is not named in unit 143."),
+            [("From disease (रोग)", "Disease is not named in unit 143."),
              ("From fear", "Fear is not named in unit 143."),
-             ("From poverty", "Poverty is not named in unit 143.")],
+             ("From poverty (दारिद्र्य)", "Poverty is not named in unit 143.")],
             "Good sons are called releasers from debt.",
             "ऋणात् = from debt."),
         order(1, "Put these words of unit 143 in the verse's order.",
@@ -612,7 +612,7 @@ AUTHORED["144"] = {
     "questions": [
         mcq("pretest", 0, "By line 1 of unit 144, the woman devoted to what bears one of great qualities?",
             ("Gods, conduct, purity and the like", "दैवताचारशौचादिरता."),
-            [("Wealth, ornaments and the like", "Wealth is not named."),
+            [("Wealth, ornaments, fine clothes and the like", "Wealth is not named."),
              ("Sleep, rest and the like", "Sleep is not named."),
              ("Sweet food and water-sport", "Those are causes of colour in unit 135.")],
             "Devotion to gods, conduct, purity and the like is named.",
@@ -941,11 +941,14 @@ IMAGE_SPECS = {
     },
     ("142", "chain"): {
         "file": "sh1-pumsavana-kala-142.svg",
-        "alt": ("Chain of unit 142: when fate is unopposed and the action is applied in time, success is certain; therefore "
+        "alt": ("Flowchart of unit 142: fate unopposed and an action applied in time lead to certain success; therefore "
                 "puṃsavana and the like are to be applied before manifestation."),
-        "type": "chain",
-        "title": "सिद्धि और पुंसवन का काल (इकाई १४२)",
-        "steps": ["दैव अविरुद्ध", "काल में युक्त कर्म", "सिद्धि निश्चित", "इसलिए पुंसवन आदि", "व्यक्ति से पहले"],
+        "type": "mermaid",
+        "code": ("flowchart TD\n"
+                 "  A[\"दैव अविरुद्ध\"] --> C[\"सिद्धि निश्चित\"]\n"
+                 "  B[\"काल में युक्त कर्म\"] --> C\n"
+                 "  C -->|\"इसलिए\"| D[\"पुंसवन आदि\"]\n"
+                 "  D --> E[\"व्यक्ति से पहले प्रयोग\"]\n"),
     },
     ("143", "diagram"): {
         "file": "sh1-suputra-143.svg",

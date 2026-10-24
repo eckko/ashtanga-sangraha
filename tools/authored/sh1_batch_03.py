@@ -14,9 +14,9 @@ AUTHORED["28"] = {
     "question": "Which kinds of semen (retas) does unit 28 call seedless (abīja)?",
     "rule": ("Semens (retas) that are Vāta, Pitta, Śleṣma (Kapha), corpse-smelling, knot, pus, wasted, or "
              "urine-and-faeces are seedless (abīja), probably meaning not capable of conception."),
-    "limits": ("The long compound is read as a list of eight members, with कुणपगन्धि and मूत्रपुरीष each one member. "
-               "'Not capable of conception' is only the probable sense of abīja. The unit does not say how each kind "
-               "arises; the next units describe kinds by their causes, but that pairing is not stated here."),
+    "limits": ("The compound is read as eight members, कुणपगन्धि and मूत्रपुरीष each one. 'Not capable of conception' "
+               "is only the probable sense of abīja. The unit says nothing of causes; any pairing with the next units "
+               "is not stated here."),
     "explain_hi": ("यह गद्य-पंक्ति एक लम्बे समास में दोषयुक्त रेतस् (वीर्य) के प्रकार गिनाती है: वात, पित्त, श्लेष्मा (कफ), "
                    "कुणपगन्धि (शव जैसी गन्ध वाला), ग्रन्थि (गाँठ), पूय (मवाद), क्षीण (घटा हुआ) और मूत्र-पुरीष वाला। "
                    "ऐसे सभी रेतस् ‘अबीज’ यानी बीजहीन होते हैं; सम्भावित अर्थ है कि वे गर्भ धारण कराने योग्य नहीं। "
@@ -189,9 +189,9 @@ AUTHORED["31"] = {
     "title": "कुणपगन्ध्यमल्पं रक्तेन",
     "question": "By unit 31, what kind of semen comes about by blood?",
     "rule": "Corpse-smelling and scanty (the semen issues) by blood (rakta).",
-    "limits": ("Elliptical: subject and verb are carried from the units before; the list goes on. Blood is the agent, as Vāta, "
-               "Pitta and Śleṣma were, but the line does not call it a doṣa. The printed कुणपगंध्यमल्पं has a म that the "
-               "card's split (कुणपगन्धि + अल्पम्) does not show, so no question rests on अल्पम्."),
+    "limits": ("Elliptical: subject and verb are carried over. Blood is the agent, but the line does not call it a doṣa. "
+               "The printed कुणपगंध्यमल्पं has a म that the split कुणपगन्धि + अल्पम् does not show, so no question "
+               "rests on अल्पम्."),
     "explain_hi": ("छोटी गद्य-पंक्ति, सूची का अगला अंग: रक्त के कारण वीर्य शव जैसी गन्ध वाला (कुणपगन्धि) और थोड़ा होता है। "
                    "कर्ता और क्रिया पिछली इकाइयों से लिए जाते हैं। "
                    "रक्त यहाँ वात, पित्त, श्लेष्मा की तरह कारण है, पर पंक्ति इसे दोष नहीं कहती। "
@@ -580,7 +580,7 @@ AUTHORED["37"] = {
         T(mcq("transfer", 5, "By the rule of शुक्रदोषैरुपसंसृष्टम्, how is बालैः + इष्टम् written when joined?",
               ("बालैरिष्टम्", "A visarga after ऐ becomes र् before the vowel इ."),
               [("बालैइष्टम्", "The visarga cannot simply drop before a vowel here."),
-               ("बालैसिष्टम्", "Visarga becomes स् only before त/थ, not before a vowel."),
+               ("बालैसिष्टम्", "Before a vowel this visarga becomes र्, not स्."),
                ("बालैष्टम्", "The इ of इष्टम् cannot vanish.")],
               "शुक्रदोषैः + उपसंसृष्टम् → शुक्रदोषैरुपसंसृष्टम्; so बालैः + इष्टम् → बालैरिष्टम्.",
               "ऐः + vowel → ऐर् + vowel."),
@@ -649,9 +649,8 @@ AUTHORED["39"] = {
     "question": "By unit 39, which faulty kinds are curable with difficulty, and which are incurable?",
     "rule": ("Among these, the corpse-smelling, knot, pus and wasted semens are curable with difficulty; but the "
              "urine-and-faeces kind of śukra and ārtava is incurable, or the kuṇapa, granthi or pūya kind of ārtava."),
-    "limits": ("The compounds of the second line are not marked: they are read as the urine-and-faeces kind of semen and "
-               "of ārtava, and the kuṇapa, granthi or pūya kind of ārtava; the force of वा (or) is not explained. No "
-               "question rests on the ārtava reading. कुणप stands for कुणपगन्धि. The unit joins two printed lines."),
+    "limits": ("Joins two printed lines. The second line's compounds are unmarked; the reading of the ārtava kinds and the "
+               "force of वा (or) are not certain, so no question rests on them. कुणप stands for कुणपगन्धि."),
     "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है और साध्यता बताती है। पहली: उनमें कुणप (शव-गन्धी), ग्रन्थि, पूय और क्षीण "
                    "रेतस् कठिनाई से साध्य (कृच्छ्रसाधन) हैं। दूसरी: पर मूत्र-पुरीष वाला शुक्र और आर्तव असाध्य है, अथवा कुणप, "
                    "ग्रन्थि या पूय वाला आर्तव। दूसरी पंक्ति के समासों का बँटवारा छपाई में चिह्नित नहीं; यह पढ़ाई सम्भावित है, "
@@ -890,7 +889,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "diagram"): {
         "file": "sh1-abija-retas-28.svg",
-        "alt": ("Mindmap of unit 28: the seedless semens, eight members in printed order: Vata, Pitta, Shleshma, "
+        "alt": ("Mindmap of unit 28: the seedless semens, eight members (printed order): Vata, Pitta, Shleshma, "
                 "corpse-smelling, knot, pus, wasted, urine-and-faeces."),
         "type": "mermaid",
         "code": ("mindmap\n"
@@ -953,7 +952,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "साध्यता (इकाई ३९)",
         "cols": [["कठिनाई से साध्य", ["कुणप (शव-गन्धी)", "ग्रन्थि", "पूय", "क्षीण रेतस्"]],
-                 ["असाध्य", ["मूत्र-पुरीष वाला", "शुक्र और आर्तव", "या कुणप, ग्रन्थि, पूय", "वाला आर्तव (सम्भावित)"]]],
+                 ["असाध्य", ["मूत्र-पुरीष वाला शुक्र-आर्तव", "या कुणप-ग्रन्थि-पूय आर्तव (सम्भावित पढ़ाई)"]]],
     },
     ("40", "chain"): {
         "file": "sh1-dosha-sadhana-40.svg",
