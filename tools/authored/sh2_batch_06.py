@@ -66,7 +66,7 @@ AUTHORED["64"] = {
 # ---------------------------------------------------------------- unit 65
 AUTHORED["65"] = {
     "title": "एषा प्रकृतिः",
-    "question": "What does unit 65 call the course of birth just described?",
+    "question": "What does unit 65 call the course of birth described in unit 64?",
     "rule": ("एषा प्रकृतिः: this is the natural state. प्रकृति here is the natural, normal course of things; "
              "the copula (is) is understood."),
     "limits": ("Two words, prose. प्रकृति here is not the doctrinal prakṛti of body constitution. The line itself says "
@@ -78,7 +78,7 @@ AUTHORED["65"] = {
     "hook": "पलटकर, सिर नीचे जन्म: एषा प्रकृतिः, यही स्वाभाविक है।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "What does unit 65 call the course of birth just described?",
+        mcq("pretest", 0, "What does unit 65 call the course of birth described in unit 64?",
             ("The natural state (प्रकृति)", "एषा प्रकृतिः: this is the natural state."),
             [("An abnormality (विकृति)", "विकृति is the word of unit 66, for the other case."),
              ("A disease of Vāta", "No disease is named in unit 65."),
@@ -155,7 +155,7 @@ AUTHORED["66"] = {
               "विकृति, अतः, अन्यथा.", role="extend",
               teaches="अतः here means than this; with अन्यथा (otherwise) it gives otherwise than this."),
         mcq("discriminate", 3, "Which split of विकृतिरतोऽन्यथा is right?",
-            ("विकृतिः + अतः + अन्यथा", "इः + अ → इर् अ; अः + अ → ओऽ."),
+            ("विकृतिः + अतः + अन्यथा", "Visarga after इ → र् before अ; अः + अ → ओऽ."),
             [("विकृती + अतः + अन्यथा", "ई + अ would give य्: विकृत्यतो."),
              ("विकृतिः + अते + अन्यथा", "ए + अ keeps ए: it would read विकृतिरतेऽन्यथा."),
              ("विकृतिः + अतः + न्यथा", "न्यथा is not a word; the word is अन्यथा.")],
@@ -576,7 +576,7 @@ AUTHORED["73"] = {
               [("The text names which part of the seed is spoiled", "It says only भागे, in a part."),
                ("प्रकृति here is the body-constitution term", "The notes say plain nature."),
                ("Male and female natures: suggested, not stated", "Right: the context suggests it; the text does not say so."),
-               ("The napuṃsaka has two natures and two seeds", "Right: द्विप्रकृतिः द्विरेताः.")],
+               ("The napuṃsaka has two natures and two seeds", "Right: द्विप्रकृतिः, द्विरेतः.")],
               [2, 3],
               "Two natures (probably male and female, by context) and two seeds; the part is not named.",
               "द्विप्रकृति, द्विरेतस्; भागे only."),
