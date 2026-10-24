@@ -13,7 +13,7 @@ AUTHORED["12"] = {
                "yaṣṭīmadhuka, bimbī, pratyakpuṣpī standard; kovidāra, nīpa probable; the other four disputed."),
     "explain_hi": ("सँभालकर रखी फल-पिप्पलियाँ (सम्भवतः मैनफल के सूखे टुकड़े) प्रयोग के समय निकाली जाती हैं। "
                    "उनकी एक मुट्ठी, या जितनी ठीक समझे, दरदरी कूटी जाती है; ‘अन्तर्मुखमुष्टि’ का ठीक माप अनिश्चित है। "
-                   "फिर इन नौ में से किसी एक के काढ़े में दी जाती है: यष्टीमधुक यानी मुलेठी, कोविदार यानी कचनार, कर्बुदार, नीप यानी कदम्ब, "
+                   "फिर इन नौ में से किसी एक के काढ़े में दी जाती है: यष्टीमधुक यानी मुलेठी, कोविदार यानी कचनार (सम्भावित), कर्बुदार, नीप यानी कदम्ब (सम्भावित), "
                    "विदुल, बिम्बी यानी कुन्दरू, शणपुष्पी, सदापुष्पी और प्रत्यक्पुष्पी यानी चिरचिटा। "
                    "पिलाने की विधि सूत्रस्थान में कही विधि है। "
                    "‘अन्यतम’ का अर्थ है इनमें से कोई एक, सब एक साथ नहीं।"),
@@ -86,7 +86,7 @@ AUTHORED["13"] = {
              ("Tumour, nodule, scrofula and lost relish", "These are in line 05.01.15, not here.")],
             "The unit lists five: śleṣma, jvara, gulma, pratiśyāya, antarvidradhi.",
             "श्लेष्म · ज्वर · गुल्म · प्रतिश्याय · अन्तर्विद्रधि."),
-        order(1, "Put the conditions of unit 13 in the order of the text.",
+        order(1, "Put these words of unit 13's list in the order of the text.",
               ["श्लेष्म (कफ)", "ज्वर", "गुल्म", "प्रतिश्याय", "अन्तर्विद्रधि"],
               "Phlegm, fever, gulma, coryza, internal abscess.",
               "श्लेष्म · ज्वर · गुल्म · प्रतिश्याय · अन्तर्विद्रधि."),
@@ -153,10 +153,10 @@ AUTHORED["14"] = {
              "वमति (√वम्, present) = one vomits; the noun वमन names emesis.",
              "वमति = one vomits."),
         mcq("discriminate", 3, "Which English rendering of तेन साधु वमति has one wrong word?",
-            ("By that one vomits badly", "Wrong: साधु is 'well', not 'badly'."),
-            [("By that one vomits well", "Correct: this is the card's rendering."),
-             ("Through that one vomits well", "Correct: तेन can be 'through that'."),
-             ("By that one vomits properly", "Correct: 'properly' renders साधु.")],
+            ("By that one vomits badly", "This is the faulty one: साधु is 'well', not 'badly'."),
+            [("By that one vomits well", "Not faulty: this is the card's rendering."),
+             ("Through that one vomits well", "Not faulty: तेन (instrumental) can be 'through that'."),
+             ("By that one vomits properly", "Not faulty: 'properly' renders साधु.")],
             "साधु means well, properly; 'badly' reverses it.",
             "साधु = well."),
         mcq("apply", 4, "How does the data label तेन in unit 14?",
@@ -184,7 +184,7 @@ AUTHORED["15"] = {
     "rule": ("Or one should drink the fruit-pippalī powder steeped in its own decoction, with triphalā powder in three parts, "
              "in a decoction of kovidāra and the rest: in strong Kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka."),
     "limits": ("त्विफला is printed for त्रिफला (misprint flagged); त्रिभाग may also mean 'a third part'. A stray space splits "
-               "जवरोदरा रोचकेषु (udara-arocakeṣu). बलवत् may go with kapha only or with all. The kovidāra group is not "
+               "ज्वरोदरा रोचकेषु (udara-arocakeṣu). बलवत् may go with kapha only or with all. The kovidāra group is not "
                "listed. Apaci = cervical glandular swellings (probable). How to render praseka is open."),
     "explain_hi": ("एक और विकल्प: फल-पिप्पली का चूर्ण, जो अपने ही क्वाथ में भावित (भिगोया) हो। "
                    "उसके साथ तीन भाग त्रिफला-चूर्ण (हरड़, बहेड़ा, आँवला; छपा ‘त्विफला’ मुद्रण-दोष है) बताया गया है। "
@@ -450,10 +450,10 @@ AUTHORED["19"] = {
             "इ/ई + unlike vowel → य् + vowel.",
             teaches="इ before a different vowel becomes य्: दधि + उत्तरम् = दध्युत्तरम्."),
         mcq("discriminate", 3, "Which English rendering of unit 19's two foods has one wrong word?",
-            ("Curd born of that, or the lower part of curd", "Wrong: उत्तर is 'upper', not 'lower'."),
-            [("Curd born of that, or the upper part of curd", "Correct: this is the card's rendering."),
-             ("Curd made from that, or the upper part of curd", "Correct: 'made from' renders तज्ज."),
-             ("The curd of that milk, or the curd's upper part", "Correct: only the wording differs.")],
+            ("Curd born of that, or the lower part of curd", "This is the faulty one: उत्तर is 'upper', not 'lower'."),
+            [("Curd born of that, or the upper part of curd", "Not faulty: this is the card's rendering."),
+             ("Curd made from that, or the upper part of curd", "Not faulty: 'made from' renders तज्ज."),
+             ("The curd of that milk, or the curd's upper part", "Not faulty: only the wording differs.")],
             "दध्युत्तरम् = the upper (उत्तर) part of curd.",
             "उत्तर = upper."),
         multi("apply", 4, "Which two may be given under unit 19?",
@@ -541,7 +541,7 @@ AUTHORED["21"] = {
     "limits": ("ससोमवल्कपञ्चकोलकानाम् may also mean 'of those having soma-bark and pañcakolaka'. The āragvadha group is not "
                "listed. IDs: āragvadha standard; ghoṇṭā probable; bhūnimba, somavalka disputed; bāṇa unidentified; "
                "pañcakolaka group standard (cavya probable)."),
-    "explain_hi": ("यहाँ से लेह यानी चाटने योग्य योग आते हैं। "
+    "explain_hi": ("इस इकाई में लेह यानी चाटने योग्य योग है। "
                    "आरग्वध यानी अमलतास आदि द्रव्यों में से किसी एक का क्वाथ लिया जाता है, पर घोण्टा, भूनिम्ब और बाण को छोड़कर। "
                    "साथ में सोमवल्क और पञ्चकोलक (पिप्पली, पिप्पलीमूल, चव्य, चित्रक, सोंठ) हैं; यह ‘सहित’ वाला अंश दो तरह पढ़ा जा सकता है। "
                    "उस क्वाथ से सिद्ध लेह में फल की मज्जा का चूर्ण मिला होता है, और उसका उपयोग करे।"),
@@ -593,15 +593,15 @@ AUTHORED["21"] = {
 
 # ---------------------------------------------------------------- unit 22
 AUTHORED["22"] = {
-    "title": "रेणुकैलाशताह्वा … द्वाविंशतेरन्यतरस्य",
+    "title": "रेणुकैलाशताव्हा … द्वाविंशतेरन्यतरस्य",
     "question": "What may one eat in unit 22, and with which decoction is it prepared?",
     "rule": ("Or, mixed with the fruit-kernel powder, one should eat an utkārikā or a modaka prepared with the decoction of "
              "any one of twenty-two named drugs, from reṇukā and elā (small cardamom) to aśoka and rohiṇī."),
     "limits": ("Low confidence: the scan is damaged; koraka, paripelava, sthauṇeyaka, pāledhana and pūti are unidentified, "
-               "and पालेधन is flagged. शतावहा is printed for शताह्वा. The division into 22 is a guess. Only the clear names are questioned."),
+               "and पालेधन is flagged. शताव्हा is printed for शताह्वा (an OPEN point). The division into 22 is a guess. Only the clear names are questioned."),
     "explain_hi": ("इस इकाई में फल की मज्जा के चूर्ण से मिली उत्कारिका (पकाया हुआ एक व्यंजन) या मोदक (लड्डू जैसा गोला) खाने को कहा गया है। "
                    "उसे बाईस द्रव्यों में से किसी एक के काढ़े से सिद्ध किया जाता है। "
-                   "स्पष्ट नामों में हैं: एला यानी छोटी इलायची, कुस्तुम्बुरु यानी धनिया, तगर, कुष्ठ यानी कूठ, मरुवक यानी मरुआ, अगुरु यानी अगर, "
+                   "स्पष्ट नामों में हैं: एला यानी छोटी इलायची, कुस्तुम्बुरु यानी धनिया, तगर (पहचान सम्भावित), कुष्ठ यानी कूठ, मरुवक यानी मरुआ (सम्भावित), अगुरु यानी अगर, "
                    "गुग्गुलु, मांसी यानी जटामांसी और शैलेयक यानी छरीला। "
                    "स्कैन क्षतिग्रस्त है: कुछ नाम अज्ञात हैं और बाईस की गिनती का बँटवारा अनुमान है।"),
     "hook": "बाईस में से एक का काढ़ा: उत्कारिका या मोदक, गिरी-चूर्ण मिलाकर।",
@@ -693,7 +693,7 @@ AUTHORED["23"] = {
             ("Prepare it, then eat it", "साधयित्वा = having prepared; भक्षयेत् = one should eat."),
             [("Eat it, then prepare more", "The absolutive साधयित्वा comes first: prepare, then eat."),
              ("Prepare it, but keep it", "भक्षयेत् says it is eaten."),
-             ("Have another person cook it", "No causative 'have cooked' is used here.")],
+             ("Have another person cook it", "साधयित्वा means 'having prepared' (the cook's own act; its causative form is the usual one for √साध्); no other person is named.")],
             "An absolutive (-त्वा) names the earlier act; the optative names the main one.",
             "X-त्वा + verb = having done X, one should …"),
         mcq("transfer", 5, "पिष्टैः + तत्- → पिष्टैस्तत्-. Join a new example, बालैः + तत्र (by the boys there). Which is right?",
@@ -831,14 +831,14 @@ NOTES_HI = {
     "13": ("विश्वास: निम्न। यह पंक्ति 05.01.12 का वाक्य आगे बढ़ाती है; अपनी क्रिया नहीं। "
            "‘श्लेष्मज्वर’ को ‘कफ और ज्वर’ या ‘कफ-ज्वर’ दोनों पढ़ा जा सकता है। "
            "‘पुनरापित्तगमनात्’ अस्पष्ट है (‘फिर, पित्त के आने तक’?); इस पर प्रश्न नहीं बना। "
-           "सन्धि जाँची: प्रतिश्यायान्तर्विद्रधिषु = प्रतिश्याय + अन्तर्विद्रधिषु (अ + अ → आ); पुनरापित्त = पुनः + आपित्त (विसर्ग → र्)।"),
+           "सन्धि जाँची: प्रतिश्यायान्तर्विद्रधिषु = प्रतिश्याय + अन्तर्विद्रधिषु (अ + अ → आ); पुनरापित्त = पुनर् + आपित्त (पुनर् का मूल र् स्वर से जुड़ा)।"),
     "14": ("विश्वास: उच्च। कोई सन्धि-समस्या, पाठभेद या चिह्नित दोष नहीं। ‘तेन’ पिछली पंक्तियों के पेय की ओर संकेत करता है, यह क्रम से समझा गया है।"),
     "15": ("विश्वास: मध्यम। छपा ‘त्विफला’ मुद्रण-दोष है, पाठ ‘त्रिफला’ (चिह्नित); इस शब्द पर प्रश्न नहीं बना। "
            "‘त्रिभाग’ = तीन भाग, या ‘तीसरा भाग’ भी हो सकता है। "
            "छपाई में ‘ज्वरोदरा रोचकेषु’ के बीच का खाली स्थान सन्धि (उदर + अरोचकेषु, अ + अ → आ) को तोड़ता है; इस पर प्रश्न नहीं बना। "
            "‘बलवत्’ केवल कफ का या सब दशाओं का विशेषण हो सकता है। "
            "खुला बिन्दु (05.01.15): प्रसेक का अर्थ ‘बहना, टपकना’ रखना है, ‘लार’ जोड़ना अतिरिक्त है; प्रसेक के अर्थ पर प्रश्न नहीं बना। "
-           "सन्धि जाँची: कोविदारादि = कोविदार + आदि; …कफप्रसेकापच्यर्बुद… = …प्रसेक + अपची + अर्बुद (ई → य्)।"),
+           "सन्धि जाँची: कोविदारादि = कोविदार + आदि; …कफप्रसेकापच्यर्बुद… = …प्रसेक + अपची + अर्बुद (प्रसेक + अपची: अ + अ → आ; अपची + अर्बुद: ई → य्)।"),
     "16": ("विश्वास: मध्यम। ‘मज्जा’ = भीतरी गिरी (शब्दशः गूदा या मज्जा)। इकाई में क्रिया नहीं, वाक्य अधूरा (लुप्त क्रिया) है। "
            "जीमूतक आदि का समूह यहाँ नहीं गिनाया गया। सन्धि जाँची: जीमूतकादि = जीमूतक + आदि (अ + आ → आ)।"),
     "17": ("विश्वास: मध्यम। ‘अधोभागे’ रक्तपित्त के साथ (नीचे के मार्ग से रक्तस्राव) या दूध के निचले भाग के साथ पढ़ा जा सकता है; पहला अर्थ अनुवाद में है, प्रश्न किसी पर नहीं बना। "
@@ -860,7 +860,7 @@ NOTES_HI = {
            "सन्धि जाँची: लेहमुपयुञ्जीत = लेहम् + उपयुञ्जीत; …कोलकानामन्यतमस्य = …नाम् + अन्यतमस्य।"),
     "22": ("विश्वास: निम्न। स्कैन क्षतिग्रस्त; बाईस की गिनती तभी बैठती है जब ‘पालेधन’ एक नाम और ‘त्वक्’ तथा ‘कोरक’ दो नाम हों; बँटवारा अनुमान है। "
            "चिह्नित: ‘पालेधन’ पहचाना हुआ नाम नहीं (सुझाया ‘पालीधन’ भी अनिश्चित)। "
-           "खुला बिन्दु (05.01.22): छपा ‘शतावहा’ (अक्षर उलटे), शब्द-सूची में ‘शताह्वा’ बिना चिह्न के लिया गया। "
+           "खुला बिन्दु (05.01.22): छपा ‘शताव्हा’ (व्ह/ह्व अक्षर उलटे), शब्द-सूची में ‘शताह्वा’ बिना चिह्न के लिया गया। "
            "खुला बिन्दु (05.01.22): उत्कारिका और मोदक का अधिक वर्णन नहीं जोड़ा गया। "
            "कोरक, परिपेलव, स्थौणेयक, पालेधन, पूति अज्ञात; प्रश्न केवल स्पष्ट नामों पर बने। "
            "सन्धि जाँची: रेणुकैला = रेणुका + एला (आ + ए → ऐ); द्वाविंशतेरन्यतरस्य = द्वाविंशतेः + अन्यतरस्य (विसर्ग → र्); साधितामुत्कारिकाम् = साधिताम् + उत्कारिकाम्।"),
@@ -962,8 +962,8 @@ AIDS = {
 IMAGE_SPECS = {
     ("12", "diagram"): {
         "file": "ka1-nine-decoctions-12.svg",
-        "alt": ("Mind map of unit 12: a decoction of any one of nine drugs (listed here in text order): yashtimadhuka, kovidara, "
-                "karbudara, nipa, vidula, bimbi, shanapushpi, sadapushpi, pratyakpushpi"),
+        "alt": ("Mind map of unit 12: a decoction of any one of nine drugs, which the text names in this order: yashtimadhuka, "
+                "kovidara, karbudara, nipa, vidula, bimbi, shanapushpi, sadapushpi, pratyakpushpi (the map does not show the order)"),
         "type": "mermaid",
         "code": ("mindmap\n  किसी एक का काढ़ा\n    यष्टीमधुक\n    कोविदार\n    कर्बुदार\n    नीप\n    विदुल\n"
                  "    बिम्बी\n    शणपुष्पी\n    सदापुष्पी\n    प्रत्यक्पुष्पी\n"),
@@ -974,8 +974,9 @@ IMAGE_SPECS = {
                 "drunk in a decoction of kovidara and the rest, in strong kapha, praseka, apaci, arbuda, granthi, fever, udara and arocaka"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["फल-पिप्पली का चूर्ण"] --> B["अपने क्वाथ में भावित"]\n'
-                 '  B --> C["तीन भाग त्रिफला-चूर्ण"]\n  C --> D["कोविदार आदि के<br/>काढ़े से पिए"]\n'
-                 '  D --> E["प्रबल कफ, प्रसेक,<br/>अपची, अर्बुद"]\n  D --> F["ग्रन्थि, ज्वर,<br/>उदर, अरोचक"]\n'),
+                 '  B --> C["तीन भाग त्रिफला-चूर्ण"]\n  C --> D["कोविदार आदि का काढ़ा"]\n'
+                 '  D --> E["प्रबल कफ, प्रसेक"]\n  D --> F["अपची, अर्बुद"]\n'
+                 '  D --> G["ग्रन्थि, ज्वर"]\n  D --> H["उदर, अरोचक"]\n'),
     },
     ("17", "chain"): {
         "file": "ka1-kernel-milk-17.svg",
@@ -1019,8 +1020,9 @@ IMAGE_SPECS = {
                 "decoction of one of the surasa group, made into shashkuli, apupa or another food, and eaten"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["तिल और शालि का आटा"] --> B["फल-पिप्पली का काढ़ा"]\n'
-                 '  A --> C["या सुरसा आदि में से<br/>एक का काढ़ा"]\n  B --> D["शष्कुली, अपूप<br/>या अन्य भक्ष्य"]\n'
-                 '  C --> D\n  D --> E["खाए"]\n'),
+                 '  A --> C["या सुरसादि का काढ़ा"]\n  B --> D1["शष्कुली"]\n  B --> D2["अपूप"]\n'
+                 '  B --> D3["या अन्य भक्ष्य"]\n  C --> D1\n  C --> D2\n  C --> D3\n'
+                 '  D1 --> E["खाए"]\n  D2 --> E\n  D3 --> E\n'),
     },
     ("24", "chain"): {
         "file": "ka1-ladle-coat-24.svg",
