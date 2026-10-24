@@ -185,23 +185,23 @@ AUTHORED["207"] = {
     "rule": ("Of those (तासाम्): two resting inside (अभ्यन्तराश्रिते द्वे); resting at the mouth (मुखाश्रिते), round "
              "(वृत्ते), two (द्वे)."),
     "limits": ("Low confidence. As printed: 2 + 2 here, 3 in unit 208, seven against the ten of unit 206; unit 209 may "
-               "add one, or a द्वे may be lost: no question on counts or totals. Whose they are and the counted noun "
-               "are not printed."),
+               "add one, or a द्वे may be lost: no question on counts or totals, nor on whether वृत्ते (round) describes "
+               "the ones at the mouth. Whose they are and the counted noun are not printed."),
     "explain_hi": ("यह गद्य-पंक्ति कम विश्वास वाली है। "
                    "छपा पाठ: ‘उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो’। "
-                   "‘तासाम्’ (उनमें) सम्भवतः इकाई २०६ के योनि वाले दस की ओर है, पर यह कहा नहीं गया। "
+                   "‘तासाम्’ (उनमें) किसकी ओर है, यह पंक्ति में नहीं कहा गया; डेटा इन गिनतियों को इकाई २०६ के दस से मिलाकर देखता है। "
                    "गिनती छपे रूप में ही रखी गई: यहाँ २ + २, इकाई २०८ में ३; यह दस से कम है, और इकाई २०९ शायद एक और देती है, या स्कैन से कोई ‘द्वे’ छूट गया हो। "
                    "इसलिए गिनती पर कोई प्रश्न नहीं। "
                    "‘अभ्यन्तराश्रिते’ = अभ्यन्तर (भीतर) + आश्रिते (टिकी हुई): अ + आ → आ।"),
     "hook": "भीतर टिकी दो; मुख पर टिकी, गोल, दो (छपे पाठ में)।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 207, how are the ones resting at the mouth (मुखाश्रिते) described?",
-            ("Round", "मुखाश्रिते वृत्ते द्वे: resting at the mouth, round, two."),
-            [("Long", "No word for long (दीर्घ) is printed; the word is वृत्ते, round."),
-             ("Thin", "No word for thin (तनु) is printed; the word is वृत्ते, round."),
-             ("Square", "No word for square is printed; the word is वृत्ते, round.")],
-            "Those at the mouth are called round (वृत्ते).",
+        mcq("pretest", 0, "Which of these words is printed in unit 207?",
+            ("वृत्ते (round)", "वृत्त = round; the line prints वृत्ते."),
+            [("श्वेते (white)", "श्वेत is a colour and is not printed in unit 207."),
+             ("कृष्णे (dark)", "कृष्ण is a colour and is not printed in unit 207."),
+             ("चतुरस्रे (square)", "चतुरस्र (square) is not printed; the word is वृत्ते, round.")],
+            "The line prints वृत्ते, round.",
             "वृत्त = round."),
         order(1, "Put the printed parts of unit 207 in the line's order.",
               ["तासाम्", "अभ्यंतराश्रिते द्वे", "मुखाश्रिते", "वृत्ते द्वे"],
@@ -221,12 +221,12 @@ AUTHORED["207"] = {
             "मुख (mouth) + आश्रिते (resting at): अ + आ → आ.",
             "अ + आ → आ."),
         multi("apply", 4, "Which statements fit unit 207 as the card reads it?",
-              [("Those at the mouth (मुख) are long", "The word printed is वृत्ते, round, not long."),
+              [("It prints the word दीर्घे (long)", "No word for long is printed in unit 207."),
                ("Two rest inside (अभ्यन्तर)", "Right: अभ्यन्तराश्रिते द्वे."),
-               ("Those at the mouth (मुख) are round", "Right: मुखाश्रिते वृत्ते."),
+               ("It prints the word वृत्ते (round)", "Right: वृत्ते is printed after मुखाश्रिते."),
                ("Two rest in the breasts (स्तन)", "Unit 207 does not name the breasts.")],
               [1, 2],
-              "Two rest inside; those at the mouth are round.",
+              "Two rest inside, and the word वृत्ते (round) is printed after मुखाश्रिते.",
               "अभ्यन्तराश्रिते द्वे; मुखाश्रिते वृत्ते द्वे."),
         mcq("transfer", 5, "By the rule of मुख + आश्रिते, how is देव + आलयः (house of a god) joined in a new example?",
             ("देवालयः", "अ + आ → आ, as मुख + आश्रिते → मुखाश्रिते."),
@@ -420,8 +420,8 @@ AUTHORED["210"] = {
 # ---------------------------------------------------------------- unit 211
 AUTHORED["211"] = {
     "title": "तस्यां शुक्रार्त्तवप्रवेशिन्यस्तिस्रः पेश्यः",
-    "question": "By unit 211, how many peśī are in it, and what do they enter?",
-    "rule": ("In it (तस्याम्) are three peśī (muscles) entering (प्रवेशिन्यः) śukra (semen) and ārtava (menstrual "
+    "question": "By unit 211, how many peśī are in it, and with which two fluids are they linked?",
+    "rule": ("In it (तस्याम्) are three peśī (muscles) entering (प्रवेशिन्यः; or admitting) śukra (semen) and ārtava (menstrual "
              "blood, probable)."),
     "limits": ("Prose. What 'it' (तस्याम्, feminine) refers to is not stated: no question on it. प्रवेशिनी is rendered "
                "'entering'; 'admitting, receiving' is an alternative sense, and no question turns on it. ārtava = "
@@ -446,7 +446,7 @@ AUTHORED["211"] = {
               "In it are three peśī entering śukra and ārtava.",
               "तस्याम् → शुक्रार्तवप्रवेशिन्यः → तिस्रः → पेश्यः."),
         match(2, "Match each word of unit 211 to its meaning.",
-              [["शुक्र", "semen"], ["आर्तव", "menstrual blood (probable)"], ["प्रवेशिनी", "entering"],
+              [["शुक्र", "semen"], ["आर्तव", "menstrual blood (probable)"], ["प्रवेशिनी", "entering (or admitting)"],
                ["पेशी", "muscle"], ["तिस्रः", "three"]],
               "Three peśī entering śukra (semen) and ārtava (menstrual blood, probable).",
               "शुक्र, आर्तव, प्रवेशिनी, पेशी, तिस्रः.", role="extend",
@@ -459,12 +459,12 @@ AUTHORED["211"] = {
             "प्रवेशिन्यः (entering) + तिस्रः (three): visarga before त → स्.",
             "Visarga before त/थ → स्."),
         multi("apply", 4, "Which statements fit unit 211?",
-              [("The three enter śukra and ārtava", "Right: शुक्रार्तवप्रवेशिन्यः."),
+              [("It names śukra and ārtava in one compound (शुक्रार्तव-)", "Right: शुक्रार्त्तवप्रवेशिन्यः names both."),
                ("They are four in number", "The line says तिस्रः, three."),
-               ("They are said to enter the breasts", "The breasts are not named in unit 211."),
+               ("The line names the breasts (स्तन)", "The breasts are not named in unit 211."),
                ("The counted noun peśī is printed", "Right: पेश्यः is printed.")],
               [0, 3],
-              "Three peśī, printed as such, entering śukra and ārtava.",
+              "Three peśī, printed as such; śukra and ārtava are named in one compound.",
               "तस्यां शुक्रार्तवप्रवेशिन्यस्तिस्रः पेश्यः."),
         mcq("transfer", 5, "By the rule of प्रवेशिन्यः + तिस्रः, how is देव्यः + तत्र (the goddesses there) joined in a new example?",
             ("देव्यस्तत्र", "Visarga before त becomes स्, as प्रवेशिन्यः + तिस्रः → प्रवेशिन्यस्तिस्रः."),
@@ -791,7 +791,7 @@ NOTES_HI = {
     "208": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। गर्भमार्ग = गर्भ का मार्ग, सम्भवतः प्रसव-मार्ग (सम्भावित)। गिनी गई संज्ञा नहीं छपी; "
             "स्त्रीलिंग ‘तिस्रः’ पेशी से मेल खाता है। सन्धि जाँची: तिस्रः + गर्भ... → तिस्रो गर्भ... (अः, घोष व्यंजन से पहले → ओ); "
             "गर्भ + मार्ग + आश्रयाः → गर्भमार्गाश्रयाः (अ + आ → आ)।"),
-    "209": ("गद्य; विश्वास निम्न; कोई पाठ-चिह्न नहीं। समूह-टिप्पणी: बिना पूर्वपद और मुख्य वाक्य का सम्बन्धवाचक वाक्य; सम्भवतः इकाई २०८ "
+    "209": ("गद्य; विश्वास निम्न; कोई पाठ-चिह्न नहीं। समूह-टिप्पणी: बिना पूर्ववर्ती संज्ञा (जिसकी ओर ‘यस्याम्’ है) और मुख्य वाक्य का सम्बन्धवाचक वाक्य; सम्भवतः इकाई २०८ "
             "को आगे बढ़ाता है, या गिनती का एक और सदस्य बताता है (कोई संख्या, जैसे ‘एक’, छूटी हो सकती है; कुछ जोड़ा नहीं गया)। "
             "छपा ‘यस्यांगर्भ स्तिष्ठति’ = यस्यां गर्भस्तिष्ठति: शब्द-विभाजन गलत जगह छपा। सन्धि जाँची: गर्भः + तिष्ठति → गर्भस्तिष्ठति "
             "(त से पहले विसर्ग → स्); यस्याम् + गर्भः → यस्यां गर्भः (व्यंजन से पहले म् → ं)।"),
@@ -947,7 +947,7 @@ IMAGE_SPECS = {
         "rows": [["१ तनु", "पतली"], ["२ बहल", "घनी"], ["३ स्थूल", "बड़ी"], ["४ अणु", "सूक्ष्म"], ["५ पृथु", "चौड़ी"],
                  ["६ वृत्त", "गोल"], ["७ ह्रस्व", "छोटी"], ["८ दीर्घ", "लम्बी"], ["९ स्थिर", "दृढ़"], ["१० मृदु", "कोमल"],
                  ["११ श्लक्ष्ण", "चिकनी"], ["१२ कर्कश", "खुरदुरी"],
-                 ["ढके हुए", "सन्धि, अस्थि, सिरा, स्नाव"]],
+                 ["संध्यस्थिसिरास्नावानि (ढके हुए)", "सन्धि, अस्थि, सिरा, स्नाव"]],
     },
     ("213", "diagram"): {
         "file": "sh5-sira-mukha-213.svg",
