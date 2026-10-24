@@ -169,13 +169,13 @@ AUTHORED["84"] = {
               [1, 3],
               "No verb, no number, no speaker; a rice grain is the measure.",
               "व्रीहिप्रमाणानि क्षिप्राणि: measure + what is measured."),
-        mcq("apply", 4, "Why does the card ask nothing about which marma क्षिप्राणि names?",
-            ("It may also be the adjective 'quick'", "The data reads a marma name but keeps the plain adjective as the alternative."),
-            [("It is damaged and unreadable in print", "The word is printed clearly; its reading, not its print, is open."),
-             ("It is printed twice in the same line", "It is printed once, at the end of the line."),
-             ("It is a verb without any subject", "The data reads it as a neuter plural noun or adjective.")],
-            "क्षिप्राणि: the name kṣipra (data's reading) or the adjective 'quick'.",
-            "Two readings → no question on the referent."),
+        mcq("apply", 4, "In unit 84, what is said to be of a rice grain's measure?",
+            ("क्षिप्राणि, as printed", "व्रीहिप्रमाणानि क्षिप्राणि: the measure, then what is measured."),
+            [("स्तनरोहित, as printed", "स्तनरोहित is of a kalāya's measure (unit 85)."),
+             ("शेषाणि, as printed", "शेषाणि are of an aṅgula-dala's measure (unit 82)."),
+             ("ऊर्व्यः, as printed", "The ūrvī are of one's own finger-breadth (unit 79).")],
+            "व्रीहिप्रमाणानि क्षिप्राणि: क्षिप्राणि has the rice grain's measure.",
+            "व्रीहि-measure → क्षिप्राणि."),
         mcq("transfer", 5, "Built like व्रीहिप्रमाणानि, what does अङ्गुष्ठप्रमाणः (said of a man) mean in a new example?",
             ("Of the measure of a thumb", "X-प्रमाण (bahuvrīhi) = having X's measure: having a thumb's measure."),
             [("Measuring with his thumb", "The compound describes size, not an action of measuring."),
@@ -323,16 +323,16 @@ AUTHORED["87"] = {
     "hook": "तस्मात्... सदा सेवेत: समझदार सदा ध्यान रखे; बाकी पाठ धुँधला।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "In line 2 of unit 87, who should attend (सेवेत)?",
-            ("The discerning man", "विचक्षणः: the discerning (man), m. nom. sg., the subject of सेवेत."),
-            [("The physician's pupil", "No pupil is named; the subject is विचक्षणः."),
-             ("The patient's kinsmen", "No kinsmen are named in unit 87."),
-             ("The king's own servant", "No king or servant is named in unit 87.")],
-            "सेवेत सदा तस्माद्विचक्षणः: therefore the discerning man should always attend.",
-            "विचक्षणः = the discerning man."),
+        mcq("pretest", 0, "In unit 87, what does the word सदा mean?",
+            ("Always", "सदा = always (indeclinable)."),
+            [("Never", "Never would be न कदापि; सदा = always."),
+             ("Once", "Once would be सकृत्; सदा = always."),
+             ("Today", "Today would be अद्य; सदा = always.")],
+            "सेवेत सदा: should always attend.",
+            "सदा = always."),
         order(1, "Put the printed words of line 2 of unit 87 in order.",
               ["आयुर्व्याप्येव", "सेवेत", "सदा", "तस्माद्विचक्षणः"],
-              "Only the life-pervading; should attend; always; therefore the discerning man.",
+              "आयुर्व्यापि + एव (case uncertain); should attend; always; therefore the discerning (man).",
               "आयुर्व्याप्येव → सेवेत → सदा → तस्माद्विचक्षणः."),
         match(2, "Match each sure word of unit 87 to its meaning.",
               [["देहे", "in the body"], ["रक्षति", "guards"], ["सदा", "always"], ["तस्मात्", "therefore"],
@@ -348,7 +348,7 @@ AUTHORED["87"] = {
             "देहे (in the body) + अस्मिन् (this): ए + अ → एऽ.",
             "ए + अ → एऽ."),
         mcq("apply", 4, "Why is तस्मात् printed तस्माद् before विचक्षणः in unit 87?",
-            ("त् before a voiced sound becomes द्", "व is voiced: तस्मात् + विचक्षणः → तस्माद्विचक्षणः."),
+            ("त् before the voiced व becomes द्", "व is voiced: तस्मात् + विचक्षणः → तस्माद्विचक्षणः (before ल, ज or a nasal other forms arise)."),
             [("त् before any consonant becomes द्", "Not before a voiceless one: तस्मात् + कृते stays तस्मात्कृते."),
              ("त् at a word's end always becomes द्", "At a pause त् stays: तस्मात्."),
              ("The द् belongs to the word विचक्षणः", "The word begins with वि; the द् comes from तस्मात्.")],
@@ -361,7 +361,7 @@ AUTHORED["87"] = {
              ("तस्मान्गच्छति", "न् may replace त् only before a nasal; ग is not one.")],
             "तस्मात् + गच्छति = तस्माद्गच्छति.",
             "त् + voiced sound → द्.",
-            teaches="A final त् before a voiced sound becomes द्: तस्मात् + विचक्षणः → तस्माद्विचक्षणः, तस्मात् + गच्छति → तस्माद्गच्छति."),
+            teaches="A final त् before a voiced sound such as व or ग becomes द् (not before ल, ज or a nasal): तस्मात् + विचक्षणः → तस्माद्विचक्षणः, तस्मात् + गच्छति → तस्माद्गच्छति."),
     ],
 }
 
@@ -372,8 +372,7 @@ AUTHORED["88"] = {
     "rule": ("A blow on a marma (मर्माभिघातः), even a slight one (स्वल्पः अपि), generally (प्रायशः) afflicts exceedingly "
              "(बाधते तराम्). Line 2: diseases seated in a marma (रोगा मर्माश्रयाः) are likewise (तद्वत्); its sense is obscure."),
     "limits": ("Verse, low confidence. Whom the blow afflicts is not stated. Line 2 has no predicate, and प्रक्रान्ताः (begun, "
-               "set about) may mean 'treatment undertaken' or 'set in': not clear. No question rests on the sense of line 2 "
-               "beyond the plain words मर्माश्रय and रोगाः."),
+               "set about) may mean 'treatment undertaken' or 'set in': not clear. No question rests on line 2."),
     "explain_hi": ("पहली पंक्ति: मर्म पर थोड़ी भी चोट प्रायः बहुत अधिक पीड़ा देती है; किसे, यह नहीं कहा। "
                    "‘स्वल्पोऽपिप्रायशो’ छपाई में सटा है; यह स्वल्पः अपि प्रायशः है (रिक्त स्थान की भूल)। "
                    "दूसरी पंक्ति अस्पष्ट है: मर्म में आश्रय वाले रोग ‘वैसे ही’, ‘प्रयत्न से भी आरम्भ किए हुए’; इसका कोई विधेय नहीं, और ‘प्रक्रान्त’ का अर्थ (चिकित्सा आरम्भ हुई, या रोग जम गया) स्पष्ट नहीं। "
@@ -394,10 +393,10 @@ AUTHORED["88"] = {
               "मर्माभिघातः → स्वल्पोऽपि → प्रायशो → बाधते → तरां."),
         match(2, "Match each word of unit 88 to its meaning.",
               [["अभिघात", "blow, injury"], ["स्वल्प", "very little, slight"], ["प्रायशः", "generally"],
-               ["तराम्", "exceedingly"], ["आश्रय", "seat"]],
-              "मर्म-अभिघातः = a blow on a marma; स्वल्पः = slight; प्रायशः = generally; तराम् = exceedingly; मर्म-आश्रयाः = seated in a marma.",
-              "अभिघात, स्वल्प, प्रायशः, तराम्, आश्रय.", role="extend",
-              teaches="मर्म-आश्रय (bahuvrīhi) = having a marma as its seat: रोगा मर्माश्रयाः, diseases seated in a marma."),
+               ["तराम्", "exceedingly"], ["बाधते", "afflicts"]],
+              "मर्म-अभिघातः = a blow on a marma; स्वल्पः = slight; प्रायशः = generally; तराम् = exceedingly; बाधते = afflicts.",
+              "अभिघात, स्वल्प, प्रायशः, तराम्, बाधते.", role="extend",
+              teaches="प्रायशः = generally, for the most part: the line does not say 'always'."),
         mcq("discriminate", 3, "Which split of स्वल्प in unit 88 is right?",
             ("सु + अल्प", "उ + अ → व: सु + अल्प → स्वल्प."),
             [("स्व + अल्प", "अ + अ would give स्वाल्प, with a long आ."),
@@ -405,21 +404,21 @@ AUTHORED["88"] = {
              ("सो + अल्प", "ओ + अ would give सोऽल्प.")],
             "सु (very) + अल्प (little): उ + अ → व.",
             "उ + vowel (not उ) → व + vowel."),
-        mcq("apply", 4, "Why is रोगाः printed रोगा before मर्माश्रया in unit 88?",
-            ("आः drops its visarga before a voiced sound", "म is voiced, and the vowel before the visarga is आ."),
-            [("Every visarga, after any vowel, drops before a voiced sound", "Not every one: अः → ओ, इः → इर् before a voiced consonant."),
-             ("A visarga always drops at a line's middle", "Visarga changes depend on the sounds, not the place in the line."),
-             ("रोगा is a feminine form without visarga", "The data: रोगाः, m. nom. pl.; only the visarga dropped.")],
-            "रोगाः + मर्म-: आः before the voiced म → आ.",
-            "आः + voiced sound → आ."),
-        mcq("transfer", 5, "By the rule of रोगा मर्माश्रयाः, how is वृक्षाः + वर्धन्ते (trees grow) written in a new example?",
-            ("वृक्षा वर्धन्ते", "आः drops its visarga before the voiced व, as रोगाः + मर्म- → रोगा मर्म-."),
-            [("वृक्षो वर्धन्ते", "ओ comes only from short अः; here the vowel is आ."),
-             ("वृक्षार्वर्धन्ते", "र् comes from a visarga after vowels other than अ/आ."),
-             ("वृक्षास्वर्धन्ते", "स् stands before त or थ, not before व.")],
-            "वृक्षाः + वर्धन्ते = वृक्षा वर्धन्ते.",
-            "आः + voiced sound → आ.",
-            teaches="After आ the visarga drops before a voiced sound: रोगाः + मर्माश्रयाः → रोगा मर्माश्रयाः, वृक्षाः + वर्धन्ते → वृक्षा वर्धन्ते."),
+        mcq("apply", 4, "Why is प्रायशः printed प्रायशो before बाधते in unit 88?",
+            ("अः before a voiced consonant gives ओ", "ब is a voiced consonant: प्रायशः + बाधते → प्रायशो बाधते."),
+            [("Any visarga before any sound gives ओ", "Not any: before a voiceless sound it does not give ओ, and इः, आः change otherwise."),
+             ("आः before a voiced consonant gives ओ", "आः drops its visarga before a voiced sound; it never gives ओ."),
+             ("प्रायशो is the word's own form", "The data: प्रायशः (ind.); ओ comes from sandhi.")],
+            "प्रायशः + बाधते: अः before the voiced ब → ओ.",
+            "अः + voiced consonant → ओ."),
+        mcq("transfer", 5, "By the rule of प्रायशो बाधते, how is बालः + वदति (the boy speaks) written in a new example?",
+            ("बालो वदति", "अः before the voiced व gives ओ, as प्रायशः + बाधते → प्रायशो बाधते."),
+            [("बालर्वदति", "र् comes from a visarga after vowels other than अ/आ."),
+             ("बालश्वदति", "श् stands before च, छ or श, not before व."),
+             ("बालस्वदति", "स् stands before त, थ or स, not before व.")],
+            "बालः + वदति = बालो वदति.",
+            "अः + voiced consonant → ओ.",
+            teaches="अः before a voiced consonant becomes ओ: प्रायशः + बाधते → प्रायशो बाधते, बालः + वदति → बालो वदति."),
     ],
 }
 
@@ -559,13 +558,13 @@ AUTHORED["91"] = {
     "hook": "मर्म बचा, पर रक्त बहा: तब भी तुरन्त मृत्यु।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 91, what happens to a man pierced at a non-marma who has lost much blood?",
-            ("He gives up life at once", "सद्यः ... जीवितम्: he gives up life at once."),
-            [("He lives, but loses that limb", "Unit 91 speaks of death at once, not of a lost limb."),
-             ("He lives on for many years", "Unit 91 says he dies at once."),
-             ("He recovers after a long fast", "No fast or recovery is named in unit 91.")],
-            "अमर्मविद्धोऽपि नरः ... अतिनिस्रुतरक्तश्च सद्यस्त्यजति जीवितम्.",
-            "Non-marma wound + much blood lost → death at once."),
+        mcq("pretest", 0, "In unit 91, by what is the man afflicted (पीडितः)?",
+            ("Cutting, splitting and the rest", "छेदभेदादिपीडितः: afflicted by cutting, splitting and the rest."),
+            [("Fever, thirst and the rest", "No fever or thirst is named in unit 91."),
+             ("Poison, fire and the rest", "No poison or fire is named in unit 91."),
+             ("Hunger, cold and the rest", "No hunger or cold is named in unit 91.")],
+            "अमर्मविद्धोऽपि नरश्छेदभेदादिपीडितः.",
+            "छेद-भेद-आदि = cutting, splitting and the rest."),
         order(1, "Put these words of unit 91 in the verse's order.",
               ["अमर्मविद्धोऽपि", "नरः", "छेदभेदादिपीडितः", "अतिनिस्रुतरक्तश्च", "जीवितं"],
               "Even pierced at a non-marma; a man; afflicted by cutting, splitting and the rest; with much blood flowed out; life.",
@@ -583,18 +582,18 @@ AUTHORED["91"] = {
              ("It means 'very', like अति-", "'Very' is अति-, as in अतिनिस्रुत; अ- negates.")],
             "अ-मर्म-विद्धः = pierced at a non-marma.",
             "अ- before a consonant = not."),
-        mcq("apply", 4, "By unit 91, what besides cutting and splitting brings death at once?",
+        mcq("apply", 4, "By unit 91, what is said of the man besides cutting and splitting?",
             ("Much blood having flowed out", "अतिनिस्रुतरक्तश्च: and with blood flowed out excessively."),
-            [("A blow landing on the marma itself", "The man is pierced at a non-marma (अमर्मविद्धः)."),
+            [("He was pierced at a marma itself", "The man is pierced at a non-marma (अमर्मविद्धः)."),
              ("A fever after the wounding", "No fever is named in unit 91."),
              ("Wind entering the wound", "No wind is named in unit 91.")],
-            "Non-marma wound + cutting, splitting + much blood lost → death at once.",
+            "Non-marma wound + cutting, splitting + much blood flowed out (अतिनिस्रुतरक्तः).",
             "अतिनिस्रुतरक्त = much blood flowed out."),
         mcq("transfer", 5, "By the rule of अतिनिस्रुतरक्तश्च, how is रामः + च (and Rāma) joined in a new example?",
             ("रामश्च", "A visarga before च becomes श्, as -रक्तः + च → -रक्तश्च."),
             [("रामो च", "ओ comes from अः before a voiced consonant; च is voiceless."),
              ("रामच्च", "The visarga does not become च्."),
-             ("रामा च", "Only after आ does the visarga drop; here it is अः before च.")],
+             ("रामा च", "A visarga drops only after आ and before a voiced sound; here अः stands before the voiceless च.")],
             "रामः + च = रामश्च.",
             "Visarga + च → श्च.",
             teaches="A visarga before च becomes श्: अतिनिस्रुतरक्तः + च → अतिनिस्रुतरक्तश्च, रामः + च → रामश्च."),
@@ -615,7 +614,7 @@ AUTHORED["92"] = {
                    "पक्के शब्द ‘कथंचिन्न जीवति’ हैं, यानी ‘किसी प्रकार नहीं जीता’; अनुवाद का दोहरा निषेध (‘ऐसा नहीं कि न जिए’) अनुमान है, उलटा अर्थ भी सम्भव। "
                    "इसलिए प्रश्न केवल पहली पंक्ति पर हैं। "
                    "‘अतोऽन्यथा’ में अतः + अन्यथा है: अः + अ → ओ, और अ का लोप ऽ से दिखता है।"),
-    "hook": "मर्म बचा तो सौ बाण भी झेल ले।",
+    "hook": "मर्माघात और रक्त-स्राव न हो तो सैकड़ों बाण भी झेल ले।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In line 1 of unit 92, what does one pierced even by hundreds of arrows do?",
@@ -641,13 +640,13 @@ AUTHORED["92"] = {
              ("अति + अन्यथा", "इ + अ would give अत्यन्यथा.")],
             "अतः (than this) + अन्यथा (otherwise).",
             "अः + अ → ओऽ."),
-        mcq("apply", 4, "Why does the card build no question on line 2 of unit 92?",
-            ("Its first word is damaged and unclear", "पुण्यवाच्छ्वियतायुश्चन is damaged; even the polarity of the line is not sure."),
-            [("It repeats line 1 word for word", "Line 2 has other words (कथंचिन्न जीवति)."),
-             ("The data calls it a later addition to the text", "The data calls it damaged, not a later addition."),
-             ("It has no Sanskrit words at all", "It has words; its first one is damaged.")],
-            "Line 2's first word is damaged, so its sense is not certain.",
-            "Damaged line → no question."),
+        mcq("apply", 4, "In line 1 of unit 92, what does तु add?",
+            ("However: a contrast", "तु = but, however: a contrast with units 90-91."),
+            [("Therefore: a result", "Therefore would be तस्मात्; तु marks a contrast."),
+             ("Always: a time", "Always would be सदा; तु marks a contrast."),
+             ("Not: a negation", "Not would be न; तु marks a contrast.")],
+            "अतोऽन्यथा जीवति तु: otherwise, however, he lives.",
+            "तु = however."),
         mcq("transfer", 5, "By the pattern of शरशतैः (by hundreds of arrows), which form of वृक्ष means by trees, in a new example?",
             ("वृक्षैः", "-ऐः is the instrumental plural of a-stems, as शरशतैः."),
             [("वृक्षेषु", "वृक्षेषु is locative plural: among trees."),
@@ -674,7 +673,7 @@ AUTHORED["93"] = {
                    "‘आचरम’ में आ + चरम है: आ (पञ्चमी के साथ) = ‘तक’, चरम = अन्तिम। "
                    "दूसरी पंक्ति: सज्जन बन्धुओं और मित्रों से अनुमत वैद्य, रोगी को अस्वीकार करके; इस इकाई में मुख्य क्रिया नहीं, और ‘चिकित्सा के लिए’ जैसा कुछ संस्कृत में नहीं। "
                    "‘सद्वंधु’ में छपा व, ब के स्थान पर है (इस छपाई का व/ब का अदल-बदल)।"),
-    "hook": "अन्तिम साँस तक इलाज: हार न मानो।",
+    "hook": "अन्तिम (श्वास) तक, यत्न से चिकित्सा।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 93, how should one treat (चिकित्सेत्)?",
@@ -686,7 +685,7 @@ AUTHORED["93"] = {
             "यत्नतः = with effort."),
         order(1, "Put the printed parts of unit 93 in the verse's order.",
               ["तस्मादाचरमोच्छासाच्चिकित्सेदेव", "यत्नतः", "सद्वंधुमित्रानुमतः", "प्रत्याख्यायातुरं", "भिषक्"],
-              "Therefore up to the last breath one should indeed treat; with effort; approved by good kinsmen and friends; having refused the patient; the physician.",
+              "Therefore up to the last (breath, on the near-certain reading) one should indeed treat; with effort; approved by good kinsmen and friends; having refused the patient; the physician.",
               "तस्माद्... → यत्नतः → सद्वंधुमित्रानुमतः → प्रत्याख्यायातुरं → भिषक्."),
         match(2, "Match each word of unit 93 to its meaning.",
               [["चिकित्सेत्", "one should treat"], ["यत्नतः", "with effort"], ["अनुमत", "approved"], ["आतुर", "patient"],
@@ -795,7 +794,7 @@ NOTES_HI = {
            "पर अपनाया नहीं; शब्द अस्पष्ट छोड़ा गया। ‘आयुः’ और ‘मर्माणि’ दोनों प्रथमा/द्वितीया जैसे; कौन किसकी रक्षा करता है, दो तरह पढ़ा जा सकता है, "
            "या ‘आयुर्मर्माणि’ समास भी। ‘आयुर्व्यापि’ की विभक्ति अनिश्चित, ‘सेवेत’ का कर्म नहीं बताया; √सेव् = सेवा, अभ्यास, भोग भी। "
            "सन्धि जाँची: देहे + अस्मिन् → देहेऽस्मिन् (ए + अ → एऽ); अस्मिन् + आयुः → अस्मिन्नायुः (ह्रस्व स्वर के बाद अन्तिम न् स्वर से पहले दुगना); "
-           "आयुः + मर्माणि → आयुर्मर्माणि (उ के बाद विसर्ग + घोष → र्); तस्मात् + विचक्षणः → तस्माद्विचक्षणः (घोष से पहले त् → द्)।"),
+           "आयुः + मर्माणि → आयुर्मर्माणि (उ के बाद विसर्ग + घोष → र्); तस्मात् + विचक्षणः → तस्माद्विचक्षणः (व जैसे घोष से पहले त् → द्)।"),
     "88": ("श्लोक; विश्वास कम; कोई पाठ-चिह्न नहीं। ‘स्वल्पोऽपिप्रायशो’ छपाई में सटा (स्वल्पः अपि प्रायशः; रिक्त स्थान की भूल)। ‘बाधते’ का कर्म नहीं बताया। "
            "दूसरी पंक्ति अस्पष्ट: विधेय नहीं; ‘प्रक्रान्त’ = आरम्भ किया हुआ, पर चिकित्सा आरम्भ या रोग का जमना, स्पष्ट नहीं। "
            "सन्धि जाँची: सु + अल्प → स्वल्प (उ + अ → व); स्वल्पः + अपि → स्वल्पोऽपि (अः + अ → ओऽ); रोगाः + मर्म → रोगा मर्म (आः, घोष से पहले विसर्ग लुप्त); "
@@ -861,7 +860,7 @@ AIDS = {
         "anchors": ("पक्के शब्द: देहे अस्मिन् (इस शरीर में), रक्षति (रक्षा करता है), सदा (सदा), तस्मात् (इसलिए), विचक्षणः (समझदार)। "
                     "धुँधले: मर्मव्यामे, कौन किसकी रक्षा, आयुर्व्यापि की विभक्ति। (मेरी याद-पद्धति)"),
         "sandhi": ("ए + अ → एऽ: देहे + अस्मिन् → देहेऽस्मिन् · ह्रस्व स्वर के बाद न् स्वर से पहले दुगना: अस्मिन् + आयुः → अस्मिन्नायुः · "
-                   "घोष से पहले त् → द्: तस्मात् + विचक्षणः → तस्माद्विचक्षणः।"),
+                   "व/ग जैसे घोष से पहले त् → द्: तस्मात् + विचक्षणः → तस्माद्विचक्षणः।"),
     },
     "88": {
         "chunks": "मर्माभिघातः | स्वल्पोऽपिप्रायशो | बाधते | तरां | रोगा | मर्माश्रयास्तद्वत्प्रक्रांता | यत्नतोऽपिच",
@@ -870,7 +869,7 @@ AIDS = {
     },
     "89": {
         "chain": {"steps": ["बहुत फेंका जाता (विक्षिप्यते भृशम्)", "डूबता हुआ (सीदन्)", "खाली-सा (शून्यः)", "घूमता (भ्रमति)",
-                            "काँपता (वेपते)", "ऊपर कठिन साँस", "ढीले अंग (स्रस्तगात्रः)", "बार-बार (मुहुर्मुहुः)"]},
+                            "काँपता (वेपते)", "ऊपर कठिन साँस", "ढीले अंग, बार-बार (स्रस्तगात्रो मुहुर्मुहुः)"]},
         "chunks": "विक्षिप्यते | भृशं | सीदन् | शून्यो | भ्रमति | वेपते | ऊर्ध्वं | श्वािसति | कृच्छ्रेण | स्रस्तगात्रो | मुहुर्मुहुः",
         "sandhi": "अः + घोष व्यंजन → ओ: शून्यः + भ्रमति → शून्यो भ्रमति · उ के बाद विसर्ग + घोष → र्: मुहुः + मुहुः → मुहुर्मुहुः।",
     },
@@ -889,10 +888,10 @@ AIDS = {
         "frame": "किससे अलग: अतः अन्यथा (इससे अन्यथा) → कौन: विद्धः (बिंधा हुआ) → किससे: शरशतैः अपि (सैकड़ों बाणों से भी) → फल: जीवति (जीता है)।",
         "chunks": "अतोऽन्यथा | जीवति | तु | विद्धः | शरशतैरपि | पुण्यवाच्छ्वियतायुश्चन | कथंचिन्न | जीवति",
         "sandhi": "अः + अ → ओऽ: अतः + अन्यथा → अतोऽन्यथा · ऐ के बाद विसर्ग + स्वर → र्: शरशतैः + अपि → शरशतैरपि।",
-        "anchors": "पक्का: पंक्ति १ (सौ बाण, फिर भी जीवित)। टूटा: पंक्ति २ का पहला शब्द; अर्थ की दिशा भी अनिश्चित। (मेरी याद-पद्धति)",
+        "anchors": "पक्का: पंक्ति १ (सैकड़ों बाण, फिर भी जीवित)। टूटा: पंक्ति २ का पहला शब्द; अर्थ की दिशा भी अनिश्चित। (मेरी याद-पद्धति)",
     },
     "93": {
-        "chain": {"steps": ["तस्मात्: इसलिए", "आचरम: अन्तिम (श्वास) तक", "यत्नतः: प्रयत्न से", "चिकित्सेत् एव: चिकित्सा करनी ही चाहिए"]},
+        "chain": {"steps": ["तस्मात् = इसलिए", "आचरम = अन्तिम (श्वास) तक", "चिकित्सेत् एव = चिकित्सा करनी ही चाहिए", "यत्नतः = प्रयत्न से"]},
         "chunks": "तस्मादाचरमोच्छासाच्चिकित्सेदेव | यत्नतः | सद्वंधुमित्रानुमतः | प्रत्याख्यायातुरं | भिषक्",
         "sandhi": ("स्वर से पहले त् → द्: चिकित्सेत् + एव → चिकित्सेदेव · च से पहले त् → च्: -सात् + चिकित्सेत् → -साच्चिकित्सेत् · "
                    "अ + आ → आ: प्रत्याख्याय + आतुरम् → प्रत्याख्यायातुरम्।"),
@@ -930,7 +929,7 @@ IMAGE_SPECS = {
     ("89", "chain"): {
         "file": "sh7-marmaghata-lakshana-89.svg",
         "alt": ("Numbered flowchart of the signs of unit 89 in verse order: greatly tossed about; sinking; empty; reels; "
-                "trembles; breathes upward with difficulty; slack limbs; again and again."),
+                "trembles; breathes upward with difficulty; slack limbs, again and again."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"१ बहुत फेंका जाता\"] --> B[\"२ डूबता हुआ\"]\n"
@@ -938,12 +937,11 @@ IMAGE_SPECS = {
                  "  C --> D[\"४ घूमता\"]\n"
                  "  D --> E[\"५ काँपता\"]\n"
                  "  E --> F[\"६ ऊपर कठिन साँस\"]\n"
-                 "  F --> G[\"७ ढीले अंग\"]\n"
-                 "  G --> H[\"८ बार-बार\"]\n"),
+                 "  F --> G[\"७ ढीले अंग, बार-बार\"]\n"),
     },
     ("90", "chain"): {
         "file": "sh7-hridaya-daha-90.svg",
-        "alt": ("Flowchart of unit 90: the heart burns; it does not stay in one place; from injury to a marma, with these "
+        "alt": ("Flowchart of unit 90: the heart burns; (the heart, or the man) does not stay in one place; from injury to a marma, with these "
                 "signs, he reaches death."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
@@ -962,9 +960,9 @@ IMAGE_SPECS = {
     },
     ("93", "chain"): {
         "file": "sh7-acarama-chikitsa-93.svg",
-        "alt": ("Chain of line 1 of unit 93: therefore; up to the last (breath); with effort; one should indeed treat."),
+        "alt": ("Chain of line 1 of unit 93: therefore; up to the last (breath); one should indeed treat; with effort."),
         "type": "chain",
         "title": "इकाई ९३: अन्तिम (श्वास) तक चिकित्सा",
-        "steps": ["तस्मात्: इसलिए", "आचरम: अन्तिम (श्वास) तक", "यत्नतः: प्रयत्न से", "चिकित्सेत् एव: चिकित्सा करनी ही चाहिए"],
+        "steps": ["तस्मात् = इसलिए", "आचरम = अन्तिम (श्वास) तक", "चिकित्सेत् एव = चिकित्सा करनी ही चाहिए", "यत्नतः = प्रयत्न से"],
     },
 }
