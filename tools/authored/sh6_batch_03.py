@@ -6,7 +6,7 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 27
 AUTHORED["27"] = {
     "title": "तासामधो द्वे रसवेदिन्यौ",
-    "question": "By unit 27, what do the four sirās counted below the tongue's sixteen do?",
+    "question": "By unit 27, what do the four sirās (understood) named after the tongue's sixteen do?",
     "rule": ("Below them (तासाम् अधः: the sixteen of the tongue, unit 26), two perceive taste (रसवेदिन्यौ) and two set "
              "speech in motion (वाक्प्रवर्तिन्यौ); those are four (ताश्चतस्रः)."),
     "limits": ("Prose; copula understood; continues unit 26 (the tongue). 'Below them' may also be read 'of them, "
@@ -20,7 +20,7 @@ AUTHORED["27"] = {
     "hook": "जीभ के नीचे चार: दो स्वाद पहचानें, दो वाणी चलाएँ।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 27, two sirās below the tongue's sixteen perceive taste; what do the other two do?",
+        mcq("pretest", 0, "By unit 27, two sirās (understood) perceive taste; what do the other two named with them do?",
             ("They set speech in motion", "द्वे वाक्प्रवर्तिन्यौ: two setting speech (वाक्) in motion."),
             [("They perceive smell", "Perceiving smell belongs to two of the nose's sirās (unit 29), not the tongue's."),
              ("They keep the mouth moist", "No such task is printed in unit 27."),
@@ -66,7 +66,7 @@ AUTHORED["27"] = {
 # ---------------------------------------------------------------- unit 28
 AUTHORED["28"] = {
     "title": "चतुर्विंशतिर्नासायां",
-    "question": "By unit 28, how many sirās are in the nose (nāsā)?",
+    "question": "By unit 28, how many (sirās, understood) are in the nose (nāsā)?",
     "rule": ("Twenty-four (चतुर्विंशतिः) are in the nose (नासायाम्). The visarga after इ becomes र् before the voiced "
              "न: चतुर्विंशतिर्नासायाम्."),
     "limits": ("Prose, one printed word; the copula is understood and the counted noun (sirās, the chapter's topic) is "
@@ -79,7 +79,7 @@ AUTHORED["28"] = {
     "hook": "नाक में चौबीस: चार और बीस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 28, how many sirās are in the nose?",
+        mcq("pretest", 0, "By unit 28, how many (sirās, understood) are in the nose?",
             ("Twenty-four", "चतुर्विंशतिः = twenty-four, नासायाम् = in the nose."),
             [("Twenty-eight", "चतुर्विंशति is four and twenty, not eight and twenty."),
              ("Sixteen", "Sixteen is the count of the tongue (unit 26), not the nose."),
@@ -137,7 +137,7 @@ AUTHORED["29"] = {
     "hook": "नाक की चौबीस में: दो गन्ध पहचानें, एक तालु में, कुल तीन।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 29, what do two of the nose's sirās perceive?",
+        mcq("pretest", 0, "By unit 29, what do the two sirās (understood) named first perceive?",
             ("Smell (gandha)", "द्वे गन्धवेदिन्यौ: two perceiving smell."),
             [("Taste (rasa)", "Taste is perceived by two sirās below the tongue (unit 27)."),
              ("Sound (śabda)", "Sound is carried by two sirās of the ears (unit 34)."),
@@ -183,7 +183,7 @@ AUTHORED["29"] = {
 # ---------------------------------------------------------------- unit 30
 AUTHORED["30"] = {
     "title": "षट्पंचाशन्नेत्रयोः",
-    "question": "By unit 30, how many sirās are in the two eyes (netra)?",
+    "question": "By unit 30, how many (sirās, understood) are in the two eyes (netra)?",
     "rule": ("Fifty-six (षट्पञ्चाशत्: six and fifty) are in the two eyes (नेत्रयोः, locative dual). The final त् is "
              "written न् before the न of नेत्रयोः."),
     "limits": ("Prose, one printed word; the copula and the counted noun are understood. The line does not split the 56 "
@@ -196,7 +196,7 @@ AUTHORED["30"] = {
     "hook": "दोनों आँखों में छप्पन: छह और पचास।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 30, how many sirās are in the two eyes?",
+        mcq("pretest", 0, "By unit 30, how many (sirās, understood) are in the two eyes?",
             ("Fifty-six", "षट्पञ्चाशत् = six and fifty = 56."),
             [("Sixty-five", "षट् is six and पञ्चाशत् fifty: 56, not 65."),
              ("Twenty-six", "पञ्चाशत् is fifty, not twenty."),
@@ -241,8 +241,8 @@ AUTHORED["30"] = {
 AUTHORED["31"] = {
     "title": "तयोरुन्मेषनिमेषक्रिये",
     "question": "By unit 31, which actions and which places are named for six of the eyes' sirās?",
-    "rule": ("Of those two (the eyes): for the actions of opening (उन्मेष) and closing (निमेष), two and two; and two in "
-             "the two apāṅgas (outer corners of the eye); thus six (इति षट्)."),
+    "rule": ("Of those two (the eyes): for the actions of opening (उन्मेष) and closing (निमेष), two and two (the data's "
+             "reading; the split is not firm); and two in the two apāṅgas (outer corners of the eye); thus six (इति षट्)."),
     "limits": ("Prose, elliptical; continues unit 30. The split of the six is not firm: the data reads 2 + 2 + 2, but "
                "the dual क्रिये could go with the first द्वे; no question asks how the six are made up. Apāṅga is also "
                "a marma name (probable)."),
@@ -254,7 +254,7 @@ AUTHORED["31"] = {
     "hook": "खोलना-मूँदना और आँख के कोने: कुल छह।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 31, which two actions are linked with sirās of the eyes?",
+        mcq("pretest", 0, "By unit 31, which two actions are linked with six of the eyes' sirās (understood)?",
             ("Opening and closing", "उन्मेष-निमेष-क्रिये: the actions of opening and closing."),
             [("Seeing and weeping", "Neither seeing nor weeping is named in unit 31."),
              ("Moving and turning", "Neither moving nor turning is named in unit 31."),
@@ -299,7 +299,7 @@ AUTHORED["31"] = {
 # ---------------------------------------------------------------- unit 32
 AUTHORED["32"] = {
     "title": "नासानेत्रगतास्तुललाटे षष्टिः",
-    "question": "By unit 32, how many sirās are in the forehead (lalāṭa), and where do they go?",
+    "question": "By unit 32, how many (sirās, understood) are in the forehead (lalāṭa), and where do they go?",
     "rule": ("Those going to the nose and eyes (नासानेत्रगताः), however (तु), are sixty (षष्टिः) in the forehead "
              "(ललाटे)."),
     "limits": ("Prose; the copula is understood and the sentence continues unit 31. The line states no relation between "
@@ -312,7 +312,7 @@ AUTHORED["32"] = {
     "hook": "माथे में साठ: जो नाक और आँख तक जाती हैं।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 32, how many sirās are in the forehead (lalāṭa)?",
+        mcq("pretest", 0, "By unit 32, how many (sirās, understood) are in the forehead (lalāṭa)?",
             ("Sixty", "ललाटे षष्टिः: sixty in the forehead."),
             [("Sixteen", "Sixteen is षोडश; the line has षष्टिः, sixty."),
              ("Six", "Six is षट्; षष्टि is sixty."),
@@ -339,7 +339,7 @@ AUTHORED["32"] = {
             ("Those going to the nose and eyes", "नासानेत्रगताः: gone to the nose and eyes."),
             [("Those going to the ears and temples", "Ears and temples are not named in unit 32."),
              ("Those going to the tongue and palate", "Tongue and palate are not named in unit 32."),
-             ("Those going to the hair and the crown", "Hair and crown are not named in unit 32.")],
+             ("Those going to the lips and chin", "Lips and chin are not named in unit 32.")],
             "The sixty in the forehead are those going to the nose and eyes.",
             "नासानेत्रगतास्तु ललाटे षष्टिः."),
         mcq("transfer", 5, "By the rule of नासानेत्रगतास्तु, how is जनाः + तत्र (the people there) joined in a new example?",
@@ -359,18 +359,18 @@ AUTHORED["33"] = {
     "question": "By unit 33, which seven sirās are named, and in which places?",
     "rule": ("Of them (apparently the forehead's sixty, unit 32): four going along to the keśānta (end of the hair, "
              "probably the hair-line), two in the two āvartas, one in the sthapanī; thus seven (इति सप्त)."),
-    "limits": ("Prose; continues unit 32. Printed केशांतनुगताः has a short -a- where the join should be long (flagged "
-               "as possible); no question rests on its form. Keśānta = hair-line is probable; āvarta and sthapanī are "
-               "marma names (probable). Why seven are counted apart is not stated."),
+    "limits": ("Prose; continues unit 32. Printed केशांतनुगताः is flagged as possible: a lost length mark "
+               "(केशान्तानुगताः) or a lost म् (केशान्तम् अनुगताः); same sense; no question rests on it. Keśānta = "
+               "hair-line, probable; āvarta, sthapanī: marma names, probable. Why seven are counted apart is not stated."),
     "explain_hi": ("यह पंक्ति इकाई ३२ (ललाट में साठ) को आगे बढ़ाती दिखती है। "
                    "उनमें चार केशान्त तक जाती हैं (केशान्त = केशों का अन्त, सम्भवतः केश-रेखा), दो दोनों आवर्तों में और एक स्थपनी में; इस प्रकार सात। "
                    "आवर्त और स्थपनी नामित स्थान हैं, इस परम्परा में मर्मों के नाम (सम्भावित)। "
                    "छपे ‘केशांतनुगताः’ में अ + अ का दीर्घ आ नहीं दिखता; डेटा इसे सम्भावित भूल मानता है, अर्थ वही रहता है। "
                    "ये सात अलग क्यों गिनी गईं, यह नहीं कहा गया।"),
-    "hook": "माथे में सात: चार केश-रेखा तक, दो आवर्त में, एक स्थपनी में।",
+    "hook": "सात: चार केशान्त तक, दो आवर्तों में, एक स्थपनी में।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 33, how many sirās are in the sthapanī?",
+        mcq("pretest", 0, "By unit 33, how many sirās (understood) are in the sthapanī?",
             ("One", "एका च स्थपन्याम्: and one in the sthapanī."),
             [("Two", "Two are in the two āvartas, not in the sthapanī."),
              ("Four", "Four go along to the keśānta (hair-line, probable)."),
@@ -382,11 +382,10 @@ AUTHORED["33"] = {
               "Of them; four going to the keśānta; two in the āvartas, and one; in the sthapanī, thus seven.",
               "तासां → केशांतनुगताश्चतस्रो → द्वे आवर्तयोरेका च → स्थपन्यामिति सप्त."),
         match(2, "Match each place of unit 33 to the number printed for it.",
-              [["केशान्त (hair-line, probable)", "four"], ["आवर्त (the two āvartas)", "two"],
-               ["स्थपनी", "one"], ["इति सप्त", "seven in all"]],
-              "Four to the keśānta, two in the āvartas, one in the sthapanī: seven.",
-              "चतस्रः, द्वे, एका; इति सप्त.", role="extend",
-              teaches="इति closes the list and सप्त gives its total: 4 + 2 + 1 = 7, as printed."),
+              [["आवर्त (the two āvartas)", "two"], ["स्थपनी", "one"], ["इति सप्त", "seven in all"]],
+              "Two in the āvartas, one in the sthapanī; seven in all.",
+              "द्वे, एका; इति सप्त.", role="extend",
+              teaches="इति closes the list and सप्त gives its total, as printed."),
         mcq("discriminate", 3, "Which split of आवर्तयोरेका in unit 33 is right?",
             ("आवर्तयोः + एका", "ओः before a vowel → ओर्: आवर्तयोः + एका → आवर्तयोरेका."),
             [("आवर्तयो + रेका", "रेका is not a word; the र् comes from the visarga."),
@@ -396,11 +395,11 @@ AUTHORED["33"] = {
             "ओः + vowel → ओर्."),
         multi("apply", 4, "Which places have sirās named in unit 33?",
               [("The eyebrows (bhrū)", "No eyebrow is named in unit 33."),
-               ("The keśānta (hair-line, probable)", "Right: केशान्त ... चतस्रः, four."),
+               ("The two āvartas", "Right: द्वे आवर्तयोः, two."),
                ("The sthapanī", "Right: एका च स्थपन्याम्, one."),
                ("The lips (oṣṭha)", "No lip is named in unit 33.")],
               [1, 2],
-              "Keśānta (four), āvartas (two), sthapanī (one).",
+              "Āvartas (two) and sthapanī (one) are named; eyebrows and lips are not.",
               "केशान्त, आवर्त, स्थपनी."),
         mcq("transfer", 5, "By the rule of आवर्तयोरेका, how is नेत्रयोः + अपि (in the two eyes too) joined in a new example?",
             ("नेत्रयोरपि", "ओः before a vowel → ओर्, as आवर्तयोः + एका → आवर्तयोरेका."),
@@ -416,7 +415,7 @@ AUTHORED["33"] = {
 # ---------------------------------------------------------------- unit 34
 AUTHORED["34"] = {
     "title": "कर्णयोः षोडश",
-    "question": "By unit 34, how many sirās are in the ears, and which of them are named?",
+    "question": "By unit 34, how many (sirās, understood) are in the ears, and which of them are named?",
     "rule": ("In the two ears (कर्णयोः), sixteen; of them two carry sound (शब्दवाहिन्यौ); those very two (ते एव) are also "
              "in the two temples (शङ्खयोः); of them two are gone to the temple joint (शङ्खसन्धिगते)."),
     "limits": ("Prose, partly elliptical; continues unit 33. How 'those very two' relate to the temples is not "
@@ -430,7 +429,7 @@ AUTHORED["34"] = {
     "hook": "कान में सोलह: दो शब्द-वाहिनी, वही शंख में; दो शंख-सन्धि तक।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 34, what do two of the ears' sirās carry?",
+        mcq("pretest", 0, "By unit 34, what do two of the ears' sirās (understood) carry?",
             ("Sound (śabda)", "शब्दवाहिन्यौ द्वे: two carrying sound."),
             [("Smell (gandha)", "Smell is perceived by two of the nose's sirās (unit 29)."),
              ("Taste (rasa)", "Taste is perceived by two sirās below the tongue (unit 27)."),
@@ -475,19 +474,19 @@ AUTHORED["34"] = {
 # ---------------------------------------------------------------- unit 35
 AUTHORED["35"] = {
     "title": "द्वादश मूर्द्धनि",
-    "question": "By unit 35, how many sirās are in the head (mūrdhan)?",
+    "question": "By unit 35, how many (sirās, understood) are in the head (mūrdhan)?",
     "rule": ("Twelve (द्वादश) are in the head (मूर्धनि, locative singular of मूर्धन्); the print spells it मूर्द्धनि."),
     "limits": ("Prose, two words; the copula and the counted noun are understood. The printed -र्द्ध- is a spelling of "
                "-र्ध-. The places of eight of the twelve follow in unit 36."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: सिर (मूर्धा) में बारह। "
                    "द्वादश = द्वा (दो) + दश (दस)। "
                    "‘मूर्धनि’ मूर्धन् शब्द की सप्तमी एकवचन है: सिर में। "
-                   "छपाई ‘मूर्द्धनि’ में द दोहरा लिखा है; यह केवल वर्तनी है। "
+                   "छपाई ‘मूर्द्धनि’ में ध से पहले द् जोड़कर लिखा है (र्द्ध = र्ध); यह केवल वर्तनी है। "
                    "अगली इकाई ३६ इन बारह में से आठ के स्थान बताती है।"),
     "hook": "सिर में बारह: दो और दस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 35, how many sirās are in the head?",
+        mcq("pretest", 0, "By unit 35, how many (sirās, understood) are in the head?",
             ("Twelve", "द्वादश = twelve, मूर्धनि = in the head."),
             [("Twenty", "Twenty is विंशति; द्वादश is two and ten."),
              ("Sixteen", "Sixteen is षोडश; द्वादश is twelve."),
@@ -546,7 +545,7 @@ AUTHORED["36"] = {
     "hook": "सिर में आठ बचाओ: उत्क्षेप, सीमन्त, अधिपति।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 36, what should one do with these eight sirās?",
+        mcq("pretest", 0, "By unit 36, what should one do with these eight (sirās, understood)?",
             ("Avoid them with the knife", "शस्त्रेण परिहरेत्: one should avoid them with the knife."),
             [("Pierce them with the knife", "परिहरेत् means avoid, not pierce."),
              ("Press them with the hand", "No pressing by hand is named in unit 36."),
@@ -591,13 +590,13 @@ AUTHORED["36"] = {
 # ---------------------------------------------------------------- unit 37
 AUTHORED["37"] = {
     "title": "क्षुद्रिकाः कुटिलाः संकीर्णा ग्रथिताः",
-    "question": "By unit 37, which further sirās are not to be treated with the knife?",
+    "question": "By unit 37, which sirās (understood) are named as not to be treated with the knife?",
     "rule": ("Small (क्षुद्रिकाः), crooked (कुटिलाः), intermingled (संकीर्णाः), knotted (ग्रथिताः) ones, and those in the "
              "joints (सन्धिषु): these are not to be done with the knife (अशस्त्रकृत्याः)."),
     "limits": ("Low confidence. The first printed word नतथा is doubtful: 'likewise' (तथा) is a conjecture, since न तथा would "
                "clash with the following negative; no question rests on it. The noun (sirās) and the copula are "
                "understood. The sentence continues unit 36."),
-    "explain_hi": ("यह पंक्ति आगे की सिराएँ बताती है जिन पर शस्त्र-कर्म नहीं करना चाहिए: छोटी, टेढ़ी, मिली हुई, गुँथी हुई, और जोड़ों में स्थित। "
+    "explain_hi": ("यह पंक्ति वे सिराएँ (संज्ञा छपी नहीं, समझी जाती है) बताती है जिन पर शस्त्र-कर्म नहीं करना चाहिए: छोटी, टेढ़ी, मिली हुई, गुँथी हुई, और जोड़ों में स्थित। "
                    "पहला छपा शब्द ‘नतथा’ संदिग्ध है: ‘न तथा’ पढ़ें तो आगे के ‘अशस्त्रकृत्याः’ के साथ दोहरा निषेध बनता है, इसलिए ‘तथा’ (इसी प्रकार) अनुमानित पाठ है। "
                    "डेटा का विश्वास निम्न है; प्रश्न केवल पक्के भाग पर हैं। "
                    "‘संकीर्णा ग्रथिताः’ में आ के बाद का विसर्ग घोष व्यंजन ग से पहले लुप्त हुआ है। "
@@ -605,7 +604,7 @@ AUTHORED["37"] = {
     "hook": "छोटी, टेढ़ी, उलझी, गाँठदार और जोड़ वाली: शस्त्र नहीं।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 37, how are the listed sirās to be treated?",
+        mcq("pretest", 0, "By unit 37, how are the listed ones (sirās, understood) to be treated?",
             ("Not to be done with the knife", "अशस्त्रकृत्याः: not to be done with the knife (śastra)."),
             [("To be pierced before others", "अशस्त्रकृत्य rules the knife out."),
              ("To be cut only in the joints", "Those in the joints are among the ones ruled out."),
@@ -657,15 +656,15 @@ AUTHORED["38"] = {
     "limits": ("Prose. 175 as a quarter of the 700 of unit 4 is the data's arithmetic note. अनिलरक्तम् is read as a "
                "dvandva (Vāta and blood); one compound, blood with Vāta, is possible and undecided: no question rests "
                "on it. Unit 39 extends the division to Pitta, Kapha and pure blood."),
-    "explain_hi": ("यह गद्य-पंक्ति दोष-वाही सिराओं का विभाग आरम्भ करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति सिराओं का विभाग आरम्भ करती है। "
                    "उनमें, अपने-अपने अनुसार, चौथे अंश के विभाग से, पचहत्तर अधिक सौ (१७५) का समूह अनिल यानी वात और रक्त का वहन करता है। "
                    "डेटा की टिप्पणी: १७५ इकाई ४ की सात सौ सिराओं का चौथा भाग है। "
                    "‘अनिलरक्तम्’ को द्वन्द्व (वात और रक्त) पढ़ा गया है; ‘वात-युक्त रक्त’ भी सम्भव है, निर्णय नहीं किया गया। "
                    "अगली इकाई ३९ यही विभाग पित्त, कफ और शुद्ध रक्त में भी बताती है।"),
-    "hook": "सात सौ का चौथाई, एक सौ पचहत्तर: वात और रक्त का वहन।",
+    "hook": "सात सौ का चौथाई, एक सौ पचहत्तर: अनिल-रक्त का वहन।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 38, how many sirās carry anila-rakta?",
+        mcq("pretest", 0, "By unit 38, how many sirās (understood) carry anila-rakta?",
             ("175", "पञ्चसप्तत्यधिकं शतकम्: a hundred plus seventy-five."),
             [("150", "पञ्चसप्तति is seventy-five, not fifty."),
              ("75", "शतकम् adds a hundred to the seventy-five."),
@@ -788,7 +787,7 @@ AIDS = {
     },
     "31": {
         "seesaw": "उन्मेष (आँख खोलना) ⇄ निमेष (आँख मूँदना): दोनों इसी पंक्ति में, एक ही समास में।",
-        "chunks": "तयोरुन्मेषनिमेषक्रिये | द्वे द्वे | द्वे चापांगयोरिति | षट्",
+        "chunks": "तयोरुन्मेषनिमेषक्रिये | द्वे द्वे द्वे | चापांगयोरिति | षट्",
         "frame": "किनमें: तयोः (दोनों नेत्रों में) → किस काम के लिए: उन्मेष-निमेष-क्रिये → और कहाँ: अपाङ्गयोः (आँख के बाहरी कोने) → कुल: षट्।",
         "sandhi": "ओ के बाद विसर्ग + स्वर → र्: तयोः + उन्मेष → तयोरुन्मेष · अ + अ → आ: च + अपाङ्गयोः → चापाङ्गयोः।",
     },
@@ -818,7 +817,7 @@ AIDS = {
     },
     "36": {
         "diagram": {"groups": [
-            {"label": "सिर की बारह में (तासाम्), इत्यष्टौ", "items": ["दोनों उत्क्षेपों में २", "सीमन्तों में एक-एक", "अधिपति में १",
+            {"label": "सिर की बारह में (तासाम्), इत्यष्टौ", "items": ["दोनों उत्क्षेपों में २ (सम्भावित मर्म-नाम)", "सीमन्तों में एक-एक (सम्भावित मर्म-नाम)", "अधिपति में १ (सम्भावित मर्म-नाम)",
                                                                "कुल ८: शस्त्र से बचाएँ"]}]},
         "chunks": "तासामुत्क्षेपयोर्द्वे | सीमंतेष्वेकैकामेकामधिपतावित्यष्टौ | शस्त्रेण परिहरेत्",
         "sandhi": ("औ + स्वर → आव्: अधिपतौ + इति → अधिपताविति · उ + भिन्न स्वर → व्: सीमन्तेषु + एकैकाम् → सीमन्तेष्वेकैकाम् · "
@@ -833,8 +832,8 @@ AIDS = {
         "sandhi": "आ के बाद विसर्ग घोष से पहले लुप्त: संकीर्णाः + ग्रथिताः → संकीर्णा ग्रथिताः · अ + अ → आ: च + अशस्त्र → चाशस्त्र।",
     },
     "38": {
-        "chain": {"steps": ["सब सिराएँ: ७०० (इकाई ४)", "तुर्यांश: चौथा भाग (डेटा की गणना)", "पञ्चसप्तत्यधिकं शतकम्: १७५",
-                            "अनिलरक्त: वात और रक्त का वहन"]},
+        "chain": {"steps": ["सब सिराएँ: ७०० (इकाई ४)", "तुर्यांश: चौथा भाग", "पञ्चसप्तत्यधिकं शतकम्: १७५ (= ७०० ÷ ४, डेटा की गणना)",
+                            "अनिलरक्त का वहन (द्वन्द्व-पाठ: वात और रक्त)"]},
         "chunks": "तासां | यथास्वं | तुर्यांशविभागेन | पंचसप्तत्यधिकं | शतकमनिलरक्तं | वहति",
         "sandhi": "इ + अ → य: पञ्चसप्तति + अधिकम् → पञ्चसप्तत्यधिकम् · स्वर से पहले म्: शतकम् + अनिल → शतकमनिल।",
     },
@@ -887,12 +886,12 @@ IMAGE_SPECS = {
     },
     ("36", "diagram"): {
         "file": "sh6-murdha-ashtau-36.svg",
-        "alt": ("Table of unit 36: two in the two utkṣepas; one each in the sīmantas; one in the adhipati (all probable "
+        "alt": ("Table of unit 36 (places are probable marma names): two in the two utkṣepas; one each in the sīmantas; one in the adhipati (all probable "
                 "marma names); eight in all, to be avoided with the knife."),
         "type": "table",
         "title": "इकाई ३६: इत्यष्टौ, शस्त्र से बचाएँ",
         "heads": ["कहाँ", "संख्या"],
-        "rows": [["दोनों उत्क्षेप", "२"], ["सीमन्त", "एक-एक"], ["अधिपति", "१"],
+        "rows": [["दोनों उत्क्षेप (सम्भावित मर्म-नाम)", "२"], ["सीमन्त (सम्भावित मर्म-नाम)", "एक-एक"], ["अधिपति (सम्भावित मर्म-नाम)", "१"],
                  ["कुल (इत्यष्टौ)", "८: शस्त्रेण परिहरेत्"]],
     },
     ("37", "diagram"): {
@@ -907,11 +906,11 @@ IMAGE_SPECS = {
     },
     ("38", "chain"): {
         "file": "sh6-turyamsha-38.svg",
-        "alt": ("Chain of unit 38: all sirās 700 (unit 4); a fourth part (data's arithmetic); a hundred plus "
-                "seventy-five, 175; carries anila-rakta, Vāta and blood."),
+        "alt": ("Chain of unit 38: all sirās 700 (unit 4); a fourth part; a hundred plus seventy-five, 175 (700 / 4, "
+                "the data's arithmetic); carries anila-rakta (read as a dvandva: Vāta and blood)."),
         "type": "chain",
         "title": "इकाई ३८: चौथा भाग, १७५",
-        "steps": ["सब सिराएँ: ७०० (इकाई ४)", "तुर्यांश: चौथा भाग (डेटा की गणना)", "पञ्चसप्तत्यधिकं शतकम्: १७५",
-                  "अनिलरक्त: वात और रक्त का वहन"],
+        "steps": ["सब सिराएँ: ७०० (इकाई ४)", "तुर्यांश: चौथा भाग", "पञ्चसप्तत्यधिकं शतकम्: १७५ (= ७०० ÷ ४, डेटा की गणना)",
+                  "अनिलरक्त का वहन (द्वन्द्व-पाठ: वात और रक्त)"],
     },
 }
