@@ -599,7 +599,7 @@ AUTHORED["117"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 117, on which days do some say the rite should be?",
-            ("On paired (even) days", "युग्मदिनेषु = on paired days."),
+            ("On even days", "युग्मदिनेषु = on paired days."),
             [("On every day", "Every day is the view of unit 118."),
              ("For twelve nights", "Twelve nights is the view of unit 116."),
              ("On the odd days alone", "Odd days are not named.")],

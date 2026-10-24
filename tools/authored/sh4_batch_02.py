@@ -505,7 +505,7 @@ AUTHORED["23"] = {
         mcq("pretest", 0, "By unit 23, for whom is the cooked milk meant?",
             ("For her in whom no blood is seen", "अदृष्टशोणिताम्: her in whom blood has not been seen."),
             [("For her whose blood flows too much", "Too much flow is unit 10; unit 23 opens a new case with तु."),
-             ("For her who has just delivered", "No delivery is named in unit 23."),
+             ("For her who has recently delivered", "No delivery is named in unit 23."),
              ("For her whose third month is over", "Months come up in unit 28 (not complete), not here.")],
             "The milk is for her in whom no blood has been seen.",
             "अदृष्टशोणितां तु ... पाययेत्."),
@@ -891,7 +891,7 @@ AIDS = {
     "23": {
         "chain": {"steps": ["अदृष्टशोणिता: जिसमें रक्त न दिखे", "मधुक, पयस्या (विवादित), असुरदारु (अज्ञात)",
                             "इनसे सिद्ध (पकाया) दूध", "पाययेत्: पिलाए"]},
-        "sandhi": "व्यञ्जन से पहले म् → ं: अदृष्टशोणिताम् + तु → अदृष्टशोणितां तु · आ + अ → आ: मधुक-पयस्या + असुर... → पयस्यासुर...",
+        "sandhi": "व्यञ्जन से पहले म् → ं: अदृष्टशोणिताम् + तु → अदृष्टशोणितां तु, सिद्धम् + पयः → सिद्धं पयः। (पयस्यासुर... का विच्छेद दो तरह बन सकता है, इसलिए यहाँ नहीं।)",
         "frame": "किसके लिए: अदृष्टशोणिताम् (कर्म) → किनसे: मधुक-पयस्या-असुरदारुभिः → क्या: सिद्धं पयः → क्रिया: पाययेत्।",
     },
     "24": {

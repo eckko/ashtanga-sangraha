@@ -20,7 +20,7 @@ AUTHORED["51"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 51, for what purpose should the woman be bathed, pure and the rest?",
-            ("To prevent delivery (prasava)", "प्रसवप्रतिषेधार्थम्: for preventing delivery."),
+            ("To prevent delivery", "प्रसवप्रतिषेधार्थम्: for preventing delivery."),
             [("To hasten the delivery", "प्रतिषेध means prevention, not hastening."),
              ("To conceive a male child", "No child's sex is named in this unit."),
              ("To cure a fever she has", "No fever is named in this unit.")],
@@ -190,7 +190,7 @@ AUTHORED["54"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 54, what does (he) become after this?",
-            ("Disordered (vikārī)", "विकारी भवति: becomes subject to disorder."),
+            ("Disordered", "विकारी भवति: becomes subject to disorder."),
             [("Strong and well", "The word is विकारी, disordered."),
              ("Ready to be born", "Birth is not named in this unit."),
              ("Free of all disorder", "That is the opposite of विकारी.")],
@@ -329,7 +329,7 @@ AUTHORED["56"] = {
             "Noun and participle together in the locative mark the time: when the mother is sleeping.",
             "Locative absolute = noun + participle in the locative: 'when …'."),
         mcq("apply", 4, "In प्रबुद्धायां प्रबुध्यते, who is awake (प्रबुद्धा), by the feminine ending?",
-            ("The mother (मातरि understood)", "प्रबुद्धायाम् is feminine, so it goes with मातरि."),
+            ("The mother", "प्रबुद्धायाम् is feminine, so it goes with मातरि."),
             [("The embryo itself", "गर्भ is masculine and does the waking, प्रबुध्यते."),
              ("The father", "No father is named in this unit."),
              ("The midwife", "No midwife is named in this unit.")],
@@ -423,7 +423,7 @@ AUTHORED["58"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 58, from when onward are the womb's upasneha and upasveda the means of sustenance?",
-            ("From niṣeka (impregnation)", "निषेकात् प्रभृति: from impregnation onward."),
+            ("From impregnation", "निषेकात् प्रभृति: from impregnation onward."),
             [("From the birth of the child", "Birth is not the starting point named here."),
              ("From the fifth month", "No month is named in this unit."),
              ("From the first cry", "No cry is named in this unit.")],
@@ -441,7 +441,7 @@ AUTHORED["58"] = {
               "निषेक, उपस्नेह, उपस्वेद, वर्तन, नाभि.", role="extend",
               teaches="वर्तन means the means of sustenance: at first, the womb's moistening and warming."),
         mcq("discriminate", 3, "By unit 58, what is fastened (प्रतिबद्धा) at the navel?",
-            ("The nāḍī (probably the umbilical cord)", "नाभ्यां प्रतिबद्धा नाडी: a duct is fastened at the navel."),
+            ("The nāḍī", "नाभ्यां प्रतिबद्धा नाडी: a duct is fastened at the navel."),
             [("The womb's moistening", "Moistening is the early sustenance, not a thing fastened."),
              ("The hair-pores of the body", "Hair-pores are not named in this unit."),
              ("The rasa of food", "The rasa of food is not named in this unit.")],
@@ -705,7 +705,7 @@ AUTHORED["63"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 63, what does not arise in the unborn embryo?",
-            ("Gross waste (sthūla-mala)", "स्थूलमलासम्भवः: non-arising of gross waste."),
+            ("Gross waste", "स्थूलमलासम्भवः: non-arising of gross waste."),
             [("The rasa of food", "The rasa is there; it is free of mala."),
              ("Sleep and waking", "Sleep is unit 56's topic; not named here."),
              ("The bodily fire", "No fire is named in this unit.")],

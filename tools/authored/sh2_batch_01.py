@@ -261,7 +261,7 @@ AUTHORED["5"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 5, what splits śukra and ārtava into pieces?",
-            ("Wind (anila)", "अनिलेन = by wind."),
+            ("Wind", "अनिलेन = by wind."),
             [("The jīva", "The jīva is named in unit 2, not here."),
              ("The mother's food", "No food is named in this unit."),
              ("The great elements", "The elements are named in unit 2, not here.")],
@@ -502,7 +502,7 @@ AUTHORED["9"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 9, what does the woman crave once her pregnancy is manifest?",
-            ("The sour (अम्ले)", "अम्लेऽभिलाषः = craving for the sour."),
+            ("The sour", "अम्लेऽभिलाषः = craving for the sour."),
             [("The sweet", "Sweet is not named in this unit."),
              ("The salty", "Salty is not named in this unit."),
              ("Cold water", "Water is not named in this unit.")],
@@ -577,7 +577,7 @@ AUTHORED["10"] = {
               "तस्याश्च → स्रोतसाम् → वर्त्मानि → उपरुध्यन्ते → गर्भेण.", role="extend",
               teaches="In a passive sentence the doer stands in the instrumental: गर्भेण उपरुध्यन्ते = are blocked by the embryo."),
         mcq("discriminate", 3, "What does उपरुध्यन्ते say about the paths?",
-            ("They are blocked (passive, plural)", "The card labels it 3 pl. present passive."),
+            ("They are blocked", "The card labels it 3 pl. present passive."),
             [("They block something else", "That would be active; the form is passive."),
              ("They will be blocked later", "The form is present, not future."),
              ("They were opened by the embryo", "उप-√रुध् means block, not open.")],
@@ -618,7 +618,7 @@ AUTHORED["11"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 11, what is no longer seen after conception?",
-            ("The ārtava (menstrual fluid)", "आर्तवं न दृश्यते."),
+            ("The ārtava", "आर्तवं न दृश्यते."),
             [("The śukra", "Śukra is not named in this unit."),
              ("The embryo's throbbing", "No throbbing is named in this unit."),
              ("Swelling of the feet", "That is a sign in unit 9, not named here.")],

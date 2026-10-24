@@ -24,7 +24,7 @@ AUTHORED["14"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 14, what appears when the blood has settled?",
-            ("A line of hair (रोमराजी)", "रोमराजी प्रादुर्भवति: a line of hair appears."),
+            ("A line of hair", "रोमराजी प्रादुर्भवति: a line of hair appears."),
             [("The menstrual flow again", "Unit 11 says the ārtava is no longer seen."),
              ("A swelling of the feet", "No swelling of the feet is named in this unit."),
              ("The first embryonic mass", "The kalala is named for the first month in unit 17.")],
@@ -136,7 +136,7 @@ AUTHORED["16"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 16, by what is it nourished again?",
-            ("By the rasa (nutrient juice) of food", "पुनराहाररसेनाप्यायते: nourished again by food-rasa."),
+            ("By the rasa of food", "पुनराहाररसेनाप्यायते: nourished again by food-rasa."),
             [("By medicated ghee given daily", "No ghee is named in this unit."),
              ("By the blood of the embryo", "The embryo's blood is not named here."),
              ("By water drunk at night", "No water or time of day is named.")],
@@ -651,7 +651,7 @@ AUTHORED["25"] = {
                 "यथास्वम्, अनुरूप, भाव, मनसि, संतिष्ठन्ते.", role="extend"),
           "भाव here is a state or disposition; the unit does not say which ones."),
         mcq("discriminate", 3, "By unit 25, to what do the embryo's states conform?",
-            ("The sign (liṅga) of male, female or neuter", "…लिङ्गानुरूपाः: conforming to the sign (liṅga)."),
+            ("The sign of male, female or neuter", "…लिङ्गानुरूपाः: conforming to the sign (liṅga)."),
             [("The season in which it was conceived", "No season is named in this unit."),
              ("The food the mother eats", "Food is not named in this unit."),
              ("The month of its growth", "No month is named in this unit.")],

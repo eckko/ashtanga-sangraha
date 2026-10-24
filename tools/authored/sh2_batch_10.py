@@ -26,7 +26,7 @@ AUTHORED["114"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 114, what is produced by she who sleeps uncovered and she who roams at night?",
-            ("A mad (unmatta) one", "चोन्मत्तं जनयति: she produces a mad one."),
+            ("A mad one", "चोन्मत्तं जनयति: she produces a mad one."),
             [("An epileptic one", "Apasmāra (epilepsy) is the result in unit 115."),
              ("A blind-born one", "Blindness is not named in this line."),
              ("A short-lived one", "Short life is a result in unit 116.")],
@@ -86,7 +86,7 @@ AUTHORED["115"] = {
     "questions": [
         mcq("pretest", 0, "By unit 115, what does a woman quarrelsome by nature produce?",
             ("One with apasmāra (epilepsy)", "कलहशीला अपस्मारिणम्: one with apasmāra."),
-            [("A mad (unmatta) one", "The mad one is the result of unit 114."),
+            [("A mad one", "The mad one is the result of unit 114."),
              ("A very stout (atisthūla) one", "Stoutness is a result in unit 122."),
              ("A jealous (īrṣyālu) one", "Jealousy is a result in unit 117.")],
             "Quarrelsome nature → a child with apasmāra.",
@@ -146,7 +146,7 @@ AUTHORED["116"] = {
     "questions": [
         mcq("pretest", 0, "By unit 116, which result may a woman given to intercourse (vyavāya) produce?",
             ("An ill-shaped one", "व्यवायशीला दुर्वपुषम्: an ill-shaped one."),
-            [("A mad (unmatta) one", "The mad one is the result of unit 114."),
+            [("A mad one", "The mad one is the result of unit 114."),
              ("An epileptic one", "Apasmāra is the result of unit 115."),
              ("A red-eyed one", "Red eyes are a result in unit 121.")],
             "Vyavāya as habit → an ill-shaped, (conjecturally) shameless or womanish one.",

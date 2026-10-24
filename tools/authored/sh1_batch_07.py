@@ -617,7 +617,7 @@ AUTHORED["91"] = {
             "रात्रिषु (in the nights) + अल्पीभवति (becomes small).",
             "उ + a different vowel → व् + that vowel."),
         mcq("apply", 4, "By unit 91, what does the ārtava do on the ninth night?",
-            ("It increases (आप्यायते)", "Nine is odd (अयुग्म): there it increases."),
+            ("It increases", "Nine is odd (अयुग्म): there it increases."),
             [("It becomes small", "That is in the even nights."),
              ("It stops altogether", "Nothing like this is said."),
              ("It neither grows nor shrinks", "The unit gives a change for both kinds of night.")],

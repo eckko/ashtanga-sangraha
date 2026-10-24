@@ -437,7 +437,7 @@ AUTHORED["101"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 101, which two foods are named in the woman's diet?",
-            ("Oil and māṣa (black gram)", "तैल-माष-उत्तर-आहारा: oil and māṣa."),
+            ("Oil and māṣa", "तैल-माष-उत्तर-आहारा: oil and māṣa."),
             [("Ghee and milk with rice", "Ghee, milk and śāli rice are the man's, in unit 100."),
              ("Honey and sugarcane", "Neither is named in this unit."),
              ("Curd and barley", "Neither is named in this unit.")],

@@ -85,7 +85,7 @@ AUTHORED["15"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 15, with what does the vātodara subside?",
-            ("With Vāta-pacifying (ones)", "वातौपशमनैः उपशाम्यति: it subsides with Vāta-pacifying (ones)."),
+            ("With Vāta-pacifying ones", "वातौपशमनैः उपशाम्यति: it subsides with Vāta-pacifying (ones)."),
             [("With Pitta-increasing measures", "Pitta-increasing measures belong to unit 14."),
              ("With the treatment of gulma", "The gulma treatment is the advice of unit 14."),
              ("With Kapha-increasing foods", "No Kapha remedy is named here.")],

@@ -480,7 +480,7 @@ AUTHORED["49"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 49, in what is the ghee cooked?",
-            ("A decoction (kvātha)", "…आमलकक्वाथसिद्धम्: cooked with a decoction (क्वाथ) of three drugs."),
+            ("A decoction", "…आमलकक्वाथसिद्धम्: cooked with a decoction (क्वाथ) of three drugs."),
             [("Milk with crab juice", "That is unit 44's oil."),
              ("Sukta with rock salt", "That is unit 42's ghee."),
              ("Oil with bhadradāru", "That is unit 43's anuvāsana.")],

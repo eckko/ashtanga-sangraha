@@ -690,7 +690,7 @@ AUTHORED["131"] = {
               "A short closing phrase: no verb and no stated noun.",
               "Unit 131 = closing phrase."),
         mcq("apply", 4, "In गर्भस्थापनानि, what is said to be established?",
-            ("The foetus (गर्भ)", "गर्भ = foetus; स्थापन = establishing."),
+            ("The foetus", "गर्भ = foetus; स्थापन = establishing."),
             [("The offspring's herbs", "No herbs are named in this unit."),
              ("The husband's strength", "No husband is named in this unit."),
              ("The mother's milk", "No milk is named in this unit.")],

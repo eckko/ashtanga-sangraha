@@ -561,7 +561,7 @@ AUTHORED["10"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 10, śukra with the listed qualities becomes fit for what?",
-            ("Conception (गर्भाधान)", "गर्भाधानयोग्यं भवति."),
+            ("Conception", "गर्भाधानयोग्यं भवति."),
             [("Digestion of food", "The card names no such use."),
              ("Healing of wounds", "The card names no such use."),
              ("Nourishing the eyes and hair", "The card names no such use.")],
@@ -678,7 +678,7 @@ AUTHORED["12"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 12, which cause is named first, in the instrumental?",
-            ("Excessive continuation (अतिप्रसङ्ग)", "अतिप्रसङ्गेन: by excessive continuation."),
+            ("Excessive continuation", "अतिप्रसङ्गेन: by excessive continuation."),
             [("Cold food and drink", "No food is named."),
              ("Grief, fear and sleeplessness at night", "None of these is named."),
              ("Old age", "No age is named here.")],

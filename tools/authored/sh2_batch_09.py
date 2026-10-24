@@ -664,7 +664,7 @@ AUTHORED["112"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 112, who may say whatever else?",
-            ("Old women (वृद्धस्त्रियः)", "वृद्धस्त्रियो ब्रूयुः: old women may say."),
+            ("Old women", "वृद्धस्त्रियो ब्रूयुः: old women may say."),
             [("The physicians of old", "Physicians are not named here."),
              ("The pregnant woman's husband", "No husband is named here."),
              ("The teachers of the science", "Teachers are not named here.")],
@@ -723,7 +723,7 @@ AUTHORED["113"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 113, how does the woman lie in this case?",
-            ("Face up (uttāna)", "उत्तानशायिनी: she sleeps face up."),
+            ("Face up", "उत्तानशायिनी: she sleeps face up."),
             [("On her left side", "No side is named in this line."),
              ("Propped up, sitting", "Sitting is not named in this line."),
              ("Face down", "उत्तान is face up, the opposite.")],

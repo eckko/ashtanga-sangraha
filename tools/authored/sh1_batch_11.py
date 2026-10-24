@@ -494,7 +494,7 @@ AUTHORED["142"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 142, when should puṃsavana and the like be applied?",
-            ("Before the manifestation (व्यक्ति)", "पूर्वं व्यक्तेः प्रयोजयेत्."),
+            ("Before the manifestation", "पूर्वं व्यक्तेः प्रयोजयेत्."),
             [("Right after the birth", "Birth is not named in unit 142."),
              ("At the time of delivery", "Delivery is not named in unit 142."),
              ("Only after the eighth month of pregnancy", "No month is named in unit 142.")],
@@ -669,7 +669,7 @@ AUTHORED["145"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 145, who too discharge śukra at union?",
-            ("Women (योषितः)", "योषितोऽपि स्रवन्त्येव शुक्रम्."),
+            ("Women", "योषितोऽपि स्रवन्त्येव शुक्रम्."),
             [("Only men", "अपि (too) adds women to men."),
              ("Only pregnant women", "Pregnancy is not named in line 1."),
              ("Children", "Children are not named.")],

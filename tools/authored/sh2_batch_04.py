@@ -318,7 +318,7 @@ AUTHORED["44"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 44, what is the birth of the embryo then accompanied by?",
-            ("Calamity (व्यापत्ति)", "जन्म व्यापत्तिमत् तदा भवति."),
+            ("Calamity", "जन्म व्यापत्तिमत् तदा भवति."),
             [("Strength and good colour", "Strength and complexion increase in unit 40; not here."),
              ("A long life", "No long life is named in unit 44."),
              ("Gladness of the mother", "Gladness is in unit 43, not tied to the birth.")],
@@ -517,7 +517,7 @@ AUTHORED["47"] = {
             "तत् (that) + छिन्नस्य (of one severed).",
             "त् + छ → च्छ."),
         mcq("apply", 4, "What image does unit 47 use for this breathing?",
-            ("A severed limb (छिन्न अङ्ग)", "छिन्नस्येवाङ्गस्य: like a severed limb."),
+            ("A severed limb", "छिन्नस्येवाङ्गस्य: like a severed limb."),
             [("A lamp after its oil is gone", "No lamp is named in unit 47."),
              ("A wheel that keeps on turning", "No wheel is named in unit 47."),
              ("A tree cut down at the root", "No tree is named in unit 47.")],
@@ -608,7 +608,7 @@ AUTHORED["49"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "Who speaks, by unit 49?",
-            ("Others (अन्ये)", "अन्ये पुनराहुः: others, however, say."),
+            ("Others", "अन्ये पुनराहुः: others, however, say."),
             [("Ātreya", "No name is given in unit 49."),
              ("The mother", "The mother is not the speaker here."),
              ("The physician", "No physician is named in unit 49.")],

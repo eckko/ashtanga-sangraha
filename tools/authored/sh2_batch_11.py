@@ -141,7 +141,7 @@ AUTHORED["128"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "Whom does unit 128 single out?",
-            ("The woman (नारी)", "विशेषेण नारी: especially the woman."),
+            ("The woman", "विशेषेण नारी: especially the woman."),
             [("The father of the child", "No father is named in this unit."),
              ("The attending physician", "No physician is named in this unit."),
              ("The newborn child", "No child is named in this unit.")],
@@ -257,7 +257,7 @@ AUTHORED["130"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 130, what should not be applied to her?",
-            ("Emesis (वमन) and the rest", "न … वमनादीनि प्रयोजयेत्."),
+            ("Emesis and the rest", "न … वमनादीनि प्रयोजयेत्."),
             [("Mild and sweet foods", "These are recommended in unit 129, not forbidden here."),
              ("Cool and pleasant regimens", "These are recommended in unit 129, not forbidden here."),
              ("Pleasant medicines", "These are recommended in unit 129, not forbidden here.")],

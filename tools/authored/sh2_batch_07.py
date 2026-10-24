@@ -312,7 +312,7 @@ AUTHORED["81"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 81, what is said of the woman's yoni?",
-            ("It is putrid, foul (पूति)", "पूतियोन्याः: of one whose yoni is putrid."),
+            ("It is putrid, foul", "पूतियोन्याः: of one whose yoni is putrid."),
             [("It is dry and closed at the mouth", "Dryness is not named in this line."),
              ("It bleeds heavily each month", "Bleeding is not named in this line."),
              ("It is wide and open", "Width is not named in this line.")],
@@ -422,7 +422,7 @@ AUTHORED["83"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By the sure part of unit 83, what does he obtain?",
-            ("Strength (बल)", "बलं लभते: he obtains strength."),
+            ("Strength", "बलं लभते: he obtains strength."),
             [("The raising of the dhvaja", "That is unit 82's result; this line says बल, strength."),
              ("A son", "No son is named in this line."),
              ("Freedom from fever", "No fever is named in this line.")],
@@ -479,7 +479,7 @@ AUTHORED["84"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 84, what name is given?",
-            ("Īrṣyālu (jealous one)", "तदेर्ष्यालुरिति संज्ञां: then the name 'īrṣyālu'."),
+            ("Īrṣyālu", "तदेर्ष्यालुरिति संज्ञां: then the name 'īrṣyālu'."),
             [("Vakradhvaja", "Vakradhvaja is named in unit 80, not here."),
              ("Vāyupiṇḍaka", "Vāyupiṇḍaka is named in unit 85."),
              ("Āsekya", "Āsekya is printed in unit 80.")],
@@ -617,7 +617,7 @@ AUTHORED["86"] = {
             "अष्टौ is the nominative of the numeral 'eight'; its -औ is no dual ending.",
             "-औ is not always dual: अष्टौ = eight."),
         mcq("apply", 4, "By unit 86, what cause does the ablative कर्मवैचित्र्यात् give?",
-            ("The variety of action (कर्म)", "वैचित्र्यात्: from the variety of action."),
+            ("The variety of action", "वैचित्र्यात्: from the variety of action."),
             [("The anger of the gods or of the ancestors", "Gods are not named in this line."),
              ("The fault of wind and fire", "That is the cause in unit 85."),
              ("The mother's diet", "Diet is not named in this line.")],
@@ -709,7 +709,7 @@ AUTHORED["88"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 88, what is then produced?",
-            ("A barren one (वन्ध्या)", "तदा वंध्यां जनयति: then it produces a barren one."),
+            ("A barren one", "तदा वंध्यां जनयति: then it produces a barren one."),
             [("Twins", "Twins are not named in this line."),
              ("A strong son", "No son is named in this line."),
              ("A child with bent limbs", "No limb is named in this line.")],

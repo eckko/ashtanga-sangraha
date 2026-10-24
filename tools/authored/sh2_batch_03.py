@@ -372,7 +372,7 @@ AUTHORED["32"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 32, from then on what does the embryo do besides having desire?",
-            ("It moves, or throbs (स्पन्दते)", "स्पन्दते: moves, throbs."),
+            ("It moves, or throbs", "स्पन्दते: moves, throbs."),
             [("It sleeps", "Sleep is not named in unit 32."),
              ("It cries aloud", "No crying is named."),
              ("It takes food by mouth", "No food is named.")],
@@ -431,7 +431,7 @@ AUTHORED["33"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 33, the embryo's heart is born of whom?",
-            ("Of the mother (मातृज)", "मातृजं ह्यस्य हृदयम्: its heart is born of the mother."),
+            ("Of the mother", "मातृजं ह्यस्य हृदयम्: its heart is born of the mother."),
             [("Of the father", "The line says मातृज, born of the mother."),
              ("Of the five elements", "No elements are named in unit 33."),
              ("Of its own past karma", "Karma is not named in unit 33.")],
@@ -488,7 +488,7 @@ AUTHORED["34"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 34, what arises (संपद्यते)?",
-            ("A longing (श्रद्धा)", "श्रद्धा संपद्यते: a longing arises."),
+            ("A longing", "श्रद्धा संपद्यते: a longing arises."),
             [("A pain", "No pain is named."),
              ("A fever", "No fever is named."),
              ("Sleep", "No sleep is named.")],
@@ -546,7 +546,7 @@ AUTHORED["35"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 35, which woman is called दौर्हदिनी (read daurhṛdinī), a woman with longings?",
-            ("The two-hearted (द्विहृदया) woman", "द्विहृदयां नारीं दौर्हृदिनीत्याचक्षते."),
+            ("The two-hearted woman", "द्विहृदयां नारीं दौर्हृदिनीत्याचक्षते."),
             [("A woman in her monthly period", "No monthly period is named."),
              ("A woman who has recently given birth", "Childbirth is not named."),
              ("A woman past child-bearing age", "No age is named.")],
