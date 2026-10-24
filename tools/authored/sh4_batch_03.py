@@ -519,7 +519,7 @@ AUTHORED["36"] = {
              ("Both only add emphasis here", "The data glosses हि as for, because, and तस्मात् as therefore.")],
             "Cause (हि) in the first line, conclusion (तस्मात्) in the second.",
             "हि = because; तस्मात् = therefore."),
-        mcq("apply", 4, "By unit 36, how should she be treated after such a fall?",
+        mcq("apply", 4, "By unit 36, how should one treat, given the risk of a remnant?",
             ("With sharp ones, leaving nothing", "तीक्ष्णैः अनवशेषयन् उपाचरेत्."),
             [("With mild ones, little by little", "The unit says sharp (तीक्ष्ण), not mild."),
              ("With cooling ones, only once", "The unit says sharp ones, leaving no remnant."),
