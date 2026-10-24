@@ -962,19 +962,15 @@ IMAGE_SPECS = {
     },
     ("20", "diagram"): {
         "file": "sh4-raktashali-odana-20.svg",
-        "alt": ("Flowchart of unit 20: balā (standard), atibalā (probable), śāli and ṣaṣṭika, sugarcane root (conjectural "
-                "reading) and kākolī (disputed) prepare the milk; milk with honey and sugar, or broth of dry-land game "
-                "cool in potency, go with the very cool red śāli rice-meal that one should feed."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  L1[\"बला (मानक)\"] --> A\n"
-                 "  L2[\"अतिबला (सम्भावित)\"] --> A\n"
-                 "  L3[\"शालि, षष्टिक\"] --> A\n"
-                 "  L4[\"ईख-मूल (अनुमानित पाठ)\"] --> A\n"
-                 "  L5[\"काकोली (विवादित)\"] --> A\n"
-                 "  A[\"इनसे तैयार दूध\"] --> M[\"शहद और शर्करा सहित\"]\n"
-                 "  M -->|\"के साथ\"| F[\"सुशीत लाल शालि-भात खिलाए\"]\n"
-                 "  B[\"अथवा शीतवीर्य जाङ्गल रस\"] -->|\"के साथ\"| F\n"),
+        "alt": ("Two columns of unit 20. The milk is prepared with, in order: balā (standard), atibalā (probable), śāli, "
+                "ṣaṣṭika, sugarcane root (conjectural reading), kākolī (disputed). Food: feed very cool red śāli rice-meal, "
+                "with that milk and honey and sugar, or with broth of dry-land game cool in potency."),
+        "type": "split",
+        "title": "इकाई २०: सुशीत लाल शालि-भात",
+        "cols": [["दूध किनसे तैयार (क्रम से)", ["१ बला (मानक)", "२ अतिबला (सम्भावित)", "३ शालि", "४ षष्टिक",
+                                               "५ ईख-मूल (अनुमानित पाठ)", "६ काकोली (विवादित)"]],
+                 ["भोजन", ["सुशीत लाल शालि-भात खिलाए", "साथ: वह दूध, शहद-शर्करा सहित",
+                           "अथवा साथ: शीतवीर्य जाङ्गल रस"]]],
     },
     ("23", "chain"): {
         "file": "sh4-adrishta-shonita-23.svg",
