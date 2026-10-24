@@ -320,7 +320,7 @@ AUTHORED["30"] = {
 AUTHORED["31"] = {
     "title": "तस्य कल्कादभेदः",
     "question": "Why does unit 31 say that 'it' is not different from kalka?",
-    "rule": ("Of that (the sifted powder), because the whole substance is not abandoned and because of quick use, "
+    "rule": ("Of that (probably the sifted powder of line 05.08.35), because the whole substance is not abandoned and because of quick use, "
              "there is no difference from kalka."),
     "limits": ("That 'tasya' means the powder of line 05.08.35 is inferred from context. The print separates समस्त from "
                "द्रव्य-; it is read as one compound, and no question rests on that print spacing."),
@@ -332,7 +332,7 @@ AUTHORED["31"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "What does unit 31 conclude about the powder and kalka?",
+            "What does unit 31 conclude about तस्य (of that, probably the powder) and kalka?",
             ("It is not different from kalka",
              "कल्कात् + अभेदः = non-difference from kalka."),
             [("It is stronger than kalka", "Strength is the topic of unit 27, not of this line."),
@@ -344,13 +344,12 @@ AUTHORED["31"] = {
               [["तस्य", "of that"], ["आशुता", "quickness"], ["उपयोग", "use"], ["अभेद", "non-difference"]],
               "तस्य … आशुतोपयोगाच्च कल्कादभेदः: of that, because of quick use, no difference from kalka.",
               "तस्य = of that; आशुता = quickness; उपयोग = use; अभेद = non-difference."),
-        order(2, "Put the parts of unit 31 in the order of the text.",
-              ["of that", "because the whole substance is not given up", "and because of quick use",
-               "no difference from kalka"],
-              "तस्य · समस्त-द्रव्य-अपरित्यागात् · आशुता-उपयोगात् च · कल्कात् अभेदः.",
-              "Of that · reason 1 · reason 2 · conclusion.",
+        order(2, "Put these words of unit 31 in the order of the text.",
+              ["तस्य", "आशुतोपयोगाच्च", "कल्कादभेदः"],
+              "तस्य … आशुतोपयोगाच्च कल्कादभेदः: of that … and because of quick use, no difference from kalka.",
+              "तस्य · आशुतोपयोगाच्च · कल्कादभेदः.",
               role="extend",
-              teaches="Unit 31 gives two reasons in the ablative (not giving up the whole substance; quick use) and then the conclusion: no difference from kalka."),
+              teaches="Unit 31 opens with तस्य (of that), gives its reasons in the ablative (one is quick use, आशुतोपयोगात्) and ends: no difference from kalka."),
         mcq("discriminate", 3, "Which is the right split of the printed कल्कादभेदः?",
             ("कल्कात् + अभेदः",
              "त् before a vowel becomes द्; the अ after द is the अ of अभेदः: non-difference."),
@@ -360,14 +359,14 @@ AUTHORED["31"] = {
             "कल्कात् (from kalka) + अभेदः (non-difference).",
             "Final त् before a vowel → द्."),
         mcq("apply", 4,
-            "By the card's reading, which reason does unit 31 give for treating the powder like kalka?",
-            ("Nothing of the substance is thrown away",
-             "समस्त-द्रव्य-अपरित्यागात्: because the whole substance is not abandoned."),
+            "Which reason does unit 31 give for तस्य (of that, probably the powder) being no different from kalka?",
+            ("It is put to use quickly",
+             "आशुता-उपयोगात्: because of quickness (आशुता) of use (उपयोग)."),
             [("It is pressed out through a cloth", "Pressing through cloth makes the juice of unit 28."),
              ("It is boiled with milk and the like first", "Milk comes in the decoction line 05.08.41."),
              ("It is kept overnight in cold water", "Overnight soaking makes śīta, line 05.08.42.")],
-            "Reasons: whole substance kept; quick use.",
-            "अपरित्याग = not giving up."),
+            "One stated reason: quick use (आशुता-उपयोगात्).",
+            "आशुता-उपयोग = quick use."),
         mcq("transfer", 5,
             "Join by the rule of उपयोगात् + च = उपयोगाच्च: कल्कात् + च (and from kalka). Which is right?",
             ("कल्काच्च",
@@ -446,8 +445,8 @@ AUTHORED["32"] = {
 # ---------------------------------------------------------------- unit 33
 AUTHORED["33"] = {
     "title": "स तु भेद्यान्यौषधानि",
-    "question": "How is the niryūha begun: preparing the herbs, the pot and the water?",
-    "rule": ("Split finely the herbs to be split, cut those to be cut, wash them with water, put them into a clean pot "
+    "question": "How is the niryūha begun: preparing the medicines, the pot and the water?",
+    "rule": ("Split finely the medicines to be split, cut those to be cut, wash them with water, put them into a clean pot "
              "(copper, iron or clay), pour in as much water as releases their rasa, and reduce (dry up) it."),
     "limits": ("Confidence low. आकलथ्य is not a word ('having reckoned', आकलय्य, is only a conjecture); रुक्षा- is probably "
                "रूक्षा- (dry). 'स तु' may be 'that (niryūha)' or 'he (the physician)'. 'Reduce' for शोषयेत् (literally "
@@ -478,7 +477,7 @@ AUTHORED["33"] = {
               "भेदयित्वा → छेदयित्वा → प्रक्षाल्य उदकेन → समावाप्य → उदकम् आसेचयेत्.",
               "Split · cut · wash · put in · pour water.",
               role="extend",
-              teaches="For niryūha the herbs are split, cut, washed, put into the pot, and then water is poured in."),
+              teaches="For niryūha the medicines are split, cut, washed, put into the pot, and then water is poured in."),
         mcq("discriminate", 3, "Which is the right split of प्रक्षाल्योदकेन?",
             ("प्रक्षाल्य + उदकेन",
              "अ + उ becomes ओ: प्रक्षाल्य + उदकेन = प्रक्षाल्योदकेन."),
@@ -488,15 +487,15 @@ AUTHORED["33"] = {
             "प्रक्षाल्य (having washed) + उदकेन (with water).",
             "अ + उ → ओ."),
         multi("apply", 4,
-              "A physician picks a pot for niryūha. Which materials does unit 33 allow?",
-              [("Copper", "Right: ताम्र is named."),
-               ("Iron", "Right: अयस् is named."),
-               ("Clay", "Right: मृन्मय, earthen, is named."),
-               ("Silver", "Wrong: silver is not named in the unit."),
-               ("Stone", "Wrong: stone is not named as a pot material.")],
-              [0, 1, 2],
-              "Any one (अन्यतम) of copper, iron or clay.",
-              "ताम्र-अयः-मृन्मय-अन्यतम."),
+              "A physician readies the pot for niryūha. Which does unit 33 require of the pot?",
+              [("It is clean", "Right: शुचौ, in a clean (pot)."),
+               ("It is smeared below", "Right: अधःप्रलिप्तायाम्, smeared on the underside."),
+               ("It is brand new", "Wrong: newness is not stated."),
+               ("It has a lid on it", "Wrong: no lid is named."),
+               ("It is of gold", "Wrong: only copper, iron or clay are named.")],
+              [0, 1],
+              "शुचौ … अधःप्रलिप्तायाम् … स्थाल्याम्: in a clean pot smeared below.",
+              "Pot: clean, smeared below; copper, iron or clay."),
         mcq("transfer", 5,
             "भेदयित्वा has no prefix and takes -त्वा; प्रक्षाल्य has a prefix and takes -य. Which means having brought (आ + √नी)?",
             ("आनीय",
@@ -516,7 +515,7 @@ AUTHORED["34"] = {
     "question": "How is the decoction cooked, by unit 34?",
     "rule": ("Then, placing it on the fire, seated comfortably on a large seat, watching constantly from all sides and "
              "stirring with a ladle, he should prepare it with a gentle fire reaching all around."),
-    "limits": ("Continues line 05.08.38: the object (the pot with herbs and water) is understood, not named. No time, "
+    "limits": ("Continues line 05.08.38: the object (the pot with medicines and water) is understood, not named. No time, "
                "quantity or end-point of the cooking is stated here."),
     "explain_hi": ("पिछली पंक्ति (०५.०८.३८) के बर्तन को अब आग पर रखा जाए (अधिश्रित्य)। बनाने वाला बड़े आसन पर सुख से बैठा हो, "
                    "निरन्तर सब ओर से देखता रहे (अवलोकयन्) और करछी (दर्वी) से हिलाता रहे (विघट्टयन्)। "
@@ -582,7 +581,7 @@ AUTHORED["35"] = {
     "rule": "Having taken it down (from the fire), well strained, of suitable touch, he should use it.",
     "limits": ("यथार्हस्पर्शम् is literally 'of touch as is fitting'; whether this means its warmth the line does not say, so "
                "the literal 'touch' is kept and no question asks what the touch is. The object (the decoction) is understood."),
-    "explain_hi": ("पकने के बाद का क्रम: आग से उतारकर (अवतार्य), भली-भाँति छानकर (सुपरिस्रुत), योग्य स्पर्श वाला (यथार्हस्पर्श) होने पर प्रयोग करे (प्रयुञ्जीत)। "
+    "explain_hi": ("पकने के बाद का क्रम: आग से उतारकर (अवतार्य), भली-भाँति छानकर (सुपरिस्रुत), योग्य स्पर्श वाले (यथार्हस्पर्श) को प्रयोग करे (प्रयुञ्जीत)। "
                    "‘यथार्हस्पर्श’ का शाब्दिक अर्थ है जैसा उचित हो वैसा स्पर्श; यह गरमाहट के लिए है या नहीं, पाठ नहीं बताता। "
                    "‘सु-’ उपसर्ग ‘भली-भाँति’ का अर्थ देता है।"),
     "hook": "उतारो, अच्छे से छानो, उचित स्पर्श पर दो।",
@@ -607,7 +606,7 @@ AUTHORED["35"] = {
               "Take down, well strained, of fitting touch, use.",
               "अवतार्य · सुपरिस्रुतम् · यथार्हस्पर्शम् · प्रयुञ्जीत.",
               role="extend",
-              teaches="After cooking: take it down, strain it well, and use it when of fitting touch."),
+              teaches="After cooking: take it down, strain it well, and use it, of fitting touch (यथार्हस्पर्शम्)."),
         mcq("discriminate", 3, "Which is the right split of यथार्ह-?",
             ("यथा + अर्ह",
              "आ + अ becomes आ: यथा + अर्ह = यथार्ह, as is fitting."),
@@ -645,8 +644,8 @@ AUTHORED["36"] = {
     "rule": ("A substance together with milk and the like does not fully release its rasa; so, after a decoction in "
              "water first, he should boil it with milk and the like, as instructed, not scorched."),
     "limits": ("Confidence low. तदुपदेशानुपदग्धम् is uncertain ('not scorched, according to that instruction'); the verb is "
-               "printed काथयेत्, probably क्वाथयेत् (should boil). The print splits सम्यङ्मुक्त रसम्; it is read as one compound. "
-               "No question rests on these."),
+               "printed काथयेत्, probably क्वाथयेत् (should boil); no question rests on these two. The print splits सम्यङ्मुक्त रसम्; "
+               "it is read as one compound, the plain sense the pretest uses."),
     "explain_hi": ("दूध (क्षीर) आदि के साथ पकाया गया द्रव्य अपना रस भली-भाँति नहीं छोड़ता: यह कारण पहले आधे में है, ‘इति’ से बँधा। "
                    "इसलिए पहले जल का क्वाथ (वारि-क्वाथ) किया जाए, फिर दूध आदि के साथ क्वाथ किया जाए। "
                    "‘अनुपदग्ध’ का अर्थ है न जला हुआ; पूरा समास ‘तदुपदेशानुपदग्धम्’ अनिश्चित है। "
@@ -669,11 +668,11 @@ AUTHORED["36"] = {
               "क्षीर = milk; वारि = water; क्वाथ = decoction; पूर्वक = preceded by."),
         order(2, "Put the parts of unit 36 in the order of the text.",
               ["with milk and the like the rasa is not fully released", "therefore (इति)",
-               "first a decoction in water", "then boil it with milk and the like"],
+               "first a decoction in water", "then with milk and the like (क्षीराद्यैः)"],
               "Reason · इति · वारिक्वाथपूर्वकम् · क्षीराद्यैः … काथयेत्.",
               "Reason · so · water first · then milk.",
               role="extend",
-              teaches="Unit 36: because milk keeps the rasa from being released, a water decoction is made first, then the boiling with milk."),
+              teaches="Unit 36: because with milk and the like the rasa is not fully released, a water decoction comes first (वारिक्वाथपूर्वकम्), then milk and the like (क्षीराद्यैः)."),
         mcq("discriminate", 3, "What does इति after भवति mark in unit 36, by the card?",
             ("The reason for the next step",
              "The note: the first half gives the reason (इति, thus); then the instruction follows."),
@@ -683,7 +682,7 @@ AUTHORED["36"] = {
             "… भवति इति: 'it does not become …', thus (so) ….",
             "इति closes the reason."),
         mcq("apply", 4,
-            "A decoction with milk is wanted. What does unit 36 have done first?",
+            "A medicine is to be prepared with milk and the like. What does unit 36 have done first?",
             ("A decoction in water",
              "वारि-क्वाथ-पूर्वकम्: preceded by a decoction in water."),
             [("Soaking in milk overnight", "Overnight soaking is for śīta, line 05.08.42."),
@@ -851,7 +850,7 @@ AIDS = {
     },
     "33": {
         "chain": {"steps": ["विदारने योग्य को बारीक विदारकर", "काटने योग्य को काटकर", "जल से धोकर",
-                            "शुद्ध, लिपे बर्तन में डालकर", "रस छूटे उतना जल डाले", "और घटाए (सुखाए)"]},
+                            "शुद्ध, लिपे बर्तन में डालकर", "रस छूटे उतना जल डाले", "और सुखाए (यानी घटाए)"]},
         "diagram": {"groups": [{"label": "बर्तन: कोई एक", "items": ["ताम्र (ताँबा)", "अयस् (लोहा)", "मृन्मय (मिट्टी)"]},
                                {"label": "बर्तन कैसा", "items": ["शुचि (शुद्ध)", "रूखा", "नीचे से लिपा"]}]},
         "sandhi": "अ + उ → ओ: प्रक्षाल्य + उदकेन → प्रक्षाल्योदकेन; इ + औ → यौ: भेद्यानि + औषधानि → भेद्यान्यौषधानि।",
@@ -864,7 +863,7 @@ AIDS = {
         "pegs": "मेरा बनाया स्मरण-चित्र: चूल्हे के पास आराम से बैठा वैद्य, एक हाथ में करछी, आँखें बर्तन पर।",
     },
     "35": {
-        "chain": {"steps": ["आग से उतारकर", "भली-भाँति छानकर", "उचित स्पर्श होने पर", "प्रयोग करे"]},
+        "chain": {"steps": ["आग से उतारकर", "भली-भाँति छानकर", "उचित स्पर्श वाला", "प्रयोग करे"]},
         "anchors": "अवतार्य = उतारकर · सु = भली-भाँति · परिस्रुत = छना हुआ · यथार्ह = जैसा उचित · प्रयुञ्जीत = प्रयोग करे।",
         "sandhi": "आ + अ → आ: यथा + अर्ह → यथार्ह।",
     },
@@ -913,7 +912,7 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ('flowchart TD\n  A["बारीक विदारकर"] --> B["काटकर"]\n  B --> C["जल से धोकर"]\n'
                  '  C --> D["बर्तन में डालकर<br/>ताँबा, लोहा या मिट्टी"]\n'
-                 '  D --> E["रस छूटे<br/>उतना जल डाले"]\n  E --> F["घटाए (सुखाए)"]\n'),
+                 '  D --> E["रस छूटे<br/>उतना जल डाले"]\n  E --> F["सुखाए (यानी घटाए)"]\n'),
     },
     ("34", "chain"): {
         "file": "ka8-kvatha-paka-34.svg",
@@ -921,7 +920,7 @@ IMAGE_SPECS = {
                 "watching constantly from all sides; stirring with a ladle; with a gentle fire reaching all around; "
                 "he should prepare it"),
         "type": "chain",
-        "title": "इकाई ३४: क्वाथ पकाना",
+        "title": "इकाई ३४: क्वाथ पकाना (पाठ का क्रम)",
         "steps": ["आग पर रखकर", "बड़े आसन पर सुख से बैठा", "सब ओर लगातार देखता", "करछी से हिलाता",
                   "मृदु, चारों ओर फैली आग", "सिद्ध करे"],
     },
