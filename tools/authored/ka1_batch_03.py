@@ -67,14 +67,15 @@ AUTHORED["27"] = {
     "title": "फलपिप्पलीनां वा फलादिनिर्यूहेण",
     "question": "How does unit 27 prepare the fruit-pippalīs so that a delicate patient vomits easily?",
     "rule": ("Steep the fruit-pippalīs twenty-one times in a decoction of phala and the rest, dust with a pollen-fine powder, "
-             "keep (in a lotus) a night, powder again in the morning; the patient drinks to the neck, smells it and vomits easily."),
+             "keep (in a lotus) a night, powder again in the morning; the patient drinks to the neck, smelling, and vomits easily."),
     "limits": ("Low confidence. The placing in the lotus has no verb. The drink list (haridrā / kṛsarā, maybe one dish) "
-               "is unclear and not questioned; nor are the misprints sāyānhe, bṛhata, krasarā. What is smelt is not stated."),
+               "is unclear and not questioned; nor are the misprints sāyānhe, bṛhata, krasarā. What is smelt is not stated. "
+               "समुचितगन्धसम्पदुत्क्लिष्टकफपित्तः is read as one bahuvrīhi; it may be separate qualities."),
     "explain_hi": ("यह कोमल और दवा से घृणा करने वाले रोगी के लिए वमन की विधि है। "
                    "फल-पिप्पलियाँ फल आदि के काढ़े में इक्कीस बार भली-भाँति भावित की जाती हैं और फूल के पराग जैसे महीन चूर्ण से ढकी जाती हैं। "
                    "फिर वे सरोवर के बड़े कमल में रात भर रहती हैं (रखने की क्रिया पाठ में नहीं है), और प्रातः फिर चूर्ण लगाकर निकाली जाती हैं। "
                    "रोगी सेंधा नमक, गुड़ और फाणित यानी राब मिला एक पेय गले तक पीता है और सूँघता है। "
-                   "उचित सुगन्ध से उसके कफ-पित्त उभर आते हैं और वह सुख से वमन करता है।"),
+                   "लम्बे समास के एक पाठ के अनुसार उचित सुगन्ध से उसके कफ-पित्त उभर आते हैं (उसे अलग-अलग गुण भी पढ़ा जा सकता है), और वह सुख से वमन करता है।"),
     "hook": "इक्कीस बार भावित, कमल में रात भर, सुबह सूँघो: दवा से चिढ़ने वाला भी सुख से वमन करे।",
     "core": False,
     "questions": [
@@ -97,7 +98,7 @@ AUTHORED["27"] = {
               "एकविंशतिकृत्वः = 21 times; कुसुमरजःसदृश = pollen-like; आकण्ठम् = to the neck; उपजिघ्रन् = smelling.",
               role="extend",
               teaches="Unit 27: steeped twenty-one times (एकविंशतिकृत्वः), a pollen-fine powder, drunk up to the neck (आकण्ठम्), while smelling (उपजिघ्रन्)."),
-        multi("discriminate", 3, "Which two additions does unit 27 name for the drink?",
+        multi("discriminate", 3, "Which two of these additions does unit 27 name for the drink?",
               [("Rock salt (सैन्धव)", "Right: सैन्धवगुडफाणितोपेतम् names rock salt."),
                ("Honey (मधु)", "Wrong: honey is not named in this unit."),
                ("Jaggery (गुड)", "Right: गुड is named, with phāṇita."),
@@ -105,13 +106,13 @@ AUTHORED["27"] = {
               [0, 2],
               "The drink comes with rock salt, jaggery and phāṇita (thick cane-juice syrup).",
               "सैन्धव-गुड-फाणित-उपेत = with rock salt, jaggery and phāṇita added."),
-        mcq("apply", 4, "Why does the patient of unit 27 vomit easily, by the text?",
-            ("Fragrance stirs up his Kapha and Pitta", "समुचितगन्धसम्पदुत्क्लिष्टकफपित्तः = Kapha and Pitta stirred by fitting fragrance."),
-            [("A strong drug burns his stomach", "No burning or strong drug is named as the cause."),
-             ("He is made to fast for three days", "No fasting is named in this unit."),
-             ("A feather is pushed into his throat", "No feather or throat-touching is named here.")],
-            "The fitting abundance of fragrance stirs up (उत्क्लिष्ट) Kapha and Pitta, so he vomits easily (सुखेन).",
-            "गन्ध → उत्क्लिष्ट कफ-पित्त → सुखेन छर्दयति."),
+        mcq("apply", 4, "What is done with the steeped fruit-pippalīs in the morning, by unit 27?",
+            ("Powdered again, then taken out", "प्रभाते पुनरुपचूर्णितमुद्धृत्य = in the morning, powdered again and taken out."),
+            [("Boiled in milk and then strained", "No boiling or straining is named in this unit."),
+             ("Dried in the sun and then ground", "No sun-drying is named; they are powdered again (पुनरुपचूर्णित)."),
+             ("Burnt, and the ash kept aside", "No burning or ash is named in this unit.")],
+            "In the morning (प्रभाते) the pippalīs are powdered again (पुनर् उपचूर्णित) and taken out (उद्धृत्य).",
+            "प्रभाते पुनरुपचूर्णितमुद्धृत्य = in the morning, powdered again, taken out."),
         mcq("transfer", 5, "एकविंशतिकृत्वः means twenty-one times. What does a new word सप्तकृत्वः mean?",
             ("Seven times", "-कृत्वः after a number = so many times: सप्त + कृत्वः."),
             [("A seventh part", "A part would be सप्तम भाग, not -कृत्वः."),
@@ -390,7 +391,7 @@ AUTHORED["32"] = {
             ("Flowers take milk", "पुष्पेषु क्षीरम् is plain; the fruit pairings are the unclear part."),
             [("Hairy fruits take only curd", "Curd is not paired with hairy fruits; this pairing is not stated."),
              ("Flowers take the milk-film", "Santānikā is paired with fruits, not flowers."),
-             ("All fruits take plain milk", "Milk is for flowers; fruits take other liquids.")],
+             ("All fruits take plain milk", "Not in this unit: here milk is paired with the flowers, the fruits with other liquids.")],
             "The flower → milk pairing is certain; which fruits take peyā or santānikā is not.",
             "पुष्प → क्षीर (clear); फल → पेया / सन्तानिका (unclear pairing)."),
         mcq("transfer", 5, "पुष्पेषु (n. -अ stem) means in the flowers. Which new form means in the leaves, from पत्र?",
@@ -410,7 +411,8 @@ AUTHORED["33"] = {
     "question": "Which liquids does unit 33 give for the green and pale ones?",
     "rule": "In the green and pale (pāṇḍu) ones: milk or sour curd.",
     "limits": ("No verb, and the noun is unstated: 'ones' are probably the fruits of line 05.01.34. "
-               "दध्यम्लम् may be 'sour curd' or 'sourness of curd'; sour curd is chosen. Pāṇḍu here = pale (not 'yellow')."),
+               "दध्यम्लम् may be 'sour curd' or 'sourness of curd'; sour curd is chosen. Pāṇḍu: the data says pale-yellow; "
+               "the glossary prefers 'pale' (open)."),
     "explain_hi": ("पिछली इकाई की तरह यहाँ भी द्रव बताया गया है, अब हरे और पाण्डु (फीके) रंग वालों के लिए। "
                    "संज्ञा नहीं दी गई; सम्भवतः ये पिछली पंक्ति के फल हैं। "
                    "द्रव: दूध या खट्टा दही। "
@@ -536,7 +538,7 @@ AUTHORED["35"] = {
         mcq("pretest", 0, "In which condition does unit 35 give the jīmūtaka-fruit powder?",
             ("In vātapitta", "वातपित्ते = in Vāta and Pitta together."),
             [("In Kapha alone", "Kapha is not named in this unit."),
-             ("In pitta-born fever", "That fever is named in line 05.01.38."),
+             ("In pitta-born fever", "Pitta-born is line 05.01.39 (Pitta-Kapha fever line 05.01.38); here it is vātapitta."),
              ("In hiccup and fever", "These are named in line 05.01.33.")],
             "The unit ends with वातपित्ते: the joint Vāta-Pitta condition.",
             "वातपित्ते = in Vāta and Pitta together."),
@@ -580,7 +582,7 @@ AUTHORED["35"] = {
 AUTHORED["36"] = {
     "title": "द्वित्राणि वा सम्पोथ्य",
     "question": "How does unit 36 prepare two or three (fruits), and in which fever is it given?",
-    "rule": ("Two or three, crushed, steeped in the decoction of any one of the fresh ones beginning with āragvadha, "
+    "rule": ("Two or three, crushed, steeped in the decoction of any one of the (fresh or nine) ones beginning with āragvadha, "
              "or of paṭolī, and churned: in fever born of Pitta and Kapha."),
     "limits": ("What is crushed is not named (probably jīmūtaka fruits, line 05.01.37). नवानाम् may be 'fresh' or 'nine' "
                "(open); आसुत (steeped) is unsure; द्वित्राणि is a flagged print form. None of these is questioned. "
@@ -601,8 +603,8 @@ AUTHORED["36"] = {
             "पित्त + श्लेष्म + ज = born of Pitta and phlegm (Kapha).",
             "पित्तश्लेष्मज ज्वर = fever of Pitta and Kapha."),
         order(1, "Put the steps of unit 36 in the order of the text.",
-              ["सम्पोथ्य (कूटकर)", "निर्यूहेण आसुतानि (काढ़े में भिगोए)", "मथित्वा (मथकर)", "पित्तश्लेष्मजे ज्वरे"],
-              "Crush, steep in the decoction, churn; then the fever it is for.",
+              ["सम्पोथ्य (कूटकर)", "निर्यूहेणासुतानि", "मथित्वा (मथकर)", "पित्तश्लेष्मजे ज्वरे"],
+              "Crush, (put) in the decoction (आसुत), churn; then the fever it is for.",
               "सम्पोथ्य → निर्यूहेणासुतानि → मथित्वा → पित्तश्लेष्मजे ज्वरे."),
         match(2, "Match each word of unit 36 to its meaning in the card.",
               [["आरग्वध", "golden shower tree (standard)"], ["पटोली", "pointed gourd (standard)"],
@@ -616,13 +618,13 @@ AUTHORED["36"] = {
             [("निर्यूहे + नासुतानि", "There is no word नासुत; the ण ends निर्यूहेण (instrumental)."),
              ("निर्यूहेणः + आसुतानि", "There is no form निर्यूहेणः; the instrumental is निर्यूहेण."),
              ("निर्यूहेणे + आसुतानि", "ए + आ would give अया, not आ.")],
-            "निर्यूहेण (with the decoction, instr.) + आसुतानि (steeped): अ + आ → आ.",
+            "निर्यूहेण (with the decoction, instr.) + आसुतानि (steeped; sense unsure): अ + आ → आ.",
             "अ + आ → आ."),
         mcq("apply", 4, "The helper has paṭolī but no āragvadha. What does unit 36 allow?",
-            ("Steep them in paṭolī decoction", "पटोल्या वा निर्यूहेण = or with the decoction of paṭolī."),
-            [("Steep them in plain cold water", "Plain water is not named in this unit."),
-             ("Skip steeping and only churn", "Steeping comes before churning; it is not dropped."),
-             ("Steep them in surā liquor", "Surā is named in line 05.01.36, not here.")],
+            ("Use the decoction of paṭolī", "पटोल्या वा निर्यूहेण = or with the decoction of paṭolī."),
+            [("Use plain cold water instead", "Plain water is not named in this unit."),
+             ("Leave out the decoction", "A decoction is required; paṭolī's is the named alternative."),
+             ("Use surā liquor instead", "Surā is named in line 05.01.36, not here.")],
             "वा (or) offers paṭolī's decoction in place of one of the āragvadha group.",
             "आरग्वधादि … पटोल्या वा = āragvadha group, or paṭolī."),
         mcq("transfer", 5, "सम्पोथ्य (with a prefix) ends in -य, मथित्वा (no prefix) in -त्वा. Which new form means having taken out, from उद् + √हृ?",
@@ -696,7 +698,7 @@ AUTHORED["37"] = {
 # ---------------------------------------------------------------- unit 38
 AUTHORED["38"] = {
     "title": "जीवकर्षभकेक्षुशतावरीणाम्",
-    "question": "With the juice of which drugs does unit 38 give jīmūtaka in what is born of Pitta?",
+    "question": "With the juice of which drugs does unit 38 give its preparation in what is born of Pitta?",
     "rule": ("Or with the expressed juice (svarasa) of any one of jīvaka, ṛṣabhaka, ikṣu (sugarcane) and śatāvarī "
              "(wild asparagus), in what is born of Pitta."),
     "limits": ("The unit continues line 05.01.39; the drug given with the juice is not repeated. IDs: ikṣu, śatāvarī standard; "
@@ -757,11 +759,12 @@ AUTHORED["39"] = {
     "question": "What further preparation does unit 39 add?",
     "rule": "Or ghee cooked as before (pūrvavat).",
     "limits": ("Which earlier preparation 'as before' means is not stated. The print reads पूर्ववद्धृतं; the data reads it as "
-               "पूर्ववत् + घृतम् (ghee), though त् + घ would usually be written द्घ; the split is not questioned. No drug or dose is named."),
+               "पूर्ववत् + घृतम् (ghee; द्ध probably printed for द्घ). A split पूर्ववत् + हृतम् is grammatically possible but "
+               "not the data's reading. No drug or dose is named."),
     "explain_hi": ("यह छोटी इकाई एक और विकल्प जोड़ती है: पहले की भाँति सिद्ध किया (पकाया) हुआ घृत। "
                    "‘पूर्ववत्’ का अर्थ है पहले की तरह; कौन-सी पिछली विधि, यह यहाँ नहीं कहा गया। "
                    "‘सिद्ध’ का अर्थ है पकाया हुआ, तैयार। "
-                   "छपा रूप ‘पूर्ववद्धृतं’ है; उसे पूर्ववत् + घृतम् पढ़ा गया है, पर यह विभाजन पूरी तरह साफ़ नहीं।"),
+                   "छपा रूप ‘पूर्ववद्धृतं’ है; डेटा उसे पूर्ववत् + घृतम् पढ़ता है (सम्भवतः द्घ की जगह द्ध छपा)।"),
     "hook": "पहले जैसा पकाया घी: एक और रास्ता।",
     "core": False,
     "questions": [
@@ -849,8 +852,8 @@ NOTES_HI = {
            "सन्धि जाँची: जीवकर्षभक = जीवक + ऋषभक (अ + ऋ → अर्); ऋषभकेक्षु = ऋषभक + इक्षु (अ + इ → ए); …शतावरीणामन्यतमस्य = …णाम् + अन्यतमस्य। "
            "जीवक, ऋषभक जीवनीय-गण में भी आते हैं (पंक्ति 05.01.61)।"),
     "39": ("विश्वास: उच्च (डेटा)। ‘पूर्ववत्’ किस पिछली विधि की ओर है, यह नहीं कहा। "
-           "छपा ‘पूर्ववद्धृतं’ डेटा में पूर्ववत् + घृतम् पढ़ा गया; नियम से त् + घ = द्घ लिखा जाता, जबकि द्ध त् + ह से बनता है (पूर्ववत् + हृतम्)। "
-           "इसलिए यह विभाजन या छपाई सन्दिग्ध है; इस पर प्रश्न नहीं बना।"),
+           "छपा ‘पूर्ववद्धृतं’ डेटा में पूर्ववत् + घृतम् पढ़ा गया (सम्भवतः द्घ की जगह द्ध छपा); नियम से द्ध त् + ह से भी बन सकता है (पूर्ववत् + हृतम्), "
+           "पर डेटा का पाठ घृत है और प्रश्न उसी पर हैं। डेटा में इसका text_flag होना चाहिए (रिपोर्ट किया)।"),
 }
 
 
@@ -907,7 +910,7 @@ AIDS = {
         "anchors": "पर्यागत = पूरा पका · जीर्ण = पुराना · शुष्क = सूखा · चूर्ण = पाउडर।",
     },
     "36": {
-        "chain": {"steps": ["दो-तीन को कूटे (सम्पोथ्य)", "आरग्वध आदि में से एक या पटोली के काढ़े में भिगोए",
+        "chain": {"steps": ["दो-तीन को कूटे (सम्पोथ्य)", "आरग्वध आदि में से एक या पटोली के काढ़े में आसुत (भाव अनिश्चित)",
                             "मथे (मथित्वा)", "पित्त-कफ ज्वर में"]},
         "contrast": "उपसर्ग के बिना: मथित्वा (-त्वा) · उपसर्ग के साथ: सम्पोथ्य (-य)।",
         "anchors": "सम्पोथ्य = कूटकर · आसुत = भिगोया (अर्थ अनिश्चित) · मथित्वा = मथकर · आरग्वध = अमलतास · पटोली = परवल।",
@@ -938,7 +941,7 @@ IMAGE_SPECS = {
                 "decoction of either nimba or arka, removing all kapha ailments arising from satiation"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["फल-मज्जा का क्वाथ"] --> B["वत्सक आदि का प्रतिवाप"]\n'
-                 '  B --> C["नीम या आक<br/>किसी एक का काढ़ा"]\n  C --> D["संतर्पण से उपजे<br/>सब कफ-रोग दूर"]\n'),
+                 '  B --> C["नीम या आक में से एक"]\n  C --> D["संतर्पण के कफ-रोग दूर"]\n'),
     },
     ("27", "chain"): {
         "file": "ka1-lotus-fragrance-27.svg",
@@ -949,7 +952,7 @@ IMAGE_SPECS = {
         "steps": ["इक्कीस बार भावित", "पराग जैसा चूर्ण", "कमल में रात भर", "सुबह फिर चूर्ण, निकाले",
                   "गले तक पीकर सूँघे", "सुख से वमन"],
     },
-    ("32", "frame"): {
+    ("32", "diagram"): {
         "file": "ka1-part-liquid-32.svg",
         "alt": ("Table of unit 32: flowers take milk; fruits take peya or santanika, the pairing being unclear; hairless fruits "
                 "take curd or the upper part of curd"),
@@ -960,8 +963,7 @@ IMAGE_SPECS = {
     },
     ("34", "diagram"): {
         "file": "ka1-sura-conditions-34.svg",
-        "alt": ("Mind map of unit 34: sura mixed with its decoction, used in kapha, arocaka, kasa, pandu disease and yakshman, "
-                "in text order"),
+        "alt": ("Mind map of unit 34: sura mixed with its decoction, used in kapha, arocaka, kasa, pandu disease and yakshman"),
         "type": "mermaid",
         "code": ("mindmap\n  काढ़ा मिली सुरा\n    कफ\n    अरोचक\n    कास\n    पाण्डुरोग\n    यक्ष्मन्\n"),
     },
@@ -970,8 +972,8 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 36: two or three crushed, steeped in the decoction of one of the aragvadha group or of patoli, "
                 "churned, and given in fever born of pitta and kapha"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["दो-तीन कूटे"] --> B["आरग्वध आदि में से<br/>एक का काढ़ा"]\n'
-                 '  A --> C["या पटोली का काढ़ा"]\n  B --> D["भिगोकर मथे"]\n  C --> D\n'
+        "code": ('flowchart TD\n  A["दो-तीन कूटे"] --> B["आरग्वध आदि में से एक"]\n'
+                 '  A --> C["या पटोली का काढ़ा"]\n  B --> D["आसुत करके मथे"]\n  C --> D\n'
                  '  D --> E["पित्त-कफ ज्वर में"]\n'),
     },
     ("37", "seesaw"): {
@@ -984,8 +986,7 @@ IMAGE_SPECS = {
     },
     ("38", "diagram"): {
         "file": "ka1-four-juices-38.svg",
-        "alt": ("Mind map of unit 38: the expressed juice of any one of jivaka, rishabhaka, ikshu and shatavari, in text order, "
-                "for what is born of pitta"),
+        "alt": ("Mind map of unit 38: the expressed juice of any one of jivaka, rishabhaka, ikshu (sugarcane) and shatavari"),
         "type": "mermaid",
         "code": ("mindmap\n  किसी एक का स्वरस\n    जीवक\n    ऋषभक\n    इक्षु यानी गन्ना\n    शतावरी\n"),
     },
