@@ -14,13 +14,13 @@ AUTHORED["26"] = {
     "question": "By unit 26, what is the combined constitution, and who has the equal-doṣa constitution?",
     "rule": ("When the marks of both are mixed (उभयलक्षणसंकरे), it is the one made by combination (संसर्गकृतिः); one "
              "endowed with all the qualities (सर्वगुणसमुदितः) is of equal-doṣa constitution (समदोषप्रकृतिः)."),
-    "limits": ("Prose, two printed lines joined, no verb. The noun prakṛti is not printed with संसर्गकृतिः. 'Both' = two "
-               "of the three doṣas, and 'all the qualities' = the marks of all three doṣas together (not 'all good "
-               "qualities'): both are the data's readings, and no question asks what they cover."),
+    "limits": ("Prose, no verb; prakṛti is not printed with संसर्गकृतिः. 'Both' = two "
+               "of the three doṣas, and 'all the qualities' = the marks of all three doṣas together (not necessarily 'all "
+               "good qualities'): the data's readings; no question asks what they cover."),
     "explain_hi": ("यह इकाई कफ-प्रकृति के बाद बाकी प्रकृतियों को बताती है; दो छपी पंक्तियाँ जोड़ी गई हैं। "
                    "जब दोनों के लक्षण मिल जाएँ (उभयलक्षणसंकरे), तब संसर्ग से बनी प्रकृति (संसर्गकृतिः) होती है; ‘दोनों’ यानी तीन में से दो दोष, यह डेटा की व्याख्या है। "
                    "जो सब गुणों से युक्त हो (सर्वगुणसमुदितः), वह समदोष-प्रकृति वाला है, यानी तीनों दोष सम। "
-                   "‘सब गुण’ का अर्थ यहाँ तीनों दोषों के लक्षण एक साथ है, ‘सब अच्छे गुण’ नहीं। "
+                   "डेटा ‘सब गुण’ को तीनों दोषों के लक्षण एक साथ पढ़ता है, ज़रूरी नहीं कि ‘सब अच्छे गुण’। "
                    "पंक्तियों में कोई क्रिया नहीं; ‘होता है’ समझा जाता है।"),
     "hook": "दो के लक्षण मिलें तो संसर्ग; सबके गुण हों तो समदोष।",
     "core": True,
@@ -119,7 +119,7 @@ AUTHORED["27"] = {
             ("बालास्तिष्ठन्ति", "Visarga before त becomes स्: बालाः + तिष्ठन्ति → बालास्तिष्ठन्ति."),
             [("बाला तिष्ठन्ति", "आः drops its visarga only before a voiced sound; त is voiceless."),
              ("बालाश्तिष्ठन्ति", "श् comes before च, छ or श, not before त."),
-             ("बालार्तिष्ठन्ति", "र् comes from a visarga after a vowel other than अ/आ, not here.")],
+             ("बालार्तिष्ठन्ति", "र् comes from a visarga after a vowel other than अ/आ before a voiced sound; here the vowel is आ and त is voiceless.")],
             "बालाः + तिष्ठन्ति = बालास्तिष्ठन्ति, like आद्याः + त्रयः = आद्यास्त्रयः.",
             "ः + त → स्त.",
             teaches="A visarga before त or थ becomes स्: आद्याः + त्रयः → आद्यास्त्रयः."),
@@ -180,7 +180,7 @@ AUTHORED["28"] = {
             ("रामश्च", "Visarga before च becomes श्: रामः + च → रामश्च."),
             [("रामो च", "ओ arises before a voiced consonant; च is voiceless."),
              ("रामस्च", "स् comes before त or थ, not before च."),
-             ("रामर्च", "र् arises after a vowel other than अ/आ; here the vowel is अ.")],
+             ("रामर्च", "र् arises from a visarga after a vowel other than अ/आ before a voiced sound; here the vowel is अ and च is voiceless.")],
             "रामः + च = रामश्च, like विशेषतः + च = विशेषतश्च.",
             "ः + च → श्च.",
             teaches="A visarga before च or छ becomes श्: विशेषतः + च → विशेषतश्च."),
@@ -196,7 +196,7 @@ AUTHORED["29"] = {
     "limits": ("Low confidence. The printed अवारोग्य is no known word; अनारोग्य (ill-health) is a conjecture: no question "
                "on it. How the two locatives join is not sure: no question on that. The join ष्व holds on either "
                "reading."),
-    "explain_hi": ("क्योंकि (हि) उनमें, जो गुणों के मिश्रण से विकार करने वाले हैं, भूख-प्यास आदि में, अनारोग्य का नाम दिया जाता है। "
+    "explain_hi": ("क्योंकि (हि) उनमें, जो गुणों के मिश्रण से विकार करने वाले हैं, भूख-प्यास आदि में, अनुमानित पाठ पर, अनारोग्य का नाम दिया जाता है। "
                    "छपा ‘अवारोग्य’ कोई ज्ञात शब्द नहीं; ‘अनारोग्य’ (अस्वास्थ्य) अनुमानित पाठ है, इसलिए उस पर प्रश्न नहीं। "
                    "दोनों सप्तमी पद (तेषु ... कारिषु और क्षुत्पिपासादिषु) कैसे जुड़ते हैं, यह भी निश्चित नहीं। "
                    "पक्के अंश: तेषु (उनमें), हि (क्योंकि), गुण-मिश्र-विकार-कारिन् (मिले गुणों से विकार करने वाले), क्षुत्-पिपासा (भूख और प्यास)। "
@@ -252,11 +252,11 @@ AUTHORED["30"] = {
     "question": "By unit 30, how should they be treated, and where is the method said to be stated?",
     "rule": ("Therefore (तस्मात्) one should treat them (तान् उपाचरेत्) with a method of opposite qualities "
              "(विपरीतगुणेन विधिना), as stated in the Doṣopakramaṇīya (दोषोपक्रमणीयोक्तेन)."),
-    "limits": ("Prose. 'Them' is not named here; the data reads it as the constitutions of the units before. That "
-               "Doṣopakramaṇīya is the title of an earlier chapter on treating the doṣas is probable, not certain. No "
-               "medicine, food or dose is named, and the card adds none."),
+    "limits": ("'Them' is not named; the data reads the constitutions of the units before; तान् is masculine, so persons of "
+               "those constitutions. Doṣopakramaṇīya as an earlier chapter title is probable. No medicine, food or dose "
+               "is named."),
     "explain_hi": ("इसलिए (तस्मात्) उनका उपचार (तान् उपाचरेत्) विपरीत गुणों वाली विधि से करना चाहिए, जैसी दोषोपक्रमणीय में कही गई है। "
-                   "‘उनका’ किनका, यह यहाँ छपा नहीं; डेटा इसे पिछली इकाइयों की प्रकृतियाँ मानता है। "
+                   "‘उनका’ किनका, यह यहाँ छपा नहीं; डेटा इसे पिछली इकाइयों की प्रकृतियाँ मानता है; ‘तान्’ पुल्लिंग है, इसलिए उन प्रकृतियों वाले व्यक्ति। "
                    "दोषोपक्रमणीय सम्भवतः दोषों के उपचार वाले किसी पिछले अध्याय का नाम है (सम्भावित)। "
                    "कोई औषध, आहार या मात्रा नहीं बताई गई। "
                    "‘उपाचरेत्’ विधिलिङ् है: उपचार करना चाहिए।"),
@@ -367,8 +367,8 @@ AUTHORED["31"] = {
 # ---------------------------------------------------------------- unit 32
 AUTHORED["32"] = {
     "title": "तास्तदभिनिवृत्तैरेव यथोक्तैः",
-    "question": "By unit 32, by what should one know the constitutions?",
-    "rule": ("One should know them (ताः जानीयात्) by cleanliness (शौच) and the like, as stated (यथोक्तैः), arisen "
+    "question": "By unit 32, by what should one know them (ताः, taken as the constitutions)?",
+    "rule": ("One should know them (ताः, taken as the constitutions) by cleanliness (शौच) and the like, as stated (यथोक्तैः), arisen "
              "only from them (तदभिनिवृत्तैः एव)."),
     "limits": ("Prose. 'Them' (ताः, f. pl.) is assumed to be the constitutions of unit 31; no antecedent is printed. 'As "
                "stated' points to a description not given here, and the items after śauca are not named: no question "
@@ -432,7 +432,7 @@ AUTHORED["33"] = {
     "limits": ("Prose, no verb. The printed सम is read सप्त (seven) on a conjecture the data calls well supported; no "
                "question rests on the word itself. जाति could be caste, species or birth-class ('birth-class' is the "
                "data's choice): no question on its sense."),
-    "explain_hi": ("उसी प्रकार फिर प्रकृतियाँ सात आधारों पर टिकी हैं: जाति, कुल, देश, काल, वय, बल और प्रत्यात्म (प्रत्येक व्यक्ति)। "
+    "explain_hi": ("उसी प्रकार फिर (अनुमानित पाठ ‘सप्त’ पर सात) प्रकृतियाँ इन आधारों पर टिकी हैं: जाति, कुल, देश, काल, वय, बल और प्रत्यात्म (प्रत्येक व्यक्ति)। "
                    "छपा ‘सम’ डेटा ‘सप्त’ (सात) पढ़ता है; यह अनुमान है, पर सात आधार इसी पंक्ति में गिने हैं, इसलिए अच्छा समर्थित है। "
                    "जाति का अर्थ वर्ण, प्रजाति या जन्म-वर्ग हो सकता है; डेटा ‘जन्म-वर्ग’ लेता है, इस पर प्रश्न नहीं। "
                    "‘प्रकृतयोजाति’ में अः + घोष व्यंजन ज → ओ, और ‘वयोबल’ में वयस् का अस् घोष व्यंजन ब से पहले ओ बना है। "
@@ -457,13 +457,13 @@ AUTHORED["33"] = {
               "कुल = family, देश = region, काल = time, बल = strength, प्रत्यात्म = each individual, संश्रय = basis.",
               "कुल, देश, काल, बल, प्रत्यात्म, संश्रय.", role="extend",
               teaches="-संश्रयाः at the end of the compound means 'resting on': the constitutions rest on these seven bases."),
-        mcq("discriminate", 3, "Why is प्रकृतयः printed प्रकृतयो before जाति in unit 33?",
-            ("अः before a voiced consonant → ओ", "ज is a voiced consonant: प्रकृतयः + जाति- → प्रकृतयो जाति-."),
-            [("अः before any consonant → ओ", "Not any: before a voiceless one such as त it gives स्."),
-             ("आः before a voiced consonant → ओ", "आः drops its visarga; besides, the vowel here is अ."),
-             ("ओ is the plural's own ending", "The nominative plural is प्रकृतयः; ओ comes only from sandhi.")],
-            "प्रकृतयः + जाति-: अः before the voiced consonant ज → ओ.",
-            "अः + voiced consonant → ओ."),
+        mcq("discriminate", 3, "Which split of प्रत्यात्म in unit 33 is right?",
+            ("प्रति + आत्म", "इ before a different vowel → य्: प्रति + आत्म → प्रत्यात्म."),
+            [("प्रत्य + आत्म", "प्रत्य is not a word; the prefix is प्रति, whose इ becomes य्."),
+             ("प्रत्यात् + म", "Neither प्रत्यात् nor म fits; the parts are प्रति and आत्म."),
+             ("प्रती + आत्म", "प्रती is not the prefix; it is प्रति.")],
+            "प्रति (each) + आत्म (self): each individual.",
+            "इ + unlike vowel → य्."),
         mcq("apply", 4, "In वयोबल of unit 33, which split is right?",
             ("वयस् + बल", "-अस् before the voiced consonant ब → -ओ: वयस् + बल → वयोबल."),
             [("वय + उबल", "उबल is not a word; the ओ comes from -अस्."),
@@ -494,7 +494,7 @@ AUTHORED["34"] = {
                "spelt out in unit 35; this card keeps to this unit's words."),
     "explain_hi": ("क्योंकि पुरुषों में जाति आदि से निश्चित वे-वे भाव-विशेष दिखाई देते हैं। "
                    "फिर तीन कारणों से भेद अगणित (असंख्येय) हो जाते हैं: सात आदि का कम-अधिक (तरतम) योग, शरीर की विशेषताएँ, और दूसरे का अनुसरण (अन्यानुविधान)। "
-                   "‘सात आदि’ यानी इकाई ३३ के सात आधार और सम्भवतः उनके मेल (डेटा का संकेत)। "
+                   "‘सात आदि’ यानी इकाई ३३ की सात प्रकृतियाँ और सम्भवतः उनके मेल (डेटा का संकेत)। "
                    "‘भेदाग्रम्’ (भेदों का विस्तार) सबसे कम पक्का शब्द है, इस पर प्रश्न नहीं। "
                    "‘तरतमयोगाच्छरीर’ में त् + श → च्श होता है, श के बाद स्वर हो तो वैकल्पिक रूप से च्छ, जो यहाँ छपा है।"),
     "hook": "तरतम योग, शरीर-भेद, अनुसरण: भेद असंख्य।",
@@ -508,9 +508,9 @@ AUTHORED["34"] = {
             "असंख्येयम् = countless.",
             "असंख्येय = countless."),
         order(1, "Put these parts of unit 34 in the printed order.",
-              ["सप्तादीनां तरतमयोगात्", "शरीरविशेषेभ्यः", "अन्यानुविधानत्वात्", "असंख्येयं भवति"],
+              ["सप्तादीनां च तरतमयोगात्", "शरीरविशेषेभ्यः", "अन्यानुविधानत्वात्", "असंख्येयं भवति"],
               "By graded combination of the seven and the rest; by differences of body; by conformity to another; becomes countless.",
-              "तरतमयोगात् → शरीरविशेषेभ्यः → अन्यानुविधानत्वात् → असंख्येयं भवति."),
+              "सप्तादीनां च तरतमयोगात् → शरीरविशेषेभ्यः → अन्यानुविधानत्वात् → असंख्येयं भवति."),
         match(2, "Match each phrase of unit 34 to its meaning.",
               [["तरतम", "more and most (by degrees)"], ["शरीरविशेष", "differences of body"],
                ["अनुविधान", "conformity, following"], ["भावविशेष", "particular states"], ["नियत", "fixed, determined"]],
@@ -594,7 +594,7 @@ AUTHORED["35"] = {
             "Mutual conformity."),
         mcq("transfer", 5, "By the pattern of सत्त्वादयः + अपि → सत्त्वादयोऽपि, how is रामः + अपि joined in a new example?",
             ("रामोऽपि", "अः + अ → ओऽ: रामः + अपि → रामोऽपि."),
-            [("रामरपि", "र् comes after a vowel other than अ/आ; here the vowel is अ."),
+            [("रामरपि", "र् comes from a visarga after a vowel other than अ/आ before a voiced sound; here the vowel is अ."),
              ("रामाऽपि", "आ has no source here; अः + अ gives ओऽ."),
              ("रामश्पि", "श् comes before च, छ or श, not before a vowel.")],
             "रामः + अपि = रामोऽपि, like सत्त्वादयः + अपि = सत्त्वादयोऽपि.",
@@ -606,32 +606,33 @@ AUTHORED["35"] = {
 # ---------------------------------------------------------------- unit 36
 AUTHORED["36"] = {
     "title": "तदावेशस्त्वनंतरजन्माभ्यासवास नया जन्यते",
-    "question": "By unit 36, what produces 'that entry', and which beings are named for examining?",
+    "question": "By unit 36, what produces 'that entry', and what should one examine?",
     "rule": ("The entry into that (तदावेशः) is produced (जन्यते) by the latent impression (वासना) of practice in the "
              "immediately preceding birth; therefore one should examine (अन्वीक्षेत) the anūka of the person, with "
-             "humans, animals, departed spirits and hell-beings named."),
-    "limits": ("Low confidence; the unit's sense is not firm. अनूक (lineage? inherited trait?) and tad-āveśa ('entry "
-               "into that state') are uncertain: no question on either. The genitive list joins पुरुषस्य loosely. "
-               "वास नया is a spacing error for वासनया."),
+             "animals, departed spirits and hell-beings among the beings named."),
+    "limits": ("Low confidence. अनूक (lineage? inherited trait?) and tad-āveśa ('entry "
+               "into that state') are uncertain: no question on either. "
+               "वास नया is a spacing error for वासनया. तस्मादेवमानुष- is read तस्मात् एव मानुष- (data); no question rests on that "
+               "reading."),
     "explain_hi": ("उसमें प्रवेश (तदावेशः) तुरन्त पिछले जन्म के अभ्यास की वासना (संस्कार) से उत्पन्न होता है (जन्यते)। "
-                   "इसीलिए मनुष्य, तिर्यक् (पशु-पक्षी), प्रेत और नारकी जीवों के, और उनके उन-उन भेदों के, पुरुष के ‘अनूक’ को यथोचित रूप से देखना चाहिए (अन्वीक्षेत)। "
+                   "इसीलिए (डेटा के पाठ ‘तस्मात् एव मानुष-’ पर) मनुष्य, तिर्यक् (पशु-पक्षी), प्रेत और नारकी जीवों के, और उनके उन-उन भेदों के, पुरुष के ‘अनूक’ को यथोचित रूप से देखना चाहिए (अन्वीक्षेत)। "
                    "‘अनूक’ का अर्थ अस्पष्ट है (वंश? पैतृक लक्षण?), और ‘तदावेश’ भी केवल एक व्याख्या है; पूरी इकाई का भाव पक्का नहीं, इसलिए प्रश्न केवल पक्के शब्दों पर हैं। "
                    "छपा ‘वास नया’ एक ही शब्द ‘वासनया’ है, बीच में भूल से जगह छूटी है। "
                    "‘तदावेशस्त्व-’ में तदावेशः + तु (त से पहले विसर्ग → स्) और तु + अनन्तर (उ + अ → व्) की सन्धियाँ हैं।"),
-    "hook": "पिछले जन्म की वासना: मनुष्य, तिर्यक्, प्रेत, नारक सबमें देखो।",
+    "hook": "पिछले जन्म की वासना: तिर्यक्, प्रेत, नारक, सबमें देखो।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In the list of beings in unit 36, what does तिर्यक् denote?",
             ("Animals", "तिर्यक् = animals (standard sense)."),
-            [("Humans", "Humans are मानुष, the item before तिर्यक्."),
+            [("Humans", "Humans would be मनुष्य or मानव; तिर्यक् names animals."),
              ("Departed spirits", "Departed spirits are प्रेत, the item after तिर्यक्."),
              ("Hell-beings", "Hell-beings are नारक, the last item.")],
-            "मानुष, तिर्यक् (animals), प्रेत, नारक.",
+            "तिर्यक् = animals; प्रेत and नारक follow.",
             "तिर्यक् = animal."),
-        order(1, "Put the beings named in unit 36 in the printed order.",
-              ["मानुष", "तिर्यक्", "प्रेत", "नारक"],
-              "Humans; animals; departed spirits; hell-beings.",
-              "मानुष → तिर्यक् → प्रेत → नारक."),
+        order(1, "Put these printed words of unit 36 in the printed order.",
+              ["जन्यते", "तिर्यक्", "प्रेत", "नारक", "अन्वीक्षेत"],
+              "Is produced; animals; departed spirits; hell-beings; should examine.",
+              "जन्यते → तिर्यक् → प्रेत → नारक → अन्वीक्षेत."),
         match(2, "Match each sure word of unit 36 to its meaning.",
               [["अभ्यास", "practice"], ["वासना", "latent impression"], ["जन्म", "birth"], ["जन्यते", "is produced"],
                ["अन्वीक्षेत", "should examine"]],
@@ -642,7 +643,7 @@ AUTHORED["36"] = {
             ("One word, वासनया, with a stray space", "A spacing error: वासनया is the instrumental of वासना."),
             [("Two words, वासः and नया", "नया is no Sanskrit word here; the two halves make वासनया."),
              ("Two words, वास and अनया", "वास + अनया would join as वासानया, not the print."),
-             ("Two words, वासे and नया", "No वासे is printed, and नया is no word here.")],
+             ("One word, वासनया, a locative", "वासनया is the instrumental of वासना (by the impression), not a locative.")],
             "वास नया = वासनया (by the latent impression), printed with a space.",
             "A space inside a word is a print slip."),
         mcq("apply", 4, "In unit 36, what does अन्वीक्षेत ask of the reader?",
@@ -846,7 +847,7 @@ AIDS = {
                    "यथायथमेवानूकं | पुरुषस्यान्वीक्षेत"),
         "sandhi": ("त से पहले विसर्ग → स्: तदावेशः + तु → तदावेशस्तु · उ + भिन्न स्वर → व्: तु + अनन्तर → त्वनन्तर · अ + अ → आ: "
                    "पुरुषस्य + अन्वीक्षेत → पुरुषस्यान्वीक्षेत।"),
-        "anchors": "पक्का: पिछले जन्म के अभ्यास की वासना; मनुष्य, तिर्यक्, प्रेत, नारक; अन्वीक्षेत। अस्पष्ट: अनूक, तदावेश। (मेरी याद-पद्धति)",
+        "anchors": "पक्का: पिछले जन्म के अभ्यास की वासना; तिर्यक्, प्रेत, नारक; अन्वीक्षेत। अस्पष्ट: अनूक, तदावेश, ‘तस्मादेवमानुष-’ का पाठ। (मेरी याद-पद्धति)",
     },
     "37": {
         "chain": {"steps": ["वयस्त्रिविधं: वय तीन प्रकार का", "१ बाल", "२ मध्य", "३ वृद्ध"]},
@@ -872,8 +873,8 @@ IMAGE_SPECS = {
                 "especially, the dual constitutions (card 28)."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"नित्यातुर: सदा रोगी\"] --> B[\"आद्याः त्रयः: कार्ड २७\"]\n"
-                 "  A --> C[\"विशेषतः: कार्ड २८\"]\n"
+                 "  A[\"नित्यातुराः (कार्ड २७ से, २८ में समझा गया)\"] --> B[\"आद्याः त्रयः (कार्ड २७)\"]\n"
+                 "  A --> C[\"विशेषतः (कार्ड २८)\"]\n"
                  "  C --> D[\"द्वन्द्व प्रकृतियाँ\"]\n"),
     },
     ("30", "chain"): {
