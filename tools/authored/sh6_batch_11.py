@@ -69,7 +69,8 @@ AUTHORED["130"] = {
     "title": "बाह्येनापि च ज्वालांगारात्मकेनाग्निना",
     "question": "By unit 130, why must the agni within be protected with effort?",
     "rule": ("Even with outer fire of flame and embers (ज्वालाङ्गारात्मक), cooking is not always of one form (नैकाकारः सर्वदा पाकः); "
-             "how much more (किमुत) with the heat lodged within (अन्तराश्रय). So guard it with effort (प्रयत्नतो रक्षेत्)."),
+             "how much more (किमुत) with what is lodged within (अन्तराश्रय; 'heat' is the data's conjecture ऊष्मणा). "
+             "So guard it with effort (प्रयत्नतो रक्षेत्)."),
     "limits": ("Prose, one printed line. The printed ष्ममना is not a word; ऊष्मणा ('by heat') is the data's conjecture, so no "
                "question rests on that word. 'It' (तम्) is read as the agni. The line gives no method of protection here."),
     "explain_hi": ("यह पंक्ति एक तर्क देती है: ज्वाला और अंगारों वाली बाहरी अग्नि से भी पाक हर बार एक-सा नहीं होता। "
@@ -77,7 +78,7 @@ AUTHORED["130"] = {
                    "इसलिए उसकी प्रयत्न से रक्षा करनी चाहिए। "
                    "छपा ‘ष्ममना’ कोई शब्द नहीं; ‘ऊष्मणा’ (ताप से) डेटा का अनुमानित पाठ है, इस पर कोई प्रश्न नहीं। "
                    "‘किमुत’ = ‘तो फिर कहना ही क्या’: छोटी बात से बड़ी बात सिद्ध करने का शब्द।"),
-    "hook": "बाहर की आग भी एक-सी नहीं पकाती, तो भीतर की का क्या कहना!",
+    "hook": "बाहर की आग भी एक-सी नहीं पकाती, तो भीतर वाली का क्या कहना!",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 130, what is said of cooking with outer fire of flame and embers?",
@@ -126,7 +127,7 @@ AUTHORED["130"] = {
 # ---------------------------------------------------------------- unit 131
 AUTHORED["131"] = {
     "title": "तत्र प्रवरेण सात्म्येन समं",
-    "question": "By unit 131, how is the agni brought to equality and then kept, and which remedies are named?",
+    "question": "By unit 131, how are 'the others' brought to equality and (it) then kept, and which remedies are named?",
     "rule": ("Gradually (क्रमशः) bringing the others to equality (साम्यमापाद्य) by the lesser (अवर), one keeps it by the best (प्रवर), "
              "with the Vāta-and-other remedies of the doṣa-treatment section and the medicine-and-exercise combinations prescribed for grahaṇī."),
     "limits": ("Prose; confidence low, elliptical. What प्रवर, अवर and इतरान् refer to is not stated; nothing is asked "
@@ -150,9 +151,9 @@ AUTHORED["131"] = {
             "क्रमशः साम्यम् आपाद्य."),
         order(1, "Put these parts of unit 131 in the line's order.",
               ["तत्र प्रवरेण सात्म्येन समं", "यथास्वमवरेणेतरान्", "क्रमशः साम्यमापाद्य", "वातादिसाधनेन",
-               "औषधव्यायामयोगैः"],
+               "ग्रहणीरोगविहितैश्चौषधव्यायामयोगैरिति"],
               "With the best sātmya; by the lesser the others; gradually to equality; by the Vāta-and-other remedy; by medicine-exercise combinations.",
-              "तत्र प्रवरेण सात्म्येन समं → यथास्वमवरेणेतरान् → क्रमशः साम्यमापाद्य → वातादिसाधनेन → औषधव्यायामयोगैः."),
+              "तत्र प्रवरेण सात्म्येन समं → यथास्वमवरेणेतरान् → क्रमशः साम्यमापाद्य → वातादिसाधनेन → ग्रहणीरोगविहितैश्चौषधव्यायामयोगैरिति."),
         match(2, "Match each word of unit 131 to its meaning.",
               [["प्रवर", "best"], ["अवर", "lesser"], ["सात्म्य", "what suits"], ["साम्य", "equality"],
                ["व्यायाम", "exercise"]],
@@ -169,7 +170,7 @@ AUTHORED["131"] = {
         multi("apply", 4, "Which statements fit unit 131?",
               [("The line gives a dose for each medicine", "No dose is printed."),
                ("Remedies for Vāta and the like come from the doṣa-treatment section", "Right: दोषोपक्रमणीयोक्तेन वातादिसाधनेन (probably a chapter title)."),
-               ("The line says which agni is the lesser one", "What अवर refers to is not stated."),
+               ("The line says what the lesser (avara) refers to", "What अवर refers to is not stated."),
                ("Medicine-and-exercise combinations are those prescribed in grahaṇī", "Right: ग्रहणीरोगविहितैः औषधव्यायामयोगैः (probably a digestive disorder).")],
               [1, 3],
               "Two named sources of means; no doses, and no referents for प्रवर / अवर.",
@@ -209,11 +210,11 @@ AUTHORED["132"] = {
               [["भवति", "there is / are"], ["च", "and"], ["अत्र", "on this matter"]],
               "And on this matter there are (verses).",
               "भवति, च, अत्र."),
-        fill(2, "चात्र = च + ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("अत्र", None, "atra"),
-             "चात्र = च (and) + अत्र (on this matter).",
-             "अत्र = here, on this matter; it joins with च as चात्र.",
-             "च + अत्र = चात्र."),
+        fill(2, "In the lead-in formula of unit 132, the verb meaning there is / are is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("भवति", None, "bhavati"),
+             "भवति = there is / are (3 sg. present of √भू).",
+             "भवति, from √भू (be), opens the lead-in formula.",
+             "भवति = there is / are."),
         mcq("discriminate", 3, "Which split of चात्र in unit 132 is right?",
             ("च + अत्र", "अ + अ → आ: च + अत्र = चात्र."),
             [("चे + अत्र", "ए + अ would print चेऽत्र, not चात्र."),
@@ -303,13 +304,13 @@ AUTHORED["133"] = {
 AUTHORED["134"] = {
     "title": "आहारश्च विहारश्च",
     "question": "By the verse of unit 134, which food and conduct defile the srotas?",
-    "rule": ("Food (आहार) and conduct (विहार) that are equal to the doṣas in qualities (दोषगुणैः समः) and unlike the dhātus in "
-             "quality (धातुभिर्विगुणः) defile the srotas (स्रोतसां प्रदूषकः)."),
+    "rule": ("Food (आहार) and conduct (विहार) which are equal to the doṣas in qualities (दोषगुणैः समः), and which are unlike the "
+             "dhātus in quality (धातुभिर्विगुणः): that is the defiler of the srotas (स्रोतसां प्रदूषकः). Whether both must hold together is not said."),
     "limits": ("One verse over two printed lines, one sentence. यः is masculine singular for both nouns ('whichever'). विगुण is "
                "read as 'unlike in quality'; 'defective in quality' is another reading, so no question turns on that choice. "
                "No doṣa, food or habit is named."),
     "explain_hi": ("यह श्लोक स्रोतस् के दूषित होने का कारण बताता है। "
-                   "जो आहार और विहार (आचरण, दिनचर्या) दोषों के गुणों के समान हो और धातुओं से भिन्न गुण वाला हो, वही स्रोतसों को दूषित करता है। "
+                   "जो आहार और विहार (आचरण, दिनचर्या) दोषों के गुणों के समान हो, और जो धातुओं से भिन्न गुण वाला हो, वह स्रोतसों को दूषित करता है (दोनों साथ चाहिए या कोई एक, यह नहीं कहा)। "
                    "‘यः ... सः’ (जो ... वह) से दोनों पंक्तियाँ एक वाक्य बनती हैं। "
                    "‘विगुण’ को ‘भिन्न गुण वाला’ पढ़ा गया; ‘दोषपूर्ण गुण वाला’ भी सम्भव। "
                    "कोई विशेष दोष, आहार या आदत नहीं गिनाई गई।"),
@@ -343,7 +344,7 @@ AUTHORED["134"] = {
         multi("apply", 4, "Which statements fit the verse of unit 134?",
               [("It names the doṣa that does the harm", "No single doṣa is named."),
                ("Both food and conduct can defile the srotas", "Right: आहारश्च विहारश्च."),
-               ("Equality with the doṣas' qualities is part of the cause", "Right: दोषगुणैः समः."),
+               ("Equality with the doṣas' qualities is named as a cause", "Right: दोषगुणैः समः."),
                ("Likeness to the dhātus defiles the srotas", "Toward the dhātus it is विगुण, not alike.")],
               [1, 2],
               "Food or conduct like the doṣas and unlike the dhātus defiles the srotas.",
@@ -428,7 +429,7 @@ AUTHORED["136"] = {
     "limits": ("One verse over two printed lines; the noun described (द्वाराणि) comes in the second line, the copula is understood. "
                "बिस = lotus stalk or root fibre. The verse does not say how many openings there are or where."),
     "explain_hi": ("यह श्लोक स्रोतसों के द्वारों (मुखों) का वर्णन करता है। "
-                   "वे बिस (कमलनाल; Nelumbo nucifera, मानक) के तन्तुओं जैसे सूक्ष्म हैं और दूर तक फैले हैं। "
+                   "वे बिस (कमलनाल या उसके तन्तु; Nelumbo nucifera, मानक) जैसे सूक्ष्म हैं और दूर तक फैले हैं। "
                    "इन्हीं द्वारों से देह में रस का उपचय (वृद्धि, पोषण) होता है। "
                    "पहली पंक्ति के विशेषणों का विशेष्य ‘द्वाराणि’ दूसरी पंक्ति में है। "
                    "‘उपचीयते’ कर्मवाच्य है: ‘बढ़ाया जाता है’।"),
@@ -473,7 +474,7 @@ AUTHORED["136"] = {
              ("Food will be cooked", "पच्यते is present, not future."),
              ("Food was cooked", "पच्यते is present, not past.")],
             "अन्नं पच्यते = food is (being) cooked; रसो यैरुपचीयते = by which rasa is built up.",
-            "Passive present: -यते with the doer, if any, in the instrumental.",
+            "Passive present (as here): -यते with the doer, if any, in the instrumental; not every -यते is passive.",
             teaches="उपचीयते is the present passive (gram: pass.) of उप-√चि; not every -यते is passive, but this one is."),
     ],
 }
@@ -578,13 +579,13 @@ AUTHORED["138"] = {
              ("प्रभावम् + तु", "म् before त is written ं: it would print प्रभावं तु.")],
             "प्रभावात् (through prabhāva) + तु (but).",
             "त् + त → त्त."),
-        mcq("apply", 4, "Unit 137 has food reach śukra by a sequence of cooking. How does unit 138 set vṛṣya things apart?",
-            ("They make śukra at once, by prabhāva", "प्रभावात्तु सद्यः: at once, through special potency."),
-            [("They take a whole month, as food does", "Unit 138 says at once (सद्यः), not after a month."),
-             ("They make no śukra at all in the body", "They make śukra and the like (शुक्रादि कुर्वन्ते)."),
-             ("They act only after six days of use", "Six days is a view about food in unit 137.")],
-            "तु (but) marks the contrast: at once (सद्यः) by prabhāva.",
-            "वृष्यादीनि प्रभावात्तु सद्यः शुक्रादि कुर्वन्ते."),
+        mcq("apply", 4, "Unit 137 has food reach śukra over time. Which word of unit 138 marks its contrast with that?",
+            ("तु (but)", "प्रभावात्तु: तु, 'but', sets vṛṣya things against the food views of unit 137."),
+            [("सद्यः (at once)", "सद्यः gives the time, not the contrast."),
+             ("प्रायः (generally)", "प्रायः belongs to the second line, 'generally'."),
+             ("अपि (also)", "अपि means 'also', not 'but'.")],
+            "तु (but) marks the contrast: vṛṣya things act at once (सद्यः) by prabhāva.",
+            "वृष्यादीनि प्रभावात्तु सद्यः."),
         mcq("transfer", 5, "By the rule of शुक्र + आदि → शुक्रादि, how is अन्न + आदि joined in a new example?",
             ("अन्नादि", "अ + आ → आ, as शुक्र + आदि → शुक्रादि."),
             [("अन्नदि", "अ + आ gives a long आ, not a short अ."),
@@ -613,7 +614,7 @@ AUTHORED["139"] = {
     "hook": "समान ठीक: सम; राह भटके: विषम; पित्त: तीक्ष्ण; कफ: मन्द।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 139, the agni is manda (slow) when afflicted by which doṣa?",
+        mcq("pretest", 0, "By unit 139, which doṣa is named in the condition for the manda (slow) agni?",
             ("Kapha", "मन्दोऽस्मिन्कफपीडिते: slow when afflicted by Kapha."),
             [("Pitta", "Being overcome by Pitta makes the agni tīkṣṇa (sharp)."),
              ("Rakta", "Rakta is not named in unit 139."),
@@ -637,11 +638,11 @@ AUTHORED["139"] = {
              ("पित्ति + अभिमूर्च्छिते", "इ + अ would give य: पित्त्यभि-.")],
             "पित्त (Pitta) + अभिमूर्च्छिते (overcome).",
             "अ + अ → आ."),
-        mcq("apply", 4, "Unit 128: the tīkṣṇa agni digests even improperly taken food quickly. By unit 139, when is the agni tīkṣṇa?",
-            ("When it is overcome by Pitta", "पित्ताभिमूर्च्छिते तीक्ष्णः."),
-            [("When it is afflicted by Kapha", "Kapha makes it manda, the slow one."),
-             ("When Samāna is in its own place", "That makes it sama, the even one."),
-             ("When it goes by a wrong path", "A wrong path goes with viṣama, the uneven one.")],
+        mcq("apply", 4, "Unit 128: the tīkṣṇa agni digests even improperly taken food quickly. By unit 139, which condition goes with it?",
+            ("Overcome by Pitta", "पित्ताभिमूर्च्छिते तीक्ष्णः."),
+            [("Afflicted by Kapha", "Kapha goes with manda, the slow one."),
+             ("Samāna in its own place", "That goes with sama, the even one."),
+             ("Gone along a wrong path", "A wrong path goes with viṣama, the uneven one.")],
             "Tīkṣṇa: overcome by Pitta.",
             "पित्ताभिमूर्च्छिते तीक्ष्णः."),
         mcq("transfer", 5, "कफपीडिते in unit 139 is a locative absolute (when afflicted by Kapha). What does गुरौ गते शिष्यः पठति mean?",
@@ -753,7 +754,7 @@ AUTHORED["141"] = {
             "षष्ठः (sixth) + अध्यायः (chapter).",
             "अः + अ → ओऽ."),
         fill(4, "In unit 141 the word for 'sixth' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("षष्ठः", "ṣaṣṭhaḥ", "षष्ठ", "shashtha", "shashthah", "sashtha"),
+             accepts("षष्ठः", "ṣaṣṭhaḥ", "षष्ठ", "षष्ठो", "shashtha", "shashthah", "shashtho", "sashtha"),
              "षष्ठः = sixth; before अध्यायः it is printed षष्ठोऽध्यायः.",
              "षष्ठ = sixth (ordinal of षट्, six).",
              "षष्ठ = sixth.", role="apply"),
@@ -842,7 +843,7 @@ AIDS = {
                    "त से पहले विसर्ग → स्: मन्दः + तु → मन्दस्तु।"),
     },
     "130": {
-        "seesaw": "बाह्य (बाहरी) अग्नि ⇄ अन्तराश्रय (भीतर आश्रित) ताप: दोनों इसी पंक्ति में; बाहरी भी एक-सी नहीं, तो भीतर वाली का क्या कहना।",
+        "seesaw": "बाह्य (बाहरी) अग्नि ⇄ अन्तराश्रय (भीतर आश्रित; ‘ताप’ अनुमानित पाठ): दोनों इसी पंक्ति में; बाहरी भी एक-सी नहीं, तो भीतर वाली का क्या कहना।",
         "frame": "छोटा उदाहरण: बाह्य अग्नि का पाक एक-सा नहीं → किमुत (तो क्या कहना) भीतर का ताप → निष्कर्ष: तस्मात्तं प्रयत्नतो रक्षेत्।",
         "chunks": "बाह्येनापि च | ज्वालांगारात्मकेनाग्निना | नैकाकारः सर्वदा पाकोभवति | किमुतांतराश्रयेणोष्ममना | समेनापि | तस्मात्तं प्रयत्नतो रक्षेत्",
         "sandhi": "अ + ए → ऐ: न + एकाकारः → नैकाकारः · अः + घोष व्यंजन → ओ: पाकः + भवति → पाको भवति · अ + अ → आ: बाह्येन + अपि → बाह्येनापि।",
