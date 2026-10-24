@@ -248,9 +248,8 @@ AUTHORED["85"] = {
     "rule": ("For then, whatever kind she sees or thinks of, of that kind she bears (a child). The second line's reading is "
              "conjectural and is not used for questions."),
     "limits": ("Low confidence. Line 2 is conjectural: स्नातांत् may be स्नातात् (after the bath) or स्नाताम् (the bathed "
-               "woman), and उपेक्षेत may mean 'let (four nights) pass' or 'abstain from'; the data leaves this undecided, so "
-               "no question rests on line 2. In line 1 the objects (the kind of person) are unstated. The sentence appears "
-               "to run on into units 86 and 87."),
+               "woman), and उपेक्षेत may mean 'let pass' or 'abstain from'; undecided, so no question uses line 2. "
+               "Line 1 leaves its objects unstated. The sentence seems to run on into units 86-87."),
     "explain_hi": ("पहली पंक्ति कारण बताती है: ‘हि’ यानी क्योंकि, उस समय स्त्री जिस प्रकार के को देखती या सोचती है, वैसे को ही "
                    "जन्म देती है। यादृश और तादृश एक जोड़ा है: जैसा, वैसा। दूसरी पंक्ति का पाठ अनुमानित है: ‘स्नातांत्’ को "
                    "‘स्नातात्’ (स्नान के बाद) या ‘स्नाताम्’ (नहाई हुई स्त्री को) पढ़ा जा सकता है, और ‘उपेक्षेत’ का अर्थ "
@@ -287,7 +286,7 @@ AUTHORED["85"] = {
             ("One of that strong kind", "Whatever kind she thinks of, of that kind (तादृशम्) she bears."),
             [("One of the opposite, weak kind", "The rule is likeness (तादृश), not the opposite."),
              ("One of no fixed kind at all", "The line ties the kind to what she sees or thinks of."),
-             ("One just like her own father", "No father is named in the line.")],
+             ("One like her own father", "No father is named in the line.")],
             "The line ties the kind of child to the kind she sees or thinks of then.",
             "यादृशम् पश्यति चिन्तयति वा, तादृशं प्रसूते."),
         T(mcq("transfer", 5, "An invented line reads यादृशं बीजं तादृशं फलम्. What does it say?",
@@ -306,9 +305,9 @@ AUTHORED["86"] = {
     "title": "पुष्पेदिनात्सप्तरात्रं",
     "question": "What span does the fragment of unit 86 name, and why is it read with care?",
     "rule": "From the day of the flower (menstruation), seven nights: a fragment without a verb, on a conjectural reading.",
-    "limits": ("Low confidence. The fragment has no verb, and none is supplied. The printed पुष्पे- may be the compound "
-               "पुष्पदिनात् or the two words पुष्पे दिनात्; undecided, so no question rests on that form. It appears to belong "
-               "with unit 85 (the nights to let pass) and to lead into unit 87; what the seven nights are for is not said here."),
+    "limits": ("Low confidence. No verb is printed or supplied. The printed पुष्पे- may be the compound पुष्पदिनात् or "
+               "two words, पुष्पे दिनात्; undecided, so no question rests on that form. It seems to go with unit 85 and lead "
+               "into unit 87; the purpose of the seven nights is not said."),
     "explain_hi": ("यह छोटा, क्रियाहीन टुकड़ा है: पुष्प (मासिक स्राव) के दिन से सात रात। छपा ‘पुष्पेदिनात्’ या तो समास "
                    "‘पुष्पदिनात्’ है या दो शब्द ‘पुष्पे दिनात्’; यह तय नहीं। ‘दिनात्’ पंचमी है: दिन से। यह टुकड़ा इकाई ८५ की "
                    "बीतने वाली रातों के साथ जुड़ा लगता है और इकाई ८७ की ओर ले जाता है; पर सात रातें किसलिए, यह यहाँ नहीं कहा गया।"),
@@ -641,8 +640,8 @@ AUTHORED["92"] = {
     "question": "What does unit 92 conclude about the birth of a son and of a daughter?",
     "rule": "Therefore, in these (nights), in order, there is the birth of a son and of a daughter.",
     "limits": ("The copula is understood. This unit does not spell out which nights go with the son and which with the "
-               "daughter; kramāt is read as the order of the nights. The nights themselves are given in unit 87 (eighth, "
-               "tenth, twelfth for a son) and unit 88 (fifth, seventh, ninth for a daughter)."),
+               "daughter; kramāt is read as the order of the nights. The nights are listed in unit 87 (son) and unit 88 "
+               "(daughter)."),
     "explain_hi": ("‘तस्मात्’ = इसलिए। उन रात्रियों में क्रम से पुत्र और पुत्री का जन्म होता है। ‘क्रमात्’ यानी रात्रियों के "
                    "(सम-विषम) क्रम से; पर कौन-सा किस रात से, यह इस इकाई में स्पष्ट नहीं लिखा। रातें इकाई ८७ (पुत्र: आठवीं, "
                    "दसवीं, बारहवीं) और ८८ (पुत्री: पाँचवीं, सातवीं, नवीं) में दी गई हैं। ‘तासु’ पिछली इकाइयों की रातों की ओर संकेत करता है।"),
@@ -709,7 +708,7 @@ AUTHORED["93"] = {
     "questions": [
         mcq("pretest", 0, "By unit 93, whom should one desiring a son not approach?",
             ("A woman whose ārtava has not ceased", "अनुपरतार्तवदर्शनाम्: one in whom the sight of ārtava has not ceased."),
-            [("A woman who has just bathed", "No bath is named in this unit."),
+            [("A woman who has bathed", "No bath is named in this unit."),
              ("A woman who is already pregnant", "Pregnancy is not named in this unit."),
              ("A woman who is past fifty years", "Age is not named in this unit.")],
             "He should not approach a woman whose ārtava is still seen.",
@@ -854,9 +853,8 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "सन्तान की सम्पदा (उत्तरोत्तर)",
              "items": ["आयु", "आरोग्य", "ऐश्वर्य", "सौभाग्य", "बल", "वर्ण", "इन्द्रिय"]}]},
-        "sandhi": ("उ + उ → ऊ: तासु + उत्तरोत्तरम् → तासूत्तरोत्तरम् · अ + उ → ओ: उत्तर + उत्तरम् → उत्तरोत्तरम् · "
-                   "उः + स्वर → उर्: आयुः + आरोग्य → आयुरारोग्य · अ + ऐ → ऐ: आरोग्य + ऐश्वर्य → आरोग्यैश्वर्य · "
-                   "अ + इ → ए: वर्ण + इन्द्रिय → वर्णेन्द्रिय · त् + स्वर → द्: संपत् + अपत्यस्य → संपदपत्यस्य।"),
+        "sandhi": ("उ + उ → ऊ: तासु + उत्तरोत्तरम् → तासूत्तरोत्तरम् · उः + स्वर → उर्: आयुः + आरोग्य → आयुरारोग्य · "
+                   "अ + ऐ → ऐ: आरोग्य + ऐश्वर्य → आरोग्यैश्वर्य · अ + इ → ए: वर्ण + इन्द्रिय → वर्णेन्द्रिय।"),
         "letters": "सात की सूची: आ-आ-ऐ-सौ-ब-व-इ (आयु, आरोग्य, ऐश्वर्य, सौभाग्य, बल, वर्ण, इन्द्रिय)।",
         "contrast": "इकाई ८९: इन रातों में उत्तरोत्तर सम्पदा ↔ इकाई ९०: इसके आगे उत्तरोत्तर ह्रास।",
     },
