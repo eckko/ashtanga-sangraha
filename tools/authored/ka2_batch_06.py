@@ -45,13 +45,13 @@ AUTHORED["64"] = {
             "पीत = lit. 'drunk', here 'having absorbed, steeped'.",
             "स्नुक्पयःपीतान् (m. acc. pl.) ↔ त्रिवृतादीन् (m. acc. pl.)."),
         multi("apply", 4, "Which of these does verse 64 state?",
-              [("The drugs stay seven days in snuk milk", "Right: सप्ताहं स्नुक्पयःपीतान्."),
+              [("The drugs have absorbed snuk milk", "Right: स्नुक्पयःपीतान्, lit. 'having drunk snuk milk'."),
                ("Ghee is one vehicle for the drink", "Right: आज्येन, with ghee."),
                ("Juice is another vehicle", "Right: रसेन ... वा, with juice or."),
-               ("The nine drugs of the trivṛt group are listed", "No: the group is named only by 'trivṛt and others'."),
+               ("The drugs of the trivṛt group are listed one by one", "No: the group is named only by 'trivṛt and others'."),
                ("varā is certainly triphalā", "No: varā is disputed; triphalā is only a frequent reading.")],
               [0, 1, 2],
-              "Seven days in snuk milk, then drunk with juice or ghee; the group is not listed and varā stays disputed.",
+              "Steeped in snuk milk, then drunk with juice or ghee; the group is not listed and varā stays disputed.",
               "सप्ताहं स्नुक्पयः · रसेन / आज्येन."),
         mcq("transfer", 5,
             "Like सप्ताहम् (for seven days), what does मासम् express in the invented मासं पिबेत्?",
@@ -78,7 +78,7 @@ AUTHORED["65"] = {
                    "पहले शब्द का पाठ संदिग्ध है; वया, उपोत्तमा, निकुम्भ के नाम अनिश्चित हैं। स्पष्ट है: कुम्भ आदि को गुड़ के जल के साथ। "
                    "दूसरी पंक्ति कहती है ‘अद्यात्’, यानी खाए: श्यामा और त्रिवृत् के काढ़े, स्नुक् के दूध, घी और फाणित यानी राब के साथ। "
                    "श्यामा की पहचान विवादित है, और क्या खाया जाए, यह स्पष्ट नहीं कहा।"),
-    "hook": "कुम्भ आदि गुड़-जल से; फिर खाओ: श्यामा, त्रिवृत्, थूहर-दूध, घी, राब।",
+    "hook": "कुम्भ आदि गुड़-जल से; अद्यात्, खाओ: श्यामा, त्रिवृत्, थूहर-दूध, घी, राब के साथ।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -272,7 +272,7 @@ AUTHORED["68"] = {
              ("Any child or old man", "Children and the old are named in verse 59, not here."),
              ("One with a belly disease", "Belly disease (jaṭhara) is named in line 05.02.138.")],
             "मृदुकोष्ठ = one whose bowel is soft, easily purged; विरिच्यते = is purged.",
-            "आजिघ्रेत् · प्रावृण्वानः → मृदुकोष्ठो विरिच्यते."),
+            "आजिघ्रेत् · प्रावृणानः → मृदुकोष्ठो विरिच्यते."),
         match(1, "Match each word of verse 68 to its meaning.",
               [["आजिघ्रेत्", "one should smell"], ["मृदुकोष्ठ", "one with a soft bowel"], ["विरिच्यते", "is purged"],
                ["फलम्", "fruit"], ["ग्राह्यम्", "is to be taken"]],
@@ -392,7 +392,7 @@ AUTHORED["70"] = {
             "By verse 70, how large is the lump of the two drugs?",
             ("An akṣa in measure", "अक्षमात्रं तयोः पिण्डम् = a lump of the two, an akṣa in measure."),
             [("A palmful", "A palmful (pāṇitala) is the measure of line 05.02.96."),
-             ("A cupped-hands measure", "The añjali appears in line 05.02.100, not here."),
+             ("A cupped-hands measure", "No añjali is named in this verse."),
              ("One pala", "No pala is named in this verse.")],
             "अक्ष = a measure, synonym of कर्ष; मात्र = 'in measure'.",
             "पिण्डम् → अक्षमात्रम्."),
@@ -670,11 +670,11 @@ AUTHORED["74"] = {
             "Like स्वेदयेत् + मृत् → स्वेदयेन्मृत्, which is the joined form of तत् + मूलम् (invented)?",
             ("तन्मूलम्", "त् before a nasal becomes न्: तत् + मूलम् → तन्मूलम्."),
             [("तत्मूलम्", "Within a phrase त् does not stay before म; it becomes न्."),
-             ("तद्मूलम्", "द् is the step before a voiced consonant; before a nasal the result is न्."),
+             ("तस्मूलम्", "No rule turns त् into स् before म."),
              ("तम्मूलम्", "त् becomes the dental nasal न्, not म्.")],
             "स्वेदयेन्मृत्, तन्मूलम्: त् + nasal → न्.",
             "त् + म/न → न्म/न्न.",
-            teaches="A final त् before a nasal becomes न्: स्वेदयेत् + मृत् → स्वेदयेन्मृत्, तत् + मूलम् → तन्मूलम्."),
+            teaches="A final त् before a nasal usually becomes न्: स्वेदयेत् + मृत् → स्वेदयेन्मृत्, तत् + मूलम् → तन्मूलम्."),
     ],
 }
 
@@ -744,8 +744,8 @@ AUTHORED["75"] = {
 AUTHORED["76"] = {
     "title": "गोमृगाजरसैः",
     "question": "Which further patients and juices does the list name, and with what is the ghee cooked?",
-    "rule": ("With the juices of cow, deer and goat; (for) one who is pale, has worms in the bowel, has bhagandara; "
-             "cooked with the decoction and paste of that (root) and with daśamūla juice. The ghee is named in line 05.02.141."),
+    "rule": ("Juices of cow, deer and goat; patients pale, with bowel worms, with bhagandara; cooked with that root's "
+             "decoction and paste and daśamūla juice. What is cooked is named next: ghee in line 05.02.141 (or oil, 05.02.142)."),
     "limits": ("The printed takkātha- is tat-kvātha- (text flag): no question on that member. rasa may be meat juice; "
                "pāṇḍu may be the disease pāṇḍu (OPEN on its rendering): no question on its sense. The ten roots are not "
                "listed here."),
@@ -811,7 +811,7 @@ AUTHORED["77"] = {
                "question on those. The printed jayeddhṛtam is an irregular join (expected jayed ghṛtam). visarpa = "
                "erysipelas-like (probable); vidradhi = deep abscess (standard)."),
     "explain_hi": ("यह श्लोक दो योगों के लाभ अलग करता है। "
-                   "घृत (पिछली पंक्ति में सिद्ध): विसर्प यानी फैलने वाला जलन-सूजन का त्वचा रोग, विद्रधि यानी गहरा फोड़ा, अलजी, कषा और दाह यानी जलन को जीतता है। "
+                   "घृत (पिछली पंक्ति में सिद्ध): विसर्प यानी फैलने वाला जलन-सूजन का त्वचा रोग (संभावित पहचान), विद्रधि यानी गहरा फोड़ा, अलजी, कषा और दाह यानी जलन को जीतता है। "
                    "‘तु’ से तैल अलग होता है: गुल्म, मेह यानी मूत्र-विकार, अर्श यानी बवासीर, विबन्ध यानी मलावरोध, कफ और वायु को। "
                    "अलजी और कषा के अर्थ अनिश्चित हैं।"),
     "hook": "घी: विसर्प, फोड़ा, जलन; तेल: मेह, बवासीर, कब्ज़, कफ, वायु।",
@@ -961,7 +961,7 @@ AUTHORED["79"] = {
               teaches="-नुत् at the end of a compound names what is driven away."),
         mcq("discriminate", 3, "By verse 79, with which drug is the same lick made for thirst and fever?",
             ("With ajagandhā", "स एवाजगन्धया = that very (lick) with ajagandhā."),
-            [("With bhṛṅgī", "bhṛṅgī is one of the juices of line 05.02.144."),
+            [("With dhātrī", "dhātrī juice comes in line 05.02.147, for another preparation."),
              ("With pippalī", "pippalī was smeared on the root in verse 74."),
              ("With samalā", "samalā root belongs to verse 69.")],
             "अजगन्धा = a drug name, lit. 'goat-smell' (disputed).",
@@ -1024,7 +1024,7 @@ AIDS = {
         "anchors": "युक्त = मिला हुआ · यूष = दाल का पतला रस · पयः = दूध · अर्क = आक · रजः = चूर्ण।",
     },
     "67": {
-        "chain": {"steps": ["रात: मूत्र में", "दिन: गर्मी में", "सात दिन तक", "थूहर के दूध में भी", "माला या वस्त्र पर छिड़कना"]},
+        "chain": {"steps": ["रात: मूत्र में", "दिन: गर्मी में", "सात दिन तक", "(थूहर के दूध में भी: अर्थ अस्पष्ट)", "माला या वस्त्र पर छिड़कना"]},
         "seesaw": "रात्रौ (रात) ↔ दिवा (दिन): रात में मूत्र में, दिन में गर्मी में।",
         "chunks": "रात्रौ मूत्रे दिवा घर्में | सप्ताहं स्थापयेदिति || स्नुक्क्षीरेऽपि ततस्तेन | माल्यं वासोऽवचूर्णितं",
         "sandhi": "अः + अ → ओऽ: वासः + अवचूर्णितम् → वासोऽवचूर्णितम्; ए + अ → एऽ: स्नुक्क्षीरे + अपि → स्नुक्क्षीरेऽपि।",
@@ -1116,7 +1116,7 @@ IMAGE_SPECS = {
         "alt": "Flowchart of verse 67: the powder at night in urine and by day in the heat for seven days, also in snuk milk, then a garland or cloth is sprinkled with it",
         "type": "mermaid",
         "code": ('flowchart TD\n  A["रात: मूत्र में"] --> C["सात दिन तक"]\n  B["दिन: गर्मी में"] --> C\n'
-                 '  C --> D["थूहर के दूध में भी"]\n  D --> E["माला या वस्त्र<br/>पर छिड़कना"]\n'),
+                 '  C --> E["माला या वस्त्र<br/>पर छिड़कना"]\n  C -.- D["थूहर के दूध में भी"]\n'),
     },
     ("69", "diagram"): {
         "file": "ka2-shankhini-samala-69.svg",
@@ -1149,9 +1149,9 @@ IMAGE_SPECS = {
     },
     ("75", "diagram"): {
         "file": "ka2-danti-anupana-75.svg",
-        "alt": "Mind map of verse 75: drinks mastu, madira, takra, pilu juice, asava; patients with abhishyanna body, gulma, prameha, jathara, gara",
+        "alt": "Two-column picture of verse 75: drinks mastu, madira, takra, pilu juice, asava; patients with abhishyanna body, gulma, prameha, jathara, gara",
         "type": "split",
-        "title": "श्लोक ७५: दन्ती की जड़",
+        "title": "श्लोक ७५: दन्ती-द्रवन्ती की जड़",
         "cols": [["किसके साथ पिए", ["मस्तु", "मदिरा", "तक्र", "पीलुरस", "आसव"]],
                  ["किसे (सूची आरम्भ)", ["अभिष्यन्न शरीर", "गुल्मी", "प्रमेही", "जठरी", "गरी"]]],
     },
