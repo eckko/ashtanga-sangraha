@@ -22,10 +22,10 @@ AUTHORED["114"] = {
                    "वह गर्भिणी है, यह प्रसंग से समझा जाता है; एक ही स्त्री में दोनों स्वभाव हों या एक भी काफ़ी है, यह पाठ खुला छोड़ता है। "
                    "यहाँ छपी क्रिया ‘जनयति’ आगे इकाई ११५ से १२५ तक की सब पंक्तियों में समझी जाती है। "
                    "‘चोन्मत्तम्’ में च + उन्मत्तम् की सन्धि है (अ + उ → ओ)।"),
-    "hook": "खुले में सोना, रात में घूमना: उन्मत्त सन्तान।",
+    "hook": "बिना ढके सोना, रात में घूमना: उन्मत्त सन्तान।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 114, what does a woman who sleeps uncovered and roams at night produce?",
+        mcq("pretest", 0, "By unit 114, what is produced by she who sleeps uncovered and she who roams at night?",
             ("A mad (unmatta) one", "चोन्मत्तं जनयति: she produces a mad one."),
             [("An epileptic one", "Apasmāra (epilepsy) is the result in unit 115."),
              ("A blind-born one", "Blindness is not named in this line."),
@@ -77,10 +77,11 @@ AUTHORED["115"] = {
     "limits": ("The verb is not printed; it is carried from unit 114. The child's noun is unstated ('one'). Nothing is said "
                "on cure or prevention."),
     "explain_hi": ("यह एक ही छपा शब्द-समूह है: कलहशीला + अपस्मारिणम्। कलहशीला यानी झगड़ालू स्वभाव वाली माता (प्रथमा, कर्ता)। "
-                   "अपस्मारिणम् यानी अपस्मार (मिर्गी, मानक) वाला सन्तान (द्वितीया, कर्म)। "
+                   "अपस्मारिणम् यानी अपस्मार (मिर्गी, मानक) वाली सन्तान (द्वितीया, कर्म)। "
                    "क्रिया ‘जनयति’ इकाई ११४ से आती है, यहाँ छपी नहीं। "
                    "छपा ऽ दिखाता है कि आ + अ → आ में अ लुप्त हुआ; यह छपाई की आदत है।"),
-    "hook": "झगड़े का स्वभाव: अपस्मार वाला सन्तान।",
+
+    "hook": "झगड़े का स्वभाव: अपस्मार वाली सन्तान।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 115, what does a woman quarrelsome by nature produce?",
@@ -135,15 +136,16 @@ AUTHORED["116"] = {
                "sign in printed शॉक- (near certain). स्त्रैण may also mean fond of women, अपचित also honoured; the card "
                "keeps womanish and wasted. Verb from unit 114."),
     "explain_hi": ("यह इकाई दो छपी गद्य-पंक्तियाँ जोड़ती है, हर पंक्ति में माता का एक स्वभाव और सन्तान के तीन विकल्प, अन्त में ‘वा’ (या)। "
-                   "व्यवाय यानी मैथुन में लगी रहने वाली: बुरे शरीर वाला, अनुमानित पाठ पर निर्लज्ज, या स्त्रैण सन्तान। "
-                   "निरन्तर शोक में रहने वाली: डरपोक, क्षीण या अल्पायु सन्तान। "
+                   "व्यवाय यानी मैथुन में लगी रहने वाली माता से: बुरे शरीर वाली, अनुमानित पाठ पर निर्लज्ज, या स्त्रैण सन्तान। "
+                   "निरन्तर शोक में रहने वाली से: डरपोक, क्षीण या अल्पायु सन्तान। "
                    "छपा ‘अन्हीकं’ कोई ज्ञात शब्द नहीं; ‘अह्रीकम्’ केवल अनुमान है। "
                    "क्रिया ‘जनयति’ इकाई ११४ से आती है।"),
+
     "hook": "व्यवाय से बुरा शरीर; शोक से डर और छोटी आयु।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 116, which result may a woman given to intercourse (vyavāya) produce?",
-            ("An ill-shaped (durvapus) one", "व्यवायशीला दुर्वपुषम्: an ill-shaped one."),
+            ("An ill-shaped one", "व्यवायशीला दुर्वपुषम्: an ill-shaped one."),
             [("A mad (unmatta) one", "The mad one is the result of unit 114."),
              ("An epileptic one", "Apasmāra is the result of unit 115."),
              ("A red-eyed one", "Red eyes are a result in unit 121.")],
@@ -193,10 +195,11 @@ AUTHORED["117"] = {
     "limits": ("The split स्तेना तु आयासबहुलम् … of line 2 is probable, not certain, so no question rests on स्तेना or तु. "
                "अकर्मशील may also mean given to wrong action; the card keeps inaction. The verb comes from unit 114. "
                "Two printed lines."),
-    "explain_hi": ("पहली छपी पंक्ति: लोभ करने वाली (अभिध्यायिनी, दूसरे की वस्तु की लालसा) माता से दूसरों को सन्ताप देने वाला, ईर्ष्यालु "
+    "explain_hi": ("पहली छपी पंक्ति: लोभ करने वाली (अभिध्यायिनी, दूसरे की वस्तु की लालसा) माता से दूसरों को सन्ताप देने वाली, ईर्ष्यालु "
                    "या स्त्रैण सन्तान। दूसरी पंक्ति एक लम्बा जुड़ा शब्द है; उसका विभाजन ‘स्तेना तु …’ (चोर स्त्री तो) सम्भावित है, पक्का नहीं। "
-                   "उसके परिणाम: परिश्रम से भरा, द्रोही या अकर्मशील सन्तान। "
+                   "उसके परिणाम: परिश्रम से भरी, द्रोही या अकर्मशील सन्तान। "
                    "‘परोपतापन’ में पर + उपतापन की सन्धि है (अ + उ → ओ)। क्रिया ‘जनयति’ इकाई ११४ से आती है।"),
+
     "hook": "लोभ से ईर्ष्या, चोरी से द्रोह।",
     "core": False,
     "questions": [
@@ -308,15 +311,16 @@ AUTHORED["119"] = {
              "(an intoxicating drink): one prone to thirst, of poor memory, or unsteady."),
     "limits": ("स्वप्न is taken as sleep (it can also mean dream), and तृष्णालु as prone to thirst (it can also mean craving); "
                "no question rests on these alternatives. The verb comes from unit 114. Two printed lines."),
-    "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है। सोने के स्वभाव वाली (स्वप्नशीला) माता: उनींदा, नासमझ, या अल्प अग्नि यानी मन्द पाचन "
-                   "वाला सन्तान। मद्य यानी मादक पेय में नित्य लगी रहने वाली: प्यास की प्रवृत्ति वाला, अल्प स्मृति वाला या अस्थिर सन्तान। "
+    "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है। सोने के स्वभाव वाली (स्वप्नशीला) माता से: उनींदी, नासमझ, या अल्प अग्नि यानी मन्द पाचन "
+                   "वाली सन्तान। मद्य यानी मादक पेय में नित्य लगी रहने वाली से: प्यास की प्रवृत्ति वाली, अल्प स्मृति वाली या अस्थिर सन्तान। "
                    "‘अल्पाग्नि’ में अल्प + अग्नि (अ + अ → आ), ‘अनवस्थित’ में अन् + अवस्थित (स्थिर नहीं) है। "
                    "क्रिया ‘जनयति’ इकाई ११४ से आती है।"),
+
     "hook": "नींद से उनींदापन; मद्य से स्मृति कम।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 119, which result may a woman given to sleep (svapnaśīlā) produce?",
-            ("A drowsy (nidrālu) one", "स्वप्नशीला निद्रालुम्: a drowsy one."),
+            ("A drowsy one", "स्वप्नशीला निद्रालुम्: a drowsy one."),
             [("A hostile one", "The hostile one is a result in unit 117."),
              ("A fierce one", "The fierce one is the result of unit 118."),
              ("A bald one", "Baldness is a result in unit 123.")],
@@ -366,15 +370,16 @@ AUTHORED["120"] = {
     "limits": ("शनैर्मेहिन् as 'passing urine slowly' is not firm (मेहिन् may mean one with meha, a urinary disorder): no "
                "question rests on its sense. The species of godhā (Varanus bengalensis) is only probable; the card says "
                "monitor lizard. The verb comes from unit 114."),
-    "explain_hi": ("गोधा यानी गोह (मानक; जाति Varanus bengalensis सम्भावित) के मांस में नित्य लगी रहने वाली माता: अश्मरी यानी पथरी "
-                   "(मानक) वाला सन्तान, या धीरे मूत्र करने वाला। ‘शनैर्मेहिन्’ का अर्थ पक्का नहीं; ‘मेहिन्’ मेह-रोग वाला भी हो सकता है। "
+    "explain_hi": ("गोधा यानी गोह (मानक; जाति Varanus bengalensis सम्भावित) के मांस में नित्य लगी रहने वाली माता से: अश्मरी यानी पथरी "
+                   "(मानक) वाली सन्तान, या धीरे मूत्र करने वाली। ‘शनैर्मेहिन्’ का अर्थ पक्का नहीं; ‘मेहिन्’ मेह-रोग वाला भी हो सकता है। "
                    "छपा ऽ दिखाता है: नित्या + अश्मरिणम् (आ + अ → आ)। "
                    "‘शनैर्’ में विसर्ग घोष ‘म’ से पहले र् बना है (ऐ के बाद)। क्रिया इकाई ११४ से।"),
-    "hook": "गोह का मांस: पथरी वाला सन्तान।",
+
+    "hook": "गोह का मांस: पथरी वाली सन्तान।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 120, which result may a woman constantly given to godhā-flesh produce?",
-            ("One with aśmarī (urinary stone)", "गोधामांसनित्याऽश्मरिणम्: one with aśmarī."),
+            ("One with aśmarī", "गोधामांसनित्याऽश्मरिणम्: one with aśmarī."),
             [("One with prameha", "Prameha is a result in unit 122."),
              ("A red-eyed one", "Red eyes are a result in unit 121."),
              ("A bald one", "Baldness is a result in unit 123.")],
@@ -393,7 +398,7 @@ AUTHORED["120"] = {
         mcq("discriminate", 3, "Why is शनैः printed as शनैर् before मेहिनम्?",
             ("Visarga after ऐ becomes र् before a voiced sound", "म is voiced, so शनैः + मेहिनम् → शनैर्मेहिनम्."),
             [("Visarga becomes स् before every म", "स् comes before त or थ, not before म."),
-             ("Visarga drops before every म", "The drop is after अ or आ; here ऐ comes before it."),
+             ("Visarga drops before every म", "Before a voiced sound the visarga drops only after आ (after अ it gives ओ); here ऐ comes before it."),
              ("The र् belongs to the stem शनैर्", "The word is शनैः; र् comes only from the join.")],
             "After a vowel other than अ or आ, a visarga before a voiced sound becomes र्.",
             "ऐः + voiced sound → ऐर्."),
@@ -424,10 +429,11 @@ AUTHORED["121"] = {
              "or one with very rough hair."),
     "limits": ("क्रथन is a rare word of uncertain sense, kept untranslated: no question rests on its meaning. The verb "
                "comes from unit 114."),
-    "explain_hi": ("वराह यानी सूअर (मानक) के मांस में नित्य लगी रहने वाली माता: लाल आँखों वाला, ‘क्रथन’, या अत्यन्त कठोर रोमों वाला सन्तान। "
-                   "‘क्रथन’ दुर्लभ शब्द है, अर्थ अनिश्चित, इसलिए अनूदित रखा गया। "
+    "explain_hi": ("वराह यानी सूअर (मानक) के मांस में नित्य लगी रहने वाली माता से: लाल आँखों वाली, ‘क्रथन’, या अत्यन्त कठोर रोमों वाली सन्तान। "
+                   "‘क्रथन’ दुर्लभ शब्द है, अर्थ अनिश्चित, इसलिए इसका अनुवाद नहीं किया गया। "
                    "‘रक्ताक्ष’ बहुव्रीहि है: जिसकी आँखें लाल हों। ‘अतिपरुषरोमाणम्’ भी बहुव्रीहि है: जिसके रोम अत्यन्त कठोर हों। "
                    "क्रिया इकाई ११४ से।"),
+
     "hook": "सूअर का मांस: लाल आँखें, कड़े रोम।",
     "core": False,
     "questions": [
@@ -440,7 +446,7 @@ AUTHORED["121"] = {
             "वराहमांसनित्या → रक्ताक्ष …"),
         order(1, "Put the words of unit 121 in their printed order.",
               ["वराहमांसनित्या", "रक्ताक्षम्", "क्रथनम्", "अतिपरुषरोमाणं वा"],
-              "Given to boar-flesh … red-eyed … krathana … or very rough-haired.",
+              "Given to varāha-flesh … red-eyed … krathana … or very rough-haired.",
               "वराहमांसनित्या → रक्ताक्षम् → क्रथनम् → अतिपरुषरोमाणं वा."),
         match(2, "Match each word of unit 121 to its meaning on the card.",
               [["वराह", "wild boar or pig (standard)"], ["रक्त", "red"], ["अक्ष", "eye"], ["परुष", "rough"],
@@ -462,7 +468,7 @@ AUTHORED["121"] = {
              ("रक्ता + क्षम्", "क्षम् is not the card's word; it has अक्ष, eye.")],
             "रक्त (red) + अक्षम् (eye): one whose eyes are red.",
             "अ + अ → आ."),
-        mcq("transfer", 5, "Built like रक्ताक्ष (one whose eyes are red), what does an invented दीर्घबाहु mean (दीर्घ long, बाहु arm)?",
+        mcq("transfer", 5, "Built like रक्ताक्ष (one whose eyes are red), what does दीर्घबाहु mean (दीर्घ long, बाहु arm)?",
             ("One whose arms are long", "A bahuvrīhi names the one who has long arms."),
             [("A long arm, the limb itself", "A bahuvrīhi names the owner, not the limb."),
              ("Something long, and an arm", "The two words are one compound, not a list."),
@@ -482,16 +488,17 @@ AUTHORED["122"] = {
     "limits": ("The printed मधुरा- is possibly a slip for मधुर-; the sense sweet is not in doubt. Prameha as diabetes-type is "
                "probable only. The verb comes from unit 114. Two printed lines; the series of tastes begins here and runs to "
                "unit 125."),
-    "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है। मछली के मांस में नित्य लगी रहने वाली माता: देर से पलक झपकाने वाला (चिरनिमेष) या "
-                   "जड़ आँखों वाला (स्तब्धाक्ष) सन्तान। मधुर यानी मीठे में नित्य लगी रहने वाली: प्रमेह (मूत्र-व्याधियों का वर्ग, मधुमेह-प्रकार "
-                   "सम्भावित) वाला, गूँगा या अत्यन्त स्थूल सन्तान। "
+    "explain_hi": ("यह इकाई दो छपी पंक्तियाँ जोड़ती है। मछली के मांस में नित्य लगी रहने वाली माता से: देर से पलक झपकाने वाली (चिरनिमेष) या "
+                   "जड़ आँखों वाली (स्तब्धाक्ष) सन्तान। मधुर यानी मीठे में नित्य लगी रहने वाली से: प्रमेह (मूत्र-व्याधियों का वर्ग, मधुमेह-प्रकार "
+                   "सम्भावित) वाली, गूँगी या अत्यन्त स्थूल सन्तान। "
                    "छपा ‘मधुरा-’ सम्भवतः ‘मधुर-’ की छपाई-भूल है। यहीं से रसों की शृंखला शुरू होती है। क्रिया इकाई ११४ से।"),
+
     "hook": "मछली से जड़ आँखें; मीठे से प्रमेह और स्थूलता।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 122, which result may a woman constantly given to the sweet (madhura) produce?",
-            ("A very stout (atisthūla) one", "मधुरानित्या … अतिस्थूलम्: a very stout one."),
-            [("A bald one", "Baldness belongs to the salty, in unit 123."),
+            ("A very stout one", "मधुरानित्या … अतिस्थूलम्: a very stout one."),
+            [("A bald (khalatika) one", "Baldness belongs to the salty, in unit 123."),
              ("A weak one", "Weakness belongs to the bitter and pungent, in unit 124."),
              ("A dusky one", "The dusky one belongs to the astringent, in unit 125.")],
             "Sweet → one with prameha, a mute, or a very stout one.",
@@ -540,15 +547,16 @@ AUTHORED["123"] = {
              "skin and eyes. Given to the salty (lavaṇa): one with early wrinkles (valī) and greying (palita), or a bald one."),
     "limits": ("raktapitta as a bleeding disorder is probable only. The printed बली is वली (wrinkle; v/b spelling). The verb "
                "comes from unit 114. Two printed lines."),
-    "explain_hi": ("अम्ल यानी खट्टे में नित्य लगी रहने वाली माता: रक्तपित्त (सम्भवतः रक्तस्राव की व्याधि) वाला, या त्वचा और आँखों के रोग वाला "
-                   "सन्तान। लवण यानी नमकीन में नित्य लगी रहने वाली: शीघ्र झुर्रियों (वली) और पलित (बाल पकना) वाला, या गंजा (खलतिक) सन्तान। "
+    "explain_hi": ("अम्ल यानी खट्टे में नित्य लगी रहने वाली माता से: रक्तपित्त (सम्भवतः रक्तस्राव की व्याधि) वाली, या त्वचा और आँखों के रोग वाली "
+                   "सन्तान। लवण यानी नमकीन में नित्य लगी रहने वाली से: शीघ्र झुर्रियों (वली) और पलित (बाल पकना) वाली, या गंजी (खलतिक) सन्तान। "
                    "छपा ‘बली’ = वली (व/ब का अदल-बदल)। "
                    "‘त्वगक्षि’ में त्वक् + अक्षि: स्वर से पहले क् → ग्। क्रिया इकाई ११४ से।"),
+
     "hook": "खट्टे से रक्तपित्त; नमक से जल्दी झुर्री, सफ़ेदी, गंजापन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 123, which result may a woman constantly given to the salty (lavaṇa) produce?",
-            ("A bald (khalatika) one", "लवणनित्या … खलतिकम्: a bald one."),
+            ("A bald one", "लवणनित्या … खलतिकम्: a bald one."),
             [("A mute one", "The mute one belongs to the sweet, in unit 122."),
              ("A dusky one", "The dusky one belongs to the astringent, in unit 125."),
              ("A short-lived one", "Short life belongs to grief, in unit 116.")],
@@ -597,16 +605,17 @@ AUTHORED["124"] = {
              "a wasted one. Given to the pungent (kaṭuka): a weak one, one with little śukra (semen), or one without offspring."),
     "limits": ("śoṣa as consumption-type is probable only. The printed दुर्वलम् is a spelling variant of दुर्बलम् (weak). "
                "The verb comes from unit 114. Two printed lines."),
-    "explain_hi": ("तिक्त यानी कड़वे में नित्य लगी रहने वाली माता: शोष (सूखने वाली व्याधि, क्षय-प्रकार सम्भावित) वाला, दुर्बल (अबल) या क्षीण "
-                   "(अपचित, इकाई ११६ जैसा) सन्तान। कटुक यानी तीखे में नित्य लगी रहने वाली: दुर्बल, अल्प शुक्र (वीर्य) वाला, या सन्तानहीन। "
+    "explain_hi": ("तिक्त यानी कड़वे में नित्य लगी रहने वाली माता से: शोष (सूखने वाली व्याधि, क्षय-प्रकार सम्भावित) वाली, दुर्बल (अबल) या क्षीण "
+                   "(अपचित, इकाई ११६ जैसा) सन्तान। कटुक यानी तीखे में नित्य लगी रहने वाली से: दुर्बल, अल्प शुक्र (वीर्य) वाली, या अनपत्य (सन्तानहीन) सन्तान। "
                    "दोनों रसों में ‘कमज़ोर’ आता है: पहले ‘अबलम्’, फिर ‘दुर्वलम्’ (= दुर्बलम्)। "
-                   "‘अनपत्य’ में अन् + अपत्य है: जिसके सन्तान न हो। क्रिया इकाई ११४ से।"),
+                   "‘अनपत्य’ में अन् + अपत्य है: जिसकी सन्तान न हो। क्रिया इकाई ११४ से।"),
+
     "hook": "कड़वे से शोष; तीखे से अल्प शुक्र, सन्तानहीनता।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 124, which result may a woman constantly given to the pungent (kaṭuka) produce?",
-            ("One without offspring (anapatya)", "कटुकनित्या … अनपत्यम्: one without offspring."),
-            [("A red-eyed one", "Red eyes belong to boar-flesh, in unit 121."),
+            ("One without offspring", "कटुकनित्या … अनपत्यम्: one without offspring."),
+            [("One with very rough hair", "Very rough hair belongs to varāha-flesh, in unit 121."),
              ("A bald one", "Baldness belongs to the salty, in unit 123."),
              ("A mute one", "The mute one belongs to the sweet, in unit 122.")],
             "Pungent → a weak one, one with little śukra, or one without offspring.",
@@ -636,7 +645,7 @@ AUTHORED["124"] = {
               [2, 3],
               "अबलम् (bitter) and दुर्वलम् = दुर्बलम् (pungent) both mean weak.",
               "अबल and दुर्बल = weak."),
-        mcq("transfer", 5, "By the pattern of अबल (अ + बल, strength), what does an invented अभय mean (भय = fear)?",
+        mcq("transfer", 5, "By the pattern of अबल (अ + बल, strength), what does अभय mean (भय = fear)?",
             ("Without fear, fearless", "अ- before a consonant = without: अभय = fearless."),
             [("Full of fear", "अ- denies; it does not fill."),
              ("A great fear", "अ- does not mean great."),
@@ -654,10 +663,11 @@ AUTHORED["125"] = {
     "rule": ("Constantly given to the astringent (kaṣāya): a dusky one, one with ānāha (distension of the belly with "
              "retention, standard), or one with udāvarta (upward course of Vāta, standard)."),
     "limits": ("कषाय here is the taste (astringent), not a decoction. The verb comes from unit 114. Nothing is said on cure."),
-    "explain_hi": ("कषाय यानी कसैले रस में नित्य लगी रहने वाली माता: श्याम (साँवला) सन्तान, आनाह (पेट फूलना और मल-वात रुकना, मानक) वाला, "
-                   "या उदावर्त (वात का उलटा, ऊपर की ओर चलना, मानक) वाला। "
+    "explain_hi": ("कषाय यानी कसैले रस में नित्य लगी रहने वाली माता से: श्याम (साँवली) सन्तान, आनाह (पेट फूलना और मल-वात रुकना, मानक) वाली, "
+                   "या उदावर्त (वात का उलटा, ऊपर की ओर चलना, मानक) वाली। "
                    "यहाँ ‘कषाय’ रस है, काढ़ा नहीं। "
                    "छपा जुड़ा शब्द = श्यामम् + आनाहिनम् + उदावर्तिनम्। ‘-इन्’ का अर्थ है: वह रोग जिसे हो। क्रिया इकाई ११४ से।"),
+
     "hook": "कसैले से साँवलापन, आनाह, उदावर्त।",
     "core": False,
     "questions": [
@@ -677,7 +687,7 @@ AUTHORED["125"] = {
                ["आनाह", "belly distension with retention"], ["उदावर्त", "upward course of Vāta"]],
               "The taste and its three results.",
               "कषाय, श्याम, आनाह, उदावर्त.", role="extend",
-              teaches="-इन् after a disease name = one who has it: आनाहिन् = one with ānāha."),
+              teaches="कषाय in a list of tastes = the astringent taste, not a decoction: कषायनित्या = constantly given to the astringent."),
         mcq("discriminate", 3, "In unit 125, what does कषाय mean?",
             ("The astringent taste", "The card says कषाय here is the taste."),
             [("A decoction to drink", "The card says it is the taste here, not a decoction."),
@@ -692,7 +702,7 @@ AUTHORED["125"] = {
              ("श्यामम् + अनाहिनम्", "That would join as श्याममनाहिनम्, with a short अ.")],
             "श्यामम् (dusky, acc.) + आनाहिनम् (one with ānāha, acc.).",
             "Final म् + vowel: म joins the vowel."),
-        mcq("transfer", 5, "By the pattern of आनाहिन् (one with ānāha), what does an invented ज्वरिन् mean (ज्वर = fever)?",
+        mcq("transfer", 5, "By the pattern of आनाहिन् (one with ānāha), what does ज्वरिन् mean (ज्वर = fever)?",
             ("One who has fever", "-इन् = one who has X: one with fever."),
             [("Fever itself, the disease", "-इन् names the person who has it, not the disease."),
              ("One who cures fever", "-इन् means having, not curing."),
@@ -732,7 +742,7 @@ NOTES_HI = {
             "सन्धियाँ जाँचीं: नित्या + अश्मरिणम् → नित्याऽश्मरिणम् (आ + अ → आ, ऽ छपा); शनैः + मेहिनम् → शनैर्मेहिनम् "
             "(ऐ के बाद विसर्ग घोष से पहले र्)। क्रिया इकाई ११४ से।"),
     "121": ("विश्वास मध्यम, कोई पाठ-चिह्न नहीं; गद्य (02.02.127)। ‘क्रथन’ दुर्लभ शब्द, अर्थ अनिश्चित (सम्भवतः √क्रथ् ‘चोट पहुँचाना’ से, "
-            "या ध्वनि-शब्द); अनूदित रखा गया, कोई प्रश्न नहीं। वराह = जंगली सूअर या सूअर (मानक)। अन्तिम शब्द ‘-रोमन्’ का बहुव्रीहि "
+            "या ध्वनि-शब्द); अनुवाद के बिना रखा गया, कोई प्रश्न नहीं। वराह = जंगली सूअर या सूअर (मानक)। अन्तिम शब्द ‘-रोमन्’ का बहुव्रीहि "
             "(द्वितीया: -रोमाणम्)। सन्धियाँ जाँचीं: रक्त + अक्षम् → रक्ताक्षम्; क्रथनम् + अतिपरुषरोमाणम् → क्रथनमतिपरुषरोमाणम्। क्रिया इकाई ११४ से।"),
     "122": ("विश्वास मध्यम; गद्य, दो छपी पंक्तियाँ (02.02.128, 02.02.129)। पाठ-चिह्न: छपा ‘मधुरानित्या’ का लम्बा आ सम्भवतः छपाई-भूल "
             "(आगे के अम्लनित्या, लवणनित्या आदि शुद्ध प्रातिपदिक रखते हैं)। छपाई में ‘मूकमतिस्थूलंवा’ में वा जुड़ा। "
@@ -763,7 +773,7 @@ AIDS = {
         "chunks": "विवृतशया | नक्तचारिणी | चोन्मत्तं | जनयति",
     },
     "115": {
-        "frame": "कलहशीला (झगड़ालू माता) → अपस्मारिणम् (अपस्मार वाला सन्तान) → (जनयति, इकाई ११४ से)।",
+        "frame": "कलहशीला (झगड़ालू माता) → अपस्मारिणम् (अपस्मार वाली सन्तान) → (जनयति, इकाई ११४ से)।",
         "sandhi": "आ + अ → आ, छपा ऽ: कलहशीला + अपस्मारिणम् → कलहशीलाऽपस्मारिणम्।",
         "puns": "मेरी बनाई, केवल सुनने की सहायता: ‘कलह’ की कड़क से ‘अपस्मार’ का झटका याद रखें।",
     },
@@ -772,7 +782,7 @@ AIDS = {
             {"label": "व्यवायशीला", "items": ["दुर्वपुष (बुरे शरीर वाला)", "अह्रीक (निर्लज्ज, अनुमानित पाठ)", "स्त्रैण"]},
             {"label": "शोकनित्या (छपा शॉक-)", "items": ["भीरु (डरपोक)", "अपचित (क्षीण)", "अल्पायु"]}]},
         "sandhi": "अ + आ → आ: अल्प + आयुषम् → अल्पायुषम् · विसर्ग → र् (उ के बाद, घोष से पहले): दुः + वपुषम् → दुर्वपुषम्।",
-        "contrast": "इसी इकाई के दो स्वभाव: व्यवाय (मैथुन) → शरीर और लज्जा के दोष · शोक → डर, क्षीणता, छोटी आयु।",
+        "contrast": "इसी इकाई के दो स्वभाव: व्यवाय (मैथुन) → बुरा शरीर, स्त्रैणता (और अनुमानित पाठ पर निर्लज्जता) · शोक → डर, क्षीणता, छोटी आयु।",
         "chunks": "व्यवायशीला | दुर्वपुषम् [अन्हीकं: अनुमानित अह्रीकम्] | स्त्रैणं वा || शॉकनित्या | भीरुम् | अपचितम् | अल्पायुषं वा",
     },
     "117": {
@@ -808,7 +818,7 @@ AIDS = {
     "122": {
         "diagram": {"groups": [
             {"label": "मत्स्यमांसनित्या", "items": ["चिरनिमेष (देर से पलक झपकाना)", "स्तब्धाक्ष (जड़ आँखें)"]},
-            {"label": "मधुरनित्या (छपा मधुरा-)", "items": ["प्रमेही (मधुमेह-प्रकार सम्भावित)", "मूक (गूँगा)", "अतिस्थूल"]}]},
+            {"label": "मधुरानित्या (सम्भवतः मधुरनित्या)", "items": ["प्रमेही (मधुमेह-प्रकार सम्भावित)", "मूक (गूँगा)", "अतिस्थूल"]}]},
         "sandhi": "अ + अ → आ: स्तब्ध + अक्षम् → स्तब्धाक्षम् · म् + स्वर: मूकम् + अतिस्थूलम् → मूकमतिस्थूलम्।",
         "anchors": "मेरी याद-पद्धति: छह रस क्रम से: मधुर (१२२) → अम्ल, लवण (१२३) → तिक्त, कटुक (१२४) → कषाय (१२५)।",
         "chunks": "मत्स्यमांसनित्या | चिरनिमेषम् | स्तब्धाक्षं वा || मधुरानित्या | प्रमेहिणम् | मूकम् | अतिस्थूलं वा",
@@ -839,13 +849,13 @@ AIDS = {
 IMAGE_SPECS = {
     ("114", "diagram"): {
         "file": "sh2-unmatta-114.svg",
-        "alt": ("Flowchart of unit 114: two habits of the mother, sleeping uncovered (vivritashaya) and roaming at night "
-                "(naktacharini), lead to a mad (unmatta) child; the verb janayati, produces."),
+        "alt": ("Flowchart of unit 114: she who sleeps uncovered (vivritashaya) and she who roams at night (naktacharini) "
+                "produce (janayati) a mad (unmatta) child."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"विवृतशया: बिना ढके सोना\"] --> C[\"उन्मत्त सन्तान\"]\n"
-                 "  B[\"नक्तचारिणी: रात में घूमना\"] --> C\n"
-                 "  C --> D[\"जनयति: उत्पन्न करती है\"]\n"),
+                 "  A[\"विवृतशया: बिना ढके सोने वाली\"] --> D[\"जनयति: उत्पन्न करती है\"]\n"
+                 "  B[\"नक्तचारिणी: रात में घूमने वाली\"] --> D\n"
+                 "  D --> C[\"उन्मत्त सन्तान\"]\n"),
     },
     ("116", "diagram"): {
         "file": "sh2-vyavaya-shoka-116.svg",
@@ -881,7 +891,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "इकाई १२२: मछली और मधुर",
         "cols": [["मत्स्यमांसनित्या", ["चिरनिमेष: देर से झपक", "स्तब्धाक्ष: जड़ आँखें"]],
-                 ["मधुरनित्या (छपा मधुरा-)", ["प्रमेही (मधुमेह-प्रकार सम्भावित)", "मूक: गूँगा", "अतिस्थूल"]]],
+                 ["मधुरानित्या (सम्भवतः मधुरनित्या)", ["प्रमेही (मधुमेह-प्रकार सम्भावित)", "मूक: गूँगा", "अतिस्थूल"]]],
     },
     ("124", "diagram"): {
         "file": "sh2-tikta-katuka-124.svg",
