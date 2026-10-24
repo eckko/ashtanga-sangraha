@@ -9,10 +9,9 @@ AUTHORED["25"] = {
     "rule": ("A basti given while the urge is held back, or pressed by excess quantity, or lacking "
              "unctuousness, salt and heat, small and with little drug: these open the statement "
              "(05.06.48-51) whose verb, comes out, is in 05.06.51."),
-    "limits": ("The verse has no verb; the result follows in 05.06.50-51. Which urge is held back is not said. "
-               "Who is pressed (the basti or the patient) is not stated. Two printed words are flagged: "
-               "कुँर्वंतो (kurvan or kurvantaḥ, an open owner decision) and अग्निग्ध (read as asnigdha, "
-               "not unctuous). Whether a- negates all three of unctuous, salt, hot is not firm. No question rests on these."),
+    "limits": ("No verb here; the result follows in 05.06.50-51. Which urge, and who is pressed, are not stated. "
+               "Flagged print: कुँर्वंतो (kurvan or kurvantaḥ, open) and अग्निग्ध (read asnigdha, not unctuous); "
+               "how far a- reaches is not firm. No question rests on these."),
     "explain_hi": ("यह श्लोक एक लम्बे कथन (05.06.48-51) का आरम्भ है: वह बस्ति जो ऊपर फेंकी जाकर मुख-नासिका से निकलती है। "
                    "पहली पंक्ति में दो कारण हैं: वेग का संरोध यानी स्वाभाविक वेग को रोकना, और अतिमात्रा यानी "
                    "अधिक मात्रा से पीड़ित (दबाई गई) बस्ति। "
@@ -83,7 +82,7 @@ AUTHORED["25"] = {
 
 # ---------------------------------------------------------------- unit 26
 AUTHORED["26"] = {
-    "title": "मुखनासिकान्निरेति",
+    "title": "मुखनासिकात् निरेति",
     "question": "By which way does the faulty basti come out, and what does it produce?",
     "rule": ("Or a mild basti, thrown upward by the wind, comes out from the mouth and nose, producing "
              "fainting (mūrcchā), nausea (hṛllāsa), thirst, burning (dāha) and the others."),
@@ -313,7 +312,7 @@ AUTHORED["29"] = {
     "question": "With what else is the patient frightened, why, and what is done to the throat?",
     "rule": ("(Frighten him) with weapons, firebrands (ulkā) and the king's men: for thus the basti goes "
              "downward. And one should make pressure on the throat with the hands and cloths, as if he were dying."),
-    "limits": ("The verb 'frighten' is carried from 05.06.55. मृयते यथा is taken as 'as if he were dying'; "
+    "limits": ("The verb 'frighten' is carried from 05.06.55. म्रियते यथा is taken as 'as if he were dying'; "
                "the literal 'so that he dies' is not intended (data note). The verse does not say how long "
                "or how hard the throat is pressed."),
     "explain_hi": ("क्रिया ‘भीषयेत्’ 05.06.55 से आती है: शस्त्रों, उल्का यानी जलती लकड़ी या मशाल, और राजपुरुषों यानी "
@@ -877,8 +876,8 @@ AUTHORED["36"] = {
              "बस्तिरत्युष्णतीक्ष्णाम्लघनः."),
             [("One cold, small and with little drug",
               "Cold and small bastis are faults of 05.06.35 and 05.06.49."),
-             ("One mild, thin and with little oil",
-              "Mild and thin is the basti of 05.06.36, not this line."),
+             ("One thin and mild, for a cruel koṣṭha",
+              "Thin and mild is the basti of 05.06.36, not this line."),
              ("One cooked with the bilva five roots",
               "That is the chest basti of 05.06.67, a remedy.")],
             "अति- governs the qualities: too hot, (too) sharp, sour, thick.",
@@ -922,7 +921,7 @@ NOTES_HI = {
     "26": ("विश्वास: मध्यम। 05.06.48-51 का कथन यहाँ पूरा होता प्रतीत होता है। टेक्स्ट-फ़्लैग: छपा ‘तृडदाह’ में अतिरिक्त अ "
            "(तृट् + दाह = तृड्दाह), अर्ध-पंक्ति १७ अक्षर की हो जाती है; इस वर्तनी पर प्रश्न नहीं। "
            "छपा ‘प्रवर्त्तयन्’ = प्रवर्तयन् (दोहरा त् सामान्य किया)। संधि जाँची: मृदुर्वा = मृदुः + वा; "
-           "मारुतेनोर्ध्वं = मारुतेन + ऊर्ध्वम् (अ + ऊ → ओ); मुखनासिकान्निरेति नहीं, छपा अलग ‘मुखनासिकात् निरेति’। "
+           "मारुतेनोर्ध्वं = मारुतेन + ऊर्ध्वम् (अ + ऊ → ओ); विक्षिप्तो मुख… = विक्षिप्तः + मुख… (-अः + घोष → -ओ)। "
            "मूर्च्छा, हृल्लास, दाह के आधुनिक अर्थ मानक।"),
     "27": ("विश्वास: मध्यम। ‘अस्य’ = उसकी (मूर्च्छा और मुख दोनों से)। खुला प्रश्न (05.06.53): ‘आक्लमनाशात्’ शायद "
            "आ + क्लम-नाशात् (थकावट मिटने तक) है, ‘आक्लम’ संज्ञा संदिग्ध। खुला प्रश्न (05.06.53): ‘व्यजेत्’ सम्भवतः "
