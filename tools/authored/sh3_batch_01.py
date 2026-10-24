@@ -26,8 +26,7 @@ AUTHORED["1"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 1, what will the speakers expound in this chapter?",
-            ("The Garbhopacaraṇīya Śārīra, care regarding the embryo",
-             "गर्भोपचरणीयं शारीरं व्याख्यास्यामः."),
+            ("The Garbhopacaraṇīya, care of the embryo", "गर्भोपचरणीयं शारीरं व्याख्यास्यामः."),
             [("The Garbhāvakrānti Śārīra, the embryo's descent",
               "That title opened chapter 2; this line names Garbhopacaraṇīya."),
              ("The six tastes and the actions of each one",
@@ -90,7 +89,7 @@ AUTHORED["2"] = {
     "questions": [
         mcq("pretest", 0, "By unit 2, what should the pregnant woman drink in the first month?",
             ("Milk (क्षीरम्), prepared and cool", "गर्भिणी क्षीरमुपसंस्कृतं … शीतं … पिबेत्."),
-            [("Ghee (सर्पिः), boiled with herbs", "Ghee boiled with herbs is unit 3, not unit 2."),
+            [("Milk with ghee and honey", "Ghee and honey join the milk in unit 8, the third (month)."),
              ("Honey (मधु), mixed into water", "No honey is named in unit 2."),
              ("Butter (नवनीत), in a measure", "Fresh butter is named in unit 9, the fourth (month).")],
             "In the first month she drinks milk, prepared, in measure, cool, at the time.",
@@ -208,7 +207,7 @@ AUTHORED["4"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 4, at what times is the food to be given?",
-            ("In the evening and in the morning", "सायं प्रातराहारयेत्: evening and morning."),
+            ("Evening and morning", "सायं प्रातराहारयेत्: evening and morning."),
             [("At midday and at midnight", "The line names सायं and प्रातः, not midday or midnight."),
              ("Only once a day, at noon", "Two times are named, evening and morning."),
              ("Only at night, after sleep", "The line names evening and morning.")],
@@ -238,7 +237,7 @@ AUTHORED["4"] = {
              ("प्रातरा + हारयेत्", "प्रातरा is not a word; the verb is आहारयेत्, from आ-√हृ.")],
             "प्रातर् (in the morning) + आहारयेत् (should have her take as food).",
             "र् + vowel: र् stays."),
-        mcq("transfer", 5, "By -प्राय in द्रवप्रायम्, what does an invented जलप्रायम् (of a dish) mean?",
+        mcq("transfer", 5, "By -प्राय in द्रवप्रायम्, what does जलप्रायम् (of a dish, a new example) mean?",
             ("Mostly water", "-प्राय = mostly, as द्रवप्राय = mostly liquid."),
             [("Without any water", "Without would need a word like निर्-; -प्राय means mostly."),
              ("With a little water", "-प्राय does not mean a little."),
@@ -266,7 +265,7 @@ AUTHORED["5"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 5, which two things should she not resort to?",
-            ("Oil massage and rubbing with powders", "न चाभ्यंगोद्वर्तनानि सेवेत."),
+            ("Oil massage and powder rubs", "न चाभ्यंगोद्वर्तनानि सेवेत."),
             [("Milk and ghee taken cool", "Milk and ghee are prescribed in units 2 and 3, not forbidden."),
              ("Bathing and sleeping by day", "Neither is named in unit 5."),
              ("Honey and fresh butter", "These are added in later months (units 8, 9), not forbidden here.")],
@@ -343,7 +342,7 @@ AUTHORED["6"] = {
               "यथोक्तानि, दोषकराणि, परिहरेत्, च.", role="extend",
               teaches="-कर at the end of a compound = causing, making: दोषकर = causing doṣa (disturbance of the humours)."),
         mcq("discriminate", 3, "Which part of unit 6 does the card call only a conjecture?",
-            ("That the limit is up to the fifth month", "आर्पचमान् is not a word; आपञ्चमात् is a guess."),
+            ("The fifth-month limit", "आर्पचमान् is not a word; आपञ्चमात् is a guess."),
             [("That something is to be avoided", "Sure: परिहरेत्, should avoid."),
              ("That the things cause doṣa", "Sure: दोषकराणि."),
              ("That they were stated before", "Sure: यथोक्तानि, as stated.")],
@@ -460,7 +459,7 @@ AUTHORED["8"] = {
                "मधु = honey."),
           "मधु = honey; with सर्पिः (ghee) it makes the pair सर्पिर्मधु."),
         mcq("discriminate", 3, "By the card, what does the ending of सर्पिर्मधुभ्याम् show?",
-            ("Instrumental dual: with the two, ghee and honey", "Labelled inst. du., a dvandva of two members."),
+            ("Instrumental dual: with the two", "Labelled inst. du., a dvandva of two members: ghee and honey."),
             [("Plural: with many kinds of ghee", "Two members, ghee and honey, take the dual."),
              ("Genitive: of ghee and of honey", "The genitive dual would end in -योः."),
              ("Nominative: the one who drinks", "The drinker is the pregnant woman; this word is instrumental.")],
@@ -582,7 +581,7 @@ AUTHORED["10"] = {
               "A two-word line: the fifth (month) and milk-ghee, with no verb.",
               "पंचमे क्षीरसर्पिः (no verb)."),
         mcq("apply", 4, "Why is the printed पंचमे the same word as पञ्चमे?",
-            ("Anusvara before च stands for the nasal ञ्", "An anusvara before a stop stands for that class's nasal."),
+            ("Anusvara before च stands for ञ्", "An anusvara before a stop stands for that class's nasal."),
             [("पंचमे is a dual form of पञ्चमे", "The anusvara is spelling only; it changes no ending."),
              ("The anusvara marks a long vowel", "Anusvara is a nasal, not a length mark."),
              ("पंचमे is a misprint for पचमे", "There is no word पचमे; the nasal is real.")],
@@ -690,10 +689,10 @@ AUTHORED["12"] = {
                "सप्तमे = in the seventh."),
           "सप्तमे = in the seventh: locative singular of the ordinal सप्तम."),
         mcq("discriminate", 3, "What does unit 12 print for the seventh (month)?",
-            ("Only and in the seventh: no substance, no verb", "The note: no substance or verb is given."),
+            ("Only सप्तमे च, nothing more", "The note: no substance or verb is given."),
             [("Milk with ghee and honey", "That is unit 8, the third."),
              ("Fresh butter, an akṣa in measure", "That is unit 9, the fourth."),
-             ("Milk cooked with sweet medicines", "That is units 7 and 11, not unit 12.")],
+             ("Milk cooked with sweet medicines", "That is unit 7, the second (month).")],
             "Unit 12 prints only सप्तमे च.",
             "सप्तमे च (nothing more)."),
         mcq("apply", 4, "By the card, what form is सप्तमे?",
@@ -737,7 +736,7 @@ AUTHORED["13"] = {
              ("The ghee and honey she drinks", "Ghee and honey are unit 8, and no cause is tied to them.")],
             "The women's view: the embryo's hair arising causes the mother's burning.",
             "केशोत्पत्त्या … विदाहः."),
-        order(1, "Put the printed words of unit 13 in the line's order.",
+        order(1, "Put these printed parts of unit 13 in the line's order.",
               ["तस्मिंश्च", "गर्भस्यकेशोत्पत्त्या", "मातुर्विदाहो भवतीति", "स्त्रियो भाषंते", "नेति",
                "भगवान्आत्रेयः"],
               "And in that, by the arising of the embryo's hair, the mother's burning occurs, so women say; not so, Ātreya.",
@@ -828,7 +827,7 @@ AIDS = {
                                 "items": ["उपसंस्कृत (संस्कार किया)", "मात्रावत् (मात्रा से)", "शीत (ठण्डा)", "काले (समय पर)"]}]},
         "chunks": "प्रथमेमासि | गर्भिणी | क्षीरमुपसंस्कृतं | मात्रावच्छीतं | काले | पिबेत्",
         "sandhi": "म् + स्वर: क्षीरम् + उपसंस्कृतम् → क्षीरमुपसंस्कृतम् · त् + श → च्छ (यहाँ ऐसे छपा): मात्रावत् + शीतम् → मात्रावच्छीतम्।",
-        "anchors": "याद-सूत्र: ‘उ-मा-शी-का’ — उपसंस्कृत, मात्रावत्, शीत, काले: दूध के चार विशेषण क्रम से। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: ‘उ-मा-शी-का’ — उपसंस्कृत, मात्रावत्, शीत, काले: दूध के तीन गुण और पीने का समय, क्रम से। (मेरी याद-पद्धति)",
     },
     "3": {
         "chain": {"steps": ["उस (पहले) मास में, पहली बारह रातें", "दूध से उत्पन्न सर्पि (घी)",
@@ -873,7 +872,7 @@ AIDS = {
     "10": {
         "chunks": "पंचमे | क्षीरसर्पिः",
         "sandhi": "अनुस्वार = वर्ग का नासिक्य: पंचमे = पञ्चमे (च से पहले ञ्)।",
-        "anchors": "याद-सूत्र: ‘पाँच में पक्का घी’ — पंचमे क्षीरसर्पिः। (मेरी याद-पद्धति, केवल याद के लिए)",
+        "anchors": "याद-सूत्र: ‘पाँचवें में क्षीर-सर्पि’ — पंचमे क्षीरसर्पिः। (मेरी याद-पद्धति, केवल याद के लिए)",
     },
     "11": {
         "chunks": "षष्ठे | तदेव | मधुरौषधसिद्धं",
@@ -918,7 +917,7 @@ IMAGE_SPECS = {
                  "  B --> C\n"
                  "  C --> D[\"पिए\"]\n"
                  "  D --> E[\"अनुपान: ठण्डा जल\"]\n"
-                 "  E -.- F[\"सोना-चाँदी के साथ (संदिग्ध)\"]\n"),
+                 "  E -.- F[\"सोना-चाँदी से तैयार (तैयारी का शब्द संदिग्ध)\"]\n"),
     },
     ("4", "diagram"): {
         "file": "sh3-saayam-praatah-4.svg",
