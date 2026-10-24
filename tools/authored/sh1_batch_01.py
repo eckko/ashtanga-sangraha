@@ -137,7 +137,7 @@ AUTHORED["3"] = {
     "rule": ("अथ अतः पुत्रकामीयम् शारीरम् व्याख्यास्यामः: now, therefore, we shall explain the putrakāmīya (relating to one "
              "who desires a son) Śārīra (relating to the body)."),
     "limits": ("The line does not contain the word chapter; that it names the chapter Putrakāmīya of the Śārīra part is "
-               "the usual reading only. The short इ of the printed पुत्रकामियं is probably for long ई."),
+               "the usual reading only. The printed पुत्रकामियं has short इ; long ई (पुत्रकामीयम्, from -ईय) is a possible correction, used on this card."),
     "explain_hi": ("यह आरम्भ-सूत्र है: ‘अब, इसलिए, हम पुत्रकामीय शारीर की व्याख्या करेंगे।’ "
                    "‘पुत्रकामीय’ का अर्थ है ‘पुत्र चाहने वाले से सम्बन्धित’, और ‘शारीर’ का अर्थ है ‘शरीर से सम्बन्धित’। "
                    "‘व्याख्यास्यामः’ भविष्यत्-काल, उत्तम पुरुष बहुवचन है: ‘हम व्याख्या करेंगे’। "
@@ -384,9 +384,9 @@ AUTHORED["7"] = {
     "questions": [
         mcq("pretest", 0, "By unit 7, what kind of offspring do the two beget?",
             ("Offspring endowed with potency", "वीर्यान्वितम् अपत्यम्."),
-            [("Offspring of short life", "Short life is said of the too-young parents in unit 8."),
+            [("Offspring of short life", "Short life is said in unit 8 of an embryo from too-young parents, not here."),
              ("Offspring of unlike gotra", "Gotra is spoken of in unit 5, about the girl."),
-             ("Offspring with weak senses", "Weak senses come in unit 8, not here.")],
+             ("Offspring born in the first three nights", "No such time is named in unit 7.")],
             "They beget offspring endowed with potency (वीर्यान्वित).",
             "वीर्य + अन्वित = endowed with potency."),
         order(1, "Put the words of unit 7 in the line's order.",
@@ -429,12 +429,12 @@ AUTHORED["8"] = {
     "title": "ऊनपञ्चविंशतिवर्षेण",
     "question": "What does unit 8 say may happen to an embryo placed when the parents are too young?",
     "rule": ("An embryo placed by a man of less than twenty-five in a woman of less than sixteen may perish, or be of short "
-             "life with little strength, health and means, or with defective senses."),
+             "life with little strength, health and means, or (on a corrected reading) with defective senses."),
     "limits": ("Low confidence. कुक्षिस्य (read कुक्षिस्थः, in the womb) and विक्लेंद्रिय (read विकलेन्द्रिय) are corrections; "
                "the end (ऋतु, first three nights, vitiated, शुक्रार्तवहति) is unclear and its sense is not stated. Questions use only "
                "the sure first part."),
     "explain_hi": ("यह इकाई चेतावनी देती है: पच्चीस से कम आयु के पुरुष द्वारा सोलह से कम आयु की स्त्री में स्थापित गर्भ "
-                   "नष्ट हो सकता है, या अल्पायु, कम बल-आरोग्य-विभव वाला, या विकल इन्द्रियों वाला हो सकता है। "
+                   "नष्ट हो सकता है, या अल्पायु, कम बल-आरोग्य-विभव वाला, या (पाठ-सुधार पर) विकल इन्द्रियों वाला हो सकता है। "
                    "‘ऊन’ का अर्थ है ‘कम’ (इकाई 5 के ‘देशीय’ = लगभग से भिन्न)। "
                    "‘आहितो गर्भः’ में आहितः + गर्भः है: घोष व्यंजन से पहले अः → ओ। "
                    "वाक्य का अन्तिम भाग (ऋतु की पहली तीन रातें, दूषित होना, ‘शुक्रार्तवहति’) अस्पष्ट है और यहाँ उस पर कुछ नहीं पूछा गया।"),
@@ -502,7 +502,7 @@ AUTHORED["9"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 9, what obtains the name śukra?",
-            ("The essence of well-digested food that has reached the marrow", "आहारस्य ... सारः शुक्रसंज्ञां लभते."),
+            ("Essence of digested food reaching marrow", "आहारस्य ... सारः शुक्रसंज्ञां लभते."),
             [("The blood that flows each month for three days", "That is ārtava, in unit 11."),
              ("The whole of the food eaten that day", "Only its essence (सार) is named."),
              ("The waste left over from undigested food", "The food is well transformed (सम्यक्परिणत).")],
@@ -524,7 +524,7 @@ AUTHORED["9"] = {
              ("क्रमः + मज्जानम्", "A visarga would give क्रमो मज्जानम्."),
              ("क्रमा + न्मज्जानम्", "न्मज्जानम् is not a word.")],
             "क्रमात् (in order) + मज्जानम् (marrow): त् → न् before a nasal.",
-            "Final त् + nasal → न् + nasal."),
+            "Final त् + nasal → usually न् + nasal (as printed here)."),
         mcq("apply", 4, "By unit 9, which tissue has the food reached when its essence is named śukra?",
             ("Marrow (मज्जन्)", "मज्जानम् अनुप्राप्तस्य: having reached the marrow."),
             [("Blood (रक्त)", "Blood is not named in unit 9."),
@@ -535,11 +535,11 @@ AUTHORED["9"] = {
         mcq("transfer", 5, "By the rule of क्रमान्मज्जानम्, how is जगत् + नाथः (lord of the world) written?",
             ("जगन्नाथः", "त् before the nasal न becomes न्."),
             [("जगत्नाथः", "त् does not stay before a nasal."),
-             ("जगद्नाथः", "Before a nasal it goes further, to न्."),
+             ("जगच्नाथः", "त् does not become च् before न; it becomes न्."),
              ("जगनाथः", "The consonant is not lost; it becomes न्.")],
             "जगत् + नाथः = जगन्नाथः, like क्रमात् + मज्जानम् = क्रमान्मज्जानम्.",
             "Final त् + nasal → न्.",
-            teaches="A final त् before a nasal (न, म) becomes न्: क्रमात् मज्जानम् → क्रमान्मज्जानम्."),
+            teaches="A final त् before a nasal (न, म) usually becomes न्: क्रमात् मज्जानम् → क्रमान्मज्जानम्."),
     ],
 }
 
@@ -547,8 +547,8 @@ AUTHORED["9"] = {
 AUTHORED["10"] = {
     "title": "गर्भाधानयोग्यं शुक्रम्",
     "question": "By unit 10, where does śukra abide, and what qualities make it fit for conception?",
-    "rule": ("Śukra pervades the body, especially marrow, testicles and breasts; stirred, it issues from limb to limb. Gentle, "
-             "unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, of ghee, oil or honey colour, it is fit for conception."),
+    "rule": ("That (read as śukra) abides in the body, especially in marrow, testicles and breasts; stirred, it issues from limb to limb. "
+             "Gentle, unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, of ghee, oil or honey colour, śukra is fit for conception."),
     "limits": ("Low confidence for the first sentence. The similes (ghee in milk, jaggery in sugarcane juice) rest on corrections; "
                "संप्रहन (probably union) and हृदयावेश are interpretations; कला is a doctrinal term. Questions use the list of "
                "qualities and the named sites only."),
@@ -584,7 +584,7 @@ AUTHORED["10"] = {
              ("That of jaggery, honey or milk", "Jaggery and milk are not in the colour list.")],
             "The colour is that of any one of ghee, oil or honey (क्षौद्र).",
             "घृत, तैल, क्षौद्र: अन्यतम-वर्ण."),
-        multi("apply", 4, "Where, by unit 10, does śukra abide especially?",
+        multi("apply", 4, "Where, by unit 10, does that (read as śukra) abide especially?",
               [("In the marrow (मज्जा)", "Right: मज्ज-."),
                ("In the testicles (मुष्क)", "Right: -मुष्क-."),
                ("In the breasts (स्तन)", "Right: -स्तनेषु."),
@@ -665,19 +665,19 @@ AUTHORED["11"] = {
 # ---------------------------------------------------------------- unit 12
 AUTHORED["12"] = {
     "title": "अतिप्रसङ्गेनानृतावृतौ",
-    "question": "By unit 12, what names does ārtava take when it goes on excessively?",
-    "rule": ("Through excessive continuation (अतिप्रसङ्ग), out of season or in season, that very ārtava takes the names "
-             "asṛgdara, pradara (both probable as abnormal bleeding or discharge), vyāpad (disorder) and raktayoni."),
+    "question": "By unit 12, what cause is named, and which names follow it?",
+    "rule": ("Through excessive continuation (अतिप्रसङ्ग), out of season or in season, that very thing (read as ārtava) is taken "
+             "to obtain the names asṛgdara, pradara (probable: abnormal bleeding or discharge), vyāpad (disorder) and raktayoni."),
     "limits": ("Medium confidence. The printed वातदेवा सृग्दरं is re-split as वा तद् एवासृग्दरम्. Asṛgdara and pradara are "
                "probable identifications whose use varies; the exact grammar of the names is not certain. No question rests on असृग्दर."),
-    "explain_hi": ("पिछली इकाई का आर्तव (‘तद्’ = वही) जब अतिप्रसङ्ग से, ऋतु के बाहर या ऋतु में, बढ़ता है, तो उसे कई नाम मिलते हैं: "
+    "explain_hi": ("पिछली इकाई का आर्तव (‘तद्’ = वही) जब अतिप्रसङ्ग (अधिक चलते रहने) से, ऋतु के बाहर या ऋतु में, होता है, तो उसे कई नाम मिलते हैं: "
                    "असृग्दर, प्रदर (दोनों सम्भवतः अधिक रक्तस्राव या असामान्य स्राव), व्यापद् (विकार), और रक्तयोनि। "
                    "‘अनृतावृतौ’ में अनृतौ + ऋतौ है: औ स्वर से पहले आव् बनता है। "
                    "‘असृग्दर’ वाला भाग छपे पाठ के पुनर्विभाजन पर टिका है।"),
     "hook": "अति बहे तो नाम: असृग्दर, प्रदर, व्यापद्, रक्तयोनि।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 12, through what does ārtava take these new names?",
+        mcq("pretest", 0, "By unit 12, which cause is named first, in the instrumental?",
             ("Excessive continuation (अतिप्रसङ्ग)", "अतिप्रसङ्गेन: by excessive continuation."),
             [("Cold food and drink", "No food is named."),
              ("Grief, fear and sleeplessness at night", "None of these is named."),
@@ -701,14 +701,14 @@ AUTHORED["12"] = {
              ("अनृतः + ऋतौ", "A visarga would not give आव्.")],
             "अनृतौ (out of season) + ऋतौ (in season).",
             "औ + vowel → आव् + vowel."),
-        multi("apply", 4, "Which names does unit 12 say ārtava obtains?",
-              [("प्रदर", "Right: प्रदरम्."),
-               ("व्यापद्", "Right: व्यापदम्."),
-               ("रक्तयोनि", "Right: रक्तयोनिसंज्ञाम्."),
-               ("रक्तपित्त", "Raktapitta is named in unit 13 as a treatment to consult."),
-               ("शुक्र", "Śukra is the name of the essence of food, unit 9.")],
+        multi("apply", 4, "Which words are printed in unit 12?",
+              [("प्रदरम्", "Right: प्रदरं."),
+               ("व्यापदम्", "Right: व्यापदं."),
+               ("रक्तयोनिसंज्ञाम्", "Right: रक्तयोनिसंज्ञां."),
+               ("रक्तपित्तम्", "Raktapitta is named in unit 13."),
+               ("शुक्रम्", "Śukra is named in units 9 and 10.")],
               [0, 1, 2],
-              "Pradara, vyāpad and raktayoni are named (asṛgdara too, on the re-split reading).",
+              "प्रदरम्, व्यापदम् and रक्तयोनिसंज्ञाम् stand in the line; how they relate to the subject is not certain.",
               "प्रदर, व्यापद्, रक्तयोनि."),
         mcq("transfer", 5, "By the rule of अनृतावृतौ, how is गुरौ + इति written when joined?",
             ("गुराविति", "औ + vowel → आव्: गुरौ + इति = गुराविति."),
@@ -836,7 +836,7 @@ AIDS = {
         "pegs": "मेरा बनाया चित्र: एक तराजू, एक पलड़े पर ‘१६’ और दूसरे पर ‘२५’ लिखा, बीच में ‘पुत्रार्थम्’ की तख़्ती। (केवल याद के लिए)",
     },
     "7": {
-        "chain": {"steps": ["तदा (तब, उस आयु में)", "तौ प्राप्तवीर्यौ (दोनों शक्ति पाए हुए)", "जनयतः (उत्पन्न करते हैं)", "वीर्यान्वितम् अपत्यम्"]},
+        "chain": {"steps": ["तदा (तब, उस आयु में)", "तौ प्राप्तवीर्यौ (दोनों शक्ति पाए हुए)", "वीर्यान्वितम् अपत्यम् (शक्तियुक्त सन्तान)", "जनयतः (उत्पन्न करते हैं)"]},
         "chunks": "तदा हि तौ | प्राप्तवीर्यौ | वीर्यान्वितमपत्यं | जनयतः",
         "sandhi": "अ + अ → आ: वीर्य + अन्वितम् → वीर्यान्वितम् · म् + स्वर: वीर्यान्वितम् + अपत्यम् → वीर्यान्वितमपत्यम्।",
     },
@@ -928,7 +928,7 @@ IMAGE_SPECS = {
     },
     ("10", "diagram"): {
         "file": "sh1-shukra-gunas-10.svg",
-        "alt": ("Mind map of unit 10: shukra fit for conception and its qualities in text order: gentle, unctuous, heavy, white, "
+        "alt": ("Mind map of unit 10: shukra fit for conception and its qualities: gentle, unctuous, heavy, white, "
                 "honey-scented, sweet, slimy, abundant, thick, and of the colour of ghee, oil or honey."),
         "type": "mermaid",
         "code": ("mindmap\n"
@@ -959,7 +959,7 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"अतिप्रसङ्ग से\"] --> B[\"अनृतौ या ऋतौ\"]\n"
-                 "  B --> C[\"वही आर्तव\"]\n"
+                 "  B --> C[\"वही आर्तव<br/>(पुनर्विभाजन)\"]\n"
                  "  C --> D[\"नाम पाता है\"]\n"
                  "  D --> E[\"असृग्दर<br/>(पुनर्विभाजन)\"]\n"
                  "  D --> F[\"प्रदर\"]\n"
