@@ -282,7 +282,7 @@ AUTHORED["42"] = {
             "सम्पूर्णत्वम् (fullness) + अपरिहानिः (non-decline) + च (and).",
             "Final म् + vowel: म् stays; visarga + च → श्."),
         mcq("apply", 4, "In मध्यमपि, why is the final म् of मध्यम् written as म् and not as ं?",
-            ("It stands before a vowel (अपि)", "A final म् before a vowel is written म् and joins it: मध्यम् + अपि."),
+            ("It stands before a vowel", "It stands before अपि; a final म् before a vowel is written म् and joins it: मध्यम् + अपि."),
             [("It stands before a consonant", "Before a consonant inside a sentence it would be written ं."),
              ("It stands at the end of a line", "अपि follows it in the same line."),
              ("It is a misprint for मध्यमं", "The data finds no typo: this is the regular writing.")],
@@ -378,7 +378,7 @@ AUTHORED["44"] = {
             ("Up to thirty", "आ त्रिंशतः यौवनम्: up to thirty, youth."),
             [("Up to forty", "Forty ends fullness (sampūrṇatva), the next stage."),
              ("Up to sixty", "Sixty ends the middle age as a whole (unit 39)."),
-             ("Up to fifty", "No fifty is named in this account.")],
+             ("Up to twenty", "No twenty is named in this account.")],
             "तत्रात्रिंशतो यौवनम्: up to thirty, youth.",
             "आ त्रिंशतः = up to thirty."),
         order(1, "Put these sure items of the list in unit 44 in the printed order.",
@@ -731,7 +731,7 @@ AUTHORED["50"] = {
             ("Three", "वयस्त्रिधा विभजेत्: one should divide the age in three ways."),
             [("Two", "त्रिधा is 'in three ways', not two (द्विधा)."),
              ("Four", "त्रिधा is 'in three ways', not four (चतुर्धा)."),
-             ("Ten", "त्रिधा is 'in three ways', not ten (दशधा).")],
+             ("Seven", "त्रिधा is 'in three ways', not seven (सप्तधा).")],
             "वयः त्रिधा विभजेत्.",
             "त्रिधा = in three ways."),
         order(1, "Put these printed parts of unit 50 in order.",
@@ -919,7 +919,7 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 40: the young age is threefold by mode of living (on breast-milk, on food, on both); "
                 "in it, growth of body size and predominance of śleṣman (Kapha)."),
         "type": "mermaid",
-        "code": ("flowchart TD\n"
+        "code": ("flowchart LR\n"
                  "  A[\"बाल वय\"] --> B[\"त्रिविध: पोषण से\"]\n"
                  "  B --> C[\"१ स्तन्य पर\"]\n"
                  "  B --> D[\"२ आहार पर\"]\n"
@@ -966,7 +966,7 @@ IMAGE_SPECS = {
                 "line order: looseness of flesh and joints, rough skin, stooping, trembling, cough, breathlessness, śleṣman and nasal mucus, "
                 "wasting of the dhātus."),
         "type": "mermaid",
-        "code": ("flowchart TD\n"
+        "code": ("flowchart LR\n"
                  "  A[\"वृद्ध वय: वात की अधिकता\"] --> B[\"तेन: उससे\"]\n"
                  "  B --> C[\"१ मांस-सन्धि की शिथिलता\"]\n"
                  "  B --> D[\"२ त्वचा की रूखाई\"]\n"

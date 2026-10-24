@@ -229,7 +229,7 @@ AUTHORED["29"] = {
             "-आदिषु + अ-: उ before a different vowel → व्.",
             "उ + unlike vowel → व्."),
         mcq("apply", 4, "In unit 29, what does the particle हि add to the line?",
-            ("A reason ('for')", "हि = for, indeed: the line gives a reason for the units before."),
+            ("A reason ('for')", "हि = for, indeed: it gives a reason."),
             [("A question ('whether')", "A question would need किम्; हि gives a reason."),
              ("A negation ('not')", "A negation would need न; हि gives a reason."),
              ("A wish ('may it be')", "A wish would need an optative or imperative; हि gives a reason.")],
@@ -409,7 +409,7 @@ AUTHORED["32"] = {
             ("ऐः before a vowel → ऐर्", "A visarga after a vowel other than अ/आ becomes र् before a vowel."),
             [("Every visarga before a vowel → र्", "Not every: अः + अ gives ओऽ, and आः drops the visarga."),
              ("The र् belongs to the word एव", "The particle is एव; the र् comes from the visarga."),
-             ("ऐः before a vowel drops ः", "Dropping is for आः; after ऐ the visarga becomes र्.")],
+             ("ऐः before a vowel drops ः", "Dropping happens after अ or आ; after ऐ the visarga becomes र्.")],
             "-वृत्तैः + एव → -वृत्तैरेव: ऐः before a vowel → ऐर्.",
             "ऐः / इः / उः + vowel → र्."),
         mcq("transfer", 5, "By the pattern of -वृत्तैः + एव → -वृत्तैरेव, how is देवैः + अपि joined in a new example?",
@@ -622,7 +622,7 @@ AUTHORED["36"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In the list of beings in unit 36, what does तिर्यक् denote?",
-            ("Animals", "तिर्यक् = animals (standard), beings that move horizontally."),
+            ("Animals", "तिर्यक् = animals (standard sense)."),
             [("Humans", "Humans are मानुष, the item before तिर्यक्."),
              ("Departed spirits", "Departed spirits are प्रेत, the item after तिर्यक्."),
              ("Hell-beings", "Hell-beings are नारक, the last item.")],
@@ -680,7 +680,7 @@ AUTHORED["37"] = {
         mcq("pretest", 0, "By unit 37, what are the three stages of age?",
             ("Young, middle and old", "बालं मध्यं वृद्धं च: young, middle and old."),
             [("Birth, growth and death", "The line names stages of age, not birth or death."),
-             ("Infant, boy and youth", "Only बाल is a young stage; the others are middle and old."),
+             ("Spring, summer and winter", "The line names stages of age, not seasons."),
              ("Middle, old and dying", "The first stage is बाल (young); no dying stage is named.")],
             "बाल, मध्य, वृद्ध.",
             "वयस्त्रिविधं बालं मध्यं वृद्धं च."),
@@ -743,7 +743,7 @@ NOTES_HI = {
     "31": ("गद्य; विश्वास कम; दो छपी पंक्तियाँ (०२.०८.३९ और ०२.०८.४०) जोड़ी गईं। पाठ-चिह्न (सम्भव): ‘सेमं’ कोई शब्द नहीं, ‘समम्’ "
            "अनुमान (ए/अ की भूल); ‘समम्’ क्रियाविशेषण ‘समान रूप से’ भी हो सकता है। पाठ-चिह्न (सम्भव, अच्छा समर्थित): दूसरी पंक्ति का "
            "‘सम’ = ‘सप्त’ (प्त/म की भूल; इकाई ३३ में सात आधार, इकाई ३४ में ‘सप्तादीनां’)। पहली पंक्ति की क्रिया इकाई ३० से; क्या दिया "
-           "जाए, यह नहीं कहा; छह रसों का नियम नहीं कहा। वाक्य-रचना अनिश्चित। सन्धि जाँची: यथा + ऋतु → यथर्तु (आ + ऋ → अर्); "
+           "जाए, यह नहीं कहा; छह रसों की कोई विधि नहीं कही। वाक्य-रचना अनिश्चित। सन्धि जाँची: यथा + ऋतु → यथर्तु (आ + ऋ → अर्); "
            "सात्म्येन + अन्यान् → सात्म्येनान्यान् (अ + अ → आ); अन्यान् + च → अन्यांश्च (च से पहले न् → ंश्); दोषवत् + च → दोषवच्च "
            "(च से पहले त् → च्); गुणैः + अपि → गुणैरपि (ऐः + स्वर → ऐर्)। सत्त्व = मन (मानक)।"),
     "32": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘ताः’ = इकाई ३१ की प्रकृतियाँ (स्त्री. बहु.), पूर्वपद माना गया। ‘तदभिनिवृत्त’ = "
