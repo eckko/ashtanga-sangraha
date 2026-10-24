@@ -25,7 +25,7 @@ AUTHORED["1"] = {
             ("The kalpa of the siddhabasti enemas",
              "सिद्धबस्तिकल्पम् = the kalpa (preparation) of the siddhabasti."),
             [("The preparation of emetic drugs (vamana)",
-              "Emetics are the topic of Kalpasthāna chapter 1, not of this line."),
+              "No emetic (vamana) is named in this line; it names the siddhabasti."),
              ("The mishaps of purgation (virecana)",
               "No mishap or purgation is named in this line."),
              ("The weights and measures of drugs",
@@ -110,12 +110,12 @@ AUTHORED["2"] = {
                ["बहुफलान्", "of many benefits"], ["सुखान्", "pleasant"]],
               "These words give the instruction and two of the qualities.",
               "प्रयुञ्जीत = one should employ; सर्वदा = at all times; बहुफलान् = of many benefits; सुखान् = pleasant."),
-        order(2, "Put these printed words of line 2 in the order of the verse.",
-              ["निर्व्यापदो", "बहुफलान्", "वलबुद्धि करान्", "सुखान्"],
-              "The qualities run: free from mishap, of many benefits, producing (strength and) intelligence, pleasant.",
-              "निर्व्यापदो · बहुफलान् · वलबुद्धि करान् · सुखान्.",
+        order(2, "Put these words of line 1 in the order of the verse.",
+              ["सिद्धबस्तीन्", "प्रयुञ्जीत", "सर्वदा", "सर्वदेहिनाम्"],
+              "Line 1 runs: the siddhabastis, one should employ, at all times, for all embodied beings.",
+              "सिद्धबस्तीन् · प्रयुञ्जीत · सर्वदा · सर्वदेहिनाम्.",
               role="extend",
-              teaches="Line 2 lists four qualities of the siddhabastis, ending with सुखान् (pleasant)."),
+              teaches="Line 1 gives object, verb, then when (सर्वदा) and for whom (सर्वदेहिनाम्)."),
         mcq("discriminate", 3, "Which split of सिद्धबस्तीन्प्रयुंजीत is right?",
             ("सिद्धबस्तीन् + प्रयुञ्जीत",
              "The accusative plural -ईन् is the object of प्रयुञ्जीत (one should employ)."),
@@ -126,16 +126,16 @@ AUTHORED["2"] = {
             "सिद्धबस्तीन् (the siddhabastis, acc. pl.) + प्रयुञ्जीत (one should employ).",
             "-ईन् = masculine accusative plural of an -इ stem (बस्तीन्)."),
         multi("apply", 4,
-              "Which qualities does verse 2 give the siddhabastis?",
-              [("Free from mishap", "निर्व्यापदः = free from mishap."),
+              "Which statements fit verse 2 about the siddhabastis?",
+              [("They are to be employed at all times", "सर्वदा = at all times."),
                ("Quick to act within an hour", "No time of action is named."),
                ("Pleasant", "सुखान् = pleasant."),
                ("To be given only by a royal physician", "No physician is named."),
                ("Of many benefits", "बहुफलान् = of many benefits."),
                ("Cheap and easy to collect", "Nothing about cost or collecting is said.")],
               [0, 2, 4],
-              "The verse names four qualities: free from mishap, of many benefits, producing strength and intelligence, pleasant.",
-              "निर्व्यापद् · बहुफल · बलबुद्धिकर · सुख."),
+              "The verse says: at all times, for all beings; of many benefits, pleasant (and two qualities on flagged words).",
+              "सर्वदा · सर्वदेहिनाम् · बहुफल · सुख."),
         mcq("transfer", 5,
             "Like प्रयुञ्जीत (one should employ, √युज्), which form means one should eat (√भुज्)?",
             ("भुञ्जीत", "Same 3 sg optative ātmanepada pattern: -उञ्जीत, as in प्रयुञ्जीत."),
@@ -152,15 +152,15 @@ AUTHORED["2"] = {
 AUTHORED["3"] = {
     "title": "निरूहो माधुतैलिकः",
     "question": "Which nirūha does verse 3 describe, and which ingredients can be read in it?",
-    "rule": ("Honey and oil in equal parts, a karṣa, two picu from rock salt, miśi (probably "
-             "dill), with a decoction of castor (eraṇḍa) root: the mādhutailika nirūha "
+    "rule": ("Honey and oil in equal parts, a karṣa, two picu from rock salt, miśi (dill; "
+             "disputed), with a decoction of castor (eraṇḍa) root: the mādhutailika nirūha "
              "(decoction enema) made with honey and oil."),
     "limits": ("Low confidence. Which quantity (karṣa, two picu) goes with which drug is not "
                "clear, so no question rests on it. miśi as dill is disputed (fennel also given). "
                "Printed काथेन is read क्वाथेन (flagged). Whether mādhutailika is a proper name "
                "is an open observation."),
     "explain_hi": ("यह श्लोक मधु और तैल वाले निरूह यानी काढ़े की बस्ति का वर्णन है। "
-                   "पहली पंक्ति में मधु और तैल को बराबर कहा गया है; फिर ‘कर्ष’, सैन्धव से ‘दो पिचु’ और मिशि यानी सम्भवतः सोया आते हैं। "
+                   "पहली पंक्ति में मधु और तैल को बराबर कहा गया है; फिर ‘कर्ष’, सैन्धव से ‘दो पिचु’ और मिशि यानी सोया (पहचान विवादित; सौंफ़ भी कही जाती है) आते हैं। "
                    "कौन-सी मात्रा किस द्रव्य की है, यह पंक्ति से स्पष्ट नहीं है। "
                    "दूसरी पंक्ति कहती है कि यह निरूह एरण्ड यानी अरंडी की जड़ के काढ़े से बनता है, और इसका नाम-सा विशेषण माधुतैलिक (मधु-तैल वाला) है।"),
     "hook": "अरंडी-जड़ का काढ़ा + बराबर मधु-तैल = माधुतैलिक निरूह।",
@@ -176,15 +176,15 @@ AUTHORED["3"] = {
             "मधुतैले समे = honey and oil in equal parts."),
         match(1, "Match each word of verse 3 to its meaning.",
               [["मधु", "honey"], ["तैल", "oil"], ["सैन्धव", "rock salt"],
-               ["एरण्डमूल", "castor root"], ["निरूह", "decoction enema"]],
-              "These are the readable items and the name of the enema.",
-              "मधु = honey; तैल = oil; सैन्धव = rock salt; एरण्डमूल = castor root; निरूह = decoction enema."),
+               ["सम", "equal"], ["निरूह", "decoction enema"]],
+              "These are the readable items, the word for equal and the kind of enema.",
+              "मधु = honey; तैल = oil; सैन्धव = rock salt; सम = equal; निरूह = decoction enema."),
         order(2, "Put these words of verse 3 in the order of the verse.",
-              ["मधुतैले समे", "कर्षः", "सैंधवाद्द्विपिचुः", "मिशिः", "एरंडमूलकाथेन", "निरूहो माधुतैलिकः"],
-              "Line 1 lists the items and measures; line 2 gives the decoction and names the nirūha.",
-              "मधुतैले समे · कर्षः · सैंधवात् द्विपिचुः · मिशिः ‖ एरंडमूलकाथेन · निरूहो माधुतैलिकः.",
+              ["मधुतैले समे", "कर्षः", "सैंधवाद्द्विपिचुः", "मिशिः", "निरूहो माधुतैलिकः"],
+              "Line 1 lists the items and measures; line 2 ends by naming the nirūha.",
+              "मधुतैले समे · कर्षः · सैंधवात् द्विपिचुः · मिशिः ‖ … निरूहो माधुतैलिकः.",
               role="extend",
-              teaches="Verse 3 lists honey-oil, a karṣa, two picu of rock salt and miśi, then the castor-root decoction."),
+              teaches="Verse 3 lists honey and oil (equal), a karṣa, two picu from rock salt and miśi, then names the nirūha."),
         mcq("discriminate", 3, "What does the word माधुतैलिकः tell about this nirūha?",
             ("It is made with honey (madhu) and oil (taila)",
              "माधुतैलिक is formed from मधु + तैल: made with honey and oil."),
@@ -193,14 +193,13 @@ AUTHORED["3"] = {
              ("It is made with ghee and rock salt alone", "Ghee is not named, and honey and oil are.")],
             "The derived adjective names the two key items: honey and oil.",
             "माधुतैलिक = made with मधु (honey) and तैल (oil)."),
-        mcq("apply", 4, "Which liquid does verse 3 give for the nirūha?",
-            ("Castor-root decoction",
-             "एरंडमूलकाथेन, read एरण्डमूलक्वाथेन = with a decoction of castor root."),
-            [("Cow's urine (gomūtra)", "Cow's urine appears in verse 10, not here."),
-             ("Meat broth (māṃsarasa)", "No broth is named in this verse."),
-             ("Plain cow's milk", "Milk is not named in this verse.")],
-            "The base of the nirūha is the castor-root decoction (printed काथ read क्वाथ).",
-            "एरण्डमूल-क्वाथ = decoction of castor root."),
+        mcq("apply", 4, "What kind of enema does verse 3 name with माधुतैलिकः?",
+            ("A nirūha (decoction enema)", "निरूहो माधुतैलिकः: the line calls it a nirūha."),
+            [("A yāpana (sustaining enema)", "The yāpana is in verses 5-6."),
+             ("The yuktaratha enema", "Yuktaratha is named in verse 7."),
+             ("An unnamed oil enema", "The line names a nirūha, a decoction enema.")],
+            "Line 2 closes with the enema's kind: निरूहः.",
+            "निरूहो माधुतैलिकः = the honey-oil nirūha."),
         mcq("transfer", 5,
             "In सैंधवाद्द्विपिचुः, सैन्धवात् became सैंधवाद्. Join an invented सैन्धवात् + गुडः the same way. Which is right?",
             ("सैन्धवाद्गुडः", "Final त् becomes द् before a voiced consonant (ग), as before द."),
@@ -259,13 +258,13 @@ AUTHORED["4"] = {
              ("-ओ marks the neuter gender here", "The card labels it masculine.")],
             "The form is nominative singular; only sandhi changes -अः to -ओ.",
             "-अः + voiced consonant → -ओ."),
-        mcq("apply", 4, "According to verse 4, which addition makes the nirūha conquer raktapitta?",
-            ("Licorice (यष्टीमधु)", "सयष्टीमधुकः = with licorice; then रक्तपित्तजित्."),
-            [("More rock salt (सैन्धव)", "Rock salt is not named in this verse."),
-             ("Cow's urine (गोमूत्र)", "Cow's urine is not named in this verse."),
-             ("Hapuṣā (हपुषा)", "Hapuṣā belongs to the yāpana of verse 6.")],
-            "Line 2 ties the eye benefit and raktapitta to the licorice version.",
-            "स-यष्टीमधुकः → रक्तपित्तजित्."),
+        mcq("apply", 4, "Which ending in verse 4 means dispelling the listed disorders?",
+            ("-नुत्", "कृमिगुल्मान्त्रवृद्धिनुत् = dispelling worms, gulma and hernia."),
+            [("-जित्", "-जित् = conquering; verse 4 uses it with रक्तपित्त."),
+             ("-कर", "-कर = making, as in verse 2 (करान्); it is not in verse 4."),
+             ("-हर", "-हर = removing; it is in verse 8, not verse 4.")],
+            "Line 1 ends in -नुत्: the nirūha dispels prameha, arśas, worms, gulma, antravṛddhi.",
+            "X-नुत् = dispelling X."),
         mcq("transfer", 5,
             "Like रक्तपित्तजित् (conquering raktapitta), what does an invented ज्वरजित् mean (ज्वर = fever)?",
             ("Conquering fever", "-जित् at the end of a compound means 'conquering X'."),
@@ -304,10 +303,10 @@ AUTHORED["5"] = {
              ("Fat, honey, sugar and sesame", "Sugar and sesame are not in this verse.")],
             "The -वान् compound lists four: honey, oil, fat, ghee (आज्य).",
             "मधुतैलवसाज्यवान् = having honey, oil, fat, ghee."),
-        match(1, "Match each body part of verse 5 to its meaning.",
-              [["पायु", "anus"], ["जानु", "knee"], ["ऊरु", "thigh"], ["मेहन", "penis"]],
+        match(1, "Match each word of verse 5 to its meaning.",
+              [["पायु", "anus"], ["जानु", "knee"], ["ऊरु", "thigh"], ["घनकल्क", "thick paste"]],
               "These are readable members of the pain compound.",
-              "पायु = anus; जानु = knee; ऊरु = thigh; मेहन = penis."),
+              "पायु = anus; जानु = knee; ऊरु = thigh; घनकल्क = thick paste."),
         order(2, "Put the four substances of line 1 in the order of the verse.",
               ["मधु", "तैल", "वसा", "आज्य"],
               "The compound runs honey, oil, fat, ghee, then -वान् (having).",
@@ -327,7 +326,7 @@ AUTHORED["5"] = {
                ("Knee", "जानु = knee."),
                ("Head", "No head (शिरस्) is named."),
                ("Chest", "No chest is named."),
-               ("Bladder region", "बस्ति here = bladder region."),
+               ("Thigh", "ऊरु = thigh."),
                ("Eyes", "Eyes are in verse 4, not here.")],
               [0, 1, 4],
               "Readable members: anus, knee, thigh, bladder region, penis; the middle word is damaged.",
@@ -414,9 +413,9 @@ AUTHORED["7"] = {
     "rule": ("A decoction of castor root, honey and oil with rock salt, and with vacā (sweet "
              "flag), pippalī (long pepper) and fruit (phala): this is the yuktaratha enema, "
              "literally 'harnessed chariot'."),
-    "limits": ("The fruit (phala) is not named further; it may also be read as 'pippalī fruit'. "
-               "The verse gives no measure and no use. Printed निःक्काथो is read निःक्वाथो "
-               "(flagged)."),
+    "limits": ("The fruit (phala) is not named further (maybe 'pippalī fruit'). No measure or use "
+               "is given. Printed निःक्काथो is read निःक्वाथो (flagged). The data's note ties line 1 "
+               "to the yāpana of verse 6; the card follows एष (this) and counts it in the yuktaratha."),
     "explain_hi": ("यह श्लोक युक्तरथ नाम की बस्ति बताता है (शाब्दिक: जुता हुआ रथ)। "
                    "पहली पंक्ति के द्रव्य हैं: एरण्ड यानी अरंडी की जड़ का काढ़ा, मधु, तैल, और सैन्धव के साथ। "
                    "दूसरी पंक्ति कहती है ‘एष युक्तरथो बस्तिः’ (यह युक्तरथ बस्ति है), और वचा यानी बच, पिप्पली यानी पीपर तथा फल सहित। "
@@ -434,15 +433,15 @@ AUTHORED["7"] = {
             "युक्तरथ = the 'harnessed chariot' enema."),
         match(1, "Match each drug of verse 7 to its meaning on the card.",
               [["वचा", "sweet flag"], ["पिप्पली", "long pepper"],
-               ["एरण्डमूल", "castor root"], ["सैन्धव", "rock salt"]],
-              "These four drugs carry identifications marked standard on the card.",
-              "वचा = sweet flag; पिप्पली = long pepper; एरण्डमूल = castor root; सैन्धव = rock salt."),
+               ["युक्तरथ", "harnessed chariot"], ["सैन्धव", "rock salt"]],
+              "Three drugs and the literal sense of the enema's name.",
+              "वचा = sweet flag; पिप्पली = long pepper; युक्तरथ = harnessed chariot; सैन्धव = rock salt."),
         order(2, "Put these items in the order of verse 7.",
-              ["एरण्डमूलनिःक्वाथ", "मधु", "तैल", "सैन्धव", "वचा", "पिप्पली"],
-              "Line 1: decoction, honey, oil, rock salt; line 2: vacā, pippalī (and fruit).",
-              "निःक्वाथ · मधु · तैल · सैन्धव ‖ वचा · पिप्पली · फल.",
+              ["मधु", "तैलं", "ससैंधवं", "एष", "युक्तरथो", "बस्तिः"],
+              "Line 1 (after the decoction): honey, oil, with rock salt; line 2: this, yuktaratha, enema.",
+              "मधु · तैलं · ससैंधवं ‖ एष · युक्तरथो · बस्तिः.",
               role="extend",
-              teaches="The yuktaratha: castor-root decoction, honey, oil, rock salt, then vacā, pippalī and fruit."),
+              teaches="Verse 7 lists honey, oil and rock salt, then names it: एष युक्तरथो बस्तिः."),
         mcq("discriminate", 3, "What does स- at the start of ससैन्धवम् and सवचा- mean?",
             ("With, accompanied by", "स- opening a bahuvrīhi = 'with X'."),
             [("Without, lacking", "'Without' would be निर्- or अ-, as in निर्व्यापद्."),
@@ -452,9 +451,9 @@ AUTHORED["7"] = {
             "स- + noun = with that noun."),
         mcq("apply", 4, "Which of these is not an ingredient of the yuktaratha in verse 7?",
             ("Cow's urine", "Cow's urine is not named in verse 7."),
-            [("Honey", "मधु is named in line 1."),
-             ("Vacā (sweet flag)", "सवचा- = with vacā, in line 2."),
-             ("Rock salt", "ससैन्धवम् = with rock salt, in line 1.")],
+            [("Vacā (sweet flag)", "सवचा- = with vacā, in line 2."),
+             ("Pippalī (long pepper)", "-पिप्पली- is named in line 2."),
+             ("Fruit (phala)", "-फलः closes the line-2 compound: with fruit.")],
             "The verse names castor-root decoction, honey, oil, rock salt, vacā, pippalī and fruit.",
             "युक्तरथ: एरण्डमूल-क्वाथ, मधु, तैल, सैन्धव, वचा, पिप्पली, फल."),
         mcq("transfer", 5,
@@ -479,7 +478,7 @@ AUTHORED["8"] = {
     "limits": ("Low confidence. पैंढुंथा is damaged and unidentified: no question uses it. "
                "The decoction's drugs are not named. Printed शताव्हा is read शताह्वा (flagged). "
                "rāsnā's identity is disputed. The card reads basti-doṣa as faults of the enema."),
-    "explain_hi": ("यह श्लोक एक और बस्ति के द्रव्य गिनाता है: काढ़े के साथ, मधु, एक अस्पष्ट छपा शब्द (पैंढुंथा), शताह्वा यानी सम्भवतः सोया, "
+    "explain_hi": ("यह श्लोक द्रव्यों की सूची आगे बढ़ाता है (डेटा के अनुसार सूची श्लोक ७ से चल रही है): काढ़े के साथ, मधु, एक अस्पष्ट छपा शब्द (पैंढुंथा), शताह्वा यानी सम्भवतः सोया, "
                    "हींग और सैन्धव; फिर सुरदारु यानी देवदार और रास्ना (पहचान में मतभेद)। "
                    "अन्त में दो विशेषण: ‘बस्तिदोषहरः’ यानी बस्ति के दोषों को हरने वाला, और ‘शिवः’ यानी कल्याणकारी। "
                    "अस्पष्ट शब्द की पहचान नहीं की गई है।"),
@@ -500,11 +499,11 @@ AUTHORED["8"] = {
               "Three readable drugs and the closing adjective.",
               "हिङ्गु = asafoetida; सैन्धव = rock salt; सुरदारु = deodar; शिवः = auspicious."),
         order(2, "Put these readable items in the order of verse 8.",
-              ["मधु", "शताह्वा", "हिङ्गु", "सैन्धव", "सुरदारु", "रास्ना"],
-              "Line 1: honey, (unclear word), śatāhvā, asafoetida, rock salt; line 2: suradāru, rāsnā.",
-              "मधु · (अस्पष्ट) · शताह्वा · हिङ्गु · सैन्धव ‖ सुरदारु · रास्ना.",
+              ["मधु", "हिङ्गु", "सैन्धव", "सुरदारु", "रास्ना"],
+              "Line 1: honey, (two flagged words), asafoetida, rock salt; line 2: suradāru, rāsnā.",
+              "मधु · … · हिङ्गु · सैन्धव ‖ सुरदारु · रास्ना.",
               role="extend",
-              teaches="The readable list of verse 8 runs honey, śatāhvā, asafoetida, rock salt, suradāru, rāsnā."),
+              teaches="The clear items of verse 8 run honey, asafoetida, rock salt, suradāru, rāsnā."),
         mcq("discriminate", 3, "What does शिवः describe in verse 8?",
             ("The preparation: auspicious",
              "शिवः (m. nom. sg.) agrees with the preparation, like बस्तिदोषहरः."),
@@ -563,23 +562,23 @@ AUTHORED["9"] = {
             "... सिद्धबस्तिरिति स्मृतः = ... is called the siddhabasti."),
         match(1, "Match each word of verse 9 to its meaning.",
               [["पञ्चमूल", "the group of five roots"], ["मागधिका", "long pepper"],
-               ["तैल", "oil"], ["सैन्धव", "rock salt"]],
-              "Four of the ingredients of the siddhabasti.",
-              "पञ्चमूल = five roots; मागधिका = long pepper; तैल = oil; सैन्धव = rock salt."),
+               ["स्मृतः", "is called"], ["सैन्धव", "rock salt"]],
+              "Three ingredients and the naming word.",
+              "पञ्चमूल = five roots; मागधिका = long pepper; स्मृतः = is called; सैन्धव = rock salt."),
         order(2, "Put these ingredients in the order of verse 9.",
-              ["पञ्चमूलनिःक्वाथ", "तैल", "मागधिका", "मधु", "सैन्धव"],
-              "Line 1: decoction of the five roots, oil, māgadhikā, honey; line 2: with rock salt (and madhuka).",
-              "पञ्चमूलस्य निःक्वाथः · तैलम् · मागधिका · मधु ‖ ससैन्धवः.",
+              ["पंचमूलस्य", "मागधिका", "मधु", "ससैंधवः", "सिद्धबस्तिः"],
+              "Line 1: of the pañcamūla, (decoction, oil), māgadhikā, honey; line 2: with rock salt, ..., siddhabasti.",
+              "पंचमूलस्य · … · मागधिका · मधु ‖ ससैंधवः · … · सिद्धबस्तिः.",
               role="extend",
-              teaches="The siddhabasti of verse 9: pañcamūla decoction, oil, māgadhikā, honey, with rock salt."),
-        mcq("discriminate", 3, "Which split of निःक्काथस्तैलं (read निःक्वाथस्तैलम्) is right?",
-            ("निःक्वाथः + तैलम्", "A visarga before त becomes स्: निःक्वाथः + तैलम् = निःक्वाथस्तैलम्."),
-            [("निःक्वाथ + स्तैलम्", "स्तैलम् is not a word; the स् is the changed visarga."),
-             ("निःक्वाथे + तैलम्", "-ए + त would stay -े त; it would not give स्त."),
-             ("निःक्वाथम् + तैलम्", "म् before त would become ं or न्, not स्.")],
-            "Two nominatives: the decoction and the oil.",
-            "Visarga + त → स्त."),
-        mcq("apply", 4, "Which root group gives the decoction of verse 9?",
+              teaches="Verse 9 runs from the pañcamūla through māgadhikā, honey and rock salt to the name siddhabasti."),
+        mcq("discriminate", 3, "In सिद्धबस्तिरिति स्मृतः, what does इति स्मृतः do?",
+            ("Names it: is called thus", "इति marks the name; स्मृतः = is called, is remembered."),
+            [("Orders it: one should give", "स्मृतः is a past participle, not an optative like प्रयुञ्जीत."),
+             ("Forbids it: is not given", "No negative न stands in the line."),
+             ("Times it: at all times", "At all times is सर्वदा, in verse 2.")],
+            "The line ends by naming the enema: it is called the siddhabasti.",
+            "X इति स्मृतः = it is called X."),
+        mcq("apply", 4, "Which root group does verse 9 name (पंचमूलस्य)?",
             ("The pañcamūla (five roots)", "पञ्चमूलस्य निःक्वाथः = decoction of the pañcamūla."),
             [("The dvipañcamūla (ten roots)", "The ten roots are cooked in verse 10."),
              ("Castor root alone", "Castor root gives the decoction in verses 3 and 7."),
@@ -608,9 +607,9 @@ AUTHORED["10"] = {
     "limits": ("तेनै is not a form; 'tena' (by that) is a possible reading that leaves the "
                "construction open, so no question uses it. 'phala' is not specified. pāṭhā, "
                "vatsaka and toyada are probable identifications."),
-    "explain_hi": ("यह श्लोक गोमूत्र-बस्ति की तैयारी शुरू करता है। द्विपंचमूल (दोनों पंचमूल, यानी दस जड़ें), त्रिफला, फल और बिल्व यानी बेल को "
+    "explain_hi": ("यह श्लोक एक नई तैयारी शुरू करता है। द्विपंचमूल (दोनों पंचमूल, यानी दस जड़ें), त्रिफला, फल और बिल्व यानी बेल को "
                    "गोमूत्र में पकाए (‘पाचयेत्’)। "
-                   "दूसरी पंक्ति में पाठा, वत्सक यानी सम्भवतः कुटज और तोयद यानी सम्भवतः नागरमोथा के पिसे हुए (कल्क) आते हैं। "
+                   "दूसरी पंक्ति में पाठा, वत्सक यानी सम्भवतः कुटज और तोयद यानी सम्भवतः नागरमोथा के पिसे हुए (‘पिष्टैः’) द्रव्य आते हैं। "
                    "छपा ‘तेनै’ ठीक रूप नहीं है, इसलिए इनका ठीक सम्बन्ध खुला है। वाक्य अगले श्लोक में चलता है।"),
     "hook": "दस जड़ें, त्रिफला, फल, बेल गोमूत्र में पकाओ; पाठा-कुटज-मोथा की लुगदी।",
     "core": False,
@@ -641,13 +640,13 @@ AUTHORED["10"] = {
              ("Five roots and two fruits", "No fruits are counted in this word.")],
             "A number before a group name doubles the group: two pañcamūlas.",
             "द्विपञ्चमूल = 2 × पञ्चमूल = ten roots."),
-        mcq("apply", 4, "Which drugs of verse 10 are added as ground pastes (पिष्टैः) rather than cooked?",
+        mcq("apply", 4, "Which drugs does line 2 of verse 10 give in ground form (पिष्टैः)?",
             ("Pāṭhā, vatsaka and toyada", "पिष्टैः पाठावत्सकतोयदैः = with the ground ones of these three."),
-            [("Triphalā, phala and bilva", "These are in the list that is cooked (पाचयेत्)."),
-             ("The ten roots alone", "The roots are cooked in cow's urine."),
+            [("Triphalā, phala and bilva", "These are named in line 1, with पाचयेत् (cook)."),
+             ("The two pañcamūlas", "The ten roots are named in line 1, not as ground drugs."),
              ("Honey, oil and kṣāra", "These come in verse 11.")],
-            "Line 1 lists what is cooked; line 2 lists the ground pastes.",
-            "पाचयेत्: द्विपञ्चमूल … बिल्व · पिष्टैः: पाठा, वत्सक, तोयद."),
+            "Line 1 names what is cooked in cow's urine; line 2 names ground drugs, whose exact link (तेनै) is unclear.",
+            "पिष्टैः पाठावत्सकतोयदैः = with ground pāṭhā, vatsaka, toyada."),
         mcq("transfer", 5,
             "Like त्रिफला (the three fruits), what does an invented त्रिकटु name (कटु = pungent)?",
             ("A group of three pungent drugs", "A number + noun names a group of that many, as त्रिफला."),
@@ -662,7 +661,7 @@ AUTHORED["10"] = {
 
 # ---------------------------------------------------------------- unit 11
 AUTHORED["11"] = {
-    "title": "युक्तो बस्तिः कफव्याधिषु",
+    "title": "युक्तो बस्तिः कफव्याधि-पाण्डुरोग-विसूचिषु",
     "question": "What is added to the cow's-urine preparation in verse 11, and in which disorders is it suitable?",
     "rule": ("With fruits, with honey and oil, with kṣāra and with salt, the enema is "
              "suitable in Kapha disorders, in pāṇḍu disease (anaemia with pallor) and in "
@@ -758,7 +757,7 @@ NOTES_HI = {
            "संधि जाँची: पिष्टैश्च = पिष्टैः + च (ः → श् च से पहले); त्रिफलाफल = त्रिफला + फल। क्रिया ‘पाचयेत्’ पंक्ति १ में है; वाक्य श्लोक ११ में चलता है।"),
     "11": ("विश्वास: उच्च। छपा ‘ळ’ (सफळैः) साधारण ‘ल’ पढ़ा गया (छपाई की आदत)। पंक्ति १ श्लोक १० के तृतीया रूपों को आगे बढ़ाती है; ‘पूजितः’ श्लोक १२ में है। "
            "‘युक्तः’ = उपयुक्त (शाब्दिक: जुड़ा, प्रयुक्त)। पहचान: पाण्डुरोग = रक्ताल्पता (मानक), विसूची = हैज़े जैसी बीमारी (सम्भावित)। "
-           "संधि जाँची: युक्तो बस्तिः = युक्तः + बस्तिः (अः → ओ सघोष से पहले); क्षौद्रतैलाभ्यां = क्षौद्र + तैल + आभ्याम् (तृतीया द्विवचन)।"),
+           "संधि जाँची: युक्तो बस्तिः = युक्तः + बस्तिः (अः → ओ सघोष से पहले); क्षौद्रतैलाभ्यां = क्षौद्र-तैल + भ्याम् (तृतीया द्विवचन; अ दीर्घ होकर तैला-)।"),
 }
 
 AIDS = {
@@ -768,7 +767,7 @@ AIDS = {
         "anchors": "अथ = अब · अतः = इसलिए · सिद्ध = आज़माया हुआ · कल्प = विधि · व्याख्या = समझाना।",
     },
     "2": {
-        "diagram": {"groups": [{"label": "किसके लिए, कब", "items": ["सर्वदेहिनाम्", "सर्वदा"]},
+        "diagram": {"groups": [{"label": "कब, किसके लिए", "items": ["सर्वदा", "सर्वदेहिनाम्"]},
                                {"label": "चार गुण", "items": ["निर्व्यापद्", "बहुफल", "बल-बुद्धि-कर", "सुख"]}]},
         "chunks": "सिद्धबस्तीन्प्रयुंजीत | सर्वदा सर्वदेहिनां ‖ निर्व्यापदो बहुफलान् | वलबुद्धि करान्सुखान्।",
         "sandhi": "अः → ओ सघोष से पहले: निर्व्यापदः + बहु → निर्व्यापदो बहु; न् + प: सिद्धबस्तीन् + प्रयुञ्जीत (बदलाव नहीं)।",
@@ -821,7 +820,7 @@ AIDS = {
     },
     "10": {
         "chain": {"steps": ["द्विपञ्चमूल, त्रिफला, फल, बिल्व", "गोमूत्र में पकाए (पाचयेत्)",
-                            "पिसे हुए पाठा, वत्सक, तोयद के साथ", "आगे: श्लोक ११"]},
+                            "साथ में (सम्बन्ध अस्पष्ट): पिसे पाठा, वत्सक, तोयद", "आगे: श्लोक ११"]},
         "chunks": "द्विपंचमूलत्रिफला- | फलविल्वानि पाचयेत् ‖ गोमूत्रे तेनै (अस्पष्ट) पिष्टैश्च | पाठावत्सकतोयदैः।",
         "anchors": "द्वि = दो · पञ्चमूल = पाँच जड़ें · त्रिफला = तीन फल · बिल्व = बेल · गोमूत्र = गाय का मूत्र · पिष्ट = पिसा हुआ।",
     },
@@ -830,7 +829,7 @@ AIDS = {
                                {"label": "उपयुक्त", "items": ["कफ-व्याधि", "पाण्डु-रोग", "विसूची"]}]},
         "chunks": "सफळैः क्षौद्रतैलाभ्यां | क्षारेण लवणेन च ‖ युक्तो बस्तिः कफव्याधि- | पांडुरोगविसूचिषु।",
         "sandhi": "अः → ओ सघोष से पहले: युक्तः + बस्तिः → युक्तो बस्तिः।",
-        "anchors": "क्षौद्र = शहद · लवण = नमक · -आभ्याम् = दो से · -षु = में · विसूची = उलटी-दस्त वाली तीव्र बीमारी।",
+        "anchors": "क्षौद्र = शहद · लवण = नमक · -भ्याम् = दो से · -षु = में · विसूची = उलटी-दस्त वाली तीव्र बीमारी।",
     },
 }
 
@@ -839,8 +838,8 @@ IMAGE_SPECS = {
         "file": "ka5-siddhabasti-guna-2.svg",
         "alt": "Mind map: siddhabastis for all embodied beings at all times; four qualities: free from mishap, of many benefits, producing strength and intelligence, pleasant",
         "type": "mermaid",
-        "code": ('mindmap\n  सिद्धबस्तियाँ\n    किसके लिए\n      सब देहधारी\n      सदा\n'
-                 '    चार गुण\n      बिना विपत्ति\n      बहुत फल\n      बल और बुद्धि\n      सुखद\n'),
+        "code": ('mindmap\n  सिद्धबस्तियाँ\n    कब और किसके लिए\n      सदा\n      सब देहधारी\n'
+                 '    चार गुण\n      बिना विपत्ति\n      बहुत फल\n      बल-बुद्धि देने वाली\n      सुखद\n'),
     },
     ("4", "diagram"): {
         "file": "ka5-madhutailika-guna-4.svg",
@@ -877,7 +876,7 @@ IMAGE_SPECS = {
         "alt": "Chain of four steps: ten roots, triphala, fruit and bael; cooked in cow's urine; with ground pastes of patha, vatsaka and toyada; continues in verse 11",
         "type": "chain",
         "title": "श्लोक १०: गोमूत्र में पाक",
-        "steps": ["दस जड़ें, त्रिफला, फल, बेल", "गोमूत्र में पकाए", "पिसे पाठा, वत्सक, तोयद के साथ",
+        "steps": ["दस जड़ें, त्रिफला, फल, बेल", "गोमूत्र में पकाए", "साथ में (सम्बन्ध अस्पष्ट): पिसे पाठा, वत्सक, तोयद",
                   "आगे: श्लोक ११"],
     },
     ("11", "diagram"): {
