@@ -128,9 +128,9 @@ AUTHORED["231"] = {
     "question": "By unit 231, which examples are listed after तद्यथा?",
     "rule": ("Examples, in the accusative plural: the malas (waste products) of flesh, ear and the like (one reading), and "
              "wind (वायु), intellect (बुद्धि), memory (स्मृति) and the like. आदि leaves each list open."),
-    "limits": ("Low confidence, prose. The first compound can be read two ways (malas of flesh and ear, or flesh plus the malas "
-               "beginning with the ear): no question on its parse. Whether vāyu is the doṣa or plain wind is not stated. The "
-               "case is read from the form: objects of विभावयेत् in unit 229 (data note)."),
+    "limits": ("Low confidence, prose. The first compound reads two ways (malas of flesh and ear, or flesh plus the ear's "
+               "malas): no question on its parse. Vāyu as doṣa or plain wind is not stated. The accusative is read from the "
+               "form."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई २३० के ‘तद्यथा’ के बाद उदाहरण देती है। "
                    "पहला समास: मांस, कर्ण (कान) आदि के मल; इसे ‘मांस, और कान से आरम्भ होने वाले मल’ भी पढ़ा जा सकता है। "
                    "दूसरा: वायु, बुद्धि, स्मृति आदि। "
@@ -253,7 +253,7 @@ AUTHORED["233"] = {
     "hook": "हर शरीर अलग, दोष-धातु-मल सदा चलायमान।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 233, what are the doṣas, dhātus and malas always?",
+        mcq("pretest", 0, "By unit 233, how are the doṣas, dhātus and malas described?",
             ("Unsteady, moving", "नित्यमेव च चला दोषधातुमलाः: always unsteady."),
             [("Fixed in amount", "The line says चलाः, unsteady, not fixed."),
              ("Equal in all bodies", "Bodies are called विलक्षण, dissimilar."),
@@ -578,7 +578,7 @@ AUTHORED["238"] = {
              ("Something to be grasped (a duty)", "That would be a gerundive such as ग्राह्य.")],
             "गृह्यमाणम् = being grasped, being understood.",
             "गृह्य- + -मान = passive present participle."),
-        mcq("transfer", 5, "By the pattern of बन्धाय (for bondage), which new form means 'for happiness'?",
+        mcq("transfer", 5, "By the pattern of बन्धाय (for bondage), which form of the new word सुख (happiness) is its dative?",
             ("सुखाय", "अ-stem dative singular in -आय, like बन्धाय."),
             [("सुखेन", "Instrumental, 'by happiness'."),
              ("सुखात्", "Ablative, 'from happiness'."),
@@ -662,11 +662,11 @@ AUTHORED["240"] = {
     "hook": "शरीर का अंग-अंग जानो, मोह से अहित नहीं होगा।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 240, what does one who knows the body part by part never do?",
-            ("Turn to harm through delusion", "अहितेषु स मोहेन न कदाचित्प्रवर्तते."),
-            [("Fall ill in any season of the year", "Illness and seasons are not named."),
-             ("Need the help of a physician", "No physician is named."),
-             ("Grow old before his time", "Age is not named.")],
+        mcq("pretest", 0, "By unit 240, what is said of one who knows the body part by part?",
+            ("He does not turn to harm by delusion", "अहितेषु स मोहेन न कदाचित्प्रवर्तते."),
+            [("He falls ill in no season of the year", "Illness and seasons are not named."),
+             ("He needs no help from a physician", "No physician is named."),
+             ("He can count every single atom", "Atoms are not named in the verse.")],
             "He never engages in what is harmful through delusion.",
             "न कदाचित् प्रवर्तते = never engages."),
         order(1, "Put the printed parts of the verse of unit 240 in order.",
@@ -694,7 +694,7 @@ AUTHORED["240"] = {
               [1, 3],
               "यः ... जानाति (first line) → सः ... न प्रवर्तते (second line).",
               "यः (who) ... सः (he)."),
-        mcq("transfer", 5, "By the pattern of न कदाचित् (never), what does न कदाचिदनृतं वदेत् mean (a new example)?",
+        mcq("transfer", 5, "By the pattern of न कदाचित् in unit 240, what does न कदाचिदनृतं वदेत् mean (a new example)?",
             ("One should never speak untruth", "न कदाचित् = never; वदेत् = should speak."),
             [("One should sometimes speak untruth", "कदाचित् with न means never, not sometimes."),
              ("One should speak untruth only once", "Nothing here means once."),
