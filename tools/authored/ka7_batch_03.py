@@ -986,7 +986,7 @@ IMAGE_SPECS = {
         "file": "ka7-pranetri-dosha-26.svg",
         "alt": "Mind map of the eight clear faults of giving the enema in verse 26: struck too much, lifted up, slanting, hurried, shaken, too slow, outer, too forceful",
         "type": "mermaid",
-        "code": ('mindmap\n  दोष (पंक्ति १-२)\n    बहुत आघात\n    ऊपर उठाना\n    तिरछा\n    जल्दी में\n'
+        "code": ('mindmap\n  दोषों की सूची\n    बहुत आघात\n    ऊपर उठाना\n    तिरछा\n    जल्दी में\n'
                  '    हिलाना\n    बहुत धीरे\n    बाहरी\n    बहुत ज़ोर\n'),
     },
     ("29", "diagram"): {
