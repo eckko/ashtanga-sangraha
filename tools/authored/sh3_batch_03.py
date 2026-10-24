@@ -46,7 +46,7 @@ AUTHORED["27"] = {
              ("तैलेनम् + अनुवासयेत्", "A final म् would give तैलेनमनुवासयेत्.")],
             "तैलेन (with oil) + अनुवासयेत् (should give an oil enema): अ + अ → आ.",
             "अ + अ → आ."),
-        mcq("apply", 4, "In unit 27, what purpose does the dative अनुलोमनाय वायोः state?",
+        mcq("apply", 4, "In unit 27, what purpose does the dative अनुलोमनाय (with वायोः) state?",
             ("The downward movement of the wind", "अनुलोमनाय वायोः: for the anulomana of vāyu."),
             [("The oiling of the embryo's passage", "That purpose belongs to the picu of unit 31."),
              ("The softening of belly and back", "Softening is the result stated in unit 32."),
@@ -83,7 +83,7 @@ AUTHORED["28"] = {
     "questions": [
         mcq("pretest", 0, "By unit 28, how does she give birth when the wind moves downward?",
             ("Easily and free of complications", "सुखमनुपद्रवा प्रसूते: easily, without complications."),
-            [("Slowly, after a long labour", "सुखम् means easily; no long labour is named."),
+            [("Slowly, after a long, hard labour", "सुखम् means easily; no long or hard labour is named."),
              ("Early, before the due time", "No time of birth is named in unit 28."),
              ("With pain, though safely", "No pain is named; सुखम् means easily.")],
             "With the wind moving downward, the birth is easy and free of complications.",
@@ -132,7 +132,7 @@ AUTHORED["29"] = {
     "limits": ("Printed ऽस्या is taken as अस्याः (of her), the visarga lost in print: a suggested reading, and no question "
                "rests on its case. The passage (मार्ग) is not defined. तथा points back to the posture of unit 28 by "
                "context; the line does not name it."),
-    "explain_hi": ("यह पंक्ति पिछली विधि का कारण बताती है: उस प्रकार (तथा) उसके मार्ग के खुले होने से औषध ठीक से भीतर प्रवेश करता है। "
+    "explain_hi": ("उस प्रकार (तथा) उसके मार्ग के खुले होने से औषध ठीक से भीतर प्रवेश करता है; ‘तथा’ किस ओर संकेत करता है, पंक्ति नहीं कहती (सन्दर्भ से इकाई 28 की विधि)। "
                    "‘विवृतमार्गतया’ में ‘-ता’ भाववाचक है और तृतीया ‘कारण’ बताती है: मार्ग खुला होने के कारण। "
                    "छपा ‘ऽस्या’ सम्भवतः ‘अस्याः’ (उसका) है, विसर्ग छपाई में छूटा; इस पर प्रश्न नहीं। "
                    "‘मार्ग’ की परिभाषा नहीं दी गई। "
@@ -188,7 +188,7 @@ AUTHORED["30"] = {
     "title": "अतऊर्ध्वं स्निग्धाभिर्यवागूभिः",
     "question": "By unit 30, how is she treated from now until delivery, and whose view is it?",
     "rule": ("After this (अतः ऊर्ध्वम्), until the time of delivery (आप्रसवकालात्), she is treated with unctuous gruels "
-             "(स्निग्ध यवागू) and broths of jāṅgala (dry-land) animals: so says the venerable Dhanvantari."),
+             "(स्निग्ध यवागू) and broths of jāṅgala (dry-land) animals: so (says) the venerable Dhanvantari (verb not printed)."),
     "limits": ("The animals are not named. The verb of speaking for Dhanvantari is not printed (इति … धन्वन्तरिः). The "
                "woman as object is understood. 'After this' points back by context; the line names no month. The print "
                "has उपाचरेत् (should treat)."),
@@ -248,7 +248,7 @@ AUTHORED["31"] = {
     "title": "नवमे तु ... पिचुं योनौ प्रणयेत्",
     "question": "By unit 31, what is done in the ninth (month), with what, and for what?",
     "rule": ("In the ninth (month), a picu (cotton swab) of that same anuvāsana oil is inserted into the yoni (vagina), "
-             "for oiling the passage of the embryo and the āśaya (receptacle, probably the uterus)."),
+             "for oiling (on the suggested reading स्नेहनार्थम्) the passage of the embryo and the āśaya (receptacle, probably the uterus)."),
     "limits": ("Printed स्नेहनाथंमिति is read स्नेहनार्थम् इति (for oiling), the र् lost in print: a suggested reading, so "
                "no question rests on it. āśaya = probably the uterus (probable). The compound can be read 'the embryo's "
                "passage and receptacle' or 'the garbha-mārga and the āśaya'. 'Month' is understood."),
@@ -298,7 +298,7 @@ AUTHORED["31"] = {
              ("अग्निना", "अग्निना is the instrumental singular, by fire.")],
             "अग्नि → अग्नौ, like योनि → योनौ.",
             "इ-stem, locative singular → -औ.",
-            teaches="Nouns ending in इ form the locative singular in -औ: योनि → योनौ (in the yoni), अग्नि → अग्नौ."),
+            teaches="Masculine and feminine इ-stems form the locative singular in -औ (feminines also -आम्): योनि → योनौ, अग्नि → अग्नौ."),
     ],
 }
 
@@ -322,7 +322,7 @@ AUTHORED["32"] = {
         mcq("pretest", 0, "By unit 32, which parts become soft at the time of delivery?",
             ("Belly, waist, flank and back", "कुक्षिकटीपार्श्वपृष्ठं मृदु भवति."),
             [("Eyes, heart and groin", "Pain in heart and groin is a sign in unit 40, not softening."),
-             ("Breasts and the nipples", "No breasts are named in unit 32."),
+             ("The breasts, the nipples and the thighs", "No breasts or thighs are named in unit 32."),
              ("Hands, feet and head", "No hands, feet or head are named.")],
             "The four parts named: कुक्षि, कटी, पार्श्व, पृष्ठ.",
             "कुक्षि-कटी-पार्श्व-पृष्ठम् मृदु भवति."),
@@ -403,7 +403,7 @@ AUTHORED["33"] = {
             "ः + च → श्च; अ + अ → आ."),
         mcq("apply", 4, "In unit 33, what does अनुलोम say about the wind?",
             ("It moves in its proper, downward direction", "अनुलोमः: moving downward, in the proper direction."),
-            [("It moves upward, against its course", "That is the opposite of अनुलोम."),
+            [("It moves upward, against its natural course", "That is the opposite of अनुलोम."),
              ("It stops moving altogether", "अनुलोम is a direction of movement, not a stop."),
              ("It increases greatly in amount", "No increase is named in unit 33.")],
             "अनुलोम = in the proper, downward direction.",
@@ -424,7 +424,7 @@ AUTHORED["34"] = {
     "title": "मूत्रपुरीषं च प्रकृतिभूतं",
     "question": "By unit 34, what happens to urine and stool, and to the jarāyu?",
     "rule": ("Urine and stool (मूत्रपुरीष) become natural (प्रकृतिभूत), and the jarāyu (afterbirth: placenta with "
-             "membranes) goes to the passage (मार्ग)."),
+             "membranes, standard) goes to the passage (मार्ग)."),
     "limits": ("Printed मार्ग lacks its anusvāra; the accusative मार्गम् is suggested, and no question rests on its form. "
                "The text does not say whether the jarāyu comes out, nor does it define the passage. The verb for urine "
                "and stool is understood."),
@@ -438,9 +438,9 @@ AUTHORED["34"] = {
     "questions": [
         mcq("pretest", 0, "By unit 34, what goes to the passage?",
             ("The jarāyu, the afterbirth", "जरायुश्च मार्ग प्रतिपद्यते."),
-            [("Urine and stool", "They become natural; they are not said to go to the passage."),
-             ("The medicine", "The medicine enters, in unit 29."),
-             ("The wind", "The wind becomes anuloma, in unit 33.")],
+            [("Urine and stool, now natural", "They become natural; they are not said to go to the passage."),
+             ("The medicine given by enema", "The medicine enters, in unit 29."),
+             ("The wind, now moving downward", "The wind becomes anuloma, in unit 33.")],
             "The jarāyu goes to the passage.",
             "जरायुः मार्गं प्रतिपद्यते."),
         order(1, "Put these words of unit 34 in the line's order.",
@@ -455,8 +455,8 @@ AUTHORED["34"] = {
               teaches="मूत्रपुरीषम् is a dvandva taken as one thing: urine-and-stool, in the neuter singular."),
         mcq("discriminate", 3, "By unit 34, what does प्रकृतिभूतम् say of urine and stool?",
             ("They become natural, as they normally are", "प्रकृतिभूत = become natural, normal."),
-            [("They stop altogether", "Natural is not stopped; no stopping is named."),
-             ("They mix with the afterbirth", "The jarāyu is a separate statement."),
+            [("They stop altogether until the delivery", "Natural is not stopped; no stopping is named."),
+             ("They mix with the afterbirth in the passage", "The jarāyu is a separate statement."),
              ("They become much more abundant", "Abundance is a sign in unit 40, not this line.")],
             "प्रकृति (nature) + भूत (become): back to the natural state.",
             "प्रकृतिभूतम् = become natural."),
@@ -496,7 +496,7 @@ AUTHORED["35"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 35, how does the strong woman give birth?",
-            ("Easily and at the due time", "सुखेन काले प्रसूते."),
+            ("Easily, at the due time", "सुखेन काले प्रसूते."),
             [("Early, before her time", "काले means at the (due) time."),
              ("With great difficulty", "सुखेन means easily."),
              ("Late, after the due time", "काले means at the (due) time.")],
@@ -606,9 +606,9 @@ AUTHORED["37"] = {
     "rule": ("Even before her ninth month, one should have a delivery chamber (सूतिकागार) built in an approved place, "
              "approved by the science of building sites (वास्तुविद्या), comfortable in all seasons, with fire at hand, "
              "and with a door to the east or to the north."),
-    "limits": ("Low confidence. अपृतता and उपृतत् are unclear; 'free of bones, gravel and potsherds' and 'furnished with "
-               "all equipment' rest on the conjectural readings अपहृत and उपहृत, so no question asks about them. ऽस्या/"
-               "चैवास्या is taken as अस्याः (her). The rules of वास्तुविद्या are not given here."),
+    "limits": ("Low confidence. 'Free of bones, gravel, potsherds' and 'with all equipment' rest on conjectures "
+               "(अपहृत, उपहृत for अपृतता, उपृतत्); no question asks about them. Printed चैवास्या is taken as "
+               "चैवास्याः (her), visarga lost. The rules of वास्तुविद्या are not given."),
     "explain_hi": ("उसके नवें मास से पहले ही सूतिकागार (प्रसव-कक्ष) बनवाए: प्रशस्त स्थान में, वास्तुविद्या से प्रशस्त, सब ऋतुओं में "
                    "सुखद, जिसमें अग्नि पास हो, और जिसका द्वार पूर्व या उत्तर की ओर हो। "
                    "‘हड्डी, कंकड़, ठीकरे हटे’ और ‘सब उपकरणों से युक्त’ अनुमानित पाठ (अपहृत, उपहृत) पर टिके हैं; इन पर प्रश्न नहीं। "
@@ -667,8 +667,8 @@ AUTHORED["38"] = {
     "title": "प्रसवकालमुदीक्षेत",
     "question": "By unit 38, under what conditions does she enter and await delivery?",
     "rule": ("There, when the stars and the rest are favourable, with the utterance of puṇyāha (auspicious-day formula), "
-             "she enters; attended by women who have given birth and can bear hardship, devoted to auspicious rites "
-             "(स्वस्त्ययन), she awaits the time of delivery."),
+             "she enters; (on the suggested reading परिवृता) surrounded by women who have given birth and can bear hardship, "
+             "devoted to auspicious rites (स्वस्त्ययन), she awaits the time of delivery."),
     "limits": ("Low confidence. No question rests on: अनुक्ताभिः, अविपादाभिः (unclear), तु + आवर्तमाना (circling "
                "cows, brahmins and elders: not firm), where बहुशः belongs, परितृता read परिवृता, or the food-and-conduct "
                "phrase (printed नेरा, म्त्र). The link to unit 37's chamber is by context."),
@@ -677,11 +677,11 @@ AUTHORED["38"] = {
                    "छपाई बिगड़ी है: ‘अनुक्ताभिः’, ‘अविपादाभिः’ अस्पष्ट हैं; गाय-ब्राह्मण-वृद्धों की प्रदक्षिणा वाला अंश अनिश्चित है; "
                    "‘परितृता’ को ‘परिवृता’ (घिरी हुई) और आहार-विहार वाले अंश को सुझाए पाठ से पढ़ा गया — इन पर प्रश्न नहीं। "
                    "सूतिकागार (इकाई 37) से जोड़ ‘तत्र’ (वहाँ) से, सन्दर्भ द्वारा है।"),
-    "hook": "शुभ नक्षत्र, पुण्याह-वचन, प्रवेश, अनुभवी परिचारिकाएँ, प्रतीक्षा।",
+    "hook": "शुभ नक्षत्र, पुण्याह-वचन, प्रवेश, स्वस्त्ययन, प्रसव की प्रतीक्षा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 38, what does she do at the end of the line?",
-            ("She awaits the time of delivery", "प्रसवकालमुदीक्षेत: she should await the time of delivery."),
+            ("She awaits delivery", "प्रसवकालमुदीक्षेत: she should await the time of delivery."),
             [("She drinks gruel with ghee", "Gruel with ghee is unit 42."),
              ("She has the chamber built", "The chamber is to be built in unit 37 (कारयेत्)."),
              ("She takes her daily bath", "The daily bath is unit 36.")],
@@ -708,11 +708,11 @@ AUTHORED["38"] = {
         multi("apply", 4, "Which statements does unit 38 make, on its sure words?",
               [("She drinks gruel before entering", "No gruel is named in unit 38."),
                ("The stars and the rest are favourable", "Right: अनुकूलेषु नक्षत्रादिषु."),
-               ("Her attendants have never given birth", "They are women who have given birth (प्रसूताभिः)."),
+               ("She has the chamber built here", "The chamber is built in unit 37; here she enters it and waits."),
                ("The puṇyāha formula is uttered", "Right: पुण्याहशब्देन.")],
               [1, 3],
-              "Favourable stars and the puṇyāha utterance; the attendants have given birth.",
-              "अनुकूलेषु नक्षत्रादिषु पुण्याहशब्देन … प्रसूताभिः."),
+              "Favourable stars and the puṇyāha utterance; no gruel, and the chamber was built in unit 37.",
+              "अनुकूलेषु नक्षत्रादिषु पुण्याहशब्देन."),
         mcq("transfer", 5, "By the rule of स्वस्त्ययनपरा, what does धर्मपरः mean?",
             ("Devoted to dharma", "-पर at the end of a compound = devoted to, intent on."),
             [("Against dharma", "-पर does not mean against."),
@@ -810,15 +810,15 @@ AIDS = {
                             "गर्भमार्ग व आशय का स्नेहन (सुझाया पाठ)"]},
         "chunks": "नवमे तु | तत एवानुवासनतैलात् | पिचुं योनौ प्रणयेत् | गर्भमार्गाशाययोः | स्नेहनाथंमिति (= स्नेहनार्थम् इति?)",
         "sandhi": ("अः → अ: ततः + एव → तत एव · अ + अ → आ: एव + अनुवासन → एवानुवासन · म् → ं व्यञ्जन से पहले: पिचुम् + योनौ → पिचुं योनौ।"),
-        "anchors": "याद-सूत्र: आठवें में बस्ति, नवें में पिचु — तेल वही। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: पहले बस्ति (इकाई 26-28), नवें में पिचु — तेल वही अनुवासन वाला। (मेरी याद-पद्धति)",
     },
     "32": {
         "diagram": {"groups": [
             {"label": "कब से, कैसे", "items": ["पहले मास से आरम्भ", "क्रम से"]},
-            {"label": "प्रसव काल में मृदु (क्रम से)", "items": ["कुक्षि", "कटी", "पार्श्व", "पृष्ठ"]}]},
+            {"label": "प्रसव काल में मृदु (पाठ का क्रम)", "items": ["कुक्षि", "कटी", "पार्श्व", "पृष्ठ"]}]},
         "chunks": "अनेन | प्रथममासादारभ्य | क्रमेण | गर्भिण्याः प्रसवकाले | गर्भधारिणीकुक्षिकटीपार्श्वपृष्ठं | मृदु भवति",
         "sandhi": "त् → द् स्वर से पहले: प्रथममासात् + आरभ्य → प्रथममासादारभ्य।",
-        "pegs": "मेरा बनाया चित्र: नीचे से ऊपर हाथ फेरें — पेट (कुक्षि), कमर (कटी), बगल (पार्श्व), पीठ (पृष्ठ), सब नरम। (केवल याद के लिए, ग्रन्थ का दावा नहीं)",
+        "pegs": "मेरा बनाया चित्र: आगे से घूमकर पीछे तक हाथ फेरें — पेट (कुक्षि) → कमर (कटी) → बगल (पार्श्व) → पीठ (पृष्ठ), सब नरम। (केवल याद के लिए, ग्रन्थ का दावा नहीं)",
     },
     "33": {
         "chunks": "वायुश्चानुलोमः | संपद्यते",
@@ -859,9 +859,9 @@ AIDS = {
         "contrast": "‘प्राक्’ दो बार, दो अर्थ: पञ्चमी के साथ ‘पहले’ (प्राक् नवमान्मासात्) — समास में ‘पूर्व दिशा’ (प्राग्द्वारम्)।",
     },
     "38": {
-        "chain": {"steps": ["१ नक्षत्र आदि अनुकूल", "२ पुण्याह-वचन", "३ प्रवेश", "४ अनुभवी, क्लेश-सहिष्णु स्त्रियाँ साथ",
+        "chain": {"steps": ["१ नक्षत्र आदि अनुकूल", "२ पुण्याह-वचन", "३ प्रवेश", "४ प्रसव कर चुकी, क्लेश सहने वाली स्त्रियाँ (साथ: सुझाया पाठ)",
                             "५ स्वस्त्ययन में लगी", "६ प्रसव-काल की प्रतीक्षा"]},
-        "chunks": ("तत्रानुकूलेषु नक्षत्रादिषु | पुण्याहशब्देन | गोब्राह्मणवृद्धांत्वाऽऽवर्तमाना (?) प्रदक्षिणं | प्रविश्य | बहुशः प्रसूताभिः | "
+        "chunks": ("तत्रानुकूलेषु नक्षत्रादिषु | पुण्याहशब्देन | गोब्राह्मणवृद्धान्त्वाऽऽवर्तमाना (?) प्रदक्षिणं | प्रविश्य | बहुशः प्रसूताभिः | "
                    "अनुक्ताभिरविपादाभिः (?) | क्लेशक्षमाभिः परितृता (= परिवृता?) | स्वस्त्ययनपरा | "
                    "अनुलोमनैराहारविहारैः (सुझाया) अनुलोमितवातमूत्रपुरीषा | प्रसवकालमुदीक्षेत"),
         "sandhi": "अ + अ → आ: तत्र + अनुकूलेषु → तत्रानुकूलेषु · इ + अ → य: स्वस्ति + अयन → स्वस्त्ययन · म् + स्वर: प्रसवकालम् + उदीक्षेत → प्रसवकालमुदीक्षेत।",
@@ -899,7 +899,7 @@ IMAGE_SPECS = {
                  "  A[\"नवाँ मास\"] --> B[\"वही अनुवासन-तेल\"]\n"
                  "  B --> C[\"पिचु (रुई का फाहा)\"]\n"
                  "  C --> D[\"योनि में रखे\"]\n"
-                 "  D --> E[\"मार्ग-आशय का स्नेहन (?)\"]\n"),
+                 "  D --> E[\"मार्ग-आशय का स्नेहन (सुझाया)\"]\n"),
     },
     ("32", "diagram"): {
         "file": "sh3-mridu-anga-32.svg",
