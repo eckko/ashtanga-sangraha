@@ -408,7 +408,7 @@ AUTHORED["129"] = {
             [("सः + उत्पल", "अः before a vowel other than अ drops the visarga with a gap: स उत्पल."),
              ("सम् + उत्पल", "A final म् before a vowel joins it: समुत्पल."),
              ("सो + त्पल", "त्पल is not a word; the flower is उत्पल.")],
-            "स (with) + उत्पल (blue water lily): अ + उ → ओ.",
+            "स (with) + उत्पल (probably blue water lily): अ + उ → ओ.",
             "अ + उ → ओ."),
         mcq("apply", 4, "Anantā and sārivā both stand in line 2 of verse 129. How does the card take them here?",
             ("As two separate drugs", "Both are listed, so they are taken as separate drugs here."),
@@ -593,7 +593,7 @@ AUTHORED["132"] = {
             "पटोल (pointed gourd) + इक्षु (sugarcane): अ + इ → ए.",
             "अ + इ → ए."),
         mcq("apply", 4, "What does गर्भे स्रवति describe in verse 132?",
-            ("The fetus flowing, probably miscarriage", "A locative absolute: with the fetus flowing (garbhasrāva, probable)."),
+            ("The fetus flowing away", "A locative absolute: with the fetus flowing, probably miscarriage (garbhasrāva, probable)."),
             [("The fetus turned the wrong way", "No turning is named in verse 132."),
              ("A woman past her tenth month", "No tenth month is named in verse 132."),
              ("The fetus growing too fast", "No growth is named in verse 132.")],
@@ -736,7 +736,7 @@ AUTHORED["135"] = {
     "limits": "A colophon: it gives the chapter's name and number and teaches nothing else. A prose line.",
     "explain_hi": ("यह अध्याय की समाप्ति-पंक्ति (पुष्पिका) है: इस प्रकार गर्भव्यापत् नाम का चौथा अध्याय (पूरा हुआ)। "
                    "गर्भव्यापत् = गर्भ + व्यापद्: गर्भ की विपत्ति या दुर्घटना। "
-                   "छपे शब्द सन्धि से जुड़े हैं: गर्भव्यापत् + नाम → गर्भव्यापन्नाम (त् + न → न्न), चतुर्थः + अध्यायः → "
+                   "छपे शब्द सन्धि से जुड़े हैं: गर्भव्यापत् + नाम → गर्भव्यापन्नाम (त् + न → न्न, विकल्प से द्न भी; छपा न्न), चतुर्थः + अध्यायः → "
                    "चतुर्थोऽध्यायः।"),
     "hook": "शारीर का चौथा अध्याय: गर्भव्यापत्।",
     "core": False,
@@ -930,7 +930,7 @@ AIDS = {
     },
     "135": {
         "chunks": "इति | गर्भव्यापन्नाम | चतुर्थोऽध्यायः",
-        "sandhi": "त् + अनुनासिक → न्: गर्भव्यापत् + नाम → गर्भव्यापन्नाम · अः + अ → ओऽ: चतुर्थः + अध्यायः → चतुर्थोऽध्यायः।",
+        "sandhi": "त् + अनुनासिक → न् (विकल्प से द्): गर्भव्यापत् + नाम → गर्भव्यापन्नाम · अः + अ → ओऽ: चतुर्थः + अध्यायः → चतुर्थोऽध्यायः।",
     },
 }
 
