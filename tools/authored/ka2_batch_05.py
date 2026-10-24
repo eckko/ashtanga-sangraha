@@ -853,7 +853,7 @@ IMAGE_SPECS = {
         "file": "ka2-tilvaka-anupana-55.svg",
         "alt": "Mind map of verse 55: first list mastu, urine, sura-manda, kola, dhatri fruit with waters; second list meshashringi, abhaya, krishna, citraka in water",
         "type": "mermaid",
-        "code": ('mindmap\n  अनुपान\n    पहली सूची\n      मस्तु\n      मूत्र\n      सुरामण्ड\n      कोल\n      धात्रीफल\n'
+        "code": ('mindmap\n  श्लोक ५५ के द्रव्य\n    पहली सूची\n      मस्तु\n      मूत्र\n      सुरामण्ड\n      कोल\n      धात्रीफल\n'
                  '    जल में\n      मेषशृङ्गी\n      अभया\n      कृष्णा\n      चित्रक\n'),
     },
     ("59", "diagram"): {
