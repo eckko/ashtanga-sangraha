@@ -10,9 +10,9 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 30
 AUTHORED["30"] = {
     "title": "निरूहा लेखनाः प्रायो",
-    "question": "What does verse 30 say nirūha and sneha enemas mostly do, and why is anuvāsana not wanted in yāpana?",
-    "rule": ("Nirūha enemas are mostly lekhana (scraping, thinning); sneha enemas are bṛṃhaṇa "
-             "(nourishing). In the yāpana enemas there is both; therefore anuvāsana (oil enema) is "
+    "question": "What does verse 30 say nirūha and sneha enemas do, and why is anuvāsana not wanted in yāpana?",
+    "rule": ("For the most part, nirūha enemas are lekhana (scraping, thinning) and sneha enemas "
+             "bṛṃhaṇa (nourishing). In the yāpana enemas there is both; therefore anuvāsana (oil enema) is "
              "not desired in them."),
     "limits": ("prāyaḥ (mostly) may qualify either half of line 1. What ubhayam (both) names is not "
                "stated: presumably the two effects of line 05.05.58. Whether 'enemas' should be "
@@ -25,7 +25,7 @@ AUTHORED["30"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "What does verse 30 say nirūha enemas mostly are?",
+            "What does verse 30 say nirūha enemas are?",
             ("Lekhana: scraping, thinning", "निरूहा लेखनाः = nirūha enemas are scraping (lekhana)."),
             [("Bṛṃhaṇa: nourishing", "Nourishing (bṛṃhaṇa) is said of the sneha enemas."),
              ("Dīpana: kindling fire", "Kindling comes in verse 33, as a treatment, not here."),
@@ -73,13 +73,14 @@ AUTHORED["30"] = {
 AUTHORED["31"] = {
     "title": "मृदुत्वान्न निवर्त्तेरन्",
     "question": "What does verse 31 prescribe when the mild yāpana enemas do not come back?",
-    "rule": ("If, because of their mildness, these (enemas) do not return in someone, one gives "
-             "him an āsthāpana (nirūha) with sharp enemas together with urine, quickly."),
+    "rule": ("If, because of their mildness, these (enemas) do not return in someone: 'having given "
+             "an āsthāpana (nirūha) with sharp enemas together with urine, he quickly indeed ...' "
+             "(the main verb is missing)."),
     "limits": ("Low confidence. The main verb is missing: the sentence of 05.05.60-61 may continue "
                "in the next unit or a clause is lost. 'Return' is literal; 'not expelled' is only "
                "presumed. Who gives the āsthāpana and who saḥ (he) is are not both clear."),
     "explain_hi": ("यह श्लोक एक कठिनाई बताता है: जिस रोगी में दी गई ये बस्तियाँ मृदु होने के कारण वापस न लौटें। "
-                   "तब मूत्र सहित तीक्ष्ण बस्तियों से उसका आस्थापन यानी निरूह किया जाए, शीघ्र ही। "
+                   "दूसरी पंक्ति: ‘मूत्र सहित तीक्ष्ण बस्तियों से आस्थापन यानी निरूह करके, वह शीघ्र ही ...’; आस्थापन कौन करे और ‘सः’ कौन है, दोनों स्पष्ट नहीं। "
                    "‘न लौटें’ शाब्दिक है; ‘बाहर न निकलें’ केवल अनुमान है। "
                    "दूसरी पंक्ति में मुख्य क्रिया नहीं है, इसलिए वाक्य अधूरा है।"),
     "hook": "मृदु बस्ति न लौटे तो तीक्ष्ण, मूत्र-युक्त आस्थापन, जल्दी।",
@@ -140,10 +141,10 @@ AUTHORED["32"] = {
                "printed compound is irregular (text flag) and the Hindi word for pāṇḍutva is an open "
                "point (OPEN 05.05.62): no question uses either."),
     "explain_hi": ("यह श्लोक यापन बस्ति के अत्यधिक सेवन के दुष्परिणाम गिनाता है। "
-                   "शोफ यानी सूजन, अग्नि का नाश यानी पाचन-शक्ति का घटना, पाण्डुत्व यानी पाण्डुता (इसके हिन्दी शब्द पर खुला अवलोकन है), शूल यानी पेट की पीड़ा, अर्श यानी बवासीर और परिकर्तिका यानी काटने जैसी पीड़ा। "
+                   "शोफ यानी सूजन, अग्नि का नाश यानी पाचक अग्नि का नष्ट होना, पाण्डुत्व यानी पाण्डुता (इसके हिन्दी शब्द पर खुला अवलोकन है), शूल यानी पेट की पीड़ा, अर्श यानी बवासीर और परिकर्तिका यानी काटने जैसी पीड़ा। "
                    "दूसरी पंक्ति ज्वर और अतिसार यानी दस्त जोड़ती है। "
                    "‘स्युः’ यानी हो सकते हैं: पूरी सूची इसी क्रिया का कर्ता है।"),
-    "hook": "यापन ज़्यादा तो: सूजन, मन्द अग्नि, शूल, काटती पीड़ा, ज्वर, दस्त।",
+    "hook": "यापन ज़्यादा तो: सूजन, अग्नि-नाश, शूल, काटती पीड़ा, ज्वर, दस्त।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -321,13 +322,13 @@ AUTHORED["34"] = {
 AUTHORED["35"] = {
     "title": "द्रव्येषु यापनार्थेषु",
     "question": "How does verse 35 say enemas free from restrictions are to be applied with the yāpana drugs?",
-    "rule": ("In the drugs meant for yāpana, with cooked sneha, separately each, or in all of them, "
+    "rule": ("In the drugs meant for yāpana, from cooked sneha, separately each, or in all of them, "
              "one should apply enemas free from restrictions (parihāra-vivarjita)."),
     "limits": ("Low confidence. The syntax of the ablative siddhāsnehāt is not certain (possibly "
                "'apart from the cooked sneha'); its long ā is flagged. sarveṣu is read as 'in all "
                "the drugs'. No question uses the flagged word or the ablative's sense."),
     "explain_hi": ("यह श्लोक श्लोक ३४ का निष्कर्ष व्यवहार में बताता है। "
-                   "यापन के प्रयोजन वाले द्रव्यों में, सिद्ध स्नेह के साथ, अलग-अलग, या सब द्रव्यों में मिलाकर, परिहार-रहित बस्तियाँ दे। "
+                   "यापन के प्रयोजन वाले द्रव्यों में, सिद्ध स्नेह से, अलग-अलग, या सब द्रव्यों में, परिहार-रहित बस्तियाँ दे। "
                    "‘परिहारविवर्जित’ यानी परहेज़ से मुक्त। "
                    "‘सिद्धास्नेहात्’ की वाक्य-रचना अनिश्चित है, इसलिए विश्वास निम्न है।"),
     "hook": "यापन-द्रव्य अलग-अलग या सब में: बस्ति बिना परहेज़।",
@@ -413,7 +414,7 @@ AUTHORED["36"] = {
               "The compound opens with sahācara and closes with gokṣuraka in the ablative.",
               "सहाचर · अभीरु · बला · रास्ना · गोक्षुरक.",
               role="extend",
-              teaches="The sahācarādi list: sahācara, abhīru, balā, rāsnā, gokṣuraka (the recipe is named after its first drug)."),
+              teaches="The list of verse 36: sahācara, abhīru, balā, rāsnā, gokṣuraka."),
         mcq("discriminate", 3, "How much water does verse 36 use, and to what is it reduced?",
             ("A hundred droṇas, to five droṇas", "जलद्रोणशते … पञ्चद्रोणावशेषिते."),
             [("Five droṇas, to a hundred palas", "The hundred droṇas are the water; five droṇas remain."),
@@ -633,12 +634,12 @@ AUTHORED["40"] = {
     "title": "रसं वराहमहिष",
     "question": "Which animal products does verse 40 add to the sahācarādi enema?",
     "rule": ("The juice (rasa) arising from the testes of the boar, buffalo and he-goat; likewise "
-             "oil and ghee (taila, sarpis) with what arises from the eggs of the peacock, the cock "
-             "and the swan."),
+             "oil and ghee (taila, sarpis), arising from the eggs of the peacock, the cock and the "
+             "swan (how they relate is not stated)."),
     "limits": ("No verb in this unit (it may lie in 05.05.84, dadyāt). The Sanskrit does not say "
                "whether the oil and ghee come from the eggs or are prepared with them. A male "
                "buffalo is meant by context only. Whether each animal gives a prastha is not stated."),
-    "explain_hi": ("इस श्लोक में पशु-द्रव्य आते हैं। पहले रस: वराह यानी सूअर, महिष यानी भैंसा और बस्त यानी बकरा, इनके मुष्क यानी अण्डकोशों से उत्पन्न। "
+    "explain_hi": ("इस श्लोक में और द्रव्य आते हैं। पहले रस: वराह यानी सूअर, महिष यानी भैंसा और बस्त यानी बकरा, इनके मुष्क यानी अण्डकोशों से उत्पन्न। "
                    "फिर शिखी यानी मोर, कुक्कुट यानी मुर्गा और हंस, इनके अण्डों से उत्पन्न, और तेल और घी। "
                    "तेल-घी अण्डों से बनें या उनके साथ पकें, संस्कृत स्पष्ट नहीं करती। "
                    "यहाँ ‘बस्त’ बकरा है, बस्ति नहीं।"),
@@ -667,7 +668,7 @@ AUTHORED["40"] = {
             ("A he-goat", "बस्त = he-goat, one of three animals of line 1."),
             [("An enema", "The enema is बस्ति; बस्त is the goat."),
              ("The bladder", "The bladder sense belongs to बस्ति, not बस्त."),
-             ("The enema bag", "The bag is a sense of बस्ति in other chapters.")],
+             ("The enema bag", "बस्त is the goat; no device is meant here.")],
             "Do not confuse बस्त (goat) with बस्ति (enema, bladder).",
             "बस्त = he-goat ≠ बस्ति."),
         mcq("apply", 4, "What does the card say about the oil, ghee and eggs of line 2?",
@@ -701,7 +702,7 @@ AUTHORED["41"] = {
                "verb of giving in this unit."),
     "explain_hi": ("अब द्रव पदार्थ आते हैं: धात्री यानी आँवला और विदारी यानी सम्भवतः विदारीकन्द का स्वरस, और गाय के दूध के दो आढक। "
                    "दूसरी पंक्ति एक अनोखी विधि बताती है: जो ब्रह्म, भेरी यानी नगाड़ा और मृदंग की ध्वनियों के बीच तैयार किया गया हो। "
-                   "‘ब्रह्म’ का अर्थ यहाँ निश्चित नहीं: वैदिक पाठ भी हो सकता है या किसी वाद्य का नाम। "
+                   "‘ब्रह्म’ का अर्थ यहाँ निश्चित नहीं: पवित्र पाठ भी हो सकता है या किसी वाद्य का नाम। "
                    "तैयार की गई वस्तु का नाम इस इकाई में नहीं है।"),
     "hook": "आँवला-विदारी का स्वरस, दो आढक गोदुग्ध; नगाड़े-मृदंग की ध्वनि में तैयार।",
     "core": False,
@@ -756,14 +757,14 @@ AUTHORED["42"] = {
     "title": "सितच्छत्रकृतच्छायं",
     "question": "How is the prepared substance honoured in verse 42?",
     "rule": ("It is shaded by a white umbrella, covered with a white cloth, placed on the shoulder "
-             "of an elephant, (and this) after worshipping Vṛṣadhvaja (the bull-bannered one, "
-             "Śiva)."),
+             "of an elephant; and 'having worshipped Vṛṣadhvaja (the bull-bannered one, Śiva)', "
+             "whose main verb is not in this unit."),
     "limits": ("No noun is stated: the neuter adjectives describe the substance of 05.05.81. "
                "Vṛṣadhvaja as Śiva is the usual epithet (standard), but the line itself does not "
                "say Śiva. The agent of the worship is not named. skandha is shoulder or back."),
     "explain_hi": ("यह श्लोक तैयार किए गए द्रव्य के सम्मान का वर्णन करता है। "
                    "उस पर श्वेत छत्र से छाया हो, वह श्वेत वस्त्र से ढका हो, और हाथी के कन्धे पर रखा जाए। "
-                   "यह वृषध्वज यानी वृषभ-ध्वज वाले शिव की पूजा करके होता है। "
+                   "फिर ‘वृषध्वज यानी वृषभ-ध्वज वाले शिव की पूजा करके’ आता है; इसकी मुख्य क्रिया इस इकाई में नहीं। "
                    "पूजा कौन करे, पाठ नहीं कहता; अगले श्लोक में स्वस्त्ययन और बस्ति आती है।"),
     "hook": "सफ़ेद छत्र, सफ़ेद वस्त्र, हाथी का कन्धा, शिव-पूजा।",
     "core": False,
@@ -905,7 +906,7 @@ AUTHORED["44"] = {
                ["क्षीण", "wasted, depleted"]],
               "The promised qualities and the key words of line 2.",
               "कान्त = handsome; चिरंजीवी = long-lived; हित = beneficial; क्षीण = wasted."),
-        order(2, "Put the persons of line 2 of verse 44 in their order.",
+        order(2, "Put the words of line 2 of verse 44 in their order.",
               ["नष्टशुक्र", "क्षत", "क्षीण", "विषमज्वरिन्"],
               "The compound runs: lost semen, injured, wasted, irregular fever.",
               "नष्टशुक्र · क्षत · क्षीण · विषमज्वरी.",
@@ -1002,7 +1003,7 @@ AUTHORED["45"] = {
 # ---------------------------------------------------------------- unit 46
 AUTHORED["46"] = {
     "title": "शतं वारान्सहस्रं वा",
-    "question": "How often does verse 46 say the oil should be cooked, and what does it announce next?",
+    "question": "How often does verse 46 say it should be cooked, and what does it announce next?",
     "rule": ("One should have it cooked a hundred or a thousand times, when it is possible "
              "(saṃbhave sati). Sneha-bastis that destroy the doṣas will be described (vakṣyante), "
              "with their precautions."),
@@ -1125,7 +1126,7 @@ NOTES_HI = {
 AIDS = {
     "30": {
         "seesaw": "लेखन ↔ बृंहण: निरूह खुरचता-पतला करता है, स्नेहबस्ति पोषण करती है; यापन में दोनों।",
-        "chain": {"steps": ["निरूह: प्रायः लेखन", "स्नेहबस्ति: बृंहण", "यापन में दोनों", "इसलिए अनुवासन इष्ट नहीं"]},
+        "chain": {"steps": ["निरूह: लेखन", "स्नेहबस्ति: बृंहण", "यापन में दोनों", "इसलिए अनुवासन इष्ट नहीं"]},
         "sandhi": "उ + उ → ऊ: यापनेषु + उभयम् → यापनेषूभयम्; त् + न → न्न, अ + इ → ए: तस्मात् + न + इष्टम् → तस्मान्नेष्टम्।",
         "anchors": "लेखन = खुरचना, पतला करना · बृंहण = पोषण · प्रायः = अधिकतर · उभय = दोनों · इष्ट = चाहा हुआ।",
     },
@@ -1229,10 +1230,10 @@ AIDS = {
 IMAGE_SPECS = {
     ("30", "seesaw"): {
         "file": "ka5-lekhana-brimhana-30.svg",
-        "alt": "Split picture of verse 30: nirūha mostly scraping (lekhana) on one side, sneha enema nourishing (brimhana) on the other; yapana has both, so anuvasana is not wanted in it",
+        "alt": "Split picture of verse 30: nirūha scraping (lekhana) on one side, sneha enema nourishing (brimhana) on the other",
         "type": "split",
         "title": "श्लोक ३०: लेखन और बृंहण",
-        "cols": [["निरूह", ["प्रायः लेखन", "खुरचना, पतला करना"]],
+        "cols": [["निरूह", ["लेखन", "खुरचना, पतला करना"]],
                  ["स्नेहबस्ति", ["बृंहण", "पोषण"]]],
     },
     ("32", "diagram"): {
@@ -1276,12 +1277,12 @@ IMAGE_SPECS = {
         "file": "ka5-mushka-anda-40.svg",
         "alt": "Mind map of verse 40: juice from the testes of boar, buffalo, he-goat; eggs of peacock, cock, swan; with oil and ghee",
         "type": "mermaid",
-        "code": ('mindmap\n  पशु-द्रव्य\n    मुष्क-रस\n      वराह\n      महिष\n      बस्त\n'
+        "code": ('mindmap\n  श्लोक ४० के द्रव्य\n    मुष्क-रस\n      वराह\n      महिष\n      बस्त\n'
                  '    अण्डे\n      शिखी\n      कुक्कुट\n      हंस\n    तैल और घी\n'),
     },
     ("42", "chain"): {
         "file": "ka5-gaja-skandha-42.svg",
-        "alt": "Chain of four steps of verse 42: shaded by a white umbrella, covered with white cloth, placed on an elephant's shoulder, after worshipping Vrishadhvaja",
+        "alt": "The four phrases of verse 42 in the verse's order: shaded by a white umbrella, covered with white cloth, placed on an elephant's shoulder, after worshipping Vrishadhvaja",
         "type": "chain",
         "title": "श्लोक ४२: द्रव्य का सम्मान",
         "steps": ["श्वेत छत्र की छाया", "श्वेत वस्त्र से ढका", "हाथी के कन्धे पर रखा", "वृषध्वज की पूजा करके"],
