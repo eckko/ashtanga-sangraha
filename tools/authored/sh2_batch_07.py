@@ -11,13 +11,13 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 76
 AUTHORED["76"] = {
     "title": "यदा तु कार्त्स्न्येनोपहंति",
-    "question": "What two things does unit 76 say the unstated subject may do to the channel (srotas)?",
+    "question": "What two cases does unit 76 name for the unstated subject?",
     "rule": ("When it wholly damages (कार्त्स्न्येन उपहन्ति), or, without damaging, simply closes the mouth of the channel "
-             "(स्रोतोमुखं पिधत्ते): the 'when' half of a sentence whose 'then' comes in unit 77."),
+             "(स्रोतोमुखं पिधत्ते): this appears to be the 'when' half of a sentence whose 'then' comes in unit 77."),
     "limits": ("The subject is not printed in this line; it is carried from earlier context and the card does not name it. "
                "The line does not say which channel, nor what follows; the result is in unit 77. "
                "The printed उपहंति is the usual spelling उपहन्ति."),
-    "explain_hi": ("यह एक गद्य-पंक्ति है और ‘यदा … तदा’ वाले वाक्य का पहला आधा भाग है; ‘तदा’ वाला भाग इकाई ७७ में है। "
+    "explain_hi": ("यह एक गद्य-पंक्ति है और सम्भवतः ‘यदा … तदा’ वाले वाक्य का पहला आधा भाग है; ‘तदा’ वाला भाग सम्भवतः इकाई ७७ में है। "
                    "यहाँ दो विकल्प हैं: या तो वह पूरी तरह हानि पहुँचाता है, या हानि पहुँचाए बिना केवल स्रोत (वाहिनी) का मुख ढक देता है। "
                    "कर्ता इस पंक्ति में छपा नहीं है; वह पहले के प्रसंग से आता है, इसलिए कार्ड उसका नाम नहीं लेता। "
                    "‘अनुपघ्नन्’ वर्तमान कृदन्त है: ‘हानि न पहुँचाते हुए’।"),
@@ -44,7 +44,7 @@ AUTHORED["76"] = {
         mcq("discriminate", 3, "Which split of अनुपघ्नन्नेव is right?",
             ("अनुपघ्नन् + एव", "A final न् after a short vowel is doubled before a vowel: अनुपघ्नन्न् + एव."),
             [("अनुपघ्नन्न + एव", "अ + ए would join as ऐ: अनुपघ्नन्नैव."),
-             ("अनुपघ्नत् + नेव", "नेव is not a word of the card."),
+             ("अनुपघ्नन् + नैव", "न्न् + ऐ would print अनुपघ्नन्नैव, with ऐ, not ए."),
              ("अनुपघ्नम् + एव", "म् before a vowel would give अनुपघ्नमेव.")],
             "अनुपघ्नन् (not damaging) + एव (just): the न् is doubled because a short vowel stands before it.",
             "Short vowel + न् + vowel → न्न् + vowel."),
@@ -106,7 +106,7 @@ AUTHORED["77"] = {
              ("बस्तयम् + अभ्यवहारः", "म् before a vowel would give बस्तयमभ्यवहारः.")],
             "बस्तयः (enemas) + अभ्यवहारः (eating): the visarga with अ becomes ओ and the next अ is dropped (ऽ).",
             "अः + अ → ओऽ."),
-        multi("apply", 4, "Which two does unit 77 list as the treatment?",
+        multi("apply", 4, "Which two of these does unit 77 list in the treatment?",
               [("Bloodletting", "Bloodletting is not named in this line."),
                ("Aphrodisiac enemas (वाजीकरा बस्तयः)", "Right: वाजीकरा बस्तयः."),
                ("Fasting", "Fasting is not named in this line."),
@@ -164,11 +164,11 @@ AUTHORED["78"] = {
             "इ + a different vowel → य् + that vowel."),
         multi("apply", 4, "Which two does unit 78 say 'these' do?",
               [("Put strength into the semen", "Right: शुक्रे बलमादधानानि."),
-               ("Nourish its channels", "Right: स्रोतांस्यस्याप्याययन्ति."),
-               ("Close its channels", "Closing the channel's mouth is unit 76's harm, not this help."),
+               ("Nourish the channels (srotas)", "Right: स्रोतांसि … आप्याययन्ति."),
+               ("Close the channels", "Closing the channel's mouth is unit 76's harm, not this help."),
                ("Dry up the semen", "The line says they give the semen strength.")],
               [0, 1],
-              "They put strength into the semen and nourish its channels (srotas).",
+              "They put strength into the semen and nourish the channels (srotas).",
               "बलम् आदधानानि; स्रोतांसि आप्याययन्ति."),
         T(mcq("transfer", 5, "By the rule of स्रोतांस्यस्य, how is अति + अन्तम् written when joined?",
               ("अत्यन्तम्", "इ before अ becomes य्."),
@@ -184,24 +184,24 @@ AUTHORED["78"] = {
 # ---------------------------------------------------------------- unit 79
 AUTHORED["79"] = {
     "title": "यदाऽल्पबीजोऽल्पबलः पुमान्",
-    "question": "Which man does unit 79 describe, and what does he cause with the woman?",
+    "question": "Which man does unit 79 describe, and what does he cause?",
     "rule": ("When a man of little seed, little strength, agitated, with aversion to women, or desiring another, causes an "
-             "obstruction of intercourse with the woman, or the woman is of that kind towards the man: the 'when' half."),
+             "obstruction of intercourse with the woman, or (on the probable reading तद्विधा for printed तद्दिधा) the woman is of that kind towards the man: the 'when' half."),
     "limits": ("The 'then' result is in unit 80. The printed तद्दिधा is not a word (probably तद्विधा, 'of that kind'); "
                "no question rests on it. The last clause is elliptical: 'is' is supplied and पुंसः is read 'towards the man'."),
     "explain_hi": ("यह गद्य-पंक्ति ‘यदा’ वाला भाग है; ‘तदा’ वाला फल इकाई ८० में आता है। "
                    "पुरुष के पाँच विशेषण हैं: अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला, या किसी अन्य की कामना करने वाला। "
-                   "ऐसा पुरुष स्त्री के साथ मैथुन में रुकावट करता है; या स्त्री भी पुरुष के प्रति वैसी ही हो। "
+                   "ऐसा पुरुष स्त्री के साथ मैथुन में रुकावट करता है; या (सम्भावित पाठ ‘तद्विधा’ पर) स्त्री भी पुरुष के प्रति वैसी ही हो। "
                    "‘अल्पबीज’, ‘अल्पबल’, ‘अन्यकाम’ बहुव्रीहि हैं: जिसका बीज अल्प हो, आदि।"),
     "hook": "कम बीज, कम बल, उद्वेग, स्त्री-द्वेष, अन्य-काम: मैथुन में रुकावट।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 79, what does such a man cause with the woman?",
+        mcq("pretest", 0, "By unit 79, what does such a man cause?",
             ("An obstruction of intercourse", "व्यवायप्रतिघातं करोति: he causes an obstruction of intercourse."),
             [("A quarrel over the household property", "Property is not named in this line."),
              ("An early conception", "The line speaks of obstruction, not conception."),
              ("A fever in the woman", "No fever is named in this line.")],
-            "नार्या व्यवायप्रतिघातं करोति: he causes an obstruction (प्रतिघात) of intercourse (व्यवाय) with the woman.",
+            "नार्या व्यवायप्रतिघातं करोति: he causes an obstruction (प्रतिघात) of intercourse (व्यवाय).",
             "व्यवाय = intercourse; प्रतिघात = obstruction."),
         order(1, "Put the man's qualities in unit 79's printed order.",
               ["अल्पबीजः", "अल्पबलः", "उद्वेगः", "स्त्रीद्वेषयुक्तः", "अन्यकामः"],
@@ -247,7 +247,7 @@ AUTHORED["80"] = {
              "vakradhvaja (with a bent dhvaja, the penis); his dhvaja is not made stiff at all."),
     "limits": ("Low confidence. आसेक्य is left untranslated: the line does not define it and its case is unclear, so no "
                "question rests on it. That it names a kind of ṣaṇḍha is only probable, from parallel works. The clauses have no stated subject."),
-    "explain_hi": ("विश्वास कम। यह इकाई ७९ के ‘यदा’ वाक्य का ‘तदा’ भाग है। ‘आसेक्य’ एक पारिभाषिक नाम लगता है, पर पंक्ति इसे समझाती नहीं, इसलिए यह बिना अनुवाद रखा गया है; "
+    "explain_hi": ("विश्वास कम। यह सम्भवतः इकाई ७९ के ‘यदा’ वाक्य का ‘तदा’ भाग है। ‘आसेक्य’ एक पारिभाषिक नाम लगता है, पर पंक्ति इसे समझाती नहीं, इसलिए यह बिना अनुवाद रखा गया है; "
                    "यह षण्ढ (नपुंसक) का एक प्रकार है, यह केवल दूसरे ग्रन्थों की समान सूचियों से सम्भावित है। "
                    "फिर: स्त्री और पुरुष वैसे ही हो जाते हैं। तब वह वक्रध्वज यानी टेढ़े ध्वज (शिश्न) वाला होता है; उसका ध्वज बिलकुल कड़ा नहीं होता। "
                    "‘ध्वज’ (झंडा) शिश्न के लिए प्रयुक्त शिष्ट शब्द है।"),
@@ -301,12 +301,13 @@ AUTHORED["81"] = {
     "title": "यदा पूतियोन्याः",
     "question": "Of which woman does unit 81 say an embryo (garbha) arises?",
     "rule": ("When an embryo (गर्भ) arises of a woman with a putrid (पूति) vagina (योनि): the 'when' half; the result is in unit 82."),
-    "limits": ("The printed स्त्रिया is instrumental; the card's 'of a woman' follows a conjectural genitive स्त्रियाः, so no "
-               "question rests on that word's case. पूति means putrid or foul-smelling; the line does not say which."),
+    "limits": ("Printed स्त्रिया before गर्भो may be the genitive स्त्रियाः by regular sandhi (आः + voiced consonant → आ) or an "
+               "instrumental; the card follows the genitive, beside पूतियोन्याः, and no question rests on the case. "
+               "पूति means putrid or foul-smelling; the line does not say which."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति ‘यदा’ वाला भाग है; इसका फल इकाई ८२ में है। "
                    "जब पूतियोनि (दुर्गन्धयुक्त या सड़ी योनि वाली) स्त्री का गर्भ होता है। "
                    "‘पूतियोनि’ बहुव्रीहि है: जिसकी योनि पूति हो। "
-                   "छपा ‘स्त्रिया’ तृतीया है; अनुवाद षष्ठी ‘स्त्रियाः’ मानकर चलता है, जो अनुमान है।"),
+                   "छपा ‘स्त्रिया’ (गर्भो से पहले) नियमित सन्धि से षष्ठी ‘स्त्रियाः’ हो सकता है (आः + घोष व्यंजन → आ), तृतीया भी; अनुवाद षष्ठी मानता है।"),
     "hook": "पूतियोनि स्त्री का गर्भ: फल अगली पंक्ति में।",
     "core": False,
     "questions": [
@@ -352,10 +353,10 @@ AUTHORED["81"] = {
 AUTHORED["82"] = {
     "title": "तच्छुक्रास्वादात्",
     "question": "From what, by unit 82, does he get the raising of the dhvaja (penis)?",
-    "rule": "From tasting that semen (शुक्र) he gets the raising (उच्छ्राय) of the dhvaja (penis): the result of unit 81.",
+    "rule": "From tasting that semen (शुक्र) he gets the raising (उच्छ्राय) of the dhvaja (penis): this appears to be the result of unit 81.",
     "limits": ("The subject 'he' is not stated, and 'that' semen is not explained in the line. उच्छ्राय as erection is "
                "probable. The print keeps आस्वादात् unjoined before ध्वज (a print habit)."),
-    "explain_hi": ("यह इकाई ८१ के वाक्य का फल है: उस शुक्र के आस्वाद से वह ध्वज (शिश्न) का उठना पाता है। "
+    "explain_hi": ("यह सम्भवतः इकाई ८१ के वाक्य का फल है: उस शुक्र के आस्वाद से वह ध्वज (शिश्न) का उठना पाता है। "
                    "कर्ता ‘वह’ छपा नहीं है, और ‘उस’ शुक्र से क्या अभिप्रेत है, यह पंक्ति नहीं बताती। "
                    "‘उच्छ्राय’ यानी उठना; उत्थान अर्थ सम्भावित है। "
                    "छपाई ने ‘आस्वादात् ध्वज’ में त् को द् नहीं किया; नियम से ‘आस्वादाद्ध्वज’ होता।"),
@@ -408,8 +409,8 @@ AUTHORED["82"] = {
 AUTHORED["83"] = {
     "title": "योनिध्वजगंधेन बलं लभते",
     "question": "In the sure part of unit 83, from what does he obtain strength?",
-    "rule": ("From the smell of the yoni and the dhvaja (योनिध्वजगन्धेन) he obtains strength (बलम्). The two printed words "
-             "before it are unclear."),
+    "rule": ("From the smell of yoni and dhvaja (योनिध्वजगन्धेन; read as 'of the yoni and the dhvaja', 'of the dhvaja of the "
+             "yoni' also possible) he obtains strength (बलम्). The two printed words before it are unclear."),
     "limits": ("Low confidence. पुमुरुभावपि and तत्सौगंधिकारण्यं are doubtful in print; no question rests on them. "
                "The compound may be a dvandva or not, so no question asks it. बल is strength, not erection. "
                "Saugandhika as a ṣaṇḍha kind is only probable."),
@@ -474,7 +475,7 @@ AUTHORED["84"] = {
                    "‘संज्ञाम्’ के बाद कोई क्रिया नहीं छपी। "
                    "दूसरी: उसकी, दूसरे को मिथुन बना हुआ (संयुक्त) देखकर, मैथुन में प्रवृत्ति होती है। "
                    "‘परम्’ को ‘दूसरे को’ पढ़ा गया है; ‘केवल’ अर्थ भी असम्भव नहीं। ‘दृष्ट्वा’ (देखकर) √दृश् का क्त्वा-रूप है।"),
-    "hook": "ईर्ष्या, मन्द हर्ष: ईर्ष्यालु; दूसरे का मिथुन देखकर ही प्रवृत्ति।",
+    "hook": "ईर्ष्या, मन्द हर्ष: ईर्ष्यालु; दूसरे को मिथुन देखकर प्रवृत्ति।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 84, what name is given?",
@@ -594,7 +595,7 @@ AUTHORED["86"] = {
         mcq("pretest", 0, "By unit 86, how many ṣaṇḍha-yonis are there?",
             ("Eight (अष्टौ)", "अष्टौ षण्ढयोनयः: eight kinds of ṣaṇḍha."),
             [("Five (पञ्च)", "The line says अष्टौ, eight."),
-             ("Six", "The line says अष्टौ, eight."),
+             ("Six (षट्)", "The line says अष्टौ, eight."),
              ("Ten (दश)", "The line says अष्टौ, eight.")],
             "एताः … अष्टौ षण्ढयोनयः: these eight kinds of ṣaṇḍha.",
             "अष्टौ = eight."),
@@ -767,8 +768,8 @@ NOTES_HI = {
            "स्त्रीद्वेषयुक्तः + अन्यकामः → स्त्रीद्वेषयुक्तोऽन्यकामः (अः + अ → ओऽ); अन्यकामः + वा → अन्यकामो वा।"),
     "80": ("विश्वास कम। छपा ‘तदाऽऽसेक्यं’ (दोहरा अवग्रह जैसा छपा) = तदा + आसेक्यम्; ‘आसेक्य’ पारिभाषिक नाम लगता है, पर पंक्ति परिभाषा नहीं देती "
            "और इसकी विभक्ति अस्पष्ट है। यह षण्ढ का एक प्रकार है, यह केवल दूसरे ग्रन्थों से सम्भावित। ‘ध्वज’ शिश्न के लिए शिष्ट शब्द (मानक)। "
-           "सन्धियाँ: न + एव → नैव (अ + ए → ऐ); वक्रध्वजः + भवति → वक्रध्वजो भवति; छपा ‘ध्वजस्तभ्यते’ = ध्वजः + स्तभ्यते, विसर्ग छपाई में नहीं।"),
-    "81": ("पाठ-सूचना: छपा ‘स्त्रिया’ तृतीया है; ‘पूतियोन्याः’ के साथ षष्ठी ‘स्त्रियाः’ अपेक्षित, अनुवाद उसी अनुमान पर। "
+           "सन्धियाँ: न + एव → नैव (अ + ए → ऐ); वक्रध्वजः + भवति → वक्रध्वजो भवति; छपा ‘ध्वजस्तभ्यते’ = ध्वजः + स्तभ्यते; स् + कठोर व्यंजन से पहले विसर्ग का लोप वैकल्पिक नियमित सन्धि है।"),
+    "81": ("पाठ-सूचना: छपा ‘स्त्रिया’ गर्भो से पहले नियमित सन्धि से षष्ठी ‘स्त्रियाः’ भी हो सकता है (आः + घोष → आ), तृतीया भी; अनुवाद षष्ठी पर चलता है। "
            "‘पूति’ = सड़ा या दुर्गन्धयुक्त; पंक्ति नहीं बताती कौन-सा। वाक्य इकाई ८२ में पूरा होता है। सन्धि: गर्भः + भवति → गर्भो भवति।"),
     "82": ("छपा ‘आस्वादात्ध्वज’ में त् को द् नहीं किया गया (छपाई की आदत; नियम से आस्वादाद्ध्वज)। कर्ता ‘वह’ नहीं छपा। "
            "‘उच्छ्राय’ = उठना, उत्थान (सम्भावित)। सन्धियाँ: तत् + शुक्र → तच्छुक्र (त् + श → च्छ); शुक्र + आस्वादात् → शुक्रास्वादात्; "
@@ -821,7 +822,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पुरुष (छपे क्रम में)", "items": ["१ अल्पबीज", "२ अल्पबल", "३ उद्विग्न", "४ स्त्री-द्वेषी", "५ अन्य-कामी"]},
             {"label": "फल", "items": ["स्त्री से मैथुन में रुकावट"]},
-            {"label": "या", "items": ["स्त्री वैसी, पुरुष के प्रति"]}]},
+            {"label": "या", "items": ["स्त्री वैसी (पाठ सम्भावित), पुरुष के प्रति"]}]},
         "sandhi": ("अः + अ → ओऽ: अल्पबीजः + अल्पबलः → अल्पबीजोऽल्पबलः · अः + व → ओ: अन्यकामः + वा → अन्यकामो वा · "
                    "न् + स्वर: पुमान् + उद्वेगः → पुमानुद्वेगः।"),
         "letters": "पाँच विशेषण: बी-ब-उ-द्वे-अ (बीज, बल, उद्वेग, द्वेष, अन्यकाम)।",
@@ -830,7 +831,7 @@ AIDS = {
     "80": {
         "chunks": "तदाऽऽसेक्यं | स्त्रीपुंसौ तद्विधौ भवतः | तदा वक्रध्वजो भवति | तस्य नैव ध्वजस्तभ्यते",
         "sandhi": "अ + ए → ऐ: न + एव → नैव · अः + भ → ओ: वक्रध्वजः + भवति → वक्रध्वजो भवति।",
-        "frame": "इकाई ७९ का ‘तदा’ भाग। ‘आसेक्य’ अनूदित: पंक्ति इसे नहीं समझाती।",
+        "frame": "सम्भवतः इकाई ७९ का ‘तदा’ भाग। ‘आसेक्य’ अनूदित: पंक्ति इसे नहीं समझाती।",
     },
     "81": {
         "frame": "‘यदा’ यहाँ (पूतियोनि स्त्री का गर्भ); फल इकाई ८२ में।",
@@ -841,7 +842,7 @@ AIDS = {
         "chain": {"steps": ["उस शुक्र का आस्वाद", "ध्वज का उठना पाता है"]},
         "sandhi": ("त् + श → च्छ: तत् + शुक्र → तच्छुक्र · अ + उ → ओ: ध्वज + उच्छ्रायम् → ध्वजोच्छ्रायम् · "
                    "नियम से त् + ध → द्ध: आस्वादात् + ध्वज → आस्वादाद्ध्वज (छपाई में बिना जोड़)।"),
-        "frame": "इकाई ८१ के ‘यदा’ का फल।",
+        "frame": "सम्भवतः इकाई ८१ के ‘यदा’ का फल।",
     },
     "83": {
         "frame": "पक्का भाग: ‘योनिध्वजगंधेन बलं लभते’; बीच के दो छपे शब्द अस्पष्ट।",
@@ -911,11 +912,11 @@ IMAGE_SPECS = {
         "file": "sh2-alpabija-79.svg",
         "alt": ("Split of unit 79: the man's five qualities in printed order (little seed, little strength, agitated, "
                 "aversion to women, desiring another); what happens: obstruction of intercourse with the woman, or the "
-                "woman is of that kind towards the man."),
+                "woman (probable reading) is of that kind towards the man."),
         "type": "split",
         "title": "इकाई ७९: जब …",
         "cols": [["पुरुष (छपे क्रम में)", ["१ अल्पबीज", "२ अल्पबल", "३ उद्विग्न", "४ स्त्री-द्वेषी", "५ अन्य-कामी"]],
-                 ["क्या होता", ["स्त्री से मैथुन में रुकावट", "या स्त्री वैसी, पुरुष के प्रति"]]],
+                 ["क्या होता", ["स्त्री से मैथुन में रुकावट", "या स्त्री वैसी (पाठ सम्भावित), पुरुष के प्रति"]]],
     },
     ("84", "chain"): {
         "file": "sh2-irshyalu-84.svg",
@@ -941,8 +942,8 @@ IMAGE_SPECS = {
                 "arises; the dosha is provoked in the seed or seed-portion of a mother-born part; deformity enters that part."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"१ शोणित, गर्भाशय दूषित\"] --> B[\"२ तब गर्भ होता\"]\n"
-                 "  B --> C[\"३ मातृज अवयव के बीज में\"]\n"
+                 "  A[\"१ शोणित, गर्भाशय थोड़ा दूषित\"] --> B[\"२ तब गर्भ होता\"]\n"
+                 "  B --> C[\"३ मातृज अवयव के बीज या बीजांश में\"]\n"
                  "  C --> D[\"दोष-प्रकोप\"]\n"
                  "  D --> E[\"४ उसी अवयव में विकृति\"]\n"),
     },
