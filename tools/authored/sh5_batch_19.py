@@ -27,7 +27,7 @@ AUTHORED["229"] = {
              ("By the patient's own report", "The line says by signs (लक्षणैः), not by a report.")],
             "Increase and decrease are discerned, each by its own signs.",
             "यथास्वं लक्षणैः = each by its own signs."),
-        order(1, "Put these words of unit 229 (dictionary forms) in the line's order.",
+        order(1, "Put these words of unit 229 (split out of sandhi) in the line's order.",
               ["अतः", "वृद्धिक्षयौ", "यथास्वम्", "लक्षणैः", "विभावयेत्", "मूर्तामूर्तान् भावान्"],
               "Therefore increase and decrease, each by its own signs, one should discern; and corporeal and "
               "non-corporeal entities. The doubtful word is left out.",
@@ -243,8 +243,9 @@ AUTHORED["233"] = {
     "question": "By unit 233, what is said of bodies and of the doṣas, dhātus and malas?",
     "rule": ("For (हि) bodies are of dissimilar characteristics (विलक्षणानि), and the doṣas, dhātus and malas are always "
              "(नित्यम् एव) unsteady (चलाः)."),
-    "limits": ("Prose; the copula is understood. The data takes it (GROUPING) as the first part of the Dhanvantari reading of "
-               "unit 232, running on to unit 235; the questions stay inside this line. No doṣa is given a modern name."),
+    "limits": ("Prose; the copula is understood. The data's GROUPING note says it appears to be the first part of the "
+               "Dhanvantari reading of unit 232, continuing to unit 235; the questions stay inside this line. No doṣa is "
+               "given a modern name."),
     "explain_hi": ("यह गद्य-पंक्ति सम्भवतः धान्वन्तरीय पाठ का पहला भाग है (डेटा के अनुसार यह इकाई २३५ तक चलता है)। "
                    "‘हि’ (क्योंकि) कारण बताता है: शरीर विलक्षण हैं, यानी उनके लक्षण आपस में भिन्न हैं। "
                    "और दोष, धातु और मल नित्य ही चल (अस्थिर) हैं। "
@@ -260,7 +261,7 @@ AUTHORED["233"] = {
              ("Hidden from sight", "Nothing is said of sight; they are unsteady.")],
             "The doṣas, dhātus and malas are always unsteady.",
             "चलाः = unsteady, moving."),
-        order(1, "Put the printed parts of unit 233 in the line's order.",
+        order(1, "Put these parts of unit 233 in the line's order.",
               ["विलक्षणानि हि", "शरीराणि", "नित्यमेव च", "चला", "दोषधातुमलाः"],
               "For bodies are dissimilar, and always unsteady are the doṣas, dhātus and malas.",
               "विलक्षणानि हि → शरीराणि → नित्यमेव च → चला → दोषधातुमलाः."),
@@ -320,7 +321,7 @@ AUTHORED["234"] = {
              ("Of the pores of the body hair", "Not named in this line.")],
             "The evenness of water and the others cannot be given by measure.",
             "उदकादीनाम् समत्वम् ... अशक्यम्."),
-        order(1, "Put the printed parts of unit 234 in the line's order.",
+        order(1, "Put these parts of unit 234 in the line's order.",
               ["तस्मादुदकादीनामपि", "समत्वं", "मांसादिवत्", "परिमाणतो", "निर्देष्टुमशक्यं"],
               "Therefore the evenness even of water and the others, as for flesh and the rest, by measure, is impossible "
               "to specify.",
@@ -379,7 +380,7 @@ AUTHORED["235"] = {
              ("By asking the patient's teacher", "No one is asked; one judges by inference.")],
             "Only by inference through mere health.",
             "केवलं स्वास्थ्यमात्रेण अनुमानतः."),
-        order(1, "Put the words of unit 235 (dictionary forms) in the line's order.",
+        order(1, "Put the words of unit 235 (split out of sandhi) in the line's order.",
               ["केवलम्", "स्वास्थ्यमात्रेण", "अनुमानतः", "लक्षयेत्", "इति"],
               "Only through mere health, by inference, one should judge: thus (the reading ends).",
               "केवलम् → स्वास्थ्यमात्रेण → अनुमानतः → लक्षयेत् → इति."),
@@ -423,7 +424,7 @@ AUTHORED["236"] = {
              "(अतिसौक्ष्म्यात्), come to countlessness (असंख्येयतां यान्ति)."),
     "limits": ("Prose. परमाणु = atom, the doctrine's own term for the smallest particle; the card adds no modern physics. "
                "Whether this line still belongs to the quoted reading is not stated."),
-    "explain_hi": ("यह गद्य-पंक्ति कहती है कि सभी अवयव (शरीर के भाग), परमाणुओं में भेद करने पर, अत्यन्त सूक्ष्म होने के कारण "
+    "explain_hi": ("यह गद्य-पंक्ति कहती है कि सभी अवयव (भाग), परमाणुओं में भेद करने पर, अत्यन्त सूक्ष्म होने के कारण "
                    "असंख्येय (अनगिनत) हो जाते हैं। "
                    "परमाणु यहाँ शास्त्र का अपना शब्द है: सबसे छोटा कण। "
                    "‘तु’ (परन्तु) एक मोड़ दिखाता है। "
@@ -438,7 +439,7 @@ AUTHORED["236"] = {
              ("A fixed count of seven", "No number is given; they become countless.")],
             "All the parts come to be countless.",
             "असंख्येयताम् यान्ति = become countless."),
-        order(1, "Put the words of unit 236 (dictionary forms) in the line's order.",
+        order(1, "Put the words of unit 236 (split out of sandhi) in the line's order.",
               ["सर्वे एव", "तु अवयवाः", "परमाणुभेदेन", "अतिसौक्ष्म्यात्", "असंख्येयताम्", "यान्ति"],
               "But all the parts, by division into atoms, because of extreme subtlety, go to countlessness.",
               "सर्वे एव → तु अवयवाः → परमाणुभेदेन → अतिसौक्ष्म्यात् → असंख्येयताम् → यान्ति."),
@@ -548,7 +549,7 @@ AUTHORED["238"] = {
     "hook": "समझ की दो दिशाएँ: बन्धाय, मोक्षाय।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 238, to what does 'this', when understood, lead?",
+        mcq("pretest", 0, "By unit 238, which two ends do the two datives of the line (बन्धाय, मोक्षाय) name?",
             ("Bondage or liberation", "बन्धाय मोक्षाय: for bondage, for liberation."),
             [("Long life or early death", "Not named; the line says बन्धाय and मोक्षाय."),
              ("Wealth or poverty", "Not named; the line says बन्धाय and मोक्षाय."),
@@ -726,7 +727,7 @@ AUTHORED["241"] = {
              ("गर्भावक्रान्ति", "That is the name of chapter two.")],
             "The colophon names the chapter Aṅgavibhāga, division of the parts of the body.",
             "अङ्गविभाग = division of the parts of the body."),
-        order(1, "Put the words of unit 241 (dictionary forms) in their order.",
+        order(1, "Put the words of unit 241 (split out of sandhi) in their order.",
               ["इति", "अङ्गविभागः", "नाम", "पञ्चमः", "अध्यायः"],
               "Thus, Aṅgavibhāga, named, fifth, chapter.",
               "इति → अङ्गविभागः → नाम → पञ्चमः → अध्यायः."),
@@ -764,7 +765,7 @@ AUTHORED["241"] = {
 NOTES_HI = {
     "229": ("गद्य (02.05.243); विश्वास निम्न। पाठ-चिह्न (सम्भावित): छपा ‘अपारेसंख्यातान्’ कोई शब्द नहीं; ‘अपरिसंख्यातान्’ (अनगिने) "
             "अनुमानित पाठ है (रि का रे छपना, पा की मात्रा खिसकना); इस पर कोई प्रश्न नहीं। लम्बा छपा टुकड़ा "
-            "‘लक्षणैर्विभावयेदपरांश्चापारेसंख्यातान्मूर्त्तामूर्त्तान्’ पाँच शब्द जोड़ता है; विभाजन डेटा के सम्पादक का है। मूर्त/अमूर्त = "
+            "‘लक्षणैर्विभावयेदपरांश्चापारेसंख्यातान्मूर्त्तामूर्त्तान्’ छह शब्द जोड़ता है (डेटा-टिप्पणी ‘पाँच’ कहती है); विभाजन डेटा के सम्पादक का है। मूर्त/अमूर्त = "
             "रूप वाले/रूपहीन (शास्त्रीय शब्द)। छपा दोहरा त्त (मूर्त्त) सामान्य किया गया। सन्धि जाँची: अतः + वृद्धि → अतो वृद्धि (अः + घोष "
             "व्यंजन → ओ); यथास्वम् + लक्षणैः → यथास्वं लक्षणैः; लक्षणैः + विभावयेत् → लक्षणैर्विभावयेत् (ऐः + घोष → ऐर्); विभावयेत् + "
             "अपरान् → विभावयेदपरान् (त् + स्वर → द्); अपरान् + च → अपरांश्च (न् + च → ंश्च); मूर्त + अमूर्त → मूर्तामूर्त (अ + अ → आ)।"),
@@ -779,8 +780,8 @@ NOTES_HI = {
             "कर्म नहीं छपा; डेटा के अनुसार पाठ सम्भवतः आगे (छपी पंक्तियाँ 247-249, यानी इकाई २३३-२३५) है। छपा धान्वंतरीयाः / पठंति = "
             "धान्वन्तरीयाः / पठन्ति (अनुस्वार = न्)। प से पहले विसर्ग (पुनः पठन्ति) बना रहता है।"),
     "233": ("गद्य (02.05.247); विश्वास मध्यम; कोई पाठ-चिह्न नहीं। समूह-टिप्पणी: सम्भवतः इकाई २३२ में घोषित धान्वन्तरीय पाठ का पहला भाग, "
-            "इकाई २३५ तक। दोष, धातु, मल शास्त्रीय शब्द रखे गए (मल = अपशिष्ट)। क्रिया ‘हैं’ समझी जाती है। छपा ‘शरीराणिनित्यमेव’ दो शब्द "
-            "जोड़ता है। सन्धि जाँची: चलाः + दोष... → चला दोष... (आः का विसर्ग घोष से पहले लुप्त; छपा ‘चला’ नियमित); नित्यम् + एव → नित्यमेव।"),
+            "इकाई २३५ तक। दोष, धातु, मल शास्त्रीय शब्द रखे गए (मल = अपशिष्ट)। क्रिया ‘हैं’ समझी जाती है। छपा ‘शरीराणिनित्यमेव’ तीन शब्द "
+            "(शरीराणि, नित्यम्, एव) जोड़ता है। सन्धि जाँची: चलाः + दोष... → चला दोष... (आः का विसर्ग घोष से पहले लुप्त; छपा ‘चला’ नियमित); नित्यम् + एव → नित्यमेव।"),
     "234": ("गद्य (02.05.248); विश्वास मध्यम; कोई पाठ-चिह्न नहीं। धान्वन्तरीय पाठ जारी। ‘उदक आदि’ = इकाई २२२ (छपी पंक्ति 236) की श्रृंखला; "
             "‘मांसादिवत्’ = मांस आदि की तरह, जिनका परिमाण दिया गया। क्रिया ‘है’ समझी जाती है। सन्धि जाँची: तस्मात् + उदक → तस्मादुदक "
             "(त् + स्वर → द्); उदक + आदीनाम् → उदकादीनाम्; आदीनाम् + अपि → आदीनामपि; मांसादिवत् + परिमाणतः (प से पहले त् बना रहता); "
@@ -876,7 +877,7 @@ AIDS = {
     },
     "238": {
         "seesaw": "बन्धाय (बन्ध के लिए) ↔ मोक्षाय (मोक्ष के लिए): दोनों चतुर्थी इसी पंक्ति में; बीच का ‘या’ अर्थ से।",
-        "chunks": "तदेतदंगभेदेन | भेदतश्च | गृह्यमाणं | बंधाय | मोक्षाय | अन्तिम छपा शब्द ‘भवतां।ति’ (सम्भवतः भवतीति)",
+        "chunks": "तदेतदंगभेदेन | भेदतश्च | गृह्यमाणं | बंधाय | मोक्षाय | भवतां|ति (छपा)",
         "sandhi": "त् + स्वर → द्: तत् + एतत् → तदेतत्; एतत् + अङ्ग → एतदङ्ग · च से पहले विसर्ग → श्: भेदतः + च → भेदतश्च।",
     },
     "239": {
@@ -929,7 +930,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "इकाई २३४: परिमाण से समता",
         "cols": [["मांस आदि (मांसादिवत्)", ["परिमाण दिया गया"]],
-                 ["उदक (जल) आदि", ["समता परिमाण से", "बताना अशक्य"]]],
+                 ["उदक (जल) आदि", ["समता परिमाण से बताना अशक्य"]]],
     },
     ("236", "chain"): {
         "file": "sh5-paramanu-236.svg",
@@ -959,11 +960,11 @@ IMAGE_SPECS = {
     },
     ("240", "diagram"): {
         "file": "sh5-kalevara-240.svg",
-        "alt": ("Flowchart of the verse of unit 240 in four steps: he who the body; knows part by part; he, through delusion, "
+        "alt": ("Flowchart of the verse of unit 240 in four steps: he who part by part; knows the body; he, through delusion, "
                 "in harmful things; never engages."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"यः, जो शरीर को\"] --> B[\"सब अवयवों से जानता है\"]\n"
+                 "  A[\"यः, जो सब अवयवों से\"] --> B[\"शरीर (कलेवर) को जानता है\"]\n"
                  "  B --> C[\"सः, वह मोह से अहित में\"]\n"
                  "  C --> D[\"कभी प्रवृत्त नहीं होता\"]\n"),
     },
