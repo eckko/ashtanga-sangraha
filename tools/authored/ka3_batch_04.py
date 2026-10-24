@@ -4,7 +4,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 36
 AUTHORED["36"] = {
-    "title": "शुद्धे च दीपनांश्चूर्णान्",
+    "title": "शुद्धे च ... योजयेत्",
     "question": "What does verse 36 give after the purification, and when does its new trouble begin?",
     "rule": ("When purified, one should employ kindling (dīpana) powders, āsavas, ariṣṭas and the like. "
              "A new case opens: when one who has drunk medicine sends forth the urge, or holds it back."),
@@ -61,7 +61,7 @@ AUTHORED["36"] = {
             ("रामो यदा",
              "अः becomes ओ before a voiced consonant such as य: रामः + यदा = रामो यदा."),
             [("रामर्यदा", "अः does not become अर्; that change belongs to other vowels (इः → इर्)."),
-             ("रामश्यदा", "ः becomes श् only before च/छ, not before य."),
+             ("रामश्यदा", "ः becomes श् before च, छ or श, never before य."),
              ("रामा यदा", "Dropping to आ is the rule for आः, not for अः.")],
             "Same rule as पीतौषधः + यदा = पीतौषधो यदा.",
             "अः → ओ before a voiced consonant.",
@@ -274,7 +274,7 @@ AUTHORED["40"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "In unit 40, the holding back of what agitates the doṣas?",
+            "In unit 40, holding back which things agitates the doṣas?",
             ("Medicine, belching, vomiting and the like",
              "भेषजोद्गारच्छर्द्यादीनां निग्रहात्: from holding back medicine, belching, vomiting and the like."),
             [("Urine, faeces, wind and the like", "Those urges are not named in unit 40."),
@@ -524,7 +524,7 @@ AUTHORED["43"] = {
 AUTHORED["44"] = {
     "title": "कटुभिर्वा",
     "question": "What other means of vamana does unit 44 offer?",
-    "rule": "Or (the vamana) with pungents (kaṭu); the closing word is garbled and probably means 'for one with Kapha predominant'.",
+    "rule": "Or (the vamana) with pungents (kaṭu); the closing word is garbled and possibly means 'for one with Kapha predominant'.",
     "limits": ("Low confidence. Printed कफोत्तरराय is garbled (text_flag): the reading 'for one with Kapha predominant' is a "
                "conjecture, so no question on it. The noun that 'pungents' qualifies is not given. The unit continues 05.03.45."),
     "explain_hi": ("यह इकाई 05.03.45 के वमन का विकल्प देती है: अथवा कटु यानी तीखे द्रव्यों से। ‘कटुभिः’ तृतीया बहुवचन है: "
@@ -720,7 +720,7 @@ AUTHORED["47"] = {
              "fainting, giddiness, trembling, stiffness, pricking, splitting, twisting and loss of consciousness."),
     "limits": ("Low confidence. सर्वांगग्रहणी (open note) and मन्मार्मसु are uncertain (text_flags): no question on them. "
                "The list of signs and the first three places are clear."),
-    "explain_hi": ("‘तेन’ = उस (कुपित वायु) से। पहला शब्द ‘सर्वांगग्रहणी’ अस्पष्ट है; अनुमानित अर्थ ‘सब अंगों का जकड़ना’। विशेषकर "
+    "explain_hi": ("‘तेन’ = उससे, इससे (डेटा: नपुंसक तृतीया), यानी पिछली पंक्ति के अतिविरेक और वायु-कोप से। पहला शब्द ‘सर्वांगग्रहणी’ अस्पष्ट है; अनुमानित अर्थ ‘सब अंगों का जकड़ना’। विशेषकर "
                    "पार्श्व, पीठ, श्रोणी (और सम्भवतः मन्या व मर्मों) में: शूल, मूर्च्छा, भ्रम (चक्कर), कम्प, स्तम्भ (जकड़न), "
                    "निस्तोद (चुभन), भेद (फटने-सी पीड़ा), उद्वेष्टन (ऐंठन) और संज्ञा का नाश हो सकता है।"),
     "hook": "भड़की वायु: दर्द, बेहोशी, चक्कर, कँपकँपी, जकड़न, चुभन, फटन, ऐंठन।",
@@ -884,7 +884,7 @@ AUTHORED["49"] = {
             "च (and) + अन्नपानम् (food and drink).",
             "चान्नपानम् = च + अन्नपानम्."),
         mcq("apply", 4,
-            "A patient with limbs seized by agitated Vāyu has had the oil enema. Which diet does unit 49 point to?",
+            "A patient whose Vāyu was agitated by excessive purging has had the oil enema. Which diet does unit 49 point to?",
             ("Food and drink that remove Vāta",
              "वातहरं चान्नपानं: and food and drink that take away Vāta."),
             [("Food and drink that increase Vāta", "हर takes away; it does not raise."),
@@ -932,7 +932,7 @@ NOTES_HI = {
            "संधि जाँची: मर्मोपतापात् = मर्म + उपतापात्; वेदनाभिरत्यर्थम् = वेदनाभिः + अत्यर्थम् (इः → इर्); "
            "कटकटायत्युद्वृताक्षो = कटकटायति + उद्वृताक्षः (इ + उ → यु)।"),
     "42": ("विश्वास: मध्यम। text_flag: छपा ‘अभ्यंगपूर्व’ में अन्तिम अनुस्वार छूटा लगता है (अभ्यङ्गपूर्वम्); इस रूप पर प्रश्न नहीं। "
-           "‘तम्’ पुंलिंग है, ‘हृदयापसरणम्’ नपुंसक; ‘तम्’ सम्भवतः 05.03.42 के हृद्ग्रह (पुं.) की ओर है। ‘आहुः’ अनिश्चित कर्ता: ‘कहते हैं’। "
+           "‘तम्’ पुंलिंग है, ‘हृदयापसरणम्’ नपुंसक; ‘तम्’ का अर्थ डेटा में ‘उसे, उसको’ है; यह रोगी की ओर है या पिछली अवस्था की ओर, पंक्ति स्पष्ट नहीं करती। ‘आहुः’ अनिश्चित कर्ता: ‘कहते हैं’। "
            "अवपीड शाब्दिक ‘दबाकर निचोड़ना’; यहाँ सम्भवतः नस्य का रूप (सम्भावित, पंक्ति नहीं कहती)। "
            "संधि जाँची: हृदयापसरणमाहुस्तस्मै = हृदयापसरणम् + आहुः + तस्मै (ः → स् त से पहले); शीघ्रममुह्यन्नभ्यंग = शीघ्रम् + अमुह्यन् + अभ्यङ्ग "
            "(ह्रस्व स्वर के बाद न् स्वर से पहले दुगुना)।"),
@@ -955,7 +955,7 @@ NOTES_HI = {
            "भेद उद्वेष्टनम् = भेदः + उद्वेष्टनम् (अः, अ के सिवा स्वर से पहले → अ, अन्तर बना रहता है); संज्ञानाशश्च = संज्ञानाशः + च।"),
     "48": ("विश्वास: उच्च। छपा ‘विपक्केन’ सम्भवतः ‘विपक्वेन’ (क्व के स्थान पर क्क) है; डेटा इसे flag नहीं करता, अर्थ ‘पकाया हुआ’ लिया गया; "
            "इस रूप पर प्रश्न नहीं। बिना विशेषण तैल = प्रायः तिल का तेल (सम्भावित)। अनुवासन = स्नेह-बस्ति (मानक)। "
-           "डेटा का नोट ‘Unit 51 continues’ वास्तव में पंक्ति 05.03.51 (इकाई 49) है। संधि जाँची: तमभ्यज्य = तम् + अभ्यज्य; "
+           "पंक्ति 05.03.51 (इकाई 49) यह वाक्य अन्नपान तक आगे बढ़ाती है। संधि जाँची: तमभ्यज्य = तम् + अभ्यज्य; "
            "तैलेनानुवासयेत् = तैलेन + अनुवासयेत् (अ + अ → आ)।"),
     "49": ("विश्वास: उच्च। अधूरा वाक्य; 05.03.50 के ‘अनुवासयेत्’ के साथ एक अनकहा ‘दे’ माना गया। हर = शाब्दिक ‘ले जाने वाला’। "
            "संधि जाँची: चान्नपानम् = च + अन्नपानम् (अ + अ → आ)।"),
@@ -964,7 +964,7 @@ NOTES_HI = {
 
 AIDS = {
     "36": {
-        "chunks": "शुद्धे च | दीपनांश्चूर्णान् | सवारिष्टादीन् योजयेत् | पीतौषधो यदा | वेगमुदीरयति | निगृह्णाति वा",
+        "chunks": "शुद्धे च | दीप नांश्चूर्णान्सवारिष्टादीन् (छपा, text_flag) | योजयेत् | पीतौषधो यदा | वेगमुदीरयति | निगृह्णाति वा",
         "frame": "पहली पंक्ति: शुद्धि के बाद क्या दें (दीपन चूर्ण, आसव, अरिष्ट आदि) · दूसरी पंक्ति: नया व्यापद् कब (औषध पीकर वेग धकेला या रोका)।",
         "sandhi": "अः → ओ घोष से पहले: पीतौषधः + यदा → पीतौषधो यदा; म् + स्वर: वेगम् + उदीरयति → वेगमुदीरयति।",
         "anchors": "शुद्धे = शुद्ध होने पर · योजयेत् = प्रयोग करे · वेग = आवेग · उदीरयति = धकेलता है · निगृह्णाति = रोकता है।",
@@ -998,7 +998,7 @@ AIDS = {
         "sandhi": "इः → इर् स्वर से पहले: वेदनाभिः + अत्यर्थम् → वेदनाभिरत्यर्थम्; इ + उ → यु: कटकटायति + उद्वृताक्षः → कटकटायत्युद्वृताक्षो।",
     },
     "42": {
-        "chain": {"steps": ["नाम: हृदयापसरण", "पहले अभ्यंग", "धान्य से स्वेद", "तीक्ष्ण अवपीड"]},
+        "chain": {"steps": ["पहले अभ्यंग", "धान्य से स्वेद", "तीक्ष्ण अवपीड"]},
         "anchors": "भिषक् = वैद्य · अमुह्यन् = न घबराता हुआ · धान्यस्वेद = अनाज से सेंक · अवपीड = दबाकर निचोड़ना (सम्भवतः नस्य)।",
         "sandhi": "न् दुगुना ह्रस्व स्वर के बाद स्वर से पहले: अमुह्यन् + अभ्यङ्ग → अमुह्यन्नभ्यंग; ः → स् त से पहले: आहुः + तस्मै → आहुस्तस्मै।",
     },
@@ -1034,7 +1034,7 @@ AIDS = {
         "anchors": "भ्रम = चक्कर · स्तम्भ = जकड़न · निस्तोद = चुभन · भेद = फटने-सी पीड़ा · उद्वेष्टन = ऐंठन।",
     },
     "48": {
-        "chain": {"steps": ["अभ्यंग", "धान्यों से स्वेद", "मुलेठी-पक्व तैल से अनुवासन", "वातहर अन्नपान (05.03.51)"]},
+        "chain": {"steps": ["अभ्यंग", "धान्यों से स्वेद", "मुलेठी-पक्व तैल से अनुवासन"]},
         "contrast": "अभ्यज्य ↔ स्वेदयित्वा: उपसर्ग (अभि) वाली क्रिया में -य, बिना उपसर्ग में -त्वा।",
         "anchors": "अभ्यज्य = तेल लगाकर · स्वेदयित्वा = पसीना दिलाकर · यष्टीमधु = मुलेठी · अनुवासन = स्नेह-बस्ति।",
     },
@@ -1064,7 +1064,7 @@ IMAGE_SPECS = {
         "file": "ka3-hrdgraha-cause-40.svg",
         "alt": "Flowchart of five steps: medicine drunk; medicine, belching and vomiting held back; Vata and the others agitated; they resort to the heart; a dreadful hrdgraha",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["औषध पिया"] --> B["औषध, डकार, छर्दि<br/>आदि रोके"]\n'
+        "code": ('flowchart TD\n  A["औषध पिया"] --> B["औषध-डकार-छर्दि आदि रोके"]\n'
                  '  B --> C["वात आदि कुपित"]\n  C --> D["हृदय का आश्रय"]\n  D --> E["भयंकर हृद्ग्रह"]\n'),
     },
     ("41", "diagram"): {
@@ -1076,10 +1076,10 @@ IMAGE_SPECS = {
     },
     ("42", "chain"): {
         "file": "ka3-hrdayapasarana-42.svg",
-        "alt": "Chain of four steps: the condition is named hrdayapasarana; anointing first; sweating with grains; a sharp avapida",
+        "alt": "Chain of the three treatment steps for hrdayapasarana: anointing first; sweating with grains; a sharp avapida",
         "type": "chain",
         "title": "इकाई ४२: हृदयापसरण का उपचार",
-        "steps": ["नाम: हृदयापसरण", "पहले अभ्यंग", "धान्य से स्वेद", "तीक्ष्ण अवपीड"],
+        "steps": ["पहले अभ्यंग", "धान्य से स्वेद", "तीक्ष्ण अवपीड"],
     },
     ("45", "chain"): {
         "file": "ka3-dosha-shesha-45.svg",
@@ -1092,9 +1092,9 @@ IMAGE_SPECS = {
         "file": "ka3-vayu-kopa-46.svg",
         "alt": "Flowchart: five kinds of patient (not oiled and sweated, not continent, holding back urges, soft koshtha, delicate) take a dry medicine in excess; excessive purging follows and Vayu is agitated",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["न स्नेहन, न स्वेदन"] --> M["रूक्ष औषध<br/>अति मात्रा में"]\n'
-                 '  B["अब्रह्मचारी,<br/>वेग रोकने वाला"] --> M\n'
-                 '  C["मृदु कोष्ठ<br/>या सुकुमार"] --> M\n'
+        "code": ('flowchart TD\n  A["न स्नेहन, न स्वेदन"] --> M["रूक्ष औषध अति मात्रा में"]\n'
+                 '  B["अब्रह्मचारी"] --> M\n  B2["वेग रोकने वाला"] --> M\n'
+                 '  C["मृदु कोष्ठ या सुकुमार"] --> M\n'
                  '  M --> V["अतिविरेक"]\n  V --> K["वायु कुपित"]\n'),
     },
     ("47", "diagram"): {
@@ -1106,9 +1106,9 @@ IMAGE_SPECS = {
     },
     ("48", "chain"): {
         "file": "ka3-anuvasana-48.svg",
-        "alt": "Chain of four steps: anointing; sweating with grains; anuvasana with oil cooked with liquorice; Vata-removing food and drink",
+        "alt": "Chain of three steps: anointing; sweating with grains; anuvasana with oil cooked with liquorice",
         "type": "chain",
         "title": "इकाई ४८: वायु-कोप का उपचार",
-        "steps": ["अभ्यंग", "धान्यों से स्वेद", "मुलेठी-पक्व तैल से अनुवासन", "वातहर अन्नपान"],
+        "steps": ["अभ्यंग", "धान्यों से स्वेद", "मुलेठी-पक्व तैल से अनुवासन"],
     },
 }
