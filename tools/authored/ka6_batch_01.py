@@ -145,7 +145,7 @@ AUTHORED["3"] = {
     "limits": ("The verse does not say which six of verse 2 go with which fault. Line 2 is part of a "
                "sentence that ends in verse 5 (karoti). 'Neither oiled nor sweated' is the natural "
                "reading; 'not oiled, but sweated' is possible."),
-    "explain_hi": ("यह श्लोक पिछली सूची का कारण बताता है: बस्ति के अयोग (ठीक से प्रयोग न होना) और अतियोग (अधिक प्रयोग) से "
+    "explain_hi": ("यह श्लोक पिछली सूची का कारण बताता है: बस्ति के अयोग (प्रयोग न होना) और अतियोग (अधिक प्रयोग) से "
                    "छह और छह आपत्तियाँ होती हैं। कौन-सी छह किसकी हैं, यह नहीं कहा गया। दूसरी पंक्ति एक नया वाक्य शुरू करती है "
                    "जो श्लोक ५ की क्रिया ‘करोति’ पर पूरा होता है: जिसका शरीर स्निग्ध और स्वेदित नहीं है और जिसका कोष्ठ भारी है, "
                    "उसमें दी गई बस्ति। ‘बस्ति’ शब्द इस वाक्य में आगे श्लोक ४ में आता है।"),
@@ -234,14 +234,13 @@ AUTHORED["4"] = {
               "बस्तिः · संक्षोभ्य · तं दोषम् · दुर्बलत्वात् · अनिर्हरन्.",
               role="extend",
               teaches="Line 2 is a chain: the basti agitates the doṣa, and because of weakness does not expel it."),
-        mcq("discriminate", 3, "Which split of the printed शीतोल्प... is right?",
-            ("शीतः + अल्प...",
-             "-अः + अ- gives -ओऽ-: शीतोऽल्प; the print drops the avagraha."),
-            [("शीत + ओल्प...", "ओल्प is not a word; the ओ is the changed visarga."),
-             ("शीतो + लप...", "लप is not the word; the word is अल्प, little."),
-             ("शीतः + उल्प...", "अः + उ would not give this form, and उल्प is not a word.")],
-            "Two words: शीतः (cold) and अल्प- (little), the first member of the next compound.",
-            "-अः + अ → -ओऽ (avagraha): शीतः + अल्प → शीतोऽल्प."),
+        mcq("discriminate", 3, "Which split of घनोऽपि is right?",
+            ("घनः + अपि", "-अः + अ- gives -ओऽ: the अ of अपि drops, marked by the avagraha."),
+            [("घनो + अपि", "घनो is not the stem form; the ओ is the changed visarga of घनः."),
+             ("घन + ओपि", "ओपि is not a word; the word is अपि, even."),
+             ("घनः + पि", "पि is not a word; the अ of अपि is hidden in ऽ.")],
+            "Two words: घनः (thick) and अपि (even).",
+            "-अः + अ → -ओऽ (avagraha): घनः + अपि → घनोऽपि."),
         mcq("apply", 4, "A physician gives a thick basti. Does verse 4 count it among the faulty ones?",
             ("Yes, thick (घन) is named",
              "घनोऽपि वा: or even thick."),
@@ -271,7 +270,7 @@ AUTHORED["5"] = {
     "limits": ("Here basti is the organ, not the enema. Vāta is read as passing wind; the humour is "
                "not excluded. hṛllepa (coating at the heart) is a probable modern sense. Itching and "
                "the rest follow in verse 6."),
-    "explain_hi": ("यहाँ श्लोक ३ से चला वाक्य अपनी क्रिया ‘करोति’ (करती है) पाता है। अयोग वाली बस्ति वायु, मल और मूत्र का "
+    "explain_hi": ("यहाँ श्लोक ३ से चला वाक्य अपनी क्रिया ‘करोति’ (करती है) पाता है। ऐसी दोषपूर्ण बस्ति वायु, मल और मूत्र का "
                    "अत्यन्त भयंकर विबन्ध करती है। फिर बस्ति (यहाँ अंग: मूत्राशय या निचला पेट) और नाभि में पीड़ा, "
                    "आनाह (रुकावट के साथ पेट का फूलना), हृल्लेप (हृदय पर लेप-सा लगना, सम्भावित अर्थ) और गुदा में सूजन। "
                    "सूची अगले श्लोक में आगे चलती है।"),
@@ -286,9 +285,9 @@ AUTHORED["5"] = {
             "विण्मूत्र = विट् (stool) + मूत्र (urine), after वात (wind).",
             "वात · विट् · मूत्र: तीनों का विबन्ध."),
         order(1, "Put these effects in the order of verse 5.",
-              ["विबन्ध", "बस्ति-नाभि-रुजा", "आनाह", "हृल्लेप", "गुदे श्वयथु"],
+              ["विबन्ध", "बस्ति-नाभि-रुज्", "आनाह", "हृल्लेप", "श्वयथुं गुदे"],
               "First the obstruction, then pain in basti and navel, ānāha, hṛllepa, swelling in the anus.",
-              "विबन्ध · बस्ति-नाभि-रुजा · आनाह · हृल्लेप · गुदे श्वयथु."),
+              "विबन्ध · बस्ति-नाभि-रुज् · आनाह · हृल्लेप · श्वयथुं गुदे."),
         match(2, "Match each effect named in verse 5 to its meaning.",
               [["विबन्ध", "obstruction, retention"], ["आनाह", "distension with retention"],
                ["हृल्लेप", "a coating felt at the heart"], ["श्वयथु", "swelling"]],
@@ -296,14 +295,14 @@ AUTHORED["5"] = {
               "विबन्ध = obstruction; आनाह = distension with retention; हृल्लेप = heart-coating; श्वयथु = swelling.",
               role="extend",
               teaches="Verse 5 names obstruction, pain, ānāha, hṛllepa and swelling of the anus as effects."),
-        mcq("discriminate", 3, "In बस्तिनाभिरुजा of verse 5, what does बस्ति mean?",
+        mcq("discriminate", 3, "In बस्तिनाभिरुज् of verse 5, what does बस्ति mean?",
             ("The bladder or lower belly, an organ",
              "Beside नाभि (navel) and रुज् (pain), basti names a part of the body."),
             [("The enema given to the patient", "That is the sense in verses 3-4, not in this compound."),
              ("The doṣa stirred by the enema", "बस्ति is not a name of a doṣa."),
              ("The fluid of the decoction", "The compound is about places of pain.")],
             "The same word basti can mean the enema or the organ; here it is the organ.",
-            "बस्ति-नाभि-रुजा = pain in the bladder (lower belly) and navel."),
+            "बस्ति-नाभि-रुज् = pain in the bladder (lower belly) and navel."),
         mcq("apply", 4, "Where does verse 5 place the swelling (श्वयथु)?",
             ("In the anus (गुदे)", "श्वयथुं गुदे: swelling in the anus."),
             [("In the navel", "The navel is named with pain, not swelling."),
@@ -325,16 +324,16 @@ AUTHORED["5"] = {
 # ---------------------------------------------------------------- unit 6
 AUTHORED["6"] = {
     "title": "कण्डूगण्डानि वैवर्ण्यम्",
-    "question": "Which further effects does verse 6 add, and what does line 2 point to for one with atisāra?",
+    "question": "Which further effects does verse 6 add before line 2 turns to treatment?",
     "rule": ("Line 1 adds itching, gaṇḍa (lumps, swellings), discolouration, restlessness (arati) "
              "and softness of the fire (vahni). Line 2: the pair of decoctions prescribed earlier, "
              "in one with atisāra (diarrhoea)."),
     "limits": ("Softness of the fire probably points to weak digestion; the verse does not say so. "
-               "The pair of decoctions is not identified. How madhyadoṣe should be read is an open "
-               "reviewer question; no question rests on it."),
+               "The print has काथद्वयं; reading it as क्वाथ (decoction) is a possible correction. The pair "
+               "is not identified. How madhyadoṣe should be read is an open question; no question rests on line 2."),
     "explain_hi": ("पहली पंक्ति पिछली सूची को पूरा करती है (क्रिया ‘करोति’ श्लोक ५ से): कण्डू यानी खुजली, गण्ड यानी गाँठें या सूजन, "
                    "वैवर्ण्य यानी रंग बिगड़ना, अरति यानी बेचैनी और वह्नि (अग्नि) की मृदुता। "
-                   "दूसरी पंक्ति उपचार की ओर मुड़ती है: पहले बताए गए दो काढ़े (क्वाथ), अतिसार यानी दस्त वाले रोगी में। "
+                   "दूसरी पंक्ति उपचार की ओर मुड़ती है: पहले बताए गए दो काढ़े (छपा ‘काथ’, सम्भवतः ‘क्वाथ’), अतिसार यानी दस्त वाले रोगी में। "
                    "कौन-से दो काढ़े, यह यहाँ नहीं कहा गया; उनमें से कौन पिया जाए, यह अगले श्लोक में है।"),
     "hook": "खुजली, गाँठ, रंग, बेचैनी, मन्द अग्नि; दस्त में पहले कहे दो काढ़े।",
     "core": False,
@@ -357,22 +356,20 @@ AUTHORED["6"] = {
               "कण्डू · गण्ड · वैवर्ण्य · अरति · वह्निमार्दव.",
               role="extend",
               teaches="Line 1 ends the list of effects with softness of the fire (वह्निमार्दव)."),
-        mcq("discriminate", 3, "What does वह्निमार्दव literally mean in verse 6?",
-            ("Softness of the fire (vahni = agni)",
-             "वह्नि is a name of the fire; मार्दव is softness."),
-            [("Burning heat of the body", "That would be दाह; मार्दव is softness."),
-             ("Softness of the skin", "The skin is not named; वह्नि is fire."),
-             ("Hardness of the stool", "Neither stool nor hardness is named.")],
-            "Literal: softness of the fire. Weak digestion is a probable sense the verse does not state.",
-            "वह्नि = अग्नि; मार्दव = मृदुता."),
-        mcq("apply", 4, "For a patient with atisāra (diarrhoea), what does line 2 point to?",
-            ("The pair of decoctions prescribed earlier",
-             "क्वाथद्वयं प्राग्विहितम्: the two decoctions prescribed before."),
-            [("A new pair of oils named here", "The line names decoctions, and earlier ones."),
-             ("A strong purgation at once", "Purgation comes in verse 7, with the right time known."),
-             ("A cold milk basti", "No milk basti is named in verse 6.")],
-            "Line 2 refers back to two decoctions; it does not list their drugs.",
-            "क्वाथद्वय = दो काढ़े; प्राग्विहित = पहले बताए गए."),
+        mcq("discriminate", 3, "Which split of वैवर्ण्यमरतिं is right?",
+            ("वैवर्ण्यम् + अरतिम्", "Final म् before a vowel joins it: वैवर्ण्यम् + अरतिम् → वैवर्ण्यमरतिम्."),
+            [("वैवर्ण्य + मरतिम्", "मरतिम् is not a word; the म् ends वैवर्ण्यम्."),
+             ("वैवर्ण्यम + रतिम्", "रति (delight) would reverse the sense; the word is अरति."),
+             ("वैवर्ण्यः + अरतिम्", "वैवर्ण्य is neuter: वैवर्ण्यम्, not -अः.")],
+            "Two accusatives: वैवर्ण्यम् (discolouration) and अरतिम् (restlessness).",
+            "-म् + vowel → the म् is written joined to the vowel."),
+        mcq("apply", 4, "After a faulty basti a patient feels restless and ill at ease. Which word of verse 6 names this?",
+            ("अरति (restlessness)", "अरतिम्: restlessness, discontent, in line 1."),
+            [("कण्डू (itching)", "कण्डू is itching, not restlessness."),
+             ("वैवर्ण्य (discolouration)", "वैवर्ण्य is a change of colour."),
+             ("गण्ड (lump, swelling)", "गण्ड is a lump or swelling.")],
+            "Line 1: itching, lumps, discolouration, restlessness (arati), softness of the fire.",
+            "अरति = बेचैनी."),
         mcq("transfer", 5, "Like प्राक् + विहितम् → प्राग्विहितम्, how is वाक् + दानम् (word-giving) joined?",
             ("वाग्दानम्", "Final क् becomes ग् before the voiced द."),
             [("वाक्दानम्", "क् does not stay unvoiced before a voiced consonant."),
@@ -398,10 +395,10 @@ AUTHORED["7"] = {
                    "उष्ण से तापमान का अर्थ है या वीर्य का, यह नहीं कहा गया। फिर उपायों की सूची है: फलवर्ति (गुदा में रखी "
                    "जाने वाली बत्ती, शब्दार्थ ‘फल-बत्ती’), स्वेद, और समय जानकर विरेचन। "
                    "कौन-सा समय, यह श्लोक नहीं बताता।"),
-    "hook": "दो में से गर्म काढ़ा पियो; फिर फलवर्ति, स्वेद, समय देखकर विरेचन।",
+    "hook": "दो में से एक, उष्ण वाले का पान; फिर फलवर्ति, स्वेद, समय देखकर विरेचन।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "Which one of the pair of decoctions does verse 7 recommend drinking?",
+        mcq("pretest", 0, "Which one of the pair named in verse 6 does verse 7 recommend drinking?",
             ("The hot one (उष्ण)", "उष्णस्य ... एकस्य पानं प्रशस्यते: drinking of the one, the hot one."),
             [("The cold one", "The verse says उष्ण, hot."),
              ("Both, one after the other", "The verse says one (एक), not both."),
@@ -409,7 +406,7 @@ AUTHORED["7"] = {
             "Of the two decoctions, the hot one is chosen.",
             "उष्णस्य एकस्य पानम् = गर्म वाले एक का पान."),
         order(1, "Put the measures of verse 7 in the order of the verse.",
-              ["पानम्", "फलवर्तयः", "स्वेदाः", "विरेचनम्"],
+              ["पानम्", "फलवर्त्यः", "स्वेदाः", "विरेचनम्"],
               "Drinking (of the hot decoction), suppositories, sweatings, then purgation.",
               "पान · फलवर्ति · स्वेद · विरेचन."),
         match(2, "Match each word of verse 7 to its meaning.",
@@ -520,7 +517,7 @@ AUTHORED["9"] = {
                    "दिया जाए। दोषों से प्रेरित होकर वह वायु को मूर्च्छित (स्तब्ध) करता है, मार्ग को रोकता है और अग्नि को "
                    "हानि पहुँचाता है। कर्ता का नाम नहीं है; बस्ति माना गया है, पर शेष आम भी हो सकता है। "
                    "‘संशेषामे’ का पाठ भी पक्का नहीं, इसलिए प्रश्न केवल तीन क्रियाओं और स्पष्ट शब्दों पर हैं।"),
-    "hook": "आम बचा हो और निरूह मृदु: वायु स्तब्ध, मार्ग बन्द, अग्नि को हानि।",
+    "hook": "मृदु निरूह (‘संशेषामे’ का पाठ अनिश्चित): वायु स्तब्ध, मार्ग बन्द, अग्नि को हानि।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What kind of nirūha does verse 9 speak of?",
@@ -579,7 +576,7 @@ AUTHORED["10"] = {
                "with the instrumentals. rūkṣa-sveda may also be read as one item, dry fomentation. "
                "The treatment continues in verses 11-13. Confidence low."),
     "explain_hi": ("पहली पंक्ति श्लोक ९ की सूची को आगे बढ़ाती है: गौरव (भारीपन), क्लम (थकान), हृच्छूल (हृदय में शूल), "
-                   "दाह (जलन), संमोह (मोह, घबराहट) और वेष्टन (ऐंठन)। दूसरी पंक्ति उपचार शुरू करती है: उसका रूक्ष, "
+                   "दाह (जलन), संमोह (मोह, भ्रम) और वेष्टन (ऐंठन)। दूसरी पंक्ति उपचार शुरू करती है: उसका रूक्ष, "
                    "स्वेद और पाचन से उपचार करे। ‘कुर्यात्’ बिना कर्म के है और अधिक लगता है; ‘रूक्ष-स्वेद’ को रूखा स्वेद "
                    "भी पढ़ा जा सकता है। उपचार अगले श्लोकों में चलता है।"),
     "hook": "भार, थकान, हृदय-शूल, जलन, मोह, ऐंठन; इलाज: रूक्ष, स्वेद, पाचन।",
@@ -721,7 +718,7 @@ AUTHORED["12"] = {
               "Mixed with curd-maṇḍa; drunk with prasannā, or ariṣṭa, or āsava.",
               "दधिमण्ड · प्रसन्ना · अरिष्ट · आसव.",
               role="extend",
-              teaches="The drugs are first mixed with curd-maṇḍa, then drunk with one of three liquors."),
+              teaches="The drugs, mixed (a conjecture for मूर्च्छिताः) with curd-maṇḍa, are to be drunk with prasannā, ariṣṭa or āsava."),
         mcq("discriminate", 3, "Which split of स्युररिष्टेनासवेन is right?",
             ("स्युः + अरिष्टेन + आसवेन",
              "-उः before a vowel becomes -उर्; अ + आ gives आ."),
@@ -790,7 +787,7 @@ AUTHORED["13"] = {
              ("He grinds", "That would be a present verb.")],
             "पिष्ट्वा ... पिबेत्: having ground, one should drink.",
             "-त्वा = having ...ed."),
-        mcq("apply", 4, "Besides the ground drugs, what else does line 2 say one should drink?",
+        mcq("apply", 4, "Which further item, joined by च, does line 2 give as an object of पिबेत्?",
             ("The kindling (dīpana) kṣāras", "पिबेत् क्षारांश्च दीपनान्: and the kindling kṣāras."),
             [("Fresh milk with sugar", "Neither is named in verse 13."),
              ("The hot decoction of verse 7", "That decoction is not mentioned again here."),
@@ -818,7 +815,7 @@ AUTHORED["14"] = {
     "limits": ("The ten roots are not listed. Line 2 starts a sentence whose verb (रुन्ध्यात्) is in "
                "verse 15. Harsh abode is kept literal. The print drops the avagraha in "
                "युक्तोल्पवीर्यो."),
-    "explain_hi": ("पहली पंक्ति उपचार का अन्तिम अंग देती है: उसके लिए मूत्र सहित दशमूल (दस जड़ों का समूह) की बस्ति दे। "
+    "explain_hi": ("पहली पंक्ति उपचार आगे बढ़ाती है: उसके लिए मूत्र सहित दशमूल (दस जड़ों का समूह) की बस्ति दे। "
                    "दस जड़ों के नाम यहाँ नहीं हैं। दूसरी पंक्ति नया वाक्य शुरू करती है: अल्प वीर्य (कम शक्ति) वाली बस्ति, "
                    "जब दोषों से भरे, रूक्ष या क्रूर आशय वाले रोगी में दी जाए; उसका परिणाम श्लोक १५ में ‘रुन्ध्यात्’ से आता है।"),
     "hook": "मूत्र के साथ दशमूल बस्ति; कम शक्ति की बस्ति, दोष-भरे, रूखे, क्रूर आशय वाले में ...",
@@ -885,13 +882,13 @@ NOTES_HI = {
           "क्रिया श्लोक ५ में।"),
     "5": ("विश्वास: मध्यम। क्रिया ‘करोति’ श्लोक ३-४ के वाक्य को पूरा करती है। ‘बस्ति’ यहाँ अंग (मूत्राशय/निचला पेट) है, "
           "एनिमा नहीं। ‘वात’ को अधोवायु पढ़ा गया; दोष का अर्थ बाहर नहीं किया गया। संधि जाँची: विण्मूत्र = विट् + मूत्र "
-          "(ट् → ण् अनुनासिक से पहले); हृल्लेपं = हृद् + लेपम् (द् + ल → ल्ल); रुजानाहं = रुजा + आनाहम्। "
+          "(ट् → ण् अनुनासिक से पहले); हृल्लेपं = हृद् + लेपम् (द् + ल → ल्ल); रुजानाहं = रुज् + आनाहम् (ज् + आ → जा)। "
           "आनाह (मानक), हृल्लेप (सम्भावित), श्वयथु (मानक)।"),
     "6": ("विश्वास: मध्यम। टेक्स्ट-फ़्लैग: ‘वन्हि’ = वह्नि (वर्तनी); ‘काथद्वयं’ सम्भवतः ‘क्वाथद्वयं’ (व छूटा)। "
           "खुला प्रश्न (05.06.11): ‘मध्यदोषे’ को ‘मध्यम दोष में’ पढ़ें या बहुव्रीहि ‘मध्यम दोष वाले में’, यह स्वामी को तय करना है; "
           "इस पर कोई प्रश्न नहीं। दोनों काढ़े पहचाने नहीं गए। संधि जाँची: प्राग्विहितं = प्राक् + विहितम् (क् → ग्); "
           "मध्यदोषेऽतिसारिणि = मध्यदोषे + अतिसारिणि। ‘वह्निमार्दव’ से मन्द पाचन सम्भावित है, कहा नहीं गया।"),
-    "7": ("विश्वास: मध्यम। श्लोक ६ के दो काढ़ों में से ‘उष्ण’ एक चुना गया; ‘तस्मात्’ = इसलिए (विकल्प: ‘उसमें से’)। "
+    "7": ("विश्वास: मध्यम। श्लोक ६ के दो काढ़ों में से ‘उष्ण’ एक चुना गया; ‘तस्मात्’ = इसलिए, ‘एकस्य’ = एक का (विकल्प: ‘उस एक का’)। "
           "उष्णता ताप की है या वीर्य की, नहीं कहा गया। संधि जाँची: तस्मादेकस्य = तस्मात् + एकस्य (त् → द्); "
           "फलवर्त्यस्तथा = फलवर्त्यः + तथा (ः → स् त से पहले)। ‘फलवर्ति’ = औषधीय बत्ती (मानक अर्थ)। समय कौन-सा, नहीं कहा गया।"),
     "8": ("विश्वास: निम्न। ‘सप्राकूपेष्यः’ छपाई में बिगड़ा/अबोध्य है; अर्ध-पंक्ति में १७ अक्षर (१६ अपेक्षित), इसलिए "
@@ -930,8 +927,8 @@ AIDS = {
     },
     "2": {
         "diagram": {"groups": [{"label": "पंक्ति १", "items": ["विबन्ध", "गौरव", "आध्मान", "शिरोरुज्", "वाहन (अस्पष्ट)", "ऊर्ध्वग"]},
-                               {"label": "पंक्ति २", "items": ["कुक्षिशूल", "अंगरुचि (अस्पष्ट)", "ध्मा (अस्पष्ट)", "हृत्पीडा", "कर्तन", "स्रव"]}]},
-        "chunks": "विबन्धगौरवाध्मान | शिरोरुग्वाहनोर्ध्वगाः ‖ कुक्षिशूलाङ्गरुचिध्मा | हृत्पीडाकर्तनस्रवाः",
+                               {"label": "पंक्ति २", "items": ["कुक्षिशूल", "अंगरुचि (अस्पष्ट)", "ध्मा (अस्पष्ट)", "हृत्पीडा (छपा हत्)", "कर्तन", "स्रव"]}]},
+        "chunks": "विबन्धगौरवाध्मान | शिरोरुग्वाहनोर्ध्वगाः ‖ कुक्षिशूलाङ्गरुचिध्मा | हत्पीडाकर्त्तनस्रवाः (हत् सम्भवतः हृत्)",
         "sandhi": "-अः घोष से पहले -ओ: शिरः + रुज् → शिरोरुज्; अ + ऊ → ओ: वाहन + ऊर्ध्वगाः → वाहनोर्ध्वगाः।",
         "anchors": "विबन्ध = रुकावट · गौरव = भारीपन · आध्मान = पेट फूलना · कुक्षि = पेट · कर्तन = काटने जैसी पीड़ा · स्रव = स्राव।",
     },
@@ -939,7 +936,7 @@ AIDS = {
         "chain": {"steps": ["बस्ति का अयोग या अतियोग", "छह और छह आपत्तियाँ (श्लोक २ की सूची)"]},
         "chunks": "अयोगादतियोगाच्च | बस्तेः स्युः षट्षडापदः ‖ अस्निग्धस्विन्नदेहस्य | गुरुकोष्ठस्य योजितः",
         "sandhi": "ट् → ड् स्वर से पहले: षट् + आपदः → षडापदः; त् + च → च्च: अतियोगात् + च → अतियोगाच्च।",
-        "contrast": "अयोग = बस्ति ठीक से न लगना · अतियोग = अधिक लगना; दोनों से छह-छह आपत्तियाँ।",
+        "contrast": "अयोग = बस्ति का प्रयोग न होना · अतियोग = अधिक प्रयोग; दोनों से छह-छह आपत्तियाँ।",
         "frame": "पंक्ति २ का रोगी: शरीर स्निग्ध नहीं, स्वेदित नहीं · कोष्ठ भारी · वाक्य श्लोक ५ तक।",
     },
     "4": {
@@ -957,7 +954,7 @@ AIDS = {
         "anchors": "विट् = मल · आनाह = रुकावट से पेट फूलना · हृल्लेप = हृदय पर लेप-सा · श्वयथु = सूजन · गुद = गुदा।",
     },
     "6": {
-        "chunks": "कण्डूगण्डानि वैवर्ण्य | मरतिं वह्निमार्दवम् ‖ क्वाथद्वयं प्राग्विहितं | मध्यदोषेऽतिसारिणि",
+        "chunks": "कण्डूगण्डानि | वैवर्ण्यमरतिं वह्निमार्दवम् ‖ काथद्वयं (सम्भवतः क्वाथ) प्राग्विहितं | मध्यदोषेऽतिसारिणि",
         "sandhi": "क् → ग् घोष से पहले: प्राक् + विहितम् → प्राग्विहितम्।",
         "anchors": "कण्डू = खुजली · गण्ड = गाँठ · वैवर्ण्य = रंग बिगड़ना · अरति = बेचैनी · वह्नि = अग्नि · मार्दव = मृदुता।",
         "frame": "पंक्ति १: लक्षण (क्रिया श्लोक ५ से) · पंक्ति २: अतिसार वाले में पहले कहे दो काढ़े।",
@@ -976,7 +973,7 @@ AIDS = {
         "pegs": "मेरा बनाया चित्र: एक बेल का पेड़ जिसकी जड़ के पास निशोथ की बेल, देवदारु का लट्ठा, जौ की बाली, बेर और कुलथी का ढेर रखा है।",
     },
     "9": {
-        "chain": {"steps": ["आम शेष रहते मृदु निरूह", "दोषों से प्रेरित", "वायु मूर्च्छित", "मार्ग रुका", "अग्नि को हानि"]},
+        "chain": {"steps": ["मृदु निरूह (शेष आम: पाठ अनिश्चित)", "दोषों से प्रेरित", "वायु मूर्च्छित", "मार्ग रुका", "अग्नि को हानि"]},
         "chunks": "संशेषामे निरूहेण | मृदुना दोषैरीरितः ‖ मूर्च्छयत्यनिलं मार्गं | रुणद्ध्यग्निं हिनस्ति च",
         "sandhi": "ः → र् स्वर से पहले (ऐ के बाद): दोषैः + ईरितः → दोषैरीरितः; इ → य्: रुणद्धि + अग्निम् → रुणद्ध्यग्निम्।",
         "anchors": "मृदु = हल्का · निरूह = काढ़े की बस्ति · ईरित = प्रेरित · अनिल = वायु · हिनस्ति = हानि करता है।",
@@ -986,7 +983,7 @@ AIDS = {
                                 {"label": "उपचार (पंक्ति २)", "items": ["रूक्ष", "स्वेद", "पाचन"]}]},
         "chunks": "गौरवक्लमहृच्छूल | दाहसंमोहवेष्टनम् ‖ ततः कुर्यादुपचरेत्तं | रूक्षस्वेदपाचनैः",
         "sandhi": "द् + श → च्छ: हृद् + शूल → हृच्छूल; त् + त: उपचरेत् + तम् → उपचरेत्तम्।",
-        "anchors": "क्लम = थकान · दाह = जलन · संमोह = घबराहट, मोह · वेष्टन = ऐंठन · पाचन = पचाने वाला।",
+        "anchors": "क्लम = थकान · दाह = जलन · संमोह = मोह, भ्रम · वेष्टन = ऐंठन · पाचन = पचाने वाला।",
     },
     "11": {
         "diagram": {"groups": [{"label": "जल में", "items": ["पिप्पली", "कत्तृण", "उशीर", "दारु", "सूर्वा"]},
@@ -998,7 +995,7 @@ AIDS = {
     },
     "12": {
         "frame": "क्या: बच, सोंठ, शठी · किसमें मिलाकर: दही का मण्ड · किसके साथ पिएँ: प्रसन्ना, या अरिष्ट, या आसव।",
-        "chunks": "वचानागरशठ्यो वा | दधिमण्डेन मूर्च्छिताः ‖ पेयाः प्रसन्नया वा स्यु | ररिष्टेनासवेन वा",
+        "chunks": "वचानागरशठ्यो वा | दधिमण्डेन मूर्च्छिताः ‖ पेयाः प्रसन्नया वा | स्युररिष्टेनासवेन वा",
         "sandhi": "-उः स्वर से पहले -उर्: स्युः + अरिष्टेन → स्युररिष्टेन; अ + आ → आ: अरिष्टेन + आसवेन → अरिष्टेनासवेन।",
         "anchors": "वचा = बच · नागर = सोंठ · मण्ड = ऊपर का पतला भाग · प्रसन्ना = साफ़ मदिरा · पेय = पीने योग्य।",
     },
@@ -1020,11 +1017,11 @@ AIDS = {
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "ka6-vyapad-list-2.svg",
-        "alt": "Two columns of the mishap names in verse 2: line 1 vibandha, gaurava, adhmana, shiroruj, vahana (obscure), urdhvaga; line 2 kukshishula, angaruci (obscure), dhma (obscure), hritpida, kartana, srava",
+        "alt": "Two columns of the mishap names in verse 2: line 1 vibandha, gaurava, adhmana, shiroruj, vahana (obscure), urdhvaga; line 2 kukshishula, angaruci (obscure), dhma (obscure), hritpida (printed hat), kartana, srava",
         "type": "split",
         "title": "श्लोक २: बस्ति की आपत्तियाँ",
         "cols": [["पंक्ति १", ["विबन्ध", "गौरव", "आध्मान", "शिरोरुज्", "वाहन (अस्पष्ट)", "ऊर्ध्वग"]],
-                 ["पंक्ति २", ["कुक्षिशूल", "अंगरुचि (अस्पष्ट)", "ध्मा (अस्पष्ट)", "हृत्पीडा", "कर्तन", "स्रव"]]],
+                 ["पंक्ति २", ["कुक्षिशूल", "अंगरुचि (अस्पष्ट)", "ध्मा (अस्पष्ट)", "हृत्पीडा (छपा हत्)", "कर्तन", "स्रव"]]],
     },
     ("3", "chain"): {
         "file": "ka6-ayoga-atiyoga-3.svg",
@@ -1035,17 +1032,17 @@ IMAGE_SPECS = {
     },
     ("4", "chain"): {
         "file": "ka6-durbala-basti-4.svg",
-        "alt": "Chain of four steps: a cold, low-oil or thick basti; it agitates the dosha; through weakness it does not expel it; the result follows in verse 5",
+        "alt": "Chain of four steps: a basti that is cold, or has little oil, salt, drug and quantity, or is thick; it agitates the dosha; through weakness it does not expel it; the result follows in verse 5",
         "type": "chain",
         "title": "श्लोक ४: दुर्बल बस्ति",
-        "steps": ["ठंडी, कम स्नेह वाली या गाढ़ी बस्ति", "दोष को क्षुब्ध करती है",
+        "steps": ["ठंडी, या अल्प स्नेह-लवण-द्रव्य-मात्रा वाली, या गाढ़ी बस्ति", "दोष को क्षुब्ध करती है",
                   "दुर्बलता से उसे नहीं निकालती", "परिणाम: श्लोक ५"],
     },
     ("5", "diagram"): {
         "file": "ka6-vibandha-effects-5.svg",
         "alt": "Mind map of verse 5: obstruction of wind, stool and urine; pain in bladder and navel; anaha; hrillepa; swelling in the anus",
         "type": "mermaid",
-        "code": ('mindmap\n  अयोग का परिणाम\n    अत्यन्त विबन्ध\n      वायु\n      मल\n      मूत्र\n'
+        "code": ('mindmap\n  श्लोक ५: परिणाम\n    अत्यन्त विबन्ध\n      वायु\n      मल\n      मूत्र\n'
                  '    बस्ति और नाभि में पीड़ा\n    आनाह\n    हृल्लेप\n    गुदा में सूजन\n'),
     },
     ("8", "diagram"): {
@@ -1059,9 +1056,9 @@ IMAGE_SPECS = {
     },
     ("9", "chain"): {
         "file": "ka6-ama-niruha-9.svg",
-        "alt": "Flowchart: a mild nirūha with ama remaining, stirred by the doshas, stupefies the wind, obstructs the path and harms the fire",
+        "alt": "Flowchart: a mild niruha (the remaining-ama reading is uncertain and not shown), stirred by the doshas, stupefies the wind, obstructs the path and harms the fire",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["आम शेष, मृदु निरूह"] --> B["दोषों से प्रेरित"]\n'
+        "code": ('flowchart TD\n  A["मृदु निरूह"] --> B["दोषों से प्रेरित"]\n'
                  '  B --> C["वायु मूर्च्छित"]\n  B --> D["मार्ग रुका"]\n  B --> E["अग्नि को हानि"]\n'),
     },
     ("10", "contrast"): {
