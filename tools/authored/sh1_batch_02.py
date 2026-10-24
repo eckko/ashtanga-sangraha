@@ -777,7 +777,7 @@ AUTHORED["27"] = {
               "Thus, indeed, by likeness of qualities, semen and ārtava are nourished.",
               "एवम् → हि → समानगुणतया → शुक्रार्तवम् → आप्यायते."),
         T(fill(2, "The word for similar in समानगुणतया is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-               accepts("समान"),
+               accepts("समान", None, "samana"),
                "समान = similar; गुण = quality; -ता = the state of.",
                "समान means similar, alike.", "समान = similar."),
           "समान means similar; समानगुणता is the state of having similar qualities."),
