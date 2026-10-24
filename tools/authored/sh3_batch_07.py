@@ -334,7 +334,7 @@ AUTHORED["83"] = {
         mcq("discriminate", 3, "Which verb is understood in unit 83?",
             ("आलिम्पेत्, should smear, from unit 82", "The note: the verb ālimpet is carried from the previous line."),
             [("धूपयेत्, should fumigate, from unit 81", "The note names ālimpet, not dhūpayet."),
-             ("पाययेत्, should give to drink", "पाययेत् first comes in unit 86."),
+             ("पाययेत्, should give to drink", "पाययेत् is the verb of unit 86; the note names ālimpet here."),
              ("परामृशेत्, should touch, from unit 79", "The note names ālimpet, not parāmṛśet.")],
             "The paste is for smearing; unit 84 adds eating as a further option.",
             "Verb carried: आलिम्पेत्."),
@@ -905,16 +905,12 @@ IMAGE_SPECS = {
     },
     ("81", "chain"): {
         "file": "sh3-shalimula-ghrita-81.svg",
-        "alt": ("Flowchart of unit 81: ghee cooked with śāli root; with it the yoni is anointed; then fumigation with "
-                "kaṭukālābu (probable), jālinī (disputed), nimba (neem, standard) and snake slough."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"शालि-मूल से सिद्ध घी\"] --> B[\"योनि का अभ्यंग\"]\n"
-                 "  B --> C[\"फिर धूपन\"]\n"
-                 "  C --> D[\"कटुकालाबु (सम्भावित)\"]\n"
-                 "  C --> E[\"जालिनी (विवादित)\"]\n"
-                 "  C --> F[\"निम्ब, नीम (मानक)\"]\n"
-                 "  C --> G[\"साँप की केंचुली\"]\n"),
+        "alt": ("Two columns of unit 81: first, ghee cooked with śāli root and anointing the yoni with it; then fumigation "
+                "with kaṭukālābu (probable), jālinī (disputed), nimba (neem, standard) and snake slough."),
+        "type": "split",
+        "title": "इकाई ८१: अभ्यंग, फिर धूपन",
+        "cols": [["पहले: अभ्यंग", ["शालि-मूल से सिद्ध घी", "उससे योनि का अभ्यंग"]],
+                 ["फिर: धूपन", ["कटुकालाबु (सम्भावित)", "जालिनी (विवादित)", "निम्ब, नीम (मानक)", "साँप की केंचुली"]]],
     },
     ("85", "diagram"): {
         "file": "sh3-langali-mahavriksha-85.svg",
@@ -928,15 +924,14 @@ IMAGE_SPECS = {
     },
     ("86", "diagram"): {
         "file": "sh3-pana-vikalpa-86.svg",
-        "alt": ("Numbered flowchart of unit 86: to be given to drink with one of four vehicles, in order: 1 any one of "
+        "alt": ("Numbered table of unit 86: to be given to drink with one of four vehicles, in order: 1 any one of "
                 "bilva and the rest, 2 a sour one sharp and hot with vyoṣa, 3 horse-gram juice, 4 madhuka and pippalī "
                 "cooked together."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"पाययेत्: इनमें से किसी के साथ\"] --> B[\"१ बिल्व आदि में से कोई एक\"]\n"
-                 "  A --> C[\"२ व्योष से तीखा-गरम अम्ल\"]\n"
-                 "  A --> D[\"३ कुलथी का रस\"]\n"
-                 "  A --> E[\"४ मधुक-पिप्पली का संपाक\"]\n"),
+        "type": "table",
+        "title": "इकाई ८६: पाययेत्, इनमें से किसी के साथ",
+        "heads": ["क्रम", "किसके साथ"],
+        "rows": [["१", "बिल्व आदि में से कोई एक"], ["२", "व्योष से तीखा-गरम अम्ल"],
+                 ["३", "कुलथी का रस"], ["४", "मधुक-पिप्पली का संपाक"]],
     },
     ("87", "diagram"): {
         "file": "sh3-saptadravya-kalka-87.svg",

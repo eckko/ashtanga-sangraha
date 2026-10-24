@@ -78,12 +78,12 @@ AUTHORED["117"] = {
              "has drunk: anoint with yamaka and wrap the belly (उदर) with cloth (वस्त्र)."),
     "limits": ("Printed कथं is read as क्वाथ (decoction): a print habit, not certain; stray '=' sign. The verb of the first "
                "clause is carried from unit 116. yamaka = probably oil and ghee mixed (probable). The five roots of the lesser "
-               "pañcamūla are not printed here."),
+               "pañcamūla and what the second woman drank are not printed."),
     "explain_hi": ("जो स्त्री स्नेह के योग्य नहीं (स्नेहायोग्या), उसे वात हरने वाली औषधियों का क्वाथ, या ह्रस्व (छोटे) पञ्चमूल का "
                    "क्वाथ देना है; क्रिया ‘पाययेत्’ इकाई ११६ से समझी जाती है। "
                    "छपा ‘कथं’ यहाँ ‘क्वाथ’ पढ़ा गया है, यह छपाई की आदत मानी गई है, निश्चित नहीं। "
                    "जिसने पी लिया हो (पीतवती), उसका यमक (सम्भवतः तेल और घी का मिश्रण) से अभ्यंग करके पेट को कपड़े से लपेटना चाहिए। "
-                   "ह्रस्व पञ्चमूल की पाँच जड़ों के नाम यहाँ छपे नहीं हैं।"),
+                   "ह्रस्व पञ्चमूल की पाँच जड़ों के नाम, और उसने क्या पिया, यह यहाँ छपा नहीं है।"),
     "hook": "स्नेह न सहे तो वातहर क्वाथ; पी ले तो यमक-अभ्यंग और पेट पर कपड़ा।",
     "core": False,
     "questions": [
@@ -91,7 +91,7 @@ AUTHORED["117"] = {
             ("One unfit for sneha (स्नेहायोग्या)", "स्नेहायोग्यां वातहरौषध... ह्रस्वपञ्चमूल... वा."),
             [("One who is hungry (बुभुक्षिता)", "The hungry one gets the sneha dose in unit 116."),
              ("One whose sneha is digested", "She gets a yavāgū in unit 119."),
-             ("One no longer called sūtikā", "That is the end of the period, unit 125.")],
+             ("One who is no longer called a sūtikā", "That is the end of the period, unit 125.")],
             "The woman unfit for sneha gets the vāta-relieving remedy instead.",
             "स्नेहायोग्याम् = for one unfit for sneha."),
         order(1, "Put these parts of unit 117 in the line's order.",
@@ -387,7 +387,7 @@ AUTHORED["122"] = {
         mcq("pretest", 0, "By unit 122, what kind of water is she given to drink?",
             ("Water that has been cooled", "कथितशीतं ... तोयम्: शीत = cooled."),
             [("Water that is still hot", "Hot water is for sprinkling, unit 120."),
-             ("Water mixed with milk", "No milk is named in unit 122."),
+             ("Water mixed with milk, served warm", "No milk is named in unit 122."),
              ("Water mixed with broth", "Broths are unit 121, not water here.")],
             "The drinking water is cooled.",
             "शीतं तोयं पाययेत्."),
@@ -444,7 +444,7 @@ AUTHORED["123"] = {
     "questions": [
         mcq("pretest", 0, "By unit 123, with which drugs are the preparations cooked (सिद्ध)?",
             ("Life-promoting, nourishing, sweet, vāta-relieving", "जीवनीयबृंहणीयमधुरवातहरसिद्धैः."),
-            [("Pungent, drying, bitter and vāta-raising ones", "The line names sweet and vāta-relieving drugs."),
+            [("Pungent, drying, bitter and strongly vāta-raising ones", "The line names sweet and vāta-relieving drugs."),
              ("Purging, emetic, sour and kapha-raising ones", "None of these is named in unit 123."),
              ("Cooling, astringent, salty and pitta-raising", "None of these is named in unit 123.")],
             "Four qualities: jīvanīya, bṛṃhaṇīya, madhura, vātahara.",
@@ -564,7 +564,7 @@ AUTHORED["125"] = {
             ("One and a half months", "अध्यर्धमासम्: for one and a half months."),
             [("Twelve nights in all", "Twelve nights marks the broths, unit 121."),
              ("Three or five nights", "That is the first stage of unit 121."),
-             ("Exactly one month", "अध्यर्ध is one and a half, not one.")],
+             ("Exactly one month, no more", "अध्यर्ध is one and a half, not one.")],
             "The period is one and a half months.",
             "अध्यर्धमासम् उपसंस्कृता."),
         order(1, "Put these parts of unit 125 in the line's order.",
@@ -622,7 +622,7 @@ AUTHORED["126"] = {
             ("The reappearance of the menses", "पुनरार्तवदर्शनात्: from the menses appearing again."),
             [("The passing of twelve nights", "Twelve nights belongs to unit 121."),
              ("The child's first full month", "No child's month is named in unit 126."),
-             ("The first bath in hot water", "Hot water is unit 120.")],
+             ("The first full bath in hot water", "Hot water is unit 120.")],
             "Some mark it by the menses appearing again.",
             "पुनरार्तवदर्शनात् इति एके."),
         order(1, "Put the words of unit 126 in the line's order.",
@@ -677,7 +677,7 @@ AUTHORED["127"] = {
     "questions": [
         mcq("pretest", 0, "By unit 127, what has been shown well in every way?",
             ("The whole procedure (विधिः सर्वः)", "विधिः सर्वः सर्वथा साधु दर्शितः."),
-            [("The whole list of diseases", "No diseases are listed in unit 127."),
+            [("The whole list of her possible diseases", "No diseases are listed in unit 127."),
              ("The signs of a male child", "Those signs are not in unit 127."),
              ("The full set of mantras", "No mantras are named in unit 127.")],
             "The verse closes: the whole procedure has been shown.",
@@ -846,8 +846,9 @@ AIDS = {
         "sandhi": "ई + उ → यु: यवानी + उपकुञ्चिका → यवान्युपकुञ्चिका · म् + स्वर: युक्ताम् + अहः → युक्तामहः।",
     },
     "117": {
-        "chain": {"steps": ["स्नेह के अयोग्य", "वातहर औषधों का क्वाथ", "या ह्रस्व पञ्चमूल का क्वाथ", "पी चुकने पर",
-                            "यमक से अभ्यंग", "पेट कपड़े से लपेटना"]},
+        "chain": {"steps": ["(१) स्नेह के अयोग्य को: वातहर औषध-क्वाथ या ह्रस्व पञ्चमूल-क्वाथ",
+                            "(२) अलग खण्ड: जिसने पी लिया हो (क्या पिया, नहीं कहा)", "यमक से अभ्यंग",
+                            "पेट कपड़े से लपेटना"]},
         "chunks": "स्नेहायोग्यां | वातहरौषधकथं | =ह्रस्वपंचमूलकथं वा | पीतवत्याश्च | यमकेनाभ्यज्य | वेष्टयेदुदरं वस्त्रेण",
         "sandhi": "अ + अ → आ: स्नेह + अयोग्याम् → स्नेहायोग्याम् · विसर्ग + च → श्च: पीतवत्याः + च → पीतवत्याश्च · त् → द् स्वर से पहले: वेष्टयेत् + उदरम् → वेष्टयेदुदरम्।",
         "frame": "दो खण्ड: (१) स्नेहायोग्या को क्वाथ (क्रिया ११६ से) · (२) पीतवती का अभ्यंग, फिर पेट पर कपड़ा।",
@@ -939,15 +940,13 @@ IMAGE_SPECS = {
     ("117", "chain"): {
         "file": "sh3-snehayogya-117.svg",
         "alt": ("Flowchart of unit 117: for one unfit for sneha, a decoction of vāta-relieving medicines, or of the lesser "
-                "pañcamūla (printed katha, read kvātha); after she has drunk, anointing with yamaka (probably oil and ghee), "
+                "pañcamūla (printed katha, read kvātha); separately, for one who has drunk, anointing with yamaka (probably oil and ghee), "
                 "then the belly wrapped with cloth."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"स्नेह के अयोग्य\"] --> B[\"वातहर औषधों का क्वाथ\"]\n"
                  "  A -->|\"या\"| C[\"ह्रस्व पञ्चमूल का क्वाथ\"]\n"
-                 "  B --> D[\"पी चुकने पर\"]\n"
-                 "  C --> D\n"
-                 "  D --> E[\"यमक से अभ्यंग\"]\n"
+                 "  D[\"जिसने पी लिया हो\"] --> E[\"यमक से अभ्यंग\"]\n"
                  "  E --> F[\"पेट कपड़े से लपेटना\"]\n"),
     },
     ("119", "diagram"): {
