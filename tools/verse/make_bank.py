@@ -343,8 +343,27 @@ class Builder:
                 q.update(base)
                 q["id"] = f"{cid}-" + ("p" if q["role"] == "pretest"
                                        else f"r{q['rung']}")
+                if q.get("kind") == "multi" and chap.ch.get("shuffle_multi"):
+                    shuffle_multi(q)
                 questions.append(q)
         return unit_name, concepts, questions
+
+
+def shuffle_multi(q):
+    """Fixed, id-seeded order for a multi question's options.
+
+    The template shows multi options in the given order, and authors tend to
+    put the right answers first; a chapter with "shuffle_multi": true gets a
+    stable permutation (same every build, keyed by the question id)."""
+    import hashlib
+    import random
+    n = len(q["options"])
+    order = list(range(n))
+    random.Random(hashlib.sha256(q["id"].encode()).hexdigest()).shuffle(order)
+    q["options"] = [q["options"][i] for i in order]
+    if "optionExplain" in q:
+        q["optionExplain"] = [q["optionExplain"][i] for i in order]
+    q["answers"] = sorted(order.index(a) for a in q["answers"])
 
 
 def build_bank(book, cfg):

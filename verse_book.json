@@ -78,7 +78,8 @@
     "ka1_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA1",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय १ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय १ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 502,
@@ -90,7 +91,8 @@
     "ka2_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA2",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय २ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय २ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 503,
@@ -102,7 +104,8 @@
     "ka3_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA3",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ३ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ३ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 504,
@@ -114,7 +117,8 @@
     "ka4_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA4",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ४ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ४ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 505,
@@ -126,7 +130,8 @@
     "ka5_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA5",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ५ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ५ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 506,
@@ -138,7 +143,8 @@
     "ka6_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA6",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ६ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ६ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 507,
@@ -150,7 +156,8 @@
     "ka7_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA7",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ७ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ७ · {kind} {unit}।",
+   "shuffle_multi": true
   },
   {
    "number": 508,
@@ -162,7 +169,8 @@
     "ka8_batch_*.py"
    ],
    "sections": "tools/authored/sections_kalpa.py:KA8",
-   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ८ · {kind} {unit}।"
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ८ · {kind} {unit}।",
+   "shuffle_multi": true
   }
  ]
 }
