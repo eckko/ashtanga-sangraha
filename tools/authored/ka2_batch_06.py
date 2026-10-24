@@ -1150,9 +1150,10 @@ IMAGE_SPECS = {
     ("75", "diagram"): {
         "file": "ka2-danti-anupana-75.svg",
         "alt": "Mind map of verse 75: drinks mastu, madira, takra, pilu juice, asava; patients with abhishyanna body, gulma, prameha, jathara, gara",
-        "type": "mermaid",
-        "code": ('mindmap\n  दन्ती की जड़\n    किसके साथ\n      मस्तु\n      मदिरा\n      तक्र\n      पीलुरस\n      आसव\n'
-                 '    किसे\n      अभिष्यन्न शरीर\n      गुल्मी\n      प्रमेही\n      जठरी\n      गरी\n'),
+        "type": "split",
+        "title": "श्लोक ७५: दन्ती की जड़",
+        "cols": [["किसके साथ पिए", ["मस्तु", "मदिरा", "तक्र", "पीलुरस", "आसव"]],
+                 ["किसे (सूची आरम्भ)", ["अभिष्यन्न शरीर", "गुल्मी", "प्रमेही", "जठरी", "गरी"]]],
     },
     ("77", "contrast"): {
         "file": "ka2-ghrta-taila-77.svg",
