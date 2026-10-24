@@ -33,10 +33,10 @@ AUTHORED["26"] = {
               "Distinguishing, in a mixture of signs but, greater abundance, from that one or the other states.",
               "वैशेषिकं → लिंगसंकरे तु → (यवो) भूयस्त्वं → ततोऽन्यतरा भावाः."),
         match(2, "Match each sure word of unit 26 to its meaning on the card.",
-              [["वैशेषिक", "distinguishing (determination)"], ["लिंगसंकर", "mixture of signs"],
-               ["भूयस्त्व", "greater abundance"], ["भाव", "state"]],
-              "These words are sure; only यवो and the ending of अन्यतरा are doubtful.",
-              "वैशेषिक, लिंगसंकर, भूयस्त्व, भाव.", role="extend",
+              [["लिंगसंकर", "mixture of signs"], ["भूयस्त्व", "greater abundance"],
+               ["भाव", "state"], ["तु", "but"]],
+              "These words are sure; यवो, the ending of अन्यतरा and the role of वैशेषिकं stay doubtful.",
+              "लिंगसंकर, भूयस्त्व, भाव, तु.", role="extend",
               teaches="-त्व makes an abstract noun: भूयस् (more) + त्व = भूयस्त्व, greater abundance."),
         mcq("discriminate", 3, "Which split of the start of ततोऽन्यतरा is right?",
             ("ततः + अन्यतरा", "अः before अ becomes ओ and the अ is dropped (ऽ): ततः + अन्यतरा → ततोऽन्यतरा."),
@@ -46,11 +46,11 @@ AUTHORED["26"] = {
             "ततः (from that) + अन्यतरा(ः) (one or the other); the avagraha marks the dropped अ.",
             "अः + अ → ओऽ."),
         multi("apply", 4, "Which statements about unit 26 match the card?",
-              [("The reading of the unit is of low confidence", "Right: confidence is low; यवो → यतः is only possible."),
-               ("भूयस्त्व means greater abundance", "Right: the card glosses it so."),
-               ("The unit names the signs that are mixed", "No signs are named in unit 26."),
-               ("The data takes यवो as barley in this line", "The flag says barley makes no sense here.")],
-              [0, 1],
+              [("The unit names the signs that are mixed", "No signs are named in unit 26."),
+               ("The data takes यवो as barley in this line", "The flag says barley makes no sense here."),
+               ("The reading of the unit is of low confidence", "Right: confidence is low; यवो → यतः is only possible."),
+               ("भूयस्त्व means greater abundance", "Right: the card glosses it so.")],
+              [2, 3],
               "Two statements follow from the card; the signs are not named and यवो is not read as barley.",
               "Low confidence; sure words: लिंगसंकर, भूयस्त्व, भाव."),
         mcq("transfer", 5, "By the rule of ततोऽन्यतरा, how is रामः + अपि (Rāma too) written?",
@@ -92,7 +92,7 @@ AUTHORED["27"] = {
             "तद्यथा = namely, as follows.",
             "तद्यथा = namely."),
         fill(2, "तद्यथा = ____ + यथा (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("तत्"),
+             accepts("तत्", None, "तद्", "tad"),
              "तत् (that) + यथा (as); त् before य is written द्.",
              "A final त् before a voiced sound such as य becomes द्: तत् + यथा → तद्यथा.",
              "तत् + यथा → तद्यथा."),
@@ -104,17 +104,17 @@ AUTHORED["27"] = {
             "तत् (that) + यथा (as, namely).",
             "त् + य → द्य."),
         multi("apply", 4, "Which statements about unit 27 match the card?",
-              [("तत् in तद्यथा is neuter nominative singular", "Right: the card labels tat n. nom. sg."),
-               ("The formula introduces the list of unit 28", "Right: the note says so."),
-               ("तद्यथा itself names a woman-making state", "It names nothing; the states come in unit 28."),
-               ("तत् here is ablative, from that", "From that would be तस्मात्; तत् is nominative.")],
-              [0, 1],
+              [("तद्यथा itself names a woman-making state", "It names nothing; the states come in unit 28."),
+               ("तत् in तद्यथा is neuter nominative singular", "Right: the card labels tat n. nom. sg."),
+               ("तत् here is ablative, from that", "From that would be तस्मात्; तत् is nominative."),
+               ("The formula introduces the list of unit 28", "Right: the note says so.")],
+              [1, 3],
               "तद्यथा = तत् (n. nom. sg.) + यथा, introducing unit 28's list.",
               "तत् = n. nom. sg.; तद्यथा introduces a list."),
         mcq("transfer", 5, "By the rule of तद्यथा, how is एतत् + वनम् (this forest) written?",
             ("एतद्वनम्", "त् before the voiced व becomes द्, as तत् + यथा → तद्यथा."),
             [("एतत्वनम्", "त् does not stay unvoiced before व."),
-             ("एतच्वनम्", "त् becomes च् only before च or छ."),
+             ("एतच्वनम्", "त् becomes च् only before a palatal (च, छ, श), not before व."),
              ("एतन्वनम्", "त् becomes न् only before a nasal.")],
             "एतत् + वनम् = एतद्वनम्, like तत् + यथा = तद्यथा.",
             "Final त् + voiced consonant → द्.",
@@ -124,7 +124,7 @@ AUTHORED["27"] = {
 
 # ---------------------------------------------------------------- unit 28
 AUTHORED["28"] = {
-    "title": "क्लैब्यं भीरुत्वमवैशारद्यम्",
+    "title": "क्लैब्यं भीरुत्वमवैशारद्यं",
     "question": "By unit 28, which states are the woman-making (स्त्रीकर) states?",
     "rule": ("Woman-making states: klaibya (unmanliness), timidity, lack of confidence, bewilderment, unsteadiness, "
              "heaviness below, lack of compactness, laxity, softness, the states of womb and seed, and other fitting ones."),
@@ -166,12 +166,12 @@ AUTHORED["28"] = {
             "Lack of compactness is listed; compactness itself is not.",
             "असंहनन (lack of compactness) is woman-making."),
         multi("apply", 4, "Which states of unit 28 carry the negative prefix अ- or अन्-?",
-              [("अवैशारद्य", "Right: अ + वैशारद्य, lack of confidence."),
+              [("मार्दव", "मार्दव (softness) has no negative prefix."),
+               ("अवैशारद्य", "Right: अ + वैशारद्य, lack of confidence."),
                ("अनवस्थान", "Right: अन् + अवस्थान, unsteadiness."),
-               ("असंहनन", "Right: अ + संहनन, lack of compactness."),
-               ("मार्दव", "मार्दव (softness) has no negative prefix."),
-               ("मोह", "मोह (bewilderment) has no negative prefix.")],
-              [0, 1, 2],
+               ("मोह", "मोह (bewilderment) has no negative prefix."),
+               ("असंहनन", "Right: अ + संहनन, lack of compactness.")],
+              [1, 2, 4],
               "Three listed states are negatives of a quality; softness and bewilderment are not.",
               "अ-/अन्- = lacking: अवैशारद्य, अनवस्थान, असंहनन."),
         mcq("transfer", 5, "By the pattern of अनवस्थान and असंहनन, what is the negative of आरोग्य (health)?",
@@ -281,10 +281,10 @@ AUTHORED["30"] = {
             "आः + voiced consonant → आ (visarga dropped)."),
         multi("apply", 4, "Which statements about unit 30 match the card?",
               [("संकीर्ण means mixed", "Right: the card glosses saṅkīrṇāḥ as mixed."),
-               ("The sentence has no printed verb", "Right: the copula is understood."),
                ("The unit says which states are mixed", "It does not say which states, or in what proportion."),
-               ("नपुंसककर means woman-making", "It means neuter-making; woman-making is स्त्रीकर.")],
-              [0, 1],
+               ("नपुंसककर means woman-making", "It means neuter-making; woman-making is स्त्रीकर."),
+               ("The sentence has no printed verb", "Right: the copula is understood.")],
+              [0, 3],
               "Mixed ones are neuter-making; nothing more is stated.",
               "संकीर्णाः (भावाः) नपुंसककराः."),
         mcq("transfer", 5, "By the rule of संकीर्णा नपुंसककराः, how is देवाः + गच्छन्ति (the gods go) written?",
@@ -300,12 +300,12 @@ AUTHORED["30"] = {
 
 # ---------------------------------------------------------------- unit 31
 AUTHORED["31"] = {
-    "title": "तदा चास्य चेतना प्रव्यक्ता",
+    "title": "तदा चास्यचेतना प्रव्यक्ता",
     "question": "By unit 31, what of the embryo becomes fully manifest then?",
     "rule": "And then its consciousness (चेतना) becomes fully manifest. अस्य (its) refers to the embryo.",
     "limits": ("तदा (then) points back to a time given earlier; this unit does not name it. It does not say what "
                "consciousness consists of. Prose, not a verse. The print runs चास्यचेतना together; the split is certain."),
-    "explain_hi": ("यह पंक्ति नए विषय की शुरुआत है: ‘और तब इसकी चेतना पूरी तरह प्रकट हो जाती है।’ "
+    "explain_hi": ("यह पंक्ति कहती है: ‘और तब इसकी चेतना पूरी तरह प्रकट हो जाती है।’ "
                    "‘अस्य’ (इसकी) गर्भ के लिए है। "
                    "‘तब’ किस समय की ओर इशारा करता है, यह इस इकाई में नहीं कहा गया। "
                    "छपा ‘चास्यचेतना’ = च + अस्य + चेतना (अ + अ → आ)। "
@@ -357,7 +357,7 @@ AUTHORED["31"] = {
 
 # ---------------------------------------------------------------- unit 32
 AUTHORED["32"] = {
-    "title": "ततश्च तत्प्रभृति स्पन्दते",
+    "title": "ततश्च तत्प्रभृति स्पंदते",
     "question": "By unit 32, what does the embryo do from then on?",
     "rule": "And from then on it moves (throbs, स्पन्दते) and has desire (अभिलाष) for the five objects of the senses.",
     "limits": ("The subject (the embryo) is understood. स्पन्दते may mean moves or throbs. The printed पंचेंद्वियार्थेषु is "
@@ -415,7 +415,7 @@ AUTHORED["32"] = {
 
 # ---------------------------------------------------------------- unit 33
 AUTHORED["33"] = {
-    "title": "मातृजं ह्यस्य हृदयम्",
+    "title": "मातृजं ह्यस्य हृदयं",
     "question": "By unit 33, where does the embryo's heart come from, and how is it joined to the mother?",
     "rule": ("For its heart (हृदय) is born of the mother (मातृज), and is joined to the mother's heart by dhamanīs "
              "(vessels) that carry rasa."),
@@ -499,7 +499,7 @@ AUTHORED["34"] = {
               "Therefore, in the two, through them, longing, arises.",
               "तस्मात् → तयोः → ताभिः → श्रद्धा → संपद्यते."),
         match(2, "Match each word of unit 34 to its meaning.",
-              [["तस्मात्", "therefore"], ["ताभिः", "through them (the vessels)"], ["श्रद्धा", "longing, desire"],
+              [["तस्मात्", "therefore"], ["ताभिः", "through them"], ["श्रद्धा", "longing, desire"],
                ["संपद्यते", "arises"]],
               "Four of the five words; who the two (तयोः) are is left open.",
               "तस्मात्, ताभिः, श्रद्धा, संपद्यते.", role="extend",
@@ -531,13 +531,13 @@ AUTHORED["34"] = {
 
 # ---------------------------------------------------------------- unit 35
 AUTHORED["35"] = {
-    "title": "द्विहृदयां नारीं दौर्हृदिनी",
+    "title": "द्विहृदयां नारीं दौर्हदिनीत्याचक्षते",
     "question": "By unit 35, what is a two-hearted (द्विहृदया) woman called?",
     "rule": ("And so they call a woman with two hearts (द्विहृदया) daurhṛdinī, a woman with longings. "
              "द्विहृदया is a bahuvrīhi: she who has two hearts."),
     "limits": ("The print has दौर्हदिनी; दौर्हृदिनी (from daurhṛda, longing) is a possible correction of ha for hṛ, and "
                "the meaning is the same. Whose the two hearts are is not stated here. Prose, not a verse."),
-    "explain_hi": ("‘तथा च’ (और इसी प्रकार) इकाई 33-34 से जुड़ता है: दो हृदय वाली स्त्री को दौर्हृदिनी, यानी इच्छाओं वाली, कहते हैं। "
+    "explain_hi": ("‘तथा च’ (और इसी प्रकार): दो हृदय वाली स्त्री को दौर्हृदिनी, यानी इच्छाओं वाली, कहते हैं। "
                    "‘द्विहृदया’ बहुव्रीहि है: जिसके दो हृदय हों; यह गर्भवती स्त्री के लिए है। "
                    "दो हृदय माता और गर्भ के हैं, यह यहाँ लिखा नहीं गया। "
                    "छपा ‘दौर्हदिनी’ है; ‘दौर्हृदिनी’ सम्भावित सुधार है (हृ की जगह ह)। "
@@ -545,7 +545,7 @@ AUTHORED["35"] = {
     "hook": "दो हृदय वाली = दौर्हृदिनी, इच्छाओं वाली।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 35, which woman is called daurhṛdinī, a woman with longings?",
+        mcq("pretest", 0, "By unit 35, which woman is called दौर्हदिनी (read daurhṛdinī), a woman with longings?",
             ("The two-hearted (द्विहृदया) woman", "द्विहृदयां नारीं दौर्हृदिनीत्याचक्षते."),
             [("A woman in her monthly period", "No monthly period is named."),
              ("A woman who has recently given birth", "Childbirth is not named."),
@@ -619,7 +619,7 @@ AUTHORED["36"] = {
               "अन्ये → पक्षत्रय → पञ्चम मास → दौर्हृदकाल → तीव्र प्रार्थना → हितोपसंहित दद्यात्."),
         match(2, "Match each phrase of unit 36 to its meaning.",
               [["पक्षत्रय", "three fortnights"], ["आ पञ्चमात् मासात्", "up to the fifth month"],
-               ["दौर्हृदकाल", "time of longing"], ["अहित", "unwholesome"], ["हित", "wholesome"]],
+               ["दौर्हदकाल (= दौर्हृदकाल)", "time of longing"], ["अहित", "unwholesome"], ["हित", "wholesome"]],
               "These phrases carry the time and the advice.",
               "पक्षत्रय, आ पञ्चमात्, दौर्हृदकाल, अहित, हित.", role="extend",
               teaches="आ with the ablative means up to: आ पञ्चमात् मासात् = up to the fifth month."),
@@ -709,13 +709,13 @@ AUTHORED["37"] = {
 
 # ---------------------------------------------------------------- unit 38
 AUTHORED["38"] = {
-    "title": "लब्धदौर्हृदा तु वीर्यवन्तम्",
+    "title": "लब्धदौर्हृदा तु वीर्यवंतं",
     "question": "By unit 38, what son does a woman whose longing is fulfilled bear?",
-    "rule": ("But she whose longing has been fulfilled (लब्धदौर्हृदा) bears a vigorous (वीर्यवन्त्) and long-lived "
+    "rule": ("But she whose longing has been fulfilled (लब्धदौर्हृदा) bears a vigorous (वीर्यवत्) and long-lived "
              "(चिरायुस्) son. Line 2, on a conjectural reading: in the fourth (month) the limbs show and the embryo is stable."),
-    "limits": ("Two printed lines. Line 1 continues the daurhṛda topic; its subject is only the feminine bahuvrīhi, no noun "
-               "woman is printed. In line 2 अंगप्रत्यंग and प्रव्यक्त rest on conjectural corrections, and month is "
-               "understood after चतुर्थे, not printed; no question is built on line 2. Prose, not a verse."),
+    "limits": ("Prose, two printed lines. Line 1's subject is only a feminine bahuvrīhi; no noun woman is printed. In "
+               "line 2 अंगप्रत्यंग and प्रव्यक्त are conjectural, and month after चतुर्थे is understood. No question rests "
+               "on the line 2 reading; one multi option only says it is conjectural."),
     "explain_hi": ("पहली पंक्ति इकाई 37 का उलटा पक्ष है: जिसकी दौर्हृद-इच्छा पूरी कर दी गई हो, वह वीर्यवान् और दीर्घायु पुत्र को जन्म देती है। "
                    "‘लब्धदौर्हृदा’ बहुव्रीहि है; ‘स्त्री’ शब्द छपा नहीं। "
                    "दूसरी पंक्ति चौथे (मास) की बात शुरू करती है: अनुमानित पाठ पर अङ्ग-प्रत्यङ्ग का विभाग प्रकट होता है और गर्भ स्थिर होता है। "
@@ -736,10 +736,10 @@ AUTHORED["38"] = {
               "She whose longing is fulfilled, vigorous, and long-lived, son, bears.",
               "लब्धदौर्हृदा → वीर्यवन्तम् → चिरायुषम् → पुत्रम् → प्रसूते."),
         match(2, "Match each word of line 1 of unit 38 to its meaning.",
-              [["लब्ध", "obtained, fulfilled"], ["वीर्यवन्त्", "vigorous"], ["चिरायुस्", "long-lived"],
+              [["लब्ध", "obtained, fulfilled"], ["वीर्यवत्", "vigorous"], ["चिरायुस्", "long-lived"],
                ["प्रसूते", "bears, gives birth to"]],
               "These words carry the sure first line.",
-              "लब्ध, वीर्यवन्त्, चिरायुस्, प्रसूते.", role="extend",
+              "लब्ध, वीर्यवत्, चिरायुस्, प्रसूते.", role="extend",
               teaches="लब्ध-दौर्हृदा is a bahuvrīhi: she whose longing has been obtained."),
         mcq("discriminate", 3, "Which word of unit 38 means long-lived?",
             ("चिरायुषम्", "चिर (long) + आयुषम् (life): long-lived."),
@@ -749,11 +749,11 @@ AUTHORED["38"] = {
             "चिरायुषम् = long-lived, said of the son.",
             "चिरायुस् = long-lived."),
         multi("apply", 4, "Which statements about unit 38 match the card?",
-              [("A woman whose longing is fulfilled bears a vigorous, long-lived son", "Right: line 1."),
+              [("The noun month is printed after चतुर्थे", "Month is understood, not printed."),
+               ("A woman whose longing is fulfilled bears a vigorous, long-lived son", "Right: line 1."),
                ("The reading limbs and minor limbs in line 2 is conjectural", "Right: अङ्गमत्त्यंग is corrected only as a possibility."),
-               ("The noun month is printed after चतुर्थे", "Month is understood, not printed."),
                ("Line 1 names the woman with the noun नारी", "No noun woman is printed; only the bahuvrīhi.")],
-              [0, 1],
+              [1, 2],
               "Line 1 is sure; line 2 is conjectural, and month and woman are not printed.",
               "Line 1 sure; line 2 conjectural."),
         mcq("transfer", 5, "By the rule of चिरायुषम्, how is दीर्घ + आयुः (long life) written as one compound?",
@@ -841,17 +841,17 @@ AIDS = {
     "29": {
         "chunks": "ततो | विपरीताः | पुंकराः",
         "sandhi": "अः → ओ घोष व्यंजन से पहले: ततः + विपरीताः → ततो विपरीताः।",
-        "contrast": "इकाई 28: सूची के भाव → स्त्रीकर ↔ इकाई 29: उनके विपरीत → पुंकर।",
+        "frame": "ततः = इनसे, यानी इकाई 28 के स्त्रीकर भावों से; उनके विपरीत भाव पुंकर।",
     },
     "30": {
-        "contrast": "तीन वर्ग — इकाई 28: सूची के भाव → स्त्रीकर · इकाई 29: विपरीत → पुंकर · इकाई 30: संकीर्ण (मिले-जुले) → नपुंसककर।",
+        "frame": "तीन वर्ग — इकाई 28: सूची के भाव → स्त्रीकर · इकाई 29: विपरीत → पुंकर · इकाई 30: संकीर्ण (मिले-जुले) → नपुंसककर।",
         "chunks": "संकीर्णा | नपुंसककराः",
         "sandhi": "आः के बाद घोष व्यंजन से पहले विसर्ग लोप: संकीर्णाः + नपुंसककराः → संकीर्णा नपुंसककराः।",
     },
     "31": {
         "chunks": "तदा च | अस्य चेतना | प्रव्यक्ता भवति",
         "sandhi": "अ + अ → आ: च + अस्य → चास्य।",
-        "chain": {"steps": ["इकाई 31: चेतना प्रकट", "इकाई 32: स्पन्दन", "इकाई 32: इन्द्रिय-विषयों की अभिलाषा"]},
+        "chain": {"steps": ["तदा (तब)", "अस्य (गर्भ की) चेतना", "प्रव्यक्ता भवति (पूरी तरह प्रकट)"]},
     },
     "32": {
         "chunks": "ततश्च | तत्प्रभृति | स्पंदते | अभिलाषं | पंचेंद्वियार्थेषु (= पञ्चेन्द्रियार्थेषु?) | करोति",
@@ -865,10 +865,10 @@ AIDS = {
         "chunks": "मातृजं ह्यस्य हृदयं | तद्रसहारिणीभिः | धमनीभिः | मातृहृदयेन | अभिसंबद्धं भवति",
         "sandhi": ("इ + अ → य: हि + अस्य → ह्यस्य · इ के बाद विसर्ग → र् घोष से पहले: हारिणीभिः + धमनीभिः → हारिणीभिर्धमनीभिः · "
                    "अ + अ → आ: मातृहृदयेन + अभिसंबद्धम् → मातृहृदयेनाभिसंबद्धम्।"),
-        "anchors": "याद-सूत्र: ‘मातृज’ = माँ से जन्मा; इसीलिए माँ के हृदय से तार जुड़ा है। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: ‘मातृज’ = माँ से जन्मा; और धमनियों से माँ के हृदय से जुड़ा। (मेरी याद-पद्धति)",
     },
     "34": {
-        "chain": {"steps": ["इकाई 33: हृदय धमनियों से जुड़े", "तस्मात् (इसलिए)", "तयोः (उन दोनों में)", "ताभिः (उन धमनियों से)",
+        "chain": {"steps": ["इकाई 33: हृदय धमनियों से जुड़े", "तस्मात् (इसलिए)", "तयोः (उन दोनों में)", "ताभिः (उनके द्वारा, सम्भवतः धमनियाँ)",
                             "श्रद्धा (इच्छा) उत्पन्न"]},
         "chunks": "तस्मात् | तयोः | ताभिः | श्रद्धा | संपद्यते",
         "sandhi": "विसर्ग → स् त से पहले: तयोः + ताभिः → तयोस्ताभिः · त् + त → त्त: तस्मात् + तयोः → तस्मात्तयोः।",
@@ -894,7 +894,7 @@ AIDS = {
         "story": "कथा-रूप (पंक्ति का ही क्रम): इच्छा ठुकराई गई → भीतर वायु भड़की → शरीर में घूमी → गर्भ पर संकट।",
     },
     "38": {
-        "contrast": "इकाई 37: दौर्हृद की उपेक्षा → कुपित वायु → गर्भ-नाश या विरूपता ↔ इकाई 38: दौर्हृद पूर्ण → वीर्यवान्, दीर्घायु पुत्र।",
+        "chain": {"steps": ["लब्धदौर्हृदा (जिसकी इच्छा पूरी हुई)", "प्रसूते (जन्म देती है)", "वीर्यवान् और चिरायु पुत्र"]},
         "chunks": "लब्धदौर्हृदा तु | वीर्यवंतं चिरायुषं च | पुत्रं प्रसूते ‖ चतुर्थे | अङ्गमत्त्यंगविभागः (?) प्रन्यक्तो (?) | गर्भश्च स्थिरो भवति",
         "sandhi": "अ + आ → आ: चिर + आयुषम् → चिरायुषम् · विसर्ग + च → श्च: गर्भः + च → गर्भश्च · अः → ओ घोष से पहले: स्थिरः + भवति → स्थिरो भवति।",
         "frame": "बहुव्रीहि: लब्ध (प्राप्त) + दौर्हृद → लब्धदौर्हृदा = जिसकी इच्छा पूरी हुई (स्त्री)।",
@@ -905,25 +905,25 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "diagram"): {
         "file": "sh2-strikara-bhava-28.svg",
-        "alt": ("Mind map of unit 28: the eleven woman-making states in the line's order: klaibya, timidity, lack of "
+        "alt": ("Mind map of unit 28: the eleven woman-making states, numbered 1 to 11 in the line's order: klaibya, timidity, lack of "
                 "confidence, bewilderment, unsteadiness, heaviness below, lack of compactness, laxity, softness, the "
                 "states of womb and seed, and other fitting ones."),
         "type": "mermaid",
         "code": ("mindmap\n"
                  "  स्त्रीकर भाव\n"
-                 "    क्लैब्य\n"
-                 "    भीरुत्व\n"
-                 "    अवैशारद्य\n"
-                 "    मोह\n"
-                 "    अनवस्थान\n"
-                 "    अधोगुरुत्व\n"
-                 "    असंहनन\n"
-                 "    शैथिल्य\n"
-                 "    मार्दव\n"
-                 "    गर्भाशय-बीज भाव\n"
-                 "    अन्य उचित भाव\n"),
+                 "    १ क्लैब्य\n"
+                 "    २ भीरुत्व\n"
+                 "    ३ अवैशारद्य\n"
+                 "    ४ मोह\n"
+                 "    ५ अनवस्थान\n"
+                 "    ६ अधोगुरुत्व\n"
+                 "    ७ असंहनन\n"
+                 "    ८ शैथिल्य\n"
+                 "    ९ मार्दव\n"
+                 "    १० गर्भाशय-बीज भाव\n"
+                 "    ११ अन्य उचित भाव\n"),
     },
-    ("30", "contrast"): {
+    ("30", "frame"): {
         "file": "sh2-bhava-varga-30.svg",
         "alt": ("Table of units 28 to 30: the listed states make a woman, their opposites make a man, mixed states make "
                 "a neuter."),
@@ -938,7 +938,7 @@ IMAGE_SPECS = {
                 "rasa-carrying dhamanis (vessels); no direction of flow is shown."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"गर्भ का हृदय<br/>(मातृज)\"] --- B[\"रस-वाहिनी धमनियाँ\"]\n"
+                 "  A[\"गर्भ का हृदय (मातृज)\"] --- B[\"रस-वाहिनी धमनियाँ\"]\n"
                  "  B --- C[\"माता का हृदय\"]\n"),
     },
     ("36", "chain"): {
@@ -947,9 +947,9 @@ IMAGE_SPECS = {
                 "when the wish is intense, even the unwholesome is given, joined with the wholesome."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"तीन पक्ष से<br/>(डेढ़ मास)\"] --> B[\"दौर्हृद-काल<br/>(अन्य मत)\"]\n"
+                 "  A[\"तीन पक्ष से (डेढ़ मास)\"] --> B[\"दौर्हद-काल (अन्य मत)\"]\n"
                  "  B --> C[\"पाँचवें मास तक\"]\n"
-                 "  D[\"इच्छा तीव्र हो\"] --> E[\"अहित भी दें,<br/>हित से युक्त करके\"]\n"),
+                 "  D[\"इच्छा तीव्र हो\"] --> E[\"अहित भी दें, हित से युक्त करके\"]\n"),
     },
     ("37", "chain"): {
         "file": "sh2-daurhrida-vimana-37.svg",
@@ -958,17 +958,8 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"दौर्हृद की उपेक्षा\"] --> B[\"वायु कुपित\"]\n"
-                 "  B --> C[\"शरीर के भीतर घूमता\"]\n"
-                 "  C -->|\"कर सकता है\"| D[\"गर्भ का विनाश\"]\n"
+                 "  B --> C[\"शरीर के भीतर घूमता, कर सकता है:\"]\n"
+                 "  C --> D[\"गर्भ का विनाश\"]\n"
                  "  C -->|\"या\"| E[\"गर्भ की विरूपता\"]\n"),
-    },
-    ("38", "contrast"): {
-        "file": "sh2-daurhrida-phala-38.svg",
-        "alt": ("Two columns, units 37 and 38: longing disregarded leads to agitated vayu and loss or deformity of the "
-                "embryo; longing fulfilled leads to a vigorous and long-lived son."),
-        "type": "split",
-        "title": "दौर्हृद: उपेक्षा और पूर्ति",
-        "cols": [["उपेक्षा (इकाई ३७)", ["कुपित वायु", "गर्भ-नाश या विरूपता"]],
-                 ["पूर्ति (इकाई ३८)", ["वीर्यवान् पुत्र", "दीर्घायु पुत्र"]]],
     },
 }
