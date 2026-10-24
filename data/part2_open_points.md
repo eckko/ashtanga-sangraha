@@ -48,3 +48,37 @@
 - ch3 u63-64: single metrical lines (Puṣpitāgrā-like) kept as prose units because the bank labels verse units "श्लोक-युग्म"; notes say they are metrical.
 - ch3 lines 62+63 and 64+65 form two ślokas but are split across units 58-60 by the mechanical grouping.
 - ch3 u64: flag says analpavana "not a word"; better "gives no sense here".
+- ch3 u103: retyped prose (recipe prose, not anuṣṭubh).
+- ch3 u106: print कषायेन; ṇ-rule gives कषायेण.
+- ch3 u115: अभ्यज्यात् labelled optative; regular form अभ्यञ्ज्यात्.
+- Unit types: verse now only when every line is 16 syllables (anuṣṭubh half-verse); 16 two-line units of 21-23 syllables retyped prose (some may be genuine upajāti, e.g. ch8 u16-25, ch9 u29: label only).
+- ch3 u80: print dhūpayetbhūrja (regular dhūpayed-), not flagged.
+- Plant labels differ across cards: lāṅgalī standard (ch3 card 44) vs probable (75, 91) vs none (85); elā standard (44) vs probable (87, 89).
+- ch3 u86: kuṣṭhatālī glossed f. nom. sg. though object unstated; alternative split kuṣṭha-tālīsa-kalkam open.
+- ch3 u97: Hindi gives siddhārthaka = सफेद सरसों without "probable"; u101: basti rendered firmly as bladder though notes say uncertain.
+- ch3 u121: laghunā labelled m.; agrees with neuter annapānena.
+- ch3 u117: Hindi/English name five roots of lesser pañcamūla; text only says hrasva.
+- ch3 u127: Hindi awkward vs notes reading yāvat…tāvat as one sentence.
+- ch3 u77: printed पाष्ण्यां lacks र् (dictionary पार्ष्णि), not noted.
+- ch3 u124: kṣapita glossed as plain ppp of √kṣi; it is causative (kṣapaya-).
+- ch4 u12: Hindi utpala 'probably blue lotus' vs English 'probably a water lily'.
+- ch4 u2: alternative split आपन्नगर्भा+अपरिहार्याणि not mentioned in notes.
+- ch4 u47: śvāsa standard in gloss, probable in notes. u52: mṛdu n. vs śāli-odanam m. u42: note's 'second (milder) picture' unsupported. u45: vedanā-jṛmbhā dvandva f. sg. questionable.
+- ch4 u40: print anāpnuvañcupaviśati (ca+upaviśati -> copaviśati), not flagged.
+- ch4 u17/u18: translations state 'nyagrodha shoots' and 'decoction' plainly though both rest on 'possible' corrections.
+- ch4 u23: पयस्यासुरदारु could split पयस्या+सुरदारु; not discussed.
+- ch3 u107: word chip built from printed IAST bhāīīṃ shows भाईईं (print oddity; not changed).
+- ch4 u55/57: पिबेत printed without virāma, labelled opt. mid.; probably पिबेत्.
+- ch4 u56: स्थूलकुक्कुटीः read as large hens; कुक्कुटी may be a plant.
+- ch4 u68: print गोध (usual गोधा); उत्क्रोश Hindi कुरर vs English osprey.
+- ch4 u36/u40: printed ञ्चु split with च would give -ंश्च; could be doubled न् (अनवशेषयन्नुपाचरेत्, अनाप्नुवन्नुपविशति).
+- ch4 u82: printed विद्यान् read विद्यात् without flag.
+- ch4 u85: तिर्यक् labelled f. nom. sg. (fem. would be तिरश्ची); printed doubled ङ; note treats तिर्यङ् as only join (तिर्यग् also valid).
+- ch4 u123: printed वीर्य्योजांसि (regular वीर्यौजांसि). u131: सर्वैतान् = सर्वान् एतान् not regular.
+- ch4 u108: dṛteḥ gram gen./abl. vs note ablative of comparison.
+- ch4 u111: typed prose but lines look like anuṣṭubh (8/8/8/9).
+- ch4 u112: अथापतन्तीम् may split अथ+आपतन्तीम्.
+- ch4 u121: notes call yava, kola, kulattha standard; glosses unlabelled.
+- ch5 u46: ūṣman feminine here vs masculine in u30. u47: सप्त nom. pl. vs ind. elsewhere.
+- ch5 u37: alajī 'uncertain' in gloss vs 'disputed' in notes.
+- ch5 u22: kṛtsnasya glossed n.; agrees with dehasya (m.). u24: amita-bhāṣitvam labelled bahuvrīhi (is -tva abstract).
