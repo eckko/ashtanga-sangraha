@@ -95,7 +95,7 @@ AUTHORED["41"] = {
              ("When it is in full flower", "अ-पुष्प means without flower.")],
             "अपुष्पफल is a bahuvrīhi: (the plant) that has no flower and no fruit.",
             "अ- (not) + पुष्प-फल (flower and fruit) = without flower and fruit.",
-            teaches="अपुष्पफल = without flower and fruit: the sprouts of unit 41 are taken before the plant flowers or fruits."),
+            teaches="अपुष्पफल = without flower and fruit: the sprouts of unit 41 are taken while the plant bears no flower or fruit (it may also mean not yet flowered)."),
         mcq("discriminate", 3, "Which is the right split of क्षीरमुद्रिक्तपित्ते?",
             ("क्षीरम् + उद्रिक्तपित्ते", "Final म् joins the next vowel in writing: क्षीरम् + उ… → क्षीरमु…."),
             [("क्षीरम् + मुद्रिक्तपित्ते", "There is no word मुद्रिक्त; म् + म would be written क्षीरम्मुद्रिक्त."),
@@ -160,7 +160,7 @@ AUTHORED["42"] = {
             [("The patient desiring emesis should drink it", "Correct: वमनार्थी = desiring emesis."),
              ("The patient wanting to vomit should drink it", "Correct: emesis is vomiting."),
              ("The sick man seeking emesis should drink it", "Correct: आतुर = the sick man, the patient.")],
-            "वमन = emesis; विरेचन would be purgation, which this chapter does not treat.",
+            "वमन = emesis; विरेचन would be purgation, a different procedure.",
             "वमनार्थी = वमन + अर्थी = one desiring emesis."),
         mcq("apply", 4, "A patient with hoarseness wants to vomit. In what is the ikṣvāku juice of unit 42 prepared?",
             ("In threefold milk", "त्रिगुणक्षीरसाधितम् = prepared in threefold milk."),
@@ -339,7 +339,7 @@ AUTHORED["45"] = {
             "The inner-part list repeats most of the seed list and adds kuṣṭha at its head.",
             "कुष्ठ heads the list of unit 45."),
         fill(4, "The part of the fruit in unit 45 is इक्ष्वाकुफल____. Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("मध्यम्", "मध्य", "madhya"),
+             accepts("मध्यम्", "madhyam", "मध्य", "madhya"),
              "इक्ष्वाकुफलमध्यम् = the inner part (मध्य) of the ikṣvāku fruit.",
              "In unit 45 the part used is मध्य, the inner part of the ikṣvāku fruit.",
              "मध्य = inner part.", role="apply"),
@@ -525,8 +525,8 @@ AUTHORED["48"] = {
 AUTHORED["49"] = {
     "title": "तत्फलस्वरसभावितैव वा",
     "question": "What stirred drink does unit 49 make, with what, and for which ailments?",
-    "rule": ("Or a mantha (stirred drink) with saktu (parched-grain flour), the saktu soaked in the juice of that fruit, in "
-             "phlegm-fever, cough, throat-ailments and arocaka."),
+    "rule": ("Or a mantha (stirred drink) with saktu (parched-grain flour), in phlegm-fever, cough, throat-ailments and "
+             "arocaka; the saktu is probably soaked in the juice of that fruit (damaged reading)."),
     "limits": ("Low confidence. The printed -भावितैव does not agree with सक्तुभिः; the repair -भावितैः एव is a guess, so "
                "the soaking is not questioned. Whether श्लेष्म goes with ज्वर alone is not certain. No dose is given."),
     "explain_hi": ("यहाँ सक्तु यानी सत्तू से मन्थ, यानी घोलकर मथा हुआ पेय, बनता है। "
@@ -570,7 +570,7 @@ AUTHORED["49"] = {
               "श्लेष्मज्वर, कास, कण्ठरोग, अरोचक."),
         mcq("transfer", 5, "सक्तुभिः + मन्थम् gives सक्तुभिर्मन्थम्. How is a new pair सक्तुभिः + युक्तम् (joined with saktu) written?",
             ("सक्तुभिर्युक्तम्", "य is voiced, so इः → इर्: सक्तुभिर्युक्तम्."),
-            [("सक्तुभिस्युक्तम्", "Visarga becomes स् only before त्/थ्; य is voiced."),
+            [("सक्तुभिस्युक्तम्", "Visarga becomes स् before त्/थ्, a voiceless sound; य is voiced, so it becomes र्."),
              ("सक्तुभियुक्तम्", "After इ the visarga is not dropped; it becomes र्."),
              ("सक्तुभिः युक्तम्", "Before a voiced sound the visarga must change; it becomes र्.")],
             "Visarga after इ or उ becomes र् before any voiced sound (म, य, a vowel).",
@@ -652,7 +652,7 @@ AUTHORED["51"] = {
         mcq("pretest", 0, "Which seeds are treated in unit 51?",
             ("Tumbī seeds (bottle gourd)", "तुम्बीबीजानि = tumbī seeds."),
             [("Madana seeds (emetic nut)", "Madana is not named in this unit."),
-             ("Ikṣvāku seeds (bitter gourd)", "Ikṣvāku seeds were the drug of line 05.01.48; here it is tumbī."),
+             ("Ikṣvāku seeds (bitter bottle gourd)", "Ikṣvāku seeds were the drug of line 05.01.48; here it is tumbī."),
              ("Bilva seeds (bael fruit)", "Bilva gives the root here, not the seeds.")],
             "Unit 51 starts the tumbī section: tumbī seeds go into a bilva-root liquid.",
             "तुम्बी = bottle gourd (probable); बीज = seed."),
@@ -694,8 +694,8 @@ AUTHORED["51"] = {
 AUTHORED["52"] = {
     "title": "ततस्तस्मिंस्त्रिभागघृते",
     "question": "What is added, in what quantities, into the ghee-liquid of unit 52?",
-    "rule": ("Then into that (ghee-liquid) one adds tumbī seeds ground, equal to the ghee; mahājālinī, vatsaka (kuṭaja) and "
-             "kṛtavedhana each at a portion; and trikaṭuka equal to the decoction."),
+    "rule": ("Then into that (ghee-liquid) one adds tumbī seeds ground, equal to the ghee; jīmūta (misprinted), mahājālinī, "
+             "vatsaka (kuṭaja) and kṛtavedhana, each at a smaller portion (damaged word); and trikaṭuka equal to the decoction."),
     "limits": ("Low confidence. त्रिभाग (a third or three parts) is open; the 'half that portion' word and the member jīmūta "
                "are misprinted: none is questioned. Trikaṭuka equal to the decoction is literal. Mahājālinī is unidentified."),
     "explain_hi": ("यह लेह की दूसरी सीढ़ी है। ‘ततः’ यानी फिर, उसमें (बेल के काढ़े में), जिसमें घृत भी है, ये डाले जाएँ। "
@@ -731,14 +731,14 @@ AUTHORED["52"] = {
              ("One pala in all", "No pala is named in this unit.")],
             "The seeds are ground and taken equal to the ghee; trikaṭuka is equal to the decoction.",
             "घृतसम = equal to the ghee; क्वाथतुल्य = equal to the decoction."),
-        multi("apply", 4, "Which two of these are in the list that unit 52 adds each (प्रत्येकम्)?",
+        multi("apply", 4, "Which two of these drug names stand in the compound …महाजालिनीवत्सककृतवेधनानि of unit 52?",
               [("Mahājālinī", "Right: महाजालिनी is in the list."),
                ("Madana fruit", "Wrong: madana is not named in this unit."),
                ("Vatsaka (kuṭaja)", "Right: वत्सक is in the list."),
                ("Bilva root", "Wrong: bilva root gives the decoction of line 05.01.56; it is not in this list.")],
               [0, 2],
-              "The each-list holds jīmūta, mahājālinī, vatsaka and kṛtavedhana.",
-              "प्रत्येकं …महाजालिनी-वत्सक-कृतवेधनानि."),
+              "The drug compound names jīmūta, mahājālinī, vatsaka and kṛtavedhana.",
+              "…महाजालिनी-वत्सक-कृतवेधनानि: a dvandva of drug names."),
         mcq("transfer", 5, "पिष्ट्वा (having ground) is built with -त्वा on a root with no prefix. Which new form means having drunk (√पा)?",
             ("पीत्वा", "√पा with no prefix takes -त्वा: पीत्वा, having drunk."),
             [("पिबेत्", "पिबेत् is optative: should drink."),
@@ -851,7 +851,7 @@ AUTHORED["54"] = {
             ("The four great-five-root members", "काश्मर्यादिषु चतुर्षु महापञ्चमूलाङ्गेषु: the four, beginning with kāśmarya."),
             [("The madana flowers and fruits", "These belong to line 05.01.30, not to this statement."),
              ("Jīmūtaka and drugs of its kind", "These are named in line 05.01.32, not here."),
-             ("All the oils and the ghees named here", "No oils or ghees are named in this statement.")],
+             ("The tumbī seeds and the bilva root", "These make the leha itself; the statement names the four members from kāśmarya on.")],
             "The kalpa is to be known as stated separately for the four members of the great five roots, from kāśmarya on.",
             "महापञ्चमूल = the great five roots; काश्मर्य = gambhārī (standard)."),
         mcq("transfer", 5, "अव + √लिह् gives अवलिह्य (having licked). Which new form means having drunk after (अनु + √पा)?",
@@ -929,7 +929,7 @@ AIDS = {
         "anchors": "कास = खाँसी · श्वास = साँस फूलना · ज्वर = बुखार · छर्दि = उल्टी · योज्य = प्रयोग करने योग्य।",
     },
     "41": {
-        "frame": "क्या: इक्ष्वाकु के प्रवाल · कब: फूल-फल आने से पहले · किसमें: दूध · किसके लिए: बढ़ा पित्त, पित्त-कफ ज्वर।",
+        "frame": "क्या: इक्ष्वाकु के प्रवाल · कब: जब फूल-फल न हों · किसमें: दूध · किसके लिए: बढ़ा पित्त, पित्त-कफ ज्वर।",
         "anchors": "प्रवाल = नया पल्लव · अपुष्पफल = फूल-फल रहित · उद्रिक्त = बढ़ा हुआ · क्षीर = दूध।",
         "sandhi": "म् + स्वर: क्षीरम् + उद्रिक्तपित्ते → क्षीरमुद्रिक्तपित्ते; अ + अ → आ: तस्य + अपुष्पफलस्य → तस्यापुष्पफलस्य।",
     },
@@ -942,7 +942,7 @@ AIDS = {
     "43": {
         "chain": {"steps": ["पुराना फल लो", "उसके बीज निकालो", "उसमें दूध डालो", "उसी में दही जमे"]},
         "anchors": "जीर्ण = पुराना · समुद्धृत = निकाला हुआ · प्रक्षिपेत् = डाले · जात = बना हुआ · दधि = दही।",
-        "pegs": "मेरा बनाया चित्र: खोखली लौकी एक छोटी मटकी है, जिसमें दूध रात भर रखा दही बन जाता है।",
+        "pegs": "मेरा बनाया चित्र: खोखली लौकी एक छोटी मटकी है, जिसमें डाला दूध दही बन जाता है।",
     },
     "44": {
         "diagram": {"groups": [{"label": "बकरी के दूध में भीगे बीज (पाठ-क्रम)",
@@ -956,7 +956,7 @@ AIDS = {
         "chunks": "इक्ष्वाकुफलमध्यं वा | कुष्ठविषगुल्मोदर | गरगण्डग्रन्थ्यर्बुदश्लीपदेषु।",
     },
     "46": {
-        "frame": "पहली पंक्ति: फल + मस्तु → कुष्ठ, विष, पाण्डु-रोग · दूसरी पंक्ति: सद्रिपक (अस्पष्ट), या मधु-सैन्धव सहित तक्र।",
+        "contrast": "पहली पंक्ति: फल + मस्तु → कुष्ठ, विष, पाण्डु-रोग · दूसरी पंक्ति: सद्रिपक (अस्पष्ट), या मधु-सैन्धव सहित तक्र।",
         "anchors": "मस्तु = दही का पानी · तक्र = छाछ · सैन्धव = सेंधा नमक · पाण्डु = फीका · आमय = रोग।",
         "sandhi": "उ + आ → वा: पाण्डु + आमय → पाण्ड्वामय।",
     },
@@ -979,7 +979,7 @@ AIDS = {
     "50": {
         "chain": {"steps": ["इक्ष्वाकु का कल्क", "मांस-रस के साथ", "वात-कफ, गुल्म, लगे रहने वाले ज्वर में"]},
         "anchors": "कल्क = पीसी लुगदी · मांसरस = मांस का रस · प्रसक्त = टिका हुआ · गुल्म = पेट की गाँठ।",
-        "frame": "इक्ष्वाकु-खण्ड के रूप: प्रवाल (दूध) · स्वरस · फल में दही · बीज · मध्य · तेल · मन्थ · कल्क।",
+        "frame": "इक्ष्वाकु-खण्ड के रूप: प्रवाल (दूध) · स्वरस · फल में दही · बीज · मध्य · फल + मस्तु · मध्य + गुड़ · तेल · मन्थ · कल्क।",
     },
     "51": {
         "frame": "द्रव: एक प्रस्थ बेल-जड़ का काढ़ा · उसमें: तुम्बी के बीज · क्रिया: उबाले।",
@@ -1010,7 +1010,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("40", "diagram"): {
         "file": "ka1-ikshvaku-uses-40.svg",
-        "alt": ("Mind map of unit 40: ikshvaku especially applied in six ailments, in text order: kasa, shvasa, jvara, "
+        "alt": ("Mind map of unit 40: ikshvaku especially applied in six ailments: kasa, shvasa, jvara, "
                 "chardi, visha and phlegm-ailments"),
         "type": "mermaid",
         "code": ("mindmap\n  इक्ष्वाकु विशेष रूप से\n    कास यानी खाँसी\n    श्वास\n    ज्वर यानी बुखार\n"
@@ -1033,13 +1033,13 @@ IMAGE_SPECS = {
     },
     ("44", "diagram"): {
         "file": "ka1-seed-ailments-44.svg",
-        "alt": ("Mind map of unit 44: ikshvaku seeds soaked in she-goat's milk, used in seven ailments in text order: "
+        "alt": ("Mind map of unit 44: ikshvaku seeds soaked in she-goat's milk, used in seven ailments: "
                 "visha, gulma, udara, galaganda, granthi, arbuda and shlipada"),
         "type": "mermaid",
         "code": ("mindmap\n  बकरी के दूध में भीगे बीज\n    विष\n    गुल्म यानी पेट की गाँठ\n    उदर\n"
                  "    गलगण्ड यानी घेंघा\n    ग्रन्थि यानी गाँठ\n    अर्बुद यानी रसौली\n    श्लीपद यानी हाथीपाँव\n"),
     },
-    ("46", "frame"): {
+    ("46", "contrast"): {
         "file": "ka1-whey-buttermilk-46.svg",
         "alt": ("Table of verse 46: first line, the ikshvaku fruit with whey in kushtha, visha and pale-ailments; second "
                 "line, sadripaka (unclear) or buttermilk with honey and rock salt"),

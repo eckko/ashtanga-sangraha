@@ -40,7 +40,7 @@ AUTHORED["54"] = {
         mcq("discriminate", 3, "What is मरीचि in unit 54, by the card?",
             ("A minute unit of measure",
              "The card: here मरीचि is a tiny unit of measure, the first of the scale."),
-            [("The pepper used as a drug", "The card says it is not the pepper (मरिच) here."),
+            [("The pepper called मरिच", "The card says it is not the pepper (मरिच) here."),
              ("A large measure of liquid", "It is a minute unit, at the very bottom of the scale."),
              ("A vessel for storing ghee", "No vessel is meant; it is a unit of measure.")],
             "षडंश्यो मरीचिः: … are a marīci (a minute unit).",
@@ -470,7 +470,7 @@ AIDS = {
     "54": {
         "frame": "माप की सूची का आरम्भ: ‘परिमाणं पुनः’ विषय बताता है, फिर पहली इकाई मरीचि।",
         "anchors": "परिमाण = माप · पुनः = फिर · मरीचि = बहुत छोटी माप-इकाई (काली मिर्च नहीं)।",
-        "contrast": "मरीचि (इ अन्त, यहाँ माप-इकाई) · मरिच (काली मिर्च, औषध): नाम मिलते-जुलते, अर्थ अलग।",
+        "contrast": "मरीचि (इ अन्त, यहाँ माप-इकाई) · मरिच (काली मिर्च): नाम मिलते-जुलते, अर्थ अलग।",
     },
     "55": {
         "chunks": "ताः | षट् | सर्षपः।",
@@ -509,11 +509,11 @@ IMAGE_SPECS = {
     ("54", "contrast"): {
         "file": "ka8-marichi-marica-54.svg",
         "alt": ("Two columns contrasting marichi, here a minute unit of measure that opens the scale, with marica, "
-                "black pepper, a drug that is not meant here"),
+                "black pepper, which is not meant here"),
         "type": "split",
         "title": "इकाई ५४: मरीचि बनाम मरिच",
         "cols": [["मरीचि (यहाँ)", ["बहुत छोटी माप-इकाई", "माप की सूची का आरम्भ"]],
-                 ["मरिच", ["काली मिर्च, औषध", "यहाँ अभिप्रेत नहीं"]]],
+                 ["मरिच", ["काली मिर्च", "यहाँ अभिप्रेत नहीं"]]],
     },
     ("56", "chain"): {
         "file": "ka8-sarshapa-tandula-56.svg",
