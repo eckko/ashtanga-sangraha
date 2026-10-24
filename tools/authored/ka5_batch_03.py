@@ -29,7 +29,7 @@ AUTHORED["30"] = {
             ("Lekhana: scraping, thinning", "निरूहा लेखनाः = nirūha enemas are scraping (lekhana)."),
             [("Bṛṃhaṇa: nourishing", "Nourishing (bṛṃhaṇa) is said of the sneha enemas."),
              ("Dīpana: kindling fire", "Kindling comes in verse 33, as a treatment, not here."),
-             ("Stambhana: checking", "Checking is not said of nirūha in verse 30.")],
+             ("Stambhana: checking, retaining", "Checking is not said of nirūha in verse 30.")],
             "Line 1 pairs nirūha with lekhana and sneha-basti with bṛṃhaṇa.",
             "निरूह = लेखन; स्नेहबस्ति = बृंहण (प्रायः)."),
         match(1, "Match each word of verse 30 to its meaning on the card.",
@@ -140,7 +140,7 @@ AUTHORED["32"] = {
                "printed compound is irregular (text flag) and the Hindi word for pāṇḍutva is an open "
                "point (OPEN 05.05.62): no question uses either."),
     "explain_hi": ("यह श्लोक यापन बस्ति के अत्यधिक सेवन के दुष्परिणाम गिनाता है। "
-                   "शोफ यानी सूजन, अग्नि का नाश यानी पाचन-शक्ति का घटना, पाण्डुत्व यानी पीलापन-भरी फीकी त्वचा (शब्द पर खुला अवलोकन है), शूल यानी पेट की पीड़ा, अर्श यानी बवासीर और परिकर्तिका यानी काटने जैसी पीड़ा। "
+                   "शोफ यानी सूजन, अग्नि का नाश यानी पाचन-शक्ति का घटना, पाण्डुत्व यानी पाण्डुता (इसके हिन्दी शब्द पर खुला अवलोकन है), शूल यानी पेट की पीड़ा, अर्श यानी बवासीर और परिकर्तिका यानी काटने जैसी पीड़ा। "
                    "दूसरी पंक्ति ज्वर और अतिसार यानी दस्त जोड़ती है। "
                    "‘स्युः’ यानी हो सकते हैं: पूरी सूची इसी क्रिया का कर्ता है।"),
     "hook": "यापन ज़्यादा तो: सूजन, मन्द अग्नि, शूल, काटती पीड़ा, ज्वर, दस्त।",
@@ -246,7 +246,7 @@ AUTHORED["33"] = {
         mcq("transfer", 5,
             "Like अरिष्टक्षारसीध्वाद्यैः, what does an invented घृततैलाद्यैः mean?",
             ("With ghee, oil and so forth", "-आद्यैः = with X and the rest, as in verse 33."),
-            [("Without ghee and oil", "Nothing in -आद्यैः negates; it adds 'and so forth'."),
+            [("Without any ghee and without oil", "Nothing in -आद्यैः negates; it adds 'and so forth'."),
              ("Ghee taken before oil", "-आद्य is 'and the rest', not 'before'."),
              ("The first of ghee and oil", "आदि here means 'and so forth', not 'first part'.")],
             "-आद्यैः (instrumental plural) closes a list: with these and the like.",
@@ -543,7 +543,7 @@ AUTHORED["38"] = {
         mcq("discriminate", 3, "What does तालमज्जा mean on the card?",
             ("The kernel of tāla (palmyra)", "ताल = palmyra palm; मज्जा = kernel (majjā)."),
             [("The bark of the palmyra", "Bark would be त्वक्; मज्जा is the kernel."),
-             ("The juice of the palmyra", "Juice would be रस; मज्जा is the kernel."),
+             ("The juice or sap of the palmyra tree", "Juice would be रस; मज्जा is the kernel."),
              ("The leaf of the palmyra", "Leaf would be पत्र; मज्जा is the kernel.")],
             "मज्जा is rendered 'kernel (majjā)' in this book.",
             "ताल-मज्जा = palmyra kernel."),
@@ -680,7 +680,7 @@ AUTHORED["40"] = {
         mcq("transfer", 5,
             "Like मुष्कोद्भवम् (arising from the testes), what does an invented जलोद्भवम् mean?",
             ("Arising from water", "-उद्भव = born of, arising from."),
-            [("Producing water", "-उद्भव names the source, not the product."),
+            [("Producing or giving out water", "-उद्भव names the source, not the product."),
              ("Mixed with water", "Mixing would need सह or a 'with' word."),
              ("Free of water", "Freedom would need निः- or विवर्जित.")],
             "X-उद्भव = arising from X; अ + उ → ओ in the join.",
@@ -895,7 +895,7 @@ AUTHORED["44"] = {
         mcq("pretest", 0,
             "What does line 1 of verse 44 say he would become, besides free of wrinkles?",
             ("Handsome and long-lived", "कान्तः चिरंजीवी = handsome, long-lived."),
-            [("Strong and fat", "Neither strength nor fat is named in verse 44."),
+            [("Strong, fat and free of disease", "Neither strength nor fat is named in verse 44."),
              ("Wise and calm", "Neither wisdom nor calm is named in verse 44."),
              ("Fair and slim", "Neither is named in verse 44.")],
             "Two nominatives follow the wrinkle word: कान्तः and चिरंजीवी.",
@@ -930,7 +930,7 @@ AUTHORED["44"] = {
         mcq("transfer", 5,
             "Like ज्वरिणाम् (of those having fever, from ज्वरिन्), what does an invented शूलिनाम् mean?",
             ("Of those who have colic", "-इन् = having; -इनाम् = of those having."),
-            [("Of the colic itself", "The colic itself would be शूलस्य."),
+            [("Of the colic itself, as a disease", "The colic itself would be शूलस्य."),
              ("Free from colic", "Freedom would need निः-: निःशूल."),
              ("Causing colic", "Causing would need a word like -कर.")],
             "-इन् makes a possessor; the genitive plural -इनाम् says 'for/of those having'.",
@@ -1019,7 +1019,7 @@ AUTHORED["46"] = {
         mcq("pretest", 0,
             "How many times does verse 46 say one should have it cooked?",
             ("A hundred or a thousand times", "शतं वारान् सहस्रं वा."),
-            [("Once, then strained", "The verse speaks of many cookings."),
+            [("Once only, then strained and kept", "The verse speaks of many cookings."),
              ("Seven times each day", "No seven and no day are named."),
              ("Until five droṇas remain", "That is the boiling of verse 36.")],
             "शतम् … सहस्रं वा = a hundred or a thousand (times).",
@@ -1039,14 +1039,14 @@ AUTHORED["46"] = {
             ("Future passive: will be told", "The data: 3 pl. future passive of √वच्."),
             [("Past passive: were told", "A past would be उक्ताः; वक्ष्य- is future."),
              ("Present passive: are told", "The present passive would be उच्यन्ते."),
-             ("Optative: should be told", "An optative would end in -एरन् or -येयुः.")],
+             ("Optative passive: should be told", "The optative passive would be उच्येरन्.")],
             "-ष्य- marks the future; वक्ष्यन्ते looks ahead to the next recipes.",
             "वक्ष्यन्ते = will be told."),
         mcq("apply", 4, "What does line 2 of verse 46 say will be described next?",
             ("Sneha-bastis that destroy doṣas", "दोषघ्नाः … वक्ष्यन्ते स्नेहबस्तयः."),
             [("Nirūha enemas with urine", "Line 2 names sneha-bastis, not nirūha."),
              ("The complications of bastis", "Complications are not announced here."),
-             ("Yāpana enemas for old men", "Yāpana is not named in line 2.")],
+             ("Yāpana enemas for old and weak men", "Yāpana is not named in line 2.")],
             "The chapter turns from this recipe to doṣa-destroying sneha-bastis.",
             "दोषघ्न स्नेहबस्ति = the next topic."),
         mcq("transfer", 5,
@@ -1054,7 +1054,7 @@ AUTHORED["46"] = {
             ("When there is time", "Locative + सति = 'when X is (there)'."),
             [("At the wrong time", "Wrong time would need अकाले."),
              ("Without any time", "Without would need विना or निः-."),
-             ("For a long time", "Duration would need चिरम् or an accusative.")],
+             ("For a long time, whatever happens", "Duration would need चिरम् or an accusative.")],
             "The locative absolute: noun in -ए + सति = when there is that.",
             "X-े सति = when there is X.",
             teaches="A locative with सति is a locative absolute: सम्भवे सति (when possible), काले सति (when there is time)."),
@@ -1071,7 +1071,7 @@ NOTES_HI = {
            "संधि जाँची: मृदुत्वान्न = मृदुत्वात् + न (त् + न → न्न); त्वेते = तु + एते; समूत्रैर्बस्तिभिस्तीक्ष्णैरास्थाप्य = समूत्रैः + बस्तिभिः + तीक्ष्णैः + आस्थाप्य; क्षिप्रमेव = क्षिप्रम् + एव।"),
     "32": ("विश्वास: मध्यम। पंक्तियाँ 05.05.62-63 एक वाक्य हैं; ‘स्युः’ पूरी सूची पर लागू है। छपा ‘परिकर्त्तिका’ = परिकर्तिका (र्त्त सामान्यीकृत)। "
            "text_flags: समास के भीतर ‘अर्शः’ का विसर्ग प के पहले अनियमित है (अर्थ अपरिवर्तित); इस सदस्य पर प्रश्न नहीं बना। "
-           "खुला अवलोकन (05.05.62): data के हिन्दी में ‘पाण्डुता यानी फीकापन’ ठीक नहीं; पाण्डु = पीलापन लिए फीका, रक्ताल्पता का लक्षण; शब्द स्वामी तय करेंगे, इस पर प्रश्न नहीं। "
+           "खुला अवलोकन (05.05.62): data के हिन्दी में ‘पाण्डुता यानी फीकापन’ ठीक नहीं; पाण्डु = pale, ‘पीला’ नहीं (शब्दावली में पाण्डु = रक्ताल्पता); शब्द स्वामी तय करेंगे, इस पर प्रश्न नहीं। "
            "संधि जाँची: ज्वरश्चातिसारश्च = ज्वरः + च + अतिसारः + च; यापनात्यर्थ = यापना + अति + अर्थ।"),
     "33": ("विश्वास: मध्यम। ‘तत्र’ पंक्तियों 05.05.62-63 के उपद्रवों की ओर संकेत करता है। अरिष्ट और सीधु पेयों के नाम हैं; आगे पहचान नहीं की गई। क्षार ‘क्षार’ ही रखा गया। "
            "छपा ‘यापनांच’ = यापनाम् + च (बिना स्थान)। ‘प्रसङ्गतः’ का अर्थ ‘प्रसंग के अनुसार’ या ‘निरन्तरता से’, अनिश्चित; इस पर प्रश्न नहीं। "
@@ -1197,7 +1197,7 @@ AIDS = {
     },
     "42": {
         "chain": {"steps": ["श्वेत छत्र की छाया", "श्वेत वस्त्र से ढका", "हाथी के कन्धे पर रखा", "वृषध्वज की पूजा करके"]},
-        "story": "मेरा बनाया दृश्य (श्लोक का दावा नहीं): एक शोभा-यात्रा सोचें: सफ़ेद छाते के नीचे, सफ़ेद कपड़े में लिपटा पात्र हाथी पर, और आगे शिव-पूजा।",
+        "story": "मेरा बनाया दृश्य (श्लोक का दावा नहीं): एक शोभा-यात्रा सोचें: सफ़ेद छाते के नीचे, सफ़ेद कपड़े में ढका द्रव्य हाथी पर, और आगे शिव-पूजा।",
         "sandhi": "च्छ: सित + छत्र → सितच्छत्र, कृत + छाया → कृतच्छाय; अ + अ → आ: वस्त्र + अवगुण्ठित → वस्त्रावगुण्ठित।",
         "anchors": "सित = श्वेत · छत्र = छाता · अवगुण्ठित = ढका · गज = हाथी · स्कन्ध = कन्धा · वृषध्वज = शिव।",
     },
