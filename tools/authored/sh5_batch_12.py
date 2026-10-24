@@ -305,12 +305,12 @@ AUTHORED["146"] = {
     "title": "त्रिंशच्छतद्वयमंतराधौ",
     "question": "By unit 146, how many snāyus lie in the trunk (antarādhi)?",
     "rule": ("Thirty and two hundred (त्रिंशत्, शतद्वयम्), i.e. 230, in the trunk (अन्तराधौ). त्रिंशत् + शत → त्रिंशच्छत: "
-             "त् + श → च्छ."),
+             "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
     "limits": ("Prose; no verb printed; the counted noun (snāyu) is carried from unit 144. The data's check 600 + 230 + 70 "
                "= 900 uses units 145-147."),
     "explain_hi": ("यह गद्य-पंक्ति बताती है कि धड़ (अन्तराधि) में दो सौ तीस स्नायु हैं। "
                    "‘त्रिंशत्’ (तीस) और ‘शतद्वयम्’ (दो सौ) जोड़े जाते हैं: २०० + ३० = २३०। "
-                   "त्रिंशत् + शत में त् + श → च्छ हुआ: त्रिंशच्छत। "
+                   "त्रिंशत् + शत → त्रिंशच्छत; नियम: त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ)। "
                    "‘अन्तराधौ’ इ-अन्त पुंलिंग का सप्तमी एकवचन है, धड़ में; यहाँ -औ द्विवचन नहीं है। "
                    "डेटा की जाँच: ६०० + २३० + ७० = ९००, इकाई १४४ का कुल।"),
     "hook": "धड़ में दो सौ तीस: त्रिंशच्छत।",
@@ -333,12 +333,12 @@ AUTHORED["146"] = {
              "अन्तराधि = the trunk, the middle part of the body (standard).",
              "अन्तराधि = trunk."),
         mcq("discriminate", 3, "Which split of त्रिंशच्छत in unit 146 is right?",
-            ("त्रिंशत् + शत", "त् + श → च्छ: त्रिंशत् (thirty) + शत (hundred) → त्रिंशच्छत."),
+            ("त्रिंशत् + शत", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ): त्रिंशत् (thirty) + शत (hundred) → त्रिंशच्छत."),
             [("त्रिंशच् + छत", "छत is not the word for hundred; the word is शत."),
              ("त्रिंशत् + छत", "छत is not the word for hundred; the छ comes from श."),
              ("त्रिंश + च्छत", "च्छत is not a word; the parts are त्रिंशत् and शत.")],
-            "त्रिंशत् + शत = त्रिंशच्छत: त् + श → च्छ.",
-            "त् + श → च्छ."),
+            "त्रिंशत् + शत = त्रिंशच्छत: त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ).",
+            "त् + श → च्छ (optional before a vowel or semivowel; च्श also correct)."),
         mcq("apply", 4, "अन्तराधौ in unit 146 ends in -औ. What form is it?",
             ("Locative singular: in the trunk", "The data: m. loc. sg. of the इ-stem अन्तराधि."),
             [("Nominative dual: two trunks", "The dual of an इ-stem would be अन्तराधी, not अन्तराधौ."),
@@ -347,13 +347,13 @@ AUTHORED["146"] = {
             "अन्तराधौ = in the trunk: -औ is the locative singular of a masculine इ-stem.",
             "-औ is not always dual: इ-stem m. locative singular ends in -औ."),
         mcq("transfer", 5, "By the rule of त्रिंशत् + शत → त्रिंशच्छत, how is एतत् + शरीरम् (this body) joined in a new example?",
-            ("एतच्छरीरम्", "त् + श → च्छ, as त्रिंशत् + शत → त्रिंशच्छत."),
+            ("एतच्छरीरम्", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ), as in त्रिंशत् + शत → त्रिंशच्छत."),
             [("एतद्शरीरम्", "द् comes before a voiced sound; श is unvoiced, and त् before श goes to च्."),
-             ("एतत्शरीरम्", "त् cannot stay before श; it becomes च्, and श becomes छ."),
+             ("एतत्शरीरम्", "त् cannot stay before श; it becomes च् (च्श, optionally च्छ before a vowel)."),
              ("एतज्शरीरम्", "ज् is voiced; before the unvoiced श the त् becomes च्.")],
             "एतत् + शरीरम् = एतच्छरीरम्, like त्रिंशत् + शत = त्रिंशच्छत.",
-            "त् + श → च्छ.",
-            teaches="त् + श → च्छ: त्रिंशत् + शत → त्रिंशच्छत."),
+            "त् + श → च्छ (optional before a vowel or semivowel; च्श also correct).",
+            teaches="त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ): त्रिंशत् + शत → त्रिंशच्छत."),
     ],
 }
 
@@ -727,7 +727,7 @@ NOTES_HI = {
             "डेटा की जाँच: एक अंग में ३० (अंगुलियाँ) + ३० (तल, कूर्च, गुल्फ) + ३० (जङ्घा) + १० (जानु) + ४० (ऊरु) + १० (वंक्षण) = १५०, × ४ = ६००। "
             "छपा ‘तेषां’ = तेषाम् (व्यंजन से पहले म् → ं); षट् + शतानि → षट्शतानि (कोई परिवर्तन नहीं)।"),
     "146": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। त्रिंशत् + शतद्वयम् = तीस और दो सौ = २३०। जाँच: ६०० + २३० + ७० = ९००, इकाई १४४ से मेल। "
-            "सन्धि जाँची: त्रिंशत् + शत → त्रिंशच्छत (त् + श → च्छ); शतद्वयम् + अन्तराधौ → शतद्वयमन्तराधौ (स्वर से पहले म् बना रहा); "
+            "सन्धि जाँची: त्रिंशत् + शत → त्रिंशच्छत, नियम: त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ); शतद्वयम् + अन्तराधौ → शतद्वयमन्तराधौ (स्वर से पहले म् बना रहा); "
             "छपा ‘मंतराधौ’ = मन्तराधौ (अनुस्वार वर्तनी)। अन्तराधौ = इ-अन्त पुंलिंग सप्तमी एकवचन।"),
     "147": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ऊर्ध्वम् = ऊपर; सम्भवतः गर्दन और सिर (जैसे इकाई १२२ में), निश्चित नहीं। "
             "सन्धि जाँची: ऊर्ध्वम् + सप्ततिः → ऊर्ध्वं सप्ततिः (व्यंजन से पहले अन्तिम म् → ं)।"),
@@ -784,7 +784,7 @@ AIDS = {
             {"label": "इकाई १४४ के ९०० स्नायुओं का बँटवारा (डेटा की जाँच)",
              "items": ["शाखाएँ: ६०० (इकाई १४५)", "अन्तराधि (धड़): २३० (इकाई १४६)", "ऊर्ध्व (ऊपर): ७० (इकाई १४७)"]}]},
         "chunks": "त्रिंशच्छतद्वयम् | अंतराधौ",
-        "sandhi": "त् + श → च्छ: त्रिंशत् + शत → त्रिंशच्छत।",
+        "sandhi": "त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ): त्रिंशत् + शत → त्रिंशच्छत।",
         "frame": "संख्या: त्रिंशत् (३०) + शतद्वयम् (२००) = २३० → कहाँ: अन्तराधौ (धड़ में; -औ यहाँ सप्तमी, द्विवचन नहीं)।",
     },
     "147": {

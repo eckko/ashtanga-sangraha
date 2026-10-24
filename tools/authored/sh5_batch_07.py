@@ -623,12 +623,12 @@ AUTHORED["87"] = {
               "बाह्य, स्वयोनि, शस्त्र, अश्मन्, कर्मण्य, उपहन्यते.", role="extend",
               teaches="योग = union; अतियोग = excessive union: the same contact that helps, in excess, harms."),
         mcq("discriminate", 3, "Which split of योगाच्छस्त्रम् in unit 87 is right?",
-            ("योगात् + शस्त्रम्", "त् before श becomes च्, and श after it is written छ: योगाच्छस्त्रम्."),
+            ("योगात् + शस्त्रम्", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ): योगाच्छस्त्रम्."),
             [("योगाः + शस्त्रम्", "A visarga before श would give योगाः शस्त्रम् or योगाश्शस्त्रम्, not च्छ."),
              ("योगम् + शस्त्रम्", "म् before श would give योगं शस्त्रम्, not च्छ."),
              ("योगात् + छस्त्रम्", "छस्त्रम् is not a word; the word is शस्त्रम् (weapon).")],
             "योगात् (through union) + शस्त्रम् (weapon) = योगाच्छस्त्रम्.",
-            "त् + श → च्छ (the usual written form)."),
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ)."),
         multi("apply", 4, "Which statements about unit 87 are right by the card?",
               [("The eye's tejas rests in the eye", "Right: नेत्राश्रितं तेजः."),
                ("The stone is known to be a whetstone", "The data: probably a whetstone, but the Sanskrit says only stone."),
@@ -638,13 +638,13 @@ AUTHORED["87"] = {
               "Union with its source makes the eye's tejas fit; excess harms it; the stone is only a stone.",
               "योगात् कर्मण्यं भवति; अतियोगादुपहन्यते."),
         mcq("transfer", 5, "By the rule of योगाच्छस्त्रम्, how is तत् + शरीरम् (that body) usually written?",
-            ("तच्छरीरम्", "त् before श becomes च् and the श is written छ, as योगात् + शस्त्रम्."),
+            ("तच्छरीरम्", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ), as in योगात् + शस्त्रम्."),
             [("तद्शरीरम्", "द् is taken before a voiced sound; श is unvoiced."),
              ("तत्शरीरम्", "Before श the त् does not stay; it becomes च्."),
              ("तश्शरीरम्", "श् comes from a visarga, not from त्.")],
             "तत् + शरीरम् = तच्छरीरम्, like योगात् + शस्त्रम् = योगाच्छस्त्रम्.",
-            "त् + श → च्छ (usual form).",
-            teaches="A final त् before श becomes च्, and the श after it is usually written छ: योगात् + शस्त्रम् → योगाच्छस्त्रम्."),
+            "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ).",
+            teaches="त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ): योगात् + शस्त्रम् → योगाच्छस्त्रम्."),
     ],
 }
 
@@ -802,7 +802,7 @@ NOTES_HI = {
            "बन्धनमिति; इति + उक्तम् → इत्युक्तम् (इ + उ → यु); उक्तम् + प्राक् → उक्तं प्राक् (व्यंजन से पहले म् → ं)।"),
     "87": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: ‘भवतिःअतियोगा...’ में भवति के बाद का विसर्ग सम्भवतः दण्ड की छपाई-भूल है; दो वाक्य जुड़े छपे हैं। "
            "पत्थर (अश्मन्) सम्भवतः सान का पत्थर, पर संस्कृत केवल ‘पत्थर’ कहती है। सन्धि जाँची: नेत्र + आश्रितम् → नेत्राश्रितम् (अ + आ → आ); "
-           "तेजः + बाह्य → तेजो बाह्य (अः + घोष व्यंजन → ओ); योगात् + शस्त्रम् → योगाच्छस्त्रम् (त् + श → च्छ); शस्त्रम् + इव → शस्त्रमिव; "
+           "तेजः + बाह्य → तेजो बाह्य (अः + घोष व्यंजन → ओ); योगात् + शस्त्रम् → योगाच्छस्त्रम्, नियम: त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ); शस्त्रम् + इव → शस्त्रमिव; "
            "इव + अश्मना → इवाश्मना (अ + अ → आ); अतियोगात् + उपहन्यते → अतियोगादुपहन्यते (स्वर से पहले त् → द्)।"),
     "88": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘तत्’ = इकाई ८७ का नेत्र-तेज। वड़वामुख = समुद्र के नीचे जलने वाली अग्नि (संस्कृत "
            "साहित्य में मानक)। छपा ‘वीर्य्यो’ में दोहरा य् छपाई की आदत। सन्धि जाँची: तत् + च → तच्च (च से पहले त् → च्); वैद्युतवत् + "
@@ -875,7 +875,7 @@ AIDS = {
         "chain": {"steps": ["नेत्र में आश्रित तेज", "बाहरी तेज (अपना उद्गम) से योग", "कर्म के योग्य (जैसे शस्त्र पत्थर से)",
                             "अतियोग से क्षति"]},
         "contrast": "योग ↔ अतियोग: बाहरी तेज से योग आँख के तेज को कर्मण्य बनाता है; अतियोग उसे उपहत करता है।",
-        "sandhi": "त् + श → च्छ: योगात् + शस्त्रम् → योगाच्छस्त्रम् · अ + अ → आ: इव + अश्मना → इवाश्मना।",
+        "sandhi": "त् + श → च्श, विकल्प से च्छ (श के बाद स्वर या य/व/र हो तो; छपा च्छ): योगात् + शस्त्रम् → योगाच्छस्त्रम् · अ + अ → आ: इव + अश्मना → इवाश्मना।",
         "story": "शस्त्र पत्थर पर घिसकर काम का बनता है; बहुत घिसो तो धार ही घिस जाती है। (मेरा बनाया चित्र; पाठ केवल शस्त्र और पत्थर कहता है)",
     },
     "88": {
