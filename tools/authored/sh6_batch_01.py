@@ -358,7 +358,7 @@ AUTHORED["6"] = {
 # ---------------------------------------------------------------- unit 7
 AUTHORED["7"] = {
     "title": "षट्त्रिंशं शतमंतराधौ",
-    "question": "By unit 7, how many sirās are in the antarādhi (trunk, probable)?",
+    "question": "By unit 7, how many (sirās, understood) are in the antarādhi (trunk, probable)?",
     "rule": ("A hundred with thirty-six added (षट्त्रिंशं शतम्) = 136 are in the antarādhi (अन्तराधौ: the trunk, between "
              "limbs and head; probable)."),
     "limits": ("Prose; confidence medium; the copula is understood. 'Trunk' for अन्तराधि is probable. The line appears "
@@ -371,7 +371,7 @@ AUTHORED["7"] = {
     "hook": "धड़ में सौ और छत्तीस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 7, how many sirās are in the antarādhi (trunk, probable)?",
+        mcq("pretest", 0, "By unit 7, how many (sirās, understood) are in the antarādhi (trunk, probable)?",
             ("One hundred and thirty-six", "षट्त्रिंशं शतम् = 136."),
             [("One hundred and sixty-four", "164 is the count above, unit 9."),
              ("Thirty-six with no hundred", "शतम् adds a hundred: 136, not 36."),
@@ -481,7 +481,7 @@ AUTHORED["8"] = {
 # ---------------------------------------------------------------- unit 9
 AUTHORED["9"] = {
     "title": "चतुःषष्ट्यधिकं शतमूर्ध्वं",
-    "question": "By unit 9, how many sirās are above, and which vessel should one not pierce?",
+    "question": "By unit 9, how many (sirās, understood) are above, and what should one not pierce?",
     "rule": ("A hundred with sixty-four in excess (164) are above (ऊर्ध्वम्); among those also fifty. A hundred in each "
              "sakthi (thigh). Among those one should not pierce (न विध्येत्) the jāladharā."),
     "limits": ("Two printed lines, prose; confidence medium. What the fifty are is not stated. Printed सक्थि is not the "
@@ -495,7 +495,7 @@ AUTHORED["9"] = {
     "hook": "ऊपर एक सौ चौंसठ; हर जाँघ में सौ; जालधरा को मत बेधो।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 9, how many sirās are above (ūrdhvam)?",
+        mcq("pretest", 0, "By unit 9, how many (sirās, understood) are above (ūrdhvam)?",
             ("One hundred and sixty-four", "चतुःषष्ट्यधिकं शतम् ऊर्ध्वम्: 164 above."),
             [("One hundred and thirty-six", "136 is the trunk's count (unit 7)."),
              ("Sixty-four with no hundred", "शतम् with अधिकम्: a hundred plus sixty-four."),
@@ -601,7 +601,7 @@ AUTHORED["10"] = {
 # ---------------------------------------------------------------- unit 11
 AUTHORED["11"] = {
     "title": "द्वात्रिंशच्छ्रोण्यां",
-    "question": "By unit 11, how many sirās are in the śroṇi, and what is their seat?",
+    "question": "By unit 11, how many (sirās, understood) are in the śroṇi, and what is their seat?",
     "rule": ("Thirty-two (द्वात्रिंशत्) are in the śroṇi (श्रोण्याम्: hip region, pelvis), having the guda (anus) and "
              "meḍhra (penis) as their seat (गुदमेढ्राश्रयाः)."),
     "limits": ("Prose; the copula is understood. आश्रय = seat, support; the line does not say more about how they rest. "
@@ -614,7 +614,7 @@ AUTHORED["11"] = {
     "hook": "श्रोणि में बत्तीस, गुद और मेढ्र के आश्रय से।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 11, how many sirās are in the śroṇi (hip region)?",
+        mcq("pretest", 0, "By unit 11, how many (sirās, understood) are in the śroṇi (hip region)?",
             ("Thirty-two", "द्वात्रिंशत् श्रोण्याम्: thirty-two in the śroṇi."),
             [("Twenty-four", "Twenty-four is the back's count (unit 13)."),
              ("Sixteen", "Sixteen is the count of the sides (unit 12)."),
@@ -630,7 +630,7 @@ AUTHORED["11"] = {
                ["मेढ्र", "penis"], ["आश्रय", "seat, support"]],
               "Thirty-two in the hip region, having the anus and penis as their seat.",
               "द्वात्रिंशत्, श्रोणि, गुद, मेढ्र, आश्रय.", role="extend",
-              teaches="गुदमेढ्राश्रयाः is a bahuvrīhi: 'having guda and meḍhra as seat', describing the 32 sirās."),
+              teaches="गुदमेढ्राश्रयाः is a bahuvrīhi: 'having guda and meḍhra as seat', describing the 32 (sirās, understood)."),
         mcq("discriminate", 3, "Which split of द्वात्रिंशच्छ्रोण्यां in unit 11 is right?",
             ("द्वात्रिंशत् + श्रोण्याम्", "त् + श → च्छ: द्वात्रिंशत् + श्रोण्याम् → द्वात्रिंशच्छ्रोण्याम्."),
             [("द्वात्रिंशः + श्रोण्याम्", "A visarga before श stays or becomes श्; it never gives च्छ."),
@@ -638,7 +638,7 @@ AUTHORED["11"] = {
              ("द्वात्रिंशच् + श्रोण्याम्", "The number word ends in त्, not च्; च् comes from the join.")],
             "द्वात्रिंशत् (thirty-two) + श्रोण्याम् (in the śroṇi): त् + श → च्छ.",
             "त् + श → च्छ."),
-        mcq("apply", 4, "By unit 11, what do the thirty-two sirās have as their seat (āśraya)?",
+        mcq("apply", 4, "By unit 11, what do the thirty-two (sirās, understood) have as their seat (āśraya)?",
             ("The guda and meḍhra", "गुदमेढ्राश्रयाः: having guda and meḍhra as seat."),
             [("The heart and chest", "Heart and chest are not named in unit 11."),
              ("The back and spine", "Back and spine are not named in unit 11."),
@@ -659,7 +659,7 @@ AUTHORED["11"] = {
 # ---------------------------------------------------------------- unit 12
 AUTHORED["12"] = {
     "title": "तासां द्वे द्वे वंक्षणयोः",
-    "question": "By unit 12, how are eight sirās of the hip placed, and how many are in the two sides?",
+    "question": "By unit 12, how are eight (sirās, understood) of the hip placed, and how many are in the two sides?",
     "rule": ("Of them, two each in the two groins (वङ्क्षणयोः) and the two kaṭīkataruṇas: thus eight (इत्यष्टौ); one "
              "should guard them. Sixteen in the two sides (पार्श्वयोः); in each side one going upward, named pārśvasandhi."),
     "limits": ("Two printed lines, prose; confidence low. Printed शखतो is not a word; 'from the knife' (शस्त्रतः) is a "
@@ -673,7 +673,7 @@ AUTHORED["12"] = {
     "hook": "दो-दो, दो-दो: आठ की रक्षा; बगलों में सोलह, ऊपर एक-एक पार्श्वसन्धि।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 12, how many sirās are in the two sides (pārśva)?",
+        mcq("pretest", 0, "By unit 12, how many (sirās, understood) are in the two sides (pārśva)?",
             ("Sixteen", "षोडश पार्श्वयोः: sixteen in the two sides."),
             [("Eight", "Eight is the total of the groins and kaṭīkataruṇas."),
              ("Thirty-two", "Thirty-two is the śroṇi's count (unit 11)."),
@@ -721,7 +721,7 @@ AUTHORED["12"] = {
 # ---------------------------------------------------------------- unit 13
 AUTHORED["13"] = {
     "title": "चतुर्विंशतिः पृष्ठे",
-    "question": "By unit 13, how many sirās are in the back (pṛṣṭha)?",
+    "question": "By unit 13, how many (sirās, understood) are in the back (pṛṣṭha)?",
     "rule": ("Twenty-four (चतुर्विंशतिः) are in the back (पृष्ठे)."),
     "limits": ("Prose, two words; the copula is understood. The line does not say where in the back they lie; the "
                "next line places four of them."),
@@ -733,7 +733,7 @@ AUTHORED["13"] = {
     "hook": "पीठ में चौबीस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 13, how many sirās are in the back?",
+        mcq("pretest", 0, "By unit 13, how many (sirās, understood) are in the back?",
             ("Twenty-four", "चतुर्विंशतिः पृष्ठे: twenty-four in the back."),
             [("Thirty-two", "Thirty-two is the śroṇi's count (unit 11)."),
              ("Sixteen", "Sixteen is the count of the sides (unit 12)."),
@@ -756,7 +756,7 @@ AUTHORED["13"] = {
              ("The backs (nominative plural)", "The backs would be पृष्ठानि.")],
             "पृष्ठे = in the back.",
             "अ-stem, locative singular: -े."),
-        mcq("apply", 4, "By units 11 to 13, which region has the most sirās?",
+        mcq("apply", 4, "By units 11 to 13, which region has the most (sirās, understood)?",
             ("The hip region (śroṇi)", "Śroṇi 32 (unit 11) is more than back 24 or sides 16."),
             [("The back (pṛṣṭha)", "The back has 24 (unit 13), fewer than the śroṇi's 32."),
              ("The two sides (pārśva)", "The sides have 16 (unit 12), fewer than 32."),
