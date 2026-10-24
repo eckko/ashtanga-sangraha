@@ -964,7 +964,7 @@ AIDS = {
 
 IMAGE_SPECS = {
     ("26", "diagram"): {
-        "file": "ka4-virecana-26.svg",
+        "file": "ka4-trivrit-26.svg",
         "alt": ("Two columns for verse 26: line 1 the root of shyama and trivrit, and the item born of danti and dravanti; "
                 "line 2 prakirya, udakirya, kshirini, nilini and fruit"),
         "type": "split",
