@@ -10,8 +10,8 @@ AUTHORED["55"] = {
     "rule": ("Urvī, lohitākhya, nābhi, hṛdaya, stanamūla and the rest, down to śṛṅgāṭaka: forty-one vessel-marmas "
              "(एकचत्वारिंशत् सिरा-मर्माणि), the second of the five kinds by structure."),
     "limits": ("Verbless prose list. Printed मन्मा is read as manyā only by conjecture; अलाप is probably the apālāpa "
-               "of unit 26. No question rests on either, or on the count check (forty-one counts sides and limbs, not "
-               "printed). Printed शिरा = सिरा."),
+               "of unit 26. No question rests on either, or on the count forty-one (it counts sides and limbs by the "
+               "data's count check, not printed). Printed शिरा = सिरा."),
     "explain_hi": ("रचना के अनुसार पाँच भेदों में दूसरा: सिरा-मर्म। "
                    "उर्वी, लोहिताख्य, नाभि, हृदय, स्तनमूल, अपस्तम्भ, अलाप, पार्श्वसन्धि, बृहती, नीला, मन्या (अनुमानित पाठ), मातृका, फण, अपाङ्ग, स्थपनी और शृङ्गाटक: ये इकतालीस सिरा-मर्म हैं। "
                    "नाभि और हृदय सामान्य शब्द भी हैं (नाभि, हृदय: मानक); बाकी नाम मर्म-नाम ही रखे गए। "
@@ -20,22 +20,22 @@ AUTHORED["55"] = {
     "hook": "सिरा-मर्म इकतालीस: उर्वी से शृङ्गाटक तक।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 55, how many vessel-marmas (sirā-marma) are counted?",
-            ("Forty-one (ekacatvāriṃśat)", "एकचत्वारिंशच्छिरा मर्माणि: forty-one vessel-marmas."),
-            [("Eleven (ekādaśa)", "Eleven is the count of the flesh-marmas (unit 54)."),
-             ("Twenty-seven (saptaviṃśati)", "Twenty-seven is the count of the sinew-marmas (unit 56)."),
-             ("Twenty (viṃśati)", "Twenty is the count of the joint-marmas (unit 58).")],
-            "Forty-one vessel-marmas.",
-            "एकचत्वारिंशच्छिरा मर्माणि."),
+        mcq("pretest", 0, "By unit 55, what kind of marma are urvī, nābhi and hṛdaya?",
+            ("Vessel-marmas (sirā-marma)", "उर्वी ... एकचत्वारिंशच्छिरा मर्माणि: they are vessel-marmas."),
+            [("Sinew-marmas (snāva-marma)", "The sinew-marmas of unit 56 begin with kṣipra and kūrca."),
+             ("Bone-marmas (asthi-marma)", "The bone-marmas of unit 57 are kaṭīkataruṇa, nitamba, aṃsaphalaka and śaṅkha."),
+             ("Joint-marmas (sandhi-marma)", "The joint-marmas of unit 58 begin with gulpha and maṇibandha.")],
+            "Vessel-marmas.",
+            "उर्वी ... शिरा मर्माणि."),
         order(1, "Put these marma names of unit 55 in the printed order.",
               ["उर्वी", "नाभि", "पार्श्वसंधि", "मातृका", "स्थपनी", "शृंगाटक"],
               "The list runs from urvī through nābhi, pārśvasandhi and mātṛkā to sthapanī and śṛṅgāṭaka.",
               "उर्वी → नाभि → पार्श्वसंधि → मातृका → स्थपनी → शृंगाटक."),
         match(2, "Match each word of unit 55 to its meaning.",
-              [["शिरा (सिरा)", "vessel"], ["एकचत्वारिंशत्", "forty-one"], ["नाभि", "navel (standard)"],
+              [["शिरा (सिरा)", "vessel"], ["मूल", "root, base"], ["नाभि", "navel (standard)"],
                ["हृदय", "heart (standard)"], ["मर्माणि", "marmas (vital points)"]],
-              "Forty-one marmas of the vessels; nābhi and hṛdaya are also the ordinary words for navel and heart.",
-              "शिरा, एकचत्वारिंशत्, नाभि, हृदय, मर्माणि.", role="extend",
+              "Marmas of the vessels (stana-mūla = breast-root); nābhi and hṛdaya are also the ordinary words for navel and heart.",
+              "शिरा, मूल, नाभि, हृदय, मर्माणि.", role="extend",
               teaches="सिरामर्म is a tat-puruṣa, a marma of vessels: the second kind by structure. The print spells सिरा as शिरा."),
         mcq("discriminate", 3, "Which split of फणापांग in unit 55 is right?",
             ("फण + अपाङ्ग", "अ + अ → आ: फण + अपाङ्ग → फणापाङ्ग; both are marma names of the list."),
@@ -133,8 +133,8 @@ AUTHORED["57"] = {
                "is as printed; how it is reached is not stated in the line."),
     "explain_hi": ("रचना के अनुसार चौथा भेद: अस्थि-मर्म। "
                    "कटीकतरुण, नितम्ब (नितम्ब, कूल्हा: मानक शब्दार्थ), अंसफलक (सम्भवतः कन्धे की चपटी हड्डियाँ) और शङ्ख (सम्भवतः कनपटियाँ): ये आठ अस्थि-मर्म हैं। "
-                   "‘तु’ पिछली सूची से हल्का भेद दिखाता है। "
-                   "पूरी पंक्ति एक ही छपा शब्द-समूह है, जिसमें तीन सन्धियाँ हैं: शङ्खाः + तु → शङ्खास्तु (त से पहले विसर्ग → स्), "
+                   "‘तु’ को पिछली सूची से हल्का भेद माना गया है। "
+                   "पूरी पंक्ति एक ही छपा शब्द-समूह है, जिसमें चार सन्धियाँ हैं: नितम्ब + अंसफलक → नितम्बांसफलक (अ + अ → आ), शङ्खाः + तु → शङ्खास्तु (त से पहले विसर्ग → स्), "
                    "तु + अष्टौ → त्वष्टौ (उ + अ → व), अष्टौ + अस्थि → अष्टावस्थि (औ + स्वर → आव्)।"),
     "hook": "अस्थि-मर्म आठ: कटीकतरुण, नितम्ब, अंसफलक, शङ्ख।",
     "core": False,
@@ -245,9 +245,9 @@ AUTHORED["59"] = {
     "question": "By unit 59, what opens the second fivefold division, and which parts of the line are sure?",
     "rule": ("And again in five ways (पुनश्च पञ्चधा): nineteen marmas, among them nābhi, hṛdaya, mātṛkā, śaṅkha, "
              "śṛṅgāṭaka and adhipati, take life at once (सद्यः प्राणहराणि), because they are fiery (आग्नेयत्वात्)."),
-    "limits": ("Low confidence. गुदब is damaged; स्तन is doubtful (conjecture: a damaged गुदबस्ति-नाभि); समरात्र is "
-               "not a known word (सप्तरात्र, seven nights, only possible). No question rests on these, the full list or "
-               "the time. Nineteen is as printed, uncheckable."),
+    "limits": ("Low confidence. गुदब is damaged; स्तन is doubtful; समरात्र is unknown (सप्तरात्र only possible). No "
+               "question rests on these, the full list or the time. Nineteen is as printed; the data's count check "
+               "reaches it only by reading the damaged start as guda and basti."),
     "explain_hi": ("‘पुनश्च पञ्चधा’ से मर्मों का दूसरा पाँच-भेद आरम्भ होता है, अब जीवन पर परिणाम के अनुसार; डेटा के निरीक्षण में पाँचों के शीर्षक इकाई ५९, ६०, ६२, ६४ और ६६ में हैं (यह विन्यास का निरीक्षण है, पंक्ति स्वयं नहीं कहती)। "
                    "पहला भेद: उन्नीस मर्म जो तत्काल (सद्यः) प्राण हरते हैं, आग्नेय यानी अग्नि-स्वभाव के होने से। "
                    "नाभि, हृदय, मातृका, शङ्ख, शृङ्गाटक और अधिपति पक्के नाम हैं; सूची का पहला शब्द ‘गुदब’ बिगड़ा है और ‘स्तन’ संदिग्ध है (अनुमान: गुदबस्ति-नाभि)। "
@@ -263,7 +263,7 @@ AUTHORED["59"] = {
              ("Become sources of pain", "That is the eight of unit 66 (rujākara).")],
             "Nineteen take life at once.",
             "एकोनविंशति सद्यः प्राणहराणि."),
-        order(1, "Put these printed words of unit 59 in the line's order.",
+        order(1, "Put these parts of unit 59 in the line's order.",
               ["पुनश्च", "पंचधा", "एकोनविंशति", "सद्यः", "प्राणहराण्याग्नेयत्वात्"],
               "Again; in five ways; nineteen; at once; life-taking, because of being fiery.",
               "पुनश्च → पंचधा → एकोनविंशति → सद्यः → प्राणहराण्याग्नेयत्वात्."),
@@ -332,11 +332,11 @@ AUTHORED["60"] = {
               "Thirty-three take life after an interval of time; their time is within a fortnight.",
               "काल, अन्तर, पक्ष, अभ्यन्तरम्, सौम्य, त्रयस्त्रिंशत्.", role="extend",
               teaches="कालान्तर = an interval of time; पक्षाभ्यन्तरम् = within a fortnight."),
-        mcq("discriminate", 3, "By unit 60, why do these marmas take life only after an interval?",
+        mcq("discriminate", 3, "By unit 60, why do these marmas take life after an interval?",
             ("They are saumya and āgneya both", "सौम्याग्नेयत्वात्: because of being saumya and āgneya."),
             [("They are āgneya, fiery, alone", "Āgneya alone is the reason of unit 59 (death at once)."),
              ("They are saumya, cool, alone", "Saumya alone is the reason of unit 64 (impairment)."),
-             ("They are vāyavya, of Vāyu", "Vāyavya is the reason of unit 62 (viśalyaghna).")],
+             ("They are vāyavya and saumya", "Unit 60 says saumya and āgneya (सौम्याग्नेयत्वात्); vāyavya is the reason of unit 62.")],
             "Because they are both saumya and āgneya.",
             "सौम्याग्नेयत्वात् = because of being saumya and āgneya."),
         mcq("apply", 4, "By unit 60, within what time do these marmas take life?",
@@ -385,7 +385,7 @@ AUTHORED["61"] = {
               "Even among those; however; the kṣipras; sometimes quickly.",
               "तेष्वपि → तु → क्षिप्राणि → कदाचिदाशु."),
         fill(2, "Unit 61: तेष्वपि तु क्षिप्राणि कदाचिद् ____ (quickly). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("आशु"),
+             accepts("आशु", None, "ashu"),
              "आशु (quickly): कदाचित् + आशु, printed कदाचिदाशु.",
              "आशु is an indeclinable, 'quickly'; कदाचित् = sometimes.",
              "कदाचिदाशु = कदाचित् आशु."),
@@ -458,7 +458,7 @@ AUTHORED["62"] = {
             "विशल्यघ्नानि वायव्यत्वात्."),
         mcq("apply", 4, "Which marmas does unit 62 call viśalyaghna?",
             ("The two utkṣepas and the sthapanī", "उत्क्षेपौ स्थपनी च त्रीणि."),
-            [("The two śaṅkhas and the sthapanī", "Śaṅkha is printed among the nineteen of unit 59."),
+            [("The two śaṅkhas and the adhipati", "Both are printed among the nineteen of unit 59."),
              ("The two apāṅgas and the sthapanī", "Apāṅga is among the forty-four of unit 64."),
              ("The two utkṣepas and the adhipati", "Adhipati is among the nineteen of unit 59.")],
             "Two utkṣepas and one sthapanī: three.",
@@ -525,7 +525,7 @@ AUTHORED["63"] = {
         mcq("transfer", 5, "By the rule of तावज्जीवति (तावत् + जीवति), how is सत् + जनः (a good person) joined in a new example?",
             ("सज्जनः", "त् before ज becomes ज्, as तावत् + जीवति → तावज्जीवति."),
             [("सत्जनः", "त् cannot stay unchanged before the voiced ज."),
-             ("सच्जनः", "च् comes before च or छ, not before ज."),
+             ("सच्जनः", "च् comes before the voiceless palatals (च, छ, श), not before the voiced ज."),
              ("सञ्जनः", "ञ् is a nasal; त् does not become a nasal before ज.")],
             "सत् + जनः = सज्जनः, like तावत् + जीवति = तावज्जीवति.",
             "त् + ज → ज्ज.",
@@ -537,11 +537,11 @@ AUTHORED["63"] = {
 AUTHORED["64"] = {
     "title": "चतुश्चत्वारिंशद्वैकल्यकराणि",
     "question": "By unit 64, which marmas cause impairment (vaikalya), and why?",
-    "rule": ("Kūrca, jānu, kūrpara, urvī, viṭapa, apāṅga, āvarta and others: forty-four marmas cause impairment "
+    "rule": ("Kūrca, jānu, kūrpara, urvī, viṭapa, phaṇa, apāṅga and others: forty-four marmas cause impairment "
              "(वैकल्यकराणि), because they are saumya, soft, of Soma (सौम्यत्वात्)."),
     "limits": ("Verbless list. Printed मन्द्या is manyā only by conjecture; कूर्पराणि is read kūrpara + āṇi; the printed "
                "names give 42, so forty-four is open (data's count check). No modern equivalent of vaikalya is stated. "
-               "No question rests on manyā, āṇi or the count."),
+               "No question rests on manyā, āṇi, āvarta (printed आवार्त) or the count."),
     "explain_hi": ("परिणाम के अनुसार चौथा भेद: वैकल्यकर, यानी अंग या इन्द्रिय में वैकल्य (अपूर्णता) करने वाले। "
                    "कूर्च, जानु, कूर्पर, आणि, उर्वी, लोहिताख्य, विटप, कक्षाधर, कुकुन्दर, अंसफलक, नीला, मन्या (अनुमानित पाठ), कृकाटिका, विधुर, फण, अपाङ्ग और आवर्त: ये चवालीस हैं, सौम्य होने से। "
                    "वैकल्य का कोई आधुनिक समतुल्य (विकृति या अक्षमता) पाठ में नहीं कहा गया। "
@@ -550,7 +550,7 @@ AUTHORED["64"] = {
     "hook": "सौम्य होने से चवालीस वैकल्यकर।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 64, what do its forty-four marmas cause?",
+        mcq("pretest", 0, "By unit 64, what do the marmas of its list cause?",
             ("Impairment (vaikalya)", "वैकल्यकराणि: they cause impairment."),
             [("Death at once (sadyaḥ)", "Death at once is said of the nineteen of unit 59."),
              ("Pain (ruj)", "Pain is said of the eight of unit 66."),
@@ -563,9 +563,9 @@ AUTHORED["64"] = {
               "कूर्च्च → जानु → उर्वी → विटप → कुकुंदर → अंसफलक."),
         match(2, "Match each word of unit 64 to its meaning.",
               [["वैकल्य", "impairment"], ["कर", "causing"], ["सौम्य", "soft, of Soma"],
-               ["चतुश्चत्वारिंशत्", "forty-four"]],
-              "Forty-four cause impairment, because they are saumya.",
-              "वैकल्य, कर, सौम्य, चतुश्चत्वारिंशत्.", role="extend",
+               ["कूर्पर", "elbow (standard)"]],
+              "These cause impairment, because they are saumya; kūrpara is also the ordinary word for elbow.",
+              "वैकल्य, कर, सौम्य, कूर्पर.", role="extend",
               teaches="वैकल्यकर = वैकल्य (impairment) + -कर (causing); सौम्यत्वात् = because of being saumya."),
         mcq("discriminate", 3, "Which split of चतुश्चत्वारिंशद्वैकल्यकराणि in unit 64 is right?",
             ("चतुश्चत्वारिंशत् + वैकल्यकराणि", "त् before the voiced व becomes द्: -शत् + वैकल्य- → -शद्वैकल्य-."),
@@ -574,7 +574,7 @@ AUTHORED["64"] = {
              ("चतुश्चत्वारिंशति + वैकल्यकराणि", "That would stay -शति वैकल्य-, with no द्.")],
             "चतुश्चत्वारिंशत् (forty-four) + वैकल्यकराणि (causing impairment).",
             "त् + voiced consonant → द्."),
-        multi("apply", 4, "Which are named in unit 64 among the forty-four that cause impairment?",
+        multi("apply", 4, "Which are named in unit 64 among the marmas that cause impairment?",
               [("Nābhi", "Nābhi is among the nineteen that kill at once (unit 59)."),
                ("Jānu", "Right: जानु is in the list."),
                ("Śaṅkha", "Śaṅkha is printed among the nineteen of unit 59."),
@@ -635,15 +635,15 @@ AUTHORED["65"] = {
              ("प्राणा + न्धारयति", "न्धारयति is not a word.")],
             "प्राणान् (the life-breaths) + धारयति (sustains).",
             "Final न् before ध is unchanged."),
-        mcq("apply", 4, "In unit 65, what does तानि (those) refer to, by the data?",
-            ("The saumya marmas of unit 64", "तानि (n. pl.) = the forty-four saumya marmas of unit 64."),
-            [("The fiery marmas of unit 59", "Those are āgneya; the line follows Soma and the saumya marmas."),
-             ("The prāṇas, the life-breaths", "प्राण is masculine (प्राणान्); तानि is neuter."),
-             ("The three marmas of unit 62", "Those are of Vāyu; the line follows Soma and the saumya marmas.")],
-            "The saumya marmas of unit 64.",
-            "तानि → the saumya marmas (unit 64)."),
+        mcq("apply", 4, "By unit 65, when do 'those' marmas kill?",
+            ("Sometimes, when struck", "कदाचिदभिहतानि मारयन्ति: sometimes, when struck, they kill."),
+            [("Always, when struck", "कदाचित् means sometimes, not always."),
+             ("Only when the dart is drawn out", "That is viśalyaghna, said of the three of unit 62."),
+             ("Never; they only cause pain", "The line says they kill (मारयन्ति).")],
+            "Sometimes, when struck.",
+            "कदाचित् = sometimes; अभिहत = struck."),
         mcq("transfer", 5, "By the pattern of मारयन्ति (cause to die, from √मृ), what does पाठयति (from √पठ्) mean in a new example?",
-            ("Causes to read, teaches", "-अयति is the causative: √पठ् → पाठयति, causes to read."),
+            ("Causes to read, teaches", "Here पाठ- + -अयति, with the lengthened आ, is the causative of √पठ्: causes to read."),
             [("Reads, by itself", "That would be the plain present पठति."),
              ("Is being read", "That would be the passive पठ्यते."),
              ("Will read later", "That would be the future पठिष्यति.")],
@@ -690,7 +690,7 @@ AUTHORED["66"] = {
             ("Abundant qualities of Agni, Vāyu and Soma", "अग्निवायुसोमगुणबाहुल्यात्: all three, in abundance."),
             [("Abundant qualities of Soma alone, the cool one", "Soma alone (saumya) is the reason of unit 64."),
              ("Abundant qualities of Agni alone, the fiery one", "Agni alone (āgneya) is the reason of unit 59."),
-             ("Abundant qualities of Vāyu alone, the wind", "Vāyu alone (vāyavya) is the reason of unit 62.")],
+             ("Abundant qualities of Soma and Vāyu", "Unit 66 names Agni as well: अग्निवायुसोमगुणबाहुल्यात्.")],
             "Because of an abundance of the qualities of Agni, Vāyu and Soma.",
             "अग्निवायुसोमगुणबाहुल्यात्."),
         mcq("apply", 4, "In the division by outcome (units 59 to 66), which class does the wrist marma (maṇibandha) belong to?",
@@ -731,7 +731,7 @@ AUTHORED["67"] = {
             ("Agni and Vāyu", "अग्निवायू हि विशेषेण रुजाकरौ."),
             [("Soma and Vāyu", "Soma is not named in unit 67."),
              ("Agni and Soma", "Soma is not named in unit 67."),
-             ("Soma and Prāṇa", "Neither is named in unit 67.")],
+             ("Agni and Prāṇa", "Prāṇa is not named in unit 67.")],
             "Agni and Vāyu.",
             "अग्निवायू ... रुजाकरौ."),
         order(1, "Put the words of unit 67 in the printed order.",
@@ -1008,7 +1008,7 @@ IMAGE_SPECS = {
         "code": ("flowchart TD\n"
                  "  A[\"उत्क्षेप: दो\"] --> C[\"तीन विशल्यघ्न\"]\n"
                  "  B[\"स्थपनी: एक\"] --> C\n"
-                 "  C --> D[\"कारण: वायु का स्वभाव\"]\n"),
+                 "  D[\"कारण: वायु का स्वभाव\"] --> C\n"),
     },
     ("65", "chain"): {
         "file": "sh7-soma-65.svg",
