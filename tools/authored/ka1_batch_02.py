@@ -962,7 +962,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("12", "diagram"): {
         "file": "ka1-nine-decoctions-12.svg",
-        "alt": ("Mind map of unit 12: a decoction of any one of nine drugs in the order of the text: yashtimadhuka, kovidara, "
+        "alt": ("Mind map of unit 12: a decoction of any one of nine drugs (listed here in text order): yashtimadhuka, kovidara, "
                 "karbudara, nipa, vidula, bimbi, shanapushpi, sadapushpi, pratyakpushpi"),
         "type": "mermaid",
         "code": ("mindmap\n  किसी एक का काढ़ा\n    यष्टीमधुक\n    कोविदार\n    कर्बुदार\n    नीप\n    विदुल\n"
