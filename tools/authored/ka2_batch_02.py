@@ -77,20 +77,20 @@ AUTHORED["14"] = {
                "tuber. Printed -dhyāṃ is read as -bhyāṃ (misprint). No amounts or patients are named."),
     "explain_hi": ("इस श्लोक में पाँच द्रव्य हैं: अजगन्धा, तवक्षीरी, विदारी यानी विदारीकन्द, शर्करा और त्रिवृत्। "
                    "अजगन्धा और तवक्षीरी की पहचान विवादित है, विदारी की सम्भावित। इन्हें चूर्ण करके मधु और घृत के साथ चाटा जाता है। "
-                   "‘लीढ्वा’ = चाटकर, और ‘विरिच्यते’ कर्मवाच्य है: (मनुष्य) विरेचित होता है। "
+                   "‘लीढ्वा’ = चाटकर, और ‘विरिच्यते’ भाववाच्य (डेटा: impersonal passive) है: (मनुष्य) विरेचित होता है। "
                    "‘साधु’ = भली-भाँति; मात्रा नहीं बताई गई।"),
     "hook": "पाँच का चूर्ण, मधु-घी में चाटो, अच्छा विरेचन।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "How does verse 14 say the powdered drugs are taken?",
-            ("Licked with honey and ghee",
-             "मधुसर्पिर्भ्यां लीढ्वा = having licked with honey and ghee."),
-            [("Drunk with warm milk and sugar", "Milk is not named in this verse."),
-             ("Boiled in sesame oil", "No oil and no boiling are named here."),
-             ("Eaten with meat juice", "Meat juice is the Vāta vehicle of line 05.02.8, not this verse.")],
-            "चूर्णितं मधुसर्पिर्भ्यां लीढ्वा साधु विरिच्यते.",
-            "चूर्ण + मधु-सर्पिः → लीढ्वा → विरिच्यते."),
+            "What does verse 14 say happens once the powder has been licked?",
+            ("One is well purged",
+             "साधु विरिच्यते = one is well purged."),
+            [("One vomits the doṣas out", "The verse says विरिच्यते, is purged; vomiting is not named."),
+             ("One's fever goes down", "No fever or other ailment is named in this verse."),
+             ("One sleeps the whole night", "Sleep is not named; the verse names purgation.")],
+            "लीढ्वा साधु विरिच्यते: having licked, one is well purged.",
+            "लीढ्वा → साधु विरिच्यते."),
         match(1, "Match each word of verse 14 to its meaning.",
               [["चूर्णितम्", "powdered"], ["लीढ्वा", "having licked"], ["साधु", "well"],
                ["विरिच्यते", "one is purged"], ["शर्करा", "sugar"]],
@@ -461,7 +461,7 @@ AUTHORED["19"] = {
 AUTHORED["20"] = {
     "title": "परिमार्ष्टि गदान् बहून्",
     "question": "What does the viḍaṅga preparation do, and which drugs open the Kalyāṇaka guḍa list?",
-    "rule": ("It wipes away the (Kapha-Vāta, reading doubtful) and many other ailments. A new list "
+    "rule": ("It wipes away the Kapha-Vāta rutas (reading doubtful, perhaps pains) and many other ailments. A new list "
              "begins: viḍaṅga, root of pippalī, triphalā, dhānya (coriander, probable) and citraka (leadwort)."),
     "limits": ("Low confidence. kaphavātarutān is doubtful (ruta = cry; perhaps a ruj- pain word, open). "
                "pippalīmūla may be one drug name. The list's measures and use come in lines "
@@ -595,7 +595,7 @@ AUTHORED["22"] = {
     "limits": ("The printed guḍārddhatulāṃnvitāna is a misprint (read -tulānvitān); no question rests on "
                "it. pala, prastha and tulā are kept as the text gives them. The data reads eight palas "
                "each; the dual implies it. Cooking follows in line 05.02.33."),
-    "explain_hi": ("अब कल्याणक गुड के मुख्य भाग: तिल यानी तिल का तेल और त्रिवृत् का चूर्ण, दो भाग, आठ-आठ पल नापे हुए। "
+    "explain_hi": ("अब कल्याणक गुड के मुख्य भाग: तिलतैल यानी तिल का तेल और त्रिवृत् का चूर्ण, दो भाग, आठ-आठ पल नापे हुए। "
                    "‘भागौ’ द्विवचन है: ये दो भाग। फिर धात्री यानी आँवले के फल के रस के तीन प्रस्थ, और उनके साथ आधा तुला गुड़। "
                    "पल, प्रस्थ और तुला माप हैं; उन्हें यहाँ बदलकर नहीं लिखा गया। पकाने की विधि अगली पंक्ति में है।"),
     "hook": "तेल-निसोथ आठ पल, आँवला-रस तीन प्रस्थ, गुड़ आधा तुला।",
@@ -779,7 +779,7 @@ AUTHORED["24"] = {
 
 NOTES_HI = {
     "13": "विश्वास: मध्यम। छपा ‘मधुट्रीजात’ में ‘ट्री’ छपाई की भूल है, ‘त्रिजात’ पढ़ें (डेटा का फ़्लैग; इस पर प्रश्न नहीं)। त्रिजात = सम्भवतः दालचीनी, इलायची, तेजपात (probable)। ‘त्रिवृत्कल्ककषाय’ = कल्क से बना क्वाथ, या कल्क और क्वाथ, दोनों पढ़े जा सकते हैं; डेटा पहला लेता है। सित = शर्करा। डेटा हिम और लेह को एक वाक्य मानता है; दो अलग योग भी हो सकते हैं, इस पर प्रश्न नहीं। संधि जाँची: ससितो हिमः = ससितः + हिमः (अः → ओ घोष ह से पहले); लेहो हृद्यं = लेहः + हृद्यम्।",
-    "14": "विश्वास: मध्यम। छपा ‘मधुसर्पिर्ध्यां’ = मधुसर्पिर्भ्याम् (ध्या/भ्या की भूल, डेटा का फ़्लैग; प्रश्न में शुद्ध रूप ही, फ़्लैग पर प्रश्न नहीं)। अजगन्धा और तवक्षीरी की पहचान विवादित; विदारी = Pueraria tuberosa (probable; Ipomoea digitata भी विदारी कहलाती है)। ‘अजगंधा’ छपा रूप (अजगन्धा)। ‘विरिच्यते’ भाववाच्य: ‘मनुष्य’ जोड़ा गया है। संधि: लीढ्वा = √लिह् + त्वा (ह + त → ढ)।",
+    "14": "विश्वास: मध्यम। छपा ‘मधुसर्पिर्ध्यां’ = मधुसर्पिर्भ्याम् (ध्या/भ्या की भूल, डेटा का फ़्लैग; प्रश्न में शुद्ध रूप ही, फ़्लैग पर प्रश्न नहीं)। अजगन्धा और तवक्षीरी की पहचान विवादित; विदारी = Pueraria tuberosa (probable; Ipomoea digitata भी विदारी कहलाती है)। ‘अजगंधा’ छपा रूप (अजगन्धा)। ‘विरिच्यते’ भाववाच्य: ‘मनुष्य’ जोड़ा गया है। संधि: लीढ्वा = √लिह् + त्वा (ह् + त → ढ; पहला ढ् लुप्त होता है, इसलिए इ दीर्घ होकर ई: लि → ली)।",
     "15": "विश्वास: मध्यम। ‘सन्निपातज्वर’ एक पद (सन्निपात-ज्वर) या दो पद हो सकते हैं; डेटा दो लेता है। खुली टिप्पणी (OPEN 05.02.18): छपा ‘गंडिकं’ नपुंसक है, सामान्य शब्द स्त्रीलिंग गण्डिका है, ‘गंडिकां’ हो सकता है; इस पर प्रश्न नहीं। वाक्य पंक्ति ०५.०२.१९ तक चलता है। संधि जाँची: लिंपेदंतस्त्रिवृतया = लिम्पेत् + अन्तः + त्रिवृतया (त् → द् स्वर से पहले; विसर्ग → स् त से पहले); द्विधाकृतेक्षु = द्विधाकृत + इक्षु (अ + इ → ए)।",
     "16": "विश्वास: निम्न। पहली पंक्ति पिछले श्लोक का वाक्य पूरा करती है; डेटा के अनुसार इस पंक्ति का जोड़ीदार अर्ध स्पष्ट नहीं, पंक्ति छूटी हो सकती है। दूसरी पंक्ति में दो बार ‘तैः’ है; कौन किसके बराबर है, यह अस्पष्ट (सम्भवतः त्रिवृत् उनके बराबर और शर्करा उनके बराबर); इस पर प्रश्न नहीं। भृंग (प्रायः भृंगराज, यहाँ अनिश्चित) और नीली (सम्भवतः नील का पौधा) की पहचान अनिश्चित। संधि: तत्स्विन्नं = तत् + स्विन्नम्; भृंगैलाभ्यां = भृंग + एलाभ्याम् (अ + ए → ऐ); तैस्त्रिवृत् = तैः + त्रिवृत्।",
     "17": "विश्वास: मध्यम। चूर्ण = पंक्ति ०५.०२.२० का (नीली आदि)। ‘तर्पण’ शब्दकोश में ‘satiation’ है, डेटा ‘satiating draught’ लिखता है। अनल = सम्भवतः पाचन-अग्नि (पाठ में नहीं कहा)। ‘अल्पानलेषु’ व्यक्तियों के रूप में पढ़ा गया। फल का प्रकार और सक्तु का अनाज नहीं बताए। संधि जाँची: सक्तुभिस्तर्पणं = सक्तुभिः + तर्पणम्; रोगेष्वल्पानलेषु = रोगेषु + अल्प + अनलेषु (उ + अ → व; अ + अ → आ); कफोत्थेषु = कफ + उत्थेषु।",
@@ -863,7 +863,7 @@ AIDS = {
         "anchors": "तिल = तिल · धात्री = आँवला · पल, प्रस्थ, तुला = माप (बदले नहीं गए) · भागौ = दो भाग।",
     },
     "23": {
-        "chain": {"steps": ["पक्त्वा: पकाना", "मृद्वग्निना: धीमी आँच पर", "ततः खादेत्: फिर खाना", "मात्राम्: मात्रा के अनुसार"]},
+        "chain": {"steps": ["पक्त्वा मृद्वग्निना: धीमी आँच पर पकाना", "ततः खादेत्: फिर खाना", "मात्राम्: मात्रा के अनुसार (डेटा का पाठ; ‘अयन्त्रणः’ से भी जुड़ सकता है)"]},
         "chunks": "पक्त्वा मृद्वग्निना | खादेत्ततो मात्रामयंत्रणः || मंदाग्नित्वं ज्वरं मूर्च्छा | मूत्रकृच्छ्रमरोचके",
         "sandhi": "उ + अ → व: मृदु + अग्निना → मृद्वग्निना; त् + त → त्त: खादेत् + ततः → खादेत्ततः।",
         "anchors": "मृदु = धीमी · मन्दाग्नित्व = पाचन की कमजोरी · मूर्च्छा = बेहोशी · मूत्रकृच्छ्र = पेशाब में कठिनाई · अरोचक = अरुचि।",
@@ -905,10 +905,11 @@ IMAGE_SPECS = {
     },
     ("19", "diagram"): {
         "file": "ka2-vidanga-roga-19.svg",
-        "alt": "Mind map of verse 19: taken with honey and ghee or with jaggery; ailments listed: gulma, plihodara, cough, halimaka, arocaka",
-        "type": "mermaid",
-        "code": ('mindmap\n  विडंग वाला चूर्ण\n    किसके साथ\n      मधु और घी\n      या गुड़\n'
-                 '    रोग\n      गुल्म\n      प्लीहोदर\n      कास\n      हलीमक\n      अरोचक\n'),
+        "alt": "Two columns in verse order: taken with honey and ghee, or with jaggery; ailments listed: gulma, plihodara, cough, halimaka, arocaka (the verb is in the next verse)",
+        "type": "split",
+        "title": "श्लोक १९: विडंग वाला योग",
+        "cols": [["किसके साथ", ["मधु और घी", "या गुड़"]],
+                 ["रोग, पाठ के क्रम में", ["गुल्म", "प्लीहोदर", "कास", "हलीमक", "अरोचक"]]],
     },
     ("21", "diagram"): {
         "file": "ka2-kalyanaka-katu-21.svg",
@@ -932,9 +933,10 @@ IMAGE_SPECS = {
     },
     ("24", "diagram"): {
         "file": "ka2-kalyanaka-phala-24.svg",
-        "alt": "Mind map of verse 24: the Kalyanaka guda destroys kushtha, arshas, kamala, meha, gulma, udara, bhagandara, and on a conjectural reading grahani and pandu; and it is a pumsavana",
-        "type": "mermaid",
-        "code": ('mindmap\n  कल्याणक गुड\n    नष्ट करता है\n      कुष्ठ\n      अर्श\n      कामला\n      मेह\n'
-                 '      गुल्म\n      उदर\n      भगन्दर\n      ग्रहणी, पाण्डु अनुमानित\n    पुंसवन भी\n'),
+        "alt": "Two columns in verse order: the Kalyanaka guda destroys kushtha, arshas, kamala, meha, gulma, udara, bhagandara, and on a conjectural reading grahani and pandu; and it is a pumsavana",
+        "type": "split",
+        "title": "श्लोक २४: कल्याणक गुड",
+        "cols": [["नष्ट करता है", ["कुष्ठ", "अर्श", "कामला", "मेह", "गुल्म", "उदर", "भगन्दर", "ग्रहणी, पाण्डु (अनुमानित)"]],
+                 ["और", ["पुंसवन भी"]]],
     },
 }
