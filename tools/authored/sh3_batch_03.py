@@ -106,7 +106,7 @@ AUTHORED["28"] = {
             "सुखम् (easily) + अनुपद्रवा (free of complications).",
             "Final म् + vowel → म joined to the vowel."),
         mcq("apply", 4, "By unit 28, how is the pregnant woman placed for the enema?",
-            ("Face down, bent over (न्युब्जा)", "गर्भिणीं तु न्युब्जाम्: face down, prone."),
+            ("Face down, bent over", "गर्भिणीं तु न्युब्जाम्: face down, prone."),
             [("Lying on her back, face up", "न्युब्ज is face down, the opposite."),
              ("Sitting upright on a seat", "No seat is named; the word is न्युब्जा."),
              ("Lying on her left side", "No side is named; the word is न्युब्जा.")],
@@ -379,7 +379,7 @@ AUTHORED["33"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 33, what becomes anuloma?",
-            ("The wind (vāyu)", "वायुश्चानुलोमः संपद्यते."),
+            ("The wind", "वायुश्चानुलोमः संपद्यते."),
             [("Urine and stool", "They become natural (प्रकृतिभूत), in unit 34."),
              ("The afterbirth", "The jarāyu goes to the passage, in unit 34."),
              ("The belly", "The belly becomes soft, in unit 32.")],
@@ -438,7 +438,7 @@ AUTHORED["34"] = {
     "questions": [
         mcq("pretest", 0, "By unit 34, what goes to the passage?",
             ("The jarāyu, the afterbirth", "जरायुश्च मार्ग प्रतिपद्यते."),
-            [("Urine and stool, now natural", "They become natural; they are not said to go to the passage."),
+            [("The milk she has drunk", "No milk is named in unit 34."),
              ("The medicine given by enema", "The medicine enters, in unit 29."),
              ("The wind, now moving downward", "The wind becomes anuloma, in unit 33.")],
             "The jarāyu goes to the passage.",
@@ -558,7 +558,7 @@ AUTHORED["36"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 36, how often is the bath prescribed?",
-            ("Daily (प्रत्यहम्)", "गर्भिण्याः प्रत्यहं स्नानमुपदिशेत्."),
+            ("Daily", "गर्भिण्याः प्रत्यहं स्नानमुपदिशेत्."),
             [("Once a month", "The word is प्रत्यहम्, every day."),
              ("Every third day", "The word is प्रत्यहम्, every day."),
              ("Only on the day of delivery", "The word is प्रत्यहम्, every day.")],

@@ -9,9 +9,8 @@ AUTHORED["55"] = {
     "question": "By unit 55, what should be drunk in Pitta?",
     "rule": ("In Pitta (पित्ते), one should drink milk (पयः) cooked (सिद्ध) with a decoction (निर्यूह) of madhuka "
              "(probably licorice) and vidārī (probably Indian kudzu)."),
-    "limits": ("Prose. madhuka = licorice is probable only (the word can also mean the mahua tree); vidārī = Indian kudzu "
-               "is probable. No amount, time or length of use is given, and the drinker is not named. The printed verb "
-               "पिबेत is taken as the data reads it, should drink; no question rests on its form."),
+    "limits": ("Prose. madhuka = licorice is probable only (it can also mean mahua); vidārī = Indian kudzu is probable. "
+               "No amount, time or drinker is named. No question rests on the form of the printed verb पिबेत."),
     "explain_hi": ("यह गद्य-पंक्ति पित्त की अवस्था का उपाय बताती है: मधुक और विदारी के निर्यूह, यानी काढ़े, से पकाया हुआ दूध पिए। "
                    "मधुक की पहचान मुलेठी सम्भावित है; यह शब्द महुआ वृक्ष के लिए भी आता है। "
                    "विदारी सम्भवतः विदारीकन्द है। "
@@ -69,10 +68,9 @@ AUTHORED["56"] = {
     "question": "By unit 56, what preparation is given for upaviṣṭaka and upaśuṣkaka?",
     "rule": ("Crush three large hens and an āḍhaka of husked māṣa (black gram) with milk and water in a mortar; with that "
              "juice and ghee prepare the broth of tittiri or kapiñjala; make her drink it, for upaviṣṭaka and upaśuṣkaka."),
-    "limits": ("Prose. The middle of the sentence is loose: the data reads the bird broth as what is cooked with the juice "
-               "and ghee, but the crushed mass could be cooked with it too. kukkuṭī = hen as the data reads it. The size of "
-               "the āḍhaka is not given. tittiri = partridge is probable; kapiñjala is disputed. Printed संक्षुध्य, "
-               "अन्यातर and वृद्व्य are read with corrections; no question tests these forms."),
+    "limits": ("Prose. The grammar is loose: the crushed mass may be cooked with the bird broth too. kukkuṭī = hen as the "
+               "data reads it. The āḍhaka's size is not given. tittiri probable, kapiñjala disputed. Printed संक्षुध्य, "
+               "अन्यातर, वृद्व्य are corrected; no question tests them."),
     "explain_hi": ("यह लम्बा गद्य-वाक्य उपविष्टक और उपशुष्कक, दोनों की वृद्धि के लिए एक योग देता है। "
                    "तीन मोटी कुक्कुटियाँ (मुर्गियाँ, डेटा के अनुसार) और आढक भर छिलका-रहित माष (उड़द, मानक) दूध और जल के साथ "
                    "ओखली में कूटे जाते हैं। "
@@ -370,9 +368,9 @@ AUTHORED["61"] = {
     "question": "By unit 61, what can be read with certainty in this damaged line?",
     "rule": ("And those very (ones) (तान् एव) there (तत्र); then, in a damaged compound, the line names vulture (गृध्र, "
              "on a conjectural reading) and the flesh of water-movers (जलचरमांसानि)."),
-    "limits": ("Low confidence. The compound after गृध्र- is damaged and अभ्यें is unclear; the vulture reading is "
-               "conjectural, so no question rests on it or on अभ्यें. तान् एव has no clear antecedent in this unit. What "
-               "is done with these is not stated. GROUPING: it seems to continue units 57 to 60."),
+    "limits": ("Low confidence. The compound after गृध्र- is damaged, अभ्यें unclear, vulture conjectural: no question rests "
+               "on them. तान् एव has no clear antecedent here. What is done with these is not stated. GROUPING: it seems "
+               "to continue units 57 to 60."),
     "explain_hi": ("यह पंक्ति छपाई में क्षतिग्रस्त है, इसलिए इसका केवल स्पष्ट भाग पढ़ा जाता है। "
                    "‘तानेव च तत्र’: और वहाँ उन्हीं को; ‘तान्’ किसकी ओर संकेत करता है, यह इस इकाई में स्पष्ट नहीं। "
                    "आगे ‘गृध्र-’ (गिद्ध, अनुमानित पाठ), एक अस्पष्ट शब्द ‘अभ्यें’, और ‘जलचरमांसानि’ यानी जल में चलने वाले जीवों के मांस। "
@@ -381,7 +379,7 @@ AUTHORED["61"] = {
     "hook": "टूटी पंक्ति: वही, वहाँ, और जलचरों के मांस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Unit 61 is damaged. Which part of it is printed clearly?",
+        mcq("pretest", 0, "Unit 61 is damaged. Which part of it can be read without doubt?",
             ("जलचरमांसानि, flesh of water-movers", "The data reads जलचरमांसानि clearly, after the damaged fragment."),
             [("अभ्यें, the name of a known drug", "अभ्यें is unclear in the data."),
              ("A full list of named fish species", "No fish names are given."),
@@ -466,7 +464,7 @@ AUTHORED["62"] = {
              ("पिशित + ओपदंशाम्", "ओपदंश is not a word, and अ + ओ would give औ.")],
             "पिशित (meat) + उपदंश (relish): अ + उ → ओ.",
             "अ + उ → ओ."),
-        mcq("apply", 4, "Which period in unit 62 is clearly printed?",
+        mcq("apply", 4, "Which period in unit 62 is printed undamaged?",
             ("Three nights (त्रिरात्रम्)", "त्रिरात्रं is clear in the print."),
             [("Five nights (पञ्चरात्रम्)", "Not printed in the line."),
              ("Ten nights (दशरात्रम्)", "Not printed in the line."),
@@ -649,7 +647,7 @@ AUTHORED["65"] = {
               [1, 2],
               "Another option, right here; the noun and the pātra's size are not stated.",
               "अत्रैव वा बदरचूर्णपात्रमपि."),
-        mcq("transfer", 5, "By the rule of अत्र + एव → अत्रैव, how is तत्र + एव (just there) joined?",
+        mcq("transfer", 5, "By the rule of अत्र + एव → अत्रैव, how is तत्र + एव (right there) joined?",
             ("तत्रैव", "अ + ए → ऐ, as अत्र + एव → अत्रैव."),
             [("तत्रेव", "That is तत्र + इव, where अ + इ → ए."),
              ("तत्रयेव", "अ + ए does not put a य between them."),
@@ -785,10 +783,10 @@ AUTHORED["68"] = {
     "title": "तत्र श्येनोत्क्रोश... रक्तशाल्योदनं भोजयेत्",
     "question": "By unit 68, with what is red śāli rice fed in the līna case?",
     "rule": ("In that case (तत्र), feed red śāli rice (रक्तशाल्योदन) with the rasa (broth) of any one (अन्यतम) of eight "
-             "animals, with plenty of ghee, or with a soup (यूष) of māṣa (black gram) or mūलक rich in ghee."),
-    "limits": ("Prose. go is taken as cow, the plain sense. śyena (hawk), utkrośa (osprey) and tittirī (partridge) are "
-               "probable; godha (monitor lizard), śikhin (peacock), mūlaka (radish) and śāli are standard. Which liquid each "
-               "ghee word qualifies is the plain reading only. The woman fed is not named. GROUPING: it continues unit 67."),
+             "animals, with plenty of ghee, or with a soup (यूष) of māṣa (black gram) or mūlaka (radish) rich in ghee."),
+    "limits": ("Prose. go = cow, the plain sense. śyena, utkrośa, tittirī probable; godha, śikhin, mūlaka, śāli standard. "
+               "Which liquid each ghee word qualifies is the plain reading only. The woman fed is not named. GROUPING: it "
+               "continues unit 67."),
     "explain_hi": ("लीन गर्भ की अवस्था में (तत्र) लाल शालि का भात (रक्तशाल्योदन) खिलाया जाता है। "
                    "उसके साथ आठ में से किसी एक (अन्यतम) का बहुत घी वाला रस: श्येन (सम्भवतः बाज), उत्क्रोश (सम्भवतः कुरर), गाय, "
                    "मछली, गोधा (गोह), शिखी (मोर), कुक्कुट (मुर्गा) और तित्तिरि (सम्भवतः तीतर)। "
@@ -986,7 +984,7 @@ AIDS = {
         "chunks": "एवमवृद्धौ | तीक्ष्णैर्विरेचयेत् | अपरापातनीयैश्च पातयेत्",
         "sandhi": ("ऐ के बाद विसर्ग, घोष से पहले → र्: तीक्ष्णैः + विरेचयेत् → तीक्ष्णैर्विरेचयेत् · त् स्वर से पहले → द्: "
                    "विरेचयेत् + अपरा → विरेचयेदपरा।"),
-        "seesaw": "वृद्धि ↔ अवृद्धि: इस पंक्ति का ‘अवृद्धौ’ वृद्धि का उलटा है; जब वृद्धि न हो, तब तीक्ष्ण उपाय।",
+        "frame": "अवस्था: एवम् अवृद्धौ (इस प्रकार वृद्धि न होने पर) → १ साधन: तीक्ष्णैः, क्रिया: विरेचयेत् → २ साधन: अपरापातनीयैः, क्रिया: पातयेत् (कर्म नहीं लिखा)।",
     },
     "67": {
         "diagram": {"groups": [
@@ -1083,7 +1081,7 @@ IMAGE_SPECS = {
                 "(probable). Or a soup rich in ghee: of black gram, or of radish (standard)."),
         "type": "split",
         "title": "इकाई ६८: लाल शालि-भात किसके साथ",
-        "cols": [["रस: आठ में से किसी एक का, बहुत घी सहित",
+        "cols": [["किसी एक का घी-भरा रस",
                   ["१ श्येन: बाज (सम्भावित)", "२ उत्क्रोश: कुरर (सम्भावित)", "३ गो: गाय", "४ मत्स्य: मछली",
                    "५ गोध: गोह (मानक)", "६ शिखी: मोर (मानक)", "७ कुक्कुट: मुर्गा", "८ तित्तिरि: तीतर (सम्भावित)"]],
                  ["या घी-भरपूर यूष", ["माष (उड़द) का यूष", "मूलक (मूली, मानक) का यूष"]]],

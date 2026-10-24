@@ -220,7 +220,7 @@ AUTHORED["94"] = {
             "ततः (then) + च (and) + एनाम् (her).",
             "ः + च → श्च; अ + ए → ऐ."),
         mcq("apply", 4, "Why is अनुवासनकाले + अनुवासयेत् written कालेऽनुवासयेत्?",
-            ("ए stays, and the next अ drops (ऽ)", "Final ए before अ stays; the अ is dropped and marked by ऽ."),
+            ("ए stays, the next अ drops: ऽ", "Final ए before अ stays; the अ is dropped and marked by ऽ."),
             [("ए and अ fuse into the vowel ऐ", "ए + अ does not give ऐ; ऐ comes from अ + ए."),
              ("The ऽ marks a dropped visarga here", "No visarga stands here; ऽ marks the dropped अ."),
              ("ए turns into य् before the अ", "ए becomes अय् before some vowels, never plain य्; before अ it stays and the अ drops.")],

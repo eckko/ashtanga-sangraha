@@ -71,7 +71,7 @@ AUTHORED["40"] = {
     "limits": ("Low confidence; how वेदना joins the body parts is uncertain. Printed -दरत्हृदय- and स्त्रवण are corrected "
                "readings: no question on हृदय, on flow, or on how far of the yoni reaches. basti = bladder as the data "
                "glosses it (tagged probable in unit 49)."),
-    "explain_hi": ("जिसका प्रसव निकट है (आसन्नप्रसवा), उसमें थकावट (क्लम), ग्लानि, मानो बन्धन छूटी हुई दोनों आँखें, थूक, मूत्र और मल "
+    "explain_hi": ("जिसका प्रसव निकट है (आसन्नप्रसवा), उसमें थकावट (क्लम), ग्लानि, मानो जिनके बन्धन छूट गए हों, ऐसी दोनों आँखें, थूक, मूत्र और मल "
                    "की अधिकता, कुक्षि की शिथिलता, नीचे भारीपन और अन्न में अरुचि होती है। "
                    "फिर पेट, कमर, बस्ति (मूत्राशय) और वंक्षण आदि में वेदना, तथा तोद (चुभन), भेद (फटन), शूल, स्फुरण (फड़कन) "
                    "और स्राव कहे गए हैं। "
@@ -198,7 +198,7 @@ AUTHORED["42"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 42, what is she made to drink?",
-            ("Gruel with ghee (यवागू)", "सघृतां यवागूं पाययेत्."),
+            ("Gruel with ghee", "सघृतां यवागूं पाययेत्."),
             [("Milk boiled with herbs", "No milk is named in unit 42."),
              ("Hot water, a full cup", "Hot water is sprinkled on her, not drunk."),
              ("Lukewarm oil, a little", "Lukewarm oil is for anointing in unit 46.")],
@@ -442,7 +442,7 @@ AUTHORED["46"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 46, what is the oil like?",
-            ("Lukewarm (कोष्ण)", "कोष्णेन तैलेन: with lukewarm oil."),
+            ("Lukewarm", "कोष्णेन तैलेन: with lukewarm oil."),
             [("Cold", "The unit says कोष्ण, lukewarm."),
              ("Boiling", "The unit says कोष्ण, lukewarm."),
              ("Mixed with ghee", "No ghee is named in unit 46.")],
@@ -500,7 +500,7 @@ AUTHORED["47"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 47, which way does the fetus turn?",
-            ("Downward (अवाक्)", "अवाक् परिवर्तते: turns around, downward."),
+            ("Downward", "अवाक् परिवर्तते: turns around, downward."),
             [("Upward, toward the heart", "The unit says अवाक्, downward."),
              ("To the right side", "No side is named."),
              ("It does not turn at all", "परिवर्तते: it turns around.")],
@@ -750,7 +750,7 @@ AUTHORED["51"] = {
               "मुशल, उलूखल, धान्य, आहनीय, आहुः.", role="extend",
               teaches="-अनीय makes a gerundive (is to be done): आहनीय = is to be struck."),
         mcq("discriminate", 3, "In unit 51, whose view is stated?",
-            ("Others' view (अन्ये ... आहुः)", "अन्ये तु ... इत्याहुः: others say."),
+            ("Other authorities' view", "अन्ये तु ... इत्याहुः: others say."),
             [("The author's own instruction", "अन्ये तु marks it as the view of others."),
              ("The woman's own wish", "The woman's wish is not named."),
              ("A view this unit calls right", "This unit does not judge the view.")],

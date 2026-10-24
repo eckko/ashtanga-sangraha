@@ -332,7 +332,7 @@ AUTHORED["57"] = {
             "प्रवाहयस्व is the second-person imperative: the woman is told to bear down.",
             "प्रवाहयस्व = bear down (2 sg. imperative)."),
         mcq("apply", 4, "In unit 57, who speaks these words to the woman in labour?",
-            ("The attendant (data note)", "ब्रूयात् names no speaker; the data note: the speaker (the attendant) addresses the woman in labour."),
+            ("The attendant", "Probable, by the data note: ब्रूयात् names no speaker; the data note: the speaker (the attendant) addresses the woman in labour."),
             [("The woman in labour herself", "She is the one addressed (सुभगे), not the speaker."),
              ("Her husband", "No husband is named in unit 57."),
              ("A priest reciting a mantra", "The mantra comes in unit 58, from another woman.")],
