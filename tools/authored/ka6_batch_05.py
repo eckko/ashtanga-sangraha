@@ -160,8 +160,8 @@ AUTHORED["50"] = {
     "question": "What does a dry, sharp, excessive basti do to one with a soft belly and little doṣa?",
     "rule": ("For one with a soft koṣṭha (belly) and little doṣa, a basti that is dry, sharp and excessive in quantity, "
              "having quickly destroyed the malas (wastes), would aggravate Vāta and Pitta."),
-    "limits": ("Low confidence. The basti is understood from the context. 'Bastimala' may be the wastes of the enema "
-               "region or of the bladder; not decided. The printed ळ in bastimaḻān is an open print point. The "
+    "limits": ("Low confidence. The basti is understood from the context. 'Bastimala' may be the wastes of the basti "
+               "region (lower belly) or of the bladder; not decided. The printed ळ in bastimaḻān is an open print point. The "
                "sentence continues in 05.06.98-99."),
     "explain_hi": ("यहाँ रोगी का कोष्ठ यानी पेट मृदु है और दोष थोड़ा है। "
                    "उसे रूखी, तीक्ष्ण और अधिक मात्रा वाली बस्ति दी जाए, तो वह मलों को जल्दी नष्ट कर देती है। "
@@ -242,7 +242,7 @@ AUTHORED["51"] = {
                    "यहाँ बस्ति सम्भवतः मूत्राशय है, क्योंकि यह नाभि और गुदा के बीच गिनी गई है; यह निश्चित नहीं। "
                    "दूसरी पंक्ति का पहला शब्द छपाई में बिगड़ा है; अनुमानित पाठ पर उसमें विवर्णता और थोड़ा-थोड़ा उठना है। "
                    "अन्त में कहा है कि बस्ति निर्लेखन यानी खुरचने वाली हो जाती है।"),
-    "hook": "नाभि, बस्ति, गुदा: बार-बार कटने जैसा दर्द; बस्ति खुरचने लगी।",
+    "hook": "नाभि, बस्ति, गुदा: बार-बार काटे जाते हैं; बस्ति खुरचने वाली हो जाती है।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which body parts are cut again and again, by verse 51?",
@@ -253,7 +253,7 @@ AUTHORED["51"] = {
              ("Head, chest and navel",
               "Head and chest are not named in verse 51."),
              ("Mouth, nose and throat",
-              "Mouth and nose belong to the basti come up, 05.06.50-51.")],
+              "Mouth and nose are where the basti thrown upward comes out, 05.06.50-51.")],
             "नाभि-बस्ति-गुदान्: a dvandva in the accusative plural, object of कृन्तन्तः.",
             "नाभि · बस्ति · गुद."),
         order(1, "Put these words of line 1 of verse 51 in the verse's order.",
@@ -395,7 +395,7 @@ AUTHORED["53"] = {
                    "कर्दम यानी कीचड़ और अञ्जन (प्रकार अस्पष्ट) लिए जाते हैं। "
                    "इन्हें दूध में डालकर (विनीय) बस्ति दी जाती है। "
                    "कौन-सा खट्टा भोजन, यह पाठ नहीं कहता।"),
-    "hook": "खट्टा खाने वाले को: राल, मुलेठी, झिंगन, कीचड़, अञ्जन, सब बराबर, दूध में।",
+    "hook": "खट्टा खाने वाले को: सम्भवतः राल, मुलेठी, सम्भवतः झिंगन, कीचड़, अञ्जन, सब बराबर, दूध में।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "For whom is the basti of verse 53?",
@@ -658,7 +658,7 @@ AUTHORED["56"] = {
               "ए would not print ऐ; राजम् is not the word here.")],
             "क्षुण्णैः (crushed, inst. pl.) + आजम् (of the goat).",
             "-ऐः + vowel → -ऐर्."),
-        mcq("apply", 4, "A patient keeps fainting after the harsh basti. Which drink does line 2 of verse 56 begin to prepare?",
+        mcq("apply", 4, "A patient keeps fainting after the harsh basti. What does line 2 of verse 56 begin to prepare for him?",
             ("Goat's milk, boiled",
              "आजं पयः शृतं: goat's milk, boiled."),
             [("Grape water with turpeth",
@@ -723,17 +723,17 @@ AUTHORED["57"] = {
               "पूत = strained; अन्वित = joined with; पल्लव = sprout; कल्प = preparation; यव = barley.",
               role="extend",
               teaches="Verse 57: the milk is strained (पूत) and joined with ghee; the same कल्प holds for vaṭa sprouts, yava, tila."),
-        mcq("discriminate", 3, "पूतम् and घृतान्वितम् are neuter. With which word do they agree?",
-            ("पयः, the milk of 05.06.109",
-             "Both are neuter accusative and agree with the neuter पयः."),
-            [("बस्तिम्, the basti",
-              "बस्ति is masculine; its accusative is not a neuter form."),
-             ("पिच्छिलान्, the slimy ones",
-              "पिच्छिलान् is masculine accusative plural."),
-             ("कल्पः, the preparation",
-              "कल्पः is masculine nominative.")],
-            "Neuter -अम् forms agree with the neuter noun पयस् (milk).",
-            "पूतम्, घृतान्वितम् ← पयः."),
+        mcq("discriminate", 3, "What does अन्यांश्च पिच्छिलान् add to the instruction of verse 57?",
+            ("Other slimy (ones) are given too",
+             "दद्यादन्यांश्च पिच्छिलान्: he should give other slimy (ones) as well."),
+            [("Slimy ones are to be avoided here",
+              "No negative is in the line; दद्यात् (should give) governs them."),
+             ("The milk itself must be made slimy",
+              "पिच्छिलान् is masculine accusative plural: other items, not the milk."),
+             ("Only a single basti may be given",
+              "अन्यान् (other) adds more; it does not limit.")],
+            "अन्यान् (other, m. acc. pl.) + च + पिच्छिलान् (slimy ones), objects of दद्यात्.",
+            "दद्यात् … अन्यान् पिच्छिलान्."),
         multi("apply", 4, "In which items does line 2 of verse 57 say the same preparation holds?",
               [("Sprouts of vaṭa and the rest", "Right: वटादिपल्लवेषु."),
                ("Yava (barley)", "Right: यवतिलेषु."),
@@ -772,7 +772,7 @@ AUTHORED["58"] = {
                    "और कर्बुदार (सम्भवतः कचनार, विवादित) में भी प्रशस्त है (शस्यते)। "
                    "दूसरी पंक्ति स्थानीय उपचार देती है: गुदा पर ठण्डे और मीठे सेक यानी धार से सींचना, और प्रलेप यानी लेप। "
                    "छपे ‘सेक’ में अन्तिम न् छूटा प्रतीत होता है।"),
-    "hook": "हुलहुल, पोई, कचनार में भी वही विधि; गुदा पर ठण्डी-मीठी धार और लेप।",
+    "hook": "सुवर्चला (विवादित), उपोदका (सम्भवतः पोई), कर्बुदार (सम्भवतः कचनार, विवादित) में भी वही विधि; गुदा पर ठण्डी-मीठी धार और लेप।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Where are the cool and sweet applications made, by line 2 of verse 58?",
@@ -786,12 +786,11 @@ AUTHORED["58"] = {
               "The chest is not named in verse 58.")],
             "गुदे is locative: in, at the anus.",
             "गुदे = at the anus."),
-        match(1, "Match each word of verse 58 to its meaning on the card.",
-              [["सुवर्चला", "disputed; perhaps Cleome viscosa"], ["उपोदका", "probably Basella alba"],
-               ["कर्बुदार", "probably Bauhinia variegata"], ["शस्यते", "is recommended"],
-               ["प्रलेपन", "coating"]],
-              "Three plants with their confidence words, a verb and a remedy.",
-              "सुवर्चला (disputed) · उपोदका (probable) · कर्बुदार (probable, disputed) · शस्यते = is recommended · प्रलेपन = coating."),
+        match(1, "Match each word of verse 58 to its meaning.",
+              [["शस्यते", "is recommended"], ["गुद", "anus"], ["शीत", "cool"],
+               ["मधुर", "sweet"], ["प्रलेपन", "coating"]],
+              "शस्यते closes line 1; line 2 gives the place (गुद) and the cool, sweet coatings.",
+              "शस्यते = is recommended; गुद = anus; शीत = cool; मधुर = sweet; प्रलेपन = coating."),
         order(2, "Put these phrases of verse 58 in the verse's order (the flagged word is left out).",
               ["सुवर्चलोपोदकयोः", "कर्बुदारे च", "शस्यते", "गुदे च", "प्रलेपनान्"],
               "Two plants, karbudāra, is recommended; then at the anus, (cool sweet …), coatings.",
@@ -845,7 +844,7 @@ AUTHORED["59"] = {
     "limits": ("Medium confidence. Whether grape water is raisin water, juice or an infusion is not stated. The rest of "
                "'dāhādi' is not named. Raktapitta is kept as the Sanskrit name (a disorder with bleeding, standard); "
                "trivṛt = Operculina turpethum and mṛdvīkā = Vitis vinifera (standard)."),
-    "explain_hi": ("यहाँ, यानी 05.06.105-108 के रक्त-पित्त के स्राव में, वह क्रिया प्रशंसित है जो रक्तपित्त यानी रक्तस्राव के रोग "
+    "explain_hi": ("यहाँ (प्रसंग से सम्भवतः 05.06.105-108 के स्राव में; पाठ केवल ‘अत्र’ कहता है) वह क्रिया प्रशंसित है जो रक्तपित्त यानी रक्तस्राव के रोग "
                    "और अतिसार यानी दस्त को नष्ट करे। "
                    "दाह यानी जलन आदि में रोगी त्रिवृत् यानी निशोथ का कल्क (लुगदी) मृद्वीका यानी अंगूर के जल के साथ पिए। "
                    "अंगूर का जल किस रूप में, यह नहीं कहा। ‘आदि’ के बाकी लक्षण नहीं गिनाए।"),
@@ -923,7 +922,7 @@ AUTHORED["60"] = {
     "explain_hi": ("यह 05.06.115 को समझाता है: वह (त्रिवृत् का पेय) पित्त, मल (शकृत्) और वात को नष्ट करके दाह आदि को जीत लेता है। "
                    "‘हत्वा’ का अर्थ यहाँ बाहर निकालना भी हो सकता है, पर पाठ केवल हत्वा कहता है। "
                    "फिर विशुद्ध यानी शुद्ध हुआ रोगी शर्करा यानी चीनी से युक्त ठण्डी यवागू यानी गाढ़ी लपसी पिए।"),
-    "hook": "निशोथ: पित्त, मल, वात निकाले, जलन जीते; फिर ठण्डी मीठी लपसी।",
+    "hook": "निशोथ: पित्त, मल, वात नष्ट करे, जलन जीते; फिर ठण्डी मीठी लपसी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does 'that' (the turpeth drink) destroy, by line 1 of verse 60?",
@@ -971,7 +970,7 @@ AUTHORED["60"] = {
             "शीताम्, यवागूम्, शर्करायुताम् all feminine accusative.",
             "शीता यवागू + शर्करा."),
         mcq("transfer", 5,
-            "A dvandva takes the gender of its last member (पित्तशकृद्वातान् ends in m. vāta). Which nominative fits kapha-vāta-pitta (pitta n.)?",
+            "A dvandva takes the gender of its last member (पित्तशकृद्वातान् ends in m. वात). Which nominative fits कफ-वात-पित्त (पित्त is neuter)?",
             ("कफवातपित्तानि",
              "Last member पित्त is neuter; three members, so neuter plural -आनि."),
             [("कफवातपित्ताः",
@@ -999,7 +998,7 @@ AUTHORED["61"] = {
                    "उसे भोजन दिया जाए: माष यानी उड़द के यूष यानी सूप के साथ कुल्माष यानी सम्भवतः अधपका अन्न। "
                    "पीने के लिए दही, अथवा सुरा यानी एक नशीला किण्वित पेय। "
                    "‘युञ्ज्यात्’ क्रिया पहली पंक्ति में है और दूसरी पंक्ति तक जाती है।"),
-    "hook": "ज़्यादा जुलाब, मल ख़त्म: उड़द का सूप और कुल्माष; पीने को दही या सुरा।",
+    "hook": "ज़्यादा जुलाब, मल क्षीण: उड़द का सूप और कुल्माष; पीने को दही या सुरा।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "For whom is the food of verse 61?",
@@ -1075,7 +1074,7 @@ AUTHORED["62"] = {
                    "वह इन द्रव्यों के साथ पिए: घन यानी सम्भवतः नागरमोथा, अतिविषा यानी अतीस, कुष्ठ यानी कूठ, "
                    "एक अस्पष्ट शब्द (नदारु) और वचा यानी बच। "
                    "यहाँ कुष्ठ औषध है, रोग नहीं। किस रूप में पिया जाए, यह नहीं कहा। वाक्य 05.06.122 तक चलता प्रतीत होता है।"),
-    "hook": "कच्चा, बदबूदार, दर्द और अरुचि: मोथा, अतीस, कूठ, बच पियो।",
+    "hook": "कच्चा, बदबूदार, दर्द और अरुचि: सम्भवतः मोथा (घन), अतीस, कूठ, बच के साथ पिए।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "How is what the patient passes described in line 1 of verse 62?",
@@ -1146,12 +1145,14 @@ AUTHORED["63"] = {
              "(svavargīya) is best, (what is) conquered by the physician (bhiṣagjita)."),
     "limits": ("Low confidence. The first word is corrupt (flag): faeces (śakṛt) and blood (asṛk) are conjectural; "
                "Vāta and Pitta are clear. 'Pakvam' has no stated noun and no sense applied; it may be a sixth item "
-               "(05.06.124 counts six). Whether ati- means 'excessively' is open. The 'own group' is not stated."),
+               "(05.06.124 counts six). Whether ati- means 'excessively' is open. The 'own group' is not stated. "
+               "'Bhiṣagjitam' may be 'conquered by the physician' or 'the physician's victory'; neuter śreṣṭham with "
+               "masculine bastiḥ is loose."),
     "explain_hi": ("जिस रोगी से मल, वात, रक्त, पित्त या कफ बाहर बहाया जाता है (अतिसार्यते), उसके लिए यह श्लोक उपाय कहता है। "
                    "पहला शब्द छपाई में बिगड़ा है; मल (शकृत्) और रक्त (असृक्) अनुमानित पाठ पर हैं, वात और पित्त स्पष्ट हैं। "
                    "‘पक्वम्’ किससे जुड़ा है, यह नहीं कहा; 05.06.124 में छह की गिनती है, इसलिए यह छठा पद हो सकता है। "
                    "उस स्थिति में अपने वर्ग की (स्ववर्गीय) बस्ति श्रेष्ठ है, जिसे वैद्य द्वारा जीता हुआ (भिषग्जित) कहा है।"),
-    "hook": "जो दोष बहे, उसी के वर्ग की बस्ति: वैद्य की जीत।",
+    "hook": "जो बहे, उसके लिए स्ववर्गीय बस्ति श्रेष्ठ: भिषग्जित।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What is best in that case, by line 2 of verse 63?",
@@ -1255,7 +1256,8 @@ NOTES_HI = {
            "टेक्स्ट-फ़्लैग: ‘तत्रार्द्रशामलीतंत्रैः’ में ‘शामली’ सम्भवतः ‘शाल्मली’ (सेमल, Bombax ceiba, सम्भावित; ल्म छूटा), "
            "और ‘तन्त्र’ (रेशा) भी संदिग्ध; अनुमानित पाठ, इस शब्द पर प्रश्न नहीं। 05.06.109-110 एक वाक्य, क्रिया ‘दद्यात्’ 05.06.110 में। "
            "संधि जाँची: बहुशश्चातिवेगेन = बहुशः + च + अतिवेगेन; चासकृत् = च + असकृत्; क्षुण्णैराजं = क्षुण्णैः + आजम् (ः → र्)।"),
-    "57": ("विश्वास: मध्यम। 05.06.109 का वाक्य पूरा; ‘पूतम्’, ‘घृतान्वितम्’ नपुंसक, 05.06.109 के ‘पयः’ से अन्वित। "
+    "57": ("विश्वास: मध्यम। 05.06.109 का वाक्य पूरा; ‘पूतम्’, ‘घृतान्वितम्’ नोट के अनुसार नपुंसक, 05.06.109 के ‘पयः’ से अन्वित; "
+           "पर यही रूप पुं. द्वितीया भी है और ‘बस्तिम्’ से भी जुड़ सकता है (डेटा का अंग्रेज़ी ऐसे पढ़ता है); दो-तरफ़ा, इस पर प्रश्न नहीं। "
            "‘अन्यान् च पिच्छिलान्’ = अन्य चिपचिपी (बस्तियाँ); संज्ञा नहीं कही, अनुवाद में नहीं जोड़ी। 05.06.111-112 एक वाक्य (‘शस्यते’ 05.06.112 में)। "
            "‘वटादि’ के बाकी द्रव्य नहीं कहे। ‘एवं कल्पः’ = 05.06.109-110 जैसा कल्प; यह प्रसंग से अनुमान। पहचान: वट = बरगद, Ficus benghalensis (मानक); "
            "यव (मानक, Hordeum vulgare)। संधि जाँची: दद्यादन्यांश्च = दद्यात् + अन्यान् + च (न् + च → ंश्च); "
@@ -1302,7 +1304,7 @@ AIDS = {
                                                                "करीर (विवादित)", "बदरी फल (बेर)"]},
                                {"label": "पंक्ति २", "items": ["शृत बस्ति = हित", "वातघ्न अनुवासन"]}]},
         "chunks": "स्यात्साम्ललवणस्कंध | करीरबदरीफलैः ‖ शृतैर्बस्तिर्हितः सिद्धो | वातघ्नैश्चानुवासनैः",
-        "sandhi": "ः → र् घोष से पहले: शृतैः + बस्तिः + हितः → शृतैर्बस्तिर्हितः; ः + च → श्च: वातघ्नैः + च → वातघ्नैश्च।",
+        "sandhi": "-ऐः / -इः + घोष → -ऐर् / -इर्: शृतैः + बस्तिः + हितः → शृतैर्बस्तिर्हितः; ः + च → श्च: वातघ्नैः + च → वातघ्नैश्च।",
         "anchors": "अम्ल = खट्टा · लवण = नमक · बदरी = बेर · शृत = उबाला · हित = हितकारी · अनुवासन = तेल की बस्ति।",
     },
     "50": {
@@ -1368,7 +1370,7 @@ AIDS = {
     "59": {
         "chunks": "रक्तपित्तातिसारघ्नी | क्रिया चात्र प्रशस्यते ‖ दाहादिषु त्रिवृत्कल्कं | मृद्वीकावारिणा पिबेत्",
         "anchors": "रक्तपित्त = रक्तस्राव का रोग · अतिसार = दस्त · -घ्नी = नष्ट करने वाली · दाह = जलन · त्रिवृत् = निशोथ · मृद्वीका = अंगूर।",
-        "frame": "पंक्ति १: 05.06.105-108 के स्राव का सामान्य नियम (रक्तपित्त-अतिसार की चिकित्सा) · पंक्ति २: दाह आदि का विशेष पेय · कारण 05.06.116 में।",
+        "frame": "पंक्ति १: यहाँ (प्रसंग से सम्भवतः 05.06.105-108 का स्राव) रक्तपित्त-अतिसार नाशक क्रिया · पंक्ति २: दाह आदि का विशेष पेय · कारण 05.06.116 में।",
     },
     "60": {
         "chain": {"steps": ["त्रिवृत् कल्क, अंगूर जल से (05.06.115)", "पित्त, मल, वात नष्ट", "दाह आदि जीते", "शुद्ध होकर: ठण्डी यवागू, शर्करा युक्त"]},
@@ -1459,11 +1461,11 @@ IMAGE_SPECS = {
     },
     ("58", "diagram"): {
         "file": "ka6-kalpa-dravya-58.svg",
-        "alt": "Table of verse 58: the kalpa is also recommended in suvarcala (disputed), upodaka (probably Basella) and karbudara (probably Bauhinia); at the anus, cool sweet pourings and coatings",
+        "alt": "Table of verse 58: the kalpa is also recommended in suvarcala (disputed), upodaka (probably Basella) and karbudara (probably Bauhinia, disputed); at the anus, cool sweet pourings and coatings",
         "type": "table",
         "title": "श्लोक ५८: और द्रव्य, गुदा पर उपचार",
         "heads": ["द्रव्य / उपचार", "पहचान"],
-        "rows": [["सुवर्चला", "विवादित (हुलहुल?)"], ["उपोदका", "सम्भवतः पोई"], ["कर्बुदार", "सम्भवतः कचनार"],
+        "rows": [["सुवर्चला", "विवादित (हुलहुल?)"], ["उपोदका", "सम्भवतः पोई"], ["कर्बुदार", "सम्भवतः कचनार (विवादित)"],
                  ["गुदा पर", "ठण्डी-मीठी धार, लेप"]],
     },
     ("60", "chain"): {

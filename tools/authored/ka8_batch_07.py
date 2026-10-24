@@ -8,9 +8,8 @@ AUTHORED["76"] = {
     "question": "What are the three kinds of sneha-cooking, and how are the first two known, by verse 76?",
     "rule": ("Sneha-cooking is of three kinds: manda (mild), cikkaṇa (smooth) and khara-cikkaṇa (hard-smooth). "
              "Manda when the residue (kiṭṭa) is like the kalka (paste); cikkaṇa when it is like madana (probably wax)."),
-    "limits": ("The verse does not define khara-cikkaṇa beyond its name here; its sign follows in the next verse (line 05.08.93). "
-               "'Hard-smooth' is the data's reading of the compound, not a definition given by the text. Madana is taken as "
-               "wax (probable); the word also names a tree and the god of love. No times or temperatures are given."),
+    "limits": ("Khara-cikkaṇa is only named here; its sign follows in line 05.08.93, and 'hard-smooth' is a reading, not the text's "
+               "definition. Madana is taken as wax (probable); the word also names a tree. No times or temperatures are given."),
     "explain_hi": ("स्नेह यानी तेल या वसा (घी या तेल) का पाक तीन प्रकार का बताया गया है: मन्द, चिक्कण यानी चिकना, और खर-चिक्कण। "
                    "पहचान पात्र में बचे किट्ट यानी तलछट से होती है। जब किट्ट कल्क यानी लुगदी के समान ही हो, तब पाक मन्द है; "
                    "जब वह मदन यानी सम्भवतः मोम के समान हो, तब चिक्कण। तीसरे प्रकार खर-चिक्कण का लक्षण अगले श्लोक में आता है। "
@@ -74,9 +73,8 @@ AUTHORED["77"] = {
     "question": "What is the sign of the last kind of sneha-cooking, and what lies beyond it, by verse 77?",
     "rule": ("The last kind (khara-cikkaṇa) is when the residue sinks a little and is black. Beyond this the sneha is "
              "burnt (dagdha) and should be taken out."),
-    "limits": ("The verse runs on from verse 76: 'the last' is khara-cikkaṇa, named there. Whether niṣkārya means taken off the "
-               "fire or thrown away is not said (OPEN); no question rests on it. The printed आमास् of the last word is flagged "
-               "(probably आमः, the raw one); the closing statement on the raw sneha and agnisāda is left without a question."),
+    "limits": ("'The last' is khara-cikkaṇa of verse 76. Whether niṣkārya means taken off the fire or thrown away is open; "
+               "no question rests on it. The printed आमास् is flagged (probably आमः, raw), so the closing clause on agnisāda is not asked."),
     "explain_hi": ("यह श्लोक पिछले श्लोक की बात पूरी करता है। अन्तिम (पश्चिम) प्रकार, यानी खर-चिक्कण, तब है जब किट्ट यानी तलछट थोड़ा "
                    "बैठता है और काला रहता है। इससे आगे पकाने पर स्नेह दग्ध यानी जला हुआ हो जाता है; उसे निकालना चाहिए "
                    "(आग से या प्रयोग से, पाठ नहीं बताता)। अन्त में कहा गया है कि कच्चा स्नेह अग्निसाद यानी पाचन-अग्नि को क्षीण करने "
@@ -140,9 +138,8 @@ AUTHORED["78"] = {
     "question": "Which cooked sneha suits which use, and which two mountains are named, by verse 78?",
     "rule": ("Mild (mṛdu) for nasya (nasal administration), hard (khara) for abhyaṅga (oil massage), cikkaṇa for drinking "
              "and basti (enema). The earth is mostly marked by the mountains Himavat and Vindhya."),
-    "limits": ("Mṛdu and khara are not the names of the kinds in verse 76 (manda, khara-cikkaṇa); the text may mean the same, "
-               "but does not say so. The verb of the second line is printed व्यासा, read on a conjecture as व्याप्ता "
-               "(pervaded) or व्यस्ता (divided); no question rests on it. The copula is understood."),
+    "limits": ("Mṛdu and khara are not the kind names of verse 76 (manda, khara-cikkaṇa); the text does not equate them. "
+               "The printed व्यासा is read on a conjecture as व्याप्ता (pervaded) or व्यस्ता (divided); no question rests on it."),
     "explain_hi": ("पहली पंक्ति बताती है कि कौन-सा पका स्नेह किस प्रयोग में: नस्य यानी नाक में डालने में मृदु, अभ्यंग यानी मालिश में खर, "
                    "और पान यानी पीने तथा बस्ति यानी एनिमा में चिक्कण। मृदु और खर पिछले श्लोक के प्रकार-नाम (मन्द, खर-चिक्कण) "
                    "नहीं हैं; पाठ उन्हें एक नहीं कहता। दूसरी पंक्ति नया विषय खोलती है: पृथ्वी प्रायः हिमवान् और विन्ध्य पर्वतों से "
@@ -440,6 +437,8 @@ AIDS = {
     },
     "78": {
         "frame": "पहली पंक्ति: कौन-सा पका स्नेह किस प्रयोग में; दूसरी पंक्ति: नया विषय, हिमवान् और विन्ध्य।",
+        "diagram": {"groups": [{"label": "मृदु", "items": ["नस्य"]}, {"label": "खर", "items": ["अभ्यंग"]},
+                               {"label": "चिक्कण", "items": ["पान", "बस्ति"]}]},
         "chunks": "मृदुर्नस्ये | खरोऽभ्यंगे | पाने बस्तौ च चिक्कणः ‖ हिमवद्विंध्यशैलाभ्यां | प्रायो व्यासा वसुंधरा।",
         "anchors": "नस्य = नाक में डालना · अभ्यंग = मालिश · पान = पीना · बस्ति = एनिमा · शैल = पर्वत · वसुन्धरा = पृथ्वी।",
         "sandhi": "त् → द् घोष व्यंजन से पहले: हिमवत् + विन्ध्य → हिमवद्विन्ध्य; उः → उर्: मृदुः + नस्ये → मृदुर्नस्ये।",
@@ -479,7 +478,7 @@ IMAGE_SPECS = {
         "steps": ["मन्द: किट्ट कल्क-समान", "चिक्कण: किट्ट मदन-समान", "पश्चिम (खरचिक्कण): थोड़ा बैठे, काला",
                   "इसके आगे: दग्ध, निकालो"],
     },
-    ("78", "frame"): {
+    ("78", "diagram"): {
         "file": "ka8-sneha-prayoga-78.svg",
         "alt": ("Table of verse 78: mild cooked sneha for nasya; hard for abhyanga, oil massage; cikkana for drinking and basti, enema"),
         "type": "table",
