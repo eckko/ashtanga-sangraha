@@ -10,7 +10,7 @@ AUTHORED = {}
 AUTHORED["52"] = {
     "title": "बलकालदेशसात्म्यप्रकृतीः",
     "question": "What must be distinguished before a basti is applied, according to unit 52?",
-    "rule": ("A basti is applied only after distinguishing five things: strength (bala), time or season (kāla), region (deśa), "
+    "rule": ("A basti is applied after distinguishing five things: strength (bala), time or season (kāla), region (deśa), "
              "sātmya (what suits by habit) and constitutions (prakṛti). The sentence continues in line 05.04.101."),
     "limits": ("No verb in this unit: what the basti then does (nivartayati) is in line 05.04.101. Kāla may be time or season; "
                "both fit. The unit does not say how each factor changes the basti."),
@@ -105,12 +105,12 @@ AUTHORED["53"] = {
               teaches="Verse 53: each disease is turned back by its own drug group; cool bastis for the heat-afflicted, pleasantly warm for the cold-afflicted."),
         mcq("discriminate", 3, "Which split of शीतांश्छीतार्त्तानां in verse 53 is right?",
             ("शीतान् + शीतार्तानाम्",
-             "Final न् before श gives ंश्, and the श after it becomes छ: शीतांश्छीत-."),
+             "Final न् before श is printed here as ंश् and the श after it as छ (standard spelling शीताञ्छीत-): शीतान् + शीतार्तानाम्."),
             [("शीतम् + शीतार्तानाम्", "म् before श gives only anusvara: शीतं शीतार्तानाम्, with no छ."),
              ("शीताः + शीतार्तानाम्", "A visarga before श gives शीताः शीत- or शीताश्शीत-, with no anusvara."),
              ("शीतान् + छीतार्तानाम्", "छीतार्त is no word; the छ comes from श by sandhi.")],
             "शीतान् (cool ones) + शीतार्तानाम् (for those afflicted by cold).",
-            "-न् + श- → -ंश्छ-."),
+            "-न् + श- → -ञ्छ- (printed here -ंश्छ-)."),
         mcq("apply", 4, "A physician uses one fixed drug mixture in the basti for every disease. Which teaching of verse 53 does he ignore?",
             ("Each disease is turned back by its own drug group",
              "स्वैः स्वैरौषधवर्गैः स्वान् स्वान् रोगान्: each by its own group."),
@@ -167,12 +167,12 @@ AUTHORED["54"] = {
               teaches="Verse 54 line 1: bastis joined with drugs suitable to that (heat or cold) are to be applied."),
         mcq("discriminate", 3, "Which split of बस्तीञ्च in verse 54 is right?",
             ("बस्तीन् + च",
-             "Final न् before च becomes ञ्: बस्तीन् + च = बस्तीञ्च."),
+             "बस्तीन् + च: the print writes the न् as ञ् before च (the standard sandhi gives बस्तींश्च, as in सुखोष्णांश्च of line 05.04.102)."),
             [("बस्तीः + च", "A visarga before च becomes श्: it would give बस्तीश्च."),
              ("बस्ती + ञ्च", "ञ्च is no word; the ञ् comes from न् by sandhi."),
              ("बस्तिम् + च", "बस्तिम् has a short इ; it would give बस्तिं च, not बस्तीञ्च.")],
             "बस्तीन् (bastis, acc. pl.) + च (and).",
-            "-न् + च → -ञ्च."),
+            "बस्तीन् + च: printed -ञ्च, standard -ंश्च."),
         mcq("apply", 4, "In verse 54 line 1, what does तद् (that) refer to?",
             ("The heat or cold of line 05.04.102",
              "The notes: तद् refers to the heat or cold in the line before."),
@@ -205,7 +205,7 @@ AUTHORED["55"] = {
                    "मेह वही समूह है जो पंक्ति ०५.०४.८८ में प्रमेह है। "
                    "इस इकाई में क्रिया नहीं है; इन्हें क्या दिया जाए, यह पंक्ति ०५.०४.१०४ से १०७ के अंश से जुड़ा है। "
                    "‘मेदस्विनो विशोध्याः’ को ‘शोधन-योग्य मोटे लोग’ भी पढ़ा जा सकता है।"),
-    "hook": "मोटे, शोधन-योग्य, और कुष्ठ-मेह के रोगी: पाँचवीं पंक्ति के लोग।",
+    "hook": "मोटे, शोधन-योग्य, और कुष्ठ-मेह के रोगी: पंक्ति १०५ के लोग।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does मेदस्विन् mean in unit 55?",
@@ -263,7 +263,7 @@ AUTHORED["56"] = {
     "rule": ("Not of those with wasted, injured, weak, fainted, thin, dried-up and purified bodies. "
              "The unit has no verb; it appears to run on into line 05.04.107."),
     "limits": ("No verb, so what is denied them is not in this unit. Śuddha is purified, probably by earlier evacuation, "
-               "but the text does not say. Kṣata may also mean chest wound. The printed space after मूर्च्छित is a stray space."),
+               "but the text does not say. Kṣata may also mean chest wound. The printed space after मूर्च्छित is possibly a stray space (text flag)."),
     "explain_hi": ("यह इकाई ‘न’ यानी नहीं से शुरू होती है और सात तरह के लोगों के नाम देती है: क्षीण, क्षत यानी घायल, दुर्बल, मूर्च्छित, कृश यानी पतले, सूखे शरीर वाले, और शुद्ध यानी जिनका शोधन हो चुका। "
                    "अन्तिम ‘देहानाम्’ षष्ठी बहुवचन है: ऐसे शरीर वालों का। "
                    "इकाई में क्रिया नहीं; वाक्य पंक्ति ०५.०४.१०७ में चलता लगता है, इसलिए इन्हें क्या न दिया जाए, वह वहीं देखें। "
@@ -443,7 +443,7 @@ NOTES_HI = {
     "53": ("विश्वास: उच्च। पंक्तियाँ ०५.०४.१०१-१०२। पहली पंक्ति पंक्ति १०० का वाक्य पूरा करती लगती है; दूसरी पंक्ति की द्वितीया बहुवचन विशेषण "
            "पंक्ति १०३ की ‘बस्तीन्’ और ‘युञ्जीत’ से जुड़ते लगते हैं। वर्तनी-सामान्यीकरण: छपा ‘निवर्त्तयति’ = निवर्तयति, ‘आर्त्तानां’ = आर्तानाम्। "
            "संधि जाँची: स्वैरौषध = स्वैः + औषध; स्वांस्वान्रोगान्निवर्त्तयति = स्वान् + स्वान् + रोगान् + निवर्तयति; "
-           "शीतांश्छीतार्त्तानां = शीतान् + शीतार्तानाम् (न् + श → ंश्छ); सुखोष्णांश्च = सुखोष्णान् + च।"),
+           "शीतांश्छीतार्त्तानां = शीतान् + शीतार्तानाम् (न् + श → ञ्छ, छपाई में ंश्छ; श → छ वैकल्पिक); सुखोष्णांश्च = सुखोष्णान् + च।"),
     "54": ("विश्वास: निम्न। पंक्तियाँ ०५.०४.१०३-१०४। ‘तद्’ पंक्ति १०२ की गर्मी या सर्दी की ओर है। "
            "text_flag: छपा ‘संतर्क्स’ कोई रूप नहीं; अनुमानित पाठ पर ‘संतर्क्य’ (विचार करके), क्य/क्स छपाई में मिलते हैं; इस पर प्रश्न नहीं। "
            "text_flag और खुला प्रश्न (OPEN ०५.०४.१०४): ‘बृंहणीयान्’ बस्तियाँ ‘विशोधनीयेषु’ रोगों में, यह जोड़ा उलटा लगता है; "
@@ -454,13 +454,13 @@ NOTES_HI = {
            "मेह = पंक्ति ०५.०४.८८ का प्रमेह-समूह। संधि जाँची: मेदस्विनो विशोध्या = मेदस्विनः + विशोध्याः (अः + घोष → ओ); "
            "विशोध्या ये = विशोध्याः + ये (आः का विसर्ग घोष से पहले लुप्त); कुष्ठमेहार्त्ताः = कुष्ठ + मेह + आर्ताः।"),
     "56": ("विश्वास: मध्यम। पंक्ति ०५.०४.१०६; पंक्ति १०६-१०७ एक वाक्य लगता है, ‘न … देहानाम्’ पंक्ति १०७ के ‘दद्यात् विशोधनीयान्’ तक। "
-           "text_flag: ‘मूर्च्छित’ के बाद छपा खाली स्थान फालतू है; ‘मूर्च्छित’ आगे के ‘कृश-’ वाले समास से जुड़ता है; इस पर प्रश्न नहीं। "
+           "text_flag: ‘मूर्च्छित’ के बाद छपा खाली स्थान सम्भवतः फालतू है; ‘मूर्च्छित’ आगे के ‘कृश-’ वाले समास से जुड़ता है; इस पर प्रश्न नहीं। "
            "‘शुद्ध’ सम्भवतः पहले के शोधन से शुद्ध, पाठ यह नहीं कहता; ‘क्षत’ = घायल, ‘छाती का घाव’ भी सम्भव। "
            "कृशशुष्कशुद्धदेहानाम् = बहुव्रीहि, षष्ठी बहुवचन।"),
     "57": ("विश्वास: निम्न। पंक्ति ०५.०४.१०७; पंक्ति १०६ का वाक्य आगे बढ़ाती लगती है। "
            "खुला प्रश्न (OPEN ०५.०४.१०७): अकेले पढ़ने पर यह ‘दे’ (विधि) है; पंक्ति १०६ का ‘न’ इस पर लगे तो पूरा वाक्य निषेध बनता है, "
            "यानी क्षीण आदि को और जिनकी आयु दोषों पर टिकी है उन्हें शोधन बस्ति न दे; यह तय नहीं, इसलिए इस पर प्रश्न नहीं। "
-           "‘दोषनिबद्धायुषो ये’ प्रथमा बहुवचन (या षष्ठी एकवचन) है और पंक्ति १०६ की षष्ठी ‘देहानाम्’ से मेल नहीं खाता; अन्त अधूरा। "
+           "‘दोषनिबद्धायुषः’ प्रथमा बहुवचन (या षष्ठी एकवचन) और ‘ये’ प्रथमा बहुवचन है और पंक्ति १०६ की षष्ठी ‘देहानाम्’ से मेल नहीं खाता; अन्त अधूरा। "
            "संधि जाँची: दद्याद्विशोधनीयान् = दद्यात् + विशोधनीयान्; दोषनिबद्धायुषो ये = दोषनिबद्धायुषः + ये।"),
     "58": ("विश्वास: उच्च। पंक्ति ०५.०४.१०८, अध्याय का समापन-वाक्य (कोलोफ़न), श्लोक नहीं; ‘इति’ समापन का चिह्न है। "
            "संधि जाँची: बस्तिकल्पो नाम = बस्तिकल्पः + नाम; चतुर्थोऽध्यायः = चतुर्थः + अध्यायः (अः + अ → ओऽ)। कोई text_flag नहीं।"),
@@ -478,13 +478,13 @@ AIDS = {
         "diagram": {"groups": [{"label": "पंक्ति १: हर रोग का अपना", "items": ["अपने-अपने औषध-वर्ग", "अपने-अपने रोग", "निवृत्त करती है"]},
                                {"label": "पंक्ति २: ताप के अनुसार", "items": ["गर्मी से पीड़ित: ठंडी", "सर्दी से पीड़ित: सुखद गरम"]}]},
         "chunks": "स्वैः | स्वैः | औषधवर्गैः | स्वान् | स्वान् | रोगान् | निवर्तयति ‖ उष्णार्तानां | शीतान् | शीतार्तानां | तथा | सुखोष्णान् | च।",
-        "sandhi": "न् + श → ंश्छ: शीतान् + शीतार्तानाम् → शीतांश्छीतार्तानाम्; ऐः + स्वर → ऐर्: स्वैः + औषध → स्वैरौषध; न् + च → ंश्च: सुखोष्णान् + च → सुखोष्णांश्च।",
+        "sandhi": "न् + श → ञ्छ (यहाँ छपा ंश्छ): शीतान् + शीतार्तानाम् → शीतांश्छीतार्तानाम्; ऐः + स्वर → ऐर्: स्वैः + औषध → स्वैरौषध; न् + च → ंश्च: सुखोष्णान् + च → सुखोष्णांश्च।",
     },
     "54": {
         "chunks": "तद्योग्यौषधयुक्तान् | बस्तीन् | संतर्क्स (अनुमानित संतर्क्य) | युंजीत ‖ बस्तीञ्च | बृंहणीयान् (पाठ खुला) | दद्याद् | व्याधिषु | विशोधनीयेषु।",
         "chain": {"steps": ["तद्: पंक्ति १०२ की गर्मी या सर्दी", "उसके योग्य औषध", "उनसे युक्त बस्तियाँ", "युञ्जीत: प्रयुक्त करे"]},
         "anchors": "तद् = वह · योग्य = उपयुक्त · औषध = दवाएँ · युक्त = से जुड़ा · युञ्जीत = प्रयुक्त करे · दद्यात् = दे · व्याधिषु = रोगों में।",
-        "sandhi": "न् + च → ञ्च: बस्तीन् + च → बस्तीञ्च; अ + औ → औ: योग्य + औषध → योग्यौषध।",
+        "sandhi": "न् + च: छपा बस्तीञ्च (मानक संधि बस्तींश्च, जैसे पंक्ति १०२ का सुखोष्णांश्च) = बस्तीन् + च; अ + औ → औ: योग्य + औषध → योग्यौषध।",
     },
     "55": {
         "chunks": "मेदस्विनो | विशोध्या | ये | च | नराः | कुष्ठमेहार्त्ताः।",
@@ -542,16 +542,15 @@ IMAGE_SPECS = {
     },
     ("56", "diagram"): {
         "file": "ka4-kshina-56.svg",
-        "alt": ("Mindmap for unit 56: under 'not', seven kinds of body: wasted, injured, weak, fainted, thin, dried-up, purified"),
+        "alt": ("Flowchart for unit 56: after 'not', seven kinds of body in the text's order: wasted, injured, weak, fainted, thin, dried-up, purified"),
         "type": "mermaid",
-        "code": ('mindmap\n'
-                 '  न यानी नहीं\n'
-                 '    क्षीण\n'
-                 '    क्षत\n'
-                 '    दुर्बल\n'
-                 '    मूर्च्छित\n'
-                 '    कृश\n'
-                 '    शुष्क\n'
-                 '    शुद्ध\n'),
+        "code": ('flowchart LR\n'
+                 '  N["न: इन शरीर वालों का नहीं"] --> A["क्षीण"]\n'
+                 '  A --> B["क्षत"]\n'
+                 '  B --> C["दुर्बल"]\n'
+                 '  C --> D["मूर्च्छित"]\n'
+                 '  D --> E["कृश"]\n'
+                 '  E --> F["शुष्क"]\n'
+                 '  F --> G["शुद्ध"]\n'),
     },
 }
