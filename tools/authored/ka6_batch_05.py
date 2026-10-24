@@ -689,13 +689,13 @@ AUTHORED["56"] = {
 AUTHORED["57"] = {
     "title": "पूतं घृतान्वितं बस्तिं",
     "question": "How is the goat's milk given, and where else is the same preparation used?",
-    "rule": ("Strained and joined with ghee, he should give (the goat's milk of 05.06.109) as a basti, and other slimy "
+    "rule": ("Strained, joined with ghee, he should give a basti (of the goat's milk of 05.06.109), and other slimy "
              "(ones). The same kalpa (preparation) holds for sprouts of vaṭa (banyan) and the rest, and for yava and tila."),
     "limits": ("Medium confidence. The 'other slimy (ones)' are not named. The rest of 'vaṭādi' is not named. 'Thus' "
-               "(evam) is read as 'as in 05.06.109-110', an inference from the context. The sentence runs into "
-               "05.06.112."),
+               "(evam) is read as 'as in 05.06.109-110', an inference. 'Pūtam, ghṛtānvitam' may agree with the milk "
+               "(neuter, per the note) or with bastim (same form); two-way. The sentence runs into 05.06.112."),
     "explain_hi": ("यह 05.06.109 का वाक्य पूरा करता है: उबाला हुआ बकरी का दूध छाना जाता है (पूतम्) और घी से युक्त किया जाता है (घृतान्वितम्)। "
-                   "फिर उसकी बस्ति दी जाती है, और अन्य पिच्छिल यानी चिपचिपी बस्तियाँ भी। "
+                   "फिर उसकी बस्ति दी जाती है, और अन्य पिच्छिल यानी चिपचिपे (द्रव्य) भी; उनकी संज्ञा नहीं कही। "
                    "दूसरी पंक्ति कहती है कि वट यानी बरगद आदि के पल्लव यानी कोंपलों में भी यही कल्प है, और यव तथा तिल में भी। "
                    "वट के बाद के द्रव्य नहीं गिनाए; वाक्य 05.06.112 में चलता है।"),
     "hook": "दूध छानो, घी मिलाओ, बस्ति दो; बरगद की कोंपल, यव और तिल से भी यही विधि।",
@@ -1143,11 +1143,10 @@ AUTHORED["63"] = {
     "question": "What is best for one who is made to pass the doṣas and blood?",
     "rule": ("(He) who is made to flow out faeces, Vāta, blood, Pitta or Kapha: in that case a basti of its own group "
              "(svavargīya) is best, (what is) conquered by the physician (bhiṣagjita)."),
-    "limits": ("Low confidence. The first word is corrupt (flag): faeces (śakṛt) and blood (asṛk) are conjectural; "
-               "Vāta and Pitta are clear. 'Pakvam' has no stated noun and no sense applied; it may be a sixth item "
-               "(05.06.124 counts six). Whether ati- means 'excessively' is open. The 'own group' is not stated. "
-               "'Bhiṣagjitam' may be 'conquered by the physician' or 'the physician's victory'; neuter śreṣṭham with "
-               "masculine bastiḥ is loose."),
+    "limits": ("Low confidence. First word corrupt (flag): faeces and blood are conjectural; Vāta, Pitta clear. "
+               "'Pakvam' has no stated noun (perhaps a sixth item, cf. 05.06.124). Ati- 'excessively' is open. The own "
+               "group is not stated. Bhiṣagjitam: 'conquered by the physician' or 'the physician's victory'; neuter "
+               "śreṣṭham with bastiḥ is loose."),
     "explain_hi": ("जिस रोगी से मल, वात, रक्त, पित्त या कफ बाहर बहाया जाता है (अतिसार्यते), उसके लिए यह श्लोक उपाय कहता है। "
                    "पहला शब्द छपाई में बिगड़ा है; मल (शकृत्) और रक्त (असृक्) अनुमानित पाठ पर हैं, वात और पित्त स्पष्ट हैं। "
                    "‘पक्वम्’ किससे जुड़ा है, यह नहीं कहा; 05.06.124 में छह की गिनती है, इसलिए यह छठा पद हो सकता है। "
