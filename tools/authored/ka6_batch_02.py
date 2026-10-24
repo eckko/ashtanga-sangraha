@@ -465,7 +465,7 @@ AUTHORED["21"] = {
                    "तीक्ष्ण धूम यानी तेज़ धुआँ, प्रधमन यानी नाक में चूर्ण फूँकना, नस्य यानी नाक की औषध, "
                    "आस्य-विरेचन यानी मुख से निकालने वाले उपाय, विरेक यानी विरेचन, और बस्तियाँ। "
                    "ये आनुलोमिक हों, यानी स्वाभाविक दिशा (नीचे की ओर) के अनुसार; यह विशेषण किन पर लगता है, तय नहीं। "
-                   "ऊपर चढ़े वायु के लिए सिर-नाक के उपाय और नीचे की ओर ले जाने वाले उपाय दोनों हैं।"),
+                   "कोई द्रव्य या मात्रा इस श्लोक में नहीं दी गई।"),
     "hook": "धुआँ, फूँक, नस्य, मुख-शोधन, विरेचन, बस्ति: जल्दी, और दिशा के अनुसार।",
     "core": False,
     "questions": [
@@ -487,7 +487,7 @@ AUTHORED["21"] = {
               "Four of the means and the word for 'quickly'.",
               "प्रधमन = powder-blowing; नस्य = nasal medicine; आस्यविरेचन = mouth-purging; विरेक = purgation; आशु = quickly.",
               role="extend",
-              teaches="Verse 21 gives head routes (smoke, pradhamana, nasya, mouth-purging) and downward routes (purgation, basti)."),
+              teaches="Verse 21 lists six means: four in line 1 (smoke, pradhamana, nasya, mouth-purging) and two in line 2 (purgation, basti)."),
         mcq("discriminate", 3, "What does आनुलोमिक mean on the card?",
             ("Following the natural direction",
              "आनुलोमिक, from अनुलोम: following the natural (downward) direction."),
@@ -910,7 +910,7 @@ IMAGE_SPECS = {
         "alt": "Table of the signs of verse 23: swelling in the basti and apana; sinking in the thighs and shanks; straining with obstructed wind",
         "type": "table",
         "title": "श्लोक २३: लक्षण",
-        "heads": ["लक्षण", "कहाँ"],
+        "heads": ["लक्षण", "कहाँ या किसमें"],
         "rows": [["शोफ (सूजन)", "बस्ति, अपान"], ["सदन (थकावट)", "ऊरु, जङ्घा"],
                  ["प्रवाहण (जोर)", "रुके वायु वाला"]],
     },
