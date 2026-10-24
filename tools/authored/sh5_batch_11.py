@@ -6,13 +6,13 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 128
 AUTHORED["128"] = {
     "title": "अष्टावुरसि",
-    "question": "By unit 128, what count of joints is given for the chest, and how does it close the trunk total?",
+    "question": "By unit 128, what count is given for the chest, and how does it close the trunk total?",
     "rule": ("Eight (अष्टौ) in the chest (उरसि). With 3 (unit 125, hip kapālas on a conjectural reading), 24 (unit 126) and the flanks 'likewise' (unit 127, "
              "presumably 24) it makes 59, the trunk total of unit 121."),
-    "limits": ("Prose, one printed word; no verb and no counted noun are printed (bone-joints, from the count of unit 119). "
+    "limits": ("Prose, one printed word; no verb and no counted noun are printed (probably the bone-joints, from unit 119). "
                "The flanks' 24 is presumed from तद्वत् (unit 127), not printed."),
     "explain_hi": ("यह एक छपे शब्द की गद्य-पंक्ति है: अष्टौ (आठ) + उरसि (छाती में)। "
-                   "यहाँ गिनती अस्थि-सन्धियों की चल रही है (इकाई ११९ से), पर ‘सन्धि’ शब्द इस पंक्ति में छपा नहीं। "
+                   "गिनी गई वस्तु छपी नहीं; इकाई ११९ से सम्भवतः अस्थि-सन्धियाँ, पर ‘सन्धि’ शब्द इस पंक्ति में छपा नहीं। "
                    "धड़ की गिनती इसी से पूरी होती है: कटिकपाल (अनुमानित पाठ; छपा कति) में ३ (इकाई १२५), रीढ़ में २४ (इकाई १२६), "
                    "पार्श्वों में ‘तद्वत्’ यानी सम्भवतः २४ (इकाई १२७) और छाती में ८। "
                    "इनका जोड़ ५९ है, जो इकाई १२१ के धड़ वाले योग से मिलता है। "
@@ -20,14 +20,14 @@ AUTHORED["128"] = {
     "hook": "छाती के आठ से धड़ के उनसठ पूरे।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Unit 128 gives eight joints for which part of the trunk?",
+        mcq("pretest", 0, "Unit 128 gives eight for which part of the trunk?",
             ("The chest (उरस्)", "अष्टावुरसि = अष्टौ उरसि: eight in the chest."),
             [("The spine (पृष्ठवंश)", "The spine has twenty-four (unit 126), not eight."),
              ("The flanks (पार्श्व)", "The flanks have 'likewise' (unit 127), presumably twenty-four."),
              ("The hips (कटिकपाल, conjectural)", "Unit 125 gives three for the hip kapālas (conjectural reading), not eight.")],
             "Eight in the chest.",
             "अष्टौ = eight; उरसि = in the chest."),
-        order(1, "Arrange the trunk joint counts of units 125-128 in the text's order.",
+        order(1, "Arrange the trunk counts of units 125-128 in the text's order.",
               ["३ कटिकपालों में (अनुमानित पाठ)", "२४ रीढ़ में", "तद्वत् पार्श्वों में", "८ छाती में"],
               "Hips 3 (conjectural reading), spine 24, flanks likewise, chest 8: unit 128 closes the trunk count.",
               "१२५ → १२६ → १२७ → १२८."),
@@ -64,19 +64,19 @@ AUTHORED["128"] = {
 # ---------------------------------------------------------------- unit 129
 AUTHORED["129"] = {
     "title": "अष्टौ ग्रीवायां",
-    "question": "By unit 129, how many joints are given for the neck?",
+    "question": "By unit 129, how many are counted for the neck?",
     "rule": ("Eight (अष्टौ) in the neck (ग्रीवायाम्, locative singular of ग्रीवा). By the data's check (unit 134) this "
              "opens the count of the region above the trunk."),
-    "limits": ("Prose, two words; no verb and no counted noun are printed (bone-joints, from unit 119). Whether eight is "
+    "limits": ("Prose, two words; no verb and no counted noun are printed (probably the bone-joints, from unit 119). Whether eight is "
                "the neck's sum or per part is not said."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: आठ, गर्दन में। "
                    "‘ग्रीवायाम्’ ग्रीवा (गर्दन, आकारान्त स्त्रीलिंग) का सप्तमी एकवचन है; छपाई में अन्त का म् अनुस्वार (ं) से लिखा है। "
                    "डेटा की जाँच (इकाई १३४) के अनुसार ऊपर वाले भाग (गर्दन और सिर) की सन्धि-गिनती यहीं से शुरू होती है। "
-                   "गिनी गई वस्तु और क्रिया छपी नहीं; अस्थि-सन्धियों की गिनती इकाई ११९ से चल रही है।"),
+                   "गिनी गई वस्तु और क्रिया छपी नहीं; इकाई ११९ से सम्भवतः अस्थि-सन्धियाँ।"),
     "hook": "छाती में आठ, गर्दन में भी आठ।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 129, how many joints are in the neck?",
+        mcq("pretest", 0, "By unit 129, how many are counted in the neck?",
             ("Eight", "अष्टौ ग्रीवायाम्: eight in the neck."),
             [("Six", "अष्टौ is eight, not six."),
              ("Ten", "अष्टौ is eight, not ten."),
@@ -99,7 +99,7 @@ AUTHORED["129"] = {
              ("Nominative plural: the necks", "The nominative plural is ग्रीवाः, not ग्रीवायाम्.")],
             "ग्रीवायाम् = in the neck (locative singular).",
             "आ-stem feminine: locative singular -आयाम्."),
-        mcq("apply", 4, "In अष्टौ ग्रीवायाम्, which word tells where the joints are?",
+        mcq("apply", 4, "In अष्टौ ग्रीवायाम्, which word tells the place?",
             ("ग्रीवायाम्, the locative", "The locative ग्रीवायाम् gives the place: in the neck."),
             [("अष्टौ, the numeral", "अष्टौ gives how many (eight), not where."),
              ("Neither; place is unstated", "The place is printed: ग्रीवायाम्, in the neck."),
@@ -120,21 +120,21 @@ AUTHORED["129"] = {
 # ---------------------------------------------------------------- unit 130
 AUTHORED["130"] = {
     "title": "त्रयःकंठनाड्यां",
-    "question": "By unit 130, how many joints are in the kaṇṭhanāḍī, and what is it probably?",
+    "question": "By unit 130, how many are counted in the kaṇṭhanāḍī, and what is it probably?",
     "rule": ("Three (त्रयः) in the kaṇṭhanāḍī, the throat-channel: probably the windpipe (probable; the gullet is the "
              "alternative). The visarga of त्रयः stays before the unvoiced क."),
     "limits": ("Prose, confidence medium. The identification windpipe is only probable (data; the gullet is the "
                "alternative): questions give it only with that label, never as certain. No verb or counted noun is "
-               "printed (bone-joints, from unit 119)."),
+               "printed (probably the bone-joints, from unit 119)."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: तीन, कण्ठनाड़ी में। "
                    "कण्ठनाड़ी का शब्दार्थ है गले की नली; डेटा के अनुसार यह सम्भवतः श्वासनली है, दूसरा सम्भव अर्थ अन्ननली। "
                    "‘कण्ठनाड्याम्’ नाडी का सप्तमी एकवचन है: ई + आ → या। "
                    "‘त्रयः’ का विसर्ग अघोष क से पहले बना रहता है; छपाई में दोनों शब्द जुड़े हैं। "
-                   "गिनी गई वस्तु (अस्थि-सन्धियाँ) इस पंक्ति में छपी नहीं।"),
+                   "गिनी गई वस्तु (सम्भवतः अस्थि-सन्धियाँ, इकाई ११९ से) इस पंक्ति में छपी नहीं।"),
     "hook": "गले की नली में तीन।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 130, how many joints are in the kaṇṭhanāḍī?",
+        mcq("pretest", 0, "By unit 130, how many are counted in the kaṇṭhanāḍī?",
             ("Three", "त्रयः कण्ठनाड्याम्: three in the kaṇṭhanāḍī."),
             [("Two", "त्रयः is three, not two."),
              ("Six", "त्रयः is three, not six."),
@@ -162,12 +162,12 @@ AUTHORED["130"] = {
             "नाड्याम् = in the channel (locative singular).",
             "ई-stem feminine: locative singular -याम्."),
         multi("apply", 4, "Which statements fit unit 130 and its data?",
-              [("It names the counted joints in the line", "No word for joints is printed in the line."),
+              [("It prints the counted noun in the line", "No counted noun is printed; probably the bone-joints, from unit 119."),
                ("It gives three for the kaṇṭhanāḍī", "Right: त्रयः, three."),
                ("It names the gullet for certain", "The data gives windpipe as probable; nothing is certain."),
                ("Its kaṇṭhanāḍī is probably the windpipe", "Right: probable, by the data.")],
               [1, 3],
-              "Three in the kaṇṭhanāḍī, probably the windpipe; the joints are not named.",
+              "Three in the kaṇṭhanāḍī, probably the windpipe; the counted noun is not printed.",
               "त्रयः कण्ठनाड्याम्."),
         mcq("transfer", 5, "By the rule of त्रयःकंठ, how are शिष्यः + कथयति (the pupil tells) joined?",
             ("शिष्यः कथयति", "Before the unvoiced क the visarga stays, as त्रयः कण्ठ-."),
@@ -183,13 +183,13 @@ AUTHORED["130"] = {
 # ---------------------------------------------------------------- unit 131
 AUTHORED["131"] = {
     "title": "अष्टादश कंठनाडीनिबद्धा",
-    "question": "By unit 131, how many joints are bound to the kaṇṭhanāḍī, and in which places?",
+    "question": "By unit 131, how many are bound to the kaṇṭhanāḍī, and in which places?",
     "rule": ("Eighteen (अष्टादश), bound to the kaṇṭhanāḍī, in the heart (हृदय), liver (यकृत्), kloma (identity "
              "disputed) and channels (नाडी)."),
     "limits": ("Prose, confidence medium. Printed निबद्धा does not agree with the plural (text flag: possibly निबद्धाः): no "
                "question on that form. The last compound may also read 'in the channels of heart, liver and kloma': no "
-               "question on the parse. kloma's identity is disputed: no question on it."),
-    "explain_hi": ("यह गद्य-पंक्ति अठारह सन्धियाँ बताती है, जो कण्ठनाड़ी से बँधी हैं (निबद्ध)। "
+               "question on the parse. kloma's identity is disputed: no question on it. No counted noun is printed (probably the bone-joints, from unit 119)."),
+    "explain_hi": ("यह गद्य-पंक्ति अठारह (गिनी गई वस्तु छपी नहीं; सम्भवतः अस्थि-सन्धियाँ, इकाई ११९ से) बताती है, जो कण्ठनाड़ी से बँधी हैं (निबद्ध)। "
                    "स्थान हैं: हृदय, यकृत (जिगर), क्लोम (पहचान विवादित; फेफड़ा, अग्न्याशय आदि सुझाए गए) और नाड़ियाँ। "
                    "अन्तिम समास को चार सदस्यों का द्वन्द्व पढ़ा गया; दूसरा पाठ है ‘हृदय, यकृत और क्लोम की नाड़ियों में’। "
                    "छपा ‘निबद्धा’ बहुवचन संख्या से मेल नहीं खाता; सम्भवतः विसर्ग छूटा है (निबद्धाः)। "
@@ -197,7 +197,7 @@ AUTHORED["131"] = {
     "hook": "कण्ठनाड़ी से बँधी अठारह: हृदय, यकृत, क्लोम, नाड़ियाँ।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 131, how many joints are bound to the kaṇṭhanāḍī?",
+        mcq("pretest", 0, "By unit 131, how many are bound to the kaṇṭhanāḍī?",
             ("Eighteen", "अष्टादश कंठनाडीनिबद्धा (as printed): eighteen bound to the kaṇṭhanāḍī."),
             [("Twelve", "अष्टादश is eighteen, not twelve."),
              ("Sixteen", "अष्टादश is eighteen, not sixteen."),
@@ -243,19 +243,19 @@ AUTHORED["131"] = {
 # ---------------------------------------------------------------- unit 132
 AUTHORED["132"] = {
     "title": "द्वात्रिंशद्दंतमूलेषु",
-    "question": "By unit 132, how many joints are in the tooth-roots?",
+    "question": "By unit 132, how many are counted in the tooth-roots?",
     "rule": ("Thirty-two (द्वात्रिंशत्) in the tooth-roots (दन्तमूलेषु). Final त् becomes द् before the voiced द: "
              "द्वात्रिंशद्दन्त-."),
-    "limits": ("Prose, confidence high. No verb or counted noun is printed (bone-joints, from unit 119). The line does "
+    "limits": ("Prose, confidence high. No verb or counted noun is printed (probably the bone-joints, from unit 119). The line does "
                "not say one per root."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: बत्तीस, दाँतों की जड़ों में। "
                    "‘दन्तमूलेषु’ = दन्त (दाँत) + मूल (जड़), सप्तमी बहुवचन: जड़ों में। "
                    "‘द्वात्रिंशत्’ का त् घोष द से पहले द् बना है, इसलिए छपा रूप द्वात्रिंशद्दंत है। "
-                   "गिनी गई वस्तु (अस्थि-सन्धियाँ) और क्रिया छपी नहीं।"),
+                   "गिनी गई वस्तु (सम्भवतः अस्थि-सन्धियाँ, इकाई ११९ से) और क्रिया छपी नहीं।"),
     "hook": "दाँतों की जड़ों में बत्तीस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 132, how many joints are in the tooth-roots?",
+        mcq("pretest", 0, "By unit 132, how many are counted in the tooth-roots?",
             ("Thirty-two", "द्वात्रिंशद्दन्तमूलेषु: thirty-two in the tooth-roots."),
             [("Twelve", "द्वात्रिंशत् is thirty-two, not twelve."),
              ("Eighteen", "द्वात्रिंशत् is thirty-two, not eighteen."),
@@ -280,7 +280,7 @@ AUTHORED["132"] = {
             "त् + voiced consonant → द्."),
         multi("apply", 4, "Which statements fit unit 132?",
               [("The thirty-two are in the tooth-roots", "Right: दन्तमूलेषु."),
-               ("The word for joints is printed", "No word for joints is printed in the line."),
+               ("The counted noun is printed", "No counted noun is printed; probably the bone-joints, from unit 119."),
                ("The thirty-two are in the eyelids", "The eyelids come in unit 134, two each."),
                ("मूलेषु is locative plural: in the roots", "Right: data, n. loc. pl.")],
               [0, 3],
@@ -300,11 +300,11 @@ AUTHORED["132"] = {
 # ---------------------------------------------------------------- unit 133
 AUTHORED["133"] = {
     "title": "एकैकः काकलनासामूर्द्धसु",
-    "question": "By unit 133, how many joints are in the kākala, the nose and the head?",
+    "question": "By unit 133, how many are counted in the kākala, the nose and the head?",
     "rule": ("One each (एकैकः) in the kākala (a throat part, identity disputed), the nose (नासा) and the head (मूर्धन्). "
              "एकैक = एक + एक (अ + ए → ऐ)."),
     "limits": ("Prose, confidence medium. kākala's identity is disputed (uvula or larynx prominence proposed): no question "
-               "on it. Printed मूर्द्धसु (doubled ध्) is normalised to मूर्धसु."),
+               "on it. Printed मूर्द्धसु (doubled ध्) is normalised to मूर्धसु. No counted noun is printed (probably the bone-joints, from unit 119)."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: एक-एक, काकल, नाक और मूर्धा (सिर) में। "
                    "काकल गले का एक भाग है जिसकी पहचान विवादित है (कौआ या कण्ठ का उभार सुझाए गए)। "
                    "‘एकैकः’ = एक + एक, अ + ए → ऐ; अर्थ: एक-एक। "
@@ -313,7 +313,7 @@ AUTHORED["133"] = {
     "hook": "काकल, नाक, सिर: एक-एक।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 133, how many joints are in each of its three places?",
+        mcq("pretest", 0, "By unit 133, how many are counted in each of its three places?",
             ("One each", "एकैकः = one each."),
             [("Two each", "Two each is unit 134; एकैकः is one each."),
              ("Three each", "एकैकः is one each, not three."),
@@ -770,7 +770,7 @@ AUTHORED["140"] = {
 
 # ===================================================================== NOTES_HI
 NOTES_HI = {
-    "128": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपा एक शब्द ‘अष्टावुरसि’ = अष्टौ उरसि। गिनी गई वस्तु (अस्थि-सन्धियाँ, इकाई ११९ से) "
+    "128": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपा एक शब्द ‘अष्टावुरसि’ = अष्टौ उरसि। गिनी गई वस्तु (सम्भवतः अस्थि-सन्धियाँ, इकाई ११९ से) "
             "और क्रिया छपी नहीं। डेटा की धड़-जाँच: ३ (इकाई १२५, कटिकपाल अनुमानित पाठ) + २४ (इकाई १२६) + तद्वत् (इकाई १२७, सम्भवतः २४) + ८ = ५९, इकाई १२१ से मेल। "
             "सन्धि जाँची: अष्टौ + उरसि → अष्टावुरसि (औ + स्वर → आव्)।"),
     "129": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं; डेटा में कोई टिप्पणी नहीं। छपा ‘ग्रीवायां’ = ग्रीवायाम् (अन्त का म् अनुस्वार से लिखा)। "
