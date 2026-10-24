@@ -108,7 +108,7 @@ AUTHORED["92"] = {
             "वर्ण (complexion) + ओजांसि (ojas): अ + ओ → औ.",
             "अ + ओ → औ."),
         multi("apply", 4, "Which statements about unit 92 are certain from the data?",
-              [("The unit states that agni causes lifespan", "Not stated: no verb or genitive; it is only a probable reading."),
+              [("The compound has seven members", "It has six: आयुः, आरोग्य, बल, उपचय, वर्ण, ओजस्."),
                ("The six words form one compound in the neuter plural", "Right: one dvandva, neuter nominative plural."),
                ("The unit prints a verb for the sentence", "No verb is printed; the statement is incomplete."),
                ("उपचय means growth", "Right: उपचय = growth.")],
@@ -129,7 +129,7 @@ AUTHORED["92"] = {
 # ---------------------------------------------------------------- unit 93
 AUTHORED["93"] = {
     "title": "तत्प्रतिबद्धान्येवच · तथाऽन्नमपि",
-    "question": "By unit 93, what depends on agni, and what does food become digested or undigested?",
+    "question": "By unit 93, what depends on agni, and what state does food reach when digested or undigested?",
     "rule": ("Dependent on that (agni) alone are rañjaka and the rest, the bhūtāgnis and the dhātvagnis. Food too, "
              "digested (पक्व) by that very agni, attains the state of nectar (अमृतता); undigested (अपक्व), of poison (विषता)."),
     "limits": ("Two printed lines, prose. 'That' (तत्, तेन) = agni, understood, not printed. 'The rest' after "
@@ -151,9 +151,9 @@ AUTHORED["93"] = {
             "Digested food attains the state of nectar; undigested, of poison.",
             "पक्कममृततां यात्यपक्वं च विषताम्."),
         order(1, "Put the parts of the second line of unit 93 in the printed order.",
-              ["तथाऽन्नमपि", "तेनैव पक्कम्", "अमृततां याति", "अपक्वं च", "विषताम्"],
+              ["तथाऽन्नमपि", "तेनैव", "पक्कममृततां", "यात्यपक्वं", "चविषतां"],
               "Likewise food too, digested by that very agni, attains nectar-state; undigested, poison-state.",
-              "तथाऽन्नमपि → तेनैव पक्कम् → अमृततां याति → अपक्वं च → विषताम्."),
+              "तथाऽन्नमपि → तेनैव → पक्कममृततां → यात्यपक्वं → चविषतां."),
         match(2, "Match each term of unit 93 to its meaning.",
               [["रञ्जक", "a kind of Pitta that colours"], ["भूताग्नि", "fire of an element"],
                ["धात्वग्नि", "fire of a dhātu"], ["अमृतता", "state of nectar"], ["विषता", "state of poison"]],
@@ -212,7 +212,7 @@ AUTHORED["94"] = {
                ["प्राक्", "earlier"], ["अभिहितः", "stated"]],
               "Among these, a special kind of Pitta named pācaka is agni: so it was stated earlier.",
               "तत्र, पित्तविशेषः, पाचकसंज्ञः, प्राक्, अभिहितः."),
-        fill(2, "By unit 94, the special kind of Pitta that is agni is named ____ (the digesting one). Type it in Devanagari or in English letters (e.g. dharma).",
+        fill(2, "By unit 94, the Pitta that is agni is named ____ (the digesting one). Type it in Devanagari or English letters (e.g. dharma).",
              accepts("पाचक", None, "पाचकः", "pacaka", "paachaka"),
              "पाचक (the digesting one): पाचकसंज्ञोऽग्निः.",
              "पाचक, from √पच् (to cook, to digest), is the name of the Pitta that is agni.",
@@ -617,7 +617,7 @@ AUTHORED["101"] = {
              ("Only inside the stomach", "No place is meant by यथास्वम्.")],
             "यथास्वम् = each according to its own.",
             "यथा + स्वम्: according to (its) own."),
-        order(1, "Put the readable parts of unit 101 in the printed order (the unclear words are left out).",
+        order(1, "Put these readable parts of unit 101 in the printed order (the damaged middle is left out).",
               ["ततश्चैवं", "विक्लिन्नआहारे", "वायुना", "व्यस्तान्यथास्वं", "पंचैवभूतगुणानाहारस्थान्", "पचंति"],
               "Then thus, the food moistened, ... by wind, scattered, each according to its own, only the five element-qualities lying in the food, cook.",
               "ततश्चैवं → विक्लिन्नआहारे → वायुना → व्यस्तान्यथास्वं → पंचैवभूतगुणानाहारस्थान् → पचंति."),
@@ -635,8 +635,8 @@ AUTHORED["101"] = {
             "ततः (then) + च (and) + एवम् (thus) → ततश्चैवम्.",
             "Visarga + च → श्च; अ + ए → ऐ."),
         multi("apply", 4, "Which statements about unit 101 does the data support?",
-              [("The unit certainly names the bhūtāgnis as cooks", "Not sure: that rests on a guessed restoration, not adopted."),
-               ("विक्लिन्नआहारे is printed with its vowels joined", "The print leaves the vowels unjoined (ए + आ)."),
+              [("The unit names six element-qualities", "It says five: पञ्चैव भूतगुणान्."),
+               ("विक्लिन्नआहारे is printed with its vowels joined", "Not merged: the print keeps विक्लिन्न and आहारे side by side."),
                ("पंचातमक महाभूतन मयो is unclear in print", "Right: damaged print, kept unsplit as unclear."),
                ("पचन्ति is a plural verb: they cook", "Right: पचन्ति, third person plural.")],
               [2, 3],
@@ -659,9 +659,9 @@ AUTHORED["102"] = {
     "question": "By unit 102, what do the cooked element-qualities then nourish?",
     "rule": ("Those (ते, the five element-qualities, understood from card 101), cooked (पक्वाः, printed पक्काः), again, "
              "each according to its own, nourish (आप्याययन्ति) the element-qualities that rest in the body (देहाश्रितान्)."),
-    "limits": ("Prose, medium confidence. स्वाविकारभूतान् can be read 'of their own unaltered nature' (the data's reading) "
-               "or 'being their own modifications': no question on it. ते is understood from card 101, whose subject is "
-               "itself uncertain there."),
+    "limits": ("Prose, medium confidence. स्वाविकारभूतान् can be read 'of their own unaltered nature' (the data's "
+               "reading) or 'being their own modifications': no question on it. ते = the element-qualities cooked in "
+               "card 101 (data note); who cooks them there is uncertain and no question rests on it."),
     "explain_hi": ("पिछली इकाई में आहार में स्थित पाँच भूत-गुण पकाए गए; डेटा के अनुसार ‘ते’ (वे) उन्हीं भूत-गुणों की ओर संकेत करता है। "
                    "यहाँ वे पके हुए (पक्वाः, छपा ‘पक्काः’) फिर अपने-अपने अनुसार ही शरीर में स्थित भूत-गुणों को पुष्ट करते हैं (आप्याययन्ति)। "
                    "‘देहाश्रितान्’ = देह पर आश्रित, शरीर में रहने वाले। "
@@ -697,7 +697,7 @@ AUTHORED["102"] = {
         multi("apply", 4, "Which statements about unit 102 fit the data?",
               [("ते is taken as the element-qualities of card 101", "Right: the data's note reads te so."),
                ("आप्याययन्ति means they nourish", "Right: causative of आ-√प्याय्, make grow."),
-               ("स्वाविकारभूतान् can only mean 'own modifications'", "Not sure: the data reads 'unaltered' and calls the other reading possible."),
+               ("The unit names the doṣas as what is nourished", "The doṣas are not named; the element-qualities resting in the body are."),
                ("The nourished qualities lie in the food", "They rest in the body (देहाश्रितान्).")],
               [0, 1],
               "ते = the element-qualities; they nourish those resting in the body; स्वाविकारभूतान् stays two-way.",
@@ -722,7 +722,7 @@ AUTHORED["103"] = {
     "limits": ("Prose, medium confidence. The point of the oil simile is not stated: no question on it. The verb is "
                "singular though there are two subjects. Printed पक्क = पक्व. What rasa and kiṭṭa do next is not said here."),
     "explain_hi": ("यह पकने का परिणाम है: पके हुए आहार से दो चीज़ें बनती हैं, ‘रस’ नाम का स्वच्छ सार और ‘किट्ट’ नाम का मल (अपशिष्ट)। "
-                   "उपमा: जैसे अनेक औषधें भीतर रखने वाले स्नेह (तेल) से; उपमा का ठीक बिन्दु पाठ नहीं बताता, इसलिए इस पर कोई प्रश्न नहीं। "
+                   "उपमा: जैसे अनेक औषधों को भीतर रखने वाले स्नेह (तेल) से; उपमा का ठीक बिन्दु पाठ नहीं बताता, इसलिए इस पर कोई प्रश्न नहीं। "
                    "क्रिया ‘अभिनिर्वर्तते’ (उत्पन्न होता है) एकवचन है, यद्यपि कर्ता दो हैं। "
                    "किट्ट = अन्न का बचा हुआ कचरा। "
                    "छपा ‘पक्क’ पक्व की वर्तनी है।"),
@@ -855,7 +855,7 @@ AIDS = {
                                                              "धात्वग्नियाँ"]},
             {"label": "पंक्ति २: अन्न", "items": ["उसी से पचा (पक्व) → अमृतता", "बिना पचा (अपक्व) → विषता"]}]},
         "seesaw": "पक्व (पचा) अन्न → अमृतता (अमृत-भाव) ⟷ अपक्व (बिना पचा) अन्न → विषता (विष-भाव)।",
-        "chunks": "तत्प्रतिबद्धान्येवच | रंजकादीनि | भूताग्नयो | धात्वग्नयश्च || तथाऽन्नमपि | तेनैव पक्कम् | अमृततां याति | अपक्वं च | विषतां",
+        "chunks": "तत्प्रतिबद्धान्येवच | रंजकादीनि | भूताग्नयो | धात्वग्नयश्च || तथाऽन्नमपि | तेनैव | पक्कममृततां | यात्यपक्वं | चविषतां",
         "sandhi": "अ + ए → ऐ: तेन + एव → तेनैव · उ + अ → व: धातु + अग्नयः → धात्वग्नयः · इ + अ → य: याति + अपक्वम् → यात्यपक्वम्।",
     },
     "94": {
@@ -882,7 +882,7 @@ AIDS = {
         "chain": {"steps": ["विधि से खाया अन्न", "प्राण वायु ने कोष्ठ में खींचा", "द्रवों से संघात टूटा", "स्नेह से नरम हुआ",
                             "आमाशय में स्थित", "समान से सुलगी अग्नि पकाती है"]},
         "chunks": ("स खलु | विधिवदभ्यवहृतमन्नजातं | प्राणेन वायुना कोष्ठमाकृष्टं | द्रवैर्विभिन्नसंघातं | स्नेहेन मृदूकृतम् | "
-                   "अभिसंधुक्षितः समानेन | आमाशयस्थं | स्थालीस्थमिवांबुतंडुलम् | अग्निरंतरग्निःपचति"),
+                   "अभिसंधुक्षितः | समानेनामाशयस्थं | स्थालीस्थमिवांबुतंडुलम् | अग्निरंतरग्निःपचति"),
         "sandhi": ("स्वर से पहले त् → द्: विधिवत् + अभ्यवहृतम् → विधिवदभ्यवहृतम् · ऐ के बाद विसर्ग + घोष ध्वनि → र्: द्रवैः + विभिन्न "
                    "→ द्रवैर्विभिन्न · अ + आ → आ: समानेन + आमाशय → समानेनामाशय।"),
         "story": "उपमा पाठ की ही है: जैसे हाँडी (स्थाली) में पानी और चावल आग पर पकते हैं, वैसे आमाशय में पड़ा अन्न भीतरी अग्नि से पकता है।",
@@ -940,23 +940,20 @@ IMAGE_SPECS = {
     },
     ("93", "diagram"): {
         "file": "sh6-amrita-visha-93.svg",
-        "alt": ("Flowchart of unit 93: agni (understood) at the top; dependent on it are rañjaka and the rest, the bhūtāgnis "
-                "and the dhātvagnis; food digested by it attains the state of nectar, while undigested food attains the "
-                "state of poison."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"अग्नि (तत्, समझी हुई)\"]\n"
-                 "  A --> B[\"आश्रित: रञ्जक आदि\"]\n"
-                 "  A --> C[\"आश्रित: भूताग्नियाँ\"]\n"
-                 "  A --> D[\"आश्रित: धात्वग्नियाँ\"]\n"
-                 "  A --> E[\"उसी से पचा अन्न\"]\n"
-                 "  E --> F[\"अमृतता: अमृत-भाव\"]\n"
-                 "  G[\"अपक्व: बिना पचा अन्न\"] --> H[\"विषता: विष-भाव\"]\n"),
+        "alt": ("Table of unit 93: line 1, dependent on that (agni, understood) are rañjaka and the rest, the "
+                "bhūtāgnis and the dhātvagnis; line 2, food digested by it attains the state of nectar, undigested "
+                "food the state of poison."),
+        "type": "table",
+        "title": "इकाई ९३: अग्नि पर आश्रित; पचा और बिना पचा अन्न",
+        "heads": ["पंक्ति", "पाठ का कथन"],
+        "rows": [["१", "रञ्जक आदि: उसी (अग्नि) पर आश्रित"], ["१", "भूताग्नियाँ: उसी पर आश्रित"],
+                 ["१", "धात्वग्नियाँ: उसी पर आश्रित"], ["२", "उसी से पचा (पक्व) अन्न → अमृतता"],
+                 ["२", "बिना पचा (अपक्व) अन्न → विषता"]],
     },
     ("96", "diagram"): {
         "file": "sh6-antarushma-96.svg",
         "alt": ("Flowchart of the view in unit 96: doṣa, dhātu and mala come together; their coming together produces the "
-                "inner heat; that inner heat is agni, with seat and function as indicated earlier."),
+                "inner heat; that inner heat is agni, by the view of the others."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"दोष\"] --> D[\"सन्निपात: मेल\"]\n"
@@ -967,7 +964,7 @@ IMAGE_SPECS = {
     },
     ("97", "chain"): {
         "file": "sh6-sthali-97.svg",
-        "alt": ("Chain of unit 97 in printed order: food eaten by rule; drawn into the koṣṭha by prāṇa; its mass broken by "
+        "alt": ("Chain of unit 97 in the order of the process: food eaten by rule; drawn into the koṣṭha by prāṇa; its mass broken by "
                 "liquids; softened by sneha; lying in the āmāśaya; the agni kindled by samāna cooks it, like water and "
                 "rice in a pot."),
         "type": "chain",

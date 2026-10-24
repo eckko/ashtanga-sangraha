@@ -46,7 +46,7 @@ AUTHORED["65"] = {
             "तमस् (darkness) + दर्शनम् (seeing): अस् → ओ before a voiced consonant.",
             "अस् / अः before a voiced consonant → ओ."),
         multi("apply", 4, "Which statements fit unit 65?",
-              [("The sense of āma here is certain", "The data marks the sense of āma as uncertain."),
+              [("A verb is printed with the signs", "The signs have no verb (data note)."),
                ("Fear is named among the causes", "Right: भय."),
                ("Seeing darkness is named among the signs", "Right: तमोदर्शनम्."),
                ("The line says what is drunk to excess", "अतिपान does not say what is drunk.")],
@@ -122,7 +122,7 @@ AUTHORED["66"] = {
 # ---------------------------------------------------------------- unit 67
 AUTHORED["67"] = {
     "title": "अन्नवाहिनामामाशयो मूलं वामपार्श्वं च",
-    "question": "By unit 67, what is the root of the food-carrying (srotas), and where is their vitiation explained?",
+    "question": "By unit 67, what is the root of the food-carrying (srotas)?",
     "rule": ("Of the food-carrying (ones) (अन्नवाहिनाम्), the root is the āmāśaya and the left side (वामपार्श्वम्); in "
              "their vitiation one should understand all as stated in the Mātrāśitīya (मात्राशितीयोक्तम्)."),
     "limits": ("Two printed lines. Āmāśaya as the stomach is probable. The left side is not further specified. The "
@@ -159,13 +159,13 @@ AUTHORED["67"] = {
              ("आमाशयौ + मूलम्", "औ before a consonant stays औ: आमाशयौ मूलम्.")],
             "आमाशयः (the āmāśaya) + मूलम् (root): अः → ओ before a voiced consonant.",
             "अः before a voiced consonant → ओ."),
-        mcq("apply", 4, "By unit 67, where should one look for all about the vitiation of the food-carrying ones?",
-            ("In what the Mātrāśitīya states", "सर्वं मात्राशितीयोक्तमवगच्छेत्."),
-            [("In the medicine stated for thirst", "That is pointed to for the water-carrying ones (unit 66)."),
-             ("In the treatment as in śvāsa", "That is pointed to for the prāṇa-carrying ones (unit 63)."),
-             ("In the rules for a fresh wound", "No wound is named in unit 67.")],
-            "In their vitiation, all is to be understood as the Mātrāśitīya states.",
-            "तेषां दुष्टौ सर्वं मात्राशितीयोक्तमवगच्छेत्."),
+        mcq("apply", 4, "By unit 67, which side is named as a root of the food-carrying ones?",
+            ("The left side", "वामपार्श्वं: वाम = left."),
+            [("The right side", "Unit 67 names the left (वाम) side, not the right."),
+             ("Both the sides", "Only one side, the left (वाम), is named."),
+             ("The navel", "The navel is not named in unit 67.")],
+            "The roots are the āmāśaya and the left side.",
+            "अन्नवाहिनामामाशयो मूलं वामपार्श्वं च."),
         mcq("transfer", 5, "By the pattern of अवगच्छेत् (one should understand), which form of √पठ् means one should read?",
             ("पठेत्", "Verbs with a stem in अ (गच्छ, पठ) take -एत् in the 3rd singular optative."),
             [("पठति", "पठति is the present: reads."),
@@ -195,7 +195,7 @@ AUTHORED["68"] = {
     "questions": [
         mcq("pretest", 0, "By unit 68, what is the root of the rasa-carrying (srotas)?",
             ("The heart and the ten dhamanīs", "रसवाहिनां हृदयं मूलं दशधमन्यश्च."),
-            [("The liver and the spleen organ", "Liver and spleen belong to the blood-carrying ones (unit 69)."),
+            [("The liver and also the spleen", "Liver and spleen belong to the blood-carrying ones (unit 69)."),
              ("The palate and the kloma organ", "Palate and kloma belong to the water-carrying ones (unit 64)."),
              ("The bladder and the two groins", "Bladder and groins belong to the urine-carrying ones (unit 75).")],
             "Of the rasa-carrying ones, the root is the heart and the ten dhamanīs.",
@@ -219,7 +219,7 @@ AUTHORED["68"] = {
             "रसवाहिनां हृदयं मूलं दशधमन्यश्च · प्राणवाहिनां हृदयं मूलं महास्रोतश्च."),
         multi("apply", 4, "Which statements fit unit 68?",
               [("The heart is named as a root", "Right: हृदयं मूलम्."),
-               ("The line says which ten dhamanīs are meant", "It does not; the ten are only presumed (cards 47 and 48)."),
+               ("The liver is named in this unit", "The liver is named for the blood-carrying ones (unit 69)."),
                ("मूलम् is printed in this unit", "Right: हृदयं मूलम्."),
                ("The great channel is named in this unit", "The great channel is in unit 60, not here.")],
               [0, 2],
@@ -276,7 +276,7 @@ AUTHORED["69"] = {
             "Final त् before an unvoiced consonant stays त्."),
         mcq("apply", 4, "In unit 69, which word is understood but not printed?",
             ("मूलम् (root), from unit 68", "Data: मूलम् is carried over from card 68 and not supplied."),
-            [("हृदयम् (heart), from unit 68", "The heart is a root of the rasa-carrying ones only; it is not carried over."),
+            [("हृदयम् (heart), from unit 68", "The heart is named for the rasa- (and prāṇa-) carrying ones; it is not carried over."),
              ("दश धमन्यः (ten vessels), from unit 68", "The ten dhamanīs belong to unit 68 only."),
              ("दुष्यन्ति (are vitiated), from unit 65", "No vitiation is spoken of in unit 69.")],
             "Liver and spleen are (the root) of the blood-carrying ones.",
@@ -531,7 +531,7 @@ AUTHORED["74"] = {
     "limits": ("Prose. The printed शुक- lacks the r of śukra (a possible print slip, flagged): no question rests on that "
                "reading; the questions ask about the printed list. मूलम् and 'srotas' are carried over (cards 68 to 73). "
                "The breasts are listed as printed, not corrected."),
-    "explain_hi": ("यह गद्य-पंक्ति शुक्र यानी वीर्य वहन करने वालों के मूल बताती है: दोनों स्तन, दोनों मुष्क यानी अण्डकोश (मानक) और मज्जा। "
+    "explain_hi": ("यह गद्य-पंक्ति छपे ‘शुकवाहिनां’ (सम्भवतः शुक्र यानी वीर्य वहन करने वाले) के मूल बताती है: दोनों स्तन, दोनों मुष्क यानी अण्डकोश (मानक) और मज्जा। "
                    "छपा ‘शुकवाहिनां’ है; ‘शुक्र’ का र् छपाई में छूटा लगता है (सम्भावित भूल)। "
                    "स्तनों का नाम छपे अनुसार इसी सूची में है; डेटा ने इसे नहीं बदला। "
                    "‘मूलम्’ और ‘स्रोतस’ इकाई ६८-७३ से समझे जाते हैं। "
@@ -601,7 +601,7 @@ AUTHORED["75"] = {
             ("The bladder and the two groins", "मूत्रवाहिनां बस्तिर्वंक्षणौ च."),
             [("The two kidneys and the flesh", "Those belong to the fat-carrying ones (unit 71)."),
              ("The fat and the hair-pores too", "Those belong to the sweat-carrying ones (unit 77)."),
-             ("The pakvāśaya and the colon", "Those belong to the stool-carrying ones (unit 76).")],
+             ("The pakvāśaya and sthūlāntra", "Those belong to the stool-carrying ones (unit 76).")],
             "Of the urine-carrying ones: the bladder and the two groins.",
             "मूत्रवाहिनां बस्तिर्वंक्षणौ च."),
         order(1, "Put the words of unit 75 in the line's order.",
@@ -650,7 +650,7 @@ AUTHORED["76"] = {
     "explain_hi": ("यह गद्य-पंक्ति शकृत् यानी मल वहन करने वालों के मूल बताती है: पक्वाशय और स्थूलान्त्र। "
                    "पक्वाशय = पक्व (पचा हुआ) + आशय (स्थान); इसे सम्भवतः बड़ी आँत का क्षेत्र माना गया है (सम्भावित)। "
                    "स्थूलान्त्र = स्थूल (मोटी) + अन्त्र (आँत), सम्भवतः बड़ी आँत (सम्भावित)। "
-                   "इकाई ५२ में भी नीचे जाने वाली धमनियाँ पक्वाशय में स्थित कही गई थीं। "
+                   "इकाई ५२ में भी नीचे जाने वाली (सम्भवतः धमनियाँ; पंक्ति नाम नहीं लेती) पक्वाशय में स्थित कही गई थीं। "
                    "सन्धि: शकृत् + वाहिनाम् → शकृद्वाहिनाम् (घोष व्यंजन से पहले त् → द्)।"),
     "hook": "मलवह का मूल: पक्वाशय और स्थूल आँत।",
     "core": False,
@@ -767,8 +767,7 @@ NOTES_HI = {
     "66": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया नहीं; ‘तृष्णा में कही औषध’ कहीं और दिए उपचार की ओर संकेत, यहाँ "
            "दोहराया नहीं; कहाँ, यह नहीं कहा। सन्धि जाँची: तृष्णा + उक्तम् → तृष्णोक्तम् (आ + उ → ओ); उक्तम् + औषधम् → उक्तमौषधम् "
            "(स्वर से पहले म्)।"),
-    "67": ("दो छपी पंक्तियाँ (०२.०६.७५-७६); विश्वास उच्च; कोई पाठ-चिह्न नहीं। डेटा में इसका प्रकार ‘verse’ लिखा है, पर दोनों पंक्तियाँ "
-           "आस-पास की गद्य-पंक्तियों जैसी हैं और अनुष्टुभ् के पाद-नियम पर ठीक नहीं बैठतीं; यह लेबल संदिग्ध है (रिपोर्ट किया)। आमाशय = आम "
+    "67": ("गद्य; दो छपी पंक्तियाँ (०२.०६.७५-७६); विश्वास उच्च; कोई पाठ-चिह्न नहीं। आमाशय = आम "
            "का आशय, सम्भवतः जठर (सम्भावित)। वामपार्श्व = बायाँ पार्श्व, आगे स्पष्ट नहीं। ‘मात्राशितीय’ को अध्याय का नाम माना गया; कौन-सा, "
            "यह नहीं जाँचा गया। दुष्टौ = दुष्टि की सप्तमी। सन्धि जाँची: अन्नवाहिनाम् + आमाशयः → अन्नवाहिनामामाशयः; आमाशयः + मूलम् → "
            "आमाशयो मूलम् (अः + घोष व्यंजन → ओ); आम + आशय → आमाशय (अ + आ → आ); मात्राशितीय + उक्तम् → मात्राशितीयोक्तम् (अ + उ → ओ); "
@@ -810,7 +809,7 @@ NOTES_HI = {
 # ===================================================================== AIDS
 AIDS = {
     "65": {
-        "chain": {"steps": ["कारण: आम (अर्थ अनिश्चित), भय, अतिपान, उष्ण, शुष्क अन्न, तृष्णिग्रह (अनुमानित), आदि",
+        "chain": {"steps": ["कारण: आम (अर्थ अनिश्चित), भय, अतिपान, उष्ण, शुष्क अन्न, छपा तृष्णिग्रह (पाठ अनुमानित), आदि",
                             "उदकवह स्रोतस (इकाई ६४) दूषित", "ततः १ अतितृष्णा", "२ मुखशोष", "३ कर्णक्ष्वेडन",
                             "४ तमोदर्शन"]},
         "chunks": "तान्यामभयातिपानोष्णशुष्कान्नतृष्णिग्रहादिभिर्दुष्यंति || ततोऽतितृष्णा | मुखशोषः | कर्णक्ष्वेडनं | तमोदर्शनं च",
@@ -835,8 +834,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "रसवह स्रोतस का मूल", "items": ["हृदय", "दस धमनियाँ (कौन-सी, छपा नहीं)"]}]},
         "chunks": "रसवाहिनां | हृदयं | मूलं | दशधमन्यश्च",
-        "contrast": "इकाई ६० प्राणवह: हृदय + महास्रोतस · इकाई ६८ रसवह: हृदय + दस धमनियाँ; हृदय दोनों में।",
-        "anchors": "ढाँचा: [क्या]-वाहिनाम् + [मूल]; ‘मूलम्’ यहाँ छपा, इकाई ६९-७७ में यहीं से समझा जाता है।",
+        "anchors": "ढाँचा: [क्या]-वाहिनाम् + [मूल]; ‘मूलम्’ यहाँ छपा, इकाई ६९-७७ में यहीं से समझा जाता है। याद रखें: इकाई ६० (प्राणवह) में भी हृदय मूल है, वहाँ साथ में महास्रोतस।",
     },
     "69": {
         "chunks": "रक्तवाहिनां | यकृत्प्लीहा च",
@@ -913,7 +911,7 @@ IMAGE_SPECS = {
                  '  C3["अतिपान"] --> D\n'
                  '  C4["उष्ण"] --> D\n'
                  '  C5["शुष्क अन्न"] --> D\n'
-                 '  C6["तृष्णिग्रह (अनुमानित)"] --> D\n'
+                 '  C6["छपा तृष्णिग्रह (पाठ अनुमानित)"] --> D\n'
                  '  C7["आदि"] --> D\n'
                  '  D --> S1["१ अतितृष्णा"]\n'
                  '  D --> S2["२ मुखशोष"]\n'

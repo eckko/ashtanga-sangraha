@@ -82,3 +82,30 @@
 - ch5 u46: ūṣman feminine here vs masculine in u30. u47: सप्त nom. pl. vs ind. elsewhere.
 - ch5 u37: alajī 'uncertain' in gloss vs 'disputed' in notes.
 - ch5 u22: kṛtsnasya glossed n.; agrees with dehasya (m.). u24: amita-bhāṣitvam labelled bahuvrīhi (is -tva abstract).
+- ch5 u113: हनुबन्धने labelled n. loc. du. (is loc. sg. or nom./acc. du.). u106: arbuda, sthālaka unlabelled.
+- ch5 u100: ṣaṣṭhyā glossed 'by sixty' (instr. of ṣaṣṭi is ṣaṣṭyā). u90: gūda with long ū (usual guda), not flagged.
+- ch5 u54: printed पित्तमेवाग्न्याभिधानम् (long ā; regular अग्न्यभिधानम्), not flagged.
+- ch5 u65: यकृत्प्लीहा dvandva nom. sg. questionable (maybe two words). u74: क्लोमम् labelled n. nom. sg. of kloman (would be क्लोम). u70/71: bahuvrīhi vs dvigu labels disagree. u64/67: unduka vs Hindi उण्डुक. u66/74: फुप्फुस n. vs m.
+- ch5 u160: printed trunk sum 222 vs 230 (u161 shoulders 8 would close it; data silent). u164 jatru standard vs card 112 probable; akṣaka also 'collarbone'. u116: note quotes Hindi phrase not in the Hindi.
+- Śārīra 5 unit 222: data English/Hindi call śleṣman "phlegm" and pitta "probably bile" (modern names for doṣas); cards keep them untranslated.
+- Śārīra 5 unit 223: text_flag calls the अर्धाञ्जलिः reading "possible", but the notes treat it as certain. Labels should agree.
+- Śārīra 5 unit 207: lines_deva shows तासाम्अभ्यंतराश्रिते with an internal halant (normal: तासामभ्यन्तराश्रिते).
+- Śārīra 5 grammar labels to check (author of batch 19): 231 वायुबुद्धिस्मृत्यादीन् labelled dvandva (with -आदि reads as bahuvrīhi); 234 समत्वम् labelled acc. (object of infinitive + अशक्यम् is normally nom.); 237 संयोगविभागे labelled masc. sg. dvandva (collective would be neuter, two items dual); 240 अहितेषु has no gender.
+- Śārīra 5: akṣaka = collarbone labelled standard at card 160 but probable at cards 111 and 197.
+- Śārīra 5 unit 229: note says the long token joins five words; its own split gives six.
+- Śārīra 5 grammar labels, reviewer's view: 231 = -आदि bahuvrīhi with a dvandva first member, m. acc. pl.; 234 समत्वम् better n. nom. sg. (śakya + infinitive); 237 संयोगविभागे = samāhāra dvandva, n. loc. sg. ("m." wrong); 240 अहितेषु n. (or m.) loc. pl.
+- Śārīra 6 unit 47: English lacks a full stop between its sentences ("adhiṣṭhāna) Of those") and says "is also within a seat" where the split and Hindi say "it is also a seat within".
+- Śārīra 6 unit 41: kṣaṇa-pūrṇa-riktāḥ labelled dvandva; kṣaṇa works adverbially (meaning unaffected).
+- Śārīra 6 unit 32: notes contradict themselves on whether the sixty are part of the nose/eye counts (first "no relation assumed", then the sum check says "not additional").
+- Śārīra 6 unit 31: apāṅga glossed "standard" (outer corner of the eye) while the notes call it a probable marma name.
+- Śārīra 6 unit 4: printed अर्द्धंगुलं lacks the expected आ (अर्धाङ्गुलम्) and is not flagged.
+- Śārīra 6 unit 10: तिरश्चा… could be tiraścā (instr. of tiryañc, "crosswise"); data gives only tiras + ca.
+- Śārīra 5: one term, different labels across units: sirā standard (85) vs probable (48, 143); kaṇḍarā standard (85) vs probable (169); basti = bladder probable (55) vs standard (189).
+- Śārīra 6 unit 8: text_flag labels printed lines as "u13 … u23" and "u6, u9", mixing line and card numbering.
+- Śārīra 6 unit 98: print फेनीभूतमूदीरयति (long ū) but split gives उदीरयति (short u); no text_flag.
+- Śārīra 6 unit 101: print व्यस्तान्यथास्वं fits व्यस्तान् + यथास्वम्, data splits व्यस्तानि + यथास्वम् with no note; Hindi/English put "conjectural reading" on the clearly printed object, not the damaged subject.
+- Śārīra 6 unit 67: data typed it verse; the lines are prose (anuṣṭubh rules broken). Hand override to prose (v6).
+- Śārīra 6 unit 76: note cites "lines 77-82 (card 68/73)"; should read cards 68-73.
+- Śārīra 6 unit 106: परिणामवताप्यायमानानां split as परिणामवत् + आप्यायमानानाम् breaks sandhi (त् before vowel → द्); likelier परिणामवता (instr.) + आप्यायमानानाम्.
+- Śārīra 6 unit 101: the flag on विक्लिन्नआहारे is not a print slip; ए + आ → अ आ is regular, only the space is missing.
+- Śārīra 6 unit 78: दोषादिविज्ञानीयात् split as दोषादि + विज्ञानीयात् "one should know" is not a regular optative (vi-√jñā → विजानीयात्); most likely the ablative of the chapter name Doṣādivijñānīya.

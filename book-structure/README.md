@@ -1,6 +1,6 @@
 # Chapter map
 
-Version 5; kinds: verse-study. Cards so far: Sūtrasthāna 1–5 and Śārīrasthāna 1–4; Śārīrasthāna 5–12 mapped, cards in progress.
+Version 6; kinds: verse-study. Cards so far: Sūtrasthāna 1–5 and Śārīrasthāna 1–5; Śārīrasthāna 6–12 mapped, cards in progress.
 
 One entry per chapter with its topic groups.
 
