@@ -69,12 +69,12 @@ AUTHORED["154"] = {
              "10 + 40 + 10 = 150) this ten is the last item."),
     "limits": ("Prose, two words; no verb and no counted noun are printed (the snāyu run of card 144). 'Per limb' comes from "
                "card 148 ('in each single sakthi'), not from this line. The ं of वंक्षणे stands for ङ्."),
-    "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: दस, वंक्षण यानी जाँघ के मूल (ऊसन्धि) में। "
+    "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: दस, वंक्षण यानी जाँघ के मूल (ऊरुसन्धि) में। "
                    "‘वंक्षणे’ में अनुस्वार क से पहले ङ् का स्थान लेता है: वङ्क्षणे। "
                    "डेटा की इकाई १४५ वाली जाँच एक शाखा की स्नायु इस क्रम से जोड़ती है: अंगुलियाँ ३०, पादतल-कूर्च-गुल्फ ३०, जंघा ३०, जानु १०, ऊरु ४०, वंक्षण १०; योग १५०, और चार शाखाओं में ६००। "
                    "यह दस उस सूची की अन्तिम संख्या है। "
                    "गिनी गई वस्तु और क्रिया इस पंक्ति में छपी नहीं।"),
-    "hook": "पैर की सूची का अन्त: वंक्षण में दस।",
+    "hook": "शाखा की सूची का अन्त: वंक्षण में दस।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 154, what count is given for the groin (vaṅkṣaṇa)?",
@@ -94,13 +94,13 @@ AUTHORED["154"] = {
               "Groin 10 (card 154), thigh 40 (153), shank 30 (151), six in each toe (148).",
               "वङ्क्षण 10, ऊरु 40, जङ्घा 30, पादाङ्गुली six each.", role="extend",
               teaches="One limb, by the data's check at card 145: 30 + 30 + 30 + 10 + 40 + 10 = 150; four limbs = 600."),
-        mcq("discriminate", 3, "Unit 154 prints वंक्षणे; the data's word is वङ्क्षणे. Why are both one word?",
-            ("ं before क stands for ङ्", "Anusvāra before a क-row consonant stands for ङ्: वंक्षणे = वङ्क्षणे."),
-            [("ं before क stands for न्", "Before क the nasal of its row is ङ्, not न्."),
-             ("ं before क stands for म्", "Before क the nasal of its row is ङ्, not म्."),
-             ("ं before क stands for ण्", "ण् is the nasal of the ट-row, not of the क-row.")],
+        mcq("discriminate", 3, "Inside the word वंक्षणे (unit 154), what does the ं before क stand for?",
+            ("ङ्", "Inside a word ं before a क-row consonant stands for ङ्: वंक्षणे = वङ्क्षणे."),
+            [("न्", "Inside a word the nasal before क is that of its row, ङ्, not न्."),
+             ("म्", "ं stands for म् at a word end; inside this word it is ङ्."),
+             ("ण्", "ण् is the nasal of the ट-row, not of the क-row.")],
             "वंक्षणे = वङ्क्षणे: क्ष begins with क, so the anusvāra stands for ङ्.",
-            "ं before क, ख, ग, घ = ङ्."),
+            "Inside a word: ं before क, ख, ग, घ = ङ्."),
         multi("apply", 4, "Which statements fit unit 154?",
               [("It gives ten for the groin", "Right: दश वंक्षणे."),
                ("It prints the word for what it counts", "No counted noun is printed in the line."),
@@ -156,7 +156,7 @@ AUTHORED["155"] = {
             "Trunk check: कटि 40 + 20 + 80 + 60 + 18 + 4.",
             teaches="After the limb (cards 148-154) the data's check counts the trunk from the hip (card 155)."),
         mcq("discriminate", 3, "Why does त् stay त् in चत्वारिंशत्कट्यां (unit 155)?",
-            ("क is unvoiced", "त् becomes द् before a vowel or a voiced consonant; क is unvoiced, so त् stays."),
+            ("क is unvoiced", "त् changes before a vowel or a voiced sound (द् before ग, द, ब; also ल्, ज्, न् before ल, ज, a nasal); क is unvoiced, so त् stays."),
             [("क is a nasal", "क is not a nasal; the nasal of its row is ङ."),
              ("त् never changes", "It does change: before a vowel it becomes द् (unit 153)."),
              ("क is a vowel", "क is a consonant; before a vowel त् would become द्.")],
@@ -172,7 +172,7 @@ AUTHORED["155"] = {
               "चत्वारिंशत्कट्यां = चत्वारिंशत् कट्याम्."),
         mcq("transfer", 5, "By the rule of चत्वारिंशत् + कट्याम्, how are तत् + कालम् (that time) joined?",
             ("तत्कालम्", "त् stays before the unvoiced क, as in चत्वारिंशत्कट्यां."),
-            [("तद्कालम्", "द् comes before a vowel or a voiced consonant; क is unvoiced."),
+            [("तद्कालम्", "द् comes before a vowel or a voiced consonant such as ग; क is unvoiced."),
              ("तन्कालम्", "न् would come before a nasal; क is not a nasal."),
              ("तच्कालम्", "च् comes from त् before च, छ or श, not before क.")],
             "तत् + कालम् = तत्कालम्, like चत्वारिंशत् + कट्याम् = चत्वारिंशत्कट्याम्.",
@@ -232,13 +232,13 @@ AUTHORED["156"] = {
               "Bladder and intestines are among its four places.",
               "मुष्क-मेंद्र-बस्ति-अन्त्रेषु."),
         mcq("transfer", 5, "By the rule of विंशतिः + मुष्क..., how are मतिः + मम (my mind) joined?",
-            ("मतिर्मम", "इः before a voiced sound becomes इर्, as विंशतिः + मुष्क → विंशतिर्मुष्क."),
+            ("मतिर्मम", "इः before a voiced sound (other than र) becomes इर्, as विंशतिः + मुष्क → विंशतिर्मुष्क."),
             [("मतिः मम", "Before the voiced म the visarga after इ does not stay; it becomes र्."),
              ("मतिस्मम", "स् comes before त or थ, not before म."),
              ("मतिम्मम", "A visarga does not become म्.")],
             "मतिः + मम = मतिर्मम, like विंशतिः + मुष्क = विंशतिर्मुष्क.",
-            "इः + voiced sound → इर्.",
-            teaches="A visarga after इ before a voiced sound becomes र्: विंशतिः + मुष्क → विंशतिर्मुष्क."),
+            "इः + voiced sound (not र) → इर्.",
+            teaches="A visarga after इ before a voiced sound other than र becomes र्: विंशतिः + मुष्क → विंशतिर्मुष्क."),
     ],
 }
 
@@ -505,7 +505,7 @@ AUTHORED["161"] = {
             ("The counted item, snāyu", "The data: no noun is printed; snāyu is carried from the run begun at card 144."),
             [("The number, eight", "The number is printed: अष्टौ."),
              ("The place, the shoulders", "The place is printed: अंसयोः."),
-             ("The word 'each' (प्रत्येकम्)", "No 'each' is carried or printed here.")],
+             ("The word 'each' (प्रत्येकम्)", "No 'each' is printed here; the data carries over only the counted item, snāyu.")],
             "Number and place are printed; the counted item, snāyu, is understood.",
             "ELLIPSIS: snāyu, carried from card 144.",
             teaches="These short lines print only number + place; the counted item (snāyu) is carried over."),
@@ -541,15 +541,16 @@ AUTHORED["162"] = {
     "question": "By unit 162, which five places get 'two each'?",
     "rule": ("Two each (द्वे द्वे) in the manyā (probably the side of the neck), the avaṭu (probably the hollow at the "
              "nape), the eyes (नेत्र), the lips (ओष्ठ) and the palate (तालु): one dvandva, locative plural."),
-    "limits": ("Prose; the counted item (snāyu) is carried, not printed. Manyā and avaṭu are probable identifications only: "
-               "no question asks their meaning. The ऽ after मन्या is a print habit (data), not an elision. Whether two for "
-               "each side is not said: no question on it."),
+    "limits": ("Prose; snāyu is carried, not printed. Manyā and avaṭu are probable only: not asked. The ऽ after मन्या "
+               "is a print habit (data). Two per side is not said. Before ओष्ठ in a compound अ + ओ may also give ओ "
+               "(नेत्रोष्ठ is also valid); the print has औ."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: दो-दो, पाँच स्थानों में: मन्या (सम्भवतः गर्दन का पार्श्व), अवटु (सम्भवतः गर्दन के पीछे का गड्ढा), नेत्र, ओष्ठ और तालु। "
                    "मन्या और अवटु की पहचान केवल सम्भावित है। "
                    "‘द्वे द्वे’ = दो-दो, यानी हर स्थान में दो; हर ओर दो हैं या नहीं, पाठ नहीं कहता। "
                    "‘नेत्रौष्ठ’ = नेत्र + ओष्ठ, अ + ओ → औ। "
                    "‘मन्याऽवटु’ का ऽ डेटा के अनुसार छपाई की आदत है, लोप का चिह्न नहीं। "
-                   "गिनी गई वस्तु, स्नायु, पिछली पंक्तियों से चली आ रही है।"),
+                   "गिनी गई वस्तु, स्नायु, पिछली पंक्तियों से चली आ रही है। "
+                   "(समास में ओष्ठ से पहले अ + ओ → ओ भी विकल्प से होता है, जैसे बिम्बोष्ठ; यहाँ छपा औ है।)"),
     "hook": "दो-दो: मन्या, अवटु, आँख, होंठ, तालु।",
     "core": True,
     "questions": [
@@ -778,7 +779,7 @@ NOTES_HI = {
             "कटि = कूल्हा या कमर (डेटा)। डेटा का विश्वास उच्च; कोई text_flag नहीं।"),
     "156": ("text_flag (सम्भावित): छपा ‘मेंद्र’ कोई शब्द नहीं; डेटा ‘मेढ्र’ (लिंग) पढ़ने का सुझाव देता है, क्योंकि ढ का ‘ंद’ पढ़ा जाना "
             "सम्भव है। यह केवल सम्भावित पाठ है; इस पर कोई प्रश्न नहीं। विश्वास मध्यम। समास: मुष्क-मेढ्र-बस्ति-अन्त्रेषु (द्वन्द्व, सप्तमी "
-            "बहुवचन)। सन्धि: विंशतिः + मुष्क → विंशतिर्मुष्क (इः + घोष → इर्); बस्ति + अन्त्र → बस्त्यन्त्र (इ + अ → य)। "
+            "बहुवचन)। सन्धि: विंशतिः + मुष्क → विंशतिर्मुष्क (इः + घोष, र के सिवा → इर्); बस्ति + अन्त्र → बस्त्यन्त्र (इ + अ → य)। "
             "मुष्क, बस्ति, अन्त्र की पहचान मानक।"),
     "157": ("‘अशीतिः पृष्ठे’: अघोष प से पहले विसर्ग बना रहता है। डेटा का विश्वास उच्च; कोई text_flag नहीं। गिनी गई वस्तु छपी नहीं।"),
     "158": ("‘षष्टिः पार्श्वयोः’: अघोष प से पहले विसर्ग बना रहता है। ‘पार्श्वयोः’ द्विवचन; -योः षष्ठी या सप्तमी दोनों हो सकता है, "
@@ -809,8 +810,8 @@ AIDS = {
     "153": {
         "chunks": "चत्वारिंशदूरौ (= चत्वारिंशत् | ऊरौ)",
         "sandhi": "स्वर से पहले त् → द्: चत्वारिंशत् + ऊरौ → चत्वारिंशदूरौ।",
-        "chain": {"steps": ["कुल ९०० स्नायु (इकाई १४४)", "शाखाओं में ६०० (१४५)", "धड़ में २३० (१४६)", "ऊपर ७० (१४७)",
-                            "शाखा की सूची में: ऊरु में ४० (१५३)"]},
+        "chain": {"steps": ["कुल ९०० स्नायु (इकाई १४४)", "शाखाओं में ६०० (१४५)", "एक शाखा में १५० (डेटा की जाँच)",
+                            "उस सूची में: ऊरु में ४० (१५३)"]},
     },
     "154": {
         "chunks": "दश | वंक्षणे",
@@ -827,7 +828,7 @@ AIDS = {
     },
     "156": {
         "chunks": "विंशतिर्मुष्कमेंद्रबस्त्यंत्रेषु (= विंशतिः | मुष्क-मेंद्र(?)-बस्ति-अन्त्रेषु)",
-        "sandhi": "इः + घोष ध्वनि → इर्: विंशतिः + मुष्क → विंशतिर्मुष्क · इ + अ → य: बस्ति + अन्त्रेषु → बस्त्यन्त्रेषु।",
+        "sandhi": "इः + घोष ध्वनि (र के सिवा) → इर्: विंशतिः + मुष्क → विंशतिर्मुष्क · इ + अ → य: बस्ति + अन्त्रेषु → बस्त्यन्त्रेषु।",
         "anchors": "याद-सूत्र (मेरी याद-पद्धति): पंक्ति के क्रम में चार: मुष्क → मेंद्र (छपा) → बस्ति → अन्त्र; बीस चारों के लिए मिलाकर।",
     },
     "157": {
@@ -888,12 +889,12 @@ AIDS = {
 IMAGE_SPECS = {
     ("153", "chain"): {
         "file": "sh5-snayu-ganana-153.svg",
-        "alt": ("Chain of the snāyu (ligament) count: 900 in all (card 144), 600 in the limbs (145), 230 in the trunk (146), "
-                "70 above (147); in the limb list, forty in the thigh (153)."),
+        "alt": ("Chain of the snāyu (ligament) count: 900 in all (card 144), 600 in the four limbs (145), 150 in one limb "
+                "by the data's check, and in that list forty in the thigh (153)."),
         "type": "chain",
         "title": "स्नायु की गिनती",
-        "steps": ["कुल ९०० (इकाई १४४)", "शाखाओं में ६०० (१४५)", "धड़ में २३० (१४६)", "ऊपर ७० (१४७)",
-                  "शाखा-सूची में: ऊरु ४० (१५३)"],
+        "steps": ["कुल ९०० (इकाई १४४)", "शाखाओं में ६०० (१४५)", "एक शाखा में १५० (डेटा की जाँच)",
+                  "उस सूची में: ऊरु ४० (१५३)"],
     },
     ("154", "diagram"): {
         "file": "sh5-snayu-shakha-154.svg",
