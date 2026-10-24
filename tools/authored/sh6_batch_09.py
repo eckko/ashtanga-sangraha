@@ -57,7 +57,7 @@ AUTHORED["104"] = {
             ("सदाचार", "A final त् before a vowel becomes द्, as तत् + आत्मक → तदात्मक."),
             [("सताचार", "Before a vowel the त् does not stay; it becomes द्."),
              ("सदचार", "The आ of आचार is kept long; nothing shortens it."),
-             ("सन्नाचार", "त् becomes न् only before a nasal, not before a vowel.")],
+             ("सन्नाचार", "त् may become न् (optionally) only before a nasal, not before a vowel.")],
             "सत् + आचार = सदाचार, like तत् + आत्मक = तदात्मक.",
             "Final त् before a vowel → द्.",
             teaches="A word-final त् becomes द् before a vowel: तत् + आत्मक → तदात्मक."),

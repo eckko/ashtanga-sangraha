@@ -640,7 +640,7 @@ AUTHORED["49"] = {
         mcq("transfer", 5, "By the rule of वृक्षादिव, how is जगत् + ईशः (lord of the world) joined?",
             ("जगदीशः", "त् before a vowel becomes द्, as वृक्षात् + इव → वृक्षादिव."),
             [("जगतीशः", "Before a vowel the त् becomes द्; it does not stay."),
-             ("जगन्नीशः", "त् becomes न् only before a nasal, not before ई."),
+             ("जगन्नीशः", "त् may become न् (optionally) only before a nasal, not before ई."),
              ("जगदिशः", "The long ई of ईशः stays long: -दीशः.")],
             "जगत् + ईशः = जगदीशः, like वृक्षात् + इव = वृक्षादिव.",
             "त् + vowel → द्.",

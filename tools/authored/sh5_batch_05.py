@@ -511,7 +511,7 @@ AUTHORED["60"] = {
         mcq("apply", 4, "Why is तत् printed तद् in तद्योगेन?",
             ("त् before the voiced य becomes द्", "A final त् becomes द् before a voiced sound."),
             [("त् before the unvoiced य stays त्", "य is voiced, and the print has द्."),
-             ("त् before य becomes the nasal न्", "न् arises before a nasal; य is not a nasal."),
+             ("त् before य becomes the nasal न्", "न् may arise (optionally) only before a nasal; य is not a nasal."),
              ("त् before any consonant becomes द्", "Before unvoiced consonants त् stays (आमाशयात्पक्वाशय).")],
             "तत् + योगेन = तद्योगेन: त् → द् before a voiced sound.",
             "त् + voiced sound → द्."),
