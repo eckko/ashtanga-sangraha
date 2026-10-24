@@ -10,7 +10,7 @@ AUTHORED["76"] = {
              "Manda when the residue (kiṭṭa) is like the kalka (paste); cikkaṇa when it is like madana (probably wax)."),
     "limits": ("Khara-cikkaṇa is only named here; its sign follows in line 05.08.93, and 'hard-smooth' is a reading, not the text's "
                "definition. Madana is taken as wax (probable); the word also names a tree. No times or temperatures are given."),
-    "explain_hi": ("स्नेह यानी तेल या वसा (घी या तेल) का पाक तीन प्रकार का बताया गया है: मन्द, चिक्कण यानी चिकना, और खर-चिक्कण। "
+    "explain_hi": ("स्नेह यानी घी, तेल जैसे चिकने द्रव्य का पाक तीन प्रकार का बताया गया है: मन्द, चिक्कण यानी चिकना, और खर-चिक्कण। "
                    "पहचान पात्र में बचे किट्ट यानी तलछट से होती है। जब किट्ट कल्क यानी लुगदी के समान ही हो, तब पाक मन्द है; "
                    "जब वह मदन यानी सम्भवतः मोम के समान हो, तब चिक्कण। तीसरे प्रकार खर-चिक्कण का लक्षण अगले श्लोक में आता है। "
                    "‘कल्कसमे किट्टे’ सप्तमी है: ‘जब किट्ट कल्क के समान हो’।"),
@@ -137,7 +137,7 @@ AUTHORED["78"] = {
     "title": "मृदुर्नस्ये खरोऽभ्यंगे",
     "question": "Which cooked sneha suits which use, and which two mountains are named, by verse 78?",
     "rule": ("Mild (mṛdu) for nasya (nasal administration), hard (khara) for abhyaṅga (oil massage), cikkaṇa for drinking "
-             "and basti (enema). The earth is mostly marked by the mountains Himavat and Vindhya."),
+             "and basti (enema). The earth is for the most part pervaded (conjectural reading) by the mountains Himavat and Vindhya."),
     "limits": ("Mṛdu and khara are not the kind names of verse 76 (manda, khara-cikkaṇa); the text does not equate them. "
                "The printed व्यासा is read on a conjecture as व्याप्ता (pervaded) or व्यस्ता (divided); no question rests on it."),
     "explain_hi": ("पहली पंक्ति बताती है कि कौन-सा पका स्नेह किस प्रयोग में: नस्य यानी नाक में डालने में मृदु, अभ्यंग यानी मालिश में खर, "
@@ -241,14 +241,14 @@ AUTHORED["79"] = {
             "आद्यम् → saumya, pathya; वैन्ध्यम् औषधम् → āgneya.",
             "Vindhya medicine = āgneya."),
         mcq("apply", 4,
-            "A student must name what verse 79 calls saumya and wholesome. Which is it?",
-            ("The first (आद्य) of these",
-             "सौम्यं पथ्यं च तत्राद्यम्: among these, the first is saumya and wholesome."),
-            [("The Vindhya one", "The Vindhya medicine is called āgneya, not saumya."),
-             ("The cikkaṇa sneha", "Cikkaṇa is a kind of cooked sneha (verse 76), not named here."),
-             ("The kalka paste", "Kalka is not named in this verse.")],
-            "तत्र आद्यम् = among these, the first.",
-            "The first = saumya and pathya."),
+            "A student translates सौम्यं पथ्यं च तत्राद्यम् as: among these, the first is āgneya and wholesome. Which word is wrong?",
+            ("āgneya: the first is saumya",
+             "सौम्यं … आद्यम्: the first is saumya; āgneya is said of the Vindhya medicine."),
+            [("wholesome: it should be fiery", "पथ्यम् = wholesome; this word is right."),
+             ("first: it should be Vindhya", "आद्यम् = the first; this word is right."),
+             ("among these: it should be thus", "तत्र = among these; this word is right.")],
+            "सौम्यं पथ्यं च तत्राद्यम्: among these, the first is saumya and wholesome; āgneya belongs to the Vindhya medicine.",
+            "The first = saumya and pathya; Vindhya = āgneya."),
         mcq("transfer", 5,
             "अष्टमः + अध्यायः gives अष्टमोऽध्यायः. By the same rule, which is right for षष्ठः + अध्यायः?",
             ("षष्ठोऽध्यायः",
