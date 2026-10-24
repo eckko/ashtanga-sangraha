@@ -11,7 +11,7 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 89
 AUTHORED["89"] = {
     "title": "यदा तस्यावयवस्तदा",
-    "question": "Which words of the damaged prose line 89 are sure, and how is the line built?",
+    "question": "Which words of the damaged prose unit 89 are sure, and how is the unit built?",
     "rule": ("A damaged 'when ... then' clause: यदा तस्य अवयवः (when its part ...), तदा (then) ... The word after तदा "
              "is unclear in print, and the clause has no predicate."),
     "limits": ("Low confidence. The printed तदापूतप्रजां is doubtful; पूतिप्रजाम् (one of spoiled offspring) is only a "
@@ -100,7 +100,7 @@ AUTHORED["90"] = {
         mcq("discriminate", 3, "Why is तस्याः printed as तस्या before जातम्?",
             ("Visarga after आ drops before ज", "ज is voiced, so तस्याः + जातम् → तस्या जातम्."),
             [("Visarga becomes र् before ज", "र् comes only after vowels other than अ/आ."),
-             ("Visarga becomes श् before ज", "श् comes only before च or छ."),
+             ("Visarga becomes श् before ज", "Visarga becomes श् only before a palatal च, छ or श, never before voiced ज."),
              ("A letter is lost in the print", "The note calls it regular sandhi, not a print loss.")],
             "आः before a voiced consonant loses its visarga: तस्या जातम्.",
             "आः + voiced consonant → आ."),
@@ -129,12 +129,12 @@ AUTHORED["91"] = {
     "rule": ("When again that part (avayava) is one part (ekadeśa) of those seed-portions (bījāṃśa) that produce the "
              "female-making (ones) and the body-dependent (ones) beginning with downward heaviness ..."),
     "limits": ("Low confidence. No predicate; the result comes in unit 92. स्त्रीकरण (female-making) and अधोगुरुत्व "
-               "(downward heaviness) are literal, not firm, and आदि gives no list. The printed स्त्रीकरणां probably "
-               "lacks ना. No question rests on these words."),
+               "(downward heaviness) are literal, not firm, and आदि gives no list. The printed स्त्रीकरणां may lack ना "
+               "(possible, not firm). No question rests on their meaning; the order question uses only their position."),
     "explain_hi": ("यह लम्बा, अधूरा गद्य-वाक्य है; इसका परिणाम इकाई ९२ में आता है। "
                    "पक्का ढाँचा यह है: जब फिर वह अवयव उन बीजांशों का एक देश (एक भाग) है, जो कुछ चीज़ों के निर्वर्तक (बनाने वाले) हैं। "
                    "वे चीज़ें हैं ‘स्त्रीकरण’ और शरीर में आश्रित ‘अधोगुरुत्व आदि’; इन शब्दों का अर्थ शाब्दिक है और पक्का नहीं। "
-                   "छपा ‘स्त्रीकरणां’ सम्भवतः ‘स्त्रीकरणानाम्’ है। ‘सोऽवयवः’ में सः + अवयवः की सन्धि है।"),
+                   "छपा ‘स्त्रीकरणां’ शायद ‘स्त्रीकरणानाम्’ हो (सम्भव पाठ, पक्का नहीं)। ‘सोऽवयवः’ में सः + अवयवः की सन्धि है।"),
     "hook": "वह अवयव = उन निर्वर्तक बीजांशों का एक देश।",
     "core": False,
     "questions": [
@@ -161,7 +161,7 @@ AUTHORED["91"] = {
             ("सः + अवयवः", "अः before अ gives ओ and the अ is shown by ऽ: सोऽवयवः."),
             [("सा + अवयवः", "आ + अ would join as सावयवः."),
              ("सो + वयवः", "सो and वयवः are not the card's words."),
-             ("सः + वयवः", "Before व the visarga gives सो वयवः, with no ऽ.")],
+             ("सः + वयवः", "सः before a consonant loses its visarga (स वयवः), with no ओ or ऽ; and वयवः is not a word.")],
             "सः (that) + अवयवः (part): अः + अ → ओऽ.",
             "अः + अ → ओ + ऽ."),
         multi("apply", 4, "Which two does unit 91 state plainly, by the card?",
@@ -188,10 +188,10 @@ AUTHORED["92"] = {
     "title": "वार्तां नाम जनयति",
     "question": "What does unit 92 say is then produced, and by what name?",
     "rule": ("Then it produces (one) mostly of form and shape, a non-woman (astrī), named vārtā."),
-    "limits": ("The subject of जनयति is not stated ('it'). रूपाकृतिप्राया does not say whose form and shape; a dropped "
-               "स्त्री- (of a woman) is only a conjecture and is not applied, so no question rests on it. वार्ता is kept "
-               "as a name. The sentence began in unit 91."),
-    "explain_hi": ("यह पंक्ति इकाई ९१ के अधूरे वाक्य को पूरा करती है: तब वह (कर्ता अनकहा) एक ऐसी को उत्पन्न करता है जो रूप और आकृति की "
+    "limits": ("जनयति has no stated subject. रूपाकृतिप्राया does not say whose form and shape; a dropped स्त्री- "
+               "(of a woman) is only a conjecture, not applied or asked. वार्ता is a name. The sentence appears to "
+               "begin in unit 91 (not firm)."),
+    "explain_hi": ("यह पंक्ति सम्भवतः इकाई ९१ के अधूरे वाक्य को पूरा करती है (पक्का नहीं): तब वह (कर्ता अनकहा) एक ऐसी को उत्पन्न करता है जो रूप और आकृति की "
                    "प्रधानता वाली है, पर अस्त्री, यानी स्त्री नहीं है; उसका नाम वार्ता है। "
                    "‘किसका रूप-आकृति’, यह छपा पाठ नहीं बताता; ‘स्त्री-’ छूटा होने का अनुमान है, पर लागू नहीं किया गया। "
                    "‘अस्त्री’ में अ- निषेध है: स्त्री नहीं। ‘वार्ता’ एक नाम है, इसका अनुवाद नहीं किया गया।"),
@@ -200,7 +200,7 @@ AUTHORED["92"] = {
     "questions": [
         mcq("pretest", 0, "By unit 92, what is the one produced named?",
             ("वार्ता", "वार्तां नाम जनयति: it produces (one) named vārtā."),
-            [("वन्ध्या", "The barren one is the subject of unit 88."),
+            [("वन्ध्या", "The barren one is what is produced in unit 88."),
              ("मृणासुलिङ्गा", "That name belongs to the man's side, in unit 94."),
              ("कुब्जा", "No such name is printed here.")],
             "The one produced is named vārtā.",
@@ -258,7 +258,7 @@ AUTHORED["93"] = {
             ("A strī-vyāpad", "तां स्त्रीव्यापदम् आचक्षते."),
             [("A barren one (वन्ध्या)", "The barren one is named in unit 88."),
              ("A pregnant one (गर्भिणी)", "Pregnancy is not named in this line."),
-             ("A kind of ṣaṇḍha", "The ṣaṇḍha kinds belong to earlier units.")],
+             ("A kind of ṣaṇḍha (impotent man)", "The ṣaṇḍha kinds (impotent men) belong to earlier units.")],
             "They call her a strī-vyāpad.",
             "आचक्षते = they call."),
         order(1, "Put the words of unit 93 in their printed order.",
@@ -343,7 +343,7 @@ AUTHORED["94"] = {
               [("A barren one (वन्ध्यम्)", "Right: वन्ध्यम् is printed."),
                ("A non-woman named vārtā", "That is the woman's side, in unit 92."),
                ("One mostly of male shape, a non-male", "Right: पुरुषाकृतिप्रायम् अपुरुषम्."),
-               ("One whose each born child dies", "That is unit 90.")],
+               ("One who is deaf and mute (बधिर, मूक)", "Deaf and mute are Vāta effects in the embryo, in unit 97.")],
               [0, 2],
               "On the man's side it produces a barren one and one mostly of male shape, a non-male.",
               "वन्ध्यम्; पुरुषाकृतिप्रायम् अपुरुषम्."),
@@ -423,8 +423,8 @@ AUTHORED["96"] = {
     "question": "What does unit 96 say does not arise, and why?",
     "rule": "(It) does not arise, because of the absence of affliction (an-upatāpa).",
     "limits": ("Elliptical: the subject (the deformity of unit 95) is understood, not printed. The printed अनुपत्तापात् is "
-               "read अनुपतापात्, its double त् taken as a print slip; no question rests on that spelling. The data does not "
-               "assert how this line pairs with unit 95."),
+               "read अनुपतापात् (an-upatāpa), its double त् a print slip, as the data does; questions use that reading, "
+               "none the printed spelling. Its pairing with unit 95 is not asserted."),
     "explain_hi": ("यह छोटी पंक्ति कहती है: (वह) उत्पन्न नहीं होती, उपताप (पीड़ा) न होने से। "
                    "कर्ता छपा नहीं; वह इकाई ९५ की विकृति समझी गई है। "
                    "‘अनुपतापात्’ में ‘अन्’ निषेध है और ‘-आत्’ पंचमी विभक्ति कारण बताती है: ‘के कारण’। "
@@ -482,7 +482,7 @@ AUTHORED["97"] = {
     "title": "यदा च लब्धगर्भा",
     "question": "What does unit 97 say provoked Vāyu produces in the embryo when a pregnant woman resorts to Vāta-increasing things?",
     "rule": ("When a pregnant woman resorts to Vāta-increasing (ones), her provoked Vāyu, moving along the body and lodging "
-             "in the uterus, produces in the embryo dullness, deafness, muteness, nasal voice, stammering, lameness, "
+             "in the uterus, produces in the embryo dullness, deafness, muteness, nasal voice (minmiṇa; probable), stammering, lameness, "
              "hunchback, dwarfism, deficient or excessive limbs, or another Vāta disorder."),
     "limits": ("Low confidence only for one word: the printed अनक्षम् is unclear (conjecturally अनिशम्, constantly) and no "
                "question rests on it. मिन्मिण as nasal or indistinct speech is probable. The unit names no remedy and "
@@ -492,7 +492,7 @@ AUTHORED["97"] = {
                    "कुबड़ापन, बौनापन, अंगों की कमी और अंगों की अधिकता, या कोई दूसरा वात-विकार। "
                    "लम्बे समास के अन्त का ‘-त्व’ पूरी सूची पर लगता है: ‘-पन’। "
                    "छपा ‘अनक्षम्’ अस्पष्ट है; ‘अनिशम्’ (निरन्तर) केवल अनुमान है।"),
-    "hook": "गर्भिणी ने वातल खाया: वात गर्भाशय में बैठा, गर्भ में जड़-बधिर-मूक …",
+    "hook": "गर्भिणी ने वातल का सेवन किया: वात गर्भाशय में बैठा, गर्भ में जड़-बधिर-मूक …",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 97, what does the pregnant woman resort to that sets this off?",
@@ -689,13 +689,13 @@ AUTHORED["100"] = {
                 "विकारान्, printed in unit 100, is the accusative plural of the अ-stem विकार.",
                 "-आन् = acc. pl. (m.); -आः = nom. pl.; -अम् = acc. sg.; -अः = nom. sg.", role="extend"),
           "A masculine अ-stem makes its accusative plural in -आन्: विकारान्."),
-        mcq("discriminate", 3, "What case and number is विकारान् in unit 100?",
-            ("Accusative plural", "-आन् is the m. acc. pl. of an अ-stem."),
-            [("Nominative plural", "That would be विकाराः."),
-             ("Genitive plural", "That would be विकाराणाम्."),
-             ("Accusative singular", "That would be विकारम्.")],
-            "विकारान् = disorders, as the object (acc. pl.).",
-            "-आन् = m. acc. pl."),
+        mcq("discriminate", 3, "Which word of unit 100 is unclear in print?",
+            ("त्रिवर्गौमिश्रान्", "The data keeps it as printed; any reading of it is a guess."),
+            [("विकारान्", "विकारान् is the one sure word."),
+             ("करोति", "No verb is printed in this line."),
+             ("वातविकारम्", "That word is printed in unit 97, not here.")],
+            "Only विकारान् is sure; त्रिवर्गौमिश्रान् is unclear.",
+            "Unit 100: unclear word + विकारान्."),
         multi("apply", 4, "Which two are right about unit 100 by the card?",
               [("It is a prose line", "Right: the unit is prose."),
                ("No verb is printed in it", "Right: the line is elliptical."),
@@ -724,7 +724,7 @@ NOTES_HI = {
     "90": ("विश्वास उच्च, कोई पाठ-चिह्न नहीं; गद्य (02.02.93)। तस्याः + जातम् → तस्या जातम्: आः के बाद घोष व्यंजन ज से पहले विसर्ग का लोप, "
            "नियमित सन्धि। ‘जातं जातम्’ की दोहराई = हर एक जन्मा। ‘म्रियते’ = मरता है (वर्तमान, आत्मनेपद)। "
            "यह सम्भवतः इकाई ८९ का परिणाम है।"),
-    "91": ("विश्वास कम; गद्य (02.02.94)। पाठ-चिह्न: छपा ‘स्त्रीकरणां’ सम्भवतः ‘स्त्रीकरणानाम्’ है (‘ना’ छूटा; षष्ठी बहुवचन अपेक्षित)। "
+    "91": ("विश्वास कम; गद्य (02.02.94)। पाठ-चिह्न: छपा ‘स्त्रीकरणां’ शायद ‘स्त्रीकरणानाम्’ हो (‘ना’ छूटा; षष्ठी बहुवचन अपेक्षित; सम्भव पाठ, पक्का नहीं)। "
            "‘स्त्रीकरण’ और ‘अधोगुरुत्व’ के अर्थ शाब्दिक हैं, पक्के नहीं; ‘आदि’ की सूची नहीं दी। वाक्य अधूरा; परिणाम इकाई ९२ में। "
            "सन्धियाँ जाँचीं: सः + अवयवः → सोऽवयवः; अधस् + गुरुत्व → अधोगुरुत्व; निर्वर्तकाः + ये → निर्वर्तका ये; "
            "बीजांशाः + तेषाम् → बीजांशास्तेषाम्; तेषाम् + एकदेशः → तेषामेकदेशः।"),
@@ -735,7 +735,7 @@ NOTES_HI = {
            "सन्धि जाँची: स्त्रीव्यापदम् + आचक्षते → स्त्रीव्यापदमाचक्षते; ताम् + स्त्री → तां स्त्री (अन्त्य म् का अनुस्वार)।"),
     "94": ("विश्वास कम; गद्य (02.02.97), एक लम्बी पंक्ति, कई शब्द बिना दूरी के छपे। पाठ-चिह्न: छपा ‘शुकरारख्ये’ सम्भवतः ‘शुक्राख्ये’ "
            "(शुक्र नामक) है; ‘र’ का वैसा ही प्रवेश इकाई ८८ के ‘शोणितारख्ये’ में दिखता है। ‘पूतिप्रजम्’ का अर्थ अनुमानित; "
-           "‘मृणासुलिंगा’ नाम अस्पष्ट, सम्भवतः बिगड़ा, अनूदित रखा गया। रस = पोषक रस (सम्भावित); सत्त्व = मन (मानक)। "
+           "‘मृणासुलिंगा’ नाम अस्पष्ट, सम्भवतः बिगड़ा; इसका अनुवाद नहीं किया गया। रस = पोषक रस (सम्भावित); सत्त्व = मन (मानक)। "
            "सन्धियाँ जाँचीं: एवम् + एव → एवमेव; पुंसः + यदा → पुंसो यदा; प्रदुष्यति + इति → प्रदुष्यतीति; इति + आदि → इत्यादि; "
            "योजयेत् + वन्ध्यम् → योजयेद्वन्ध्यम्; इति + एतेन → इत्येतेन; विकृतिः + व्याख्याता → विकृतिर्व्याख्याता।"),
     "95": ("विश्वास कम; गद्य (02.02.98)। पाठ-चिह्न: छपा ‘उत्पत्तिः’ यहाँ अटपटा है; इकाई ९६ के ‘अनुपतापात्’ के आधार पर ‘उपतापः’ "
@@ -751,10 +751,10 @@ NOTES_HI = {
            "शरीरम् + अनुसर्पन् → शरीरमनुसर्पन्; गर्भाशये + अवतिष्ठमानः → गर्भाशयेऽवतिष्ठमानः; अवतिष्ठमानः + गर्भस्य → अवतिष्ठमानो गर्भस्य; "
            "हीन + अङ्ग → हीनाङ्ग; …त्वानि + अन्यम् → …त्वान्यन्यम्।"),
     "98": ("विश्वास कम; गद्य (02.02.101)। पाठ-चिह्न: समास का बीच का अंश (छपा ‘श्मश्रुहीनत्वक्छ्रनखे श’) क्षतिग्रस्त है; "
-           "‘त्वक्-नख-केश-पैङ्गल्य’ केवल अनुमान है, अनूदित रखा गया। पक्के केवल खलति (मानक), पलित (मानक) और पैंगल्य-आदीनि। "
+           "‘त्वक्-नख-केश-पैङ्गल्य’ केवल अनुमान है; इस अंश का अनुवाद नहीं किया गया। पक्के केवल खलति (मानक), पलित (मानक) और पैंगल्य-आदीनि। "
            "क्रिया नहीं; इकाई ९७ से समझी गई। सन्धियाँ जाँचीं: पित्तम् + अपि → पित्तमपि; पैङ्गल्य + आदीनि → पैङ्गल्यादीनि।"),
-    "99": ("विश्वास कम; गद्य (02.02.102)। पाठ-चिह्न: तीसरा अंश ‘सदंतवा’ कोई शब्द नहीं; ‘किलास-अदन्तत्व’ (दाँत न होना) केवल अनुमान है, "
-           "अनूदित रखा गया। कुष्ठ (मानक; यहाँ त्वचा-रोगों का वर्ग भी हो सकता है), किलास (सम्भावित: विटिलिगो)। "
+    "99": ("विश्वास कम; गद्य (02.02.102)। पाठ-चिह्न: तीसरा अंश ‘सदंतवा’ कोई शब्द नहीं; ‘किलास-अदन्तत्व’ (दाँत न होना) केवल अनुमान है; "
+           "इस अंश का अनुवाद नहीं किया गया। कुष्ठ (मानक; यहाँ त्वचा-रोगों का वर्ग भी हो सकता है), किलास (सम्भावित: विटिलिगो)। "
            "‘श्लेष्मा’ = श्लेष्मन् की प्रथमा एकवचन। क्रिया नहीं छपी।"),
     "100": ("विश्वास कम; गद्य (02.02.103)। पाठ-चिह्न: छपा ‘त्रिवर्गौमिश्रान्’ अस्पष्ट; बीच का ‘औ’ अतिरिक्त लगता है; "
             "‘त्रिवर्ग-मिश्र’ (तीन वर्गों से मिश्रित, सम्भवतः तीन दोष) केवल अनुमान है, कोई पाठ नहीं बनाया गया। "
@@ -786,10 +786,10 @@ AIDS = {
             {"label": "नाम", "items": ["वार्ता"]},
             {"label": "क्रिया", "items": ["जनयति (कर्ता अनकहा)"]}]},
         "sandhi": "अ + आ → आ: रूप + आकृति → रूपाकृति · म् + स्वर: प्रायाम् + अस्त्रियम् → प्रायामस्त्रियम्।",
-        "frame": "इकाई ९१ का ‘यदा’ → यहाँ ‘तदा … जनयति’: वाक्य पूरा।",
+        "frame": "इकाई ९१ का ‘यदा’ → यहाँ ‘तदा … जनयति’: वाक्य सम्भवतः पूरा।",
     },
     "93": {
-        "frame": "ताम् (उसे, इकाई ९२ की अस्त्री) → स्त्रीव्यापदम् (स्त्रीव्यापद्) → आचक्षते (वे कहते हैं)।",
+        "frame": "ताम् (उसे, सम्भवतः इकाई ९२ की अस्त्री) → स्त्रीव्यापदम् (स्त्रीव्यापद्) → आचक्षते (वे कहते हैं)।",
         "sandhi": "म् + स्वर: स्त्रीव्यापदम् + आचक्षते → स्त्रीव्यापदमाचक्षते · अन्त्य म् → अनुस्वार: ताम् + स्त्री → तां स्त्री।",
         "puns": "मेरी बनाई, केवल सुनने की सहायता: ‘व्यापद्’ में ‘आपद्’ (विपत्ति) सुनें: स्त्री की विपत्ति, दोष।",
     },
@@ -903,7 +903,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "पित्त भी, वायु की तरह (इकाई ९८)",
         "heads": ["छपा अंश", "अर्थ"],
-        "rows": [["खलति", "गंजापन (मानक)"], ["पलित", "बालों का सफ़ेद होना (मानक)"], ["बीच का अंश", "क्षतिग्रस्त, अनूदित"],
+        "rows": [["खलति", "गंजापन (मानक)"], ["पलित", "बालों का सफ़ेद होना (मानक)"], ["बीच का अंश", "क्षतिग्रस्त, अनुवाद नहीं"],
                  ["पैंगल्य आदि", "पीलापन लिए भूरापन आदि"]],
     },
 }
