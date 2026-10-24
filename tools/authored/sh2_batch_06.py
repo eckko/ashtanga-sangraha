@@ -690,7 +690,7 @@ AUTHORED["75"] = {
             "वातम् (Vāta) + एव (only) + उत्सृजति (releases).",
             "अ + उ → ओ."),
         fill(4, "In sexual union it releases only Vāta: तन्मैथुने ____ एवोत्सृजति (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("वातम्"),
+             accepts("वातम्", None, "vatam"),
              "The line is तन्मैथुने वातमेवोत्सृजति: वातम् + एव.",
              "वातम् is the accusative object of उत्सृजति: Vāta is what is released.",
              "वातम् एव उत्सृजति = releases only Vāta.", role="apply"),

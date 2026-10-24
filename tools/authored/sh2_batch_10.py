@@ -398,7 +398,7 @@ AUTHORED["120"] = {
         mcq("discriminate", 3, "Why is शनैः printed as शनैर् before मेहिनम्?",
             ("Visarga after ऐ becomes र् before a voiced sound", "म is voiced, so शनैः + मेहिनम् → शनैर्मेहिनम्."),
             [("Visarga becomes स् before every म", "स् comes before त or थ, not before म."),
-             ("Visarga drops before every म", "Before a voiced sound the visarga drops only after आ (after अ it gives ओ); here ऐ comes before it."),
+             ("Visarga drops before every म", "Before a voiced consonant such as म the visarga drops only after आ (after अ it gives ओ); here ऐ comes before it."),
              ("The र् belongs to the stem शनैर्", "The word is शनैः; र् comes only from the join.")],
             "After a vowel other than अ or आ, a visarga before a voiced sound becomes र्.",
             "ऐः + voiced sound → ऐर्."),

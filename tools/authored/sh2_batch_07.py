@@ -74,7 +74,7 @@ AUTHORED["77"] = {
     "rule": ("Then (it) becomes outside refining treatment (संस्कारबाह्य). There the treatment is: aphrodisiac (वाजीकर) enemas "
              "(बस्ति), eating (अभ्यवहार) and mind-gladdening (ones)."),
     "limits": ("The subject is not stated; the line does not say which case of unit 76 is beyond treatment, so no question asks it. "
-               "चेतोहर्ष णानि is probably one word (हर्षणानि); no question rests on it."),
+               "चेतोहर्ष णानि is possibly one word, चेतोहर्षणानि, split by a stray space (the data flags it as possible); no question rests on it."),
     "explain_hi": ("यह इकाई ७६ के ‘यदा’ वाक्य का ‘तदा’ भाग है: तब वह संस्कार (शोधक उपचार) से बाहर हो जाता है। "
                    "फिर ‘तत्र संस्कारः’ से उपचार की सूची आती है: वाजीकर (पौरुष बढ़ाने वाली) बस्तियाँ यानी एनिमा, अभ्यवहार यानी खाना, और चित्त को हर्षित करने वाले। "
                    "कौन-सी दशा उपचार से बाहर है और किसमें उपचार है, यह पंक्ति साफ़ नहीं कहती। "
@@ -186,8 +186,8 @@ AUTHORED["79"] = {
     "title": "यदाऽल्पबीजोऽल्पबलः पुमान्",
     "question": "Which man does unit 79 describe, and what does he cause?",
     "rule": ("When a man of little seed, little strength, agitated, with aversion to women, or desiring another, causes an "
-             "obstruction of intercourse with the woman, or (on the probable reading तद्विधा for printed तद्दिधा) the woman is of that kind towards the man: the 'when' half."),
-    "limits": ("The 'then' result is in unit 80. The printed तद्दिधा is not a word (probably तद्विधा, 'of that kind'); "
+             "obstruction of intercourse with the woman, or (on the possible reading तद्विधा for printed तद्दिधा) the woman is of that kind towards the man: the 'when' half."),
+    "limits": ("The 'then' result is in unit 80. The printed तद्दिधा is not a word (possibly तद्विधा, 'of that kind'; the data flags it as possible); "
                "no question rests on it. The last clause is elliptical: 'is' is supplied and पुंसः is read 'towards the man'."),
     "explain_hi": ("यह गद्य-पंक्ति ‘यदा’ वाला भाग है; ‘तदा’ वाला फल इकाई ८० में आता है। "
                    "पुरुष के पाँच विशेषण हैं: अल्प बीज वाला, अल्प बल वाला, उद्विग्न, स्त्री से द्वेष रखने वाला, या किसी अन्य की कामना करने वाला। "
@@ -488,7 +488,7 @@ AUTHORED["84"] = {
         order(1, "Put these phrases of unit 84 in their printed order.",
               ["यदा त्वीर्ष्याभिभूतौ", "मंदहर्षौ संसृज्येते", "तदेर्ष्यालुरिति संज्ञां", "तस्य परं मिथुनीभूतं दृष्ट्वा",
                "मैथुनप्रवृत्तिर्भवति"],
-              "Overcome by jealousy, of little delight, are joined; then the name īrṣyālu; on seeing another coupled, engagement arises.",
+              "Overcome by jealousy, of little delight, are joined; then the name īrṣyālu; on seeing (one) coupled, engagement arises.",
               "ईर्ष्याभिभूतौ → मन्दहर्षौ → ईर्ष्यालु → दृष्ट्वा → प्रवृत्ति."),
         T(match(2, "Match each word of unit 84 to its meaning on the card.",
                 [["ईर्ष्या", "jealousy"], ["अभिभूत", "overcome"], ["मन्दहर्ष", "of little delight"],
