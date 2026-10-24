@@ -51,33 +51,33 @@ AUTHORED["54"] = {
             "For इ-stem nouns like योनि, -औ is the locative singular: योनौ = in the yoni.",
             "-औ is not always dual: इ-stem loc. sg. ends in -औ."),
         mcq("apply", 4, "Which statement about the second line of unit 54 is right?",
-            ("It is a nominal sentence; what is washed is not stated", "No verb; the note says the yoni is only presumed."),
-            [("It tells one to drink the decoction", "No verb of drinking stands in the line."),
+            ("Nominal sentence; what is washed is unstated", "No verb; the note says the yoni is only presumed."),
+            [("It tells one to drink the decoction after holding the paste", "No verb of drinking stands in the line."),
              ("It names the yoni as what is washed", "The note: presumably the yoni, but the text does not say."),
              ("It gives the amount of the decoction", "No amount is given in this unit.")],
             "सरलमुद्गपर्णीकषायः प्रक्षालनम्: the decoction is the wash; the object of the wash is left unstated.",
             "Nominal sentence: X (nom.) is Y (nom.), no verb."),
         T(mcq("transfer", 5, "By the ending of योनौ, what does an invented अग्नौ (from अग्नि, fire) mean?",
               ("In the fire", "अग्नि is an इ-stem like योनि; -औ is the locative singular."),
-              [("Two fires", "-औ marks a dual only in stems like देव (देवौ); not in इ-stems."),
+              [("Two fires", "-औ is dual in अ-stems like देव (देवौ); the dual of अग्नि is अग्नी."),
                ("By the fire", "By the fire is अग्निना."),
                ("Of the fires", "Of the fires is अग्नीनाम्.")],
               "योनि → योनौ (in the yoni); so अग्नि → अग्नौ (in the fire).",
               "इ-stem + -औ = locative singular."),
-          "Masculine and feminine इ-stems (अग्नि, योनि) form the locative singular in -औ."),
+          "Masculine and feminine इ-stems (अग्नि, योनि) form the locative singular in -औ (feminine ones also in -याम्: योन्याम्)."),
     ],
 }
 
 # ---------------------------------------------------------------- unit 55
 AUTHORED["55"] = {
     "title": "पित्तजे काकोलीद्वय",
-    "question": "In the Pitta-type (fault of ārtava), which three decoctions does unit 55 say one should drink?",
+    "question": "In the Pitta-type (by context, of the ārtava fault), which three decoctions does unit 55 say one should drink?",
     "rule": ("In the Pitta-type one should drink three decoctions: of the kākolī pair and vidārī root, of utpala and padmaka, "
              "and of madhuka flower and kāśmarya fruit (as taken); vāsa and sugar are added, reach undecided."),
     "limits": ("Medium confidence. Whether 'with vāsa and sugar' goes with one decoction or all three is not decided; they could "
                "also be two more items drunk. The grouping 'madhuka flower, kāśmarya fruit' has an alternative. kākolī's identity "
                "is disputed; vāsa is read as vāsā (probably Adhatoda vasica), not certain. No amounts."),
-    "explain_hi": ("यहाँ से पित्तज (आर्तवदोष) की चिकित्सा आरम्भ होती है: ‘पित्तजे’ = पित्तज में। "
+    "explain_hi": ("यहाँ से पित्तज (क्रम से, आर्तवदोष) की चिकित्सा आरम्भ होती है: ‘पित्तजे’ = पित्तज में। "
                    "तीन क्वाथ गिनाए गए हैं: काकोली-द्वय और विदारी-मूल का, उत्पल और पद्मक का, तथा मधुक-पुष्प और काश्मर्य-फल का। "
                    "अन्त में ‘वासशर्करं’ है: वास (सम्भवतः अडूसा) और शर्करा; यह तीनों के साथ है या एक के साथ, संस्कृत से तय नहीं। "
                    "काकोली की पहचान विवादित है; उत्पल (नील कमल) और पद्मक सम्भावित, काश्मर्य (गम्भारी) मानक पहचान है।"),
@@ -85,7 +85,7 @@ AUTHORED["55"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 55, what is the form in which the drugs are to be taken?",
-            ("As decoctions (क्वाथ), to be drunk", "क्वाथम् three times, and the verb पिबेत् (should drink)."),
+            ("Drunk as decoctions (क्वाथ)", "क्वाथम् three times, and the verb पिबेत् (should drink)."),
             [("As pastes held in the yoni", "No paste and no धारयेत् appear in this unit."),
              ("As a powder to be licked", "No चूर्ण and no लिह्यात् appear in this unit."),
              ("As oil given in an enema", "No oil or enema is named in this unit.")],
@@ -109,7 +109,7 @@ AUTHORED["55"] = {
             "क्वाथम् (decoction, acc.) + उत्पल-पद्मक-क्वाथम् (the decoction of utpala and padmaka).",
             "Final म् + vowel → म joined to the vowel."),
         mcq("apply", 4, "What does the card say about वासशर्करम् (with vāsa and sugar)?",
-            ("Which decoction it goes with is not decided", "The note: one or all three, not decided by the Sanskrit."),
+            ("Its reach is not decided", "The note: one or all three, not decided by the Sanskrit."),
             [("It goes only with the third decoction", "That is one possibility only; the note leaves it open."),
              ("It is a fourth decoction to be drunk", "There is no क्वाथ in this word; that sense is not stated."),
              ("It is to be held in the yoni", "No धारयेत् appears in this unit.")],
@@ -270,7 +270,7 @@ AUTHORED["58"] = {
                 "घृतेन, मृद्वीका, कल्क, वा.", role="extend"),
           "मृद्वीका is grape or raisin (Vitis vinifera, standard)."),
         mcq("discriminate", 3, "What case is घृतेन, and what does it mean?",
-            ("Instrumental singular: with ghee", "The gram label: n. inst. sg."),
+            ("Instrumental: with ghee", "The gram label: n. inst. sg."),
             [("Locative singular: in ghee", "The locative would be घृते."),
              ("Dative singular: for ghee", "The dative would be घृताय."),
              ("Genitive singular: of ghee", "The genitive would be घृतस्य.")],
@@ -302,7 +302,7 @@ AUTHORED["59"] = {
     "rule": ("The compound of śamyāka, gavākṣī and kṣīra (milk) is named the purgation (vireka): a nominal sentence. "
              "Whether it is a list or 'the milk (latex) of śamyāka and gavākṣī' is left open."),
     "limits": ("The compound can be read as a list (śamyāka, gavākṣī and milk; taken here) or as 'milk (latex) of śamyāka and "
-               "gavākṣī'; no question rests on this. śamyāka is probably Cassia fistula (disputed); gavākṣī is Citrullus "
+               "gavākṣī'; no question depends on choosing one. śamyāka is probably Cassia fistula (disputed); gavākṣī is Citrullus "
                "colocynthis (probable). No doṣa is named; the unit stands in the Pitta-type list."),
     "explain_hi": ("यह नाम-वाक्य है: शम्याक, गवाक्षी और क्षीर विरेक (विरेचन) है। "
                    "समास दो तरह पढ़ा जा सकता है: तीन वस्तुओं की सूची (यहाँ लिया गया), या ‘शम्याक और गवाक्षी का क्षीर (दूध/रस)’। "
@@ -323,7 +323,7 @@ AUTHORED["59"] = {
               "Two plant names, then milk, then the word for purgation.",
               "शम्याक → गवाक्षी → क्षीरम् → विरेकः."),
         T(fill(2, "Unit 59 calls the purgation ____ " + FILL_TAIL,
-               accepts("विरेकः", None, "विरेक", "vireka"),
+               accepts("विरेकः", None, "विरेक", "vireka", "virekah"),
                "विरेकः (nom. sg.) = purgation, virecana.",
                "विरेक = purgation.", "विरेक = virecana, purgation."),
           "विरेक (virecana) is purgation, the downward cleansing."),
@@ -382,7 +382,7 @@ AUTHORED["60"] = {
                 "चन्दन, कल्क, योनौ, धारयेत्.", role="extend"),
           "धारयेत् (optative, causative of √धृ) = should hold, retain."),
         mcq("discriminate", 3, "What does unit 60 say about the colour of the candana?",
-            ("Nothing: white or red is not said", "The note: the text does not say white or red."),
+            ("Not stated: white or red", "The note: the text does not say white or red."),
             [("It is white, as in unit 56", "Unit 56 says श्वेत; unit 60 does not."),
              ("It is red sandalwood", "Red is not stated anywhere in the unit."),
              ("It is yellow sandalwood", "No colour is stated in the unit.")],
@@ -497,14 +497,14 @@ AUTHORED["62"] = {
                 "श्लैष्मिक = Kapha-type; कुटज, कटुका, अश्वगन्धा.", role="extend"),
           "श्लैष्मिक (from श्लेष्मन्, Kapha) = of the Kapha type."),
         mcq("discriminate", 3, "How is कटुकाऽश्वगंधा to be split, by the card?",
-            ("कटुका + अश्वगन्धा; the ऽ is a print habit", "आ + अ → आ; the note: not an elision."),
+            ("कटुका + अश्वगन्धा (ऽ: print habit)", "आ + अ → आ; the note: not an elision."),
             [("कटुके + अश्वगन्धा, with ए + अ → एऽ", "ए + अ would print कटुकेऽश्वगन्धा, with ए."),
              ("कटुकः + अश्वगन्धा, with अः + अ → ओऽ", "That would print कटुकोऽश्वगन्धा, with ओ."),
              ("कटुका + शवगन्धा, a separate word", "शवगन्धा is not a word of the card.")],
             "कटुका + अश्वगन्धा → कटुकाश्वगन्धा; the printed ऽ marks no elided letter here.",
             "आ + अ → आ; ऽ here is a print habit."),
         mcq("apply", 4, "Why does the card build no question on क्षीरिवृक्षभवालकाथं?",
-            ("The print is damaged and cannot be restored", "The flag: 'bhavālakātha' is not a word."),
+            ("Its print is damaged beyond repair", "The flag: 'bhavālakātha' is not a word."),
             [("It is a well-known standard drug", "It is not even a restorable word."),
              ("It repeats the first line", "Nothing shows it repeats line 1."),
              ("It belongs to the Pitta-type list", "It stands under श्लैष्मिके; the problem is damage.")],
@@ -539,7 +539,7 @@ AUTHORED["63"] = {
             ("It is licked with honey and ghee", "मधुघृताभ्यां लिह्यात्."),
             [("It is held in the yoni", "No धारयेत् appears in this unit."),
              ("It is boiled into a wash", "No wash is named in this unit."),
-             ("It is drunk with milk", "Milk is not named; the verb is लिह्यात्, lick.")],
+             ("It is drunk, stirred into warm milk", "Milk is not named; the verb is लिह्यात्, lick.")],
             "Or one should lick the powder of just these with honey and ghee.",
             "लिह्यात् = should lick."),
         order(1, "Put the words of unit 63 in their printed order.",
@@ -553,7 +553,7 @@ AUTHORED["63"] = {
                 "एतेषाम्, एव, चूर्ण, मधुघृताभ्याम्, लिह्यात्.", role="extend"),
           "लिह्यात् (optative of √लिह्) = should lick."),
         mcq("discriminate", 3, "Why does मधुघृताभ्याम् have the dual ending -आभ्याम्?",
-            ("It joins two things, honey and ghee", "A dvandva of two members takes the dual."),
+            ("It joins two items", "A dvandva of two members takes the dual."),
             [("It is a genitive plural", "The genitive plural would end in -आनाम्."),
              ("It is a locative singular", "The locative singular would be मधुघृते."),
              ("It shows a large amount", "No amount is stated; the dual counts two items.")],
@@ -616,7 +616,7 @@ AUTHORED["64"] = {
             "Emesis (वमन) with madanaphala here; purgation (विरेक) in unit 59.",
             "वमन = emesis; विरेक = purgation."),
         match(4, "Match each part of unit 64 to its meaning on the card.",
-              [["मदनफल", "fruit of madana (Randia dumetorum)"], ["कषाय", "decoction"],
+              [["मदनफल", "fruit of madana (Randia dumetorum, standard)"], ["कषाय", "decoction"],
                ["-एण in कषायेण", "with, by means of"], ["वमन", "emesis"]],
               "Drug, preparation, the instrumental ending and the procedure.",
               "मदनफल, कषाय, -एण (instrumental), वमन.", role="apply"),
@@ -669,7 +669,7 @@ AUTHORED["65"] = {
             "तत्कल्कम् (its paste, acc.) + एव (just).",
             "म् + vowel → joined."),
         mcq("apply", 4, "A student translates unit 65 as: one should drink its paste. What is wrong?",
-            ("धारयेत् means should hold, in the yoni", "The verb is धारयेत् with योनौ, not पिबेत्."),
+            ("धारयेत् is hold, not drink", "The verb is धारयेत् with योनौ, not पिबेत्."),
             [("तत् means honey, not madanaphala", "तत् is a pronoun, that; it does not mean honey."),
              ("कल्क means a decoction", "कल्क is a paste."),
              ("Nothing; drinking is right", "The unit has no verb of drinking.")],
@@ -717,14 +717,14 @@ AUTHORED["66"] = {
                 "प्रक्षालन, बस्त, मेष, मूत्र, वा.", role="extend"),
           "मेष = sheep (ram); बस्त = he-goat."),
         mcq("discriminate", 3, "Why does the card take बस्त as he-goat rather than bladder?",
-            ("Because मेष (sheep) stands beside it", "The note: मेष beside it makes animals the sense."),
+            ("मेष (sheep) stands beside it", "The note: मेष beside it makes animals the sense."),
             [("Because बस्त never means bladder", "The note says it can mean bladder."),
              ("Because the print spells it बस्ति", "The print has बस्त."),
              ("Because urine needs no animal", "That gives no reason for he-goat.")],
             "बस्त can mean bladder, but beside मेष (sheep) the sense is the animal.",
             "A neighbouring word can decide a two-way meaning."),
         mcq("apply", 4, "What does the card say about रोधार्तिदुककषायः?",
-            ("Damaged; only 'a decoction of an unclear word'", "Kept unsplit; lodhra + tinduka not adopted."),
+            ("It is damaged; only कषाय is read", "Kept unsplit; lodhra + tinduka not adopted."),
             [("It is lodhra and tinduka, as restored", "Lodhra + tinduka is only a possible reading, not adopted."),
              ("It is the urine of goat and sheep", "The urine is the alternative named after वा."),
              ("It is a paste held in the yoni", "No धारयेत् appears; it is a wash.")],
@@ -779,7 +779,7 @@ NOTES_HI = {
            "‘कषायेण’ में ण: ष के बाद न का ण (णत्व)।"),
     "65": ("विश्वास मध्यम। ‘तत्’ = इकाई ६४ का मदनफल (सबसे पास की औषधि; सीधा अर्थ, इकाई में नाम नहीं)। "
            "सन्धियाँ: तत् + कल्कम् → तत्कल्कम् (क से पहले त् बना रहता है); तत्कल्कम् + एव → तत्कल्कमेव।"),
-    "66": ("विश्वास कम। ‘रोधार्तिदुक’ क्षतिग्रस्त, कोई ज्ञात औषधि नहीं; ‘रोध-’ सम्भवतः लोध्र; लोध्र + तिन्दुक एक सम्भव पाठ, अपनाया नहीं गया; "
+    "66": ("विश्वास कम। ‘रोधार्तिदुक’ क्षतिग्रस्त, कोई ज्ञात औषधि नहीं; ‘रोध-’ शायद लोध्र के लिए हो; लोध्र + तिन्दुक एक सम्भव पाठ, अपनाया नहीं गया; "
            "बिना विच्छेद रखा। अन्त का ‘कषाय’ काढ़ा पढ़ा गया। ‘बस्त’ = बकरा (मूत्राशय भी अर्थ, पर ‘मेष’ साथ होने से पशु)। "
            "मूत्र बिना किसी शर्त के कहा गया। सन्धियाँ: कषायः + प्रक्षालनम्; प्रक्षालनम् + बस्त → प्रक्षालनं बस्त; मूत्रम् + वा → मूत्रं वा।"),
 }
@@ -798,7 +798,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पित्तजे … पिबेत्", "items": ["काकोली-द्वय, विदारी-मूल: क्वाथ", "उत्पल, पद्मक: क्वाथ",
                                               "मधुक-पुष्प, काश्मर्य-फल: क्वाथ"]},
-            {"label": "साथ (किसके, अनिश्चित)", "items": ["वास", "शर्करा"]}]},
+            {"label": "साथ या अलग (अनिश्चित)", "items": ["वास", "शर्करा"]}]},
         "chunks": "पित्तजे | काकोलीद्वयविदारीमूलक्वाथम् | उत्पलपद्मकक्वाथं | मधुकपुष्पकाश्मर्यफलक्वाथं | वासशर्करं पिबेत्।",
         "sandhi": "म् + स्वर: क्वाथम् + उत्पल → क्वाथमुत्पल · म् + व्यंजन: क्वाथम् + मधुक → क्वाथं मधुक।",
         "letters": "तीन क्वाथ: का-उ-म (काकोली, उत्पल, मधुक), हर क्वाथ का पहला अक्षर (मेरी याद-पद्धति)।",
@@ -888,7 +888,7 @@ IMAGE_SPECS = {
         "rows": [["पहला", "काकोली-द्वय, विदारी-मूल"],
                  ["दूसरा", "उत्पल, पद्मक"],
                  ["तीसरा", "मधुक-पुष्प, काश्मर्य-फल"],
-                 ["साथ (किसके, अनिश्चित)", "वास, शर्करा"]],
+                 ["साथ या अलग (अनिश्चित)", "वास, शर्करा"]],
     },
     ("62", "diagram"): {
         "file": "sh1-kapha-kvatha-62.svg",
@@ -896,10 +896,11 @@ IMAGE_SPECS = {
                 "the second line, with honey, is damaged and unclear."),
         "type": "mermaid",
         "code": ("mindmap\n"
-                 "  श्लैष्मिक: क्वाथ पिए\n"
-                 "    कुटज\n"
-                 "    कटुका\n"
-                 "    अश्वगन्धा\n"
+                 "  श्लैष्मिके\n"
+                 "    क्वाथ पिए\n"
+                 "      कुटज\n"
+                 "      कटुका\n"
+                 "      अश्वगन्धा\n"
                  "    अथवा मधु सहित\n"
                  "      पद क्षतिग्रस्त\n"),
     },
@@ -925,12 +926,12 @@ IMAGE_SPECS = {
     },
     ("66", "contrast"): {
         "file": "sh1-yoni-upaya-66.svg",
-        "alt": ("Table of the local measures in the three doṣa lists by their place in the text: Vata (unit 54) paste of "
+        "alt": ("Table of the pastes held in the yoni and the washes (object unstated) in the three doṣa lists by their place in the text: Vata (unit 54) paste of "
                 "priyangu and tila, wash of sarala and mudgaparni; Pitta (units 60-61) paste of candana and payasya, wash of "
                 "gairika and arishta; Kapha (units 65-66) paste of madanaphala, wash of an unclear decoction or goat and "
                 "sheep urine."),
         "type": "table",
-        "title": "योनि-उपाय, दोष-क्रम से",
+        "title": "धारण और प्रक्षालन, दोष-क्रम से",
         "heads": ["क्रम (इकाई)", "कल्क · प्रक्षालन"],
         "rows": [["वातज (५४)", "प्रियंगु-तिल · सरल-मुद्गपर्णी"],
                  ["पित्तज (६०-६१)", "चन्दन-पयस्या · गैरिक-अरिष्ट"],
