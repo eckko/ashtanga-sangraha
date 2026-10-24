@@ -75,7 +75,7 @@ AUTHORED["2"] = {
              "usable sense; the data reads it, by conjecture, as सप्तोत्तरम्: a hundred with seven more (107)."),
     "limits": ("Prose, no verb. The total 107 rests on a conjectural reading (सप्त for the printed सम) and on the sum of "
                "unit 3; no question rests on the number seven or on 107. Only मर्मशतं (a hundred marmas) is asked. The "
-               "count continues in unit 3."),
+               "count appears to continue in unit 3."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति मर्मों की कुल संख्या बताती है और इकाई ३ की गिनती को खोलती दिखती है। "
                    "‘मर्मशतं’ यानी सौ मर्म, यह भाग पक्का है। "
                    "उसके पहले छपा ‘समोत्तरं’ कोई उपयोगी अर्थ नहीं देता; डेटा अनुमान से ‘सप्तोत्तरम्’ (सौ और सात अधिक, यानी एक सौ सात) पढ़ता है, क्योंकि इस छपाई में प्त का म बनना देखा गया है और इकाई ३ का जोड़ ४४ + २६ + ३७ = १०७ बैठता है। "
@@ -135,13 +135,13 @@ AUTHORED["3"] = {
     "question": "By unit 3, how are the marmas divided among the limbs, the trunk and the part above?",
     "rule": ("Among these: forty-four (चतुश्चत्वारिंशत्) in the limbs (शाखासु), twenty-six (षड्विंशतिः) in the trunk "
              "(अन्तराधौ), and above (ऊर्ध्वम्) a number printed doubtfully, read by conjecture as thirty-seven."),
-    "limits": ("Prose, no verb; continues unit 2. 44 and 26 are sure. The printed समंत्रिश is no numeral: thirty-seven "
+    "limits": ("Prose, no verb; appears to continue unit 2. 44 and 26 are sure. The printed समंत्रिश is no numeral: thirty-seven "
                "is a conjecture, so no question rests on the count above. 'Above' as neck and head is the data's remark, "
                "not the line's."),
-    "explain_hi": ("यह पंक्ति इकाई २ की गिनती को आगे बढ़ाती है। "
+    "explain_hi": ("यह पंक्ति इकाई २ की गिनती को आगे बढ़ाती दिखती है। "
                    "उनमें शाखाओं यानी हाथ-पैरों में चवालीस, अन्तराधि यानी धड़ में छब्बीस, और ऊपर एक संख्या जो छपाई में संदिग्ध है। "
                    "छपा ‘समंत्रिश’ कोई संख्या नहीं; डेटा अनुमान से ‘सप्तत्रिंशत्’ (सैंतीस) पढ़ता है, जिससे ४४ + २६ + ३७ = १०७ बनता है; इस पर कोई प्रश्न नहीं। "
-                   "‘चतुश्चत्वारिंशच्छाखासु’ में त् + श → च्छ हुआ है, और ‘षड्विंशतिरंतराधौ’ में इ के बाद का विसर्ग स्वर से पहले र् बना है। "
+                   "‘चतुश्चत्वारिंशच्छाखासु’ में त् + श → च्श होता है और स्वर (यहाँ आ) से पहले वैकल्पिक रूप से च्छ, जो छपा है; और ‘षड्विंशतिरंतराधौ’ में इ के बाद का विसर्ग स्वर से पहले र् बना है। "
                    "‘ऊपर’ से गर्दन और सिर समझना डेटा की टिप्पणी है, पंक्ति स्वयं नहीं कहती।"),
     "hook": "शाखा में चवालीस, धड़ में छब्बीस, ऊपर संदिग्ध।",
     "core": True,
@@ -164,12 +164,12 @@ AUTHORED["3"] = {
               "चतुश्चत्वारिंशत्, शाखा, षड्विंशतिः, अन्तराधि.", role="extend",
               teaches="शाखा (branch) names the limbs; अन्तराधि names the trunk (standard sense)."),
         mcq("discriminate", 3, "Which split of चतुश्चत्वारिंशच्छाखासु in unit 3 is right?",
-            ("चतुश्चत्वारिंशत् + शाखासु", "त् before श gives च्छ: -शत् + शाखासु → -शच्छाखासु."),
+            ("चतुश्चत्वारिंशत् + शाखासु", "त् before श becomes च्, and before a vowel श optionally becomes छ: -शत् + शाखासु → -शच्छाखासु (as printed)."),
             [("चतुश्चत्वारिंशत् + छाखासु", "छाखासु is not a word; the छ comes from the श of शाखासु."),
              ("चतुश्चत्वारिंशः + छाखासु", "A visarga does not give च्छ, and छाखासु is not a word."),
              ("चतुश्चत्वारिं + शच्छाखासु", "शच्छाखासु is not a word; चतुश्चत्वारिंशत् is one numeral.")],
             "चतुश्चत्वारिंशत् (forty-four) + शाखासु (in the limbs).",
-            "त् + श → च्छ (as printed)."),
+            "त् + श → च्श, or च्छ before a vowel (as printed)."),
         mcq("apply", 4, "In षड्विंशतिरंतराधौ, why does the visarga of षड्विंशतिः appear as र्?",
             ("It follows इ and stands before a vowel", "After a vowel other than अ/आ, visarga before a vowel → र्: -तिर् + अन्तराधौ."),
             [("It follows अ and stands before a vowel", "The vowel before the visarga is इ (-ति); अः before अ would give ओऽ."),
@@ -178,13 +178,13 @@ AUTHORED["3"] = {
             "षड्विंशतिः + अन्तराधौ: इः before a vowel → इर्.",
             "इः / उः + vowel or voiced consonant → इर् / उर्."),
         mcq("transfer", 5, "By the rule of चतुश्चत्वारिंशच्छाखासु, how is तत् + शरीरम् (that body) joined in a new example?",
-            ("तच्छरीरम्", "त् before श gives च्छ, as -शत् + शाखासु → -शच्छाखासु."),
+            ("तच्छरीरम्", "त् before श becomes च्; with a vowel after श, च्छ is the usual option (च्श is also valid), as -शत् + शाखासु → -शच्छाखासु."),
             [("तत्शरीरम्", "त् cannot stay unchanged before श; it becomes च्."),
              ("तद्शरीरम्", "द् comes before a voiced sound; श is not voiced."),
              ("तस्शरीरम्", "त् does not become स् before श.")],
             "तत् + शरीरम् = तच्छरीरम्, like चतुश्चत्वारिंशत् + शाखासु.",
-            "त् + श → च्छ.",
-            teaches="A final त् before श gives च्छ: चतुश्चत्वारिंशत् + शाखासु → चतुश्चत्वारिंशच्छाखासु."),
+            "त् + श → च्श, or च्छ before a vowel.",
+            teaches="A final त् before श becomes च्, and श before a vowel optionally becomes छ: चतुश्चत्वारिंशत् + शाखासु → चतुश्चत्वारिंशच्छाखासु."),
     ],
 }
 
@@ -196,7 +196,7 @@ AUTHORED["4"] = {
              "named talahṛdaya; for one pierced there (विद्धस्य), death through pain (रुजया मरणम्)."),
     "limits": ("Prose. सक्थि usually means thigh; since this marma lies in the sole, the data reads it as the whole lower "
                "limb. Death 'through pain' is the text's wording; nothing is added about how. First of the limb marmas: "
-               "units 5 to 13 go on with the leg."),
+               "units 5 to 14 go on with the leg."),
     "explain_hi": ("यहाँ से शाखाओं के मर्म आरम्भ होते हैं। "
                    "प्रत्येक सक्थि यानी पूरे निचले अंग में, मध्यमा अंगुली के पास, पैर के तलवे के बीच तलहृदय नामक मर्म है। "
                    "वहाँ बिंधे हुए (विद्धस्य) की पीड़ा (रुजया) से मृत्यु होती है; पाठ बस इतना कहता है। "
@@ -209,7 +209,7 @@ AUTHORED["4"] = {
             ("Death through pain", "विद्धस्य रुजया मरणम्: for one pierced there, death by pain."),
             [("Death from loss of blood", "Death from loss of blood is named at indrabasti (unit 9)."),
              ("Lameness of the whole leg", "Lameness is named at the knee (jānu, unit 10)."),
-             ("Death by a convulsive fit", "Death by ākṣepaka is named at kṣipra (unit 5).")],
+             ("Death by ākṣepaka (probably a spasm)", "Death by ākṣepaka is named at kṣipra (unit 5).")],
             "At talahṛdaya: death through pain.",
             "तत्र विद्धस्य रुजया मरणं."),
         order(1, "Put the phrases of unit 4 in the printed order.",
@@ -320,7 +320,7 @@ AUTHORED["6"] = {
                    "वहाँ क्या होता है, वह शब्द छपाई में बिगड़ा है: ‘पादरुयभ्रमणवेपने’ में ‘रुय’ कोई शब्द नहीं। "
                    "डेटा अनुमान से ‘पाँव का घूमना और काँपना’ पढ़ता है; ‘रुय’ को रुजा (पीड़ा) मानें तो तीन बातें बनती हैं। "
                    "‘द्व्यंगुलउभयतः’ भी छपाई की भूल लगती है (द्व्यङ्गुलम् उभयतः)। "
-                   "डेटा का विश्वास निम्न है; प्रश्न केवल स्थान और ‘क्षिप्रस्योपरि’ की सन्धि पर हैं।"),
+                   "डेटा का विश्वास निम्न है; प्रश्न स्थान, पक्के शब्दों, छपे क्रम और ‘क्षिप्रस्योपरि’ की सन्धि पर हैं, फल के पाठ पर कोई नहीं।"),
     "hook": "क्षिप्र से दो अंगुल ऊपर, दोनों ओर कूर्च; फल अस्पष्ट।",
     "core": False,
     "questions": [
@@ -452,7 +452,7 @@ AUTHORED["8"] = {
               "At the joining of foot and shank; pain or numbness among the signs.",
               "पाद, जङ्घा, सन्धान, रुक्, जडता.", role="extend",
               teaches="जङ्घा is the shank below the knee, not the thigh; the thigh is ऊरु (unit 10)."),
-        mcq("discriminate", 3, "This rendering of unit 8 has one wrong word: 'At the joining of the foot and the thigh, the gulpha; there pain, stiffness of the sakthi, or numbness.' Which?",
+        mcq("discriminate", 3, "One word of this rendering of unit 8 is wrong: 'At the joining of foot and thigh, the gulpha; there pain, stiffness, or numbness.' Which?",
             ("'thigh' for जङ्घा", "जङ्घा is the shank (lower leg), not the thigh."),
             [("'pain' for रुक्", "रुक् does mean pain."),
              ("'numbness' for जडता", "जडता = numbness (or torpor): right."),
@@ -779,7 +779,7 @@ NOTES_HI = {
           "अनुस्वार त्रि के बजाय म पर), ४४ + २६ + ३७ = १०७ इकाई २ से मिलता है; इस पर कोई प्रश्न नहीं। ४४ और २६ छपे और पक्के। ‘ऊर्ध्वम्’ = "
           "ऊपरी भाग (गर्दन-सिर डेटा की टिप्पणी, पंक्ति में नहीं)। अन्तराधि = धड़ (मानक)। समूह-टिप्पणी: इकाई २ को आगे बढ़ाती दिखती है। "
           "सन्धि जाँची: चतुः + चत्वारिंशत् → चतुश्चत्वारिंशत् (च से पहले विसर्ग → श्); चतुश्चत्वारिंशत् + शाखासु → "
-          "चतुश्चत्वारिंशच्छाखासु (त् + श → च्छ); षड्विंशतिः + अन्तराधौ → षड्विंशतिरन्तराधौ (इ के बाद विसर्ग + स्वर → र्)।"),
+          "चतुश्चत्वारिंशच्छाखासु (त् + श → च्श, स्वर से पहले वैकल्पिक च्छ; छपा च्छ); षड्विंशतिः + अन्तराधौ → षड्विंशतिरन्तराधौ (इ के बाद विसर्ग + स्वर → र्)।"),
     "4": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘सक्थि’ इ-अन्त नपुंसक का सप्तमी रूप; मर्म तलवे में है, इसलिए अनुवाद ‘निचला अंग’ "
           "रखते हैं (डेटा की पुरानी टिप्पणी ‘thigh’ अब लागू नहीं)। ‘अभितः’ द्वितीया के साथ: समीप। मध्यमाङ्गुलि = यहाँ बीच की अंगुली। "
           "‘रुजया मरणम्’ पाठ का अपना शब्द, कुछ जोड़ा नहीं गया। सन्धि जाँची: अथ + एकैकस्मिन् → अथैकैकस्मिन् (अ + ए → ऐ); एक + एक → "
@@ -804,7 +804,7 @@ NOTES_HI = {
     "9": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: (१) छपा ‘पाणि’ (हाथ) टाँग के माप में नहीं बैठता; ‘पार्ष्णि’ (एड़ी) अनुमानित पाठ (सम्भव), "
           "इस पर कोई प्रश्न नहीं; (२) छपा ‘क्ष्यात्’ = क्षयात् (लगभग निश्चित; अ छूटा)। इन्द्रबस्ति का ‘बस्ति’ मर्म-नाम का भाग, इकाई १९ "
           "का मूत्राशय नहीं। सन्धि जाँची: द्वादशभिः + अङ्गुलैः → द्वादशभिरङ्गुलैः (इ के बाद विसर्ग + स्वर → र्); अङ्गुलैः + जङ्घा → "
-          "अङ्गुलैर्जङ्घा (ऐ के बाद विसर्ग + घोष → र्); क्षयात् + मरणम् → क्षयान्मरणम् (म से पहले त् → न्)।"),
+          "अङ्गुलैर्जङ्घा (ऐ के बाद विसर्ग + घोष → र्); क्षयात् + मरणम् → क्षयान्मरणम् (म से पहले त् → न्, वैकल्पिक; द् भी सही; छपा न्)।"),
     "10": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया नहीं, जोड़ी नहीं गई। जानु = घुटना (मानक)। सन्धि जाँची: जङ्घा + ऊर्वोः → "
            "जङ्घोर्वोः (आ + ऊ → ओ); द्वन्द्व, षष्ठी द्विवचन; छपा खंजता = खञ्जता।"),
     "11": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। छपाई उभयतः और आणिः को जोड़ती है (उभयत आणिः)। आणि = कील, यहाँ मर्म-नाम। "
@@ -840,7 +840,7 @@ AIDS = {
             {"label": "तत्र: मर्मों का बँटवारा", "items": ["शाखासु: ४४ (पक्का)", "अन्तराधौ: २६ (पक्का)",
                                                     "ऊर्ध्वम्: ३७ (अनुमानित पाठ)"]}]},
         "chunks": "तत्र | चतुश्चत्वारिंशच्छाखासु | षड्विंशतिरंतराधौ | समंत्रिशदूर्ध्वं",
-        "sandhi": ("त् + श → च्छ: चतुश्चत्वारिंशत् + शाखासु → चतुश्चत्वारिंशच्छाखासु · इ के बाद विसर्ग + स्वर → र्: "
+        "sandhi": ("त् + श → च्श, स्वर से पहले वैकल्पिक च्छ: चतुश्चत्वारिंशत् + शाखासु → चतुश्चत्वारिंशच्छाखासु · इ के बाद विसर्ग + स्वर → र्: "
                    "षड्विंशतिः + अन्तराधौ → षड्विंशतिरन्तराधौ।"),
     },
     "4": {
@@ -879,7 +879,7 @@ AIDS = {
                             "शोणित-क्षय से मरण"]},
         "chunks": "पाणिप्रभृति | द्वादशभिरंगुलैर्जंघामध्ये | इंद्रबस्तिः | तत्र | शोणितक्ष्यान्मरणं",
         "sandhi": ("इ के बाद विसर्ग + स्वर → र्: द्वादशभिः + अङ्गुलैः → द्वादशभिरङ्गुलैः · ऐ के बाद विसर्ग + घोष → र्: "
-                   "अङ्गुलैः + जङ्घा → अङ्गुलैर्जङ्घा · म से पहले त् → न्: क्षयात् + मरणम् → क्षयान्मरणम्।"),
+                   "अङ्गुलैः + जङ्घा → अङ्गुलैर्जङ्घा · म (अनुनासिक) से पहले त् → न्, वैकल्पिक (द् भी सही; छपा न्): क्षयात् + मरणम् → क्षयान्मरणम्।"),
     },
     "10": {
         "frame": "किन दोनों का जोड़: जङ्घा + ऊरु → नाम: जानु (घुटना) → फल: खञ्जता (लंगड़ापन)।",
