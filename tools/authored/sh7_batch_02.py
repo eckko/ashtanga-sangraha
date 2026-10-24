@@ -109,7 +109,7 @@ AUTHORED["15"] = {
              ("They heal sooner than the legs", "Healing is not spoken of in unit 15.")],
             "In the arms it is as in the lower limb: their marmas correspond to the leg's (plain sense; none is named).",
             "सक्थिवत् = as in the lower limb."),
-        mcq("transfer", 5, "By the pattern of सक्थिवत्, which word means 'like a lion' (सिंह) in a new example?",
+        mcq("transfer", 5, "By the pattern of सक्थिवत्, which word means like a lion (सिंह) in a new example?",
             ("सिंहवत्", "-वत् added to a noun means 'like it', as सक्थि → सक्थिवत्."),
             [("सिंहतः", "-तः means 'from' or 'on the side of', not 'like'."),
              ("सिंहेन", "सिंहेन is the instrumental: by the lion."),
@@ -126,9 +126,9 @@ AUTHORED["16"] = {
     "question": "By unit 16, what is the special point (viśeṣa) for the arms' marmas?",
     "rule": ("The special point (विशेषः): the data reads gulpha (ankle) as maṇibandha (wrist) and jānu (knee) as kūrpara "
              "(elbow) in the arm; in the piercing of those two, kuṇita, being bent or crooked."),
-    "limits": ("Prose, no copula: the line only sets the names side by side; 'what is gulpha in the leg is maṇibandha "
-               "in the arm' is the data's reading. The printed कुणित may stand for कुणित्वम् (possible); the sense is "
-               "the same, so no question rests on the form. Appears to continue unit 15."),
+    "limits": ("Prose, no copula: the line only sets the names side by side; the leg-to-arm match is the data's "
+               "reading. The printed कुणित may stand for कुणित्वम् (possible); the sense is the same, and no question "
+               "rests on the form. Appears to continue unit 15."),
     "explain_hi": ("यह पंक्ति भुजा का विशेष बताती है और इकाई १५ को आगे बढ़ाती प्रतीत होती है। "
                    "डेटा इसे मेल के रूप में पढ़ता है: पैर में जो गुल्फ है वह भुजा में मणिबन्ध यानी कलाई, और जो जानु है वह कूर्पर यानी कोहनी। "
                    "पंक्ति स्वयं केवल नाम साथ रखती है, ‘है’ नहीं कहती। "
@@ -184,9 +184,9 @@ AUTHORED["17"] = {
     "question": "By unit 17, which arm marma is named like viṭapa, and what follows there?",
     "rule": ("And like viṭapa (विटपवत् च): kakṣādhāra (कक्षाधारः), in the middle of the armpit (कक्षा) and the akṣa "
              "(sense uncertain); there, kuṇitva (crookedness)."),
-    "limits": ("Low confidence. अक्ष is not a known body part; the data leaves it untranslated and notes a possible "
-               "reading 'between armpit and chest', not adopted; so no question asks where kakṣādhāra lies. 'Like "
-               "viṭapa' is read as the arm's counterpart of unit 14; nothing more is stated. Appears to continue 15-16."),
+    "limits": ("Low confidence. अक्ष is not a known body part; the data leaves it untranslated (a reading 'between "
+               "armpit and chest' is possible, not adopted), so no question asks where kakṣādhāra lies. 'Like viṭapa' "
+               "is read as the arm's counterpart of unit 14. Appears to continue 15-16."),
     "explain_hi": ("यह पंक्ति भुजा के खण्ड का अन्तिम मर्म बताती है: ‘और विटप के समान’ कक्षाधार। "
                    "डेटा ‘विटप के समान’ को इकाई १४ के विटप का भुजा वाला प्रतिरूप पढ़ता है; पंक्ति इससे अधिक नहीं कहती। "
                    "स्थान ‘कक्षा (काँख) और अक्ष के बीच’ छपा है, पर अक्ष का अर्थ अनिश्चित है; ‘काँख और वक्ष के बीच’ एक सम्भावित पाठ है, अपनाया नहीं गया। "
@@ -303,9 +303,9 @@ AUTHORED["19"] = {
     "question": "By unit 19, how is the basti (urinary bladder) described, and what is the exception to death there?",
     "rule": ("The basti (bladder) has little flesh and blood, is bow-curved (धनुर्वक्र), has one opening (एकद्वार) and its "
              "mouth turned down (अधोमुख); there too, immediate death, except from the wound of aśmarī (urinary stone)."),
-    "limits": ("Low confidence: the printed क्टचा is not a word (candidates कट्याः, त्वचा; none adopted), so the sentence "
-               "stands on a conjectural reading and no question touches that word. That the aśmarī-wound is the one "
-               "made to remove a stone is only the natural sense; the line does not say so. Continued by unit 20."),
+    "limits": ("Low confidence: the printed क्टचा is not a word (कट्याः or त्वचा possible, not adopted), so the sentence "
+               "stands on a conjectural reading; no question touches that word. That the aśmarī-wound is made to "
+               "remove a stone is only the natural sense, not stated. Continued by unit 20."),
     "explain_hi": ("यह पंक्ति बस्ति यानी मूत्राशय का रूप बताती है: अल्प मांस और रक्त वाली, धनुष के समान टेढ़ी, एक द्वार वाली और नीचे की ओर मुख वाली। "
                    "बीच का छपा शब्द ‘क्टचा’ अस्पष्ट है (कोई स्वर नहीं); ‘कट्याः’ या ‘त्वचा’ सम्भावित हैं, अपनाए नहीं गए, इसलिए वाक्य अनुमानित पाठ पर है। "
                    "वहाँ भी तुरन्त मृत्यु, अश्मरी यानी मूत्र की पथरी के व्रण को छोड़कर (‘ऋते’ पञ्चमी के साथ)। "
@@ -420,9 +420,9 @@ AUTHORED["21"] = {
     "question": "By unit 21, where is the nābhi (navel) placed, and what follows its injury?",
     "rule": ("In the middle of the pakva (digested, standing for pakvāśaya, probably the lower gut) and the āmāśaya "
              "(probably the stomach) is the nābhi (navel); there too (तत्रापि), immediate death."),
-    "limits": ("Prose, no verb. The printed पक्का- is a Prakrit-like form; the Sanskrit पक्व is a possible correction. That "
-               "पक्व stands for pakvāśaya is the usual sense, but आशय is not printed after it, so no question rests on "
-               "it. The data labels āmāśaya 'standard' in the word list and 'probably the stomach' in the translation."),
+    "limits": ("Prose, no verb. The printed पक्का- is a Prakrit-like form (पक्व possible). That पक्व stands for "
+               "pakvāśaya is the usual sense, but आशय is not printed, so no question rests on it. āmāśaya is "
+               "'standard' in the data's word list but 'probably the stomach' in its translation."),
     "explain_hi": ("यह पंक्ति नाभि का स्थान बताती है: पक्व और आमाशय के बीच। "
                    "पक्व से यहाँ पक्वाशय (पचे हुए अन्न का आशय, सम्भवतः नीचे की आँत) समझा जाता है, पर ‘आशय’ शब्द पक्व के बाद छपा नहीं। "
                    "आमाशय कच्चे अन्न का आशय है, सम्भवतः जठर। "
@@ -598,8 +598,8 @@ AUTHORED["24"] = {
     "rule": ("Two aṅgulas above the stanacūcuka (breast and nipple, read as a dvandva), on both sides, are the two "
              "stanarohita; death of one whose koṣṭha is full of blood (शोणितपूर्णकोष्ठस्य)."),
     "limits": ("Prose, no verb. The printed सद्यो before श is irregular (सद्यः or सद्यश् expected; possible flag); no "
-               "question rests on it. Unlike units 23 and 25 there is no तयोः. The data's notes read स्तनचूचुक as a "
-               "dvandva, while its translation says 'the two nipples'; no question rests on the parse."),
+               "question rests on it. No तयोः here. The notes read स्तनचूचुक as a dvandva, the translation says 'the "
+               "two nipples'; no question rests on the parse."),
     "explain_hi": ("यह पंक्ति दो स्तनरोहित मर्म बताती है: स्तनचूचुक के ऊपर दो अंगुल, दोनों ओर। "
                    "डेटा की टिप्पणी ‘स्तनचूचुक’ को द्वन्द्व (स्तन और चूचुक) पढ़ती है, अनुवाद ‘दोनों स्तनाग्र’ कहता है। "
                    "वहाँ तुरन्त, रक्त से भरे कोष्ठ वाले व्यक्ति की मृत्यु कही गई है। "
