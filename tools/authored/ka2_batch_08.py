@@ -158,9 +158,9 @@ AUTHORED["92"] = {
               "पथ्या = chebulic myrobalan; नागर = dried ginger; चूर्ण = powder; गुड = jaggery; कोष्ण = lukewarm."),
         order(2, "Put the steps of verse 92 in the text's order.",
               ["पथ्यानागरचूर्णम् (the powder)", "गुडेन भक्षयेत् (eat with jaggery)",
-               "तोयं कोष्णं पिबेदनु (then drink lukewarm water)"],
+               "तोयं कोष्णं च पिबेदनु (then drink lukewarm water)"],
               "The powder is named, eaten with jaggery, and lukewarm water is drunk after.",
-              "चूर्णम् · गुडेन भक्षयेत् · तोयं कोष्णं पिबेदनु.",
+              "चूर्णम् · गुडेन भक्षयेत् · तोयं कोष्णं च पिबेदनु.",
               role="extend",
               teaches="अनु 'afterwards' puts the drink of lukewarm water after the eating."),
         mcq("discriminate", 3, "Which split of पिबेदनु is right?",
@@ -283,12 +283,12 @@ AUTHORED["94"] = {
                ["भावित", "steeped, soaked"], ["मोदक", "ball (modaka)"]],
               "The first line praises the purgative; the second line makes balls of steeped pathyā powder.",
               "सर्वत्र = everywhere; इष्ट = desired; स्नुक् = a spurge; भावित = steeped; मोदक = ball."),
-        order(2, "Put the steps of the second line of verse 94 in the order they are done.",
-              ["पथ्याचूर्ण (powder of pathyā)", "स्नुक्क्षीरभावित (steeped in snuk-milk)", "मोदकान् कुर्वीत (make balls)"],
-              "The pathyā powder is steeped in snuk-milk, then balls are made of it.",
-              "पथ्याचूर्ण → स्नुक्क्षीर से भावित → मोदक.",
+        order(2, "Put the words of the second line of verse 94 in the text's order.",
+              ["स्नुक्क्षीरभाविते (steeped in snuk-milk)", "पथ्याचूर्णे (in the pathyā powder)", "कुर्वीत (should make)", "मोदकान् (balls)"],
+              "When the pathyā powder has been steeped in snuk-milk, one should make balls: the steeping is named first.",
+              "स्नुक्क्षीरभाविते · पथ्याचूर्णे · कुर्वीत · मोदकान्.",
               role="extend",
-              teaches="A locative participle (भाविते) says 'when ... has been steeped'; the making of balls follows it."),
+              teaches="A locative phrase (स्नुक्क्षीरभाविते पथ्याचूर्णे) says 'when the powder has been steeped'; the making of balls follows it."),
         mcq("discriminate", 3, "Which split of सर्वत्रेष्टं is right?",
             ("सर्वत्र + इष्टम्", "अ + इ → ए: सर्वत्र + इष्टम् → सर्वत्रेष्टम्."),
             [("सर्वत्र + अष्टम्", "अ + अ would give आ: सर्वत्राष्टम्."),
@@ -472,7 +472,7 @@ AUTHORED["97"] = {
               "Combination, separation, time, processing, method; the instrumental -भिः says 'by means of'.",
               "संश्लेष · विश्लेष · काल · संस्कार · युक्ति (-भिः).",
               role="extend",
-              teaches="The five means stand in one compound in the instrumental plural: '...युक्तिभिः', 'by ... method'."),
+              teaches="The five means are named in a row ending in the instrumental plural -भिः: '...युक्तिभिः', 'by ... method'."),
         mcq("discriminate", 3, "By verse 97, what can a large amount be given?",
             ("Smallness of action", "प्रभूतस्याल्पकर्मताम् = smallness of action of a large amount."),
             [("Great purposefulness", "Great purposefulness is what a small amount (अल्प) can be given."),
@@ -507,9 +507,9 @@ AUTHORED["98"] = {
     "question": "With which pleasant additions should purgatives be given, by verse 98?",
     "rule": ("Purgatives should be given mixed with tvak, kesara, āmrātaka, pomegranate, cardamom, rock sugar, mākṣika "
              "and citron, with madya (an intoxicating drink), and with the various things agreeable to the mind."),
-    "limits": ("A stray space splits the first word (text flag), so tvak, kesara and āmrātaka get no question; kesara "
-               "(perhaps nāgakesara) is disputed and mākṣika (honey or a mineral) unresolved. 'things' is supplied in "
-               "translation. No dose is given. Upajāti metre (11 syllables a quarter)."),
+    "limits": ("A flagged stray space splits the first word: no question on tvak, kesara, āmrātaka. kesara is disputed, "
+               "mākṣika unresolved. elā = cardamom, sitopalā = rock sugar, āmrātaka = hog plum: probable; dāḍima = "
+               "pomegranate, mātuluṅga = citron: standard. 'things' is supplied. No dose."),
     "explain_hi": ("यह श्लोक बताता है कि विरेचन रोगी को अच्छे लगने वाले द्रव्यों के साथ दिए जाएँ। "
                    "द्रव्य: त्वक् यानी छाल, केसर (पहचान विवादित), आम्रातक यानी अमड़ा, दाडिम यानी अनार, एला यानी इलायची, सितोपला यानी मिश्री, माक्षिक (पहचान अनिश्चित) और मातुलुङ्ग यानी बिजौरा नीबू। "
                    "साथ ही मद्य से और उन-उन मन के अनुकूल वस्तुओं से युक्त करके विरेचन देने चाहिए (‘देयानि’ = देने योग्य)। "
@@ -625,7 +625,7 @@ NOTES_HI = {
            "संधि जाँची: हरीतकीमपि = हरीतकीम् + अपि; त्रिवृद्विधानेन = त्रिवृत् + विधानेन (त् → द् घोष से पहले); विधानेनोपकल्पयेत् = विधानेन + उपकल्पयेत् (अ + उ → ओ); विशेषाद्ग्रहणी = विशेषात् + ग्रहणी; मोहोदर = मोह + उदर। छपा ‘पांडु’ = पाण्डु। "
            "पहचान (डेटा के अनुसार): हरीतकी = हरड़, Terminalia chebula; ग्रहणी = पुराना आँत-पाचन विकार (सम्भावित); पाण्डु = रक्ताल्पता (सम्भावित)।"),
     "91": ("विश्वास: उच्च। चारों साथी द्रव्य (सिन्धूत्थ, विडङ्ग, उत्पल, नागर) द्रव्य-नाम माने गए। "
-           "खुला बिन्दु (०५.०२.१६९): उत्पल के लिए ‘Costus speciosus’ का प्रस्ताव पुष्ट नहीं है; सामान्य अर्थ नील कमल/कुमुदिनी, इस सूची में अर्थ अस्पष्ट; उत्पल पर प्रश्न नहीं बना। "
+           "खुला बिन्दु (०५.०२.१६९): उत्पल के लिए ‘Costus speciosus’ का प्रस्ताव पुष्ट नहीं है; सामान्य अर्थ नील कमल/कुमुदिनी, इस सूची में अर्थ अस्पष्ट; उत्पल की पहचान पर प्रश्न नहीं बना (क्रम-प्रश्न में केवल सूची में उसका स्थान है)। "
            "‘निर्यूह’ को काढ़ा (क्वाथ) पढ़ा गया; कषाय और क्वाथ से इसका भेद अभी खुला है। मूत्र किस पशु का, और वत्सकादि गण के सदस्य, नहीं बताए गए। "
            "संधि जाँची: पिबेत्पथ्यां = पिबेत् + पथ्याम्; विडङ्गोत्पल = विडङ्ग + उत्पल (अ + उ → ओ); वत्सकादेर्वा = वत्सकादेः + वा (ः → र् घोष से पहले)। छपा ‘सिंधू’, ‘विडंग’ = सिन्धू, विडङ्ग। "
            "पहचान: सिन्धूत्थ = सेंधा नमक (standard); विडङ्ग = Embelia ribes (standard); नागर = सोंठ (standard); वत्सक = कुटज, Holarrhena antidysenterica (standard)।"),
@@ -730,7 +730,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("90", "diagram"): {
         "file": "ka2-haritaki-roga-90.svg",
-        "alt": "Mind map of verse 90: haritaki prepared by the trivrt method removes grahani, pandu, shosha, moha and udara",
+        "alt": "Mind map of verse 90: the head 'haritaki removes' with five branches: grahani, pandu, shosha, moha and udara",
         "type": "mermaid",
         "code": ('mindmap\n  हरीतकी दूर करे\n    ग्रहणी\n    पाण्डु\n    शोष\n    मोह\n    उदर\n'),
     },
@@ -751,7 +751,7 @@ IMAGE_SPECS = {
     },
     ("95", "diagram"): {
         "file": "ka2-modaka-roga-95.svg",
-        "alt": "Mind map of verse 95: kola-seed sized dry balls licked with fresh butter, for gulma, udara, liver, spleen, pain, anaha and vibandha",
+        "alt": "Mind map of verse 95: balls (modaka) with fresh butter at the centre, for gulma, udara, liver, spleen, pain, anaha and vibandha",
         "type": "mermaid",
         "code": ('mindmap\n  मक्खन के साथ मोदक\n    गुल्म\n    उदर\n    यकृत्\n    प्लीहा\n    शूल\n    आनाह\n    विबन्ध\n'),
     },
