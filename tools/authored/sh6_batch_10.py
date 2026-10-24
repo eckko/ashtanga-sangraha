@@ -89,9 +89,9 @@ AUTHORED["117"] = {
             "Vāyu appears in the koṣṭha.",
             "कोष्ठे प्रादुर्भवति."),
         order(1, "Put these printed phrases of unit 117 in the line's order.",
-              ["वायुः पुनरग्नेराहारस्य च", "बह्वल्पतया", "तस्मात्तस्मान्मूर्च्छनाविशेषात्", "कोष्ठे प्रादुर्भवति"],
-              "Wind, however, of fire and food; through abundance and scarcity; from this-and-that mūrcchanā; appears in the koṣṭha.",
-              "वायुः ... → बह्वल्पतया → ...मूर्च्छनाविशेषात् → कोष्ठे प्रादुर्भवति."),
+              ["वायुः", "पुनरग्नेराहारस्य च", "बह्वल्पतया", "कोष्ठे प्रादुर्भवति"],
+              "Wind; however, of fire and food; through abundance and scarcity; appears in the koṣṭha.",
+              "वायुः → पुनरग्नेराहारस्य च → बह्वल्पतया → कोष्ठे प्रादुर्भवति."),
         match(2, "Match each word of unit 117 to its meaning.",
               [["वायु", "wind"], ["अग्नि", "fire"], ["आहार", "food"], ["अमूर्त", "non-corporeal"],
                ["कोष्ठ", "storehouse, belly cavity"]],
@@ -101,7 +101,7 @@ AUTHORED["117"] = {
         mcq("discriminate", 3, "Which split of पुनरग्नेराहारस्य in unit 117 is right?",
             ("पुनर् + अग्नेः + आहारस्य", "एः before the vowel आ → एर्: अग्नेः + आहारस्य → अग्नेराहारस्य."),
             [("पुनः + अग्ने + राहारस्य", "राहारस्य is not a word; the र् comes from the visarga."),
-             ("पुनर् + अग्ने + आहारस्य", "ए + आ would give अग्न आहारस्य, never अग्नेरा-."),
+             ("पुनर् + अग्ने + आहारस्य", "ए + आ would give अग्नयाहारस्य or अग्न आहारस्य, never अग्नेरा-."),
              ("पुनर् + अग्निः + आहारस्य", "इः + आ would give अग्निराहारस्य, not अग्नेरा-.")],
             "पुनर् (however) + अग्नेः (of the fire) + आहारस्य (of the food).",
             "A vowel other than अ/आ + visarga before a voiced sound → र्."),
@@ -207,9 +207,9 @@ AUTHORED["119"] = {
             "The body is called a machine: शरीर-यन्त्र.",
             "शरीरयंत्रम्."),
         order(1, "Put these printed parts of unit 119 in the line's order.",
-              ["तेनैव चेदमेवं चिरेण", "न्यासमंतर्बहिः", "शरीरयंत्रमनवरतप्रवाहेण", "याप्यते"],
-              "By that alone, and this, thus, for long; as a deposit within and without; the body-machine with unbroken flow; is kept going.",
-              "तेनैव ... → न्यासमंतर्बहिः → शरीरयंत्रमनवरतप्रवाहेण → याप्यते."),
+              ["तेनैव चेदमेवं चिरेण", "शरीरयंत्रमनवरतप्रवाहेण", "स्वास्थ्यबलोपचययुक्तं", "याप्यते"],
+              "By that alone, and this, thus, for long; the body-machine with unbroken flow; endowed with health, strength and growth; is kept going.",
+              "तेनैव ... → शरीरयंत्रमनवरतप्रवाहेण → स्वास्थ्यबलोपचययुक्तं → याप्यते."),
         match(2, "Match each word of unit 119 to its meaning.",
               [["स्वास्थ्य", "health"], ["बल", "strength"], ["उपचय", "growth"], ["अनवरत", "unceasing"],
                ["प्रवाह", "flow"]],
@@ -225,11 +225,11 @@ AUTHORED["119"] = {
             "अ + ए → ऐ."),
         multi("apply", 4, "Which statements fit unit 119?",
               [("It is kept going for a long time (चिरेण)", "Right: चिरेण, for a long time."),
-               ("The line makes the sense of न्यास plain", "No: the data finds न्यासमन्तर्बहिः not clearly construed."),
+               ("It is said to lack growth (उपचय)", "No: it is endowed with growth, स्वास्थ्यबलोपचययुक्तम्."),
                ("It runs with an unbroken flow", "Right: अनवरतप्रवाहेण."),
                ("It is endowed with health, strength and growth", "Right: स्वास्थ्यबलोपचययुक्तम्.")],
               [0, 2, 3],
-              "Kept going long, with unbroken flow, endowed with health, strength and growth; न्यास stays unclear.",
+              "Kept going long, with unbroken flow, endowed with health, strength and growth.",
               "चिरेण ... अनवरतप्रवाहेण स्वास्थ्यबलोपचययुक्तं ... याप्यते."),
         mcq("transfer", 5, "By the rule of तेनैव (तेन + एव), how is अत्र + एव (here indeed) joined in a new example?",
             ("अत्रैव", "अ + ए → ऐ, as तेन + एव → तेनैव."),
@@ -270,7 +270,7 @@ AUTHORED["120"] = {
         order(1, "Put the printed parts of unit 120 in the line's order.",
               ["अन्यथा त्वन्नरसोत्क्षेपादिबद्धस्रोतसा वा", "यथावदनभिसंधीयमानधातुप्रवाहमंतरा", "व्यवच्छिद्यते",
                "व्याधिभाजनं वा भवति"],
-              "Otherwise, with srotas bound ...; in the midst of the not duly joined dhātu-flow; is cut off; or becomes a vessel of disease.",
+              "Otherwise ... (the srotas phrase); in the midst of the not duly joined dhātu-flow; is cut off; or becomes a vessel of disease.",
               "अन्यथा ... → ...प्रवाहमंतरा → व्यवच्छिद्यते → व्याधिभाजनं वा भवति."),
         match(2, "Match each word of unit 120 to its meaning.",
               [["अन्यथा", "otherwise"], ["व्याधि", "disease"], ["भाजन", "vessel"], ["व्यवच्छिद्यते", "is cut off"],
@@ -363,10 +363,10 @@ AUTHORED["121"] = {
 AUTHORED["122"] = {
     "title": "अभ्यवहृतमात्रस्याहारस्य",
     "question": "By unit 122, by what path is swallowed food cooked, and where does its prasāda go?",
-    "rule": ("Food just swallowed rushes through the throat-tube (कण्ठनाडी, probably the gullet), descends into the great "
-             "hollow (महानिम्न, probably the abdominal cavity); whatever part the bodily fire (कायाग्नि) reaches is "
-             "brought to cooking (पाकमुपनीयते); its rasa named prasāda spreads equally into all the dhātus (समं "
-             "समस्तधातुषु), through the srotas."),
+    "rule": ("On a conjectural reading: food just swallowed rushes through the throat-tube (कण्ठनाडी, probably the "
+             "gullet) and descends into the great hollow (महानिम्न, probably the abdominal cavity); whatever part the "
+             "bodily fire (कायाग्नि) touches is brought to cooking (पाकमुपनीयते); its trace named prasāda goes equally "
+             "into all the dhātus (समं समस्तधातुषु), through the srotas."),
     "limits": ("Prose; confidence low, heavily damaged. Conjectures: अवलीढ (printed अब्लीढः), रसलेश, अभिनिर्वृत्ति, "
                "प्रविसृत, प्रथमतः, पर्यायेण; 'अकासन्नेषु' is unclear. The construction after प्रविस्सृतो is uncertain. "
                "No question rests on these words. GROUPING: appears to continue card 121."),
@@ -403,13 +403,13 @@ AUTHORED["122"] = {
              ("पाकम् + अपनीयते", "म् + अ would give पाकमपनीयते, not -मुप-.")],
             "पाकम् (to cooking) + उपनीयते (is brought).",
             "म् + vowel: the म् joins the vowel."),
-        mcq("apply", 4, "By unit 122, where does the rasa named prasāda spread?",
-            ("Equally into all the dhātus", "समं समस्तधातुषु: equally into all the dhātus."),
-            [("Only into the bone (asthi)", "Unit 122 says all the dhātus (समस्तधातुषु), not one."),
-             ("Only into the śukra (semen)", "Unit 122 says all the dhātus (समस्तधातुषु), not one."),
-             ("Only into the blood (rakta)", "Unit 122 says all the dhātus (समस्तधातुषु), not one.")],
-            "The prasāda spreads equally into all the dhātus.",
-            "प्रसादाख्यो ... समं समस्तधातुषु."),
+        mcq("apply", 4, "By unit 122, into what does the swallowed food descend (avatīrṇa)?",
+            ("The mahānimna (great hollow)", "महानिम्न मवतीर्णस्य: having descended into the great hollow (probably the abdominal cavity)."),
+            [("The śiras (the head)", "No head is named in unit 122."),
+             ("The nāsā (the nose)", "No nose is named in unit 122."),
+             ("The hṛdaya (heart region)", "No heart is named in unit 122.")],
+            "Swallowed food descends into the mahānimna (great hollow, probably the abdominal cavity).",
+            "महानिम्न मवतीर्णस्य."),
         mcq("transfer", 5, "By the rule of चान्वेति (च + अन्वेति), how is अत्र + अपि (here too) joined in a new example?",
             ("अत्रापि", "अ + अ → आ, as च + अन्वेति → चान्वेति."),
             [("अत्रपि", "Two अ do not merge into a short अ; they give आ."),
@@ -428,8 +428,8 @@ AUTHORED["123"] = {
     "rule": ("Thus the rasa itself (the data reads अन्नरस, food-rasa) nourishes (पुष्णाति) all the dhātus "
              "(सर्वधातून्) directly (साक्षात्), by just some difference of time (केनचिदेव कालभेदेन)."),
     "limits": ("Prose; confidence low. Printed 'अन्तरसएव'; अन्नरस (food-rasa) is a conjecture, so no question asks "
-               "which rasa nourishes. The line does not say how long the difference of time is. It belongs to the "
-               "'others' view (cards 121-124, appears)."),
+               "which rasa nourishes. The line does not say how long the difference of time is. It appears to belong "
+               "to the 'others' view (cards 121-124)."),
     "explain_hi": ("यह गद्य-पंक्ति ‘दूसरों’ के मत का निष्कर्ष देती प्रतीत होती है: इस प्रकार रस ही सीधे (साक्षात्) सभी धातुओं का पोषण करता है। "
                    "भेद केवल किसी काल-भेद यानी समय के अन्तर का है (केनचिदेव कालभेदेन)। "
                    "छपा ‘अन्तरस’ है; डेटा इसे ‘अन्नरस’ (अन्न का रस) का अनुमानित पाठ मानता है, इसलिए इस शब्द पर कोई प्रश्न नहीं। "
@@ -587,7 +587,7 @@ AUTHORED["125"] = {
         mcq("transfer", 5, "By the rule of समो विषमः (समः + विषमः), how is रामः + गच्छति (Rāma goes) joined in a new example?",
             ("रामो गच्छति", "अः before a voiced consonant becomes ओ, as समः + विषमः → समो विषमः."),
             [("रामर्गच्छति", "र् comes after vowels other than अ/आ, not after अ."),
-             ("रामा गच्छति", "आ is not produced from अः; the visarga drops only after आ."),
+             ("रामा गच्छति", "अः never becomes आ; before a voiced consonant it gives ओ."),
              ("रामस्गच्छति", "स् comes before त or थ, not before ग.")],
             "रामः + गच्छति = रामो गच्छति, like समः + विषमः = समो विषमः.",
             "अः + voiced consonant → ओ.",
@@ -845,7 +845,7 @@ AIDS = {
         "sandhi": "ए + अ → एऽ: देहे + अन्नमयाः → देहेऽन्नमयाः · आ के बाद विसर्ग स्वर से पहले लुप्त: अन्नमयाः + एव → अन्नमया एव।",
     },
     "119": {
-        "chain": {"steps": ["तेनैव: उसी से (डेटा: पिछला अन्न)", "शरीरयन्त्र: शरीर रूपी यन्त्र", "चिरेण: देर तक",
+        "chain": {"steps": ["तेनैव: उसी से (डेटा: पिछला अन्न)", "चिरेण: देर तक", "शरीरयन्त्र: शरीर रूपी यन्त्र",
                             "अनवरतप्रवाहेण: अटूट प्रवाह से", "स्वास्थ्य, बल, उपचय से युक्त", "याप्यते: चलाया जाता है"]},
         "seesaw": "अन्तर् (भीतर) ⇄ बहिः (बाहर): दोनों इसी पंक्ति के ‘न्यासमंतर्बहिः’ में; अन्वय अस्पष्ट।",
         "chunks": "तेनैव चेदमेवं चिरेण | न्यासमंतर्बहिः | शरीरयंत्रमनवरतप्रवाहेण | स्वास्थ्यबलोपचययुक्तं | यावत्कर्मोपादानं | याप्यते",
@@ -853,7 +853,7 @@ AIDS = {
     },
     "120": {
         "diagram": {"groups": [
-            {"label": "अन्यथा तु (बद्ध स्रोतस् से)", "items": ["वा: व्यवच्छिद्यते (कट जाता है)",
+            {"label": "अन्यथा तु (बद्धस्रोतसा: अन्वय अनिश्चित)", "items": ["वा: व्यवच्छिद्यते (कट जाता है)",
                                                          "वा: व्याधिभाजनं भवति (रोग का पात्र बनता है)"]}]},
         "chunks": "अन्यथा त्वन्नरसोत्क्षेपादिबद्धस्रोतसा वा | यथावदनभिसंधीयमानधातुप्रवाहमंतरा | व्यवच्छिद्यते | व्याधिभाजनं वा भवति",
         "sandhi": "उ + अ → व: तु + अन्न → त्वन्न · त् + स्वर → द्: यथावत् + अनभि → यथावदनभि।",
@@ -865,7 +865,7 @@ AIDS = {
     "122": {
         "chain": {"steps": ["अभ्यवहृत: आहार निगला गया", "कण्ठनाडी (सम्भवतः अन्ननलिका) से प्लुति",
                             "महानिम्न (सम्भवतः उदर-गुहा) में उतरा", "कायाग्नि से अंश पाक को पहुँचा",
-                            "प्रसाद नामक रस-अंश", "समं समस्तधातुषु: सब धातुओं में"]},
+                            "प्रसाद नामक अंश (‘रस्लेशो’ → रसलेशः अनुमानित)", "समं समस्तधातुषु: सब धातुओं में"]},
         "seesaw": "संवृत (बन्द) ⇄ असंवृत (खुले): दोनों इसी पंक्ति के ‘संवृतासंवृतैः’ में।",
         "chunks": ("अभ्यवहृतमात्रस्याहारस्य | कंठनाडीप्लुतिस्तस्य | महानिम्न मवतीर्णस्य | यो य एवांशः | कायाग्निनाऽब्लीढः | "
                    "पाकमुपनीयते | तस्य तस्यैव प्रसादाख्यो | रस्लेशोऽभिनिर्वत्तिसमनंतरं | समं समस्तधातुषु"),
@@ -914,20 +914,19 @@ AIDS = {
 IMAGE_SPECS = {
     ("119", "chain"): {
         "file": "sh6-sharira-yantra-119.svg",
-        "alt": ("Chain of unit 119 in line order: by that alone (the data reads: the food); the body-machine; for a long "
-                "time; with an unbroken flow; endowed with health, strength and growth; is kept going."),
+        "alt": ("Chain of unit 119 in line order: by that alone (the data reads: the food); for a long time; the "
+                "body-machine; with an unbroken flow; endowed with health, strength and growth; is kept going."),
         "type": "chain",
         "title": "इकाई ११९: शरीर-यन्त्र",
-        "steps": ["तेनैव: उसी से (डेटा: अन्न)", "शरीरयन्त्र", "चिरेण: देर तक", "अनवरतप्रवाहेण: अटूट प्रवाह",
+        "steps": ["तेनैव: उसी से (डेटा: अन्न)", "चिरेण: देर तक", "शरीरयन्त्र", "अनवरतप्रवाहेण: अटूट प्रवाह",
                   "स्वास्थ्य, बल, उपचय से युक्त", "याप्यते: चलाया जाता है"],
     },
     ("120", "diagram"): {
         "file": "sh6-anyatha-120.svg",
-        "alt": ("Flowchart of unit 120: otherwise, with the srotas bound, either it is cut off, or it becomes a vessel "
-                "of disease."),
+        "alt": "Flowchart of unit 120: otherwise, either it is cut off, or it becomes a vessel of disease.",
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"अन्यथा: स्रोतस् बद्ध\"] --> B[\"वा: व्यवच्छिद्यते\"]\n"
+                 "  A[\"अन्यथा तु\"] --> B[\"वा: व्यवच्छिद्यते\"]\n"
                  "  A --> C[\"वा: व्याधिभाजनं भवति\"]\n"
                  "  B --> D[\"कट जाता है\"]\n"
                  "  C --> E[\"रोग का पात्र\"]\n"),
@@ -936,11 +935,11 @@ IMAGE_SPECS = {
         "file": "sh6-ahara-paka-122.svg",
         "alt": ("Chain of unit 122 in line order: food swallowed; rush through the throat-tube (probably the gullet); "
                 "descent into the great hollow (probably the abdominal cavity); a part brought to cooking by the bodily "
-                "fire; the rasa named prasāda; into all the dhātus equally."),
+                "fire; the trace named prasāda (rasa-leśa, a conjecture); into all the dhātus equally."),
         "type": "chain",
         "title": "इकाई १२२: आहार का पाक (सम्भवतः दूसरों का मत)",
         "steps": ["अभ्यवहृत: आहार निगला", "कण्ठनाडी (सम्भवतः अन्ननलिका)", "महानिम्न (सम्भवतः उदर-गुहा)",
-                  "कायाग्नि से पाक", "प्रसाद नामक रस-अंश", "समं समस्तधातुषु"],
+                  "कायाग्नि से पाक", "प्रसादाख्य अंश (रसलेश: अनुमानित)", "समं समस्तधातुषु"],
     },
     ("125", "diagram"): {
         "file": "sh6-agni-chatur-125.svg",
