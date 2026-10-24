@@ -555,9 +555,9 @@ AUTHORED["87"] = {
     "question": "By unit 87, what do the agitated spaces do to the dhātus?",
     "rule": ("Agitated (प्रकुपिताः), they (the spaces of unit 86) agitate (प्रकोपयन्ति) the dhātus (धातून्): on the plainer "
              "reading, those standing in their seats and those on their paths."),
-    "limits": ("Prose; the subject is in unit 86 (grouping note). The printed स्थानस्थानमार्गस्थान् is flagged: 'sthāna' "
-               "may be repeated by a print slip, or it may read 'in place and not on their path': no question on how the "
-               "repeated 'sthāna' is read; the closing ...स्थान् + च → ...स्थांश्च is the same under both readings. Which dhātus is not said."),
+    "limits": ("Prose; subject in unit 86. Printed स्थानस्थानमार्गस्थान् is flagged (repeated 'sthāna' a slip, or 'in "
+               "place, not on the path'): no question on how it is read; the closing ...स्थान् + च → ...स्थांश्च is "
+               "the same either way. Which dhātus is not said."),
     "explain_hi": ("इकाई ८६ का वाक्य यहाँ पूरा होता है: वे अवकाश प्रकुपित होकर (प्रकुपिताः) धातुओं को प्रकुपित करते हैं (प्रकोपयन्ति)। "
                    "सरल पाठ में: अपने स्थान में स्थित और मार्ग में स्थित धातुओं को। "
                    "छपे ‘स्थानस्थानमार्गस्थान्’ में ‘स्थान’ दो बार है; यह छपाई की भूल हो सकती है, या ‘स्थान में स्थित, मार्ग में नहीं’ भी "
@@ -731,10 +731,9 @@ AUTHORED["90"] = {
     "title": "तेषां सर्वेषामैव दूषयितारो दुष्टा दोषाः",
     "question": "By unit 90, what vitiates all these?",
     "rule": ("The vitiators (दूषयितारः) of all these (तेषां सर्वेषाम्) indeed are the vitiated (दुष्टाः) doṣas (दोषाः)."),
-    "limits": ("Prose; the copula is understood. The printed सर्वेषामैव is flagged: read सर्वेषाम् एव ('ai' a print slip), "
-               "or perhaps सर्वेषां चैव: no question on how that word is read "
-               "(the order question uses only its printed position). 'All these' are not named in the line, and the doṣas "
-               "are not named one by one."),
+    "limits": ("Prose; copula understood. Printed सर्वेषामैव is flagged: read सर्वेषाम् एव ('ai' a slip), or "
+               "सर्वेषां चैव: no question on how it is read (the order question uses only its printed position). "
+               "'All these' and the single doṣas are not named."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: इन सबके ही दूषित करने वाले (दूषयितारः) दूषित (दुष्टाः) दोष हैं। "
                    "यानी जो दोष स्वयं बिगड़े हुए हैं, वही इन सबको बिगाड़ते हैं। "
                    "‘इन सब’ में कौन हैं, पंक्ति में नहीं गिनाया; दोषों के नाम भी अलग-अलग नहीं दिए। "

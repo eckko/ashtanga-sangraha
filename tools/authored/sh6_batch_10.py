@@ -938,7 +938,7 @@ IMAGE_SPECS = {
                 "descent into the great hollow (probably the abdominal cavity); a part brought to cooking by the bodily "
                 "fire; the rasa named prasāda; into all the dhātus equally."),
         "type": "chain",
-        "title": "इकाई १२२: आहार का पाक (दूसरों का मत)",
+        "title": "इकाई १२२: आहार का पाक (सम्भवतः दूसरों का मत)",
         "steps": ["अभ्यवहृत: आहार निगला", "कण्ठनाडी (सम्भवतः अन्ननलिका)", "महानिम्न (सम्भवतः उदर-गुहा)",
                   "कायाग्नि से पाक", "प्रसाद नामक रस-अंश", "समं समस्तधातुषु"],
     },
