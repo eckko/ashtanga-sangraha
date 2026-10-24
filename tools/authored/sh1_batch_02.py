@@ -12,16 +12,16 @@ AUTHORED = {}
 AUTHORED["14"] = {
     "title": "वातकफावृतमार्गाणाम्",
     "question": "What does unit 14 say a woman who resorts to Vāta-increasing things may come to show, and what treatment is to be looked to?",
-    "rule": ("Something lifeless shows the signs of pregnancy in a woman who resorts to Vāta-increasing things and becomes "
-             "gulma (an abdominal lump); in that case one looks to the treatment of gulma."),
+    "rule": ("In a woman who resorts to Vāta-increasing things, something lifeless shows the signs of pregnancy "
+             "(गुल्मी भवति, sense undecided); in that case one looks to the treatment of gulma (an abdominal lump)."),
     "limits": ("Low confidence: the syntax is not certain; the unstated subject is taken as the ārtava of unit 11. "
                "The printed अशुकं (possibly अशुक्रम्) and the sense of गुल्मी भवति are undecided, so no question rests on them. "
                "No remedy is named."),
     "explain_hi": ("यह एक लम्बा, ढीला गद्य-वाक्य है और इसकी वाक्य-रचना पक्की नहीं है; अनुवाद छपे क्रम में चलता है। "
                    "जिनके मार्ग वात और कफ से ढके हों, वहाँ (सम्भवतः आर्तव) नहीं बहता; पित्त बढ़ाने वाले उपचारों से वह बहने लगता है। "
-                   "वात बढ़ाने वाली चीज़ों का सेवन करती स्त्री में वह जीवरहित होकर भी गर्भ के लक्षण दिखाता है और गुल्म बन जाता है। "
+                   "वात बढ़ाने वाली चीज़ों का सेवन करती स्त्री में वह जीवरहित होकर भी गर्भ के लक्षण दिखाता है; ‘गुल्मी भवति’ (गुल्म वाला हो जाता है) का अर्थ तय नहीं। "
                    "गुल्म यानी पेट की गाँठ (मानक अर्थ)। ऐसी दशा में गुल्म की चिकित्सा देखनी चाहिए।"),
-    "hook": "गर्भ के लक्षण, पर जीव नहीं: वह गुल्म है, तो गुल्म-चिकित्सा देखो।",
+    "hook": "गर्भ के लक्षण, पर जीव नहीं: गुल्म-चिकित्सा देखो।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 14, what is one told to look to in that case?",
@@ -50,14 +50,14 @@ AUTHORED["14"] = {
              ("पित्तलम् + उपचारैः", "म् before a vowel would give पित्तलमुपचारैः.")],
             "पित्तलैः (by Pitta-increasing) + उपचारैः (by measures).",
             "Visarga after a vowel other than अ/आ → र् before a vowel or voiced sound."),
-        multi("apply", 4, "Which does unit 14 say of the thing that shows the signs of pregnancy?",
-              [("It is devoid of life", "Right: जीवरहितम्."),
-               ("It occurs in a woman who resorts to Vāta-increasing things", "Right: वातलान्यासेवमानाया योषितः."),
-               ("It is a true embryo that will be born", "जीवरहित denies life, so it is no true embryo."),
-               ("It is cured by Vāta-increasing things", "Vāta-increasing things are what she resorts to, not a cure.")],
+        multi("apply", 4, "Which two does unit 14 name?",
+              [("Vāta-increasing (ones) that a woman resorts to", "Right: वातलान्यासेवमानाया योषितः."),
+               ("The signs of pregnancy (गर्भलिङ्गानि)", "Right: गर्भलिङ्गानि दर्शयत्."),
+               ("A true embryo that will be born", "जीवरहित denies life, so no true embryo is named."),
+               ("Kapha-pacifying measures", "Only Pitta-increasing measures are named.")],
               [0, 1],
-              "It is lifeless and found in a woman who resorts to Vāta-increasing things; one looks to the treatment of gulma.",
-              "जीवरहित; वातलानि आसेवमानायाः."),
+              "The unit names a woman who resorts to Vāta-increasing (ones) and the signs of pregnancy.",
+              "वातलानि आसेवमानायाः; गर्भलिङ्गानि."),
         T(mcq("transfer", 5, "By the rule of पित्तलैरुपचारैः, how is देवैः + उक्तम् written when joined?",
               ("देवैरुक्तम्", "Visarga after ऐ becomes र् before the vowel उ."),
               [("देवैउक्तम्", "The visarga cannot simply drop before a vowel here."),
@@ -77,7 +77,7 @@ AUTHORED["15"] = {
     "limits": ("Low confidence. The printed गर्भइव is read by the card as गर्भा एव (in a pregnant woman indeed); the note leaves "
                "गर्भ एव (the embryo itself) open, so no question rests on it. वातोदर as abdominal distension is a probable "
                "identification. The noun that Vāta-pacifying qualifies is not stated."),
-    "explain_hi": ("यह छोटी गद्य-पंक्ति एक और भ्रम बताती है: कभी वातोदर हो जाता है, यानी सम्भवतः वात से पेट का फूलना। "
+    "explain_hi": ("यह छोटी गद्य-पंक्ति बताती है: कभी वातोदर हो जाता है, यानी सम्भवतः वात से पेट का फूलना। "
                    "छपा ‘गर्भइव’ अस्पष्ट है; कार्ड इसे ‘गर्भा एव’ (गर्भवती स्त्री में भी) पढ़ता है, पर ‘गर्भ एव’ भी सम्भव माना गया है। "
                    "वह वातोदर वात को शान्त करने वालों से शान्त हो जाता है। "
                    "किन वस्तुओं से, यह पंक्ति नहीं बताती; ‘वातौपशमन’ के साथ संज्ञा छोड़ दी गई है।"),
@@ -331,7 +331,7 @@ AUTHORED["19"] = {
         mcq("discriminate", 3, "Which split of ओजसोऽपहरणम् is right?",
             ("ओजसः + अपहरणम्", "अः + अ → ओ, and the second अ is shown by ऽ."),
             [("ओजसो + पहरणम्", "पहरणम् is not a word of the card."),
-             ("ओजस् + उपहरणम्", "That would join as ओजसुपहरणम्."),
+             ("ओजस् + उपहरणम्", "That would give ओज उपहरणम्, and उपहरणम् is not the card's word."),
              ("ओजसा + अपहरणम्", "आ + अ would give ओजसापहरणम्.")],
             "ओजसः (of ojas) + अपहरणम् (taking away) → ओजसोऽपहरणम्.",
             "अः + अ → ओऽ."),
@@ -393,7 +393,7 @@ AUTHORED["20"] = {
             "Final त् + nasal → न् + nasal."),
         multi("apply", 4, "Which are in unit 20 as the card reads it?",
               [("The removal of a body by humans is not seen", "Right: न च दृश्यते … देहापहारः."),
-               ("The word हि (for) links it to the reason in unit 19", "Right: GROUPING with unit 19."),
+               ("The word हि (for) links it to the reason in unit 19", "Right: हि = for; the card reads this unit as continuing unit 19."),
                ("Demons are often seen carrying bodies away", "The unit says no removal of a body is seen."),
                ("Ojas is taken away by humans", "Unit 19 speaks of rakṣas, not humans, taking ojas.")],
               [0, 1],
@@ -480,13 +480,13 @@ AUTHORED["22"] = {
                    "और धोने पर रंग छोड़ता जाए, उसे शुद्ध कहते हैं। "
                    "यानी दो पहचानें: रंग की उपमा, और धोने पर दाग न रहना। "
                    "‘रसोपमम्’ में रस + उपमम् की सन्धि है (अ + उ → ओ)।"),
-    "hook": "खरगोश-रक्त या लाख जैसा, धोने पर छूट जाए: शुद्ध आर्तव।",
+    "hook": "खरगोश-रक्त और लाख-रस जैसा, धोने पर रंग छूटे: शुद्ध आर्तव।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 22, pure ārtava resembles what?",
             ("Hare's blood and lac juice", "शशरुधिर-लाक्षारस-उपमम्."),
             [("Ghee, oil or honey in colour", "Those colours describe śukra in unit 10."),
-             ("Milk mixed with sugarcane juice", "Milk and cane juice are similes of unit 10."),
+             ("Milk mixed with sugarcane juice", "Milk and cane juice belong to unit 10's simile (ghee in milk, jaggery in cane juice)."),
              ("Pus and corpse-smelling fluid", "Neither is named in this unit.")],
             "Pure ārtava resembles hare's blood and lac juice.",
             "शश = hare; रुधिर = blood; लाक्षा = lac."),
@@ -591,7 +591,7 @@ AUTHORED["24"] = {
                    "और स्तन्य (स्तन का दूध) आदि नहीं मिलते; ‘नहीं मिलते’ क्रिया इकाई २३ से ली गई है। "
                    "‘योषित्’ प्रथमा और ‘वर्षायाः’ षष्ठी का मेल नहीं बैठता; छपे रूप रखे गए हैं। "
                    "अन्त का ‘इति’ कथन की समाप्ति बताता है।"),
-    "hook": "पुरुष १६–७०, स्त्री १२–५०: इनके बाहर बीज नहीं।",
+    "hook": "पुरुष १६–७०, स्त्री १२–५०: इनके बाहर शुक्रसेक, रजस्, स्तन्य आदि नहीं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 24, a woman of which ages has no rajas, breast milk and the rest?",
@@ -630,7 +630,7 @@ AUTHORED["24"] = {
               ("तच्च", "त् before च becomes च्."),
               [("तद्च", "Before च the त् becomes च्, not द्."),
                ("तत्च", "In sandhi the त् does not stay before च."),
-               ("तञ्च", "ञ् would come before a nasal, not before च.")],
+               ("तञ्च", "Before च the त् becomes च्, not the nasal ञ्.")],
               "योषित् + च → योषिच्च; so तत् + च → तच्च.",
               "त् + च → च्च."),
           "A final त् before च or छ becomes च्."),
@@ -847,13 +847,13 @@ AIDS = {
                             "गर्भ-लक्षण दिखाता: गुल्मी", "गुल्म-चिकित्सा देखे"]},
         "sandhi": ("ऐः + स्वर → ऐर्: पित्तलैः + उपचारैः → पित्तलैरुपचारैः · त् + ग → द्ग: दर्शयत् + गुल्मी → दर्शयद्गुल्मी · "
                    "म् + स्वर: गुल्मचिकित्सितम् + ईक्षेत → गुल्मचिकित्सितमीक्षेत।"),
-        "contrast": "दिखता: गर्भ के लक्षण ↔ है: जीवरहित, यानी गुल्म।",
+        "contrast": "दिखता: गर्भ के लक्षण ↔ है: जीवरहित; उपाय: गुल्म-चिकित्सा देखे।",
         "frame": "वाक्य ढीला है; अनुवाद छपे क्रम में चलता है। पक्का अन्त: ‘तत्र गुल्मचिकित्सितमीक्षेत’।",
     },
     "15": {
         "frame": "कदाचित् → वातोदरम् भवति → तत् वातौपशमनैः उपशाम्यति: होता है, फिर शान्त होता है।",
         "sandhi": "अ + औ → औ: वात + औपशमनैः → वातौपशमनैः · ऐः + उ → ऐरु: वातौपशमनैः + उपशाम्यति → वातौपशमनैरुपशाम्यति · त् + व → द्व: तत् + वात → तद्वात।",
-        "puns": "केवल सुनने की सहायता: ‘वात-उदर’ को ‘वात का उदर’ बोलें; ‘वात-उपशमन’ से वही वात शान्त।",
+        "puns": "मेरी बनाई, केवल सुनने की सहायता: ‘वात-उदर’ को ‘वात का उदर’ बोलें; ‘वात-औपशमन’ से वही वात शान्त।",
     },
     "16": {
         "diagram": {"groups": [
@@ -911,14 +911,14 @@ AIDS = {
     },
     "25": {
         "chain": {"steps": ["जोड़ा: शुद्ध शुक्र-आर्तव, निरोग, परस्पर अनुरक्त", "उपस्नेह्य: स्नेहन (पाठ सम्भावित)", "विधिवत् संशोध्य: शोधन",
-                            "आस्थापन (काढ़े की बस्ति)", "अनुवासन (तेल की बस्ति)"]},
+                            "आस्थापन और अनुवासन (काढ़े और तेल की बस्ति)"]},
         "sandhi": "अः + अ → ओऽ: मिथः + अनुरक्तम् → मिथोऽनुरक्तम् · अ + आ → आ: शुक्र + आर्तवम् → शुक्रार्तवम् · त् + स → त्स: विधिवत् + संशोध्य।",
         "letters": "जोड़े के तीन गुण: शु-अ-मि (शुद्धशुक्रार्तव, अरोग, मिथोऽनुरक्त)।",
     },
     "27": {
         "frame": "एवम् (इस प्रकार, इकाई २५-२६ के उपचार से) → समानगुणतया (समान गुण से) → शुक्रार्तवम् आप्यायते (पुष्ट होते हैं)।",
         "sandhi": "अ + आ → आ: शुक्र + आर्तवम् → शुक्रार्तवम् · म् + स्वर: शुक्रार्तवम् + आप्यायते → शुक्रार्तवमाप्यायते।",
-        "puns": "केवल सुनने की सहायता: ‘समान से समान’: समान गुण, समान पुष्टि।",
+        "puns": "मेरी बनाई, केवल सुनने की सहायता: ‘समान से समान’: समान गुण, समान पुष्टि।",
     },
 }
 
@@ -937,7 +937,7 @@ IMAGE_SPECS = {
         "file": "sh1-gulma-14.svg",
         "alt": ("Chain of unit 14 in printed order: not flowing where passages are covered by Vata and Kapha; flowing with "
                 "Pitta-increasing measures; lifeless; in a woman who resorts to Vata-increasing things; showing signs of "
-                "pregnancy, it becomes gulma; look to the gulma treatment."),
+                "pregnancy, 'gulmi' (sense undecided); look to the gulma treatment."),
         "type": "chain",
         "title": "इकाई १४: छपे क्रम में (पाठ अनिश्चित)",
         "steps": ["वात-कफ से ढके मार्ग: न बहता", "पित्तल उपचारों से: बहता", "जीवरहित", "वातल सेवन करती स्त्री में",
@@ -967,7 +967,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "राक्षस क्या हर सकते हैं? (इकाई १९)",
         "cols": [["सम्भव", ["ओज (जीवन-सार)"]],
-                 ["सम्भव नहीं", ["काय (शरीर)", "कारण: अनिष्टता", "या असमर्थता"]]],
+                 ["सम्भव नहीं", ["काय (शरीर)", "कारण: अनिष्टता", "या असमर्थता (पाठ सम्भावित)"]]],
     },
     ("22", "diagram"): {
         "file": "sh1-shuddha-artava-22.svg",
@@ -1006,10 +1006,10 @@ IMAGE_SPECS = {
     ("25", "chain"): {
         "file": "sh1-mithuna-shodhana-25.svg",
         "alt": ("Chain of unit 25: a couple with pure semen and artava, free of disease and mutually attached; oleation "
-                "(probable reading); cleansing as prescribed; asthapana (decoction enema) and anuvasana (oil enema)."),
+                "(probable reading); cleansing as prescribed; asthapana and anuvasana enemas together (decoction; oil)."),
         "type": "chain",
         "title": "दंपती का शोधन (इकाई २५)",
-        "steps": ["शुद्ध, निरोग, अनुरक्त जोड़ा", "स्नेहन (पाठ सम्भावित)", "विधिवत् शोधन", "आस्थापन: काढ़े की बस्ति",
-                  "अनुवासन: तेल की बस्ति"],
+        "steps": ["शुद्ध शुक्र-आर्तव, निरोग, अनुरक्त जोड़ा", "स्नेहन (पाठ सम्भावित)", "विधिवत् शोधन",
+                  "आस्थापन और अनुवासन बस्ति (काढ़ा; तेल)"],
     },
 }
