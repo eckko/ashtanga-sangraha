@@ -7,15 +7,17 @@ AUTHORED = {}
 AUTHORED["78"] = {
     "title": "तेषां दूषणं ... लक्षयेत्",
     "question": "By unit 78, what should one know about these (teṣām), and by what sign is each discerned?",
-    "rule": ("Of these (तेषाम्), one should know (विज्ञानीयात्) the vitiation (दूषणम्), the unwholesome food and conduct "
-             "(अहिताहारविहारम्), the complications (उपद्रवान्) and the treatment (साधनम्); each (यथास्वम्) is discerned by "
-             "the signs of increase and decrease (वृद्धिक्षयलक्षणेन)."),
-    "limits": ("Prose; loose syntax. How दोषादि (doṣa and the rest) fits is open (means or further object): no question "
-               "on it. विविधम् may qualify the vitiation or the food and conduct. तेषाम् is not named."),
+    "rule": ("Of these (तेषाम्), the vitiation (दूषणम्), the unwholesome food and conduct (अहिताहारविहारम्), the "
+             "complications (उपद्रवान्) and the treatment (साधनम्) are to be known (the data reads विज्ञानीयात् as 'one "
+             "should know'); each (यथास्वम्) is discerned (लक्षयेत्) by the signs of increase and decrease "
+             "(वृद्धिक्षयलक्षणेन)."),
+    "limits": ("Prose; loose syntax. How दोषादिविज्ञानीयात् fits is open: the data reads दोषादि + विज्ञानीयात् ('one "
+               "should know'), but the form may also be the ablative of a chapter name (Doṣādivijñānīya): no question on "
+               "its sense. विविधम् may qualify the vitiation or the food and conduct. तेषाम् is not named."),
     "explain_hi": ("यह गद्य-पंक्ति बताती है कि इनके (तेषाम्) बारे में चार बातें जाननी चाहिए: दूषण (बिगाड़), अहितकर आहार और विहार यानी "
                    "आचरण, उपद्रव और साधन यानी चिकित्सा। "
                    "हर एक को अपने-अपने अनुसार (यथास्वम्) वृद्धि और क्षय के लक्षणों से पहचानना चाहिए (लक्षयेत्)। "
-                   "‘दोषादि’ वाक्य में कैसे जुड़ता है, यह खुला है: ‘दोष आदि से जानना’ या ‘दोष आदि को भी जानना’; डेटा पहला, सरल अर्थ रखता है। "
+                   "‘दोषादिविज्ञानीयात्’ का अर्थ खुला है: डेटा इसे दोषादि + विज्ञानीयात् (‘जानना चाहिए’) पढ़ता है, ‘दोष आदि से जानना’ या ‘दोष आदि को भी जानना’; पर यह ‘दोषादिविज्ञानीय’ नाम के अध्याय से (पञ्चमी) भी हो सकता है। "
                    "‘विविधम्’ (अनेक प्रकार का) दूषण के साथ भी पढ़ा जा सकता है और आहार-विहार के साथ भी। "
                    "‘तेषाम्’ किनका है, यह पंक्ति में छपा नहीं।"),
     "hook": "दूषण, अहित आहार-विहार, उपद्रव, साधन: सबको वृद्धि-क्षय के लक्षण से पहचानो।",
@@ -41,9 +43,9 @@ AUTHORED["78"] = {
         mcq("discriminate", 3, "Which split of विज्ञानीयाद्यथास्वं in unit 78 is right?",
             ("विज्ञानीयात् + यथास्वम्", "त् before the voiced य becomes द्: विज्ञानीयाद्यथास्वम्."),
             [("विज्ञानीयाः + यथास्वम्", "आः before the voiced य would lose its visarga: विज्ञानीया यथास्वम्."),
-             ("विज्ञानीया + द्यथास्वम्", "द्यथास्वम् is not a word; the द् comes from the त् of the verb."),
+             ("विज्ञानीया + द्यथास्वम्", "द्यथास्वम् is not a word; the द् comes from the final त् of विज्ञानीयात्."),
              ("विज्ञानीयम् + यथास्वम्", "म् before य would be written ं: विज्ञानीयं यथास्वम्.")],
-            "विज्ञानीयात् (one should know) + यथास्वम् (each by its own): त् + य → द्य.",
+            "विज्ञानीयात् + यथास्वम् (each by its own): त् + य → द्य.",
             "A final त् becomes द् before a voiced sound."),
         multi("apply", 4, "Which does unit 78 name among the things to be known or discerned?",
               [("The number (saṅkhyā) of the channels", "No number is given in unit 78."),
@@ -79,7 +81,7 @@ AUTHORED["79"] = {
                    "छपाई क्षतिग्रस्त है और डेटा का विश्वास कम है। "
                    "ज्वर के बाद के अक्षर ‘अनिरुधिरश्रुति’ अस्पष्ट हैं; ‘रुधिरश्रुति’ (रक्त का बहना) केवल अनुमानित पाठ है, इसलिए उस पर "
                    "कोई प्रश्न नहीं। "
-                   "पूरी सूची एक लम्बा समास है; क्रिया छपी नहीं, ‘होते हैं’ समझा जाता है।"),
+                   "पूरी सूची छपाई में जुड़ी हुई है; डेटा इसे प्रथमा की सूची पढ़ता है; क्रिया छपी नहीं, ‘होते हैं’ समझा जाता है।"),
     "hook": "स्रोतस् बिंधे तो चक्कर से मृत्यु तक लम्बी सूची।",
     "core": False,
     "questions": [
@@ -99,7 +101,7 @@ AUTHORED["79"] = {
                ["आध्मान", "distension of the belly"], ["अरुचि", "distaste for food"], ["छर्दि", "vomiting"]],
               "Six of the results of piercing the srotas.",
               "भ्रम, कम्प, प्रलाप, आध्मान, अरुचि, छर्दि.", role="extend",
-              teaches="The results stand in one long compound; the case ending comes only at its end (-रोधाः)."),
+              teaches="The results are printed run together; the data reads them as a list of nominatives ending in -रोधाः (m. nom. pl.)."),
         mcq("discriminate", 3, "In unit 79, why is the visarga of रोधाः not printed before मरणं?",
             ("आः loses its visarga before a voiced sound", "म is voiced, so रोधाः + मरणम् → रोधा मरणम्."),
             [("The visarga turns to ओ before the म", "ओ comes from अः, not from आः."),
@@ -133,7 +135,8 @@ AUTHORED["80"] = {
     "rule": ("Therefore (तस्मात्), having refused (प्रत्याख्याय, declined the case as hopeless) one pierced in a srotas, one "
              "should treat (उपाचरेत्) him; and one whose dart is extracted (उद्धृतशल्यम्), by the procedure for a fresh "
              "wound (सद्योव्रणविधानेन)."),
-    "limits": ("Prose, two lines. Printed स्रोतौविद्धं is read srotoviddham ('au' a print slip): no question on that form. "
+    "limits": ("Prose, two lines. Printed स्रोतौविद्धं is read srotoviddham ('au' a print slip): no question on how that form is read "
+               "(the order question uses only its printed position). "
                "Line 2 takes its verb from line 1. The fresh-wound procedure and the reason for treating after refusing "
                "are not given."),
     "explain_hi": ("‘तस्मात्’ (इसलिए) पिछली बात से निष्कर्ष निकालता है। "
@@ -172,7 +175,7 @@ AUTHORED["80"] = {
             "अ + उ → ओ."),
         mcq("apply", 4, "By unit 80, what is done with one pierced in a srotas before he is treated?",
             ("He is first refused (प्रत्याख्याय)", "प्रत्याख्यायोपाचरेत्: having refused, one should treat."),
-            [("His dart is left in (शल्य)", "Unit 80 speaks of a dart extracted, in line 2; nothing is left in."),
+            [("His dart is left in (शल्य)", "Unit 80 says nothing about leaving a dart in; line 2 is about one whose dart is extracted."),
              ("He is given a purge (विरेचन)", "No purge is named in unit 80."),
              ("He is made to fast (लङ्घन)", "No fasting is named in unit 80.")],
             "Having refused (declined the case as hopeless), one should treat him.",
@@ -439,7 +442,7 @@ AUTHORED["85"] = {
                    "ये अवकाश कुछ दिखाई देने वाले (लक्ष्य) और कुछ न दिखाई देने वाले (अलक्ष्य) हैं। "
                    "‘संवृतासंवृतानि’ (बन्द और खुले) डेटा में ‘शरीरच्छिद्राणि’ के साथ पढ़ा गया है, पर यह अलग नाम भी हो सकता है; इसलिए "
                    "नामों की गिनती खुली है। "
-                   "यहाँ ‘क्षय’ का अर्थ निवास है, घटना नहीं।"),
+                   "यहाँ ‘क्षय’ का अर्थ निवास है, घटाव (कमी) नहीं।"),
     "hook": "स्रोतस् से निकेत तक: एक ही चीज़ के अनेक नाम, धातुओं के अवकाश।",
     "core": True,
     "questions": [
@@ -553,8 +556,8 @@ AUTHORED["87"] = {
     "rule": ("Agitated (प्रकुपिताः), they (the spaces of unit 86) agitate (प्रकोपयन्ति) the dhātus (धातून्): on the plainer "
              "reading, those standing in their seats and those on their paths."),
     "limits": ("Prose; the subject is in unit 86 (grouping note). The printed स्थानस्थानमार्गस्थान् is flagged: 'sthāna' "
-               "may be repeated by a print slip, or it may read 'in place and not on their path': no question on that "
-               "phrase. Which dhātus is not said."),
+               "may be repeated by a print slip, or it may read 'in place and not on their path': no question on how the "
+               "repeated 'sthāna' is read; the closing ...स्थान् + च → ...स्थांश्च is the same under both readings. Which dhātus is not said."),
     "explain_hi": ("इकाई ८६ का वाक्य यहाँ पूरा होता है: वे अवकाश प्रकुपित होकर (प्रकुपिताः) धातुओं को प्रकुपित करते हैं (प्रकोपयन्ति)। "
                    "सरल पाठ में: अपने स्थान में स्थित और मार्ग में स्थित धातुओं को। "
                    "छपे ‘स्थानस्थानमार्गस्थान्’ में ‘स्थान’ दो बार है; यह छपाई की भूल हो सकती है, या ‘स्थान में स्थित, मार्ग में नहीं’ भी "
@@ -676,7 +679,7 @@ AUTHORED["89"] = {
     "explain_hi": ("यह गद्य-पंक्ति भी अधूरी है: स्रोतस् और धातु धातुओं को। "
                    "क्रिया छपी नहीं; इकाई ८७ की ‘प्रकोपयन्ति’ (प्रकुपित करते हैं) समझी जाती है। "
                    "एक ही शब्द धातु दो रूपों में है: ‘धातवः’ प्रथमा बहुवचन (कर्ता) और ‘धातून्’ द्वितीया बहुवचन (कर्म)। "
-                   "इकाई ८६-८९ मिलकर प्रकोप की एक कड़ी बनाती हैं: अवकाश, धातु और स्रोतस् एक-दूसरे को प्रकुपित करते हैं। "
+                   "इकाई ८६-८९ मिलकर प्रकोप की एक कड़ी बनाती हैं: प्रकुपित अवकाश धातुओं को प्रकुपित करते हैं; फिर स्रोतस् और धातु भी धातुओं को (क्रिया इकाई ८७ से समझी)। "
                    "सन्धि: धातवः + च → धातवश्च (च से पहले विसर्ग → श्)।"),
     "hook": "स्रोतस् और धातु, धातुओं को भड़काते हैं।",
     "core": False,
@@ -729,7 +732,8 @@ AUTHORED["90"] = {
     "question": "By unit 90, what vitiates all these?",
     "rule": ("The vitiators (दूषयितारः) of all these (तेषां सर्वेषाम्) indeed are the vitiated (दुष्टाः) doṣas (दोषाः)."),
     "limits": ("Prose; the copula is understood. The printed सर्वेषामैव is flagged: read सर्वेषाम् एव ('ai' a print slip), "
-               "or perhaps सर्वेषां चैव: no question on that word. 'All these' are not named in the line, and the doṣas "
+               "or perhaps सर्वेषां चैव: no question on how that word is read "
+               "(the order question uses only its printed position). 'All these' are not named in the line, and the doṣas "
                "are not named one by one."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: इन सबके ही दूषित करने वाले (दूषयितारः) दूषित (दुष्टाः) दोष हैं। "
                    "यानी जो दोष स्वयं बिगड़े हुए हैं, वही इन सबको बिगाड़ते हैं। "
@@ -786,7 +790,7 @@ AUTHORED["90"] = {
 # ===================================================================== NOTES_HI
 NOTES_HI = {
     "78": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। वाक्य-रचना ढीली (डेटा): ‘दोषादिविज्ञानीयात्’ = दोषादि + विज्ञानीयात्; ‘दोष आदि से "
-           "जानना’ सरल पाठ है, ‘दोष आदि को जानना’ विकल्प; इस पर कोई प्रश्न नहीं। ‘विविधम्’ दूषण के साथ या आहार-विहार के साथ, "
+           "जानना’ सरल पाठ है, ‘दोष आदि को जानना’ विकल्प; यह रूप ‘दोषादिविज्ञानीय’ नाम के अध्याय का पञ्चमी रूप भी हो सकता है (वि-√ज्ञा का विधिलिङ् सामान्यतः विजानीयात् होता है); इस पर कोई प्रश्न नहीं। ‘विविधम्’ दूषण के साथ या आहार-विहार के साथ, "
            "दोनों पढ़े जा सकते हैं। ‘यथास्वम्’ अन्तिम क्रिया के साथ लिया गया। सन्धि जाँची: विज्ञानीयात् + यथास्वम् → "
            "विज्ञानीयाद्यथास्वम् (घोष य से पहले त् → द्); विविधम् + अहित → विविधमहित (स्वर से पहले म्); अहित + आहार → अहिताहार "
            "(अ + आ → आ); विहारम् + उपद्रवान् → विहारमुपद्रवान्।"),
@@ -798,7 +802,7 @@ NOTES_HI = {
     "80": ("गद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.०६.८९, ०२.०६.९०)। पाठ-चिह्न (सम्भावित): छपा ‘स्रोतौविद्धं’; स्रोतस् + विद्ध से "
            "‘स्रोतोविद्धम्’ बनता है, ‘औ’ छपाई की भूल लगती है; दूसरा सुझाव ‘स्रोतसि विद्धम्’ (अर्थ वही); इस रूप पर कोई प्रश्न नहीं। "
            "‘प्रत्याख्याय’ = अस्वीकार करके (रोग को असाध्य कहकर); फिर उपचार करना, जैसा छपा। दूसरी पंक्ति में क्रिया नहीं, पहली की "
-           "‘उपाचरेत्’ समझी जाती है; समूह-टिप्पणी: पंक्ति ९० पंक्ति ८९ को आगे बढ़ाती दिखती है। सन्धि जाँची: प्रत्याख्याय + उपाचरेत् → "
+           "‘उपाचरेत्’ समझी जाती है; समूह-टिप्पणी: दूसरी छपी पंक्ति (०२.०६.९०) पहली (०२.०६.८९) को आगे बढ़ाती दिखती है; दोनों इसी इकाई ८० में। सन्धि जाँची: प्रत्याख्याय + उपाचरेत् → "
            "प्रत्याख्यायोपाचरेत् (अ + उ → ओ); सद्यः + व्रण → सद्योव्रण (अः + घोष व्यंजन → ओ); तस्मात् + स्रो... में स से पहले त् अपरिवर्तित।"),
     "81": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। सिरा = वाहिका, सम्भवतः शिरा; धमनी = स्पन्दन वाली वाहिका, सम्भवतः धमनी; दोनों "
            "आधुनिक पहचान सम्भावित, सटीक नहीं। क्रिया ‘हैं’ समझी जाती है। छपा ‘सिरा’ = सिराः (बहुवचन, धमन्यः की तरह); घोष ध से पहले "
@@ -990,8 +994,8 @@ IMAGE_SPECS = {
         "title": "इकाई ८५: धातु-अवकाशों के नाम (छपे क्रम में)",
         "heads": ["नाम", "अर्थ"],
         "rows": [["स्रोतांसि", "स्रोतस्, नलिकाएँ"], ["सिराः", "सिराएँ"], ["धमन्यः", "धमनियाँ"],
-                 ["रसवाहिन्यः", "रस-वाहिनियाँ"], ["नाड्यः", "नाड़ियाँ"], ["पन्थानः", "पथ"], ["अयनानि", "अयन, रास्ते"],
-                 ["मार्गाः", "मार्ग"], ["शरीरच्छिद्राणि", "शरीर के छिद्र"], ["संवृतासंवृतानि", "बन्द और खुले"],
+                 ["रसवाहिन्यः", "रस-वाहिनियाँ"], ["नाड्‌यः", "नाड़ियाँ"], ["पन्थानः", "पथ"], ["अयनानि", "अयन, रास्ते"],
+                 ["मार्गाः", "मार्ग"], ["शरीरच्छिद्राणि", "शरीर के छिद्र"], ["संवृतासंवृतानि", "बन्द और खुले (छिद्रों के साथ, या अलग नाम)"],
                  ["स्थानानि", "स्थान"], ["आशयाः", "आशय, आधार"], ["क्षयाः", "निवास"], ["निकेताः", "आवास"]],
     },
     ("89", "chain"): {
