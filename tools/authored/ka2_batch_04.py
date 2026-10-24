@@ -794,8 +794,8 @@ AUTHORED["50"] = {
             "Like तत् + एव → तदेव, which is the joined form of तत् + अपि (invented)?",
             ("तदपि", "त् before a vowel becomes द्: तत् + अपि → तदपि."),
             [("ततपि", "त् does not stay unvoiced before a vowel."),
-             ("तत्पि", "The अ of अपि is not lost."),
-             ("तदापि", "The vowel is not lengthened; अ stays अ.")],
+             ("तत्पि", "The अ of अपि is not lost, and त् does not stay unvoiced."),
+             ("तद्पि", "The अ of अपि is not lost.")],
             "तदेव, तदपि: त् + vowel → द्.",
             "त् + vowel → द् + vowel.",
             teaches="A final त् before a vowel becomes द्: तदेव, तदपि, शोषयेदातपे."),
@@ -935,7 +935,7 @@ AIDS = {
         "anchors": "फलकाल = फल का मौसम · परिणत = पका · समाहरेत् = इकट्ठा करे · गुणवत् = गुणी · भार = ढेर · सिकता = बालू · विनिक्षिपेत् = रख दे।",
     },
     "46": {
-        "chain": {"steps": ["बालू से निकालना", "धूप में सुखाना", "मज्जा निकालना", "स्वच्छ पात्र में रखना"]},
+        "chain": {"steps": ["निकालना (प्रसंग से, बालू से)", "धूप में सुखाना", "मज्जा निकालना", "स्वच्छ पात्र में रखना"]},
         "chunks": "समरात्रात्समुद्धृत्य | शोषयेदातपे ततः || ततो मज्जानमुद्धृत्य | शुचौ पात्रे निधापयेत्",
         "sandhi": "त् + स्वर → द्: शोषयेत् + आतपे → शोषयेदातपे; अः → ओ घोष से पहले: ततः + मज्जानम् → ततो मज्जानम्।",
         "contrast": "उद्धृत्य (उपसर्ग सहित, -य) ⇄ हृत्वा (बिना उपसर्ग, -त्वा): दोनों ‘करके’ वाले रूप।",
@@ -1012,9 +1012,9 @@ IMAGE_SPECS = {
     },
     ("46", "chain"): {
         "file": "ka2-majja-patra-46.svg",
-        "alt": "Flowchart of verse 46: take the fruits out of the sand, dry them in the sun, take out the kernel, place it in a clean vessel",
+        "alt": "Flowchart of verse 46: take them out (of the sand, by context), dry them in the sun, take out the kernel, place it in a clean vessel",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["बालू से निकालना"] --> B["धूप में सुखाना"]\n'
+        "code": ('flowchart TD\n  A["निकालना"] --> B["धूप में सुखाना"]\n'
                  '  B --> C["मज्जा निकालना"]\n  C --> D["स्वच्छ पात्र में रखना"]\n'),
     },
     ("48", "diagram"): {
