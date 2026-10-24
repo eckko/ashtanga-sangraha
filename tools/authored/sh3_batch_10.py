@@ -15,14 +15,14 @@ AUTHORED["116"] = {
     "rule": ("To the hungry one (बुभुक्षिता) give a dose of sneha (स्नेहमात्रा), digesting within the day, according to "
              "suitability (यथासात्म्यम्), joined with pañcakola powder or with a powder of yavānī, upakuñcikā, cavya, "
              "citraka, vyoṣa and saindhava."),
-    "limits": ("Prose, not a verse. च links it to unit 115 (balā oil). yavānī = ajwain (standard); upakuñcikā = probably "
+    "limits": ("Prose, not a verse. च is read (data note) as linking it to unit 115 (balā oil). yavānī = ajwain (standard); upakuñcikā = probably "
                "nigella (disputed); saindhava = rock salt (standard); vyoṣa = the three pungents. Pañcakola's contents "
                "are not listed. 'Digesting by day's end' is a reading, not stated."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है कि भूखी (बुभुक्षिता) सूतिका को स्नेह (तेल या घी) की मात्रा पिलानी चाहिए। "
                    "वह मात्रा पञ्चकोल के चूर्ण से, या यवानी (अजवायन, मानक), उपकुञ्चिका (सम्भवतः कलौंजी, विवादित), चव्य, "
                    "चित्रक, व्योष (तीन कटु) और सैन्धव (सेंधा नमक, मानक) के चूर्ण से युक्त हो; ‘वा’ इन दो चूर्णों के बीच है। "
                    "मात्रा ऐसी हो जो दिन में पच जाए (अहःपरिणामिनी), और सात्म्य के अनुसार (यथासात्म्यम्) हो। "
-                   "आरम्भ का ‘च’ इसे इकाई ११५ (बला-तैल से अभ्यंग) से जोड़ता है।"),
+                   "आरम्भ का ‘च’ इसे इकाई ११५ (बला-तैल से अभ्यंग) से जोड़ता माना गया है।"),
     "hook": "भूखी को: पञ्चकोल या यवानी-आदि चूर्ण के साथ, दिन में पचने वाली स्नेह-मात्रा।",
     "core": True,
     "questions": [
@@ -114,7 +114,7 @@ AUTHORED["117"] = {
             "अ + अ → आ."),
         mcq("apply", 4, "By unit 117, what is done for the woman who has drunk?",
             ("Anoint with yamaka, wrap the belly in cloth", "पीतवत्याश्च यमकेनाभ्यज्य वेष्टयेदुदरं वस्त्रेण."),
-            [("Sprinkle her with hot water twice a day", "Hot-water sprinkling is unit 120."),
+            [("Sprinkle her with hot water before the drinks", "Hot-water sprinkling is unit 120."),
              ("Give her a liquid yavāgū in measure", "The yavāgū comes in unit 119."),
              ("Anoint her with balā oil and let her rest", "Balā oil is unit 115.")],
             "After she has drunk: yamaka anointing, then the belly wrapped with cloth.",
@@ -172,7 +172,7 @@ AUTHORED["118"] = {
             "उदर = belly here."),
         mcq("apply", 4, "Why does the negative in अनवकाशत्वात् take the form अन्- and not अ-?",
             ("Because the next word अवकाश begins with a vowel", "The negative prefix is अन्- before a vowel, अ- before a consonant."),
-            [("Because the word stands in the ablative case", "The case ending does not choose the prefix."),
+            [("Because the whole word stands in the ablative case, -त्वात्", "The case ending does not choose the prefix."),
              ("Because अन्- means 'very', not 'not'", "अन्- here is the negative: absence of space."),
              ("Because the subject वायुः is masculine", "Gender does not choose the prefix.")],
             "अन् + अवकाश: अन्- before a vowel.",
@@ -371,7 +371,7 @@ AUTHORED["121"] = {
 # ---------------------------------------------------------------- unit 122
 AUTHORED["122"] = {
     "title": "कथितशीतं च तोयं पाययेत्",
-    "question": "By unit 122, what water is she given to drink?",
+    "question": "By unit 122, what water is given to drink?",
     "rule": ("Water (तोय) that has been boiled and cooled (शीत) should be given to drink. पाययेत् is causative: should "
              "make (her) drink."),
     "limits": ("Printed कथित (said) is read as क्वथित (boiled) from the sense; 'boiled' rests on that reading, so no "
@@ -384,7 +384,7 @@ AUTHORED["122"] = {
     "hook": "उबला, फिर ठण्डा: ऐसा तोय पिलाएँ।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 122, what kind of water is she given to drink?",
+        mcq("pretest", 0, "By unit 122, what kind of water is given to drink?",
             ("Water that has been cooled", "कथितशीतं ... तोयम्: शीत = cooled."),
             [("Water that is still hot", "Hot water is for sprinkling, unit 120."),
              ("Water mixed with milk, served warm", "No milk is named in unit 122."),
@@ -431,10 +431,10 @@ AUTHORED["123"] = {
     "title": "तथा जीवनीयबृंहणीय... उपाचरेत्",
     "question": "By unit 123, with what preparations and means is she attended to?",
     "rule": ("Likewise attend (उपाचरेत्) with preparations cooked with life-promoting (jīvanīya), nourishing (bṛṃhaṇīya), "
-             "sweet and vāta-relieving drugs, through anointing, sprinkling, immersion and the like, and agreeable foods and drinks."),
+             "sweet and vāta-relieving drugs, through anointing, ucchādana (unclear), sprinkling and immersion, and with agreeable foods and drinks."),
     "limits": ("Low confidence. उच्छादन is unclear (utsādana is a guess); printed ह्रद्य is read हृद्य. No question on either. "
                "jīvanīya and bṛṃhaṇīya are named drug groups (standard). Who is attended is not printed."),
-    "explain_hi": ("इसी प्रकार जीवनीय, बृंहणीय (पोषक), मधुर और वातहर द्रव्यों से सिद्ध किए हुए (तैल आदि) से अभ्यंग, उच्छादन "
+    "explain_hi": ("इसी प्रकार जीवनीय, बृंहणीय (पोषक), मधुर और वातहर द्रव्यों से सिद्ध किए हुए (पदार्थों; कौन-से, यह नहीं कहा) से अभ्यंग, उच्छादन "
                    "(अस्पष्ट शब्द), परिषेक और अवगाह द्वारा, और हृदय को प्रिय (हृद्य) अन्न-पान से उपचार करना चाहिए। "
                    "जीवनीय और बृंहणीय औषधियों के नामित गण हैं (मानक)। "
                    "‘उच्छादन’ और छपा ‘ह्रद्य’ अनिश्चित हैं, इन पर प्रश्न नहीं। "
@@ -443,10 +443,10 @@ AUTHORED["123"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 123, with which drugs are the preparations cooked (सिद्ध)?",
-            ("Life-promoting, nourishing, sweet, vāta-relieving", "जीवनीयबृंहणीयमधुरवातहरसिद्धैः."),
+            ("Life-promoting, nourishing, sweet, vāta-relieving ones", "जीवनीयबृंहणीयमधुरवातहरसिद्धैः."),
             [("Pungent, drying, bitter and strongly vāta-raising ones", "The line names sweet and vāta-relieving drugs."),
              ("Purging, emetic, sour and kapha-raising ones", "None of these is named in unit 123."),
-             ("Cooling, astringent, salty and pitta-raising", "None of these is named in unit 123.")],
+             ("Cooling, astringent, salty and pitta-raising ones", "None of these is named in unit 123.")],
             "Four qualities: jīvanīya, bṛṃhaṇīya, madhura, vātahara.",
             "जीवनीय-बृंहणीय-मधुर-वातहर-सिद्ध."),
         order(1, "Put the four drug qualities of unit 123 in the line's order.",
@@ -551,12 +551,12 @@ AUTHORED["125"] = {
     "rule": ("Treated thus for one and a half months (अध्यर्धमासम्) and gradually (क्रमेण) released from the restraint "
              "(यन्त्रणा) of food and conduct, she would be one from whom the name sūtikā has gone."),
     "limits": ("Printed विगंत is read विगत (gone): a correction, so no question rests on it. The compound with विमुक्त "
-               "may also split as विमुक्ता + a separate word; the sense stays the same. The next unit gives another view."),
+               "may also split as विमुक्ता + a separate word (the data notes this as possible). The next unit appears to give another view."),
     "explain_hi": ("इस प्रकार डेढ़ मास (अध्यर्धमासम्) तक उपचारित (उपसंस्कृता) होकर, और क्रम से (क्रमेण) आहार और विहार के "
                    "नियन्त्रण (यन्त्रणा) से मुक्त होकर, वह ऐसी हो जाती है कि उसका ‘सूतिका’ नाम चला जाता है। "
                    "अध्यर्ध = एक और आधा (पूरे में आधा जुड़ा)। "
                    "छपा ‘विगंत’ ‘विगत’ पढ़ा गया है, इसलिए उस पर प्रश्न नहीं। "
-                   "अगली इकाई (१२६) इस अवधि पर कुछ लोगों का दूसरा मत देती है।"),
+                   "अगली इकाई (१२६) इस अवधि पर कुछ लोगों का दूसरा मत देती प्रतीत होती है।"),
     "hook": "डेढ़ मास, धीरे-धीरे छूट: फिर ‘सूतिका’ नाम नहीं।",
     "core": True,
     "questions": [
@@ -618,7 +618,7 @@ AUTHORED["126"] = {
     "hook": "कुछ कहते हैं: रज फिर दिखे, तब।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 126, what marks the end of the period, according to some?",
+        mcq("pretest", 0, "By unit 126, what event do some (एके) name?",
             ("The reappearance of the menses", "पुनरार्तवदर्शनात्: from the menses appearing again."),
             [("The passing of twelve nights", "Twelve nights belongs to unit 121."),
              ("The child's first full month", "No child's month is named in unit 126."),
@@ -642,7 +642,7 @@ AUTHORED["126"] = {
             "पुनः (again) + आर्तव (menses): उः + vowel → उर्.",
             "Visarga after उ → र् before a vowel."),
         mcq("apply", 4, "By unit 126, whose view is this?",
-            ("A view held by some (एके)", "इति एके: so some (say)."),
+            ("A view held by some", "इति एके: so some (say)."),
             [("The only view the text allows", "It is a view of some, beside another account."),
              ("The view of all teachers", "एके means some, not all."),
              ("The sūtikā's own view", "एके is masculine plural: some (people), not the woman.")],
@@ -671,12 +671,12 @@ AUTHORED["127"] = {
                    "(तावत्) की सारी विधि सब प्रकार से भली भाँति दिखा दी गई है। "
                    "‘यावत् ... तावत्’ जोड़ी है: जब तक ... तब तक। "
                    "डेटा दोनों छपी पंक्तियों को एक वाक्य मानता है, अनुवाद उन्हें अलग रखता है। "
-                   "यह श्लोक (अनुष्टुभ्) अध्याय का सार है।"),
+                   "यह श्लोक (अनुष्टुभ्) कहता है कि सारी विधि भली भाँति दिखा दी गई है।"),
     "hook": "पहले मास से, फिर गर्भ-योग्य होने तक: सारी विधि भली भाँति दिखाई गई।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 127, what has been shown well in every way?",
-            ("The whole procedure (विधिः सर्वः)", "विधिः सर्वः सर्वथा साधु दर्शितः."),
+            ("The whole procedure", "विधिः सर्वः सर्वथा साधु दर्शितः."),
             [("The whole list of her possible diseases", "No diseases are listed in unit 127."),
              ("The signs of a male child", "Those signs are not in unit 127."),
              ("The full set of mantras", "No mantras are named in unit 127.")],
@@ -703,7 +703,7 @@ AUTHORED["127"] = {
         mcq("apply", 4, "Why is यावत् printed यावद् before गर्भक्षमा?",
             ("A final त् becomes द् before a voiced sound", "ग is voiced, so त् → द्."),
             [("Because गर्भक्षमा is feminine", "Gender does not change a final consonant."),
-             ("Because the metre needs a long syllable", "The change is sandhi, not metre."),
+             ("Because the metre needs a long syllable at that place", "The change is sandhi, not metre."),
              ("Because द् marks the plural here", "यावत् is an indeclinable; it has no plural.")],
             "यावत् + गर्भक्षमा → यावद्गर्भक्षमा.",
             "Final त् → द् before a voiced sound."),
@@ -758,7 +758,7 @@ AUTHORED["128"] = {
             "तृतीयः (third) + अध्यायः (chapter).",
             "अः + अ → ओऽ."),
         mcq("apply", 4, "By the data's note, what does the name Garbhopacaraṇīya refer to?",
-            ("Care given in pregnancy and its aftermath", "The note: what is to be done for (the woman with) the foetus."),
+            ("Care in pregnancy and after it", "The note: what is to be done for (the woman with) the foetus."),
             [("The signs that foretell death", "Not the sense given for this name."),
              ("The bones and joints of the body", "Not the sense given for this name."),
              ("The rites for begetting a son", "Not the sense given for this name.")],
@@ -815,7 +815,7 @@ NOTES_HI = {
     "124": ("गद्य; विश्वास निम्न। पाठ-चिह्न: लम्बे समास में ‘वृद्धिं’ का अनुस्वार भटका प्रतीत; ‘प्रवाहुण’ अस्पष्ट (शायद प्रवाहण, "
             "अपनाया नहीं); समास और ‘च’ बिना अन्तराल; ‘यथोक्तेनविधिना’ बिना अन्तराल। समास का विभाग अनुमानित, दूसरा अर्थ भी सम्भव "
             "(प्रवाहण, वेदना, क्लेद, रक्त-स्राव से क्षीण शरीर)। रोग का नाम नहीं। ‘पुनर्नवी’ च्वि-रूप। सन्धि जाँची: "
-            "भवति + असाध्यः → भवत्यसाध्यः (इ + अ → य); कृच्छ्रसाध्यः + भवति → कृच्छ्रसाध्यो भवति (अः → ओ); "
+            "भवति + असाध्यः → भवत्यसाध्यः (इ + अ → य); कृच्छ्रसाध्यः + भवति → कृच्छ्रसाध्यो भवति (अः → ओ घोष से पहले); "
             "अतः + एव → अत एव (छपा ‘अतएव’); तस्मात् + ताम् → तस्मात्ताम्; प्रयत्नेन + उपचरेत् → प्रयत्नेनोपचरेत् (अ + उ → ओ)।"),
     "125": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: छपा ‘विगंत’ = विगत (अनुस्वार भटका, अर्थ से); ‘क्रमेणविमुक्तआहार…’ बिना अन्तराल, "
             "‘विमुक्तआहार’ में असामान्य स्वर-विराम; दूसरा विभाग ‘विमुक्ता + आहारविहारयन्त्रणात्’ केवल अनुमान। छपा ‘अध्यर्द्ध’ = "
@@ -862,7 +862,7 @@ AIDS = {
     "119": {
         "diagram": {"groups": [
             {"label": "कब", "items": ["स्नेह पच जाने पर"]},
-            {"label": "यवागू किससे सिद्ध (कोई एक)", "items": ["वही पहले वाली औषधियाँ", "विदारी-आदि गण का क्वाथ", "या दूध"]},
+            {"label": "यवागू किससे सिद्ध (कोई एक)", "items": ["वही पहले वाली औषधियाँ", "विदारी-आदि गण का क्वाथ (छपा कथाथ)", "या दूध"]},
             {"label": "यवागू कैसी", "items": ["भली प्रकार उबली", "तरल", "मात्रा से"]}]},
         "chunks": "जीर्णे तु स्नेहे | पूर्वौषधैरेव सिद्धां | विदार्यादिगणकथाथेन | क्षीरेण वा | यवागूं सुस्विन्नां द्रवां | मात्रया पाययेत्",
         "sandhi": "अ + औ → औ: पूर्व + औषधैः → पूर्वौषधैः · ऐ के बाद विसर्ग → र्: पूर्वौषधैः + एव → पूर्वौषधैरेव · ई + आ → या: विदारी + आदि → विदार्यादि।",
@@ -873,8 +873,8 @@ AIDS = {
         "frame": "कब (प्राक् + पञ्चमी: दोनों पानों से पहले) → कितनी बार (उभयकालम्) → किससे (उष्णोदकेन) → क्रिया (परिषेचयेत्)।",
     },
     "121": {
-        "chain": {"steps": ["१ तीन या पाँच रात यह क्रम", "२ यव-कोल-कुलत्थ का यूष", "३ हल्का अन्न-पान",
-                            "४ बारह रात के बाद", "५ जाङ्गल रस आदि", "६ अग्नि-बल देखकर, क्रम से"]},
+        "chain": {"steps": ["१ तीन या पाँच रात यह क्रम", "२ यव-कोल-कुलत्थ का यूष और हल्का अन्न-पान",
+                            "३ बारह रात के बाद", "४ जाङ्गल रस आदि", "५ अग्नि-बल देखकर, क्रम से"]},
         "chunks": ("एवं त्रिरात्रं पंचरात्रं समरात्रं (?) वाऽनुपाल्य | ततो यवकोलकुलत्थयूषेण | लघुना चान्नपानेन | "
                    "द्वादशरात्रात्परं | जांगलरसादिभिश्च | क्रमादाप्यायेत् | अग्निबलादीन्यपेक्ष्य"),
         "sandhi": "अः → ओ घोष से पहले: ततः + यव… → ततो यव… · अ + अ → आ: च + अन्नपानेन → चान्नपानेन · इ + अ → य: अग्निबलादीनि + अपेक्ष्य → अग्निबलादीन्यपेक्ष्य।",
@@ -944,32 +944,31 @@ IMAGE_SPECS = {
                 "then the belly wrapped with cloth."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"स्नेह के अयोग्य\"] --> B[\"वातहर औषधों का क्वाथ\"]\n"
-                 "  A -->|\"या\"| C[\"ह्रस्व पञ्चमूल का क्वाथ\"]\n"
+                 "  A[\"स्नेह के अयोग्य\"] --> B[\"वातहर औषधों का क्वाथ (छपा कथ)\"]\n"
+                 "  A -->|\"या\"| C[\"ह्रस्व पञ्चमूल का क्वाथ (छपा कथ)\"]\n"
                  "  D[\"जिसने पी लिया हो\"] --> E[\"यमक से अभ्यंग\"]\n"
                  "  E --> F[\"पेट कपड़े से लपेटना\"]\n"),
     },
     ("119", "diagram"): {
         "file": "sh3-jirna-sneha-yavagu-119.svg",
         "alt": ("Two columns of unit 119: once the sneha is digested, the yavāgū is cooked with one of three: the same "
-                "earlier medicines, the vidārī-group decoction, or milk; it is well boiled, liquid and given in measure."),
+                "earlier medicines, the vidārī-group decoction (printed kathātha, read kvātha), or milk; it is well boiled, liquid and given in measure."),
         "type": "split",
         "title": "इकाई ११९: स्नेह पचने पर यवागू",
-        "cols": [["किससे सिद्ध (कोई एक)", ["वही पहले वाली औषधियाँ", "विदारी-आदि गण का क्वाथ", "या दूध"]],
+        "cols": [["किससे सिद्ध (कोई एक)", ["वही पहले वाली औषधियाँ", "विदारी-आदि गण का क्वाथ (छपा कथाथ)", "या दूध"]],
                  ["यवागू कैसी", ["भली प्रकार उबली", "तरल", "मात्रा से"]]],
     },
     ("121", "chain"): {
         "file": "sh3-kramad-apyayana-121.svg",
         "alt": ("Numbered flowchart of unit 121: 1 three or five nights of this regimen (a third, unclear period is left "
-                "out), 2 soup of barley, jujube and horse gram, 3 light food and drink, 4 after twelve nights, "
-                "5 jāṅgala broths and the like, 6 gradually, having regard to digestive fire and strength."),
+                "out), 2 soup of barley, jujube and horse gram with light food and drink, 3 after twelve nights, "
+                "4 jāṅgala broths and the like, 5 gradually, having regard to digestive fire and strength."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"१ तीन या पाँच रात\"] --> B[\"२ यव-कोल-कुलत्थ का यूष\"]\n"
-                 "  B --> C[\"३ हल्का अन्न-पान\"]\n"
-                 "  C --> D[\"४ बारह रात के बाद\"]\n"
-                 "  D --> E[\"५ जाङ्गल रस आदि\"]\n"
-                 "  E --> F[\"६ अग्नि-बल देखकर, क्रम से\"]\n"),
+                 "  A[\"१ तीन या पाँच रात\"] --> B[\"२ यव-कोल-कुलत्थ का यूष और हल्का अन्न-पान\"]\n"
+                 "  B --> D[\"३ बारह रात के बाद\"]\n"
+                 "  D --> E[\"४ जाङ्गल रस आदि\"]\n"
+                 "  E --> F[\"५ अग्नि-बल देखकर, क्रम से\"]\n"),
     },
     ("124", "chain"): {
         "file": "sh3-sutika-vyadhi-124.svg",
