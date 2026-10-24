@@ -148,12 +148,12 @@ AUTHORED["3"] = {
             "पित्ते अत्युष्णः = very hot in Pitta.",
             "पित्त → अत्युष्ण."),
         match(1, "Match each cause to the quality the unit pairs with it.",
-              [["अधिके वाते", "cold or little"], ["पित्ते", "very hot"], ["कफे", "mild"],
+              [["वाते (अधिक)", "cold or little"], ["पित्ते", "very hot"], ["कफे", "mild"],
                ["अतिभुक्ते", "heavy"], ["वर्चःसंचये", "of little strength"]],
               "The unit gives one quality for each of the five causes.",
               "वात: शीत/अल्प · पित्त: अत्युष्ण · कफ: मृदु · अतिभुक्त: गुरु · वर्चःसंचय: अल्पबल."),
         order(2, "Put the five causes in the order the unit gives them.",
-              ["अधिके वाते", "पित्ते", "कफे", "अतिभुक्ते", "वर्चःसंचये"],
+              ["वाते", "पित्ते", "कफे", "अतिभुक्ते", "वर्चःसंचये"],
               "Vāta, Pitta, Kapha, over-eating, stool: the same order as the coverers of unit 2.",
               "वात · पित्त · कफ · अतिभुक्त · वर्चःसंचय.",
               role="extend",
@@ -247,16 +247,16 @@ AUTHORED["5"] = {
     "title": "विद्याद्वायुना स्नेहावृतम्",
     "question": "By which signs is the sneha known as covered by Vāyu, and with what qualities does its remedy begin?",
     "rule": ("With pain in the flanks and twisting (veṣṭana) one should know the sneha to be covered by "
-             "Vāyu (wind). Line 2 begins the remedy: (enemas) unctuous, sour, salty and hot, with the oils "
-             "of rāsnā and pītadru."),
+             "Vāyu (wind). Line 2 begins the remedy: (enemas) unctuous, sour, salty and hot, with rāsnā, "
+             "pītadru and oils (probably their two oils)."),
     "limits": ("The noun 'enemas' and the verb come in unit 6. rāsnā is probably Pluchea lanceolata (others "
                "proposed); pītadru's identity is disputed. 'Oils of rāsnā and pītadru' is the likely reading, "
                "but the compound may be 'rāsnā, pītadru and oils' (open); no question on it. 'Cramp-like' is only a gloss."),
     "explain_hi": ("इकाई ४ के लक्षणों में पार्श्व (पसलियों वाले भाग) की पीड़ा और वेष्टन यानी ऐंठन जुड़ते हैं, और तब कहा जाता है: "
                    "‘विद्याद् वायुना स्नेहावृतम्’, यानी जानो कि स्नेह वायु से आवृत है। दूसरी पंक्ति से उपाय शुरू होता है: "
-                   "स्निग्ध, अम्ल, लवण और उष्ण (द्रव्यों वाली), तथा रास्ना (सम्भवतः रासना पौधा) और पीतद्रु (पहचान विवादित) के तैलों से। "
-                   "किस बस्ति से निकालें, यह इकाई ६ में आता है।"),
-    "hook": "पसली-पीड़ा और ऐंठन = वायु से ढका स्नेह; उपाय: स्निग्ध, अम्ल, लवण, उष्ण।",
+                   "स्निग्ध, अम्ल, लवण और उष्ण (द्रव्यों वाली), तथा रास्ना (सम्भवतः प्लूकिया लैन्सियोलाटा), पीतद्रु (पहचान विवादित) और तैलों से; "
+                   "सम्भवतः इन्हीं दोनों के तैल, पर यह पढ़त अनुमान है। किस बस्ति से निकालें, यह इकाई ६ में आता है।"),
+    "hook": "जकड़न ... से पसली-पीड़ा और ऐंठन तक = वायु से ढका स्नेह; उपाय: स्निग्ध, अम्ल, लवण, उष्ण।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "With flank pain and twisting, by what does the unit say the sneha is covered?",
@@ -342,13 +342,13 @@ AUTHORED["6"] = {
              ("Nothing: it means 'without urine'", "स- means 'with'; 'without' would be a- or nir-.")],
             "समूत्रैः = with urine (स + मूत्र).",
             "स- = with."),
-        mcq("apply", 4, "What does निर्हरेत् tell the physician to do with the covered sneha?",
-            ("Expel it", "निर्हरेत् = one should expel (निः + √हृ, optative)."),
-            [("Hold it in", "The trouble is that it stays in; the verb is to expel it."),
-             ("Warm it first", "Warming is not the meaning of निर्हरेत्."),
-             ("Give it again", "Giving again is not named.")],
-            "निर्हरेत् सम्यक् = one should expel (it) well.",
-            "निर्हरेत् = one should expel."),
+        mcq("apply", 4, "A sneha covered by Vāyu will not come out. Which of these does the unit name among the nirūha ingredients?",
+            ("Horse gram (कुलत्थ)", "कुलत्थ (horse gram; standard) is in the compound सौवीरक-सुरा-कोल-कुलत्थ-यव-साधितैः."),
+            [("Cow's milk (गोक्षीर)", "Milk is not named in this unit."),
+             ("Sesame oil (तिलतैल)", "Sesame oil is not named in this unit."),
+             ("Clarified butter (घृत)", "Ghee is not named in this unit.")],
+            "The nirūhas are prepared with sour gruel, surā, kola, horse gram and barley, with urine and the five roots.",
+            "वायु-आवृत स्नेह → सौवीरक, सुरा, कोल, कुलत्थ, यव से साधित निरूह."),
         mcq("transfer", 5, "Like समूत्र (together with urine), which compound means together with oil?",
             ("सतैल", "स- + noun = 'together with': स + तैल = सतैल."),
             [("अतैल", "अ- means 'without'."),
@@ -390,9 +390,9 @@ AUTHORED["7"] = {
               "These words give the time, the condition, the act and the means.",
               "सायम् = evening; भुक्ते = having eaten; अनुवासयेत् = give an anuvāsana; तैलाभ्याम् = with two oils."),
         order(2, "Put these signs of line 2 in the order of the verse.",
-              ["तृट्", "दाह", "राग", "संमोह", "वैवर्ण्य", "तमक"],
-              "The compound runs: thirst, burning, redness, bewilderment, discolouration, tamaka, and then fever.",
-              "तृट् · दाह · राग · संमोह · वैवर्ण्य · तमक (· ज्वर).",
+              ["राग", "संमोह", "वैवर्ण्य", "तमक", "ज्वर"],
+              "After thirst and burning (print तृडदाह, read तृड्दाह) the compound runs: redness, bewilderment, discolouration, tamaka, fever.",
+              "(तृट् · दाह ·) राग · संमोह · वैवर्ण्य · तमक · ज्वर.",
               role="extend",
               teaches="Line 2 lists thirst, burning, redness, bewilderment, discolouration, tamaka and fever; unit 8 ties them to Pitta."),
         mcq("discriminate", 3, "ताभ्याम् ... तैलाभ्याम् is dual. What does the dual tell here?",
@@ -444,9 +444,9 @@ AUTHORED["8"] = {
             "स्वादु = sweet; तिक्त = bitter.",
             "पित्त-आवृत → स्वादु-तिक्त बस्ति."),
         order(1, "Put these signs of line 2 in the order of the verse.",
-              ["तन्द्रा", "शीत", "ज्वर", "आलस्य", "प्रसेक", "अरुचि"],
-              "The compound runs: drowsiness, cold, fever, lassitude, praseka, aversion, and then heaviness.",
-              "तन्द्रा · शीत · ज्वर · आलस्य · प्रसेक · अरुचि (· गौरव)."),
+              ["तन्द्रा", "आलस्य", "प्रसेक", "अरुचि", "गौरव"],
+              "The compound runs: drowsiness, (cold, fever,) lassitude, praseka, aversion, heaviness.",
+              "तन्द्रा · (शीत-ज्वर ·) आलस्य · प्रसेक · अरुचि · गौरव."),
         match(2, "Match each word of line 1 to its meaning.",
               [["विद्यात्", "one should know"], ["पित्तावृतम्", "covered by Pitta"],
                ["बस्तिभिः", "with enemas"], ["हरेत्", "one should remove"]],
@@ -461,7 +461,7 @@ AUTHORED["8"] = {
              ("स्वादुतिक्तम् + तैः", "The adjective is instrumental plural, agreeing with बस्तिभिः.")],
             "स्वादुतिक्तैः (with sweet and bitter) + तम् (it).",
             "Visarga + त → स्त."),
-        mcq("apply", 4, "After an unctuous enema there are thirst, burning and redness (unit 7). What does this unit then say to do?",
+        mcq("apply", 4, "After an unctuous enema there are redness, bewilderment and discolouration (unit 7). What does this unit then say to do?",
             ("Remove it with sweet and bitter enemas", "These are the signs of the Pitta covering; its remedy is स्वादुतिक्त बस्ति."),
             [("Give a nirūha with urine and with barley", "That is the Vāyu remedy of unit 6."),
              ("Give the two oils in the evening", "That is the Vāyu remedy of unit 7."),
@@ -491,7 +491,7 @@ AUTHORED["9"] = {
     "explain_hi": ("इकाई ८ के लक्षणों में मूर्च्छा और ग्लानि यानी थकावट जुड़ती हैं, तब जानो कि स्नेह श्लेष्मा यानी कफ से आवृत है। "
                    "दूसरी पंक्ति उपाय शुरू करती है: कषाय (कसैले), तिक्त (कड़वे) और कटुक (तीखे) द्रव्यों वाली, सुरा और मूत्र के साथ साधित। "
                    "यहाँ कषाय रस का नाम है, काढ़ा नहीं। ‘बस्तियों से निकालो’ इकाई १० में आता है।"),
-    "hook": "मूर्च्छा-ग्लानि = कफ से ढका स्नेह; उपाय: कसैला, कड़वा, तीखा, सुरा-मूत्र के साथ।",
+    "hook": "तन्द्रा ... से मूर्च्छा-ग्लानि तक = कफ से ढका स्नेह; उपाय: कसैला, कड़वा, तीखा, सुरा-मूत्र के साथ।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "With fainting and exhaustion, by what does the unit say the sneha is covered?",
@@ -532,7 +532,7 @@ AUTHORED["9"] = {
              ("तज्शरीरम्", "त् → ज् happens before voiced ज/झ; here श gives च्छ.")],
             "Same rule as विद्यात् + श्लेष्मणा = विद्याच्छ्लेष्मणा.",
             "त् + श → च्छ.",
-            teaches="त् before श becomes च् and the श becomes छ (विद्यात् + श्लेष्मणा = विद्याच्छ्लेष्मणा; तत् + शरीरम् = तच्छरीरम्)."),
+            teaches="त् before श becomes च्, and the श usually becomes छ (विद्यात् + श्लेष्मणा = विद्याच्छ्लेष्मणा; तत् + शरीरम् = तच्छरीरम्)."),
     ],
 }
 
@@ -607,7 +607,7 @@ AUTHORED["11"] = {
     "explain_hi": ("इकाई १० के लक्षणों में आम (कच्चा, अपचा भोजन-रस; फल ‘आम’ नहीं) के लक्षण और दाह जुड़ते हैं, तब जानो कि स्नेह "
                    "अति भोजन से आवृत है। उपाय पाचन से शुरू होता है: तीखे द्रव्यों और लवणों के काढ़ों और चूर्णों से पाचन, "
                    "यानी आम को पकाने वाला उपाय। कौन-से तीखे द्रव्य या कौन-से लवण, यह नहीं लिखा। आगे मृदु विरेचन इकाई १२ में आता है।"),
-    "hook": "आम के लक्षण + जलन = अति भोजन से ढका स्नेह; पहले तीखे-लवण के काढ़े-चूर्ण से पाचन।",
+    "hook": "छर्दि ... से आम के लक्षण और जलन तक = अति भोजन से ढका स्नेह; पहले तीखे-लवण के काढ़े-चूर्ण से पाचन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does आम mean on this card?",
@@ -635,7 +635,7 @@ AUTHORED["11"] = {
             "विद्यात् (one should know) + अति-अशन-आवृतम् (covered by over-eating).",
             "त् + vowel → द्; इ + अ → य; अ + आ → आ."),
         mcq("apply", 4, "The sneha is covered by over-eating. What does line 2 give for it?",
-            ("A digestive of pungent and salt decoctions and powders", "कटूनां लवणानां च क्वाथैः चूर्णैः च पाचनम्."),
+            ("A digestive (pācana) of pungents and salts", "कटूनां लवणानां च ... पाचनम्: a digestive of pungent things and salts, as powders and (probably) decoctions."),
             [("Sweet and bitter enemas, with nothing given before them", "That is the Pitta remedy of unit 8."),
              ("An oil enema in the evening after food", "That is the Vāyu remedy of unit 7."),
              ("Nirūhas with sour gruel and with urine", "That is the Vāyu remedy of unit 6.")],
@@ -670,7 +670,7 @@ AIDS = {
     "1": {
         "chunks": "अथातः | स्नेहव्यापदिकां सिद्धिं | व्याख्यास्यामः।",
         "sandhi": "अ + अ → आ: अथ + अतः → अथातः; स्नेह + व्यापद् + इका → स्नेहव्यापदिका।",
-        "anchors": "स्नेह = तैल-घी जैसा चिकना द्रव्य · व्यापद् = गड़बड़ी · सिद्धि = सिद्धि · व्याख्यास्यामः = व्याख्या करेंगे।",
+        "anchors": "स्नेह = तैल-घी जैसा चिकना द्रव्य · व्यापद् = गड़बड़ी · सिद्धि = सफल सम्पादन (शाब्दिक अर्थ) · व्याख्यास्यामः = व्याख्या करेंगे।",
     },
     "2": {
         "diagram": {"groups": [{"label": "आवरण करने वाले (साफ़ नाम)", "items": ["मरुत् (वात)", "पित्त", "कफ", "अत्यशन", "विट्चय"]},
@@ -684,7 +684,7 @@ AIDS = {
                                                               "अति भोजन → गुरु", "मल-संचय → अल्प बल"]}]},
         "chunks": "शीतोऽल्पो वाऽधिके वाते | पित्तेऽत्युष्णः | कफे मृदुः ‖ अतिभुक्ते गुरुः | वर्चःसंचयेऽल्पबलस् तथा।",
         "sandhi": "अः + अ → ओऽ: शीतः + अल्पः → शीतोऽल्पः; ए + अ → एऽ: पित्ते + अति → पित्तेऽति; इ + उ → यु: अति + उष्णः → अत्युष्णः।",
-        "anchors": "शीत = ठण्डा · अल्प = थोड़ा · अत्युष्ण = बहुत गरम · मृदु = मृदु · गुरु = भारी · अल्पबल = कम बल वाला।",
+        "anchors": "शीत = ठण्डा · अल्प = थोड़ा · अत्युष्ण = बहुत गरम · मृदु = कोमल, हल्का · गुरु = भारी · अल्पबल = कम बल वाला।",
     },
     "4": {
         "diagram": {"groups": [{"label": "पंक्ति १", "items": ["दत्त", "आवृत", "न आयाति", "अभिभव से भी"]},
@@ -695,7 +695,7 @@ AIDS = {
     },
     "5": {
         "chain": {"steps": ["लक्षण (इकाई ४ से): ... पार्श्व-पीड़ा, वेष्टन", "जानो: स्नेह वायु से आवृत",
-                            "उपाय: स्निग्ध, अम्ल, लवण, उष्ण; रास्ना और पीतद्रु के तैल", "किससे निकालें: इकाई ६"]},
+                            "उपाय: स्निग्ध, अम्ल, लवण, उष्ण; रास्ना, पीतद्रु और तैल (सम्भवतः इनके तैल)", "किससे निकालें: इकाई ६"]},
         "chunks": "पार्श्वरुग्वेष्टनैः | विद्याद्वायुना स्नेहावृतं ‖ स्निग्धाम्ललवणोष्णैस्तं | रास्नापीतद्रुतैलकैः।",
         "sandhi": "त् → द् घोष से पहले: विद्यात् + वायुना → विद्याद्वायुना; ज् → ग्: पार्श्वरुज् + वेष्टन → पार्श्वरुग्वेष्टन।",
         "anchors": "पार्श्व = पसलियों वाला भाग · रुज् = पीड़ा · वेष्टन = ऐंठन · स्निग्ध = चिकना · अम्ल = खट्टा · उष्ण = गरम।",
@@ -713,7 +713,7 @@ AIDS = {
         "anchors": "सायम् = शाम · भुक्ते = खाने के बाद · तृट् = प्यास · दाह = जलन · राग = ललाई · वैवर्ण्य = रंग बिगड़ना।",
     },
     "8": {
-        "chain": {"steps": ["लक्षण (इकाई ७): प्यास, दाह, ललाई, सम्मोह...", "जानो: स्नेह पित्त से आवृत",
+        "chain": {"steps": ["लक्षण (इकाई ७): प्यास, दाह, ललाई, सम्मोह, विवर्णता...", "जानो: स्नेह पित्त से आवृत",
                             "उपाय: स्वादु और तिक्त बस्तियों से निकालो"]},
         "chunks": "विद्यात्पित्तावृतं | स्वादुतिक्तैस्तं बस्तिभिर्हरेत् ‖ तंद्राशीतज्वरालस्य- | प्रसेकारुचिगौरवैः।",
         "sandhi": "विसर्ग + त → स्त: स्वादुतिक्तैः + तम् → स्वादुतिक्तैस्तम्; इः + ह → इर्ह: बस्तिभिः + हरेत् → बस्तिभिर्हरेत्।",
@@ -730,21 +730,21 @@ AIDS = {
                                {"label": "नई सूची (पंक्ति २, इकाई ११ में जारी)", "items": ["छर्दि", "मूर्च्छा", "अरुचि", "ग्लानि", "शूल", "निद्रा", "अङ्गमर्दन"]}]},
         "chunks": "फलतैलयुतैः साम्लैः | बस्तिभिस्तं विनिर्हरेत् ‖ छर्दिमूर्च्छारुचिग्लानि- | शूलनिद्रांगमर्दनैः।",
         "sandhi": "अ + अ → आ: स + अम्लैः → साम्लैः; आ + अ → आ: मूर्च्छा + अरुचि → मूर्च्छारुचि।",
-        "anchors": "युत = युक्त · साम्ल = अम्ल सहित · विनिर्हरेत् = पूरी तरह निकाले · छर्दि = उल्टी · अरुचि = अरुचि · निद्रा = नींद।",
+        "anchors": "युत = युक्त · साम्ल = अम्ल सहित · विनिर्हरेत् = पूरी तरह निकाले · छर्दि = उल्टी · अरुचि = भोजन में रुचि न होना · निद्रा = नींद।",
     },
     "11": {
         "chain": {"steps": ["लक्षण (इकाई १० से): ... आम के लक्षण, दाह", "जानो: स्नेह अति भोजन से आवृत",
                             "पहला उपाय: तीखे और लवण के काढ़े-चूर्ण से पाचन", "आगे: मृदु विरेचन (इकाई १२)"]},
         "chunks": "आमलिंगैः सदाहैस्तं | विद्यादत्यशनावृतं ‖ कटूनां लवणानां च | क्वाथैश्चूर्णैश्च पाचनं।",
         "sandhi": "त् + अ → द: विद्यात् + अति → विद्यादति; इ + अ → य: अति + अशन → अत्यशन; विसर्ग + च → श्च: चूर्णैः + च → चूर्णैश्च।",
-        "anchors": "आम = कच्चा, अपचा (फल नहीं) · अत्यशन = अति भोजन · कटु = तीखा · लवण = नमक · चूर्ण = चूर्ण · पाचन = पचाने वाला।",
+        "anchors": "आम = कच्चा, अपचा (फल नहीं) · अत्यशन = अति भोजन · कटु = तीखा · लवण = नमक · चूर्ण = पिसा हुआ पाउडर · पाचन = पचाने वाला।",
     },
 }
 
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "ka7-sneha-avarana-2.svg",
-        "alt": "Mind map: the coverers of the sneha in the unctuous enema named in verse 2: wind (Vata), Pitta, Kapha, over-eating, accumulation of stool; the verse counts the mishaps as seven",
+        "alt": "Mind map of the five coverers of the sneha in the unctuous enema named in verse 2: wind (Vata), Pitta, Kapha, over-eating, accumulation of stool",
         "type": "mermaid",
         "code": ('mindmap\n  स्नेहबस्ति के आवरण\n    मरुत् यानी वात\n    पित्त\n    कफ\n'
                  '    अति भोजन\n    मल का संचय\n'),
@@ -774,10 +774,10 @@ IMAGE_SPECS = {
     },
     ("8", "chain"): {
         "file": "ka7-pitta-avrita-8.svg",
-        "alt": "Flowchart: signs of verse 7 (thirst, burning, redness) lead to knowing the sneha covered by Pitta, then removal with sweet and bitter enemas",
+        "alt": "Flowchart: signs of verse 7 (redness, bewilderment, discolouration) lead to knowing the sneha covered by Pitta, then removal with sweet and bitter enemas",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["प्यास, जलन, ललाई...<br/>(श्लोक ७)"] --> B["स्नेह पित्त से आवृत"]\n'
-                 '  B --> C["मीठी और कड़वी<br/>बस्तियों से निकालें"]\n'),
+        "code": ('flowchart TD\n  A["ललाई, सम्मोह, विवर्णता..."] --> B["स्नेह पित्त से आवृत"]\n'
+                 '  B -->|"निकालें"| C["मीठी-कड़वी बस्ति"]\n'),
     },
     ("10", "diagram"): {
         "file": "ka7-kapha-upaya-10.svg",
