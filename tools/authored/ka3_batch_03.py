@@ -22,7 +22,7 @@ AUTHORED["23"] = {
             "What does the strong medicine of unit 23 bring about?",
             ("Parikartikā, a cutting-around pain",
              "परिकर्त्तिकामापादयति: it brings about parikartikā, cutting-around pain."),
-            [("Ādhmāna, a great bloating", "Great bloating came from a cold or dry medicine in 05.03.20."),
+            [("Ādhmāna, a great bloating of the belly", "Great bloating came from a cold or dry medicine in 05.03.20."),
              ("Stiffened and clumped doṣas", "Stiffened, clumped doṣas were the failure of 05.03.12."),
              ("Medicine going up and out", "Going upward was the purgative case of 05.03.6.")],
             "The result of unit 23 is परिकर्तिका: cutting-around pain in the lower belly and anus.",
@@ -110,7 +110,7 @@ AUTHORED["24"] = {
             "What does अनिलसंगः mean in unit 24?",
             ("Obstruction of wind",
              "अनिल (wind) + सङ्ग (sticking, obstruction): wind held back."),
-            [("Excess of wind", "सङ्ग means sticking, obstruction, not excess."),
+            [("Excess of wind in the belly", "सङ्ग means sticking, obstruction, not excess."),
              ("Release of wind", "सङ्ग is the opposite: the wind is held back."),
              ("Pain from the wind", "Pain is परिकर्तन; सङ्ग is obstruction.")],
             "अनिलसङ्गः is a tatpuruṣa: obstruction of wind (anila).",
@@ -452,7 +452,7 @@ AUTHORED["29"] = {
             ("Curd with sour, with pomegranate rind",
              "वातेऽधिके दधि साम्लं दाडिमत्वचा युक्तम्: curd with sour, joined with pomegranate rind."),
             [("Milk boiled with milky trees", "That was the enema milk of 05.03.26."),
-             ("Ghee-maṇḍa with liquorice oil", "That was the oil enema of 05.03.27."),
+             ("Ghee-maṇḍa together with liquorice oil", "That was the oil enema of 05.03.27."),
              ("Black sesame with honey", "These went into the slimy enemas of 05.03.25.")],
             "Excess Vāta: the curd preparation.",
             "Vāta in excess → sour curd with dāḍima rind."),
@@ -654,7 +654,7 @@ AUTHORED["32"] = {
              "पित्तकफसंसृष्टम्: mixed with Pitta and Kapha."),
             [("Blood and Vāta", "Neither blood nor Vāta is named in unit 32."),
              ("Vāta alone", "Vāta is not named; the outflow is with Pitta and Kapha."),
-             ("Food and water", "Food and water are not named in unit 32.")],
+             ("Undigested food and water", "Food and water are not named in unit 32.")],
             "पित्त-कफ-संसृष्टम् = mixed with Pitta and Kapha.",
             "Parisrava: outflow mixed with Pitta and Kapha."),
         mcq("transfer", 5,
@@ -709,7 +709,7 @@ AUTHORED["33"] = {
             "What does the unit data take कोठ to be?",
             ("Probably wheals, a rash like urticaria",
              "koṭha: wheals, an urticaria-like eruption (probable)."),
-            [("Certainly a boil filled with pus", "The data gives wheals (probable), not a boil, and not as certain."),
+            [("Certainly a large boil that is filled with pus", "The data gives wheals (probable), not a boil, and not as certain."),
              ("The bowel, the same as कोष्ठ", "कोष्ठ is the bowel; कोठ is a skin eruption."),
              ("A fever coming with shivering", "Fever is not what कोठ names.")],
             "कोठ ≠ कोष्ठ: a skin eruption, probably wheals.",
@@ -848,7 +848,7 @@ AUTHORED["35"] = {
             "Which quality does unit 35 want in what purifies him, unlike the failed medicine of 05.03.33?",
             ("Sharp (तीक्ष्ण)",
              "तीक्ष्णैः शोधयेत्: purify with sharp (ones)."),
-            [("Mild (मृदु)", "Mild was the failed medicine of 05.03.33."),
+            [("Mild, gentle (मृदु)", "Mild was the failed medicine of 05.03.33."),
              ("Cold (शीत)", "Cold is not named in unit 35."),
              ("Heavy (गुरु)", "Heavy is not named in unit 35.")],
             "Mild failed; sharp is prescribed for the repeat purification.",
@@ -974,11 +974,11 @@ AIDS = {
 IMAGE_SPECS = {
     ("23", "diagram"): {
         "file": "ka3-parikartika-cause-23.svg",
-        "alt": "Flowchart: five patient states (lean, of little strength, soft bowel and fire, dry or oiled, sweated or with ama) take a strong medicine, which corrupts wind with Pitta and brings about parikartika",
+        "alt": "Flowchart: three groups of patient states (lean and of little strength; soft bowel and soft fire; dry or oiled, sweated or with ama) take a strong medicine, which corrupts wind with Pitta and brings about parikartika",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कृश"] --> M["बलवान् औषध ली"]\n  B["अल्प बल"] --> M\n'
-                 '  C["मृदु कोष्ठ और अग्नि"] --> M\n  D["रूक्ष या स्निग्ध"] --> M\n'
-                 '  E["स्विन्न या आम सहित"] --> M\n'
+        "code": ('flowchart TD\n  A["कृश, अल्प बल"] --> M["बलवान् औषध ली"]\n'
+                 '  C["मृदु कोष्ठ<br/>और मृदु अग्नि"] --> M\n'
+                 '  D["रूक्ष या स्निग्ध,<br/>स्विन्न या आम सहित"] --> M\n'
                  '  M --> V["पित्त सहित वायु दूषित"]\n  V --> P["परिकर्तिका"]\n'),
     },
     ("24", "diagram"): {
