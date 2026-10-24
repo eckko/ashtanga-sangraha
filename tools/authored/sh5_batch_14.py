@@ -10,7 +10,7 @@ AUTHORED["166"] = {
     "rule": ("Five (पञ्च) in the tongue (जिह्वायाम्, locative 'in'). The counted item, snāyu (sinews), is carried from the "
              "run of counts begun at unit 144; it is not printed here."),
     "limits": ("Prose, two words; no verb and no counted noun are printed. The print spells जिव्हायां, a variant (h and v "
-               "reversed) of जिह्वायाम्, as the data notes. Per side or in all is not said."),
+               "reversed) of जिह्वायाम्, as the data notes."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: पाँच, जीभ में। "
                    "गिनी गई वस्तु स्नायु है, जो इकाई १४४ से आरम्भ हुई गिनती से चली आ रही है; यहाँ वह शब्द छपा नहीं। "
                    "‘जिह्वायाम्’ जिह्वा (जीभ, स्त्रीलिंग) का सप्तमी एकवचन है: जीभ में। "
@@ -245,7 +245,7 @@ AUTHORED["170"] = {
              "probably the stomach and the large intestine) and the intestines (अन्त्र)."),
     "limits": ("Prose; medium confidence; no verb or counted noun printed. आमपक्वाशय may be a contracted dvandva for āmāśaya "
                "and pakvāśaya; that reading and the identifications stomach / large intestine are probable only. "
-               "No question on the exact parse of आमपक्वाशय."),
+               "The one question on आमपक्वाशय keeps the note's hedge ('may be' a contracted dvandva); none asserts a firmer parse."),
     "explain_hi": ("यह गद्य-पंक्ति स्नायु का एक और प्रकार बताती है: सुषिर यानी खोखले। "
                    "वे बस्ति यानी मूत्राशय में, कच्चे (आम) और पके (पक्व) के आशयों में, और अन्त्र यानी आँतों में हैं। "
                    "आमाशय और पक्वाशय सम्भवतः जठर और बड़ी आँत हैं (सम्भावित पहचान)। "
@@ -353,7 +353,7 @@ AUTHORED["171"] = {
 
 # ---------------------------------------------------------------- unit 172
 AUTHORED["172"] = {
-    "title": "स्नावबंधनैर्हि संधिषु सुबद्धा तनुः",
+    "title": "स्नावबंधनैर्हि संधिषु सुबद्धा तनुर्नौरिव",
     "question": "By unit 172, why are the sinews important for the body?",
     "rule": ("For (हि) the body (तनु), well bound (सुबद्धा) in the joints by the bonds of sinew (स्नावबन्धनैः), acts "
              "properly (सम्यक् ईहते), like a boat (नौः इव)."),
@@ -392,11 +392,11 @@ AUTHORED["172"] = {
             "तनुः (body) + नौः (boat) + इव (like).",
             "Visarga after a vowel other than अ/आ → र् before a voiced sound."),
         multi("apply", 4, "Which statements fit unit 172?",
-              [("The body is compared with a chariot", "The simile is a boat (नौः), not a chariot."),
-               ("The bonds are made of snāva (sinew)", "Right: स्नावबन्धनैः."),
-               ("The body is bound in the joints", "Right: संधिषु सुबद्धा."),
-               ("It says the joints are hollow", "Hollowness is not named in unit 172.")],
-              [1, 2],
+              [("The bonds are made of snāva (sinew)", "Right: स्नावबन्धनैः."),
+               ("The body is compared with a chariot", "The simile is a boat (नौः), not a chariot."),
+               ("It says the joints are hollow", "Hollowness is not named in unit 172."),
+               ("The body is bound in the joints", "Right: संधिषु सुबद्धा.")],
+              [0, 3],
               "Bound in the joints by the bonds of sinew, the body acts properly like a boat.",
               "स्नावबन्धनैः संधिषु सुबद्धा."),
         mcq("transfer", 5, "By the rule of तनुः + नौः → तनुर्नौः, how is गुरुः + गच्छति (the teacher goes) joined?",
@@ -420,7 +420,7 @@ AUTHORED["173"] = {
                "(injury to) the bones, vessels etc.' is a less natural alternative: no question rests on 'more than'. "
                "sirā = vessel is probable."),
     "explain_hi": ("यह गद्य-पंक्ति स्नायुओं के बारे में एक निर्देश देती है। "
-                   "इसलिए (तस्मात्) उन्हें (तानि, पिछली इकाइयों के स्नायु) यत्न से (यत्नतः) रक्षा करनी चाहिए (रक्षेत्)। "
+                   "इसलिए (तस्मात्) उनकी (तानि, पिछली इकाइयों के स्नायुओं की) यत्न से (यत्नतः) रक्षा करनी चाहिए (रक्षेत्)। "
                    "डेटा का पाठ है: अस्थि, सिरा (सम्भवतः वाहिनी) आदि से भी अधिक; अपादान ‘-भ्यः’ यहाँ तुलना का है। "
                    "दूसरा, कम स्वाभाविक, पाठ है: अस्थि-सिरा आदि की चोट से भी बचाना। "
                    "‘सिरादिभ्योऽपि’ में अः + अ से ओऽ बना।"),
@@ -460,7 +460,7 @@ AUTHORED["173"] = {
             "Optative = should (instruction)."),
         mcq("transfer", 5, "By the rule of सिरादिभ्यः + अपि, how is रामः + अपि (Rāma also) joined?",
             ("रामोऽपि", "अः before अ becomes ओ, with ऽ for the अ, as सिरादिभ्यः + अपि."),
-            [("रामापि", "The visarga drops this way after आ; रामः has a short अ."),
+            [("रामापि", "No rule gives -आपि: अः before अ gives ओऽ, and even after आ the dropped visarga leaves two words."),
              ("रामरपि", "र् comes from a visarga after vowels other than अ and आ."),
              ("रामः अपि", "Before अ the visarga after अ does not stay.")],
             "रामः + अपि = रामोऽपि, like सिरादिभ्यः + अपि = सिरादिभ्योऽपि.",
@@ -666,7 +666,7 @@ AUTHORED["177"] = {
               "षष्टिः + अन्तराधौ = षष्टिरन्तराधौ: sixty in the trunk.",
               "षष्टिः, अन्तराधि, अन्तराधौ."),
         fill(2, "In unit 177 the number 'sixty' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("षष्टिः", "ṣaṣṭiḥ", "षष्टि", "sixty"),
+             accepts("षष्टिः", "ṣaṣṭiḥ", "षष्टि"),
              "षष्टिः = sixty; before a vowel it is printed षष्टिर्.",
              "षष्टि = sixty.",
              "षष्टिः + अन्तराधौ → षष्टिरन्तराधौ."),
@@ -678,15 +678,15 @@ AUTHORED["177"] = {
             "षष्टिः (sixty) + अन्तराधौ (in the trunk): इः + vowel → इर्.",
             "इः + vowel → इर्."),
         mcq("apply", 4, "Why is षष्टिः singular in unit 177 though it counts many muscles?",
-            ("Numbers from twenty up are singular nouns", "षष्टि is a feminine singular number-noun (data: f. nom. sg.)."),
+            ("Numbers twenty to ninety are singular nouns", "षष्टि is a feminine singular number-noun (data: f. nom. sg.), like विंशति ... नवति."),
             [("It counts only one muscle in the trunk", "It counts sixty; the singular is the number-word's own."),
              ("The print has lost its plural ending", "No ending is lost; षष्टिः is the normal form."),
              ("It is a dual, for the two sides of the trunk", "The data reads nominative singular, not dual.")],
-            "षष्टिः is grammatically singular: number-words from विंशति up are singular nouns.",
-            "विंशति, त्रिंशत्, षष्टि ... = singular feminine nouns."),
+            "षष्टिः is grammatically singular: number-words from विंशति to नवति are feminine singular nouns.",
+            "विंशति ... नवति (20-90) = singular feminine nouns."),
         mcq("transfer", 5, "By the rule of षष्टिः + अन्तराधौ, how is हरिः + अपि (Hari also) joined?",
             ("हरिरपि", "A visarga after इ becomes र् before a vowel, as षष्टिः + अन्तराधौ."),
-            [("हर्यपि", "इ → य् happens without a visarga; हरिः keeps its र्."),
+            [("हर्यपि", "इ → य् applies to a bare final इ; हरिः ends in a visarga, which becomes र्."),
              ("हरोऽपि", "ओऽ comes from अः + अ, not from इः."),
              ("हरिः अपि", "Before a vowel the visarga after इ does not stay.")],
             "हरिः + अपि = हरिरपि, like षष्टिः + अन्तराधौ = षष्टिरन्तराधौ.",
