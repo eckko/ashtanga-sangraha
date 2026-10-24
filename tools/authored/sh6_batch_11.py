@@ -436,7 +436,7 @@ AUTHORED["136"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 136, what are the openings of the srotas compared to?",
-            ("Lotus stalks (bisa), for fineness", "बिसानामिव सूक्ष्माणि: fine like those of lotus stalks."),
+            ("Lotus stalks, for their fineness", "बिसानामिव सूक्ष्माणि: fine like those of lotus stalks."),
             [("The hairs of the head, for number", "Hair is not named in unit 136."),
              ("Threads of a web, for their pattern", "No web is named in unit 136."),
              ("Grains of sand, for their dryness", "No sand is named in unit 136.")],
@@ -512,7 +512,7 @@ AUTHORED["137"] = {
               "अहोरात्र, षडह, मास, शुक्रत्व, पाकक्रम.", role="extend",
               teaches="केचित् ... अपरे ... परे (some ... others ... still others) is the frame for listing views."),
         mcq("discriminate", 3, "By unit 137, which period do the others (अपरे) give?",
-            ("Six days (षडह)", "षडहादपरे: others, from six days."),
+            ("Six days", "षडहादपरे: others, from six days."),
             [("A day and night", "A day and night is the view of केचित्, 'some'."),
              ("A whole month", "The month is not printed with अपरे."),
              ("A fortnight", "No fortnight is printed in unit 137.")],
