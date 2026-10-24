@@ -183,7 +183,7 @@ AUTHORED["38"] = {
             "भृशम् प्रवहमानः: flowing forth violently.",
             "भृशं = violently; प्रवहमानः = flowing forth."),
         mcq("transfer", 5,
-            "स- + रक्त gives सरक्त, 'with blood'. Which word means 'with foam', from फेन (foam)?",
+            "स- + रक्त gives सरक्त, with blood. Which word means with foam, from फेन (foam)?",
             ("सफेन",
              "स- = with: स + फेन = सफेन, like स + रक्त = सरक्त."),
             [("अफेन", "अ- means 'without', the opposite."),
@@ -201,7 +201,7 @@ AUTHORED["39"] = {
     "question": "How does unit 39 say the patient with pravāhikā should be treated?",
     "rule": "One should treat him by the procedure (vidhi) of parisrava (a flowing round, oozing).",
     "limits": ("The line names the procedure only; it does not repeat its steps. That it means the treatment given for parisrava "
-               "in 05.03.35-37 is the plain reading, not stated. The agent of उपचरेत् is not named."),
+               "in 05.03.33-36 is the plain reading, not stated. The agent of उपचरेत् is not named."),
     "explain_hi": ("प्रवाहिका का उपचार कैसे हो? पंक्ति छोटी है: उसका उपचार परिस्रव की विधि से करे। परिस्रव का शाब्दिक अर्थ "
                    "‘चारों ओर बहना, रिसना’ है; यह व्यापद् इसी अध्याय में पहले आया। यहाँ विधि के चरण दोहराए नहीं गए; "
                    "उन्हें पहले वाले परिस्रव से समझना सीधा पाठ है।"),
@@ -313,7 +313,7 @@ AUTHORED["40"] = {
             "The path of unit 40 ends at the heart (हृदय).",
             "Unit 40: doṣas → हृदय."),
         mcq("transfer", 5,
-            "वात + आदयः gives वातादयः, 'Vāta and the others'. Join the invented pair पित्त + आदयः the same way. Which is right?",
+            "वात + आदयः gives वातादयः, Vāta and the others. Join the invented pair पित्त + आदयः the same way. Which is right?",
             ("पित्तादयः",
              "अ + आ → आ: पित्त + आदयः = पित्तादयः."),
             [("पित्तदयः", "The long आ of आदयः cannot shorten."),
@@ -379,7 +379,7 @@ AUTHORED["41"] = {
             "खादयति is literally 'makes eat'; the data renders it 'bites'.",
             "खादयति = bites."),
         mcq("transfer", 5,
-            "उपतापात् is the ablative, 'from affliction'. Which form says 'from anger', from क्रोध, in the same case?",
+            "उपतापात् is the ablative: from affliction. Which form says from anger, from क्रोध, in the same case?",
             ("क्रोधात्",
              "a-stem ablative singular -आत्: क्रोध → क्रोधात्, like उपताप → उपतापात्."),
             [("क्रोधस्य", "-स्य is the genitive, 'of anger'."),
@@ -444,7 +444,7 @@ AUTHORED["42"] = {
             "तीक्ष्णम् qualifies अवपीडम्.",
             "Unit 42: तीक्ष्ण अवपीड."),
         mcq("transfer", 5,
-            "अ- before मुह्यन् gives अमुह्यन्, 'not being bewildered'. Which form means 'not knowing', from जानन्?",
+            "अ- before मुह्यन् gives अमुह्यन्, not being bewildered. Which form means not knowing, from जानन्?",
             ("अजानन्",
              "Before a consonant the negative prefix is अ-: अ + जानन् = अजानन्."),
             [("अनजानन्", "अन्- is used only before a vowel."),
@@ -561,7 +561,7 @@ AUTHORED["44"] = {
             "The र् of कटुभिर्वा is the visarga of कटुभिः before व.",
             "कटुभिर्वा = कटुभिः + वा."),
         mcq("apply", 4,
-            "In unit 44, what does वा ('or') set the pungents against?",
+            "In unit 44, what does वा (or) set the pungents against?",
             ("The liquorice rice-water of 05.03.45",
              "The data: one statement, 'vamana with ... or with pungents'."),
             [("The sharp avapīḍa of 05.03.44", "The avapīḍa is a separate step, not the vamana."),
@@ -570,7 +570,7 @@ AUTHORED["44"] = {
             "Unit 44 continues 05.03.45: vamana with liquorice rice-water, or with pungents.",
             "वा joins 05.03.45 and 05.03.46."),
         mcq("transfer", 5,
-            "कटु takes -भिः: कटुभिः, 'with pungents'. Which form says 'with the teachers', from गुरु?",
+            "कटु takes -भिः: कटुभिः, with pungents. Which form says with the teachers, from गुरु?",
             ("गुरुभिः",
              "u-stem instrumental plural -भिः: गुरु → गुरुभिः, like कटु → कटुभिः."),
             [("गुरुणा", "-णा is the instrumental singular, 'with a teacher'."),
@@ -716,7 +716,7 @@ AUTHORED["46"] = {
 AUTHORED["47"] = {
     "title": "शूलं मूर्च्छा भ्रमः कंपः स्तंभः",
     "question": "What signs does unit 47 list from the Vāyu agitated by excess purging?",
-    "rule": ("By that there may be a seizing of all limbs and, especially in the sides, back, hips and other parts: pain, "
+    "rule": ("By that there may be (on an uncertain word) a seizing of all limbs and, especially in the sides, back, hips and other parts: pain, "
              "fainting, giddiness, trembling, stiffness, pricking, splitting, twisting and loss of consciousness."),
     "limits": ("Low confidence. सर्वांगग्रहणी (open note) and मन्मार्मसु are uncertain (text_flags): no question on them. "
                "The list of signs and the first three places are clear."),
@@ -893,7 +893,7 @@ AUTHORED["49"] = {
             "Unit 49's diet is वातहर: Vāta-removing.",
             "Unit 49: वातहर अन्नपान."),
         mcq("transfer", 5,
-            "वात + हर gives वातहरम्, 'taking away Vāta'. Which word means 'taking away Kapha', for अन्नपानम्?",
+            "वात + हर gives वातहरम्, taking away Vāta. Which word means taking away Kapha, for अन्नपानम्?",
             ("कफहरम्",
              "Same pattern: कफ + हर = कफहरम्, neuter like अन्नपानम्."),
             [("हरकफम्", "The thing taken away comes first, हर last."),
@@ -1099,11 +1099,10 @@ IMAGE_SPECS = {
     },
     ("47", "diagram"): {
         "file": "ka3-vayu-signs-47.svg",
-        "alt": "Mind map: three clear places (sides, back, hips) and nine signs in text order (pain, fainting, giddiness, trembling, stiffness, pricking, splitting, twisting, loss of consciousness)",
+        "alt": "Mind map of the nine signs in text order (pain, fainting, giddiness, trembling, stiffness, pricking, splitting, twisting, loss of consciousness)",
         "type": "mermaid",
-        "code": ('mindmap\n  कुपित वायु से\n    स्थान\n      पार्श्व\n      पीठ\n      श्रोणी\n'
-                 '    लक्षण\n      शूल\n      मूर्च्छा\n      चक्कर\n      कम्प\n      जकड़न\n'
-                 '      चुभन\n      फटन\n      ऐंठन\n      संज्ञा-नाश\n'),
+        "code": ('mindmap\n  कुपित वायु से\n    शूल\n    मूर्च्छा\n    चक्कर\n    कम्प\n    जकड़न\n'
+                 '    चुभन\n    फटन\n    ऐंठन\n    संज्ञा-नाश\n'),
     },
     ("48", "chain"): {
         "file": "ka3-anuvasana-48.svg",
