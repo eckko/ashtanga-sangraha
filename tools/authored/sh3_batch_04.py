@@ -909,7 +909,7 @@ AIDS = {
     "50": {
         "diagram": {"groups": [
             {"label": "शर्त", "items": ["यदि ऐसे न पलटे (न चेदेवं परिवर्तते)"]},
-            {"label": "तब बार-बार कराएँ", "items": ["जृम्भण (जम्हाई)", "चङ्क्रमण (टहलना)", "अभी कही गई विधि"]}]},
+            {"label": "तब कराएँ", "items": ["बार-बार जृम्भण (जम्हाई)", "बार-बार चङ्क्रमण (टहलना)", "अभी कही गई विधि"]}]},
         "chunks": "त्वरयंत्येनामाढ्यः (?) | न चेदेवं परिवर्त्तते | ततो मुहुर्मुहुर्जृंभणं चंक्रमणं च | कारयितव्याऽनंतरोंक्तं विधिं",
         "sandhi": "त् + स्वर → द्: चेत् + एवम् → चेदेवम् · अः + घोष → ओ: ततः + मुहुः → ततो मुहुः।",
     },
@@ -992,13 +992,14 @@ IMAGE_SPECS = {
     },
     ("50", "diagram"): {
         "file": "sh3-na-parivartate-50.svg",
-        "alt": ("Flowchart of unit 50: if the fetus does not turn in this way, then she is to be made to do, again and "
-                "again, three things: yawning, walking about, and the procedure stated just before."),
+        "alt": ("Flowchart of unit 50: if the fetus does not turn in this way, then she is to be made to do yawning and "
+                "walking about again and again, and the procedure stated just before."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"यदि ऐसे न पलटे\"] --> B[\"तब बार-बार कराएँ\"]\n"
-                 "  B --> C[\"१ जृम्भण (जम्हाई)\"]\n"
-                 "  B --> D[\"२ चङ्क्रमण (टहलना)\"]\n"
+                 "  A[\"यदि ऐसे न पलटे\"] --> B[\"तब कराएँ\"]\n"
+                 "  B --> M[\"बार-बार\"]\n"
+                 "  M --> C[\"१ जृम्भण (जम्हाई)\"]\n"
+                 "  M --> D[\"२ चङ्क्रमण (टहलना)\"]\n"
                  "  B --> E[\"३ अभी कही विधि\"]\n"),
     },
 }

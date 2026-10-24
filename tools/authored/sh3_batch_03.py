@@ -9,10 +9,9 @@ AUTHORED["27"] = {
     "question": "By unit 27, with what oil is an anuvāsana given, and for what purpose?",
     "rule": ("One should give an anuvāsana (oil enema) with oil cooked with sweet medicines beginning with madhuka "
              "(probably licorice), for the anulomana (downward movement) of vāyu, the wind (Vāta)."),
-    "limits": ("Low confidence. The first word is badly printed; 'for cleansing the old stool' (पुराणविड्विशुद्ध्यर्थम्) "
-               "is a conjecture and no question rests on it. The other sweet medicines are not named; madhuka is "
-               "probably licorice (probable). No month, dose or timing is printed in the line; the physician as subject "
-               "is understood. A prose line, not a verse."),
+    "limits": ("Low confidence. The badly printed first word ('for cleansing the old stool') is a conjecture; no "
+               "question rests on it. The other sweet medicines are not named; madhuka is probably licorice. No month, "
+               "dose or timing is printed. Prose."),
     "explain_hi": ("यह गद्य-पंक्ति अनुवासन (तेल की बस्ति) का विधान करती है: मधुक (सम्भवतः मुलेठी) आदि मधुर औषधों से पकाए तेल से "
                    "अनुवासन दे, वायु के अनुलोमन (नीचे की ओर, ठीक दिशा में चलाने) के लिए। "
                    "पहला शब्द छपाई में बिगड़ा है; ‘पुराने मल की शुद्धि के लिए’ केवल अनुमानित पाठ है, इसलिए उस पर प्रश्न नहीं। "
@@ -71,9 +70,9 @@ AUTHORED["28"] = {
     "question": "By unit 28, why does the downward wind matter, and how is the enema given to the pregnant woman?",
     "rule": ("For (हि) when the wind (मारुत) moves downward (अनुलोम), she gives birth easily (सुखम्) and free of "
              "complications (अनुपद्रवा). The pregnant woman, face down (न्युब्जा), is given an āsthāpana or an anuvāsana."),
-    "limits": ("Two printed lines joined. हिमारुते is printed as one word: हि + मारुते. The exact posture न्युब्ज (face "
-               "down, bent over) is not described, and the line does not say when to choose which enema (वा = or). "
-               "The data's note takes the line as continuing the enema instructions of units 26 and 27."),
+    "limits": ("Two printed lines joined. हिमारुते is printed as one word: हि + मारुते. The posture न्युब्ज (face down) "
+               "is not described further, nor when to choose which enema (वा = or). The data's note takes the line as "
+               "continuing the enema rules of units 26-27."),
     "explain_hi": ("पहला वाक्य कारण देता है: क्योंकि (हि) वायु के अनुलोम होने पर वह सुख से और उपद्रव (जटिलता) से रहित प्रसव करती है। "
                    "‘अनुलोमे मारुते’ सप्तमी में है: ‘वायु के अनुलोम होने पर’। "
                    "दूसरा वाक्य विधि है: गर्भिणी को न्युब्जा (औंधी, आगे झुकी) स्थिति में आस्थापन या अनुवासन दे। "
@@ -113,7 +112,7 @@ AUTHORED["28"] = {
              ("Lying on her left side", "No side is named; the word is न्युब्जा.")],
             "न्युब्जा: the woman is face down for the enema; the posture is not described further.",
             "न्युब्जाम् आस्थापयेत् अनुवासयेद्वा."),
-        mcq("transfer", 5, "By the rule of अनुपद्रवा (अन् + उपद्रवा), how is 'without beginning' formed from आदि?",
+        mcq("transfer", 5, "By the rule of अनुपद्रवा (अन् + उपद्रवा), how is the negative of आदि (beginning) formed?",
             ("अनादि", "Before a vowel the negative is अन्-: अन् + आदि = अनादि."),
             [("अआदि", "अ- is the negative only before a consonant."),
              ("अनोदि", "No ओ arises; अन् simply joins the vowel."),
@@ -545,10 +544,9 @@ AUTHORED["36"] = {
     "rule": ("One should prescribe a daily bath (प्रत्यहं स्नानम्) for the pregnant woman with a cooled decoction (शीत "
              "क्वाथ) of a list of plants (bilva, kārpāsī, pāṭalī, picumanda and others), or with water of all fragrant "
              "substances (सर्वगन्धोदक)."),
-    "limits": ("Low confidence. In the long compound फंफेणा is unidentified and पत्रभंग unclear (leaves broken, or hemp: "
-               "no firm reading); no question rests on them. Labels as the data gives them: bilva = bael, kārpāsī = "
-               "cotton, pāṭalī = Stereospermum suaveolens, picumanda = neem (standard); agnimantha = Premna (probable); "
-               "māṃsī = spikenard (probable); vardhamānaka = identity disputed. The fragrant substances are not listed."),
+    "limits": ("Low confidence. फंफेणा is unidentified and पत्रभंग unclear; no question rests on them. Labels: bilva "
+               "bael, kārpāsī cotton, pāṭalī Stereospermum suaveolens, picumanda neem (standard); agnimantha Premna, "
+               "māṃsī spikenard (probable); vardhamānaka (disputed). The fragrant substances are not listed."),
     "explain_hi": ("गर्भिणी के लिए प्रतिदिन स्नान का उपदेश करे: द्रव्यों की एक सूची के ठण्डे किए काढ़े (शीत क्वाथ) से, अथवा "
                    "सब सुगन्धित द्रव्यों के जल (सर्वगन्धोदक) से। "
                    "सूची: बिल्व (बेल), कार्पासी (कपास), पाटली (पाढ़ल), पिचुमन्द (नीम) — मानक; अग्निमन्थ (प्रेम्ना, अरणी) और मांसी "
@@ -671,11 +669,9 @@ AUTHORED["38"] = {
     "rule": ("There, when the stars and the rest are favourable, with the utterance of puṇyāha (auspicious-day formula), "
              "she enters; attended by women who have given birth and can bear hardship, devoted to auspicious rites "
              "(स्वस्त्ययन), she awaits the time of delivery."),
-    "limits": ("Low confidence. Unsure and used for no question: अनुक्ताभिः and अविपादाभिः (unclear qualities of the "
-               "attendants), the phrase तु + आवर्तमाना (circling clockwise round cows, brahmins and elders: sense not "
-               "firm), whether बहुशः goes with entering or with 'having given birth', परितृता read as परिवृता "
-               "(surrounded), and the food-and-conduct phrase (printed नेरा, म्त्र). The join to the chamber of unit 37 is "
-               "by context."),
+    "limits": ("Low confidence. No question rests on: अनुक्ताभिः, अविपादाभिः (unclear), तु + आवर्तमाना (circling "
+               "cows, brahmins and elders: not firm), where बहुशः belongs, परितृता read परिवृता, or the food-and-conduct "
+               "phrase (printed नेरा, म्त्र). The link to unit 37's chamber is by context."),
     "explain_hi": ("वहाँ, नक्षत्र आदि अनुकूल होने पर, पुण्याह (शुभ दिन के वचन) के शब्द के साथ वह प्रवेश करती है; प्रसव कर चुकी, "
                    "क्लेश सहने वाली स्त्रियाँ उसके साथ रहती हैं; स्वस्त्ययन (मंगल-कर्म) में लगी हुई वह प्रसव के समय की प्रतीक्षा करती है। "
                    "छपाई बिगड़ी है: ‘अनुक्ताभिः’, ‘अविपादाभिः’ अस्पष्ट हैं; गाय-ब्राह्मण-वृद्धों की प्रदक्षिणा वाला अंश अनिश्चित है; "

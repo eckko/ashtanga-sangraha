@@ -67,7 +67,7 @@ AUTHORED["1"] = {
              ("कुर्मः", "कुर्मः is present: we do."),
              ("अकुर्म", "अकुर्म is past (imperfect): we did.")],
             "करिष्यामः = we shall do, like व्याख्यास्यामः = we shall expound.",
-            "-(ि)ष्यामः / -स्यामः = we shall.",
+            "-स्यामः / -ष्यामः = we shall.",
             teaches="The future first person plural ends in -स्यामः / -ष्यामः: व्याख्यास्यामः = we shall expound, करिष्यामः = we shall do."),
     ],
 }
