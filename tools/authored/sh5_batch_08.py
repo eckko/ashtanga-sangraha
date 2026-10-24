@@ -401,7 +401,7 @@ AUTHORED["96"] = {
              "पंच शिरसि: five in the head (शिरसि, locative of शिरस्).",
              "शिरसि is the locative singular of शिरस् (head): 'in the head'.",
              "शिरस् → शिरसि (locative: in the head).", role="apply"),
-        mcq("transfer", 5, "By the rule of एका + एका → एकैका, how is सदा + एव (always indeed) joined?",
+        mcq("transfer", 5, "By the rule of एका + एका → एकैका, how is सदा + एव (at all times indeed) joined?",
             ("सदैव", "आ + ए → ऐ, as एका + एका → एकैका."),
             [("सदेव", "ए comes from अ/आ + इ, not from आ + ए."),
              ("सदौव", "औ comes from अ/आ + ओ or औ, not from आ + ए."),
