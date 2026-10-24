@@ -11,8 +11,8 @@ AUTHORED["80"] = {
     "limits": ("Low confidence. The second line's construction ('three portions, and two of phāṇita') and the exact sense "
                "of bhajet are doubtful; the printed dhau is read as dvau (text flag): no question on the portions. "
                "dantī = Baliospermum montanum (probable here); dravantī is disputed; dhātrī = āmalakī (standard)."),
-    "explain_hi": ("यह श्लोक दन्ती-द्रवन्ती के लेह-योगों को आगे बढ़ाता है। "
-                   "पहली पंक्ति: दन्ती यानी जंगली जमालगोटा और द्रवन्ती की जड़ों को धात्री यानी आँवले के रस में पकाए। "
+    "explain_hi": ("यह श्लोक दन्ती और द्रवन्ती की जड़ों का एक योग बताता है। "
+                   "पहली पंक्ति: दन्ती (सम्भवतः जंगली जमालगोटा) और द्रवन्ती की जड़ों को धात्री यानी आँवले के रस में पकाए। "
                    "दूसरी पंक्ति में भाग बताए गए हैं, तीन भाग और फाणित यानी शीरे के दो भाग; पर यह रचना और ‘भजेत्’ का ठीक अर्थ अनिश्चित है। "
                    "अन्त में कहा है कि इसे तेल में या घी में प्रयोग करे। "
                    "द्रवन्ती की पहचान विवादित है।"),
@@ -23,7 +23,7 @@ AUTHORED["80"] = {
             "In verse 80, in which juice are the roots of dantī and dravantī cooked?",
             ("In the juice of dhātrī", "पचेद्धात्रीरसे = one should cook in the juice of dhātrī (āmalakī, standard)."),
             [("In the juice of bhṛṅgī", "bhṛṅgī juice belongs to the leha of line 05.02.144, not to this verse."),
-             ("In the juice of pathyā", "pathyā is named only in line 05.02.150, with its own leha."),
+             ("In the juice of pathyā", "pathyā is named in line 05.02.150 for its own leha, not as the cooking juice here."),
              ("In the juice of lemons", "No lemon is named in this verse.")],
             "धात्री = āmalakī, Phyllanthus emblica, Indian gooseberry (standard).",
             "दन्तीद्रवन्त्योर्मूलानि → धात्रीरसे पचेत्."),
@@ -46,13 +46,13 @@ AUTHORED["80"] = {
             "दन्तीद्रवन्त्योः = of dantī and dravantī (gen. du.); मूलानि = roots.",
             "-ओः + voiced consonant → -ओर्."),
         multi("apply", 4, "Which of these does verse 80 state?",
-              [("The roots of dantī and dravantī are taken", "Right: दन्तीद्रवन्त्योर्मूलानि."),
+              [("The roots are first dried in the sun", "No: no drying is named in this verse."),
+               ("The roots of dantī and dravantī are taken", "Right: दन्तीद्रवन्त्योर्मूलानि."),
+               ("dravantī is identified with certainty", "No: dravantī is disputed on the card."),
                ("They are cooked in dhātrī juice", "Right: पचेद्धात्रीरसे."),
-               ("Oil or ghee is named for the preparation", "Right: तैले घृतेऽथवा, in oil or in ghee."),
-               ("The roots are first dried in the sun", "No: no drying is named in this verse."),
-               ("dravantī is identified with certainty", "No: dravantī is disputed on the card.")],
-              [0, 1, 2],
-              "Roots of dantī and dravantī, cooked in dhātrī juice, employed in oil or in ghee.",
+               ("Oil and ghee are both named, joined by athavā (or)", "Right: तैले घृतेऽथवा, in oil or in ghee.")],
+              [1, 3, 4],
+              "Roots of dantī and dravantī, cooked in dhātrī juice; oil or ghee is named.",
               "दन्ती-द्रवन्ती-मूल · धात्रीरस · तैल / घृत."),
         mcq("transfer", 5,
             "Like दन्तीद्रवन्त्योः (of dantī and dravantī, gen. du. of -ई stems), which form of नदी means of the two rivers?",
@@ -111,7 +111,7 @@ AUTHORED["81"] = {
         mcq("apply", 4, "In verse 81, with what are the lehas of pathyā, akṣa and daśamūla made?",
             ("With separate juices", "पृथग्रसैः = with separate juices (pṛthak = separately)."),
             [("With one shared juice", "पृथक् says separately, not one juice for all."),
-             ("With the śyāmā kalka", "The śyāmā kalka belongs to the first leha of the verse."),
+             ("With cow's urine", "No urine is named in this verse."),
              ("With honey and jaggery", "Neither honey nor jaggery is named in this verse.")],
             "तद्वत् = likewise; लेहाः = lehas; पृथग्रसैः = with separate juices.",
             "पथ्या · अक्ष · दशमूल → लेहाः पृथग्रसैः."),
@@ -136,7 +136,7 @@ AUTHORED["82"] = {
     "limits": ("Low confidence. 'Those two' (tayoḥ) is unclear, perhaps pathyā and akṣa of line 05.02.150. viḍasamam "
                "may mean 'an equal quantity of viḍa'. The printed viśi is doubtful (text flag, open note): no question on it. "
                "viḍa = viḍa-lavaṇa (probable)."),
-    "explain_hi": ("उन दोनों का (शायद पंक्ति ०५.०२.१५० के पथ्या और अक्ष का) चूर्ण, विड यानी विडलवण के बराबर, उसी के रस से ही भावित किया जाता है, यानी उसी में भिगोया जाता है। "
+    "explain_hi": ("उन दोनों का (शायद पंक्ति ०५.०२.१५० के पथ्या और अक्ष का) चूर्ण, विड (सम्भवतः विडलवण) के बराबर, उसी के रस से ही भावित किया जाता है, यानी उसी में भिगोया जाता है। "
                    "दूसरी पंक्ति कहती है कि खट्टे से युक्त यह विबन्ध यानी मलावरोध में और वात से उत्पन्न गुल्म यानी पेट की गाँठ में हितकर है। "
                    "बीच का छपा शब्द ‘विशि’ अस्पष्ट है; ‘मल में’ केवल अनुमान है। "
                    "‘उन दोनों’ कौन हैं, पाठ स्पष्ट नहीं करता।"),
@@ -173,7 +173,7 @@ AUTHORED["82"] = {
             ("Something sour (अम्ल)", "चाम्लयुतं हितम् = and, joined with sour, beneficial."),
             [("Something sweet (मधुर)", "No sweet is named; the verse says अम्ल."),
              ("Something bitter (तिक्त)", "No bitter is named; the verse says अम्ल."),
-             ("Something salty (लवण)", "viḍa salt sets the measure of the powder; the added taste is अम्ल.")],
+             ("Something pungent (कटु)", "No pungent is named; the verse says अम्ल.")],
             "अम्ल = sour; युत = joined with.",
             "अम्लयुतं → हितम्."),
         mcq("transfer", 5,
@@ -246,7 +246,7 @@ AUTHORED["83"] = {
              ("ततमात्रा", "No vowel is inserted; त् joins directly as न्.")],
             "तन्मूलैः, तन्मात्रा: त् + nasal → न् + nasal.",
             "त् + म/न → न्म/न्न.",
-            teaches="A final त् before a nasal consonant becomes न्: तत् + मूलैः → तन्मूलैः, तत् + मात्रा → तन्मात्रा."),
+            teaches="A final त् before a nasal consonant is normally nasalised to न्: तत् + मूलैः → तन्मूलैः, तत् + मात्रा → तन्मात्रा."),
     ],
 }
 
@@ -286,7 +286,7 @@ AUTHORED["84"] = {
               "चूर्णितम् · मूत्रभावितम् · आज्येन पिबेत् · जीर्णे तर्पणम्.",
               role="extend",
               teaches="The verse runs from making the powder to the satiation that follows its digestion."),
-        mcq("discriminate", 3, "In verse 84, what comes when (the dose) is digested (जीर्णे)?",
+        mcq("discriminate", 3, "In verse 84, what does the verse name after जीर्णे (when digested)?",
             ("Tarpaṇa (satiation)", "जीर्णे च तर्पणम् = and when digested, satiation."),
             [("Vamana (vomiting)", "No vomiting is named in this verse."),
              ("A second dose", "No second dose is named in this verse."),
@@ -294,12 +294,12 @@ AUTHORED["84"] = {
             "जीर्णे = when digested (loc. abs.); तर्पण = satiation.",
             "जीर्णे → तर्पणम्."),
         multi("apply", 4, "Which of these does verse 84 state?",
-              [("śuṇṭhī is one of the drugs", "Right: सशुण्ठ्यग्निकपृथ्वीकम्, with śuṇṭhī."),
+              [("The urine is cow's urine", "No: the animal is not stated."),
+               ("śuṇṭhī is one of the drugs", "Right: सशुण्ठ्यग्निकपृथ्वीकम्, with śuṇṭhī."),
+               ("agnika is certainly citraka", "No: agnika is only probably citraka."),
                ("The drugs are powdered", "Right: चूर्णितम्."),
-               ("The powder is steeped in urine", "Right: मूत्रभावितम्."),
-               ("The urine is cow's urine", "No: the animal is not stated."),
-               ("agnika is certainly citraka", "No: agnika is only probably citraka.")],
-              [0, 1, 2],
+               ("The powder is steeped in urine", "Right: मूत्रभावितम्.")],
+              [1, 3, 4],
               "With śuṇṭhī, agnika and pṛthvīka, powdered, steeped in urine, drunk with ghee.",
               "शुण्ठी · अग्निक · पृथ्वीक → चूर्णित → मूत्रभावित → आज्येन."),
         mcq("transfer", 5,
@@ -358,12 +358,12 @@ AUTHORED["85"] = {
             "जीर्ण = digested (or old); अजीर्ण = undigested, indigestion (in this list).",
             "अ- + जीर्ण → अजीर्ण = indigestion."),
         multi("apply", 4, "Which of these does verse 85 name?",
-              [("A child (बाल)", "Right: बाले."),
-               ("An old person (वृद्ध)", "Right: वृद्धे."),
+              [("Fever (ज्वर)", "No: fever is named in line 05.02.146, not here."),
+               ("A child (बाल)", "Right: बाले."),
                ("Gulma (गुल्म)", "Right: in the disorder compound."),
-               ("Fever (ज्वर)", "No: fever is named in line 05.02.146, not here."),
-               ("Skin disease (कुष्ठ)", "No: kuṣṭha is not named in this verse.")],
-              [0, 1, 2],
+               ("Skin disease (कुष्ठ)", "No: kuṣṭha is not named in this verse."),
+               ("An old person (वृद्ध)", "Right: वृद्धे.")],
+              [1, 2, 4],
               "Always, in all ailments, for child and old; ill-eating, indigestion, side pain, gulma, spleen, belly.",
               "बाल · वृद्ध · दुर्भुक्त · अजीर्ण · पार्श्वार्ति · गुल्म · प्लीहा · उदर."),
         mcq("transfer", 5,
@@ -382,13 +382,13 @@ AUTHORED["85"] = {
 AUTHORED["86"] = {
     "title": "गंडमालासु बाते च",
     "question": "In which disorders is the preparation commended in verse 86, and what jaggery and pathyā measures open the next recipe?",
-    "rule": ("It is commended in gaṇḍamālā, in Vāta (printed bāte) and in pāṇḍu-roga. A new recipe: to eight palas of "
-             "jaggery, twenty pathyā; it continues in lines 05.02.161-164."),
+    "rule": ("It is commended in gaṇḍamālā, in Vāta (printed bāte) and in pāṇḍu-roga. A new recipe seems to begin: to eight palas of "
+             "jaggery, twenty pathyā; it appears to continue in lines 05.02.161-164."),
     "limits": ("Low confidence. The printed bāte is read as vāte (text flag): no question on it. palaṃ palaṃ is read as "
                "'a pala each', but it may refer to the next drugs (reviewer note open): no question on it. gaṇḍamālā = "
                "scrofula (probable); pāṇḍu-roga = anaemia (probable). Measures are not converted."),
-    "explain_hi": ("पहली पंक्ति पिछली सूची पूरी करती है: गण्डमाला यानी कण्ठमाला, वात (छपा ‘बाते’) और पाण्डुरोग यानी रक्ताल्पता में यह प्रशंसित है। "
-                   "दूसरी पंक्ति मोदक की नई विधि शुरू करती है: आठ पल गुड़ में बीस पथ्या यानी हरड़ हों। "
+    "explain_hi": ("पहली पंक्ति पिछली सूची पूरी करती है: गण्डमाला (सम्भवतः कण्ठमाला), वात (छपा ‘बाते’) और पाण्डुरोग (सम्भवतः रक्ताल्पता) में यह प्रशंसित है। "
+                   "दूसरी पंक्ति एक नई विधि शुरू करती दिखती है (आगे की पंक्तियों में मोदक बनते हैं): आठ पल गुड़ में बीस पथ्या यानी हरड़ हों। "
                    "‘पलं पलं’ को ‘एक-एक पल’ पढ़ा गया है, पर यह अगले द्रव्यों के लिए भी हो सकता है। "
                    "पल तौल की एक मात्रा है; उसे यहाँ बदला नहीं गया।"),
     "hook": "गण्डमाला, वात, पाण्डु में प्रशंसित; आठ पल गुड़, बीस हरड़।",
@@ -428,14 +428,14 @@ AUTHORED["86"] = {
             "शस्यते = is commended; स्यात् = should be.",
             "गण्डमाला · पाण्डुरोग → शस्यते."),
         mcq("transfer", 5,
-            "Like शस्यते (is commended, passive of √शंस्), which passive of √वच् (speak) means is said?",
-            ("उच्यते", "The passive takes -यते: √वच् → उच्यते 'is said', like शस्यते."),
-            [("वदति", "वदति is active present: 'speaks'."),
-             ("उक्तम्", "उक्तम् is the past participle: 'said'."),
-             ("वक्ष्यति", "वक्ष्यति is the future: 'will speak'.")],
-            "शस्यते, उच्यते: present passive in -यते.",
-            "Passive present = root + -यते.",
-            teaches="The present passive is built with -यते: √शंस् → शस्यते 'is commended', √वच् → उच्यते 'is said'."),
+            "Like शस्यते (is commended, passive of √शंस्), which passive of √नी (lead) means is led?",
+            ("नीयते", "The passive takes -यते: √नी → नीयते 'is led', like शस्यते."),
+            [("नयति", "नयति is active present: 'leads'."),
+             ("नीतम्", "नीतम् is the past participle: 'led'."),
+             ("नेष्यति", "नेष्यति is the future: 'will lead'.")],
+            "शस्यते, नीयते: present passive in -यते.",
+            "Passive present = root + -यते (some roots change, e.g. √वच् → उच्यते).",
+            teaches="The present passive is built with -यते: √शंस् → शस्यते 'is commended', √नी → नीयते 'is led'."),
     ],
 }
 
@@ -476,7 +476,7 @@ AUTHORED["87"] = {
               "दन्ती · चित्रक · पिप्पली · त्रिवृत्.",
               role="extend",
               teaches="Each measure follows a dual dvandva in the genitive: दन्तीचित्रकयोः कर्षौ, पिप्पलीत्रिवृतोर्दश."),
-        mcq("discriminate", 3, "In verse 87, how often is one modaka set?",
+        mcq("discriminate", 3, "In verse 87, how often is one modaka to be taken?",
             ("On every tenth day", "दशमे दशमेऽहनि = on every tenth day; एकम् = one."),
             [("On every single day", "No daily dose is named; the verse says दशमे दशमे."),
              ("On every third day", "No third day is named in this verse."),
@@ -546,7 +546,7 @@ AUTHORED["88"] = {
         fill(4, "Verse 88: drinking warm water after, one should ____ (eat) them all by this method. Type it in Devanagari or in English letters (e.g. dharma).",
              accepts("खादेत्"),
              "खादेत् = one should eat (optative of √खाद्).",
-             "खादेत् is the verb of the modaka recipe begun in line 05.02.161.",
+             "खादेत् is the verb of the modaka recipe of lines 05.02.161-162.",
              "अनुपिबन् खादेत् तान् सर्वान् विधिनाऽमुना.",
              role="apply"),
         mcq("transfer", 5,
@@ -570,8 +570,8 @@ AUTHORED["89"] = {
     "limits": ("Low confidence. The second line, 'in purging these trivṛt and the rest are not indeed the most principal', "
                "is unclear (line 05.02.167 prepares harītakī by the trivṛt method; a misprint is possible): no question on "
                "it. grahaṇī, pāṇḍu and koṭha are probable equivalents; arśas = piles (standard)."),
-    "explain_hi": ("पहली पंक्ति कहती है कि ये (मोदक) विशेष रूप से ग्रहणी यानी संग्रहणी, पाण्डु यानी रक्ताल्पता, कण्डु यानी खुजली, "
-                   "कोठ यानी शीतपित्त के चकत्ते और अर्श यानी बवासीर में हितकर हैं। "
+    "explain_hi": ("पहली पंक्ति कहती है कि ये (मोदक) विशेष रूप से ग्रहणी (सम्भवतः संग्रहणी), पाण्डु (सम्भवतः रक्ताल्पता), कण्डु यानी खुजली, "
+                   "कोठ (सम्भवतः शीतपित्त के चकत्ते) और अर्श यानी बवासीर में हितकर हैं। "
                    "दूसरी पंक्ति कहती है कि विरेचन में ये त्रिवृत् यानी निशोथ आदि ही सबसे मुख्य नहीं हैं। "
                    "इसका आशय स्पष्ट नहीं, क्योंकि अगली पंक्ति हरीतकी को त्रिवृत् की विधि से ही बनाने को कहती है; छपाई की भूल भी सम्भव है।"),
     "hook": "ग्रहणी, पाण्डु, कण्डु, कोठ, अर्श: इनमें विशेष हितकर।",
@@ -604,12 +604,12 @@ AUTHORED["89"] = {
             "विशेषात् = especially (ind.); ग्रहणी opens the disorder compound.",
             "-त् + voiced consonant → -द्."),
         multi("apply", 4, "Which of these disorders does verse 89 name?",
-              [("ग्रहणी (grahaṇī)", "Right: the first member."),
+              [("शोष (wasting)", "No: wasting is named in line 05.02.168, not here."),
+               ("ग्रहणी (grahaṇī)", "Right: the first member."),
+               ("प्लीहा (spleen)", "No: the spleen is named in line 05.02.158, not here."),
                ("कोठ (koṭha)", "Right: the fourth member."),
-               ("कण्डु (itching)", "Right: the third member."),
-               ("शोष (wasting)", "No: wasting is named in line 05.02.168, not here."),
-               ("प्लीहा (spleen)", "No: the spleen is named in line 05.02.158, not here.")],
-              [0, 1, 2],
+               ("कण्डु (itching)", "Right: the third member.")],
+              [1, 3, 4],
               "ग्रहणी, पाण्डु, कण्डु, कोठ, अर्शस्: these five only.",
               "विशेषात् · ग्रहणी · पाण्डु · कण्डु · कोठ · अर्शस् → हिताः."),
         mcq("transfer", 5,
@@ -676,7 +676,7 @@ AIDS = {
         "anchors": "सर्वदा = हमेशा · बाल = बच्चा · वृद्ध = बूढ़ा · दुर्भुक्त = बुरा खाया · पार्श्व = पसलियों वाला भाग · आर्ति = पीड़ा · प्लीहा = तिल्ली।",
     },
     "86": {
-        "frame": "पहली पंक्ति: गण्डमाला, वात (छपा ‘बाते’), पाण्डुरोग में प्रशंसित · दूसरी पंक्ति: नई विधि, आठ पल गुड़, बीस पथ्या (‘पलं पलं’ अनिश्चित)।",
+        "frame": "पहली पंक्ति: गण्डमाला, वात (छपा ‘बाते’), पाण्डुरोग में प्रशंसित · दूसरी पंक्ति: नई विधि शुरू होती दिखती है, आठ पल गुड़, बीस पथ्या (‘पलं पलं’ अनिश्चित)।",
         "chunks": "गंडमालासु बाते च | पांडुरोगे च शस्यते || गुडस्याष्टपले पथ्या | विंशतिः स्यात्पलं पलं",
         "anchors": "गण्डमाला = कण्ठमाला · पाण्डु = रक्ताल्पता · शस्यते = प्रशंसित है · गुड = गुड़ · अष्ट = आठ · विंशति = बीस · पल = तौल की मात्रा।",
     },
@@ -695,7 +695,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "विशेष हितकर", "items": ["ग्रहणी", "पाण्डु", "कण्डु", "कोठ", "अर्शस्"]}]},
         "chunks": "विशेषाद्ग्रहणीपांडु | कंडुकोठार्शसां हिताः || विरेचने मुख्यतमा | नैवैते त्रिवृतादयः",
         "sandhi": "त् → द् घोष से पहले: विशेषात् + ग्रहणी → विशेषाद्ग्रहणी; अ + अ → आ: कोठ + अर्शसाम् → कोठार्शसाम्।",
-        "anchors": "विशेषात् = विशेष रूप से · ग्रहणी = संग्रहणी · पाण्डु = रक्ताल्पता · कण्डु = खुजली · कोठ = चकत्ते · अर्शस् = बवासीर।",
+        "anchors": "विशेषात् = विशेष रूप से · ग्रहणी = संग्रहणी (सम्भवतः) · पाण्डु = रक्ताल्पता (सम्भवतः) · कण्डु = खुजली · कोठ = चकत्ते (सम्भवतः) · अर्शस् = बवासीर।",
     },
 }
 
@@ -711,7 +711,7 @@ IMAGE_SPECS = {
         "file": "ka2-danti-suchi-83.svg",
         "alt": "Mind map of verse 83: roots cooked with mudga give yusha; a new list of five drugs: danti, dravanti, marica, svarnakshiri, yavanaka",
         "type": "mermaid",
-        "code": ('mindmap\n  श्लोक ८३\n    पहली पंक्ति\n      मुद्ग से पकी जड़ें\n      यूष आदि\n'
+        "code": ('mindmap\n  श्लोक ८३\n    पहली पंक्ति\n      मुद्ग आदि से पकी जड़ें\n      यूष आदि\n'
                  '    नई सूची\n      दन्ती\n      द्रवन्ती\n      मरिच\n      स्वर्णक्षीरी\n      यवानक\n'),
     },
     ("84", "chain"): {
@@ -725,7 +725,7 @@ IMAGE_SPECS = {
         "file": "ka2-hita-roga-85.svg",
         "alt": "Mind map of verse 85: beneficial always, in all ailments, for a child and an old person; and in ill-eating, indigestion, side pain, gulma, spleen, belly",
         "type": "mermaid",
-        "code": ('mindmap\n  श्लोक ८५: हितकर\n    किसके लिए\n      सदा\n      सब रोग\n      बालक\n      वृद्ध\n'
+        "code": ('mindmap\n  श्लोक ८५: हितकर\n    कब और किसमें हितकर\n      सदा\n      सब रोग\n      बालक\n      वृद्ध\n'
                  '    विशेष रोग\n      दुर्भुक्त\n      अजीर्ण\n      पार्श्व-पीड़ा\n      गुल्म\n      प्लीहा\n      उदर\n'),
     },
     ("87", "chain"): {
