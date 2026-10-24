@@ -16,13 +16,13 @@ AUTHORED["12"] = {
                "questions keep to clear words. चतुष्पले is a locative dvigu, 'in four palas'. The use of the liquid is not stated."),
     "explain_hi": ("यह श्लोक छपाई में बहुत बिगड़ा है, इसलिए इसका पूरा अर्थ अनुमान पर टिका है। "
                    "पहली पंक्ति में लगता है कि चार पल तेल और घी में भुने बकरे से, शताह्वा यानी सम्भवतः सोआ, दही और दाड़िम यानी अनार से खट्टा किया रस बनता है। "
-                   "दूसरी पंक्ति में यह रस ‘सपेष्य’ यानी पीसने योग्य द्रव्यों के साथ है, और अनुमान से बल, वर्ण, मांस, रेतस् यानी वीर्य और अग्नि यानी पाचन-अग्नि के लिए हितकर कहा गया है। "
+                   "दूसरी पंक्ति में यह रस ‘सपेष्य’ (स- = साथ, पेष्य = पीसने योग्य) यानी पीसने योग्य द्रव्यों के साथ है, और अनुमान से बल, वर्ण, मांस, रेतस् यानी वीर्य और अग्नि यानी पाचन-अग्नि के लिए हितकर कहा गया है। "
                    "‘मिर्ष’ पढ़ा नहीं जाता; अन्त का भाग सम्भवतः सिर के दर्द वाले के लिए ‘इष्ट’ बताता है। "
                    "‘चतुष्पले’ द्विगु समास, सप्तमी है: चार पल के माप में।"),
     "hook": "चार पल तेल-घी, बकरा, दही-अनार की खटास: बल-वर्ण-मांस-रेतस्-अग्नि का रस (पाठ अनुमानित)।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Which measure does verse 12 give for the oil and ghee?",
+        mcq("pretest", 0, "Which measure does चतुष्पले in verse 12 name?",
             ("Four palas",
              "चतुष्पले: in a measure of four palas (catuḥ + pala)."),
             [("Eight palas", "चतुष् means four, not eight."),
@@ -32,15 +32,15 @@ AUTHORED["12"] = {
             "चतुष्पले = in four palas."),
         match(1, "Match each clear word of verse 12 to its meaning.",
               [["चतुष्पले", "in four palas"], ["घृतस्य", "of ghee"], ["रसः", "liquid (rasa)"],
-               ["सपेष्यः", "with what is to be ground"], ["रेतस्", "semen"]],
+               ["सपेष्यः", "with what is to be ground"], ["बलवर्ण", "strength and complexion"]],
               "These words are clear even though the verse around them is damaged.",
-              "चतुष्पले = in four palas; घृतस्य = of ghee; रसः = liquid; सपेष्यः = with things to grind; रेतस् = semen."),
-        order(2, "Put these clear words of verse 12, line 2, in the printed order.",
-              ["रसः", "सपेष्यो", "बलवर्ण", "मांस", "रेतस्", "अग्नि"],
-              "Line 2 names the liquid first, then strength, complexion, flesh, semen and fire.",
-              "रसः · सपेष्यो · बलवर्ण · मांस · रेतस् · अग्नि.",
+              "चतुष्पले = in four palas; घृतस्य = of ghee; रसः = liquid; सपेष्यः = with things to grind; बलवर्ण = strength and complexion."),
+        order(2, "Put these clear words of verse 12 in the printed order.",
+              ["चतुष्पले", "घृतस्य", "रसः", "सपेष्यो", "बलवर्ण"],
+              "The clear words run: in four palas, of ghee, the liquid, with things to grind, strength-complexion.",
+              "चतुष्पले · घृतस्य · रसः · सपेष्यो · बलवर्ण.",
               role="extend",
-              teaches="Line 2 opens with रसः सपेष्यः and then lists bala, varṇa, māṃsa, retas and agni, which the liquid (conjecturally) benefits."),
+              teaches="Verse 12's clear words: the measure (चतुष्पले) and ghee in line 1; रसः सपेष्यः and बलवर्ण open line 2."),
         mcq("discriminate", 3, "Why does सपेष्यो in verse 12 end in -ओ?",
             ("-अः before voiced ब → -ओ",
              "सपेष्यः + बलवर्ण: -अः before a voiced consonant becomes -ओ."),
@@ -49,14 +49,14 @@ AUTHORED["12"] = {
              ("It is a vocative of address", "No one is addressed; the word qualifies रसः.")],
             "सपेष्यः (m. nom. sg.) before the voiced ब of बलवर्ण is written सपेष्यो.",
             "-अः + voiced consonant → -ओ."),
-        mcq("apply", 4, "A reader turns चतुष्पले of verse 12 into a weight in grams. What does the card keep instead?",
-            ("Four palas, as printed",
-             "Measures stay as the text gives them; no conversion."),
-            [("Four handfuls (prasṛtas)", "A prasṛta is a different measure; the word is pala."),
-             ("Four times the amount", "पल is a measure of weight, not 'times'."),
-             ("Four prasthas of oil", "No prastha is named in verse 12.")],
-            "The card keeps the text's own measure: four palas.",
-            "Quantities stay as the text gives them."),
+        mcq("apply", 4, "In सपेष्यः of verse 12, what does the prefix स- add?",
+            ("together with",
+             "स- = with: सपेष्यः, together with what is to be ground."),
+            [("without, lacking", "That would be निः- or अ-, not स-."),
+             ("very, well", "That is सु-, as in सुशीत."),
+             ("not at all", "That is न or अ-, not स-.")],
+            "स-पेष्यः: the liquid together with what is to be ground.",
+            "स- (prefix) = together with."),
         mcq("transfer", 5, "Like चतुष्पले 'in four palas', which invented form means in a measure of two palas?",
             ("द्विपले",
              "द्वि + पल as a dvigu compound, locative singular -ए, like चतुष्पले."),
@@ -139,11 +139,11 @@ AUTHORED["14"] = {
              "destroys the ailments of Pitta, together with the jīvanīya group."),
     "limits": ("रोघ्र is probably a misprint for रोध्र (lodhra); आमय as a drug name is unclear; अर्घ्यं ('valuable') is doubtful. No questions on these. "
                "Jīvanīya is the name of a standard group of ten herbs, named only, not listed. Plant parts are not stated."),
-    "explain_hi": ("यहाँ दूध को यष्ट्याह्व यानी मुलेठी, रोध्र यानी लोध्र (छपा ‘रोघ्र’), एक अस्पष्ट ‘आमय’ और चन्दन के साथ, फिर कमल और उत्पल यानी नीलकमल के साथ उबाला जाता है। "
+    "explain_hi": ("यहाँ दूध को यष्ट्याह्व यानी मुलेठी, रोध्र यानी लोध्र (छपा ‘रोघ्र’), एक अस्पष्ट ‘आमय’ और चन्दन के साथ, फिर कमल और उत्पल यानी सम्भवतः नीलकमल के साथ उबाला जाता है। "
                    "उसमें शर्करा, शहद और घी मिलाकर उसे भली-भाँति ठण्डा किया जाता है। "
                    "ऐसा दूध पित्त के आमयों यानी रोगों को नष्ट करता है, और ‘सजीवनीयं’ से जीवनीय गण भी साथ जुड़ता है। "
                    "जीवनीय दस जड़ी-बूटियों के एक प्रसिद्ध गण का नाम है; श्लोक उसके सदस्य नहीं गिनाता। ‘अर्घ्यं’ का अर्थ यहाँ संदिग्ध है।"),
-    "hook": "मुलेठी-चन्दन-कमल-उत्पल में दूध उबालो, मिश्री-शहद-घी, खूब ठण्डा: पित्त के रोग भागें।",
+    "hook": "मुलेठी-चन्दन-कमल-उत्पल में दूध उबालो, शर्करा-शहद-घी, खूब ठण्डा: पित्त के रोग भागें।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "What does the milk of verse 14 destroy?",
@@ -198,13 +198,13 @@ AUTHORED["14"] = {
 AUTHORED["15"] = {
     "title": "… पयः शृतं … मधुयष्टिकल्कैः",
     "question": "Which ingredients can be read in the damaged verse 15, and what is boiled?",
-    "rule": ("On a conjectural reading: with candana, drākṣā (grape), honey, kāśmarya, madhuka and others, milk is boiled; "
+    "rule": ("On a conjectural reading: with candana, drākṣā (grape), madhuka and others (honey and kāśmarya rest on a guessed split), milk is boiled; "
              "with śrāvaṇī, mudgaparṇī and balā, and with pastes (kalka) of guptā and madhuyaṣṭi (liquorice). शृतं = boiled."),
     "limits": ("मोपांगना, शीतपाकी and सैंन्यैः are unclear; the split क्षौद्र + काश्मर्य is a guess; बलाखं is probably बलाख्यं; "
                "guptā and madhuka are disputed. No questions on these. The sentence runs on into the next lines (युक्तं, line 05.04.30), "
                "so this verse gives no use or verb."),
     "explain_hi": ("यह श्लोक बहुत बिगड़ा है; पहली पंक्ति के कई शब्द (मोपांगना, शीतपाकी, सैंन्यैः) पढ़े नहीं जाते। "
-                   "पढ़े जाने वाले द्रव्य हैं: चन्दन, द्राक्षा यानी मुनक्का या अंगूर, शहद, काश्मर्य यानी सम्भवतः गम्भारी, और मधुक यानी सम्भवतः मुलेठी (विवादित)। "
+                   "पढ़े जाने वाले द्रव्य हैं: चन्दन, द्राक्षा यानी मुनक्का या अंगूर, और मधुक यानी सम्भवतः मुलेठी (विवादित); ‘क्षौद्रिकाश्मर्य’ को शहद और काश्मर्य यानी सम्भवतः गम्भारी पढ़ना केवल अनुमान है। "
                    "दूसरी पंक्ति में ‘पयः शृतं’ यानी उबाला हुआ दूध है, अनुमान से श्रावणी यानी सम्भवतः मुण्डी, मुद्गपर्णी यानी जंगली मूँग और बला के साथ, "
                    "और गुप्ता (पहचान विवादित) तथा मधुयष्टि यानी मुलेठी के कल्कों यानी लुगदी के साथ। "
                    "वाक्य अगली पंक्तियों में ‘युक्तं’ के साथ आगे चलता है।"),
@@ -215,7 +215,7 @@ AUTHORED["15"] = {
             ("Milk (पयः)",
              "पयः शृतं: boiled milk."),
             [("Ghee (घृत)", "Ghee is not named in verse 15."),
-             ("Honey (क्षौद्र)", "Honey is an ingredient here, not the thing boiled."),
+             ("Oil (तैल)", "Oil is not named in verse 15."),
              ("Water (जल)", "No water is named in verse 15.")],
             "Line 2 opens with पयः शृतं, boiled milk.",
             "पयः = milk; शृत = boiled."),
@@ -299,7 +299,7 @@ AUTHORED["16"] = {
              ("इक्षोः + विदार्या + च", "विदार्या + च gives विदार्या च, with no श्."),
              ("इक्षो + र्विदार्याः + च", "र्विदार्या is no word; the र् belongs to इक्षोः.")],
             "इक्षोः (of sugarcane) + विदार्याः (of vidārī) + च (and), both genitives of रसेन.",
-            "-ः before a voiced sound → -र्; -ः before च → -श्."),
+            "-ओः/-ऐः before a voiced sound → -ओर्/-ऐर्; -ः before च → -श्."),
         mcq("apply", 4, "With what is the oil of verse 16 prepared?",
             ("With yaṣṭīmadhu (liquorice)",
              "तैलेन यष्टीमधुसाधितेन: with oil prepared with liquorice."),
@@ -333,7 +333,7 @@ AUTHORED["17"] = {
                    "दूसरी पंक्ति: गुल्म यानी पेट की गाँठ, अतिसार यानी दस्त, भ्रम यानी चक्कर, मूत्रकृच्छ्र यानी कठिनाई से पेशाब, और क्षीण यानी दुर्बल व्यक्ति में; "
                    "क्षत यानी चोट में, और ओजस् यानी जीवन-सार तथा बल के क्षय में। "
                    "सब स्थितियाँ सप्तमी (-ए) में हैं: ‘दाहे’ = जलन में।"),
-    "hook": "दाह, गुल्म, दस्त, चक्कर, रुका पेशाब, क्षीण, चोट, ओज-क्षय: यह दूध-बस्ति।",
+    "hook": "दाह, गुल्म, दस्त, चक्कर, कष्ट से पेशाब, क्षीण, चोट, ओज-क्षय: यह दूध-बस्ति।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "What is the first condition named in verse 17 for this basti?",
@@ -359,7 +359,7 @@ AUTHORED["17"] = {
             ("गुल्म + अतिसार",
              "अ + अ → आ: गुल्म + अतिसार = गुल्मातिसार."),
             [("गुल्मा + तिसार", "Neither गुल्मा nor तिसार is the word."),
-             ("गुल्मः + अतिसार", "-अः before a vowel drops the visarga and does not join."),
+             ("गुल्मः + अतिसार", "-अः before अ becomes -ओऽ: it would read गुल्मोऽतिसार."),
              ("गुल्मम् + अतिसार", "म् before a vowel stays: it would read गुल्ममतिसार.")],
             "गुल्म (abdominal lump) + अतिसार (diarrhoea).",
             "अ + अ → आ."),
@@ -391,7 +391,7 @@ AUTHORED["18"] = {
              "there should be ten prasṛtas of that liquid."),
     "limits": ("Line 1 is a list with no verb: the text does not say these drugs are cooked with kulattha and bṛhatī, though it is likely. "
                "Plant parts are not stated; mūrvā is only probable. The recipe continues in line 05.04.36. A prasṛta is a handful-measure."),
-    "explain_hi": ("यहाँ कफहर निरूह का नुस्खा शुरू होता है। पहली पंक्ति में आठ द्रव्य हैं: कोशातक यानी सम्भवतः तोरई, आरग्वध यानी अमलतास, देवदारु यानी देवदार, "
+    "explain_hi": ("यहाँ एक नए निरूह का नुस्खा शुरू होता है (इसे किसे देना है, यह इकाई २० में आता है)। पहली पंक्ति में आठ द्रव्य हैं: कोशातक यानी सम्भवतः तोरई, आरग्वध यानी अमलतास, देवदारु यानी देवदार, "
                    "मूर्वा (सम्भावित पहचान), अश्वदंष्ट्रा यानी सम्भवतः गोखरू, कुटज यानी कुड़ा, अर्क यानी आक और पाठा। इस पंक्ति में कोई क्रिया नहीं है। "
                    "दूसरी पंक्ति: कुलत्थ यानी कुलथी और बृहती यानी सम्भवतः बड़ी कटेरी को जल में ‘पक्त्वा’ यानी पकाकर, उस रस के दस प्रसृत हों। "
                    "प्रसृत अंजलि-भर का एक माप है।"),
@@ -452,7 +452,7 @@ AUTHORED["19"] = {
     "rule": ("Those (the prasṛtas of liquid) are joined with mustard oil and madana, with kuṣṭha, with akṣa-measures and with prasṛtas. "
              "Line 2 lists in the genitive (-अस्य, 'of'): honey, oil, phalāhvaya, kṣāra, and mustard oil."),
     "limits": ("No verb: the sentence runs on. Which item the akṣa and prasṛta measures belong to is unclear; madana may be the emetic nut or beeswax; "
-               "phalāhvaya ('fruit-named') is unidentified; तैला- may be a misprint. No questions on these points. Kṣāra stays kṣāra."),
+               "phalāhvaya ('fruit-named') is unidentified; तैला- may be a misprint, and सर्षप-तैल may be two items (mustard, oil). No questions on these points. Kṣāra stays kṣāra."),
     "explain_hi": ("श्लोक १८ के दस प्रसृत रस (‘तान्’ = उन्हें) यहाँ और द्रव्यों से युक्त होते हैं: सरसों का तेल और मदन यानी मैनफल या मोम (पहचान विवादित), "
                    "कुष्ठ यानी कूठ के साथ, अक्ष के माप और प्रसृतों के साथ। कौन-सा माप किस द्रव्य का है, यह स्पष्ट नहीं। "
                    "दूसरी पंक्ति षष्ठी (‘का’) की सूची है: शहद का, तेल का, फलाह्वय का (अपहचाना), क्षार का, और सार्षप यानी सरसों के तेल का। "
@@ -547,7 +547,7 @@ AUTHORED["20"] = {
              "अ + अ → आ: मंद + अग्नये = मंदाग्नये."),
             [("मंदा + ग्नये", "ग्नये is no word; the word is अग्नये."),
              ("मंदम् + अग्नये", "म् before a vowel stays: it would read मंदमग्नये."),
-             ("मंदः + अग्नये", "-अः before a vowel drops the visarga and does not join.")],
+             ("मंदः + अग्नये", "-अः before अ becomes -ओऽ: it would read मंदोऽग्नये.")],
             "मंद (slow) + अग्नि (fire), dative मंदाग्नये: to one with slow fire.",
             "अ + अ → आ."),
         mcq("apply", 4, "Which case do the three recipients in verse 20 take?",
@@ -560,13 +560,13 @@ AUTHORED["20"] = {
             "Receiver of 'give' → dative."),
         mcq("transfer", 5, "Like मंदाग्नये, which invented form names the weak man (दुर्बल) as the one to whom a basti is given?",
             ("दुर्बलाय",
-             "Dative singular -आय of an -अ stem, like कफरोगिताय."),
+             "Dative singular -आय of an -अ stem (दुर्बल → दुर्बलाय)."),
             [("दुर्बलस्य", "Genitive: 'of the weak man'."),
              ("दुर्बलेन", "Instrumental: 'by the weak man'."),
              ("दुर्बलः", "Nominative: 'the weak man' as subject.")],
-            "The receiver of दद्यात् stands in the dative: -आय for -अ stems, -ए for -इ stems (मंदाग्नये).",
-            "Receiver → dative (-आय / -ए).",
-            teaches="The one to whom something is given stands in the dative: -आय for -अ stems (दुर्बलाय), -ए for -इ stems (मंदाग्नये)."),
+            "The receiver of दद्यात् stands in the dative: -आय for -अ stems, -अये for masculine -इ stems (मंदाग्नये).",
+            "Receiver → dative (-आय / -अये).",
+            teaches="The one to whom something is given stands in the dative: -आय for -अ stems (दुर्बलाय), -अये for masculine -इ stems (मंदाग्नये)."),
     ],
 }
 
@@ -578,11 +578,11 @@ AUTHORED["21"] = {
              "and dhānya; the fruits should be measured by prasṛtas. The adjectives are neuter plural (-आनि)."),
     "limits": ("The eight fruits are not named; whether the adjectives cover the roots or the whole list is not settled; whether bilva to dhānya are also "
                "measured by prasṛta is not stated; dhānya ('grain') could be coriander (disputed). The verb comes in line 05.04.46."),
-    "explain_hi": ("यह पुनर्नवादि सूची की अगली कड़ी है। पहली पंक्ति: द्विपञ्चमूल यानी दशमूल, ‘पलांशक’ यानी एक-एक पल के भाग वाले, ‘क्षुण्ण’ यानी कुचले और ‘धौत’ यानी धोए हुए, और आठ फल (नाम नहीं दिए)। "
+    "explain_hi": ("यह पुनर्नवादि सूची की अगली कड़ी है। पहली पंक्ति: द्विपञ्चमूल यानी दशमूल, ‘पलांशक’ यानी एक पल के भाग वाले, ‘क्षुण्ण’ यानी कुचले और ‘धौत’ यानी धोए हुए, और आठ फल (नाम नहीं दिए)। "
                    "दूसरी पंक्ति: बिल्व यानी बेल, यव, अंकोल यानी सम्भवतः ढेरा, कुलत्थ यानी कुलथी और धान्य (अनाज; धनिया भी पढ़ा जा सकता है)। "
                    "फल प्रसृत के माप से हों। "
                    "विशेषण नपुंसक बहुवचन (-आनि) हैं, पर किस पर लागू हैं, यह तय नहीं।"),
-    "hook": "दशमूल पल-पल, कुचला-धोया, आठ फल; बेल-यव-अंकोल-कुलथी-धान्य; फल प्रसृत से।",
+    "hook": "दशमूल पल-अंश, कुचला-धोया, आठ फल; बेल-यव-अंकोल-कुलथी-धान्य; फल प्रसृत से।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which two treatments are named in verse 21, line 1?",
@@ -702,7 +702,7 @@ AUTHORED["23"] = {
     "limits": ("Whether three prasṛtis are meant for each liquid or three in all is not stated. The neuter words agree with the milk (पयः) of line 05.04.42; "
                "the verb comes in line 05.04.46. The kind of oil is not stated."),
     "explain_hi": ("पिछले श्लोक का छना दूध यहाँ कल्कों से, यवानी यानी अजवायन से और मदन यानी मैनफल से युक्त होता है। "
-                   "वह ‘नात्युष्णशीत’ यानी न अधिक गरम, न अधिक ठण्डा हो, और गुड़ तथा सैन्धव यानी सेंधा नमक से ‘आक्त’ यानी युक्त या लिप्त हो। "
+                   "वह ‘नात्युष्णशीत’ यानी न अधिक गरम, न अधिक ठण्डा हो, और गुड़ तथा सैन्धव यानी सेंधा नमक से ‘आक्त’ यानी लिप्त हो। "
                    "फिर शहद, तेल और नए घी के तीन प्रसृतियों से युक्त हो; तीन प्रसृति हर एक की हैं या सबकी मिलाकर, यह नहीं कहा। "
                    "‘नवस्य’ षष्ठी में ‘सर्पिषः’ से मेल खाता है: नए घी का।"),
     "hook": "कल्क-अजवायन-मैनफल, न गरम न ठण्डा, गुड़-सेंधा; शहद-तेल-नया घी: तीन प्रसृति।",
@@ -781,7 +781,7 @@ AUTHORED["24"] = {
         match(1, "Match each word of unit 24 to its meaning.",
               [["दद्यात्", "should give"], ["विधिना", "by the rule"], ["विधिज्ञः", "one who knows the rule"],
                ["आमय", "ailment"], ["घ्न", "destroying"]],
-              "These words make up the whole unit.",
+              "All five words stand in the unit's one line.",
               "दद्यात् = should give; विधिना = by the rule; विधिज्ञः = knower of the rule; आमय = ailment; घ्न = destroying."),
         order(2, "Put these words of unit 24 in the text's order.",
               ["दद्यान्निरूहं", "विधिना", "विधिज्ञः", "तं", "सर्वसंसर्गकृतामयघ्नं"],
@@ -805,7 +805,7 @@ AUTHORED["24"] = {
              ("The rule (विधि) itself", "विधि is in the instrumental विधिना; तं is masculine accusative like निरूहम्.")],
             "तं (m. acc. sg.) agrees with निरूहम्, the object of दद्यात्.",
             "A pronoun agrees with the noun it points to."),
-        mcq("transfer", 5, "Like विधिज्ञः 'one who knows the rule', which invented word means one who knows basti?",
+        mcq("transfer", 5, "Like विधिज्ञः 'one who knows the rule' (nominative), which invented nominative means one who knows basti?",
             ("बस्तिज्ञः",
              "-ज्ञ = knower; nominative -अः, like विधिज्ञः."),
             [("बस्तिघ्नः", "-घ्न means destroying, as in आमयघ्न, not knowing."),
@@ -887,24 +887,24 @@ AIDS = {
                                {"label": "फल", "items": ["पित्त के आमय नाशे", "जीवनीय के साथ"]}]},
         "chunks": "यष्ट्याह्वरोघ्रामयचंदनैश्च | शृतं पयोऽर्घ्यं | कमलोत्पलैश्च ‖ सशर्कराक्षौद्रघृतं सुशीतं | पित्तामयान् हंति | सजीवनीयं।",
         "sandhi": "अ + उ → ओ: कमल + उत्पलैः → कमलोत्पलैः; अ + आ → आ: पित्त + आमयान् → पित्तामयान्; अः + अ → ओऽ: पयः + अर्घ्यम् → पयोऽर्घ्यं।",
-        "frame": "क्या: उबला दूध · किसके साथ: मुलेठी, चन्दन, कमल, उत्पल · फिर: मिश्री-शहद-घी, खूब ठण्डा · फल: पित्त के रोग नाशे।",
+        "frame": "क्या: उबला दूध · किसके साथ: मुलेठी, चन्दन, कमल, उत्पल · फिर: शर्करा-शहद-घी, खूब ठण्डा · फल: पित्त के रोग नाशे।",
     },
     "15": {
-        "chunks": "मोपांगना (अस्पष्ट) चंदन शीतपाकी (अस्पष्ट) द्राक्षा क्षौद्रि काश्मर्य मधुक सैंन्यैः (अस्पष्ट) ‖ पयः शृतं | श्रावणीमुद्गपर्णीबलाखं | गुप्तामधुयष्टिकल्कैः।",
-        "anchors": "चन्दन = सम्भवतः चन्दन · द्राक्षा = मुनक्का या अंगूर · मधुक = सम्भवतः मुलेठी · शृत = उबाला हुआ · मुद्गपर्णी = जंगली मूँग · कल्क = लुगदी।",
+        "chunks": "मोपांगना (अस्पष्ट) चंदन शीतपाकी (अस्पष्ट) द्राक्षा क्षौद्रिकाश्मर्य मधुक सैंन्यैः (अस्पष्ट) ‖ पयः शृतं | श्रावणीमुद्गपर्णीबलाखं | गुप्तामधुयष्टिकल्कैः।",
+        "anchors": "चन्दन = सम्भवतः संदल (सफ़ेद चन्दन) · द्राक्षा = मुनक्का या अंगूर · मधुक = सम्भवतः मुलेठी · शृत = उबाला हुआ · मुद्गपर्णी = जंगली मूँग · कल्क = लुगदी।",
         "frame": "पंक्ति १: द्रव्यों की सूची (कई शब्द अस्पष्ट) · पंक्ति २: उबला दूध, तीन जड़ी-बूटियाँ, मुलेठी के कल्क · क्रिया: आगे (युक्तं)।",
     },
     "16": {
         "chain": {"steps": ["उबला दूध (पिछली पंक्तियाँ)", "गेहूँ के चूर्ण, पिचु के माप", "ईख और विदारी का रस",
                             "मुलेठी से तैयार तेल", "मिश्री, शहद, घी", "ठण्डा (शीतः)"]},
         "chunks": "गोधूमचूर्णैश्च पिचुप्रमाणैः | इक्षोर्विदार्याश्च रसेन युक्तं ‖ तैलेन यष्टीमधुसाधितेन | सितोपलाक्षौद्रघृतैश्च शीतः।",
-        "sandhi": "ः + स्वर/घोष → र्: पिचुप्रमाणैः + इक्षोः → पिचुप्रमाणैरिक्षोः, इक्षोः + विदार्याः → इक्षोर्विदार्याः; आः + च → आश्च: विदार्याः + च → विदार्याश्च।",
+        "sandhi": "ऐः/ओः + स्वर/घोष → ऐर्/ओर्: पिचुप्रमाणैः + इक्षोः → पिचुप्रमाणैरिक्षोः, इक्षोः + विदार्याः → इक्षोर्विदार्याः; आः + च → आश्च: विदार्याः + च → विदार्याश्च।",
         "anchors": "गोधूम = गेहूँ · पिचु = छोटा माप · इक्षु = ईख · विदारी = सम्भवतः विदारीकन्द · सितोपला = सम्भवतः मिश्री · साधित = तैयार किया।",
     },
     "17": {
-        "diagram": {"groups": [{"label": "दाह में", "items": ["पूरे शरीर की जलन", "पीड़ा सहित", "या अंग में टिकी"]},
-                               {"label": "रोग", "items": ["गुल्म", "अतिसार", "भ्रम", "मूत्रकृच्छ्र", "क्षीण"]},
-                               {"label": "क्षय", "items": ["क्षत", "ओज और बल का क्षय"]}]},
+        "diagram": {"groups": [{"label": "पंक्ति १: दाह में", "items": ["पूरे शरीर की जलन", "पीड़ा सहित", "या अंग में टिकी"]},
+                               {"label": "पंक्ति २", "items": ["गुल्म", "अतिसार", "भ्रम", "मूत्रकृच्छ्र", "क्षीण"]},
+                               {"label": "पंक्ति २ (आगे)", "items": ["क्षत", "ओज और बल का क्षय"]}]},
         "chunks": "बस्तिः प्रशस्तः स | समस्तदेहदाहे सशूले ऽवयवाश्रिते वा ‖ गुल्मातिसारभ्रममूत्रकृच्छ्रक्षीणे | क्षतौजोजबलसंक्षये च।",
         "sandhi": "अ + अ → आ: गुल्म + अतिसार → गुल्मातिसार; ए + अ → एऽ: सशूले + अवयव → सशूले ऽवयव (छपाई में अन्तर के साथ)।",
         "anchors": "प्रशस्त = अनुशंसित · दाह = जलन · गुल्म = पेट की गाँठ · अतिसार = दस्त · भ्रम = चक्कर · मूत्रकृच्छ्र = कठिनाई से पेशाब · ओजस् = जीवन-सार।",
@@ -975,11 +975,11 @@ IMAGE_SPECS = {
     },
     ("14", "diagram"): {
         "file": "ka4-pittahara-14.svg",
-        "alt": ("Two columns for verse 14: milk boiled with liquorice, rodhra (printed roghra), sandalwood, lotus and blue water lily; "
+        "alt": ("Two columns for verse 14: milk boiled with liquorice, rodhra (printed roghra), amaya (unclear), sandalwood, lotus and blue water lily; "
                 "then sugar, honey, ghee, well cooled, with the jivaniya group, destroying the ailments of Pitta"),
         "type": "split",
         "title": "श्लोक १४: शीतल दूध",
-        "cols": [["दूध उबाला (५)", ["यष्ट्याह्व (मुलेठी)", "रोध्र (छपा रोघ्र)", "चन्दन", "कमल", "उत्पल"]],
+        "cols": [["दूध उबाला", ["यष्ट्याह्व (मुलेठी)", "रोध्र (छपा रोघ्र)", "आमय (अस्पष्ट)", "चन्दन", "कमल", "उत्पल"]],
                  ["फिर", ["शर्करा · शहद · घी", "भली-भाँति ठण्डा", "जीवनीय के साथ", "पित्त के रोग नाशे"]]],
     },
     ("17", "diagram"): {
@@ -1018,14 +1018,13 @@ IMAGE_SPECS = {
     },
     ("23", "diagram"): {
         "file": "ka4-prasriti-23.svg",
-        "alt": ("Flowchart of verse 23: the milk of verse 22 joined with pastes, ajwain and madana; neither too hot nor too cold; "
-                "smeared with jaggery and rock salt; joined with three prasritis of honey, oil and fresh ghee; given as nirūha in unit 24"),
+        "alt": ("Flowchart of verse 23: joined with pastes, ajwain and madana; neither too hot nor too cold; smeared with jaggery "
+                "and rock salt; honey, oil and fresh ghee; joined by a set of three prasritis"),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["श्लोक २२ का छना दूध"] --> B["कल्क · यवानी · मदन"]\n'
-                 '  B --> C["न अधिक गरम, न ठण्डा"]\n'
-                 '  C --> D["गुड़ और सैन्धव"]\n'
-                 '  D --> E["शहद · तेल · नया घी<br/>तीन प्रसृति"]\n'
-                 '  E --> F["निरूह दे: इकाई २४"]\n'),
+                 '  A["कल्क · यवानी · मदन से युक्त"] --> B["न अधिक गरम, न ठण्डा"]\n'
+                 '  B --> C["गुड़ और सैन्धव से लिप्त"]\n'
+                 '  C --> D["शहद · तेल · नया घी"]\n'
+                 '  D --> E["तीन प्रसृति से युक्त"]\n'),
     },
 }
