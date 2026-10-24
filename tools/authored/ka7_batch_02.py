@@ -7,12 +7,12 @@ AUTHORED["12"] = {
     "title": "मृदुविरेकः सर्वं च तत्रामविहितं हितम्",
     "question": "What else helps the sneha covered by over-eating, and which signs does line 2 begin to list?",
     "rule": ("For the sneha covered by over-eating: a mild purgation, and everything prescribed for āma is "
-             "beneficial there. Line 2 begins the signs of the stool covering: blockage of stool, urine and "
-             "wind, heaviness, distension, hṛdgraha."),
+             "beneficial there. Line 2 begins the signs of the stool covering: stool, urine and wind (with an "
+             "unreadable word), heaviness, distension, hṛdgraha."),
     "limits": ("The measures for āma are not listed. In line 2 the stretch 'saṃgānir' is unreadable; 'blockage "
                "and pain' is only a conjecture. Hṛdgraha is probably a gripping feeling in the heart region, not "
                "certain. The sentence ends in verse 13."),
-    "explain_hi": ("पहली पंक्ति इकाई ११ के अति भोजन से आवृत स्नेह का उपाय पूरा करती है: पाचन के बाद मृदु विरेचन, और वहाँ आम "
+    "explain_hi": ("पहली पंक्ति इकाई ११ के अति भोजन से आवृत स्नेह का उपाय पूरा करती है: पाचन के साथ मृदु विरेचन भी, और वहाँ आम "
                    "(कच्चा, अपचा रस; फल नहीं) के लिए बताया गया सब कुछ हितकर है। दूसरी पंक्ति नई सूची शुरू करती है: मल, मूत्र "
                    "और वायु से जुड़ा एक अस्पष्ट शब्द, फिर भारीपन, आध्मान यानी अफारा और हृद्ग्रह। ये मल से आवृत स्नेह के "
                    "लक्षण हैं, जिसका नाम इकाई १३ में आता है।"),
@@ -24,7 +24,7 @@ AUTHORED["12"] = {
             [("A strong emetic", "विरेक is purgation, and मृदु is mild, not strong."),
              ("An oil enema", "The oil enema is अनुवासन, not विरेक."),
              ("A digestive powder", "The digestive (पाचन) is in verse 11.")],
-            "मृदु-विरेकः = mild purgation, the measure after the digestive of verse 11.",
+            "मृदु-विरेकः = mild purgation, named beside the digestive of verse 11.",
             "मृदुविरेक = mild purgation."),
         order(1, "Put these words of line 1 in the order of the verse.",
               ["मृदुविरेकः", "सर्वम्", "तत्र", "आमविहितम्", "हितम्"],
@@ -44,13 +44,13 @@ AUTHORED["12"] = {
              ("तत् + रामविहितम्", "त् before र would turn to द्: तद्राम, not तत्राम.")],
             "तत्र (there) + आम-विहितम् (prescribed for āma).",
             "अ + आ → आ."),
-        mcq("apply", 4, "A sneha is covered by over-eating and the digestive of verse 11 is done. What does this verse add?",
+        mcq("apply", 4, "A sneha is covered by over-eating; verse 11 named a digestive. What does this verse add?",
             ("A mild purgation and the āma measures", "मृदुविरेकः सर्वं च तत्रामविहितं हितम्."),
             [("A sharp enema with arka-leaf oil", "That is the treatment of verse 19, for unripe sneha."),
-             ("Nirūha with urine, śyāmā, trivṛt", "That is verse 16, for the sneha that runs upward."),
+             ("Nirūha cooked with urine, śyāmā, trivṛt", "That is verse 16, for the sneha that runs upward."),
              ("Enemas that are sweet and bitter", "That is verse 8, for the Pitta covering.")],
-            "Over-eating covering: digestive (verse 11), then mild purgation and all that is prescribed for āma.",
-            "अत्यशन-आवृत → पाचन → मृदु विरेचन + आम-चिकित्सा."),
+            "Over-eating covering: the digestive (verse 11), and also mild purgation and all that is prescribed for āma.",
+            "अत्यशन-आवृत → पाचन, मृदु विरेचन, आम-चिकित्सा."),
         mcq("transfer", 5, "Like मृदु + विरेक = मृदुविरेक (a mild purgation), what does मृदुबस्ति mean?",
             ("A mild enema", "Adjective first, noun second (karmadhāraya): मृदु बस्ति = a mild enema."),
             [("Mildness and an enema", "That would be a dvandva of two nouns; मृदु here describes बस्ति."),
@@ -105,9 +105,9 @@ AUTHORED["13"] = {
             "-त्वा = having done (before the main action)."),
         mcq("apply", 4, "A sneha enema stays in with heaviness and distension, the signs of verse 12. Which means does this verse name?",
             ("Sneha and sweating, enemas, nirūhas with anuvāsanas", "स्नेहस्वेदैः सबस्तिभिः ... निरूहैः सानुवासनैः."),
-            [("A digestive of pungent and salt decoctions", "That is verse 11, for the over-eating covering."),
+            [("A digestive of pungent and salt decoctions and powders", "That is verse 11, for the over-eating covering."),
              ("Enemas with fruit, oil and sour things", "That is verse 10, for the Kapha covering."),
-             ("Actions that destroy vomiting, at the throat", "That is verse 17, for the sneha coming up.")],
+             ("Actions that destroy vomiting, for the sneha at the throat", "That is verse 17, for the sneha coming up.")],
             "Signs of verse 12 → stool covering → the means of this verse.",
             "विडावृत → स्नेह-स्वेद, बस्ति, निरूह + अनुवासन."),
         mcq("transfer", 5, "Like सबस्तिभिः (together with enemas), what does सतैलः, said of a nirūha, mean?",
@@ -158,7 +158,7 @@ AUTHORED["14"] = {
         mcq("discriminate", 3, "Which is the right split of निर्हरेद्विधिना?",
             ("निर्हरेत् + विधिना", "त् → द् before the voiced व."),
             [("निर्हरे + द्विधिना", "द्विधिना is not a word."),
-             ("निर्हरेत + विधिना", "निर्हरेत without the final consonant is not a verb form."),
+             ("निर्हरेत + विधिना", "A vowel-final word would leave no द्: it would read निर्हरेत विधिना."),
              ("निर्हरेद् + इधिना", "इधिना is not a word; the word is विधिना.")],
             "निर्हरेत् (one should expel) + विधिना (by the rule).",
             "त् + voiced consonant → द्."),
@@ -175,7 +175,7 @@ AUTHORED["14"] = {
             ("भुक्ते", "Drop the negative अ-: भुक्ते, locative singular, as in verse 7 (सायं भुक्ते)."),
             [("भुक्तस्य", "This is the genitive: of one who has eaten."),
              ("भुक्तेन", "This is the instrumental: by one who has eaten."),
-             ("भुक्तम्", "This is the nominative or accusative neuter: eaten.")],
+             ("भुक्तम्", "This is nominative/accusative neuter or accusative masculine, not the locative.")],
             "अ- negates; -ए marks the locative singular of an -अ stem.",
             "अ-भुक्ते = in one not having eaten; भुक्ते = in one having eaten.",
             teaches="The prefix अ- negates a participle (अभुक्त = not having eaten), and the locative in -ए says 'in such a person'."),
@@ -189,7 +189,7 @@ AUTHORED["15"] = {
     "rule": ("In the persons of verse 14, the sneha placed in the anus, not covered, rushes with force. "
              "Line 2 (conjectural reading): it goes upward, and from the throat also to the upper orifices."),
     "limits": ("Line 2 is low confidence: printed 'कार्यं' gives no sense and 'from the body' is a guess. The upper "
-               "orifices are probably those of the head; the line does not say. The remedy follows in verse 16."),
+               "orifices are probably those of the head; the line does not say. By the order of the text, verse 16 gives the remedy."),
     "explain_hi": ("इकाई १४ की तीन दशाओं में (बिना भोजन, सूजी गुदा, केवल पेया) गुदा में डाला गया स्नेह, जिसे कुछ भी ढकता नहीं, वेग से "
                    "दौड़ता है। दूसरी पंक्ति का पाठ बिगड़ा है; अनुमानित पाठ पर अर्थ है: वह ऊपर की ओर जाता है, फिर कण्ठ से ऊपर के "
                    "छिद्रों तक भी। छपा ‘कार्यं’ यहाँ अर्थ नहीं देता। उपाय इकाई १६ में है।"),
@@ -244,10 +244,10 @@ AUTHORED["16"] = {
     "question": "Which enema is to be given for the sneha that has run upward?",
     "rule": ("A nirūha cooked with urine, śyāmā and trivṛt, having yava, kola and kulattha, with oil cooked in "
              "that, should be given together with an anuvāsana."),
-    "limits": ("Śyāmā is of disputed identity; here it is a separate item from trivṛt (turpeth, standard). Kola is "
-               "probably jujube. Whether the oil cooked in that belongs to the nirūha or to the anuvāsana is not "
-               "clear. No amounts are given."),
-    "explain_hi": ("इकाई १५ में ऊपर दौड़ते स्नेह का उपाय यह निरूह है: मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, और यव, कोल यानी "
+    "limits": ("Śyāmā (disputed identity) is a separate item from trivṛt (turpeth, standard). Kola is probably jujube. "
+               "Whether the oil cooked in that belongs to the nirūha or the anuvāsana is unclear. No amounts. That it "
+               "answers the sneha of verse 15 is read from the text's order."),
+    "explain_hi": ("पाठ के क्रम से यह इकाई १५ में ऊपर दौड़ते स्नेह का उपाय लगता है (श्लोक स्वयं नहीं कहता): मूत्र, श्यामा और त्रिवृत् यानी निशोथ से सिद्ध, और यव, कोल यानी "
                    "सम्भवतः बेर और कुलत्थ यानी कुलथी वाला। उसी से सिद्ध तैल भी हो, और निरूह अनुवासन के साथ दिया जाए। श्यामा "
                    "और त्रिवृत् यहाँ अलग-अलग गिने गए हैं; श्यामा की पहचान विवादित है। मात्राएँ नहीं दी गईं।"),
     "hook": "ऊपर दौड़ा स्नेह: मूत्र-श्यामा-निशोथ का निरूह, यव-कोल-कुलथी वाला, अनुवासन सहित।",
@@ -302,7 +302,8 @@ AUTHORED["17"] = {
     "title": "कण्ठादागच्छतः ... कुर्यान्निवर्तनम्",
     "question": "When the sneha comes up from the throat, what should one bring about, and with which means?",
     "rule": ("Of the sneha coming from the throat one should bring about its turning back (nivartana): with "
-             "stambha, kaṇṭhagraha and purgations, and with actions that destroy vomiting."),
+             "actions that destroy vomiting, and with the means or effects named in the compound of line 1 "
+             "(stambha, kaṇṭhagraha, virecana; sense unclear)."),
     "limits": ("Low confidence. Whether stambha and kaṇṭhagraha are measures or effects, and how the compound divides, "
                "is unclear; the card takes them as means but builds nothing on them. Chardi (vomiting) is kept apart "
                "from vamana."),
@@ -336,7 +337,7 @@ AUTHORED["17"] = {
              ("आगच्छतः", "This is 'of (it) coming'.")],
             "छर्दिघ्नी (f., agreeing with क्रिया) = that destroys vomiting.",
             "-घ्न / -घ्नी = destroying."),
-        mcq("apply", 4, "The sneha of an enema is coming up from the throat. Which means does line 2 add to those of line 1?",
+        mcq("apply", 4, "The sneha of an enema is coming up from the throat. Which means does line 2 name for turning it back?",
             ("Actions that destroy vomiting", "छर्दिघ्नीभिः क्रियाभिश्च."),
             [("Enemas that are sweet and bitter", "That is verse 8, for the Pitta covering."),
              ("A digestive of pungent decoctions", "That is verse 11, for the over-eating covering."),
@@ -393,13 +394,13 @@ AUTHORED["18"] = {
              ("ह्य + उपलिम्पति", "अ + उ would give ओ: ह्योप..., not ह्युप.")],
             "हि (for) + उपलिम्पति (smears).",
             "इ + unlike vowel → य्."),
-        mcq("apply", 4, "A physician has an unripe (अपक्व) sneha ready for the enema. By line 1, what should he do?",
-            ("Not give it, for it coats the anus", "नापक्वं प्रणयेत्स्नेहं, गुदं स ह्युपलिम्पति."),
-            [("Give it in the evening after food", "Evening after food is the oil enema of verse 7."),
-             ("Give it with a mild purgation", "Mild purgation is verse 12, for the over-eating covering."),
-             ("Give it as a nirūha with urine", "That nirūha is verse 16; line 1 forbids this sneha.")],
-            "Unripe sneha → not to be administered (it smears the anus).",
-            "न अपक्वं स्नेहं प्रणयेत्."),
+        mcq("apply", 4, "By line 1, why should this sneha not be administered into the anus?",
+            ("For it smears the anus", "गुदं स ह्युपलिम्पति: हि gives the reason."),
+            [("For it rushes upward with force", "Rushing upward is the uncovered sneha of verse 15."),
+             ("For it burns the anus", "No burning is named; उपलिम्पति is smearing."),
+             ("For it is too little in amount", "Little (अल्प) sneha was verse 3, not this line.")],
+            "स ह्युपलिम्पति = for it smears (the anus): the reason for the prohibition.",
+            "हि = because: गुदं स ह्युपलिम्पति."),
         mcq("transfer", 5, "Like न प्रणयेत् (one should not administer), which phrase means one should not give?",
             ("न दद्यात्", "न + optative = a prohibition: दद्यात् is the optative of √दा."),
             [("न ददाति", "This is a statement: he does not give."),
@@ -414,7 +415,7 @@ AUTHORED["18"] = {
 # ---------------------------------------------------------------- unit 19
 AUTHORED["19"] = {
     "title": "तीक्ष्णो बस्तिस्तथा तैलमर्कपत्ररसे शृतम्",
-    "question": "What treatment is given for the unripe sneha, and which faults of the nozzle begin in line 2?",
+    "question": "What treatment is given in verse 18's case, and which faulty nozzles begin in line 2?",
     "rule": ("The treatment of verse 18: a sharp enema, and oil boiled in the juice of arka leaves. Line 2 begins "
              "the faulty nozzles: short, long, thin, thick, old, with loose binding."),
     "limits": ("The substances of the sharp enema are not named. Arka is Calotropis (madar), standard. Line 2 has no "
@@ -433,7 +434,7 @@ AUTHORED["19"] = {
              ("In milk", "Milk is not named in this verse.")],
             "तैलम् अर्कपत्ररसे शृतम् = oil boiled in arka-leaf juice.",
             "अर्क-पत्र-रस = arka-leaf juice."),
-        order(1, "Put the faults of line 2 in the order of the verse.",
+        order(1, "Put the faulty nozzles of line 2 in the order of the verse.",
               ["ह्रस्व", "दीर्घ", "तनु", "स्थूल", "जीर्ण", "शिथिलबन्धन"],
               "Short, long, thin, thick, old, with loose binding.",
               "ह्रस्व · दीर्घ · तनु · स्थूल · जीर्ण · शिथिलबन्धन."),
@@ -450,13 +451,13 @@ AUTHORED["19"] = {
              ("स्थूल and जीर्ण", "Thick and old are not opposites.")],
             "Line 2 pairs opposites: short/long, thin/thick; then old and loosely bound.",
             "ह्रस्व ↔ दीर्घ; तनु ↔ स्थूल."),
-        mcq("apply", 4, "The unripe sneha of verse 18 has been given. Which treatment does line 1 name?",
+        mcq("apply", 4, "Verse 18 forbids a sneha that smears the anus and opens the treatment. Which treatment does line 1 name?",
             ("A sharp enema and arka-leaf oil", "तीक्ष्णो बस्तिस्तथा तैलमर्कपत्ररसे शृतम्."),
             [("A mild purgation and the āma measures", "That is verse 12."),
              ("Actions that destroy vomiting", "That is verse 17, for the sneha at the throat."),
-             ("Nirūha with urine, śyāmā, trivṛt", "That is verse 16, for the sneha that runs upward.")],
-            "Unripe sneha → sharp enema; oil boiled in arka-leaf juice.",
-            "अपक्व स्नेह → तीक्ष्ण बस्ति + अर्कपत्र-तैल."),
+             ("Nirūha with urine, śyāmā, trivṛt", "That is verse 16.")],
+            "Verse 18's 'kriyā atra' → sharp enema; oil boiled in arka-leaf juice.",
+            "क्रिया ऽत्र → तीक्ष्ण बस्ति + अर्कपत्र-तैल."),
         mcq("transfer", 5, "Like तीक्ष्णः + बस्तिः = तीक्ष्णो बस्तिः, how does स्थूलः + बस्तिः join?",
             ("स्थूलो बस्तिः", "-अः before a voiced consonant becomes -ओ."),
             [("स्थूलर्बस्तिः", "-र् comes from a visarga after a vowel other than अ/आ."),
@@ -549,7 +550,7 @@ AUTHORED["21"] = {
              ("Drugs of the enema", "No drug is named here.")],
             "तेषां दोषाः = their faults (of the nozzles).",
             "दोष (here) = fault."),
-        order(1, "Put the bag faults of line 2 in the order of the verse.",
+        order(1, "Put the defective bags of line 2 in the order of the verse.",
               ["मांसल", "स्निग्ध", "विषम", "जालवत्", "स्थूल", "वातल"],
               "Fleshy, unctuous, uneven, net-like, thick, windy.",
               "मांसल · स्निग्ध · विषम · जालवत् · स्थूल · वातल."),
@@ -559,17 +560,17 @@ AUTHORED["21"] = {
               "गुदपीडा = pain in the anus; जिह्म = crooked; जालवत् = net-like; वातल = windy.",
               role="extend",
               teaches="Pain in the anus and a crooked course complete the eight faults of the nozzles; line 2 starts the bags."),
-        mcq("discriminate", 3, "What does the card say about matching each fault to one nozzle?",
-            ("The text gives no such matching", "यथाक्रमम् only suggests an order; no pairing is stated."),
-            [("Each fault belongs to the nozzle of the same place", "The card asserts no pairing."),
-             ("The faults belong to the beds, not nozzles", "तेषाम् refers to the nozzles of verse 20."),
-             ("Only the first fault matches the first nozzle", "No pairing at all is given.")],
-            "यथाक्रमम् = in due order; the one-to-one matching is not given.",
-            "No nozzle → fault matching is stated."),
+        mcq("discriminate", 3, "Which is the right split of गतिर्जिह्मा?",
+            ("गतिः + जिह्मा", "A visarga after इ becomes र् before the voiced ज."),
+            [("गतिर् + इह्मा", "इह्मा is not a word; the word is जिह्मा."),
+             ("गति + र्जिह्मा", "र्जिह्मा is not a word."),
+             ("गतिर + जिह्मा", "गतिर is not a word; the र् comes from the visarga of गतिः.")],
+            "गतिः (course) + जिह्मा (crooked).",
+            "इः + voiced consonant → इर्."),
         mcq("apply", 4, "A student counts the eight faults of the nozzles. Which two in this verse complete them?",
             ("Pain in the anus and a crooked course", "गुदपीडा गतिर्जिह्मा."),
-            [("Fleshy and unctuous", "These are faults of the bags, line 2."),
-             ("Cut and moist", "These are bags of verse 22."),
+            [("Fleshy and unctuous, of the bags", "These are defective bags of line 2, not faults."),
+             ("Cut and moist, from verse 22", "These are bags of verse 22."),
              ("Non-arrival and leaking", "These are in verse 20, already counted.")],
             "Six faults in verse 20 + two here = eight.",
             "अप्राप्ति ... स्रव + गुदपीडा, जिह्म गति."),
@@ -625,9 +626,9 @@ AUTHORED["22"] = {
             "न् + vowel: joined without change."),
         mcq("apply", 4, "A physician finds that the bag is torn. What does this verse say?",
             ("It is among the eight bags to avoid", "छिन्नः is one of the eight bags to avoid."),
-            [("Only nozzles are faulted, not bags", "Verses 21 and 22 fault the bags too."),
+            [("Only nozzles are faulted, never the bags", "Verses 21 and 22 fault the bags too."),
              ("It is to be used for a mild enema", "No such use is named; it is to be avoided."),
-             ("It is avoided only in the nirūha", "कर्मसु = in the procedures, with no such limit.")],
+             ("It is avoided only in the nirūha enema", "कर्मसु = in the procedures, with no such limit.")],
             "छिन्नः क्लिन्नश्च तानष्टौ बस्तीन्कर्मसु वर्जयेत्.",
             "छिन्न बस्ति → वर्जित."),
         mcq("transfer", 5, "Like जिह्म → जिह्मत्व (crookedness), what does स्थूलत्व mean?",
@@ -646,7 +647,7 @@ AUTHORED["23"] = {
     "title": "बस्तेः स्युर्बस्तिदोषतः",
     "question": "What does line 1 say these faults come from, and what topic does line 2 begin?",
     "rule": ("Foaminess and (conjecturally) one more fault would be of the basti, from the basti's fault. "
-             "Line 2 begins the positions to avoid, ending in verse 24 with 'one should avoid'."),
+             "Line 2 appears to begin the positions to avoid, ending in verse 24 with 'one should avoid'."),
     "limits": ("Low confidence. Only 'foamy' is sure in the first word; about seven bag faults are clear, one short of "
                "eight. The first word of line 2 is unreadable; 'high, head-down' and 'drawn up above' are guesses. "
                "Basteḥ may be genitive or ablative."),
@@ -684,9 +685,9 @@ AUTHORED["23"] = {
             "बस्ति: थैली (२१-२३) / बस्ति-कर्म (१९)."),
         mcq("apply", 4, "A bag leaks and smells bad during the enema. How do verses 22 and 23 class these?",
             ("As faults from the basti's fault", "बस्तेः स्युर्बस्तिदोषतः: they come from the bag's fault."),
-            [("As faults of the nozzle", "The nozzle faults were verses 20 and 21."),
-             ("As faults of the bed", "The positions come in verses 23 and 24."),
-             ("As signs of a stool covering", "Those signs were verse 12.")],
+            [("As faults of the enema nozzle", "The nozzle faults were verses 20 and 21."),
+             ("As faults of the bed and posture", "The positions come in verses 23 and 24."),
+             ("As signs of a covering by stool", "Those signs were verse 12.")],
             "Leaking and bad smell are listed in verse 22 and summed up here as from the bag's fault.",
             "स्रुति, दौर्गन्ध्य → बस्ति-दोष से."),
         mcq("transfer", 5, "Like बस्तिदोषतः (from the basti's fault), what does नेत्रदोषतः mean?",
@@ -768,7 +769,7 @@ AUTHORED["25"] = {
     "explain_hi": ("पहली पंक्ति बिगड़ी है; अनुमानित पाठ पर सूची के अन्तिम परिणाम: शीघ्र आना, वायु का कुपित होना, और पक्वाशय यानी बड़ी "
                    "आँत के स्थान से जुड़ा कुछ। ‘स्त्रैभिः’ अस्पष्ट है। दूसरी पंक्ति कहती है: ये उनके दोष होंगे, और यहाँ जैसा "
                    "उपयुक्त हो वैसा विधान करना चाहिए। कौन-सा उपाय, यह नहीं बताया।"),
-    "hook": "शय्या-दोष के परिणाम: जल्दी लौटना, वायु-कोप...; उपाय जैसा उचित हो।",
+    "hook": "उनके दोष: शीघ्र आना, वायु-कोप...; यहाँ जैसा उचित हो वैसा विधान।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does मरुत्कोप mean?",
@@ -836,7 +837,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "पंक्ति १: अति भोजन के आवरण में", "items": ["मृदु विरेचन", "आम के लिए बताया सब"]},
                                {"label": "पंक्ति २: मल-आवरण के साफ़ लक्षण", "items": ["मल, मूत्र, वायु (अस्पष्ट शब्द से जुड़े)", "गुरुत्व यानी भारीपन", "आध्मान यानी अफारा", "हृद्ग्रह"]}]},
         "chunks": "मृदुविरेकः | सर्वं च तत्रामविहितं हितं ‖ विण्मूत्रानिल- | संगानिर् (अस्पष्ट) | गुरुत्वाध्मानहृद्ग्रहैः।",
-        "sandhi": "अ + आ → आ: तत्र + आम → तत्राम; ट् → ण् न से पहले: विट् + मूत्र → विण्मूत्र।",
+        "sandhi": "अ + आ → आ: तत्र + आम → तत्राम; ट् → ण् अनुनासिक म से पहले: विट् + मूत्र → विण्मूत्र।",
         "anchors": "मृदु = मृदु · विरेक = विरेचन · आम = कच्चा अपचा रस (फल नहीं) · गुरुत्व = भारीपन · आध्मान = अफारा · हृद्ग्रह = हृदय की पकड़।",
     },
     "13": {
@@ -881,7 +882,7 @@ AIDS = {
     },
     "19": {
         "diagram": {"groups": [{"label": "पंक्ति १: कच्चे स्नेह की क्रिया", "items": ["तीक्ष्ण बस्ति", "आक-पत्र के रस में उबला तैल"]},
-                               {"label": "पंक्ति २: नेत्र के दोष (इकाई २० में जारी)", "items": ["ह्रस्व", "दीर्घ", "तनु", "स्थूल", "जीर्ण", "शिथिलबन्धन"]}]},
+                               {"label": "पंक्ति २: वर्जित नेत्र (इकाई २० में जारी)", "items": ["ह्रस्व", "दीर्घ", "तनु", "स्थूल", "जीर्ण", "शिथिलबन्धन"]}]},
         "seesaw": "ह्रस्व (छोटा) ↔ दीर्घ (लम्बा) · तनु (पतला) ↔ स्थूल (मोटा): दोनों सिरे दोष हैं।",
         "chunks": "तीक्ष्णो बस्तिस्तथा | तैलमर्कपत्ररसे श्रृतं ‖ ह्रस्वं दीर्घं तनु स्थूलं | जीर्णं शिथिलबंधनं।",
         "sandhi": "अः + घोष → ओ: तीक्ष्णः + बस्तिः → तीक्ष्णो बस्तिः; इः + त → इस्त: बस्तिः + तथा → बस्तिस्तथा; म् + अ: तैलम् + अर्क → तैलमर्क।",
@@ -930,7 +931,7 @@ IMAGE_SPECS = {
         "file": "ka7-mala-lakshana-12.svg",
         "alt": "Mind map of the sure signs in line 2 of verse 12 for the sneha covered by stool: stool, urine and wind (with an unclear word), heaviness, distension, seizing of the heart",
         "type": "mermaid",
-        "code": ('mindmap\n  मल से आवृत स्नेह के लक्षण\n    मल, मूत्र, वायु\n    भारीपन\n'
+        "code": ('mindmap\n  मल से आवृत स्नेह के लक्षण\n    मल-मूत्र-वायु: अस्पष्ट शब्द\n    भारीपन\n'
                  '    आध्मान यानी अफारा\n    हृद्ग्रह\n'),
     },
     ("13", "chain"): {
@@ -953,8 +954,8 @@ IMAGE_SPECS = {
         "file": "ka7-nivartana-17.svg",
         "alt": "Flowchart: sneha coming from the throat, then actions that destroy vomiting, then its turning back",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कण्ठ से आता स्नेह"] --> B["उल्टी नष्ट करने<br/>वाली क्रियाएँ"]\n'
-                 '  B --> C["उसका निवर्तन<br/>यानी लौटाना"]\n'),
+        "code": ('flowchart TD\n  A["कण्ठ से आता स्नेह"] --> B["उल्टी-नाशक क्रियाएँ"]\n'
+                 '  B --> C["निवर्तन यानी लौटाना"]\n'),
     },
     ("19", "seesaw"): {
         "file": "ka7-netra-dosha-19.svg",
