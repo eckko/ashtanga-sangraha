@@ -17,7 +17,7 @@ AUTHORED["102"] = {
                    "फिर प्रत्येक अंगुली में तीन अस्थियाँ बताई गई हैं, और अन्त में ‘तानि पंचदश’, वे पन्द्रह। "
                    "‘पन्द्रह’ को पाँच अंगुलियों की तीन-तीन अस्थियाँ माना गया है, पर संस्कृत स्वयं नहीं कहती कि क्या गिना गया। "
                    "छपाई में ‘एकैकस्मिन्’ (एक-एक में) दो टुकड़ों में बँटा है।"),
-    "hook": "एक पैर: पाँच नख, हर अंगुली में तीन, कुल पन्द्रह।",
+    "hook": "एक पैर: पाँच नख, हर अंगुली में तीन; ‘वे पन्द्रह’ (३ × ५ माना गया)।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 102, how many bones are in each toe of the lower limb?",
@@ -87,9 +87,9 @@ AUTHORED["103"] = {
             "Five foot-rods are counted.",
             "पञ्च पादशलाकाः."),
         order(1, "Put these parts of unit 103 in the line's order.",
-              ["पंचपादशलाकाः", "तत्प्रतिबंधकमेकं", "द्वे द्वे", "कूर्च्चगुल्फजंघासु", "एकैकं पाणिर्जानूरुषु"],
-              "Five foot-rods; one binder of them; two each in the kūrca, ankle and shank; one each in the last places.",
-              "पादशलाकाः → प्रतिबन्धकम् → द्वे द्वे → कूर्चगुल्फजङ्घासु → एकैकम्."),
+              ["पंचपादशलाकाः", "तत्प्रतिबंधकमेकं", "द्वे द्वे", "कूर्च्चगुल्फजंघास्वेकैकं"],
+              "Five foot-rods; one binder of them; two each in the kūrca, ankle and shank; then 'one each' (the doubtful last word is left out).",
+              "पादशलाकाः → प्रतिबन्धकम् → द्वे द्वे → कूर्चगुल्फजङ्घास्वेकैकम्."),
         match(2, "Match each word of unit 103 to its meaning.",
               [["शलाका", "rod, splint"], ["प्रतिबन्धक", "binder"], ["गुल्फ", "ankle"], ["जङ्घा", "shank"],
                ["द्वे द्वे", "two each"]],
@@ -113,7 +113,7 @@ AUTHORED["103"] = {
               "पञ्च पादशलाकाः, एकं प्रतिबन्धकम्, द्वे द्वे कूर्चगुल्फजङ्घासु."),
         mcq("transfer", 5, "By the rule of जङ्घासु + एकैकम्, how is वस्तु + एव (the thing itself) written when joined?",
             ("वस्त्वेव", "उ before ए becomes व्, as जङ्घासु + एकैकम् → जङ्घास्वेकैकम्."),
-            [("वस्तेव", "ए alone would come from अ + इ or अ + ए, not from उ + ए."),
+            [("वस्तेव", "ए would come from अ + इ (अ + ए gives ऐ), not from उ + ए."),
              ("वस्तवेव", "अव् comes from ओ before a vowel, not from उ."),
              ("वस्तोव", "ओ comes from अ + उ, not from उ + ए.")],
             "वस्तु + एव = वस्त्वेव, like जङ्घासु + एकैकम् = जङ्घास्वेकैकम्.",
@@ -187,7 +187,7 @@ AUTHORED["105"] = {
     "rule": ("Twenty-four (चतुर्विंशतिः) ribs (पर्शुकाः). The number word is feminine singular; the counted noun stands "
              "in the plural beside it."),
     "limits": ("Prose, two words; no verb is printed (the copula is understood). The line does not say whether the 24 are "
-               "per side or in all: no question on that."),
+               "per side or in all: questions only ask that it is left open."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: चौबीस पर्शुकाएँ, यानी पसलियाँ। "
                    "‘चतुर्विंशति’ = चतुर् (चार) + विंशति (बीस)। "
                    "संख्या-शब्द ‘चतुर्विंशतिः’ स्त्रीलिंग एकवचन है, जबकि गिनी गई वस्तु ‘पर्शुकाः’ बहुवचन में है। "
@@ -286,7 +286,7 @@ AUTHORED["106"] = {
               "तावन्त्येव तत्स्थालकानि."),
         mcq("transfer", 5, "By the rule of तावन्ति + एव, how is अस्ति + एव (is indeed) written when joined?",
             ("अस्त्येव", "इ before ए becomes य्, as तावन्ति + एव → तावन्त्येव."),
-            [("अस्तेव", "ए alone would come from अ + इ or अ + ए, not from इ + ए."),
+            [("अस्तेव", "ए would come from अ + इ (अ + ए gives ऐ), not from इ + ए."),
              ("अस्तीव", "ई comes from इ + इ, not from इ + ए."),
              ("अस्तयेव", "अय् comes from ए before a vowel; अस्ति ends in इ.")],
             "अस्ति + एव = अस्त्येव, like तावन्ति + एव = तावन्त्येव.",
@@ -333,12 +333,12 @@ AUTHORED["107"] = {
              ("Nothing; it names bones", "No word for bones is printed in the line.")],
             "The number and the place are printed; the counted noun is not.",
             "त्रिंशत् पृष्ठे: number + place, no noun."),
-        mcq("apply", 4, "If त्रिंशत् stood before अस्थीनि (bones) in a new phrase, how would the two be joined?",
-            ("त्रिंशदस्थीनि", "त् before a vowel becomes द्."),
-            [("त्रिंशतस्थीनि", "Before a vowel the final त् becomes द्; it does not stay त्."),
-             ("त्रिंशन्नस्थीनि", "न् would come before a nasal, not before a vowel."),
-             ("त्रिंशच्चस्थीनि", "च्च comes from त् before च, not before a vowel.")],
-            "त्रिंशत् + अस्थीनि = त्रिंशदस्थीनि.",
+        mcq("apply", 4, "If त्रिंशत् stood before अश्वाः (horses) in a new phrase, how would the two be joined?",
+            ("त्रिंशदश्वाः", "त् before a vowel becomes द्."),
+            [("त्रिंशतश्वाः", "Before a vowel the final त् becomes द्; it does not stay त्."),
+             ("त्रिंशन्नश्वाः", "न् would come before a nasal, not before a vowel."),
+             ("त्रिंशच्चश्वाः", "च्च comes from त् before च, not before a vowel.")],
+            "त्रिंशत् + अश्वाः = त्रिंशदश्वाः.",
             "त् + vowel → द्."),
         mcq("transfer", 5, "By the pattern of पृष्ठे (in the back, from पृष्ठ), how is in the house said from गृह?",
             ("गृहे", "An अ-stem takes -ए for 'in': पृष्ठ → पृष्ठे, गृह → गृहे."),
@@ -508,7 +508,7 @@ AUTHORED["110"] = {
             ("Whether it is the total or per side", "The note: total or per side is not stated."),
             [("Whether the place is the hips", "The place is printed: नितम्बयोः, in the two hips."),
              ("Whether the number is really two", "The number is printed: द्वे, two."),
-             ("Whether च (and) joins it to the list of the units before", "च (and) is printed and adds it to the count.")],
+             ("Whether the word च (and) is printed", "च is printed: नितम्बयोश्च.")],
             "Total or per side is not stated.",
             "नितम्बयोश्च द्वे: side not stated."),
         mcq("transfer", 5, "By the pattern of नितम्बयोः (in the two hips), how is in the two hands said from हस्त?",
@@ -539,10 +539,10 @@ AUTHORED["111"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 111, how is the number for these places given?",
-            ("Not printed: तद्वत् carries it over", "The note: 'likewise' = the same number as in unit 110."),
-            [("As eight, printed in this very line", "No number is printed; तद्वत् carries it over."),
-             ("As thirty, printed in this very line", "No number is printed; तद्वत् carries it over."),
-             ("As one each, printed in this very line", "No number is printed; तद्वत् carries it over.")],
+            ("By तद्वत्, the number of unit 110", "The note: 'likewise' = the same number as in unit 110."),
+            [("By a numeral, eight, printed here", "No number is printed; तद्वत् carries it over."),
+             ("By तद्वत्, the thirty of unit 107", "The note ties 'likewise' to unit 110, not unit 107."),
+             ("By a numeral, one each, printed here", "No number is printed; तद्वत् carries it over.")],
             "The number is not printed; तद्वत् carries it over.",
             "तद्वत् = likewise."),
         match(1, "Match each sure part of unit 111 to its meaning.",
@@ -711,7 +711,7 @@ AUTHORED["114"] = {
                    "‘तानि’ (वे) इकाई १०७-११३ में गिनी अस्थियों की ओर संकेत करता है। "
                    "‘मध्य’ छपे रूप में रखा गया है; ‘वंक्षणमध्य’ (वंक्षण का मध्य) भी पढ़ा जा सकता है। "
                    "रुचक, तरुण, वलय और नलक वर्ग इकाई ११५-११७ में आते हैं।"),
-    "hook": "चपटी प्लेट जैसी हड्डियाँ: कपाल।",
+    "hook": "‘कपाल’ (शब्दार्थ खपरा, प्लेट): पहले अस्थि-वर्ग का नाम।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 114, what name is given to the bones of the knees, hips, shoulders and head?",
@@ -767,7 +767,7 @@ NOTES_HI = {
     "103": ("गद्य; विश्वास निम्न। पाठ-चिह्न: छपा ‘पाणि’ (हाथ) पैर की सूची में नहीं बैठता और समास में विसर्ग/र् भी नहीं होना चाहिए; "
             "अनुमानित पाठ ‘पार्ष्णि’ (एड़ी)। अन्तिम शब्द पर कोई प्रश्न नहीं। ‘कूर्च’ का अर्थ अनिश्चित है, इसलिए उसका अनुवाद नहीं किया गया। "
             "‘तत्’ को शलाकाओं की ओर माना गया। छपा ‘कूर्च्च’ (दोहरा च) सामान्य किया गया। जोड़: ५ + १५ + ५ + १ + २ + २ + २ + १ + १ + १ = ३५, "
-            "सक्थि का चौथाई भाग; यह केवल गणना का प्रमाण है। सन्धि जाँची: जङ्घासु + एकैकम् → जङ्घास्वेकैकम् (उ + ए → वे); "
+            "यानी इकाई १०१ की शाखाओं वाली १४० का चौथाई (एक अंग); यह केवल गणना का प्रमाण है। सन्धि जाँची: जङ्घासु + एकैकम् → जङ्घास्वेकैकम् (उ + ए → वे); "
             "प्रतिबन्धकम् + एकम् → प्रतिबन्धकमेकम्।"),
     "104": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। छपा ‘वाह्वोः’ = बाह्वोः (व/ब का अदल-बदल, सामान्य किया गया)। ‘सर्वाणिच’ = सर्वाणि च। "
             "क्रिया समझी जाती है। सन्धि जाँची: नख + अस्थि + आदीनि → नखास्थ्यादीनि (अ + अ → आ; इ + आ → या); सक्थिवत् + बाह्वोः → "
@@ -810,7 +810,7 @@ AIDS = {
                                                               "‘वे पन्द्रह’ (३ × ५ माना गया)"]}]},
         "chunks": "तत्रैकै कस्मिन सक्थिनि | पंच पादनखाः | प्रत्येकमंगुल्यां त्रीण्यस्थीनि | तानि पंचदश",
         "sandhi": "अ + ए → ऐ: तत्र + एक... → तत्रैक... · इ + अ → य: त्रीणि + अस्थीनि → त्रीण्यस्थीनि।",
-        "frame": "कहाँ: एक-एक सक्थि में → क्या: पाँच पादनख → हर अंगुली में: तीन अस्थियाँ → योग: पन्द्रह।",
+        "frame": "कहाँ: एक-एक सक्थि में → क्या: पाँच पादनख → हर अंगुली में: तीन अस्थियाँ → ‘तानि पंचदश’: वे पन्द्रह (३ × ५ माना गया)।",
     },
     "103": {
         "diagram": {"groups": [
@@ -841,7 +841,7 @@ AIDS = {
         "pegs": "‘पृष्ठ’ = पीठ, और पुस्तक का ‘पृष्ठ’ भी: पीठ पर तीस पन्ने। (मेरी याद-पद्धति, केवल याद की सहायता)",
     },
     "108": {
-        "chunks": "अष्टाव् | उरसि",
+        "chunks": "अष्टावुरसि",
         "sandhi": "औ + स्वर → आव्: अष्टौ + उरसि → अष्टावुरसि।",
         "frame": "संख्या: अष्टौ (आठ) → स्थान: उरसि (छाती में) → वस्तु और क्रिया: छपी नहीं।",
     },
@@ -856,7 +856,7 @@ AIDS = {
         "frame": "स्थान: नितम्बयोः (दोनों नितम्बों में) → संख्या: द्वे (दो; कुल या हर ओर, अनकहा)।",
     },
     "111": {
-        "chunks": "तद्वद् | अक्षक(?)कंसांस | फलकेषु",
+        "chunks": "तद्वद् | अक्षकंसांसफलकेषु (विभाजन अनिश्चित)",
         "sandhi": "त् + स्वर → द्: तद्वत् + अ... → तद्वद...",
         "frame": "संख्या: तद्वत् (इकाई ११० जितनी) → स्थान: अनुमानित पाठ पर अक्षक, अंस; पक्का: अंसफलक (कन्धे की चपटी हड्डी)।",
     },
@@ -873,7 +873,7 @@ AIDS = {
             {"label": "सिर-गर्दन की गिनती (क्रम से)", "items": ["१३ ग्रीवा में", "४ कण्ठनाड़ी में (सम्भवतः श्वासनली)",
                                                          "२ हनुबन्धन में", "३२ दाँत", "उतने ही उलूखल (सम्भवतः दाँतों के गड्ढे)",
                                                          "३ नाक में", "६ सिर में"]}]},
-        "chunks": "त्रयोदश ग्रीवायां | चत्वारि कंठनाड्यां | द्वे हनुबंधने | द्वात्रिंशद्दंताः | तद्वदुलूखलानि च | त्रीणि नासायां | षट् शिरसि",
+        "chunks": "त्रयोदश ग्रीवायां | चत्वारि कंठनाड्यांद्वे हनुबंधने | द्वात्रिंशद्दंताः | तद्वदुलूखलानि च | त्रीणि नासायां | षट् शिरसि",
         "sandhi": "त् + घोष → द्: द्वात्रिंशत् + दन्ताः → द्वात्रिंशद्दन्ताः · त् + स्वर → द्: तद्वत् + उलूखलानि → तद्वदुलूखलानि।",
         "pegs": "नीचे से ऊपर की यात्रा: गर्दन → कण्ठ → जबड़ा → दाँत → नाक → सिर; सबसे बड़ा अंक दाँतों का, ३२। (मेरी याद-पद्धति)",
     },
@@ -907,7 +907,7 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "इकाई १०३: पादशलाका और आगे",
         "cols": [["पक्का पाठ", ["पाँच पादशलाकाएँ", "उनका एक प्रतिबन्धक", "कूर्च, गुल्फ, जङ्घा में दो-दो"]],
-                 ["अनुमानित पाठ पर", ["एड़ी (छपा पाणि)", "जानु", "ऊरु", "इनमें एक-एक"]]],
+                 ["अनुमानित पाठ पर: एक-एक", ["एड़ी (छपा पाणि)", "जानु", "ऊरु"]]],
     },
     ("106", "chain"): {
         "file": "sh5-sthalaka-arbuda-106.svg",

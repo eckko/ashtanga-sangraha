@@ -10,9 +10,9 @@ AUTHORED["77"] = {
     "rule": ("From blood (असृज्) comes the kṛṣṇa-maṇḍala (black circle, probably the dark part of the eye); it is born from "
              "the mother (मातृज). In the middle is the dṛṣṭi-maṇḍala (circle of sight, probably the pupil region); it has the "
              "nature of both (उभयात्मक)."),
-    "limits": ("Prose; the verb 'arises' is carried over, not printed. The modern equivalents are probable only. 'Both' presumably "
-               "means father- and mother-born; the line does not say: no question on it. असृजः may be 'of' or 'from' blood: "
-               "no question on its case."),
+    "limits": ("Prose; 'arises' is carried over. Modern equivalents are probable only. 'Both' presumably "
+               "means father- and mother-born; not stated: no question on it. असृजः may be 'of' or 'from' blood; the "
+               "questions follow the data's translation 'from blood' and none turns on the case."),
     "explain_hi": ("यह गद्य-पंक्ति आँख के दो और मण्डल बताती है। "
                    "रक्त (असृज्) से कृष्णमण्डल, यानी सम्भवतः आँख का काला भाग, बनता है; वह मातृज, यानी माता से उत्पन्न, है। "
                    "बीच में (मध्ये) दृष्टिमण्डल है, यानी सम्भवतः पुतली का क्षेत्र; वह उभयात्मक, यानी दोनों के स्वभाव वाला, है। "
@@ -77,7 +77,7 @@ AUTHORED["78"] = {
                    "छपा ‘आस्यानि’ (मुख) अर्थ नहीं देता और छठा नाम जोड़ देता; इसलिए अनुमानित पाठ ‘आख्यानि’ (नाम वाले) लिया गया है। "
                    "उस शब्द पर कोई प्रश्न नहीं। "
                    "शुक्ल, कृष्ण और दृष्टि मण्डल पिछली इकाइयों में भी आए हैं।"),
-    "hook": "पक्ष्म, वर्त्म, शुक्ल, कृष्ण, दृष्टि: बाहर से भीतर पाँच मण्डल।",
+    "hook": "पक्ष्म, वर्त्म, शुक्ल, कृष्ण, दृष्टि: क्रम से पाँच मण्डल।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 78, what are the five things named in this line?",
@@ -157,7 +157,7 @@ AUTHORED["79"] = {
         mcq("discriminate", 3, "Which split of सन्धयश्चत्वारः is right?",
             ("सन्धयः + चत्वारः", "The visarga before च becomes श्: सन्धयः + चत्वारः → सन्धयश्चत्वारः."),
             [("सन्धय + श्चत्वारः", "श्चत्वारः is not a word; the श् comes from the visarga of सन्धयः."),
-             ("सन्धयो + चत्वारः", "सन्धयो is not the word here; ओ comes from अः only before a voiced sound."),
+             ("सन्धयो + चत्वारः", "सन्धयो is not the word here; ओ comes from अः only before a voiced consonant (or before अ)."),
              ("सन्धि + अश्चत्वारः", "अश्चत्वारः is not a word, and the form is सन्धयः, the plural.")],
             "सन्धयः (junctions) + चत्वारः (four): ः before च → श्.",
             "Visarga before च or छ → श्."),
@@ -170,7 +170,7 @@ AUTHORED["79"] = {
             "तत्- = of those (the five maṇḍalas)."),
         mcq("transfer", 5, "By the rule of सन्धयश्चत्वारः, how is रामः + चलति (Rāma moves) joined?",
             ("रामश्चलति", "The visarga before च becomes श्, as सन्धयः + चत्वारः."),
-            [("रामो चलति", "ओ comes from अः only before a voiced sound; च is unvoiced."),
+            [("रामो चलति", "ओ comes from अः only before a voiced consonant (or before अ); च is unvoiced."),
              ("रामस्चलति", "Before च the visarga becomes श्, not स्."),
              ("राम चलति", "Before च the visarga is not dropped; it becomes श्.")],
             "रामः + चलति = रामश्चलति, like सन्धयः + चत्वारः = सन्धयश्चत्वारः.",
@@ -196,7 +196,7 @@ AUTHORED["80"] = {
     "hook": "दो और: बाहरी कोना और (सम्भवतः) भीतरी कोना।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 80, at which places are the two placed?",
+        mcq("pretest", 0, "By unit 80, which two places does the line name with its two?",
             ("At the apāṅga and the kanīna", "चापांगकनीनयोः: at the outer corner and (probably) the inner corner."),
             [("At the upper and the lower eyelids", "The line names the apāṅga and kanīna, not the eyelids."),
              ("At the root and the tip of the tongue", "The tongue is not named; the line names the eye's corners."),
@@ -205,7 +205,7 @@ AUTHORED["80"] = {
             "द्वौ च अपाङ्गकनीनयोः."),
         match(1, "Match each word of unit 80 to its meaning.",
               [["द्वौ", "two"], ["च", "and"], ["अपाङ्ग", "outer corner of the eye"],
-               ["कनीन", "probably the inner corner of the eye"]],
+               ["कनीन", "inner corner or pupil (sense not firm)"]],
               "And two, at the outer corner and (probably) the inner corner.",
               "द्वौ, च, अपाङ्ग, कनीन."),
         fill(2, "च + अपाङ्ग is joined as ____ (type it in Devanagari or in English letters, e.g. dharma).",
@@ -312,7 +312,7 @@ AUTHORED["82"] = {
     "questions": [
         mcq("pretest", 0, "By unit 82, what are said to be six?",
             ("The paṭalas, the layers", "षट् च पटलानि: and six paṭalas (layers)."),
-            [("The junctions of the maṇḍalas", "The junctions are counted in unit 79; this line counts paṭalas."),
+            [("The two eyelids (vartman)", "The eyelids are two, named in unit 83; this line counts six paṭalas."),
              ("The binding strands", "The binding strands come in unit 85; this line counts paṭalas."),
              ("The circles of the eye", "The circles (maṇḍala) are five, in unit 78; this line counts paṭalas.")],
             "Unit 82 counts six paṭalas, layers.",
@@ -327,12 +327,12 @@ AUTHORED["82"] = {
              "पटलानि = layers, neuter nominative plural of पटल.",
              "षट् च पटलानि."),
         mcq("discriminate", 3, "Why does षट् stay unchanged before च in unit 82?",
-            ("च is unvoiced, so ट् stays as it is", "ट् would become ड् only before a voiced sound."),
-            [("ट् never changes in any sandhi", "It does: before a vowel or voiced sound ट् becomes ड् (षडङ्ग)."),
+            ("च is unvoiced, so ट् stays as it is", "ट् would become ड् only before a vowel or a voiced non-nasal consonant."),
+            [("ट् never changes in any sandhi", "It does: before a vowel or a voiced non-nasal consonant ट् becomes ड् (षडङ्ग)."),
              ("The print leaves out a due sandhi", "No sandhi is due; ट् stays before the unvoiced च."),
              ("च always makes the sound before it voiced", "च is unvoiced; it does not make ट् voiced.")],
             "Before the unvoiced च, ट् stays: षट् च.",
-            "ट् stays before an unvoiced consonant; it becomes ड् before a vowel or voiced sound."),
+            "ट् stays before an unvoiced consonant; it becomes ड् before a vowel or a voiced non-nasal consonant."),
         mcq("apply", 4, "By the card, whose layers are the six paṭalas, and does the line say so?",
             ("The eye's; known from the context", "The data: of the eye, from the context; the eye is not named in this line."),
             [("The eye's; the line names the eye", "The line does not name the eye; the context shows it."),
@@ -346,8 +346,8 @@ AUTHORED["82"] = {
              ("षडाङ्गानि", "The vowel अ does not lengthen; only ट् changes to ड्."),
              ("षण्णङ्गानि", "ण् is not taken before a vowel; ट् becomes ड्.")],
             "षट् + अङ्गानि = षडङ्गानि; षट् + च = षट् च.",
-            "ट् before a vowel or voiced sound → ड्; before an unvoiced sound it stays.",
-            teaches="A final ट् stays before an unvoiced sound (षट् च) and becomes ड् before a vowel or voiced sound (षडङ्गानि)."),
+            "ट् before a vowel or a voiced non-nasal consonant → ड्; before an unvoiced sound it stays.",
+            teaches="A final ट् stays before an unvoiced sound (षट् च) and becomes ड् before a vowel or a voiced non-nasal consonant (षडङ्गानि)."),
     ],
 }
 
@@ -413,13 +413,13 @@ AUTHORED["83"] = {
 
 # ---------------------------------------------------------------- unit 84
 AUTHORED["84"] = {
-    "title": "बाह्यं चाश्रितमग्न्यंभसी द्वितीयं मांसं",
+    "title": "तृतीयं मेदश्चतुर्थमस्थि",
     "question": "By unit 84, which items are named as third and fourth, and what is left unsettled?",
     "rule": ("A compressed series: the outer one, resting on fire and water (reading not settled); second flesh (मांस), "
              "third fat (मेदस्), fourth bone (अस्थि); their thickness (बहुलता) is by a fifth part of sight (दृष्टि)."),
-    "limits": ("Low confidence. The noun is not stated (probably paṭala). The first part (बाह्यं च आश्रितम् अग्न्यम्भसी) and "
-               "its split are not settled; दृष्टेः पञ्चमांशेन is kept literal: no question on either. Questions rest on the "
-               "sure words तृतीयं मेदः, चतुर्थम् अस्थि."),
+    "limits": ("Low confidence; the noun (probably paṭala) is unstated. The first part (बाह्यं च आश्रितम् अग्न्यम्भसी) and "
+               "its split are not settled; दृष्टेः पञ्चमांशेन is kept literal: no question on their reading or meaning (one multi only asks that they are unsettled). Questions rest on तृतीयं मेदः, चतुर्थम् अस्थि."
+               ""),
     "explain_hi": ("यह गद्य-पंक्ति कठिन और संक्षिप्त है; विश्वास कम है। "
                    "गिनी जा रही संज्ञा नहीं दी गई; वह सम्भवतः पटल (इकाई ८२) है। "
                    "पहला अंश ‘बाहरी, और अग्नि तथा जल पर आश्रित’ अनिश्चित है, और उसका पद-विभाग भी केवल सम्भावित है। "
@@ -435,13 +435,13 @@ AUTHORED["84"] = {
              ("Skin (त्वक्)", "Skin is not named in unit 84.")],
             "The third is medas, fat; the fourth is bone.",
             "तृतीयं मेदः."),
-        order(1, "Put these printed words of unit 84 in the line's order.",
+        order(1, "Put these words of unit 84 in the line's order.",
               ["मांसं", "तृतीयं", "मेदः", "चतुर्थम्", "अस्थि"],
               "Flesh; third, fat; fourth, bone.",
               "मांसं → तृतीयं → मेदः → चतुर्थम् → अस्थि."),
         match(2, "Match each word of unit 84 to its meaning.",
               [["तृतीय", "third"], ["चतुर्थ", "fourth"], ["मेदस्", "fat"], ["अस्थि", "bone"], ["बहुलता", "thickness, abundance"]],
-              "Third fat, fourth bone; their thickness is stated in a part of sight.",
+              "Third fat, fourth bone; their thickness is by a fifth part of sight (kept literal).",
               "तृतीय, चतुर्थ, मेदस्, अस्थि, बहुलता.", role="extend",
               teaches="तृतीय = third, चतुर्थ = fourth: ordinal numbers that agree with the unnamed noun (neuter here)."),
         mcq("discriminate", 3, "Which split of चतुर्थमस्थि in unit 84 is right?",
@@ -594,7 +594,7 @@ AUTHORED["87"] = {
     "rule": ("The tejas (fire, radiance) resting in the eye becomes fit for its work (कर्मण्य) through union (योग) with the "
              "outer tejas, its own source, as a weapon (शस्त्र) does with a stone (अश्मन्); through excessive union "
              "(अतियोग) it is harmed (उपहन्यते)."),
-    "limits": ("Prose: two sentences run together in the print (a visarga after भवति stands for a full stop). The stone is "
+    "limits": ("Prose: two sentences run together in the print (a visarga after भवति probably stands for a full stop, a misprinted danda). The stone is "
                "probably a whetstone, but the Sanskrit says only stone: no question on the kind of stone. What counts as "
                "excess is not stated."),
     "explain_hi": ("यह गद्य-पंक्ति आँख के तेज की बात करती है। "
@@ -602,7 +602,7 @@ AUTHORED["87"] = {
                    "पर अतियोग, यानी बहुत अधिक योग, से वह क्षति पाता है (उपहन्यते)। "
                    "पत्थर सम्भवतः सान का पत्थर है, पर संस्कृत केवल ‘पत्थर’ कहती है। "
                    "छपाई में ‘भवति’ के बाद का विसर्ग सम्भवतः दण्ड है; दो वाक्य जुड़े छपे हैं।"),
-    "hook": "बाहरी तेज से योग: धार; अतियोग: हानि।",
+    "hook": "बाहरी तेज से योग: कर्मण्य; अतियोग: हानि।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 87, through union with what does the eye's tejas become fit for its work?",
@@ -621,7 +621,7 @@ AUTHORED["87"] = {
                ["कर्मण्य", "fit for its work"], ["उपहन्यते", "is harmed"]],
               "Union with the outer tejas makes it fit, like a weapon with a stone; excess harms it.",
               "बाह्य, स्वयोनि, शस्त्र, अश्मन्, कर्मण्य, उपहन्यते.", role="extend",
-              teaches="योग = union, proper contact; अतियोग = excessive union: the same contact that helps, in excess, harms."),
+              teaches="योग = union; अतियोग = excessive union: the same contact that helps, in excess, harms."),
         mcq("discriminate", 3, "Which split of योगाच्छस्त्रम् in unit 87 is right?",
             ("योगात् + शस्त्रम्", "त् before श becomes च्, and श after it is written छ: योगाच्छस्त्रम्."),
             [("योगाः + शस्त्रम्", "A visarga before श would give योगाः शस्त्रम् or योगाश्शस्त्रम्, not च्छ."),
@@ -666,16 +666,16 @@ AUTHORED["88"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 88, why does the tejas not abandon its fiery nature in water?",
-            ("The excellence of its vīrya", "वीर्योत्कर्षात्: because of the excellence of its potency."),
+            ("Because its vīrya excels", "वीर्योत्कर्षात्: because of the excellence of its potency."),
             [("Because it stays far from all water", "It is even in the midst of water: अम्भोमध्यगमपि."),
              ("Because Kapha shields it from water", "Kapha is not named in unit 88; the cause is vīrya."),
              ("Because the mind keeps it burning", "The mind is not named in unit 88; the cause is vīrya.")],
             "Its potency (vīrya) is so strong that it keeps its fiery nature.",
             "वीर्योत्कर्षात् तेजस्त्वं न जहाति."),
         order(1, "Put these phrases of unit 88 in the line's order.",
-              ["तच्च", "वैद्युतवद्", "वडवामुखवच्च", "अम्भोमध्यगमपि", "वीर्योत्कर्षात्", "तेजस्त्वं न जहाति"],
+              ["तच्च", "वैद्युतवत्", "वडवामुखवत् च", "अम्भोमध्यगम् अपि", "वीर्योत्कर्षात्", "तेजस्त्वं न जहाति"],
               "And that, like lightning, and like the vaḍavāmukha, even in the midst of water, from the excellence of vīrya, does not abandon its fiery nature.",
-              "तच्च → वैद्युतवद् → वडवामुखवच्च → अम्भोमध्यगमपि → वीर्योत्कर्षात् → तेजस्त्वं न जहाति."),
+              "तच्च → वैद्युतवत् → वडवामुखवत् च → अम्भोमध्यगम् अपि → वीर्योत्कर्षात् → तेजस्त्वं न जहाति."),
         match(2, "Match each word of unit 88 to its meaning.",
               [["वैद्युत", "of lightning"], ["वडवामुख", "the submarine fire"], ["अम्भस्", "water"], ["वीर्य", "potency"],
                ["जहाति", "abandons"]],
@@ -807,7 +807,7 @@ NOTES_HI = {
     "88": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘तत्’ = इकाई ८७ का नेत्र-तेज। वड़वामुख = समुद्र के नीचे जलने वाली अग्नि (संस्कृत "
            "साहित्य में मानक)। छपा ‘वीर्य्यो’ में दोहरा य् छपाई की आदत। सन्धि जाँची: तत् + च → तच्च (च से पहले त् → च्); वैद्युतवत् + "
            "वडवा... → वैद्युतवद्वडवा... (घोष व से पहले त् → द्); ...वत् + च → ...वच्च; च + अम्भः → चाम्भः (अ + अ → आ); अम्भः + मध्य "
-           "→ अम्भोमध्य (अः + घोष → ओ); वीर्य + उत्कर्षात् → वीर्योत्कर्षात् (अ + उ → ओ)।"),
+           "→ अम्भोमध्य (अः + घोष व्यंजन → ओ); वीर्य + उत्कर्षात् → वीर्योत्कर्षात् (अ + उ → ओ)।"),
     "89": ("गद्य, दो पंक्तियाँ; विश्वास उच्च। पाठ-चिह्न: छपा ‘जिव्हा’ = जिह्वा (ह्व/व्ह अक्षर-उलट, लगभग निश्चित)। दूसरी पंक्ति में क्रिया "
            "(जायेते) पहली से समझी जाती है; अन्तिम ‘इति’ कथन का अन्त दिखाता है। सन्धि जाँची: मांस + असृक् → मांसासृक् (अ + अ → आ); "
            "असृज् + कफ → असृक्कफ (अघोष क से पहले ज् → क्); प्रसादात् + तु → प्रसादात्तु; प्रसादात् + वृषणौ → प्रसादाद्वृषणौ (घोष व से पहले "
@@ -826,7 +826,7 @@ AIDS = {
     },
     "78": {
         "chain": {"steps": ["१ पक्ष्म (पलक के बाल)", "२ वर्त्म (पलक)", "३ शुक्ल (सफेद)", "४ कृष्ण (काला)", "५ दृष्टि"]},
-        "chunks": "पक्ष्म | वर्त्म | शुक्ल | कृष्ण | दृष्ट्यास्यानि (अनुमानित: दृष्ट्याख्यानि) | पंच मंडलानि",
+        "chunks": "पक्ष्मवर्त्मशुक्लकृष्णदृष्ट्यास्यानि | पंच मंडलानि",
         "letters": "पहले अक्षर क्रम से: प-व-शु-कृ-दृ (पक्ष्म, वर्त्म, शुक्ल, कृष्ण, दृष्टि)। (मेरी याद-पद्धति)",
     },
     "79": {
@@ -845,7 +845,7 @@ AIDS = {
     },
     "82": {
         "frame": "कितने: षट् (छह) → और: च → क्या: पटलानि (परतें; प्रसंग से आँख की)।",
-        "sandhi": "अघोष च से पहले ट् बना रहता: षट् च · स्वर या घोष से पहले ट् → ड्: षडङ्गानि (नया उदाहरण)।",
+        "sandhi": "अघोष च से पहले ट् बना रहता: षट् च · स्वर या घोष (अनुनासिक छोड़) से पहले ट् → ड्: षडङ्गानि (नया उदाहरण)।",
     },
     "83": {
         "frame": "कितनी: द्वे (दो, नपुंसक) → क्या: वर्त्मनी (पलकें, नपुंसक द्विवचन)।",
@@ -855,7 +855,7 @@ AIDS = {
     "84": {
         "chain": {"steps": ["(पहला अंश: बाहरी, अग्नि-जल पर आश्रित; अनिश्चित)", "द्वितीय: मांस", "तृतीय: मेद (चर्बी)",
                             "चतुर्थ: अस्थि (हड्डी)"]},
-        "chunks": "बाह्यं चाश्रितमग्न्यंभसी | द्वितीयं मांसं | तृतीयं मेदः | चतुर्थमस्थि | तेषां बहुलता दृष्टेः पंचमांशेन",
+        "chunks": "बाह्यं | चाश्रितमग्न्यंभसीद्वितीयं | मांसं.तृतीयं | मेदश्चतुर्थमस्थि | तेषां बहुलता | दृष्टेः पंचमांशेन",
         "sandhi": "च से पहले विसर्ग → श्: मेदः + चतुर्थम् → मेदश्चतुर्थम् · स्वर से पहले म्: चतुर्थम् + अस्थि → चतुर्थमस्थि।",
     },
     "85": {
@@ -867,25 +867,25 @@ AIDS = {
         "letters": "पहले अक्षर क्रम से: सि-क-मे-क (सिरा, कण्डरा, मेद, कफ)। (मेरी याद-पद्धति)",
     },
     "86": {
-        "chunks": "श्लेष्मा तु | परं सर्वसंधिबंधनम् | इत्युक्तं प्राक्",
+        "chunks": "श्लेष्मा तु | परंसर्वसंधिबंधनमित्युक्तं | प्राक्",
         "sandhi": "इ + भिन्न स्वर → य्: इति + उक्तम् → इत्युक्तम्।",
         "frame": "कौन: श्लेष्मा (कफ) → क्या: परं सर्वसन्धिबन्धनम् (सब जोड़ों का मुख्य बन्धन) → स्रोत: इत्युक्तं प्राक् (पहले कहा गया)।",
     },
     "87": {
         "chain": {"steps": ["नेत्र में आश्रित तेज", "बाहरी तेज (अपना उद्गम) से योग", "कर्म के योग्य (जैसे शस्त्र पत्थर से)",
                             "अतियोग से क्षति"]},
-        "contrast": "योग ↔ अतियोग: बाहरी तेज से उचित योग आँख के तेज को कर्मण्य बनाता है; अतियोग उसे उपहत करता है।",
+        "contrast": "योग ↔ अतियोग: बाहरी तेज से योग आँख के तेज को कर्मण्य बनाता है; अतियोग उसे उपहत करता है।",
         "sandhi": "त् + श → च्छ: योगात् + शस्त्रम् → योगाच्छस्त्रम् · अ + अ → आ: इव + अश्मना → इवाश्मना।",
         "story": "शस्त्र पत्थर पर घिसकर काम का बनता है; बहुत घिसो तो धार ही घिस जाती है। (मेरा बनाया चित्र; पाठ केवल शस्त्र और पत्थर कहता है)",
     },
     "88": {
-        "chunks": "तच्च | वैद्युतवद् | वडवामुखवच्च | अम्भोमध्यगमपि | वीर्योत्कर्षात् | तेजस्त्वं न जहाति",
+        "chunks": "तच्च | वैद्युतवद्वडवामुखवच्चांभोमध्यगमपि | वीर्योत्कर्षात्तेजस्त्वं | न जहाति",
         "sandhi": "अ + उ → ओ: वीर्य + उत्कर्षात् → वीर्योत्कर्षात् · घोष व से पहले त् → द्: वैद्युतवत् + वडवा → वैद्युतवद्वडवा।",
         "frame": "उपमा: बिजली, वड़वामुख → स्थिति: जल के बीच में भी → कारण: वीर्य की प्रबलता → फल: तेजत्व नहीं छोड़ता।",
     },
     "89": {
         "contrast": "जिह्वा: मांस, रक्त, कफ का प्रसाद ↔ वृषण: मांस, रक्त, कफ और मेद का प्रसाद। अन्तर केवल मेद।",
-        "chunks": "मांसासृक्कफप्रसादात्तु | जिव्हा जायते | मांसासृक्कफमेदःप्रसादाद् | वृषणाविति",
+        "chunks": "मांसासृक्कफप्रसादात्तु | जिव्हा जायते | मांसासृक्कफमेदःप्रसादाद्वृषणाविति",
         "sandhi": "औ + स्वर → आव्: वृषणौ + इति → वृषणाविति · घोष व से पहले त् → द्: प्रसादात् + वृषणौ → प्रसादाद्वृषणौ।",
     },
 }
