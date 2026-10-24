@@ -343,7 +343,7 @@ AUTHORED["20"] = {
               "बला, अतिबला, षष्टिक, काकोली, जाङ्गल.", role="extend",
               teaches="जाङ्गल = animals of arid country; their broth (रस) is meant."),
         mcq("discriminate", 3, "Which split of भोजयेच्छीत is right?",
-            ("भोजयेत् + शीत", "Right: त् + श → च्श / च्छ (optional, before a vowel); the print has च्छ: भोजयेत् + शीत = भोजयेच्छीत."),
+            ("भोजयेत् + शीत", "त् + श → च्श / च्छ (optional, before a vowel); the print has च्छ: भोजयेत् + शीत = भोजयेच्छीत."),
             [("भोजये + च्छीत", "च्छीत is not a word; the word is शीत (cool)."),
              ("भोजयेत् + छीत", "छीत is not a word; the छ comes from श after त्."),
              ("भोजयेः + शीत", "The data reads भोजयेत्, 3 sg. opt.; ः + श would not give च्छ.")],

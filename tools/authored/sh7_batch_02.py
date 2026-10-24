@@ -157,7 +157,7 @@ AUTHORED["16"] = {
             ("Visarga before त becomes स्", "विशेषः + तु → विशेषस्तु; likewise मणिबन्धः + तथा → मणिबन्धस्तथा."),
             [("Visarga before any consonant becomes स्", "Not any: before the voiced म, गुल्फः became गुल्फो."),
              ("Visarga before a vowel becomes स्", "तु begins with the consonant त, not a vowel."),
-             ("Visarga before a voiced sound becomes स्", "त is not voiced; before a voiced sound अः gives ओ.")],
+             ("Visarga before a voiced sound becomes स्", "त is not voiced; before a voiced consonant अः gives ओ.")],
             "विशेषः + तु: visarga before त → स्.",
             "Visarga + त → स्त."),
         mcq("apply", 4, "By unit 16, what follows the piercing (vyadha) of those two?",

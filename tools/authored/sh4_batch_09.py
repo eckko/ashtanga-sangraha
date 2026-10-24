@@ -89,7 +89,7 @@ AUTHORED["110"] = {
             "It introduces the verses that follow; the noun itself is understood.",
             "भवन्ति च अत्र = and on this there are (verses)."),
         mcq("warmup", 1, "In भवन्ति चात्र, which word is understood but not printed?",
-            ("The noun 'verses'", "Right: 'verses' is the usual understood noun; it is not in the Sanskrit."),
+            ("The noun 'verses'", "'verses' is the usual understood noun; it is not in the Sanskrit."),
             [("The verb 'there are'", "The verb is printed: भवन्ति."),
              ("The word 'and'", "'And' is printed: च, inside चात्र."),
              ("The word 'here'", "'Here, on this' is printed: अत्र, inside चात्र.")],

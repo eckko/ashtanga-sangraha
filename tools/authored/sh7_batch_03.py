@@ -403,7 +403,7 @@ AUTHORED["34"] = {
             ("A visarga before च becomes श्", "उभयतः + चतस्रः: visarga before च → श्."),
             [("A visarga before any consonant → श्", "Not any: before त it becomes स् (मातृकास्तासु, card 35)."),
              ("उभयतश् is the word's own form", "The word is उभयतः (ind.); श् comes from sandhi."),
-             ("Visarga before a voiced sound → श्", "च is not voiced; before a voiced sound अः gives ओ.")],
+             ("Visarga before a voiced sound → श्", "च is not voiced; before a voiced consonant अः gives ओ.")],
             "उभयतः + चतस्रः → उभयतश्चतस्रः: visarga before च → श्.",
             "Visarga + च/छ → श्."),
         mcq("transfer", 5, "By the rule of उभयतश्च-, how is नराः + चरन्ति (men move) joined in a new example?",

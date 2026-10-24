@@ -361,7 +361,7 @@ AUTHORED["87"] = {
              ("तस्मान्गच्छति", "न् may replace त् only before a nasal; ग is not one.")],
             "तस्मात् + गच्छति = तस्माद्गच्छति.",
             "त् + voiced sound → द्.",
-            teaches="A final त् before a voiced sound such as व or ग becomes द् (not before ल, ज or a nasal): तस्मात् + विचक्षणः → तस्माद्विचक्षणः, तस्मात् + गच्छति → तस्माद्गच्छति."),
+            teaches="A final त् before a voiced sound such as व or ग becomes द् (before ज/ल it assimilates; before a nasal न् is optional, द् also correct): तस्मात् + विचक्षणः → तस्माद्विचक्षणः, तस्मात् + गच्छति → तस्माद्गच्छति."),
     ],
 }
 
