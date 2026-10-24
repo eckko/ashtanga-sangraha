@@ -50,7 +50,7 @@ AUTHORED["23"] = {
               "Unit 23's patients are weak or unready: lean, weak, soft bowel and fire, dry or oiled, sweated or with āma.",
               "Unit 23: क्षाम · अल्पबल · मृदुकोष्ठाग्नि · रूक्ष/स्निग्ध · स्विन्न/साम."),
         mcq("apply", 4,
-            "A lean, weak man takes a strong medicine. Which doṣa does unit 23 say it corrupts?",
+            "A lean, weak man takes a strong medicine. Which doṣas does unit 23 say it corrupts?",
             ("Wind (अनिल) together with Pitta",
              "सपित्तमनिलं परिदूष्य: having corrupted wind together with Pitta."),
             [("Kapha alone, without the others", "Kapha is not named in unit 23."),
@@ -205,7 +205,7 @@ AUTHORED["25"] = {
 # ---------------------------------------------------------------- unit 26
 AUTHORED["26"] = {
     "title": "क्षीरिवृक्षशृतक्षीरेण वा",
-    "question": "What alternative does unit 26 give to the slimy enemas of 05.03.25?",
+    "question": "What alternative (वा) does unit 26 add to the treatment of 05.03.25?",
     "rule": "Or with milk boiled with the milk-bearing trees (kṣīrivṛkṣa).",
     "limits": ("Elliptical, no verb: it continues 05.03.25 (the plainest link, with वा 'or'). The line names no tree; "
                "kṣīrivṛkṣa is a standard group usually given as nyagrodha, udumbara, aśvattha, plakṣa (probable members; "
@@ -246,16 +246,15 @@ AUTHORED["26"] = {
              ("Sweetened", "No sweetening is named; शृत means boiled.")],
             "शृत-क्षीर = boiled milk.",
             "शृत = boiled (उबाला हुआ)."),
-        multi("apply", 4,
-              "Which trees does the card give as the usual members of the kṣīrivṛkṣa group (probable; the line itself names none)?",
-              [("Nyagrodha (banyan, वट)", "Right: usually counted (probable)."),
-               ("Udumbara (cluster fig, गूलर)", "Right: usually counted (probable)."),
-               ("Aśvattha (sacred fig, पीपल)", "Right: usually counted (probable)."),
-               ("Dāḍima (pomegranate)", "Not a milky-sap tree of the group; dāḍima comes in 05.03.30."),
-               ("Devadāru (deodar cedar)", "Not in the group; devadāru comes in 05.03.32.")],
-              [0, 1, 2],
-              "The usual group: nyagrodha, udumbara, aśvattha, plakṣa (probable members; lists differ).",
-              "kṣīrivṛkṣa = the milky-sap fig trees (probable members)."),
+        mcq("apply", 4,
+            "A physician offers this patient the option introduced by वा in unit 26. What does he prepare?",
+            ("Milk boiled with milky-sap trees",
+             "क्षीरिवृक्षशृतक्षीरेण वा: or with milk boiled with the milk-bearing trees."),
+            [("Ghee drunk with pomegranate juice", "That drink comes in 05.03.31."),
+             ("Curd soured, with pomegranate rind", "That food comes in 05.03.30."),
+             ("Hot water with sesame-deodar paste", "That paste comes in 05.03.32.")],
+            "Unit 26 offers, with वा, milk boiled with the kṣīrivṛkṣa; the line names no single tree.",
+            "Unit 26: or milk boiled with kṣīrivṛkṣa."),
         mcq("transfer", 5,
             "क्षीरिवृक्ष-शृत-क्षीर means milk boiled with milky trees. Which invented compound, built the same way, means water boiled with deodar?",
             ("देवदारुशृतजलम्",
@@ -278,7 +277,7 @@ AUTHORED["27"] = {
     "limits": ("Open reviewer point (05.03.27): the translations add 'and' between ghee-maṇḍa and the yaṣṭīmadhuka oil; "
                "the Sanskrit has no ca, so whether they are two means or one is not settled; no question rests on it. "
                "ghee-maṇḍa is kept literal. पयसा भुक्तवन्तम् is read 'having eaten with milk'."),
-    "explain_hi": ("आस्थापन के बाद अब अनुवासन यानी तैल-बस्ति। रोगी की स्थिति: उस पर शीतल जल छिड़का गया हो (शीताम्बु-परिषिक्त), "
+    "explain_hi": ("और (च) अनुवासन यानी तैल-बस्ति भी। रोगी की स्थिति: उस पर शीतल जल छिड़का गया हो (शीताम्बु-परिषिक्त), "
                    "और उसने दूध के साथ भोजन किया हो (पयसा भुक्तवन्तम्)। बस्ति के द्रव्य: घृतमण्ड, और यष्टीमधुक यानी मुलेठी (मानक) का तैल। "
                    "संस्कृत में दोनों के बीच ‘च’ नहीं है; दो अलग द्रव्य हैं या एक, यह खुला प्रश्न है। "
                    "‘भुक्तवन्तम्’ भूतकालिक कर्तृवाचक कृदन्त है: जिसने खा लिया है।"),
@@ -419,14 +418,14 @@ AUTHORED["29"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "When does unit 29's diet of light, kṣāra and sour things apply?",
-            ("Once he is free of āma (निरामीभूते)",
-             "निरामीभूते: when he has become free of raw (āma) matter."),
-            [("While the āma is still present", "With āma, 05.03.29 prescribes fasting; this unit starts with nir-āma."),
-             ("Before any enema has been given", "Enemas are not named in unit 29."),
-             ("Only when Pitta is in excess", "Unit 29 names Vāta, not Pitta.")],
-            "निर्-आमी-भूते: the locative absolute sets the time: when free of āma.",
-            "Unit 29 begins: when free of āma."),
+            "What state does निरामीभूते, the opening word of unit 29, describe?",
+            ("Become free of āma",
+             "निर्-आमी-भूते: when he has become free of raw (āma) matter."),
+            [("Still full of āma", "निर्- means without; the āma has gone."),
+             ("Lean and of little strength", "That was क्षाम, अल्पबल of 05.03.23."),
+             ("Hard in the bowel", "That is क्रूरकोष्ठ of 05.03.33.")],
+            "निर्-आमी-भूत = become free of āma: the clear opening of a low-confidence unit.",
+            "निरामीभूते = when free of āma."),
         match(1, "Match each word of unit 29 to its meaning.",
               [["निरामीभूते", "when become free of āma"], ["दधि", "curd"],
                ["दाडिमत्वचा", "with pomegranate rind"], ["युञ्जीत", "should employ"]],
@@ -496,12 +495,12 @@ AUTHORED["30"] = {
               [["स-", "together with"], ["दाडिमरस", "pomegranate juice"], ["सर्पिः", "ghee"], ["पिबेत्", "should drink"]],
               "The whole unit: with pomegranate juice, ghee, should drink.",
               "स- = together with; दाडिमरस = pomegranate juice; सर्पिः = ghee; पिबेत् = should drink."),
-        fill(2,
-             "Unit 30 ends: सर्पिः ____ (one should drink). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("पिबेत्"),
-             "पिबेत् = optative 3rd singular of √पा: one should drink.",
-             "The verb of unit 30 is पिबेत्, should drink.",
-             "पिबेत् = should drink."),
+        order(2, "Put the words of unit 30 in the order of the text.",
+              ["सदाडिमरसं", "च", "सर्पिः", "पिबेत्"],
+              "With pomegranate juice, and, ghee, should drink.",
+              "सदाडिमरसं · च · सर्पिः · पिबेत्.",
+              role="extend",
+              teaches="Unit 30 names what goes with the ghee first, then the ghee, and the verb last."),
         mcq("discriminate", 3,
             "In सदाडिमरसम्, what does the prefix स- add?",
             ("Together with",
@@ -576,7 +575,7 @@ AUTHORED["31"] = {
              "अ + अ → आ: उष्ण + अम्बुना = उष्णाम्बुना (printed with anusvara, उष्णांबुना)."),
             [("उष्णः + अम्बुना", "अः + अ would give उष्णोऽम्बुना, not उष्णाम्बुना."),
              ("उष्णां + बुना", "बुना is not a word; the second member is अम्बुना."),
-             ("उष्णम् + बुना", "बुना is not a word, and म् would stay before a vowel.")],
+             ("उष्णम् + बुना", "बुना is not a word; the second member is अम्बुना, and उष्ण is a compound member with no ending.")],
             "उष्ण (hot) + अम्बुना (with water).",
             "अ + अ → आ."),
         multi("apply", 4,
@@ -649,7 +648,7 @@ AUTHORED["32"] = {
               "The medicine was too weak for this patient: small dose, mild or unctuous.",
               "Unit 32: अल्पमात्र · मृदु · स्निग्ध."),
         mcq("apply", 4,
-            "A hard-bowelled patient with many doṣas got a mild purgative. With what does unit 32 say the outflow is mixed?",
+            "A hard-bowelled patient with many doṣas got a mild purifying medicine. With what does unit 32 say the outflow is mixed?",
             ("Pitta and Kapha",
              "पित्तकफसंसृष्टम्: mixed with Pitta and Kapha."),
             [("Blood and Vāta", "Neither blood nor Vāta is named in unit 32."),
@@ -683,7 +682,7 @@ AUTHORED["33"] = {
                    "शोष (सूखना), कोठ (सम्भवतः चकत्ते, पित्ती जैसे), कण्डू (खुजली), पाण्डुता (फीकापन), अङ्गसाद (अंगों का बैठना) "
                    "और शूल (चुभने वाली पीड़ा)। ‘च आपादयति’ = और उत्पन्न करता है। "
                    "कर्ता पाठ में नहीं कहा गया।"),
-    "hook": "रुका, भारी, सूखा, चकत्ते, खुजली, फीका, ढीला, चुभन: आठ कष्ट।",
+    "hook": "रुका, भारी, सूखा, चकत्ते, खुजली, फीका, अंग बैठे, चुभन: आठ कष्ट।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -745,11 +744,11 @@ AUTHORED["34"] = {
              "(probably sal), palāśa and valā (country mallow), joined with honey."),
     "limits": ("niryūha is rendered 'decoction', the same as kaṣāya and kvātha (glossary open point). tiniśa, dhava, palāśa, "
                "valā are standard identifications; aśvakarṇa (sal) is probable. तम् (him) is the patient of 05.03.33-34."),
-    "explain_hi": ("परिस्राव की चिकित्सा: उसे पाँच वृक्षों के निर्यूह (काढ़े) में मधु मिलाकर आस्थापन यानी निरूह बस्ति दे। "
+    "explain_hi": ("परिस्राव की चिकित्सा: उसे पाँच द्रव्यों के निर्यूह (काढ़े) में मधु मिलाकर आस्थापन यानी निरूह बस्ति दे। "
                    "द्रव्य पाठ के क्रम में: तिनिश यानी तिनस, धव यानी धौ, अश्वकर्ण यानी सम्भवतः साल, पलाश यानी ढाक, और वला यानी खरेटी। "
                    "चार की पहचान मानक है, अश्वकर्ण की सम्भावित। "
                    "पूरा वाक्य एक ही लम्बे छपे शब्द में है; अन्त में ‘आस्थापयेत्’।"),
-    "hook": "तिनस, धौ, साल, ढाक, खरेटी: शहद मिला काढ़ा, निरूह बस्ति।",
+    "hook": "तिनस, धौ, सम्भवतः साल, ढाक, खरेटी: शहद मिला काढ़ा, निरूह बस्ति।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -808,10 +807,10 @@ AUTHORED["35"] = {
     "question": "What does unit 35 prescribe once the outflow has subsided?",
     "rule": "One whose flowing out (parisrava) has subsided, again made further unctuous, one should purify with sharp (ones).",
     "limits": ("The noun with 'sharp (ones)' is not stated; the Hindi adds द्रव्यों. उपस्निग्धम् is a past participle "
-               "describing the patient ('made further unctuous'). It closes the parisrava treatment begun in 05.03.35."),
-    "explain_hi": ("परिस्राव की चिकित्सा का अन्तिम कदम। जब परिस्राव शान्त हो जाए (उपशान्त-परिस्रव, बहुव्रीहि), "
+               "describing the patient ('made further unctuous'). It follows the parisrava enema of 05.03.35; kindling measures follow in 05.03.37."),
+    "explain_hi": ("परिस्राव की चिकित्सा का अगला कदम। जब परिस्राव शान्त हो जाए (उपशान्त-परिस्रव, बहुव्रीहि), "
                    "तब उसे फिर (पुनः) और स्निग्ध करके तीक्ष्ण (गुण वालों) से शोधन कराए। "
-                   "05.03.33 में मृदु और स्निग्ध औषध विफल हुई थी; अब तीक्ष्ण से शोधन कहा गया है। "
+                   "05.03.33 में मृदु या स्निग्ध औषध विफल हुई थी; अब तीक्ष्ण से शोधन कहा गया है। "
                    "‘तीक्ष्णैः’ के साथ संज्ञा नहीं है।"),
     "hook": "रिसना रुके, फिर चिकना करो, तब तीखे से शोधन।",
     "core": False,
@@ -907,12 +906,12 @@ AIDS = {
         "anchors": "पिच्छा = लसलसापन · आस्थापन = निरूह बस्ति · कृष्णतिल = काला तिल · मधु = शहद।",
     },
     "26": {
-        "frame": "क्या: विकल्प (वा) · द्रव: दूध · कैसा: क्षीरिवृक्षों के साथ उबाला (शृत) · किसके स्थान पर: 05.03.25 की पिच्छा-बस्ति।",
+        "frame": "क्या: विकल्प (वा) · द्रव: दूध · कैसा: क्षीरिवृक्षों के साथ उबाला (शृत) · किसका विकल्प: 05.03.25 की विधि (ठीक किस अंश का, पाठ नहीं कहता)।",
         "anchors": "क्षीरिवृक्ष = दूधिया रस वाले वृक्ष (सामान्यतः वट, गूलर, पीपल, पाकड़; सम्भावित) · शृत = उबाला हुआ · क्षीर = दूध।",
         "chunks": "क्षीरि | वृक्ष | शृत | क्षीरेण | वा।",
     },
     "27": {
-        "chain": {"steps": ["शीतल जल से परिषेक", "दूध के साथ भोजन", "घृतमण्ड, यष्टीमधुक तैल से अनुवासन"]},
+        "chain": {"steps": ["शीतल जल से परिषिक्त, दूध के साथ भोजन किया", "घृतमण्ड, यष्टीमधुक तैल से अनुवासन"]},
         "sandhi": "अ + ए → ऐ: च + एनम् → चैनम्; अ + अ → आ: यष्टीमधुकतैलेन + अनुवासयेत् → यष्टीमधुकतैलेनानुवासयेत्।",
         "anchors": "परिषिक्त = छिड़का हुआ · पयः = दूध · भुक्तवान् = जिसने खाया · अनुवासन = तैल-बस्ति · यष्टीमधुक = मुलेठी।",
     },
@@ -958,7 +957,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "निर्यूह के द्रव्य", "items": ["तिनिश यानी तिनस", "धव यानी धौ", "अश्वकर्ण यानी साल (सम्भावित)", "पलाश यानी ढाक", "वला यानी खरेटी"]},
                                {"label": "मिलाएँ", "items": ["मधु"]},
                                {"label": "प्रयोग", "items": ["आस्थापन"]}]},
-        "pegs": "मेरा बनाया चित्र: पाँच वृक्ष-झाड़ एक पंक्ति में: तिनस, धौ, साल, ढाक, खरेटी; ऊपर शहद का घड़ा। केवल याद रखने का सहारा।",
+        "pegs": "मेरा बनाया चित्र: पाँच वृक्ष-झाड़ एक पंक्ति में: तिनस, धौ, साल (सम्भावित), ढाक, खरेटी; ऊपर शहद का घड़ा। केवल याद रखने का सहारा।",
         "sandhi": "अ + अ → आ: धव + अश्वकर्ण → धवाश्वकर्ण; ः → र् स्वर से पहले: मधुयुक्तैः + आस्थापयेत् → मधुयुक्तैरास्थापयेत्।",
         "anchors": "निर्यूह = काढ़ा · मधुयुक्त = शहद मिला · आस्थापन = निरूह बस्ति।",
     },
@@ -974,11 +973,10 @@ AIDS = {
 IMAGE_SPECS = {
     ("23", "diagram"): {
         "file": "ka3-parikartika-cause-23.svg",
-        "alt": "Flowchart: three groups of patient states (lean and of little strength; soft bowel and soft fire; dry or oiled, sweated or with ama) take a strong medicine, which corrupts wind with Pitta and brings about parikartika",
+        "alt": "Flowchart: four groups of patient states (lean and of little strength; soft bowel and soft fire; dry or oiled; sweated or with ama) take a strong medicine, which corrupts wind with Pitta and brings about parikartika",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कृश, अल्प बल"] --> M["बलवान् औषध ली"]\n'
-                 '  C["मृदु कोष्ठ<br/>और मृदु अग्नि"] --> M\n'
-                 '  D["रूक्ष या स्निग्ध,<br/>स्विन्न या आम सहित"] --> M\n'
+        "code": ('flowchart TD\n  A["कृश, अल्प बल"] --> M["बलवान् औषध ली"]\n  C["मृदु कोष्ठ और मृदु अग्नि"] --> M\n'
+                 '  D["रूक्ष या स्निग्ध"] --> M\n  E["स्विन्न या आम सहित"] --> M\n'
                  '  M --> V["पित्त सहित वायु दूषित"]\n  V --> P["परिकर्तिका"]\n'),
     },
     ("24", "diagram"): {
@@ -990,10 +988,10 @@ IMAGE_SPECS = {
     },
     ("27", "chain"): {
         "file": "ka3-anuvasana-27.svg",
-        "alt": "Chain of three steps: sprinkled with cold water; fed with milk; oil enema with ghee-manda and liquorice oil",
+        "alt": "Chain of two steps: the patient, sprinkled with cold water and having eaten with milk, is given an oil enema with ghee-manda and liquorice oil",
         "type": "chain",
-        "title": "इकाई २७: अनुवासन से पहले और फिर",
-        "steps": ["शीतल जल छिड़का", "दूध के साथ भोजन", "घृतमण्ड, मुलेठी तैल से अनुवासन"],
+        "title": "इकाई २७: किसे अनुवासन",
+        "steps": ["शीतल जल छिड़का, दूध संग भोजन किया", "घृतमण्ड, मुलेठी तैल से अनुवासन"],
     },
     ("28", "seesaw"): {
         "file": "ka3-lean-vs-ama-28.svg",
@@ -1015,15 +1013,14 @@ IMAGE_SPECS = {
         "file": "ka3-parisrava-cause-32.svg",
         "alt": "Flowchart: a patient with hard bowel and many doshas given a mild or unctuous purifying medicine of small dose; the doshas are agitated but not expelled, and an outflow mixed with Pitta and Kapha follows",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कठोर कोष्ठ, बहुत दोष"] --> M["मृदु या स्निग्ध<br/>अल्प मात्रा शोधन"]\n'
-                 '  M --> U["दोष उभरे"]\n  U --> N["बाहर नहीं निकले"]\n'
-                 '  N --> S["पित्त-कफ सहित परिस्राव"]\n'),
+        "code": ('flowchart TD\n  A["कठोर कोष्ठ, बहुत दोष"] --> M1["अल्प मात्रा का शोधन"]\n  A --> M2["मृदु या स्निग्ध शोधन"]\n'
+                 '  M1 --> U["दोष उभरे"]\n  M2 --> U\n  U --> N["बाहर नहीं निकले"]\n  N --> S["पित्त-कफ सहित परिस्राव"]\n'),
     },
     ("33", "diagram"): {
         "file": "ka3-parisrava-signs-33.svg",
         "alt": "Mind map of the eight troubles: binding, heaviness, drying, kotha (wheals, probable), itching, paleness, sinking of the limbs, piercing pain",
         "type": "mermaid",
-        "code": ('mindmap\n  आठ कष्ट\n    विष्टम्भ\n    भारीपन\n    शोष\n    कोठ, चकत्ते\n'
+        "code": ('mindmap\n  आठ कष्ट\n    विष्टम्भ\n    भारीपन\n    शोष\n    कोठ, चकत्ते सम्भवतः\n'
                  '    खुजली\n    फीकापन\n    अंगों का बैठना\n    शूल\n'),
     },
     ("34", "diagram"): {
