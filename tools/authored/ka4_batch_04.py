@@ -55,7 +55,7 @@ AUTHORED["38"] = {
              "The notes say the unit has no verb and states no use."),
             [("They are said to serve jīvādāna", "Jīvādāna is first named in line 05.04.75, not here."),
              ("They are said to destroy Vāta", "No action is stated in verse 38."),
-             ("They are said to be binding", "Binding (saṃgrāhika) was said of an earlier list.")],
+             ("They are said to be binding", "Binding (grāhi) was said of priyaṅgu and the rest in an earlier unit, not here.")],
             "Verse 38 is a bare list: nine names, no verb, no use.",
             "Supply no use the unit does not state."),
         mcq("transfer", 5, "Like मूर्वाः + तथा → मूर्वास्तथा, how does invented लताः + तथा join?",
@@ -107,7 +107,7 @@ AUTHORED["39"] = {
         mcq("discriminate", 3, "In verse 39, what does the form बस्ती show?",
             ("Two bastis, masculine dual",
              "Basti is an i-stem masculine; -ई is its dual, agreeing with द्वौ and प्रदेयौ."),
-            [("One basti, feminine singular", "In Sanskrit basti is masculine; the dual agrees with द्वौ."),
+            [("One basti, feminine singular", "A feminine i-stem singular would be बस्तिः; द्वौ, प्रदेयौ and शीतौ show a masculine dual."),
              ("Many bastis, in the plural", "The plural would be बस्तयः."),
              ("A basti, in the locative case", "The locative singular would be बस्तौ.")],
             "द्वौ … बस्ती प्रदेयौ … शीतौ: every word is dual.",
@@ -146,7 +146,7 @@ AUTHORED["40"] = {
                    "पहली पंक्ति में बकरी और भैंस के दूध हैं, जीवनीय यानी जीवन बढ़ाने वाले द्रव्यों से भी युक्त; ‘गो’ यानी गाय का पाठ खुला प्रश्न है। "
                    "दूसरी पंक्ति में रक्त है: खरगोश, एण यानी हिरण, बिल्ली और भैंस का; बीच का छपा ‘दक्ष’ अनुमानित पाठ पर भालू है, और अन्त का ‘अन्यज’ स्पष्ट नहीं। "
                    "जीवनीय गण के सदस्य यहाँ नहीं गिनाए गए।"),
-    "hook": "दूध (बकरी, भैंस) जीवनीय के साथ; रक्त (खरगोश, हिरण, बिल्ली, भैंस) ताज़ा।",
+    "hook": "दूध (बकरी, भैंस) जीवनीय के साथ; रक्त (खरगोश, हिरण, बिल्ली, भैंस)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does शोणित mean in verse 40?",
@@ -425,7 +425,7 @@ AUTHORED["44"] = {
         mcq("apply", 4, "Of what preparation of paṭola and the rest does verse 44 speak?",
             ("Their water (अम्भस्)",
              "…अम्भसः: of the water; the notes say the text says water, not decoction."),
-            [("Their decoction (क्वाथ)", "Decoction is named for bilva roots in line 1, not for paṭola."),
+            [("Their decoction (क्वाथ)", "No decoction is named for paṭola and the rest; the text says ambhas, water."),
              ("Their paste (कल्क)", "No paste is named for them in verse 44."),
              ("Their juice (स्वरस)", "No juice is named in verse 44.")],
             "The text says ambhas, water; nothing is added.",
@@ -451,9 +451,9 @@ AUTHORED["45"] = {
     "limits": ("Whether the five bitters are the five drugs of line 05.04.86 is not stated. Abhiṣyanda (oozing, congestion) stays in Sanskrit; "
                "its eye sense is not stated here. Kṛmi and prameha are probable renderings, kuṣṭha standard."),
     "explain_hi": ("यह श्लोक पंक्ति ०५.०४.८६ से चले नुस्खे को पूरा करता लगता है: (हर जल का) एक प्रसृत अलग-अलग, और घी से भी। "
-                   "बस्ति में सरसों का कल्क यानी लुगदी है और पञ्चतिक्त यानी पाँच तिक्त द्रव्य; ये वही पाँच हैं जो पंक्ति ०५.०४.८६ में गिने गए, पाठ यह नहीं कहता। "
+                   "बस्ति में सरसों का कल्क यानी लुगदी है और पञ्चतिक्त यानी पाँच तिक्त द्रव्य; ये पंक्ति ०५.०४.८६ में गिने गए वही पाँच द्रव्य हैं या नहीं, पाठ यह नहीं कहता। "
                    "यह बस्ति अभिष्यन्द (बहना, जमाव), कृमि यानी कीड़े, कुष्ठ यानी त्वचा रोग (परम्परा से कोढ़) और प्रमेह यानी मूत्र-विकार (सम्भवतः मधुमेह से जुड़ा) का नाश करती है।"),
-    "hook": "सरसों की लुगदी, पाँच तिक्त: अभिष्यन्द, कीड़े, कोढ़ और प्रमेह, चारों का नाश।",
+    "hook": "सरसों की लुगदी, पाँच तिक्त: अभिष्यन्द, कीड़े, कुष्ठ और प्रमेह, चारों का नाश।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "A paste of which drug does the basti of verse 45 have?",
@@ -483,20 +483,17 @@ AUTHORED["45"] = {
              ("पृथक् + आज्ये + च", "ए does not change before च: आज्ये च.")],
             "पृथक् (separately) + आज्यात् (from ghee) + च (and).",
             "क् + vowel → ग्; त् + च → च्च."),
-        multi("apply", 4, "Which disorders does verse 45 say the basti destroys?",
-              [("Abhiṣyanda", "Right: अभिष्यन्द- opens the compound."),
-               ("Worms (kṛmi)", "Right: कृमि-."),
-               ("Kuṣṭha (skin disease)", "Right: कुष्ठ-."),
-               ("Prameha (urinary disorders)", "Right: प्रमेह-."),
-               ("Ānāha (distension)", "Ānāha is named in line 05.04.95."),
-               ("Mūtrakṛcchra (painful urination)", "Mūtrakṛcchra is named in line 05.04.95.")],
-              [0, 1, 2, 3],
-              "अभिष्यन्द-कृमि-कुष्ठ-प्रमेह-हा: destroyer of these four.",
-              "Verse 45: four disorders, one compound ending in -हा."),
+        mcq("apply", 4, "Besides the waters, from what does verse 45 take one prasṛta?",
+            ("Ghee (ājya)", "पृथगाज्याच्च: and (one) from ghee."),
+            [("Oil (taila)", "Oil is in line 05.04.84, not in verse 45."),
+             ("Milk (kṣīra)", "Milk is not named in verse 45."),
+             ("Honey (kṣaudra)", "Honey is not named in verse 45.")],
+            "प्रसृतः पृथगाज्याच्च: a prasṛta separately, and (one) from ghee.",
+            "आज्य = ghee."),
         mcq("transfer", 5, "Like सर्षपकल्कवान् (having mustard paste), which invented word says a basti has a paste of pippalī?",
             ("पिप्पलीकल्कवान्",
              "-वान् (masc. nom. sg.) = having; basti is masculine."),
-            [("पिप्पलीकल्कवती", "Feminine; basti is masculine in Sanskrit."),
+            [("पिप्पलीकल्कवती", "Feminine; in this verse basti is masculine (सर्षपकल्कवान्, सपञ्चतिक्तः)."),
              ("पिप्पलीकल्कवन्तः", "Plural; one basti is meant."),
              ("पिप्पलीकल्कम्", "Only the paste itself, not having a paste.")],
             "The suffix -वत् (nom. sg. m. -वान्) means having.",
@@ -610,7 +607,7 @@ AUTHORED["47"] = {
         mcq("apply", 4, "Which two drugs make the paste of the nirūha in verse 47?",
             ("Vella and pippalī",
              "वेल्लपिप्पलीकल्कयोजितः: joined with a paste of vella and pippalī."),
-            [("Mustard and the bitters", "That paste is in line 05.04.87-88."),
+            [("Mustard and the bitters", "Mustard paste and the five bitters go with the basti of lines 05.04.87-88."),
              ("Honey and the ghee", "Honey and ghee are in the new list of line 2."),
              ("Śigru fruit and mustā", "These gave decoctions in line 05.04.89.")],
             "The paste of verse 47: vella (disputed) and pippalī (long pepper).",
@@ -699,7 +696,7 @@ AUTHORED["49"] = {
     "explain_hi": ("पहली पंक्ति पिछले नुस्खे की बस्ति को पूरा करती लगती है: थोड़ी गुनगुनी बस्ति सानाह यानी आनाह (पेट फूलना, मल-वायु का रुकना) वाले में और मूत्रकृच्छ्र यानी कष्ट से मूत्र आने में श्रेष्ठ मानी गई है। "
                    "दूसरी पंक्ति एक नियम देती है: जो मृदु बस्तियों से जड़ हो गया हो, यानी उन पर प्रतिक्रिया न दे, उसमें दूसरी, तीक्ष्ण बस्ति चाही जाती है। "
                    "‘परः’ को ‘श्रेष्ठ’ पढ़ा गया, क्योंकि ‘दूसरी’ के लिए आगे ‘अन्यः’ है।"),
-    "hook": "पेट फूला या मूत्र अटका: गुनगुनी बस्ति; मृदु से सुस्त हुआ: तीक्ष्ण बस्ति।",
+    "hook": "पेट फूला या मूत्र कष्ट से: गुनगुनी बस्ति; मृदु से सुस्त हुआ: तीक्ष्ण बस्ति।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "Which basti does verse 49 desire for one dulled by mild bastis?",
@@ -761,7 +758,7 @@ AUTHORED["50"] = {
                    "‘बस्ति’ और ‘इष्यते’ पिछली पंक्ति से आते हैं। "
                    "दूसरी पंक्ति बताती है कि तीक्ष्णता किससे आती है: मूत्र, बिल्व यानी बेल, अग्नि, लवण, क्षार और सरसों से। "
                    "‘अग्नि’ आग भी हो सकता है और चित्रक नामक द्रव्य भी (विवादित); मूत्र किस पशु का, नहीं कहा।"),
-    "hook": "तीक्ष्ण से थका: चिकना, मीठा, ठंडा, मृदु; तीखापन चाहिए: मूत्र, बेल, अग्नि, नमक, क्षार, सरसों।",
+    "hook": "तीक्ष्ण से खिंचा (क्षीण): चिकना, मीठा, ठंडा, मृदु; तीखापन चाहिए: मूत्र, बेल, अग्नि, नमक, क्षार, सरसों।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does तीक्ष्णत्वम् mean in verse 50?",
@@ -930,7 +927,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "पंक्ति १", "items": ["बृहती", "क्षीरकाकोली", "पृश्निपर्णी", "शतावरी"]},
                                {"label": "पंक्ति २", "items": ["काश्मर्य", "बदरी", "मूर्वा", "तथा: उशीर", "प्रियङ्गु"]}]},
         "chunks": "बृहती | क्षीरकाकोली | पृश्निपर्णी | शतावरी ‖ काश्मर्य | बदरी | मूर्व्वास् | तथा | उशीर | प्रियंगवः।",
-        "anchors": "बृहती = बड़ी कटेरी · पृश्निपर्णी = पिठवन · शतावरी = सतावर · काश्मर्य = गम्भारी · बदरी = बेर · मूर्वा = प्रायः मरोड़फली · उशीर = खस।",
+        "anchors": "बृहती = बड़ी कटेरी · पृश्निपर्णी = पिठवन · शतावरी = सतावर · काश्मर्य = गम्भारी · बदरी = बेर · मूर्वा = सम्भवतः मरोड़फली · उशीर = खस।",
         "sandhi": "आः + त → आस्त: मूर्वाः + तथा → मूर्वास्तथा; आ + उ → ओ: तथा + उशीर → तथोशीर।",
     },
     "39": {
@@ -959,7 +956,7 @@ AIDS = {
                                {"label": "पंक्ति २: एक-एक प्रसृत", "items": ["तैल", "प्रसन्ना", "क्षौद्र", "सर्पिस्"]}]},
         "chunks": "खजेन | मथितो | बस्तिर् | वातघ्नो | बलवर्णकृत् ‖ एकैकः | प्रसृतस् | तैल | प्रसन्ना | क्षौद्र | सर्पिषां।",
         "sandhi": "अः + घोष → ओ: मथितः + बस्तिः → मथितो बस्तिः; इः + घोष → इर्: बस्तिः + वातघ्नः → बस्तिर्वातघ्नः; अ + ए → ऐ: एक + एकः → एकैकः।",
-        "anchors": "खज = मथानी · वातघ्न = वात नाशक · वर्ण = रंग-रूप · प्रसन्ना = प्रायः मदिरा का निथरा भाग · क्षौद्र = मधु · सर्पिस् = घी।",
+        "anchors": "खज = मथानी · वातघ्न = वात नाशक · वर्ण = रंग-रूप · प्रसन्ना = सम्भवतः मदिरा का निथरा भाग · क्षौद्र = मधु · सर्पिस् = घी।",
     },
     "44": {
         "contrast": "पंक्ति १: बेल-आदि जड़ों का काढ़ा और कुलथी → वातजित् (पिछला नुस्खा पूरा) · पंक्ति २: परवल, नीम, भूतीक, रास्ना और पाँचवाँ (अनुमानित) → इनका जल (नया नुस्खा)।",
@@ -971,7 +968,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "बस्ति में", "items": ["जल: एक-एक प्रसृत", "घी से एक", "सरसों का कल्क", "पञ्चतिक्त"]},
                                {"label": "नाश करती है", "items": ["अभिष्यन्द", "कृमि", "कुष्ठ", "प्रमेह"]}]},
         "chunks": "प्रसृतः | पृथग् | आज्याच्च | बस्तिः | सर्षपकल्कवान् ‖ सपंचतिक्तो | ऽभिष्यंद | कृमि | कुष्ठ | प्रमेह | हा।",
-        "anchors": "आज्य = घी · सर्षप = सरसों · कल्क = लुगदी · पञ्चतिक्त = पाँच तिक्त · कृमि = कीड़े · कुष्ठ = त्वचा रोग (कोढ़) · प्रमेह = मूत्र-विकार।",
+        "anchors": "आज्य = घी · सर्षप = सरसों · कल्क = लुगदी · पञ्चतिक्त = पाँच तिक्त · कृमि = कीड़े · कुष्ठ = त्वचा रोग (परम्परा से कोढ़) · प्रमेह = मूत्र-विकार।",
         "letters": "चार रोगों के पहले अक्षर: अ-कृ-कु-प्र (अभिष्यन्द, कृमि, कुष्ठ, प्रमेह); केवल सुनने की सहायता।",
     },
     "46": {
@@ -1044,8 +1041,10 @@ IMAGE_SPECS = {
                 "destroys abhishyanda, worms, kushtha and prameha"),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["जल: एक-एक प्रसृत<br/>घी से एक"] --> C["बस्ति"]\n'
-                 '  B["सरसों का कल्क<br/>पञ्चतिक्त"] --> C\n'
+                 '  A["जल: एक-एक प्रसृत"] --> C["बस्ति"]\n'
+                 '  A2["घी से एक प्रसृत"] --> C\n'
+                 '  B["सरसों का कल्क"] --> C\n'
+                 '  B2["पञ्चतिक्त"] --> C\n'
                  '  C --> D["अभिष्यन्द"]\n'
                  '  C --> E["कृमि"]\n'
                  '  C --> F["कुष्ठ"]\n'
