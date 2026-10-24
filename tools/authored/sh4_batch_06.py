@@ -24,7 +24,7 @@ AUTHORED["69"] = {
     "questions": [
         mcq("pretest", 0, "By unit 69, with what liquid is the saktu given?",
             ("Milk (पयस्)", "पयसा पाययेत्: one should make her drink it with milk."),
-            [("Water (उदक)", "No water is named in unit 69; the liquid is पयसा, with milk."),
+            [("Curd (दधि)", "Curd is not named in unit 69; the liquid is पयसा, with milk."),
              ("Ghee (घृत)", "Ghee goes with the broths and soups of unit 68, not with this saktu."),
              ("Honey (मधु)", "Honey is not named in unit 69.")],
             "The saktu mixture is given with milk.",
@@ -72,9 +72,9 @@ AUTHORED["70"] = {
     "question": "By unit 70, what further option is named, and what is its relish?",
     "rule": ("Or (वा) mārdvīka (grape wine; printed मार्द्दीकं), having meat, probably fatty (मेद्य), as its relish "
              "(उपदंश, a bite eaten with a drink). The line has no verb; it appears to continue unit 69."),
-    "limits": ("मेद्य = fatty is probable (medhya, intellect-promoting, fits meat less well). मार्द्वीक is a near-certain "
-               "correction of printed मार्द्दीकं. The verb of unit 69 is carried, not printed. No question rests on the sense "
-               "of medya or on the corrected word. A prose line."),
+    "limits": ("मेद्य = fatty is probable (medhya also possible). मार्द्वीक corrects printed मार्द्दीकं (near-certain). "
+               "The verb of unit 69 is carried. Questions use medya only as 'probable' and the correction only as "
+               "near-certain; none asks what medya must mean. A prose line."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति एक और विकल्प (वा) देती है: मार्द्वीक यानी अंगूर की मदिरा, जिसके साथ खाने की वस्तु "
                    "(उपदंश) मांस हो, सम्भवतः चर्बीयुक्त (मेद्य)। "
                    "पंक्ति में अपनी क्रिया नहीं है; इकाई ६९ की ‘पाययेत्’ (पिलाए) चली आती है, अनुवाद उसे जोड़ता नहीं। "
@@ -107,7 +107,7 @@ AUTHORED["70"] = {
             "मांस (meat) + उपदंशम् (relish): अ + उ → ओ.",
             "अ + उ → ओ."),
         multi("apply", 4, "Which statements about unit 70 are right by the card?",
-              [("मेद्य is read as intellect-promoting", "The data takes मेद्य as fatty (probable); medhya fits meat less well."),
+              [("The line names honey as the relish", "The relish is meat, probably fatty; no honey is named."),
                ("The line has no verb of its own", "Right: the verb of unit 69 is carried, not printed."),
                ("Printed मार्द्दीकं is read as मार्द्वीकम्", "Right: a near-certain correction (द्व misread as द्द)."),
                ("The line names the kind of meat", "No animal is named; only meat, probably fatty.")],
@@ -299,9 +299,9 @@ AUTHORED["73"] = {
 AUTHORED["74"] = {
     "title": "यस्याः पुनरुदावर्त्तविबंधः स्यात्",
     "question": "By unit 74, how is a woman with udāvarta and vibandha treated?",
-    "rule": ("If she has udāvarta (Vāta running upward in reverse) and vibandha (constipation), one should treat her "
-             "(उपाचरेत्) with foods and drinks that remove Vāta (वातहर) and are unctuous (स्निग्ध). A new topic appears "
-             "to begin here."),
+    "rule": ("If she has udāvarta (Vāta running upward in reverse) and vibandha (constipation) (read as two disorders; "
+             "'constipation of the udāvarta kind' is also possible), one should treat her (उपाचरेत्) with foods and drinks "
+             "that remove Vāta (वातहर) and are unctuous (स्निग्ध). A new topic appears to begin here."),
     "limits": ("उदावर्तविबन्धः may be two disorders or 'constipation of the udāvarta kind': no question decides which (one "
                "asks only that it is open). No food or drug is named. A prose line."),
     "explain_hi": ("यहाँ सम्भवतः नया विषय आरम्भ होता है। "
@@ -310,7 +310,7 @@ AUTHORED["74"] = {
                    "‘उदावर्तविबन्धः’ को दो रोग (द्वन्द्व) भी पढ़ा जा सकता है और ‘उदावर्त प्रकार का विबन्ध’ भी; डेटा पहला पाठ लेता है, "
                    "पर दूसरा खुला है। "
                    "कोई विशेष अन्न या औषध नाम से नहीं दिया गया। छपा ‘उदावर्त्त’ (र्त्त) छपाई की आदत है।"),
-    "hook": "उलटी वात, रुका पेट: वात हरने वाला, चिकना अन्न-पान।",
+    "hook": "उलटा वात, रुका पेट: वात हरने वाला, चिकना अन्न-पान।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 74, with what is she treated?",
@@ -618,8 +618,8 @@ AUTHORED["78"] = {
 AUTHORED["79"] = {
     "title": "ततः कोष्ठसंक्षोभाद्वायुरपानो ... शोणितभावेन",
     "question": "By unit 79, how does the disturbance of the koṣṭha lead to the loss of the young fetus?",
-    "rule": ("Then, from the disturbance of the koṣṭha, the Apāna wind repeatedly brings about pain (in kukṣi, basti, sides, "
-             "belly, yoni), distension (आनाह) and retention of stool and urine, and makes the young (तरुण) fetus fall in "
+    "rule": ("Then, from the disturbance of the koṣṭha, the Apāna wind repeatedly brings about pain (in kukṣi, basti (probably the bladder), "
+             "sides, belly, yoni), distension (आनाह) and retention of stool and urine, and makes the young (तरुण) fetus fall in "
              "the form of blood."),
     "limits": ("The reach of 'pain' over the five places is a reading, not certain; basti = bladder is probable (basti also "
                "names the enema device). 'In the form of blood' renders शोणितभावेन, literally 'by the state of blood'. "
@@ -630,7 +630,7 @@ AUTHORED["79"] = {
                    "रक्त के रूप में (शोणितभावेन) गिरा देती है (च्यावयति)। "
                    "‘शूल’ पाँचों स्थानों पर लागू होता है, यह एक पाठ है, निश्चित नहीं। "
                    "‘बस्ति’ बस्ति-यन्त्र का नाम भी है; यहाँ मूत्राशय सम्भावित अर्थ है।"),
-    "hook": "क्षोभ, फिर अपान: पीड़ा, आनाह, रुकावट; कोमल गर्भ रक्त बनकर गिरे।",
+    "hook": "क्षोभ, फिर अपान: पीड़ा, आनाह, रुकावट; कोमल गर्भ रक्त के रूप में गिरे।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 79, which wind makes the young fetus fall?",
@@ -801,7 +801,7 @@ NOTES_HI = {
            "तिल-माष-बिल्व-शलाटु-युक्तान् समास में स्वर-सन्धि नहीं; युक्तान् + पयसा → युक्तान् पयसा।"),
     "70": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: छपा ‘मार्द्दीकं’ → ‘मार्द्वीकं’ (लगभग निश्चित; द्व का द्द पढ़ा जाना; इकाई ७६ में "
            "‘मृद्वीकानां’ ठीक छपा है)। ‘मेद्य’ = चर्बीयुक्त (सम्भावित); ‘मेध्य’ (बुद्धिवर्धक) भी सम्भव, पर मांस के साथ कम उचित। "
-           "पंक्ति में क्रिया नहीं; इकाई ६९ की ‘पाययेत्’ चली आती है। इन पर प्रश्न नहीं। "
+           "पंक्ति में क्रिया नहीं; इकाई ६९ की ‘पाययेत्’ चली आती है। प्रश्नों में ‘मेद्य’ केवल ‘सम्भावित’ लेबल के साथ और सुधार केवल ‘लगभग निश्चित’ के रूप में आते हैं; ‘मेद्य’ का निश्चित अर्थ कोई प्रश्न नहीं पूछता। "
            "सन्धि जाँची: मांस + उपदंशम् → मांसोपदंशम् (अ + उ → ओ); उपदंशम् + वा → उपदंशं वा (व्यंजन से पहले म् → अनुस्वार)।"),
     "71": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। सम्भवतः इकाई ६७-७० के उपचार का क्रम। तेल का प्रकार नहीं कहा। "
            "छपा ‘वंक्षण’ = वङ्क्षण, ‘अभ्यंज्यात्’ = अभ्यञ्ज्यात् (अनुस्वार वर्तनी)। "
@@ -871,8 +871,8 @@ NOTES_HI = {
 AIDS = {
     "69": {
         "diagram": {"groups": [
-            {"label": "सक्तु (भुने अन्न का आटा) से युक्त", "items": ["तिल", "माष (उड़द)", "बिल्व (बेल)", "शलाटु (कच्चा फल)",
-                                                                 "बिल्व-शलाटु एक भी पढ़ा जा सकता है"]},
+            {"label": "सक्तु (भुने अन्न का आटा) से युक्त (बिल्व-शलाटु एक वस्तु भी पढ़ा जा सकता है)",
+             "items": ["तिल", "माष (उड़द)", "बिल्व (बेल)", "शलाटु (कच्चा फल)"]},
             {"label": "कैसे दें", "items": ["दूध के साथ (पयसा)", "पिलाए (पाययेत्)"]}]},
         "chunks": "सक्तून्वा | तिलमाषबिल्वशलाटुयुक्तान् | पयसा | पाययेत्",
         "frame": "क्या: सक्तून् (भुने अन्न का आटा; अन्न नहीं कहा) → किससे युक्त: तिल, माष, बिल्व, शलाटु → किसके साथ: पयसा (दूध) "
@@ -933,7 +933,7 @@ AIDS = {
                   "युक्तेन + ईषत् → युक्तेनेषत् · त् + ल → ल्ल: ईषत् + लवण → ईषल्लवण।",
     },
     "77": {
-        "chain": {"steps": ["कब्ज दूर हो जाए (विगतविबन्धा)", "नहा चुकी (सुधारा पाठ) और खा चुकी", "सायंकाल",
+        "chain": {"steps": ["शर्तें: कब्ज दूर हो (विगतविबन्धा), नहा चुकी (सुधारा पाठ), खा चुकी", "सायंकाल",
                             "उसी तेल से अनुवासन"]},
         "chunks": "विगतविबंधां च | स्त्राताशितां (= स्नाताशिताम्) | सायं तेनैव तैलेनानुवासयेत् || उदावर्त्तोहि समुपेक्षितः | "
                   "सहसा सगर्भां गर्भिणीमतिपातयेत्",
@@ -1017,11 +1017,11 @@ IMAGE_SPECS = {
     },
     ("77", "chain"): {
         "file": "sh4-sayam-anuvasana-77.svg",
-        "alt": ("Chain of unit 77: her constipation has gone; she has bathed (a near-certain reading) and eaten; in the "
+        "alt": ("Chain of unit 77: conditions on her (constipation gone; bathed, a near-certain reading; eaten); in the "
                 "evening; an anuvāsana with that very oil."),
         "type": "chain",
         "title": "इकाई ७७: सायंकाल अनुवासन",
-        "steps": ["कब्ज दूर हो जाए", "नहा चुकी (सुधारा पाठ), खा चुकी", "सायंकाल", "उसी तेल से अनुवासन"],
+        "steps": ["शर्तें: कब्ज दूर हो, नहा चुकी (सुधारा पाठ), खा चुकी", "सायंकाल", "उसी तेल से अनुवासन"],
     },
     ("78", "diagram"): {
         "file": "sh4-garbha-mukti-78.svg",

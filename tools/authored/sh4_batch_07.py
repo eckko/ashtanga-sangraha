@@ -8,7 +8,7 @@ AUTHORED["82"] = {
     "title": "शूलमधिकमुपजायते ... मृतगर्भां विद्यान्",
     "question": "By unit 82, by what signs should one know a woman to be mṛtagarbhā, one with a dead fetus?",
     "rule": ("Excess pain arises, the fetus does not move (न स्पन्दते), the yoni does not flow; she is restless, weeps day "
-             "and night, breathes with difficulty, wastes away: know such a woman as mṛtagarbhā (मृतगर्भा)."),
+             "and night, breathes with difficulty, wastes away (probable sense of क्षयति): know such a woman as mṛtagarbhā (मृतगर्भा)."),
     "limits": ("Low confidence. संस्येते (of the eyes) is not a known verb; 'sink in' is a conjecture. The noun of "
                "अन्यानि is not stated. स्वप्निति is read स्वपिति. 'Wastes away' (क्षयति) is probable. No question rests on "
                "these. Modern equivalent (probable): intrauterine fetal death. Prose."),
@@ -131,19 +131,19 @@ AUTHORED["83"] = {
 # ---------------------------------------------------------------- unit 84
 AUTHORED["84"] = {
     "title": "विगुणानिलप्रतिपीडनैवैचित्र्यादसंसंख्यगातिं च",
-    "question": "By unit 84, what cause is named for the fetus's many courses?",
+    "question": "By unit 84, the variety of whose pressing is named as a cause?",
     "rule": ("Owing to (-आत्) the variety (वैचित्र्य) of the pressing (प्रतिपीडन) by deranged (विगुण) wind (अनिल), "
              "(the fetus is one) of countless courses, on a conjectural reading. It appears to continue unit 83."),
-    "limits": ("The printed token is damaged: पीडनैवैचित्र्याद् has an extra letter, and असंसंख्यगातिं is read असङ्ख्यगतिम् "
-               "('of countless courses') only on a conjecture. No question rests on 'countless courses' or on the damaged "
-               "junction. No verb; the noun '(one)' is not stated. A prose line."),
+    "limits": ("पीडनैवैचित्र्याद् is damaged (an extra ऐ, or a dropped व: पीडनैव वैचित्र्यात्; same sense). "
+               "असंसंख्यगातिं is read असङ्ख्यगतिम् ('of countless courses') only on a conjecture. No question rests on "
+               "either. No verb; '(one)' is not stated. Prose."),
     "explain_hi": ("यह छोटी, क्षतिग्रस्त गद्य-पंक्ति सम्भवतः इकाई ८३ का वाक्य आगे बढ़ाती है। "
                    "बिगड़ी वायु (विगुण अनिल) के दबाव (प्रतिपीडन) की विविधता (वैचित्र्य) से, अनुमानित पाठ पर, (वह गर्भ) असंख्य "
                    "गतियों वाला होता है। "
-                   "छपा शब्द बिगड़ा है: बीच में एक अक्षर अधिक है, और ‘असंसंख्यगातिं’ को अनुमान से ‘असङ्ख्यगतिम्’ पढ़ा गया; "
+                   "छपा शब्द बिगड़ा है: बीच में या तो एक मात्रा अधिक है या एक ‘व’ छूटा है (अर्थ दोनों में एक), और ‘असंसंख्यगातिं’ को अनुमान से ‘असङ्ख्यगतिम्’ पढ़ा गया; "
                    "इसलिए ‘असंख्य गतियों’ पर कोई प्रश्न नहीं। "
                    "‘वैचित्र्यात्’ की पंचमी विभक्ति कारण बताती है: विविधता के कारण।"),
-    "hook": "बिगड़ी वायु का दबाव तरह-तरह का, तो गर्भ की गति भी तरह-तरह की।",
+    "hook": "बिगड़ी वायु का दबाव तरह-तरह का (आगे अनुमानित पाठ: असंख्य गतियाँ)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 84, whose pressing is named as the cause?",
@@ -883,7 +883,7 @@ AIDS = {
                   "इ + आ → या: इति + आहुः → इत्याहुः।",
     },
     "84": {
-        "chunks": "विगुण | अनिल | प्रतिपीडन | (नै?) | वैचित्र्याद् | असंसंख्यगातिं (= असङ्ख्यगतिम्?) | च",
+        "chunks": "विगुण | अनिल | प्रतिपीडनै (?) | वैचित्र्याद् | असंसंख्यगातिं (= असङ्ख्यगतिम्?) | च",
         "sandhi": "अ + अ → आ: विगुण + अनिल → विगुणानिल · त् + स्वर → द्: वैचित्र्यात् + अ... → वैचित्र्याद...।",
         "frame": "कारण: विगुण अनिल (बिगड़ी वायु) → उसका प्रतिपीडन (दबाव) → उसकी विविधता (वैचित्र्यात्, पंचमी = कारण) → "
                  "फल: अनुमानित पाठ पर असंख्य गतियाँ। क्रिया इकाई ८३ से।",
@@ -894,7 +894,7 @@ AIDS = {
                                                        "३ न्युब्जा: औंधी, झुकी"]}]},
         "chunks": "समासतस्तु | त्रिविधा | गतिरूध्र्वा (= गतिरूर्ध्वा) | तिर्यङ्ङ्युब्जा (= तिर्यङ् न्युब्जा) च",
         "sandhi": "विसर्ग + त → स्: समासतः + तु → समासतस्तु · इः + स्वर → इर्: गतिः + ऊर्ध्वा → गतिरूर्ध्वा।",
-        "pegs": "ऊपर, तिरछा, औंधा: तीन दिशाएँ जैसे हाथ से इशारा: ऊपर उँगली, फिर हथेली आड़ी, फिर हथेली उलटी। (मेरा बनाया चित्र)",
+        "pegs": "ऊपर, तिरछा, औंधा: तीन दिशाएँ जैसे हाथ से इशारा: ऊपर उँगली, फिर हथेली आड़ी, फिर हथेली उलटी। (लेखक की अपनी याद-युक्ति)",
     },
     "86": {
         "chunks": "संस्थानानि | पुनरष्टौ",
@@ -977,16 +977,14 @@ IMAGE_SPECS = {
     ("83", "diagram"): {
         "file": "sh4-mudhagarbha-83.svg",
         "alt": ("Flowchart of unit 83: the fetus has entered the path of the offspring (probably the birth passage) "
-                "sometimes, wrongly and in many ways; it is afflicted and bewildered by deranged vāyu; both lead to the "
+                "sometimes, wrongly and in many ways, and is afflicted and bewildered by deranged vāyu; both lead to the "
                 "name mūḍhagarbha."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"गर्भ\"] --> B[\"अपत्यपथ में गलत प्रवेश\"]\n"
-                 "  B --> C[\"कभी-कभी, अनेक प्रकार से\"]\n"
-                 "  A --> D[\"विगुण वायु से पीड़ित\"]\n"
-                 "  D --> E[\"और मोहित\"]\n"
-                 "  C --> F[\"नाम: मूढगर्भ\"]\n"
-                 "  E --> F\n"),
+                 "  A[\"गर्भ\"] --> B[\"कभी-कभी, गलत ढंग से, अनेक प्रकार से अपत्यपथ में पहुँचा\"]\n"
+                 "  A --> D[\"विगुण वायु से पीड़ित और मोहित\"]\n"
+                 "  B --> F[\"नाम: मूढगर्भ\"]\n"
+                 "  D --> F\n"),
     },
     ("85", "diagram"): {
         "file": "sh4-trividha-gati-85.svg",
@@ -1023,7 +1021,7 @@ IMAGE_SPECS = {
                 "(hip region)."),
         "type": "table",
         "title": "इकाई ९३: तीन स्थान (वा = या)",
-        "heads": ["छपा शब्द", "अर्थ"],
+        "heads": ["शब्द", "अर्थ"],
         "rows": [["शिरसि", "सिर में"], ["अंसे", "कन्धे में"], ["जघने वा", "या कूल्हे के भाग में"]],
     },
     ("94", "contrast"): {

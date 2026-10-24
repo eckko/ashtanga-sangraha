@@ -308,7 +308,7 @@ AUTHORED["113"] = {
 AUTHORED["114"] = {
     "title": "दीप्यकातिविषा रास्त्रा हिं ग्वेलापंचकोलकान्",
     "question": "By unit 114, which drugs are listed, and in what forms is she made to drink them?",
-    "rule": ("Dīpyaka (probably ajwain), ativiṣā (atis), rāsnā (conjectural reading), hiṅgu, elā and the pañcakolaka "
+    "rule": ("Dīpyaka (probably ajwain), ativiṣā (atis), rāsnā (conjectural reading; identity disputed), hiṅgu, elā and the pañcakolaka "
              "group: one should make her drink these as powder (चूर्ण) with sneha, or as kalka (paste), or as decoction "
              "(printed काथ), likewise."),
     "limits": ("Rāsnā is a conjectural reading of printed रास्त्रा (disputed); हिं | ग्वेला is read हिङ्गु + एला and "
@@ -329,7 +329,7 @@ AUTHORED["114"] = {
              ("With honey (madhu)", "Honey is not named in unit 114.")],
             "The powder is given with sneha (oil or fat).",
             "चूर्णम् स्नेहेन."),
-        order(1, "Put these printed pieces of unit 114 in order.",
+        order(1, "Put these pieces of unit 114 in the printed order.",
               ["दीप्यकातिविषा", "रास्त्रा", "हिं ग्वेलापंचकोलकान्", "चूर्णं स्नेहेन", "कल्कं वा काथं वा", "पाययेत्तथा"],
               "Dīpyaka, ativiṣā, rāsnā (printed रास्त्रा), hiṅgu, elā, the pañcakolakas; powder with sneha, or paste, or decoction; one should make her drink likewise.",
               "दीप्यकातिविषा → रास्त्रा → हिं ग्वेलापंचकोलकान् → चूर्णं स्नेहेन → कल्कं वा काथं वा → पाययेत्तथा."),
@@ -390,16 +390,16 @@ AUTHORED["115"] = {
              ("Easy sleep at night", "Sleep is not named in unit 115.")],
             "One stated purpose is the relief of pain.",
             "वेदना + उपशमाय = for the relief of pain."),
-        order(1, "Put these printed pieces of unit 115 in order.",
+        order(1, "Put these pieces of unit 115 in the printed order.",
               ["कटुकातिविषापाठा", "शाकत्वग्घिगु", "तेजनीः", "तद्वच्च", "दोषस्यंदार्थं", "वेदनोपशमायच"],
               "Kaṭukā, ativiṣā, pāṭhā, śāka bark, hiṅgu (printed घिगु), tejanī; and likewise, for the flowing off of the doṣa and for the relief of pain.",
               "कटुकातिविषापाठा → शाकत्वग्घिगु → तेजनीः → तद्वच्च → दोषस्यंदार्थं → वेदनोपशमायच."),
         match(2, "Match each name of unit 115 to the card's identification.",
               [["कटुका", "kutki (standard)"], ["अतिविषा", "atis (standard)"], ["पाठा", "velvetleaf (probable)"],
-               ["तेजनी", "identity disputed"], ["वेदना", "pain"]],
-              "Each name keeps the data's label: standard, probable or disputed.",
-              "कटुका, अतिविषा, पाठा, तेजनी, वेदना.", role="extend",
-              teaches="Kaṭukā (kutki) is standard; pāṭhā (velvetleaf) is probable; tejanī is disputed."),
+               ["तद्वत्", "in the same way"], ["वेदना", "pain"]],
+              "Each name keeps the data's label; तद्वत् = likewise, in the same way as unit 114.",
+              "कटुका, अतिविषा, पाठा, तद्वत्, वेदना.", role="extend",
+              teaches="Kaṭukā (kutki) is standard; pāṭhā (velvetleaf) is probable; tejanī (not asked) is disputed."),
         mcq("discriminate", 3, "Which split of तद्वच्च is right?",
             ("तद्वत् + च", "त् + च → च्च: तद्वत् + च → तद्वच्च."),
             [("तद्व + च्च", "तद्व is not a word; the adverb is तद्वत् (likewise)."),
@@ -441,7 +441,7 @@ AUTHORED["116"] = {
                    "सायं (सायम्) वह अरिष्ट पिए, और उसी प्रकार भली-भाँति बना आसव; दोनों खमीर उठाकर बने औषधीय पेय हैं। "
                    "तीन रात और सात दिन विकल्प हैं या एक के बाद एक, पंक्ति में ‘वा’ या ‘च’ नहीं, इसलिए तय नहीं। "
                    "कौन-सा अरिष्ट या आसव, यह भी नहीं कहा गया।"),
-    "hook": "दिन में केवल स्नेह; साँझ को अरिष्ट-आसव।",
+    "hook": "तब केवल स्नेह; साँझ को अरिष्ट और आसव।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 116, what should she drink in the evening (सायम्)?",
@@ -510,7 +510,7 @@ AUTHORED["117"] = {
              ("Śāka and śālmalī", "Neither tree is named in unit 117.")],
             "Śirīṣa (siris) and kakubha (arjuna).",
             "शिरीष, ककुभ: क्वाथ के पिचु."),
-        order(1, "Put the quarters of the verse in unit 117 in order.",
+        order(1, "Put these phrases of unit 117 in the verse's order.",
               ["शिरीषककुभकाथपिचून्", "योनौ च निक्षिपेत्", "उपद्रवाश्च येऽन्ये स्युः", "तान्यथास्वमुपाचरेत्"],
               "Swabs of the śirīṣa-kakubha decoction, and in the yoni one should place; and whatever other complications there may be, those one should treat each by its own.",
               "शिरीषककुभकाथपिचून् → योनौ च निक्षिपेत् → उपद्रवाश्च येऽन्ये स्युः → तान्यथास्वमुपाचरेत्."),
@@ -791,7 +791,7 @@ AUTHORED["122"] = {
     "question": "By unit 122, who approved the king of oils, how is it used, and for whom?",
     "rule": ("This king of oils (तैलराज, the balātaila), approved by the venerable Dhanvantari, is to be used in "
              "drinking, nasal administration (नावन), anointing and enema (बस्ति), for kings, the emaciated, women "
-             "recently delivered, infants, the aged, the delicate and others."),
+             "recently delivered, infants, those past age, the delicate and others."),
     "limits": ("Low confidence. राजमात्र has no certain sense; the marma compound can be divided two ways; the last group "
                "(divine injury, cursing, मनोज्वर) rests on a conjectural reading of printed ममो; graha (seizer) is not "
                "explained. No question rests on these. No dose is given."),
@@ -935,7 +935,7 @@ AIDS = {
     "110": {
         "chunks": "भवंति | चात्र",
         "sandhi": "अ + अ → आ: च + अत्र → चात्र।",
-        "anchors": "याद-सूत्र: ‘भवन्ति चात्र’ सुनते ही समझो: अब पंक्तियाँ आ रही हैं (इकाई १२६ में भी यही सूत्र छपा है)। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: ‘भवन्ति चात्र’ सुनते ही समझो: अब पंक्तियाँ आ रही हैं (इकाई १२६ में भी यही सूत्र है, वहाँ छपा ‘भवंत चात्र’)। (मेरी याद-पद्धति)",
     },
     "111": {
         "chain": {"steps": ["वायु के वश गर्भ का जो-जो अंग अटके", "उस-उस अंग को काटे", "भली प्रकार निकाले",
@@ -969,7 +969,7 @@ AIDS = {
     "115": {
         "diagram": {"groups": [
             {"label": "द्रव्य (क्रम से)", "items": ["कटुका: कुटकी (मानक)", "अतिविषा: अतीस (मानक)", "पाठा: अकनादि (सम्भावित)",
-                                                 "शाक: सागौन की छाल (सम्भावित)", "हिङ्गु (अनुमानित पाठ)",
+                                                 "शाक: सागौन की छाल (सम्भावित; या शाक और त्वक् दो)", "हिङ्गु (अनुमानित पाठ)",
                                                  "तेजनी (पहचान विवादित)"]},
             {"label": "प्रयोजन", "items": ["दोष का बह निकलना (पाठ अनिश्चित)", "वेदना की शान्ति"]}]},
         "chunks": "कटुकातिविषापाठाशाकत्वग्घिगुतेजनीः | तद्वच्च | दोषस्यंदार्थं | वेदनोपशमायच",
@@ -1083,12 +1083,12 @@ IMAGE_SPECS = {
     ("115", "diagram"): {
         "file": "sh4-katuka-vedana-115.svg",
         "alt": ("Two columns of unit 115. Drugs in line order: kaṭukā, kutki (standard); ativiṣā, atis (standard); "
-                "pāṭhā, velvetleaf (probable); śāka bark, teak (probable); hiṅgu (conjectural reading); tejanī "
+                "pāṭhā, velvetleaf (probable); śāka bark, teak (probable; śāka bark may also be two items, śāka and tvak); hiṅgu (conjectural reading); tejanī "
                 "(identity disputed). Purposes: flowing off of the doṣa (uncertain reading); relief of pain."),
         "type": "split",
         "title": "इकाई ११५: द्रव्य और प्रयोजन",
         "cols": [["द्रव्य (क्रम से)", ["१ कटुका: कुटकी (मानक)", "२ अतिविषा: अतीस (मानक)", "३ पाठा: अकनादि (सम्भावित)",
-                                      "४ शाक की छाल: सागौन (सम्भावित)", "५ हिङ्गु (अनुमानित पाठ)", "६ तेजनी (विवादित)"]],
+                                      "४ शाक की छाल: सागौन (सम्भावित; या शाक और त्वक् दो द्रव्य)", "५ हिङ्गु (अनुमानित पाठ)", "६ तेजनी (विवादित)"]],
                  ["प्रयोजन", ["दोष का बह निकलना (पाठ अनिश्चित)", "वेदना की शान्ति"]]],
     },
     ("121", "chain"): {
