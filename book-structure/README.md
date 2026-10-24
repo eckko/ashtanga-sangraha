@@ -1,5 +1,7 @@
 # Chapter map
 
+Version 5 (Kalpasthāna added, branch feat/2026-10-24/kalpasthana-version-1); kind: verse-study.
+
 One entry per chapter of Sūtrasthāna 1–5 with its topic groups (taken from
 `tools/authored/sections.py`). Each unit is one printed verse-pair of the
 1888 Marathi-printed edition, so the pairing can sit one line off from the
