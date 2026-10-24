@@ -47,7 +47,7 @@ AUTHORED["12"] = {
             "कालजानि (born in season) + उपगत (attained).",
             "इ + a different vowel → य् + that vowel."),
         mcq("apply", 4,
-            "Unit 12 begins यानि (which ...). Where does the card say this relative clause is taken up?",
+            "Unit 12 opens a relative clause with यानि (which ...). Where does the card say it is taken up?",
             ("In the next line, by तेषाम्",
              "The note: 'yāni ... sthitāni' continues into line 05.08.14, which begins तेषाम् (of these)."),
             [("In the same line, by तत्र", "तत्र (there, among these) opens unit 12; it does not answer यानि."),
@@ -458,7 +458,7 @@ AUTHORED["19"] = {
              "become unspoiled, with fuller taste (rasa) and potency (vīrya)."),
     "limits": ("The verse does not say which seasons are saumya or āgneya, and names no herb. 'To be taken' is understood. "
                "The subject of भवन्ति (the herbs) is understood."),
-    "explain_hi": ("यह ‘दूसरे’ आचार्यों का मत है (पंक्ति ०५.०८.१९ से आरम्भ)। सौम्य औषध सौम्य ऋतुओं में और आग्नेय औषध आग्नेय ऋतुओं में ग्रहण करें। "
+    "explain_hi": ("यह ‘दूसरों’ का मत है (पंक्ति ०५.०८.१९ ‘अन्ये पुनराहुः’ के बाद, ०५.०८.२० से)। सौम्य औषध सौम्य ऋतुओं में और आग्नेय औषध आग्नेय ऋतुओं में ग्रहण करें। "
                    "ऐसा करने से वे अव्यापन्न यानी अविकृत रहते हैं और उनके रस और वीर्य यानी शक्ति अधिक पूर्ण होते हैं। "
                    "कौन-सी ऋतुएँ सौम्य और कौन-सी आग्नेय हैं, यह श्लोक नहीं बताता। ‘आपूर्णतर’ तुलनात्मक (‑तर) है: अधिक भरा हुआ।"),
     "hook": "जैसा औषध, वैसी ऋतु: तब रस-वीर्य भरपूर।",
@@ -547,7 +547,7 @@ AUTHORED["20"] = {
               "संपूज्य देवताम् अश्विनौ गोब्राह्मणान् च: the deity, the two Aśvins, cows and brahmins.",
               "देवता · अश्विनौ · गो · ब्राह्मण.",
               role="extend",
-              teaches="Before gathering he worships the deity, the two Aśvins, cows and brahmins, in that order."),
+              teaches="The text names those he worships in this order: the deity, the two Aśvins, cows and brahmins (देवताम् अश्विनौ may also be one apposition)."),
         mcq("discriminate", 3, "Which is the right split of कृतोपवासः?",
             ("कृत + उपवासः",
              "अ + उ → ओ: कृत + उपवासः = कृतोपवासः, one who has done a fast."),
@@ -587,7 +587,7 @@ AUTHORED["21"] = {
                "clause means 'places' or only 'the rites' is an open reviewer point; स्ववश्यानि is unclear. No question rests on these. "
                "'East and north doors' is literal; whether it means east or north is not decided."),
     "explain_hi": ("ग्रहण के बाद संग्रह की विधि है। औषधों को अनुरूप और अच्छे गुण वाले भाजन यानी पात्र में रखें। "
-                   "फिर पूर्व और उत्तर द्वार वाले घरों में, जहाँ नित्य पुष्प, उपहार और बलिकर्म होते हों, उन्हें शिक्य यानी छींके में लटकाकर रखें। "
+                   "फिर पूर्व और उत्तर द्वार वाले घरों में, नित्य पुष्प, उपहार और बलिकर्म के प्रसंग में (यह ‘स्थानों में’ है या केवल ‘कर्मों में’, खुला है), उन्हें शिक्य यानी छींके में लटकाकर रखें। "
                    "वे अग्नि, जल, उपस्वेद यानी भाप, धुएँ, धूल, चूहों और चौपायों आदि की पहुँच से दूर हों। "
                    "‘निवातप्रवातैकदेश’ का बँटवारा और ‘स्ववश्यानि’ अस्पष्ट हैं, इसलिए इन पर प्रश्न नहीं।"),
     "hook": "पात्र में रखो, छींके में टाँगो: आग, पानी, धुआँ, धूल, चूहे दूर।",
@@ -710,7 +710,7 @@ AUTHORED["23"] = {
     "title": "पुराणानि तु पिप्पलीविडङ्ग…",
     "question": "Which five things are named as 'old' in verse 23?",
     "rule": ("(The first line is damaged; on a conjectural reading, ones whose year has not passed.) But old (ones): "
-             "pippalī (long pepper), viḍaṅga (Embelia ribes), jaggery, honey and ghee."),
+             "pippalī (long pepper, Piper longum; standard), viḍaṅga (Embelia ribes; standard), jaggery, honey and ghee."),
     "limits": ("Confidence low. The first line (तदंमत्ताव-) is garbled and its sense, 'whose year has not passed', is a "
                "conjecture supported only by the contrast 'but old'; no question rests on it. No verb is stated. "
                "Pippalī = Piper longum (standard); viḍaṅga = Embelia ribes (standard; some also use Embelia tsjeriam-cottam)."),
@@ -718,7 +718,7 @@ AUTHORED["23"] = {
                    "दूसरी पंक्ति स्पष्ट है: ‘पुराणानि तु’, परन्तु पुराने: पिप्पली यानी पीपर (Piper longum, मानक), विडंग यानी वायविडंग (Embelia ribes, मानक), "
                    "गुड़, मधु यानी शहद और घृत यानी घी। ‘तु’ (परन्तु) इन्हें पहली पंक्ति वाली औषधियों से अलग करता है। "
                    "कोई क्रिया नहीं लिखी।"),
-    "hook": "पीपर, वायविडंग, गुड़, शहद, घी: ये पुराने अच्छे।",
+    "hook": "पीपर, वायविडंग, गुड़, शहद, घी: ‘पुराणानि तु’, परन्तु ये पुराने।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -731,7 +731,7 @@ AUTHORED["23"] = {
             "पुराणानि तु पिप्पलीविडंगगुडमधुघृतानि.",
             "पुराण = old."),
         match(1, "Match each item of verse 23 to its meaning.",
-              [["पिप्पली", "long pepper"], ["विडङ्ग", "Embelia ribes"],
+              [["पिप्पली", "long pepper"], ["विडङ्ग", "Embelia ribes (standard)"],
                ["गुड", "jaggery"], ["मधु", "honey"], ["घृत", "ghee"]],
               "The five items of the dvandva; pippalī and viḍaṅga are standard identifications.",
               "पिप्पली = long pepper; विडङ्ग = Embelia ribes; गुड = jaggery; मधु = honey; घृत = ghee."),
@@ -803,7 +803,7 @@ AUTHORED["24"] = {
             "अपि (also) + च (and) = and further.",
             "अपि = also."),
         fill(2, "The particle meaning 'and' in अपि च is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("च"),
+             accepts("च", None, "cha"),
              "च = and; अपि = also.",
              "In अपि च, च means 'and' and अपि means 'also'.",
              "च = and."),
@@ -840,7 +840,7 @@ AUTHORED["24"] = {
 # ---------------------------------------------------------------- unit 25
 AUTHORED["25"] = {
     "title": "क्षीरं … ग्राह्यम्",
-    "question": "Which animal products does verse 25 say are to be taken, and from what kind of source?",
+    "question": "Which products (presumably from animals; not stated) does verse 25 say are to be taken, and from what kind of source?",
     "rule": ("Milk (bauṣkyaṇa, unclear) is to be taken, and dung and urine, disease-free; of (those) having age and strength: "
              "dhātu, tail, horn, hoof and so on (conjectural reading)."),
     "limits": ("Confidence low. बौष्क्यणं is unclear (perhaps vaṣkayaṇī, a guess). शकन्मूत्रं is flagged, and the "
@@ -876,7 +876,7 @@ AUTHORED["25"] = {
         mcq("discriminate", 3, "Which is the right split of वयोबलवतां?",
             ("वयः + बलवताम्",
              "अः before a voiced sound such as ब becomes ओ: वयः + बलवताम् = वयोबलवताम्."),
-            [("वयस् + अबलवताम्", "That would give वयसबल-, and mean 'of the weak'."),
+            [("वयः + वलवताम्", "वलवताम् is not a word; the second member is बलवताम्, of those having strength."),
              ("वया + उबलवताम्", "उबलवताम् is not a word; ओ here comes from अः."),
              ("वय + ओबलवताम्", "ओबलवताम् is not a word.")],
             "वयस् (age) + बलवत् (strong): of those having age and strength.",
@@ -951,8 +951,9 @@ AIDS = {
             {"label": "पूरी पाई हुई", "items": ["प्रमाण", "रस", "वीर्य", "गन्ध"]},
             {"label": "जो बिगड़े नहीं", "items": ["गन्ध", "वर्ण", "रस", "स्पर्श", "प्रभाव"]},
             {"label": "और", "items": ["कालज", "गहरी जड़ें", "उत्तर दिशा में"]}]},
-        "chunks": ("तत्र यानि | कालजान्युपगतसंपूर्णप्रमाणरसवीर्यगंधानि | कालातपमिसलिलपवनशस्त्रजंतुभिः | "
-                   "अनुपहतगंधवर्णरसस्पर्शप्रभावाणि | अवगाढमूलानि | उदीच्यां दिशि स्थितानि।"),
+        "chunks": ("तत्र यानि | कालजान्युपगतसंपूर्णप्रमाणरसवीर्यगंधानि | "
+                   "कालातपमिसलिलपवनशस्त्रजंतुभिरनुपहतगंधवर्णरसस्पर्शप्रभावाम्यवगाढमूलान्यु | दीच्यां दिशि स्थितानि। "
+                   "(छपा पाठ; ‘मि’, ‘प्रभावाम्य-’ और ‘-मूलान्यु | दीच्यां’ पर पाठ-चिह्न हैं।)"),
         "sandhi": "इ + उ → यु: कालजानि + उपगत → कालजान्युपगत; इः स्वर से पहले → इर्: जन्तुभिः + अनुपहत → जन्तुभिरनुपहत।",
         "anchors": "कालज = समय पर जन्मी · प्रमाण = मात्रा · अनुपहत = बिना बिगड़ी · अवगाढ = गहरी · उदीची दिशा = उत्तर।",
     },
@@ -963,7 +964,7 @@ AIDS = {
     },
     "14": {
         "anchors": "ग्रीष्म = गर्मी · मूल = जड़ · शिशिर = ठंड की ऋतु · वा = या · शीर्ण = झड़ा हुआ · पर्ण = पत्ता।",
-        "contrast": "ग्रीष्म में सीधे जड़ें; विकल्प (वा) शिशिर में, उन पौधों की जिनके पत्ते झड़कर उगे।",
+        "contrast": "ग्रीष्म में जड़ें; विकल्प (वा) शिशिर में, उन पौधों की जिनके पत्ते झड़कर उगे।",
         "pegs": "मेरा बनाया स्मरण-चित्र: तपती धूप में मिट्टी खोदकर जड़ निकालता हुआ आदमी।",
     },
     "15": {
@@ -989,8 +990,8 @@ AIDS = {
         "frame": "यह केवल प्रस्तावना है: ‘दूसरों का मत’ अगली पंक्ति (०५.०८.२०) में।",
     },
     "19": {
-        "seesaw": "सौम्य औषध ↔ सौम्य ऋतु · आग्नेय औषध ↔ आग्नेय ऋतु: जैसा औषध वैसी ऋतु।",
-        "chain": {"steps": ["सौम्य औषध सौम्य ऋतुओं में", "आग्नेय औषध आग्नेय ऋतुओं में", "इस प्रकार अविकृत", "रस और वीर्य अधिक पूर्ण"]},
+        "seesaw": "सौम्य ↔ आग्नेय (इस श्लोक के दो विपरीत स्वभाव): सौम्य औषध सौम्य ऋतुओं में, आग्नेय औषध आग्नेय ऋतुओं में।",
+        "chain": {"steps": ["सौम्य औषध: सौम्य ऋतु", "आग्नेय औषध: आग्नेय ऋतु", "इस प्रकार", "दो फल: अविकृत; रस और वीर्य अधिक पूर्ण"]},
         "sandhi": "इ + औ → यौ: सौम्यानि + औषधानि → सौम्यान्यौषधानि; उ + ऋ → वृ: सौम्येषु + ऋतुषु → सौम्येष्वृतुषु।",
         "anchors": "सौम्य = शीतल, सौम्य · आग्नेय = अग्नि-स्वभाव · अव्यापन्न = अविकृत · आपूर्णतर = अधिक भरा।",
     },
@@ -1013,7 +1014,7 @@ AIDS = {
         "contrast": "स-क्षीर = क्षीर सहित; अ-क्षीर या निष्क्षीर = बिना क्षीर।",
     },
     "23": {
-        "diagram": {"groups": [{"label": "पुराने अच्छे", "items": ["पिप्पली (पीपर)", "विडंग (वायविडंग)", "गुड़", "मधु (शहद)", "घृत (घी)"]}]},
+        "diagram": {"groups": [{"label": "पुराणानि तु (परन्तु पुराने)", "items": ["पिप्पली (पीपर)", "विडंग (वायविडंग)", "गुड़", "मधु (शहद)", "घृत (घी)"]}]},
         "chunks": "तदंमत्तावनतिक्रांतसंवत्सराणि (पहली पंक्ति अस्पष्ट) | पुराणानि तु | पिप्पलीविडंगगुडमधुघृतानि।",
         "anchors": "पुराण = पुराना · तु = परन्तु · पिप्पली = पीपर · विडंग = वायविडंग · गुड = गुड़ · मधु = शहद · घृत = घी।",
         "puns": "केवल सुनने की सहायता: ‘पि-वि-गु-म-घृ’, पाँच पुराने।",
@@ -1066,18 +1067,19 @@ IMAGE_SPECS = {
     },
     ("19", "chain"): {
         "file": "ka8-saumya-agneya-19.svg",
-        "alt": ("Flowchart: gentle herbs in gentle seasons and fiery herbs in fiery seasons both lead to unspoiled herbs "
-                "with fuller taste and potency"),
+        "alt": ("Flowchart: gentle herbs in gentle seasons and fiery herbs in fiery seasons; thus two results: unspoiled, "
+                "and fuller taste and potency"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["सौम्य औषध<br/>सौम्य ऋतुओं में"] --> C["इस प्रकार अविकृत"]\n'
-                 '  B["आग्नेय औषध<br/>आग्नेय ऋतुओं में"] --> C\n  C --> D["रस और वीर्य<br/>अधिक पूर्ण"]\n'),
+        "code": ('flowchart TD\n  A["सौम्य औषध: सौम्य ऋतु"] --> C["इस प्रकार"]\n'
+                 '  B["आग्नेय औषध: आग्नेय ऋतु"] --> C\n  C --> D["अविकृत"]\n  C --> E["रस और वीर्य अधिक पूर्ण"]\n'),
     },
     ("20", "chain"): {
         "file": "ka8-grahana-vidhi-20.svg",
-        "alt": ("Chain of six steps for the gatherer: auspicious conduct and good behaviour; clean, white clothes; worship of "
-                "deity, Ashvins, cows, brahmins; having fasted; facing east or north; he should take"),
+        "alt": ("The six descriptions of the gatherer in the order of the text (not a stated time sequence): auspicious conduct "
+                "and good behaviour; clean, white clothes; worship of deity, Ashvins, cows, brahmins; having fasted; facing east "
+                "or north; he should take"),
         "type": "chain",
-        "title": "इकाई २०: ग्रहण करने वाला",
+        "title": "इकाई २०: ग्रहण करने वाला (पाठ का क्रम)",
         "steps": ["मंगल आचार, कल्याणकारी वृत्ति", "शुद्ध, श्वेत वस्त्र", "देवता, अश्विन्, गौ, ब्राह्मण की पूजा",
                   "उपवास किया हुआ", "पूर्व या उत्तर मुख", "ग्रहण करे"],
     },
@@ -1094,7 +1096,7 @@ IMAGE_SPECS = {
         "file": "ka8-purana-dravya-23.svg",
         "alt": "Mind map: five things named as old: pippali (long pepper), vidanga, jaggery, honey, ghee",
         "type": "mermaid",
-        "code": ('mindmap\n  पुराने\n    पिप्पली यानी पीपर\n    विडंग यानी वायविडंग\n    गुड़\n'
+        "code": ('mindmap\n  परन्तु पुराने\n    पिप्पली यानी पीपर\n    विडंग यानी वायविडंग\n    गुड़\n'
                  '    मधु यानी शहद\n    घृत यानी घी\n'),
     },
 }
