@@ -934,7 +934,7 @@ IMAGE_SPECS = {
                  '    आध्मान यानी अफारा\n    हृद्ग्रह\n'),
     },
     ("13", "chain"): {
-        "file": "ka7-viDavrita-13.svg",
+        "file": "ka7-vidavrita-13.svg",
         "alt": "Chain of four steps: signs of verse 12; know the sneha covered by stool; sneha and sweating with enemas; nirūhas cooked with śyāmā and bilva, with anuvāsanas",
         "type": "chain",
         "title": "श्लोक १३: मल से आवृत स्नेह",
