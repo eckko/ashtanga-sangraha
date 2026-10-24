@@ -5,9 +5,10 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 38
 AUTHORED["38"] = {
     "title": "रसवीर्यादीनि समीक्ष्य",
-    "question": "On what does unit 38 make the choice of preparation and dose rest?",
+    "question": "On what does unit 38 make the choice of dose rest?",
     "rule": ("Having examined the medicine's rasa (taste), vīrya (potency) and so on, and by the strength of the disease, "
-             "the patient and so on, one should resort to the preparation of niryāsa and the others, and to the dose (mātrā)."),
+             "the patient and so on, one should resort to the dose (mātrā); the word read as 'preparation' of niryāsa and the "
+             "others is unclear in print."),
     "limits": ("Low confidence. The printed कल्पनाव नां is split and unclear; 'preparation' (कल्पना) is a conjecture only, so no "
                "question rests on it. The list with आदि (and so on) is left open; the unit names no dose figure."),
     "explain_hi": ("यह इकाई पाँच रूपों (निर्यास आदि) की परिभाषाओं के बाद मात्रा का प्रसंग खोलती है। वैद्य पहले औषध के रस, वीर्य आदि को "
@@ -235,14 +236,14 @@ AUTHORED["41"] = {
               "इत्यलम्: thus, enough. No dose, no drug.",
               "इत्यलम् is a closing remark."),
         mcq("apply", 4,
-            "A teacher ends a long talk by saying that enough has been said. Which word of unit 41 carries 'enough'?",
-            ("अलम्",
-             "अलम् = enough."),
-            [("इति", "इति means 'thus'; it marks the end, not 'enough'."),
+            "A speaker closes a quotation with the word for thus. Which word of unit 41 does that job?",
+            ("इति",
+             "इति = thus; it marks the close of what was said."),
+            [("अलम्", "अलम् means enough, not thus."),
              ("च", "च (and) is not in unit 41."),
              ("पुनः", "पुनः (again) is not in unit 41.")],
-            "अलम् = enough; इति = thus.",
-            "अलम् = enough."),
+            "इत्यलम् = इति (thus) + अलम् (enough).",
+            "इति = thus."),
         mcq("transfer", 5,
             "Join इति + अपि (thus also) by the same rule as इति + अलम्. Which is right?",
             ("इत्यपि",
@@ -266,7 +267,7 @@ AUTHORED["42"] = {
                "the plain rendering is kept. The verse does not say what exactly will be taught next."),
     "explain_hi": ("पहली पंक्ति: वह (पूर्व उपदेश) इस प्रकार बुद्धिमानों के ज्ञान के प्रबोध के लिए उपदिष्ट है। "
                    "दूसरी पंक्ति: जैसे सब वैद्य (भिषजः) समझेंगे, वैसे उपदेश दिया जाएगा। ‘विज्ञास्यन्ति’ और ‘उपदेक्ष्यते’ दोनों भविष्यत् काल हैं; "
-                   "‘उपदेक्ष्यते’ कर्मवाच्य है (उपदेश दिया जाएगा)। यानी आगे की बात सभी वैद्यों की समझ के लिए सरल रूप में आएगी।"),
+                   "‘उपदेक्ष्यते’ कर्मवाच्य है (उपदेश दिया जाएगा)। यानी आगे की बात ऐसे कही जाएगी कि सभी वैद्य समझें।"),
     "hook": "पहले बुद्धिमानों के लिए; अब सब वैद्यों के लिए।",
     "core": False,
     "questions": [
@@ -323,7 +324,7 @@ AUTHORED["42"] = {
 # ---------------------------------------------------------------- unit 43
 AUTHORED["43"] = {
     "title": "निर्यासस्य मध्यमा मात्रा",
-    "question": "What middle doses does verse 43 give?",
+    "question": "What doses and measures does verse 43 give?",
     "rule": ("The middle dose of niryāsa is, on a conjectural join, four palas; of kalka (paste) and cūrṇa (powder) a karṣa; "
              "three palas for stirring it (āloḍana)."),
     "limits": ("'Four palas' rests on joining the printed च तुष्पलं into चतुष्पलम्; likely but not certain, so no question rests "
@@ -353,7 +354,7 @@ AUTHORED["43"] = {
               "कल्कचूर्णयोः · कर्षः · पलत्रयम् · तदालोडने.",
               role="extend",
               teaches="Verse 43, line 2: kalka and cūrṇa take a karṣa; the stirring takes three palas."),
-        mcq("discriminate", 3, "By verse 43, what is the middle dose of kalka and cūrṇa?",
+        mcq("discriminate", 3, "By verse 43, what dose is given for kalka and cūrṇa?",
             ("A karṣa",
              "कल्कचूर्णयोः कर्षः: of kalka and cūrṇa, a karṣa."),
             [("Three palas", "Three palas are for the stirring (आलोडने), not the dose of the paste."),
@@ -371,15 +372,15 @@ AUTHORED["43"] = {
             "पलत्रयम् = three palas, for the stirring.",
             "आलोडन: three palas."),
         mcq("transfer", 5,
-            "कल्कचूर्णयोः is genitive dual: of kalka and cūrṇa. Which form means of śīta and phāṇṭa?",
-            ("शीतफाण्टयोः",
+            "कल्कचूर्णयोः is genitive dual: of kalka and cūrṇa. Which form means of ghee and oil (घृत, तैल)?",
+            ("घृततैलयोः",
              "A dvandva of two takes the dual; the genitive dual ends in -योः."),
-            [("शीतफाण्टानाम्", "-आनाम् is genitive plural, for more than two."),
-             ("शीतफाण्टौ", "-औ is nominative or accusative dual, not genitive."),
-             ("शीतफाण्टस्य", "-स्य is genitive singular, for one thing.")],
-            "Same ending as कल्कचूर्णयोः (and it is the very form unit 44 uses).",
+            [("घृततैलानाम्", "-आनाम् is genitive plural, for more than two."),
+             ("घृततैले", "-ए is the nominative or accusative dual of a neuter, not genitive."),
+             ("घृततैलस्य", "-स्य is genitive singular, for one thing.")],
+            "Same ending as कल्कचूर्णयोः.",
             "Genitive dual (also locative dual): -योः.",
-            teaches="The genitive dual of an -अ stem ends in -योः: कल्कचूर्णयोः, शीतफाण्टयोः."),
+            teaches="The genitive dual of an -अ stem ends in -योः: कल्कचूर्णयोः, घृततैलयोः."),
     ],
 }
 
@@ -393,7 +394,7 @@ AUTHORED["44"] = {
                "'respectively': six for śīta and four for phāṇṭa is only the order given, so no question pairs them. "
                "Prastha is a unit of volume (line 05.08.71); nothing is converted."),
     "explain_hi": ("यह इकाई तीन रूपों के मान देती है। निर्यूह यानी काढ़े में: पल भर औषध को आधे प्रस्थ जल में आग पर चढ़ाएँ (अधिश्रित्य) "
-                   "और जब चौथाई शेष रहे (पादशेषित) तब उतार लें (अवतारयेत्)। शीत (सम्भवतः ठण्डा अर्क) और फाण्ट (सम्भवतः गरम अर्क) में: "
+                   "और जब चौथाई शेष रहे (पादशेषित) तब उतार लें (अवतारयेत्)। शीत यानी ठण्डे अर्क और फाण्ट यानी गरम अर्क में: "
                    "पल भर औषध, छह और चार (पल जल) से भिगोया हुआ। ‘जल के पल’ छपे ‘बुंपलैः’ का अनुमानित पाठ है; "
                    "छह शीत का और चार फाण्ट का है, यह पाठ स्पष्ट नहीं कहता।"),
     "hook": "पल औषध, आधा प्रस्थ जल, चौथाई बचे तो उतारो।",
@@ -461,7 +462,7 @@ AUTHORED["45"] = {
     "explain_hi": ("स्नेहपाक यानी स्नेह (घी या तेल) को द्रव और कल्क के साथ पकाना। जहाँ नुस्खे में प्रमाण न बताया हो (अनिर्दिष्टप्रमाण), "
                    "वहाँ कुल (समुदित) द्रव का चौथाई भाग स्नेह लें। फिर ‘उसका’ चौथाई भाग कल्क यानी लुगदी। ‘उसका’ स्वाभाविक रूप से स्नेह के लिए है, "
                    "पर द्रव के लिए भी हो सकता है; पाठ तय नहीं करता। मान तृतीया में हैं: पादेन = चौथाई से।"),
-    "hook": "द्रव चार, स्नेह एक; स्नेह का चौथाई कल्क।",
+    "hook": "द्रव चार, स्नेह एक; ‘उसका’ चौथाई कल्क।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -517,11 +518,11 @@ AUTHORED["45"] = {
 AUTHORED["46"] = {
     "title": "अन्ये पुनः पठन्ति",
     "question": "What does unit 46 announce?",
-    "rule": "'Others, again, read': the line introduces a different reading of the rule on measures, given in the units that follow.",
+    "rule": "'Others, again, read': the line introduces a different reading of the rule on measures, apparently given in the units that follow.",
     "limits": "The others are not named, and the object of 'read' is not stated in this line; the alternative is apparently in the next units.",
-    "explain_hi": ("यह प्रस्तावना-पंक्ति है: ‘अन्य (आचार्य) फिर (भिन्न रूप से) पढ़ते हैं’। पिछली इकाई ने अनुक्त प्रमाण वाले स्नेहपाक का एक नियम दिया; "
-                   "यह पंक्ति बताती है कि दूसरे उसी विषय को भिन्न पाठ से कहते हैं, जो आगे की इकाइयों में आता प्रतीत होता है। "
-                   "‘पठन्ति’ √पठ् का वर्तमान काल, अन्य पुरुष बहुवचन है।"),
+    "explain_hi": ("यह प्रस्तावना-पंक्ति है: ‘अन्य फिर पढ़ते हैं’। पिछली इकाई ने अनुक्त प्रमाण वाले स्नेहपाक का एक नियम दिया; "
+                   "यह पंक्ति माप-नियम का दूसरों वाला भिन्न पाठ प्रस्तुत करती प्रतीत होती है, जो आगे की इकाइयों में आता है; "
+                   "‘पढ़ते हैं’ का कर्म यहाँ नहीं कहा गया। ‘पठन्ति’ √पठ् का वर्तमान काल, अन्य पुरुष बहुवचन है।"),
     "hook": "‘अन्ये पठन्ति’: दूसरों का पाठ आगे।",
     "core": False,
     "questions": [
@@ -582,7 +583,7 @@ AUTHORED["47"] = {
              "add a portion of the kalka: a fourth, a sixth, an eighth."),
     "limits": ("Line 1 has no main verb. The whole of which the fractions are parts is not stated. The two lists of three may "
                "go together in order, but the verse does not say so; no question pairs them."),
-    "explain_hi": ("यह दूसरों का पाठ है (पंक्ति ०५.०८.५५)। ‘स्नेहे सिद्ध्यति’: जब स्नेह पक रहा हो। तीन द्रव क्रम से (क्रमात्) गिनाए गए हैं: "
+    "explain_hi": ("यह सम्भवतः दूसरों का पाठ है (पंक्ति ०५.०८.५५ के बाद)। ‘स्नेहे सिद्ध्यति’: जब स्नेह पक रहा हो। तीन द्रव क्रम से (क्रमात्) गिनाए गए हैं: "
                    "शुद्ध जल, निःक्वाथ यानी काढ़ा और स्वरस यानी निचोड़ा हुआ रस। फिर कल्क यानी लुगदी का भाग मिलाना है: चौथा, छठा, आठवाँ। "
                    "ये भाग किसके हैं, और कौन-सा भाग किस द्रव के साथ जाता है, पद्य नहीं कहता।"),
     "hook": "जल, काढ़ा, स्वरस; चौथा, छठा, आठवाँ।",
@@ -603,7 +604,7 @@ AUTHORED["47"] = {
               "Water · decoction · juice."),
         match(2, "Match each word of verse 47 to its meaning.",
               [["अम्बु", "water"], ["निःक्वाथ", "decoction"], ["स्वरस", "expressed juice"], ["अंश", "portion"]],
-              "निःक्वाथ is a synonym of क्वाथ; स्वरस is the herb's own juice; अंश is a portion.",
+              "निःक्वाथ is a synonym of क्वाथ; स्वरस is expressed juice; अंश is a portion.",
               "अम्बु = water; निःक्वाथ = decoction; स्वरस = juice; अंश = portion.",
               role="extend",
               teaches="Verse 47's words: अम्बु (water), निःक्वाथ (decoction), स्वरस (expressed juice), अंश (portion)."),
@@ -670,7 +671,7 @@ AUTHORED["48"] = {
               "Liquid · equal to sneha · unspecified drug · make into kalka.",
               role="extend",
               teaches="Verse 48: liquid equal to the sneha, added separately; a drug of unspecified preparation becomes kalka."),
-        mcq("discriminate", 3, "By verse 48, how much liquid is added in that case?",
+        mcq("discriminate", 3, "By verse 48, how much liquid is to be added separately?",
             ("Equal to the sneha",
              "स्नेहसमम् एव: just equal to the sneha."),
             [("A quarter of the sneha", "A quarter is the measure of unit 45, not verse 48."),
@@ -1104,7 +1105,7 @@ AIDS = {
     "43": {
         "anchors": "मध्यमा = बीच की · कर्ष = भार की इकाई · पल = भार की इकाई · आलोडन = घोलना।",
         "chunks": "निर्यासस्य | मध्यमा मात्रा | च तुष्पलं (अनुमानित चतुष्पलम्) | कल्कचूर्णयोः कर्षः | पलत्रयं तदालोडने।",
-        "frame": "मध्यम मात्रा की सूची: निर्यास (सम्भवतः चार पल), कल्क और चूर्ण (कर्ष), घोलने में तीन पल।",
+        "frame": "मात्राओं की सूची: निर्यास की मध्यम मात्रा (सम्भवतः चार पल); कल्क और चूर्ण की मात्रा (कर्ष); घोलने में तीन पल।",
     },
     "44": {
         "chain": {"steps": ["पल भर औषध, आधा प्रस्थ जल", "आग पर चढ़ाओ", "चौथाई शेष रहे", "उतार लो"]},
@@ -1119,7 +1120,7 @@ AIDS = {
     "46": {
         "chunks": "अन्ये | पुनः | पठन्ति।",
         "contrast": "केचित् आहुः (इकाई ३९) = कुछ कहते हैं · अन्ये पठन्ति (इकाई ४६) = दूसरे (भिन्न) पढ़ते हैं।",
-        "frame": "घोषणा: पिछले माप-नियम का दूसरों वाला पाठ आगे।",
+        "frame": "घोषणा: पिछले माप-नियम का दूसरों वाला पाठ आगे आता प्रतीत होता है।",
     },
     "47": {
         "contrast": "तीन द्रव: शुद्ध जल, निःक्वाथ, स्वरस · तीन भाग: चौथा, छठा, आठवाँ (जोड़ी पाठ में नहीं कही गई)।",
@@ -1195,7 +1196,7 @@ IMAGE_SPECS = {
         "alt": ("Two columns from verse 47: the liquids in order (pure water, decoction, svarasa) and the kalka portions "
                 "(a fourth, a sixth, an eighth); no pairing is stated"),
         "type": "split",
-        "title": "पद्य ४७: दो सूचियाँ",
+        "title": "पद्य ४७: दो सूचियाँ (जोड़ी अनुक्त)",
         "cols": [["द्रव, क्रम से", ["शुद्ध जल", "निःक्वाथ", "स्वरस"]],
                  ["कल्क का भाग", ["चौथा", "छठा", "आठवाँ"]]],
     },
@@ -1208,11 +1209,11 @@ IMAGE_SPECS = {
     },
     ("50", "chain"): {
         "file": "ka8-siddhi-lakshana-50.svg",
-        "alt": ("Flowchart of the signs in unit 50: the sound stops; the sneha clears; its own colour, smell and taste arise; "
-                "it does not stick to the fingers; then it is time to take it down"),
+        "alt": ("Flowchart of four signs in unit 50, each leading to the time for taking it down: the sound stops; the sneha "
+                "clears; its own colour, smell and taste arise; it does not stick to the fingers"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["ध्वनि बन्द"] --> B["स्नेह स्वच्छ"]\n  B --> C["अपना रंग,<br/>गन्ध, रस"]\n'
-                 '  C --> D["अंगुलियों से<br/>न चिपके"]\n  D --> E["उतारने का समय"]\n'),
+        "code": ('flowchart TD\n  A["ध्वनि बन्द"] --> E["उतारने का समय"]\n  B["स्नेह स्वच्छ"] --> E\n'
+                 '  C["अपना रंग,<br/>गन्ध, रस"] --> E\n  D["अंगुलियों से<br/>न चिपके"] --> E\n'),
     },
     ("52", "diagram"): {
         "file": "ka8-ghrita-taila-leha-52.svg",
