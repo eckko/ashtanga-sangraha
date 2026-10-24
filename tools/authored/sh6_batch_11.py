@@ -9,9 +9,9 @@ AUTHORED["129"] = {
     "question": "By unit 129, how does the manda (slow) agni deal with food, even food taken properly?",
     "rule": ("The manda agni, even with food properly taken (सम्यगप्युपयुक्तम्), first shows the signs of āma (आमलिङ्गानि: "
              "heaviness of the belly, distension, constipation and the like) and digests only after a long time (चिरात्पचति)."),
-    "limits": ("Prose, one printed line; the fourth of the four agnis of unit 125. The list ends in ādi ('and the like'), so "
-               "it is not complete. उदरगौरव is read as one item, 'heaviness of the belly', though उदर and गौरव could be two; "
-               "no question rests on that split. āma = raw, undigested matter (standard). No cure is given here."),
+    "limits": ("Prose, one printed line; the fourth agni of unit 125. The list ends in ādi, so it is not complete. "
+               "उदरगौरव is read as one item (heaviness of the belly), though it could be two; no question rests on that. "
+               "āma = raw, undigested matter (standard). No cure is given."),
     "explain_hi": ("इकाई १२५ में अग्नि के चार भेद गिनाए गए; यह पंक्ति चौथे, मन्द अग्नि को बताती है। "
                    "मन्द अग्नि ठीक से खाए गए अन्न को भी तुरन्त नहीं पचाती: पहले आम (कच्चे, न पचे पदार्थ) के लक्षण दिखाती है, फिर देर से पचाती है। "
                    "छपे लक्षण: उदर का भारीपन, आध्मान (पेट फूलना), विबन्ध (मल रुकना), आटोप (गड़गड़ाहट), आन्त्रकूजन (आँतों की आवाज़), "
@@ -129,9 +129,9 @@ AUTHORED["131"] = {
     "question": "By unit 131, how is the agni brought to equality and then kept, and which remedies are named?",
     "rule": ("Gradually (क्रमशः) bringing the others to equality (साम्यमापाद्य) by the lesser (अवर), one keeps it by the best (प्रवर), "
              "with the Vāta-and-other remedies of the doṣa-treatment section and the medicine-and-exercise combinations prescribed for grahaṇī."),
-    "limits": ("Prose; confidence low: the sentence is elliptical. What प्रवर, अवर and the 'others' (इतरान्) refer to is not "
-               "stated; the card keeps them literal and asks nothing about their roles. 'It' is read as the agni. दोषोपक्रमणीय is "
-               "probably a chapter title (not verified); grahaṇī is probably a digestive disorder. No dose is given."),
+    "limits": ("Prose; confidence low, elliptical. What प्रवर, अवर and इतरान् refer to is not stated; nothing is asked "
+               "about their roles. दोषोपक्रमणीय is probably a chapter title (not verified); grahaṇī is probably a "
+               "digestive disorder. No dose is given."),
     "explain_hi": ("यह गद्य-पंक्ति अग्नि की रक्षा का ढंग बताती है, पर वाक्य अधूरा-सा है (विश्वास निम्न)। "
                    "श्रेष्ठ (प्रवर) सात्म्य के साथ, अपने-अपने अनुसार निम्न (अवर) के द्वारा अन्यों को क्रमशः समता तक पहुँचाकर, श्रेष्ठ से उसकी रक्षा करे। "
                    "प्रवर, अवर और ‘अन्य’ किसके लिए हैं, यह नहीं कहा गया; इसलिए इन पर कोई प्रश्न नहीं। "
@@ -246,9 +246,9 @@ AUTHORED["133"] = {
     "question": "By the verse of unit 133, what are the srotas (channels) like in colour and form?",
     "rule": ("The srotas (स्रोतांसि) have the colour of their own dhātu (स्वधातुसमवर्ण), are round (वृत्त), thick (स्थूल) and fine (अणु), "
              "long in form (दीर्घाण्याकृत्या), and like tendrils (प्रतानसदृश, probable)."),
-    "limits": ("One verse over two printed lines; the subject स्रोतांसि is named only in the second line, the copula is understood. "
-               "'Thick and fine' are printed side by side; the line does not say which srotas are which. प्रतान = tendril is "
-               "probable ('extension' is another sense), so no question rests on it. Printed वर्णांनि = वर्णानि."),
+    "limits": ("One verse, two printed lines; स्रोतांसि is named in the second line, the copula understood. Which srotas "
+               "are thick and which fine is not said. प्रतान = tendril is probable, so no question rests on it. "
+               "Printed वर्णांनि = वर्णानि."),
     "explain_hi": ("यह संग्रह-श्लोक स्रोतस् (शरीर के मार्ग) का रूप बताता है। "
                    "वे अपने-अपने धातु के समान रंग वाले हैं; गोल, मोटे और बारीक; आकृति में लम्बे; और प्रतान के समान (सम्भवतः लता के तन्तु)। "
                    "पहली पंक्ति के विशेषणों का विशेष्य ‘स्रोतांसि’ दूसरी पंक्ति में आता है। "
@@ -602,9 +602,9 @@ AUTHORED["139"] = {
     "question": "By the verse of unit 139, what makes the agni sama, viṣama, tīkṣṇa or manda?",
     "rule": ("Sama when Samāna (a wind) stands in its own place; viṣama when gone along a wrong path (विमार्गगे); tīkṣṇa when "
              "overcome by Pitta (पित्ताभिमूर्च्छिते); manda when this is afflicted by Kapha (कफपीडिते)."),
-    "limits": ("One verse over two printed lines; the subject agni comes from unit 125, the copula is understood. What goes along "
-               "the wrong path is not stated (the data reads it with Samāna), and what अस्मिन् refers to is open; no question "
-               "rests on either. Printed अग्निं is possibly अग्निर्; not asked."),
+    "limits": ("One verse, two printed lines; the subject agni comes from unit 125. What goes the wrong path is not "
+               "stated (the data reads Samāna), and what अस्मिन् refers to is open; no question rests on either. "
+               "Printed अग्निं is possibly अग्निर्; not asked."),
     "explain_hi": ("यह श्लोक इकाई १२५ के चार अग्नियों का कारण बताता है। "
                    "सम: जब समान नामक वायु अपने स्थान में हो; विषम: जब (वह, सम्भवतः समान) गलत मार्ग में गया हो। "
                    "तीक्ष्ण: जब पित्त से आक्रान्त हो; मन्द: जब यह कफ से पीड़ित हो। "
