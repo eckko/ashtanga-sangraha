@@ -21,7 +21,7 @@ AUTHORED["26"] = {
         mcq("pretest", 0, "By unit 26, what is sattva said to be?",
             ("The mind (manas)", "तत्र सत्त्वं मनः: among these, sattva is the mind."),
             [("The body (deha)", "Unit 26 does not name the body; unit 28 calls the body bhūtātmaka."),
-             ("The skin (tvac)", "The skins come later, from unit 31; unit 26 does not name them."),
+             ("The skin (tvac)", "The skins come later, from unit 30; unit 26 does not name them."),
              ("The life-breath (prāṇa)", "Prāṇa is not named in unit 26.")],
             "Sattva is the mind: सत्त्वं मनः.",
             "तत्र सत्त्वं मनः = among these, sattva is the mind."),
@@ -101,12 +101,12 @@ AUTHORED["27"] = {
             "तस्य (of it) + उपप्लवः (disturbance): अ + उ → ओ.",
             "अ + उ → ओ."),
         mcq("apply", 4, "Why is उपप्लवः written उपप्लवो before रजः in unit 27?",
-            ("अः before a voiced sound becomes ओ", "र is voiced: उपप्लवः + रजः → उपप्लवो रजः."),
+            ("अः before voiced र becomes ओ", "अः before a voiced consonant such as र becomes ओ: उपप्लवः + रजः → उपप्लवो रजः."),
             [("अः before any consonant becomes ओ", "Before an unvoiced sound such as त or प it does not become ओ."),
              ("ओ is the ending of a dual noun", "उपप्लवः is singular; ओ comes from the visarga rule."),
              ("अः before a vowel becomes ओ here", "रजः begins with र, a consonant, not a vowel.")],
-            "अः + voiced sound → ओ: उपप्लवो रजः.",
-            "अः + voiced sound → ओ."),
+            "अः + voiced consonant → ओ: उपप्लवो रजः.",
+            "अः + voiced consonant → ओ."),
         mcq("transfer", 5, "By the rule of तमश्च, how is रामः + च (and Rāma) joined in a new example?",
             ("रामश्च", "A visarga before च becomes श्, as तमः + च → तमश्च."),
             [("रामो च", "ओ comes before a voiced sound; च is unvoiced."),
@@ -209,7 +209,7 @@ AUTHORED["29"] = {
             ("The body (deha) of unit 28", "The data notes: तस्य refers to the body of line 29 (card 28)."),
             [("The mind (sattva) of unit 26", "That is the तस्य of unit 27; here it is the body."),
              ("The blood (asṛj) of unit 31", "Blood is named only later; तस्य points back, to the body."),
-             ("The skin (tvac) of unit 33", "The skins come later; तस्य points back, to the body.")],
+             ("The skins (tvac) of unit 31", "The skins come later; तस्य points back, to the body.")],
             "तस्य = of the body (देह), named in unit 28.",
             "तस्य पुनः प्रविभागः = again, the division of the body."),
         mcq("apply", 4, "Unit 29 has no verb. How is it read by the card?",
@@ -298,13 +298,13 @@ AUTHORED["31"] = {
     "rule": ("Among these, six skins (त्वच्) come into being from blood (असृज्) being cooked, like the films (सन्तानिका) "
              "of milk."),
     "limits": ("Prose; confidence medium. असृजः may be genitive or ablative, and पच्यमानस्य may go with blood or with "
-               "milk: the unit does not settle it, and no question rests on it. Other teachers count seven skins (unit 40); "
+               "milk: the unit does not settle it, and no question rests on it. Others (unnamed) speak of seven skins (unit 40); "
                "unit 31 says six."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: उनमें पकते हुए रक्त से छः त्वचाएँ बनती हैं, दूध की सन्तानिकाओं यानी मलाई की परतों की तरह। "
                    "उपमा दूध की परतों से है (क्षीरस्य इव)। "
                    "‘पच्यमानस्य’ (पकते हुए) रक्त से जुड़ता है या दूध से, यह पंक्ति तय नहीं करती; ‘असृजः’ षष्ठी भी हो सकता है, पंचमी भी। "
                    "इसलिए इन बातों पर कोई प्रश्न नहीं। "
-                   "आगे इकाई ३३ से ३८ तक इन छह त्वचाओं के नाम आते हैं।"),
+                   "आगे इकाई ३३ से ३८ तक इन छह त्वचाओं का क्रम से वर्णन आता है।"),
     "hook": "उबलते दूध पर मलाई की परतें: वैसे ही छह त्वचाएँ।",
     "core": True,
     "questions": [
@@ -361,7 +361,7 @@ AUTHORED["32"] = {
                    "‘प्रसादात्’ पंचमी है (से), ‘प्रसादः’ प्रथमा। "
                    "data इसे ऐसे पढ़ता है कि रक्त का प्रसाद त्वचा के प्रसाद पर टिका है; इससे अधिक पंक्ति नहीं कहती। "
                    "‘प्रसाद’ का अर्थ ‘सार’ भी हो सकता है।"),
-    "hook": "त्वचा साफ़, तो रक्त साफ़।",
+    "hook": "त्वचा के प्रसाद से रक्त का प्रसाद।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 32, the clarity (prasāda) of what follows from the clarity of the skin?",
@@ -544,10 +544,9 @@ AUTHORED["35"] = {
               "Third; sidhma, kilāsa; seat.",
               "तृतीया → सिध्म → किलास → अधिष्ठाना."),
         match(2, "Match each word of unit 35 to the card's meaning.",
-              [["तृतीया", "third"], ["सिध्म", "patchy skin disease (identity disputed)"],
-               ["किलास", "probably vitiligo"], ["अधिष्ठान", "seat"]],
+              [["तृतीया", "third"], ["किलास", "probably vitiligo"], ["अधिष्ठान", "seat"]],
               "The third is the seat of sidhma and kilāsa.",
-              "तृतीया, सिध्म, किलास, अधिष्ठान.", role="extend",
+              "तृतीया, किलास, अधिष्ठान.", role="extend",
               teaches="सिध्म = a patchy skin disease, probably pityriasis versicolor (disputed); किलास = probably vitiligo."),
         mcq("discriminate", 3, "How does the card label the identification of kilāsa as vitiligo?",
             ("Probable", "The data tags kilāsa probable."),
@@ -618,7 +617,7 @@ AUTHORED["36"] = {
              "चतुर्थी सर्वकुष्ठाधिष्ठाना: the seat of all kuṣṭha.",
              "सर्व = all; it opens the compound सर्वकुष्ठाधिष्ठाना.",
              "सर्व + कुष्ठ + अधिष्ठाना.", role="apply"),
-        mcq("transfer", 5, "In a new example, which bahuvrīhi agrees with one feminine skin (त्वक्) as seat of all diseases (रोग)?",
+        mcq("transfer", 5, "In a new example, which nominative bahuvrīhi agrees with one feminine skin (त्वक्) as seat of all diseases (रोग)?",
             ("सर्वरोगाधिष्ठाना", "Feminine singular in -आ, as सर्वकुष्ठाधिष्ठाना agrees with the feminine skin."),
             [("सर्वरोगाधिष्ठानः", "Masculine singular; the skin is feminine."),
              ("सर्वरोगाधिष्ठाने", "Feminine dual; only one skin is meant."),
@@ -653,7 +652,7 @@ AUTHORED["37"] = {
             "The fifth skin seats vidradhi (and alajī).",
             "पञ्चमी ... विद्रध्यधिष्ठाना."),
         match(1, "Match each word of unit 37 to its meaning.",
-              [["पञ्चमी", "fifth"], ["पुनर्", "again, further"], ["विद्रधि", "abscess"], ["अधिष्ठान", "seat"]],
+              [["पञ्चमी", "fifth"], ["पुनर्", "again, further"], ["विद्रधि", "abscess (standard)"], ["अधिष्ठान", "seat"]],
               "The fifth, again, is the seat of vidradhi (and alajī).",
               "पञ्चमी, पुनर्, विद्रधि, अधिष्ठान."),
         mcq("extend", 2, "Which split of विद्रध्यधिष्ठाना is right?",
@@ -723,7 +722,7 @@ AUTHORED["38"] = {
         mcq("discriminate", 3, "What does तु mean in षष्ठी तु प्राणधरा?",
             ("but, however", "The data glosses तु as 'but, however'."),
             [("you (the reader)", "'You' is त्वम्; तु is an indeclinable."),
-             ("and, also", "'And' is च; तु is 'but, however'."),
+             ("not (negation)", "'Not' is न; तु is 'but, however'."),
              ("is, exists", "No verb is written; तु is not a verb.")],
             "तु = but, however.",
             "षष्ठी तु = the sixth, however."),
@@ -822,15 +821,15 @@ AIDS = {
     },
     "30": {
         "diagram": {"groups": [
-            {"label": "१ से १२", "items": ["१ त्वचाएँ", "२ कलाएँ", "३ दोष", "४ धातु", "५ मल", "६ ज्ञानेन्द्रियाँ",
+            {"label": "१ से १४", "items": ["१ त्वचाएँ", "२ कलाएँ", "३ दोष", "४ धातु", "५ मल", "६ ज्ञानेन्द्रियाँ",
                                          "७ उनके अधिष्ठान", "८ कर्मेन्द्रियाँ", "९ अतीन्द्रिय", "१० आशय", "११ प्राणायतन",
-                                         "१२ कण्डरा"]},
-            {"label": "१३ से २८", "items": ["१३ जाल, १४ कूर्च", "१५ रज्जुक-सीवनी", "१६ अस्थिसंघात", "१७ सीमन्त",
-                                          "१८ अस्थियाँ, १९ अस्थिसन्धियाँ", "२० स्नायु, २१ पेशियाँ", "२२ सिरा, २३ धमनी",
+                                         "१२ कण्डरा", "१३ जाल", "१४ कूर्च"]},
+            {"label": "१५ से २८", "items": ["१५ रज्जुक-सीवनी", "१६ अस्थिसंघात", "१७ सीमन्त", "१८ अस्थियाँ",
+                                          "१९ अस्थिसन्धियाँ", "२० स्नायु", "२१ पेशियाँ", "२२ सिरा", "२३ धमनी",
                                           "२४ स्रोतस्", "२५ (अनुमानित: अग्नि) ऊष्माएँ", "२६ मर्म", "२७ केश, श्मश्रु, रोम",
                                           "२८ प्रकृति-विकृति के भेद"]}]},
         "chunks": "त्वचः कला दोषा धातवो मला | बुद्धींद्रियाणि तदधिष्ठानानि | कर्मेन्द्रियण्यतींद्रियमाशयाःप्राणायतनानि | "
-                  "कंडरा जालानि कूर्च्चा रज्जुकसीवन्यो | ऽस्थिसंघाताःसीमंता अस्थीन्यस्थिसंधयः | स्नायूनि पेश्यः सिरा धमन्यः | "
+                  "कंडरा जालानि कूर्च्चा | रज्जुकसीवन्योऽस्थिसंघाताःसीमंता अस्थीन्यस्थिसंधयः | स्नायूनि पेश्यः सिरा धमन्यः | "
                   "स्रोतांस्यह्यूष्माणो मर्माणि | केशाश्मश्रुलोमानि प्रकृतिविकृतिभेदाश्च",
         "sandhi": "अः + घोष → ओ: धातवः + मलाः → धातवो मलाः · इ + अ → य: अस्थीनि + अस्थिसंधयः → अस्थीन्यस्थिसंधयः · "
                   "अः + अ → ओऽ: रज्जुकसीवन्यः + अस्थि... → रज्जुकसीवन्योऽस्थि...।",

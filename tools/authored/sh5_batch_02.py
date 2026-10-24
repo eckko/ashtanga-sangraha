@@ -69,8 +69,8 @@ AUTHORED["15"] = {
     "rule": ("Those of fire (आग्नेयानि): sight (दर्शन), form (रूप), Pitta, heat (ऊष्मा), digestion (पक्ति), burning heat "
              "(संताप), intelligence (मेधा), colour (वर्ण), radiance (भा), brilliance (तेजस्) and valour (शौर्य)."),
     "limits": ("A prose list. Pitta is the doṣa and is given no modern name. वर्ण = colour (it may also mean complexion). "
-               "...ऊष्मापक्तिः is read ऊष्मा + पक्तिः (digestion), not अपक्ति, by the data. Valour and intelligence recur in "
-               "later lists (units 21, 23), which follow other schemes."),
+               "...ऊष्मापक्तिः is read ऊष्मा + पक्तिः (digestion), not अपक्ति, by the data. Intelligence recurs in "
+               "units 21 and 23, valour in unit 23; those lists follow other schemes."),
     "explain_hi": ("यह गद्य-पंक्ति अग्नि से सम्बन्धित भाव गिनाती है। "
                    "पहले दर्शन, यानी देखने की इन्द्रिय, और उसका विषय रूप; फिर पित्त, ऊष्मा (गर्मी), पक्ति (पाचन) और सन्ताप। "
                    "इसके बाद मेधा, वर्ण (रंग), भा (दीप्ति), तेज और शौर्य आते हैं। "
@@ -154,7 +154,7 @@ AUTHORED["16"] = {
                ["शुक्र", "semen (standard)"], ["शैथिल्य", "looseness"]],
               "The mass of fluids and the qualities of water.",
               "स्वेद, क्लेद, वसा, असृज्, शुक्र, शैथिल्य.", role="extend",
-              teaches="असृज् (असृक् before a consonant) = blood: असृक्शुक्र = blood and semen."),
+              teaches="असृज् (असृक् before an unvoiced consonant) = blood: असृक्शुक्र = blood and semen."),
         mcq("discriminate", 3, "In unit 16, what is the second रस, inside ...वसारसासृक्...?",
             ("The nutritive fluid, a dhātu", "The data: the second rasa is the rasa dhātu, the nutritive fluid."),
             [("Taste, like the first रसः", "The first रसः is taste; the second sits among the body's fluids."),
@@ -163,7 +163,7 @@ AUTHORED["16"] = {
             "रसः (taste) stands alone; the रस inside the fluid compound is the nutritive fluid.",
             "रसः = taste; ...वसारसासृक्... = vasā, rasa (nutritive fluid), blood."),
         multi("apply", 4, "Which of these does unit 16 name in its mass of fluids?",
-              [("Bile (pitta)", "Pitta belongs to fire (unit 15)."),
+              [("Pitta (the doṣa)", "Pitta belongs to fire (unit 15)."),
                ("Sweat (sveda)", "Right: स्वेद opens the fluid compound."),
                ("Marrow (majjā)", "Marrow is listed as mother-born (unit 18), not here."),
                ("Urine (mūtra)", "Right: ...मूत्रादिद्रवसमूहः.")],
@@ -172,7 +172,7 @@ AUTHORED["16"] = {
               "स्वेदक्लेदवसारसासृक्शुक्रमूत्रादिद्रवसमूहः."),
         mcq("transfer", 5, "By the rule of स्नेहः + च, how are रामः + च (and Rāma) joined?",
             ("रामश्च", "A visarga before च becomes श्, as स्नेहः + च → स्नेहश्च."),
-            [("रामो च", "अः becomes ओ only before a voiced sound; च is unvoiced."),
+            [("रामो च", "अः becomes ओ only before a voiced consonant or अ; च is unvoiced."),
              ("रामस्च", "स् comes before त or थ, not before च."),
              ("रामर्च", "र् comes after vowels other than अ/आ, before a voiced sound.")],
             "रामः + च = रामश्च, like स्नेहः + च = स्नेहश्च.",
@@ -273,12 +273,12 @@ AUTHORED["18"] = {
               "आमाशय, यकृत्, प्लीहा, गर्भाशय, गुद, मज्जा.", role="extend",
               teaches="आमाशय (stomach) and गर्भाशय (uterus) both end in आशय, a receptacle."),
         mcq("discriminate", 3, "Which split of मेदोमज्ज in unit 18 is right?",
-            ("मेदस् + मज्जा", "A final अस् becomes ओ before a voiced sound: मेदस् + मज्जा → मेदोमज्ज."),
+            ("मेदस् + मज्जा", "A final अस् becomes ओ before a voiced consonant: मेदस् + मज्जा → मेदोमज्ज."),
             [("मेद + ओमज्जा", "ओमज्जा is not a word; the word is मज्जा, marrow."),
              ("मेदा + उमज्जा", "मेदा and उमज्जा are not the words of the list."),
              ("मेदु + अमज्जा", "मेदु and अमज्जा are not words; the words are मेदस्, मज्जा.")],
             "मेदस् (fat) + मज्जा (marrow) = मेदोमज्ज...",
-            "अस् + voiced sound → ओ."),
+            "अस् + voiced consonant → ओ."),
         mcq("apply", 4, "Which of these is not among the mother-born parts of unit 18?",
             ("Bones (asthi)", "Bones are father-born (unit 19), not mother-born."),
             [("Liver (yakṛt)", "Liver is in the mother-born list: यकृत्."),
@@ -571,12 +571,12 @@ AUTHORED["23"] = {
               "शौच, कृतज्ञता, दाक्षिण्य, व्यवसाय, गाम्भीर्य, अनभिष्वङ्ग.", role="extend",
               teaches="कृतज्ञ = one who knows (ज्ञ) what was done (कृत) for him: grateful; -ता makes the abstract noun."),
         mcq("discriminate", 3, "Which split of तमोगुण in unit 23 is right?",
-            ("तमस् + गुण", "A final अस् becomes ओ before a voiced sound: तमस् + गुण → तमोगुण."),
+            ("तमस् + गुण", "A final अस् becomes ओ before a voiced consonant: तमस् + गुण → तमोगुण."),
             [("तम + ओगुण", "ओगुण is not a word; the word is गुण."),
              ("तमः + उगुण", "उगुण is not a word, and the ओ is not अ + उ here."),
              ("तमा + उगुण", "तमा and उगुण are not the words; they are तमस्, गुण.")],
             "तमस् (tamas) + गुण = तमोगुण; विपर्यय = its contrary.",
-            "अस् + voiced sound → ओ."),
+            "अस् + voiced consonant → ओ."),
         multi("apply", 4, "Which of these does unit 23 count as born of pure sattva?",
               [("Memory (smṛti)", "Right: स्मृतिः is in the sattva list."),
                ("Grief (śoka)", "Grief belongs to tamas (unit 25)."),
@@ -589,10 +589,10 @@ AUTHORED["23"] = {
             ("मनोबलम्", "A final अस् becomes ओ before the voiced ब, as तमस् + गुण → तमोगुण."),
             [("मनःबलम्", "Before a voiced sound the अस् does not stay as visarga; it becomes ओ."),
              ("मनर्बलम्", "र् comes after vowels other than अ/आ."),
-             ("मनाबलम्", "आ does not come from अस्; before a voiced sound it is ओ.")],
+             ("मनाबलम्", "आ does not come from अस्; before a voiced consonant it is ओ.")],
             "मनस् + बलम् = मनोबलम्, like तमस् + गुण = तमोगुण.",
-            "अस् + voiced sound → ओ.",
-            teaches="A final अस् becomes ओ before a voiced sound: तमस् + गुण → तमोगुण."),
+            "अस् + voiced consonant → ओ.",
+            teaches="A final अस् becomes ओ before a voiced consonant: तमस् + गुण → तमोगुण."),
     ],
 }
 
@@ -740,7 +740,7 @@ NOTES_HI = {
     "18": ("गद्य-पंक्ति; विश्वास उच्च; पाठ-चिह्न नहीं। पहचान: हृदय, आमाशय (पेट), गर्भाशय, यकृत्, प्लीहा, आन्त्र, गुद मानक; "
            "क्लोम विवादित (अग्न्याशय, फेफड़े या फुफ्फुसावरण जैसी रचना: अलग-अलग मत), इसलिए ‘क्लोम’ ही रखा; इस पर प्रश्न नहीं। "
            "छपा ‘क्लोमांत्र’ = क्लोमान्त्र (अनुस्वार-वर्तनी)। सन्धि जाँची: त्वच् + रक्त → त्वग्रक्त (घोष से पहले च् → ग्); मेदस् + "
-           "मज्जा → मेदोमज्ज (घोष से पहले अस् → ओ); हृदय + आमाशय → हृदयामाशय (अ + आ → आ); क्लोम + आन्त्र → क्लोमान्त्र; गुद "
+           "मज्जा → मेदोमज्ज (घोष व्यंजन से पहले अस् → ओ); हृदय + आमाशय → हृदयामाशय (अ + आ → आ); क्लोम + आन्त्र → क्लोमान्त्र; गुद "
            "+ आदीनि → गुदादीनि।"),
     "19": ("गद्य-पंक्ति; विश्वास उच्च; पाठ-चिह्न नहीं। सिरा = सम्भवतः शिरा (वेन), धमनी = सम्भवतः धमनी (आर्टरी); दोनों शब्द हर "
            "ग्रन्थ में एक जैसे प्रयुक्त नहीं, इसलिए केवल सम्भावित। कौन-सी नली क्या ले जाती है, इस पर प्रश्न नहीं। सन्धि जाँची: "
@@ -818,7 +818,7 @@ AIDS = {
     },
     "18": {
         "chunks": "तेषु | मातृजानि मृदूनि | त्वग्रक्तमांसमेदोमज्ज | नाभिहृदयामाशयगर्भाशय | यकृत्प्लीहक्लोमांत्रगुदादीनि",
-        "sandhi": "घोष से पहले च् → ग्: त्वच् + रक्त → त्वग्रक्त · घोष से पहले अस् → ओ: मेदस् + मज्जा → मेदोमज्ज · अ + आ → आ: "
+        "sandhi": "घोष से पहले च् → ग्: त्वच् + रक्त → त्वग्रक्त · घोष व्यंजन से पहले अस् → ओ: मेदस् + मज्जा → मेदोमज्ज · अ + आ → आ: "
                   "हृदय + आमाशय → हृदयामाशय।",
         "diagram": {"groups": [
             {"label": "माता से, कोमल (क्रम १-७)", "items": ["त्वचा", "रक्त", "मांस", "मेद", "मज्जा", "नाभि", "हृदय"]},
@@ -830,7 +830,7 @@ AIDS = {
         "sandhi": "अ + अ → आ: नख + अस्थि → नखास्थि · ई + आ → या: धमनी + आदीनि → धमन्यादीनि।",
         "diagram": {"groups": [
             {"label": "पिता से, स्थिर (क्रम से)", "items": ["केश", "नख", "अस्थि", "शुक्र", "सिरा (सम्भवतः शिरा)",
-                                                       "धमनी (सम्भवतः धमनी)"]}]},
+                                                       "धमनी (सम्भवतः आर्टरी)"]}]},
     },
     "20": {
         "chunks": "आत्मजानि | तासु तासु योनिषूत्पत्तिः | मनश्चेतनेंद्रियाणि | प्राणापानौ धारणम् | आकृतिस्वरवर्णविशेषाः | "
@@ -864,7 +864,7 @@ AIDS = {
         "chunks": "शुद्धसत्वजानि | शौचमास्तिकत्वं कृतज्ञता दाक्षिण्यं | व्यवसायः शौर्य्यं गांभीर्य्यं | बुद्धिर्मेधा स्मृतिः | "
                   "शुक्लधर्म्हरूचिः (= शुक्लधर्मरुचिः) | भक्तिरनभिष्वंगः | तमोगुणविपर्य्ययश्च",
         "sandhi": "इः + घोष → इर्: बुद्धिः + मेधा → बुद्धिर्मेधा · विसर्ग + त → स्: अनभिष्वङ्गः + तमो... → अनभिष्वङ्गस्तमो... · "
-                  "घोष से पहले अस् → ओ: तमस् + गुण → तमोगुण।",
+                  "घोष व्यंजन से पहले अस् → ओ: तमस् + गुण → तमोगुण।",
         "diagram": {"groups": [
             {"label": "शुद्ध सत्त्व से (क्रम १-७)", "items": ["शौच", "आस्तिकत्व", "कृतज्ञता", "दाक्षिण्य", "व्यवसाय", "शौर्य",
                                                          "गाम्भीर्य"]},
@@ -925,7 +925,7 @@ IMAGE_SPECS = {
         "title": "इकाई १६: जल से सम्बन्धित",
         "cols": [["जल से (क्रम से)", ["१ रसन (जिह्वा)", "२ रस (स्वाद)", "३ द्रवों का समूह", "४ शैथिल्य (ढीलापन)",
                                      "५ स्नेह (चिकनाई)"]],
-                 ["द्रवों का समूह", ["स्वेद (पसीना)", "क्लेद (गीलापन)", "वसा (सम्भावित: चर्बी)", "रस (पोषक द्रव)",
+                 ["द्रवों का समूह", ["स्वेद (पसीना)", "क्लेद (गीलापन)", "वसा (सम्भावित: मांसगत चर्बी)", "रस (पोषक द्रव)",
                                     "असृक् (रक्त)", "शुक्र (वीर्य)", "मूत्र आदि"]]],
     },
     ("18", "diagram"): {
@@ -950,8 +950,8 @@ IMAGE_SPECS = {
                  "  A --> C[\"२ नख\"]\n"
                  "  A --> D[\"३ अस्थि\"]\n"
                  "  A --> E[\"४ शुक्र\"]\n"
-                 "  A --> F[\"५ सिरा (सम्भवतः शिरा)\"]\n"
-                 "  A --> G[\"६ धमनी (सम्भावित)\"]\n"),
+                 "  A --> F[\"५ सिरा (सम्भवतः शिरा, वेन)\"]\n"
+                 "  A --> G[\"६ धमनी (सम्भवतः आर्टरी)\"]\n"),
     },
     ("20", "diagram"): {
         "file": "sh5-atmaja-20.svg",
