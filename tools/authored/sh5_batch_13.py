@@ -917,15 +917,13 @@ IMAGE_SPECS = {
     },
     ("162", "diagram"): {
         "file": "sh5-dve-dve-162.svg",
-        "alt": ("Flowchart of unit 162: 'two each' leads to five numbered places in line order: manyā (probable), avaṭu "
-                "(probable), eye, lip, palate."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"दो-दो\"] --> B[\"१ मन्या (सम्भावित)\"]\n"
-                 "  A --> C[\"२ अवटु (सम्भावित)\"]\n"
-                 "  A --> D[\"३ नेत्र\"]\n"
-                 "  A --> E[\"४ ओष्ठ\"]\n"
-                 "  A --> F[\"५ तालु\"]\n"),
+        "alt": ("Table of unit 162: two each in five numbered places in line order: manyā (probable: side of the neck), "
+                "avaṭu (probable: hollow at the nape), eye, lip, palate."),
+        "type": "table",
+        "title": "इकाई १६२: दो-दो",
+        "heads": ["क्रम व स्थान", "संख्या"],
+        "rows": [["१ मन्या (सम्भावित: गर्दन का पार्श्व)", "दो"], ["२ अवटु (सम्भावित: गर्दन के पीछे का गड्ढा)", "दो"],
+                 ["३ नेत्र", "दो"], ["४ ओष्ठ", "दो"], ["५ तालु", "दो"]],
     },
     ("165", "diagram"): {
         "file": "sh5-griva-hanu-165.svg",

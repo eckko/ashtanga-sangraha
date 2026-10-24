@@ -333,7 +333,7 @@ AUTHORED["133"] = {
             ("एक + एकः", "अ + ए → ऐ: एक + एकः → एकैकः."),
             [("एक + इकः", "अ + इ gives ए, not ऐ; and इक is not the word."),
              ("एकः + एकः", "अः before ए drops the visarga: एक एकः, unjoined."),
-             ("एके + एकः", "ए before ए would give एय्, not ऐ.")],
+             ("एके + एकः", "ए before a vowel becomes अय् (or अ), not ऐ.")],
             "एक + एकः = एकैकः (one each).",
             "अ + ए → ऐ."),
         mcq("apply", 4, "What does the ending -सु of काकलनासामूर्धसु mark?",
