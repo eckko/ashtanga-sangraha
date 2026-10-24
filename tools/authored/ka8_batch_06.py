@@ -8,9 +8,8 @@ AUTHORED["61"] = {
     "question": "Which other names does verse 61 give for the māṣaka and for two śāṇas?",
     "rule": ("Synonyms of measures begin here: the māṣaka is also called hema and dhānaka; a measure of two śāṇas is "
              "called kṣudra, kola and vaṭaka."),
-    "limits": ("Names only: the verse gives no weight in grams. 'Synonym' (paryāya) is printed in the singular but is read of "
-               "both names; in the second line it is understood, and no verb is printed. Kola also names the jujube fruit and "
-               "vaṭaka a small cake, but here both are unit names only."),
+    "limits": ("No weight in grams is given. Paryāya (synonym) is printed singular but read of both names, and is understood "
+               "in line 2; no verb is printed. Kola (also jujube) and vaṭaka (also a small cake) are unit names only here."),
     "explain_hi": ("यहाँ से मानों के पर्याय (दूसरे नाम) शुरू होते हैं। माषक के पर्याय हेम और धानक हैं। दो शाण के नाम क्षुद्र, कोल और वटक हैं। "
                    "दूसरी पंक्ति में ‘पर्याय’ शब्द नहीं छपा; वह पहली पंक्ति से समझा जाता है, और क्रिया भी समझी जाती है। "
                    "‘कोल’ बेर का नाम भी है और ‘वटक’ एक छोटी टिकिया का, पर यहाँ दोनों केवल माप के नाम हैं। "
@@ -28,9 +27,10 @@ AUTHORED["61"] = {
             "माषकस्य पर्यायः: the synonym(s) of the māṣaka.",
             "पर्याय = synonym, another name."),
         match(1, "Match each measure of verse 61 to one of its other names.",
-              [["माषक", "हेम"], ["शाणद्वय (two śāṇas)", "कोल"]],
+              [["हेम", "a name of the māṣaka"], ["कोल", "a name of two śāṇas"], ["पर्याय", "synonym"],
+               ["शाणद्वय", "two śāṇas"]],
               "माषकस्य पर्यायो हेमो धानकश्च; शाणद्वयस्य क्षुद्रः कोलो वटकश्च.",
-              "माषक = हेम, धानक; two śāṇas = क्षुद्र, कोल, वटक."),
+              "हेम = a māṣaka name; कोल = a name of two śāṇas; पर्याय = synonym; शाणद्वय = two śāṇas."),
         order(2, "Put the three names for two śāṇas in the order of verse 61.",
               ["क्षुद्रः", "कोलः", "वटकः"],
               "शाणद्वयस्य क्षुद्रः कोलो वटकश्च: kṣudra, kola, then vaṭaka.",
@@ -124,7 +124,7 @@ AUTHORED["62"] = {
             "पिचुः + बिडाल… gives पिचुर्बिडाल…. By the same rule, how are गुरुः and गच्छति joined?",
             ("गुरुर्गच्छति",
              "After उ, the visarga becomes र् before a voiced sound, as in पिचुर्बिडाल…."),
-            [("गुरुगच्छति", "The visarga is dropped only after अ or आ in such cases; after उ it becomes र्."),
+            [("गुरुगच्छति", "After उ the visarga is not dropped; before a voiced sound it becomes र्."),
              ("गुरुश्गच्छति", "श् comes before च/छ, not before ग."),
              ("गुरुस्गच्छति", "स् comes before त/थ, not before ग.")],
             "Visarga after उ (or इ) + voiced sound → र्.",
@@ -360,7 +360,7 @@ AUTHORED["66"] = {
             "Printed कुडवस्यां जलिः; restored कुडवस्याञ्जलिः (near certain).",
             "A restored reading is marked and not asked about."),
         mcq("apply", 4,
-            "A student reads the line 'कुडवस्य …' in this list. What should the words after कुडवस्य give?",
+            "In this list a line opens with कुडवस्य. What should the words after it give?",
             ("Another name of the kuḍava",
              "Each line of this list is 'of X: (synonyms)'; पर्याय is understood from line 05.08.73."),
             [("The weight of a kuḍava in grams", "The text gives no grams; it gives names."),
@@ -369,7 +369,7 @@ AUTHORED["66"] = {
             "X-स्य + name(s) = the synonym(s) of X.",
             "Genitive measure + nominative names = its synonyms."),
         mcq("transfer", 5,
-            "The lines read 'of X: names', X in the genitive. Which form would open a line for the prastha?",
+            "Each line names a measure in the genitive, then its names. Which form would open a line for the prastha?",
             ("प्रस्थस्य",
              "-स्य is the genitive singular 'of', as in कुडवस्य, पलस्य."),
             [("प्रस्थेन", "-एन is instrumental 'by'."),
@@ -396,9 +396,9 @@ AUTHORED["67"] = {
             "In unit 67, what is मानिका?",
             ("A name of two kuḍavas",
              "कुडवद्वयस्य मानिका: mānikā is a name of two kuḍavas."),
-            [("A name of one pala", "The pala's names are muṣṭi and the rest."),
-             ("A name of two palas", "Two palas are prasṛta and aṣṭamāna."),
-             ("A name of one karṣa", "The karṣa's names are suvarṇa and the rest.")],
+            [("A name of the single pala", "The pala's names are muṣṭi and the rest."),
+             ("A name of a pair of palas", "Two palas are prasṛta and aṣṭamāna."),
+             ("A name of the single karṣa", "The karṣa's names are suvarṇa and the rest.")],
             "कुडवद्वयस्य मानिका.",
             "मानिका = two kuḍavas."),
         match(1, "Match each word of unit 67 to its meaning.",
@@ -430,7 +430,7 @@ AUTHORED["67"] = {
              "X + द्वय, then the genitive -स्य: 'of two X'."),
             [("प्रस्थद्वयम्", "-म् is nominative/accusative, not 'of'."),
              ("प्रस्थद्वयेन", "-एन is instrumental 'by'."),
-             ("प्रस्थद्वये", "-ए is locative 'in'.")],
+             ("प्रस्थद्वयेषु", "-एषु is locative plural 'in'.")],
             "X-द्वयस्य = of two X.",
             "द्वय (n.) takes -स्य in the genitive.",
             teaches="X-द्वय-स्य means 'of two X': कर्षद्वयस्य, पलद्वयस्य, कुडवद्वयस्य; for prastha, प्रस्थद्वयस्य."),
@@ -604,20 +604,21 @@ AUTHORED["70"] = {
              ("Two kuḍavas", "Two kuḍavas are mānikā.")],
             "शूर्प = two droṇas.",
             "śūrpa = 2 droṇa."),
-        mcq("apply", 4,
-            "A student sees a śūrpa in a recipe and reads it as one droṇa. What does unit 70 say?",
-            ("It is two droṇas",
-             "द्रोणद्वयस्य: of two droṇas; śūrpa is twice a droṇa."),
-            [("He is right", "One droṇa has other names; śūrpa is two droṇas."),
-             ("It is a basket, not a measure", "The card: here it is a measure name."),
-             ("It is half a droṇa", "द्वय is a pair, not a half.")],
-            "शूर्प = द्रोणद्वय.",
-            "śūrpa = 2 droṇa."),
-        fill(5, "Two droṇas are called ____ (unit 70). Type it in Devanagari or in English letters (e.g. dharma).",
+        fill(4, "Two droṇas are called ____ (unit 70). Type it in Devanagari or in English letters (e.g. dharma).",
              accepts("शूर्प", None, "शूर्पः"),
              "द्रोणद्वयस्य शूर्पः.",
              "The largest volume name in this list: two droṇas = śūrpa.",
-             "Two droṇas = śūrpa.", role="transfer"),
+             "Two droṇas = śūrpa.", role="apply"),
+        mcq("transfer", 5,
+            "शूर्पः is masculine nominative singular. Which form would mean two śūrpas (as subject)?",
+            ("शूर्पौ",
+             "-औ is the nominative dual of masculine a-stems."),
+            [("शूर्पाः", "-आः is the plural, for more than two."),
+             ("शूर्पम्", "-अम् is the accusative singular."),
+             ("शूर्पे", "-ए is the locative singular, 'in a śūrpa'.")],
+            "Masculine a-stem: -अः (one), -औ (two), -आः (many).",
+            "Masculine a-stem nominative dual = -औ.",
+            teaches="A masculine a-stem takes -औ in the nominative dual: शूर्पः (one śūrpa) → शूर्पौ (two śūrpas)."),
     ],
 }
 
@@ -736,7 +737,7 @@ AUTHORED["72"] = {
             ("अग्निर्भवति",
              "After इ, the visarga becomes र् before a voiced sound, as in विंशतिर्भारः."),
             [("अग्निभवति", "The visarga does not drop after इ; it becomes र्."),
-             ("अग्निोभवति", "ओ arises only from -अः; this word ends in -इः."),
+             ("अग्निश्भवति", "श् arises before च/छ, not before भ."),
              ("अग्निस्भवति", "स् arises before त/थ, not before भ.")],
             "इः + voiced sound → इर्.",
             "Visarga after इ before a voiced sound → र्.",
@@ -857,7 +858,7 @@ AUTHORED["74"] = {
             "Dry: this measure; liquid and moist: double.",
             "Moist or liquid = double."),
         mcq("transfer", 5,
-            "द्रवार्द्रयोः is a locative dual: 'in liquid and moist'. Which form means 'in milk and ghee' the same way?",
+            "द्रवार्द्रयोः is a locative dual: in liquid and moist things. Which form means in milk and ghee the same way?",
             ("क्षीरघृतयोः",
              "-योः ends the locative dual of a two-member dvandva, as in द्रवार्द्रयोः."),
             [("क्षीरघृताभ्याम्", "-आभ्याम् is dual for 'with / for / from', not 'in'."),
@@ -874,10 +875,9 @@ AUTHORED["75"] = {
     "title": "कल्पयेत्सदृशान् भागान्",
     "question": "What should one do, by verse 75, where no quantity is stated?",
     "rule": "Where the quantity is not stated, one should make equal portions. (The second line, on taking the root, is doubtful.)",
-    "limits": ("Low confidence. The second line's compound अनिर्दिष्टप्रसिद्धेषु is hard to read and may be a misprint for "
-               "'not stated and not well known'; its sense (the root to be taken, against bark and the rest) is not firm and is "
-               "an open owner question, so no question rests on line 2. The sentence may continue from verse 74 (water as the "
-               "object of 'make'), but that is not certain."),
+    "limits": ("Low confidence. Line 2's compound अनिर्दिष्टप्रसिद्धेषु is strained (perhaps 'not stated and not well known'); "
+               "its sense, the root to be taken as against bark and the rest, is an open owner question, so no question rests on "
+               "line 2. The sentence may run on from verse 74; not certain."),
     "explain_hi": ("पहली पंक्ति साफ़ है: जहाँ प्रमाण (मात्रा) न कहा गया हो, वहाँ बराबर भाग बनाने चाहिए। "
                    "दूसरी पंक्ति संदिग्ध है: छपा ‘अनिर्दिष्टप्रसिद्धेषु’ (अनिर्दिष्ट और प्रसिद्ध में) अटपटा है; "
                    "शायद ‘अनिर्दिष्ट-अप्रसिद्ध’ (न कहा गया, न प्रसिद्ध) पढ़ना चाहिए, पर छपाई में यह नहीं। "
@@ -964,7 +964,7 @@ NOTES_HI = {
            "पलशतम् = पल + शतम्। पाठ-चिह्न नहीं।"),
     "72": ("विश्वास: उच्च। पंक्ति ०५.०८.८५। क्रिया समझी जाती है। ‘तानि’ (नपुंसक बहुवचन) पिछली पंक्ति के नपुंसक पलशतम् (सौ-सौ पल की इकाइयाँ, तुला) की ओर। "
            "संधि जाँची: विंशतिः + भारः = विंशतिर्भारः; छपा ‘भारइति’ = भारः + इति (विसर्ग का लोप)। अन्त का ‘इति’ अनूदित। "
-           "खुला प्रश्न (गlossary): हिन्दी ‘एक भार’ में ‘एक’ रखा गया।"),
+           "खुला प्रश्न (शब्दावली): हिन्दी ‘एक भार’ में ‘एक’ रखा गया।"),
     "73": ("विश्वास: उच्च। पंक्ति ०५.०८.८६। प्रस्तावना-सूत्र ‘भवति चात्र’; यह स्वयं श्लोक नहीं, अगली इकाइयों के श्लोक का परिचय। "
            "संधि जाँची: च + अत्र = चात्र। आरम्भ का ॥ छपाई का चिह्न।"),
     "74": ("विश्वास: मध्यम। पंक्तियाँ ०५.०८.८७ और ८८। पहली पंक्ति में क्रिया समझी जाती है; दूसरी पंक्ति में कोई क्रिया नहीं, "

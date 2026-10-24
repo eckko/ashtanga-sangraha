@@ -78,7 +78,7 @@ AUTHORED["56"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "What kind of preparation does unit 56 prescribe?",
-            ("Lehas, preparations to be licked", "लेहान् = lehas (licked preparations), accusative plural."),
+            ("Lehas, to be licked", "लेहान् = lehas (licked preparations), accusative plural."),
             [("Pills to be swallowed whole", "No pill (गुटिका) is named in this unit."),
              ("Oils to be put into the nose", "No oil or nasal use is named in this unit."),
              ("Pastes to be rubbed on skin", "No external paste is named in this unit.")],
@@ -144,7 +144,7 @@ AUTHORED["57"] = {
              ("As a ghee (सर्पिः)", "Ghee comes in line 05.01.64.")],
             "The drug is taken as kalka, a ground paste.",
             "कल्क = paste (ground wet)."),
-        order(1, "Put the words of unit 57 in the order of the text (leave out the last word).",
+        order(1, "Put these parts of unit 57 in the order of the text (leave out the last word).",
               ["धामार्गव", "कल्कम्", "तुम्बरु", "धान्य", "यूषेण"],
               "Dhāmārgava paste, with the broth of tumbaru and dhānya.",
               "धामार्गव · कल्कम् · तुम्बरु · धान्य · यूषेण."),
@@ -164,19 +164,19 @@ AUTHORED["57"] = {
             "Tatpuruṣa: the last member is the head."),
         mcq("apply", 4, "A student meets तुम्बरु in unit 57. What identification does the card give?",
             ("Zanthoxylum armatum (probable)", "The data: tumbaru = Zanthoxylum armatum (Hindi tejbal, timur), probable."),
-            [("Coriander (disputed)", "Coriander is the disputed reading of dhānya, not of tumbaru."),
-             ("Sponge gourd (disputed)", "Sponge gourd is one candidate for dhāmārgava."),
-             ("Turmeric (standard)", "Turmeric (haridrā) is named in line 05.01.63.")],
+            [("Coriander, the dhānya reading (disputed)", "Coriander is the disputed reading of dhānya, not of tumbaru."),
+             ("Sponge gourd, a dhāmārgava candidate", "Sponge gourd is one candidate for dhāmārgava."),
+             ("Turmeric, that is haridrā (standard)", "Turmeric (haridrā) is named in line 05.01.63.")],
             "Tumbaru is probably Zanthoxylum armatum, tejbal or timur in Hindi.",
             "तुम्बरु = Zanthoxylum armatum (probable)."),
         mcq("transfer", 5, "यूषेण (with broth) has ण because ष comes before it. Which new form means with milk (क्षीर)?",
             ("क्षीरेण", "र before the ending also turns न into ण: क्षीर + इन → क्षीरेण."),
-            [("क्षीरेन", "After ष or र in the same word, the न of the ending becomes ण."),
+            [("क्षीरेन", "Here र is followed only by a vowel, so the न of the ending becomes ण: क्षीरेण."),
              ("क्षीराय", "क्षीराय is dative: for milk."),
              ("क्षीरात्", "क्षीरात् is ablative: from milk.")],
-            "Instrumental singular of an अ-stem ends in -एन, written -एण after ऋ, र or ष in the word.",
-            "-एन → -एण after र/ष: यूषेण, क्षीरेण.",
-            teaches="The instrumental -एन becomes -एण after र or ष in the word: यूष → यूषेण, क्षीर → क्षीरेण."),
+            "Instrumental singular of an अ-stem ends in -एन; it becomes -एण after ऋ, र or ष in the word when no blocking consonant (a dental, palatal or cerebral stop, or ल, श, स) stands between (यूषेण, क्षीरेण; but रथेन).",
+            "-एन → -एण after र/ष when nothing blocks it: यूषेण, क्षीरेण; but रथेन.",
+            teaches="The instrumental -एन becomes -एण after र or ष when nothing blocks it: यूष → यूषेण, क्षीर → क्षीरेण (but रथ → रथेन)."),
     ],
 }
 
@@ -194,7 +194,7 @@ AUTHORED["58"] = {
                    "साफ़ पहचाने गए नाम: यवानी यानी अजवायन, हरिद्रा यानी हल्दी, पुनर्नवा यानी साँठी (मानक), और कासमर्द यानी कसौंदी (विवादित)। "
                    "बाकी नाम (सुमनः, सौमनस्या, चोरक, हैमवती, महासहा, क्षुद्रसहा, वृश्चीव, अर्बी) पहचाने नहीं गए, क्योंकि समास का विभाजन ही सन्दिग्ध है। "
                    "‘एक या दो धामार्गव’ में क्या गिना गया, यह पाठ नहीं कहता।"),
-    "hook": "मन के विकार: किसी एक द्रव्य का काढ़ा, साथ में धामार्गव।",
+    "hook": "मन के विकार: सूची के किसी एक द्रव्य का काढ़ा, या एक-दो धामार्गव।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "For which disorders is the preparation of unit 58 used?",
@@ -280,12 +280,12 @@ AUTHORED["59"] = {
             "फल + आदि (beginning with): two अ-sounds join as आ.",
             "अ + आ → आ (फल + आदि → फलादि)."),
         fill(4, "In unit 59 the milk is cooked with dhāmārgava ____ (root). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("मूल", "मूलम्", "mula"),
+             accepts("मूल", "mūla", "मूलम्", "mūlam"),
              "धामार्गवमूलसिद्धक्षीर = milk cooked with the root (मूल) of dhāmārgava.",
              "In unit 59 the root (मूल) of dhāmārgava is cooked in milk, and ghee is produced from that milk.",
              "मूल = root.", role="apply"),
         mcq("transfer", 5, "फलादि means the group beginning with phala. What does a new word पिप्पल्यादि mean?",
-            ("The group beginning with pippalī", "पिप्पली + आदि (इ + आ → या): beginning with pippalī."),
+            ("The group from pippalī on", "पिप्पली + आदि (ई + आ → या): beginning with pippalī."),
             [("Pippalī without the others", "-आदि adds the others; it does not leave them out."),
              ("The end of the pippalī group", "-आदि marks the first member, not the last."),
              ("Six pieces of pippalī fruit", "No number is in the new word; षट् is not there.")],
@@ -305,10 +305,10 @@ AUTHORED["60"] = {
                "Udara here is an ailment term (belly-ailment)."),
     "explain_hi": ("अब कृतवेधन, यानी सम्भवतः तोरई (Luffa acutangula)। "
                    "उसके गुण: अत्यन्त कटु, तीक्ष्ण और उष्ण। "
-                   "इसलिए वह विशेष रूप से (सुतराम्) इन रोगों में तैयार किया जाए: गर यानी बनाया हुआ विष, उदर यानी पेट का रोग, गुल्म यानी पेट की गाँठ, "
+                   "वह विशेष रूप से (सुतराम्) इन रोगों में तैयार किया जाए: गर यानी बनाया हुआ विष, उदर यानी पेट का रोग, गुल्म यानी पेट की गाँठ, "
                    "प्लीहा यानी तिल्ली का बढ़ना, पाण्डु-रोग यानी रक्ताल्पता और श्वयथु यानी सूजन। "
                    "कौन-सा अंग, किस रूप में और कितना, यह पाठ नहीं कहता।"),
-    "hook": "बहुत कड़वा-तीखा-गरम कृतवेधन: तिल्ली, पाण्डु और सूजन पर।",
+    "hook": "बहुत चरपरा, तीक्ष्ण और गरम कृतवेधन: तिल्ली, पाण्डु और सूजन पर।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "Which qualities does unit 60 give kṛtavedhana?",
@@ -347,7 +347,7 @@ AUTHORED["60"] = {
         mcq("transfer", 5, "अत्यर्थकटु means exceedingly pungent. What does a new word अत्यर्थशीत mean?",
             ("Exceedingly cold", "अत्यर्थ (exceedingly) + शीत (cold)."),
             [("Slightly cold", "अत्यर्थ is beyond measure, not slightly."),
-             ("Not cold at all", "अत्यर्थ intensifies; it does not deny."),
+             ("Not cold in the least", "अत्यर्थ intensifies; it does not deny."),
              ("Cold, then hot", "Only one quality, शीत, is in the new word.")],
             "अत्यर्थ before a quality = that quality to an extreme degree.",
             "अत्यर्थ + quality = exceedingly so: अत्यर्थकटु, अत्यर्थशीत.",
@@ -373,7 +373,7 @@ AUTHORED["61"] = {
     "questions": [
         mcq("pretest", 0, "For what kind of persons does unit 61 name kuṭaja fruit?",
             ("Delicate persons (सुकुमार)", "सुकुमारेषु = in delicate persons."),
-            [("Strong persons (बलवान्)", "Strength is not named in this unit."),
+            [("Very strong persons (बलवान्)", "Strength is not named in this unit."),
              ("Aged persons (वृद्ध)", "Age is not named in this unit."),
              ("Fat persons (स्थूल)", "Body size is not named in this unit.")],
             "Kuṭaja fruit is for the delicate, after the exceedingly sharp kṛtavedhana.",
@@ -433,7 +433,7 @@ AUTHORED["62"] = {
     "questions": [
         mcq("pretest", 0, "In what are the kuṭaja fruit powders of unit 62 first soaked?",
             ("Arka milk (latex)", "अर्कक्षीरेण = with the milk of arka (Calotropis), its latex."),
-            [("She-goat's milk", "Goat's milk belongs to line 05.01.48."),
+            [("Milk of a she-goat", "Goat's milk belongs to line 05.01.48."),
              ("Cow's urine", "Cow's urine is not named in this unit."),
              ("Plain honey", "Honey is not named in this unit.")],
             "The powders are soaked for seven days in the milk (latex) of arka.",
@@ -541,14 +541,14 @@ AUTHORED["64"] = {
     "explain_hi": ("अध्याय का समापन-श्लोक। "
                    "पहली पंक्ति: यह वमनों का, विशेष रूप से उपयोगी वमनों का, केवल एक दिशा-संकेत (दिक्) है, पूरी सूची नहीं। "
                    "दूसरी पंक्ति: इस बीज से, यानी इस नमूने से, बुद्धिमान (मतिमान्) दूसरे योग भी बनाए (विकल्पयेत्)। "
-                   "यह पंक्ति 05.01.8 की बात से मेल खाता है, जहाँ कल्प को केवल उदाहरण बताया गया था।"),
+                   "यह बात पंक्ति 05.01.8 से मेल खाती है, जहाँ कल्प को केवल उदाहरण बताया गया था।"),
     "hook": "सूची बीज है; पेड़ बुद्धिमान वैद्य उगाए।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "Who should devise further preparations, according to verse 64?",
             ("The wise one (मतिमान्)", "मतिमान् … विकल्पयेत् = the wise one should devise."),
             [("The patient (आतुर)", "The patient is not named in this verse."),
-             ("The pupil (शिष्य)", "No pupil is named in this verse."),
+             ("The young pupil (शिष्य)", "No pupil is named in this verse."),
              ("The nurse (परिचारक)", "No attendant is named in this verse.")],
             "The wise physician makes new preparations from the model given.",
             "मतिमान् = one possessing understanding."),
@@ -626,7 +626,7 @@ AUTHORED["65"] = {
             "प्रथमः (first) + अध्यायः (chapter): अः before अ gives ओ, and ऽ marks the lost अ.",
             "अः + अ → ओऽ (प्रथमः + अध्यायः → प्रथमोऽध्यायः)."),
         fill(4, "The colophon calls this chapter the ____ (first) chapter. Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("प्रथमः", "प्रथम", "prathama"),
+             accepts("प्रथमः", "prathamaḥ", "प्रथम", "prathama", "prathamah"),
              "प्रथमोऽध्यायः = प्रथमः (first) + अध्यायः (chapter).",
              "Unit 65 names the chapter Vamanakalpa and calls it the first (प्रथम) chapter.",
              "प्रथम = first.", role="apply"),
@@ -672,7 +672,7 @@ NOTES_HI = {
            "पहचान (मानक): कुटज = Holarrhena pubescens, कुड़ा; बीज इन्द्रयव। वातशोणित = वातरक्त, विसर्प = फैलने वाला त्वचा-संक्रमण, कुष्ठ = कोढ़ समेत त्वचा-रोग। "
            "सन्धि जाँची: सुकुमारेषूल्बण = सुकुमारेषु + उल्बण (उ + उ → ऊ); कुष्ठादिषु = कुष्ठ + आदिषु।"),
     "62": ("विश्वास: निम्न। तीन छपाई-दोष चिह्नित: ‘चूर्णांन्यर्क’ (चूर्णान्यर्क, अतिरिक्त अनुस्वार), ‘मुलांन्यतम’ (मूलान्यतम), ‘क्रूशरया’ (कृशरया); "
-           "खुला बिन्दु (05.01.67): चिह्नों का ‘src’ पूरा छपा शब्द हो, और ‘ञ/न से पहले अतिरिक्त अनुस्वार’ की आदत पूरी पुस्तक में है। इन पर प्रश्न नहीं बने। "
+           "खुला बिन्दु (05.01.67): चिह्नों का ‘src’ पूरा छपा शब्द हो, और ‘न्य/न से पहले अतिरिक्त अनुस्वार’ की आदत पूरी पुस्तक में है। इन पर प्रश्न नहीं बने। "
            "‘मूल’ पूरी दूसरी सूची पर लगे या केवल जीवक पर, यह सन्दिग्ध (मदनफल फल का नाम है)। विकल्पों का व्याकरण संक्षिप्त है। अन्तिम ‘इति’ खण्ड को बन्द करता है। "
            "पहचान: अर्क = आक, मदनफल = मैनफल, मधूक = महुआ (मानक); सर्षप = सरसों, जीवन्ती = Leptadenia reticulata, कृशरा = खिचड़ी जैसा पका व्यंजन (सम्भावित)। "
            "सन्धि जाँची: सप्ताहम् = सप्त + अहम्।"),
@@ -723,9 +723,9 @@ AIDS = {
         "anchors": "कटु = तीखा · तीक्ष्ण = तेज़ · उष्ण = गरम · प्लीहा = तिल्ली · पाण्डु = रक्ताल्पता · श्वयथु = सूजन।",
     },
     "61": {
-        "diagram": {"groups": [{"label": "किसमें", "items": ["सुकुमार व्यक्ति", "रक्त-पित्त-कफ प्रबल"]},
+        "diagram": {"groups": [{"label": "किसमें", "items": ["सुकुमार व्यक्ति", "उल्बण रक्तपित्तकफ (दो पाठ)"]},
                                {"label": "रोग (पाठ-क्रम)", "items": ["वातशोणित", "विसर्प", "ज्वर", "कुष्ठ", "आदि"]}]},
-        "contrast": "कृतवेधन (पंक्ति 05.01.65): अत्यन्त तीक्ष्ण, कठोर रोगों में · कुटज-फल (यहाँ): ‘पुनः’, सुकुमारों में।",
+        "contrast": "कृतवेधन (पंक्ति 05.01.65): अत्यन्त कटु, तीक्ष्ण, उष्ण · कुटज-फल (यहाँ): ‘पुनः’, सुकुमारों में।",
         "sandhi": "उ + उ → ऊ: सुकुमारेषु + उल्बण → सुकुमारेषूल्बण; अ + आ → आ: कुष्ठ + आदिषु → कुष्ठादिषु।",
     },
     "62": {
@@ -789,10 +789,10 @@ IMAGE_SPECS = {
     },
     ("61", "diagram"): {
         "file": "ka1-kutaja-uses-61.svg",
-        "alt": ("Mind map of unit 61: kutaja fruit for delicate persons and those with prominent rakta, pitta and "
-                "kapha, and in vatashonita, visarpa, jvara, kushtha and the rest"),
+        "alt": ("Mind map of unit 61: kutaja fruit for delicate persons and those with prominent raktapitta-kapha (the "
+                "split is open), and in vatashonita, visarpa, jvara, kushtha and the rest"),
         "type": "mermaid",
-        "code": ("mindmap\n  कुटज का फल\n    किसमें\n      सुकुमार व्यक्ति\n      रक्त-पित्त-कफ प्रबल\n    रोग\n"
+        "code": ("mindmap\n  कुटज का फल\n    किसमें\n      सुकुमार व्यक्ति\n      उल्बण रक्तपित्तकफ\n    रोग\n"
                  "      वातशोणित\n      विसर्प\n      ज्वर यानी बुखार\n      कुष्ठ आदि\n"),
     },
     ("62", "chain"): {
