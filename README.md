@@ -1,9 +1,11 @@
 # अष्टाङ्गसंग्रह: Recall Quiz
 
-Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 3**: 518 cards and 3,108 questions (6 per card).
+Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 4**: 656 cards and 3,936 questions (6 per card).
 - **Sūtrasthāna 1–5**: 372 cards (one per printed verse-pair), unchanged since version 2.
-- **Śārīrasthāna 1** (Putrakāmīya): 146 cards, new in version 3. Śārīrasthāna 2–12 are being added
-  (their unit data is already in `data/chapter202…212_verses.json` but has no cards yet).
+- **Śārīrasthāna 1** (Putrakāmīya): 146 cards, added in version 3.
+- **Śārīrasthāna 2** (Garbhāvakrānti): 138 cards, new in version 4.
+- Śārīrasthāna 3–12 are being added: their unit data is in `data/chapter203…212_verses.json`; modules
+  `tools/authored/sh3_batch_*.py` in this version are work in progress and not in the bank.
 
 Code loads from `eckko/recall-quiz-site-template` tag **2.2.1** via jsDelivr.
 Site: <https://eckko.github.io/ashtanga-sangraha/>
@@ -40,7 +42,8 @@ also accept IAST and plain-letter spelling, with at most one per card.
 
 ## Rebuild
 ```
-PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json (PARTIAL=1 while Śārīra 2-12 have no cards)
+B=$(ls tools/authored/ch*_batch_*.py tools/authored/sh[12]_batch_*.py | xargs -n1 basename | sed 's/.py//' | paste -sd,)
+BATCHES=$B PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json of this version (Śārīra 3-12 not yet in)
 python3 tools/verse/render_images.py .         # images/aids/*.svg (needs node_modules for mermaid-cli)
 python3 <template-2.2.1>/tools/validate_bank.py questions.json
 ```

@@ -1,0 +1,50 @@
+# Data issues reported by author agents (Śārīrasthāna), for the owner
+- ch1 u15: print गर्भइव may be गर्भः इव; data reads गर्भा एव.
+- ch1 u24: योषित् nom. vs genitive वर्षायाः (noted in data).
+- ch1 u31: printed कुणपगंध्यमल्पं has extra म not in split.
+- ch1 u44/u55: kulīra / vāsa labelled probable in gloss, standard in notes.
+- ch1 u49: note says Hindi uses कफज; Hindi has श्लैष्मिक.
+- ch1 madhuka unlabelled in u45, u48–53 (u43 says probable licorice).
+- ch1 u98: जनपदानुचिंतय split जनपदान्+अनुचिन्तय (one न missing in print), no flag.
+- ch1 u112: text_flag cites metre but unit is prose.
+- ch1 u114: तथािह could be तथा हि; data only gives तथा+इह.
+- ch1 u115: Hindi contains stray "अनुमानित पाठ पर".
+- ch1 u134: print घृतमंदाभे, split silently reads घृत-मण्ड-आभे; no flag.
+- unit types fixed by hand: ch1 u13, u99, u106 prose; u104 verse.
+- ch1 u74: आसेवेताम् glossed "3 du. opt." but is imperative (opt. आसेवेयाताम्).
+- ch1 u68: print ग्रंधि split as granthi, no flag.
+- ch1 u78: stray capital "One" in English.
+- unit types: verse now only when every line is 16 or 21–23 syllables (all chapters).
+- ch1 u127: वाब्रूयुः split वा+अब्रूयुः glossed optative; should be वा+ब्रूयुः.
+- ch1 u85: flag on चतूरात्रम् may be too strict (र्+र् drop with lengthening).
+- ch2 u7: note calls गुरिमा nom. of "gurimān"; stem is guriman/gariman.
+- ch2 u9: Hindi has stray ",," and odd "सन्तुलनता".
+- ch2 u13: jarāyu tagged m.; usually n. (printed जरायुर् fits m.).
+- ch2 u15: -ता/-त्व abstracts labelled bahuvrīhi.
+- ch2 u25: text_flag on भावा wrong (आः drops visarga before voiced: भावा मनसि is regular).
+- ch2 u26: split gives यतः outright though flag says only possible.
+- ch2 u32: तत्प्रभृति labelled bahuvrīhi; works as adverb.
+- ch2 u40: स्नायवादीनि read स्नायु+आदीनि; regular स्नाय्वादीनि; not flagged.
+- ch2 u46: एषौजसा read एषः+ओजसा; regular एष ओजसा; not flagged.
+- ch2 u59: print आहारसो but split āhāra-rasaḥ (extra र), no flag.
+- ch2 u80: printed ध्वजस्तभ्यते (visarga missing) not noted.
+- joined English lines: 27 stray mid-sentence capitals lowercased (all chapters).
+- ch2 u94: note calls rasa probable then standard (contradiction).
+- ch2 u91/94/96: splits apply readings the flags call only possible (स्त्रीकरणानाम्, शुक्र-आख्ये, अनुपताप).
+- ch2 u73: द्विप्रकृतिः/द्विरेतः labelled m. nom. sg.; they qualify neuter नपुंसकम्.
+- ch2 u126: flag suggestion āsevamānā 'ntarvatnī not regular sandhi (would merge: आसेवमानान्तर्वत्नी).
+- ch2 u135: English missing full stop between "(one)" and "Even with sharp…".
+- ch2 u111: Hindi/English state 'protection from deities, rakṣas' more firmly than notes.
+- ch2 u113: punaḥ glossed 'again'; likely connective 'moreover'.
+- ch2 u108: split gives diva for printed divā.
+- ch3 u13: print भगवान्आत्रेयः (should be भगवानात्रेयः).
+- ch3 u63-64: typed verse by hand (Puṣpitāgrā-like metre); u58 mixes prose with an anuṣṭubh half-line (kept prose).
+- ch3 u40: Hindi links only srāva to yoni, English links all five pains; notes leave open. basti plain 'bladder' in u40 vs probable in u49.
+- ch3 u30: print उपाचरेत् split upacaret (probably upa-ā-√car).
+- ch3 u31: printed long ā in गर्भमार्गाशाययोः not flagged.
+- ch3 u32: गर्भधारिणी feminine read with masculine कुक्षि.
+- ch3 u38: uncertain list empty despite low confidence and 4 flags; बहुशः joined to प्रविश्य in print but translated with 'given birth'.
+- Picture check: authors must look at every picture (added to brief).
+- ch3 u63-64: single metrical lines (Puṣpitāgrā-like) kept as prose units because the bank labels verse units "श्लोक-युग्म"; notes say they are metrical.
+- ch3 lines 62+63 and 64+65 form two ślokas but are split across units 58-60 by the mechanical grouping.
+- ch3 u64: flag says analpavana "not a word"; better "gives no sense here".
