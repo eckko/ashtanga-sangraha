@@ -58,7 +58,7 @@ AUTHORED["13"] = {
         mcq("transfer", 5, "By the join in तद्वदोजः (तद्वत् + ओजः), how is पूर्ववत् + इदम् (this, as before) joined in a new example?",
             ("पूर्ववदिदम्", "A final त् before a vowel becomes द्: पूर्ववत् + इदम् → पूर्ववदिदम्."),
             [("पूर्ववतिदम्", "त् cannot stay त् before a vowel; it becomes द्."),
-             ("पूर्ववन्निदम्", "न्न comes before a nasal; इ is a vowel, not a nasal."),
+             ("पूर्ववन्निदम्", "त् may become न् (optionally) only before a nasal; इ is a vowel, so here it is द्."),
              ("पूर्ववदेदम्", "The इ of इदम् does not change; only त् becomes द्.")],
             "पूर्ववत् + इदम् = पूर्ववदिदम्, like तद्वत् + ओजः = तद्वदोजः.",
             "Final त् + vowel → द् + vowel.",
@@ -190,7 +190,7 @@ AUTHORED["16"] = {
     "rule": ("He has little wealth, strength, life and sleep; a body spread over with vessels (probably the visible "
              "veins); he is unfortunate, eats very much, talks much, is an unbeliever (नास्तिक), and has split hair, "
              "hands and feet."),
-    "limits": ("Typed prose, though the data's notes call these 'verse lines'. Continues the Vāta description of unit 14. क्षाम may go with वाच् (weak speech) or with the whole man: not asked. धमनी as visible veins is probable. दुर्भग may also mean disagreeable."),
+    "limits": ("Typed prose, though the lines appear metrical (not asked; no metre aid). Continues the Vāta description of unit 14. क्षाम may go with वाच् (weak speech) or with the whole man: not asked. धमनी as visible veins is probable. दुर्भग may also mean disagreeable."),
     "explain_hi": ("ये पंक्तियाँ इकाई १४ के वात-वर्णन को आगे बढ़ाती हैं; वहाँ की क्रिया ‘भवति’ यहाँ दोहराई नहीं गई। "
                    "वातप्रकृति वाले के धन, बल, जीवन और नींद थोड़े होते हैं; उसका शरीर धमनियों (सम्भवतः दिखने वाली नसों) से फैला हुआ होता है। "
                    "वह दुर्भग (भाग्यहीन), बहुत खाने वाला, बहुत बोलने वाला और नास्तिक है; उसके केश, हाथ और पैर फटे हुए होते हैं। "
@@ -247,7 +247,7 @@ AUTHORED["17"] = {
     "question": "By unit 17, what does the Vāta person do with his teeth, and where does he go?",
     "rule": ("He grinds his teeth (खादति दन्तान्), and he goes in dry, rough, uneven rivers, in the sky and on mountain "
              "peaks. The subject 'he' (the Vāta person) is understood."),
-    "limits": ("Typed prose, though the data's notes call these 'verse lines'; confidence low. क्थति is unclear, स्तन्यते is not sure, and the split around मुख is not sure: none is asked. The unit has no word for sleep or dream, and none is supplied."),
+    "limits": ("Typed prose, though the lines appear metrical (not asked); confidence low. क्थति is unclear, स्तन्यते is not sure, and the split around मुख is not sure: none is asked. The unit has no word for sleep or dream, and none is supplied."),
     "explain_hi": ("ये पंक्तियाँ भी वात-वर्णन में हैं; कर्ता ‘वह’ समझा गया है। "
                    "पहली पंक्ति में थोड़ी खुली दृष्टि और ढीला मुख, कराहना और दाँत चबाना है; पर ‘क्थति’ अस्पष्ट है, ‘स्तन्यते’ रूप अनिश्चित है और मुख वाले समास का विभाग पक्का नहीं। "
                    "दूसरी पंक्ति कहती है कि वह सूखी, रूखी, ऊबड़-खाबड़ नदियों में, आकाश में और पर्वत की चोटियों पर जाता है। "
@@ -338,7 +338,7 @@ AUTHORED["18"] = {
                ("शीत (cold)", "Right: शीत ends the list."),
                ("कषाय (astringent)", "Right: कषाय, the astringent taste, is in the list.")],
               [1, 3, 4],
-              "स्वादुतिक्तकषायशीताभिलाषोपशयः: sweet, bitter, astringent and cold.",
+              "स्वादुतित्तकषायशीताभिलाषोपशयः: sweet, bitter (तित्त, read तिक्त), astringent and cold.",
               "अभिलाष = desire, उपशय = what suits."),
         mcq("apply", 4, "In पित्तप्रकृतिरुष्ण (unit 18), why does the visarga of प्रकृतिः appear as र्?",
             ("It follows इ, before a vowel", "After a vowel other than अ/आ, a visarga before a vowel becomes र्: -तिर् + उष्ण."),
@@ -419,7 +419,7 @@ AUTHORED["20"] = {
     "rule": ("Garlands, unguents and adornment are dear to him; he is well-behaved, pure, affectionate to dependents; "
              "endowed with wealth (or power), daring, intellect and strength; in fears he is a refuge even for the lords "
              "of the quarters."),
-    "limits": ("Typed prose, though the data's notes call these 'verse lines'. Continues the Pitta description. शुचि is pure or clean; गतिः is refuge or resort; 'for' or 'of' the lords of the quarters is not firm. Printed दिंपताम् is read दिक्पताम्: not asked."),
+    "limits": ("Typed prose, though the lines appear metrical (not asked; no metre aid). Continues the Pitta description. शुचि is pure or clean; गतिः is refuge or resort; 'for' or 'of' the lords of the quarters is not firm. Printed दिंपताम् is read दिक्पताम्: not asked."),
     "explain_hi": ("ये पंक्तियाँ पित्त-वर्णन को आगे बढ़ाती हैं। "
                    "उसे माला, लेप और सजावट प्रिय हैं; वह सदाचारी, शुचि (शुद्ध या स्वच्छ) और आश्रितों पर स्नेह करने वाला है। "
                    "वह वैभव (धन या शक्ति), साहस, बुद्धि और बल से युक्त होता है; भय में दिशाओं के स्वामियों के लिए भी आश्रय होता है। "
@@ -477,13 +477,13 @@ AUTHORED["21"] = {
     "rule": ("He hates heat and sweats; he has much stool, anger, drinking, eating and jealousy. Asleep he would see "
              "karṇikāra trees (probable identification), palāśa trees (Butea monosperma, standard), burning of the "
              "quarters, meteors, lightning, the sun and fires."),
-    "limits": ("Typed prose, though the data's notes call these 'verse lines'. पूनिंगंधिः is read पूतिगन्धिः (foul-smelling) by conjecture: not asked. भूरि is taken over the whole list. कर्णिकार = Pterospermum acerifolium is probable; अर्क is taken as the sun (or Calotropis): not matched. सुप्तः पश्येत् is read as dreaming."),
+    "limits": ("Typed prose, though the lines appear metrical (not asked; no metre aid). पूनिंगंधिः is read पूतिगन्धिः (foul-smelling) by conjecture: not asked. भूरि is taken over the whole list. कर्णिकार = Pterospermum acerifolium is probable; अर्क is taken as the sun (or Calotropis): not matched. सुप्तः पश्येत् is read as dreaming."),
     "explain_hi": ("ये पंक्तियाँ पित्त-वर्णन पूरा करती हैं। "
                    "वह घर्म (गरमी) से द्वेष करता है, पसीने वाला है; मल, क्रोध, पान, भोजन और ईर्ष्या उसे बहुत होते हैं; ‘दुर्गन्ध’ अनुमानित पाठ पर है। "
                    "सोया हुआ वह कर्णिकार (सम्भावित पहचान), पलाश (ढाक, मानक पहचान), दिशाओं का जलना, उल्का, बिजली, सूर्य और अग्नि देखे: डेटा इसे स्वप्न में देखना पढ़ता है। "
                    "‘अर्क’ को सूर्य माना गया, पर यह आक का पौधा भी हो सकता है। "
                    "‘अनलांश्च’ में अनलान् + च है: न् च से पहले ं + श् बनता है।"),
-    "hook": "पित्त का स्वप्न: लाल फूल, जलती दिशाएँ, उल्का, बिजली, सूर्य, अग्नि।",
+    "hook": "पित्त का स्वप्न: कर्णिकार, पलाश, जलती दिशाएँ, उल्का, बिजली, सूर्य, अग्नि।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 21, what does the Pitta person hate (द्वेषी)?",
@@ -537,7 +537,7 @@ AUTHORED["22"] = {
              "not greedy; likes pungent, hot, dry."),
     "limits": ('Prose, confidence low. Flagged readings सममुविभक्त, ससंधिबंधः, बन्होजो (read बहु-ओजः) and the unclear स्थिरशोष are not asked; दूर्वेदीवर is read दूर्वा-इन्दीवर. dūrvā = Cynodon dactylon (standard), indīvara = blue lotus (probable), śara = a reed (probable). उरु, घन, पेशल have two senses: not asked.'),
     "explain_hi": ("कफप्रकृति वाले का रंग दूर्वा (दूब, मानक पहचान), इन्दीवर (सम्भवतः नीला कमल) या शर (सम्भवतः सरकंडा) के डंठल में से किसी एक जैसा होता है। "
-                   "उसका शरीर भरा हुआ और सुन्दर, ललाट, जाँघें और भुजाएँ बड़ी; आँखों में सफेद और काला स्पष्ट; स्वर सिंह, मृदंग और मेघ जैसा। "
+                   "उसका शरीर भरा हुआ और सुन्दर, ललाट, जाँघें (‘उरु’ = चौड़ी भी हो सकता है) और भुजाएँ बड़ी; आँखों में सफेद और काला स्पष्ट; स्वर सिंह, मृदंग और मेघ जैसा। "
                    "वह भूख, प्यास और गरमी सह लेता है; शत्रुता दृढ़ और छिपी; सत्यवादी, स्मृतिमान्, धृतिमान्, लोभ रहित; बचपन में भी नहीं रोता। "
                    "कई छपे रूप संदिग्ध हैं (सममुविभक्त, ससंधिबंधः, बन्होजो, स्थिरशोष), इन पर प्रश्न नहीं। "
                    "कटु (तीखा), कड़वा, कसैला, गरम और रूखा उसे चाहिए और अनुकूल है; ‘सितासित’ में सित + असित (अ + अ → आ) है।"),
@@ -619,13 +619,13 @@ AUTHORED["23"] = {
               "अपिच: one printed word, two indeclinables, no verb.",
               "अपि, च = avyaya."),
           "Indeclinables (अव्यय) such as अपि and च take no case or verb endings."),
-        mcq("discriminate", 3, "What does अपिच mean in unit 23?",
-            ("And further", "अपि (also) + च (and)."),
-            [("Or rather, instead", "'Or' would be वा, not च."),
-             ("But not", "No न is printed."),
-             ("Only this", "'Only' would be एव.")],
-            "अपिच = and further.",
-            "अपि = also, च = and."),
+        mcq("discriminate", 3, "By the data, what does the link अपिच in unit 23 do?",
+            ("Opens the lines that follow", "The data: it introduces the lines of the next units."),
+            [("Ends the Kapha description", "It opens what follows; it ends nothing."),
+             ("Names a new constitution", "No prakṛti is named in unit 23."),
+             ("Gives a reason for the above", "A reason would need हि or यतः; अपि च adds.")],
+            "अपिच opens the following lines (data).",
+            "अपि च = and further: it adds."),
         mcq("apply", 4, "Before च in unit 23, what does the final इ of अपि do?",
             ("It stays unchanged", "च is a consonant, so no vowel sandhi: अपि च."),
             [("It becomes य्", "इ → य् only before a different vowel, not before च."),
@@ -650,7 +650,7 @@ AUTHORED["24"] = {
     "question": "By unit 24, what is little and what is abundant in the Kapha person, and what is his temper?",
     "rule": ("He has little speech, anger, intellect (medhā), eating and effort, but abundant life and wealth; he is "
              "far-seeing, generous, faithful, deep, forbearing, noble, prone to sleep, slow to act and grateful."),
-    "limits": ("Typed prose, though the data's notes call these 'verse lines'. Continues the Kapha description. The अल्प compound is read as printed; मेधा is odd here (मेह is conceivable) and ईह is effort or desire: neither is asked. स्थूललक्ष is not firm: not asked."),
+    "limits": ("Typed prose, though the lines appear metrical (not asked; no metre aid). Continues the Kapha description. The अल्प compound is read as printed; मेधा is odd here (मेह is conceivable) and ईह is effort or desire: neither is asked. स्थूललक्ष is not firm: not asked."),
     "explain_hi": ("ये पंक्तियाँ कफ-वर्णन को आगे बढ़ाती हैं; इकाई २२ की क्रिया यहाँ दोहराई नहीं गई। "
                    "उसकी वाणी, क्रोध, मेधा, भोजन और ईहा (चेष्टा या इच्छा) थोड़े, पर आयु और धन बहुत (प्राज्य) होते हैं। "
                    "वह दूरदर्शी, उदार, श्रद्धालु, गम्भीर, क्षमावान्, आर्य, निद्रालु, दीर्घसूत्री (देर से काम करने वाला) और कृतज्ञ है। "
@@ -687,7 +687,7 @@ AUTHORED["24"] = {
             ("स् after उ, before voiced व → र्", "A final स् after उ becomes र् before a voiced sound: आयुस् + वित्त → आयुर्वित्त."),
             [("स् after उ always → ओ", "ओ arises only from अस्/अः; after उ it is र्."),
              ("र् is the first sound of वित्त", "वित्त begins with व; the र् comes from स्."),
-             ("स् → र् before any consonant", "Before a voiceless one like त it stays स्.")],
+             ("स् → र् before any consonant", "Before a voiceless one like त it does not become र्.")],
             "आयुस् + वित्त → आयुर्वित्त.",
             "उस् + voiced sound → उर्."),
         mcq("transfer", 5, "By the join आयुस् + वित्त → आयुर्वित्त, how is धनुस् + वेदः joined in a new example?",
@@ -707,7 +707,7 @@ AUTHORED["25"] = {
     "question": "By unit 25, what is the Kapha person's character, and what does he see in a dream?",
     "rule": ("He is upright, learned, fortunate, modest, devoted to his elders, firm in friendship. In a dream he sees "
              "water-reservoirs with lotuses and rows of birds, and clouds (तोयद, water-giver)."),
-    "limits": ("Typed prose in the data, though its notes call these 'verse lines'. Continues the Kapha description. गुरु "
+    "limits": ("Typed prose, though the lines appear metrical (not asked). Continues the Kapha description. गुरु "
                "is elder or teacher (a plural of respect). पद्म = lotus, Nelumbo nucifera (standard). सपद्म and "
                "सविहङ्गमाल are taken with तोयाशय."),
     "explain_hi": ("ये पंक्तियाँ कफ-वर्णन पूरा करती हैं। "
@@ -767,7 +767,7 @@ NOTES_HI = {
            "‘आधारः’ का आधेय नहीं बताया गया; ‘रसात्मकस्यौजसः क्षयवृद्धिभाजः’ को एक वाक्यांश पढ़ा गया, अनुवाद ढीला है। "
            "जाँची सन्धियाँ: वैकृताः + तु → वैकृतास्तु (त से पहले विसर्ग → स्); प्राकृतेषु + एव → प्राकृतेष्वेव; तद्वत् + ओजः → तद्वदोजः; "
            "ओजः + अपि → ओजोऽपि (अः + अ → ओऽ); रसात्मकस्य + ओजसः → रसात्मकस्यौजसः (अ + ओ → औ)।"),
-    "14": ("दो छपे रूप चिह्नित: ‘शीतद्विदुद्वद्ध’ को शीतद्विट् + उद्बद्ध पढ़ा गया (द का ड होना चाहिए, और व का ब; पठन पक्का नहीं); "
+    "14": ("दो छपे रूप चिह्नित: ‘शीतद्विदुद्वद्ध’ को शीतद्विट् + उद्बद्ध पढ़ा गया (सन्धि से ड अपेक्षित है पर द छपा है, और व का ब; यह सम्भावित पठन है, पक्का नहीं); "
            "‘मधुराम्स’ को मधुर-अम्ल पढ़ा गया (म्स, म्ल की छपाई-भूल)। "
            "जाँची सन्धियाँ: अनुरोधात् + वात → अनुरोधाद्वात (घोष से पहले त् → द्); प्रकृतिः + तनुः → प्रकृतिस्तनुः; तनुः + रूक्षः → तनू रूक्षः "
            "(उ के बाद विसर्ग र्, र से पहले लुप्त, उ दीर्घ); स्तेनः + अनार्यः → स्तेनोऽनार्यः; अनार्यः + मत्सरी → अनार्यो मत्सरी; "
@@ -796,15 +796,15 @@ NOTES_HI = {
            "अर्क = सूर्य माना (आक भी सम्भव)।"),
     "22": ("विश्वसनीयता कम। चिह्नित: ‘सममुविभक्त’ (पढ़ा सम-सुविभक्त), ‘ससंधिबंधः’ (पढ़ा सुसन्धिबन्धः), ‘बन्होजो’ (पढ़ा बहु-ओजः, अनुमानित); "
            "‘स्थिरशोष’ अस्पष्ट। छपा ‘दूर्वेदीवर’ को दूर्वा-इन्दीवर पढ़ा गया; ‘कटुतित्त’ = कटु-तिक्त। "
-           "जाँची सन्धियाँ: कफप्रकृतिः + तु → कफप्रकृतिस्तु; सित + असित → सितासित; महा-ललाट-ऊरु → महाललाटोरु (अ + ऊ → ओ); "
-           "सहिष्णुः + बहु → सहिष्णुर्बहु; बाल्ये + अपि → बाल्येऽपि (छपे में ऽ नहीं); प्र + छन्न → प्रच्छन्न। "
+           "जाँची सन्धियाँ: कफप्रकृतिः + तु → कफप्रकृतिस्तु; सित + असित → सितासित; ललाट + उरु/ऊरु → ललाटोरु (अ + उ/ऊ → ओ; अर्थ जाँघ या चौड़ा, पक्का नहीं); "
+           "सहिष्णुः + (छपा) बन्हो... → सहिष्णुर्बन्हो... (उ के बाद विसर्ग, घोष से पहले र्); बाल्ये + अपि → बाल्येऽपि (छपे में ऽ नहीं); प्र + छन्न → प्रच्छन्न। "
            "पहचान: दूर्वा = Cynodon dactylon (मानक), इन्दीवर = नीला कमल, Nymphaea (सम्भावित), शर = Saccharum वर्ग का सरकंडा (सम्भावित)।"),
     "23": "एक शब्द ‘अपिच’ = अपि + च; अगली पंक्तियों का आरम्भ। कोई सन्धि-परिवर्तन नहीं, कोई पाठ-भेद नहीं।",
     "24": ("[02.08.29] ‘अल्प’ पाँचों पर लागू पढ़ा गया; ‘मेधा’ यहाँ अटपटा है (मेह सम्भव) और ‘ईह’ चेष्टा या इच्छा, समास पक्का नहीं। "
            "अशन + ईह → अशनेह; प्राज्य + आयुस् → प्राज्यायुस्; आयुस् + वित्त → आयुर्वित्त; वित्तः + दीर्घ → वित्तो दीर्घ। "
            "[02.08.30] श्राद्धः + गम्भीरः → श्राद्धो गम्भीरः; क्षमावान् + आर्यः → क्षमावानार्यः; आर्यः + निद्रालुः → आर्यो निद्रालुः; "
            "निद्रालुः + दीर्घ → निद्रालुर्दीर्घ। ‘स्थूललक्ष’ का अर्थ पक्का नहीं (बड़े लक्ष्य वाला / उदार)।"),
-    "25": ("[02.08.31] ऋजुः + विपश्चित् → ऋजुर्विपश्चित्; सलज्जः + भक्तः → सलज्जो भक्तो; गुरु = बड़े या आचार्य (आदरार्थ बहुवचन)। "
+    "25": ("[02.08.31] ऋजुः + विपश्चित् → ऋजुर्विपश्चित्; सलज्जः + भक्तः → सलज्जो भक्तः; भक्तः + गुरूणाम् → भक्तो गुरूणाम्; गुरु = बड़े या आचार्य (आदरार्थ बहुवचन)। "
            "[02.08.32] सविहङ्गमालान् + तोयाशयान् → सविहंगमालांस्तोयाशयान् (न् + त → ंस्त); तोयदान् + च → तोयदांश्च (न् + च → ंश्च)। "
            "पद्म = कमल, Nelumbo nucifera (मानक)। कोई पाठ-भेद नहीं।"),
 }
@@ -814,7 +814,7 @@ AIDS = {
     "13": {
         "chain": {"steps": ["गर्भ से निकले के आहारों से", "वैकृत उत्पन्न होते", "प्राकृतों पर ही जमते",
                             "काल आदि के वश से", "शरीर का अनुग्रह भी, दूषण भी"]},
-        "chunks": "वैकृतास्तु | गर्भादभिनिःसृतस्याहारैरसात्संभवंतः | प्राकृतेष्वेव रोहंति | ते कालादिवशेन | देहमनुगृह्णंति दूषयंति च | तद्वदोजोऽपि परं हृदयस्थमष्टबिंदुप्रमाणम्",
+        "chunks": "वैकृतास्तु | गर्भादभिनिःसृतस्याहारैरसात्संभवंतः | प्राकृतेष्वेव रोहंति | ते कालादिवशेन | स्वप्नमाणवृद्धिक्षययोगाद्देहमनुगृह्णंति | दूषयंति च | तद्वदोजोऽपि परं | हृदयस्थमष्टबिंदुप्रमाणमाधारः | प्राकृतिकल्य | रसात्मकस्यौजसः क्षयवृद्धिभाजः",
         "sandhi": "उ + ए → वे: प्राकृतेषु + एव → प्राकृतेष्वेव · स्वर से पहले त् → द्: तद्वत् + ओजः → तद्वदोजः · अः + अ → ओऽ: ओजः + अपि → ओजोऽपि।",
         "anchors": "पक्का भाग: वैकृत प्राकृत पर जमते; ओज हृदय में, आठ बूँद। अस्पष्ट: असात्, स्वप्नमाण..., प्राकृतिकल्य। (मेरी याद-पद्धति)",
     },
@@ -850,8 +850,8 @@ AIDS = {
             {"label": "शरीर", "items": ["उष्ण, गौर गात्र", "ताम्र नख-नयन-जिह्वा-ओष्ठ-पाणितल-पादतल", "शिथिल सन्धिबन्ध, मांस",
                                      "कपिल, विरल, मृदु केश-रोम"]},
             {"label": "बल और आयु", "items": ["मध्य बल, आयु", "अल्प शुक्र, व्यवाय, अपत्य"]},
-            {"label": "स्वभाव और शीघ्र विकार", "items": ["शूर, अभिमानी", "वली, खलित, पलित (शीघ्र)", "पिटक, व्यङ्ग (शीघ्र)", "क्षुत्-पिपासा (अनुमानित पाठ)", "मेधावी, दुर्भग"]},
-            {"label": "इच्छा और उपशय", "items": ["स्वादु, तिक्त, कषाय, शीत"]}]},
+            {"label": "स्वभाव और शीघ्र विकार", "items": ["शूर, अभिमानी", "वली, खलित, पलित (शीघ्र)", "पिट्कु (पढ़ा पिटक), व्यङ्ग (शीघ्र)", "क्षुत्-पिपासा (अनुमानित पाठ)", "मेधावी, दुर्भग"]},
+            {"label": "इच्छा और उपशय", "items": ["स्वादु, तित्त (पढ़ा तिक्त), कषाय, शीत"]}]},
         "sandhi": "इ के बाद विसर्ग + स्वर → र्: पित्तप्रकृतिः + उष्ण → पित्तप्रकृतिरुष्ण · अः + अ → ओऽ: शूरः + अभिमानी → शूरोऽभिमानी।",
         "frame": "कौन: पित्तप्रकृतिः → शरीर → बल-आयु → स्वभाव → शीघ्र विकार → इच्छा → क्रिया: भवति।",
         "pegs": "पित्त को ‘ताँबा’ से याद रखें: ताम्र नख-नेत्र, उष्ण गात्र। (मेरी याद-पद्धति, पाठ का कथन नहीं)",
@@ -875,14 +875,14 @@ AIDS = {
     },
     "22": {
         "diagram": {"groups": [
-            {"label": "वर्ण", "items": ["दूर्वा (मानक), इन्दीवर (सम्भावित), शरकाण्ड (सम्भावित): कोई एक"]},
-            {"label": "शरीर", "items": ["परिपूर्ण, चारु गात्र", "महा ललाट, ऊरु, बाहु", "व्यक्त सित-असित नेत्र",
+            {"label": "वर्ण", "items": ["दूर्वेदीवर (पढ़ा दूर्वा (मानक), इन्दीवर (सम्भावित)), शरकाण्ड (सम्भावित): कोई एक"]},
+            {"label": "शरीर", "items": ["परिपूर्ण, चारु गात्र", "महा ललाट, उरु (जाँघ या चौड़ा), बाहु", "व्यक्त सित-असित नेत्र",
                                      "सिंह-मृदंग-घन जैसा घोष"]},
             {"label": "सहन और स्वभाव", "items": ["सहे: क्षुत्, पिपासा, उष्ण", "दृढ, प्रच्छन्न वैर", "पेशल, सत्यवादी", "स्मृतिमान्, धृतिमान्, अलोलुप",
                                        "बाल्य में भी अरोदन"]},
-            {"label": "इच्छा और उपशय", "items": ["कटु, तिक्त, कषाय, उष्ण, रूक्ष"]}]},
+            {"label": "इच्छा और उपशय", "items": ["कटु, तित्त (पढ़ा तिक्त), कषाय, उष्ण, रूक्ष"]}]},
         "seesaw": "सित (सफेद) ↔ असित (काला): दोनों आँखों में व्यक्त (स्पष्ट) दिखते हैं।",
-        "sandhi": "अ + अ → आ: सित + असित → सितासित · ह्रस्व स्वर के बाद छ → च्छ: प्र + छन्न → प्रच्छन्न · उ के बाद विसर्ग + घोष → र्: सहिष्णुः + बहु → सहिष्णुर्बहु।",
+        "sandhi": "अ + अ → आ: सित + असित → सितासित · ह्रस्व स्वर के बाद छ → च्छ: प्र + छन्न → प्रच्छन्न · उ के बाद विसर्ग + घोष → र्: महाललाटोरुबाहुः + व्यक्त → महाललाटोरुबाहुर्व्यक्त।",
         "pegs": "कफ को ‘भरा-पूरा’ से याद रखें: परिपूर्ण गात्र, महा ललाट, गहरा घोष। (मेरी याद-पद्धति, पाठ का कथन नहीं)",
     },
     "23": {
@@ -911,7 +911,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("13", "chain"): {
         "file": "sh8-vaikrita-13.svg",
-        "alt": ("Flowchart of the sure parts of unit 13 in line order: from the foods of one come out of the womb; the "
+        "alt": ("Flowchart of the sure parts of unit 13, in the order of the sense: from the foods of one come out of the womb; the "
                 "abnormal (vaikṛta) ones arise; they grow only on the natural (prākṛta) ones; by time and so on; they "
                 "favour and also vitiate the body."),
         "type": "mermaid",
@@ -926,7 +926,7 @@ IMAGE_SPECS = {
         "file": "sh8-vata-prakriti-14.svg",
         "alt": ("Table of unit 14 in printed order: body thin and dry with thin, scanty limbs, teeth, nails, hair, eyes and "
                 "voice; noisy joints; quick to begin, be agitated, grasp and forget; unsteady; thief, ignoble, envious, "
-                "senses unconquered; fond of music (probable), legends, quarrel, hunting, gardens, journeys; desires "
+                "senses unconquered; fond of music (probable), legends, laughter, play, quarrel, hunting, gardens, journeys; desires "
                 "unctuous, hot, sweet, sour (conjectural reading) and salty."),
         "type": "table",
         "title": "इकाई १४: वातप्रकृति",
@@ -935,7 +935,7 @@ IMAGE_SPECS = {
                  ["३ सन्धि", "चलते समय सशब्द"], ["४ शीघ्र", "आरम्भ, क्षोभ, ग्रहण, विस्मरण"],
                  ["५ चंचल", "धृति, मति, गति, दृष्टि, स्वभाव, सौहार्द"],
                  ["६ स्वभाव", "स्तेन, अनार्य, मत्सरी, अजितेन्द्रिय"],
-                 ["७ प्रिय", "संगीत (सम्भावित), इतिहास, कलह, मृगया, उद्यान, यात्रा"],
+                 ["७ प्रिय", "संगीत (सम्भावित), इतिहास, हास, विलास, कलह, मृगया, उद्यान, यात्रा"],
                  ["८ इच्छा", "स्निग्ध, उष्ण, मधुर, अम्ल (अनुमानित), लवण"]],
     },
     ("18", "diagram"): {
@@ -950,39 +950,35 @@ IMAGE_SPECS = {
         "rows": [["१ शरीर", "उष्ण, गौर"], ["२ ताम्र", "नख, नयन, जिह्वा, ओष्ठ, पाणितल, पादतल"],
                  ["३ शिथिल", "सन्धिबन्ध, मांस"], ["४ केश-रोम", "कपिल, विरल, मृदु"],
                  ["५ मध्य", "बल, आयु"], ["६ अल्प", "शुक्र, व्यवाय, अपत्य"], ["७ स्वभाव", "शूर, अभिमानी"],
-                 ["८ शीघ्र", "वली, खलित, पलित, पिटक, व्यङ्ग"], ["९ गुण", "मेधावी, दुर्भग"],
-                 ["१० इच्छा", "स्वादु, तिक्त, कषाय, शीत"]],
+                 ["८ शीघ्र", "वली, खलित, पलित, पिट्कु (पढ़ा पिटक), व्यङ्ग"], ["९ गुण", "मेधावी, दुर्भग"],
+                 ["१० इच्छा", "स्वादु, तित्त (पढ़ा तिक्त), कषाय, शीत"]],
     },
     ("21", "chain"): {
         "file": "sh8-pitta-svapna-21.svg",
-        "alt": ("Numbered flowchart of unit 21: asleep he would see, in printed order, karṇikāra trees (probable "
+        "alt": ("Numbered table of unit 21: asleep he would see, in printed order, karṇikāra trees (probable "
                 "identification), palāśa trees (standard), burning of the quarters, meteors, lightning, arka (taken as the "
                 "sun) and fires."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  S[\"सुप्तः पश्येत्: सोया देखे\"] --> A[\"१ कर्णिकार (सम्भावित)\"]\n"
-                 "  A --> B[\"२ पलाश: ढाक (मानक)\"]\n"
-                 "  B --> C[\"३ दिग्दाह\"]\n"
-                 "  C --> D[\"४ उल्का\"]\n"
-                 "  D --> E[\"५ विद्युत्: बिजली\"]\n"
-                 "  E --> F[\"६ अर्क: सूर्य माना\"]\n"
-                 "  F --> G[\"७ अनल: अग्नि\"]\n"),
+        "type": "table",
+        "title": "इकाई २१: सुप्तः पश्येत्",
+        "heads": ["क्रम", "क्या देखे"],
+        "rows": [["१", "कर्णिकार (सम्भावित)"], ["२", "पलाश: ढाक (मानक)"], ["३", "दिग्दाह"], ["४", "उल्का"],
+                 ["५", "विद्युत्: बिजली"], ["६", "अर्क: सूर्य माना"], ["७", "अनल: अग्नि"]],
     },
     ("22", "diagram"): {
         "file": "sh8-kapha-prakriti-22.svg",
         "alt": ("Table of the sure marks of unit 22 in printed order: colour of any one of dūrvā (standard), indīvara "
-                "(probable) or śara stalk (probable); full, handsome body; large forehead, thighs, arms; eyes with distinct "
+                "(probable) or śara stalk (probable); full, handsome body; large forehead, thighs (or: broad), arms; eyes with distinct "
                 "white and dark; voice like lion, drum, cloud; endures hunger, thirst, heat; firm hidden enmity; gentle, "
                 "truthful; memory, steadiness, not greedy; not crying even in childhood; desires pungent, bitter, "
                 "astringent, hot, dry."),
         "type": "table",
-        "title": "इकाई २२: कफप्रकृति (पक्के लक्षण)",
+        "title": "इकाई २२: कफप्रकृति (मुख्य लक्षण)",
         "heads": ["क्रम", "लक्षण"],
-        "rows": [["१ वर्ण", "दूर्वा (मानक), इन्दीवर या शरकाण्ड (सम्भावित)"], ["२ गात्र", "परिपूर्ण, चारु"],
-                 ["३ महा", "ललाट, ऊरु, बाहु"], ["४ नेत्र", "सित-असित व्यक्त, आयत, विशाल"],
+        "rows": [["१ वर्ण", "दूर्वेदीवर (पढ़ा दूर्वा, मानक; इन्दीवर, सम्भावित) या शरकाण्ड (सम्भावित)"], ["२ गात्र", "परिपूर्ण, चारु"],
+                 ["३ महा", "ललाट, उरु (जाँघ या चौड़ा), बाहु"], ["४ नेत्र", "सित-असित व्यक्त, आयत, विशाल"],
                  ["५ घोष", "सिंह, मृदंग, घन जैसा"], ["६ सहन", "क्षुत्, पिपासा, उष्ण"],
                  ["७ वैर", "दृढ, प्रच्छन्न"], ["८ स्वभाव", "पेशल, सत्यवादी, स्मृतिमान्, धृतिमान्, अलोलुप"],
-                 ["९ बाल्य में", "अरोदन"], ["१० इच्छा", "कटु, तिक्त, कषाय, उष्ण, रूक्ष"]],
+                 ["९ बाल्य में", "अरोदन"], ["१० इच्छा", "कटु, तित्त (पढ़ा तिक्त), कषाय, उष्ण, रूक्ष"]],
     },
     ("24", "contrast"): {
         "file": "sh8-kapha-alpa-prajya-24.svg",
