@@ -21,7 +21,7 @@ AUTHORED["41"] = {
                    "जहाँ ‘साधयेत्’ (चिकित्सा करे) आया है। अर्थ: और गुह्य (गुप्तांग) के प्रतिषेध यानी उपचार से, दोनों को भी। "
                    "‘उभयान्’ (दोनों को) किनके लिए है, पंक्ति नहीं बताती; सम्भवतः शुक्र और आर्तव के दोष, पर यह कहा नहीं गया। "
                    "‘गुह्यप्रतिषेधेन’ तृतीया है: ‘उपचार से’।"),
-    "hook": "इकाई ४० की ‘साधयेत्’ यहाँ भी: गुह्य के उपचार से, दोनों को भी।",
+    "hook": "क्रिया नहीं; सम्भवतः इकाई ४० की ‘साधयेत्’: गुह्य के उपचार से, दोनों को भी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 41, with what further means is the treatment done?",
@@ -117,7 +117,7 @@ AUTHORED["42"] = {
               ("In the Pitta-type fever", "Adjective and noun both in the locative: in the Pitta-type fever."),
               [("From the Pitta-type fever", "'From' would need the ablative, not the locative -ए."),
                ("The fever causes Pitta", "There is no verb; both words are locative."),
-               ("For the Pitta-type fever", "'For' would need the dative, not the locative -ए.")],
+               ("Of the Pitta-type fever", "'Of' would need the genitive (-स्य), not the locative -ए.")],
               "वातिके शुक्रदोषे = in the Vāta-type fault of śukra; पैत्तिके ज्वरे = in the Pitta-type fever.",
               "Adjective + noun in the locative = 'in (the case of) …'."),
           "A locative pair like वातिके शुक्रदोषे names the case in which a treatment is used."),
@@ -165,7 +165,7 @@ AUTHORED["43"] = {
             "तैलम् (oil) + अनुवासनम् (oil enema).",
             "Final म् before a vowel joins it in writing."),
         mcq("apply", 4, "In unit 43, which preparation is joined with milk?",
-            ("The āsthāpana (decoction enema)", "बिल्वविदारीक्षीरयुक्तम् आस्थापनम्."),
+            ("The āsthāpana", "बिल्वविदारीक्षीरयुक्तम् आस्थापनम्."),
             [("The oil of the anuvāsana", "The oil is cooked with madhuka and bhadradāru, not milk."),
              ("The ghee drink of unit 42", "That ghee is cooked with sukta and rock salt."),
              ("The madhuka and bhadradāru", "These go into the oil; milk is not named with them.")],
@@ -184,7 +184,7 @@ AUTHORED["43"] = {
 
 # ---------------------------------------------------------------- unit 44
 AUTHORED["44"] = {
-    "title": "क्षीरकुलीररससिद्धं तैलम्",
+    "title": "तैलमुत्तरबस्तिः",
     "question": "What oil does unit 44 give as uttarabasti?",
     "rule": ("Oil cooked with milk and the juice (rasa) of kulīra (probably crab), as uttarabasti (an injection through the "
              "urinary or genital passage)."),
@@ -203,10 +203,10 @@ AUTHORED["44"] = {
              ("As āsthāpana", "Āsthāpana is a decoction enema, in unit 43.")],
             "Oil cooked with milk and kulīra juice, as uttarabasti.",
             "उत्तरबस्ति = injection through the urinary or genital passage."),
-        order(1, "Put the steps of unit 44 in the card's order.",
-              ["दूध और कुलीर का रस", "उनसे पकाया तेल", "उत्तरबस्ति के रूप में"],
-              "Milk and kulīra juice, the oil cooked with them, its use as uttarabasti.",
-              "क्षीर-कुलीररस → सिद्ध तैल → उत्तरबस्तिः."),
+        order(1, "Put these words of unit 44 in their printed order.",
+              ["क्षीरकुलीररसरससिद्धं", "तैलम्", "उत्तरबस्तिः"],
+              "What the oil is cooked with, the oil, its use as uttarabasti.",
+              "…सिद्धं → तैलम् → उत्तरबस्तिः."),
         T(match(2, "Match each word of unit 44 to its meaning on the card.",
                 [["क्षीर", "milk"], ["कुलीर", "probably crab"], ["रस", "juice"], ["तैल", "oil"],
                  ["उत्तरबस्ति", "injection through the urinary or genital passage"]],
@@ -245,7 +245,7 @@ AUTHORED["45"] = {
     "rule": ("In the Pitta-type (fault of śukra, understood): drinking of ghee cooked with kāṇḍekṣu, śvadaṃṣṭrā (puncture vine) "
              "and guḍūcī, with mūrvā and madhuka as the addition (pratīvāpa)."),
     "limits": ("शुक्रदोषे is understood from unit 42. The printed कांडेंक्षु has an extra ं (possible correction काण्डेक्षु); "
-               "kāṇḍekṣu (a cane) is not identified and mūrvā is disputed, so no question rests on them. "
+               "kāṇḍekṣu (a cane) is not identified and mūrvā is disputed, so no question rests on their identity. "
                "Śvadaṃṣṭrā = Tribulus terrestris and guḍūcī = Tinospora cordifolia are standard."),
     "explain_hi": ("पैत्तिक (शुक्रदोष) में भी घी का पान है; ‘शुक्रदोषे’ इकाई ४२ से समझा जाता है। "
                    "घी काण्डेक्षु, श्वदंष्ट्रा यानी गोखरू (मानक) और गुडूची यानी गिलोय (मानक) के साथ पकाया जाता है। "
@@ -480,7 +480,7 @@ AUTHORED["49"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 49, in what is the ghee cooked?",
-            ("A decoction of three drugs", "…आमलकक्वाथसिद्धम्: cooked with a decoction (क्वाथ)."),
+            ("A decoction (kvātha)", "…आमलकक्वाथसिद्धम्: cooked with a decoction (क्वाथ) of three drugs."),
             [("Milk with crab juice", "That is unit 44's oil."),
              ("Sukta with rock salt", "That is unit 42's ghee."),
              ("Oil with bhadradāru", "That is unit 43's anuvāsana.")],
@@ -557,7 +557,7 @@ AUTHORED["50"] = {
             "कषाय is used here in its preparation sense: a decoction.",
             "कषाय (preparation) = decoction."),
         mcq("apply", 4, "Why is कषायः printed as कषायो before वमनम्?",
-            ("अः before the voiced व becomes ओ", "व is voiced, so कषायः + वमनम् → कषायो वमनम्."),
+            ("अः before voiced व → ओ", "व is voiced, so कषायः + वमनम् → कषायो वमनम्."),
             [("अः before a vowel becomes ओ", "Before a vowel other than अ the visarga drops; व is no vowel."),
              ("The visarga turns into र्", "After अ the visarga does not become र्."),
              ("ओ marks a dual noun", "कषायः is singular; ओ comes from sandhi.")],
@@ -587,7 +587,7 @@ AUTHORED["51"] = {
                    "दूसरी: राजवृक्ष यानी अमलतास (मानक) और मदनफल के काढ़े से प्रगाढ़ (गाढ़ा या तीव्र) आस्थापन। "
                    "राजवृक्ष का कौन-सा भाग, यह नहीं कहा; ‘फल’ दोनों नामों के साथ है या केवल मदन के, यह तय नहीं। "
                    "पंक्तियाँ दोष का नाम नहीं लेतीं; क्रम से कफज सूची में पढ़ी गई हैं।"),
-    "hook": "तेल से चाटा दन्ती-विडंग: विरेचन; अमलतास-मैनफल का गाढ़ा काढ़ा: आस्थापन।",
+    "hook": "तेल से चाटा दन्ती-विडंग: विरेचन; अमलतास-मैनफल के काढ़े से प्रगाढ़: आस्थापन।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 51, how is the powder of dantī and viḍaṅga taken?",
@@ -652,7 +652,7 @@ AUTHORED["52"] = {
         mcq("pretest", 0, "In unit 52, which new subject begins?",
             ("Faults of ārtava", "वातजे अपि आर्तवदोषे: the faults of ārtava begin."),
             [("Faults of the breast milk", "Breast milk is not named in unit 52."),
-             ("Signs of pregnancy", "Signs of pregnancy belong to units 14-16."),
+             ("Signs of pregnancy", "Pregnancy is not named in unit 52."),
              ("Faults of the urine", "Urine is not named in unit 52.")],
             "After the oil of the Kapha-type list, the line turns to the Vāta-type fault of ārtava.",
             "आर्तवदोष = fault of ārtava."),
@@ -684,7 +684,7 @@ AUTHORED["52"] = {
               ("वनेऽपि", "ए + अ → ए, and the lost अ is marked by ऽ."),
               [("वनयपि", "ए + अ here gives एऽ, not अय."),
                ("वनापि", "ए + अ does not give आ."),
-               ("वनेपि", "The अ is marked by ऽ (avagraha) in this sandhi.")],
+               ("वनअपि", "ए does not turn into अ; ए stays and the following अ is dropped.")],
               "वातजे + अपि → वातजेऽपि; so वने + अपि → वनेऽपि.",
               "ए + अ → एऽ."),
           "A final ए before अ stays, and the अ is dropped and marked with ऽ."),
@@ -695,14 +695,14 @@ AUTHORED["52"] = {
 AUTHORED["53"] = {
     "title": "वा क्षीरम्, पयःसर्पिः सहितम्",
     "question": "What can be read for sure in the damaged unit 53?",
-    "rule": ("Line 1 (damaged): or milk, cooked with drugs whose names are partly unreadable. Line 2: in (or as) a paste "
+    "rule": ("Line 1 (damaged): or milk; on a conjectural reading, cooked with drugs whose names are partly unreadable. Line 2: in (or as) a paste "
              "(kalka) of madhuka and śṛgālavinnā, combined with milk and ghee."),
     "limits": ("Low confidence. The first word is damaged; काश्मर्य and क्षुद्रसहा are only a reading and 'सूि' is unclear, so "
                "no question rests on them. कल्के (locative) or कल्कम् is undecided. Śṛgālavinnā is disputed. Which fault this "
                "treats is not said."),
     "explain_hi": ("यह इकाई क्षतिग्रस्त है, विश्वास कम। पहली पंक्ति का पहला शब्द टूटा है: आरम्भ ‘काश्मर्य’ और ‘क्षुद्रसहा’ जैसा लगता है, "
                    "बीच का ‘सूि’ अस्पष्ट है; अनुमानित पाठ पर अर्थ: अथवा (उनसे) पकाया दूध। "
-                   "दूसरी पंक्ति: मधुक और शृगालविन्ना (पहचान विवादित) के कल्क (लेप) में, दूध और घी के साथ संयुक्त। "
+                   "दूसरी पंक्ति: मधुक और शृगालविन्ना (पहचान विवादित) के कल्क (पिसी हुई गीली लुगदी) में, दूध और घी के साथ संयुक्त। "
                    "छपा ‘कल्के’ सप्तमी है, पर ‘सहितम्’ के कारण ‘कल्कम्’ भी सम्भव; यह तय नहीं।"),
     "hook": "पहला शब्द टूटा; पक्का: ‘वा क्षीरम्’ और ‘पयःसर्पिः सहितम्’।",
     "core": False,
@@ -750,8 +750,7 @@ AUTHORED["53"] = {
 
 # ================================================================= NOTES_HI
 NOTES_HI = {
-    "41": ("पंक्ति में अपनी क्रिया नहीं; डेटा इसे इकाई ४० (छपी पंक्ति ०२.०१.४२) का शेष मानता है, जहाँ ‘साधयेत्’ है ("
-           "डेटा के नोट में ‘unit 42’ छपी पंक्ति की संख्या है)। ‘उभयान्’ (पुं. द्वितीया बहु.) किनके लिए, नहीं कहा; शुक्र-आर्तव दोष केवल अनुमान। "
+    "41": ("पंक्ति में अपनी क्रिया नहीं; डेटा इसे इकाई ४० (छपी पंक्ति ०२.०१.४२) का शेष मानता है, जहाँ ‘साधयेत्’ है। ‘उभयान्’ (पुं. द्वितीया बहु.) किनके लिए, नहीं कहा; शुक्र-आर्तव दोष केवल अनुमान। "
            "सन्धि: च + उभयान् → चोभयान् (अ + उ → ओ); उभयान् + अपि → उभयानपि।"),
     "42": ("‘सैंधव’ में अनुस्वार छपाई की शैली है (सैन्धव)। ‘सुक्तसैंधवफलाम्ल’ को तीन वस्तुएँ (सुक्त, सैन्धव, खट्टा फल) पढ़ा गया है; "
            "‘फलाम्ल’ एक खट्टा फल भी हो सकता है। ‘सिद्धम्’ अन्तिम शब्द ‘सर्पिः’ से जुड़ता है। सैन्धव = सेंधा नमक, यव = जौ (दोनों मानक)।"),
@@ -805,7 +804,7 @@ AIDS = {
         "sandhi": "म् + स्वर: …युक्तम् + आस्थापनम् → …युक्तमास्थापनम् · तैलम् + अनुवासनम् → तैलमनुवासनम्।",
     },
     "44": {
-        "chain": {"steps": ["दूध", "कुलीर (सम्भवतः केकड़ा) का रस", "उनसे पकाया तेल", "उत्तरबस्ति"]},
+        "chain": {"steps": ["दूध और कुलीर (सम्भवतः केकड़ा) का रस", "उनसे पकाया तेल", "उत्तरबस्ति"]},
         "sandhi": "म् + स्वर: तैलम् + उत्तरबस्तिः → तैलमुत्तरबस्तिः।",
         "anchors": "उत्तरबस्ति = मूत्रमार्ग (पुरुष) या योनिमार्ग (स्त्री) से दी जाने वाली बस्ति; इस पंक्ति में मार्ग नहीं कहा।",
     },
@@ -893,7 +892,7 @@ IMAGE_SPECS = {
         "alt": ("Chain of unit 44: milk and the juice of kulira (probably crab) cook an oil, which is given as uttarabasti."),
         "type": "chain",
         "title": "उत्तरबस्ति का तेल (इकाई ४४)",
-        "steps": ["दूध", "कुलीर (सम्भवतः केकड़ा) का रस", "उनसे पकाया तेल", "उत्तरबस्ति"],
+        "steps": ["दूध और कुलीर (सम्भवतः केकड़ा) का रस", "उनसे पकाया तेल", "उत्तरबस्ति"],
     },
     ("45", "diagram"): {
         "file": "sh1-paittika-shukra-45.svg",
