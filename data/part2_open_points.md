@@ -109,3 +109,25 @@
 - Śārīra 6 unit 106: परिणामवताप्यायमानानां split as परिणामवत् + आप्यायमानानाम् breaks sandhi (त् before vowel → द्); likelier परिणामवता (instr.) + आप्यायमानानाम्.
 - Śārīra 6 unit 101: the flag on विक्लिन्नआहारे is not a print slip; ए + आ → अ आ is regular, only the space is missing.
 - Śārīra 6 unit 78: दोषादिविज्ञानीयात् split as दोषादि + विज्ञानीयात् "one should know" is not a regular optative (vi-√jñā → विजानीयात्); most likely the ablative of the chapter name Doṣādivijñānīya.
+- Śārīra 6 unit 122: akāsanneṣu has an empty gloss; saṃvṛtāsaṃvṛtaiḥ has no gender in its gram label.
+- Śārīra 6 unit 140: note says its ending has the "same words" as unit 130's; wording differs (प्रयत्नतो रक्षेत् vs प्रयत्नेन पालयेत्).
+- Śārīra 6 unit 114: note calls सारम् neuter but also allows an accusative reading, under which it could be masculine.
+- Śārīra 6 unit 111: grammar note for कर्णाक्षि…प्रजनन says "dvandva, n." without saying it is the first part of a compound ending in मलाः.
+- Śārīra 6 unit 124: note writes "lines 135-138 (card 121/124)"; means cards 121–124.
+- Śārīra 7 unit 4: notes still carry the superseded remark that the translation keeps "thigh".
+- Śārīra 7 unit 8: sakthi translated "thigh"; unit 4 translates it "lower limb".
+- Śārīra 7 unit 11: split śophābhivṛddhiḥ + stabdha… does not mention that the print drops the visarga before स्त (optional form).
+- Śārīra 7 unit 13: print ऊर्व्याः (long ū) but the gloss says "of urvī" (उर्वी) without a flag.
+- Śārīra 7 unit 46: सामान्येनैव could also be split सामान्ये + नैव; notes don't mention it.
+- Śārīra 7 unit 50: तस्मिन् is masculine but मर्म neuter, so its unprinted noun is open.
+- Śārīra 7 unit 40: printed join केशांतउत्क्षेपौ is irregular (केशान्तौ + उत्क्षेपौ → केशान्तावुत्क्षेपौ); no text_flag.
+- Śārīra 7 units 34, 35: print has चतस्त्रो / चतस्त्रः (extra त्); word list has catastraḥ; notes don't mention it.
+- Śārīra 7 unit 36: संश्रितेविधुरे printed without a space; notes don't mention it.
+- Śārīra 7 unit 21: word list labels āmāśaya "standard", but English and Hindi say "probably the stomach".
+- Śārīra 7 unit 24: notes read स्तनचूचुक as a dvandva ("breast and nipple"); translation says "the two nipples".
+- Śārīra 7 spellings: unit 17 कक्षाधारः vs kakṣādhara in cards 56, 64; unit 26 apālāpa vs alāpa in card 55.
+- Śārīra 6: sthūlāntra is "the large intestine" unhedged in unit 56 but "probably the large intestine" in unit 76.
+- Śārīra 7 unit 6: note says doubled -rcc- appears "as in 7 and 36"; line 36 has no kūrcc (doubled form is in lines 67 and 70, units 64 and 66).
+- Śārīra 7 unit 45: split ruj-utpattiḥ cannot give the printed रुजोत्पत्ति (रुज् + उ → रुजु-); the print fits रुजा + उत्पत्ति (आ + उ → ओ).
+- Śārīra 7 unit 35: English says "four sirā", while the unit 59 note counts "mātṛkā 8 (u35)".
+- Śārīra 7 unit 94: note still says "typed as a verse"; type is already prose (stale note).
