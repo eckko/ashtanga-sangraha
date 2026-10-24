@@ -126,9 +126,9 @@ AUTHORED["16"] = {
     "question": "By unit 16, where do four of the belly's twenty-four sirās lie?",
     "rule": ("Of them (the belly's 24, unit 15), above the meḍhra (penis, standard), on both sides of the romarājī "
              "(line of body hair; restored, near certain), two and two; those also (ता अपि) are four."),
-    "limits": ("Prose. The print has ‘उपरिोमराजीम्’: the र of रोमराजी has dropped out; the restoration is near certain, "
-               "but no question rests on it. The unit does not say these four go upward or what is to be done with them "
-               "(the data's unit-8 note counts them among the guarded ones, as an inference). It appears to continue unit 15."),
+    "limits": ("Prose. Printed ‘उपरिोमराजीम्’ lost the र of रोमराजी; restored, near certain, but no question rests on it. "
+               "The unit does not call these four upward-going or say what is done with them (unit 8's note infers: "
+               "guarded). Appears to continue unit 15."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई १५ (पेट में चौबीस) को आगे बढ़ाती दिखती है: उनमें से मेढ्र यानी शिश्न के ऊपर, रोमराजी के दोनों ओर, दो-दो सिराएँ; वे भी चार हैं। "
                    "रोमराजी पेट पर रोमों की खड़ी रेखा है; छपाई में इसका ‘रो’ का र गिर गया है, पर पाठ लगभग निश्चित है। "
                    "‘मेढ्रस्योपरि’ = मेढ्रस्य (मेढ्र के) + उपरि (ऊपर); छपा ‘मेंढ्र’ मेढ्र की ही वर्तनी है। "
@@ -301,9 +301,9 @@ AUTHORED["19"] = {
     "question": "By unit 19, in which named places of the chest are 'two and two'?",
     "rule": ("And (च) two and two (द्वे द्वे) are in the stanamūlas and the stanarohitas, two named places of the "
              "chest given as one dvandva in the locative plural (-एषु)."),
-    "limits": ("Prose; copula understood; confidence medium. स्तनमूल is 'breast-root'; the sense of रोहित in स्तनरोहित is "
-               "uncertain. Both are marma names in this tradition (probable); the line does not say so. How the twos are "
-               "spread over the places is not decided: no question on it. It appears to continue unit 18."),
+    "limits": ("Prose; copula understood; confidence medium. रोहित in स्तनरोहित is of uncertain sense. Both are marma "
+               "names in this tradition (probable), which the line does not say. How the twos are spread is not decided: "
+               "no question on it. Appears to continue unit 18."),
     "explain_hi": ("यह गद्य-पंक्ति छाती की सूची में आगे कहती है: और दो-दो स्तनमूलों और स्तनरोहितों में। "
                    "‘स्तनमूल’ = स्तन की जड़; ‘स्तनरोहित’ में रोहित का अर्थ अनिश्चित है, इसलिए दोनों को नाम ही रखा गया। "
                    "इस परम्परा में दोनों मर्मों के नाम हैं (सम्भावित), पर पंक्ति यह नहीं कहती। "
@@ -334,16 +334,16 @@ AUTHORED["19"] = {
         mcq("discriminate", 3, "By the data, which statement about स्तनमूल and स्तनरोहित is right?",
             ("They are kept as names of places", "Data: marma names (probable); the line does not say so, so they are kept as names."),
             [("The line itself calls them marmas", "The data notes that the line does not say so."),
-             ("रोहित is surely 'red' here", "The sense of रोहित is uncertain (data)."),
+             ("The data reads रोहित as 'red'", "The data leaves the sense of रोहित uncertain."),
              ("They are the two sides of the chest", "The data does not identify them with the sides.")],
             "Both are kept as place names; marma names in this tradition (probable).",
             "स्तनमूल (breast-root) · स्तनरोहित (sense uncertain)."),
         multi("apply", 4, "Which statements fit unit 19?",
               [("The line gives a verb of guarding", "No verb is printed; the copula is understood."),
+               ("The line itself gives the total fourteen", "The total fourteen is unit 21."),
                ("The data reads स्तनमूल as 'breast-root'", "Right: स्तन (breast) + मूल (root)."),
-               ("The two names stand in the locative plural", "Right: -एषु, in the ..."),
-               ("The line itself gives the total fourteen", "The total fourteen is unit 21.")],
-              [1, 2],
+               ("The two names stand in the locative plural", "Right: -एषु, in the ...")],
+              [2, 3],
               "Two names in the locative plural; स्तनमूल = breast-root; no verb, no total here.",
               "द्वे द्वे च स्तनमूलस्तनरोहितेषु."),
         mcq("transfer", 5, "Like स्तनमूलस्तनरोहितेषु, how are हस्त (hand) and पाद (foot) made one dvandva meaning in the hands and feet, in a new example?",
@@ -400,13 +400,14 @@ AUTHORED["20"] = {
              ("-एषः + इति", "अः before इ would give -एष इति, unjoined.")],
             "-एषु (in the ...) + इति (thus): उ + इ → वि.",
             "उ + a different vowel → व् + that vowel."),
-        mcq("apply", 4, "What does the data say the avagraha (ऽ) in the printed एकैकाऽप- shows?",
-            ("A print habit: आ + अ gives आ", "Data: the avagraha after -ā is a print habit (ā + a)."),
-            [("That a whole syllable is lost", "No syllable is lost at this join; the data calls it a print habit."),
-             ("A lost अ after ए or ओ, as usual", "The vowel before is आ, not ए or ओ."),
-             ("The end of a half-verse", "The line is prose; ऽ is not a pause mark.")],
-            "एकैका + अपस्तम्भ- → एकैकापस्तम्भ-; the print adds ऽ by habit.",
-            "आ + अ → आ (the ऽ here is only a print habit)."),
+        multi("apply", 4, "Which statements fit unit 20 and its data?",
+              [("The avagraha after एकैका is a print habit (आ + अ → आ)", "Right: data note; the ऽ marks no lost sound here."),
+               ("इति here means 'one each'", "'One each' is एकैका; इति means thus."),
+               ("The avagraha marks a lost अ after ए or ओ", "The vowel before the ऽ is आ, not ए or ओ."),
+               ("अपस्तम्भ is kept as the name of a place", "Right: a marma name in this tradition (probable).")],
+              [0, 3],
+              "Print-habit ऽ after आ; अपस्तम्भ kept as a name; इति = thus.",
+              "एकैकाऽपस्तंभ... इति."),
         mcq("transfer", 5, "By the rule of -एषु + इति → -एष्विति, how is मधु + इति joined in a new example?",
             ("मध्विति", "उ before a different vowel becomes व्, as -एषु + इति → -एष्विति."),
             [("मधूति", "ऊ comes from उ + उ; here उ meets इ."),
@@ -424,9 +425,9 @@ AUTHORED["21"] = {
     "question": "By unit 21, how many are the chest sirās just listed?",
     "rule": ("Those (ताः, the sirās named in units 18-20, as the data reads it) are fourteen (चतुर्दश): a part of the "
              "chest's forty (unit 17)."),
-    "limits": ("Prose, two words; copula understood. The print gives only the total. The split 2 + 4 + 4 + 4 is an "
-               "inference of the data (it needs two on each side in unit 19): no question rests on it. Whether a rule of "
-               "guarding goes with the fourteen is not said in this unit."),
+    "limits": ("Prose, two words; copula understood. The print gives only the total; the split 2 + 4 + 4 + 4 is the "
+               "data's inference: no question rests on it. Whether a rule of guarding goes with the fourteen is not said "
+               "here."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति छाती की सूची का जोड़ देती है: वे चौदह हैं। "
                    "‘ताः’ (वे) डेटा के अनुसार इकाई १८-२० में गिनी सिराओं की ओर संकेत करता दिखता है। "
                    "चौदह, छाती के चालीस (इकाई १७) का भाग है, उनसे अधिक नहीं। "
@@ -518,13 +519,14 @@ AUTHORED["22"] = {
              ("चतुर्विंशती + ग्रीवायाम्", "A final ई stays ई before ग; no र् would appear.")],
             "चतुर्विंशतिः (twenty-four) + ग्रीवायाम् (in the neck): इः + voiced consonant → इर्.",
             "A visarga after इ → र् before a voiced sound."),
-        mcq("apply", 4, "Units 15 and 22 both show चतुर्विंशतिर्. Why does र् appear in both?",
-            ("After इ, a visarga becomes र् before a voiced sound", "उ (a vowel) and ग (a voiced consonant) are both voiced."),
-            [("र् is part of the number word itself", "The word is चतुर्विंशतिः; its last sound is a visarga."),
-             ("र् marks the locative of the place", "The locative is in -ए / -आयाम्; र् comes from the visarga."),
-             ("The visarga becomes र् only before vowels", "ग is a consonant, yet र् appears: voiced consonants count too.")],
-            "इः before a vowel or a voiced consonant → इर्.",
-            "चतुर्विंशतिः + उदरे / ग्रीवायाम् → चतुर्विंशतिरुदरे / चतुर्विंशतिर्ग्रीवायाम्."),
+        multi("apply", 4, "In which printed joins of this chapter does a visarga after इ become र्?",
+              [("ताश्चतुर्दश (unit 21)", "Here आः before च gives श्, not र्."),
+               ("चतुर्विंशतिरुदरे (unit 15)", "Right: इः before the vowel उ → इर्."),
+               ("उभयतो द्वे (unit 14)", "Here अः before a voiced consonant gives ओ."),
+               ("चतुर्विंशतिर्ग्रीवायां (unit 22)", "Right: इः before the voiced consonant ग → इर्.")],
+              [1, 3],
+              "After इ the visarga becomes र् before a vowel or a voiced consonant.",
+              "चतुर्विंशतिः + उदरे / ग्रीवायाम् → चतुर्विंशतिरुदरे / चतुर्विंशतिर्ग्रीवायाम्."),
         mcq("transfer", 5, "By the rule of चतुर्विंशतिर्ग्रीवायां, how is मुनिः + गच्छति (the sage goes) joined in a new example?",
             ("मुनिर्गच्छति", "After इ, a visarga before a voiced consonant becomes र्."),
             [("मुनिगच्छति", "A visarga drops before a voiced consonant after आ; after इ it becomes र्."),
@@ -601,9 +603,9 @@ AUTHORED["24"] = {
     "question": "By unit 24, which two neck places are added to make sixteen, and what rule goes with them?",
     "rule": ("Two in the two kṛkāṭikās and two in the two vidhuras: thus (इति) sixteen with the twelve of unit 23; "
              "one should not touch them with the knife (शस्त्रेण न स्पृशेत्)."),
-    "limits": ("Prose. कृकाटिका (junction of head and neck behind) and विधुर (behind the ear) are marma names in this "
-               "tradition, and these places are probable, not certain: no question on where they lie. Sixteen = 4 + 8 of "
-               "unit 23 + 2 + 2 (data note). Only 'not touching with the knife' is stated; no other treatment is given."),
+    "limits": ("Prose. कृकाटिका (head-neck junction behind) and विधुर (behind the ear) are marma names; the places are "
+               "probable: no question on where they lie. Sixteen = 4 + 8 (unit 23) + 2 + 2 (data note). Only 'not "
+               "touching with the knife' is stated."),
     "explain_hi": ("यह गद्य-पंक्ति गर्दन की सूची पूरी करती है: दो दोनों कृकाटिकाओं में और दो दोनों विधुरों में; इस प्रकार सोलह; शस्त्र से न छुए। "
                    "कृकाटिका (सिर-गर्दन का पिछला जोड़) और विधुर (कान के पीछे) इस परम्परा में मर्मों के नाम हैं; स्थान सम्भावित हैं। "
                    "डेटा के अनुसार सोलह = इकाई २३ के चार और आठ + यहाँ के दो और दो। "
@@ -676,19 +678,16 @@ AUTHORED["25"] = {
              ("56", "Fifty-six is the eyes' number (unit 30).")],
             "Sixteen in the two jaws.",
             "हन्वोः षोडश."),
-        match(1, "Match each word of unit 25 to its meaning.",
+        order(1, "Put the printed words of unit 25 in the line's order.",
+              ["हन्वोः", "षोडश", "तासांसंधिसंबंधिन्यौ", "द्वे"],
+              "In the two jaws, sixteen; of them, connected with the joint, two.",
+              "हन्वोः → षोडश → तासांसंधिसंबंधिन्यौ → द्वे."),
+        match(2, "Match each word of unit 25 to its meaning.",
               [["हन्वोः", "in the two jaws"], ["षोडश", "sixteen"], ["तासाम्", "of them"],
                ["सन्धिसम्बन्धिन्यौ", "two connected with the joint"], ["द्वे", "two"]],
               "In the two jaws, sixteen; of them, two connected with the joint.",
-              "हन्वोः, षोडश, तासाम्, सन्धिसम्बन्धिन्यौ, द्वे."),
-        mcq("extend", 2, "Which joint does unit 25 name for the two sirās?",
-            ("No particular joint", "Data: which joint is not stated."),
-            [("The temple joint", "The temple joint is named in unit 34, not here."),
-             ("The neck's joint", "No neck joint is named in unit 25."),
-             ("The knee's joint", "No knee joint is named in unit 25.")],
-            "Only 'the joint' (सन्धि) is said; the jaw joint is a natural but unstated reading.",
-            "सन्धिसम्बन्धिन्यौ: connected with the joint (which one is not said).",
-            teaches="When a term is left open (सन्धि, 'the joint'), the card leaves it open too."),
+              "हन्वोः, षोडश, तासाम्, सन्धिसम्बन्धिन्यौ, द्वे.", role="extend",
+              teaches="सन्धि (joint) + सम्बन्धिन् (connected with): which joint is not stated; the jaw joint is only the natural reading."),
         mcq("discriminate", 3, "In the printed तासांसंधिसंबंधिन्यौ, what is the ं of तासां?",
             ("The final म् of तासाम्", "Final म् before a consonant (स) is written as anusvāra."),
             [("A dual ending of तासा", "तासाम् is a genitive plural; there is no word तासा."),
@@ -757,11 +756,11 @@ AUTHORED["26"] = {
             "Jaws sixteen, tongue sixteen.",
             "हन्वोः षोडश · षोडश जिह्वायाम्."),
         multi("apply", 4, "Which statements fit unit 26?",
-              [("The data reads the printed जिव्हा as जिह्वा", "Right: a letter reversal, normalised."),
-               ("The unit names two taste-perceiving sirās", "Those come in unit 27, not here."),
-               ("No verb is printed; 'are' is understood", "Right: copula understood."),
-               ("The number given is twenty-four", "The number is षोडश, sixteen.")],
-              [0, 2],
+              [("The unit names two taste-perceiving sirās", "Those come in unit 27, not here."),
+               ("The data reads the printed जिव्हा as जिह्वा", "Right: a letter reversal, normalised."),
+               ("The number given is twenty-four", "The number is षोडश, sixteen."),
+               ("No verb is printed; 'are' is understood", "Right: copula understood.")],
+              [1, 3],
               "Sixteen in the tongue; जिव्हा = जिह्वा; copula understood.",
               "षोडश जिव्हायां."),
         mcq("transfer", 5, "By the pattern of जिह्वायाम्, how is शाला (hall) put in the locative singular in a new example?",
