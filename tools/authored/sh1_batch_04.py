@@ -345,7 +345,7 @@ AUTHORED["46"] = {
               ("तच्च", "त् before च becomes च्, as in त्रिवृत् + चूर्णः."),
               [("तद्च", "त् before च does not become द्."),
                ("तत्च", "त् does not stay before च; it becomes च्."),
-               ("तन्च", "त् becomes न् only before a nasal.")],
+               ("तन्च", "त् may become न् (optionally) only before a nasal.")],
               "त्रिवृत् + चूर्णः → त्रिवृच्चूर्णः; so तत् + च → तच्च.",
               "त् + च → च्च."),
           "A final त् before च becomes च्."),

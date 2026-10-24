@@ -234,7 +234,7 @@ AUTHORED["84"] = {
               ("भवेदत्र", "त् before a vowel becomes द्."),
               [("भवेत्त्र", "The vowel अ of अत्र cannot vanish."),
                ("भवेतत्र", "Before a vowel the त् becomes द्, not त."),
-               ("भवेन्नत्र", "त् becomes न् only before a nasal.")],
+               ("भवेन्नत्र", "त् may become न् (optionally) only before a nasal.")],
               "पश्येत् + अनन्यमनाः → पश्येदनन्यमनाः; so भवेत् + अत्र → भवेदत्र.",
               "Final त् + vowel → द् + vowel."),
           "A final त् before a vowel (or a voiced sound) becomes द्."),

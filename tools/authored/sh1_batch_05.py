@@ -679,7 +679,7 @@ AUTHORED["65"] = {
               ("तच्चूर्णम्", "त् before च becomes च्: तच्च."),
               [("तत्चूर्णम्", "त् does not stay before च."),
                ("तद्चूर्णम्", "द् comes before voiced sounds, not before च."),
-               ("तञ्चूर्णम्", "त् turns nasal only before a nasal (as in न्म), not before च.")],
+               ("तञ्चूर्णम्", "त् may turn nasal (optionally) only before a nasal (as in न्म), not before च.")],
               "In तत्कल्कम्, त् stays before क; before च it becomes च्: तच्चूर्णम्.",
               "त् + च → च्च."),
           "Final त् stays before क, but before च/छ it becomes च्."),
