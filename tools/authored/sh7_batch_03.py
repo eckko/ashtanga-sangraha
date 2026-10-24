@@ -422,9 +422,9 @@ AUTHORED["35"] = {
     "title": "सिरा मातृकास्तासु सद्यो मरणं",
     "question": "By unit 35, what are the neck vessels printed 'on both sides, four' called, and what follows injury to them?",
     "rule": ("In the neck, on both sides, four (as printed; no total is given) sirās (vessels), the mātṛkās. In those: immediate death (सद्यो मरणम्)."),
-    "limits": ("Prose, nominal sentence; injury understood. Sirā is kept as 'vessel' (often rendered 'vein', not forced here). "
-               "The line says 'on both sides, four'; whether that is four in all or four on each side it does not say (the data's "
-               "count check at unit 59 counts eight mātṛkās), so the card gives no total."),
+    "limits": ("Prose, nominal sentence; injury understood. Sirā = 'vessel' (not forced to 'vein'). "
+               "The line says 'on both sides, four'; four in all or four on each side is not said (the data's "
+               "unit 59 count has eight), so the card gives no total."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति कहती है: ग्रीवा में दोनों ओर चार सिराएँ हैं, जिनका नाम मातृका है; उनमें आघात से तुरन्त मृत्यु। "
                    "चार कुल हैं या हर ओर चार, पंक्ति नहीं कहती (डेटा की गिनती इकाई ५९ में आठ मातृकाएँ मानती है); इसलिए कुल संख्या नहीं दी गई। "
                    "सिरा को यहाँ ‘वाहिका’ ही कहा गया है, किसी आधुनिक नाम से नहीं जोड़ा गया। "
