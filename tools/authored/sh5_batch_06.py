@@ -14,7 +14,7 @@ AUTHORED["64"] = {
                "which seat is not said."),
     "explain_hi": ("यह गद्य-पंक्ति बताती है कि उन आशयों में (इकाई ६२-६३) कोष्ठ के अंग बँधे हुए हैं। "
                    "कोष्ठ यानी धड़ या पेट का भीतरी भाग, और कोष्ठांग यानी उसके अंग। "
-                   "सूची है: हृदय, यकृत् (जिगर), प्लीहा (तिल्ली), फुप्फुस (फेफड़ा), उण्डुक (सम्भवतः अन्धान्त्र), वृक्क (गुर्दा), "
+                   "सूची है: हृदय, यकृत् (जिगर), प्लीहा (तिल्ली), फुप्फुस (फेफड़ा), उण्डुक (सम्भवतः अन्धान्त्र), वक्क (सम्भवतः वृक्क, गुर्दा), "
                    "अन्त्र (आँत) आदि। "
                    "छपा ‘वक्क’ सम्भवतः ‘वृक्क’ है; यह सुधार सम्भावित ही है। "
                    "‘आदि’ से सूची खुली रहती है, और कौन-सा अंग किस आशय में है, यह नहीं कहा गया।"),
@@ -160,7 +160,7 @@ AUTHORED["66"] = {
              ("रक्तफेनः + फुप्फुसम्", "A visarga gives no त्: that would be रक्तफेनः फुप्फुसम्."),
              ("रक्तफेनम् + फुप्फुसम्", "म् before फ would be written ं: रक्तफेनं फुप्फुसम्.")],
             "रक्तफेनात् (from the froth of blood) + फुप्फुसम् (lung).",
-            "त् stays before an unvoiced consonant."),
+            "त् stays before an unvoiced consonant such as क, प, फ, स (not before च, छ, श, ट, where it changes)."),
         mcq("apply", 4, "Unit 66 prints no verb. By the data, which verb is understood?",
             ("जायते, arises", "The verb of unit 65 is carried; it is not printed."),
             [("नश्यति, perishes", "Nothing perishes; the organs arise."),
@@ -201,9 +201,9 @@ AUTHORED["67"] = {
             "The unduka arises from the dregs of blood.",
             "रक्तकिट्टादुंदुकः."),
         match(1, "Match each part of unit 67 to its meaning.",
-              [["रक्त", "blood"], ["किट्ट", "dregs, sediment"], ["उंदुक", "unduka (probably the caecum)"]],
+              [["रक्त", "blood"], ["किट्ट", "dregs, sediment"], ["-आत् (किट्टात्)", "from (ablative)"]],
               "From the dregs of blood, the unduka.",
-              "रक्त, किट्ट, उंदुक."),
+              "रक्त, किट्ट, -आत्."),
         mcq("extend", 2, "What does किट्ट in unit 67 mean?",
             ("Dregs, the sediment", "The data glosses किट्ट as dregs, sediment."),
             [("Froth on the surface", "Froth is फेन (unit 66)."),
@@ -514,7 +514,7 @@ AUTHORED["72"] = {
         multi("apply", 4, "Which statements fit unit 72?",
               [("Blood is joined with Vāyu", "Right: रक्तस्य अनिलयोगात्."),
                ("The line prints its own verb", "No: 'arises' is carried from unit 65."),
-               ("कोलीयम् is a well-known word", "No: the data marks it unclear, not a known word here."),
+               ("The blood is joined with Kapha", "No: अनिल is Vāyu, not Kapha (कफ)."),
                ("योगात् is ablative: from union", "Right: -आत्, from.")],
               [0, 3],
               "From the union of blood with Vāyu; the last word is unclear and the verb is carried.",
@@ -610,7 +610,7 @@ AUTHORED["74"] = {
             ("Of consciousness", "चेतनायाः स्थानम्: the seat of consciousness."),
             [("Of the bones", "No bone is named; it is the seat of cetanā."),
              ("Of hunger and thirst", "No hunger or thirst is named in unit 74."),
-             ("Of the urine", "Urine has its own seat (unit 62).")],
+             ("Of the urine", "No urine is named in unit 74; the heart is the seat of cetanā.")],
             "The heart is especially the seat of consciousness.",
             "तद्विशेषेण चेतनायाः स्थानं."),
         order(1, "Put these phrases of unit 74 in the printed order.",
@@ -922,7 +922,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "इकाई ६४: कोष्ठांग, पंक्ति के क्रम से",
         "heads": ["छपा शब्द", "अर्थ"],
-        "rows": [["१ हृदय", "हृदय"], ["२ यकृत्", "जिगर"], ["३ प्लीह", "तिल्ली"], ["४ फुप्फुस", "फेफड़ा"],
+        "rows": [["१ हृदय", "दिल"], ["२ यकृत्", "जिगर"], ["३ प्लीह", "तिल्ली"], ["४ फुप्फुस", "फेफड़ा"],
                  ["५ उंदुक", "सम्भवतः अन्धान्त्र"], ["६ वक्क", "सम्भवतः वृक्क: गुर्दा"], ["७ अंत्र", "आँत"],
                  ["आदि", "इत्यादि: सूची खुली"]],
     },
