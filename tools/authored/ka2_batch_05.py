@@ -256,8 +256,8 @@ AUTHORED["55"] = {
 AUTHORED["56"] = {
     "title": "जातं सौवीरकं यदा",
     "question": "What is done when the pressed preparation has become sauvīraka, and what is drunk then?",
-    "rule": ("Something (the printed word mairujān is unclear) is pressed out; when it has become sauvīraka, a "
-             "measure of it is taken, and then one should drink the paste (kalka) of rodhra."),
+    "rule": ("Something (the printed word mairujān is unclear) is pressed out; when it has become sauvīraka, perhaps a "
+             "cupped-hands measure of it (reading uncertain), and then one should drink the paste (kalka) of rodhra."),
     "limits": ("Low confidence. mairujān is unclear: what is pressed out is not known. The printed bhaverdaṃjalinā is "
                "read as bhaved aṃjalinā, 'a cupped-hands measure' (text flag); both points are unresolved, so no "
                "question rests on them. The translation of the first half is tentative."),

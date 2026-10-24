@@ -248,11 +248,11 @@ AUTHORED["53"] = {
             ("Nothing at all",
              "The unit names the basti only; its contents are not stated."),
             [("Goat's blood", "Goat's blood is in the drink list of 05.03.54, not in this basti."),
-             ("Honey and sugar", "These go into the lehas of 05.03.53, not into this basti."),
+             ("Honey and sugar", "These go into the lehas of unit 51 (05.03.53), not into this basti."),
              ("Oil with liquorice", "That oil was the anuvāsana of 05.03.50.")],
             "Unit 53 gives the name of the basti and nothing more.",
             "Contents of the picchā-basti: not stated in unit 53."),
-        fill(5, "Complete the invented sentence वैद्यः ____ औषधं ददाति (the physician gives medicine to him). Type it in Devanagari or in English letters (e.g. dharma).",
+        fill(5, "Using the pronoun of चास्मै, complete वैद्यः ____ औषधं ददाति (he gives him medicine). Type it in Devanagari or in English letters (e.g. dharma).",
              accepts("अस्मै", "asmai"),
              "अस्मै is the dative 'to him', as in पिच्छाबस्तिं चास्मै दद्यात्.",
              "अस्मै (dative singular of इदम्) marks the receiver of a gift: अस्मै ददाति, he gives to him.",
@@ -274,11 +274,11 @@ AUTHORED["54"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0,
-            "In unit 54, what is the second option, after वा, for the anuvāsana?",
+            "In unit 54, what is the second option, the one marked by वा, for the anuvāsana?",
             ("The maṇḍa of ghee",
              "सर्पिर्मंडो वा: or the maṇḍa of ghee."),
             [("Sesame oil", "Oil is not named in unit 54."),
-             ("Goat's blood", "Goat's blood was a drink in 05.03.54's list."),
+             ("Goat's blood", "Goat's blood was a drink in the list of unit 52 (05.03.54)."),
              ("Cold water", "Cold water was a drink, not an anuvāsana.")],
             "Two options: milk-ghee cooked with the sweet group, or ghee-maṇḍa.",
             "Unit 54: क्षीरसर्पिः ... सर्पिर्मण्डो वा."),
@@ -365,14 +365,13 @@ AUTHORED["55"] = {
             "कुर्यात्, like दद्यात् and पिबेत्, is an optative of instruction.",
             "कुर्यात् = should do (optative)."),
         mcq("apply", 4,
-            "How does the unit data label raktapitta as a bleeding disorder?",
-            ("Standard",
-             "The data: raktapitta = the classical bleeding disorder; standard."),
-            [("Probable", "Probable is used for other items, e.g. cardamom."),
-             ("Disputed", "Disputed is used for añjana, not raktapitta."),
-             ("Unidentified", "Raktapitta is identified, not left open.")],
-            "Raktapitta: bleeding from the body's openings, tagged standard.",
-            "रक्तपित्त = रक्तस्राव का रोग (मानक)."),
+            "A student wants the steps of the raktapitta procedure from unit 55. What does unit 55 give?",
+            ("Only a reference to it", "रक्तपित्तविधानं च कुर्यात् names the procedure; its steps are not described here."),
+            [("The full list of its steps", "No step is listed in unit 55."),
+             ("The drugs and their doses", "No drug or dose is named in unit 55."),
+             ("The signs of raktapitta", "No sign of the disease is given in unit 55.")],
+            "Unit 55 only points to the raktapitta procedure; the card's limits say it does not describe it.",
+            "Unit 55: reference only, procedure not described."),
         mcq("transfer", 5,
             "What does the invented sentence ज्वरविधानं कुर्यात् mean, on the pattern of unit 55?",
             ("He should do the fever procedure",
@@ -489,7 +488,7 @@ AUTHORED["57"] = {
               role="extend",
               teaches="Unit 57 lists the gruel first, then plain milk, then the binding milk, and closes with भोजने and the verb."),
         mcq("discriminate", 3,
-            "In unit 57, with what is the milk given at the meal cooked?",
+            "In unit 57, with what is the second, cooked milk (after क्षीरं वा) prepared?",
             ("Binding substances",
              "संग्राहिद्रव्यसिद्धं क्षीरम्: milk cooked with binding substances."),
             [("Milky-tree shoots", "Those shoots cook the gruel, not this milk."),
@@ -566,7 +565,7 @@ AUTHORED["58"] = {
             "After an excess of vamana a patient vomits with belching. In what form does unit 58 give the drugs?",
             ("As a lick (लिह्यात्)",
              "मधुना लिह्यात्: he should lick them with honey."),
-            [("As a drink (पिबेत्)", "पिबेत् was the verb of the mantha, 05.03.58."),
+            [("As a drink (पिबेत्)", "पिबेत् was the verb of the mantha in unit 56 (05.03.58)."),
              ("As a basti (दद्यात्)", "No basti is named in unit 58."),
              ("As a smear (प्रदेह)", "Smearing was in 05.03.53, not here.")],
             "The verb of unit 58 is लिह्यात्, should lick.",
@@ -590,8 +589,9 @@ AUTHORED["59"] = {
     "question": "Which three troubles does unit 59 treat, and with what gruel and measures?",
     "rule": ("In obstruction of speech, closing of the jaws and affliction by wind, he should drink a peyā with few rice "
              "grains cooked with ghee and meat-broth, and should administer oiling and sweating."),
-    "limits": ("Hanusaṃhanana is literally 'close joining' of the jaws; trismus is a probable modern name. The meat of the broth "
-               "and the amounts are not stated. The verb अवचारयेत् keeps its literal 'should administer'."),
+    "limits": ("Hanusaṃhanana is literally 'close joining' of the jaws; trismus is probable. Meat and amounts are not stated. "
+               "अवचारयेत् stays literal, 'should administer'. That these troubles belong to vamana's excess follows from unit 56's "
+               "context; this unit does not say so."),
     "explain_hi": ("वमन के अतियोग के बाद तीन कष्ट: वाक्संग यानी वाणी का रुकना, हनुसंहनन यानी जबड़ों का जकड़ जाना (आधुनिक नाम ट्रिस्मस, सम्भावित) और "
                    "अनिल यानी वायु की पीड़ा। उपचार: घृत और मांसरस से सिद्ध, थोड़े चावल वाली पेया पीना, और स्नेहन तथा स्वेदन। "
                    "तीनों कष्टों के लिए एक ही उपचार दिया गया है।"),
@@ -622,10 +622,10 @@ AUTHORED["59"] = {
             "What is the peyā (thin gruel) of unit 59 cooked with?",
             ("Ghee and meat-broth",
              "घृतमांसरससिद्धाम्: cooked with ghṛta and meat-broth."),
-            [("Milky-tree shoots", "Those shoots cooked the gruel of 05.03.59."),
+            [("Milky-tree shoots", "Those shoots cooked the gruel of unit 57 (05.03.59)."),
              ("Fruit juices", "Fruit juices went with the mantha of 05.03.58."),
-             ("Binding drugs", "Binding substances cooked the milk of 05.03.59.")],
-            "Two gruels so far: with milky-tree shoots (05.03.59), and with ghee and meat-broth (05.03.61).",
+             ("Binding drugs", "Binding substances cooked the milk of unit 57 (05.03.59).")],
+            "Two gruels so far: with milky-tree shoots (unit 57), and with ghee and meat-broth (unit 59).",
             "Unit 59: घृत-मांसरस-सिद्धा, अल्प-तण्डुला पेया."),
         mcq("apply", 4,
             "What modern name does the data give for हनुसंहनन, and with what label?",
@@ -660,7 +660,7 @@ AUTHORED["60"] = {
     "explain_hi": ("वमन के अतियोग का एक और कष्ट: जीभ का भीतर चले जाना। तब स्निग्ध, अम्ल और लवण कवल और गण्डूष दिए जाएँ, और हृद्य यानी "
                    "मन को भाने वाले अज यानी बकरे के मांसरस। गण्डूष = मुँह भर द्रव, बिना हिलाए रोका जाता है; कवल = थोड़ी मात्रा, मुँह में "
                    "घुमाई जाती है (मानक)। पंक्ति में क्रिया नहीं; ‘दे’ 05.03.61 से आता है।"),
-    "hook": "जीभ अंदर खिंची: चिकने-खट्टे-नमकीन कुल्ले, और बकरे का शोरबा।",
+    "hook": "जीभ अंदर खिंची: चिकने-खट्टे-नमकीन कवल-गण्डूष, और बकरे का शोरबा।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -718,12 +718,12 @@ AUTHORED["61"] = {
     "title": "पुरतश्चास्य फलान्यम्लानि",
     "question": "What should be done with sour fruits, according to unit 61?",
     "rule": "And in front of him he should have sour fruits eaten.",
-    "limits": ("पुरतः may also mean 'beforehand, first'; 'in front of' is taken. Which fruits, and why they are eaten, the unit does "
+    "limits": ("पुरतः may also mean 'beforehand, first'; 'in front of' is taken. Who eats them (the patient or someone in front of him), which fruits, and why, the unit does "
                "not say. It stands between the tongue-going-in line (05.03.62) and the tongue-coming-out line (05.03.64)."),
-    "explain_hi": ("एक छोटा उपाय: रोगी के सामने (पुरतः) खट्टे फल खिलाए जाएँ। ‘खादयेत्’ प्रेरणार्थक है: स्वयं न खाए, रोगी को खिलाए। "
+    "explain_hi": ("एक छोटा उपाय: रोगी के सामने (पुरतः) खट्टे फल खिलाए जाएँ। ‘खादयेत्’ प्रेरणार्थक है: वैद्य स्वयं न खाए, खिलवाए; किसे खिलाए, पाठ नहीं कहता (‘इसके सामने’ से कोई और खाने वाला भी हो सकता है)। "
                    "‘पुरतः’ का दूसरा अर्थ ‘पहले’ भी हो सकता है। कौन-से फल, और क्यों, पाठ नहीं बताता; पंक्ति जीभ के भीतर जाने वाले "
                    "उपायों के बाद आती है।"),
-    "hook": "सामने खट्टे फल, और रोगी को खिलाओ।",
+    "hook": "इसके सामने खट्टे फल खिलवाओ।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -756,24 +756,23 @@ AUTHORED["61"] = {
             "Final इ before a different vowel becomes य्.",
             "फलान्यम्लानि = फलानि + अम्लानि."),
         mcq("apply", 4,
-            "What does the causative खादयेत् say about who eats the fruits?",
-            ("The patient is made to eat",
-             "खादयेत् is the causative: he should cause (the patient) to eat."),
-            [("The physician eats them", "A plain 'he should eat' would be खादेत्."),
-             ("Nobody eats them at all", "खादयेत् is about eating; it is not 'only show'."),
-             ("The fruits are thrown away", "No throwing is in unit 61.")],
-            "The -अय- of खादयेत् marks the causative: the physician has the patient eat.",
-            "खादयेत् = should cause to eat."),
+            "What does the causative खादयेत् of unit 61 tell us about the sour fruits?",
+            ("Someone is made to eat them", "खादयेत् is causative: he should cause (someone) to eat them, in front of the patient; who eats is not stated."),
+            [("The physician eats them himself", "A plain 'he should eat' would be खादेत्."),
+             ("They are only shown, not eaten", "खादयेत् is about eating, not showing."),
+             ("They are cooked into a drink", "No cooking or drink is in unit 61.")],
+            "The -अय- of खादयेत् marks the causative: the physician has the fruits eaten in front of the patient.",
+            "खादयेत् = should cause to eat (eater not named)."),
         mcq("transfer", 5,
             "What does the invented sentence बालं क्षीरं पाययेत् mean, with the causative पाययेत्?",
             ("He should make the child drink milk",
-             "पाययेत् = should cause to drink; बालम् is the one made to drink, as अस्य ... खादयेत्."),
+             "पाययेत् = should cause to drink; बालम् (accusative) is the one made to drink. Like खादयेत्, it is a causative."),
             [("The child should make him drink milk", "बालम् is accusative, the one caused, not the subject."),
              ("He should drink milk with the child", "पाययेत् is causative, not plain पिबेत्."),
              ("He drank milk as a child", "पाययेत् is optative, not past.")],
             "Causative -अय- verbs: the subject makes someone else act.",
             "पाययेत् = should make drink; खादयेत् = should make eat.",
-            teaches="A causative (-अय-) optative tells the physician to make the patient act (खादयेत् in unit 61; invented बालं क्षीरं पाययेत्)."),
+            teaches="A causative (-अय-) optative tells the physician to make someone else act (खादयेत् in unit 61; invented बालं क्षीरं पाययेत्)."),
     ],
 }
 
@@ -787,7 +786,7 @@ AUTHORED["62"] = {
                "the standard triad of pungents. No quantities are given. The spelling जिव्हा is the print's."),
     "explain_hi": ("वमन के अतियोग में जीभ बाहर निकल आए तो उसे भीतर प्रविष्ट कराया जाए। उससे पहले दो विकल्प: तिल और द्राक्षा यानी "
                    "अंगूर या मुनक्का के कल्क से लेप करना, अथवा व्योष (सोंठ, पिप्पली, काली मिर्च) और लवण के चूर्ण से घिसना। "
-                   "05.03.62 के ‘जीभ भीतर जाने’ से यह उलटी स्थिति है। दोनों विकल्पों में से कब कौन, पाठ नहीं बताता।"),
+                   "इकाई 60 (05.03.62) के ‘जीभ भीतर जाने’ से यह उलटी स्थिति है। दोनों विकल्पों में से कब कौन, पाठ नहीं बताता।"),
     "hook": "जीभ बाहर: तिल-अंगूर का लेप या सोंठ-पीपल-मिर्च-नमक की घिसाई, फिर भीतर।",
     "core": True,
     "questions": [
@@ -827,19 +826,19 @@ AUTHORED["62"] = {
              "तिलद्राक्षाकल्कलिप्ताम् ... व्योषलवणचूर्णप्रघृष्टां वा."),
             [("Ghee anointing, or cold water", "These are not the options of unit 62."),
              ("Honey licking, or a milk gruel", "Licking and gruel belong to 05.03.59-60."),
-             ("Goat broth, or a sour mouth-hold", "Those were for the tongue that went in, 05.03.62.")],
+             ("Goat broth, or a sour mouth-hold", "Those were for the tongue that went in, unit 60 (05.03.62).")],
             "Two options: smear with a paste, or rub with a powder.",
             "लिप्त (smeared) or प्रघृष्ट (rubbed)."),
         mcq("transfer", 5,
-            "Unit 62 has तिलद्राक्षाकल्कलिप्ताम्, smeared with a paste of sesame and grape. What would the invented मधुकल्कलिप्ताम् mean?",
-            ("Smeared with a paste of honey",
-             "X-कल्क-लिप्त = smeared with a paste of X; here X = मधु."),
-            [("Rubbed with a powder of honey", "Rubbed with powder would be -चूर्णप्रघृष्ट."),
-             ("Free of any paste of honey", "Nothing in the compound means 'free of'."),
-             ("Mixed into a drink of honey", "-लिप्त means smeared, not mixed into a drink.")],
+            "Unit 62 has तिलद्राक्षाकल्कलिप्ताम्, smeared with a paste of sesame and grape. What would the invented निम्बकल्कलिप्ताम् mean?",
+            ("Smeared with a paste of neem",
+             "X-कल्क-लिप्त = smeared with a paste of X; here X = निम्ब (neem)."),
+            [("Rubbed with a powder of neem", "Rubbed with powder would be -चूर्णप्रघृष्ट."),
+             ("Free of any paste of neem", "Nothing in the compound means 'free of'."),
+             ("Mixed into a drink of neem", "-लिप्त means smeared, not mixed into a drink.")],
             "Same compound frame as तिलद्राक्षाकल्कलिप्ताम्.",
             "-कल्कलिप्त = smeared with a paste of.",
-            teaches="The tat-puruṣa X-कल्क-लिप्त means smeared with a paste of X (तिलद्राक्षाकल्कलिप्ताम्; invented मधुकल्कलिप्ताम्)."),
+            teaches="The tat-puruṣa X-कल्क-लिप्त means smeared with a paste of X (तिलद्राक्षाकल्कलिप्ताम्; invented निम्बकल्कलिप्ताम्)."),
     ],
 }
 
@@ -985,7 +984,7 @@ AIDS = {
     },
     "54": {
         "frame": "क्या: अनुवासन · विकल्प १: मधुर वर्ग से सिद्ध क्षीरसर्पि · विकल्प २ (वा): सर्पिर्मण्ड।",
-        "sandhi": "इः → इर् घोष से पहले: सर्पिः + मण्डः → सर्पिर्मण्डः; आ + अ → आ: वा + अनुवासनम् → वा ऽनुवासनम्।",
+        "sandhi": "इः → इर् घोष से पहले: सर्पिः + मण्डः → सर्पिर्मण्डः; आ + अ → आ: वा + अनुवासनम् → वानुवासनम् (छपाई में ‘वा ऽनुवासनं’ लिखा है)।",
         "anchors": "मधुर वर्ग = मीठे द्रव्यों का समूह · सिद्ध = पकाया हुआ · मण्ड = ऊपर का स्वच्छ भाग · अनुवासन = स्नेह-बस्ति।",
     },
     "55": {
@@ -1028,7 +1027,7 @@ AIDS = {
     "62": {
         "diagram": {"groups": [{"label": "निकली हुई जीभ", "items": ["तिल-द्राक्षा के कल्क से लेप", "या व्योष-लवण चूर्ण से घिसना"]},
                                {"label": "फिर", "items": ["भीतर प्रविष्ट कराना"]}]},
-        "contrast": "05.03.62 ↔ 05.03.64: जीभ भीतर गई: कवल-गण्डूष, अज-मांसरस ↔ जीभ बाहर निकली: लेप या घिसाई, फिर भीतर।",
+        "contrast": "इकाई 60 (05.03.62) ↔ इकाई 62 (05.03.64): जीभ भीतर गई: कवल-गण्डूष, अज-मांसरस ↔ जीभ बाहर निकली: लेप या घिसाई, फिर भीतर।",
         "anchors": "निर्गत = बाहर निकला · कल्क = पिसा लेप · व्योष = सोंठ, पिप्पली, काली मिर्च · प्रघृष्ट = घिसा हुआ · प्रवेशयेत् = भीतर कराए।",
     },
     "63": {
@@ -1045,14 +1044,14 @@ IMAGE_SPECS = {
         "file": "ka3-atiyoga-cause-50.svg",
         "alt": "Flowchart of five steps: a patient oiled and sweated, of very soft koshtha or hungry; a medicine of sharp force; all mala drawn out; even the dhatus liquefied and made to flow; atiyoga",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["स्निग्ध-स्विन्न, मृदु कोष्ठ<br/>या भूखा रोगी"] --> B["तीक्ष्ण वेग वाला औषध"]\n'
+        "code": ('flowchart TD\n  A["स्निग्ध-स्विन्न, अति मृदु<br/>कोष्ठ या भूखा रोगी"] --> B["तीक्ष्ण वेग वाला औषध"]\n'
                  '  B --> C["सारा मल निकाला"]\n  C --> D["धातु भी द्रव<br/>होकर बहे"]\n  D --> E["अतियोग"]\n'),
     },
     ("51", "diagram"): {
         "file": "ka3-stambhana-51.svg",
         "alt": "Flowchart: anointing with ghee washed a hundred times leads to two groups of measures (astringent, sweet, cold smearing, pouring, immersion, food, drink; and lehas with sugar and honey), both ending in making firm (stambhana)",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["सौ बार धुले घृत<br/>से अभ्यंग"] --> B["कसैले, मीठे, शीतल:<br/>लेप, सेचन, अवगाहन,<br/>अन्न, पान"]\n'
+        "code": ('flowchart TD\n  A["सौ बार धुले घृत<br/>से अभ्यंग"] --> B["कसैले, मीठे, शीतल द्रव्य<br/>लेप, सेचन, अवगाहन,<br/>अन्न, पान के रूप में"]\n'
                  '  A --> C["शर्करा और मधु<br/>वाले लेह"]\n  B --> D["स्तम्भन"]\n  C --> D\n'),
     },
     ("52", "diagram"): {
