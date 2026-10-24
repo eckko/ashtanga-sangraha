@@ -66,8 +66,9 @@ AUTHORED["55"] = {
 AUTHORED["56"] = {
     "title": "तिस्रः स्थूलकुक्कुटीर्निस्तुषमाषाढकं च",
     "question": "By unit 56, what preparation is given for upaviṣṭaka and upaśuṣkaka?",
-    "rule": ("Crush three large hens and an āḍhaka of husked māṣa (black gram) with milk and water in a mortar; with that "
-             "juice and ghee prepare the broth of tittiri or kapiñjala; make her drink it, for upaviṣṭaka and upaśuṣkaka."),
+    "rule": ("Crush three large hens and an āḍhaka of husked māṣa (black gram, standard) with milk and water in a mortar; "
+             "with that juice and ghee cook the broth of tittiri (probably partridge) or kapiñjala (disputed); she drinks it "
+             "for upaviṣṭaka and upaśuṣkaka."),
     "limits": ("Prose. The grammar is loose: the crushed mass may be cooked with the bird broth too. kukkuṭī = hen as the "
                "data reads it. The āḍhaka's size is not given. tittiri probable, kapiñjala disputed. Printed संक्षुध्य, "
                "अन्यातर, वृद्व्य are corrected; no question tests them."),
@@ -76,7 +77,8 @@ AUTHORED["56"] = {
                    "ओखली में कूटे जाते हैं। "
                    "उस रस और घी के साथ तित्तिरि (सम्भवतः तीतर) या कपिञ्जल (पहचान विवादित) में से किसी एक का रस पकाकर पिलाया जाता है। "
                    "वाक्य का बीच का भाग ढीला है: कुटा हुआ द्रव्य भी साथ पकता हो, यह सम्भव है। "
-                   "आढक एक माप है, पर उसका परिमाण यहाँ नहीं दिया गया।"),
+                   "आढक एक माप है, पर उसका परिमाण यहाँ नहीं दिया गया। "
+                   "उपविष्टक और उपशुष्कक गर्भ की वे अवस्थाएँ हैं जिनके कारण और लक्षण इकाई 45 से आगे बताए गए हैं।"),
     "hook": "तीन मुर्गियाँ, आढक उड़द, ओखली में कूटो; उस रस और घी से पक्षी का रस।",
     "core": True,
     "questions": [
@@ -145,7 +147,7 @@ AUTHORED["57"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 57, what should one drink?",
-            ("A thick gruel (yavāgū)", "यवागूं पिबेत: one should drink a yavāgū."),
+            ("A thick gruel", "यवागूं पिबेत: one should drink a yavāgū."),
             [("Clear surā with meat", "Surā with a meat relish is the Kapha drink of unit 62."),
              ("A broth of black gram", "A black-gram soup (yūṣa) is in unit 68, with rice."),
              ("Cold water after food", "No cold water is named in unit 57.")],
@@ -188,14 +190,14 @@ AUTHORED["57"] = {
 
 # ---------------------------------------------------------------- unit 58
 AUTHORED["58"] = {
-    "title": "पयस्याकाकोलीद्वयसुनिषण्णककल्केन",
+    "title": "पयस्या काकोलीद्वयसुनिषण्णककल्केन",
     "question": "By unit 58, with what paste and liquid is ghee cooked?",
     "rule": ("Cook ghee (सर्पिः) with milk (पयसा) and with a paste (कल्क) of payasyā (identity disputed), the pair of "
              "kākolī (disputed) and suniṣaṇṇaka (probably Marsilea)."),
     "limits": ("Prose. payasyā and kākolī are disputed; suniṣaṇṇaka = Marsilea is probable. The two members of the kākolī "
                "pair are not named in this line. No amounts. GROUPING: it seems to continue unit 57; what the ghee is for "
                "is not restated here."),
-    "explain_hi": ("इस गद्य-पंक्ति में घी (सर्पिः) पकाने का योग है: दूध के साथ और तीन द्रव्यों की लुगदी (कल्क) के साथ। "
+    "explain_hi": ("इस गद्य-पंक्ति में घी (सर्पिः) पकाने का योग है: दूध के साथ और तीन नामों (काकोली-जोड़ा एक नाम) की लुगदी (कल्क) के साथ। "
                    "पयस्या की पहचान विवादित है; क्षीरविदारी या विदारीकन्द उसके सम्भावित उम्मीदवार हैं। "
                    "काकोलीद्वय यानी काकोली का जोड़ा, जिसकी पहचान भी विवादित है; जोड़े के दो नाम यहाँ नहीं दिए गए। "
                    "सुनिषण्णक सम्भवतः चौपतिया है। "
@@ -217,7 +219,7 @@ AUTHORED["58"] = {
         match(2, "Match each word of unit 58 to its meaning.",
               [["पयस्या", "a plant, identity disputed"], ["काकोलीद्वय", "the pair of kākolī"],
                ["सुनिषण्णक", "probably Marsilea"], ["कल्क", "paste"], ["विपचेत्", "should cook"]],
-              "Three drugs made into a paste; ghee is cooked with it.",
+              "Three names (the kākolī pair as one) made into a paste; ghee is cooked with it.",
               "पयस्या, काकोलीद्वय, सुनिषण्णक, कल्क, विपचेत्.", role="extend",
               teaches="द्वय = pair: काकोलीद्वय = the pair of kākolī; कल्क = paste."),
         mcq("discriminate", 3, "Why is सर्पिः printed सर्पिर् before विपचेत्?",
@@ -228,7 +230,7 @@ AUTHORED["58"] = {
             "सर्पिः + विपचेत् = सर्पिर्विपचेत्: इ + ः before the voiced व → इर्.",
             "Visarga after a vowel other than अ/आ, before a voiced sound → र्."),
         mcq("apply", 4, "Which plant of unit 58 carries the label probable, not disputed?",
-            ("Suniṣaṇṇaka (Marsilea)", "The data: Marsilea minuta or M. quadrifolia, probable."),
+            ("Suniṣaṇṇaka", "The data: Marsilea minuta or M. quadrifolia, probable."),
             [("Payasyā", "Disputed: candidates include Ipomoea digitata and Pueraria tuberosa."),
              ("Kākolī", "Disputed: candidates include Roscoea purpurea and Fritillaria roylei."),
              ("None; all three are standard", "None of the three is standard here.")],
@@ -237,7 +239,7 @@ AUTHORED["58"] = {
         mcq("transfer", 5, "By the rule of सर्पिर्विपचेत्, how is हविः + ददाति (gives the oblation) joined?",
             ("हविर्ददाति", "After इ, a visarga before the voiced द becomes र्."),
             [("हविः ददाति", "Before a voiced sound the visarga after इ does not stay."),
-             ("हवि ददाति", "The visarga is dropped like this only after आ."),
+             ("हवि ददाति", "After इ, a visarga before a voiced sound becomes र्; it is not dropped."),
              ("हविद्ददाति", "A visarga does not become द्.")],
             "हविः + ददाति = हविर्ददाति, like सर्पिः + विपचेत् = सर्पिर्विपचेत्.",
             "इः + voiced sound → इर्.",
@@ -327,9 +329,9 @@ AUTHORED["60"] = {
             "The rasa is that of āmagarbha, whose exact sense is uncertain.",
             "आमगर्भरसेन वा अश्नीयात्."),
         order(1, "Put the words of unit 60 in the line's order.",
-              ["आमगर्भ", "रसेन", "वा", "अश्नीयात्"],
+              ["आमगर्भ", "रासेन (read रसेन)", "वा", "अश्नीयात्"],
               "Āmagarbha, with the rasa, or, one should eat.",
-              "आमगर्भ → रसेन → वा → अश्नीयात्."),
+              "आमगर्भ → रासेन (read रसेन) → वा → अश्नीयात्."),
         match(2, "Match each word of unit 60 to its meaning.",
               [["आम", "raw, unripe"], ["गर्भ", "fetus, embryo"], ["रस", "broth, juice"], ["वा", "or"],
                ["अश्नीयात्", "should eat"]],
@@ -379,8 +381,8 @@ AUTHORED["61"] = {
     "hook": "टूटी पंक्ति: वही, वहाँ, और जलचरों के मांस।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "Unit 61 is damaged. Which part of it can be read without doubt?",
-            ("जलचरमांसानि, flesh of water-movers", "The data reads जलचरमांसानि clearly, after the damaged fragment."),
+        mcq("pretest", 0, "Unit 61 is damaged. Which part of it does the data list among its legible parts?",
+            ("जलचरमांसानि, flesh of water-movers", "The data shows जलचरमांसानि among the clear parts, after the damaged fragment."),
             [("अभ्यें, the name of a known drug", "अभ्यें is unclear in the data."),
              ("A full list of named fish species", "No fish names are given."),
              ("The amount of flesh and its time", "No amount or time is given.")],
@@ -424,7 +426,7 @@ AUTHORED["61"] = {
 
 # ---------------------------------------------------------------- unit 62
 AUTHORED["62"] = {
-    "title": "कफे तु ... अच्छसुरां त्रिरात्रं",
+    "title": "कफे ... अच्छसुरां त्रिरात्रं",
     "question": "By unit 62, what should be drunk in Kapha?",
     "rule": ("In Kapha, however (कफे तु), one should drink clear surā (अच्छसुरा, an intoxicating drink), with meat "
              "(पिशित) as its relish (उपदंश), for three nights, or for other periods partly lost in the print."),
@@ -448,9 +450,9 @@ AUTHORED["62"] = {
             "In Kapha the drink is clear surā, with meat as its relish.",
             "कफे तु ... पिशितोपदंशामच्छसुरां ... पिबेत्."),
         order(1, "Put these words of unit 62 in the line's order.",
-              ["कफे तु", "पिशितोपदंशाम्", "अच्छसुराम्", "त्रिरात्रम्", "पिबेत्"],
-              "In Kapha however, with meat as relish, clear surā, for three nights, one should drink.",
-              "कफे तु → पिशितोपदंशाम् → अच्छसुराम् → त्रिरात्रम् → पिबेत्."),
+              ["कफे", "पिशितोपदंशाम्", "अच्छसुराम्", "त्रिरात्रम्", "पिबेत्"],
+              "In Kapha, with meat as relish, clear surā, for three nights, one should drink.",
+              "कफे → पिशितोपदंशाम् → अच्छसुराम् → त्रिरात्रम् → पिबेत्."),
         match(2, "Match each word of unit 62 to its meaning.",
               [["कफे", "in Kapha"], ["पिशित", "meat"], ["उपदंश", "relish, accompaniment"], ["अच्छ", "clear"],
                ["त्रिरात्र", "three nights"]],
@@ -524,7 +526,7 @@ AUTHORED["63"] = {
             "सु (well) + अनुगुप्तम् (guarded): उ + अ → व.",
             "उ + a different vowel → व्."),
         mcq("apply", 4, "Why does the data read बिल्वपत्र as one item, not two?",
-            ("पञ्चभिः (five) fits only then", "तिल, मुद्ग, माष, लवण, बिल्वपत्र = five."),
+            ("The count word पञ्चभिः fits only then", "तिल, मुद्ग, माष, लवण, बिल्वपत्र = five."),
             [("बिल्व is not a plant name", "बिल्व is bael, standard."),
              ("पत्र here means a vessel", "पत्र = leaf; the vessel is पात्र."),
              ("The print sets a hyphen there", "No hyphen is printed in this compound.")],
@@ -667,7 +669,7 @@ AUTHORED["66"] = {
     "limits": ("Prose. The nouns of तीक्ष्णैः and the names of the placenta-expelling drugs are not given; the object of "
                "पातयेत् is not stated. GROUPING: it seems to close the remedies of units 56 to 65; whose growth is meant "
                "is not restated."),
-    "explain_hi": ("यदि इन उपायों से भी वृद्धि न हो (अवृद्धौ), तो दो काम कहे गए हैं। "
+    "explain_hi": ("इस प्रकार वृद्धि न होने पर (अवृद्धौ) दो काम कहे गए हैं; डेटा के अनुसार यह सम्भवतः पिछले उपायों का समापन है। "
                    "पहला, तीक्ष्ण, यानी तेज़, द्रव्यों से विरेचन कराए। "
                    "दूसरा, अपरा (जेर, मानक) को गिराने वाले द्रव्यों से गिराए; किसे गिराए, यह पंक्ति नहीं कहती। "
                    "न तीक्ष्ण द्रव्यों के नाम दिए गए हैं, न अपरा-पातनीय द्रव्यों के। "
@@ -676,7 +678,7 @@ AUTHORED["66"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 66, with what should one purge when there is no growth?",
-            ("With sharp ones (तीक्ष्णैः)", "तीक्ष्णैर्विरेचयेत्: one should purge with sharp ones."),
+            ("With sharp ones", "तीक्ष्णैर्विरेचयेत्: one should purge with sharp ones."),
             [("With sweet, nourishing ones", "Sweet, nourishing drugs serve growth in unit 48; here it is तीक्ष्णैः."),
              ("With cold water and milk", "No water or milk is named in unit 66."),
              ("With goat's milk and ghee", "No goat's milk or ghee is named in unit 66.")],
@@ -736,10 +738,10 @@ AUTHORED["67"] = {
     "hook": "वात से रुके स्रोतस, गर्भ चिपका, हिले नहीं: लीन।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 67, what is a fetus called that clings and does not move?",
+        mcq("pretest", 0, "By unit 67, what name is given when the fetus clings and does not move?",
             ("Līna (लीन)", "तं लीनमित्याहुः: that they call līna."),
             [("Āmagarbha (आमगर्भ)", "Āmagarbha is named in units 49 and 60, not as this condition."),
-             ("Mūḍhagarbha (मूढगर्भ)", "Mūḍhagarbha is the topic of the later section from unit 78."),
+             ("Mūḍhagarbha (मूढगर्भ)", "Mūḍhagarbha comes later, in the section of units 78 to 88."),
              ("Upaviṣṭaka (उपविष्टक)", "Upaviṣṭaka is a different condition, named in units 45 and 56.")],
             "A clinging fetus that does not move is called līna.",
             "संलीनो गर्भः ... न स्पन्दते, तं लीनमित्याहुः."),
@@ -781,23 +783,23 @@ AUTHORED["67"] = {
 # ---------------------------------------------------------------- unit 68
 AUTHORED["68"] = {
     "title": "तत्र श्येनोत्क्रोश... रक्तशाल्योदनं भोजयेत्",
-    "question": "By unit 68, with what is red śāli rice fed in the līna case?",
+    "question": "By unit 68, with what is red śāli rice fed, apparently in the līna case?",
     "rule": ("In that case (तत्र), feed red śāli rice (रक्तशाल्योदन) with the rasa (broth) of any one (अन्यतम) of eight "
              "animals, with plenty of ghee, or with a soup (यूष) of māṣa (black gram) or mūlaka (radish) rich in ghee."),
     "limits": ("Prose. go = cow, the plain sense. śyena, utkrośa, tittirī probable; godha, śikhin, mūlaka, śāli standard. "
                "Which liquid each ghee word qualifies is the plain reading only. The woman fed is not named. GROUPING: it "
-               "continues unit 67."),
-    "explain_hi": ("लीन गर्भ की अवस्था में (तत्र) लाल शालि का भात (रक्तशाल्योदन) खिलाया जाता है। "
+               "appears to continue unit 67 (the līna case)."),
+    "explain_hi": ("सम्भवतः लीन गर्भ की अवस्था में (तत्र) लाल शालि का भात (रक्तशाल्योदन) खिलाया जाता है। "
                    "उसके साथ आठ में से किसी एक (अन्यतम) का बहुत घी वाला रस: श्येन (सम्भवतः बाज), उत्क्रोश (सम्भवतः कुरर), गाय, "
-                   "मछली, गोधा (गोह), शिखी (मोर), कुक्कुट (मुर्गा) और तित्तिरि (सम्भवतः तीतर)। "
-                   "या फिर घी से भरपूर माष (उड़द) का यूष या मूलक (मूली) का यूष। "
+                   "मछली, गोधा (गोह, मानक), शिखी (मोर, मानक), कुक्कुट (मुर्गा) और तित्तिरि (सम्भवतः तीतर)। "
+                   "या फिर घी से भरपूर माष (उड़द) का यूष या मूलक (मूली, मानक) का यूष। "
                    "‘गो’ को गाय का सरल अर्थ लिया गया है। "
                    "कौन-सा घी-विशेषण किस द्रव से जुड़ता है, यह केवल सरल पाठ है।"),
     "hook": "लीन में: लाल शालि-भात, आठ में से एक का घी-रस, या घी-भरा उड़द/मूली यूष।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 68, which food is fed with the broth or soup?",
-            ("Red śāli rice (रक्तशालि)", "रक्तशाल्योदनं भोजयेत्."),
+            ("Red śāli rice", "रक्तशाल्योदनं भोजयेत्."),
             [("Saktu, roasted-grain flour", "Saktu comes in unit 69."),
              ("Wheat cakes with honey", "No wheat or honey is named in unit 68."),
              ("Yavāgū, a thick gruel", "Yavāgū is the gruel of unit 57.")],
@@ -846,7 +848,7 @@ AUTHORED["68"] = {
 NOTES_HI = {
     "55": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। मधुक = मुलेठी (सम्भावित); यह शब्द महुआ वृक्ष भी हो सकता है, इसलिए पहचान "
            "सावधानी से। विदारी = विदारीकन्द (सम्भावित, इकाई 53 में)। निर्यूह = काढ़ा; सिद्ध = पकाया हुआ। छपा ‘पिबेत’ हलन्त के बिना है; "
-           "डेटा इसे मध्यम-पद विधिलिङ् मानता है, जबकि सामान्य रूप पिबेत् है; रूप पर प्रश्न नहीं। सन्धि जाँची: सिद्धम् + पयः → सिद्धं पयः "
+           "डेटा इसे आत्मनेपद विधिलिङ् मानता है, जबकि सामान्य रूप पिबेत् है; रूप पर प्रश्न नहीं। सन्धि जाँची: सिद्धम् + पयः → सिद्धं पयः "
            "(पद-अन्त म् व्यंजन से पहले अनुस्वार); पयः + पिबेत → पयः पिबेत (अघोष प से पहले विसर्ग बना रहता है)।"),
     "56": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: ‘संक्षुध्य’ → सम्भावित संक्षुद्य (√क्षुद्, कूटना); ‘अन्यातर’ → अन्यतर (लगभग निश्चित); "
            "‘वृद्व्यर्थं’ → वृद्ध्यर्थं (लगभग निश्चित)। इन रूपों पर प्रश्न नहीं। वाक्य का बीच का भाग ढीला: कुटा द्रव्य भी साथ पकता हो, यह सम्भव। "
@@ -949,7 +951,7 @@ AIDS = {
     "61": {
         "chunks": "तानेव च | तत्र | गृध्र- (क्षत) अभ्यें (अस्पष्ट) | जलचरमांसानि च",
         "sandhi": "व्यंजन + स्वर, बिना परिवर्तन: तान् + एव → तानेव।",
-        "anchors": "याद-सूत्र: पंक्ति टूटी है; पक्का केवल ‘तानेव च तत्र’ और ‘जलचरमांसानि’। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: पंक्ति टूटी है; सबसे स्पष्ट ‘तानेव च तत्र’ और ‘जलचरमांसानि’। (मेरी याद-पद्धति)",
     },
     "62": {
         "chunks": "कफे त्वाम्रोदक (अस्पष्ट) | पिशितोप दंशामच्छसुरां | त्रिरात्रं -रात्रं समरात्रं वा | पिबेत्",
@@ -1044,7 +1046,7 @@ IMAGE_SPECS = {
         "title": "इकाई ६३: घृतपात्र और पाँच द्रव्य",
         "heads": ["द्रव्य (क्रम से)", "पहचान"],
         "rows": [["१ तिल", "तिल (मानक)"], ["२ मुद्ग", "मूँग (मानक)"], ["३ माष", "उड़द (मानक)"], ["४ लवण", "नमक"],
-                 ["५ बिल्वपत्र", "बेल के पत्ते (मानक)"], ["घृतपात्र", "इन पाँच से मिलाकर सुरक्षित रखे"]],
+                 ["५ बिल्वपत्र", "बेल के पत्ते (मानक)"], ["घृतपात्र", "इन पाँच से मिलाकर सुरक्षित रखवाए"]],
     },
     ("64", "chain"): {
         "file": "sh4-bilvamatra-pinda-64.svg",
