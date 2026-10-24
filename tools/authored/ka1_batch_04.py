@@ -8,9 +8,8 @@ AUTHORED["40"] = {
     "question": "In which ailments does unit 40 say ikṣvāku is especially to be applied?",
     "rule": ("Ikṣvāku (bitter bottle gourd, probable) is especially to be applied (योज्यः) in kāsa (cough), śvāsa "
              "(breath-trouble), jvara (fever), chardi (vomiting), viṣa (poison) and phlegm-ailments."),
-    "limits": ("Whether the last member -roga covers every member or only śleṣma is open. The text does not say bitter; "
-               "the bitter-gourd identification (Lagenaria siceraria) is probable. The long ī of the print is a variant or "
-               "misprint and is not questioned. No form of use or dose is given in this unit."),
+    "limits": ("Whether -roga covers every member or only śleṣma is open. The text does not say bitter; the identification "
+               "(Lagenaria siceraria) is probable. The printed long ī is a variant or misprint, not questioned. No dose is given."),
     "explain_hi": ("यहाँ से इक्ष्वाकु यानी कड़वी लौकी (सम्भावित पहचान) के वमन-योग शुरू होते हैं। "
                    "‘तु’ इसे पिछले द्रव्य जीमूतक से अलग करता है: इक्ष्वाकु तो विशेष रूप से इन रोगों में लगाया जाए। "
                    "सूची है: कास यानी खाँसी, श्वास यानी साँस फूलना, ज्वर यानी बुखार, छर्दि यानी उल्टी, विष और कफ के रोग। "
@@ -641,9 +640,8 @@ AUTHORED["51"] = {
     "title": "बिल्वमूलप्रस्थकाथेन वा",
     "question": "Which seeds does unit 51 treat, and in a liquid made from which root?",
     "rule": ("Or one should boil tumbī (bottle gourd, probable) seeds in a decoction of a prastha of bilva (bael) root."),
-    "limits": ("The printed काथेन and काधयेत् are read as kvāthena (decoction) and kvāthayet (should boil): those two words "
-               "are not questioned. Whether the prastha measures the root or the decoction is not clear. Tumbī is named apart "
-               "from ikṣvāku, though both are given as Lagenaria (probable); the text does not say bitter."),
+    "limits": ("Printed काथेन, काधयेत् are read as kvāthena (decoction), kvāthayet (should boil): not questioned. Whether the "
+               "prastha measures the root or the decoction is unclear. Tumbī is named apart from ikṣvāku, though both are given as Lagenaria."),
     "explain_hi": ("यहाँ से नया खण्ड शुरू होता है: तुम्बी यानी लौकी (सम्भावित) के बीजों का लेह। "
                    "पहला कदम: एक प्रस्थ बिल्व यानी बेल (मानक पहचान) की जड़ का काढ़ा, और उसमें तुम्बी के बीज उबाले जाएँ। "
                    "छपे ‘काथेन’ और ‘काधयेत्’ को डेटा ‘क्वाथेन’ और ‘क्वाथयेत्’ पढ़ता है। "
@@ -698,9 +696,8 @@ AUTHORED["52"] = {
     "question": "What is added, in what quantities, into the ghee-liquid of unit 52?",
     "rule": ("Then into that (ghee-liquid) one adds tumbī seeds ground, equal to the ghee; mahājālinī, vatsaka (kuṭaja) and "
              "kṛtavedhana each at a portion; and trikaṭuka equal to the decoction."),
-    "limits": ("Low confidence. त्रिभाग (a third part or three parts) is an open point; the 'half that portion' word has a "
-               "lost anusvara; the first member jīmūta is a misprint: none of these is questioned. Trikaṭuka equal to the "
-               "decoction is literal. mahājālinī is unidentified. The base is the decoction of line 05.01.56."),
+    "limits": ("Low confidence. त्रिभाग (a third or three parts) is open; the 'half that portion' word and the member jīmūta "
+               "are misprinted: none is questioned. Trikaṭuka equal to the decoction is literal. Mahājālinī is unidentified."),
     "explain_hi": ("यह लेह की दूसरी सीढ़ी है। ‘ततः’ यानी फिर, उसमें (बेल के काढ़े में), जिसमें घृत भी है, ये डाले जाएँ। "
                    "पहले तुम्बी के बीज, पीसकर, घृत के बराबर। "
                    "फिर प्रत्येक, एक अंश में: जीमूत, महाजालिनी (अज्ञात), वत्सक यानी कुटज (सम्भावित) और कृतवेधन यानी तोरई (सम्भावित)। "
@@ -1052,17 +1049,12 @@ IMAGE_SPECS = {
         "rows": [["पहली", "फल + मस्तु: कुष्ठ, विष, पाण्डु"], ["दूसरी", "सद्रिपक (अस्पष्ट)"],
                  ["दूसरी", "तक्र + मधु + सेंधा नमक"]],
     },
-    ("50", "frame"): {
-        "file": "ka1-ikshvaku-forms-50.svg",
-        "alt": ("Table of the ikshvaku section, lines 05.01.44 to 05.01.55: the form of the drug and what it is taken "
-                "with: sprouts in milk, juice in threefold milk, curd in the fruit, seeds in goat's milk, inner part, "
-                "fruit with whey, inner part with jaggery, oil, saktu mantha, paste with meat broth"),
-        "type": "table",
-        "title": "इक्ष्वाकु के रूप (पाठ-क्रम)",
-        "heads": ["रूप", "किसके साथ"],
-        "rows": [["प्रवाल", "दूध"], ["फल-स्वरस", "तिगुना दूध"], ["पुराना फल", "दूध से दही"],
-                 ["बीज", "बकरी का दूध"], ["फल-मध्य", "अकेला"], ["फल", "मस्तु"], ["फल-मध्य", "गुड़"],
-                 ["फल-तेल", "अकेला"], ["सत्तू (रस में)", "मन्थ"], ["कल्क", "मांस-रस"]],
+    ("50", "chain"): {
+        "file": "ka1-paste-broth-50.svg",
+        "alt": ("Flowchart of unit 50: ikshvaku paste with meat broth, in vata-kapha, gulma and persistent fevers"),
+        "type": "mermaid",
+        "code": ('flowchart TD\n  A["इक्ष्वाकु का कल्क"] --> B["मांस-रस के साथ"]\n'
+                 '  B --> C["वात-कफ"]\n  B --> D["गुल्म"]\n  B --> E["लगे रहने वाले ज्वर"]\n'),
     },
     ("52", "chain"): {
         "file": "ka1-tumbi-additions-52.svg",
@@ -1074,13 +1066,12 @@ IMAGE_SPECS = {
                  '  D --> E["सब डाले"]\n'),
     },
     ("54", "chain"): {
-        "file": "ka1-tumbi-leha-54.svg",
-        "alt": ("Flowchart of the tumbi leha, lines 05.01.56 to 05.01.59: bilva-root decoction with tumbi seeds, the drugs "
-                "added, heated again into a leha, licked and followed by a drink; the same procedure for the four members "
-                "of the great five roots"),
+        "file": "ka1-lick-kalpa-54.svg",
+        "alt": ("Flowchart of unit 54: the leha is licked, a drink follows after it, and the same procedure is to be known "
+                "as stated separately for the four members of the great five roots beginning with kashmarya"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["बेल-जड़ का काढ़ा<br/>तुम्बी के बीज"] --> B["बीज, द्रव्य, त्रिकटु डाले"]\n'
-                 '  B --> C["फिर पकाकर लेह"]\n  C --> D["लेह चाटे<br/>पीछे से पिए"]\n'
-                 '  D --> E["यही कल्प<br/>काश्मर्य आदि चार में"]\n'),
+        "code": ('flowchart TD\n  A["लेह चाटे"] --> B["पीछे से पिए"]\n'
+                 '  B --> C["यही कल्प"]\n  C --> D["काश्मर्य आदि चार<br/>महापञ्चमूल-अंग"]\n'
+                 '  D --> E["अलग-अलग कहा<br/>ऐसा जानें"]\n'),
     },
 }

@@ -22,7 +22,7 @@ AUTHORED["25"] = {
     "hook": "आधा-आधा जोड़ो तो बस्ति बने ‘चित्र’ यानी विविध।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "What name does verse 25 give to the bastis arranged half and half?",
+        mcq("pretest", 0, "What does verse 25, line 1, say the bastis are declared to be?",
             ("Citra (varied)",
              "चित्रान्: varied, the name they declare (प्रचक्षते)."),
             [("Picchila (slimy)", "Slimy is said later, in line 05.04.61, not in verse 25."),
@@ -80,7 +80,7 @@ AUTHORED["26"] = {
                    "फिर ‘दन्ती और द्रवन्ती से उत्पन्न’; क्या उत्पन्न, यह नहीं कहा गया। "
                    "दूसरी पंक्ति में प्रकीर्या, उदकीर्या, क्षीरिणी, नीलिनी यानी प्रायः नील और अन्त में अकेला ‘फलं’ है, जिसका पौधा नहीं बताया गया। "
                    "त्रिवृत् की पहचान मानक है; दन्ती (प्रायः जंगली जमालगोटा) और नीलिनी सम्भावित; बाकी विवादित।"),
-    "hook": "श्यामा-निशोथ की जड़, दन्ती-द्रवन्ती का अंश, फिर प्रकीर्या-उदकीर्या, क्षीरिणी-नील और फल।",
+    "hook": "श्यामा-निशोथ की जड़, दन्ती-द्रवन्ती से उत्पन्न, फिर प्रकीर्या-उदकीर्या, क्षीरिणी-नील और फल।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which part of śyāmā and trivṛt does verse 26 name?",
@@ -242,15 +242,15 @@ AUTHORED["28"] = {
              ("Barley flour", "No flour is named in verse 28.")],
             "यव = barley; the plural ending gives grains.",
             "यवाः = barley grains."),
-        mcq("transfer", 5, "Like शमीपिंडीतकायवाः, which invented dvandva joins शमी and यव in the nominative plural?",
-            ("शमीयवाः",
+        mcq("transfer", 5, "Like शमीपिंडीतकायवाः, which invented dvandva joins शमी, कुष्ठ and यव in the nominative plural?",
+            ("शमीकुष्ठयवाः",
              "Dvandva: stems joined, the last member takes the ending -आः."),
-            [("शमीयवः", "Singular; the list is plural."),
-             ("शमीयवान्", "Accusative plural; a list of subjects is nominative."),
-             ("शमीयवम्", "Neuter singular, not nominative plural.")],
-            "Only the last member of a dvandva is declined: शमी-यवाः.",
+            [("शमीकुष्ठयवः", "Singular; three items take the plural."),
+             ("शमीकुष्ठयवान्", "Accusative plural; a list of subjects is nominative."),
+             ("शमीकुष्ठयवम्", "Neuter singular, not nominative plural.")],
+            "Only the last member of a dvandva is declined: शमी-कुष्ठ-यवाः.",
             "Dvandva: last member carries case and number.",
-            teaches="In a dvandva only the last member takes the ending: शमी-पिण्डीतका-यवाः, शमी-यवाः (nominative plural)."),
+            teaches="In a dvandva only the last member takes the ending: शमी-पिण्डीतका-यवाः, शमी-कुष्ठ-यवाः (three items, nominative plural)."),
     ],
 }
 
@@ -323,7 +323,7 @@ AUTHORED["30"] = {
     "rule": ("In sequence, with decoctions and pastes of binding priyaṅgu, ambaṣṭhā and the rest; the additive (pratīvāpa) of uṣaka "
              "and the rest; and the scraping (lekhana) triphalā juice."),
     "limits": ("No noun such as basti is in the unit; a continuation of the kinds begun in line 05.04.47 is likely but not stated. "
-               "काथ is read as क्वाथ (flagged). Uṣaka is probably a saline earth; ambaṣṭhā is disputed."),
+               "काथ is read as क्वाथ (flagged). Uṣaka is probably a saline earth; ambaṣṭhā is disputed. Whether ग्राहि is an adjective (binding) or names a group is not settled."),
     "explain_hi": ("इस श्लोक में न क्रिया है न ‘बस्ति’ शब्द; सम्भवतः यह पंक्ति ०५.०४.४७ से शुरू हुए प्रकारों का वर्णन आगे बढ़ाता है, पर पाठ यह नहीं कहता। "
                    "पहली पंक्ति: क्रम से, ग्राही यानी बाँधने वाले प्रियङ्गु, अम्बष्ठा आदि के क्वाथों (छपा ‘काथ’) और कल्कों से। "
                    "दूसरी पंक्ति: उषक यानी प्रायः खारी मिट्टी आदि का प्रतीवाप यानी ऊपर से डाला जाने वाला द्रव्य, और लेखन यानी खुरचने वाला त्रिफला का रस। "
@@ -335,7 +335,7 @@ AUTHORED["30"] = {
             ("Lekhana (scraping)",
              "लेखनस्त्रिफलारसः: the scraping triphalā juice."),
             [("Bṛṃhaṇa (nourishing)", "Nourishing is said in line 05.04.59, not of triphalā."),
-             ("Saṃgrāhika (binding)", "Binding closed the list of line 05.04.56."),
+             ("Saṃgrāhika (binding)", "Binding (ग्राहि) qualifies priyaṅgu and ambaṣṭhā in line 1, not the triphalā juice."),
              ("Picchila (slimy)", "Slimy is said in line 05.04.61.")],
             "लेखनः qualifies त्रिफलारसः.",
             "लेखन = scraping."),
@@ -383,12 +383,12 @@ AUTHORED["30"] = {
 AUTHORED["31"] = {
     "title": "बदर्यैरावणीशैलूशाल्मलीधन्वनांकुराः",
     "question": "Which sprouts does verse 31 list, and what can be said of its damaged first line?",
-    "rule": ("Line 1 (damaged) speaks of a nourishing (bṛṃhaṇa) kind, with madhuka paste and ghee with rasa. Line 2 lists the sprouts "
+    "rule": ("Line 1 (damaged) says nourishing (bṛṃhaṇa), with madhuka paste and ghee with rasa. Line 2 lists the sprouts "
              "of badarī (jujube), airāvaṇī, śailū, śālmalī (silk-cotton tree) and dhanvana."),
     "limits": ("Line 1 is flagged: कल्कैन is read as कल्केन and a word may be lost; no questions on it. Airāvaṇī is unidentified; "
                "śailū and dhanvana probable. अङ्कुराः is taken with all the names. What the sprouts are, line 05.04.61 says."),
     "explain_hi": ("पहली पंक्ति बिगड़ी है: ‘मधुक कल्कैन’ सम्भवतः ‘मधुककल्केन’ है, यानी मधुक (प्रायः मुलेठी) के कल्क से, और रस सहित घी से, "
-                   "एक बृंहण यानी पुष्ट करने वाला प्रकार; किसका, यह नहीं कहा गया। "
+                   "बृंहण यानी पुष्ट करने वाला; क्या पुष्ट करने वाला, यह नहीं कहा गया। "
                    "दूसरी पंक्ति में वृक्षों के अंकुर गिनाए गए हैं: बदरी यानी बेर, ऐरावणी (अपहचानी), शैलू यानी प्रायः लसोड़ा, शाल्मली यानी सेमल और धन्वन यानी प्रायः धामिन। "
                    "‘अंकुराः’ सब नामों से जुड़ता है। ये अंकुर क्या माने गए, यह पंक्ति ०५.०४.६१ बताती है।"),
     "hook": "बेर, ऐरावणी, लसोड़ा, सेमल, धामिन: इन सबके अंकुर।",
@@ -446,7 +446,7 @@ AUTHORED["32"] = {
     "title": "समाक्षिकाः क्षीरयुताः सासृजाः पिच्छिलाः स्मृताः",
     "question": "What are the sprouts joined with in verse 32, and what are they held to be?",
     "rule": ("The sprouts of line 05.04.60, with honey, joined with milk and with blood, are held to be picchila (slimy). "
-             "Line 2 begins a new list: kola (jujube) with kataka, darbha, pāṭhā and others."),
+             "Line 2 begins a new list: kola (probably jujube) with kataka, darbha, pāṭhā and others."),
     "limits": ("माक्षिक is taken as honey (it can also name a mineral). Whether picchila names a kind is not stated. Line 2's compound is "
                "flagged (एलवालु is conjectured) and kola can also be a measure; no questions on line 2."),
     "explain_hi": ("पिछली पंक्ति के अंकुर इस श्लोक का कर्ता हैं। वे माक्षिक यानी शहद सहित, दूध से युक्त और असृज् यानी रक्त सहित "
@@ -516,7 +516,7 @@ AUTHORED["33"] = {
                    "‘द्वितीय’ किसका दूसरा है, यह नहीं कहा गया। "
                    "दूसरी पंक्ति में शाल्मली यानी सेमल के डंठलों की एक मुट्ठी है, दूध में पकाई हुई और घी से युक्त। "
                    "व्याकरण ढीला है: ‘मुष्टिं’ द्वितीया है, पर ‘सिद्धः’ और ‘अन्वितः’ प्रथमा; वाक्य पंक्ति ०५.०४.६५ के ‘हितः प्रवाहणे’ तक चलता है।"),
-    "hook": "जलन में: घी-दूध वाला पहला, उत्पल वाला दूसरा; फिर मुट्ठी-भर सेमल-डंठल दूध में।",
+    "hook": "जलन में: घी-दूध वाला पहला, उत्पल वाला दूसरा; फिर मुट्ठी-भर सेमल-डंठल दूध में, जोर लगाने (प्रवाहण) के लिए।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "What does the first kind of verse 33 destroy?",
@@ -572,7 +572,7 @@ AUTHORED["34"] = {
     "question": "In which condition is the preparation beneficial in verse 34, and what is prepared with milk?",
     "rule": ("Beneficial in pravāhaṇa (straining); likewise with the stalks of śālmalaka. Then karbudāra, āḍhakī, nīpa and vidula, "
              "prepared with milk; the unit does not say what these are for."),
-    "limits": ("तद्वद्धृंतैः is read as तद्वद् वृन्तैः and आढकींनप as आढकी-नीप (both flagged). Śālmalaka is taken as the silk-cotton tree. "
+    "limits": ("तद्वद्धृंतैः is read as तद्वद् वृन्तैः and आढकींनप as आढकी-नीप (both flagged). Śālmalaka is taken as the silk-cotton tree (probable). "
                "Karbudāra and vidula are disputed. What is beneficial stands in line 05.04.64."),
     "explain_hi": ("यह श्लोक पंक्ति ०५.०४.६४ का वाक्य पूरा करता है: दूध में पकी, घी से युक्त सेमल-डंठलों की वह तैयारी प्रवाहण यानी जोर लगाने में हितकर है। "
                    "‘वैसे ही’ शाल्मलक के डंठलों से भी; शाल्मलक को सेमल ही माना गया है। "
@@ -624,7 +624,7 @@ AUTHORED["34"] = {
              ("दाहस्य", "Genitive: of burning.")],
             "The locative names the condition in which a remedy is beneficial.",
             "-ए (locative) = in.",
-            teaches="Kalpasthāna names the condition in the locative: प्रवाहणे (in straining), दाहे (in burning)."),
+            teaches="These verses name the condition in the locative: प्रवाहणे (in straining), दाहे (in burning)."),
     ],
 }
 
@@ -706,7 +706,7 @@ AUTHORED["36"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "What is ākhukarṇikā joined with in verse 36?",
-            ("Taṇḍulīyaka (amaranth)",
+            ("Taṇḍulīyaka (probably amaranth)",
              "तंदुलीयकयुक्तया: joined with taṇḍulīyaka, probably a spiny amaranth."),
             [("Kākanāsā (crow-nose)", "Kākanāsā is in line 2, a separate item."),
              ("Aśvāvarohaka (unidentified)", "Aśvāvarohaka opens line 2, a separate item."),
@@ -757,7 +757,7 @@ AUTHORED["37"] = {
     "title": "सिद्धाः क्षीरेऽतियोगे स्युः",
     "question": "In atiyoga, what should be cooked in milk and what is it joined with, according to verse 37?",
     "rule": ("In atiyoga (excess), the drugs of line 05.04.70 should be cooked in milk, joined with honey, añjana and ghee. "
-             "Another (preparation) by that very method uses the four beginning with nyagrodha."),
+             "Then: and with the four beginning with nyagrodha; by that very method, another (what is not stated; the sentence runs on into line 05.04.73)."),
     "limits": ("Excess of what is not stated, nor which añjana. The four of the nyagrodha group are not named in the unit; "
                "चतुर्भिइच is read as चतुर्भिश्च (flagged). अपरः, another, does not say another what."),
     "explain_hi": ("पिछली पंक्ति के द्रव्य (अश्वावरोहक आदि) यहाँ कर्ता हैं: अतियोग यानी अधिकता होने पर वे दूध में सिद्ध किए जाने चाहिए "
@@ -908,7 +908,7 @@ AIDS = {
         "anchors": "जाति = प्रायः चमेली · यूथिका = प्रायः जूही · वट = बरगद · किंशुक = ढाक · रोध्र = लोध · संग्राहिक = बाँधने वाला।",
     },
     "30": {
-        "chain": {"steps": ["क्रम से", "ग्राही प्रियङ्गु, अम्बष्ठा आदि के क्वाथ और कल्क", "उषक आदि का प्रतीवाप", "लेखन त्रिफला-रस"]},
+        "diagram": {"groups": [{"label": "पंक्ति १: ग्राही", "items": ["प्रियङ्गु, अम्बष्ठा आदि के क्वाथ और कल्क", "क्रम से"]}, {"label": "पंक्ति २: लेखन", "items": ["उषक आदि का प्रतीवाप", "त्रिफला-रस"]}]},
         "chunks": "ग्राहिप्रियंग्वंबष्ठादिकाथकल्कैः | क्रमेण च ‖ उषकादिप्रतीवापो | लेखनस्त्रिफलारसः।",
         "sandhi": "उ + अ → व: प्रियङ्गु + अम्बष्ठा → प्रियङ्ग्वम्बष्ठा; अः + त → अस्त: लेखनः + त्रिफला → लेखनस्त्रिफला।",
         "anchors": "ग्राही = बाँधने वाला · क्वाथ = काढ़ा · कल्क = लुगदी · प्रतीवाप = ऊपर से डाला द्रव्य · उषक = प्रायः खारी मिट्टी · लेखन = खुरचने वाला।",
@@ -951,10 +951,10 @@ AIDS = {
         "chunks": "आखुकर्णिकया | तद्वत् | तंदुलीयकयुक्तया ‖ अश्वावरोहकः | काकनासा | राजकसेरुकाः।",
         "anchors": "आखु = चूहा · कर्ण = कान · तण्डुलीयक = प्रायः चौलाई · काक = कौआ · नासा = नाक · कसेरुका = प्रायः कसेरु।",
         "puns": "केवल सुनने की सहायता: ‘आखु-कर्ण’ चूहे का कान, ‘काक-नासा’ कौए की नाक: दो जानवर, दो अंग।",
-        "frame": "पंक्ति १ (तृतीया): आखुकर्णिका से, तण्डुलीयक से युक्त · पंक्ति २ (प्रथमा): तीन नाम, जो पंक्ति ०५.०४.७१ में ‘सिद्धाः’।",
+        "frame": "पंक्ति १ (तृतीया): आखुकर्णिका से, तण्डुलीयक से युक्त · पंक्ति २ (प्रथमा): तीन (या चार) नाम, जो पंक्ति ०५.०४.७१ में ‘सिद्धाः’।",
     },
     "37": {
-        "chain": {"steps": ["अतियोग में", "पंक्ति ०५.०४.७० के द्रव्य", "दूध में सिद्ध", "शहद, अञ्जन, घी से युक्त", "उसी विधि से दूसरा: न्यग्रोध आदि चार"]},
+        "chain": {"steps": ["अतियोग में", "पंक्ति ०५.०४.७० के द्रव्य", "दूध में सिद्ध", "शहद, अञ्जन, घी से युक्त", "और न्यग्रोध आदि चार से; उसी विधि से दूसरा"]},
         "chunks": "सिद्धाः | क्षीरेऽतियोगे | स्युः | क्षौद्रांजनघृतैर्युताः ‖ न्यग्रोधाद्यैश्चतुर्भिइच (छपा) | तेनैव विधिनाऽपरः।",
         "sandhi": "ए + अ → एऽ: क्षीरे + अतियोगे → क्षीरेऽतियोगे; अ + ए → ऐ: तेन + एव → तेनैव; ऐः + य → ऐर्य: घृतैः + युताः → घृतैर्युताः।",
         "anchors": "अतियोग = अधिकता · क्षौद्र = शहद · अञ्जन = अञ्जन द्रव्य (कौन-सा, अकथित) · न्यग्रोध = बरगद · अपर = दूसरा।",
@@ -988,17 +988,18 @@ IMAGE_SPECS = {
         "alt": ("Two columns for verse 29: line 1 priyangu, red root (uncertain), bhairani, jati, yuthika; line 2 vata and the rest, "
                 "kimshuka, rodhra; all considered samgrahika (binding)"),
         "type": "split",
-        "title": "श्लोक २९: इति संग्राहिकाः",
+        "title": "श्लोक २९: इति, सब संग्राहिक",
         "cols": [["पंक्ति १", ["प्रियङ्गु", "रक्तमूल (अनिश्चित)", "भैरणी", "जाति", "यूथिका"]],
-                 ["पंक्ति २", ["वट आदि", "किंशुक", "रोध्र", "= संग्राहिक"]]],
+                 ["पंक्ति २", ["वट आदि", "किंशुक", "रोध्र"]]],
     },
-    ("30", "chain"): {
+    ("30", "diagram"): {
         "file": "ka4-lekhana-30.svg",
-        "alt": ("Chain of four steps for verse 30: in sequence; decoctions and pastes of binding priyangu, ambashtha and the rest; "
-                "the additive of ushaka and the rest; the scraping triphala juice"),
-        "type": "chain",
-        "title": "श्लोक ३०: क्रम से",
-        "steps": ["क्रम से", "ग्राही प्रियङ्गु-अम्बष्ठा आदि: क्वाथ, कल्क", "उषक आदि का प्रतीवाप", "लेखन त्रिफला-रस"],
+        "alt": ("Two columns for verse 30: line 1 decoctions and pastes of binding priyangu, ambashtha and the rest, in sequence; "
+                "line 2 the additive of ushaka and the rest and the scraping triphala juice"),
+        "type": "split",
+        "title": "श्लोक ३०: ग्राही और लेखन",
+        "cols": [["पंक्ति १: ग्राही", ["प्रियङ्गु-अम्बष्ठा आदि: क्वाथ, कल्क", "क्रम से"]],
+                 ["पंक्ति २: लेखन", ["उषक आदि का प्रतीवाप", "त्रिफला-रस"]]],
     },
     ("32", "diagram"): {
         "file": "ka4-picchila-32.svg",
@@ -1016,9 +1017,9 @@ IMAGE_SPECS = {
     ("33", "diagram"): {
         "file": "ka4-dahaghna-33.svg",
         "alt": ("Table for verse 33 with three rows: the first burning-destroying kind with ghee and milk; the second with utpala and the rest; "
-                "a fistful of shalmali stalks cooked in milk, with ghee"),
+                "then (a separate preparation, continued in line 05.04.65) a fistful of shalmali stalks cooked in milk, with ghee"),
         "type": "table",
-        "title": "श्लोक ३३: दाह में",
+        "title": "श्लोक ३३: दो दाहघ्न, फिर सेमल-डंठल",
         "heads": ["क्या", "किसके साथ"],
         "rows": [["दाहघ्न: पहला", "घी और दूध"], ["दूसरा", "उत्पल आदि"], ["सेमल-डंठलों की मुट्ठी", "दूध में पकी, घी से युक्त"]],
     },
@@ -1034,9 +1035,9 @@ IMAGE_SPECS = {
     ("37", "chain"): {
         "file": "ka4-atiyoga-37.svg",
         "alt": ("Chain of five steps for verse 37: in atiyoga; the drugs of line 05.04.70; cooked in milk; joined with honey, anjana and ghee; "
-                "by the same method another, with the four beginning with nyagrodha"),
+                "and with the four beginning with nyagrodha; by the same method another"),
         "type": "chain",
         "title": "श्लोक ३७: अतियोग में",
-        "steps": ["अतियोग में", "पंक्ति ०५.०४.७० के द्रव्य", "दूध में सिद्ध", "शहद, अञ्जन, घी से युक्त", "उसी विधि से दूसरा: न्यग्रोध आदि चार"],
+        "steps": ["अतियोग में", "पंक्ति ०५.०४.७० के द्रव्य", "दूध में सिद्ध", "शहद, अञ्जन, घी से युक्त", "और न्यग्रोध आदि चार से; उसी विधि से दूसरा"],
     },
 }
