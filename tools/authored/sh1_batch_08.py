@@ -16,7 +16,7 @@ AUTHORED["94"] = {
              "then a male is born of female form, weak, or deficient in limb."),
     "limits": ("The cause āhāra-anurodha is read as 'conformity to diet'; the data says its sense is not fully clear, so no "
                "question rests on it. 'Nights' is understood, not printed. The sentence goes on in unit 95 (the female)."),
-    "explain_hi": ("यह गद्य-वाक्य बताता है कि रात्रियों का नियम (सम में पुत्र, विषम में कन्या) कभी उलट-पुलट क्यों दिखता है। "
+    "explain_hi": ("यह गद्य-वाक्य विषम और सम रात्रियों में शुक्र की अधिकता-कमी का एक परिणाम बताता है। "
                    "यदि आहार के अनुसार विषम रात्रियों में शुक्र अधिक और सम रात्रियों में कम हो, "
                    "तो पुरुष जन्म लेता है, पर स्त्री के आकार वाला, दुर्बल या हीन अंगों वाला। "
                    "‘आहारानुरोधात्’ का ठीक अर्थ पूरी तरह स्पष्ट नहीं है; ‘रात्रियों’ शब्द समझा जाता है, छपा नहीं। "
@@ -131,11 +131,11 @@ AUTHORED["96"] = {
     "title": "अथोपाध्यायः पुत्रीयं विधानम्",
     "question": "Who, by unit 96, performs what procedure?",
     "rule": "Then the teacher (upādhyāya) should perform the procedure relating to a son (putrīya).",
-    "limits": ("The rite itself is not described in this unit. Upādhyāya is a teacher or preceptor; that he acts as the "
-               "officiating priest is only probable."),
+    "limits": ("The rite itself is not described in this unit. Upādhyāya is taken as a teacher or preceptor (probable); "
+               "he may act as the officiating priest."),
     "explain_hi": ("यहाँ नया प्रसंग शुरू होता है: पुत्र-सम्बन्धी विधि। ‘अथ’ यानी तब, इसके बाद। "
                    "उपाध्याय (शिक्षक, गुरु) पुत्रीय विधान का आचरण करे। ‘पुत्रीय’ विशेषण है: पुत्र से सम्बन्धित, पुत्र के लिए। "
-                   "विधि के चरण इस इकाई में नहीं बताए गए; उपाध्याय पुरोहित का काम करता है, यह केवल सम्भावित है।"),
+                   "विधि के चरण इस इकाई में नहीं बताए गए; उपाध्याय = शिक्षक, गुरु (सम्भावित); वह पुरोहित का काम कर सकता है।"),
     "hook": "अथ उपाध्याय: पुत्रीय विधान।",
     "core": False,
     "questions": [
@@ -224,13 +224,13 @@ AUTHORED["97"] = {
              ("It marks a plural ending", "The स् comes from sandhi, not from a plural.")],
             "The first word ends in a visarga (-आयाः); before तु that visarga becomes स्.",
             "Visarga + त → स्त."),
-        mcq("apply", 4, "With what does unit 97 appear to belong, by the card?",
-            ("The procedure of unit 96", "GROUPING: it appears to belong with the procedure (विधान), unclear how."),
-            [("The mantra of unit 103", "The card ties it to the procedure, not to the mantra text."),
-             ("The napuṃsaka of unit 95", "Unit 95 ends the earlier section on the nights."),
-             ("The cold water of unit 106", "Unit 106 speaks of the end of the union.")],
-            "It appears to belong with the procedure relating to a son (unit 96); how is unclear.",
-            "Unit 97 hangs on unit 96's विधानम्."),
+        mcq("apply", 4, "By the card, which word of unit 97 has an unsure reading?",
+            ("The first word, शुद्धायाः", "An undecided conjecture reads it as शूद्रायाः; so no question rests on its sense."),
+            [("The particle तु", "तु (but) is sure."),
+             ("The word मन्त्र", "मन्त्र is sure; only मंत्रवर्जित may have lost a final -म्, which leaves its sense unchanged."),
+             ("No word; all are sure", "The card marks the first word as unsure.")],
+            "The first word may be शुद्धायाः or शूद्रायाः (undecided); तु and मन्त्रवर्जित are read with more certainty.",
+            "Unsure reading: hold it loosely."),
         T(mcq("transfer", 5, "Built like मन्त्रवर्जित (without mantra), what does दोषवर्जित mean?",
               ("Free of faults", "X + वर्जित = without X: दोष (fault) + वर्जित."),
               [("Full of faults", "वर्जित means left out, the opposite of full."),
@@ -254,7 +254,7 @@ AUTHORED["98"] = {
                    "जनपद यानी प्रदेश या वहाँ के लोग (मानक); दोनों अर्थ सम्भव हैं। "
                    "समास का ‘तद्’ उस चाहे गए पुत्र की ओर संकेत करता है। "
                    "‘इति’ उद्धृत निर्देश को बन्द करता है, और ‘वाच्या’ यानी ‘कही जानी चाहिए’।"),
-    "hook": "जैसा पुत्र चाहो, वैसे लोगों का ध्यान करो।",
+    "hook": "जैसा पुत्र चाहो, वैसे जनपदों का ध्यान करो।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 98, what is the woman told to think upon?",
@@ -318,8 +318,8 @@ AUTHORED["99"] = {
     "questions": [
         mcq("pretest", 0, "By unit 99, what should she follow?",
             ("That region's food, living, practices, accessories", "आहार-विहार-उपचार-परिच्छदान् अनुविदधीत."),
-            [("The teacher's words, rites, and his fasts", "The teacher is not named in this unit."),
-             ("Her husband's food, sleep, and his work", "The husband is not named in this unit."),
+            [("The teacher's words, his rites, fasts and vows", "The teacher is not named in this unit."),
+             ("Her husband's food, his sleep, work and dress", "The husband is not named in this unit."),
              ("The mantra's words, metre, and its gods", "The mantra comes later, in units 103-104.")],
             "She should follow the food, way of living, practices and accessories of that region.",
             "अनुविदधीत = should follow, adopt."),
@@ -340,11 +340,11 @@ AUTHORED["99"] = {
              ("परिच्छदांश् + च", "परिच्छदांश् is not a form; the ending is -आन्.")],
             "परिच्छदान् (accessories, accusative plural) + च (and).",
             "न् + च → ंश्च."),
-        mcq("apply", 4, "In unit 99, whose region's ways should she follow?",
+        mcq("apply", 4, "In unit 99, the ways of which region should she follow?",
             ("The region she thinks upon in unit 98", "तद्-जनपद: that region, the one of unit 98."),
             [("Her husband's own birthplace", "No husband or birthplace is named."),
              ("The teacher's native region", "The teacher is not in this unit."),
-             ("Any region with plenty of food", "तद् points to one region, not any.")],
+             ("Any region with plenty of food", "तद् points to the regions of unit 98, not to any region.")],
             "तज्जनपद = that region: the one with the form, complexion and conduct of the wished son.",
             "तद् = that (region of unit 98)."),
         T(mcq("transfer", 5, "By the rule of परिच्छदांश्च, how is तान् + च written when joined?",
@@ -360,7 +360,7 @@ AUTHORED["99"] = {
 
 # ---------------------------------------------------------------- unit 100
 AUTHORED["100"] = {
-    "title": "कर्मान्ते च पुमान्",
+    "title": "कर्माते च पुमान्",
     "question": "How does unit 100 say the man is to be prepared, and how does he mount the bed?",
     "rule": ("At the end of the rite the man, chaste for a month, fed on śāli rice with ghee and milk, not over-fed, happy, "
              "garlanded, cheerful, refreshed, in white, at a night-time approved by the muhūrta-expert, thinking auspicious "
@@ -393,7 +393,7 @@ AUTHORED["100"] = {
                  ["मौहूर्तिक", "muhūrta-expert (astrologer)"], ["स्वास्तीर्ण", "well spread"]],
                 "Three words describe the man, one the expert who approves the time, one the bed.",
                 "ब्रह्मचारी, स्रग्वी, शुक्लनिवसन, मौहूर्तिक, स्वास्तीर्ण.", role="extend"),
-          "The man's preparation is listed as a row of adjectives, all agreeing with पुमान्."),
+          "Most of the man's marks are nominative adjectives agreeing with पुमान् (ब्रह्मचारी, स्रग्वी, शुक्लनिवसनः); the time and the bed are in other cases."),
         mcq("discriminate", 3, "Which split of नात्याशितः is right?",
             ("न + अति + आशितः", "अ + अ → आ (नाति); इ + आ → या (अत्याशितः)."),
             [("ना + अत्याशितः", "ना is not a word; the negative is न."),
@@ -485,8 +485,8 @@ AUTHORED["102"] = {
     "title": "तत्र मंत्रं प्रयुंजीत",
     "question": "What does unit 102 say is to be done there?",
     "rule": "There one should employ (recite) the mantra; the mantra itself follows in unit 103.",
-    "limits": "The subject is not stated; the man is probably meant (conjectural), so no question asks who recites it.",
-    "explain_hi": ("छोटी गद्य-पंक्ति: वहाँ (शय्या पर) मन्त्र का प्रयोग करे। "
+    "limits": "The subject is not stated; the man is probably meant (conjectural), so the questions ask only that no subject is named.",
+    "explain_hi": ("छोटी गद्य-पंक्ति: वहाँ (या तब) मन्त्र का प्रयोग करे। "
                    "कर्ता नहीं बताया गया; सम्भवतः पुरुष, पर यह अनुमान है। "
                    "मन्त्र स्वयं अगली इकाई (१०३) में दिया गया है। "
                    "‘प्रयुञ्जीत’ विधि-लिङ् (आत्मनेपद) है: प्रयोग करे।"),
@@ -510,14 +510,14 @@ AUTHORED["102"] = {
                 "तत्र, मन्त्र, प्रयुञ्जीत.", role="extend"),
           "प्रयुञ्जीत is an optative (3rd singular, ātmanepada): should employ."),
         mcq("discriminate", 3, "What does unit 102 itself state about who employs the mantra?",
-            ("No one is named; the man is probably meant", "The subject is not stated; the data's guess is the man."),
+            ("No subject is named in the line", "The subject is not stated; the data only guesses the man (conjectural)."),
             [("The teacher, named as upādhyāya", "The teacher is named in unit 96, not here."),
              ("The woman, named as pramadā", "प्रमदा is in unit 101, not here."),
              ("Both partners, by a dual verb", "प्रयुञ्जीत is singular; the dual verb is in unit 105.")],
-            "The line has no stated subject; the man is probably meant (conjectural).",
+            "The line has no stated subject; any guess is conjectural.",
             "Unstated subject: hold the guess loosely."),
         mcq("apply", 4, "Where is the mantra announced in unit 102 given?",
-            ("In the next unit, 103", "The data: the mantra is given in 117 (unit 103)."),
+            ("In the next unit, 103", "The data: the mantra is given in the next unit, 103."),
             [("In unit 96, with the teacher", "Unit 96 names the procedure, not the mantra text."),
              ("Nowhere in this chapter", "It follows at once, in unit 103."),
              ("Inside unit 102 itself", "Unit 102 only says to employ it.")],
@@ -603,13 +603,13 @@ AUTHORED["104"] = {
                    "देवताओं की सूची: ब्रह्मा, बृहस्पति, विष्णु, सोम, सूर्य, दोनों अश्विनीकुमार, भग, फिर मित्र और वरुण। "
                    "ये सब मुझे वीर पुत्र प्रदान करें (दधतु, बहुवचन, क्योंकि कर्ता अनेक देवता हैं)। "
                    "अन्त का ‘इति’ मन्त्र को समाप्त करता है।"),
-    "hook": "नौ नाम, एक माँग: वीर पुत्र।",
+    "hook": "देवताओं की सूची, एक माँग: वीर पुत्र।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 104, what are the deities asked to bestow?",
             ("A heroic son (वीरं सुतम्)", "वीरं दधतु मे सुतम्."),
             [("Long life (आयुः)", "Life is named in the mantra of unit 103, not asked here."),
-             ("Wealth (धनम्)", "Wealth is not named in this unit."),
+             ("Great wealth (महद् धनम्)", "Wealth is not named in this unit."),
              ("A daughter (दुहिता)", "The unit asks for a son (सुत).")],
             "May they bestow on me a heroic son.",
             "वीर = heroic; सुत = son."),
@@ -706,7 +706,7 @@ AUTHORED["105"] = {
 
 # ---------------------------------------------------------------- unit 106
 AUTHORED["106"] = {
-    "title": "पर्यन्ते चैनां शीतोदकेन",
+    "title": "पर्यांते चैनां शीतोदकेन",
     "question": "What does unit 106 say is done at the end?",
     "rule": "And at the end he should suddenly sprinkle her with cold water.",
     "limits": ("The subject is not stated; the man is understood (conjectural). The printed पर्यांते and पारिषिंचेत् are read as "
@@ -950,7 +950,7 @@ IMAGE_SPECS = {
         "heads": ["पुरुष (इकाई १००)", "स्त्री (इकाई १०१)"],
         "rows": [["घी-दूध के साथ शालि-भात", "तेल और माष (उड़द)"],
                  ["दाहिना पैर", "बायाँ पैर, पहले"],
-                 ["शय्या पर चढ़े", "पुरुष के दाहिनी ओर"]],
+                 ["शय्या पर चढ़े", "पुरुष के दाहिनी ओर शय्या पर चढ़े"]],
     },
     ("104", "diagram"): {
         "file": "sh1-devata-suta-104.svg",
