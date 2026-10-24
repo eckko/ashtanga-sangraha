@@ -184,9 +184,9 @@ AUTHORED["207"] = {
     "question": "By unit 207, how are two groups of 'those' described?",
     "rule": ("Of those (तासाम्): two resting inside (अभ्यन्तराश्रिते द्वे); resting at the mouth (मुखाश्रिते), round "
              "(वृत्ते), two (द्वे)."),
-    "limits": ("Low confidence. As printed: 2 + 2 here, 3 in unit 208, seven against the ten of unit 206; unit 209 may "
-               "add one, or a द्वे may be lost: no question on counts or totals, nor on whether वृत्ते (round) describes "
-               "the ones at the mouth. Whose they are and the counted noun are not printed."),
+    "limits": ("Low confidence. Printed counts (2 + 2 here, 3 in unit 208) give seven against the ten of unit 206; a "
+               "द्वे may be lost: no question on counts, nor on whether वृत्ते (round) describes the ones at the mouth. "
+               "Owner and counted noun are not printed."),
     "explain_hi": ("यह गद्य-पंक्ति कम विश्वास वाली है। "
                    "छपा पाठ: ‘उनमें दो भीतर टिकी हुई; मुख पर टिकी हुई, गोल, दो’। "
                    "‘तासाम्’ (उनमें) किसकी ओर है, यह पंक्ति में नहीं कहा गया; डेटा इन गिनतियों को इकाई २०६ के दस से मिलाकर देखता है। "
