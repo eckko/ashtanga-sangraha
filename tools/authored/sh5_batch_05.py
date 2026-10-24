@@ -100,7 +100,7 @@ AUTHORED["53"] = {
             ("पक्वाशय + उन्मुखम्", "अ + उ → ओ: पक्वाशय + उन्मुखम् → पक्वाशयोन्मुखम्."),
             [("पक्वाशयः + उन्मुखम्", "अः before उ drops its visarga: that would give पक्वाशय उन्मुखम्."),
              ("पक्वाशयो + न्मुखम्", "न्मुखम् is not a word; the word is उन्मुखम् (facing toward)."),
-             ("पक्वाशये + उन्मुखम्", "ए + उ does not give ओ; it would give पक्वाशय उन्मुखम्.")],
+             ("पक्वाशये + उन्मुखम्", "ए + उ does not give ओ; ए before a vowel becomes अय् (or अ).")],
             "पक्वाशय (seat of the digested) + उन्मुखम् (facing toward): अ + उ → ओ.",
             "अ + उ → ओ."),
         multi("apply", 4, "By unit 53, which does Pittadharā do to the food?",
