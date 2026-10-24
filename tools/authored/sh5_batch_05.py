@@ -8,9 +8,9 @@ AUTHORED["52"] = {
     "title": "पंचमी पुरीषधरा नाम",
     "question": "By unit 52, what is the fifth kalā, and what does it do with the mala?",
     "rule": ("Fifth kalā: Purīṣadharā ('faeces-bearing'). It separates (विभजति) the mala (waste, faeces) that lies in the "
-             "unduka (probably the caecum), within the koṣṭha (storehouse)."),
+             "unduka (probably the caecum), within the koṣṭha (storehouse), on one possible reading."),
     "limits": ("Prose. Printed मा is read सा (she) on a possible correction. 'Resting on the intestine and the āma and "
-               "pakva seats' and 'within the koṣṭha, in the unduka' are uncertain readings; unduka = caecum is probable: "
+               "pakva seats' and 'within the koṣṭha, in the unduka' are uncertain readings of their sense (the plain join कोष्ठ + अन्तर् is sure); unduka = caecum is probable: "
                "no question on these."),
     "explain_hi": ("सात कलाओं में पाँचवीं कला पुरीषधरा, यानी पुरीष (मल) धारण करने वाली, है। "
                    "यह कोष्ठ के भीतर उण्डुक (सम्भवतः अन्धान्त्र) में स्थित मल को अलग करती है (विभजति)। "
@@ -82,7 +82,7 @@ AUTHORED["53"] = {
             ("Between the pakva and āma seats", "पक्वामाशयमध्यस्था: in the middle of the pakva and āma seats."),
             [("Below the opening of the bladder", "That is the place of Śukradharā (unit 55)."),
              ("Inside the flesh, with the blood", "That is Raktadharā, the second kalā (unit 49)."),
-             ("In the head, under the skull", "The head is named for fat in Medodharā (unit 50).")],
+             ("In the head, under the skull", "Fat in the head, under the skull, is described with Medodharā (unit 50).")],
             "Pittadharā lies between the seats of the digested and the raw.",
             "पक्वामाशयमध्यस्था."),
         order(1, "Put these phrases of unit 53 in the line's order.",
@@ -128,15 +128,15 @@ AUTHORED["54"] = {
     "title": "ततोऽसावन्नस्य ग्रहणात्पुनर्ग्रहणीसंज्ञा",
     "question": "By unit 54, why is the organ called grahaṇī, and what is its strength?",
     "rule": ("From its taking up (ग्रहण) of food it has the name grahaṇī. Its strength (बल) is Pitta itself, which is named "
-             "agni (fire); supported by the fire, it keeps the body going (शरीरं वर्तयति)."),
+             "agni (fire); it keeps the body going (शरीरं वर्तयति); 'supported by the fire' rests on a possible correction of printed नाए."),
     "limits": ("Prose. The opening clause (दोषाधिष्ठिता तु दौर्बल्यादाममेव) has no verb; its sense is only probable. "
                "असौ points back to the layer of unit 53, which this line does not name. The misprinted 'नाए', the parse of "
                "एकयोगक्षेमा and grahaṇī = duodenum or small-intestine region (disputed): no question on these."),
     "explain_hi": ("यह गद्य-पंक्ति ग्रहणी नाम का कारण बताती है: अन्न को ग्रहण करने (पकड़ने) से उसका नाम ग्रहणी है। "
                    "‘असौ’ (वह) इकाई ५३ की कला की ओर संकेत करता है, जिसका नाम यहाँ नहीं लिया गया। "
-                   "उसका बल पित्त ही है, जिसका नाम अग्नि है; अग्नि से सहारा पाकर वह शरीर को चलाती है। "
+                   "उसका बल पित्त ही है, जिसका नाम अग्नि है; वह शरीर को चलाती है; ‘अग्नि से सहारा पाकर’ एक सम्भावित सुधार (छपा ‘नाए’) पर टिका है। "
                    "पहला खण्ड (दोषों से अधिष्ठित होने पर दुर्बलता से केवल आम) बिना क्रिया का है, उसका अर्थ केवल सम्भावित है। "
-                   "ग्रहणी का आधुनिक नाम (ग्रहणी-भाग या छोटी आँत का क्षेत्र) विवादित है।"),
+                   "ग्रहणी का आधुनिक नाम (ड्यूओडिनम या छोटी आँत का क्षेत्र) विवादित है।"),
     "hook": "अन्न को ग्रहण करे, इसलिए ग्रहणी; बल उसका पित्त-अग्नि।",
     "core": True,
     "questions": [
@@ -187,7 +187,7 @@ AUTHORED["54"] = {
 AUTHORED["55"] = {
     "title": "सप्तमी शुक्रधरा नाम",
     "question": "By unit 55, where is Śukradharā placed, and what does it do?",
-    "rule": ("Seventh kalā: Śukradharā ('semen-bearing'). At two aṅgulas on the right side and below the bladder's opening, "
+    "rule": ("Seventh kalā: Śukradharā ('semen-bearing'). At two aṅgulas on the right side and below the opening of the basti (bladder, probable), "
              "resting on the urinary passage, pervading the whole body, it sets śukra (semen) in motion."),
     "limits": ("Prose. 'Two aṅgulas' from what is not stated: no question on it. basti = urinary bladder is probable here. "
                "The line does not say how śukra flows or pervades."),
@@ -212,7 +212,7 @@ AUTHORED["55"] = {
               "urinary passage; pervading the whole body; it sets śukra in motion.",
               "नाम → द्व्यंगुले... → बस्तिद्वारस्य चाधो → मूत्रमार्गमाश्रिता → सकलशरीरव्यापिनी → शुक्रं प्रवर्त्तयति."),
         match(2, "Match each word of unit 55 to its meaning.",
-              [["दक्षिण", "right"], ["पार्श्व", "flank, side"], ["बस्तिद्वार", "opening of the bladder"],
+              [["दक्षिण", "right"], ["पार्श्व", "flank, side"], ["बस्तिद्वार", "opening of the basti (bladder, probable)"],
                ["मूत्रमार्ग", "urinary passage"], ["व्यापिनी", "pervading"]],
               "On the right side, below the bladder's opening, on the urinary passage, pervading the body.",
               "दक्षिण, पार्श्व, बस्तिद्वार, मूत्रमार्ग, व्यापिनी.", role="extend",
@@ -226,7 +226,7 @@ AUTHORED["55"] = {
             "अ + अ → आ; अः + voiced consonant → ओ."),
         multi("apply", 4, "By unit 55, which describe the place of Śukradharā?",
               [("On the right side", "Right: दक्षिणे पार्श्वे."),
-               ("Below the bladder's opening", "Right: बस्तिद्वारस्य चाधः."),
+               ("Below the basti's opening", "Right: बस्तिद्वारस्य चाधः; basti = bladder, probable."),
                ("Above the navel, on the left", "The unit says the right side, and names no navel."),
                ("Resting on the urinary passage", "Right: मूत्रमार्गमाश्रिता."),
                ("Between the āma and pakva seats", "That is the place of Pittadharā (unit 53).")],
@@ -489,7 +489,7 @@ AUTHORED["60"] = {
             ("Through union with the mind", "तद्योगेन: by union with it, the mind."),
             [("Through the heat of Pitta", "Pitta's heat cooks the food in unit 53; it is not named here."),
              ("Through the strength of Kapha", "Kapha is not named in unit 60."),
-             ("Through the seven seats", "The seats are listed later (unit 62), not named here.")],
+             ("Through the seats (āśaya)", "The seats are listed later (unit 62), not named here.")],
             "Union with the mind makes the senses engage with their objects.",
             "तद्योगेन इन्द्रियाणामर्थप्रवृत्तिः."),
         order(1, "Put the words of unit 60 in the line's order.",
@@ -563,7 +563,7 @@ AUTHORED["61"] = {
             "इन्द्रिय (sense-organ) + उभय (both): अ + उ → ओ.",
             "अ + उ → ओ."),
         mcq("apply", 4, "What does the ablative ending -त्वात् express in unit 61?",
-            ("A reason: because of being", "The data: abl. sg.; English 'because of having the nature'."),
+            ("A reason: because of its being", "The data: abl. sg.; English 'because of having the nature'."),
             [("A place: in the state of being", "A place would need the locative (-त्वे)."),
              ("A purpose: for the sake of being", "A purpose would need the dative (-त्वाय)."),
              ("A time: at the moment of being", "Time would need the locative, not the ablative.")],
@@ -655,9 +655,9 @@ AUTHORED["63"] = {
     "questions": [
         mcq("pretest", 0, "By unit 63, which seat do women have in addition, as the eighth?",
             ("गर्भाशय (womb)", "गर्भाशयोऽष्टमः: the womb is the eighth."),
-            [("पक्वाशय (pakva seat)", "The pakva seat is one of the list of unit 62."),
-             ("आमाशय (āma seat)", "The āma seat is one of the list of unit 62."),
-             ("मूत्राधार (urine seat)", "The urine seat closes the list of unit 62.")],
+            [("पक्वाशय (pakva)", "The pakva seat is one of the list of unit 62."),
+             ("आमाशय (āma)", "The āma seat is one of the list of unit 62."),
+             ("मूत्राधार (urine)", "The urine seat closes the list of unit 62.")],
             "In women, the eighth seat is the garbhāśaya.",
             "स्त्रीणां ... गर्भाशयोऽष्टमः."),
         order(1, "Put the words of unit 63 in the line's order.",
@@ -757,7 +757,7 @@ NOTES_HI = {
 # ===================================================================== AIDS
 AIDS = {
     "52": {
-        "chunks": "पंचमी पुरीषधरानाम | मा (सा?) | ह्यंत्रामपक्वाशयाश्रिता | कोष्ठांतरुंदुकस्थं | मलं विभजति",
+        "chunks": "पंचमी पुरीषधरानाम | मा | ह्यंत्रामपक्वाशयाश्रिता | कोष्ठांतरुंदुकस्थं | मलं विभजति",
         "frame": "क्रम: चौथी श्लेष्मधरा (इकाई ५१) → पाँचवीं पुरीषधरा (यह इकाई) → छठी पित्तधरा (इकाई ५३)। काम: मल को अलग करना।",
         "sandhi": "इ + भिन्न स्वर → य्: हि + अन्त्र → ह्यन्त्र · अ + अ → आ: कोष्ठ + अन्तर् → कोष्ठान्तर्।",
     },
@@ -772,7 +772,7 @@ AIDS = {
     "54": {
         "diagram": {"groups": [
             {"label": "नाम का कारण", "items": ["अन्न का ग्रहण (पकड़ना)", "इसलिए नाम: ग्रहणी"]},
-            {"label": "बल", "items": ["उसका बल: पित्त ही", "पित्त का नाम: अग्नि", "अग्नि से सहारा पाकर", "शरीर को चलाती है"]}]},
+            {"label": "बल", "items": ["उसका बल: पित्त ही", "पित्त का नाम: अग्नि", "अग्नि से सहारा (सम्भावित सुधार)", "शरीर को चलाती है"]}]},
         "chunks": "दोषाधिष्ठिता तु दौर्बल्यादाममेव | ततोऽसावन्नस्य ग्रहणात् | पुनर्ग्रहणीसंज्ञा | बलं च तस्याः | "
                   "पित्तमेवाग्न्याभिधानम् | अतः साऽग्निना... | शरीरं वर्त्तयति",
         "anchors": "ग्रहण → ग्रहणी: जो अन्न को ग्रहण करे, वही ग्रहणी (शब्द से नाम; मेरी याद-पद्धति)।",
@@ -830,7 +830,7 @@ AIDS = {
     },
     "62": {
         "diagram": {"steps": ["असृक् (रक्त)", "कफ", "आम (कच्चा)", "पित्त", "पक्व (पका)", "वायु", "मूत्र"]},
-        "chunks": "समाशयाः (सप्ताशयाः?) | क्रमात् | असृक् कफ आम पित्त पक्व वायु मूत्र | आधाराः",
+        "chunks": "समाशयाः | क्रमात् | असृक् कफ आम पित्त पक्व वायु मूत्र | आधाराः",
         "letters": "क्रम के पहले अक्षर: अ-क-आ-पि-प-वा-मू। (मेरी याद-पद्धति)",
         "sandhi": "त् + स्वर → द्: क्रमात् + असृक् → क्रमादसृक् · अ + आ → आ: कफ + आम → कफाम।",
     },
@@ -862,7 +862,7 @@ IMAGE_SPECS = {
                  "  A[\"अन्न का ग्रहण\"] --> B[\"इसलिए नाम: ग्रहणी\"]\n"
                  "  C[\"उसका बल: पित्त ही\"]\n"
                  "  C --> D[\"पित्त का नाम: अग्नि\"]\n"
-                 "  D --> E[\"अग्नि से सहारा\"]\n"
+                 "  D --> E[\"अग्नि से सहारा (सम्भावित सुधार)\"]\n"
                  "  E --> F[\"शरीर को चलाती है\"]\n"),
     },
     ("55", "diagram"): {
