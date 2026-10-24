@@ -50,7 +50,7 @@ AUTHORED["52"] = {
                ("The ariṣṭa may be drunk after a fortnight", "Right: पक्षमेव वा, or just a fortnight."),
                ("The bark of the tilvaka root is taken", "Right: त्वचं तिल्वकमूलस्य."),
                ("The inner bark is kept and powdered", "No: the inner bark is discarded (त्यक्त्वा)."),
-               ("tilvaka is the same drug as rodhra", "No: line 05.02.94 names rodhra separately; tilvaka is disputed.")],
+               ("The ariṣṭa is drunk after a year", "No: the verse says a month (मास) or a fortnight (पक्ष).")],
               [0, 1, 2],
               "Two times of drinking for the ariṣṭa, then the root bark of tilvaka without its inner bark.",
               "मास / पक्ष · तिल्वकमूल-त्वच्, अभ्यन्तरवल्कल त्यक्त्वा."),
@@ -165,7 +165,7 @@ AUTHORED["54"] = {
              "भावितं पुनः = saturated, once more."),
         mcq("discriminate", 3, "By verse 54, how much of the dry powder is drunk?",
             ("A palmful (पाणितलम्)", "पाणितलं पिबेत् = one should drink a palmful (palm-surface)."),
-            [("A cupped-hands measure (अञ्जलि)", "The añjali appears in line 05.02.100, not here."),
+            [("A cupped-hands measure (अञ्जलि)", "No añjali is named in this verse."),
              ("One karṣa (कर्ष)", "No karṣa is named in this verse."),
              ("One pala (पल)", "No pala is named in this verse.")],
             "पाणितल = the surface of the palm, read as a palm-sized measure.",
@@ -198,7 +198,7 @@ AUTHORED["55"] = {
                "source of the urine is not stated. The printed kathite is read as kvathite, 'boiled' (text flag): no "
                "question on it. meṣaśṛṅgī = Gymnema sylvestre (probable); kola = jujube (probable)."),
     "explain_hi": ("यह पंक्ति बताती है कि तिल्वक का चूर्ण (प्रसंग से) किन द्रवों के साथ लिया जाए। "
-                   "पहली सूची: मस्तु यानी दही का पानी, मूत्र (किस पशु का, नहीं कहा), सुरामण्ड, कोल यानी बेर और धात्रीफल यानी आँवला, "
+                   "पहली सूची: मस्तु यानी दही का पानी, मूत्र (किस पशु का, नहीं कहा), सुरामण्ड, कोल यानी बेर (संभावित पहचान) और धात्रीफल यानी आँवला, "
                    "‘अम्बुभिः’ यानी जलों के साथ; यह शब्द केवल कोल और धात्री से भी जुड़ सकता है। "
                    "दूसरी सूची में चार द्रव्यों वाला जल है: मेषशृङ्गी यानी मेढ़ासिंगी (संभावित पहचान), अभया यानी हरड़, कृष्णा यानी पीपर और चित्रक यानी चीता। "
                    "छपा ‘कथिते’ शायद ‘क्वथिते’ (उबाले गए) की भूल है; वाक्य पंक्ति ०५.०२.९९ में चलता है।"),
@@ -232,12 +232,12 @@ AUTHORED["55"] = {
             "मेषशृङ्गी (f.) + अभया (f.): ई + अ → य.",
             "इ/ई + unlike vowel → य्."),
         multi("apply", 4, "Which drugs does the second compound of verse 55 (ending -चित्रकैः) name?",
-              [("meṣaśṛṅgī (मेषशृङ्गी)", "Right: the first member."),
+              [("dhātrī fruit (धात्रीफल)", "No: dhātrī fruit is in the first compound of the first line."),
+               ("meṣaśṛṅgī (मेषशृङ्गी)", "Right: the first member."),
                ("abhayā (अभया)", "Right: the second member, harītakī."),
-               ("kṛṣṇā (कृष्णा)", "Right: the third member, long pepper."),
-               ("dhātrī fruit (धात्रीफल)", "No: dhātrī fruit is in the first compound of the first line."),
-               ("rodhra (रोध्र)", "No: rodhra is not named in this verse.")],
-              [0, 1, 2],
+               ("rodhra (रोध्र)", "No: rodhra is not named in this verse."),
+               ("kṛṣṇā (कृष्णा)", "Right: the third member, long pepper.")],
+              [1, 2, 4],
               "मेषशृङ्ग्यभयाकृष्णाचित्रकैः = with meṣaśṛṅgī, abhayā, kṛṣṇā and citraka.",
               "मेषशृङ्गी · अभया · कृष्णा · चित्रक."),
         mcq("transfer", 5,
@@ -278,17 +278,16 @@ AUTHORED["56"] = {
             "कल्क = paste; रोध्र = lodhra.",
             "यदा सौवीरकं जातं → तदा रोध्रकल्कं पिबेत्."),
         match(1, "Match each clear word of verse 56 to its meaning.",
-              [["सुनुयात्", "one should press out"], ["जातम्", "has become"], ["यदा", "when"],
+              [["पिबेत्", "one should drink"], ["जातम्", "has become"], ["यदा", "when"],
                ["तदा", "then"], ["कल्क", "paste"]],
               "Only the clear words of the verse are matched; mairujān and the measure word stay open.",
-              "सुनुयात् = should press out; जातम् = become; यदा = when; तदा = then; कल्क = paste."),
-        order(2, "Put the clear stages of verse 56 in the text's order.",
-              ["सुनुयात् (press out)", "जातं सौवीरकं यदा (when sauvīraka has formed)",
-               "रोध्रकल्कं पिबेत्तदा (then drink the rodhra paste)"],
-              "Pressing out, the forming of sauvīraka, then the rodhra paste.",
-              "सुनुयात् · जातं सौवीरकं यदा · रोध्रकल्कं पिबेत्तदा.",
+              "पिबेत् = should drink; जातम् = become; यदा = when; तदा = then; कल्क = paste."),
+        order(2, "Put these printed words of the first line of verse 56 in their order.",
+              ["सुनुयात्तच्च", "जातं", "सौवीरकं", "यदा"],
+              "The printed first line after its unclear first word, word by word; its sense is tentative.",
+              "(मैरुजान्) · सुनुयात्तच्च · जातं · सौवीरकं · यदा.",
               role="extend",
-              teaches="The verse ties a time clause (यदा) to the instruction that follows it (तदा)."),
+              teaches="The first line ends with यदा (when), the clause that the second line answers with तदा (then)."),
         mcq("discriminate", 3, "Which split of पिबेत्तदा is right?",
             ("पिबेत् + तदा", "त् before त stays त्: पिबेत् + तदा → पिबेत्तदा."),
             [("पिबेत् + अदा", "त् + अ would give द: पिबेददा."),
@@ -304,7 +303,7 @@ AUTHORED["56"] = {
             "यदा ... तदा: the drink follows the forming of the sauvīraka.",
             "जातं सौवीरकं (यदा) → रोध्रकल्कं पिबेत् (तदा)."),
         mcq("transfer", 5,
-            "Invented: यदा ज्वरः शान्तः भवेत्, ____ अन्नं दद्यात्. Which word answers यदा here?",
+            "Invented: यदा ज्वरः शान्तो भवेत्, ____ अन्नं दद्यात्. Which word answers यदा here?",
             ("तदा", "यदा (when) is answered by तदा (then), as in verse 56."),
             [("यदा", "A second यदा would repeat 'when'; the answer needs 'then'."),
              ("कदा", "कदा asks 'when?'; it does not answer a यदा clause."),
@@ -389,8 +388,8 @@ AUTHORED["58"] = {
     "explain_hi": ("पहली पंक्ति पिछले योग को पूरा करती है: तिल्वक के काढ़े, कल्क और शर्करा वाला, घी के साथ पकाया गया लेह यानी चाटने योग्य गाढ़ा योग। "
                    "वह श्रेष्ठ विरेचन यानी दस्त द्वारा शोधन है। "
                    "दूसरी पंक्ति से सुधा यानी थूहर (दूध वाला, काँटेदार Euphorbia; प्रजाति विवादित) का प्रकरण शुरू होता है। "
-                   "सुधा दोषों के बड़े संचय को भी भेद देती है, यानी तोड़कर निकाल देती है। "
-                   "इसी तीव्रता के कारण अगली पंक्ति (०५.०२.१०५) सावधानी बताती है।"),
+                   "सुधा दोषों के बड़े संचय को भी भेद देती है, यानी तोड़ देती है। "
+                   "अगली पंक्ति (०५.०२.१०५) इसके प्रयोग में सावधानी बताती है।"),
     "hook": "घी वाला तिल्वक-लेह: श्रेष्ठ विरेचन। थूहर: दोषों का बड़ा ढेर भी तोड़ दे।",
     "core": True,
     "questions": [
@@ -423,7 +422,7 @@ AUTHORED["58"] = {
         mcq("apply", 4, "A student calls the leha of verse 58 an emetic. What does the verse call it?",
             ("An excellent purgation (virecana)", "स च श्रेष्ठं विरेचनम् = and that is an excellent purgation."),
             [("An excellent emetic (vamana)", "विरेचन is purgation by the bowel, not vomiting."),
-             ("A mild remedy for children", "Children are among those in whom sudhā is not used, line 05.02.106."),
+             ("A mild remedy for children", "The verse calls it श्रेष्ठं विरेचनम्; it says nothing of mildness or children."),
              ("A remedy to be avoided by all", "The verse praises it as श्रेष्ठ, excellent.")],
             "विरेचन = purgation (evacuation by the bowel).",
             "लेहः → श्रेष्ठं विरेचनम्."),
@@ -447,10 +446,10 @@ AUTHORED["59"] = {
              "koṣṭha, the weak, a child, an old person, or one long diseased."),
     "limits": ("Low confidence. The sense of kaṣṭa-vibhraṃśa ('painful falling away', rendered 'ruin') and whether āśu "
                "goes with it or with the verb are open: no question on them. The printed -āṃnn- is a misprint (text "
-               "flag). koṣṭha = storehouse, the belly; a 'soft koṣṭha' is one easily purged."),
-    "explain_hi": ("सुधा की तीव्रता के कारण यह श्लोक बताता है कि किनमें इसे नहीं देना चाहिए (‘नैव ... कल्पयेत्’)। "
+               "flag). koṣṭha = storehouse / belly; the verse does not explain what a soft koṣṭha is."),
+    "explain_hi": ("यह श्लोक बताता है कि किनमें इसे नहीं देना चाहिए (‘नैव ... कल्पयेत्’)। "
                    "कारण ‘कष्टविभ्रंश’ बताया गया है, यानी कष्टदायक हानि या गिरावट; इसका ठीक अर्थ और ‘आशु’ का जोड़ अनिश्चित है। "
-                   "पाँच प्रकार के लोग गिनाए गए हैं: मृदु कोष्ठ वाला (जिसका पेट जल्दी साफ़ हो), अबल यानी दुर्बल, बाल यानी बच्चा, "
+                   "पाँच प्रकार के लोग गिनाए गए हैं: मृदु कोष्ठ वाला (जिसका कोष्ठ यानी पेट कोमल हो), अबल यानी दुर्बल, बाल यानी बच्चा, "
                    "स्थविर यानी बूढ़ा और दीर्घरोगी यानी लम्बे समय का रोगी। "
                    "अगली पंक्ति (०५.०२.१०७) बताती है कि किनमें इसका प्रयोग करना चाहिए।"),
     "hook": "थूहर नहीं: कोमल पेट, कमज़ोर, बच्चा, बूढ़ा, पुराना रोगी।",
@@ -465,7 +464,7 @@ AUTHORED["59"] = {
             "The five: soft koṣṭha, weak, child, old, long diseased.",
             "मृदुकोष्ठ · अबल · बाल · स्थविर · दीर्घरोगी → नैव कल्पयेत्."),
         match(1, "Match each person of verse 59 to its meaning.",
-              [["मृदु कोष्ठ", "a soft koṣṭha (easily purged)"], ["अबल", "a weak one"], ["बाल", "a child"],
+              [["मृदु कोष्ठ", "a soft koṣṭha (belly)"], ["अबल", "a weak one"], ["बाल", "a child"],
                ["स्थविर", "an old person"], ["दीर्घरोगी", "one long diseased"]],
               "Five locatives name the persons in whom sudhā is not employed.",
               "मृदु कोष्ठ = soft koṣṭha; अबल = weak; बाल = child; स्थविर = old; दीर्घरोगी = long diseased."),
@@ -515,7 +514,7 @@ AUTHORED["60"] = {
                    "दूसरी पंक्ति: पाण्डु यानी रक्ताल्पता (संभावित), दूषीविष यानी शरीर में टिका धीमा विष, शोफ यानी सूजन, "
                    "और दोषों से भ्रान्त चित्त वाला रोगी। "
                    "‘उदर’ यहाँ पेट है या पेट का रोग, यह खुला प्रश्न है।"),
-    "hook": "थूहर हाँ: गाँठ, पेट, मधुमेह; पीलापन, टिका विष, सूजन, भ्रमित मन।",
+    "hook": "थूहर हाँ: गाँठ, पेट, मधुमेह; फीकापन, टिका विष, सूजन, भ्रमित मन।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -731,12 +730,12 @@ AUTHORED["63"] = {
             "ततः = then; अंगारेषु = on embers (loc. pl.).",
             "अः + अ → ओऽ."),
         multi("apply", 4, "By verse 63, with which of these is the pill drunk?",
-              [("mastu (मस्तु)", "Right: whey, the first member."),
+              [("honey (मधु)", "No: honey is not named in this verse."),
+               ("mastu (मस्तु)", "Right: whey, the first member."),
                ("urine (मूत्र)", "Right: the second member; the animal is not stated."),
                ("surā (सुरा)", "Right: the third member, followed by आदि, 'and the like'."),
-               ("honey (मधु)", "No: honey is not named in this verse."),
                ("sesame oil (तैल)", "No: oil is not named in this verse.")],
-              [0, 1, 2],
+              [1, 2, 3],
               "मस्तुमूत्रसुरादिभिः = with mastu, urine, surā and the like.",
               "मस्तु · मूत्र · सुरा · आदि."),
         mcq("transfer", 5,
@@ -817,7 +816,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "पहली पंक्ति", "items": ["गुल्म", "उदर", "(बिगड़ा शब्द)", "मधुमेह"]},
                                {"label": "दूसरी पंक्ति", "items": ["पाण्डु", "दूषीविष", "शोफ", "दोषविभ्रान्तचेतस्"]}]},
         "chunks": "कल्प्या गुल्मोदरगत्व्रोग | मधुमेहिषु || पांडौ दूषीविषे शोफे | दोषविभ्रांतचेतसि",
-        "contrast": "श्लोक ५९: नैव कल्पयेत् (मृदु कोष्ठ, अबल, बाल, स्थविर, दीर्घरोगी) · श्लोक ६०: कल्प्या (गुल्म, उदर, मधुमेह, पाण्डु, दूषीविष, शोफ, भ्रान्तचित्त)।",
+        "contrast": "श्लोक ५९: नैव कल्पयेत् (मृदु कोष्ठ, अबल, बाल, स्थविर, दीर्घरोगी) · श्लोक ६०: कल्प्या (गुल्म, उदर, मधुमेह, पाण्डु, दूषीविष, शोफ, दोषों से भ्रान्त चित्त)।",
         "anchors": "कल्प्या = प्रयोग योग्य · गुल्म = पेट की गाँठ · पाण्डु = रक्ताल्पता · दूषीविष = टिका विष · शोफ = सूजन · चेतस् = मन।",
     },
     "61": {
@@ -864,11 +863,11 @@ IMAGE_SPECS = {
     },
     ("60", "contrast"): {
         "file": "ka2-sudha-vidhi-60.svg",
-        "alt": "Two-column picture of verses 59 and 60: not employed in soft koshtha, weak, child, old, long diseased; employed in gulma, udara, madhumeha, pandu, dushivisha, swelling, bewildered mind",
+        "alt": "Two-column picture of verses 59 and 60: not employed in soft koshtha, weak, child, old, long diseased; employed in gulma, udara, madhumeha, pandu, dushivisha, swelling, a mind bewildered by the doshas",
         "type": "split",
         "title": "सुधा: कहाँ नहीं, कहाँ हाँ",
         "cols": [["नहीं (श्लोक ५९)", ["मृदु कोष्ठ", "अबल", "बाल", "स्थविर", "दीर्घरोगी"]],
-                 ["कल्प्या (श्लोक ६०)", ["गुल्म", "उदर", "मधुमेह", "पाण्डु", "दूषीविष", "शोफ", "भ्रान्त चित्त"]]],
+                 ["कल्प्या (श्लोक ६०)", ["गुल्म", "उदर", "मधुमेह", "पाण्डु", "दूषीविष", "शोफ", "दोष से भ्रान्त चित्त"]]],
     },
     ("62", "chain"): {
         "file": "ka2-sudha-kshira-62.svg",
