@@ -954,14 +954,14 @@ IMAGE_SPECS = {
     },
     ("134", "diagram"): {
         "file": "sh6-pradushaka-134.svg",
-        "alt": ("Flowchart of unit 134: food and conduct that are equal to the doṣas in qualities and unlike the dhātus "
-                "in quality defile the srotas."),
+        "alt": ("Flowchart of unit 134: food and conduct, with two conditions side by side (equal to the doṣas in qualities, "
+                "unlike the dhātus in quality), lead to the defiler of the srotas."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"आहार\"] --> C[\"दोषों के गुणों के समान\"]\n"
-                 "  B[\"विहार\"] --> C\n"
-                 "  C --> D[\"धातुओं से भिन्न गुण\"]\n"
-                 "  D --> E[\"स्रोतसों का प्रदूषक\"]\n"),
+                 "  A[\"आहार और विहार\"] --> C[\"दोषों के गुणों के समान\"]\n"
+                 "  A --> D[\"धातुओं से भिन्न गुण\"]\n"
+                 "  C --> E[\"स्रोतसों का प्रदूषक\"]\n"
+                 "  D --> E\n"),
     },
     ("137", "diagram"): {
         "file": "sh6-paka-kala-137.svg",
