@@ -968,10 +968,10 @@ AIDS = {
 IMAGE_SPECS = {
     ("65", "diagram"): {
         "file": "ka3-virecana-drinks-65.svg",
-        "alt": "Mind map of the three drink alternatives of unit 65: the priyangu group with rice-water; lodhra with anjana and pomegranate skins; lotus, blue water lily, samanga and lotus filaments",
+        "alt": "Mind map of the three drink alternatives of unit 65 (first, second, third): the priyangu group with rice-water; lodhra with anjana and pomegranate skins; lotus, blue water lily, samanga and lotus filaments",
         "type": "mermaid",
-        "code": ('mindmap\n  पीने के विकल्प\n    प्रियङ्गु आदि\n      चावल के जल के साथ\n    लोध्र\n      अञ्जन सहित\n      अनार की त्वचाएँ\n'
-                 '    कमल\n      नीलकमल\n      समङ्गा\n      कमल के केसर\n'),
+        "code": ('mindmap\n  पीने के विकल्प\n    पहला\n      प्रियङ्गु आदि, चावल-जल से\n    दूसरा\n      लोध्र\n      अञ्जन सहित\n      अनार की त्वचाएँ\n'
+                 '    तीसरा\n      कमल\n      नीलकमल\n      समङ्गा\n      कमल के केसर\n'),
     },
     ("68", "chain"): {
         "file": "ka3-gudabhramsha-68.svg",
@@ -989,9 +989,9 @@ IMAGE_SPECS = {
     },
     ("73", "seesaw"): {
         "file": "ka3-food-test-73.svg",
-        "alt": "Flowchart: food mixed with the blood is either eaten, meaning jiva (life-blood), or not eaten, meaning pitta",
+        "alt": "Flowchart: food mixed with that (presumably the blood) is either eaten, meaning jiva (life-blood), or not eaten, meaning pitta",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["रक्त मिला अन्न"] --> B["खाया गया"]\n  A --> C["नहीं खाया गया"]\n'
+        "code": ('flowchart TD\n  A["उससे मिला अन्न"] --> B["खाया गया"]\n  A --> C["नहीं खाया गया"]\n'
                  '  B --> D["जीव"]\n  C --> E["पित्त"]\n'),
     },
     ("74", "diagram"): {

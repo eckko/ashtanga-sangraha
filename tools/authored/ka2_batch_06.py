@@ -8,9 +8,8 @@ AUTHORED["64"] = {
     "question": "Which drugs are steeped in snuk milk for seven days, and with what are they drunk?",
     "rule": ("The trivṛt group with varā, svarṇakṣīrī and sātalā, steeped (lit. 'drunk') in snuk milk for seven "
              "days, is drunk with juice or with ghee. The sentence runs over both lines."),
-    "limits": ("The printed trivṛtādīṃnnava is a doubtful join (text flag), and nava may be 'nine' or 'new': no question "
-               "on it. The drugs of the trivṛt group are not listed. varā is disputed (often read as triphalā); sātalā is "
-               "disputed; svarṇakṣīrī = Argemone mexicana, prickly poppy (probable). saptāham may also go with pibet."),
+    "limits": ("trivṛtādīṃnnava is a doubtful join (text flag); nava may be 'nine' or 'new': no question on it. The group "
+               "is not listed. varā and sātalā are disputed; svarṇakṣīrī = Argemone mexicana (probable). saptāham may go with pibet."),
     "explain_hi": ("यह स्नुक् यानी थूहर के दूध (सफ़ेद रस) वाले योगों का पहला श्लोक है। "
                    "त्रिवृत् यानी निशोथ आदि (छपा ‘नव’ शायद नौ), वरा, स्वर्णक्षीरी यानी संभवतः सत्यानाशी और सातला: इन द्रव्यों को सात दिन तक स्नुक् के दूध में भिगोया जाता है। "
                    "‘पीतान्’ का शाब्दिक अर्थ ‘पिए हुए’ है, यानी जिन्होंने दूध सोख लिया हो। "
@@ -423,7 +422,7 @@ AUTHORED["70"] = {
             "तद्गुल्मे = loc. sg., 'in its gulma'; अपि = also.",
             "ए + अ → एऽ."),
         mcq("transfer", 5,
-            "Like वातकफज (born of Vāta and Kapha), which invented compound means 'born of Pitta'?",
+            "Like वातकफज (born of Vāta and Kapha), which invented compound means born of Pitta?",
             ("पित्तज", "-ज (from √जन्) at the end of a compound means 'born of'."),
             [("पित्तघ्न", "-घ्न means 'destroying': 'destroying Pitta'."),
              ("पित्तहर", "-हर means 'removing': 'removing Pitta'."),
@@ -730,7 +729,7 @@ AUTHORED["75"] = {
               "gulmī, pramehī, jaṭharī and garī are named here, after the abhiṣyanna body.",
               "गुल्मी · प्रमेही · जठरी · गरी."),
         mcq("transfer", 5,
-            "Like गुल्म → गुल्मी (one having gulma), which word means 'one having fever (ज्वर)'?",
+            "Like गुल्म → गुल्मी (one having gulma), which word means one having fever (ज्वर)?",
             ("ज्वरी", "ज्वर + -इन् → ज्वरिन्, nom. sg. ज्वरी: 'one having fever'."),
             [("ज्वरा", "ज्वरा is not the -इन् form; it does not mean 'one having'."),
              ("ज्वरम्", "ज्वरम् is the accusative of ज्वर, 'the fever'."),
@@ -975,7 +974,7 @@ AUTHORED["79"] = {
             "-नुत् (from √नुद्) = pushing away, dispelling.",
             "X-नुत् = X को दूर करने वाला."),
         mcq("transfer", 5,
-            "Like दाहसन्तापमेहनुत्, which invented compound means 'dispelling fever'?",
+            "Like दाहसन्तापमेहनुत्, which invented compound means dispelling fever?",
             ("ज्वरनुत्", "-नुत् = dispelling: ज्वरनुत् 'dispelling fever'."),
             [("ज्वरज", "-ज means 'born of': 'born of fever'."),
              ("ज्वरी", "-ई (-इन्) means 'having': 'one having fever'."),
