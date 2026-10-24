@@ -9,10 +9,10 @@ AUTHORED["91"] = {
     "question": "By unit 91, what paste is given, and with which liquid?",
     "rule": ("Another option (वा) in the run of drinks for the aparā (placenta) that does not come out: a paste (kalka) of "
              "kuṣṭha (costus) and the root of lāṅgalī (probably gloriosa lily), with either madya or urine (अन्यतरेण)."),
-    "limits": ("Prose, no verb: the data carries पाययेत् (should give to drink) from unit 86. Printed मुल is probably "
+    "limits": ("Prose, no verb: the data carries पाययेत् (should give to drink) from unit 86. Printed मुल is possibly "
                "मूल (flag). Whether the root is of lāṅgalī only or of both is open. Whose urine, and any dose, are not stated."),
     "explain_hi": ("यह गद्य-पंक्ति अपरा (जेर) न गिरने पर पिलाए जाने वाले योगों में एक और विकल्प है (‘वा’ = या)। "
-                   "द्रव्य: कुष्ठ और लाङ्गली (सम्भवतः कलिहारी) की जड़ का कल्क, यानी पिसा हुआ गीला लेप। "
+                   "द्रव्य: कुष्ठ और लाङ्गली (सम्भवतः कलिहारी) की जड़ का कल्क, यानी पिसी हुई गीली लुगदी। "
                    "इसे मद्य या मूत्र में से किसी एक (अन्यतरेण) के साथ देना है; किस पशु का मूत्र, यह नहीं कहा। "
                    "पंक्ति में क्रिया नहीं है; डेटा के अनुसार ‘पाययेत्’ (पिलाए) इकाई 86 से समझी जाती है। "
                    "‘मूल’ केवल लाङ्गली की जड़ है या दोनों की, यह खुला है।"),
@@ -138,7 +138,7 @@ AUTHORED["93"] = {
     "hook": "चार द्रव्यों में पका तेल → उसका पिचु → धारण कराए।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 93, what should the woman be made to hold?",
+        mcq("pretest", 0, "By unit 93, what should be made to be held?",
             ("A cotton wad of the cooked oil", "तैलस्य पिचुं ग्राहयेत्: a picu of the oil, made to be held."),
             [("A pill made of asafoetida", "Hiṅgu is cooked into the oil; no pill is named."),
              ("A cup of the cooked decoction to drink", "The line speaks of oil and a picu, not a decoction."),
@@ -171,7 +171,7 @@ AUTHORED["93"] = {
               "Four named substances; the place of the picu is not stated; śatapuṣpā = dill is only probable.",
               "शतपुष्पा-कुष्ठ-मदन-हिङ्गु-सिद्ध तैल; स्थान अलिखित."),
         mcq("transfer", 5, "Built like ग्राहयेत् (should cause to hold), what does a new example भोजयेत् mean?",
-            ("Should feed (cause to eat)", "भोजयेत् is the causative optative of √भुज्, as ग्राहयेत् of √ग्रह्."),
+            ("Should cause to eat, feed", "भोजयेत् is the causative optative of √भुज्, as ग्राहयेत् of √ग्रह्."),
             [("Should eat, by oneself alone", "That would be the plain optative भुञ्जीत, not the causative."),
              ("Has eaten already", "-एत् here is an optative, not a past form."),
              ("Will eat tomorrow", "No future is formed; it is an optative.")],
@@ -223,7 +223,7 @@ AUTHORED["94"] = {
             ("ए stays, and the next अ drops (ऽ)", "Final ए before अ stays; the अ is dropped and marked by ऽ."),
             [("ए and अ fuse into the vowel ऐ", "ए + अ does not give ऐ; ऐ comes from अ + ए."),
              ("The ऽ marks a dropped visarga here", "No visarga stands here; ऽ marks the dropped अ."),
-             ("ए turns into य् before the अ", "य् comes from इ or ई before a vowel, not from ए.")],
+             ("ए turns into य् before the अ", "ए becomes अय् before some vowels, never plain य्; before अ it stays and the अ drops.")],
             "काले + अनुवासयेत् = कालेऽनुवासयेत्: ए kept, अ elided, ऽ written.",
             "ए + अ → एऽ."),
         mcq("transfer", 5, "By the rule of कालेऽनुवासयेत्, how is वने + अस्ति (it is in the forest) joined?",
@@ -243,8 +243,9 @@ AUTHORED["95"] = {
     "question": "By unit 95, with which dips is something done here?",
     "rule": ("And with the dips (āplavana) beginning with bilva, bilvaja and yūṣa (soup). The same dips were named in "
              "unit 88."),
-    "limits": ("Prose, no verb. The data says it seems to go with the āsthāpana of unit 96 or the anuvāsana of unit 94; "
-               "which is left open. Bilvaja is unclear (see unit 86). No question on either point."),
+    "limits": ("Prose, no verb; it goes with the āsthāpana of unit 96 or the anuvāsana of unit 94 (open). Bilvaja is "
+               "unclear, and unit 86's data notes the head may also be read bilva + bilvaja-yūṣa. No question on these "
+               "points."),
     "explain_hi": ("यह पंक्ति केवल एक तृतीया वाक्यांश है: ‘और बिल्व, बिल्वज, यूष आदि आप्लवनों से’। "
                    "इसकी अपनी क्रिया नहीं है; डेटा के अनुसार यह इकाई 96 के आस्थापन से जुड़ती लगती है, या इकाई 94 के अनुवासन से — तय नहीं। "
                    "यही आप्लवन इकाई 88 में भी आए थे (गधे या बैल के कान वाले योग में)। "
@@ -324,7 +325,7 @@ AUTHORED["96"] = {
               ["फल", "जीमूतक", "इक्ष्वाकु", "धामार्गव", "कुटज"],
               "Phala, jīmūtaka, ikṣvāku, dhāmārgava, kuṭaja; then the unclear part.",
               "फल → जीमूतक → इक्ष्वाकु → धामार्गव → कुटज."),
-        match(2, "Match each name of unit 96 to the identification its data gives.",
+        match(2, "Match each word of unit 96 to the meaning its data gives.",
               [["जीमूतक", "Luffa echinata, probable"], ["इक्ष्वाकु", "bitter bottle gourd, probable"],
                ["कुटज", "Holarrhena, standard"], ["कृतवेधन", "ridge gourd, probable"], ["उपहित", "furnished with"]],
               "Each name keeps the data's label.",
@@ -362,12 +363,12 @@ AUTHORED["97"] = {
     "rule": ("With (a liquid) mixed with siddhārthaka (probably white mustard), kuṣṭha, lāṅgalī and the milky sap of "
              "mahāvṛkṣa (disputed), or with surā-maṇḍa; having pounded the stalks of śālmalī (silk-cotton tree), one "
              "should crush (them) in a decoction of the five roots (pañcamūla)."),
-    "limits": ("Low confidence; the sentence is elliptical and its syntax uncertain: the noun of the first phrase is not "
-               "stated, स्त्रिञ्चानि is unclear and the वा joining it is a guess. Which pañcamūla is not stated. "
-               "Mahāvṛkṣa is disputed. No question on these points."),
+    "limits": ("Low confidence; syntax uncertain: the first phrase's noun is unstated, स्त्रिञ्चानि is unclear, the वा "
+               "joining it a guess; mahāvṛkṣa is disputed. No question rests on these; one checks only that the text "
+               "does not say which pañcamūla."),
     "explain_hi": ("यह कठिन, अधूरा-सा वाक्य है। पहला अंश: सिद्धार्थक (सफेद सरसों, पहचान सम्भावित), कुष्ठ, लाङ्गली और महावृक्ष "
                    "(पहचान विवादित) के क्षीर से मिले हुए (किसी द्रव) से, या सुरामण्ड से। "
-                   "निश्चित अंश: शाल्मली के डण्ठलों को कूटकर (आपोथ्य) पञ्चमूल के काढ़े में मसलना (विमर्दयेत्) चाहिए। "
+                   "डेटा का पाठ: शाल्मली के डण्ठलों को कूटकर (आपोथ्य) पञ्चमूल के काढ़े में मसलना (विमर्दयेत्) चाहिए। "
                    "‘स्त्रिञ्चानि’ अस्पष्ट शब्द है; उसे ‘वा’ से डण्ठलों के साथ जोड़ना अनुमान है। "
                    "पञ्चमूल बड़ा है या छोटा, नहीं कहा। डेटा के अनुसार यह इकाई 96 के बस्ति-योगों का ही आगे का भाग लगता है।"),
     "hook": "शाल्मली-डण्ठल कूटो → पञ्चमूल-काढ़े में मसलो।",
@@ -423,12 +424,12 @@ AUTHORED["98"] = {
     "rule": ("With that, strained (पूत), oily, joined with phala and the rest, with kaṭutaila (pungent oil, probably "
              "mustard oil) cooked with the āsthāpana substances as stated, one should give an uttarabasti."),
     "limits": ("Low confidence. The adjectives may all describe the kaṭutaila or a separate liquid; the grammar allows "
-               "both. Whether the uttarabasti goes through the urethra or the female passage is not stated. "
-               "Kaṭutaila = mustard oil is probable. No question on these points."),
+               "both: no question on this. Whether the uttarabasti goes through the urethra or the female passage is not "
+               "stated; one question checks only that. Kaṭutaila = mustard oil is probable."),
     "explain_hi": ("यह उत्तरबस्ति का विधान है: कटु तेल (सम्भवतः सरसों का तेल), जो यथोक्त आस्थापन-द्रव्यों से पकाया गया है, उससे उत्तरबस्ति दे। "
                    "बीच के विशेषण — छाना हुआ (पूत), स्नेह वाला, फल आदि से युक्त — कटु तेल के हैं या किसी अलग द्रव के, व्याकरण दोनों मानता है। "
                    "उत्तरबस्ति मूत्रमार्ग या स्त्री-मार्ग से दी जाने वाली बस्ति का मानक नाम है; यहाँ कौन-सा मार्ग, नहीं कहा। "
-                   "‘यथोक्त’ = जैसा कहा गया; यानी इकाई 96 जैसे आस्थापन-द्रव्य।"),
+                   "‘यथोक्त’ = जैसा कहा गया; यानी पहले कहे गए आस्थापन-द्रव्य (कौन-से, डेटा नहीं बताता)।"),
     "hook": "आस्थापन-द्रव्यों में पका कटु तेल → उत्तरबस्ति।",
     "core": True,
     "questions": [
@@ -485,12 +486,12 @@ AUTHORED["99"] = {
     "limits": ("Prose. The data takes the paste as of the first five drugs, then milk and cow's urine; no question on "
                "that parse. Sumukha, ajājī and kaṭutaila are probable identifications. The printed ना ऽ in "
                "कटुतैलेनाऽनुवासयेत् is the print's habit for अ + अ. No dose."),
-    "explain_hi": ("यह अनुवासन का दूसरा विकल्प है: शिग्रु (सहजन), सुमुख (सम्भवतः एक तुलसी), मरिच (काली मिर्च), "
+    "explain_hi": ("या (वा): शिग्रु (सहजन), सुमुख (सम्भवतः एक तुलसी), मरिच (काली मिर्च), "
                    "अजाजी (सम्भवतः जीरा) और चित्रक (चीता) के कल्क, दूध और गोमूत्र से पकाए हुए कटु तेल "
                    "(सम्भवतः सरसों का तेल) से अनुवासन दे। "
                    "डेटा यह विभाग मानता है: कल्क पहले पाँच का, फिर दूध और गोमूत्र। "
                    "‘कटुतैलेनाऽनुवासयेत्’ में ‘ऽ’ छपाई की आदत है: कटुतैलेन + अनुवासयेत् (अ + अ → आ)। "
-                   "पिछली इकाई में यही कटु तेल उत्तरबस्ति के लिए था; यहाँ अनुवासन के लिए।"),
+                   "पिछली इकाई में कटु तेल (आस्थापन-द्रव्यों से पका) उत्तरबस्ति के लिए था; यहाँ दूसरे द्रव्यों से पका कटु तेल अनुवासन के लिए है।"),
     "hook": "सहजन, सुमुख, मरिच, अजाजी, चित्रक + दूध + गोमूत्र → कटु तेल → अनुवासन।",
     "core": False,
     "questions": [
@@ -544,9 +545,8 @@ AUTHORED["100"] = {
     "question": "By unit 100, what two hand-and-filling measures are given?",
     "rule": ("Either fill the yoni (female genital passage) with picchā of umā (probably flax) and śālmalī, with ghee, and "
              "shake; or, with an oiled hand whose nails are cut, remove, following the mālā (sense unclear)."),
-    "limits": ("Two printed lines joined; low confidence. Picchā = gum of śālmalī and umā = flax are probable. The objects "
-               "of shake and remove are not stated, and the sense of mālā is unclear: no question on them. The data "
-               "marks the unit verse, but the lines read as prose instructions."),
+    "limits": ("Prose; two printed lines joined; low confidence. Picchā = gum of śālmalī and umā = flax are probable. The "
+               "objects of shake and remove are not stated, and the sense of mālā is unclear: no question on them."),
     "explain_hi": ("दो विकल्प (‘वा … वा’) हैं। पहला: घी सहित उमा (सम्भवतः अलसी) और शाल्मली की पिच्छा "
                    "(सम्भवतः सेमल का गोंद) से योनि भरकर हिलाए। "
                    "दूसरा: स्निग्ध (तेल लगे), कटे नाखून वाले हाथ से ‘माला के अनुसार’ हटाए; ‘माला’ का अर्थ यहाँ अस्पष्ट है। "
@@ -574,7 +574,7 @@ AUTHORED["100"] = {
               "सघृत, पूरयित्वा, विधुनुयात्, स्निग्ध, अपहरेत्.", role="extend",
               teaches="पूरयित्वा is an absolutive (having filled): it comes before the main verb विधुनुयात्."),
         mcq("discriminate", 3, "In कृत्तनखेन पाणिना, what does कृत्तनख mean?",
-            ("Whose nails are cut (the hand)", "A bahuvrīhi: it describes the hand, whose nails are cut."),
+            ("Whose nails are cut", "A bahuvrīhi: it describes the hand, whose nails are cut."),
             [("The nails that cut the hand", "The nails are the ones cut, not the cutters."),
              ("A hand and the cut nails", "It is not a dvandva of two things."),
              ("Cutting that is done by the nails", "कृत्त is a past participle, cut.")],
@@ -705,7 +705,7 @@ AUTHORED["102"] = {
               "Two vehicles, joined by वा: ghee or pleasantly warm water.",
               "सर्पिषा सुखोष्णोदकेन वा."),
         mcq("transfer", 5, "By सर्पिषा (with ghee, from सर्पिस्), what is the instrumental of मनस् (mind)?",
-            ("मनसा", "An -स् stem takes -आ in the instrumental: मनसा, like सर्पिस् → सर्पिषा."),
+            ("मनसा", "An -स् stem takes -आ in the instrumental: मनसा, like सर्पिस् → सर्पिषा (स् becomes ष् after इ)."),
             [("मनसेन", "-एन belongs to अ-stems, not to -स् stems."),
              ("मनसि", "मनसि is the locative: in the mind."),
              ("मनः", "मनः is the nominative: the mind.")],
@@ -748,7 +748,7 @@ NOTES_HI = {
     "99": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। डेटा का विभाग: कल्क पहले पाँच द्रव्यों का, फिर क्षीर और गोमूत्र। सुमुख = सम्भवतः एक तुलसी "
            "(कुछ सूचियों में विवादित); अजाजी = सम्भवतः जीरा। सन्धि जाँची: मरिच + अजाजी → मरिचाजाजी (अ + अ → आ); "
            "कटुतैलेन + अनुवासयेत् → छपा ‘कटुतैलेनाऽनुवासयेत्’ (अ + अ → आ; ‘ऽ’ छपाई की आदत)।"),
-    "100": ("डेटा में प्रकार ‘verse’, पर दोनों छपी पंक्तियाँ गद्य-निर्देश जैसी लगती हैं (रिपोर्ट किया); विश्वास निम्न; दो छपी पंक्तियाँ जोड़ी गईं। "
+    "100": ("गद्य; विश्वास निम्न; दो छपी पंक्तियाँ जोड़ी गईं। "
             "[02.03.107] पिच्छा = सम्भवतः शाल्मली का गोंद; उमा = सम्भवतः अलसी (उमा हल्दी आदि का भी नाम); ‘विधुनुयात्’ का कर्म अलिखित। "
             "[02.03.108] ‘माला’ = हार, पंक्ति — यहाँ अर्थ अस्पष्ट; ‘अपहरेत्’ का कर्म अलिखित; ‘स्निग्ध’ = तेल लगा (या स्नेहयुक्त)। "
             "इन पर प्रश्न नहीं। सन्धि जाँची: माला + अनुसारतः → मालानुसारतः (आ + अ → आ); मालानुसारतः + अपहरेत् → मालानुसारतोऽपहरेत् "
@@ -813,7 +813,7 @@ AIDS = {
         "anchors": "याद-सूत्र: आ + √पुथ् → आपोथ्य; उपसर्ग है तो -य, नहीं तो -त्वा। (मेरी याद-पद्धति)",
     },
     "98": {
-        "chain": {"steps": ["यथोक्त आस्थापन-द्रव्य", "उनसे पका कटु तेल (सम्भवतः सरसों)", "छाना, स्नेहयुक्त, फल आदि सहित",
+        "chain": {"steps": ["यथोक्त आस्थापन-द्रव्य", "उनसे पका कटु तेल (सम्भवतः सरसों)", "तेन पूतेन स्नेहवता फलादियुक्तेन: तेल के विशेषण या अलग द्रव के, खुला",
                             "उत्तरबस्ति दे"]},
         "chunks": "तेन च पूतेन | स्नेहवता | फलादियुक्तेन | यथोक्तास्थापनद्रव्यसिद्धेन | कटुतैलेनोत्तरबस्तिं | दद्यात्",
         "sandhi": "आ + उ → ओ: यथा + उक्त → यथोक्त · अ + आ → आ: उक्त + आस्थापन → उक्तास्थापन · अ + उ → ओ: कटुतैलेन + उत्तरबस्तिम् → कटुतैलेनोत्तरबस्तिम्।",
@@ -887,8 +887,8 @@ IMAGE_SPECS = {
     },
     ("97", "chain"): {
         "file": "sh3-shalmali-vrinta-97.svg",
-        "alt": ("Numbered flowchart of the sure part of unit 97: 1 the stalks of śālmalī, 2 pounded, 3 in a decoction of the "
-                "five roots, 4 crushed."),
+        "alt": ("Numbered flowchart of the procedure of unit 97 as the data reads it: 1 the stalks of śālmalī, 2 pounded, "
+                "3 in a decoction of the five roots, 4 crushed."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"१ शाल्मली के डण्ठल\"] --> B[\"२ कूटकर (आपोथ्य)\"]\n"
