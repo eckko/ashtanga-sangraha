@@ -54,7 +54,7 @@ AUTHORED["90"] = {
               "ग्रहणी, पाण्डु, शोष, मोह, उदर: these five are in verse 90.",
               "ग्रहणी · पाण्डु · शोष · मोह · उदर → अपहाम्."),
         mcq("transfer", 5,
-            "Like ...अपहाम् qualifying हरीतकीम् (f. acc.), which form qualifies पथ्याम् (f. acc.) in 'removing Kapha' (invented)?",
+            "Like ...अपहाम् qualifying हरीतकीम् (f. acc.), which form qualifies पथ्याम् (f. acc.) as कफ-अपहा, removing Kapha (invented)?",
             ("कफापहाम्", "Feminine accusative singular, like पथ्याम् and हरीतकीम्."),
             [("कफापहम्", "That is the masculine or neuter form; पथ्या is feminine."),
              ("कफापहः", "That is masculine nominative; पथ्याम् is accusative."),
@@ -117,7 +117,7 @@ AUTHORED["91"] = {
             "मूत्रेण · वत्सकादेः · वा · निर्यूहेण: two ways, joined by 'or'.",
             "वा = or; निर्यूह = decoction."),
         mcq("transfer", 5,
-            "Like ससिन्धूत्थ...नागराम् ('together with rock salt...'), what does सघृतां पथ्याम् (invented) mean?",
+            "Like ससिन्धूत्थ...नागराम् (together with rock salt and the rest), what does सघृतां पथ्याम् (invented) mean?",
             ("pathyā together with ghee", "स- + घृत = 'with ghee', agreeing with पथ्याम्."),
             [("pathyā without any ghee", "'Without ghee' would be निर्घृताम्; स- means 'with'."),
              ("ghee instead of pathyā", "स- adds a companion; it does not replace the noun."),
@@ -197,10 +197,9 @@ AUTHORED["93"] = {
     "question": "From what are the pills of verse 93 made, of what size are they, and who takes them?",
     "rule": ("Pills are to be made from pathyā and trivṛt, with honey (kṣaudra) and juice; they are of the measure of a "
              "māṣa and dry, and one with yakṣman (a wasting disease) takes them."),
-    "limits": ("Two text flags: the printed pathyātrivṛddhāṃ has a faulty ending (read as the dual 'from pathyā and "
-               "trivṛt'), and the printed lihmāddhṛtadrutāḥ is read only on a conjecture as 'should lick, melted in ghee': "
-               "no question on how the pills are taken. kṣaudrarasa may also be one term, 'honey-juice'. yakṣman is "
-               "probably tuberculosis, a wider term. The māṣa measure is not converted."),
+    "limits": ("Text flags: pathyātrivṛddhāṃ has a faulty ending (read as a dual), and lihmāddhṛtadrutāḥ is only "
+               "conjectured as 'should lick, melted in ghee': no question on how the pills are taken. kṣaudrarasa may be "
+               "one term. yakṣman = tuberculosis is probable. māṣa is not converted."),
     "explain_hi": ("इस श्लोक में पथ्या यानी हरड़ और त्रिवृत् यानी निशोथ से गोलियाँ बनाने को कहा है, जो क्षौद्र यानी शहद और रस से युक्त हों। "
                    "गोलियाँ माष के परिमाण की और सूखी हों; माष एक छोटा माप है। "
                    "इन्हें यक्ष्मी यानी यक्ष्मन् (क्षय रोग, सम्भावित पहचान) से ग्रस्त व्यक्ति लेता है। "
@@ -334,10 +333,10 @@ AUTHORED["95"] = {
     "questions": [
         mcq("pretest", 0,
             "By verse 95, with what are the balls given to lick?",
-            ("With fresh butter (navanīta)", "नवनीतेन लेहयेत् = should make (him) lick with fresh butter."),
+            ("With fresh butter", "नवनीतेन लेहयेत् = should make (him) lick with fresh butter."),
             [("With castor oil (eraṇḍa)", "Castor oil belongs to line 05.02.179, not this verse."),
              ("With jaggery (guḍa)", "Jaggery belongs to line 05.02.172, not this verse."),
-             ("With honey (madhu)", "No honey is named in this verse.")],
+             ("With honey and ghee", "Neither honey nor ghee is named in this verse.")],
             "नवनीत = fresh butter; लेहयेत् = should make lick.",
             "मोदकान् → नवनीतेन लेहयेत्."),
         match(1, "Match each word of verse 95 to its meaning on the card.",
@@ -491,7 +490,7 @@ AUTHORED["97"] = {
               "संश्लेष, विश्लेष, काल, संस्कार, युक्ति: the five means.",
               "संश्लेष · विश्लेष · काल · संस्कार · युक्ति."),
         mcq("transfer", 5,
-            "Like अल्पकर्मता (smallness of action, abstract noun in -ता), which word means 'lightness' from लघु (invented)?",
+            "Like अल्पकर्मता (smallness of action, abstract noun in -ता), which word means lightness, from लघु (invented)?",
             ("लघुता", "-ता makes an abstract noun: लघु 'light' → लघुता 'lightness'."),
             [("लघुतर", "-तर makes a comparative: 'lighter'."),
              ("लघुतम", "-तम makes a superlative: 'lightest'."),
@@ -522,7 +521,7 @@ AUTHORED["98"] = {
             "By verse 98, purgatives are given with things agreeable to what?",
             ("To the mind (मनः)", "मनोऽनुकूलैः = with (things) agreeable to the mind."),
             [("To the doṣa", "No doṣa is named in this verse."),
-             ("To the season", "No season is named in this verse."),
+             ("To the season (ṛtu)", "No season is named in this verse."),
              ("To the belly", "The belly (koṣṭha) is not named in this verse.")],
             "मनः = mind; अनुकूल = agreeable.",
             "तैस्तैश्च मनोऽनुकूलैः युक्तानि."),
@@ -552,7 +551,7 @@ AUTHORED["98"] = {
             "देय = to be given; it agrees with विरेचनानि (n. nom. pl.).",
             "युक्तानि देयानि विरेचनानि."),
         mcq("transfer", 5,
-            "Like देयानि विरेचनानि (to be given, from √दा), which form means 'to be drunk' (√पा) with विरेचनानि (invented)?",
+            "Like देयानि विरेचनानि (to be given, from √दा), which form means to be drunk (√पा), with विरेचनानि (invented)?",
             ("पेयानि", "The gerundive in -य: √पा → पेय, neuter plural पेयानि."),
             [("पीतानि", "पीतानि is the past participle: 'drunk'."),
              ("पिबन्ति", "पिबन्ति is a present verb: 'they drink'."),
@@ -765,9 +764,10 @@ IMAGE_SPECS = {
     },
     ("98", "diagram"): {
         "file": "ka2-manonukula-98.svg",
-        "alt": "Mind map of verse 98: purgatives given with tvak, kesara, amrataka, pomegranate, cardamom, rock sugar, makshika, citron, with madya and things agreeable to the mind",
-        "type": "mermaid",
-        "code": ('mindmap\n  विरेचन के साथ\n    द्रव्य\n      त्वक्\n      केसर\n      आम्रातक\n      दाडिम\n      एला\n      सितोपला\n      माक्षिक\n      मातुलुङ्ग\n'
-                 '    मद्य\n    मन के अनुकूल\n'),
+        "alt": "Two-column picture of verse 98: purgatives given with tvak, kesara, amrataka, pomegranate, cardamom, rock sugar, makshika, citron; and with madya and things agreeable to the mind",
+        "type": "split",
+        "title": "श्लोक ९८: विरेचन के साथ",
+        "cols": [["द्रव्य", ["त्वक्", "केसर", "आम्रातक", "दाडिम", "एला", "सितोपला", "माक्षिक", "मातुलुङ्ग"]],
+                 ["और", ["मद्य", "मन के अनुकूल वस्तुएँ"]]],
     },
 }
