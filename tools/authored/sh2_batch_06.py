@@ -135,7 +135,7 @@ AUTHORED["66"] = {
                    "‘अतः’ का अर्थ यहाँ ‘इससे’ है, यानी ऊपर कही स्वाभाविक अवस्था से। "
                    "किस प्रकार का असामान्य जन्म, यह पंक्ति नहीं बताती। "
                    "सन्धि: विकृतिः + अतः → विकृतिरतः (इ के बाद विसर्ग स्वर से पहले र्), अतः + अन्यथा → अतोऽन्यथा (अः + अ → ओऽ)।"),
-    "hook": "अतो अन्यथा = विकृति: स्वाभाविक से हटकर जो हो।",
+    "hook": "अतः अन्यथा = विकृति: स्वाभाविक से हटकर जो हो।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 66, what is called vikṛti (abnormality)?",
@@ -249,10 +249,10 @@ AUTHORED["68"] = {
     "question": "By unit 68, how is the embryo's sex declared from what the woman touches at the time of the question?",
     "rule": ("At the time of the question, whatever limb or external substance having a gender (liṅga) the woman "
              "touches, one should declare her embryo to be of that same gender."),
-    "limits": ("A prognostic statement of the classical text, reported as stated. The printed यद्दिंगम् is probably "
-               "यल्लिंगम् (flagged); no question rests on it. The text does not say how the gender of a thing is judged, "
-               "nor who declares (the subject of आदिशेत् is unstated)."),
-    "explain_hi": ("प्रश्न के समय (जब गर्भ के विषय में पूछा जाए) स्त्री जिस लिंग वाले अंग या बाहरी द्रव्य को छूती है, "
+    "limits": ("The classical text's prognostic statement, reported as stated. The data reads printed यद्दिंगम् as यत्-लिङ्गम् "
+               "(whichever gender); यल्लिंगम् is a possible correction (flagged); no question asks about that spelling or "
+               "its sandhi. How a thing's gender is judged, and who declares, are not stated."),
+    "explain_hi": ("प्रश्न के समय (प्रसंग से, गर्भ के विषय में पूछे जाने पर) स्त्री जिस लिंग वाले अंग या बाहरी द्रव्य को छूती है, "
                    "उसके गर्भ को उसी लिंग का बताना चाहिए। ‘आदिशेत्’ विधिलिङ् है: ‘बताए’; बताने वाला कौन है, लिखा नहीं। "
                    "किसी वस्तु का लिंग कैसे तय हो, ग्रन्थ नहीं बताता। "
                    "‘तल्लिंगम्’ में तत् + लिङ्गम् है (त् + ल → ल्ल)। यह प्राचीन ग्रन्थ का कथन है।"),
@@ -290,7 +290,7 @@ AUTHORED["68"] = {
              ("That her embryo is neuter", "Neuter would follow a thing of neuter gender."),
              ("Nothing, as only limbs count", "An external substance (बाह्यद्रव्य) counts as well.")],
             "Same gender as the thing touched: here female.",
-            "यल्लिंगं परामृशति, तल्लिंगं गर्भम् आदिशेत्."),
+            "तल्लिंगमस्या गर्भमादिशेत्: the embryo is declared of the gender of the thing touched."),
         mcq("transfer", 5, "By the rule of तल्लिंगम्, how is तत् + लभते (gets that) joined?",
             ("तल्लभते", "त् before ल becomes ल्, as तत् + लिङ्गम् → तल्लिङ्गम्."),
             [("तद्लभते", "Before ल the त् becomes ल्, not द्."),
@@ -389,7 +389,7 @@ AUTHORED["70"] = {
               "बहूनि → वा → वर्षाणि → उदरे → तिष्ठति."),
         match(2, "Match each word of unit 70 to its meaning.",
               [["बहूनि", "many"], ["वर्षाणि", "years"], ["उदरे", "in the belly"], ["तिष्ठति", "stays"]],
-              "Four words carry the whole line; वा (or) links it to the outcome before.",
+              "Four words carry the whole line; वा (or) seems to add it to the outcome of unit 69.",
               "बहूनि, वर्षाणि, उदरे, तिष्ठति.", role="extend",
               teaches="An accusative of time tells how long: बहूनि वर्षाणि = for many years."),
         mcq("discriminate", 3, "In unit 70, what does उदर mean?",
@@ -444,7 +444,7 @@ AUTHORED["71"] = {
               "When, for woman and man, equally, the purpose, is accomplished.",
               "यदा → स्त्रीपुंसयोः → समम् → अर्थः → निष्पद्यते."),
         match(2, "Match each word of unit 71 to its meaning.",
-              [["यदा", "when"], ["स्त्रीपुंसयोः", "of woman and man"], ["समम्", "equally"],
+              [["यदा", "when"], ["स्त्रीपुंसयोः", "woman and man (the two)"], ["समम्", "equally"],
                ["अर्थः", "purpose"], ["निष्पद्यते", "is accomplished"]],
               "Five words make the whole condition.",
               "यदा, स्त्रीपुंसयोः, समम्, अर्थः, निष्पद्यते.", role="extend",
@@ -510,7 +510,7 @@ AUTHORED["72"] = {
             ("सम + अंशम्", "अ + अ → आ: सम + अंशम् → समांशम्."),
             [("समम् + अंशम्", "A final म् before a vowel stays: it would give सममंशम्."),
              ("समः + अंशम्", "अः + अ would give ओऽ, not आ."),
-             ("समे + अंशम्", "ए + अ keeps ए; it would give समेंऽशम्.")],
+             ("समे + अंशम्", "ए + अ keeps ए; it would give समेऽंशम्.")],
             "सम (equal) + अंशम् (portion): two short अ sounds become आ.",
             "अ + अ → आ."),
         mcq("apply", 4, "How does the card treat bīja (seed) in unit 72?",
@@ -797,7 +797,7 @@ AIDS = {
     "70": {
         "chunks": "बहूनि वा | वर्षाण्युदरे | तिष्ठति",
         "sandhi": "इ + उ → यु: वर्षाणि + उदरे → वर्षाण्युदरे।",
-        "frame": "‘वा’ (या): पिछली इकाई के ‘तदा’ के बाद एक और फल; समय-अवधि द्वितीया में (बहूनि वर्षाणि), स्थान सप्तमी में (उदरे)।",
+        "frame": "‘वा’ (या): पिछली इकाई के ‘तदा’ के बाद एक और फल प्रतीत होता है; समय-अवधि द्वितीया में (बहूनि वर्षाणि), स्थान सप्तमी में (उदरे)।",
     },
     "71": {
         "chunks": "यदा | स्त्रीपुंसयोः | सममर्थो | निष्पद्यते",
