@@ -187,8 +187,8 @@ AUTHORED["44"] = {
                "correction. Line 1 has no verb. The verse does not name which Vāta remedies beyond oleation and sweating."),
     "explain_hi": ("अगला कारण है अत्यधिक चलना-फिरना। उससे पैर, जङ्घा यानी घुटने से टखने तक की टाँग, और ऊरु यानी जाँघ "
                    "का सदन यानी थकावट आदि होते हैं; ‘सदन’ छपे ‘सद्न’ का सम्भावित सुधार है। दूसरी पंक्ति कहती है: "
-                   "उनके लिए वात को हरने वाला सब कुछ प्रशस्त है, स्नेह और स्वेद से शुरू करके। ‘तेषाम्’ इन्हीं अंगों के "
-                   "कष्टों की ओर लौटता है।"),
+                   "उनके लिए वात को हरने वाला सब कुछ प्रशस्त है, स्नेह और स्वेद से शुरू करके। "
+                   "‘तेषाम्’ ठीक पहले गिनाए कष्टों की ओर लौटता है: श्लोक ४३ की पीड़ाएँ और इन अंगों का सदन।"),
     "hook": "बहुत चले? पैर-टाँग-जाँघ थकें; स्नेह, स्वेद, सब वातहर।",
     "core": True,
     "questions": [
@@ -210,7 +210,7 @@ AUTHORED["44"] = {
               role="extend",
               teaches="Feet, shanks and thighs suffer; for these everything Vāta-removing is recommended (शस्यते)."),
         mcq("discriminate", 3, "In line 2, what does तेषाम् (of these, masculine plural) refer back to?",
-            ("The ailments of the limbs in line 1","तेषाम् points back to the sinking of feet, shanks, thighs and so on."),
+            ("The ailments listed right before it", "तेषाम् points back to the ailments listed right before it: the pains of verse 43 line 2 and the sinking of feet, shanks and thighs."),
             [("The eight things to give up (verse 41)", "Those are neuter (भाष्यादीनि), and far back."),
              ("The physicians who treat", "No physician is named in the verse."),
              ("The remedies of verse 43", "The remedies are what is given, not 'these' who receive it.")],
@@ -269,7 +269,7 @@ AUTHORED["45"] = {
         mcq("discriminate", 3, "विधेयो stands before विधि-. What is its form before sandhi?",
             ("विधेयः", "-अः → -ओ before a voiced sound such as व."),
             [("विधेयम्", "A final म् would stay म् or become ं, not ओ."),
-             ("विधेयौ", "A final औ would become आव् before a vowel, never ओ."),
+             ("विधेयौ", "A final औ stays औ before a consonant such as व; it never becomes ओ."),
              ("विधेये", "A final ए stays ए before a consonant.")],
             "विधेयः (to be applied, m. nom. sg.) agrees with विधिः.",
             "-अः + voiced consonant → -ओ."),
@@ -416,10 +416,10 @@ AUTHORED["48"] = {
              "penis smokes; the mind, as it were, will enter darkness."),
     "limits": ("The verse appears to give the signs of the cause begun in verse 47; it does not say so. Dhūmāyati "
                "is literal: heat or smoke is not explained. The print joins avalupyata iva and spells meṃḍhra."),
-    "explain_hi": ("यह श्लोक पिछली पंक्ति के कारण, यानी मैथुन, के लक्षण देता प्रतीत होता है। चार अनुभव: गुदा मानो कटी जा "
-                   "रही है; चेतना मानो घूम रही है; मेढ्र यानी लिंग धुआँ छोड़ता है; मन मानो अन्धकार में प्रवेश करेगा। "
-                   "‘इव’ यानी मानो: ये अनुभव हैं, वास्तविक घटनाएँ नहीं कहीं। ‘धूमायति’ का शब्दशः अर्थ धुआँ छोड़ना है; "
-                   "जलन से अभिप्राय है या नहीं, नहीं कहा।"),
+    "explain_hi": ("यह श्लोक पिछली पंक्ति (मैथुन से, जीवन के भ्रंश से, उन वात-रोगों से) के बाद के लक्षण देता प्रतीत होता है; "
+                   "यह स्पष्ट नहीं कहा। चार बातें: गुदा मानो कटी जा रही है; चेतना मानो घूम रही है; मेढ्र यानी लिंग धुआँ "
+                   "छोड़ता है; मन मानो अन्धकार में प्रवेश करेगा। तीन में ‘इव’ यानी मानो है; ‘मेढ्रं धूमायति’ में इव नहीं। "
+                   "‘धूमायति’ का शब्दशः अर्थ धुआँ छोड़ना है; जलन से अभिप्राय है या नहीं, नहीं कहा।"),
     "hook": "गुदा कटे, सिर घूमे, धुआँ उठे, मन अँधेरे में।",
     "core": False,
     "questions": [
@@ -530,7 +530,7 @@ AUTHORED["50"] = {
              "when the wind (pavana) is obstructed and afflicting the body ... (the instruction follows in unit 51)."),
     "limits": ("The compound may be two causes or one ('upward wind from holding back urges'). Upatāpinī is read "
                "as a locative; its case is uncertain. The earlier passage is not in this unit. The sentence ends in unit 51."),
-    "explain_hi": ("यह श्लोक अध्याय का अन्तिम उपदेश शुरू करता है: पहले कहे गए जो सदा आतुर यानी हमेशा रोगी रहते हैं, वेगों "
+    "explain_hi": ("यह श्लोक एक वाक्य शुरू करता है जो इकाई ५१ में पूरा होता है: पहले कहे गए जो सदा आतुर यानी हमेशा रोगी रहते हैं, वेगों "
                    "को रोकने और ऊर्ध्व वात के कारण। उनमें जब पवन यानी वायु रुकी हुई हो (और पूरे शरीर को सन्ताप दे रही "
                    "हो), तब क्या करें, यह अगली इकाई में है। ‘विबद्धे पवने’ सप्तमी है: ‘जब वायु रुकी हो’। ‘प्रागुक्ताः’ "
                    "= पहले कहे गए।"),
@@ -555,7 +555,7 @@ AUTHORED["50"] = {
               role="extend",
               teaches="The ever ailing suffer from holding back urges and upward Vāta; treatment is for obstructed wind."),
         mcq("discriminate", 3, "Which split is right for प्रागुक्ता?",
-            ("प्राक् + उक्ताः", "क् → ग् before a vowel; the visarga of -आः drops before a vowel."),
+            ("प्राक् + उक्ताः", "क् → ग् before a vowel; the visarga of -आः drops before a voiced sound (here य of ये)."),
             [("प्रा + गुक्ताः", "Neither प्रा nor गुक्ताः is a word here."),
              ("प्रागु + उक्ताः", "उ + उ would give ऊ: प्रागूक्ताः."),
              ("प्राग + उक्ताः", "अ + उ would give ओ: प्रागोक्ताः.")],
@@ -585,11 +585,11 @@ AUTHORED["51"] = {
     "question": "What is given first, and what after it?",
     "rule": "One should first give a phalavarti (suppository), then a basti (enema) that brings strength.",
     "limits": ("The anusvāra of phalavartiṃ appears dropped in print. Unit 51 appears to complete the sentence of "
-               "unit 50. It names neither the drugs of the suppository nor the basti; the formulas follow in verses 52-55."),
+               "unit 50. It names neither the drugs of the suppository nor the basti; the formulas of verses 52-55 may be meant, but the text does not say so."),
     "explain_hi": ("यह इकाई पिछले श्लोक का वाक्य पूरा करती प्रतीत होती है: रुकी हुई वायु वाले सदा-रोगियों को पहले फलवर्ति "
                    "दे, यानी औषधि की बत्ती (शब्दशः ‘फल-बत्ती’), फिर बल लाने वाली बस्ति। ‘पुरा’ = पहले, ‘अथ’ = फिर। "
-                   "‘बलावहम्’ पुंलिङ्ग द्वितीया है, इसलिए बस्ति का विशेषण है, फलवर्ति का नहीं। बस्ति के योग अगले श्लोकों "
-                   "में हैं।"),
+                   "‘बलावहम्’ पुंलिङ्ग द्वितीया है, इसलिए बस्ति का विशेषण है, फलवर्ति का नहीं। अगले श्लोकों में "
+                   "बस्ति के योग आते हैं, पर यह नहीं कहा कि वे इसी बस्ति के हैं।"),
     "hook": "पहले बत्ती, फिर बल देने वाली बस्ति।",
     "core": True,
     "questions": [
@@ -847,13 +847,10 @@ AUTHORED["55"] = {
             "निरूहणे च अलवणः: and in nirūhaṇa, the one without salt.",
             "अलवण = without salt.",
             teaches="For a child: in anuvāsana the rasa with jīvanīya drugs; in nirūhaṇa the rasa without salt."),
-        mcq("discriminate", 3, "Which split is right for चालवणः?",
-            ("च + अलवणः", "अ + अ → आ: च + अलवणः → चालवणः (without salt)."),
-            [("च + लवणः", "This would print चलवणः and mean salty, the opposite."),
-             ("चा + लवणः", "चा is not a word; the particle is च."),
-             ("चाल + वणः", "Neither चाल nor वणः is the word here.")],
-            "च (and) + अलवणः (without salt).",
-            "अ + अ → आ."),
+        order(3, "Put these parts of line 2 in the order of the verse.",
+              ["सजीवनीयस्तु", "रसोऽनुवासने", "निरूहणे", "चालवणः", "शिशोर्हितः"],
+              "With jīvanīya, the rasa in anuvāsana; in nirūhaṇa, and without salt; beneficial for a child.",
+              "सजीवनीयस्तु · रसोऽनुवासने · निरूहणे · चालवणः · शिशोर्हितः.", role="discriminate"),
         multi("apply", 4, "A child is to be treated with bastis. Which pairings does line 2 call beneficial?",
               [("Anuvāsana: the rasa with jīvanīya drugs", "Right: सजीवनीयस्तु रसोऽनुवासने."),
                ("Nirūhaṇa: the rasa without salt", "Right: निरूहणे चालवणः."),
@@ -937,8 +934,8 @@ AUTHORED["57"] = {
     "rule": "Thus the seventh chapter, named Sneha-vyāpat-siddhi: the cure of the complications of oleation.",
     "limits": "A colophon, not a verse. The opening double danda is a printed mark. The title is read as sneha + vyāpad + siddhi.",
     "explain_hi": ("यह अध्याय का समापन-वाक्य है: इस प्रकार स्नेहव्यापत्सिद्धि नामक सप्तम अध्याय। नाम के तीन भाग हैं: स्नेह, "
-                   "व्यापत् यानी बिगाड़ या जटिलता, और सिद्धि यानी चिकित्सा, सफलता। अध्याय में स्नेह-बस्ति के व्यापद् और "
-                   "उनके उपाय बताए गए थे। ‘सप्तमोऽध्यायः’ = सप्तमः + अध्यायः।"),
+                   "व्यापत् यानी बिगाड़ या जटिलता, और सिद्धि यानी चिकित्सा, सफलता। नाम से विषय पता चलता है: "
+                   "स्नेह के व्यापद् और उनकी चिकित्सा। ‘सप्तमोऽध्यायः’ = सप्तमः + अध्यायः।"),
     "hook": "सातवाँ अध्याय: स्नेह के बिगाड़ की चिकित्सा।",
     "core": False,
     "questions": [
@@ -1050,7 +1047,7 @@ AIDS = {
         "contrast": "कफ का उपाय यहाँ: धुआँ, रूखा अन्न, उपवास (हल्का करना) · वात का उपाय श्लोक ४४ में: स्नेह, स्वेद।",
     },
     "48": {
-        "diagram": {"groups": [{"label": "चार अनुभव (इव = मानो)", "items": ["गुदा मानो कटी जा रही", "चेतना मानो घूम रही", "मेढ्र धुआँ छोड़ता", "मन मानो अन्धकार में प्रवेश करेगा"]}]},
+        "diagram": {"groups": [{"label": "चार लक्षण (तीन में इव = मानो)", "items": ["गुदा मानो कटी जा रही", "चेतना मानो घूम रही", "मेढ्र धुआँ छोड़ता", "मन मानो अन्धकार में प्रवेश करेगा"]}]},
         "chunks": "गुदोऽवलुप्यतइव | भ्रमतीव चेतना ‖ मेंढ्रं धूमायति | मनस्तमसीव प्रवेक्ष्यते।",
         "sandhi": "इ + इ → ई: भ्रमति + इव → भ्रमतीव; तमसि + इव → तमसीव; अः → स् त से पहले: मनः + तमसि → मनस्तमसि।",
         "anchors": "गुद = गुदा · अवलुप्यते = कटता है · भ्रमति = घूमता है · चेतना = होश · धूमायति = धुआँ छोड़ता है · तमस् = अँधेरा · प्रवेक्ष्यते = प्रवेश करेगा।",
@@ -1095,7 +1092,7 @@ AIDS = {
     "55": {
         "contrast": "शिशु के लिए अनुवासन में: जीवनीय सहित रस · शिशु के लिए निरूहण में: बिना नमक (अलवण)।",
         "chunks": "तथा ऽनुवास्यं मधुकेन साधितं | बालेन बिल्वेन शताव्हया (= शताह्वया) ऽथवा ‖ सजीवनीयस्तु रसोऽनुवासने | निरूहणे चालवणः शिशोर्हितः।",
-        "sandhi": "आ + अ → आऽ: तथा + अनुवास्यम् → तथाऽनुवास्यम्; अः + अ → ओऽ: रसः + अनुवासने → रसोऽनुवासने; अ + अ → आ: च + अलवणः → चालवणः।",
+        "sandhi": "आ + अ → आ (छपाई में ऽ से लुप्त अ दिखाया): तथा + अनुवास्यम् → तथाऽनुवास्यम्; अः + अ → ओऽ: रसः + अनुवासने → रसोऽनुवासने; अ + अ → आ: च + अलवणः → चालवणः।",
         "anchors": "अनुवास्य = तैल-बस्ति के योग्य · मधुक = सम्भवतः मुलेठी · साधित = तैयार किया · अथवा = या · शिशु = बच्चा · अलवण = बिना नमक।",
     },
     "56": {
@@ -1153,7 +1150,7 @@ IMAGE_SPECS = {
         "file": "ka7-vyavaya-lakshana-48.svg",
         "alt": "Mind map of the four sensations of verse 48: anus as if torn off, consciousness as if whirling, the organ smokes, mind as if entering darkness",
         "type": "mermaid",
-        "code": ('mindmap\n  चार अनुभव\n    गुदा मानो कटी\n    चेतना मानो घूमे\n'
+        "code": ('mindmap\n  चार लक्षण\n    गुदा मानो कटी\n    चेतना मानो घूमे\n'
                  '    मेढ्र धुआँ छोड़े\n    मन मानो अँधेरे में\n'),
     },
     ("51", "chain"): {
