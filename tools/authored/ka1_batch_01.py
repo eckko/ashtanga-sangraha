@@ -19,7 +19,7 @@ AUTHORED["1"] = {
     "questions": [
         mcq("pretest", 0, "To whom does the opening line श्रीगणेशाय नमः offer salutation?",
             ("To the revered Gaṇeśa", "गणेशाय = to Gaṇeśa; श्री = revered."),
-            [("To the sage Ātreya", "Ātreya is named in unit 3 as a speaker, not saluted here."),
+            [("To the great sage Ātreya", "Ātreya is named in unit 3 as a speaker, not saluted here."),
              ("To the student", "No student is named in the line."),
              ("To the madana fruit", "The madana fruit appears from unit 4 on, not in this line.")],
             "श्रीगणेशाय नमः = salutation to the revered Gaṇeśa.",
@@ -100,11 +100,11 @@ AUTHORED["2"] = {
              ("अथः + तो", "These pieces are not the words अथ and अतः.")],
             "अथ (now) + अतः (therefore) = अथातः, written अथातो before व.",
             "-अः before a voiced consonant → -ओ."),
-        mcq("apply", 4, "How does the card's data label the verb व्याख्यास्यामः?",
-            ("Future, 1st plural: 'we shall explain'", "The data label is 1 pl. fut. of वि-आ-√ख्या."),
-            [("Present, 1st plural: 'we explain'", "The -स्य- marks the future, not the present."),
-             ("Past, 3rd plural: 'they explained'", "The ending -आमः is 1st person plural, 'we'."),
-             ("Optative, 3rd sg: 'one should explain'", "An optative would end in -एत्.")],
+        mcq("apply", 4, "Which English rendering fits the form of व्याख्यास्यामः?",
+            ("We shall explain", "The data label is 1 pl. fut. of वि-आ-√ख्या: future, 1st person plural."),
+            [("We explain", "The -स्य- marks the future, not the present."),
+             ("They explained", "The ending -आमः is 1st person plural, 'we'."),
+             ("One should explain", "An optative would end in -एत्.")],
             "व्याख्यास्यामः = we shall explain (future, 1st person plural).",
             "-स्यामः = 1st person plural future, 'we shall'."),
         mcq("transfer", 5, "Join a new example, ततः + वदति (then he speaks). Which is right?",
@@ -122,8 +122,8 @@ AUTHORED["2"] = {
 AUTHORED["3"] = {
     "title": "इति ह स्माहुरात्रेयादयो महर्षयः",
     "question": "Whom does this line name as the speakers of what follows?",
-    "rule": ("Thus indeed said Ātreya and the other great sages. स्माहुः = स्म + आहुः (स्म gives the past sense: "
-             "'said'); महर्षयः = महा + ऋषयः, great sages."),
+    "rule": ("Thus indeed said Ātreya and the other great sages. स्माहुः = स्म + आहुः (आहुः, perfect, 'said'; the data glosses स्म as a "
+             "particle with past sense); महर्षयः = महा + ऋषयः, great sages."),
     "limits": ("The line names Ātreya and 'the others' (आदयः) without listing them. How आत्रेयादयः is labelled "
                "(one compound or two words) is an open reviewer point; no question uses that label."),
     "explain_hi": ("यह पंक्ति अध्याय की परम्परागत भूमिका है: ‘इति ह स्माहुरात्रेयादयो महर्षयः’, यानी ऐसा आत्रेय आदि महर्षियों ने कहा। "
@@ -215,7 +215,7 @@ AUTHORED["4"] = {
               [("madana = emetic nut, Randia spinosa", "Right: tagged standard."),
                ("kuṭaja = kurchi, Holarrhena pubescens", "Right: tagged standard."),
                ("jīmūtaka = Luffa echinata", "Not standard: tagged probable."),
-               ("ikṣvāku = bitter bottle gourd", "Not standard: disputed, and the reading itself is a guess.")],
+               ("kuṭaja = emetic nut, Randia spinosa", "Wrong: the emetic nut is madana; kuṭaja is kurchi.")],
               [0, 1],
               "Only madana and kuṭaja are firm; jīmūtaka is probable, ikṣvāku disputed, kukkṛtikā and śātakī unidentified.",
               "Standard: madana, kuṭaja. Probable: jīmūtaka. Disputed: ikṣvāku."),
@@ -255,7 +255,7 @@ AUTHORED["5"] = {
         mcq("pretest", 0, "Which fruit does unit 5 single out from the best emetic fruits?",
             ("मदनफल (emetic nut)", "मदनफलम् = the madana fruit."),
             [("कुटजफल (kurchi)", "Kuṭaja closes the list of unit 4; unit 5 names madana."),
-             ("जीमूतक (Luffa echinata)", "Jīmūtaka is in the list, but unit 5 names madana."),
+             ("जीमूतक (Luffa echinata, probable)", "Jīmūtaka is in the list, but unit 5 names madana."),
              ("शातकी (unidentified)", "Śātakī is a doubtful name of unit 4, not picked here.")],
             "तेष्वपि मदनफलम् = among these too, the madana fruit.",
             "तेषु (among these) अपि (too) मदनफलम्."),
@@ -268,13 +268,13 @@ AUTHORED["5"] = {
              "Final उ before a different vowel becomes व्: तेषु + अपि = तेष्वपि.",
              "Final उ before a different vowel becomes व्: तेषु + अपि = तेष्वपि.",
              "उ + different vowel → व् + vowel."),
-        mcq("discriminate", 3, "Which is the right split of तेष्वपि?",
-            ("तेषु + अपि", "उ before अ becomes व्: तेष्व + पि."),
-            [("तेष + वपि", "वपि is not a word of the card."),
-             ("तेषो + अपि", "ओ + अ would give तेषोऽपि."),
-             ("तेषू + अपि", "A long ऊ would also become व्, but the locative plural is तेषु, with short उ.")],
-            "तेषु (loc. pl., among these) + अपि (too).",
-            "उ + different vowel → व्."),
+        mcq("discriminate", 3, "In unit 5, what does तेषु (among these) point back to?",
+            ("The best emetic fruits of unit 4", "तेषु takes up the list of unit 4, which ends with श्रेष्ठानि."),
+            [("The great sages of unit 3", "तेषु is neuter here (n. loc. pl.); it points to the fruits, not the sages."),
+             ("The doṣas named in unit 6", "Unit 6 comes after; तेषु points back to unit 4."),
+             ("The grains of the drying heap", "The grain heap is in unit 10, later.")],
+            "तेष्वपि मदनफलम् = among these (the best emetic fruits of unit 4) too, the madana fruit.",
+            "तेषु (n. loc. pl.) = among these: the fruits just listed."),
         mcq("apply", 4, "Unit 5 has no verb. What sense does the data carry over from unit 4?",
             ("That madana fruit is the best", "Unit 4 ends with श्रेष्ठानि, the best; unit 5 narrows it to madana."),
             [("That madana fruit is harmful", "Harm is not mentioned in either unit."),
@@ -309,7 +309,7 @@ AUTHORED["6"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "According to unit 6, what decides the precedence among these drugs and preparations?",
-            ("Doṣa, dūṣya and the like", "दोष-दूष्य-आदि-वशात् = by the sway of doṣa, dūṣya and the like."),
+            ("Doṣa and the like", "दोष-…-आदि-वशात् = by the sway of doṣa and the like (the second word is a proofread reading, see the note)."),
             [("The price of each drug", "Price is not mentioned."),
              ("The colour of each fruit", "Colour is not mentioned in this unit."),
              ("The age of each plant", "The age of the plant is not mentioned.")],
@@ -334,7 +334,7 @@ AUTHORED["6"] = {
             "वशात् (by the sway of) + च (and) + एषाम् (of these).",
             "त् + च → च्च; अ + ए → ऐ."),
         mcq("apply", 4, "A physician must choose between two emetic preparations. By unit 6, what should guide the choice?",
-            ("The doṣa, dūṣya and the like in the case", "Precedence is by the sway of doṣa, dūṣya and the like."),
+            ("The doṣa and the like in the case", "Precedence is by the sway of doṣa and the like."),
             [("Madana in every case, whatever the doṣa", "Unit 6 makes precedence depend on doṣa etc., not fixed."),
              ("Whichever preparation costs less", "Cost is not mentioned."),
              ("Whichever drug comes first in a list", "List order is not given as the rule.")],
@@ -391,12 +391,12 @@ AUTHORED["7"] = {
              ("वमने + आदिषु", "ए before आ would not give -ना-.")],
             "वमन (emesis) + आदिषु (in … and the rest, loc. pl.).",
             "अ + आ → आ."),
-        mcq("apply", 4, "A reader asks for the full count of emetic formulations. By unit 7, what is the answer?",
-            ("They cannot be counted", "असंख्येयत्वम्: they are innumerable."),
+        mcq("apply", 4, "A reader asks for the full count of the mishaps (व्यापद्) in emesis. By unit 7, what is the answer?",
+            ("They cannot be counted", "असंख्येयत्वम्: the mishaps and means are innumerable."),
             [("Six, one for each best fruit", "Unit 7 gives no number; it says they are innumerable."),
-             ("Twelve, as many as the mishaps", "No number of mishaps is given."),
+             ("Twelve, one for each month", "No number of mishaps is given."),
              ("As many as the seasons", "Seasons are not mentioned.")],
-            "Because the states of doṣa differ so much, formulations, mishaps and means are innumerable.",
+            "Because the states of doṣa differ so much, mishaps and means in emesis are innumerable.",
             "असंख्येय = that cannot be counted."),
         mcq("transfer", 5, "Like असंख्येयत्वम् (innumerability), what does a new word लघुत्वम् mean?",
             ("Lightness", "-त्व makes an abstract noun: लघु (light) + त्व = lightness."),
@@ -459,8 +459,8 @@ AUTHORED["8"] = {
         mcq("transfer", 5, "Like विकल्पमार्गदर्शनार्थम् (for showing the path of variations), what does a new word ज्ञानार्थम् mean?",
             ("For the sake of knowledge", "-अर्थम् at the end of a compound = 'for the purpose of'."),
             [("By means of knowledge", "'By means of' would need the instrumental (ज्ञानेन)."),
-             ("The meaning of knowledge", "As a compound ending, -अर्थम् here means purpose, as in the unit."),
-             ("Coming from knowledge", "'From' would need the ablative (ज्ञानात्).")],
+             ("Without knowledge", "'Without' would need विना or a negative prefix, not -अर्थम्."),
+             ("Coming out of the knowledge", "'From' would need the ablative (ज्ञानात्).")],
             "दर्शन + अर्थम् = for showing; ज्ञान + अर्थम् = for the sake of knowledge.",
             "X-अर्थम् = for the purpose of X.",
             teaches="-अर्थम् at the end of a compound means 'for the purpose of': विकल्पमार्गदर्शनार्थम्, ज्ञानार्थम्."),
@@ -479,7 +479,7 @@ AUTHORED["9"] = {
                    "कौन-से फल: मदन यानी मैनफल के वे फल जो न बहुत हरे हों, न बहुत पाण्डु (फीके) रंग के। "
                    "‘आददीत’ विधिलिङ् है: ‘ग्रहण करे’, यानी ले। "
                    "‘प्रशस्ते’ (शुभ) केवल दिन के साथ है या मुहूर्त के साथ भी, यह दोनों तरह पढ़ा जा सकता है।"),
-    "hook": "वसन्त और ग्रीष्म के बीच, शुभ दिन-मुहूर्त में, न बहुत कच्चे रंग के फल।",
+    "hook": "वसन्त और ग्रीष्म के बीच, शुभ दिन-मुहूर्त में, न बहुत हरे, न बहुत पाण्डु फल।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "When does unit 9 say the madana fruits should be taken?",
@@ -507,13 +507,13 @@ AUTHORED["9"] = {
              ("ग्रीष्मया + उरन्तरे", "These pieces are not words of the card.")],
             "ग्रीष्मयोः (gen. du., of [spring and] summer) + अन्तरे (in the interval).",
             "Visarga after a vowel other than अ/आ, before a vowel → र्."),
-        mcq("apply", 4, "A collector finds madana fruits that are very green. By unit 9, should he take them?",
-            ("No: the unit asks for fruits not very green", "न अति हरित: not very green."),
-            [("Yes: any madana fruit will do", "The unit sets a condition on the fruits."),
-             ("Yes, if it is midsummer", "The time is between spring and summer, and the colour rule still holds."),
-             ("Yes, if he dries them first", "Drying (unit 10) does not change the rule for collecting.")],
-            "नातिहरित… = not very green: very green fruits are not to be taken.",
-            "न अति = not very."),
+        mcq("apply", 4, "A collector plans to gather madana fruits in the rainy season. By unit 9, is that the time?",
+            ("No: the time is between spring and summer", "वसन्तग्रीष्मयोरन्तरे = in the interval of spring and summer."),
+            [("Yes: any season will do", "The unit fixes the time: between spring and summer."),
+             ("Yes, if the day is auspicious", "An auspicious day is needed, but within the stated season."),
+             ("Yes, if he dries them at once", "Drying (unit 10) does not change the time of collecting.")],
+            "Unit 9 fixes the collecting time: between spring and summer, on an auspicious day and moment.",
+            "वसन्त-ग्रीष्मयोः अन्तरे = between spring and summer."),
         mcq("transfer", 5, "Join a new example, न + अतिदीर्घम् (not very long). Which is right?",
             ("नातिदीर्घम्", "अ + अ → आ, as in न + अति = नाति in नातिहरित."),
             [("नअतिदीर्घम्", "The two vowels are not left side by side."),
@@ -549,10 +549,10 @@ AUTHORED["10"] = {
             "अष्टरात्रम् = for eight nights.",
             "Eight nights in the grain heap."),
         order(1, "Put the steps of unit 10 in the order of the text.",
-              ["पोंछना (प्रमृज्य)", "कुश में बाँधना (बद्ध्वा)", "गोबर से लीपना (आलिप्य)",
+              ["पोंछना (प्रमृज्य)", "कुश में बाँधना", "गोबर से लीपना (आलिप्य)",
                "राशि में आठ रात", "निकालना (उद्धृत्य)", "धूप में सुखाना (शोषयेत्)"],
               "Wipe, tie, smear, keep eight nights, take out, dry in the sun.",
-              "प्रमृज्य · बद्ध्वा · आलिप्य · अष्टरात्रम् उषितानि · उद्धृत्य · आतपे शोषयेत्."),
+              "प्रमृज्य · बध्वा (छपा रूप) · आलिप्य · अष्टरात्रम् उषितानि · उद्धृत्य · आतपे शोषयेत्."),
         match(2, "Match each grain named in unit 10 to its English name.",
               [["यव", "barley"], ["माष", "black gram"], ["कुलत्थ", "horse gram"], ["मुद्ग", "green gram"]],
               "Four of the grains of which the heap may be made (identifications standard in the data).",
@@ -574,14 +574,14 @@ AUTHORED["10"] = {
               [0, 1, 2],
               "Any one of the named grains will do; sand is not named.",
               "The heap: any one of यव, बुस, माष, शालि, व्रीहि, कुलत्थ, मुद्ग."),
-        mcq("transfer", 5, "With a prefix the absolutive ends in -य (प्रमृज्य); without one, in -त्वा (बद्ध्वा). Which means having brought (आ + √नी)?",
+        mcq("transfer", 5, "With a prefix the absolutive ends in -य (प्रमृज्य); without one, in -त्वा (e.g. कृत्वा). Which means having brought (आ + √नी)?",
             ("आनीय", "The root has the prefix आ-, so the ending is -य: आनीय."),
             [("आनीत्वा", "With a prefix, -त्वा is replaced by -य."),
              ("आनीतः", "This is the past participle, 'brought', not 'having brought'."),
              ("आनयति", "This is the present, 'he brings'.")],
-            "प्र-√मृज् → प्रमृज्य; आ-√लिप् → आलिप्य; उद्-√हृ → उद्धृत्य; but √बन्ध् → बद्ध्वा.",
+            "प्र-√मृज् → प्रमृज्य; आ-√लिप् → आलिप्य; उद्-√हृ → उद्धृत्य; but bare √कृ → कृत्वा.",
             "Prefixed root → -य; bare root → -त्वा.",
-            teaches="An absolutive of a root with a prefix ends in -य (प्रमृज्य, आलिप्य, आनीय); of a bare root in -त्वा (बद्ध्वा)."),
+            teaches="An absolutive of a root with a prefix ends in -य (प्रमृज्य, आलिप्य, आनीय); of a bare root in -त्वा (कृत्वा)."),
     ],
 }
 
@@ -701,9 +701,8 @@ AIDS = {
         "anchors": "इति = ऐसा · ह = निश्चय ही · स्म आहुः = कहा था · आदयः = आदि, दूसरे · महर्षि = महान् ऋषि।",
     },
     "4": {
-        "diagram": {"groups": [{"label": "पहचान मानक", "items": ["मदन यानी मैनफल", "कुटज यानी कुड़ा"]},
-                               {"label": "पहचान सम्भावित", "items": ["जीमूतक (बन्दाल)"]},
-                               {"label": "पाठ संदिग्ध", "items": ["इक्ष्वाकु (अनुमानित पाठ)", "कुक्कृतिका", "शातकी"]}]},
+        "diagram": {"groups": [{"label": "वमन के श्रेष्ठ फल (सूची-क्रम)", "items": ["मदन यानी मैनफल (मानक)", "जीमूतक (बन्दाल, सम्भावित)",
+                               "इक्ष्वाकु (अनुमानित पाठ, विवादित)", "कुक्कृतिका (पाठ संदिग्ध)", "शातकी (पाठ संदिग्ध)", "कुटज यानी कुड़ा (मानक)"]}]},
         "frame": "किनमें: वमन-द्रव्यों में · क्या: इनके फल · कैसे: श्रेष्ठ · सूची: मदन से आरम्भ, कुटज पर अन्त।",
         "anchors": "वमनद्रव्य = वमन कराने वाले द्रव्य · फलानि = फल · श्रेष्ठानि = सबसे अच्छे।",
     },
@@ -719,7 +718,7 @@ AIDS = {
     },
     "7": {
         "chain": {"steps": ["दोष आदि की बहुत अधिक अवस्थाएँ", "उन अवस्थाओं के भेद", "वमन आदि में कल्प, व्यापद् और साधन", "असंख्येय (गिने नहीं जा सकते)"]},
-        "sandhi": "अ + आ → आ: वमन + आदिषु → वमनादिषु; त् + अ → द: यत् + असंख्येयत्वम् → यदसंख्येयत्वम्।",
+        "sandhi": "अ + आ → आ: वमन + आदिषु → वमनादिषु; त् + स्वर → द्: यत् + असंख्येयत्वम् → यदसंख्येयत्वम्।",
         "anchors": "अवस्था = दशा · भेद = अन्तर · व्यापद् = बिगड़ना, विफलता · साधन = उपाय · असंख्येय = अगणित।",
     },
     "8": {
@@ -728,8 +727,8 @@ AIDS = {
         "anchors": "बुद्धिमत् = बुद्धिमान · विकल्प = भेद, विकल्प · मार्ग = रास्ता · दर्शन = दिखाना · मात्र = केवल · उपदेक्ष्यते = उपदेश किया जाएगा।",
     },
     "9": {
-        "diagram": {"groups": [{"label": "कब", "items": ["वसन्त और ग्रीष्म के बीच", "शुभ दिन", "शुभ मुहूर्त"]},
-                               {"label": "क्या", "items": ["मदनफल", "न बहुत हरे, न बहुत पाण्डु"]},
+        "diagram": {"groups": [{"label": "कब", "items": ["वसन्त और ग्रीष्म के बीच", "शुभ दिन", "मुहूर्त (शुभ, शायद)"]},
+                               {"label": "क्या", "items": ["न बहुत हरे, न बहुत पाण्डु", "मदनफल"]},
                                {"label": "क्रिया", "items": ["आददीत: ग्रहण करे"]}]},
         "sandhi": "ओः + स्वर → ओर्: ग्रीष्मयोः + अन्तरे → ग्रीष्मयोरन्तरे; अ + अ → आ: न + अति → नाति।",
         "anchors": "वसन्त = वसन्त ऋतु · ग्रीष्म = गर्मी की ऋतु · अन्तर = बीच का समय · प्रशस्त = शुभ · आददीत = ले।",
@@ -769,7 +768,7 @@ IMAGE_SPECS = {
                 "mishaps and means in emesis and the like are innumerable"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["दोष आदि की बहुत अवस्थाएँ"] --> B["अवस्थाओं के भेद"]\n'
-                 '  B --> C["वमन आदि में"]\n  C --> D["कल्प"]\n  C --> E["व्यापद्"]\n  C --> F["साधन"]\n'
+                 '  B --> C["वमन आदि में"]\n  C --> D["कल्प (संशोधित पाठ)"]\n  C --> E["व्यापद्"]\n  C --> F["साधन"]\n'
                  '  D --> G["असंख्येय"]\n  E --> G\n  F --> G\n'),
     },
     ("9", "diagram"): {
@@ -779,7 +778,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "इकाई ९: मदनफल का संग्रह",
         "heads": ["प्रश्न", "इकाई का उत्तर"],
-        "rows": [["ऋतु", "वसन्त और ग्रीष्म के बीच"], ["दिन", "शुभ (प्रशस्त)"], ["समय", "शुभ मुहूर्त"],
+        "rows": [["ऋतु", "वसन्त और ग्रीष्म के बीच"], ["दिन", "शुभ (प्रशस्त)"], ["समय", "मुहूर्त (प्रशस्ते शायद इसके साथ भी)"],
                  ["कौन-से फल", "न बहुत हरे, न बहुत पाण्डु"], ["क्रिया", "ग्रहण करे (आददीत)"]],
     },
     ("10", "chain"): {
@@ -788,7 +787,7 @@ IMAGE_SPECS = {
                 "keep eight nights in a heap of one grain, take out, dry in the sun"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["फल पोंछे"] --> B["कुश के गट्ठर में बाँधे"]\n'
-                 '  B --> C["गोबर से लीपे"]\n  C --> D["एक अनाज की राशि में<br/>आठ रात"]\n'
+                 '  B --> C["गोबर से लीपे"]\n  C --> D["इनमें से एक की राशि में आठ रात"]\n'
                  '  D --> E["निकाले"]\n  E --> F["धूप में सुखाए"]\n'),
     },
     ("11", "chain"): {
@@ -796,8 +795,8 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 11: take the pippalis out of the dried fruits, rub with curd, ghee, honey and palala, "
                 "dry again, fill a new dust-free pot to the neck, store it well guarded"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["सूखे फलों से<br/>पिप्पलियाँ निकाले"] --> B["दही, घी, शहद, पलल में<br/>मसले"]\n'
-                 '  B --> C["फिर सुखाए"]\n  C --> D["नया, धूल-रहित कलश<br/>गले तक भरे"]\n'
+        "code": ('flowchart TD\n  A["सूखे फलों से पिप्पलियाँ निकाले"] --> B["दही, घी, शहद, पलल में मसले"]\n'
+                 '  B --> C["फिर सुखाए"]\n  C --> D["नया धूल-रहित कलश भरे"]\n'
                  '  D --> E["सुरक्षित रखवाए"]\n'),
     },
 }
