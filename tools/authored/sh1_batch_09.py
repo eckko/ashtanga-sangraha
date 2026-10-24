@@ -12,7 +12,7 @@ AUTHORED = {}
 AUTHORED["107"] = {
     "title": "तत्रात्याशिता क्षुधिता",
     "question": "By unit 107, in which states does a woman not conceive, or conceive a defective foetus?",
-    "rule": ("A woman who is over-fed, hungry, thirsty, frightened, dejected, grief-stricken, angry, very fat, desiring "
+    "rule": ("A woman who is over-fed, hungry, thirsty, frightened, dejected, grief-stricken, angry, very fat (probable sense), desiring "
              "another, or desiring no intercourse does not bear a foetus (garbha), or bears a defective (विगुण) one."),
     "limits": ("Prose, one printed line. अतिमेदुरा = very fat or very unctuous is a probable reading only, so no question "
                "rests on it. The printed वान is read वा न, and गर्भ possibly stands for गर्भम्. The text gives no reason "
@@ -26,7 +26,7 @@ AUTHORED["107"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 107, what happens to a woman who is hungry, frightened or angry?",
-            ("No foetus, or a defective foetus", "वा न गर्भं धत्ते विगुणं वा: the two stated outcomes."),
+            ("No foetus, or a defective foetus", "वा न गर्भ(ं) धत्ते विगुणं वा: the two stated outcomes (printed वान गर्भ)."),
             [("A foetus, but always a girl", "No child's sex is named in this unit."),
              ("Twins, or a child of short life", "Neither twins nor length of life is named here."),
              ("No monthly flow for a year", "The unit says nothing of the monthly flow.")],
@@ -132,8 +132,8 @@ AUTHORED["109"] = {
     "question": "By unit 109, in which two positions should the woman not be approached?",
     "rule": ("न च न्युब्जां पार्श्वगतां वा सेवेत: and one should not resort to (have union with) a woman lying face down "
              "or lying on her side. सेवेत is an optative: should (not) resort to."),
-    "limits": ("The subject is not stated; the man is probably meant. The reasons for each position come in units 110 to 112, "
-               "not here."),
+    "limits": ("The subject is not stated; the man is probably meant. Units 110 to 112 go on to say what happens in each position "
+               "(read here as the reasons); this unit gives none."),
     "explain_hi": ("यह इकाई दो स्थितियाँ मना करती है: ‘न्युब्जा’ (औंधी, पेट के बल लेटी) और ‘पार्श्वगता’ (करवट पर लेटी)। "
                    "दोनों स्त्रीलिंग द्वितीया एकवचन हैं, क्योंकि स्त्री ‘सेवेत’ (सेवन करे) का कर्म है। "
                    "‘सेवेत’ विधिलिङ् आत्मनेपद है; ‘न’ के साथ अर्थ है ‘सेवन न करे’। कर्ता नहीं छपा; सम्भवतः पुरुष। "
@@ -457,7 +457,7 @@ AUTHORED["114"] = {
              ("तिष्ठेत्: the verb is an optative", "The card labels it present, not optative.")],
             "तिष्ठंति = तिष्ठन्ति, they remain; the anusvāra before त stands for न्.",
             "Anusvāra before त = न्."),
-        mcq("transfer", 5, "Invented line: दोषः यथास्थानमेव ____ (the doṣa remains in its place). Which verb fits?",
+        mcq("transfer", 5, "Invented line: दोषो यथास्थानमेव ____ (the doṣa remains in its place). Which verb fits?",
             ("तिष्ठति", "A singular subject takes the singular तिष्ठति."),
             [("तिष्ठन्ति", "That is plural, for दोषाः."),
              ("तिष्ठतः", "That is dual, for two subjects."),
@@ -471,7 +471,7 @@ AUTHORED["114"] = {
 # ---------------------------------------------------------------- unit 115
 AUTHORED["115"] = {
     "title": "लब्धगर्भां चैनां विदित्वा",
-    "question": "By unit 115, when and in which lunar mansion should the puṃsavana be employed?",
+    "question": "By unit 115, after knowing what, and in which lunar mansion, should the puṃsavana and the like be employed?",
     "rule": ("Having known that she has conceived (लब्धगर्भाम्), one should employ the puṃsavana (rite for obtaining a male "
              "child) and the like in Puṣya (the lunar mansion Puṣya)."),
     "limits": ("One token is damaged: प्रागव्यक्तीभावादृर्भस्य; before the foetus becomes manifest is a conjectural reading, "
@@ -482,7 +482,7 @@ AUTHORED["115"] = {
                    "बीच का छपा शब्द ‘प्रागव्यक्तीभावादृर्भस्य’ क्षतिग्रस्त है; ‘गर्भ के प्रकट होने से पहले’ अनुमानित अर्थ है। "
                    "‘विदित्वा’ क्त्वा-प्रत्ययान्त (जानकर) है और ‘प्रयुञ्जीत’ विधिलिङ् (प्रयोग करे); कर्ता नहीं छपा। "
                    "‘चैनाम्’ = च + एनाम् (अ + ए → ऐ)।"),
-    "hook": "गर्भ जानो, पुष्य में पुंसवन करो।",
+    "hook": "गर्भ जानकर, पुष्य में पुंसवनादि (प्रयुञ्जीत)।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 115, in which lunar mansion should the puṃsavana be employed?",
@@ -598,7 +598,7 @@ AUTHORED["117"] = {
     "hook": "केचित्: युग्म दिन।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 117, on which days do some say it should be?",
+        mcq("pretest", 0, "By unit 117, on which days do some say the rite should be?",
             ("On paired (even) days", "युग्मदिनेषु = on paired days."),
             [("On every day", "Every day is the view of unit 118."),
              ("For twelve nights", "Twelve nights is the view of unit 116."),
@@ -624,7 +624,7 @@ AUTHORED["117"] = {
             "उ + इ → वि."),
         mcq("apply", 4, "Which days does unit 117 say the paired days are?",
             ("It does not say which days are meant", "The data: which days are meant is not stated."),
-            [("The second, fourth and sixth days", "No day numbers are given."),
+            [("The days of the new moon", "No new moon is named."),
              ("The days of the Puṣya mansion", "Puṣya is named in unit 115, not here."),
              ("The days after the twelve nights", "No such link is stated.")],
             "युग्म = paired, even; the unit gives no list of days.",
@@ -654,7 +654,7 @@ AUTHORED["118"] = {
     "hook": "अन्ये बारह, केचित् युग्म, अपरे प्रतिदिन।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 118, how often do others say it should be?",
+        mcq("pretest", 0, "By unit 118, how often do others say the rite should be?",
             ("Every day", "प्रत्यहम् = every day."),
             [("For twelve nights", "Twelve nights is the view of unit 116."),
              ("On paired days", "Paired days are the view of unit 117."),
@@ -704,7 +704,7 @@ AUTHORED["119"] = {
     "limits": ("Two words only; it states nothing itself. What follows is in the next units, not in this one."),
     "explain_hi": ("‘तद्यथा’ का अर्थ है ‘वह इस प्रकार है’, यानी आगे विधि बताई जाती है। "
                    "यह तत् (वह) + यथा (जैसे) से बना है; त् घोष वर्ण य से पहले द् हो जाता है। "
-                   "इसमें कोई क्रिया नहीं और यह गद्य है। अगली इकाई से पुंसवन की विधि आरम्भ होती है।"),
+                   "इसमें कोई क्रिया नहीं और यह गद्य है। अगली इकाई (120) से विधि आरम्भ होती है।"),
     "hook": "तद्यथा = अब सुनो कैसे।",
     "core": False,
     "questions": [
@@ -755,9 +755,9 @@ AUTHORED["119"] = {
 
 # ===================================================================== NOTES_HI
 NOTES_HI = {
-    "107": "विश्वास मध्यम; गद्य, एक छपी पंक्ति। पाठ-चिह्न: छपा ‘गर्भ’ सम्भवतः ‘गर्भं’ है (अनुस्वार छूटा; ‘धत्ते’ का कर्म द्वितीया अपेक्षित)। छपा ‘वान’ = वा + न पढ़ा गया। ‘अतिमेदुरा’ = अत्यन्त स्थूल / अति स्निग्ध (सम्भावित; मेदुर = चिकना, मेदयुक्त), इसलिए इस पर प्रश्न नहीं। ‘अव्यवाय’ = सहवास का अभाव (व्यवाय = मैथुन, मानक); ‘विगुण’ = दोषयुक्त। दोनों ‘वा’ सूची और दोनों परिणामों को जोड़ते हैं। सन्धि जाँची: तत्र + अति + आशिता → तत्रात्याशिता (अ + अ → आ; इ + आ → या)। ‘क्रुद्धाऽतिमेदुरा’ आदि में छपा ऽ केवल शब्द-सीमा दिखाता है।",
+    "107": "विश्वास मध्यम; गद्य, एक छपी पंक्ति। पाठ-चिह्न: छपा ‘गर्भ’ सम्भवतः ‘गर्भं’ है (अनुस्वार छूटा; ‘धत्ते’ का कर्म द्वितीया अपेक्षित)। छपा ‘वान’ = वा + न पढ़ा गया। ‘अतिमेदुरा’ = अत्यन्त स्थूल / अति स्निग्ध (सम्भावित; मेदुर = चिकना, मेदयुक्त), इसलिए इस पर प्रश्न नहीं। ‘अव्यवाय’ = सहवास का अभाव (व्यवाय = मैथुन, मानक); ‘विगुण’ = दोषयुक्त। दोनों ‘वा’ सूची और दोनों परिणामों को जोड़ते हैं। सन्धि जाँची: तत्र + अति + आशिता → तत्रात्याशिता (अ + अ → आ; इ + आ → या)। ‘क्रुद्धाऽतिमेदुरा’ आदि में छपा ऽ अगले शब्द के आरम्भिक अ (अतिमेदुरा, अन्यकामा, अव्यवायकामा) को दिखाता है, जो आ + अ → आ से मिल गया है।",
     "108": "विश्वास निम्न; दो छपी पंक्तियाँ (02.01.123, 02.01.124) जोड़ी गईं। पहली पंक्ति के पहले वाक्य ‘तथा पुरुषोऽपि’ में क्रिया नहीं; ‘पुरुष भी इकाई 107 की अवस्थाओं में न हो’ अनुमान मात्र है, कोई क्रिया जोड़ी नहीं गई। ‘अधः’ = नीचे, यानी स्त्री के नीचे (सम्भावित)। दूसरी पंक्ति (‘तथा हि’) पहली का परिणाम बताती है। सन्धि जाँची: पुरुषः + अपि → पुरुषोऽपि; न च असौ अधः तिष्ठेत् → नचासावधस्तिष्ठेत् (अ + अ → आ; औ + अ → आव; विसर्ग → स् त से पहले)। ‘असौ’ एकवचन है।",
-    "109": "विश्वास उच्च, कोई पाठ-चिह्न नहीं। ‘न्युब्ज’ = औंधा, पेट के बल। ‘सेवेत’ = सेवन करे, समागम करे; स्त्री कर्म है (स्त्रीलिंग द्वितीया)। कर्ता नहीं छपा; सम्भवतः पुरुष। ‘न च’ को ‘न च’ अलग पढ़ा गया।",
+    "109": "विश्वास उच्च, कोई पाठ-चिह्न नहीं। ‘न्युब्ज’ = औंधा, पेट के बल। ‘सेवेत’ = सेवन करे, समागम करे; स्त्री कर्म है (स्त्रीलिंग द्वितीया)। कर्ता नहीं छपा; सम्भवतः पुरुष।",
     "110": "विश्वास उच्च, कोई पाठ-चिह्न नहीं। वात तीन दोषों में से एक (कोई आधुनिक नाम नहीं)। ‘योनि’ = स्त्री का जनन-मार्ग / गर्भाशय (सम्भावित)। पहले वाक्य में ‘है’ समझा जाता है। सन्धि: वातः + बलवान् → वातो बलवान् (अः → ओ घोष व्यंजन से पहले); सः + योनिम् → स योनिम् (‘सः’ का विसर्ग व्यंजन से पहले लुप्त)।",
     "111": "विश्वास उच्च, कोई पाठ-चिह्न नहीं। ‘श्लेष्मन्’ = कफ (मानक पर्याय); ‘गर्भाशय’ = गर्भाशय, uterus (मानक)। ‘च्युत’ = अपने स्थान से हटा। ‘अपिदधाति’ = ढकता या बन्द करता है; सरल अर्थ ‘बन्द करता है’ लिया गया। सन्धि: पीडितः + च्युतः → पीडितश्च्युतः (विसर्ग → श् च से पहले); च्युतः + अपिदधाति → च्युतोऽपिदधाति (अः + अ → ओ, अ का लोप ऽ)।",
     "112": "विश्वास मध्यम। पाठ-चिह्न: छपा ‘रक्तशुके’ कोई शब्द नहीं; ‘रक्तशुक्रे’ (रक्त और शुक्र, नपुं. द्वितीया द्विवचन) सम्भावित सुधार — इसलिए ‘पित्त क्या जलाता है’ पर प्रश्न नहीं। ‘तद्वत्’ = इकाई 110-111 की तरह। पित्त दोष है (नाम रखा गया)। सन्धि: वामपार्श्वगायाः + तद्वत् → वामपार्श्वगायास्तद्वत् (विसर्ग → स् त से पहले); तद्वत् + पित्तम् → तद्वत्पित्तम्।",
@@ -783,7 +783,7 @@ AIDS = {
         "frame": "पहले लम्बी सूची (सब स्त्रीलिंग प्रथमा), अन्त में क्रिया ‘धत्ते’ और दो विकल्प: न गर्भ, या विगुण गर्भ।",
     },
     "108": {
-        "chain": {"steps": ["पुरुष नीचे (अधः) रहे", "तथा हि (क्योंकि इस प्रकार)", "स्त्रीचेष्ट पुमान्", "या पुंचेष्टा स्त्री जन्मे"]},
+        "chain": {"steps": ["यदि पुरुष नीचे (अधः) रहे (जो वर्जित है)", "तथा हि (क्योंकि इस प्रकार)", "स्त्रीचेष्ट पुमान्", "या पुंचेष्टा स्त्री जन्मे"]},
         "sandhi": "अः + अ → ओ ऽ: पुरुषः + अपि → पुरुषोऽपि · अ + अ → आ: च + असौ → चासौ · औ + अ → आव: असौ + अधः → असावधः · विसर्ग → स् (त से पहले): अधः + तिष्ठेत् → अधस्तिष्ठेत्।",
         "contrast": "स्त्रीचेष्टः पुमान् (स्त्री जैसी चेष्टा वाला पुरुष) ↔ पुंचेष्टा स्त्री (पुरुष जैसी चेष्टा वाली स्त्री)।",
     },
@@ -810,9 +810,9 @@ AIDS = {
         "anchors": "याद-सूत्र: औंधी-वात, दाहिनी-कफ, बायीं-पित्त — तीन स्थिति, तीन दोष। (मेरी याद-पद्धति)",
     },
     "113": {
-        "seesaw": "वर्जित: न्युब्जा, पार्श्वगता (इकाई 109) ↔ उचित: उत्ताना (इकाई 113)।",
+        "contrast": "वर्जित: न्युब्जा, पार्श्वगता (इकाई 109) ↔ उचित: उत्ताना (इकाई 113)।",
         "sandhi": "म् → ं (व्यंजन से पहले): बीजम् + गृह्णीयात् → बीजं गृह्णीयात् · त् → द् (स्वर से पहले): तस्मात् + उत्ताना → तस्मादुत्ताना (छपा ‘दस्मा-’)।",
-        "chunks": "(त)स्माद् | उत्ताना | बीजं | गृह्णीयात्",
+        "chunks": "दस्माद् (सम्भावित तस्माद्) | उत्ताना | बीजं | गृह्णीयात्",
     },
     "114": {
         "chunks": "तथा(इह) | यथास्थानमेव | तिष्ठन्ति | दोषाः",
@@ -860,7 +860,7 @@ IMAGE_SPECS = {
     },
     ("110", "chain"): {
         "file": "sh1-nyubja-vata-110.svg",
-        "alt": ("Chain of unit 110: in a woman lying face down, Vata becomes strong, and it presses the yoni."),
+        "alt": ("Chain of unit 110: in a woman lying face down, Vata is strong, and it presses the yoni."),
         "type": "chain",
         "title": "औंधी स्थिति (इकाई ११०)",
         "steps": ["औंधी लेटी में", "वात बलवान", "वह योनि को पीड़ा देता"],
