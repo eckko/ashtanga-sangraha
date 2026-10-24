@@ -1,37 +1,47 @@
-# अष्टाङ्गसंग्रह — सूत्रस्थान (अध्याय १–५): Recall Quiz
+# अष्टाङ्गसंग्रह: Recall Quiz
 
-Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha, Sūtrasthāna chapters 1–5:
-372 cards (one per printed verse-pair), 6 questions each (2,232 in all).
+Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 3**: 518 cards and 3,108 questions (6 per card).
+- **Sūtrasthāna 1–5**: 372 cards (one per printed verse-pair), unchanged since version 2.
+- **Śārīrasthāna 1** (Putrakāmīya): 146 cards, new in version 3. Śārīrasthāna 2–12 are being added
+  (their unit data is already in `data/chapter202…212_verses.json` but has no cards yet).
+
 Code loads from `eckko/recall-quiz-site-template` tag **2.2.1** via jsDelivr.
+Site: <https://eckko.github.io/ashtanga-sangraha/>
 
 ## What each card has
-Verse, word chips, Hindi and English, a short explanation, memory aids
-(frame, chain, letters, seesaw, story, pegs, puns, anchors, sandhi,
-contrast, chunks, metre) and a picture (chain, table, split or mermaid
-diagram) where it helps. Questions favour **order** and **match**; typed
-Devanagari answers also accept IAST and plain-letter (Hinglish) spelling,
-with at most one per card; mcq, multi, sandhi-split and spot-the-error remain.
+Text, word chips, Hindi and English, a short explanation, memory aids (frame, chain, letters, seesaw,
+story, pegs, puns, anchors, sandhi, contrast, chunks, metre) and a picture (chain, table, split or
+mermaid diagram) where it helps. Questions favour **order** and **match**; typed Devanagari answers
+also accept IAST and plain-letter spelling, with at most one per card.
+
+## How Śārīrasthāna was built
+- Text: the owner's plain and sandhi-split files of Part 2 (`reference/ashtanga-sangraha/text/`).
+- Word split, Hindi and English: the Part 2 layers drafted and independently reviewed on 2026-10-18
+  (`reference/ashtanga-sangraha/layers-work/p02`), grouped into units with the same rule as Sūtrasthāna
+  (two half-verse lines of one length = one unit; formula, colophon and prose lines alone): 1,619 lines,
+  1,349 units, 172 verse and 1,177 prose. `data/part2_layer_unit_map.json` maps layer units to cards.
+- Cards and questions: written in batches of 12–14 units, each batch independently reviewed and fixed.
+- Medical content follows the owner's policy: exact translation, modern names and plant identifications
+  as the data labels them (standard / probable / disputed), no dose, effect or advice beyond the text.
 
 ## Honest limits
-- Source is a poor scan of the 1888 edition; damaged units are marked
-  low-confidence and carry no questions on doubtful readings. Many text
-  corrections are conjectural and listed in `data/*_verses.json` `text_flags`.
-- Hindi/English and explanations are AI-written and AI-reviewed, not a
-  scholar's translation. Pegs and puns are the author's own mnemonics.
-- The edition's two-line pairing is kept, so it may run one line out of step
-  with real verse numbers (chapters 1, 2, 4, 5 and parts of 3).
-- Verse order is not visible in radial mind-map pictures.
+- Source is a poor scan of the 1888 edition; damaged units are marked low-confidence and carry no
+  questions on doubtful readings. Text corrections are conjectural and listed in each unit's `text_flags`.
+- Hindi/English and explanations are AI-written and AI-reviewed, not a scholar's translation. Pegs and
+  puns are the author's own mnemonics.
+- Śārīrasthāna is mostly prose; one printed line is often one long sentence or list, and questions
+  pick its main teaching points. Data notes cite printed lines as "line N (card M)".
+- The edition's two-line pairing is kept, so verse units may run one line out of step with real verse numbers.
 
 ## Layout
-`index.html` loader · `questions.json` bank · `images/aids/` pictures ·
-`book-structure/` chapter map · `verse_book.json` + `data/` + `tools/verse/`
-+ `tools/authored/` the source the bank is built from · `audit/`, `reference/`
-earlier digitisation work.
+`index.html` loader · `questions.json` bank · `images/aids/` pictures · `book-structure/` chapter map ·
+`verse_book.json` + `data/` + `tools/verse/` + `tools/authored/` the source the bank is built from ·
+`audit/`, `reference/` earlier digitisation work.
 
 ## Rebuild
 ```
-python3 tools/verse/make_bank.py .          # questions.json
-python3 tools/verse/render_images.py .      # images/aids/*.svg (needs node_modules for mermaid-cli)
+PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json (PARTIAL=1 while Śārīra 2-12 have no cards)
+python3 tools/verse/render_images.py .         # images/aids/*.svg (needs node_modules for mermaid-cli)
 python3 <template-2.2.1>/tools/validate_bank.py questions.json
 ```
 Move to another template tag: `python3 tools/set_template_tag.py TAG`.
