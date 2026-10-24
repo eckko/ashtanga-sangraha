@@ -4,7 +4,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 89
 AUTHORED["89"] = {
-    "title": "मोहभ्रममूर्च्छाद्याः स्युर्जीर्यति च भेषजे",
+    "title": "तृणमोहभ्रममूर्च्छाद्याः स्युर्जीर्यति च भेषजे",
     "question": "Which signs may arise while the medicine is being digested, and which medicine does verse 89 recommend then?",
     "rule": ("While the medicine is being digested, delusion, giddiness, fainting and the like may arise (thirst too, on a "
              "conjectural reading); then a medicine that is Pitta-destroying, sweet and cool is recommended."),
@@ -14,11 +14,11 @@ AUTHORED["89"] = {
                    "समास का पहला सदस्य छपाई में ‘तृण’ (घास) है; ‘तृट्’ यानी प्यास पढ़ना केवल अनुमान है। "
                    "ऐसी अवस्था में औषध पित्तघ्न यानी पित्त को नष्ट करने वाली, स्वादु यानी मीठी और शीतल होनी चाहिए: ‘शस्यते’ = प्रशस्त है। "
                    "कोई द्रव्य नहीं गिनाया गया, केवल गुण। अगला श्लोक (05.03.102-103) इसका उलटा चित्र देता है: कफ के लक्षणों में तीक्ष्ण-उष्ण औषध।"),
-    "hook": "पचती दवा से चक्कर और मूर्च्छा: पित्त बुझाओ, मीठा और ठण्डा दो।",
+    "hook": "दवा पचते समय चक्कर और मूर्च्छा: पित्त बुझाओ, मीठा और ठण्डा दो।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "In verse 89, what kind of medicine is recommended when these signs arise?",
+            "In verse 89, what kind of medicine is recommended when delusion, giddiness and fainting arise?",
             ("Pitta-destroying, sweet and cool",
              "पित्तघ्नं स्वादुशीतं च भेषजं तत्र शस्यते: Pitta-destroying, sweet and cool."),
             [("Kapha-dispelling, sharp and hot", "That is the remedy of the next verse (05.03.103), for signs of Kapha."),
@@ -47,7 +47,7 @@ AUTHORED["89"] = {
             "स्युः (3 pl. optative of √अस्, 'may be') + जीर्यति (while being digested).",
             "उः before a voiced sound → उर्."),
         mcq("apply", 4,
-            "While a medicine is being digested, a patient grows giddy and faints. By verse 89, which medicine fits?",
+            "A patient on a cleansing medicine grows giddy and faints. By verse 89, which medicine fits?",
             ("A sweet, cool, Pitta-destroying one",
              "Giddiness and fainting are named in verse 89; its remedy is Pitta-destroying, sweet and cool."),
             [("A sharp, hot, Kapha-dispelling one", "That suits the Kapha signs of 05.03.102-103, not giddiness and fainting."),
@@ -125,12 +125,12 @@ AUTHORED["90"] = {
             "कफनुत् + हितम् gives कफनुद्धितम्. Join the invented pair वातनुत् + हितम् (Vāta-dispelling, beneficial) the same way. Which is right?",
             ("वातनुद्धितम्",
              "त् + ह → द्ध: वातनुत् + हितम् = वातनुद्धितम्, like कफनुद्धितम्."),
-            [("वातनुत्हितम्", "त् cannot stand unchanged before ह; it becomes द् and ह becomes ध."),
-             ("वातनुद्हितम्", "Only half the change: after द् the ह also turns into ध."),
+            [("वातनुत्हितम्", "त् cannot stand unchanged before ह; it becomes द् (and here ह becomes ध)."),
+             ("वातनुत्धितम्", "The त् cannot stay voiceless before a voiced sound; it must become द्, giving द्ध."),
              ("वातनुधितम्", "The द् of the join cannot vanish; the form needs द्ध.")],
             "Same join as कफनुत् + हितम् → कफनुद्धितम्.",
             "त् + ह → द्ध.",
-            teaches="A final त् before ह becomes द्, and the ह becomes ध: कफनुत् + हितम् → कफनुद्धितम्; वातनुत् + हितम् → वातनुद्धितम्."),
+            teaches="A final त् before ह becomes द्, and the ह may become ध (as printed here): कफनुत् + हितम् → कफनुद्धितम्; वातनुत् + हितम् → वातनुद्धितम्."),
     ],
 }
 
@@ -138,7 +138,7 @@ AUTHORED["90"] = {
 AUTHORED["91"] = {
     "title": "प्रतिकूला गतिः पायोर्ग्रथितत्वं",
     "question": "Which complications open the closing list in verse 91?",
-    "rule": ("A list without a verb: contrary movement (gati), knottedness with heaviness (tied in the data to the anus), "
+    "rule": ("A list without a verb: contrary movement (gati; of the anus, as the data reads पायोः), knottedness with heaviness, "
              "stirring up of the doṣa, severe distension (ādhmāna), cutting pain (parikarta), discharge (parisrava)."),
     "limits": ("Medium confidence. पायोः (of the anus) is taken with गतिः; it may go with ग्रथितत्वम्, and what is knotted "
                "is not said: no question on that link. The list runs on into verse 92; the twelve are not numbered."),
@@ -180,14 +180,13 @@ AUTHORED["91"] = {
             "पायोः (genitive of पायु, anus) + ग्रथितत्वम् (knottedness).",
             "ओः before a voiced sound → ओर्."),
         mcq("apply", 4,
-            "A physician notes that the patient's doṣa has been stirred up. Which item of verse 91 names this?",
-            ("दोषोत्क्लेशः",
-             "दोष + उत्क्लेशः: stirring up of the doṣa."),
+            "After purgation, a patient feels a cutting pain. Which item of verse 91 names this?",
+            ("परिकर्तः", "परिकर्त is glossed cutting pain."),
             [("परिस्रवः", "परिस्रव is discharge, a flowing out."),
-             ("ग्रथितत्वम्", "ग्रथितत्व is knottedness."),
-             ("प्रतिकूला गतिः", "This is contrary movement, not stirring up.")],
-            "उत्क्लेश = stirring up; the item is दोषोत्क्लेशः.",
-            "दोषोत्क्लेश = stirring up of the doṣa."),
+             ("दोषोत्क्लेशः", "उत्क्लेश is stirring up of the doṣa."),
+             ("ग्रथितत्वम्", "ग्रथितत्व is knottedness.")],
+            "Cutting pain = परिकर्तः, an item of verse 91.",
+            "परिकर्त = cutting pain."),
         mcq("transfer", 5,
             "सगौरवम् means 'with heaviness'. By the same pattern, what does an invented सशूलम् mean?",
             ("With pain",
@@ -213,9 +212,9 @@ AUTHORED["92"] = {
     "explain_hi": ("यह श्लोक सूची पूरी करता है: प्रवाहिका यानी सम्भवतः पेचिश (बार-बार ज़ोर लगाकर पतला मल), हृद्ग्रहण यानी हृदय (या छाती) का जकड़ना, "
                    "सर्वाङ्गपरिग्रह यानी सारे शरीर का जकड़ जाना, और सर्वधातुस्रव यानी सब धातुओं का बहना। "
                    "फिर समेटता है: ये बारह (व्यापदें) उनके साधनों यानी उपायों सहित कही गई हैं। "
-                   "उपाय इसी अध्याय में पहले आ चुके हैं; जैसे प्रवाहिका 05.03.39-41 में और धातुओं का बहना 05.03.52 में। "
+                   "उपाय इसी अध्याय में पहले आ चुके हैं; जैसे प्रवाहिका 05.03.39-41 में और धातुओं का बहना 05.03.52-53 में। "
                    "बारह की गिनती पाठ यहाँ एक-एक करके नहीं करता।"),
-    "hook": "पेचिश, दिल की जकड़, पूरा शरीर जकड़ा, सब धातु बहे: बारह पूरे, उपाय सहित।",
+    "hook": "पेचिश, दिल की जकड़, पूरा शरीर जकड़ा, सब धातु बहे: ये बारह, उपाय सहित कही गईं।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
@@ -333,7 +332,7 @@ AUTHORED["93"] = {
 # ---------------------------------------------------------------- unit 94
 AUTHORED["94"] = {
     "title": "उत्पद्यमानासु च तासु तासु",
-    "question": "What should the physician do in each complication of cleansing, and why does verse 94 trust the śāstra?",
+    "question": "What should the physician do in each complication of cleansing, and what reason does verse 94 give?",
     "rule": ("In each complication arising through a deviation in cleansing, he should strive quickly for the cure by this very "
              "direction; for the śāstra is the light of sound and unsound conduct (naya, durnaya)."),
     "limits": ("High confidence. 'This direction' is the guidance of the chapter; the verse names no single remedy. The sentence "
@@ -507,7 +506,7 @@ AIDS = {
         "anchors": "लाला = लार · विष्टम्भ = रुकावट · रोमहर्ष = रोंगटे खड़े होना · आवृत = ढका · कफनुत् = कफ हटाने वाला।",
     },
     "91": {
-        "diagram": {"groups": [{"label": "पहली पंक्ति", "items": ["प्रतिकूल गति", "ग्रथितत्व", "भारीपन सहित"]},
+        "diagram": {"groups": [{"label": "पहली पंक्ति", "items": ["प्रतिकूल गति", "ग्रथितत्व, भारीपन सहित"]},
                                {"label": "दूसरी पंक्ति", "items": ["दोष का उत्क्लेश", "अत्यधिक आध्मान", "परिकर्त", "परिस्रव"]}]},
         "sandhi": "ओः → ओर् घोष से पहले: पायोः + ग्रथितत्वम् → पायोर्ग्रथितत्वम्; अ + उ → ओ: दोष + उत्क्लेशः → दोषोत्क्लेशः।",
         "anchors": "प्रतिकूल = उलटा · ग्रथित = गाँठदार · गौरव = भारीपन · उत्क्लेश = उभरना, हिलना · परिकर्त = काटने जैसी पीड़ा · परिस्रव = बहना।",
@@ -555,9 +554,9 @@ IMAGE_SPECS = {
     },
     ("91", "diagram"): {
         "file": "ka3-vyapad-list-91.svg",
-        "alt": "Mind map of the seven items of verse 91 in text order: contrary movement, knottedness, with heaviness, stirring up of the dosha, severe distension, cutting pain, discharge",
+        "alt": "Mind map of the six items of verse 91: contrary movement, knottedness with heaviness, stirring up of the dosha, severe distension, cutting pain, discharge",
         "type": "mermaid",
-        "code": ('mindmap\n  व्यापदों की सूची\n    प्रतिकूल गति\n    ग्रथितत्व\n    भारीपन सहित\n'
+        "code": ('mindmap\n  व्यापदों की सूची\n    प्रतिकूल गति\n    ग्रथितत्व, भारीपन सहित\n'
                  '    दोष का उत्क्लेश\n    अत्यधिक आध्मान\n    परिकर्त यानी काट\n    परिस्रव यानी बहना\n'),
     },
     ("94", "chain"): {
