@@ -16,7 +16,7 @@ AUTHORED["79"] = {
                    "जम्बू का छपा रूप संदिग्ध है (सम्भवतः जामुन), इसलिए उस पर प्रश्न नहीं। "
                    "दूसरी पंक्ति: शंख, सर्जरस यानी साल का राल, लाक्षा यानी लाख, और कत्तृण नामक घास, जिसकी पहचान अज्ञात है। "
                    "अन्त में ‘पलांशिक’: पल (तौल की इकाई) जिसका अंश हो; यह हर द्रव्य पर लगे या नहीं, पाठ नहीं कहता।"),
-    "hook": "गूलर के कच्चे फल, तीन पेड़ों की छाल, फिर शंख, राल, लाख, घास: सब पल के हिसाब से।",
+    "hook": "गूलर के कच्चे फल, तीन पेड़ों की छाल, फिर शंख, राल, लाख, घास; अन्त में ‘पलांशिक’।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which part of the udumbara does line 1 of verse 79 name first?",
@@ -110,7 +110,7 @@ AUTHORED["80"] = {
               "Having ground, with these, a prastha of ghee, doubled with milk, one should cook.",
               "पिष्ट्वा · तैः · सर्पिषः प्रस्थं · क्षीरद्विगुणितं · पचेत्."),
         match(2, "Match each word of verse 80 to its meaning.",
-              [["पिष्ट्वा", "having ground"], ["सर्पिस्", "ghee"], ["प्रस्थ", "a measure (prastha)"],
+              [["पिष्ट्वा", "having ground"], ["सर्पिस्", "ghee"], ["प्रस्थ", "a measure"],
                ["क्षीर", "milk"], ["पेय", "to be drunk"], ["यथाबलम्", "according to strength"]],
               "Line 1 gives the making, line 2 the use.",
               "पिष्ट्वा = having ground; सर्पिस् = ghee; प्रस्थ = a measure; क्षीर = milk; पेय = to be drunk; यथाबलम् = according to strength.",
@@ -127,7 +127,7 @@ AUTHORED["80"] = {
               "पेयमे is not a form; the word is पेयम्.")],
             "पेयम् (to be drunk) + एतत् (this) + यथाबलम् (according to strength).",
             "-त् + य- → -द्य-."),
-        mcq("apply", 4, "A physician gives this ghee. How does verse 80 set the amount to be drunk?",
+        mcq("apply", 4, "A physician gives this ghee to a patient. How, by verse 80, is it to be drunk?",
             ("According to strength (yathābalam)",
              "पेयमेतद्यथाबलम्: this is to be drunk according to strength."),
             [("One prastha drunk at once",
@@ -245,7 +245,7 @@ AUTHORED["82"] = {
                    "दूसरी पंक्ति: मसूर, धातकी यानी धाय के फूल, और बला यानी खरैटी (मानक)। "
                    "मसूर, धातकी और समंगा पिछले श्लोक (05.06.158-159) में भी थे। "
                    "‘बाल’ (कोमल) केवल गूलर पर लगे या सब पर, यह स्पष्ट नहीं।"),
-    "hook": "कोंपलें चार पेड़ों की, फूल धाय के, साथ मसूर और बला: वैसी ही लपसी।",
+    "hook": "कोंपलें चार पौधों की, फूल धाय के, साथ मसूर और बला: वैसी ही लपसी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "Which part of the plants does line 1 of verse 82 use?",
@@ -373,7 +373,7 @@ AUTHORED["83"] = {
             [("At the wrong time",
               "That would be अकाले; यथा- means 'according to'."),
              ("Before the time",
-              "That would be प्राक् काले or a similar phrase."),
+              "That would be कालात् पूर्वम्; यथा- means 'according to'."),
              ("For all time",
               "That would be सर्वकालम् or सदा.")],
             "यथा-X-म् = according to X (as in यथाबलम्, 05.06.157).",
@@ -432,7 +432,7 @@ AUTHORED["84"] = {
             "सिद्धिः (success) + नाम (named): a visarga after इ becomes र् before a voiced sound.",
             "-इः + घोष → -इर्."),
         fill(4, "The colophon calls this the ____ (sixth) chapter. Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("षष्ठः", "षष्ठ", "shashtha", "sasthah"),
+             accepts("षष्ठः", None, "षष्ठ", "shashtha", "shashthah", "sasthah"),
              "षष्ठोऽध्यायः = षष्ठः (sixth) + अध्यायः (chapter).",
              "Unit 84 names the chapter Bastivyāpatsiddhi and calls it the sixth (षष्ठ) chapter.",
              "षष्ठ = sixth.", role="apply"),
@@ -506,7 +506,7 @@ AIDS = {
     "81": {
         "diagram": {"groups": [{"label": "पंक्ति १ (एक समास)", "items": ["कच्छुरा", "धातकी (धाय)", "बिल्व (बेल)",
                                                                     "समंगा", "रक्तमूली"]},
-                               {"label": "पंक्ति २", "items": ["मसूर", "अश्वत्थ (पीपल) के शृंग", "जल में उबले", "= यवागू"]}]},
+                               {"label": "पंक्ति २", "items": ["मसूर", "अश्वत्थ (पीपल) के शृंग", "= यवागू", "जल में उबले"]}]},
         "chunks": "कच्छुराधातकीबिल्व | समंगारक्तमूलिभिः ‖ मसूरश्वत्थशृंगैश्च | यवागूः स्याज्जले शृतैः",
         "sandhi": "त् + ज → ज्ज: स्यात् + जले → स्याज्जले; ः + च → श्च: शृङ्गैः + च → शृंगैश्च।",
         "anchors": "धातकी = धाय · बिल्व = बेल · मसूर = मसूर · अश्वत्थ = पीपल · शृंग = अग्रभाग · यवागू = गाढ़ी लपसी · शृत = उबाला।",
@@ -526,7 +526,7 @@ AIDS = {
         "anchors": "नानाप्रकार = तरह-तरह के · व्यापद् = दुर्घटना · विभ्रम = भूल · अवस्था = हालत · साधन = उपचार।",
     },
     "84": {
-        "frame": "अध्याय ६ का ढाँचा: 05.06.1 आरम्भ (बस्तिव्यापत्तिसिद्धि) · व्यापदें और उपचार · रस-संसर्ग · अतिसार के घृत और यवागू · यहाँ पुष्पिका।",
+        "frame": "अध्याय ६ का ढाँचा: 05.06.1 आरम्भ (बस्तिव्यापत्तिसिद्धि) · बस्ति की व्यापदें और उपचार · मल, वात, रक्त आदि के संसर्ग में बस्ति के रस · सब अतिसारों में घृत, फिर यवागू · व्यापदों का उपचार अवस्था के अनुसार · यहाँ पुष्पिका।",
         "sandhi": "-इः → -इर् सघोष से पहले: सिद्धिः + नाम → सिद्धिर्नाम; -अः + अ → -ओऽ: षष्ठः + अध्यायः → षष्ठोऽध्यायः।",
         "anchors": "इति = इस प्रकार · व्यापद् = दुर्घटना · सिद्धि = सफल उपचार · षष्ठ = छठा · अध्याय = अध्याय।",
     },
@@ -544,7 +544,7 @@ IMAGE_SPECS = {
         "rows": [["उदुम्बर के शलाटु", "गूलर के कच्चे फल (मानक)"], ["जम्बू की छाल", "सम्भवतः जामुन (फ़्लैग)"],
                  ["आम्र की छाल", "आम (मानक)"], ["उदुम्बर की छाल", "गूलर (मानक)"], ["शंख", "शंख (मानक)"],
                  ["सर्जरस", "साल का राल (मानक)"], ["लाक्षा", "लाख (मानक)"], ["कत्तृण", "एक घास (अज्ञात)"],
-                 ["पलांशिक", "पल जिसका अंश हो"]],
+                 ["पलांशिक (मात्रा)", "पल जिसका अंश हो"]],
     },
     ("80", "chain"): {
         "file": "ka6-atisara-ghrita-80.svg",
