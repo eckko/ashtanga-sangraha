@@ -15,15 +15,15 @@ AUTHORED["47"] = {
     "title": "दशमूलं वरां रास्नाम्",
     "question": "Which drugs does verse 47 list at the start of the new anuvāsana oil?",
     "rule": ("Verse 47 opens a drug list in the accusative: daśamūla (the ten roots), varā, rāsnā, "
-             "aśvagandhā and punarnavā; then guḍūcī, eraṇḍa, bhūtīka, bhārgī, vṛṣaka and śirīṣa. "
-             "Its verb comes later (verse 49)."),
+             "aśvagandhā and punarnavā; then guḍūcī, eraṇḍa (suggested reading), bhūtīka, bhārgī, "
+             "vṛṣaka and śirīṣa (suggested reading). Its verb most probably comes in verse 49."),
     "limits": ("Low confidence. In the damaged compound of line 2, eraṇḍa and śirīṣa rest on suggested "
                "readings: no question uses them. bhūtīka is unidentified, rāsnā disputed. The ten roots "
                "of daśamūla are not named (open point). No verb here."),
     "explain_hi": ("यहाँ से वात-पित्तहर अनुवासन तेलों का नया प्रकरण शुरू होता है, और यह श्लोक पहले तेल के द्रव्य गिनाता है। "
                    "पहली पंक्ति: दशमूल यानी दस जड़ों का समूह, वरा यानी सम्भवतः त्रिफला, रास्ना (पहचान विवादित), अश्वगन्धा यानी असगन्ध और पुनर्नवा। "
                    "दूसरी पंक्ति एक लम्बा समास है: गुडूची यानी गिलोय, एरण्ड यानी अरंडी, भूतीक, भार्गी यानी भारंगी, वृषक यानी सम्भवतः अडूसा और शिरीष। "
-                   "सब नाम द्वितीया विभक्ति में हैं: ये किसी आने वाली क्रिया के कर्म हैं, जो श्लोक ४९ में (‘विपाच्य’) आती है। "
+                   "सब नाम द्वितीया विभक्ति में हैं: ये किसी आने वाली क्रिया के कर्म हैं, जो सम्भवतः श्लोक ४९ में (‘विपाच्य’) आती है। "
                    "दूसरी पंक्ति की छपाई बिगड़ी है, इसलिए एरण्ड और शिरीष अनुमानित पाठ पर टिके हैं।"),
     "hook": "दशमूल से शुरू, वरा-रास्ना-असगन्ध-पुनर्नवा, फिर गिलोय-भारंगी-अडूसा।",
     "core": False,
@@ -57,11 +57,11 @@ AUTHORED["47"] = {
               "Only names printed in verse 47 count; śatāvarī and jīvantī belong to later verses.",
               "Count as listed only what the verse names."),
         mcq("apply", 4, "Why do the drug names of verse 47 stand in the accusative?",
-            ("They are objects of a later verb", "The card: no verb here; the list is the object of vipācya in verse 49."),
+            ("They are objects of a later verb", "The card: no verb here; the list is most probably the object of vipācya in verse 49."),
             [("They are subjects of the sentence", "A subject would be nominative; these end in -आम्, -म्."),
              ("They name the diseases treated", "These are drug names, not diseases."),
              ("They are persons being addressed", "Address uses the vocative; these are drugs.")],
-            "An accusative list waits for its verb; here the verb comes two verses later.",
+            "An accusative list waits for its verb; here it most probably comes two verses later.",
             "द्वितीया = कर्म: verb vipācya (05.05.96)."),
         mcq("transfer", 5,
             "Like रास्नाम् + अश्वगन्धाम् → रास्नामश्वगन्धाम्, how do invented वचाम् + अभयाम् join?",
@@ -90,13 +90,13 @@ AUTHORED["48"] = {
                    "दूसरी पंक्ति पाँच अन्न और फल: यव, माष यानी उड़द, अतसी यानी अलसी, कोल यानी सम्भवतः बेर और कुलत्थ यानी कुलथी; ये प्रसृत से मापे जाते हैं। "
                    "प्रसृत अंजलि-भर का मान है; ‘प्रत्येक’ शब्द संस्कृत में नहीं है। "
                    "क्रिया अभी नहीं आई: ये सब श्लोक ४९ के ‘विपाच्य’ के कर्म लगते हैं।"),
-    "hook": "शतावरी-सहचर-काकनासा पल-भर; यव-माष-अतसी-कोल-कुलत्थ प्रसृत-भर।",
+    "hook": "शतावरी-सहचर-काकनासा, फिर पलांशिक; यव-माष-अतसी-कोल-कुलत्थ प्रसृत-भर।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
             "By verse 48, with which measure are yava, māṣa and the other grains measured?",
             ("With the prasṛta", "प्रसृतोन्मितान् = measured by prasṛta, the cupped-palm measure."),
-            [("With the pala", "Pala goes with the three drugs of line 1 (palāṃśika)."),
+            [("With the pala", "Palāṃśika stands in line 1; the grains carry their own measure word, prasṛta-unmita."),
              ("With the droṇa", "Droṇa is the remainder of the boiling in verse 49."),
              ("With the āḍhaka (a volume)", "Āḍhaka measures the oil in verse 49.")],
             "The measure word is joined to the grains in one compound: prasṛta-unmita.",
@@ -158,7 +158,7 @@ AUTHORED["49"] = {
         mcq("pretest", 0,
             "In verse 49, until how much water is left is the boiling continued?",
             ("Until a droṇa remains", "द्रोणशेषेण = with a droṇa as remainder."),
-            [("Until a vaha remains", "The vaha is the water one starts with."),
+            [("Until a vaha remains", "The remainder word joins droṇa (droṇa-śeṣa), not vaha."),
              ("Until an āḍhaka is left", "The āḍhaka measures the oil, not the remainder."),
              ("Until a pala remains", "The pala measures the jīvanīya drugs.")],
             "शेष (remainder) is joined to droṇa: boil down to a droṇa.",
@@ -168,17 +168,16 @@ AUTHORED["49"] = {
               "Boil, keep the remainder, cook the oil, with the jīvanīya paste.",
               "वह जल में उबालकर · द्रोण शेष, उससे · तेल पकाए · जीवनीय पल-भर."),
         match(2, "Match each measure of verse 49 to what it measures.",
-              [["वह", "the water boiled"], ["द्रोण", "what remains"], ["आढक", "the oil"],
-               ["पल", "the jīvanīya drugs"]],
-              "Four measures, four quantities: water, remainder, oil, paste.",
-              "वह = जल; द्रोण = शेष; आढक = तेल; पल = जीवनीय.",
+              [["द्रोण", "what remains"], ["आढक", "the oil"], ["पल", "the jīvanīya drugs"]],
+              "Three measures, three quantities: remainder, oil, paste.",
+              "द्रोण = शेष; आढक = तेल; पल = जीवनीय.",
               role="extend",
-              teaches="In verse 49 the vaha measures the water, the droṇa the remainder, the āḍhaka the oil, the pala the jīvanīya drugs."),
+              teaches="In verse 49 the droṇa measures the remainder, the āḍhaka the oil, the pala the jīvanīya drugs (the sense of vahe is doubtful)."),
         mcq("discriminate", 3, "To what does तेन (with that) refer in verse 49, by the card?",
             ("The liquid left after boiling", "The card: tena refers to the resulting liquid (the decoction)."),
             [("The āḍhaka of oil itself", "The oil is what is cooked with it, not 'that'."),
-             ("The jīvanīya drugs ground", "Those are added in the instrumental of line 2."),
-             ("The vaha vessel of water", "The card reads vaha as a measure, not a vessel.")],
+             ("The jīvanīya drugs to be ground", "Those are added in the instrumental of line 2."),
+             ("The salt put in at the end", "No salt is named in verse 49.")],
             "First the decoction is made; then the oil is cooked with it.",
             "तेन = उस (शेष क्वाथ) से."),
         mcq("apply", 4, "Which split of पेष्यैर्जीवनीयैः is right?",
@@ -189,14 +188,14 @@ AUTHORED["49"] = {
             "Visarga after ऐ turns into र् before ज: पेष्यैः जीवनीयैः → पेष्यैर्जीवनीयैः.",
             "ऐः + सघोष व्यञ्जन → ऐर्."),
         mcq("transfer", 5,
-            "Like विपाच्य (वि- + √पच् + -य), which invented form means having ground, from प्र + √पिष्?",
+            "Like विपाच्य (prefix वि- + absolutive -य), which invented form means having ground, from प्र + √पिष्?",
             ("प्रपिष्य", "With a prefix the absolutive takes -य: प्र + पिष् + य = प्रपिष्य."),
             [("प्रपिष्ट्वा", "-त्वा is used without a prefix; with प्र- it becomes -य."),
              ("प्रपिनष्टि", "This is a present verb, 'grinds', not 'having ground'."),
              ("प्रपिष्टम्", "This is a past participle, 'ground', not 'having ground'.")],
-            "Prefix + root takes -य (विपाच्य, प्रपिष्य); a bare root takes -त्वा.",
+            "Prefix + verb stem takes -य (विपाच्य, प्रपिष्य); a bare root takes -त्वा.",
             "उपसर्ग + धातु → -य (ल्यप्).",
-            teaches="With a prefix the absolutive ends in -य: वि + पच् → विपाच्य, प्र + पिष् → प्रपिष्य."),
+            teaches="With a prefix the absolutive ends in -य: विपाच्य (वि- + causative of √पच्), प्र + पिष् → प्रपिष्य."),
     ],
 }
 
@@ -245,7 +244,7 @@ AUTHORED["50"] = {
         mcq("apply", 4, "To what does तद्वत् (similarly) in verse 50 point, by the card?",
             ("The preparation described before", "The card: tadvat refers to the preparation of the previous units."),
             [("The Pitta ghee of verse 55", "A later verse cannot be meant by 'similarly' here."),
-             ("A preparation without drugs", "The line itself names the jīvanīya drugs."),
+             ("A preparation made without any drugs", "The line itself names the jīvanīya drugs."),
              ("The way the enema is given", "Giving the enema is not described in these verses.")],
             "Like the oil of verses 47-49, the vasā is cooked with the jīvanīya drugs.",
             "तद्वत् = उसी प्रकार (पिछली विधि से)."),
@@ -333,7 +332,7 @@ AUTHORED["52"] = {
              "verse 53."),
     "limits": ("medā, ṛṣabhaka and kākanāsā are disputed; śrāvaṇī, madhuka and kṛṣṇā (pippalī) only "
                "probable. The verse has no verb; the list runs on into verse 53."),
-    "explain_hi": ("यह श्लोक एक नए तेल-घी के द्रव्य गिनाता है, जो वात-पित्त नाशक है (श्लोक ५४)। "
+    "explain_hi": ("यह श्लोक एक नए तेल-घी के द्रव्य गिनाता है, जो सम्भवतः वही वात-पित्त नाशक योग है (श्लोक ५४; सम्बन्ध क्रम से माना गया)। "
                    "पहली पंक्ति: जीवन्ती यानी डोडी, मदन यानी मैनफल, मेदा नामक द्रव्य (विवादित), श्रावणी यानी सम्भवतः गोरखमुण्डी, मधुक यानी सम्भवतः मुलेठी और बला यानी बरियार। "
                    "दूसरी पंक्ति: शताह्वा और ऋषभक का द्वन्द्व (द्विवचन), कृष्णा यानी सम्भवतः पिप्पली, काकनासा और शतावरी। "
                    "क्रिया इस श्लोक में नहीं; सूची श्लोक ५३ में चलती है, जहाँ ‘पिष्ट्वा’ आता है।"),
@@ -361,10 +360,10 @@ AUTHORED["52"] = {
               teaches="Line 1 of verse 52: jīvantī, madana, medā, śrāvaṇī, madhuka, balā."),
         mcq("discriminate", 3, "Which split of शताह्वर्षभकौ (printed शताव्हर्षभकौ) is right?",
             ("शताह्व + ऋषभकौ", "अ + ऋ → अर्: शताह्व + ऋषभकौ = शताह्वर्षभकौ."),
-            [("शताह्वा + ऋषभकौ", "आ + ऋ gives आर्: शताह्वार्षभकौ, not printed."),
+            [("शताह्वः + ऋषभकौ", "Final -अः before ऋ loses its visarga and leaves a gap (शताह्व ऋषभकौ); no अर् arises."),
              ("शताह्व + अर्षभकौ", "अ + अ gives आ: शताह्वार्षभकौ, not printed."),
              ("शताह्वर् + षभकौ", "षभक is no drug; the second member is ऋषभक.")],
-            "The short अ before र्ष shows the join अ + ऋ.",
+            "अ + ऋ → अर् (guṇa); the data reads the first member as शताह्व.",
             "अ + ऋ → अर्."),
         mcq("apply", 4, "Why does शताह्वर्षभकौ end in -औ?",
             ("It is a dual: two drugs joined", "The card: a dual dvandva, śatāhvā and ṛṣabhaka."),
@@ -376,7 +375,7 @@ AUTHORED["52"] = {
         mcq("transfer", 5,
             "Like शताह्व + ऋषभक → शताह्वर्षभक, how do invented मधुक + ऋषभक join?",
             ("मधुकर्षभक", "अ + ऋ → अर्: मधुक + ऋषभक = मधुकर्षभक."),
-            [("मधुकार्षभक", "आर् would need आ + ऋ or vṛddhi; here it is अ + ऋ."),
+            [("मधुकार्षभक", "आर् would need vṛddhi; अ + ऋ gives guṇa अर्."),
              ("मधुकृषभक", "The अ cannot vanish; it joins ऋ as अर्."),
              ("मधुकऋषभक", "Inside a compound अ and ऋ must join.")],
             "अ + ऋ → अर् is guṇa sandhi.",
@@ -440,7 +439,7 @@ AUTHORED["53"] = {
             ("पक्त्वा", "Without a prefix the absolutive takes -त्वा: पच् → पक्त्वा."),
             [("पचेत्", "This is the optative 'should cook', a finite verb."),
              ("पक्वम्", "This is the participle 'cooked', not 'having cooked'."),
-             ("पच्य", "-य is used only with a prefix, as in विपाच्य.")],
+             ("पच्य", "-य is used only with a prefix, as in विपाच्य, प्रपिष्य.")],
             "A bare root takes -त्वा (पिष्ट्वा, पक्त्वा); a prefixed one takes -य.",
             "धातु (उपसर्ग-रहित) → -त्वा.",
             teaches="Without a prefix the absolutive ends in -त्वा: √पिष् → पिष्ट्वा, √पच् → पक्त्वा."),
@@ -501,7 +500,7 @@ AUTHORED["54"] = {
         mcq("transfer", 5,
             "Like बलशुक्राग्निवर्धनम् (increasing strength, semen, fire), what does an invented मेधावर्धनम् mean?",
             ("Increasing intelligence", "-वर्धन at the end of a compound = increasing X."),
-            [("Destroying intelligence", "'Destroying' would be -घ्न, as in वातपित्तघ्न."),
+            [("Destroying the intelligence", "'Destroying' would be -घ्न, as in वातपित्तघ्न."),
              ("Removing ailments of it", "'Removing' would be -हर, as in आमयहर."),
              ("Born of intelligence", "'Born of' would be -ज, not -वर्धन.")],
             "-वर्धन increases, -घ्न destroys, -हर removes.",
@@ -518,12 +517,12 @@ AUTHORED["55"] = {
              "a quarter (tailapāda) is cooked: an anuvāsana that destroys Pitta."),
     "limits": ("The drugs are not named, only described as cold. śiśira may go with both touch and "
                "potency or the phrase may be read 'having cold touch and potency' (two-way). A quarter of "
-               "what, and fourfold of what, are not stated (understood: of the ghee). No verb."),
+               "what is not stated (understood: of the ghee); fourfold of what is not stated either. No verb."),
     "explain_hi": ("यह श्लोक पित्त के लिए अनुवासन बताता है। "
                    "द्रव्यों का नाम नहीं, केवल गुण: वे स्पर्श में और वीर्य यानी शक्ति में शीतल हों, और पिसे हुए हों। "
                    "इन्हें चौगुने दूध में डालकर ऐसा घी पकाया जाए जिसमें तेल एक चौथाई हो: ‘तैलपाद’। "
                    "यह अनुवासन पित्त का नाश करता है। "
-                   "चौथाई और चौगुना किसके अनुपात में, पंक्ति नहीं कहती; घी का माना जाता है।"),
+                   "तेल चौथाई किसका, पंक्ति नहीं कहती (घी का माना जाता है); दूध चौगुना किसके अनुपात में, यह भी नहीं कहा।"),
     "hook": "ठण्डे पिसे द्रव्य, चौगुना दूध, घी में चौथाई तेल: पित्त-घ्न।",
     "core": True,
     "questions": [
@@ -532,7 +531,7 @@ AUTHORED["55"] = {
             ("Pitta", "पित्तघ्नम् = destroying Pitta."),
             [("Vāta", "Vāta oils were verses 47-51; verse 55 names Pitta."),
              ("Kapha", "Kapha oils follow from verse 56."),
-             ("Rakta", "Blood is not named in verse 55.")],
+             ("Rakta (blood)", "Blood is not named in verse 55.")],
             "The last line says it plainly: pitta-ghnam anuvāsanam.",
             "पित्तघ्न = पित्त-नाशक."),
         match(1, "Match each word of verse 55 to its meaning on the card.",
@@ -549,12 +548,12 @@ AUTHORED["55"] = {
             ("Ghee with oil as a quarter", "तैल-पाद = having oil as a quarter; the noun is ghee."),
             [("Oil with ghee as a quarter", "The quarter is oil (तैल-पाद), the base is ghee."),
              ("Only a quarter of the oil", "The ghee is the main item; oil is its quarter."),
-             ("Oil and ghee, equal parts", "पाद means a quarter, not an equal share.")],
+             ("Oil and ghee in equal parts", "पाद means a quarter, not an equal share.")],
             "In a bahuvrīhi तैलपाद the ghee has oil as its quarter.",
             "तैलपाद घृत = जिसमें तेल चौथाई हो, ऐसा घी."),
         mcq("apply", 4, "Which drugs does verse 55 itself name for this anuvāsana?",
             ("None by name; only cold ones", "The card: the drugs are unstated, described as cold in touch and potency."),
-            [("Jīvantī, madana and medā", "Those are in verse 52, a different preparation."),
+            [("Jīvantī, madana and the medā", "Those are in verse 52, a different preparation."),
              ("Śatāhvā, yava and bilva", "Those cook the Vāta oil of verse 51."),
              ("The jīvanīya group of ten", "Jīvanīya is named in verses 49-50, not here.")],
             "Verse 55 chooses drugs by a property (cold), not by name.",
@@ -629,7 +628,7 @@ AUTHORED["56"] = {
             ("Together with rock salt", "स- + सैन्धव = with rock salt."),
             [("Without any rock salt", "स- adds; it does not take away."),
              ("Instead of rock salt", "स- does not mean 'instead of'."),
-             ("Like rock salt in taste", "स- here is 'with', not 'like'.")],
+             ("Tasting like the rock salt", "स- here is 'with', not 'like'.")],
             "स- at the head of a bahuvrīhi = together with X.",
             "स + X = X सहित.",
             teaches="स- at the start of a bahuvrīhi means together with: सकट्फलम् = with kaṭphala, ससैन्धवम् = with rock salt."),
@@ -734,7 +733,7 @@ AUTHORED["58"] = {
               teaches="Verse 58 ends the Kapha list and says: with those, equal, castor oil or oil is prepared; it removes Kapha diseases."),
         mcq("discriminate", 3, "What does तैः समैः mean, by the card?",
             ("With those, equal (ones)", "The card: with those, equal; probably 'in equal parts'."),
-            [("With those, cooked twice", "No second cooking is named; समैः is 'equal'."),
+            [("With those, cooked twice over", "No second cooking is named; समैः is 'equal'."),
              ("With those, half the oil", "No half is named; समैः is 'equal'."),
              ("Without those, oil alone", "तैः is instrumental 'with those', not 'without'.")],
             "सम = equal; 'parts' is understood, not printed.",
@@ -749,7 +748,7 @@ AUTHORED["58"] = {
         mcq("transfer", 5,
             "Like एरण्डतैलं वा तैलं वा, what does an invented घृतं वा तैलं वा पिबेत् mean?",
             ("He may drink either ghee or oil", "वा … वा = either … or."),
-            [("He should drink both together", "Both together would use च, not वा."),
+            [("He should drink both of them together", "Both together would use च, not वा."),
              ("He should drink neither of them", "'Neither' would need न; वा offers a choice."),
              ("He drinks ghee, but never oil", "वा … वा keeps both open as choices.")],
             "Each वा follows one of the alternatives.",
@@ -768,7 +767,7 @@ AUTHORED["59"] = {
     "limits": ("The modern name for meha (the prameha group) is an open point: no question uses it. "
                "vardhma is probable (hernia or hydrocele). How exactly samārutān (with wind) is meant is "
                "not explained. 'That' anuvāsana is presumably the oil of verse 58."),
-    "explain_hi": ("यह श्लोक कफहर तेल (श्लोक ५८) के अनुवासन का फल बताता है। "
+    "explain_hi": ("यह श्लोक उस अनुवासन का फल बताता है, जो सम्भवतः श्लोक ५८ का कफहर तेल है। "
                    "वह शीघ्र नष्ट करे: वर्ध्म यानी सम्भवतः अण्डवृद्धि, उदावर्त यानी वायु का उलटा चलना, गुल्म यानी पेट की गाँठ, अर्श यानी बवासीर, प्लीहा का रोग और मेह यानी मूत्र के रोग, वायु सहित। "
                    "साथ में आनाह यानी मल-वायु रुककर पेट फूलना और अश्मरी यानी पथरी। "
                    "‘हन्यात्’ विधिलिङ् है: नष्ट कर दे। "
@@ -875,7 +874,7 @@ AUTHORED["60"] = {
         mcq("transfer", 5,
             "Like कफघातिभिः (by Kapha-destroying ones), what does an invented विषघाती mean?",
             ("Destroying poison", "-घातिन् (nom. -घाती) = destroying X."),
-            [("Born of poison", "'Born of' would be -ज, not -घातिन्."),
+            [("Born out of the poison", "'Born of' would be -ज, not -घातिन्."),
              ("Struck by poison", "-घातिन् is active: it strikes, it is not struck."),
              ("Increasing poison", "'Increasing' would be -वर्धन.")],
             "-घातिन् from √हन्, 'to strike, kill': the one who destroys.",
@@ -966,7 +965,7 @@ NOTES_HI = {
     "51": ("विश्वास: मध्यम। छपा ‘शताव्हा’ = शताह्वा (छपाई की परिपाटी)। ‘अम्ल’ को ‘खट्टे (द्रव्य)’ पढ़ा; एक खट्टा द्रव्य भी हो सकता है। "
            "खुला अवलोकन (05.05.100): ‘समीरणे’ शाब्दिक ‘वायु में’, ‘वायु के लिए’ व्याख्या। खुला अवलोकन (05.05.101) और text_flags: छपा ‘-द्धृतं’ को ‘घृतम्’ पढ़ना अनुमान; इस पर प्रश्न नहीं बना, ‘च’ और ‘अनिलजित्’ स्पष्ट हैं। "
            "संधि जाँची: बिल्वाम्लैस्तैलं = बिल्व + अम्लैः + तैलम् (ः → स् त से पहले); सैंधवेनाग्निवर्णेन = सैन्धवेन + अग्निवर्णेन; चानिल = च + अनिल।"),
-    "52": ("विश्वास: मध्यम। छपा ‘बळां’ (ळ) = बलाम्; ‘शताव्हर्षभकौ’ = शताह्व + ऋषभकौ (अ + ऋ → अर्), द्वन्द्व द्विवचन; समास में शताह्वा का अन्त्य ह्रस्व। "
+    "52": ("विश्वास: मध्यम। छपा ‘बळां’ (ळ) = बलाम्; ‘शताव्हर्षभकौ’ = शताह्व + ऋषभकौ (अ + ऋ → अर्), द्वन्द्व द्विवचन; data पहला सदस्य शताह्व (ह्रस्व) पढ़ता है, पर आ + ऋ से भी अर् बनता है, इसलिए रूप से यह तय नहीं होता। "
            "पहचान: जीवन्ती, मदन, बला मानक; श्रावणी, मधुक (मुलेठी; महुआ भी मधुक कहलाता), कृष्णा (पिप्पली) सम्भावित; मेदा, ऋषभक, काकनासा विवादित। "
            "क्रिया नहीं; सूची 05.05.104-105 में चलती है।"),
     "53": ("विश्वास: मध्यम। text_flags: ‘चतुर्गुणैः’ (तृतीया बहुवचन) ‘क्षीरे’ (सप्तमी एकवचन) से मेल नहीं खाता; दो इकाई बाद के ‘क्षीरे चतुर्गुणे’ के आधार पर ‘चतुर्गुणे’ सुझाया गया। एक proofread टिप्पणी ‘साधयेत’ को अपूर्ण मानती है, पर यह आत्मनेपद विधिलिङ् का नियमित रूप है। दोनों शब्दों पर प्रश्न नहीं बना; पिष्ट्वा, तैलं, घृतं, क्षीरे स्पष्ट हैं। "
@@ -992,7 +991,7 @@ NOTES_HI = {
            "संधि जाँची: वर्ध्मोदावर्त = वर्ध्म + उदावर्त (अ + उ → ओ); गुल्मार्शः = गुल्म + अर्शः; आनाहमश्मरीं = आनाहम् + अश्मरीम्; चाशु = च + आशु; हन्यात्तदनुवासनं = हन्यात् + तत् + अनुवासनम्।"),
     "60": ("विश्वास: उच्च। ‘साधितम्’ दोनों करणों (पञ्चमूलेन, बिल्वादिना) के साथ। पाँच जड़ें और ‘बिल्वादि’ के सदस्य नामित नहीं। दूसरी पंक्ति में क्रिया नहीं। "
            "छपा ‘बिल्वादिना ऽथवा’ में अवग्रह से पहले रिक्त स्थान छपाई का है। "
-           "संधि जाँची: बिल्वादिना ऽथवा = बिल्वादिना + अथवा (आ + अ → आ, अवग्रह चिह्न); द्रव्यैर्वा = द्रव्यैः + वा (ऐः → ऐर् सघोष से पहले)।"),
+           "संधि जाँची: बिल्वादिना ऽथवा = बिल्वादिना + अथवा; नियमित संधि (आ + अ → आ) से ‘बिल्वादिनाथवा’ बनता, अवग्रह सामान्यतः ए/ओ के बाद लुप्त अ दिखाता है, अतः यहाँ छपा ऽ अनियमित है; द्रव्यैर्वा = द्रव्यैः + वा (ऐः → ऐर् सघोष से पहले)।"),
     "61": ("विश्वास: निम्न। text_flags: ‘पैटुमूत्रवान्’ कोई शब्द नहीं; ‘पटुमूत्रवान्’ (पटु = सम्भवतः नमक, और मूत्र) सुझाया गया; इस शब्द पर प्रश्न नहीं बना। "
            "‘अष्टगुणे अम्ले’ शाब्दिक ‘आठ गुने खट्टे में’; किसका आठ गुना और ‘अम्ल’ की संज्ञा अनुक्त। ‘अन्वासन’ = अनुवासन का दूसरा रूप। ‘तद्युक्त’ पिछले अन्वासन की ओर, निश्चित नहीं। मुख्य क्रिया नहीं। "
            "संधि जाँची: फलैरष्टगुणे = फलैः + अष्टगुणे; चाम्ले = च + अम्ले; सिद्धमन्वासनं = सिद्धम् + अन्वासनम्; शूलानाहे = शूल + आनाहे; तद्युक्तो निरूहः = तद्युक्तः + निरूहः (अः → ओ सघोष से पहले)।"),
@@ -1012,12 +1011,12 @@ AIDS = {
         "anchors": "यव = जौ-अन्न (यव) · माष = उड़द · अतसी = अलसी · कुलत्थ = कुलथी · प्रसृत = अंजलि-भर · अंश = भाग।",
     },
     "49": {
-        "chain": {"steps": ["द्रव्य (श्लोक ४७-४८)", "एक वह जल में उबाले", "एक द्रोण शेष रहे", "उससे एक आढक तेल पकाए", "साथ: जीवनीय, पिसे, पल-भर"]},
+        "chain": {"steps": ["द्रव्य (श्लोक ४७-४८)", "एक वह जल में उबाले", "एक द्रोण शेष रहे", "उससे एक आढक तेल पकाए", "साथ: जीवनीय, पीसने योग्य, पल-भर"]},
         "sandhi": "ऐः → ऐर् सघोष से पहले: पेष्यैः + जीवनीयैः → पेष्यैर्जीवनीयैः; त् + त → त्त: पचेत् + तैल → पचेत्तैल।",
         "anchors": "विपाच्य = उबालकर · तोय = जल · शेष = बचा हुआ · पचेत् = पकाए · पेष्य = पीसने योग्य · उन्मित = मापा हुआ।",
     },
     "50": {
-        "frame": "नाम: अनुवासन · काम: सब वात-विकार दूर · दूसरा द्रव्य: आनूप (दलदली भूमि के) प्राणियों की वसा · विधि: उसी प्रकार, जीवनीय से।",
+        "frame": "नाम: अनुवासन · काम: सब वात-विकार दूर · दूसरा द्रव्य: आनूपों (दलदली भूमि के, ‘प्राणी’ अनुक्त) की वसा · विधि: उसी प्रकार, जीवनीय से।",
         "sandhi": "इ + ए → ये: इति + एतत् → इत्येतत्; त् + ज → ज्ज: तद्वत् + जीवनीय → तद्वज्जीवनीय; अ + उ → ओ: जीवनीय + उपसाधिता → जीवनीयोपसाधिता।",
         "anchors": "अनुवासन = रोकी जाने वाली स्नेह-बस्ति · विकार = रोग · नुद् = दूर करने वाला · आनूप = दलदली · वसा = चर्बी · तद्वत् = वैसे ही।",
     },
@@ -1033,14 +1032,14 @@ AIDS = {
     },
     "53": {
         "frame": "सूची का अन्त: स्वगुप्ता, क्षीरकाकोली, कर्कट-नामक, शठी, वचा · विधि: पीसकर · पकाना: तेल और घी, दूध में (चौगुना, सुझाया पाठ)।",
-        "contrast": "पिष्ट्वा ↔ विपाच्य: बिना उपसर्ग -त्वा (पिष् → पिष्ट्वा); उपसर्ग के साथ -य (वि + पच् → विपाच्य, श्लोक ४९)।",
+        "contrast": "पिष्ट्वा ↔ विपाच्य: बिना उपसर्ग -त्वा (पिष् → पिष्ट्वा); उपसर्ग के साथ -य (वि + णिजन्त पाचि → विपाच्य, श्लोक ४९)।",
         "anchors": "स्वगुप्ता = कौंच · कर्कटाख्या = कर्कट नामक · शठी = सम्भवतः कपूरकचरी · वचा = बच · पिष्ट्वा = पीसकर · क्षीर = दूध।",
     },
     "54": {
-        "diagram": {"groups": [{"label": "गुण और नाम", "items": ["बृंहण", "पुत्रीय अनुवासन"]},
+        "diagram": {"groups": [{"label": "गुण", "items": ["बृंहण"]},
                                {"label": "नाश करे", "items": ["वात", "पित्त"]},
                                {"label": "बढ़ाए", "items": ["बल", "शुक्र", "अग्नि"]},
-                               {"label": "रोग हरे", "items": ["रज", "शुक्र"]}]},
+                               {"label": "रोग हरे, नाम", "items": ["रज", "शुक्र", "पुत्रीय अनुवासन"]}]},
         "contrast": "-घ्न ↔ -वर्धन: वातपित्तघ्न = वात-पित्त का नाश; बलशुक्राग्निवर्धन = बल, शुक्र, अग्नि की वृद्धि।",
         "anchors": "बृंहण = पोषण · घ्न = नाशक · वर्धन = बढ़ाने वाला · रजस् = आर्तव · आमय = रोग · पुत्रीय = पुत्र से सम्बन्धित।",
     },
@@ -1100,11 +1099,11 @@ IMAGE_SPECS = {
     ("49", "chain"): {
         "file": "ka5-vaha-drona-49.svg",
         "alt": ("Flowchart of verse 49: the drugs of verses 47-48 are boiled in a vaha of water until a drona remains; "
-                "with that an adhaka of oil is cooked, together with the jivaniya drugs ground and measured by a pala"),
+                "with that an adhaka of oil is cooked, together with the jivaniya drugs, to be ground, measured by a pala"),
         "type": "mermaid",
         "code": ('flowchart TD\n  A["द्रव्य, श्लोक ४७-४८"] --> B["एक वह जल में उबाले"]\n'
-                 '  B --> C["एक द्रोण शेष रहे"]\n  C --> D["उससे एक आढक<br/>तेल पकाए"]\n'
-                 '  E["जीवनीय, पिसे,<br/>पल-भर"] --> D\n'),
+                 '  B --> C["एक द्रोण शेष रहे"]\n  C --> D["उससे एक आढक तेल पकाए"]\n'
+                 '  E["जीवनीय, पीसने योग्य, पल-भर"] --> D\n'),
     },
     ("51", "contrast"): {
         "file": "ka5-shatahva-saindhava-51.svg",
@@ -1128,8 +1127,8 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of verse 55: drugs cold in touch and potency are ground, put in fourfold milk, and ghee with oil "
                 "as a quarter is cooked: a Pitta-destroying anuvasana"),
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["स्पर्श, वीर्य में<br/>शीतल द्रव्य"] --> B["पीसे"]\n'
-                 '  B --> C["चौगुने दूध में"]\n  C --> D["घी, जिसमें<br/>तेल चौथाई"]\n'
+        "code": ('flowchart TD\n  A["स्पर्श, वीर्य में शीतल द्रव्य"] --> B["पीसे"]\n'
+                 '  B --> C["चौगुने दूध में"]\n  C --> D["घी, जिसमें तेल चौथाई"]\n'
                  '  D --> E["पित्तघ्न अनुवासन"]\n'),
     },
     ("58", "chain"): {

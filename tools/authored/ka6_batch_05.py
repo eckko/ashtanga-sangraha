@@ -8,10 +8,9 @@ AUTHORED["48"] = {
     "question": "Which faulty basti strikes the heart, and with which drugs does the remedy begin?",
     "rule": ("A basti that is very sharp, or with vāta (wind or air), or not properly pressed, would strike the heart "
              "(ghaṭṭayed hṛdayam). The remedy begins in line 2 with kāśa and kuśa."),
-    "limits": ("Low confidence. 'Savāta' may mean air in the bag or the humour Vāta; the text does not say, so no "
-               "question picks one. 'Utkaṭa' is unclear (strong, or a drug name). The sentence of the remedy runs on "
-               "into 05.06.94-95; no verb for it is in this unit. Kāśa = Saccharum spontaneum, kuśa = Desmostachya "
-               "bipinnata (both standard)."),
+    "limits": ("Low confidence. 'Savāta' may be air in the bag or the humour Vāta; not decided. 'Utkaṭa' is "
+               "unclear (strong, or a drug name). The remedy runs on into 05.06.94-95. Kāśa = Saccharum "
+               "spontaneum, kuśa = Desmostachya bipinnata (standard)."),
     "explain_hi": ("यह श्लोक बस्ति के एक नये दोष से शुरू होता है: बस्ति बहुत तीक्ष्ण हो, या वात सहित हो, या ठीक से दबाई न गई हो। "
                    "ऐसी बस्ति हृदय पर आघात करती है (घट्टयेत् हृदयम्)। "
                    "‘सवात’ का अर्थ थैली में भरी हवा भी हो सकता है और वात दोष भी; पाठ यह तय नहीं करता। "
@@ -68,7 +67,7 @@ AUTHORED["48"] = {
              "न + सम्यक् + past participle: not done properly; पक्व = cooked."),
             [("Properly cooked",
               "This drops the न, which negates the phrase."),
-             ("Cooked too much",
+             ("Cooked far too much, overdone",
               "Too much would be अति-; सम्यक् means properly."),
              ("Not cooked at all",
               "Not at all would be अपक्वः; न सम्यक् says the cooking was not proper.")],
@@ -444,7 +443,7 @@ AUTHORED["53"] = {
             "Verse 53 pairs the sour-eater with the drugs in milk.",
             "अम्लरसभोजी → द्रव्य + दुग्ध."),
         mcq("transfer", 5,
-            "Like विनीय (vi + √nī, having put in), which form means 'having brought' from आ + √नी?",
+            "Like विनीय (vi + √nī, having put in), which absolutive of आ + √नी means having brought?",
             ("आनीय",
              "With a prefix the absolutive ends in -य: आ + नी + य → आनीय."),
             [("आनीत्वा",
@@ -671,10 +670,10 @@ AUTHORED["56"] = {
             "आजम् (of the goat) qualifies पयः (milk); शृतम् = boiled.",
             "आजं पयः शृतम्."),
         mcq("transfer", 5,
-            "By असकृत् (a- + sakṛt 'once' = repeatedly), what does the new word अनेक (an- + eka 'one') mean?",
+            "By असकृत् (a- + sakṛt, once: so repeatedly), what does the new word अनेक (an- + eka, one) mean?",
             ("More than one, many",
              "The negative prefix turns 'one' into 'not one', that is, many."),
-            [("Exactly one",
+            [("Exactly one, no more",
               "That ignores the negative prefix अन्-."),
              ("The first one",
               "'First' would be प्रथम."),
@@ -901,7 +900,7 @@ AUTHORED["59"] = {
             "Like दाहादिषु (in burning and the rest), what does the new word ज्वरादिषु mean?",
             ("In fever and the rest",
              "X-आदिषु = locative plural: in X and the rest."),
-            [("Before the fever",
+            [("Before the fever has begun",
               "आदि is 'and the rest', not 'before'."),
              ("From fever onwards",
               "The locative -एषु / -इषु means 'in', not 'from'."),
@@ -1131,7 +1130,7 @@ AUTHORED["62"] = {
               "Without would be निर्- or अ-: निर्ज्वर."),
              ("Causing fever",
               "Causing would be -कर: ज्वरकर."),
-             ("After the fever",
+             ("After the fever has gone",
               "No time word is in सज्वर.")],
             "स-X = having X, with X.",
             "स- = with.",
