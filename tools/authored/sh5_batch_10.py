@@ -84,7 +84,7 @@ AUTHORED["116"] = {
         mcq("pretest", 0, "By unit 116, which class of bone is in the hands, feet, sides and back?",
             ("Valaya (rings)", "पाणिपादपार्श्वपृष्ठेषु वलयानि: in hands, feet, sides and back are the valayas."),
             [("Taruṇa (tender)", "Taruṇas are in the nose, ears, neck and eye-sockets."),
-             ("Rucaka (teeth)", "Rucaka is the class of the teeth (unit 115)."),
+             ("Rucaka (of the teeth)", "Rucaka is the class of the teeth (unit 115)."),
              ("Nalaka (tubes)", "Nalaka is the class of the remaining bones (unit 117).")],
             "In the hands, feet, sides and back are the valayas.",
             "पाणिपादपार्श्वपृष्ठेषु वलयानि."),
@@ -143,7 +143,7 @@ AUTHORED["117"] = {
             ("Nalaka (tubes)", "शेषाणि नलकानि: the remaining ones are nalakas."),
             [("Kapāla (plates)", "Kapāla is the class of unit 114."),
              ("Valaya (rings)", "Valaya is the class of unit 116."),
-             ("Rucaka (teeth)", "Rucaka is the class of the teeth (unit 115).")],
+             ("Rucaka (of the teeth)", "Rucaka is the class of the teeth (unit 115).")],
             "The remaining ones are nalakas.",
             "शेषाणि नलकानीति."),
         match(1, "Match each word of unit 117 to its meaning.",
@@ -151,7 +151,7 @@ AUTHORED["117"] = {
               "The remaining ones are tubes; thus (the list ends).",
               "शेषाणि, नलकानि, इति."),
         fill(2, "By unit 117 the remaining bones are ____ (tubes). Type it in Devanagari or in English letters (e.g. dharma).",
-             accepts("नलकानि", None, "नलक", "tubes"),
+             accepts("नलकानि", None, "नलक"),
              "नलकानि (tubes): शेषाणि नलकानीति.",
              "नलक = a small tube, reed: the last class of bone.",
              "शेषाणि नलकानि."),
@@ -184,8 +184,8 @@ AUTHORED["117"] = {
 AUTHORED["118"] = {
     "title": "पंच विधान्यस्थीनि · तेषु हि ... मांसानि",
     "question": "By unit 118, how many kinds of bone are there, and what is bound in them?",
-    "rule": ("The bones are of five kinds (पञ्च विधानि), each following its name; for in them the fleshes (मांसानि) are "
-             "bound (निबद्धानि) by vessels (सिरा) and snāyus (ligaments, sinews)."),
+    "rule": ("The bones are of five kinds (पञ्च विधानि), each following its name (on a conjectural reading of the first word); "
+             "for in them the fleshes (मांसानि) are bound (निबद्धानि) by vessels (सिरा) and snāyus (ligaments, sinews)."),
     "limits": ("Two printed lines, prose. The first word नामानुगतामूनीनि is not a word as printed; 'following their names' "
                "rests on a conjectural reading: no question on it. The five classes are inferred from units 114-117, not "
                "named here. मांसानि may be masses of flesh, perhaps muscles: kept as 'fleshes'."),
@@ -194,7 +194,7 @@ AUTHORED["118"] = {
                    "पाँचों वर्ग इकाई ११४-११७ से लिए गए हैं: कपाल, रुचक, तरुण, वलय, नलक; यहाँ उनके नाम छपे नहीं। "
                    "दूसरी पंक्ति कहती है: क्योंकि उनमें (अस्थियों में) सिराओं और स्नायुओं से मांस बँधे हुए हैं। "
                    "सिरा = शिरा या रक्तवाहिनी, स्नायु = स्नायुबन्ध (दोनों मानक); ‘मांसानि’ मांस-पिण्ड हैं, सम्भवतः पेशियाँ।"),
-    "hook": "पाँच वर्ग की अस्थियाँ; उन पर सिरा-स्नायु से बँधा मांस।",
+    "hook": "पाँच वर्ग की अस्थियाँ; उनमें सिरा-स्नायु से बँधा मांस।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 118, of how many kinds are the bones?",
@@ -204,10 +204,10 @@ AUTHORED["118"] = {
              ("Eight", "पञ्च is five, not eight.")],
             "The bones are of five kinds.",
             "पंच विधान्यस्थीनि."),
-        order(1, "Put the five bone classes in the order units 114-117 give them (the data's list for unit 118).",
-              ["कपाल", "रुचक", "तरुण", "वलय", "नलक"],
-              "Kapāla (114), rucaka (115), taruṇa and valaya (116), nalaka (117).",
-              "कपाल → रुचक → तरुण → वलय → नलक."),
+        order(1, "Put the words of the second line of unit 118 in the line's order.",
+              ["तेषु", "सिराभिः", "स्नायुभिश्च", "निबद्धानि", "मांसानि"],
+              "In them, by vessels and snāyus, bound, the fleshes.",
+              "तेषु → सिराभिः → स्नायुभिश्च → निबद्धानि → मांसानि."),
         match(2, "Match each word of the second line of unit 118 to its meaning.",
               [["तेषु", "in them"], ["सिराभिः", "by vessels (sirā)"], ["स्नायुभिः", "by snāyus (ligaments, sinews)"],
                ["निबद्धानि", "bound"], ["मांसानि", "fleshes, masses of flesh"]],
@@ -485,7 +485,7 @@ AUTHORED["123"] = {
     "limits": ("Prose. The counted noun is not printed (probably the bone-joints, from unit 119). The printed locative "
                "सक्थि is flagged (सक्थ्नि expected) and its sense 'each limb' is probable: no question on sakthi. The "
                "total of this line is given in unit 124."),
-    "explain_hi": ("यह गद्य-पंक्ति शाखाओं की ६८ की गिनती खोलना शुरू करती है। "
+    "explain_hi": ("यह गद्य-पंक्ति सम्भवतः शाखाओं की ६८ की गिनती खोलना शुरू करती है (सक्थि = हर शाखा, सम्भावित पाठ)। "
                    "वहाँ हर एक सक्थि में (सक्थि का शब्दार्थ जाँघ या टाँग है; यहाँ सम्भवतः हर शाखा): पैर की हर अंगुली में तीन, और अँगूठे में दो। "
                    "गिनी गई वस्तु छपी नहीं; सम्भवतः अस्थि-सन्धियाँ। "
                    "‘अङ्गुलौ’ स्त्रीलिंग अङ्गुलि का वैकल्पिक -औ वाला सप्तमी रूप है; ‘प्रत्येकम्’ के साथ इसका अर्थ है ‘हर अंगुली में’। "
@@ -502,7 +502,7 @@ AUTHORED["123"] = {
             "पादांगुलौ प्रत्येकं त्रयः द्वावंगुष्ठे."),
         order(1, "Put these phrases of unit 123 in the line's order.",
               ["तत्रैकैकस्मिन् सक्थि", "पादांगुलौ", "प्रत्येकं त्रयः", "द्वावंगुष्ठे"],
-              "There in each limb: in the toe, three in each; two in the great toe.",
+              "There in each sakthi (probably each limb): in the toe, three in each; two in the great toe.",
               "तत्रैकैकस्मिन् सक्थि → पादांगुलौ → प्रत्येकं त्रयः → द्वावंगुष्ठे."),
         match(2, "Match each word of unit 123 to its meaning.",
               [["प्रत्येकम्", "in each, severally"], ["त्रयः", "three"], ["द्वौ", "two"], ["पाद", "foot"],
@@ -512,7 +512,7 @@ AUTHORED["123"] = {
               teaches="प्रत्येकम् makes the count distributive: three in each toe, not three in all."),
         mcq("discriminate", 3, "Which split of द्वावंगुष्ठे in unit 123 is right?",
             ("द्वौ + अङ्गुष्ठे", "औ before a vowel becomes आव्: द्वौ + अङ्गुष्ठे → द्वावङ्गुष्ठे."),
-            [("द्वे + अङ्गुष्ठे", "ए + अ would give द्वेऽङ्गुष्ठे, with ए kept."),
+            [("द्वे + अङ्गुष्ठे", "द्वे is a dual in ए, which takes no sandhi (द्वे अङ्गुष्ठे); it cannot give द्वाव-."),
              ("द्वा + वङ्गुष्ठे", "वङ्गुष्ठे is not a word; the व् comes from औ."),
              ("द्वौ + वङ्गुष्ठे", "There is no वङ्गुष्ठ; the word is अङ्गुष्ठ (great toe).")],
             "द्वौ (two) + अङ्गुष्ठे (in the great toe): औ + vowel → आव्.",
@@ -578,7 +578,7 @@ AUTHORED["124"] = {
             "ते = those counted in the toes and great toe (unit 123).",
             "ते चतुर्दश = those (of unit 123) are fourteen."),
         fill(4, "In unit 124 'fourteen' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("चतुर्दश", None, "fourteen"),
+             accepts("चतुर्दश"),
              "चतुर्दश = fourteen (चतुर् + दश).",
              "चतुर्दश = fourteen.",
              "ते चतुर्दश.", role="apply"),
@@ -604,10 +604,10 @@ AUTHORED["125"] = {
                "(unit 120), on the probable reading of sakthi as each limb."),
     "explain_hi": ("यह गद्य-पंक्ति दो भाग रखती है। "
                    "पहला: गुल्फ (टखना), जानु (घुटना) और वंक्षण (जाँघ का मूल) में एक-एक; ये तीनों मानक पहचान हैं। "
-                   "इससे एक शाखा की गिनती पूरी होती है: पैर के १४ + ३ = १७, और चार शाखाओं में ६८ (डेटा की जाँच, सम्भावित)। "
+                   "डेटा की जाँच के अनुसार इससे सम्भवतः एक शाखा की गिनती पूरी होती है: पैर के १४ + ३ = १७, और चार शाखाओं में ६८ (डेटा की जाँच, सम्भावित)। "
                    "दूसरा: छपे ‘कतिकपालेषु’ में तीन; ‘कति’ (कितने) का अर्थ नहीं बनता, इसलिए ‘कटिकपाल’ (कमर के कपाल) अनुमानित पाठ है। "
                    "‘एकैको गुल्फ’ में एकैकः का विसर्ग घोष व्यंजन ग से पहले ओ बना।"),
-    "hook": "टखना, घुटना, वंक्षण: एक-एक; एक शाखा में सत्रह।",
+    "hook": "टखना, घुटना, वंक्षण: एक-एक; सम्भवतः एक शाखा में सत्रह।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 125, where is there one each?",
@@ -625,7 +625,7 @@ AUTHORED["125"] = {
               [["एकैकः", "one each"], ["गुल्फ", "ankle"], ["जानु", "knee"], ["वङ्क्षण", "groin"], ["त्रयः", "three"]],
               "One each in ankle, knee, groin; three (in the place that follows).",
               "एकैकः, गुल्फ, जानु, वङ्क्षण, त्रयः.", role="extend",
-              teaches="गुल्फ, जानु, वङ्क्षण rise up the leg from the foot: they finish one limb's count."),
+              teaches="गुल्फ, जानु, वङ्क्षण rise up the leg from the foot: by the data's check (probable) they finish one limb's count."),
         mcq("discriminate", 3, "Why is एकैकः printed एकैको before गुल्फ in unit 125?",
             ("अः becomes ओ before a voiced consonant", "ग is a voiced consonant: एकैकः + गुल्फ... → एकैको गुल्फ...."),
             [("अः becomes ओ before every consonant", "Before an unvoiced consonant it does not become ओ."),
@@ -633,12 +633,12 @@ AUTHORED["125"] = {
              ("The visarga always drops after अ", "After अ it becomes ओ here; it does not simply drop.")],
             "एकैकः + गुल्फ... = एकैको गुल्फ...: अः before a voiced consonant → ओ.",
             "अः + voiced consonant → ओ."),
-        mcq("apply", 4, "Unit 124 gave fourteen in the foot. With one each in ankle, knee and groin, what does one limb hold?",
-            ("Seventeen", "14 + 1 + 1 + 1 = 17 per limb (data check)."),
+        mcq("apply", 4, "Unit 124 gave fourteen in the foot. Adding one each in ankle, knee and groin, what count results?",
+            ("Seventeen", "14 + 1 + 1 + 1 = 17 (the data reads this as one limb, probable)."),
             [("Fifteen", "Three places add three, not one."),
              ("Sixteen", "Three places add three, not two."),
              ("Twenty", "Each place adds one, so three in all.")],
-            "14 + 3 = 17 per limb; × 4 = 68 (unit 120).",
+            "14 + 3 = 17; the data's check takes it as one limb (× 4 = 68, probable).",
             "14 (foot) + गुल्फ + जानु + वङ्क्षण = 17."),
         mcq("transfer", 5, "एकैकः (one each) repeats एक. In a new example, what does पञ्च पञ्च mean?",
             ("Five each", "A repeated number is distributive, as एक + एक → एकैकः, one each."),
@@ -838,8 +838,7 @@ AIDS = {
                                                                      "४ वलय (११६): हाथ, पैर, बगल, पीठ",
                                                                      "५ नलक (११७): शेष अस्थियाँ"]}]},
         "frame": "उनमें (तेषु, अस्थियों में) → किनसे: सिराभिः स्नायुभिश्च (सिराओं और स्नायुओं से) → क्या: निबद्धानि मांसानि (बँधे मांस)।",
-        "chunks": "नामानुगतामूनीनि (अनुमानित पाठ: नामानुगतान्यमूनि) | पंच विधान्यस्थीनि || तेषु हि | सिराभिः स्नायुभिश्च | "
-                  "निबद्धानि मांसानि",
+        "chunks": "नामानुगतामूनीनि | पंच विधान्यस्थीनि || तेषु हि | सिराभिः स्नायुभिश्च | निबद्धानि मांसानि",
         "sandhi": "इ + भिन्न स्वर → य्: विधानि + अस्थीनि → विधान्यस्थीनि · च से पहले विसर्ग → श्: स्नायुभिः + च → स्नायुभिश्च।",
         "letters": "पाँच वर्ग क्रम से: क-रु-त-व-न (कपाल, रुचक, तरुण, वलय, नलक)। (मेरी याद-पद्धति)",
     },
@@ -881,7 +880,7 @@ AIDS = {
     },
     "125": {
         "chain": {"steps": ["पैर में: १४ (इकाई १२४)", "गुल्फ (टखना): १", "जानु (घुटना): १", "वङ्क्षण (जाँघ का मूल): १",
-                            "एक शाखा में: १७", "चार शाखाओं में: ६८ (सम्भावित)"]},
+                            "एक शाखा में: १७ (सम्भावित)", "चार शाखाओं में: ६८ (सम्भावित)"]},
         "chunks": "एकैको | गुल्फजानुवंक्षणेषु | त्रयः | कतिकपालेषु",
         "sandhi": "अः + घोष व्यंजन → ओ: एकैकः + गुल्फ... → एकैको गुल्फ... · अ + ए → ऐ: एक + एक → एकैक।",
         "frame": "भाग १: एक-एक, टखना-घुटना-वंक्षण (शाखा पूरी) → भाग २: तीन, छपा ‘कतिकपालेषु’ (अनुमानित पाठ: कटिकपाल)।",
@@ -946,11 +945,11 @@ IMAGE_SPECS = {
     ("125", "chain"): {
         "file": "sh5-shakha-17-125.svg",
         "alt": ("Chain of the limb count by the data's check: foot 14 (unit 124); ankle 1; knee 1; groin 1; one limb "
-                "17; four limbs 68 (unit 120, probable reading of sakthi as each limb)."),
+                "17 (probable); four limbs 68 (unit 120, probable reading of sakthi as each limb)."),
         "type": "chain",
         "title": "इकाई १२५: एक शाखा की गिनती (डेटा की जाँच)",
         "steps": ["पैर में: १४ (इकाई १२४)", "गुल्फ (टखना): १", "जानु (घुटना): १", "वङ्क्षण (जाँघ का मूल): १",
-                  "एक शाखा में: १७", "चार शाखाओं में: ६८ (सम्भावित)"],
+                  "एक शाखा में: १७ (सम्भावित)", "चार शाखाओं में: ६८ (सम्भावित)"],
     },
     ("127", "chain"): {
         "file": "sh5-tadvat-parshva-127.svg",

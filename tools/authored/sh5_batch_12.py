@@ -54,7 +54,7 @@ AUTHORED["141"] = {
             ("देवालयः", "अ + आ → आ, as शङ्ख + आवर्ताः → शङ्खावर्ताः."),
             [("देवलयः", "The long आ cannot vanish; अ + आ gives आ."),
              ("देवेलयः", "ए comes from अ + इ, not from अ + आ."),
-             ("देवौलयः", "औ comes from अ + उ/ओ/औ, not from अ + आ.")],
+             ("देवौलयः", "औ comes from अ + ओ/औ, not from अ + आ.")],
             "देव + आलयः = देवालयः, like शङ्ख + आवर्ताः = शङ्खावर्ताः.",
             "अ + आ → आ.",
             teaches="अ + आ → आ: शङ्ख + आवर्ताः → शङ्खावर्ताः."),
@@ -72,7 +72,7 @@ AUTHORED["142"] = {
     "explain_hi": ("यह छोटी गद्य-पंक्ति सन्धि-प्रकारों की सूची को समेटती है: ‘इति’, यानी इस प्रकार, अस्थि-सन्धियाँ आठ प्रकार की हैं। "
                    "आठ नाम इकाई १३५-१४१ में आए हैं: कोर, उलूखल, सामुद्ग, प्रतर, तूनसेवनी (अनुमानित पाठ तुन्नसेवनी), वायसतुण्ड, मण्डल और शंखावर्त। "
                    "‘अष्टविध’ बहुव्रीहि समास है: जिसके आठ प्रकार हों। "
-                   "‘संधयोऽष्ट’ में संधयः का विसर्ग अ से पहले ओ बना, और बाद का अ लुप्त होकर ऽ (अवग्रह) से दिखाया गया। "
+                   "‘संधयोऽष्ट’ में संधयः का अन्तिम अः (अ + विसर्ग) अ से पहले ओ बना, और बाद का अ लुप्त होकर ऽ (अवग्रह) से दिखाया गया। "
                    "क्रिया ‘हैं’ छपी नहीं, समझी जाती है।"),
     "hook": "‘इति’ पर सूची पूरी: आठ प्रकार की सन्धियाँ।",
     "core": True,
@@ -155,7 +155,7 @@ AUTHORED["143"] = {
               "applying the instrument, it is not stated separately.",
               "आश्रितैः सह → सहस्रद्वयम् → न पुनः शस्त्रप्रणिधाने → वाच्यम् अस्ति इति → पृथक् न उच्यते.",
               role="extend",
-              teaches="शस्त्रप्रणिधान = the application of the surgical instrument (शस्त्र), i.e. surgery."),
+              teaches="शस्त्रप्रणिधान = the application of the surgical instrument (शस्त्र)."),
         mcq("discriminate", 3, "Which split of पृथङ्नोच्यते in unit 143 is right?",
             ("पृथक् + न + उच्यते", "क् before the nasal न is printed ङ्; न + उच्यते → नोच्यते (अ + उ → ओ)."),
             [("पृथक् + नु + उच्यते", "नु + उच्यते would give नूच्यते (उ + उ → ऊ), not नोच्यते."),
@@ -163,13 +163,13 @@ AUTHORED["143"] = {
              ("पृथक् + नः + उच्यते", "नः means 'us'; the sense 'not' needs न, and नः + उ would give न उ.")],
             "पृथक् (separately) + न (not) + उच्यते (is said): अ + उ → ओ.",
             "अ + उ → ओ; क् before a nasal may become ङ्."),
-        mcq("apply", 4, "By unit 143, why is (it) not stated separately?",
-            ("Nothing more need be said of them for surgery", "न पुनः शस्त्रप्रणिधाने तेषु वाच्यमस्ति: nothing more is to be said."),
-            [("They are far too many to count one by one", "Number is not the reason given; the reason is the surgical use."),
-             ("Other teachers have already counted them", "No other teachers are named in unit 143."),
-             ("They cannot be seen inside the living body", "Seeing them is not mentioned; the reason is the surgical use.")],
-            "Nothing more is to be said about them in applying the surgical instrument, so it is not stated separately.",
-            "न पुनः शस्त्रप्रणिधाने तेषु वाच्यमस्ति इति पृथङ् न उच्यते."),
+        mcq("apply", 4, "In unit 143, what does शस्त्रप्रणिधाने refer to?",
+            ("The application of the surgical instrument", "शस्त्र (surgical instrument) + प्रणिधान (application), locative: in its application."),
+            [("A list of the body's two thousand joints", "सहस्रद्वयम् is the number; शस्त्रप्रणिधान is the instrument's application."),
+             ("The healing of a wound after the operation", "No healing is named; प्रणिधान is application, not healing."),
+             ("A bandage tied over a ligament", "No bandage is named; शस्त्र is the surgical instrument.")],
+            "शस्त्रप्रणिधाने = in the application of the surgical instrument.",
+            "शस्त्र (instrument) + प्रणिधान (application)."),
         mcq("transfer", 5, "By the rule of वाच्यमस्ति + इति → वाच्यमस्तीति, how is अस्ति + इह (is here) joined in a new example?",
             ("अस्तीह", "इ + इ → ई, as अस्ति + इति → अस्तीति."),
             [("अस्त्यिह", "य् comes from इ before an unlike vowel; इ + इ are alike."),
@@ -244,9 +244,9 @@ AUTHORED["145"] = {
     "title": "तेषां षट्शतानि शाखासु",
     "question": "By unit 145, how many of the snāyus lie in the limbs (śākhā)?",
     "rule": ("Of them (तेषाम्: the 900 snāyus of unit 144), six hundred (षट्शतानि) are in the limbs (शाखासु). The line "
-             "continues the statement of unit 144."),
-    "limits": ("Prose; no verb printed. The counted noun is carried from unit 144 (the data reads units 144-147 as one "
-               "statement). The 600 is for all the limbs together; the count per limb begins at unit 148."),
+             "appears to continue the statement of unit 144 (data)."),
+    "limits": ("Prose; no verb printed. The counted noun is carried from unit 144 (the data takes units 145-147 as "
+               "probably continuing unit 144). The 600 is for all the limbs together; the count per limb begins at unit 148."),
     "explain_hi": ("यह गद्य-पंक्ति इकाई १४४ के नौ सौ स्नायुओं को बाँटना आरम्भ करती है। "
                    "‘तेषाम्’, यानी उनमें से, छह सौ (षट्शतानि) शाखाओं में हैं। "
                    "शाखा का अर्थ यहाँ हाथ-पैर, यानी चार अंग है; छह सौ चारों का कुल है। "
@@ -426,7 +426,7 @@ AUTHORED["148"] = {
     "explain_hi": ("यह गद्य-पंक्ति एक-एक अंग में स्नायुओं की गिनती आरम्भ करती है। "
                    "वहाँ (तत्र), प्रत्येक सक्थि, यानी सम्भवतः प्रत्येक शाखा, में, पैर की प्रत्येक अंगुली में छह-छह स्नायु हैं। "
                    "‘षट् षट्’ में संख्या दोहराने का अर्थ है ‘छह-छह’, यानी हर एक में छह। "
-                   "छपा ‘सक्थि’ सप्तमी के लिए ‘सक्थ्नि’ होना चाहिए; यह पाठ-चिह्न इकाई १२३ में भी है। "
+                   "छपा ‘सक्थि’: नपुंसक सप्तमी ‘सक्थ्नि’ होती, इसलिए डेटा इसे सम्भावित पाठ-चिह्न मानता है (शायद संस्करण की आदत); यही इकाई १२३ में भी है। "
                    "इकाई १४९ इसी गिनती का योग देती है।"),
     "hook": "हर अंगुली में छह-छह।",
     "core": True,
@@ -445,7 +445,7 @@ AUTHORED["148"] = {
         match(2, "Match each word of unit 148 to its meaning.",
               [["तत्र", "there"], ["एकैक", "each single"], ["पादाङ्गुली", "toe"], ["प्रत्येकम्", "in each, severally"],
                ["षट् षट्", "six each"]],
-              "There, in each single limb, in each toe, six each.",
+              "There, in each single sakthi (probably limb), in each toe, six each.",
               "तत्र, एकैक, पादाङ्गुली, प्रत्येकम्, षट् षट्.", role="extend",
               teaches="A number said twice (षट् षट्) means 'so many each': six in each toe."),
         mcq("discriminate", 3, "Which split of तत्रैकैकस्मिन् in unit 148 is right?",
@@ -690,11 +690,11 @@ AUTHORED["152"] = {
             "दश जानुनि = ten in the knee.",
             "जानु = knee."),
         multi("apply", 4, "Which statements about unit 152 are right?",
-              [("A verb is printed in the line", "No verb is printed."),
-               ("दश is the number word 'ten'", "Right: दश = ten."),
-               ("दश is said twice, meaning 'ten each'", "दश stands once here: just ten."),
-               ("जानुनि is a locative: in the knee", "Right: the data: n. loc. sg.")],
-              [1, 3],
+              [("दश is the number word 'ten'", "Right: दश = ten."),
+               ("A verb is printed in the line", "No verb is printed."),
+               ("जानुनि is a locative: in the knee", "Right: the data: n. loc. sg."),
+               ("दश is said twice, meaning 'ten each'", "दश stands once here: just ten.")],
+              [0, 2],
               "दश = ten; जानुनि = in the knee.",
               "दश जानुनि."),
         mcq("transfer", 5, "By the pattern of जानु → जानुनि, how does मधु (n., honey) mean in the honey, in a new example?",
