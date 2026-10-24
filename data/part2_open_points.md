@@ -131,3 +131,25 @@
 - Śārīra 7 unit 45: split ruj-utpattiḥ cannot give the printed रुजोत्पत्ति (रुज् + उ → रुजु-); the print fits रुजा + उत्पत्ति (आ + उ → ओ).
 - Śārīra 7 unit 35: English says "four sirā", while the unit 59 note counts "mātṛkā 8 (u35)".
 - Śārīra 7 unit 94: note still says "typed as a verse"; type is already prose (stale note).
+- Śārīra 7 unit 68: Hindi puts "अनुमानित पाठ पर" mid-sentence (awkward).
+- Śārīra 7 unit 65: print तान्यापि; split तानि + अपि should join as तान्यपि; no flag.
+- Śārīra 7 unit 64: print फणापांगावार्ताः shows "āvārta"; data reads āvarta without a flag.
+- Śārīra 7 unit 64: note says doubled कूर्च्च is normalised "as in 59"; printed line 59 (card 56) has a single कूर्च; the doubled form is at lines 6, 7, 70 (cards 6, 7, 66).
+- Śārīra 7 unit 59: note says the count of nineteen can't be checked, then its own count check adds up to nineteen.
+- Śārīra 8 unit 4: print तस्मान्तन्मयतया, but तस्मात् + तन्मयतया should give तस्मात्तन्मयतया; split reads tasmāt; no text_flag or note.
+- Śārīra 8 unit 28: gram label for द्वन्द्वप्रकृतयः says f., but unit 27's note says the unstated noun is masculine (persons).
+- Śārīra 8 unit 27: print keeps the visarga in नित्यातुराः before दो-; no note.
+- Śārīra 8 unit 36: तस्मादेवमानुष- could perhaps be तस्माद् + देव-मानुष-… (gods, humans), with the double d written once; notes don't consider it.
+- Śārīra 8 unit 32: gram labels for तदभिनिवृत्तैः and शौचादिभिः give no gender.
+- Śārīra 8 unit 48: print सर्वेद्रियाणि lacks the anusvāra, split as सर्व-इन्द्रियाणि without a flag; its gram says bahuvrīhi where karmadhāraya seems right.
+- Śārīra 8 unit 52: typed prose but looks like an anuṣṭubh verse with missing syllables.
+- Śārīra 8 unit 41: English gives sneha only as "unctuousness"; "affection" appears only in the notes.
+- Śārīra 8 units 16, 17, 20, 21, 24, 25: lines look metrical (11–12 syllables per quarter: svāgatā, drutavilambita, śālinī, upajāti) and notes call them "verse lines", but type is prose. Kept as prose because the quiz's verse type adds an 8+8 anuṣṭubh metre aid; owner to decide (needs a per-unit metre in the toolkit).
+- Śārīra 8 unit 20: note on printed दिंपताम् ("ṃ for ṅ") does not fit (ṅ cannot precede प); expected दिक्पताम्.
+- Śārīra 8 units 18, 22: unflagged print forms: दूर्वेदीवर (unit 22) lacks न्; तित्त read as तिक्त.
+- Śārīra 7 unit 59: COUNT CHECK mixes numbering: u18/u19/u21/u22/u35 are cards, while śaṅkha (u40), śṛṅgāṭaka (u45), adhipati (u46) are printed lines (cards 39, 43, 44).
+- Śārīra 8 unit 30: note reads तान् as "the constitutions (prakṛti)", but प्रकृति is feminine; persons are meant.
+- Śārīra 8 unit 29: क्षुत्पिपासादिषु labelled dvandva; it is an ādi-bahuvrīhi built on a dvandva.
+- Śārīra 8 unit 34: तरतमयोगात् labelled dvandva; it is a tatpuruṣa (tara-tama dvandva + yoga).
+- Śārīra 8 unit 22: splits "uru" but glosses it "thigh" (thigh is ūru); दूर्वेदीवर read as dūrvā-indīvara with no text_flag.
+- Śārīra 8 unit 14: note says dental d by sandhi, but its own flag says sandhi gives retroflex ḍ.
