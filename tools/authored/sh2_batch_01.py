@@ -102,7 +102,7 @@ AUTHORED["2"] = {
                ["अभिसंसृष्टम्", "joined, united"], ["उपयाति", "goes to, reaches"]],
               "Four past participles describe the śukra; उपयाति is the main verb.",
               "प्रेरित, अनुगत, अभिमूर्च्छित, अभिसंसृष्ट; उपयाति.", role="extend",
-              teaches="Each participle has its agent in the instrumental: वायुना प्रेरितम् = impelled by wind, आर्तवेन अभिमूर्च्छितम् = mingled with ārtava."),
+              teaches="Each participle takes its agent or partner in the instrumental: वायुना प्रेरितम् = impelled by wind (agent), आर्तवेन अभिमूर्च्छितम् = mingled with ārtava (partner)."),
         mcq("discriminate", 3, "Which phrase of unit 2 describes the jīva, not the śukra?",
             ("मनोजवेन: swift as the mind", "मनोजवेन is instrumental, like जीवेन; the data calls it a qualifier of the jīva."),
             [("बीजात्मना: in the form of seed", "This describes the śukra (बीजात्मना शुक्रम्)."),
@@ -112,10 +112,10 @@ AUTHORED["2"] = {
             "jīva: swift as mind, impelled by own karma, under the sway of passion and the other afflictions."),
         multi("apply", 4, "Which conditions does unit 2 state before the śukra goes to the womb?",
               [("The old rajas has gone", "Right: गते पुराणे (रजसि)."),
-               ("The new rajas is established", "Right: नवे अवस्थिते."),
                ("The woman has fasted beforehand", "No fasting is named in this unit."),
-               ("The passage (मार्ग) is blocked", "The text says the passage is clean (शुद्धे … मार्गे).")],
-              [0, 1],
+               ("The passage (मार्ग) is blocked", "The text says the passage is clean (शुद्धे … मार्गे)."),
+               ("The new rajas is established", "Right: नवे अवस्थिते.")],
+              [0, 3],
               "Old rajas gone, new rajas established, womb and passage clean: these are the conditions.",
               "गते पुराणे रजसि नवेऽवस्थिते शुद्धे गर्भस्याशये मार्गे च."),
         mcq("transfer", 5, "By the rule of महाभूतैरनुगतम्, how is देवैः + अर्चितम् (worshipped by the gods) written?",
@@ -141,7 +141,7 @@ AUTHORED["3"] = {
     "explain_hi": ("यह एक सामान्य सिद्धान्त है: कार्य अपने कारण का अनुसरण करते हैं, इसलिए वह उसी (कारण) के स्वभाव को प्राप्त होता है। "
                    "कर्ता लिखा नहीं गया; पिछली इकाई से ‘गर्भ’ समझा जाता है। "
                    "‘कारणानुविधायित्वात्’ में -त्व से भाववाचक संज्ञा बनी और ‘-त्वात्’ पंचमी है, जो कारण बताती है: ‘अनुसरण करने के कारण’। "
-                   "छपे पाठ में तीन ‘त्’ एक साथ हैं; ‘तत्’ का ‘अ’ छूटा है, जिसे अर्थ के आधार पर जोड़ा गया है।"),
+                   "छपे पाठ में तीन ‘त्’ एक साथ हैं; ‘तत्’ का ‘अ’ छूटा लगता है; अर्थ के आधार पर ‘-त्वात् तत्स्वभावताम्’ पढ़ना सम्भावित सुधार है।"),
     "hook": "जैसा कारण, वैसा कार्य: गर्भ कारण का स्वभाव पाता है।",
     "core": False,
     "questions": [
@@ -176,7 +176,7 @@ AUTHORED["3"] = {
              ("कारणे + अनुविधायित्वात्", "ए + अ would give कारणेऽनु…, not कारणानु….")],
             "कारण (cause) + अनुविधायित्वात् (because of following).",
             "अ + अ → आ."),
-        mcq("transfer", 5, "In the invented sentence शिला गुरुत्वात् जले मज्जति (the stone sinks in water), what does गुरुत्वात् mean?",
+        mcq("transfer", 5, "In the invented sentence शिला गुरुत्वाज्जले मज्जति (गुरुत्वात् + जले) (the stone sinks in water), what does गुरुत्वात् mean?",
             ("Because of its heaviness", "-त्वात् gives the reason, as कारणानुविधायित्वात्."),
             [("In its heaviness", "A locative would be गुरुत्वे."),
              ("Of its heaviness", "A genitive would be गुरुत्वस्य."),
@@ -285,11 +285,11 @@ AUTHORED["5"] = {
             "शुक्रार्तवे (locative) + अनिलेन (by wind): ए + अ → एऽ.",
             "ए + अ → एऽ."),
         multi("apply", 4, "Which does unit 5 state?",
-              [("Śukra and ārtava are split into pieces", "Right: खण्डशो भिन्ने."),
-               ("The splitting is done by wind", "Right: अनिलेन."),
-               ("Exactly two offspring arise", "No number is given; अपत्यानाम् is only plural."),
-               ("The splitting is done by the jīva", "The agent is अनिल, wind.")],
-              [0, 1],
+              [("Exactly two offspring arise", "No number is given; अपत्यानाम् is only plural."),
+               ("Śukra and ārtava are split into pieces", "Right: खण्डशो भिन्ने."),
+               ("The splitting is done by the jīva", "The agent is अनिल, wind."),
+               ("The splitting is done by wind", "Right: अनिलेन.")],
+              [1, 3],
               "Split into pieces by wind; offspring arise according to the divisions, no number stated.",
               "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने यथाविभागमपत्यानामुत्पत्तिः."),
         mcq("transfer", 5, "By the pattern of यथाविभागम्, what does यथाशक्ति mean?",
@@ -339,20 +339,20 @@ AUTHORED["6"] = {
               "वियोनि (other womb) + आकृतीनाम् (of forms).",
               "इ + आ → या."),
           "इ before a different vowel becomes य्: वियोनि + आकृतीनाम् → वियोन्याकृतीनाम्."),
-        mcq("discriminate", 3, "How does the data read unit 6 with unit 5?",
-            ("As continuing it, with उत्पत्तिः carried over", "The notes call it a grouping that appears to continue unit 5."),
-            [("As a new topic with its own verb", "Unit 6 has no verb of its own."),
-             ("As the close of the whole chapter", "Nothing marks a close here."),
-             ("As a list of diseases of the womb", "No disease is named.")],
-            "When vitiated, (the origin) of those with forms of other wombs.",
-            "Unit 6 appears to continue unit 5."),
-        multi("apply", 4, "Which does the card say about unit 6?",
-              [("It appears to continue unit 5", "Right: the data's grouping note."),
-               ("Its first word means when vitiated", "Right: विकृते."),
+        mcq("discriminate", 3, "In unit 6, what case is वियोन्याकृतीनाम्?",
+            ("Genitive plural: of the forms", "-ईनाम् is the genitive plural; the card glosses it of forms."),
+            [("Nominative plural: the forms", "That would be -आकृतयः."),
+             ("Locative singular: in the form", "That would be -आकृतौ."),
+             ("Instrumental plural: by the forms", "That would be -आकृतिभिः.")],
+            "वियोन्याकृतीनाम् = of the forms of other wombs: genitive plural.",
+            "-ईनाम् = genitive plural."),
+        multi("apply", 4, "Which are true of unit 6, by the card?",
+              [("विकृते is a locative: when vitiated", "Right: locative of the participle विकृत."),
                ("It names what is vitiated", "What is vitiated is not stated."),
+               ("वियोन्याकृतीनाम् is genitive plural: of the forms", "Right: -ईनाम्, genitive plural."),
                ("It says the forms are animal forms", "That is not stated and is not added.")],
-              [0, 1],
-              "It continues unit 5 and opens with when vitiated; it does not say what is vitiated or what the forms are.",
+              [0, 2],
+              "विकृते = when vitiated; वियोन्याकृतीनाम् = of the forms of other wombs. What is vitiated, and what the forms are, is not said.",
               "विकृते वियोन्याकृतीनाम्."),
         mcq("transfer", 5, "By the rule of वियोन्याकृतीनाम्, how is इति + आह (he said thus) written?",
             ("इत्याह", "इ + आ → या, as वियोनि + आकृतीनाम्."),
@@ -373,7 +373,7 @@ AUTHORED["7"] = {
              "throbbing, and continued connection (अनुबन्ध) of śukra and ārtava."),
     "limits": ("योन्या is read as instrumental, by the yoni; a genitive, of the yoni, is possible and the sense changes "
                "little. The line lists signs only; it gives no test, timing or advice. अथनार्याः = अथ नार्याः (spacing, certain)."),
-    "explain_hi": ("‘अब स्त्री के, और सद्यः गर्भ धारण की हुई स्त्री के, लक्षण’: योनि द्वारा बीज का ग्रहण, तृप्ति, भारीपन (गुरिमा), "
+    "explain_hi": ("‘अब सद्यः गर्भ धारण की हुई स्त्री का लक्षण’: योनि द्वारा बीज का ग्रहण, तृप्ति, भारीपन (गुरिमा), "
                    "फड़कना (स्फुरण) और शुक्र-आर्तव का अनुबन्ध (लगातार जुड़ाव)। "
                    "‘सद्योगृहीतगर्भा’ बहुव्रीहि है: सद्यः (अभी) + गृहीत (ग्रहण किया) + गर्भा = जिसने अभी गर्भ धारण किया है। "
                    "‘योन्या’ तृतीया मानी गई; षष्ठी पठन भी सम्भव है, अर्थ लगभग वही रहता है। "
@@ -406,11 +406,11 @@ AUTHORED["7"] = {
             "सद्यः = just now; with गृहीतगर्भा, she who has just conceived.",
             "सद्यः = just now."),
         multi("apply", 4, "Which are signs named in unit 7?",
-              [("Heaviness (गुरिमा)", "Right: गुरिमा is in the list."),
-               ("Throbbing (स्फुरणम्)", "Right: स्फुरणम् is in the list."),
-               ("Swelling of the feet", "That is named in unit 9, not here."),
-               ("Craving for the sour", "That is named in unit 9, not here.")],
-              [0, 1],
+              [("Swelling of the feet", "That is named in unit 9, not here."),
+               ("Craving for the sour", "That is named in unit 9, not here."),
+               ("Heaviness (गुरिमा)", "Right: गुरिमा is in the list."),
+               ("Throbbing (स्फुरणम्)", "Right: स्फुरणम् is in the list.")],
+              [2, 3],
               "Unit 7: seed taken in, satisfaction, heaviness, throbbing, connection.",
               "Unit 7 = just conceived; unit 9 = manifest pregnancy."),
         mcq("transfer", 5, "By the rule of तृप्तिर्गुरिमा, how is मतिः + गता (the mind has gone) written?",
@@ -426,7 +426,7 @@ AUTHORED["7"] = {
 
 # ---------------------------------------------------------------- unit 8
 AUTHORED["8"] = {
-    "title": "तन्द्राऽङ्गसादः प्रसेकः",
+    "title": "तंद्राऽंगसादः प्रसेको",
     "question": "Which further signs does unit 8 add, and which of its words are doubtful?",
     "rule": ("Likewise (तथा) further signs: on a conjectural reading joy and nausea, then drowsiness, limb-weariness, "
              "flow (praseka), heart-distress (conjectural), exhaustion and thirst."),
@@ -458,13 +458,13 @@ AUTHORED["8"] = {
               "Drowsiness, limb-weariness, flow, exhaustion, thirst (doubtful words left out).",
               "तन्द्रा → अङ्गसाद → प्रसेक → ग्लानि → पिपासा.", role="extend",
               teaches="अङ्गसाद = अङ्ग (limb) + साद (weariness, slackness): weariness of the limbs."),
-        mcq("discriminate", 3, "Why does the card build no question on महर्षो or हृल्लाभ?",
-            ("Their printed readings are doubtful", "The data marks both as uncertain, translated on a conjectural reading."),
-            [("They are names of great sages", "Here महर्षो stands in a list of signs; the data does not read it as sages."),
-             ("They are repeated from unit 7", "Neither word is in unit 7."),
-             ("They belong to unit 9 instead", "Both are printed in unit 8.")],
-            "Doubtful readings get no question; only the sure words are asked.",
-            "No question on a conjectural reading."),
+        mcq("discriminate", 3, "What does तथा, the first word of unit 8, mean?",
+            ("Likewise", "The card glosses तथा as likewise: the list of signs goes on."),
+            [("Therefore", "That is तस्मात्, in unit 11."),
+             ("Gradually", "That is क्रमेण, in unit 9."),
+             ("Not", "That is न.")],
+            "तथा = likewise.",
+            "तथा = likewise."),
         mcq("apply", 4, "Why is प्रसेकः printed प्रसेको before हृदय…?",
             ("-अः becomes -ओ before the voiced ह", "ह is voiced, so -अः → -ओ."),
             [("-अः becomes -ओ before every consonant", "अङ्गसादः keeps its visarga before प्रसेकः."),
@@ -518,13 +518,13 @@ AUTHORED["9"] = {
               "Sure signs of manifest pregnancy in unit 9.",
               "निद्रा, जृम्भण, छर्दि, अरुचि, पादशोफ.", role="extend",
               teaches="पादशोफ = पाद (foot) + शोफ (swelling, oedema; standard): swelling of the feet."),
-        mcq("discriminate", 3, "How do unit 7 and unit 9 differ in whom they describe?",
-            ("Unit 7: newly conceived; unit 9: pregnancy manifest", "सद्योगृहीतगर्भा in 7, व्यक्तगर्भा in 9."),
-            [("Unit 7: pregnancy manifest; unit 9: newly conceived", "This reverses the two units."),
-             ("Both describe a woman after her delivery", "Neither unit speaks of delivery."),
-             ("Unit 9 describes the man, unit 7 the woman", "Both units describe the woman.")],
-            "Unit 7 gives signs just after conception; unit 9 gives signs that come gradually once it is manifest.",
-            "सद्योगृहीतगर्भा (7) ↔ व्यक्तगर्भा (9)."),
+        mcq("discriminate", 3, "What does क्रमेण, the first word of unit 9, mean?",
+            ("Gradually, in order", "The card glosses क्रमेण as gradually, in order."),
+            [("Suddenly, at once", "That is not क्रमेण; unit 7 has सद्यः, just now."),
+             ("Never", "क्रमेण is not a negative."),
+             ("At night", "No time of day is named.")],
+            "क्रमेण तु व्यक्तगर्भायाः: gradually, in her whose pregnancy is manifest.",
+            "क्रमेण = gradually."),
         mcq("apply", 4, "Which split of पादशोफोऽम्ले is right?",
             ("पादशोफः + अम्ले", "-अः + अ → -ओऽ: पादशोफोऽम्ले."),
             [("पादशोफो + म्ले", "म्ले is not a word; the ऽ marks a lost अ."),
@@ -590,12 +590,12 @@ AUTHORED["10"] = {
              ("वर्त्मानः + उपरुध्यन्ते", "-अः + उ would drop the visarga: वर्त्मान उप….")],
             "वर्त्मानि (paths) + उपरुध्यन्ते (are blocked).",
             "इ + unlike vowel → य् + vowel."),
-        mcq("transfer", 5, "In the invented sentence मार्गाः जलेन उपरुध्यन्ते, what blocks the paths?",
+        mcq("transfer", 5, "In the invented sentence जलेन मार्गा उपरुध्यन्ते, what blocks the paths?",
             ("The water", "जलेन is instrumental: the doer of the passive."),
             [("The paths themselves", "मार्गाः is the subject that is blocked."),
              ("Nothing; the paths block the water", "The verb is passive: the paths are blocked."),
              ("A traveller on the paths", "No traveller is named.")],
-            "मार्गाः जलेन उपरुध्यन्ते = the paths are blocked by water, like वर्त्मानि गर्भेण उपरुध्यन्ते.",
+            "जलेन मार्गा(ः) उपरुध्यन्ते = the paths are blocked by water, like वर्त्मानि गर्भेण उपरुध्यन्ते.",
             "Passive verb + instrumental doer.",
             teaches="With a passive verb, the thing acted on is nominative and the doer instrumental: वर्त्मानि … गर्भेण उपरुध्यन्ते."),
     ],
@@ -648,12 +648,12 @@ AUTHORED["11"] = {
              ("Passive, future: will be seen", "The form is present, not future.")],
             "दृश्यते = is seen; with न, is not seen.",
             "दृश्यते = is seen."),
-        mcq("transfer", 5, "In the invented line चन्द्रः न दृश्यते, what is said?",
+        mcq("transfer", 5, "In the invented line चन्द्रो न दृश्यते, what is said?",
             ("The moon is not seen", "दृश्यते is passive singular: is seen; न = not."),
             [("The moon does not see", "That would need an active verb, पश्यति."),
              ("The moon will not be seen", "दृश्यते is present, not future."),
              ("The moons are not seen", "चन्द्रः and दृश्यते are singular.")],
-            "चन्द्रः न दृश्यते = the moon is not seen, like आर्तवं न दृश्यते.",
+            "चन्द्रो न दृश्यते = the moon is not seen, like आर्तवं न दृश्यते.",
             "न दृश्यते = is not seen.",
             teaches="दृश्यते is the present passive of √दृश्: is seen; न दृश्यते = is not seen."),
     ],
@@ -742,11 +742,11 @@ AUTHORED["13"] = {
              ("स्रोतस् (srotas)", "Srotas are the channels of unit 10.")],
             "Others call it jarāyu, probably the foetal membrane.",
             "जरायुः इति अन्ये."),
-        match(1, "Match each word to its role in units 12 and 13.",
-              [["अपरा", "the name they give (unit 12)"], ["जरायु", "the name others give (unit 13)"],
-               ["अन्ये", "others"], ["इति", "thus, marking the name quoted"]],
-              "Two names for the same thing: aparā, and jarāyu from others.",
-              "अपरा (12), जरायु (13), अन्ये, इति."),
+        match(1, "Match each word of unit 13 to its meaning.",
+              [["जरायुः", "jarāyu (probably the foetal membrane)"], ["इति", "thus, marking the name quoted"],
+               ["अन्ये", "others"]],
+              "jarāyu, thus, say others.",
+              "जरायुः, इति, अन्ये."),
         T(fill(2, "Others say: ____ इति अन्ये. Type the name in Devanagari or in English letters (e.g. dharma).",
                accepts("जरायुः", None, "जरायु", "jarayu"),
                "The line is जरायुरित्यन्ये: jarāyu, say others.",
@@ -760,13 +760,13 @@ AUTHORED["13"] = {
              ("जरायुः + इति + न्ये", "न्ये is not a word; the अ of अन्ये joins with इ.")],
             "जरायुः (the name) + इति (thus) + अन्ये (others).",
             "-उः + vowel → -उर्; इ + अ → य."),
-        mcq("apply", 4, "By the card, how is unit 13 related to unit 12?",
-            ("It gives another name for the same thing", "The data's note: an alternative name, continuing unit 12."),
-            [("It rejects the name of unit 12 as wrong", "The text does not say which name is right."),
-             ("It names a new part of the embryo", "It names the same thing, not a new part."),
-             ("It opens a new chapter of the book", "Nothing marks a new chapter here.")],
-            "Unit 12: they say aparā; unit 13: others say jarāyu.",
-            "Two names, one thing; no verdict."),
+        mcq("apply", 4, "What does अन्ये mean in unit 13?",
+            ("Others", "The card glosses अन्ये as others (nom. pl.)."),
+            [("These", "That would be इमे."),
+             ("All", "That would be सर्वे."),
+             ("Some", "That would be केचित्.")],
+            "जरायुरित्यन्ये: jarāyu, say others.",
+            "अन्ये = others."),
         mcq("transfer", 5, "By the rule of जरायुरिति, how is गुरुः + आगतः (the teacher has come) written?",
             ("गुरुरागतः", "Visarga after उ becomes र् before a vowel, as जरायुः + इति."),
             [("गुरु आगतः", "After उ the visarga is not dropped before a vowel."),
@@ -873,7 +873,7 @@ AIDS = {
     "6": {
         "chunks": "विकृते | वियोन्याकृतीनां",
         "sandhi": "इ + आ → या: वियोनि + आकृतीनाम् → वियोन्याकृतीनाम्।",
-        "contrast": "इकाई ५: वायु से भिन्न → विभाग के अनुसार सन्तानें ↔ इकाई ६: विकृत होने पर → अन्य योनि के आकार वालों की (उत्पत्ति)।",
+        "frame": "विकृते (सप्तमी: विकृत होने पर) + वियोन्याकृतीनाम् (षष्ठी बहुवचन: अन्य योनि के आकारों की); क्रिया नहीं, क्या विकृत है यह नहीं कहा गया।",
     },
     "7": {
         "diagram": {"groups": [
@@ -889,10 +889,8 @@ AIDS = {
         "frame": "निश्चित शब्द: तन्द्रा → अङ्गसाद → प्रसेक → ग्लानि → पिपासा; (?) वाले तीन शब्द अनुमानित पाठ।",
     },
     "9": {
-        "contrast": {"groups": [
-            {"label": "सद्योगृहीतगर्भा (इकाई ७)", "items": ["बीज-ग्रहण", "तृप्ति", "गुरिमा", "स्फुरण", "अनुबन्ध"]},
-            {"label": "व्यक्तगर्भा, क्रम से (इकाई ९)", "items": ["निद्रा", "जृम्भण", "मूर्च्छा", "छर्दि", "अरुचि",
-                                                       "पादशोफ", "खट्टे की अभिलाषा"]}]},
+        "diagram": {"groups": [{"label": "व्यक्तगर्भा के निश्चित लक्षण, क्रम से", "items": ["निद्रा", "जृम्भण", "मूर्च्छा", "छर्दि", "अरुचि", "पादशोफ", "अम्ले अभिलाष"]}]},
+        "frame": "क्रमेण तु व्यक्तगर्भायाः → निश्चित लक्षण, पाठ-क्रम में: निद्रा → जृम्भण → मूर्च्छा → छर्दि → अरुचि → पादशोफ → अम्ले अभिलाष; (?) वाले पद अनिश्चित पाठ।",
         "chunks": "क्रमेण तु व्यक्तगर्भायाः | कुक्षिमात्रगौरवं (?) | क्षामनेत्रस्वरता | अक्षिरोमसंतुलनं (?) | निद्रा जृम्भणं | "
                   "मूर्च्छा छर्दिररुचिः | पादशोफोऽम्लेऽभिलाषः | तेषु चोच्चावचेषु भावेष्विति",
         "sandhi": "अः + अ → ओऽ: पादशोफः + अम्ले → पादशोफोऽम्ले · ए + अ → एऽ: अम्ले + अभिलाषः → अम्लेऽभिलाषः · उ + इ → वि: भावेषु + इति → भावेष्विति।",
@@ -914,9 +912,7 @@ AIDS = {
         "frame": "क्या (तत्, अनिश्चित) → कैसा (नीचे रुका, अपने आप बढ़ता) → नाम (अपरा) → कौन कहते हैं (आहुः, ‘वे’)।",
     },
     "13": {
-        "contrast": {"groups": [
-            {"label": "आहुः — कहते हैं (इकाई १२)", "items": ["अपरा (सम्भवतः आँवल)"]},
-            {"label": "अन्ये — दूसरे (इकाई १३)", "items": ["जरायु (सम्भवतः गर्भ की झिल्ली)"]}]},
+        "frame": "नाम (जरायुः, सम्भवतः गर्भ की झिल्ली) + इति (उद्धृत नाम) + कौन (अन्ये, दूसरे); क्रिया ‘कहते हैं’ समझी जाती है।",
         "chunks": "जरायुरिति | अन्ये",
         "sandhi": "उः → उर् स्वर से पहले: जरायुः + इति → जरायुरिति · इ + अ → य: इति + अन्ये → इत्यन्ये।",
     },
@@ -955,27 +951,26 @@ IMAGE_SPECS = {
     },
     ("7", "diagram"): {
         "file": "sh2-sadyogarbha-7.svg",
-        "alt": ("Mind map of unit 7: the signs of a woman who has just conceived: taking in of the seed by the yoni, "
+        "alt": ("Mind map of unit 7, nodes numbered in the text's order: the signs of a woman who has just conceived: taking in of the seed by the yoni, "
                 "satisfaction, heaviness, throbbing, and continued connection of shukra and artava."),
         "type": "mermaid",
         "code": ("mindmap\n"
                  "  सद्योगृहीतगर्भा के लक्षण\n"
-                 "    योनि द्वारा बीज-ग्रहण\n"
-                 "    तृप्ति\n"
-                 "    गुरिमा भारीपन\n"
-                 "    स्फुरण फड़कना\n"
-                 "    शुक्र-आर्तव का अनुबन्ध\n"),
+                 "    १ योनि द्वारा बीज-ग्रहण\n"
+                 "    २ तृप्ति\n"
+                 "    ३ गुरिमा भारीपन\n"
+                 "    ४ स्फुरण फड़कना\n"
+                 "    ५ शुक्र-आर्तव का अनुबन्ध\n"),
     },
-    ("9", "contrast"): {
+    ("9", "diagram"): {
         "file": "sh2-garbha-lakshana-9.svg",
-        "alt": ("Split comparing unit 7 and unit 9: signs just after conception (seed taken in, satisfaction, heaviness, "
-                "throbbing, connection) against the sure signs that come gradually once pregnancy is manifest (sleep, "
-                "yawning, fainting, vomiting, distaste for food, swelling of the feet, craving for the sour)."),
-        "type": "split",
-        "title": "गर्भ के लक्षण: इकाई ७ और इकाई ९",
-        "cols": [["सद्योगृहीतगर्भा (इकाई ७)", ["बीज-ग्रहण", "तृप्ति", "गुरिमा", "स्फुरण", "अनुबन्ध"]],
-                 ["व्यक्तगर्भा, क्रम से (इकाई ९)", ["निद्रा", "जृम्भण", "मूर्च्छा", "छर्दि", "अरुचि", "पादशोफ",
-                                                 "खट्टे की अभिलाषा"]]],
+        "alt": ("Numbered table of unit 9: the sure signs that come gradually once pregnancy is manifest, in the text's "
+                "order: sleep, yawning, fainting, vomiting, distaste for food, swelling of the feet, craving for the sour."),
+        "type": "table",
+        "title": "व्यक्तगर्भा के निश्चित लक्षण, क्रम से (इकाई ९)",
+        "heads": ["क्रम", "लक्षण"],
+        "rows": [["१", "निद्रा"], ["२", "जृम्भण"], ["३", "मूर्च्छा"], ["४", "छर्दि (उलटी)"], ["५", "अरुचि"],
+                 ["६", "पादशोफ (पैरों की सूजन)"], ["७", "अम्ले अभिलाष (खट्टे की चाह)"]],
     },
     ("11", "chain"): {
         "file": "sh2-artava-nirodha-11.svg",
@@ -983,16 +978,7 @@ IMAGE_SPECS = {
                 "on, artava is not seen."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"गर्भ\"] -->|\"रोकता है\"| B[\"रजोवाही स्रोतों के मार्ग<br/>इकाई १०\"]\n"
-                 "  B -->|\"तस्मात्, इसलिए\"| C[\"आर्तव नहीं दिखता<br/>इकाई ११\"]\n"),
-    },
-    ("13", "contrast"): {
-        "file": "sh2-apara-jarayu-13.svg",
-        "alt": ("Split of units 12 and 13: they call it apara (probably the placenta); others call it jarayu (probably the "
-                "foetal membrane)."),
-        "type": "split",
-        "title": "एक वस्तु, दो नाम (इकाई १२–१३)",
-        "cols": [["कहते हैं (इकाई १२)", ["अपरा", "सम्भवतः आँवल"]],
-                 ["अन्ये, दूसरे (इकाई १३)", ["जरायु", "सम्भवतः गर्भ की झिल्ली"]]],
+                 "  A[\"गर्भ\"] -->|\"रोकता है\"| B[\"रजोवाही स्रोतों के मार्ग, इकाई १०\"]\n"
+                 "  B -->|\"तस्मात्, इसलिए\"| C[\"आर्तव नहीं दिखता, इकाई ११\"]\n"),
     },
 }
