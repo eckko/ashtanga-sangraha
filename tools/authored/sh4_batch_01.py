@@ -41,7 +41,7 @@ AUTHORED["1"] = {
              ("अथः + अतः", "अथ has no visarga; it is an indeclinable."),
              ("अथ + आतः", "आतः is not the word; the word is अतः.")],
             "अथ (now) + अतः (therefore) = अथातः; before गर्भ the visarga gives ओ: अथातो.",
-            "अ + अ → आ; अः + voiced sound → ओ."),
+            "अ + अ → आ; अः + voiced consonant → ओ."),
         mcq("apply", 4, "What does the verb व्याख्यास्यामः of unit 1 express?",
             ("We shall explain (future)", "The data labels it 1st person plural future."),
             [("We explained (past)", "-स्यामः is a future ending, not a past one."),
@@ -78,15 +78,15 @@ AUTHORED["2"] = {
     "questions": [
         mcq("pretest", 0, "By unit 2, what does the pregnant woman do that sets up the case?",
             ("She indulges in things to be avoided", "परिहार्याणि (आ)सेवेत: she indulges in the avoidable."),
-            [("She refuses all food and drink", "No refusal of food is stated in unit 2."),
-             ("She sleeps too long in the daytime hours", "No day-sleep is named in unit 2."),
-             ("She lifts a heavy weight alone", "No lifting is named; the avoidables are not listed.")],
+            [("She keeps every rule of her pregnancy", "The case is the opposite: she indulges in the things to be avoided."),
+             ("She has already given birth to the child", "आपन्नगर्भा: she is pregnant, not delivered."),
+             ("She takes a medicine to help conception", "She is already pregnant (आपन्नगर्भा); no medicine is named.")],
             "The case opens: if she indulges in things to be avoided.",
             "स्त्री चेदापन्नगर्भा परिहार्याणि आसेवेत."),
         order(1, "Put the words of unit 2 in the line's order.",
-              ["स्त्री", "चेत्", "आपन्नगर्भा", "परिहार्याणि", "आसेवेत"],
+              ["स्त्री", "चेत्", "आपन्नगर्भा", "परिहार्याणि", "(आ)सेवेत"],
               "A woman, if, pregnant, things to be avoided, should indulge in.",
-              "स्त्री → चेत् → आपन्नगर्भा → परिहार्याणि → आसेवेत."),
+              "स्त्री → चेत् → आपन्नगर्भा → परिहार्याणि → (आ)सेवेत."),
         match(2, "Match each word of unit 2 to its meaning.",
               [["स्त्री", "woman"], ["चेत्", "if"], ["आपन्नगर्भा", "pregnant"], ["परिहार्य", "to be avoided"]],
               "If a pregnant woman indulges in the things to be avoided.",
@@ -101,7 +101,7 @@ AUTHORED["2"] = {
             "त् + vowel → द्."),
         multi("apply", 4, "Which statements fit unit 2?",
               [("It lists the things to be avoided", "The note: the avoidable things are not named here."),
-               ("It is a conditional clause (चेत्, if)", "Right: चेत् makes it a condition."),
+               ("It is a conditional, an if-clause", "Right: चेत् makes it a condition."),
                ("It gives the treatment in this line", "The treatment comes in later units."),
                ("आपन्नगर्भा means a pregnant woman", "Right: one whose garbha has come about.")],
               [1, 3],
@@ -135,7 +135,7 @@ AUTHORED["3"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 3, besides pain, which sign is named?",
-            ("The sight of puṣpa (probably bleeding)", "पुष्पदर्शनं वा: or the sight of the 'flower'."),
+            ("The sight of puṣpa, probably bleeding", "पुष्पदर्शनं वा: or the sight of the 'flower'."),
             [("A high fever with thirst and burning", "No fever is named in unit 3."),
              ("A swelling of the feet and of the whole face", "No swelling is named in unit 3."),
              ("A loss of all desire for any food", "No loss of appetite is named in unit 3.")],
@@ -159,7 +159,7 @@ AUTHORED["3"] = {
             "यस्याः + बस्ति = यस्या बस्ति: आः before a voiced sound loses its visarga.",
             "आः + voiced sound → आ."),
         multi("apply", 4, "Which signs in unit 3 call for the treatment that follows?",
-              [("Pain in the flanks (पार्श्व)", "Right: पार्श्व is one of the places of pain."),
+              [("Pain in the flanks", "Right: पार्श्व is one of the places of pain."),
                ("Fever with thirst", "No fever is named."),
                ("The sight of puṣpa", "Right: पुष्पदर्शनं वा."),
                ("Swelling of the feet", "No swelling is named.")],
@@ -221,7 +221,7 @@ AUTHORED["4"] = {
             ("Cool plasters and sprinklings", "शीतप्रदेहपरिषेकादिभिः: cool plasters, sprinklings and the like."),
             [("Hot pastes and warm baths", "The unit says cool (शीत), not hot."),
              ("Smoke of herbs and walking", "No smoke or walking is named in unit 4."),
-             ("Massage with warm oil", "No warm oil is named; the measures are cool.")],
+             ("Massage of the whole body with warm oil", "No warm oil is named; the measures are cool.")],
             "She is treated with cool measures: plasters, sprinklings and the like.",
             "शीतप्रदेहपरिषेकादिभिः उपाचरेत्."),
         mcq("transfer", 5, "By the rule of आदिभिरुपाचरेत्, how is मुनिः + आगच्छति (the sage comes) written?",
@@ -263,7 +263,7 @@ AUTHORED["5"] = {
         fill(2, "तत् and यथा are joined as ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("तद्यथा"),
              "तत् + यथा = तद्यथा: त् becomes द् before the voiced य.",
-             "A final त् becomes द् before a voiced sound such as य: तत् + यथा → तद्यथा.",
+             "A final त् becomes द् before a vowel or a voiced consonant such as य (not before nasals, ल, ज, ड): तत् + यथा → तद्यथा.",
              "तत् + यथा → तद्यथा."),
         mcq("discriminate", 3, "Why is तत् written तद् in तद्यथा?",
             ("त् becomes द् before the voiced य", "य is a voiced sound; त् takes the voiced द्."),
@@ -271,7 +271,7 @@ AUTHORED["5"] = {
              ("य makes the sound before it unvoiced", "The change goes the other way: त् becomes voiced द्."),
              ("द् marks the instrumental case here", "Case is not marked by द्; it is sandhi.")],
             "Before the voiced य, the unvoiced त् becomes voiced द्.",
-            "त् + voiced sound (य, ग, ब, vowels ...) → द्."),
+            "त् + vowel or voiced ग, ब, य ... → द् (not before nasals, ल, ज, ड)."),
         mcq("apply", 4, "In unit 5, what kind of line is तद्यथा?",
             ("A prose line leading into a list", "The data types it prose; it introduces the measures."),
             [("A full verse (śloka) of four quarters", "It is one word of prose, not a verse."),
@@ -285,8 +285,8 @@ AUTHORED["5"] = {
              ("सग्गुणः", "त् becomes द् here; it does not copy the ग."),
              ("सन्गुणः", "न् is not taken before ग here; the result is द्.")],
             "सत् + गुणः = सद्गुणः, like तत् + यथा = तद्यथा.",
-            "त् + voiced consonant → द्.",
-            teaches="A final त् becomes द् before a voiced consonant: तत् + यथा → तद्यथा."),
+            "त् + voiced consonant (not a nasal, ल, ज or ड) → द्.",
+            teaches="A final त् becomes द् before a vowel or a voiced consonant such as ग, ब, य (before nasals, ल, ज, ड it assimilates instead): तत् + यथा → तद्यथा."),
     ],
 }
 
@@ -329,12 +329,12 @@ AUTHORED["6"] = {
              ("अधौ + नाभेः", "अधौ is not a word; the word is अधः."),
              ("अधे + नाभेः", "अधे is not a word; the ओ comes from अः.")],
             "अधः (below) + नाभेः (the navel): अः + voiced न → ओ.",
-            "अः + voiced sound → ओ."),
+            "अः + voiced consonant → ओ."),
         mcq("apply", 4, "By unit 6, where exactly is the ghee smeared?",
             ("All round, below the navel", "अधो नाभेः सर्वतः: all round below the navel."),
             [("Only above the navel", "अधः means below, not above."),
              ("On the head and face", "The head is not named in unit 6."),
-             ("On the soles of the feet", "The feet are not named in unit 6.")],
+             ("On the soles of both of the feet", "The feet are not named in unit 6.")],
             "Below the navel, on all sides.",
             "अधः = below; सर्वतः = on all sides."),
         mcq("transfer", 5, "By the rule of अधोनाभेः, how is अधः + मुखम् (face downward) written when joined?",
@@ -382,7 +382,7 @@ AUTHORED["7"] = {
               "मधुक, सुशीत, पिचु, आप्लाव्य, समीपे.", role="extend",
               teaches="मधुक = licorice (Glycyrrhiza glabra, standard); पिचु = a pad or wad."),
         mcq("discriminate", 3, "Why does आप्लाव्य end in -य and not in -त्वा?",
-            ("It has a prefix (आ-), so it takes -य", "With a prefix the absolutive ends in -य."),
+            ("It has the prefix आ-, so it takes -य", "With a prefix the absolutive ends in -य."),
             [("The -य marks a passive verb form", "आप्लाव्य is an absolutive: having soaked."),
              ("The -य marks the optative mood", "The optative here is स्थापयेत्, not आप्लाव्य."),
              ("The -य marks a plural object", "पिचुम् is singular; -य is not a number ending.")],
@@ -558,7 +558,7 @@ AUTHORED["10"] = {
         mcq("discriminate", 3, "Which split of तत एव in unit 10 is right?",
             ("ततः + एव", "After अ, a visarga before a vowel other than अ is dropped."),
             [("तत + एव", "तत + एव would join to ततैव (अ + ए → ऐ)."),
-             ("ततो + एव", "ओ + ए would not give the open अ एव."),
+             ("ततो + एव", "ततो is not a base form; ओ is itself a sandhi result of ततः, and the word is ततः."),
              ("तते + व", "व is not the word; the word is एव.")],
             "ततः (from that) + एव (very): अः before ए → अ, with a gap left.",
             "अः + vowel other than अ → अ (visarga dropped)."),
@@ -566,7 +566,7 @@ AUTHORED["10"] = {
             ("She is made to take an akṣa measure", "अक्षमात्रं प्राशयेत्."),
             [("She is given cleansing (śodhana)", "Unit 21 excludes the cleansing treatments."),
              ("She is made to fast for a day", "No fasting is named in unit 10."),
-             ("She is made to walk and yawn", "No walking or yawning is named in unit 10.")],
+             ("She is made to walk about and to yawn", "No walking or yawning is named in unit 10.")],
             "An akṣa measure of that very preparation is given.",
             "ततः एव अक्षमात्रं प्राशयेत्."),
         mcq("transfer", 5, "By the rule of तत एव, how is रामः + इति (thus, Rāma) written?",
@@ -678,7 +678,7 @@ AUTHORED["12"] = {
             ("Gairika (red ochre)", "गैरिक is a member of the powder."),
             [("Śarkarā (sugar)", "Sugar goes with the filaments; the powder is only समधु."),
              ("Padma filaments", "The filaments are the first lickable, not the powder."),
-             ("Nyagrodha bark", "Nyagrodha bark is in unit 13.")],
+             ("Nyagrodha bark and shoots", "The nyagrodha bark-and-shoot paste is unit 13.")],
             "The powder: dhātakī, gairika, sarjarasa, rasāñjana, with honey.",
             "गैरिकसर्जरसरसाञ्जनचूर्णं वा समधु."),
         mcq("transfer", 5, "By the rule of समधु (with honey), what does सजलम् mean?",
@@ -760,16 +760,16 @@ AUTHORED["14"] = {
                "number of times is given."),
     "explain_hi": ("अथवा खरगोश (शश) और हिरण (हरिण) का रक्त (रुधिर) शहद (क्षौद्र) के साथ पिलाएँ। "
                    "छपा ‘शशौण’ अस्पष्ट है; ‘एण’ मृग अनुमानित पाठ (शश + एण → शशैण) पर है, इसलिए सम्भावित। "
-                   "‘पाययेत्’ प्रेरणार्थक विधिलिङ् है: पिलाए, यानी उसे पीने दे। "
+                   "‘पाययेत्’ प्रेरणार्थक विधिलिङ् है: पिलाए, यानी उसे पान कराए। "
                    "मात्रा नहीं दी गई।"),
     "hook": "खरगोश-हिरण का रक्त, शहद के साथ पिलाओ।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 14, what is she made to drink?",
             ("Blood of the hare and the deer", "शश...हरिणरुधिरम्: the blood of the hare ... and the deer."),
-            [("Milk boiled with licorice root", "No milk or licorice is named in unit 14."),
-             ("Water of rice washed with care", "No rice-water is named in unit 14."),
-             ("Juice of the banyan tree shoots", "No banyan is named in unit 14.")],
+            [("Juice pressed from bitter neem leaves", "No neem is named in unit 14."),
+             ("Hot water with black pepper and salt", "Nothing hot or sharp is named; the measures here are cool."),
+             ("Sour gruel with rock salt and oil", "No gruel or salt is named in unit 14.")],
             "Hare's and deer's blood, with honey.",
             "...रुधिरं वा सक्षौद्रं पाययेत्."),
         order(1, "Put the words of unit 14 in the line's order.",
@@ -813,7 +813,7 @@ AUTHORED["14"] = {
 NOTES_HI = {
     "1": ("गद्य-पंक्ति; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘शारीरम्’ सम्भवतः स्थान का नाम है, पर शब्दार्थ ‘शरीर सम्बन्धी’ रखा गया। "
           "गर्भव्यापद = गर्भावस्था की जटिलताएँ (सम्भावित)। सन्धि जाँची: अथ + अतः → अथातः (अ + अ → आ); अतः + गर्भ... → अथातो गर्भ... "
-          "(अः + घोष → ओ); व्यंजन से पहले म् → ं (गर्भव्यापदं, शारीरं)।"),
+          "(अः + घोष व्यंजन → ओ); व्यंजन से पहले म् → ं (गर्भव्यापदं, शारीरं)।"),
     "2": ("गद्य; विश्वास मध्यम। पाठ-चिह्न: छपा ‘परिहार्याण्यसेवेत’ (ह्रस्व अ); परिहार्याणि + आसेवेत से ‘परिहार्याण्यासेवेत’ अपेक्षित, "
           "इसलिए क्रिया सुधारे पाठ पर पढ़ी गई; इस पर कोई प्रश्न नहीं। त्यागने योग्य वस्तुएँ यहाँ नामित नहीं। सन्धि जाँची: चेत् + आपन्न → "
           "चेदापन्न (त् + स्वर → द्); आपन्नगर्भा और परिहार्याणि छपाई में जुड़े हैं। वाक्य आगे की इकाइयों में चलता है।"),
@@ -827,7 +827,7 @@ NOTES_HI = {
     "5": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। यह इकाई ६ से आरम्भ होने वाले उपायों की सूची का परिचय है। सन्धि जाँची: तत् + यथा → "
           "तद्यथा (घोष य से पहले त् → द्)।"),
     "6": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘सहस्रधौतेन’ और ‘सर्पिषा’ छपाई में जुड़े हैं। ‘सर्पिषाऽधो’ का अवग्रह छपाई का चिह्न "
-          "है (सर्पिषा + अधः से केवल सर्पिषाधः बनता); इस पर प्रश्न नहीं। सन्धि जाँची: अधः + नाभेः → अधोनाभेः (अः + घोष → ओ); "
+          "है (सर्पिषा + अधः से केवल सर्पिषाधः बनता); इस पर प्रश्न नहीं। सन्धि जाँची: अधः + नाभेः → अधोनाभेः (अः + घोष व्यंजन → ओ); "
           "नाभेः + सर्वतः में विसर्ग स से पहले बना रहता है। घी किससे धोया जाए, और कर्म (स्थान), नहीं कहे गए।"),
     "7": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। मधुक = मुलेठी (मानक); मधूक (महुआ) अलग द्रव्य। ‘मधुकसर्पिषा’ को द्वन्द्व "
           "(मधुक और घी) भी पढ़ा जा सकता है। सन्धि जाँची: सु + शीतेन → सुशीतेन; पिचुम् + आप्लाव्य → पिचुमाप्लाव्य (स्वर से पहले म्); "
@@ -863,7 +863,7 @@ NOTES_HI = {
 AIDS = {
     "1": {
         "chunks": "अथातो | गर्भव्यापदं | शारीरं | व्याख्यास्यामः",
-        "sandhi": "अ + अ → आ: अथ + अतः → अथातः · अः + घोष → ओ: अथातः + गर्भ... → अथातो गर्भ...",
+        "sandhi": "अ + अ → आ: अथ + अतः → अथातः · अः + घोष व्यंजन → ओ: अथातः + गर्भ... → अथातो गर्भ...",
         "frame": "कब: अथ अतः (अब, इसलिए) → किसका: गर्भव्यापदम् (गर्भ की विपत्तियाँ) → क्रिया: व्याख्यास्यामः (हम व्याख्या करेंगे)।",
     },
     "2": {
@@ -886,12 +886,12 @@ AIDS = {
         "contrast": "सब शीतल: बिछावन शिशिर, लेप शीत, परिषेक शीत; सिर ऊँचा नहीं, थोड़ा नीचे। (मेरी याद-पद्धति)",
     },
     "5": {
-        "sandhi": "त् + घोष → द्: तत् + यथा → तद्यथा।",
+        "sandhi": "त् + घोष (स्वर, ग, ब, य ...) → द्: तत् + यथा → तद्यथा।",
         "anchors": "याद-सूत्र: ‘तद्यथा’ = अब सूची शुरू; उपाय इकाई ६ से। (मेरी याद-पद्धति)",
     },
     "6": {
         "chunks": "सहस्रधौतेन सर्पिषा | अधोनाभेः सर्वतः | प्रदिह्यात्",
-        "sandhi": "अः + घोष → ओ: अधः + नाभेः → अधोनाभेः।",
+        "sandhi": "अः + घोष व्यंजन → ओ: अधः + नाभेः → अधोनाभेः।",
         "frame": "साधन: सहस्रधौतेन सर्पिषा (हज़ार बार धुले घी से) → कहाँ: अधः नाभेः सर्वतः (नाभि के नीचे चारों ओर) → क्रिया: प्रदिह्यात् (लेप करे)।",
     },
     "7": {
@@ -924,8 +924,8 @@ AIDS = {
     "12": {
         "diagram": {"groups": [
             {"label": "पहला लेह: शहद + शर्करा के साथ", "items": ["पद्म (कमल, मानक)", "उत्पल (सम्भावित)",
-                                                              "कुमुद (सम्भावित)", "इनका किञ्जल्क (केसर)"]},
-            {"label": "दूसरा लेह: केवल शहद के साथ, चूर्ण", "items": ["धातकी (धाय, मानक)", "गैरिक (गेरू, मानक)",
+                                                              "कुमुद (सम्भावित)", "इनका किञ्जल्क (केसर; तीनों का माना गया)"]},
+            {"label": "दूसरा लेह: केवल शहद के साथ, चूर्ण", "items": ["धातकी (धाय, मानक; चूर्ण में मानी गई)", "गैरिक (गेरू, मानक)",
                                                                   "सर्जरस (साल-राल, सम्भावित)", "रसाञ्जन (रसौत, सम्भावित)"]}]},
         "chunks": "पद्मोत्पलकुमुदकिंजल्कं च | समधुशर्करं लेहयेत् | धातकी गैरिकसर्जरसरसांजनचूर्णं वा | समधु",
         "sandhi": "अ + उ → ओ: पद्म + उत्पल → पद्मोत्पल।",
@@ -998,8 +998,8 @@ IMAGE_SPECS = {
         "type": "split",
         "title": "इकाई १२: दो लेह",
         "cols": [["शहद + शर्करा के साथ", ["पद्म (कमल, मानक)", "उत्पल (सम्भावित)", "कुमुद (सम्भावित)",
-                                        "इनका किञ्जल्क (केसर)"]],
-                 ["चूर्ण, केवल शहद के साथ", ["धातकी (धाय, मानक)", "गैरिक (गेरू, मानक)", "सर्जरस (सम्भावित)",
+                                        "इनका किञ्जल्क (केसर; तीनों का माना गया)"]],
+                 ["चूर्ण, केवल शहद के साथ", ["धातकी (धाय, मानक; चूर्ण में मानी गई)", "गैरिक (गेरू, मानक)", "सर्जरस (सम्भावित)",
                                             "रसाञ्जन (सम्भावित)"]]],
     },
 }

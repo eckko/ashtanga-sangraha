@@ -105,7 +105,7 @@ AUTHORED["42"] = {
             "प्रति (every) + अहम् (day): इ + अ → य.",
             "इ + a different vowel → य् + that vowel."),
         mcq("apply", 4, "By unit 42, how much is the flow?",
-            ("Not very scanty (नात्यल्पम्)", "न + अति + अल्पम्: not very scanty."),
+            ("Not very scanty", "नात्यल्पम् = न + अति + अल्पम्: not very scanty."),
             [("Very scanty, a few drops", "The unit says the opposite: नात्यल्पम्, not very scanty."),
              ("None at all, it has stopped", "There is ārtava every month or flow every day."),
              ("Heavy, mixed with many clots", "Clots and heaviness are not named in unit 42.")],
@@ -129,8 +129,8 @@ AUTHORED["43"] = {
     "rule": ("And the belly (कुक्षि), though grown (वृद्धोऽपि), diminishes: that is upaśuṣkaka (उपशुष्कक, literally "
              "'dried up') and nāgodara (नागोदर). It appears to complete the sentence begun in unit 42."),
     "limits": ("'Diminishes' rests on a near-certain correction (printed चरिहीयते read परिहीयते). Whether upaśuṣkaka and "
-               "nāgodara are one condition or two is not settled, and nāga may be serpent or elephant: no question rests on "
-               "either. The copula is understood. A prose line."),
+               "nāgodara are one condition or two is not settled, and nāga may be serpent or elephant: no question asks which (one only asks that both are "
+               "left open). The copula is understood. A prose line."),
     "explain_hi": ("यह गद्य-पंक्ति सम्भवतः इकाई ४२ का वाक्य पूरा करती है। "
                    "कुक्षि यानी पेट बढ़ा हुआ होकर भी (वृद्धोऽपि) घटता है; उसे उपशुष्कक (शब्दार्थ: सूखा हुआ) और नागोदर कहा गया है। "
                    "छपा ‘चरिहीयते’ लगभग निश्चित रूप से ‘परिहीयते’ (घटता है) पढ़ा गया है। "
@@ -199,7 +199,7 @@ AUTHORED["44"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 44, what does the woman do in the end, even after groups of years?",
-            ("She gives birth (प्रसूयते)", "वर्षगणैरपि प्रमदा प्रसूयत एव: she gives birth indeed."),
+            ("She gives birth", "वर्षगणैरपि प्रमदा प्रसूयत एव: she gives birth indeed."),
             [("She loses the pregnancy", "The unit says the opposite: she gives birth indeed (एव)."),
              ("She bleeds every month", "Monthly ārtava is unit 42; unit 44 speaks of birth."),
              ("She can never conceive again", "The unit says she does give birth, even after years.")],
@@ -246,15 +246,15 @@ AUTHORED["45"] = {
     "title": "तत्र वातेनोपविष्टकोपशुष्ककयोः",
     "question": "By unit 45, what signs does Vāta produce in upaviṣṭaka and upaśuṣkaka?",
     "rule": ("By Vāta: vāyu obstructed; stool passed noisy, frothy, broken; urine held back; pain in waist, back and heart; "
-             "yawning; loss of sleep; catarrh; dry cough; lassitude; four 'as it were' sensations; hard digestion; daily decline; rough, cracked skin."),
+             "yawning; loss of sleep; catarrh; dry cough; lassitude; five 'as it were' sensations (the fifth, entering darkness, of open sense); hard digestion; daily decline; rough, cracked skin."),
     "limits": ("The construction 'by Vāta, in these two' is loose. Whether abhīkṣṇam (repeatedly) goes with sleep-loss or "
                "catarrh, and the sense of 'entering darkness', are open: no question rests on them. The ants sense (crawling) is "
                "probable. The woman is not named. A prose line."),
     "explain_hi": ("यह लम्बी गद्य-पंक्ति उपविष्टक और उपशुष्कक में वात के लक्षण गिनाती है। "
                    "वायु रुकता है; मल शब्द सहित, झागदार और टूटा हुआ निकलता है; मूत्र रुकता है; कमर, पीठ और हृदय में पीड़ा, "
                    "जम्हाई, नींद का नाश, प्रतिश्याय यानी जुकाम, सूखी खाँसी और साद यानी थकावट होती है। "
-                   "चार ‘इव’ (मानो) वाले अनुभव हैं: कान मानो भनभनाते हैं, कनपटियाँ मानो चुभती हैं, शरीर मानो चींटियों से जुड़ा है, "
-                   "और वायु मानो काटता हुआ पेट में घूमता है। "
+                   "पाँच ‘इव’ (मानो) वाले अनुभव हैं: कान मानो भनभनाते हैं, कनपटियाँ मानो चुभती हैं, शरीर मानो चींटियों से जुड़ा है, "
+                   "वायु मानो काटता हुआ पेट में घूमता है, और मानो अन्धकार में प्रवेश कराया जाता है। "
                    "अन्न कठिनाई से पचता है, दिन-प्रतिदिन हानि होती है, और त्वचा फटी, विवर्ण और रूखी होती है। "
                    "‘अभीक्ष्णम्’ किससे जुड़ता है और ‘तम इव प्रवेश्यते’ का ठीक अर्थ, ये खुले हैं।"),
     "hook": "वात: झागदार टूटा मल, रुका मूत्र, सूखी खाँसी, रूखी फटी त्वचा।",
@@ -288,11 +288,11 @@ AUTHORED["45"] = {
             "निद्रानाशः (loss of sleep) + अभीक्ष्णम् (repeatedly): अः + अ → ओऽ.",
             "अः + अ → ओऽ."),
         multi("apply", 4, "Which of these are Vāta signs named in unit 45?",
-              [("Dry cough (शुष्ककास)", "Right: शुष्ककासः."),
+              [("Dry cough", "Right: शुष्ककासः."),
                ("Burning in the belly and heart", "Burning (दाह) is a Pitta sign, unit 46."),
                ("Cracked, discoloured, rough skin", "Right: स्फुटितविवर्णपरुषत्वक्त्वम्."),
                ("A sweet taste in the mouth", "A sweet mouth is a Kapha sign, unit 47."),
-               ("Loss of sleep (निद्रानाश)", "Right: निद्रानाशः.")],
+               ("Loss of sleep", "Right: निद्रानाशः.")],
               [0, 2, 4],
               "Dry cough, loss of sleep and rough, cracked skin are Vāta signs; burning and a sweet mouth are not.",
               "Vāta: शुष्ककास, निद्रानाश, स्फुटित-विवर्ण-परुष त्वक्."),
@@ -441,7 +441,7 @@ AUTHORED["48"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 48, what is to be used for those two?",
-            ("Medicated ghees (सर्पिस्)", "सर्पिषामुपयोगः: the use of ghees cooked with medicines."),
+            ("Medicated ghees", "सर्पिषामुपयोगः: the use of ghees cooked with medicines."),
             [("Bloodletting with leeches", "Bloodletting is not named in unit 48."),
              ("Oil dropped into the ears", "Ear drops are not named in unit 48."),
              ("Cold water on the head", "Cold water on the head is not named in unit 48.")],
@@ -605,7 +605,7 @@ AUTHORED["51"] = {
     "title": "सुभिक्षाया अभीक्ष्णं यानवाहनादिभिः",
     "question": "By unit 51, by what means is the 'bringing about' (upapādana) done, repeatedly?",
     "rule": ("Of one well provided with food (सुभिक्षा), repeatedly (अभीक्ष्णम्), the bringing about (उपपादन) by carriages, "
-             "vehicles and the like (यानवाहनादिभिः), and by shaking (क्षोभण), rubbing (मार्जन) and yawning (जृम्भण)."),
+             "vehicles and the like (यानवाहनादिभिः), and by shaking (क्षोभण), rubbing (मार्जन) and yawning (जृम्भण) (means or result: open). Sense not firm."),
     "limits": ("Low confidence: the sense is not firm. The object of उपपादन is not stated, and whether shaking, rubbing and "
                "yawning are means or what is brought about is open: no question rests on either. मार्जन may be wiping; जृम्भण stretching."),
     "explain_hi": ("इस गद्य-पंक्ति का अर्थ पक्का नहीं है (विश्वास निम्न)। "
@@ -779,7 +779,7 @@ AUTHORED["53"] = {
 # ---------------------------------------------------------------- unit 54
 AUTHORED["54"] = {
     "title": "निवातं च सेवेत",
-    "question": "By unit 54, what should be resorted to in the Vāta treatment?",
+    "question": "By unit 54, what should one resort to?",
     "rule": ("And one should resort to (सेवेत) a wind-sheltered place or state (निवात). सेवेत is the optative middle of "
              "√सेव्: one should resort to. It appears to continue units 52-53."),
     "limits": ("Three words. Who resorts (the woman is the natural reading) and for how long are not stated. निवात is "
@@ -828,8 +828,8 @@ AUTHORED["54"] = {
              ("One obtained it", "A past form would be e.g. अलभत, not लभेत."),
              ("One will obtain", "The future is लप्स्यते, not लभेत.")],
             "लभते → लभेत (one should obtain), like सेवते → सेवेत (one should resort to).",
-            "Middle present -अते → optative -एत.",
-            teaches="For a middle verb like सेवते, the optative 3 sg. ends in -एत: सेवेत = one should resort to."),
+            "Thematic middle present -अते → optative -एत.",
+            teaches="For a thematic middle verb like सेवते, the optative 3 sg. ends in -एत: सेवेत = one should resort to."),
     ],
 }
 
@@ -844,7 +844,7 @@ NOTES_HI = {
            "तमुपविष्टकम्; उपविष्टकम् + इति → उपविष्टकमिति; इति + आचक्षते → इत्याचक्षते (इ + आ → या)।"),
     "42": ("गद्य-पंक्ति; विश्वास मध्यम। पाठ-चिह्न: छपा ‘गर्भाः’ (बहुवचन) एकवचन क्रिया ‘स्पन्दते’ से मेल नहीं खाता; सम्भावित सुधार "
            "‘गर्भः’ (दीर्घ आ छपाई की भूल)। संख्या पर प्रश्न नहीं। छपा ‘चतथा’ = च तथा (और इसी प्रकार)। पहले खण्ड में क्रिया नहीं। "
-           "वाक्य इकाई ४३ में पूरा होता है (नाम वहीं)। ‘स्पंदते’ = स्पन्दते। सन्धि जाँची: प्रतिमासम् + आर्तवम् → प्रतिमासमार्तवम्; "
+           "वाक्य सम्भवतः इकाई ४३ में पूरा होता है (नाम वहीं)। ‘स्पंदते’ = स्पन्दते। सन्धि जाँची: प्रतिमासम् + आर्तवम् → प्रतिमासमार्तवम्; "
            "प्रति + अहम् → प्रत्यहम् (इ + अ → य); न + अति + अल्पम् → नात्यल्पम् (अ + अ → आ; इ + अ → य); परिहीयमाणः + गर्भः → "
            "परिहीयमाणो गर्भः (अः + घोष → ओ); चिरात् + किंचित् → चिरात्किंचित्।"),
     "43": ("गद्य-पंक्ति; विश्वास मध्यम। पाठ-चिह्न: छपा ‘चरिहीयते’ → ‘परिहीयते’ (लगभग निश्चित; प के स्थान पर च; धातु परि-√हा, जैसे "
@@ -916,7 +916,7 @@ AIDS = {
         "sandhi": "इ + अ → य: प्रति + अहम् → प्रत्यहम् · अ + अ → आ: न + अति → नाति (नात्यल्पम्) · अः + घोष → ओ: "
                   "परिहीयमाणः + गर्भः → परिहीयमाणो गर्भः।",
         "frame": "कब: यदा → स्राव: हर मास आर्तव या हर दिन परिस्रवण, बहुत कम नहीं → गर्भ: घटता हुआ, देर से थोड़ा हिलता → नाम: "
-                 "अगली इकाई (४३) में।",
+                 "सम्भवतः अगली इकाई (४३) में।",
     },
     "43": {
         "diagram": {"groups": [
@@ -1012,7 +1012,7 @@ AIDS = {
     "54": {
         "chunks": "निवातं च | सेवेत",
         "sandhi": "व्यंजन से पहले म् → अनुस्वार: निवातम् + च → निवातं च।",
-        "anchors": "याद-सूत्र: वात का रोग, तो ‘नि-वात’ (हवा से बचाव); वात-उपचार का तीसरा अंग: बस्ति, अनुवासन, निवात। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: वात का रोग, तो ‘नि-वात’ (हवा से बचाव); सम्भवतः वात-उपचार का अगला अंग: बस्ति, अनुवासन, फिर निवात। (मेरी याद-पद्धति)",
     },
 }
 
