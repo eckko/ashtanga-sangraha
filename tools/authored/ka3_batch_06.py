@@ -53,7 +53,7 @@ AUTHORED["64"] = {
             [("A second, milder purgative", "Unit 64 orders no purgation; the trouble is too much purgation."),
              ("A fast with no water at all", "No fast is named; rice-water is used."),
              ("Oiling and sweating only", "Oiling and sweating are not named in unit 64.")],
-            "Excess from below is met by a cleansing from above: vomiting with rice-water.",
+            "In excess of purgation, unit 64 orders vomiting with rice-water.",
             "Virecana-atiyoga → vamana with taṇḍula-water."),
         mcq("transfer", 5,
             "तंदुल + अंभसा gives तंदुलांभसा. Join the invented pair शीत + अम्भसा (with cold water) the same way. Which is right?",
@@ -103,7 +103,7 @@ AUTHORED["65"] = {
               "First alternative: the priyaṅgu group; second: lodhra, añjana, dāḍima skins; third: kamala, utpala, samaṅgā, padma-kesara.",
               "प्रियङ्गु-वर्ग · लोध्र · दाडिम-त्वचः · कमल · उत्पल · पद्मकेसर.",
               role="extend",
-              teaches="Unit 65 gives three alternatives in a row, each closed by वा: the priyaṅgu group, the lodhra set, the lotus set."),
+              teaches="Unit 65 gives three alternatives in a row: the priyaṅgu group (joined by च), then the lodhra set and the lotus set, each closed by वा."),
         mcq("discriminate", 3,
             "Which split of the printed पिबेल्लोध्र is right?",
             ("पिबेत् + लोध्र",
@@ -126,7 +126,7 @@ AUTHORED["65"] = {
             "प्रियंगु + आदिकम् gives प्रियंग्वादिकम्. Join the invented pair मधु + आदिकम् (honey and the rest) the same way. Which is right?",
             ("मध्वादिकम्",
              "उ before an unlike vowel becomes व्: मधु + आदिकम् = मध्वादिकम्, like प्रियंग्वादिकम्."),
-            [("मधूदिकम्", "उ + आ does not give ऊ; ऊ comes from उ + उ."),
+            [("मधुवादिकम्", "The उ is not kept before व्; it turns into the व् itself."),
              ("मधवादिकम्", "That would need the guṇa ओ (अव्) first; उ simply becomes व्."),
              ("मध्वदिकम्", "The आ of आदिकम् stays long after the व्.")],
             "Same join as प्रियंगु + आदिकम्: उ → व् before आ.",
@@ -219,7 +219,7 @@ AUTHORED["67"] = {
              "रक्तातिसारक्रियाम्: the procedure for bloody diarrhoea."),
             [("That of raktapitta", "Raktapitta's procedure was named in 05.03.57, not here."),
              ("That of the fever", "Fever (jvara) is not named in unit 67."),
-             ("That of indigestion", "Indigestion is not named in unit 67.")],
+             ("That of indigestion (ajīrṇa)", "Indigestion is not named in unit 67.")],
             "The compound names रक्त-अतिसार, diarrhoea with blood.",
             "Unit 67: रक्तातिसारक्रियां कुर्यात्."),
         match(1, "Match each word of unit 67 to its meaning.",
@@ -245,7 +245,7 @@ AUTHORED["67"] = {
             "What kind of instruction is unit 67?",
             ("A pointer to a procedure given elsewhere",
              "It names the procedure for raktātisāra but does not describe it."),
-            [("A full recipe with its measures", "No drug or measure is named in unit 67."),
+            [("A full recipe with its drugs and measures", "No drug or measure is named in unit 67."),
              ("A list of the signs of a disease", "No sign is listed; only a procedure is named."),
              ("A warning to stop all treatment", "Unit 67 orders a treatment: कुर्यात्.")],
             "Unit 67 refers the physician to the known procedure for bloody diarrhoea.",
@@ -267,7 +267,7 @@ AUTHORED["68"] = {
     "limits": ("कषायैः is read as 'with astringent things'; 'with decoctions' is the other possibility (glossary open), so no "
                "question asks which. The oil for anointing and the way of sweating are not named. Guda niḥsṛta = rectal "
                "prolapse (gudabhraṃśa), standard."),
-    "explain_hi": ("जुलाब के अतियोग से गुद यानी मलाशय बाहर निकल आए, तो उपचार चार क्रमों में: पहले उसे अभ्यक्त करे, फिर स्वेदित करे, "
+    "explain_hi": ("गुद यानी मलाशय बाहर निकल आए (कारण पंक्ति नहीं बताती; प्रसंग सम्भवतः विरेचन के अतियोग का है), तो उपचार चार क्रमों में: पहले उसे अभ्यक्त करे, फिर स्वेदित करे, "
                    "फिर कसैले द्रव्यों से स्तम्भित यानी दृढ़ करे, और तब भीतर प्रविष्ट कराए। आधुनिक नाम: गुदभ्रंश, रेक्टल प्रोलैप्स (मानक)। "
                    "‘कषायैः’ को कसैले द्रव्य पढ़ा गया; ‘काढ़ों से’ भी सम्भव है। अभ्यंग का तेल कौन सा हो, यह नहीं कहा।"),
     "hook": "बाहर निकला गुद: चिकनाओ, सेको, कसैले से कसो, फिर भीतर।",
@@ -299,7 +299,7 @@ AUTHORED["68"] = {
              "A final म् joins a following vowel: निःसृतम् + अभ्यज्य → निःसृतमभ्यज्य."),
             [("निःसृत + मभ्यज्य", "मभ्यज्य is no word; the म is the ending of निःसृतम्."),
              ("निःसृतः + अभ्यज्य", "अः + अ would give ओऽ (निःसृतोऽभ्यज्य); and गुदम् needs neuter -म्."),
-             ("निःसृतम् + भ्यज्य", "भ्यज्य is no word; the absolutive is अभ्यज्य.")],
+             ("निःसृतम् + मभ्यज्य", "That would print two म (निःसृतम्मभ्यज्य); मभ्यज्य is no word.")],
             "निःसृतम् agrees with गुदम् (n. acc. sg.); अभ्यज्य = having anointed.",
             "निःसृतमभ्यज्य = निःसृतम् + अभ्यज्य."),
         mcq("apply", 4,
@@ -398,7 +398,7 @@ AUTHORED["70"] = {
     "limits": ("Low confidence. The compound जीवरक्तपित्तयोः is under an open reviewer point (literally 'of life-blood and "
                "pitta'; the data reads 'life-blood and raktapitta'): no question on its second member. The printed प्लोनं is "
                "flagged (प्लोत 'cloth' possible): no question on it. 'In both' is not explained by the line."),
-    "explain_hi": ("यहाँ एक परीक्षा शुरू होती है। ‘उभयत्र’ = दोनों में; कौन से दो, पंक्ति नहीं बताती (शायद वमन और विरेचन के दोनों अतियोग)। "
+    "explain_hi": ("यहाँ एक परीक्षा शुरू होती है। ‘उभयत्र’ = दोनों में; कौन से दो, पंक्ति नहीं बताती (शायद वमन और विरेचन के दोनों अतियोग, या ऊपर कहे दोनों रक्त-रोग, रक्तपित्त और रक्तातिसार)। "
                    "रक्त में श्वेत पिचु यानी रुई का फाहा डाला जाए, ‘ज्ञानार्थम्’, यानी जानने के लिए। क्या जानना है, उस समास पर समीक्षा खुली है: "
                    "छपा पाठ ‘जीवरक्त और पित्त’ है, अनुवाद ने उसे ‘जीवरक्त और रक्तपित्त’ पढ़ा। दूसरा विकल्प ‘प्लोनं’ छपाई में संदिग्ध है "
                    "(सम्भवतः प्लोत, कपड़ा)। परीक्षा का परिणाम 05.03.74 में है।"),
@@ -459,20 +459,20 @@ AUTHORED["70"] = {
 # ---------------------------------------------------------------- unit 71
 AUTHORED["71"] = {
     "title": "कोष्णांबुक्षालितशुद्धे रक्तं",
-    "question": "How does unit 71 read the wad after washing it in slightly warm water?",
+    "question": "How does unit 71 read the tested thing after washing it in slightly warm water?",
     "rule": ("When, washed with slightly warm water, it comes clean, he should know it to be blood (raktam); but in "
              "discolouration he should know raktapitta (the bleeding disorder)."),
     "limits": ("Medium confidence. The printed शोधाने is flagged (शोधने 'in the cleansing' expected): no question on it. The line "
-               "is elliptical: 'it' (the wad of 05.03.73) and 'know (it as)' are understood. Whether रक्तम् here means the "
+               "is elliptical: 'it' (the wad, or the doubtful second item, of 05.03.73) and 'know (it as)' are understood. Whether रक्तम् here means the "
                "jīvarakta of 05.03.73 is not stated."),
-    "explain_hi": ("05.03.73 की परीक्षा का परिणाम। फाहे को कुछ गरम जल से धोया जाए। यदि धोने पर वह शुद्ध हो जाए, तो उसे ‘रक्त’ जाने; "
+    "explain_hi": ("05.03.73 की परीक्षा का परिणाम। जाँची जा रही वस्तु (सम्भवतः फाहा) को कुछ गरम जल से धोया जाए। यदि धोने पर वह शुद्ध हो जाए, तो उसे ‘रक्त’ जाने; "
                    "पर यदि विवर्णता यानी रंग का बिगड़ना रह जाए, तो रक्तपित्त यानी रक्तस्राव का रोग जाने। वाक्य संक्षिप्त है: ‘इसे ... जाने’ "
                    "समझना पड़ता है। यहाँ का ‘रक्त’ 05.03.73 का जीवरक्त है या नहीं, पंक्ति स्पष्ट नहीं कहती।"),
     "hook": "धोकर साफ़: रक्त; रंग बिगड़ा रहे: रक्तपित्त।",
     "core": True,
     "questions": [
         mcq("pretest", 0,
-            "In unit 71, with what is the wad washed?",
+            "In unit 71, with what is the tested thing washed?",
             ("Slightly warm water",
              "कोष्णांबुक्षालित: washed with slightly warm (koṣṇa) water."),
             [("Cold rain-water", "Cold water is not named; the water is कोष्ण, slightly warm."),
@@ -501,12 +501,12 @@ AUTHORED["71"] = {
             "Two outcomes, two verdicts; तु marks the contrast.",
             "Discoloured → रक्तपित्त."),
         mcq("apply", 4,
-            "After washing in slightly warm water the wad comes out clean. What should the physician know, by unit 71?",
+            "After washing in slightly warm water the tested thing comes out clean. What should the physician know, by unit 71?",
             ("It is blood (rakta)",
              "क्षालितशुद्धे रक्तम्: when it is clean after washing, blood."),
             [("It is raktapitta", "Raktapitta is the verdict for discolouration, not for a clean wad."),
              ("The test is spoiled", "No spoiled test is named; a clean wad has a verdict."),
-             ("The wad was not white", "The wad was white (05.03.73); the outcome concerns the washing.")],
+             ("The water was too hot", "The water is named only as slightly warm; the outcome concerns the washing.")],
             "Clean → रक्त; discoloured → रक्तपित्त.",
             "Clean after washing → रक्त."),
         mcq("transfer", 5,
@@ -532,7 +532,7 @@ AUTHORED["72"] = {
     "explain_hi": ("परीक्षा का दूसरा विकल्प: उस, यानी सम्भवतः जाँचे जा रहे रक्त, से मिला हुआ अन्न कुत्ते या कौए को दिया जाए। "
                    "‘शुने’ और ‘काकाय’ चतुर्थी विभक्ति में हैं: कुत्ते को, कौए को। परिणाम कैसे पढ़ें, यह 05.03.76 में है। "
                    "‘तत्’ किसे कहता है, पंक्ति स्वयं नहीं बताती।"),
-    "hook": "खून मिला भात कुत्ते या कौए के आगे: दूसरी जाँच।",
+    "hook": "उस (सम्भवतः खून) से मिला अन्न कुत्ते या कौए के आगे: दूसरी जाँच।",
     "core": False,
     "questions": [
         mcq("pretest", 0,
@@ -565,14 +565,13 @@ AUTHORED["72"] = {
             "दद्यात् (should give) takes the receiver in the dative.",
             "शुने, काकाय = dative singular."),
         mcq("apply", 4,
-            "By the card's reading, what does तत् (that) in तद्विमिश्रम् refer to?",
-            ("The blood under test",
-             "The data: 'that' is presumably the blood under test in the preceding units."),
-            [("The rice-water", "The rice-water belongs to 05.03.67, not to this test."),
-             ("The honey and sugar", "Honey and sugar belong to the drink list of 05.03.69."),
-             ("The white wad", "The wad is the other test; here food is mixed with the blood.")],
-            "The card takes तत् as the blood of the test, hedged as presumably.",
-            "तद्विमिश्रम् = mixed with that (presumably the blood)."),
+            "In unit 72, what is mixed with 'that' and given to the dog or crow?",
+            ("Food (अन्न)", "अन्नं ... तद्विमिश्रम्: food mixed with that."),
+            [("Rice-water", "Rice-water belongs to 05.03.67, not to this test."),
+             ("A white wad", "The wad is the other test (05.03.73); here food is given."),
+             ("Honey", "Honey is not named in unit 72.")],
+            "The thing given is अन्न, food, mixed with that.",
+            "Unit 72: तद्विमिश्रम् अन्नम्."),
         mcq("transfer", 5,
             "तत् + विमिश्रम् gives तद्विमिश्रम्. Join the invented pair तत् + गृहम् (that house) the same way. Which is right?",
             ("तद्गृहम्",
@@ -625,7 +624,7 @@ AUTHORED["73"] = {
              "A final म् joins a following vowel: जीवम् + अभुक्ते → जीवमभुक्ते."),
             [("जीव + मभुक्ते", "मभुक्ते is no word; the म is the ending of जीवम्."),
              ("जीवम् + भुक्ते", "That would print जीवम्भुक्ते (or जीवं भुक्ते), with no अ, and would lose the 'not'."),
-             ("जीवः + अभुक्ते", "अः + अ would give ओऽ (जीवोऽभुक्ते).")],
+             ("जीवाम् + अभुक्ते", "जीवाम् is no form here, and its आ would show in print (जीवामभुक्ते).")],
             "The अ of अभुक्ते is the negation: not eaten.",
             "जीवमभुक्ते = जीवम् + अ-भुक्ते."),
         mcq("apply", 4,
@@ -697,7 +696,7 @@ AUTHORED["74"] = {
             "Besides the Pitta-destroying treatment, what else does unit 74 order?",
             ("What is stated for atiyoga",
              "अतियोगोक्तं च: and what is stated for excess (atiyoga)."),
-            [("A second strong purgation", "No purgation is ordered; the patient already suffers excess."),
+            [("A second strong purgation at once", "No purgation is ordered; the patient already suffers excess."),
              ("A fast until he recovers", "No fast is named in unit 74."),
              ("Bloodletting with leeches", "Bloodletting is not named in unit 74.")],
             "Two objects of कुर्यात्: पित्तघ्नी क्रिया and अतियोगोक्तम्.",
@@ -912,7 +911,7 @@ AIDS = {
         "anchors": "क्षौद्र = शहद · शर्करा = चीनी · मधुक = मुलेठी (सम्भावित) · उदुम्बर = गूलर · त्वचः = छालें।",
     },
     "67": {
-        "frame": "क्या: रक्तातिसार की क्रिया · कब: विरेचन का अतियोग (इसी प्रसंग में) · कैसे: विधि यहाँ नहीं बताई।",
+        "frame": "क्या: रक्तातिसार की क्रिया · कब: पंक्ति नहीं कहती (प्रसंग सम्भवतः विरेचन का अतियोग) · कैसे: विधि यहाँ नहीं बताई।",
         "anchors": "रक्त = खून · अतिसार = दस्त · क्रिया = उपचार की विधि · कुर्यात् = करे।",
     },
     "68": {
@@ -945,9 +944,9 @@ AIDS = {
         "anchors": "भुक्त = खाया हुआ · अभुक्त = न खाया हुआ · जीव = जीवरक्त · पित्त = पित्त।",
     },
     "74": {
-        "diagram": {"groups": [{"label": "पीड़ा", "items": ["तृट् (प्यास)", "मूर्च्छा", "मद"]},
-                               {"label": "उपचार", "items": ["पित्त को नष्ट करने वाली क्रिया", "अतियोग में कहा हुआ"]},
-                               {"label": "कब तक", "items": ["आमरणात्, मरण तक"]}]},
+        "diagram": {"groups": [{"label": "कब तक", "items": ["आमरणात्, मरण तक"]},
+                               {"label": "पीड़ा", "items": ["तृट् (प्यास)", "मूर्च्छा", "मद"]},
+                               {"label": "उपचार", "items": ["पित्त को नष्ट करने वाली क्रिया", "अतियोग में कहा हुआ"]}]},
         "sandhi": "ट् → ण् नासिक्य से पहले: तृट् + मूर्च्छा → तृण्मूर्च्छा; त् + च → च्च: आमरणात् + च → आमरणाच्च।",
         "anchors": "तृट् = प्यास · मूर्च्छा = बेहोशी · मद = नशे जैसी अवस्था · आर्त = पीड़ित · पित्तघ्नी = पित्त नाशक।",
     },
@@ -982,9 +981,9 @@ IMAGE_SPECS = {
     },
     ("71", "contrast"): {
         "file": "ka3-wad-test-71.svg",
-        "alt": "Flowchart: the wad washed in slightly warm water either comes clean, meaning blood, or stays discoloured, meaning raktapitta",
+        "alt": "Flowchart: after washing in slightly warm water, the thing tested (presumably the wad of 05.03.73) either comes clean, meaning blood, or stays discoloured, meaning raktapitta",
         "type": "mermaid",
-        "code": ('flowchart TD\n  A["कुछ गरम जल से<br/>धोया फाहा"] --> B["शुद्ध हुआ"]\n  A --> C["विवर्णता रही"]\n'
+        "code": ('flowchart TD\n  A["कुछ गरम जल से<br/>धोने पर"] --> B["शुद्ध हुआ"]\n  A --> C["विवर्णता रही"]\n'
                  '  B --> D["रक्त जाने"]\n  C --> E["रक्तपित्त जाने"]\n'),
     },
     ("73", "seesaw"): {
