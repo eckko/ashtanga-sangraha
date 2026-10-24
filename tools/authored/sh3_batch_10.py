@@ -710,7 +710,7 @@ AUTHORED["127"] = {
         mcq("transfer", 5, "By the rule of यावद्गर्भ…, how is जगत् + ईशः (lord of the world, a new example) joined?",
             ("जगदीशः", "त् → द् before a voiced sound (here a vowel), as यावत् + गर्भ… → यावद्गर्भ…."),
             [("जगतीशः", "Before a vowel the final त् does not stay त्."),
-             ("जगन्नीशः", "त् becomes न् only before a nasal."),
+             ("जगन्नीशः", "त् may become न् (optionally) only before a nasal."),
              ("जगदिशः", "The ई of ईशः is not shortened.")],
             "जगत् + ईशः = जगदीशः, like यावत् + गर्भक्षमा → यावद्गर्भक्षमा.",
             "Final त् → द् before a voiced sound or a vowel.",

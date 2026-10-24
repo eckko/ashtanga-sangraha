@@ -388,7 +388,7 @@ AUTHORED["20"] = {
             "तद्यथा → the list that follows."),
         T(mcq("transfer", 5, "By the rule of तद्यथा, how is तत् + वनम् written when joined?",
               ("तद्वनम्", "त् before the voiced व becomes द्."),
-              [("तन्वनम्", "त् becomes न् only before a nasal."),
+              [("तन्वनम्", "त् may become न् (optionally) only before a nasal."),
                ("तच्वनम्", "त् becomes च् only before च/छ."),
                ("तत्वनम्", "Before the voiced व the त् must become द्.")],
               "तत् + यथा → तद्यथा; so तत् + वनम् → तद्वनम्.",

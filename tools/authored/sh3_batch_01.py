@@ -649,7 +649,7 @@ AUTHORED["11"] = {
             ("जगदीशः", "त् → द् before a vowel, as तत् + एव."),
             [("जगतीशः", "A final त् before a vowel becomes द्, not त्."),
              ("जगदेशः", "The ई does not change to ए."),
-             ("जगन्नीशः", "त् becomes न् only before a nasal.")],
+             ("जगन्नीशः", "त् may become न् (optionally) only before a nasal.")],
             "जगत् + ईशः = जगदीशः, like तत् + एव = तदेव.",
             "final त् + vowel → द्.",
             teaches="A word-final त् becomes द् before a vowel: तत् + एव → तदेव."),

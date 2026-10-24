@@ -341,7 +341,7 @@ AUTHORED["57"] = {
         mcq("transfer", 5, "By the rule of ब्रूयाच्च, how is तत् + च (and that) joined?",
             ("तच्च", "A final त् before च becomes च्: त् + च → च्च."),
             [("तद्च", "त् becomes द् before a voiced sound; च is unvoiced."),
-             ("तन्च", "त् becomes न् only before a nasal."),
+             ("तन्च", "त् may become न् (optionally) only before a nasal."),
              ("तज्च", "त् becomes ज् only before ज or झ.")],
             "तत् + च = तच्च, like ब्रूयात् + च = ब्रूयाच्च.",
             "त् + च → च्च.",
