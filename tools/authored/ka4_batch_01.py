@@ -138,11 +138,11 @@ AUTHORED["3"] = {
              "pippalī, with grape, honey and ghee, together with oil, pleasantly warm and with salt."),
     "limits": ("The subject is not named (the liquid of verse 2). यवानीफल may be one item or two, so no question rests on it. "
                "Śatāhvā is probably dill and ghana probably nut-grass; the oil's kind and all amounts are not stated."),
-    "explain_hi": ("श्लोक २ का पका हुआ द्रव यहाँ छाना जाता है (‘पूते’ = छान लेने पर)। फिर उसमें सात द्रव्यों के कल्क यानी लुगदी मिलती है: "
+    "explain_hi": ("श्लोक २ का पका हुआ द्रव यहाँ छाना जाता है (‘पूते’ = छान लेने पर)। फिर उसमें इन द्रव्यों के कल्क यानी लुगदी मिलती है: "
                    "यवानीफल यानी अजवायन का फल, बिल्व यानी बेल, कुष्ठ यानी कूठ, वचा यानी बच, शताह्वा यानी सम्भवतः सोआ, घन यानी सम्भवतः नागरमोथा, "
                    "और पिप्पली यानी पीपर। साथ में मृद्वीका यानी मुनक्का या अंगूर, क्षौद्र यानी शहद, घी और तेल। "
                    "बस्ति सुखोष्ण यानी सुहाती गरम और नमक से युक्त होती है; मात्राएँ नहीं दी गई हैं।"),
-    "hook": "छानो, सात कल्क डालो, मुनक्का-शहद-घी-तेल, सुहाता गरम, नमक के साथ।",
+    "hook": "छानो, कल्क डालो, मुनक्का-शहद-घी-तेल, सुहाता गरम, नमक के साथ।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In verse 3, at what point are the pastes added?",
@@ -154,9 +154,9 @@ AUTHORED["3"] = {
             "पूते is a locative absolute: when strained.",
             "पूते = when strained (√पू, to purify, strain)."),
         order(1, "Put these paste drugs of verse 3 in the verse's order.",
-              ["बिल्व", "कुष्ठ", "वचा", "शताह्वा", "घन", "पिप्पली"],
-              "After यवानीफल the compound runs bilva, kuṣṭha, vacā, śatāhvā, ghana, pippalī.",
-              "बिल्व · कुष्ठ · वचा · शताह्वा · घन · पिप्पली."),
+              ["बिल्व", "कुष्ठ", "वचा", "घन", "पिप्पली"],
+              "After यवानीफल the compound runs bilva, kuṣṭha, vacā, (śatāhvā, printed with a letter slip), ghana, pippalī.",
+              "बिल्व · कुष्ठ · वचा · (शताह्वा) · घन · पिप्पली."),
         match(2, "Match each drug of verse 3 to its identity as the card gives it.",
               [["बिल्व", "bael"], ["कुष्ठ", "costus root"], ["वचा", "sweet flag"],
                ["पिप्पली", "long pepper"], ["मृद्वीका", "grape or raisin"]],
@@ -248,7 +248,7 @@ AUTHORED["4"] = {
             ("हितो भवति",
              "-अः before a voiced consonant (भ) becomes -ओ."),
             [("हितर् भवति", "-र् comes from -इः or -उः, not from -अः."),
-             ("हिता भवति", "-अः becomes -अ only before a vowel other than अ."),
+             ("हिता भवति", "-अः never becomes -आ; before the voiced भ it becomes -ओ."),
              ("हितस् भवति", "स् appears before त्, not before a voiced भ.")],
             "Same rule as हितः + जीवन… → हितो जीवन….",
             "-अः + voiced consonant → -ओ.",
@@ -306,7 +306,7 @@ AUTHORED["5"] = {
              ("The verse names oil and honey", "Neither oil nor honey is named here.")],
             "The three fats are conventionally ghee, oil and vasā or majjā, but this verse does not list them.",
             "Only what the verse names belongs to its list."),
-        mcq("transfer", 5, "A basti (masc.) joined with honey: which invented phrase agrees, like त्रिस्नेहयुक्तः निरूहः?",
+        mcq("transfer", 5, "A basti (masc.) joined with honey: which invented phrase agrees (words shown unjoined), like त्रिस्नेहयुक्तः निरूहः?",
             ("मधुयुक्तः बस्तिः",
              "बस्ति is masculine here, so the -युक्त compound takes -अः, like निरूहः."),
             [("मधुयुक्ता बस्तिः", "-आ is the feminine ending."),
@@ -336,7 +336,7 @@ AUTHORED["6"] = {
         mcq("pretest", 0, "Which measure does verse 6 use for the liquid?",
             ("A prastha",
              "प्रस्थो रसात्: a prastha from the liquid; and again until प्रस्थसमः."),
-            [("An akṣa", "The akṣa is the measure of the paste in verse 10."),
+            [("An akṣa", "The akṣa is named in verse 10, not here."),
              ("Half a tulā", "Half a tulā is the meat in verse 2."),
              ("Two āḍhakas", "Two āḍhakas of water come in verse 9.")],
             "The measure in this verse is the prastha, used twice.",
@@ -417,7 +417,7 @@ AUTHORED["7"] = {
             ("स्यात् + दीपनः",
              "त् → द् before the voiced द; -अः → -ओ before the voiced म."),
             [("स्या + द्दीपनः", "द्दीपन is not a word; the word is दीपन."),
-             ("स्यात् + द्दीपनः", "The second द् comes from स्यात्, not from the noun."),
+             ("स्यात् + द्दीपनः", "द्दीपन is not a word; the first द् is स्यात्'s त् voiced, and the noun is दीपनः."),
              ("स्याः + दीपनः", "स्याः is not the verb; the verb is स्यात्, it would be.")],
             "स्यात् (it would be) + दीपनः (a kindler).",
             "-त् + voiced consonant → -द्."),
@@ -450,7 +450,7 @@ AUTHORED["8"] = {
              "chinnaruhā, aśvagandhā, punarnavā, āragvadha and devadāru. The cooking follows in verse 9."),
     "limits": ("The verse has no verb. Line 2 gives no quantities. Palāśa is probably flame-of-the-forest (the word also means 'leaf'); "
                "the part used is not stated. The print reads आर्गवध for āragvadha."),
-    "explain_hi": ("यहाँ से एरण्डमूल का निरूह शुरू होता है, जो श्लोक ११ तक चलता है। एरण्ड यानी अरंडी की जड़ तीन पल, और पलाश यानी सम्भवतः ढाक से "
+    "explain_hi": ("यहाँ से एरण्डमूल वाली बस्ति का नुस्खा शुरू होता है, जो श्लोक ११ तक चलता है। एरण्ड यानी अरंडी की जड़ तीन पल, और पलाश यानी सम्भवतः ढाक से "
                    "पल भर का अंश; फिर लघुपंचमूल। दूसरी पंक्ति एक लम्बी सूची है: रास्ना, बला यानी बरियार, छिन्नरुहा यानी गिलोय, "
                    "अश्वगन्धा यानी असगंध, पुनर्नवा यानी गदहपूर्णा, आरग्वध यानी अमलतास और देवदारु यानी देवदार। "
                    "इस श्लोक में क्रिया नहीं है; पकाने की बात श्लोक ९ में है।"),
@@ -467,23 +467,23 @@ AUTHORED["8"] = {
             "त्रि + पल = three palas."),
         match(1, "Match each drug of verse 8 to its identity as the card gives it.",
               [["एरण्ड", "castor"], ["छिन्नरुहा", "giloy"], ["अश्वगन्धा", "winter cherry"],
-               ["आरग्वध", "Indian laburnum"], ["देवदारु", "deodar"]],
+               ["पुनर्नवा", "hogweed"], ["देवदारु", "deodar"]],
               "All five are labelled standard in the data; chinnaruhā is a name of guḍūcī.",
-              "एरण्ड = castor; छिन्नरुहा = giloy; अश्वगन्धा = winter cherry; आरग्वध = Indian laburnum; देवदारु = deodar."),
+              "एरण्ड = castor; छिन्नरुहा = giloy; अश्वगन्धा = winter cherry; पुनर्नवा = hogweed; देवदारु = deodar."),
         order(2, "Put these drugs of verse 8, line 2, in the verse's order.",
-              ["रास्ना", "बला", "छिन्नरुहा", "अश्वगन्धा", "पुनर्नवा", "आरग्वध"],
-              "The list runs rāsnā, balā, chinnaruhā, aśvagandhā, punarnavā, āragvadha, and ends with devadāru.",
-              "रास्ना · बला · छिन्नरुहा · अश्वगन्धा · पुनर्नवा · आरग्वध (· देवदारु).",
+              ["रास्ना", "बला", "छिन्नरुहा", "अश्वगन्धा", "पुनर्नवा"],
+              "The list runs rāsnā, balā, chinnaruhā, aśvagandhā, punarnavā, then āragvadha and devadāru.",
+              "रास्ना · बला · छिन्नरुहा · अश्वगन्धा · पुनर्नवा (· आरग्वध · देवदारु).",
               role="extend",
               teaches="Line 2 is one compound of seven drug names, from rāsnā to devadāru, with no quantities."),
         mcq("discriminate", 3, "Which is the right split of बलाच्छिन्नरुहा in verse 8?",
             ("बला + छिन्नरुहा",
-             "After a vowel, छ is written doubled as च्छ: बला + छिन्न… = बलाच्छिन्न…."),
+             "छ after a vowel becomes च्छ (always after a short vowel, optionally after a long one like आ): बला + छिन्न… = बलाच्छिन्न…."),
             [("बलात् + शिन्नरुहा", "शिन्नरुहा is not a word; the drug is छिन्नरुहा, giloy."),
              ("बलाच् + छिन्नरुहा", "बलाच् is not a word; the drug is बला."),
              ("बलाः + छिन्नरुहा", "-आः before छ would become -आश्छ, not -आच्छ.")],
             "Two drug names of the list: बला (country mallow) and छिन्नरुहा (giloy).",
-            "Vowel + छ → vowel + च्छ."),
+            "Vowel + छ → vowel + च्छ (optional after a long vowel)."),
         mcq("apply", 4, "Verse 8 has no verb. Where are its drugs cooked?",
             ("In verse 9, by विपाचयेत्",
              "The notes: the drugs are cooked in the next line, विपाचयेत्, one should cook thoroughly."),
@@ -546,7 +546,7 @@ AUTHORED["9"] = {
              ("अष्टमशेषितै + अस्मिन्", "ऐ before a vowel becomes आय्, not एऽ.")],
             "अष्टमशेषिते (being left at an eighth) + अस्मिन् (this): a locative absolute.",
             "-ए + अ → -एऽ."),
-        mcq("apply", 4, "Someone following verse 9 stops when a quarter of the water is left. What does the verse say?",
+        mcq("apply", 4, "Someone following verse 9 stops cooking when a quarter is left. What does the verse say?",
             ("Cook on until an eighth remains",
              "अष्टमशेषिते: the end point is an eighth, not a quarter."),
             [("Right, a quarter is the end point", "A quarter is the end point of verse 2, not of verse 9."),
@@ -620,7 +620,7 @@ AUTHORED["10"] = {
         mcq("transfer", 5, "Join invented तत् + लभते, like जयेत् + लेखन. Which is right?",
             ("तल्लभते",
              "त् before ल becomes ल्: जयेत् + लेखन = जयेल्लेखन."),
-            [("तद्लभते", "त् → द् is only before vowels and other voiced sounds, not before ल."),
+            [("तद्लभते", "Before ल the त् assimilates fully to ल्; it does not stop at द्."),
              ("तत्लभते", "In sandhi the त् does not stay before ल."),
              ("तंलभते", "Anusvara comes from म्, not from त्.")],
             "Same rule as जयेत् + लेखन → जयेल्लेखन.",
@@ -653,7 +653,7 @@ AUTHORED["11"] = {
             "कफ-वात-जात = born of Kapha and Vāta."),
         order(1, "Put these body parts of verse 11 in the verse's order.",
               ["जंघा", "ऊरु", "पाद", "त्रिक", "पृष्ठ", "कोष्ठ"],
-              "The compound runs from the legs upward: shank, thigh, foot, trika, back, belly, then heart and private part.",
+              "The compound runs shank, thigh, foot, trika, back, belly, then heart and private part.",
               "जंघा · ऊरु · पाद · त्रिक · पृष्ठ · कोष्ठ."),
         match(2, "Match each word of verse 11 to its meaning.",
               [["जंघा", "shank"], ["त्रिक", "lumbosacral region"], ["कोष्ठ", "belly"],
@@ -743,7 +743,7 @@ AIDS = {
         "diagram": {"groups": [{"label": "पल से मापे", "items": ["बला", "गुडूची", "त्रिफला", "रास्ना", "द्विपंचमूल"]},
                                {"label": "और", "items": ["अष्टौ फलानि", "अर्द्धतुला छाग-मांस"]},
                                {"label": "विधि", "items": ["अप्सु पचेत्", "चतुर्थशेषम्"]}]},
-        "chunks": "बळां गुडूचीं त्रिफलां सरास्नां | द्विपंचमूलं च पलोन्मितानि ‖ अष्टौ फलान्यर्द्धतुलां च मांसात् | छागात्पचेदप्सु चतुर्थशेषं।",
+        "chunks": "बळां गुडूचीं त्रिफलां सरास्नां | द्विपंचमूलं च पलोन्मितानि ‖ अष्टौ फलान्यर्द्धतुलां च | मांसाच्छागात्पचेदप्सु चतुर्थशेषं।",
         "sandhi": "इ + भिन्न स्वर → य्: फलानि + अर्द्ध → फलान्यर्द्ध; त् + छ → च्छ: मांसात् + छागात् → मांसाच्छागात्; त् + स्वर → द्: पचेत् + अप्सु → पचेदप्सु।",
         "anchors": "पल, तुला = तौल के माप · अर्द्ध = आधा · छाग = बकरा · अप्सु = जल में · चतुर्थशेष = चौथाई बचे।",
     },
@@ -753,7 +753,7 @@ AIDS = {
                                {"label": "कैसा", "items": ["सुखोष्ण", "लवणान्वित"]}]},
         "chunks": "पूते | यवानीफलबिल्वकुष्ठवचाशताव्हाघनपिप्पलीनां ‖ कल्कैर्मृद्वीकाक्षौद्रघृतैः | सतैलैर्युक्तः | सुखोष्णो लवणान्वितश्च।",
         "sandhi": "अ + उ → ओ: सुख + उष्णः → सुखोष्णः; अ + अ → आ: लवण + अन्वितः → लवणान्वितः; ऐः + घोष → ऐर्: कल्कैः + मृद्वीका → कल्कैर्मृद्वीका।",
-        "frame": "कब: छान लेने पर (पूते) · क्या मिले: सात द्रव्यों के कल्क, मुनक्का, शहद, घी, तेल · कैसी: सुहाती गरम, नमक-युक्त।",
+        "frame": "कब: छान लेने पर (पूते) · क्या मिले: यवानीफल से पिप्पली तक के कल्क, मुनक्का, शहद, घी, तेल · कैसी: सुहाती गरम, नमक-युक्त।",
     },
     "4": {
         "diagram": {"groups": [{"label": "यह बस्ति", "items": ["सर्वगदप्रमाथी", "स्वस्थे हित", "जीवन", "बृंहण"]},
@@ -824,19 +824,21 @@ IMAGE_SPECS = {
                 "and half a tula of goat meat, are cooked in water until a quarter remains"),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["बला · गुडूची · त्रिफला"] --> D["जल में पकाए"]\n'
-                 '  B["रास्ना · द्विपंचमूल<br/>(पल से मापे)"] --> D\n'
-                 '  C["आठ फल<br/>आधा तुला बकरे का मांस"] --> D\n'
+                 '  A["बला · गुडूची · त्रिफला"] --> P["पल से मापे"]\n'
+                 '  B["रास्ना · द्विपंचमूल"] --> P\n'
+                 '  P --> D["जल में पकाए"]\n'
+                 '  C["आठ फल"] --> D\n'
+                 '  M["आधा तुला बकरे का मांस"] --> D\n'
                  '  D --> E["चौथाई शेष रहे"]\n'),
     },
     ("3", "diagram"): {
         "file": "ka4-kalka-3.svg",
-        "alt": ("Two columns for verse 3: seven paste drugs (yavani-phala, bilva, kushtha, vacha, shatahva, ghana, pippali) and "
-                "the additions (grape, honey, ghee, oil, pleasantly warm, with salt)"),
+        "alt": ("Two columns for verse 3: the paste drugs (yavani-phala, bilva, kushtha, vacha, shatahva, ghana, pippali) and "
+                "the additions and state (grape, honey, ghee, oil, pleasantly warm, with salt)"),
         "type": "split",
         "title": "श्लोक ३: छानने के बाद",
-        "cols": [["कल्क के द्रव्य (७)", ["यवानीफल", "बिल्व", "कुष्ठ", "वचा", "शताह्वा", "घन", "पिप्पली"]],
-                 ["साथ में", ["मृद्वीका", "क्षौद्र (शहद)", "घृत", "तैल", "सुखोष्ण", "लवण"]]],
+        "cols": [["कल्क के द्रव्य", ["यवानीफल", "बिल्व", "कुष्ठ", "वचा", "शताह्वा", "घन", "पिप्पली"]],
+                 ["साथ में · कैसा", ["मृद्वीका", "क्षौद्र (शहद)", "घृत", "तैल", "सुखोष्ण", "लवण"]]],
     },
     ("4", "diagram"): {
         "file": "ka4-guna-4.svg",
@@ -861,7 +863,7 @@ IMAGE_SPECS = {
                 "rock salt; effects: kindling, flesh and strength, strength of the eyes at once"),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["श्लोक ६ का तैयार रस"] --> B["कल्क:<br/>प्रियंगु · कृष्णा · घन"]\n'
+                 '  A["श्लोक ६ का तैयार रस"] --> B["कल्क: प्रियंगु कृष्णा घन"]\n'
                  '  B --> C["तेल · घी · शहद · सैन्धव"]\n'
                  '  C --> D["दीपन"]\n'
                  '  C --> E["मांस और बल"]\n'
@@ -872,7 +874,7 @@ IMAGE_SPECS = {
         "alt": ("Two columns for verse 8: with a measure, eranda root three palas and palasha a pala-portion; without a measure, "
                 "the small five roots, rasna, bala, chinnaruha, ashvagandha, punarnava, aragvadha and devadaru"),
         "type": "split",
-        "title": "श्लोक ८: एरण्डमूल का निरूह",
+        "title": "श्लोक ८: एरण्डमूल की बस्ति",
         "cols": [["मात्रा के साथ", ["एरण्डमूल: तीन पल", "पलाश: पल का अंश"]],
                  ["मात्रा नहीं दी", ["लघुपंचमूल", "रास्ना", "बला", "छिन्नरुहा", "अश्वगन्धा", "पुनर्नवा", "आरग्वध", "देवदारु"]]],
     },
@@ -890,7 +892,7 @@ IMAGE_SPECS = {
                 "the basti with makshika, oil and urine; a scraping and kindling basti that overcomes the troubles of verse 11"),
         "type": "mermaid",
         "code": ('flowchart TD\n'
-                 '  A["श्लोक ९ के कल्क-द्रव्य<br/>भली-भाँति पीसे"] --> B["तार्क्ष्यशैल के साथ<br/>अक्ष के माप का"]\n'
+                 '  A["श्लोक ९ के कल्क पीसे"] --> B["तार्क्ष्यशैल, अक्ष-माप"]\n'
                  '  B --> C["नमक का अंश"]\n'
                  '  C --> D["माक्षिक · तेल · मूत्र"]\n'
                  '  D --> E["लेखन और दीपन बस्ति"]\n'
