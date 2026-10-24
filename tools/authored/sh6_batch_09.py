@@ -28,9 +28,10 @@ AUTHORED["104"] = {
             "By the essence and the waste the srotas of the dhātus are filled.",
             "ताभ्यां च सारमलाभ्यां ... स्रोतांसि ... आपूर्यंते."),
         order(1, "Put these parts of unit 104 in the line's order.",
-              ["ताभ्यां च सारमलाभ्यां", "तदात्मकानामेव", "शारीरगुणानां", "यथास्वं स्रोतांसि", "पारंपर्येण", "आपूर्यंते"],
-              "By those two, of the same nature, of the bodily qualities, each its own, the srotas, in succession, are filled.",
-              "ताभ्यां च सारमलाभ्यां → तदात्मकानामेव → शारीरगुणानां → यथास्वं स्रोतांसि → पारंपर्येण → आपूर्यंते."),
+              ["ताभ्यां च सारमलाभ्यां", "तदात्मकानामेव", "शारीरगुणानां", "यथास्वं", "स्रोतांसि",
+               "पारंपर्येणाव्यवच्छिन्नसंतानमापूर्यंते"],
+              "By those two, of the same nature, of the bodily qualities, each its own, the srotas are filled in succession, unbroken.",
+              "ताभ्यां च सारमलाभ्यां → तदात्मकानामेव → शारीरगुणानां → यथास्वं → स्रोतांसि → पारंपर्येणाव्यवच्छिन्नसंतानमापूर्यंते."),
         match(2, "Match each word of unit 104 to its meaning.",
               [["सार", "essence"], ["मल", "waste"], ["पारम्पर्येण", "in succession"], ["अव्यवच्छिन्न", "unbroken"],
                ["आपूर्यन्ते", "are filled"]],
@@ -141,7 +142,7 @@ AUTHORED["106"] = {
         mcq("pretest", 0, "By unit 106, what is denied (न ... भवति) for the earlier srotas?",
             ("Wasting away", "नापचयो भवति: there is no wasting (apacaya)."),
             [("Being nourished", "They are nourished (आप्यायमानानाम्); that is affirmed."),
-             ("Being transformed", "परिणामवत्: with transformation; that is affirmed."),
+             ("Being transformed", "Only wasting (अपचय) is denied: नापचयो भवति. Nothing else is denied."),
              ("Receiving food", "They are kept up by the proper use of food; that is affirmed.")],
             "There is no wasting of the earlier srotas.",
             "पूर्वेषां स्रोतसां ... नापचयो भवति."),
@@ -308,12 +309,12 @@ AUTHORED["109"] = {
              "the waste is Kapha and lasīkā (probably lymph or tissue fluid)."),
     "limits": ("Two printed lines, prose; the copula is understood. Lasīkā as lymph or tissue fluid is probable, not certain: "
                "no question on its identity. Printed कफ़ो is कफः (print habit)."),
-    "explain_hi": ("पहली पंक्ति अन्न का किट्ट (अपशिष्ट) बताती है: स्वच्छ (अच्छ) मूत्र और घना (घन) शकृत् यानी मल। "
+    "explain_hi": ("पहली पंक्ति अन्न का किट्ट (अपशिष्ट) बताती है: स्वच्छ (अच्छ) मूत्र और घना (घन) शकृत् यानी विष्ठा। "
                    "दूसरी पंक्ति से धातुओं के सार और मल की सूची आरम्भ होती है: रस का सार रक्त है, और मल कफ तथा लसीका। "
                    "लसीका का अर्थ लसिका या ऊतक-द्रव सम्भावित है, निश्चित नहीं। "
                    "दोनों पंक्तियों में ‘है’ क्रिया समझी जाती है। "
                    "छपा ‘कफ़ो’ = कफः, छपाई की आदत।"),
-    "hook": "अन्न का कचरा: मूत्र और मल; रस का सार रक्त, मल कफ।",
+    "hook": "अन्न का कचरा: मूत्र और विष्ठा; रस का सार रक्त, मल कफ।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 109, what is the essence (सार) of rasa?",
@@ -405,7 +406,7 @@ AUTHORED["110"] = {
               [1, 3],
               "Of blood: essence flesh, waste Pitta.",
               "रक्तस्य सारो मांसं ... मलः पित्तं."),
-        mcq("transfer", 5, "By the pattern of रक्त → रक्तस्य (of blood), how does वृक्ष (tree) say of the tree in a new example?",
+        mcq("transfer", 5, "By the pattern of रक्त → रक्तस्य (of blood), which form of वृक्ष (tree) means of the tree in a new example?",
             ("वृक्षस्य", "An अ-stem takes -स्य in the genitive singular, as रक्त → रक्तस्य."),
             [("वृक्षाय", "वृक्षाय is the dative: for the tree."),
              ("वृक्षेण", "वृक्षेण is the instrumental: by the tree."),
@@ -434,7 +435,7 @@ AUTHORED["111"] = {
     "questions": [
         mcq("pretest", 0, "By unit 111, which is an essence of flesh?",
             ("Fat (medas)", "मांसस्य सारो मेदः: fat is an essence of flesh."),
-            [("Bone (asthi)", "Bone is an essence of fat (unit 112)."),
+            [("Bone (asthi)", "Bone is not named in unit 111; it first comes in unit 112."),
              ("Blood (rakta)", "Blood is the essence of rasa (unit 109)."),
              ("Marrow (majjā)", "Marrow is the essence of bone (unit 112).")],
             "Of flesh the essence is fat, the skins and vasā.",
@@ -489,7 +490,7 @@ AUTHORED["112"] = {
                    "दूसरी पंक्ति: अस्थि का सार मज्जा (हड्डी के भीतर का गूदा), और किट्ट केश, रोम (शरीर के बाल) और नख। "
                    "छपे ‘मज्जाकिट्टं’ में दो शब्द जुड़े छपे हैं; अर्थ (सार, फिर मल) के अनुसार इन्हें अलग पढ़ा गया। "
                    "सन्धि: सारः + अस्थि → सारोऽस्थि (अः + अ → ओ, अ का लोप ऽ से)।"),
-    "hook": "मेद से हड्डी, मल पसीना; हड्डी से मज्जा, मल बाल और नख।",
+    "hook": "मेद का किट्ट पसीना; हड्डी का सार मज्जा, मल बाल और नख।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 112, what is the waste (किट्ट) of fat (medas)?",
@@ -518,7 +519,7 @@ AUTHORED["112"] = {
             "अः + अ → ओ + ऽ."),
         mcq("apply", 4, "By unit 112, whose essence is marrow (majjā)?",
             ("Of bone (asthi)", "अस्थ्नः सारो मज्जा: the essence of bone is marrow."),
-            [("Of fat (medas)", "The essence of fat is bone, snāyu and joints."),
+            [("Of fat (medas)", "Marrow is named after अस्थ्नः (of bone), not after मेदसः (of fat)."),
              ("Of flesh (māṃsa)", "The essence of flesh is fat (unit 111)."),
              ("Of blood (rakta)", "The essence of blood is flesh (unit 110).")],
             "Of bone the essence is marrow.",
@@ -553,7 +554,7 @@ AUTHORED["113"] = {
         mcq("pretest", 0, "By unit 113, what is the essence of marrow?",
             ("Śukra (semen)", "मज्ज्ञस्तु सारः शुक्रम्: the essence of marrow is śukra."),
             [("Ojas (vital essence)", "Ojas is the essence of śukra (unit 114)."),
-             ("Bone (asthi)", "Bone is an essence of fat (unit 112)."),
+             ("Bone (asthi)", "Bone is not named in unit 113; marrow is the essence of bone (unit 112)."),
              ("Fat (medas)", "Fat is an essence of flesh (unit 111).")],
             "Of marrow the essence is śukra.",
             "मज्ज्ञस्तु सारः शुक्रं."),
@@ -595,12 +596,12 @@ AUTHORED["114"] = {
     "title": "शुक्रस्य सारमोजः",
     "question": "By unit 114, what is the essence of śukra?",
     "rule": ("Of śukra (semen) the essence (सारम्) is ojas (ओजः, vital essence): the last link of the chain of essences "
-             "that runs from rasa through units 109-113."),
-    "limits": ("Prose; the copula is understood. सारम् is neuter here (masculine सारः in the neighbouring units); it may be "
-               "nominative, or accusative with a verb understood: no question on its case. No waste of śukra is named here."),
+             "named dhātu by dhātu in units 109-113."),
+    "limits": ("Prose; the copula is understood. सारम् (सारः in the neighbouring units) is read as neuter nominative; it may "
+               "be an accusative with a verb understood: no question on its case or gender. No waste of śukra is named here."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति कहती है: शुक्र का सार ओजस् (जीवन-सार) है। "
-                   "इकाई १०९ से चली सारों की कड़ी यहाँ ओजस् पर पहुँचती है: रस → रक्त → मांस → मेद → अस्थि → मज्जा → शुक्र → ओजस्। "
-                   "यहाँ ‘सारम्’ नपुंसकलिंग है, जबकि पास की इकाइयों में ‘सारः’ पुंलिंग; सार दोनों लिंगों में चलता है। "
+                   "इकाई १०९ से चली सारों की कड़ी यहाँ ओजस् पर पहुँचती है: रस → रक्त → मांस → मेद → अस्थि (इकाई ११२ के पाठ के अनुसार) → मज्जा → शुक्र → ओजस्। "
+                   "यहाँ ‘सारम्’ है, पास की इकाइयों में ‘सारः’; इसे नपुंसक प्रथमा पढ़ा गया, पर समझी गई क्रिया के साथ द्वितीया भी सम्भव है। "
                    "सन्धि: सारम् + ओजः → सारमोजः (स्वर से पहले म् रहता है)।"),
     "hook": "कड़ी का अन्त: शुक्र का सार ओज।",
     "core": True,
@@ -616,11 +617,11 @@ AUTHORED["114"] = {
               [["शुक्रस्य", "of śukra"], ["सारम्", "essence"], ["ओजः", "ojas, vital essence"]],
               "Of śukra the essence is ojas.",
               "शुक्रस्य, सारम्, ओजः."),
-        order(2, "Put these in the order of the chain of essences, units 110-114 (each is the essence of the one before).",
+        order(2, "Put these in the order in which units 110-114 first name them.",
               ["मांस", "मेदस्", "अस्थि", "मज्जा", "शुक्र", "ओजस्"],
-              "Flesh → fat → bone → marrow → śukra → ojas.",
+              "Flesh (110), fat (111), bone (112, as read: the essence of fat may instead be the joints), marrow (112), śukra (113), ojas (114).",
               "मांस → मेदस् → अस्थि → मज्जा → शुक्र → ओजस्.", role="extend",
-              teaches="Each dhātu's essence is the next in the chain: flesh, fat, bone, marrow, śukra, and last ojas."),
+              teaches="Units 110-114 go dhātu by dhātu: each line opens with a dhātu in the genitive, then its essence and waste."),
         mcq("discriminate", 3, "In unit 114, what is the relation of ojas to śukra?",
             ("Ojas is the essence of śukra", "शुक्रस्य सारम् ओजः: ojas is the essence of śukra."),
             [("Śukra is the essence of ojas", "The other way round: शुक्रस्य is the genitive."),
@@ -631,10 +632,10 @@ AUTHORED["114"] = {
         multi("apply", 4, "Which statements fit unit 114?",
               [("Unit 114 names a waste of śukra", "No waste is named in unit 114."),
                ("Unit 114 has a printed verb", "No verb is printed; the copula is understood."),
-               ("सारम् here is neuter, though सारः is masculine nearby", "Right: data note; sāra takes both genders."),
+               ("शुक्रस्य is a genitive, 'of śukra'", "Right: the genitive -स्य names whose essence ojas is."),
                ("ओजः is the essence named in this unit", "Right: शुक्रस्य सारमोजः.")],
               [2, 3],
-              "Of śukra the essence is ojas; सारम् is neuter; no verb, no waste named.",
+              "Of śukra (genitive) the essence is ojas; no verb and no waste are printed.",
               "शुक्रस्य सारमोजः."),
         mcq("transfer", 5, "By the rule of सारम् + ओजः → सारमोजः, how is फलम् + अस्ति joined in a new example?",
             ("फलमस्ति", "A final म् before a vowel stays and joins it, as सारम् + ओजः → सारमोजः."),
@@ -742,8 +743,8 @@ NOTES_HI = {
             "बीच में कोई सन्धि नहीं। सन्धि जाँची: सारः + अस्थि → सारोऽस्थि (अः + अ → ओ, ऽ); अस्थ्नः = अस्थि का षष्ठी एकवचन।"),
     "113": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.०६.१२६); कोई पाठ-चिह्न नहीं। मज्ज्ञः = मज्जन् का षष्ठी एकवचन। दोनों मलों के बीच "
             "‘च’ नहीं छपा। सन्धि जाँची: मज्ज्ञः + तु → मज्ज्ञस्तु (त से पहले विसर्ग → स्); मलः + अक्षिविट् → मलोऽक्षिविट् (अः + अ → ओ, ऽ)।"),
-    "114": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०६.१२७); कोई पाठ-चिह्न नहीं। ‘सारम्’ यहाँ नपुंसक, पास की इकाइयों में ‘सारः’; "
-            "प्रथमा या (समझी गई क्रिया के साथ) द्वितीया, अर्थ एक; इस पर कोई प्रश्न नहीं। सन्धि जाँची: सारम् + ओजः → सारमोजः।"),
+    "114": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०६.१२७); कोई पाठ-चिह्न नहीं। ‘सारम्’ यहाँ, पास की इकाइयों में ‘सारः’; "
+            "नपुंसक प्रथमा पढ़ा गया, या (समझी गई क्रिया के साथ) द्वितीया, जिसमें पुंलिंग भी सम्भव; अर्थ एक; कारक या लिंग पर कोई प्रश्न नहीं। सन्धि जाँची: सारम् + ओजः → सारमोजः।"),
     "115": ("गद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.०६.१२८, ०२.०६.१२९)। छपाई में शब्द जुड़े: ‘चास्मिन्मलाभावः’ = च अस्मिन् "
             "मलाभावः, ‘अन्येपुनरतएव’ = अन्ये पुनर् अत एव (अन्ये और पुनर् के बीच कोई सन्धि नहीं)। ‘अस्मिन्’, ‘तस्य’ किसी संज्ञा से "
             "जुड़े नहीं; डेटा इन्हें इकाई ११४ का शुक्र/ओजस् पढ़ता है; इस पर कोई प्रश्न नहीं। सन्धि जाँची: च + अस्मिन् → चास्मिन्; "
@@ -819,7 +820,7 @@ AIDS = {
         "frame": "किसका: मज्ज्ञः (मज्जा का) → सार: शुक्रम् → मल: अक्षिविट्, त्वचाओं का स्नेह।",
     },
     "114": {
-        "chain": {"steps": ["रस", "रक्त (इकाई १०९)", "मांस (इकाई ११०)", "मेद (इकाई १११)", "अस्थि (इकाई ११२)",
+        "chain": {"steps": ["रस", "रक्त (इकाई १०९)", "मांस (इकाई ११०)", "मेद (इकाई १११)", "अस्थि (इकाई ११२, पढ़े अनुसार)",
                             "मज्जा (इकाई ११२)", "शुक्र (इकाई ११३)", "ओजस् (इकाई ११४)"]},
         "chunks": "शुक्रस्य | सारमोजः",
         "sandhi": "स्वर से पहले म् रहता है: सारम् + ओजः → सारमोजः।",
@@ -827,7 +828,7 @@ AIDS = {
     },
     "115": {
         "chunks": "अत्यंतशुद्धतया | चास्मिन्मलाभावः || अन्येपुनरतएव | तस्य | नेच्छंति पाकं",
-        "sandhi": "अ + इ → ए: न + इच्छन्ति → नेच्छन्ति · अ + अ → आ: च + अस्मिन् → चास्मिन्, मल + अभावः → मलाभावः · स्वर से पहले अः → अ: अतः + एव → अत एव।",
+        "sandhi": "अ + इ → ए: न + इच्छन्ति → नेच्छन्ति · अ + अ → आ: च + अस्मिन् → चास्मिन्, मल + अभावः → मलाभावः · अ के सिवा किसी स्वर से पहले अः → अ: अतः + एव → अत एव।",
         "frame": "कारण: अत्यन्त शुद्धता → फल: मल का अभाव || अन्य मत: इसी कारण (अत एव) → उसका पाक नहीं मानते।",
     },
 }
@@ -885,10 +886,10 @@ IMAGE_SPECS = {
     ("114", "chain"): {
         "file": "sh6-sara-shrinkhala-114.svg",
         "alt": ("Chain of essences, units 109-114, each the essence of the one before: rasa, blood (109), flesh (110), "
-                "fat (111), bone (112), marrow (112), śukra (113), ojas (114)."),
+                "fat (111), bone (112, as read: the essence of fat may instead be the joints), marrow (112), śukra (113), ojas (114)."),
         "type": "chain",
         "title": "इकाई १०९-११४: सारों की कड़ी (हर एक पिछले का सार)",
-        "steps": ["रस", "रक्त (इकाई १०९)", "मांस (इकाई ११०)", "मेद (इकाई १११)", "अस्थि (इकाई ११२)",
+        "steps": ["रस", "रक्त (इकाई १०९)", "मांस (इकाई ११०)", "मेद (इकाई १११)", "अस्थि (इकाई ११२, पढ़े अनुसार)",
                   "मज्जा (इकाई ११२)", "शुक्र (इकाई ११३)", "ओजस् (इकाई ११४)"],
     },
 }
