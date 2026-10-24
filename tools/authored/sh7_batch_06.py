@@ -45,7 +45,7 @@ AUTHORED["68"] = {
                ("It is a metrical verse line", "type: prose."),
                ("सोमस्तु is printed without a flag", "Right: सोमः + तु is sure."),
                ("It joins two printed lines", "The unit is a single printed line."),
-               ("वलंबत is no verb form as printed", "Right: अवलम्बते is a conjectural restoration.")],
+               ("The words after सोमस्तु are read by conjecture", "Right: the data flags them and gives low confidence.")],
               [2, 4],
               "सोमस्तु is sure; the verb is restored by conjecture.",
               "Doubtful print: ask only the sure part."),
@@ -129,13 +129,13 @@ AUTHORED["69"] = {
 AUTHORED["70"] = {
     "title": "मांसादीनां पंचानमपि",
     "question": "From what does unit 70 say the viśalyaghna (ones) come?",
-    "rule": ("Viśalyaghna (ones: those that kill when the dart is removed) through the coming together (समवायात्) of even "
-             "the five, flesh and the rest (मांसादीनाम्), greatly increased (विवृद्धानाम्)."),
+    "rule": ("Viśalyaghna (ones; usual sense: those that kill when the dart is removed) through the coming together "
+             "(समवायात्) of even the five, flesh and the rest (मांसादीनाम्), greatly increased (विवृद्धानाम्)."),
     "limits": ("No verb; the noun of विशल्यघ्नानि is unstated. The five are not named. विवृद्धानाम् may go with the five "
                "or with समवाय: no question rests on it. पंचानम् is printed for पञ्चानाम् (possible). 'Killing when the dart "
                "is removed' is the usual sense, not spelled out here."),
     "explain_hi": ("डेटा के अनुसार यह कार्ड ६९ में बताए ‘दूसरों’ का पहला कथन लगता है। "
-                   "इसमें विशल्यघ्न (वे जो शल्य निकालने पर मारते हैं) को मांस आदि पाँचों के, अत्यन्त बढ़े हुओं के, समवाय यानी मेल से जोड़ा गया है। "
+                   "इसमें विशल्यघ्न (प्रचलित अर्थ: वे जो शल्य निकालने पर मारते हैं; यह इकाई स्वयं नहीं कहती) को मांस आदि पाँचों के, अत्यन्त बढ़े हुओं के, समवाय यानी मेल से जोड़ा गया है। "
                    "पाँचों के नाम यहाँ नहीं दिए; केवल ‘मांस आदि’ कहा है। "
                    "कोई क्रिया नहीं, और ‘विशल्यघ्नानि’ नपुंसक बहुवचन किसी अनकही संज्ञा के लिए है; ‘विवृद्धानाम्’ पाँचों का विशेषण भी हो सकता है और समवाय से भी जुड़ सकता है। "
                    "‘समवायाद्विशल्य’ में घोष व्यंजन व से पहले त् द् बना है।"),
@@ -190,7 +190,8 @@ AUTHORED["71"] = {
     "title": "एकैकहीनानामल्पानां च",
     "question": "What can be read with certainty in unit 71?",
     "rule": ("With no verb: of those reduced by one each (एकैकहीन) and of the small ones (अल्प), in order (क्रमात्), the "
-             "other (ones) (इतराणि); then 'and others say' (चान्ये वदंति), with 'by nature alone' (स्वभावत एव)."),
+             "other (ones) (इतराणि); 'by nature alone' (स्वभावत एव); 'and others say' (चान्ये वदंति). Which clause "
+             "स्वभावत एव belongs to is open."),
     "limits": ("Low confidence. What is reduced is not named (perhaps the five of card 70; the unit does not say). "
                "स्वभावतः एव may go with इतराणि or with चान्ये वदन्ति: no question rests on that join or on what the 'other "
                "(ones)' are; questions ask word meanings, sandhi and order."),
@@ -199,7 +200,7 @@ AUTHORED["71"] = {
                    "फिर ‘चान्ये वदंति’: और दूसरे लोग कहते हैं; ‘स्वभावत एव’ (स्वभाव से ही) इसी कथन का भाग है या ‘इतराणि’ से जुड़ता है, यह खुला है। "
                    "सन्धियाँ साफ़ हैं: एक + एक → एकैक (अ + ए → ऐ), च + अन्ये → चान्ये (अ + अ → आ), स्वभावतः + एव → स्वभावत एव। "
                    "इसलिए प्रश्न शब्दार्थ, सन्धि और शब्द-क्रम पर हैं।"),
-    "hook": "एक-एक घटे, अल्प, क्रम से; और दूसरे: स्वभाव से।",
+    "hook": "एक-एक घटे, अल्प, क्रम से, इतर; स्वभावत एव; और दूसरे कहते हैं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In चान्ये वदंति of unit 71, what does वदन्ति mean?",
@@ -226,13 +227,13 @@ AUTHORED["71"] = {
              ("चः + अन्ये", "च has no visarga; अः + अ would give ओऽ.")],
             "च (and) + अन्ये (others).",
             "अ + अ → आ."),
-        mcq("apply", 4, "Why is स्वभावतः printed स्वभावत before एव?",
-            ("अः before a vowel other than अ → अ", "Right: the visarga after अ drops before ए."),
-            [("अः before any vowel at all → ओ", "Only before a voiced consonant (or, as ओऽ, before अ)."),
-             ("Any visarga before ए becomes र्", "र् comes after vowels other than अ/आ; here the vowel is अ."),
-             ("The print lost the visarga by damage", "The data calls it regular sandhi, not damage.")],
-            "स्वभावतः + एव → स्वभावत एव.",
-            "अः + vowel other than अ → अ."),
+        mcq("apply", 4, "Why is क्रमात् printed क्रमाद् before इतराणि in unit 71?",
+            ("त् before a vowel becomes द्", "Right: इ is a vowel: क्रमात् + इतराणि → क्रमादितराणि."),
+            [("त् before every sound becomes द्", "Not before a voiceless consonant: before स, क, प it stays त्."),
+             ("त् before इ becomes न्", "त् becomes न् only (optionally) before a nasal; इ is a vowel."),
+             ("द् is the ending of the ablative", "The ablative ends in -आत्; the द् is a sandhi change.")],
+            "क्रमात् + इतराणि → क्रमादितराणि.",
+            "त् + vowel → द्."),
         mcq("transfer", 5, "By एक + एक → एकैक, how is तत्र + एव (there itself) joined in a new example?",
             ("तत्रैव", "अ + ए → ऐ: तत्र + एव → तत्रैव."),
             [("तत्रेव", "अ + ए gives ऐ, not ए."),
@@ -266,7 +267,7 @@ AUTHORED["72"] = {
         mcq("pretest", 0, "By unit 72, what follows by nature when the hands and feet are cut off?",
             ("No death", "स्वभावत एव न मृत्युः: by nature itself, no death."),
             [("Death at once", "The unit says न मृत्युः: no death."),
-             ("Death after an interval", "The unit says no death, at no time."),
+             ("Death after an interval", "The unit says न मृत्युः: no death."),
              ("Death from loss of blood", "The unit says no death; no cause of death is given.")],
             "छिन्नेषु … पाणिपादेषु स्वभावत एव न मृत्युः.",
             "न मृत्युः = no death."),
@@ -357,14 +358,14 @@ AUTHORED["73"] = {
               [1, 3],
               "They (others) say (आहुः) a reason (हेतुम्).",
               "अपरे … हेतुम् आहुः."),
-        mcq("transfer", 5, "By पुनः + अत्र → पुनरत्र, how is हरिः + अत्र (Hari here) joined in a new example?",
-            ("हरिरत्र", "After इ, visarga before a vowel → र्: हरिः + अत्र → हरिरत्र."),
-            [("हरित्र", "The visarga and the अ cannot both vanish."),
-             ("हरियत्र", "The visarga does not become य्."),
-             ("हरिस्त्र", "स् comes before त, not before a vowel.")],
-            "हरिः + अत्र = हरिरत्र, like पुनः + अत्र = पुनरत्र.",
-            "इः / उः + vowel → इर् / उर्.",
-            teaches="After a vowel other than अ/आ, a visarga before a vowel becomes र्: हरिः + अत्र → हरिरत्र; पुनः (पुनर्) + अत्र → पुनरत्र."),
+        mcq("transfer", 5, "By पुनः (पुनर्) + अत्र → पुनरत्र, how is अन्तः (अन्तर्) + अत्र (inside here) joined in a new example?",
+            ("अन्तरत्र", "अन्तः has an original र्, which shows before a vowel: अन्तरत्र."),
+            [("अन्तोऽत्र", "ओऽ comes from a visarga that stands for स्; अन्तः stands for अन्तर्."),
+             ("अन्तत्र", "The र् and the अ cannot both vanish."),
+             ("अन्तस्त्र", "स् comes before त, not before a vowel.")],
+            "अन्तः + अत्र = अन्तरत्र, like पुनः + अत्र = पुनरत्र.",
+            "Original र् + vowel → र्.",
+            teaches="Words with an original र् (पुनर्, अन्तर्, प्रातर्) show र् before a vowel even after अ: पुनः + अत्र → पुनरत्र, अन्तः + अत्र → अन्तरत्र."),
     ],
 }
 
@@ -402,7 +403,7 @@ AUTHORED["74"] = {
                ["व्यध", "piercing"], ["वैकृत", "abnormality"]],
               "Contraction, slight flowing out of blood: life; piercing, abnormality of vāyu: death.",
               "सङ्कोच, अल्प, प्रस्रुति, व्यध, वैकृत.", role="extend",
-              teaches="अल्प (little) ⇄ अति (excessive): the amount of blood flowing decides life or death in unit 74."),
+              teaches="अल्प (little) ⇄ अति (excessive): in unit 74 slight flow of blood goes with life; excessive flow, with abnormal vāyu, with death."),
         mcq("discriminate", 3, "Which rendering of the second half of unit 74 is right?",
             ("On piercing a marma, death from excess flow of blood and abnormal vāyu",
              "Right: अतिरक्तस्रुति = excess flow of blood; वायुवैकृत = abnormality of vāyu; मरणम् = death."),
@@ -531,11 +532,11 @@ AUTHORED["76"] = {
             "पूर्वं पूर्वं = each preceding one.",
             "Repeated word = each."),
         multi("apply", 4, "Which statements fit unit 76 by the data?",
-              [("It names the preceding and the latter items", "What they are is not stated in unit 76."),
+              [("अति means 'lightly'", "अति means very much."),
                ("No verb is printed or supplied", "Right: the unit is verbless."),
                ("It is a metrical verse line", "type: prose."),
                ("Its confidence is high", "The data gives low confidence."),
-               ("ईषदंते is left unclear", "Right: it may be ईषत् + अन्ते or a damaged form.")],
+               ("यथास्वम् means 'each according to its own'", "Right: यथा + स्वम्.")],
               [1, 4],
               "Verbless, obscure; ईषदंते unclear; the items are not named.",
               "Obscure prose: ask only the sure words."),
@@ -562,7 +563,7 @@ AUTHORED["77"] = {
     "explain_hi": ("यह छोटी गद्य-पंक्ति एक और पाँच-प्रकार के विभाजन की घोषणा है: ‘और फिर पाँच प्रकार से विभाजित किया जाता है’। "
                    "कर्ता छपा नहीं; डेटा के अनुसार अध्याय का विषय, यानी मर्म। "
                    "‘भिद्यते’ कर्मवाच्य (√भिद्) है, और ‘पञ्चधा’ में -धा प्रत्यय ‘प्रकार से’ बताता है। "
-                   "डेटा के अनुसार आगे कार्ड ७८ से ८२ में यह विभाजन माप के अनुसार दिया गया है; कार्ड ५९ भी इन्हीं शब्दों ‘पुनश्च पंचधा’ से दूसरा विभाजन खोलता है। "
+                   "डेटा के अनुसार आगे कार्ड ७८ से ८२ में यह विभाजन माप के अनुसार दिया गया लगता है; कार्ड ५९ भी इन्हीं शब्दों ‘पुनश्च पंचधा’ से दूसरा विभाजन खोलता है। "
                    "सन्धि: पुनः + च → पुनश्च (च से पहले विसर्ग → श्)।"),
     "hook": "पुनश्च पंचधा: फिर पाँच भाग।",
     "core": False,
@@ -629,9 +630,9 @@ AUTHORED["78"] = {
             "तद्यथा = namely.",
             "तद्यथा opens a list."),
         match(1, "Match each word to its meaning (तत् and यथा are joined in unit 78).",
-              [["तत्", "that"], ["यथा", "as"], ["तथा", "likewise, so"], ["इव", "like"]],
-              "तत् = that; यथा = as; तथा = likewise; इव = like.",
-              "तत्, यथा, तथा, इव."),
+              [["तत्", "that"], ["यथा", "as"], ["तथा", "likewise, so"], ["च", "and"]],
+              "तत् = that; यथा = as; तथा = likewise; च = and.",
+              "तत्, यथा, तथा, च."),
         fill(2, "In unit 78 the second word of the formula, meaning 'as', is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("यथा", "yathā", "yatha"),
              "तद्यथा = तत् + यथा; यथा = as.",
@@ -867,7 +868,7 @@ NOTES_HI = {
            "(कार्ड ७०-७१) को आगे बढ़ाती दिखती है। सन्धि जाँची: उपलानाम् + इव → उपलानामिव; इव + अम्बु → इवाम्बु (अ + अ → आ); बहुमर्मसु + "
            "अपि → बहुमर्मस्वपि (उ + अ → व)।"),
     "73": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। समूह-टिप्पणी (डेटा): छपी पंक्ति ७८, यानी कार्ड ७४ के कारण का परिचय। सन्धि "
-           "जाँची: पुनः (पुनर्) + अत्र → पुनरत्र (उ के बाद विसर्ग + स्वर → र्); अत्र + अपि → अत्रापि (अ + अ → आ); हेतुम् + आहुः → "
+           "जाँची: पुनः (मूल रूप पुनर्) + अत्र → पुनरत्र (मूल र् स्वर से पहले बना रहता है); अत्र + अपि → अत्रापि (अ + अ → आ); हेतुम् + आहुः → "
            "हेतुमाहुः।"),
     "74": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भव): (१) छपा ‘अल्पास्रक्’: समास अल्प-असृक्-प्रस्रुति, ऋ का र बनना छपाई की भूल लगती "
            "है; (२) छपा ‘अतिरक्तस्रुतिंतो’: -तस् वाला पञ्चमी रूप अतिरक्तस्रुतितः, अनुस्वार भटका चिह्न लगता है। अर्थ केवल ‘रक्त के बहने से’ "
@@ -931,7 +932,7 @@ AIDS = {
     },
     "72": {
         "diagram": {"groups": [
-            {"label": "उदाहरण: प्रतिनियत कर्म", "items": ["चन्द्र, सूर्य पत्थर (पहचान सम्भावित)", "अयस्कान्त: चुम्बक पत्थर",
+            {"label": "उदाहरण: प्रतिनियत कर्म", "items": ["चन्द्र, सूर्य पत्थर (पहचान सम्भावित)", "अयस्कंत (= अयस्कान्त): चुम्बक पत्थर (मानक)",
                                                        "जल, अग्नि, लोहे से मेल"]},
             {"label": "तथा च: शरीर में", "items": ["बहुत मर्मों वाले हाथ-पैर", "कट जाने पर भी", "स्वभाव से ही मृत्यु नहीं"]}]},
         "chunks": ("प्रतिनियतकर्माणि | चंद्रसूर्यायस्कंतोपलानामिवांबुवन्हिलोहसंश्लेषाः | तथा च | छिन्नेषु बहुमर्मस्वपि पाणिपादेषु | "
@@ -940,7 +941,7 @@ AIDS = {
     },
     "73": {
         "chunks": "अपरे | पुनरत्रापि | हेतुमाहुः",
-        "sandhi": ("उ के बाद विसर्ग (पुनर् का र्) + स्वर → र्: पुनः + अत्र → पुनरत्र · अ + अ → आ: अत्र + अपि → अत्रापि · "
+        "sandhi": ("पुनः का मूल र् (पुनर्) स्वर से पहले बना रहता है: पुनः + अत्र → पुनरत्र · अ + अ → आ: अत्र + अपि → अत्रापि · "
                    "म् + स्वर: हेतुम् + आहुः → हेतुमाहुः।"),
     },
     "74": {
@@ -985,8 +986,7 @@ AIDS = {
             {"label": "चत्वारि: तीन अंगुल के", "items": ["जानुनी: दो घुटने", "कूर्परे: दो कोहनी"]}]},
         "chunks": "गुल्फौ | मणिबंधौ | स्तनमूले | चषट् द्व्यंगुलानि || जानुनी | कूर्परे च | चत्वारि त्र्यंगुलानि",
         "sandhi": "इ + अ → य: द्वि + अङ्गुल → द्व्यङ्गुल, त्रि + अङ्गुल → त्र्यङ्गुल।",
-        "pegs": ("नीचे से ऊपर: टखना और कलाई (छोटे जोड़) दो अंगुल; घुटना और कोहनी (बड़े जोड़) तीन अंगुल। (मेरा बनाया चित्र; "
-                 "पाठ यह कारण नहीं बताता)"),
+        "pegs": "छोटे जोड़ टखना, कलाई, और साथ में स्तनमूल: दो अंगुल; बड़े जोड़ घुटना, कोहनी: तीन अंगुल। (मेरी याद-पद्धति; पाठ यह कारण नहीं बताता)",
     },
     "81": {
         "diagram": {"groups": [
@@ -1006,7 +1006,7 @@ IMAGE_SPECS = {
         "alt": ("Chain of unit 70 in printed order: of flesh and the rest; of even the five; greatly increased; from "
                 "their coming together; viśalyaghna (ones)."),
         "type": "chain",
-        "title": "इकाई ७०: दूसरों का मत",
+        "title": "इकाई ७०: सम्भवतः दूसरों का मत",
         "steps": ["मांसादि: मांस आदि", "पञ्च: पाँचों के भी", "विवृद्ध: अत्यन्त बढ़े हुए", "समवाय: मेल से", "विशल्यघ्न"],
     },
     ("72", "diagram"): {
@@ -1017,9 +1017,11 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"प्रत्येक का नियत कर्म\"] --> B[\"उदाहरण: तीन पत्थर\"]\n"
-                 "  B --> C[\"चन्द्र, सूर्य, अयस्कान्त\"]\n"
+                 "  B --> C[\"चन्द्र, सूर्य पत्थर (पहचान सम्भावित)\"]\n"
+                 "  B --> G[\"अयस्कंत: चुम्बक पत्थर\"]\n"
                  "  C --> D[\"जल, अग्नि, लोहे से मेल\"]\n"
-                 "  A --> E[\"वैसे ही: हाथ-पैर कटे\"]\n"
+                 "  G --> D\n"
+                 "  A --> E[\"वैसे ही: बहुत मर्मों वाले हाथ-पैर कटे\"]\n"
                  "  E --> F[\"स्वभाव से मृत्यु नहीं\"]\n"),
     },
     ("74", "seesaw"): {
