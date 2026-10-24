@@ -9,9 +9,9 @@ AUTHORED["52"] = {
     "question": "By unit 52, what is the fifth kalā, and what does it do with the mala?",
     "rule": ("Fifth kalā: Purīṣadharā ('faeces-bearing'). It separates (विभजति) the mala (waste, faeces) that lies in the "
              "unduka (probably the caecum), within the koṣṭha (storehouse)."),
-    "limits": ("Prose. The printed मा is read सा (she) on a possible correction. 'Resting on the intestine and on the āma and "
-               "pakva seats' and 'within the koṣṭha, in the unduka' are uncertain readings, and unduka = caecum is probable "
-               "only: no question on them. The line names nothing it separates beyond the mala."),
+    "limits": ("Prose. Printed मा is read सा (she) on a possible correction. 'Resting on the intestine and the āma and "
+               "pakva seats' and 'within the koṣṭha, in the unduka' are uncertain readings; unduka = caecum is probable: "
+               "no question on these."),
     "explain_hi": ("सात कलाओं में पाँचवीं कला पुरीषधरा, यानी पुरीष (मल) धारण करने वाली, है। "
                    "यह कोष्ठ के भीतर उण्डुक (सम्भवतः अन्धान्त्र) में स्थित मल को अलग करती है (विभजति)। "
                    "‘अन्त्रामपक्वाशयाश्रिता’ को ‘अन्त्र और आम-पक्व आशयों पर टिकी’ पढ़ा गया है, पर यह पाठ पक्का नहीं। "
@@ -855,12 +855,12 @@ IMAGE_SPECS = {
     },
     ("54", "diagram"): {
         "file": "sh5-grahani-54.svg",
-        "alt": ("Flowchart of unit 54: taking up food gives the name grahaṇī; its strength is Pitta; Pitta is named agni; "
-                "supported by agni; it keeps the body going."),
+        "alt": ("Two flowcharts of unit 54. First: taking up food, hence the name grahaṇī. Second: its strength is Pitta; "
+                "Pitta is named agni; supported by agni; it keeps the body going."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"अन्न का ग्रहण\"] --> B[\"नाम: ग्रहणी\"]\n"
-                 "  B --> C[\"उसका बल: पित्त ही\"]\n"
+                 "  A[\"अन्न का ग्रहण\"] --> B[\"इसलिए नाम: ग्रहणी\"]\n"
+                 "  C[\"उसका बल: पित्त ही\"]\n"
                  "  C --> D[\"पित्त का नाम: अग्नि\"]\n"
                  "  D --> E[\"अग्नि से सहारा\"]\n"
                  "  E --> F[\"शरीर को चलाती है\"]\n"),
@@ -912,8 +912,9 @@ IMAGE_SPECS = {
                 "the pakvāśaya."),
         "type": "mermaid",
         "code": ("flowchart LR\n"
-                 "  A[\"पित्त का आशय\"] --- B[\"गर्भाशय: आठवाँ\"]\n"
-                 "  B --- C[\"पक्वाशय\"]\n"
-                 "  D[\"स्त्रियों में\"] -.- B\n"),
+                 "  subgraph S[\"स्त्रियों में\"]\n"
+                 "    A[\"पित्त का आशय\"] --- B[\"मध्य में: गर्भाशय, आठवाँ\"]\n"
+                 "    B --- C[\"पक्वाशय\"]\n"
+                 "  end\n"),
     },
 }
