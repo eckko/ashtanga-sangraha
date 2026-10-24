@@ -272,7 +272,7 @@ AUTHORED["69"] = {
             ("A visarga before च becomes श्", "शनैः + च → शनैश्च."),
             [("A visarga before च becomes र्", "र् comes before voiced sounds; च is not voiced."),
              ("The word itself ends in श्", "The word is शनैः, with a visarga."),
-             ("A visarga before any consonant is श्", "Before त it is स्, before voiced sounds र् here.")],
+             ("A visarga before any consonant is श्", "Before त it becomes स्; after ऐ before a voiced sound, र्.")],
             "शनैः + च = शनैश्च: visarga → श् before च, छ, श.",
             "Visarga + च → श्च."),
         mcq("apply", 4, "By the word यथोक्तम् in unit 69, how is she to act?",
@@ -310,7 +310,7 @@ AUTHORED["70"] = {
     "questions": [
         mcq("pretest", 0, "By unit 70, when is she to bear down more strongly (बाढतरम्)?",
             ("On reaching the yoni's mouth", "योनिमुखप्रतिपत्तौ बाढतरम्: on arrival at the mouth of the yoni."),
-            [("Before the pains of labour begin", "No bearing down before the pain: unit 70 names no such stage."),
+            [("Before the pains of labour begin", "Unit 70 names no stage before the pains."),
              ("At the very first, gentle stage", "बाढतरम् is the last stage here, not the first."),
              ("After the placenta has come out", "The stage lasts until delivery, not after it.")],
             "Strongly at the exit, more strongly at the mouth of the yoni, until delivery.",
@@ -823,7 +823,7 @@ AIDS = {
     },
     "67": {
         "chain": {"steps": ["असमय प्रवाहण", "मल-मूत्र आदि वेगों के उदीरण जैसा", "निरर्थक और अहितकर",
-                            "१ श्वास", "२ कास", "३ शोष (सम्भावित: सूखकर घटना)", "४ कुब्जता", "आदि"]},
+                            "१ श्वास", "२ कास", "३ शोष (सम्भावित: सूखकर घटना)", "४ कुब्जता आदि"]},
         "chunks": "अकालप्रवाहणं हि | विण्मूत्रादिवेगानामिवोदीरणम् | अनर्थकरमहितं च गर्भस्य | श्वासकासशोषकुब्जतादिकारित्वात्",
         "sandhi": "अ + उ → ओ: इव + उदीरणम् → इवोदीरणम् · म् + स्वर: उदीरणम् + अनर्थकरम् → उदीरणमनर्थकरम् · ट् → ण् म से पहले: विट् + मूत्र → विण्मूत्र।",
         "frame": "कर्ता (अकालप्रवाहणम्) → उपमा (वेगों का उदीरण इव) → विधेय (अनर्थकरम्, अहितम्) → कारण (-कारित्वात्)।",
@@ -895,7 +895,7 @@ IMAGE_SPECS = {
         "file": "sh3-akala-pravahana-67.svg",
         "alt": ("Flowchart of unit 67: bearing down at the wrong time is like forcing out the urges of feces and urine; "
                 "it is useless and unwholesome; it causes, numbered, 1 breathlessness, 2 cough, 3 wasting (probable), "
-                "4 hunchedness, and so on."),
+                "4 hunchedness and so on."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"असमय प्रवाहण\"] --> B[\"मल-मूत्र वेग उदीरण जैसा\"]\n"
@@ -903,8 +903,7 @@ IMAGE_SPECS = {
                  "  C --> D[\"१ श्वास\"]\n"
                  "  C --> E[\"२ कास\"]\n"
                  "  C --> F[\"३ शोष (सम्भावित)\"]\n"
-                 "  C --> G[\"४ कुब्जता\"]\n"
-                 "  C --> H[\"आदि\"]\n"),
+                 "  C --> G[\"४ कुब्जता आदि\"]\n"),
     },
     ("68", "chain"): {
         "file": "sh3-apravahana-68.svg",
