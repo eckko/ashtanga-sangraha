@@ -9,8 +9,8 @@ AUTHORED["52"] = {
     "question": "What does unit 52 say about the view that a grain-filled mortar should be struck with a pestle?",
     "rule": ("तत् तु न सम्यक्: that, however, is not right. तत् points back to the view of others reported in unit 51 "
              "(striking a grain-filled mortar with a pestle); the copula is understood."),
-    "limits": ("Prose, three words; the verb is understood. The printed long ū in तत्तू is taken as तत् तु (a possible "
-               "print slip): no question rests on it. The reason is not in this unit; unit 53 gives a reason with हि (for)."),
+    "limits": ("Prose, three words; the verb is understood. The printed long ū in तत्तू is read as तत् तु (a possible "
+               "print slip; the data's split follows it); no question asks about the printed vowel. The reason is not in this unit; unit 53 gives a reason with हि (for)."),
     "explain_hi": ("यह छोटी गद्य-पंक्ति इकाई 51 के दूसरों के मत (अनाज से भरी ओखली पर मूसल से प्रहार) को अस्वीकार करती है: "
                    "वह तो ठीक नहीं है। ‘तत्’ उसी मत की ओर संकेत करता है, और ‘तु’ (तो, परन्तु) विरोध दिखाता है। "
                    "क्रिया ‘है’ लिखी नहीं गई, समझी जाती है। "
@@ -19,7 +19,7 @@ AUTHORED["52"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 52, what is said of the view that a grain-filled mortar should be struck with a pestle?",
-            ("It is not right (न सम्यक्)", "तत् तु न सम्यक्: that, however, is not right."),
+            ("It is not right", "तत् तु न सम्यक्: that, however, is not right."),
             [("It is the best method", "The line rejects the view; it does not praise it."),
              ("It is right only in the ninth month", "No month is named in unit 52."),
              ("It is to be done by the husband", "No person is named in unit 52.")],
@@ -94,8 +94,8 @@ AUTHORED["53"] = {
             [("Present active: prescribes", "The active would be उपदिशति."),
              ("Optative: should prescribe", "An optative ends in -एत्, as उपदिशेत्."),
              ("Future: will prescribe", "A future would have -स्य-, as उपदेक्ष्यति.")],
-            "उपदिश्यते = is prescribed: the -यते marks the present passive.",
-            "-यते (with the root) = present passive."),
+            "उपदिश्यते = is prescribed: the data labels it 3 sg. present passive (root दिश् + -य- + middle ending).",
+            "-य- + middle ending on the root (दिश्यते) = present passive here; but 4th-class verbs such as जायते, मन्यते also end in -यते."),
         multi("apply", 4, "Which statements fit unit 53?",
               [("It names one particular exercise to avoid", "No particular exercise is named, only severe exertion."),
                ("The prescription is called constant (सततम्)", "Right: सततम् उपदिश्यते, constantly prescribed."),
@@ -132,7 +132,7 @@ AUTHORED["54"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 54, what might the stirred-up wind (vāyu) injure?",
-            ("The vital breaths (प्राणान्)", "प्राणान् हिंस्यात्: it might injure the vital breaths."),
+            ("The vital breaths", "प्राणान् हिंस्यात्: it might injure the vital breaths."),
             [("The bones of the fetus", "No bones are named in unit 54."),
              ("The mother's eyes", "No eyes are named in unit 54."),
              ("The attendant's hands", "No attendant is named in unit 54.")],
@@ -190,7 +190,7 @@ AUTHORED["55"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 55, with what does the skilled woman press the two buttocks?",
-            ("With the two feet (पादाभ्याम्)", "स्फिजौ पादाभ्यां पीडयेत्: she should press the buttocks with the feet."),
+            ("With the two feet", "स्फिजौ पादाभ्यां पीडयेत्: she should press the buttocks with the feet."),
             [("With both hands", "Hands are not named; the line says पादाभ्याम्, with the feet."),
              ("With a pestle", "The pestle belongs to the rejected view of unit 51."),
              ("With a cloth soaked in oil", "No cloth or oil is named in unit 55.")],
@@ -288,7 +288,7 @@ AUTHORED["56"] = {
              ("धारयन्", "धारयन् is a present participle, holding.")],
             "धारय- + -एत् = धारयेत्, should hold, like प्रसारयेत्.",
             "Causative stem in -अय + -एत् = should (optative).",
-            teaches="The optative third singular ends in -एत् (should ...): प्रसारयेत्, पीडयेत्, धारयेत्."),
+            teaches="The optative third singular of अ-stem and causative verbs ends in -एत् (should ...): प्रसारयेत्, पीडयेत्, धारयेत्; other verbs take -यात् (ब्रूयात्, हिंस्यात्)."),
     ],
 }
 
@@ -308,7 +308,7 @@ AUTHORED["57"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 57, how is the woman in labour told to bear down?",
-            ("Gently, gently (शनैः शनैः)", "शनैः शनैः प्रवाहयस्व: bear down gently, gently."),
+            ("Gently, gently", "शनैः शनैः प्रवाहयस्व: bear down gently, gently."),
             [("With all her force at once", "The line says शनैः शनैः, gently."),
              ("While holding her breath", "No breath-holding is named in unit 57."),
              ("Only when the physician arrives", "No physician is named in unit 57.")],
@@ -332,7 +332,7 @@ AUTHORED["57"] = {
             "प्रवाहयस्व is the second-person imperative: the woman is told to bear down.",
             "प्रवाहयस्व = bear down (2 sg. imperative)."),
         mcq("apply", 4, "In unit 57, who speaks these words to the woman in labour?",
-            ("The attendant, as ब्रूयात् shows", "The data note: the speaker (the attendant) addresses the woman in labour."),
+            ("The attendant (data note)", "ब्रूयात् names no speaker; the data note: the speaker (the attendant) addresses the woman in labour."),
             [("The woman in labour herself", "She is the one addressed (सुभगे), not the speaker."),
              ("Her husband", "No husband is named in unit 57."),
              ("A priest reciting a mantra", "The mantra comes in unit 58, from another woman.")],
@@ -365,7 +365,7 @@ AUTHORED["58"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 58, into which ear is the mantra muttered?",
-            ("Her left ear (वामकर्णे)", "वामकर्णेऽस्याः: in her left ear."),
+            ("Her left ear", "वामकर्णेऽस्याः: in her left ear."),
             [("Her right ear", "The line says वाम, left."),
              ("Both her ears in turn", "Only one ear is named: the left."),
              ("The attendant's own ear", "अस्याः = her, the woman in labour.")],
@@ -388,7 +388,7 @@ AUTHORED["58"] = {
             "तेजः + वायुः = तेजो वायुः: visarga after अ before a voiced sound → ओ.",
             "अः + voiced consonant → ओ."),
         mcq("apply", 4, "In unit 58, who mutters the mantra?",
-            ("Another woman (अन्या)", "अन्या is feminine: another woman, the noun not stated."),
+            ("Another woman", "अन्या is feminine: another woman, the noun not stated."),
             [("The woman in labour herself", "The mantra goes into her ear (अस्याः), so she hears it."),
              ("A male priest", "अन्या is feminine; no priest is named."),
              ("Her husband", "No husband is named in unit 58.")],
@@ -421,7 +421,7 @@ AUTHORED["59"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 59, what is the woman told to do in the second line?",
-            ("Give birth (प्रसूष्व)", "प्रसूष्व त्वम्: give birth, you."),
+            ("Give birth", "प्रसूष्व त्वम्: give birth, you."),
             [("Rest and wait", "No resting is named in unit 59."),
              ("Keep a fast", "No fast is named in unit 59."),
              ("Keep silent", "No silence is named in unit 59.")],
@@ -473,13 +473,13 @@ AUTHORED["60"] = {
                "printed; the card adds nothing about him."),
     "explain_hi": ("कार्तिकेय की कान्ति वाले, कार्तिकेय से रक्षित पुत्र को (जन्म दो)। "
                    "यहाँ क्रिया नहीं; डेटा इकाई 59 की ‘प्रसूष्व’ को आगे लेता है। "
-                   "दो समास: ‘कार्तिकेयद्युति’ बहुव्रीहि है (जिसकी कान्ति कार्तिकेय जैसी), ‘कार्तिकेयाभिरक्षित’ तत्पुरुष (कार्तिकेय से रक्षित)। "
+                   "दो समास: ‘कार्तिकेयद्युति’ बहुव्रीहि है (जिसकी कान्ति कार्तिकेय की है), ‘कार्तिकेयाभिरक्षित’ तत्पुरुष (कार्तिकेय से रक्षित)। "
                    "अन्त का ‘इति’ मन्त्र को समाप्त करता है।"),
     "hook": "कार्तिकेय-सी द्युति, कार्तिकेय की रक्षा: ऐसा पुत्र।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 60, whose splendour is the son wished to have?",
-            ("Kārtikeya's (कार्तिकेयद्युतिम्)", "कार्तिकेयद्युतिं पुत्रम्: a son with the splendour of Kārtikeya."),
+            ("Kārtikeya's", "कार्तिकेयद्युतिं पुत्रम्: a son with the splendour of Kārtikeya."),
             [("Indra's", "Indra is not named in unit 60."),
              ("The sun's", "The sun is not named in unit 60."),
              ("His father's", "No father is named in unit 60.")],
@@ -524,8 +524,8 @@ AUTHORED["60"] = {
 AUTHORED["61"] = {
     "title": "तथा",
     "question": "What does the one-word unit 61 say?",
-    "rule": ("तथा: likewise. A single indeclinable, printed on its own line, linking what has gone before with what "
-             "follows; it is the counterpart of यथा (as) in the pair यथा ... तथा (as ... so)."),
+    "rule": ("तथा: likewise. A single indeclinable on its own printed line; the data takes it as the link before a "
+             "second mantra. (In general Sanskrit, तथा also answers यथा: as ... so.)"),
     "limits": ("Prose, one word, no verb. The data takes it as the link before a second mantra; the unit itself says no more."),
     "explain_hi": ("एक शब्द की गद्य-पंक्ति: ‘तथा’, यानी वैसे ही। यह अव्यय है। "
                    "डेटा के अनुसार यह आगे आने वाले दूसरे मन्त्र से पहले जोड़ने वाला शब्द है। "
@@ -581,7 +581,7 @@ AUTHORED["61"] = {
 # ---------------------------------------------------------------- unit 62
 AUTHORED["62"] = {
     "title": "इहामृतं चसोमश्च",
-    "question": "By unit 62, what does the second mantra wish to dwell in the woman's house?",
+    "question": "By unit 62, what does the second mantra wish to dwell in the house?",
     "rule": ("Here: nectar (अमृत), Soma, Citrabhānu, O lady (भामिनि), and Uccaiḥśravas, the horse (तुरगः): may they dwell "
              "(निवसन्तु, plural) in the house (मन्दिरे)."),
     "limits": ("Citrabhānu is an epithet (of fire or the sun); which one is not stated: no question on it. ते may be your or "
@@ -594,7 +594,7 @@ AUTHORED["62"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 62, where are they asked to dwell?",
-            ("In the house (मन्दिरे)", "मन्दिरे निवसन्तु: may they dwell in the house."),
+            ("In the house", "मन्दिरे निवसन्तु: may they dwell in the house."),
             [("In the forest", "No forest is named in unit 62."),
              ("In the sky", "No sky is named in unit 62."),
              ("In the sea", "No sea is named in unit 62.")],
@@ -618,7 +618,7 @@ AUTHORED["62"] = {
             "उच्चैःश्रवाः (the horse's name) + च (and).",
             "Visarga + च → श्च."),
         mcq("apply", 4, "In unit 62, what is Uccaiḥśravas called?",
-            ("A horse (तुरगः)", "उच्चैःश्रवाश्च तुरगः: Uccaiḥśravas, the horse."),
+            ("A horse", "उच्चैःश्रवाश्च तुरगः: Uccaiḥśravas, the horse."),
             [("A river", "No river is named in unit 62."),
              ("A bird", "The line says तुरगः, horse."),
              ("A sage", "The line says तुरगः, horse.")],
@@ -650,7 +650,7 @@ AUTHORED["63"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 63, from what was the nectar (amṛta) drawn up?",
-            ("From the waters (अपाम्)", "अमृतम् अपां समुद्धृतम्: nectar drawn up from the waters."),
+            ("From the waters", "अमृतम् अपां समुद्धृतम्: nectar drawn up from the waters."),
             [("From the sky", "No sky is named in unit 63."),
              ("From milk", "No milk is named in unit 63."),
              ("From the moon", "No moon is named in unit 63.")],
@@ -698,24 +698,24 @@ AUTHORED["64"] = {
     "rule": ("May they, with the bearers of salt water (लवणाम्बुधरैः सह), grant peace (दिशन्तु शान्तिम्). On a corrected "
              "reading they are fire, wind, sun and Indra. इति closes the mantra."),
     "limits": ("Medium confidence: the list of names rests on reading अनल्पवन as अनलपवन: no question on the list. ते may be "
-               "to you or they; whether the salt-water bearers are oceans or clouds is not clear: no question on them."),
+               "to you or they; whether the salt-water bearers are oceans or clouds is not clear: no question asks what they are."),
     "explain_hi": ("अनुमानित पाठ पर: इसलिए अग्नि, वायु, सूर्य और इन्द्र, लवण-जल धारण करने वालों के साथ, तुम्हें शान्ति दें। "
-                   "छपा ‘अनल्पवन’ कोई शब्द नहीं; ‘अनल-पवन’ (अग्नि, वायु) पढ़ने पर ही यह सूची बनती है, इसलिए सूची पर प्रश्न नहीं। "
+                   "छपा ‘अनल्पवन’ यहाँ अर्थ नहीं देता (‘अनल्प’ = बहुत, पर ‘अनल्प-वन’ सूची में नहीं बैठता); ‘अनल-पवन’ (अग्नि, वायु) पढ़ने पर ही यह सूची बनती है, इसलिए सूची पर प्रश्न नहीं। "
                    "‘लवणाम्बुधर’ शब्दशः लवण-जल धारण करने वाले हैं; समुद्र या मेघ, स्पष्ट नहीं। "
                    "‘दिशन्तु’ बहुवचन आज्ञार्थ है: दें; अन्त का ‘इति’ मन्त्र समाप्त करता है।"),
     "hook": "लवणाम्बुधरों के साथ: दिशन्तु शान्तिम्, शान्ति दें।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 64, what are they asked to grant?",
-            ("Peace (शान्तिम्)", "दिशन्तु शान्तिम्: may they grant peace."),
+            ("Peace", "दिशन्तु शान्तिम्: may they grant peace."),
             [("A son", "A son is named in unit 60, not here."),
              ("Long life", "No long life is named in unit 64."),
              ("Wealth", "No wealth is named in unit 64.")],
             "The mantra ends with a wish for peace.",
             "दिशन्तु शान्तिम् = may they grant peace."),
-        order(1, "Put the printed parts of unit 64 in the line's order.",
+        order(1, "Put these parts of unit 64 in the line's order.",
               ["तदनल्पवनार्कवासवास्ते", "सह", "लवणांबुधरैः", "दिशंतु", "शांतिमिति"],
-              "(Therefore fire, wind, sun, Indra) ..., together with, the bearers of salt water, may they grant, peace: thus.",
+              "(Read as: therefore fire, wind, sun, Indra; corrected reading) ..., together with, the bearers of salt water, may they grant, peace: thus.",
               "तदनल्पवनार्कवासवास्ते → सह → लवणांबुधरैः → दिशंतु → शांतिमिति."),
         match(2, "Match each word of unit 64 to its meaning.",
               [["सह", "together with"], ["दिशन्तु", "may they grant"], ["शान्तिम्", "peace"],
@@ -739,7 +739,7 @@ AUTHORED["64"] = {
             "दिशन्तु = may they grant (plural)."),
         mcq("transfer", 5, "By the rule of लवणाम्बुधरैर्दिशन्तु, how is देवैः + दत्तम् (given by the gods) joined?",
             ("देवैर्दत्तम्", "A visarga after ऐ becomes र् before a voiced sound."),
-            [("देवै दत्तम्", "The visarga drops before a voiced sound only after अ/आ."),
+            [("देवै दत्तम्", "After ऐ the visarga becomes र् before a voiced sound; it is dropped only after आ (after अ it gives ओ)."),
              ("देवैस्दत्तम्", "स् comes only before त or थ."),
              ("देवैश्दत्तम्", "श् comes only before च, छ or श.")],
             "देवैः + दत्तम् = देवैर्दत्तम्, like लवणाम्बुधरैः + दिशन्तु.",
@@ -773,7 +773,7 @@ NOTES_HI = {
            "सन्धि जाँची: ब्रूयात् + च → ब्रूयाच्च (त् + च → च्च)।"),
     "58": ("गद्य (दो छपी पंक्तियाँ जोड़ी गईं); विश्वास उच्च; कोई पाठ-चिह्न नहीं। [02.03.61] ‘अन्या’ स्त्रीलिंग: दूसरी स्त्री। "
            "[02.03.62] वर्गीकरण: नामों की सूची में क्रिया नहीं; डेटा के अनुसार यह इकाई 59 में आगे चलती है, जहाँ की एकवचन क्रियाएँ "
-           "(पातु, दधातु) सम्भवतः इन्हीं की हैं, यद्यपि नाम सात हैं। दूसरी छपी पंक्ति अनुष्टुभ् की अर्धाली जैसी लगती है। "
+           "(पातु, दधातु) सम्भवतः इन्हीं की हैं, यद्यपि नाम सात हैं। दूसरी छपी पंक्ति (8+8 अक्षर) अनुष्टुभ् की अर्धाली जैसी लगती है (लेखक का अवलोकन; डेटा में नहीं)। "
            "सन्धि जाँची: वामकर्णे + अस्याः → वामकर्णेऽस्याः (ए + अ → एऽ); अस्याः + मन्त्रम् → अस्या मन्त्रम्; मन्त्रम् + इमम् → मन्त्रमिमम्; "
            "क्षितिः + जलम् → क्षितिर्जलम्; तेजः + वायुः → तेजो वायुः; वायुः + विष्णुः → वायुर्विष्णुः।"),
     "59": ("श्लोक (अनुष्टुभ्); विश्वास मध्यम; कोई पाठ-चिह्न नहीं। [02.03.63] वर्गीकरण: पिछली पंक्ति के नामों से जुड़ता लगता है; "
@@ -790,10 +790,10 @@ NOTES_HI = {
            "[02.03.68] ‘ते’ = तुम्हारे (या तुम्हारे लिए)। मन्दिर = घर, निवास। छपा ‘चसोमश्च’ = च सोमः च, ‘निवसंतुते’ = निवसन्तु ते। "
            "सन्धि जाँची: इह + अमृतम् → इहामृतम्; सोमः + च → सोमश्च; चित्रभानुः + च → चित्रभानुश्च; उच्चैःश्रवाः + च → उच्चैःश्रवाश्च; "
            "तुरगः + मन्दिरे → तुरगो मन्दिरे (अः → ओ घोष से पहले)।"),
-    "63": ("गद्य (डेटा का प्रकार); विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘स्त्रि’ स्त्री का नियमित सम्बोधन। ‘लघु’ = शीघ्र "
+    "63": ("छन्दोबद्ध पंक्ति (अनुष्टुभ् नहीं, पुष्पिताग्रा-जैसी); डेटा में गद्य-इकाई के रूप में रखी; विश्वास उच्च; कोई पाठ-चिह्न नहीं। ‘स्त्रि’ स्त्री का नियमित सम्बोधन। ‘लघु’ = शीघ्र "
            "(या हल्के से, आसानी से) — दो तरह; इस पर प्रश्न नहीं। "
            "सन्धि जाँची: इदम् + अमृतम् + अपाम् → इदममृतमपाम्; गर्भम् + इमम् → गर्भमिमम्; छपा ‘प्रमुंचतु’ = प्रमुञ्चतु।"),
-    "64": ("गद्य (डेटा का प्रकार); विश्वास मध्यम। पाठ-चिह्न: छपा ‘अनल्पवन’ कोई शब्द नहीं; ‘अनलपवन’ (अग्नि, वायु) पढ़ने पर "
+    "64": ("छन्दोबद्ध पंक्ति (अनुष्टुभ् नहीं, पुष्पिताग्रा-जैसी); डेटा में गद्य-इकाई के रूप में रखी; विश्वास मध्यम। पाठ-चिह्न: छपा ‘अनल्पवन’ यहाँ अर्थ नहीं देता; ‘अनलपवन’ (अग्नि, वायु) पढ़ने पर "
            "अर्क (सूर्य) और वासव (इन्द्र) के साथ सूची बनती है — सूची इसी सुधार पर टिकी है, इस पर प्रश्न नहीं। "
            "‘ते’ = तुम्हें (या ‘वे’); ‘लवणाम्बुधर’ = लवण-जल धारण करने वाले, समुद्र या मेघ स्पष्ट नहीं; ‘अर्क’ यहाँ सूर्य (पौधे का नाम भी); "
            "‘तत्’ = इसलिए (या ‘वह’)। सन्धि जाँची: वासवाः + ते → वासवास्ते (विसर्ग → स् त से पहले); "
@@ -839,17 +839,17 @@ AIDS = {
         "chunks": "ब्रूयाच्च | सुभगे | शनैः शनैः प्रवाहयस्व | सुप्रसन्नेते (?) मुखवर्णः | पुत्रं जनयिष्यतीति (?)",
         "frame": "कौन बोले (परिचारिका: ब्रूयात्) → किससे (सुभगे: प्रसव करती स्त्री) → क्या (शनैः शनैः प्रवाहयस्व) → ढाढ़स (मुख-वर्ण, पुत्र)।",
         "sandhi": "त् + च → च्च: ब्रूयात् + च → ब्रूयाच्च।",
-        "puns": "‘शनैः शनैः’ — दो बार ‘धीरे’, दो क़दम धीमे। (केवल सुनने की सहायता)",
+        "puns": "‘शनैः शनैः’ — दो बार ‘धीरे’, दो क़दम धीमे। (मेरी याद-पद्धति)",
     },
     "58": {
         "chain": {"steps": ["१ क्षिति (पृथ्वी)", "२ जल", "३ वियत् (आकाश)", "४ तेज (अग्नि)", "५ वायु", "६ विष्णु", "७ प्रजापति"]},
         "chunks": "अन्या तु | वामकर्णेऽस्या | मंत्रमिमं जपेत् | क्षितिर्जलं | वियत्तेजो | वायुर्विष्णुः | प्रजापतिः",
-        "sandhi": "इ के बाद विसर्ग → र्: क्षितिः + जलम् → क्षितिर्जलम्, उ के बाद: वायुः + विष्णुः → वायुर्विष्णुः · अः → ओ: तेजः + वायुः → तेजो वायुः · ए + अ → एऽ: वामकर्णे + अस्याः → वामकर्णेऽस्याः।",
+        "sandhi": "इ/उ के बाद विसर्ग → र् घोष वर्ण से पहले: क्षितिः + जलम् → क्षितिर्जलम्, वायुः + विष्णुः → वायुर्विष्णुः · अः → ओ घोष वर्ण से पहले: तेजः + वायुः → तेजो वायुः · ए + अ → एऽ: वामकर्णे + अस्याः → वामकर्णेऽस्याः।",
         "letters": "क्षि-ज-वि-ते-वा-वि-प्र: सात नामों के पहले अक्षर, मन्त्र के क्रम में।",
     },
     "59": {
         "diagram": {"groups": [
-            {"label": "पहली पंक्ति: कामना", "items": ["सगर्भां त्वां सदा पातु: गर्भ सहित सदा रक्षा करे",
+            {"label": "पहली पंक्ति: कामना", "items": ["सगर्भां त्वां सदा पातु: गर्भ सहित तुम्हारी सदा रक्षा करे",
                                                     "वैशल्यं वा दधात्वपि: या शल्य से मुक्ति भी दे"]},
             {"label": "दूसरी पंक्ति: आदेश", "items": ["प्रसूष्व त्वम्: तुम जन्म दो", "अविक्लिष्टा: स्वयं अपीड़ित",
                                                    "शुभानने: हे सुन्दर मुख वाली"]}]},
@@ -857,7 +857,7 @@ AIDS = {
         "sandhi": "उ + अ → व: दधातु + अपि → दधात्वपि · अ + आ → आ: शुभ + आनने → शुभानने।",
     },
     "60": {
-        "contrast": "कार्तिकेयद्युति (बहुव्रीहि: जिसकी द्युति कार्तिकेय-सी) ↔ कार्तिकेयाभिरक्षित (तत्पुरुष: कार्तिकेय से रक्षित) — एक ही नाम, दो तरह के समास।",
+        "contrast": "कार्तिकेयद्युति (बहुव्रीहि: जिसकी द्युति कार्तिकेय की है) ↔ कार्तिकेयाभिरक्षित (तत्पुरुष: कार्तिकेय से रक्षित) — एक ही नाम, दो तरह के समास।",
         "chunks": "कार्तिकेयद्युतिं | पुत्रं | कार्तिकेयाभिरक्षितमिति",
         "sandhi": "अ + अ → आ: कार्तिकेय + अभिरक्षितम् → कार्तिकेयाभिरक्षितम् · म् + स्वर: अभिरक्षितम् + इति → अभिरक्षितमिति।",
     },
@@ -871,7 +871,7 @@ AIDS = {
             {"label": "निवास करें (क्रम से)", "items": ["अमृत", "सोम", "चित्रभानु (अग्नि या सूर्य: अनिश्चित)", "उच्चैःश्रवा, घोड़ा"]},
             {"label": "कहाँ", "items": ["मन्दिरे: घर में"]}]},
         "chunks": "इहामृतं | चसोमश्च | चित्रभानुश्च | भामिनि | उच्चैःश्रवाश्च | तुरगो | मंदिरे | निवसंतुते",
-        "sandhi": "विसर्ग + च → श्च: सोमः + च → सोमश्च, उच्चैःश्रवाः + च → उच्चैःश्रवाश्च · अ + अ → आ: इह + अमृतम् → इहामृतम् · अः → ओ: तुरगः + मन्दिरे → तुरगो मन्दिरे।",
+        "sandhi": "विसर्ग + च → श्च: सोमः + च → सोमश्च, उच्चैःश्रवाः + च → उच्चैःश्रवाश्च · अ + अ → आ: इह + अमृतम् → इहामृतम् · अः → ओ घोष वर्ण से पहले: तुरगः + मन्दिरे → तुरगो मन्दिरे।",
     },
     "63": {
         "chunks": "इदममृतमपां | समुद्धृतं वै | तव लघु | गर्भमिमं | प्रमुंचतु स्त्रि",
@@ -891,13 +891,13 @@ IMAGE_SPECS = {
     ("53", "chain"): {
         "file": "sh3-musala-khandana-53.svg",
         "alt": ("Flowchart of units 51 to 53: others' view, striking a grain-filled mortar with a pestle (unit 51); "
-                "that is not right (unit 52); for (hi) avoidance of severe exertion is constantly prescribed for a "
+                "that is not right (unit 52); for (hi, read from context as the reason) avoidance of severe exertion is constantly prescribed for a "
                 "pregnant woman (unit 53)."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"दूसरों का मत (इकाई ५१)\"] --> B[\"ओखली पर मूसल-प्रहार\"]\n"
                  "  B --> C[\"वह ठीक नहीं (इकाई ५२)\"]\n"
-                 "  C -->|\"हि: क्योंकि\"| D[\"कठोर व्यायाम-वर्जन\"]\n"
+                 "  C -->|\"हि: क्योंकि (प्रसंग से)\"| D[\"कठोर व्यायाम-वर्जन\"]\n"
                  "  D --> E[\"गर्भिणी को सदा उपदिष्ट\"]\n"),
     },
     ("54", "chain"): {
@@ -940,7 +940,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "इकाई ५९: मन्त्र की कामना और आदेश",
         "heads": ["वाक्यांश", "अर्थ"],
-        "rows": [["सगर्भां त्वां सदा पातु", "गर्भ सहित सदा रक्षा करे"], ["वैशल्यं वा दधात्वपि", "या शल्य से मुक्ति भी दे"],
+        "rows": [["सगर्भां त्वां सदा पातु", "गर्भ सहित तुम्हारी सदा रक्षा करे"], ["वैशल्यं वा दधात्वपि", "या शल्य से मुक्ति भी दे"],
                  ["प्रसूष्व त्वम्", "तुम जन्म दो"], ["अविक्लिष्टा", "स्वयं अपीड़ित"], ["शुभानने", "हे सुन्दर मुख वाली"]],
     },
     ("62", "diagram"): {
@@ -949,7 +949,7 @@ IMAGE_SPECS = {
                 "Uccaiḥśravas the horse; may they dwell in the house."),
         "type": "table",
         "title": "इकाई ६२: घर में निवास करें",
-        "heads": ["नाम (क्रम से)", "टिप्पणी"],
+        "heads": ["पद (क्रम से)", "टिप्पणी"],
         "rows": [["अमृत", "सुधा"], ["सोम", "नाम, जैसा छपा"], ["चित्रभानु", "अग्नि या सूर्य का उपनाम: अनिश्चित"],
                  ["उच्चैःश्रवा", "घोड़ा (तुरग)"], ["मन्दिरे निवसन्तु", "घर में निवास करें"]],
     },
