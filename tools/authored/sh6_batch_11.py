@@ -519,7 +519,7 @@ AUTHORED["137"] = {
             "केचित्: a day and night; अपरे: six days.",
             "षडहात् अपरे."),
         multi("apply", 4, "Which statements fit the verse of unit 137?",
-              [("A month (मास) is printed as a period", "Right: मासात् prayāti ... is printed."),
+              [("A month (मास) is printed as a period", "Right: मासात् प्रयाति ... is printed."),
                ("The verse decides which view is right", "No view is chosen."),
                ("Food reaches śukra by the sequence of cooking", "Right: पाकक्रमात्."),
                ("The verse names three dhātus in the chain", "No dhātu besides śukra is named.")],
@@ -617,7 +617,7 @@ AUTHORED["139"] = {
             ("Kapha", "मन्दोऽस्मिन्कफपीडिते: slow when afflicted by Kapha."),
             [("Pitta", "Being overcome by Pitta makes the agni tīkṣṇa (sharp)."),
              ("Rakta", "Rakta is not named in unit 139."),
-             ("None", "The verse names Kapha for the manda agni.")],
+             ("Vāta", "Vāta is not named for the manda agni; the verse names Kapha.")],
             "Kapha-afflicted: manda.",
             "मन्दः ... कफपीडिते."),
         match(1, "Match each state of agni to its cause in unit 139.",
@@ -836,8 +836,7 @@ AIDS = {
             {"label": "मन्द अग्नि: ठीक खाए अन्न पर भी, आम के लक्षण (छपे क्रम में)",
              "items": ["१ उदरगौरव: पेट का भारीपन", "२ आध्मान: पेट फूलना", "३ विबंध: मल रुकना", "४ आटोप: गड़गड़ाहट",
                        "५ आंत्रकूजन: आँतों की आवाज़", "६ मुखशोष: मुँह सूखना", "७ पायुस्तंभ: गुदा की जकड़न", "आदि → चिरात्पचति"]}]},
-        "contrast": ("इकाई १२६-१२९ के चार अग्नि: सम: ठीक खाए को ठीक पचाती · विषम: ठीक खाए को भी कभी नहीं पचाती · "
-                     "तीक्ष्ण: ठीक न खाए को भी जल्दी पचाती · मन्द: ठीक खाए को भी आम दिखाकर देर से पचाती।"),
+        "frame": "कौन: मन्द अग्नि (इकाई १२५ का चौथा भेद) → किस पर: सम्यक् उपयुक्त अन्न पर भी → पहले: आम के लक्षण दिखाकर → फिर: चिरात् पचति (देर से पचाती)।",
         "chunks": "मंदस्तु | सम्यगप्युपयुक्तम् | उदरगौरवाध्मानविबंधाटोपांत्रकूजनमुखशोषपायुस्तंभादीन्यामलिंगानि | दर्शयित्वा | चिरात्पचति",
         "sandhi": ("स्वर से पहले क् → ग्: सम्यक् + अपि → सम्यगपि · इ + भिन्न स्वर → य्: अपि + उपयुक्तम् → अप्युपयुक्तम् · "
                    "त से पहले विसर्ग → स्: मन्दः + तु → मन्दस्तु।"),
