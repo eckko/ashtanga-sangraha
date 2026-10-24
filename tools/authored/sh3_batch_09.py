@@ -23,7 +23,7 @@ AUTHORED["103"] = {
     "questions": [
         mcq("pretest", 0, "In unit 103, what does वरणादि name?",
             ("The group beginning with varaṇa", "-आदि = beginning with: varaṇa and the drugs that go with it."),
-            [("Varaṇa alone, a single plant", "-आदि makes it a group, not one plant."),
+            [("Only varaṇa itself, as one single plant", "-आदि makes it a group, not one plant."),
              ("A decoction made of varaṇa", "No word for decoction stands in unit 103."),
              ("The five pungents (pañcakola)", "Pañcakola is named separately, with स-.")],
             "वरणादि = the group (gaṇa) beginning with varaṇa (Crateva nurvala; standard).",
@@ -84,7 +84,7 @@ AUTHORED["104"] = {
         mcq("pretest", 0, "By unit 104, what is taken with the vatsaka-group decoction?",
             ("Salt powder", "लवणचूर्णं: powder of salt."),
             [("Old jaggery", "Old jaggery is unit 108."),
-             ("Barley ash", "Yavakṣāra powder is unit 102."),
+             ("Yavakṣāra powder", "Yavakṣāra powder is unit 102."),
              ("Pepper paste", "A marica paste is unit 106.")],
             "Salt powder with a decoction of the vatsaka group.",
             "लवणचूर्ण = salt powder."),
@@ -141,7 +141,7 @@ AUTHORED["105"] = {
         mcq("pretest", 0, "By unit 105, with what is the vatsaka group taken?",
             ("With madirā", "मदिरया = with madirā, an intoxicating drink."),
             [("With ghee", "Ghee is a vehicle in unit 102, not here."),
-             ("With honey", "No honey is named in unit 105."),
+             ("With honey and water", "No honey is named in unit 105."),
              ("With milk", "No milk is named in unit 105.")],
             "वत्सकादिं वा मदिरया: the vatsaka group with madirā.",
             "मदिरया = with madirā."),
@@ -186,8 +186,8 @@ AUTHORED["106"] = {
     "rule": ("Two things are named: a decoction (कषाय) of the aṃśumatī pair (द्वय), and a paste (कल्क) of marica "
              "(black pepper) and bhadradāru (deodar; probable). The main substance and the verb are carried from unit 102."),
     "limits": ("Low confidence. With वा after कषायेन, the decoction may be a separate option or the paste's vehicle: open. "
-               "The pair's plants (probably śālaparṇī and pṛśniparṇī) are an interpretation, disputed. No question on how "
-               "the two parts relate or which plants the pair are."),
+               "The pair (probably śālaparṇī and pṛśniparṇī) is disputed. No question on how "
+               "the two parts relate; questions ask only the data's label for the pair, never which plants it is."),
     "explain_hi": ("इस गद्य-पंक्ति में दो चीज़ें हैं: अंशुमती-द्वय का कषाय (काढ़ा), और मरिच तथा भद्रदारु का कल्क। "
                    "अंशुमती-द्वय यानी सम्भवतः शालपर्णी और पृश्निपर्णी; यह पहचान व्याख्या है और विवादित है। "
                    "भद्रदारु = देवदारु (सम्भावित)। "
@@ -257,7 +257,7 @@ AUTHORED["107"] = {
         mcq("pretest", 0, "By unit 107, with what is the paste taken?",
             ("With warm water", "उष्णाम्भसा = with warm water."),
             [("With madirā", "Madirā is the vehicle of unit 105."),
-             ("With cold milk", "No milk is named in unit 107."),
+             ("With boiled cow milk", "No milk is named in unit 107."),
              ("With old ghee", "No ghee is named in unit 107.")],
             "The paste is taken with warm water.",
             "उष्ण + अम्भस् = warm water."),
@@ -292,7 +292,7 @@ AUTHORED["107"] = {
              ("वूदकेन", "ऊ comes from उ + उ, not from आ + उ.")],
             "वा + उदकेन = वोदकेन, like वा + उष्णाम्भसा = वोष्णाम्भसा.",
             "आ + उ → ओ.",
-            teaches="A or आ followed by उ or ऊ joins as ओ: वा + उष्ण → वोष्ण."),
+            teaches="अ or आ followed by उ or ऊ joins as ओ: वा + उष्ण → वोष्ण."),
     ],
 }
 
@@ -309,14 +309,14 @@ AUTHORED["108"] = {
                    "पुराना गुड़ त्रिकटु, त्रिजातक और धनिका के चूर्ण में मिलाकर खाया जाए; तीनों का एक ही चूर्ण पढ़ा गया है। "
                    "त्रिकटु = सोंठ, मरिच, पीपर (मानक); त्रिजातक = दालचीनी, इलायची, तेजपात (मानक); धनिका = सम्भवतः धनिया। "
                    "गुड़ कितना पुराना हो और मात्रा कितनी, यह नहीं कहा गया।"),
-    "hook": "पुराना गुड़ + तीन कटु + तीन सुगन्धि + धनिया: खाओ।",
+    "hook": "पुराना गुड़ + तीन कटु + तीन सुगन्धि + धनिका (सम्भवतः धनिया): खाओ।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 108, what is eaten?",
             ("Old jaggery", "पुराणगुडं: old jaggery."),
             [("Fresh jaggery", "पुराण means old, not fresh."),
              ("Salt powder", "Salt powder is unit 104."),
-             ("Barley ash", "Yavakṣāra powder is unit 102.")],
+             ("Yavakṣāra powder", "Yavakṣāra powder is unit 102.")],
             "Old jaggery, mixed with a powder, is eaten.",
             "पुराणगुड = old jaggery."),
         order(1, "Put these parts of unit 108 in the line's order.",
@@ -341,7 +341,7 @@ AUTHORED["108"] = {
               "त्रिजातक: दालचीनी, इलायची, तेजपात."),
         mcq("apply", 4, "Which verb does unit 108 itself print?",
             ("भक्षयेत्: one should eat", "The line ends with its own verb, भक्षयेत्."),
-            [("पिबेत्: one should drink", "पिबेत् is printed in unit 102, not here."),
+            [("पिबेत्: one should drink", "A drinking verb (printed पिबेत) is in unit 102, not here."),
              ("दद्यात्: one should give", "दद्यात् is not printed in unit 108."),
              ("पाययेत्: should make drink", "पाययेत् is not printed in unit 108.")],
             "Unit 108 prints भक्षयेत्, should eat: the jaggery is eaten, not drunk.",
@@ -432,7 +432,7 @@ AUTHORED["110"] = {
     "questions": [
         mcq("pretest", 0, "By unit 110, who should place the yoni back?",
             ("A skilled woman", "कुशला स्त्री निवेशयेत्: a skilled woman should place it back."),
-            [("The physician", "No physician is named in unit 110."),
+            [("The attending physician", "No physician is named in unit 110."),
              ("Her husband", "No husband is named in unit 110."),
              ("Any servant", "The line says skilled woman, not any servant.")],
             "कुशला स्त्री: a skilled woman does it.",
@@ -486,7 +486,7 @@ AUTHORED["111"] = {
                    "और देवदारु के कल्क से भली प्रकार पकाया गया है। "
                    "क्या भरना है, यह नहीं कहा; तेल केवल भरने के साथ भी जा सकता है। "
                    "‘बर्हिषोशीर’ का विभाग दूसरी तरह भी हो सकता है, इसलिए उस पर प्रश्न नहीं।"),
-    "hook": "छह द्रव्यों के कल्क से पका तेल: बार-बार स्वेदन, फिर भरना।",
+    "hook": "द्रव्यों के कल्क से पका तेल: बार-बार स्वेदन और भरना।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 111, what is cooked with the paste of the listed drugs?",
@@ -494,7 +494,7 @@ AUTHORED["111"] = {
             [("Ghee (घृत)", "No ghee is named in unit 111."),
              ("Milk (क्षीर)", "No milk is named in unit 111."),
              ("Madirā", "Madirā belongs to unit 105.")],
-            "The paste of six drugs is cooked into oil.",
+            "The paste of the listed drugs is cooked into oil.",
             "कल्कविपक्व तैल = oil cooked with a paste."),
         order(1, "Put these drugs of unit 111 in the line's order.",
               ["अशोक", "रोहिणी", "उशीर", "प्रियङ्गु", "देवदारु"],
@@ -528,7 +528,7 @@ AUTHORED["111"] = {
              ("उपविष्टाः", "उपविष्टाः is plural; नारीम् is singular.")],
             "उपविष्टाम् नारीम्, like निविष्टाम् (योनिम्): same gender, case and number.",
             "A participle agrees with its noun in gender, case and number.",
-            teaches="A past participle (-त / -इष्ट) agrees with its noun: निविष्टाम् is feminine accusative singular, like योनि."),
+            teaches="A past participle in -त agrees with its noun: नि + विश् + त → निविष्ट, and निविष्टाम् is feminine accusative singular, like योनिम्."),
     ],
 }
 
@@ -548,9 +548,9 @@ AUTHORED["112"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 112, what do the spoken words tell the one addressed?",
-            ("To go to its own place", "गच्छ ... स्वस्थानम्: go to your own place."),
+            ("To go to your own place", "गच्छ ... स्वस्थानम्: go to your own place."),
             [("To stay quite still", "No word for staying still is spoken."),
-             ("To come out quickly", "The words say go to your own place."),
+             ("To come out of the body quickly", "The words say go to your own place."),
              ("To grow strong again", "No word for strength is spoken.")],
             "The words: Go, O fortunate one, to your own place.",
             "गच्छ स्वस्थानम् = go to your own place."),
@@ -591,7 +591,7 @@ AUTHORED["112"] = {
 
 # ---------------------------------------------------------------- unit 113
 AUTHORED["113"] = {
-    "title": "तद्वच्चान्यतमा स्त्री...बालं",
+    "title": "तद्वच्चान्यतमा स्त्रीजातमात्रमेव बालं",
     "question": "By unit 113, who is to deal with the just-born child, and in what way?",
     "rule": ("In the same way (तद्वत्), any one woman (अन्यतमा स्त्री) deals with the child just born (जातमात्रं बालम्) by "
              "the procedure for the care of a child (बालोपचरणीय). The verb is damaged."),
@@ -615,7 +615,7 @@ AUTHORED["113"] = {
             "अन्यतम = one of several, not other."),
         order(1, "Put the printed words of unit 113 in their order.",
               ["तद्वच्चान्यतमा", "स्त्रीजातमात्रमेव", "बालं", "बालोपचरणीयेन", "विथिनोप्पादयेत्"],
-              "In the same way any one, woman just born only, the child, by (the procedure) for the care of a child, (damaged verb).",
+              "In the same way any one | woman, the just-born (child) only | the child | for the care of a child | (damaged verb).",
               "तद्वच्चान्यतमा → स्त्रीजातमात्रमेव → बालं → बालोपचरणीयेन → विथिनोप्पादयेत्."),
         match(2, "Match each word of unit 113 to its meaning.",
               [["तद्वत्", "in the same way"], ["अन्यतमा", "any one (of several)"],
@@ -630,13 +630,13 @@ AUTHORED["113"] = {
              ("बाले + उपचरणीयेन", "ए before उ gives अय् or अ; it gives no ओ.")],
             "बाल (child) + उपचरणीयेन (for the care): अ + उ → ओ.",
             "अ + उ → ओ."),
-        mcq("apply", 4, "Which part of unit 113 is only a conjectural reading?",
-            ("The printed verb विथिनोप्पादयेत्", "Read as विधिना उत्पादयेत् by guess; other readings are possible."),
-            [("The opening word तद्वत्", "तद्वत् is clear: in the same way."),
-             ("The word बालं, the child", "बालम् is clear: the child."),
-             ("The word अन्यतमा, any one", "अन्यतमा is clear: any one of several.")],
-            "Only the damaged verb is conjectural; the card asks nothing about it.",
-            "Uncertain readings: say so, ask nothing on them."),
+        mcq("apply", 4, "In unit 113, what case is बालं, and what is its role?",
+            ("Accusative: the child is the object", "बालम्, m. acc. sg.: the one dealt with."),
+            [("Nominative: the child is the doer", "The nominative would be बालः."),
+             ("Instrumental: together with the child", "The instrumental would be बालेन."),
+             ("Genitive: of the child", "The genitive would be बालस्य.")],
+            "बालम् = the child, object of the (damaged) verb.",
+            "अ-stem masculine accusative singular: -अम्."),
         mcq("transfer", 5, "Built like तद्वत् (like that), what does the new example पूर्ववत् mean?",
             ("As before", "पूर्व (former) + वत् (like): like the former, as before."),
             [("After that", "वत् means like, not after."),
@@ -651,7 +651,7 @@ AUTHORED["113"] = {
 # ---------------------------------------------------------------- unit 114
 AUTHORED["114"] = {
     "title": "तमुपदेक्ष्यते तूत्तरेषु",
-    "question": "What does unit 114 say about that procedure?",
+    "question": "What does unit 114 say about 'that' (तम्)?",
     "rule": "But that (तम्) will be taught (उपदेक्ष्यते, future) in the later (ones, उत्तरेषु).",
     "limits": ("Prose, medium confidence. Which later ones (probably the later sthānas, especially Uttarasthāna) is an "
                "interpretation, not stated. तम् may mean the procedure or the child; the verb can be read active or passive. "
@@ -667,7 +667,7 @@ AUTHORED["114"] = {
         mcq("pretest", 0, "By unit 114, when will that be taught?",
             ("Later, in the later ones", "उपदेक्ष्यते ... उत्तरेषु: will be taught in the later (ones)."),
             [("Here, in this same line", "The verb is future: it is not taught here."),
-             ("It was taught earlier", "The verb is future, not past."),
+             ("It was already taught earlier on", "The verb is future, not past."),
              ("It will never be taught", "The line says it will be taught.")],
             "The teaching is postponed to the later (ones).",
             "उपदेक्ष्यते = will be taught (future)."),
@@ -708,7 +708,7 @@ AUTHORED["114"] = {
 # ---------------------------------------------------------------- unit 115
 AUTHORED["115"] = {
     "title": "अथ सूतिकां बलातैलेनाभ्यज्यात्",
-    "question": "By unit 115, how is the sūtikā first cared for?",
+    "question": "By unit 115, how is the sūtikā then cared for?",
     "rule": ("Then (अथ) one should anoint the sūtikā (woman who has recently given birth) with balā oil (बलातैल; balā "
              "probably country mallow, Sida cordifolia)."),
     "limits": ("Prose, medium confidence. balā = Sida cordifolia is probable (several plants are called balā). Who anoints, "
@@ -717,7 +717,7 @@ AUTHORED["115"] = {
                    "बला = सम्भवतः बरियार (Sida cordifolia); कई पौधे ‘बला’ कहलाते हैं, इसलिए पहचान सम्भावित है। "
                    "कौन अभ्यंग करे, कितनी बार, तेल कैसे बने, यह यहाँ नहीं कहा। "
                    "सन्धि: बलातैलेन + अभ्यज्यात् → बलातैलेनाभ्यज्यात् (अ + अ → आ)।"),
-    "hook": "प्रसव के बाद पहला काम: बलातैल से अभ्यंग।",
+    "hook": "अथ: सूतिका को बलातैल से अभ्यंग।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 115, with what is the sūtikā anointed?",
@@ -795,8 +795,8 @@ NOTES_HI = {
             "सन्धि जाँची: तद्वत् + च → तद्वच्च; च + अन्यतमा → चान्यतमा; बाल + उपचरणीय → बालोपचरणीय (अ + उ → ओ)।"),
     "114": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘उत्तरेषु’ = आगे वालों में, सम्भवतः आगे के स्थान (उत्तरस्थान) — व्याख्या। ‘तम्’ विधि या बालक; "
             "कर्मवाच्य मानें तो द्वितीया ‘तम्’ असामान्य। सन्धि जाँची: तम् + उपदेक्ष्यते → तमुपदेक्ष्यते; तु + उत्तरेषु → तूत्तरेषु (उ + उ → ऊ)।"),
-    "115": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। बला = Sida cordifolia सम्भावित। छपा ‘अभ्यज्यात्’ डेटा में ऐच्छिक रूप माना गया "
-            "(√अञ्ज् का नियमित रूप अभ्यञ्ज्यात् होता) — इस पर प्रश्न नहीं। सन्धि जाँची: बलातैलेन + अभ्यज्यात् → बलातैलेनाभ्यज्यात् (अ + अ → आ)।"),
+    "115": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। बला = Sida cordifolia सम्भावित। छपा ‘अभ्यज्यात्’ डेटा में √अञ्ज् का विधिलिङ् माना गया "
+            "(नियमित रूप अभ्यञ्ज्यात् होता) — इस पर प्रश्न नहीं। सन्धि जाँची: बलातैलेन + अभ्यज्यात् → बलातैलेनाभ्यज्यात् (अ + अ → आ)।"),
 }
 
 # ===================================================================== AIDS
@@ -844,7 +844,7 @@ AIDS = {
         "frame": "चेत् (यदि) … भ्रश्येत् → फल अगली इकाई ११० में ‘ततः’ से।",
     },
     "110": {
-        "chain": {"steps": ["ततः (तब)", "किसी के भी रक्त से योनि चुपड़ना", "कुशल स्त्री", "यथास्थान बैठाना (निवेशयेत्)"]},
+        "chain": {"steps": ["ततः (तब)", "किसी के भी रक्त से योनि चुपड़ना", "कुशल स्त्री यथास्थान बैठाए (निवेशयेत्)"]},
         "chunks": "ततो | यस्य कस्यचिच्छोणितेन | अभ्यज्य योनिं | यथास्थानं | कुशला स्त्री निवेशयेत्",
         "sandhi": "अः → ओ घोष से पहले: ततः + यस्य → ततो यस्य · त् + श → च्छ: कस्यचित् + शोणितेन → कस्यचिच्छोणितेन · अ + अ → आ: शोणितेन + अभ्यज्य → शोणितेनाभ्यज्य।",
     },
@@ -896,7 +896,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "इकाई १०७: कल्क और वाहन",
         "heads": ["छपा शब्द", "अर्थ"],
-        "rows": [["भाईीं", "अस्पष्ट शब्द"], ["नागर", "सोंठ"], ["देवदारु", "देवदारु"],
+        "rows": [["भाईीं", "अस्पष्ट शब्द"], ["नागर", "सोंठ"], ["देवदारु", "देवदार (वृक्ष)"],
                  ["कल्कं", "कल्क (पीसा लेप)"], ["उष्णाम्भसा", "गरम पानी के साथ"]],
     },
     ("108", "diagram"): {
@@ -917,8 +917,7 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"ततः (तब)\"] --> B[\"किसी के भी रक्त से चुपड़ना\"]\n"
-                 "  B --> C[\"कुशल स्त्री\"]\n"
-                 "  C --> D[\"यथास्थान बैठाए\"]\n"),
+                 "  B --> C[\"कुशल स्त्री यथास्थान बैठाए\"]\n"),
     },
     ("111", "diagram"): {
         "file": "sh3-ashoka-taila-111.svg",
