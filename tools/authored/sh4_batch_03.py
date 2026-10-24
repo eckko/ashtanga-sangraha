@@ -10,8 +10,8 @@ AUTHORED["28"] = {
     "rule": ("When puṣpa (bleeding) is seen in her whose three months are not complete, the garbha generally (प्रायः) "
              "does not stay, because its sāra (essence, firmness) has not yet developed (असंजातसारत्वात्)."),
     "limits": ("प्रायः = generally, not always. The exact doctrinal sense of sāra is not given. 'Months of pregnancy' is "
-               "understood from garbha, not printed. No treatment is stated in this unit, and nothing is said here about "
-               "bleeding after three months. Prose; the data says unit 29 appears to continue this sentence."),
+               "understood from garbha, not printed. No treatment or later month is "
+               "covered here. Prose; the data says unit 29 appears to continue this sentence."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है कि जिस स्त्री के तीन मास पूरे नहीं हुए, उसमें पुष्प यानी रक्तस्राव दिखे तो गर्भ प्रायः नहीं टिकता। "
                    "कारण भी दिया गया है: उसमें सार (दृढ़ता, ठोसपन) अभी उत्पन्न नहीं हुआ होता (असंजातसारत्वात्)। "
                    "‘प्रायः’ का अर्थ है अधिकतर, हमेशा नहीं। "
@@ -602,7 +602,7 @@ AUTHORED["38"] = {
     "rule": ("The fetus having acquired its sāra (जातसारे गर्भे), through not avoiding what is to be avoided "
              "(वर्ज्यानाम् अवर्जनात्) there may be the sight of puṣpa (bleeding), or some other flow from the yoni."),
     "limits": ("The sense of पुष्पमर्हति is not firm (puṣpa is due, or who is fit for puṣpa): no question on it. puṣpa = "
-               "probably menstrual-type bleeding. The things to be avoided are not listed here. The sentence runs on "
+               "probably menstrual-type bleeding. The things to be avoided are not listed here. The sentence appears to run on "
                "(यस्याः here, तस्याः in unit 39)."),
     "explain_hi": ("यह गद्य-पंक्ति नए विषय (उपविष्टक आदि) की भूमिका है। "
                    "गर्भ जातसार हो चुका हो, यानी उसमें सार (दृढ़ता) बन गया हो, और त्याज्य बातों का त्याग न करने से (वर्ज्यानामवर्जनात्) "
@@ -662,7 +662,7 @@ AUTHORED["39"] = {
     "rule": ("For her, on that account, Vāyu (Vāta), provoked, having seized Pitta and Śleṣman (Kapha), presses upon the "
              "fetus's rasa-carrying nāḍī (probably the umbilical cord) and stays there."),
     "limits": ("nāḍī as the umbilical cord is probable, not stated by the word (nāḍī = channel, vessel). rasa = the first "
-               "dhātu, nutrient fluid. On that account points back to unit 38 (the sentence runs on; तस्याः answers यस्याः)."),
+               "dhātu, nutrient fluid. On that account appears (data) to point back to unit 38 (तस्याः answers यस्याः)."),
     "explain_hi": ("उसी कारण से (तन्निमित्तम्) कुपित वायु यानी वात, पित्त और श्लेष्मा (कफ) दोनों को पकड़कर (परिगृह्य), "
                    "गर्भ की रसवहा नाड़ी को दबाकर (प्रतिपीड्य) वहीं ठहर जाता है (अवतिष्ठते)। "
                    "रस यहाँ पहली धातु, पोषक द्रव है। "
@@ -825,8 +825,8 @@ NOTES_HI = {
            "‘यस्याः’ का उत्तर। सन्धि जाँची: तस्याः + तत् → तस्यास्तत् (विसर्ग + त → स्); तत् + निमित्तम् → तन्निमित्तम् (अनुनासिक से पहले "
            "त् → न्; वैकल्पिक, तद्निमित्तम् भी सम्भव, इसलिए प्रश्न नहीं); प्रतिपीड्य + अवतिष्ठते → प्रतिपीड्यावतिष्ठते (अ + अ → आ)।"),
     "40": ("विश्वास उच्च; कोई पाठ-चिह्न नहीं। नाड़ी = सम्भवतः गर्भनाल। उपमा (कुल्यायामिव) मूल में है। ‘उपविशति’ और ‘उपशुष्यति’ आगे के "
-           "नाम उपविष्टक, उपशुष्कक की ओर संकेत। छपा ‘अनाप्नुवञ्चुपविशति’: च + उपविशति से ‘चोपविशति’ बनना चाहिए; छपे में ‘चु’ "
-           "(डेटा में चिह्नित नहीं), इसलिए प्रश्न नहीं। सन्धि जाँची: ततः + नाड्याम् → ततो नाड्याम्; कुल्यायाम् + इव → कुल्यायामिव; "
+           "नाम उपविष्टक, उपशुष्कक की ओर संकेत। छपा ‘अनाप्नुवञ्चुपविशति’: डेटा इसे अनाप्नुवन् + च + उपविशति पढ़ता है; च हो तो "
+           "‘अनाप्नुवंश्चोपविशति’ बनता, और छपा रूप ‘अनाप्नुवन्नुपविशति’ भी हो सकता है (डेटा में चिह्नित नहीं), इसलिए प्रश्न नहीं। सन्धि जाँची: ततः + नाड्याम् → ततो नाड्याम्; कुल्यायाम् + इव → कुल्यायामिव; "
            "रसस्य + असम्यक् → रसस्यासम्यक्; असम्यक् + वहनात् → असम्यग्वहनात् (क् + घोष → ग्); वहनात् + गर्भः → वहनाद्गर्भः; "
            "गर्भः + वृद्धिम् → गर्भो वृद्धिम्; उपविशति + उपशुष्यति → उपविशत्युपशुष्यति (इ + उ → यु)।"),
 }
