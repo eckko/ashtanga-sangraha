@@ -753,22 +753,22 @@ AUTHORED["13"] = {
     "question": "Which drugs does verse 13 grind, with what, and what else is drunk?",
     "rule": ("A damaged first word, then pathyā, palāśa, citraka and śaṭhī; having ground them and "
              "kuṣṭha with urine, one should drink; and the kindling (dīpana) kṣāras."),
-    "limits": ("दारुत्रिकटुुकं is damaged and not translated; reading it as dāru + trikaṭuka is an "
-               "open owner decision, so no question uses it. Whether the ground drugs or the "
-               "kṣāras are drunk is not fully stated. Confidence low."),
+    "limits": ("दारुत्रिकटुुकं is damaged and not translated; dāru + trikaṭuka is an open owner "
+               "decision, so no question uses it. What is drunk, and whether urine goes with grinding "
+               "or drinking, is not fully stated. Confidence low."),
     "explain_hi": ("पहला शब्द छपाई में बिगड़ा है (सम्भवतः दारु + त्रिकटुक, पर यह अपनाया नहीं गया)। फिर पथ्या यानी हरड़, "
                    "पलाश यानी ढाक, चित्रक यानी चीता और शठी (पहचान विवादित)। इन्हें और कुष्ठ यानी कूठ को मूत्र के साथ "
-                   "पीसकर पिए; और दीपन क्षार भी। क्षार शब्द वैसा ही रखा गया है। प्रश्न केवल स्पष्ट शब्दों पर हैं।"),
-    "hook": "हरड़, ढाक, चीता, शठी, कूठ: मूत्र में पीसो, पियो; दीपन क्षार भी।",
+                   "पीसकर पिए (मूत्र पीसने से जुड़े या पीने से, यह दोनों तरह पढ़ा जा सकता है); और दीपन क्षार भी। क्षार शब्द वैसा ही रखा गया है। प्रश्न केवल स्पष्ट शब्दों पर हैं।"),
+    "hook": "हरड़, ढाक, चीता, शठी, कूठ: पीसकर, मूत्र के साथ, पियो; दीपन क्षार भी।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "With what does verse 13 say the drugs are ground?",
-            ("With urine (मूत्रेण)", "पिष्ट्वा ... मूत्रेण: having ground with urine."),
-            [("With honey", "Honey is not named in verse 13."),
-             ("With curd-maṇḍa", "Curd-maṇḍa belongs to verse 12."),
-             ("With hot water", "Water is not named in verse 13.")],
-            "मूत्रेण is instrumental: with urine.",
-            "मूत्र के साथ पीसकर."),
+        mcq("pretest", 0, "Which drug does line 2 of verse 13 add to those of line 1?",
+            ("Kuṣṭha (costus)", "पिष्ट्वा कुष्ठं च: and kuṣṭha, also ground."),
+            [("Pippalī (long pepper)", "Pippalī is named in verse 11, not here."),
+             ("Vacā (sweet flag)", "Vacā is named in verse 12, not here."),
+             ("Bilva (bael)", "Bilva is named in verse 8, not here.")],
+            "Line 2 adds kuṣṭha (costus, standard) to pathyā, palāśa, citraka and śaṭhī.",
+            "कुष्ठं च = और कूठ भी."),
         match(1, "Match each drug of verse 13 to its identification.",
               [["पथ्या", "chebulic myrobalan"], ["पलाश", "flame of the forest"],
                ["चित्रक", "leadwort"], ["कुष्ठ", "costus"]],
@@ -1003,7 +1003,7 @@ AIDS = {
         "chunks": "दारुत्रिकटुुकं (बिगड़ा) पथ्यां | पलाशं चित्रकं शठीम् ‖ पिष्ट्वा कुष्ठं च मूत्रेण | पिबेत्क्षारांश्च दीपनान्",
         "sandhi": "न् + च → ंश्च: क्षारान् + च → क्षारांश्च।",
         "anchors": "पथ्या = हरड़ · पलाश = ढाक · चित्रक = चीता · कुष्ठ = कूठ · पिष्ट्वा = पीसकर · दीपन = अग्नि जगाने वाला।",
-        "frame": "क्या पीसें: पथ्या, पलाश, चित्रक, शठी, कुष्ठ · किसमें: मूत्र · फिर: पिए · और: दीपन क्षार।",
+        "frame": "क्या पीसें: पथ्या, पलाश, चित्रक, शठी, कुष्ठ · मूत्र के साथ (पीसना या पीना, दोनों सम्भव) · पिए · और: दीपन क्षार।",
     },
     "14": {
         "contrast": {"groups": [{"label": "पंक्ति १: दी जाने वाली बस्ति", "items": ["दाशमूलिक", "समूत्र"]},
