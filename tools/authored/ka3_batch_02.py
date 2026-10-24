@@ -8,10 +8,9 @@ AUTHORED["12"] = {
     "question": "Under which conditions does unit 12 say the medicine becomes ayogi, with the doṣas stiffened and clumped?",
     "rule": ("A decoction of little content, or a dry medicine, drunk by one not oiled and sweated, or with cold "
              "treatment, becomes ayogi: the doṣas stiffened (stabdha) and clumped (vigrathita)."),
-    "limits": ("Low confidence. अल्पप्रत्यय and अयोगि are doubtful in sense (rendered 'of little content', 'not duly "
-               "joined'). The printed भेषजमस्निग्धस्विन्नेम is a typo for -स्विन्नेन. Open reviewer point (05.03.12): "
-               "'not oiled and sweated' may mean 'not oiled and not sweated'. No question rests on these points. "
-               "The subject of भवति is not stated."),
+    "limits": ("Low confidence. अल्पप्रत्यय and अयोगि are doubtful in sense (kept literal). Printed -स्विन्नेम is a typo "
+               "for -स्विन्नेन. Open point (05.03.12): 'not oiled and sweated' may mean 'not oiled and not sweated'. "
+               "No question rests on these. The subject of भवति is not stated."),
     "explain_hi": ("यह नया व्यापद् है: औषध काम नहीं करता और दोष स्तब्ध (जकड़े हुए) तथा विग्रथित (गाँठ पड़े हुए) हो जाते हैं। "
                    "कारण ‘वा’ (या) से जुड़े विकल्प हैं: अल्प प्रत्यय वाला काढ़ा, या रूक्ष औषध; उसे ऐसे व्यक्ति ने पिया जिसका "
                    "स्नेहन और स्वेदन नहीं हुआ, या उसके साथ शीत उपचार हुआ। ‘अल्पप्रत्यय’ और ‘अयोगि’ के ठीक अर्थ संदिग्ध हैं, "
@@ -141,9 +140,9 @@ AUTHORED["14"] = {
     "question": "How does unit 14 say the patient is to be sweated in both purifications?",
     "rule": ("In both purifications, one anointed with salt and oil should be made to sweat by lump (piṇḍa) and "
              "layer (prastara) fomentation."),
-    "limits": ("उभयोः संशोधनयोः may be genitive 'of both' or locative 'in both'; 'in both' is chosen. लवणतैल may be "
-               "'salt and oil' or 'salted oil'; the printed space in 'लवणतैल अभ्यक्तं' is a print error. prastara is a "
-               "standard named kind of sweating; piṇḍa as bolus fomentation is probable. The unit gives no details of either."),
+    "limits": ("उभयोः संशोधनयोः may be 'of both' or 'in both'; लवणतैल may be 'salt and oil' or 'salted oil'; the "
+               "space in 'लवणतैल अभ्यक्तं' is a print error. prastara is a standard kind of sweating; piṇḍa as bolus "
+               "fomentation is probable. No details of either are given."),
     "explain_hi": ("दोनों संशोधनों (वमन और विरेचन) में स्वेदन की विधि दी गई है। पहले रोगी का लवण और तैल से अभ्यंग किया जाए "
                    "(या लवण-मिश्रित तैल से; दोनों पाठ सम्भव)। फिर उसे दो प्रकार से स्वेदित कराए: पिण्ड स्वेद (सम्भवतः गरम पिण्ड से सेंक) "
                    "और प्रस्तर स्वेद (गरम बिछावन पर सेंक, यह मानक नाम है)। ‘पिण्डप्रस्तराभ्याम्’ द्वन्द्व समास का तृतीया द्विवचन है: "
