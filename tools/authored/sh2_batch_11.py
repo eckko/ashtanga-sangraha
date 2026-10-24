@@ -38,10 +38,10 @@ AUTHORED["126"] = {
               "in each such disorder, produces.",
               "यच्च यच्च → यस्य व्याधेर्निदानं → तत्तदासेवमाना… → तत्तद्विकारबहुलमपत्यं → जनयति."),
         T(match(2, "Match each word of unit 126 to its meaning on the card.",
-                [["निदान", "cause (of disease)"], ["अन्तर्वत्नी", "pregnant woman"], ["आसेवमाना", "indulging in"],
+                [["निदान", "cause (of disease)"], ["अन्तर्वत्नी", "pregnant woman"], ["व्याधि", "disease"],
                  ["बहुल", "abounding in"], ["अपत्य", "offspring"]],
-                "These five words carry the rule: the pregnant woman, indulging in the cause, bears offspring abounding in disorders.",
-                "निदान, अन्तर्वत्नी, आसेवमाना, बहुल, अपत्य.", role="extend"),
+                "These five words carry the rule: the cause of a disease, the pregnant woman, and offspring abounding in disorders.",
+                "निदान, अन्तर्वत्नी, व्याधि, बहुल, अपत्य.", role="extend"),
           "अन्तर्वत्नी is a word for the pregnant woman; निदान is the cause of a disease."),
         mcq("discriminate", 3, "Which split of व्याधेर्निदानम् is right?",
             ("व्याधेः + निदानम्", "एः before the voiced न becomes एर्: व्याधेर्निदानम्."),
@@ -119,10 +119,10 @@ AUTHORED["127"] = {
               ("गच्छन्तौ", "Present participle stem गच्छत् + -औ: two going."),
               [("गच्छन्", "That is one going (singular)."),
                ("गच्छन्तः", "That is many going (plural)."),
-               ("गच्छतः", "That is a verb, the two go, not a participle.")],
+               ("गच्छतः", "As a verb it means the two go; as a participle it is gen./abl. sg. or acc. pl., not nom. dual.")],
               "इच्छन्तौ = two wishing; गच्छन्तौ = two going.",
               "-न्तौ = nom. dual of a masculine present participle."),
-          "A masculine present participle in the nominative dual ends in -न्तौ: इच्छन्तौ, गच्छन्तौ."),
+          "A masculine present participle of the अ-class (इच्छति, गच्छति) ends in -न्तौ in the nominative dual: इच्छन्तौ, गच्छन्तौ."),
     ],
 }
 
@@ -322,7 +322,7 @@ AUTHORED["131"] = {
              ("From the seventh month", "The word printed is अष्टमम्, eighth.")],
             "The line names the eighth month (अष्टम मास).",
             "अष्टम = eighth."),
-        order(1, "Put these printed words of unit 131 in their order.",
+        order(1, "Put these words of unit 131 in their order.",
               ["केवलं", "त्वष्टमं", "मासमुपादाय", "आस्थापनम्", "अनुवासनं वा"],
               "Only, but the eighth, month beginning from, āsthāpana, or anuvāsana.",
               "केवलं → त्वष्टमं → मासमुपादाय → आस्थापनम् → अनुवासनं वा."),
@@ -366,7 +366,7 @@ AUTHORED["132"] = {
              "those that accomplish the same purpose."),
     "limits": ("The means are not named: 'mild (ones)' and 'those that do the same work' are left general. No dose. "
                "upakrama = beginning of treatment."),
-    "explain_hi": ("पिछली इकाई में वमन आदि का निषेध था; यहाँ प्रश्न है कि जो विकार वमन आदि से ही साध्य हैं, उनमें क्या करें। "
+    "explain_hi": ("इकाई १३० में वमन आदि का निषेध था; यहाँ प्रश्न है कि जो विकार वमन आदि से ही साध्य हैं, उनमें क्या करें। "
                    "उत्तर: मृदु (साधनों) से, या उसी प्रयोजन को पूरा करने वालों (तदर्थकारी) से उपक्रम (उपचार का आरम्भ) करे। "
                    "साधनों के नाम नहीं दिए गए। "
                    "‘वोपक्रमेत्’ में वा + उपक्रमेत् की सन्धि है (आ + उ → ओ)।"),
@@ -393,7 +393,7 @@ AUTHORED["132"] = {
         mcq("discriminate", 3, "Which split of वोपक्रमेत् is right?",
             ("वा + उपक्रमेत्", "आ + उ → ओ: वा + उपक्रमेत् → वोपक्रमेत्."),
             [("वा + अपक्रमेत्", "आ + अ would join as वापक्रमेत्."),
-             ("वाः + उपक्रमेत्", "There is no वाः here; वा is an indeclinable, or."),
+             ("वाः + उपक्रमेत्", "आः before a vowel loses its visarga and stays apart (वा उपक्रमेत्): no ओ. And वा here is the indeclinable, or."),
              ("वो + पक्रमेत्", "पक्रमेत् is not a word.")],
             "वा (or) + उपक्रमेत् (one should proceed).",
             "आ + उ → ओ."),
@@ -531,10 +531,10 @@ AUTHORED["134"] = {
 AUTHORED["135"] = {
     "title": "इत्यनात्ययिके व्याधौ",
     "question": "How does verse 135 set the rule for a non-critical disease against that for a very severe one?",
-    "rule": ("Thus is the rule in a non-critical (anātyayika) disease; but in a very severe one, even with sharp "
+    "rule": ("Thus the rule in a non-critical (anātyayika) disease; but in a very severe one, even with sharp "
              "applications of treatment (kriyāyoga), one should carefully protect the woman."),
-    "limits": ("No copula is printed after विधिः. इति (thus) points back to the rule already given. The sharp treatments "
-               "are not named, and no dose or advice is added. The two lines appear to pair as one verse (not stated by "
+    "limits": ("No copula is printed after विधिः and none is supplied. इति (thus) closes what was said before; the verse "
+               "does not restate it. The sharp treatments are not named, and no dose or advice is added. The two lines appear to pair as one verse (not stated by "
                "the print)."),
     "explain_hi": ("यह श्लोक दो स्थितियों को अलग करता है। अनात्ययिक (जो गम्भीर या आपात न हो) रोग में ‘इति विधिः’: यही विधि है, "
                    "जो अब तक कही गई। किन्तु अत्यधिक (बहुत बढ़े) रोग में तीक्ष्ण क्रियायोगों (तेज़ उपचार-प्रयोगों) से भी "
@@ -596,7 +596,7 @@ AUTHORED["136"] = {
     "limits": ("The object of रक्षति (protects) is not printed and is not supplied. प्रथमम् may also be read as an "
                "adverb; the sense stays the same. Line 2 is not further explained here. The two lines appear to pair as "
                "one verse (not stated by the print)."),
-    "explain_hi": ("यह श्लोक गर्भिणी की रक्षा का कारण देता है: स्त्री ही सन्तानों की जड़ है; स्त्री ही, रक्षित होने पर, रक्षा करती है। "
+    "explain_hi": ("‘हि’ (क्योंकि) से यह श्लोक पहले कही बात का कारण देता प्रतीत होता है: स्त्री ही सन्तानों की जड़ है; स्त्री ही, रक्षित होने पर, रक्षा करती है। "
                    "किसकी रक्षा करती है, यह छपा नहीं। "
                    "दूसरी पंक्ति कहती है: सब आश्रमों में गृहस्थपन प्रथम और अनिन्दित (निन्दारहित) है; इसे यहाँ आगे नहीं समझाया गया। "
                    "‘हि’ का अर्थ है ‘क्योंकि, ही’।"),
@@ -650,8 +650,8 @@ AUTHORED["136"] = {
 AUTHORED["137"] = {
     "title": "जरायुणा मुखे छन्ने",
     "question": "Why, by verse 137, does the one in the womb not cry out?",
-    "rule": ("Because the mouth is covered by the jarāyu (fetal membrane), the throat is wrapped in Kapha, and the path "
-             "of vāyu (wind) is obstructed, the one in the womb (garbhastha) does not cry out."),
+    "rule": ("When the mouth is covered by the jarāyu (fetal membrane) and the throat is wrapped in Kapha, and because "
+             "the path of vāyu (wind) is obstructed, the one in the womb (garbhastha) does not cry out."),
     "limits": ("जरायु is the membrane enclosing the fetus; which membrane exactly is not said. वायु is read as wind or "
                "air, though the humour Vāta is not excluded; no question rests on that. The two lines appear to form "
                "one sentence (not stated by the print)."),
@@ -674,7 +674,7 @@ AUTHORED["137"] = {
               "Mouth covered by the jarāyu; throat wrapped in Kapha; path of vāyu blocked; so it does not cry.",
               "मुख → कण्ठ → वायु का मार्ग → न प्ररोदिति."),
         T(match(2, "Match each word of verse 137 to its meaning on the card.",
-                [["जरायु", "fetal membrane"], ["छन्न", "covered"], ["वेष्टित", "wrapped, enveloped"],
+                [["जरायु", "fetal membrane (standard)"], ["छन्न", "covered"], ["वेष्टित", "wrapped, enveloped"],
                  ["निरोध", "obstruction"], ["गर्भस्थ", "the one in the womb"]],
                 "Each of the three causes has a word for what is done: covered, wrapped, obstructed.",
                 "जरायु, छन्न, वेष्टित, निरोध, गर्भस्थ.", role="extend"),
@@ -833,7 +833,7 @@ AIDS = {
         "sandhi": ("न् + च → ंश्च: व्याधीन् + च → व्याधींश्च · ऐः + स्वर → ऐर्: सुखैः + औषध → सुखैरौषध · "
                    "अ + आ → आ: औषध + आहार → औषधाहार।"),
         "letters": "गुणों के आदि-अक्षर, छपे क्रम में: मृ-म-शि-सु · साधनों के: औ-आ-वि।",
-        "contrast": "इसी पंक्ति में: उपचार के गुण मृदु, मधुर, शिशिर, सुख; यहाँ कोई तीक्ष्ण गुण नहीं गिनाया।",
+        "contrast": "इसी पंक्ति में: चार गुण (मृदु, मधुर, शिशिर, सुख) ↔ तीन साधन (औषध, आहार, विहार): गुण विशेषण हैं, साधन विशेष्य।",
     },
     "130": {
         "frame": "न (नहीं) → च अस्याः (और इसके लिए) → वमनादीनि (वमन आदि) → प्रयोजयेत् (प्रयोग करे)।",
