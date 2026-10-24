@@ -20,7 +20,7 @@ AUTHORED["39"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 39, what should one insert even in a slight obstruction of stool and urine?",
-            ("Phalavartis, suppositories (फलवर्तीः)", "फलवर्तीः प्रणिदध्यात्: one should insert phalavartis."),
+            ("Phalavartis (फलवर्तीः)", "फलवर्तीः प्रणिदध्यात्: one should insert phalavartis."),
             [("Gruel with ghee, to drink (यवागू)", "Gruel with ghee is given to drink in unit 42, not here."),
              ("Lukewarm oil, rubbed on (तैल)", "Lukewarm oil is for anointing in unit 46."),
              ("A drug powder, given (चूर्ण)", "A powder of drugs is given in unit 44.")],
@@ -68,9 +68,9 @@ AUTHORED["40"] = {
     "question": "By unit 40, what signs appear in a woman whose delivery is near?",
     "rule": ("In her whose delivery is near (आसन्नप्रसवा): exhaustion (क्लम), weariness (ग्लानि), eyes as if loosened, "
              "much spitting, urine and stool, a loose belly, heaviness below, no desire for food; then pains of several kinds."),
-    "limits": ("Low confidence. How वेदना joins the list of body parts is not certain. The printed -दरत्हृदय- (stray त्) "
-               "and स्त्रवण (read स्रवण, flow) are corrected readings: no question rests on हृदय, on flow, or on how far "
-               "of the yoni reaches. basti here = bladder."),
+    "limits": ("Low confidence; how वेदना joins the body parts is uncertain. Printed -दरत्हृदय- and स्त्रवण are corrected "
+               "readings: no question on हृदय, on flow, or on how far of the yoni reaches. basti = bladder as the data "
+               "glosses it (tagged probable in unit 49)."),
     "explain_hi": ("जिसका प्रसव निकट है (आसन्नप्रसवा), उसमें थकावट (क्लम), ग्लानि, मानो बन्धन छूटी हुई दोनों आँखें, थूक, मूत्र और मल "
                    "की अधिकता, कुक्षि की शिथिलता, नीचे भारीपन और अन्न में अरुचि होती है। "
                    "फिर पेट, कमर, बस्ति (मूत्राशय) और वंक्षण आदि में वेदना, तथा तोद (चुभन), भेद (फटन), शूल, स्फुरण (फड़कन) "
@@ -81,7 +81,7 @@ AUTHORED["40"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 40, which of these is a sign that delivery is near?",
-            ("Exhaustion and weariness (क्लम, ग्लानि)", "क्लमो ग्लानिः: the first two signs named."),
+            ("Exhaustion and weariness", "क्लमो ग्लानिः: the first two signs named."),
             [("A strong desire for food", "The unit says the opposite: अन्नानभिलाषः, no desire for food."),
              ("Lightness in the lower body", "The unit says the opposite: अधोगुरुत्वम्, heaviness below."),
              ("A belly grown firm and tight", "The unit says the opposite: शिथिलकुक्षिता, a loose belly.")],
@@ -99,7 +99,7 @@ AUTHORED["40"] = {
               "क्लम, निष्टीविका, शिथिलकुक्षिता, अधोगुरुत्व, अन्नानभिलाष.", role="extend",
               teaches="अन्- negates before a vowel: अभिलाष (desire) → अनभिलाष (lack of desire)."),
         mcq("discriminate", 3, "Why is क्लमः printed क्लमो before ग्लानिः in unit 40?",
-            ("अः before a voiced consonant (ग) becomes ओ", "Visarga after अ before a voiced sound: अः → ओ."),
+            ("अः before voiced ग becomes ओ", "Visarga after अ before a voiced sound: अः → ओ."),
             [("ओ is the dual ending of क्लम", "क्लमः is nominative singular in the data, not dual."),
              ("अः becomes ओ before every consonant", "Before an unvoiced consonant (क, त, प ...) it does not become ओ."),
              ("क्लमो is the vocative form", "The vocative of क्लम would be क्लम; the data reads nominative.")],
@@ -139,7 +139,7 @@ AUTHORED["41"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 41, what flows after that?",
-            ("Garbhodaka, the water of the embryo", "गर्भोदकप्रवाहः: flow of the water of the embryo (probably amniotic fluid)."),
+            ("Garbhodaka, the embryo's water", "गर्भोदकप्रवाहः: flow of the water of the embryo (probably amniotic fluid)."),
             [("Hot water poured over her body", "Hot water is sprinkled on her in unit 42; it is not a flow here."),
              ("Urine and stool in abundance", "Abundance of urine and stool is a sign in unit 40."),
              ("Lukewarm oil rubbed on her back", "Lukewarm oil is unit 46.")],
@@ -198,7 +198,7 @@ AUTHORED["42"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 42, what is she made to drink?",
-            ("Gruel with ghee (सघृता यवागू)", "सघृतां यवागूं पाययेत्."),
+            ("Gruel with ghee (यवागू)", "सघृतां यवागूं पाययेत्."),
             [("Milk boiled with herbs", "No milk is named in unit 42."),
              ("Hot water, a full cup", "Hot water is sprinkled on her, not drunk."),
              ("Lukewarm oil, a little", "Lukewarm oil is for anointing in unit 46.")],
@@ -224,11 +224,11 @@ AUTHORED["42"] = {
             "अथ (then) + एनाम् (her): अ + ए → ऐ.",
             "अ + ए → ऐ."),
         mcq("apply", 4, "Which of these is NOT among her preparations in unit 42?",
-            ("Rubbing her back and sides with lukewarm oil", "That is unit 46, not unit 42."),
+            ("Being given smoke of birch bark", "That is unit 45, not unit 42."),
             [("Being well anointed (स्वभ्यक्ता)", "Named in unit 42: स्वभ्यक्ताम्."),
              ("Being sprinkled with hot water", "Named in unit 42: उष्णोदकपरिषिक्ताम्."),
              ("Having done kautuka and auspicious rites", "Named in unit 42: कृतकौतुकमङ्गलाम्.")],
-            "Rubbing of the back and sides comes later, in unit 46.",
+            "Smoke of birch bark comes later, in unit 45.",
             "उपस्थितगर्भा, कृतकौतुकमङ्गला, पुंनामफलहस्ता, स्वभ्यक्ता, उष्णोदकपरिषिक्ता."),
         mcq("transfer", 5, "By the rule of स्वभ्यक्ता (सु + अभ्यक्ता), how is सु + आगतम् (welcome) written?",
             ("स्वागतम्", "उ + a different vowel → व्: सु + आगतम् = स्वागतम्."),
@@ -248,18 +248,18 @@ AUTHORED["43"] = {
     "rule": ("She lies face up (उत्तान) on a soft ground-bed covered with a very red bull's hide, thighs and back bent. "
              "Women in new clothes, trustworthy, pleasant to see, older, bold, nails cut, attend her with kind, true words."),
     "limits": ("Skilled in delivery rests on the conjectural reading प्रजननकुशलाः for printed प्रजनकशलाः; no question rests "
-               "on it. The posture beyond bent thighs and back is not described. सूतिका here = the woman in labour, by context."),
+               "on it. Bent thighs and back is taken as printed (the data notes the back may be a different word); the posture is not further described. सूतिका here = the woman in labour, by context."),
     "explain_hi": ("तब सूतिका (प्रसव करने वाली स्त्री) अच्छे लाल बैल के चमड़े से ढकी कोमल भूमि-शय्या पर उत्तान, यानी पीठ के बल, "
                    "जाँघें और पीठ मोड़े लेटी हो। "
                    "उसके पास ऐसी स्त्रियाँ बैठें: नए वस्त्र पहने, विश्वसनीय (अशंकनीय), देखने में प्रिय, प्रौढ़ आयु की, निर्भीक "
                    "(प्रगल्भ) और कटे नखों वाली। "
                    "वे मधुर और सच्ची वाणी से उसे आश्वासन देती रहें। "
                    "‘प्रसव में कुशल’ छपे ‘प्रजनकशलाः’ का अनुमानित पाठ है, इसलिए उस पर प्रश्न नहीं।"),
-    "hook": "लाल चर्म की कोमल शय्या, प्रौढ़ निर्भीक सखियाँ, मीठे सच्चे बोल।",
+    "hook": "लाल चर्म की कोमल शय्या, प्रौढ़ निर्भीक स्त्रियाँ, मीठे सच्चे बोल।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By unit 43, how do the attending women speak to her?",
-            ("With pleasant, true words, comforting her", "सूनृताभिर्वाणीभिराश्वासयन्त्यः."),
+            ("With pleasant, true words", "सूनृताभिर्वाणीभिराश्वासयन्त्यः."),
             [("In silence, saying nothing at all", "The unit names words (वाणीभिः) that comfort her."),
              ("With stern orders to push at once", "The words are pleasant and true, and they comfort her."),
              ("With the puṇyāha formula only", "Puṇyāha is named in unit 38, not here.")],
@@ -284,7 +284,7 @@ AUTHORED["43"] = {
             "अहतवाससः (in new clothes) + अशङ्कनीयाः (trustworthy).",
             "अः + अ → ओऽ."),
         mcq("apply", 4, "By unit 43, on what does the woman in labour lie?",
-            ("A soft bed on the ground, covered with red bull's hide", "सुरक्तार्षभचर्मप्रच्छदे मृदुनि भूमिशयने."),
+            ("A soft ground-bed with a red bull's hide", "सुरक्तार्षभचर्मप्रच्छदे मृदुनि भूमिशयने."),
             [("A raised cot spread with a white cloth", "The bed is on the ground (भूमिशयन), covered with hide."),
              ("A bed of grass laid close to the fire", "Grass and fire are not named in unit 43."),
              ("A low seat, sitting with her back upright", "She lies face upward (उत्तानाम्), not seated.")],
@@ -308,14 +308,14 @@ AUTHORED["44"] = {
     "rule": ("Then one should give her a powder (चूर्ण) of kuṣṭha (costus), elā (small cardamom), lāṅgalī (glory lily), "
              "vacā (sweet flag), an unclear cyanya, citraka (leadwort) and cirabilva (probably Indian elm)."),
     "limits": ("Low confidence. cyanya is unclear (possibly cavya, not certain). To smell (उपाघ्रातुम्) is a conjectural "
-               "reading of printed उपाघातुं, so no question rests on smelling or on cyanya. cirabilva is probable; the others "
-               "standard. No amount is stated."),
+               "reading of printed उपाघातुं, so no question rests on smelling or on cyanya. cirabilva is probable; kuṣṭha, elā, lāṅgalī, vacā and "
+               "citraka are standard. No amount is stated."),
     "explain_hi": ("तब उसे इन द्रव्यों का चूर्ण देना चाहिए: कुष्ठ (कूठ), एला (छोटी इलायची), लाङ्गली (कलिहारी), वचा (बच), च्यन्य "
                    "(अस्पष्ट शब्द), चित्रक (चीता) और चिरबिल्व (सम्भवतः चिलबिल)। "
-                   "पहले पाँच की पहचान मानक है, चिरबिल्व की सम्भावित, और च्यन्य अस्पष्ट है। "
+                   "कुष्ठ, एला, लाङ्गली, वचा और चित्रक की पहचान मानक है, चिरबिल्व की सम्भावित, और च्यन्य अस्पष्ट है। "
                    "छपा ‘उपाघातुं’ अनुमानित पाठ पर ‘उपाघ्रातुम्’ (सूँघने के लिए) पढ़ा गया है, इसलिए सूँघने पर प्रश्न नहीं। "
                    "‘कुष्ठैला’ में कुष्ठ + एला है (अ + ए → ऐ)।"),
-    "hook": "कूठ-इलायची-कलिहारी-बच ... चीता-चिलबिल: सबका चूर्ण।",
+    "hook": "कूठ-इलायची-कलिहारी-बच ... चीता-चिलबिल (सम्भावित): सबका चूर्ण।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 44, in what form are the drugs given to her?",
@@ -346,10 +346,10 @@ AUTHORED["44"] = {
             "कुष्ठ (costus) + एला (cardamom): अ + ए → ऐ.",
             "अ + ए → ऐ."),
         mcq("apply", 4, "Which drug of unit 44 has only a probable identification in its data?",
-            ("चिरबिल्व, probably Indian elm", "The data tags cirabilva as probable."),
-            [("वचा, sweet flag", "Tagged standard."),
-             ("एला, small cardamom", "Tagged standard."),
-             ("चित्रक, leadwort", "Tagged standard.")],
+            ("चिरबिल्व", "The data tags cirabilva (Indian elm) as probable."),
+            [("वचा", "Sweet flag: tagged standard."),
+             ("एला", "Small cardamom: tagged standard."),
+             ("चित्रक", "Leadwort: tagged standard.")],
             "cirabilva = Holoptelea integrifolia is probable; the others are standard.",
             "चिरबिल्व: probable."),
         mcq("transfer", 5, "By the rule of कुष्ठैला, how is तत्र + एव (right there) written when joined?",
@@ -517,8 +517,8 @@ AUTHORED["47"] = {
               teaches="परि-√वृत् = turn around: परिवर्तते = it turns around."),
         mcq("discriminate", 3, "By unit 47, which part of the fetus leads as it turns?",
             ("The unit does not say", "The note: the line does not say which part leads."),
-            [("The head leads", "No part is named in the line."),
-             ("The feet lead", "No part is named in the line."),
+            [("The head leads the way", "No part is named in the line."),
+             ("The feet lead the way", "No part is named in the line."),
              ("The back leads", "No part is named in the line.")],
             "Only the direction, downward, is stated.",
             "अवाक् = downward; no leading part is named."),
@@ -587,7 +587,7 @@ AUTHORED["48"] = {
               [2, 3],
               "A verbless heading: its sign; तस्य most likely means the turning.",
               "तस्य लक्षणम् (copula understood)."),
-        mcq("transfer", 5, "By तस्य लक्षणम्, how is the sign of a disease (रोग) said in an invented phrase?",
+        mcq("transfer", 5, "By तस्य लक्षणम्, how is the sign of a disease (रोग) said in a new example?",
             ("रोगस्य लक्षणम्", "-स्य = of, as in तस्य."),
             [("रोगः लक्षणम्", "रोगः is nominative: the disease, not of the disease."),
              ("रोगेण लक्षणम्", "रोगेण is instrumental: by the disease."),
@@ -605,7 +605,7 @@ AUTHORED["49"] = {
     "rule": ("Having left (विमुच्य) the heart (हृदय), it enters (आविशति) the belly (उदर) and takes hold of (अवगृह्णाति) the "
              "head of the bladder (बस्तिशिरस्; basti, probably bladder). विमुच्य is an absolutive: the leaving comes first."),
     "limits": ("The subject, the fetus, is understood from unit 47; it is not printed. basti = bladder is probable here. "
-               "Printed अवगृण्हाति is read अवगृह्णाति (letters swapped). The unit says nothing more about the sign."),
+               "Printed अवगृण्हाति is read अवगृह्णाति (probably swapped letters, as the data flags it). The unit says nothing more about the sign."),
     "explain_hi": ("हृदय को छोड़कर (विमुच्य) वह उदर में प्रवेश करता है (आविशति) और बस्ति-शिर, यानी सम्भवतः मूत्राशय के सिरे, को पकड़ लेता है। "
                    "कर्ता (गर्भ) यहाँ छपा नहीं, इकाई 47 से समझा जाता है। "
                    "‘विमुच्य’ पूर्वकालिक रूप है, इसलिए छोड़ना पहले और प्रवेश बाद में है। "
@@ -665,7 +665,7 @@ AUTHORED["50"] = {
     "limits": ("Low confidence. The opening त्वरयन्त्येनामाढ्यः is damaged: आढ्यः is unclear, so they urge her on is only "
                "conjectural; no question rests on it. The procedure stated just before appears, by the note, to point to "
                "units 44 to 46."),
-    "explain_hi": ("पंक्ति का आरम्भ (‘त्वरयन्त्येनामाढ्यः’) क्षतिग्रस्त है; ‘आढ्यः’ अस्पष्ट है, इसलिए ‘वे उसे जल्दी को प्रेरित करते हैं’ "
+    "explain_hi": ("पंक्ति का आरम्भ (‘त्वरयन्त्येनामाढ्यः’) क्षतिग्रस्त है; ‘आढ्यः’ अस्पष्ट है, इसलिए ‘वे उसे जल्दी करने को प्रेरित करते हैं’ "
                    "केवल अनुमानित पाठ है। "
                    "निश्चित भाग यह है: यदि गर्भ इस प्रकार नहीं पलटता, तो उससे बार-बार जम्हाई (जृम्भण) और टहलना (चङ्क्रमण) "
                    "कराना चाहिए, और अभी कही गई विधि भी। "
@@ -676,7 +676,7 @@ AUTHORED["50"] = {
     "questions": [
         mcq("pretest", 0, "By unit 50, what is she made to do if the fetus does not turn?",
             ("Yawn and walk about, again and again", "मुहुर्मुहुर्जृम्भणं चङ्क्रमणं च कारयितव्या."),
-            [("Lie still on her back and rest", "The unit names yawning and walking about."),
+            [("Lie still on her back and rest quietly", "The unit names yawning and walking about."),
              ("Fast from all food and drink", "No fasting is named in unit 50."),
              ("Bathe again in hot water", "No bath is named in unit 50.")],
             "Yawning and walking about, repeatedly.",
@@ -724,7 +724,7 @@ AUTHORED["51"] = {
              "struck (आहनीय) with a pestle (मुशल). इति closes the reported view."),
     "limits": ("The purpose is not stated in this unit; the kind of grain is not named. This is the others' view, not the "
                "author's; the next unit rejects it, but this unit does not judge it."),
-    "explain_hi": ("दूसरे आचार्य (अन्ये) तो कहते हैं कि अनाज से भरी ओखली (उलूखल) पर मूसल (मुशल) से प्रहार करना चाहिए। "
+    "explain_hi": ("दूसरे (अन्ये) तो कहते हैं कि अनाज से भरी ओखली (उलूखल) पर मूसल (मुशल) से प्रहार करना चाहिए। "
                    "‘इति’ इस दूसरे मत के उद्धरण को समाप्त करता है, और ‘आहुः’ = वे कहते हैं। "
                    "प्रहार का उद्देश्य यहाँ नहीं बताया गया, और अनाज का प्रकार भी नहीं। "
                    "‘आहनीयम्’ कृत्य-रूप है: प्रहार किया जाना चाहिए। "
@@ -750,7 +750,7 @@ AUTHORED["51"] = {
               "मुशल, उलूखल, धान्य, आहनीय, आहुः.", role="extend",
               teaches="-अनीय makes a gerundive (is to be done): आहनीय = is to be struck."),
         mcq("discriminate", 3, "In unit 51, whose view is stated?",
-            ("Others' view (अन्ये), reported with इति ... आहुः", "अन्ये तु ... इत्याहुः: others say."),
+            ("Others' view (अन्ये ... आहुः)", "अन्ये तु ... इत्याहुः: others say."),
             [("The author's own instruction", "अन्ये तु marks it as the view of others."),
              ("The woman's own wish", "The woman's wish is not named."),
              ("A view this unit calls right", "This unit does not judge the view.")],
@@ -833,8 +833,8 @@ AIDS = {
             {"label": "सामान्य लक्षण (क्रम से)", "items": ["क्लम (थकावट)", "ग्लानि", "आँखें मानो बन्धन-मुक्त",
                                                          "थूक, मूत्र, मल की अधिकता", "कुक्षि की शिथिलता",
                                                          "नीचे भारीपन", "अन्न में अरुचि"]},
-            {"label": "वेदना आदि", "items": ["उदर, हृदय, कटि, बस्ति, वंक्षण में वेदना",
-                                            "तोद, भेद, शूल, स्फुरण, स्राव"]}]},
+            {"label": "वेदना आदि", "items": ["उदर, हृदय (सुधारा पाठ), कटि, बस्ति, वंक्षण में वेदना",
+                                            "तोद, भेद, शूल, स्फुरण, स्राव (सुधारा पाठ)"]}]},
         "chunks": "तत्रासन्नप्रसवायाः | क्लमो ग्लानिः | मुक्तबंधने इवाक्षिणी | निष्टीविकामूत्रपुरीषबाहुल्यं | "
                   "शिथिलकुक्षिताऽधोगुरुत्वमन्नानभिलाषो | वेदनोदरत्हृदयकटीबस्तिवंक्षणेषु | तोदभेदशूलस्फुरणस्त्रवणानि च योन्याभवंति",
         "sandhi": "अः + घोष → ओ: क्लमः + ग्लानिः → क्लमो ग्लानिः · अ + अ → आ: अन्न + अनभिलाषः → अन्नानभिलाषः · "
@@ -865,7 +865,7 @@ AIDS = {
         "chunks": "ततः सुरक्तार्षभचर्मप्रच्छदे मृदुनि भूमिशयने | शयानामुत्तानामाभुग्नसक्थिपृष्ठाम् | "
                   "अहतवाससोऽशंकनीयाः प्रियदर्शनाः परिणतवयसः प्रजनकशलाः प्रगल्भाः कृत्तनखाः स्त्रियः | "
                   "सूतिकां सूनृताभिर्वाणीभिराश्वासयंत्यः पर्युपासीरन्",
-        "sandhi": "अः + अ → ओऽ: अहतवाससः + अशङ्कनीयाः → अहतवाससोऽशङ्कनीयाः · ई के बाद विसर्ग → र्: सूनृताभिः + वाणीभिः → "
+        "sandhi": "अः + अ → ओऽ: अहतवाससः + अशङ्कनीयाः → अहतवाससोऽशङ्कनीयाः · इ के बाद विसर्ग, घोष या स्वर से पहले → र्: सूनृताभिः + वाणीभिः → "
                   "सूनृताभिर्वाणीभिः, वाणीभिः + आश्वासयन्त्यः → वाणीभिराश्वासयन्त्यः।",
         "frame": "कर्ता: स्त्रियः (विशेषण-सूची के साथ) → कर्म: सूतिकाम् (शय्या, स्थिति सहित) → साधन: सूनृताभिः वाणीभिः → क्रिया: पर्युपासीरन् (घेरकर सेवा करें)।",
     },
@@ -926,13 +926,13 @@ IMAGE_SPECS = {
         "file": "sh3-asanna-prasava-40.svg",
         "alt": ("Two columns of unit 40, signs of near delivery. General signs in order: exhaustion, weariness, eyes as if "
                 "loosened, much spitting, urine and stool, loose belly, heaviness below, no desire for food. Pains: pain in "
-                "belly, heart, waist, bladder and groin; pricking, tearing, pain, throbbing and flow."),
+                "belly, heart, waist, bladder and groin; pricking, tearing, pain, throbbing and flow (heart and flow are corrected readings)."),
         "type": "split",
         "title": "इकाई ४०: आसन्न प्रसव के लक्षण",
         "cols": [["सामान्य लक्षण (क्रम से)", ["१ क्लम (थकावट)", "२ ग्लानि", "३ आँखें मानो बन्धन-मुक्त",
                                             "४ थूक, मूत्र, मल अधिक", "५ कुक्षि शिथिल", "६ नीचे भारीपन",
                                             "७ अन्न में अरुचि"]],
-                 ["वेदना आदि", ["उदर, हृदय, कटि, बस्ति, वंक्षण में वेदना", "तोद, भेद, शूल, स्फुरण, स्राव"]]],
+                 ["वेदना आदि", ["उदर, हृदय (सुधारा पाठ), कटि, बस्ति, वंक्षण में वेदना", "तोद, भेद, शूल, स्फुरण, स्राव (सुधारा पाठ)"]]],
     },
     ("42", "diagram"): {
         "file": "sh3-saghrita-yavagu-42.svg",
