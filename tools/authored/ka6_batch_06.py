@@ -27,7 +27,7 @@ AUTHORED["64"] = {
              ("With their remedies",
               "Remedies are not named in this verse; it only counts and adds the complications."),
              ("With their six tastes",
-              "Tastes come in the later verses (05.06.130 on), not here.")],
+              "Tastes come in the later verses (05.06.128 on), not here.")],
             "स-उपद्रवान् = with complications; अपि = also.",
             "सोपद्रवान् अपि विद्यात्."),
         match(1, "Match each word of verse 64 to its meaning.",
@@ -93,7 +93,7 @@ AUTHORED["65"] = {
                    "अरुचि यानी भोजन की अनिच्छा और ज्वर यानी बुखार। "
                    "दूसरी पंक्ति: तृष् यानी प्यास, मोह यानी भ्रम, दाह यानी जलन, मूर्च्छा यानी बेहोशी, और ‘आदि’। "
                    "‘आदि’ से सूची खुली रहती है; क्रिया ‘विद्यात्’ (जाने) दूसरी पंक्ति में है।"),
-    "hook": "पेट की छह तकलीफ़ें, फिर प्यास-भ्रम-जलन-बेहोशी: ये सब उपद्रव।",
+    "hook": "पहली पंक्ति की छह तकलीफ़ें, फिर प्यास-भ्रम-जलन-बेहोशी: ये सब उपद्रव।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "What does verse 65 call śūla, ādhmāna, jvara and the rest?",
@@ -130,7 +130,7 @@ AUTHORED["65"] = {
             "परिकर्ति (cutting pain) + अरुचि (loss of appetite): इ before a different vowel becomes य्.",
             "इ + अ → य."),
         multi("apply", 4,
-              "A patient after a basti shows these signs. Which are named as complications in verse 65?",
+              "Which of these signs does verse 65 name as complications of these varieties?",
               [("Thirst", "Right: तृष् (printed तृण्- before मोह)."),
                ("Burning", "Right: दाह."),
                ("Fainting", "Right: मूर्च्छा."),
@@ -144,7 +144,7 @@ AUTHORED["65"] = {
             ("One should know fever and so on",
              "-आदि at the end of a compound = 'and so on': ज्वर + आदीन् = fever and the rest."),
             [("One should know the first fever",
-              "-आदि here does not mean 'first'; it opens the list."),
+              "-आदि here does not mean 'first'; it keeps the list open (and so on)."),
              ("One should know fever alone",
               "-आदि adds the rest; it does not restrict."),
              ("One should know no fever",
@@ -159,8 +159,8 @@ AUTHORED["65"] = {
 AUTHORED["66"] = {
     "title": "तत्रामे पाचनं शस्यते",
     "question": "What does verse 66 recommend in āma, and what does it forbid?",
-    "rule": ("In āma (undigested matter), a drink joined with pungent, sour and salty (ones), a digestive (pācana), is "
-             "recommended; for in āma basti is forbidden (pratiṣidhyate)."),
+    "rule": ("In āma (undigested matter) a digestive (pācana) is recommended, for in āma basti is forbidden (pratiṣidhyate); line 1 names "
+             "a drink joined with pungent, sour and salty (ones), probably the same digestive."),
     "limits": ("Low confidence. The word printed 'tarapānam' is unclear (flag); no reading is built on it, and how it is "
                "split is an open reviewer point. That pācanam refers to the drink is natural but not certain. Line 1 "
                "appears to run into line 2."),
@@ -323,7 +323,7 @@ AUTHORED["68"] = {
     "hook": "कसैला और कड़वा दोनों में; पहली में मीठा, कफ में तीखा।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By line 2 of verse 68, what basti is given when Kapha is being made to flow?",
+        mcq("pretest", 0, "By line 2 of verse 68 (सार्यमाणे कफे), what basti is given in the Kapha case?",
             ("Astringent, pungent and bitter",
              "सार्यमाणे कफे बस्तिः कषायः कटुतिक्तकः."),
             [("Sweet, sour and with salt",
@@ -336,9 +336,9 @@ AUTHORED["68"] = {
             "कफे: कषाय · कटु · तिक्त."),
         match(1, "Match each word of verse 68 to its meaning.",
               [["कषाय", "astringent"], ["स्वादु", "sweet"], ["तिक्त", "bitter"],
-               ["कटु", "pungent"], ["सार्यमाण", "being made to flow"]],
-              "The four tastes of the two lists, and the participle of line 2.",
-              "कषाय = astringent; स्वादु = sweet; तिक्त = bitter; कटु = pungent; सार्यमाण = being made to flow."),
+               ["कटु", "pungent"], ["बस्ति", "enema"]],
+              "The four tastes of the two lists, and बस्ति of line 2.",
+              "कषाय = astringent; स्वादु = sweet; तिक्त = bitter; कटु = pungent; बस्ति = enema."),
         order(2, "Put these words of line 2 of verse 68 in the verse's order.",
               ["सार्यमाणे", "कफे", "बस्तिः", "कषायः", "कटुतिक्तकः"],
               "When Kapha is being made to flow, the basti: astringent, pungent and bitter.",
@@ -458,7 +458,7 @@ AUTHORED["69"] = {
 # ---------------------------------------------------------------- unit 70
 AUTHORED["70"] = {
     "title": "संसृष्टयोर्भवेत्पानं",
-    "question": "What drink does verse 70 give for two (doṣas) that are mixed with Pitta, blood and āma?",
+    "question": "After its list of Pitta, blood and āma, what drink does verse 70 give for the two that are mixed?",
     "rule": ("Line 1 lists combinations: with Pitta, in āma, with blood, likewise; or again of those two, with āma. For the "
              "two that are mixed, there should be a drink with pungent, sweet and bitter (tastes)."),
     "limits": ("Low confidence. The sense of 'tayoḥ āmena' (of/in the two, with āma) is not fully clear; tayoḥ can be "
@@ -534,10 +534,11 @@ AUTHORED["70"] = {
 AUTHORED["71"] = {
     "title": "तथाऽऽमे कफसंसृष्टे",
     "question": "What does verse 71 give for āma mixed with Kapha, and for Kapha joined with āma?",
-    "rule": ("Likewise, in āma mixed with Kapha: astringent, pungent and bitter. But when Kapha is joined with āma: an "
-             "astringent medicine (auṣadha); the next member of the compound is doubtful."),
+    "rule": ("Likewise, in āma mixed with Kapha: astringent, pungent and bitter. But when Kapha is joined with āma: a "
+             "kaṣāya medicine (auṣadha), kaṣāya being astringent or a decoction (not fixed); the next member is doubtful."),
     "limits": ("Low confidence. 'Lava' in kaṣāya-lava-auṣadham is doubtful (perhaps lavaṇa, salt; flagged, not applied), "
-               "so the second list is incomplete. 'Drink' is carried over from 05.06.137. Kaṣāya is the taste here."),
+               "so the second list is incomplete. 'Drink' is carried over from 05.06.137. Kaṣāya is the taste in line 1; in line 2 "
+               "it may be the taste or a decoction (not fixed)."),
     "explain_hi": ("पहली पंक्ति: उसी प्रकार कफ से संसृष्ट आम में कषाय, कटु और तिक्त यानी कसैला, तीखा और कड़वा। "
                    "दूसरी पंक्ति स्थिति उलट देती है: आम से कफ युक्त हो, तब कसैला औषध। "
                    "बीच का ‘लव’ संदिग्ध है; यह ‘लवण’ (नमक) का कटा रूप हो सकता है, पर यह पाठ लागू नहीं किया गया। "
@@ -615,7 +616,7 @@ AUTHORED["72"] = {
     "limits": ("Medium confidence. 'Viśi' is read as viṣi, in stool (flagged; same print in 05.06.145). Line 1 is a bare "
                "list; it appears to run into line 2. Which combination each item means is not explained."),
     "explain_hi": ("पहली पंक्ति वात के साथ संसर्गों की सूची है: वात से, मल में या पित्त में; मल, पित्त और रक्त में; उसी प्रकार वायु में। "
-                   "‘विशि’ को विषि यानी मल में पढ़ा गया है; यह छपाई की ग़लती मानी गई है। "
+                   "‘विशि’ को विषि यानी मल में पढ़ा गया है; यह छपाई की भूल हो सकती है (चिह्नित, सम्भव)। "
                    "दूसरी पंक्ति कहती है कि संसृष्ट स्थिति में कषाय, अम्ल और मधुर यानी कसैली, खट्टी और मीठी बस्ति उत्तम है। "
                    "‘स्यात्’ विधिलिङ् है: ‘हो, होनी चाहिए’।"),
     "hook": "वात के मेल में: कसैली, खट्टी, मीठी बस्ति सबसे अच्छी।",
@@ -809,7 +810,7 @@ AUTHORED["74"] = {
             [("In no combination",
               "No negative is in the word."),
              ("In a single doṣa",
-              "A single doṣa is केवल (05.06.125), not अन्योन्य."),
+              "Single (ones) are केवल (05.06.125), not अन्योन्य; अन्योन्य means one another."),
              ("In a combination of six",
               "Six (षण्णाम्) is in 05.06.152, not here.")],
             "अन्योन्य-संसर्गे = when (the items) are combined with one another.",
@@ -984,11 +985,11 @@ AUTHORED["76"] = {
 AUTHORED["77"] = {
     "title": "त्रिचतुःपंचषड्योगेन",
     "question": "How does verse 77 extend the rule to larger combinations, and to which diseases does the method apply?",
-    "rule": ("By combining three, four, five and six one should vary (vikalpayet) in just this way. And this method "
+    "rule": ("By combining three, four, five and six one should vary (vikalpayet), read as 'in just this way' (flagged). And this method "
              "(yukti), stated for atisāra (diarrhoea), is held also in all diseases."),
     "limits": ("Medium confidence. The printed 'yogenāvemeva' is read as yogena + evam + eva (flagged). The object of "
                "vikalpayet and the things combined are not stated. Atisāra = diarrhoea (standard)."),
-    "explain_hi": ("अब तक दो-दो के संसर्ग की बात थी; यह श्लोक कहता है कि तीन, चार, पाँच और छह के योग से भी इसी प्रकार विकल्प करे। "
+    "explain_hi": ("पिछले श्लोकों में संसर्गों के अनुसार रस बताए गए; यह श्लोक कहता है कि तीन, चार, पाँच और छह के योग से भी इसी प्रकार विकल्प करे। "
                    "क्या मिलाया जाए और किसका विकल्प हो, यह नहीं कहा। "
                    "छपा ‘योगेनावेमेव’ अटपटा है; इसे योगेन + एवम् + एव पढ़ा गया है (चिह्नित)। "
                    "दूसरी पंक्ति: यह युक्ति, जो अतिसार यानी दस्त के लिए कही गई, सब रोगों में भी मानी गई है।"),
@@ -1030,16 +1031,16 @@ AUTHORED["77"] = {
             "उ + अ → व."),
         mcq("apply", 4,
             "A physician meets a combination of four of the items. What does line 1 of verse 77 tell him?",
-            ("To vary in the same way",
-             "त्रिचतुःपंचषड्योगेन … विकल्पयेत्: combinations of three to six are varied in the same way."),
+            ("To vary it as well",
+             "त्रिचतुःपंचषड्योगेन … विकल्पयेत्: combinations of three to six are also to be varied (विकल्पयेत्)."),
             [("To give no basti at all",
               "Verse 77 forbids nothing."),
              ("To treat only single items",
               "Verse 77 extends the rule to larger combinations."),
              ("To stop at pairs of two",
               "Line 1 goes on to three, four, five and six.")],
-            "विकल्पयेत् = one should vary; 'thus' points to the method for pairs.",
-            "३-६ के योग: इसी प्रकार विकल्प."),
+            "विकल्पयेत् = one should vary; the word read as 'thus' (एवम्) is flagged, so only the numbers and विकल्पयेत् are relied on.",
+            "३-६ के योग: विकल्प करे."),
         mcq("transfer", 5,
             "Like अतिसारोक्ता युक्तिः (the method stated for atisāra), what does the new phrase ज्वरोक्ता युक्तिः mean?",
             ("The method stated for fever",
@@ -1270,7 +1271,7 @@ AIDS = {
         "chunks": "मधुरोषणतिक्तस्तु | रक्ते कफविमूर्च्छिते ‖ मारुते कफसंसृष्टे | कट्वम्ललवणो भवेत्",
     },
     "77": {
-        "chain": {"steps": ["तीन, चार, पाँच, छह का योग", "इसी प्रकार विकल्प करे", "युक्ति: अतिसार के लिए कही",
+        "chain": {"steps": ["तीन, चार, पाँच, छह का योग", "विकल्प करे (‘इसी प्रकार’ फ़्लैग)", "युक्ति: अतिसार के लिए कही",
                             "सब रोगों में भी मानी"]},
         "anchors": "योग = मेल · विकल्पयेत् = विकल्प करे · युक्ति = विधि · अतिसार = दस्त · स्मृता = मानी गई।",
         "sandhi": "अ + उ → ओ: अतिसार + उक्ता → अतिसारोक्ता; उ + अ → व: सर्वरोगेषु + अपि → सर्वरोगेष्वपि।",
@@ -1305,7 +1306,7 @@ IMAGE_SPECS = {
         "alt": "Two columns of verse 66: in ama recommended (a digestive; a drink with pungent, sour and salty, word unclear) and forbidden (basti)",
         "type": "split",
         "title": "श्लोक ६६: आम में",
-        "cols": [["प्रशस्त", ["पाचन", "कटु-अम्ल-लवण युक्त पान", "(पान-शब्द अस्पष्ट)"]],
+        "cols": [["प्रशस्त", ["पाचन", "कटु-अम्ल-लवण युक्त पान", "(‘तर’ शब्द अस्पष्ट)"]],
                  ["निषिद्ध", ["बस्ति"]]],
     },
     ("67", "diagram"): {
@@ -1350,10 +1351,10 @@ IMAGE_SPECS = {
     },
     ("77", "chain"): {
         "file": "ka6-yukti-77.svg",
-        "alt": "Chain of verse 77: combinations of three, four, five and six; vary in the same way; the method stated for atisara; held in all diseases",
+        "alt": "Chain of verse 77: combinations of three, four, five and six; vary (the word for in this way is flagged); the method stated for atisara; held in all diseases",
         "type": "chain",
         "title": "श्लोक ७७: युक्ति",
-        "steps": ["तीन-चार-पाँच-छह का योग", "इसी प्रकार विकल्प", "अतिसार के लिए कही युक्ति", "सब रोगों में भी"],
+        "steps": ["तीन-चार-पाँच-छह का योग", "विकल्प करे", "अतिसार के लिए कही युक्ति", "सब रोगों में भी"],
     },
     ("78", "contrast"): {
         "file": "ka6-shadrasa-78.svg",
