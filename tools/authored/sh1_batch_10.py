@@ -14,9 +14,8 @@ AUTHORED["120"] = {
     "question": "In unit 120, how are the drops made, how many are instilled, and which nostril goes with the wish for a daughter?",
     "rule": ("Any one of lakṣmaṇā, banyan shoots (वटशुङ्ग), sahadevā or viśvedevā is pounded in milk; she herself instils "
              "three or four drops in a nostril. The left (वामे) goes with one desiring a daughter (दुहितृकामा)."),
-    "limits": ("Low confidence. The word after the right nostril (पित्रुना) is damaged; 'desiring a son' for the right is only a "
-               "conjectural reading, so no question rests on it. Identities: lakṣmaṇā disputed, banyan shoots standard, sahadevā "
-               "probable (Vernonia cinerea), viśvedevā unidentified (the name itself may be viśvadevā). No dose beyond the drops is given."),
+    "limits": ("Low confidence. पित्रुना, after the right nostril, is damaged: 'desiring a son' there is only conjectural, and "
+               "no question rests on it. lakṣmaṇā is disputed, sahadevā probable, viśvedevā unidentified (perhaps viśvadevā)."),
     "explain_hi": ("इस गद्य-इकाई में चार द्रव्यों के नाम हैं: लक्ष्मणा (पहचान विवादित), वटशुङ्ग यानी बरगद के अंकुर (मानक), "
                    "सहदेवा (सम्भवतः सहदेई) और विश्वेदेवा (अज्ञात)। इनमें से कोई एक (अन्यतमाम्) दूध में कूटा जाता है (क्षीरे अभिषुत्य)। "
                    "फिर स्त्री स्वयं तीन या चार बूँदें नासिका-छिद्र में डाले। "
@@ -394,7 +393,7 @@ AUTHORED["126"] = {
                ["देहली", "threshold"], ["पूर्ववत्", "as before"]],
               "These five words carry the procedure and the place.",
               "पिष्ट, पच्यमान, ऊष्मन्, देहली, पूर्ववत्.", role="extend",
-              teaches="-यमान on a root gives a passive present participle: पच्यमान = being cooked."),
+              teaches="The passive stem in -य plus -मान gives a present passive participle: पच् + य + मान = पच्यमान, being cooked."),
         mcq("discriminate", 3, "By the card, who smells the vapour in unit 126?",
             ("The text does not say", "The subject of आघ्राय is not stated."),
             [("The husband, named here", "No husband is named in this unit."),
@@ -430,7 +429,7 @@ AUTHORED["127"] = {
     "explain_hi": ("यह इकाई प्रयोगों की सूची को खुला छोड़ती है: ‘जो कुछ और भी ब्राह्मण या वृद्ध स्त्रियाँ कहें, वह भी करे।’ "
                    "‘यत् ... तत्’ का जोड़ा है: जो ... वह। "
                    "क्या कहें, यह नहीं बताया गया। ‘कुर्यात्’ विधिलिङ् है: करे। "
-                   "‘यच्चान्यदपि’ में तीन सन्धियाँ हैं: त् + च → च्च, अ + अ → आ, त् + अ → द।"),
+                   "‘यच्चान्यदपि’ में तीन सन्धियाँ हैं: त् + च → च्च, अ + अ → आ, और स्वर से पहले त् → द्।"),
     "hook": "जो ब्राह्मण या वृद्ध स्त्रियाँ कहें, वह भी करे: यत् ... तत्।",
     "core": False,
     "questions": [
@@ -482,9 +481,8 @@ AUTHORED["128"] = {
     "question": "In unit 128, which group of herbs is named, and how should she bear them?",
     "rule": ("Then she should bear (धारयेत) the great herbs called prajāsthāpana (offspring-establishing) with the head and "
              "with the right hand."),
-    "limits": ("The herbs of the prajāsthāpana group are not listed here, so none is identified (Caraka names such a group; "
-               "this text does not list it). The printed -नारख्या has a stray र (read -नाख्याः). Carrying on the head and "
-               "holding in the right hand is the plain sense of the two instrumentals."),
+    "limits": ("The members of the prajāsthāpana group are not listed here, so none is identified. The printed -नारख्या has "
+               "a stray र (read -नाख्याः). On the head and in the right hand is the plain sense of the two instrumentals."),
     "explain_hi": ("‘ततः’ (फिर) के बाद एक नया चरण: ‘प्रजास्थापन’ (सन्तान को स्थिर करने वाली) नाम की महा-औषधियाँ। "
                    "इन्हें सिर से (शिरसा) और दाहिने हाथ से (दक्षिणेन पाणिना) धारण करे (धारयेत)। "
                    "‘शिरसा’ और ‘पाणिना’ तृतीया हैं: ‘से’। "
@@ -654,7 +652,7 @@ AUTHORED["130"] = {
 AUTHORED["131"] = {
     "title": "(इ)ति गर्भस्थापनानि",
     "question": "What does the short unit 131 call the preceding means?",
-    "rule": ("गर्भस्थापनानि = foetus-establishing (ones), neuter nominative plural; the unit closes the list begun in unit 130."),
+    "rule": ("गर्भस्थापनानि = foetus-establishing (ones), neuter nominative plural; the unit appears to close the sentence of unit 130."),
     "limits": ("The opening ति is read as इति with its इ lost (a possible reading, not certain). No noun is stated for "
                "गर्भस्थापनानि, so the card says '(ones)'. No verb."),
     "explain_hi": ("यह इकाई केवल एक समापन-वाक्यांश है: ‘इस प्रकार, गर्भ को स्थिर करने वाले।’ "
@@ -742,7 +740,7 @@ AUTHORED["132"] = {
               teaches="सौम्य (gentle) at the head of the compound qualifies all four: form, speech, service, conduct."),
         mcq("discriminate", 3, "Does unit 132 say the husband must also be gentle in form and speech?",
             ("It is not decided", "The card leaves open whether the qualities apply to him."),
-            [("Yes, it says so clearly", "The text adds only तथा भर्ता."),
+            [("Yes, it states this outright", "The text adds only तथा भर्ता."),
              ("No, it says he need not be", "Nothing of the kind is said."),
              ("Yes, and older than her too", "No age is named here.")],
             "तथा भर्ता is left without its own qualities.",
@@ -831,8 +829,7 @@ NOTES_HI = {
             "सन्धि: च + एतान् → चैतान् (अ + ए → ऐ); एतान् + निष्ठीवेत् → एतान्निष्ठीवेत्।"),
     "122": ("विश्वास मध्यम, कोई पाठ-चिह्न नहीं। कर्ता नहीं कहा गया (इकाई 120 में ‘स्वयम्’ है, इकाई 126 किसी दूसरे के डालने की ओर संकेत कर सकती है), "
             "इसलिए अनुवाद में ‘one’। पहचान: बृहती सामान्यतः सम्भवतः Solanum indicum; श्वेत बृहती विवादित। मात्रा नहीं दी गई। "
-            "सन्धि: पुष्य + उद्धृतायाः → पुष्योद्धृतायाः (अ + उ → ओ); मूलकल्कात् + रसम् → मूलकल्काद्रसम् (त् → द् घोष से पहले)। "
-            "छपा ‘मूलकल्कादरसं’ नहीं, ‘मूलकल्काद्रसं’ है।"),
+            "सन्धि: पुष्य + उद्धृतायाः → पुष्योद्धृतायाः (अ + उ → ओ); मूलकल्कात् + रसम् → मूलकल्काद्रसम् (त् → द् घोष से पहले)।"),
     "123": ("विश्वास मध्यम। पाठ-चिह्न: छपा ‘तद्वचोत्पल’; तद्वत् + च से ‘तद्वच्च’ बनना चाहिए, उत्- से पहले एक च छूटा प्रतीत होता है। "
             "इकाई अधूरी है: नावयेत् का कर्म और तैयारी नहीं कही गई; कुछ जोड़ा नहीं गया। ‘आठ’ को वटशुङ्गानि से जोड़ा गया, पर छपा क्रम "
             "‘वटशुंगानि चाष्टौ च’ पूरी तरह साफ़ नहीं, इसलिए संख्या पर प्रश्न नहीं। पत्र = पत्ता, कमल-जातीय में पंखुड़ी भी। उत्पल और कुमुद दोनों "
