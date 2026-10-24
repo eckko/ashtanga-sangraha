@@ -20,7 +20,7 @@ AUTHORED["134"] = {
     "explain_hi": ("यह गद्य-पंक्ति बताती है कि शुक्र यानी प्रजनन द्रव की आभा से गर्भ का वर्ण कैसे जुड़ा है। "
                    "घृतमण्ड जैसा होने पर गर्भ में गौरता, तेल जैसा होने पर कालापन, और शहद जैसा होने पर साँवलापन। "
                    "‘शुक्रे शुक्रे’ की पुनरुक्ति को ‘प्रत्येक शुक्र में’ पढ़ा गया है; पंक्ति में कोई क्रिया नहीं है। "
-                   "पहले जोड़े के बाद आया ‘वा’ स्पष्ट नहीं है, इसलिए उस पर कुछ तय नहीं किया गया। "
+                   "‘घृतमण्डाभे’ के बाद आया ‘वा’ स्पष्ट नहीं है, इसलिए उस पर कुछ तय नहीं किया गया। "
                    "किसका शुक्र है, यह नहीं कहा गया।"),
     "hook": "घी-सा → गौर, तेल-सा → काला, शहद-सा → श्याम।",
     "core": True,
@@ -159,13 +159,13 @@ AUTHORED["136"] = {
                "वर्ण here = colour of the skin.",
                "वर्ण = colour."),
           "वर्णभेद = difference of colour; here वर्ण means skin colour, not caste."),
-        mcq("discriminate", 3, "What does वर्ण mean in unit 136, by the card?",
-            ("Colour of the skin", "The note: colour, since the preceding units speak of fair, dark and dusky."),
-            [("Caste or social class", "The note says not caste here."),
-             ("A letter or speech sound", "The card gives the sense colour, not letter."),
-             ("Praise or description", "The card gives no such sense.")],
-            "वर्ण = skin colour in this run of units.",
-            "वर्ण here = colour."),
+        mcq("discriminate", 3, "What does कुल mean in unit 136, by the card?",
+            ("Family", "देशकुल: country and family."),
+            [("Country", "That is देश."),
+             ("Colour", "That is वर्ण."),
+             ("Difference", "That is भेद.")],
+            "देश = country, कुल = family; conformity to both brings a difference of colour.",
+            "कुल = family."),
         mcq("apply", 4, "Which split of अनुवृत्तितश्च is right?",
             ("अनुवृत्तितः + च", "A visarga before च becomes श्: अनुवृत्तितः + च → अनुवृत्तितश्च."),
             [("अनुवृत्तितम् + च", "A final म् would give अनुवृत्तितं च."),
@@ -368,7 +368,7 @@ AUTHORED["140"] = {
                "into a firm sense. 'Women' is shown only by the feminine endings; what the ārtava stays in is not stated. "
                "Questions use line 2 and the two sure words of line 1."),
     "explain_hi": ("यहाँ से श्लोक आरम्भ होते हैं। दूसरी पंक्ति स्पष्ट है: आर्तव देर तक ठहरता है; विपरीत (स्त्रियों) में इससे अन्यथा। "
-                   "पहली पंक्ति के ‘मुदितासु’ (प्रसन्न) और ‘कफात्मसु’ (कफ स्वभाव वाली) स्त्रीलिंग सप्तमी बहुवचन हैं, "
+                   "पहली पंक्ति के ‘मुदितासु’ (प्रसन्न) और ‘कफात्मसु’ (कफ स्वभाव वाली) सप्तमी बहुवचन हैं; ‘मुदितासु’ का स्त्रीलिंग अन्त ‘-आसु’ है, "
                    "इसी से स्त्रियों का अर्थ निकलता है, संज्ञा लिखी नहीं। "
                    "‘मत्त्यासु’ क्षतिग्रस्त है और ‘घृतक्षीरादि’ का पक्का अर्थ नहीं बैठता, इसलिए उन पर प्रश्न नहीं। "
                    "आर्तव किसमें ठहरता है, यह नहीं कहा गया।"),
@@ -399,13 +399,13 @@ AUTHORED["140"] = {
              ("विपरीतासु + तः + अन्यथा", "तः alone is not a word; the word is अतः.")],
             "विपरीतासु (in the opposite) + अतः (than this) + अन्यथा (otherwise).",
             "उ + अ → व; अः + अ → ओऽ."),
-        multi("apply", 4, "By the sure words of unit 140, which women are named for ārtava that stays long?",
-              [("Cheerful ones (मुदितासु)", "Right: named in line 1."),
-               ("Ones whose nature is Kapha (कफात्मसु)", "Right: named in line 1."),
-               ("Elderly ones", "Age is not named in unit 140."),
-               ("Pregnant ones", "Pregnancy is not named in unit 140.")],
+        multi("apply", 4, "Which two sure words does line 1 of unit 140 contain?",
+              [("मुदितासु (in cheerful ones)", "Right: printed in line 1 (मुदितासुकफात्मसु)."),
+               ("कफात्मसु (in ones whose nature is Kapha)", "Right: printed in line 1."),
+               ("वृद्धासु (in elderly ones)", "Age is not named in unit 140."),
+               ("गर्भिणीषु (in pregnant ones)", "Pregnancy is not named in unit 140.")],
               [0, 1],
-              "The sure words name cheerful women of Kapha nature.",
+              "Line 1's sure words are मुदितासु and कफात्मसु; मत्त्यासु is damaged.",
               "मुदितासु कफात्मसु."),
         mcq("transfer", 5, "By the rule of विपरीतास्वतः, how is वस्तु + अत्र (the thing here) written when joined?",
             ("वस्त्वत्र", "उ + अ → व, as विपरीतासु + अतः → विपरीतास्वतः."),
@@ -427,20 +427,20 @@ AUTHORED["141"] = {
     "limits": ("Low confidence. What takes the colour (the subject of गृह्णाति) is not stated and not decided. Line 2 has no "
                "verb, गर्भः is a conjectural reading of गर्भतथा, and the link between seed and field is not stated; "
                "no question rests on line 2."),
-    "explain_hi": ("पहली पंक्ति एक उपमा है: जैसे स्वच्छ वस्त्र (रंग) गिरते ही रंग ग्रहण कर लेता है। "
+    "explain_hi": ("पहली पंक्ति एक उपमा है: जैसे स्वच्छ वस्त्र, निपात (गिरने) मात्र से ही रंग ग्रहण कर लेता है; क्या गिरता है, यह नहीं बताया गया। "
                    "रंग कौन ग्रहण करता है (गृह्णाति का कर्ता), यह नहीं कहा गया; पिछली इकाई का आर्तव हो सकता है, पर यह तय नहीं। "
                    "दूसरी पंक्ति केवल शब्दों की सूची है: निश्चित, (अनुमानित पाठ पर) गर्भ, बीज, क्षेत्र, तैयार किया हुआ बीज; "
                    "इनका आपसी सम्बन्ध नहीं बताया गया, इसलिए उस पर प्रश्न नहीं। "
                    "‘निपातादेव’ = निपातात् + एव (त् → द् स्वर से पहले)।"),
-    "hook": "स्वच्छ कपड़ा बूँद गिरते ही रंग पकड़ लेता है।",
+    "hook": "स्वच्छ कपड़े जैसा: गिरते ही रंग पकड़ ले।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "In line 1 of unit 141, what takes colour from the mere falling?",
+        mcq("pretest", 0, "In line 1 of unit 141, to what is the taking of colour compared?",
             ("A clean cloth", "वासो यथाऽमलम्: as a clean cloth (वासः अमलम्)."),
             [("A clear crystal", "No crystal is named."),
              ("Still water in a pot", "No water is named."),
              ("Fresh milk", "No milk is named in unit 141.")],
-            "The comparison is a clean cloth taking up dye.",
+            "The taking of colour is compared to a clean cloth; what takes it is not stated.",
             "वासः यथा अमलम् = as a clean cloth."),
         order(1, "Put the words of line 1 of unit 141 in the verse's order.",
               ["निपातादेव", "गृह्णाति", "रागम्", "वासः", "यथा", "अमलम्"],
@@ -483,11 +483,11 @@ AUTHORED["142"] = {
     "question": "By unit 142, when does an action succeed, and so when should puṃsavana be applied?",
     "rule": ("When fate (दैव) is unopposed, an action applied in time certainly succeeds (सिद्धि); therefore one should "
              "apply puṃsavana and the like before the manifestation (व्यक्ति) of the foetus."),
-    "limits": ("The foetus is not named here; व्यक्ति is read as its manifestation, as in unit 131. दैव is not explained. "
+    "limits": ("The foetus is not named here; व्यक्ति is read as its manifestation, as in unit 115. दैव is not explained. "
                "पुंसवनाद्यस्मात् is read पुंसवनादि + अस्मात् (therefore), not यस्मात्; पूर्व is read पूर्वम् (possible correction)."),
     "explain_hi": ("यह श्लोक कर्म की सफलता की शर्तें बताता है: दैव विरुद्ध न हो और कर्म समय पर किया जाए, तो उसकी सिद्धि निश्चित है। "
                    "इसी कारण (अस्मात्) पुंसवन आदि को (गर्भ के) व्यक्त होने से पहले प्रयोग में लाना चाहिए। "
-                   "पुंसवन = पुत्र-प्राप्ति का संस्कार (इकाई 131 देखें)। "
+                   "पुंसवन = पुत्र-प्राप्ति का संस्कार (इकाई 115 देखें)। "
                    "‘प्रयोजयेत्’ विधिलिङ् है: ‘प्रयोग करे, करना चाहिए’। "
                    "छपा ‘पूर्व’ पूर्वम् पढ़ा गया (सम्भावित सुधार)।"),
     "hook": "दैव अनुकूल + समय पर कर्म = सिद्धि; इसलिए पुंसवन पहले।",
@@ -546,18 +546,18 @@ AUTHORED["143"] = {
                "sons'; 'accounted among those with sons' is possible, and the subject division of line 2 can go two ways. "
                "No question uses those readings."),
     "explain_hi": ("यह श्लोक बताता है कि इस प्रकार (पिछली विधि से) जन्मे सन्तान रूपवान, महान् सत्त्व वाले और दीर्घायु होते हैं। "
-                   "दूसरी पंक्ति: ऐसे अच्छे पुत्र ऋण से मुक्त कराने वाले होते हैं, पुत्र वाले लोग ऐसा मानते हैं। "
+                   "दूसरी पंक्ति: अच्छे पुत्र ऋण से मुक्त कराने वाले हों (स्युः), पुत्र वालों द्वारा माने गए। "
                    "कौन-सा ऋण, यह नहीं कहा गया। ‘पुत्रिणां मताः’ का दूसरा अर्थ भी सम्भव है, इसलिए उस पर प्रश्न नहीं। "
                    "‘ऋणान्मोचयितारः’ = ऋणात् + मोचयितारः (त् → न् अनुनासिक से पहले, जैसा छपा है)।"),
     "hook": "ऐसे जन्मे: सुन्दर, बड़े मन वाले, दीर्घायु; अच्छे पुत्र ऋण से छुड़ाते हैं।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 143, from what would good sons release?",
+        mcq("pretest", 0, "By unit 143, the releasers (मोचयितारः) release from what?",
             ("From debt (ऋण)", "ऋणात् मोचयितारः: releasers from debt."),
             [("From disease (रोग)", "Disease is not named in unit 143."),
              ("From fear", "Fear is not named in unit 143."),
              ("From poverty (दारिद्र्य)", "Poverty is not named in unit 143.")],
-            "Good sons are called releasers from debt.",
+            "The verse names releasers from debt (ऋणात्).",
             "ऋणात् = from debt."),
         order(1, "Put these words of unit 143 in the verse's order.",
               ["जाताः", "रूपवन्तः", "महासत्त्वाः", "चिरायुषः", "ऋणात्", "मोचयितारः"],
@@ -770,7 +770,7 @@ AUTHORED["146"] = {
 NOTES_HI = {
     "134": ("गद्य-पंक्ति; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। छपा ‘घृतमंदाभे’ है; डेटा का पद-विभाग इसे घृत-मण्ड-आभे पढ़ता है "
             "(घृतमण्ड को शाब्दिक ‘घी-मण्ड’ रखा गया, निश्चित अर्थ नहीं बताया गया)। ‘शुक्रे शुक्रे’ की पुनरुक्ति वितरणार्थक मानी गई। "
-            "पहले जोड़े के बाद का ‘वा’ अस्पष्ट है, तय नहीं। किसका शुक्र है, नहीं कहा गया; इकाई 145 स्त्रियों के लिए भी शुक्र शब्द "
+            "‘घृतमण्डाभे’ के बाद का ‘वा’ अस्पष्ट है, तय नहीं। किसका शुक्र है, नहीं कहा गया; इकाई 145 स्त्रियों के लिए भी शुक्र शब्द "
             "प्रयुक्त करती है। सन्धि जाँची: तैल + आभे → तैलाभे (अ + आ → आ); मधु + आभे → मध्वाभे (उ + आ → वा)।"),
     "135": ("विश्वास निम्न। पाठ-चिह्न: (1) ‘उपयोगाम्मातुर्’ — सम्भावित सुधार उपयोगान्मातुर् (त् + म → न्म), छपा म्; "
             "(2) ‘तिलांन्नविदाहिनो’ — क्षतिग्रस्त अन्त, सम्भावित तिलान्नविदाहिनाम्; पाठ अनुमानित, और ‘तिलान्न’ एक पद या दो, तय नहीं; "
@@ -797,7 +797,7 @@ NOTES_HI = {
             "सन्धि: निपातात् + एव → निपातादेव; वासः + यथा → वासो यथा।"),
     "142": ("विश्वास मध्यम; दो छपी पंक्तियाँ एक वाक्य (कर्ता ‘सिद्धिः’ दूसरी पंक्ति में)। पाठ-चिह्न: ‘पूर्व’ → पूर्वम् (सम्भावित)। "
             "‘पुंसवनाद्यस्मात्’ = पुंसवनादि + अस्मात् (इ + अ → य), यस्मात् नहीं — समीक्षा का निर्णय। "
-            "‘व्यक्तेः’ = (गर्भ के) व्यक्त होने से, इकाई 131 की तरह; गर्भ यहाँ नामित नहीं। दैव की व्याख्या नहीं।"),
+            "‘व्यक्तेः’ = (गर्भ के) व्यक्त होने से, इकाई 115 की तरह; गर्भ यहाँ नामित नहीं। दैव की व्याख्या नहीं।"),
     "143": ("विश्वास मध्यम; कोई पाठ-चिह्न नहीं। पहली पंक्ति में क्रिया नहीं। ‘पुत्रिणां मताः’ = पुत्र वालों द्वारा माने गए; "
             "दूसरा अर्थ ‘पुत्र वालों में गिने गए’ भी सम्भव; दूसरी पंक्ति का कर्ता-विभाग भी दो तरह। ऋण का प्रकार नहीं कहा गया। "
             "सन्धि: जाताः + च → जाताश्च; ऋणात् + मोचयितारः → ऋणान्मोचयितारः (त् → न्, जैसा छपा)।"),
@@ -861,7 +861,7 @@ AIDS = {
         "sandhi": "उ + अ → व: विपरीतासु + अतः → विपरीतास्वतः · अः + अ → ओऽ: अतः + अन्यथा → अतोऽन्यथा।",
     },
     "141": {
-        "story": "उपमा (पंक्ति 1): स्वच्छ वस्त्र पर रंग की बूँद गिरते ही वह रंग पकड़ लेता है। किस वस्तु से तुलना है, श्लोक नहीं कहता।",
+        "story": "मेरी बनाई कल्पना (केवल याद के लिए): स्वच्छ वस्त्र गिरने मात्र से रंग पकड़ लेता है। क्या गिरता है और किस वस्तु की तुलना है, श्लोक नहीं कहता।",
         "chunks": "निपातादेव गृह्णाति | रागं वासो यथाऽमलं ‖ ध्रुवं गर्भ(स्)तथा | बीजं क्षेत्रं | बीजमुपस्कृतं",
         "sandhi": "त् → द् स्वर से पहले: निपातात् + एव → निपातादेव · अः → ओ घोष से पहले: वासः + यथा → वासो यथा।",
     },
@@ -892,7 +892,7 @@ AIDS = {
     "146": {
         "chunks": "इति | पुत्रकामीयो नाम | प्रथमोऽध्यायः",
         "sandhi": "अः → ओ घोष से पहले: पुत्रकामीयः + नाम → पुत्रकामीयो नाम · अः + अ → ओऽ: प्रथमः + अध्यायः → प्रथमोऽध्यायः।",
-        "anchors": "याद-सूत्र: इकाई 3 में घोषणा ‘पुत्रकामीयं शारीरं व्याख्यास्यामः’, इकाई 146 में समाप्ति ‘पुत्रकामीयो नाम प्रथमोऽध्यायः’। (मेरी याद-पद्धति)",
+        "anchors": "याद-सूत्र: इकाई 3 में घोषणा ‘पुत्रकामियं (= पुत्रकामीयं) शारीरं व्याख्यास्यामः’, इकाई 146 में समाप्ति ‘पुत्रकामीयो नाम प्रथमोऽध्यायः’। (मेरी याद-पद्धति)",
     },
 }
 
@@ -924,7 +924,7 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"तेजस् धातु\"] -->|\"जल, आकाश से संपर्क\"| B[\"गौरता\"]\n"
-                 "  A -->|\"भू, वायु से संपर्क\"| C[\"कृष्णता\"]\n"
+                 "  A -.->|\"भू, वायु से संपर्क<br/>(तेजस् का: समझा गया)\"| C[\"कृष्णता\"]\n"
                  "  D[\"सब धातुओं का साम्य\"] --> E[\"श्यामता\"]\n"),
     },
     ("138", "diagram"): {
