@@ -54,10 +54,10 @@ AUTHORED["38"] = {
              ("बालम् begins with a vowel", "बालम् begins with the consonant ब, not with a vowel."),
              ("The ablative always ends in -आद्", "At a pause the ablative ends in -आत्; -आद् comes from sandhi.")],
             "वर्षात् + बालम्: त् before a voiced consonant → द्.",
-            "त् + voiced sound (not a nasal) → द्."),
+            "त् + voiced consonant → द् (before a nasal, न् is an optional alternative)."),
         mcq("transfer", 5, "By the pattern of आ षोडशात् (up to the sixteenth), which phrase means up to the ocean, in a new example?",
             ("आ समुद्रात्", "आ with the ablative (-आत्) = up to: up to the ocean."),
-            [("आ समुद्रम्", "समुद्रम् is accusative; 'up to' with आ takes the ablative."),
+            [("आ समुद्राय", "समुद्राय is dative: for the ocean; 'up to' with आ takes the ablative."),
              ("आ समुद्रे", "समुद्रे is locative: in the ocean."),
              ("आ समुद्रेण", "समुद्रेण is instrumental: by the ocean.")],
             "आ समुद्रात् = up to the ocean, like आ षोडशात् = up to the sixteenth.",
@@ -142,7 +142,7 @@ AUTHORED["40"] = {
         mcq("pretest", 0, "By unit 40, what grows in the young age?",
             ("The size of the body", "देहप्रमाणवृद्धिः: growth in the size (measure) of the body."),
             [("The power of the agni", "A kindled agni is named for the middle age (unit 43)."),
-             ("The memory and speech", "Fullness of memory and speech is named up to forty (unit 44)."),
+             ("Trembling of the body", "Trembling (vepathu) is named for the old age (unit 46)."),
              ("The skin's roughness", "Roughness of the skin is named for the old age (unit 46).")],
             "तस्मिन् देहप्रमाणवृद्धिः: in it, growth in the size of the body.",
             "देह-प्रमाण-वृद्धि = growth of body size."),
@@ -226,10 +226,10 @@ AUTHORED["41"] = {
         multi("apply", 4, "Which statements fit unit 41?",
               [("Softness (mārdava) is one of the listed qualities", "Right: मार्दव."),
                ("The unit names Pitta as the cause", "Pitta belongs to the middle age (unit 43); the data reads तेन as the Kapha of unit 40."),
-               ("स्नेह here can only mean affection", "Not so: it may be unctuousness (the data's reading) or affection."),
+               ("Roughness of the skin is one of the listed qualities", "Not so: roughness of the skin is named for the old age (unit 46)."),
                ("The qualities stand in the nominative plural with भवन्ति", "Right: ...सौभाग्यानि भवन्ति, they arise.")],
               [0, 3],
-              "Five qualities, nominative plural with भवन्ति; स्नेह has two possible senses.",
+              "Five qualities, nominative plural with भवन्ति; roughness belongs to the old age.",
               "...सौभाग्यानि भवंति."),
         mcq("transfer", 5, "By -त्व in अल्पक्रोधत्व, which word means the state of being a child, in a new example?",
             ("बालत्वम्", "-त्व makes an abstract noun: बाल-त्वम् = childhood, the state of being a child."),
@@ -466,13 +466,13 @@ AUTHORED["45"] = {
             "इव (like) + अभिवृष्टम् (rained upon): अ + अ → आ.",
             "अ + अ → आ."),
         mcq("transfer", 5, "By the pattern of अभिभूयमानम् (being overcome), which form of √कृ means being done, in a new example?",
-            ("क्रियमाणम्", "-यमान is the present passive participle: क्रियमाणम् = being done."),
+            ("क्रियमाणम्", "-यमान/-यमाण is the present passive participle: क्रियमाणम् = being done."),
             [("कृतम्", "कृतम् is the past passive participle: done."),
              ("करिष्यमाणम्", "-इष्यमाण is future: about to be done."),
              ("कुर्वत्", "कुर्वत् is the present active participle: doing.")],
             "क्रियमाणम् = being done, like अभिभूयमानम् = being overcome.",
-            "Present passive participle: -यमान.",
-            teaches="The present passive participle ends in -यमान: अभि-√भू → अभिभूयमान (being overcome), √कृ → क्रियमाण (being done)."),
+            "Present passive participle: -यमान (-यमाण after र/ऋ).",
+            teaches="The present passive participle is formed with -य- + -मान (written -माण after र/ऋ by the ण-rule): अभि-√भू → अभिभूयमान (being overcome), √कृ → क्रियमाण (being done)."),
     ],
 }
 
@@ -521,10 +521,10 @@ AUTHORED["46"] = {
               [("The skin grows soft", "The line says the opposite: त्वक्पारुष्यम्, roughness of the skin."),
                ("The body stoops", "Right: अवनामः कायस्य."),
                ("Pitta predominates in it", "Pitta belongs to the middle age (unit 43); here it is māruta."),
-               ("The split of श्लथासारमांससंध्यस्थिता is uncertain", "Right: the data gives two possible parses."),
+               ("The body trembles", "Right: वेपथुः."),
                ("The dhātus waste", "Right: धातुक्षयश्च.")],
               [1, 3, 4],
-              "Vāta's predominance: stooping, trembling, rough skin, wasting of the dhātus; one compound's split is open.",
+              "Vāta's predominance: stooping, trembling, rough skin, wasting of the dhātus.",
               "तस्मिन्मारुतोद्रेकः तेन ... धातुक्षयश्च."),
         mcq("transfer", 5, "Built like त्वक्पारुष्यम् (roughness of the skin), what does केशपारुष्यम् mean in a new example?",
             ("Roughness of the hair", "X-पारुष्यम् = roughness of X: केश-पारुष्यम्, roughness of the hair."),
@@ -598,14 +598,14 @@ AUTHORED["47"] = {
 AUTHORED["48"] = {
     "title": "बाल्येवृद्धिः प्रभामेधा...",
     "question": "What can be said for sure about the verse of unit 48 on the decades?",
-    "rule": ("A verse (anuṣṭubh) of two printed lines. It lists growth, lustre (प्रभा), intelligence (मेधा), skin, śukra "
-             "(semen), eye and hearing, and says that in the decades (दशकेषु), in order (क्रमात्), the mind and all the "
-             "sense-organs go (यान्ति)."),
+    "rule": ("A verse (anuṣṭubh) of two printed lines. As printed: in childhood (बाल्ये), growth; then lustre (प्रभा), "
+             "intelligence (मेधा), skin, śukra (semen), eye and hearing; and in the decades (दशकेषु), in order (क्रमात्), "
+             "the mind and all the sense-organs go (यान्ति)."),
     "limits": ("Low confidence; the sense of the pair is not firm. Print बाल्ये is kept (बाल्यं, giving ten items, is not "
                "adopted). Whether यान्ति means 'decline' or 'arrive' is open; 'years' is not in the Sanskrit. Questions ask "
                "only the printed words, their order and sandhi."),
-    "explain_hi": ("इकाई ४७ के ‘दूसरे’ आचार्यों का यह श्लोक प्रतीत होता है; दो छपी पंक्तियाँ एक श्लोक के दो अर्ध हैं। "
-                   "इसमें वृद्धि, प्रभा (कान्ति), मेधा (बुद्धि), त्वचा, शुक्र (वीर्य), आँख और श्रवण-इन्द्रिय गिनाए गए हैं, और कहा गया है कि दशकों में क्रम से मन और सभी इन्द्रियाँ ‘जाती हैं’ (यान्ति)। "
+    "explain_hi": ("इकाई ४७ के ‘दूसरे’ आचार्यों का यह श्लोक प्रतीत होता है; दो छपी पंक्तियाँ एक श्लोक के दो अर्ध प्रतीत होती हैं। "
+                   "छपे पाठ में: बाल्य में वृद्धि; फिर प्रभा (कान्ति), मेधा (बुद्धि), त्वचा, शुक्र (वीर्य), आँख और श्रवण-इन्द्रिय; और कहा गया है कि दशकों में क्रम से मन और सभी इन्द्रियाँ ‘जाती हैं’ (यान्ति)। "
                    "‘यान्ति’ का अर्थ ‘चली जाती हैं’ है या ‘आती हैं’, पाठ तय नहीं करता; ‘वर्ष’ शब्द भी नहीं है। "
                    "छपा ‘बाल्ये’ रखा गया है; ‘बाल्यं’ पढ़ें तो दस दशकों के लिए दस बातें बनती हैं, पर यह अपनाया नहीं गया। "
                    "विश्वास निम्न है, इसलिए प्रश्न केवल छपे शब्दों, उनके क्रम और सन्धि पर हैं।"),
@@ -635,24 +635,24 @@ AUTHORED["48"] = {
              ("क्रमम् + आद्यान्ति", "आद्यान्ति is not a word, and म् + आ would show म."),
              ("क्रमात् + आयान्ति", "That would be printed क्रमादायान्ति, with आ after द.")],
             "क्रमात् (in order) + यान्ति (they go).",
-            "त् + voiced sound (not a nasal) → द्."),
+            "त् + voiced consonant → द् (before a nasal, न् is an optional alternative)."),
         multi("apply", 4, "Which statements fit unit 48 as the data gives it?",
-              [("The data fixes यान्ति as 'decline'", "Not so: 'decline' or 'arrive' is left open; only 'go' is given."),
+              [("दशकेषु is a nominative plural", "Not so: दशकेषु is locative plural, 'in the decades'."),
                ("The unit is metrical: a verse", "Right: two printed lines read as one verse."),
-               ("The data adopts the reading बाल्यं", "Not so: the print बाल्ये is kept; बाल्यं is not adopted."),
+               ("मनः is a plural form", "Not so: मनः is n. nom. singular, the mind."),
                ("प्रभा and मेधा are among the listed items", "Right: प्रभामेधा..."),
-               ("The Sanskrit names the decades as years", "Not so: 'years' is not in the Sanskrit.")],
+               ("त्वक् is a verb form", "Not so: त्वक् is a noun, skin.")],
               [1, 3],
-              "A verse; printed words sure; the sense of यान्ति and of the pair is open.",
+              "A verse; the printed words and their forms are sure; the sense of the pair is open.",
               "Ask only what the print states."),
-        mcq("transfer", 5, "By the rule of शुक्र + अक्षि → शुक्राक्षि, how is देव + अलयः joined in a new example?",
-            ("देवालयः", "अ + अ → आ: देव + अलयः → देवालयः."),
-            [("देवलयः", "The two अ's merge into a long आ; a short अ is wrong."),
-             ("देवेलयः", "ए comes from अ + इ, not from अ + अ."),
-             ("देवोलयः", "ओ comes from अ + उ, not from अ + अ.")],
-            "देव + अलयः = देवालयः, like शुक्र + अक्षि = शुक्राक्षि.",
+        mcq("transfer", 5, "By the rule of शुक्र + अक्षि → शुक्राक्षि, how is हिम + अचलः joined in a new example?",
+            ("हिमाचलः", "अ + अ → आ: हिम + अचलः → हिमाचलः."),
+            [("हिमचलः", "The two अ's merge into a long आ; a short अ is wrong."),
+             ("हिमेचलः", "ए comes from अ + इ, not from अ + अ."),
+             ("हिमोचलः", "ओ comes from अ + उ, not from अ + अ.")],
+            "हिम + अचलः = हिमाचलः, like शुक्र + अक्षि = शुक्राक्षि.",
             "अ + अ → आ.",
-            teaches="Short अ + short अ merge into long आ: शुक्र + अक्षि → शुक्राक्षि, देव + अलयः → देवालयः."),
+            teaches="Short अ + short अ merge into long आ: शुक्र + अक्षि → शुक्राक्षि, हिम + अचलः → हिमाचलः."),
     ],
 }
 
@@ -751,13 +751,13 @@ AUTHORED["50"] = {
              ("The स् is a part of त्रिधा", "त्रिधा begins with त; the स् ends वयस्.")],
             "वयः + त्रिधा → वयस्त्रिधा.",
             "Visarga + त/थ → स्."),
-        mcq("apply", 4, "Which printed word of unit 50 does the data mark as no word, read by conjecture?",
-            ("प्रकृतिविशैशैः", "विशैशैः is no word; प्रकृतिविशेषैः is the conjectural reading."),
-            [("उपलभ्य", "उपलभ्य is a sure word: having ascertained."),
-             ("मनुष्याः", "मनुष्याः is a sure word: men."),
-             ("विभजेत्", "विभजेत् is a sure word: should divide.")],
-            "The second sentence's means (प्रकृतिविशैशैः) rests on a conjecture; the rest is sure.",
-            "Flagged print → no question on its sense."),
+        mcq("apply", 4, "In unit 50, what does the absolutive उपलभ्य show about the two acts?",
+            ("Ascertaining comes before dividing", "-य absolutive = having done: first the measure is ascertained, then one divides (विभजेत्)."),
+            [("Dividing comes before ascertaining", "The absolutive marks the earlier act: ascertaining comes first."),
+             ("Both acts happen at one moment", "The absolutive marks an act completed before the main verb."),
+             ("Ascertaining is forbidden", "उपलभ्य is not a prohibition; it is 'having ascertained'.")],
+            "प्रमाणम् उपलभ्य ... विभजेत्: having ascertained, one should divide.",
+            "Absolutive -य = the earlier act."),
         mcq("transfer", 5, "By the pattern of विभजेत् (should divide), which form of √पठ् means one should read, in a new example?",
             ("पठेत्", "-एत् is the optative third singular of thematic verbs like √भज्: पठेत्, one should read."),
             [("पठति", "पठति is the present: he reads."),
@@ -821,7 +821,7 @@ NOTES_HI = {
 # ===================================================================== AIDS
 AIDS = {
     "38": {
-        "chunks": "तत्रा | षोडशाद्वर्षाद् | बालं",
+        "chunks": "तत्राषोडशाद् | वर्षाद् | बालं",
         "frame": "किनमें: तत्र (तीन वयों में) → सीमा: आ षोडशात् वर्षात् (सोलहवें वर्ष तक) → कौन-सा वय: बालम्।",
         "sandhi": "अ + आ → आ: तत्र + आ → तत्रा · त् + घोष व्यंजन → द्: षोडशात् + वर्षात् → षोडशाद्वर्षात्; वर्षात् + बालम् → वर्षाद्बालम्।",
     },
@@ -837,10 +837,10 @@ AIDS = {
             {"label": "तस्मिन्: उसमें", "items": ["देह के परिमाण की वृद्धि", "श्लेष्मा (कफ) की अधिकता"]}]},
         "chunks": "तेष्वपि | स्तन्याहारोभयवृत्त्या | बालंत्रिविधं | तस्मिन् | देहप्रमाणवृद्धिः | श्लेष्मोद्रेकश्च",
         "sandhi": "अ + आ → आ: स्तन्य + आहार → स्तन्याहार · अ + उ → ओ: आहार + उभय → आहारोभय; श्लेष्म + उद्रेकः → श्लेष्मोद्रेकः।",
-        "anchors": "दूध → अन्न → दोनों: बच्चे के पोषण का क्रम जैसा। (मेरी याद-पद्धति; पाठ इन्हें क्रम-अवस्था नहीं कहता)",
+        "anchors": "स्तन्य → आहार → उभय: पाठ का क्रम, दूध, अन्न, दोनों। (मेरी याद-पद्धति; पाठ इन्हें क्रम-अवस्था नहीं कहता)",
     },
     "41": {
-        "chunks": "तेन | बालस्य | स्नेह | मार्दव | सौकुमार्य | अल्पक्रोधत्व | सौभाग्यानि | भवंति",
+        "chunks": "तेन | बालस्य | स्नेहमार्दव | सौकुमार्याल्पक्रोधत्व | सौभाग्यानि | भवंति",
         "frame": "कारण: तेन (डेटा: इकाई ४० की कफ-अधिकता) → किसमें: बालस्य → क्या होता है: पाँच गुण → क्रिया: भवन्ति।",
         "pegs": "पाँच गुण पाँच उँगलियों पर: अँगूठा स्नेह, तर्जनी मार्दव, मध्यमा सौकुमार्य, अनामिका अल्पक्रोध, कनिष्ठा सौभाग्य। (मेरा बनाया चित्र)",
     },
@@ -860,15 +860,15 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "मध्य वय के चरण", "items": ["तीस तक: यौवन", "चालीस तक: सम्पूर्णत्व",
                                               "इसके बाद: अपरिहानि (साठ तक, इकाई ३९)"]}]},
-        "chunks": "तत्रात्रिंशतो यौवनम् | आचत्वारिंशतः | सर्वधात्विंद्रिय…प्रश्नयगुणसंपूर्णत्वम् | अतः परम् | अपरिहानिः",
+        "chunks": "तत्रात्रिंशतो | यौवनमाचत्वारिंशतः | सर्वधात्विंद्रिय…प्रश्नयगुणसंपूर्णत्वमतः | परमपरिहानिः",
         "sandhi": "अः + घोष व्यंजन → ओ: त्रिंशतः + यौवनम् → त्रिंशतो यौवनम् · उ + इ → वि: धातु + इन्द्रिय → धात्विन्द्रिय।",
         "anchors": "३० · ४० · ६०: यौवन, पूर्णता, अपरिहानि। (मेरी याद-पद्धति)",
     },
     "45": {
         "chain": {"steps": ["श्वः श्वः: दिन-प्रतिदिन", "धातु-इन्द्रिय आदि के गुण घटते", "वली, खलित, कास, श्वास, अग्निसाद आदि से दबा",
                             "वर्षा से भीगे पुराने घर की तरह", "अवसीदति: बैठ जाता है"]},
-        "chunks": "वृद्धं तु | श्वः श्वः | क्षीयमाणधात्विंद्रियादिगुणं | वलीखलितकासश्वासाग्निसादादिभिरभिभूयमानं | जीर्णं भवनमिवाभिवृष्टम् | अवसीदति",
-        "story": "पाठ की अपनी उपमा: पुराना घर, ऊपर से बरसात; दीवारें रोज़ थोड़ी-थोड़ी गलतीं और एक दिन घर बैठ जाता है। वैसे ही वृद्ध वय।",
+        "chunks": "वृद्धं तु | श्वः श्वः | क्षीयमाणधात्विंद्रियादिगुणं | वलीखलितकासश्वासाग्निसादादिभिरभिभूयमानं | जीर्णं | भवनमिवाभिवृष्टमवसीदति",
+        "story": "पाठ की उपमा, मेरे शब्दों में (मेरी कहानी): पुराना घर, ऊपर से बरसात; दीवारें रोज़ थोड़ी-थोड़ी गलतीं और एक दिन घर बैठ जाता है। वैसे ही वृद्ध वय।",
         "sandhi": "अ + अ → आ: इव + अभिवृष्टम् → इवाभिवृष्टम् · स्वर से पहले म्: भवनम् + इव → भवनमिव।",
     },
     "46": {
@@ -968,11 +968,11 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart LR\n"
                  "  A[\"वृद्ध वय: वात की अधिकता\"] --> B[\"तेन: उससे\"]\n"
-                 "  B --> C[\"१ मांस-सन्धि की शिथिलता\"]\n"
+                 "  B --> C[\"१ मांस-सन्धि की शिथिलता (विभाजन अनिश्चित)\"]\n"
                  "  B --> D[\"२ त्वचा की रूखाई\"]\n"
                  "  B --> E[\"३ शरीर का झुकना\"]\n"
                  "  B --> F[\"४ कम्पन\"]\n"
-                 "  B --> G[\"५ कास, श्वास, श्लेष्मा-सिंघाणक\"]\n"
+                 "  B --> G[\"५ कास, श्वास, श्लेष्मा-सिंघाणक का निकलना\"]\n"
                  "  B --> H[\"६ धातुओं का क्षय\"]\n"),
     },
 }
