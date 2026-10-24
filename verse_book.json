@@ -2,7 +2,7 @@
  "bank_id": "ashtanga-sangraha-sutrasthana",
  "title": "अष्टाङ्गसंग्रह",
  "genre": "संस्कृत श्लोक",
- "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha studied verse by verse: Sūtrasthāna chapters 1 to 5 and Śārīrasthāna chapters 1 to 5 (more chapters to come), with Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per unit.",
+ "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha studied verse by verse: Sūtrasthāna chapters 1 to 5 and Śārīrasthāna chapters 1 to 6 (more chapters to come), with Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per unit.",
  "scroll_buttons": true,
  "labels": {
   "unit": "अध्याय",
@@ -27,6 +27,9 @@
   "puns": "सुनने की सहायता (मेरी बनाई)"
  },
  "metre": "anustubh",
+ "gram_overrides": {
+  "उपदेक्ष्यते": "प्र.पु. ए.व. लृट् आत्मने. उप-√दिश् (कर्तृ-अर्थ ‘सिखाएगा’, या कर्मवाच्य ‘सिखाया जाएगा’; कर्मवाच्य के साथ तम् द्वितीया असामान्य)"
+ },
  "chapters": [
   {
    "number": 1,

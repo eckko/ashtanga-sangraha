@@ -185,13 +185,13 @@ AUTHORED["30"] = {
     "title": "षट्पंचाशन्नेत्रयोः",
     "question": "By unit 30, how many (sirās, understood) are in the two eyes (netra)?",
     "rule": ("Fifty-six (षट्पञ्चाशत्: six and fifty) are in the two eyes (नेत्रयोः, locative dual). The final त् is "
-             "written न् before the न of नेत्रयोः."),
+             "written न् before the न of नेत्रयोः (optional; द् is also correct)."),
     "limits": ("Prose, one printed word; the copula and the counted noun are understood. The line does not split the 56 "
                "between the two eyes; the tasks of six of them follow in unit 31."),
     "explain_hi": ("यह गद्य-पंक्ति कहती है: दोनों नेत्रों में छप्पन। "
                    "षट्पञ्चाशत् = षट् (छह) + पञ्चाशत् (पचास)। "
                    "‘नेत्रयोः’ द्विवचन है, यहाँ सप्तमी: दोनों आँखों में। "
-                   "छपे ‘षट्पंचाशन्नेत्रयोः’ में पञ्चाशत् का त् अगले न से पहले न् लिखा गया है; डेटा इसे नियमित सन्धि कहता है। "
+                   "छपे ‘षट्पंचाशन्नेत्रयोः’ में पञ्चाशत् का त् अगले न से पहले न् लिखा गया है; डेटा इसे नियमित सन्धि कहता है, पर यह विकल्प से है (द् भी शुद्ध)। "
                    "छप्पन दोनों आँखों में कैसे बँटीं, यह नहीं बताया गया।"),
     "hook": "दोनों आँखों में छप्पन: छह और पचास।",
     "core": False,
@@ -213,19 +213,19 @@ AUTHORED["30"] = {
              "-योः is the genitive/locative dual; here the data reads it as locative: in the two eyes.",
              "षट्पञ्चाशत् नेत्रयोः."),
         mcq("discriminate", 3, "Which split of षट्पंचाशन्नेत्रयोः in unit 30 is right?",
-            ("षट्पञ्चाशत् + नेत्रयोः", "The numeral is षट्पञ्चाशत्; its त् is written न् before न."),
+            ("षट्पञ्चाशत् + नेत्रयोः", "The numeral is षट्पञ्चाशत्; its त् is written न् before न (optional; द् is also correct)."),
             [("षट्पञ्चाशन् + नेत्रयोः", "There is no numeral पञ्चाशन्; the न् comes from the त् of पञ्चाशत्."),
              ("षट्पञ्च + आशन्नेत्रयोः", "आशन्नेत्रयोः is not a word; पञ्चाशत् is one numeral."),
              ("षट्पञ्चाशः + नेत्रयोः", "A visarga before न would not give न्न.")],
             "षट्पञ्चाशत् (fifty-six) + नेत्रयोः (in the two eyes).",
-            "त् before न is written न् here (regular)."),
+            "त् before न may become न् (optional; द् is also correct); the print has न्."),
         mcq("apply", 4, "In षट्पंचाशन्नेत्रयोः, what does the print do with the त् of षट्पञ्चाशत्?",
             ("Writes न् before न", "The print shows -शन्ने-: त् is written न् before the न of नेत्रयोः."),
             [("Drops it before न", "Nothing is dropped: the print shows two न (-न्ने-)."),
              ("Writes च् before न", "च् comes from त् before च or छ, not before न."),
              ("Writes स् before न", "स् does not come from त् in this place.")],
             "षट्पञ्चाशत् + नेत्रयोः → षट्पञ्चाशन्नेत्रयोः: the त् is written न् before न.",
-            "त् + न → न्न (as printed)."),
+            "त् + न → न्न (optional; द् is also correct; as printed)."),
         mcq("transfer", 5, "By the pattern of नेत्रयोः, which form of हस्त (hand) means in the two hands, in a new example?",
             ("हस्तयोः", "-योः is the locative dual of an a-stem, as नेत्र → नेत्रयोः."),
             [("हस्तेषु", "-एषु is the locative plural: in the hands (more than two)."),
@@ -720,7 +720,7 @@ NOTES_HI = {
            "सन्धि जाँची: तालुनि + एकाम् → तालुन्येकाम् (इ + भिन्न स्वर → य्); एकाम् + इति → एकामिति; तासाम् + एव → तासामेव; छपा "
            "गंध = गन्ध।"),
     "30": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। क्रिया समझी जाती है। सन्धि जाँची: षट्पञ्चाशत् + नेत्रयोः → "
-           "षट्पञ्चाशन्नेत्रयोः (न से पहले त् → न्, डेटा के अनुसार नियमित); छपा पंच = पञ्च। नेत्रयोः सप्तमी द्विवचन।"),
+           "षट्पञ्चाशन्नेत्रयोः (न/म से पहले त् → न्, विकल्प से; द् भी शुद्ध; यहाँ छपा न्); छपा पंच = पञ्च। नेत्रयोः सप्तमी द्विवचन।"),
     "31": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। अधूरा वाक्य, और छह का बँटवारा पक्का नहीं: डेटा उन्मेष-क्रिया के लिए दो, "
            "निमेष-क्रिया के लिए दो, अपाङ्गों में दो पढ़ता है; द्विवचन ‘क्रिये’ पहले ‘द्वे’ से भी जुड़ सकता है; इस पर कोई प्रश्न नहीं। "
            "अपाङ्ग = आँख का बाहरी कोना (मानक), इस परम्परा में मर्म का नाम भी (सम्भावित)। समूह-टिप्पणी: इकाई ३० को आगे बढ़ाती है। "
@@ -782,7 +782,7 @@ AIDS = {
     },
     "30": {
         "frame": "कितनी: षट्पञ्चाशत् (५६) → कहाँ: नेत्रयोः (दोनों आँखों में) → क्रिया: ‘हैं’ समझी जाती है।",
-        "sandhi": "न से पहले त् → न्: षट्पञ्चाशत् + नेत्रयोः → षट्पञ्चाशन्नेत्रयोः (छपे अनुसार, नियमित)।",
+        "sandhi": "न/म से पहले त् → न् (विकल्प से; द् भी शुद्ध; यहाँ छपा न्): षट्पञ्चाशत् + नेत्रयोः → षट्पञ्चाशन्नेत्रयोः।",
         "anchors": "षट् + पञ्चाशत् = ६ + ५० = ५६; ‘-योः’ = दोनों में। (मेरी याद-पद्धति)",
     },
     "31": {

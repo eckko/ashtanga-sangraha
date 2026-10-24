@@ -59,7 +59,7 @@ AUTHORED["78"] = {
             ("भवेद्यदि", "त् before the voiced य becomes द्, as विज्ञानीयात् + यथास्वम् → विज्ञानीयाद्यथास्वम्."),
             [("भवेत्यदि", "त् does not stay before a voiced sound; य is voiced."),
              ("भवेच्यदि", "त् becomes च् before च, छ or श, not before य."),
-             ("भवेन्यदि", "न् comes before a nasal; य is not a nasal.")],
+             ("भवेन्यदि", "न् may come (optionally) only before a nasal; य is not a nasal.")],
             "भवेत् + यदि = भवेद्यदि, like विज्ञानीयात् + यथास्वम् = विज्ञानीयाद्यथास्वम्.",
             "त् + voiced sound → द्.",
             teaches="A final त् becomes द् before a voiced sound such as य: विज्ञानीयात् + यथास्वम् → विज्ञानीयाद्यथास्वम्."),

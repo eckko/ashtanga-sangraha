@@ -1,13 +1,15 @@
 # अष्टाङ्गसंग्रह: Recall Quiz
 
-Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 6**: 1,160 cards and 6,960 questions (6 per card).
+Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 7**: 1,301 cards and 7,806 questions (6 per card).
 - **Sūtrasthāna 1–5**: 372 cards (one per printed verse-pair), unchanged since version 2.
 - **Śārīrasthāna 1–2**: 284 cards (versions 3 and 4); in version 5 their answer giveaways were removed
   (bracketed right options, typed answers without a plain spelling). Ids unchanged.
 - **Śārīrasthāna 3** (Garbhopacaraṇīya): 128 cards and **4** (Garbhavyāpad): 135 cards (version 5).
-- **Śārīrasthāna 5** (Aṅgavibhāga): 241 cards, new in version 6.
-- Śārīrasthāna 6–12 are being added: their unit data is in `data/chapter206…212_verses.json`; modules
-  `tools/authored/sh6_batch_*.py` in this version are work in progress and not in the bank.
+- **Śārīrasthāna 5** (Aṅgavibhāga): 241 cards (version 6).
+- **Śārīrasthāna 6** (Sirāvibhāga): 141 cards, new in version 7. In version 7 sandhi rules in Śārīrasthāna 1–6
+  also state their conditions (त् + श → च्श, optionally च्छ; त् → न् before a nasal is optional). Ids unchanged.
+- Śārīrasthāna 7–12 are being added: their unit data is in `data/chapter207…212_verses.json`; modules
+  `tools/authored/sh7_batch_*.py` in this version are work in progress and not in the bank.
 
 Code loads from `eckko/recall-quiz-site-template` tag **2.2.1** via jsDelivr.
 Site: <https://eckko.github.io/ashtanga-sangraha/>
@@ -44,8 +46,8 @@ also accept IAST and plain-letter spelling, with at most one per card.
 
 ## Rebuild
 ```
-B=$(ls tools/authored/ch*_batch_*.py tools/authored/sh[12345]_batch_*.py | xargs -n1 basename | sed 's/.py//' | paste -sd,)
-BATCHES=$B PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json of this version (Śārīra 6-12 not yet in)
+B=$(ls tools/authored/ch*_batch_*.py tools/authored/sh[1-6]_batch_*.py | xargs -n1 basename | sed 's/.py//' | paste -sd,)
+BATCHES=$B PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json of this version (Śārīra 7-12 not yet in)
 python3 tools/verse/render_images.py .         # images/aids/*.svg (needs node_modules for mermaid-cli)
 python3 <template-2.2.1>/tools/validate_bank.py questions.json
 ```

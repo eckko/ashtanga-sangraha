@@ -68,7 +68,7 @@ AUTHORED["129"] = {
 AUTHORED["130"] = {
     "title": "बाह्येनापि च ज्वालांगारात्मकेनाग्निना",
     "question": "By unit 130, why must the agni within be protected with effort?",
-    "rule": ("Even with outer fire of flame and embers (ज्वालाङ्गारात्मक), cooking is not always of one form (नैकाकारः सर्वदा पाकः); "
+    "rule": ("Even with outer fire of flame and embers (ज्वालाङ्गारात्मक), cooking is not at all times of one form (नैकाकारः सर्वदा पाकः); "
              "how much more (किमुत) with what is lodged within (अन्तराश्रय; 'heat' is the data's conjecture ऊष्मणा). "
              "So guard it with effort (प्रयत्नतो रक्षेत्)."),
     "limits": ("Prose, one printed line. The printed ष्ममना is not a word; ऊष्मणा ('by heat') is the data's conjecture, so no "
@@ -530,7 +530,7 @@ AUTHORED["137"] = {
         mcq("transfer", 5, "By the rule of केचित् + आहुः → केचिदाहुः, how is कश्चित् + आगच्छति joined in a new example?",
             ("कश्चिदागच्छति", "त् before a vowel → द्, as केचित् + आहुः → केचिदाहुः."),
             [("कश्चितागच्छति", "त् does not stay त् before a vowel when words are joined."),
-             ("कश्चिनागच्छति", "न् comes from त् before a nasal, not before a vowel."),
+             ("कश्चिनागच्छति", "न् comes (optionally) from त् before a nasal, not before a vowel."),
              ("कश्चिच्चागच्छति", "च्च comes from त् before च, not before a vowel.")],
             "कश्चित् + आगच्छति = कश्चिदागच्छति, like केचित् + आहुः = केचिदाहुः.",
             "त् + vowel → द्.",

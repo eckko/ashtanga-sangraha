@@ -348,7 +348,7 @@ AUTHORED["146"] = {
             "-औ is not always dual: इ-stem m. locative singular ends in -औ."),
         mcq("transfer", 5, "By the rule of त्रिंशत् + शत → त्रिंशच्छत, how is एतत् + शरीरम् (this body) joined in a new example?",
             ("एतच्छरीरम्", "त् + श → च्श, optionally च्छ before a vowel or semivowel (the print has च्छ), as in त्रिंशत् + शत → त्रिंशच्छत."),
-            [("एतद्शरीरम्", "द् comes before a voiced sound; श is unvoiced, and त् before श goes to च्."),
+            [("एतद्शरीरम्", "द् comes before a voiced sound; श is unvoiced, and त् before श goes to च् (च्श, or optionally च्छ)."),
              ("एतत्शरीरम्", "त् cannot stay before श; it becomes च् (च्श, optionally च्छ before a vowel)."),
              ("एतज्शरीरम्", "ज् is voiced; before the unvoiced श the त् becomes च्.")],
             "एतत् + शरीरम् = एतच्छरीरम्, like त्रिंशत् + शत = त्रिंशच्छत.",
