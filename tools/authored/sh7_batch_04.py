@@ -299,11 +299,11 @@ AUTHORED["45"] = {
 # ---------------------------------------------------------------- unit 46
 AUTHORED["46"] = {
     "title": "सामान्येनैव च",
-    "question": "What does the short unit 46 say, and how is सामान्येनैव joined?",
+    "question": "What does the short unit 46 print, and what is certain about it?",
     "rule": "सामान्येनैव च: data reading 'and by the general (one) alone' (सामान्येन + एव); elliptical.",
-    "limits": ("Prose and elliptical: the noun (probably 'sign') is not printed and not supplied; सामान्येन may also mean "
-               "'in general'. GROUPING (data): it appears to continue unit 45 and to introduce the list of unit 47; no "
-               "question rests on that link. The split सामान्येन + एव is the data's reading, not certain; no question rests on it."),
+    "limits": ("Elliptical prose: the noun (probably 'sign') is not printed or supplied. GROUPING (data): appears to "
+               "continue unit 45 and introduce unit 47's list. The split सामान्येन + एव is the data's reading, not "
+               "certain. No question rests on the link or the split."),
     "explain_hi": ("यह दो शब्दों की गद्य-पंक्ति है: ‘और सामान्य से ही’। "
                    "जिस संज्ञा से ‘सामान्येन’ जुड़ता है (सम्भवतः ‘लक्षण’), वह छपी नहीं, और डेटा उसे जोड़ता नहीं। "
                    "‘सामान्येन’ का अर्थ ‘सामान्य रूप से’ भी हो सकता है। "
@@ -333,12 +333,15 @@ AUTHORED["46"] = {
              ("च is a verb, set last", "च is an indeclinable particle, not a verb."),
              ("च fills a gap in the print", "च is printed plainly; nothing is restored.")],
             "च comes after the word it adds.", "च is enclitic."),
-        mcq("apply", 4, "Which particle is printed as a separate word in unit 46?",
-            ("च (and)", "सामान्येनैव च: च stands apart."),
-            [("अपि (also)", "अपि is not printed in unit 46."),
-             ("वा (or)", "वा is not printed in unit 46."),
-             ("तु (but)", "तु is not printed in unit 46.")],
-            "च is the separate particle.", "सामान्येनैव च."),
+        multi("apply", 4, "Which of these words are printed in unit 46?",
+              [("च", "Right: च stands apart at the end."),
+               ("अपि", "अपि is not printed in unit 46."),
+               ("वा", "वा is not printed in unit 46."),
+               ("सामान्येनैव", "Right: printed as one word."),
+               ("तु", "तु is not printed in unit 46.")],
+              [0, 3],
+              "Unit 46 prints सामान्येनैव and च only.",
+              "सामान्येनैव च."),
         mcq("transfer", 5, "By the use of च in unit 46, what does रामो लक्ष्मणश्च mean in a new example?",
             ("Rāma and Lakṣmaṇa", "च after the last word = and."),
             [("Rāma or Lakṣmaṇa", "'Or' would be वा."),
