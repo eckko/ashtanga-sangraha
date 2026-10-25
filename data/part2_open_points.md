@@ -200,3 +200,37 @@
 - Śārīra 10 units 6, 9: notes call printed lines "Units" (lines 10–12; "u3"/"u24" = cards 2 and 13).
 - Śārīra 10 unit 13: data has alpa-aśī (short a); should be alpa-āśī.
 - Śārīra 10 unit 16: śayana-āsana-kuḍya-ādau labelled "dvandva, n. loc. sg."; it ends in ādi, so ādau is masculine.
+- Śārīra 11 unit 21: word data splits ruj-anvitaḥ, but print रुजान्वितः implies रुजा + अन्वितः.
+- Śārīra 11 unit 25: gram label on pādābhyām says "abl. du.", firmer than the notes (abl. or instr.).
+- Śārīra 11 units 15, 16, 23: look metrical but typed prose.
+- Śārīra 11 units 33, 34, 36: typed prose but read as metrical (36 looks like an anuṣṭubh).
+- Śārīra 11 unit 41: typed prose but reads like anuṣṭubh.
+- Śārīra 11 unit 39: print नाभी- (long ī), split has नाभि-; notes silent.
+- Śārīra 11 unit 60: typed prose but sits among verse units and looks metrical; its Hindi word order ("वर्ण आदि से स्वस्थ होने पर भी") reads as if the colour made him healthy.
+- Śārīra 11 unit 52: print घट्टयन्जानुना where regular sandhi gives घट्टयञ्जानुना; not flagged.
+- Śārīra 11 units 7, 10: typed prose but anuṣṭubh-length.
+- Śārīra 11 unit 12: note calls पद् + नाभि → पन्नाभि "regular"; it is optional (पद्नाभि also correct).
+- Śārīra 11 unit 11: split taila-prabha-ānanam (short prabha), gloss says prabhā.
+- Śārīra 11: data glosses śleṣman as "phlegm" (modern name for a doṣa; cards keep it untranslated).
+- Śārīra 11 unit 18: English and Hindi of line 1 lack the conjectural mark for tud-dāha that the data's own note asks for.
+- Śārīra 11 unit 16: note calls lines 26–28 an "object list", but card 15's words are nominative.
+- Doṣa names (v10 data pass changed 108 places to Sanskrit). Doubtful "wind"/vāyu cases left for the owner to decide (doṣa or air/wind?): 202 u2 vāyunā; 202 u137 vāyoḥ; 204 u80 note "or the wind"; 204 u108 vāta-pūrṇam; 204 u111 vāyu-vaśāt; 205 u231 vāyu-buddhi-smṛti-ādīn; 205 u237 vāyuḥ; 207 u25 vāta-vahe; 207 u63 vāyuḥ; 207 u74 vāyu-vaikṛtena. Flatus kept as "wind": 202 u125, 203 u38, 204 u77/79, 207 u18, 208 u117, 211 u23/51, 212 u16.
+- Śārīra 12 unit 14: word split gives godha (short a); notes and stem have godhā.
+- Śārīra 12 unit 47 (line 02.12.61): print श्रद्धावानोऽनुकूलश्च reads as श्रद्धावानः + अनुकूलः, but the split gives श्रद्धावान्.
+- Śārīra 12 unit 28: data calls the clause a "genitive absolute"; the genitives can also simply describe the person "on whose chest".
+- Śārīra 12 unit 1: word split gives only atha for अथातो (ataḥ missing), though both translations render it.
+- Śārīra 12 unit 6: pratyūṣasi labelled "m. loc. sg."; -asi belongs to the neuter pratyūṣas.
+- Śārīra 12 unit 12: dakṣiṇāt labelled "f. abl. sg."; -āt is m. or n.
+- Śārīra 12 unit 13: bhāsa glossed plain "vulture"; the notes say "probable".
+- Śārīra 12 unit 46: notes call the Sāvitrī both "not further identified" and the Gāyatrī (standard).
+- Śārīra 7 cards 62, 63, 66, 67 ("Vāyu (wind)") and 74 ("abnormality of wind (vāyu)"): left as the data has them; owner to decide whether vāyu here is the doṣa.
+- Śārīra 4 card 80: the card now says vāyu, but the unit data still says "wind" (owner to align). Śārīra 6 vātarakta mnemonic uses Hindi "हवा"; left as is.
+- Śārīra 12 unit 46: typed prose but scans as śālinī (two quarters exactly as printed, a third with the flag's guess sarṣapān); owner to decide on type.
+- Śārīra 12 unit 47: word split श्रद्धावान् does not match the print श्रद्धावानो; a text flag would help.
+- Śārīra 12 unit 43: line-2 parse still left open by the data; card asks only about line 1.
+- Śārīra 12 title: दूतादिविज्ञानीय at the opening, दूतादिज्ञानीय in the colophon; both kept as printed.
+- Śārīra 11: ten prose-typed units read as verse (7, 10, 15, 16, 23, 33, 34, 36, 41, 60); type to recheck.
+- Śārīra 11 unit 29: English fixes "within a month" while the note leaves "after a month" open.
+- Śārīra 11 card 36 (036-r3) asks the printed "three fortnights" (as sh10 practice); owner may prefer no question on any time to death.
+- Śārīra 11: aśmarī, kāmalā, apasmāra have no identification label in the data.
+- Cross-chapter reuse of transfer examples (e.g. हिमाचलः in six chapters) is not caught by the per-chapter check; left as is.

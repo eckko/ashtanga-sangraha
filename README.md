@@ -1,6 +1,6 @@
 # अष्टाङ्गसंग्रह: Recall Quiz
 
-Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 9**: 1,519 cards and 9,114 questions (6 per card).
+Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 10**: 1,721 cards and 10,326 questions — all of Śārīrasthāna (chapters 1–12) (6 per card).
 - **Sūtrasthāna 1–5**: 372 cards (one per printed verse-pair), unchanged since version 2.
 - **Śārīrasthāna 1–2**: 284 cards (versions 3 and 4); in version 5 their answer giveaways were removed
   (bracketed right options, typed answers without a plain spelling). Ids unchanged.
@@ -9,10 +9,14 @@ Verse-study quiz for Vāgbhaṭa's Aṣṭāṅga Saṅgraha. **Version 9**: 1,5
 - **Śārīrasthāna 6** (Sirāvibhāga): 141 cards (version 7). In version 7 sandhi rules in Śārīrasthāna 1–6
   also state their conditions (त् + श → च्श, optionally च्छ; त् → न् before a nasal is optional). Ids unchanged.
 - **Śārīrasthāna 7** (Marmavibhāga): 94 cards (version 8).
-- **Śārīrasthāna 8** (Prakṛtibhedīya): 124 cards, new in version 9. In version 9, 44 pictures in Śārīrasthāna 1–8
+- **Śārīrasthāna 8** (Prakṛtibhedīya): 124 cards (version 9). In version 9, 44 pictures in Śārīrasthāna 1–8
   were redrawn narrow so their labels read on a phone.
-- Śārīrasthāna 9–12 are being added: their unit data is in `data/chapter209…212_verses.json`; modules
-  `tools/authored/sh9_*`–`sh11_*` in this version are work in progress and not in the bank.
+- **Śārīrasthāna 9** (Vikṛtāṅgavijñānīya): 52 cards, **10** (Vikṛtehāvijñānīya): 35, **11** (Vikṛtavyādhivijñānīya): 63
+  and **12** (Dūtādivijñānīya): 52, new in version 10. Signs of death (riṣṭa) are stated exactly as printed,
+  with no prognosis or time to death added.
+- In version 10 doṣas are named only in Sanskrit (vāta/vāyu, pitta, kapha/śleṣman) across Śārīrasthāna, and
+  repeated transfer examples within a chapter were replaced. Ids unchanged.
+- Open points about the source text for the data owner: `data/part2_open_points.md`.
 
 Code loads from `eckko/recall-quiz-site-template` tag **2.2.1** via jsDelivr.
 Site: <https://eckko.github.io/ashtanga-sangraha/>
@@ -49,8 +53,8 @@ also accept IAST and plain-letter spelling, with at most one per card.
 
 ## Rebuild
 ```
-B=$(ls tools/authored/ch*_batch_*.py tools/authored/sh[1-8]_batch_*.py | xargs -n1 basename | sed 's/.py//' | paste -sd,)
-BATCHES=$B PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json of this version (Śārīra 9-12 not yet in)
+B=$(ls tools/authored/ch*_batch_*.py tools/authored/sh*_batch_*.py | xargs -n1 basename | sed 's/\.py$//' | sort -V | paste -sd,)
+BATCHES=$B PARTIAL=1 python3 tools/verse/make_bank.py .   # questions.json of this version
 python3 tools/verse/render_images.py .         # images/aids/*.svg (needs node_modules for mermaid-cli)
 python3 <template-2.2.1>/tools/validate_bank.py questions.json
 ```
