@@ -74,10 +74,9 @@ AUTHORED["52"] = {
     "rule": ("For men (नृणाम्), each time a hundred has passed (याते शते शते), वर्षं वर्षं क्षयं याति: 'a year goes to "
              "decay' (or 'year after year it decays'). Line 2 names the measure (मानम्) of life accepted owing to "
              "abundance of merit (पुण्यबाहुल्यात्)."),
-    "limits": ("Low confidence. Typed prose, though the two lines appear metrical (not asked; no metre aid). वर्षं वर्षं "
-               "may be the subject 'a year' or 'year after year'; what decays is not stated; the hundred names no unit. "
-               "Line 2 is short and incomplete (यत् without तत्; आयुषो irregular): no question on its syntax, on what "
-               "decays, or on the case of वर्षम्."),
+    "limits": ("Low confidence. Typed prose; the lines appear metrical (not asked). वर्षं वर्षं may be 'a year' or "
+               "'year after year'; what decays and the hundred's unit are not stated. Line 2 is incomplete (यत् without "
+               "तत्; आयुषो irregular): no question on its syntax, on what decays, or on वर्षम्'s case."),
     "explain_hi": ("इस इकाई में दो छपी पंक्तियाँ (०२.०८.६३ और ०२.०८.६४) साथ ली गई हैं; ये छन्दोबद्ध प्रतीत होती हैं, पर डेटा इन्हें गद्य रखता है। "
                    "मनुष्यों के लिए (नृणाम्), जब-जब सौ बीतते हैं (याते शते शते), ‘एक-एक वर्ष क्षय को जाता है’; दूसरा पठन ‘वर्ष-दर-वर्ष क्षय होता है’ भी सम्भव है। "
                    "किसका क्षय होता है और ‘सौ’ किसके सौ हैं, यह यहाँ नहीं कहा। "
@@ -88,7 +87,7 @@ AUTHORED["52"] = {
     "questions": [
         mcq("pretest", 0, "In unit 52, what does क्षय mean?",
             ("Decay, decline", "क्षय = wasting, decline: क्षयं याति = goes to decay."),
-            [("Growth, gain", "Growth would be वृद्धि, the opposite of क्षय."),
+            [("Growth, increase", "Growth would be वृद्धि, the opposite of क्षय."),
              ("Birth, start", "Birth would be जन्म; क्षय is a decline."),
              ("Rest, sleep", "Sleep would be निद्रा; क्षय is a decline.")],
             "क्षय = decay.",
@@ -110,15 +109,15 @@ AUTHORED["52"] = {
             "Sure: decay as each hundred passes. Open: what decays, and line 2.",
             "Keep to what the lines state."),
         mcq("apply", 4, "In unit 52, what does याते शते शते say?",
-            ("Each time a hundred has passed", "याते = has passed; doubled शते = at each hundred."),
+            ("When each hundred has passed", "याते = has passed; doubled शते = at each hundred."),
             [("Before a hundred has begun", "याते (has gone) marks a hundred already passed."),
              ("When a hundred is yet to come", "याते is a past participle: the hundred has passed."),
-             ("After just one single hundred", "The doubling शते शते means each hundred, not one.")],
+             ("Only after the first hundred", "The doubling शते शते means each hundred, not one.")],
             "याते शते शते = hundred by hundred having passed.",
             "Doubled word = each one in turn."),
         mcq("transfer", 5, "By the pattern of शते शते (at each hundred), what does दिने दिने mean in a new example?",
             ("Day by day, every day", "A doubled noun gives 'each, every': दिने दिने = on each day."),
-            [("On two days only", "Two would need the dual (दिनयोः), not a doubling."),
+            [("On two separate days only", "Two would need the dual (दिनयोः), not a doubling."),
              ("Before the day", "'Before' would need a word like पूर्वम्; the doubling means each."),
              ("Without any day", "'Without' would need विना; the doubling means each.")],
             "दिने दिने = every day, like शते शते = at each hundred.",
@@ -143,7 +142,7 @@ AUTHORED["53"] = {
     "questions": [
         mcq("pretest", 0, "In unit 53, what does बल mean?",
             ("Strength", "बल = strength, power."),
-            [("Measure", "Measure would be मान or प्रमाण."),
+            [("Measure, size", "Measure would be मान or प्रमाण."),
              ("Body", "Body would be देह or शरीर."),
              ("Season", "Season would be ऋतु.")],
             "बल = strength.",
@@ -165,7 +164,7 @@ AUTHORED["53"] = {
             "बलम् (strength) + अपि (also).",
             "म् + vowel → म joined to the vowel."),
         mcq("apply", 4, "Why is त्रिविधम् printed त्रिविधं before भवति in unit 53?",
-            ("Final म् before a consonant → ं", "In a sentence, final म् before a consonant is written as anusvāra."),
+            ("Final म् + consonant → ं", "In a sentence, final म् before a consonant is written as anusvāra."),
             [("Final म् before a vowel → ं", "भ is a consonant; before a vowel म् would join it (बलमपि)."),
              ("ं is the neuter ending itself", "The neuter ending is -म्; ं is how it is written here."),
              ("भ makes the final म् drop", "The म् is not dropped; it is written ं.")],
@@ -222,7 +221,7 @@ AUTHORED["54"] = {
             "सहज = born with."),
         mcq("apply", 4, "By unit 54, strength gained through a skilful method belongs to which kind?",
             ("युक्तिकृत, made by method", "युक्ति = skilful method: युक्तिकृत."),
-            [("सहज, the inborn kind", "सहज is inborn, not gained by method."),
+            [("सहज, the kind one is born with", "सहज is inborn, not gained by method."),
              ("कालकृत, made by time", "कालकृत comes from time, not from method."),
              ("प्राकृत, the natural one", "प्राकृत describes the innate kind (unit 55), not method.")],
             "Method → युक्तिकृत.",
@@ -375,7 +374,7 @@ AUTHORED["57"] = {
         mcq("pretest", 0, "In unit 57, what does वृद्धि mean?",
             ("Increase", "वृद्धि = growth, increase."),
             [("Decay", "Decay would be क्षय (unit 52)."),
-             ("Measure", "Measure would be मान."),
+             ("Measurement", "Measurement would be मान."),
              ("Method", "Method would be युक्ति (unit 54).")],
             "वृद्धि = increase.",
             "वृद्धि = increase."),
@@ -397,7 +396,7 @@ AUTHORED["57"] = {
             "तद्वृद्धिकराः (producers of its increase) + तु (but) + इमे (these).",
             "ः + त → स्त; उ + इ → वि."),
         mcq("apply", 4, "Why is भावाः printed भावा before भवंति in unit 57?",
-            ("आः before a voiced sound drops ः", "भ is voiced: भावाः + भवन्ति → भावा भवन्ति."),
+            ("Before voiced भ, आः loses ः", "भ is voiced: भावाः + भवन्ति → भावा भवन्ति."),
             [("आः before a voiced sound → ओ", "ओ comes from अः, not आः, before a voiced consonant."),
              ("Visarga before भ always → र्", "र् comes after a vowel other than अ/आ before a voiced sound; here it is आ."),
              ("Visarga before भ becomes स्", "स् arises before त or थ; भ is voiced.")],
@@ -430,7 +429,7 @@ AUTHORED["58"] = {
             ("Namely, as follows", "तत् (that) + यथा (as): that is as follows."),
             [("Therefore not so", "No negation is printed; तद्यथा introduces."),
              ("Wherever it is", "That would be यत्र; तद्यथा introduces a list."),
-             ("Thus it is ended", "Ending would be an इति formula.")],
+             ("Thus it is ended here", "Ending would be an इति formula.")],
             "तद्यथा = namely.",
             "तत् + यथा = namely."),
         match(1, "Match each part of unit 58 to its meaning.",
