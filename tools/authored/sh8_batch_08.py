@@ -75,7 +75,7 @@ AUTHORED["89"] = {
     "question": "By unit 89, how long are the little finger and the thumb?",
     "rule": "The little finger (कनिष्ठिका) and the thumb (अङ्गुष्ठ) are three and a half aṅgulas (सार्धत्र्यङ्गुलौ).",
     "limits": ("Prose, one printed line, no verb (copula understood). Printed सार्द्ध = सार्ध (doubling after r, a print "
-               "habit). The dimension (length) is understood, not printed."),
+               "habit). Which dimension is meant is not printed."),
     "explain_hi": ("यह इकाई बाकी दो अंगुलियों का माप देती है: कनिष्ठिका (छोटी अंगुली) और अंगुष्ठ (अँगूठा) साढ़े तीन अंगुल के हैं। "
                    "‘सार्ध’ = स + अर्ध, यानी आधे के साथ; ‘सार्धत्र्यङ्गुल’ = साढ़े तीन अंगुल। "
                    "‘कनिष्ठिकाङ्गुष्ठौ’ दो अंगुलियों का द्वन्द्व समास है, इसलिए द्विवचन। "
@@ -537,7 +537,7 @@ AUTHORED["97"] = {
     "rule": ("Therein (तत्र), the measure as stated (यथोक्तपरिमाणम्) is desirable (इष्टम्); deficient (हीनम्) or "
              "excessive (अधिकम्) is undesirable (अनिष्टम्)."),
     "limits": ("Prose, one printed line; copula understood. The clause division (इष्टम् | अनिष्टं हीनमधिकं वा) is the natural "
-               "reading; हीनम्/अधिकम् could also be read with the measure itself; the sense stays the same. What is measured "
+               "reading; हीनम्/अधिकम् could also be read with the measure itself. What is measured "
                "is not named here."),
     "explain_hi": ("उनमें, जैसा कहा गया वैसा परिमाण (यथोक्तपरिमाणम्) इष्ट है; उससे हीन (कम) या अधिक (ज़्यादा) अनिष्ट है। "
                    "यानी पिछली इकाइयों में दिए अंगुल-माप ही आदर्श हैं, यह डेटा की स्वाभाविक व्याख्या है। "

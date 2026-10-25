@@ -13,11 +13,11 @@ AUTHORED["51"] = {
     "title": "अपिच",
     "question": "What do the two parts of the link अपिच (unit 51) mean, and why do they stay unchanged?",
     "rule": "अपि (also) + च (and) = 'and further': a stock link that opens a further statement. Before the consonant च, the इ of अपि stays.",
-    "limits": ("Prose, one printed word, written without a space. It only links; the data reads the further statement "
-               "in unit 52, and no question rests on that link."),
+    "limits": ("Prose, one printed word, written without a space. It only links; the data takes the further statement "
+               "to appear in unit 52, and no question rests on that link."),
     "explain_hi": ("यह एक शब्द की छोटी गद्य-पंक्ति है: ‘अपि च’, यानी और भी। "
                    "अपि (भी) और च (और) दोनों अव्यय हैं; छपाई में ये बिना जगह के लिखे गए हैं। "
-                   "डेटा के अनुसार आगे की बात इकाई ५२ में है। "
+                   "डेटा के अनुसार आगे की बात सम्भवतः इकाई ५२ में है। "
                    "च व्यंजन है, इसलिए अपि का इ यहाँ नहीं बदलता; स्वर से पहले वह य् बन जाता।"),
     "hook": "अपि च: एक बात और।",
     "core": False,
@@ -25,7 +25,7 @@ AUTHORED["51"] = {
         mcq("pretest", 0, "In unit 51, what job does अपिच do?",
             ("It adds a further point", "अपि च = and further: it opens one more statement."),
             [("It closes the chapter", "A chapter close would be an इति formula; अपि च adds."),
-             ("It asks a question now", "A question would need a word like किम्; अपि च adds."),
+             ("It asks a question now", "No question follows; the data reads अपि च here as 'and further'."),
              ("It denies the last line", "A denial would need न; अपि च adds.")],
             "अपि च = and further.",
             "अपि = also; च = and."),
@@ -82,7 +82,7 @@ AUTHORED["52"] = {
                    "किसका क्षय होता है और ‘सौ’ किसके सौ हैं, यह यहाँ नहीं कहा। "
                    "दूसरी पंक्ति में आयु का वह मान है जो पुण्य की अधिकता से (पुण्यबाहुल्यात्) माना जाता है (इष्यते); पर यह पंक्ति अधूरी है (‘यत्’ का ‘तत्’ नहीं), इसलिए इसकी वाक्य-रचना पर प्रश्न नहीं। "
                    "विश्वास कम है।"),
-    "hook": "शते शते, वर्षं वर्षं: दोहराया शब्द = हर एक।",
+    "hook": "शते शते: दोहराया शब्द = हर एक।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 52, what does क्षय mean?",
@@ -101,13 +101,13 @@ AUTHORED["52"] = {
               "वर्ष = year, क्षय = decay, याति = goes, नृणाम् = for men, शत = hundred.",
               "वर्ष, क्षय, याति, नृणाम्, शत.", role="extend",
               teaches="नृणाम् is the genitive plural of नृ (man); here it means 'for men'."),
-        mcq("discriminate", 3, "Which statement about unit 52 does the card support?",
-            ("What decays is not stated", "The lines say something goes to decay but do not name what."),
-            [("Life grows by a year each time", "क्षयं याति is decay, not growth."),
-             ("Line 2 is a full, clear sentence", "Line 2 is short and has यत् without तत्: it is incomplete."),
-             ("The hundred is said to be days", "No unit is printed with शते; days are not named.")],
-            "Sure: decay as each hundred passes. Open: what decays, and line 2.",
-            "Keep to what the lines state."),
+        mcq("discriminate", 3, "Which statement about line 1 of unit 52 does the card support?",
+            ("Decay comes as each hundred passes", "क्षयं याति ... याते शते शते: decay as each hundred has passed."),
+            [("Growth comes as each hundred passes", "क्षयं याति is decay, not growth (वृद्धि)."),
+             ("Decay comes before any hundred passes", "याते = has passed: the hundred is already gone."),
+             ("Decay is said to come to the gods", "नृणाम् = for men, not for gods.")],
+            "Line 1: for men, decay as each hundred has passed.",
+            "Keep to what line 1 states."),
         mcq("apply", 4, "In unit 52, what does याते शते शते say?",
             ("When each hundred has passed", "याते = has passed; doubled शते = at each hundred."),
             [("Before a hundred has begun", "याते (has gone) marks a hundred already passed."),
@@ -122,7 +122,7 @@ AUTHORED["52"] = {
              ("Without any day", "'Without' would need विना; the doubling means each.")],
             "दिने दिने = every day, like शते शते = at each hundred.",
             "Doubled word = each, every.",
-            teaches="A doubled word (शते शते, वर्षं वर्षं) gives the sense 'each, every, one after another'."),
+            teaches="A doubled word (शते शते) gives the sense 'each, every, one after another'."),
     ],
 }
 
@@ -173,7 +173,7 @@ AUTHORED["53"] = {
         mcq("transfer", 5, "By the pattern of त्रिविधं भवति, how is बलम् + वर्धते (strength grows) written in a new sentence?",
             ("बलं वर्धते", "Final म् before a consonant is written ं: बलं वर्धते."),
             [("बलो वर्धते", "ओ comes from अः before a voiced consonant; बलम् has no visarga."),
-             ("बलर्वर्धते", "र् comes from a visarga after इ or उ before a voiced sound; here there is म्."),
+             ("बलर्वर्धते", "र् comes from a visarga after a vowel other than अ/आ before a voiced sound; बलम् has म्, no visarga."),
              ("बला वर्धते", "आ has no source here; the म् is written ं.")],
             "बलम् + वर्धते = बलं वर्धते, like त्रिविधम् + भवति = त्रिविधं भवति.",
             "Final म् + consonant → ं.",
@@ -321,10 +321,10 @@ AUTHORED["56"] = {
              ("Age", "Age would be वयस् (unit 55).")],
             "आहार = food.",
             "आहार = food."),
-        order(1, "Put the printed parts of unit 56 in order.",
-              ["युक्तिकृतं", "पुनराहारविहारोत्थम्", "उर्जस्करं", "योगजं च"],
-              "Method-made; again, arising from food and way of life; vigour-giving (printed उर्ज-); and born of yoga.",
-              "युक्तिकृतं → पुनराहारविहारोत्थम् → उर्जस्करं → योगजं च."),
+        order(1, "Put these sure parts of unit 56 in the printed order (sandhi undone).",
+              ["युक्तिकृतम्", "पुनर्", "आहार", "विहार", "उत्थम्"],
+              "Method-made; again; food; way of life; arisen from.",
+              "युक्तिकृतम् → पुनर् → आहार → विहार → उत्थम्."),
         match(2, "Match each sure word of unit 56 to its meaning.",
               [["युक्ति", "method, skilful application"], ["पुनः", "again, however"], ["आहार", "food"],
                ["विहार", "way of life"], ["उत्थ", "arisen from"]],
@@ -491,11 +491,9 @@ AUTHORED["59"] = {
             "यौवन = youth.",
             "यौवन = youth."),
         order(1, "Put the conditions of unit 59 in the printed order.",
-              ["बलवत्पुरुषे देशे जन्म", "तद्विधे च काले", "सुखश्च कालयोगो", "बीजक्षेत्रगुणशरीराहारसत्त्वसंपतयः",
-               "स्वभावो यौवनं", "व्यायामो हर्षश्च"],
-              ("Birth in a region of strong men; and in a time of that kind; a pleasant conjunction of time; excellence of "
-               "seed and field (probable) qualities, body, food and mind; disposition, youth; exercise and joy."),
-              "देश → काल → कालयोग → सम्पत्ति → स्वभाव, यौवन → व्यायाम, हर्ष."),
+              ["बलवत्पुरुषे देशे जन्म", "तद्विधे च काले", "सुखश्च कालयोगो", "स्वभावो यौवनं", "व्यायामो हर्षश्च"],
+              "Birth in a region of strong men; and in a time of that kind; a pleasant conjunction of time; disposition, youth; exercise and joy.",
+              "देश → काल → कालयोग → स्वभाव, यौवन → व्यायाम, हर्ष."),
         match(2, "Match each word of unit 59 to its meaning.",
               [["देश", "region"], ["जन्म", "birth"], ["काल", "time"], ["स्वभाव", "natural disposition"],
                ["व्यायाम", "exercise"], ["हर्ष", "joy"]],
@@ -513,7 +511,7 @@ AUTHORED["59"] = {
               [("Grief and worry", "No: the list ends with joy (हर्ष), not grief."),
                ("Birth in a region of strong men", "Right: बलवत्पुरुषे देशे जन्म."),
                ("A pleasant conjunction of time", "Right: सुखः कालयोगः."),
-               ("A body made thin by fasting", "No: the list names excellence of body, not thinness."),
+               ("A body made thin by fasting", "No: thinness is not among the listed conditions."),
                ("Natural disposition", "Right: स्वभावः.")],
               [1, 2, 4],
               "Birth, pleasant time-conjunction, the excellences, disposition, youth, exercise, joy.",
@@ -538,7 +536,7 @@ AUTHORED["60"] = {
     "limits": ("Prose; the print runs many words together. 'Each better than the one before' rests on the conjecture "
                "उत्तरोत्तर for printed अत्तरोत्तर: no question on any ranking. उपदिश्यते is singular beside plural साराणि, "
                "read 'is taught'. Fat, marrow, semen: the data's standard names."),
-    "explain_hi": ("उसी प्रकार आठ सार (धातुओं के सर्वोत्तम गुण) बताए जाते हैं: त्वचा, रक्त, मांस, मेद (चर्बी), अस्थि (हड्डी), मज्जा, शुक्र (वीर्य) और सत्त्व (मन)। "
+    "explain_hi": ("उसी प्रकार आठ सार (सर्वोत्तम तत्त्व) बताए जाते हैं: त्वचा, रक्त, मांस, मेद (चर्बी), अस्थि (हड्डी), मज्जा, शुक्र (वीर्य) और सत्त्व (मन)। "
                    "ये बल का प्रमाण जानने के लिए (बलमानज्ञानार्थम्) सिखाए जाते हैं। "
                    "‘उत्तरोत्तर श्रेष्ठ’ (हर अगला पिछले से श्रेष्ठ) छपे ‘अत्तरोत्तर’ के अनुमानित पाठ पर टिका है, इसलिए किसी क्रम-श्रेष्ठता पर प्रश्न नहीं। "
                    "‘उपदिश्यते’ एकवचन है, ‘साराणि’ बहुवचन; डेटा इसे ‘सिखाया जाता है’ पढ़ता है। "
@@ -660,7 +658,7 @@ AUTHORED["62"] = {
                    "छपा ‘मुच्येत्’ (छूटे) यहाँ अर्थ नहीं देता; ‘मुह्येत्’ (भ्रमित हो) अनुमानित पाठ है, इसलिए क्रिया पर प्रश्न नहीं। "
                    "पक्के अंश: न, भिषक्, और दोनों उद्धृत अनुमान, जिन्हें ‘इति’ बन्द करता है। "
                    "सन्धियाँ: भिषक् + अयम् → भिषगयम् (स्वर से पहले क् → ग्), -त्वात् + वा → -त्वाद्वा (घोष व से पहले त् → द्), दर्शनात् + एव → दर्शनादेव।"),
-    "hook": "मोटा तो बलवान, दुबला तो निर्बल: केवल देखकर ऐसा मत मानो।",
+    "hook": "मोटा तो बलवान, दुबला तो निर्बल: अनुमानित पाठ पर, केवल देखकर ऐसा न मानो।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 62, what does उपचय mean?",
@@ -671,9 +669,9 @@ AUTHORED["62"] = {
             "उपचय = bulk of flesh.",
             "उपचय = plumpness."),
         order(1, "Put these sure parts of unit 62 in the printed order (the doubtful verb is left out).",
-              ["देहमात्रदर्शनादेव", "उपचयेन महाशरीरत्वाद्वा", "बलवानयं", "कृशत्वादल्पशरीरत्वाद्वा", "अल्पबल इति"],
+              ["देहमात्रदर्शनादेव", "उपचयेन महाशरीरत्वाद्वा", "बलवानयं", "कृशत्वादल्पशरीरत्वाद्वा", "अल्पबलइति"],
               "Merely from seeing the body; by bulk or from a large body; this one is strong; from thinness or a small body; of little strength, thus.",
-              "देहमात्रदर्शनादेव → उपचयेन महाशरीरत्वाद्वा → बलवानयं → कृशत्वादल्पशरीरत्वाद्वा → अल्पबल इति."),
+              "देहमात्रदर्शनादेव → उपचयेन महाशरीरत्वाद्वा → बलवानयं → कृशत्वादल्पशरीरत्वाद्वा → अल्पबलइति."),
         match(2, "Match each word of unit 62 to its meaning.",
               [["भिषक्", "physician"], ["देह", "body"], ["मात्र", "merely, only"], ["कृश", "thin"], ["अल्प", "little, small"],
                ["बलवान्", "strong"]],
