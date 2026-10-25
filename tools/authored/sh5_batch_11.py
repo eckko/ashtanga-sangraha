@@ -524,7 +524,7 @@ AUTHORED["136"] = {
         mcq("transfer", 5, "By the ending -एषु (in the ...), which form of ग्राम (village) means in the villages, a new example?",
             ("ग्रामेषु", "An अ-stem takes -एषु for the locative plural, as the compound of unit 136."),
             [("ग्रामाः", "ग्रामाः is the nominative plural, 'the villages'."),
-             ("ग्रामैः", "ग्रामैः is the instrumental plural, 'by the villages'."),
+             ("ग्रामाणाम्", "ग्रामाणाम् is the genitive plural, 'of the villages'."),
              ("ग्रामे", "ग्रामे is the locative singular, 'in the village'.")],
             "ग्रामेषु = in the villages.",
             "अ-stem: locative plural -एषु.",

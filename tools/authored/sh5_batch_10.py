@@ -232,7 +232,7 @@ AUTHORED["118"] = {
             ("व्यवहारः", "इ before a different vowel becomes य्, as विधानि + अस्थीनि → विधान्यस्थीनि."),
             [("वेवहारः", "ए comes from अ + इ, not from इ + अ."),
              ("वीवहारः", "ई comes from इ + इ; here इ meets अ."),
-             ("ववहारः", "The इ does not simply drop; it becomes य्.")],
+             ("वियवहारः", "No य् is added after a kept इ; the इ itself becomes य्.")],
             "वि + अवहारः = व्यवहारः, like विधानि + अस्थीनि = विधान्यस्थीनि.",
             "इ + अ → य.",
             teaches="इ before a different vowel becomes य्: विधानि + अस्थीनि → विधान्यस्थीनि."),

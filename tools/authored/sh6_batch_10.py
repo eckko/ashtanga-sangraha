@@ -116,7 +116,7 @@ AUTHORED["117"] = {
             ("लघ्वन्नम्", "उ before a different vowel becomes व्, as बहु + अल्प → बह्वल्प."),
             [("लघोन्नम्", "ओ comes from अ + उ, not from उ + अ."),
              ("लघून्नम्", "ऊ comes from उ + उ, not from उ + अ."),
-             ("लघुन्नम्", "The अ is not simply lost after उ.")],
+             ("लघुवन्नम्", "व् is not added after a kept उ; the उ itself becomes व्.")],
             "लघु + अन्नम् = लघ्वन्नम्, like बहु + अल्प = बह्वल्प.",
             "उ + a different vowel → व्.",
             teaches="उ before a different vowel becomes व्: बहु + अल्प → बह्वल्प."),

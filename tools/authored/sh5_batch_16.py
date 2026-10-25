@@ -580,7 +580,7 @@ AUTHORED["200"] = {
         mcq("transfer", 5, "By the pattern of हन्वोः (from the feminine हनु), how is in the two children said from शिशु?",
             ("शिश्वोः", "उ before ओ becomes व्, as हनु + ओः → हन्वोः."),
             [("शिशुषु", "शिशुषु is the locative plural, in three or more."),
-             ("शिशू", "शिशू is the nominative dual, 'the two children'."),
+             ("शिशुभ्याम्", "शिशुभ्याम् is the instrumental, dative or ablative dual, not 'in'."),
              ("शिशवोः", "अव् comes from ओ before a vowel; the stem ends in उ, which gives व्.")],
             "शिश्वोः = in the two children, like हन्वोः = in the two jaws.",
             "उ-stem + -ओः → -वोः.",

@@ -301,7 +301,7 @@ AUTHORED["82"] = {
             ("अन्वर्थः", "उ before a different vowel becomes व्, as तु + अन्यत्वम् → त्वन्यत्वम्."),
             [("अनोर्थः", "ओ comes from अ + उ, with अ first; here उ comes first."),
              ("अनूर्थः", "ऊ comes from उ + उ, not उ + अ."),
-             ("अनुर्थः", "The अ does not vanish; the उ becomes व्.")],
+             ("अनुवर्थः", "व् is not added after a kept उ; the उ itself becomes व्.")],
             "अनु + अर्थः = अन्वर्थः, like तु + अन्यत्वम् = त्वन्यत्वम्.",
             "उ + अ → व.",
             teaches="उ before a different vowel becomes व्: तु + अन्यत्वम् → त्वन्यत्वम्."),

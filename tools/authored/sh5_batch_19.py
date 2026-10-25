@@ -466,7 +466,7 @@ AUTHORED["236"] = {
               "परमाणुभेदेन; अतिसौक्ष्म्यात्."),
         mcq("transfer", 5, "By the rule of तु + अवयवाः → त्ववयवाः, how is मनु + अन्तरम् (a Manu's age, a new example) joined?",
             ("मन्वन्तरम्", "उ before अ becomes व्, as तु + अवयवाः → त्ववयवाः."),
-            [("मनोन्तरम्", "ओ comes from अ + उ, not from उ + अ."),
+            [("मनुवन्तरम्", "व् is not added after a kept उ; the उ itself becomes व्."),
              ("मनवन्तरम्", "अव् comes from ओ before a vowel, not from उ."),
              ("मनून्तरम्", "ऊ comes from उ + उ, not from उ + अ.")],
             "मनु + अन्तरम् = मन्वन्तरम्, like तु + अवयवाः = त्ववयवाः.",
