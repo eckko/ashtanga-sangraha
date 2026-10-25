@@ -77,7 +77,7 @@ AUTHORED["27"] = {
                "of the calves. The stray anusvāra in जायंतेंऽताय is flagged. The यस्य clause continues in card 28. 'End' is of "
                "life only by context."),
     "explain_hi": ("पहली पंक्ति कार्ड २६ के लक्षणों को पूरा करती है: ये विशेष रूप से दुर्बल देहधारी के अन्त के लिए उत्पन्न होते हैं। "
-                   "‘दुर्बलस्य’ और ‘देहिनः’ दोनों षष्ठी एकवचन हैं और साथ लिए गए: दुर्बल देही का। "
+                   "‘दुर्बलस्य’ षष्ठी एकवचन है; ‘देहिनः’ भी षष्ठी एकवचन हो सकता है, इसलिए डेटा दोनों को साथ लेता है: दुर्बल देही का। "
                    "दूसरी पंक्ति नया रोगी आरम्भ करती है: जिसकी सूजन पैर में स्थित है और जिसकी दोनों पिंडलियाँ (पिण्डिके) अनुमानित पाठ पर ढीली हैं। "
                    "छपा ‘परित्रस्ते’ (डरी हुई) पिंडलियों पर नहीं बैठता; ‘परिस्रस्ते’ (ढीली) अनुमान है, इसलिए उस पर प्रश्न नहीं। "
                    "यह वाक्य कार्ड २८ में पूरा होता है।"),
@@ -111,10 +111,10 @@ AUTHORED["27"] = {
             "दुर्बल = weak; देहिन् = embodied one."),
         mcq("apply", 4, "In card 27, why are दुर्बलस्य and देहिनः read together as 'of a weak embodied one'?",
             ("Both are genitive singular", "दुर्बलस्य and देहिनः are both m. gen. sg.: so they go together."),
-            [("Both are nominative plural", "-स्य and -इनः are genitive singular endings, not nominative plural."),
-             ("Both are dative singular", "The dative of this card is अन्ताय; -स्य and -इनः are genitive."),
+            [("Both are nominative plural", "दुर्बलस्य (-अस्य) can only be genitive singular, so the pair is not nominative plural (देहिनः alone could be)."),
+             ("Both are dative singular", "The dative of this card is अन्ताय; दुर्बलस्य is genitive singular, and देहिनः is not a dative form."),
              ("Both are present verbs", "The verb is जायन्ते; दुर्बलस्य and देहिनः are nouns.")],
-            "-अस्य (दुर्बलस्य) and -इनः (देहिनः) are genitive singular endings.",
+            "दुर्बलस्य is genitive singular; देहिनः can be genitive singular too, so the data reads them together.",
             "Words in the same case, number and gender go together."),
         mcq("transfer", 5, "By the pattern of पादस्थः (situated in the foot), what does वृक्षस्थः mean in a new example?",
             ("Situated in a tree", "-स्थ = standing, situated in: वृक्ष (tree) + स्थः = situated in a tree."),
@@ -131,7 +131,7 @@ AUTHORED["27"] = {
 AUTHORED["28"] = {
     "title": "तं भिषक् परिवर्जयेत्",
     "question": "By card 28, what does the physician do with the patient of cards 27 and 28, and what does line 2 begin?",
-    "rule": ("Line 1 ends the यस्य clause of card 27: and whose two thighs (सक्थिनी) sink, him (तम्) the physician (भिषक्) "
+    "rule": ("Line 1 ends the यस्य clause of card 27: and whose two thighs (सक्थिनी) sink (सीदतः taken as a dual verb; the data leaves a participle reading open), him (तम्) the physician (भिषक्) "
              "should avoid (परिवर्जयेत्). Line 2 begins a new sign: face (आननम्) and hands and feet (हस्तपादौ)."),
     "limits": ("Verse, LOW confidence. सीदतः may be a dual verb or a genitive participle; शुष्यतः likewise; विशेषायस्य is flagged "
                "(probably विशेषाद् यस्य); line 2 has no verb (in card 29): no question on any of these parses or on line 2's sense."),
@@ -140,7 +140,7 @@ AUTHORED["28"] = {
                    "डेटा ‘सीदतः’ को द्विवचन क्रिया लेता है, पर षष्ठी कृदन्त भी सम्भव है; इसलिए इस पर प्रश्न नहीं। "
                    "दूसरी पंक्ति नया लक्षण शुरू करती है: सूखते हुए जिसके मुख और हाथ-पैर विशेष रूप से ... ; इसकी क्रिया कार्ड २९ में है और अर्थ पक्का नहीं। "
                    "‘चैव’ में च + एव की सन्धि है (अ + ए → ऐ)।"),
-    "hook": "पैर में सूजन, पिंडली, जाँघ धँसे: वैद्य छोड़ दे।",
+    "hook": "पैर में सूजन, फिर पिंडलियाँ और जाँघें: ‘तं भिषक् परिवर्जयेत्’।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 28, what does सक्थिनी mean?",
@@ -157,11 +157,11 @@ AUTHORED["28"] = {
               "सक्थिनी, भिषक्, परिवर्जयेत्, आननम्, हस्तपादौ."),
         order(2, "Put the printed words of line 1 of card 28 in the printed order.",
               ["सीदतः", "सक्थिनी", "चैव", "तं", "भिषक्", "परिवर्जयेत्"],
-              "सीदतः सक्थिनी चैव तं भिषक् परिवर्जयेत्: the thighs sink, and him the physician should avoid.",
+              "सीदतः सक्थिनी चैव तं भिषक् परिवर्जयेत्: ... and him the physician should avoid.",
               "सीदतः → सक्थिनी → चैव → तं → भिषक् → परिवर्जयेत्.",
               role="extend",
               teaches="तम् (him) picks up the यस्य (whose) clause begun in card 27: whose ..., him the physician should avoid."),
-        mcq("discriminate", 3, "By card 28, who should avoid the patient whose thighs sink?",
+        mcq("discriminate", 3, "In line 1 of card 28, who is to avoid him (तम्)?",
             ("The physician", "तं भिषक् परिवर्जयेत्: the physician (भिषक्) should avoid him."),
             [("His own kin", "The card names the physician (भिषक्), not the kin."),
              ("The patient", "The patient is the one avoided (तम्), not the one who avoids."),
@@ -193,7 +193,7 @@ AUTHORED["29"] = {
     "rule": ("Line 1 closes card 28's sign: (they) swell, or swell apart from the body; he goes to pañcatā (पञ्चता, death) "
              "from a month (मासात्). Line 2: whoever has udara or swelling does not see his own penis (मेहनम्)."),
     "limits": ("Verse, medium confidence. मासात् is read 'within a month'; 'after a month' is possible: no question on which. "
-               "The link to card 28 is an inference. Line 2 states no outcome or reason. Udara as ascites-type is probable only."),
+               "The link to card 28 is an inference. Line 2 states no outcome or reason. Udara as ascites-type is probable only. Printed शूंयंते has a flagged stray anusvāra (read शूयन्ते)."),
     "explain_hi": ("पहली पंक्ति कार्ड २८ के लक्षण को पूरा करती है (सम्भवतः): सूजते हैं, या देह से अलग सूजते हैं; वह मास से पञ्चता यानी मृत्यु को पाता है। "
                    "‘पञ्चता’ (पाँच का भाव, पाँच भूतों में लौटना) मृत्यु का सामान्य मुहावरा है। "
                    "‘मासात्’ डेटा में ‘मास के भीतर’ लिया गया; ‘मास के बाद’ भी सम्भव, इसलिए इस पर प्रश्न नहीं। "
@@ -273,11 +273,11 @@ AUTHORED["30"] = {
               ["कास", "वैवर्ण्य", "ज्वर", "मूर्च्छा", "अंगभंग"],
               "कास-वैवर्ण्य-ज्वर-मूर्च्छा-अंगभंग-वान्: cough, discolouration, fever, fainting, breaking pain in the limbs.",
               "कास → वैवर्ण्य → ज्वर → मूर्च्छा → अंगभंग."),
-        match(2, "Match each part of the compound in card 30 to its meaning.",
-              [["कास", "cough"], ["वैवर्ण्य", "discolouration"], ["ज्वर", "fever"], ["मूर्च्छा", "fainting"],
+        match(2, "Match each word of card 30 to its meaning.",
+              [["परिधानं", "garment"], ["तिष्ठति", "stays"], ["कास", "cough"], ["वैवर्ण्य", "discolouration"],
                ["अंगभंग", "breaking pain in the limbs"]],
-              "कास = cough, वैवर्ण्य = discolouration, ज्वर = fever, मूर्च्छा = fainting, अंगभंग = breaking pain in the limbs.",
-              "कास, वैवर्ण्य, ज्वर, मूर्च्छा, अंगभंग.",
+              "परिधानं = garment, तिष्ठति = stays, कास = cough, वैवर्ण्य = discolouration, अंगभंग = breaking pain in the limbs.",
+              "परिधानं, तिष्ठति, कास, वैवर्ण्य, अंगभंग.",
               role="extend",
               teaches="वैवर्ण्य is formed from वि-वर्ण (off-colour): the state of being discoloured."),
         mcq("discriminate", 3, "In card 30, which word does the masculine compound ending in -वान् (having) agree with?",
@@ -457,13 +457,13 @@ AUTHORED["33"] = {
               "मोह → ज्वरान्वितं → संकोच → स्फोट → कोथवत्.",
               role="extend",
               teaches="The -वत् at the very end turns the whole list संकोच-स्फोट-कोथ into 'having' them."),
-        multi("discriminate", 3, "Which of these stretches of card 33 can be read?",
-              [("संकोचस्फोटकोथवत्", "Right: the end of line 2 is a clear list."),
-               ("सूर्च्छायमदास्वम", "No: this middle stretch of line 1 is unreadable."),
-               ("शिरोपहारुचिश्वारस", "No: this opening stretch of line 2 is unreadable."),
-               ("ज्वरान्वितं", "Right: 'accompanied by fever' is clear.")],
-              [0, 3],
-              "Clear: मोह, ज्वरान्वितम्, संकोच-स्फोट-कोथ-वत्. Unreadable: two stretches, left as 'unclear' in the data.",
+        multi("discriminate", 3, "Which of these does the readable part of card 33 name?",
+              [("संकोच (contraction)", "Right: संकोच-स्फोट-कोथ-वत्."),
+               ("तृष्णा (thirst)", "No: thirst is in card 32 and card 34, not in card 33's readable part."),
+               ("मोह (delusion)", "Right: मोह opens the readable part of line 1."),
+               ("कम्प (tremor)", "No: tremor is in card 32, not in card 33's readable part.")],
+              [0, 2],
+              "Readable: मोह, ज्वरान्वितम्, संकोच, स्फोट, कोथ (-वत्).",
               "Learn only the sure parts of a damaged line."),
         mcq("apply", 4, "In कोथवत् of card 33, what does the ending -वत् add, by the data?",
             ("Having", "-वत् here = having: संकोच-स्फोट-कोथ-वत्, having contraction, blisters and putrefaction."),
@@ -487,7 +487,7 @@ AUTHORED["33"] = {
 AUTHORED["34"] = {
     "title": "घ्नन्ति सर्वामयाः",
     "question": "By card 34, whom do all diseases kill, and by which complaints?",
-    "rule": ("By head disease, distaste for food, breathlessness, meha (urinary disorder, prameha group; probable), loose stool, "
+    "rule": ("Apparently (data: 'appears to') by head disease, distaste for food, breathlessness, meha (urinary disorder, prameha group; probable), loose stool, "
              "thirst and giddiness, all diseases (सर्वामयाः) kill (घ्नन्ति) one whose voice, dhātus, strength and fire are wasted."),
     "limits": ("Prose, medium confidence. Line 2 is a complete clause; whether घ्नन्ति also closes cards 32 and 33 is not "
                "established. 'vidbhed' lacks a final a (flagged); anala as digestive fire and meha as prameha are probable. No "
@@ -572,7 +572,7 @@ AUTHORED["35"] = {
               "वातव्याधिः → अपस्मारी → कुष्ठी → क्षयी → गुल्मी → मेही."),
         match(2, "Match each patient of card 35 to his complaint.",
               [["अपस्मारी", "one with epilepsy (apasmāra)"], ["कुष्ठी", "one with kuṣṭha (skin disease)"],
-               ["गुल्मी", "one with an abdominal lump (gulma)"], ["मेही", "one with meha (urinary disorder)"],
+               ["गुल्मी", "one with an abdominal lump (gulma)"], ["मेही", "one with meha (urinary disorder; probable)"],
                ["क्षयी", "one with kṣaya (wasting)"]],
               "अपस्मारी = epilepsy, कुष्ठी = kuṣṭha, गुल्मी = gulma, मेही = meha, क्षयी = kṣaya (wasting).",
               "अपस्मारी, कुष्ठी, गुल्मी, मेही, क्षयी.",
@@ -655,7 +655,7 @@ AUTHORED["36"] = {
             ("He stays for two months", "The accusative of time gives the span: द्वौ मासौ, for two months."),
             [("He stays in month two", "'In the second month' would be द्वितीये मासे (locative)."),
              ("He stays after two months", "'After' would need a word like अनन्तरम्; the accusative gives the span."),
-             ("He stays as two months pass", "That would need a different construction; the accusative gives the span.")],
+             ("He counts two months", "Counting would be गणयति; वसति = stays, and the accusative gives the span.")],
             "द्वौ मासौ वसति = he stays for two months, like त्रीन् पक्षान् जीवति = he lives for three fortnights.",
             "Accusative of time = how long.",
             teaches="An accusative of time states the span of an action: त्रीन् पक्षान् जीवति = lives for three fortnights."),
@@ -711,13 +711,13 @@ AUTHORED["37"] = {
             "Adjectives agree with their noun: वाताष्ठीला (f. nom. sg.).",
             "Agreement in gender, case and number."),
         mcq("transfer", 5, "By the pattern of तिष्ठंती (remaining, feminine), what does गच्छन्ती mean in a new example?",
-            ("She who is going", "-अन्ती is the feminine present participle: गच्छन्ती = (she who is) going."),
+            ("She who is going", "-न्ती on the present stem gives the feminine present participle: गच्छ + न्ती = गच्छन्ती, (she who is) going."),
             [("She who has gone", "Having gone would be गता (past participle), not गच्छन्ती."),
              ("She who will go", "Will go would be the future गमिष्यन्ती, not गच्छन्ती."),
              ("In order to go", "In order to go is the infinitive गन्तुम्, not गच्छन्ती.")],
             "गच्छन्ती = going (f.), like तिष्ठन्ती = remaining (f.).",
-            "Present stem + -अन्ती = feminine present participle.",
-            teaches="The feminine present participle ends in -अन्ती: तिष्ठ- + अन्ती → तिष्ठन्ती (remaining)."),
+            "Present stem in -अ + -न्ती = feminine present participle.",
+            teaches="The feminine present participle of a thematic verb adds -न्ती to the present stem: तिष्ठ + न्ती → तिष्ठन्ती (remaining)."),
     ],
 }
 
@@ -728,10 +728,10 @@ AUTHORED["38"] = {
     "rule": ("The wind (वायुः), having brought (नीत्वा) the two calves to slackness (शैथिल्यम्) and the nose to crookedness "
              "(conjectural), or, of a wasted one, having drawn tight (आयम्य) the two manyā, at once steals life."),
     "limits": ("Verse, medium confidence. Printed जिह्रतां is no word; crookedness (जिह्मताम्) is a conjecture: no question on the "
-               "nose. manyā as the side of the neck is probable. How वा joins the two actions is the data's reading."),
+               "nose's state. manyā as the side of the neck is probable. How वा joins the two actions is the data's reading."),
     "explain_hi": ("वायु दोनों पिंडलियों को शिथिलता में (शैथिल्यं पिण्डिके) और नाक को अनुमानित पाठ पर टेढ़ेपन में ले जाकर (नीत्वा), "
                    "या क्षीण हुए व्यक्ति की दोनों मन्या (सम्भवतः गर्दन के पार्श्व) को खींचकर (आयम्य), तुरन्त जीवन हर लेता है। "
-                   "छपा ‘जिह्रतां’ कोई शब्द नहीं; ‘जिह्मताम्’ अनुमान है, इसलिए नाक पर प्रश्न नहीं। "
+                   "छपा ‘जिह्रतां’ कोई शब्द नहीं; ‘जिह्मताम्’ अनुमान है, इसलिए नाक की अवस्था पर प्रश्न नहीं। "
                    "‘नीत्वा’ बिना उपसर्ग का क्त्वा-रूप है, ‘आयम्य’ उपसर्ग आ- के कारण ल्यप् (-य) रूप; दोनों मुख्य क्रिया ‘मुष्णाति’ से पहले की क्रियाएँ हैं। "
                    "‘वायुर्नीत्वा’ में वायुः + नीत्वा: उ के बाद विसर्ग घोष न से पहले र्।"),
     "hook": "पिंडली ढीली या मन्या तनी: वायु तुरन्त जीवन हरे।",
@@ -838,7 +838,7 @@ NOTES_HI = {
            "आ के बाद छपा अवग्रह छपाई की आदत है (आ + अ → आ)। अष्ठीला परम्परागत शब्द, कोई आधुनिक नाम नहीं। कर्ता स्त्रीलिङ्ग वाताष्ठीला। "
            "सन्धि जाँची: वात + अष्ठीला → वाताष्ठीला (अ + अ → आ); सद्यः + मुष्णाति → सद्यो मुष्णाति (अः + घोष व्यंजन → ओ)।"),
     "38": ("श्लोक; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.७२ और ०२.११.७३)। पाठ-चिह्न (सम्भव): ‘जिह्रतां’ कोई शब्द नहीं; ‘जिह्मतां’ "
-           "(टेढ़ापन) अनुमान (म/र भूल); नाक पर प्रश्न नहीं। ‘पिण्डिके’ और ‘नासाम्’ दोनों ‘नीत्वा’ के कर्म, दूसरी द्वितीया अवस्था बताती है। "
+           "(टेढ़ापन) अनुमान (म/र भूल); नाक की अवस्था पर प्रश्न नहीं। ‘पिण्डिके’ और ‘नासाम्’ दोनों ‘नीत्वा’ के कर्म, दूसरी द्वितीया अवस्था बताती है। "
            "‘वा’ दोनों क्रियाओं को जोड़ता है (डेटा का पाठ)। मन्या = सम्भवतः गर्दन का पार्श्व। कर्ता वायु पहली पंक्ति से। सन्धि जाँची: वायुः + "
            "नीत्वा → वायुर्नीत्वा (उ के बाद विसर्ग, घोष से पहले → र्); क्षीणस्य + आयम्य → क्षीणस्यायम्य (अ + आ → आ); सद्यः + मुष्णाति → "
            "सद्यो मुष्णाति (अः + घोष व्यंजन → ओ)।"),
@@ -910,7 +910,7 @@ AIDS = {
             {"label": "कब वर्ज्य", "items": ["क्षीण हों तो", "थोड़े विकार में भी"]}]},
         "sandhi": ("इ के बाद विसर्ग, स्वर से पहले → र्: वातव्याधिः + अपस्मारी → वातव्याधिरपस्मारी · ए + अ → एऽ: विकारे + अल्पे + अपि → "
                    "विकारेऽल्पेऽपि।"),
-        "pegs": "‘-ई’ वाले सब रोगी: अपस्मारी, कुष्ठी, उदरी, क्षयी, गुल्मी, मेही; पहला ‘वातव्याधि’ अकेला बिना -ई। (मेरा बनाया स्मरण-सूत्र)",
+        "pegs": "‘-ई’ वाले पक्के रोगी: अपस्मारी, कुष्ठी, उदरी, क्षयी, गुल्मी, मेही (अनिश्चित ‘रत्त्युदरी’ छोड़ा); पहला ‘वातव्याधि’ अकेला बिना -ई। (मेरा बनाया स्मरण-सूत्र)",
     },
     "36": {
         "chunks": "बलमांसक्षयस्तीव्रो | रोगवृद्धिररोचकः || यस्यातुरस्य | लक्ष्यंते | त्रीन् पक्षाञ्स जीवति",
@@ -947,7 +947,7 @@ IMAGE_SPECS = {
         "alt": ("Chain of card 30: the five complaints joined to visarpa in printed order: cough, discolouration, fever, "
                 "fainting, breaking pain in the limbs."),
         "type": "chain",
-        "title": "कार्ड ३०: विसर्प (सम्भावित) के साथ, क्रम से",
+        "title": "कार्ड ३०: विसर्प के साथ, क्रम से",
         "steps": ["१ कास (खाँसी)", "२ वैवर्ण्य (रंग बिगड़ना)", "३ ज्वर", "४ मूर्च्छा", "५ अङ्गभङ्ग (अंगों की टूटन)"],
     },
     ("32", "contrast"): {
@@ -965,7 +965,7 @@ IMAGE_SPECS = {
                 "head disease, distaste for food, breathlessness, meha, loose stool, thirst and giddiness."),
         "type": "chain",
         "title": "कार्ड ३४: किनसे, कौन, किसे",
-        "steps": ["किनसे (क्रम से): १ शिरोरोग २ अरुचि ३ श्वास ४ मेह", "५ विद्भेद् ६ तृड् ७ भ्रम", "सर्वामयाः घ्नन्ति: सभी रोग मारते हैं",
+        "steps": ["किनसे (क्रम से): १ शिरोरोग २ अरुचि ३ श्वास ४ मेह", "५ विद्भेद् ६ तृड् ७ भ्रम", "सर्वामयाः घ्नन्ति (सम्भवतः इनसे)",
                   "किसे: जिसके स्वर, धातु, बल, अनल क्षीण"],
     },
     ("35", "diagram"): {
@@ -988,11 +988,11 @@ IMAGE_SPECS = {
     },
     ("38", "seesaw"): {
         "file": "sh11-shaithilya-38.svg",
-        "alt": ("Split of card 38: the wind brings the two calves to slackness, or draws the two manyā tight (side of the "
-                "neck, probable); either way it at once steals life."),
+        "alt": ("Split of card 38: the wind brings the two calves to slackness, or, in a wasted one, draws the two manyā "
+                "tight (side of the neck, probable); either way it at once steals life."),
         "type": "split",
         "title": "कार्ड ३८: ढीला या तना",
         "cols": [["नीत्वा", ["दोनों पिंडलियाँ", "शैथिल्य (ढीली)", "सद्यो मुष्णाति जीवितम्"]],
-                 ["आयम्य", ["दोनों मन्या (सम्भावित)", "खिंची, तनी", "सद्यो मुष्णाति जीवितम्"]]],
+                 ["आयम्य", ["क्षीण की दोनों मन्या", "खिंची, तनी", "सद्यो मुष्णाति जीवितम्"]]],
     },
 }

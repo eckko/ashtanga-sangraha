@@ -14,10 +14,10 @@ AUTHORED["39"] = {
     "question": "By card 39, where does the strong one (taken as the wind) go, settle and take hold?",
     "rule": ("Having gone to the space between navel and anus (नाभीगुदांतरं गत्वा), or settling in the two groins "
              "(वंक्षणौ समाश्रयन्), having seized the anus and the heart (पायुहृदये), the strong one (बली)."),
-    "limits": ("No main verb: the data takes cards 39 to 42 as one run, verb मुष्णाति (card 42), subject the wind. "
+    "limits": ("No main verb: the data says cards 39 to 42 (to the end of card 42, line 1) appear to form one run, verb मुष्णाति (card 42), subject the wind. "
                "That बली is the wind is an inference, and how क्षीणदेहस्य वा attaches is unclear: no question on either, "
                "nor on the case of पायुहृदये. Printed नाभी-, split नाभि-."),
-    "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से ४२ एक ही वाक्य हैं, जिसकी क्रिया "
+    "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से कार्ड ४२ की पहली पंक्ति तक एक ही वाक्य प्रतीत होता है, जिसकी क्रिया "
                    "‘मुष्णाति’ (हर लेता है) कार्ड ४२ में है और कर्ता वायु (मारुत) है। "
                    "यहाँ तीन बातें गिनाई गई हैं: नाभि और गुदा के बीच के स्थान में जाना, या दोनों वंक्षण (जाँघ और पेट के जोड़) में आश्रय लेना, "
                    "और गुदा (पायु) तथा हृदय को पकड़ना। "
@@ -137,7 +137,7 @@ AUTHORED["41"] = {
     "rule": ("Or producing breathlessness (श्वासम्), the wind (वायुः), having seized the anus and the groins (गुदवंक्षणौ), "
              "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), the wind (मारुतः)."),
     "limits": ("Typed as prose in the data: nothing is asked about metre. No main verb: the run of cards 39 to 42 ends in "
-               "मुष्णाति (card 42). पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on it, "
+               "मुष्णाति (card 42). पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on the space or on the stem पर्शुक/पर्शुका (अग्राणि = tips is sure), "
                "nor on the number of गुदवंक्षणौ."),
     "explain_hi": ("शृंखला का तीसरा भाग। यहाँ कर्ता दो बार नाम से आता है: पहली पंक्ति में ‘वायुः’, दूसरी में ‘मारुतः’; दोनों एक ही वायु। "
                    "बताए गए कार्य: श्वास (साँस की कठिनाई) उत्पन्न करना, गुदा और वंक्षण को पकड़ना, फैलना, पसलियों के अग्र भागों और वक्ष (उरः) को पकड़ना। "
@@ -253,7 +253,7 @@ AUTHORED["43"] = {
     "question": "By card 43, what arises in one about to die, and what is said of sweat at daybreak?",
     "rule": ("And loosening of the joints (सन्धीनां विश्लेषणम्) arises (उपजायते) in one about to die (मुमूर्षोः), with the "
              "signs of card 42, line 2. Line 2: he from whose face sweat drips profusely (भृशम्) at daybreak (गोसर्गे)."),
-    "limits": ("High confidence. Line 1 completes the statement begun in card 42, line 2. Line 2 has no main clause here: the data "
+    "limits": ("High confidence. Line 1 appears (data's grouping) to complete the statement begun in card 42, line 2. Line 2 has no main clause here: the data "
                "takes 'तस्य जीवितम्' of card 44 as its end. वदन is taken as the face (it can also mean the mouth)."),
     "explain_hi": ("पहली पंक्ति कार्ड ४२ की दूसरी पंक्ति की सूची पूरी करती है: ज्वर-सन्ताप, तृष्णा, मूर्छा, बलक्षय और सन्धियों का ढीला होना "
                    "मुमूर्षु (मरणासन्न) में उत्पन्न होते हैं (उपजायते)। ‘उपजायते’ -यते पर समाप्त होता है, पर कर्मवाच्य नहीं; √जन् का यही रूप ‘उत्पन्न होता है’ है। "
@@ -275,7 +275,7 @@ AUTHORED["43"] = {
               "विश्लेषणम् = loosening, सन्धीनाम् = of the joints, मुमूर्षोः = of one about to die, स्वेदः = sweat, भृशम् = profusely.",
               "विश्लेषणम्, सन्धीनाम्, मुमूर्षोः, स्वेदः, भृशम्."),
         fill(2, "In card 43, the word for 'sweat' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("स्वेदः", "svedaḥ", "स्वेद"),
+             accepts("स्वेदः", "svedaḥ", "स्वेद", "svedah"),
              "स्वेदः = sweat: स्वेदः प्रच्यवते भृशम्, sweat drips profusely.",
              "स्वेद means sweat; स्वेदः is its nominative singular, the subject of प्रच्यवते.",
              "स्वेदः = sweat."),
@@ -348,7 +348,7 @@ AUTHORED["44"] = {
             "आः + voiced sound → आ."),
         mcq("apply", 4, "By the data of card 44, what does the name masūrikā point to?",
             ("Lentil-like eruptions", "masūra = lentil: masūrikā are lentil-like eruptions, probably a pox-type disease."),
-            [("A coating-type fever", "That is lepa-jvara, a separate word of line 1."),
+            [("Cracks of the lips", "No lips are named in card 44."),
              ("Swellings of the eyes", "No eyes are named in card 44."),
              ("Pellets of coral", "Coral pellets give their look (प्रबालगुलिकाभासा), not the name.")],
             "मसूरिका = lentil-like eruptions (probably pox-type).",
@@ -430,7 +430,7 @@ AUTHORED["46"] = {
     "rule": ("Blisters (विस्फोटाः) with the mouth turned inward (अन्तर्वक्त्र) and looking like kiṇa (probably a scar or "
              "callus) are body-destroying (देहनाशनाः). Line 2: jaundice (कामला) in the two eyes, the face full (मुखं पूर्णम्), "
              "loss of flesh in the two temples (शङ्खयोः)."),
-    "limits": ("Medium confidence. kiṇa is uncertain: no question on it. Printed अंतर्वक्त्रा probably lacks a visarga "
+    "limits": ("Medium confidence. What kiṇa is, is uncertain: no question on its sense (the sandhi किणाभाः + च is sure). Printed अंतर्वक्त्रा probably lacks a visarga "
                "(flagged): no question on it. Line 2 has no verb; the data says card 47 completes it. कामला अक्ष्णोः may be "
                "one compound; the case of अक्ष्णोः is open."),
     "explain_hi": ("पहली पंक्ति में देह का नाश करने वाले विस्फोट (फफोले) बताए गए: भीतर की ओर मुख वाले और किण के समान दिखने वाले; "
@@ -488,7 +488,7 @@ AUTHORED["47"] = {
     "title": "यस्य तं परिवर्जयेत्",
     "question": "By card 47, line 1, which further signs are named, and what does the text say of such a one?",
     "rule": ("He in whom there is fright (सन्त्रासः) and heat in the body (उष्णता अङ्गे), him one should avoid "
-             "(तं परिवर्जयेत्): this completes the sentence of card 46, line 2. The sense of line 2 is doubtful."),
+             "(तं परिवर्जयेत्): by the data's grouping this appears to complete the sentence of card 46, line 2. The sense of line 2 is doubtful."),
     "limits": ("Low confidence. Line 2 (अकस्मादनुधावच्च विघृष्टं त्वक्समाश्रयं) is given literally; its neuter forms do not agree "
                "with the wounds (व्रणाः) of card 49 that cards 47 to 49 seem to describe: no question on line 2. The agent of "
                "परिवर्जयेत् is not stated ('one')."),
@@ -637,7 +637,7 @@ AUTHORED["49"] = {
               "वातजः = Vāta-born, पित्तजः = Pitta-born, दाहाय = for burning.",
               "अन्तर्दाहाः, निरूष्माणः, प्राणनाशकराः, वातजः, पित्तजः, दाहाय."),
         fill(2, "In card 49, the word for 'for pain' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("शूलाय", "śūlāya"),
+             accepts("शूलाय", "śūlāya", "shulaya"),
              "शूलाय = for pain: यो वातजो न शूलाय, the Vāta-born which would not be for pain.",
              "-आय is the dative singular of an अ-stem: here it says 'for' (purpose).",
              "शूलाय = for pain."),
@@ -670,8 +670,8 @@ AUTHORED["49"] = {
 AUTHORED["50"] = {
     "title": "कफजो न च पूयाय",
     "question": "By card 50, what would the Kapha-born and the marma-born one not be for, and how is something seen?",
-    "rule": ("The Kapha-born (one) which would not be for pus (न पूयाय), and the marma-born (marma = a vital spot) which is not "
-             "for pain (रुजे न). Line 2: where one without powder (अचूर्णः) looks as if strewn with powder (चूर्णकीर्णाभः) "
+    "rule": ("The Kapha-born (one) which would not be for pus (न पूयाय), and the marma-born (marma = a vital spot) which would not "
+             "be for pain (रुजे न). Line 2: where one without powder (अचूर्णः) looks as if strewn with powder (चूर्णकीर्णाभः) "
              "and is suddenly seen (अकस्मात् दृश्यते)."),
     "limits": ("The noun and the verb of line 1 are carried from card 49 and not supplied. The noun of line 2 is not stated "
                "(probably a wound) and the data says it continues in card 51. Marma is a doctrinal term: no modern equivalent."),
@@ -753,7 +753,7 @@ NOTES_HI = {
            "सन्धि जाँची: गुलिका + आभासाः → गुलिकाभासाः (आ + आ → आ); -आभासाः + यस्य → -आभासा यस्य (आः घोष से पहले विसर्ग खोता है)।"),
     "45": ("पद्य; विश्वास उच्च; छपी पंक्तियाँ ०२.११.८६ और ०२.११.८७; कोई पाठ-चिह्न नहीं। ‘विनश्यन्ति’ का बहुवचन कर्ता नहीं छपा (सम्भवतः कार्ड ४४ की मसूरिकाएँ), "
            "अनुवाद में जोड़ा नहीं गया। छपा ‘विदळ’ में ळ छपाई की आदत (= विदल)। पंक्ति ८७ के विशेषण डेटा के अनुसार पंक्ति ८८ (कार्ड ४६) के ‘विस्फोटाः’ के लगते हैं। "
-           "छपा ‘विनश्यंतिन’ = विनश्यन्ति न (रिक्त स्थान छूटा)। सन्धि जाँची: उत्पद्य + आशु → उत्पद्याशु (अ + आ → आ); चिरात् + सः → चिरात्स (सः व्यंजन से पहले विसर्ग खोता है); "
+           "छपा ‘विनश्यंतिन’ = विनश्यन्ति न (रिक्त स्थान छूटा)। सन्धि जाँची: उत्पद्य + आशु → उत्पद्याशु (अ + आ → आ); सः + विनश्यति → स विनश्यति (सः का विसर्ग व्यंजन से पहले लुप्त); ‘चिरात्स’ = चिरात् स (रिक्त स्थान के बिना छपा); "
            "-प्रख्याः + तथा → -प्रख्यास्तथा (त से पहले ः → स्)।"),
     "46": ("पद्य; विश्वास मध्यम; छपी पंक्तियाँ ०२.११.८८ और ०२.११.८९। पाठ-चिह्न (सम्भव): छपा ‘अंतर्वक्त्रा’ में बहुवचन का विसर्ग सम्भवतः छूटा (‘अन्तर्वक्त्राः’); अर्थ वही। "
            "किण = घट्टा, चोट का निशान या दाग: अनिश्चित। ‘कामला अक्ष्णोः’ को एक समास भी पढ़ा जा सकता है। ‘कामलाऽक्ष्णोः’ का ऽ छपाई की आदत। "
@@ -781,7 +781,7 @@ NOTES_HI = {
 AIDS = {
     "39": {
         "chain": {"steps": ["नाभीगुदांतरं गत्वा: नाभि-गुदा के बीच जाकर", "वंक्षणौ वा समाश्रयन्: या दोनों वंक्षण में टिककर",
-                            "गृहीत्वा पायुहृदये: गुदा और हृदय पकड़कर", "बली: बलवान (डेटा: वायु)"]},
+                            "गृहीत्वा पायुहृदये: गुदा और हृदय पकड़कर", "बली: बलवान (डेटा का अनुमान: वायु)"]},
         "chunks": "नाभीगुदांतरं गत्वा | वंक्षणौ वा समाश्रयन् || गृहीत्वा पायुहृदये | क्षीणदेहस्य वा | बली",
         "sandhi": "अ + अ → आ: गुद + अन्तरम् → गुदान्तरम् · व्यंजन से पहले म् → ं: अन्तरम् + गत्वा → अन्तरं गत्वा।",
         "anchors": "गुद = पायु: एक ही अंग के दो नाम, एक पहली पंक्ति में, एक दूसरी में। (मेरी याद-पद्धति)",
@@ -799,7 +799,7 @@ AIDS = {
         "chunks": "श्वासं वा जनयन् | वायुर्गृहीत्वा | गुदवंक्षणौ || वितत्यपर्शुक अग्राणि | गृहीत्वोरश्च | मारुतः",
         "sandhi": ("उ के बाद विसर्ग, घोष से पहले → र्: वायुः + गृहीत्वा → वायुर्गृहीत्वा · आ + उ → ओ: गृहीत्वा + उरः → गृहीत्वोरः · "
                    "च से पहले ः → श्: उरः + च → उरश्च।"),
-        "anchors": "वायु से आरम्भ, मारुत पर अन्त: पंक्ति को दो नाम घेरते हैं। (मेरी याद-पद्धति)",
+        "anchors": "पहली पंक्ति में वायुः, दूसरी के अन्त में मारुतः: एक ही कर्ता के दो नाम। (मेरी याद-पद्धति)",
     },
     "42": {
         "diagram": {"groups": [{"label": "डेटा के अनुसार एक शृंखला (कार्ड ३९-४२)",
@@ -823,18 +823,18 @@ AIDS = {
     "45": {
         "chain": {"steps": ["उत्पद्य: उत्पन्न होकर", "आशु विनश्यन्ति: शीघ्र नष्ट (कर्ता छपा नहीं)", "न चिरात्: देर से नहीं",
                             "स विनश्यति: वह नष्ट होता है"]},
-        "chunks": "उत्पद्याशु विनश्यंति | न चिरात्स विनश्यति || मसूरविदळप्रख्याः | तथा | विद्रुमसन्निभाः",
+        "chunks": "उत्पद्याशु विनश्यंति | न चिरात्स विनश्यति || मसूरविदळप्रख्यास्तथा | विद्रुमसन्निभाः",
         "sandhi": ("अ + आ → आ: उत्पद्य + आशु → उत्पद्याशु · त से पहले ः → स्: -प्रख्याः + तथा → -प्रख्यास्तथा · "
                    "सः व्यंजन से पहले विसर्ग खोता है: सः + विनश्यति → स विनश्यति।"),
     },
     "46": {
         "diagram": {"groups": [{"label": "कार्ड ४६ (छपे क्रम में)",
-                                "items": ["१ अंतर्वक्त्रा: भीतर-मुखी", "२ किणाभाः: किण जैसे (किण अनिश्चित)", "३ विस्फोटा देहनाशनाः",
+                                "items": ["१ अंतर्वक्त्रा: भीतर-मुखी", "२ किणाभाः: किण जैसे (किण अनिश्चित)", "३ विस्फोटा देहनाशनाः: देह-नाशक फफोले",
                                           "४ कामला अक्ष्णोः: आँखों में पीलिया", "५ मुखं पूर्णं: मुख भरा", "६ शंखयोः मुक्तमांसता"]}]},
-        "chunks": "अंतर्वक्त्रा | किणाभाश्च | विस्फोटा देहनाशनाः || कामलाऽक्ष्णोः | मुखंपूर्णं | शंखयोर्मुक्तमांसता",
+        "chunks": "अंतर्वक्त्रा | किणाभाश्च | विस्फोटा देहनाशनाः || कामलाऽक्ष्णोर्मुखंपूर्णं | शंखयोर्मुक्तमांसता",
         "sandhi": ("च से पहले ः → श्: किणाभाः + च → किणाभाश्च · आः घोष से पहले विसर्ग खोता है: विस्फोटाः + देह- → विस्फोटा देह- · "
                    "ओ के बाद विसर्ग, घोष से पहले → र्: शङ्खयोः + मुक्त- → शङ्खयोर्मुक्त-।"),
-        "anchors": "ऊपर से नीचे: आँखें (कामला), मुख (पूर्ण), कनपटी (माँस छूटा)। (मेरी याद-पद्धति)",
+        "anchors": "छपे क्रम में: आँखें (कामला), मुख (पूर्ण), कनपटी (माँस छूटा)। (मेरी याद-पद्धति)",
     },
     "47": {
         "frame": "किसमें: यस्य · क्या: सन्त्रास और अङ्ग में उष्णता · पाठ का कथन: तं परिवर्जयेत् · पंक्ति २: अर्थ सन्दिग्ध।",
@@ -843,8 +843,8 @@ AIDS = {
                    "च से पहले त् → च्: अनुधावत् + च → अनुधावच्च।"),
     },
     "48": {
-        "diagram": {"groups": [{"label": "गन्ध (-गंधयः)", "items": ["चन्दन", "उशीर (खस)", "मदिरा", "कुणप (शव)", "ध्वाङ्क्ष (कौआ)"]},
-                               {"label": "प्रभा (-प्रभाः)", "items": ["शैवाल (विवादित)", "कुक्कुटशिखा", "कुंकुम (केसर)",
+        "diagram": {"groups": [{"label": "गन्ध (-गंधयः)", "items": ["चन्दन (मानक)", "उशीर (खस, मानक)", "मदिरा", "कुणप (शव)", "ध्वाङ्क्ष (कौआ)"]},
+                               {"label": "प्रभा (-प्रभाः)", "items": ["शैवाल (विवादित)", "कुक्कुटशिखा", "कुंकुम (केसर, मानक)",
                                                                     "आल (सम्भवतः हरताल)", "मषी (स्याही)"]}]},
         "chunks": "चंदनोशीरमदिराकुणपध्वांक्षगंधयः || शैवालकुक्कुटशिखाकुंकुमालमषीप्रभाः",
         "sandhi": "अ + उ → ओ: चन्दन + उशीर → चन्दनोशीर · ‘कुंकुमाल’ = कुंकुम + आल या + अल (दोनों सम्भव, प्रश्न नहीं)।",
@@ -877,7 +877,7 @@ IMAGE_SPECS = {
         "type": "chain",
         "title": "कार्ड ३९: बली कहाँ जाता है",
         "steps": ["नाभि और गुदा के बीच जाकर", "या दोनों वंक्षण में टिककर", "गुदा (पायु) और हृदय पकड़कर",
-                  "बली: बलवान (डेटा: वायु)"],
+                  "बली: बलवान (डेटा का अनुमान: वायु)"],
     },
     ("40", "diagram"): {
         "file": "sh11-mala-40.svg",
@@ -906,17 +906,17 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड ४६: लक्षण",
         "heads": ["क्रम", "छपा शब्द: अर्थ"],
-        "rows": [["१", "अंतर्वक्त्रा: भीतर-मुखी"], ["२", "किणाभाः: किण जैसे (अनिश्चित)"], ["३", "विस्फोटा देहनाशनाः"],
+        "rows": [["१", "अंतर्वक्त्रा: भीतर-मुखी"], ["२", "किणाभाः: किण जैसे (अनिश्चित)"], ["३", "विस्फोटा देहनाशनाः: देह-नाशक फफोले"],
                  ["४", "कामला अक्ष्णोः: आँखों में पीलिया"], ["५", "मुखं पूर्णं: मुख भरा"], ["६", "शंखयोः: माँस छूटा"]],
     },
     ("48", "diagram"): {
         "file": "sh11-gandha-prabha-48.svg",
-        "alt": ("Split of card 48: smells of sandalwood, uśīra (vetiver), an intoxicating drink, a corpse and a crow; lustres "
-                "of śaivāla (disputed), cock's comb, saffron, āla (probably orpiment) and ink."),
+        "alt": ("Split of card 48: smells of sandalwood (standard), uśīra (vetiver, standard), an intoxicating drink, a corpse and a crow; lustres "
+                "of śaivāla (disputed), cock's comb, saffron (standard), āla (probably orpiment) and ink."),
         "type": "split",
         "title": "कार्ड ४८: गन्ध और प्रभा",
-        "cols": [["गन्ध", ["चन्दन", "उशीर (खस)", "मदिरा", "कुणप (शव)", "ध्वाङ्क्ष (कौआ)"]],
-                 ["प्रभा", ["शैवाल (विवादित)", "मुर्गे की कलगी", "कुंकुम (केसर)", "आल (सम्भवतः हरताल)", "मषी (स्याही)"]]],
+        "cols": [["गन्ध", ["चन्दन (मानक)", "उशीर (खस, मानक)", "मदिरा", "कुणप (शव)", "ध्वाङ्क्ष (कौआ)"]],
+                 ["प्रभा", ["शैवाल (विवादित)", "मुर्गे की कलगी", "कुंकुम (केसर, मानक)", "आल (सम्भवतः हरताल)", "मषी (स्याही)"]]],
     },
     ("50", "diagram"): {
         "file": "sh11-dosha-vrana-50.svg",
