@@ -408,7 +408,7 @@ AUTHORED["33"] = {
             "Stretched fingers that do not crack.",
             "आयम्यमानाः न स्फुटेयुः."),
         mcq("transfer", 5, "By the pattern of आयम्यमानाः + न → आयम्यमाना न, how is देवाः + नमन्ति (the gods bow) joined in a new example?",
-            ("बाला गच्छन्ति", "आः before the voiced न drops its visarga: देवा नमन्ति."),
+            ("देवा नमन्ति", "आः before the voiced न drops its visarga: देवा नमन्ति."),
             [("देवो नमन्ति", "ओ comes from short अः, not from आः."),
              ("देवार्नमन्ति", "र् arises after vowels other than अ or आ."),
              ("देवास्नमन्ति", "स् arises before त or थ, not before न.")],

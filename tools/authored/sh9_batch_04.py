@@ -406,7 +406,7 @@ AUTHORED["46"] = {
             "बहु (many) + वर्ण (colour): of many colours.",
             "बहुवर्ण = many-coloured."),
         mcq("transfer", 5, "By the pattern of च + अप्सु → चाप्सु, how is सह + अनुजः (with the younger brother) joined in a new example?",
-            ("नास्ति", "अ + अ → आ: सह + अनुजः → सहानुजः."),
+            ("सहानुजः", "अ + अ → आ: सह + अनुजः → सहानुजः."),
             [("सहेनुजः", "ए comes from अ + इ; here the second vowel is अ."),
              ("सहोनुजः", "ओ comes from अ + उ; here the second vowel is अ."),
              ("सहयनुजः", "अय् comes from ए before a vowel; here the first vowel is अ.")],
