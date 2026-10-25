@@ -54,7 +54,7 @@ AUTHORED["88"] = {
         mcq("apply", 4, "Why is ततः printed ततो before अर्द्ध- in unit 88?",
             ("अः before अ → ओ, and that अ is elided","ततः + अर्ध- → ततोऽर्ध-: the avagraha marks the elided अ."),
             [("अः before any vowel at all → ओ", "Not any: before a vowel other than अ, अः becomes अ."),
-             ("आः before the vowel अ → ओ", "ततः ends in अः, and आः only drops its visarga before a voiced sound."),
+             ("आः before the vowel अ → ओ", "ततः ends in अः, not आः; and आः never gives ओ (before a voiced sound it drops its visarga)."),
              ("ततो is the stem form of the word", "The adverb is ततः; the ओ comes only from sandhi.")],
             "ततः + अर्धाङ्गुलहीने → ततोऽर्धाङ्गुलहीने.",
             "अः + अ → ओऽ."),
@@ -114,12 +114,12 @@ AUTHORED["89"] = {
              ("इ is dropped before the अ", "इ is not dropped; it becomes the semivowel य्.")],
             "त्रि + अङ्गुलौ: इ before a different vowel → य्.",
             "इ + unlike vowel → य्."),
-        mcq("transfer", 5, "By the pattern of त्रि + अङ्गुलौ → त्र्यङ्गुलौ, how is इति + आदि joined in a new example?",
-            ("इत्यादि", "इ before a different vowel → य्: इति + आदि → इत्यादि."),
-            [("इतादि", "The इ is not dropped; it becomes य्."),
-             ("इतेदि", "इ + आ does not give ए."),
-             ("इतियादि", "इ is replaced by य्; it does not stay beside it.")],
-            "इति + आदि = इत्यादि, like त्रि + अङ्गुलौ = त्र्यङ्गुलौ.",
+        mcq("transfer", 5, "By the pattern of त्रि + अङ्गुलौ → त्र्यङ्गुलौ, how is इति + अपि joined in a new example?",
+            ("इत्यपि", "इ before a different vowel → य्: इति + अपि → इत्यपि."),
+            [("इतापि", "The इ is not dropped; it becomes य्."),
+             ("इतेपि", "इ + अ does not give ए."),
+             ("इतियपि", "इ is replaced by य्; it does not stay beside it.")],
+            "इति + अपि = इत्यपि, like त्रि + अङ्गुलौ = त्र्यङ्गुलौ.",
             "इ + unlike vowel → य्.",
             teaches="इ before a different vowel becomes य्: त्रि + अङ्गुलौ → त्र्यङ्गुलौ."),
     ],
@@ -209,7 +209,7 @@ AUTHORED["91"] = {
               "पञ्च = five, अङ्गुल = finger-breadth, आस्य = mouth.",
               "पञ्च, अङ्गुल, आस्य."),
         T(multi("extend", 2, "Which statements fit unit 91?",
-                [("It gives the girth of the mouth", "No: no dimension is named, so not girth."),
+                [("It gives a measure for the neck", "No: the neck (शिरोधरा) is measured in unit 90."),
                  ("It gives five aṅgulas for the mouth", "Yes: पञ्चाङ्गुलम् आस्यम्."),
                  ("It prints the unit aṅgula itself", "Yes: अङ्गुल is printed inside पंचांगुलम्."),
                  ("It says the mouth equals the face", "No: the face (आनन) has its own measures in unit 90.")],
@@ -245,7 +245,7 @@ AUTHORED["91"] = {
 # ---------------------------------------------------------------- unit 92
 AUTHORED["92"] = {
     "title": "चतुरंगुलंपृथक्",
-    "question": "By unit 92, which parts of the face are four aṅgulas each?",
+    "question": "By unit 92, which parts are four aṅgulas each?",
     "rule": ("Four aṅgulas, separately (चतुरङ्गुलं पृथक्): the chin (चिबुक), the lip (ओष्ठ), the nose (नासा), probably "
              "the interval between the eyes (दृष्ट्यन्तर), the ear (कर्ण) and the forehead (ललाट)."),
     "limits": ("Text flag: the doubled द् in नासाद्दृष्ट्यंतर may be a slip or नासात् + दृष्ट्यन्तर; the eye interval is "
@@ -303,7 +303,7 @@ AUTHORED["92"] = {
 AUTHORED["93"] = {
     "title": "त्रिभागांगुलविस्तारा नासापुटमर्यादा",
     "question": "By unit 93, what are the measures of the nostril border and of the eye?",
-    "rule": ("The border of the nostril (नासापुटमर्यादा) is a third part of an aṅgula in breadth (त्रिभागाङ्गुलविस्तारा); "
+    "rule": ("The border of the nostril (नासापुटमर्यादा) is त्रिभाग of an aṅgula in breadth (त्रिभागाङ्गुलविस्तारा; read as a third part, 'three parts' possible); "
              "the eye (नेत्र) is two aṅgulas long (द्व्यङ्गुलायतम्) and broad by the belly of the thumb (अङ्गुष्ठोदरविस्तृतम्)."),
     "limits": ("Prose, two printed lines joined (02.08.109 and 02.08.110). त्रिभाग is taken as a third part; 'three parts' "
                "is an alternative: no question on that value. अङ्गुष्ठोदर = the fleshy middle of the thumb; no further measure "
@@ -312,7 +312,7 @@ AUTHORED["93"] = {
                    "इसलिए उस संख्या पर प्रश्न नहीं। नेत्र (आँख) दो अंगुल लम्बी है और अँगूठे के उदर, यानी उसके मांसल बीच के भाग, जितनी चौड़ी है। "
                    "यहाँ ‘उदर’ अँगूठे का भाग है, न पेट, न रोग। "
                    "-विस्तारा स्त्रीलिंग मर्यादा से और -विस्तृतम् नपुंसक नेत्रम् से मेल खाते हैं।"),
-    "hook": "आँख: दो अंगुल लम्बी, अँगूठे के पेट जितनी चौड़ी।",
+    "hook": "आँख: दो अंगुल लम्बी, अँगूठे के उदर (मांसल बीच) जितनी चौड़ी।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 93, what does नेत्र mean?",
@@ -336,7 +336,7 @@ AUTHORED["93"] = {
             ("As broad as the belly of the thumb", "अङ्गुष्ठोदरविस्तृतम्: broad by the thumb's belly."),
             [("Two aṅgulas, the same as its length", "Two aṅgulas is the eye's length (आयत), not its breadth."),
              ("As broad as the nostril's border", "The nostril border has its own measure in line 1."),
-             ("As broad as the middle finger is", "The middle finger is not named in this unit.")],
+             ("As broad as the middle finger is", "The breadth is the thumb's belly (अङ्गुष्ठोदर), not a finger's length.")],
             "Eye: two aṅgulas long; broad by the belly of the thumb.",
             "आयत = long, विस्तृत = broad."),
         mcq("apply", 4, "In अङ्गुष्ठोदर of unit 93, what is उदर?",
@@ -363,10 +363,10 @@ AUTHORED["94"] = {
     "question": "By unit 94, how are the white, the black and the dṛṣṭi of the eye related in size?",
     "rule": ("In it (तत्र), the black (कृष्णः) is a third portion of the white (शुक्लतृतीयांशः); the dṛṣṭi, probably the "
              "pupil, is a ninth portion of the black (कृष्णात् नवमांशा), of the size of a masūra-dala (मसूरदलमात्रा)."),
-    "limits": ("Prose, one printed line. तृतीयांश = one third or 'the third portion' (data). दृष्टि = the seeing part, "
-               "probably the pupil. masūra = lentil, Lens culinaris (standard); दल may be half-seed, split or leaf: no "
-               "question on दल. तत्र = 'in it', read as the eye of unit 93."),
-    "explain_hi": ("उसमें (आँख में) कृष्ण यानी काला भाग शुक्ल यानी सफेद भाग का तृतीयांश है। "
+    "limits": ("Prose, one line. 'The black, a third portion of the white' is the data's one reading (medium "
+               "confidence): no question on it. दृष्टि = probably the pupil. masūra = lentil, Lens culinaris (standard); "
+               "दल is unclear: no question on it. तत्र = 'in it', probably the eye (not named)."),
+    "explain_hi": ("उसमें (सम्भवतः आँख में) कृष्ण यानी काला भाग शुक्ल यानी सफेद भाग का तृतीयांश है। "
                    "कृष्ण का नवाँ अंश दृष्टि है, जो सम्भवतः पुतली है, और उसका माप मसूर के दल जितना है। "
                    "मसूर = मसूर (Lens culinaris, मानक); ‘दल’ का अर्थ आधा दाना, फाँक या पत्ता, अनिश्चित है। "
                    "क्रम याद रखें: शुक्ल → उसका तृतीयांश कृष्ण → उसका नवमांश दृष्टि। "
@@ -387,24 +387,24 @@ AUTHORED["94"] = {
               "तत्र → शुक्लतृतीयांशः → कृष्णः → कृष्णान्नवमांशा → मसूरदलमात्रा → दृष्टिः."),
         match(2, "Match each word of unit 94 to its meaning.",
               [["शुक्ल", "white"], ["कृष्ण", "black"], ["तृतीयांश", "a third portion"], ["नवमांश", "a ninth portion"],
-               ["मसूर", "lentil"]],
-              "शुक्ल = white, कृष्ण = black, तृतीयांश = a third portion, नवमांश = a ninth portion, मसूर = lentil.",
+               ["मसूर", "lentil (standard)"]],
+              "शुक्ल = white, कृष्ण = black, तृतीयांश = a third portion, नवमांश = a ninth portion, मसूर = lentil (standard).",
               "शुक्ल, कृष्ण, तृतीयांश, नवमांश, मसूर.", role="extend",
               teaches="तृतीय + अंश = a third portion, नवम + अंश = a ninth portion: ordinal + अंश names a fraction."),
         mcq("discriminate", 3, "By unit 94, the dṛṣṭi is what portion of the black?",
             ("A ninth portion", "कृष्णात् नवमांशा दृष्टिः: a ninth portion of the black."),
-            [("A third portion", "A third portion is the black's share of the white."),
+            [("A third portion", "The line says नवम, ninth, for the dṛṣṭi."),
              ("A half portion", "Half would be अर्ध; the line says नवम, ninth."),
              ("A fourth portion", "Fourth would be चतुर्थ; the line says नवम, ninth.")],
             "White → black (a third portion) → dṛṣṭi (a ninth portion of the black).",
             "नवमांश = a ninth portion."),
-        mcq("apply", 4, "By unit 94, the black is a third portion of what?",
-            ("Of the white", "शुक्लतृतीयांशः कृष्णः: the black is a third portion of the white."),
-            [("Of the dṛṣṭi", "The dṛṣṭi is the smaller one: a ninth of the black."),
-             ("Of the eyebrow", "The eyebrow is not named in this unit."),
-             ("Of the lentil", "The lentil gives the dṛṣṭi's size, not the black's.")],
-            "शुक्ल-तृतीय-अंशः: a third portion of the white.",
-            "शुक्लतृतीयांश = a third portion of the white."),
+        mcq("apply", 4, "In unit 94, why does नवमांशा end in -आ?",
+            ("It agrees with feminine दृष्टिः", "दृष्टि is feminine, so नवमांशा and मसूरदलमात्रा take -आ."),
+            [("It agrees with masculine कृष्णः", "कृष्णः is masculine; -आ is a feminine ending."),
+             ("It is a plural ending here", "दृष्टिः is singular; -आ here is feminine singular."),
+             ("It is a sandhi form before म", "No sandhi lengthens अ before म; -आ is the feminine ending.")],
+            "नवमांशा मसूरदलमात्रा दृष्टिः: the adjectives agree with feminine दृष्टि.",
+            "An adjective takes its noun's gender."),
         mcq("transfer", 5, "By the pattern of तृतीय + अंशः → तृतीयांशः, how is चतुर्थ + अंशः joined in a new example?",
             ("चतुर्थांशः", "अ + अ → आ: चतुर्थ + अंशः → चतुर्थांशः, a fourth portion."),
             [("चतुर्थंशः", "The two अ give a long आ; one cannot simply vanish."),
@@ -492,7 +492,7 @@ AUTHORED["96"] = {
         mcq("pretest", 0, "In unit 96, what does आयाम mean?",
             ("Length", "आयाम = length, paired with विस्तार, breadth."),
             [("Girth", "Girth is परिणाह, not आयाम."),
-             ("Height", "Height is उत्सेध, not आयाम."),
+             ("Colour", "Colour would be वर्ण; आयाम is length."),
              ("Weight", "Weight would be भार; आयाम is length.")],
             "आयाम = length; विस्तार = breadth.",
             "आयाम = length."),
@@ -504,7 +504,7 @@ AUTHORED["96"] = {
               ["आयाम", "विस्तार", "समं", "सममुच्यते"],
               "Length, breadth, equal (in them); is called even.",
               "आयाम → विस्तार → समं → सममुच्यते.", role="extend",
-              teaches="आयाम-विस्तार-समम्: a compound 'equal in length and breadth', then सम as the name it receives."),
+              teaches="(तद्-)आयाम-विस्तार-समम्: 'equal in (that) length and breadth', then सम as the name it receives; the parse of तद् stays open."),
         mcq("discriminate", 3, "By unit 96, what is called सम?",
             ("What is equal in length and breadth", "आयामविस्तारसमं सममुच्यते."),
             [("What is long but very narrow", "Long but narrow is not equal in breadth."),
@@ -540,7 +540,7 @@ AUTHORED["97"] = {
                "reading; हीनम्/अधिकम् could also be read with the measure itself. What is measured "
                "is not named here."),
     "explain_hi": ("उनमें, जैसा कहा गया वैसा परिमाण (यथोक्तपरिमाणम्) इष्ट है; उससे हीन (कम) या अधिक (ज़्यादा) अनिष्ट है। "
-                   "यानी पिछली इकाइयों में दिए अंगुल-माप ही आदर्श हैं, यह डेटा की स्वाभाविक व्याख्या है। "
+                   "‘यथोक्त’ सम्भवतः पिछली इकाइयों में कहे अंगुल-माप की ओर संकेत करता है; पाठ इसे नाम से नहीं कहता। "
                    "‘यथोक्त’ में यथा + उक्त (आ + उ → ओ) है। "
                    "‘अनिष्ट’ में स्वर से पहले निषेध का अन्- है: अन् + इष्ट।"),
     "hook": "जैसा कहा वैसा: इष्ट; कम या ज़्यादा: अनिष्ट।",
@@ -748,7 +748,7 @@ NOTES_HI = {
            "(शरीर) नहीं जोड़ा गया। सम = बराबर, संतुलित; पाठ इससे अधिक नहीं कहता। उच्यते = √वच्, कर्मवाच्य वर्तमान। सन्धि जाँची: "
            "समम् + उच्यते → सममुच्यते।"),
     "97": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०८.११५); कोई पाठ-चिह्न नहीं। वाक्य-विभाग ‘इष्टम् | अनिष्टं हीनमधिकं वा’ स्वाभाविक "
-           "पाठ; हीनम्/अधिकम् को सीधे परिमाण के साथ भी पढ़ा जा सकता है, अर्थ वही। सन्धि जाँची: यथा + उक्त → यथोक्त (आ + उ → ओ); "
+           "पाठ; हीनम्/अधिकम् को सीधे परिमाण के साथ भी पढ़ा जा सकता है। सन्धि जाँची: यथा + उक्त → यथोक्त (आ + उ → ओ); "
            "-परिमाणम् + इष्टम् + अनिष्टम् → -परिमाणमिष्टमनिष्टम्; अनिष्टम् + हीनम् → अनिष्टं हीनम् (व्यंजन से पहले अन्तिम म् → ं); "
            "हीनम् + अधिकम् → हीनमधिकम्। अन् + इष्ट → अनिष्ट (स्वर से पहले निषेध अन्-)।"),
     "98": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०८.११६); कोई पाठ-चिह्न नहीं। ‘तथाहि’ = तथा + हि, बिना सन्धि-परिवर्तन, जुड़ा "
@@ -832,7 +832,7 @@ AIDS = {
     },
     "98": {
         "frame": "तथा (इस प्रकार) + हि (निश्चय ही) → आगे आने वाली बात का आरम्भ; क्या आता है, यह यहाँ नहीं कहा।",
-        "anchors": "तथाहि = ‘ऐसे ही, देखो:’ (केवल सुनने की सहायता)",
+        "anchors": "तथाहि = ‘ऐसे ही, देखो:’ (मेरी याद-पद्धति)",
     },
     "99": {
         "seesaw": "ह्रस्व ⇄ दीर्घ · गौर ⇄ कृष्ण · रोम ⇄ अरोम · स्थूल ⇄ कृश: चारों जोड़े इसी इकाई में, अर्थ में उलटे।",
@@ -904,7 +904,7 @@ IMAGE_SPECS = {
         "alt": "Split of card 97: desirable, the measure as stated; undesirable, deficient or excessive.",
         "type": "split",
         "title": "कार्ड ९७: इष्ट और अनिष्ट परिमाण",
-        "cols": [["इष्टम्", ["यथोक्त परिमाण", "जैसा कहा गया"]],
+        "cols": [["इष्टम्", ["यथोक्त परिमाण: जैसा कहा गया"]],
                  ["अनिष्टम्", ["हीनम्: कम", "अधिकम्: ज़्यादा"]]],
     },
     ("99", "seesaw"): {
