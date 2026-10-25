@@ -490,8 +490,8 @@ AUTHORED["47"] = {
     "rule": ("He in whom there is fright (सन्त्रासः) and heat in the body (उष्णता अङ्गे), him one should avoid "
              "(तं परिवर्जयेत्): by the data's grouping this appears to complete the sentence of card 46, line 2. The sense of line 2 is doubtful."),
     "limits": ("Low confidence. Line 2 (अकस्मादनुधावच्च विघृष्टं त्वक्समाश्रयं) is given literally; its neuter forms do not agree "
-               "with the wounds (व्रणाः) of card 49, which the list from this line to card 49, line 1, appears to describe (the data leaves this unresolved): no question on line 2. The agent of "
-               "परिवर्जयेत् is not stated ('one')."),
+               "with card 49's wounds (व्रणाः), which the list from here to card 49, line 1, appears to describe (unresolved in the data): no question on line 2. The agent of "
+               "परिवर्जयेत् is unstated."),
     "explain_hi": ("पहली पंक्ति कार्ड ४६ की दूसरी पंक्ति का वाक्य पूरा करती है: जिसमें (उन लक्षणों के साथ) भय (सन्त्रास) और शरीर में उष्णता हो, "
                    "उसे त्याग देना चाहिए (तं परिवर्जयेत्)। त्यागने वाला कौन, यह छपा नहीं। "
                    "दूसरी पंक्ति का अर्थ सन्दिग्ध है: ‘अचानक, पीछे दौड़ता हुआ, रगड़ा हुआ, त्वचा में आश्रित’ शब्दशः दिया गया है, और इसके नपुंसक रूप "
@@ -550,8 +550,7 @@ AUTHORED["48"] = {
              "(-गन्धयः); having the lustre of śaivāla (water-moss; plant disputed), a cock's comb, kuṅkuma (saffron, standard), "
              "āla (probably orpiment) and ink (-प्रभाः)."),
     "limits": ("The noun is not here: by the data, the list from card 47, line 2, to card 49, line 1, appears to describe the wounds (व्रणाः) of card 49 (for card 47 the data leaves this unresolved). "
-               "कुंकुमाल may be कुंकुम + आल or + अल: no question on āla. śaivāla is disputed: kept out of the questions. "
-               "कुणपध्वांक्ष is read as two smells."),
+               "No question on āla (split open) or śaivāla (disputed)."),
     "explain_hi": ("यह इकाई दो लम्बे समासों की सूची है; जिसका वर्णन है वह यहाँ नहीं, डेटा के अनुसार सम्भवतः कार्ड ४९ के व्रण (घाव)। "
                    "पहली पंक्ति गन्ध बताती है: चन्दन (मानक), उशीर यानी खस (मानक), मदिरा (नशीला पेय), कुणप (शव) और ध्वाङ्क्ष (कौआ)। "
                    "दूसरी पंक्ति प्रभा (आभा) बताती है: शैवाल (जल की काई; पहचान विवादित), मुर्गे की कलगी, कुंकुम यानी केसर (मानक), "
@@ -612,8 +611,8 @@ AUTHORED["49"] = {
     "rule": ("Wounds (व्रणाः) with inner burning (अन्तर्दाहाः) and without heat (निरूष्माणः) cause the destruction of life "
              "(प्राणनाशकराः). Line 2: the Vāta-born (one) which would not be for pain (न शूलाय), and the Pitta-born which "
              "would not be for burning (न दाहाय)."),
-    "limits": ("Line 1 appears to end the list begun in card 47, line 2 (data). In line 2 the noun is not stated (probably a wound, see cards 49 and 51) "
-               "and the sentence goes on into card 50. 'Inner burning, no heat' is given as printed; nothing is added about the outside."),
+    "limits": ("Line 1 appears to end the list begun in card 47, line 2 (data). Line 2's noun is unstated (probably a wound, see cards 49 and 51); "
+               "the sentence goes on into card 50. 'Inner burning, no heat' is as printed; nothing is added about the outside."),
     "explain_hi": ("पहली पंक्ति सम्भवतः कार्ड ४७-४८ की सूची का अन्त है: भीतर दाह वाले, ऊष्मा से रहित, प्राणों का नाश करने वाले व्रण (घाव)। "
                    "बाहर के बारे में कुछ नहीं कहा गया; जैसा छपा है वैसा ही लिया गया। "
                    "दूसरी पंक्ति नया क्रम आरम्भ करती है: जो वातज हो और पीड़ा (शूल) के लिए न हो, और जो पित्तज हो और दाह के लिए न हो; "
