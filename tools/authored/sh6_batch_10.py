@@ -231,7 +231,7 @@ AUTHORED["119"] = {
               [0, 2, 3],
               "Kept going long, with unbroken flow, endowed with health, strength and growth.",
               "चिरेण ... अनवरतप्रवाहेण स्वास्थ्यबलोपचययुक्तं ... याप्यते."),
-        mcq("transfer", 5, "By the rule of तेनैव (तेन + एव), how is यत्र + एव (just where) joined in a new example?",
+        mcq("transfer", 5, "By the rule of तेनैव (तेन + एव), how is यत्र + एव (where indeed) joined in a new example?",
             ("यत्रैव", "अ + ए → ऐ, as तेन + एव → तेनैव."),
             [("यत्रेव", "ए comes from अ + इ, not from अ + ए."),
              ("यत्रोव", "ओ comes from अ + उ, not from अ + ए."),
