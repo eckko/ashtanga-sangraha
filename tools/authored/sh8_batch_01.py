@@ -143,7 +143,7 @@ AUTHORED["3"] = {
              ("The doṣa of the child's first food", "Unit 3 names the factors at conception and pregnancy, not the child's food.")],
             "By whichever doṣa is predominant.",
             "आधिक्येन = by predominance."),
-        order(1, "Put the places of predominance in unit 3 in the printed order.",
+        order(1, "Put the things in which a doṣa becomes predominant (unit 3) in the printed order.",
               ["शुक्र", "आर्तव", "गर्भाशय", "काल", "मातुः आहार", "विहार"],
               "Semen, menstrual fluid, womb, time; and the mother's food and conduct.",
               "शुक्र → आर्तव → गर्भाशय → काल → मातुः आहार → विहार."),
@@ -835,30 +835,23 @@ AIDS = {
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "sh8-sapta-prakriti-2.svg",
-        "alt": ("Flowchart of unit 2: the seven constitutions arise from the doṣas in three ways, singly, by combination "
+        "alt": ("Table of unit 2: the seven constitutions arise from the doṣas in three ways, singly, by combination "
                 "and by equality."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"दोषैः: दोषों से\"] --> B[\"१ पृथक्: अकेले\"]\n"
-                 "  A --> C[\"२ संसर्गेण: मेल से\"]\n"
-                 "  A --> D[\"३ साम्येन: समता से\"]\n"
-                 "  B --> E[\"सप्त प्रकृतयः\"]\n"
-                 "  C --> E\n"
-                 "  D --> E\n"),
+        "type": "table",
+        "title": "इकाई २: दोषैः: दोषों से",
+        "heads": ["क्रम", "रीति"],
+        "rows": [["१", "पृथक्: अकेले"], ["२", "संसर्गेण: मेल से"], ["३", "साम्येन: समता से"],
+                 ["फल", "सप्त प्रकृतयः"]],
     },
     ("3", "chain"): {
         "file": "sh8-prakriti-hetu-3.svg",
-        "alt": ("Flowchart of unit 3 in line order: semen, menstrual fluid, womb, time, and the mother's food and conduct; "
+        "alt": ("Table of unit 3 in line order: semen, menstrual fluid, womb, time, and the mother's food and conduct; "
                 "the doṣa, one or more, predominant in these; from it the constitution arises."),
-        "type": "mermaid",
-        "code": ("flowchart LR\n"
-                 "  A[\"१ शुक्र\"] --> G[\"जो दोष अधिक: एक या अनेक\"]\n"
-                 "  B[\"२ आर्तव\"] --> G\n"
-                 "  C[\"३ गर्भाशय\"] --> G\n"
-                 "  D[\"४ काल\"] --> G\n"
-                 "  E[\"५ माता का आहार\"] --> G\n"
-                 "  F[\"६ माता का विहार\"] --> G\n"
-                 "  G --> H[\"उसी से प्रकृति\"]\n"),
+        "type": "table",
+        "title": "इकाई ३: जिनमें दोष अधिक होता है",
+        "heads": ["क्रम", "छपा क्रम"],
+        "rows": [["१", "शुक्र"], ["२", "आर्तव"], ["३", "गर्भाशय"], ["४", "काल"], ["५", "माता का आहार"],
+                 ["६", "माता का विहार"], ["इनमें", "जो दोष अधिक: एक या अनेक"], ["फल", "उसी से प्रकृति"]],
     },
     ("4", "chain"): {
         "file": "sh8-na-vihanyate-4.svg",

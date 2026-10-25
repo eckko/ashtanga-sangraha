@@ -592,12 +592,12 @@ AUTHORED["35"] = {
              ("Neither one follows the other", "Both clauses state a following; neither is denied.")],
             "Both ways: शरीर → सत्त्वादि and सत्त्वादि → शरीर.",
             "Mutual conformity."),
-        mcq("transfer", 5, "By the pattern of सत्त्वादयः + अपि → सत्त्वादयोऽपि, how is रामः + अपि joined in a new example?",
-            ("रामोऽपि", "अः + अ → ओऽ: रामः + अपि → रामोऽपि."),
-            [("रामरपि", "र् comes from a visarga after a vowel other than अ/आ before a voiced sound; here the vowel is अ."),
-             ("रामाऽपि", "आ has no source here; अः + अ gives ओऽ."),
-             ("रामश्पि", "श् comes before च, छ or श, not before a vowel.")],
-            "रामः + अपि = रामोऽपि, like सत्त्वादयः + अपि = सत्त्वादयोऽपि.",
+        mcq("transfer", 5, "By the pattern of सत्त्वादयः + अपि → सत्त्वादयोऽपि, how is नरः + अपि joined in a new example?",
+            ("नरोऽपि", "अः + अ → ओऽ: नरः + अपि → नरोऽपि."),
+            [("नररपि", "र् comes from a visarga after a vowel other than अ/आ before a voiced sound; here the vowel is अ."),
+             ("नराऽपि", "आ has no source here; अः + अ gives ओऽ."),
+             ("नरश्पि", "श् comes before च, छ or श, not before a vowel.")],
+            "नरः + अपि = नरोऽपि, like सत्त्वादयः + अपि = सत्त्वादयोऽपि.",
             "अः + अ → ओऽ.",
             teaches="अः before अ gives ओ, and the अ is marked by ऽ (avagraha): सत्त्वादयः + अपि → सत्त्वादयोऽपि."),
     ],
@@ -897,13 +897,13 @@ IMAGE_SPECS = {
     },
     ("34", "chain"): {
         "file": "sh8-asankhyeya-34.svg",
-        "alt": ("Flowchart of card 34: three reasons, graded combination of the seven and the rest, differences of body, "
+        "alt": ("Table of card 34: three reasons, graded combination of the seven and the rest, differences of body, "
                 "and conformity to another, lead to countless varieties."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"१ सात आदि का तरतम योग\"] --> D[\"भेद असंख्येय\"]\n"
-                 "  B[\"२ शरीर की विशेषताएँ\"] --> D\n"
-                 "  C[\"३ दूसरे का अनुसरण\"] --> D\n"),
+        "type": "table",
+        "title": "कार्ड ३४: तीन कारण",
+        "heads": ["क्रम", "कारण"],
+        "rows": [["१", "सात आदि का तरतम योग"], ["२", "शरीर की विशेषताएँ"], ["३", "दूसरे का अनुसरण"],
+                 ["फल", "भेद असंख्येय"]],
     },
     ("35", "seesaw"): {
         "file": "sh8-sharira-sattva-35.svg",

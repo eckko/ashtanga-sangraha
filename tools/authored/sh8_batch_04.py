@@ -758,14 +758,14 @@ AUTHORED["50"] = {
              ("Ascertaining is forbidden", "उपलभ्य is not a prohibition; it is 'having ascertained'.")],
             "प्रमाणम् उपलभ्य ... विभजेत्: having ascertained, one should divide.",
             "Absolutive -य = the earlier act."),
-        mcq("transfer", 5, "By the pattern of विभजेत् (should divide), which form of √पठ् means one should read, in a new example?",
-            ("पठेत्", "-एत् is the optative third singular of thematic verbs like √भज्: पठेत्, one should read."),
-            [("पठति", "पठति is the present: he reads."),
-             ("पठितुम्", "पठितुम् is the infinitive: to read."),
-             ("अपठत्", "अपठत् is the past (imperfect): he read.")],
-            "पठेत् = one should read, like विभजेत् = one should divide.",
+        mcq("transfer", 5, "By the pattern of विभजेत् (should divide), which form of √वद् means one should speak, in a new example?",
+            ("वदेत्", "-एत् is the optative third singular of thematic verbs like √भज्: वदेत्, one should speak."),
+            [("वदति", "वदति is the present: he speaks."),
+             ("वदितुम्", "वदितुम् is the infinitive: to speak."),
+             ("अवदत्", "अवदत् is the past (imperfect): he spoke.")],
+            "वदेत् = one should speak, like विभजेत् = one should divide.",
             "Optative 3rd singular of thematic verbs: -एत्.",
-            teaches="Thematic verbs (√भज्, √पठ्) form the optative third singular in -एत्: विभजेत्, पठेत्. Other verb classes differ (ब्रूयात्)."),
+            teaches="Thematic verbs (√भज्, √वद्) form the optative third singular in -एत्: विभजेत्, वदेत्. Other verb classes differ (ब्रूयात्)."),
     ],
 }
 
@@ -916,30 +916,23 @@ IMAGE_SPECS = {
     },
     ("40", "diagram"): {
         "file": "sh8-bala-trividha-40.svg",
-        "alt": ("Flowchart of unit 40: the young age is threefold by mode of living (on breast-milk, on food, on both); "
+        "alt": ("Table of unit 40: the young age is threefold by mode of living (on breast-milk, on food, on both); "
                 "in it, growth of body size and predominance of śleṣman (Kapha)."),
-        "type": "mermaid",
-        "code": ("flowchart LR\n"
-                 "  A[\"बाल वय\"] --> B[\"त्रिविध: पोषण से\"]\n"
-                 "  B --> C[\"१ स्तन्य पर\"]\n"
-                 "  B --> D[\"२ आहार पर\"]\n"
-                 "  B --> E[\"३ दोनों पर\"]\n"
-                 "  A --> F[\"तस्मिन्: उसमें\"]\n"
-                 "  F --> G[\"देह-परिमाण की वृद्धि\"]\n"
-                 "  F --> H[\"श्लेष्मा (कफ) की अधिकता\"]\n"),
+        "type": "table",
+        "title": "इकाई ४०: बाल वय",
+        "heads": ["भाग", "विषय"],
+        "rows": [["त्रिविध: पोषण से", "१ स्तन्य पर"], ["त्रिविध: पोषण से", "२ आहार पर"],
+                 ["त्रिविध: पोषण से", "३ दोनों पर"], ["तस्मिन्: उसमें", "देह-परिमाण की वृद्धि"],
+                 ["तस्मिन्: उसमें", "श्लेष्मा (कफ) की अधिकता"]],
     },
     ("43", "chain"): {
         "file": "sh8-pitta-madhya-43.svg",
-        "alt": ("Flowchart of unit 43: in the middle age, predominance of Pitta; because of that, four results in line "
+        "alt": ("Table of unit 43: in the middle age, predominance of Pitta; because of that, four results in line "
                 "order: kindled agni, abundance of understanding, ripening, determination."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"मध्य वय में\"] --> B[\"पित्त की अधिकता\"]\n"
-                 "  B --> C[\"तेन: उससे\"]\n"
-                 "  C --> D[\"१ दीप्त अग्नि\"]\n"
-                 "  C --> E[\"२ प्रज्ञा की अधिकता\"]\n"
-                 "  C --> F[\"३ परिपाक\"]\n"
-                 "  C --> G[\"४ व्यवसाय\"]\n"),
+        "type": "table",
+        "title": "इकाई ४३: मध्य वय में पित्त की अधिकता",
+        "heads": ["क्रम", "तेन: उससे"],
+        "rows": [["१", "दीप्त अग्नि"], ["२", "प्रज्ञा की अधिकता"], ["३", "परिपाक"], ["४", "व्यवसाय"]],
     },
     ("44", "diagram"): {
         "file": "sh8-madhya-charan-44.svg",
@@ -962,17 +955,13 @@ IMAGE_SPECS = {
     },
     ("46", "diagram"): {
         "file": "sh8-vata-vriddha-46.svg",
-        "alt": ("Flowchart of unit 46: in the old age, predominance of māruta (Vāta); because of that, six results in "
+        "alt": ("Table of unit 46: in the old age, predominance of māruta (Vāta); because of that, six results in "
                 "line order: looseness of flesh and joints, rough skin, stooping, trembling, cough, breathlessness, śleṣman and nasal mucus, "
                 "wasting of the dhātus."),
-        "type": "mermaid",
-        "code": ("flowchart LR\n"
-                 "  A[\"वृद्ध वय: वात की अधिकता\"] --> B[\"तेन: उससे\"]\n"
-                 "  B --> C[\"१ मांस-सन्धि की शिथिलता (विभाजन अनिश्चित)\"]\n"
-                 "  B --> D[\"२ त्वचा की रूखाई\"]\n"
-                 "  B --> E[\"३ शरीर का झुकना\"]\n"
-                 "  B --> F[\"४ कम्पन\"]\n"
-                 "  B --> G[\"५ कास, श्वास, श्लेष्मा-सिंघाणक का निकलना\"]\n"
-                 "  B --> H[\"६ धातुओं का क्षय\"]\n"),
+        "type": "table",
+        "title": "इकाई ४६: वृद्ध वय: वात की अधिकता",
+        "heads": ["क्रम", "तेन: उससे"],
+        "rows": [["१", "मांस-सन्धि की शिथिलता (विभाजन अनिश्चित)"], ["२", "त्वचा की रूखाई"], ["३", "शरीर का झुकना"],
+                 ["४", "कम्पन"], ["५", "कास, श्वास, श्लेष्मा-सिंघाणक का निकलना"], ["६", "धातुओं का क्षय"]],
     },
 }
