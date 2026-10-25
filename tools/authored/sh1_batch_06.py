@@ -140,7 +140,7 @@ AUTHORED["69"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 69, by what has the semen been greatly altered?",
-            ("By Vāyu (वायुना)", "वायुनाऽतिविकृते: greatly altered by Vāyu, the wind."),
+            ("By Vāyu (वायुना)", "वायुनाऽतिविकृते: greatly altered by vāyu (Vāta)."),
             [("By Pitta (heat)", "Pitta is not named in this unit."),
              ("By Kapha", "Kapha is not named in this unit."),
              ("By the blood (rakta)", "Blood is not named in this unit.")],

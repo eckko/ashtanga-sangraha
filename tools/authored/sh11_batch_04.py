@@ -11,11 +11,11 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 39
 AUTHORED["39"] = {
     "title": "नाभीगुदांतरं गत्वा",
-    "question": "By card 39, where does the strong one (taken as the wind) go, settle and take hold?",
+    "question": "By card 39, where does the strong one (taken as vāyu, Vāta) go, settle and take hold?",
     "rule": ("Having gone to the space between navel and anus (नाभीगुदांतरं गत्वा), or settling in the two groins "
              "(वंक्षणौ समाश्रयन्), having seized the anus and the heart (पायुहृदये), the strong one (बली)."),
     "limits": ("No main verb: the data says cards 39 to 42 (to card 42, line 1) appear to form one run, verb मुष्णाति "
-               "(card 42), subject the wind. बली as the wind is an inference; how क्षीणदेहस्य वा attaches is unclear: "
+               "(card 42), subject vāyu (Vāta). बली as vāyu is an inference; how क्षीणदेहस्य वा attaches is unclear: "
                "no question on these or on the case of पायुहृदये."),
     "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से कार्ड ४२ की पहली पंक्ति तक एक ही वाक्य प्रतीत होता है, जिसकी क्रिया "
                    "‘मुष्णाति’ (हर लेता है) कार्ड ४२ में है और कर्ता वायु (मारुत) है। "
@@ -133,9 +133,9 @@ AUTHORED["40"] = {
 # ---------------------------------------------------------------- unit 41
 AUTHORED["41"] = {
     "title": "श्वासं वा जनयन् वायुः",
-    "question": "By card 41, what does the wind produce, and what does it seize?",
-    "rule": ("Or producing breathlessness (श्वासम्), the wind (वायुः), having seized the anus and the groins (गुदवंक्षणौ), "
-             "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), the wind (मारुतः)."),
+    "question": "By card 41, what does vāyu (Vāta) produce, and what does it seize?",
+    "rule": ("Or producing breathlessness (श्वासम्), vāyu (वायुः, Vāta), having seized the anus and the groins (गुदवंक्षणौ), "
+             "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), māruta (मारुतः, Vāta)."),
     "limits": ("Typed prose: no metre question. No main verb: the run (cards 39 to 42) ends in मुष्णाति. "
                "पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on the space or the stem "
                "पर्शुक/पर्शुका (अग्राणि = tips is sure), nor on the number of गुदवंक्षणौ."),
@@ -151,26 +151,26 @@ AUTHORED["41"] = {
             [("Persistent cough", "Cough would be कास; श्वास here is breathlessness."),
              ("Repeated hiccup", "Hiccup would be हिक्का; श्वास here is breathlessness."),
              ("Bouts of vomiting", "Vomiting would be छर्दि; श्वास here is breathlessness.")],
-            "श्वासम् = breathlessness, which the wind may produce.",
+            "श्वासम् = breathlessness, which vāyu may produce.",
             "श्वास = breathlessness."),
         match(1, "Match each word of card 41 to its meaning.",
               [["श्वासम्", "breathlessness"], ["वितत्य", "having spread out"], ["अग्राणि", "tips"],
-               ["उरः", "chest"], ["मारुतः", "wind"]],
-              "श्वासम् = breathlessness, वितत्य = having spread out, अग्राणि = tips, उरः = chest, मारुतः = wind.",
+               ["उरः", "chest"], ["मारुतः", "māruta (Vāta)"]],
+              "श्वासम् = breathlessness, वितत्य = having spread out, अग्राणि = tips, उरः = chest, मारुतः = māruta (Vāta).",
               "श्वासम्, वितत्य, अग्राणि, उरः, मारुतः."),
         order(2, "Put these parts of card 41 in the printed order.",
               ["श्वासं वा जनयन्", "वायुर्गृहीत्वा", "गुदवंक्षणौ", "वितत्य", "गृहीत्वोरश्च", "मारुतः"],
-              "Producing breathlessness, the wind, having seized anus and groins, having spread out, having seized the chest, the wind.",
+              "Producing breathlessness, vāyu, having seized anus and groins, having spread out, having seized the chest, māruta.",
               "श्वासं वा जनयन् → वायुर्गृहीत्वा → गुदवंक्षणौ → वितत्य → गृहीत्वोरश्च → मारुतः.",
               role="extend",
-              teaches="The subject is named twice, वायुः in line 1 and मारुतः at the end of line 2: two words for the one wind."),
-        mcq("discriminate", 3, "Card 41 names the wind with two words. Which pair is it?",
-            ("वायुः and मारुतः", "वायुः (line 1) and मारुतः (line 2) both mean the wind."),
-            [("श्वासः and मारुतः", "श्वास is breathlessness; only मारुतः is the wind."),
-             ("वायुः and उरः", "उरः is the chest; only वायुः is the wind."),
-             ("वितत्य and वायुः", "वितत्य means having spread out; only वायुः is the wind.")],
+              teaches="The subject is named twice, वायुः in line 1 and मारुतः at the end of line 2: two words for the one vāyu (Vāta)."),
+        mcq("discriminate", 3, "Card 41 names vāyu (Vāta) with two words. Which pair is it?",
+            ("वायुः and मारुतः", "वायुः (line 1) and मारुतः (line 2) both name vāyu (Vāta)."),
+            [("श्वासः and मारुतः", "श्वास is breathlessness; only मारुतः names Vāta."),
+             ("वायुः and उरः", "उरः is the chest; only वायुः names Vāta."),
+             ("वितत्य and वायुः", "वितत्य means having spread out; only वायुः names Vāta.")],
             "वायुः and मारुतः: one subject, two names.",
-            "वायु = मारुत = wind."),
+            "वायु = मारुत = Vāta."),
         mcq("apply", 4, "Which split of गृहीत्वोरश्च in card 41 is right?",
             ("गृहीत्वा + उरः + च", "आ + उ → ओ; ः before च → श्: गृहीत्वोरश्च."),
             [("गृहीत्वा + अरः + च", "आ + अ would print गृहीत्वारश्च, with आ."),
@@ -192,8 +192,8 @@ AUTHORED["41"] = {
 # ---------------------------------------------------------------- unit 42
 AUTHORED["42"] = {
     "title": "सद्यो मुष्णाति जीवितं",
-    "question": "What does card 42 say the wind does at once, and which signs does line 2 list?",
-    "rule": ("सद्यो मुष्णाति जीवितम्: (the wind) at once steals life; the data takes this verb as closing the run of cards "
+    "question": "What does card 42 say vāyu (Vāta) does at once, and which signs does line 2 list?",
+    "rule": ("सद्यो मुष्णाति जीवितम्: (vāyu) at once steals life; the data takes this verb as closing the run of cards "
              "39 to 42. Line 2: suddenly the burning heat of fever, thirst, fainting and loss of strength."),
     "limits": ("Medium confidence. Printed आन्नत- for उन्नत- (raised eyes) and the missing space before सद्यो are flagged, and "
                "स्तिमित may mean still or moist: no question on either. Line 2 has no verb; the data's notes join it with card 43 "
@@ -873,7 +873,7 @@ IMAGE_SPECS = {
     ("39", "chain"): {
         "file": "sh11-nabhi-guda-39.svg",
         "alt": ("Chain of card 39 in printed order: having gone to the space between navel and anus, or settling in the two "
-                "groins, having seized the anus and the heart, the strong one (the data takes it as the wind)."),
+                "groins, having seized the anus and the heart, the strong one (the data takes it as vāyu, Vāta)."),
         "type": "chain",
         "title": "कार्ड ३९: बली कहाँ जाता है",
         "steps": ["नाभि और गुदा के बीच जाकर", "या दोनों वंक्षण में टिककर", "गुदा (पायु) और हृदय पकड़कर",

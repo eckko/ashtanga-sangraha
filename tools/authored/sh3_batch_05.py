@@ -119,9 +119,9 @@ AUTHORED["53"] = {
 AUTHORED["54"] = {
     "title": "विशेषतश्चप्रसवकाले",
     "question": "By unit 54, what danger does the text name, especially at the time of delivery?",
-    "rule": ("Especially at delivery (प्रसवकाले), in her whose dhātus and doṣas are all set in motion, the wind (वायु), "
+    "rule": ("Especially at delivery (प्रसवकाले), in her whose dhātus and doṣas are all set in motion, vāyu (वायु, Vāta), "
              "stirred up and finding an opening, might injure (हिंस्यात्) the vital breaths (प्राणान्). इति closes the reason."),
-    "limits": ("Low confidence. त्रार्या and मुशल्यायाम are damaged words; what stirs the wind is unclear, and the pestle "
+    "limits": ("Low confidence. त्रार्या and मुशल्यायाम are damaged words; what stirs vāyu is unclear, and the pestle "
                "link is only a conjecture: no question on them. अन्तर may mean opening or opportunity. हिंस्यात् states a "
                "possibility, not a certain result."),
     "explain_hi": ("अनुमानित पाठ पर: विशेषकर प्रसव के समय, जिसके सब धातु और दोष चलायमान हो गए हैं, उस स्त्री में, कोमलता के कारण, "
@@ -131,7 +131,7 @@ AUTHORED["54"] = {
     "hook": "प्रसवकाल: सब धातु-दोष चलायमान, वायु अवसर पाकर प्राणों को चोट कर सकती।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 54, what might the stirred-up wind (vāyu) injure?",
+        mcq("pretest", 0, "By unit 54, what might the stirred-up vāyu (Vāta) injure?",
             ("The vital breaths", "प्राणान् हिंस्यात्: it might injure the vital breaths."),
             [("The bones of the fetus", "No bones are named in unit 54."),
              ("The mother's eyes", "No eyes are named in unit 54."),
@@ -159,7 +159,7 @@ AUTHORED["54"] = {
         mcq("apply", 4, "In unit 54, whose dhātus and doṣas are all set in motion?",
             ("The woman's, at delivery", "प्रचलितसर्वधातुदोषायाः is feminine genitive: of her (the woman in labour)."),
             [("The fetus's", "The compound is feminine; गर्भ (fetus) is masculine."),
-             ("The wind's", "वायुः is the subject that is stirred up, not the one described."),
+             ("Vāyu's", "वायुः is the subject that is stirred up, not the one described."),
              ("The pestle-striker's", "No striker is named in this compound.")],
             "The bahuvrīhi is feminine genitive: of her whose dhātus and doṣas are all in motion.",
             "प्रचलित-सर्व-धातु-दोषा = she in whom all dhātus and doṣas are set in motion."),
@@ -903,7 +903,7 @@ IMAGE_SPECS = {
     ("54", "chain"): {
         "file": "sh3-prasava-vayu-54.svg",
         "alt": ("Flowchart of the sure parts of unit 54: especially at delivery; all dhātus and doṣas set in motion; "
-                "because of delicacy; the wind stirred up (by what, unclear); having found an opening or opportunity; "
+                "because of delicacy; vāyu (Vāta) stirred up (by what, unclear); having found an opening or opportunity; "
                 "it might injure the vital breaths."),
         "type": "mermaid",
         "code": ("flowchart TD\n"

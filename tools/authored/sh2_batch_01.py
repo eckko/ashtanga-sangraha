@@ -248,8 +248,8 @@ AUTHORED["4"] = {
 # ---------------------------------------------------------------- unit 5
 AUTHORED["5"] = {
     "title": "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने",
-    "question": "By unit 5, what happens when wind splits śukra and ārtava into pieces?",
-    "rule": ("When śukra and ārtava are split into pieces by the wind (anila), offspring come into being according "
+    "question": "By unit 5, what happens when anila (Vāta) splits śukra and ārtava into pieces?",
+    "rule": ("When śukra and ārtava are split into pieces by anila (Vāta), offspring come into being according "
              "to the divisions (यथाविभागम्)."),
     "limits": ("The line gives no number of offspring; 'offspring' is plural only, and twins are not named. No verb "
                "is printed: उत्पत्तिः stands as a nominal sentence. Unit 6 appears to continue this line."),
@@ -261,36 +261,36 @@ AUTHORED["5"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 5, what splits śukra and ārtava into pieces?",
-            ("Wind", "अनिलेन = by wind."),
+            ("Anila (Vāta)", "अनिलेन = by anila (Vāta)."),
             [("The jīva", "The jīva is named in unit 2, not here."),
              ("The mother's food", "No food is named in this unit."),
              ("The great elements", "The elements are named in unit 2, not here.")],
-            "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने: split into pieces by the wind.",
-            "अनिलेन = by wind."),
+            "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने: split into pieces by anila (Vāta).",
+            "अनिलेन = by anila (Vāta)."),
         order(1, "Put the words of unit 5 in the line's order.",
               ["शुक्रार्तवे", "अनिलेन", "खण्डशः", "भिन्ने", "यथाविभागम्", "अपत्यानाम् उत्पत्तिः"],
-              "Śukra-ārtava, by wind, in pieces, split: according to division, the origin of offspring.",
+              "Śukra-ārtava, by anila, in pieces, split: according to division, the origin of offspring.",
               "शुक्रार्तवे → अनिलेन → खण्डशः → भिन्ने → यथाविभागम् → अपत्यानाम् उत्पत्तिः."),
         match(2, "Match each word of unit 5 to its meaning.",
-              [["अनिलेन", "by wind"], ["खण्डशः", "in pieces"], ["भिन्ने", "split, divided"],
+              [["अनिलेन", "by anila (Vāta)"], ["खण्डशः", "in pieces"], ["भिन्ने", "split, divided"],
                ["यथाविभागम्", "according to the division"], ["अपत्यानाम्", "of offspring"]],
-              "Split by wind into pieces, offspring arise according to the divisions.",
+              "Split by anila (Vāta) into pieces, offspring arise according to the divisions.",
               "अनिल, खण्डशः, भिन्न, यथाविभागम्, अपत्य.", role="extend",
-              teaches="The card glosses both अनिल (unit 5) and वायु (unit 2) as wind."),
+              teaches="अनिल (unit 5) is a name of the doṣa Vāta, as the data glosses it."),
         mcq("discriminate", 3, "Which split of शुक्रार्तवेऽनिलेन is right?",
             ("शुक्रार्तवे + अनिलेन", "ए + अ → एऽ: the ऽ marks the lost अ of अनिलेन."),
             [("शुक्रार्तवे + निलेन", "निलेन is not a word; the ऽ shows an अ was lost."),
              ("शुक्रार्तवः + अनिलेन", "-अः + अ would give शुक्रार्तवोऽनिलेन."),
              ("शुक्रार्तवम् + अनिलेन", "Then the म् would show: शुक्रार्तवमनिलेन.")],
-            "शुक्रार्तवे (locative) + अनिलेन (by wind): ए + अ → एऽ.",
+            "शुक्रार्तवे (locative) + अनिलेन (by anila): ए + अ → एऽ.",
             "ए + अ → एऽ."),
         multi("apply", 4, "Which does unit 5 state?",
               [("Exactly two offspring arise", "No number is given; अपत्यानाम् is only plural."),
                ("Śukra and ārtava are split into pieces", "Right: खण्डशो भिन्ने."),
-               ("The splitting is done by the jīva", "The agent is अनिल, wind."),
-               ("The splitting is done by wind", "Right: अनिलेन.")],
+               ("The splitting is done by the jīva", "The agent is अनिल, Vāta."),
+               ("The splitting is done by anila (Vāta)", "Right: अनिलेन.")],
               [1, 3],
-              "Split into pieces by wind; offspring arise according to the divisions, no number stated.",
+              "Split into pieces by anila (Vāta); offspring arise according to the divisions, no number stated.",
               "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने यथाविभागमपत्यानामुत्पत्तिः."),
         mcq("transfer", 5, "By the pattern of यथाविभागम्, what does यथाशक्ति mean?",
             ("According to one's strength", "यथा + noun = according to X, like यथाविभागम्."),
@@ -309,7 +309,7 @@ AUTHORED["6"] = {
     "question": "What does unit 6 add about the case when (the factors) are vitiated?",
     "rule": ("विकृते वियोन्याकृतीनाम्: when vitiated, (the origin) of those with the forms of other wombs. It appears to "
              "continue unit 5, carrying over उत्पत्तिः (origin)."),
-    "limits": ("Two words only, no verb. What is vitiated (śukra-ārtava of unit 5, or the wind) is not stated. Whether "
+    "limits": ("Two words only, no verb. What is vitiated (śukra-ārtava of unit 5, or anila, Vāta) is not stated. Whether "
                "'forms of other wombs' means animal-like shapes is not said. The link to unit 5 is the data's grouping "
                "('appears to')."),
     "explain_hi": ("इस इकाई में केवल दो शब्द हैं: ‘विकृते’ (विकृत होने पर) और ‘वियोन्याकृतीनाम्’ (अन्य योनि के आकारों वालों की)। "
@@ -561,7 +561,7 @@ AUTHORED["10"] = {
     "questions": [
         mcq("pretest", 0, "By unit 10, what blocks the paths of the rajas-carrying channels?",
             ("The embryo (garbha)", "गर्भेण = by the embryo."),
-            [("The wind (vāyu)", "Wind is not named in this unit."),
+            [("Vāyu (Vāta)", "Vāyu is not named in this unit."),
              ("The old rajas", "Old rajas is named in unit 2, not here."),
              ("The ārtava itself", "Ārtava is not named in this unit.")],
             "वर्त्मानि उपरुध्यन्ते गर्भेण: the paths are blocked by the embryo.",
@@ -636,7 +636,7 @@ AUTHORED["11"] = {
               teaches="ततः परम् is an idiom: after that, from then on."),
         mcq("discriminate", 3, "By the card, what does तस्मात् (therefore) point back to?",
             ("The blocking of the channels in unit 10", "The data links unit 11 to unit 10."),
-            [("The splitting by wind in unit 5", "That explains offspring, not the stopping of ārtava."),
+            [("The splitting by anila in unit 5", "That explains offspring, not the stopping of ārtava."),
              ("The signs of unit 7", "Unit 7 lists signs; it gives no cause."),
              ("The clean womb of unit 2", "That is a condition for conception, not this cause.")],
             "The paths are blocked by the embryo (unit 10); therefore ārtava is not seen (unit 11).",
@@ -942,7 +942,7 @@ IMAGE_SPECS = {
     },
     ("5", "chain"): {
         "file": "sh2-khandasha-5.svg",
-        "alt": ("Flowchart of unit 5: shukra and artava, split into pieces by the wind, give the origin of offspring according "
+        "alt": ("Flowchart of unit 5: shukra and artava, split into pieces by anila (Vata), give the origin of offspring according "
                 "to the divisions."),
         "type": "mermaid",
         "code": ("flowchart TD\n"

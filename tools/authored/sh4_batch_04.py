@@ -370,7 +370,7 @@ AUTHORED["46"] = {
 AUTHORED["47"] = {
     "title": "श्लेष्मणा मधुरास्यत्वम्",
     "question": "By unit 47, what signs does Śleṣman (Kapha) produce?",
-    "rule": ("By Śleṣman (Kapha): a sweet mouth (मधुरास्यत्व), nausea (उत्क्लेश), bringing up phlegm (श्लेष्मोद्वमन), "
+    "rule": ("By Śleṣman (Kapha): a sweet mouth (मधुरास्यत्व), nausea (उत्क्लेश), bringing up śleṣman (श्लेष्मोद्वमन), "
              "aversion to food (भक्तद्वेष), white hands, feet and eyes, cough (कास) and breathlessness (श्वास)."),
     "limits": ("No verb is printed; the list continues the Vāta and Pitta pictures of units 45-46. Śvāsa is kept as "
                "breathlessness; the data calls an asthma-type sense only probable. No cause or treatment is given here. A prose line."),
@@ -391,16 +391,16 @@ AUTHORED["47"] = {
             "मधुर + आस्य + त्व."),
         order(1, "Put these signs of unit 47 in the line's order.",
               ["मधुरास्यत्वम्", "उत्क्लेशः", "श्लेष्मोद्वमनं", "भक्तद्वेषः", "श्वेतहस्तपादनेत्रता", "कासः श्वासश्च"],
-              "Sweet mouth, nausea, bringing up phlegm, aversion to food, white hands-feet-eyes, cough and breathlessness.",
+              "Sweet mouth, nausea, bringing up śleṣman, aversion to food, white hands-feet-eyes, cough and breathlessness.",
               "मधुरास्यत्वम् → उत्क्लेशः → श्लेष्मोद्वमनं → भक्तद्वेषः → श्वेतहस्तपादनेत्रता → कासः श्वासश्च."),
         match(2, "Match each sign of unit 47 to its meaning.",
-              [["उत्क्लेश", "nausea"], ["श्लेष्मोद्वमन", "bringing up phlegm"], ["भक्तद्वेष", "aversion to food"],
+              [["उत्क्लेश", "nausea"], ["श्लेष्मोद्वमन", "bringing up śleṣman (Kapha)"], ["भक्तद्वेष", "aversion to food"],
                ["श्वेतहस्तपादनेत्रता", "whiteness of hands, feet and eyes"], ["श्वास", "breathlessness"]],
               "Five of the seven Kapha signs.",
               "उत्क्लेश, श्लेष्मोद्वमन, भक्तद्वेष, श्वेतहस्तपादनेत्रता, श्वास.", role="extend",
               teaches="भक्त = food, meal; द्वेष = aversion: भक्तद्वेष = aversion to food."),
         mcq("discriminate", 3, "Which split of श्लेष्मोद्वमनम् is right?",
-            ("श्लेष्म + उद्वमनम्", "अ + उ → ओ: श्लेष्म (phlegm, compound form) + उद्वमन (bringing up)."),
+            ("श्लेष्म + उद्वमनम्", "अ + उ → ओ: श्लेष्म (śleṣman, compound form) + उद्वमन (bringing up)."),
             [("श्लेष्मो + द्वमनम्", "द्वमन is not a word; the word is उद्वमन."),
              ("श्लेष्म + ओद्वमनम्", "ओद्वमन is not a word, and अ + ओ would give औ."),
              ("श्लेष्मे + उद्वमनम्", "ए before उ does not give ओ.")],
@@ -1071,7 +1071,7 @@ IMAGE_SPECS = {
     },
     ("47", "diagram"): {
         "file": "sh4-kapha-lakshana-47.svg",
-        "alt": ("Table of unit 47, Kapha signs in line order: sweet mouth; nausea; bringing up phlegm; aversion to food; "
+        "alt": ("Table of unit 47, Kapha signs in line order: sweet mouth; nausea; bringing up śleṣman (Kapha); aversion to food; "
                 "white hands, feet and eyes; cough; breathlessness."),
         "type": "table",
         "title": "इकाई ४७: कफ के लक्षण",

@@ -698,7 +698,7 @@ AUTHORED["37"] = {
               teaches="Line 1 describes the subject (feminine); line 2 gives the person (genitive) and the verb."),
         mcq("discriminate", 3, "By card 37, where does the vātāṣṭhīlā remain?",
             ("In the heart", "तिष्ठन्ती दारुणा हृदि: remaining dreadful in the heart."),
-            [("In the groins", "The groins (वंक्षणौ) are named in card 39, of the wind, not here."),
+            [("In the groins", "The groins (वंक्षणौ) are named in card 39, of vāyu, not here."),
              ("In the calves", "The calves are named in cards 27 and 38, not as its place."),
              ("In the throat", "No throat is named in card 37; the place is हृदि.")],
             "हृदि = in the heart (locative of हृद्).",
@@ -724,8 +724,8 @@ AUTHORED["37"] = {
 # ---------------------------------------------------------------- unit 38
 AUTHORED["38"] = {
     "title": "शैथिल्यं पिंडिके वायुः",
-    "question": "By card 38, what does the wind do to the calves and to the manyā before it steals life?",
-    "rule": ("The wind (वायुः), having brought (नीत्वा) the two calves to slackness (शैथिल्यम्) and the nose to crookedness "
+    "question": "By card 38, what does vāyu (Vāta) do to the calves and to the manyā before it steals life?",
+    "rule": ("Vāyu (वायुः, Vāta), having brought (नीत्वा) the two calves to slackness (शैथिल्यम्) and the nose to crookedness "
              "(conjectural), or, of a wasted one, having drawn tight (आयम्य) the two manyā, at once steals life."),
     "limits": ("Verse, medium confidence. Printed जिह्रतां is no word; crookedness (जिह्मताम्) is a conjecture: no question on the "
                "nose's state. manyā as the side of the neck is probable. How वा joins the two actions is the data's reading."),
@@ -751,7 +751,7 @@ AUTHORED["38"] = {
               "शैथिल्यं, पिंडिके, नीत्वा, नासां, आयम्य."),
         order(2, "Put these printed words of card 38 in the printed order.",
               ["शैथिल्यं", "पिंडिके", "वायुर्नीत्वा", "नासां च", "क्षीणस्यायम्य", "मन्ये वा"],
-              "Line 1: slackness, the calves, the wind having brought, and the nose. Line 2: of the wasted one having drawn tight, the manyā, or.",
+              "Line 1: slackness, the calves, vāyu having brought, and the nose. Line 2: of the wasted one having drawn tight, the manyā, or.",
               "शैथिल्यं → पिंडिके → वायुर्नीत्वा → नासां च → क्षीणस्यायम्य → मन्ये वा.",
               role="extend",
               teaches="Two gerunds, नीत्वा and आयम्य, come before the one main verb मुष्णाति."),
@@ -988,7 +988,7 @@ IMAGE_SPECS = {
     },
     ("38", "seesaw"): {
         "file": "sh11-shaithilya-38.svg",
-        "alt": ("Split of card 38: the wind brings the two calves to slackness, or, in a wasted one, draws the two manyā "
+        "alt": ("Split of card 38: vāyu (Vāta) brings the two calves to slackness, or, in a wasted one, draws the two manyā "
                 "tight (side of the neck, probable); either way it at once steals life."),
         "type": "split",
         "title": "कार्ड ३८: ढीला या तना",

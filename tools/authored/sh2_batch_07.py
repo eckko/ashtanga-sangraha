@@ -526,7 +526,7 @@ AUTHORED["84"] = {
 AUTHORED["85"] = {
     "title": "यदा पुरुषस्य गर्भस्य",
     "question": "What, by unit 85, destroys the testes of the male embryo, and what is the result called?",
-    "rule": ("When the testes (वृषण) of the male embryo are destroyed through the fault of wind (vāyu) and fire (agni), "
+    "rule": ("When the testes (वृषण) of the male embryo are destroyed through the fault of vāyu (Vāta) and fire (agni), "
              "then (it) becomes the one called vāyupiṇḍaka."),
     "limits": ("दोष is read 'fault' here, not the humour, because it is compounded with vāyu and agni. Whether one or both "
                "testes is not marked in the compound. वायुपिण्डक is a type name, left untranslated; the subject of भवति is not stated."),
@@ -546,10 +546,10 @@ AUTHORED["85"] = {
             "वृषणनाश = destruction of the testes."),
         order(1, "Put these pieces of unit 85 in their printed order.",
               ["यदा पुरुषस्य गर्भस्य", "वाय्वग्निदोषात्", "वृषणनाशः", "तदा", "वायुपिंडकाख्यं भवति"],
-              "When, of the male embryo, through the fault of wind and fire, destruction of the testes, then, (it) becomes the one called vāyupiṇḍaka.",
+              "When, of the male embryo, through the fault of vāyu and fire, destruction of the testes, then, (it) becomes the one called vāyupiṇḍaka.",
               "गर्भस्य → वाय्वग्निदोषात् → वृषणनाशः → तदा → वायुपिण्डकाख्यम्."),
         T(match(2, "Match each word of unit 85 to its meaning on the card.",
-                [["वायु", "wind"], ["अग्नि", "fire"], ["दोष", "fault (here)"], ["वृषण", "testis"], ["नाश", "destruction"]],
+                [["वायु", "vāyu (Vāta)"], ["अग्नि", "fire"], ["दोष", "fault (here)"], ["वृषण", "testis"], ["नाश", "destruction"]],
                 "Five words carry the cause and the harm.",
                 "वायु; अग्नि; दोष (fault); वृषण; नाश.", role="extend"),
           "Here दोष, compounded with vāyu and agni, is read 'fault', not the humour."),
@@ -558,7 +558,7 @@ AUTHORED["85"] = {
             [("वायुः + अग्नि", "उः + अ would give वायुरग्नि."),
              ("वाय्व + अग्नि", "अ + अ would join as आ: वाय्वाग्नि."),
              ("वाय् + वग्नि", "वग्नि is not a word of the card.")],
-            "वायु (wind) + अग्नि (fire): उ + अ → व.",
+            "वायु (Vāta) + अग्नि (fire): उ + अ → व.",
             "उ + a different vowel → व् + that vowel."),
         mcq("apply", 4, "By unit 85, whose testes are destroyed?",
             ("Those of the male embryo", "पुरुषस्य गर्भस्य: of the male embryo."),
@@ -619,7 +619,7 @@ AUTHORED["86"] = {
         mcq("apply", 4, "By unit 86, what cause does the ablative कर्मवैचित्र्यात् give?",
             ("The variety of action", "वैचित्र्यात्: from the variety of action."),
             [("The anger of the gods or of the ancestors", "Gods are not named in this line."),
-             ("The fault of wind and fire", "That is the cause in unit 85."),
+             ("The fault of vāyu and fire", "That is the cause in unit 85."),
              ("The mother's diet", "Diet is not named in this line.")],
             "कर्म (action) + वैचित्र्यात् (from variety): the ablative gives the cause.",
             "-आत् ablative = from, because of."),
@@ -929,7 +929,7 @@ IMAGE_SPECS = {
     },
     ("85", "diagram"): {
         "file": "sh2-vayupindaka-85.svg",
-        "alt": ("Flowchart of unit 85: the fault of wind and fire destroys the testes of the male embryo; then it is called "
+        "alt": ("Flowchart of unit 85: the fault of vayu (Vata) and fire destroys the testes of the male embryo; then it is called "
                 "vayupindaka."),
         "type": "mermaid",
         "code": ("flowchart TD\n"

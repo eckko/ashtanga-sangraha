@@ -601,7 +601,7 @@ AUTHORED["138"] = {
 AUTHORED["139"] = {
     "title": "समः समाने स्थानस्थे",
     "question": "By the verse of unit 139, what makes the agni sama, viṣama, tīkṣṇa or manda?",
-    "rule": ("Sama when Samāna (a wind) stands in its own place; viṣama when gone along a wrong path (विमार्गगे); tīkṣṇa when "
+    "rule": ("Sama when Samāna (a form of vāyu, Vāta) stands in its own place; viṣama when gone along a wrong path (विमार्गगे); tīkṣṇa when "
              "overcome by Pitta (पित्ताभिमूर्च्छिते); manda when this is afflicted by Kapha (कफपीडिते)."),
     "limits": ("One verse, two printed lines; the subject agni comes from unit 125. What goes the wrong path is not "
                "stated (the data reads Samāna), and what अस्मिन् refers to is open; no question rests on either. "

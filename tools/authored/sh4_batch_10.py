@@ -24,7 +24,7 @@ AUTHORED["123"] = {
         mcq("pretest", 0, "By unit 123, which of these does the oil make increase?",
             ("Memory and intellect", "स्मृति and मेधा are both in the list of what increases."),
             [("Sleep and body weight", "Neither sleep nor body weight is named in unit 123."),
-             ("Phlegm and body fat", "Neither is named; unit 123 lists strength, memory, ojas and others."),
+             ("Kapha and body fat", "Neither is named; unit 123 lists strength, memory, ojas and others."),
              ("Thirst and sweating", "Neither thirst nor sweating is named in unit 123.")],
             "Strength, vigour, memory, understanding, intellect, digestive fire, vīrya and ojas increase.",
             "बलपौरुषस्मृतिमतिमेधाग्निवीर्योजांसि वर्धन्ते."),

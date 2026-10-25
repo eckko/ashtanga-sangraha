@@ -673,8 +673,8 @@ AUTHORED["39"] = {
     "questions": [
         mcq("pretest", 0, "By unit 39, which doṣa is provoked and seizes the other two?",
             ("Vāyu (Vāta)", "वायुः प्रकुपितः पित्तश्लेष्माणौ परिगृह्य."),
-            [("Pitta (bile)", "Pitta is one of the two that are seized."),
-             ("Kapha (phlegm)", "Śleṣman (Kapha) is one of the two that are seized."),
+            [("Pitta", "Pitta is one of the two that are seized."),
+             ("Śleṣman (Kapha)", "Śleṣman (Kapha) is one of the two that are seized."),
              ("Rakta (blood)", "Blood is not named in unit 39.")],
             "Provoked Vāyu seizes Pitta and Kapha.",
             "वायुः प्रकुपितः."),

@@ -267,7 +267,7 @@ AUTHORED["117"] = {
             ("Faeces, dung", "पुरीष = faeces: वात-मूत्र-पुरीष, flatus, urine and dung."),
             [("Sweat", "Sweat would be स्वेद; पुरीष is faeces."),
              ("Urine", "Urine is मूत्र, the word just before पुरीष."),
-             ("Phlegm", "Phlegm would be श्लेष्मन्; पुरीष is faeces.")],
+             ("Śleṣman (Kapha)", "Śleṣman (Kapha) would be श्लेष्मन्; पुरीष is faeces.")],
             "पुरीष = faeces, dung.",
             "पुरीष = faeces."),
         order(1, "Put the items of the first list of unit 117 in the printed order.",

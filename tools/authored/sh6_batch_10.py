@@ -66,8 +66,8 @@ AUTHORED["116"] = {
 # ---------------------------------------------------------------- unit 117
 AUTHORED["117"] = {
     "title": "वायुः पुनरग्नेराहारस्य",
-    "question": "By unit 117, through what and where does vāyu (wind) appear?",
-    "rule": ("Vāyu (wind), through the abundance and scarcity (बह्वल्पतया) of the fire (अग्नेः) and of the food "
+    "question": "By unit 117, through what and where does vāyu (Vāta) appear?",
+    "rule": ("Vāyu (Vāta), through the abundance and scarcity (बह्वल्पतया) of the fire (अग्नेः) and of the food "
              "(आहारस्य), appears (प्रादुर्भवति) in the koṣṭha (belly cavity); it is called amūrta (non-corporeal) and "
              "śabdavān (having sound)."),
     "limits": ("Prose; confidence low. 'पंचातमा' is printed; पञ्चात्मा (five-natured) is a conjecture, and the five "
@@ -81,7 +81,7 @@ AUTHORED["117"] = {
     "hook": "अग्नि और आहार कम-ज़्यादा: कोष्ठ में वायु प्रकट।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 117, where does vāyu (wind) appear (prādurbhavati)?",
+        mcq("pretest", 0, "By unit 117, where does vāyu (Vāta) appear (prādurbhavati)?",
             ("In the koṣṭha (belly cavity)", "कोष्ठे प्रादुर्भवति: it appears in the koṣṭha."),
             [("In the asthi (the bone tissue)", "No bone is named in unit 117."),
              ("In the tvac (the skin)", "No skin is named in unit 117."),
@@ -90,12 +90,12 @@ AUTHORED["117"] = {
             "कोष्ठे प्रादुर्भवति."),
         order(1, "Put these printed phrases of unit 117 in the line's order.",
               ["वायुः", "पुनरग्नेराहारस्य च", "बह्वल्पतया", "कोष्ठे प्रादुर्भवति"],
-              "Wind; however, of fire and food; through abundance and scarcity; appears in the koṣṭha.",
+              "Vāyu; however, of fire and food; through abundance and scarcity; appears in the koṣṭha.",
               "वायुः → पुनरग्नेराहारस्य च → बह्वल्पतया → कोष्ठे प्रादुर्भवति."),
         match(2, "Match each word of unit 117 to its meaning.",
-              [["वायु", "wind"], ["अग्नि", "fire"], ["आहार", "food"], ["अमूर्त", "non-corporeal"],
+              [["वायु", "vāyu (Vāta)"], ["अग्नि", "fire"], ["आहार", "food"], ["अमूर्त", "non-corporeal"],
                ["कोष्ठ", "storehouse, belly cavity"]],
-              "वायु = wind; अग्नि = fire; आहार = food; अमूर्त = non-corporeal; कोष्ठ = belly cavity.",
+              "वायु = vāyu (Vāta); अग्नि = fire; आहार = food; अमूर्त = non-corporeal; कोष्ठ = belly cavity.",
               "वायु, अग्नि, आहार, अमूर्त, कोष्ठ.", role="extend",
               teaches="बह्वल्पता = बहु + अल्प + ता: a dvandva of 'much' and 'little' made abstract, 'abundance and scarcity'."),
         mcq("discriminate", 3, "Which split of पुनरग्नेराहारस्य in unit 117 is right?",

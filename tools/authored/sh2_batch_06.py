@@ -7,9 +7,9 @@ AUTHORED = {}
 AUTHORED["64"] = {
     "title": "जन्मकाले तु",
     "question": "By unit 64, how does the child come out at birth, and what follows it?",
-    "rule": ("At birth, through contact with the wind of parturition (prasūti-māruta), the child turns round and comes out "
+    "rule": ("At birth, through contact with the prasūti-māruta (the māruta, Vāta, of parturition), the child turns round and comes out "
              "head downward (अवाक्शिराः); afterwards the aparā (placenta) comes out, detached from the mother's heart."),
-    "limits": ("Prose. That prasūti-māruta means the contractions of labour is probable only; the text says wind of "
+    "limits": ("Prose. That prasūti-māruta means the contractions of labour is probable only; the text says the māruta (Vāta) of "
                "parturition. The aparā comes away from the mother's heart as printed; the card does not reinterpret it. "
                "The verb निष्क्रामति is understood again with अपरा; the child is the unstated subject."),
     "explain_hi": ("यह गद्य-पंक्ति जन्म के समय का क्रम बताती है। प्रसूति-मारुत यानी प्रसव की वायु के संयोग से गर्भ पलटता है "
@@ -29,11 +29,11 @@ AUTHORED["64"] = {
             "अवाक्शिराः = with head downward."),
         order(1, "Put these words of unit 64 in the line's order.",
               ["जन्मकाले", "प्रसूतिमारुतयोगात्", "परिवृत्त्या", "अवाक्शिराः", "निष्क्रामति", "अपरा च्युता"],
-              "At birth, through contact with the wind of parturition, by turning round, head downward, he comes out; "
+              "At birth, through contact with the māruta (Vāta) of parturition, by turning round, head downward, he comes out; "
               "then the aparā, detached.",
               "जन्मकाले → प्रसूतिमारुतयोगात् → परिवृत्त्या → अवाक्शिराः → निष्क्रामति → अपरा च्युता."),
         match(2, "Match each word of unit 64 to its meaning.",
-              [["प्रसूतिमारुत", "wind of parturition"], ["परिवृत्त्या", "by turning round"],
+              [["प्रसूतिमारुत", "māruta (Vāta) of parturition"], ["परिवृत्त्या", "by turning round"],
                ["अवाक्शिराः", "head downward"], ["अपरा", "placenta"], ["च्युता", "detached"]],
               "These five words carry the whole sequence of the birth.",
               "प्रसूतिमारुत, परिवृत्ति, अवाक्शिराः, अपरा, च्युता.", role="extend",
@@ -832,7 +832,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("64", "chain"): {
         "file": "sh2-janma-krama-64.svg",
-        "alt": ("Flowchart of unit 64: at the time of birth, contact with the wind of parturition, turning round, coming "
+        "alt": ("Flowchart of unit 64: at the time of birth, contact with the prasūti-māruta (Vāta of parturition), turning round, coming "
                 "out head downward, and afterwards the aparā (placenta), detached from the mother's heart."),
         "type": "mermaid",
         "code": ("flowchart TD\n"

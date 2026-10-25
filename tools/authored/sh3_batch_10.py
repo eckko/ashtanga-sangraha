@@ -133,7 +133,7 @@ AUTHORED["117"] = {
 # ---------------------------------------------------------------- unit 118
 AUTHORED["118"] = {
     "title": "तथा न वायुः ... अनवकाशत्वात्",
-    "question": "By unit 118, why would vāyu (wind) not produce an alteration of the belly?",
+    "question": "By unit 118, why would vāyu (Vāta) not produce an alteration of the belly?",
     "rule": ("Thus (तथा) vāyu would not produce an alteration of the belly (उदरविकृति), because there is no space "
              "(अनवकाशत्वात्). -त्वात् = because of being."),
     "limits": ("The line does not name what 'thus' points back to; by the sequence it follows the wrapping of unit 117. "
@@ -155,10 +155,10 @@ AUTHORED["118"] = {
             "अनवकाशत्वात् = because of absence of space."),
         order(1, "Put the words of unit 118 in the line's order.",
               ["तथा", "न", "वायुः", "उदरविकृतिम्", "उत्पादयेत्", "अनवकाशत्वात्"],
-              "Thus not wind the belly's alteration would produce, because of no space.",
+              "Thus not vāyu the belly's alteration would produce, because of no space.",
               "तथा → न → वायुः → उदरविकृतिम् → उत्पादयेत् → अनवकाशत्वात्."),
         match(2, "Match each word of unit 118 to its meaning.",
-              [["वायुः", "wind (vāyu)"], ["उदर", "belly"], ["विकृति", "alteration"],
+              [["वायुः", "vāyu (Vāta)"], ["उदर", "belly"], ["विकृति", "alteration"],
                ["उत्पादयेत्", "would produce"], ["अनवकाशत्वात्", "because of absence of space"]],
               "Five words carry the whole statement.",
               "वायुः, उदर, विकृति, उत्पादयेत्, अनवकाशत्वात्.", role="extend",
@@ -522,7 +522,7 @@ AUTHORED["124"] = {
         mcq("discriminate", 3, "In unit 124, what is the reason behind तस्मात् (therefore)?",
             ("Her disease is hard to cure or incurable", "That sentence comes just before तस्मात्."),
             [("She is hungry and needs sneha", "Hunger is unit 116."),
-             ("The wind has no space in her belly", "That is unit 118."),
+             ("Vāyu has no space in her belly", "That is unit 118."),
              ("Her menses have appeared again", "That is a view in unit 126.")],
             "Because her disease is hard to cure, she must be treated with effort.",
             "... असाध्यो वा, तस्मात् ... प्रयत्नेनोपचरेत्."),
@@ -857,7 +857,7 @@ AIDS = {
         "chunks": "तथा न वायुः | उदरविक्कृतिम् | उत्पादयेत् | अनवकाशत्वात्",
         "sandhi": "उ के बाद विसर्ग → र् स्वर से पहले: वायुः + उदर → वायुरुदर · त् → द् स्वर से पहले: उत्पादयेत् + अनवकाशत्वात् → उत्पादयेदनवकाशत्वात्।",
         "frame": "निषेध (न) + कर्ता (वायुः) + कर्म (उदरविकृतिम्) + क्रिया (उत्पादयेत्) + कारण (अनवकाशत्वात्: पञ्चमी)।",
-        "anchors": "याद-सूत्र: भरे थैले में हवा नहीं घूमती; जगह नहीं तो विकार नहीं। (मेरी याद-पद्धति, ग्रन्थ का दावा नहीं)",
+        "anchors": "याद-सूत्र: भरे थैले में वायु को घूमने की जगह नहीं; जगह नहीं तो विकार नहीं। (मेरी याद-पद्धति, ग्रन्थ का दावा नहीं)",
     },
     "119": {
         "diagram": {"groups": [

@@ -223,7 +223,7 @@ AUTHORED["4"] = {
         mcq("apply", 4, "By unit 4, what presides over the great elements from which origination comes?",
             ("Consciousness (cetanā)", "चेतनाधिष्ठितेभ्यः: presided over by consciousness."),
             [("The guṇa tamas (inertia)", "No single guṇa is named as presiding in unit 4."),
-             ("The doṣa vāta (wind)", "No doṣa is named in unit 4."),
+             ("The doṣa Vāta", "No doṣa is named in unit 4."),
              ("The mind (manas) alone", "The line names cetanā, not manas.")],
             "The great elements are presided over by consciousness.",
             "चेतना + अधिष्ठित = presided over by consciousness."),

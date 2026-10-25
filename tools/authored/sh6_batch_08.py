@@ -365,7 +365,7 @@ AUTHORED["97"] = {
     "rule": ("That agni, the inner fire, kindled by samāna, cooks the food eaten by rule: drawn into the koṣṭha by "
              "prāṇa, its mass broken by liquids, softened by sneha, lying in the āmāśaya like water and rice in a pot."),
     "limits": ("Prose, one long sentence, medium confidence. āmāśaya = stomach is probable; koṣṭha = storehouse, belly. "
-               "Prāṇa and samāna are doctrinal names of winds, kept. The unit does not say how long the cooking takes "
+               "Prāṇa and samāna are doctrinal names of forms of vāyu (Vāta), kept. The unit does not say how long the cooking takes "
                "or what it yields."),
     "explain_hi": ("यह लम्बा गद्य-वाक्य बताता है कि भीतरी अग्नि भोजन को कैसे पकाती है। "
                    "विधि से खाया गया अन्न प्राण वायु द्वारा कोष्ठ (भण्डार, पेट) में खींचा जाता है; द्रवों से उसका संघात यानी पिण्ड टूटता है, और स्नेह (तेल या वसा) से वह नरम होता है। "
@@ -541,9 +541,9 @@ AUTHORED["100"] = {
     "title": "प्राप्य च पक्वाशयं कटुकीभूतमनिलं",
     "question": "By unit 100, where has the food arrived, and which doṣa does it stir up?",
     "rule": ("Having reached (प्राप्य) the pakvāśaya (probably the large-bowel region), the food, turned pungent "
-             "(कटुकीभूतम्), stirs up anila, the wind, that is Vāta; the verb is carried from card 98."),
+             "(कटुकीभूतम्), stirs up anila, that is Vāta; the verb is carried from card 98."),
     "limits": ("Prose, elliptical: verb and subject come from card 98. pakvāśaya = large-bowel region is probable. anila "
-               "(wind) means the doṣa Vāta here by context."),
+               "means the doṣa Vāta here by context."),
     "explain_hi": ("यह पकने का तीसरा चरण है: पक्वाशय (पचे अन्न का स्थान, सम्भवतः बड़ी आँत का क्षेत्र) में पहुँचकर अन्न कटु (तीखा) हो जाता है और अनिल यानी वात को उभारता है। "
                    "क्रिया ‘उदीरयति’ और कर्ता अन्न इकाई ९८ से समझे जाते हैं। "
                    "‘प्राप्य’ = पहुँचकर; प्र + √आप् का -य वाला रूप, क्योंकि धातु से पहले उपसर्ग है। "
@@ -560,12 +560,12 @@ AUTHORED["100"] = {
             "कटुकीभूतम् अनिलम् (उदीरयति)."),
         order(1, "Put the words of unit 100 in the printed order.",
               ["प्राप्य", "च", "पक्वाशयं", "कटुकीभूतमनिलं"],
-              "Having reached, and, the pakvāśaya, turned pungent, the wind.",
+              "Having reached, and, the pakvāśaya, turned pungent, anila.",
               "प्राप्य → च → पक्वाशयं → कटुकीभूतमनिलं."),
         match(2, "Match each word of unit 100 to its meaning.",
               [["प्राप्य", "having reached"], ["पक्वाशयम्", "the seat of the digested (pakvāśaya)"],
-               ["कटुकीभूतम्", "turned pungent"], ["अनिलम्", "the wind (Vāta)"]],
-              "Having reached the pakvāśaya, turned pungent, (it stirs up) the wind.",
+               ["कटुकीभूतम्", "turned pungent"], ["अनिलम्", "anila (Vāta)"]],
+              "Having reached the pakvāśaya, turned pungent, (it stirs up) anila (Vāta).",
               "प्राप्य, पक्वाशयम्, कटुकीभूतम्, अनिलम्.", role="extend",
               teaches="प्राप्य is an absolutive in -य (prefix प्र + √आप्): having reached."),
         mcq("discriminate", 3, "By unit 100, where has the food arrived when it turns pungent?",
@@ -597,7 +597,7 @@ AUTHORED["100"] = {
 AUTHORED["101"] = {
     "title": "ततश्चैवं विक्लिन्नआहारे",
     "question": "What can be read with certainty in the damaged unit 101?",
-    "rule": ("Then, thus, with the food moistened, five (unclear words), scattered by wind (वायुना), each according to "
+    "rule": ("Then, thus, with the food moistened, five (unclear words), scattered by vāyu (वायुना, Vāta), each according to "
              "its own (यथास्वम्), cook (पचन्ति) only the five element-qualities lying in the food (भूतगुणान् आहारस्थान्)."),
     "limits": ("Prose, low confidence, damaged print. पंचातमक महाभूतन मयो is unclear; the restoration पञ्चात्मकाः "
                "महाभूताग्नयः is only a guess and is not adopted. So who cooks and what is scattered are uncertain: no "
@@ -619,12 +619,12 @@ AUTHORED["101"] = {
             "यथा + स्वम्: according to (its) own."),
         order(1, "Put these readable parts of unit 101 in the printed order (the damaged middle is left out).",
               ["ततश्चैवं", "विक्लिन्नआहारे", "वायुना", "व्यस्तान्यथास्वं", "पंचैवभूतगुणानाहारस्थान्", "पचंति"],
-              "Then thus, the food moistened, ... by wind, scattered, each according to its own, only the five element-qualities lying in the food, cook.",
+              "Then thus, the food moistened, ... by vāyu, scattered, each according to its own, only the five element-qualities lying in the food, cook.",
               "ततश्चैवं → विक्लिन्नआहारे → वायुना → व्यस्तान्यथास्वं → पंचैवभूतगुणानाहारस्थान् → पचंति."),
         match(2, "Match each readable word of unit 101 to its meaning.",
-              [["वायुना", "by wind"], ["यथास्वम्", "each according to its own"], ["भूतगुण", "element-quality"],
+              [["वायुना", "by vāyu (Vāta)"], ["यथास्वम्", "each according to its own"], ["भूतगुण", "element-quality"],
                ["आहारस्थ", "lying in the food"], ["पचन्ति", "(they) cook"]],
-              "By wind ... each according to its own ... the element-qualities lying in the food ... cook.",
+              "By vāyu ... each according to its own ... the element-qualities lying in the food ... cook.",
               "वायुना, यथास्वम्, भूतगुण, आहारस्थ, पचन्ति.", role="extend",
               teaches="आहारस्थ = आहार + स्थ ('standing in'): the element-qualities that lie in the food."),
         mcq("discriminate", 3, "Which split of ततश्चैवं in unit 101 is right?",

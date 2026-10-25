@@ -8,7 +8,7 @@ AUTHORED["27"] = {
     "title": "तैलेनानुवासयेदनुलोमनाय वायोः",
     "question": "By unit 27, with what oil is an anuvāsana given, and for what purpose?",
     "rule": ("One should give an anuvāsana (oil enema) with oil cooked with sweet medicines beginning with madhuka "
-             "(probably licorice), for the anulomana (downward movement) of vāyu, the wind (Vāta)."),
+             "(probably licorice), for the anulomana (downward movement) of vāyu (Vāta)."),
     "limits": ("Low confidence. The badly printed first word ('for cleansing the old stool') is a conjecture; no "
                "question rests on it. The other sweet medicines are not named; madhuka is probably licorice. No month, "
                "dose or timing is printed. Prose."),
@@ -47,12 +47,12 @@ AUTHORED["27"] = {
             "तैलेन (with oil) + अनुवासयेत् (should give an oil enema): अ + अ → आ.",
             "अ + अ → आ."),
         mcq("apply", 4, "In unit 27, what purpose does the dative अनुलोमनाय (with वायोः) state?",
-            ("The downward movement of the wind", "अनुलोमनाय वायोः: for the anulomana of vāyu."),
+            ("The downward movement of vāyu", "अनुलोमनाय वायोः: for the anulomana of vāyu."),
             [("The oiling of the embryo's passage", "That purpose belongs to the picu of unit 31."),
              ("The softening of belly and back", "Softening is the result stated in unit 32."),
              ("A cooling of the woman's skin", "No cooling of the skin is named in unit 27.")],
             "The sure purpose of the line: to make vāyu move downward.",
-            "अनुलोमनाय वायोः = for the downward movement of the wind."),
+            "अनुलोमनाय वायोः = for the downward movement of vāyu (Vāta)."),
         mcq("transfer", 5, "By the dative of अनुलोमनाय (for anulomana), what does रक्षणाय mean?",
             ("For protection", "-आय is the dative singular of an अ-stem: for, for the purpose of."),
             [("By protection", "By protection would be the instrumental रक्षणेन."),
@@ -67,8 +67,8 @@ AUTHORED["27"] = {
 # ---------------------------------------------------------------- unit 28
 AUTHORED["28"] = {
     "title": "अनुलोमे हिमारुते सुखमनुपद्रवा प्रसूते",
-    "question": "By unit 28, why does the downward wind matter, and how is the enema given to the pregnant woman?",
-    "rule": ("For (हि) when the wind (मारुत) moves downward (अनुलोम), she gives birth easily (सुखम्) and free of "
+    "question": "By unit 28, why does the downward movement of māruta (Vāta) matter, and how is the enema given to the pregnant woman?",
+    "rule": ("For (हि) when māruta (मारुत, Vāta) moves downward (अनुलोम), she gives birth easily (सुखम्) and free of "
              "complications (अनुपद्रवा). The pregnant woman, face down (न्युब्जा), is given an āsthāpana or an anuvāsana."),
     "limits": ("Two printed lines joined. हिमारुते is printed as one word: हि + मारुते. The posture न्युब्ज (face down) "
                "is not described further, nor when to choose which enema (वा = or). The data's note takes the line as "
@@ -81,19 +81,19 @@ AUTHORED["28"] = {
     "hook": "वायु अनुलोम → सुख-प्रसव; औंधी गर्भिणी को बस्ति।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By unit 28, how does she give birth when the wind moves downward?",
+        mcq("pretest", 0, "By unit 28, how does she give birth when māruta (Vāta) moves downward?",
             ("Easily and free of complications", "सुखमनुपद्रवा प्रसूते: easily, without complications."),
             [("Slowly, after a long, hard labour", "सुखम् means easily; no long or hard labour is named."),
              ("Early, before the due time", "No time of birth is named in unit 28."),
              ("With pain, though safely", "No pain is named; सुखम् means easily.")],
-            "With the wind moving downward, the birth is easy and free of complications.",
+            "With māruta (Vāta) moving downward, the birth is easy and free of complications.",
             "अनुलोमे हि मारुते सुखम् अनुपद्रवा प्रसूते."),
         order(1, "Put the words of the first sentence of unit 28 in the line's order.",
               ["अनुलोमे", "हि", "मारुते", "सुखम्", "अनुपद्रवा", "प्रसूते"],
-              "For when the wind is downward, easily, free of complications, she gives birth.",
+              "For when māruta is downward, easily, free of complications, she gives birth.",
               "अनुलोमे → हि → मारुते → सुखम् → अनुपद्रवा → प्रसूते."),
         match(2, "Match each word of unit 28 to its meaning.",
-              [["अनुलोम", "moving downward"], ["मारुत", "wind"], ["उपद्रव", "complication"],
+              [["अनुलोम", "moving downward"], ["मारुत", "māruta (Vāta)"], ["उपद्रव", "complication"],
                ["आस्थापयेत्", "should give a decoction enema"], ["अनुवासयेत्", "should give an oil enema"]],
               "The condition, the result, and the two enemas of the second sentence.",
               "अनुलोम, मारुत, उपद्रव, आस्थापयेत्, अनुवासयेत्.", role="extend",
@@ -142,7 +142,7 @@ AUTHORED["29"] = {
     "questions": [
         mcq("pretest", 0, "By unit 29, what follows from her passage being open?",
             ("The medicine enters properly", "सम्यगौषधमनुप्रविशति: the medicine enters properly."),
-            [("The wind becomes anuloma", "That is stated in unit 33."),
+            [("Vāyu becomes anuloma", "That is stated in unit 33."),
              ("Urine and stool become natural", "That is stated in unit 34."),
              ("Belly and back become soft", "That is stated in unit 32.")],
             "Because the passage is open, the medicine enters properly.",
@@ -365,8 +365,8 @@ AUTHORED["32"] = {
 # ---------------------------------------------------------------- unit 33
 AUTHORED["33"] = {
     "title": "वायुश्चानुलोमः संपद्यते",
-    "question": "By unit 33, what further result is stated for the wind?",
-    "rule": ("And the wind (वायु, the Vāta in the body) becomes anuloma (संपद्यते): it moves in its proper, downward "
+    "question": "By unit 33, what further result is stated for vāyu (Vāta)?",
+    "rule": ("And vāyu (वायु, the Vāta in the body) becomes anuloma (संपद्यते): it moves in its proper, downward "
              "direction."),
     "limits": ("The line names no cause; च (and) joins it by context to the result stated in unit 32 (अनेन, by this). "
                "It does not say how the downward movement shows. A prose line."),
@@ -379,35 +379,35 @@ AUTHORED["33"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 33, what becomes anuloma?",
-            ("The wind", "वायुश्चानुलोमः संपद्यते."),
+            ("Vāyu (Vāta)", "वायुश्चानुलोमः संपद्यते."),
             [("Urine and stool", "They become natural (प्रकृतिभूत), in unit 34."),
              ("The afterbirth", "The jarāyu goes to the passage, in unit 34."),
              ("The belly", "The belly becomes soft, in unit 32.")],
-            "The wind becomes anuloma.",
+            "Vāyu (Vāta) becomes anuloma.",
             "वायुः अनुलोमः संपद्यते."),
         order(1, "Put the words of unit 33 in the line's order.",
               ["वायुः", "च", "अनुलोमः", "संपद्यते"],
-              "The wind, and, downward-moving, becomes.",
+              "Vāyu, and, downward-moving, becomes.",
               "वायुः → च → अनुलोमः → संपद्यते."),
-        fill(2, "And the wind becomes downward-moving: वायुश्च ____ संपद्यते (type it in Devanagari or in English letters, e.g. dharma).",
+        fill(2, "And vāyu becomes downward-moving: वायुश्च ____ संपद्यते (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("अनुलोमः", None, "अनुलोम"),
              "अनुलोमः = moving in the proper, downward direction; printed joined as वायुश्चानुलोमः.",
-             "अनुलोम = moving downward, in the proper direction: the state the regimen brings about for the wind.",
+             "अनुलोम = moving downward, in the proper direction: the state the regimen brings about for vāyu (Vāta).",
              "वायुः च अनुलोमः संपद्यते."),
         mcq("discriminate", 3, "Which split of वायुश्चानुलोमः is right?",
             ("वायुः + च + अनुलोमः", "Visarga → श् before च; अ + अ → आ."),
             [("वायु + च + अनुलोमः", "Without a visarga no श् arises: it would be वायुचानुलोमः."),
              ("वायुः + चा + नुलोमः", "नुलोमः is not a word; the word is अनुलोमः."),
              ("वायुः + चन + उलोमः", "चन and उलोमः are not the words here.")],
-            "वायुः (wind) + च (and) + अनुलोमः (downward-moving).",
+            "वायुः (vāyu, Vāta) + च (and) + अनुलोमः (downward-moving).",
             "ः + च → श्च; अ + अ → आ."),
-        mcq("apply", 4, "In unit 33, what does अनुलोम say about the wind?",
+        mcq("apply", 4, "In unit 33, what does अनुलोम say about vāyu?",
             ("It moves in its proper, downward direction", "अनुलोमः: moving downward, in the proper direction."),
             [("It moves upward, against its natural course", "That is the opposite of अनुलोम."),
              ("It stops moving altogether", "अनुलोम is a direction of movement, not a stop."),
              ("It increases greatly in amount", "No increase is named in unit 33.")],
             "अनुलोम = in the proper, downward direction.",
-            "वायुः अनुलोमः = the wind moves downward."),
+            "वायुः अनुलोमः = vāyu (Vāta) moves downward."),
         mcq("transfer", 5, "By the rule of वायुश्च, how is शिशुः + च joined?",
             ("शिशुश्च", "Visarga before च becomes श्."),
             [("शिशुर्च", "After उ the visarga becomes र् only before a voiced sound; च is voiceless."),
@@ -440,7 +440,7 @@ AUTHORED["34"] = {
             ("The jarāyu, the afterbirth", "जरायुश्च मार्ग प्रतिपद्यते."),
             [("The milk she has drunk", "No milk is named in unit 34."),
              ("The medicine given by enema", "The medicine enters, in unit 29."),
-             ("The wind, now moving downward", "The wind becomes anuloma, in unit 33.")],
+             ("Vāyu, now moving downward", "Vāyu becomes anuloma, in unit 33.")],
             "The jarāyu goes to the passage.",
             "जरायुः मार्गं प्रतिपद्यते."),
         order(1, "Put these words of unit 34 in the line's order.",
@@ -872,7 +872,7 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "chain"): {
         "file": "sh3-anuloma-prasava-28.svg",
-        "alt": ("Two small flowcharts of unit 28: when the wind moves downward, she gives birth easily and free of "
+        "alt": ("Two small flowcharts of unit 28: when māruta (Vāta) moves downward, she gives birth easily and free of "
                 "complications; the pregnant woman, face down, is given an āsthāpana or an anuvāsana."),
         "type": "mermaid",
         "code": ("flowchart TD\n"

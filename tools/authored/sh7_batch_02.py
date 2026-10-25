@@ -577,7 +577,7 @@ AUTHORED["23"] = {
             ("One whose koṣṭha is full of Kapha", "कफपूर्णकोष्ठस्य मरणम्."),
             [("One whose koṣṭha is full of blood", "Blood-full koṣṭha is stated for other marmas (units 24, 25), not here."),
              ("One whose koṣṭha is full of pus", "Pus is not named in unit 23."),
-             ("One whose koṣṭha is full of wind", "Wind is not named in unit 23.")],
+             ("One whose koṣṭha is full of vāta", "Vāta is not named in unit 23; the text says Kapha.")],
             "At the stanamūla: death of one whose koṣṭha is full of Kapha.",
             "तयोः कफपूर्णकोष्ठस्य मरणम्."),
         mcq("transfer", 5, "By the rule of द्व्यंगुलम् (द्वि + अङ्गुलम्), how is इति + अत्र joined in a new example?",

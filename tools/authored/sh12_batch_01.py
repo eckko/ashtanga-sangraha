@@ -134,9 +134,8 @@ AUTHORED["3"] = {
     "rule": ("Of the messenger: kind (जाति), dress, speech, behaviour, place, time; of the physician: meeting him, intention, "
              "setting out, going, entering; also planetary movement, a previous occurrence and dream-sights: these indicate "
              "the auspicious and inauspicious (शुभाशुभम्)."),
-    "limits": ("Prose, medium confidence. The printed ग्रहचारो is flagged (ओ is not the sandhi form before प; ग्रहचारः is expected); "
-               "the sense of पूर्वसंभवः (previous occurrence) is uncertain; जाति may also mean birth or caste: no question on these. "
-               "The data reads रोगिणः (of the patient) with the dream-sights; no question rests on that link."),
+    "limits": ("Prose, medium confidence. ग्रहचारो is flagged (ग्रहचारः expected before प); पूर्वसंभवः (previous occurrence) is "
+               "uncertain in sense; जाति may also mean birth or caste. The data reads रोगिणः with the dream-sights. No question on these."),
     "explain_hi": ("यह इकाई बताती है कि शुभ और अशुभ की सूचना किन बातों से मिलती है (सूचयन्ति)। "
                    "दूत की जाति, वेश, भाषा, चेष्टा, स्थान और समय; वैद्य का उस दूत से मिलना (तत्संगम, तत् = दूत), संकल्प, प्रस्थान, गमन और प्रवेश; "
                    "ग्रहों की चाल, ‘पूर्वसंभव’ और स्वप्न-दर्शन: ये सब शुभाशुभ बताते हैं। "
@@ -196,9 +195,9 @@ AUTHORED["4"] = {
     "question": "By card 4, what marks make a messenger who approaches the physician inauspicious?",
     "rule": ("A messenger approaching the physician (दूतो वैद्यमुपसर्पन्) is inauspicious if, among other marks, he rides a donkey, "
              "camel or buffalo, is agitated, panting, weeping, harsh, calls from afar, or comes at a place or time like the disease."),
-    "limits": ("Prose, low confidence; one long sentence with दूतः near its end. Conjectural: charcoal, saline soil, vyādhino, "
-               "aneka and ārdra in the garment compound, pakka; spṛk is unclear; why body parts stand in a list of things borne "
-               "(-धरः) is not explained; 'releasing the ground with the feet' is unclear. No question on any of these; only some items are asked."),
+    "limits": ("Prose, low confidence; one sentence, दूतः near its end. Conjectural: charcoal, saline soil, vyādhino, aneka and "
+               "ārdra, pakka; spṛk is unclear; body parts in a list of things borne (-धरः) and 'releasing the ground' are unexplained. "
+               "No question on these; only some items are asked."),
     "explain_hi": ("यह एक लम्बा वाक्य है जिसका कर्ता ‘दूतः’ अन्त के पास आता है: ऐसा दूत वैद्य के पास आता हुआ अशुभ है। "
                    "लक्षणों में हैं: गधे, ऊँट या भैंसे पर सवारी; घबराना, हाँफना, रोना, कठोर होना, अमंगल बोलना और दूर से पुकारना; "
                    "पुराना, बदरंग, मैला, फटा एक वस्त्र; कीचड़ और तेल से लिपटा होना; रोग के समान गुण वाले स्थान या समय में आना। "
@@ -211,8 +210,8 @@ AUTHORED["4"] = {
         mcq("pretest", 0, "By card 4, which animals as the messenger's mount (वाहन) mark him as inauspicious?",
             ("Donkey, camel or buffalo", "खरोष्ट्रमहिषवाहनः: riding a donkey (खर), camel (उष्ट्र) or buffalo (महिष)."),
             [("A horse, a bull or a swan", "Card 10 lists horses, a bull and a swan among auspicious sights; card 4 names donkey, camel, buffalo."),
-             ("A lion, a boar or a fish", "Card 10 lists a lion, a boar and fish among auspicious sights; none is a mount in card 4."),
-             ("A cow with calf or a horse", "Card 10 lists a cow with calf and horses among auspicious sights; card 4 names donkey, camel, buffalo.")],
+             ("A lion, a cow or a fish", "Card 10 lists a lion, a cow and fish among auspicious sights; none is a mount in card 4."),
+             ("A horse or a yoked vehicle", "Card 10 lists horses and harnessed vehicles among auspicious sights; card 4 names donkey, camel, buffalo.")],
             "खर (donkey), उष्ट्र (camel), महिष (buffalo) as वाहन.",
             "खरोष्ट्रमहिषवाहनो ... अशुभः."),
         match(1, "Match each word describing the messenger in card 4 to its meaning.",
@@ -437,9 +436,9 @@ AUTHORED["8"] = {
     "question": "By card 8, which times, lunar days and nakṣatras are inauspicious, and when should the physician not follow the messenger?",
     "rule": ("Inauspicious: both twilights, the 4th, 6th and 9th lunar days, parva days and the nakṣatras Bharaṇī to Pūrvā; also a "
              "messenger who comes when the physician is asleep, naked, oiled or facing south. On an ill sign the physician should not follow him."),
-    "limits": ("Prose, low confidence. 'Midday' (printed मध्यान्ह) and 'midnight' (printed आर्द्रारात्रि, read अर्धरात्रि) rest on "
-               "corrections; the clauses यश्च ... and यो वा ... print no predicate; the Pūrvā nakṣatras are not specified; अशस्तम् may "
-               "go with the fire-rites; vyādhitāśraya may be the dwelling or the diseased part. No question on any of these."),
+    "limits": ("Prose, low confidence. Midday (printed मध्यान्ह) and midnight (printed आर्द्रारात्रि) rest on corrections; यश्च ... "
+               "and यो वा ... print no predicate; the Pūrvā nakṣatras are unspecified; अशस्तम् and vyādhitāśraya can be read two ways. "
+               "No question on these."),
     "explain_hi": ("यह लम्बी इकाई तीन बातें कहती है। "
                    "पहले अशुभ समय: दोनों सन्ध्याएँ, चतुर्थी, षष्ठी और नवमी तिथियाँ, पर्व के दिन, ग्रह के उपराग (ग्रहण) या उत्पात का दर्शन, "
                    "और भरणी, कृत्तिका, आर्द्रा, आश्लेषा, मघा, मूल और पूर्वा नक्षत्र; छपे ‘मध्यान्ह’ को मध्याह्न (दोपहर) और ‘आर्द्रारात्रि’ को अर्धरात्रि (आधी रात) पढ़ना सुधार पर टिका है। "
@@ -447,7 +446,7 @@ AUTHORED["8"] = {
                    "या जो दक्षिण दिशा की ओर अंजलि करके एक पैर पर खड़ा हो। "
                    "अन्त में: दूत जब बता रहा हो और वैद्य कोई अशुभ इन्द्रिय-विषय देखे या उसकी कल्पना करे, तो वह उसके पीछे न जाए (नानुयायात्)। "
                    "‘यश्च’ और ‘यो वा’ वाले वाक्यों की क्रिया नहीं छपी।"),
-    "hook": "दोनों सन्ध्याएँ, चौथ-छठ-नवमी, सात नक्षत्र अशुभ; अशुभ दिखे तो दूत के पीछे न जाए।",
+    "hook": "दोनों सन्ध्याएँ, चौथ-छठ-नवमी, भरणी से मूल और पूर्वा नक्षत्र अशुभ; अशुभ दिखे तो दूत के पीछे न जाए।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 8, which direction is named both for the physician's face and for the messenger's añjali?",
@@ -561,9 +560,9 @@ AUTHORED["10"] = {
     "question": "By card 10, what do the hundred and eight auspicious things do, and by what means?",
     "rule": ("At setting out, going and entering (प्रस्थानगमनप्रवेशेषु), the hundred and eight auspicious things (अष्टोत्तरं "
              "मङ्गलानां शतम्), such as curd, honey, ghee and flowers, by sight, touch and mention remove the inauspicious and bestow the highest success."),
-    "limits": ("Prose, low confidence; one long list. The data has not checked that the items add up to 108: no question on counts. "
-               "Conjectural readings (mirror, cloud, fresh meat, an extra मा), the unclear वंरुण, the epithets (three-eyed, slayer "
-               "of Madhu) and the probable or disputed identifications (cāṣa, kīcaka, rocanā, siddhārthaka, priyaṅgu) carry no question."),
+    "limits": ("Prose, low confidence; one long list, not checked to add up to 108: no question on counts. No question on the "
+               "conjectural readings (mirror, cloud, fresh meat), the unclear वंरुण, the epithets, or the probable or disputed "
+               "identifications (cāṣa, kīcaka, rocanā, siddhārthaka, priyaṅgu)."),
     "explain_hi": ("यह बहुत लम्बी सूची ‘प्रस्थान, गमन और प्रवेश के समय’ से आरम्भ होती है और इस सार पर समाप्त होती है: "
                    "‘मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम अर्थसिद्धि देता है।’ "
                    "सूची में खाने की वस्तुएँ (दही, मधु, घी, लाजा), वनस्पतियाँ (उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, हरिद्रा यानी हल्दी, वचा यानी बच: मानक पहचान), "
@@ -681,9 +680,9 @@ AUTHORED["12"] = {
     "question": "By card 12, on which side are male-named birds and female-named creatures auspicious, and what changes at entering?",
     "rule": ("Birds with male names (पुन्नामानः) are auspicious on the left (वामाः); those with female names (स्त्रीनामानः) on the "
              "right (प्रदक्षिणाः); at entering (प्रवेशे) these are reversed (विपरीताः)."),
-    "limits": ("Prose, low confidence, partly damaged. The list of female-named creatures has displaced vowel signs and an unclear "
-               "रला; the न clause (peacock, bear, śrīkaṇṭha, dog; elephant, goat, payas) cannot be settled; the dog-and-jackal rule "
-               "rests on reading वाम across a space. No question on these, nor on what exactly 'reversed' turns into."),
+    "limits": ("Prose, low confidence, partly damaged: displaced vowel signs and an unclear रला in the female-named list; the न "
+               "clause (peacock, bear, dog; elephant, goat, payas) is unsettled; the dog-and-jackal rule rests on a conjecture. "
+               "No question on these, nor on what 'reversed' turns into."),
     "explain_hi": ("यह इकाई दिशा का नियम देती है: पुरुष नाम वाले पक्षी बाईं ओर (वामाः) शुभ हैं; स्त्री नाम वाले दाहिनी ओर (प्रदक्षिणाः) शुभ हैं। "
                    "स्त्री नाम वालों की सूची में शिवा (सम्भवतः सियारिन), कोकिला (सम्भवतः कोयल), छुछुन्दरी (छछूंदर, मानक), सूकरी (मादा सूअर), "
                    "गृहगोधिका (सम्भवतः घर की छिपकली) और एक खुर वाले पशु हैं; छपाई में मात्राएँ खिसकी हैं और ‘रला’ अस्पष्ट है। "
@@ -866,8 +865,8 @@ AIDS = {
     "4": {
         "diagram": {"groups": [
             {"label": "सवारी", "items": ["खर: गधा", "उष्ट्र: ऊँट", "महिष: भैंसा"]},
-            {"label": "दशा और वाणी (छपे क्रम में)", "items": ["विह्वलः: घबराया", "श्वसन्: हाँफता", "रुदन्: रोता", "निष्ठुरः: कठोर",
-                                                      "अमङ्गलाभिधायी: अमंगल बोलता", "दूरादाह्वयमानः: दूर से पुकारता"]},
+            {"label": "दशा और वाणी (छपे क्रम में)", "items": ["विह्वलः = घबराया", "श्वसन् = हाँफता", "रुदन् = रोता", "निष्ठुरः = कठोर",
+                                                      "अमङ्गलाभिधायी = अमंगल बोलता", "दूरादाह्वयमानः = दूर से पुकारता"]},
             {"label": "वस्त्र", "items": ["जीर्ण: पुराना", "विवर्ण: बदरंग", "मलिन: मैला", "छिन्न: फटा"]},
             {"label": "स्थान या समय", "items": ["विकारतुल्यगुण: रोग के समान गुण वाला"]}]},
         "sandhi": ("स्वर से पहले त् → द्: दूरात् + आह्वयमानः → दूरादाह्वयमानः · अः + अ → ओऽ: निष्ठुरः + अमङ्गल- → निष्ठुरोऽमङ्गल- · "
@@ -949,9 +948,9 @@ IMAGE_SPECS = {
                 "weeping, harsh, calling from afar; an old, discoloured, dirty, torn garment; a place or time like the disease."),
         "type": "table",
         "title": "कार्ड ४: अशुभ दूत (पक्के अंश)",
-        "heads": ["विषय", "छपा शब्द: अर्थ"],
-        "rows": [["सवारी", "खर, उष्ट्र, महिष"], ["दशा", "विह्वलः: घबराया"], ["दशा", "श्वसन्: हाँफता"], ["दशा", "रुदन्: रोता"],
-                 ["वाणी", "निष्ठुरः: कठोर"], ["वाणी", "दूरादाह्वयमानः"], ["वस्त्र", "जीर्ण, विवर्ण, मलिन, छिन्न"],
+        "heads": ["विषय", "छपा शब्द = अर्थ"],
+        "rows": [["सवारी", "खर, उष्ट्र, महिष"], ["दशा", "विह्वलः = घबराया"], ["दशा", "श्वसन् = हाँफता"], ["दशा", "रुदन् = रोता"],
+                 ["वाणी", "निष्ठुरः = कठोर"], ["वाणी", "दूरादाह्वयमानः"], ["वस्त्र", "जीर्ण, विवर्ण, मलिन, छिन्न"],
                  ["स्थान, समय", "विकारतुल्यगुण"]],
     },
     ("6", "seesaw"): {
@@ -974,8 +973,8 @@ IMAGE_SPECS = {
     },
     ("8", "diagram"): {
         "file": "sh12-nakshatra-8.svg",
-        "alt": ("Numbered table of card 8: the seven inauspicious nakṣatras in printed order, Bharaṇī, Kṛttikā, Ārdrā, Āśleṣā, "
-                "Maghā, Mūla and the Pūrvā ones, and the lunar days four, six and nine."),
+        "alt": ("Numbered table of card 8: the inauspicious nakṣatras in printed order, Bharaṇī, Kṛttikā, Ārdrā, Āśleṣā, "
+                "Maghā, Mūla and the Pūrvā ones (not specified), and the lunar days four, six and nine."),
         "type": "table",
         "title": "कार्ड ८: अशुभ नक्षत्र और तिथियाँ",
         "heads": ["क्रम", "छपा नाम"],
@@ -996,8 +995,8 @@ IMAGE_SPECS = {
                 "at entering these are reversed."),
         "type": "table",
         "title": "कार्ड १२: बाएँ और दाएँ",
-        "heads": ["किनके", "कब शुभ"],
-        "rows": [["पुरुष नाम वाले पक्षी", "बाईं ओर (वामाः)"], ["स्त्री नाम वाले", "दाहिनी ओर (प्रदक्षिणाः)"],
+        "heads": ["कौन, कब", "नियम"],
+        "rows": [["पुरुष नाम वाले पक्षी", "बाईं ओर शुभ (वामाः)"], ["स्त्री नाम वाले", "दाहिनी ओर शुभ (प्रदक्षिणाः)"],
                  ["प्रवेश के समय", "उलटे (विपरीताः)"]],
     },
 }

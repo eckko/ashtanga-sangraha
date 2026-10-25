@@ -618,7 +618,7 @@ AUTHORED["78"] = {
 AUTHORED["79"] = {
     "title": "ततः कोष्ठसंक्षोभाद्वायुरपानो ... शोणितभावेन",
     "question": "By unit 79, how does the disturbance of the koṣṭha lead to the loss of the young fetus?",
-    "rule": ("Then, from the disturbance of the koṣṭha, the Apāna wind repeatedly brings about pain (in kukṣi, basti (probably the bladder), "
+    "rule": ("Then, from the disturbance of the koṣṭha, the Apāna vāyu (Vāta) repeatedly brings about pain (in kukṣi, basti (probably the bladder), "
              "sides, belly, yoni), distension (आनाह) and retention of stool and urine, and makes the young (तरुण) fetus fall in "
              "the form of blood."),
     "limits": ("The reach of 'pain' over the five places is a reading, not certain; basti = bladder is probable (basti also "
@@ -633,16 +633,16 @@ AUTHORED["79"] = {
     "hook": "क्षोभ, फिर अपान: पीड़ा, आनाह, रुकावट; कोमल गर्भ रक्त के रूप में गिरे।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By unit 79, which wind makes the young fetus fall?",
+        mcq("pretest", 0, "By unit 79, which vāyu makes the young fetus fall?",
             ("Apāna (अपान)", "वायुरपानः ... गर्भं च्यावयति."),
             [("Prāṇa (प्राण)", "The line names अपान, not prāṇa."),
              ("Udāna (उदान)", "The line names अपान, not udāna."),
              ("Vyāna (व्यान)", "The line names अपान, not vyāna.")],
-            "The Apāna wind makes the young fetus fall.",
+            "The Apāna vāyu (Vāta) makes the young fetus fall.",
             "वायुः अपानः."),
         order(1, "Put these parts of unit 79 in the line's order.",
               ["ततः", "कोष्ठसंक्षोभाद्वायुरपानो", "मुहुः", "कुक्षिबस्ति...संगानापाद्य", "गर्भं च्यावयति", "तरुणं शोणितभावेन"],
-              "Then, from the disturbance of the koṣṭha, the Apāna wind, repeatedly, having brought about pains and "
+              "Then, from the disturbance of the koṣṭha, the Apāna vāyu, repeatedly, having brought about pains and "
               "retentions, makes the fetus fall, young, in the form of blood.",
               "ततः → कोष्ठसंक्षोभाद्वायुरपानो → मुहुः → कुक्षिबस्ति...संगानापाद्य → गर्भं च्यावयति → तरुणं शोणितभावेन."),
         match(2, "Match each word of unit 79 to its meaning.",
@@ -656,7 +656,7 @@ AUTHORED["79"] = {
             [("संक्षोभाः + वायुः", "आः before a voiced sound drops the visarga: संक्षोभा वायुः."),
              ("संक्षोभम् + वायुः", "म् before a consonant is written ं: संक्षोभं वायुः."),
              ("संक्षोभा + द्वायुः", "द्वायुः is not a word; the word is वायुः.")],
-            "संक्षोभात् (from the disturbance) + वायुः (wind): त् + voiced sound → द्.",
+            "संक्षोभात् (from the disturbance) + वायुः (vāyu): त् + voiced sound → द्.",
             "त् + voiced sound → द्."),
         mcq("apply", 4, "By unit 79, in what form does the young fetus fall?",
             ("In the form of blood", "तरुणं शोणितभावेन: the young fetus, in the form of blood."),
@@ -681,7 +681,7 @@ AUTHORED["80"] = {
     "title": "सोऽभिहितः प्राक्",
     "question": "By unit 80, what does the line say about सः (that)?",
     "rule": ("That (सः) has been stated (अभिहितः) before (प्राक्). The line does not name what सः is."),
-    "limits": ("The referent of सः (masculine) is not named; it may be the abortion (garbhasrāva) or the wind, but the text "
+    "limits": ("The referent of सः (masculine) is not named; it may be the abortion (garbhasrāva) or the vāyu (Vāta), but the text "
                "does not say: no question names it. A prose line."),
     "explain_hi": ("यह बहुत छोटी गद्य-पंक्ति कहती है: वह (सः) पहले (प्राक्) कहा जा चुका है (अभिहितः)। "
                    "‘सः’ पुंलिंग है, पर किसको कहता है, पंक्ति नाम नहीं देती; गर्भस्राव या वायु सम्भव है, पर यह लिखा नहीं। "
@@ -754,7 +754,7 @@ AUTHORED["81"] = {
             ("A stone (अश्म)", "अश्मगर्भमिव: as if with a stone inside."),
             [("Water (उदक)", "No water is named; the simile is a stone."),
              ("A flame (अग्नि)", "No fire is named; the belly is cold (शीत)."),
-             ("A wind (वायु)", "No wind is named in unit 81; the simile is a stone.")],
+             ("Vāyu (वायु)", "No vāyu is named in unit 81; the simile is a stone.")],
             "The belly appears as if it had a stone inside.",
             "अश्म-गर्भम् इव = as if stone-interiored."),
         order(1, "Put these parts of unit 81 in the line's order.",
@@ -1046,7 +1046,7 @@ IMAGE_SPECS = {
     },
     ("79", "chain"): {
         "file": "sh4-apana-chyuti-79.svg",
-        "alt": ("Chain of unit 79: disturbance of the koṣṭha; the Apāna wind; repeated pain, distension (ānāha) and "
+        "alt": ("Chain of unit 79: disturbance of the koṣṭha; the Apāna vāyu (Vāta); repeated pain, distension (ānāha) and "
                 "retention of stool and urine; it makes the young fetus fall; in the form of blood."),
         "type": "chain",
         "title": "इकाई ७९: अपान से गर्भ-च्युति",
