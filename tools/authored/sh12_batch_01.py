@@ -12,7 +12,7 @@ AUTHORED = {}
 AUTHORED["1"] = {
     "title": "अथातो दूतादिविज्ञानीयं",
     "question": "What does the opening line of card 1 announce?",
-    "rule": ("अथ ... व्याख्यास्यामः: 'Now, therefore, we shall expound' the Dūtādivijñānīya, the chapter on knowing the "
+    "rule": ("अथ ... व्याख्यास्यामः — 'Now, therefore, we shall expound' the Dūtādivijñānīya, the chapter on knowing the "
              "messenger (दूत) and the rest. दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं (म् before a consonant → ं)."),
     "limits": ("Prose, the opening formula of a chapter. The noun that शारीरम् agrees with is not printed and none is supplied. "
                "The data's word split lists only अथ for the printed अथातो; अतः (therefore) is not glossed separately, though the "
@@ -23,7 +23,7 @@ AUTHORED["1"] = {
                    "व्याख्यास्यामः भविष्यत् काल, उत्तम पुरुष बहुवचन है: ‘हम कहेंगे’। "
                    "‘अथातो’ को डेटा केवल अथ (अब) के रूप में बाँटता है; अनुवाद में ‘इसलिए’ है, पर अतः अलग नहीं दिया गया। "
                    "‘दूतादिविज्ञानीयं शारीरं’ में व्यंजन से पहले म् → ं है।"),
-    "hook": "अथातो ... व्याख्यास्यामः: अब दूत आदि को जानने का अध्याय।",
+    "hook": "अथातो ... व्याख्यास्यामः — अब दूत आदि को जानने का अध्याय।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 1, what does व्याख्यास्यामः mean?",
@@ -209,7 +209,7 @@ AUTHORED["4"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 4, which animals as the messenger's mount (वाहन) mark him as inauspicious?",
-            ("Donkey, camel or buffalo", "खरोष्ट्रमहिषवाहनः: riding a donkey (खर), camel (उष्ट्र) or buffalo (महिष)."),
+            ("Donkey, camel or buffalo", "खरोष्ट्रमहिषवाहनः — riding a donkey (खर), camel (उष्ट्र) or buffalo (महिष)."),
             [("A horse, a bull or a swan", "Card 10 lists horses, a bull and a haṃsa (swan or goose) among auspicious sights; card 4 names donkey, camel, buffalo."),
              ("A lion, a cow or a fish", "Card 10 lists a lion, a cow and fish among auspicious sights; none is a mount in card 4."),
              ("A horse or a yoked vehicle", "Card 10 lists horses and harnessed vehicles among auspicious sights; card 4 names donkey, camel, buffalo.")],
@@ -330,7 +330,7 @@ AUTHORED["6"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By card 6, in which disease is the sign auspicious (शुभः)?",
-            ("In a Pitta disease", "पित्तामये तु शुभः: but auspicious in a Pitta disease."),
+            ("In a Pitta disease", "पित्तामये तु शुभः — but auspicious in a Pitta disease."),
             [("In a Kapha disease", "In a Kapha disease (श्लेष्मामये) it is inauspicious."),
              ("In every disease alike", "Card 6 gives two opposite results, not one for all."),
              ("In no disease at all", "Card 6 does call it auspicious in a Pitta disease.")],
@@ -389,7 +389,7 @@ AUTHORED["7"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By card 7, at which event is it auspicious?",
-            ("At the building of a dam", "सेतुबन्धे तु शुभः: but at the building of a dam, auspicious."),
+            ("At the building of a dam", "सेतुबन्धे तु शुभः — but at the building of a dam, auspicious."),
             [("At the breaking of a dam", "At the breaking (सेतुभङ्ग) it is inauspicious."),
              ("At the crossing of a river", "Card 7 names no crossing of a river."),
              ("At the flooding of a field", "Card 7 names no flooding of a field.")],
@@ -436,7 +436,7 @@ AUTHORED["8"] = {
     "title": "अशुभ काल, नक्षत्र और वैद्य की दशा",
     "question": "By card 8, which times, lunar days and nakṣatras are inauspicious, and when should the physician not follow the messenger?",
     "rule": ("Inauspicious: both twilights, the 4th, 6th and 9th lunar days, parva days and the nakṣatras Bharaṇī, Kṛttikā, Ārdrā, "
-             "Āśleṣā, Maghā, Mūla and the Pūrvā ones; also a messenger who comes when the physician is asleep, naked, oiled or facing south. On an ill sign the physician should not follow him."),
+             "Āśleṣā, Maghā, Mūla and the Pūrvā ones. It also describes (no predicate printed) one who comes when the physician is asleep, naked, oiled or facing south. On an ill sign the physician should not follow him."),
     "limits": ("Prose, low confidence. Midday (printed मध्यान्ह) and midnight (printed आर्द्रारात्रि) rest on corrections; यश्च ... "
                "and यो वा ... print no predicate; the Pūrvā nakṣatras are unspecified; अशस्तम् and vyādhitāśraya can be read two ways. "
                "No question on these."),
@@ -467,7 +467,7 @@ AUTHORED["8"] = {
               "सुप्तम् = asleep, नग्नम् = naked, अभ्यक्तम् = anointed with oil, मुक्तकेशम् = with loosened hair, दक्षिणाभिमुखम् = facing south.",
               "सुप्तम्, नग्नम्, अभ्यक्तम्, मुक्तकेशम्, दक्षिणाभिमुखम्.",
               role="extend",
-              teaches="These accusatives agree with वैद्यम्: they describe the physician as the ill-omened messenger finds him."),
+              teaches="These accusatives agree with वैद्यम्: they describe the physician as the one who comes (यश्च … उपतिष्ठति) finds him."),
         multi("discriminate", 3, "By card 8, which lunar days (तिथि) are named as inauspicious?",
               [("The second (द्वितीया)", "No: द्वितीया is not named."),
                ("The fourth (चतुर्थी)", "Yes: चतुर्थी is named."),
@@ -694,7 +694,7 @@ AUTHORED["12"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 12, on which side are birds with male names auspicious?",
-            ("On the left", "पुन्नामानः पक्षिणो वामाः शुभाः: on the left."),
+            ("On the left", "पुन्नामानः पक्षिणो वामाः शुभाः — on the left."),
             [("On the right", "The right (प्रदक्षिणाः) is said of the female-named ones."),
              ("Straight ahead", "Card 12 names no 'ahead'; it names left and right."),
              ("Overhead", "Card 12 names no 'overhead'; it names left and right.")],
@@ -712,7 +712,7 @@ AUTHORED["12"] = {
               role="extend",
               teaches="Card 12 gives a side rule (male-named left, female-named right); later प्रवेशे तु विपरीताः (but at entering, reversed) follows, its scope unsettled."),
         mcq("discriminate", 3, "In card 12, which word is printed right after प्रवेशे तु (but at entering)?",
-            ("विपरीताः (reversed)", "प्रवेशे तु विपरीताः: but at entering, reversed."),
+            ("विपरीताः (reversed)", "प्रवेशे तु विपरीताः — but at entering, reversed."),
             [("शुभाः (auspicious)", "शुभाः stands after वामाः, not after प्रवेशे तु."),
              ("अशुभाः (inauspicious)", "अशुभाः is not printed in card 12."),
              ("समाः (the same)", "समाः is not printed in card 12.")],
@@ -724,7 +724,7 @@ AUTHORED["12"] = {
              ("The bull (वृषः)", "वृषः is in card 10, not in card 12's female-named list."),
              ("The lion (केसरी)", "केसरी is in card 10, not in card 12's female-named list.")],
             "छुछुन्दरी (musk shrew, standard) is in the female-named list.",
-            "स्त्रीनामानः: ... छुछुन्दरी ..."),
+            "स्त्रीनामानः — ... छुछुन्दरी ..."),
         mcq("transfer", 5, "By the sense of वाम (left) in card 12, what does वामे हस्ते mean in a new example?",
             ("In the left hand", "वाम = left: वामे हस्ते, in the left hand."),
             [("In the right hand", "The right would be दक्षिणे; वाम here is left."),

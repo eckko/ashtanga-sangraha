@@ -165,14 +165,14 @@ AUTHORED["16"] = {
               teaches=("Each disease group stands in the locative (-आदिषु, in ... and the like) and is followed by its word; "
                        "इष्टः (desired) is printed once and carried to the rest.")),
         mcq("discriminate", 3, "Why is छेदशब्दइष्टो printed with a separate इ in card 16?",
-            ("After अ, ः drops before इ; no merging", "शब्दः + इष्टः → शब्द इष्टः: regular hiatus, as the data says."),
+            ("After अ, ः drops before इ; no merging", "शब्दः + इष्टः → शब्द इष्टः — regular hiatus, as the data says."),
             [("It is a misprint for छेदशब्देष्टो in the source", "The data calls it regular hiatus after -अः, not a typo."),
              ("अः before the vowel इ always becomes ओ", "ओ comes before a voiced consonant (इष्टो गुल्म-), not before इ."),
              ("ः after अ becomes र् before the vowel इ", "र् comes after vowels other than अ/आ; here ः follows अ.")],
-            "शब्दः + इष्टः: अः before a vowel other than अ → अ, and the vowels stay apart.",
+            "शब्दः + इष्टः — अः before a vowel other than अ → अ, and the vowels stay apart.",
             "अः + vowel other than अ → अ (hiatus)."),
         mcq("apply", 4, "A case of atisāra (diarrhoea): by card 16, which word is desired?",
-            ("रुद्ध (stopped)", "अतिसाररक्तपित्तादिषु रुद्धशब्दः: in atisāra and the like, 'stopped'."),
+            ("रुद्ध (stopped)", "अतिसाररक्तपित्तादिषु रुद्धशब्दः — in atisāra and the like, 'stopped'."),
             [("छेद (cutting)", "Cutting is for granthi, arbuda and the like."),
              ("भेद (breaking)", "Breaking is for gulma, udara and the like."),
              ("प्रवर्तन (impelling)", "Impelling is for aśmarī, udāvarta and the like.")],
@@ -287,7 +287,7 @@ AUTHORED["18"] = {
             "सर्वत्र (everywhere) + एव (indeed).",
             "अ + ए → ऐ."),
         mcq("apply", 4, "Besides the good words, what else does card 18 call best?",
-            ("Instrument sounds", "वादित्रस्वराः: the sounds of musical instruments are best."),
+            ("Instrument sounds", "वादित्रस्वराः — the sounds of musical instruments are best."),
             [("The sound of sneezing", "Sneeze (क्षुत) is a forbidden word in card 19."),
              ("Cries of 'hā hā'", "'Hā hā' (हाहा) is a forbidden word in card 19."),
              ("Cruel cries of birds", "Cruel cries of birds and beasts are among the bad signs of card 19.")],
@@ -375,7 +375,7 @@ AUTHORED["20"] = {
     "rule": ("A dream (स्वप्नः), seen by oneself or by another (अन्येन, read for printed अम्येन), is a cause of the auspicious and the inauspicious. It is of "
              "seven kinds: seen, heard, experienced, desired, imagined, bhāvika (of what will be) and born of the doṣas."),
     "limits": ("Prose, high confidence. भाविक is rendered literally (of what is to come); the line explains no kind. Printed "
-               "स्वयमम्येन is read स्वयम् अन्येन. Which kinds bear fruit is in card 21, not here."),
+               "स्वयमम्येन is read स्वयम् अन्येन. Which kinds are fruitless (अफल) is in card 21, not here."),
     "explain_hi": ("स्वप्न, चाहे स्वयं देखा गया हो या दूसरे द्वारा (छपा ‘अम्येन’, पढ़ा ‘अन्येन’), शुभ और अशुभ का कारण है। "
                    "वह सात प्रकार का है: दृष्ट (देखा), श्रुत (सुना), अनुभूत (अनुभव किया), प्रार्थित (चाहा), संकल्पित (कल्पित), भाविक (आगे होने वाले से सम्बन्धित) और दोषज (दोषों से उत्पन्न)। "
                    "पंक्ति किसी प्रकार की व्याख्या नहीं करती; कौन से प्रकार निष्फल हैं, यह कार्ड २१ में है। "
@@ -384,7 +384,7 @@ AUTHORED["20"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 20, a dream is a cause of what?",
-            ("Both the auspicious and the inauspicious", "शुभाशुभहेतुः: a cause of the auspicious and the inauspicious."),
+            ("Both the auspicious and the inauspicious", "शुभाशुभहेतुः — a cause of the auspicious and the inauspicious."),
             [("Only the auspicious, not the inauspicious", "शुभाशुभ- names both, the auspicious and the inauspicious."),
              ("Only the inauspicious, not the auspicious", "शुभाशुभ- names both, the auspicious and the inauspicious."),
              ("Sleep alone", "The line calls the dream a cause (हेतुः) of शुभ and अशुभ, not of sleep.")],
@@ -444,7 +444,7 @@ AUTHORED["21"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 21, what is said of the first five kinds of dream?",
-            ("They are fruitless", "तत्राद्यः पंचविधोऽफलः: the first five are fruitless."),
+            ("They are fruitless", "तत्राद्यः पंचविधोऽफलः — the first five are fruitless."),
             [("They bear fruit at once", "Nothing in card 21 gives the first five any fruit."),
              ("They are born of the doṣas", "Born of the doṣas (दोषज) is the seventh kind, not the first five."),
              ("They bear great fruit", "The first five are अफलः, without fruit.")],
@@ -905,7 +905,7 @@ AIDS = {
         "sandhi": "अ/आ से भिन्न स्वर के बाद ः, घोष से पहले → र्: प्रतीपैः + वा → प्रतीपैर्वा, वचोभिः + दान → वचोभिर्दान · र् + स्वर जुड़ता है: पुनर् + अनुपहतः → पुनरनुपहतः।",
     },
     "24": {
-        "chain": {"steps": ["यः: जो", "प्रेतैः सह: प्रेतों के साथ", "मद्यं पिबन्: मद्य पीता हुआ", "शुना ऽऽकृष्यते: कुत्ते से खींचा जाता",
+        "chain": {"steps": ["यः = जो", "प्रेतैः सह: प्रेतों के साथ", "मद्यं पिबन्: मद्य पीता हुआ", "शुना ऽऽकृष्यते: कुत्ते से खींचा जाता",
                             "स हन्यते ज्वरेण: वह ज्वर से आहत"]},
         "chunks": "तत्र | यः प्रेतैः सह | मद्यं पिबन् | शुना ऽऽकृष्यते | स हन्यते | ज्वरेण",
         "sandhi": "आ + आ → आ: शुना + आकृष्यते → शुनाऽऽकृष्यते (छपाई में ऽऽ) · सः व्यंजन से पहले विसर्ग खोता है: सः + हन्यते → स हन्यते।",
