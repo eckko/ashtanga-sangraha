@@ -28,7 +28,7 @@ AUTHORED["113"] = {
         mcq("pretest", 0, "In unit 113, what does भ्रू mean?",
             ("The eyebrow", "भ्रुवौ = the two eyebrows: भ्रू is the eyebrow."),
             [("The eyelid", "The eyelid would be वर्त्म; भ्रू is the eyebrow."),
-             ("The earlobe", "The ear is कर्ण (unit 112); भ्रू is the eyebrow."),
+             ("The ear", "The ear is कर्ण (unit 112); भ्रू is the eyebrow."),
              ("The temple", "The temple is शङ्ख (unit 110); भ्रू is the eyebrow.")],
             "भ्रू = eyebrow; भ्रुवौ is its dual: the two eyebrows.",
             "भ्रू = eyebrow."),
@@ -230,7 +230,7 @@ AUTHORED["116"] = {
             "गूढ = hidden."),
         mcq("apply", 4, "Which split of शिरास्थि in unit 116 is right?",
             ("शिरा + अस्थि", "आ + अ → आ: शिरा + अस्थि → शिरास्थि."),
-            [("शिरः + अस्थि", "शिरस् (head) + अस्थि would give शिरोऽस्थि, not शिरास्थि."),
+            [("शिरः + अस्थि", "शिरस् (head) + अस्थि cannot give शिरास्थि; the vein is शिरा."),
              ("शिरा + स्थि", "स्थि is not a word; the bone is अस्थि."),
              ("शिरास् + थि", "Neither शिरास् nor थि is a word here.")],
             "शिरा (vein) + अस्थि (bone): आ + अ → आ.",
@@ -471,7 +471,7 @@ AUTHORED["120"] = {
             "Vowel other than अ/आ + ः before a voiced sound → र्."),
         mcq("transfer", 5, "By the pattern of -विज्ञानैर्वर्द्धमानं, how is देवैः + वन्दितः (praised by the gods) joined in a new example?",
             ("देवैर्वन्दितः", "Visarga after ऐ before the voiced व → र्."),
-            [("देवै वन्दितः", "The visarga drops after आ (or अ), not after ऐ."),
+            [("देवै वन्दितः", "A visarga drops before a voiced sound after आ, not after ऐ."),
              ("देवैस्वन्दितः", "स् arises from a visarga before त or थ, not before व."),
              ("देवैश्वन्दितः", "श् arises before च, छ (or optionally श), not before व.")],
             "देवैः + वन्दितः = देवैर्वन्दितः.",
@@ -526,7 +526,7 @@ AUTHORED["121"] = {
         mcq("apply", 4, "Why is आयुः printed आयुर् before ऐश्वर्यम् in unit 121?",
             ("Visarga after उ before a vowel → र्", "ऐ is a vowel: आयुः + ऐश्वर्यम् → आयुरैश्वर्यम्."),
             [("Visarga after उ before a vowel drops", "Dropping is the rule after आ (and अ before vowels other than अ), not उ."),
-             ("Visarga before a vowel always → र्", "Not always: after अ or आ it does not give र्."),
+             ("Visarga before a vowel always → र्", "Not always: रामः + इति → राम इति, with no र्."),
              ("र् is the stem's own final sound", "The stem is आयुस्; the र् comes only from sandhi.")],
             "आयुः + ऐश्वर्यम् → आयुरैश्वर्यम्.",
             "उः + vowel → उर्."),
@@ -775,8 +775,8 @@ AIDS = {
     },
     "114": {
         "diagram": {"groups": [
-            {"label": "छपे शब्द, क्रम से", "items": ["वलिभं: अस्पष्ट", "सुश्लिष्टसन्धि अर्धचन्द्राकृति: अर्धचन्द्र-आकार",
-                                                "ललाटम्: माथा", "आतपत्रोपमम्: छाते जैसा", "शिरः: सिर"]}]},
+            {"label": "छपे शब्द, क्रम से", "items": ["वलिभं: अस्पष्ट", "सुश्लिष्टसंध्यर्द्धचंद्राकृति: अर्धचन्द्र-आकार",
+                                                "ललाटम्: माथा", "आतपत्रोपमं: छाते जैसा", "शिरः: सिर"]}]},
         "chunks": "वलिभं | सुश्लिष्टसंध्यर्द्धचंद्राकृति | ललाटमातपत्रोपमं | शिरः",
         "sandhi": ("इ + भिन्न स्वर → य्: सन्धि + अर्ध → सन्ध्यर्ध · अ + आ → आ: चन्द्र + आकृति → चन्द्राकृति · अ + उ → ओ: "
                    "आतपत्र + उपमम् → आतपत्रोपमम्।"),
@@ -815,7 +815,7 @@ AIDS = {
     "120": {
         "diagram": {"groups": [
             {"label": "छपा क्रम", "items": ["उत्तरोत्तरसुक्षेत्रम्", "गर्भात् प्रभृति नीरुजम्", "आयाम, ज्ञान, विज्ञान से",
-                                        "वर्धमानम्", "शनैः, शुभम्"]}]},
+                                        "वर्द्धमानं", "शनैः शुभं"]}]},
         "chunks": "उत्तरोत्तरसुक्षेत्रं | गर्भात्प्रभृति | नीरुजं || आयामज्ञानविज्ञानैः | वर्द्धमानं | शनैः शुभं",
         "sandhi": ("अ + उ → ओ: उत्तर + उत्तर → उत्तरोत्तर · ऐ के बाद विसर्ग घोष ध्वनि से पहले र्: -विज्ञानैः + वर्धमानम् → "
                    "-विज्ञानैर्वर्धमानम् · अघोष प से पहले त् वैसा ही: गर्भात्प्रभृति।"),
@@ -856,10 +856,10 @@ IMAGE_SPECS = {
         "alt": ("Table of card 114 in printed order: valibham (unclear); the half-moon shape with well-joined junctures; "
                 "the forehead; umbrella-like; the head. Which noun each shape belongs to is the data's reading."),
         "type": "table",
-        "title": "कार्ड ११४: छपे शब्द, क्रम से",
-        "heads": ["छपा शब्द", "अर्थ"],
-        "rows": [["वलिभं", "अस्पष्ट"], ["सुश्लिष्टसन्धि-अर्धचन्द्राकृति", "अर्धचन्द्र-आकार"],
-                 ["ललाटम्", "माथा"], ["आतपत्रोपमम्", "छाते जैसा"], ["शिरः", "सिर"]],
+        "title": "कार्ड ११४: शब्द, छपे क्रम से",
+        "heads": ["शब्द", "अर्थ"],
+        "rows": [["वलिभं", "अस्पष्ट"], ["सुश्लिष्टसंध्यर्द्धचंद्राकृति", "अर्धचन्द्र-आकार"],
+                 ["ललाटम्", "माथा"], ["आतपत्रोपमं", "छाते जैसा"], ["शिरः", "सिर"]],
     },
     ("116", "diagram"): {
         "file": "sh8-dridha-gudha-116.svg",
@@ -891,7 +891,7 @@ IMAGE_SPECS = {
         "title": "कार्ड १२०: छपा क्रम",
         "heads": ["क्रम", "विशेषण"],
         "rows": [["१", "उत्तरोत्तर सुक्षेत्र: बढ़ता उत्तम क्षेत्र"], ["२", "गर्भात् प्रभृति नीरुज: रोगरहित"],
-                 ["३", "आयाम, ज्ञान, विज्ञान से"], ["४", "वर्धमान: बढ़ता हुआ"], ["५", "शनैः: धीरे-धीरे; शुभ"]],
+                 ["३", "आयाम, ज्ञान, विज्ञान से"], ["४", "वर्द्धमानं: बढ़ता हुआ"], ["५", "शनैः: धीरे-धीरे; शुभ"]],
     },
     ("121", "diagram"): {
         "file": "sh8-sarvaguna-121.svg",
