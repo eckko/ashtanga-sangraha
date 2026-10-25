@@ -93,7 +93,7 @@ AUTHORED["2"] = {
             "घनीभूत = thickened, become solid."),
         order(1, "Put these phrases of card 2 in the printed order.",
               ["घनीभूतमिव आकाशम्", "आकाशमिव यो घनं", "अमूर्तमिव मूर्तं च", "मूर्तं वाऽमूर्तवस्थितं"],
-              "Sky as if grown solid; the solid as if sky; the formless as if formed, and the formed; or the formed in a formless state.",
+              "Sky as if grown solid; the solid as if sky; then the pair अमूर्त / मूर्त (which is seen as the other is left open); then मूर्तं वाऽमूर्तवस्थितं.",
               "घनीभूतमिव आकाशम् → आकाशमिव यो घनं → अमूर्तमिव मूर्तं च → मूर्तं वाऽमूर्तवस्थितं."),
         match(2, "Match each word of card 2 to its meaning.",
               [["घन", "solid, dense"], ["आकाश", "sky, space"], ["मूर्त", "having shape"], ["अमूर्त", "formless"],
@@ -140,7 +140,7 @@ AUTHORED["3"] = {
                    "‘तद्वत्’ (उसी प्रकार) सम्भवतः उलटे जोड़े को भी जोड़ता है, पर स्पष्ट नहीं कहा गया। "
                    "व्यक्ति आँख के रोग से रहित है (अनेत्ररोगः), यानी यह दृष्टि किसी ज्ञात नेत्र-रोग से नहीं समझाई जाती। "
                    "चन्द्रमा बहुत रूपों वाला और चिह्नरहित दिखता है; ‘चिह्न’ सम्भवतः उसका काला धब्बा है।"),
-    "hook": "उजला-अँधेरा, सफ़ेद-काला, असत्-सत्; चाँद बिना धब्बे का।",
+    "hook": "उजला-अँधेरा, सफ़ेद-काला, असत्-सत्; चाँद बिना चिह्न (सम्भवतः धब्बे) का।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 3, what does अलाञ्छन (printed अलांछन) mean?",
@@ -252,11 +252,11 @@ AUTHORED["5"] = {
     "rule": ("He who does not see Arundhatī standing near the great sages, or Dhruva, or the Ākāśagaṅgā: he does "
              "not see that year (न स पश्यति तां समाम्)."),
     "limits": ("Verse, medium confidence. Data labels: Arundhatī = Alcor, Dhruva = the pole star, the great sages = "
-               "the Great Bear (all probable); Ākāśagaṅgā = the Milky Way (standard). 'Does not see that year' is "
-               "literal; 'will not live it out' is only probable."),
+               "the Great Bear (all probable); Ākāśagaṅgā = the Milky Way (standard). 'He does not see that year' is "
+               "kept literal; nothing about time or outcome is added beyond the text."),
     "explain_hi": ("जो महर्षियों के समीप स्थित अरुन्धती को, या ध्रुव को, या आकाशगंगा को नहीं देखता, पाठ कहता है: ‘वह उस वर्ष को नहीं देखता’। "
                    "डेटा की पहचान: अरुन्धती सम्भवतः अलकोर तारा, ध्रुव सम्भवतः ध्रुवतारा, महर्षि सम्भवतः सप्तर्षि यानी सप्तर्षि-मण्डल के तारे, और आकाशगंगा मानक रूप से आकाशगंगा। "
-                   "समा = वर्ष; ‘उस वर्ष को नहीं देखता’ का अर्थ डेटा सम्भवतः यह लेता है कि वह वर्ष पूरा नहीं जीता, पर संस्कृत केवल ‘नहीं देखता’ कहती है। "
+                   "समा = वर्ष; संस्कृत केवल ‘वह उस वर्ष को नहीं देखता’ कहती है; कार्ड इससे आगे कुछ नहीं जोड़ता। "
                    "‘महर्षीणाम्’ में महा + ऋषि की सन्धि है (आ + ऋ → अर्)।"),
     "hook": "अरुन्धती, ध्रुव, आकाशगंगा न दिखें: ‘न स पश्यति तां समाम्’।",
     "core": True,
@@ -292,12 +292,12 @@ AUTHORED["5"] = {
              ("महा + अर्षीणाम्", "अर्षि is not a word; the noun is ऋषि.")],
             "महा (great) + ऋषीणाम् (of the sages).",
             "आ + ऋ → अर्."),
-        mcq("transfer", 5, "By the pattern of महा + ऋषि → महर्षि, how is राजा + ऋषिः (royal sage) joined in a new example?",
-            ("राजर्षिः", "आ + ऋ → अर्: राजा + ऋषिः → राजर्षिः."),
-            [("राजार्षिः", "The long आ does not stay: आ + ऋ gives अर्."),
-             ("राजेर्षिः", "ए comes from अ/आ + इ or ई, not from आ + ऋ."),
-             ("राजौर्षिः", "औ comes from अ/आ + ओ or औ, not from आ + ऋ.")],
-            "राजा + ऋषिः = राजर्षिः, like महा + ऋषि = महर्षि.",
+        mcq("transfer", 5, "By the pattern of महा + ऋषि → महर्षि, how is वर्षा + ऋतुः (the rainy season) joined in a new example?",
+            ("वर्षर्तुः", "आ + ऋ → अर्: वर्षा + ऋतुः → वर्षर्तुः."),
+            [("वर्षार्तुः", "The long आ does not stay: आ + ऋ gives अर्."),
+             ("वर्षेर्तुः", "ए comes from अ/आ + इ or ई, not from आ + ऋ."),
+             ("वर्षौर्तुः", "औ comes from अ/आ + ओ or औ, not from आ + ऋ.")],
+            "वर्षा + ऋतुः = वर्षर्तुः, like महा + ऋषि = महर्षि.",
             "आ + ऋ → अर्.",
             teaches="अ or आ followed by ऋ gives अर्: महा + ऋषीणाम् → महर्षीणाम्."),
     ],
@@ -316,7 +316,7 @@ AUTHORED["6"] = {
                    "उलटा दोष भी कहा है: वह विद्यमान शब्दों को भी नहीं सुनता (न सतोऽपि वा); ‘सुनता’ शृणोति से लिया जाता है। "
                    "पणव सम्भवतः छोटा ढोल है; वेणु = बाँस की बाँसुरी। "
                    "छपा ‘वीण’ समास में सम्भवतः ‘वीणा’ है, और छपा ‘असंतो’ सम्भवतः द्वितीया ‘असतः’; इन रूपों पर प्रश्न नहीं। "
-                   "इस कार्ड में परिणाम-वाक्य नहीं है; डेटा के अनुसार वाक्य कार्ड ७ में आगे चलता है।"),
+                   "इस कार्ड में परिणाम-वाक्य नहीं है; डेटा के अनुसार वाक्य सम्भवतः कार्ड ७ में आगे चलता है।"),
     "hook": "जो शब्द नहीं हैं वे सुनाई दें, जो हैं वे नहीं: सुनने का विपर्यय।",
     "core": False,
     "questions": [
@@ -327,15 +327,15 @@ AUTHORED["6"] = {
              ("Lute", "The lute is वीणा, a separate member of the compound.")],
             "वेणु = the bamboo flute, one of the sound sources of card 6.",
             "वेणु = flute."),
-        order(1, "Put the sound sources of card 6 in the printed order.",
-              ["मेघतोयौघनिर्घोष", "वीण", "पणव", "वेणु"],
-              "The roar of cloud and flood-water; the vīṇā (printed वीण); the paṇava; the flute.",
-              "मेघतोयौघनिर्घोष → वीण → पणव → वेणु."),
+        order(1, "Put these words of line 2 of card 6 in the printed order.",
+              ["शृणोति", "अन्यान्", "यः", "शब्दान्", "न", "सतोऽपि वा"],
+              "Hears; other; who; sounds; not; even existing ones, or.",
+              "शृणोति → अन्यान् → यः → शब्दान् → न → सतोऽपि वा."),
         match(2, "Match each word of card 6 to its meaning.",
               [["मेघ", "cloud"], ["तोय", "water"], ["ओघ", "flood"], ["निर्घोष", "roar"], ["शृणोति", "hears"]],
               "मेघ = cloud, तोय = water, ओघ = flood, निर्घोष = roar, शृणोति = hears.",
               "मेघ, तोय, ओघ, निर्घोष, शृणोति.", role="extend",
-              teaches="-ज at the end of a compound means 'born of': पणववेणुजान् = (sounds) born of the drum and flute."),
+              teaches="-ज at the end of a compound means 'born of': पणववेणुजान् = (sounds) born of the paṇava (probably a small drum) and the flute."),
         mcq("discriminate", 3, "By the data's reading of card 6, what does न सतोऽपि वा add?",
             ("Or not hearing even real sounds", "न सतः अपि वा: or (he does) not (hear) even existing sounds."),
             [("Or hearing only very loud sounds", "Nothing about loudness is said; it is a failure to hear."),
@@ -350,12 +350,12 @@ AUTHORED["6"] = {
              ("सतोऽ + अपि", "सतोऽ is not a word; the first word is सतः.")],
             "सतः (existing) + अपि (even).",
             "अः + अ → ओऽ."),
-        mcq("transfer", 5, "By the pattern of सतः + अपि → सतोऽपि, how is रामः + अपि (Rāma too) joined in a new example?",
-            ("रामोऽपि", "अः + अ → ओ, and the अ is dropped and shown by ऽ: रामोऽपि."),
-            [("रामापि", "The visarga does not vanish into a long आ; अः + अ gives ओऽ."),
-             ("रामरपि", "र् comes from a visarga after a vowel other than अ/आ; here it is अः."),
-             ("रामौपि", "औ does not arise from a visarga; अः + अ gives ओऽ.")],
-            "रामः + अपि = रामोऽपि, like सतः + अपि = सतोऽपि.",
+        mcq("transfer", 5, "By the pattern of सतः + अपि → सतोऽपि, how is नरः + अयम् (this man) joined in a new example?",
+            ("नरोऽयम्", "अः + अ → ओ, and the अ is dropped and shown by ऽ: नरोऽयम्."),
+            [("नरायम्", "The visarga does not vanish into a long आ; अः + अ gives ओऽ."),
+             ("नररयम्", "र् comes from a visarga after a vowel other than अ/आ; here it is अः."),
+             ("नरौयम्", "औ does not arise from a visarga; अः + अ gives ओऽ.")],
+            "नरः + अयम् = नरोऽयम्, like सतः + अपि = सतोऽपि.",
             "अः + अ → ओऽ.",
             teaches="अः before अ becomes ओ and the following अ is elided (ऽ): सतः + अपि → सतोऽपि."),
     ],
@@ -385,10 +385,10 @@ AUTHORED["7"] = {
              ("Having opened", "Opening would be उद्घाट्य; निष्पीड्य is having pressed.")],
             "निष्पीड्य कर्णौ = having pressed both ears.",
             "निष्पीड्य = having pressed."),
-        order(1, "Put the words of line 1 of card 7 in the printed order.",
-              ["निष्पीड्य", "कर्णौ", "शृणुयात्", "न", "यः", "धुकधुकास्वनम्"],
-              "Having pressed; both ears; would hear; not; who; the sound dhukadhukā.",
-              "निष्पीड्य → कर्णौ → शृणुयात् → न → यः → धुकधुकास्वनम्."),
+        order(1, "Put these words of line 1 of card 7 in the printed order.",
+              ["निष्पीड्य", "कर्णौ", "शृणुयात्", "न", "यः"],
+              "Having pressed; both ears; would hear; not; who.",
+              "निष्पीड्य → कर्णौ → शृणुयात् → न → यः."),
         match(2, "Match each word of card 7 to its meaning.",
               [["कर्ण", "ear"], ["स्वन", "sound"], ["रस", "taste"], ["स्पर्श", "touch"], ["विपर्यय", "reversal"]],
               "कर्ण = ear, स्वन = sound, रस = taste, स्पर्श = touch, विपर्यय = reversal.",
@@ -520,7 +520,7 @@ AUTHORED["9"] = {
                 [0, 3],
                 "Sure: no awareness of a blow; 'without severe austerity'.",
                 "योऽङ्गे घातं न वेत्ति; अन्तरेण तपस्तीव्रम्."),
-          "Questions keep to the sure words; the dust reading and the yoga reading stay open."),
+          "Only the sure words carry questions: योऽङ्गे घातं न वेत्ति = who is not aware of a blow on the limb."),
         mcq("apply", 4, "Which split of तपस्तीव्रं in card 9 is right?",
             ("तपः + तीव्रम्", "Visarga before त → स्: तपः + तीव्रम् → तपस्तीव्रम्."),
             [("तप + स्तीव्रम्", "स्तीव्रम् is not a word; the स् comes from the visarga."),
@@ -832,7 +832,7 @@ AIDS = {
         "chunks": "जानात्यतींद्रियं यश्च | तेषां मरणमादिशेत् || जिव्हाश्यावा | मुखं पूति | सव्यमक्षि निमज्जति",
         "diagram": {"groups": [
             {"label": "पंक्ति १ (कार्ड ९ से चलता वाक्य)", "items": ["जानात्यतीन्द्रियं यश्च", "तेषां मरणमादिशेत्"]},
-            {"label": "पंक्ति २ के लक्षण (छपे क्रम में)", "items": ["१ जिह्वा श्यावा", "२ मुखं पूति", "३ सव्यम् अक्षि निमज्जति"]}]},
+            {"label": "पंक्ति २ के लक्षण (छपे क्रम में)", "items": ["१ जिव्हा श्यावा", "२ मुखं पूति", "३ सव्यम् अक्षि निमज्जति"]}]},
         "sandhi": "इ + भिन्न स्वर → य्: जानाति + अतीन्द्रियम् → जानात्यतीन्द्रियम् · च से पहले विसर्ग → श्: यः + च → यश्च।",
     },
     "11": {
@@ -861,9 +861,8 @@ IMAGE_SPECS = {
     },
     ("4", "diagram"): {
         "file": "sh10-drishti-4.svg",
-        "alt": ("Flowchart of cards 2 to 4, which the data takes as probably one sentence: sky and solid, formed and "
-                "formless (card 2); bright, colours, unreal and real, the moon (card 3); demons, gandharvas, pretas "
-                "seen while awake (card 4); then: he who sees perishes."),
+        "alt": ("Flowchart of cards 2 to 4, which the data takes as probably one sentence: sky, solid, formed (card 2); "
+                "brightness, colours, the moon (card 3); demons, pretas and the like (card 4); then: he who sees perishes."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"कार्ड २: आकाश, घन, मूर्त\"] --> B[\"कार्ड ३: तेज, रंग, चन्द्र\"]\n"
@@ -895,7 +894,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड १०: तीन लक्षण",
         "heads": ["अंग", "लक्षण"],
-        "rows": [["१ जिह्वा", "श्यावा: गहरी साँवली"], ["२ मुख", "पूति: दुर्गन्ध वाला"], ["३ बायीं आँख", "निमज्जति: धँसती है"]],
+        "rows": [["१ जिव्हा", "श्यावा: गहरी साँवली"], ["२ मुख", "पूति: दुर्गन्ध वाला"], ["३ बायीं आँख", "निमज्जति: धँसती है"]],
     },
     ("12", "seesaw"): {
         "file": "sh10-ahara-mala-12.svg",
