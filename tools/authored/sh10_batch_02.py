@@ -67,7 +67,7 @@ AUTHORED["14"] = {
     "title": "ह्रस्वं च यः प्रश्वसिति",
     "question": "By unit 14, which signs of breath and movement are sure, and which part is damaged?",
     "rule": ("And who breathes short (ह्रस्वं प्रश्वसिति) and throbs violently (स्पंदते भृशम्), jerked about "
-             "(व्याविद्धम्); who tosses his head (शिरो विक्षिपते). The rest of line 2 is damaged in print."),
+             "(व्याविद्धम्); who, on a conjectural reading, tosses his head (शिरो विक्षिपते). The rest of line 2 is damaged in print."),
     "limits": ("Low confidence. अचयित्वा प्रपाणिकौ give no sense and are kept as printed; कृच्छ्रात् (with difficulty) for "
                "printed कृच्छ्रा- is probable, not sure. In line 2 only the words शिरः and विक्षिपते are asked. "
                "व्याविद्धम् may also mean 'with a pierced feeling': no question rests on it."),
@@ -90,7 +90,7 @@ AUTHORED["14"] = {
               ["ह्रस्वं च", "यः प्रश्वसिति", "व्याविद्धं", "स्पंदते", "भृशं"],
               "And short; who breathes; jerked about; throbs; violently.",
               "ह्रस्वं च → यः प्रश्वसिति → व्याविद्धं → स्पंदते → भृशं."),
-        match(2, "Match each sure word of unit 14 to its meaning.",
+        match(2, "Match each word of unit 14 to its meaning.",
               [["ह्रस्व", "short"], ["प्रश्वसिति", "breathes"], ["स्पन्दते", "throbs, quivers"],
                ["भृश", "violent, great"], ["शिरः", "head"], ["विक्षिपते", "tosses about"]],
               "ह्रस्व = short, प्रश्वसिति = breathes, स्पन्दते = throbs, भृश = violent, शिरः = head, विक्षिपते = tosses about.",
@@ -288,7 +288,7 @@ AUTHORED["17"] = {
         mcq("apply", 4, "By unit 17, at what does the man laugh?",
             ("At what is not laughable", "अहास्यहासी: one who laughs at what is not to be laughed at."),
             [("At what is truly funny", "हास्य is what is laughable; the अ- says the opposite."),
-             ("At nothing; he never laughs", "हासी says he does laugh."),
+             ("He does not laugh at all", "हासी says he does laugh."),
              ("Only at his own sorrow", "No sorrow is named; the object is अहास्य.")],
             "अ-हास्य-हासी = laughing at the not-laughable.",
             "अहास्यहासी = laughs at what is not laughable."),
@@ -375,7 +375,7 @@ AUTHORED["19"] = {
     "explain_hi": ("यह श्लोक दो छपी पंक्तियों (०२.१०.३६ और ०२.१०.३७) से बना है। "
                    "पहली पंक्ति: ये सभी (सर्वे एव एते) समवर्ती यानी यम के वश में गए हुए (वशगाः) जानने चाहिए (विज्ञेयाः)। "
                    "‘समवर्तिन्’ का शब्दार्थ है ‘सम व्यवहार करने वाला’; यह यम की मानक उपाधि है। "
-                   "दूसरी पंक्ति: जिसकी गर्दन, ललाट और हृदय ठंडे होकर पसीजते हैं; ठंडा पसीना है या अंग, यह संस्कृत से तय नहीं। "
+                   "दूसरी पंक्ति: जिसकी गर्दन, ललाट और हृदय पसीजते हैं, शीतल (शीतलम्); ठंडा पसीना है या अंग, यह संस्कृत से तय नहीं। "
                    "डेटा के अनुसार यह वाक्य सम्भवतः कार्ड २० में आगे चलता है। ‘एवैते’ में एव + एते है: अ + ए → ऐ।"),
     "hook": "ये सब समवर्ती (यम) के वश में; गर्दन, माथा, हृदय पसीजते।",
     "core": True,
@@ -546,7 +546,7 @@ AUTHORED["21"] = {
 AUTHORED["22"] = {
     "title": "प्राप्नोत्यतोवा विभ्रंशं",
     "question": "By unit 22, what does the man of card 21 gain or lose, where does he go, and what begins in line 2?",
-    "rule": ("(He who without cause) obtains (प्राप्नोति) these, or from these a falling away (अतो वा विभ्रंशम्): he "
+    "rule": ("(He who without cause) obtains (प्राप्नोति) these, or (अतो वा, read two ways) a falling away (विभ्रंशम्): he "
              "reaches the abode of Yama (स प्राप्नोति यमक्षयम्). Line 2 begins: whose (prakṛti), made of guṇa and doṣa "
              "(गुणदोषमयी), of a healthy or an ill person…"),
     "limits": ("अतो वा may be 'from these' or 'from this cause': no question on it. Line 1 appears to complete the sentence "
@@ -569,7 +569,7 @@ AUTHORED["22"] = {
             "यमक्षय = abode of Yama."),
         order(1, "Put the words of line 1 of unit 22 in the printed order.",
               ["प्राप्नोत्यतोवा", "विभ्रंशं", "स", "प्राप्नोति", "यमक्षयं"],
-              "Obtains, or from these; a falling away; he; reaches; the abode of Yama.",
+              "Obtains, or (अतो वा, read two ways); a falling away; he; reaches; the abode of Yama.",
               "प्राप्नोत्यतोवा → विभ्रंशं → स → प्राप्नोति → यमक्षयं."),
         match(2, "Match each word of unit 22 to its meaning.",
               [["प्राप्नोति", "obtains, reaches"], ["विभ्रंश", "falling away"], ["स्वस्थ", "healthy"],
@@ -577,13 +577,13 @@ AUTHORED["22"] = {
               "प्राप्नोति = obtains, विभ्रंश = falling away, स्वस्थ = healthy, व्याधित = ill, -मय = made of.",
               "प्राप्नोति, विभ्रंश, स्वस्थ, व्याधित, -मय.", role="extend",
               teaches="-मय (feminine -मयी) means 'made of, consisting of': गुणदोषमयी = made of guṇa and doṣa."),
-        mcq("discriminate", 3, "Which split of प्राप्नोत्यतोवा in unit 22 is right?",
-            ("प्राप्नोति + अतः + वा", "इ + अ → य; अः before the voiced व → ओ: प्राप्नोत्यतो वा."),
-            [("प्राप्नोति + यतः + वा", "Before य the इ would stay (प्राप्नोति यतो); the print has त्य."),
-             ("प्राप्नोतु + अतः + वा", "उ + अ would give व (प्राप्नोत्वतो); the print has य."),
-             ("प्राप्नोत्य + अतः + वा", "प्राप्नोत्य is no form; the verb is प्राप्नोति.")],
-            "प्राप्नोति (obtains) + अतः (from these) + वा (or).",
-            "इ + unlike vowel → य्."),
+        mcq("discriminate", 3, "Which split of गुणदोषमयी in unit 22 is right?",
+            ("गुण + दोष + मयी", "गुण (quality) + दोष + -मयी (made of, feminine of -मय)."),
+            [("गुणः + दोषमयी", "A separate गुणः would be printed गुणो before द; the print has गुणदोष-."),
+             ("गुणदोष + अमयी", "अ + अ → आ would give गुणदोषामयी; the print has -षम-."),
+             ("गुण + दोषम् + अयी", "अयी is no word; the ending is -मयी, 'made of'.")],
+            "गुण + दोष + -मयी = made of guṇa and doṣa.",
+            "-मयी = made of (feminine)."),
         mcq("apply", 4, "Why is सः printed स before प्राप्नोति in unit 22?",
             ("सः drops its visarga before a consonant", "The pronoun सः loses its visarga before any consonant: स प्राप्नोति."),
             [("Every अः drops its visarga before a consonant", "Not every: आर्तः + दीर्घं gives आर्तो (card 13)."),
@@ -605,7 +605,7 @@ AUTHORED["22"] = {
 # ---------------------------------------------------------------- unit 23
 AUTHORED["23"] = {
     "title": "यात्यन्यथात्वं प्रकृतिः",
-    "question": "By unit 23, what goes into change in line 1, and which qualities does line 2 list?",
+    "question": "By unit 23, what goes into change in line 1, and which six things does line 2 list?",
     "rule": ("(Whose) natural state (प्रकृतिः) goes into change (याति अन्यथात्वम्)… Line 2 lists devotion, character, "
              "memory, giving up, intellect and strength (भक्तिः शीलं स्मृतिः त्यागः बुद्धिः बलम्), without cause "
              "(अहेतुकम्)."),
@@ -615,7 +615,7 @@ AUTHORED["23"] = {
     "explain_hi": ("यह श्लोक दो छपी पंक्तियों (०२.१०.४४ और ०२.१०.४५) से बना है; विश्वास कम है। "
                    "डेटा के अनुसार पहली पंक्ति कार्ड २२ के ‘यस्य … गुणदोषमयी’ से जुड़ती है: जिसकी प्रकृति (स्वाभाविक अवस्था) बदल जाती है (याति अन्यथात्वम्)। "
                    "छपा ‘षण्मासान्त’ व्याकरण से कोई रूप नहीं; ‘छह मास तक नहीं जीता’ और ‘छह मास के अन्त तक जीता है’ दोनों पाठ सम्भव हैं और उनके अर्थ उलटे हैं, इसलिए समय पर कोई प्रश्न नहीं। "
-                   "दूसरी पंक्ति छह गुण गिनाती है: भक्ति, शील, स्मृति, त्याग, बुद्धि और बल, बिना कारण (अहेतुकम्); ‘अहेतुकम्’ सम्भवतः कार्ड २४ की क्रिया से जुड़ता है। "
+                   "दूसरी पंक्ति छह बातें गिनाती है: भक्ति, शील, स्मृति, त्याग, बुद्धि और बल, बिना कारण (अहेतुकम्); ‘अहेतुकम्’ सम्भवतः कार्ड २४ की क्रिया से जुड़ता है। "
                    "‘बुद्धिर्बलम्’ में बुद्धिः + बलम् है: इ के बाद का विसर्ग घोष व्यंजन से पहले र् बनता है।"),
     "hook": "प्रकृति बदले; भक्ति, शील, स्मृति, त्याग, बुद्धि, बल।",
     "core": False,
@@ -627,7 +627,7 @@ AUTHORED["23"] = {
              ("A teacher's advice", "Advice would be उपदेश; प्रकृति is the natural state.")],
             "प्रकृति = natural state.",
             "प्रकृति = natural state."),
-        order(1, "Put the six qualities of line 2 of unit 23 in the printed order.",
+        order(1, "Put the six items of line 2 of unit 23 in the printed order.",
               ["भक्तिः", "शीलं", "स्मृतिः", "त्यागः", "बुद्धिः", "बलम्"],
               "Devotion; character; memory; giving up; intellect; strength.",
               "भक्तिः → शीलं → स्मृतिः → त्यागः → बुद्धिः → बलम्."),
@@ -725,7 +725,7 @@ AIDS = {
     "14": {
         "chunks": "ह्रस्वं च यः प्रश्वसिति | व्याविद्धं स्पंदते भृशं || शिरो विक्षिपते | कृच्छ्रायोऽचयित्वा प्रपाणिकौ",
         "sandhi": "अः + घोष व्यंजन → ओ: शिरः + विक्षिपते → शिरो विक्षिपते · वाक्य में व्यंजन से पहले म् → ं: ह्रस्वम् + च → ह्रस्वं च।",
-        "anchors": "पक्का: छोटी साँस, झटके के साथ ज़ोर की फड़कन, सिर इधर-उधर। टूटा: अचयित्वा प्रपाणिकौ। (मेरी याद-पद्धति)",
+        "anchors": "पक्का: छोटी साँस, झटके के साथ ज़ोर की फड़कन। अनुमानित पाठ पर: सिर इधर-उधर। टूटा: अचयित्वा प्रपाणिकौ। (मेरी याद-पद्धति)",
     },
     "15": {
         "diagram": {"groups": [
@@ -752,7 +752,7 @@ AIDS = {
     "18": {
         "diagram": {"groups": [
             {"label": "छाया के रंग (छपे क्रम में)", "items": ["१ कृष्णा: काली", "२ पीता: पीली", "३ अरुणा: लालिमा लिए"]},
-            {"label": "जिनसे द्वेष (छपे क्रम में)", "items": ["१ भिषक्: वैद्य", "२ भेषज: औषध", "३ पान: पेय", "४ अन्न",
+            {"label": "जिनसे द्वेष (छपे क्रम में)", "items": ["१ भिषग्: वैद्य", "२ भेषज: औषध", "३ पान: पेय", "४ अन्न",
                                                        "५ गुरु: बड़ा या शिक्षक", "६ मित्र"]}]},
         "chunks": "यमभिद्रवति छाया | कृष्णा पीताऽरुणाऽपि वा || भिषग्भेषजपानान्नगुरुमित्रद्विषश्च ये",
         "sandhi": ("घोष भ से पहले ज् → ग्: भिषज् + भेषज → भिषग्भेषज · अ + अ → आ: पान + अन्न → पानान्न · आ + अ → आ: पीता + अरुणा → "
@@ -783,7 +783,7 @@ AIDS = {
     },
     "22": {
         "diagram": {"groups": [
-            {"label": "बिना कारण (कार्ड २१ से)", "items": ["मेधा आदि पाना", "अथवा इनसे पतन (विभ्रंश)"]},
+            {"label": "बिना कारण (कार्ड २१ से)", "items": ["मेधा आदि पाना", "अथवा पतन (विभ्रंश; अतो वा दो तरह पढ़ा जाता है)"]},
             {"label": "फल (पाठ के अनुसार)", "items": ["स प्राप्नोति यमक्षयं: यम के घर पहुँचता"]}]},
         "chunks": "प्राप्नोत्यतोवा विभ्रंशं | स प्राप्नोति यमक्षयं || गुणदोषमयी यस्य | स्वस्थस्य व्याधितस्य वा",
         "sandhi": ("इ + भिन्न स्वर → य्: प्राप्नोति + अतः → प्राप्नोत्यतः · अः + घोष व्यंजन → ओ: अतः + वा → अतो वा · "
@@ -796,8 +796,8 @@ AIDS = {
         "chunks": "यात्यन्यथात्वं प्रकृतिः | षण्मासान्त स जीवति || भक्तिः शीलं स्मृतिस्त्यागो | बुद्धिर्बलमहेतुकं",
         "sandhi": ("इ + भिन्न स्वर → य्: याति + अन्यथात्वम् → यात्यन्यथात्वं · त से पहले विसर्ग → स्: स्मृतिः + त्यागः → स्मृतिस्त्यागः · "
                    "अः + घोष व्यंजन → ओ: त्यागः + बुद्धिः → त्यागो बुद्धिः · इः + घोष → इर्: बुद्धिः + बलम् → बुद्धिर्बलम्।"),
-        "anchors": "पक्का: प्रकृति बदले; छह गुण। खुला: ‘षण्मासान्त’ का अर्थ (छह मास नहीं, या छह मास के अन्त तक)। (मेरी याद-पद्धति)",
-        "pegs": "भ-शी-स्मृ-त्या-बु-ब: छह गुणों के पहले अक्षर। (मेरा बनाया स्मरण-सूत्र)",
+        "anchors": "पक्का: प्रकृति बदले; छह बातें। खुला: ‘षण्मासान्त’ का अर्थ (छह मास नहीं, या छह मास के अन्त तक)। (मेरी याद-पद्धति)",
+        "pegs": "भ-शी-स्मृ-त्या-बु-ब: छह बातों के पहले अक्षर। (मेरा बनाया स्मरण-सूत्र)",
     },
 }
 
@@ -820,7 +820,7 @@ IMAGE_SPECS = {
         "title": "कार्ड १५: लक्षण छपे क्रम में",
         "heads": ["क्रम", "लक्षण"],
         "rows": [["१", "माथे से पसीना बहे"], ["२", "संधान और बन्धन ढीले"], ["३", "उठाने पर मोह"],
-                 ["किसके", "बली हो या दुर्बल भी"]],
+                 ["किसके लिए", "बली हो या दुर्बल भी"]],
     },
     ("16", "diagram"): {
         "file": "sh10-uttana-16.svg",
@@ -839,7 +839,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड १८: जिनसे द्वेष",
         "heads": ["क्रम", "विषय"],
-        "rows": [["१", "भिषक्: वैद्य"], ["२", "भेषज: औषध"], ["३", "पान: पेय"], ["४", "अन्न"],
+        "rows": [["१", "भिषग्: वैद्य"], ["२", "भेषज: औषध"], ["३", "पान: पेय"], ["४", "अन्न"],
                  ["५", "गुरु: बड़ा या शिक्षक"], ["६", "मित्र"]],
     },
     ("20", "diagram"): {
@@ -864,11 +864,11 @@ IMAGE_SPECS = {
     ("22", "diagram"): {
         "file": "sh10-yamakshaya-22.svg",
         "alt": ("Flowchart of card 22: without cause (from card 21), obtaining intellect and the rest, or a falling away "
-                "from them, both lead to: he reaches the abode of Yama."),
+                "(vibhraṃśa), both lead to: he reaches the abode of Yama."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"बिना कारण (कार्ड २१)\"] --> B[\"मेधा आदि पाना\"]\n"
-                 "  A --> C[\"अथवा इनसे पतन\"]\n"
+                 "  A --> C[\"अथवा पतन (विभ्रंश)\"]\n"
                  "  B --> D[\"यमक्षय: यम का घर\"]\n"
                  "  C --> D\n"),
     },
@@ -878,7 +878,7 @@ IMAGE_SPECS = {
                 "strength."),
         "type": "table",
         "title": "कार्ड २३: दूसरी पंक्ति के छह",
-        "heads": ["क्रम", "गुण"],
+        "heads": ["क्रम", "विषय"],
         "rows": [["१", "भक्ति"], ["२", "शील: स्वभाव, आचरण"], ["३", "स्मृति"], ["४", "त्याग"], ["५", "बुद्धि"], ["६", "बल"]],
     },
 }
