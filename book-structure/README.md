@@ -1,6 +1,6 @@
 # Chapter map
 
-Version 10; kinds: verse-study. Cards: Sūtrasthāna 1–5 and Śārīrasthāna 1–12 (all of Śārīrasthāna).
+Version 12; kinds: verse-study. Cards: Sūtrasthāna 1–5, Śārīrasthāna 1–12 and Kalpasthāna 1–8.
 
 One entry per chapter with its topic groups.
 
@@ -32,3 +32,7 @@ Kind: `verse-study` (template tag 2.2.1). Not in the bank: cover and preface.
 ## How to review
 Open `chapters.json`: check that each section title says what its units say and that no chapter is missing.
 Say yes, or name the sections to change; changes go to this same branch.
+
+Kalpasthāna (quiz chapters 501–508, labels "कल्प अध्याय 1–8"): topic groups from
+`tools/authored/sections_kalpa.py`. Units are the edition's two-line pairs of the reviewed Part 5
+layer lines (`data/part5_layer_unit_map.json`).

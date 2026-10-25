@@ -2,7 +2,7 @@
  "bank_id": "ashtanga-sangraha-sutrasthana",
  "title": "अष्टाङ्गसंग्रह",
  "genre": "संस्कृत श्लोक",
- "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha studied verse by verse: Sūtrasthāna chapters 1 to 5 and Śārīrasthāna chapters 1 to 12, with Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per unit.",
+ "summary": "Vāgbhaṭa's Aṣṭāṅga Saṅgraha studied verse by verse: Sūtrasthāna chapters 1 to 5, Śārīrasthāna chapters 1 to 12 and Kalpasthāna chapters 1 to 8, with Devanagari text, word split, Hindi and English, memory aids, pictures and six questions per unit.",
  "scroll_buttons": true,
  "labels": {
   "unit": "अध्याय",
@@ -214,6 +214,110 @@
    ],
    "sections": "tools/authored/sections_sarira.py:SH12",
    "ref_template": "अष्टाङ्गसंग्रह · शारीरस्थान · अध्याय १२ · {kind} {unit}।"
+  },
+  {
+   "number": 501,
+   "title": "वमनकल्प",
+   "prefix": "ka1",
+   "unit": "कल्प अध्याय १",
+   "summary": "Chapter 1, Vamanakalpa: madana (emetic nut) as the chief emetic, its collection and storage, its many preparations, and the other emetic fruits and their uses.",
+   "authored": [
+    "ka1_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA1",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय १ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 502,
+   "title": "विरेचनकल्प",
+   "prefix": "ka2",
+   "unit": "कल्प अध्याय २",
+   "summary": "Chapter 2, Virecanakalpa: trivṛt (turpeth) as the chief purgative, its collection and preparations, and the other purgative drugs with their formulas.",
+   "authored": [
+    "ka2_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA2",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय २ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 503,
+   "title": "वमनविरेचनव्यापत्सिद्धि",
+   "prefix": "ka3",
+   "unit": "कल्प अध्याय ३",
+   "summary": "Chapter 3, Vamanavirecanavyāpatsiddhi: what goes wrong in emesis and purgation (failure, wrong direction, excess and their complications) and how each is treated.",
+   "authored": [
+    "ka3_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA3",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ३ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 504,
+   "title": "बस्तिकल्प",
+   "prefix": "ka4",
+   "unit": "कल्प अध्याय ४",
+   "summary": "Chapter 4, Bastikalpa: decoction (nirūha) enemas for different doṣas and conditions, their drug groups, measures and how they are prepared.",
+   "authored": [
+    "ka4_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA4",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ४ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 505,
+   "title": "सिद्धबस्तिकल्प",
+   "prefix": "ka5",
+   "unit": "कल्प अध्याय ५",
+   "summary": "Chapter 5, Siddhabastikalpa: the named proven enemas, yāpana and milk enemas, aphrodisiac enemas, the harms of overuse, and unctuous enemas with their oils.",
+   "authored": [
+    "ka5_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA5",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ५ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 506,
+   "title": "बस्तिव्यापत्सिद्धिकल्प",
+   "prefix": "ka6",
+   "unit": "कल्प अध्याय ६",
+   "summary": "Chapter 6, Bastivyāpatsiddhikalpa: the twelve mishaps of enemas from too little or too much, their signs, and the treatment of each.",
+   "authored": [
+    "ka6_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA6",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ६ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 507,
+   "title": "स्नेहव्यापदिकासिद्धि",
+   "prefix": "ka7",
+   "unit": "कल्प अध्याय ७",
+   "summary": "Chapter 7, Snehavyāpadikāsiddhi: the mishaps of the unctuous enema, faults of nozzle, bag, bed and physician, after-care diet and things to avoid.",
+   "authored": [
+    "ka7_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA7",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ७ · {kind} {unit}।",
+   "shuffle_multi": true
+  },
+  {
+   "number": 508,
+   "title": "भेषजकल्प",
+   "prefix": "ka8",
+   "unit": "कल्प अध्याय ८",
+   "summary": "Chapter 8, Bheṣajakalpa: lands and their drugs, gathering and storing drugs, the five preparations, cooking medicated ghee and oil, and the weights and measures.",
+   "authored": [
+    "ka8_batch_*.py"
+   ],
+   "sections": "tools/authored/sections_kalpa.py:KA8",
+   "ref_template": "अष्टाङ्गसंग्रह · कल्पस्थान · अध्याय ८ · {kind} {unit}।",
+   "shuffle_multi": true
   }
  ]
 }
