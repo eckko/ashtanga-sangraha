@@ -16,7 +16,7 @@ AUTHORED["39"] = {
              "(वंक्षणौ समाश्रयन्), having seized the anus and the heart (पायुहृदये), the strong one (बली)."),
     "limits": ("No main verb: the data says cards 39 to 42 (to card 42, line 1) appear to form one run, verb मुष्णाति "
                "(card 42), subject the wind. बली as the wind is an inference; how क्षीणदेहस्य वा attaches is unclear: "
-               "no question on these, nor on the case of पायुहृदये. Print नाभी-, split नाभि-."),
+               "no question on these or on the case of पायुहृदये."),
     "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से कार्ड ४२ की पहली पंक्ति तक एक ही वाक्य प्रतीत होता है, जिसकी क्रिया "
                    "‘मुष्णाति’ (हर लेता है) कार्ड ४२ में है और कर्ता वायु (मारुत) है। "
                    "यहाँ तीन बातें गिनाई गई हैं: नाभि और गुदा के बीच के स्थान में जाना, या दोनों वंक्षण (जाँघ और पेट के जोड़) में आश्रय लेना, "
@@ -136,7 +136,7 @@ AUTHORED["41"] = {
     "question": "By card 41, what does the wind produce, and what does it seize?",
     "rule": ("Or producing breathlessness (श्वासम्), the wind (वायुः), having seized the anus and the groins (गुदवंक्षणौ), "
              "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), the wind (मारुतः)."),
-    "limits": ("Typed prose: no metre question. No main verb: the run of cards 39 to 42 ends in मुष्णाति (card 42). "
+    "limits": ("Typed prose: no metre question. No main verb: the run (cards 39 to 42) ends in मुष्णाति. "
                "पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on the space or the stem "
                "पर्शुक/पर्शुका (अग्राणि = tips is sure), nor on the number of गुदवंक्षणौ."),
     "explain_hi": ("शृंखला का तीसरा भाग। यहाँ कर्ता दो बार नाम से आता है: पहली पंक्ति में ‘वायुः’, दूसरी में ‘मारुतः’; दोनों एक ही वायु। "
