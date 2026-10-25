@@ -155,8 +155,8 @@ AUTHORED["41"] = {
             "श्वास = breathlessness."),
         match(1, "Match each word of card 41 to its meaning.",
               [["श्वासम्", "breathlessness"], ["वितत्य", "having spread out"], ["अग्राणि", "tips"],
-               ["उरः", "chest"], ["मारुतः", "māruta (Vāta)"]],
-              "श्वासम् = breathlessness, वितत्य = having spread out, अग्राणि = tips, उरः = chest, मारुतः = māruta (Vāta).",
+               ["उरः", "chest"], ["मारुतः", "another name for vāyu (Vāta)"]],
+              "श्वासम् = breathlessness, वितत्य = having spread out, अग्राणि = tips, उरः = chest, मारुतः = another name for vāyu (Vāta).",
               "श्वासम्, वितत्य, अग्राणि, उरः, मारुतः."),
         order(2, "Put these parts of card 41 in the printed order.",
               ["श्वासं वा जनयन्", "वायुर्गृहीत्वा", "गुदवंक्षणौ", "वितत्य", "गृहीत्वोरश्च", "मारुतः"],
@@ -236,12 +236,12 @@ AUTHORED["42"] = {
              ("ज्वरसन्तापे + तृष्णा", "ए + त would print ज्वरसन्तापे तृष्णा, with no स्.")],
             "ज्वरसन्तापः (fever-heat) + तृष्णा (thirst).",
             "ः before त → स्."),
-        mcq("transfer", 5, "By the pattern of सद्यः + मुष्णाति → सद्यो मुष्णाति, how is मेघः + गर्जति (the cloud thunders) joined in a new example?",
-            ("मेघो गर्जति", "अः before the voiced consonant ग → ओ: मेघो गर्जति."),
-            [("मेघर्गर्जति", "र् comes from a visarga after vowels other than अ/आ; after अ it is ओ."),
-             ("मेघ गर्जति", "अः loses only its visarga before vowels other than अ; before a voiced consonant it is ओ."),
-             ("मेघस्गर्जति", "स् comes from a visarga before त or थ, not before ग.")],
-            "मेघः + गर्जति = मेघो गर्जति, like सद्यः + मुष्णाति = सद्यो मुष्णाति.",
+        mcq("transfer", 5, "By the pattern of सद्यः + मुष्णाति → सद्यो मुष्णाति, how is देवः + ददाति (the god gives) joined in a new example?",
+            ("देवो ददाति", "अः before the voiced consonant द → ओ: देवो ददाति."),
+            [("देवर्ददाति", "र् comes from a visarga after vowels other than अ/आ; after अ it is ओ."),
+             ("देव ददाति", "अः loses only its visarga before vowels other than अ; before a voiced consonant it is ओ."),
+             ("देवस्ददाति", "स् comes from a visarga before त or थ, not before द.")],
+            "देवः + ददाति = देवो ददाति, like सद्यः + मुष्णाति = सद्यो मुष्णाति.",
             "अः before a voiced consonant → ओ.",
             teaches="अः before a voiced consonant becomes ओ: सद्यः + मुष्णाति → सद्यो मुष्णाति."),
     ],
@@ -436,9 +436,9 @@ AUTHORED["46"] = {
     "explain_hi": ("पहली पंक्ति में देह का नाश करने वाले विस्फोट (फफोले) बताए गए: भीतर की ओर मुख वाले और किण के समान दिखने वाले; "
                    "किण सम्भवतः घट्टा या चोट का निशान है, पहचान अनिश्चित, इसलिए उस पर प्रश्न नहीं। "
                    "डेटा के अनुसार कार्ड ४५ की दूसरी पंक्ति की उपमाएँ भी इन्हीं विस्फोटों की लगती हैं। "
-                   "दूसरी पंक्ति नए लक्षण देती है: दोनों आँखों में कामला (पीलिया, मानक), मुख भरा हुआ, और दोनों शंख (कनपटियों) में माँस छूट जाना; "
+                   "दूसरी पंक्ति नए लक्षण देती है: दोनों आँखों में कामला (पीलिया, मानक), मुख भरा हुआ, और दोनों शंख (कनपटियों) में मांस छूट जाना; "
                    "डेटा के अनुसार यह वाक्य कार्ड ४७ (‘यस्य तं परिवर्जयेत्’) में पूरा होता है।"),
-    "hook": "भीतर-मुखी विस्फोट; आँखें पीली, मुख भरा, कनपटियों का माँस छूटा।",
+    "hook": "भीतर-मुखी विस्फोट; आँखें पीली, मुख भरा, कनपटियों का मांस छूटा।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 46, what does कामला mean?",
@@ -490,7 +490,7 @@ AUTHORED["47"] = {
     "rule": ("He in whom there is fright (सन्त्रासः) and heat in the body (उष्णता अङ्गे), him one should avoid "
              "(तं परिवर्जयेत्): by the data's grouping this appears to complete the sentence of card 46, line 2. The sense of line 2 is doubtful."),
     "limits": ("Low confidence. Line 2 (अकस्मादनुधावच्च विघृष्टं त्वक्समाश्रयं) is given literally; its neuter forms do not agree "
-               "with the wounds (व्रणाः) of card 49 that cards 47 to 49 seem to describe: no question on line 2. The agent of "
+               "with the wounds (व्रणाः) of card 49, which the list from this line to card 49, line 1, appears to describe (the data leaves this unresolved): no question on line 2. The agent of "
                "परिवर्जयेत् is not stated ('one')."),
     "explain_hi": ("पहली पंक्ति कार्ड ४६ की दूसरी पंक्ति का वाक्य पूरा करती है: जिसमें (उन लक्षणों के साथ) भय (सन्त्रास) और शरीर में उष्णता हो, "
                    "उसे त्याग देना चाहिए (तं परिवर्जयेत्)। त्यागने वाला कौन, यह छपा नहीं। "
@@ -549,10 +549,10 @@ AUTHORED["48"] = {
     "rule": ("Smelling of sandalwood (standard), uśīra (vetiver root, standard), madirā (an intoxicating drink), a corpse and a crow "
              "(-गन्धयः); having the lustre of śaivāla (water-moss; plant disputed), a cock's comb, kuṅkuma (saffron, standard), "
              "āla (probably orpiment) and ink (-प्रभाः)."),
-    "limits": ("The noun is not here: the data takes cards 47 to 49 as describing the wounds (व्रणाः) of card 49. "
+    "limits": ("The noun is not here: by the data, the list from card 47, line 2, to card 49, line 1, appears to describe the wounds (व्रणाः) of card 49 (for card 47 the data leaves this unresolved). "
                "कुंकुमाल may be कुंकुम + आल or + अल: no question on āla. śaivāla is disputed: kept out of the questions. "
                "कुणपध्वांक्ष is read as two smells."),
-    "explain_hi": ("यह इकाई दो लम्बे समासों की सूची है; जिसका वर्णन है वह यहाँ नहीं, डेटा के अनुसार कार्ड ४९ के व्रण (घाव)। "
+    "explain_hi": ("यह इकाई दो लम्बे समासों की सूची है; जिसका वर्णन है वह यहाँ नहीं, डेटा के अनुसार सम्भवतः कार्ड ४९ के व्रण (घाव)। "
                    "पहली पंक्ति गन्ध बताती है: चन्दन (मानक), उशीर यानी खस (मानक), मदिरा (नशीला पेय), कुणप (शव) और ध्वाङ्क्ष (कौआ)। "
                    "दूसरी पंक्ति प्रभा (आभा) बताती है: शैवाल (जल की काई; पहचान विवादित), मुर्गे की कलगी, कुंकुम यानी केसर (मानक), "
                    "आल (सम्भवतः हरताल) और मषी (स्याही)। ‘कुंकुमाल’ को कुंकुम + अल भी पढ़ा जा सकता है, इसलिए आल पर प्रश्न नहीं। "
@@ -612,9 +612,9 @@ AUTHORED["49"] = {
     "rule": ("Wounds (व्रणाः) with inner burning (अन्तर्दाहाः) and without heat (निरूष्माणः) cause the destruction of life "
              "(प्राणनाशकराः). Line 2: the Vāta-born (one) which would not be for pain (न शूलाय), and the Pitta-born which "
              "would not be for burning (न दाहाय)."),
-    "limits": ("Line 1 ends the list begun in card 47 (data). In line 2 the noun is not stated (probably a wound, see cards 49 and 51) "
+    "limits": ("Line 1 appears to end the list begun in card 47, line 2 (data). In line 2 the noun is not stated (probably a wound, see cards 49 and 51) "
                "and the sentence goes on into card 50. 'Inner burning, no heat' is given as printed; nothing is added about the outside."),
-    "explain_hi": ("पहली पंक्ति कार्ड ४७-४८ की सूची का अन्त है: भीतर दाह वाले, ऊष्मा से रहित, प्राणों का नाश करने वाले व्रण (घाव)। "
+    "explain_hi": ("पहली पंक्ति सम्भवतः कार्ड ४७-४८ की सूची का अन्त है: भीतर दाह वाले, ऊष्मा से रहित, प्राणों का नाश करने वाले व्रण (घाव)। "
                    "बाहर के बारे में कुछ नहीं कहा गया; जैसा छपा है वैसा ही लिया गया। "
                    "दूसरी पंक्ति नया क्रम आरम्भ करती है: जो वातज हो और पीड़ा (शूल) के लिए न हो, और जो पित्तज हो और दाह के लिए न हो; "
                    "संज्ञा छपी नहीं (सम्भवतः व्रण), और वाक्य कार्ड ५० में आगे चलता है। "
@@ -694,9 +694,9 @@ AUTHORED["50"] = {
               "Kapha-born, not for pus; marma-born, not for pain; without powder, looking powder-strewn; where suddenly seen.",
               "कफजो → न च पूयाय → मर्मजश्च → रुजे न यः → अचूर्णश्चूर्णकीर्णाभो → यत्राकस्माच्च दृश्यते."),
         match(2, "Match each word of card 50 to its meaning.",
-              [["कफजः", "Kapha-born"], ["पूयाय", "for pus"], ["मर्मजः", "born at a marma (vital spot)"],
+              [["कफजः", "Kapha-born"], ["पूयाय", "for pus"], ["मर्मजः", "born at a vital spot"],
                ["रुजे", "for pain"], ["अचूर्णः", "without powder"], ["दृश्यते", "is seen"]],
-              "कफजः = Kapha-born, पूयाय = for pus, मर्मजः = marma-born, रुजे = for pain, अचूर्णः = without powder, दृश्यते = is seen.",
+              "कफजः = Kapha-born, पूयाय = for pus, मर्मजः = born at a vital spot, रुजे = for pain, अचूर्णः = without powder, दृश्यते = is seen.",
               "कफजः, पूयाय, मर्मजः, रुजे, अचूर्णः, दृश्यते.", role="extend",
               teaches="रुजे is the dative singular of the feminine रुज् (pain): 'for pain', like शूलाय in card 49."),
         mcq("discriminate", 3, "By card 50, what would the marma-born one not be for?",
@@ -763,11 +763,11 @@ NOTES_HI = {
            "इनके नपुंसक एकवचन रूप पंक्ति ९४ (कार्ड ४९) के ‘व्रणाः’ से मेल नहीं खाते; इकाई क्षतिग्रस्त हो सकती है। उस पंक्ति पर प्रश्न नहीं। "
            "‘परिवर्जयेत्’ का कर्ता छपा नहीं। सन्धि जाँची: सन्त्रासः + च → सन्त्रासश्च; च + उष्णता → चोष्णता (अ + उ → ओ); उष्णता + अङ्गे → उष्णताङ्गे (आ + अ → आ); "
            "अकस्मात् + अनुधावत् → अकस्मादनुधावत् (स्वर से पहले त् → द्); अनुधावत् + च → अनुधावच्च (च से पहले त् → च्)।"),
-    "48": ("पद्य; विश्वास मध्यम; छपी पंक्तियाँ ०२.११.९२ और ०२.११.९३; कोई पाठ-चिह्न नहीं। वर्णित संज्ञा इस इकाई में नहीं (डेटा: पंक्ति ९४, कार्ड ४९ के व्रण)। "
+    "48": ("पद्य; विश्वास मध्यम; छपी पंक्तियाँ ०२.११.९२ और ०२.११.९३; कोई पाठ-चिह्न नहीं। वर्णित संज्ञा इस इकाई में नहीं (डेटा: सम्भवतः पंक्ति ९४, कार्ड ४९ के व्रण)। "
            "‘कुणपध्वांक्ष’ को दो गन्ध (शव, कौआ) लिया गया। पहचान: चन्दन = Santalum album, उशीर = खस की जड़ (Chrysopogon zizanioides), कुंकुम = केसर (Crocus sativus), "
            "तीनों मानक; शैवाल विवादित; आल सम्भवतः हरताल। ‘कुंकुमाल’ = कुंकुम + आल या कुंकुम + अल, दोनों सन्धि से सम्भव। "
            "सन्धि जाँची: चन्दन + उशीर → चन्दनोशीर (अ + उ → ओ); कुक्कुटशिखा + कुंकुम में सन्धि नहीं।"),
-    "49": ("पद्य; विश्वास मध्यम; छपी पंक्तियाँ ०२.११.९४ और ०२.११.९५; कोई पाठ-चिह्न नहीं। पंक्ति ९४ पंक्तियों ९१-९३ (कार्ड ४७-४८) की सूची का अन्त; "
+    "49": ("पद्य; विश्वास मध्यम; छपी पंक्तियाँ ०२.११.९४ और ०२.११.९५; कोई पाठ-चिह्न नहीं। पंक्ति ९४ सम्भवतः पंक्तियों ९१-९३ (कार्ड ४७-४८) की सूची का अन्त; "
            "पंक्ति ९५ की संज्ञा नहीं छपी (सम्भवतः व्रण, पंक्ति ९४ और ९८ देखें), वाक्य पंक्ति ९६ (कार्ड ५०) में चलता है। वात और पित्त दोष, नाम वैसे ही रखे। "
            "सन्धि जाँची: अन्तर्दाहाः + निरूष्माणः → अन्तर्दाहा निरूष्माणः (आः घोष न से पहले विसर्ग खोता है); यः + वातजः → यो वातजः (अः + घोष व्यंजन → ओ); "
            "स्यात् + न → स्यान्न (अनुनासिक से पहले त् → न् विकल्प से; स्याद् न भी शुद्ध)।"),
@@ -829,12 +829,12 @@ AIDS = {
     },
     "46": {
         "diagram": {"groups": [{"label": "कार्ड ४६ (छपे क्रम में)",
-                                "items": ["१ अंतर्वक्त्रा: भीतर-मुखी", "२ किणाभाः: किण जैसे (किण अनिश्चित)", "३ विस्फोटा देहनाशनाः: देह-नाशक फफोले",
-                                          "४ कामला अक्ष्णोः: आँखों में पीलिया", "५ मुखं पूर्णं: मुख भरा", "६ शंखयोः मुक्तमांसता"]}]},
+                                "items": ["१ अंतर्वक्त्रा = भीतर-मुखी", "२ किणाभाः = किण जैसे (किण अनिश्चित)", "३ विस्फोटा देहनाशनाः = देह-नाशक फफोले",
+                                          "४ कामला अक्ष्णोः = आँखों में पीलिया", "५ मुखं पूर्णं = मुख भरा", "६ शंखयोः मुक्तमांसता"]}]},
         "chunks": "अंतर्वक्त्रा | किणाभाश्च | विस्फोटा देहनाशनाः || कामलाऽक्ष्णोर्मुखंपूर्णं | शंखयोर्मुक्तमांसता",
         "sandhi": ("च से पहले ः → श्: किणाभाः + च → किणाभाश्च · आः घोष से पहले विसर्ग खोता है: विस्फोटाः + देह- → विस्फोटा देह- · "
                    "ओ के बाद विसर्ग, घोष से पहले → र्: शङ्खयोः + मुक्त- → शङ्खयोर्मुक्त-।"),
-        "anchors": "छपे क्रम में: आँखें (कामला), मुख (पूर्ण), कनपटी (माँस छूटा)। (मेरी याद-पद्धति)",
+        "anchors": "छपे क्रम में: आँखें (कामला), मुख (पूर्ण), कनपटी (मांस छूटा)। (मेरी याद-पद्धति)",
     },
     "47": {
         "frame": "किसमें: यस्य · क्या: सन्त्रास और अङ्ग में उष्णता · पाठ का कथन: तं परिवर्जयेत् · पंक्ति २: अर्थ सन्दिग्ध।",
@@ -905,9 +905,9 @@ IMAGE_SPECS = {
                 "jaundice in the two eyes; face full; loss of flesh in the two temples."),
         "type": "table",
         "title": "कार्ड ४६: लक्षण",
-        "heads": ["क्रम", "छपा शब्द: अर्थ"],
-        "rows": [["१", "अंतर्वक्त्रा: भीतर-मुखी"], ["२", "किणाभाः: किण जैसे (अनिश्चित)"], ["३", "विस्फोटा देहनाशनाः: देह-नाशक फफोले"],
-                 ["४", "कामला अक्ष्णोः: आँखों में पीलिया"], ["५", "मुखं पूर्णं: मुख भरा"], ["६", "शंखयोः: माँस छूटा"]],
+        "heads": ["क्रम", "छपा शब्द = अर्थ"],
+        "rows": [["१", "अंतर्वक्त्रा = भीतर-मुखी"], ["२", "किणाभाः = किण जैसे (अनिश्चित)"], ["३", "विस्फोटा देहनाशनाः = देह-नाशक फफोले"],
+                 ["४", "कामला अक्ष्णोः = आँखों में पीलिया"], ["५", "मुखं पूर्णं = मुख भरा"], ["६", "शंखयोः = मांस छूटा"]],
     },
     ("48", "diagram"): {
         "file": "sh11-gandha-prabha-48.svg",

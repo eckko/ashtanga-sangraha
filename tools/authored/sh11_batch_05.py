@@ -8,7 +8,7 @@ AUTHORED["51"] = {
     "title": "रूपं शक्तिध्वजादीनां",
     "question": "By card 51, which wounds and which bhagandara does the verse say one should avoid?",
     "rule": ("All those wounds (व्रणान्) showing the form of a spear, a banner and the like are to be avoided (वर्जयेत्); "
-             "so too bhagandara (fistula in ano, standard) that passes faeces, urine and wind and has worms (कृमिणम्)."),
+             "so too bhagandara (fistula in ano, standard) that passes faeces, urine and vāyu (māruta) and has worms (कृमिणम्)."),
     "limits": ("Medium confidence. The verb of रूपम् is carried from दृश्यते (card 50). शक्ति is taken as spear; it may "
                "also mean 'power': no question on its sense. Printed सर्वास्तान् may stand for सर्वांस्तान् (possible "
                "flag): no question on that join. No cause, time or treatment is stated."),
@@ -30,12 +30,12 @@ AUTHORED["51"] = {
             "वर्जयेत्, optative: one should avoid."),
         match(1, "Match each word of card 51 to its meaning.",
               [["ध्वज", "banner"], ["व्रणान्", "wounds"], ["कृमिणम्", "having worms"], ["मूत्र", "urine"],
-               ["मारुत", "wind"], ["-वहम्", "carrying, passing"]],
-              "ध्वज = banner, व्रणान् = wounds, कृमिणम् = having worms, मूत्र = urine, मारुत = wind, -वहम् = carrying.",
+               ["मारुत", "vāyu (bodily air)"], ["-वहम्", "carrying, passing"]],
+              "ध्वज = banner, व्रणान् = wounds, कृमिणम् = having worms, मूत्र = urine, मारुत = vāyu (bodily air), -वहम् = carrying.",
               "ध्वज, व्रणान्, कृमिणम्, मूत्र, मारुत, -वहम्."),
         order(2, "Put the parts of card 51 in the printed order.",
               ["रूपं", "शक्तिध्वजादीनां", "सर्वास्तान्", "वर्जयेद्व्रणान्", "विण्मूत्रमारुतवहं", "कृमिणं च भगंदरं"],
-              "Line 1: the form of spear, banner and the like; avoid all those wounds. Line 2: the bhagandara passing faeces, urine and wind, with worms.",
+              "Line 1: the form of spear, banner and the like; avoid all those wounds. Line 2: the bhagandara passing faeces, urine and vāyu (māruta), with worms.",
               "रूपं → शक्तिध्वजादीनां → सर्वास्तान् → वर्जयेद्व्रणान् → विण्मूत्रमारुतवहं → कृमिणं च भगंदरं.",
               role="extend",
               teaches="Line 1 ends with its verb वर्जयेत्; line 2 adds भगन्दरम् as a further accusative object of the same verb (data)."),
@@ -48,17 +48,17 @@ AUTHORED["51"] = {
             "त् + voiced consonant → द्."),
         mcq("apply", 4, "Which word of card 51 says that the bhagandara has worms?",
             ("कृमिणं", "कृमिन् (having worms), accusative कृमिणम्, printed कृमिणं."),
-            [("विण्मूत्रमारुतवहं", "This says it passes faeces, urine and wind, not that it has worms."),
+            [("विण्मूत्रमारुतवहं", "This says it passes faeces, urine and vāyu (māruta), not that it has worms."),
              ("शक्तिध्वजादीनां", "This names the spear, banner and the like of line 1, not worms."),
              ("वर्जयेद्व्रणान्", "This is 'should avoid the wounds'; it names no worms.")],
             "कृमि (worm) + -इन् (having) = कृमिन्; accusative कृमिणम्.",
             "कृमिणम् = having worms."),
-        mcq("transfer", 5, "By the pattern of कृमिणम् (having worms, from कृमिन्), what does दण्डिनम् (from दण्डिन्) mean in a new example?",
-            ("One having a staff", "-इन् = having: दण्ड (staff) + इन् = दण्डिन्, one having a staff; accusative दण्डिनम्."),
-            [("One without a staff", "Without would need a prefix such as निर्-; -इन् means having."),
-             ("One breaking a staff", "Breaking would need a verb such as √भञ्ज्; -इन् means having."),
-             ("A thing made of staff", "Made of would be -मय; -इन् means having.")],
-            "दण्डिनम् = one having a staff, like कृमिणम् = one having worms.",
+        mcq("transfer", 5, "By the pattern of कृमिणम् (having worms, from कृमिन्), what does शिखिनम् (from शिखिन्, शिखा = crest) mean in a new example?",
+            ("One having a crest", "-इन् = having: शिखा (crest) + इन् = शिखिन्, one having a crest; accusative शिखिनम्."),
+            [("One without a crest", "Without would need a prefix such as निर्-; -इन् means having."),
+             ("One cutting a crest", "Cutting would need a verb such as √छिद्; -इन् means having."),
+             ("A thing made of crests", "Made of would be -मय; -इन् means having.")],
+            "शिखिनम् = one having a crest, like कृमिणम् = one having worms.",
             "Noun + -इन् = having that thing.",
             teaches="-इन् added to a noun means 'having': कृमि → कृमिन् (having worms); its accusative is कृमिणम् (न् → ण् after ऋ in the same word)."),
     ],
@@ -427,17 +427,17 @@ AUTHORED["57"] = {
 AUTHORED["58"] = {
     "title": "यतमानो न शक्नोति",
     "question": "By card 58, what happens to the striving physician, and how is the medicine of line 2 described?",
-    "rule": ("Line 1 completes card 57: though striving (यतमानः), he is not able (न शक्नोति); that patient's life is hard to "
+    "rule": ("Line 1 completes card 57: striving (यतमानः), he is not able (न शक्नोति); that patient's life is hard to "
              "obtain (दुर्लभं तस्य जीवितम्). Line 2 describes a medicine: known (विज्ञातम्), successful many times (बहुशः "
              "सिद्धम्), applied according to rule (विधिवत् अवचारितम्)."),
     "limits": ("Medium confidence. The subject of शक्नोति (the physician, card 57) and the noun of line 2 (औषधम्, card 59) are "
                "not printed in this card (data). सिद्ध here = successful, proved effective; अवचारित = applied (wording open). "
                "No question asks who the subject is."),
-    "explain_hi": ("पहली पंक्ति कार्ड ५७ का वाक्य पूरा करती है: यत्न करता हुआ भी (वैद्य) समर्थ नहीं होता; उसका जीवन दुर्लभ है। "
+    "explain_hi": ("पहली पंक्ति कार्ड ५७ का वाक्य पूरा करती है: यत्न करता हुआ (वैद्य) समर्थ नहीं होता; उसका जीवन दुर्लभ है। "
                    "दूसरी पंक्ति एक औषध का वर्णन है: जाना हुआ, बहुत बार सफल (सिद्धम्) और विधि के अनुसार प्रयुक्त; डेटा के अनुसार संज्ञा ‘औषधम्’ कार्ड ५९ में है। "
                    "यहाँ ‘सिद्ध’ का अर्थ सफल है। "
                    "‘विधिवच्चावचारितम्’ में विधिवत् + च (त् + च → च्च) और च + अवचारितम् (अ + अ → आ) है।"),
-    "hook": "यत्न करे, फिर भी न कर सके: दुर्लभं जीवितम्। औषध जाना हुआ, बार-बार सिद्ध, विधि से दिया।",
+    "hook": "यत्न करते हुए न कर सके: दुर्लभं जीवितम्। औषध जाना हुआ, बार-बार सिद्ध, विधि से दिया।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 58, what does दुर्लभम् mean?",
@@ -843,8 +843,8 @@ AIDS = {
         "anchors": "कृमि + इन् = कृमिन् (कृमियों वाला), जैसे ज्वर + इन् = ज्वरिन्। (मेरी याद-पद्धति)",
     },
     "52": {
-        "chain": {"steps": ["घट्टयन्जानुना जानु: घुटने से घुटना टकराए", "पादावुद्यम्य पातयन्: पैर उठाकर गिराए",
-                            "योऽपास्यति मुहुः: बार-बार हटाए (मुख: अनुमानित पाठ)", "आतुरो न सजीवति: वह रोगी जीवित नहीं रहता"]},
+        "chain": {"steps": ["घट्टयन्जानुना जानु = घुटने से घुटना टकराए", "पादावुद्यम्य पातयन् = पैर उठाकर गिराए",
+                            "योऽपास्यति मुहुः = बार-बार हटाए (मुख: अनुमानित पाठ)", "आतुरो न सजीवति = वह रोगी जीवित नहीं रहता"]},
         "chunks": "घट्टयन्जानुना जानु | पादावुद्यम्य पातयन् || योऽपास्यति | मुहुर्वक्रमातुरो | न सजीवति",
         "sandhi": "औ + स्वर → आव्: पादौ + उद्यम्य → पादावुद्यम्य · अः + अ → ओऽ: यः + अपास्यति → योऽपास्यति · अः + घोष व्यंजन → ओ: आतुरः + न → आतुरो न।",
     },
@@ -884,7 +884,7 @@ AIDS = {
         "sandhi": "उ के बाद विसर्ग, घोष ह से पहले → र्: मृत्युः + हरति → मृत्युर्हरति · म् + स्वर → जुड़ता है: यम् + उद्दिश्य → यमुद्दिश्य · अ + आ → आ: उद्दिश्य + आतुरम् → उद्दिश्यातुरम्।",
     },
     "58": {
-        "chain": {"steps": ["कार्ड ५७: जिस रोगी को लक्ष्य करके", "कार्ड ५७: वैद्य औषध तैयार करने को", "कार्ड ५८: यत्न करता हुआ भी",
+        "chain": {"steps": ["कार्ड ५७: जिस रोगी को लक्ष्य करके", "कार्ड ५७: वैद्य औषध तैयार करने को", "कार्ड ५८: यत्न करता हुआ",
                             "कार्ड ५८: समर्थ नहीं होता", "कार्ड ५८: उसका जीवन दुर्लभ"]},
         "chunks": "यतमानो न शक्नोति | दुर्लभं तस्य जीवितं || विज्ञातं | बहुशः सिद्धं | विधिवच्चावचारितं",
         "sandhi": "अः + घोष व्यंजन → ओ: यतमानः + न → यतमानो न · च से पहले त् → च्: विधिवत् + च → विधिवच्च · अ + अ → आ: च + अवचारितम् → चावचारितम्।",
@@ -913,8 +913,8 @@ AIDS = {
     "63": {
         "diagram": {"groups": [
             {"label": "समापन-वाक्य के भाग (छपे क्रम में)",
-             "items": ["इति: इस प्रकार", "विकृत: बदला हुआ, असामान्य", "व्याधि: रोग", "विज्ञानीय: जानने योग्य",
-                       "नाम: नामक", "एकादशः: ग्यारहवाँ", "अध्यायः: अध्याय"]}]},
+             "items": ["इति = इस प्रकार", "विकृत = बदला हुआ, असामान्य", "व्याधि = रोग", "विज्ञानीय = जानने योग्य",
+                       "नाम = नामक", "एकादशः = ग्यारहवाँ", "अध्यायः = अध्याय"]}]},
         "chunks": "इति | विकृतव्याधिविज्ञानीयो | नामैकादशोऽध्यायः",
         "sandhi": "अ + ए → ऐ: नाम + एकादशः → नामैकादशः · अः + अ → ओऽ: एकादशः + अध्यायः → एकादशोऽध्यायः।",
     },
@@ -926,7 +926,7 @@ IMAGE_SPECS = {
     ("51", "diagram"): {
         "file": "sh11-varjya-vrana-51.svg",
         "alt": ("Split of card 51: line 1, wounds with the form of a spear, a banner and the like, all to be avoided; "
-                "line 2, bhagandara passing faeces, urine and wind, and with worms."),
+                "line 2, bhagandara passing faeces, urine and vāyu (māruta), and with worms."),
         "type": "split",
         "title": "कार्ड ५१: वर्जयेत्",
         "cols": [["पंक्ति १: व्रण", ["शक्ति (भाला), ध्वज आदि का रूप", "उन सब व्रणों को त्यागे"]],
@@ -962,11 +962,11 @@ IMAGE_SPECS = {
     },
     ("58", "chain"): {
         "file": "sh11-vaidya-58.svg",
-        "alt": ("Chain across cards 57 and 58: the patient for whom a physician, to prepare medicine, though striving, is not "
+        "alt": ("Chain across cards 57 and 58: the patient for whom a physician, to prepare medicine, striving, is not "
                 "able; that patient's life is hard to obtain."),
         "type": "chain",
         "title": "कार्ड ५७-५८: एक वाक्य",
-        "steps": ["५७: जिस रोगी को लक्ष्य करके", "५७: वैद्य औषध बनाने को", "५८: यत्न करता हुआ भी", "५८: समर्थ नहीं होता",
+        "steps": ["५७: जिस रोगी को लक्ष्य करके", "५७: वैद्य औषध बनाने को", "५८: यत्न करता हुआ", "५८: समर्थ नहीं होता",
                   "५८: उसका जीवन दुर्लभ"],
     },
     ("60", "chain"): {

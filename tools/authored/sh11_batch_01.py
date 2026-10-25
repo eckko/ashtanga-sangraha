@@ -301,9 +301,9 @@ AUTHORED["5"] = {
 # ---------------------------------------------------------------- unit 6
 AUTHORED["6"] = {
     "title": "बलमांसविहीनस्य",
-    "question": "By card 6, whom does the line describe, and which colours of raktapitta does it name?",
+    "question": "By card 6, whom does the line describe, and which colours does line 2 name?",
     "rule": ("Of one deprived of strength and flesh, with a śleṣman (Kapha) cough (श्लेष्मकास); then raktapitta (a bleeding "
-             "disorder, probably): red (भृशम्, very, may go with it), black, with the lustre of the rainbow (Indra's bow)."),
+             "disorder, probably), followed by colours (the data takes them as the discharged blood's, which is not named): red (भृशम्, very, may go with it), black, with the lustre of the rainbow (Indra's bow)."),
     "limits": ("Medium confidence; printed lines 8, 9. Whether समन्वितः goes with card 5's cough or the person, and whether "
                "भृशम् goes with रक्तम्, are open: no question on either. Printed इद्र- is read इन्द्र-: no question on it. "
                "The discharge is not named."),
@@ -312,7 +312,7 @@ AUTHORED["6"] = {
                    "ये रंग निकलने वाले रक्त के लगते हैं, पर रक्त का नाम इस पंक्ति में छपा नहीं। "
                    "छपा ‘इद्र’ = इन्द्र (अनुस्वार छूटा)। "
                    "‘श्लेष्मन्’ समास के पहले पद में अपना न् खोकर ‘श्लेष्म-’ बनता है।"),
-    "hook": "बल-मांस से हीन, कफ की खाँसी; रक्तपित्त लाल, काला, इन्द्रधनुष-सा।",
+    "hook": "बल-मांस से हीन, कफ की खाँसी; रक्तपित्त, फिर रंग: लाल, काला, इन्द्रधनुष-सा।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 6, what does बलमांसविहीनस्य mean?",
@@ -332,8 +332,8 @@ AUTHORED["6"] = {
               "Of one without strength and flesh; with a śleṣman (Kapha) cough; raktapitta; very (भृशम्); red; black.",
               "बलमांसविहीनस्य → श्लेष्मकाससमन्वितः → रक्तपित्तं → भृशं → रक्तं → कृष्णम्.",
               role="extend",
-              teaches="Line 1 describes the person (genitive) and the śleṣman (Kapha) cough; line 2 opens a new head word, रक्तपित्तम्, with its colours."),
-        multi("discriminate", 3, "Which colours does card 6 name for the raktapitta?",
+              teaches="Line 1 describes the person (genitive) and the śleṣman (Kapha) cough; line 2 opens a new head word, रक्तपित्तम्, followed by colours (the data takes them as the discharged blood's, which is not named)."),
+        multi("discriminate", 3, "Which colours does line 2 of card 6 name?",
               [("शुक्लम् (white)", "No: white is not named in card 6."),
                ("रक्तम् (red)", "Yes: रक्तम्, red (भृशम्, very, stands before it)."),
                ("भस्मवर्णम् (ash-coloured)", "No: ash colour is not named in card 6."),
@@ -393,7 +393,7 @@ AUTHORED["7"] = {
               "Copper-coloured; turmeric-coloured; green; appearance; should show; issued through the hair-pits.",
               "ताम्र → हारिद्र → हरितं → रूपं → दर्शयेत् → रोमकूपप्रविसृतं.",
               role="extend",
-              teaches="Line 1 lists the colours first, then the noun रूपम् and the verb दर्शयेत्; line 2 begins with रोमकूपप्रविसृतम्."),
+              teaches="Line 1 lists three colours, then the noun रूपम्, then रक्तम् (red or blood, left open, so not ordered here) and the verb दर्शयेत्; line 2 begins with रोमकूपप्रविसृतम्."),
         mcq("discriminate", 3, "How is हारिद्र in card 7 related to हरिद्रा (turmeric)?",
             ("Adjective: turmeric-coloured", "Its first vowel is strengthened (अ → आ): हारिद्र = of turmeric, turmeric-coloured."),
             [("Plural noun: many turmerics", "The plural would be हरिद्राः; हारिद्र is a derived adjective."),
@@ -856,7 +856,7 @@ AIDS = {
                        "७ श्लेष्मा नीला, पीला, लाल, बार-बार", "८ गर्दन का अवमर्द, जीभ सूखे, कण्ठ-मुख-गुदा का पाक",
                        "९ आमाशय से परिकर्तिका, अति प्यास, शकृद्भेद", "१० पक्वाशय से परिकर्तिका, अति प्यास, अति गुदग्रह",
                        "११ वायु चेतना नष्ट कर कण्ठ में घुरघुरक करे", "१२ (छपा ‘क्षणिस्य’) प्यास बढ़े, हृदय-शूल, हिध्मा आदि"]},
-            {"label": "सब का फल", "items": ["स परासुः: वह परासु है"]}]},
+            {"label": "सब का फल", "items": ["स परासुः = वह परासु है"]}]},
         "contrast": ("आमाशय (सम्भवतः जठर) से उठी परिकर्तिका: अति प्यास + शकृद्भेद (मल का टूटना) ⇄ पक्वाशय (सम्भवतः बड़ी आँत) से उठी "
                      "परिकर्तिका: अति प्यास + अत्यधिक गुदग्रह। दोनों इसी इकाई में।"),
         "sandhi": ("ऐ के बाद विसर्ग, घोष ब से पहले → र्: हृद्यैः + बहुभिः → हृद्यैर्बहुभिः · इ + अ → य: अपि + अन्न- → अप्यन्न- · "
@@ -870,9 +870,9 @@ AIDS = {
     "4": {
         "diagram": {"groups": [
             {"label": "ज्वर कैसा (प्रथमा)",
-             "items": ["बलवान्: बलवान्", "गम्भीरः: गहरा", "दीर्घरात्रिकः: लम्बी रातों वाला", "सप्रलापभ्रमश्वासः: प्रलाप, भ्रम, श्वास सहित"]},
+             "items": ["बलवान् = बलवान्", "गम्भीरः = गहरा", "दीर्घरात्रिकः = लम्बी रातों वाला", "सप्रलापभ्रमश्वासः = प्रलाप, भ्रम, श्वास सहित"]},
             {"label": "किसे मारता है (द्वितीया)",
-             "items": ["क्षीणम्: क्षीण", "शूनम्: सूजा हुआ", "हतानलम्: जिसकी अनल नष्ट (सम्भवतः पाचन-अग्नि)"]}]},
+             "items": ["क्षीणम् = क्षीण", "शूनम् = सूजा हुआ", "हतानलम् = जिसकी अनल नष्ट (सम्भवतः पाचन-अग्नि)"]}]},
         "chunks": "ज्वरो निहंति | बलवान्गंभीरो दीर्घरात्रिकः || सप्रलापभ्रमश्वासः | क्षीणं शूनं हतानलं",
         "sandhi": ("अः घोष व्यंजन से पहले → ओ: ज्वरः + निहन्ति → ज्वरो निहन्ति, गम्भीरः + दीर्घ- → गम्भीरो दीर्घ- · "
                    "अ + अ → आ: हत + अनल → हतानल।"),
