@@ -14,15 +14,15 @@ AUTHORED["27"] = {
     "question": "By unit 27, which three signs of the male genitals does the text give?",
     "rule": ("He whose penis (मेढ्र) is swollen (उत्सिक्त), or whose two testicles (वृषण) have gone out too far, or the "
              "reverse of this (अतः विपर्ययः): these are signs in the list of this chapter."),
-    "limits": ("Prose relative clause; no main clause here. Printed अत्यिनिःसृतौ has an extra य (अतिनिःसृतौ meant). "
+    "limits": ("Prose relative clause; no main clause here. Printed अत्यिनिःसृतौ possibly has an extra य; अतिनिःसृतौ (gone out too far) is probably meant (data: possible). "
                "'Gone out' is literal: whether drawn down or retracted, and what 'the reverse' is, are not said: no "
                "question on either."),
     "explain_hi": ("यह इकाई जननांग के रिष्ट बताती है: जिसका मेढ्र यानी पुरुष-लिंग सूजा हुआ (उत्सिक्त) हो। "
-                   "या जिसके दोनों वृषण यानी अण्डकोष बहुत बाहर निकले हों (अतिनिःसृतौ)। "
+                   "या जिसके दोनों वृषण यानी अण्डकोष बहुत बाहर निकले हों (छपा ‘अत्यिनिःसृतौ’)। "
                    "या इससे उलटा हो (अतः विपर्ययः); उलटा ठीक क्या है, पाठ नहीं बताता। "
-                   "छपा ‘अत्यिनिःसृतौ’ में एक य अधिक है; ‘अतिनिःसृतौ’ अभिप्रेत है। "
+                   "छपे ‘अत्यिनिःसृतौ’ में सम्भवतः एक य अधिक है; ‘अतिनिःसृतौ’ अभिप्रेत लगता है (डेटा: सम्भव)। "
                    "‘यस्य’ से शुरू होने वाला यह सम्बन्ध-वाक्य है; ‘वह’ वाला भाग इस इकाई में नहीं छपा।"),
-    "hook": "सूजा मेढ्र, बहुत निकले वृषण, या उलटा: तीन विकल्प, तीन बार ‘वा’।",
+    "hook": "सूजा मेढ्र, बहुत निकले वृषण, या उलटा: तीन विकल्प, दो बार ‘वा’।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 27, what does उत्सिक्त say about the penis (मेढ्र)?",
@@ -152,20 +152,20 @@ AUTHORED["29"] = {
               "विष = poison, ख = orifice, रोमकूप = hair-pore, अनिमित्तम् = without cause, गुरु = heavy.",
               "विष, ख, रोमकूप, अनिमित्तम्, गुरु."),
         order(2, "Put the printed parts of unit 29 in their printed order.",
-              ["यस्य विषदोषाद्विना", "खेभ्यः सरोमकूपेभ्यो", "रक्तं प्रबर्तते", "यस्यानिमित्तमंगानि",
-               "अतिलघून्यतिगुरूणि वा स्युः", "स मुमूर्षुः"],
-              "Whose, without poison / from the orifices with the hair-pores / blood flows / whose limbs without cause / too light or too heavy would be / he is about to die.",
-              "विषदोषाद्विना → खेभ्यः → रक्तं प्रबर्तते → अंगानि → अतिलघूनि अतिगुरूणि वा स्युः → स मुमूर्षुः.",
+              ["यस्य विषदोषाद्विना", "खेभ्यः सरोमकूपेभ्यो", "रक्तं प्रबर्तते", "यस्यानिमित्तमंगान्यतिलघून्यतिगुरूणि",
+               "वा स्युः", "स मुमूर्षुः"],
+              "Whose, without poison / from the orifices with the hair-pores / blood flows / whose limbs, without cause, too light, too heavy / or would be / he is about to die.",
+              "विषदोषाद्विना → खेभ्यः → रक्तं प्रबर्तते → अंगान्यतिलघून्यतिगुरूणि → वा स्युः → स मुमूर्षुः.",
               role="extend",
               teaches="Two yasya clauses: bleeding without poison, and limbs too light or too heavy; then स मुमूर्षुः."),
         mcq("discriminate", 3, "By unit 29, under what condition is the flow of blood from the orifices a sign?",
-            ("When it is without poison", "विषदोषाद् विना: without the fault of poison."),
+            ("Only when it is without poison", "विषदोषाद् विना: without the fault of poison."),
             [("Only when poison was taken", "The text says the opposite: विना, without poison."),
              ("Only after a wound or fall", "No wound is named; the condition is the absence of poison."),
              ("Only during a high fever", "No fever is named; the condition is the absence of poison.")],
             "विषदोषाद् विना = without the fault of poison.",
             "Bleeding from the orifices + no poison → a sign."),
-        mcq("apply", 4, "A patient's limbs feel, for no cause, far too heavy. By unit 29, what is such a one called?",
+        mcq("apply", 4, "A person's limbs are, without cause, far too heavy. By unit 29, what is such a one called?",
             ("मुमूर्षुः, about to die", "अंगान्यतिगुरूणि वा स्युः स मुमूर्षुः: limbs too heavy without cause."),
             [("साध्यः, curable", "साध्य is not said; the line ends स मुमूर्षुः."),
              ("बलवान्, strong", "Strength is not said; the line ends स मुमूर्षुः."),
@@ -400,11 +400,11 @@ AUTHORED["33"] = {
              ("अंगुलय is the stem itself", "The stem is अङ्गुलि; -अयः is the nominative plural.")],
             "अङ्गुलयः + आयम्यमानाः → अङ्गुलय आयम्यमानाः.",
             "अः + vowel other than अ → अ."),
-        mcq("apply", 4, "A patient's finger is pulled firmly. By the first clause of unit 33, which finding is the sign?",
-            ("No cracking sound at all", "न स्फुटेयुः: the stretched fingers would not crack."),
-            [("A loud cracking sound", "The sign is the opposite: that they do not crack."),
-             ("The finger turns very red", "Colour is not named; the sign is the missing crack."),
-             ("The finger swells at once", "Swelling is not named; the sign is the missing crack.")],
+        mcq("apply", 4, "A patient's fingers are stretched. By the first clause of unit 33, which finding is the sign?",
+            ("They do not crack", "न स्फुटेयुः: the stretched fingers would not crack."),
+            [("They crack loudly", "The sign is the opposite: that they do not crack."),
+             ("They turn very red", "Colour is not named; the sign is the missing crack."),
+             ("They swell at once", "Swelling is not named; the sign is the missing crack.")],
             "Stretched fingers that do not crack.",
             "आयम्यमानाः न स्फुटेयुः."),
         mcq("transfer", 5, "By the pattern of आयम्यमानाः + न → आयम्यमाना न, how is बालाः + गच्छन्ति (the boys go) joined in a new example?",
@@ -432,7 +432,7 @@ AUTHORED["34"] = {
                    "दोनों सूचियाँ ‘आदि’ पर खत्म होती हैं, इसलिए खुली हैं। "
                    "चन्दन = Santalum album (मानक पहचान); कुणप = शव। "
                    "डेटा के अनुसार यह इकाई ३७ में समेटी गई सूची का भाग है।"),
-    "hook": "माला की महक हो या शव की बू: बिना कारण आए तो रिष्ट।",
+    "hook": "माला की महक हो या शव की बू: प्रिय या अप्रिय, दोनों रिष्ट।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 34, what does कुणप mean?",
@@ -444,7 +444,7 @@ AUTHORED["34"] = {
             "कुणप = corpse."),
         order(1, "Put the sources of smell in unit 34's printed order.",
               ["माल्य", "फल", "चन्दन", "कुणप"],
-              "Garlands; fruits; sandalwood; corpses (and the like).",
+              "Garlands; fruits; sandalwood (Santalum album, standard); corpses (and the like).",
               "माल्य → फल → चन्दन → कुणप (+ आदि)."),
         match(2, "Match each word of unit 34 to its meaning.",
               [["इष्ट", "pleasant"], ["अनिष्ट", "unpleasant"], ["माल्य", "garland"], ["कुणप", "corpse"],
@@ -454,8 +454,8 @@ AUTHORED["34"] = {
               teaches="अनिष्ट = अ (not) + इष्ट (pleasant): the negative prefix makes the opposite."),
         mcq("discriminate", 3, "By unit 34, which kind of smell counts as a sign?",
             ("A pleasant or an unpleasant one", "इष्टोऽनिष्टो वा गन्धः: pleasant or unpleasant."),
-            [("Only a foul smell of corpses", "Not only foul: pleasant smells such as sandalwood count too."),
-             ("Only a sweet smell of flowers", "Not only sweet: unpleasant smells such as corpses count too."),
+            [("Only a foul smell of corpses", "Not only foul: इष्टः (pleasant) is named too."),
+             ("Only a sweet smell of flowers", "Not only sweet: अनिष्टः (unpleasant) is named too."),
              ("No smell, only its absence", "The line names smells present, not their absence.")],
             "Both pleasant and unpleasant smells are listed.",
             "इष्टः अनिष्टः वा गन्धः."),
@@ -491,7 +491,7 @@ AUTHORED["35"] = {
                    "कौन-सा कारण छोड़ने से और कौन-सा आश्रय लेने से जुड़ा है, पाठ नहीं बताता। "
                    "‘अत्यर्थम्’ (बहुत) को क्रियाओं के साथ लिया गया; यह कारणों का विशेषण भी हो सकता है। "
                    "‘वाऽत्यर्थं’ का ऽ केवल छपाई की आदत है (आ + अ → आ)।"),
-    "hook": "जूँ-मक्खी अचानक भागें या घेर लें: शरीर बदला है।",
+    "hook": "जूँ-मक्खी बहुत छोड़ दें या बहुत आश्रय लें: वैरूप्य या सौरस्य से।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 35, what does यूका mean?",
@@ -511,13 +511,13 @@ AUTHORED["35"] = {
               "Whose body / from deformity or good flavour, greatly / lice, flies and the like abandon / or resort to.",
               "यस्य शरीरं → वैरूप्यात्सौरस्याद्वाऽत्यर्थं → यूका मक्षिकादयस्त्यजंते → भजंति वा.", role="extend",
               teaches="वैरूप्यात् and सौरस्यात् are ablatives of cause: 'because of deformity, because of good flavour'."),
-        mcq("discriminate", 3, "What does unit 35 leave open?",
-            ("Which cause goes with which action", "The text does not pair the causes with abandoning or resorting."),
-            [("Whether lice are among the creatures", "Lice are named: यूका."),
-             ("Whether the creatures may cling to it", "Clinging is named: भजन्ति, resort to."),
-             ("Whether deformity is one of the causes", "Deformity is named: वैरूप्यात्.")],
-            "The pairing of cause and action is not stated.",
-            "Two causes, two actions, no pairing given."),
+        mcq("discriminate", 3, "By unit 35, what may lice, flies and the like do to the body?",
+            ("Abandon it or resort to it", "त्यजन्ते भजन्ति वा: they abandon it or resort to it."),
+            [("Abandon it, never resort to it", "Not only abandoning: भजन्ति वा, or resort to it, is named too."),
+             ("Resort to it, never abandon it", "Not only resorting: त्यजन्ते, they abandon it, is named too."),
+             ("Bite it until it bleeds", "Biting and bleeding are not named; the verbs are त्यजन्ते and भजन्ति.")],
+            "Both actions are named: त्यजन्ते (abandon) or भजन्ति (resort to).",
+            "त्यजन्ते भजन्ति वा."),
         mcq("apply", 4, "Why is सौरस्यात् printed सौरस्याद् before वा in unit 35?",
             ("त् before a voiced consonant → द्", "व is voiced: सौरस्यात् + वा → सौरस्याद्वा."),
             [("त् before any consonant → द्", "Not any: before स it stays त्, as in वैरूप्यात्सौरस्यात्."),
@@ -577,21 +577,21 @@ AUTHORED["36"] = {
              ("They itch without cause", "No itching is named; the sign is coldness.")],
             "Always-warm limbs turn cold.",
             "सततोष्म अंग → शैत्य."),
-        mcq("apply", 4, "Why is कुमुद + उत्पल printed कुमुदोत्पल in unit 36?",
-            ("अ + उ → ओ", "अ followed by उ merges into ओ: कुमुदोत्पल."),
-            [("अ + उ → औ", "औ comes from अ + ओ or औ, not from अ + उ."),
-             ("अ + उ → ऊ", "ऊ would come from उ + उ; here अ stands first."),
-             ("अ is dropped before उ", "The अ is not lost; अ + उ merge into ओ.")],
-            "कुमुद + उत्पल → कुमुदोत्पल.",
-            "अ + उ → ओ."),
-        mcq("transfer", 5, "By the pattern of कुमुद + उत्पल → कुमुदोत्पल, how is सूर्य + उदयः (sunrise) joined in a new example?",
-            ("सूर्योदयः", "अ + उ → ओ: सूर्य + उदयः → सूर्योदयः."),
-            [("सूर्यौदयः", "औ comes from अ + ओ or औ, not from अ + उ."),
-             ("सूर्यूदयः", "ऊ would come from उ + उ; here अ stands first."),
-             ("सूर्युदयः", "The अ is not lost; अ + उ merge into ओ.")],
-            "सूर्य + उदयः = सूर्योदयः, like कुमुद + उत्पल = कुमुदोत्पल.",
-            "अ + उ → ओ.",
-            teaches="अ followed by उ merges into ओ: कुमुद + उत्पल → कुमुदोत्पल."),
+        mcq("apply", 4, "Why is शोणितेषु + इव printed शोणितेष्विव in unit 36?",
+            ("उ before a different vowel → व्", "उ before इ becomes व्: शोणितेषु + इव → शोणितेष्विव."),
+            [("उ + इ → ओ by guṇa", "ओ comes from अ + उ, not from उ + इ."),
+             ("उ and इ merge into one long ई vowel", "Lengthening joins like vowels only (इ + इ, उ + उ)."),
+             ("उ is dropped before इ", "The उ is not lost; it becomes the semivowel व्.")],
+            "शोणितेषु + इव → शोणितेष्विव.",
+            "उ + other vowel → व्."),
+        mcq("transfer", 5, "By the pattern of शोणितेषु + इव → शोणितेष्विव, how is मधु + अत्र (honey, here) joined in a new example?",
+            ("मध्वत्र", "उ before a different vowel → व्: मधु + अत्र → मध्वत्र."),
+            [("मधोऽत्र", "ओऽ comes from अः or ओ before अ; here the word ends in उ."),
+             ("मधूत्र", "ऊ would come from उ + उ; here अ follows."),
+             ("मधवत्र", "अव् comes from ओ before a vowel; here the word ends in उ.")],
+            "मधु + अत्र = मध्वत्र, like शोणितेषु + इव = शोणितेष्विव.",
+            "उ + other vowel → व्.",
+            teaches="Before a different vowel उ becomes व्: शोणितेषु + इव → शोणितेष्विव."),
     ],
 }
 
@@ -619,10 +619,10 @@ AUTHORED["37"] = {
             "कालपक्व = ripened by time.",
             "काल + पक्व."),
         match(1, "Match each word of unit 37 to its meaning.",
-              [["योग", "conjunction"], ["अतियोग", "excessive conjunction"], ["युगपत्", "at one time"],
-               ["महाभूत", "great element"], ["दृश्यते", "is seen"]],
-              "योग = conjunction, अतियोग = excessive conjunction, युगपत् = at one time, महाभूत = great element, दृश्यते = is seen.",
-              "योग, अतियोग, युगपत्, महाभूत, दृश्यते."),
+              [["शरीर", "body"], ["युगपत्", "at one time"], ["महाभूत", "great element"], ["दृश्यते", "is seen"],
+               ["सर्वे", "all"]],
+              "शरीर = body, युगपत् = at one time, महाभूत = great element, दृश्यते = is seen, सर्वे = all.",
+              "शरीर, युगपत्, महाभूत, दृश्यते, सर्वे."),
         order(2, "Put the printed parts of unit 37 in their printed order.",
               ["यस्य च योगोऽतियोगो वा", "शरीरे", "युगपन्महाभूतानां", "दृश्यते", "सर्वे ते कालपक्वा इति"],
               "And whose conjunction or excessive conjunction / in the body / at one time, of the great elements / is seen / all those are ripened by time.",
@@ -725,7 +725,7 @@ AUTHORED["39"] = {
                    "वह छह मास नहीं जीता (षण्मासान् न जीवति)। "
                    "सिरा का अर्थ नस या रक्तवाहिनी (सम्भावित, सामान्य शब्द) है; ‘बस्तिशीर्ष’ ठीक कौन-सा भाग है, पाठ तय नहीं करता। "
                    "यह अनुष्टुभ् श्लोक है।"),
-    "hook": "माथे पर नई चन्द्र-सी नस-रेखा: छह मास नहीं।",
+    "hook": "माथे या बस्तिशीर्ष पर अपूर्व या बालचन्द्र-सी नस-रेखा: छह मास नहीं।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 39, what does बालेन्दु mean?",
@@ -745,11 +745,11 @@ AUTHORED["39"] = {
               "अपूर्व = never seen before, लेखा = line, ललाट = forehead, बस्ति = bladder, षण्मासान् = for six months, जीवति = lives.",
               "अपूर्व, लेखा, ललाट, बस्ति, षण्मासान्, जीवति.", role="extend",
               teaches="षण्मासान् is an accusative of duration: 'for six months'."),
-        mcq("discriminate", 3, "By unit 39, how long does the person with such vein-lines live?",
-            ("Not for six months", "षण्मासान् न स जीवति: he does not live six months."),
-            [("Not for six days", "The time named is मासान्, months, not days."),
-             ("Not for six years", "The time named is मासान्, months, not years."),
-             ("Fully a year more", "No year is named; the limit is six months.")],
+        mcq("discriminate", 3, "By unit 39, for what span does the text say he does not live?",
+            ("Six months", "षण्मासान् न स जीवति: he does not live six months."),
+            [("Six days", "The time named is मासान्, months, not days."),
+             ("Six years", "The time named is मासान्, months, not years."),
+             ("Six seasons", "The time named is मासान्, months, not seasons.")],
             "He does not live (for) six months.",
             "षण्मासान् न जीवति."),
         multi("apply", 4, "By unit 39, where do the vein-lines appear?",
@@ -835,7 +835,7 @@ NOTES_HI = {
 # ================================================================ AIDS
 AIDS = {
     "27": {
-        "frame": "किसका: यस्य → क्या: उत्सिक्तं मेढ्रम् (सूजा) · वा: वृषणौ अतिनिःसृतौ (बहुत बाहर निकले) · वा: अतः विपर्ययः (इससे उलटा)।",
+        "frame": "किसका: यस्य → क्या: उत्सिक्तं मेढ्रम् (सूजा) · वा: वृषणौ अत्यिनिःसृतौ (छपा; सम्भवतः अतिनिःसृतौ: बहुत बाहर निकले) · वा: अतः विपर्ययः (इससे उलटा)।",
         "chunks": "यस्योत्सिक्तं | मेढ्रमत्यिनिःसृतौ वा | वृषणावतो | विपर्ययो वा",
         "sandhi": ("अ + उ → ओ: यस्य + उत्सिक्तम् → यस्योत्सिक्तम् · औ + स्वर → आव्: वृषणौ + अतः → वृषणावतः · अः + घोष व्यंजन → ओ: "
                    "अतः + विपर्ययः → अतो विपर्ययः।"),
@@ -849,10 +849,10 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "पहला लक्षण", "items": ["विषदोषाद्विना: विष के दोष के बिना", "खेभ्यः सरोमकूपेभ्यो: छिद्रों से, रोमकूपों सहित",
                                             "रक्तं प्रबर्तते: रक्त बहता है"]},
-            {"label": "दूसरा लक्षण", "items": ["अनिमित्तम्: बिना कारण", "अंग अतिलघु या अतिगुरु", "स मुमूर्षुः: वह मरणासन्न"]}]},
+            {"label": "दूसरा लक्षण", "items": ["अनिमित्तम्: बिना कारण", "अंग अतिलघु या अतिगुरु", "स मुमूर्षुः: वह मरणासन्न (पहले लक्षण को भी समेटे या नहीं, पाठ नहीं बताता)"]}]},
         "chunks": ("यस्य विषदोषाद्विना | खेभ्यः सरोमकूपेभ्यो | रक्तं प्रबर्तते || यस्यानिमित्तमंगान्यतिलघून्यतिगुरूणि वा स्युः | "
                    "स मुमूर्षुः"),
-        "seesaw": "अतिलघूनि (बहुत हल्के) ⇄ अतिगुरूणि (बहुत भारी): दोनों इसी इकाई में; दोनों ही बिना कारण हों तो रिष्ट।",
+        "seesaw": "अतिलघूनि (बहुत हल्के) ⇄ अतिगुरूणि (बहुत भारी): दोनों इसी इकाई में; इनमें से कोई भी बिना कारण हो तो लक्षण।",
         "sandhi": ("घोष व्यंजन से पहले त् → द्: विषदोषात् + विना → विषदोषाद्विना · अः + घोष व्यंजन → ओ: सरोमकूपेभ्यः + रक्तम् → "
                    "सरोमकूपेभ्यो रक्तम् · इ + भिन्न स्वर → य्: अंगानि + अतिलघूनि → अंगान्यतिलघूनि।"),
     },
@@ -899,10 +899,9 @@ AIDS = {
                    "यूकाः + मक्षिका- → यूका मक्षिका- · त से पहले विसर्ग → स्: मक्षिकादयः + त्यजन्ते → मक्षिकादयस्त्यजन्ते।"),
     },
     "36": {
-        "chain": {"steps": ["१ सदा गर्म अंगों में ठण्डक", "२ ठण्डे अंगों में अति शीतलता (कुमुद-उत्पल जैसी)", "३ अति स्वेद",
+        "chain": {"steps": ["१ सदा गर्म अंगों में ठण्डक", "२ ठण्डे अंगों में अति शीतलता (कुमुद, सम्भवतः श्वेत कुमुदिनी, और उत्पल, सम्भवतः नीलकमल, जैसी)", "३ अति स्वेद",
                             "४ अति स्तम्भ", "५ ढीलापन, मानो मांस-रक्त गए (स्त्रंसः, सम्भवतः स्रंसः)"]},
-        "chunks": ("यस्य सततोष्मस्वंगावयवेषु शैत्यं | शीतेषु वा कुमुदोत्पलानुकार्यातिशैत्यम् | अतिस्वेदोऽतिस्तंभो | "
-                   "विगतमांसशोणितेष्विव च स्त्रंसः"),
+        "chunks": "यस्य सततोष्मस्वंगावयवेषु शैत्यं | शीतेषु वा | कुमुदोत्पलानुकार्यातिशैत्यमतिस्वेदोऽतिस्तंभो | विगतमांसशोणितेष्विव च स्त्रंसः",
         "contrast": "सदा गर्म अंग → शैत्य ⇄ ठण्डे अंग → अति शैत्य: दोनों इसी इकाई में।",
         "sandhi": ("अ + उ → ओ: कुमुद + उत्पल → कुमुदोत्पल · अः + अ → ओऽ: अतिस्वेदः + अतिस्तम्भः → अतिस्वेदोऽतिस्तम्भः · उ + भिन्न स्वर "
                    "→ व्: शोणितेषु + इव → शोणितेष्विव।"),
@@ -926,7 +925,7 @@ AIDS = {
             {"label": "सिरा-रेखाएँ", "items": ["अपूर्वाः: पहले न देखी", "बालेन्दुसदृश्यः: बालचन्द्र जैसी"]},
             {"label": "स्थान", "items": ["ललाटे: माथे पर", "बस्तिशीर्षे: बस्ति के शीर्ष पर"]},
             {"label": "फल", "items": ["षण्मासान्न स जीवति: छह मास नहीं जीता"]}]},
-        "chunks": "यस्यापूर्वाः सिरालेखा | बालेंदुसदृश्योऽपि वा | ललाटे बस्तिशीर्षे वा | षण्मासान्न स जीवति",
+        "chunks": "यस्यापूर्वाः सिरालेखा | बालेंदुसदृश्योऽपि वा | ललाटे बस्तिशीर्षे | वाषण्मासान्न स जीवति",
         "sandhi": ("आः + घोष → आ: सिरालेखाः + बाल- → सिरालेखा बाल- · अ + इ → ए: बाल + इन्दु → बालेन्दु · अः + अ → ओऽ: सदृश्यः + अपि → "
                    "सदृश्योऽपि · सः + व्यंजन → स: सः + जीवति → स जीवति।"),
     },
@@ -937,11 +936,11 @@ IMAGE_SPECS = {
     ("29", "diagram"): {
         "file": "sh9-mumurshu-29.svg",
         "alt": ("Split of card 29: first sign, blood flowing from the orifices with the hair-pores without poison; second "
-                "sign, limbs too light or too heavy without cause, he is mumūrṣu (about to die)."),
+                "sign, limbs too light or too heavy without cause, he is mumūrṣu (about to die); whether this also covers the first sign is not stated."),
         "type": "split",
         "title": "कार्ड २९: दो लक्षण",
         "cols": [["रक्तस्राव", ["विष के दोष के बिना", "छिद्रों से, रोमकूपों सहित", "रक्त बहता है"]],
-                 ["अंग", ["बिना कारण", "अति हल्के या अति भारी", "स मुमूर्षुः: मरणासन्न"]]],
+                 ["अंग", ["बिना कारण", "अति हल्के या अति भारी", "स मुमूर्षुः: मरणासन्न (पहले लक्षण पर भी? पाठ नहीं बताता)"]]],
     },
     ("32", "contrast"): {
         "file": "sh9-ucchvasa-32.svg",
