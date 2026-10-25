@@ -12,8 +12,8 @@ AUTHORED = {}
 AUTHORED["24"] = {
     "title": "षडेतानि निवर्तंते",
     "question": "By unit 24, what turns away from one who will die in six months, and which signs mark one who will die in a month?",
-    "rule": ("These six (षट् एतानि) turn away (निवर्तन्ते) from one who will die in six months (षड्भिः मासैः). Speech, "
-             "tremor and bewilderment (and a doubtful item printed गाति), with a comparison to a drunk man (मत्तवत्) whose reach is open, mark one who will die in a month (मासात्)."),
+    "rule": ("These six turn away (निवर्तन्ते) from one who will die in six months. Speech, tremor, bewilderment "
+             "(and doubtful गाति), compared to a drunk man (मत्तवत्, reach open), mark one who will die in a month (मासात्)."),
     "limits": ("Printed गाति is no standard word; गति (gait) or गात्र (limb) are equal conjectures: no question on that item. "
                "'These six' appear to be the six of card 23 (devotion, character, memory, giving up, intellect, strength); "
                "no question rests on that link. Whether मत्तवत् covers all four items is open."),
@@ -34,7 +34,7 @@ AUTHORED["24"] = {
             "नि-√वृत् = turn away."),
         order(1, "Put the printed words of unit 24 in order.",
               ["षडेतानि", "निवर्तंते", "षड्भिर्मासैर्मरिष्यतः", "मत्तवद्गातिवाक्कम्पमोहा", "मासान्मरिष्यतः"],
-              "These six; turn away; from one who will die in six months; drunk-like gait(?), speech, tremor, bewilderment; of one who will die in a month.",
+              "These six; turn away; from one who will die in six months; like a drunk man: gait(?), speech, tremor, bewilderment; of one who will die in a month.",
               "षडेतानि → निवर्तंते → षड्भिर्मासैर्मरिष्यतः → मत्तवद्गातिवाक्कम्पमोहा → मासान्मरिष्यतः."),
         match(2, "Match each word of unit 24 to its meaning.",
               [["षट्", "six"], ["निवर्तन्ते", "turn away"], ["मास", "month"], ["मरिष्यत्", "one about to die"],
@@ -44,7 +44,7 @@ AUTHORED["24"] = {
               teaches="मरिष्यतः is the genitive singular of the future participle of √मृ: 'of one who will die'."),
         mcq("discriminate", 3, "By unit 24, within what time will he die from whom 'these six' turn away?",
             ("In six months", "षड्भिर्मासैर्मरिष्यतः: of one who will die in six months."),
-            [("In one month", "One month (मासात्) goes with the drunk-like signs of line 2."),
+            [("In one month", "One month (मासात्) goes with the signs of line 2."),
              ("In six years", "The line says मासैः, months, not years."),
              ("In six weeks", "No weeks are named; the line says six months.")],
             "षड्भिः मासैः = in six months (instrumental of time).",
