@@ -79,7 +79,7 @@ AUTHORED["2"] = {
                    "उपमा अधूरी है: ‘घनाघना इव वर्षम्’ अपना कृदन्त ‘सूचयन्तः’ अगले अंश से लेता है। "
                    "‘देहान्तराभिलाषिणाम्’ का शब्दार्थ है ‘दूसरे शरीर की इच्छा करने वाले’; पाठ ‘मरते हुए’ नहीं कहता। "
                    "छपा ‘स्वस्थनाम्’ सम्भवतः ‘स्वस्थानाम्’ (स्वस्थों का) है; यह सुधार अनुमान है, इसलिए उस पर प्रश्न नहीं।"),
-    "hook": "बादल वर्षा बताते हैं, बेकाबू दोष आयु का क्षय।",
+    "hook": "बादल वर्षा बताते हैं, औषध से परे दोष आयु का क्षय।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 2, what are the doṣas compared to?",
@@ -130,12 +130,12 @@ AUTHORED["2"] = {
 # ---------------------------------------------------------------- unit 3
 AUTHORED["3"] = {
     "title": "तत्समासतो रिष्टमित्याहुः",
-    "question": "By card 3, what is the name given, in brief, to that sudden reversal?",
+    "question": "By card 3, what is 'that' (तत्, most naturally the change just described in card 2) called in brief?",
     "rule": "In brief (समासतः), they call that (तत्) riṣṭa (रिष्टम्), a sign foretelling death.",
     "limits": ("Prose. riṣṭa is a doctrinal term; 'sign foretelling death' is the data's plain explanation, not a modern "
                "equivalent. The line does not say who 'they' are."),
     "explain_hi": ("संक्षेप में उसे ‘रिष्ट’ कहते हैं। रिष्ट यानी मृत्यु के निकट आने का सूचक लक्षण, अनिष्ट-सूचक चिह्न। "
-                   "यह परिभाषा पिछली इकाई के स्वभाव-विपर्यास से जुड़ती है। "
+                   "‘तत्’ (वह) सम्भवतः पिछली इकाई के स्वभाव-विपर्यास की ओर संकेत करता है; डेटा इसे स्पष्ट नहीं जोड़ता। "
                    "‘इति आहुः’ यानी ‘ऐसा कहते हैं’; ‘इति’ नाम या उद्धरण को चिह्नित करता है। "
                    "सन्धियाँ: समासतः + रि- → समासतो (घोष र से पहले अः → ओ), रिष्टम् + इति → रिष्टमिति, इति + आहुः → इत्याहुः (इ + भिन्न स्वर → य्)।"),
     "hook": "स्वभाव उलटा, नाम पड़ा रिष्ट।",
@@ -201,9 +201,9 @@ AUTHORED["4"] = {
     "questions": [
         mcq("pretest", 0, "By card 4, what are गौर, श्याम, कृष्ण and their अ- forms?",
             ("Natural colours of the body", "देहप्रकृतिवर्णाः: the colours of the body's natural state."),
-            [("Abnormal colours of illness", "The abnormal colours (विकृतयः) come in card 6; these are natural."),
-             ("Signs foretelling death", "These are natural colours, not riṣṭa signs."),
-             ("Shades of the five elements", "The shades (छाया) by element come from card 8 on; these are colours.")],
+            [("Medicines that calm the doṣas", "No medicine is named; card 4 calls these देहप्रकृतिवर्णाः."),
+             ("Names of the three doṣas", "The doṣas are not named here; these are colour words."),
+             ("Measures of the body's size", "Size words (महत्, सूक्ष्म) come in card 7; these are colour words.")],
             "गौर, श्याम, कृष्ण and their अ- forms: the body's natural colours.",
             "देहप्रकृतिवर्ण = colour of the body's natural state."),
         order(1, "Put the six colour words of card 4 in the printed order.",
@@ -302,19 +302,20 @@ AUTHORED["6"] = {
     "title": "शुक्लादयस्तु विकृतयः",
     "question": "By card 6, which colours are abnormal, and what is said to lead to death?",
     "rule": ("But blue, dusky, copper-coloured, turmeric-yellow, white and the like are abnormalities (विकृतयः). The "
-             "natural and the abnormal colour (प्रकृतिविकृतिवर्णौ), in a damaged condition, are for death (मरणाय)."),
+             "natural and the abnormal colour (प्रकृतिविकृतिवर्णौ), under a condition named by a word damaged in the print "
+             "(युगपद्गंधेगैकदेशे वा), are for death (मरणाय)."),
     "limits": ("Low confidence. युगपद्गंधेगैकदेशे is damaged and unclear; the guess 'at once, or in one part of the body' "
-               "is only a conjecture: no question on when the two colours lead to death. श्यामत्ताम्र has an extra त्. "
+               "is only a conjecture: no question on when the two colours lead to death. श्यामत्ताम्र probably has an extra त् (data: possible), read श्याम-ताम्र. "
                "haridrā = Curcuma longa (standard)."),
     "explain_hi": ("नील, श्याम, ताम्र (ताँबे जैसा), हारिद्र (हल्दी के रंग का) और शुक्ल आदि तो विकृतियाँ हैं, यानी विकृत वर्ण। "
                    "हारिद्र हरिद्रा (हल्दी, Curcuma longa; मानक पहचान) से बना है। "
                    "फिर कहा है कि प्रकृति का वर्ण और विकृति का वर्ण, किसी स्थिति में, मृत्यु के लिए (मरणाय) होते हैं। "
                    "वह स्थिति बताने वाला शब्द ‘युगपद्गंधेगैकदेशे’ छपाई में बिगड़ा और अस्पष्ट है; ‘एक साथ या शरीर के एक भाग में’ केवल अनुमान है, इसलिए उस पर प्रश्न नहीं। "
-                   "छपे ‘श्यामत्ताम्र’ में एक त् अधिक है; पढ़ना श्याम-ताम्र।"),
+                   "छपे ‘श्यामत्ताम्र’ में सम्भवतः एक त् अधिक है; श्याम-ताम्र पढ़ा गया।"),
     "hook": "नील, श्याम, ताम्र, हारिद्र, शुक्ल: विकृत वर्ण।",
     "core": False,
     "questions": [
-        mcq("pretest", 0, "By card 6, what are नील, ताम्र, हारिद्र and the like?",
+        mcq("pretest", 0, "By card 6, what are नील, ताम्र and हारिद्र?",
             ("Abnormal changes of colour", "नील... शुक्लादयस्तु विकृतयः: they are abnormalities."),
             [("The body's natural colours", "The natural colours are those of card 4; these are called विकृतयः."),
              ("Varieties of lotus-fair", "Lotus-fair and the like are the varieties of card 5."),
@@ -400,7 +401,7 @@ AUTHORED["7"] = {
         multi("apply", 4, "Which statements fit card 7?",
               [("It gives a remedy for each change", "No: no remedy is named."),
                ("The change comes without a cause", "Yes: अनिमित्ततः."),
-               ("It says each change kills at once", "No: no time of death is given."),
+               ("It says each change kills at once", "No: card 7 speaks only of change without cause; it names no death."),
                ("The states are fixed by doṣas etc.", "Yes: दोषादिभागेन प्रतिनियतानाम्.")],
               [1, 3],
               "Fixed states becoming otherwise without cause.",
@@ -633,7 +634,7 @@ AUTHORED["11"] = {
             ("The water one", "अम्भसो ... घना सुस्निग्धा."),
             [("The earth one", "The earth chāyā is called स्निग्धा, without सु-."),
              ("The wind one", "The wind chāyā is dry (रूक्षा), card 9."),
-             ("The fire one", "The fire chāyā is that of card 10.")],
+             ("The fire one", "The fire chāyā (card 10) is not called सुस्निग्धा; its clear word is दृष्टिमुखा.")],
             "सुस्निग्धा belongs to the water line.",
             "अम्भस् → सुस्निग्धा."),
         mcq("transfer", 5, "By the pattern of स्निग्धा → सुस्निग्धा (very unctuous), what does सुशीतल mean in a new example?",
@@ -659,7 +660,7 @@ AUTHORED["12"] = {
                    "फिर प्रभाएँ सात बताई गई हैं: रक्त (लाल), पीत (पीली), पाण्डुर (फीकी), सित (सफेद), असित (काली), श्याव (गहरी भूरी) और हरित (हरी)। "
                    "असित का शब्दार्थ ‘जो सित नहीं’ है, इसे काली पढ़ा गया; हरित पीला-हरा भी हो सकता है। "
                    "सन्धियाँ: च + अतिमहते → चातिमहते (अ + अ → आ), शेषाः + तु → शेषास्तु (त से पहले विसर्ग → स्), सुख + उदयाः → सुखोदयाः (अ + उ → ओ)।"),
-    "hook": "पाँच छाया: वायु की घातक, बाकी सुखद। प्रभा सात रंगों की।",
+    "hook": "पाँच छाया: वायु की विनाश और क्लेश के लिए, बाकी सुखोदय। प्रभा सात रंगों की।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 12, what is the chāyā of vāyu for?",
@@ -722,7 +723,7 @@ AUTHORED["13"] = {
     "questions": [
         mcq("pretest", 0, "By card 13, which prabhās are auspicious?",
             ("Unctuous, radiant, stainless", "ताः स्निग्धा विकाशिन्योऽमलाः शुभाः."),
-            [("Dry, dark and without lustre", "Those are the opposite kind, called अशुभ."),
+            [("Dry, stained and not spreading", "These are the opposite of स्निग्ध, अमल, विकाशिन्; the opposite ones are called अशुभ."),
              ("Red, yellow and pale ones", "Card 13 picks no colours; it names qualities."),
              ("Dense, steady and white", "These words describe the earth chāyā (card 11).")],
             "स्निग्ध, विकाशिन्, अमल → शुभ.",
@@ -784,7 +785,7 @@ NOTES_HI = {
           "कमल जैसा गौर। सन्धि जाँची: तत् + भेदाः → तद्भेदाः (घोष भ से पहले त् → द्); भेदाः + च → भेदाश्च (च से पहले विसर्ग → श्); "
           "पद्मगौर + आदयः → पद्मगौरादयः (अ + आ → आ)।"),
     "6": ("गद्य; विश्वास कम। पाठ-चिह्न (सम्भव): ‘युगपद्गंधेगैकदेशे’ बिगड़ा है, बिना विभाजन रखा गया; ‘युगपद् गात्रैकदेशे’ (एक साथ, या "
-          "शरीर के एक भाग में) केवल अनुमान है, अनुवाद में ‘अस्पष्ट’; इस पर प्रश्न नहीं। दूसरा चिह्न: ‘श्यामत्ताम्र’ में अधिक त्, "
+          "शरीर के एक भाग में) केवल अनुमान है, अनुवाद में ‘अस्पष्ट’; इस पर प्रश्न नहीं। दूसरा चिह्न (सम्भव): ‘श्यामत्ताम्र’ में सम्भवतः अधिक त्, "
           "पढ़ना श्याम-ताम्र। हारिद्र ← हरिद्रा (हल्दी, Curcuma longa; मानक)। ‘विकृतयःतत्र’ में रिक्त स्थान छूटा; नियमित सन्धि "
           "विकृतयस्तत्र होती (त से पहले विसर्ग → स्)। सन्धि जाँची: शुक्ल + आदयः + तु → शुक्लादयस्तु। मरणाय = चतुर्थी, मृत्यु के लिए।"),
     "7": ("गद्य; विश्वास मध्यम। पाठ-चिह्न (सम्भव): ‘उरचय’ कोई शब्द नहीं; ‘उपचय’ (वृद्धि; र/प की भूल) अनुमान है, इस पर प्रश्न नहीं; "
@@ -809,7 +810,7 @@ NOTES_HI = {
            "नहीं। संज्ञा ‘छाया’ इकाई ८ से। सन्धि जाँची: अम्भसः + वै- → अम्भसो (अः + घोष व → ओ); वैदूर्य + इ- → वैदूर्ये- (अ + इ → ए); "
            "भुवः + रुचिराभा → भुवो रुचिराभा; रुचिर + आभा → रुचिराभा।"),
     "12": ("गद्य; विश्वास उच्च; दो छपी पंक्तियाँ (०२.०९.१४ और ०२.०९.१५) जोड़ी गईं। पाठ-चिह्न (सम्भव): ‘हरिता च’ में च से पहले "
-           "विसर्ग श् होना चाहिए (हरिताश्च); रक्ता पीता, पीता पाण्डुरा, पाण्डुरा सिता में भी अघोष व्यंजन से पहले विसर्ग छूटा है "
+           "विसर्ग श् होना चाहिए (हरिताश्च); रक्ता पीता, पीता पाण्डुरा, पाण्डुरा सिता, असिता श्यावा में भी अघोष व्यंजन से पहले विसर्ग छूटा है "
            "(छपाई की आदत)। ‘अतिमहते’ को क्लेशाय के साथ लिया गया। असित = ‘जो सित नहीं’, काली पढ़ी गई; हरित पीला-हरा भी हो सकता है। "
            "छपा ‘ऽसिता’: डेटा इसे सिताः असिताः पढ़ता है (आः + स्वर → विसर्ग-लोप)। सन्धि जाँची: च + अतिमहते → चातिमहते (अ + अ → आ); "
            "शेषाः + तु → शेषास्तु; सुख + उदयाः → सुखोदयाः (अ + उ → ओ)।"),
@@ -832,13 +833,13 @@ AIDS = {
             {"label": "उपमान", "items": ["घनाघनाः: बादल", "वर्षम्: वर्षा को सूचित करते हैं"]},
             {"label": "उपमेय", "items": ["दोषाः: औषध से परे, पूरे शरीर में फैले", "आयुषः क्षयम्: आयु के क्षय को सूचित करते हैं",
                                          "अकस्मात् स्वभावविपर्यासं जनयन्ति"]}]},
-        "chunks": ("स्वस्थनामातुराणां वा पुरुषाणां | देहांतराभिलाषिणामौषधविषयमतीताःसकलशरीरव्यापिनो दोषा | घनाघना इव वर्षम् | "
-                   "आयुषः क्षयं सूचयंतो | ऽकस्मात्स्वभावविपर्य्यासं जनयंति"),
+        "chunks": ("स्वस्थनामातुराणां वा पुरुषाणां | देहांतराभिलाषिणामौषधविषयमतीताःसकलशरीरव्यापिनो दोषा | घनाघना इव | "
+                   "वर्षमायुषः क्षयं | सूचयंतोऽकस्मात्स्वभावविपर्य्यासं जनयंति"),
         "sandhi": ("अः + घोष व्यंजन → ओ: व्यापिनः + दोषाः → व्यापिनो दोषा · आः घोष ध्वनि से पहले विसर्ग खोता है: दोषाः + घनाघनाः → "
                    "दोषा घनाघना, घनाघनाः + इव → घनाघना इव · अः + अ → ओऽ: सूचयन्तः + अकस्मात् → सूचयन्तोऽकस्मात्।"),
     },
     "3": {
-        "chain": {"steps": ["इकाई २: दोष अचानक स्वभाव उलट देते हैं", "तत्: वह (विपर्यास)", "समासतः: संक्षेप में",
+        "chain": {"steps": ["इकाई २: दोष अचानक स्वभाव उलट देते हैं", "तत्: वह (सम्भवतः इकाई २ का विपर्यास)", "समासतः: संक्षेप में",
                             "रिष्टम् इति आहुः: उसे रिष्ट कहते हैं"]},
         "chunks": "तत्समासतो | रिष्टमित्याहुः",
         "sandhi": "अः + घोष र → ओ: समासतः + रिष्टम् → समासतो रिष्टम् · इ + भिन्न स्वर → य्: इति + आहुः → इत्याहुः।",
