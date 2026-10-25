@@ -13,16 +13,16 @@ AUTHORED["24"] = {
     "title": "षडेतानि निवर्तंते",
     "question": "By unit 24, what turns away from one who will die in six months, and which signs mark one who will die in a month?",
     "rule": ("These six (षट् एतानि) turn away (निवर्तन्ते) from one who will die in six months (षड्भिः मासैः). Speech, "
-             "tremor and bewilderment, like a drunk man's (मत्तवत्), mark one who will die in a month (मासात्)."),
+             "tremor and bewilderment (and a doubtful item printed गाति), with a comparison to a drunk man (मत्तवत्) whose reach is open, mark one who will die in a month (मासात्)."),
     "limits": ("Printed गाति is no standard word; गति (gait) or गात्र (limb) are equal conjectures: no question on that item. "
                "'These six' appear to be the six of card 23 (devotion, character, memory, giving up, intellect, strength); "
                "no question rests on that link. Whether मत्तवत् covers all four items is open."),
     "explain_hi": ("ये छह (षडेतानि) उससे हट जाते हैं (निवर्तन्ते) जो छह मास में मरने वाला है; ‘षड्भिर्मासैः’ काल की तृतीया है: छह मास में। "
                    "डेटा के अनुसार ये छह सम्भवतः कार्ड २३ के भक्ति, शील, स्मृति, त्याग, बुद्धि और बल हैं। "
-                   "दूसरी पंक्ति: मतवाले की तरह (मत्तवत्) वाणी, कम्पन और मोह, एक मास में (मासात्) मरने वाले के लक्षण हैं। "
+                   "दूसरी पंक्ति: वाणी, कम्पन और मोह (और अस्पष्ट ‘गाति’), मतवाले से उपमा (मत्तवत्) के साथ, एक मास में (मासात्) मरने वाले के लक्षण हैं। "
                    "छपा ‘गाति’ मानक शब्द नहीं; ‘गति’ (चाल) या ‘गात्र’ (अंग) दोनों बराबर अनुमान हैं, इसलिए उस पर प्रश्न नहीं। "
                    "‘मत्तवत्’ केवल चाल-वाणी के लिए है या चारों के लिए, यह तय नहीं।"),
-    "hook": "छह हटें तो छह मास; मतवाली वाणी, कम्प, मोह तो एक मास।",
+    "hook": "छह हटें तो छह मास; वाणी, कम्प, मोह (मत्तवत्) तो एक मास।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 24, what does निवर्तन्ते mean?",
@@ -72,11 +72,11 @@ AUTHORED["24"] = {
 # ---------------------------------------------------------------- unit 25
 AUTHORED["25"] = {
     "title": "न याति यस्य चाहारः",
-    "question": "By unit 25, which sign of food does line 2 name, with what exception, and what is firm in the damaged line 1?",
+    "question": "By unit 25, which sign of food does line 2 name, and with what exception?",
     "rule": ("He whose food (आहारः) does not go to the throat (कण्ठम्), except for a throat ailment (कण्ठामयात् ऋते). "
              "Line 1 is damaged; only 'pain of hair-plucking' (केशलुञ्चनवेदना) is firm."),
     "limits": ("Low confidence. Line 1 is printed as one token; अज्ञाननूषड्हात् cannot be restored, and नश्यति may be wrong: "
-               "no question on line 1 beyond the words of केशलुञ्चनवेदना. Line 2's result lies beyond this card (appears to); "
+               "no question on line 1. Line 2's result lies beyond this card (appears to); "
                "the card states no outcome."),
     "explain_hi": ("पहली पंक्ति छपाई में बिना जगह एक ही शब्द-समूह है और क्षतिग्रस्त है; केवल ‘केशलुञ्चनवेदना’ (बाल नोचने की पीड़ा) पक्का है। "
                    "‘अज्ञाननूषड्हात्’ अस्पष्ट है (एक अनुमान ‘षडहात्’ = छह दिन में), और ‘नश्यति’ भी गलत हो सकता है, इसलिए वाक्य-रचना पर कोई दावा नहीं। "
@@ -97,11 +97,11 @@ AUTHORED["25"] = {
               ["न याति", "यस्य", "चाहारः", "कंठं", "कंठामयादृते"],
               "Does not go; whose; and food; to the throat; except for a throat ailment.",
               "न याति → यस्य → चाहारः → कंठं → कंठामयादृते."),
-        match(2, "Match each sure word of unit 25 to its meaning.",
-              [["केश", "hair"], ["लुञ्चन", "plucking"], ["वेदना", "pain"], ["आहार", "food"],
-               ["कण्ठ", "throat"], ["आमय", "ailment"]],
-              "केश-लुञ्चन-वेदना = pain of hair-plucking; आहार = food; कण्ठ-आमय = throat ailment.",
-              "केश, लुञ्चन, वेदना, आहार, कण्ठ, आमय.", role="extend",
+        match(2, "Match each word of line 2 of unit 25 to its meaning.",
+              [["याति", "goes"], ["यस्य", "whose"], ["आहार", "food"], ["कण्ठ", "throat"],
+               ["आमय", "ailment"], ["ऋते", "except"]],
+              "याति = goes, यस्य = whose, आहार = food, कण्ठ = throat, आमय = ailment, ऋते = except.",
+              "याति, यस्य, आहार, कण्ठ, आमय, ऋते.", role="extend",
               teaches="ऋते (except, without) takes the ablative: कण्ठामयात् ऋते = except for a throat ailment."),
         mcq("discriminate", 3, "By unit 25, what exception does line 2 allow for food not going to the throat?",
             ("A throat ailment", "कण्ठामयादृते: except for an ailment of the throat."),
@@ -141,7 +141,7 @@ AUTHORED["26"] = {
                    "दूसरी पंक्ति: जिसकी नींद निरन्तर (नित्या) हो, अथवा बिलकुल न हो (नैव वा), वह जीवित नहीं रहता। "
                    "यहाँ दो उलटी अवस्थाएँ एक साथ कही गई हैं: सदा नींद और नींद का अभाव। "
                    "‘नैव’ में न + एव है: अ + ए → ऐ।"),
-    "hook": "नींद सदा, या कभी नहीं: दोनों अशुभ।",
+    "hook": "नींद सदा, या कभी नहीं: न स जीवति।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 26, what does प्रेष्य mean?",
@@ -293,12 +293,12 @@ AUTHORED["28"] = {
              ("आः + अ → ओ here", "The word ends in अः, not आः; आः would drop its visarga.")],
             "पृष्टः + अपि = पृष्टोऽपि.",
             "अः + अ → ओऽ."),
-        mcq("transfer", 5, "By the pattern of पृष्टः + अपि → पृष्टोऽपि, how is रामः + अपि joined in a new example?",
-            ("रामोऽपि", "अः + अ → ओऽ: रामः + अपि → रामोऽपि."),
-            [("रामापि", "आ would need अ + अ with no visarga; रामः has one."),
-             ("रामरपि", "र् comes from a visarga after a vowel other than अ/आ."),
-             ("रामौऽपि", "औ has no source here; अः + अ gives ओऽ.")],
-            "रामः + अपि = रामोऽपि, like पृष्टः + अपि = पृष्टोऽपि.",
+        mcq("transfer", 5, "By the pattern of पृष्टः + अपि → पृष्टोऽपि, how is वृक्षः + अत्र (the tree here) joined in a new example?",
+            ("वृक्षोऽत्र", "अः + अ → ओऽ: वृक्षः + अत्र → वृक्षोऽत्र."),
+            [("वृक्षात्र", "आ would need अ + अ with no visarga; वृक्षः has one."),
+             ("वृक्षरत्र", "र् comes from a visarga after a vowel other than अ/आ."),
+             ("वृक्षौऽत्र", "औ has no source here; अः + अ gives ओऽ.")],
+            "वृक्षः + अत्र = वृक्षोऽत्र, like पृष्टः + अपि = पृष्टोऽपि.",
             "अः + अ → ओऽ.",
             teaches="अः before अ gives ओ, and the following अ is elided (ऽ): पृष्टः + अपि → पृष्टोऽपि."),
     ],
@@ -307,16 +307,16 @@ AUTHORED["28"] = {
 # ---------------------------------------------------------------- unit 29
 AUTHORED["29"] = {
     "title": "गतासोर्बंधुमित्राणां",
-    "question": "By unit 29, what does the text say about treating him, and by whom is one whose breath has departed attended?",
-    "rule": ("And one should not wish (न च इच्छेत्) to treat him (तम्), since one whose breath has departed (परासुः) is "
+    "question": "By unit 29, whose genitives open line 1, and which beings does line 2 name?",
+    "rule": ("On conjectured readings (चिकित्सितुम्, परासुर् उपास्यते): and one should not wish (न च इच्छेत्) to treat him (तम्), since one whose breath has departed (परासुः) is "
              "attended by those beginning with Yama's messengers and piśācas (यमदूतपिशाचाद्यैः)."),
     "limits": ("Low confidence. चिकित्सितं → चिकित्सितुम् and -रूपास्यते → परासुर् उपास्यते are conjectures; no question rests "
                "on उपास्यते. How गतासोः and बन्धुमित्राणाम् join (perhaps with मरणम् of card 28) is not sure. गतासु probably "
-               "means a dying person (data). The sentence runs on into card 30."),
+               "means a dying person (data). The sentence appears to run on into card 30."),
     "explain_hi": ("‘गतासु’ का शाब्दिक अर्थ है जिसके प्राण चले गए; उपचार की बात है, इसलिए डेटा के अनुसार सम्भवतः मरणासन्न व्यक्ति अभिप्रेत है। "
                    "षष्ठी पद ‘गतासोः’ और ‘बन्धुमित्राणाम्’ (बन्धुओं और मित्रों का) सम्भवतः कार्ड २८ के ‘मरणम्’ से जुड़ते हैं; यह निश्चित नहीं। "
-                   "पाठ कहता है: और उसकी चिकित्सा करने की इच्छा न करे (न चेच्छेत्), क्योंकि (यत्) परासु यम के दूतों, पिशाचों आदि से घिरा रहता है। "
-                   "‘चिकित्सितुम्’ और ‘परासुर् उपास्यते’ अनुमानित पाठ हैं; वाक्य कार्ड ३० में आगे चलता है। "
+                   "पाठ कहता है: और उसकी चिकित्सा करने की इच्छा न करे (न चेच्छेत्), क्योंकि (यत्) परासु के निकट यम के दूत, पिशाच आदि रहते हैं (उपास्यते)। "
+                   "‘चिकित्सितुम्’ और ‘परासुर् उपास्यते’ अनुमानित पाठ हैं; वाक्य सम्भवतः कार्ड ३० में आगे चलता है। "
                    "‘गतासोर्बन्धु’ में ओः के बाद घोष ब आने से विसर्ग र् बना है।"),
     "hook": "गतासु, परासु: प्राण गए; यमदूत पास।",
     "core": False,
@@ -329,9 +329,9 @@ AUTHORED["29"] = {
             "गत-असु = one whose life-breath has gone.",
             "असु = life-breath."),
         order(1, "Put the printed words of line 1 of unit 29 in order.",
-              ["गतासोः", "बंधुमित्राणां", "न", "चेच्छेत्", "तं", "चिकित्सितं"],
-              "Of one whose breath has gone; of kinsmen and friends; not; and should wish; him; to treat (conjectural form).",
-              "गतासोः → बंधुमित्राणां → न → चेच्छेत् → तं → चिकित्सितं."),
+              ["गतासोः", "बंधुमित्राणां", "न", "चेच्छेत्", "तं"],
+              "Of one whose breath has gone; of kinsmen and friends; not; and should wish; him.",
+              "गतासोः → बंधुमित्राणां → न → चेच्छेत् → तं."),
         match(2, "Match each word of unit 29 to its meaning.",
               [["गत", "gone"], ["असु", "life-breath"], ["बन्धु", "kinsman"], ["मित्र", "friend"],
                ["यमदूत", "Yama's messenger"], ["पिशाच", "a class of demon"]],
@@ -397,13 +397,13 @@ AUTHORED["30"] = {
               "घ्नत् = destroying, औषध = medicine, वीर्य = potency, तस्मात् = therefore, परिवर्जयेत् = should avoid, मरण = death.",
               "घ्नत्, औषध, वीर्य, तस्मात्, परिवर्जयेत्, मरण.", role="extend",
               teaches="घ्नद्भिः is the instrumental plural of the present participle of √हन्: 'by those destroying'."),
-        mcq("discriminate", 3, "Which split of दृष्टरिष्टं in unit 30 is right?",
-            ("दृष्ट + रिष्टम्", "Seen + riṣṭa: no vowel join, so no आ appears."),
-            [("दृष्ट + अरिष्टम्", "अ + अ would give आ: दृष्टारिष्टम्, not the print."),
-             ("दृष्टः + रिष्टम्", "A compound member has no visarga; as two words it would print दृष्टो रिष्टम्."),
-             ("दृष्टर् + इष्टम्", "दृष्टर् is not a word; the parts are दृष्ट and रिष्ट.")],
-            "दृष्ट (seen) + रिष्ट (sign of death).",
-            "दृष्ट-रिष्ट, not दृष्ट-अरिष्ट."),
+        mcq("discriminate", 3, "Which split of नास्ति in unit 30 is right?",
+            ("न + अस्ति", "अ + अ → आ: न + अस्ति → नास्ति."),
+            [("न + स्ति", "With स्ति no आ would appear: नस्ति."),
+             ("न + आस्ति", "आस्ति is not a form; the verb is अस्ति."),
+             ("नास् + ति", "Neither नास् nor ति is a word here.")],
+            "न (not) + अस्ति (is).",
+            "अ + अ → आ."),
         mcq("apply", 4, "By the first clause of line 2 of unit 30, what does not exist without riṣṭa?",
             ("Death", "अरिष्टं नास्ति मरणम्: there is no death without riṣṭa."),
             [("Medicine", "Medicine is in line 1, with its potencies destroyed."),
@@ -436,7 +436,7 @@ AUTHORED["31"] = {
                    "‘चरकस्येति वचनम्’: यह चरक का वचन है। "
                    "‘सुश्रुतेन तु पठ्यते’: परन्तु सुश्रुत द्वारा पढ़ा जाता है; क्या पढ़ा जाता है, यह छपा नहीं, सम्भवतः कार्ड ३२ की बात। "
                    "‘रिष्टेष्वनैपुणात्’ में रिष्टेषु + अनैपुणात्: उ + अ → व।"),
-    "hook": "अकुशल वैद्य: जहाँ रिष्ट नहीं, वहाँ देखे; जहाँ है, वहाँ न देखे।",
+    "hook": "अनैपुण से: अरिष्टे रिष्ट-ज्ञान, रिष्टों में नहीं (चरक का वचन)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 31, what does अनैपुण mean?",
@@ -493,7 +493,7 @@ AUTHORED["32"] = {
     "explain_hi": ("क्योंकि रिष्ट होने पर मृत्यु निश्चित (ध्रुवम्) है। "
                    "‘किल’ (कहते हैं) से पता चलता है कि आगे की बात एक कही हुई बात है: वह (तत्) निर्मल ब्राह्मणों द्वारा, और रसायन (पुनर्यौवनकारी चिकित्सा, मानक), तप और दान में लगे लोगों द्वारा टाला जाता है (निवार्यते)। "
                    "‘तत्’ किसके लिए है, मृत्यु या उसकी निश्चितता, यह छपा नहीं। "
-                   "डेटा के अनुसार यही सम्भवतः वह बात है जो कार्ड ३१ में सुश्रुत द्वारा पढ़ी गई कही गई है। "
+                   "डेटा के अनुसार सम्भवतः यही वह बात है जिसे कार्ड ३१ सुश्रुत द्वारा पठित बताता है। "
                    "‘तपोदान’ में तपस् + दान: अस् + घोष व्यंजन द → ओ।"),
     "hook": "रिष्ट में मृत्यु ध्रुव; किल: ब्राह्मण, रसायन, तप, दान से टले।",
     "core": False,
@@ -523,11 +523,11 @@ AUTHORED["32"] = {
             "तत् (that) + किल (it is said) + अमलैः (by the stainless).",
             "अ + अ → आ."),
         multi("apply", 4, "By unit 32, by whom is 'that' said to be warded off?",
-              [("Stainless brāhmaṇas", "Right: ब्राह्मणैः ... अमलैः."),
-               ("Kinsmen and friends", "No: they are named in card 29, not as warding anything off."),
-               ("Those intent on rasāyana, austerity and giving", "Right: रसायनतपोदानतत्परैः."),
-               ("Messengers of Yama", "No: in card 29 they attend the dying; here they ward off nothing.")],
-              [0, 2],
+              [("Kinsmen and friends", "No: they are named in card 29, not as warding anything off."),
+               ("Stainless brāhmaṇas", "Right: ब्राह्मणैः ... अमलैः."),
+               ("Messengers of Yama", "No: Yama's messengers are named in card 29, not in unit 32."),
+               ("Those intent on rasāyana, austerity and giving", "Right: रसायनतपोदानतत्परैः.")],
+              [1, 3],
               "Two instrumentals: the stainless brāhmaṇas, and those intent on rasāyana, austerity and giving.",
               "ब्राह्मणैः अमलैः, रसायनतपोदानतत्परैः च → निवार्यते."),
         mcq("transfer", 5, "By the pattern of तपस् + दान → तपोदान, how is यशस् + धन joined in a compound, in a new example?",
@@ -562,7 +562,7 @@ AUTHORED["33"] = {
             ("Stable and unstable", "स्थिरास्थिरविभेदतः: by the division into stable and unstable."),
             [("Visible and invisible", "No such pair is printed; the pair is स्थिर / अस्थिर."),
              ("Inner and outer", "No such pair is printed; the pair is स्थिर / अस्थिर."),
-             ("Hot and the cold", "No such pair is printed; the pair is स्थिर / अस्थिर.")],
+             ("Hot and cold", "No such pair is printed; the pair is स्थिर / अस्थिर.")],
             "द्विधा रिष्टं: stable (स्थिर) and unstable (अस्थिर).",
             "स्थिर / अस्थिर."),
         order(1, "Put these parts of unit 33 in the printed order.",
@@ -637,7 +637,7 @@ AUTHORED["34"] = {
         mcq("discriminate", 3, "By unit 34, what is said of the lasting one (स्थायि)?",
             ("It is certainly for death", "स्थाय्यवश्यं तु मृत्यवे: but the lasting one is certainly for death."),
             [("It subsides with the doṣas", "That is said of what subsides (शाम्येत्), set against the lasting one by तु."),
-             ("It is a mere semblance", "The line sets the lasting one against what subsides; it is not called a semblance."),
+             ("It is the fruit of Āyurveda", "The fruit of Āyurveda (आयुर्वेदफलम्) is the subject of line 2, not the lasting one."),
              ("It lasts only for one day", "No day is named; स्थायि means lasting.")],
             "स्थायि ... अवश्यं मृत्यवे: the lasting one is certainly for death.",
             "स्थायि → अवश्यं मृत्यवे."),
@@ -786,8 +786,8 @@ NOTES_HI = {
 AIDS = {
     "24": {
         "chunks": "षडेतानि | निवर्तंते | षड्भिर्मासैर्मरिष्यतः || मत्तवद्गातिवाक्कम्पमोहा | मासान्मरिष्यतः",
-        "contrast": ("छह मास: ‘ये छह’ हट जाते हैं (कार्ड २३ की सूची, सम्भवतः) ⇄ एक मास: मतवाले-सी वाणी, कम्प, मोह (और ‘गाति’, "
-                     "अस्पष्ट)। दोनों काल इसी इकाई में।"),
+        "contrast": ("छह मास: ‘ये छह’ हट जाते हैं (कार्ड २३ की सूची, सम्भवतः) ⇄ एक मास: वाणी, कम्प, मोह (और ‘गाति’, "
+                     "अस्पष्ट); ‘मत्तवत्’ कितनों पर, तय नहीं। दोनों काल इसी इकाई में।"),
         "sandhi": ("स्वर से पहले ट् → ड्: षट् + एतानि → षडेतानि · घोष से पहले ऐः → ऐर्: मासैः + मरिष्यतः → मासैर्मरिष्यतः · "
                    "अनुनासिक म से पहले त् → न् (वैकल्पिक; द् भी शुद्ध): मासात् + मरिष्यतः → मासान्मरिष्यतः।"),
         "anchors": "पक्का: छह, छह मास, वाणी, कम्प, मोह, एक मास। अस्पष्ट: ‘गाति’ (गति या गात्र)। (मेरी याद-पद्धति)",
@@ -802,7 +802,7 @@ AIDS = {
         "seesaw": "नित्या निद्रा (सदा नींद) ⇄ नैव (नींद बिलकुल नहीं): दोनों इसी इकाई में; दोनों के साथ ‘न स जीवति’।",
         "sandhi": ("अः + घोष व्यंजन → ओ: प्रतीपतः + यान्ति → प्रतीपतो यान्ति · इः + स्वर → इर्: प्रेताकृतिः + उदीर्यते → "
                    "प्रेताकृतिरुदीर्यते · अ + ए → ऐ: न + एव → नैव।"),
-        "frame": "पहली पंक्ति: सेवक उलटे चलें, प्रेत-आकृति उठे → दूसरी: नींद सदा या कभी नहीं → फल: न स जीवति।",
+        "frame": "पहली पंक्ति: सेवक उलटे चलें, प्रेत-आकृति उठे · दूसरी पंक्ति: जिसकी नींद सदा हो या कभी न हो → फल: न स जीवति।",
     },
     "27": {
         "chunks": "वक्रमार्प्यतेऽश्रूणां | स्विद्यतश्चरणौ भृशं || चक्षुश्चाकुलतां याति | यमराष्ट्रं गमिष्यतः",
@@ -870,14 +870,14 @@ IMAGE_SPECS = {
     ("24", "contrast"): {
         "file": "sh10-masa-24.svg",
         "alt": ("Table of card 24: one who will die in six months, from whom 'these six' turn away (probably the six of "
-                "card 23); one who will die in a month, with drunk-like speech, tremor and bewilderment (gait is a "
-                "doubtful reading)."),
+                "card 23); one who will die in a month, with speech, tremor and bewilderment, compared with a drunk man (how far "
+                "the comparison reaches is open; gait is a doubtful reading)."),
         "type": "table",
         "title": "कार्ड २४: दो काल, दो लक्षण-समूह",
         "heads": ["काल", "छपा लक्षण"],
         "rows": [["छह मास में मरने वाला", "ये छह हट जाते हैं (सम्भवतः कार्ड २३ के छह)"],
-                 ["एक मास में मरने वाला", "मतवाले-सी वाणी, कम्प, मोह"],
-                 ["अस्पष्ट शब्द", "‘गाति’: गति या गात्र, तय नहीं"]],
+                 ["एक मास में मरने वाला", "वाणी, कम्प, मोह; ‘मत्तवत्’ कितनों पर, तय नहीं"],
+                 ["एक मास: अस्पष्ट शब्द", "‘गाति’: गति या गात्र, तय नहीं"]],
     },
     ("26", "seesaw"): {
         "file": "sh10-nidra-26.svg",

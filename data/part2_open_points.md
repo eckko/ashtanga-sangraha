@@ -153,3 +153,50 @@
 - Śārīra 8 unit 34: तरतमयोगात् labelled dvandva; it is a tatpuruṣa (tara-tama dvandva + yoga).
 - Śārīra 8 unit 22: splits "uru" but glosses it "thigh" (thigh is ūru); दूर्वेदीवर read as dūrvā-indīvara with no text_flag.
 - Śārīra 8 unit 14: note says dental d by sandhi, but its own flag says sandhi gives retroflex ḍ.
+- Śārīra 8 unit 95: note says it continues from the unit before (GROUPING), yet its subject (the head) is printed in this unit.
+- Śārīra 8 unit 99: note cites "u116", a printed line number (card 98).
+- Śārīra 8 unit 92: the optional ओ before ओष्ठ in a compound (चिबुकोष्ठ) is not mentioned.
+- Śārīra 8 unit 64: print उपैतो split as upaitaḥ (regular past participle of upa-√i is उपेत); no flag.
+- Śārīra 8 unit 71: print जंघाऊरुश्च leaves आ + ऊ unjoined (normally ओ); notes silent.
+- Śārīra 8 unit 68: print पाष्ण्यः; usual i-stem plural is पाष्णयः; gram label silent.
+- Śārīra 8 unit 69: note writes "u81" and "Unit 83", which are printed lines (cards 68, 70).
+- Śārīra 8 unit 59: print संपतयः (one त), split sampatayaḥ, Hindi सम्पत्तियाँ; expected सम्पत्तयः; no text_flag.
+- Śārīra 8 unit 84: gram label for कक्षे gives no gender (must be f. kakṣā or n. dual; m. would be कक्षौ).
+- Śārīra 8 unit 77: द्वादश-आयामे labelled m. loc. sg., but the note also allows a dual agreeing with पार्श्वे.
+- Śārīra 8 unit 94: only one reading of शुक्लतृतीयांशः ("a third of the white"), medium confidence; Suśruta's parallel measures the black against the whole eye.
+- Śārīra 8 unit 99: what the eight types describe is open (Caraka's parallel lists eight censured body types); section title made neutral in v9.
+- Śārīra 8 unit 64: grammar note "ppp. upa-√i" would give उपेत; उपैत comes from उप + आ + √इ. (Unit 68: usual word is पार्ष्णि, nom. pl. पार्ष्णयः.)
+- Śārīra 8 unit 100: Hindi glosses पार्श्व as "पसलियों वाले भाग" (data gloss only "side"); printed जिह्व is short while words has jihvā and the text_flag doesn't mention it.
+- Śārīra 8 unit 109: नातिस्थूलकृशौ labelled "dvandva in a negated bahuvrīhi"; reads better as a negated karmadhāraya adjective.
+- Śārīra 8 units 122, 123: typed prose but look metrical (after भवति चात्र; 122's first line is anuṣṭubh length). Kept as prose.
+- Śārīra 8 unit 114: which noun takes आतपत्रोपमम् is a translation choice (could also go with ललाटम्).
+- Śārīra 8 units 100, 101: low confidence with unreadable stretches, but their uncertain list is empty.
+- Śārīra 9 units 43, 50: look metrical but typed prose. (Section titles over 38–52 no longer say "श्लोक", v9.)
+- Śārīra 9 unit 43: English has "make Death" with a capital D.
+- Śārīra 9 unit 44: Hindi has "अनुमानित पाठ पर" dropped mid-sentence.
+- Śārīra 9 unit 41: note "completed by the next unit" means the next printed line, which is in the same card.
+- Śārīra 9 unit 25: print स्थानाच्चुतानीव lacks the य of च्युतानि; data reads cyutāni with no flag. Its note "Unit 30 appears to continue" means printed line 30 (card 26).
+- Śārīra 9 unit 22: gram label of pakva-jambū gives no case.
+- Śārīra 9 unit 12: note calls the dropped visargas in रक्ता पीता… "regular before a voiced consonant", contradicting its own flag (पीता, पाण्डुरा, सिता follow voiceless consonants; only प्रभा रक्ता and श्यावा हरिता are regular). Line 1 scans 8+8+8 but is prose.
+- Śārīra 9 unit 13: print शुभाः विपरीताः keeps the visarga before voiced व; not mentioned.
+- Śārīra 9 unit 11: split uses the conjectural इन्द्रनील, print reads इंद्रील.
+- Śārīra 9 units 4, 6: श्याम is in both the natural and the abnormal colour lists; data does not comment.
+- Śārīra 9 unit 29: gram label calls saromakūpebhyaḥ masculine, but it describes the neuter khebhyaḥ (same form in both genders).
+- Śārīra 9 unit 36: data spells the stem uṣman; the standard stem is ūṣman.
+- Śārīra 9 unit 32: English has no break between its two clauses ("upward he whose").
+- Śārīra 9 unit 40: note says the verb is "in the next unit"; it is in line 02.09.48, on the same card.
+- Śārīra 9 unit 49: data splits गतोष्माणं with short उष्मन्, but unit 45 has long ऊष्मन्.
+- Śārīra 9 unit 10: grammar gives tejasaḥ as ablative without noting it is also genitive. (Unit 12's flag also misses asitā śyāvā.)
+- Śārīra 8 units 18, 45: unit 18's English has "baldness (khalita)" unhedged; unit 45 says "probably baldness".
+- Tool/config (owner to decide): verse_book.json kind_labels shows "श्लोक-युग्म" (verse pair) on verse cards; a Śārīra verse unit is one anuṣṭubh in two half-lines. The label is book-wide and shared with Sūtrasthāna, so it was left unchanged.
+- Śārīra 10 units 2, 8: typed prose but lines look anuṣṭubh-length.
+- Śārīra 10 unit 3: English/Hindi "unreal (as) real one free from eye disease" runs line 4 into line 5 with no break.
+- Śārīra 10 unit 12: note mentions a "though" the English lacks.
+- Śārīra 10 unit 9: conjectural pāṃśunā split across printed tokens (पं gets pāṃśunā, शुनेव gets only iva).
+- Śārīra 10 unit 19: note says एते means "the signs listed before", but एते and वशगाः are masculine and fit the persons.
+- Śārīra 10 units 27, 33, 35: typed prose but look metrical.
+- Śārīra 10 unit 32: note "the verb is in the next unit" means the same card's second line.
+- Śārīra 10 unit 27: स्विद्यतः could also be a genitive participle, not only a dual verb.
+- Śārīra 10 units 6, 9: notes call printed lines "Units" (lines 10–12; "u3"/"u24" = cards 2 and 13).
+- Śārīra 10 unit 13: data has alpa-aśī (short a); should be alpa-āśī.
+- Śārīra 10 unit 16: śayana-āsana-kuḍya-ādau labelled "dvandva, n. loc. sg."; it ends in ādi, so ādau is masculine.
