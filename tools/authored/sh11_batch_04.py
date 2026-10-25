@@ -14,10 +14,9 @@ AUTHORED["39"] = {
     "question": "By card 39, where does the strong one (taken as the wind) go, settle and take hold?",
     "rule": ("Having gone to the space between navel and anus (नाभीगुदांतरं गत्वा), or settling in the two groins "
              "(वंक्षणौ समाश्रयन्), having seized the anus and the heart (पायुहृदये), the strong one (बली)."),
-    "limits": ("No main verb here: the data's notes take cards 39 to 42 as one run whose verb is मुष्णाति (card 42) "
-               "and whose subject is the wind. That बली is the wind is the data's inference, and how क्षीणदेहस्य वा "
-               "attaches is unclear: no question on either, nor on the case of पायुहृदये. The print has नाभी-, "
-               "the split has नाभि-."),
+    "limits": ("No main verb: the data takes cards 39 to 42 as one run, verb मुष्णाति (card 42), subject the wind. "
+               "That बली is the wind is an inference, and how क्षीणदेहस्य वा attaches is unclear: no question on either, "
+               "nor on the case of पायुहृदये. Printed नाभी-, split नाभि-."),
     "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से ४२ एक ही वाक्य हैं, जिसकी क्रिया "
                    "‘मुष्णाति’ (हर लेता है) कार्ड ४२ में है और कर्ता वायु (मारुत) है। "
                    "यहाँ तीन बातें गिनाई गई हैं: नाभि और गुदा के बीच के स्थान में जाना, या दोनों वंक्षण (जाँघ और पेट के जोड़) में आश्रय लेना, "
@@ -62,7 +61,7 @@ AUTHORED["39"] = {
         mcq("transfer", 5, "By the pattern of गत्वा (from √गम्), what does नत्वा (from √नम्, to bow) mean in a new example?",
             ("Having bowed", "-त्वा = having done: नत्वा = having bowed, as गत्वा = having gone."),
             [("He bows", "He bows would be नमति; -त्वा marks a finished action."),
-             ("To bow", "To bow would be नन्तुम्; -त्वा means having done."),
+             ("In order to bow", "That would be the infinitive नन्तुम्; -त्वा means having done."),
              ("Bowed down", "A past participle would be नत; नत्वा is the absolutive.")],
             "नत्वा = having bowed, like गत्वा = having gone.",
             "Root without prefix + -त्वा = having done.",
@@ -110,7 +109,7 @@ AUTHORED["40"] = {
             ("In the two groins", "कुर्वन् वंक्षणयोः शूलम्: causing pain in the two groins."),
             [("In the two eyes", "The eyes are not named in card 40."),
              ("In the two ears", "The ears are not named in card 40."),
-             ("In the two feet", "The feet are not named in card 40.")],
+             ("In the two shoulders", "The shoulders are not named in card 40.")],
             "शूलम् is placed in the two groins (वंक्षणयोः).",
             "वंक्षणयोः शूलम् = pain in the two groins."),
         mcq("apply", 4, "Why does विबद्ध्य (written विबध्य) end in -य and not in -त्वा?",
@@ -123,7 +122,7 @@ AUTHORED["40"] = {
         mcq("transfer", 5, "By the pattern of विबध्य (वि + √बन्ध्), what does आरुह्य (आ + √रुह्, climb) mean in a new example?",
             ("Having climbed", "Prefix + root + -य = having done: आरुह्य = having climbed."),
             [("He climbs", "He climbs would be आरोहति; -य after a prefix marks a finished action."),
-             ("To climb", "To climb would be आरोढुम्; आरुह्य is the absolutive."),
+             ("In order to climb", "That would be the infinitive आरोढुम्; आरुह्य is the absolutive."),
              ("He climbed", "A past finite verb would be आरोहत्; आरुह्य is the absolutive.")],
             "आरुह्य = having climbed, like विबध्य = having obstructed.",
             "Prefix + root + -य = having done.",
@@ -137,9 +136,9 @@ AUTHORED["41"] = {
     "question": "By card 41, what does the wind produce, and what does it seize?",
     "rule": ("Or producing breathlessness (श्वासम्), the wind (वायुः), having seized the anus and the groins (गुदवंक्षणौ), "
              "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), the wind (मारुतः)."),
-    "limits": ("The data types this unit as prose: nothing is asked about metre. No main verb: the run of cards 39 to 42 ends in "
-               "मुष्णाति (card 42). पर्शुक अग्राणि is one compound split by a printed space (flagged): no question rests on it. "
-               "The dual ending of गुदवंक्षणौ is printed as is: no question on its number."),
+    "limits": ("Typed as prose in the data: nothing is asked about metre. No main verb: the run of cards 39 to 42 ends in "
+               "मुष्णाति (card 42). पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on it, "
+               "nor on the number of गुदवंक्षणौ."),
     "explain_hi": ("शृंखला का तीसरा भाग। यहाँ कर्ता दो बार नाम से आता है: पहली पंक्ति में ‘वायुः’, दूसरी में ‘मारुतः’; दोनों एक ही वायु। "
                    "बताए गए कार्य: श्वास (साँस की कठिनाई) उत्पन्न करना, गुदा और वंक्षण को पकड़ना, फैलना, पसलियों के अग्र भागों और वक्ष (उरः) को पकड़ना। "
                    "‘पर्शुक अग्राणि’ के बीच छपा रिक्त स्थान एक समास को तोड़ता है (पाठ-चिह्न); उस पर प्रश्न नहीं। "
@@ -208,9 +207,9 @@ AUTHORED["42"] = {
     "questions": [
         mcq("pretest", 0, "In card 42, what does मुष्णाति mean?",
             ("Steals, takes away", "मुष्णाति (√मुष्) = steals: सद्यो मुष्णाति जीवितम्, at once steals life."),
-            [("Gives, bestows", "Gives would be ददाति; मुष्णाति means steals."),
-             ("Guards, keeps", "Guards would be रक्षति; मुष्णाति means steals."),
-             ("Grows, swells", "Grows would be वर्धते; मुष्णाति means steals.")],
+            [("Gives, hands over", "Gives would be ददाति; मुष्णाति means steals."),
+             ("Guards, keeps safe", "Guards would be रक्षति; मुष्णाति means steals."),
+             ("Grows, swells up", "Grows would be वर्धते; मुष्णाति means steals.")],
             "मुष्णाति = steals, takes away.",
             "√मुष् = steal."),
         order(1, "Put the words of card 42, line 2, in the printed order.",
@@ -324,7 +323,7 @@ AUTHORED["44"] = {
     "questions": [
         mcq("pretest", 0, "In card 44, what does दुर्लभम् mean?",
             ("Hard to obtain", "दुर्-लभ = hard to obtain: दुर्लभं तस्य जीवितम्."),
-            [("Easy to gain", "Easy to gain would be सुलभ; दुर्- means hard."),
+            [("Easy to come by", "Easy to come by would be सुलभ; दुर्- means hard."),
              ("Already lost", "Lost would be नष्ट; दुर्लभ means hard to obtain."),
              ("Quite certain", "Certain would be निश्चित; दुर्लभ means hard to obtain.")],
             "दुर्लभम् = hard to obtain.",
@@ -385,7 +384,7 @@ AUTHORED["45"] = {
             ("Quickly", "आशु = quickly: उत्पद्याशु विनश्यन्ति, having arisen they quickly vanish."),
             [("Slowly", "Slowly would be शनैः; आशु means quickly."),
              ("Rarely", "Rarely would be कदाचित्; आशु means quickly."),
-             ("Again", "Again would be पुनः; आशु means quickly.")],
+             ("Repeatedly", "Repeatedly would be मुहुः; आशु means quickly.")],
             "आशु = quickly.",
             "आशु = quickly."),
         order(1, "Put the words of card 45, line 1, in the printed order.",
@@ -431,9 +430,9 @@ AUTHORED["46"] = {
     "rule": ("Blisters (विस्फोटाः) with the mouth turned inward (अन्तर्वक्त्र) and looking like kiṇa (probably a scar or "
              "callus) are body-destroying (देहनाशनाः). Line 2: jaundice (कामला) in the two eyes, the face full (मुखं पूर्णम्), "
              "loss of flesh in the two temples (शङ्खयोः)."),
-    "limits": ("Medium confidence. kiṇa is uncertain (scar, callus or weal): no question on it. Printed अंतर्वक्त्रा probably lacks "
-               "a visarga (flagged): no question rests on it. Line 2 has no verb: the data says card 47 completes it (तं परिवर्जयेत्). "
-               "कामला अक्ष्णोः may also be one compound, and the case of अक्ष्णोः is open."),
+    "limits": ("Medium confidence. kiṇa is uncertain: no question on it. Printed अंतर्वक्त्रा probably lacks a visarga "
+               "(flagged): no question on it. Line 2 has no verb; the data says card 47 completes it. कामला अक्ष्णोः may be "
+               "one compound; the case of अक्ष्णोः is open."),
     "explain_hi": ("पहली पंक्ति में देह का नाश करने वाले विस्फोट (फफोले) बताए गए: भीतर की ओर मुख वाले और किण के समान दिखने वाले; "
                    "किण सम्भवतः घट्टा या चोट का निशान है, पहचान अनिश्चित, इसलिए उस पर प्रश्न नहीं। "
                    "डेटा के अनुसार कार्ड ४५ की दूसरी पंक्ति की उपमाएँ भी इन्हीं विस्फोटों की लगती हैं। "
@@ -550,9 +549,9 @@ AUTHORED["48"] = {
     "rule": ("Smelling of sandalwood (standard), uśīra (vetiver root, standard), madirā (an intoxicating drink), a corpse and a crow "
              "(-गन्धयः); having the lustre of śaivāla (water-moss; plant disputed), a cock's comb, kuṅkuma (saffron, standard), "
              "āla (probably orpiment) and ink (-प्रभाः)."),
-    "limits": ("The noun is not in this unit: the data takes the list of cards 47 to 49 as describing the wounds (व्रणाः) of card 49. "
-               "कुंकुमाल may be कुंकुम + आल or + अल: no question on āla. śaivāla's identity is disputed: kept out of the questions. "
-               "कुणपध्वांक्ष is read as two smells (corpse, crow)."),
+    "limits": ("The noun is not here: the data takes cards 47 to 49 as describing the wounds (व्रणाः) of card 49. "
+               "कुंकुमाल may be कुंकुम + आल or + अल: no question on āla. śaivāla is disputed: kept out of the questions. "
+               "कुणपध्वांक्ष is read as two smells."),
     "explain_hi": ("यह इकाई दो लम्बे समासों की सूची है; जिसका वर्णन है वह यहाँ नहीं, डेटा के अनुसार कार्ड ४९ के व्रण (घाव)। "
                    "पहली पंक्ति गन्ध बताती है: चन्दन (मानक), उशीर यानी खस (मानक), मदिरा (नशीला पेय), कुणप (शव) और ध्वाङ्क्ष (कौआ)। "
                    "दूसरी पंक्ति प्रभा (आभा) बताती है: शैवाल (जल की काई; पहचान विवादित), मुर्गे की कलगी, कुंकुम यानी केसर (मानक), "
@@ -564,7 +563,7 @@ AUTHORED["48"] = {
         mcq("pretest", 0, "In card 48, what does कुणप mean?",
             ("A corpse", "कुणप = corpse: one of the smells in line 1."),
             [("A crow", "A crow is ध्वाङ्क्ष, the next word; कुणप is a corpse."),
-             ("A lotus", "A lotus would be पद्म; कुणप is a corpse."),
+             ("A blue lotus", "A blue lotus would be उत्पल; कुणप is a corpse."),
              ("A flame", "A flame would be ज्वाला; कुणप is a corpse.")],
             "कुणप = corpse.",
             "कुणप = corpse."),
@@ -626,7 +625,7 @@ AUTHORED["49"] = {
         mcq("pretest", 0, "In card 49, what does व्रणाः mean?",
             ("Wounds, ulcers", "व्रणाः = wounds, ulcers (m. nom. pl.)."),
             [("Fevers, heats", "Fever would be ज्वर; व्रण is a wound."),
-             ("Joints, limbs", "A joint would be सन्धि; व्रण is a wound."),
+             ("Joints, limbs, parts", "A joint would be सन्धि; व्रण is a wound."),
              ("Signs, marks", "A sign would be लक्षण; व्रण is a wound.")],
             "व्रणाः = wounds.",
             "व्रण = wound, ulcer."),
@@ -645,7 +644,7 @@ AUTHORED["49"] = {
         mcq("discriminate", 3, "By card 49, what is said of the Pitta-born one?",
             ("It would not be for burning", "स्यान्न दाहाय पित्तजः: the Pitta-born one which would not be for burning."),
             [("It would not be for pain", "That is said of the Vāta-born one (न शूलाय)."),
-             ("It would not be for itch", "No itching is named in card 49."),
+             ("It would not be for swelling", "No swelling is named in card 49."),
              ("It would not be for pus", "Card 49 says nothing of pus for the Pitta-born one.")],
             "Vāta-born: not for pain; Pitta-born: not for burning.",
             "वातजः न शूलाय; पित्तजः न दाहाय."),
