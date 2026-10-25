@@ -705,7 +705,7 @@ AUTHORED["50"] = {
              ("She makes the fetus do these things", "She herself is to be made to do them.")],
             "कारयितव्या = (she) is to be made to do.",
             "कारयितव्या: causative gerundive of √कृ."),
-        mcq("transfer", 5, "By the rule of चेदेवम्, how is यावत् + एव (just so long) written?",
+        mcq("transfer", 5, "By the rule of चेदेवम्, how is यावत् + एव (as long) written?",
             ("यावदेव", "त् before a vowel becomes द्, as in चेत् + एवम्."),
             [("यावतेव", "Before a vowel the final त् becomes the voiced द्."),
              ("यावदिव", "The vowel stays ए; it does not become इ."),

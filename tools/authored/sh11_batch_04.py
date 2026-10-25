@@ -14,9 +14,9 @@ AUTHORED["39"] = {
     "question": "By card 39, where does the strong one (taken as the wind) go, settle and take hold?",
     "rule": ("Having gone to the space between navel and anus (नाभीगुदांतरं गत्वा), or settling in the two groins "
              "(वंक्षणौ समाश्रयन्), having seized the anus and the heart (पायुहृदये), the strong one (बली)."),
-    "limits": ("No main verb: the data says cards 39 to 42 (to the end of card 42, line 1) appear to form one run, verb मुष्णाति (card 42), subject the wind. "
-               "That बली is the wind is an inference, and how क्षीणदेहस्य वा attaches is unclear: no question on either, "
-               "nor on the case of पायुहृदये. Printed नाभी-, split नाभि-."),
+    "limits": ("No main verb: the data says cards 39 to 42 (to card 42, line 1) appear to form one run, verb मुष्णाति "
+               "(card 42), subject the wind. बली as the wind is an inference; how क्षीणदेहस्य वा attaches is unclear: "
+               "no question on these, nor on the case of पायुहृदये. Print नाभी-, split नाभि-."),
     "explain_hi": ("यह इकाई एक लम्बी शृंखला का आरम्भ है: डेटा के नोट्स के अनुसार कार्ड ३९ से कार्ड ४२ की पहली पंक्ति तक एक ही वाक्य प्रतीत होता है, जिसकी क्रिया "
                    "‘मुष्णाति’ (हर लेता है) कार्ड ४२ में है और कर्ता वायु (मारुत) है। "
                    "यहाँ तीन बातें गिनाई गई हैं: नाभि और गुदा के बीच के स्थान में जाना, या दोनों वंक्षण (जाँघ और पेट के जोड़) में आश्रय लेना, "
@@ -136,9 +136,9 @@ AUTHORED["41"] = {
     "question": "By card 41, what does the wind produce, and what does it seize?",
     "rule": ("Or producing breathlessness (श्वासम्), the wind (वायुः), having seized the anus and the groins (गुदवंक्षणौ), "
              "having spread out (वितत्य), having seized the tips of the ribs and the chest (उरः), the wind (मारुतः)."),
-    "limits": ("Typed as prose in the data: nothing is asked about metre. No main verb: the run of cards 39 to 42 ends in "
-               "मुष्णाति (card 42). पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on the space or on the stem पर्शुक/पर्शुका (अग्राणि = tips is sure), "
-               "nor on the number of गुदवंक्षणौ."),
+    "limits": ("Typed prose: no metre question. No main verb: the run of cards 39 to 42 ends in मुष्णाति (card 42). "
+               "पर्शुक अग्राणि is one compound split by a printed space (flagged): no question on the space or the stem "
+               "पर्शुक/पर्शुका (अग्राणि = tips is sure), nor on the number of गुदवंक्षणौ."),
     "explain_hi": ("शृंखला का तीसरा भाग। यहाँ कर्ता दो बार नाम से आता है: पहली पंक्ति में ‘वायुः’, दूसरी में ‘मारुतः’; दोनों एक ही वायु। "
                    "बताए गए कार्य: श्वास (साँस की कठिनाई) उत्पन्न करना, गुदा और वंक्षण को पकड़ना, फैलना, पसलियों के अग्र भागों और वक्ष (उरः) को पकड़ना। "
                    "‘पर्शुक अग्राणि’ के बीच छपा रिक्त स्थान एक समास को तोड़ता है (पाठ-चिह्न); उस पर प्रश्न नहीं। "
@@ -430,9 +430,9 @@ AUTHORED["46"] = {
     "rule": ("Blisters (विस्फोटाः) with the mouth turned inward (अन्तर्वक्त्र) and looking like kiṇa (probably a scar or "
              "callus) are body-destroying (देहनाशनाः). Line 2: jaundice (कामला) in the two eyes, the face full (मुखं पूर्णम्), "
              "loss of flesh in the two temples (शङ्खयोः)."),
-    "limits": ("Medium confidence. What kiṇa is, is uncertain: no question on its sense (the sandhi किणाभाः + च is sure). Printed अंतर्वक्त्रा probably lacks a visarga "
-               "(flagged): no question on it. Line 2 has no verb; the data says card 47 completes it. कामला अक्ष्णोः may be "
-               "one compound; the case of अक्ष्णोः is open."),
+    "limits": ("What kiṇa is, is uncertain: no question on its sense (the sandhi किणाभाः + च is sure). Printed अंतर्वक्त्रा "
+               "probably lacks a visarga (flagged): no question on it. Line 2 has no verb (completed in card 47, data). "
+               "कामला अक्ष्णोः may be one compound; the case of अक्ष्णोः is open."),
     "explain_hi": ("पहली पंक्ति में देह का नाश करने वाले विस्फोट (फफोले) बताए गए: भीतर की ओर मुख वाले और किण के समान दिखने वाले; "
                    "किण सम्भवतः घट्टा या चोट का निशान है, पहचान अनिश्चित, इसलिए उस पर प्रश्न नहीं। "
                    "डेटा के अनुसार कार्ड ४५ की दूसरी पंक्ति की उपमाएँ भी इन्हीं विस्फोटों की लगती हैं। "
