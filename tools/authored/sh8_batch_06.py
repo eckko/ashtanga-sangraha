@@ -312,8 +312,8 @@ AUTHORED["68"] = {
     "rule": ("The prapada (front of the foot), the sole (पादतल) and the heel (पाष्णि) are separately four aṅgulas long "
              "and six, five and four aṅgulas broad; the foot is exactly fourteen in length and fourteen in girth."),
     "limits": ("Prose. Which part has which breadth (six, five, four) follows the order only by the natural reading: "
-               "no question pairs a breadth with a part. The text gives no sum of the parts; the card adds none. "
-               "The printed पाष्ण्यः is an unusual form: no question rests on it. 'aṅgula' is understood after the bare numerals."),
+               "no question pairs a breadth with a part. No sum of the parts is given. No question rests on the "
+               "unusual printed form पाष्ण्यः. "),
     "explain_hi": ("प्रपद (पैर का अगला भाग), पादतल (तलवा) और पाष्णि (एड़ी) अलग-अलग (पृथक्) चार अंगुल लम्बे हैं। "
                    "वे छः, पाँच और चार अंगुल चौड़े हैं; कौन-सा भाग कितना चौड़ा, यह जोड़ी केवल क्रम से स्वाभाविक पाठ है, छपी नहीं। "
                    "पूरा पैर (पादः) लम्बाई में चौदह ही (चतुर्दश एव) और घेरे (परिणाह) में भी चौदह ही है; अंक के बाद ‘अंगुल’ समझा जाता है।"),
