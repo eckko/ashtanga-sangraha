@@ -11,12 +11,12 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 14
 AUTHORED["14"] = {
     "title": "कीर्तनमिष्टं न दर्शनं",
-    "question": "By card 14, for the hare, snake, goat, sheep and monitor lizard, is the mention or the sight desired?",
-    "rule": ("For the hare, snake, goat, sheep, monitor lizard (godhā, standard) and others of the list, the mention "
+    "question": "By card 14, for the hare, snake, goat and sheep, is the mention or the sight desired?",
+    "rule": ("For the hare, snake, goat, sheep, monitor lizard (printed गोध, godha; standard) and others of the list, the mention "
              "(कीर्तनम्) is desired (इष्टम्), not the sight (न दर्शनम्); for the last pair the reverse (विपरीतम्) holds."),
     "limits": ("Prose, low confidence. राजाहक is unclear; boar is a conjecture for printed मूकर; bear (ऋक्ष) needs a stray "
                "म् of मृक्ष dropped. That the cry (विरुतम्) is desired is only the natural reading. No question on these."),
-    "explain_hi": ("खरगोश, साँप, बकरी, भेड़ और गोह (मानक पहचान) आदि का नाम लेना (कीर्तनम्) इष्ट है, उनका दर्शन नहीं। "
+    "explain_hi": ("खरगोश, साँप, बकरी, भेड़ और गोध (छपा रूप; गोह, मानक पहचान) आदि का नाम लेना (कीर्तनम्) इष्ट है, उनका दर्शन नहीं। "
                    "सूची का ‘राजाहक’ अस्पष्ट है और छपा ‘मूकर’ अनुमान से सूकर (सूअर) पढ़ा गया है। "
                    "‘विरुतं च’ (और ध्वनि) पर भी ‘इष्टम्’ सहज पाठ से लागू माना गया है, पर यह पक्का नहीं। "
                    "अन्तिम जोड़े (छपा ‘मृक्षवानरयोः’, पढ़ा: रीछ और वानर) के लिए उलटा (विपरीतम्) कहा गया है। "
@@ -216,7 +216,7 @@ AUTHORED["17"] = {
               "एवम् = in this way, अन्ये = other, अपि = also, ध्वनयः = sounds, योज्याः = to be applied.",
               "एवम्, अन्ये, अपि, ध्वनयः, योज्याः."),
         fill(2, "The word for 'sounds' in card 17 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("ध्वनयः", "dhvanayaḥ", "ध्वनि"),
+             accepts("ध्वनयः", "dhvanayaḥ", "dhvanayah", "ध्वनयो", "dhvanayo", "ध्वनि"),
              "ध्वनयः = sounds, nominative plural of ध्वनि: ध्वनयो योज्याः.",
              "ध्वनि (sound) makes the nominative plural ध्वनयः; before the voiced य it is printed ध्वनयो.",
              "ध्वनयः = sounds."),
@@ -309,14 +309,14 @@ AUTHORED["19"] = {
     "title": "शब्दाः प्रतिषिद्धाः",
     "question": "By card 19, which words, sounds and sights count against taking up the treatment?",
     "rule": ("The words sneeze, struck, fallen, outcry, blow, cutting, breaking, burning, 'hā hā', prohibition and the like are "
-             "forbidden (प्रतिषिद्धाः); with cruel cries in a forbidden or blazing direction, the sights at the entering and "
+             "forbidden (प्रतिषिद्धाः); with cruel cries in a forbidden and in a blazing direction, the sights at the entering and "
              "other signs, all is 'for the prohibition of treatment' (चिकित्साप्रतिषेधाय)."),
     "limits": ("Prose, low confidence: one very long sentence of lists with one predicate. Conjectural: patient's house "
                "(चातुर्गृहात्), planets (यहा → ग्रहाः), Saturn (शिनि), the stray र् of लाभर्तुष्टि; पलल is disputed; "
                "ऊर्ध्वपाद and the attachment of शुभाशुभा are open. No question on any of these."),
     "explain_hi": ("छींक, ‘मारा गया’, ‘गिरा’, चीख, प्रहार, छेद, भेद, दाह, ‘हा हा’ और निषेध आदि शब्द निषिद्ध हैं। "
                    "निषिद्ध और जलती (दीप्त) दिशा में पक्षी-पशुओं की क्रूर ध्वनियाँ, सूखे, काँटों और लताओं वाले वृक्ष पर, और प्रवेश के समय "
-                   "तृण, लकड़ी का बोझ, ठीकरा, ढेला, टूटे वाहन-शय्या-आसन, खाली घड़ा, मद्य, वसा, तेल, गर्भिणी, विपत्ति में पड़ा व्यक्ति और मृत आदि का दर्शन गिनाए गए हैं। "
+                   "तृण, लकड़ी का बोझ, ठीकरा, ढेला, (सम्भवतः) टूटे वाहन-शय्या-आसन, खाली घड़ा, मद्य, वसा, तेल, गर्भिणी, विपत्ति में पड़ा व्यक्ति और मृत आदि का दर्शन गिनाए गए हैं। "
                    "भीतर आए वैद्य का सत्कार न होना भी इसी सूची में है। "
                    "यह सब ‘चिकित्साप्रतिषेधाय’ है, यानी चिकित्सा के निषेध के लिए (रोगी को न लेने के लिए)। "
                    "रोगी का घर, ग्रह, शनि आदि वाले भाग अनुमानित पाठ हैं और ‘पलल’ विवादित है, इसलिए उन पर प्रश्न नहीं।"),
@@ -334,7 +334,7 @@ AUTHORED["19"] = {
               ["क्षुत", "हत", "पतित", "आक्रोश", "प्रहार", "छेद"],
               "Sneeze, struck, fallen, outcry, blow, cutting: the start of the forbidden list.",
               "क्षुत → हत → पतित → आक्रोश → प्रहार → छेद."),
-        match(2, "Match each sight that card 19 lists at the entering to its meaning.",
+        match(2, "Match each sight that card 19 lists to its meaning.",
               [["रिक्तकुंभ", "empty pot"], ["मृत", "the dead"], ["लोष्ट", "clod"], ["तैल", "oil"],
                ["कर्परक", "potsherd"]],
               "रिक्तकुंभ = empty pot, मृत = the dead, लोष्ट = clod, तैल = oil, कर्परक = potsherd.",
@@ -349,14 +349,14 @@ AUTHORED["19"] = {
              ("For the patient's diet", "No diet is named; the list prohibits treatment.")],
             "The list ends चिकित्साप्रतिषेधाय: for the prohibition of treatment.",
             "चिकित्सा-प्रतिषेधाय = for prohibiting treatment."),
-        multi("apply", 4, "At the entering, which of these sights does card 19 list?",
-              [("A full pitcher", "No: the full pitcher (पूर्णकुंभ) is among the auspicious things of card 10."),
+        multi("apply", 4, "Which of these sights does card 19 list?",
+              [("A drum", "No: card 19 names no drum."),
                ("An empty pot", "Right: रिक्तकुंभ, an empty pot, is in the list."),
-               ("Curd", "No: curd (दधि) is among the auspicious things of card 10."),
+               ("A plough", "No: card 19 names no plough."),
                ("Oil", "Right: तैल, oil, is in the list.")],
               [1, 3],
-              "Empty pot and oil are in the list of sights; full pitcher and curd are auspicious in card 10.",
-              "रिक्तकुंभ, तैल ... दर्शनम्, at the entering."),
+              "Empty pot and oil are in the list of sights; no drum or plough is named.",
+              "रिक्तकुंभ, तैल ... दर्शनम्."),
         mcq("transfer", 5, "By the pattern of तत् + विधे → तद्विधे, how is सरित् + वहति (the river flows) joined in a new example?",
             ("सरिद्वहति", "त् before a voiced consonant → द्: सरित् + वहति → सरिद्वहति."),
             [("सरित्वहति", "Before the voiced व, a final त् becomes voiced द्."),
@@ -372,24 +372,24 @@ AUTHORED["19"] = {
 AUTHORED["20"] = {
     "title": "स सप्तविधो दृष्टः",
     "question": "By card 20, what is a dream a cause of, and what are its seven kinds?",
-    "rule": ("A dream (स्वप्नः), seen by oneself or by another, is a cause of the auspicious and the inauspicious. It is of "
+    "rule": ("A dream (स्वप्नः), seen by oneself or by another (अन्येन, read for printed अम्येन), is a cause of the auspicious and the inauspicious. It is of "
              "seven kinds: seen, heard, experienced, desired, imagined, bhāvika (of what will be) and born of the doṣas."),
     "limits": ("Prose, high confidence. भाविक is rendered literally (of what is to come); the line explains no kind. Printed "
                "स्वयमम्येन is read स्वयम् अन्येन. Which kinds bear fruit is in card 21, not here."),
-    "explain_hi": ("स्वप्न, चाहे स्वयं देखा गया हो या दूसरे द्वारा, शुभ और अशुभ का कारण है। "
+    "explain_hi": ("स्वप्न, चाहे स्वयं देखा गया हो या दूसरे द्वारा (छपा ‘अम्येन’, पढ़ा ‘अन्येन’), शुभ और अशुभ का कारण है। "
                    "वह सात प्रकार का है: दृष्ट (देखा), श्रुत (सुना), अनुभूत (अनुभव किया), प्रार्थित (चाहा), संकल्पित (कल्पित), भाविक (आगे होने वाले से सम्बन्धित) और दोषज (दोषों से उत्पन्न)। "
                    "पंक्ति किसी प्रकार की व्याख्या नहीं करती; कौन से प्रकार निष्फल हैं, यह कार्ड २१ में है। "
                    "‘श्रुतोऽनुभूतः’ में श्रुतः + अनुभूतः की सन्धि है (अः + अ → ओऽ)।"),
     "hook": "सात स्वप्न: देखा, सुना, अनुभूत, चाहा, कल्पित, भाविक, दोषज।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By card 20, a dream seen by whom is a cause of good and bad?",
-            ("By oneself or by another", "स्वयम् अन्येन वा दृष्टः: seen by oneself or by another."),
-            [("Only by the patient himself", "The line adds अन्येन वा, or by another."),
-             ("Only by the physician", "The physician is not named; seen by oneself or by another."),
-             ("Only by a messenger", "No messenger is named here; seen by oneself or by another.")],
-            "स्वयम् अन्येन वा दृष्टः = seen by oneself or by another.",
-            "स्वयम् / अन्येन = by oneself / by another."),
+        mcq("pretest", 0, "By card 20, a dream is a cause of what?",
+            ("Both the auspicious and the inauspicious", "शुभाशुभहेतुः: a cause of the auspicious and the inauspicious."),
+            [("Only the auspicious, not the inauspicious", "शुभाशुभ- names both, the auspicious and the inauspicious."),
+             ("Only the inauspicious, not the auspicious", "शुभाशुभ- names both, the auspicious and the inauspicious."),
+             ("Sleep alone", "The line calls the dream a cause (हेतुः) of शुभ and अशुभ, not of sleep.")],
+            "शुभाशुभहेतुः = cause of the auspicious and the inauspicious.",
+            "शुभ / अशुभ = auspicious / inauspicious."),
         order(1, "After दृष्टः (seen), put the other kinds of dream of card 20 in the printed order.",
               ["श्रुतः", "अनुभूतः", "प्रार्थितः", "संकल्पितः", "भाविकः", "दोषजः"],
               "Heard, experienced, desired, imagined, of what will be, born of the doṣas.",
@@ -436,7 +436,7 @@ AUTHORED["21"] = {
                "to अफलः, but the text does not say so: no question on whether they are fruitless. नातिसुप्तदृष्टः has two "
                "parses: no question on it."),
     "explain_hi": ("कार्ड २० के सात प्रकारों में पहले पाँच (दृष्ट, श्रुत, अनुभूत, प्रार्थित, संकल्पित) निष्फल हैं। "
-                   "फिर ‘तथा’ के बाद छह और गिनाए गए: अपनी प्रकृति के अनुसार, भूला हुआ, दिन में देखा, बहुत छोटा, बहुत लम्बा और गहरी नींद में न देखा। "
+                   "फिर ‘तथा’ के बाद छह और गिनाए गए: अपनी प्रकृति के अनुसार, भूला हुआ, दिन में देखा, बहुत छोटा, बहुत लम्बा और नातिसुप्तदृष्ट (दो प्रकार से पढ़ा जा सकता है)। "
                    "इनका विधेय छपा नहीं; डेटा इन्हें ‘अफल’ के समान पढ़ता है, पर पाठ यह नहीं कहता। "
                    "रात्रि के पहले भाग का स्वप्न थोड़ा फल देता है, और देर से। "
                    "‘चिराच्च’ में चिरात् + च की सन्धि है (त् + च → च्च)।"),
@@ -457,7 +457,7 @@ AUTHORED["21"] = {
               "अफलः, विस्मृतः, दिवा, अतिह्रस्वः, अतिदीर्घः."),
         order(2, "Put the items listed after तथा in card 21 in the printed order.",
               ["यथास्वप्रकृतिः", "विस्मृतः", "दिवा", "अतिह्रस्वः", "अतिदीर्घः", "नातिसुप्तदृष्टः"],
-              "Own prakṛti, forgotten, by day, too short, too long, not seen in deep sleep.",
+              "Own prakṛti, forgotten, by day, too short, too long, नातिसुप्तदृष्टः (two parses).",
               "यथास्वप्रकृतिः → विस्मृतः → दिवा → अतिह्रस्वः → अतिदीर्घः → नातिसुप्तदृष्टः.",
               role="extend",
               teaches=("After तथा (likewise) six more items follow with no printed predicate; the data reads them as "
@@ -545,7 +545,7 @@ AUTHORED["22"] = {
 # ---------------------------------------------------------------- unit 23
 AUTHORED["23"] = {
     "title": "निद्रया चपुनरनुपहतः",
-    "question": "By card 23, by what may a dream be struck down (cancelled)?",
+    "question": "By card 23, by what is the dream said to be not struck down (not cancelled)?",
     "rule": ("Not struck down (अनुपहतः) again by sleep (निद्रया पुनः), or by contrary words (प्रतीपैः वचोभिः), or by giving, "
              "appeasing acts (दान, शमनीय) and the like."),
     "limits": ("Prose, medium confidence. The line continues card 22 and states no subject; the dream is understood. Printed "
@@ -574,15 +574,15 @@ AUTHORED["23"] = {
               "By sleep; and again not struck down; by contrary; words, giving, appeasing and the like.",
               "निद्रया → चपुनरनुपहतः → प्रतीपैर्वा → वचोभिर्दानशमनीयमादिभिर्वा.",
               role="extend",
-              teaches="Card 23 continues card 22 with no subject printed; each 'or' (वा) adds one more thing that can cancel."),
-        multi("discriminate", 3, "Which of these does card 23 name among the things that may cancel a dream?",
+              teaches="Card 23 continues card 22 with no subject printed; each 'or' (वा) adds one more item to the list 'not cancelled by ...'."),
+        multi("discriminate", 3, "Which of these does card 23 name in its list 'not cancelled by ...'?",
               [("Sleep, again", "Right: निद्रया पुनः, by sleep again."),
                ("Contrary words", "Right: प्रतीपैर्वा वचोभिः, by contrary words."),
                ("A fast", "No: card 23 names no fast."),
                ("Giving", "Right: दान, giving, opens the last compound."),
-               ("Bathing", "No: card 23 names no bathing.")],
+               ("Silence", "No: card 23 names no silence.")],
               [0, 1, 3],
-              "Card 23 names sleep again, contrary words, giving and appeasing acts.",
+              "Card 23's list 'not cancelled by ...' names sleep again, contrary words, giving and appeasing acts.",
               "निद्रा, प्रतीप वचन, दान, शमनीय."),
         mcq("apply", 4, "Why does प्रतीपैः become प्रतीपैर् before वा in card 23?",
             ("After ऐ, ः before a voiced sound → र्", "ः follows ऐ (not अ/आ) and व is voiced: प्रतीपैर्वा."),
@@ -610,7 +610,7 @@ AUTHORED["24"] = {
              "dog, is struck down (हन्यते) by fever (ज्वरेण)."),
     "limits": ("Prose, high confidence. हन्यते can also mean 'is killed'; the card keeps 'is struck down', as the data does: "
                "no question on that sense. The card states the dream and the disease only."),
-    "explain_hi": ("अशुभ स्वप्नों में: जो प्रेतों के साथ मद्य (नशीला पेय) पीता हुआ कुत्ते द्वारा खींचा जाता है, वह ज्वर से आहत होता है। "
+    "explain_hi": ("उनमें (स्वप्नों में): जो प्रेतों के साथ मद्य (नशीला पेय) पीता हुआ कुत्ते द्वारा खींचा जाता है, वह ज्वर से आहत होता है। "
                    "‘हन्यते’ का अर्थ ‘मारा जाता है’ भी हो सकता है; डेटा का शब्दशः अर्थ ‘आहत होता है’ रखा गया। "
                    "‘पिबन्’ √पा का वर्तमान कृदन्त है: ‘पीता हुआ’। "
                    "‘यः ... सः’ की जोड़ी: जो ऐसा देखता है, वह ज्वर से।"),
@@ -638,8 +638,8 @@ AUTHORED["24"] = {
         mcq("discriminate", 3, "By card 24, who drags the dreamer?",
             ("A dog", "शुना ऽऽकृष्यते: he is dragged by a dog."),
             [("The departed", "The departed drink with him; they do not drag him."),
-             ("A woman", "Being carried off by a woman is in card 25."),
-             ("A donkey", "The donkey is named in card 26, not here.")],
+             ("A horse", "No horse is named in card 24; the dog drags him."),
+             ("A cat", "No cat is named in card 24; the dog drags him.")],
             "शुना (by a dog) आकृष्यते (is dragged).",
             "शुना = by a dog."),
         mcq("apply", 4, "In card 24, what does पिबन् mean?",
@@ -665,7 +665,7 @@ AUTHORED["25"] = {
     "title": "लाक्षारक्ताभमंबरं पश्यति",
     "question": "By card 25, which dreams go with raktapitta?",
     "rule": ("He who sees an ambara (garment or sky) of the hue of red lac, or who, with red body, garland and cloth, laughing, "
-             "is carried off by a woman: he by raktapitta (a bleeding disorder)."),
+             "is carried off by a woman (the data's reading of हसन्नार्या): he by raktapitta (a bleeding disorder)."),
     "limits": ("Prose, medium confidence. The verb 'is struck down' of card 24 is understood, not printed. अम्बर can be garment "
                "or sky. हसन्नार्या could also be read हसन् + आर्या; 'by a woman' is the data's reading: no question on it."),
     "explain_hi": ("जो लाख के लाल रंग जैसा अम्बर (वस्त्र या आकाश; दोनों सम्भव) देखता है, "
@@ -700,9 +700,9 @@ AUTHORED["25"] = {
             ("Laughing, red body, garland and cloth", "रक्तदेहमाल्यवस्त्रो हसन्: with red body, garland and cloth, laughing."),
             [("Weeping, with black garland and cloth", "The garland and cloth are red, and he is laughing."),
              ("Drinking madya with the departed", "That is the dreamer of card 24."),
-             ("Naked, sprinkled with ghee by a fire", "That is the dreamer of card 28.")],
+             ("Naked, sprinkled with ghee, offering into fire", "That is the dreamer of card 28.")],
             "रक्त-देह-माल्य-वस्त्रः हसन्: red body, garland, cloth; laughing.",
-            "Card 25: red and laughing, carried off by a woman."),
+            "Card 25: red and laughing, carried off (by a woman, the data's reading)."),
         mcq("apply", 4, "In card 25, what does ह्रियते mean?",
             ("Is carried off", "ह्रियते = 3 sg. passive of √हृ: is carried off."),
             [("Carries off", "That active sense would be हरति."),
@@ -716,8 +716,8 @@ AUTHORED["25"] = {
              ("Will do", "The future would be करिष्यति."),
              ("Having done", "The gerund would be कृत्वा.")],
             "क्रियते = is done, like ह्रियते = is carried off.",
-            "ऋ-roots: passive in -रियते (√हृ → ह्रियते, √कृ → क्रियते).",
-            teaches="Roots in ऋ form the passive with -रियते: √हृ → ह्रियते (is carried off)."),
+            "Short ऋ after one consonant: passive in -रियते (√हृ → ह्रियते, √कृ → क्रियते).",
+            teaches="A root in short ऋ after a single consonant makes the passive in -रियते: √हृ → ह्रियते (is carried off)."),
     ],
 }
 
@@ -837,7 +837,7 @@ NOTES_HI = {
 # ================================================================ AIDS
 AIDS = {
     "14": {
-        "frame": "किनका: शश, सर्प, अजा, अवि, गोधा आदि → क्या इष्ट: कीर्तनम् (नाम लेना) → क्या नहीं: दर्शनम् → अन्तिम जोड़ा: विपरीतम्।",
+        "frame": "किनका: शश, सर्प, अजा, अवि, गोध (गोह) आदि → क्या इष्ट: कीर्तनम् (नाम लेना) → क्या नहीं: दर्शनम् → अन्तिम जोड़ा: विपरीतम्।",
         "contrast": "कीर्तनम् (नाम लेना) इष्ट ⇄ दर्शनम् (देखना) इष्ट नहीं: दोनों इसी इकाई में।",
         "chunks": "शशसर्पाजाऽविगोधराजाहकमूकराणां तु | कीर्तनमिष्टं | न दर्शनं | विरुतं | चविपरीतंमृक्षवानरयोः",
         "sandhi": "स्वर से पहले अन्तिम म् जुड़ता है: कीर्तनम् + इष्टम् → कीर्तनमिष्टम् · अ + अ → आ: सर्प + अजा → सर्पाजा।",
@@ -881,7 +881,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "स्वप्न के सात प्रकार (छपे क्रम में)",
              "items": ["१ दृष्ट", "२ श्रुत", "३ अनुभूत", "४ प्रार्थित", "५ संकल्पित", "६ भाविक", "७ दोषज"]}]},
-        "seesaw": "स्वयम् (स्वयं) ⇄ अन्येन (दूसरे द्वारा) देखा · शुभ ⇄ अशुभ का कारण: दोनों जोड़े इसी इकाई में।",
+        "seesaw": "स्वयम् (स्वयं) ⇄ अन्येन (दूसरे द्वारा; छपा ‘अम्येन’, पढ़ा अन्येन) देखा · शुभ ⇄ अशुभ का कारण: दोनों जोड़े इसी इकाई में।",
         "chunks": "स्वप्नस्तु | स्वयमम्येन वा दृष्टः | शुभाशुभहेतुः | स सप्तविधो | दृष्टः श्रुतोऽनुभूतः | प्रार्थितःसंकल्पितो | भाविको दोषजश्च",
         "sandhi": "त से पहले ः → स्: स्वप्नः + तु → स्वप्नस्तु · अः + अ → ओऽ: श्रुतः + अनुभूतः → श्रुतोऽनुभूतः · सः व्यंजन से पहले विसर्ग खोता है: सः + सप्तविधः → स सप्तविधः।",
     },
@@ -889,13 +889,13 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "कार्ड २१ (छपे क्रम में)",
              "items": ["पहले पाँच प्रकार: अफल", "तथा: अपनी प्रकृति के अनुसार", "विस्मृत", "दिवा (दिन में)", "अतिह्रस्व", "अतिदीर्घ",
-                       "गहरी नींद में न देखा", "(इन छह का विधेय नहीं छपा)", "रात्रि का पहला भाग: थोड़ा फल, देर से"]}]},
+                       "नातिसुप्तदृष्ट (दो अर्थ सम्भव)", "(इन छह का विधेय नहीं छपा)", "रात्रि का पहला भाग: थोड़ा फल, देर से"]}]},
         "seesaw": "अतिह्रस्व (बहुत छोटा) ⇄ अतिदीर्घ (बहुत लम्बा): दोनों इसी इकाई में।",
         "chunks": "तत्राद्यः | पंचविधोऽफलः | तथा यथास्वप्रकृतिर्विस्मृतो | दिवाऽतिह्रस्वोऽतिदीर्घो | नातिसुप्तदृष्टश्च | पूर्वरात्रेऽल्पं चिराच्च | फलं करोति",
         "sandhi": "अः + अ → ओऽ: पञ्चविधः + अफलः → पञ्चविधोऽफलः · च से पहले त् → च्: चिरात् + च → चिराच्च · ए + अ → एऽ: पूर्वरात्रे + अल्पम् → पूर्वरात्रेऽल्पम्।",
     },
     "22": {
-        "frame": "कब: गोसर्गे (भोर में, गायें छोड़ते समय) → कैसा: महत् (महान) → कब फले: सद्यः (तुरन्त); संज्ञा छपी नहीं।",
+        "frame": "कब: गोसर्गे (भोर में, गायें छोड़ते समय) → कैसा: महत् (महान) → कब: सद्यः (तुरन्त); संज्ञा छपी नहीं।",
         "chunks": "गोसर्गे | महत्सद्यश्च",
         "sandhi": "च से पहले ः → श्: सद्यः + च → सद्यश्च · स से पहले त् नहीं बदलता: महत् + सद्यः → महत्सद्यः।",
     },
@@ -955,7 +955,7 @@ IMAGE_SPECS = {
         "title": "कार्ड २०: स्वप्न के सात प्रकार",
         "heads": ["क्रम", "छपा शब्द = अर्थ"],
         "rows": [["१", "दृष्टः = देखा"], ["२", "श्रुतः = सुना"], ["३", "अनुभूतः = अनुभव किया"], ["४", "प्रार्थितः = चाहा"],
-                 ["५", "संकल्पितः = कल्पित"], ["६", "भाविकः = आगे होने वाला"], ["७", "दोषजः = दोषों से उत्पन्न"]],
+                 ["५", "संकल्पितः = कल्पित"], ["६", "भाविकः = आगे होने वाले से सम्बन्धित"], ["७", "दोषजः = दोषों से उत्पन्न"]],
     },
     ("21", "diagram"): {
         "file": "sh12-phala-21.svg",
@@ -965,7 +965,7 @@ IMAGE_SPECS = {
         "title": "कार्ड २१: स्वप्न और फल",
         "heads": ["स्वप्न", "पंक्ति क्या कहती है"],
         "rows": [["पहले पाँच प्रकार", "अफल: निष्फल"],
-                 ["तथा: प्रकृति अनुसार, विस्मृत, दिन का, अतिह्रस्व, अतिदीर्घ, गहरी नींद में न देखा", "विधेय नहीं छपा"],
+                 ["तथा: प्रकृति अनुसार, विस्मृत, दिन का, अतिह्रस्व, अतिदीर्घ, नातिसुप्तदृष्ट (दो अर्थ सम्भव)", "विधेय नहीं छपा"],
                  ["रात्रि का पहला भाग", "थोड़ा फल, देर से"]],
     },
     ("24", "chain"): {
