@@ -14,9 +14,9 @@ AUTHORED["27"] = {
     "question": "By unit 27, which three signs of the male genitals does the text give?",
     "rule": ("He whose penis (मेढ्र) is swollen (उत्सिक्त), or whose two testicles (वृषण) have gone out too far, or the "
              "reverse of this (अतः विपर्ययः): these are signs in the list of this chapter."),
-    "limits": ("Prose, relative clause only; the main clause is not in this unit. The printed अत्यिनिःसृतौ has an extra "
-               "य; अतिनिःसृतौ is meant (a possible text flag). 'Gone out' is literal: the text does not say whether the "
-               "testicles are drawn down or retracted, nor what exactly 'the reverse' is: no question on either."),
+    "limits": ("Prose relative clause; no main clause here. Printed अत्यिनिःसृतौ has an extra य (अतिनिःसृतौ meant). "
+               "'Gone out' is literal: whether drawn down or retracted, and what 'the reverse' is, are not said: no "
+               "question on either."),
     "explain_hi": ("यह इकाई जननांग के रिष्ट बताती है: जिसका मेढ्र यानी पुरुष-लिंग सूजा हुआ (उत्सिक्त) हो। "
                    "या जिसके दोनों वृषण यानी अण्डकोष बहुत बाहर निकले हों (अतिनिःसृतौ)। "
                    "या इससे उलटा हो (अतः विपर्ययः); उलटा ठीक क्या है, पाठ नहीं बताता। "
@@ -277,7 +277,7 @@ AUTHORED["31"] = {
         mcq("discriminate", 3, "By unit 31, when does the bewilderment come?",
             ("When he wishes to speak", "विवक्षुर्मुह्यति: wishing to speak, he becomes bewildered."),
             [("When he tries to stand", "Standing is not named; the trigger is the wish to speak."),
-             ("When he has just eaten", "Eating is not named; the trigger is the wish to speak."),
+             ("When he has eaten food", "Eating is not named; the trigger is the wish to speak."),
              ("When he wakes from sleep", "Waking is not named; the trigger is the wish to speak.")],
             "The wish to speak brings the bewilderment.",
             "विवक्षुः → मुह्यति."),
@@ -570,7 +570,7 @@ AUTHORED["36"] = {
               "सतत = constantly, शीत = cold, स्वेद = sweat, स्तम्भ = stiffness, मांस = flesh, शोणित = blood.",
               "सतत, शीत, स्वेद, स्तम्भ, मांस, शोणित.", role="extend",
               teaches="अति- before a noun (अतिस्वेद, अतिस्तम्भ) means 'excessive'."),
-        mcq("discriminate", 3, "By unit 36, what is the sign in limbs that are always warm?",
+        mcq("discriminate", 3, "By unit 36, what is the sign in limbs that are constantly warm?",
             ("They become cold", "सततोष्मसु अंगावयवेषु शैत्यम्: coldness in the always-warm limbs."),
             [("They grow hotter still", "The sign is the reverse: coldness where warmth is normal."),
              ("They turn dark in colour", "No colour is named; the sign is coldness."),
@@ -601,9 +601,8 @@ AUTHORED["37"] = {
     "question": "By unit 37, what last sign is added, and what is said of all the persons in the list?",
     "rule": ("He in whose body a conjunction (योग) or excessive conjunction (अतियोग) of the great elements (महाभूत) is seen "
              "at one time (युगपत्): all those are ripened by time (कालपक्व)."),
-    "limits": ("Prose. योग is kept as literal 'conjunction': what is joined, and whether union or an abnormal combination "
-               "of the elements is meant, is not decided: no question on it. सर्वे ते = the persons described in the list "
-               "(data's note: the list from unit 32 to here); इति closes the list."),
+    "limits": ("Prose. योग is literal 'conjunction'; what is joined, and whether union or abnormal combination is meant, "
+               "is not decided: no question on it. सर्वे ते = the persons of the list (data: units 32 to 37); इति closes it."),
     "explain_hi": ("और जिसके शरीर में महाभूतों का योग या अतियोग एक साथ (युगपत्) दिखाई दे। "
                    "फिर समापन: वे सभी (सर्वे ते) कालपक्व हैं, यानी काल से पके हुए। "
                    "डेटा के अनुसार ‘ते’ सूची में बताए गए व्यक्तियों की ओर लौटता है, और ‘इति’ सूची (इकाई ३२ से यहाँ तक) को बन्द करता है। "

@@ -599,11 +599,11 @@ AUTHORED["23"] = {
 AUTHORED["24"] = {
     "title": "जिह्वा वा जिह्मा",
     "question": "By card 24, which changes of the tongue are listed?",
-    "rule": ("Or the tongue (जिह्वा) crooked (जिह्मा), stiff, numb, coated, heavy (गुर्वी), dark brown, swollen, dry, "
+    "rule": ("Or the tongue (जिह्वा) crooked (जिह्मा), stiff, on a conjectural reading numb, coated, heavy (गुर्वी), dark brown, swollen, dry, "
              "spreading (विसर्पिणी), or as if covered with thorns (कण्टकाचिता इव)."),
     "limits": ("Medium confidence. Printed स्तब्धासुप्ता could give a-suptā (not numb); suptā (numb) is a conjecture: no "
                "question on it. विसर्पिणी means spreading only; it is not read as the disease visarpa. No main clause."),
-    "explain_hi": ("या जीभ (जिह्वा) टेढ़ी (जिह्मा), कड़ी, सुन्न, लिपी हुई, भारी (गुर्वी), श्याव, सूजी, सूखी, फैलने वाली, या मानो काँटों से ढकी हो। "
+    "explain_hi": ("या जीभ (जिह्वा) टेढ़ी (जिह्मा), कड़ी, अनुमानित पाठ पर सुन्न, लिपी हुई, भारी (गुर्वी), श्याव, सूजी, सूखी, फैलने वाली, या मानो काँटों से ढकी हो। "
                    "छपा ‘स्तब्धासुप्ता’ से ‘असुप्ता’ (सुन्न नहीं) भी बन सकता है; ‘सुप्ता’ (सुन्न) अनुमानित पाठ है, इस पर प्रश्न नहीं। "
                    "‘विसर्पिणी’ का अर्थ केवल ‘फैलने वाली’ लिया गया, रोग ‘विसर्प’ नहीं। "
                    "‘गुर्वी’ गुरु का स्त्रीलिंग है, जिह्वा से मेल खाता है; ‘कण्टकाचितेव’ में कण्टकाचिता + इव (आ + इ → ए)।"),
