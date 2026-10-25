@@ -56,12 +56,12 @@ AUTHORED["26"] = {
              ("श्वयथुः + अवा", "That would print श्वयथुरवा, with रवा; the print has र्वा.")],
             "श्वयथुः (swelling) + वा (or).",
             "Visarga after a vowel other than अ/आ, before a voiced sound → र्."),
-        mcq("transfer", 5, "By the pattern of शोफ + अन्ते → शोफान्ते, how is हिम + अन्ते (at the end of winter) joined in a new example?",
-            ("हिमान्ते", "अ + अ → आ: हिम + अन्ते → हिमान्ते, like शोफ + अन्ते → शोफान्ते."),
-            [("हिमेन्ते", "ए comes from अ + इ, not from अ + अ."),
-             ("हिमोन्ते", "ओ comes from अ + उ, not from अ + अ."),
-             ("हिमैन्ते", "ऐ comes from अ + ए, not from अ + अ.")],
-            "हिम + अन्ते = हिमान्ते, like शोफ + अन्ते = शोफान्ते.",
+        mcq("transfer", 5, "By the pattern of शोफ + अन्ते → शोफान्ते, how is वर्ष + अन्ते (at the end of the year) joined in a new example?",
+            ("वर्षान्ते", "अ + अ → आ: वर्ष + अन्ते → वर्षान्ते, like शोफ + अन्ते → शोफान्ते."),
+            [("वर्षेन्ते", "ए comes from अ + इ, not from अ + अ."),
+             ("वर्षोन्ते", "ओ comes from अ + उ, not from अ + अ."),
+             ("वर्षैन्ते", "ऐ comes from अ + ए, not from अ + अ.")],
+            "वर्ष + अन्ते = वर्षान्ते, like शोफ + अन्ते = शोफान्ते.",
             "अ + अ → आ.",
             teaches="Short अ + short अ merge into long आ: शोफ + अन्ते → शोफान्ते (printed शोफांते)."),
     ],
@@ -961,16 +961,12 @@ IMAGE_SPECS = {
     },
     ("34", "diagram"): {
         "file": "sh11-sarvamaya-34.svg",
-        "alt": ("Flowchart of card 34: all diseases kill one whose voice, body-tissues, strength and fire are wasted, by "
+        "alt": ("Chain of card 34: all diseases kill one whose voice, body-tissues, strength and fire are wasted, by "
                 "head disease, distaste for food, breathlessness, meha, loose stool, thirst and giddiness."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"सभी रोग\"] --> B[\"मारते हैं\"]\n"
-                 "  L[\"१ शिरोरोग २ अरुचि ३ श्वास\"] --> B\n"
-                 "  M[\"४ मेह ५ विद्भेद्\"] --> B\n"
-                 "  N[\"६ तृड् ७ भ्रम\"] --> B\n"
-                 "  B --> C[\"क्षीण स्वर, धातु\"]\n"
-                 "  B --> D[\"क्षीण बल, अनल\"]\n"),
+        "type": "chain",
+        "title": "कार्ड ३४: किनसे, कौन, किसे",
+        "steps": ["किनसे (क्रम से): १ शिरोरोग २ अरुचि ३ श्वास ४ मेह", "५ विद्भेद् ६ तृड् ७ भ्रम", "सर्वामयाः घ्नन्ति: सभी रोग मारते हैं",
+                  "किसे: जिसके स्वर, धातु, बल, अनल क्षीण"],
     },
     ("35", "diagram"): {
         "file": "sh11-varjya-35.svg",

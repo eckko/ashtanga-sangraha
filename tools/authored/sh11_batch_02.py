@@ -14,9 +14,9 @@ AUTHORED["14"] = {
     "question": "By card 14, which qualities does line 2 list after अति (very)?",
     "rule": ("Line 2: very (अति) red (रक्त), black (असित), unctuous (स्निग्ध), putrid (पूति), clear (अच्छ), thick (घन), "
              "with pain (वेदन). Line 1 continues card 13's instrumental list: soot (मषी), pus (पूय), honey (माक्षिक) and others."),
-    "limits": ("Continues card 13; the noun described is not stated (the data finds the stool likely): no question on it. "
-               "मस्तुलुङ्ग (brain-matter, probable) rests on a conjecture, and अम्बु and the spelling वेसवार on text flags: no question "
-               "on them. अति may also be a compound member; घनवेदन may mean 'intense pain'."),
+    "limits": ("Continues card 13; the noun described (probably the stool) is not stated. मस्तुलुङ्ग (brain-matter, probable) "
+               "is a conjecture; अम्बु and वेसवार rest on text flags: no question on these. अति may be a compound member; "
+               "घनवेदन may mean 'intense pain'."),
     "explain_hi": ("यह इकाई कार्ड १३ के अतिसार-वर्णन की सूची को आगे बढ़ाती है। "
                    "पहली पंक्ति तृतीया बहुवचन की सूची है: मषी (कालिख), पूय (मवाद), माक्षिक (शहद) आदि; ‘मस्तु लुंग’ को मस्तुलुङ्ग (सम्भवतः मस्तिष्क का पदार्थ) पढ़ना अनुमान है। "
                    "दूसरी पंक्ति गुण गिनाती है: अति (बहुत) लाल, काला, चिकना, सड़ा हुआ, स्वच्छ, घना और पीड़ा वाला। "
@@ -440,9 +440,9 @@ AUTHORED["21"] = {
             "हृल्लास = nausea.",
             "हृल्लास = nausea."),
         match(1, "Match each word of card 21, line 1, to its meaning.",
-              [["ज्वर", "fever"], ["छर्दि", "vomiting"], ["आध्मान", "bloating"], ["रुज्", "pain"], ["अन्वित", "accompanied"]],
-              "ज्वर = fever, छर्दि = vomiting, आध्मान = bloating, रुज् = pain, अन्वित = accompanied.",
-              "ज्वर, छर्दि, आध्मान, रुज्, अन्वित."),
+              [["ज्वर", "fever"], ["छर्दि", "vomiting"], ["हिध्मा", "hiccup"], ["आध्मान", "bloating"], ["अन्वित", "accompanied"]],
+              "ज्वर = fever, छर्दि = vomiting, हिध्मा = hiccup, आध्मान = bloating, अन्वित = accompanied.",
+              "ज्वर, छर्दि, हिध्मा, आध्मान, अन्वित."),
         order(2, "Put the members of the compound in card 21, line 2, in the printed order.",
               ["कास", "पीनस", "हृल्लास", "श्वास", "अतीसार", "शोफ"],
               "Cough, pīnasa, nausea, breathlessness, diarrhoea, swelling; -वान् (having) closes the compound.",
@@ -457,12 +457,12 @@ AUTHORED["21"] = {
             "सिरानद्धः + ज्वर- → सिरानद्धो ज्वर-.",
             "अः + voiced consonant → ओ."),
         mcq("apply", 4, "One word is wrong in this English of card 21, line 1: 'Bound by veins, with fever, vomiting, hiccup, bloating and thirst'. Which?",
-            ("thirst", "The last member is रुज्, pain, not thirst."),
+            ("thirst", "The member before अन्वित means pain, not thirst."),
             [("fever", "ज्वर = fever: this word is right."),
              ("hiccup", "हिध्मा = hiccup: this word is right."),
              ("bloating", "आध्मान = bloating: this word is right.")],
-            "रुज् = pain, not thirst.",
-            "रुज् = pain."),
+            "The last member before अन्वित means pain, not thirst.",
+            "रुजा / रुज् = pain."),
         mcq("transfer", 5, "By the pattern of -शोफवान् (having swelling), what does रूपवान् mean in a new example?",
             ("Having beauty", "-वत् (nom. -वान्) = having: रूप (form, beauty) + वत् = having beauty."),
             [("Without beauty", "Without would need a prefix like निः- or अ-; -वान् means having."),
@@ -515,7 +515,7 @@ AUTHORED["22"] = {
         mcq("apply", 4, "Why is अतिसारैः printed अतिसारैश् before च in card 22?",
             ("ः before च or छ becomes श्", "A visarga before च or छ becomes श्: अतिसारैः + च → अतिसारैश्च."),
             [("ः before any consonant → श्", "Not any: before त it gives स् (मेहस्त-, card 18)."),
-             ("ः before च simply drops", "It does not drop; it turns into श्."),
+             ("ः before च is dropped", "It is not dropped; it turns into श्."),
              ("ः before च becomes स्", "स् comes before त or थ, not before च.")],
             "अतिसारैः + च → अतिसारैश्च.",
             "ः + च/छ → श्."),
@@ -736,7 +736,7 @@ NOTES_HI = {
            "सन्धि जाँची: पृथुपरीणाहः + घनः → पृथुपरीणाहो घनः (अः + घोष व्यंजन → ओ); कूर्मः + इव → कूर्म इव (अः + अ से भिन्न स्वर → अ); इव + उन्नतः → इवोन्नतः (अ + उ → ओ)।"),
     "21": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.३८ और ०२.११.३९); कोई पाठ-चिह्न नहीं। डेटा इसे कार्ड २० के गुल्म का वर्णन मानता है (प्रथमा)। "
            "सिरा = नस या वाहिका (सम्भावित); पीनस = पुराना जुकाम (सम्भावित)। ‘हिध्माऽध्मान’ में ऽ छपाई की आदत (आ + आ → आ)। "
-           "सन्धि जाँची: सिरानद्धः + ज्वर- → सिरानद्धो ज्वर- (अः + घोष व्यंजन → ओ); रुज् + अन्वितः → रुजान्वितः नहीं, छपा रूप ‘रुजान्वितः’ रुजा + अन्वितः भी पढ़ा जा सकता है; इस पर प्रश्न नहीं।"),
+           "सन्धि जाँची: सिरानद्धः + ज्वर- → सिरानद्धो ज्वर- (अः + घोष व्यंजन → ओ); डेटा पीड़ा के लिए ‘रुज्’ देता है, पर छपा ‘रुजान्वितः’ रुजा + अन्वितः (आ + अ → आ) से बनता है (रुज् + अन्वितः से ‘रुजन्वितः’ होता); इस सन्धि पर प्रश्न नहीं।"),
     "22": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४० और ०२.११.४१); कोई पाठ-चिह्न नहीं। डेटा के अनुसार वाक्य कार्ड २१ से चलकर यहाँ ‘हन्ति’ पर पूरा होता है; "
            "‘हन्ति’ कार्ड ४ (छपी पंक्ति ४) के ‘निहन्ति’ से मेल खाता है। जठर = पेट; यहाँ पेट का रोग, सम्भवतः जलोदर प्रकार (सम्भावित)। "
            "छपा ‘हंति’ = हन्ति, ‘दुर्बलं’ = दुर्बलम्। ‘विण्मूत्र’ = विट् + मूत्र (ट् अनुनासिक से पहले विकल्प से ण्; इस पर प्रश्न नहीं)। "
@@ -750,7 +750,7 @@ NOTES_HI = {
            "‘मूर्च्छाऽध्मान’ में ऽ छपाई की आदत; ‘च्छर्द्दि’ में द्द छपाई की वर्तनी। "
            "सन्धि जाँची: दाह + अरुचि → दाहारुचि (अ + अ → आ); अरुचि + छर्दि → अरुचिच्छर्दि (ह्रस्व स्वर के बाद छ → च्छ); मूर्च्छा + आध्मान → मूर्च्छाध्मान (आ + आ → आ)।"),
     "25": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४६ और ०२.११.४७); कोई पाठ-चिह्न नहीं। ‘प्रसृतम्’ नरम् से मेल खाता है, पर क्या फैला, छपा नहीं; "
-           "डेटा शोफ को सम्भावित कर्ता मानता है (अनुमान)। ‘पादाभ्याम्’ पञ्चमी या तृतीया द्विवचन हो सकता है; ‘से’ लिया गया, विभक्ति पर प्रश्न नहीं। "
+           "डेटा शोफ को सम्भावित कर्ता मानता है (अनुमान)। ‘पादाभ्याम्’ पञ्चमी, तृतीया (या चतुर्थी) द्विवचन हो सकता है; ‘से’ लिया गया, विभक्ति पर प्रश्न नहीं। "
            "‘उभौ’ सम्भवतः नर और नारी (अनुमान)। ‘मुखात्’ शब्दशः ‘मुख/चेहरे से’। ‘हन्ति’ संस्कृत में एक बार। "
            "सन्धि जाँची: अनेक + उपद्रव → अनेकोपद्रव (अ + उ → ओ); मुखात् + हन्ति → मुखाद्धन्ति (त् → द्, ह विकल्प से ध; मुखाद्हन्ति भी मान्य); "
            "कुक्षिगुह्यात् + उभौ → -गुह्यादुभौ (स्वर से पहले त् → द्); उभौ + अपि → उभावपि (औ + स्वर → आव्)।"),
