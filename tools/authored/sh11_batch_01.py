@@ -94,7 +94,7 @@ AUTHORED["2"] = {
               "करज, रदन, उदर, सिरा, गुदग्रह, घुर्घुरक."),
         order(2, "Put these sure parts of card 2 in the printed order.",
               ["हेतुप्राग्रूपरूपैः", "करजरदनेषु पुष्पाणि", "नेत्रोपदेहः", "श्लेष्मा नीलपीतलोहितः", "कण्ठे घुर्घुरकम्", "स परासुः"],
-              "Causes and signs to excess; flowers on nails and teeth; coating on the eyes; coloured phlegm; gurgling in the throat; he is parāsu.",
+              "Causes and signs to excess; flowers on nails and teeth; coating on the eyes; śleṣman (Kapha) blue, yellow, red; gurgling in the throat; he is parāsu.",
               "हेतुप्राग्रूपरूपैः → करजरदनेषु पुष्पाणि → नेत्रोपदेहः → श्लेष्मा नीलपीतलोहितः → कण्ठे घुर्घुरकम् → स परासुः.",
               role="extend",
               teaches="Many यस्य (whose) clauses can share one closing main clause: here स परासुः ends them all."),
@@ -302,13 +302,13 @@ AUTHORED["5"] = {
 AUTHORED["6"] = {
     "title": "बलमांसविहीनस्य",
     "question": "By card 6, whom does the line describe, and which colours of raktapitta does it name?",
-    "rule": ("Of one deprived of strength and flesh, with phlegm-cough (श्लेष्मकास); then raktapitta (a bleeding disorder, "
-             "probably): very red, black, with the lustre of the rainbow (Indra's bow)."),
+    "rule": ("Of one deprived of strength and flesh, with a śleṣman (Kapha) cough (श्लेष्मकास); then raktapitta (a bleeding "
+             "disorder, probably): red (भृशम्, very, may go with it), black, with the lustre of the rainbow (Indra's bow)."),
     "limits": ("Medium confidence; printed lines 8, 9. Whether समन्वितः goes with card 5's cough or the person, and whether "
                "भृशम् goes with रक्तम्, are open: no question on either. Printed इद्र- is read इन्द्र-: no question on it. "
                "The discharge is not named."),
     "explain_hi": ("पहली पंक्ति: बल और मांस से रहित व्यक्ति का, श्लेष्मकास (कफ वाली खाँसी) से युक्त; ‘समन्वितः’ कार्ड ५ की सूखी खाँसी से जुड़ता है या व्यक्ति से, यह खुला है। "
-                   "दूसरी पंक्ति: रक्तपित्त (सम्भवतः रक्तस्राव का रोग), बहुत लाल, काला, इन्द्रधनुष की आभा वाला। "
+                   "दूसरी पंक्ति: रक्तपित्त (सम्भवतः रक्तस्राव का रोग), लाल (भृशम् ‘बहुत’ सम्भवतः इसी के साथ), काला, इन्द्रधनुष की आभा वाला। "
                    "ये रंग निकलने वाले रक्त के लगते हैं, पर रक्त का नाम इस पंक्ति में छपा नहीं। "
                    "छपा ‘इद्र’ = इन्द्र (अनुस्वार छूटा)। "
                    "‘श्लेष्मन्’ समास के पहले पद में अपना न् खोकर ‘श्लेष्म-’ बनता है।"),
@@ -328,18 +328,18 @@ AUTHORED["6"] = {
               "बल = strength, मांस = flesh, विहीन = deprived of, भृशम् = very, कृष्ण = black.",
               "बल, मांस, विहीन, भृशम्, कृष्ण."),
         order(2, "Put these words of card 6 in the printed order.",
-              ["बलमांसविहीनस्य", "श्लेष्मकाससमन्वितः", "रक्तपित्तं", "भृशं रक्तं", "कृष्णम्"],
-              "Of one without strength and flesh; with phlegm-cough; raktapitta; very red; black.",
-              "बलमांसविहीनस्य → श्लेष्मकाससमन्वितः → रक्तपित्तं → भृशं रक्तं → कृष्णम्.",
+              ["बलमांसविहीनस्य", "श्लेष्मकाससमन्वितः", "रक्तपित्तं", "भृशं", "रक्तं", "कृष्णम्"],
+              "Of one without strength and flesh; with a śleṣman (Kapha) cough; raktapitta; very (भृशम्); red; black.",
+              "बलमांसविहीनस्य → श्लेष्मकाससमन्वितः → रक्तपित्तं → भृशं → रक्तं → कृष्णम्.",
               role="extend",
-              teaches="Line 1 describes the person (genitive) and the phlegm-cough; line 2 opens a new head word, रक्तपित्तम्, with its colours."),
+              teaches="Line 1 describes the person (genitive) and the śleṣman (Kapha) cough; line 2 opens a new head word, रक्तपित्तम्, with its colours."),
         multi("discriminate", 3, "Which colours does card 6 name for the raktapitta?",
               [("शुक्लम् (white)", "No: white is not named in card 6."),
-               ("रक्तम् (red)", "Yes: भृशं रक्तम्, very red."),
-               ("नीलम् (blue)", "No: blue is not named for the raktapitta."),
+               ("रक्तम् (red)", "Yes: रक्तम्, red (भृशम्, very, stands before it)."),
+               ("भस्मवर्णम् (ash-coloured)", "No: ash colour is not named in card 6."),
                ("कृष्णम् (black)", "Yes: कृष्णम्, black.")],
               [1, 3],
-              "Card 6 names very red, black, and the lustre of the rainbow.",
+              "Card 6 names red, black, and the lustre of the rainbow.",
               "भृशं रक्तं, कृष्णम्, इन्द्रधनुःप्रभम्."),
         mcq("apply", 4, "Why is श्लेष्मन् written श्लेष्म- in श्लेष्मकास of card 6?",
             ("Stems in -अन् lose न् in a compound", "As a compound's first member, श्लेष्मन् drops its final न्: श्लेष्म-कास."),
@@ -569,12 +569,12 @@ AUTHORED["10"] = {
                ["गन्धि", "smelling of"]],
               "छर्दि = vomiting, वेगवती = forceful, मूत्र = urine, शकृत् = faeces, गन्धि = smelling of.",
               "छर्दि, वेगवती, मूत्र, शकृत्, गन्धि."),
-        order(2, "Put the words of line 1 of card 10 in the printed order.",
-              ["छर्दिः", "वेगवती", "मूत्रशकृद्गन्धिः", "सचन्द्रिका"],
-              "Vomiting; forceful; smelling of urine and faeces; with candrikā.",
-              "छर्दिः → वेगवती → मूत्रशकृद्गन्धिः → सचन्द्रिका.",
+        order(2, "Put these sure parts of line 1 of card 10 in the printed order.",
+              ["छर्दिः", "वेगवती", "मूत्र", "शकृत्", "गन्धिः"],
+              "Vomiting; forceful; urine; faeces; smelling of.",
+              "छर्दिः → वेगवती → मूत्र → शकृत् → गन्धिः.",
               role="extend",
-              teaches="Line 1 is a noun with three qualities, each feminine to agree with छर्दिः."),
+              teaches="Line 1 is the feminine noun छर्दिः with its qualities; मूत्रशकृद्गन्धिः is one compound: smelling of urine and faeces."),
         mcq("discriminate", 3, "Why is शकृत् printed शकृद् before गन्धिः in card 10?",
             ("त् before voiced ग → द्", "ग is voiced, so त् becomes voiced द्: शकृद्गन्धिः."),
             [("त् before any consonant → द्", "Not any: before a voiceless one it stays त्, as in यकृत्पिण्ड- (card 13)."),
@@ -694,13 +694,13 @@ AUTHORED["12"] = {
               "पाणि → पद् → नाभि → गुद → मुष्क → आस्य.",
               role="extend",
               teaches="The swelling sites run through one dvandva ending in -शोफिन् (having swelling)."),
-        mcq("discriminate", 3, "Which split of पाणिपन्नाभि- in card 12 is right?",
-            ("पाणि + पद् + नाभि", "द् before the nasal न may become न्: पद् + नाभि → पन्नाभि (पद्नाभि is also correct)."),
-            [("पाणि + पन्न + अभि", "अभि is a prefix, not a body part; the list names नाभि (navel)."),
-             ("पाणिप + नाभि", "पाणिप is not a word; पाणि and पद् are two members."),
-             ("पा + णिपन् + नाभि", "Neither पा nor णिपन् is a member of this list.")],
-            "पाणि (hand) + पद् (foot) + नाभि (navel).",
-            "द् + न → न्न (optional; द्न also correct)."),
+        mcq("discriminate", 3, "By card 12, which swelling site comes right after नाभि (navel) in line 1?",
+            ("गुद (anus)", "पाणि, पद्, नाभि, गुद, मुष्क, आस्य: गुद follows नाभि."),
+            [("पद् (foot)", "पद् comes before नाभि, not after it."),
+             ("मुष्क (testicle)", "मुष्क comes after गुद, not right after नाभि."),
+             ("पाणि (hand)", "पाणि opens the list.")],
+            "पाणि → पद् → नाभि → गुद → मुष्क → आस्य.",
+            "नाभि → गुद."),
         mcq("apply", 4, "Why is हृद् (heart) printed हृत् before पार्श्व in card 12?",
             ("द् before a voiceless प → त्", "प is voiceless, so the voiced द् becomes voiceless त्: हृत्पार्श्व-."),
             [("द् before any consonant → त्", "Not any: before the nasal न of नाभि the same card shows न् (पन्नाभि)."),
@@ -722,7 +722,7 @@ AUTHORED["12"] = {
 # ---------------------------------------------------------------- unit 13
 AUTHORED["13"] = {
     "title": "अतीसारो यकृत्पिंड",
-    "question": "By card 13, with what is the diarrhoea described, and to what is it said to be similar?",
+    "question": "By card 13, which three things does line 1 name in the instrumental, and to what is the diarrhoea said to be similar?",
     "rule": ("Diarrhoea (अतीसारः): with (or like) liver-lumps, meat-washings and dark ones (मेचक); similar (तुल्यः) to oil, ghee, "
              "milk, curd, marrow, fat and āsava (a fermented liquor)."),
     "limits": ("Medium confidence; printed lines 22 and 23. Whether the instrumentals of line 1 mean 'with' or are completed by "
@@ -817,7 +817,7 @@ NOTES_HI = {
           "सन्धि जाँची: वाससः + र- → वाससो र- (अः घोष व्यंजन से पहले → ओ); वेगवत् + च → वेगवच्च (च से पहले त् → च्); च + अति- → चाति- (अ + अ → आ); "
           "ज्वर + छर्दि → ज्वरच्छर्दि (ह्रस्व स्वर के बाद छ → च्छ)।"),
     "9": ("श्लोक-इकाई; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.१४ और ०२.११.१५); कोई पाठ-चिह्न नहीं। अपूर्ण वाक्य: प्रथमा कर्ता, द्वितीया कर्म, क्रिया (निहन्ति) कार्ड ४ से चली आती है। "
-          "छपा ‘अतीसार’ (दीर्घ ई) वैसा ही रखा गया। अन्तिम पद ‘असंतापिन्’ (ताप से रहित) शब्दशः पढ़ा गया; मारक लक्षणों की सूची में इसका अर्थ स्पष्ट नहीं, इसलिए उस पर प्रश्न नहीं। "
+          "छपा ‘अतीसार’ (दीर्घ ई) वैसा ही रखा गया। अन्तिम पद ‘असंतापिन्’ (ताप से रहित) शब्दशः पढ़ा गया; अशुभ लक्षणों की सूची में इसका अर्थ स्पष्ट नहीं, इसलिए उस पर प्रश्न नहीं। "
           "यक्ष्मन् = सम्भवतः क्षय रोग (सम्भावित)। आनाह = पेट का तनाव। "
           "सन्धि जाँची: तृष्णा + अतीसार → तृष्णातीसार (आ + अ → आ); छर्दि + असंतापिनम् → छर्द्यसंतापिनम् (इ + अ → य)।"),
     "10": ("गद्य; विश्वास कम; दो छपी पंक्तियाँ (०२.११.१६ और ०२.११.१७); डेटा इसे गद्य मानता है। "
@@ -855,7 +855,7 @@ AIDS = {
                        "५ क्षीण: भूख या प्यास अन्न-पान से शान्त न हो", "६ झाग सहित रक्त; कुक्षि और छाती में शूल",
                        "७ श्लेष्मा नीला, पीला, लाल, बार-बार", "८ गर्दन का अवमर्द, जीभ सूखे, कण्ठ-मुख-गुदा का पाक",
                        "९ आमाशय से परिकर्तिका, अति प्यास, शकृद्भेद", "१० पक्वाशय से परिकर्तिका, अति प्यास, अति गुदग्रह",
-                       "११ वायु चेतना नष्ट कर कण्ठ में घुरघुरक करे", "१२ क्षीण: प्यास बढ़े, हृदय-शूल, हिध्मा आदि"]},
+                       "११ वायु चेतना नष्ट कर कण्ठ में घुरघुरक करे", "१२ (छपा ‘क्षणिस्य’) प्यास बढ़े, हृदय-शूल, हिध्मा आदि"]},
             {"label": "सब का फल", "items": ["स परासुः: वह परासु है"]}]},
         "contrast": ("आमाशय (सम्भवतः जठर) से उठी परिकर्तिका: अति प्यास + शकृद्भेद (मल का टूटना) ⇄ पक्वाशय (सम्भवतः बड़ी आँत) से उठी "
                      "परिकर्तिका: अति प्यास + अत्यधिक गुदग्रह। दोनों इसी इकाई में।"),
@@ -891,7 +891,7 @@ AIDS = {
     "7": {
         "chunks": "ताम्रहारिद्रहरितं रूपं | रक्तं दर्शयेत् || रोमकूपप्रविसृतं | कंठास्यहृदये सजतं",
         "letters": "हरिद्रा → हारिद्र: पहला अ आ बना (वृद्धि), अर्थ ‘हल्दी के रंग का’; पृथिवी → पार्थिव भी ऐसा ही।",
-        "frame": "रंग: ताम्र, हारिद्र, हरित, रक्त → क्रिया: दर्शयेत् (दिखाए) → कहाँ से: रोमकूप → फिर: कण्ठ, मुख, हृदय (अन्तिम शब्द अस्पष्ट)।",
+        "frame": "रंग: ताम्र, हारिद्र, हरित, रक्त (लाल, या संज्ञा ‘रक्त’: खुला) → क्रिया: दर्शयेत् (दिखाए) → कहाँ से: रोमकूप → फिर: कण्ठ, मुख, हृदय (अन्तिम शब्द अस्पष्ट)।",
     },
     "8": {
         "diagram": {"groups": [
@@ -950,14 +950,15 @@ AIDS = {
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "sh11-parasu-2.svg",
-        "alt": ("Numbered table of card 2: twelve alternative signs, each opened by yasya, in printed order (disease with all "
-                "causes and signs to excess; face marks; flowers on nails and teeth and veins on the belly; eye coating and "
-                "swellings; unappeased hunger or thirst; frothy blood; coloured phlegm; neck, tongue, throat signs; parikartikā "
-                "of āmāśaya; of pakvāśaya; gurgling in the throat; thirst and heart pain), all closing in sa parāsuḥ."),
+        "alt": ("Numbered table of card 2: the alternative signs, in printed order, in twelve rows (rows 2 and 3 are one yasya "
+                "clause joined by vā): disease with all causes and signs to excess; face marks (probable identifications); flowers "
+                "on nails and teeth and veins on the belly; eye coating and swellings; unappeased hunger or thirst; frothy blood; "
+                "śleṣman (Kapha) blue, yellow, red; neck, tongue, throat signs; parikartikā of āmāśaya; of pakvāśaya; gurgling in "
+                "the throat; thirst and heart pain; all closing in sa parāsuḥ."),
         "type": "table",
         "title": "कार्ड २: ‘यस्य’ लक्षण → स परासुः",
         "heads": ["क्रम", "लक्षण"],
-        "rows": [["१", "रोग सब हेतु, पूर्वरूप, रूप सहित अत्यधिक"], ["२", "मुख पर पिप्लु, व्यंग, लेखा, तिलकालक"],
+        "rows": [["१", "रोग सब हेतु, पूर्वरूप, रूप सहित अत्यधिक"], ["२", "मुख पर पिप्लु, व्यंग, लेखा, तिलकालक (सम्भावित)"],
                  ["३", "नख-दाँत पर पुष्प; पेट पर अनेक रंग की सिराएँ"], ["४", "नेत्रोपदेह; पलक या नाक की सूजन"],
                  ["५", "भूख-प्यास अन्न-पान से शान्त न हो"], ["६", "झाग सहित रक्त; कुक्षि, छाती में शूल"],
                  ["७", "श्लेष्मा नीला, पीला, लाल"], ["८", "गर्दन का अवमर्द, जीभ सूखे, पाक"],
