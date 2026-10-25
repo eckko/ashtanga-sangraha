@@ -854,8 +854,8 @@ IMAGE_SPECS = {
         "alt": ("Chart of the 900 snāyus of unit 144 as the data's check divides them: limbs 600 (unit 145), trunk 230 (unit 146), above 70 (unit 147)."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  T[\"नौ सौ स्नायुओं का बँटवारा\"] --> A[\"शाखाएँ ६००\"]\n"
-                 "  T --> B[\"अन्तराधि (धड़) २३०\"]\n"
+                 "  T[\"नौ सौ स्नायुओं<br/>का बँटवारा\"] --> A[\"शाखाएँ ६००\"]\n"
+                 "  T --> B[\"अन्तराधि (धड़)<br/>२३०\"]\n"
                  "  T --> C[\"ऊर्ध्व ७०\"]\n"),
     },
     ("148", "chain"): {
