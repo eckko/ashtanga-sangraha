@@ -922,13 +922,13 @@ IMAGE_SPECS = {
     },
     ("41", "chain"): {
         "file": "sh9-pitta-marana-41.svg",
-        "alt": ("Flowchart of card 41: three signs, greenish veins, closed hair pores and craving the sour, lead to "
+        "alt": ("Table of card 41: three signs, 1 greenish veins, 2 closed hair pores, 3 craving the sour; result: "
                 "death from Pitta."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"१ हरी-सी आभा वाली सिराएँ\"] --> D[\"पित्त से मृत्यु\"]\n"
-                 "  B[\"२ रोमकूप बन्द\"] --> D\n"
-                 "  C[\"३ खट्टे की इच्छा\"] --> D\n"),
+        "type": "table",
+        "title": "कार्ड ४१: पित्त से मृत्यु",
+        "heads": ["क्रम", "लक्षण"],
+        "rows": [["१", "हरी-सी आभा वाली सिराएँ"], ["२", "रोमकूप बन्द"], ["३", "खट्टे की इच्छा"],
+                 ["फल", "पित्त से मृत्यु"]],
     },
     ("45", "seesaw"): {
         "file": "sh9-ura-jathara-45.svg",
@@ -961,14 +961,13 @@ IMAGE_SPECS = {
     },
     ("49", "diagram"): {
         "file": "sh9-parivarjana-49.svg",
-        "alt": ("Flowchart of card 49 in printed order: upward breath, warmth gone, groins afflicted by pain, no comfort "
-                "found: the intelligent one should avoid such a person."),
-        "type": "mermaid",
-        "code": ("flowchart TD\n"
-                 "  A[\"१ ऊपर की साँस\"] --> E[\"बुद्धिमान् त्याग दे\"]\n"
-                 "  B[\"२ गर्मी चली गई\"] --> E\n"
-                 "  C[\"३ वंक्षण में शूल\"] --> E\n"
-                 "  D[\"४ सुख न पाए\"] --> E\n"),
+        "alt": ("Table of card 49 in printed order: 1 upward breath, 2 warmth gone, 3 pain in the groins, 4 no comfort "
+                "found; then the intelligent one should avoid such a person."),
+        "type": "table",
+        "title": "कार्ड ४९: बुद्धिमान् त्याग दे",
+        "heads": ["क्रम", "लक्षण"],
+        "rows": [["१", "ऊपर की साँस"], ["२", "गर्मी चली गई"], ["३", "वंक्षण में शूल"], ["४", "सुख न पाए"],
+                 ["तब", "बुद्धिमान् त्याग दे"]],
     },
     ("51", "chain"): {
         "file": "sh9-rajju-chaya-51.svg",
