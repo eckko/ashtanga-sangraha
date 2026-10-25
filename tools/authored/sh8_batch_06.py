@@ -21,8 +21,8 @@ AUTHORED["63"] = {
                    "डेटा के अनुसार ‘दोनों’ इकाई ६२ के दो अनुमान हैं: बड़े शरीर से ‘यह बलवान है’ और कृश या छोटे शरीर से ‘यह अल्पबल है’। "
                    "यानी केवल शरीर का आकार देखकर बल का अनुमान गलत भी निकल सकता है। "
                    "हाथी और सिंह में कौन-सा अनुमान किस प्रकार उलटा दिखता है, यह पाठ नहीं बताता, इसलिए उस पर कोई प्रश्न नहीं। "
-                   "‘गजसिंहे’ द्वन्द्व समास का सप्तमी एकवचन है: हाथी और सिंह में।"),
-    "hook": "गज बड़ा, सिंह छोटा: आकार से बल का अनुमान डगमगा जाता है।",
+                   "डेटा ‘गजसिंहे’ को द्वन्द्व समास का सप्तमी एकवचन पढ़ता है: हाथी और सिंह में।"),
+    "hook": "गज और सिंह: केवल आकार से बल का अनुमान सदा ठीक नहीं।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 63, what does अन्यथा mean?",
@@ -41,7 +41,7 @@ AUTHORED["63"] = {
                ["सिंह", "lion"]],
               "उभय = both, अन्यथा = otherwise, दृष्ट = seen, गज = elephant, सिंह = lion.",
               "उभय, अन्यथा, दृष्ट, गज, सिंह.", role="extend",
-              teaches="गजसिंहे is the locative singular of the dvandva गज-सिंह: 'in the elephant and the lion'."),
+              teaches="गजसिंहे is read (data) as the locative singular of the dvandva गज-सिंह: 'in the elephant and the lion'."),
         mcq("discriminate", 3, "Which split of तच्चोभयमप्यन्यथा in unit 63 is right?",
             ("तत् + च + उभयम् + अपि + अन्यथा", "त् before च → च्; अ + उ → ओ; इ before a different vowel → य्."),
             [("तच् + च + उभयम् + अपि + अन्यथा", "तच् is not a word; the च् comes from तत् before च."),
@@ -267,19 +267,18 @@ AUTHORED["67"] = {
             ("The second toe", "प्रदेशिनी (the pointing one) applied to the foot = the second toe (standard)."),
             [("The little toe", "The little toe is among the other three, which are not named."),
              ("The big toe", "The big toe is the अङ्गुष्ठ, named beside it."),
-             ("The heel's end", "The heel is the पाष्णि (unit 68), not a toe.")],
+             ("The heel's end", "The heel is not a toe; प्रदेशिनी names a toe.")],
             "पाद-अङ्गुष्ठ-प्रदेशिन्यौ = the big toe and the second toe of the foot.",
             "प्रदेशिनी (foot) = second toe."),
         order(1, "Put the phrases of unit 67 in the printed order.",
-              ["पादाङ्गुष्ठप्रदेशिन्यौ", "द्व्यङ्गुलायते", "तिस्रः अन्याः", "क्रमेण उत्तरोत्तरम्",
-               "पञ्चमभागहीनाः", "तन्नखहीनाः वा"],
-              "The big toe and second toe; two aṅgulas long; the other three; in order, each successive; less by a fifth part; or less by their nail.",
-              "Which toes → length → the other three → in order → less by a fifth → or by the nail."),
+              ["पादाङ्गुष्ठप्रदेशिन्यौ", "द्व्यङ्गुलायते", "तिस्रः अन्याः", "क्रमेण उत्तरोत्तरम्"],
+              "The big toe and second toe; two aṅgulas long; the other three; in order, each successive.",
+              "Which toes → length → the other three → in order."),
         match(2, "Match each word of unit 67 to its meaning.",
-              [["अङ्गुष्ठ", "big toe"], ["प्रदेशिनी", "second toe"], ["आयत", "long"], ["हीन", "less by, diminished"],
+              [["अङ्गुष्ठ", "big toe"], ["प्रदेशिनी", "second toe"], ["आयत", "long"], ["तिस्रः", "three"],
                ["उत्तरोत्तरम्", "each successive one"]],
-              "अङ्गुष्ठ = big toe, प्रदेशिनी = second toe, आयत = long, हीन = diminished, उत्तरोत्तरम् = each successive one.",
-              "अङ्गुष्ठ, प्रदेशिनी, आयत, हीन, उत्तरोत्तरम्.", role="extend",
+              "अङ्गुष्ठ = big toe, प्रदेशिनी = second toe, आयत = long, तिस्रः = three, उत्तरोत्तरम् = each successive one.",
+              "अङ्गुष्ठ, प्रदेशिनी, आयत, तिस्रः, उत्तरोत्तरम्.", role="extend",
               teaches="द्व्यङ्गुलायते is feminine dual: it agrees with the two toes, प्रदेशिन्यौ."),
         mcq("discriminate", 3, "By unit 67, how long are the big toe and the second toe of the foot?",
             ("Two aṅgulas long", "द्व्यङ्गुलायते: two aṅgulas long."),
@@ -288,13 +287,13 @@ AUTHORED["67"] = {
              ("One aṅgula long", "द्वि = two: द्व्यङ्गुल, two aṅgulas.")],
             "द्वि (two) + अङ्गुल + आयत (long).",
             "द्व्यङ्गुलायते = two aṅgulas long."),
-        mcq("apply", 4, "By unit 67, what two ways of reducing are given for the other three toes?",
-            ("Less by a fifth, or less by their nail", "पञ्चमभागहीनाः ... तन्नखहीनाः वा: by a fifth part, or by their nail."),
-            [("Less by a half, or less by a quarter", "No half or quarter is named; the line says a fifth or the nail."),
-             ("More by a fifth, or more by a nail", "हीन means less, not more."),
-             ("Each equal to the big toe's length", "They are less, in order: पञ्चमभागहीनाः.")],
-            "पञ्चम-भाग-हीनाः (less by a fifth part) or तत्-नख-हीनाः (less by their nail).",
-            "हीन = less by."),
+        mcq("apply", 4, "In unit 67, what does तिस्रः अन्याः (the other three) refer to?",
+            ("The other toes, unnamed", "तिस्रः अन्याः: the three toes after the big toe and the second toe; the text does not name them."),
+            [("The prapada, sole and heel", "Those three parts come in unit 68, not here."),
+             ("Three fingers of the hand", "The line speaks of the foot: पादाङ्गुष्ठप्रदेशिन्यौ."),
+             ("The ankles and the shank", "Those are named in unit 69, not here.")],
+            "तिस्रः (three, f.) अन्याः (other, f.): the remaining three toes, not named.",
+            "तिस्रः अन्याः = the other three (toes)."),
         mcq("transfer", 5, "By the pattern of तिस्रः + अन्याः → तिस्रोऽन्याः, how is रामः + अत्र (Rāma here) joined in a new example?",
             ("रामोऽत्र", "अः + अ → ओ, and the अ is marked by ऽ: रामोऽत्र."),
             [("रामात्र", "अ + अ → आ holds for two vowels; here a visarga stands between."),
@@ -313,32 +312,31 @@ AUTHORED["68"] = {
     "rule": ("The prapada (front of the foot), the sole (पादतल) and the heel (पाष्णि) are separately four aṅgulas long "
              "and six, five and four aṅgulas broad; the foot is exactly fourteen in length and fourteen in girth."),
     "limits": ("Prose. Which part has which breadth (six, five, four) follows the order only by the natural reading: "
-               "no question pairs a breadth with a part. That four + four + four + two make fourteen is the data's "
-               "observation, not the text's. 'aṅgula' is understood after the bare numerals."),
+               "no question pairs a breadth with a part. The text gives no sum of the parts; the card adds none. "
+               "The printed पाष्ण्यः is an unusual form: no question rests on it. 'aṅgula' is understood after the bare numerals."),
     "explain_hi": ("प्रपद (पैर का अगला भाग), पादतल (तलवा) और पाष्णि (एड़ी) अलग-अलग (पृथक्) चार अंगुल लम्बे हैं। "
                    "वे छः, पाँच और चार अंगुल चौड़े हैं; कौन-सा भाग कितना चौड़ा, यह जोड़ी केवल क्रम से स्वाभाविक पाठ है, छपी नहीं। "
-                   "पूरा पैर (पादः) लम्बाई में चौदह ही (चतुर्दश एव) और घेरे (परिणाह) में भी चौदह ही है; अंक के बाद ‘अंगुल’ समझा जाता है। "
-                   "डेटा देखता है कि तीन भागों के चार-चार और अँगूठे के दो (इकाई ६७) मिलकर चौदह होते हैं; यह केवल अवलोकन है।"),
+                   "पूरा पैर (पादः) लम्बाई में चौदह ही (चतुर्दश एव) और घेरे (परिणाह) में भी चौदह ही है; अंक के बाद ‘अंगुल’ समझा जाता है।"),
     "hook": "आगे, बीच, एड़ी: चार-चार लम्बे; पूरा पैर चौदह लम्बा, चौदह घेरा।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "In unit 68, what is the पाष्णि?",
-            ("The heel", "पाष्णि = heel (standard)."),
-            [("The big toe", "The big toe is the अङ्गुष्ठ (unit 67)."),
-             ("The ankle", "The ankle is the गुल्फ (unit 69)."),
-             ("The knee", "The knee is the जानु (unit 72).")],
-            "प्रपद = front of the foot, पादतल = sole, पाष्णि = heel.",
-            "पाष्णि = heel."),
+        mcq("pretest", 0, "In unit 68, what is the प्रपद?",
+            ("The front of the foot", "प्रपद = forepart of the foot (standard)."),
+            [("The sole of the foot", "The sole is the पादतल, named beside it."),
+             ("The ankle above the foot", "The ankle is the गुल्फ (unit 69)."),
+             ("The cap of the knee", "The knee is the जानु (unit 72); no kneecap is named.")],
+            "प्रपद = front of the foot, पादतल = sole.",
+            "प्रपद = front of the foot."),
         order(1, "Put the phrases of unit 68 in the printed order.",
               ["चतुरङ्गुलायताः", "पृथक्", "प्रपदपादतलपाष्ण्यः", "षट्पञ्चचतुरङ्गुलविस्तृताः", "चतुर्दश एव आयामेन",
                "पादः चतुर्दश एव परिणाहेन"],
               "Four aṅgulas long; separately; the prapada, sole and heel; six, five, four broad; fourteen in length; the foot fourteen in girth.",
               "Length → separately → the parts → breadths → foot's length → foot's girth."),
         match(2, "Match each word of unit 68 to its meaning.",
-              [["प्रपद", "front of the foot"], ["पादतल", "sole"], ["पाष्णि", "heel"], ["आयाम", "length"],
+              [["प्रपद", "front of the foot"], ["पादतल", "sole"], ["पृथक्", "separately"], ["आयाम", "length"],
                ["परिणाह", "girth"]],
-              "प्रपद = front of the foot, पादतल = sole, पाष्णि = heel, आयाम = length, परिणाह = girth.",
-              "प्रपद, पादतल, पाष्णि, आयाम, परिणाह.", role="extend",
+              "प्रपद = front of the foot, पादतल = sole, पृथक् = separately, आयाम = length, परिणाह = girth.",
+              "प्रपद, पादतल, पृथक्, आयाम, परिणाह.", role="extend",
               teaches="आयाम (length), विस्तृत / विस्तार (breadth) and परिणाह (girth) name the three measures used in these units."),
         mcq("discriminate", 3, "By unit 68, what are the length and the girth of the whole foot?",
             ("Fourteen and fourteen", "चतुर्दशैवायामेन पादश्चतुर्दशैव परिणाहेन: fourteen in length, fourteen in girth."),
@@ -368,7 +366,7 @@ AUTHORED["68"] = {
 # ---------------------------------------------------------------- unit 69
 AUTHORED["69"] = {
     "title": "तथा गुल्फौ जंघामध्यंच",
-    "question": "By unit 69, which parts are named, and what is missing from the line?",
+    "question": "By unit 69, which parts are named after तथा (likewise)?",
     "rule": ("Likewise (तथा) the two ankles (गुल्फौ) and the middle of the shank (जङ्घामध्यम्). No measure and no verb "
              "are printed; both are carried from the context."),
     "limits": ("Elliptical prose. Which measure applies is not stated: तथा may carry one from unit 68, or a "
@@ -378,13 +376,13 @@ AUTHORED["69"] = {
                    "यहाँ जंघा = घुटने से टखने तक की टाँग; हिन्दी की ‘जाँघ’ नहीं, जाँघ के लिए पाठ ‘ऊरु’ कहता है। "
                    "इस पंक्ति में न कोई माप छपा है न क्रिया; ‘तथा’ शायद इकाई ६८ से कोई माप लाता है, या छपाई में माप छूट गया हो, यह तय नहीं। "
                    "‘गुल्फौ’ द्विवचन है: दोनों टखने।"),
-    "hook": "तथा: टखने और पिंडली का मध्य, माप पीछे से।",
+    "hook": "तथा: दोनों टखने और जंघा का मध्य।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 69, what is the गुल्फ?",
             ("The ankle", "गुल्फ = ankle (standard)."),
             [("The knee", "The knee is the जानु (unit 72)."),
-             ("The heel", "The heel is the पाष्णि (unit 68)."),
+             ("The heel", "The heel is not the part named here."),
              ("The thigh", "The thigh is the ऊरु (unit 71).")],
             "गुल्फौ = the two ankles.",
             "गुल्फ = ankle."),
@@ -395,13 +393,13 @@ AUTHORED["69"] = {
               "तथा, गुल्फ, जङ्घा, मध्य, च."),
         T(multi("extend", 2, "Which statements fit unit 69?",
                 [("जङ्घा here means the thigh", "Does not fit: जङ्घा is the lower leg; the thigh is ऊरु."),
-                 ("No measure is printed in the line", "Fits: the measure is not printed and not stated."),
-                 ("It says these parts are fourteen in girth", "Does not fit: the line prints no number at all."),
+                 ("तथा here means 'likewise'", "Fits: तथा = likewise."),
+                 ("It names the knee and the thigh", "Does not fit: the knee (जानु) and the thigh (ऊरु) come in units 72 and 71."),
                  ("It names the ankles and the middle of the shank", "Fits: गुल्फौ जङ्घामध्यं च.")],
                 [1, 3],
-                "Two ankles and the middle of the shank are named; no measure or verb is printed.",
-                "तथा गुल्फौ जङ्घामध्यं च (measure not printed)."),
-          "An elliptical line names its items and leaves the measure and verb to the context; the context does not settle which measure."),
+                "तथा = likewise; the two ankles and the middle of the shank are named; the thigh is ऊरु, not जङ्घा.",
+                "तथा गुल्फौ जङ्घामध्यं च."),
+          "तथा (likewise) links the line to its neighbours; जङ्घा is the shank (lower leg), not the thigh (ऊरु)."),
         mcq("discriminate", 3, "In unit 69, what does the ending of गुल्फौ show?",
             ("Dual: the two ankles", "गुल्फौ is masc. nom. dual: the two ankles."),
             [("Plural: many ankles", "The plural would be गुल्फाः."),
@@ -556,7 +554,7 @@ AUTHORED["72"] = {
             ("The knee", "जानु = knee."),
             [("The ankle", "The ankle is the गुल्फ (unit 69)."),
              ("The thigh", "The thigh is the ऊरु (unit 71)."),
-             ("The heel", "The heel is the पाष्णि (unit 68).")],
+             ("The heel", "The heel is not the part named here.")],
             "जानु = knee.",
             "जानु = knee."),
         match(1, "Match each part of unit 72 to its meaning.",
@@ -597,7 +595,7 @@ AUTHORED["72"] = {
 AUTHORED["73"] = {
     "title": "त्रिंशदंगुलपरिणाहऊरुः",
     "question": "By unit 73, what is the girth of the thigh, and why is the visarga missing before ऊरुः?",
-    "rule": ("The thigh (ऊरुः) is thirty aṅgulas in girth (त्रिंशदङ्गुलपरिणाहः). Printed परिणाह ऊरुः: अः before a "
+    "rule": ("The thigh (ऊरुः) is thirty aṅgulas in girth (त्रिंशदङ्गुलपरिणाहः). Printed परिणाहऊरुः = परिणाहः + ऊरुः: अः before a "
              "vowel other than अ loses its visarga, and the gap stays."),
     "limits": "Prose, no verb printed. The line gives only the girth; the thigh's length is in unit 71.",
     "explain_hi": ("ऊरु यानी जाँघ घेरे (परिणाह) में तीस अंगुल की है। "
@@ -716,7 +714,7 @@ NOTES_HI = {
            "दृष्टम् + गज- → दृष्टं गज- (व्यंजन से पहले अन्तिम म् → ं)।"),
     "64": ("गद्य; विश्वास मध्यम; पंक्ति ०२.०८.७७; कोई पाठ-चिह्न नहीं। सार यहाँ गिनाए नहीं (इकाई ६० में आठ)। ‘तत्र’ का पूर्वपद नहीं बताया। "
            "‘गौरव’ = शरीर का भारीपन या आचरण की गरिमा, दोनों अर्थ सम्भव। ‘मन्द’ जरा और आमय दोनों के साथ, और ‘प्रायः’ आगे या पीछे के पद से, "
-           "ये पढ़ने के ढंग हैं। छपा ‘उपैतो’ है; डेटा इसे उप-√इ का कृदन्त ‘उपैतः’ लेता है, जबकि इस धातु का सामान्य रूप ‘उपेत’ है: इस रूप पर प्रश्न नहीं। "
+           "ये पढ़ने के ढंग हैं। छपा ‘उपैतो’ है; डेटा इसे उप-√इ का कृदन्त ‘उपैतः’ लेता है, (उप-√इ से रूप ‘उपेत’ होता; ‘उपैत’ उप + आ + √इ से भी समझा जा सकता है): इस रूप पर प्रश्न नहीं। "
            "सन्धि जाँची: सारैः + उपैतः → सारैरुपैतः (ऐः + स्वर → ऐर्); उपैतः + भवति → उपैतो भवति (अः + घोष व्यंजन → ओ); "
            "भवति + अतिबलः → भवत्यतिबलः (इ + भिन्न स्वर → य्); -आरम्भेषु + आत्मनि → -आरम्भेष्वात्मनि (उ + भिन्न स्वर → व्); "
            "प्रायः + तुल्य- → प्रायस्तुल्य- (त से पहले विसर्ग → स्); -अपत्यः + दीर्घायुः → -अपत्यो दीर्घायुः; दीर्घायुः + च → दीर्घायुश्च। "
@@ -735,7 +733,7 @@ NOTES_HI = {
            "(त से पहले विसर्ग → स्); तत् + नख → तन्नख (नासिक्य से पहले त् → न् वैकल्पिक, द् भी शुद्ध); -हीनाः + वा → -हीना वा "
            "(घोष ध्वनि से पहले आः का विसर्ग लुप्त)।"),
     "68": ("गद्य; विश्वास मध्यम; पंक्ति ०२.०८.८१; कोई पाठ-चिह्न नहीं। प्रपद = पैर का अगला भाग, पाष्णि = एड़ी (मानक)। छः, पाँच, चार की चौड़ाई "
-           "तीन भागों पर क्रम से लगाना स्वाभाविक पाठ है, छपा नहीं। ४ + ४ + ४ + २ (अँगूठा, इकाई ६७ = छपी पंक्ति ८०) = १४ डेटा का अवलोकन मात्र है। "
+           "तीन भागों पर क्रम से लगाना स्वाभाविक पाठ है, छपा नहीं। भागों का कोई योग पाठ नहीं देता। छपा ‘पाष्ण्यः’ असामान्य रूप है (सामान्य पार्ष्णि/पाष्णि का प्रथमा बहुवचन -णयः), उस पर प्रश्न नहीं। "
            "सन्धि जाँची: चतुर् + अङ्गुल → चतुरङ्गुल; -अङ्गुल + आयताः → -अङ्गुलायताः (अ + आ → आ); -विस्तृताः + चतुर्दश → "
            "-विस्तृताश्चतुर्दश और पादः + चतुर्दश → पादश्चतुर्दश (च से पहले विसर्ग → श्); चतुर्दश + एव → चतुर्दशैव (अ + ए → ऐ); "
            "एव + आयामेन → एवायामेन (अ + आ → आ)।"),
@@ -858,15 +856,15 @@ IMAGE_SPECS = {
     },
     ("64", "diagram"): {
         "file": "sh8-sarva-sara-64.svg",
-        "alt": ("Table of card 64 in printed order: twelve marks of one endowed with all the sāras, from exceedingly "
+        "alt": ("Table of card 64 in printed order: the marks of one endowed with all the sāras, from exceedingly "
                 "strong to long-lived."),
         "type": "table",
         "title": "कार्ड ६४: सब सारों वाले के लक्षण",
         "heads": ["क्रम", "लक्षण"],
         "rows": [["१", "अतिबल: अत्यन्त बलवान"], ["२", "परम गौरव: भारीपन या गरिमा"], ["३", "क्लेशक्षम: क्लेश सहने वाला"],
                  ["४", "प्रत्याशावान्: अपने पर आशा"], ["५", "कल्याणाभिनिवेशी"], ["६", "स्थिरशरीर"],
-                 ["७", "सुसमाहितगति: सुसंयत चाल"], ["८", "अनुनाद-युक्त गम्भीर महास्वर"], ["९", "सुख, ऐश्वर्य, धन का उपभोग"],
-                 ["१०", "सन्मानभाक्: सम्मान पाने वाला"], ["११", "मन्द जरा-रोग; प्रायः समान सन्तान"], ["१२", "दीर्घायु"]],
+                 ["७", "सुसमाहितगति: सुसंयत चाल"], ["८", "सानुनाद, स्निग्ध, गम्भीर महास्वर"], ["९", "सुख, ऐश्वर्य, धन का उपभोग"],
+                 ["१०", "सन्मानभाक्: सम्मान पाने वाला"], ["११", "मन्दजरामय: मन्द जरा और रोग"], ["१२", "प्रायः तुल्यगुणविस्तीर्णापत्य: समान गुणों वाली विस्तृत सन्तान"], ["१३", "दीर्घायु"]],
     },
     ("67", "diagram"): {
         "file": "sh8-padanguli-67.svg",
