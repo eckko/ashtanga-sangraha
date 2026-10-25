@@ -156,7 +156,7 @@ AUTHORED["29"] = {
               "स्नेहम्, पिबति, रक्षोभिः, नृत्यन्, अप्सु, मज्जति."),
         order(2, "Put the words of card 29, line 2, in the printed order.",
               ["यो", "रक्षोभिः", "सह", "नृत्यन्नप्सु", "मज्जति", "स उन्मादेन"],
-              "Who; with demons; together; dancing in the waters; sinks; he by unmāda.",
+              "Who; demons; with; dancing, in the waters; sinks; he by unmāda.",
               "यो → रक्षोभिः → सह → नृत्यन्नप्सु → मज्जति → स उन्मादेन.",
               role="extend",
               teaches="सह (with) takes the instrumental: रक्षोभिः सह, like चण्डालैः सह in line 1."),
@@ -223,11 +223,11 @@ AUTHORED["30"] = {
             "सः (he) + अपस्मारेण (by epilepsy): अः + अ → ओऽ.",
             "अः + अ → ओ + ऽ (अ elided)."),
         mcq("apply", 4, "Which English rendering of card 30 is right?",
-            ("He who is intoxicated, he by epilepsy", "यो मत्तः सोऽपस्मारेण: he who is intoxicated (or frenzied), he by apasmāra."),
-            [("He who is intoxicated, he by a fever", "अपस्मार is epilepsy, not fever."),
-             ("She who is intoxicated, she by epilepsy", "यः and सः are masculine: he, not she."),
-             ("He who is fast asleep, he by epilepsy", "मत्त is intoxicated or frenzied, not asleep.")],
-            "यः मत्तः = he who is intoxicated; सः अपस्मारेण = he by epilepsy.",
+            ("He who is intoxicated or frenzied, he by epilepsy", "यो मत्तः सोऽपस्मारेण: he who is intoxicated or frenzied, he by apasmāra."),
+            [("He who is intoxicated or frenzied, he by a fever", "अपस्मार is epilepsy, not fever."),
+             ("She who is intoxicated or frenzied, she by epilepsy", "यः and सः are masculine: he, not she."),
+             ("He who is fast asleep and calm, he by epilepsy", "मत्त is intoxicated or frenzied, not asleep.")],
+            "यः मत्तः = he who is intoxicated or frenzied; सः अपस्मारेण = he by epilepsy.",
             "मत्त = intoxicated/frenzied; अपस्मार = epilepsy."),
         mcq("transfer", 5, "By the pattern of सः + अपस्मारेण → सोऽपस्मारेण, how is मेषः + अत्र (the ram here) joined in a new example?",
             ("मेषोऽत्र", "अः + अ → ओ, and the अ is elided (ऽ): मेषोऽत्र."),
@@ -283,13 +283,13 @@ AUTHORED["31"] = {
         mcq("apply", 4, "Why does नेत्ररोगः lose its visarga before उपजायते in card 31 and stay unjoined?",
             ("अः before a vowel other than अ → अ, with a gap", "The visarga after अ drops before उ, and no further join is made."),
             [("अः before every vowel → अ, with a gap", "Not before अ: there अः + अ → ओऽ (सोऽपस्मारेण, card 30)."),
-             ("अः before the vowel उ → ओ, with no gap", "ओ comes from अः before a voiced consonant, not before a vowel."),
+             ("अः before the vowel उ → ओ, with no gap", "ओ comes from अः before a voiced consonant (or before अ, as ओऽ), not before उ."),
              ("अः before the vowel उ → अर्, joined to it as one", "र् comes from a visarga after a vowel other than अ/आ.")],
             "नेत्ररोगः + उपजायते → नेत्ररोग उपजायते.",
             "अः + vowel other than अ → अ (gap)."),
         mcq("transfer", 5, "By the pattern of नेत्ररोगः + उपजायते → नेत्ररोग उपजायते, how is बालः + इच्छति (the boy wishes) written in a new example?",
             ("बाल इच्छति", "अः before a vowel other than अ → अ, with a gap: बाल इच्छति."),
-            [("बालो इच्छति", "ओ comes from अः before a voiced consonant, not before a vowel."),
+            [("बालो इच्छति", "ओ comes from अः before a voiced consonant (or before अ, as ओऽ), not before इ."),
              ("बालरिच्छति", "र् comes from a visarga after a vowel other than अ/आ."),
              ("बालेच्छति", "Once the visarga drops, the vowels are not joined again.")],
             "बालः + इच्छति = बाल इच्छति, like नेत्ररोगः + उपजायते = नेत्ररोग उपजायते.",
@@ -650,7 +650,7 @@ AUTHORED["37"] = {
 AUTHORED["38"] = {
     "title": "देवान् द्विजान् गोवृषभान्",
     "question": "Which beings and things does the list of card 38 name?",
-    "rule": ("A list of accusatives: gods, the twice-born, cows and bulls, living friends, kings, good men, famous ones, a kindled "
+    "rule": ("A list of accusatives: gods, the twice-born, cows and bulls (or bulls), living friends, kings, good men, famous ones, a kindled "
              "fire, very clear water-bodies. By the data they are objects of पश्येत् (card 40), or continue card 37."),
     "limits": ("Verse; two printed lines; no verb in the card. गोवृषभान् may be 'cows and bulls' or 'bulls': no question on it. "
                "Printed वन्हिम् is read वह्निम् (letter reversal; the data calls it certain)."),
@@ -674,9 +674,9 @@ AUTHORED["38"] = {
               "देवान् = gods, द्विजान् = twice-born, सुहृदः = friends, नृपान् = kings, साधून् = good men, वह्निम् = fire.",
               "देवान्, द्विजान्, सुहृदः, नृपान्, साधून्, वह्निम्."),
         order(2, "Put these items of card 38 in the printed order.",
-              ["देवान्", "द्विजान्", "गोवृषभान्", "सुहृदो", "साधून्", "जलाशयान्"],
-              "Gods; twice-born; cows and bulls; friends; good men; water-bodies.",
-              "देवान् → द्विजान् → गोवृषभान् → सुहृदो → साधून् → जलाशयान्.",
+              ["देवान्", "द्विजान्", "सुहृदो", "साधून्", "यशस्विनो", "जलाशयान्"],
+              "Gods; twice-born; friends; good men; famous (ones); water-bodies.",
+              "देवान् → द्विजान् → सुहृदो → साधून् → यशस्विनो → जलाशयान्.",
               role="extend",
               teaches="The card is a row of accusative plurals (-आन्, -ऊन्, -अः) with no verb; by the data the verb comes in card 40."),
         multi("discriminate", 3, "Which of these does card 38 list?",
@@ -687,7 +687,7 @@ AUTHORED["38"] = {
                ("Very clear water-bodies", "Yes: स्वच्छान् जलाशयान्."),
                ("Black, red-eyed men", "No: black, red-eyed men are in card 33.")],
               [1, 2, 4],
-              "Card 38: gods, twice-born, cows and bulls, living friends, kings, good men, famous ones, kindled fire, clear water-bodies.",
+              "Card 38: gods, twice-born, cows and bulls (or bulls), living friends, kings, good men, famous ones, kindled fire, clear water-bodies.",
               "Card 38 has clear water and kindled fire; card 33 has turbid water."),
         mcq("apply", 4, "Why is सुहृदः printed सुहृदो before नृपान् in card 38?",
             ("अः before a voiced consonant → ओ", "न is a voiced consonant: सुहृदः + नृपान् → सुहृदो नृपान्."),
@@ -789,7 +789,7 @@ NOTES_HI = {
     "32": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.१२.३४)। पाठ-चिह्न (निश्चित): ‘तस्यनेत्रविनाशः’ में रिक्त स्थान छूटा: तस्य नेत्रविनाशः। "
            "क्रिया ‘देखता है’ कार्ड ३१ (छपी पंक्ति ३३) से आती है, छपी नहीं; ‘वे दोनों’ डेटा के अनुसार चन्द्रमा और सूर्य। "
            "सन्धि जाँची: यः + तयोः → यस्तयोः (त से पहले विसर्ग → स्); पतनम् + तस्य → पतनं तस्य (व्यंजन से पहले म् → ं)।"),
-    "33": ("गद्य; विश्वास मध्यम; एक लम्बी छपी पंक्ति (०२.१२.३५)। डेटा के अनुसार कार्ड ३३ और ३४ (छपी पंक्तियाँ ३५, ३६) एक वाक्य हैं। "
+    "33": ("गद्य; विश्वास मध्यम; एक लम्बी छपी पंक्ति (०२.१२.३५)। डेटा के अनुसार कार्ड ३३ और ३४ (छपी पंक्तियाँ ३५, ३६) सम्भवतः एक ही वाक्य हैं। "
            "पाठ-चिह्न: ‘पत्यारोहति’ में ‘पतति आरोहति’ अनुमानित पाठ है (छपा ‘पत्य’); ‘वक्रं’ की जगह ‘वक्त्रं’ (मुख) सम्भव पर अपनाया नहीं; "
            "‘आद्यै र्वा’ में छपा फालतू रिक्त स्थान; अनेक जगह रिक्त स्थान छूटे (भवतियो, स्वयंवा, परिष्वज्यतेनग्नो आदि)। "
            "दो तरफ़ा पाठ: दक्षिणाभिमुखम् (दक्षिण की ओर मुख किए या दक्षिण की ओर खींचा); अश्नाति केवल पक्वान्न लेता है या पूरी सूची; पुष्पाढ्य अलग सदस्य या "
@@ -950,7 +950,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड ३३: कुछ पक्के चिह्न",
         "heads": ["क्रम", "चिह्न"],
-        "rows": [["१", "पुए खाकर जागने पर उलटी"], ["२", "सिर पर लताएँ, पक्षी"], ["३", "गिद्ध, उल्लू, कौए सेवा करें"],
+        "rows": [["१", "शष्कुली या पुए खाकर, जागकर उलटी"], ["२", "सिर पर लताएँ, पक्षी"], ["३", "गिद्ध, उल्लू, कौए सेवा करें"],
                  ["४", "नाचती स्त्री खींचे"], ["५", "नग्न, लाल माला"], ["६", "कीचड़ लिपटा हँसे, नाचे"],
                  ["७", "कीचड़, कुएँ, गँदले जल में डूबे"], ["८", "मछली निगले"], ["९", "क्रुद्ध पितर डाँटें"],
                  ["१०", "चन्द्र, सूर्य, तारे नष्ट दिखें"], ["११", "दण्ड-पाश लिए काले पुरुष"], ["अन्त", "रोगी: पंचता (मृत्यु)"]],
@@ -988,7 +988,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड ३८ की सूची",
         "heads": ["क्रम", "शब्द = अर्थ"],
-        "rows": [["१", "देवान् = देवता"], ["२", "द्विजान् = द्विज"], ["३", "गोवृषभान् = गाय-बैल"], ["४", "जीवतः सुहृदः = जीवित मित्र"],
+        "rows": [["१", "देवान् = देवता"], ["२", "द्विजान् = द्विज"], ["३", "गोवृषभान् = गाय-बैल (या बैल)"], ["४", "जीवतः सुहृदः = जीवित मित्र"],
                  ["५", "नृपान् = राजा"], ["६", "साधून् = सज्जन"], ["७", "यशस्विनः = यशस्वी"], ["८", "वह्निम् इद्धम् = जलती अग्नि"],
                  ["९", "स्वच्छान् जलाशयान् = स्वच्छ जलाशय"]],
     },
@@ -999,8 +999,8 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड ३९ की सूची",
         "heads": ["क्रम", "शब्द = अर्थ"],
-        "rows": [["१", "कन्याम् = कन्या"], ["२", "कुमारकान् = कुमार"], ["३", "गौरान् = गोरे"], ["४", "शुक्लवस्त्रान् = श्वेत वस्त्र"],
-                 ["५", "सुतेजसः = अति तेजस्वी"], ["६", "नराशनम् = नरभक्षी"], ["७", "दीप्ततनुम् = दीप्त शरीर"],
+        "rows": [["१", "कन्याम् = कन्या"], ["२", "कुमारकान् = कुमार"], ["३", "गौरान् = गोरे"], ["४", "शुक्लवस्त्रान् = श्वेत वस्त्र वाले"],
+                 ["५", "सुतेजसः = अति तेजस्वी"], ["६", "नराशनम् = नरभक्षी"], ["७", "दीप्ततनुम् = दीप्त शरीर वाला"],
                  ["८", "रुधिरोक्षितम् = रक्त-सिक्त"]],
     },
 }

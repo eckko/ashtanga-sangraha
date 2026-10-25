@@ -6,13 +6,13 @@ AUTHORED = {}
 # ---------------------------------------------------------------- unit 40
 AUTHORED["40"] = {
     "title": "यः पश्येल्लभते यो वा",
-    "question": "By card 40, what does one obtain in the series of dream-events, and which two verbs does the card print?",
+    "question": "By card 40, which items appear to be the objects of लभते (obtains), and which two verbs does the card print?",
     "rule": ("He who should see (पश्येत्), or who obtains (लभते), an umbrella (छत्र), a mirror (आदर्श), an unclear item, white flowers "
              "(शुक्लाः सुमनसः), cloth (वस्त्रम्), a smearing with impure matter (अमेध्यालेपनम्) and fruit (फलम्)."),
     "limits": ("Low confidence. विशामिषं is unclear: no question on it. By the data, cards 38-39 appear to be objects of पश्येत्, "
                "the items here of लभते; the main clause is not here. The impure substance is not named; सुमनस् = flower "
                "(jasmine not stated)."),
-    "explain_hi": ("जो देखे (पश्येत्), या जो पाए (लभते): छत्र (छाता), आदर्श (दर्पण), एक अस्पष्ट शब्द ‘विशामिषं’, श्वेत पुष्प (शुक्लाः सुमनसः), "
+    "explain_hi": ("जो देखे (पश्येत्), या जो पाता है (लभते): छत्र (छाता), आदर्श (दर्पण), एक अस्पष्ट शब्द ‘विशामिषं’, श्वेत पुष्प (शुक्लाः सुमनसः), "
                    "वस्त्र, अमेध्य (अशुद्ध) पदार्थ का लेप और फल। "
                    "डेटा के नोट्स के अनुसार कार्ड ३८-३९ की सूचियाँ सम्भवतः ‘पश्येत्’ के कर्म हैं और इस कार्ड की वस्तुएँ ‘लभते’ की; मुख्य वाक्य इस कार्ड में नहीं है। "
                    "‘विशामिषं’ का अर्थ अस्पष्ट है, इसलिए उस पर कोई प्रश्न नहीं; अशुद्ध पदार्थ का नाम भी नहीं छपा। "
@@ -36,7 +36,7 @@ AUTHORED["40"] = {
               "Line 1: umbrella, mirror (then an unclear word); line 2: white flowers, cloth, smearing with impure matter, fruit.",
               "छत्र → आदर्श → शुक्लाः सुमनसः → वस्त्रम् → अमेध्यालेपनम् → फलम्.",
               role="extend",
-              teaches="The items of card 40 are a list in the accusative; by the data's notes they are the objects of लभते (obtains)."),
+              teaches="The items of card 40 are a list in the accusative; by the data's notes they appear to be the objects of लभते (obtains)."),
         mcq("discriminate", 3, "Which split of पश्येल्लभते in card 40 is right?",
             ("पश्येत् + लभते", "त् before ल becomes ल्: पश्येत् + लभते → पश्येल्लभते."),
             [("पश्येः + लभते", "After ए a visarga before the voiced ल gives र्: that would print पश्येर्लभते."),
@@ -68,7 +68,7 @@ AUTHORED["41"] = {
     "title": "शैलप्रासादसफलवृक्षसिंहनरद्विपान्",
     "question": "By card 41, what should one climb, and what is said of crossing?",
     "rule": ("He should climb (आरोहेत्) mountains, palaces, fruit-bearing trees, lions, men, elephants (द्विप) and a horse-vehicle "
-             "(अश्वयानम्); and should cross (तरेत्) waters (rivers, lakes and oceans on a conjectural reading)."),
+             "(अश्वयानम्); and should cross (तरेत्) what is printed नदन्हदोदधीन् (rivers, lakes and oceans on a conjectural reading)."),
     "limits": ("Medium confidence. The objects of तरेत् are printed नदन्हदोदधीन्; 'rivers, lakes and oceans' is a conjectural reading: "
                "no question on what is crossed. Line 1 is one compound; by the data's notes its members are the objects of आरोहेत्. "
                "The card does not say what follows."),
@@ -213,7 +213,7 @@ AUTHORED["43"] = {
         fill(2, "The word for 'health' in card 43 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("आरोग्यम्", "ārogyam", "आरोग्य", "arogyam"),
              "आरोग्यम् = health: printed in स्यादायुरारोग्यं.",
-             "आरोग्य = a- (without) + रोग (disease) + -य: freedom from disease, health.",
+             "आरोग्य = अरोग (a- without + रोग disease), first vowel lengthened, + -य: freedom from disease, health.",
              "आरोग्यम् = health."),
         mcq("discriminate", 3, "Which split of चावमर्दनं in card 43 is right?",
             ("च + अवमर्दनम्", "अ + अ → आ: च + अवमर्दनम् → चावमर्दनम्."),
@@ -245,7 +245,7 @@ AUTHORED["44"] = {
     "title": "पितृदेवद्विजातीनां",
     "question": "By card 44, whose sight is not praised?",
     "rule": ("The sight (दर्शनम्) of forefathers, gods and twice-born (पितृदेवद्विजातीनाम्) who are angry, frightened and emaciated "
-             "(क्रुद्धभीतकृशात्मनाम्), and of ones with dirty garments and flowers (मलिनाम्बरपुष्पाणाम्), is not praised (न प्रशस्यते)."),
+             "(क्रुद्धभीतकृशात्मनाम्), and of ones with dirty garments and flowers (मलिनाम्बरपुष्पाणाम्; or the same ones so dressed), is not praised (न प्रशस्यते)."),
     "limits": ("Medium confidence. मलिनाम्बरपुष्पाणाम् may name further persons or describe the same forefathers, gods and twice-born "
                "(two-way): no question on which. -आत्मन् is read 'in person'. The word 'dream' is not printed in this card."),
     "explain_hi": ("क्रुद्ध, भयभीत और कृश स्वरूप वाले पितरों, देवताओं और द्विजातियों का, और मैले वस्त्र तथा फूलों वालों का दर्शन प्रशंसित नहीं है (न प्रशस्यते)। "
@@ -276,7 +276,7 @@ AUTHORED["44"] = {
             [("Pleased and wearing pure flowers", "Pleased ones with pure flowers are not in card 44; it names the angry ones."),
              ("Silent and seated far away", "Card 44 says nothing of silence or distance."),
              ("Radiant and dressed in white", "Card 44 names no radiance or white clothes; it names anger, fear, emaciation.")],
-            "Not praised: the sight of angry, frightened, emaciated ones and of ones with dirty garments and flowers.",
+            "Not praised: the sight of angry, frightened, emaciated ones, and of ones with dirty garments and flowers (or the same ones so dressed).",
             "क्रुद्ध, भीत, कृश → न प्रशस्यते."),
         mcq("apply", 4, "Which split of कृशात्मनां in card 44 is right?",
             ("कृश + आत्मनाम्", "अ + आ → आ: कृश + आत्मनाम् → कृशात्मनाम्."),
@@ -419,11 +419,11 @@ AUTHORED["47"] = {
     "question": "By card 47, what is said of the retinue and of the patient?",
     "rule": ("The retinue (परिवारः) endowed with auspicious conduct (मङ्गलाचारसंपन्नः), and likewise (तथा) the patient (आतुरः): having "
              "faith (श्रद्धा-), favourable (अनुकूलः), and having an abundant collection of materials (प्रभूतद्रव्यसंग्रहः)."),
-    "limits": ("Medium confidence. No verb: by the data, cards 47-48 are one list closing in card 48. संपन्नः may qualify retinue "
+    "limits": ("Medium confidence. No verb: by the data, cards 47-48 appear to be one list closing in card 48. संपन्नः may qualify retinue "
                "and patient: no question on which. द्रव्य is not specified. Printed श्रद्धावानो does not match the data's split "
                "श्रद्धावान्: no question on that form."),
     "explain_hi": ("मंगल आचार से युक्त परिवार (रोगी के पास के लोग), और वैसे ही रोगी (आतुर): श्रद्धा वाला, अनुकूल, और प्रचुर द्रव्यों के संग्रह वाला। "
-                   "इस कार्ड में क्रिया नहीं; डेटा के अनुसार कार्ड ४७-४८ एक सूची है जो कार्ड ४८ में ‘वह आरोग्य का लक्षण है’ से पूरी होती है। "
+                   "इस कार्ड में क्रिया नहीं; डेटा के अनुसार कार्ड ४७-४८ सम्भवतः एक सूची है जो कार्ड ४८ में ‘वह आरोग्य का लक्षण है’ से पूरी होती है। "
                    "एकवचन ‘संपन्नः’ परिवार और रोगी दोनों के लिए हो सकता है; द्रव्य कौन-से, यह नहीं कहा। "
                    "छपा ‘श्रद्धावानो’ और डेटा का विच्छेद ‘श्रद्धावान्’ मेल नहीं खाते, इसलिए उस रूप पर प्रश्न नहीं। "
                    "‘परिवारस्तथा’ में परिवारः + तथा है: त से पहले विसर्ग → स्।"),
@@ -441,10 +441,10 @@ AUTHORED["47"] = {
               [["परिवारः", "retinue"], ["आतुरः", "patient"], ["अनुकूलः", "favourable"], ["प्रभूत", "abundant"], ["द्रव्य", "material"]],
               "परिवारः = retinue, आतुरः = patient, अनुकूलः = favourable, प्रभूत = abundant, द्रव्य = material.",
               "परिवारः, आतुरः, अनुकूलः, प्रभूत, द्रव्य."),
-        order(2, "Put the parts of card 47 in the printed order.",
-              ["मङ्गलाचारसंपन्नः", "परिवारः", "तथा आतुरः", "श्रद्धावानोऽनुकूलश्च", "प्रभूतद्रव्यसंग्रहः"],
-              "Endowed with auspicious conduct; the retinue; likewise the patient; having faith and favourable; with abundant materials.",
-              "मङ्गलाचारसंपन्नः → परिवारः → तथा आतुरः → श्रद्धावानोऽनुकूलश्च → प्रभूतद्रव्यसंग्रहः.",
+        order(2, "Put these sure parts of card 47 in the printed order.",
+              ["मङ्गलाचारसंपन्नः", "परिवारः", "तथा आतुरः", "अनुकूलः", "प्रभूतद्रव्यसंग्रहः"],
+              "Endowed with auspicious conduct; the retinue; likewise the patient; favourable; with abundant materials.",
+              "मङ्गलाचारसंपन्नः → परिवारः → तथा आतुरः → अनुकूलः → प्रभूतद्रव्यसंग्रहः.",
               role="extend",
               teaches="तथा (likewise) links the retinue and the patient as two parts of one list."),
         mcq("discriminate", 3, "Which split of तथाऽऽतुरः in card 47 is right?",
@@ -454,21 +454,21 @@ AUTHORED["47"] = {
              ("तथे + आतुरः", "तथे is not a word, and ए before आ would not give आ.")],
             "तथा (likewise) + आतुरः (the patient).",
             "आ + आ → आ."),
-        mcq("apply", 4, "A patient trusts the treatment and has plenty of materials at hand. Which words of card 47 fit him?",
-            ("श्रद्धा- and प्रभूतद्रव्यसंग्रहः", "Having faith (श्रद्धा-) and having an abundant collection of materials."),
-            [("मङ्गलाचार- and परिवारः", "These describe the retinue with auspicious conduct, not the trusting patient."),
-             ("आतुरः and मङ्गलाचार-", "आतुरः names the patient, but auspicious conduct is not trust or materials."),
-             ("परिवारः and अनुकूलः", "परिवारः is the retinue; it names neither trust nor materials.")],
-            "श्रद्धा (faith) and प्रभूत-द्रव्य-संग्रह (abundant materials) describe the patient.",
-            "श्रद्धा = faith; प्रभूत = abundant; द्रव्य = material."),
-        mcq("transfer", 5, "By the pattern of श्रद्धा + -वत् (having faith), what does ज्ञानवान् mean in a new example?",
-            ("Having knowledge", "-वत् (nominative -वान्) = possessing: ज्ञान + वत् = one who has knowledge."),
-            [("Without knowledge", "Without would need अ- or निर्-; -वान् means having."),
-             ("Giver of knowledge", "A giver would be ज्ञानदः; -वान् means having."),
-             ("Seeker of knowledge", "A seeker would be ज्ञानार्थी; -वान् means having.")],
-            "ज्ञानवान् = having knowledge, as श्रद्धा + -वत् = having faith.",
-            "-वत् (nom. masc. -वान्) = possessing.",
-            teaches="The suffix -वत् (masculine nominative -वान्) means 'possessing': श्रद्धा + -वत् = having faith."),
+        mcq("apply", 4, "A patient is agreeable and has plenty of materials at hand. Which words of card 47 fit him?",
+            ("अनुकूलः and प्रभूतद्रव्यसंग्रहः", "Favourable (अनुकूलः) and having an abundant collection of materials."),
+            [("मङ्गलाचार- and परिवारः", "Auspicious conduct and the retinue: neither names agreeableness or materials."),
+             ("आतुरः and मङ्गलाचार-", "आतुरः names the patient, but auspicious conduct is neither agreeableness nor materials."),
+             ("परिवारः and तथा", "The retinue and 'likewise': neither names agreeableness or materials.")],
+            "अनुकूलः (favourable) and प्रभूत-द्रव्य-संग्रहः (abundant materials) describe the patient.",
+            "अनुकूल = favourable; प्रभूत = abundant; द्रव्य = material."),
+        mcq("transfer", 5, "By the pattern of प्रभूतद्रव्यसंग्रहः (having an abundant collection of materials), what does प्रभूतधनः mean in a new example?",
+            ("Having abundant wealth", "प्रभूत (abundant) + धन (wealth), used of a person (masculine -धनः): one who has abundant wealth."),
+            [("Without any wealth", "Without wealth would be निर्धनः; प्रभूत means abundant."),
+             ("Giver of wealth", "A giver of wealth would be धनदः; प्रभूतधनः names what the person has."),
+             ("Seeker of wealth", "A seeker of wealth would be धनार्थी; प्रभूतधनः names what the person has.")],
+            "प्रभूतधनः = having abundant wealth, as प्रभूतद्रव्यसंग्रहः = having an abundant collection of materials.",
+            "A bahuvrīhi names the one who has: प्रभूत-धन = (one) having abundant wealth.",
+            teaches="A bahuvrīhi such as प्रभूत-द्रव्य-संग्रहः describes the one who has the thing: having an abundant collection of materials."),
     ],
 }
 
@@ -484,7 +484,7 @@ AUTHORED["48"] = {
                    "डेटा के अनुसार ‘तत्’ कार्ड ४७-४८ के सब लक्षणों की ओर संकेत करता है। "
                    "‘सत्त्व’ शास्त्रीय शब्द है; पाठ इसकी और परिभाषा नहीं देता। "
                    "सन्धियाँ: संयोगः + भक्तिः → संयोगो भक्तिः (अः, घोष व्यंजन से पहले → ओ); अनिर्वेदः + तत् → अनिर्वेदस्तत् (त से पहले विसर्ग → स्)।"),
-    "hook": "सत्त्व, वैद्य में भक्ति, चिकित्सा में धैर्य: यही आरोग्य का लक्षण।",
+    "hook": "सत्त्व, वैद्य में भक्ति, चिकित्सा में निराशा नहीं: यही आरोग्य का लक्षण।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 48, what does अनिर्वेदः mean?",
@@ -542,7 +542,7 @@ AUTHORED["49"] = {
                    "यतः ... ततः का जोड़ा कारण और फल को बाँधता है। "
                    "यहाँ छपा नाम ‘शरीर’ है, ‘शारीर’ नहीं; कार्ड ५१ का समाप्ति-वाक्य ‘शारीरस्थान’ कहता है। ‘इति’ को ‘इस प्रकार’ पढ़ा गया, इस पर प्रश्न नहीं। "
                    "‘सम्यगुदाहृतं’ में सम्यक् + उदाहृतम् है: स्वर से पहले क् → ग्।"),
-    "hook": "जन्म और मरण यहाँ कहे गए, इसलिए नाम शरीर-स्थान।",
+    "hook": "जन्म और मरण यहाँ कहे गए, इसलिए इस स्थान का नाम ‘शरीर’।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 49, what does जन्ममरणम् mean?",
@@ -792,7 +792,7 @@ NOTES_HI = {
            "सन्धि जाँची: सर्पिषा + आक्तान् → सर्पिषाऽऽक्तान् (आ + आ → आ; ऽऽ छपाई की आदत); पापैः + मुच्यते → पापैर्मुच्यते (ऐ के बाद विसर्ग, घोष म से पहले → र्); "
            "व्याधिभिः + च → व्याधिभिश्च।"),
     "47": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.१२.६० और ०२.१२.६१)। पाठ-चिह्न: ‘मंगलाचारसंपन्नःपरिवारस्तथाऽऽतुरः’ में रिक्त स्थान छूटे (निश्चित)। "
-           "डेटा के अनुसार कार्ड ४७-४८ (छपी पंक्तियाँ ६०-६३) एक सूची है। ध्यान दें: छपा ‘श्रद्धावानोऽनुकूलश्च’ श्रद्धावानः + अनुकूलः (अः + अ → ओऽ) जैसा पढ़ता है, "
+           "डेटा के अनुसार कार्ड ४७-४८ (छपी पंक्तियाँ ६०-६३) सम्भवतः एक सूची है। ध्यान दें: छपा ‘श्रद्धावानोऽनुकूलश्च’ श्रद्धावानः + अनुकूलः (अः + अ → ओऽ) जैसा पढ़ता है, "
            "पर डेटा का विच्छेद ‘श्रद्धावान्’ (पुं. प्रथमा एक.) देता है; इस रूप पर प्रश्न नहीं। "
            "सन्धि जाँची: मङ्गल + आचार → मङ्गलाचार; परिवारः + तथा → परिवारस्तथा (त से पहले विसर्ग → स्); तथा + आतुरः → तथाऽऽतुरः (आ + आ → आ); "
            "अनुकूलः + च → अनुकूलश्च।"),
@@ -816,9 +816,9 @@ NOTES_HI = {
 # ================================================================ AIDS
 AIDS = {
     "40": {
-        "frame": "कौन: यः (जो) → क्रिया: पश्येत् (देखे) या लभते (पाए) → क्या पाए: छत्र, आदर्श, (अस्पष्ट), श्वेत पुष्प, वस्त्र, अमेध्य का लेप, फल।",
+        "frame": "कौन: यः (जो) → क्रिया: पश्येत् (देखे) या लभते (पाता है) → क्या पाता है (सम्भवतः): छत्र, आदर्श, (अस्पष्ट), श्वेत पुष्प, वस्त्र, अमेध्य का लेप, फल।",
         "diagram": {"groups": [
-            {"label": "लभते: पाए (छपे क्रम में)",
+            {"label": "लभते: पाता है, सम्भवतः (छपे क्रम में)",
              "items": ["१ छत्र", "२ आदर्श", "३ विशामिषं (अस्पष्ट)", "४ शुक्लाः सुमनसः", "५ वस्त्रम्", "६ अमेध्यालेपनम्", "७ फलम्"]}]},
         "chunks": "यः पश्येल्लभते | यो वा | छत्रादर्शविशामिषं || शुक्लाः सुमनसो | वस्त्रममेध्यालेपनं | फलं",
         "sandhi": "त् + ल → ल्ल: पश्येत् + लभते → पश्येल्लभते · अः, घोष व्यंजन से पहले → ओ: यः + वा → यो वा, सुमनसः + वस्त्रम् → सुमनसो वस्त्रम्।",
@@ -835,19 +835,19 @@ AIDS = {
     "42": {
         "diagram": {"groups": [
             {"label": "कार्ड ४२ (छपे क्रम में)",
-             "items": ["१ पूर्वोत्तरेण गमनम्", "२ अगम्यागमनम्", "३ मृतिम्", "४ संबाधान्निःसृतिः", "५ तारकाचलभास्वतां स्पर्शः"]}]},
+             "items": ["१ पूर्वोत्तरेण गमनम्", "२ अगम्यागमनम्", "३ मृतिम्", "४ संबाधान्निःसृतिः", "५ स्पर्शः तारकाचलभास्वताम्"]}]},
         "chunks": "पूर्वोत्तरेण गमनम् | अगम्यागमनं | मृतिं || संबाधान्निःसृतिः | स्पर्शस्तारकाचलभास्वतां",
         "sandhi": "अ + उ → ओ: पूर्व + उत्तरेण → पूर्वोत्तरेण · त से पहले विसर्ग → स्: स्पर्शः + तारका- → स्पर्शस्तारका- · आ + अ → आ: तारका + अचल → तारकाचल।",
         "letters": "विभक्तियाँ मिली-जुली: मृतिम् (द्वितीया), निःसृतिः (प्रथमा), संबाधात् (पंचमी, से), -भास्वताम् (षष्ठी बहु.)।",
     },
     "43": {
-        "chain": {"steps": ["रोदनम्: रोना", "पतितोत्थानम्: गिरे का उठना", "द्विषतां अवमर्दनम्: शत्रु का कुचलना",
+        "chain": {"steps": ["रोदनम्: रोना", "पतितोत्थानम्: गिरे का उठना", "द्विषताम् अवमर्दनम्: शत्रुओं का कुचलना",
                             "फिर: आयुः, आरोग्यम्, वित्तम् (वाक्य-रचना अस्पष्ट)"]},
         "chunks": "रोदनंपतितोत्थानं | द्विषतां चावमर्दनं || यस्य स्यादायुरारोग्यं | वित्तं सबहुशोऽश्रुते",
         "sandhi": "अ + उ → ओ: पतित + उत्थानम् → पतितोत्थानम् · अ + अ → आ: च + अवमर्दनम् → चावमर्दनम् · उ के बाद विसर्ग, स्वर से पहले → र्: आयुः + आरोग्यम् → आयुरारोग्यम्।",
     },
     "44": {
-        "frame": "किनका: पितृ, देव, द्विजाति → कैसे: क्रुद्ध, भीत, कृश → और: मलिन वस्त्र-फूल वाले → दर्शनम् → न प्रशस्यते।",
+        "frame": "किनका: पितृ, देव, द्विजाति → कैसे: क्रुद्ध, भीत, कृश → और (या वही): मलिन वस्त्र-फूल वाले → दर्शनम् → न प्रशस्यते।",
         "chunks": "पितृदेवद्विजातीनां | क्रुद्धभीतकृशात्मनां || मलिनांबरपुष्पाणां | दर्शनं न प्रशस्यते",
         "sandhi": "अ + आ → आ: कृश + आत्मनाम् → कृशात्मनाम् · अ + अ → आ: मलिन + अम्बर → मलिनाम्बर।",
     },
@@ -874,7 +874,7 @@ AIDS = {
             {"label": "कार्ड ४७: परिवार और रोगी", "items": ["मंगल आचार", "श्रद्धा", "अनुकूलता", "प्रचुर द्रव्य"]},
             {"label": "कार्ड ४८", "items": ["सत्त्व के लक्षण", "वैद्य-द्विज में भक्ति", "चिकित्सा में अनिर्वेद"]},
             {"label": "फल", "items": ["तत् आरोग्यस्य लक्षणम्"]}]},
-        "chunks": "सत्त्वलक्षणसंयोगो | भक्तिर्वैद्यद्विजातिषु || चिकित्सायामनिर्वेद | स्तदारोग्यस्य लक्षणं",
+        "chunks": "सत्त्वलक्षणसंयोगो | भक्तिर्वैद्यद्विजातिषु || चिकित्सायामनिर्वेदस्तदारोग्यस्य | लक्षणं",
         "sandhi": "अः, घोष व्यंजन से पहले → ओ: संयोगः + भक्तिः → संयोगो भक्तिः · इ के बाद विसर्ग, घोष से पहले → र्: भक्तिः + वैद्य- → भक्तिर्वैद्य- · त से पहले विसर्ग → स्: अनिर्वेदः + तत् → अनिर्वेदस्तत्।",
         "pegs": "स-भ-अ: सत्त्व, भक्ति, अनिर्वेद, कार्ड ४८ के तीन लक्षणों के पहले अक्षर। (मेरा बनाया स्मरण-सूत्र)",
     },
@@ -909,9 +909,9 @@ IMAGE_SPECS = {
         "alt": ("Table of card 40 in printed order, the items of labhate (obtains): umbrella, mirror, viśāmiṣaṃ (unclear), "
                 "white flowers, cloth, smearing with impure matter, fruit."),
         "type": "table",
-        "title": "कार्ड ४०: लभते (पाए)",
+        "title": "कार्ड ४०: लभते (पाता है), सम्भवतः",
         "heads": ["क्रम", "छपा शब्द: अर्थ"],
-        "rows": [["१", "छत्र: छाता"], ["२", "आदर्श: दर्पण"], ["३", "विशामिषं: अस्पष्ट"], ["४", "शुक्लाः सुमनसः: श्वेत फूल"],
+        "rows": [["१", "छत्र: छाता"], ["२", "आदर्श: दर्पण"], ["३", "विशामिषं: अस्पष्ट"], ["४", "शुक्लाः सुमनसः = श्वेत फूल"],
                  ["५", "वस्त्रम्: वस्त्र"], ["६", "अमेध्यालेपनम्: अशुद्ध लेप"], ["७", "फलम्: फल"]],
     },
     ("41", "diagram"): {
@@ -922,7 +922,7 @@ IMAGE_SPECS = {
         "title": "कार्ड ४१: आरोहेत् (चढ़े)",
         "heads": ["क्रम", "छपा शब्द: अर्थ"],
         "rows": [["१", "शैल: पर्वत"], ["२", "प्रासाद: महल"], ["३", "सफलवृक्ष: फलदार पेड़"], ["४", "सिंह: सिंह"],
-                 ["५", "नर: मनुष्य"], ["६", "द्विप: हाथी"], ["७", "अश्वयान: घोड़ा-वाहन"], ["फिर", "तरेत्: पार करे (अनुमान)"]],
+                 ["५", "नर: मनुष्य"], ["६", "द्विप: हाथी"], ["७", "अश्वयान: घोड़ा-वाहन"], ["फिर", "तरेत्: पार करे (किसे, यह अनुमान)"]],
     },
     ("42", "diagram"): {
         "file": "sh12-svapna-42.svg",
@@ -932,15 +932,14 @@ IMAGE_SPECS = {
         "title": "कार्ड ४२: छपे क्रम में",
         "heads": ["क्रम", "छपा शब्द: अर्थ"],
         "rows": [["१", "पूर्वोत्तरेण गमनम्: ईशान को जाना"], ["२", "अगम्यागमनम्: अगम्य तक जाना"], ["३", "मृतिम्: मृत्यु"],
-                 ["४", "संबाधान्निःसृतिः: तंग से निकलना"], ["५", "स्पर्शः: तारे, पर्वत, प्रकाशमान"]],
+                 ["४", "संबाधान्निःसृतिः = तंग से निकलना"], ["५", "स्पर्शः = तारे, पर्वत, प्रकाशमान"]],
     },
     ("46", "chain"): {
         "file": "sh12-svapnashanti-46.svg",
-        "alt": ("Chain of card 46: having seen dreams, terrible or good; bathed in the morning; having offered with the Sāvitrī; "
-                "purified; freed from sins and diseases."),
+        "alt": "Chain of card 46: having seen dreams; bathed in the morning; having offered with the Sāvitrī; purified; freed from sins and diseases.",
         "type": "chain",
         "title": "कार्ड ४६: क्रम से",
-        "steps": ["दृष्ट्वा: स्वप्न देखकर", "प्रातः स्नातः: सुबह नहाकर", "हुत्वा सावित्र्या: सावित्री से हवन", "पूतः: पवित्र",
+        "steps": ["दृष्ट्वा: स्वप्न देखकर", "प्रातः स्नातः = सुबह नहाकर", "हुत्वा सावित्र्या: सावित्री से हवन", "पूतः = पवित्र",
                   "मुच्यते: पाप, रोग से मुक्त"],
     },
     ("48", "diagram"): {
@@ -961,6 +960,6 @@ IMAGE_SPECS = {
                 "Śarīra."),
         "type": "chain",
         "title": "कार्ड ४९: यतः ... ततः",
-        "steps": ["यतः: क्योंकि", "जन्म-मरण ठीक से कहे", "ततः: इसलिए", "नाम: शरीर-स्थान"],
+        "steps": ["यतः = क्योंकि", "जन्म-मरण ठीक से कहे", "ततः = इसलिए", "नाम: ‘शरीर’"],
     },
 }
