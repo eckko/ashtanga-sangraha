@@ -36,13 +36,13 @@ AUTHORED["113"] = {
               ["ईषत्प्रलं", "बिन्यौ", "भ्रुवौ"],
               "ईषत्प्रलं, then बिन्यौ (read with it by the data), then भ्रुवौ, the two eyebrows.",
               "ईषत्प्रलं → बिन्यौ → भ्रुवौ."),
-        T(mcq("extend", 2, "In unit 113, what does ईषत् add to the description of the eyebrows?",
-              ("They droop only slightly", "ईषत् = slightly: the drooping is small."),
-              [("They droop very strongly", "ईषत् means slightly, not strongly."),
-               ("They do not droop at all", "ईषत् softens the drooping; it does not deny it."),
-               ("Only one of them droops", "भ्रुवौ is dual: both eyebrows are described.")],
-              "ईषत् = slightly: slightly drooping eyebrows.",
-              "ईषत् = slightly, a little."),
+        T(mcq("extend", 2, "In unit 113, what does ईषत् mean?",
+              ("Slightly, a little", "ईषत् = slightly: it softens the word after it."),
+              [("Very much, greatly", "That would be अति or भृशम्; ईषत् means slightly."),
+               ("Never, not at all", "That would be न कदापि; ईषत् means slightly."),
+               ("Both of the two", "'Both' comes from the dual भ्रुवौ, not from ईषत्.")],
+              "ईषत् = slightly, a little.",
+              "ईषत् = slightly."),
           "ईषत् is an indeclinable meaning 'slightly'; it is often placed before the word it softens."),
         mcq("discriminate", 3, "What form is भ्रुवौ in unit 113?",
             ("Feminine nominative dual: two brows", "-औ here is the dual of the feminine stem भ्रू: both eyebrows."),
@@ -53,12 +53,12 @@ AUTHORED["113"] = {
             "भ्रू (f.) → dual भ्रुवौ."),
         multi("apply", 4, "Which statements fit unit 113?",
               [("No verb is printed in the line", "Right: the line is elliptical; 'are' is understood."),
-               ("It says the two eyebrows are joined", "No: it says they droop slightly, nothing about joining."),
+               ("It says the two eyebrows are joined", "No: nothing in the line speaks of the eyebrows being joined."),
                ("It gives the eyebrows' length in aṅgulas", "No: no measure is given in this line."),
                ("Both eyebrows are described together", "Right: भ्रुवौ is dual.")],
               [0, 3],
               "Elliptical line; the dual भ्रुवौ names both eyebrows, slightly drooping.",
-              "ईषत् + (प्रलम्बिन्यौ) + भ्रुवौ."),
+              "भ्रुवौ is dual; no verb is printed."),
         mcq("transfer", 5, "By the pattern of ईषत् (slightly), how is ईषत् + उष्णम् (slightly warm) joined in a new example?",
             ("ईषदुष्णम्", "त् before a vowel becomes द्: ईषत् + उष्णम् → ईषदुष्णम्."),
             [("ईषतुष्णम्", "त् does not stay त् before a vowel; it becomes द्."),
@@ -95,10 +95,10 @@ AUTHORED["114"] = {
              ("A tortoise shell", "A tortoise is कूर्म; आतपत्र is an umbrella.")],
             "आतपत्र = umbrella; -उपम = like.",
             "आतपत्र = umbrella."),
-        order(1, "Put the printed words of unit 114 in the printed order.",
-              ["वलिभं", "सुश्लिष्टसंध्यर्द्धचंद्राकृति", "ललाटम्", "आतपत्रोपमं", "शिरः"],
-              "The unclear वलिभं; the half-moon compound; forehead; umbrella-like; head.",
-              "वलिभं → सुश्लिष्ट...आकृति → ललाटम् → आतपत्रोपमं → शिरः."),
+        order(1, "Put the sure printed words of unit 114 in the printed order (the unclear first word is left out).",
+              ["सुश्लिष्टसंध्यर्द्धचंद्राकृति", "ललाटम्", "आतपत्रोपमं", "शिरः"],
+              "The half-moon compound; forehead; umbrella-like; head (the unclear वलिभं stands before them).",
+              "सुश्लिष्ट...आकृति → ललाटम् → आतपत्रोपमं → शिरः."),
         match(2, "Match each sure word of unit 114 to its meaning.",
               [["ललाट", "forehead"], ["अर्धचन्द्र", "half-moon"], ["आकृति", "shape"], ["आतपत्र", "umbrella"],
                ["उपम", "like, similar to"], ["शिरस्", "head"]],
@@ -217,7 +217,7 @@ AUTHORED["116"] = {
               "Firm, hidden; then the compound: veins, bones, joints.",
               "दृढं → गूढं → शिरा → अस्थि → संधि."),
         match(2, "Match each word of unit 116 to its meaning.",
-              [["दृढ", "firm"], ["गूढ", "hidden"], ["शिरा", "vein, vessel"], ["अस्थि", "bone"], ["सन्धि", "joint"]],
+              [["दृढ", "firm"], ["गूढ", "hidden"], ["शिरा", "vein, vessel (standard: vein)"], ["अस्थि", "bone"], ["सन्धि", "joint"]],
               "दृढ = firm, गूढ = hidden, शिरा = vein (standard), अस्थि = bone, सन्धि = joint.",
               "दृढ, गूढ, शिरा, अस्थि, सन्धि.", role="extend",
               teaches="A samāhāra dvandva such as शिरास्थिसन्धि is neuter singular, so its adjectives are neuter singular too."),
@@ -287,11 +287,11 @@ AUTHORED["117"] = {
              ("Sleeping", "Sleeping would be स्वप्न; हसित is laughing.")],
             "हसित = laughing, रुदित = weeping.",
             "हसित = laughing."),
-        mcq("apply", 4, "By the data's literal reading, what does प्रकृतिमुक्तानि say of the first list in unit 117?",
-            ("They are released in the natural way", "प्रकृति-मुक्त: released naturally (data's literal reading)."),
-            [("They are held back by an effort", "मुक्त means released, not held back."),
-             ("They are removed by a purgative", "The line names no purgative or treatment."),
-             ("They are stopped by a medicine", "मुक्त means released; no medicine is named.")],
+        mcq("apply", 4, "By the data's literal reading, what does प्रकृतिमुक्त mean in unit 117?",
+            ("Released in the natural way", "प्रकृति-मुक्त: released naturally (data's literal reading)."),
+            [("Held back by an effort", "मुक्त means released, not held back."),
+             ("Removed by a purgative", "The line names no purgative or treatment."),
+             ("Stopped by a medicine", "मुक्त means released; no medicine is named.")],
             "प्रकृतिमुक्त = released by nature, in the natural way.",
             "मुक्त = released."),
         mcq("transfer", 5, "By the pattern of चेष्टितानि (activities, n. nom. pl.), what does फलानि mean in a new example?",
@@ -368,12 +368,12 @@ AUTHORED["118"] = {
 AUTHORED["119"] = {
     "title": "भवति चात्र",
     "question": "What does the formula भवति चात्र of unit 119 do?",
-    "rule": ("And on this (matter) there is (भवति च अत्र): a formula that introduces what follows (data: the verses); "
+    "rule": ("And on this (matter) there is (भवति च अत्र): a formula that introduces what follows (data: what follows; cards 120–121 are typed verse); "
              "what 'is' is not printed."),
     "limits": ("Prose, one printed line (02.08.137). The subject of भवति is not printed, and nothing is supplied. In the "
                "data, cards 120 and 121 are typed verse, cards 122 and 123 prose."),
     "explain_hi": ("‘भवति चात्र’ यानी ‘और इस विषय में (यह) है:’। "
-                   "यह आगे आने वाली बात, डेटा के अनुसार श्लोकों, का आरम्भ-सूत्र है। "
+                   "यह आगे आने वाली बात का आरम्भ-सूत्र है (डेटा में कार्ड १२०–१२१ पद्य, १२२–१२३ गद्य)। "
                    "क्या ‘है’, यह छपा नहीं; डेटा कुछ नहीं जोड़ता और अंग्रेज़ी अनुवाद विराम-चिह्न (:) पर रुकता है। "
                    "‘चात्र’ में च + अत्र है: अ + अ → आ।"),
     "hook": "भवति चात्र: ‘इस पर यह भी है:’",
@@ -403,7 +403,7 @@ AUTHORED["119"] = {
             "च (and) + अत्र (here).",
             "अ + अ → आ."),
         mcq("apply", 4, "What is the job of भवति चात्र in unit 119?",
-            ("It introduces what follows", "A formula: 'and on this there is:' (data: the verses that follow)."),
+            ("It introduces what follows", "A formula: 'and on this there is:', opening what follows."),
             [("It closes the whole chapter", "The chapter is closed by the colophon of unit 124."),
              ("It gives the body's measure", "No measure is named in this line."),
              ("It names a disease to treat", "No disease is named in this line.")],
@@ -533,7 +533,7 @@ AUTHORED["121"] = {
         mcq("transfer", 5, "By the pattern of सर्वगुणोपेते शरीरे (in a body endowed with all qualities), what does शुद्धे देशे mean in a new example?",
             ("In a clean place", "देशे is the locative singular of देश (m.), and शुद्धे agrees with it."),
             [("Of a clean place", "'Of' would need the genitive शुद्धस्य देशस्य."),
-             ("From a clean place", "'From' would need the ablative शुद्धात् देशात्."),
+             ("From a clean place", "'From' would need the ablative शुद्धाद्देशात्."),
              ("To a clean place", "'To' would need the dative शुद्धाय देशाय or the accusative.")],
             "शुद्धे देशे = in a clean place, like सर्वगुणोपेते शरीरे = in a body endowed with all qualities.",
             "Locative -ए = in, on.",
@@ -551,11 +551,11 @@ AUTHORED["122"] = {
                "सत्त्वान् and तप्यमानः is unresolved, and तामतः is read तामसः only conjecturally: no question on line 2. "
                "Whether the unit continues card 121 is not stated."),
     "explain_hi": ("पहली पंक्ति साफ़ है: (वह) अहंकार के बिना (अनुत्सेकम्) और दीनता के बिना (अदैन्यम्) सुख और दुःख को भोगता है (सेवते)। "
-                   "यानी सुख में घमण्ड नहीं, दुःख में दीनता नहीं। "
+                   "(स्वाभाविक अर्थ सम्भवतः: सुख में घमण्ड नहीं, दुःख में दीनता नहीं; पाठ यह जोड़ी स्पष्ट नहीं करता।) "
                    "दूसरी पंक्ति कठिन है: ‘सत्त्वान्’ किस पर निर्भर है और ‘तप्यमान’ का अर्थ (तपता हुआ या तप करता हुआ) खुला है; छपा ‘तामतः’ अनुमान से ‘तामसः’ पढ़ा गया। "
                    "इसलिए प्रश्न केवल पहली पंक्ति पर हैं। "
                    "अनुत्सेक में अन्- (स्वर से पहले) और अदैन्य में अ- (व्यंजन से पहले) निषेध है।"),
-    "hook": "सुख में घमण्ड नहीं, दुःख में दीनता नहीं।",
+    "hook": "सुख-दुःख: बिना अहंकार, बिना दीनता।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In unit 122, what does दैन्य mean?",
@@ -580,7 +580,7 @@ AUTHORED["122"] = {
             [("With arrogance in pleasure, dejection in pain", "The line negates both: अन्-उत्सेक, अ-दैन्य."),
              ("Only pleasure, while all pain is avoided", "सुखं दुःखं च: both pleasure and pain are experienced."),
              ("Without feeling either of the two at all", "The line says सेवते, one does experience them.")],
-            "Pleasure without arrogance, pain without dejection.",
+            "Both pleasure and pain are experienced without arrogance and without dejection.",
             "अनुत्सेकम् अदैन्यं च सुखं दुःखं च सेवते."),
         mcq("apply", 4, "In unit 122, why does अनुत्सेक have अन्- but अदैन्य has अ-?",
             ("अन्- before a vowel, अ- before a consonant", "उ of उत्सेक is a vowel; द of दैन्य is a consonant."),
@@ -615,7 +615,7 @@ AUTHORED["123"] = {
                    "छपा ‘दयास्त्य’ बिगड़ा है: ‘सत्य’ अनुमानित पाठ है, ‘अस्तेय’ (चोरी न करना) भी सम्भव; इसलिए उस पर प्रश्न नहीं। "
                    "यह सूची दूसरी पंक्ति की कर्ता है या नहीं, और रसायन से यहाँ क्या अभिप्रेत है, पाठ नहीं कहता। "
                    "‘पुण्यायुर्वृद्धि’ में पुण्य + आयुः (अ + आ → आ) और आयुः + वृद्धि (घोष व्यंजन से पहले उः → उर्) हैं।"),
-    "hook": "दान, शील, दया, ब्रह्मचर्य, कृतज्ञता: आयु बढ़ाने वाले।",
+    "hook": "दान, शील, दया, ब्रह्मचर्य, कृतज्ञता; फिर रसायन और मैत्री।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In unit 123, what does कृतज्ञता mean?",
@@ -701,7 +701,7 @@ AUTHORED["124"] = {
         mcq("apply", 4, "Why is अष्टमः printed अष्टमो before ऽध्यायः in unit 124?",
             ("अः before अ → ओ, and that अ is elided", "अष्टमः + अध्यायः → अष्टमोऽध्यायः: the avagraha marks the elided अ."),
             [("अः before any vowel at all → ओ", "Not any: before a vowel other than अ, अः becomes अ."),
-             ("आः before the vowel अ → ओ", "The word ends in अः; आः only drops its visarga before a voiced sound."),
+             ("आः before the vowel अ → ओ", "The word ends in अः, not आः; and आः never gives ओ (before a voiced sound it drops its visarga)."),
              ("ओ is the ordinal's own ending", "The nominative is अष्टमः; ओ comes only from sandhi.")],
             "अष्टमः + अध्यायः → अष्टमोऽध्यायः.",
             "अः + अ → ओऽ."),
@@ -735,7 +735,7 @@ NOTES_HI = {
     "117": ("गद्य; विश्वास निम्न; एक छपी पंक्ति (०२.०८.१३५)। पाठ-चिह्न (सम्भव): ‘हसितरुदितार्द्रनि’ का अन्त ‘आर्द्रनि’ कोई शब्द नहीं "
             "(शायद आर्द्राणि; आर्द्र = गीला), इसलिए अस्पष्ट; केवल हसित और रुदित निश्चित। ‘चंचेष्टितानि’ = च चेष्टितानि (भूल से "
             "अनुस्वार)। वात यहाँ अधोवायु है, दोष नहीं (डेटा); गुह्य = गुप्त अंग या बातें (सम्भावित: जननांग)। ‘प्रकृतिमुक्त’ सब पर लागू "
-            "है, यह नहीं कहा। सन्धि: समास के भीतर कोई स्वर-सन्धि नहीं, केवल पद जुड़े हैं।"),
+            "है, यह नहीं कहा। सन्धि: पहले समास में पद बिना स्वर-सन्धि जुड़े हैं; ‘रुदितार्द्रनि’ में अ + आ → आ दिखता है, पर वह शब्द अस्पष्ट है।"),
     "118": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.०८.१३६); कोई पाठ-चिह्न नहीं। ‘अधःप्रसृतानुपूर्व्या’ का ठीक अर्थ और क्या फैलता है "
             "(जल या लेप), खुला है। अन्त का ‘इति’ डेटा के अनुसार कार्ड १०० (छपी पंक्ति ११८, ‘इष्टं च पुनर्...’) से चले वर्णन (कार्ड "
             "१००–११७) को समाप्त करता प्रतीत होता है; पाठ यह नहीं कहता। सन्धि जाँची: स्नात + अनुलिप्तम् → स्नातानुलिप्तम् (अ + अ → "
@@ -752,7 +752,7 @@ NOTES_HI = {
             "‘शरीरेशरदां’ बिना जगह; ए + श में कोई सन्धि नहीं, इसलिए विभाग नियमित। ‘इष्टाः’ को ‘सर्वे भावाः’ के साथ लेना डेटा का पाठ। "
             "सन्धि जाँची: गुण + उपेते → गुणोपेते (अ + उ → ओ); शरदाम् + शतम् → शरदां शतम् (व्यंजन से पहले अन्तिम म् → ं); आयुः + "
             "ऐश्वर्यम् → आयुरैश्वर्यम् (उ के बाद विसर्ग स्वर से पहले र्); -मिष्टाः + च → -मिष्टाश्च (च से पहले विसर्ग → श्)।"),
-    "122": ("डेटा में गद्य (पहली पंक्ति अनुष्टुभ्-जैसी लगती है, पर प्रकार वही रखा गया); विश्वास निम्न; दो छपी पंक्तियाँ (०२.०८.१४२ "
+    "122": ("गद्य; विश्वास निम्न; दो छपी पंक्तियाँ (०२.०८.१४२ "
             "और ०२.०८.१४३)। पाठ-चिह्न (सम्भव): छपा ‘तामतः’ कोई शब्द नहीं, अनुमान से ‘तामसः’ (राजस के जोड़ में)। ‘सत्त्वान्’ किस पर "
             "निर्भर है, और ‘तप्यमान’ = तपता या तप करता, खुला। सन्धि जाँची: अदैन्यम् + च → अदैन्यं च (व्यंजन से पहले अन्तिम म् → ं); "
             "सत्त्वान् + तप्यमानः → सत्त्वांस्तप्यमानः (त से पहले न् → ंस्); तप्यमानः + तु → तप्यमानस्तु (त से पहले विसर्ग → स्); "
@@ -816,7 +816,7 @@ AIDS = {
         "diagram": {"groups": [
             {"label": "छपा क्रम", "items": ["उत्तरोत्तरसुक्षेत्रम्", "गर्भात् प्रभृति नीरुजम्", "आयाम, ज्ञान, विज्ञान से",
                                         "वर्द्धमानं", "शनैः शुभं"]}]},
-        "chunks": "उत्तरोत्तरसुक्षेत्रं | गर्भात्प्रभृति | नीरुजं || आयामज्ञानविज्ञानैः | वर्द्धमानं | शनैः शुभं",
+        "chunks": "उत्तरोत्तरसुक्षेत्रं | गर्भात्प्रभृति | नीरुजं || आयामज्ञानविज्ञानैर्वर्द्धमानं | शनैः शुभं",
         "sandhi": ("अ + उ → ओ: उत्तर + उत्तर → उत्तरोत्तर · ऐ के बाद विसर्ग घोष ध्वनि से पहले र्: -विज्ञानैः + वर्धमानम् → "
                    "-विज्ञानैर्वर्धमानम् · अघोष प से पहले त् वैसा ही: गर्भात्प्रभृति।"),
     },
@@ -915,11 +915,12 @@ IMAGE_SPECS = {
     ("123", "diagram"): {
         "file": "sh8-dana-shila-123.svg",
         "alt": ("Table of card 123 in printed order: giving, conduct, compassion, an unclear item, continence, gratitude; "
-                "then rasāyanas, friendliness, and the quality causing increase of merit and life-span."),
+                "line 2: rasāyanas, friendliness, and the quality causing increase of merit and life-span."),
         "type": "table",
-        "title": "कार्ड १२३: गुणों की सूची",
-        "heads": ["क्रम", "गुण"],
-        "rows": [["१", "दान"], ["२", "शील: आचरण"], ["३", "दया"], ["४", "-स्त्य-: अस्पष्ट"], ["५", "ब्रह्मचर्य"],
-                 ["६", "कृतज्ञता"], ["७", "रसायनानि"], ["८", "मैत्री"], ["९", "पुण्य-आयु-वृद्धि का हेतु गुण"]],
+        "title": "कार्ड १२३: दो छपी पंक्तियाँ",
+        "heads": ["पंक्ति · क्रम", "शब्द"],
+        "rows": [["१ · १", "दान"], ["१ · २", "शील: आचरण"], ["१ · ३", "दया"], ["१ · ४", "-स्त्य-: अस्पष्ट"],
+                 ["१ · ५", "ब्रह्मचर्य"], ["१ · ६", "कृतज्ञता"], ["२ · १", "रसायनानि"], ["२ · २", "मैत्री"],
+                 ["२ · ३", "पुण्य-आयु-वृद्धि का हेतु गुण"]],
     },
 }
