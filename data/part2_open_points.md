@@ -234,3 +234,4 @@
 - Śārīra 11 card 36 (036-r3) asks the printed "three fortnights" (as sh10 practice); owner may prefer no question on any time to death.
 - Śārīra 11: aśmarī, kāmalā, apasmāra have no identification label in the data.
 - Cross-chapter reuse of transfer examples (e.g. हिमाचलः in six chapters) is not caught by the per-chapter check; left as is.
+- Śārīra 11 unit 51: the data English and the gloss of मारुत say "wind"; here it is the air passing through the fistula. Suggest glossing it "air (vāyu)". The card's own text already says vāyu (māruta).
