@@ -10,7 +10,7 @@ AUTHORED = {}
 
 # ---------------------------------------------------------------- unit 100
 AUTHORED["100"] = {
-    "title": "इष्टं च पुनः",
+    "title": "इष्टं च पुनर्…",
     "question": "By card 100, which qualities open the long description of a desirable body, and which parts are sure?",
     "rule": ("Desirable (इष्टम्), moreover, is one with: large head, well-developed thighs, fine bones, long fingers, broad "
              "mouth, steady senses, deep navel, red palate, black hair, low-set ears, dense shoulders, and more: one run "
@@ -51,7 +51,7 @@ AUTHORED["100"] = {
              ("The fingers (अंगुलि)", "The fingers stand after दीर्घ (long), not after गंभीर.")],
             "गंभीर → नाभि: the deep navel.",
             "गंभीरनाभि = deep navel."),
-        mcq("apply", 4, "By card 100, which quality opens the compound whose first part is the palate (तालु)?",
+        mcq("apply", 4, "By card 100, which quality stands right before the palate (तालु) at the start of its compound?",
             ("Red (रक्त)", "रक्तताल्वोष्ठनखनेत्रांतम्: red palate, lips, nails and eye-corners."),
             [("Fine (सूक्ष्म)", "सूक्ष्म opens the compound of bones, teeth, nails, finger-joints and hair."),
              ("Black (कृष्ण)", "कृष्ण opens the compound of hair, eyebrows, eyes, eyelashes and pupil."),
@@ -286,7 +286,7 @@ AUTHORED["104"] = {
         multi("apply", 4, "Which statements about card 104 are sure?",
               [("स्तनौ and भ्रुवौ are separate words", "Yes: each has its own dual ending."),
                ("The line names the nails and feet", "No: those come in card 105."),
-               ("It gives the breasts a measure", "No: no measure is given."),
+               ("It names the eyelids too", "No: only the breasts and the eyebrows are named."),
                ("No verb is printed in the line", "Yes: the line is elliptical.")],
               [0, 3],
               "Two dual words, joined by च; no verb.",
@@ -420,7 +420,7 @@ AUTHORED["107"] = {
     "question": "By card 107, what is said of the jaws, and what does the text leave open?",
     "rule": "The two jaws (हनू) are not prominent (अनुल्बणे), and the dress (वेषः) is named too.",
     "limits": ("Prose, no verb. अनुल्बणे is dual and agrees with हनू; whether 'not prominent' also covers वेष is not stated, "
-               "and वेष may mean dress or appearance: no question on what is said of वेष."),
+               "and वेष may mean dress or appearance: no question decides what is said of वेष (one asks only that the data leaves it open)."),
     "explain_hi": ("दोनों हनु यानी जबड़े अनुल्बण हों: उभरे हुए या अधिक नहीं। "
                    "‘अनुल्बणे’ स्त्रीलिंग द्विवचन है और ‘हनू’ से मेल खाता है; यहाँ हनु स्त्रीलिंग है। "
                    "‘वेषः’ (पहनावा या रूप) च से जुड़ा है, पर उस पर भी ‘अनुल्बण’ लागू है या नहीं, यह नहीं कहा। "
@@ -463,7 +463,7 @@ AUTHORED["107"] = {
         mcq("transfer", 5, "By the pattern of अन् + उल्बण → अनुल्बण, how is the negative of उचित (proper) formed in a new example?",
             ("अनुचित", "Before a vowel the negative is अन्-: अन् + उचित → अनुचित."),
             [("अउचित", "अ- is used only before a consonant; before a vowel it is अन्-."),
-             ("नउचित", "The negative prefix in a compound is अ-/अन्-, not न-."),
+             ("नउचित", "न + उ would not stay apart (it would join as नो-), and before a vowel the usual negative prefix is अन्-."),
              ("अनोचित", "ओ would come from अ + उ; here न् simply joins the उ.")],
             "अनुचित = not proper, like अनुल्बण = not prominent.",
             "Negative prefix: अ- before a consonant, अन्- before a vowel.",
@@ -679,7 +679,7 @@ AUTHORED["111"] = {
         mcq("apply", 4, "Why is तालुपादोदरम् singular though it names three parts?",
             ("A samāhāra dvandva: one neuter whole", "The three parts are taken together as one neuter singular."),
             [("Only the belly is meant by the word", "All three are meant: palate, feet and belly."),
-             ("The singular is a misprint for the dual", "No misprint is flagged; the samāhāra form is singular."),
+             ("The singular is a misprint for the plural", "No misprint is flagged; the samāhāra form is singular."),
              ("तालु and पाद only describe the belly", "They are members of a dvandva, not qualifiers.")],
             "तालु + पाद + उदर → तालुपादोदरम् (n. sg.).",
             "Samāhāra dvandva → neuter singular."),
@@ -751,7 +751,7 @@ AUTHORED["112"] = {
 
 # ================================================================ NOTES_HI
 NOTES_HI = {
-    "100": ("गद्य; विश्वास कम; एक छपी पंक्ति (०२.०८.११८)। बहुव्रीहि विशेषणों की लम्बी शृंखला, सब नपुंसक/सामान्य प्रथमा-द्वितीया एकवचन; "
+    "100": ("गद्य; विश्वास कम; एक छपी पंक्ति (०२.०८.११८)। बहुव्रीहि विशेषणों की लम्बी शृंखला, सब प्रथमा/द्वितीया एकवचन (डेटा लिंग नहीं बताता); "
             "कोई संज्ञा छपी नहीं; डेटा के अनुसार वर्णन कार्ड १०१ में जारी है और कार्ड ११८ (‘शरीरम्’) तक चलता प्रतीत होता है। "
             "पाठ-चिह्न (सम्भव): ‘बाहूच्च्छासेक्षित’ में अतिरिक्त च, ‘उच्छास’ कोई शब्द नहीं, ‘उच्छ्वास’ (श्वास) अनुमानित पाठ; ‘लालटा’ = ललाट; "
             "‘मेंढ्र’ = मेढ्र (मानक: शिश्न); ‘जिव्हा’ = जिह्वा (वर्तनी-भेद)। तीन टुकड़े अपठनीय, अविभक्त रखे गए: ‘त्वकचकरजन’, "
@@ -896,16 +896,16 @@ AIDS = {
 IMAGE_SPECS = {
     ("100", "diagram"): {
         "file": "sh8-ishta-anga-100.svg",
-        "alt": ("Table of card 100 in printed order: twelve qualifiers, each with the first body part after it: large head, "
+        "alt": ("Table of card 100 in printed order: twelve of its qualifiers (those followed by a sure body part), each with the first body part after it: large head, "
                 "well-developed thighs, fine bones, long fingers, broad mouth, steady senses, deep navel, hidden jatru "
                 "(probable), red palate, black hair, low-set ears, dense shoulders."),
         "type": "table",
         "title": "कार्ड १००: गुण और पहला अंग",
         "heads": ["गुण", "पहला अंग"],
         "rows": [["१ महा: बड़ा", "शिर"], ["२ उपचित: पुष्ट", "ऊरु"], ["३ सूक्ष्म: पतला", "अस्थि"],
-                 ["४ दीर्घ: लम्बा", "अंगुलि"], ["५ विस्तीर्ण: चौड़ा", "आस्य"], ["६ स्थिर", "इंद्रिय"],
+                 ["४ दीर्घ: लम्बा", "अंगुलि"], ["५ विस्तीर्ण: चौड़ा", "आस्य"], ["६ स्थिर: अचल", "इंद्रिय"],
                  ["७ गंभीर: गहरा", "नाभि"], ["८ गूढ: छिपा", "जत्रु (सम्भावित)"], ["९ रक्त: लाल", "तालु"],
-                 ["१० कृष्ण: काला", "केश"], ["११ नीचैर्बद्ध: नीचे", "कर्ण"], ["१२ घन: घना", "स्कंध"]],
+                 ["१० कृष्ण: काला", "केश"], ["११ नीचैर्बद्ध: नीचे बँधा", "कर्ण"], ["१२ घन: घना", "स्कंध"]],
     },
     ("101", "contrast"): {
         "file": "sh8-vritta-sama-101.svg",
@@ -927,12 +927,12 @@ IMAGE_SPECS = {
     ("110", "diagram"): {
         "file": "sh8-saspanda-110.svg",
         "alt": ("Table of card 110 in printed order: the heart, with throbbing; the two temples; the two manyā (probably "
-                "the vessels at the sides of the neck); throbbing is printed only with the heart."),
+                "the vessels at the sides of the neck); throbbing is printed with the heart; whether it also covers the others is not stated."),
         "type": "table",
         "title": "कार्ड ११०: धड़कता हृदय",
         "heads": ["अंग", "छपा गुण"],
-        "rows": [["हृदयम्: हृदय", "सस्पंद: धड़कन सहित"], ["शंखौ: कनपटियाँ", "अलग से कुछ नहीं"],
-                 ["मन्ये: मन्या (सम्भावित)", "अलग से कुछ नहीं"]],
+        "rows": [["हृदयम्: हृदय", "सस्पंद: धड़कन सहित"], ["शंखौ: कनपटियाँ", "सस्पंद भी? कहा नहीं"],
+                 ["मन्ये: मन्या (सम्भावित)", "सस्पंद भी? कहा नहीं"]],
     },
     ("111", "diagram"): {
         "file": "sh8-soshma-111.svg",
