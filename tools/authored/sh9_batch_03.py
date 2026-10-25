@@ -93,7 +93,7 @@ AUTHORED["28"] = {
               "यस्य = whose, मूत्र = urine, अति = very, उग्र = fierce.",
               "यस्य, मूत्र, अति, उग्र."),
         fill(2, "In unit 28, the word for 'urine' is ____ (type it in Devanagari or in English letters, e.g. dharma).",
-             accepts("मूत्रम्", None, "मूत्र"),
+             accepts("मूत्रम्", None, "मूत्र", "mutram", "mutra"),
              "मूत्रम्, neuter nominative singular: यस्य मूत्रम् अत्युग्रम्.",
              "मूत्रम् (urine) is neuter: its adjective अत्युग्रम् is neuter too.",
              "मूत्र = urine."),
