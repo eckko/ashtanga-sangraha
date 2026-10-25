@@ -101,9 +101,9 @@ AUTHORED["15"] = {
               "आक्रामति = overspreads, प्रकाशयति = illuminates, विप्रकृष्टा = distant, पञ्चभूतात्मिका = made of the five bhūtas, तेजः = fire.",
               "आक्रामति, प्रकाशयति, विप्रकृष्टा, पञ्चभूतात्मिका, तेजः."),
         order(2, "Put these sure parts of card 15 in the printed order.",
-              ["छाया", "वर्णमाक्रामति", "पंचभूतात्मिका", "प्रभा तु", "वर्णं प्रकाशयति", "तेजःप्रभैव"],
+              ["छाया", "वर्णमाक्रामत्यासन्ना", "पंचभूतात्मिका", "प्रभा तु", "वर्णं प्रकाशयति", "तेजःप्रभैव"],
               "Line 1 is about chāyā (overspreads the colour, of five elements); line 2 about prabhā (illuminates the colour, radiance of tejas).",
-              "छाया → वर्णमाक्रामति → पंचभूतात्मिका → प्रभा तु → वर्णं प्रकाशयति → तेजःप्रभैव.",
+              "छाया → वर्णमाक्रामत्यासन्ना → पंचभूतात्मिका → प्रभा तु → वर्णं प्रकाशयति → तेजःप्रभैव.",
               role="extend",
               teaches="तु (but) opens line 2 and sets prabhā against chāyā point by point."),
         mcq("discriminate", 3, "By card 15, which of these is said of chāyā, not of prabhā?",
@@ -135,7 +135,7 @@ AUTHORED["15"] = {
 AUTHORED["16"] = {
     "title": "यस्य दृष्टौ प्रतिच्छायमयी कुमारिका",
     "question": "By card 16, what is not seen in the eye of one who is called parāsu?",
-    "rule": ("He in whose eye (दृष्टौ) the little figure made of reflection (प्रतिच्छायमयी कुमारिका) is not seen is "
+    "rule": ("He in whose eye (दृष्टौ) the kumārikā (literally 'little girl'; probably the small figure seen in the pupil) made of reflection (प्रतिच्छायमयी कुमारिका) is not seen is "
              "parāsu (परासुः), one whose life-breath has gone."),
     "limits": ("Prose. कुमारिका is literally 'little girl'; that it is the small figure seen in the pupil is only "
                "probable (data's label): no question rests on what it is. दृष्टि is taken as the eye. 'Is' is understood."),
@@ -143,7 +143,7 @@ AUTHORED["16"] = {
                    "कुमारिका का शब्दार्थ ‘छोटी कन्या’ है; यह सम्भवतः पुतली में दिखने वाली छोटी आकृति है (सम्भावित, डेटा का लेबल)। "
                    "परासु = परा (दूर गए) + असु (प्राण): बहुव्रीहि। "
                    "‘सपरासुः’ में सः + परासुः है: सः व्यंजन से पहले विसर्ग खो देता है। क्रिया ‘है’ समझी जाती है।"),
-    "hook": "आँख में अपना छोटा प्रतिबिम्ब न दिखे: परासु।",
+    "hook": "आँख में प्रतिच्छायमयी कुमारिका (सम्भवतः पुतली की छोटी आकृति) न दिखे: परासु।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 16, what does परासुः mean?",
@@ -195,15 +195,15 @@ AUTHORED["17"] = {
     "question": "By card 17, in what ways may a person's reflection suddenly be seen changed?",
     "rule": ("He whose reflection (प्रतिच्छाया) in sunlight and the like is suddenly (अकस्मात्) seen cut, split, deficient, "
              "in excess, confused, lost, with head downward, headless, two-headed, spread out, otherwise or distorted."),
-    "limits": ("Medium confidence. ādarśa (mirror) and jihmā (crooked) are conjectures for printed अतपदर्श- and जिह्या: no "
-               "question on either. No main clause here; the data takes cards 17 to 21 as one series that ends with स "
+    "limits": ("Medium confidence. ādarśa (mirror) and jihmā (crooked) are conjectures for printed आतपदर्श- and जिह्या: no "
+               "question on either. No main clause here; the data's notes suggest cards 17 to 21 form one series that ends with स "
                "गतायुः (card 21)."),
     "explain_hi": ("जिसकी प्रतिच्छाया धूप आदि में अचानक (अकस्मात्) कटी, फटी, हीन, अधिक, व्याकुल, नष्ट, नीचे सिर वाली, सिरहीन, दो सिर वाली, फैली हुई, "
                    "अन्य प्रकार की या विकृत दिखाई दे। "
                    "‘आदर्श’ (दर्पण) और ‘जिह्मा’ (टेढ़ी) अनुमानित पाठ हैं (छपा ‘आतपदर्श’ और ‘जिह्या’), इसलिए उन पर प्रश्न नहीं। "
-                   "इस इकाई में मुख्य वाक्य नहीं है; डेटा कार्ड १७ से २१ को एक ही शृंखला मानता है, जिसका मुख्य वाक्य ‘स गतायुः’ कार्ड २१ में है। "
+                   "इस इकाई में मुख्य वाक्य नहीं है; डेटा के नोट्स के अनुसार कार्ड १७ से २१ सम्भवतः एक ही शृंखला हैं, जिसका मुख्य वाक्य ‘स गतायुः’ कार्ड २१ में है। "
                    "‘-आदिष्वकस्मात्’ में -आदिषु + अकस्मात् की सन्धि है (उ + अ → व)।"),
-    "hook": "अपनी छाया अचानक कटी, बिना सिर या दो सिर की दिखे: अशुभ संकेत।",
+    "hook": "प्रतिच्छाया अचानक कटी, बिना सिर या दो सिर की दिखे: शृंखला का एक लक्षण।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 17, what does अकस्मात् mean?",
@@ -253,10 +253,10 @@ AUTHORED["18"] = {
     "title": "यस्य ललाटं न स्विद्यति",
     "question": "By card 18, what is said of the forehead?",
     "rule": "He whose forehead (ललाटम्) does not sweat (न स्विद्यति).",
-    "limits": ("Prose, one relative clause; the main clause is not in this card. The data takes it as part of the series "
+    "limits": ("Prose, one relative clause; the main clause is not in this card. The data's notes (cards 20, 21) suggest it belongs to the series "
                "of cards 17 to 21 that ends with स गतायुः (card 21). Nothing says when or how long."),
     "explain_hi": ("जिसका ललाट (माथा) पसीजता नहीं। "
-                   "यह केवल ‘यस्य’ वाला उपवाक्य है; मुख्य वाक्य यहाँ नहीं, डेटा के अनुसार यह कार्ड १७ से २१ की शृंखला का भाग है। "
+                   "यह केवल ‘यस्य’ वाला उपवाक्य है; मुख्य वाक्य यहाँ नहीं, डेटा के अनुसार यह सम्भवतः कार्ड १७ से २१ की शृंखला का भाग है। "
                    "‘स्विद्यति’ √स्विद् का वर्तमान, कर्तृवाच्य रूप है (पसीजता है); -यति होने से यह कर्मवाच्य नहीं हो जाता। "
                    "‘ललाटं न’ में ललाटम् का म् व्यंजन न से पहले अनुस्वार लिखा गया।"),
     "hook": "माथे पर पसीना न आए: शृंखला का एक लक्षण।",
@@ -309,11 +309,11 @@ AUTHORED["19"] = {
     "question": "By card 19, how do the hair of the head and body look?",
     "rule": ("He whose head-hair and body-hair (केशलोमानि), though unanointed (अनभ्यक्तानि), are seen as if anointed "
              "(अभ्यक्तवत् दृश्यन्ते)."),
-    "limits": ("Prose, one relative clause; the main clause is not here (the data's series of cards 17 to 21). "
+    "limits": ("Prose, one relative clause; the main clause is not here (the data's notes suggest a series of cards 17 to 21). "
                "अभ्यक्त = anointed with oil or ointment; the line does not say which."),
-    "explain_hi": ("जिसके सिर के केश और शरीर के रोम तेल न लगे होने पर भी तेल लगे हुए जैसे (चिकने) दिखाई दें। "
+    "explain_hi": ("जिसके सिर के केश और शरीर के रोम तेल न लगे होने पर भी तेल लगे हुए जैसे दिखाई दें। "
                    "अभ्यक्त = तेल या लेप लगा हुआ; कौन-सा, यह पंक्ति नहीं कहती। "
-                   "मुख्य वाक्य यहाँ नहीं; डेटा इसे कार्ड १७ से २१ की शृंखला का भाग मानता है। "
+                   "मुख्य वाक्य यहाँ नहीं; डेटा के अनुसार यह सम्भवतः कार्ड १७ से २१ की शृंखला का भाग है। "
                    "छपाई में ‘यस्य’ के बाद रिक्त स्थान छूटा है। सन्धियाँ: लोमानि + अनभ्यक्तानि (इ + अ → य), अभ्यक्तवत् + दृश्यन्ते (त् + द → द्द)।"),
     "hook": "बिना तेल के भी बाल तेल लगे जैसे दिखें।",
     "core": False,
@@ -364,17 +364,17 @@ AUTHORED["19"] = {
 AUTHORED["20"] = {
     "title": "नयने चातिप्रविष्टे",
     "question": "By card 20, which changes of the two eyes are listed, and which ones form opposite pairs?",
-    "rule": ("The two eyes (नयने) sunk in too deep or protruding, widened or contracted, with contracted or bent brows, "
-             "with ceased or deficient sight, like a mongoose or a pigeon, of firebrand colour or of abnormal colour (blue and the like), very unsteady, "
+    "rule": ("The two eyes (नयने) sunk in too deep or protruding, widened or contracted, with contracted or bent brows, uneven (विषमे), "
+             "with ceased or deficient sight, like a mongoose or a pigeon, of firebrand colour or of abnormal colour (blue and the like), very unsteady, stiff and drooping (a reading), "
              "discharging, too open, too shut, or with lost lashes."),
     "limits": ("Medium confidence. Printed जिह्वे is read jihme (crooked), a conjecture: no question on it. विश्रान्त is "
-               "kept as printed (vibhrānta is an alternative). स्तब्धस्रस्ते as 'stiff and drooping' is a reading: no "
-               "question. Nakula = mongoose (standard); no verb, no 'yasya' (series of cards 17 to 21)."),
-    "explain_hi": ("दोनों आँखें (नयने, नपुंसक द्विवचन) बहुत भीतर धँसी या बाहर निकली, फैली या सिकुड़ी, सिकुड़ी या झुकी भौंहों वाली, रुकी या क्षीण दृष्टि वाली, "
+               "kept as printed (alt. vibhrānta). स्तब्धस्रस्ते as 'stiff and drooping' is a reading: no "
+               "question. Nakula = mongoose (standard). No verb; appears to belong to the series of cards 17-21."),
+    "explain_hi": ("दोनों आँखें (नयने, नपुंसक द्विवचन) बहुत भीतर धँसी या बाहर निकली, फैली या सिकुड़ी, सिकुड़ी या झुकी भौंहों वाली, ऊँची-नीची (विषमे), रुकी या क्षीण दृष्टि वाली, "
                    "नकुल (नेवला, मानक) या कपोत (कबूतर) जैसी, जलती लकड़ी के रंग की या नील आदि विकृत रंग की, बहुत चंचल, बहती हुई, बहुत खुली, बहुत मिची, या झड़ी पलकों वाली। "
                    "छपा ‘जिह्वे’ (दो जीभें) यहाँ नहीं बैठता; ‘जिह्मे’ (टेढ़ी) अनुमानित पाठ है, इस पर प्रश्न नहीं। "
                    "‘स्तब्धस्रस्ते’ का ‘कड़ी और ढीली’ अर्थ एक व्याख्या है। "
-                   "इस इकाई में न ‘यस्य’ है न क्रिया; डेटा इसे कार्ड १८-१९ के बाद की शृंखला मानता है, जो कार्ड २१ में पूरी होती है।"),
+                   "इस इकाई में न ‘यस्य’ है न क्रिया; डेटा के अनुसार यह सम्भवतः कार्ड १८-१९ के बाद की शृंखला है, जो कार्ड २१ में पूरी होती है।"),
     "hook": "धँसी या उभरी, फैली या सिकुड़ी, बहुत खुली या बहुत मिची: आँखों के उलटे जोड़े।",
     "core": True,
     "questions": [
@@ -426,11 +426,11 @@ AUTHORED["21"] = {
     "question": "By card 21, which changes of the nose are listed, and what is said of such a person?",
     "rule": ("Or the nose (नासिका) too wide open, too closed, crooked, cracked, covered with small boils (पिटिकाचिता) or "
              "dry: he is gatāyu (स गतायुः), one whose life-span has gone."),
-    "limits": ("Prose, high confidence. स गतायुः is the only main clause; the data takes it as closing the series of "
+    "limits": ("Prose, high confidence. स गतायुः is the only main clause; the data's notes suggest it closes the series of "
                "cards 17 to 21, but the line itself names only the nose. piṭikā = small boil or pustule (data); no "
                "cause, time or treatment is given."),
     "explain_hi": ("या नाक बहुत खुली, बहुत बन्द, टेढ़ी, फटी, पिटिका (छोटी फुंसियों) से ढकी या सूखी हो: वह गतायु है, यानी जिसकी आयु जा चुकी। "
-                   "डेटा के अनुसार ‘स गतायुः’ कार्ड १७ से २१ की पूरी शृंखला का मुख्य वाक्य है। "
+                   "डेटा के अनुसार ‘स गतायुः’ सम्भवतः कार्ड १७ से २१ की पूरी शृंखला का मुख्य वाक्य है। "
                    "गतायु = गत (गई हुई) + आयु: बहुव्रीहि, कार्ड १६ के ‘परासु’ जैसा। "
                    "‘वा ऽतिविवृता’ में वा + अति है; ऽ छपाई की आदत है।"),
     "hook": "नाक बहुत खुली या बहुत बन्द, फटी या सूखी: स गतायुः।",
@@ -492,7 +492,7 @@ AUTHORED["22"] = {
                    "वाक्य-रचना अनिश्चित है: ‘याति’ दोनों होंठों पर लगता है या नहीं, और द्विवचन ‘ऊर्ध्वमुखौ’, ‘नीलौ’ किसके विशेषण हैं (सम्भवतः दोनों होंठ, जो छपे नहीं)। "
                    "इसलिए रचना पर कोई प्रश्न नहीं, केवल शब्द और सन्धियाँ। "
                    "सन्धियाँ: अधः + अधरोष्ठः → अधोऽधरोष्ठः (अः + अ → ओऽ), अधरोष्ठः + याति → अधरोष्ठो याति (अः + घोष व्यंजन → ओ)।"),
-    "hook": "निचला होंठ नीचे, ऊपरी ऊपर, या जामुन जैसे नीले।",
+    "hook": "अधरोष्ठ नीचे जाए; ऊर्ध्वमुखौ, जामुन जैसे नीलौ: रचना अनिश्चित।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "In card 22, what does ओष्ठ mean?",
@@ -515,7 +515,7 @@ AUTHORED["22"] = {
         mcq("discriminate", 3, "Which split of अधोऽधरोष्ठो in card 22 is right?",
             ("अधः + अधरोष्ठः", "अः + अ → ओऽ: अधः + अधरोष्ठः → अधोऽधरोष्ठः."),
             [("अधः + धरोष्ठः", "No अ would be dropped then: it would print अधोधरोष्ठः, without ऽ."),
-             ("अधो + अधरोष्ठः", "अधो is not a word by itself; the ओ comes from अः + अ."),
+             ("अधः + उधरोष्ठः", "उधरोष्ठः is not a word, and अः before उ would print अध उ-, not अधोऽ."),
              ("अध + ऽधरोष्ठः", "अध is not a word; the adverb is अधः (downward).")],
             "अधः (downward) + अधरोष्ठः (lower lip): अः + अ → ओऽ.",
             "अः + अ → ओऽ."),
@@ -546,8 +546,8 @@ AUTHORED["23"] = {
     "limits": ("Medium confidence. पुष्पित (flowered) is kept literal; its sense is not stated. शर्करा = grit (tartar is "
                "possible, not stated): no question on either sense. The first half has no verb; पतन्ति belongs to the last "
                "alternative only."),
-    "explain_hi": ("या दाँत बहुत रूखे, ताम्र (ताँबे के रंग के), श्याम, कीचड़ जैसे, पुष्पित, शर्करा (कंकड़ी के कणों) वाले हों, या अचानक (सहसा) गिर जाएँ (पतन्ति)। "
-                   "‘पुष्पित’ शब्दशः ‘फूला हुआ’ रखा गया, इसका अर्थ पंक्ति नहीं बताती; ‘शर्करा’ से टार्टर भी सम्भव है, पर कहा नहीं गया। "
+    "explain_hi": ("या दाँत बहुत रूखे, ताम्र (ताँबे के रंग के), श्याम, कीचड़ वाले, पुष्पित, शर्करा (कंकड़ी के कणों) वाले हों, या अचानक (सहसा) गिर जाएँ (पतन्ति)। "
+                   "‘पुष्पित’ शब्दशः ‘फूलों वाले’ (पुष्पित) रखा गया, इसका अर्थ पंक्ति नहीं बताती; ‘शर्करा’ से टार्टर भी सम्भव है, पर कहा नहीं गया। "
                    "पहले भाग में क्रिया नहीं; ‘पतन्ति’ केवल अन्तिम विकल्प की क्रिया है। "
                    "सन्धियाँ: दन्ताः + वा → दन्ता वा (आः घोष से पहले विसर्ग खोता है), अतिरूक्षाः + ताम्राः → अतिरूक्षास्ताम्राः (त से पहले ः → स्)।"),
     "hook": "रूखे, ताम्र, श्याम दाँत, या अचानक गिरें।",
@@ -657,12 +657,12 @@ AUTHORED["25"] = {
     "title": "यस्य गंडेललाटहनुबंधनानि",
     "question": "By card 25, what is said of the attachments of the face, and which half of the line is uncertain?",
     "rule": ("He whose attachments (बन्धनानि) of cheek, forehead and jaw are slack (स्रस्तानि) as if fallen from their "
-             "place (स्थानात् च्युतानि इव); the second half, on a conjectural reading, says head, neck or back does not "
+             "place (printed स्थानाच्चुतानीव, read स्थानात् च्युतानि इव; the य of च्युत is not printed); the second half, on a conjectural reading, says head, neck or back does not "
              "bear its own weight."),
-    "limits": ("Low confidence. The second half rests on a conjecture (dhatte for printed धन्ते), and the cases of "
-               "शिरोधरां and स्वभारं are unclear: no question on its sense. गंडे- may be compound gaṇḍa- or locative "
-               "gaṇḍe: no question on that. Card 26 appears to continue."),
-    "explain_hi": ("जिसके गाल, ललाट और हनु (जबड़े) के बन्धन मानो अपने स्थान से च्युत होकर ढीले (स्रस्तानि) हों। "
+    "limits": ("Low confidence. Second half conjectural (dhatte for printed धन्ते; cases of शिरोधरां, "
+               "स्वभारं unclear): no question on its sense. गंडे- may be compound gaṇḍa- or locative "
+               "gaṇḍe: no question on that. Printed स्थानाच्चुतानीव lacks the य of च्युतानि (unflagged): no question on that word or its joins."),
+    "explain_hi": ("जिसके गाल, ललाट और हनु (जबड़े) के बन्धन मानो अपने स्थान से च्युत होकर ढीले (स्रस्तानि) हों। छपा ‘स्थानाच्चुतानीव’ है; च्युत का य नहीं छपा, इसलिए इस शब्द और इसकी सन्धि पर प्रश्न नहीं। "
                    "दूसरा भाग अनिश्चित है: छपा ‘धन्ते’ नियमित रूप नहीं, ‘धत्ते’ (धारण करता है) अनुमानित पाठ है; उस पर ‘सिर, गर्दन या पीठ अपना भार नहीं सहती’। "
                    "‘गंडे-’ समास का ‘गण्ड-’ है या सप्तमी ‘गण्डे’, यह भी निश्चित नहीं। इसलिए प्रश्न केवल पहले भाग के पक्के शब्दों और सन्धियों पर। "
                    "‘शिरोधरा’ (गर्दन) में शिरस् + धरा है (अस् घोष व्यंजन से पहले → ओ)।"),
@@ -676,38 +676,38 @@ AUTHORED["25"] = {
              ("Burnt, scorched", "Burnt would be दग्ध; स्रस्त = slack.")],
             "स्रस्त = slack.",
             "स्रस्त = slack."),
-        match(1, "Match each word of card 25 to its meaning.",
-              [["स्थान", "place"], ["च्युत", "fallen"], ["इव", "as if"], ["स्रस्त", "slack"], ["शिरः", "head"]],
-              "स्थान = place, च्युत = fallen, इव = as if, स्रस्त = slack, शिरः = head.",
-              "स्थान, च्युत, इव, स्रस्त, शिरः."),
-        order(2, "Put these words of the first half of card 25 in the printed order.",
-              ["यस्य", "स्थानात्", "च्युतानि", "इव", "स्रस्तानि"],
-              "Whose ... from the place; fallen; as if; slack.",
-              "यस्य → स्थानात् → च्युतानि → इव → स्रस्तानि.",
+        match(1, "Match each sure word of the first half of card 25 to its meaning.",
+              [["यस्य", "whose"], ["ललाट", "forehead"], ["हनु", "jaw"], ["बन्धन", "attachment"], ["स्रस्त", "slack"]],
+              "यस्य = whose, ललाट = forehead, हनु = jaw, बन्धन = attachment, स्रस्त = slack.",
+              "यस्य, ललाट, हनु, बन्धन, स्रस्त."),
+        order(2, "Put these sure printed parts of the first half of card 25 in the printed order.",
+              ["यस्य", "ललाट", "हनु", "बंधनानि", "स्रस्तानि"],
+              "Whose; forehead; jaw; attachments; slack (गंडे- before ललाट and स्थानाच्चुतानीव before स्रस्तानि are left out).",
+              "यस्य → ललाट → हनु → बंधनानि → स्रस्तानि.",
               role="extend",
-              teaches="इव (as if) follows the word it qualifies: च्युतानि इव, as if fallen."),
+              teaches="In गंडेललाटहनुबंधनानि the body parts come first and बन्धनानि (attachments) last: the last member is the head of the compound."),
         mcq("discriminate", 3, "Which split of शिरोधरा (neck) in card 25 is right?",
             ("शिरस् + धरा", "अस् before the voiced consonant ध → ओ: शिरस् + धरा → शिरोधरा."),
-            [("शिरो + धरा", "शिरो is not a word by itself; the ओ comes from शिरस्."),
+            [("शिरा + धरा", "That would print शिराधरा; the print has शिरो-."),
              ("शिरः + उधरा", "उधरा is not a word; धरा (bearer) is."),
              ("शिर + ओधरा", "ओधरा is not a word; the ओ belongs to शिरस्.")],
             "शिरस् (head) + धरा (bearer): the head-bearer, the neck.",
             "अस् + voiced consonant → ओ."),
-        mcq("apply", 4, "Why is स्थानात् printed स्थानाच् before the next word in card 25?",
-            ("त् before च becomes च्", "The next word begins with च: त् + च → च्च."),
-            [("त् before any consonant → च्", "Not any: before द it becomes द् (अभ्यक्तवद्दृश्यन्ते, card 19)."),
-             ("च् is the ablative's own ending", "The ablative ends in -आत्; च् comes only from sandhi."),
-             ("त् before a vowel becomes च्", "The next word begins with a consonant, not a vowel.")],
-            "स्थानात् + च-: त् before च → च्.",
-            "त् + च → च्च."),
-        mcq("transfer", 5, "By the pattern of च्युतानि + इव → च्युतानीव, how is फलानि + इव (like fruits) joined in a new example?",
-            ("फलानीव", "इ + इ → ई: फलानि + इव → फलानीव."),
-            [("फलान्यिव", "इ becomes य् only before a different vowel; here both are इ."),
-             ("फलानेव", "ए comes from अ/आ + इ; here the first vowel is इ."),
-             ("फलानैव", "ऐ comes from अ/आ + ए; here the vowels are इ + इ.")],
-            "फलानि + इव = फलानीव, like च्युतानि + इव = च्युतानीव.",
-            "इ + इ → ई.",
-            teaches="Two like vowels merge into the long one: च्युतानि + इव → च्युतानीव (इ + इ → ई)."),
+        mcq("apply", 4, "In card 25, what does the ending -आनि of स्रस्तानि show?",
+            ("Neuter plural, as in बन्धनानि", "-आनि is the neuter plural ending: स्रस्तानि agrees with बन्धनानि (attachments)."),
+            [("Feminine singular, as in नासिका", "The feminine singular would be स्रस्ता, like नासिका (card 21)."),
+             ("Masculine plural, as in दन्ताः", "The masculine plural would be स्रस्ताः, like दन्ताः (card 23)."),
+             ("Neuter dual, as in नयने", "The neuter dual would be स्रस्ते, like नयने (card 20).")],
+            "स्रस्तानि (neuter plural) agrees with बन्धनानि.",
+            "-आनि = neuter plural."),
+        mcq("transfer", 5, "By the pattern of स्रस्तानि (neuter plural, agreeing with बन्धनानि), what is the nominative plural of वन (forest, neuter) in a new example?",
+            ("वनानि", "Neuter अ-stems take -आनि in the nominative plural: वन → वनानि, like बन्धनानि."),
+            [("वनाः", "-आः is the masculine plural; वन is neuter."),
+             ("वने", "-ए is the neuter dual (two forests), not the plural."),
+             ("वनम्", "-म् is the singular, not the plural.")],
+            "वनानि = forests, like बन्धनानि = attachments.",
+            "Neuter अ-stem, nominative plural → -आनि.",
+            teaches="Neuter अ-stems form the nominative plural in -आनि and adjectives agree: बन्धनानि ... स्रस्तानि."),
     ],
 }
 
@@ -737,11 +737,11 @@ AUTHORED["26"] = {
               "हनू = the two jaws, पिण्ड = lump, आस्य = mouth, -स्थ = staying in.",
               "हनू, पिण्ड, आस्य, -स्थ."),
         T(multi("extend", 2, "Which statements fit card 26 as printed?",
-                [("It says the jaws are swollen", "No: no quality of the jaws is printed."),
-                 ("It prints no verb", "Right: no verb is printed or supplied."),
-                 ("It names a medicine for the mouth", "No: पिण्ड here is a lump staying in the mouth."),
-                 ("आस्यस्थम् means staying in the mouth", "Right: आस्य (mouth) + स्थ (staying).")],
-                [1, 3],
+                [("It prints no verb", "Right: no verb is printed or supplied."),
+                 ("It says the jaws are swollen", "No: no quality of the jaws is printed."),
+                 ("आस्यस्थम् means staying in the mouth", "Right: आस्य (mouth) + स्थ (staying)."),
+                 ("It names a medicine for the mouth", "No: पिण्ड here is a lump staying in the mouth.")],
+                [0, 2],
                 "Three words and वा; no verb; आस्यस्थम् = staying in the mouth.",
                 "हनू वा पिण्डम् आस्यस्थम्."),
           "An elliptical line may lean on the line before for its verb; the card says only what is printed."),
@@ -782,11 +782,11 @@ NOTES_HI = {
            "सन्धि जाँची: वर्णम् + आक्रामति → वर्णमाक्रामति; आक्रामति + आसन्ना → आक्रामत्यासन्ना (इ + आ → या); प्रभा + एव → प्रभैव (आ + ए → ऐ)।"),
     "16": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.०९.२०); कोई पाठ-चिह्न नहीं। ‘कुमारिका’ शब्दशः छोटी कन्या; पुतली में दिखने वाली आकृति "
            "होना सम्भावित (डेटा का लेबल) है। दृष्टि = आँख लिया गया। ‘सपरासुः’ एक शब्द-खण्ड में छपा: सः + परासुः (सः व्यंजन से पहले विसर्ग खोता है)। "
-           "परासु = परा + असु (अ + अ → आ), बहुव्रीहि।"),
+           "परासु = परा + असु (आ + अ → आ), बहुव्रीहि।"),
     "17": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.०९.२१)। पाठ-चिह्न (सम्भव): छपा ‘आतपदर्शादिषु’ में एक आ कम है; ‘आतपादर्श’ (धूप, दर्पण) सुझाया गया, "
            "पर ‘आतप-दर्श-आदिषु’ (धूप देखने आदि में) भी सम्भव है। छपा ‘जिह्या’ कोई शब्द नहीं; ‘जिह्मा’ (टेढ़ी) अनुमानित पाठ है (कार्ड २४ में यही शब्द छपा)। "
            "दोनों पर प्रश्न नहीं। ‘हीनाऽधिकाऽऽकुला’ और ‘विस्तृताऽन्यथा’ में ऽ छपाई की आदत है (आ + अ → आ)। "
-           "सन्धि जाँची: -आदिषु + अकस्मात् → -आदिष्वकस्मात् (उ + अ → व)। मुख्य वाक्य नहीं; शृंखला कार्ड २१ में पूरी (डेटा)।"),
+           "सन्धि जाँची: -आदिषु + अकस्मात् → -आदिष्वकस्मात् (उ + अ → व)। मुख्य वाक्य नहीं; डेटा के अनुसार शृंखला सम्भवतः कार्ड २१ में पूरी।"),
     "18": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०९.२२); कोई पाठ-चिह्न नहीं। केवल ‘यस्य’ वाला उपवाक्य, मुख्य वाक्य इस इकाई में नहीं। "
            "‘स्विद्यति’ √स्विद् का वर्तमान, कर्तृवाच्य। सन्धि जाँची: ललाटम् + न → ललाटं न (व्यंजन से पहले म् → ं)।"),
     "19": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०९.२३); कोई पाठ-चिह्न नहीं। ‘यस्य’ के बाद रिक्त स्थान छूटा है, पूरी पंक्ति एक खण्ड में छपी। "
@@ -796,8 +796,8 @@ NOTES_HI = {
     "20": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.०९.२४)। पाठ-चिह्न (सम्भव): छपा ‘जिह्वे’ (दो जीभें) नेत्र-सूची में नहीं बैठता; नपुंसक द्विवचन ‘जिह्मे’ (टेढ़ी) "
            "अनुमानित पाठ है; इस पर प्रश्न नहीं। ‘विश्रान्त’ छपे रूप में रखा गया, ‘विभ्रान्त’ (भ्रमित) विकल्प है। ‘स्तब्धस्रस्ते’ को द्वन्द्व (कड़ी और ढीली) पढ़ा गया। "
            "नकुल = नेवला (मानक); ‘संक्षिप्तभ्रुणी’, ‘विनतभ्रुणी’ भ्रू का नियमित नपुंसक द्विवचन। कुछ शब्द रिक्त स्थान के बिना छपे (‘निर्गतेविस्तृते’, ‘लुप्तपक्ष्मणीवा’)। "
-           "सन्धि जाँची: च + अति- → चाति- (अ + अ → आ); अति + उन्मिषिते → अत्युन्मिषिते (इ + उ → यु)। न ‘यस्य’ न क्रिया: शृंखला कार्ड २१ में पूरी (डेटा)।"),
-    "21": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०९.२५); कोई पाठ-चिह्न नहीं। ‘स गतायुः’ इस शृंखला का एकमात्र मुख्य वाक्य है; डेटा कार्ड १७ से २१ को एक शृंखला मानता है। "
+           "सन्धि जाँची: च + अति- → चाति- (अ + अ → आ); अति + उन्मिषिते → अत्युन्मिषिते (इ + उ → यु)। न ‘यस्य’ न क्रिया: डेटा के अनुसार शृंखला सम्भवतः कार्ड २१ में पूरी।"),
+    "21": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.०९.२५); कोई पाठ-चिह्न नहीं। ‘स गतायुः’ इस शृंखला का एकमात्र मुख्य वाक्य है; डेटा के नोट्स के अनुसार कार्ड १७ से २१ सम्भवतः एक शृंखला हैं। "
            "आरम्भ का ‘वा ऽतिविवृता’ = वा + अति (ऽ छपाई की आदत)। पिटिका = छोटी फुंसी। "
            "सन्धि जाँची: गत + आयुः → गतायुः (अ + आ → आ); पिटिका + आचिता → पिटिकाचिता (आ + आ → आ); सः + गतायुः → स गतायुः (सः व्यंजन से पहले विसर्ग खोता है)।"),
     "22": ("गद्य; विश्वास कम; एक छपी पंक्ति (०२.०९.२६); कोई पाठ-चिह्न नहीं, पर वाक्य-रचना अनिश्चित: ‘याति’ दोनों होंठों पर लगे (निचला नीचे, ऊपरी ऊपर) या नहीं, "
@@ -815,7 +815,7 @@ NOTES_HI = {
     "25": ("गद्य; विश्वास कम; एक छपी पंक्ति (०२.०९.२९)। पाठ-चिह्न (सम्भव): छपा ‘धन्ते’ नियमित रूप नहीं, ‘धत्ते’ (धारण करता है) अनुमान; ‘शिरोधरां’ का ं "
            "छपाई की भूल या कर्म का चिह्न हो सकता है; ‘गंडे-’ समास का ‘गण्ड-’ या सप्तमी ‘गण्डे’। दूसरा भाग अनिश्चित: उस पर प्रश्न नहीं। "
            "‘यस्यन’ = यस्य न (रिक्त स्थान छूटा)। छपा ‘स्थानाच्चुतानीव’ में च्युतानि का य नहीं छपा; डेटा बिना चिह्न के ‘च्युतानि’ पढ़ता है। "
-           "सन्धि जाँची: स्थानात् + च्युतानि → स्थानाच्च्युतानि (च से पहले त् → च्); च्युतानि + इव → च्युतानीव (इ + इ → ई); शिरस् + धरा → शिरोधरा "
+           "‘स्थानाच्चुतानीव’ और उसकी सन्धियों पर इसलिए प्रश्न नहीं। सन्धि जाँची: शिरस् + धरा → शिरोधरा "
            "(अस् + घोष व्यंजन → ओ)। डेटा के अनुसार कार्ड २६ (छपी पंक्ति ३०) वाक्य को आगे बढ़ाता है।"),
     "26": ("गद्य; विश्वास कम; एक छपी पंक्ति (०२.०९.३०); कोई पाठ-चिह्न नहीं। डेटा इसे गद्य मानता है; अपूर्ण: डेटा के अनुसार कार्ड २५ (छपी पंक्ति २९) से कोई "
            "क्रिया (जैसे ‘नहीं थामते’) आ सकती है, पर अनुवाद कोई क्रिया नहीं जोड़ता। हनू = दोनों जबड़े (डेटा: स्त्री. प्रथमा द्विवचन)। "
@@ -840,7 +840,7 @@ AIDS = {
     "16": {
         "frame": "किसकी: यस्य → कहाँ: दृष्टौ (आँख में) → क्या: प्रतिच्छायमयी कुमारिका (सम्भवतः पुतली की आकृति) → न दृश्यते → फल: स परासुः।",
         "chunks": "यस्य दृष्टौ | प्रतिच्छायमयी कुमारिका | न दृश्यते | सपरासुः",
-        "sandhi": "सः व्यंजन से पहले विसर्ग खोता है: सः + परासुः → स परासुः · अ + अ → आ: परा + असु → परासु।",
+        "sandhi": "सः व्यंजन से पहले विसर्ग खोता है: सः + परासुः → स परासुः · आ + अ → आ: परा + असु → परासु।",
     },
     "17": {
         "diagram": {"groups": [
@@ -869,12 +869,12 @@ AIDS = {
         "chunks": ("नयने चातिप्रविष्टे | निर्गतेविस्तृते संक्षिप्ते | संक्षिप्तभ्रुणी विनतभ्रुणी | जिह्वे विषमे | विश्रांतदर्शनेहीनदर्शने | "
                    "नकुलाभे कपोताभे | अलातवर्णे नीलादिविकृतवर्णे | अतिचले स्तब्धस्रस्ते प्रस्रुते | अत्युन्मिषिते अतिनिमिषिते | लुप्तपक्ष्मणीवा"),
         "sandhi": "अ + अ → आ: च + अति- → चाति- · इ + उ → यु: अति + उन्मिषिते → अत्युन्मिषिते · अ + आ → आ: नकुल + आभे → नकुलाभे।",
-        "letters": "नयने, निर्गते, विस्तृते ... सब -ए: नपुंसक द्विवचन, ‘दोनों आँखें’। (मेरी याद-पद्धति)",
+        "letters": "नयने, निर्गते, विस्तृते ... अ-अन्त शब्द -ए में, -भ्रुणी, -पक्ष्मणी -ई में: सब नपुंसक द्विवचन, ‘दोनों आँखें’। (मेरी याद-पद्धति)",
     },
     "21": {
         "diagram": {"groups": [
             {"label": "डेटा के अनुसार एक शृंखला (सम्भवतः)",
-             "items": ["कार्ड १७: प्रतिच्छाया विकृत", "कार्ड १८: ललाट न पसीजे", "कार्ड १९: केश-लोम चिकने जैसे",
+             "items": ["कार्ड १७: प्रतिच्छाया विकृत", "कार्ड १८: ललाट न पसीजे", "कार्ड १९: केश-लोम तेल लगे जैसे",
                        "कार्ड २०: दोनों आँखें", "कार्ड २१: नासिका", "मुख्य वाक्य: स गतायुः"]}]},
         "chunks": "नासिका वा | ऽतिविवृताऽतिसंवृता | कुटिला स्फुटिता | पिटिकाचिता | शुष्का वा | स गतायुः",
         "seesaw": "अतिविवृता (बहुत खुली) ⇄ अतिसंवृता (बहुत बन्द): दोनों इसी इकाई में।",
@@ -889,7 +889,7 @@ AIDS = {
     "23": {
         "diagram": {"groups": [
             {"label": "दाँत (छपे क्रम में)",
-             "items": ["१ अतिरूक्षाः: बहुत रूखे", "२ ताम्राः: ताँबे के रंग के", "३ श्यामाः: साँवले", "४ पंकिलाः: कीचड़ जैसे",
+             "items": ["१ अतिरूक्षाः: बहुत रूखे", "२ ताम्राः: ताँबे के रंग के", "३ श्यामाः: साँवले", "४ पंकिलाः: कीचड़ वाले",
                        "५ पुष्पिताः: पुष्पित (अर्थ नहीं बताया)", "६ सशर्करा: कणों वाले", "७ सहसा पतंति: अचानक गिरें"]}]},
         "chunks": "दंता वाऽतिरूक्षास्ताम्राः | श्यामाः | पंकिलाःपुष्पिताः | सशर्करा वा | सहसा वा पतंति",
         "sandhi": ("आः घोष वर्ण से पहले विसर्ग खोता है: दन्ताः + वा → दन्ता वा, सशर्कराः + वा → सशर्करा वा · त से पहले ः → स्: "
@@ -902,13 +902,12 @@ AIDS = {
                        "५ श्यावा: श्याव", "६ शूना: सूजी", "७ शुष्का: सूखी", "८ विसर्पिणी: फैलने वाली", "९ कंटकाचिता इव: काँटों जैसी"]}]},
         "chunks": "जिह्वा वा जिह्मा | स्तब्धासुप्ताऽवलिप्ता | गुर्वी श्यावा | शूना शुष्का | विसर्पिणी | कंटकाचितेववा",
         "sandhi": "आ + इ → ए: कण्टकाचिता + इव → कण्टकाचितेव।",
-        "puns": "जिह्वा जिह्मा: व और म का अन्तर, जीभ और टेढ़ी। केवल सुनने की सहायता।",
+        "puns": "जिह्वा जिह्मा: व और म का अन्तर, जीभ और टेढ़ी। केवल सुनने की सहायता। (मेरा बनाया स्मरण-सूत्र)",
     },
     "25": {
         "chunks": "यस्य | गंडेललाटहनुबंधनानि | स्थानाच्चुतानीव | स्रस्तानि || यस्यन धन्ते | शिरः शिरोधरां पृष्ठं वा | स्वभारं",
-        "sandhi": ("च से पहले त् → च्: स्थानात् + च्युतानि → स्थानाच्च्युतानि · इ + इ → ई: च्युतानि + इव → च्युतानीव · अस् + घोष व्यंजन → ओ: "
-                   "शिरस् + धरा → शिरोधरा।"),
-        "anchors": "पक्का: बन्धन मानो स्थान से च्युत और ढीले। अनुमान: ‘धन्ते’ → धत्ते और सिर-गर्दन-पीठ का भार। (मेरी याद-पद्धति)",
+        "sandhi": "अस् + घोष व्यंजन → ओ: शिरस् + धरा → शिरोधरा · छपा ‘स्थानाच्चुतानीव’: च्युत का य नहीं छपा, सन्धि पर प्रश्न नहीं।",
+        "anchors": "पक्का: बन्धन ढीले (स्रस्तानि); ‘मानो स्थान से च्युत’ छपे ‘चुतानीव’ से पढ़ा गया। अनुमान: ‘धन्ते’ → धत्ते और सिर-गर्दन-पीठ का भार। (मेरी याद-पद्धति)",
     },
     "26": {
         "chunks": "हनू वा | पिंडमास्यस्थं",
@@ -925,7 +924,7 @@ IMAGE_SPECS = {
                 "the five elements; prabhā illuminates the colour, is seen from afar, and is the radiance of tejas."),
         "type": "split",
         "title": "कार्ड १५: छाया और प्रभा",
-        "cols": [["छाया", ["वर्ण पर छा जाती", "आसन्ना: समीप (अनुमान)", "पाँच भूतों से बनी"]],
+        "cols": [["छाया", ["वर्ण पर छा जाती", "आसन्ना: समीप (‘दिखती’ अनुमान)", "पाँच भूतों से बनी"]],
                  ["प्रभा", ["वर्ण को प्रकाशित करती", "दूर से दिखती", "तेजस् की प्रभा"]]],
     },
     ("17", "diagram"): {
@@ -966,7 +965,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड २३: दाँतों के विकार",
         "heads": ["क्रम", "छपा शब्द = अर्थ"],
-        "rows": [["१", "अतिरूक्षाः = बहुत रूखे"], ["२", "ताम्राः = ताँबे के रंग"], ["३", "श्यामाः = साँवले"], ["४", "पंकिलाः = कीचड़ जैसे"],
+        "rows": [["१", "अतिरूक्षाः = बहुत रूखे"], ["२", "ताम्राः = ताँबे के रंग"], ["३", "श्यामाः = साँवले"], ["४", "पंकिलाः = कीचड़ वाले"],
                  ["५", "पुष्पिताः = अर्थ नहीं बताया"], ["६", "सशर्करा = कणों वाले"], ["७", "सहसा पतंति = अचानक गिरें"]],
     },
     ("24", "diagram"): {
