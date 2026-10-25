@@ -9,10 +9,9 @@ AUTHORED["51"] = {
     "question": "By card 51, which wounds and which bhagandara does the verse say one should avoid?",
     "rule": ("All those wounds (व्रणान्) showing the form of a spear, a banner and the like are to be avoided (वर्जयेत्); "
              "so too bhagandara (fistula in ano, standard) that passes faeces, urine and wind and has worms (कृमिणम्)."),
-    "limits": ("Medium confidence. The verb of रूपम् is carried from दृश्यते in card 50 (data), so line 1 continues the "
-               "wound description of card 50. शक्ति is taken as the spear; it could also mean 'power': no question on its "
-               "sense. Printed सर्वास्तान् may stand for सर्वांस्तान् (a possible flag): no question on that join. Line 2 "
-               "is a further object of वर्जयेत् (data). No cause, time or treatment is stated."),
+    "limits": ("Medium confidence. The verb of रूपम् is carried from दृश्यते (card 50). शक्ति is taken as spear; it may "
+               "also mean 'power': no question on its sense. Printed सर्वास्तान् may stand for सर्वांस्तान् (possible "
+               "flag): no question on that join. No cause, time or treatment is stated."),
     "explain_hi": ("पहली पंक्ति कार्ड ५० के व्रण-वर्णन को आगे ले जाती है: जहाँ शक्ति (भाला), ध्वज (पताका) आदि का रूप दिखे "
                    "(क्रिया ‘दृश्यते’ कार्ड ५० से आती है), उन सब व्रणों को वर्जयेत्, यानी त्याग देना चाहिए। "
                    "दूसरी पंक्ति में भगन्दर (fistula in ano, मानक) है जो मल, मूत्र और वायु को बहाता है और कृमियों वाला है; "
@@ -132,9 +131,9 @@ AUTHORED["53"] = {
     "rule": ("Cutting the nail-tips with the teeth (दन्तैः छिन्दन् नखाग्राणि), and with them hairs or blades of grass; "
              "scratching the ground with a piece of wood (भूमिं काष्ठेन विलिखन्); striking a clod with a clod "
              "(लोष्टं लोष्टेन ताडयन्)."),
-    "limits": ("High confidence. Only present participles, no main verb: the data takes cards 53 to 55 (printed lines 102 to "
-               "106) as probably one sentence ending in न स जीवति (card 55), but says the boundaries are not firm. तैः is "
-               "taken as 'with those (teeth)'. Nothing is said of cause or time."),
+    "limits": ("High confidence. Participles only, no main verb: the data takes cards 53 to 55 as probably one sentence "
+               "ending in न स जीवति (card 55), boundaries not firm. तैः is taken as 'with those (teeth)'. Nothing is "
+               "said of cause or time."),
     "explain_hi": ("दाँतों से नखों के अग्र भाग काटता हुआ, और उन्हीं (दाँतों) से केश या तिनके; लकड़ी से भूमि कुरेदता हुआ; ढेले को ढेले से मारता हुआ। "
                    "यहाँ केवल वर्तमान कृदन्त हैं (छिन्दन्, विलिखन्, ताडयन्), मुख्य क्रिया नहीं। "
                    "डेटा के अनुसार कार्ड ५३ से ५५ (छपी पंक्तियाँ १०२-१०६) सम्भवतः एक वाक्य हैं, जिसका मुख्य वाक्य ‘न स जीवति’ कार्ड ५५ में है; पर सीमाएँ पक्की नहीं। "
@@ -253,9 +252,9 @@ AUTHORED["55"] = {
     "rule": ("Line 1: the patient touching the openings (छिद्राणि) again and again does not live (न स जीवति). Line 2 opens a new "
              "list: him whose breath goes upward (ऊर्ध्वश्वासम्; probably laboured breathing), whose heat has gone "
              "(गतोष्माणम्), whose groins are struck by pain (शूलोपहतवंक्षणम्)."),
-    "limits": ("Medium confidence. Which openings छिद्राणि means is not stated, and विमृशन् may also mean 'considering': no "
-               "question on either. The data takes line 1 to complete the sentence begun in card 53 (or 54); line 2 is the "
-               "object of परिवर्जयेत् in card 56. ऊर्ध्वश्वास as laboured breathing is probable (data)."),
+    "limits": ("Medium confidence. Which openings छिद्राणि means is not stated; विमृशन् may also mean 'considering': no "
+               "question on either. Line 1 completes the sentence of card 53 (or 54); line 2 is the object of परिवर्जयेत् "
+               "(card 56). Laboured breathing is probable (data)."),
     "explain_hi": ("पहली पंक्ति: बार-बार छिद्रों को छूता हुआ वह रोगी जीवित नहीं रहता। कौन-से छिद्र, यह नहीं कहा गया; ‘विमृशन्’ का अर्थ ‘विचार करता हुआ’ भी हो सकता है। "
                    "डेटा के अनुसार यह पंक्ति कार्ड ५३ (या ५४) से चले वाक्य को पूरा करती है। "
                    "दूसरी पंक्ति नई सूची खोलती है: जिसकी श्वास ऊपर की ओर हो (सम्भवतः कष्टपूर्ण श्वास), जिसकी ऊष्मा चली गई हो, जिसके वंक्षण (जाँघ के जोड़) पीड़ा से पीड़ित हों। "
@@ -550,9 +549,9 @@ AUTHORED["60"] = {
     "question": "By card 60, what happens to the light of the person named in line 2?",
     "rule": ("Line 2 (sure): he whose light or flame (ज्योतिः), even with fuel (सेन्धनम्), goes out (उपशाम्यति) in a windless "
              "place (निवाते). Line 1, on a doubtful reading, says that even a healthy one (स्वस्थोऽपि) suddenly does not live."),
-    "limits": ("Prose, low confidence. Line 1: printed वर्णवादेः cannot be construed; varṇādeḥ (from colour and the like) is a "
-               "conjecture and the sense is not firm: no question on line 1. Which light (a lamp or a fire) is not stated. "
-               "The data calls line 2 a separate sign; its main clause is not in this card."),
+    "limits": ("Prose, low confidence. Line 1: printed वर्णवादेः cannot be construed; varṇādeḥ is a conjecture and the "
+               "sense is not firm: no question on line 1. Which light (lamp or fire) is not stated. Line 2 is a separate "
+               "sign (data); its main clause is not in this card."),
     "explain_hi": ("यह इकाई गद्य (डेटा का प्रकार) है, विश्वास कम। "
                    "पहली पंक्ति का छपा ‘वर्णवादेः’ अर्थ नहीं देता; ‘वर्णादेः’ (वर्ण यानी रंग आदि से) अनुमानित पाठ है और अर्थ पक्का नहीं: "
                    "अनुमानित पाठ पर, अचानक स्वस्थ होने पर भी वह जीवित नहीं रहता। इस पंक्ति पर कोई प्रश्न नहीं। "
@@ -709,12 +708,12 @@ AUTHORED["62"] = {
              ("प्राप्तौ + आत्रेयः", "औ before a vowel gives आव्: प्राप्तावात्रेयः.")],
             "प्राप्तम् (reached) + आत्रेयः (Ātreya).",
             "Final म् + vowel → joined."),
-        mcq("transfer", 5, "By the pattern of रोगः + दुर्बलम् → रोगो दुर्बलम्, how is सिंहः + नदति (the lion roars) written in a new example?",
-            ("सिंहो नदति", "अः before the voiced न → ओ: सिंहो नदति."),
-            [("सिंहा नदति", "आ would come from आः losing its visarga; here the ending is अः."),
-             ("सिंहर्नदति", "र् comes from a visarga after vowels other than अ/आ."),
-             ("सिंह नदति", "Only सः and एषः drop their visarga before a consonant.")],
-            "सिंहः + नदति = सिंहो नदति, like रोगः + दुर्बलम् = रोगो दुर्बलम्.",
+        mcq("transfer", 5, "By the pattern of रोगः + दुर्बलम् → रोगो दुर्बलम्, how is बालः + वदति (the boy speaks) written in a new example?",
+            ("बालो वदति", "अः before the voiced व → ओ: बालो वदति."),
+            [("बाला वदति", "आ would come from आः losing its visarga; here the ending is अः."),
+             ("बालर्वदति", "र् comes from a visarga after vowels other than अ/आ."),
+             ("बाल वदति", "Only सः and एषः drop their visarga before a consonant.")],
+            "बालः + वदति = बालो वदति, like रोगः + दुर्बलम् = रोगो दुर्बलम्.",
             "अः + voiced consonant → ओ.",
             teaches="अः before a voiced consonant becomes ओ: रोगः + दुर्बलम् → रोगो दुर्बलम्."),
     ],
@@ -760,18 +759,18 @@ AUTHORED["63"] = {
             "नाम (by name) + एकादशः (eleventh): अ + ए → ऐ.",
             "अ + ए → ऐ."),
         mcq("apply", 4, "Why is एकादशः printed एकादशोऽ before अध्यायः in card 63?",
-            ("अः + अ → ओ, and the अ drops (ऽ)", "Before अ, the अः gives ओ and the next अ drops, marked ऽ: एकादशोऽध्यायः."),
+            ("अः + अ → ओ, and the अ drops", "Before अ, the अः gives ओ and the next अ drops, marked ऽ: एकादशोऽध्यायः."),
             [("अः + any vowel → ओ, with ऽ", "Not any: before other vowels अः gives अ with a gap (नामः + ए → नाम ए)."),
              ("आः + अ → ओ, and the अ drops", "The ending is अः, and आः only loses its visarga before a voiced sound."),
              ("ओ is the ordinal's own ending", "The ordinal ends in -अः; ओ comes only from sandhi.")],
             "एकादशः + अध्यायः → एकादशोऽध्यायः.",
             "अः + अ → ओऽ."),
-        mcq("transfer", 5, "By the pattern of नाम + एकादशः → नामैकादशः, how is अद्य + एव (today itself) joined in a new example?",
-            ("अद्यैव", "अ + ए → ऐ: अद्य + एव → अद्यैव."),
-            [("अद्येव", "ए comes from अ + इ, not from अ + ए."),
-             ("अद्यौव", "औ comes from अ + ओ or अ + औ, not from अ + ए."),
-             ("अद्ययेव", "No य् is inserted; अ and ए merge into ऐ.")],
-            "अद्य + एव = अद्यैव, like नाम + एकादशः = नामैकादशः.",
+        mcq("transfer", 5, "By the pattern of नाम + एकादशः → नामैकादशः, how is पुत्र + एषणा (desire for a son) joined in a new example?",
+            ("पुत्रैषणा", "अ + ए → ऐ: पुत्र + एषणा → पुत्रैषणा."),
+            [("पुत्रेषणा", "ए comes from अ + इ, not from अ + ए."),
+             ("पुत्रौषणा", "औ comes from अ + ओ or अ + औ, not from अ + ए."),
+             ("पुत्रयेषणा", "No य् is inserted; अ and ए merge into ऐ.")],
+            "पुत्र + एषणा = पुत्रैषणा, like नाम + एकादशः = नामैकादशः.",
             "अ + ए → ऐ.",
             teaches="अ or आ before ए or ऐ gives ऐ: नाम + एकादशः → नामैकादशः."),
     ],
@@ -984,7 +983,7 @@ IMAGE_SPECS = {
                 "understood, nāma named, ekādaśa eleventh, adhyāya chapter."),
         "type": "table",
         "title": "कार्ड ६३: समापन-वाक्य",
-        "heads": ["छपा भाग", "अर्थ"],
+        "heads": ["शब्द (छपे क्रम में)", "अर्थ"],
         "rows": [["इति", "इस प्रकार"], ["विकृत", "बदला हुआ, असामान्य"], ["व्याधि", "रोग"], ["विज्ञानीयः", "जानने योग्य"],
                  ["नाम", "नामक"], ["एकादशः", "ग्यारहवाँ"], ["अध्यायः", "अध्याय"]],
     },
