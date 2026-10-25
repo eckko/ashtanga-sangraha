@@ -73,9 +73,9 @@ AUTHORED["15"] = {
     "question": "Which sure words of card 15 describe what is passed, and which parts stay unclear?",
     "rule": ("Sure words: mottled (कर्बुरः); or else (अथवा) with excessive faeces (अतिविट्); fibrous (तन्तुमान्); overspread "
              "with soot-specks (मसिकाक्रान्तः); joined with (युतः) an unclear item."),
-    "limits": ("Prose, low confidence, damaged print. प्रस्रवन्धात्त्रिष्पूरीषः and राजैर्मांसेंद्रकैः are unclear (a निष्पुरीष reading "
-               "is not adopted): no question on them or on what it is joined with. मसिका is a s/ṣ print habit for मषिका. "
-               "The data takes the description as of the stool (cards 13 to 15)."),
+    "limits": ("Prose, low confidence, damaged print. प्रस्रवन्धात्त्रिष्पूरीषो and राजैर्मांसेंद्रकैर् are unclear (a निष्पुरीष reading "
+               "not adopted): no question on their sense or on what is joined; one question asks only which stretches are "
+               "unclear. मसिका = मषिका (s/ṣ print habit). The data takes it as the stool (cards 13 to 15)."),
     "explain_hi": ("यह गद्य इकाई क्षतिग्रस्त छपाई की है, विश्वास कम है। "
                    "पक्के शब्द: कर्बुर (चितकबरा), अथवा अतिविट् (या बहुत अधिक मल वाला), तन्तुमान् (तन्तुओं वाला), मसिकाक्रान्त (कालिख के कणों से आक्रान्त) और युत (युक्त)। "
                    "‘प्रस्रवन्धात्त्रिष्पूरीषो’ और ‘राजैर्मांसेंद्रकैर्’ अस्पष्ट हैं, इसलिए उन पर प्रश्न नहीं। "
@@ -189,7 +189,7 @@ AUTHORED["16"] = {
 # ---------------------------------------------------------------- unit 17
 AUTHORED["17"] = {
     "title": "अश्मरी शूनवृषणं",
-    "question": "By card 17, which features of the patient go with aśmarī (urinary stone)?",
+    "question": "By card 17, which features follow aśmarī (urinary stone) in line 2?",
     "rule": ("Line 2 names aśmarī (urinary stone, standard) and, in the accusative, the patient: swollen testicles "
              "(शूनवृषणम्), obstructed urine (बद्धमूत्रम्), afflicted by pain (रुजार्दितम्). The verb is carried over (data: from card 4)."),
     "limits": ("Low confidence. Line 1 (thirst, cough, fever ... pravāhikā) rests on an emendation of printed सतृट्का मज्वर-: no "
@@ -205,7 +205,7 @@ AUTHORED["17"] = {
         mcq("pretest", 0, "In card 17, what is अश्मरी?",
             ("A urinary stone", "अश्मरी = urinary stone (standard)."),
             [("A boil on skin", "Boils are पिटका / पिटिका, not अश्मरी."),
-             ("A nasal catarrh", "Nasal catarrh is पीनस, not अश्मरी."),
+             ("A nasal catarrh", "पीनस (card 21) is read as nasal catarrh (probable); अश्मरी is a urinary stone."),
              ("A belly swelling", "अश्मरी is a stone of the urinary tract, not a belly swelling.")],
             "अश्मरी = urinary stone.",
             "अश्मरी = urinary stone (standard)."),
@@ -218,7 +218,7 @@ AUTHORED["17"] = {
               "Aśmarī; the patient with swollen testicles, with obstructed urine, afflicted by pain.",
               "अश्मरी → शूनवृषणं → बद्धमूत्रं → रुजार्दितं.",
               role="extend",
-              teaches="A disease name in the nominative is followed by accusative descriptions of the patient it affects."),
+              teaches="A disease name in the nominative (अश्मरी) stands beside accusative descriptions of a patient; the verb is carried over and the data states no closer link."),
         mcq("discriminate", 3, "Which split of रुजार्दितं in card 17 is right?",
             ("रुजा + अर्दितम्", "आ + अ → आ: रुजा + अर्दितम् → रुजार्दितम्."),
             [("रुजे + अर्दितम्", "ए + अ → एऽ: that would print रुजेऽर्दितम्."),
@@ -261,10 +261,10 @@ AUTHORED["18"] = {
     "core": True,
     "questions": [
         mcq("pretest", 0, "In card 18, how does the data read मेहः?",
-            ("As prameha, a urinary disorder", "मेह is read as prameha, a urinary disorder, probably the diabetes-type."),
-            [("As visarpa, a skin inflammation", "Visarpa is a different disease (card 20); मेह is a urinary disorder."),
-             ("As gulma, an abdominal lump", "Gulma is a different disease (card 20); मेह is a urinary disorder."),
-             ("As pīnasa, a nasal catarrh", "Pīnasa is a different disease (card 21); मेह is a urinary disorder.")],
+            ("As prameha", "मेह is read as prameha, a urinary disorder, probably the diabetes-type (probable)."),
+            [("As visarpa", "Visarpa (a spreading skin inflammation, probable) is another disease (card 20); मेह is read as prameha."),
+             ("As gulma", "Gulma (an abdominal lump, probable) is another disease (card 20); मेह is read as prameha."),
+             ("As pīnasa", "Pīnasa (nasal catarrh, probable) is another disease (card 21); मेह is read as prameha.")],
             "मेहः = prameha (probable).",
             "मेह = prameha, a urinary disorder."),
         match(1, "Match each site of the boils in card 18 to its meaning.",
@@ -402,7 +402,7 @@ AUTHORED["20"] = {
             ("अः before a vowel other than अ → अ", "The visarga of अः drops before इ, and the vowels stay apart: कूर्म इव."),
             [("Every ः drops before any sound", "Not every: पृथुपरीणाहः + घनः gives पृथुपरीणाहो घनः in this card."),
              ("अः before any vowel becomes ओ", "ओ comes before voiced consonants; before इ it is अ."),
-             ("अः before इ becomes the य्", "य् comes from इ or ई before a vowel, not from अः.")],
+             ("अः before इ becomes य्", "य् comes from इ or ई before a vowel, not from अः.")],
             "कूर्मः + इव → कूर्म इव.",
             "अः + vowel other than अ → अ."),
         mcq("transfer", 5, "By the pattern of पृथुपरीणाहः + घनः → पृथुपरीणाहो घनः, how is सिंहः + गर्जति (the lion roars) written in a new example?",
@@ -456,13 +456,13 @@ AUTHORED["21"] = {
              ("ओ is the stem's own final", "The stem is नद्ध; the nominative is नद्धः.")],
             "सिरानद्धः + ज्वर- → सिरानद्धो ज्वर-.",
             "अः + voiced consonant → ओ."),
-        mcq("apply", 4, "One word is wrong in this English of card 21, line 1: 'Bound by veins, with fever, vomiting, hiccup, bloating and thirst'. Which?",
-            ("thirst", "The member before अन्वित means pain, not thirst."),
+        mcq("apply", 4, "One word is wrong in this English of card 21, line 1: 'Bound by veins, with fever, thirst, hiccup, bloating and pain'. Which?",
+            ("thirst", "छर्दि, the member after ज्वर, means vomiting, not thirst."),
             [("fever", "ज्वर = fever: this word is right."),
              ("hiccup", "हिध्मा = hiccup: this word is right."),
              ("bloating", "आध्मान = bloating: this word is right.")],
-            "The last member before अन्वित means pain, not thirst.",
-            "रुजा / रुज् = pain."),
+            "छर्दि = vomiting, not thirst.",
+            "छर्दि = vomiting."),
         mcq("transfer", 5, "By the pattern of -शोफवान् (having swelling), what does रूपवान् mean in a new example?",
             ("Having beauty", "-वत् (nom. -वान्) = having: रूप (form, beauty) + वत् = having beauty."),
             [("Without beauty", "Without would need a prefix like निः- or अ-; -वान् means having."),
@@ -481,7 +481,7 @@ AUTHORED["22"] = {
     "rule": ("With retention of faeces and urine, breathlessness, swelling, hiccup, fever, giddiness, and with fainting, vomiting "
              "and diarrhoea, jaṭhara (the belly disorder, probably an ascites-type) kills the weak one (जठरं हन्ति दुर्बलम्)."),
     "limits": ("जठर = belly; read as the belly disorder in this list (probable). दुर्बलम् is shown as 'the weak (one)'. The data "
-               "says the sentence runs from card 21 to this card; the verb हन्ति is printed here. The text gives no time or prognosis beyond 'kills'."),
+               "says the sentence appears to run from card 21 to this card; the verb हन्ति is printed here. The text gives no time or prognosis beyond 'kills'."),
     "explain_hi": ("यहाँ क्रिया छपी है: ‘जठरं हन्ति दुर्बलम्’, यानी जठर (पेट का रोग, सम्भवतः जलोदर प्रकार) दुर्बल को मारता है। "
                    "साथ के लक्षण तृतीया में: मल-मूत्र का रुकना, श्वास, शोफ, हिचकी, ज्वर, चक्कर, और मूर्च्छा, उल्टी तथा अतिसार। "
                    "‘हन्ति’ कार्ड ४ के ‘निहन्ति’ से मेल खाता है। "
@@ -595,11 +595,11 @@ AUTHORED["24"] = {
     "question": "By card 24, which features go with pāṇḍu disease?",
     "rule": ("Pāṇḍuroga (anaemia with pallor, standard) with swelling (श्वयथुमान्); yellow eyes and nails seen; having drowsiness, "
              "burning, distaste for food (अरुचि), vomiting, fainting, flatulent distension (आध्मान) and diarrhoea."),
-    "limits": ("No verb here: the data says cards 24 and 25 form one run, with हन्ति only in card 25. पीत is taken with both eyes "
+    "limits": ("No verb here: the data says cards 24 and 25 appear to form one run, with हन्ति only in card 25. पीत is taken with both eyes "
                "and nails (the data's reading): no question on it. The ऽ in मूर्च्छाऽध्मान is a print habit."),
     "explain_hi": ("पाण्डु रोग (रक्ताल्पता, मानक) सूजन वाला हो, और जिसमें आँखें और नाखून पीले दिखें। "
                    "दूसरी पंक्ति के लक्षण: तन्द्रा (ऊँघ), दाह, अरुचि (भोजन में अरुचि), छर्दि, मूर्च्छा, आध्मान और अतिसार। "
-                   "यहाँ क्रिया नहीं; डेटा के अनुसार वाक्य कार्ड २५ के ‘हन्ति’ तक चलता है। "
+                   "यहाँ क्रिया नहीं; डेटा के अनुसार वाक्य सम्भवतः कार्ड २५ के ‘हन्ति’ तक चलता है। "
                    "सन्धि: दाह + अरुचि → दाहारुचि (अ + अ → आ); अरुचि + छर्दि → अरुचिच्छर्दि (ह्रस्व स्वर के बाद छ → च्छ)।"),
     "hook": "पाण्डु: सूजन, पीली आँखें और नाखून, ऊँघ, जलन, अरुचि, उल्टी, मूर्च्छा, अफारा, दस्त।",
     "core": False,
@@ -607,7 +607,7 @@ AUTHORED["24"] = {
         mcq("pretest", 0, "In card 24, what is पाण्डुरोग?",
             ("Anaemia with pallor", "पाण्डुरोग = pāṇḍu disease, anaemia with pallor (standard)."),
             [("A urinary stone", "A urinary stone is अश्मरी (card 17)."),
-             ("A nasal catarrh", "Nasal catarrh is पीनस (card 21)."),
+             ("A nasal catarrh", "पीनस (card 21) is read as nasal catarrh (probable), not पाण्डु."),
              ("A hiccup disease", "Hiccup is हिध्मा, not पाण्डु.")],
             "पाण्डुरोग = anaemia with pallor.",
             "पाण्डु = pale."),
@@ -631,7 +631,7 @@ AUTHORED["24"] = {
             ("After a short vowel छ is doubled as च्छ", "अरुचि ends in short इ, so छ is written च्छ."),
             [("च् is added before every consonant", "Only छ is so treated, and only after a vowel."),
              ("च् is part of the stem अरुचिच्", "The stem is अरुचि; the च् comes from sandhi."),
-             ("छ is doubled after every vowel", "After a long vowel it is optional: card 22 prints मूर्च्छाछर्दि.")],
+             ("छ is doubled only after a long vowel", "No: after a short vowel it must be च्छ (अरुचिच्छर्दि); after a long vowel at a word end it is optional (card 22 prints मूर्च्छाछर्द्य-).")],
             "अरुचि + छर्दि → अरुचिच्छर्दि.",
             "Short vowel + छ → च्छ."),
         mcq("transfer", 5, "By the pattern of अरुचि + छर्दि → अरुचिच्छर्दि, how is तरु + छाया (shade of a tree) joined in a new example?",
@@ -649,12 +649,14 @@ AUTHORED["24"] = {
 AUTHORED["25"] = {
     "title": "नारीं शोफो मुखाद्धंति",
     "question": "By card 25, from where does swelling (śopha) kill a man, a woman and both?",
-    "rule": ("Swelling (शोफः), joined with many complications (अनेकोपद्रवयुतः), kills a man spread from the two feet "
-             "(पादाभ्यां प्रसृतं नरम्), a woman from the face (नारीं मुखात्), and both from the belly and private parts (कुक्षिगुह्यात् उभौ अपि)."),
-    "limits": ("What has spread in the man is not stated (śopha is the data's inference). उभौ (both) is most likely man and woman: "
+    "rule": ("Swelling (शोफः) kills a man spread from the two feet (पादाभ्यां प्रसृतं नरम्), a woman from the face (नारीं मुखात्), "
+             "and both from the belly and private parts (कुक्षिगुह्यात् उभौ अपि). Line 1 opens with अनेकोपद्रवयुतः (joined with many "
+             "complications, nominative); the data does not say what it describes."),
+    "limits": ("What has spread in the man is not stated (śopha is the data's inference), nor what अनेकोपद्रवयुतः describes. उभौ (both) is most likely man and woman: "
                "an inference. पादाभ्याम् may be 'from' or 'by': no question on its case. मुखात् is literally 'from the face'. हन्ति is printed once."),
-    "explain_hi": ("यहाँ कार्ड २४ से चला आ रहा वाक्य ‘हन्ति’ (मारता है) पर पूरा होता है। "
-                   "शोफ (सूजन, मानक), अनेक उपद्रवों से युक्त, पुरुष को दोनों पैरों से फैला हुआ होने पर मारता है; पैरों से क्या फैला, यह छपा नहीं, डेटा शोफ मानता है। "
+    "explain_hi": ("डेटा के अनुसार कार्ड २४ से चलता प्रतीत होता वाक्य यहाँ ‘हन्ति’ (मारता है) पर पूरा होता है। "
+                   "‘अनेकोपद्रवयुतः’ (अनेक उपद्रवों से युक्त) किसका विशेषण है, यह छपा नहीं। "
+                   "शोफ (सूजन, मानक) पुरुष को दोनों पैरों से फैला हुआ होने पर मारता है; पैरों से क्या फैला, यह छपा नहीं, डेटा शोफ मानता है। "
                    "स्त्री को मुख से, और कुक्षि (पेट) व गुह्य (गुप्त अंग) से दोनों को भी; ‘दोनों’ सम्भवतः पुरुष और स्त्री हैं। "
                    "सन्धि: मुखात् + हन्ति → मुखाद्धन्ति (घोष ह से पहले त् → द्, फिर ह विकल्प से ध); उभौ + अपि → उभावपि (औ + स्वर → आव्)।"),
     "hook": "शोफ: पुरुष को पैरों से, स्त्री को मुख से, दोनों को पेट और गुह्य से।",
@@ -737,7 +739,7 @@ NOTES_HI = {
     "21": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.३८ और ०२.११.३९); कोई पाठ-चिह्न नहीं। डेटा इसे कार्ड २० के गुल्म का वर्णन मानता है (प्रथमा)। "
            "सिरा = नस या वाहिका (सम्भावित); पीनस = पुराना जुकाम (सम्भावित)। ‘हिध्माऽध्मान’ में ऽ छपाई की आदत (आ + आ → आ)। "
            "सन्धि जाँची: सिरानद्धः + ज्वर- → सिरानद्धो ज्वर- (अः + घोष व्यंजन → ओ); डेटा पीड़ा के लिए ‘रुज्’ देता है, पर छपा ‘रुजान्वितः’ रुजा + अन्वितः (आ + अ → आ) से बनता है (रुज् + अन्वितः से ‘रुजन्वितः’ होता); इस सन्धि पर प्रश्न नहीं।"),
-    "22": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४० और ०२.११.४१); कोई पाठ-चिह्न नहीं। डेटा के अनुसार वाक्य कार्ड २१ से चलकर यहाँ ‘हन्ति’ पर पूरा होता है; "
+    "22": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४० और ०२.११.४१); कोई पाठ-चिह्न नहीं। डेटा के अनुसार वाक्य सम्भवतः कार्ड २१ से चलकर यहाँ ‘हन्ति’ पर पूरा होता है; "
            "‘हन्ति’ कार्ड ४ (छपी पंक्ति ४) के ‘निहन्ति’ से मेल खाता है। जठर = पेट; यहाँ पेट का रोग, सम्भवतः जलोदर प्रकार (सम्भावित)। "
            "छपा ‘हंति’ = हन्ति, ‘दुर्बलं’ = दुर्बलम्। ‘विण्मूत्र’ = विट् + मूत्र (ट् अनुनासिक से पहले विकल्प से ण्; इस पर प्रश्न नहीं)। "
            "सन्धि जाँची: छर्दि + अतिसारैः → छर्द्यतिसारैः (इ + अ → य); अतिसारैः + च → अतिसारैश्च (च से पहले ः → श्); जठरम् + हन्ति → जठरं हन्ति।"),
@@ -745,7 +747,7 @@ NOTES_HI = {
            "पाठ-चिह्न (सम्भव): ‘विरेचनहतानाम्’ (षष्ठी बहुवचन) द्वितीया ‘आनह्यन्तम्’ से मेल नहीं खाता; ‘विरेचनहतम्’ अनुमानित पाठ है, बीच में ‘च’ था या नहीं, अज्ञात। "
            "‘आनह्यन्तम्’ असामान्य परस्मैपद रूप (आनह्यमानम् अपेक्षित)। इन पर प्रश्न नहीं। उपस्थ = जननांग (मानक)। कोई क्रिया नहीं; डेटा इसे कार्ड २२ के दुर्बल रोगी का वर्णन मानता है। "
            "सन्धि जाँची: शून + अक्षम् → शूनाक्षम् (अ + अ → आ); कुटिल + उपस्थम् → कुटिलोपस्थम् (अ + उ → ओ); उपस्थम् + उपक्लिन्न- → उपस्थमुपक्लिन्न-।"),
-    "24": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४४ और ०२.११.४५); कोई पाठ-चिह्न नहीं। डेटा के अनुसार छपी पंक्तियाँ ४४-४७ (कार्ड २४-२५) एक वर्णन हैं, "
+    "24": ("पद्य; विश्वास मध्यम; दो छपी पंक्तियाँ (०२.११.४४ और ०२.११.४५); कोई पाठ-चिह्न नहीं। डेटा के अनुसार छपी पंक्तियाँ ४४-४७ (कार्ड २४-२५) एक वर्णन प्रतीत होती हैं, "
            "‘हन्ति’ केवल कार्ड २५ में। ‘पीत’ आँख और नख दोनों के साथ लिया गया (डेटा का पाठ)। पाण्डुरोग = रक्ताल्पता (मानक); श्वयथु = शोफ (मानक)। "
            "‘मूर्च्छाऽध्मान’ में ऽ छपाई की आदत; ‘च्छर्द्दि’ में द्द छपाई की वर्तनी। "
            "सन्धि जाँची: दाह + अरुचि → दाहारुचि (अ + अ → आ); अरुचि + छर्दि → अरुचिच्छर्दि (ह्रस्व स्वर के बाद छ → च्छ); मूर्च्छा + आध्मान → मूर्च्छाध्मान (आ + आ → आ)।"),
@@ -892,7 +894,7 @@ IMAGE_SPECS = {
         "type": "table",
         "title": "कार्ड २४: पाण्डुरोग के साथ",
         "heads": ["क्रम", "छपा शब्द: अर्थ"],
-        "rows": [["१", "श्वयथु: सूजन"], ["२", "पीत अक्षि-नख"], ["३", "तन्द्रा: ऊँघ"], ["४", "दाह: जलन"],
+        "rows": [["१", "श्वयथु: सूजन"], ["२", "पीताक्षिनख: पीली आँखें और नाखून"], ["३", "तन्द्रा: ऊँघ"], ["४", "दाह: जलन"],
                  ["५", "अरुचि: भोजन में अरुचि"], ["६", "छर्दि: उल्टी"], ["७", "मूर्च्छा"], ["८", "आध्मान: अफारा"],
                  ["९", "अतिसार: दस्त"]],
     },
