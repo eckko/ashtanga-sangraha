@@ -130,7 +130,7 @@ AUTHORED["2"] = {
 # ---------------------------------------------------------------- unit 3
 AUTHORED["3"] = {
     "title": "तत्समासतो रिष्टमित्याहुः",
-    "question": "By card 3, what is 'that' (तत्, most naturally the change just described in card 2) called in brief?",
+    "question": "By card 3, what is 'that' (तत्) called in brief?",
     "rule": "In brief (समासतः), they call that (तत्) riṣṭa (रिष्टम्), a sign foretelling death.",
     "limits": ("Prose. riṣṭa is a doctrinal term; 'sign foretelling death' is the data's plain explanation, not a modern "
                "equivalent. The line does not say who 'they' are."),
@@ -871,7 +871,7 @@ AIDS = {
     "8": {
         "chunks": "छायास्तु | शरीरे | पंच",
         "sandhi": "त से पहले विसर्ग → स्: छायाः + तु → छायास्तु।",
-        "pegs": "‘छाया पाँच, प्रभा सात’: पाँच उँगलियों की छाया, सात रंगों की प्रभा। (मेरा बनाया स्मरण-चित्र)",
+        "pegs": "छाया पाँच: महाभूतों के अनुसार (कार्ड ९–११); प्रभा सात (कार्ड १२)। (मेरा बनाया स्मरण-सूत्र)",
     },
     "9": {
         "chain": {"steps": ["वातात्: वायु से", "१ पांशुभस्मरूक्षा: धूल-राख-सी रूखी", "२ रजोऽरुणा: धूल से लाल",

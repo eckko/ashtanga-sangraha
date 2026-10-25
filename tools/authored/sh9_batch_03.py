@@ -27,7 +27,7 @@ AUTHORED["27"] = {
     "questions": [
         mcq("pretest", 0, "In unit 27, what does उत्सिक्त say about the penis (मेढ्र)?",
             ("It is swollen", "उत्सिक्त = swollen, raised: उत्सिक्तं मेढ्रम्."),
-            [("It is shrunken", "Shrinking would be the opposite; उत्सिक्त means swollen."),
+            [("It is itching", "Itching is not named; उत्सिक्त means swollen."),
              ("It is very cold", "Coldness would be शीत or शैत्य; उत्सिक्त means swollen."),
              ("It is dark blue", "A colour such as नील is not named here; उत्सिक्त means swollen.")],
             "उत्सिक्त (ut + √sic) = swollen, raised.",
@@ -737,7 +737,7 @@ AUTHORED["39"] = {
             "बाल + इन्दु."),
         order(1, "Put the printed parts of the verse of unit 39 in their printed order.",
               ["यस्यापूर्वाः सिरालेखा", "बालेंदुसदृश्योऽपि वा", "ललाटे बस्तिशीर्षे", "वाषण्मासान्न स जीवति"],
-              "Whose vein-lines never seen before / or even like the young moon / on the forehead, at the head of the bladder / or: he does not live six months.",
+              "Whose vein-lines never seen before / or even like the young moon / on the forehead or at the head of the bladder (वा is printed joined to the next word) / he does not live six months.",
               "यस्यापूर्वाः सिरालेखा → बालेंदुसदृश्योऽपि वा → ललाटे बस्तिशीर्षे → वाषण्मासान्न स जीवति."),
         match(2, "Match each word of unit 39 to its meaning.",
               [["अपूर्व", "never seen before"], ["लेखा", "line"], ["ललाट", "forehead"], ["बस्ति", "bladder"],
