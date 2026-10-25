@@ -107,12 +107,12 @@ AUTHORED["52"] = {
             "पादौ (the two feet) + उद्यम्य (having raised).",
             "औ + vowel → आव्."),
         mcq("apply", 4, "A patient keeps striking one knee against the other. Which phrase of card 52 names this?",
-            ("घट्टयन्जानुना जानु", "घट्टयन् (striking) जानुना (with the knee) जानु (the knee)."),
-            [("पादावुद्यम्य पातयन्", "This is raising and dropping the two feet, not striking the knees."),
-             ("योऽपास्यति मुहुः", "This is 'who turns aside again and again', not striking the knees."),
-             ("आतुरो न सजीवति", "This is the outcome, 'the patient does not live', not a movement.")],
+            ("घट्टयन् जानुना जानु", "घट्टयन् (striking) जानुना (with the knee) जानु (the knee)."),
+            [("पादौ उद्यम्य पातयन्", "This is raising and dropping the two feet, not striking the knees."),
+             ("यः अपास्यति मुहुः", "This is 'who turns aside again and again', not striking the knees."),
+             ("आतुरः न सः जीवति", "This is the outcome, 'the patient does not live', not a movement.")],
             "Knee against knee = जानुना जानु घट्टयन्.",
-            "घट्टयन्जानुना जानु = striking knee with knee."),
+            "घट्टयन् जानुना जानु = striking knee with knee."),
         mcq("transfer", 5, "By the pattern of पादौ + उद्यम्य → पादावुद्यम्य, how is बालौ + आगतौ (the two boys have come) joined in a new example?",
             ("बालावागतौ", "औ before a vowel → आव्: बालौ + आगतौ → बालावागतौ."),
             [("बालायागतौ", "आय् comes from ऐ before a vowel, not from औ."),
@@ -210,7 +210,7 @@ AUTHORED["54"] = {
             "शय्या = bed."),
         order(1, "Put the words of line 2 of card 54 in the printed order.",
               ["मुहुर्हसन्", "मुहुः क्ष्वेडन्", "शय्यां", "पादेन", "हंति", "यः"],
-              "Laughing again and again; humming again and again; the bed; with the foot; strikes; who.",
+              "Laughing again and again; again and again क्ष्वेडन् (taken as humming, sense not certain); the bed; with the foot; strikes; who.",
               "मुहुर्हसन् → मुहुः क्ष्वेडन् → शय्यां → पादेन → हंति → यः."),
         match(2, "Match each word of card 54 to its meaning.",
               [["सान्द्र", "thick"], ["मूत्र", "urine"], ["शुष्क", "dry"], ["कासी", "having a cough"],
@@ -248,15 +248,15 @@ AUTHORED["54"] = {
 # ---------------------------------------------------------------- unit 55
 AUTHORED["55"] = {
     "title": "मुहुश्छिद्राणि विमृशन्",
-    "question": "By card 55, how does line 1 close the series of cards 53 to 55, and which signs open line 2?",
+    "question": "By card 55, how does line 1 appear to close the series begun in card 53, and which signs open line 2?",
     "rule": ("Line 1: the patient touching the openings (छिद्राणि) again and again does not live (न स जीवति). Line 2 opens a new "
              "list: him whose breath goes upward (ऊर्ध्वश्वासम्; probably laboured breathing), whose heat has gone "
              "(गतोष्माणम्), whose groins are struck by pain (शूलोपहतवंक्षणम्)."),
     "limits": ("Medium confidence. Which openings छिद्राणि means is not stated; विमृशन् may also mean 'considering': no "
-               "question on either. Line 1 completes the sentence of card 53 (or 54); line 2 is the object of परिवर्जयेत् "
+               "question on either. Line 1 appears to complete the sentence begun in card 53 (or 54) (data); line 2 is the object of परिवर्जयेत् "
                "(card 56). Laboured breathing is probable (data)."),
     "explain_hi": ("पहली पंक्ति: बार-बार छिद्रों को छूता हुआ वह रोगी जीवित नहीं रहता। कौन-से छिद्र, यह नहीं कहा गया; ‘विमृशन्’ का अर्थ ‘विचार करता हुआ’ भी हो सकता है। "
-                   "डेटा के अनुसार यह पंक्ति कार्ड ५३ (या ५४) से चले वाक्य को पूरा करती है। "
+                   "डेटा के अनुसार यह पंक्ति सम्भवतः कार्ड ५३ (या ५४) से चले वाक्य को पूरा करती है। "
                    "दूसरी पंक्ति नई सूची खोलती है: जिसकी श्वास ऊपर की ओर हो (सम्भवतः कष्टपूर्ण श्वास), जिसकी ऊष्मा चली गई हो, जिसके वंक्षण (जाँघ के जोड़) पीड़ा से पीड़ित हों। "
                    "ये द्वितीया में हैं और कार्ड ५६ के ‘परिवर्जयेत्’ के कर्म हैं। "
                    "‘गतोष्माणम्’ में गत + ऊष्माणम् है: अ + ऊ → ओ।"),
@@ -311,11 +311,11 @@ AUTHORED["56"] = {
     "title": "शर्म चानधिगच्छंतं",
     "question": "By card 56, whom should the wise one avoid, and which two opposite changes does line 2 name?",
     "rule": ("Line 1: the wise one (बुद्धिमान्) should avoid (परिवर्जयेत्) him who does not obtain ease (शर्म "
-             "अनधिगच्छन्तम्), completing the list of card 55. Line 2: he whose disorders (विकाराः) increase (वर्धन्ते) and "
+             "अनधिगच्छन्तम्), which appears to complete the list of card 55 (data). Line 2: he whose disorders (विकाराः) increase (वर्धन्ते) and "
              "whose natural state (प्रकृतिः) diminishes (परिहीयते)."),
-    "limits": ("High confidence. Line 1 completes card 55 (data); line 2 continues into card 57. 'Should avoid' is the "
+    "limits": ("High confidence. Line 1 appears to complete card 55 (data); line 2 continues into card 57. 'Should avoid' is the "
                "text's own word; nothing more is added. Printed वर्द्धंते is an orthographic doubling of वर्धन्ते."),
-    "explain_hi": ("पहली पंक्ति कार्ड ५५ की सूची पूरी करती है: और जो सुख (शर्म) नहीं पाता, उसे बुद्धिमान परिवर्जयेत्, यानी त्याग दे; यह पाठ का अपना शब्द है। "
+    "explain_hi": ("पहली पंक्ति सम्भवतः कार्ड ५५ की सूची पूरी करती है: और जो सुख (शर्म) नहीं पाता, उसे बुद्धिमान परिवर्जयेत्, यानी त्याग दे; यह पाठ का अपना शब्द है। "
                    "दूसरी पंक्ति नया वाक्य खोलती है: जिसके विकार बढ़ते हैं और प्रकृति (स्वाभाविक अवस्था) क्षीण होती है; यह वाक्य कार्ड ५७ में पूरा होता है। "
                    "विकार बढ़ें और प्रकृति घटे: दोनों उलटी दिशाएँ इसी इकाई में हैं। "
                    "‘चानधिगच्छन्तम्’ में च + अनधिगच्छन्तम् है (अ + अ → आ); ‘अन्-’ स्वर से पहले निषेध करता है।"),
@@ -520,7 +520,7 @@ AUTHORED["59"] = {
              "न + अस्ति = नास्ति."),
         mcq("discriminate", 3, "Which split of सिद्ध्यत्यौषधं in card 59 is right?",
             ("सिद्ध्यति + औषधम्", "इ before a different vowel → य्: सिद्ध्यति + औषधम् → सिद्ध्यत्यौषधम्."),
-            [("सिद्ध्यते + औषधम्", "ए before औ gives अय्: it would print सिद्ध्यतयौषधम्."),
+            [("सिद्ध्यते + औषधम्", "ए before औ gives अय् (the य् may drop): it would print सिद्ध्यतयौषधम् or सिद्ध्यत औषधम्."),
              ("सिद्ध्यत् + यौषधम्", "यौषधम् is not a word; the य् comes from the इ of सिद्ध्यति."),
              ("सिद्ध्य + त्यौषधम्", "त्यौषधम् is not a word; औषधम् (medicine) is.")],
             "सिद्ध्यति (succeeds) + औषधम् (medicine).",
@@ -750,7 +750,7 @@ AUTHORED["63"] = {
                ["विकृत", "altered, abnormal"], ["व्याधि", "disease"]],
               "इति = thus, नाम = by name, एकादशः = eleventh, अध्यायः = chapter, विकृत = altered, व्याधि = disease.",
               "इति, नाम, एकादशः, अध्यायः, विकृत, व्याधि.", role="extend",
-              teaches="The chapter name is a tatpuruṣa, विकृत-व्याधि-विज्ञानीय: concerning the knowledge of altered (abnormal) diseases."),
+              teaches="The chapter name is a tatpuruṣa, विकृत-व्याधि-विज्ञानीय: roughly 'to be understood about abnormal (altered) diseases' (data)."),
         mcq("discriminate", 3, "Which split of नामैकादशो in card 63 is right?",
             ("नाम + एकादशः", "अ + ए → ऐ: नाम + एकादशः → नामैकादशः."),
             [("नाम + इकादशः", "अ + इ → ए: that would print नामेकादश-."),
@@ -760,7 +760,7 @@ AUTHORED["63"] = {
             "अ + ए → ऐ."),
         mcq("apply", 4, "Why is एकादशः printed एकादशोऽ before अध्यायः in card 63?",
             ("अः + अ → ओ, and the अ drops", "Before अ, the अः gives ओ and the next अ drops, marked ऽ: एकादशोऽध्यायः."),
-            [("अः + any vowel → ओ, with ऽ", "Not any: before other vowels अः gives अ with a gap (नामः + ए → नाम ए)."),
+            [("अः + any vowel → ओ, with ऽ", "Not any: before other vowels अः gives अ with a gap (रामः + एव → राम एव)."),
              ("आः + अ → ओ, and the अ drops", "The ending is अः, and आः only loses its visarga before a voiced sound."),
              ("ओ is the ordinal's own ending", "The ordinal ends in -अः; ओ comes only from sandhi.")],
             "एकादशः + अध्यायः → एकादशोऽध्यायः.",
