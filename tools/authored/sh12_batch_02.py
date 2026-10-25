@@ -14,9 +14,8 @@ AUTHORED["14"] = {
     "question": "By card 14, for the hare, snake, goat, sheep and monitor lizard, is the mention or the sight desired?",
     "rule": ("For the hare, snake, goat, sheep, monitor lizard (godhā, standard) and others of the list, the mention "
              "(कीर्तनम्) is desired (इष्टम्), not the sight (न दर्शनम्); for the last pair the reverse (विपरीतम्) holds."),
-    "limits": ("Prose, low confidence. राजाहक is unclear and boar (sūkara) is a conjecture for printed मूकर; the last pair "
-               "is read ṛkṣa-vānara (bear and monkey) only after dropping a stray म् of मृक्ष. Whether the cry (विरुतम्) is "
-               "desired is only the natural reading. No question on राजाहक, the boar, the bear or the cry."),
+    "limits": ("Prose, low confidence. राजाहक is unclear; boar is a conjecture for printed मूकर; bear (ऋक्ष) needs a stray "
+               "म् of मृक्ष dropped. That the cry (विरुतम्) is desired is only the natural reading. No question on these."),
     "explain_hi": ("खरगोश, साँप, बकरी, भेड़ और गोह (मानक पहचान) आदि का नाम लेना (कीर्तनम्) इष्ट है, उनका दर्शन नहीं। "
                    "सूची का ‘राजाहक’ अस्पष्ट है और छपा ‘मूकर’ अनुमान से सूकर (सूअर) पढ़ा गया है। "
                    "‘विरुतं च’ (और ध्वनि) पर भी ‘इष्टम्’ सहज पाठ से लागू माना गया है, पर यह पक्का नहीं। "
@@ -216,14 +215,11 @@ AUTHORED["17"] = {
                ["योज्याः", "to be applied"]],
               "एवम् = in this way, अन्ये = other, अपि = also, ध्वनयः = sounds, योज्याः = to be applied.",
               "एवम्, अन्ये, अपि, ध्वनयः, योज्याः."),
-        mcq("extend", 2, "What kind of form is योज्याः in card 17?",
-            ("A gerundive: 'to be applied'", "योज्य from √युज्: what is to be done; masculine plural with ध्वनयः."),
-            [("A past participle: 'applied'", "That would be युक्ताः; योज्याः names what is to be done."),
-             ("A gerund: 'having applied'", "That would be योजयित्वा; योज्याः agrees with ध्वनयः."),
-             ("A present verb: 'they apply'", "That would be युञ्जन्ति; योज्याः is not a finite verb.")],
-            "योज्याः = gerundive, 'to be applied', agreeing with ध्वनयः.",
-            "-य gerundive = to be done.",
-            teaches="A gerundive (-य, -तव्य, -अनीय) says what is to be done and agrees with its noun: ध्वनयो योज्याः."),
+        fill(2, "The word for 'sounds' in card 17 is ____ (type it in Devanagari or in English letters, e.g. dharma).",
+             accepts("ध्वनयः", "dhvanayaḥ", "ध्वनि"),
+             "ध्वनयः = sounds, nominative plural of ध्वनि: ध्वनयो योज्याः.",
+             "ध्वनि (sound) makes the nominative plural ध्वनयः; before the voiced य it is printed ध्वनयो.",
+             "ध्वनयः = sounds."),
         mcq("discriminate", 3, "Which split of अन्येपि in card 17 is right?",
             ("अन्ये + अपि", "After ए the अ of अपि is elided: अन्ये + अपि → अन्येऽपि (ऽ not printed here)."),
             [("अन्य + इपि", "इपि is not a word; the word is अपि."),
@@ -231,13 +227,13 @@ AUTHORED["17"] = {
              ("अन्यः + अपि", "अः + अ would give अन्योऽपि, with ओ.")],
             "अन्ये (other) + अपि (also).",
             "ए + अ → एऽ."),
-        mcq("apply", 4, "Why does ध्वनयः become ध्वनयो before योज्याः in card 17?",
-            ("अः before a voiced consonant → ओ", "य is a voiced consonant: ध्वनयः + योज्याः → ध्वनयो योज्याः."),
-            [("अः before any consonant → ओ", "Not before त: there ः → स् (स्वप्नस्तु, card 20)."),
-             ("ओ belongs to the stem form ध्वनयो", "The stem is ध्वनि; the nominative plural is ध्वनयः."),
-             ("ः after अ before य → र्", "र् comes after vowels other than अ/आ.")],
-            "ध्वनयः + योज्याः → ध्वनयो योज्याः.",
-            "अः + voiced consonant → ओ."),
+        mcq("apply", 4, "What kind of form is योज्याः in card 17?",
+            ("A gerundive: 'to be applied'", "योज्य from √युज्: what is to be done; masculine plural with ध्वनयः."),
+            [("A past participle: 'applied'", "That would be युक्ताः; योज्याः names what is to be done."),
+             ("A gerund: 'having applied'", "That would be योजयित्वा; योज्याः agrees with ध्वनयः."),
+             ("A present verb: 'they apply'", "That would be युञ्जन्ति; योज्याः is not a finite verb.")],
+            "योज्याः = gerundive, 'to be applied', agreeing with ध्वनयः.",
+            "-य gerundive = to be done."),
         mcq("transfer", 5, "By the pattern of अन्ये + अपि, how is गृहे + अपि (in the house too) joined in a new example?",
             ("गृहेऽपि", "ए + अ: the अ is elided, marked ऽ: गृहेऽपि."),
             [("गृहापि", "The ए does not vanish; the अ is the vowel that is elided."),
@@ -436,9 +432,9 @@ AUTHORED["21"] = {
     "question": "By card 21, which dreams are fruitless, and what fruit does a dream in the first part of the night give?",
     "rule": ("Of the seven kinds (card 20), the first five are fruitless (अफलः). Then (तथा) six more are listed. A dream in the "
              "first part of the night gives little fruit (अल्पं फलम्), and after a long time (चिरात्)."),
-    "limits": ("Prose, medium confidence. The list after तथा (own prakṛti, forgotten, by day, too short, too long, not seen in "
-               "deep sleep) has no printed predicate; the data reads it as parallel to अफलः, but the text does not say so: no "
-               "question on whether these are fruitless. नातिसुप्तदृष्टः can be parsed two ways: no question on its parse."),
+    "limits": ("Prose, medium confidence. The six items after तथा have no printed predicate; the data reads them as parallel "
+               "to अफलः, but the text does not say so: no question on whether they are fruitless. नातिसुप्तदृष्टः has two "
+               "parses: no question on it."),
     "explain_hi": ("कार्ड २० के सात प्रकारों में पहले पाँच (दृष्ट, श्रुत, अनुभूत, प्रार्थित, संकल्पित) निष्फल हैं। "
                    "फिर ‘तथा’ के बाद छह और गिनाए गए: अपनी प्रकृति के अनुसार, भूला हुआ, दिन में देखा, बहुत छोटा, बहुत लम्बा और गहरी नींद में न देखा। "
                    "इनका विधेय छपा नहीं; डेटा इन्हें ‘अफल’ के समान पढ़ता है, पर पाठ यह नहीं कहता। "

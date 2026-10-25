@@ -9,9 +9,9 @@ AUTHORED["40"] = {
     "question": "By card 40, what does one obtain in the series of dream-events, and which two verbs does the card print?",
     "rule": ("He who should see (पश्येत्), or who obtains (लभते), an umbrella (छत्र), a mirror (आदर्श), an unclear item, white flowers "
              "(शुक्लाः सुमनसः), cloth (वस्त्रम्), a smearing with impure matter (अमेध्यालेपनम्) and fruit (फलम्)."),
-    "limits": ("Low confidence. विशामिषं is unclear and left unsplit: no question on it. The data's notes say the lists of cards 38-39 "
-               "appear to be objects of पश्येत् and the items here of लभते; the main clause is not in this card. The impure "
-               "substance is not named; सुमनस् is taken as 'flower' (jasmine is not stated)."),
+    "limits": ("Low confidence. विशामिषं is unclear: no question on it. By the data, cards 38-39 appear to be objects of पश्येत्, "
+               "the items here of लभते; the main clause is not here. The impure substance is not named; सुमनस् = flower "
+               "(jasmine not stated)."),
     "explain_hi": ("जो देखे (पश्येत्), या जो पाए (लभते): छत्र (छाता), आदर्श (दर्पण), एक अस्पष्ट शब्द ‘विशामिषं’, श्वेत पुष्प (शुक्लाः सुमनसः), "
                    "वस्त्र, अमेध्य (अशुद्ध) पदार्थ का लेप और फल। "
                    "डेटा के नोट्स के अनुसार कार्ड ३८-३९ की सूचियाँ सम्भवतः ‘पश्येत्’ के कर्म हैं और इस कार्ड की वस्तुएँ ‘लभते’ की; मुख्य वाक्य इस कार्ड में नहीं है। "
@@ -361,9 +361,9 @@ AUTHORED["46"] = {
     "question": "By card 46, what does one do after seeing dreams, and from what is one then freed?",
     "rule": ("Having seen (दृष्ट्वा) terrible or good dreams, bathed (स्नातः) in the morning (प्रातः), having offered (हुत्वा) with the "
              "Sāvitrī (सावित्र्या), purified (पूतः), one is freed (मुच्यते) from sins (पापैः) and from diseases (व्याधिभिः)."),
-    "limits": ("Prose, low confidence. सर्पषानमिवर्णान् is unclear; तिलान् (sesame, standard) is a conjecture for printed त्विलान्; the object "
-               "of हुत्वा is not clear: no question on what is offered. The printed स्वप्मान् is read स्वप्नान् (certain). The subject is not "
-               "named ('one'). The card states the rite as printed; it gives no amount or other detail."),
+    "limits": ("Prose, low confidence. सर्पषानमिवर्णान् is unclear; तिलान् (sesame, standard) is a conjecture for printed त्विलान्; "
+               "what is offered is unclear: no question on it. स्वप्मान् = स्वप्नान् (certain). The subject is unnamed. "
+               "No amount or other detail is given."),
     "explain_hi": ("भयंकर (दारुण) या अच्छे (शोभन) स्वप्न देखकर, प्रातः स्नान किया हुआ, सावित्री (गायत्री, मानक) से हवन करके, पवित्र हुआ व्यक्ति पापों से और रोगों से मुक्त होता है (मुच्यते)। "
                    "यह गद्य है। ‘सर्पषानमिवर्णान्’ अस्पष्ट है; ‘तिलान्’ (तिल, मानक) छपे ‘त्विलान्’ का अनुमानित पाठ है; किसका हवन हो, यह स्पष्ट नहीं, इसलिए उस पर प्रश्न नहीं। "
                    "छपा ‘स्वप्मान्’ निश्चित रूप से ‘स्वप्नान्’ है। "
@@ -419,9 +419,9 @@ AUTHORED["47"] = {
     "question": "By card 47, what is said of the retinue and of the patient?",
     "rule": ("The retinue (परिवारः) endowed with auspicious conduct (मङ्गलाचारसंपन्नः), and likewise (तथा) the patient (आतुरः): having "
              "faith (श्रद्धा-), favourable (अनुकूलः), and having an abundant collection of materials (प्रभूतद्रव्यसंग्रहः)."),
-    "limits": ("Medium confidence. No verb: by the data's notes cards 47-48 are one list closing with 'that is the sign of health' (card 48). "
-               "The singular संपन्नः may qualify both retinue and patient: no question on which. द्रव्य is not specified. The printed "
-               "श्रद्धावानो does not match the data's split श्रद्धावान्: no question on that form."),
+    "limits": ("Medium confidence. No verb: by the data, cards 47-48 are one list closing in card 48. संपन्नः may qualify retinue "
+               "and patient: no question on which. द्रव्य is not specified. Printed श्रद्धावानो does not match the data's split "
+               "श्रद्धावान्: no question on that form."),
     "explain_hi": ("मंगल आचार से युक्त परिवार (रोगी के पास के लोग), और वैसे ही रोगी (आतुर): श्रद्धा वाला, अनुकूल, और प्रचुर द्रव्यों के संग्रह वाला। "
                    "इस कार्ड में क्रिया नहीं; डेटा के अनुसार कार्ड ४७-४८ एक सूची है जो कार्ड ४८ में ‘वह आरोग्य का लक्षण है’ से पूरी होती है। "
                    "एकवचन ‘संपन्नः’ परिवार और रोगी दोनों के लिए हो सकता है; द्रव्य कौन-से, यह नहीं कहा। "
