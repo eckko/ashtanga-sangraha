@@ -12,8 +12,8 @@ AUTHORED = {}
 AUTHORED["1"] = {
     "title": "अथातो दूतादिविज्ञानीयं",
     "question": "What does the opening line of card 1 announce?",
-    "rule": ("अथ अतः ... व्याख्यास्यामः: 'Now, therefore, we shall expound' the Dūtādivijñānīya, the chapter on knowing the "
-             "messenger (दूत) and the rest. अतः + दूता- → अतो दूता- (अः before a voiced consonant → ओ)."),
+    "rule": ("अथ ... व्याख्यास्यामः: 'Now, therefore, we shall expound' the Dūtādivijñānīya, the chapter on knowing the "
+             "messenger (दूत) and the rest. दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं (म् before a consonant → ं)."),
     "limits": ("Prose, the opening formula of a chapter. The noun that शारीरम् agrees with is not printed and none is supplied. "
                "The data's word split lists only अथ for the printed अथातो; अतः (therefore) is not glossed separately, though the "
                "Hindi and English render it."),
@@ -21,7 +21,8 @@ AUTHORED["1"] = {
                    "दूतादिविज्ञानीय का अर्थ है दूत आदि के विषय में जानने योग्य बातें। "
                    "‘शारीरम्’ किस संज्ञा का विशेषण है, यह छपा नहीं। "
                    "व्याख्यास्यामः भविष्यत् काल, उत्तम पुरुष बहुवचन है: ‘हम कहेंगे’। "
-                   "‘अथातो’ में अथ + अतः है: अ + अ → आ, और अः घोष व्यंजन द से पहले ओ बनता है।"),
+                   "‘अथातो’ को डेटा केवल अथ (अब) के रूप में बाँटता है; अनुवाद में ‘इसलिए’ है, पर अतः अलग नहीं दिया गया। "
+                   "‘दूतादिविज्ञानीयं शारीरं’ में व्यंजन से पहले म् → ं है।"),
     "hook": "अथातो ... व्याख्यास्यामः: अब दूत आदि को जानने का अध्याय।",
     "core": False,
     "questions": [
@@ -43,28 +44,28 @@ AUTHORED["1"] = {
               "अथातो → दूतादिविज्ञानीयं → शारीरं → व्याख्यास्यामः.",
               role="extend",
               teaches="The opening formula names the chapter (दूतादिविज्ञानीय) first; the verb व्याख्यास्यामः closes the line."),
-        mcq("discriminate", 3, "Which split of the printed अथातो in card 1 is right?",
-            ("अथ + अतः", "अ + अ → आ, and अः before the voiced द → ओ: अथातो दूता-."),
-            [("अथ + इतः", "अ + इ gives ए: that would print अथेतो."),
-             ("अथ + उत", "अ + उ gives ओ with no आ: that would print अथोत."),
-             ("अथा + तः", "Neither अथा nor तः is a word here; the आ comes from अ + अ.")],
-            "अथ (now) + अतः (therefore).",
-            "अ + अ → आ."),
-        mcq("apply", 4, "Why is the visarga of अतः printed as ओ before दूता- in card 1?",
-            ("अः before a voiced consonant → ओ", "द is a voiced consonant, so अतः + दूता- → अतो दूता-."),
-            [("अः before any consonant → ओ", "Not before a voiceless one: before त it gives स्, as in ततस्ततः."),
-             ("अः before every vowel → ओ", "Before vowels other than अ, the visarga of अः drops and अ stays."),
-             ("ओ belongs to the stem अतो", "The word is अतः; the ओ comes only from sandhi.")],
-            "अतः + दूता-: अः before the voiced द → ओ.",
-            "अः before a voiced consonant → ओ."),
-        mcq("transfer", 5, "By the pattern of अतः + दूता- → अतो दूता-, how are बालः + धावति (the boy runs) joined in a new example?",
-            ("बालो धावति", "अः before the voiced consonant ध → ओ."),
-            [("बालर्धावति", "र् comes from a visarga after vowels other than अ or आ, not after अ."),
-             ("बालस्धावति", "स् comes from a visarga before त or थ, not before ध."),
-             ("बाला धावति", "आ is not the result; अः before a voiced consonant gives ओ.")],
-            "बालः + धावति = बालो धावति, like अतः + दूता- = अतो दूता-.",
-            "अः before a voiced consonant → ओ.",
-            teaches="अः before a voiced consonant becomes ओ: अतः + दूता- → अतो दूता-."),
+        mcq("discriminate", 3, "Why is the म् of दूतादिविज्ञानीयम् printed as ं before शारीरं in card 1?",
+            ("म् before a consonant → ं", "श is a consonant, so दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं."),
+            [("म् before a vowel → ं", "Before a vowel म् joins the vowel, as in रिष्टम् + आतुर- → रिष्टमातुर- (card 2)."),
+             ("ं marks a dual ending", "दूतादिविज्ञानीयम् is singular; ं here only stands for म्."),
+             ("ं marks a lost visarga", "No visarga is involved; the word ends in म्.")],
+            "दूतादिविज्ञानीयम् + शारीरम्: म् before the consonant श → ं.",
+            "म् before a consonant → ं."),
+        mcq("apply", 4, "In card 1, the chapter name दूतादिविज्ञानीय is about knowing whom first?",
+            ("The messenger (दूत)", "दूत-आदि-विज्ञानीय: what is to be known about the messenger and the rest."),
+            [("The physician (वैद्य)", "वैद्य is not in the chapter name; its first member is दूत."),
+             ("The patient (आतुर)", "आतुर is not in the chapter name; its first member is दूत."),
+             ("The dream (स्वप्न)", "स्वप्न is not in the chapter name; its first member is दूत.")],
+            "दूतादिविज्ञानीय = what is to be known about the messenger (दूत) and the rest.",
+            "दूत + आदि = the messenger and the rest."),
+        mcq("transfer", 5, "By the pattern of दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं, how are पत्रम् + शुष्कम् (the leaf is dry) written in a new example?",
+            ("पत्रं शुष्कम्", "म् before the consonant श → ं: पत्रं शुष्कम्."),
+            [("पत्रः शुष्कम्", "म् does not become a visarga; before a consonant it becomes ं."),
+             ("पत्रो शुष्कम्", "ओ comes from अः, not from अम्."),
+             ("पत्राशुष्कम्", "म् is not dropped with the vowel lengthened; it becomes ं.")],
+            "पत्रम् + शुष्कम् = पत्रं शुष्कम्, like दूतादिविज्ञानीयम् + शारीरम् = दूतादिविज्ञानीयं शारीरं.",
+            "म् before a consonant → ं.",
+            teaches="Final म् before a consonant is written ं: दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं."),
     ],
 }
 
@@ -94,13 +95,13 @@ AUTHORED["2"] = {
             "रिष्ट = sign of approaching death."),
         match(1, "Match each word of card 2 to its meaning.",
               [["निर्दिष्टम्", "indicated, pointed out"], ["रिष्टम्", "sign of approaching death"], ["आतुर", "the patient"],
-               ["आतुराश्रयम्", "resting on the patient"]],
-              "निर्दिष्टम् = indicated, रिष्टम् = sign of approaching death, आतुर = the patient, आतुराश्रयम् = resting on the patient.",
-              "निर्दिष्टम्, रिष्टम्, आतुर, आतुराश्रयम्."),
+              ],
+              "निर्दिष्टम् = indicated, रिष्टम् = sign of approaching death, आतुर = the patient.",
+              "निर्दिष्टम्, रिष्टम्, आतुर."),
         fill(2, "In card 2, the word for a sign of approaching death is ____ (type it in Devanagari or in English letters, e.g. dharma).",
              accepts("रिष्टम्", "riṣṭam", "रिष्ट", "rishtam", "rishta"),
-             "रिष्टम् = a sign of approaching death; here it rests on the patient (आतुराश्रयम्).",
-             "रिष्ट names a sign of approaching death; in card 2 it is said to rest on the patient.",
+             "रिष्टम् = a sign of approaching death (standard).",
+             "रिष्ट names a sign of approaching death (standard).",
              "रिष्टम् = sign of approaching death."),
         mcq("discriminate", 3, "Which split of the printed रिष्टमातुराश्रयं in card 2 is right?",
             ("रिष्टम् + आतुराश्रयम्", "Final म् joins the next vowel: रिष्टम् + आतुर- → रिष्टमातुर-."),
@@ -174,7 +175,7 @@ AUTHORED["3"] = {
         mcq("apply", 4, "Which split of दूतस्यापि in card 3 is right?",
             ("दूतस्य + अपि", "अ + अ → आ: दूतस्य + अपि → दूतस्यापि."),
             [("दूतस्या + पि", "Neither दूतस्या nor पि is a word here."),
-             ("दूतस्य + आपि", "आपि is not a word; the आ comes from अ + अ."),
+             ("दूतस्ये + अपि", "दूतस्ये is not a form; ए + अ would print दूतस्येऽपि."),
              ("दूतः + स्यापि", "स्यापि is not a word; दूतस्य is the genitive.")],
             "दूतस्य (of the messenger) + अपि (also).",
             "अ + अ → आ."),
@@ -209,7 +210,7 @@ AUTHORED["4"] = {
     "questions": [
         mcq("pretest", 0, "By card 4, which animals as the messenger's mount (वाहन) mark him as inauspicious?",
             ("Donkey, camel or buffalo", "खरोष्ट्रमहिषवाहनः: riding a donkey (खर), camel (उष्ट्र) or buffalo (महिष)."),
-            [("A horse, a bull or a swan", "Card 10 lists horses, a bull and a swan among auspicious sights; card 4 names donkey, camel, buffalo."),
+            [("A horse, a bull or a swan", "Card 10 lists horses, a bull and a haṃsa (swan or goose) among auspicious sights; card 4 names donkey, camel, buffalo."),
              ("A lion, a cow or a fish", "Card 10 lists a lion, a cow and fish among auspicious sights; none is a mount in card 4."),
              ("A horse or a yoked vehicle", "Card 10 lists horses and harnessed vehicles among auspicious sights; card 4 names donkey, camel, buffalo.")],
             "खर (donkey), उष्ट्र (camel), महिष (buffalo) as वाहन.",
@@ -434,8 +435,8 @@ AUTHORED["7"] = {
 AUTHORED["8"] = {
     "title": "अशुभ काल, नक्षत्र और वैद्य की दशा",
     "question": "By card 8, which times, lunar days and nakṣatras are inauspicious, and when should the physician not follow the messenger?",
-    "rule": ("Inauspicious: both twilights, the 4th, 6th and 9th lunar days, parva days and the nakṣatras Bharaṇī to Pūrvā; also a "
-             "messenger who comes when the physician is asleep, naked, oiled or facing south. On an ill sign the physician should not follow him."),
+    "rule": ("Inauspicious: both twilights, the 4th, 6th and 9th lunar days, parva days and the nakṣatras Bharaṇī, Kṛttikā, Ārdrā, "
+             "Āśleṣā, Maghā, Mūla and the Pūrvā ones; also a messenger who comes when the physician is asleep, naked, oiled or facing south. On an ill sign the physician should not follow him."),
     "limits": ("Prose, low confidence. Midday (printed मध्यान्ह) and midnight (printed आर्द्रारात्रि) rest on corrections; यश्च ... "
                "and यो वा ... print no predicate; the Pūrvā nakṣatras are unspecified; अशस्तम् and vyādhitāśraya can be read two ways. "
                "No question on these."),
@@ -446,10 +447,10 @@ AUTHORED["8"] = {
                    "या जो दक्षिण दिशा की ओर अंजलि करके एक पैर पर खड़ा हो। "
                    "अन्त में: दूत जब बता रहा हो और वैद्य कोई अशुभ इन्द्रिय-विषय देखे या उसकी कल्पना करे, तो वह उसके पीछे न जाए (नानुयायात्)। "
                    "‘यश्च’ और ‘यो वा’ वाले वाक्यों की क्रिया नहीं छपी।"),
-    "hook": "दोनों सन्ध्याएँ, चौथ-छठ-नवमी, भरणी से मूल और पूर्वा नक्षत्र अशुभ; अशुभ दिखे तो दूत के पीछे न जाए।",
+    "hook": "दोनों सन्ध्याएँ, चौथ-छठ-नवमी, भरणी-कृत्तिका-आर्द्रा-आश्लेषा-मघा-मूल-पूर्वा अशुभ; अशुभ दिखे तो दूत के पीछे न जाए।",
     "core": True,
     "questions": [
-        mcq("pretest", 0, "By card 8, which direction is named both for the physician's face and for the messenger's añjali?",
+        mcq("pretest", 0, "By card 8, which direction is named both for the physician's face and for the añjali of 'he who' (यो वा) stands on one foot?",
             ("South", "दक्षिणाभिमुखम् (facing south) and दिशं याम्याम् (the southern direction)."),
             [("North", "Card 8 names the south (दक्षिण, याम्या), not the north."),
              ("East", "Card 8 names the south (दक्षिण, याम्या), not the east."),
@@ -508,7 +509,7 @@ AUTHORED["9"] = {
                    "करने वाले का नाम नहीं छपा; वैद्य समझा जाता है। "
                    "छपे ‘मनसासौमनस्यवता’ को मनसा + सौमनस्यवता पढ़ा गया (रिक्त स्थान छूटा); ‘असौमनस्य’ (उदासी) अर्थ के विरुद्ध होता। "
                    "‘अतोऽन्यथा’ में अतः + अन्यथा है: अः + अ → ओऽ।"),
-    "hook": "शकुन ठीक हों तो माता-पिता जैसा बनकर रोगी को आरोग्य का भरोसा दो।",
+    "hook": "शकुन इसके विपरीत हों तो माता-पिता जैसे मन से रोगी को आरोग्य का भरोसा दिया जाना चाहिए (प्रधातव्यम्)।",
     "core": False,
     "questions": [
         mcq("pretest", 0, "By card 9, the one who reassures the patient is to be like whom?",
@@ -519,10 +520,10 @@ AUTHORED["9"] = {
             "मातापितृसम = like mother and father.",
             "मातापितृसमेनातुरस्य."),
         match(1, "Match each word of card 9 to its meaning.",
-              [["करुणा", "compassion"], ["सौमनस्य", "cheerfulness"], ["आश्वासन", "comforting, reassurance"],
+              [["करुणा", "compassion"], ["मनसा", "with the mind"], ["आश्वासन", "comforting, reassurance"],
                ["आरोग्य", "health"], ["अत्यन्तम्", "complete, utmost"]],
-              "करुणा = compassion, सौमनस्य = cheerfulness, आश्वासन = comforting, आरोग्य = health, अत्यन्तम् = complete.",
-              "करुणा, सौमनस्य, आश्वासन, आरोग्य, अत्यन्तम्."),
+              "करुणा = compassion, मनसा = with the mind, आश्वासन = comforting, आरोग्य = health, अत्यन्तम् = complete.",
+              "करुणा, मनसा, आश्वासन, आरोग्य, अत्यन्तम्."),
         order(2, "Put the printed parts of card 9 in order.",
               ["अतोऽन्यथा पुनः", "करुणापेशलेन", "मनसासौमनस्यवता", "मातापितृसमेनातुरस्यात्यंतमारोग्यमाश्वासनेन", "प्रधातव्यं"],
               "Otherwise, however; soft with compassion; with a cheerful mind; by one like mother and father, complete health to the patient by comforting; is to be held out.",
@@ -560,9 +561,9 @@ AUTHORED["10"] = {
     "question": "By card 10, what do the hundred and eight auspicious things do, and by what means?",
     "rule": ("At setting out, going and entering (प्रस्थानगमनप्रवेशेषु), the hundred and eight auspicious things (अष्टोत्तरं "
              "मङ्गलानां शतम्), such as curd, honey, ghee and flowers, by sight, touch and mention remove the inauspicious and bestow the highest success."),
-    "limits": ("Prose, low confidence; one long list, not checked to add up to 108: no question on counts. No question on the "
-               "conjectural readings (mirror, cloud, fresh meat), the unclear वंरुण, the epithets, or the probable or disputed "
-               "identifications (cāṣa, kīcaka, rocanā, siddhārthaka, priyaṅgu)."),
+    "limits": ("Prose, low confidence; one long list, not checked to add up to 108: no question on how many items it has "
+               "(only the printed अष्टोत्तरं शतम् is asked). No question on conjectural readings, the unclear वंरुण, the epithets, "
+               "or the probable or disputed identifications (cāṣa, kīcaka, rocanā, siddhārthaka, priyaṅgu)."),
     "explain_hi": ("यह बहुत लम्बी सूची ‘प्रस्थान, गमन और प्रवेश के समय’ से आरम्भ होती है और इस सार पर समाप्त होती है: "
                    "‘मंगलों का यह एक सौ आठ का समूह देखने, छूने और नाम लेने से अशुभों को हटाकर उत्तम अर्थसिद्धि देता है।’ "
                    "सूची में खाने की वस्तुएँ (दही, मधु, घी, लाजा), वनस्पतियाँ (उदुम्बर यानी गूलर, अश्वत्थ यानी पीपल, हरिद्रा यानी हल्दी, वचा यानी बच: मानक पहचान), "
@@ -610,8 +611,8 @@ AUTHORED["10"] = {
         mcq("transfer", 5, "By the pattern of धन्वन्तरिः + वामनः → धन्वन्तरिर्वामनः in card 10, how is मुनिः + वदति (the sage speaks) joined in a new example?",
             ("मुनिर्वदति", "इः before a voiced sound → इर्: मुनिः + वदति → मुनिर्वदति."),
             [("मुनि वदति", "After इ the visarga is not dropped before a voiced sound; it becomes र्."),
-             ("मुनिस्वदति", "स् comes from a visarga before त or थ, not before व."),
-             ("मुनिश्वदति", "श् comes from a visarga before च or छ, not before व.")],
+             ("मुनिस्वदति", "स् comes from a visarga before त, थ (or optionally स), not before व."),
+             ("मुनिश्वदति", "श् comes from a visarga before च, छ (or optionally श), not before व.")],
             "मुनिः + वदति = मुनिर्वदति, like धन्वन्तरिः + वामनः = धन्वन्तरिर्वामनः.",
             "Visarga after इ, before a voiced sound → र्.",
             teaches="A visarga after a vowel other than अ or आ becomes र् before a voiced sound: धन्वन्तरिः + वामनः → धन्वन्तरिर्वामनः."),
@@ -677,19 +678,19 @@ AUTHORED["11"] = {
 # ---------------------------------------------------------------- unit 12
 AUTHORED["12"] = {
     "title": "पुन्नामानः पक्षिणो वामाः शुभाः",
-    "question": "By card 12, on which side are male-named birds and female-named creatures auspicious, and what changes at entering?",
+    "question": "By card 12, on which side are male-named birds and female-named creatures auspicious, and what is printed for entering?",
     "rule": ("Birds with male names (पुन्नामानः) are auspicious on the left (वामाः); those with female names (स्त्रीनामानः) on the "
-             "right (प्रदक्षिणाः); at entering (प्रवेशे) these are reversed (विपरीताः)."),
+             "right (प्रदक्षिणाः); at entering (प्रवेशे तु) the print says 'reversed' (विपरीताः), what exactly is not settled."),
     "limits": ("Prose, low confidence, partly damaged: displaced vowel signs and an unclear रला in the female-named list; the न "
                "clause (peacock, bear, dog; elephant, goat, payas) is unsettled; the dog-and-jackal rule rests on a conjecture. "
                "No question on these, nor on what 'reversed' turns into."),
     "explain_hi": ("यह इकाई दिशा का नियम देती है: पुरुष नाम वाले पक्षी बाईं ओर (वामाः) शुभ हैं; स्त्री नाम वाले दाहिनी ओर (प्रदक्षिणाः) शुभ हैं। "
                    "स्त्री नाम वालों की सूची में शिवा (सम्भवतः सियारिन), कोकिला (सम्भवतः कोयल), छुछुन्दरी (छछूंदर, मानक), सूकरी (मादा सूअर), "
                    "गृहगोधिका (सम्भवतः घर की छिपकली) और एक खुर वाले पशु हैं; छपाई में मात्राएँ खिसकी हैं और ‘रला’ अस्पष्ट है। "
-                   "प्रवेश के समय ये विपरीत (उलटे) हैं। "
+                   "प्रवेश के समय ‘विपरीताः’ (उलटे) छपा है; ठीक क्या उलटा होता है, यह तय नहीं। "
                    "‘न’ वाला अंश (मोर, भालू, श्रीकण्ठ, कुत्ता; हाथी, बकरा, पयस्) स्पष्ट नहीं, और कुत्ते-सियार वाला नियम अनुमानित पाठ पर टिका है। "
                    "‘पक्षिणो वामाः’ में पक्षिणः + वामाः है: अः घोष व्यंजन से पहले ओ बनता है।"),
-    "hook": "पुरुष-नाम पक्षी बाएँ, स्त्री-नाम दाएँ शुभ; प्रवेश में उलटा।",
+    "hook": "पुरुष-नाम पक्षी बाएँ, स्त्री-नाम दाएँ शुभ; प्रवेश में ‘विपरीताः’।",
     "core": True,
     "questions": [
         mcq("pretest", 0, "By card 12, on which side are birds with male names auspicious?",
@@ -709,21 +710,21 @@ AUTHORED["12"] = {
               "Male-named birds; on the left auspicious; female-named, on the right; but at entering reversed.",
               "पुन्नामानः पक्षिणो → वामाः शुभाः → स्त्रीनामानः प्रदक्षिणाः → प्रवेशे तु विपरीताः.",
               role="extend",
-              teaches="Card 12 gives a rule (male-named left, female-named right) and then its exception at entering (प्रवेशे तु)."),
-        mcq("discriminate", 3, "By card 12, what happens to these side rules at entering (प्रवेशे)?",
-            ("They are reversed", "प्रवेशे तु विपरीताः: but at entering they are reversed."),
-            [("They stay the same", "Card 12 says reversed (विपरीताः), not the same."),
-             ("All become inauspicious", "Card 12 says reversed, not that all become inauspicious."),
-             ("All become auspicious", "Card 12 says reversed, not that all become auspicious.")],
-            "प्रवेशे = at entering; विपरीताः = reversed.",
-            "प्रवेशे तु विपरीताः."),
-        mcq("apply", 4, "A student says: by card 12, male-named birds are auspicious on the right. What is wrong?",
-            ("Card 12 puts them on the left", "पुन्नामानः पक्षिणो वामाः शुभाः: on the left."),
-            [("Card 12 names no birds at all", "It does: पक्षिणः (birds) with male names."),
-             ("Card 12 calls such birds always bad", "It calls them auspicious (शुभाः) on the left."),
-             ("Card 12 speaks only of beasts", "It speaks of birds (पक्षिणः) with male names.")],
-            "Male-named birds: left; female-named: right.",
-            "वाम = left; प्रदक्षिण = right."),
+              teaches="Card 12 gives a side rule (male-named left, female-named right); later प्रवेशे तु विपरीताः (but at entering, reversed) follows, its scope unsettled."),
+        mcq("discriminate", 3, "In card 12, which word is printed right after प्रवेशे तु (but at entering)?",
+            ("विपरीताः (reversed)", "प्रवेशे तु विपरीताः: but at entering, reversed."),
+            [("शुभाः (auspicious)", "शुभाः stands after वामाः, not after प्रवेशे तु."),
+             ("अशुभाः (inauspicious)", "अशुभाः is not printed in card 12."),
+             ("समाः (the same)", "समाः is not printed in card 12.")],
+            "प्रवेशे तु विपरीताः.",
+            "प्रवेशे = at entering; विपरीताः = reversed."),
+        mcq("apply", 4, "By card 12, which creature is in the female-named list, by the data's standard identification?",
+            ("The musk shrew (छुछुन्दरी)", "छुछुन्दरी = musk shrew (standard), in the female-named list."),
+            [("The mongoose (नकुल)", "नकुल is in card 13, not in card 12's female-named list."),
+             ("The bull (वृषः)", "वृषः is in card 10, not in card 12's female-named list."),
+             ("The lion (केसरी)", "केसरी is in card 10, not in card 12's female-named list.")],
+            "छुछुन्दरी (musk shrew, standard) is in the female-named list.",
+            "स्त्रीनामानः: ... छुछुन्दरी ..."),
         mcq("transfer", 5, "By the sense of वाम (left) in card 12, what does वामे हस्ते mean in a new example?",
             ("In the left hand", "वाम = left: वामे हस्ते, in the left hand."),
             [("In the right hand", "The right would be दक्षिणे; वाम here is left."),
@@ -798,8 +799,7 @@ AUTHORED["13"] = {
 NOTES_HI = {
     "1": ("गद्य; विश्वास उच्च; एक छपी पंक्ति (०२.१२.१); कोई पाठ-चिह्न नहीं। अध्याय का आरम्भिक सूत्र। ‘शारीरम्’ किस संज्ञा का विशेषण है, यह छपा नहीं। "
           "डेटा के शब्द-विभाग में ‘अथातो’ के लिए केवल अथ दिया है, अतः अलग से नहीं; हिन्दी और अंग्रेज़ी अनुवाद में ‘इसलिए’ है। "
-          "सन्धि जाँची: अथ + अतः → अथातः (अ + अ → आ); अतः + दूत- → अतो दूत- (अः घोष व्यंजन से पहले → ओ); "
-          "दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं (व्यंजन से पहले म् → ं)।"),
+          "सन्धि जाँची: दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं (व्यंजन से पहले म् → ं)।"),
     "2": ("गद्य; विश्वास मध्यम; एक छपी पंक्ति (०२.१२.२); कोई पाठ-चिह्न नहीं। रिष्ट = मृत्यु के निकट होने का लक्षण (मानक)। "
           "‘आतुराश्रयम्’ को रिष्ट का विशेषण (बहुव्रीहि) पढ़ा गया; अलग संज्ञा ‘रोगी का आश्रय’ भी सम्भव है। ‘निर्दिष्टम्’ के साथ कोई सहायक क्रिया नहीं छपी। "
           "‘रिष्टमातुराश्रयं’ बिना रिक्त स्थान के छपा। सन्धि जाँची: रिष्टम् + आतुर- → रिष्टमातुर-; आतुर + आश्रयम् → आतुराश्रयम् (अ + आ → आ)।"),
@@ -843,9 +843,9 @@ NOTES_HI = {
 # ================================================================ AIDS
 AIDS = {
     "1": {
-        "frame": "कब: अथ (अब) → क्यों: अतः (इसलिए) → क्या: दूतादिविज्ञानीय (दूत आदि का ज्ञान), शारीर → क्रिया: व्याख्यास्यामः (हम कहेंगे)।",
+        "frame": "कब: अथातो (अब, इसलिए) → क्या: दूतादिविज्ञानीय (दूत आदि का ज्ञान), शारीर → क्रिया: व्याख्यास्यामः (हम कहेंगे)।",
         "chunks": "अथातो | दूतादिविज्ञानीयं | शारीरं | व्याख्यास्यामः",
-        "sandhi": "अ + अ → आ: अथ + अतः → अथातः · अः घोष व्यंजन से पहले → ओ: अतः + दूत- → अतो दूत-।",
+        "sandhi": "व्यंजन से पहले म् → ं: दूतादिविज्ञानीयम् + शारीरम् → दूतादिविज्ञानीयं शारीरं। (डेटा ‘अथातो’ में केवल अथ देता है; अतः अलग नहीं दिया।)",
     },
     "2": {
         "frame": "क्या: रिष्टम् (मृत्यु के निकट होने का लक्षण) → किस पर: आतुराश्रयम् (रोगी पर टिका) → स्थिति: निर्दिष्टम् (बताया जा चुका)।",
@@ -917,7 +917,7 @@ AIDS = {
         "sandhi": "कोई सन्धि नहीं: इ के बाद व्यंजन च; छपा ‘अपिच’ = अपि च (रिक्त स्थान छूटा)।",
     },
     "12": {
-        "contrast": "पुन्नामानः पक्षिणः → वामाः शुभाः (बाएँ शुभ) · स्त्रीनामानः → प्रदक्षिणाः (दाएँ शुभ) · प्रवेशे तु → विपरीताः (उलटे): तीनों इसी इकाई में।",
+        "contrast": "पुन्नामानः पक्षिणः → वामाः शुभाः (बाएँ शुभ) · स्त्रीनामानः → प्रदक्षिणाः (दाएँ शुभ): दोनों इसी इकाई में। आगे ‘प्रवेशे तु विपरीताः’ छपा है; किसका उलटा, स्पष्ट नहीं।",
         "chunks": "पुन्नामानः पक्षिणो | वामाः शुभाः | ... | स्त्रीनामानः प्रदक्षिणाः | ... | प्रवेशे तु विपरीताः",
         "sandhi": "अः घोष व्यंजन से पहले → ओ: पक्षिणः + वामाः → पक्षिणो वामाः।",
     },
@@ -948,10 +948,10 @@ IMAGE_SPECS = {
                 "weeping, harsh, calling from afar; an old, discoloured, dirty, torn garment; a place or time like the disease."),
         "type": "table",
         "title": "कार्ड ४: अशुभ दूत (पक्के अंश)",
-        "heads": ["विषय", "छपा शब्द = अर्थ"],
-        "rows": [["सवारी", "खर, उष्ट्र, महिष"], ["दशा", "विह्वलः = घबराया"], ["दशा", "श्वसन् = हाँफता"], ["दशा", "रुदन् = रोता"],
-                 ["वाणी", "निष्ठुरः = कठोर"], ["वाणी", "दूरादाह्वयमानः"], ["वस्त्र", "जीर्ण, विवर्ण, मलिन, छिन्न"],
-                 ["स्थान, समय", "विकारतुल्यगुण"]],
+        "heads": ["विषय", "शब्द = अर्थ"],
+        "rows": [["सवारी", "खर, उष्ट्र, महिष = गधा, ऊँट, भैंसा"], ["दशा", "विह्वलः = घबराया"], ["दशा", "श्वसन् = हाँफता"],
+                 ["दशा", "रुदन् = रोता"], ["दशा", "निष्ठुरः = कठोर"], ["वाणी", "दूरादाह्वयमानः = दूर से पुकारता"],
+                 ["वस्त्र", "जीर्ण, विवर्ण, मलिन, छिन्न"], ["स्थान, समय", "विकारतुल्यगुण = रोग-समान गुण"]],
     },
     ("6", "seesaw"): {
         "file": "sh12-kapha-pitta-6.svg",
@@ -968,7 +968,7 @@ IMAGE_SPECS = {
                 "diarrhoea; at the building of a dam it is auspicious."),
         "type": "split",
         "title": "कार्ड ७: सेतु टूटे या बँधे",
-        "cols": [["सेतुभङ्ग: टूटना", ["अशुभ", "छर्दि: उलटी", "मेह (सम्भावित)", "अतिसार: दस्त"]],
+        "cols": [["सेतुभङ्ग: टूटना", ["अशुभ", "छर्दि: उलटी", "मेह: मूत्र-रोग (सम्भावित)", "अतिसार: दस्त"]],
                  ["सेतुबन्ध: बाँधना", ["शुभ"]]],
     },
     ("8", "diagram"): {
@@ -992,11 +992,11 @@ IMAGE_SPECS = {
     ("12", "contrast"): {
         "file": "sh12-vama-dakshina-12.svg",
         "alt": ("Table of card 12: birds with male names are auspicious on the left, those with female names on the right; "
-                "at entering these are reversed."),
+                "at entering the print says 'reversed' (what exactly is reversed is not settled)."),
         "type": "table",
         "title": "कार्ड १२: बाएँ और दाएँ",
         "heads": ["कौन, कब", "नियम"],
         "rows": [["पुरुष नाम वाले पक्षी", "बाईं ओर शुभ (वामाः)"], ["स्त्री नाम वाले", "दाहिनी ओर शुभ (प्रदक्षिणाः)"],
-                 ["प्रवेश के समय", "उलटे (विपरीताः)"]],
+                 ["प्रवेश के समय", "विपरीताः (उलटे; किसका, स्पष्ट नहीं)"]],
     },
 }
