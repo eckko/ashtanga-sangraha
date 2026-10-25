@@ -44,7 +44,7 @@ AUTHORED["75"] = {
         mcq("discriminate", 3, "By unit 75, which statement is right?",
             ("The basti-śiras is ten aṅgulas", "दशाङ्गुलं बस्तिशिरः: the head of the bladder, ten aṅgulas."),
             [("The basti-śiras is twelve aṅgulas", "Twelve aṅgulas is the belly, in card 76."),
-             ("The whole basti is ten aṅgulas long", "The measure is of the basti-śiras, and no length is named."),
+             ("The basti-śiras is two aṅgulas", "Two aṅgulas is the heart, in card 83."),
              ("The basti holds ten measures of fluid", "The line gives a body measure, not a capacity.")],
             "Only the basti-śiras is measured, at ten aṅgulas.",
             "दशाङ्गुलम् goes with बस्तिशिरः."),
@@ -52,9 +52,9 @@ AUTHORED["75"] = {
               [("The line gives the bladder's capacity", "No: it gives a measure in aṅgulas, not a capacity."),
                ("बस्ति here is the urinary bladder", "Right: basti = urinary bladder (standard)."),
                ("The word अङ्गुल is printed in this line", "Right: दशांगुलं prints it."),
-               ("The ten is stated to be a length", "No: the line names no dimension.")],
+               ("The line also names the kidneys", "No: it names only the basti-śiras.")],
               [1, 2],
-              "The line prints aṅgula and names the bladder's head; it states no dimension and no capacity.",
+              "The line prints aṅgula and names the bladder's head; it gives no capacity.",
               "दशाङ्गुलं बस्तिशिरः: ten aṅgulas, the head of the bladder."),
         mcq("transfer", 5, "By the pattern of दश + अङ्गुलम् → दशाङ्गुलम्, how is सप्त + अङ्गुलम् joined in a new example?",
             ("सप्ताङ्गुलम्", "अ + अ → आ: सप्त + अङ्गुलम् → सप्ताङ्गुलम्."),
@@ -107,11 +107,11 @@ AUTHORED["76"] = {
             "Final म् + vowel: म् joins the vowel."),
         multi("apply", 4, "Which statements fit unit 76?",
               [("उदर here is the belly, a body part", "Right: the data's note says it is not the disease here."),
-               ("The line says the twelve is the girth", "No: the line names no dimension."),
+               ("The line also gives the back's measure", "No: the back is in card 79; this line names only the belly."),
                ("The word अङ्गुल is printed in this line", "Right: द्वादशांगुल- prints it."),
                ("The belly is eighteen aṅgulas", "No: twelve. Eighteen is the back's height (card 79).")],
               [0, 2],
-              "The belly, a body part, is twelve aṅgulas; the dimension is not named.",
+              "The belly, a body part, is twelve aṅgulas.",
               "द्वादशाङ्गुलम् उदरम्."),
         mcq("transfer", 5, ("By the pattern of -अङ्गुलम् + उदरम् → -अङ्गुलमुदरम्, how is द्व्यङ्गुलम् + अन्तरम् (a gap of two "
                             "aṅgulas) joined in a new example?"),
@@ -169,7 +169,7 @@ AUTHORED["77"] = {
             ("द्वादश + आयामे", "अ + आ → आ: द्वादश + आयामे → द्वादशायामे."),
             [("द्वादशा + यामे", "द्वादशा is not a form of twelve, and यामे is not the measure-word here."),
              ("द्वाद + शायामे", "द्वाद and शायामे are not words."),
-             ("द्वा + दशायामे", "दशायामे is not a word; द्वादश (twelve) is one numeral.")],
+             ("द्वा + दशायामे", "द्वा alone is not the numeral here; द्वादश (twelve) is one word, so the split falls after द्वादश.")],
             "द्वादश (twelve) + आयामे (in length).",
             "अ + आ → आ."),
         mcq("transfer", 5, "By the pattern of द्वादश + आयामे → द्वादशायामे, how is सप्त + आयामः joined in a new example?",
@@ -501,9 +501,9 @@ AUTHORED["83"] = {
         mcq("discriminate", 3, "By unit 83, which statement is right?",
             ("The heart is two aṅgulas", "द्व्यङ्गुलं हृदयम्: two aṅgulas."),
             [("The heart is twelve aṅgulas", "Twelve aṅgulas is the belly (card 76)."),
-             ("The heart is two in girth", "The line names no dimension."),
+             ("The heart is five aṅgulas", "Five aṅgulas is the mouth (card 91)."),
              ("The heart is of eight", "Of eight are the shoulders (card 84).")],
-            "Two aṅgulas; no dimension is named.",
+            "Two aṅgulas: द्व्यङ्गुलं हृदयम्.",
             "द्व्यङ्गुलम् with हृदयम्."),
         mcq("apply", 4, "Why is द्व्यङ्गुलम् printed द्व्यंगुलं before हृदयं in unit 83?",
             ("Final म् before a consonant → ं", "ह is a consonant: inside a sentence the final म् is written ं."),
@@ -558,7 +558,7 @@ AUTHORED["84"] = {
               teaches="अष्टकौ is a masculine dual: in form it agrees with स्कन्धौ."),
         mcq("discriminate", 3, "By the data's note on unit 84, with which word does अष्टकौ agree in form?",
             ("स्कन्धौ only", "अष्टकौ and स्कन्धौ are both masculine duals."),
-            [("कक्षे only", "कक्षे is not a masculine dual; अष्टकौ does not match its form."),
+            [("कक्षे only", "By the data's note अष्टकौ agrees only with स्कन्धौ; the armpits come in through च."),
              ("Both स्कन्धौ and कक्षे", "Only स्कन्धौ matches; the armpits come in through च."),
              ("Neither of the two", "It matches स्कन्धौ: masculine, dual.")],
             "Form agreement: अष्टकौ with स्कन्धौ; the armpits share the measure through च.",
@@ -612,11 +612,11 @@ AUTHORED["85"] = {
              ("It is a verb with no subject", "No verb is printed; the line is a measure.")],
             "षड्डा- is not a regular form, so the middle syllables are doubtful.",
             "Printed षड्डा- = not a regular form."),
-        match(2, "The data's note on unit 85 cites three parallel dual forms. Match each to its meaning.",
-              [["अष्टकौ", "of eight"], ["षोडशकौ", "of sixteen"], ["पञ्चदशकौ", "of fifteen"]],
-              "अष्टकौ (card 84) = of eight, षोडशकौ (card 86) = of sixteen, पञ्चदशकौ (card 87) = of fifteen.",
-              "अष्टकौ, षोडशकौ, पञ्चदशकौ.", role="extend",
-              teaches="Dual numerals in -क stand in the lines around this one; they ground the guess, nothing more."),
+        match(2, "Match each part of the printed षड्डावंसौ (unit 85) to what the data says of it.",
+              [["षड्-", "six, fairly sure"], ["अंसौ", "the two aṃsa, fairly sure"], ["-ड्डा-", "middle syllables, doubtful"]],
+              "षड्- (six) and अंसौ are fairly sure; the middle syllables -ड्डा- are not a regular form.",
+              "Sure: षड्-, अंसौ. Doubtful: -ड्डा-.", role="extend",
+              teaches="Only the sure parts carry the meaning; the doubtful middle is left open."),
         multi("discriminate", 3, "Which statements fit unit 85, by the data?",
               [("षट्कौ is the printed word", "No: the print has षड्डा-; षट्कौ is only a possible reading."),
                ("The numeral six is fairly sure", "Right: the data calls six and aṃsa fairly sure."),
@@ -632,7 +632,7 @@ AUTHORED["85"] = {
              ("Plural: six aṃsa", "Six is the measure, not the count; अंसौ is dual.")],
             "अंसौ = m. nom. dual: the two aṃsa.",
             "अंसौ: m. nom. du."),
-        mcq("transfer", 5, ("By the rule -औ + vowel → -आव् (printed in card 74: -मेढ्रौ + अष्ट- → -मेढ्रावष्ट-), how is "
+        mcq("transfer", 5, ("By the pattern -मेढ्रौ + अष्ट- → -मेढ्रावष्ट- (card 74, printed -मेंढ्रावष्ट-), how is "
                             "बालौ + अत्र joined in a new example?"),
             ("बालावत्र", "-औ before the vowel अ → -आव्: बालौ + अत्र → बालावत्र."),
             [("बालोऽत्र", "ओऽ comes from अः + अ; here the word ends in -औ."),
@@ -640,7 +640,7 @@ AUTHORED["85"] = {
              ("बालायत्र", "-आय् comes from ऐ before a vowel, not from औ.")],
             "बालौ + अत्र = बालावत्र, like -मेढ्रौ + अष्ट- = -मेढ्रावष्ट-.",
             "औ + vowel → आव्.",
-            teaches="A final -औ before a vowel becomes -आव्: -मेढ्रौ + अष्ट- → -मेढ्रावष्ट- (card 74)."),
+            teaches="A final -औ before a vowel becomes -आव्: -मेढ्रौ + अष्ट- → -मेढ्रावष्ट- (card 74, printed -मेंढ्रावष्ट-)."),
     ],
 }
 
@@ -794,8 +794,8 @@ NOTES_HI = {
     "83": ("गद्य; विश्वास उच्च; कोई पाठ-चिह्न नहीं। हृदय = दिल (मानक); माप का प्रकार नहीं बताया। सन्धि जाँची: द्वि + अङ्गुलम् → "
            "द्व्यङ्गुलम् (इ + भिन्न स्वर → य्); व्यंजन ह से पहले अन्तिम म् → ं (द्व्यंगुलं)। पंक्ति के अन्त का ‘हृदयं’ अनुस्वार छपाई की आदत है।"),
     "84": ("गद्य; विश्वास मध्यम; कोई पाठ-चिह्न नहीं। ‘अष्टकौ’ पुल्लिंग द्विवचन है और केवल ‘स्कन्धौ’ से मेल खाता है; काँखों का वही माप "
-           "‘च’ से समझा जाता है (डेटा की टिप्पणी)। कक्ष = काँख (मानक)। व्याकरण-लेबल में ‘कक्षे’ का लिंग नहीं दिया गया; पुल्लिंग कक्ष का "
-           "द्विवचन ‘कक्षौ’ होता, इसलिए ‘कक्षे’ स्त्रीलिंग (कक्षा) या नपुंसक द्विवचन है। कोई सन्धि नहीं (औ + व्यंजन अपरिवर्तित)। "
+           "‘च’ से समझा जाता है (डेटा की टिप्पणी)। कक्ष = काँख (मानक)। व्याकरण-लेबल में ‘कक्षे’ का लिंग नहीं दिया गया; "
+           "इसलिए इसके लिंग पर कोई प्रश्न नहीं। कोई सन्धि नहीं (औ + व्यंजन अपरिवर्तित)। "
            "छपा ‘स्कंधौ’ = स्कन्धौ।"),
     "85": ("गद्य; विश्वास कम। पाठ-चिह्न (सम्भव): छपा ‘षड्डावंसौ’ नियमित रूप नहीं; कार्ड ८४, ८६, ८७ (छपी पंक्ति ९८, १००, १०१) के "
            "द्विवचन -क रूपों के आधार पर ‘षट्कौ अंसौ’ = ‘षट्कावंसौ’ (स्कैन में ट्क/ड्ड की भूल) केवल अनुमान है; इस पर प्रश्न नहीं। ‘छः’ "
@@ -875,7 +875,7 @@ AIDS = {
     "85": {
         "contrast": "लगभग पक्का: अंसौ (दो अंस) और संख्या छः ⇄ अनिश्चित: छपे ‘षड्डा-’ के बीच के अक्षर। दोनों इसी इकाई में।",
         "anchors": "पक्का भाग याद रखो: छः, दो अंस। धुँधला भाग: बीच के अक्षर, उस पर कोई प्रश्न नहीं। (मेरी याद-पद्धति)",
-        "sandhi": "औ + स्वर → आव्: -मेढ्रौ + अष्ट- → -मेढ्रावष्ट- (कार्ड ७४ में छपा)।",
+        "sandhi": "औ + स्वर → आव्: -मेढ्रौ + अष्ट- → -मेढ्रावष्ट- (कार्ड ७४, छपा -मेंढ्रावष्ट-)।",
     },
     "86": {
         "chunks": "षोडशकौ | प्रबाहू",
