@@ -794,7 +794,15 @@ IMAGE_SPECS = {
         "alt": ("Chart of unit 15, parts numbered in printed order: from that, plumpness of two parts (cheeks, breasts) and blackness of two parts "
                 "(lips, nipples)."),
         "type": "mermaid",
-        "code": 'flowchart LR\n  T["तस्मात्: उससे"] --> P["पीनता: मोटापन"]\n  P --> A["१ कपोल: गाल"]\n  P --> B["२ पयोधर: स्तन"]\n  T --> K["कृष्णत्व: कालापन"]\n  K --> C["३ ओष्ठ: ओंठ"]\n  K --> D["४ चूचुक"]\n',
+        "code": ("flowchart TD\n"
+                 "  T[\"तस्मात्: उससे\"] --> P[\"पीनता: मोटापन\"]\n"
+                 "  T --> K[\"कृष्णत्व: कालापन\"]\n"
+                 "  P --> A[\"१ कपोल: गाल\"]\n"
+                 "  A ~~~ B\n"
+                 "  P --> B[\"२ पयोधर: स्तन\"]\n"
+                 "  K --> C[\"३ ओष्ठ: ओंठ\"]\n"
+                 "  C ~~~ D\n"
+                 "  K --> D[\"४ चूचुक\"]\n"),
     },
     ("18", "diagram"): {
         "file": "sh2-ghana-peshi-arbuda-18.svg",
@@ -809,7 +817,10 @@ IMAGE_SPECS = {
         "file": "sh2-pancha-praroha-21.svg",
         "alt": "Chart of unit 21, in printed order: the five sprouts of the third month: two thighs (legs), two arms and the head.",
         "type": "mermaid",
-        "code": 'flowchart TD\n  R["पाँच अंकुर"] --> A["१ सक्थिनी = दो जाँघें"]\n  R --> B["२ बाहू = दो बाहें"]\n  R --> C["३ शिरः = सिर"]\n',
+        "code": ("flowchart TD\n"
+                 "  R[\"पाँच अंकुर\"] --> A[\"१ सक्थिनी =<br/>दो जाँघें\"]\n"
+                 "  R --> B[\"२ बाहू =<br/>दो बाहें\"]\n"
+                 "  R --> C[\"३ शिरः =<br/>सिर\"]\n"),
     },
     ("22", "chain"): {
         "file": "sh2-yugapat-krama-22.svg",

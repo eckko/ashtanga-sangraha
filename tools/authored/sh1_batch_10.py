@@ -967,10 +967,12 @@ IMAGE_SPECS = {
                 "with one desiring a daughter; the word with the right nostril is damaged."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"लक्ष्मणा (विवादित)\"] --> E[\"कोई एक\"]\n"
-                 "  B[\"वटशुङ्ग (मानक)\"] --> E\n"
-                 "  C[\"सहदेवा (सम्भावित)\"] --> E\n"
-                 "  D[\"विश्वेदेवा (अज्ञात)\"] --> E\n"
+                 "  subgraph P[\" \"]\n"
+                 "    direction TB\n"
+                 "    A[\"लक्ष्मणा<br/>(विवादित)\"] ~~~ C[\"सहदेवा<br/>(सम्भावित)\"]\n"
+                 "    B[\"वटशुङ्ग<br/>(मानक)\"] ~~~ D[\"विश्वेदेवा<br/>(अज्ञात)\"]\n"
+                 "  end\n"
+                 "  P --> E[\"कोई एक\"]\n"
                  "  E --> F[\"दूध में कूटकर\"]\n"
                  "  F --> G[\"तीन या चार बूँदें,<br/>स्वयं डाले\"]\n"
                  "  G --> H[\"दाहिना छिद्र:<br/>शब्द क्षतिग्रस्त\"]\n"
@@ -1028,17 +1030,14 @@ IMAGE_SPECS = {
     },
     ("132", "diagram"): {
         "file": "sh1-paricharaka-132.svg",
-        "alt": ("Mind map of unit 132: attendants gentle in form, speech, service and conduct, following what is dear and "
-                "beneficial; and likewise the husband."),
+        "alt": ("Chart of unit 132: attendants gentle in form, speech, service and conduct, following what is dear and beneficial; and likewise the husband."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  परिचारक\n"
-                 "    सौम्य\n"
-                 "      आकृति\n"
-                 "      वचन\n"
-                 "      उपचार\n"
-                 "      चेष्टा\n"
-                 "    प्रिय और हित के अनुवर्ती\n"
-                 "    तथा भर्ता\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"परिचारक\"] --> S[\"सौम्य\"]\n"
+                 "  R --> P[\"प्रिय और हित<br/>के अनुवर्ती\"]\n"
+                 "  S --> S1[\"आकृति\"]\n"
+                 "  S1 ~~~ S2[\"वचन\"] ~~~ S3[\"उपचार\"] ~~~ S4[\"चेष्टा\"]\n"
+                 "  P ~~~ T[\"तथा भर्ता\"]\n"
+                 "  R --> T\n"),
     },
 }

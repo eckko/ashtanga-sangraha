@@ -893,16 +893,16 @@ AIDS = {
 IMAGE_SPECS = {
     ("67", "chain"): {
         "file": "sh3-akala-pravahana-67.svg",
-        "alt": ("Flowchart of unit 67: bearing down at the wrong time is like forcing out the urges of feces and urine; "
-                "it is useless and unwholesome; it causes, numbered, 1 breathlessness, 2 cough, 3 wasting (probable), "
-                "4 hunchedness and so on."),
+        "alt": ("Flowchart of unit 67: bearing down at the wrong time is like forcing out the urges of feces and urine; it is useless and unwholesome; it causes, numbered in two rows, 1 breathlessness, 2 cough, 3 wasting (probable), 4 hunchedness and so on."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"असमय प्रवाहण\"] --> B[\"मल-मूत्र वेग उदीरण जैसा\"]\n"
+                 "  A[\"असमय प्रवाहण\"] --> B[\"मल-मूत्र वेग<br/>उदीरण जैसा\"]\n"
                  "  B --> C[\"निरर्थक और अहितकर\"]\n"
                  "  C --> D[\"१ श्वास\"]\n"
                  "  C --> E[\"२ कास\"]\n"
-                 "  C --> F[\"३ शोष (सम्भावित)\"]\n"
+                 "  D ~~~ F\n"
+                 "  E ~~~ G\n"
+                 "  C --> F[\"३ शोष<br/>(सम्भावित)\"]\n"
                  "  C --> G[\"४ कुब्जता आदि\"]\n"),
     },
     ("68", "chain"): {

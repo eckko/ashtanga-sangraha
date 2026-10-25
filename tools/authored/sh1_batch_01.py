@@ -928,21 +928,13 @@ IMAGE_SPECS = {
     },
     ("10", "diagram"): {
         "file": "sh1-shukra-gunas-10.svg",
-        "alt": ("Mind map of unit 10: shukra fit for conception and its qualities: gentle, unctuous, heavy, white, "
-                "honey-scented, sweet, slimy, abundant, thick, and of the colour of ghee, oil or honey."),
+        "alt": ("Chart of unit 10 in two columns, read top to bottom: shukra fit for conception and its qualities: gentle, unctuous, heavy, white, honey-scented, sweet, slimy, abundant, thick, and of the colour of ghee, oil or honey."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  गर्भाधान-योग्य शुक्र\n"
-                 "    सौम्य\n"
-                 "    स्निग्ध\n"
-                 "    गुरु\n"
-                 "    शुक्ल\n"
-                 "    मधुगन्धि\n"
-                 "    मधुर\n"
-                 "    पिच्छिल\n"
-                 "    बहु\n"
-                 "    बहल\n"
-                 "    घृत-तैल-मधु वर्ण\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"गर्भाधान-योग्य शुक्र\"] --> A[\"सौम्य\"]\n"
+                 "  R --> F[\"मधुर\"]\n"
+                 "  A ~~~ B[\"स्निग्ध\"] ~~~ C[\"गुरु\"] ~~~ D[\"शुक्ल\"] ~~~ E[\"मधुगन्धि\"]\n"
+                 "  F ~~~ G[\"पिच्छिल\"] ~~~ H[\"बहु\"] ~~~ I[\"बहल\"] ~~~ J[\"घृत-तैल-मधु वर्ण\"]\n"),
     },
     ("11", "chain"): {
         "file": "sh1-artava-11.svg",
@@ -963,7 +955,9 @@ IMAGE_SPECS = {
                  "  C --> D[\"नाम पाता है\"]\n"
                  "  D --> E[\"असृग्दर<br/>(पुनर्विभाजन)\"]\n"
                  "  D --> F[\"प्रदर\"]\n"
-                 "  D --> G[\"व्यापद्\"]\n"
-                 "  D --> H[\"रक्तयोनि\"]\n"),
+                 "  E ~~~ G[\"व्यापद्\"]\n"
+                 "  F ~~~ H[\"रक्तयोनि\"]\n"
+                 "  D --> G\n"
+                 "  D --> H\n"),
     },
 }

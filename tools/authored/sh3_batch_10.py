@@ -939,13 +939,13 @@ IMAGE_SPECS = {
     },
     ("117", "chain"): {
         "file": "sh3-snehayogya-117.svg",
-        "alt": ("Flowchart of unit 117: for one unfit for sneha, a decoction of vāta-relieving medicines, or of the lesser "
-                "pañcamūla (printed katha, read kvātha); separately, for one who has drunk, anointing with yamaka (probably oil and ghee), "
-                "then the belly wrapped with cloth."),
+        "alt": ("Flowchart of unit 117, two parts stacked: for one unfit for sneha, a decoction of vāta-relieving medicines, or of the lesser pañcamūla (printed katha, read kvātha); separately, below, for one who has drunk, anointing with yamaka (probably oil and ghee), then the belly wrapped with cloth."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"स्नेह के अयोग्य\"] --> B[\"वातहर औषधों का क्वाथ (छपा कथ)\"]\n"
-                 "  A -->|\"या\"| C[\"ह्रस्व पञ्चमूल का क्वाथ (छपा कथ)\"]\n"
+                 "  A[\"स्नेह के अयोग्य\"] --> B[\"वातहर औषधों<br/>का क्वाथ<br/>(छपा कथ)\"]\n"
+                 "  A -->|\"या\"| C[\"ह्रस्व पञ्चमूल<br/>का क्वाथ<br/>(छपा कथ)\"]\n"
+                 "  B ~~~ D\n"
+                 "  C ~~~ D\n"
                  "  D[\"जिसने पी लिया हो\"] --> E[\"यमक से अभ्यंग\"]\n"
                  "  E --> F[\"पेट कपड़े से लपेटना\"]\n"),
     },

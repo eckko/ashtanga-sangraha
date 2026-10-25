@@ -901,22 +901,23 @@ AIDS = {
 IMAGE_SPECS = {
     ("65", "chain"): {
         "file": "sh6-udakavaha-dushti-65.svg",
-        "alt": ("Flowchart of unit 65: causes (āma, sense uncertain; fear; excessive drinking; heat; dry food; the printed "
-                "tṛṣṇigraha, conjectural; and the like) vitiate the water-carrying srotas; then four signs in printed "
-                "order: excessive thirst, dry mouth, ringing in the ears, seeing darkness."),
+        "alt": ("Flowchart of unit 65: causes (āma, sense uncertain; fear; excessive drinking; heat; dry food; the printed tṛṣṇigraha, conjectural; and the like), boxed in rows of two, vitiate the water-carrying srotas; then four signs in printed order: excessive thirst, dry mouth, ringing in the ears, seeing darkness."),
         "type": "mermaid",
-        "code": ('flowchart LR\n'
-                 '  C1["आम (अर्थ अनिश्चित)"] --> D["उदकवह स्रोतस दूषित"]\n'
-                 '  C2["भय"] --> D\n'
-                 '  C3["अतिपान"] --> D\n'
-                 '  C4["उष्ण"] --> D\n'
-                 '  C5["शुष्क अन्न"] --> D\n'
-                 '  C6["छपा तृष्णिग्रह (पाठ अनुमानित)"] --> D\n'
-                 '  C7["आदि"] --> D\n'
-                 '  D --> S1["१ अतितृष्णा"]\n'
-                 '  D --> S2["२ मुखशोष"]\n'
-                 '  D --> S3["३ कर्णक्ष्वेडन"]\n'
-                 '  D --> S4["४ तमोदर्शन"]\n'),
+        "code": ("flowchart TD\n"
+                 "  subgraph CS[\" \"]\n"
+                 "    direction LR\n"
+                 "    C1[\"आम<br/>(अर्थ अनिश्चित)\"] ~~~ C2[\"भय\"]\n"
+                 "    C3[\"अतिपान\"] ~~~ C4[\"उष्ण\"]\n"
+                 "    C5[\"शुष्क अन्न\"] ~~~ C6[\"छपा तृष्णिग्रह<br/>(पाठ अनुमानित)\"]\n"
+                 "    C7[\"आदि\"]\n"
+                 "  end\n"
+                 "  CS --> D[\"उदकवह स्रोतस दूषित\"]\n"
+                 "  D --> S1[\"१ अतितृष्णा\"]\n"
+                 "  D --> S2[\"२ मुखशोष\"]\n"
+                 "  S1 ~~~ S3\n"
+                 "  S2 ~~~ S4\n"
+                 "  D --> S3[\"३ कर्णक्ष्वेडन\"]\n"
+                 "  D --> S4[\"४ तमोदर्शन\"]\n"),
     },
     ("67", "diagram"): {
         "file": "sh6-annavaha-67.svg",

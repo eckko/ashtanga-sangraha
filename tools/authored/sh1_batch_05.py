@@ -892,17 +892,14 @@ IMAGE_SPECS = {
     },
     ("62", "diagram"): {
         "file": "sh1-kapha-kvatha-62.svg",
-        "alt": ("Mindmap of unit 62: in the Kapha-type one drinks a decoction of kutaja, katuka and ashvagandha; "
-                "the second line, with honey, is damaged and unclear."),
+        "alt": ("Chart of unit 62: in the Kapha-type one drinks a decoction of kutaja, katuka and ashvagandha; the second line, with honey, is damaged and unclear."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  श्लैष्मिके\n"
-                 "    क्वाथ पिए\n"
-                 "      कुटज\n"
-                 "      कटुका\n"
-                 "      अश्वगन्धा\n"
-                 "    अथवा मधु सहित\n"
-                 "      पद क्षतिग्रस्त\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"श्लैष्मिके\"] --> S[\"क्वाथ पिए\"]\n"
+                 "  R --> M[\"अथवा मधु सहित\"]\n"
+                 "  S --> S1[\"कुटज\"]\n"
+                 "  S1 ~~~ S2[\"कटुका\"] ~~~ S3[\"अश्वगन्धा\"]\n"
+                 "  M --> M1[\"पद क्षतिग्रस्त\"]\n"),
     },
     ("64", "contrast"): {
         "file": "sh1-vireka-vamana-64.svg",

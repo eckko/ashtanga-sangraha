@@ -951,16 +951,13 @@ IMAGE_SPECS = {
     },
     ("7", "diagram"): {
         "file": "sh2-sadyogarbha-7.svg",
-        "alt": ("Mind map of unit 7, nodes numbered in the text's order: the signs of a woman who has just conceived: taking in of the seed by the yoni, "
-                "satisfaction, heaviness, throbbing, and continued connection of shukra and artava."),
+        "alt": ("Chart of unit 7, nodes numbered in the text's order in two columns: the signs of a woman who has just conceived: taking in of the seed by the yoni, satisfaction, heaviness, throbbing, and continued connection of shukra and artava."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  सद्योगृहीतगर्भा के लक्षण\n"
-                 "    १ योनि द्वारा बीज-ग्रहण\n"
-                 "    २ तृप्ति\n"
-                 "    ३ गुरिमा भारीपन\n"
-                 "    ४ स्फुरण फड़कना\n"
-                 "    ५ शुक्र-आर्तव का अनुबन्ध\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"सद्योगृहीतगर्भा के लक्षण\"] --> A[\"१ योनि द्वारा<br/>बीज-ग्रहण\"]\n"
+                 "  R --> D[\"४ स्फुरण<br/>फड़कना\"]\n"
+                 "  A ~~~ B[\"२ तृप्ति\"] ~~~ C[\"३ गुरिमा<br/>भारीपन\"]\n"
+                 "  D ~~~ E[\"५ शुक्र-आर्तव<br/>का अनुबन्ध\"]\n"),
     },
     ("9", "diagram"): {
         "file": "sh2-garbha-lakshana-9.svg",

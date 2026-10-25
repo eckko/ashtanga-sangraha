@@ -978,21 +978,24 @@ IMAGE_SPECS = {
     },
     ("78", "diagram"): {
         "file": "sh1-ritumati-78.svg",
-        "alt": ("Mindmap of verse 78, signs of a woman in her ritu: face lean and clear; hips and breasts throbbing; eyes "
-                "(reading probable) and belly drooping; desire for a man."),
+        "alt": ("Chart of verse 78, branches in two rows, signs of a woman in her ritu: face lean and clear; hips and breasts throbbing; eyes (reading probable) and belly drooping; desire for a man."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  ऋतुमती\n"
-                 "    मुख\n"
-                 "      कृश\n"
-                 "      प्रसन्न\n"
-                 "    फड़कते\n"
-                 "      श्रोणि\n"
-                 "      पयोधर\n"
-                 "    शिथिल\n"
-                 "      आँखें, पाठ सम्भावित\n"
-                 "      कुक्षि\n"
-                 "    पुरुष की कामना\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"ऋतुमती\"] --> M[\"मुख\"]\n"
+                 "  R --> P[\"फड़कते\"]\n"
+                 "  M --> M1[\"कृश\"]\n"
+                 "  M1 ~~~ M2[\"प्रसन्न\"]\n"
+                 "  M --> M2\n"
+                 "  P --> P1[\"श्रोणि\"]\n"
+                 "  P1 ~~~ P2[\"पयोधर\"]\n"
+                 "  P --> P2\n"
+                 "  M2 ~~~ S\n"
+                 "  P2 ~~~ K\n"
+                 "  R -----> S[\"शिथिल\"]\n"
+                 "  R -----> K[\"पुरुष की<br/>कामना\"]\n"
+                 "  S --> S1[\"आँखें,<br/>पाठ सम्भावित\"]\n"
+                 "  S1 ~~~ S2[\"कुक्षि\"]\n"
+                 "  S --> S2\n"),
     },
     ("79", "contrast"): {
         "file": "sh1-padma-upama-79.svg",

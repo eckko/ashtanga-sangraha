@@ -951,8 +951,8 @@ IMAGE_SPECS = {
                 "obstructed) all lead to one result: the one in the womb does not cry out."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"१. जरायु से मुख ढका\"] --> D[\"गर्भस्थ नहीं रोता\"]\n"
-                 "  B[\"२. कफ से कण्ठ लिपटा\"] --> D\n"
-                 "  C[\"३. वायु का मार्ग रुका\"] --> D\n"),
+                 "  A[\"१. जरायु से<br/>मुख ढका\"] --> D[\"गर्भस्थ नहीं रोता\"]\n"
+                 "  B[\"२. कफ से<br/>कण्ठ लिपटा\"] --> D\n"
+                 "  C[\"३. वायु का<br/>मार्ग रुका\"] --> D\n"),
     },
 }

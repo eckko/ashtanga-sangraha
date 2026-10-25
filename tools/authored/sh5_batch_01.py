@@ -874,15 +874,15 @@ AIDS = {
 IMAGE_SPECS = {
     ("2", "diagram"): {
         "file": "sh5-shadanga-2.svg",
-        "alt": ("Numbered mind map of unit 2: the body with six parts (ṣaḍaṅga), in line order: 1 head, 2 trunk "
-                "(antarādhi), 3-4 the two arms, 5-6 the two lower limbs."),
+        "alt": ("Numbered chart of unit 2: the body with six parts (ṣaḍaṅga), in line order: 1 head, 2 trunk (antarādhi), 3-4 the two arms, 5-6 the two lower limbs."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  षडंग शरीर\n"
-                 "    १ शिर: सिर\n"
-                 "    २ अन्तराधि: धड़\n"
-                 "    ३-४ दो बाहु: भुजाएँ\n"
-                 "    ५-६ दो सक्थि: टाँगें\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"षडंग शरीर\"] --> A[\"१ शिर: सिर\"]\n"
+                 "  R --> C[\"३-४ दो बाहु:<br/>भुजाएँ\"]\n"
+                 "  A ~~~ B[\"२ अन्तराधि:<br/>धड़\"]\n"
+                 "  C ~~~ D[\"५-६ दो सक्थि:<br/>टाँगें\"]\n"
+                 "  R --> B\n"
+                 "  R --> D\n"),
     },
     ("4", "chain"): {
         "file": "sh5-mahabhuta-utpatti-4.svg",
@@ -891,8 +891,8 @@ IMAGE_SPECS = {
         "type": "mermaid",
         "code": ("flowchart TD\n"
                  "  A[\"महागुणमय\"] --> M[\"महाभूत\"]\n"
-                 "  C[\"चेतना से अधिष्ठित\"] --> M\n"
-                 "  B[\"ख पवन तेज जल भूमि\"] -. \"अनुमानित पाठ\" .-> M\n"
+                 "  C[\"चेतना से<br/>अधिष्ठित\"] --> M\n"
+                 "  B[\"ख पवन तेज<br/>जल भूमि\"] -. \"अनुमानित पाठ\" .-> M\n"
                  "  M --> D[\"अभिनिर्वृत्ति: उत्पत्ति\"]\n"),
     },
     ("5", "chain"): {

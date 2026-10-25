@@ -905,23 +905,13 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "diagram"): {
         "file": "sh2-strikara-bhava-28.svg",
-        "alt": ("Mind map of unit 28: the eleven woman-making states, numbered 1 to 11 in the line's order: klaibya, timidity, lack of "
-                "confidence, bewilderment, unsteadiness, heaviness below, lack of compactness, laxity, softness, the "
-                "states of womb and seed, and other fitting ones."),
+        "alt": ("Chart of unit 28 in two columns: the eleven woman-making states, numbered 1 to 11 in the line's order: klaibya, timidity, lack of confidence, bewilderment, unsteadiness, heaviness below, lack of compactness, laxity, softness, the states of womb and seed, and other fitting ones."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  स्त्रीकर भाव\n"
-                 "    १ क्लैब्य\n"
-                 "    २ भीरुत्व\n"
-                 "    ३ अवैशारद्य\n"
-                 "    ४ मोह\n"
-                 "    ५ अनवस्थान\n"
-                 "    ६ अधोगुरुत्व\n"
-                 "    ७ असंहनन\n"
-                 "    ८ शैथिल्य\n"
-                 "    ९ मार्दव\n"
-                 "    १० गर्भाशय-बीज भाव\n"
-                 "    ११ अन्य उचित भाव\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"स्त्रीकर भाव\"] --> A[\"१ क्लैब्य\"]\n"
+                 "  R --> G[\"७ असंहनन\"]\n"
+                 "  A ~~~ B[\"२ भीरुत्व\"] ~~~ C[\"३ अवैशारद्य\"] ~~~ D[\"४ मोह\"] ~~~ E[\"५ अनवस्थान\"] ~~~ F[\"६ अधोगुरुत्व\"]\n"
+                 "  G ~~~ H[\"८ शैथिल्य\"] ~~~ I[\"९ मार्दव\"] ~~~ J[\"१० गर्भाशय-बीज<br/>भाव\"] ~~~ K[\"११ अन्य उचित<br/>भाव\"]\n"),
     },
     ("30", "frame"): {
         "file": "sh2-bhava-varga-30.svg",

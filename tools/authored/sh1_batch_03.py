@@ -890,35 +890,23 @@ AIDS = {
 IMAGE_SPECS = {
     ("28", "diagram"): {
         "file": "sh1-abija-retas-28.svg",
-        "alt": ("Mindmap of unit 28: the seedless semens, eight members numbered in printed order: Vata, Pitta, Shleshma, "
-                "corpse-smelling, knot, pus, wasted, urine-and-faeces."),
+        "alt": ("Chart of unit 28: the seedless semens, eight members numbered in printed order in two columns: Vata, Pitta, Shleshma, corpse-smelling, knot, pus, wasted, urine-and-faeces."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  अबीज रेतस्\n"
-                 "    १ वात\n"
-                 "    २ पित्त\n"
-                 "    ३ श्लेष्म\n"
-                 "    ४ कुणपगन्धि\n"
-                 "    ५ ग्रन्थि\n"
-                 "    ६ पूय\n"
-                 "    ७ क्षीण\n"
-                 "    ८ मूत्र-पुरीष\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"अबीज रेतस्\"] --> A[\"१ वात\"]\n"
+                 "  R --> E[\"५ ग्रन्थि\"]\n"
+                 "  A ~~~ B[\"२ पित्त\"] ~~~ C[\"३ श्लेष्म\"] ~~~ D[\"४ कुणपगन्धि\"]\n"
+                 "  E ~~~ F[\"६ पूय\"] ~~~ G[\"७ क्षीण\"] ~~~ H[\"८ मूत्र-पुरीष\"]\n"),
     },
     ("29", "diagram"): {
         "file": "sh1-vata-retas-29.svg",
-        "alt": ("Mindmap of unit 29: the semen discharged by Vata, eight signs numbered in printed order: thin, rough, frothy, reddish, scanty, "
-                "interrupted, with pain, after a long time."),
+        "alt": ("Chart of unit 29: the semen discharged by Vata, eight signs numbered in printed order in two columns: thin, rough, frothy, reddish, scanty, interrupted, with pain, after a long time."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  वात से निकलता\n"
-                 "    १ पतला\n"
-                 "    २ रूखा\n"
-                 "    ३ झागदार\n"
-                 "    ४ लालिमा लिए\n"
-                 "    ५ थोड़ा\n"
-                 "    ६ टूटा-टूटा\n"
-                 "    ७ पीड़ा सहित\n"
-                 "    ८ देर से\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"वात से निकलता\"] --> A[\"१ पतला\"]\n"
+                 "  R --> E[\"५ थोड़ा\"]\n"
+                 "  A ~~~ B[\"२ रूखा\"] ~~~ C[\"३ झागदार\"] ~~~ D[\"४ लालिमा लिए\"]\n"
+                 "  E ~~~ F[\"६ टूटा-टूटा\"] ~~~ G[\"७ पीड़ा सहित\"] ~~~ H[\"८ देर से\"]\n"),
     },
     ("30", "contrast"): {
         "file": "sh1-pitta-kapha-retas-30.svg",

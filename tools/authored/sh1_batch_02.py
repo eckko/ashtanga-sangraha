@@ -971,15 +971,15 @@ IMAGE_SPECS = {
     },
     ("22", "diagram"): {
         "file": "sh1-shuddha-artava-22.svg",
-        "alt": ("Mindmap of unit 22: pure artava resembles hare's blood and lac juice, and when washed it loses its colour."),
+        "alt": ("Chart of unit 22: pure artava resembles hare's blood and lac juice, and when washed it loses its colour."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  शुद्ध आर्तव\n"
-                 "    रंग की उपमा\n"
-                 "      खरगोश का रक्त\n"
-                 "      लाक्षा का रस\n"
-                 "    धोने पर\n"
-                 "      रंग छूट जाए\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"शुद्ध आर्तव\"] --> U[\"रंग की उपमा\"]\n"
+                 "  R --> W[\"धोने पर\"]\n"
+                 "  U --> U1[\"खरगोश का रक्त\"]\n"
+                 "  U1 ~~~ U2[\"लाक्षा का रस\"]\n"
+                 "  U --> U2\n"
+                 "  W --> W1[\"रंग छूट जाए\"]\n"),
     },
     ("23", "contrast"): {
         "file": "sh1-taru-upama-23.svg",

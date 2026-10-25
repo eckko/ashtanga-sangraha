@@ -979,9 +979,10 @@ IMAGE_SPECS = {
                 "to 'non-distinction as it were is seen'; a dotted link notes that their functions are distinct."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"१ परस्पर सन्निकर्ष\"] --> D[\"अविभाग इव लक्ष्यते\"]\n"
-                 "  B[\"२ सदृश कर्मत्व\"] --> D\n"
+                 "  A[\"१ परस्पर<br/>सन्निकर्ष\"] --> D[\"अविभाग इव लक्ष्यते\"]\n"
+                 "  B[\"२ सदृश<br/>कर्मत्व\"] --> D\n"
                  "  C[\"३ सौक्ष्म्य\"] --> D\n"
+                 "  D ~~~ E\n"
                  "  E[\"पर कर्म विभक्त\"] -.-> D\n"),
     },
     ("85", "diagram"): {

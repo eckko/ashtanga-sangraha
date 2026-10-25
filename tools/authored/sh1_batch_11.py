@@ -929,15 +929,15 @@ IMAGE_SPECS = {
     },
     ("138", "diagram"): {
         "file": "sh1-sattva-karana-138.svg",
-        "alt": ("Mind map of unit 138: the factors that bring about special features of sattva (mind): the sattva of mother "
-                "and father, the repeated hearings, one's own accumulated karma, and past practice."),
+        "alt": ("Chart of unit 138: the factors that bring about special features of sattva (mind): the sattva of mother and father, the repeated hearings, one's own accumulated karma, and past practice."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  सत्त्व-विशेष के कारण\n"
-                 "    माता-पिता का सत्त्व\n"
-                 "    बार-बार के श्रवण\n"
-                 "    स्वोपचित कर्म\n"
-                 "    पूर्वाभ्यास\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"सत्त्व-विशेष के कारण\"] --> A[\"माता-पिता का<br/>सत्त्व\"]\n"
+                 "  R --> C[\"स्वोपचित कर्म\"]\n"
+                 "  A ~~~ B[\"बार-बार के<br/>श्रवण\"]\n"
+                 "  C ~~~ D[\"पूर्वाभ्यास\"]\n"
+                 "  R --> B\n"
+                 "  R --> D\n"),
     },
     ("142", "chain"): {
         "file": "sh1-pumsavana-kala-142.svg",
@@ -952,17 +952,14 @@ IMAGE_SPECS = {
     },
     ("143", "diagram"): {
         "file": "sh1-suputra-143.svg",
-        "alt": ("Mind map of unit 143: those born thus are beautiful, of great sattva and long-lived; good sons are "
-                "releasers from debt, regarded so by those who have sons."),
+        "alt": ("Chart of unit 143: those born thus are beautiful, of great sattva and long-lived; good sons are releasers from debt, regarded so by those who have sons."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  इकाई १४३\n"
-                 "    ऐसे जन्मे\n"
-                 "      रूपवान\n"
-                 "      महासत्त्व\n"
-                 "      दीर्घायु\n"
-                 "    सुपुत्र\n"
-                 "      ऋण से छुड़ाने वाले\n"
-                 "      पुत्रवालों के माने\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"इकाई १४३\"] --> A[\"ऐसे जन्मे\"]\n"
+                 "  R --> B[\"सुपुत्र\"]\n"
+                 "  A --> A1[\"रूपवान\"]\n"
+                 "  A1 ~~~ A2[\"महासत्त्व\"] ~~~ A3[\"दीर्घायु\"]\n"
+                 "  B --> B1[\"ऋण से<br/>छुड़ाने वाले\"]\n"
+                 "  B1 ~~~ B2[\"पुत्रवालों<br/>के माने\"]\n"),
     },
 }

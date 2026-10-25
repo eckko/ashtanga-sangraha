@@ -851,13 +851,12 @@ IMAGE_SPECS = {
     },
     ("146", "diagram"): {
         "file": "sh5-snayu-vibhaga-146.svg",
-        "alt": ("Pie chart of the 900 snāyus of unit 144 as the data's check divides them: limbs 600 (unit 145), trunk 230 "
-                "(unit 146), above 70 (unit 147)."),
+        "alt": ("Chart of the 900 snāyus of unit 144 as the data's check divides them: limbs 600 (unit 145), trunk 230 (unit 146), above 70 (unit 147)."),
         "type": "mermaid",
-        "code": ("pie title नौ सौ स्नायुओं का बँटवारा\n"
-                 "    \"शाखाएँ ६००\" : 600\n"
-                 "    \"अन्तराधि (धड़) २३०\" : 230\n"
-                 "    \"ऊर्ध्व ७०\" : 70\n"),
+        "code": ("flowchart TD\n"
+                 "  T[\"नौ सौ स्नायुओं का बँटवारा\"] --> A[\"शाखाएँ ६००\"]\n"
+                 "  T --> B[\"अन्तराधि (धड़) २३०\"]\n"
+                 "  T --> C[\"ऊर्ध्व ७०\"]\n"),
     },
     ("148", "chain"): {
         "file": "sh5-padanguli-snayu-148.svg",

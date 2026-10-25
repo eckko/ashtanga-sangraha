@@ -909,14 +909,14 @@ AIDS = {
 IMAGE_SPECS = {
     ("102", "diagram"): {
         "file": "sh2-jatyandha-102.svg",
-        "alt": ("Flowchart of unit 102: tejas that has not reached the share of sight is congenital blindness; the same, "
-                "followed by Vata, gives deformed, dry, reddish eyes; by Pitta, tawny eyes; by Kapha, white eyes; by rakta, "
-                "red eyes (four numbered branches in printed order)."),
+        "alt": ("Flowchart of unit 102: tejas that has not reached the share of sight is congenital blindness; the same, followed by Vata, gives deformed, dry, reddish eyes; by Pitta, tawny eyes; by Kapha, white eyes; by rakta, red eyes (four numbered branches in printed order, two rows of two)."),
         "type": "mermaid",
         "code": ("flowchart TD\n"
-                 "  A[\"दृष्टिभाग तक न पहुँचा तेज\"] --> B[\"जात्यन्धत्व\"]\n"
-                 "  B -->|\"१ वात से\"| C[\"विकृत, रूखी, अरुण आँख\"]\n"
+                 "  A[\"दृष्टिभाग तक<br/>न पहुँचा तेज\"] --> B[\"जात्यन्धत्व\"]\n"
+                 "  B -->|\"१ वात से\"| C[\"विकृत, रूखी,<br/>अरुण आँख\"]\n"
                  "  B -->|\"२ पित्त से\"| D[\"पिंगल आँख\"]\n"
+                 "  C ~~~ E\n"
+                 "  D ~~~ F\n"
                  "  B -->|\"३ कफ से\"| E[\"सफ़ेद आँख\"]\n"
                  "  B -->|\"४ रक्त से\"| F[\"लाल आँख\"]\n"),
     },

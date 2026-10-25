@@ -958,14 +958,16 @@ IMAGE_SPECS = {
         "alt": ("Flowchart of unit 59: the other inner srotas, thirteen, are seats of life, and seats of five, numbered "
                 "in printed order: 1 prāṇa, 2 water, 3 food, 4 dhātu, 5 mala."),
         "type": "mermaid",
-        "code": ('flowchart TD\n'
-                 '  A["अन्य भीतरी स्रोतस: तेरह"] --> B["जीवन के आयतन"]\n'
-                 '  A --> C["इनके आयतन"]\n'
-                 '  C --> P1["१ प्राण"]\n'
-                 '  C --> P2["२ उदक (जल)"]\n'
-                 '  C --> P3["३ अन्न"]\n'
-                 '  C --> P4["४ धातु"]\n'
-                 '  C --> P5["५ मल"]\n'),
+        "code": ("flowchart TD\n"
+                 "  A[\"अन्य भीतरी<br/>स्रोतस: तेरह\"] --> B[\"जीवन के आयतन\"]\n"
+                 "  A --> C[\"इनके आयतन\"]\n"
+                 "  C --> P1[\"१ प्राण\"]\n"
+                 "  C --> P2[\"२ उदक (जल)\"]\n"
+                 "  P1 ~~~ P3[\"३ अन्न\"] ~~~ P5[\"५ मल\"]\n"
+                 "  P2 ~~~ P4[\"४ धातु\"]\n"
+                 "  C --> P3\n"
+                 "  C --> P4\n"
+                 "  C --> P5\n"),
     },
     ("61", "chain"): {
         "file": "sh6-pranavaha-dushti-61.svg",

@@ -940,13 +940,12 @@ IMAGE_SPECS = {
     },
     ("45", "diagram"): {
         "file": "sh6-kulya-upama-45.svg",
-        "alt": ("Flowchart of the simile of unit 45: the dhamanīs moisten this body, as water-carrying ones a garden and "
-                "canals a field."),
+        "alt": ("Flowchart of the simile of unit 45, three pairs stacked: the dhamanīs moisten this body, as water-carrying ones a garden and canals a field."),
         "type": "mermaid",
-        "code": ('flowchart TD\n'
-                 '  A["धमनियाँ, ताभिः"] --> B["यह शरीर, कायः (आर्द्र होता है)"]\n'
-                 '  C["जल ले जाने वालियाँ"] --> D["उद्यान, आरामः (जैसे)"]\n'
-                 '  E["नहरें, कुल्याः"] --> F["खेत, केदारः (जैसे)"]\n'),
+        "code": ("flowchart LR\n"
+                 "  A[\"धमनियाँ, ताभिः\"] --> B[\"यह शरीर, कायः<br/>(आर्द्र होता है)\"]\n"
+                 "  C[\"जल ले जाने<br/>वालियाँ\"] --> D[\"उद्यान, आरामः<br/>(जैसे)\"]\n"
+                 "  E[\"नहरें, कुल्याः\"] --> F[\"खेत, केदारः<br/>(जैसे)\"]\n"),
     },
     ("47", "diagram"): {
         "file": "sh6-dhamani-disha-47.svg",

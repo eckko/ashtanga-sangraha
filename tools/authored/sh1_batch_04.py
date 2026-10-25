@@ -896,33 +896,27 @@ IMAGE_SPECS = {
     },
     ("45", "diagram"): {
         "file": "sh1-paittika-shukra-45.svg",
-        "alt": ("Mind map of unit 45: in the Pitta-type (fault of shukra), ghee drink cooked with kandekshu (possible reading), shvadamshtra and "
-                "guduchi, with murva and madhuka as the addition."),
+        "alt": ("Chart of unit 45: in the Pitta-type (fault of shukra), ghee drink cooked with kandekshu (possible reading), shvadamshtra and guduchi, with murva and madhuka as the addition."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  पैत्तिक: सर्पिःपान\n"
-                 "    साथ पका\n"
-                 "      काण्डेक्षु, पाठ सम्भावित\n"
-                 "      श्वदंष्ट्रा\n"
-                 "      गुडूची\n"
-                 "    प्रतीवाप\n"
-                 "      मूर्वा\n"
-                 "      मधुक\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"पैत्तिक: सर्पिःपान\"] --> S[\"साथ पका\"]\n"
+                 "  R --> P[\"प्रतीवाप\"]\n"
+                 "  S --> S1[\"काण्डेक्षु,<br/>पाठ सम्भावित\"]\n"
+                 "  S1 ~~~ S2[\"श्वदंष्ट्रा\"] ~~~ S3[\"गुडूची\"]\n"
+                 "  P --> P1[\"मूर्वा\"]\n"
+                 "  P1 ~~~ P2[\"मधुक\"]\n"),
     },
     ("49", "diagram"): {
         "file": "sh1-shlaishmika-shukra-49.svg",
-        "alt": ("Mind map of unit 49: in the Kapha-type, ghee drink cooked with a decoction of pashanabhedaka, ashmantaka and "
-                "amalaka, with powder of pippali and madhuka as the addition."),
+        "alt": ("Chart of unit 49: in the Kapha-type, ghee drink cooked with a decoction of pashanabhedaka, ashmantaka and amalaka, with powder of pippali and madhuka as the addition."),
         "type": "mermaid",
-        "code": ("mindmap\n"
-                 "  श्लैष्मिक: सर्पिःपान\n"
-                 "    क्वाथ में पका\n"
-                 "      पाषाणभेदक\n"
-                 "      अश्मन्तक\n"
-                 "      आमलक\n"
-                 "    चूर्ण-प्रतीवाप\n"
-                 "      पिप्पली\n"
-                 "      मधुक\n"),
+        "code": ("flowchart TD\n"
+                 "  R[\"श्लैष्मिक: सर्पिःपान\"] --> S[\"क्वाथ में पका\"]\n"
+                 "  R --> P[\"चूर्ण-प्रतीवाप\"]\n"
+                 "  S --> S1[\"पाषाणभेदक\"]\n"
+                 "  S1 ~~~ S2[\"अश्मन्तक\"] ~~~ S3[\"आमलक\"]\n"
+                 "  P --> P1[\"पिप्पली\"]\n"
+                 "  P1 ~~~ P2[\"मधुक\"]\n"),
     },
     ("51", "contrast"): {
         "file": "sh1-vireka-asthapana-51.svg",
