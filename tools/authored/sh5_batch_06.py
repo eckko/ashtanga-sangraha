@@ -486,7 +486,7 @@ AUTHORED["72"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 72, with what is the blood joined?",
-            ("With anila (Vāta)", "अनिलयोगात्: from union with anila, the doṣa Vāta."),
+            ("With anila", "अनिलयोगात्: from union with anila, the doṣa Vāta."),
             [("With cool water", "No water is named in unit 72."),
              ("With milk and honey", "No milk or honey is named in unit 72."),
              ("With the mother's food", "No food is named in unit 72.")],

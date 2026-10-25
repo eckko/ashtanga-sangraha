@@ -379,7 +379,7 @@ AUTHORED["33"] = {
     "core": False,
     "questions": [
         mcq("pretest", 0, "By unit 33, what becomes anuloma?",
-            ("Vāyu (Vāta)", "वायुश्चानुलोमः संपद्यते."),
+            ("Vāyu", "वायुश्चानुलोमः संपद्यते: vāyu, the Vāta in the body."),
             [("Urine and stool", "They become natural (प्रकृतिभूत), in unit 34."),
              ("The afterbirth", "The jarāyu goes to the passage, in unit 34."),
              ("The belly", "The belly becomes soft, in unit 32.")],

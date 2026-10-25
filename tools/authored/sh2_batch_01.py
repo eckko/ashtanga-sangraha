@@ -262,7 +262,7 @@ AUTHORED["5"] = {
     "questions": [
         mcq("pretest", 0, "By unit 5, what splits śukra and ārtava into pieces?",
             ("Anila (Vāta)", "अनिलेन = by anila (Vāta)."),
-            [("The jīva", "The jīva is named in unit 2, not here."),
+            [("The jīva (living soul)", "The jīva is named in unit 2, not here."),
              ("The mother's food", "No food is named in this unit."),
              ("The great elements", "The elements are named in unit 2, not here.")],
             "शुक्रार्तवेऽनिलेन खण्डशो भिन्ने: split into pieces by anila (Vāta).",
